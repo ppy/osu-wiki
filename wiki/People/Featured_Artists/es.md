@@ -108,6 +108,7 @@ La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (fundador) |
 | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) | [Sparxe](https://osu.ppy.sh/beatmaps/artists/398) |
+| ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952) | [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |
 | ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) | [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) |
 | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) | [takehirotei](https://osu.ppy.sh/beatmaps/artists/428) |
