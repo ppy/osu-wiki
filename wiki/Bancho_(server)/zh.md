@@ -4,7 +4,7 @@ tags:
   - 基础组件
 ---
 
-# Bancho (游戏服务器)
+# Bancho （服务器）
 
 *关于其他用途，请参阅 [Bancho (消歧义)](/wiki/Disambiguation/Bancho).*
 
@@ -15,7 +15,7 @@ tags:
 - [多人游戏系统](/wiki/Client/Interface/Multiplayer)与[比赛管理](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
-![](img/connection-warning.png "连接状态不佳时，主菜单截图（右下角最左端图标）")
+![](img/connection-warning.png "连接状态不佳时，主菜单截图（右下角左数第一个图标）")
 :::
 
 在与 Bancho 的连接情况不佳时，osu! 会在屏幕右下角显示一个断链图标，以此来警告玩家。
