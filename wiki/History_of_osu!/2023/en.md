@@ -16,7 +16,7 @@ The [markup language](https://en.wikipedia.org/wiki/Markup_language) [BBCode](/w
 
 ## March
 
-In 2022's [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022), users were able to vote for their most favourite skin. The top three entries from 3rd to 1st place, respectively by [BatuhanYtho](https://osu.ppy.sh/users/12091015), [moonstaar](https://osu.ppy.sh/users/27339355), and [- Koshiin -](https://osu.ppy.sh/users/19135423), received custom badges as the contest's price. Each finalist ranging from place #1 to #10 was gifted different amounts of osu!supporter.[^soty-results]
+In 2022's [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) contest, users were able to vote for their most favourite skin. The top three entries from 1st to 3rd place, by [- Koshiin -](https://osu.ppy.sh/users/19135423), [moonstaar](https://osu.ppy.sh/users/27339355), and [BatuhanYtho](https://osu.ppy.sh/users/12091015) respectively, received custom badges as the contest's price. Each finalist ranging from place #1 to #10 was gifted different amounts of osu!supporter.[^soty-results]
 
 [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) played all ranked beatmaps in the [osu! game mode](/wiki/Game_mode/osu!) as of March 12 and is thus the third to receive the [osu!completionist](/wiki/People/Completionists) [user title](/wiki/Community/User_title).[^completionist-tweet]
 
