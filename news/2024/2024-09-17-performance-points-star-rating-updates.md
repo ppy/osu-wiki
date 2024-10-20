@@ -60,15 +60,11 @@ A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://os
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/island-repetition-nerf.png)
 
-### Speed distance hotfix
+### Flow aim hotfix
 
-A [change](https://github.com/ppy/osu/pull/29980) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) brings a minor change to a bonus applied for speed distance bonus.
+Fast flow aim is rewarded by taking into account the distance between objects and the general speed difficulty. These values used to be multipliers, but they're now additive instead. In effect, this nerfs fast spaced streams significantly.
 
-The distance bonus exists to reward flow aim by multiplying it with the speed difficulty. In this hotfix, rather than the bonuses being multiplicative, they have been changed to be additive to decrease the effect the distance bonus has on the speed value.
-
-In addition, the distance bonus scaling has been changed to decrease the reward for lower-spacing flow aim. Finally, a new multiplier was added to the final result of the distance bonus to decrease it overall.
-
-![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/distance-bonus.png)
+The same [change](https://github.com/ppy/osu/pull/29980) by [tsunyoku](https://osu.ppy.sh/users/11315329) additionally performs other minor changes to how these values are calculated, lowering them overall, especially for lower-spaced flow aim.
 
 ### Sliders now contribute to accuracy pp
 
