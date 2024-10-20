@@ -2,7 +2,7 @@
 
 *谱面否决权*是[谱面审核成员](/wiki/People/Beatmap_Nominators)在发现谱面存在明显质量问题，不适合[上架](/wiki/Beatmap/Category#ranked)时，中止谱面过审的权力。在[过审](/wiki/Beatmap_ranking_procedure#过审)之前，通过进一步讨论来解决质量问题，是谱面审核成员的主要责任。
 
-正如[谱面审核成员（BN）规章制度](/wiki/People/Beatmap_Nominators/Rules)中所述，只要他们在这一或这些游戏模式中拥有资格，任何 BN 都可以提出谱面否决。每次谱面否决都必须经过双方讨论（包括谱师和提出否决的 BN），来尽量取得双方的和解。
+正如[谱面审核成员 (BN) 规章制度](/wiki/People/Beatmap_Nominators/Rules)中所述，只要他们在这一或这些游戏模式中拥有资格，任何 BN 都可以提出谱面否决。每次谱面否决都必须经过双方讨论（包括谱师和提出否决的 BN），来尽量取得双方的和解。
 
 如果没有讨论或者讨论没有结果，并且有一方请求介入，那么[审核评估团队](/wiki/People/Nomination_Assessment_Team)（NAT）成员会举行仲裁，以支持或终止否决。对应游戏模式的 BN 和 NAT 成员会进行匿名仲裁投票。投票结束后，每位参与者的投票理由会与仲裁结果一起在谱面讨论中公布。
 

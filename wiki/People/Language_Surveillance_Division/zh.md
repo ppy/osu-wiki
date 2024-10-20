@@ -13,7 +13,7 @@ tags:
 
 *对于最新的管理员团队，参见：[全局管理团队](/wiki/People/Global_Moderation_Team)。*
 
-**语言监督分部** （俗称 *LSD*）是负责管理 osu! 内特定语言社区的用户组。每个成员都有不同的关注点：他们主要参与的语言频道，以及他们能管理的相应论坛版块（例如[帮助（Help）](https://osu.ppy.sh/community/forums/5)和[闲聊（Off-Topic）](https://osu.ppy.sh/community/forums/52)板块）。<!-- TicClick: no to-do, as it's hard enough to accomplish, but having the early history of the team and its roots, and a complete list of all chat moderators, would be appreciated -->
+**语言监督分部**（俗称 *LSD*）是负责管理 osu! 内特定语言社区的用户组。每个成员都有不同的关注点：他们主要参与的语言频道，以及他们能管理的相应论坛版块（例如[帮助 (Help)](https://osu.ppy.sh/community/forums/5) 和[闲聊 (Off-Topic)](https://osu.ppy.sh/community/forums/52) 板块）。<!-- TicClick: no to-do, as it's hard enough to accomplish, but having the early history of the team and its roots, and a complete list of all chat moderators, would be appreciated -->
 
 ## 任务
 

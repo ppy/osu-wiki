@@ -1,8 +1,8 @@
 # 谱面审核成员等级
 
-**谱面审核成员等级**是一种区分[谱面审核成员](/wiki/People/Beatmap_Nominators)（*BN*）等级高低的方式，它模仿了[作图辅助团队](/wiki/People/Mapping_Assistance_Team)和[谱面审核团队](/wiki/People/Beatmap_Appreciation_Team)的区分。这一系统在 2017 年四月到九月被使用。
+**谱面审核成员等级**是一种区分[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 等级高低的方式，它模仿了[作图辅助团队](/wiki/People/Mapping_Assistance_Team)和[谱面审核团队](/wiki/People/Beatmap_Appreciation_Team)的区分。这一系统在 2017 年四月到九月被使用。
 
-该系统的出现，是为了适应[质量保证团队](/wiki/People/Quality_Assurance_Team)（*QAT*）的职责变化（由确保过审的谱面质量，变为总体的谱面审核管理）。QAT 希望把批准通过审核的权限只给 BN 中“最有能力”的成员，以此提升谱面质量。
+该系统的出现，是为了适应[质量保证团队](/wiki/People/Quality_Assurance_Team) (*QAT*) 的职责变化（由确保过审的谱面质量，变为总体的谱面审核管理）。QAT 希望把批准通过审核的权限只给 BN 中“最有能力”的成员，以此提升谱面质量。
 
 ## 权限
 
@@ -13,7 +13,7 @@
 
 为了判断一个谱面审核成员属于哪个等级，所有 BN 成员都会参加 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)。与之前的 BN 考试不同，这个考试内容是找出一组谱面中的主要错误。
 
-这个考试非常不可靠，大多数用户只能获得非常低的分数。最初，用户通过考试成绩而被划分为不同的等级，但排名前一半的用户分数太低，导致这种划分不可行。因此，只有取得了大于 50% 分数，且分数最高的 13 名用户获得了等级 2。最高分（76%）由 [Yuii-](https://osu.ppy.sh/users/2935923) 取得。
+这个考试非常不可靠，大多数用户只能获得非常低的分数。最初，用户通过考试成绩而被划分为不同的等级，但排名前一半的用户分数太低，导致这种划分不可行。因此，只有取得了大于 50% 分数，且分数最高的 13 名用户获得了等级 2。最高分 (76%) 由 [Yuii-](https://osu.ppy.sh/users/2935923) 取得。
 
 尽管当时计划了多场考试来区分用户等级，但在系统存在的 5 个月中，只进行了一场。
 
@@ -27,4 +27,4 @@
 
 ![](img/commentary.png "对 BN 等级的评价")
 
-谱面审核者等级是[正式谱面审核成员](/wiki/People/Beatmap_Nominators#正式成员)和[见习谱面审核成员](/wiki/People/Beatmap_Nominators#见习成员)分类的前身（新的分类在 2017 年九月提出）。 他们的权限几乎相同，但见习成员不能在见习等级中停留超过两个月。如果他们两个月还没有成为正式成员，那么会被彻底开除。
+谱面审核者等级是[正式谱面审核成员](/wiki/People/Beatmap_Nominators#正式成员)和[见习谱面审核成员](/wiki/People/Beatmap_Nominators#见习成员)分类的前身（新的分类在 2017 年九月提出）。他们的权限几乎相同，但见习成员不能在见习等级中停留超过两个月。如果他们两个月还没有成为正式成员，那么会被彻底开除。
