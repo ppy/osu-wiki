@@ -6,9 +6,9 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ## Statistics
 
-There is currently a total of **757** documented osu! originals.
+There is currently a total of **758** documented osu! originals.
 
-![Graph of osu! originals over time](img/originals-over-time.png?20241019)
+![Graph of osu! originals over time](img/originals-over-time.png?20241020)
 
 ## List of osu! originals
 
@@ -758,6 +758,12 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 |  |  | nominomu - solar sect of nm2 \~ nuclear notelock | [#1](https://osu.ppy.sh/beatmapsets/2039737) | Round of 16 NM2 |
+
+#### ![](/wiki/shared/mode/osu.png) [Shika Random Tournament](https://osu.ppy.sh/community/forums/topics/1951508)
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/imaginaryrea1ity/sugosugiii-takehirotei-remix "SoundCloud") |  | Shika-bu - Shikairo Days (sugosugiii & takehirotei Remix)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2258380) | Finals HD3 |
 
 #### ![](/wiki/shared/mode/osu.png) [Spring Flower Scramble: Wisteria](https://osu.ppy.sh/community/forums/topics/1717112)
 
