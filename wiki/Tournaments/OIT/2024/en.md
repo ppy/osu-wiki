@@ -89,6 +89,35 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Finals (week 1)
+
+- No Mod
+  1. [Team.Nekokan - Airman ga Taosenai (10-shuunen version) (Toumei Dragon) \[Holy Shit! Blue Dragon's Back!!\]](https://osu.ppy.sh/beatmapsets/1585350#osu/3238171)
+  2. [Rhapsody of Fire - Dawn of Victory (Ciyus Miapah) \[Gloria\]](https://osu.ppy.sh/beatmapsets/2224461#osu/4717705)
+  3. [Tsukimura Temari (CV: Ojika Nao) - Kanaetai, Koto Bakari (Felter) \[aku gakumas\]](https://osu.ppy.sh/beatmapsets/2267901#osu/4829636)
+  4. [USAO - Knight Rider (AncuL) \[Entry: 2449200\]](https://osu.ppy.sh/beatmapsets/2267869#osu/4829575)
+  5. [Spire - Somnambulism (rollpan) \[(:3[\_\_\_\_]=\]](https://osu.ppy.sh/beatmapsets/2207139#osu/4673567)
+- Hidden
+  1. [Dreamcatcher - Deja Vu (- SUBAK -) \[[RyuTell]'s Extreme\]](https://osu.ppy.sh/beatmapsets/1116910#osu/2348906)
+  2. [Doomsday - Okkusenman (Yeurobeet Remix) (Lefafel) \[Yeuroman\]](https://osu.ppy.sh/beatmapsets/1842636#osu/3784828)
+  3. [Sheena Ringo - Kouzen no Himitsu (Local Hero) \[another\]](https://osu.ppy.sh/beatmapsets/2000086#osu/4158057)
+- Hard Rock
+  1. [ReoNa - ANIMA (SkyFlame) \[EVERLASTING\]](https://osu.ppy.sh/beatmapsets/1219288#osu/2536719)
+  2. [bj.HaLo - Ende (Kiiwa) \[Kiiwa\]](https://osu.ppy.sh/beatmapsets/117240#osu/302168)
+  3. [II-L feat. amelie xoxo - THE EARTH (Ryuusei Aika) \[Zeta: Non-trivial\]](https://osu.ppy.sh/beatmapsets/1889101#osu/3900737)
+- Double Time
+  1. [Hoshimi Production - Pray for you (Satono Crown) \[Miracle\]](https://osu.ppy.sh/beatmapsets/2197632#osu/4650534)
+  2. [Akatsuki Records - S.A.R.I.E.L. (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/2091456#osu/4386843)
+  3. [Creepy Nuts - Otonoke (AirinCat) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/2260908#osu/4813545)
+  4. [Dragonforce - Fury Of The Storm (lesjuh) \[Kingcobra's Expert\]](https://osu.ppy.sh/beatmapsets/10460#osu/41646)
+- Free Mod
+  1. [-45 - Reishiki (-45) \[YaMaDarknesss' ultra\]](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677)
+  2. [Denkishiki Karen Ongaku Shuudan - Distorted Pain (Garden) \[Trauma\]](https://osu.ppy.sh/beatmapsets/2076201#osu/4346797)
+  3. [HyuN feat. LyuU - Cross Over (Sonnyc) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1270122#osu/2639521)
+  4. [Will Stetson - Nh-Uh-Uh. (Ryuusei Aika) \[Shiny Braixen's Expert\]](https://osu.ppy.sh/beatmapsets/1506277#osu/3861337)
+- Tiebreaker
+  1. **[gmtn. (witch's slave) - furioso melodia (Alumetorz) \[Wrath\]](https://osu.ppy.sh/beatmapsets/280107#osu/633993)**
+
 ### Semifinals
 
 - No Mod
