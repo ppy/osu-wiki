@@ -214,7 +214,7 @@ As an osu!catch player, what are your thoughts on lazer?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
-I didn't play that much osu!catch in lazer, but I used to play in Lazer to play Spotlights, and I saw it getting better and better over time. It feels good to play now, even though I still suffer some spike lags if I don't close everything else. But this is also probably because my PC is very very old ;c
+I didn't play that much osu!catch in lazer, but I used to play in lazer to play Beatmap Spotlights, and I saw it getting better and better over time. It feels good to play now, even though I still suffer some spike lags if I don't close everything else. But this is also probably because my PC is very very old ;c
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
