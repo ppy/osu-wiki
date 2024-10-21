@@ -54,7 +54,7 @@ Hi Predominador, thanks for joining us today! Just like in our other interviews,
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
-Hello! I am Predominador, from Brazil. I am a SS farmer in osu!catch, who recently reached 100k SS ranks! Besides SS, I also like to try to get some first places in songs I like (or any other good placement), and from time to time to try to get new medals, too! Since a decade ago, I have been adventuring myself in all game modes, and like to play all of them, but currently I am mostly playing only osu!catch! My favorite mods are HD and FL.
+Hello! I am Predominador, from Brazil. I am an SS farmer in osu!catch, who recently reached 100k SS ranks! Besides SS, I also like to try to get some first places in songs I like (or any other good placement), and from time to time to try to get new medals, too! Since a decade ago, I have been adventuring myself in all game modes, and like to play all of them, but currently I am mostly playing only osu!catch! My favorite mods are HD and FL.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
@@ -122,7 +122,7 @@ To keep it brief, I basically prioritized longer and harder maps when I felt up 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-While grinding for SS ranks, did you have any struggles, and how did you manage overcome them?
+While grinding for SS ranks, did you have any struggles, and how did you manage to overcome them?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
 
