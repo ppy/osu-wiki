@@ -9,9 +9,9 @@ Have you ever wondered what's going on inside a score farmer's head? Today's you
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/banner.jpg)
 
-osu!catch players, rejoice, as we are releasing an interview with a figure you may know, [Predominador](https://osu.ppy.sh/users/4568537)! There are quite a few reasons you may have heard of them, from their [Beatmap Spotlights](/wiki/Beatmap_Spotlights) participation to reaching insane milestones, such as attaining 100,000 SS ranks, which they've achieved recently! Follow on to learn more about Predominador and their thoughts on some aspects of the game. 👀
+osu!catch players, rejoice, as we are releasing an interview with a figure you may know, [Predominador](https://osu.ppy.sh/users/4568537)! There are quite a few reasons you may have heard of them, from their [Beatmap Spotlights](/wiki/Beatmap_Spotlights) participation to reaching insane milestones, such as their recent achievement of attaining 100,000 SS scores!
 
-Now, let's get to reading!
+Read on to learn more about Predominador and their thoughts on some aspects of the game. 👀
 
 ---
 
@@ -67,6 +67,7 @@ How did you learn about osu! and was your first impression of it?
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 I got introduced in an anime-related page I used to follow in Facebook! They were kinda just recommending it, and somehow that caught my interest, so I downloaded the game the same day (23 June, 2014). My first impression of the game was very positive, it was full of songs I already knew, plus the challenging aspect of the game. Just this was needed to **catch** me and make me want to improve in osu! and keep playing it for a long time!
+
 By the way, the image below is basically the exact post I found about osu!. I tried to find it again, but sadly I think the page is gone. Luckily I took a screenshot before, and saved it :D
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/osu_post_screenshot.jpg)
@@ -153,7 +154,9 @@ How did you feel after finally reaching this goal? Did you maybe celebrate it in
 
 It was a mix of emotions, but I felt specially really relieved, because at that point I was postponing every other thing I wanted to do to avoid making it longer than it was already being (I also procrastinated a lot). Now I can continue watching Frieren \õ/ (for example)!
 
-About celebration, kinda. It didn't happen the way I planned, though. I was planning to reach it while livestreaming in a Discord call with some friends (and listening to them and chatting by text), which is something I even started to do, but the grind took longer than I expected. When I was getting closer, it was very late night already. And I didn't want to let it to the "next day" (it was already September 25th) because, fun fact, it was also my birthday (and this really wasn't planned, in my expectations I was supposed to reach it at most around day 10 of September)! So, even my friends said to finish it, then when I wake up again I could just rest and celebrate! They followed me in the most part of the journey, though. Not just in that day, some of them follow my progress since years, and I am very grateful for that :D
+About celebration, kinda. It didn't happen the way I planned, though. I was planning to reach it while livestreaming in a Discord call with some friends (and listening to them and chatting by text), which is something I even started to do, but the grind took longer than I expected.
+
+When I was getting closer, it was very late night already. And I didn't want to let it to the "next day" (it was already September 25th) because, fun fact, it was also my birthday (and this really wasn't planned, in my expectations I was supposed to reach it at most around day 10 of September)! So, even my friends said to finish it, then when I wake up again I could just rest and celebrate! They followed me in the most part of the journey, though. Not just in that day, some of them follow my progress since years, and I am very grateful for that :D
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
@@ -198,6 +201,7 @@ Following up on the previous question, what are your thoughts on the current sta
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 I think that the badges are really cool, it needs to be updated more frequently, though... but PERSONALLY, I feel titles are more cool in completionist cases. It's very very unique thing to do, and it just keeps getting harder and harder to complete the game, since there are maps getting ranked everyday!
+
 But related to that, same as what to happens in [this page](/wiki/People/Completionists), I feel it would be cool to have some page in the wiki that register players that grind other things and reach specific marks too, and when. As for example SS and Ranked Score, which are some of other things that many usually grind nowadays. Who already reached 50k SS in osu!catch and WHEN did they reach it? and in osu!? osu!taiko? osu!mania? I feel those things are important not only to keep history registered, but to all players who grind other things also get recognized by their efforts too, which is usually underestimated and underappreciated.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
@@ -275,6 +279,7 @@ Are you planning on setting new achievements in the future, and if so, what woul
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 For now, I have 2 concrete plans: to reach 101k SS, because it means reach 100k SS Silver; and to reach 1 Trillion ranked score, which is actually something I never did grind directly, it just happened to me gaining a lot due consequences of SS farming... but I think it'd be cool to reach 1 trillion (for now just syu did it), and I am already close to do both, actually. However, for now, I am prioritizing rest.
+
 After that, I will probably return to try to get some medals I still don't have, osu!catch exclusive maps completionist, and also improve my skill not only in osu!catch, but other game modes too. Other specific goals I will think more about in the future!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
@@ -301,7 +306,7 @@ And thanks for the opportunity to be interviewed on The Followpoint, it was real
 
 Many thanks to Predominador for agreeing to this interview and their thoughtful answers! And of course, thank you so much to every one of you who support this series, it means the world to us!
 
-Please look forward to a new, ***very special interview*** coming out in the next three weeks, and make sure to keep an eye on the news feed! You may also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) to see more updates and question submissions for future interviews.
+Please look forward to a new, ***very special interview*** coming out in the next three weeks, and make sure to keep an eye on the news feed! You may also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) (We also have a [Bluesky account](https://bsky.app/profile/thefollowpoint.megamix.dev) now!) to see more updates and question submissions for future interviews.
 
 See you next time! <3
 
