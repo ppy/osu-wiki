@@ -44,8 +44,8 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | 맵풀 셀렉터 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731) |
 | 맵풀 퀄리티 보증 | ::{ flag=CA }:: [Alden](https://osu.ppy.sh/users/3545323), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097),  ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604) |
 | 맵풀 플레이테스터 | *TBA* |
-| 매퍼 | *TBA* |
-| 해설 | *TBA* |
+| 매퍼 | ::{ flag=HK }:: [Aerousea](https://osu.ppy.sh/users/15664628), ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=US }:: [ajmosca](https://osu.ppy.sh/users/19884809), ::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=US }:: [fooders](https://osu.ppy.sh/users/7545218), ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687), ::{ flag=KR }:: [milr\_](https://osu.ppy.sh/users/4485933), ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768), ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929) |
+| 해설 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=CA }:: [I\-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | 심판 | *TBA* |
 | 통계 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | GFX | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719) |
@@ -58,6 +58,7 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - [토너먼트 목록](https://osu.ppy.sh/community/tournaments/47)
 - [Challonge 대진표](https://challonge.com/OWC24)
 - [Pick'ems 승부예측 페이지](https://pickem.hwc.hr/tournaments/158) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
+- [트위치 VOD 모음)](https://www.twitch.tv/collections/P0Fp2MQ_ABijBw)
 
 ## Participants
 
@@ -130,6 +131,29 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 | ::{ flag=VN }:: | **베트남** | **[def](https://osu.ppy.sh/users/21619075)**, [\_ Freedom \_](https://osu.ppy.sh/users/3999831), [\_Casiofx580vnx](https://osu.ppy.sh/users/848961), [Another Guy](https://osu.ppy.sh/users/4540667), [Ayamaki](https://osu.ppy.sh/users/16396650), [baoo](https://osu.ppy.sh/users/11021073), [t4hN](https://osu.ppy.sh/users/18948749), [walle](https://osu.ppy.sh/users/8431549) |
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/8384063b39b9991421fec24df0e04ceb) 볼 수 있습니다.
+
+## 맵풀
+
+### 퀄리파이어
+
+**[맵팩은 여기서 다운로드가 가능합니다 (71 MB)](https://packs.ppy.sh/P263%20-%20osu!%20World%20Cup%202024%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2281065609)
+
+- No Mod
+  1. [ELFENSJoN - LUNATIC MIRAGE (Atipir) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/2267928#osu/4829681)
+  2. [technoplanet - Intuition (Enon, enri) \[Enon x enri's Clairvoyance\]](https://osu.ppy.sh/beatmapsets/2267909#osu/4829650)
+  3. [Risa Yuzuki - Imitator (ajmosca) \[Mirror Image\]](https://osu.ppy.sh/beatmapsets/2268000#osu/4829849)
+  4. [polysha - Nyx Metropolis (Aerousea) \[Eternal Noctilucous\]](https://osu.ppy.sh/beatmapsets/2268001#osu/4829851)
+- Hidden
+  1. [Toromaru - Deorbit (Wispy) \[Retrograde\]](https://osu.ppy.sh/beatmapsets/2268007#osu/4829864)
+  2. [\*namirin - Koishiteiku Planet (Gibune) \[Easy\]](https://osu.ppy.sh/beatmapsets/2267967#osu/4829785)
+- Hard Rock
+  1. [BlackY - Lambda (fooders) \[lambdacore\]](https://osu.ppy.sh/beatmapsets/2268009#osu/4829866)
+  2. [P4koo - Crystal Illusion (milr\_) \[Expert\]](https://osu.ppy.sh/beatmapsets/2267934#osu/4829693)
+- Double Time
+  1. [Pegboard Nerds - We Are One (Original Vocal Mix) (Aistre) \[Epic\]](https://osu.ppy.sh/beatmapsets/2267993#osu/4829833)
+  2. [-45 - Xna (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/2267990#osu/4829830)
+  3. [Annabel - Transient (dasdwqdf, maot) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/2268017#osu/4829883)
 
 ## 규칙
 
