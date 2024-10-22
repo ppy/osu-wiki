@@ -11,7 +11,7 @@ tags:
 
 ![GBC 2024 Autumn banner](img/banner.png)
 
-The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) is a 3v3 captain draft–based osu!mania 4-key tournament hosted by Team GB. It was the seventh instalment of the GB Cup.
+The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) is a 3v3 captain draft–based osu!mania 4-key tournament hosted by Team GB. It is the seventh instalment of the GB Cup.
 
 ## Tournament schedule
 
