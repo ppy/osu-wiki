@@ -5,6 +5,7 @@ tags:
   - GBC2024
   - GBC 2024
   - GBC2024Autumn
+  - GBC 2024 Autumn
 ---
 
 # GBC 2024 秋季赛
@@ -42,7 +43,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | 工作人员 | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
 | 图池管理 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
 | 推图 | ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CN }:: [\[GB\]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771) |
-| 裁判 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [Apr4th](https://osu.ppy.sh/users/20485400), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [bili_TYL](https://osu.ppy.sh/users/30993101), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814), ::{ flag=CN }:: [80zero](https://osu.ppy.sh/users/12301332), ::{ flag=CN }:: [KitoriQAQ](https://osu.ppy.sh/users/28653364), ::{ flag=CN }:: [Cris_DK](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=CN }:: [Rync_](https://osu.ppy.sh/users/18242164), ::{ flag=CN }:: [FenggeTGOB](https://osu.ppy.sh/users/35928532), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[GB\]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=JP }:: [yoshyap](https://osu.ppy.sh/users/16608860), ::{ flag=HK }:: [minatoaquafan69](https://osu.ppy.sh/users/18111392) |
+| 裁判 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [Apr4th](https://osu.ppy.sh/users/20485400), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [bili_TYL](https://osu.ppy.sh/users/30993101), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814), ::{ flag=CN }:: [80zero](https://osu.ppy.sh/users/12301332), ::{ flag=CN }:: [KitoriQAQ](https://osu.ppy.sh/users/28653364), ::{ flag=CN }:: [Cris_DK](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=CN }:: [Rync_](https://osu.ppy.sh/users/18242164), ::{ flag=CN }:: [FenggeTGOB](https://osu.ppy.sh/users/35928532), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[GB\]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=JP }:: [yoshyap](https://osu.ppy.sh/users/16608860), ::{ flag=HK }:: [minatoaquafan69](https://osu.ppy.sh/users/18111392), ::{ flag=CN }:: [LightingT](https://osu.ppy.sh/users/34739432) |
 | 测试 | ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [nobder](https://osu.ppy.sh/users/13577309), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=JP }:: [yoshyap](https://osu.ppy.sh/users/16608860), ::{ flag=HK }:: [minatoaquafan69](https://osu.ppy.sh/users/18111392), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CN }:: [Shiki Natsume](https://osu.ppy.sh/users/6997459), ::{ flag=CN }:: [bili_TYL](https://osu.ppy.sh/users/30993101) |
 | 解说 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | 转播 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740) |
@@ -107,6 +108,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
       - 所有的截图**必须**使用 `Shift` + `F12` 在游戏内截取，并提交到 `https://osu.ppy.sh/` 域名下获得，其他方式的截图均会被拒绝。
       - 如果比赛是官方流转播的，作为最后手段，选手分数可以从官方流的转播处获得。
 11. 如果比赛时一方凑不齐最少的比赛人数，比赛可以被推迟最多 10 分钟。如果 10 分钟后还是缺人，那么在场选手最多的队伍会被判胜。
+    - 最少的比赛人数是指在比赛房间中没有任何空位的情况下进行比赛所需的玩家数量（即每队必须有 3 名选手在场才能开始比赛）。
 12. 除了触发特定规则的情况下，比赛中可以自由上下选手，有关详细信息，请参阅 [比赛流程](#比赛流程)。
 13. **每队人数为 5 人**。
     - 可能会随报名人数产生变动。
@@ -164,8 +166,8 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 1. 资格赛结束之后，通过的选手将会进入*选秀阶段*进行组队，两个赛区分别组队。未被选择的选手将会被淘汰。
 2. 选秀结束后，两个赛区的队伍将会分别进行 6 轮瑞士轮*常规赛*，以决出各 8 支队伍进入淘汰赛，其他队伍将被淘汰。
-3. 预选赛结束后，两个赛区的队伍将会进行双败*淘汰赛*。
-4. 所有在败者组落败的队伍都会被淘汰，直至决出最后的冠军。
+3. 预选赛结束后，两个赛区的队伍将会进行单败*淘汰赛*。
+4. 所有在淘汰赛落败的队伍都会被淘汰，直至决出最后的冠军。
 
 ### 选秀介绍
 
@@ -230,10 +232,10 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 4. 每个队伍轮流从图池中选择一张谱面并进行比赛。
 5. 每次选图之后，选图一方**可以**禁用**一名**选手使其无法参加本局游戏，**但是 TB 除外**。随后另一方也可以禁用一名选手。
    - 每个人一场比赛只能被禁用一次。
-   - 未出场的选手不能被ban。
+   - 未出场的选手不能被 ban 。
      - 根据上面的规则，实际上第一张图两队都不能禁用选手，因为任何人都没出过场。
    - 先选图的队伍在第二局比赛中也不能禁用选手。
-   - 选图和ban人的消息应在同一条信息发送，如果拖延ban人，或造成分歧或误会，则裁判有权无视此次ban人行为。
+   - 选图和 ban 人的消息应在同一条信息发送，如果拖延 ban 人，或造成分歧或误会，则裁判有权无视此次 ban 人行为。
 6. 每个队伍有两分钟的时间选图和禁用选手，接下来有两分钟的时间准备就绪。
    - 选图方可以在选图时请求暂停，暂停时间为 2 分钟，将在选图时间结束后使用。
    - 非选图方或选图方已完成选图后需要请求暂停时，需要双方队长均同意才可使用。
@@ -259,7 +261,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
    - 淘汰赛图池: 17 张
 4. 除资格赛图池之外，每个图池包含一张 TB 决胜局谱面，也将在 FreeMod 条件下游玩。
 5. Freemod 允许的 mod 包括 `NoFail`, `Hidden`, `FadeIn`, `Flashlight`, 和 `Mirror`。
-6. 每个瑞士轮的第二轮和第三轮将共用一个图池。决赛轮将共用一个图池。
+6. 每个瑞士轮的第二轮和第三轮将共用一个图池，每个决赛轮将共用一个图池。
 
 ### 日程信息
 
