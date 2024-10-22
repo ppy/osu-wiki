@@ -66,6 +66,13 @@ Fast flow aim is rewarded by taking into account the distance between objects an
 
 The same [change](https://github.com/ppy/osu/pull/29980) by [tsunyoku](https://osu.ppy.sh/users/11315329) additionally performs other minor changes to how these values are calculated, lowering them overall, especially for lower-spaced flow aim.
 
+Here are a few examples of some of the most affected beatmaps by this change:
+
+- [VINXIS - Sidetracked Day [Infinity Inside]](https://osu.ppy.sh/beatmapsets/838182#osu/1754777) with DT: 10.5* --> 10.26*
+- [Koji Kondo - Slider [FREEDOM DiVE]](https://osu.ppy.sh/beatmapsets/1961109#osu/4064320) with DT: 10.65* --> 10.42*
+- [SHK - Flight of the Bumblebee (RST Classic) [Luscent's Extra]](https://osu.ppy.sh/beatmapsets/879890#osu/4614397) with DT and HR: 10.05* --> 9.87*
+- [Twilight Force - Valley of the Vale [Nymphuwua's Expert Collab]](https://osu.ppy.sh/beatmapsets/1913010#osu/4000950) with DT: 10.18* --> 10.01*
+
 ### Sliders now contribute to accuracy pp
 
 A [change](https://github.com/ppy/osu/pull/27063) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
