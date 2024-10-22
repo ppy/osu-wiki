@@ -11,7 +11,7 @@ As Autumn descends upon our lands like the falling leaves, so does another round
 
 It's time for another edition of Project Loved, your favourite community project where [Loved captains](https://loved.sh/contributors) submit picks, and the community has 10 days to speak their minds or hold their peace forevermore.
 
-You'll find the selection for this month as you scroll, and by clicking on a banner (or visiting the [Project Loved forum](https://loved.sh/contributors)), you can access the voting page and share your thoughts. As always, more information is available on the [wiki](/wiki/Community/Project_Loved) and the [Loved website](https://loved.sh).
+You'll find the selection for this month as you scroll, and by clicking on a banner (or visiting the [Project Loved forum](https://osu.ppy.sh/community/forums/120)), you can access the voting page and share your thoughts. As always, more information is available on the [wiki](/wiki/Community/Project_Loved) and the [Loved website](https://loved.sh).
 
 The keen-eyed among you might have noticed a pinned comment regarding playlists in osu!(lazer). We're happy to announce that the playlists are here to stay and will be a regular main-stay from here on out! Starting with this month's playlists, players that manage to retain a #1 position after the playlist ends (7 days after the news post goes live) will earn themselves 1 month of [osu!supporter](/wiki/osu!supporter)!
 
