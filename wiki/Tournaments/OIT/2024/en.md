@@ -99,7 +99,7 @@ The complete list of player registrations can be found [here](https://docs.googl
   5. [Spire - Somnambulism (rollpan) \[(:3[\_\_\_\_]=\]](https://osu.ppy.sh/beatmapsets/2207139#osu/4673567)
 - Hidden
   1. [Dreamcatcher - Deja Vu (- SUBAK -) \[[RyuTell]'s Extreme\]](https://osu.ppy.sh/beatmapsets/1116910#osu/2348906)
-  2. [Doomsday - Okkusenman (Yeurobeet Remix) (Lefafel) \[Yeuroman\]](https://osu.ppy.sh/beatmapsets/1842636#osu/3784828)
+  2. [IOSYS - Border of Extacy (Shinxyn) \[Doomsday\]](https://leopard.hosting.pecon.us/dl/nxtgh)[^mappool-note-1]
   3. [Sheena Ringo - Kouzen no Himitsu (Local Hero) \[another\]](https://osu.ppy.sh/beatmapsets/2000086#osu/4158057)
 - Hard Rock
   1. [ReoNa - ANIMA (SkyFlame) \[EVERLASTING\]](https://osu.ppy.sh/beatmapsets/1219288#osu/2536719)
@@ -361,3 +361,7 @@ Sunday, 6 October 2024:
 6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+
+## Notes
+
+[^mappool-note-1]: An instrumental track version of the map is used for this tournament.
