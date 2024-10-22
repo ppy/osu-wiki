@@ -58,7 +58,7 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - [토너먼트 목록](https://osu.ppy.sh/community/tournaments/47)
 - [Challonge 대진표](https://challonge.com/OWC24)
 - [Pick'ems 승부예측 페이지](https://pickem.hwc.hr/tournaments/158) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
-- [트위치 VOD 모음)](https://www.twitch.tv/collections/P0Fp2MQ_ABijBw)
+- [트위치 VOD 모음](https://www.twitch.tv/collections/P0Fp2MQ_ABijBw)
 
 ## Participants
 
@@ -137,7 +137,7 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 ### 퀄리파이어
 
 **[맵팩은 여기서 다운로드가 가능합니다 (71 MB)](https://packs.ppy.sh/P263%20-%20osu!%20World%20Cup%202024%3A%20Qualifiers.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2281065609)
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2281065609)
 
 - No Mod
   1. [ELFENSJoN - LUNATIC MIRAGE (Atipir) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/2267928#osu/4829681)
