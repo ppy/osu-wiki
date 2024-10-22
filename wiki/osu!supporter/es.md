@@ -9,7 +9,7 @@ tags:
 
 # osu!supporter
 
-![Imagen promocional de osu!supporter](img/supporter-eyecatch-ES.jpg)
+[![Imagen promocional de osu!supporter](img/supporter-eyecatch-ES.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (o la ***etiqueta de osu!supporter***) es un título temporal dado a los jugadores que apoyan a osu! de manera voluntaria con una donación monetaria para ayudarlo a crecer. Los supporters reciben un puñado de beneficios cosméticos y técnicos, la mayoría solo se presentan cuando el título está presente. Las características extras de osu!supporter no dan ningún tipo de ventaja en el juego, rendimiento o puntuación, y nunca lo hará.
 
