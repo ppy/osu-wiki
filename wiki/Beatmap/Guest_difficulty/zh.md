@@ -8,8 +8,6 @@ tags:
   - 客串谱面
   - 客串难度
   - 客串图
-outdated_translation: true
-outdated_since: 027b9fddf66f3afb730270124a3771ae09ad8f77
 ---
 
 # 客串难度
@@ -30,4 +28,4 @@ outdated_since: 027b9fddf66f3afb730270124a3771ae09ad8f77
 
 在[谱面讨论帖](/wiki/Beatmap_discussion)上，谱面所有者可以用`难度作者`按钮让对应谱师拥有客串难度所有权。这可以让客串难度所有者自己解决难度中待处理的问题。
 
-如果谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#qualified)、[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 或[社区喜爱 (Loved)](/wiki/Beatmap/Category#loved) 状态，则无法更改客串难度所有权。
+如果谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#qualified)、[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 或[社区喜爱 (Loved)](/wiki/Beatmap/Category#loved) 状态，除非 [GMT](/wiki/People/Global_Moderation_Team) 或 [NAT](/wiki/People/Nomination_Assessment_Team) 成员许可，否则无法更改客串难度所有权。
