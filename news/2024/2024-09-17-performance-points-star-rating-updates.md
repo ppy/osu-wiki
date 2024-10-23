@@ -107,7 +107,7 @@ The previous system made to assess the stamina requirement for maps assumed two 
 
 The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) introduces variable finger counts for stamina assessment. Mono-colour patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts.
 
-Additionally, convert-specific nerfs have been removed from difficulty calculations to ensure that converts are weighted fairly against mode-specific maps. The changes to finger count availability also ensure that more *niche* skill sets are fairly represented.
+Additionally, convert-specific nerfs have been removed from difficulty calculations to ensure that converts are weighted fairly against mode-specific maps. The changes to finger count availability also ensure that play styles using varying amounts of fingers per colour are fairly represented.
 
 ### Changes to the HDFL bonus in the accuracy component of performance calculation
 
