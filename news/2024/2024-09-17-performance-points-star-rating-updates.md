@@ -16,7 +16,39 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 ## Release schedule
 
-<!-- todo -->
+### ⏳ Star rating recalculation (24 - 48 hours)
+
+To begin, we will be recalculating the star rating of every beatmap across every game mode.
+
+This will be done live, so as the new SR values are applied to beatmaps, new scores arriving will get calculated using them. As a result, the PP you achieve may slightly deviate from expectations. Any PP values which don't match will be fixed in the following steps.
+
+Importantly, **the old PP algorithm will still be used, so the PP values achieved will not be final**.
+
+### ⏳ Freeze global rank updates
+
+We are about to reprocess every score in existence. Before doing this, we want to disable user rank updates. This means your current global / country rank (and graph) will be frozen in time until we're done reprocessing things.
+
+That said, if you play, your **total PP** will still immediately be updated. In addition, all new scores will now get their **correct new PP**.
+
+If we didn't do this, users would see their rank jump all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
+
+### ⏳ Reprocess performance values of all scores (3 - 10 days)
+
+We now need to reprocess all 3,734,343,198 scores. This is the most time-consuming part of the deploy process.
+
+During this period, scores in "best performance" may look to be out of order or not visible.
+
+In previous runs, we did this process starting on highest ranked users and working outwards, but this time around we're trying a different approach in order to more efficiently run the process. Even so, it's going to take a while.
+
+### ⏳ Reprocess total PP values for all users (12 hours)
+
+### ⏳ Re-enabling of global rank history updates
+
+Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
+
+### ⏳ Reindexing (2 - 3 days)
+
+This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 
 ## osu!
 
