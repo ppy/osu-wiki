@@ -14,7 +14,7 @@ tags:
 
 # osu! 支持者
 
-![osu!supporter 宣传页](img/supporter-eyecatch.jpg)
+[![osu!supporter 宣传页](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
 **osu! 支持者**（osu!supporter，也被称为 ***支持者标签***，玩家相传为 ***撒泼特***）是授予自愿捐款支持 osu! 发展玩家的临时头衔。支持者会在标签有效期内获得一些装扮或功能性方面的额外功能。但无论现在还是将来，osu! 支持者标签的额外功能不会给游戏内容、玩家水平或计分系统带来任何的优势。
 
