@@ -551,7 +551,8 @@ Qualifier results:
 7. A team's score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
 8. An optional 5-minute break will be offered between the first and second play-through of the mappool.
 9. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
-10. Only the top 32 seeded teams will advance to the Round of 32.
+10. The seeding method used for Qualifiers will be Rank sum — the highest combined team score for each map will receive a score of 1, the second highest a score of 2, and so on, for every map. These scores will then be added, and teams will be ranked from lowest sum (1st) to highest sum (last place). 
+11. Only the top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
 

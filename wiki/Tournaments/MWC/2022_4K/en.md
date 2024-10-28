@@ -546,7 +546,14 @@ The final standings for the Qualifier stage can be found at the following [sprea
 5. Each team must have 3 players for each map. They can be exchanged freely after a map is concluded.
 6. There will be an optional 5-minute break in between the first and second play-through of the mappool.
 7. All teams will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
-8. The top 32 seeded teams will advance to the Round of 32.
+8. The seeding method used for Qualifiers will be weighted Rank sum — the highest combined team score for each map will receive a score of 1, the second highest a score of 2, and so on, for every map, multiplied by the respective map's weight. These scores will then be added, and teams will be ranked from lowest sum (1st) to highest sum (last place).
+9. The top 32 seeded teams will advance to the Round of 32.
+
+The weights for the Qualifiers are as follows:
+
+|  | Stage 1 | Stage 2 | Stage 3  | Stage 4 | Stage 5 | Stage 6 | Stage 7 | Stage 8 |
+| --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Weight** | 0.1000 | 0.1500 | 0.1125  | 0.1125 | 0.1125 | 0.1125 | 0.1500 | 0.1500 |
 
 ### Stage instructions
 

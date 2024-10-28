@@ -553,8 +553,9 @@ The final standings for the Qualifier stage can be found at the following [sprea
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-9. Only the top 32 seeded teams will advance to the Round of 32.
-10. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
+9. The seeding method used for Qualifiers will be Rank sum — the highest combined team score for each map will receive a score of 1, the second highest a score of 2, and so on, for every map. These scores will then be added, and teams will be ranked from lowest sum (1st) to highest sum (last place). 
+10. Only the top 32 seeded teams will advance to the Round of 32.
+11. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
 
 ### Stage instructions
 
