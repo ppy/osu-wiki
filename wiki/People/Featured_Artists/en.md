@@ -108,6 +108,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (founder) |
 | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) | [Sparxe](https://osu.ppy.sh/beatmaps/artists/398) |
+| ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952) | [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |
 | ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) | [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) |
 | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) | [takehirotei](https://osu.ppy.sh/beatmaps/artists/428) |
@@ -115,6 +116,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=AU }:: [tomspicy](https://osu.ppy.sh/users/13210748) | [tomspicy](https://osu.ppy.sh/beatmaps/artists/437) |
+| ::{ flag=HK }:: [Trainer LOLXD](https://osu.ppy.sh/users/14817071) | [Trina Lydia](https://osu.ppy.sh/beatmaps/artists/440) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |
 | ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |
