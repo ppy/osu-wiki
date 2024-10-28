@@ -34,7 +34,7 @@ If we didn't do this, users would see their rank jump all over the place, as we 
 
 ### ⏳ Reprocess performance values of all scores (3 - 10 days)
 
-We now need to reprocess all 3,734,343,198 scores (yes, this includes **all stable and lazer scores set to date**). This is the most time-consuming part of the deploy process.
+We now need to reprocess all 3,734,343,198 scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!stable and osu!lazer). This is the most time-consuming part of the deploy process.
 
 During this period, scores in "best performance" may look to be out of order or not visible.
 
