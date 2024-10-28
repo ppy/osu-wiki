@@ -53,11 +53,18 @@ Here is a crossfade showcasing them all!
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/serenity.jpg)
 
-Previous iterations of the Resurrection Cup each had different themes, which combine into an overall narrative:
+Resurrection Cup’s themes have never been the same throughout the 3 iterations. This is mainly represented in the graphics side of production work, and most easily spotted through the main logos. 
+In 2022, the theme was about humanity still being alive and thriving even after a devastating apocalypse where afterwards the metropolitan areas of the planet are reclaimed by nature.
 
-- In 2022, the theme was about a thriving humanity even in a delapidated world reclaimed by nature.
-- In 2023, the theme was about a humanity that vanished without trace and and the cataclysm of planets, including Earth, colliding with each other.
-- This year, the story is that you, as the player or spectator of the tournament, are invited to a second chance at life, but must prove yourself worthy of reincarnation.
+![](https://phreel.s-ul.eu/GQvyYai6)
+
+In 2023, the last traces of humanity are now gone, as planets are colliding with one another, Earth isn’t any different. Represented by vibrant red and orange colors, a cataclysmic event that surely will not leave any living organism behind.
+
+![](https://phreel.s-ul.eu/lF5Rib4v)
+
+This year, you, as the player or viewer of the tournament series, are given a second chance at living. Now you are in the afterlife, you get a chance to prove yourself worthy. Worthy of reincarnation.
+
+![](https://phreel.s-ul.eu/D6hgHxlw)
 
 Here is a brief text based interview with her author:
 
