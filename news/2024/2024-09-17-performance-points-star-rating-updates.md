@@ -16,7 +16,7 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 ## Release schedule
 
-### ⏳ Star rating recalculation (24 - 48 hours)
+### 🏃 Star rating recalculation (24 - 48 hours, ETA 2024-10-30)
 
 To begin, we will be recalculating the star rating of every beatmap across every game mode.
 
