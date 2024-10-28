@@ -348,7 +348,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - To be successfully accepted on the list, players are required to be placed #10,000 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 6 players registered to have the chance to play the Qualifier stage.
-5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators,statisticians, and streamers.
+5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
    - The tournament managers must ensure that such staff members do not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
 
 ### Qualifier instructions
