@@ -455,9 +455,9 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 The weights for the Qualifiers are as follows:
 
-|  | Stage 1 | Stage 2 | Stage 3  | Stage 4 | Stage 5 | Stage 6 | Stage 7 | Stage 8 |
+|  | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | Stage 7 | Stage 8 |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Weight** | 0.1000 | 0.1625 | 0.1000  | 0.1250 | 0.1125 | 0.1125 | 0.1375 | 0.1500 |
+| **Weight** | 0.1000 | 0.1625 | 0.1000 | 0.1250 | 0.1125 | 0.1125 | 0.1375 | 0.1500 |
 
 ### Stage instructions
 
