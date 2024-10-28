@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Performance Points & Star Rating Updates
+title: "Performance Points & Star Rating Updates"
 date: 2024-10-28 13:00:00 +0000
 ---
 
