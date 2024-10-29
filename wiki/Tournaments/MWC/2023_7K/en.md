@@ -453,7 +453,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 6. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 7. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-8. The seeding method used for Qualifiers will be average rank, where each map's rank will be multiplied by a predetermined weight and then averaged (divided by the amount of maps in the mappool) to construct the team's final score, which is then sorted from lowest to highest rank, lowest being the best placement.
+8. The seeding method used for Qualifiers will be average rank, where each team's map rank will be multiplied by a predetermined weight and then averaged (added togheter, and subsequently divided by the amount of maps in the mappool) to construct that team's final score, which is then sorted from lowest to highest, lowest being the best placement.
    - The exact formula that will be used for each map is `Map score = RANK(Team score)`, where `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
    - The final team score to be sorted is defined as `Final score = SUM(Map score) / Mappool size`, i.e. the sum of each map's `Map score` divided by 8.
 9. The top 16 seeded teams will advance to the Round of 16.
