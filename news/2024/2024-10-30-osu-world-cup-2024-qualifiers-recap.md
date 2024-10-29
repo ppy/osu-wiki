@@ -38,7 +38,7 @@ A final, noteworthy highlight is the return of the osu!mania original [Toromaru]
 
 Qualifiers started off with a bang, already giving the community plenty to discuss. With 65 different countries competing for the top 32 spots, there were many heartbreaks, surprises, and first times.
 
-Starting off with the top 3, among the usual suspects lies a newcomer, Australia! Australia has been a very dominant team for many years, landing anywhere between the top 12 and top 5, but this year they look to be stronger than ever, achieving seed #3.
+Starting off with the top 3, among the usual suspects lies a newcomer, Australia! Australia has been a very dominant team for many years, landing anywhere between the top 12 and top 5, but this year they look to be stronger than ever, achieving seed #2.
 
 Next to them, we also have two goliaths of the osu! World Cup, the United States and South Korea, getting seeds #3 and #1 respectively. These two teams have been going at each other for two years straight, and even though the United States have managed to keep them off their backs so far, there are rumblings around the community that this year might be different.
 
