@@ -8,7 +8,7 @@ tags:
 
 # Vergangene Artikel aus dem osu!store
 
-In diesem Artikel werden verschiedene Produkte gezeigt, die mal im [osu!store](https://osu.ppy.sh/store/listing) verfügbar waren, mittlerweile aber nicht mehr produziert werden und auch nicht zum Verkauf stehen.
+Auf dieser Seite werden verschiedene Produkte gezeigt, die mal im [osu!store](https://osu.ppy.sh/store/listing) verfügbar waren, mittlerweile aber nicht mehr produziert werden und auch nicht zum Verkauf stehen.
 
 ## osu! goods
 
