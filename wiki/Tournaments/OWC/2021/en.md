@@ -542,7 +542,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 6. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
 7. An optional 5-minute break will be offered between the first and second play-through of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
-9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1), and every other team will be awarded a percentage of that top score. The individual map percentages will be added togheter to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1.
+9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1), and every other team will be awarded a percentage of that top score. The individual map percentages will be added together to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1.
    - The exact formula that will be used for all teams (and for each map) is `Map percentage = Team score / MAX score`, where:
      - `Map percentage` is the percentage awarded to the current team
      - `Team score` is the score the current team achieved on the current map
