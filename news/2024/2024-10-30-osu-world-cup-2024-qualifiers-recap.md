@@ -22,6 +22,8 @@ Speaking of the mappool, let's check out what the mappooling team cooked up this
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2281065609&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
+![Qualifier mappool table](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/mappool.jpg)
+
 The Qualifier pool for the osu! World Cup 2024 featured 11 maps, all custom-made specifically for the tournament. While it was a step-up in difficulty from last year, there were teams who still managed to FC some maps with all 4 players, which just shows that the playing field has been improving just as much, if not more, than the increase in challenge.
 
 Some highlights of the pool include [Crystal Illusion](https://osu.ppy.sh/beatmapsets/2267934#osu/4829693) by [milr_](https://osu.ppy.sh/users/4485933) (HR2), a Hard Rock precision map with challenging elements of flow aim and cut streams that was home to one of the most impressive scores in the entirety of the round, being an SS by [decaten](https://osu.ppy.sh/users/5645231) of team USA, and [We Are One (Original Vocal Mix)](https://osu.ppy.sh/beatmapsets/2267993#osu/4829833) by [Aistre](https://osu.ppy.sh/users/4879380) (DT1), a tricky, extremely fast aim map at a high AR on Double Time, which ended up challenging many players through its unusual patterning reminiscent of an older era.
@@ -36,7 +38,7 @@ A final, noteworthy highlight is the return of the osu!mania original [Toromaru]
 
 Qualifiers started off with a bang, already giving the community plenty to discuss. With 65 different countries competing for the top 32 spots, there were many heartbreaks, surprises, and first times.
 
-![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/owc-2024-ql-results.jpg)
+![Qualifier results table](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/results.jpg)
 
 Starting off with the top 3, among the usual suspects lies a newcomer, Australia! Australia has been a very dominant team for many years, landing anywhere between the top 12 and top 5, but this year they look to be stronger than ever, achieving seed #2.
 
