@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance Points & Star Rating Updates"
+title: Performance Points & Star Rating Updates
 date: 2024-10-28 11:16:34 +0000
 ---
 
@@ -16,7 +16,7 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 ## Release schedule
 
-### 🏃 Star rating recalculation (24 - 48 hours, ETA 2024-10-30)
+### ✅ Star rating recalculation (Completed 2024-10-29)
 
 To begin, we will be recalculating the star rating of every beatmap across every game mode.
 
@@ -32,13 +32,15 @@ That said, if you play, your **total PP** will still immediately be updated. In 
 
 If we didn't do this, users would see their rank jump all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
-### ⏳ Reprocess performance values of all scores (3 - 10 days)
+### 🏃 Reprocess performance values of all scores (3 - 10 days)
 
 We now need to reprocess all 3,734,343,198 scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!stable and osu!lazer). This is the most time-consuming part of the deploy process.
 
 During this period, scores in "best performance" may look to be out of order or not visible.
 
 In previous runs, we did this process starting on highest ranked users and working outwards, but this time around we're trying a different approach in order to more efficiently run the process. Even so, it's going to take a while.
+
+*peppynote: I'm running this in the background while preparing for the full run. Global ranks have not been frozen yet – this is unnecessary as I am starting by processing scores with low PP values.*
 
 ### ⏳ Reprocess total PP values for all users (12 hours)
 
