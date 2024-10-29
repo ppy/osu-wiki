@@ -30,19 +30,23 @@ A final, noteworthy highlight is the return of the osu!mania original [Toromaru]
 
 ## Qualifier highlights
 
+[**Check out the full Qualifier standings here!**](/wiki/Tournaments/OWC/2024)
+
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2287184079&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Qualifiers started off with a bang, already giving the community plenty to discuss. With 65 different countries competing for the top 32 spots, there were many heartbreaks, surprises, and first times.
 
-Starting off with the top 3, among the usual suspects lies a newcomer, Australia! Australia has been a very dominant team for many years, landing anywhere between the top 12 and top 5, but this year they look to be stronger than ever, achieving seed #3. Next to them, we also have two goliaths of the osu! World Cup, the United States and South Korea, getting seeds #3 and #1 respectively. These two teams have been going at each other for two years straight, and even though the United States have managed to keep them off their backs so far, there are rumblings around the community that this year might be the year.
+Starting off with the top 3, among the usual suspects lies a newcomer, Australia! Australia has been a very dominant team for many years, landing anywhere between the top 12 and top 5, but this year they look to be stronger than ever, achieving seed #3.
 
-When it came to the rest of the teams that are considered mainstays of the osu! World Cup such as Germany, the United Kingdom, Hong Kong, etc., there haven't been many changes, with Poland being the only major outlier. To the shock of many, Poland this year did not manage to place not just in the top 3, but not even in the top 10. With many of the veteran World Cup players not participating, it looks like it's time for the new generation to pick up the slack (with [Rafis](https://osu.ppy.sh/users/2558286) as their mentor) and maybe even restore Poland back to their old glory.
+Next to them, we also have two goliaths of the osu! World Cup, the United States and South Korea, getting seeds #3 and #1 respectively. These two teams have been going at each other for two years straight, and even though the United States have managed to keep them off their backs so far, there are rumblings around the community that this year might be different.
 
-As always, the most hype overall was generated for the teams that teetered on the edge of 32nd seed, the underdogs such as Belarus, Peru, Uruguay, Italy, etc. who may be new to the World Cup stage, but are eager to represent their country and show up what they are made of.
+When it came to the teams that are considered mainstays of the World Cup such as Germany, the United Kingdom, Hong Kong, etc., there haven't been many changes, with Poland being the only major outlier. To the shock of many, Poland this year did not manage to place not just in the top 3, but not even in the top 10. With many of the veteran World Cup players not participating, it looks like it's time for the new generation to pick up the slack (with [Rafis](https://osu.ppy.sh/users/2558286) as their mentor) and maybe even restore Poland back to their old glory.
 
-There were also teams that managed to qualify for the first time ever and try their hand at participating on the World Cup stage. Congratulations to Serbia, Macau, Ireland, Georgia, the Dominican Republic and Bosnia and Herzegovina, because even though they may have not placed this year, they show much potential for improvement, and the community will keep an eye out on their progress for years to come.
+As always, the most hype overall was generated for the teams that teetered on the edge of 32nd seed, the underdogs such as Belarus, Peru, Uruguay, Italy, etc., all eager to represent their country and show what they are made of.
+
+There were also teams that managed to qualify for the first time ever and try their hand at participating on the World Cup stage. Congratulations to Serbia, Macau, Ireland, Georgia, the Dominican Republic and Bosnia and Herzegovina, because even though they may have not placed this year, they show much potential for improvement.
 
 ## Mappooling team selector interview
 
@@ -103,7 +107,7 @@ Mappooling for the biggest tournament of the year is not an easy feat, especiall
 
 What are the challenges of map pooling for Qualifiers, considering that these pools set the bar for the minimum difficulty threshold that will be present across the tournament?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9119507" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9119507" style="background-image: url('/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/avatar-dada.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/9119507">Dada</a></p>
 
@@ -128,6 +132,8 @@ How does the map pooling team determine difficulty of Qualifiers map pools, and 
 It's common practice in most tournaments to base the qualifier difficulty off of the mid-range stages, and OWC is no exception. The Qualifiers this year are around 7.3*, which is parallel to our current Quarterfinals difficulty. The mid-range scope allows for a general assessment of a team's skill cap and consistency capabilities. It's important to recognize that while seeing your favourite players battle it out on extremely difficult maps may be incredible, we can't forget about consistency being the most vital skill set in tournament gameplay.
 
 As you've probably recognized, OWC has seen a drastic upward shift in difficulty over the last few years. Due to multiple factors like technological development, skill set refinement and overall player growth, the tournament as a whole has gotten much harder (OWC'24 RO32 being comparable to OWC'20 QF). Qualifiers has followed suit alongside the rest of the mappools. As players continue to grow and hone their craft, we'll do our best to continue to match the expectations.
+
+</div>
 
 ---
 
