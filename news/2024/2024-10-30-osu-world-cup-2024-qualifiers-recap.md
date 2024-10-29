@@ -36,7 +36,7 @@ A final, noteworthy highlight is the return of the osu!mania original [Toromaru]
 
 Qualifiers started off with a bang, already giving the community plenty to discuss. With 65 different countries competing for the top 32 spots, there were many heartbreaks, surprises, and first times.
 
-![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/qualifier-results.jpg)
+![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/owc-2024-ql-results.jpg)
 
 Starting off with the top 3, among the usual suspects lies a newcomer, Australia! Australia has been a very dominant team for many years, landing anywhere between the top 12 and top 5, but this year they look to be stronger than ever, achieving seed #2.
 
