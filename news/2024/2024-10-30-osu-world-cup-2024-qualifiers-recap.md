@@ -12,7 +12,7 @@ This year's osu! World Cup is set to be the biggest one ever, and it's got off t
 
 The other rule change relates to the mappools, with the mappooling team opting to lift restrictions from banning more than 1 map from each pool slot (e.g. Hidden, Double Time etc.), allowing teams to completely block a mod from being played. The reasoning behind this is that modern mappools ditched the "slot pooling" meta for a more varied pool, with each map showcasing a different skill, so it didn't make sense to keep this rule in place.
 
-Speaking of the mappool, let's check out what the mappooling team cooked up this week, and later on we'll talk to [chiv] and [Dada] about mappooling for Qualifiers at such a high level of play.
+Speaking of the mappool, let's check out what the mappooling team cooked up this week, and later on we'll talk to [chiv](https://osu.ppy.sh/users/6701656) and [Dada](https://osu.ppy.sh/users/6701656) about mappooling for Qualifiers at such a high level of play.
 
 ## Mappool recap
 
