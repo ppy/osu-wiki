@@ -24,11 +24,15 @@ This will be done live, so as the new SR values are applied to beatmaps, new sco
 
 Importantly, **the old PP algorithm will still be used, so the PP values achieved will not be final**.
 
+### ✅ Change new scores to use new calculation method (Completed 2024-10-30)
+
+All new score set will use the new SR and PP values.
+
 ### ⏳ Freeze global rank updates
 
 We are about to reprocess every score in existence. Before doing this, we want to disable user rank updates. This means your current global / country rank (and graph) will be frozen in time until we're done reprocessing things.
 
-That said, if you play, your **total PP** will still immediately be updated. In addition, all new scores will now get their **correct new PP**.
+That said, if you play, your **total PP** will still immediately be updated.
 
 If we didn't do this, users would see their rank jump all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
