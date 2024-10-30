@@ -3,17 +3,15 @@ tags:
   - qualified queue
   - ranked queue
   - ranking ETA
+  - antrian kualifikasi
   - antrian ranking
-  - tahap kualifikasi
-no_native_review: true
+  - waktu ranking
 ---
 
 # Antrian ranking beatmap
 
-**Antrian ranking beatmap** (*beatmap ranking queue*) merupakan sebuah sistem yang mengatur laju perpindahan beatmap dari [Qualified](/wiki/Beatmap/Category#qualified) menuju ke [Ranked](/wiki/Beatmap/Category#ranked). Setiap harinya, sistem ini akan secara otomatis memindahkan beatmap-beatmap yang telah berstatus Qualified selama setidaknya 7 hari (hingga maks. 10 beatmap per [mode permainan](/wiki/Game_mode) per harinya) menuju ke Ranked. Adapun waktu di mana beatmap-beatmap yang ada berpindah setiap harinya pada umumnya tidak menentu.
+**Antrian ranking beatmap** (*beatmap ranking queue*) merupakan antrian yang mengelola pemindahan [beatmap](/wiki/Beatmap) dari [Qualified](/wiki/Beatmap/Category#qualified) menuju [Ranked](/wiki/Beatmap/Category#ranked). Setiap harinya, 16 beatmap dari masing-masing [mode permainan](/wiki/Game_mode) dapat berpindah dari Qualified ke Ranked selama beatmap yang akan dipindahkan telah berada di Qualified selama setidaknya 7 hari. Adapun jam di mana suatu beatmap berpindah ke Ranked pada umumnya tidak menentu.
 
-## Proses diskualifikasi dan kualifikasi ulang (re-qualification)
+## Diskualifikasi dan kualifikasi ulang (re-qualification)
 
-Pada saat suatu beatmap [didiskualifikasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi-(nomination-reset)), lama waktu yang telah dihabiskan oleh beatmap tersebut di dalam kategori Qualified serta posisinya di dalam antrian ranking yang ada akan secara otomatis dicatat oleh sistem. Apabila di kemudian waktu beatmap tersebut dikualifikasikan ulang (*re-qualified*), beatmap yang bersangkutan akan kembali memasuki antrian ranking beatmap pada posisinya terdahulu tanpa harus menunggu lagi dari awal antrian.
-
-Meskipun demikian, suatu beatmap harus menunggu setidaknya 24 jam sejak waktu kualifikasi terakhirnya untuk dapat berpindah dari Qualified ke Ranked agar masalah-masalah lebih lanjut yang ditemukan pada beatmap yang bersangkutan (apabila ada) dapat ditangani sebagaimana mestinya.
+Pada saat suatu beatmap [didiskualifikasi](/wiki/Beatmap_ranking_procedure#nomination-resets), rentang waktu yang telah ditempuh oleh beatmap tersebut di Qualified akan disimpan. Apabila beatmap tersebut kemudian dikualifikasi ulang (*re-qualified*), beatmap ini akan memasuki antrian pada posisi di mana seolah-olah beatmap tersebut telah berada pada antrian selama rentang waktu ini. Kemampuan untuk "melewati" antrian ini dibatasi hingga 6 hari untuk memastikan bahwa seluruh beatmap akan selalu berada di Qualified selama setidaknya satu hari penuh.
