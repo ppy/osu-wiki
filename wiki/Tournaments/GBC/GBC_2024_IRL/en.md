@@ -158,7 +158,6 @@ Due to the large number of players and matches, the match results will be displa
 9. There are no restrictions on whether both players can choose or not choose a certain map, except that the selected map must be in the game map pool, and you cannot choose a map that has been selected in the game, and you cannot choose Tiebreaker.
 10. In the case of a tie, the beatmap will be rematched, but not more than twice.
 11. Players are allowed to rematch if any player disconnects early on during a beatmap. Send a message as soon as poosible in the match room chat to notify the referee to restart the match.
-
    - The match may only be aborted before 30 seconds or 1/4 of the beatmap has elapsed, whichever comes first.
    - The same mods and beatmap must be used when the match restarts.
    - Please make sure to resolve any technical issues before restarting the match.
