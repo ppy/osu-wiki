@@ -11,7 +11,7 @@ tags:
 
 ![GB杯2024线下赛图片](img/gbc2024irl-banner.png)
 
-**GBC 2024 IRL** (***GB Cup 2024 In Real Life***) is hosted by [GB]yobrevelc and organized by GB. It is an osu!mania 4k event that was held offline at the Kululu Music Carnival.
+**GBC 2024 IRL** (***GB Cup 2024 In Real Life***) is hosted by [GB]yobrevelc and organized by GB. It is an osu!mania 4k event that was held offline at the Kululu Music Game Carnival.
 
 ## Tournament schedule
 
@@ -140,13 +140,13 @@ Due to the large number of players and matches, the match results will be displa
 
 ## Qualifier instructions
 
-1. There are 8 maps in the qualifying mappool.
+1. There are 8 maps in the qualifier mappool.
 
-2. The ranking of the qualifying is determined by the player's single map ranking.
+2. The ranking of qualifier is determined by sum of all the single maps ranking.
 
-3. The top 16 players in the qualifying ranking will enter the main competition. They will be divided into 4 tiers according to the player ranking. One player will be randomly selected from each tier and assigned to a half zone. The first round of the game is fixed as tier 1 vs tier 4, and tier 2 vs tier 3.
+3. The top 16 players in the qualifier will enter the main competition. They will be divided into 4 tiers according to the player ranking and randomly assigned into 4 quarter zones, while every quarter will forcely include 1 player from each tier. The first round of the game is fixed as tier 1 vs tier 4, and tier 2 vs tier 3.
 
-4. After the qualifying round, if any qualified player withdraws, his ranking will be replaced by the next player, and so on.
+4. After the qualifier round, if any qualified player withdraws, his ranking will be replaced by the next player, and so on.
 
 ## Tournament rules
 
@@ -154,11 +154,11 @@ Due to the large number of players and matches, the match results will be displa
 
 2. The main competition is a single-elimination knockout competition with a total of 16 players. The round of 16 is a best-of-seven game, the quarterfinals and semifinals are a best-of-nine game, and the final is a best-of-eleven game.
 
-3. There are three maps for each position in the mappool. When selecting a map, you can only select the position. The specific map to be used will be determined by random roll points on the spot.
+3. There are three maps for each slot in the mappool. When selecting a map, you can only select the position. The specific map to be used will be determined by random roll on the spot.
 
-4. During the protection phase, both players choose a position and assign it to a specific map. The map of this position will not be randomized in subsequent selections. The map is directly selected and cannot be banned.
+4. During the protect phase, both players choose a slot and assign it to a specific map. The map of this slot will not be randomized in subsequent selections, if this slot got piced the map will directly be selected. Also this slot cannot be banned.
 
-5. During the disable phase, both players ban all the maps of one position.
+5. During the ban phase, both players will ban all the maps of one slot.
 
 6. When the two sides are tied and the last point is decided, the last map will use Tie-breaker. At this time, both sides will ban one map at the same time through the referee. If different maps are banned, the remaining one will be the map; if the same map is banned, one map will be randomly selected from the remaining two maps.
 
