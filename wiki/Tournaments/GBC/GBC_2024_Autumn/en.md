@@ -30,8 +30,8 @@ The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) is a 3v3 captain draft–base
 | Swiss II week 1 | 2024-12-07/2024-12-08 |
 | Swiss II week 2 | 2024-12-14/2024-12-15 |
 | Swiss II week 3 | 2024-12-21/2024-12-22 |
-| Elimination week 1 | 2024-12-28/2024-12-29 |
-| Elimination week 2 | 2025-01-04/2025-01-05 |
+| Knockout week 1 | 2024-12-28/2024-12-29 |
+| Knockout week 2 | 2025-01-04/2025-01-05 |
 
 ## Organisation
 
@@ -164,9 +164,9 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
 ### Stage instructions
 
 1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both divisions will have independent drafting phases. All unpicked players will be eliminated from the tournament.
-2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. Teams from the two divisions will play 6 rounds of the Swiss Round to determine 8 teams each to advance to the knockout round, with the other teams eliminated.
-3. Following the regular stage, a single elimination stage will be played in both divisions, called *playoffs*.
-4. All losing teams in playoffs will be eliminated from the tournament and the last team will be the winner.
+2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. Teams from the two divisions will play 6 rounds of the Swiss round to determine 8 teams each to advance to the knockout round, with the other teams eliminated.
+3. Following the regular stage, a single-elimination stage will be played in both divisions
+4. All teams that lose in the knockout rounds will be eliminated from the tournament and the last team will be the winner.
 
 ### Drafting phase instructions
 
@@ -192,7 +192,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
     - The default name of team is: `Team {X}`, with `{X}` being an abbreviation of the captain's name.
     - Team names cannot be longer than **24** characters (a Chinese character is considered as 2).
 11. Bad behaviour during the drafting phase will be seen as disrupting the match by foul play.
-12. Players are strictly prohibited from contacting captains before the draft phase to manipulate the draft.
+12. To prevent draft manipulate, players are strictly prohibited from contacting captains before the draft phase.
 
 ### Regular phase instructions
 
@@ -200,7 +200,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
    - Players can choose the division and participate in the team of the corresponding division. Players must ensure that they can use the chat tool of the corresponding division and keep the chat open.
 2. Following the drafting phase, two 3-round Swiss stages will be played. This means teams with same match record will face each other.
    - The number of teams in each division to enter the elimination phase is 8 or 4, which depends on the number of registrations.
-   - Every 3-round Swiss stage will eliminated half of the teams. Win twice will be approved, lose twice will be eliminated. If a team win in first 2 rounds, then they will skip the round 3.
+   - Every 3-round Swiss stage will eliminate half of the teams. Teams that win twice will advance, and teams that lose twice will be eliminated. If a team wins in the first 2 rounds, then they will skip the 3rd round.
 3. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
@@ -210,7 +210,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
    - Fewest beatmaps lost
    - Sum of all score differences of each beatmap (`∑(total score - opponent's total score)` for each beatmap played in the regular stage)
    - Dice roll
-4. The top 8 teams will advanced to the playoff stage, while the remaining players get eliminated from the tournament.
+4. The top 8 teams will advanced to the knockout stage, while the remaining players get eliminated from the tournament.
 5. The results from the regular stage will also be used for seeding teams.
 
 ### Win conditions
@@ -260,7 +260,16 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
    - Mappool in the elimination phase: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers. The tiebreaker will be played under FreeMod conditions.
 5. Possible mod choices for the FreeMod bracket are `NoFail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
-6. The round 2 & round 3 in a Swiss Round will use same mappools, the final week will use same mappool.
+6. Mappools for each week are structured as follows:
+
+| Stage | Mappool |
+| :-- | :-- |
+| Swiss I week 1 | A |
+| Swiss I week 2 & 3 | B |
+| Swiss II week 1 | C |
+| Swiss II week 2 & 3 | D |
+| Knockout week 1 | E |
+| Knockout week 2 | F |
 
 ### Scheduling information
 
