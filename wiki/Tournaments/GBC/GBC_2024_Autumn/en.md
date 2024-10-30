@@ -165,7 +165,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
 
 1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both divisions will have independent drafting phases. All unpicked players will be eliminated from the tournament.
 2. Following the drafting phase, a Swiss stage will be played in both zones, called the *regular stage*. Teams from the two divisions will play 6 rounds of the Swiss round to determine 8 teams each to advance to the knockout round, with the other teams eliminated.
-3. Following the regular stage, a single-elimination stage will be played in both divisions
+3. Following the regular stage, a single-elimination stage will be played in both divisions.
 4. All teams that lose in the knockout rounds will be eliminated from the tournament and the last team will be the winner.
 
 ### Drafting phase instructions
@@ -192,7 +192,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
     - The default name of team is: `Team {X}`, with `{X}` being an abbreviation of the captain's name.
     - Team names cannot be longer than **24** characters (a Chinese character is considered as 2).
 11. Bad behaviour during the drafting phase will be seen as disrupting the match by foul play.
-12. To prevent draft manipulate, players are strictly prohibited from contacting captains before the draft phase.
+12. To prevent draft manipulation, players are strictly prohibited from contacting captains before the draft phase.
 
 ### Regular phase instructions
 
