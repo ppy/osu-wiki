@@ -30,7 +30,7 @@ tags:
 | ![铜冠图片](/wiki/shared/crown-bronze.png "季军") | 喵喵定制勋章 + 季军奖杯 + 抱枕 + 周边 |
 | *其他* | 抱枕 + 周边 |
 
-![冠军缎带图片](img/gbc2024irl-winner.png =172x80) 
+![冠军缎带图片](img/gbc2024irl-winner.png) 
 
 ## 工作人员
 
