@@ -311,7 +311,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 - **22/5/2017:** El servidor de Discord de los Beatmap Nominators fue creado para las subdivisiones de BN.
   - Las subdivisiones se diseñaron como grupos focales de nominadores seleccionados al azar de ambos niveles dirigidos por un miembro del QAT.
   - La mayoría de los administradores del QAT cambiaron a este servidor a pesar de la resistencia de los superiores de osu!.
-- **23/5/2017:** El bot de Discord [Aiess](/wiki/Community/Projects#miscellaneous) fue creado por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817).
+- **23/5/2017:** El bot de Discord [Aiess](/wiki/Community/Projects#otros-proyectos) fue creado por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817).
   - Esto proporcionó una fuente de eventos relacionados con el mapping en servidores de Discord de osu!, comenzando con feeds de nominación y descalificación.
 
 ### Junio
@@ -351,7 +351,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 - **1/3/2018:** El QAT separó sus tareas en ramas: evaluación de BN, descalificaciones, metadatos, destacados, blog, criterios de clasificación y liderazgo general.
   - Los miembros del QAT podrían estar involucrados en múltiples ramas.
   - Esto tenía como objetivo dar un propósito a algunos miembros del QAT que sentían que no tenían roles específicos en la comunidad de mapping/modding. Este sentimiento fue en gran medida relevante porque el QAT ya tenía poca participación en el control de calidad.
-- **3/3/2018:** El canal de `#modding` se creó en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
+- **3/3/2018:** El canal de `#modding` se creó en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
   - Si bien su objetivo era alejar la discusión de mapping del servidor de Discord de los BN, este centro de discusión rara vez se usaba aparte de las reuniones programadas del QAT.
 - **24/3/2018:** El subforo Ranking Criteria se reabrió para debates públicos de propuestas y se suspendió el UBKRC.
   - El UBKRC se suspendió en ese momento porque se habían finalizado todas las subsecciones de los criterios de clasificación generales y de los modos de juego.
@@ -408,7 +408,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 - **1/3/2019:** El [Mappers' Guild](/wiki/Community/Mappers_Guild) pasó de la entrada basada en aplicaciones a la entrada automática para cualquier persona con 3 mapas clasificados.
   - Los beatmaps de [artistas destacados](/wiki/People/Featured_Artists) se crearon y clasificaron con mayor frecuencia.
-  - El canal `#mappers-guild` se creó en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
+  - El canal `#mappers-guild` se creó en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 - **13/3/2019:** Se eliminó la regla que exige que las nominaciones consecutivas se establezcan con al menos 24 horas de diferencia entre sí.
   - Esta regla fue una de las principales quejas de los mappers y Beatmap Nominators porque parecía que estaba haciendo perder el tiempo a todos innecesariamente. Si se encontraba un problema después de la primera nominación, el segundo nominador a menudo evitaba señalarlo para evitar una espera adicional de 24 horas.
   - Junto con este cambio, los Beatmap Nominators podrían vetar los beatmaps calificados. La regla existía originalmente porque los Beatmap Nominators necesitaban 24 horas para aplicar potencialmente vetos a los mapas con una nominación.
@@ -425,7 +425,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Agosto
 
-- **5/8/2019:** ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) lanzó la herramienta [Mapset Verifier](/wiki/Community/Projects#modding), que automatiza una parte importante de los procesos de verificación de los beatmaps para los Beatmap Nominators.
+- **5/8/2019:** ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) lanzó la herramienta [Mapset Verifier](/wiki/Community/Projects#proyectos-relacionados-con-el-modding), que automatiza una parte importante de los procesos de verificación de los beatmaps para los Beatmap Nominators.
 - **6/8/2019:** Los Beatmap Nominators pueden participar en las evaluaciones de aplicaciones para BN.
   - La opinión de los BN es visible para el NAT cuando intenta llegar a un consenso, aunque rara vez se usa para influir en una votación.
   - El NAT a menudo usa la opinión de los BN para ayudar a determinar los futuros miembros del NAT.

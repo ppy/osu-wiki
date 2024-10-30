@@ -4,7 +4,7 @@ legal: true
 
 # Politique de confidentialité d'osu!
 
-Dernière mise à jour : 16 avril 2021. [Voir l'historique ici](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Dernière mise à jour : 3 septembre 2024. [Voir l'historique ici](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 En plus de cette politique, veuillez également vous assurer de visiter et comprendre nos [Conditions d'utilisation](/wiki/Legal/Terms).
 
@@ -120,7 +120,7 @@ Les services d'osu! ne sont pas conçus pour les enfants de moins de 13 ans. Si 
 
 Bonjour, je suis Dean (communément appelé peppy) et je suis votre contrôleur de données. Si vous avez des inquiétudes concernant votre vie privée ou si vous souhaitez exercer vos droits légaux, n'hésitez pas à me contacter directement à l'adresse indiquée ci-dessous.
 
-**Email** : [privacy@ppy.sh](mailto:privacy@ppy.sh) (Réponse garantie en 24 heures)
+**Email** : [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 **Adresse postale** :
 

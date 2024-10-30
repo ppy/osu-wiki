@@ -4,7 +4,7 @@ legal: true
 
 # osu! privacy policy
 
-Last Updated 16th April 2021. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Last Updated 3th Sep 2024. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 In addition to this policy, please also make sure to visit and understand our [Terms of Service](/wiki/Legal/Terms).
 
@@ -120,7 +120,7 @@ osu! services are not designed for children under the age of 13. If we discover 
 
 Hi, I am Dean (commonly known as peppy) and I am your data controller. If you have any privacy concerns or requests to exercise your legal rights, don't hesitate to contact me directly at the address listed below.
 
-**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 hour response guaranteed)
+**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 **Postal Address**:
 
