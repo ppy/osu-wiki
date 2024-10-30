@@ -10,7 +10,7 @@ tags:
 
 # GBC 2024 秋季赛
 
-![GBC 2024 Autumn banner](img/banner.png)
+![GBC 2024 Autumn banner](img/banner.jpg)
 
 **GBC 2024 秋季赛** (***GB 杯 2024 秋季赛***) 是由 GB 组织主办的 3v3 队长选秀制 osu!mania 4k 项目赛事。本届比赛是 GBC 系列赛事的第七届正式比赛。
 
