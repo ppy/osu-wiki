@@ -26,7 +26,7 @@ Importantly, **the old PP algorithm will still be used, so the PP values achieve
 
 ### ✅ Change new scores to use new calculation method (Completed 2024-10-30)
 
-All new score set will use the new SR and PP values.
+All new scores set will use the new SR and PP values.
 
 ### ⏳ Freeze global rank updates
 
