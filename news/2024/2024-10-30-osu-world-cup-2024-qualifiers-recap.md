@@ -24,7 +24,7 @@ Let's dive deeper into the mappools and see what the team released for Qualifier
 
 ![Qualifier mappool table](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/mappool.jpg)
 
-The osu! World Cup 2024 Qualifier pool featured an 11-map lineup, all tailor-made to accurately gauge the skill levels of the participating teams. While it marked a notable step up in difficulty from last year, some teams still managed to secure full combos with all four players—a testament to the significant improvements across the competitive field.
+The osu! World Cup 2024 Qualifier pool featured an 11-map lineup, all tailor-made to accurately gauge the skill levels of the participating teams. While it marked a notable step up in difficulty from last year, some teams still managed to secure full combos with all four players  a testament to the significant improvements across the competitive field.
 
 Highlights from the pool include [Crystal Illusion](https://osu.ppy.sh/beatmapsets/2267934#osu/4829693) by [milr_](https://osu.ppy.sh/users/4485933) (HR2), a Hard Rock precision map packed with challenging flow aim and cut stream patterns. This map set the stage for one of the round's most impressive scores: an SS by ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), which was the first SS on any Hard Rock map in OWC since the Round of 32 in 2022! Another standout was [We Are One (Original Vocal Mix)](https://osu.ppy.sh/beatmapsets/2267993#osu/4829833) by ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) (DT1), a blazing-fast Double Time aim map with high AR and throwback patterning that tested players with its nostalgic, old-school flair.
 
@@ -40,7 +40,7 @@ Qualifiers kicked off with a bang, sparking endless community chatter. With 65 d
 
 ![Qualifier results table](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/results.jpg)
 
-Kicking off with the top three seeds, among the usual suspects lies a rising star—Australia! Known for their consistent top finishes between 5th and 12th place, ::{ flag=AU }:: Australia has come out stronger than ever, achieving an impressive #2 seed this year. They join familiar titans, ::{ flag=KR }:: South Korea and ::{ flag=US }:: the United States, who snagged the #1 and #3 seeds, respectively. These two teams have been fierce rivals for two years running, and while the U.S. has held the advantage so far, whispers around the community suggest this year could mark a shift in the balance.
+Kicking off with the top three seeds, among the usual suspects lies a rising star  Australia! Known for their consistent top finishes between 5th and 12th place, ::{ flag=AU }:: Australia has come out stronger than ever, achieving an impressive #2 seed this year. They join familiar titans, ::{ flag=KR }:: South Korea and ::{ flag=US }:: the United States, who snagged the #1 and #3 seeds, respectively. These two teams have been fierce rivals for two years running, and while the U.S. has held the advantage so far, whispers around the community suggest this year could mark a shift in the balance.
 
 Among the osu! World Cup staples, teams like ::{ flag=DE }:: Germany, the ::{ flag=GB }:: United Kingdom, and ::{ flag=HK }:: Hong Kong continue to show up in force, though one notable shock was ::{ flag=PL }:: Poland. The former osu! World Cup 2017 winning country missed out on a top 10 qualifying placement, despite finishing as #2 seed just last year. This year saw several veteran players step down, including #1 Qualifiers performer ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961). Now, Poland's new generation, led by the experienced ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), is stepping up to the challenge of maintaining the team's legacy.
 
@@ -145,4 +145,4 @@ For the next month and a half, get ready to immerse yourself in top-tier osu! to
 
 Join us next week for more exciting updates and news!
 
-—0x84f, ChillierPear, Dada
+0x84f, ChillierPear, Dada
