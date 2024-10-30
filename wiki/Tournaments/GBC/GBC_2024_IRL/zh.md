@@ -30,7 +30,7 @@ tags:
 | ![铜冠图片](/wiki/shared/crown-bronze.png "季军") | 喵喵定制勋章 + 季军奖杯 + 抱枕 + 周边 |
 | *其他* | 抱枕 + 周边 |
 
-![冠军缎带图片](img/gbc2024irl-winner.png) 
+![冠军缎带图片](img/gbc2024irl-winner.png =172x80) 
 
 ## 工作人员
 
@@ -55,6 +55,9 @@ GB杯2024线下赛由 GB 成员和多位社区成员举办。
   - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
 - [QQ 群](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
+- [第一天抽签录像](https://www.bilibili.com/video/BV1um421374R)
+- [第一天比赛录像](https://www.bilibili.com/video/BV1pb421J7AJ)
+- [第二天比赛录像](https://www.bilibili.com/video/BV1pr421M7uE)
 
 ## 参赛选手
 
@@ -169,4 +172,3 @@ GB杯2024线下赛由 GB 成员和多位社区成员举办。
 11. 每个选手最多被允许一次由于掉线或其他技术性问题造成的重开（请及时在游戏内发送信息通知裁判要求重开），并且该次比赛还没超过30秒和全图的1/4。在比赛重开时必须使用与之前相同的mod和图。请务必在比赛前修复任何可能的问题。
 
 12. 如有必要，裁判有权利自行决定规则的实施，并对比赛期间发生的事件有最终裁决权。
-
