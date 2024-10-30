@@ -8,7 +8,7 @@ tags:
 
 # GB杯 2024 线下赛
 
-![GB杯2024线下赛图片](wip.png)
+![GB杯2024线下赛图片](img/gbc2024irl-banner.png)
 
 **GBC 2024 IRL** (***GB杯2024线下赛***) 是由[GB]yobrevelc主办，由GB组织承办，在库璐璐音游嘉年华线下进行的osu!mania 4k 项目赛事。
 
@@ -29,7 +29,7 @@ tags:
 | ![铜冠图片](/wiki/shared/crown-bronze.png "季军") | 喵喵定制勋章 + 季军奖杯 + 抱枕 + 周边 |
 | *其他* | 抱枕 + 周边 |
 
-![冠军缎带图片](wip.jpg) 
+![冠军缎带图片](img/gbc2024irl-winner.png) 
 
 ## 工作人员
 
