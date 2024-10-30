@@ -23,7 +23,6 @@ tags:
 
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
 | ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
 
