@@ -12,7 +12,7 @@ With just over 1,200 registrations representing 77 countries, the osu! World Cup
 
 This OWC has come with another major update as the mappooling team opted to lift the double-banning restriction from previous years. This decision aligns more closely with modern tournament standards and was influenced by a shift away from traditional "slot pooling" towards a newly restructured, more varied mappool format.
 
-Let's dive deeper into the mappools and see what the team released for Qualifiers! Later, we'll chat with two of our head mappooling staff members, chiv and Dada to get the inside scoop on building a mappoool fit for top-tier competition.
+Let's dive deeper into the mappools and see what the team released for Qualifiers! Later, we'll chat with two of our head mappooling staff members, [chiv](https://osu.ppy.sh/users/6701656) and [Dada](https://osu.ppy.sh/users/9119507) to get the inside scoop on building a mappoool fit for top-tier competition.
 
 ## Mappool recap
 
@@ -97,7 +97,7 @@ Several teams made history by participating in the osu! World Cup Qualifiers for
 
 ![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/chiv-and-dada-banner.png)
 
-Mappooling for the biggest tournament of the year is not an easy feat, especially for a stage as crucial as the Qualifiers. Below you will find an interview with chiv and Dada, members of the osu! World Cup mappooling selector team. They are in charge of mappooling the entire tournament, but we will delve into the specifics of pooling for the Qualifiers.
+Mappooling for the biggest tournament of the year is not an easy feat, especially for a stage as crucial as the Qualifiers. Below you will find an interview with [chiv](https://osu.ppy.sh/users/6701656) and [Dada](https://osu.ppy.sh/users/9119507), members of the osu! World Cup mappooling selector team. They are in charge of mappooling the entire tournament, but we will delve into the specifics of pooling for the Qualifiers.
 
 <div class="news-chat-quote__text-container">
 
@@ -113,9 +113,13 @@ What are the challenges of map pooling for Qualifiers, considering that these po
 
 The biggest challenges are twofold:
 
-1: Trying to make a pool that is at the same time accessible for the lower and middle tier teams, as well as not completely free for the top teams, which is definitely a lot tougher now that the rank range has been expanded. This also has to be taken into account when choosing how to present certain skill sets, trying to make sure that no skill set is completely gated behind another one in such a way as to limit the player base that can reasonably play that map too much. The same thing doesn't have to happen in later stages, not only due to the increase in the skill level of the lower end, but also because you have more map slots to work with, and split those skill sets up. Which brings us to:
+1: Trying to make a pool that is at the same time accessible for the lower and middle tier teams, as well as not completely free for the top teams, which is definitely a lot tougher now that the rank range has been expanded. This also has to be taken into account when choosing how to present certain skill sets, trying to make sure that no skill set is completely gated behind another one in such a way as to limit the player base that can reasonably play that map too much.
 
-2: Balancing skill set distribution over a smaller pool format — the pools over the course of the tournament have free mod slots, and generally have more maps per mod pool (or at least will, eventually). With less total maps comes less possibilities to distribute the map niches we want to test, which means sometimes we have to clump skill sets together on some maps, like [Deorbit](https://osu.ppy.sh/beatmapsets/2268007#osu/4829864) or [Crystal Illusion](https://osu.ppy.sh/beatmapsets/2267934#osu/4829693) this year. Furthermore, some skill sets are basically incompatible with either the other niches or with mod pools in general, which limits our options even further. It's a delicate balance of trying to do as much as possible while not throwing everything off-kilter.
+The same thing doesn't have to happen in later stages, not only due to the increase in the skill level of the lower end, but also because you have more map slots to work with, and split those skill sets up. Which brings us to:
+
+2: Balancing skill set distribution over a smaller pool format — the pools over the course of the tournament have free mod slots, and generally have more maps per mod pool (or at least will, eventually). With less total maps comes less possibilities to distribute the map niches we want to test, which means sometimes we have to clump skill sets together on some maps, like [Deorbit](https://osu.ppy.sh/beatmapsets/2268007#osu/4829864) or [Crystal Illusion](https://osu.ppy.sh/beatmapsets/2267934#osu/4829693) this year.
+
+Furthermore, some skill sets are basically incompatible with either the other niches or with mod pools in general, which limits our options even further. It's a delicate balance of trying to do as much as possible while not throwing everything off-kilter.
 
 Doing all of that while managing a full-custom qualifier pool, which means we have limited control of how difficult maps are in relation to each other, and how much the niche we want them to fill is actually expressed to begin with, means that it's all a pretty difficult endeavor. I think we ended up doing a decent job of it, though.
 
