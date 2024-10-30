@@ -134,10 +134,6 @@ GB杯2024线下赛由 GB 成员和多位社区成员举办。
 
 由于选手和场次非常多，将使用 **[赛事信息表格](https://docs.qq.com/sheet/DTWpxUkN6SGtrS29m?tab=j9vlga)** 呈现赛果。
 
-### 资格赛
-
-由于选手和场次非常多，将使用 **[赛事信息表格](https://docs.qq.com/sheet/DTWpxUkN6SGtrS29m?tab=j9vlga)** 呈现赛果。
-
 ## 资格赛规则
 
 1. 资格赛图池共有8张谱面。
