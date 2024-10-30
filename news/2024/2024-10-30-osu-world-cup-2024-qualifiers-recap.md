@@ -4,7 +4,7 @@ title: "osu! World Cup 2024: Qualifiers Recap"
 date: 2024-10-30 12:00:00 +0000
 ---
 
-The greatest osu! tournament of the year has begun, and so have the recaps!
+October is here! The osu! World Cup is back, and so are weekly recaps!
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
