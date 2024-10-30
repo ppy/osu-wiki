@@ -8,11 +8,11 @@ The greatest osu! tournament of the year has begun, and so have the recaps!
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
-This year's osu! World Cup is set to be the biggest one ever, and it's got off to a good start with this year having the most registrations out of any OWC ever, ending up in a ground-breaking **65** different countries getting to play the Qualifiers. This was enabled by one out of the two rules that were changed this year, which is that the minimum rank required to sign up was lifted from #5,000 to #10,000. The prize pool this year was also doubled to $10,000, further amplifying the will of players to apply and fight not just for the cash prizes, but also the coveted osu! Champion title.
+With just over 1,200 registrations representing 77 countries, the osu! World Cup 2024 (OWC) stands as the largest in history. 65 of these countries were able to put together a roster eligible to compete in the qualifying stage this past weekend. This significant increase in participation was enabled by the first increase in rank range that OWC has ever seen, lifting the minimum global rank required from #5,000 to #10,000.
 
-The other rule change relates to the mappools, with the mappooling team opting to lift restrictions from banning more than 1 map from each pool slot (e.g. Hidden, Double Time etc.), allowing teams to completely block a mod from being played. The reasoning behind this is that modern mappools ditched the "slot pooling" meta for a more varied pool, with each map showcasing a different skill, so it didn't make sense to keep this rule in place.
+This OWC has come with another major update as the mappooling team opted to lift the double-banning restriction from previous years. This decision aligns more closely with modern tournament standards and was influenced by a shift away from traditional "slot pooling" towards a newly restructured, more varied mappool format.
 
-Speaking of the mappool, let's check out what the mappooling team cooked up this week, and later on we'll talk to [chiv](https://osu.ppy.sh/users/6701656) and [Dada](https://osu.ppy.sh/users/6701656) about mappooling for Qualifiers at such a high level of play.
+Let's dive deeper into the mappools and see what the team released for Qualifiers! Later, we'll chat with two of our head mappooling staff members, chiv and Dada to get the inside scoop on building a mappoool fit for top-tier competition.
 
 ## Mappool recap
 
@@ -24,11 +24,11 @@ Speaking of the mappool, let's check out what the mappooling team cooked up this
 
 ![Qualifier mappool table](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/mappool.jpg)
 
-The Qualifier pool for the osu! World Cup 2024 featured 11 maps, all custom-made specifically for the tournament. While it was a step-up in difficulty from last year, there were teams who still managed to FC some maps with all 4 players, which just shows that the playing field has been improving just as much, if not more, than the increase in challenge.
+The osu! World Cup 2024 Qualifier pool featured an 11-map lineup, all tailor-made to accurately gauge the skill levels of the participating teams. While it marked a notable step up in difficulty from last year, some teams still managed to secure full combos with all four players—a testament to the significant improvements across the competitive field.
 
-Some highlights of the pool include [Crystal Illusion](https://osu.ppy.sh/beatmapsets/2267934#osu/4829693) by [milr_](https://osu.ppy.sh/users/4485933) (HR2), a Hard Rock precision map with challenging elements of flow aim and cut streams that was home to one of the most impressive scores in the entirety of the round, being an SS by [decaten](https://osu.ppy.sh/users/5645231) of team USA, and [We Are One (Original Vocal Mix)](https://osu.ppy.sh/beatmapsets/2267993#osu/4829833) by [Aistre](https://osu.ppy.sh/users/4879380) (DT1), a tricky, extremely fast aim map at a high AR on Double Time, which ended up challenging many players through its unusual patterning reminiscent of an older era.
+Highlights from the pool include [Crystal Illusion](https://osu.ppy.sh/beatmapsets/2267934#osu/4829693) by [milr_](https://osu.ppy.sh/users/4485933) (HR2), a Hard Rock precision map packed with challenging flow aim and cut stream patterns. This map set the stage for one of the round's most impressive scores: an SS by ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), which was the first SS on any Hard Rock map in OWC since the Round of 32 in 2022! Another standout was [We Are One (Original Vocal Mix)](https://osu.ppy.sh/beatmapsets/2267993#osu/4829833) by [Aistre](https://osu.ppy.sh/users/4879380) (DT1), a blazing-fast Double Time aim map with high AR and throwback patterning that tested players with its nostalgic, old-school flair.
 
-A final, noteworthy highlight is the return of the osu!mania original [Toromaru](https://osu.ppy.sh/beatmapsets/2268007#osu/4829864) through a map done by [Wispy](https://osu.ppy.sh/users/11106929), slotted in the Hidden pool. The tricky rhythms and structure ended up being quite a challenge in osu!standard as well, as the map was one of the most difficult in the pool by the end of the week, as the statistics suggest.
+Rounding out the highlights is the return of the osu!mania 4K World Cup 2023 original [Deorbit](https://osu.ppy.sh/beatmapsets/2268007#osu/4829864), skilfully reimagined by [Wispy](https://osu.ppy.sh/users/11106929) for the Hidden pool. With its intricate rhythms and complex structure, this map brought a unique challenge to the osu! World Cup as well, standing out as one of the toughest in the pool by week's end, as the stats show.
 
 ## Qualifier highlights
 
@@ -36,19 +36,17 @@ A final, noteworthy highlight is the return of the osu!mania original [Toromaru]
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2287184079&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Qualifiers started off with a bang, already giving the community plenty to discuss. With 65 different countries competing for the top 32 spots, there were many heartbreaks, surprises, and first times.
+Qualifiers kicked off with a bang, sparking endless community chatter. With 65 different countries competing for only 32 spots, the competition was packed with heartbreaks, surprises, and exciting first-time achievements.
 
 ![Qualifier results table](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/results.jpg)
 
-Starting off with the top 3, among the usual suspects lies a newcomer, Australia! Australia has been a very dominant team for many years, landing anywhere between the top 12 and top 5, but this year they look to be stronger than ever, achieving seed #2.
+Kicking off with the top three seeds, among the usual suspects lies a rising star—Australia! Known for their consistent top finishes between 5th and 12th place, Australia has come out stronger than ever, achieving an impressive #2 seed this year. They join familiar titans, South Korea and the United States, who snagged the #1 and #3 seeds, respectively. These two teams have been fierce rivals for two years running, and while the U.S. has held the advantage so far, whispers around the community suggest this year could mark a shift in the balance.
 
-Next to them, we also have two goliaths of the osu! World Cup, the United States and South Korea, getting seeds #3 and #1 respectively. These two teams have been going at each other for two years straight, and even though the United States have managed to keep them off their backs so far, there are rumblings around the community that this year might be different.
+Among the osu! World Cup staples, teams like Germany, the United Kingdom, and Hong Kong continue to show up in force, though one notable shock was Poland. The former osu! World Cup 2017 winning country missed out on a top 10 qualifying placement, despite finishing as #2 seed just last year. This year saw several veteran players step down, including #1 Qualifiers performer [maliszewski](https://osu.ppy.sh/users/12408961). Now, Poland's new generation, led by the experienced [Rafis](https://osu.ppy.sh/users/2558286), is stepping up to the challenge of maintaining the team's legacy.
 
-When it came to the teams that are considered mainstays of the World Cup such as Germany, the United Kingdom, Hong Kong, etc., there haven't been many changes, with Poland being the only major outlier. To the shock of many, Poland this year did not manage to place not just in the top 3, but not even in the top 10. With many of the veteran World Cup players not participating, it looks like it's time for the new generation to pick up the slack (with [Rafis](https://osu.ppy.sh/users/2558286) as their mentor) and maybe even restore Poland back to their old glory.
+The biggest buzz came from the battle for the coveted 32nd seed, with Belarus seizing the final spot and edging out fierce underdogs like Uruguay, Mexico, Italy, and Vietnam. Each team showed incredible drive and left it all in the lobby, proudly representing their countries.
 
-As always, the most hype overall was generated for the teams that teetered on the edge of 32nd seed, the underdogs such as Belarus, Peru, Uruguay, Italy, etc., all eager to represent their country and show what they are made of.
-
-There were also teams that managed to qualify for the first time ever and try their hand at participating on the World Cup stage. Congratulations to Serbia, Macau, Ireland, Georgia, the Dominican Republic and Bosnia and Herzegovina, because even though they may have not placed this year, they show much potential for improvement.
+Several teams made history by participating in the osu! World Cup Qualifiers for the very first time! A round of applause to Bosnia and Herzegovina, the Dominican Republic, Georgia, Macau, and Serbia. While they may not have qualified this year, their performances showcased their immense desire for a spot and promise for the future!
 
 ## A view behind the mappools
 
@@ -139,8 +137,8 @@ As you've probably recognized, OWC has seen a drastic upward shift in difficulty
 
 ---
 
-For the next month and a half you will have the chance to witness top tier osu! tournament gameplay, so be sure to check out the wiki go familiarize yourselves with the mappools, schedules, and all other details [on the osu! wiki](/wiki/Tournaments/OWC/2024), get involved with the community live on the official [osu! Twitch channel](https://www.twitch.tv/osulive), and support your favourite players and teams.
+For the next month and a half, get ready to immerse yourself in top-tier osu! tournament action! Check out the [osu! World Cup wiki page](/wiki/Tournaments/OWC/2024) to download and try the mappools yourself, see the schedules for when your favourite teams are playing, and all of the other essential details. Join us on stream live this weekend for the Round of 32 at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to support your favorite players and teams.
 
-See ya next week!
+Join us next week for more exciting updates and news!
 
-—0x84f, Dada
+—0x84f, ChillierPear, Dada
