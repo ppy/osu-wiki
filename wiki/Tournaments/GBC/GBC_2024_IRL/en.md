@@ -141,38 +141,24 @@ Due to the large number of players and matches, the match results will be displa
 ## Qualifier instructions
 
 1. There are 8 maps in the qualifier mappool.
-
 2. The ranking of qualifier is determined by sum of all the single maps ranking.
-
 3. The top 16 players in the qualifier will enter the main competition. They will be divided into 4 tiers according to the player ranking and randomly assigned into 4 quarter zones, while every quarter will forcely include 1 player from each tier. The first round of the game is fixed as tier 1 vs tier 4, and tier 2 vs tier 3.
-
 4. After the qualifier round, if any qualified player withdraws, his ranking will be replaced by the next player, and so on.
 
 ## Tournament rules
 
 1. There is no warm-up phase for the match.
-
 2. The main competition is a single-elimination knockout competition with a total of 16 players. The round of 16 is a best-of-seven game, the quarterfinals and semifinals are a best-of-nine game, and the final is a best-of-eleven game.
-
 3. There are three maps for each slot in the mappool. When selecting a map, you can only select the position. The specific map to be used will be determined by random roll on the spot.
-
 4. During the protect phase, both players choose a slot and assign it to a specific map. The map of this slot will not be randomized in subsequent selections, if this slot got piced the map will directly be selected. Also this slot cannot be banned.
-
 5. During the ban phase, both players will ban all the maps of one slot.
-
 6. When the two sides are tied and the last point is decided, the last map will use Tie-breaker. At this time, both sides will ban one map at the same time through the referee. If different maps are banned, the remaining one will be the map; if the same map is banned, one map will be randomly selected from the remaining two maps.
-
 7. Each side will have 2 minutes to choose a map. If the timeout is reached, the referee will randomly select an unselected map from the mappool. After the map is selected, both players have 2 minutes to get ready.
-
 8. Possible mod choices for the FreeMod bracket are NoFail, Hidden, Fade In, Flashlight, and Mirror.
-
 9. There are no restrictions on whether both players can choose or not choose a certain map, except that the selected map must be in the game map pool, and you cannot choose a map that has been selected in the game, and you cannot choose Tiebreaker.
-
 10. In the case of a tie, the beatmap will be rematched, but not more than twice.
-
 11. Players are allowed to rematch if any player disconnects early on during a beatmap. Send a message as soon as poosible in the match room chat to notify the referee to restart the match.
   - The match may only be aborted before 30 seconds or 1/4 of the beatmap has elapsed, whichever comes first.
   - The same mods and beatmap must be used when the match restarts.
   - Please make sure to resolve any technical issues before restarting the match.
-
 12. If necessary, the referee has the right to decide the implementation of the rules at his own discretion and has the final say on events that occur during the game.
