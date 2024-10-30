@@ -50,7 +50,7 @@ As always, the most hype overall was generated for the teams that teetered on th
 
 There were also teams that managed to qualify for the first time ever and try their hand at participating on the World Cup stage. Congratulations to Serbia, Macau, Ireland, Georgia, the Dominican Republic and Bosnia and Herzegovina, because even though they may have not placed this year, they show much potential for improvement.
 
-## Mappooling team selector interview
+## A view behind the mappools
 
 <style>
     .news-chat-quote__avatar {
@@ -99,7 +99,7 @@ There were also teams that managed to qualify for the first time ever and try th
 
 ![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/chiv-and-dada-banner.png)
 
-Mappooling for the biggest tournament of the year is not an easy feat, especially for a crucial stage such as the Qualifiers. Below you will find an interview with chiv and Dada, members of the osu! World Cup mappooling selector team. They are in charge of mappooling the entire tournament, but we will delve into the specific of pooling for Qualifiers.
+Mappooling for the biggest tournament of the year is not an easy feat, especially for a stage as crucial as the Qualifiers. Below you will find an interview with chiv and Dada, members of the osu! World Cup mappooling selector team. They are in charge of mappooling the entire tournament, but we will delve into the specifics of pooling for the Qualifiers.
 
 <div class="news-chat-quote__text-container">
 
