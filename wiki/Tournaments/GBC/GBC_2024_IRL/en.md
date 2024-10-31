@@ -7,7 +7,7 @@ tags:
   - GBC2024IRL
 ---
 
-# # GB Cup 2024 In Real Life
+# GB Cup 2024 In Real Life
 
 ![GB杯2024线下赛图片](img/gbc2024irl-banner.png)
 
@@ -17,25 +17,26 @@ tags:
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2024-6-3/2024-6-30 |
-| Qualifier stage | 2024-7-13/2024-7-14 |
-| Offline tournament stage | 2024-7-27/2024-7-28 |
+| Registration phase | 2024-06-03/2024-06-30 |
+| Qualifier stage | 2024-07-13/2024-07-14 |
+| Offline tournament stage | 2024-07-27/2024-07-28 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![金冠图片](/wiki/shared/crown-gold.png "冠军") | Profile badge, KanonBot profile badge, Championship trophy, GBC pillow, GBC medal |
+| ![金冠图片](/wiki/shared/crown-gold.png "冠军") | Profile badge, KanonBot profile badge, championship trophy, GBC pillow, GBC medal |
 | ![银冠图片](/wiki/shared/crown-silver.png "亚军") | KanonBot profile badge, 2nd place trophy, GBC pillow, GBC medal |
 | ![铜冠图片](/wiki/shared/crown-bronze.png "季军") | KanonBot profile badge, 3rd place trophy, GBC pillow, GBC medal |
 | *Others* | GBC pillow, GBC medal |
 
-![奖杯图片](img/gbc2024irl-cups.jpg) 
-![冠军缎带图片](img/gbc2024irl-winner.png) 
+![奖杯图片](img/gbc2024irl-cups.jpg "GBC 2024 IRL trophies")
+
+![冠军缎带图片](img/gbc2024irl-winner.png)
 
 ## Organisation
 
-The GB Cup 2024 In Real Life was run by the Team GB and various community members.
+GB Cup 2024 In Real Life was run by the Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,9 +55,9 @@ The GB Cup 2024 In Real Life was run by the Team GB and various community member
   - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
 - [GBC QQ group](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
-- [Day 1 VOD - Player Introductions](https://www.bilibili.com/video/BV1um421374R)
+- [Day 1 VOD - Player introductions](https://www.bilibili.com/video/BV1um421374R)
 - [Day 1 VOD - Round of 16](https://www.bilibili.com/video/BV1pb421J7AJ)
-- [Day 2 VOD - QuarterFinals, SemiFinals & Finals](https://www.bilibili.com/video/BV1pr421M7uE)
+- [Day 2 VOD - Quarterfinals, Semifinals & Finals](https://www.bilibili.com/video/BV1pr421M7uE)
 
 ## Participants
 
@@ -78,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-Due to the large number of mappools, please refer to the [main table](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=BB08J2) for more information.
+Due to the large number of mappools, please refer to the [main spreadsheet](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=BB08J2) for more information.
 
 ## Match results
 
@@ -90,7 +91,7 @@ Sunday, 28 July 2024:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| nyasunfanboy | FF | **0** | **Mantozi** | - |
+| nyasunfanboy | -1 | **0** | **Mantozi** |  |
 | [GB]GanyuAngel | 1 | **6** | **DawnX** | [#1](https://osu.ppy.sh/community/matches/114845682) |
 
 ### Semifinals
@@ -102,7 +103,7 @@ Sunday, 28 July 2024:
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[GB]GanyuAngel** | **5** | 1 | Mantozi | [#1](https://osu.ppy.sh/community/matches/114845271) |
-| **DawnX** | **0** | FF | nyasunfanboy | - |
+| **DawnX** | **0** | -1 | nyasunfanboy |  |
 
 ### Quarterfinals
 
@@ -141,21 +142,21 @@ Due to the large number of players and matches, the match results will be displa
 ## Qualifier instructions
 
 1. There are 8 maps in the qualifier mappool.
-2. The ranking of qualifier is determined by sum of all the single maps ranking.
-3. The top 16 players in the qualifier will enter the main competition. They will be divided into 4 tiers according to the player ranking and randomly assigned into 4 quarter zones, while every quarter will forcely include 1 player from each tier. The first round of the game is fixed as tier 1 vs tier 4, and tier 2 vs tier 3.
-4. After the qualifier round, if any qualified player withdraws, his ranking will be replaced by the next player, and so on.
+2. The ranking in qualifiers is determined by the sum of a player's rank in each map.
+3. The top 16 players in the qualifier will enter the main competition. They will be divided into 4 tiers according to the player ranking and randomly assigned into 4 quarter zones, where every quarter will forcibly include 1 player from each tier. The first round of the game is fixed as tier 1 vs. tier 4, and tier 2 vs. tier 3.
+4. After the qualifier round, if any qualified player withdraws, their ranking will be replaced by the next player, and so on.
 
 ## Tournament rules
 
 1. There is no warm-up phase for the match.
-2. The main competition is a single-elimination knockout competition with a total of 16 players. The round of 16 is a best-of-seven game, the quarterfinals and semifinals are a best-of-nine game, and the final is a best-of-eleven game.
-3. There are three maps for each slot in the mappool. When selecting a map, you can only select the position. The specific map to be used will be determined by random roll on the spot.
-4. During the protect phase, both players choose a slot and assign it to a specific map. The map of this slot will not be randomized in subsequent selections, if this slot got piced the map will directly be selected. Also this slot cannot be banned.
+2. The main competition is a single-elimination knockout competition with a total of 16 players. The Round of 16 is a best-of-7 game, the Quarterfinals and Semifinals are a best-of-9 game, and the Final is a best-of-11 game.
+3. There are three maps for each slot in the mappool. When selecting a map, you can only select the position. The specific map to be used will be determined by random `!roll` on the spot.
+4. During the protect phase, both players choose a slot and assign it to a specific map. The map of this slot will not be randomised in subsequent selections. If this slot gets picked, the map will directly be selected. Additionally, this slot cannot be banned.
 5. During the ban phase, both players will ban all the maps of one slot.
-6. When the two sides are tied and the last point is decided, the last map will use Tie-breaker. At this time, both sides will ban one map at the same time through the referee. If different maps are banned, the remaining one will be the map; if the same map is banned, one map will be randomly selected from the remaining two maps.
-7. Each side will have 2 minutes to choose a map. If the timeout is reached, the referee will randomly select an unselected map from the mappool. After the map is selected, both players have 2 minutes to get ready.
+6. When the two sides are tied and the last point is decided, the last map will be a tiebreaker. At this time, both sides will ban one map at the same time through the referee. If different maps are banned, the remaining one will be the map played; if the same map is banned, one map will be randomly selected from the remaining two maps.
+7. Each side will have two minutes to choose a map. If the timeout is reached, the referee will randomly select an unselected map from the mappool. After the map is selected, both players have two minutes to get ready.
 8. Possible mod choices for the FreeMod bracket are NoFail, Hidden, Fade In, Flashlight, and Mirror.
-9. There are no restrictions on whether both players can choose or not choose a certain map, except that the selected map must be in the game map pool, and you cannot choose a map that has been selected in the game, and you cannot choose Tiebreaker.
+9. There are no restrictions on whether both players can choose or not choose a certain map, except that the selected map must be in the game mappool, and you cannot choose a map that has been selected in the game, and you cannot choose the tiebreaker.
 10. In the case of a tie, the beatmap will be rematched, but not more than twice.
-11. Players are allowed to rematch if any player disconnects early on during a beatmap. Send a message as soon as poosible in the match room chat to notify the referee to restart the match.
-12. If necessary, the referee has the right to decide the implementation of the rules at his own discretion and has the final say on events that occur during the game.
+11. Players are allowed to rematch if any player disconnects early on during a beatmap. Send a message as soon as possible in the match room chat to notify the referee to restart the match.
+12. If necessary, the referee has the right to decide the implementation of the rules at their own discretion and has the final say on events that occur during the game.
