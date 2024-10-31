@@ -11,7 +11,7 @@ tags:
 
 ![GB杯2024线下赛图片](img/gbc2024irl-banner.png)
 
-**GB Cup 2024 In Real Life** (***GBC 2024 IRL***) is a LAN osu!mania 4-key solo tournament hosted by [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organized by GB. It was the sixth instalment of the GB Cup series and the first instalment of the GB Cup IRL. This LAN tournament was held offline at the Kululu Music Game Carnival in Shanghai, China.
+**GB Cup 2024 In Real Life** (***GBC 2024 IRL***) is a osu!mania 4-key solo LAN tournament hosted by [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organised by Team GB. It was the sixth instalment of the GB Cup series and the first instalment of the GB Cup IRL. This LAN tournament was held offline at the Kululu Music Game Carnival in Shanghai, China.
 
 ## Tournament schedule
 
@@ -30,9 +30,9 @@ tags:
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, 3rd place trophy, GBC pillow, GBC medal |
 | *Others* | GBC pillow, GBC medal |
 
-![Trophy Image](img/gbc2024irl-cups.jpg "GBC 2024 IRL trophies")
+![Trophy image](img/gbc2024irl-cups.jpg "GBC 2024 IRL trophies")
 
-![Badge Image](img/gbc2024irl-winner.png)
+![Badge image](img/gbc2024irl-winner.png)
 
 ## Organisation
 
