@@ -6,7 +6,7 @@ date: 2024-10-28 11:16:34 +0000
 
 The time for change is finally here!
 
-![](/wiki/shared/news/banners/pp-sr-pippi.jpg)
+![](/wiki/shared/news/banners/pp-sr-pippi.jpg?2)
 
 There are changes to all game modes this time around in an effort to improve the difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 
@@ -24,25 +24,29 @@ This will be done live, so as the new SR values are applied to beatmaps, new sco
 
 Importantly, **the old PP algorithm will still be used, so the PP values achieved will not be final**.
 
-### ⏳ Freeze global rank updates
+### ✅ Change new scores to use new calculation method (Completed 2024-10-30)
 
-We are about to reprocess every score in existence. Before doing this, we want to disable user rank updates. This means your current global / country rank (and graph) will be frozen in time until we're done reprocessing things.
+All new scores set will use the new SR and PP values.
 
-That said, if you play, your **total PP** will still immediately be updated. In addition, all new scores will now get their **correct new PP**.
+### ✅ Freeze global rank graph updates (Completed 2024-10-31)
+
+We are about to reprocess every score in existence. Before doing this, we need to disable user rank updates. This means your current global / country rank (and graph) will be frozen in time until we're done reprocessing things.
+
+That said, if you play, your **total PP** will still immediately be updated.
 
 If we didn't do this, users would see their rank jump all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
-### 🏃 Reprocess performance values of all scores (3 - 10 days)
+### 🏃 Reprocess performance values of all scores (3 - 10 days, ~15% completed)
 
 We now need to reprocess all 3,734,343,198 scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!stable and osu!lazer). This is the most time-consuming part of the deploy process.
 
-During this period, scores in "best performance" may look to be out of order or not visible.
+During this period, scores in "best performance" may look to be out of order or not be visible at all. Also, **your global rank might jump around** momentarily as not all users will be recalculated at once.
 
 In previous runs, we did this process starting on highest ranked users and working outwards, but this time around we're trying a different approach in order to more efficiently run the process. Even so, it's going to take a while.
 
-*peppynote: I'm running this in the background while preparing for the full run. Global ranks have not been frozen yet – this is unnecessary as I am starting by processing scores with low PP values.*
+### 🏃 Reprocess total PP values for all users (12 hours)
 
-### ⏳ Reprocess total PP values for all users (12 hours)
+This is running daily in the background to try and keep users aligned. It will continue to be run in the background until the process has finished.
 
 ### ⏳ Re-enabling of global rank history updates
 

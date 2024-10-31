@@ -122,7 +122,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=CH }:: | **Switzerland** | **[-Spartan](https://osu.ppy.sh/users/5783061)**, [\_Shroob](https://osu.ppy.sh/users/14349902), [-Azure](https://osu.ppy.sh/users/11189917), [flopper727](https://osu.ppy.sh/users/8603987), [J \]](https://osu.ppy.sh/users/10316438), [Mebura](https://osu.ppy.sh/users/15324900), [Schoki](https://osu.ppy.sh/users/13260523), [Skellers](https://osu.ppy.sh/users/8040245) |
 | ::{ flag=TW }:: | **Taiwan** | **[Imokora](https://osu.ppy.sh/users/2472609)**, [willy0214](https://osu.ppy.sh/users/8660293), [Ruyaya](https://osu.ppy.sh/users/16288992), [Flyer](https://osu.ppy.sh/users/9767342), [Meow\_Son](https://osu.ppy.sh/users/8186536), [Summer\_Ouo](https://osu.ppy.sh/users/15184992), [NekoKamui](https://osu.ppy.sh/users/7172340), [Kyros\_](https://osu.ppy.sh/users/23925029) |
 | ::{ flag=TH }:: | **Thailand** | **[Lesperry](https://osu.ppy.sh/users/18092331)**, [-Kedama](https://osu.ppy.sh/users/12147277), [chests](https://osu.ppy.sh/users/14806365), [Deppyforce](https://osu.ppy.sh/users/5286213), [soft bunny](https://osu.ppy.sh/users/9317938), [\[ Master \]](https://osu.ppy.sh/users/12130906), [Hinamon](https://osu.ppy.sh/users/14017762), [miinr](https://osu.ppy.sh/users/17792223) |
-| ::{ flag=TR }:: | **Turkey** | **[Raikouhou](https://osu.ppy.sh/users/8007528)**, [Orkay](https://osu.ppy.sh/users/9321674), [Shinkiro](https://osu.ppy.sh/users/6093148), [spray-](https://osu.ppy.sh/users/16750823), [Ievi-](https://osu.ppy.sh/users/14684430), [LyeRR](https://osu.ppy.sh/users/13068741), [Clutchx](https://osu.ppy.sh/users/14958380), [Liery](https://osu.ppy.sh/users/11551991) |
+| ::{ flag=TR }:: | **Türkiye** | **[Raikouhou](https://osu.ppy.sh/users/8007528)**, [Orkay](https://osu.ppy.sh/users/9321674), [Shinkiro](https://osu.ppy.sh/users/6093148), [spray-](https://osu.ppy.sh/users/16750823), [Ievi-](https://osu.ppy.sh/users/14684430), [LyeRR](https://osu.ppy.sh/users/13068741), [Clutchx](https://osu.ppy.sh/users/14958380), [Liery](https://osu.ppy.sh/users/11551991) |
 | ::{ flag=UA }:: | **Ukraine** | **[SHADOW FREAK](https://osu.ppy.sh/users/7587763)**, [HP DeskJet 3835](https://osu.ppy.sh/users/16139008), [POMAH](https://osu.ppy.sh/users/11794209), [RafGPio](https://osu.ppy.sh/users/13705417), [Kryterion](https://osu.ppy.sh/users/9920144), [KING GG](https://osu.ppy.sh/users/9820878), [CRIMEA](https://osu.ppy.sh/users/11078815), [KirbyTwister](https://osu.ppy.sh/users/7979597) |
 | ::{ flag=AE }:: | **United Arab Emirates** | **[Ailes Grises](https://osu.ppy.sh/users/10916561)**, [-Adood](https://osu.ppy.sh/users/10722756), [-aico](https://osu.ppy.sh/users/18371932), [aim1trick](https://osu.ppy.sh/users/18441629), [FGChamp](https://osu.ppy.sh/users/12637617), [wack](https://osu.ppy.sh/users/16383481), [Xluxic](https://osu.ppy.sh/users/12420896) |
 | ::{ flag=GB }:: | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [9MlCE](https://osu.ppy.sh/users/9269034), [rudj](https://osu.ppy.sh/users/11592896), [MALTESER](https://osu.ppy.sh/users/5218178), [Mahmood](https://osu.ppy.sh/users/7627844), [HAUNTE](https://osu.ppy.sh/users/7333471), [lystia](https://osu.ppy.sh/users/11042418), [skihuahua](https://osu.ppy.sh/users/16774872) |
@@ -138,18 +138,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Nov 02 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T110000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) |
-| South Korea ::{ flag=KR }:: | ::{ flag=BY }:: Belarus | [Nov 02 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T120000&p1=1440&p2=235) | [osulive](https://twitch.tv/osulive) |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=TW }:: Taiwan | [Nov 02 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T130000&p1=1440&p2=102&p3=241) | [osulive](https://twitch.tv/osulive) |
+| South Korea ::{ flag=KR }:: | ::{ flag=BY }:: Belarus | [Nov 02 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T140000&p1=1440&p2=235) |  |
 | Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Nov 02 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T140000&p1=1440&p2=145&p3=122) | [osulive](https://twitch.tv/osulive) |
-| Poland ::{ flag=PL }:: | ::{ flag=UA }:: Ukraine | [Nov 02 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T150000&p1=1440&p2=262&p3=367) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=FI }:: Finland | [Nov 02 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T160000&p1=1440&p2=136&p3=101) | [osulive](https://twitch.tv/osulive) |
-| France ::{ flag=FR }:: | Türkiye | [Nov 02 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T170000&p1=1440&p2=195) | [osulive_2](https://twitch.tv/osulive_2) |
+| Germany ::{ flag=DE }:: | ::{ flag=SG }:: Singapore | [Nov 02 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T140000&p1=1440&p2=37&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
+| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Nov 02 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T150000&p1=1440&p2=33&p3=248) | [osulive_2](https://twitch.tv/osulive_2) |
+| Norway ::{ flag=NO }:: | ::{ flag=TH }:: Thailand | [Nov 02 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T150000&p1=1440&p2=187&p3=28) | [osulive](https://twitch.tv/osulive) |
 | Canada ::{ flag=CA }:: | ::{ flag=KZ }:: Kazakhstan | [Nov 02 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T170000&p1=1440&p2=188) | [osulive](https://twitch.tv/osulive) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=AR }:: Argentina | [Nov 02 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T180000&p1=1440&p2=166&p3=51) | [osulive](https://twitch.tv/osulive) |
-| Romania ::{ flag=RO }:: | ::{ flag=BR }:: Brazil | [Nov 02 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T190000&p1=1440&p2=49&p3=45) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=ES }:: Spain | [Nov 02 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T200000&p1=1440&p2=232&p3=141) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Nov 02 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T210000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) |
+| Romania ::{ flag=RO }:: | ::{ flag=BR }:: Brazil | [Nov 02 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T180000&p1=1440&p2=49&p3=45) | [osulive_2](https://twitch.tv/osulive_2) |
+| Poland ::{ flag=PL }:: | ::{ flag=UA }:: Ukraine | [Nov 02 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241102T180000&p1=1440&p2=262&p3=367) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 3 November 2024
 
@@ -157,9 +154,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 | --: | :-- | :-- | :-: |
 | Australia ::{ flag=AU }:: | ::{ flag=AT }:: Austria | [Nov 03 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T110000&p1=1440&p2=57) | [osulive](https://twitch.tv/osulive) |
 | Sweden ::{ flag=SE }:: | ::{ flag=ID }:: Indonesia | [Nov 03 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T120000&p1=1440&p2=239&p3=108) | [osulive](https://twitch.tv/osulive) |
-| Germany ::{ flag=DE }:: | ::{ flag=SG }:: Singapore | [Nov 03 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T130000&p1=1440&p2=37&p3=236) | [osulive](https://twitch.tv/osulive) |
-| Norway ::{ flag=NO }:: | ::{ flag=TH }:: Thailand | [Nov 03 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T140000&p1=1440&p2=187&p3=28) | [osulive](https://twitch.tv/osulive) |
-| Round of 16 | mappool showcase | [Nov 03 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=FI }:: Finland | [Nov 03 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T160000&p1=1440&p2=136&p3=101) | [osulive](https://twitch.tv/osulive) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=AR }:: Argentina | [Nov 03 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T170000&p1=1440&p2=166&p3=51) | [osulive](https://twitch.tv/osulive) |
+| France ::{ flag=FR }:: | ::{ flag=TR }:: Türkiye | [Nov 03 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T180000&p1=1440&p2=195) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=ES }:: Spain | [Nov 03 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T190000&p1=1440&p2=232&p3=141) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Nov 03 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T190000&p1=1440&p2=263&p3=131) | [osulive_2](https://twitch.tv/osulive_2) |
+| Round of 16 | mappool showcase | [Nov 03 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241103T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
@@ -367,7 +367,13 @@ The final standings for the Qualifier stage can be found in the following [sprea
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Multiple teams may be grouped into a singular room if there are not enough referees available at match time.
-9. Only the top 32 seeded teams will advance to the Round of 32.
+9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1), and every other team will be awarded a percentage of that top score. The individual map percentages will be added together to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1.
+   - The exact formula that will be used for all teams (and for each map) is `Map percentage = Team score / MAX score`, where:
+     - `Map percentage` is the percentage awarded to the current team
+     - `Team score` is the score the current team achieved on the current map
+     - `MAX score` is the highest score achieved for the current map
+   - The final team score to be sorted is defined as `Final score = SUM(Map percentage)`, i.e. the sum of each map's `Map percentage`.
+10. Only the top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
 
