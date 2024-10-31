@@ -46,7 +46,7 @@ Among the osu! World Cup staples, teams like ::{ flag=DE }:: Germany, the ::{ fl
 
 The biggest buzz came from the battle for the coveted 32nd seed, with ::{ flag=BY }:: Belarus seizing the final spot and edging out fierce underdogs like ::{ flag=UY }:: Uruguay, ::{ flag=MX }:: Mexico, ::{ flag=IT }:: Italy, and ::{ flag=VN }:: Vietnam. Each team showed incredible drive and left it all in the lobby, proudly representing their countries.
 
-Several teams made history by participating in the osu! World Cup Qualifiers for the very first time! A round of applause to ::{ flag=BA }:: Bosnia and Herzegovina, ::{ flag=DO }:: the Dominican Republic, ::{ flag=GE }:: Georgia, ::{ flag=MO }:: Macau, ::{ flag=RS }:: Serbia, and ::{ flag=SI }:: Slovenia. While they may not have qualified this year, their performances showcased their immense desire for a spot and promise for the future!
+Several teams made history by participating in the osu! World Cup Qualifiers for the very first time! A round of applause to ::{ flag=BA }:: Bosnia and Herzegovina, ::{ flag=DO }:: the Dominican Republic, ::{ flag=GE }:: Georgia, ::{ flag=MO }:: Macau, ::{ flag=RS }:: Serbia and ::{ flag=SI }:: Slovenia. While they may not have qualified this year, their performances showcased their immense desire for a spot and promise for the future!
 
 ## A view behind the mappools
 
