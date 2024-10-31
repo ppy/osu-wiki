@@ -71,7 +71,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cualquier dificultad es...**
   - **... inferior a 2:00**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Normal o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 4 dificultades.
   - **... entre 2:00 y 2:45**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Hard o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 3 dificultades.
-  - **... entre 2:45 y 3:30**, each [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Insane o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 2 dificultades.
+  - **... entre 2:45 y 3:30**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Insane o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 2 dificultades.
 
 ### Pautas
 
