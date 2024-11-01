@@ -14,7 +14,5 @@ tags:
 
 ## 成員
 
-- ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)
-- ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987)
-- ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616)
 - ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455)
+- ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329)
