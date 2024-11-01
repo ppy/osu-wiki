@@ -125,12 +125,6 @@ The National Dutch Championship 2024 was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) |
-
 ![](img/podium.jpg "NDC 2024 results")
 
 ## Mappools
