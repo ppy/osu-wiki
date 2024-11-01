@@ -14,11 +14,37 @@ Starting with [registrations back in May 11](https://osu.ppy.sh/home/news/2024-0
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/podium.jpg)
 
-## Original music
+## Highlights
 
-A total of 26 [originals](/wiki/osu!_originals) were made specifically for this year's iteration, making Resurrection Cup 2024 the tournament with the highest amount of custom songs in the osu! game mode.
+In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator. Known not for his tournament commentary, but for the iconic "Greetings!" that every osu! boomer instantly recognises from their [osu! YouTube content](https://www.youtube.com/@vertoHUN). Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary to the delight of viewers. Not only that, but the intense match, moving from breakpoint to breakpoint and stretching well over an hour, is an absolute must watch. *Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4-2 deficit - @ [57:30](https://youtu.be/2l4KS5feTA8?t=3450) - *Germany owc B* ultimately couldn't keep up and fell short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) - @ [1:17:45](https://youtu.be/2l4KS5feTA8?t=4665). Their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
 
-It's a large amount of songs. To show just how large it is, let's list them all:
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
+</div>
+
+In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw both sides trading wins on their own picks until the last two picks, which both turned into breakpoints - @ [1:25:40](https://youtu.be/R0FSFEV_uLA?t=5140). The match culminated in a tiebreaker, where ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) gave an incredible performance by S-ranking Shokiii’s original Finals Tiebreaker song, [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364). Despite finding a sliderbreak in the final kiai section, this performance pulled team *fresh of the boat* across the finish, securing them the victory in the match - @ [1:38:08](https://youtu.be/R0FSFEV_uLA?t=5888).
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+And at last, the rematch and the summit of the tournament this year, the Grandfinals match between *kotomiler* and *fresh off the boat*. Taking place on a fully custom mapped mappool, this was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3-3 - @ [56:00](https://youtu.be/wYxXtFU1SRY?t=3360) - *kotomiler* managed to run away with it, securing 2 breakpoints, and taking *fresh off the boat* to bracket reset. Here, *kotomiler* didn't manage to keep their momentum going, losing their very first pick. Down by 2 points after 4 maps, they managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) again - @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, both of them achieving an fc, taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat* and after nearly 3 hours of splendour performances on both sides, *kotomiler* ultimately took home the victory.
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wYxXtFU1SRY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Resurrection Cup originals
+
+This year, we've managed to release 26 songs, alongside all of them over 30 original illustrations ranging from beatmap backgrounds, PV animations, album covers and other necessary assets for announcements and banners.
+
+Here is a crossfade showcasing the selection of these songs that will appear in the *Wishes for Tomorrow* album!
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/uA8mW0SXhxg" frameborder="0" allowfullscreen></iframe>
+</div>
+
+26 is a large amount of songs to listen to. In case you wanted to check them out individually, here's the entire list:
 
 | Links | Song | Beatmap | Mappool slot |
 | --: | :-- | :-: | :-- |
@@ -49,41 +75,11 @@ It's a large amount of songs. To show just how large it is, let's list them all:
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/trung-nova_727/hypernovadebris "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=TY7R9EDSTzM "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/2ObDBWsbp7uqjbIU8A3pbk "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://trung-nova.bandcamp.com/album/hypernova-debris "Bandcamp") | trung-nova - HYPERNOVA//DEBRIS | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2219273) | Grand Finals FM2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-721414606/delusions "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DNX09ZN0zuI "YouTube") | N\_dog feat. quu-zie - Delusions | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2219285) | Grand Finals tiebreaker |
 
-## Highlights
-
-In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator. Known not for his tournament commentary, but for the iconic "Greetings!" that every osu! boomer instantly recognises from their [osu! YouTube content](https://www.youtube.com/@vertoHUN). Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary to the delight of viewers. Not only that, but the intense match, moving from breakpoint to breakpoint and stretching well over an hour, is an absolute must watch. *Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4-2 deficit - @ [57:30](https://youtu.be/2l4KS5feTA8?t=3450) - *Germany owc B* ultimately couldn't keep up and fell short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) - @ [1:17:45](https://youtu.be/2l4KS5feTA8?t=4665). Their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
-</div>
-
-In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw both sides trading wins on their own picks until the last two picks, which both turned into breakpoints - @ [1:25:40](https://youtu.be/R0FSFEV_uLA?t=5140). The match culminated in a tiebreaker, where ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) gave an incredible performance by S-ranking Shokiii’s original Finals Tiebreaker song, [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364). Despite finding a sliderbreak in the final kiai section, this performance pulled team *fresh of the boat* across the finish, securing them the victory in the match - @ [1:38:08](https://youtu.be/R0FSFEV_uLA?t=5888).
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
-</div>
-
-And at last, the rematch and the summit of the tournament this year, the Grandfinals match between *kotomiler* and *fresh off the boat*. Taking place on a fully custom mapped mappool, this was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3-3 - @ [56:00](https://youtu.be/wYxXtFU1SRY?t=3360) - *kotomiler* managed to run away with it, securing 2 breakpoints, and taking *fresh off the boat* to bracket reset. Here, *kotomiler* didn't manage to keep their momentum going, losing their very first pick. Down by 2 points after 4 maps, they managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) again - @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, both of them achieving an fc, taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat* and after nearly 3 hours of splendour performances on both sides, *kotomiler* ultimately took home the victory.
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wYxXtFU1SRY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-## Resurrection Cup originals
-
-This year, we've managed to release 26 songs, alongside all of them over 30 original illustrations ranging from beatmap backgrounds, PV animations, album covers and other necessary assets for announcements and banners.
-
-Here is a crossfade showcasing them all!
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/uA8mW0SXhxg" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ## Serenity, the face of Resurrection Cup
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/serenity.jpg)
 
-Resurrection Cup's theme is something that has evolved throughout its 3 past iterations. This is mainly represented in the graphics side of production work, and most easily spotted through the banners.
+Resurrection Cup's theme is something that has evolved throughout its 3 past iterations. This is mainly represented in the tournament's graphics.
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/theme-progression.png)
 
@@ -207,6 +203,8 @@ For me, she is meant to represent how individuals come together to create someth
 </div>
 
 ## Staff interviews
+
+A lot of people were involved in making Resurrection Cup happen. We've asked a few more of those people to give insights into what makes Resurrection Cup... Resurrection Cup.
 
 ::{#alvearia-and-luminous-sky}::
 
