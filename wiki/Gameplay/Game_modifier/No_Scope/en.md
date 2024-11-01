@@ -41,7 +41,7 @@ The same applies to the catcher from osu!catch.
 
 ### Hidden at combo
 
-- You can change the value of the combo in which the cursor/catcher will disappear. It ranges from 0 (always hidden) to 50.
+You can change the value of the combo in which the cursor/catcher will disappear. It ranges from 0 (always hidden) to 50.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
