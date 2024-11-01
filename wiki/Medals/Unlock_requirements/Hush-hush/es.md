@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 28f66b88547dc9468350e5d84580b9cc32128832
----
-
 # Requisitos para desbloquear las medallas Hush-Hush
 
 Las soluciones reales de las medallas [Hush-Hush](/wiki/Medals#hush-hush) se omiten intencionalmente en este artículo para ayudar a preservar sus secretos. Se anima a la comunidad a colaborar entre sí para encontrar las soluciones.

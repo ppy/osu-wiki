@@ -34,7 +34,6 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 
 | osu! profile | GitHub profile | Join date |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) | 9 November 2021 |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) | 9 November 2021 |
 | ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) | 12 April 2024 |
 
@@ -44,6 +43,7 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 9 November 2021 | 12 April 2024 |
 | ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | 9 November 2021 | 12 April 2024 |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | 9 November 2021 | 29 October 2024 |
 
 ### osu!taiko
 
