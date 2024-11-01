@@ -9,7 +9,7 @@ tags:
 
 # GB Cup 2024 In Real Life
 
-![GB Cup 2024 IRL banner](img/gbc2024irl-banner.png)
+![GB Cup 2024 IRL banner](img/gbc2024irl-banner.jpg)
 
 **GB Cup 2024 In Real Life** (***GBC 2024 IRL***) is a osu!mania 4-key solo LAN tournament hosted by [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organised by Team GB. It was the sixth instalment of the GB Cup series and the first instalment of the GB Cup IRL. This LAN tournament was held offline at the Kululu Music Game Carnival in Shanghai, China.
 

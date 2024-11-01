@@ -9,7 +9,7 @@ tags:
 
 # GB杯 2024 线下赛
 
-![GB杯2024线下赛图片](img/gbc2024irl-banner.png)
+![GB杯2024线下赛图片](img/gbc2024irl-banner.jpg)
 
 **GBC 2024 IRL** (***GB杯2024线下赛***) 是由[\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407)主办，由GB组织承办，在库璐璐音游嘉年华线下进行的osu!mania 4k 项目赛事。
 
