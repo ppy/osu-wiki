@@ -282,7 +282,7 @@ Resurrection Cup has grown significantly in terms of team size and staff members
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/433" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Xyris.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/beatmaps/artists/433">Xyris</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/433">Xyris</a></p>
 
 From what I've seen both composers and illustrators had a strong work ethic; I was able to see the passion they put into their work. Composers were punctual, on time, and the illustrators accommodated for their songs with great quality. At the end, I was able to form many connections with the composers and illustrators alike with the friendly atmosphere at ResCup.
 
