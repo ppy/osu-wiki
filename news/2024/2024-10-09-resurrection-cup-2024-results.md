@@ -51,22 +51,19 @@ It's a large amount of songs. To show just how large it is, let's list them all:
 
 ## Highlights
 
-In the Quarterfinals, the one and only [verto](https://osu.ppy.sh/users/2015300) commentated alongside [SadShiba](https://osu.ppy.sh/users/10747626) which surprised a lot of people in the match
-swaglords vs. Germany owc B
+In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator. Known not for his tournament commentary, but for the iconic "Greetings!" that every osu! boomer instantly recognises from their [osu! YouTube content](https://www.youtube.com/@vertoHUN). Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary to the delight of viewers. Not only that, but the intense match, moving from breakpoint to breakpoint and stretching well over an hour, is an absolute must watch. *Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4-2 deficit - @ [57:30](https://youtu.be/2l4KS5feTA8?t=3450) - *Germany owc B* ultimately couldn't keep up and fell short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) - @ [1:17:45](https://youtu.be/2l4KS5feTA8?t=4665). Their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-First time seed #1 and seed #2 clashed in Finals immediately going to a tiebreaker where [FlyingTuna](https://osu.ppy.sh/users/9224078) S-ranked Shokiii's Finals tiebreaker original song!
-kotomiler vs. fresh off the boat
+In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw both sides trading wins on their own picks until the last two picks, which both turned into breakpoints - @ [1:25:40](https://youtu.be/R0FSFEV_uLA?t=5140). The match culminated in a tiebreaker, where ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) gave an incredible performance by S-ranking Shokiii’s original Finals Tiebreaker song, [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364). Despite finding a sliderbreak in the final kiai section, this performance pulled team *fresh of the boat* across the finish, securing them the victory in the match - @ [1:38:08](https://youtu.be/R0FSFEV_uLA?t=5888).
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And at last, the rematch and the summit of the tournament this year, the Grand Finals match between seed #1 and seed #2 once again
-Commentated by [D I O](https://osu.ppy.sh/users/3958619) and [Tycani](https://osu.ppy.sh/users/6693266), letting us all witness a comeback from losers bracket, taking fresh off the boat to Bracket Reset and winning the tournament.
+And at last, the rematch and the summit of the tournament this year, the Grandfinals match between *kotomiler* and *fresh off the boat*. Taking place on a fully custom mapped mappool, this was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3-3 - @ [56:00](https://youtu.be/wYxXtFU1SRY?t=3360) - *kotomiler* managed to run away with it, securing 2 breakpoints, and taking *fresh off the boat* to bracket reset. Here, *kotomiler* didn't manage to keep their momentum going, losing their very first pick. Down by 2 points after 4 maps, they managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) again - @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, both of them achieving an fc, taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat* and after nearly 3 hours of splendour performances on both sides, *kotomiler* ultimately took home the victory.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wYxXtFU1SRY" frameborder="0" allowfullscreen></iframe>
@@ -321,7 +318,7 @@ There are many artists who inspire me, even if they're not my favorites. Their w
 
 </div>
 
-### [Boy]DaLat & Hoaq
+### \[Boy\]DaLat & Hoaq
 
 <div class="news-chat-quote__text-container">
 
