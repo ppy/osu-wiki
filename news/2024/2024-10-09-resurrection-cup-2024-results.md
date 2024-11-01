@@ -86,21 +86,17 @@ Here is a crossfade showcasing them all!
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/serenity.jpg)
 
-Resurrection Cup’s themes have never been the same throughout the 3 iterations. This is mainly represented in the graphics side of production work, and most easily spotted through the main logos.
+Resurrection Cup's theme is something that has evolved throughout its 3 past iterations. This is mainly represented in the graphics side of production work, and most easily spotted through the banners.
 
-In 2022, the theme was about humanity still being alive and thriving even after a devastating apocalypse where afterwards the metropolitan areas of the planet are reclaimed by nature.
+![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/theme-progression.png)
 
-![](https://phreel.s-ul.eu/GQvyYai6)
+- In 2022, the theme was about humanity still being alive and thriving even after a devastating apocalypse where afterwards the metropolitan areas of the planet are reclaimed by nature.
+- In 2023, the last traces of humanity are now gone, as planets are colliding with one another, Earth isn’t any different. Represented by vibrant red and orange colors, a cataclysmic event that surely will not leave any living organism behind.
+- This year, you, as the player or viewer of the tournament series, are given a second chance at living. Now you are in the afterlife, and you get a chance to prove yourself worthy. Worthy of reincarnation.
 
-In 2023, the last traces of humanity are now gone, as planets are colliding with one another, Earth isn’t any different. Represented by vibrant red and orange colors, a cataclysmic event that surely will not leave any living organism behind.
+**Serenity**, the mascot of this tournament, is the one you encounter at the very end (the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2219285)), and is the arbiter of your fate in the afterlife (whether you win the tournament).
 
-![](https://phreel.s-ul.eu/lF5Rib4v)
-
-This year, you, as the player or viewer of the tournament series, are given a second chance at living. Now you are in the afterlife, you get a chance to prove yourself worthy. Worthy of reincarnation.
-
-![](https://phreel.s-ul.eu/D6hgHxlw)
-
-Here is a brief text based interview with her author:
+Here is a brief text-based interview with her author:
 
 <style>
     .news-chat-quote__avatar {
