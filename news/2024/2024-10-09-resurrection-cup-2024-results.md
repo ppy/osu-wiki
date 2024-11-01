@@ -16,8 +16,6 @@ Starting with [registrations back in May 11](https://osu.ppy.sh/home/news/2024-0
 
 ## Highlights
 
-## Highlights
-
 In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator. Known not for his tournament commentary, but for the iconic "Greetings!" that every osu! boomer instantly recognises from their [osu! YouTube content](https://www.youtube.com/@vertoHUN). Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary to the delight of viewers. Not only that, but the intense match, moving from breakpoint to breakpoint and stretching well over an hour, is an absolute must watch. 
 
 *Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4-2 deficit - @ [57:30](https://youtu.be/2l4KS5feTA8?t=3450) - *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) - @ [1:17:45](https://youtu.be/2l4KS5feTA8?t=4665). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
