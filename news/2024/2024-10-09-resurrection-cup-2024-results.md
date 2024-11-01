@@ -126,6 +126,10 @@ Here is a brief text-based interview with her author:
     }
 </style>
 
+::{#yumeyo}::
+
+![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/yumeyo.jpg)
+
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.jpg')"></a>
@@ -204,7 +208,9 @@ For me, she is meant to represent how individuals come together to create someth
 
 ## Staff interviews
 
-### Alvearia & Luminous Sky
+::{#alvearia-and-luminous-sky}::
+
+![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/alvearia-and-luminous-sky.jpg)
 
 <div class="news-chat-quote__text-container">
 
@@ -258,7 +264,9 @@ From my side I would not say there were any issues, at least in my division – 
 
 </div>
 
-### Krimek & Xyris
+::{#krimek-and-xyris}::
+
+![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/krimek-and-xyris.jpg)
 
 <div class="news-chat-quote__text-container">
 
@@ -318,7 +326,9 @@ There are many artists who inspire me, even if they're not my favorites. Their w
 
 </div>
 
-### \[Boy\]DaLat & Hoaq
+::{#hoaq-and-boydalat}::
+
+![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/hoaq-and-[boy]dalat.jpg)
 
 <div class="news-chat-quote__text-container">
 
