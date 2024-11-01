@@ -8,13 +8,46 @@ This year's Resurrection Cup has come to an end... read on for the results and r
 
 ![](/wiki/shared/news/2024-05-12-resurrection-cup-2024-registrations-now-open/banner.jpg)
 
-Starting with [registrations back in May 11](https://osu.ppy.sh/home/news/2024-05-12-resurrection-cup-2024-registration-now-open) and ending with a grand final showdown on July 28, the Resurrection Cup ends another year with a bang.
-
-A total of 26 [originals](/wiki/osu!_originals) were made specifically for this year's iteration, making Resurrection Cup 2024 the tournament with the highest amount of custom songs in the osu! game mode.
+Starting with [registrations back in May 11](https://osu.ppy.sh/home/news/2024-05-12-resurrection-cup-2024-registration-now-open) and ending with a grand final showdown on July 28, the Resurrection Cup has ended another year with a bang.
 
 ## Results
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/podium.jpg)
+
+## Original music
+
+A total of 26 [originals](/wiki/osu!_originals) were made specifically for this year's iteration, making Resurrection Cup 2024 the tournament with the highest amount of custom songs in the osu! game mode.
+
+It's a large amount of songs. To show just how large it is, let's list them all:
+
+| Links | Song | Beatmap | Mappool slot |
+| --: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/beyond-the-riemann-sphere "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UHtFSyECmWE "YouTube") | takehirotei - Beyond the Riemann Sphere |  | Livestream BGM |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/rescup-2024-a-white-fox-consumes-a-vial-of-cakewater-as-it-obliterates-a-green-racoon "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=cS2lAfmNkm0 "YouTube") | ptar124 - A White Fox Consumes a Vial of "Cakewater" as It Obliterates a Green Racoon | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2199371) | Round of 32 HR2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=6N1mquCQyLQ "YouTube") | Ardolf - Shattered Vows | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2199395) | Round of 32 tiebreaker |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=TUkAPCyZP6g "YouTube") | l'avenir proche - 100ml of ethylene glycol | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2203294) | Round of 16 NM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/circles-in-ruin-ft-ethereal_winter "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yue7ffo8FxE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roer.bandcamp.com/track/circles-in-ruin-ft-ethereal-winter "Bandcamp") | roer (feat. Ethereal\_Winter) - Circles in Ruin | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2203288) | Round of 16 tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/bleed "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Y6Fi-rLNdBU "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://blobdash.bandcamp.com/track/bleed "Bandcamp") | blobdash - BLEED | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2207093) | Quarterfinals NM2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rhe4/necrotopia "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yhg7x2DgtT8 "YouTube") | celtix - Necrotopia | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2207078) | Quarterfinals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/cexiria/colossalraid "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=0sUGxhkGiT0 "YouTube") | cexiria - Colossal Raid | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2210471) | Semifinals NM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/departed "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Yb5NmFML-lQ "YouTube") | SiLiS - departed | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2210733) | Semifinals HD3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kagetora0610/shattered-snow "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Nn8bqiCznIw "YouTube") | Kagetora. - Shattered snow | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2210718) | Semifinals HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/saishuusonzai "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=avpWkDnQ0tY "YouTube") | sugosugiii feat. Eili - Saishuu Sonzai : Hakai Sekai no Shinsei-Ryoku | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2210767) | Semifinals HR3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-452089122/mirage "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=gehSVIOFzhY "YouTube") | Anfini - Mirage | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2210921#osu/4683342) | Semifinals FM1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/proxima-centauri "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=AyXHODDyiYY "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/proxima-centauri "Bandcamp") | Sydosys - Proxima Centauri | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2210588) | Semifinals FM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/itsxyris/hiraeth-resurrection-cup-2023-finals-tb "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=BBCK2s97YL0 "YouTube") | Xyris - Hiraeth | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2210796) | Semifinals tiebreaker |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=H37eO51crZk "YouTube") | Harada Hitomi - Overdrive (Yuuni's J-Core Bootleg)[^fa] | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2215023) | Finals NM1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/z-u-y-a/plemt-rescup-2024-finals-nm3 "SoundCloud") | zuya - plemt | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2215026) | Finals NM3 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Jnrdg-RumAo "YouTube") | Fu've - Einherjar | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2214967) | Finals NM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/lunaria "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=dEWzFJ5_JuI "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/lunaria "Bandcamp") | Krimek feat. michiri9 - Lunaria | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2215066) | Finals HR2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=L67JhB9PA2Y "YouTube") | breakchild - E5E4E2 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2215068) | Finals HR3 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=LxXprhxwNIk "YouTube") | Raytoly - Luminost | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2215200) | Finals FM3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/lusumimusic/abyssal-chronosrescup-2024 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=QAWCxwFROko "YouTube") | Lusumi - ABYSSAL CHRONOS | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2214821) | Finals FM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ninshoki/eterna "SoundCloud") | Shokii - Eterna | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2215097) | Finals tiebreaker |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=P1cFTorZe9I "YouTube") | Resurrection Cup Sound Team - Wishes for Tomorrow | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2219252) | Grand Finals NM1 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Rp9EWqX_ugo "YouTube") | Sh0wtime - POWERMOVE | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2219255) | Grand Finals HR2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/trung-nova_727/hypernovadebris "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=TY7R9EDSTzM "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/2ObDBWsbp7uqjbIU8A3pbk "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://trung-nova.bandcamp.com/album/hypernova-debris "Bandcamp") | trung-nova - HYPERNOVA//DEBRIS | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2219273) | Grand Finals FM2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-721414606/delusions "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DNX09ZN0zuI "YouTube") | N\_dog feat. quu-zie - Delusions | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2219285) | Grand Finals tiebreaker |
 
 ## Highlights
 
@@ -53,7 +86,8 @@ Here is a crossfade showcasing them all!
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/serenity.jpg)
 
-Resurrection Cup’s themes have never been the same throughout the 3 iterations. This is mainly represented in the graphics side of production work, and most easily spotted through the main logos. 
+Resurrection Cup’s themes have never been the same throughout the 3 iterations. This is mainly represented in the graphics side of production work, and most easily spotted through the main logos.
+
 In 2022, the theme was about humanity still being alive and thriving even after a devastating apocalypse where afterwards the metropolitan areas of the planet are reclaimed by nature.
 
 ![](https://phreel.s-ul.eu/GQvyYai6)
