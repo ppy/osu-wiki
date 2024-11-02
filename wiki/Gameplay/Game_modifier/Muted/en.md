@@ -35,21 +35,15 @@ The **Muted** mod progressively removes the audio between the first and hundredt
 
 ## Customise
 
-### Start muted
+![Customise Muted](/wiki/Gameplay/Game_modifier_(lazer)/img/Customise_MU.jpg)
 
-The audio will be muted when you start the map. The more combo you get, the better you can hear the track. **The option is disabled by default.**
+- **Start muted:** The audio will be muted when you start the map. The more combo you get, the better you can hear the track. *The option is disabled by default.*
 
-### Enable metronome
+- **Enable metronome:** A metronome will be added to help you keep on track of the rhythm. *The option is enabled by default.*
 
-A metronome will be added to help you keep on track of the rhythm. **The option is enabled by default.**
+- **Finale volume at combo:** You can change the value of the combo in which the audio will be removed. It ranges from 0 (always muted) to 500.
 
-### Finale volume at combo
-
-You can change the value of the combo in which the audio will be removed. It ranges from 0 (always muted) to 500.
-
-### Mute hit sounds
-
-When the volume gradually decreases the more combo you get. the hit sounds will also be muted. **The option is enabled by default.**
+- **Mute hit sound:s** When the volume gradually decreases the more combo you get. the hit sounds will also be muted. *The option is enabled by default.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
