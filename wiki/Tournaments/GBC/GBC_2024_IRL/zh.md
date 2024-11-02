@@ -31,6 +31,7 @@ tags:
 | *其他* | 抱枕 + 周边 |
 
 ![奖杯图片](img/gbc2024irl-cups.jpg "GBC 2024 IRL 奖杯") 
+
 ![冠军缎带图片](img/gbc2024irl-winner.png "GBC 2024 IRL 冠军缎带") 
 
 ## 工作人员
