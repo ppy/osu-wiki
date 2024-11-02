@@ -75,7 +75,7 @@ The osu!taiko Mapping World Cup 2024 was run by various community members.
 
 ## Podium
 
-![TMWC 2024 podium](img/podium.jpg "osu!taiko Mapping World Cup 2024 podium")
+![TMWC 2024 podium](img/podium.png "osu!taiko Mapping World Cup 2024 podium")
 
 A complete breakdown of the contest results, overview of participating teams, and links to detailled scores and feedback can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1TJfreAbuk25zua2Zp5ncH1BA5QkhzEMpgkLhbal-Ri0/edit?usp=sharing).
 
