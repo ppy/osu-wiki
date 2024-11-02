@@ -36,8 +36,8 @@ Las conversiones de osu!taiko se generan según la colocación de los [hitsounds
 Las conversiones de osu!catch se generan según el ritmo y el *posicionamiento horizonal* (p. ej. la coordenada del eje x) de los [objetos](/wiki/Gameplay/Hit_object) en un beatmap de la siguiente manera:
 
 - Los círculos, slider heads, slider tails, y slider repeats son convertidos en [frutas](/wiki/Gameplay/Hit_object/Fruit).
-- Los slider ticks son convertidos en [gotas de jugo](/wiki/Gameplay/Hit_object/Juice_stream#drop).
-- Las rutas de los sliders se convierten en [gotitas](/wiki/Gameplay/Hit_object/Juice_stream#droplet).
+- Los slider ticks son convertidos en [gotas](/wiki/Gameplay/Hit_object/Juice_stream#gota).
+- Las rutas de los sliders se convierten en [gotitas](/wiki/Gameplay/Hit_object/Juice_stream#gotita).
 - Los spinners se convierten en [plátanos](/wiki/Gameplay/Hit_object/Banana).
 
 ### Conversión de osu! a osu!mania
