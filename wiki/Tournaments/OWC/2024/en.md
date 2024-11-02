@@ -59,6 +59,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 - [Challonge bracket](https://challonge.com/OWC24)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/158) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [VOD collection (Twitch)](https://www.twitch.tv/collections/P0Fp2MQ_ABijBw)
+- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1382)
 
 ## Participants
 
