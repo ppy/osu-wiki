@@ -39,9 +39,9 @@ The same applies to the catcher from osu!catch.
 
 ## Customise
 
-### Hidden at combo
+![Customise No Scope](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.jpg)
 
-You can change the value of the combo in which the cursor/catcher will disappear. It ranges from 0 (always hidden) to 50.
+- **Hidden at combo:** You can change the value of the combo in which the cursor/catcher will disappear. It ranges from 0 (always hidden) to 50. *10 combo is the default value.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
