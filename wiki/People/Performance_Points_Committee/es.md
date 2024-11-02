@@ -54,7 +54,6 @@ El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encue
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1 mayo de 2022 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) | 1 mayo de 2022 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) | 1 mayo de 2022 |
 | ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) | 25 julio de 2023 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 de septiembre de 2023 |
 
@@ -63,6 +62,7 @@ El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encue
 | Perfil de osu! | Fecha de ingreso | Fecha de salida |
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | 1 mayo de 2022 | 17 de septiembre de 2023 |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 9 mayo de 2022 | 31 de octubre de 2024 |
 
 ### osu!catch
 
