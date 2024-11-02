@@ -35,7 +35,7 @@ The **Muted** mod progressively removes the audio between the first and hundredt
 
 ## Customise
 
-![Customise Muted](/wiki/Gameplay/Game_modifier_(lazer)/img/Customise_MU.jpg)
+![Customise Muted](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.jpg)
 
 - **Start muted:** The audio will be muted when you start the map. The more combo you get, the better you can hear the track. *The option is disabled by default.*
 
