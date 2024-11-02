@@ -62,7 +62,7 @@ El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encue
 | Perfil de osu! | Fecha de ingreso | Fecha de salida |
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | 1 mayo de 2022 | 17 de septiembre de 2023 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 9 mayo de 2022 | 31 de octubre de 2024 |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1 mayo de 2022 | 31 de octubre de 2024 |
 
 ### osu!catch
 
