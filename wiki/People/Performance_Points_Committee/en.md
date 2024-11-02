@@ -61,7 +61,7 @@ The osu!taiko panel was formed on 1 May 2022 in response to [a community survey 
 | osu! profile | Join date | Leave date |
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | 1 May 2022 | 17 September 2023 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)| 1 May 2022 | 31 October 2024 |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1 May 2022 | 31 October 2024 |
 
 ### osu!catch
 
