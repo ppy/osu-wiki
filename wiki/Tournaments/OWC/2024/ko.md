@@ -189,7 +189,7 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
   3. [BlackY feat. Risa Yuzuki - Stellalude (Hinsvar) \[Prayer\]](https://osu.ppy.sh/beatmapsets/1515209#osu/3102195)
 - Tiebreaker
   1. **[Imy feat. Natsume Itsuki - Lies playing Truth (Garden, Ryuusei Aika) \[Facade\]](https://osu.ppy.sh/beatmapsets/2271658#osu/4838793)**
- 
+
 ### 퀄리파이어
 
 **[맵팩은 여기서 다운로드가 가능합니다 (71 MB)](https://packs.ppy.sh/P263%20-%20osu!%20World%20Cup%202024%3A%20Qualifiers.zip)**\
@@ -210,7 +210,7 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
   1. [Pegboard Nerds - We Are One (Original Vocal Mix) (Aistre) \[Epic\]](https://osu.ppy.sh/beatmapsets/2267993#osu/4829833)
   2. [-45 - Xna (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/2267990#osu/4829830)
   3. [Annabel - Transient (dasdwqdf, maot) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/2268017#osu/4829883)
- 
+
 ## Match results
 
 ### Qualifiers
