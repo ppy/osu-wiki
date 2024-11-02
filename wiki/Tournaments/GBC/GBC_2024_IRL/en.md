@@ -79,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [GB]GanyuAngel |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Mantozi |
 
-![Podium Photo](img/gbc2024irl-together.jpg) 
+![Podium Photo](img/gbc2024irl-together.jpg)
 
 ## Mappools
 

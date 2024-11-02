@@ -30,9 +30,9 @@ tags:
 | ![铜冠图片](/wiki/shared/crown-bronze.png "季军") | 喵喵定制勋章 + 季军奖杯 + 抱枕 + 周边 |
 | *其他* | 抱枕 + 周边 |
 
-![奖杯图片](img/gbc2024irl-cups.jpg "GBC 2024 IRL 奖杯") 
+![奖杯图片](img/gbc2024irl-cups.jpg "GBC 2024 IRL 奖杯")
 
-![冠军缎带图片](img/gbc2024irl-winner.png "GBC 2024 IRL 冠军缎带") 
+![冠军缎带图片](img/gbc2024irl-winner.png "GBC 2024 IRL 冠军缎带")
 
 ## 工作人员
 
@@ -77,7 +77,7 @@ GB杯2024线下赛由 GB 成员和多位社区成员举办。
 | ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | [GB]GanyuAngel |
 | ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | Mantozi |
 
-![领奖照片](img/gbc2024irl-together.jpg) 
+![领奖照片](img/gbc2024irl-together.jpg)
 
 ## 图池
 
