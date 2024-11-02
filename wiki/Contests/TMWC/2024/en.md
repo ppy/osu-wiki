@@ -30,20 +30,16 @@ Registrations were open from May 17 until June 8, 2024. Each round consisted of 
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| Round 4 mapping phase | 2024-07-27 until 2024-08-10 |
-| Round 4 judging phase | 2024-08-10 until 2024-08-31 |
-| Round 5 mapping phase | 2024-07-27 until 2024-08-10 |
-| Round 5 judging phase | 2024-08-10 until 2024-08-31 |
+| Round 4 and 5 mapping phase | 2024-07-27 until 2024-08-10 |
+| Round 4 and 5 judging phase | 2024-08-10 until 2024-08-31 |
 | Results | 2024-08-31 |
 
 ### Stage 3
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| Round 6 mapping phase | 2024-08-31 until 2024-09-22 |
-| Round 6 judging phase | 2024-09-22 until 2024-10-20 |
-| Round 7 mapping phase | 2024-08-31 until 2024-09-22 |
-| Round 7 judging phase | 2024-09-22 until 2024-10-20 |
+| Round 6 and 7 mapping phase | 2024-08-31 until 2024-09-22 |
+| Round 6 and 7 judging phase | 2024-09-22 until 2024-10-20 |
 | Results | 2024-10-20 |
 
 ## Prizes
