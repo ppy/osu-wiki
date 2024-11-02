@@ -41,7 +41,7 @@ The **Muted** mod progressively removes the audio between the first and hundredt
 
 - **Enable metronome:** A metronome will be added to help you keep on track of the rhythm. *The option is enabled by default.*
 
-- **Finale volume at combo:** You can change the value of the combo in which the audio will be removed. It ranges from 0 (always muted) to 500.
+- **Finale volume at combo:** You can change the value of the combo in which the audio will be removed. It ranges from 0 (always muted) to 500. *100 is the default value.*
 
 - **Mute hit sound:s** When the volume gradually decreases the more combo you get. the hit sounds will also be muted. *The option is enabled by default.*
 
