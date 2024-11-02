@@ -81,7 +81,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - Barrel Roll (BR) ![][osu!]
 - Approach Different (AD) ![][osu!]
 - [Floating Fruits (FF)](/wiki/Gameplay/Game_modifier/Floating_Fruits) ![][osu!catch]
-- Muted (MU) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Muted (MU)](/wiki/Gameplay/Game_modifier/Muted) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope) ![][osu!] ![][osu!catch]
 - Magnetised (MG) ![][osu!]
 - Repel (RP) ![][osu!]
