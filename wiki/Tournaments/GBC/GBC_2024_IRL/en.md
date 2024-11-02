@@ -32,7 +32,7 @@ tags:
 
 ![Trophy image](img/gbc2024irl-cups.jpg "GBC 2024 IRL trophies")
 
-![Badge image](img/gbc2024irl-winner.png)
+![Badge image](img/gbc2024irl-winner.png "GBC 2024 IRL winner badge")
 
 ## Organisation
 
