@@ -22,7 +22,7 @@ Beatmap Nominator activity is measured via nominations,[^multi-key-mode] and is 
 
 - Beatmap Nominators must nominate at least **6** beatmaps over a 90-day period.
   - An activity warning will be issued when failing to meet this rule.  
-  - Falling below **4** nominations will always result in removal from the Beatmap Nominators instead.
+  - Falling below **4** nominations will always result in removal from the Beatmap Nominators.
 - Hybrid Beatmap Nominators must nominate at least **3** beatmaps per proficient game mode over a 90-day period.
   - An activity warning in the relevant game mode will be issued when failing to meet this rule.  
   - Falling below **2** nominations a given game mode will always result in removal from the Beatmap Nominators of said game mode.
