@@ -18,7 +18,7 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 
 ## Activity
 
-Beatmap Nominator activity is measured via nominations[^multi-key-mode], and is evaluated during regular BN evaluations, which happen around every 90 days.
+Beatmap Nominator activity is measured via nominations,[^multi-key-mode] and is evaluated during regular BN evaluations, which happen around every 90 days.
 
 - Beatmap Nominators must nominate at least **6** beatmaps over a 90-day period.
   - Falling below **4** nominations in a 90-day period will result in a removal.
