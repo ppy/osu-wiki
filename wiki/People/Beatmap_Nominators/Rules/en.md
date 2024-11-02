@@ -29,7 +29,7 @@ Beatmap Nominator activity is measured via nominations[^multi-key-mode], and is 
 - When warned for activity, minimum activity requirements must be met after 30 days.
 - Failing to meet the required minimum when being warned for it within a period of 1 year will result in a removal from the Beatmap Nominators.
 
-When a Beatmap Nominator's evaluation is created, and they still need to meet their minimum activity requirements, they will receive a reminder via the [NAT bot](https://osu.ppy.sh/users/6616586) and will be given **7** days to meet their quota.
+When a Beatmap Nominator's evaluation is created and they still need to meet their minimum activity requirements, they will receive a reminder via the [NAT bot](https://osu.ppy.sh/users/6616586) and will be given **7** days to meet their quota.
 
 ## Nomination
 
