@@ -8,7 +8,7 @@ This year's Resurrection Cup has come to an end... read on for the results and r
 
 ![](/wiki/shared/news/2024-05-12-resurrection-cup-2024-registrations-now-open/banner.jpg)
 
-Starting with [registrations back in May 11](https://osu.ppy.sh/home/news/2024-05-12-resurrection-cup-2024-registration-now-open) and ending with a grand final showdown on July 28, the Resurrection Cup has ended another year with a bang.
+Starting with [registrations back on May 11th](https://osu.ppy.sh/home/news/2024-05-12-resurrection-cup-2024-registration-now-open) and ending with a grand final showdown on July 28th, the Resurrection Cup has ended another year with a bang.
 
 ## Results
 
@@ -16,9 +16,9 @@ Starting with [registrations back in May 11](https://osu.ppy.sh/home/news/2024-0
 
 ## Highlights
 
-In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator. Known not for his tournament commentary, but for the iconic "Greetings!" that every osu! boomer instantly recognises from their [osu! YouTube content](https://www.youtube.com/@vertoHUN). Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary to the delight of viewers. Not only that, but the intense match, moving from breakpoint to breakpoint and stretching well over an hour, is an absolute must watch. 
+In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator. Known not for his tournament commentary, but for the iconic "Greetings!" that every osu! boomer instantly recognises from their [osu! YouTube content](https://www.youtube.com/@vertoHUN). Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary to the delight of viewers. Not only that, but the intense match, moving from breakpoint to breakpoint and stretching well over an hour, is an absolute must watch.
 
-*Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4-2 deficit - @ [57:30](https://youtu.be/2l4KS5feTA8?t=3450) - *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) - @ [1:17:45](https://youtu.be/2l4KS5feTA8?t=4665). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
+*Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4-2 deficit @ [57:30](https://youtu.be/2l4KS5feTA8?t=3450) — *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) @ [1:17:45](https://youtu.be/2l4KS5feTA8?t=4665). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
@@ -30,9 +30,9 @@ In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh o
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And at last, the rematch and the summit of the tournament this year, the Grandfinals match between *kotomiler* and *fresh off the boat*. Taking place on a fully custom mapped mappool, this was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3-3 - @ [56:00](https://youtu.be/wYxXtFU1SRY?t=3360) - *kotomiler* managed to run away with it, securing 2 breakpoints, and taking *fresh off the boat* to bracket reset. 
+And at last, the rematch and the summit of the tournament this year, the Grandfinals match between *kotomiler* and *fresh off the boat*. Taking place on a fully custom mapped mappool, this was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3–3 @ [56:00](https://youtu.be/wYxXtFU1SRY?t=3360) — *kotomiler* managed to run away with it, securing 2 breakpoints, and taking *fresh off the boat* to bracket reset.
 
-In the bracket reset, *kotomiler* couldn't  keep their momentum going, losing their very next pick. Down by 2 points after 4 maps, they finally managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) once more - @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, achieving 2 fc's and taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat* and with nearly 3 hours of splendour performances on both sides, *kotomiler* ultimately took home the victory.
+In the bracket reset, *kotomiler* couldn't keep their momentum going, losing their very next pick. Down by 2 points after 4 maps, they finally managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) once more @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, achieving 2 FC's and taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat* and with nearly 3 hours of splendour performances on both sides, *kotomiler* ultimately took home the victory.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wYxXtFU1SRY" frameborder="0" allowfullscreen></iframe>
@@ -40,7 +40,7 @@ In the bracket reset, *kotomiler* couldn't  keep their momentum going, losing th
 
 ## Resurrection Cup originals
 
-This year, we've managed to release 26 songs, alongside all of them over 30 original illustrations ranging from beatmap backgrounds, PV animations, album covers and other necessary assets for announcements and banners.
+This year, we've managed to release 26 songs, and alongside all of them over 30 original illustrations ranging from beatmap backgrounds, PV animations, album covers and other necessary assets for announcements and banners.
 
 Here is a crossfade showcasing the selection of these songs that will appear in the *Wishes for Tomorrow* album!
 
@@ -88,7 +88,7 @@ Resurrection Cup's theme is something that has evolved throughout its 3 past ite
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/theme-progression.png)
 
 - In 2022, the theme was about humanity still being alive and thriving even after a devastating apocalypse where afterwards the metropolitan areas of the planet are reclaimed by nature.
-- In 2023, the last traces of humanity are now gone, as planets are colliding with one another, Earth isn’t any different. Represented by vibrant red and orange colors, a cataclysmic event that surely will not leave any living organism behind.
+- In 2023, the last traces of humanity are now gone, as planets are colliding with one another, Earth isn’t any different. Represented by vibrant red and orange colours, a cataclysmic event that surely will not leave any living organism behind.
 - This year, you, as the player or viewer of the tournament series, are given a second chance at living. Now you are in the afterlife, and you get a chance to prove yourself worthy. Worthy of reincarnation.
 
 **Serenity**, the mascot of this tournament, is the one you encounter at the very end (the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2219285)), and is the arbiter of your fate in the afterlife (whether you win the tournament).
@@ -410,6 +410,8 @@ Despite being a 4 years overlay developer as I am, I am pretty sure that the com
 
 ---
 
-In the tournament history of osu!, many people have hosted successful tournaments, whether it be for player enjoyment or viewer enjoyment. Regardless of the goal, the pressure stays the same. In our case, the tiny community that developed itself over the past 4 ResCup tournaments certainly elevated vast majority of this pressure and made even the preparations not only stress free, but a joy. Thank you to each and every single person who worked on Resurrection Cup 2024, and thank you to everyone who supports us! See you all next year, in **Resurrection Cup 2025: Regulus Revolution**.
+In the tournament history of osu!, many people have hosted successful tournaments, whether it be for player enjoyment or viewer enjoyment. Regardless of the goal, the pressure stays the same. In our case, the tiny community that developed itself over the past 4 ResCup tournaments certainly elevated vast majority of this pressure and made even the preparations not only stress-free, but a joy.
+
+Thank you to each and every single person who worked on Resurrection Cup 2024, and thank you to everyone who supports us! See you all next year, in **Resurrection Cup 2025: Regulus Revolution**.
 
 —Hoaq & Phreel
