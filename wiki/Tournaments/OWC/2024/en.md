@@ -269,22 +269,6 @@ Sunday, 3 November 2024:
 | **Chile** ::{ flag=CL }:: | **5** | 2 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/116074145) | [#1](https://www.twitch.tv/videos/2292933813) |
 | **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/116074138) | [#1](https://www.twitch.tv/videos/2292952383) |
 
-### Round of 32
-
-Saturday, 2 November 2024:
-
-| Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/116057233) | [#1](https://www.twitch.tv/videos/2291862511) |
-| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=BY }:: Belarus | [#1](https://osu.ppy.sh/community/matches/116057910) |  |
-| **Philippines** ::{ flag=PH }:: | **5** | 2 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/116057902) | [#1](https://www.twitch.tv/videos/2291862512) |
-| **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/116058022) | [#1](https://www.twitch.tv/videos/2291865087) |
-| **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/116058622) | [#1](https://www.twitch.tv/videos/2291865086) |
-| **Norway** ::{ flag=NO }:: | **5** | 2 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/116058626) | [#1](https://www.twitch.tv/videos/2291862510) |
-| **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=KZ }:: Kazakhstan | [#1](https://osu.ppy.sh/community/matches/116060150) | [#1](https://www.twitch.tv/videos/2292019513) |
-| Romania ::{ flag=RO }:: | 3 | **5** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/116060941) | [#1](https://www.twitch.tv/videos/2292014245) |
-| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/116061001) | [#1](https://www.twitch.tv/videos/2292019514) |
-
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/172PBh-e1EMLils3cUF_IAuUf55uVQiqhXsjETMp2vQk?rm=minimal).\
