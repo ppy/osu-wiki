@@ -17,11 +17,11 @@ Il tag osu!supporter può essere ottenuto dalla sua [pagina del negozio](https:/
 ### Emblema a cuore
 
 ::: Infobox
-![](img/userpage.png?1 "Profilo con osu!supporter")
+![](img/userpage.png?20241103 "Profilo con osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "Carta utente con osu!supporter")
+![](img/usercard-IT.png?2 "Carta utente con osu!supporter")
 :::
 
 I supporter ottengono una emblema con dei cuori, che può essere trovato accanto al loro nome utente sul sito web. La quantità di cuori dipende dalla durata dell'osu!supporter che l'utente ha acquisito o ricevuto in totale<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:

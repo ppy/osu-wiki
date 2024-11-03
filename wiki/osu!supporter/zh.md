@@ -25,11 +25,11 @@ tags:
 ### 爱心徽章
 
 ::: Infobox
-![](img/userpage.png?1 "osu! 支持者的个人资料页")
+![](img/userpage.png?20241103 "osu! 支持者的个人资料页")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "osu! 支持者的玩家名片")
+![](img/usercard-ZH.png?2 "osu! 支持者的玩家名片")
 :::
 
 支持者们会得到一个印有爱心的徽章，通常显示在网页中玩家名的旁边。爱心的数量取决于玩家获得或收到的 osu! 支持者标签的总时长<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->：

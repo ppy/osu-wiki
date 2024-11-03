@@ -20,7 +20,7 @@ Le tag osu!supporter peut être obtenu à partir de la [page du magasin osu!supp
 ### Insigne de cœur
 
 ::: Infobox
-![](img/userpage.png?1 "Profil avec osu!supporter")
+![](img/userpage.png?20241103 "Profil avec osu!supporter")
 :::
 
 ::: Infobox

@@ -20,7 +20,7 @@ La etiqueta de osu!supporter puede obtenerse en la [página de la tienda de osu!
 ### Insignia de corazón
 
 ::: Infobox
-![](img/userpage.png?1 "Perfil con osu!supporter")
+![](img/userpage.png?20241103 "Perfil con osu!supporter")
 :::
 
 ::: Infobox

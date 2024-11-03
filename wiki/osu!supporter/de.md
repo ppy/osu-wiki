@@ -19,7 +19,7 @@ Das osu!supporter-Tag kann über die [osu!supporter-Seite des Stores](https://os
 ### Herzabzeichen
 
 ::: Infobox
-![](img/userpage.png?1 "Profil mit osu!supporter")
+![](img/userpage.png?20241103 "Profil mit osu!supporter")
 :::
 
 ::: Infobox
