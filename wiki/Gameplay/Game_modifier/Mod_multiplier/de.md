@@ -22,5 +22,5 @@ Standardmäßig beträgt der Mod-Multiplikator 1,00x. Wenn mehrere [Mods](/wiki/
 
 ## Trivia
 
-- Der Mod-Multiplikator wird in der [Mod-Auswahl](/wiki/Gameplay/Game_modifier) von osu!(stable) als `Score-Multiplikator` angezeigt, während er in [osu!(lazer)](/wiki/Client/Release_stream/Lazer)  `Schwierigkeitsmultiplikator` heißt.
+- Der Mod-Multiplikator wird in der [Mod-Auswahl](/wiki/Gameplay/Game_modifier) von osu!(stable) als `Score-Multiplikator` angezeigt, während er in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) `Schwierigkeitsmultiplikator` heißt.
 - osu! rundete den Mod-Multiplikator auf das nächste Hundertstel ab bis ein Patch das Rundungsproblem behoben hatte, indem nur aufgerundet wurde, wenn die Tausenderstelle 0,005 oder größer war.
