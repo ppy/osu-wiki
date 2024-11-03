@@ -52,7 +52,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 
 ## Links
 
-- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1r6atZf2Qbeg8s0Uq_K3z5MNBM-BMMC7hYYJ0cz065Ng)**
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSw3O_fsUqILDwRdTxtCv2_TdfpI2o_MmUj4__DXicX4sYVkSHtY3OOMtYL5oA2EvOIwnZ5IB_8dpe6/pubhtml)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1982268)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/47)
