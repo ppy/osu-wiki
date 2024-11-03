@@ -36,7 +36,7 @@ That said, if you play, your **total PP** will still immediately be updated.
 
 If we didn't do this, users would see their rank jump all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
-### 🏃 Reprocess performance values of all scores (3 - 10 days, ~30% completed)
+### 🏃 Reprocess performance values of all scores (~6 days, ~75% completed)
 
 We now need to reprocess all 3,734,343,198 scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!stable and osu!lazer). This is the most time-consuming part of the deploy process.
 
