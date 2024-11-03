@@ -212,7 +212,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
   2. [senya - Sakuretsu Irony (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/2271602#osu/4838687)
   3. [Two Door Cinema Club - Cigarettes In The Theatre (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/37461#osu/120461)
 - Free Mod
-  1. [kano - Houkago Stride (Clementine) \[RLC\]](https://osu.ppy.sh/beatmapsets/79878#osu/228679)
+  1. [kano - Houkago Stride (RLC) \[RLC\]](https://osu.ppy.sh/beatmapsets/79878#osu/228679)
   2. [Akiyama Uni - Broken Moon (sahuang) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
   3. [BlackY feat. Risa Yuzuki - Stellalude (Hinsvar) \[Prayer\]](https://osu.ppy.sh/beatmapsets/1515209#osu/3102195)
 - Tiebreaker
