@@ -18,21 +18,21 @@ Starting with [registrations back on May 11th](https://osu.ppy.sh/home/news/2024
 
 In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator. Known not for his tournament commentary, but for the iconic "Greetings!" that every osu! boomer instantly recognises from their [osu! YouTube content](https://www.youtube.com/@vertoHUN). Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary to the delight of viewers. Not only that, but the intense match, moving from breakpoint to breakpoint and stretching well over an hour, is an absolute must watch.
 
-*Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4-2 deficit @ [57:30](https://youtu.be/2l4KS5feTA8?t=3450) — *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) @ [1:17:45](https://youtu.be/2l4KS5feTA8?t=4665). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
+*Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4–2 deficit @ [57:30](https://www.youtube.com/watch?v=2l4KS5feTA8&t=3450s) — *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) @ [1:17:45](https://www.youtube.com/watch?v=2l4KS5feTA8&t=4665s). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw no breakpoints until the last two picks @ [1:25:40](https://youtu.be/R0FSFEV_uLA?t=5140), leading the match to culminate in a tiebreaker. Here, ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) gave an incredible performance by S-ranking Shokiii’s original Finals Tiebreaker song, [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364), @ [1:38:08](https://youtu.be/R0FSFEV_uLA?t=5888). Despite finding a sliderbreak in the final kiai section, this performance pulled team *fresh of the boat* across the finish, securing them the victory in the match.
+In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw no breakpoints until the last two picks @ [1:25:40](https://www.youtube.com/watch?v=R0FSFEV_uLA&t=5140s), leading the match to culminate in a tiebreaker. Here, ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) gave an incredible performance by S-ranking Shokiii's original song [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364) @ [1:38:08](https://www.youtube.com/watch?v=R0FSFEV_uLA&t=5888s). Despite finding a slider break in the final kiai section, this performance pulled team *fresh of the boat* across the finish line, securing them the victory in the match.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And at last, the rematch and the summit of the tournament this year, the Grandfinals match between *kotomiler* and *fresh off the boat*. Taking place on a fully custom mapped mappool, this was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3–3 @ [56:00](https://youtu.be/wYxXtFU1SRY?t=3360) — *kotomiler* managed to run away with it, securing 2 breakpoints, and taking *fresh off the boat* to bracket reset.
+And at last, the summit of the tournament this year. Taking place on a fully custom-mapped mappool, the Grand Finals match between *kotomiler* and *fresh off the boat* was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3–3 @ [56:00](https://www.youtube.com/watch?v=wYxXtFU1SRY&t=3360s) — *kotomiler* managed to run away with it, securing 2 breakpoints, and taking *fresh off the boat* to a bracket reset.
 
-In the bracket reset, *kotomiler* couldn't keep their momentum going, losing their very next pick. Down by 2 points after 4 maps, they finally managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) once more @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, achieving 2 FC's and taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat* and with nearly 3 hours of splendour performances on both sides, *kotomiler* ultimately took home the victory.
+In the bracket reset, *kotomiler* couldn't keep their momentum going, losing their very next pick. Down by 2 points after 4 maps, they finally managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) once more @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, achieving 2 FCs and taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat*, and with nearly 3 hours of splendour performances on both sides, *kotomiler* ultimately took home the victory.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wYxXtFU1SRY" frameborder="0" allowfullscreen></iframe>
@@ -42,7 +42,7 @@ In the bracket reset, *kotomiler* couldn't keep their momentum going, losing the
 
 This year, we've managed to release 26 songs, and alongside all of them over 30 original illustrations ranging from beatmap backgrounds, PV animations, album covers and other necessary assets for announcements and banners.
 
-Here is a crossfade showcasing the selection of these songs that will appear in the *Wishes for Tomorrow* album!
+Here is a crossfade of the upcoming *Wishes for Tomorrow* album which will include 22 of them!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/uA8mW0SXhxg" frameborder="0" allowfullscreen></iframe>
@@ -88,8 +88,8 @@ Resurrection Cup's theme is something that has evolved throughout its 3 past ite
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/theme-progression.png)
 
 - In 2022, the theme was about humanity still being alive and thriving even after a devastating apocalypse where afterwards the metropolitan areas of the planet are reclaimed by nature.
-- In 2023, the last traces of humanity are now gone, as planets are colliding with one another, Earth isn’t any different. Represented by vibrant red and orange colours, a cataclysmic event that surely will not leave any living organism behind.
-- This year, you, as the player or viewer of the tournament series, are given a second chance at living. Now you are in the afterlife, and you get a chance to prove yourself worthy. Worthy of reincarnation.
+- In 2023, the last traces of humanity were gone. With many planets colliding with one another, Earth wasn't any different. Represented by vibrant red and orange colours, a cataclysmic event was in sight, one that surely would not leave any living organism behind.
+- This year, you, the player or viewer of the tournament series, are given a second chance at living. Now you are in the afterlife, and you get a chance to prove yourself worthy. Worthy of reincarnation.
 
 **Serenity**, the mascot of this tournament, is the one you encounter at the very end (the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2219285)), and is the arbiter of your fate in the afterlife (whether you win the tournament).
 
@@ -202,7 +202,9 @@ What does Serenity represent about Resurrection Cup?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://twitter.com/Yumeyo_art">Yumeyo</a></p>
 
-For me, she is meant to represent how individuals come together to create something amazing for the community. So many talented artists come together to guarantee the best experience for attendees, and Serenity is meant to represent the individualism that with time and friendship forges into an amazing team-effort, creating a creative space for everyone while working towards the same goal. Also in my opinion, a mascot for a tournament with so many custom songs is a really useful thing, as it makes a great starting point for custom map backgrounds, jacket art etc.
+For me, she is meant to represent how individuals come together to create something amazing for the community. So many talented artists come together to guarantee the best experience for attendees, and Serenity is meant to represent the individualism that with time and friendship forges into an amazing team-effort, creating a creative space for everyone while working towards the same goal.
+
+Also in my opinion, a mascot for a tournament with so many custom songs is a really useful thing, as it makes a great starting point for custom map backgrounds, jacket art etc.
 
 </div>
 
@@ -220,7 +222,7 @@ A lot of people were involved in making Resurrection Cup happen. We've asked a f
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/12840110">Phreel</a></p>
 
-What was your initial thought about having more than 20 original songs to do pooling with?
+What was your initial thought about having more than [20 original songs](#resurrection-cup-originals) to do pooling with?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6248691" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Alvearia.jpg')"></a>
 
@@ -232,7 +234,11 @@ I was surprised the most with the number of composers we were able to invite. Wh
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4429612">Luminous Sky</a></p>
 
-While I was happy that we had lots of original songs, I knew these songs would hardly be the only custom maps we would end up with. Lo and behold, we had a total of 91 custom maps. 91!! That's an astonishingly large amount of customs and with our policy of trying not to reject a map due to slot-fitting reasons so long as the map itself is of acceptable quality, I knew pooling, or moreso the lack of it especially in later stages would make testing all skillsets, representing many genres and maintaining a similar difficulty across all maps in a pool quite the challenge. Regardless, I tried my best to cover missing skillsets as best as I could, sort of killing slot-pooling because of this, but only when necessary, like having a low BPM flow aim FM1 in Finals using Prayer for example.
+While I was happy that we had lots of original songs, I knew these songs would hardly be the only custom maps we would end up with. Lo and behold, we had a total of 91 custom maps. 91!!
+
+That's an astonishingly large amount of customs, and with our policy of trying not to reject a map due to slot-fitting reasons, so long as the map itself is of acceptable quality, I knew pooling, or moreso the lack of it, especially in later stages, would make testing all skillsets representing many genres and maintaining a similar difficulty across all maps in a pool quite the challenge.
+
+Regardless, I tried my best to cover missing skillsets as best as I could, sort of killing slot-pooling because of this, but only when necessary, like having a low BPM flow aim FM1 in Finals using Prayer for example.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.jpg')"></a>
 
@@ -244,13 +250,15 @@ Was it difficult managing all those custom maps and songs?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6248691">Alvearia</a></p>
 
-Managing around 90 original custom maps sounds like a really tough task to accomplish – but thanks to main host's/Phreel's organization plans, selecting small group of knowledgeable people to be a part of [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and dividing all mappers by divisions was a really smart move to do, and mostly by that, we finished this job successfully. But, nonetheless, there's plenty of room for improvement, overall quality of pools, which our team, of course, will try absolute best to achieve in the next iteration.
+Managing around 90 original custom maps sounds like a really tough task to accomplish – but thanks to main host's/Phreel's organization plans, selecting small group of knowledgeable people to be a part of a Quality Assurance Team and dividing all mappers by divisions was a really smart move to do, and mostly by that, we finished this job successfully. But, nonetheless, there's plenty of room for improvement, overall quality of pools, which our team, of course, will try their absolute best to achieve in the next iteration.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4429612" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Luminous_Sky.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4429612">Luminous Sky</a></p>
 
-Contrary to my initial expectations, I didn't find managing the custom maps and songs all that difficult, and even sometimes intruded into threads of maps assigned to other members of the mappool Quality Assurance Team because I felt I had to get a decent idea of what the maps are like and not just trust them to fit the norms of a slot or descriptions others give me, or we would get another aim FM2 incident like in Quarterfinals. There was also a period of time where I was really sick for like 2-3 weeks and others rechecked a couple maps after I initially requested some changes to them but felt unable to offer great feedback due to my health. I'm very thankful for that. So, yeah, overall, it wasn't that difficult, but while I of course love how many artists and mappers we gathered for this tourney, I would've still preferred a little fewer customs overall for higher player enjoyment as well.
+Contrary to my initial expectations, I didn't find managing the custom maps and songs all that difficult, and even sometimes intruded into threads of maps assigned to other members of the mappool Quality Assurance Team because I felt I had to get a decent idea of what the maps are like and not just trust them to fit the norms of a slot or descriptions others give me, or we would get another aim FM2 incident like in Quarterfinals.
+
+There was also a period of time where I was really sick for like 2-3 weeks and others rechecked a couple maps after I initially requested some changes to them, but felt unable to offer great feedback due to my health. I'm very thankful for that. So, yeah, overall, it wasn't that difficult, but while I of course love how many artists and mappers we gathered for this tourney, I would've still preferred a little fewer customs overall for higher player enjoyment as well.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.jpg')"></a>
 
@@ -294,13 +302,15 @@ From what I've seen both composers and illustrators had a strong work ethic; I w
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/12840110">Phreel</a></p>
 
-(to Krimek) What inspired you to create "Lunaria" for this year's tournament, and how was your experience incorporating vocals for the first time?
+Krimek, what inspired you to create "Lunaria" for this year's tournament, and how was your experience incorporating vocals for the first time?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/371" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Krimek.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/371">Krimek</a></p>
 
-Phreel encouraged me to collaborate with a vocalist, michiri9, which was both challenging and rewarding. Initially, my song wasn't suitable for vocals, so I started over. After sharing several short WIPs with michiri9, we chose what became Lunaria, inspired by M2U & Guriri. I wanted to create a song suitable for a singer, something ResCup hadn't seen before—traditional yet diverse and lively, with a small but deep story. The idea was a love story symbolized by a flower, told like a fairy tale with a thought-provoking ending. The simple melodies left room for vocals, and the technical drop made it exciting for mapping. Mixing and mastering vocals was a new challenge, but with online research and feedback from other artists, it worked out great.
+You encouraged me to collaborate with a vocalist, michiri9, which was both challenging and rewarding. Initially, my song wasn't suitable for vocals, so I started over. After sharing several short WIPs with michiri9, we chose what became Lunaria, inspired by M2U & Guriri. I wanted to create a song suitable for a singer, something ResCup hadn't seen before—traditional yet diverse and lively, with a small but deep story.
+
+The idea was a love story symbolized by a flower, told like a fairy tale with a thought-provoking ending. The simple melodies left room for vocals, and the technical drop made it exciting for mapping. Mixing and mastering vocals was a new challenge, but with online research and feedback from other artists, it worked out great.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.jpg')"></a>
 
@@ -324,7 +334,9 @@ Which artists or composers do you draw inspiration from, and how have they influ
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/371">Krimek</a></p>
 
-There are many artists who inspire me, even if they're not my favorites. Their work still offers new perspectives, which is crucial for broadening your horizons. My major idols are definitely Taishi, [Supire](https://osu.ppy.sh/beatmaps/artists/373) and [Camellia](https://osu.ppy.sh/beatmaps/artists/31). Taishi is a master of atmosphere and storytelling, Supire is a rhythm and sound design genius, and Camellia... well, you already know why. I draw inspiration from these three and try to incorporate their strengths into my songs. In other words: I try to learn from them and improve those areas in my songs. They've also become part of the osu! community, and their music is well-loved. How it influences my approach to creating custom song for osu! tournaments? If you create innovative music with exciting rhythms, you already have a great foundation for a custom tournament song.
+There are many artists who inspire me, even if they're not my favorites. Their work still offers new perspectives, which is crucial for broadening your horizons. My major idols are definitely Taishi, [Supire](https://osu.ppy.sh/beatmaps/artists/373) and [Camellia](https://osu.ppy.sh/beatmaps/artists/31). Taishi is a master of atmosphere and storytelling, Supire is a rhythm and sound design genius, and Camellia... well, you already know why.
+
+I draw inspiration from these three and try to incorporate their strengths into my songs. In other words: I try to learn from them and improve those areas in my songs. They've also become part of the osu! community, and their music is well-loved. How it influences my approach to creating custom song for osu! tournaments? If you create innovative music with exciting rhythms, you already have a great foundation for a custom tournament song.
 
 </div>
 
@@ -356,19 +368,23 @@ So I started developing overlays with the aim to provide a more customized, pers
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/12840110">Phreel</a></p>
 
-What were your biggest fears or concerns while developing the overlay? Was it difficult of a transition?
+What were your biggest fears or concerns while developing the overlay? Was it a difficult transition?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7696512" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Hoaq.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7696512">Hoaq</a></p>
 
-Totally. Using 3rd-party tool is always like living on the edge. In the past, each times osu! (more specifically the cutting-edge release) gets updated, our custom overlay would stop working, unless the tool we use to run the overlay gets updated as well.
+Totally. Using 3rd-party tools is always like living on the edge. In the past, each time osu! (more specifically the cutting-edge release) gets updated, our custom overlay would stop working, unless the tool we use to run the overlay gets updated as well.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8266808" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-[Boy]DaLat.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8266808">[Boy]DaLat</a></p>
 
-I would say transitioning from osu!(lazer) to custom overlay might need a little bit of work. Each overlay has its own set of defined workflows, comparing to the standardized flow of osu!(lazer). Streamers, to some extent, need to be introduced to a different workflow, user experience, etc, which might take a while to adapt to. At first, developing overlays are pretty much trivial, you read the state from tosumemory, compare changes, update the state on the UI. But when I started to scale things up, for example, when I have to add more custom state, more interactions, I need to change my way of thinking over and over again. Because things might break miserably if I do not engineering thoroughly. That is why when I was asked to add feature abcdxyz to the overlay, during the production of the tournament, I got really upset because now I had to expand the structure of the overlay in such a short amount of time to keep up with the matches.
+I would say transitioning from osu!(lazer) to a custom overlay might need a little bit of work. Each overlay has its own set of defined workflows, comparing to the standardized flow of osu!(lazer). Streamers, to some extent, need to be introduced to a different workflow, user experience, etc, which might take a while to adapt to.
+
+At first, developing overlays is pretty much trivial: you read the state from tosumemory, compare changes, and update the state on the UI. But when I started to scale things up, for example, when I have to add more custom state or more interactions, I need to change my way of thinking over and over again, because things might break miserably if I do not engineering thoroughly.
+
+That is why when I was asked to add feature abcdxyz to the overlay, during the production of the tournament, I got really upset because now I had to expand the structure of the overlay in such a short amount of time to keep up with the matches.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.jpg')"></a>
 
@@ -386,7 +402,7 @@ Saying we didn't would be a blatant lie. Learning from other tournaments (osu! o
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8266808">[Boy]DaLat</a></p>
 
-Speaking of the layout, in fact, I mainly took inspirations from Corsace. For the aesthetic, I'm mostly influenced by the design of Google's Material UI, specifically Android 12's Material You. If you look at the initial prototype design of ResCup overlay, you will notice a heavy resemblance from it. I'm trying to switch to a different style at the moment, which is Brutalism design. Maybe it will appear in my future overlays.
+Speaking of the layout, in fact, I mainly took inspirations from Corsace. For the aesthetic, I'm mostly influenced by the design of Google's Material UI, specifically Android 12's Material You. If you look at the initial prototype design of ResCup overlay, you will notice a heavy resemblance from it. I'm trying to switch to a different style at the moment, which is brutalism. Maybe it will appear in my future overlays.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.jpg')"></a>
 
@@ -398,19 +414,21 @@ Do you see the community fully switching to custom overlay solutions from osu!(l
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7696512">Hoaq</a></p>
 
-Probably no. Transitioning to custom tournament overlay means that you will need someone with coding knowledge (HTML, CSS and JavaScript at minimum). Not many tournaments have voluntary staff that can also deal with the mess of coding what essentially is a static website. But some tournaments do, and they try to go for the best look that suits their tournaments' design.
+Probably no. Transitioning to custom tournament overlay means that you will need someone with coding knowledge (HTML, CSS and JavaScript at minimum). Not many tournaments have voluntary staff that can also deal with the mess of coding what essentially is a static website. But some tournaments do, and they try to go for the best look that suits their tournament's design.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8266808" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-[Boy]DaLat.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8266808">[Boy]DaLat</a></p>
 
-Despite being a 4 years overlay developer as I am, I am pretty sure that the community will not be switching fully to tosumemory overlays anytime soon in the future. osu!(lazer) is a native, highly maintained, fully tested, easy to setup streaming client. Even without the highly customizable experience of tosumemory overlays, it is the de facto, the one to go for when you first think of organizing a tournament. Tosumemory overlays are great, but for it to have the native-like experience of osu!(lazer) will need a lot of efforts. Each one has its own pros and cons respectively so it is best to choose which kind of client do you want based on your needs, not to be biased by any of the majority.
+Despite being an overlay developer for 4 years, I am pretty sure that the community will not be switching fully to tosumemory overlays anytime soon in the future. osu!(lazer) is a native, highly maintained, fully tested, easy-to-set-up streaming client. Even without the highly customizable experience of tosumemory overlays, it is the de facto, the one to go for when you first think of organizing a tournament.
+
+Tosumemory overlays are great, but for it to have the native-like experience of osu!(lazer) will need a lot of efforts. Each one has its own pros and cons respectively so it is best to choose which kind of client you want based on your needs, not to be biased by the majority.
 
 </div>
 
 ---
 
-In the tournament history of osu!, many people have hosted successful tournaments, whether it be for player enjoyment or viewer enjoyment. Regardless of the goal, the pressure stays the same. In our case, the tiny community that developed itself over the past 3 ResCup tournaments certainly elevated the vast majority of this pressure and made even the preparations not only stress-free, but a joy.
+In the tournament history of osu!, many people have hosted successful tournaments, whether it be for player enjoyment or viewer enjoyment. Regardless of the goal, the pressure stays the same. In our case, the tiny community that developed itself over the past 3 ResCup tournaments certainly alleviated the vast majority of this pressure and made even the preparations not only stress-free, but a joy.
 
 Thank you to each and every single person who worked on Resurrection Cup 2024, and thank you to everyone who supports us! See you all next year, in **Resurrection Cup 2025: Regulus Revolution**.
 
