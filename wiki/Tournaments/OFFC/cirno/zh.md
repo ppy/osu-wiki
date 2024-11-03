@@ -99,7 +99,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 
 ### 四分之一决赛轮 (QF)
 
-**[在这里下载谱面包！（165 MB）](https://drive.google.com/file/d/1NNIv0-WKktl0xQ6IBeRbtheh-mNprD5N/view)**
+**[在这里下载图包！（165 MB）](https://drive.google.com/file/d/1NNIv0-WKktl0xQ6IBeRbtheh-mNprD5N/view)**
 
 | 列/行 | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
@@ -137,7 +137,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 
 ### 半决赛轮 (SF)
 
-**[在这里下载谱面包！（142 MB）](https://drive.google.com/file/d/1YsNGC8y2GK0DX9Pv0yvBLe55dG4TFXMd/view)**
+**[在这里下载图包！（142 MB）](https://drive.google.com/file/d/1YsNGC8y2GK0DX9Pv0yvBLe55dG4TFXMd/view)**
 
 | 列/行 | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
@@ -175,7 +175,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 
 ### 决赛轮 (F)
 
-**[在这里下载谱面包！（224 MB）](https://drive.google.com/file/d/1OaNOmswyyX7fP30lyggkQo6-ZAyVTMMC/view)**
+**[在这里下载图包！（224 MB）](https://drive.google.com/file/d/1OaNOmswyyX7fP30lyggkQo6-ZAyVTMMC/view)**
 
 | 列/行 | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
@@ -213,7 +213,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 
 ### 总决赛轮 (GF)
 
-**[在这里下载谱面包！（182 MB）](https://drive.google.com/file/d/15HH9owdVHT6LSYF1UzIWlNkeuMi0htDd/view)**
+**[在这里下载图包！（182 MB）](https://drive.google.com/file/d/15HH9owdVHT6LSYF1UzIWlNkeuMi0htDd/view)**
 
 | 列/行 | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
