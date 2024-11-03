@@ -10,6 +10,7 @@ tags:
   - pendrive
   - Gerät
   - Tastatur
+outdated_translation: true  
 ---
 
 # Store archive

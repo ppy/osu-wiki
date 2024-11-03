@@ -17,6 +17,7 @@ tags:
   - товар
   - товары
   - символика
+outdated_translation: true  
 ---
 
 # Store archive

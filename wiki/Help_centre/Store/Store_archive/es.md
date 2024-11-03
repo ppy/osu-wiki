@@ -16,6 +16,7 @@ tags:
   - dispositivo
   - configuración
   - memoria USB
+outdated_translation: true  
 ---
 
 # Archivo de la osu!store

@@ -15,6 +15,7 @@ tags:
   - zone
   - appareil
   - configuration
+outdated_translation: true  
 ---
 
 # Store archive
