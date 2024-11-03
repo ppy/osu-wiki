@@ -224,7 +224,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
 ### Match procedures
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC 2023 Autumn: ({TeamRed}) vs ({TeamBlue})`.
+   - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC 2024 Autumn: ({TeamRed}) vs ({TeamBlue})`.
    - The team mentioned first in the room name must be the red team, and the team mentioned second in the room name must be the blue team.
 2. Each captain can protect **one beatmap** from the pool. These beatmaps cannot be banned. Then, each captain can ban **one beatmap** from the pool. These beatmaps cannot be picked by any team for the entire duration of the match.
 3. Both captains will alternate picking a beatmap from the mappool.
