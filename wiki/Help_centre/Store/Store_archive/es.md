@@ -1,4 +1,6 @@
 ---
+outdated_since: f65f9027e4a4df76600c03ace51142cb8b96af84
+outdated_translation: true
 tags:
   - store
   - product
@@ -16,7 +18,6 @@ tags:
   - dispositivo
   - configuración
   - memoria USB
-outdated_translation: true  
 ---
 
 # Archivo de la osu!store

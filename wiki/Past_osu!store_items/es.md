@@ -1,4 +1,6 @@
 ---
+outdated_since: f65f9027e4a4df76600c03ace51142cb8b96af84
+outdated_translation: true
 tags:
   - store
   - merchandise
@@ -6,7 +8,6 @@ tags:
   - tienda
   - mercancía
   - legado
-outdated_translation: true  
 ---
 
 # Productos anteriores de la osu!store
