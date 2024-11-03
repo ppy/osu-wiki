@@ -49,8 +49,8 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - This does not apply to open rank tournaments.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
   - Any tournaments held as preliminary events leading into a main competition must adhere to the same [expectations](#expectations) as standalone tournaments.
-- The tournament does not collect any sensitive personal documentation from any users for any reason unless strictly required by law.
-  - osu! is a community for all ages. It is strictly forbidden to collect any sensitive personal documentation, such as ID cards or passports, from any user for any reason unless explicitly required by law.
+- The tournament organisers do not collect any sensitive personal documentation from any users for any reason unless strictly required by law.
+  - It is strictly forbidden to collect any sensitive personal documentation, such as ID cards or passports, from any user for any reason unless explicitly required by law.
   - Users may not voluntarily submit personal documentation in order to change their country of registration or to prove their ethnicity in tournaments which restrict registrants to certain countries.
   - If there is a legal requirement which requires official identification of your players, these legal requirements must be submitted to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well in advance of your competition and must be approved by the osu! team.
 
