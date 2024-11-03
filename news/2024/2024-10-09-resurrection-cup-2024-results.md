@@ -24,7 +24,7 @@ In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) ma
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw both sides trading wins on their own picks until the last two picks, which both turned into breakpoints - @ [1:25:40](https://youtu.be/R0FSFEV_uLA?t=5140). The match culminated in a tiebreaker, where ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) gave an incredible performance by S-ranking Shokiii’s original Finals Tiebreaker song, [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364). Despite finding a sliderbreak in the final kiai section, this performance pulled team *fresh of the boat* across the finish, securing them the victory in the match - @ [1:38:08](https://youtu.be/R0FSFEV_uLA?t=5888).
+In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw both sides trading wins on their own picks until the last two picks, which both turned into breakpoints - @ [1:25:40](https://youtu.be/R0FSFEV_uLA?t=5140). The match culminated in a tiebreaker, where ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) gave an incredible performance by S-ranking Shokiii’s original Finals Tiebreaker song, [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364), @ [1:38:08](https://youtu.be/R0FSFEV_uLA?t=5888). Despite finding a sliderbreak in the final kiai section, this performance pulled team *fresh of the boat* across the finish, securing them the victory in the match.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
@@ -410,7 +410,7 @@ Despite being a 4 years overlay developer as I am, I am pretty sure that the com
 
 ---
 
-In the tournament history of osu!, many people have hosted successful tournaments, whether it be for player enjoyment or viewer enjoyment. Regardless of the goal, the pressure stays the same. In our case, the tiny community that developed itself over the past 4 ResCup tournaments certainly elevated vast majority of this pressure and made even the preparations not only stress-free, but a joy.
+In the tournament history of osu!, many people have hosted successful tournaments, whether it be for player enjoyment or viewer enjoyment. Regardless of the goal, the pressure stays the same. In our case, the tiny community that developed itself over the past 3 ResCup tournaments certainly elevated the vast majority of this pressure and made even the preparations not only stress-free, but a joy.
 
 Thank you to each and every single person who worked on Resurrection Cup 2024, and thank you to everyone who supports us! See you all next year, in **Resurrection Cup 2025: Regulus Revolution**.
 
