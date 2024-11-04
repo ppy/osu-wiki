@@ -4,11 +4,13 @@ title: Resurrection Cup 2024 Results
 date: 2024-11-04 21:00:00 +0000
 ---
 
-This year's Resurrection Cup has come to an end... read on for the results and reflections from the people who made it happen!
+Let's take a look back at one of the great tournaments of the year.
 
 ![](/wiki/shared/news/2024-05-12-resurrection-cup-2024-registrations-now-open/banner.jpg)
 
 Starting with [registrations back on May 11th](https://osu.ppy.sh/home/news/2024-05-12-resurrection-cup-2024-registration-now-open) and ending with a grand final showdown on July 28th, the Resurrection Cup has ended another year with a bang.
+
+In this rather late recap, we'll go over the most exciting matches, the song releases, the lore, as well as reflections from the people who made it all happen!
 
 ## Results
 
