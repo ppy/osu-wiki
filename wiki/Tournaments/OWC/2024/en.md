@@ -243,6 +243,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 ### Round of 32
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1QZkp7R5eBfvc2GP0rwWRmtRohZl16yKmHZiJ1rjlL0A?rm=minimal).
+
 Saturday, 2 November 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
