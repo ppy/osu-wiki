@@ -36,13 +36,17 @@ That said, if you play, your **total PP** will still immediately be updated.
 
 If we didn't do this, users would see their rank jump all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
-### 🏃 Reprocess performance values of all scores (~6 days, ~75% completed)
+### ✅ Reprocess performance values of all scores (Completed 2024-11-05)
 
 We now need to reprocess all 3,734,343,198 scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!stable and osu!lazer). This is the most time-consuming part of the deploy process.
 
 During this period, scores in "best performance" may look to be out of order or not be visible at all. Also, **your global rank might jump around** momentarily as not all users will be recalculated at once.
 
 In previous runs, we did this process starting on highest ranked users and working outwards, but this time around we're trying a different approach in order to more efficiently run the process. Even so, it's going to take a while.
+
+### 🏃 Re-run SR and PP calculation for osu!taiko (24 hours)
+
+There were some issues picked up on by the community which have since been fixed at an algorithm level. We need to re-run things for osu!taiko as a result.
 
 ### 🏃 Reprocess total PP values for all users (12 hours)
 
