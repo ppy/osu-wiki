@@ -1,10 +1,10 @@
 # Daily Challenge
 
-*Daily challenge* is a mode where the main task is to pass a selected beatmap that changes everyday sometimes with specific [mods](wiki/Gameplay/Game_modifier).
+The **daily challenge** is a multiplayer mode in osu!(lazer) where the main task is to pass a selected beatmap that changes everyday sometimes with specific [mods](/wiki/Gameplay/Game_modifier).
 
 ## How to play
 
-*Notice: Daily challenge requires an [osu! account](/wiki/Registration), is not available for [silenced](/wiki/Silence) players and is only avaible in osu!(lazer).*
+*Notice: Daily challenge requires an [osu! account](/wiki/Registration), and is not available for [silenced](/wiki/Silence) players.*
 
 From the main menu, the daily challenge menu can be accessed with the following steps:
 
@@ -15,16 +15,17 @@ From the main menu, the daily challenge menu can be accessed with the following 
 
 ![](img/Daily_challenge_menu.png "Example of a typical day in the daily challenge menu.") 
 
-On enter, the user is presented with an intro containing the beatmap the user has to pass, and the mods they have to pass with.
-After the intro ends, the user can view the data for today's challenge and can interact with the chat that is currently only avaible in the daily challenge menu. 
+On entering, the user is presented with an intro showing the beatmap the user has to pass, and the mods they have to pass it with.
+After the intro ends, the user can view the data for today's challenge. The left side displays various score-related information like the total pass count and the cumulative total score. In the middle, a leaderboard shows the top scores achieved by players. Users are able to discuss the daily challenge in the chat on the right.
 
 ## Selected Beatmaps
 
-Each day will introduce one new map from the featured artist lising with increased difficulty, resetting after a week.
+Each day will introduce one new map from the [featured artist](/wiki/People/Featured_Artists) listing with increased difficulty. Regularly after one week however, the difficulty would be reset again.
 
 ![](img/Beatmap_selection_criteria.png "Specific star ratings beatmaps have to follow for the entire week")
 
 Sometimes, the maps could come with a mod forced onto users, which required them to pass the map with the selected mod.
+
 ## Trivia
 
 ### History
@@ -37,4 +38,4 @@ Sometimes, the maps could come with a mod forced onto users, which required them
 
 - The daily challenge launched to the public on July 25, 2024 in osu!(lazer) public relase 2024.725.0.
 
-- On relase, you couldn't use free mods, and you couldn't view the total pass count and the cumulative total score.
+- In the initial release, free mods were not selectable, and the total pass count as well as the cumulative total score were only added in a later update.
