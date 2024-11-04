@@ -28,7 +28,7 @@ Approximately every three months, full Beatmap Nominators have their behaviour a
 
 Probation is used to monitor new Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each game mode of a beatmap, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members for their game mode.
 
-Probationary Beatmap Nominators are [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) after meeting double their [activity requirements](/wiki/People/Beatmap_Nominators/Rules#requirements), or after one month from being placed there, whichever comes first.
+Probationary Beatmap Nominators are required to have at least **3** nominated beatmaps that were ranked. They are [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) after one month, and the evaluation may happen early if they have **6** ranked nominations early in the month.
 
 New members of the Beatmap Nominators will be assigned an NAT buddy who they are encouraged to directly contact for questions or guidance. After their first evaluation, they will be either promoted to the full Beatmap Nominators following a positive evaluation, or removed from the Beatmap Nominators.
 
