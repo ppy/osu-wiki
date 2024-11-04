@@ -16,7 +16,7 @@ Starting with [registrations back on May 11th](https://osu.ppy.sh/home/news/2024
 
 ## Highlights
 
-In the Quarterfinals, the legendary [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator. Known not for his tournament commentary, but for the iconic "Greetings!" that every osu! boomer instantly recognises from their [osu! YouTube content](https://www.youtube.com/@vertoHUN). Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary to the delight of viewers. Not only that, but the intense match, moving from breakpoint to breakpoint and stretching well over an hour, is an absolute must watch.
+Instantly recognised by the iconic yet simple "Greetings!", [osu! content creator](https://www.youtube.com/@vertoHUN) [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator in the Quarterfinals. Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary of the intense match between team *swaglords* and team *Germany owc B* to the delight of viewers.
 
 *Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4–2 deficit @ [57:30](https://www.youtube.com/watch?v=2l4KS5feTA8&t=3450s) — *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) @ [1:17:45](https://www.youtube.com/watch?v=2l4KS5feTA8&t=4665s). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
 
@@ -216,6 +216,10 @@ A lot of people were involved in making Resurrection Cup happen. We've asked a f
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/alvearia-and-luminous-sky.jpg)
 
+As members of the Mappool Quality Assurance team, [Alvearia](https://osu.ppy.sh/users/6248691) and [Luminous Sky](https://osu.ppy.sh/users/4429612) were indispensable in integrating nearly 100 custom maps into the different mappools.
+
+---
+
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.jpg')"></a>
@@ -274,9 +278,15 @@ From my side I would not say there were any issues, at least in my division – 
 
 </div>
 
+---
+
 ::{#krimek-and-xyris}::
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/krimek-and-xyris.jpg)
+
+[Krimek](https://osu.ppy.sh/beatmaps/artists/371) and [Xyris](https://osu.ppy.sh/beatmaps/artists/433), the artists behind [Lunaria](https://osu.ppy.sh/beatmapsets/2215066) and [Hiraeth](https://osu.ppy.sh/beatmapsets/2210796) respectively, were an integral part of the ResCup team, leading the Custom Song Quality Assurance efforts. They not only helped bridge the gap between artists and mappers/poolers, but they also ensured that the numerous [originals](#resurrection-cup-originals) featured in ResCup met the rhythmical and thematical requirements for use in the mappools.
+
+---
 
 <div class="news-chat-quote__text-container">
 
@@ -340,9 +350,15 @@ I draw inspiration from these three and try to incorporate their strengths into 
 
 </div>
 
+---
+
 ::{#hoaq-and-boydalat}::
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/hoaq-and-[boy]dalat.jpg)
+
+[Hoaq](https://osu.ppy.sh/users/7696512) and [[Boy]DaLat](https://osu.ppy.sh/users/8266808) went above and beyond with their immersive and captivating stream overlay. The recognisable and distinctive design elevated the viewing experience and helped to distinguish ResCup from the more conventional overlays.
+
+---
 
 <div class="news-chat-quote__text-container">
 
