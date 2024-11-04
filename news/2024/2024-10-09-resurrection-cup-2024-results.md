@@ -18,7 +18,7 @@ Starting with [registrations back on May 11th](https://osu.ppy.sh/home/news/2024
 
 Instantly recognised by the iconic yet simple "Greetings!", [osu! content creator](https://www.youtube.com/@vertoHUN) [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator in the Quarterfinals. Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary of the intense match between team *swaglords* and team *Germany owc B* to the delight of viewers.
 
-*Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4–2 deficit @ [57:30](https://www.youtube.com/watch?v=2l4KS5feTA8&t=3450s) — *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) @ [1:17:45](https://www.youtube.com/watch?v=2l4KS5feTA8&t=4665s). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
+*Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4–2 deficit @ [57:30](https://www.youtube.com/watch?v=2l4KS5feTA8&t=3450s), *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) @ [1:17:45](https://www.youtube.com/watch?v=2l4KS5feTA8&t=4665s). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
@@ -30,9 +30,9 @@ In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh o
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And at last, the summit of the tournament this year. Taking place on a fully custom-mapped mappool, the Grand Finals match between *kotomiler* and *fresh off the boat* was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3–3 @ [56:00](https://www.youtube.com/watch?v=wYxXtFU1SRY&t=3360s) — *kotomiler* managed to run away with it, securing 2 breakpoints, and taking *fresh off the boat* to a bracket reset.
+And at last, the summit of the tournament this year. Taking place on a fully custom-mapped mappool, the Grand Finals match between *kotomiler* and *fresh off the boat* was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3–3 @ [56:00](https://www.youtube.com/watch?v=wYxXtFU1SRY&t=3360s), *kotomiler* managed to run away with it, secure 2 breakpoints, and take *fresh off the boat* to a bracket reset.
 
-In the bracket reset, *kotomiler* couldn't keep their momentum going, losing their very next pick. Down by 2 points after 4 maps, they finally managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) once more @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, achieving 2 FCs and taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat*, and with nearly 3 hours of splendour performances on both sides, *kotomiler* ultimately took home the victory.
+In the bracket reset, *kotomiler* couldn't keep their momentum going, losing their very next pick. Down by 2 points after 4 maps, they finally managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) once more @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, achieving 2 FCs and taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat*, and with nearly 3 hours of splendid performances on both sides, *kotomiler* ultimately took home the victory.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wYxXtFU1SRY" frameborder="0" allowfullscreen></iframe>
@@ -278,8 +278,6 @@ From my side I would not say there were any issues, at least in my division – 
 
 </div>
 
----
-
 ::{#krimek-and-xyris}::
 
 ![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/krimek-and-xyris.jpg)
@@ -349,8 +347,6 @@ There are many artists who inspire me, even if they're not my favorites. Their w
 I draw inspiration from these three and try to incorporate their strengths into my songs. In other words: I try to learn from them and improve those areas in my songs. They've also become part of the osu! community, and their music is well-loved. How it influences my approach to creating custom song for osu! tournaments? If you create innovative music with exciting rhythms, you already have a great foundation for a custom tournament song.
 
 </div>
-
----
 
 ::{#hoaq-and-boydalat}::
 
