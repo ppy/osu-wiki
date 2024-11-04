@@ -17,7 +17,7 @@ The osu!supporter tag may be obtained from the [osu!supporter store page](https:
 ### Heart badge
 
 ::: Infobox
-![](img/userpage.png?20241022 "Profile with osu!supporter")
+![](img/userpage.png?20241103 "Profile with osu!supporter")
 :::
 
 ::: Infobox

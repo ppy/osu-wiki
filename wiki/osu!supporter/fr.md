@@ -24,7 +24,7 @@ Le tag osu!supporter peut être obtenu à partir de la [page du magasin osu!supp
 :::
 
 ::: Infobox
-![](img/usercard-FR.png?1 "Carte d'utilisateur avec osu!supporter")
+![](img/usercard-FR.png?20241022 "Carte d'utilisateur avec osu!supporter")
 :::
 
 Les supporters reçoivent un badge avec des cœurs, généralement situé à côté de leur nom d'utilisateur sur le site web. Le nombre de cœurs dépend de la durée d'osu!supporter que l'utilisateur a acquis ou reçu au total :

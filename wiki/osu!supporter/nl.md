@@ -25,7 +25,7 @@ De osu!supporter tag kan je verkrijgen in de [osu!supporter winkelpagina](https:
 :::
 
 ::: Infobox
-![](img/usercard-NL.png?2 "Gebruikerscard met osu!supporter")
+![](img/usercard-NL.png?20241022 "Gebruikerscard met osu!supporter")
 :::
 
 Supporters krijgen een insigne met harten erop, gebruikelijk naast hun gebruikersnaam op de website.

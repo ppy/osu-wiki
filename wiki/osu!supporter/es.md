@@ -24,7 +24,7 @@ La etiqueta de osu!supporter puede obtenerse en la [página de la tienda de osu!
 :::
 
 ::: Infobox
-![](img/usercard-ES.png "Tarjeta de usuario con osu!supporter")
+![](img/usercard-ES.png?20241022 "Tarjeta de usuario con osu!supporter")
 :::
 
 Los supporters reciben una insignia con corazones en ella, usualmente se encuentra junto a su nombre de usuario en el sitio web. La cantidad de corazones depende en la duración del osu!supporter que el usuario ha adquirido o que haya recibido en total:
