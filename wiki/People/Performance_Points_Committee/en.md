@@ -34,7 +34,6 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 
 | osu! profile | GitHub profile | Join date |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) | 9 November 2021 |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) | 9 November 2021 |
 | ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) | 12 April 2024 |
 
@@ -44,6 +43,7 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 9 November 2021 | 12 April 2024 |
 | ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | 9 November 2021 | 12 April 2024 |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | 9 November 2021 | 29 October 2024 |
 
 ### osu!taiko
 
@@ -53,7 +53,6 @@ The osu!taiko panel was formed on 1 May 2022 in response to [a community survey 
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1 May 2022 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) | 1 May 2022 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) | 1 May 2022 |
 | ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) | 25 July 2023 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 September 2023 |
 
@@ -62,6 +61,7 @@ The osu!taiko panel was formed on 1 May 2022 in response to [a community survey 
 | osu! profile | Join date | Leave date |
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | 1 May 2022 | 17 September 2023 |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1 May 2022 | 31 October 2024 |
 
 ### osu!catch
 
