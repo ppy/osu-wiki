@@ -86,7 +86,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 | **#7** | 诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧 | ::{ flag=HK }:: [**doulikeplayosu**](https://osu.ppy.sh/users/25785799), ::{ flag=CN }:: [l2883119](https://osu.ppy.sh/users/8844222), ::{ flag=HK }:: [6dl_](https://osu.ppy.sh/users/30894174), ::{ flag=CN }:: [rabbit emperor](https://osu.ppy.sh/users/18753676), ::{ flag=JP }:: [madlife_AA](https://osu.ppy.sh/users/32901756), ::{ flag=CN }:: [alkali_earth](https://osu.ppy.sh/users/32858645), ::{ flag=CN }:: [hiesimo](https://osu.ppy.sh/users/31443365), ::{ flag=CN }:: [Cibo](https://osu.ppy.sh/users/9484743) |
 | **#8** | Helicopter | ::{ flag=TW }:: [**BocchiRocket**](https://osu.ppy.sh/users/20699990), ::{ flag=TW }:: [what th fxxl](https://osu.ppy.sh/users/25452354), ::{ flag=TW }:: [berrylove](https://osu.ppy.sh/users/16115679), ::{ flag=TW }:: [Explosion_MEOW](https://osu.ppy.sh/users/12806924), ::{ flag=TW }:: [yusen0806](https://osu.ppy.sh/users/33635384), ::{ flag=HK }:: [MyAngelNazuna](https://osu.ppy.sh/users/27141411), ::{ flag=CN }:: [\[mogezi\]](https://osu.ppy.sh/users/10483107), ::{ flag=TW }:: [puipui940515](https://osu.ppy.sh/users/20777456) |
 
-## 颁奖
+## 颁奖信息
 
 本届比赛已经结束，颁奖结果如下：
 
@@ -94,6 +94,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 | :-: | :-- |
 | ![金皇冠](/wiki/shared/crown-gold.png "冠军队") | 这是什么 |
 | ![银皇冠](/wiki/shared/crown-silver.png "亚军队") | 沟槽的烤翅还在开战舰追我 |
+| ![铜皇冠](/wiki/shared//crown-bronze.png "季军队伍") | Bingo! |
 
 ## 棋盘与图池
 

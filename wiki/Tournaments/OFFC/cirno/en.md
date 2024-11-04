@@ -88,6 +88,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 这是什么 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 沟槽的烤翅还在开战舰追我 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Bingo! |
 
 ## Board and Mappools
 
