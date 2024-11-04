@@ -147,11 +147,13 @@ Since the [last update to osu!taiko star rating 2 years ago](https://osu.ppy.sh/
 
 The previous system made to assess the stamina requirement for maps assumed two fingers per colour, leading to some impressive plays by players like [Ney](https://osu.ppy.sh/users/5991961) on [Mind Vortex - Alive](https://osu.ppy.sh/scores/1873110816) and others on [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774#taiko/28065) becoming notorious for yielding high-pp scores.
 
-The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) introduces variable finger counts for stamina assessment. Mono-colour patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts.
+The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) introduces variable finger counts for stamina assessment. colour patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts. 
 
-Additionally, convert-specific nerfs have been removed from difficulty calculations to ensure that converts are weighted fairly against mode-specific maps. The changes to finger count availability also ensure that play styles using varying amounts of fingers per colour are fairly represented.
+To further combat TL-Tappong specific mapsets, a change by [Natelytle](https://osu.ppy.sh/users/17607667) introduces a new penalty factor that shows how much of a map's difficulty comes purely from single-hand (mono) patterns. For example, DJ Sharpnel - StrangeProgram has a factor of 99%, meaning 99% of its challenge is due to high-BPM, mono patterns.
 
-### Changes to the HDFL bonus in the accuracy component of performance calculation
+**In response to negative feedback regarding the removal of the convert-specific nerfs. these have been reinstated.**
+
+### Balancing Changes to performance calculation
 
 On the performance points side, a change by [-Lawtron-](https://osu.ppy.sh/users/11475208) addresses the bonus applied to memorisation mods on shorter maps. The length of the map will no longer affect the base multiplier in the accuracy component of the performance points system. However, the cap for HDFL (Hidden + Flashlight) bonuses has been increased to 1.1x for qualifying plays.
 
@@ -163,7 +165,7 @@ A [change](https://github.com/ppy/osu/pull/20963) proposed by [Natelytle](https:
 
 The current way accuracy scaling works in osu!taiko is very simple. It takes the decimal accuracy of the score, raises it to the power of 15, and multiplies the result by a constant determined by the overall difficulty. The problem with this is that if you keep the spread of your hit timings (also known as UR) the same, your accuracy does not decrease at a constant rate as you increase the overall difficulty.
 
-The consequence of this is that if you take the same score and increase the overall difficulty on it, eventually you will reach a point where the accuracy drops off faster than the constant bonus for OD increases. This means the exact same score can *lose* pp if the overall difficulty is too high.
+The consequence of this is that if you take the same score and increase the overall difficulty on it, eventually you will reach a point where the accuracy drops off faster than the constant bonus for OD increases. This means the exact same score can *lose* pp if the overall difficulty is too high. The Easy mod also is given a significantly harsher penalty.
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/old-taiko-accuracy-curve.png)
 
