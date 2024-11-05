@@ -28,16 +28,16 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Muted** mod progressively removes the audio between the first and hundredth combo. Beyond that number, only the metronome can be heard for the rest of the map. If you miss an object, everything will be back to normal.
+The **Muted** mod reduces music and [hitsound](/wiki/Beatmapping/Hitsound) volume as the player's [combo](/wiki/Gameplay/Combo_(score_multiplier)) increases, eventually muting both completely. As the volume is lowered, a metronome beat fades in. [Breaking combo](/wiki/Gameplay/Judgement/Combobreak) resets the volume to normal levels.
 
 ## Customisation
 
 ![Muted customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.jpg)
 
-- **Start muted** (default disabled): The audio will be muted when you start the map. The more combo you get, the better you can hear the track.
-- **Enable metronome** (default enabled): A metronome will be added to help you keep on track of the rhythm.
-- **Finale volume at combo** (0–500, default 100): You can change the value of the combo in which the audio will be removed.
-- **Mute hit sounds** (default enabled): When the volume gradually decreases the more combo you get. the hit sounds will also be muted.
+- **Start muted** (default disabled): Reverses the effect of the mod. Volume will start muted, and increase with combo. If this setting is enabled, the *Final volume at combo* setting's minimum value is 1 instead of 0.
+- **Enable metronome** (default enabled): Adds a metronome beat that gets louder as the music gets quieter.
+- **Final volume at combo** (0–500, default 100): The combo at which the final volume will be reached. If set to 0 and *Start muted* is disabled, the volume will always be muted.
+- **Mute hit sounds** (default enabled): Causes the mod to affect hitsound volume in addition to music volume.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
