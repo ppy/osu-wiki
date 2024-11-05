@@ -31,17 +31,15 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-## Description
+The **No Scope** mod progressively hides the player's cursor or catcher as their [combo](/wiki/Gameplay/Combo_(score_multiplier)) increases, eventually making it completely invisible. [Breaking combo](/wiki/Gameplay/Judgement/Combobreak) resets it to normal visibility.
 
-The **No Scope** mod progressively hides the cursor between the first and tenth combo. Beyond that number, the cursor will remain invisible for the rest of the map. If you miss an object, everything will be back to normal.
+Visibility is also temporarily restored during [breaks](/wiki/Beatmap/Break).
 
-The same applies to the catcher from osu!catch.
+## Customisation
 
-## Customise
+![No Scope customisation options](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.jpg)
 
-![Customise No Scope](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.jpg)
-
-- **Hidden at combo:** You can change the value of the combo in which the cursor/catcher will disappear. It ranges from 0 (always hidden) to 50. *10 is the default value.*
+- **Hidden at combo** (0–50, default 10): The combo at which the cursor or catcher will be fully hidden. If set to 0, it will only be visible during breaks.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
