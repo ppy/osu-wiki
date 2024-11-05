@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 32b8cbe53f7b9a5ee6408f6e905d6b5f7557bb7c
 no_native_review_since: 303f8823b527327f34a55f39074ed308da98e4b3 Avariation
 tags:
   - BN
