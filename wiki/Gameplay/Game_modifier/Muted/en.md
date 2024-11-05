@@ -29,21 +29,16 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-## Description
-
 The **Muted** mod progressively removes the audio between the first and hundredth combo. Beyond that number, only the metronome can be heard for the rest of the map. If you miss an object, everything will be back to normal.
 
-## Customise
+## Customisation
 
-![Customise Muted](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.jpg)
+![Muted customisation options](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.jpg)
 
-- **Start muted:** The audio will be muted when you start the map. The more combo you get, the better you can hear the track. *The option is disabled by default.*
-
-- **Enable metronome:** A metronome will be added to help you keep on track of the rhythm. *The option is enabled by default.*
-
-- **Finale volume at combo:** You can change the value of the combo in which the audio will be removed. It ranges from 0 (always muted) to 500. *100 is the default value.*
-
-- **Mute hit sounds:** When the volume gradually decreases the more combo you get. the hit sounds will also be muted. *The option is enabled by default.*
+- **Start muted** (default disabled): The audio will be muted when you start the map. The more combo you get, the better you can hear the track.
+- **Enable metronome** (default enabled): A metronome will be added to help you keep on track of the rhythm.
+- **Finale volume at combo** (0–500, default 100): You can change the value of the combo in which the audio will be removed.
+- **Mute hit sounds** (default enabled): When the volume gradually decreases the more combo you get. the hit sounds will also be muted.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
