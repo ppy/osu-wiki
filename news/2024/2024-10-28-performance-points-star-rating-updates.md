@@ -151,7 +151,7 @@ The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy
 
 To further combat maps where TL-tapping is most effective, a change by [Natelytle](https://osu.ppy.sh/users/17607667) introduces a new penalty factor that shows how much of a map's difficulty comes purely from mono-colour patterns. For example, StrangeProgram has a factor of 99%, meaning 99% of its challenge is due to high-BPM mono patterns.
 
-**In response to negative feedback regarding the removal of the convert-specific nerfs. these have been reinstated.**
+**In response to negative feedback regarding the removal of convert-specific nerfs, they have been reinstated.**
 
 ### Balancing Changes to performance calculation
 
