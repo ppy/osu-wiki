@@ -155,9 +155,11 @@ To further combat maps where TL-tapping is most effective, a change by [Natelytl
 
 ### Balancing Changes to performance calculation
 
-On the performance points side, a change by [-Lawtron-](https://osu.ppy.sh/users/11475208) addresses the bonus applied to memorisation mods on shorter maps. The length of the map will no longer affect the base multiplier in the accuracy component of the performance points system. However, the cap for HDFL (Hidden + Flashlight) bonuses has been increased to 1.1x for qualifying plays.
+On the performance points side, a change by [-Lawtron-](https://osu.ppy.sh/users/11475208) addresses the bonus applied to memorisation mods on shorter maps. The length of the map will no longer affect the base multiplier in the accuracy component of the performance points system. However, the cap for HDFL (Hidden + Flashlight) bonuses has been increased to 1.1x for qualifying plays. 
 
 Previously, a map with just one object could receive the same bonus as a map with 1,000 objects when using HDFL, which led to disproportionate rewards for shorter, simpler maps.
+
+In addition to these changes, a harsher penalty has been applied to the Easy mod in order to further its impact on difficulty pp. Alongside statistical accuracy (explained below) maps played with Easy will reflect their difficulty reduction more significantly.
 
 ### Adjusted accuracy scaling
 
@@ -165,7 +167,7 @@ A [change](https://github.com/ppy/osu/pull/20963) proposed by [Natelytle](https:
 
 The current way accuracy scaling works in osu!taiko is very simple. It takes the decimal accuracy of the score, raises it to the power of 15, and multiplies the result by a constant determined by the overall difficulty. The problem with this is that if you keep the spread of your hit timings (also known as UR) the same, your accuracy does not decrease at a constant rate as you increase the overall difficulty.
 
-The consequence of this is that if you take the same score and increase the overall difficulty on it, eventually you will reach a point where the accuracy drops off faster than the constant bonus for OD increases. This means the exact same score can *lose* pp if the overall difficulty is too high. The Easy mod also is given a significantly harsher penalty.
+The consequence of this is that if you take the same score and increase the overall difficulty on it, eventually you will reach a point where the accuracy drops off faster than the constant bonus for OD increases. This means the exact same score can *lose* pp if the overall difficulty is too high.
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/old-taiko-accuracy-curve.png)
 
