@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - MU
 ---
@@ -33,7 +32,7 @@ The **Muted** mod progressively removes the audio between the first and hundredt
 
 ## Customisation
 
-![Muted customisation options](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.jpg)
+![Muted customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.jpg)
 
 - **Start muted** (default disabled): The audio will be muted when you start the map. The more combo you get, the better you can hear the track.
 - **Enable metronome** (default enabled): A metronome will be added to help you keep on track of the rhythm.
