@@ -178,7 +178,7 @@ Worst case I believe we place top16, which isn't that bad considering we seeded 
 
 ---
 
-The osu! World Cup is back this weekend with its Round of 16, the first elimination round of the year! Check out the OWC wiki page for the match details along with full tournament details, and join us at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to ༼ つ ◕\_◕ ༽つ give your energy ༼ つ ◕\_◕ ༽つ and cheer on your favourite teams!
+The osu! World Cup is back this weekend with its Round of 16, the first elimination round of the year! Check out the OWC wiki page for the match details along with full tournament details, and join us at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to ༼ つ ◕\_◕ ༽つ give your energy ༼ つ ◕\_◕ ༽つ, and cheer on your favourite teams!
 
 We hope to see you cheering your teams on this weekend in Twitch chat, and joining us next week for another round of recaps!
 
