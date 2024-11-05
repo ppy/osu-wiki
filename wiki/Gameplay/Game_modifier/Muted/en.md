@@ -12,7 +12,7 @@ tags:
 
 #### Muted
 
-![No Scope mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png)
+![Muted mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png)
 
 *Can you still feel the rhythm without music?*
 
@@ -20,7 +20,7 @@ tags:
 | :-- | :-- |
 | Acronym | MU |
 | Type | Fun |
-| Game modes | ![][osu!] ![osu!taiko] ![][osu!catch] ![osu!mania] |
+| Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 1.00x |
 | Status | Ranked |
 | Incompatible mods | None |
@@ -43,7 +43,7 @@ The **Muted** mod progressively removes the audio between the first and hundredt
 
 - **Finale volume at combo:** You can change the value of the combo in which the audio will be removed. It ranges from 0 (always muted) to 500. *100 is the default value.*
 
-- **Mute hit sound:s** When the volume gradually decreases the more combo you get. the hit sounds will also be muted. *The option is enabled by default.*
+- **Mute hit sounds:** When the volume gradually decreases the more combo you get. the hit sounds will also be muted. *The option is enabled by default.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
