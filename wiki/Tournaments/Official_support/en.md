@@ -27,8 +27,8 @@ Officially supported tournaments have access to:
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
 - The tournament series must run no more than two times per year.
-- The tournament must operate on a Round of 16 double-elimination or a round of 32 single-elimination format at a minimum.
-  - LAN tournaments must operate on a Round of 8 double-elimination or a round of 16 single-elimination format at a minimum.
+- The tournament must operate on a Round of 16 double-elimination or a Round of 32 single-elimination format at a minimum.
+  - LAN tournaments must operate on a Round of 8 double-elimination or a Round of 16 single-elimination format at a minimum.
   - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
   - Tournaments that feature a draft format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
     - The tournament is open rank.
@@ -87,7 +87,7 @@ In addition, all promotional material or any services associated with a tourname
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
-- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#Automated-refereeing) has been granted and is being used for assistance. Players cannot "self-ref".
+- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#Automated-refereeing) has been granted and is being used for assistance. Players may not "self-ref".
 - Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
 - All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
@@ -96,9 +96,10 @@ Once the tournament has concluded, the tournament organisers will need to submit
 
 - A list of applicable badge recipients (a.k.a. the winners of your tournament).
 - An appropriately designed badge ([see below](#profile-badges)).
-- A Link to the tournament's wiki page or spreadsheet(s) with:
-  - The publicly viewable catalogue of your tournament's match history, including qualifiers where applicable.
-  - The publicly viewable catalogue of your tournament's mappools.
+- Links to the tournament's wiki page, website and/or publicly viewable spreadsheet(s) with:
+  - The tournament's match history with links to all matches, including qualifiers where applicable.
+  - The tournament's mappools.
+  - The qualifier results — for tournaments that use qualifiers.
 
 ### Programs
 
