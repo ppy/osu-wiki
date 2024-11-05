@@ -10,7 +10,7 @@ Tune in and check out the Round of 32 results, a recap of the 1st tiebreaker mat
 
 With the first round of this year's osu! World Cup behind us, let's briefly take a look at how the past weekend went, and what we can expect moving toward the Round of 16.
 
-If you are more of a visual learner, the GOAT [Junihuhn](https://osu.ppy.sh/users/4182339) has got you covered with their Round of 32 video recap!
+If you are more of a visual learner, [Junihuhn](https://osu.ppy.sh/users/4182339) is back once again this year with their video recaps!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/j9RjpqSAYcE" frameborder="0" allowfullscreen></iframe>
@@ -18,13 +18,41 @@ If you are more of a visual learner, the GOAT [Junihuhn](https://osu.ppy.sh/user
 
 ## Mappool recap
 
+<style>
+    .osu-md--news .audio-player {
+        max-width: inherit;
+    }
+</style>
+
 **[Download the pool here! (127MB)](https://osu.ppy.sh/beatmaps/packs/P264)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=01h05m58s&video=2287184079" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-dada + aika :D
+![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/owc-2024-ro32-mappool.jpg)
+
+For the first pool in the bracket stage, things started off with pretty approachable maps to most teams, while still offering a decent challenge.
+
+To kick things off in the pool, we had an (in?)famous song as the first No Mod map, that being [Shikanoko nokonoko koshitantan (Raphiiel Remix?)](https://osu.ppy.sh/beatmapsets/2271619#osu/4838717) mapped by [alden](https://osu.ppy.sh/users/3545323) (NM1). The map accentuated player's aiming skills, with a few twists and more complex sections later on to spice things up. Whether the song is *deerly* loved or a cardinal sin is entirely up to you, though.
+
+A couple of other highlights of the pool included two highly regarded existing maps, [Samayou](https://osu.ppy.sh/beatmapsets/2017141/#osu/4199616) by [ponbot](https://osu.ppy.sh/users/8939857) (HR1) being voted "Best Vanilla Map" in last year's [Mapper's Choice Awards](https://osu.ppy.sh/home/news/2024-02-26-mappers-choice-awards-2023-results) (MCA), and [Celluloid](https://osu.ppy.sh/beatmapsets/1856293/#osu/4163649) by [Fsjallink](https://osu.ppy.sh/users/12704035) (HR2) being a community tournament staple which can be described as a mix of speed and aim.
+
+The pool had its fair amount of modern maps — some made specifically for the tournament, like [Bug Thief](https://osu.ppy.sh/beatmapsets/2271578#osu/4838594) and [Burn your TV](https://osu.ppy.sh/beatmapsets/2271539#osu/4838497), but also brought back some proper relics of osu!'s early era, like [Cigarettes In The Theatre](https://osu.ppy.sh/beatmapsets/37461/#osu/120461) and [Houkago Stride](https://osu.ppy.sh/beatmapsets/79878/#osu/228679), which provided exciting picks for both the new and old generations alike.
+
+Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in the tournament — and what a project it is.
+
+![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/99/Songs/Imy_feat._Natsume_Itsuki_-_Lies_playing_Truth.mp3">
+    </audio>
+</div>
+
+[Imy's Lies playing Truth](https://osu.ppy.sh/beatmapsets/2271658), sung by the wonderful [Natsume Itsuki](https://osu.ppy.sh/beatmaps/artists/189), combined two of our amazing featured artists' abilities into one truly epic song, mapped by [Garden](https://osu.ppy.sh/users/2849992) and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). It served as our tiebreaker for this week, being the decider map in the Sweden vs Indonesia match. If this doesn't make you want to check the map out, here is what [Ryuusei Aika](https://osu.ppy.sh/users/7777875) had to say about it:
+
+> I am glad to participate in the making of RO32 TB as a mapper! This song has all the elements I love as a powerful Japanese rock work, just as any other Imy songs, so I had a lot of fun playing around. I also enjoyed the creative discussion with Garden, who've initiated the idea of switching styles (mainly flow aim <-> awkward aim) between different sections. Hope you like the song, the map and [LowGraphics](https://osu.ppy.sh/users/5383942)' impeccable storyboard! Huge shout out to everyone who've made that happen as well!
 
 ## Round of 32 summary
 
@@ -34,8 +62,6 @@ The outcome of the France (#14) vs. Turkey (#19) was quite shocking! The majorit
 
 Taiwan (#25) also took two points from Hong Kong (#8) despite the huge gap in seeding, with the same scenario *and* score-line replicated on the same day by the Philippines (#9) and Malaysia (#24), showing that even when the underdog teams are faced with a looming threat, they won't go down without a fight.
 
-And now without further ado, the highlight match of this week is...
-
 ### ::{ flag=CN }:: China vs. ::{ flag=JP }:: Japan
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116058622)**
@@ -44,9 +70,18 @@ And now without further ado, the highlight match of this week is...
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2291865086&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-damarshhhh
+After what feels like déjà vu from 2023, China (#13) and Japan (#20) once again found themselves as first round opponents, and expectations were high after last year's match reaching the tiebreaker.
 
-## ::{ flag=SE }:: Sweden vs. ::{ flag=ID }:: Indonesia, from team Sweden's POV
+Wanting to make an impact, Japan opted into [NM1](https://osu.ppy.sh/beatmapsets/2271619#osu/4838717), where both ::{ flag=JP }:: [YMD](https://osu.ppy.sh/users/17202789) and ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) showed us their mechanical prowess with FC's, ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) in particular choking an SS with 1x100!
+China were not shaken by Japan's performance and decided to make their mark on the [HD2](https://osu.ppy.sh/beatmapsets/2271631#osu/4838738), the low AR pick, and their captain ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) (formerly known as davidqu2) did not disappoint with a 99% accuracy FC. With one map for each team Japan looked towards [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649) being another great venture, however China went above and beyond expectations with a near 4-way FC resulting in 4.5 million team score, leaving China with an advantage at 2–1.
+
+China tried capitalizing on the newly found momentum with DT2, it being one of the most popular maps of the weekend. High expectations were had from both China and Japan, but early misses left China chasing Japan for the rest of the pick, with the match score equalizing in the end to 2–2. Japan needed to find a solid map pick after miss-picking [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649), and decided to put their faith in [HD1](https://osu.ppy.sh/beatmapsets/2271664#osu/4838813), the Hidden tech map. Star players ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) and ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) had an amazing duel with the high combos, but one miss from ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) near the end let Japan run away with the lead.
+
+Starting the second half of the match, China decided to stick to their guns with the speed picks and choose [NM2](https://osu.ppy.sh/beatmapsets/2271539#osu/4838497), another one of the more popular maps of the weekend, and with a decisive 3.4 million team score tied up the match once again. With the teams down to one pick each, Japan went into [NM3](https://osu.ppy.sh/beatmapsets/1915723#osu/3952312) hoping to guarantee that tiebreaker. Despite Japan's two major FC's, China *still* managed to squeeze out a break point at a critical time! For the final pick of the match, China opted to pick the precision HR pick, [HR2](https://osu.ppy.sh/beatmapsets/2271578#osu/4838594), and managed to shut down any chances for a tiebreaker with ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397)'s FC, sealing Japan's fate.
+
+An incredible matchup between two closely seeded teams, look out for both of these teams next week as they face Russia and Argentina respectively.
+
+### ::{ flag=SE }:: Sweden vs. ::{ flag=ID }:: Indonesia, from team Sweden's POV
 
 <style>
     .news-chat-quote__avatar {
@@ -135,12 +170,16 @@ What were some of the more difficult decisions made by either yourself or the te
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
-I don't have high hopes for our match against Australia. We might be able to snag one or two points but I don't see a win in sight, especially not considering how well they played against Austria. As for our loser bracket, I think there's a high likelihood we win against the winner of Singapore vs. Thailand. The match after that is most likely gonna be against either Chile or United Kingdom which will be really tough regardless who we face, but its not looking as grim as against Australia, that's for sure. Worst case I believe we place top16, which isn't that bad considering we seeded 15 this year. Best case we place top12 like last year, it's optimistic but I believe there's a small chance we make it that far, it heavily depends on how our opponents play and the maps in the mappool. Whether we make top16 or top12, I'm still gonna be satisfied with our performance this year. In my 5 years of playing OWC it has always been a joy playing for Sweden and playing with my fellow swedes, they make it all worth it in the end.
+I don't have high hopes for our match against Australia. We might be able to snag one or two points but I don't see a win in sight, especially not considering how well they played against Austria. As for our loser bracket, I think there's a high likelihood we win against the winner of Singapore vs. Thailand. The match after that is most likely gonna be against either Chile or United Kingdom which will be really tough regardless who we face, but its not looking as grim as against Australia, that's for sure.
+
+Worst case I believe we place top16, which isn't that bad considering we seeded 15 this year. Best case we place top12 like last year, it's optimistic but I believe there's a small chance we make it that far, it heavily depends on how our opponents play and the maps in the mappool. Whether we make top16 or top12, I'm still gonna be satisfied with our performance this year. In my 5 years of playing OWC it has always been a joy playing for Sweden and playing with my fellow swedes, they make it all worth it in the end.
 
 </div>
 
 ---
 
-outro
+The osu! World Cup is back this weekend with its Round of 16, the first elimination round of the year! Check out the OWC wiki page for the match details along with full tournament details, and join us at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to ༼ つ ◕\_◕ ༽つ give your energy ༼ つ ◕\_◕ ༽つ and cheer on your favourite teams!
+
+We hope to see you cheering your teams on this weekend in Twitch chat, and joining us next week for another round of recaps!
 
 —0x84f, ChillierPear, Dada
