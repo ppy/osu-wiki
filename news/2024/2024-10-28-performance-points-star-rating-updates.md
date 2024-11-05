@@ -149,7 +149,7 @@ The previous system made to assess the stamina requirement for maps assumed two 
 
 The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) introduces variable finger counts for stamina assessment. Patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts.
 
-To further combat TL-Tappong specific mapsets, a change by [Natelytle](https://osu.ppy.sh/users/17607667) introduces a new penalty factor that shows how much of a map's difficulty comes purely from single-hand (mono) patterns. For example, DJ Sharpnel - StrangeProgram has a factor of 99%, meaning 99% of its challenge is due to high-BPM, mono patterns.
+To further combat maps where TL-tapping is most effective, a change by [Natelytle](https://osu.ppy.sh/users/17607667) introduces a new penalty factor that shows how much of a map's difficulty comes purely from mono-colour patterns. For example, StrangeProgram has a factor of 99%, meaning 99% of its challenge is due to high-BPM mono patterns.
 
 **In response to negative feedback regarding the removal of the convert-specific nerfs. these have been reinstated.**
 
