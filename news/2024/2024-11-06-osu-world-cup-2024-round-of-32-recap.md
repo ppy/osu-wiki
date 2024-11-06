@@ -182,4 +182,4 @@ The osu! World Cup is back this weekend with its Round of 16, the first eliminat
 
 We hope to see you cheering your teams on this weekend in Twitch chat, and joining us next week for another round of recaps!
 
-—0x84f, ChillierPear, Dada
+—0x84f, Dada, Damarsh
