@@ -12,7 +12,7 @@ With the first round of this year's osu! World Cup behind us, let's briefly take
 
 If you are more of a visual learner, [Junihuhn](https://osu.ppy.sh/users/4182339) is back once again this year with their video recaps!
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/j9RjpqSAYcE" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -103,18 +103,20 @@ Taiwan (#25) also took two points from Hong Kong (#8) despite the huge gap in se
 
 ### ::{ flag=CN }:: China vs. ::{ flag=JP }:: Japan
 
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/116058622)**
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116058622)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2291865086)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2291865086&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/j9RjpqSAYcE?start=760&end=888" frameborder="0" allowfullscreen></iframe>
 </div>
 
-After what feels like déjà vu from 2023, China (#13) and Japan (#20) once again found themselves as first round opponents, and expectations were high after last year's match reaching the tiebreaker.
+After what feels like déjà vu from 2023, China (#13) and Japan (#20) once again found themselves as first-round opponents, and expectations were high after last year's match reaching the tiebreaker.
 
-Wanting to make an impact, Japan opted into [NM1](https://osu.ppy.sh/beatmapsets/2271619#osu/4838717), where both ::{ flag=JP }:: [YMD](https://osu.ppy.sh/users/17202789) and ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) showed us their mechanical prowess with FC's, ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) in particular choking an SS with 1x100!
-China were not shaken by Japan's performance and decided to make their mark on the [HD2](https://osu.ppy.sh/beatmapsets/2271631#osu/4838738), the low AR pick, and their captain ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) (formerly known as davidqu2) did not disappoint with a 99% accuracy FC. With one map for each team Japan looked towards [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649) being another great venture, however China went above and beyond expectations with a near 4-way FC resulting in 4.5 million team score, leaving China with an advantage at 2–1.
+Wanting to make an impact, Japan opted into [NM1](https://osu.ppy.sh/beatmapsets/2271619#osu/4838717), where both ::{ flag=JP }:: [YMD](https://osu.ppy.sh/users/17202789) and ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) showed us their mechanical prowess with FCs, ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) in particular choking an SS with 1x100!
 
-China tried capitalising on the newly found momentum with DT2, it being one of the most popular maps of the weekend. High expectations were had from both China and Japan, but early misses left China chasing Japan for the rest of the pick, with the match score equalising in the end to 2–2. Japan needed to find a solid map pick after miss-picking [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649), and decided to put their faith in [HD1](https://osu.ppy.sh/beatmapsets/2271664#osu/4838813), the Hidden tech map. Star players ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) and ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) had an amazing duel with the high combos, but one miss from ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) near the end let Japan run away with the lead.
+China was not shaken by Japan's performance and decided to make their mark on the [HD2](https://osu.ppy.sh/beatmapsets/2271631#osu/4838738), the low AR pick, and their captain ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) (formerly known as davidqu2) did not disappoint with a 99% FC. With one map for each team, Japan looked towards [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649), however China went above and beyond expectations with nearly a 4-way FC and taking the advantage at 2–1.
+
+China tried capitalising on the newly found momentum with DT2, one of the most popular maps of the weekend. High expectations were had from both China and Japan, but early misses left China chasing Japan for the rest of the pick and tying the match score at 2–2. Japan needed to find a solid map pick after miss-picking [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649), and decided to put their faith in [HD1](https://osu.ppy.sh/beatmapsets/2271664#osu/4838813), the Hidden tech map. Star players ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) and ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) had an amazing duel awaiting one another to break their high combo, which ultimately ended in a miss from ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175), letting Japan run away with the lead.
 
 Starting the second half of the match, team China decided to stick to their guns with the speed picks and chose [NM2](https://osu.ppy.sh/beatmapsets/2271539#osu/4838497), another one of the more popular maps of the weekend, and with flying colours on their pick tied up the match once again. With the teams down to one pick each, Japan went into [NM3](https://osu.ppy.sh/beatmapsets/1915723#osu/3952312) hoping to guarantee the tiebreaker. Despite Japan's two major FCs, China *still* managed to squeeze out a break point at a critical time! For the final pick of the match, China opted to pick the precision [HR2](https://osu.ppy.sh/beatmapsets/2271578#osu/4838594) pick and managed to shut down any chances for a tiebreaker with an FC from ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), sealing Japan's fate.
 
@@ -122,8 +124,11 @@ An incredible matchup between two closely seeded teams. Look out for both of the
 
 ### ::{ flag=SE }:: Sweden vs. ::{ flag=ID }:: Indonesia
 
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116069498)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2292746231)**
+
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2292746231&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/j9RjpqSAYcE?start=984&end=1136" frameborder="0" allowfullscreen></iframe>
 </div>
 
 On Saturday, the community has been given a pleasure of watching a top tier match between two very evenly matched teams, Sweden (#15) and Indonesia (#18). This was not just an even matchup on paper though, with the match itself becoming more intense by the minute, leading to the first tiebreaker being played in a match this year!
