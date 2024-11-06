@@ -37,7 +37,7 @@ Get to know the game better, from it's various settings and customisation capabi
 
 # [Gameplay](/wiki/Gameplay)
 
-Everything about game modes and their key elements, concepts and mechanics.
+Everything about the game modes.
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -48,7 +48,7 @@ Everything about game modes and their key elements, concepts and mechanics.
 
 # [Beatmap editor](/wiki/Client/Beatmap_editor)
 
-All osu! beatmaps are created by our community. Want to share your favorite songs as well? Familiarise yourself with the built-in editor and turn your ideas into reality.
+All osu! beatmaps are created by our community. Want to share your favorite songs as well? You can do so with the built-in editor.
 
 Sections: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
@@ -72,7 +72,7 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 
 # [Rules](/wiki/Rules) and legalese
 
-Read about procedures and regulations that keep osu! and its community safe, as well as music licensing and media guidelines.
+Procedures and regulations that keep osu! and its community safe, as well as music licensing and media guidelines.
 
 [Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
@@ -98,7 +98,7 @@ Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) •
 
 # [Community](/wiki/Community) and [projects](/wiki/Community/Projects)
 
-Social interaction is one of main things that fuel osu! players all around the world. Explore activities and contests, get in touch with others, or help organise the next big event.
+Explore activities and contests, get in touch with others, or help organise the next big event.
 
 Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord servers](/wiki/Community/Discord_servers)
 
