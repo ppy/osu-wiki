@@ -44,13 +44,13 @@ During this period, scores in "best performance" may look to be out of order or 
 
 In previous runs, we did this process starting on highest ranked users and working outwards, but this time around we're trying a different approach in order to more efficiently run the process. Even so, it's going to take a while.
 
-### 🏃 Re-run SR and PP calculation for osu!taiko (24 hours)
+### ✅ Re-run SR and PP calculation for osu!taiko (Completed 2024-11-06)
 
 There were some issues picked up on by the community which have since been fixed at an algorithm level. We need to re-run things for osu!taiko as a result.
 
-### 🏃 Reprocess total PP values for all users (12 hours)
+### 🏃 Reprocess total PP values for all users (24 hours)
 
-This is running daily in the background to try and keep users aligned. It will continue to be run in the background until the process has finished.
+A final run of this will be performed today.
 
 ### ⏳ Re-enabling of global rank history updates
 
