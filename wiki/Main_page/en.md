@@ -48,7 +48,7 @@ Everything about game modes and their key elements, concepts and mechanics.
 
 # [Beatmap editor](/wiki/Client/Beatmap_editor)
 
-All osu! beatmaps are created our community. Want to share your favorite songs as well? Familiarise yourself with the built-in editor and turn your ideas into reality.
+All osu! beatmaps are created by our community. Want to share your favorite songs as well? Familiarise yourself with the built-in editor and turn your ideas into reality.
 
 Sections: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
