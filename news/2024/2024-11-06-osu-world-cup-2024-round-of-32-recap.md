@@ -130,7 +130,7 @@ An incredible matchup between two closely seeded teams, look out for both of the
 
 ::{#scylla}::
 
-On Saturday the community has been given a pleasure of watching a top tier match between two very evenly matched teams, Sweden (#15) and Indonesia (#18). This was not just an even matchup on paper, with the match itself becoming more intense by the minute, leading to the first tiebreaker being played in a match this year!
+On Saturday the community has been given a pleasure of watching a top tier match between two very evenly matched teams, Sweden (#15) and Indonesia (#18). This was not just an even matchup on paper though, with the match itself becoming more intense by the minute, leading to the first tiebreaker being played in a match this year!
 
 Sweden ended clutching the win with a final score of 5–4, and ::{ flag=SE }:: scylla, team Sweden's captain, kindly agreed to sharing a small glimpse at how a World Cup team prepared for their match versus Indonesia.
 
