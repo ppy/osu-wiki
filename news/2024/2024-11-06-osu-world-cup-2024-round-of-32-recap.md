@@ -135,7 +135,7 @@ On Saturday, the community has been given a pleasure of watching a top tier matc
 
 ![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/banner-scylla.png)
 
-Sweden ended clutching the win with a final score of 5–4, and ::{ flag=SE }:: scylla, team Sweden's captain, kindly agreed to sharing a small glimpse at how a World Cup team prepared for their match versus Indonesia.
+Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), team Sweden's captain, kindly agreed to share a small glimpse at how a world cup team prepared for their match versus Indonesia.
 
 ---
 
@@ -190,7 +190,6 @@ Worst case I believe we place top16, which isn't that bad considering we seeded 
 ---
 
 The osu! World Cup will be back this weekend with its Round of 16, the first elimination round of the year! Check out the OWC wiki page for the match details along with full tournament details (such as the schedule or [statistics for this round](https://docs.google.com/spreadsheets/d/1QZkp7R5eBfvc2GP0rwWRmtRohZl16yKmHZiJ1rjlL0A)), and join us at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to ༼ つ ◕\_◕ ༽つ give your energy ༼ つ ◕\_◕ ༽つ, and cheer on your favourite teams!
-
 
 We hope to see you cheering for your teams this weekend in Twitch chat or reading up on the results in another round of recaps!
 
