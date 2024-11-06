@@ -48,17 +48,17 @@ In previous runs, we did this process starting on highest ranked users and worki
 
 There were some issues picked up on by the community which have since been fixed at an algorithm level. We need to re-run things for osu!taiko as a result.
 
-### 🏃 Reprocess total PP values for all users (24 hours)
+### ✅ Reprocess total PP values for all users (24 hours)
 
-A final run of this will be performed today.
+A final run of this will be performed today. All user total PP values are final now.
 
-### ⏳ Re-enabling of global rank history updates
-
-Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
-
-### ⏳ Reindexing (2 - 3 days)
+### 🏃 Reindexing (2 - 3 days)
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
+
+### ⏳ Re-enabling of global rank history updates (ETA 2024-11-07)
+
+Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
 ## osu!
 
