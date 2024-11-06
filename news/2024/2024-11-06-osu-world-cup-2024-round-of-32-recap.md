@@ -81,7 +81,7 @@ Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in 
     }
 </style>
 
-[Imy's Lies playing Truth](https://osu.ppy.sh/beatmapsets/2271658), sung by the wonderful [Natsume Itsuki](https://osu.ppy.sh/beatmaps/artists/189), combined two of our amazing featured artists' abilities into one truly epic song, mapped by [Garden](https://osu.ppy.sh/users/2849992) and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). It served as our tiebreaker for this week, being the decider map in the Sweden vs Indonesia match. If this doesn't make you want to check the map out, here is what [Ryuusei Aika](https://osu.ppy.sh/users/7777875) had to say about it:
+[Imy's *Lies playing Truth*](https://osu.ppy.sh/beatmapsets/2271658), wonderfully sung by [Natsume Itsuki](https://osu.ppy.sh/beatmaps/artists/189), combined two of our amazing Featured Artists' abilities into one truly epic song, mapped by [Garden](https://osu.ppy.sh/users/2849992) and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). It served as our tiebreaker for this week, being the deciding map in the Sweden vs. Indonesia match. If this doesn't make you want to check the map out, here is what [Ryuusei Aika](https://osu.ppy.sh/users/7777875) had to say about it:
 
 <div class="news-chat-quote__text-container">
 
@@ -89,7 +89,7 @@ Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/7777875">Ryuusei Aika</a></p>
 
-I am glad to participate in the making of RO32 TB as a mapper! This song has all the elements I love as a powerful Japanese rock work, just as any other Imy songs, so I had a lot of fun playing around. I also enjoyed the creative discussion with Garden, who've initiated the idea of switching styles (mainly flow aim <-> awkward aim) between different sections. Hope you like the song, the map and [LowGraphics](https://osu.ppy.sh/users/5383942)' impeccable storyboard! Huge shout out to everyone who've made that happen as well!
+I am glad to participate in the making of RO32 TB as a mapper! This song has all the elements I love as a powerful Japanese rock work, just as any other Imy songs, so I had a lot of fun playing around. I also enjoyed the creative discussion with Garden, who initiated the idea of switching styles (mainly flow aim <-> awkward aim) between different sections. Hope you like the song, the map and [LowGraphics](https://osu.ppy.sh/users/5383942)' impeccable storyboard! Huge shout out to everyone who made that happen as well!
 
 </div>
 
