@@ -40,8 +40,6 @@ The cursor will ripple outwards on clicking.
 
 Mouse drift describes the unwanted movement of the mouse cursor caused by the mouse using relative positioning. 
 
-![mouse drift](img/mouse_drift.png)
-
-![alt text](img/mouse_drift_animated.gif)
+![graphic](img/mouse_drift_animated.gif)
 
 This is why most players use a [tablet](/wiki/Gameplay/Input_device/Graphics_tablet) since tablets use absolute positioning which does not have any form of drift.
