@@ -61,9 +61,9 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beat
 
 # Beatmap [submission](/wiki/Beatmapping/Beatmap_submission) and [ranking](/wiki/Beatmap_ranking_procedure)
 
-Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, the procedures for quality control and the ranking process.
+Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover the ranking process, how to increase your chances to succeed through beatmap reviews and the procedures for quality control. Alternatively, you could try to get your map loved.
 
-[Modding](/wiki/Modding) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Ranking criteria](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
