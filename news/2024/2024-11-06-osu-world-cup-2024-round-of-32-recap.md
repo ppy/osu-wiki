@@ -164,7 +164,7 @@ The most difficult decision was our roster for [FM2](https://osu.ppy.sh/beatmaps
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-What were some of the more difficult decisions made by either yourself or the team combined during the match?
+With this victory under your belt, how do you feel about your team's chances in the rest of the tournament, and what would be your team's ideal placement?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
 
