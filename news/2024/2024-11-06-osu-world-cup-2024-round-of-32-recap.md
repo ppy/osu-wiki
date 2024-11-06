@@ -97,9 +97,9 @@ I am glad to participate in the making of RO32 TB as a mapper! This song has all
 
 While it would be completely unfair to say that the Round of 32 plays out the same every year, it remains very clear that the top 32 seeds have been shaken out into their respective brackets during this round, but of course not without some surprises along the way.
 
-The outcome of the France (#14) vs. Turkey (#19) was quite shocking! The majority of community's pick'em votes went to the French at 78.3%, but Turkey ended up on top with a decisive 5–2 result! There was also a fierce battle between neighbour seeds Brazil (#17) and Romania (#16), ending in Brazil winning with the final score of 5–3.
+The outcome of the France (#14) vs. Turkey (#19) match was quite shocking! The majority of the community's pick'em votes went to the France at 78.3%, but Turkey ended up on top with a decisive 5–2 result! There was also a fierce battle between neighbouring seeds Brazil (#17) and Romania (#16), ending in Brazil winning with a final score of 5–3.
 
-Taiwan (#25) also took two points from Hong Kong (#8) despite the huge gap in seeding, with the same scenario *and* score-line replicated on the same day by the Philippines (#9) and Malaysia (#24), showing that even when the underdog teams are faced with a looming threat, they won't go down without a fight.
+Taiwan (#25) also took two points from Hong Kong (#8) despite the huge gap in seeding, with the same scenario *and* scoreline replicated on the same day by the Philippines (#9) and Malaysia (#24), showing that even when the underdog teams are faced with a looming threat, they won't go down without a fight.
 
 ### ::{ flag=CN }:: China vs. ::{ flag=JP }:: Japan
 
