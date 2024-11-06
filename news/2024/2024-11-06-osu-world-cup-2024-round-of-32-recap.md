@@ -135,7 +135,7 @@ On Saturday, the community has been given a pleasure of watching a top tier matc
 
 ![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/banner-scylla.png)
 
-Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), team Sweden's captain, kindly agreed to share a small glimpse at how a world cup team prepared for their match versus Indonesia.
+Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), team Sweden's captain, kindly agreed to share a small glimpse at how the team prepared for their match versus Indonesia.
 
 ---
 
