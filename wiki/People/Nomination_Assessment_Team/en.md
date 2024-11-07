@@ -134,21 +134,21 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 #### osu!
 
-| Name                                                               | Additional languages |
-| :----------------------------------------------------------------- | :------------------- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish              |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)        | Dutch                |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)      |                      |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557)         | Chinese              |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547)        |                      |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)        | Korean               |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909)       | Chinese              |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)         | Russian              |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)        | French, Spanish      |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763)     |                      |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071)        | Romanian             |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)   | Russian              |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323)          |                      |
+| Name | Additional languages |
+| :-- | :-- |
+| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
+| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 
 #### osu!taiko
 
