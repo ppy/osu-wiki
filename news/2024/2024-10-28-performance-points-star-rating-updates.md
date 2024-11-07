@@ -56,7 +56,7 @@ A final run of this will be performed today. All user total PP values are final 
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 
-### ⏳ Re-enabling of global rank history updates (ETA 2024-11-07)
+### ✅ Re-enabling of global rank history updates (ETA 2024-11-07)
 
 Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
