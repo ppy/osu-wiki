@@ -133,7 +133,7 @@ An incredible matchup between two closely seeded teams. Look out for both of the
 
 On Saturday, the community has been given a pleasure of watching a top tier match between two very evenly matched teams, Sweden (#15) and Indonesia (#18). This was not just an even matchup on paper though, with the match itself becoming more intense by the minute, leading to the first tiebreaker being played in a match this year!
 
-![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/banner-scylla.png)
+![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/scylla.png)
 
 Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), team Sweden's captain, kindly agreed to share a small glimpse at how the team prepared for their match versus Indonesia.
 
