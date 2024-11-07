@@ -6,26 +6,6 @@
 
 It aims to shift the focus of skill progression from the amount of time played to an actual representation of the player's skill. This is attained by the calculation of a unique score known that is based on the difficulty of a beatmap and a player's performance on that [beatmap](/wiki/Beatmap).
 
-## History
-
-The first initial implementation of such a score was revealed to the public during April 2012 and was known only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
-
-Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Gameplay/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
-
-Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
-
-It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/osu!_team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
-
-On January 16, 2021, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part by the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in the [corresponding newspost](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Very briefly, the main points of interest in the update were as follows:
-
-- Introduce a scaling factor to the additional pp gain from approach rate 11 maps based on the length of a beatmap
-- Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod based on the number of misses in a play
-- Introduce a scaling factor to the pp loss affected by the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) mod based on the number of spinners in a beatmap
-- Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
-- Punish lower [accuracy](/wiki/Gameplay/Accuracy) plays with less pp gain
-
-ppv2 is currently in active service, with updates in the form of news posts published by the [Performance Points Committee](/wiki/People/Performance_Points_Committee) whenever new changes are deployed.
-
 ## Calculation
 
 Performance points are heavily based on calculated beatmap difficulty, which is determined by a unique algorithm constructed for each individual [game mode](/wiki/Game_mode).
@@ -95,7 +75,7 @@ Consider the following tips:
 - Play efficiently and figure out which play style works best for you.
 - Focus on getting a handful of exceptional scores instead of "farming" hundreds of just okay scores.<!-- "farming" will need to be linked once a stub or section is created -->
 - Aim to improve your accuracy. Even 1% makes a massive difference.
-- Aim for higher combos. Full combos (FC) or [SS](/wiki/Gameplay/Grade) scores give tremendous amounts of score.
+- Aim for higher combos. [Full combos](/wiki/Gameplay/Full_combo) or [SS](/wiki/Gameplay/Grade) scores give tremendous amounts of score.
 
 ### Why didn't I gain the full amount of pp from a map I played?
 
@@ -130,3 +110,39 @@ At that point however, you would've set some comparatively more impressive score
 No system is completely perfect, and performance point totals will certainly vary between mapsets and certain mod combinations, even when the subjective difficulty of those plays may be lower than a more difficult map.
 
 Overall, the current performance points system has been engineered to be as fair as possible under the constraints of its model.
+
+## History
+
+The first initial implementation of such a score was revealed to the public during April 2012 and was known only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
+
+Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Gameplay/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
+
+Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
+
+It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/osu!_team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
+
+On January 16, 2021, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part by the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in the [corresponding newspost](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Very briefly, the main points of interest in the update were as follows:
+
+- Introduce a scaling factor to the additional pp gain from approach rate 11 maps based on the length of a beatmap
+- Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod based on the number of misses in a play
+- Introduce a scaling factor to the pp loss affected by the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) mod based on the number of spinners in a beatmap
+- Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
+- Punish lower [accuracy](/wiki/Gameplay/Accuracy) plays with less pp gain
+
+On October 28, 2024, a newer changes were deployed. The specifics of the changes made are detailed in the [corresponding newspost](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates). the main points of interest in the update were as follows:
+
+- osu!
+    - Remove combo scaling
+    - Improvement rhythm complexity
+    - Adjust fast flow aim
+    - Sliders now contribute to accuracy pp
+- osu!taiko
+    - Consider TL-tapping in the stamina component of star rating
+    - Adjust [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) bonus in the accuracy component of pp calculation
+    - Adjust accuracy scaling
+- osu!catch
+    - Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod based on the number of misses in a play
+- osu!mania
+    - Adjust LN value scaling to address overweighted LN maps
+
+ppv2 is currently in active service, with updates in the form of news posts published by the [Performance Points Committee](/wiki/People/Performance_Points_Committee) whenever new changes are deployed.
