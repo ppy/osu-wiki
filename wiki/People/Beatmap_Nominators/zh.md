@@ -266,7 +266,7 @@ BN 可获得以下特权：
 | ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | 汉语 |
 | ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | 汉语 |
 | ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | 芬兰语，日语 |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |  |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | 匈牙利语 |
 
 #### osu!taiko
 

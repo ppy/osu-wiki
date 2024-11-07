@@ -266,7 +266,7 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Tiếng Trung |
 | ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | Tiếng Trung |
 | ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Tiếng Phần Lan, Tiếng Nhật |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |  |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Tiếng Hungary |
 
 #### osu!taiko
 

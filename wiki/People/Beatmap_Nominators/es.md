@@ -265,7 +265,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Chino |
 | ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | Chino |
 | ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finés, japonés |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |  |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Húngaro |
 
 #### osu!taiko
 

@@ -268,7 +268,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Chinois |
 | ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | Chinois |
 | ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finnois, japonais |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |  |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Hongrois |
 
 #### osu!taiko
 

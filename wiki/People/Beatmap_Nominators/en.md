@@ -265,7 +265,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Chinese |
 | ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | Chinese |
 | ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finnish, Japanese |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |  |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian |
 
 #### osu!taiko
 
