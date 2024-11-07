@@ -132,17 +132,17 @@ On January 16, 2021, changes were made to the ppv2 system that aimed to more acc
 On October 28, 2024, a newer changes were deployed. The specifics of the changes made are detailed in the [corresponding newspost](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates). the main points of interest in the update were as follows:
 
 - osu!
-    - Remove combo scaling
-    - Improvement rhythm complexity
-    - Adjust fast flow aim
-    - Sliders now contribute to accuracy pp
+  - Remove combo scaling
+  - Improvement rhythm complexity
+  - Adjust fast flow aim
+  - Sliders now contribute to accuracy pp
 - osu!taiko
-    - Consider TL-tapping in the stamina component of star rating
-    - Adjust [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) bonus in the accuracy component of pp calculation
-    - Adjust accuracy scaling
+  - Consider TL-tapping in the stamina component of star rating
+  - Adjust [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) bonus in the accuracy component of pp calculation
+  - Adjust accuracy scaling
 - osu!catch
-    - Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod based on the number of misses in a play
+  - Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod based on the number of misses in a play
 - osu!mania
-    - Adjust LN value scaling to address overweighted LN maps
+  - Adjust LN value scaling to address overweighted LN maps
 
 ppv2 is currently in active service, with updates in the form of news posts published by the [Performance Points Committee](/wiki/People/Performance_Points_Committee) whenever new changes are deployed.
