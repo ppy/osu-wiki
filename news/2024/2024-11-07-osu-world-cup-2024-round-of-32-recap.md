@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2024: Round of 32 Recap"
-date: 2024-11-06 12:00:00 +0000
+date: 2024-11-07 12:00:00 +0000
 ---
 
 Tune in and check out the Round of 32 results, recaps of the most exciting matches, player interviews, and much more!
@@ -30,7 +30,7 @@ If you are more of a visual learner, [Junihuhn](https://osu.ppy.sh/users/4182339
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=01h05m58s&video=2287184079" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/owc-2024-ro32-mappool.jpg)
+![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/owc-2024-ro32-mappool.jpg)
 
 For the first pool in the bracket stage, things started off with pretty approachable maps to most teams, while still offering a decent challenge.
 
@@ -42,7 +42,7 @@ The pool had its fair amount of modern maps — some made specifically for the t
 
 Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in the tournament — and what a project it is.
 
-![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)
+![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -85,7 +85,7 @@ Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in 
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7777875" style="background-image: url('/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/avatar-Ryuusei_Aika.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7777875" style="background-image: url('/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/avatar-Ryuusei_Aika.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/7777875">Ryuusei Aika</a></p>
 
@@ -133,7 +133,7 @@ An incredible matchup between two closely seeded teams. Look out for both of the
 
 On Saturday, the community has been given a pleasure of watching a top tier match between two very evenly matched teams, Sweden (#15) and Indonesia (#18). This was not just an even matchup on paper though, with the match itself becoming more intense by the minute, leading to the first tiebreaker being played in a match this year!
 
-![](/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/scylla.png)
+![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/scylla.png)
 
 Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), team Sweden's captain, kindly agreed to share a small glimpse at how the team prepared for their match versus Indonesia.
 
@@ -147,7 +147,7 @@ Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: [scy
 
 How did you and your team prepare for the match vs. Indonesia, were there any expectations the team had before the match started?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
@@ -159,7 +159,7 @@ For this week we didn't do anything special in terms of preparation. We were dis
 
 What were some of the more difficult decisions made by either yourself or the team combined during the match?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
@@ -171,7 +171,7 @@ The most difficult decision was our roster for [FM2](https://osu.ppy.sh/beatmaps
 
 With this victory under your belt, how do you feel about your team's chances in the rest of the tournament, and what would be your team's ideal placement?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-06-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
