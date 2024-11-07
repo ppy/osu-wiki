@@ -121,7 +121,7 @@ At that point however, you would've set some comparatively more impressive score
 
 ### Why did I lose pp for setting a new score?
 
-Even if it is no possible to lose pp while you setting a higher combo score with worse accuracy or playing with mods with worse accuracy overall, you might occasionally lose pp due to pp system updates.
+**Even if it is no possible to lose pp while you setting a higher combo score with worse accuracy or playing with mods with worse accuracy overall, you might occasionally lose pp due to pp system updates.**
 
 ### Some mods feel very overweighted/underweighted. Why is this?
 
