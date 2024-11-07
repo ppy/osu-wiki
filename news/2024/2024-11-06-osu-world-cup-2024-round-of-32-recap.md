@@ -183,9 +183,11 @@ Worst case I believe we place top16, which isn't that bad considering we seeded 
 
 ## More player interviews
 
-[Willy](https://osu.ppy.sh/users/3521482) seized the opportunity to get lots of players' opinions before this year's Round of 32. After having these interviews streamed live on the [osulive Twitch channel](https://www.twitch.tv/osulive), they're now available on his channel to watch:
+[Willy](https://osu.ppy.sh/users/3521482) seized the opportunity to get lots of players' opinions and predictions before this year's Round of 32, including ::{ flag=SK }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683) and ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296) (a.k.a. hydrogen bomb). After having these interviews streamed live during breaks between matches, they're now compiled into a convenient playlist:
 
-<!-- willy's playlist -->
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLIYfYZCsR-6EnQMR4JOjMOJGqMlAU10CQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
