@@ -87,7 +87,7 @@
 
 `416.6667 * (1 - 0.9994 ^ min(N, 1000))`
 
-要获得一半奖励表现分，需要大约 137 个成绩。显然，奖励表现分。
+要获得一半奖励表现分，需要大约 137 个成绩。显然，奖励表现分在前期快速上升，在获得 1000 个成绩后达到最高。
 
 ### 我玩简单的谱面无法增长表现分，都是因为权重系统吗？
 
@@ -135,7 +135,7 @@
 - osu!taiko
   - 在耐力计算中考虑 TL-tapping（削弱高速同色）
   - 在精确计算中调整 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 和 [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) 的奖励分
-  - 调整精确缩放因子
+  - 调整精度缩放因子
 - osu!catch
   - 减少开启 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 模组时损失的表现分，并根据失误数量，引入比例因数来量化这一损失的表现分。
 - osu!mania
