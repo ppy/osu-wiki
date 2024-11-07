@@ -52,7 +52,7 @@ There were some issues picked up on by the community which have since been fixed
 
 A final run of this will be performed today. All user total PP values are final now.
 
-### 🏃 Reindexing (2 - 3 days)
+### 🏃 Reindexing (2 - 3 days, ETA 2024-11-10)
 
 This will fix scores being out of order on profiles under "best performance", and in some rare cases not being displayed at all.
 
