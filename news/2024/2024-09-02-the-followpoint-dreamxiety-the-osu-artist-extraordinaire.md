@@ -44,7 +44,7 @@ Anyway, let's get right into it!
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -58,7 +58,7 @@ Hello, I'm Dreamxiety and I like drawing stuff for osu seasonal backgrounds! I'v
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/banner-video.gif)
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -72,7 +72,7 @@ Maybe tmi but completely honest answer; my crush on 9th grade played it so I dow
 
 I also thought it was really weird that even English songs have completely unrelated anime girl backgrounds. Obviously I'm now used to it and osu! was actually the main thing that exposed me to more anime and overall Japanese related things, although I'm still not an anime watcher type of person to this day.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -84,7 +84,7 @@ What made you want to do art in the first place?
 
 I don't know, it's just something I did when I was a child and I never stopped since then. Many children like drawing but drop it as they grow up, but I didn't. I was maybe like 3 or 4 when I started and I just kept going.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -98,7 +98,7 @@ If I'm looking for ideas, I'll browse through the internet to find inspirations.
 
 Then I'll look for references, mainly for the things I'm not sure how to draw. Sometimes I also would use other images as placeholders for the background, like the sky for example. I'll adjust the colors and position, it helps me find what I'm trying to go for.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -112,7 +112,7 @@ I remember that I was opening the osu! homepage and I saw the announcement for [
 
 That was also the first time I got my osu!supporter tag, which I thought was cool. Back then I've never got to enjoy any sort of paid perks in a game because I was just a broke student and my parents aren't a fan of that kinda stuff lol.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -126,7 +126,7 @@ I guess anything is possible, although I wouldn't recommend trying to stay at th
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/dreamxiety-contest-votes.jpg)
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -140,7 +140,7 @@ Possibly the New Beginnings entry. Many people liked it and I like it too.
 
 [![](https://assets.ppy.sh/contests/160/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/160/winners/Dreamxiety.png)
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -156,7 +156,7 @@ I think the overall vibe it has just looks the best, it's might be the prettiest
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8EXTtdVNRT4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -168,7 +168,7 @@ Have you ever had a project that made you burnt out during or after the project,
 
 I haven't had any artblocks in quite a long time... Probably because I've also been drawing less than I used to. I do remember experiencing it a long time ago and I don't remember how exactly it went away, it just did with time.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -180,7 +180,7 @@ Who is your favorite osu! mascot to draw?
 
 Pippi, no question.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -194,7 +194,7 @@ I was approached by [mangomizer](https://osu.ppy.sh/users/1893718), asking me if
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/dreamxiety-world-cup.jpg)
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -212,7 +212,7 @@ That was my first time doing a collab project with other artists and designers. 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2iYtNVtL9ds" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -224,7 +224,7 @@ Many spheres of the community have people making illustrated art, such as for to
 
 Probably anything but manga since I have a dislike towards having to draw many panels, but anything other than that is cool especially if it's an official project.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
@@ -238,7 +238,7 @@ I don't know, I think everyone else does and I don't really wanna single out any
 
 It's a valid way to enjoy art either way, but I often see art that required such a crazy amount of skills place so low in the contest and I kinda wish people could appreciate them more.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpeg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
