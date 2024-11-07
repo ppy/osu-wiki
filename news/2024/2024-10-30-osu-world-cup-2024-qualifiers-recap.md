@@ -95,7 +95,7 @@ Several teams made history by participating in the osu! World Cup Qualifiers for
 
 ::{#dada-and-chiv}::
 
-![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/chiv-and-dada-banner.png)
+![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/chiv-and-dada.png)
 
 Mappooling for the biggest tournament of the year is not an easy feat, especially for a stage as crucial as the Qualifiers. Below you will find an interview with [chiv](https://osu.ppy.sh/users/6701656) and [Dada](https://osu.ppy.sh/users/9119507), members of the osu! World Cup mappooling selector team. They are in charge of mappooling the entire tournament, but we will delve into the specifics of pooling for the Qualifiers.
 
