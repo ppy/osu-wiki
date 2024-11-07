@@ -4,7 +4,7 @@ title: "osu! World Cup 2024: Round of 32 Recap"
 date: 2024-11-06 12:00:00 +0000
 ---
 
-Tune in and check out the Round of 32 results, a recap of the first tiebreaker match, a player interview, and much more!
+Tune in and check out the Round of 32 results, recaps of the most exciting matches, player interviews, and much more!
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
@@ -183,7 +183,7 @@ Worst case I believe we place top16, which isn't that bad considering we seeded 
 
 ## More player interviews
 
-[Willy](https://osu.ppy.sh/users/3521482) seized the opportunity to get lots of players' opinions and predictions before this year's Round of 32, including ::{ flag=SK }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683) and ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296) (a.k.a. hydrogen bomb). After having these interviews streamed live during breaks between matches, they're now compiled into a convenient playlist:
+[Willy](https://osu.ppy.sh/users/3521482) seized the opportunity to get lots of players' opinions and predictions before this year's Round of 32, including ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683) and ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296) (a.k.a. hydrogen bomb). After having these interviews streamed live during breaks between matches, they're now compiled into a convenient playlist:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLIYfYZCsR-6EnQMR4JOjMOJGqMlAU10CQ" frameborder="0" allowfullscreen></iframe>
