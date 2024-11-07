@@ -5,7 +5,7 @@
 
 ## 七月
 
-osu! 在最开始其实是一个叫做 "ouentest"[^ouentest] 的概念验证产品。它的第一个版本面向 [peppy](https://osu.ppy.sh/users/2) 的很小一部分挚友于2007年7月1日发布，并且包含一个简易的[谱面编辑器](/wiki/Client/Beatmap_editor)以及游玩谱面的功能。这个制谱器也只能创建*非常基本的*不包含预览或者[节拍对齐](/wiki/Disambiguation/Snapping)等诸如此类的功能，而游玩模式中的[谱面](/wiki/Beatmap)也没有滑条或者转盘，而只有最基本的普通音符以及分数和连击的计数器。第一个发布版只用了大概16个小时用于编码，并且它在*一个通宵*之内就完成了。`pUpdater`（也就是之后为人所知的`osume`）[^osume]也跟着发布，用于负责自动更新至最新版本。
+osu! 在最开始其实是一个叫做 “应援测试（ouentest）”[^ouentest] 的概念验证产品。它的第一个版本面向 [peppy](https://osu.ppy.sh/users/2) 的很小一部分挚友于 2007 年 7 月 1 日发布，并且包含一个简易的[谱面编辑器](/wiki/Client/Beatmap_editor)以及游玩谱面的功能。这个制谱器也只能创建*非常基本的*不包含预览或者[节拍对齐](/wiki/Disambiguation/Snapping)等诸如此类的功能，而游玩模式中的[谱面](/wiki/Beatmap)也没有滑条或者转盘，而只有最基本的普通音符以及分数和连击的计数器。第一个发布版只用了大概 16 个小时用于编码，并且它在*一个通宵*之内就完成了。`pUpdater`（也就是之后为人所知的`osume`）[^osume]也跟着发布，用于负责自动更新至最新版本。
 
 ![](img\2007-07_01.jpg "选曲界面")
 
@@ -73,7 +73,7 @@ osu! 在最开始其实是一个叫做 "ouentest"[^ouentest] 的概念验证产�
 
 ![](img/2007-10_03.jpg "报错信息")
 
-`pUpdater`（ `osume` ）的第二个版本发布，并且支持下载可选包。这也代表着第一个用户制作的皮肤可以通过更新程序向全体玩家公布。而作图器中则加入了[基于距离的音符拆分](/wiki/Client/Beatmap_editor/Distance_snap)、标记点、更多种类的滑条曲线、自定义颜色、试玩、进入缓冲，等等。
+`pUpdater`( `osume`) 的第二个版本发布，并且支持下载可选包。这也代表着第一个用户制作的皮肤可以通过更新程序向全体玩家公布。而作图器中则加入了[基于距离的音符拆分](/wiki/Client/Beatmap_editor/Distance_snap)、标记点、更多种类的滑条曲线、自定义颜色、试玩、进入缓冲，等等。
 
 ## 十一月
 
@@ -87,7 +87,7 @@ osu! 在最开始其实是一个叫做 "ouentest"[^ouentest] 的概念验证产�
 
 ![](img\2007-11_03.jpg "测试 IRC 功能")
 
-[提交谱面](/wiki/Beatmapping/Beatmap_submission)功能（BSS）对公众开放，使得用户可以轻松的上传、分享他们的劳动成果。而这也带来了[待定](/wiki/Beatmap/Category#wip-and-pending)和[已进榜](/wiki/Beatmap/Category#ranked)两个分类。它们有助于分类曲库中疯狂增长的用户上传的谱面。而游戏内的聊天室则是一个从零搭起的 [IRC](/wiki/Community/Internet_Relay_Chat) (互联网中继聊天)客户端，并且连接到一个标准的不包含 [Bancho](/wiki/Bancho_(server)) 的 IRC 服务器；全局聊天是可见的；头像和用户的基本信息也在游戏中使用一种基于 http 的通讯方式显示出来；一个会在启动时自动随机播放一首歌的播放器也被加入主菜单；无论是本地的还是在线的[回放](/wiki/Gameplay/Replay)都可以被观看。同时，玩家们也可以旁观别的玩家（旁观者的数据会以未加密的形式通过 IRC 来发送）。
+[提交谱面](/wiki/Beatmapping/Beatmap_submission)功能（BSS）对公众开放，使得用户可以轻松的上传、分享他们的劳动成果。而这也带来了[待定](/wiki/Beatmap/Category#wip-and-pending)和[上架](/wiki/Beatmap/Category#ranked)两个分类。它们有助于分类曲库中疯狂增长的用户上传的谱面。而游戏内的聊天室则是一个从零搭起的 [IRC](/wiki/Community/Internet_Relay_Chat) (互联网中继聊天)客户端，并且连接到一个标准的不包含 [Bancho](/wiki/Bancho_(server)) 的 IRC 服务器；全局聊天是可见的；头像和用户的基本信息也在游戏中使用一种基于 http 的通讯方式显示出来；一个会在启动时自动随机播放一首歌的播放器也被加入主菜单；无论是本地的还是在线的[回放](/wiki/Gameplay/Replay)都可以被观看。同时，玩家们也可以旁观别的玩家（旁观者的数据会以未加密的形式通过 IRC 来发送）。
 
 ## 十二月
 
