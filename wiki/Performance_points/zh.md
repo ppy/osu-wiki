@@ -134,7 +134,7 @@
   - 滑条与精准度 pp 相关
 - osu!taiko
   - 在耐力计算中考虑 TL-tapping（削弱高速同色）
-  - 在精确计算中调整 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 和 [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) 的奖励分
+  - 在精度计算中调整 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 和 [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) 的奖励分
   - 调整精度缩放因子
 - osu!catch
   - 减少开启 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 模组时损失的表现分，并根据失误数量，引入比例因数来量化这一损失的表现分。
