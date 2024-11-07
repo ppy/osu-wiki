@@ -121,9 +121,7 @@ At that point however, you would've set some comparatively more impressive score
 
 ### Why did I lose pp for setting a new score?
 
-**You might occasionally lose pp for setting a higher combo score with worse accuracy, or playing with mods with worse accuracy overall.**
-
-Total score is still important to individual map rankings, and this may produce unusual circumstances where a higher overall score with lower accuracy or mod use factored in will produce a "better" result that still ultimately loses you pp.
+Even if it is no possible to lose pp while you setting a higher combo score with worse accuracy or playing with mods with worse accuracy overall, you might occasionally lose pp due to pp system updates.
 
 ### Some mods feel very overweighted/underweighted. Why is this?
 
