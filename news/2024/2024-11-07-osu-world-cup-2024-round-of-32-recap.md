@@ -85,7 +85,7 @@ Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in 
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7777875" style="background-image: url('/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/avatar-Ryuusei_Aika.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7777875" style="background-image: url('/wiki/shared/avatars/Ryuusei_Aika.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/7777875">Ryuusei Aika</a></p>
 
@@ -141,37 +141,37 @@ Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: [scy
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 How did you and your team prepare for the match vs. Indonesia, were there any expectations the team had before the match started?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/avatars/scylla.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
 For this week we didn't do anything special in terms of preparation. We were discussing having a scrim against another country but real life plans got in the way. One hour before the match I went through our scores on our team sheet and made lineups and planned picks and bans based on their scores as well as their mental and current playing ability. With how even our opponents are to us skill wise we went into the match with very little expectations, in our eyes the win could've gone either way. Despite not having ::{ flag=SE }:: [Zpinxx](https://osu.ppy.sh/users/9818947) for the match, our team mental was great, we played really well, and most of our picks went the way we wanted.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 What were some of the more difficult decisions made by either yourself or the team combined during the match?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/avatars/scylla.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
 The most difficult decision was our roster for [FM2](https://osu.ppy.sh/beatmapsets/643391#osu/1389956). The initial lineup we planned for was changed last minute with me going HR and ::{ flag=SE }:: [Andros](https://osu.ppy.sh/users/9072586) going NM, which was dangerous but worked very much in our favour. We had many plausible mod and player combinations that sounded really good on paper but the one we went with was not planned beforehand at all.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 With this victory under your belt, how do you feel about your team's chances in the rest of the tournament, and what would be your team's ideal placement?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/avatar-scylla.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9405745" style="background-image: url('/wiki/shared/avatars/scylla.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
