@@ -149,17 +149,17 @@ The previous system made to assess the stamina requirement for maps assumed two 
 
 The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) introduces variable finger counts for stamina assessment. Patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts.
 
-To further combat maps where TL-tapping is most effective, a change by [Natelytle](https://osu.ppy.sh/users/17607667) introduces a new penalty factor that shows how much of a map's difficulty comes purely from mono-colour patterns. For example, StrangeProgram has a factor of 99%, meaning 99% of its challenge is due to high-BPM mono patterns.
+To further combat maps where TL-tapping is most effective, a change by [Natelytle](https://osu.ppy.sh/users/17607667) introduces a new penalty factor that shows how much of a map's difficulty comes purely from mono-colour patterns. For example, *StrangeProgram* has a factor of 99%, meaning 99% of its challenge is due to high-BPM mono patterns.
 
 **In response to negative feedback regarding the removal of convert-specific nerfs, they have been reinstated.**
 
-### Balancing Changes to performance calculation
+### Balancing changes to performance calculation
 
 On the performance points side, a change by [-Lawtron-](https://osu.ppy.sh/users/11475208) addresses the bonus applied to memorisation mods on shorter maps. The length of the map will no longer affect the base multiplier in the accuracy component of the performance points system. However, the cap for HDFL (Hidden + Flashlight) bonuses has been increased to 1.1x for qualifying plays. 
 
 Previously, a map with just one object could receive the same bonus as a map with 1,000 objects when using HDFL, which led to disproportionate rewards for shorter, simpler maps.
 
-In addition to these changes, a harsher penalty has been applied to the Easy mod in order to further its impact on difficulty pp. Alongside statistical accuracy (explained below) maps played with Easy will reflect their difficulty reduction more significantly.
+In addition to these changes, a harsher penalty has been applied to the Easy mod in order to further its impact on difficulty pp. Alongside statistical accuracy (explained below), maps played with Easy will reflect their difficulty reduction more significantly.
 
 ### Adjusted accuracy scaling
 
