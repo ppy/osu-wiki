@@ -142,11 +142,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 | Australia ::{ flag=AU }:: | ::{ flag=SE }:: Sweden | [Nov 09 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T030000&p1=1440&p2=57&p3=239) | [osulive](https://twitch.tv/osulive) |
 | Germany ::{ flag=DE }:: | ::{ flag=NO }:: Norway | [Nov 09 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T130000&p1=1440&p2=37&p3=187) | [osulive](https://twitch.tv/osulive) |
 | Austria ::{ flag=AT }:: | ::{ flag=ID }:: Indonesia | [Nov 09 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T140000&p1=1440&p3=108) |  |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=PH }:: Philippines | [Nov 09 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T140000&p1=1440&p2=102&p3=145) | [osulive](https://twitch.tv/osulive) |
 | South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Nov 09 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T140000&p1=1440&p2=235&p3=45) | [osulive_2](https://twitch.tv/osulive_2) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=PH }:: Philippines | [Nov 09 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T140000&p1=1440&p2=102&p3=145) | [osulive](https://twitch.tv/osulive) |
 | Belarus ::{ flag=BY }:: | ::{ flag=RO }:: Romania | [Nov 09 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T150000&p1=1440&p3=49) | [osulive](https://twitch.tv/osulive) |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=CN }:: China | [Nov 09 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T150000&p1=1440&p2=166&p3=33) | [osulive_2](https://twitch.tv/osulive_2) |
-| Kazakhstan ::{ flag=KZ }:: | ::{ flag=UA }:: Ukraine | [Nov 09 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T160000&p1=1440&p3=367) | [osulive_2](https://twitch.tv/osulive_2) |
+| Kazakhstan ::{ flag=KZ }:: | ::{ flag=UA }:: Ukraine | [Nov 09 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241109T160000&p1=1440&p3=367) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 10 November 2024
 
@@ -159,7 +159,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 | Spain ::{ flag=ES }:: | ::{ flag=FI }:: Finland | [Nov 10 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241110T160000&p1=1440&p2=141&p3=101) | [osulive](https://twitch.tv/osulive) |
 | Peru ::{ flag=PE }:: | ::{ flag=FR }:: France | [Nov 10 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241110T180000&p1=1440&p2=131&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
 | Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Nov 10 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241110T180000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=TR }:: Turkey | [Nov 10 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241110T180000&p1=1440&p2=263) |  |
+| United States ::{ flag=US }:: | ::{ flag=TR }:: Türkiye | [Nov 10 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241110T180000&p1=1440&p2=263) |  |
 | Quarterfinals | mappool showcase | [Nov 10 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241110T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
