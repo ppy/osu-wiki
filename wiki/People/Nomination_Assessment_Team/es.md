@@ -1,4 +1,6 @@
 ---
+outdated_since: f6cd7c61912dd69887975a1e9fb551d01c09f3df
+outdated_translation: true
 tags:
   - NAT
   - equipo de evaluación de nominaciones
