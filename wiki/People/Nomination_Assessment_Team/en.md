@@ -100,7 +100,7 @@ Former NAT members who currently have internal access are:
 - ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) 
+- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
@@ -207,5 +207,5 @@ In addition, the [Nomination Assessment Team bot](https://osu.ppy.sh/users/66165
 
 ## Notes
 
-[^internal-representatives]: Internal Representatives assist the NAT leader in supervising their respective game move via activity checks and getting things moving within the team.
+[^internal-representatives]: Internal Representatives assist the NAT leader in supervising their respective game mode via activity checks and getting things moving within the team.
 [^impact-rating]: This process involves checking each nomination reset and assigning it a "minor", "notable" or "severe" label for future reference in evaluations.
