@@ -20,7 +20,7 @@ Actualmente, osu! puede convertir los beatmaps del modo de juego [osu!](/wiki/Ga
 
 *Véase también: [Mapping en osu!taiko/notas de conversión de osu!](/wiki/Game_mode/osu!taiko#notas-de-conversión-de-osu!)*
 
-Las conversiones de osu!taiko se generan según la colocación de los [hitsounds](/wiki/Beatmapping/Hitsound), el ritmo, y los cambios de velocidad de los sliders en un beatmap. Dependiendo de los tipos de [objetos](/wiki/Gameplay/Hit_object) y sus hitsounds correspondientes, la conversión generalmente ocurre de la siguiente manera:
+Las conversiones de osu!taiko se generan según la posición de los [hitsounds](/wiki/Beatmapping/Hitsound), el ritmo, y los cambios de velocidad de los sliders en un beatmap. Dependiendo de los tipos de [objetos](/wiki/Gameplay/Hit_object) y sus hitsounds correspondientes, la conversión generalmente ocurre de la siguiente manera:
 
 - Los círculos, slider heads, slider tails, y los repetidores de los sliders que no tengan un hitsound (por ejemplo, un whistle, clap, o finish) se convertirán en notas rojas (Don).
 - Los círculos, slider heads, slider tails, y los repetidores de los sliders que tengan un hitsound de un whistle, un clap, o ambos, se convertirán en notas azules (Katu).
