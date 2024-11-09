@@ -24,7 +24,7 @@ Important articles and guides to help you get into osu!. In case anything goes w
 
 # [Game client](/wiki/Client)
 
-Get to know the game better, from it's various settings and customisation capabilities, to the technical details and file formats.
+Customisation capabilities, settings,  technical details and file formats.
 
 [Interface](/wiki/Client/Interface) • [BanchoBot](/wiki/BanchoBot) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Multiplayer](/wiki/Client/Interface/Multiplayer) • [Chat console](/wiki/Client/Interface/Chat_console) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) 
 
@@ -48,7 +48,7 @@ Everything about the game modes.
 
 # [Beatmap editor](/wiki/Client/Beatmap_editor)
 
-All osu! beatmaps are created by our community. Want to share your favorite songs as well? You can do so with the built-in editor.
+All osu! beatmaps are created by our community. You can make your own with the built-in editor.
 
 Sections: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
@@ -61,7 +61,7 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beat
 
 # Beatmap [submission](/wiki/Beatmapping/Beatmap_submission) and [ranking](/wiki/Beatmap_ranking_procedure)
 
-Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover the ranking process, how to increase your chances to succeed through beatmap reviews and the procedures for quality control. Alternatively, you could try to get your map loved.
+Ranking is the process of obtaining a leaderboard for a beatmap. Discover the ranking process, how to increase your chances to succeed through beatmap reviews and the procedures for quality control. Alternatively, you could try to get your map loved.
 
 [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
@@ -85,7 +85,7 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_usage_guidelin
 
 # Help
 
-Answers to frequent questions and solutions to common issues can be found here.
+Answers to frequent questions and solutions to common issues.
 
 [Help centre](/wiki/Help_centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
@@ -133,7 +133,7 @@ Interact with osu! via other applications and media, or help it grow further.
 
 # Wiki and meta pages
 
-Just as almost everything out here, the osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki).
+The osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki).
 
 [History of osu!](/wiki/History_of_osu!): [Online rankings history](/wiki/History_of_osu!/Online_rankings) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
