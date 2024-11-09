@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "New Featured Artist: WyvernP"
-date: 2024-11-09 20:30:00 +0000
+date: 2024-11-09 21:00:00 +0000
 ---
 
 **WyvernP** settles into our Featured Artist library.
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/445/header.jpg)
 
 While Korean producer **WyvernP** is best known for creating VOCALOID tracks, their talent reaches into multi-genre instrumentals too. Seasoned in practically every genre, **WyvernP** produces tunes that range from rock to pop to speedcore to artcore — and that's only considering the tracks that are officially part of osu! as of today.
 
