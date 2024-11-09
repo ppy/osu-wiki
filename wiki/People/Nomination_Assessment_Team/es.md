@@ -1,6 +1,4 @@
 ---
-outdated_since: f6cd7c61912dd69887975a1e9fb551d01c09f3df
-outdated_translation: true
 tags:
   - NAT
   - equipo de evaluación de nominaciones
@@ -103,6 +101,7 @@ Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 - ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
+- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
@@ -139,7 +138,9 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Sueco |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |
@@ -184,7 +185,6 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | Usuario | Tarea |
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | Desarrollo de herramientas internas |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
@@ -193,9 +193,10 @@ Los siguientes miembros del NAT son principalmente evaluadores, pero también co
 
 | Usuario | Tarea |
 | :-- | :-- |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Representante interno del NAT en el modo de juego osu![^internal-representatives] |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Procesamiento del impacto[^impact-rating] de los restablecimientos de las nominaciones en el modo de juego osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Representante interno del NAT en el modo de juego osu![^internal-representatives], procesamiento del impacto[^impact-rating] de los restablecimientos de las nominaciones en el modo de juego osu! |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Procesamiento del impacto[^impact-rating] de los restablecimientos de las nominaciones en el modo de juego osu! |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Manejo de los reportes de contenido, desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 
@@ -205,4 +206,5 @@ Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/661658
 
 ## Notas
 
+[^internal-representatives]: Los representantes internos ayudan al líder del NAT a supervisar su respectivo modo de juego mediante controles de actividad y haciendo que las cosas funcionen dentro del equipo.
 [^impact-rating]: Este proceso implica verificar cada restablecimiento de nominaciones y asignarle una etiqueta de «menor», «notable» o «severo» para referencia futura en las evaluaciones.
