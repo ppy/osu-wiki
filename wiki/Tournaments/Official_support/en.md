@@ -297,4 +297,4 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 ## Notes
 
 [^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
-: Personal information is defined as any information can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
+[^personal-information]: Personal information is defined as any information can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
