@@ -1,10 +1,8 @@
 # Daily Challenge
 
-The **daily challenge** is a multiplayer mode in osu!(lazer) where players are able to build up a *daily* streak by passing beatmaps consecutively with increasing difficulty.
+The **daily challenge** is a multiplayer mode in osu!(lazer) where players are able to build up a daily streak by passing beatmaps consecutively with increasing difficulty with the difficulty being reset every 7 days.
 
-Each day introduces one new map from the [Featured Artist](/wiki/People/Featured_Artists) listing with increased difficulty. Once every 7 days however, the difficulty resets again.
-
-Sometimes, the maps come with a mod forced onto users, which requires them to pass the map with the selected mod.
+Every beatmap comes from the [Featured Artist](/wiki/People/Featured_Artists) listing, and sometimes the maps come with a mod forced onto users, which requires them to pass the map with the selected mod.
 
 ## Game menu
 
@@ -13,7 +11,7 @@ From the main menu, the daily challenge menu can be accessed with the following 
 1. Click the `Play` button or press `P`.
 2. Click the `Daily challenge` button or press `D`.
 
-![](img/Daily-challenge-menu.png "Screenshot of the daily challenge menu during November 7, 2024.") 
+![](img/daily-challenge-menu.png "Screenshot of the daily challenge menu during November 7, 2024.") 
 
 On entering, the user is presented with an intro showing the beatmap the user has to pass, and the mods they have to pass it with.
 
@@ -27,25 +25,25 @@ After the intro ends, the user can view the data for today's challenge. The left
 
 Play streaks are displayed on the user profile with different colours depending on certain streak milestones.
 
-#### Rank breakdown 
+### Rank breakdown 
 
-| Rank  | Total streak | Daily streak | Weekly streak |
+| Rank | Total streak | Daily streak | Weekly streak |
 | :-: | :-: | :-: | :-: |
-| Lustrous  | 1081 days | 360 days | 53 weeks |
+| Lustrous | 1081 days | 360 days | 53 weeks |
 | Radiant | 721 days | 240 days | 36 weeks |
-| Rhodium | 361 days| 120 days | 19 weeks |
+| Rhodium | 361 days | 120 days | 19 weeks |
 | Platinum | 181 days | 60 days | 10 weeks |
 | Gold | 91 days | 30 days | 6 weeks |
-| Silver | 31 days | 10 days | 3 weeks  |
+| Silver | 31 days | 10 days | 3 weeks |
 | Bronze | 16 days | 5 days | 2 weeks |
-| Iron | less than 16 days | less than 5 days | less than 2 weeks |--->
+| Iron | less than 16 days | less than 5 days | less than 2 weeks |
 
 ## Contributors
 
 | Name | Role |
 | :-- | :-- |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Organisation effort lead |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Beatmap picking
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Beatmap picking |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9501251) | Beatmap picking |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Beatmap picking |
 | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | Beatmap picking |
