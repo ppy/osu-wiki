@@ -14,7 +14,7 @@ Auf dieser Seite werden verschiedene Produkte gezeigt, die mal im [osu!store](ht
 
 ![Storeseite von osu! goods CafePress](img/osu-goods.png)
 
-**osu! goods** war eine Kollektion von offiziellen osu!-Markenartikeln, die über den Onlinehändler [CafePress](https://en.wikipedia.org/wiki/CafePress) zwischen 2009 und 2012 verkauft wurden. Alle Artikel wurden von CafePress gedruckt und produziert, wobei ein Teil der Einnahmen [in die Spielentwicklung flossen](https://osu.ppy.sh/store/listing).
+**osu! goods** war eine Kollektion von offiziellen osu!-Markenartikeln, die über den Onlinehändler [CafePress](https://en.wikipedia.org/wiki/CafePress) zwischen 2009 und 2012 verkauft wurden. Alle auf Bestellung erhältlichen Artikel wurden von CafePress gedruckt und produziert, wobei ein Teil der Einnahmen [in die Spielentwicklung flossen](https://osu.ppy.sh/store/listing).
 
 Die Kollektion bestand aus einer Breite an Produkten wie zum Beispiel:
 
