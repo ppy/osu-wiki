@@ -287,6 +287,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 ### Round of 16
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1j2A1aLB9TpaJgJF4ZL0P2R5XfcRPztx68-bikXrhQV4).
+
 Saturday, 9 November 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
