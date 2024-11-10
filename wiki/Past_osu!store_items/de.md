@@ -82,7 +82,7 @@ Das Produkt wurde in zwei Ausführungen angeboten: Das originale "[osu!tablet v1
 
 *Für den Newsbeitrag, siehe: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
-Die **osu! beatmap blueprints** (zu Deutsch Beatmap-Vorlagen) waren wiederverwendbare Aufkleber mit verschiedenen Spielelementen wie Hit-Circles, Slider, Approach-Circles, [hit judgements](/wiki/Gameplay/Judgement/osu!)<!--TODO: translate--> und dem osu!-Logo selbst. Das Produkt wurde 2015 verkauft, damit Spieler "lebensgroße Beatmaps im echten Leben" kreieren können.
+Die **osu! beatmap blueprints** (zu Deutsch Beatmap-Vorlagen) waren wiederverwendbare Aufkleber mit verschiedenen Spielelementen wie Hit-Circles, Slider, Approach-Circles, [Trefferbeurteilungen](/wiki/Gameplay/Judgement/osu!) und dem osu!-Logo selbst. Das Produkt wurde 2015 verkauft, damit Spieler "lebensgroße Beatmaps im echten Leben" kreieren können.
 
 Nebenbei wurde ein spezieller [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) veranstaltet, der kurze Zeit später aufgrund zu weniger Einsendungen abgebrochen wurde.
 
