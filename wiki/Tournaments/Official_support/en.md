@@ -146,7 +146,7 @@ Users under an active tournament ban are expected to disclose their tournament b
 
 At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another badged tournament for at least 4 months. In the event where a staffing ban is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
-A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet.
+A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet. If there are multiple lists of staff, they must all be up to date and in sync with one another.
 
 ### Players
 
