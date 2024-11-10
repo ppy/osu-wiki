@@ -34,19 +34,19 @@ Wenn deine Bestellung in deinem Land ankam, aber noch nicht geliefert wurde, wir
 
 Gelegentlich bleiben Pakete im Versandsystem stecken. Wenn deine Bestellung irgendwo in den Vereinigten Staaten festsitzt, kann sie möglicherweise mit [USPS](https://faq.usps.com/s/article/USPS-Tracking-The-Basics) nachverfolgt werden. Dazu kann normalerweise die zuständige Poststelle kontaktiert werden. Wenn die Bestellung außerhalb der Vereinigten Staaten festsitzt, kontaktiere den Postdienst deines Landes für weitere Hilfe.
 
-Kontaktiere gerne [merch@ppy.sh](mailto:merch@ppy.sh), wenn du noch weitere Fragen hast. Beachte jedoch, dass nachdem wir ein Produkt versandt haben, wir genau so viel über den Lieferstatus wissen wie du.
+Kontaktiere gerne [merch@ppy.sh](mailto:merch@ppy.sh), wenn du noch weitere Fragen hast. Beachte jedoch, dass wir genau so viel über den Lieferstatus wissen wie du, nachdem wir ein Produkt versandt haben.
 
 ## Ich benötige Hilfe mit einem bestimmten Produkt!
 
 ### osu! keycaps {id=osu!-keycaps}
 
-[osu! keycaps](https://www.thekapco.com/products/osu-pippi-keycap-set) (Tastenkappen) werden von The KapCo hergestellt und vertrieben, wir empfehlen bei Problemen mit Keycaps also [mit deren Kundensupport](https://www.thekapco.com/pages/faqs) zu reden.
+[osu! keycaps](https://www.thekapco.com/products/osu-pippi-keycap-set) (Tastenkappen) werden von The KapCo hergestellt und vertrieben. Deshalb empfehlen wir bei Problemen mit Keycaps, sich an [ihren Kundensupport](https://www.thekapco.com/pages/faqs) zu wenden.
 
 Sollte der Kundensupport keine zufriedenstellende Antwort liefern, kontaktiere [merch@ppy.sh](mailto:merch@ppy.sh) und wir werden sehen, was wir tun können.
 
 ### osu! deskmat {id=osu!-deskmat}
 
-Während viele osu!-Produkte von unserem Warenlager in den Vereinigten Staaten versandt werden, werden [osu! deskmats](https://osu.ppy.sh/store/products/1347) (Tischunterlagen) von verschiedenen Verteilerzentren im Vereinigten Königreich, in den Vereinigten Staaten und in Australien vertrieben. Das heißt, wir haben nicht über jeden Artikel, der geliefert wird, einen genauen Überblick.
+Während viele osu!-Produkte von unserem Warenlager in den Vereinigten Staaten versandt werden, werden [osu! deskmats](https://osu.ppy.sh/store/products/1347) (Tischunterlagen) von verschiedenen Verteilerzentren im Vereinigten Königreich, in den Vereinigten Staaten und in Australien versandt. Das heißt, wir haben nicht über jeden Artikel, der geliefert wird, einen genauen Überblick.
 
 Wenn es mit deinem Produkt ein Problem gibt, kontaktiere uns mit der Bestellnummer und einer Erklärung des Problems über [merch@ppy.sh](mailto:merch@ppy.sh).
 
