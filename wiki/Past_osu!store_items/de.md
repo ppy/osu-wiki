@@ -14,7 +14,7 @@ Auf dieser Seite werden verschiedene Produkte gezeigt, die mal im [osu!store](ht
 
 ![Storeseite von osu! goods CafePress](img/osu-goods.png)
 
-**osu! goods** war eine Kollektion von offiziellen osu!-Markenartikeln, die über den Onlinehändler [CafePress](https://en.wikipedia.org/wiki/CafePress) zwischen 2009 und 2012 verkauft wurden. Alle Artikel wurden von CafePress gedruckt und produziert, wobei ein Teil der Einnahmen in die [Spielentwicklung](https://osu.ppy.sh/store/listing) flossen.
+**osu! goods** war eine Kollektion von offiziellen osu!-Markenartikeln, die über den Onlinehändler [CafePress](https://en.wikipedia.org/wiki/CafePress) zwischen 2009 und 2012 verkauft wurden. Alle Artikel wurden von CafePress gedruckt und produziert, wobei ein Teil der Einnahmen [in die Spielentwicklung flossen](https://osu.ppy.sh/store/listing).
 
 Die Kollektion bestand aus einer Breite an Produkten wie zum Beispiel:
 
@@ -72,7 +72,7 @@ Die Kollektion bestand aus einer Breite an Produkten wie zum Beispiel:
 *Siehe auch: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*\
 *Für Hilfe zu diesem Produkt, siehe: [Shoparchiv § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
 
-Das **osu!tablet** war ein von osu! offiziell vertriebenes Grafiktablett, das in Zusammenarbeit mit der Elektronikfirma [HUION](https://www.huion.com/) entstand. Es wurde von ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) entworfen und als eine erschwingliche Alternative für die, die einfach ein Grafiktablett für osu! haben wollten, herausgebracht.
+Das **osu!tablet** war ein offizielles, von osu! vertriebenes Grafiktablett, das in Zusammenarbeit mit der Elektronikfirma [HUION](https://www.huion.com/) entstand. Es wurde von ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) entworfen und als eine erschwingliche Alternative für die, die einfach ein Grafiktablett für osu! haben wollten, herausgebracht.
 
 Das Produkt wurde in zwei Ausführungen angeboten: Das originale "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", welches zuerst 2013 hergestellt wurde. Das verbesserte [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) kam ab 2016 auf den Markt, bevor es im Jahre 2017 im Rahmen einer [Anpassung der Entwicklungsschwerpunkte](https://twitter.com/ppy/status/846190076853870592) eingestellt wurde.
 
@@ -82,7 +82,7 @@ Das Produkt wurde in zwei Ausführungen angeboten: Das originale "[osu!tablet v1
 
 *Für den Newsbeitrag, siehe: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
-Die **osu! beatmap blueprints** (zu Deutsch Beatmap-Vorlagen) waren wieder verwendbare Aufkleber mit verschiedenen Spielelementen wie Hit-Circles, Slider, Approach-Circles, [hit judgements](/wiki/Gameplay/Judgement/osu!)<!--TODO: translate--> und dem osu!-Logo selbst. Das Produkt wurde 2015 verkauft, damit Spieler "lebensgroße Beatmaps im echten Leben" kreieren konnten.
+Die **osu! beatmap blueprints** (zu Deutsch Beatmap-Vorlagen) waren wiederverwendbare Aufkleber mit verschiedenen Spielelementen wie Hit-Circles, Slider, Approach-Circles, [hit judgements](/wiki/Gameplay/Judgement/osu!)<!--TODO: translate--> und dem osu!-Logo selbst. Das Produkt wurde 2015 verkauft, damit Spieler "lebensgroße Beatmaps im echten Leben" kreieren können.
 
 Nebenbei wurde ein spezieller [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) veranstaltet, der kurze Zeit später aufgrund zu weniger Einsendungen abgebrochen wurde.
 
@@ -122,4 +122,4 @@ Der **osu!mug** war eine Sonderedition einer Tasse, die mit Abbildungen von [pip
 
 *Für den Newsbeitrag, siehe: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)*
 
-Die **limitierte Edition der osu!-Plüschtiere** waren ein Trio aus Plüschtieren bestehend aus [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator) und dem [osu!-Cookie](/wiki/Client/Interface/Cookie). Die Produkte konnten im Frühjahr 2023 im Rahmen von Vorbestellungen erworben werden und wurden in Zusammenarbeit mit der Crowdfunding-Plattform [Makeship](https://www.makeship.com/) erstellt.
+Die **limitierte Edition der osu!-Plüschtiere** war ein Trio aus Plüschtieren bestehend aus [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator) und dem [osu!-Cookie](/wiki/Client/Interface/Cookie). Die Produkte konnten im Frühjahr 2023 im Rahmen von Vorbestellungen erworben werden und wurden in Zusammenarbeit mit der Crowdfunding-Plattform [Makeship](https://www.makeship.com/) hergestellt.
