@@ -47,11 +47,11 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - osu!catch: 5,000
   - osu!mania: 40,000
   - This does not apply to open rank tournaments.
-- The tournament organisers do not collect, allow the submission of, or utilize any personal information[^personal-information] from any users for any reason outside of these defined exceptions.
-  - User-submitted email addresses may be utilized by tournament organisers for any reason so long as it is necessary for the tournament to function.
+- The tournament organisers do not collect, allow the submission of, or utilize any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions.
+  - Email addresses may be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
   - Personal information may be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
   - Other exceptions to this rule may be granted by the osu! team, provided the tournament organiser provides a thorough justificaiton to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
-- In cases where **any** personal information is collected for any reason, tournament organisers must include the following on the tournament's forum post and/or wiki page:
+- In cases where **any** personal information is collected from registrants for any reason, tournament organisers must include the following on the tournament's forum post and/or wiki page:
   - Any users, organizations, or other entities who can view this information.
   - How the information will be stored and processed.
   - What the information is used for.
