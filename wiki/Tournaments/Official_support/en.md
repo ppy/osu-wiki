@@ -27,7 +27,8 @@ Officially supported tournaments have access to:
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
 - The tournament series must run no more than two times per year.
-- The tournament must operate on a Round of 16 double-elimination format at a minimum.
+- The tournament must operate on a Round of 16 double-elimination or a Round of 32 single-elimination format at a minimum.
+  - LAN tournaments must operate on a Round of 8 double-elimination or a Round of 16 single-elimination format at a minimum.
   - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
   - Tournaments that feature a draft format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
     - The tournament is open rank.
@@ -94,8 +95,7 @@ In addition, all promotional material or any services associated with a tourname
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
-- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for automated software has been granted and is being used for assistance. Players cannot "self-ref".
-  - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
+- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players may not "self-ref".
 - Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
 - All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
@@ -104,7 +104,10 @@ Once the tournament has concluded, the tournament organisers will need to submit
 
 - A list of applicable badge recipients (a.k.a. the winners of your tournament).
 - An appropriately designed badge ([see below](#profile-badges)).
-- A link to the publicly viewable catalogue of your tournament's match history.
+- Links to the tournament's wiki page, website and/or publicly viewable spreadsheet(s) with:
+  - The tournament's match history with links to all matches, including qualifiers where applicable.
+  - The tournament's mappools.
+  - The tournament's qualifier results, where applicable.
 
 ### Programs
 
@@ -149,9 +152,9 @@ With regards to staff roles, the following rules apply:
 
 Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
-At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another badged tournament for at least 4 months. In the event this cooldown is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
+At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another officially-supported tournament for at least 4 months. In the event a staffing ban is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
-A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet.
+A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet. If there are multiple lists of staff, they must all be up to date and in sync with one another.
 
 ### Players
 
