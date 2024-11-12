@@ -2,7 +2,7 @@
 
 *Main page: [Help centre](/wiki/Help_centre)*
 
-A tournament ban prevents a user from playing in official or officially supported tournaments. It also prohibits a user from staffing or offering assistance in these tournaments in any way other than helping as a streamer, commentator or graphic designer.
+A tournament ban prevents a player from playing in official or officially supported tournaments. It also prohibits a user from staffing or offering assistance in these tournaments in any way other than helping as a streamer, commentator or graphic designer.
 
 Tournament bans are very rarely handed out on their own, but generally speaking almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
 
