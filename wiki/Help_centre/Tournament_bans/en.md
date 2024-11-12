@@ -2,7 +2,7 @@
 
 *Main page: [Help centre](/wiki/Help_centre)*
 
-A tournament ban prevents a player from being involved in officially supported tournaments in any capacity. This includes playing and staffing or any other kind of assistance.
+A tournament ban prevents a user from playing in official or officially supported tournaments. It also prohibits a user from staffing or offering assistance in these tournaments in any way other than helping as a streamer, commentator or graphic designer.
 
 Tournament bans are very rarely handed out on their own, but generally speaking almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
 
@@ -43,6 +43,8 @@ In rare situations, the [account support team](/wiki/People/The_Team/Account_sup
 ## What can I do while tournament-banned? {id=while-banned}
 
 You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organising such events.
+
+You may still staff in officially supported tournaments by streaming, commentating, or designing graphics at the host's discretion. If you wish to help with other tasks, the host of the tournament you wish to help in MUST request an exemption in their initial request for support. Depending on the reason and severity of the infringement, and with your history in mind, the [account support team](/wiki/People/The_Team/Account_support_team) may then allow this.
 
 Information about your tournament ban status may be provided to tournament organisers upon request, whether they are benefitting from official support or not.
 
