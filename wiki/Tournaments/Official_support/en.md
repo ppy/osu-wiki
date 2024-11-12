@@ -51,7 +51,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - Email addresses may be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
   - Personal information may be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
   - Other exceptions to this rule may be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
-- In cases where **any** personal information is collected from registrants for any reason, tournament organisers must include the following on the tournament's forum post and/or wiki page:
+- In cases where **any** personal information is collected from registrants for any reason, tournament organisers must include a privacy policy on the tournament's forum post and/or wiki page detailing the following:
   - Any users, organisations, or other entities who can view this information.
   - How the information will be stored and processed.
   - What the information will be used for.
