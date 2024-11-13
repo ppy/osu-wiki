@@ -1,8 +1,13 @@
+---
+outdated_translation: true
+outdated_since: 4f6a3f88e0af90a02e3ba96a0558655be395e319
+---
+
 # Criterios de clasificación de osu!catch
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-Este conjunto de **criterios de clasificación de osu!catch** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!catch](/wiki/Game_mode/osu!catch) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!catch** establece [reglas y pautas](/wiki/Ranking_criteria) que los [beatmaps](/wiki/Beatmap) específicos de [osu!catch](/wiki/Game_mode/osu!catch) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ## Universal
 
@@ -51,7 +56,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 
 Las reglas y pautas para las dificultades específicas solo se aplican al nivel de dificultad que se indica y, por lo tanto, *no se aplican a **todas** las dificultades de osu!catch*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
-### Nombre de las dificultades
+### Nombres de las dificultades
 
 *Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
 

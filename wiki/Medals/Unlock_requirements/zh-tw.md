@@ -12,6 +12,7 @@ outdated_translation: true
 - [圖譜包](Beatmap_packs)
 - [圖譜聚光燈](Beatmap_spotlights)
 - [廢寢忘食](Dedication)
+- [Hush-Hush](Hush-hush)
 - [Mod 入門](Mod_introduction)
 - [季節聚光燈](Seasonal_spotlights)
 - [得心應手](Skill)

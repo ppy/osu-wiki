@@ -36,7 +36,7 @@ Apabila kamu merasa bahwa komentar/rayuan yang kamu terima sudah sangat tidak pa
 
 Untuk melapor, klik tompol `Laporkan postingan` yang terdapat pada pojok kanan atas postingan forum yang bersangkutan.
 
-Sebagai alternatifnya, klik nama pengguna salah satu GMT yang tertera pada halaman di atas. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung menghubungi pengguna ini](https://osu.ppy.sh/users/102335).
+Sebagai alternatifnya, klik nama pengguna salah satu GMT yang tertera pada halaman di atas. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung menghubungi pengguna ini](https://osu.ppy.sh/users/5999631).
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 

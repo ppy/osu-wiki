@@ -42,19 +42,12 @@ El desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](https://osu.p
 
 ### Diseñadores
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Gerentes de la comunidad
 
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
-- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
-- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
 
 ### Cuentas bot
 

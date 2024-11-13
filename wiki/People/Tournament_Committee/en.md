@@ -95,7 +95,9 @@ New members to the Tournament Committee must meet the following basic criteria b
 - Be at least 18 years old
 - Pass a check for recent account infringements
 
-Whether a prospective member applies via email or is brought forward by an existing member, the process is the same. The Tournament Committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, an anonymous vote is held to determine whether to add the candidate to the committee.
+Once a prospective member applies by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh), the Tournament Committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, an anonymous vote is held to determine whether to add the candidate to the committee.
+
+Applicants that fail to gather enough positive votes will be denied, and won't be able to apply again for 6 months from the time of response to their application. The response will be sent no later than 2 weeks from the day the application was submitted.
 
 ### Votes
 
@@ -150,7 +152,6 @@ Tournament Committee members are granted the following benefits:
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
@@ -172,6 +173,7 @@ Tournament Committee members are granted the following benefits:
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

@@ -1,4 +1,4 @@
-# Historia de osu! 2022
+# Historia de osu! de 2022
 
 ## Enero
 
@@ -84,7 +84,7 @@ osu!(lazer) recibió una función adicional, permitiendo la creación de preajus
 
 Desde sus 15 años de existencia, osu! ha cultivado una comunidad animada con muchos contribuidores voluntarios. A raíz de este evento, el osu! team organizó un concurso de arte en celebración del aniversario. El concurso consistía en crear dibujos de las mascotas de osu! en momentos históricos. El primer, segundo y tercer lugar fueron para [Dreamxiety](https://osu.ppy.sh/users/13103233), [illuminae2005](https://osu.ppy.sh/users/29866964) y [urgutz](https://osu.ppy.sh/users/11731553) respectivamente. Entre los resultados, peppy también compartió algunos de sus favoritos personales.[^15-anniversary-results]
 
-Después del concurso, hubo un evento de celebración en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server), donde el osu! team jugó juegos junto con miembros de la comunidad y habló sobre temas aleatorios.[^15-celebration]
+Después del concurso, hubo un evento de celebración en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!), donde el osu! team jugó juegos junto con miembros de la comunidad y habló sobre temas aleatorios.[^15-celebration]
 
 Se implementó un nuevo diseño propuesto por [flyte](https://osu.ppy.sh/users/3103765) en la forma de la skin «argon» para reemplazar a la antigua skin «triangles» de 2017.[^argon] La apariencia visual de cada modo de juego recibió una renovación en profundidad, mejorando la claridad y legibilidad.
 

@@ -7,9 +7,9 @@ tags:
 
 ![Banner del osu! Talk Event: Overcoming Obstacles](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-El **osu! Talk Event** es un evento organizado por [osu! University](/wiki/Community/Discord_servers/osu!_University) donde diferentes personas realizaron charlas sobre diversos temas. Esta fue la primera iteración del evento con el tema «overcoming obstacles».
+El **osu! Talk Event** es un evento organizado por [osu! University](/wiki/Community/Discord_servers#servidores-relacionados-con-la-jugabilidad) donde diferentes personas realizaron charlas sobre diversos temas. Esta fue la primera iteración del evento con el tema «overcoming obstacles».
 
-Los oradores dieron sus charlas en un canal escenario en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server). Durante el evento se abrieron hilos de discusión en el canal `#community-meetings`.
+Los oradores dieron sus charlas en un canal escenario en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!). Durante el evento se abrieron hilos de discusión en el canal `#community-meetings`.
 
 Las charlas también se transmitieron en vivo por [canal de Twitch de osu! University](https://twitch.tv/osuuniversity) y las grabaciones de cada charla están disponibles en en su [canal de YouTube](https://www.youtube.com/c/osuuniversity).
 
@@ -26,7 +26,7 @@ Para participar como orador en una iteración futura del evento, o recomendar a 
 
 - [Hilo del foro](https://osu.ppy.sh/community/forums/topics/1574152)
 - [Publicación de anuncio](https://osu.ppy.sh/home/news/2022-05-19-osu-talk-event-overcoming-obstacles)
-- [Servidor de Discord osu!](/wiki/Community/osu!_Discord_server)
+- [Servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
 - [Servidor de Discord osu! University](https://discord.gg/QubdHdnBVg)
 - [Canal de Twitch de osu! University](https://twitch.tv/osuuniversity)
 - [Canal de YouTube de osu! University](https://www.youtube.com/c/osuuniversity)

@@ -1,12 +1,14 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4f6a3f88e0af90a02e3ba96a0558655be395e319
 ---
 
 # Critères de classement d'osu!catch
 
 ***Remarque : Cet article est une extension des [critères généraux de classement](/wiki/Ranking_criteria).***
 
-Cet ensemble de **critères de classement d'osu!catch** définit les [règles et directives](/wiki/Ranking_criteria#termes-courants) que les [beatmaps](/wiki/Game_mode/osu!catch) spécifiques à [osu!catch](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cet ensemble de **critères de classement d'osu!catch** définit les [règles et directives](/wiki/Ranking_criteria) que les [beatmaps](/wiki/Game_mode/osu!catch) spécifiques à [osu!catch](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Global
 
