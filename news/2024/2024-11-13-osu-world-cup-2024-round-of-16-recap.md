@@ -149,8 +149,6 @@ text
 
 As someone who has participated in OWC for 10 years now either as a player or a commentator, what are the biggest changes that stuck around in your mind even after your extended tenure?
 
-<div class="news-chat-quote__text-container">
-
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
@@ -165,8 +163,6 @@ The other one was the long-awaited ditching of the rule of failed scores not cou
 
 What's one match that you casted that will forever remain ingrained in your memories, what made it special to you?
 
-<div class="news-chat-quote__text-container">
-
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
@@ -180,8 +176,6 @@ For the sentiment though, it has to be the most recent COE 2024 tournament in th
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 What are your OWC predictions for this year, anyone in specific that you are rooting for besides the home country?
-
-<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
