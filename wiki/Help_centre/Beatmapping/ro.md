@@ -52,7 +52,7 @@ Te rugăm să **nu** depui o reclamare folosind fie [comanda din joc `!report`](
 
 ## Cum îmi pot șterge beatmap-ul? {id=delete-beatmap}
 
-**[Echipa de asistență](/wiki/People/The_Team/Account_support_team) nu preia cereri de ștergere manuală a beatmap-urilor.**
+**[Echipa de asistență](/wiki/People/Account_support_team) nu preia cereri de ștergere manuală a beatmap-urilor.**
 
 Poți să îți ștergi singur beatmap-urile așteptând ca acestea să devină inactive, ceea ce se va întâmpla după o lună (28 de zile) fără actualizări.
 
