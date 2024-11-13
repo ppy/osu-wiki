@@ -8,7 +8,7 @@ The first OWC elimination round has concluded — who survived, and who's going 
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
-This past weekend marked the start of the first elimination round, ending with eight fewer teams competing for the main prize. The show must go on though, so let's jump right into the Round of 16 recap!
+This past weekend marked the start of the first elimination round, and ended with eight fewer teams competing for the main prize. The show must go on though, so let's jump right into the Round of 16 recap!
 
 You can also check out the high-effort video coverage by our own [Junihuhn](https://osu.ppy.sh/users/4182339) below!
 
@@ -32,25 +32,17 @@ You can also check out the high-effort video coverage by our own [Junihuhn](http
 
 ![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/owc-2024-ro16-mappool.jpg)
 
-This week's map pool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) by [Shiirn](https://osu.ppy.sh/users/465126) (DT2) and [bmin11](https://osu.ppy.sh/users/43468)'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with ChaiN De/structioN getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), and serving as speed challenge with a focus on bursts. Silent Voyage to Eternity, last seen in [OWC 2016](/wiki/Tournaments/OWC/2016)'s final stages as a Hidden pick, served as both a testament to how much players have improved since then, and a reminder that some old, remarkable scores by Chinese legend [rustbell](https://osu.ppy.sh/users/227717) [still very much stand the test of time](wiki\shared\news\2024-11-14-osu-world-cup-2024-round-of-16-recap\rustbell-old-score.jpg).
+This week's map pool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) by [Shiirn](https://osu.ppy.sh/users/465126) (DT2) and [bmin11](https://osu.ppy.sh/users/43468)'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with ChaiN De/structioN getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), and serving as speed challenge with a focus on bursts. Silent Voyage to Eternity, last seen in [OWC 2016](/wiki/Tournaments/OWC/2016)'s finals stage as a Hidden pick, served as both a testament to how much players have improved since then, and a reminder that some old, remarkable scores by Chinese legend [rustbell](https://osu.ppy.sh/users/227717) still very much [stand the test of time](wiki\shared\news\2024-11-14-osu-world-cup-2024-round-of-16-recap\rustbell-old-score.jpg).
 
-Going back to the newer maps in the pool, we had some really neat customs this week. [Lasse](https://osu.ppy.sh/users/896613)'s [CLIMAX BREAKER!!](https://osu.ppy.sh/beatmapsets/2274927#osu/4847505) (FM1) focused on anti-jumps, [Yamiaka Steroid](https://osu.ppy.sh/beatmapsets/2274939#osu/4847519) by [vetoed](https://osu.ppy.sh/users/10909373) (NM4) worked as the pool's de facto reading pick, with lots of jumpy and overlapping patterns with great density, and [Selnfra](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509) by [Mattay](https://osu.ppy.sh/users/9748303) (NM2) served as a unique No Mod pick that focused on small circles and fast snaps.
+Going back to the present times, we had some awesome custom maps in the pool this week. [Lasse](https://osu.ppy.sh/users/896613)'s [CLIMAX BREAKER!!](https://osu.ppy.sh/beatmapsets/2274927#osu/4847505) (FM1) focused on anti-jumps, [Yamiaka Steroid](https://osu.ppy.sh/beatmapsets/2274939#osu/4847519) by [vetoed](https://osu.ppy.sh/users/10909373) (NM4) worked as the pool's de facto reading pick with lots of jumpy and overlapping patterns with great density mixed, and [Selnfra](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509) by [Mattay](https://osu.ppy.sh/users/9748303) (NM2) served as a unique No Mod pick that focused on small circles and fast snaps.
 
-Finally, we had an [osu!original]((/wiki/osu!_originals)) outside the Tiebreaker slot this week, with [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s song [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) being mapped by [Megafan](https://osu.ppy.sh/users/6632605), being a unique and energetic hardstyle offering which was represented as an intense challenge of slider aim and technical streams in our Hard Rock pool.
+Finally, we had an [osu! original](/wiki/osu!_originals) outside the Tiebreaker slot this week, with [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) by [Megafan](https://osu.ppy.sh/users/6632605) being an energetic hardstyle song represented as an intense challenge of slider aim and technical streams in our Hard Rock pool.
 
 ![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)
 
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="https://assets.ppy.sh/artists/444/Songs/Future%20Witness%20-%20Resolution.mp3">
-    </audio>
-</div>
-
-![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
-
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_AJITAMA_Adventure_OST.mp3">
     </audio>
 </div>
 
@@ -99,15 +91,23 @@ Personally, I think a large amount of staff members that are vital to the succes
 
 </div>
 
+![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_AJITAMA_Adventure_OST.mp3">
+    </audio>
+</div>
+
 ## Round of 16 summary
 
-The round of 16 weekend has been jam-packed full of exciting matches, with teams both fighting for their survival, or trying to keep the coveted winners bracket spots. Unfortunately the following teams have been eliminated, and have bid farewell to the world cup stage — ::{ flag=AR }:: Argentina, ::{ flag=AT }:: Austria, ::{ flag=BY }:: Belarus, ::{ flag=KZ }:: Kazakhstan, ::{ flag=MY }:: Malaysia, ::{ flag=PE }:: Peru, ::{ flag=SG }:: Singapore, and ::{ flag=ES }:: Spain.
+The round of 16 weekend has been jam-packed full of exciting matches, with teams both fighting for their survival, and trying to keep the coveted winners bracket spots. Unfortunately the following teams have been eliminated, and have bid farewell to the world cup stage — ::{ flag=AR }:: Argentina, ::{ flag=AT }:: Austria, ::{ flag=BY }:: Belarus, ::{ flag=KZ }:: Kazakhstan, ::{ flag=MY }:: Malaysia, ::{ flag=PE }:: Peru, ::{ flag=SG }:: Singapore, and ::{ flag=ES }:: Spain.
 
 Checking out the winners bracket, we can see that it's been purged of everything but the elite, with the top 10 seeds completely occupying the bracket. However, with it shrinking ever-so slightly every week, we are bound to see some great matches coming from these titans fighting each other for supremacy in the upcoming Quarterfinals this weekend!
 
 Speaking of the top 10 seeds, we got to see a glimpse of what those matches will look like with ::{ flag=CL }:: Chile (#7) vs. ::{ flag=GB }:: United Kingdom (#10), a match that garnered uncertainty in regard to it's results with a 34/67 [pick'em](https://pickem.hwc.hr/tournaments/158) voting split in favour of the United Kingdom. The match was filled with break points, but in the end the United Kingdom pulled through, did not ruin people's pick'ems, and got away with a score of 5–3.
 
-Continuing on with the pick'ems, in general the community had clear expectations, with no major upsets swindling players from their points. ::{ flag=SG }:: Singapore (#28) vs. ::{ flag=TH }:: Thailand (#21) and ::{ flag=HK }:: Hong Kong vs. ::{ flag=PH }:: Philippines matches ended in decisive scores of 5–2 and 5–1 respectively, despite the community voting ending in an almost even 50/50 split on both of them.
+Continuing on with the pick'ems, in general the community had clear expectations, with no major upsets swindling players from their points. ::{ flag=SG }:: Singapore (#28) vs. ::{ flag=TH }:: Thailand (#21) and ::{ flag=HK }:: Hong Kong (#8) vs. ::{ flag=PH }:: Philippines (#9) matches ended in decisive scores of 5–2 and 5–1 respectively, despite the community voting ending in an almost even 50/50 split on both of them.
 
 Let's move onto the highlight matches of the week!
 
@@ -120,7 +120,7 @@ Let's move onto the highlight matches of the week!
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18?start=136&end=300" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Heading into this week, many a sharp eye was turned to the winners' bracket matchup between the Russian Federation and China. For Russia, it was an opportunity to reach the Quarterfinals for the fourth year in a row; meanwhile, China was looking to turn the tables after getting swept by Russia last year, and get past the round of 16 barrier.
+Heading into this week, many a sharp eye was turned to the winners' bracket matchup between the Russian Federation and China. For Russia, it was an opportunity to reach the Quarterfinals for the fourth year in a row; meanwhile, China was looking to turn the tables after getting swept by Russia last year, and get past the round of 16.
 
 Both teams came out of the gates firing on all cylinders; China's first pick of [DT3](https://osu.ppy.sh/beatmapsets/1778687#osu/3642792) showcased one of the closest maps of the entire match, tightly contested all the way en route to a last-second China win by 42,537 points. Unfazed, Russia picked into their strength in the speed skill set, locking in [DT2](https://osu.ppy.sh/beatmapsets/49071#osu/154165) for a comfortable win. China backed up their DT3 win with a dominating performance on their second pick, [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094), winning by over a million points, and making the score 1–2.
 
@@ -146,6 +146,14 @@ Both teams were extremely confident in their strategies which ended up in a matc
 Quite a bit was riding on this for both teams; Spain hadn't won an OWC match since 2016 (in fact, this was their best scoreline since 2018's group stage), and Finland hadn't missed a Quarterfinals weekend in OWC since 2019. Unfortunately for Spain, this Cinderella comeback story was not meant to be, as they fell to Finland by 90k points. However, Spain has definitely proved themselves to be a capable contender in future World Cups — keep an eye out for them!
 
 ## Commentating throughout the years
+
+::{#doomsday}::
+
+![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/doomsday.png)
+
+If you stuck around the osu! community for any length of time throughout osu!'s existence, you will be aware of who [Doomsday](https://osu.ppy.sh/users/18983) is. Top player, content creator, contributor, tournament player, commentator, they've done it all throughout their 16 years as a community member.
+
+As their 10-year anniversary as a commentator for the world cups is upcoming, it's only fair to check out how they feel about the changes in the world cup throughout the years, talk about some cherished moments, and maybe even get some hot tips in regard to this year's winning team.
 
 <div class="news-chat-quote__text-container">
 
@@ -195,7 +203,7 @@ As for who's taking the title? It's hard to argue against the USA keeping their 
 
 ## Player interview
 
-In continuation of last week's interview's by [Willy](https://osu.ppy.sh/users/3521482), a brand-new interview with [Bubbleman](https://osu.ppy.sh/users/5182050) was premiered during last weekend's Chile vs. United Kingdom, and you can check it out below!
+In continuation of last week's interviews by [Willy](https://osu.ppy.sh/users/3521482), a brand-new interview with [Bubbleman](https://osu.ppy.sh/users/5182050) was premiered during last weekend's Chile vs. United Kingdom match, and you can check it out below!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/muT7ASdMmZc" frameborder="0" allowfullscreen></iframe>
@@ -203,7 +211,7 @@ In continuation of last week's interview's by [Willy](https://osu.ppy.sh/users/3
 
 ---
 
-Things are getting serious, and if you haven't kept up with the osu! World Cup so far, now's your last chance to do so without missing the best teams in the world duelling it out for a chance to be crowned osu! Champions.
+Things are getting serious, and if you haven't kept up with the osu! World Cup so far, now's your last chance to do so without missing the best teams in the world duelling it out for a chance at the great prizes.
 
 So, what are you waiting for? Open up the [world cup wiki](/wiki/Tournaments/OWC/2024) and check out the schedules, [lock in your pick'ems](https://pickem.hwc.hr/tournaments/158), and join us this weekend on Twitch at [osulive](https://www.twitch.tv/osulive) & [osulive_2](https://www.twitch.tv/osulive_2)!
 
