@@ -563,30 +563,21 @@ Sunday, 3 March 2024:
 1. In order to participate, players are required to register for the tournament through [the tournament's website](https://wybin.xyz/tournaments/4dpt6/home).
 2. Each player must be in between the rank range of #1,000 to #5,000 at the end of the registration period. After the registration has ended, players are allowed to rank up or down out of the rank range.
 3. Each player must not have any related 4-digit player tournament badges from past iterations. This rule is in place to ensure fairness and provide equal opportunities.
-4. Staff members are allowed to play with the exception of Admins, Mappoolers and Custom Mappers. Eliminated players are eligible to be enlisted as Playtesters, Replay Creators and Referees as per the [Official Tourament Support](/wiki/Tournaments/Official_support) page.
+4. Staff members are allowed to play with the exception of admins, mappoolers and custom mappers. Eliminated players are eligible to be enlisted as playtesters, replay creators and referees as per [official tournament support rules](/wiki/Tournaments/Official_support).
 
 ### Mappool format
 
 1. This iteration features a Mystery Mod, which will be testing on niche skillsets that are not commonly seen in standardised mappools of Catch the Beat. Some examples of these skillsets could include EZ mod, Flashlight, Dodge the beat (DTB), sightreads and so on. It will be up to the creativity of the hosts, mappoolers, custom mappers to curate these skillsets for this particular mod.
 2. The Mystery Mod pool will not feature maps that are from another osu! game mode.
 3. The mappool format and win condition for each of the following rounds are as follows:
-   - Qualifiers
-     - 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime
-   - Round of 64, Round of 32 & Round of 16
-     - Best of 9, 1 Ban
-     - 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 1 Mystery, 1 Tiebreaker
-   - Quarterfinals
-     - Best of 11, 1 Ban
-     - 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 Mystery, 1 Tiebreaker
-   - Semifinals
-     - Best of 11, 2 Bans
-     - 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 Mystery, 1 Tiebreaker
-   - Finals
-     - Best of 13, 2 Bans
-     - 4 NoMod, 4 Hidden, 4 HardRock, 4 DoubleTime, 2 Mystery, 1 Tiebreaker
-   - Grand Finals
-     - Best of 13, 2 Bans
-     - 4 NoMod, 4 Hidden, 4 HardRock, 4 DoubleTime, 2 Mystery, 1 Tiebreaker
+| Stage | Format | Beatmaps |
+| :-- | :-- | :-- |
+| Qualifiers |  | 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime | 
+| Round of 64, Round of 32 & Round of 16 | Best of 9, 1 ban | 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 1 Mystery, 1 tiebreaker |
+| Quarterfinals | Best of 11, 1 ban | 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 Mystery, 1 tiebreaker |
+| Semifinals | Best of 11, 2 bans | 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 Mystery, 1 tiebreaker |
+| Finals | Best of 13, 2 bans | 4 NoMod, 4 Hidden, 4 HardRock, 4 DoubleTime, 2 Mystery, 1 tiebreaker |
+| Grand Finals | Best of 13, 2 bans | 4 NoMod, 4 Hidden, 4 HardRock, 4 DoubleTime, 2 Mystery, 1 tiebreaker |
 
 ### Qualifiers
 
@@ -594,7 +585,7 @@ Sunday, 3 March 2024:
 2. Each Qualifier lobby can have a maximum of 16 partipants.
 3. Players are not allowed to ban any beatmaps in the Qualifiers.
 4. In the lobby, players will play through nine Qualifier beatmaps in the mod order of NM, HD, HR and DT.
-5. Players are to join their selected qualifiers lobby on time. In the event you are late to the lobby, you are allowed to reschedule to a later lobby.
+5. Players are expected to join their selected qualifiers lobby on time. In the event that a player is late to the lobby, the said player is allowed to reschedule to a later lobby.
 6. If said player joins their selected qualifiers lobby within the first run, they are allowed to play the remaining maps in the first run and the missed out maps as the second run.
 7. Between each map, players have **120 seconds** to ready up.
 8. An optional **120 seconds** break will be offered between the first and second run of the mappool.
@@ -605,29 +596,29 @@ Sunday, 3 March 2024:
 
 1. If any player does not show up within 15 minutes of the scheduled start time, the match would be deemed as a forfeit for the player that did not show up.
 2. A replay may be initiated if a player faces disturbances within the first 30 seconds of the map. 
-   - For example, malfunctioning peripherals, disconnects and network outages.
+   - Valid reasons include malfunctioning peripherals, disconnects, network outages, etc.
    - This is only applicable once. Lag is not a valid reason.
 3. If any player is caught intentionally stalling a match, displaying poor sportsmanship behaviour, or causing intentional drama during the tournament, the individual will be dealt with accordingly by the hosts.
 
-### Match Procedures
+### Match procedures
 
 1. Players are required to join the lobby prior to the start of the match. 
 2. Prior to the start of the match, both players will use the `!roll` command to determine the banning and picking order.
    - The winner of the `!roll` gets to decide who gets the first pick and second ban or vice versa.
 3. There will be no warmups allowed.
-4. Players will be given **120 seconds** for every action (picking & banning). Failure to do so will lead to a random map to be picked by the referee in charge of the match.
+4. Players will be given **120 seconds** for every action (picking and banning). Failure to do so will lead to a random map to be picked by the referee in charge of the match.
 5. Each player is entitled to 1 optional timeout in a match. The duration of this timeout is 120 seconds and it will start after the action timer has run out.
 6. On the Mods HardRock, DoubleTime, the use of Hidden will be allowed as it has no score multipliers.
 7. Players are not allowed to pick or ban the same mode twice in a row.
 8. Each player may ban up to two beatmaps from the mappool following a modified "comeback mechanic" system that is adapted from the [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019). The system works as follows:
    - At the start of the match, each player has to ban **one beatmap** from the mappool.
-   - After a player reaches 3 points (in the Semi Finals, Finals, and Grand Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that has neither been picked nor banned up until that point as a comeback mechanic.
+   - After a player reaches 3 points (in the Semifinals, Finals, and Grand Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that has neither been picked nor banned up until that point as a comeback mechanic.
    - A player is not allowed to ban 2 maps from the same mod pool.
    - No banned beatmaps are allowed to be picked by any player during the remainder of the match.
    - This rule does not apply in the Qualifiers.
 9. In the event of a tiebreaker, **the tiebreaker beatmap will be played using Hidden or NoMod depending on the player's choice**.
 
-### Scheduling Rules
+### Scheduling rules
 
 1. The hosts will pre-determine a scheduled time for the matches, which will all take place on a Friday or a weekend day unless a special request is placed in advance for a match to be played mid-week.
 2. In the event that a player is unable to make it for your scheduled time, said player is advised to contact their opponent and apply for a reschedule at the `#reschedule` channel in the tournament's Discord server. Screenshot is required for valid reschedule proof.
@@ -636,21 +627,12 @@ Sunday, 3 March 2024:
 ## Notes
 
 [^easy]: This map is played with the [Easy](/wiki/Gameplay/Game_modifier/Easy) mod enabled.
-
 [^dtb]: This map is played under a specific win condition in which the player with the lowest score wins.
-
-[^accuracy]: This map is played under the [Accuracy win condition](/wiki/Client/Interface/Multiplayer#match-settings).
-
+[^accuracy]: This map is played under the ["accuracy" win condition](/wiki/Client/Interface/Multiplayer#match-settings).
 [^flashlight]: This map is played with the [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod enabled.
-
 [^sightreading]: Maps for this slot were revealed upon being picked at the match.
-
 [^cs]: This map is played under a specific condition in which the [circle size](/wiki/Client/Interface/Multiplayer#match-settings) exceeds the usual number in standard mappools.
-
 [^spinner]: This map features a heavy focus on spinners.
-
 [^hrdt]: This map is played with both [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) mods enabled.
-
 [^contb]: This map features a [convert](/wiki/Beatmap/Converts) in which its length is similar to a tiebreaker.
-
 [^tester]: This player was brought in as a map tester after being knocked out in the bracket stage.
