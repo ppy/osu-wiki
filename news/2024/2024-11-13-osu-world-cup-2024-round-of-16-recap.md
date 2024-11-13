@@ -30,11 +30,13 @@ You can also check out the high-effort video coverage by our own [Junihuhn](http
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2292992412&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/owc-2024-ro32-mappool.jpg)
+![](/wiki/shared/news/2024-11-13-osu-world-cup-2024-round-of-16-recap/owc-2024-ro16-mappool.jpg)
 
-text
+This week's map pool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) by [Shiirn](https://osu.ppy.sh/users/465126) (DT2) and [bmin11](https://osu.ppy.sh/users/43468)'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with ChaiN De/structioN getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), and serving as speed challenge with a focus on bursts. Silent Voyage to Eternity, last seen in [OWC 2016](/wiki/Tournaments/OWC/2016)'s final stages as a Hidden pick, served as both a testament to how much players have improved since then, and a reminder that some old, remarkable scores by Chinese legend [rustbell](https://osu.ppy.sh/users/227717) [still very much stand the test of time](wiki\shared\news\2024-11-13-osu-world-cup-2024-round-of-16-recap\rustbell-old-score.jpg).
 
-something something [osu! originals](/wiki/osu!_originals)
+Going back to the newer maps in the pool, we had some really neat customs this week. [Lasse](https://osu.ppy.sh/users/896613)'s [CLIMAX BREAKER!!](https://osu.ppy.sh/beatmapsets/2274927#osu/4847505) (FM1) focused on anti-jumps, [Yamiaka Steroid](https://osu.ppy.sh/beatmapsets/2274939#osu/4847519) by [vetoed](https://osu.ppy.sh/users/10909373) (NM4) worked as the pool's de facto reading pick, with lots of jumpy and overlapping patterns with great density, and [Selnfra](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509) by [Mattay](https://osu.ppy.sh/users/9748303) (NM2) served as a unique No Mod pick that focused on small circles and fast snaps.
+
+Finally, we had an [osu!original]((/wiki/osu!_originals)) outside the Tiebreaker slot this week, with [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s song [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) being mapped by [Megafan](https://osu.ppy.sh/users/6632605), being a unique and energetic hardstyle offering which was represented as an intense challenge of slider aim and technical streams in our Hard Rock pool.
 
 ![](/wiki/shared/news/2024-11-13-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)
 
@@ -103,9 +105,9 @@ The round of 16 weekend has been jam-packed full of exciting matches, with teams
 
 Checking out the winners bracket, we can see that it's been purged of everything but the elite, with the top 10 seeds completely occupying the bracket. However, with it shrinking ever-so slightly every week, we are bound to see some great matches coming from these titans fighting each other for supremacy in the upcoming Quarterfinals this weekend!
 
-Speaking of the top 10 seeds, we got to see a glimpse of what those matches will look like with ::{ flag=CL }:: Chile (#7) vs. the ::{ flag=GB }:: United Kingdom (#10), a match that garnered uncertainty in regard to it's results with a 34/67 [pick'em](https://pickem.hwc.hr/tournaments/158) voting split in favour of the United Kingdom. The match was filled with break points, but in the end the United Kingdom pulled through, did not ruin people's pick'ems, and got away with a score of 5–3.
+Speaking of the top 10 seeds, we got to see a glimpse of what those matches will look like with ::{ flag=CL }:: Chile (#7) vs. ::{ flag=GB }:: United Kingdom (#10), a match that garnered uncertainty in regard to it's results with a 34/67 [pick'em](https://pickem.hwc.hr/tournaments/158) voting split in favour of the United Kingdom. The match was filled with break points, but in the end the United Kingdom pulled through, did not ruin people's pick'ems, and got away with a score of 5–3.
 
-Continuing on with the pick'ems, in general the community had clear expectations, with no major upsets swindling players from their points. ::{ flag=SG }:: Singapore (#28) vs. ::{ flag=TH }:: Thailand (#21) and ::{ flag=HK }:: Hong Kong vs. ::{ flag=PH }:: the Philippines matches ended in decisive scores of 5–2 and 5–1 respectively, despite the community voting ending in an almost even 50/50 split on both of them.
+Continuing on with the pick'ems, in general the community had clear expectations, with no major upsets swindling players from their points. ::{ flag=SG }:: Singapore (#28) vs. ::{ flag=TH }:: Thailand (#21) and ::{ flag=HK }:: Hong Kong vs. ::{ flag=PH }:: Philippines matches ended in decisive scores of 5–2 and 5–1 respectively, despite the community voting ending in an almost even 50/50 split on both of them.
 
 Let's move onto the highlight matches of the week!
 
@@ -118,15 +120,15 @@ Let's move onto the highlight matches of the week!
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18?start=136&end=300" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Heading into this week, many a sharp eye was turned to the winners' bracket matchup between the Russian Federation and China. For Russia, it was an opportunity to reach the quarterfinals for the fourth year in a row; meanwhile, China was looking to break through after losing in the round of 16 or earlier in three straight world cups. The two teams had not met since 2021's round of 32, where Russia swept China 5-0; in 2024, China looked to turn the tables as their powerful mid-stage roster faced off against a well-rounded Russian squad.
+Heading into this week, many a sharp eye was turned to the winners' bracket matchup between the Russian Federation and China. For Russia, it was an opportunity to reach the Quarterfinals for the fourth year in a row; meanwhile, China was looking to turn the tables after getting swept by Russia last year, and get past the round of 16 barrier.
 
-Both teams came out of the gates firing on all cylinders; China's first pick of DT3 showcased one of the closest maps of the entire match, tightly contested all the way en route to a last-second China win by 42,537 points. Unfazed, Russia picked into their strength in the speed skillset, locking in DT2 for a comfortable win. China backed up their DT3 win with a dominating performance on their second pick HD2, winning by over a million points in one of the most one-sided maps of the entire match.
+Both teams came out of the gates firing on all cylinders; China's first pick of [DT3](https://osu.ppy.sh/beatmapsets/1778687#osu/3642792) showcased one of the closest maps of the entire match, tightly contested all the way en route to a last-second China win by 42,537 points. Unfazed, Russia picked into their strength in the speed skill set, locking in [DT2](https://osu.ppy.sh/beatmapsets/49071#osu/154165) for a comfortable win. China backed up their DT3 win with a dominating performance on their second pick, [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094), winning by over a million points, and making the score 1–2.
 
-The first break point would come from a surprising source: Russia picked the tapping-focused FM3 map Perfect Neglect next, but they stumbled badly and China took the upper hand as lolol233 led the way to a win and a 3-1 lead. Their advantage would be short-lived, as Russia performed well and China faltered on NM2, followed by a massive Russian win on their own HR2 pick to tie the match at 3 points apiece, leaving each team with one pick.
+The first break point would come from a surprising source: Russia picked the tapping-focused FM3 map, but they stumbled badly, something that China took advantage of as ::{ flag=CN }:: [lolol233](https://osu.ppy.sh/users/11375105) led the way to a win and a 3–1 lead. Their advantage would be short-lived, as China faltered on [NM2](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509), followed by another massive Russian win on their own [HR2](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) pick to tie the match at 3 points apiece, leaving each team with one pick.
 
-China selected the remaining hidden map Escape for their last pick, but it backfired in the worst possible way. Markrum dropped a full combo, three of the four Russian players outscored China's best score by 100,000 points or more, and Russia crushed the pick to win it by 1.2 million, the most one-sided map in the match coming at the worst possible time for China. For their final pick, Russia selected the remaining double time map Sprinter, and what ensued was a nail-biter. China held a narrow lead through much of the map, but into the ending Russia held a combo advantage as seconds counted down; a 200,000 point lead became 100,000, then 50,000, then 15,000 points as the final spinner appeared, but time ran out on Russia as China pulled off a break point to force the tiebreaker.
+China selected the remaining hidden map Escape for their last pick, but it backfired in the worst possible way, making Russia one point away from the win. For their final pick, Russia selected [DT1](https://osu.ppy.sh/beatmapsets/1126545#osu/2353845), and what ensued was a nail-biter. China held a narrow lead through much of the map, but into the ending Russia held a combo advantage as seconds counted down; a 200,000 point lead became 100,000, then 50,000, then 15,000 points as the final spinner appeared, but time ran out on Russia as China pulled off a break point to force the tiebreaker.
 
-Tiebreakers have long been a sore spot for Russia. They were eliminated from each of the last three World Cup iterations via tiebreaker, so they had to break their streak of tiebreaker losses to continue in the winners bracket. AJITAMA Adventure set the stage for the climax of this match, and what a climax it was. Back and forth went the combos and back and forth went the score lead as an unbelievably dramatic tiebreaker played out. When the dust finally settled, it was Russia that emerged victorious by a margin of just 102,726 points. With their spot in the quarterfinals secured, the Russian roster could breathe a sigh of relief. They had set up a match with perennial powerhouse Germany, while China could only wonder what could have been as their road diverged to the losers bracket and a matchup against Finland.
+Tiebreakers have long been a sore spot for Russia. They were eliminated from each of the last three World Cup iterations via tiebreaker (and in fact hadn't won a tiebreaker **since 2011**), so they had to break their streak of tiebreaker losses to continue in the winners bracket. As a battle raged on in [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546)'s storyboard, another one also raged between the two teams. When the dust finally settled, it was Russia that emerged victorious by a margin of just 102,726 points. With their spot in the Quarterfinals secured, the Russian roster could breathe a sigh of relief.
 
 ### ::{ flag=ES }:: Spain vs. ::{ flag=FI }:: Finland
 
@@ -137,7 +139,11 @@ Tiebreakers have long been a sore spot for Russia. They were eliminated from eac
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18?start=1132&end=1296" frameborder="0" allowfullscreen></iframe>
 </div>
 
-text
+Spain vs. Finland ended up being the star match in the loser's bracket last weekend — the only other match besides Russia vs. China that went down to the wire. The matchup was on an even playing field both seeding and skill-wise, which made for an extremely exciting match where only one pick brought a decisive victory with an 800k point difference for team Spain.
+
+Both teams were extremely confident in their strategies which ended up in a match where no breakpoints whatsoever occurred, the closest it got was during team Finland's [HD1](https://osu.ppy.sh/beatmapsets/2009101#osu/4179715) pick, ending with a razor-thin 71k difference between both teams. Some standout carry performances include ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)'s 5x100 hidden FC on [FM2](https://osu.ppy.sh/beatmapsets/14309#osu/115384), and ::{ flag=ES }:: [creator](https://osu.ppy.sh/users/13962152)'s FC on [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094) and near-FC on [HR2](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) that secured the tiebreaker for team Spain.
+
+Quite a bit was riding on this for both teams; Spain hadn't won an OWC match since 2016 (in fact, this was their best scoreline since 2018's group stage), and Finland hadn't missed a Quarterfinals weekend in OWC since 2019. Unfortunately for Spain, this Cinderella comeback story was not meant to be, as they fell to Finland by 90k points. However, Spain has definitely proved themselves to be a capable contender in future World Cups — keep an eye out for them!
 
 ## Commentating throughout the years
 
@@ -167,7 +173,7 @@ What's one match that you casted that will forever remain ingrained in your memo
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
-I'm gonna give the cop-out answer and give you two matches. The game that comes to mind has to be the OWC 2017 winner's bracket final, between Poland and the United States. It was (and still is) the most unexpected, ludicrous comeback I've seen in the world cup. Sure, the rule of failed scores not counting did add to the drama, but it made every map in the second half of that game a real nail biter as a spectator. Capping it off with [Tengaku](https://osu.ppy.sh/beatmapsets/336414#osu/816327) as the tiebreaker, arguably the most infamous boss map at the time, was the icing on the cake.
+I'm gonna give the cop-out answer and give you two matches. The game that comes to mind has to be the OWC 2017 winner's bracket final, between Poland and the United States. It was (and still is) the most unexpected, ludicrous comeback I've seen in the world cup. Sure, the rule of failed scores not counting did add to the drama, but it made every map in the second half of that game a real nail-biter as a spectator. Capping it off with [Tengaku](https://osu.ppy.sh/beatmapsets/336414#osu/816327) as the tiebreaker, arguably the most infamous boss map at the time, was the icing on the cake.
 
 For the sentiment though, it has to be the most recent COE 2024 tournament in the Netherlands, where I had the honour of casting the final with [SadShiba](https://osu.ppy.sh/users/10747626). It's hard to describe how incredible it was to cast a top-level match between [Maliszewski](https://osu.ppy.sh/users/12408961) and [Criller](https://osu.ppy.sh/users/8116659), with a packed and energetic crowd in front of you reacting in real time. That was something I won't forget in a hurry.
 
@@ -187,8 +193,18 @@ As for who's taking the title? It's hard to argue against the USA keeping their 
 
 </div>
 
+## Player interview
+
+In continuation of last week's interview's by [Willy](https://osu.ppy.sh/users/3521482), a brand-new interview with [Bubbleman](https://osu.ppy.sh/users/5182050) was premiered during last weekend's Chile vs. United Kingdom, and you can check it out below!
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/muT7ASdMmZc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ---
 
-outro
+Things are getting serious, and if you haven't kept up with the osu! World Cup so far, now's your last chance to do so without missing the best teams in the world duelling it out for a chance to be crowned osu! Champions.
 
-—0x84f, Dada, this1neguy
+So, what are you waiting for? Open up the [world cup wiki](/wiki/Tournaments/OWC/2024) and check out the schedules, [lock in your pick'ems](https://pickem.hwc.hr/tournaments/158), and join us this weekend on Twitch at [osulive](https://www.twitch.tv/osulive) & [osulive_2](https://www.twitch.tv/osulive_2)!
+
+—0x84f, Dada, fieryrage, this1neguy
