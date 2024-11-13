@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2024: Round of 16 Recap"
-date: 2024-11-13 12:00:00 +0000
+date: 2024-11-14 16:00:00 +0000
 ---
 
 The first OWC elimination round has concluded — who survived, and who's going home? Tune in to find out!
@@ -30,15 +30,15 @@ You can also check out the high-effort video coverage by our own [Junihuhn](http
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2292992412&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2024-11-13-osu-world-cup-2024-round-of-16-recap/owc-2024-ro16-mappool.jpg)
+![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/owc-2024-ro16-mappool.jpg)
 
-This week's map pool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) by [Shiirn](https://osu.ppy.sh/users/465126) (DT2) and [bmin11](https://osu.ppy.sh/users/43468)'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with ChaiN De/structioN getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), and serving as speed challenge with a focus on bursts. Silent Voyage to Eternity, last seen in [OWC 2016](/wiki/Tournaments/OWC/2016)'s final stages as a Hidden pick, served as both a testament to how much players have improved since then, and a reminder that some old, remarkable scores by Chinese legend [rustbell](https://osu.ppy.sh/users/227717) [still very much stand the test of time](wiki\shared\news\2024-11-13-osu-world-cup-2024-round-of-16-recap\rustbell-old-score.jpg).
+This week's map pool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) by [Shiirn](https://osu.ppy.sh/users/465126) (DT2) and [bmin11](https://osu.ppy.sh/users/43468)'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with ChaiN De/structioN getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), and serving as speed challenge with a focus on bursts. Silent Voyage to Eternity, last seen in [OWC 2016](/wiki/Tournaments/OWC/2016)'s final stages as a Hidden pick, served as both a testament to how much players have improved since then, and a reminder that some old, remarkable scores by Chinese legend [rustbell](https://osu.ppy.sh/users/227717) [still very much stand the test of time](wiki\shared\news\2024-11-14-osu-world-cup-2024-round-of-16-recap\rustbell-old-score.jpg).
 
 Going back to the newer maps in the pool, we had some really neat customs this week. [Lasse](https://osu.ppy.sh/users/896613)'s [CLIMAX BREAKER!!](https://osu.ppy.sh/beatmapsets/2274927#osu/4847505) (FM1) focused on anti-jumps, [Yamiaka Steroid](https://osu.ppy.sh/beatmapsets/2274939#osu/4847519) by [vetoed](https://osu.ppy.sh/users/10909373) (NM4) worked as the pool's de facto reading pick, with lots of jumpy and overlapping patterns with great density, and [Selnfra](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509) by [Mattay](https://osu.ppy.sh/users/9748303) (NM2) served as a unique No Mod pick that focused on small circles and fast snaps.
 
 Finally, we had an [osu!original]((/wiki/osu!_originals)) outside the Tiebreaker slot this week, with [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s song [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) being mapped by [Megafan](https://osu.ppy.sh/users/6632605), being a unique and energetic hardstyle offering which was represented as an intense challenge of slider aim and technical streams in our Hard Rock pool.
 
-![](/wiki/shared/news/2024-11-13-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)
+![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -46,7 +46,7 @@ Finally, we had an [osu!original]((/wiki/osu!_originals)) outside the Tiebreaker
     </audio>
 </div>
 
-![](/wiki/shared/news/2024-11-13-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
+![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
 
 <div class="osu-md__paragraph">
     <audio controls>
