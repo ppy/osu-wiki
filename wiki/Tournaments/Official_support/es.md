@@ -52,7 +52,7 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
   - osu!catch: 5000
   - osu!mania: 40 000
   - Esto no se aplica a los torneos de rango abierto.
-- Los organizadores del torneo no recopilarán, permitirán el envío ni usarán ningún tipo de información personal de los participantes por ningún motivo fuera de estas excepciones definidas.
+- Los organizadores del torneo no recopilarán, permitirán el envío ni usarán ningún tipo de información personal[^personal-information] de los participantes por ningún motivo fuera de estas excepciones definidas.
   - Los organizadores del torneo podrán recopilar y usar las direcciones de correo electrónico por cualquier motivo, siempre que sea necesario para el funcionamiento del torneo.
   - La información personal puede solicitarse en caso necesario para cumplir obligaciones legales, financieras o fiscales y para llevar a cabo la entrega de premios monetarios o físicos.
   - El osu! team podrá autorizar otras excepciones a esta regla, siempre y cuando el organizador del torneo proporcione una justificación detallada a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh) mucho antes de que se recopile dicha información.
