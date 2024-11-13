@@ -185,6 +185,8 @@ Aside from the UK crew, I'm good friends with many members of team Norway, so I'
 
 As for who's taking the title? It's hard to argue against the USA keeping their streak of championships going, but it feels like that position gets more precarious each year. South Korea and Australia are making a strong case for themselves to take that crown. That said, don't count the Brits out just yet, eh?
 
+</div>
+
 ---
 
 outro
