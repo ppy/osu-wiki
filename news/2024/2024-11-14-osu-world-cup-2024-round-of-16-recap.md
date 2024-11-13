@@ -175,7 +175,7 @@ The other one was the long-awaited ditching of the rule of failed scores not cou
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-What's one match that you casted that will forever remain ingrained in your memories, what made it special to you?
+You casted *a lot* of matches in these 10 years, but is there one match that will forever remain ingrained in your memories, and if so, what made it special to you?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
@@ -189,7 +189,7 @@ For the sentiment though, it has to be the most recent COE 2024 tournament in th
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-What are your OWC predictions for this year, anyone in specific that you are rooting for besides the home country?
+Finally, what are your OWC predictions for this year, anyone in specific that you are rooting for besides the home country?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
