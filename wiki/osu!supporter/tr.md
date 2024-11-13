@@ -40,9 +40,9 @@ Satın alımı yapmak için hazır olduğunuz zaman, [mağaza sepetinize](https:
 
 ### Kullanıcı sayfası ve kullanıcı kartı
 
-![osu!supporter'lı kullanıcı sayfası](img/userpage.png?1 "osu!supporter'lı kullanıcı sayfası")
+![osu!supporter'lı kullanıcı sayfası](img/userpage.png?20241103 "osu!supporter'lı kullanıcı sayfası")
 
-![osu!supporter'lı kullanıcı kartı](img/usercard.png?2 "osu!supporter'lı kullanıcı kartı")
+![osu!supporter'lı kullanıcı kartı](img/usercard.png?20241022 "osu!supporter'lı kullanıcı kartı")
 
 osu!web'te, osu!supporter rozeti avatarınızın yanında ve kullanıcı kartınızda ülkenizin bayrağının yanında yer alır.
 

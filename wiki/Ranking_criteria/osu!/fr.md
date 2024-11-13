@@ -1,14 +1,14 @@
 ---
 no_native_review_since: ae41434f319c2db2e6b33ddffa0419b663ff039e Doryan
-outdated_since: bcccceb00e25b58f13adc7c085280d16e1f0cdfe
 outdated_translation: true
+outdated_since: 25e83fbe85484e8e4a461e1e5f862e876479eb0b
 ---
 
 # Critères de classement d'osu!
 
 ***Remarque : Cet article est une extension des [critères généraux de classement](/wiki/Ranking_criteria).***
 
-Cet ensemble de **critères de classement d'osu!** définit les [règles et directives](/wiki/Ranking_criteria#termes-courants) que les [beatmaps](/wiki/Game_mode/osu!)spécifiques à [osu!](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cet ensemble de **critères de classement d'osu!** définit les [règles et directives](/wiki/Ranking_criteria) que les [beatmaps](/wiki/Game_mode/osu!)spécifiques à [osu!](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Global
 
