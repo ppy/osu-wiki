@@ -2126,7 +2126,7 @@ client/options/keyboard_bindings:          Client/Keyboard_shortcuts
 usage_permissions:                         Rules/Content_usage_permissions
 rules/content_usage_guidelines:            Rules/Content_usage_permissions
 
-# PENDING PULL REQUEST NUMBER
+# moved in #12441
 
 silence:                                   Help_Centre/Silence
 

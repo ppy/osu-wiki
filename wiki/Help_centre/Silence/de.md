@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
+---
+
 # Stummschaltung
 
 Eine **Stummschaltung** (auch *Silence* genannt) ist eine Strafe, bei der einem Spieler die Kommunikation innerhalb der osu!-Community verwehrt wird. Stummschaltungen können durch Mitglieder des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team) und des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) festgelegt werden und werden nur gegen Spieler verhängt, die gegen die [Community-Regeln](/wiki/Rules) verstoßen haben.
@@ -5,7 +10,7 @@ Eine **Stummschaltung** (auch *Silence* genannt) ist eine Strafe, bei der einem 
 ## Beschränkungen
 
 ::: Infobox
-![](img/silence-profile.png "Eintrag einer Stummschaltung auf der Profilseite")
+![](img/silence-profile-DE.png "Eintrag einer Stummschaltung auf der Profilseite")
 :::
 
 Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nicht machen:
@@ -26,7 +31,7 @@ Des Weiteren werden alle Nachrichten eines stumm geschalteten Spielers aus allen
 
 Nachdem ein Nutzer stumm geschaltet wurde, wird eine Warnung anstelle der Chateingabe angezeigt, die anmerkt, wann die Stummschaltung vorbei ist. Der Eintrag der Stummschaltung kann auch am unteren Ende des Profils auf der Webseite eingesehen werden. Dort wird dieser nach 28 Tagen verschwinden.
 
-## Einer Stummschaltung widersprechen
+## Eine Stummschaltung widersprechen
 
 Wenn du glaubst, mit Unrecht stumm geschaltet worden zu sein, dann kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#accounts@ppy.sh) via [accounts@ppy.sh](mailto:accounts@ppy.sh), um die Stummschaltung anzufechten. Stelle sicher, dass du die mit deinem osu!-Account verknüpfte E-Mail-Adresse verwendest. Erwähne deinen osu!-Benutzernamen sowie das Datum und die ungefähre Zeit, als die Stummschaltung vergeben wurde.
 
