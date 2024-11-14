@@ -10,16 +10,16 @@ Calling all Circle Clickers to Poland! For the third iteration of KEL Tournament
 
 KEL3 is a **2-day LAN** tournament at **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience
 
-Depending on amount of **accepted invites** by **special guests**, only **certain amount** of people will **qualify** to the tournament.
+Depending on amount of accepted invites by special guests, only certain amount of people will qualify to the tournament.
 ***Travel and Accommodation expenses are the responsibility of participants and are not covered by the hosts.***
 
-[**Signups**](https://forms.gle/Kgzww5LPQuwiJMBTA) are open and will run until the **2nd of December**.
+[Signups](https://forms.gle/Kgzww5LPQuwiJMBTA) are open and will run until the **2nd of December**.
 
-Qualifiers will take place **online** between **4th–18th December**.
+Qualifiers will take place online between **4th–18th December**.
 
 **If you signed up for the tournament, you need to join the [Discord](https://discord.com/invite/TSgMXsaZRR)!**
 
-This **2-day event** during **February 8th-9th** features a major tournament alongside bundle of side events, all streamed from the [**KEL3**](https://www.twitch.tv/kinguin_lounge) Twitch channel!
+This 2-day event during **February 8th-9th** features a major tournament alongside bundle of side events, all streamed from the [KEL3](https://www.twitch.tv/kinguin_lounge) Twitch channel!
 
 ## Schedule
 
