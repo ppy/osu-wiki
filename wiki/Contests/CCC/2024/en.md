@@ -73,17 +73,14 @@ The **Chinese Charting Contest 2024** (***CCC2024***) was an osu!mania mapping c
 
 - **This contest is limited to the `osu!mania` mode only.**
 - **This contest is exclusively for Chinese players, including those with the flags of ::{ flag=CN }:: Chinese mainland, ::{ flag=HK }:: Hong Kong, ::{ flag=MO }:: Macao, and ::{ flag=TW }:: Taiwan.** If a player's flag is not one of the four listed but they are still eligible, participation is allowed with proof of eligibility.
-
 - **Only account valid for logging into the [Mappers' Guild](https://mappersguild.com) are allowed.**
 - **Submissions must be in the `.osz` format.**
 - **All submissions must be readable and loadable by the osu! client.**
 - **Submissions must be in `4K`, `5K`, `6K`, or `7K` key modes.** Other key modes, including n+1 playstyles, are not accepted.
-
 - **Beatmap mapping process should be based on [Ranking Criteria](/wiki/Ranking_criteria/osu!mania).** While it is not compulsory to follow the Ranking Criteria strictly, the beatmap should use the Ranking Criteria as a fundamental reference, or this will affect the final score.
-
 - **Videos, Skins, Storyboards and Hitsounds are NOT allowed.**
 - **Title, Artist, MP3, Source, Tags, Background and Preview Point must NOT be modified.**
-- - **Submissions must be created solely by the participant.** Collaborations are not allowed for this contest.
+- **Submissions must be created solely by the participant.** Collaborations are not allowed for this contest.
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
 - **Submission of an entry indicates full understanding and agreement of all rules provided above.**
 
@@ -92,7 +89,6 @@ The **Chinese Charting Contest 2024** (***CCC2024***) was an osu!mania mapping c
 - **Musical Representation (30 points):** How the beatmap expresses the song through overall layering, patterning, and structure, appropriately interpreting elements such as instruments, melodies, sounds, and rhythms, etc.
 - **Creativity (30 points):** How innovative the beatmap is throughout the design of the map itself, including unique structural arrangement, logical changes, and technique presentation.
 - **Playability (30 points):** How the beatmap provides a consistent playing, visual, and entertainment experience for players while maintaining a reasonable difficulty curve.
-
 - **Judges' Impression (10 points):** This portion of the score is based on the judges' personal preferences regarding the submission or factors not related to the three criteria mentioned above.
 
 Jugde's score will be standardized, check the formula in Mappers' Guild wrote: *judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation*
