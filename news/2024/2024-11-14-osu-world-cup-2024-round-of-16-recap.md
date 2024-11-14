@@ -173,7 +173,7 @@ As their 10-year anniversary as a commentator for the world cups is upcoming, it
 
 As someone who has participated in OWC for 10 years now either as a player or a commentator, what are the biggest changes that stuck around in your mind even after your extended tenure?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
@@ -187,7 +187,7 @@ The other one was the long-awaited ditching of the rule of failed scores not cou
 
 You casted *a lot* of matches in these 10 years, but is there one match that will forever remain ingrained in your memories, and if so, what made it special to you?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
@@ -201,7 +201,7 @@ For the sentiment though, it has to be the most recent COE 2024 tournament in th
 
 Finally, what are your OWC predictions for this year, anyone in specific that you are rooting for besides the home country?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
