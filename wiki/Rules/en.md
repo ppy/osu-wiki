@@ -58,7 +58,7 @@ These bad things may include (*but are not limited to*):
 
 [Silences](/wiki/Silence) and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offence — repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
-Certain offences carry a minimum duration (usually 42 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
+Certain offences carry a minimum duration (usually 43 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
 If after several infringements you continue to break the rules, your account may be [permanently and irrevocably restricted](/wiki/Help_centre/Account_restrictions).
 

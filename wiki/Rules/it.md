@@ -63,7 +63,7 @@ Queste cose brutte possono includere (*ma non sono limitate a*):
 
 Venir [Silenziato](/wiki/Silence) e altre violazioni **automaticamente** aumentano in durata quasi esponenziale con ogni violazione. I moderatori non controllano il periodo di tempo in cui sei messo a tacere per un reato - i recidivi si ritroveranno chiusi fuori dal gioco per periodi di tempo sempre più lunghi.
 
-Alcuni reati hanno una durata minima (in genere 42 ore o più) se sono particolarmente severi, sebbene siano quasi esclusivamente riservati a gravi infrazioni, come la condivisione di contenuti grafici o molestie incessanti di altri utenti.
+Alcuni reati hanno una durata minima (in genere 43 ore o più) se sono particolarmente severi, sebbene siano quasi esclusivamente riservati a gravi infrazioni, come la condivisione di contenuti grafici o molestie incessanti di altri utenti.
 
 Se dopo diverse infrazioni continui a violare le regole, il tuo account potrebbe essere [permanentemente e irrevocabilmente ristretto](/wiki/Help_centre/Account_restrictions).
 

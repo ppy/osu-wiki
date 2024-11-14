@@ -58,7 +58,7 @@ Estas cosas malas pueden incluir (*pero no están limitadas a*):
 
 Los [silencios](/wiki/Silence) y otras infracciones **aumentan automáticamente** su duración de forma casi exponencial con cada infracción. Los moderadores no controlan la duración del silencio por una infracción, los infractores reincidentes se encontrarán bloqueados del juego durante periodos de tiempo cada vez más largos.
 
-Ciertas infracciones conllevan una duración mínima (normalmente 42 horas o más) si son especialmente graves, aunque se reservan casi exclusivamente para infracciones graves, como compartir contenido gráfico o acosar sin remordimientos a otros usuarios.
+Ciertas infracciones conllevan una duración mínima (normalmente 43 horas o más) si son especialmente graves, aunque se reservan casi exclusivamente para infracciones graves, como compartir contenido gráfico o acosar sin remordimientos a otros usuarios.
 
 Si tras varias infracciones sigues incumpliendo las reglas, tu cuenta puede ser [restringida de forma permanente e irrevocable](/wiki/Help_centre/Account_restrictions).
 

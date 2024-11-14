@@ -63,7 +63,7 @@ Diese schlechten Dinge umfassen unter anderem (nicht nur):
 
 [Stummschaltungen](/wiki/Silence) und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
 
-Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 42 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
+Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 43 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
 
 Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account [permanent und unwiderruflich gesperrt werden](/wiki/Help_centre/Account_restrictions).
 

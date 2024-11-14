@@ -63,7 +63,7 @@ Những điều không hay đấy bao gồm (*nhưng không giới hạn ở*):
 
 [Im lặng](/wiki/Silence) và các vi phạm khác **tự động** tăng thời lượng gần như theo cấp số nhân với mỗi lần vi phạm. Kiểm duyệt viên không thể điều chỉnh thời hạn bạn bị buộc im lặng sau mỗi lần vi phạm — những ai vi phạm liên tục sẽ bị cấm chơi trong khoảng thời gian dài.
 
-Một vài vi phạm có lượng thời gian phạt tối thiểu (thường là 42 tiếng trở lên) nếu nó mang tính nghiêm trọng, chủ yếu dành cho những lỗi vi phạm như chia sẻ nội dung không lành mạnh hoặc liên tục quấy rối người chơi khác.
+Một vài vi phạm có lượng thời gian phạt tối thiểu (thường là 43 tiếng trở lên) nếu nó mang tính nghiêm trọng, chủ yếu dành cho những lỗi vi phạm như chia sẻ nội dung không lành mạnh hoặc liên tục quấy rối người chơi khác.
 
 Nếu sau vài lần vi phạm mà bạn vẫn tiếp tục phá vỡ luật lệ, tài khoản của bạn có thể bị [giới hạn vĩnh viễn và không thể thay đổi](/wiki/Help_centre/Account_restrictions).
 

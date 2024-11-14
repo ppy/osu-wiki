@@ -20,7 +20,7 @@ Ces règles sont les bases à partir de laquelle nous contribuons à faire de la
 
 1. **Soyez respectueux et attentif aux autres utilisateurs du canal, et évitez le flooding ou le spamming.** Une personne qui occupe la moitié de l'écran en même temps est ennuyeuse, alors évitez de le faire autant que possible. D'autres personnes essaient aussi de discuter !
 2. **Laissez les modérateurs gérer les problèmes dans les tchats.** Vous pouvez leur signaler certaines choses avec [la commande `!report`](/wiki/Reporting_bad_behaviour) et ils s'occuperont du reste.
-3. **Si quelqu'un se voit imposer un mute, un silence ou une restriction, laissez-le tranquille et ne commencez pas à parler de lui.** Si quelqu'un est soumis à des restrictions, son cas n'implique que lui et l'administration du jeu - et personne d'autre !
+3. **Si quelqu'un se voit imposer un silence ou une restriction, laissez-le tranquille et ne commencez pas à parler de lui.** Si quelqu'un est soumis à des restrictions, son cas n'implique que lui et l'administration du jeu - et personne d'autre !
 4. **Encouragez le fair-play et ne prêtez pas attention aux tricheurs ou autres utilisateurs toxiques.** Ces personnes existent malheureusement, et leur accorder de l'attention peut les encourager à continuer, ou inciter d'autres personnes à agir comme elles. Signalez-les à l'aide de la commande `!report` ou des boutons sur leur page de profil et passez à autre chose.
 5. **Veillez à ce que le tchat reste propre et approprié pour une communauté de tous âges, en évitant autant que possible les sujets NSFW.** Les contenus NSFW ne sont pas appropriés pour une communauté de tout âges. Faites ce que vous voulez dans les messages privés (dans la limite du raisonnable) mais gardez les canaux publics propres pour le bien de tous.
 6. **Faites attention à ce que vous partagez avec d'autres personnes, surtout si le contenu est potentiellement dérangeant ou de nature très graphique.** Si vous devez réfléchir à deux fois pour savoir si un lien est approprié, c'est qu'il ne l'est probablement pas. Évitez les images rapides, les lumières stroboscopiques, le gore, les images d'abus ou tout autre matériel graphique.
@@ -62,7 +62,7 @@ Ces mauvaises choses peuvent inclure (*mais ne sont pas limitées à*) :
 
 Les [silences](/wiki/Silence) et autres infractions augmentent **automatiquement** leur durée de manière quasi exponentielle à chaque infraction. Les modérateurs ne contrôlent pas la durée du silence qui vous est imposé pour une infraction. Les récidivistes se verront exclus du jeu pour des périodes de plus en plus longues.
 
-Certaines infractions sont assorties d'une durée minimale (généralement 42 heures ou plus) si elles sont particulièrement graves, mais elles sont presque exclusivement réservées aux infractions graves, telles que le partage de contenu graphique ou le harcèlement impénitent d'autres utilisateurs.
+Certaines infractions sont assorties d'une durée minimale (généralement 43 heures ou plus) si elles sont particulièrement graves, mais elles sont presque exclusivement réservées aux infractions graves, telles que le partage de contenu graphique ou le harcèlement impénitent d'autres utilisateurs.
 
 Si, après plusieurs infractions, vous continuez à enfreindre les règles, votre compte peut être [définitivement et irrévocablement restreint](/wiki/Help_centre/Account_restrictions).
 

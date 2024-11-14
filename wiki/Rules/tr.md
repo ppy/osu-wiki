@@ -62,7 +62,7 @@ Kötü sonuçlar, *aşağıdakilerle sınırlı kalmamakla beraber*, şunları i
 
 Susturulma cezaları ve diğer kural ihlallerin süresi **otomatik olarak** her seferinde katlanarak artar. Moderatörler aldığınız cezanın süresini kontrol etmez – kuralları sürekli çiğneyenler kendilerini giderek artan uzun süreler boyunca oyuna giremez halde bulurlar.
 
-Birtakım kural ihlalleri özellikle ağır olması halinde belirli bir asgari süre (genellikle 48 saat veya daha fazla) bulundururlar, lakin bu cezalar çoğunlukla, müstehcen içerik paylaşmak, başkalarına devamlı zorbalık yapmak gibi, yalnızca çok ağır suçlara mahsustur.
+Birtakım kural ihlalleri özellikle ağır olması halinde belirli bir asgari süre (genellikle 43 saat veya daha fazla) bulundururlar, lakin bu cezalar çoğunlukla, müstehcen içerik paylaşmak, başkalarına devamlı zorbalık yapmak gibi, yalnızca çok ağır suçlara mahsustur.
 
 Eğer birçok kez kuralları ihlal etmenize rağmen yine de kuralları çiğnemeye devam ederseniz, hesabınız süresiz ve geri alınamaz bir şekilde kısıtlanabilir.
 
