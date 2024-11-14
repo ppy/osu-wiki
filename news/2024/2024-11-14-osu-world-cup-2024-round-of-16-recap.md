@@ -36,7 +36,7 @@ This week's map pool had a unique twist, with some of the picks being throwbacks
 
 Going back to the present times, we had some awesome custom maps in the pool this week. [Lasse](https://osu.ppy.sh/users/896613)'s [CLIMAX BREAKER!!](https://osu.ppy.sh/beatmapsets/2274927#osu/4847505) (FM1) focused on anti-jumps, [Yamiaka Steroid](https://osu.ppy.sh/beatmapsets/2274939#osu/4847519) by [vetoed](https://osu.ppy.sh/users/10909373) (NM4) worked as the pool's de facto reading pick with lots of jumpy and overlapping patterns with great density mixed, and [Selnfra](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509) by [Mattay](https://osu.ppy.sh/users/9748303) (NM2) served as a unique No Mod pick that focused on small circles and fast snaps.
 
-Finally, we had an [osu! original](/wiki/osu!_originals) outside the Tiebreaker slot this week, with [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) by [Megafan](https://osu.ppy.sh/users/6632605) being an energetic hardstyle song represented as an intense challenge of slider aim and technical streams in our Hard Rock pool.
+---
 
 ![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)
 
@@ -73,7 +73,23 @@ Finally, we had an [osu! original](/wiki/osu!_originals) outside the Tiebreaker 
     }
 </style>
 
-This week's tiebreaker, [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546) by [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98), caught the eyes of many with fine craftsmanship throughout the entire beatmap. In between the usual love and care put into every original with original artwork and storyboarding, the map also had plenty of lore within, containing myriad references to the world cup staff, unique dialogue and much more. Originally conceived by [Azer](https://osu.ppy.sh/users/2155578) and with finer details added by [mangomizer](https://osu.ppy.sh/users/1893718), the combined creativity of them both brought this osu! original a step forward and polished it into a fine piece of art, and Azer was kind enough to share some insight into how it was made:
+Finally, we had an [osu! original](/wiki/osu!_originals) outside the tiebreaker slot this week, with [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) by [Megafan](https://osu.ppy.sh/users/6632605) being an energetic hardstyle song represented as an intense challenge of slider aim and technical streams in our Hard Rock pool.
+
+![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_AJITAMA_Adventure_OST.mp3">
+    </audio>
+</div>
+
+This week's tiebreaker, [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546) by [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98), caught the eyes of many with indubitable craftsmanship.
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/UJwkUiu5Bbo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+In between the usual love and care put into every original with original artwork and storyboarding, the map also had plenty of lore within, containing myriad references to the world cup staff, unique dialogue and much more. Originally conceived by [Azer](https://osu.ppy.sh/users/2155578) and with finer details added by [mangomizer](https://osu.ppy.sh/users/1893718), the combined creativity of them both brought this osu! original a step forward and polished it into a fine piece of art, and Azer was kind enough to share some insight into how it was made:
 
 <div class="news-chat-quote__text-container">
 
@@ -89,14 +105,6 @@ Referenced by name in the storyboard are Leo the Civilian ([LeoFLT](https://osu.
 
 Personally, I think a large amount of staff members that are vital to the success of our event don't really get a lot of public exposure/appreciation, and while we have some other smaller ways to fit those people in somewhere, this was a golden opportunity to immortalize them into a product that they've spent so much passion and effort into. I would particularly like to thank [VenerableNyanta](https://osu.ppy.sh/users/12243368) for going through the extra effort of adding our silly jokes and references quickly, and I'm very happy that it was well received! Thank you all for showing appreciation for this storyboard.
 
-</div>
-
-![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
-
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_AJITAMA_Adventure_OST.mp3">
-    </audio>
 </div>
 
 ## Round of 16 summary
