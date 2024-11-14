@@ -573,7 +573,7 @@ Sunday, 3 March 2024:
 
 | Stage | Format | Beatmaps |
 | :-- | :-- | :-- |
-| Qualifiers | - | 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime | 
+| Qualifiers | N/A | 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime |
 | Round of 64, Round of 32 & Round of 16 | Best of 9, 1 ban | 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 1 Mystery, 1 tiebreaker |
 | Quarterfinals | Best of 11, 1 ban | 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 Mystery, 1 tiebreaker |
 | Semifinals | Best of 11, 2 bans | 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 Mystery, 1 tiebreaker |
