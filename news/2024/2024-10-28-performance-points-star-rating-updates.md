@@ -6,7 +6,7 @@ date: 2024-10-28 11:16:34 +0000
 
 The time for change is finally here!
 
-![](/wiki/shared/news/banners/pp-sr-pippi.jpg?4)
+![](/wiki/shared/news/banners/pp-sr-pippi.jpg)
 
 There are changes to all game modes this time around in an effort to improve the difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 

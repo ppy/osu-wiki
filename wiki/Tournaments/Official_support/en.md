@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on August 17, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on November 12, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -48,6 +48,14 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - osu!catch: 5,000
   - osu!mania: 40,000
   - This does not apply to open rank tournaments.
+- The tournament organisers do not collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions.
+  - Email addresses may be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
+  - Personal information may be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
+  - Other exceptions to this rule may be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
+- In cases where **any** personal information is collected from registrants for any reason, tournament organisers must include a privacy policy on the tournament's forum post and/or wiki page detailing the following:
+  - Any users, organisations, or other entities who can view this information.
+  - How the information will be stored and processed.
+  - What the information will be used for.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
   - Any tournaments held as preliminary events leading into a main competition must adhere to the same [expectations](#expectations) as standalone tournaments.
 
@@ -292,3 +300,4 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 ## Notes
 
 [^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
+[^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
