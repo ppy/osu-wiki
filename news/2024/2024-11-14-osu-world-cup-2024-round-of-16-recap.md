@@ -130,7 +130,7 @@ Let's move onto the highlight matches of the week!
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18?start=136&end=300" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Heading into this week, many a sharp eye was turned to the winners' bracket matchup between the Russian Federation and China. For Russia, it was an opportunity to reach the Quarterfinals for the fourth year in a row; meanwhile, China was looking to turn the tables after getting swept by Russia last year, and get past the Round of 16.
+Heading into this week, many a sharp eye was turned to the winners' bracket matchup between the Russian Federation and China. For Russia, it was an opportunity to reach the Quarterfinals for the fourth year in a row; meanwhile, China was looking to turn the tables on old foes Russia, who swept them 5-0 back in 2021, to reach the Quarterfinals for the first time since 2020.
 
 Both teams came out of the gates firing on all cylinders; China's first pick of [DT3](https://osu.ppy.sh/beatmapsets/1778687#osu/3642792) showcased one of the closest maps of the entire match, tightly contested all the way en route to a last-second China win by 42,537 points. Unfazed, Russia picked into their strength in the speed skill set, locking in [DT2](https://osu.ppy.sh/beatmapsets/49071#osu/154165) for a comfortable win. China backed up their DT3 win with a dominating performance on their second pick, [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094), winning by over a million points and making the score 2–1 in their favour.
 
@@ -151,7 +151,7 @@ Tiebreakers have long been a sore spot for Russia. They were eliminated from eac
 
 Spain vs. Finland ended up being the star match in the loser's bracket last weekend — the only other match besides Russia vs. China that went down to the wire. The matchup was on an even playing field both seeding and skill-wise, which made for an extremely exciting match where only one pick brought a decisive victory with an 800k point difference for team Spain on NM3.
 
-Both teams were extremely confident in their strategies which ended up in a match where no breakpoints whatsoever occurred, the closest it got was during team Finland's [HD1](https://osu.ppy.sh/beatmapsets/2009101#osu/4179715) pick, ending with a razor-thin 71k difference between both teams. Some standout carry performances include ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)'s 5x100 No Mod FC on [FM2](https://osu.ppy.sh/beatmapsets/14309#osu/115384), and ::{ flag=ES }:: [creator](https://osu.ppy.sh/users/13962152)'s FC on [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094) and near-FC on [HR2](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) that secured the tiebreaker for team Spain.
+Both teams were extremely confident in their strategies, which led to in a match where zero break points occurred; the closest to one was team Finland's [HD1](https://osu.ppy.sh/beatmapsets/2009101#osu/4179715) pick, ending with a razor-thin 71k difference between both teams. Some standout carry performances included ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)'s 5x100 hidden FC on [FM2](https://osu.ppy.sh/beatmapsets/14309#osu/115384), and ::{ flag=ES }:: [creator](https://osu.ppy.sh/users/13962152)'s FC on [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094) and near-FC on [HR2](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) that secured the tiebreaker for team Spain.
 
 Quite a bit was riding on this match for both teams: Spain hadn't won an OWC match since 2016 (in fact, this was their best scoreline since 2018's group stage), while Finland hadn't missed a Quarterfinals weekend in OWC since 2019. Unfortunately for Spain, this Cinderella comeback story was not meant to be, as they fell to Finland on the tiebreaker by 90k points. However, Spain has definitely proved themselves to be a capable contender in future World Cups — keep an eye out for them!
 
@@ -173,7 +173,7 @@ As their 10-year anniversary as a commentator for the world cups is upcoming, it
 
 As someone who has participated in OWC for 10 years now either as a player or a commentator, what are the biggest changes that stuck around in your mind even after your extended tenure?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
@@ -187,7 +187,7 @@ The other one was the long-awaited ditching of the rule of failed scores not cou
 
 You casted *a lot* of matches in these 10 years, but is there one match that will forever remain ingrained in your memories, and if so, what made it special to you?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
@@ -201,7 +201,7 @@ For the sentiment though, it has to be the most recent COE 2024 tournament in th
 
 Finally, what are your OWC predictions for this year, anyone in specific that you are rooting for besides the home country?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
