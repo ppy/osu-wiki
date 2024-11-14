@@ -111,15 +111,15 @@ Personally, I think a large amount of staff members that are vital to the succes
 
 ## Round of 16 summary
 
-The Round of 16 weekend has been jam-packed full of exciting matches, with teams both fighting for their survival, and trying to keep the coveted winners bracket spots. Unfortunately the following teams have been eliminated, and have bid farewell to the world cup stage — ::{ flag=AR }:: Argentina, ::{ flag=AT }:: Austria, ::{ flag=BY }:: Belarus, ::{ flag=KZ }:: Kazakhstan, ::{ flag=MY }:: Malaysia, ::{ flag=PE }:: Peru, ::{ flag=SG }:: Singapore, and ::{ flag=ES }:: Spain.
+The Round of 16 weekend has been jam-packed full of exciting matches, with teams both fighting for their survival, and trying to keep the coveted winners' bracket spots. Unfortunately, the following teams have been eliminated, and we have to bid them farewell from the world cup stage: ::{ flag=AR }:: Argentina, ::{ flag=AT }:: Austria, ::{ flag=BY }:: Belarus, ::{ flag=KZ }:: Kazakhstan, ::{ flag=MY }:: Malaysia, ::{ flag=PE }:: Peru, ::{ flag=SG }:: Singapore, and ::{ flag=ES }:: Spain.
 
-Checking out the winners bracket, we can see that it's been purged of everything but the elite, with the top 10 seeds completely occupying the bracket. As its membership continues to be halved each week, we can look forward to some great matches coming from these titans as they fight each other for supremacy in the upcoming Quarterfinals this weekend!
+Over on winners' bracket, we can see that it's been purged of everything but the elite, with the top 10 seeds completely occupying the remaining spots. As teams continue to be halved each week, we can look forward to some great matches coming from these titans as they fight each other for supremacy in the upcoming Quarterfinals this weekend!
 
-Speaking of the top 10 seeds matching up, we got to see a glimpse of what those matches will look like with ::{ flag=CL }:: Chile (#7) vs. ::{ flag=GB }:: United Kingdom (#10), a match that garnered uncertainty in regard to its results with a 34/67 [pick'em](https://pickem.hwc.hr/tournaments/158) voting split in favour of the United Kingdom. The match was filled with break points, but in the end the United Kingdom pulled through, did not ruin people's pick'ems, and got away with a score of 5–3.
+Speaking of the top 10 seeds matching up, we got to see a glimpse of what those matches will look like with ::{ flag=CL }:: Chile (#7) vs. ::{ flag=GB }:: United Kingdom (#10), a match that garnered uncertainty in regard to its results with a 34/67 split in favour of the United Kingdom on the [pick'em](https://pickem.hwc.hr/tournaments/158) votings. The match was filled with break points, but in the end, the United Kingdom pulled through, did not ruin people's pick'ems, and got away with a score of 5–3.
 
-Continuing on with the pick'ems, in general the community had clear expectations, with no major upsets swindling players from their points. ::{ flag=SG }:: Singapore (#28) vs. ::{ flag=TH }:: Thailand (#21) and ::{ flag=HK }:: Hong Kong (#8) vs. ::{ flag=PH }:: Philippines (#9) matches ended in decisive scores of 5–2 and 5–1 respectively, despite the community voting ending in an almost even 50/50 split on both of them.
+Continuing on with the pick'ems, the community had clear expectations in general, with no major upsets swindling players from their points. The matches of ::{ flag=SG }:: Singapore (#28) vs. ::{ flag=TH }:: Thailand (#21) and ::{ flag=HK }:: Hong Kong (#8) vs. ::{ flag=PH }:: Philippines (#9) ended in decisive scores of 5–2 and 5–1 respectively, despite the community appraising an almost even 50/50 split on both of them.
 
-Let's move onto the highlight matches of the week!
+However, let's not dawdle any further, and instead move onto the highlight matches of the week!
 
 ### ::{ flag=RU }:: Russian Federation vs. ::{ flag=CN }:: China
 
@@ -130,15 +130,15 @@ Let's move onto the highlight matches of the week!
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18?start=136&end=300" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Heading into this week, many a sharp eye was turned to the winners' bracket matchup between the Russian Federation and China. For Russia, it was an opportunity to reach the Quarterfinals for the fourth year in a row; meanwhile, China was looking to turn the tables on old foes Russia, who swept them 5-0 back in 2021, to reach the Quarterfinals for the first time since 2020.
+Heading into the week, many a sharp eye was turned to the winners' bracket matchup between the Russian Federation and China. For Russia, it was an opportunity to reach the Quarterfinals for the fourth year in a row; meanwhile, China was looking to turn the tables on old foe Russia, who swept them 5-0 back in 2021, to reach the Quarterfinals for the first time since 2020.
 
 Both teams came out of the gates firing on all cylinders; China's first pick of [DT3](https://osu.ppy.sh/beatmapsets/1778687#osu/3642792) showcased one of the closest maps of the entire match, tightly contested all the way en route to a last-second China win by 42,537 points. Unfazed, Russia picked into their strength in the speed skill set, locking in [DT2](https://osu.ppy.sh/beatmapsets/49071#osu/154165) for a comfortable win. China backed up their DT3 win with a dominating performance on their second pick, [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094), winning by over a million points and making the score 2–1 in their favour.
 
 The first break point would come from a surprising source: Russia picked the tapping-focused FM3 map, but they stumbled badly, something that China took advantage of as ::{ flag=CN }:: [lolol233](https://osu.ppy.sh/users/11375105) led the way to a win and a 3–1 lead. Their advantage would be short-lived, as China faltered on [NM2](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509), followed by another massive Russian win on their own [HR2](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) pick to tie the match at 3 points apiece, leaving each team with one pick.
 
-China selected the remaining hidden map Escape for their last pick, but it backfired in the worst possible way as Russia won in dominant fashion to earn a match point at 4–3. For their final pick, Russia selected [DT1](https://osu.ppy.sh/beatmapsets/1126545#osu/2353845), and what ensued was a nail-biter. China held a narrow lead through much of the map, but into the ending Russia held a combo advantage as seconds counted down; a 200,000 point lead became 100,000, then 50,000, then 15,000 points as the final spinner appeared, but time ran out on Russia as China pulled off a break point to force the tiebreaker.
+China selected the remaining hidden map [Escape](https://osu.ppy.sh/beatmapsets/2009101#osu/4179715) for their last pick, but it backfired in the worst possible way as Russia won in dominant fashion to earn a match point at 4–3. For their final pick, Russia selected [DT1](https://osu.ppy.sh/beatmapsets/1126545#osu/2353845), and what ensued was a nail-biter. Seconds counted down as Russia's combo crept up on China's lead, yet time ran out, with China pulling through and forcing the tiebreaker.
 
-Tiebreakers have long been a sore spot for Russia. They were eliminated from each of the last three World Cup iterations via tiebreaker (and in fact hadn't won a tiebreaker **since 2011**), so they had to break their streak of tiebreaker losses to continue in the winners bracket. As a battle raged on in [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546)'s storyboard, another one also raged between the two teams. When the dust finally settled, it was Russia that emerged victorious by a margin of just 102,726 points. With their spot in the Quarterfinals secured, the Russian roster could breathe a sigh of relief.
+Tiebreakers have long been a sore spot for Russia. They were eliminated from each of the last three World Cup iterations via tiebreaker (and in fact hadn't won a tiebreaker **since 2011**), so they had to break their streak of tiebreaker losses to continue in the winners' bracket. As a battle raged on in [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546)'s storyboard, another one also raged between the two teams. When the dust finally settled, it was Russia that emerged victorious by a margin of just 102,726 points. With their spot in the Quarterfinals secured, the Russian roster could breathe a sigh of relief.
 
 ### ::{ flag=ES }:: Spain vs. ::{ flag=FI }:: Finland
 
@@ -149,11 +149,11 @@ Tiebreakers have long been a sore spot for Russia. They were eliminated from eac
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18?start=1132&end=1296" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Spain vs. Finland ended up being the star match in the loser's bracket last weekend — the only other match besides Russia vs. China that went down to the wire. The matchup was on an even playing field both seeding and skill-wise, which made for an extremely exciting match where only one pick brought a decisive victory with an 800k point difference for team Spain on NM3.
+Spain vs. Finland ended up being the star match in the losers' bracket last weekend — the only other match besides Russia vs. China that went down to the wire. The matchup was on an even playing field with both seed and skill considered, which made for an extremely exciting match where only one pick brought a decisive victory with an 800k-point difference for team Spain on [NM3](https://osu.ppy.sh/beatmapsets/2274931#osu/4847511).
 
-Both teams were extremely confident in their strategies, which led to in a match where zero break points occurred; the closest to one was team Finland's [HD1](https://osu.ppy.sh/beatmapsets/2009101#osu/4179715) pick, ending with a razor-thin 71k difference between both teams. Some standout carry performances included ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)'s 5x100 hidden FC on [FM2](https://osu.ppy.sh/beatmapsets/14309#osu/115384), and ::{ flag=ES }:: [creator](https://osu.ppy.sh/users/13962152)'s FC on [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094) and near-FC on [HR2](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) that secured the tiebreaker for team Spain.
+Both teams were extremely confident in their strategies, which led to a match where zero break points occurred; the closest to one was team Finland's [HD1](https://osu.ppy.sh/beatmapsets/2009101#osu/4179715) pick, ending with a razor-thin 71k difference between both teams. Some standout carry performances included ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)'s 5x100 Hidden FC on [FM2](https://osu.ppy.sh/beatmapsets/14309#osu/115384), and ::{ flag=ES }:: [creator](https://osu.ppy.sh/users/13962152)'s FC on [HD2](https://osu.ppy.sh/beatmapsets/1739433#osu/3555094) and near-FC on [HR2](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) that secured the tiebreaker for team Spain.
 
-Quite a bit was riding on this match for both teams: Spain hadn't won an OWC match since 2016 (in fact, this was their best scoreline since 2018's group stage), while Finland hadn't missed a Quarterfinals weekend in OWC since 2019. Unfortunately for Spain, this Cinderella comeback story was not meant to be, as they fell to Finland on the tiebreaker by 90k points. However, Spain has definitely proved themselves to be a capable contender in future World Cups — keep an eye out for them!
+Quite a bit was riding on this match for both teams: Spain hadn't won an OWC match since 2016 (in fact, this was their best scoreline since 2018's Group Stage), while Finland hadn't missed a Quarterfinals weekend in OWC since 2019. Unfortunately for Spain, this Cinderella comeback story was not meant to be, as they fell to Finland on the tiebreaker by 90k points. However, Spain has definitely proved themselves to be a capable contender in future World Cups — keep an eye out for them!
 
 ## Commentating throughout the years
 
@@ -161,9 +161,9 @@ Quite a bit was riding on this match for both teams: Spain hadn't won an OWC mat
 
 ![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/doomsday.png)
 
-If you stuck around the osu! community for any length of time throughout osu!'s existence, you will be aware of who [Doomsday](https://osu.ppy.sh/users/18983) is. Top player, content creator, contributor, tournament player, commentator, they've done it all throughout their 16 years as a community member.
+If you stuck around the osu! community for any length of time throughout osu!'s existence, you will be aware of who [Doomsday](https://osu.ppy.sh/users/18983) is. Top player, content creator, contributor, tournament player, commentator — they've done it all throughout their 16 years as a community member.
 
-As their 10-year anniversary as a commentator for the world cups is upcoming, it's only fair to check out how they feel about the changes in the world cup throughout the years, talk about some cherished moments, and maybe even get some hot tips in regard to this year's winning team.
+As their 10-year anniversary as a commentator for the world cups is closing in, it's only fair to check out how they feel about the changes in the world cup throughout the years, talk about some cherished moments, and maybe even get some hot predictions regarding this year's winning team.
 
 <div class="news-chat-quote__text-container">
 
@@ -199,7 +199,7 @@ For the sentiment though, it has to be the most recent COE 2024 tournament in th
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-Finally, what are your OWC predictions for this year, anyone in specific that you are rooting for besides the home country?
+Finally, what are your OWC predictions for this year — anyone in specific that you are rooting for besides the home country?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
