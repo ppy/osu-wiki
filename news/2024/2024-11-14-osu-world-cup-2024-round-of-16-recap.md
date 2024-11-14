@@ -10,7 +10,7 @@ The first OWC elimination round has concluded — who survived, and who's going 
 
 This past weekend marked the start of the first elimination round, and ended with eight fewer teams competing for the main prize. The show must go on though, so let's jump right into the Round of 16 recap!
 
-You can also check out the high-effort video coverage by our own [Junihuhn](https://osu.ppy.sh/users/4182339) below!
+Just like last time, you can also check out the high-effort video coverage by [Junihuhn](https://osu.ppy.sh/users/4182339) below!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18" frameborder="0" allowfullscreen></iframe>
@@ -32,9 +32,11 @@ You can also check out the high-effort video coverage by our own [Junihuhn](http
 
 ![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/owc-2024-ro16-mappool.jpg)
 
-This week's map pool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) by [Shiirn](https://osu.ppy.sh/users/465126) (DT2) and [bmin11](https://osu.ppy.sh/users/43468)'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with ChaiN De/structioN getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), serving as a speed challenge with a focus on bursts. Silent Voyage to Eternity, last seen in [OWC 2016](/wiki/Tournaments/OWC/2016)'s finals stage as a Hidden pick, served as both a testament to how much players have improved since then, and a reminder that some old, remarkable scores by Chinese legend [rustbell](https://osu.ppy.sh/users/227717) still very much [stand the test of time](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/rustbell-old-score.jpg).
+This week's mappool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) mapped by [Shiirn](https://osu.ppy.sh/users/465126) (DT2) and [bmin11](https://osu.ppy.sh/users/43468)'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with *ChaiN De/structioN* getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), challenging players with sheer speed and a focus on bursts.
 
-Going back to the present times, we had some awesome custom maps in the pool this week. [Lasse](https://osu.ppy.sh/users/896613)'s [CLIMAX BREAKER!!](https://osu.ppy.sh/beatmapsets/2274927#osu/4847505) (FM1) focused on anti-jumps, [Yamiaka Steroid](https://osu.ppy.sh/beatmapsets/2274939#osu/4847519) by [vetoed](https://osu.ppy.sh/users/10909373) (NM4) worked as the pool's de facto reading pick with lots of jumpy and overlapping patterns with great density mixed, and [Selnfra](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509) by [Mattay](https://osu.ppy.sh/users/9748303) (NM2) served as a unique No Mod pick that focused on small circles and fast snaps.
+*Silent Voyage to Eternity*, meanwhile, was last seen in [OWC 2016](/wiki/Tournaments/OWC/2016)'s Finals stage as a Hidden pick. It served as both a testament to how much players have improved since then, and a reminder that some old, remarkable scores by Chinese legend [rustbell](https://osu.ppy.sh/users/227717) still very much [stand the test of time](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/rustbell-old-score.jpg).
+
+Going back to the present times, we had some awesome custom maps in the pool last week. [Lasse](https://osu.ppy.sh/users/896613)'s map of [CLIMAX BREAKER!!](https://osu.ppy.sh/beatmapsets/2274927#osu/4847505) (FM1) focused on anti-jumps; [Yamiaka Steroid](https://osu.ppy.sh/beatmapsets/2274939#osu/4847519) mapped by [vetoed](https://osu.ppy.sh/users/10909373) (NM4) worked as the pool's de facto reading pick with lots of jumpy and overlapping patterns; and [Selnfra](https://osu.ppy.sh/beatmapsets/2274929#osu/4847509) mapped by [Mattay](https://osu.ppy.sh/users/9748303) (NM2) served as a unique No Mod pick that focused on small circles and fast snaps.
 
 ---
 
@@ -73,7 +75,7 @@ Going back to the present times, we had some awesome custom maps in the pool thi
     }
 </style>
 
-Finally, we had an [osu! original](/wiki/osu!_originals) outside the tiebreaker slot this week, with [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) by [Megafan](https://osu.ppy.sh/users/6632605) being an energetic hardstyle song represented as an intense challenge of slider aim and technical streams in our Hard Rock pool.
+We also had an [osu! original](/wiki/osu!_originals) outside the tiebreaker slot: [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s energetic hardstyle song [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) was mapped by [Megafan](https://osu.ppy.sh/users/6632605) as an intense challenge of slider aim and technical streams in our Hard Rock pool.
 
 ![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
 
@@ -89,7 +91,7 @@ This week's tiebreaker, [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/UJwkUiu5Bbo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-In between the usual love and care put into every original with original artwork and storyboarding, the map also had plenty of lore within, containing myriad references to the world cup staff, unique dialogue and much more. Originally conceived by [Azer](https://osu.ppy.sh/users/2155578) and with finer details added by [mangomizer](https://osu.ppy.sh/users/1893718), the combined creativity of them both brought this osu! original a step forward and polished it into a fine piece of art, and Azer was kind enough to share some insight into how it was made:
+In between the usual love and care put into every song with original artwork and storyboarding, the visuals also presented plenty of lore to discover through dialogue and other small details. With an original conception by [Azer](https://osu.ppy.sh/users/2155578) and finer additions by [mangomizer](https://osu.ppy.sh/users/1893718), the narrative strides from them both polished this osu! original into a fine piece of art. This time we've asked Azer to share some insight into how it was made:
 
 <div class="news-chat-quote__text-container">
 
@@ -219,8 +221,8 @@ In continuation of last week's interviews by [Willy](https://osu.ppy.sh/users/35
 
 ---
 
-Things are getting serious, and if you haven't kept up with the osu! World Cup so far, now's your last chance to do so without missing the best teams in the world duelling it out for a chance at the great prizes.
+Things are getting serious, and if you haven't kept up with the osu! World Cup so far, now's your last chance to do so without missing the best teams in the world duking it out for a chance at the great prizes.
 
-So, what are you waiting for? Open up the [world cup wiki](/wiki/Tournaments/OWC/2024) and check out the schedules, [lock in your pick'ems](https://pickem.hwc.hr/tournaments/158), and join us this weekend on Twitch at [osulive](https://www.twitch.tv/osulive) & [osulive_2](https://www.twitch.tv/osulive_2)!
+So, what are you waiting for? Open up the [world cup wiki page](/wiki/Tournaments/OWC/2024) and check out the schedules, [lock in your pick'ems](https://pickem.hwc.hr/tournaments/158), and join us this weekend on Twitch at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2)!
 
 —0x84f, Dada, fieryrage, this1neguy
