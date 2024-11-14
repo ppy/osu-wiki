@@ -44,7 +44,7 @@ If you believe you were silenced unfairly, contact the [account support team](/w
 
 While these are the most common reasons, silences can last any amount of time between 5 minutes and 28 days if the moderators deem it necessary due to the severity of the offence.
 
-A silence will generally be twice the length of the previous silence unless the current offence is more serious. Silences can stack on top of each other, adding more time for each one.
+Unless the new offence is more serious, a new silence will generally be twice the length of the previous silence, if any. Silences can stack on top of each other, adding more time for each one.
 
 Please note that if an offence is heavy enough, or if a player is a repeat offender, it may result in an [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
 
