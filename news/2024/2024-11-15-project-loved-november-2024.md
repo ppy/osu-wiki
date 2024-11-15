@@ -203,7 +203,7 @@ Hi everyone.... welcome to the second *Wildcard* pick of this month!
 
 ⚠ STREAM MAP INCOMING ⚠ WARNING FOR SLOW PLAYERS! THIS WEEK'S ~~DAREDEVIL DIFFICULTIES 2~~ THIRD WILDCARD PICK IS HERE.
 
-[knowledgeking](https://osu.ppy.sh/users/8022517)'s first appearance in the Loved project is none other than his [mrekk Grandmaster Cup Grand Finals NM2](https://osu.ppy.sh/community/forums/topics/1813319) [Icyxis](https://osu.ppy.sh/beatmapsets/2078621#osu/4352514). Hailing at a staggering 9.15⭐, it's fitting for a true ending as 222 BPM follow-point nonstop streams are the focal point of this calamity. Icyxis calls for the best of the best's tapping consistency and raw flow capabilities to be pushed to the brim, as this map's daredevil difficulty only can be challenged by the very top.
+[knowledgeking](https://osu.ppy.sh/users/8022517)'s first appearance in the Loved project is none other than his [mrekk Grandmaster Cup Grand Finals NM2](https://osu.ppy.sh/community/forums/topics/1813319) [Icyxis](https://osu.ppy.sh/beatmapsets/2078621#osu/4352514). Hailing at a staggering 9.15★, it's fitting for a true ending as 222 BPM follow-point nonstop streams are the focal point of this calamity. Icyxis calls for the best of the best's tapping consistency and raw flow capabilities to be pushed to the brim, as this map's daredevil difficulty only can be challenged by the very top.
 
 Here's a reminder to go and watch [this video](https://www.youtube.com/watch?v=aoLYw3ZUuY4&t=225s) and have your mind blown by [your favourite tournament magician](https://osu.ppy.sh/users/12408961) (and here's a reminder to vote YES on this map)!
 
