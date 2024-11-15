@@ -1,6 +1,6 @@
-# 谱面否决权
+# 谱面否决
 
-*谱面否决权*是[谱面审核成员](/wiki/People/Beatmap_Nominators)在发现谱面存在明显质量问题，不适合[上架](/wiki/Beatmap/Category#ranked)时，中止谱面过审的权力。在[过审](/wiki/Beatmap_ranking_procedure#过审)之前，通过进一步讨论来解决质量问题，是谱面审核成员的主要责任。
+*谱面否决 (Veto)* 是[谱面审核成员](/wiki/People/Beatmap_Nominators)在发现谱面存在明显质量问题，不适合[上架](/wiki/Beatmap/Category#ranked)时，中止谱面过审的权力。在[过审](/wiki/Beatmap_ranking_procedure#过审)之前，通过进一步讨论来解决质量问题，是谱面审核成员的主要责任。
 
 正如[谱面审核成员 (BN) 规章制度](/wiki/People/Beatmap_Nominators/Rules)中所述，只要他们在这一或这些游戏模式中拥有资格，任何 BN 都可以提出谱面否决。每次谱面否决都必须经过双方讨论（包括谱师和提出否决的 BN），来尽量取得双方的和解。
 
