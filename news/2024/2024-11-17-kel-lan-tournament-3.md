@@ -4,20 +4,15 @@ title: KEL LAN Tournament 3
 date: 2024-11-17 12:00:00 +0000
 ---
 
-Calling all Circle Clickers to Poland! For the third iteration of KEL Tournament, a major in-person tournament with special guests!
+Attention, circle clickers! Join us in Poland for the third edition of the KEL Tournament — an exciting in-person major event featuring special guests!
 
 ![](/wiki/shared/news/2024-11-17-kel-lan-tournament-3/banner.jpg)
 
-KEL3 is a **2-day LAN** tournament at **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience
+KEL3 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience. Depending on the amount of accepted invites by special guests, only certain amount of people will qualify to the tournament.
 
-Depending on amount of accepted invites by special guests, only certain amount of people will qualify to the tournament.
-***Travel and Accommodation expenses are the responsibility of participants and are not covered by the hosts.***
+[Signups](https://forms.gle/Kgzww5LPQuwiJMBTA) are open and will run until the **2nd of December**, and the Qualifiers will take place online between **4th–18th December**.
 
-[Signups](https://forms.gle/Kgzww5LPQuwiJMBTA) are open and will run until the **2nd of December**.
-
-Qualifiers will take place online between **4th–18th December**.
-
-**If you signed up for the tournament, you need to join the [Discord](https://discord.com/invite/TSgMXsaZRR)!**
+*If you signed up for the tournament, you need to join the [Discord](https://discord.com/invite/TSgMXsaZRR)! Travel and accommodation expenses are the responsibility of participants and are not covered by the hosts.*
 
 This 2-day event during **February 8th-9th** features a major tournament alongside bundle of side events, all streamed from the [KEL3](https://www.twitch.tv/kinguin_lounge) Twitch channel!
 
@@ -55,26 +50,22 @@ Below is the bracket schedule:
 
 During the breaks between or after tournament matches, we'll be hosting a variety of fun side events. Stay tuned for more details coming your way soon!
 
-## Special guests
 
-Wondering who'll be joining the action? Take a look at our first guest reveal:
+## Participants
+
+This year's tournament brings an exciting twist — special guests will be joining the competition! Qualify, and you'll have the chance to go head-to-head with top players and special guests alike. Take a look at our first guest reveal:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videonotdoneyet" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And that's just the beginning—more special guests will be announced soon! Stay tuned on our [**Discord**](https://discord.com/invite/TSgMXsaZRR) for all the latest updates!
+KEL3 is more than just a tournament: it's an opportunity to prove yourself alongside some of the most respected names in the community.
 
-## Participants
-
-This year's tournament brings an exciting twist—special guests will be joining the competition! Qualify, and you'll have the chance to go head-to-head with top players and special guests alike.
-
-It's more than just a tournament; it's an opportunity to prove yourself alongside some of the most respected names in the community.
-Ready to rise to the challenge?
+Are you ready to rise to the challenge?
 
 ---
 
-For all the finer details, check out the [**forum post**](https://osu.ppy.sh/community/forums/topics/1987674?n=1) and be sure to join our [**Discord Server**](https://discord.com/invite/TSgMXsaZRR) to stay up-to-date with the latest announcements, guest reveals, and event surprises.
+For all the finer details, check out the [forum post](https://osu.ppy.sh/community/forums/topics/1987674?n=1) and be sure to join our [Discord server](https://discord.com/invite/TSgMXsaZRR) to stay up-to-date with the latest announcements, guest reveals, and event surprises.
 
 See you at the event!
 
