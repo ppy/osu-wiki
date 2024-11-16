@@ -97,7 +97,7 @@ In between the usual love and care put into every song with original artwork and
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7777875">Azer</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
 
 [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546) was created with a specific vision in mind. [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98) has great proficiency in expressing musical stories through their music, and I wanted to capture this idea in a way that suits an OWC tiebreaker.
 
