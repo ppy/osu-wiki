@@ -39,6 +39,7 @@ If you believe you were silenced unfairly, contact the [account support team](/w
 | Spam or inappropriate discussions in chat | 5 minutes |
 | Inappropriate comments, beatmap discussion posts, or forum posts | 80 minutes |
 | Racism in chat | 80 minutes |
+| Repeated or severely inappropriate song submission | 43 hours |
 | Inappropriate links or visual content | 43 hours[^exact-duration] |
 
 While these are the most common reasons, silences can last any amount of time between 5 minutes and 28 days if the moderators deem it necessary due to the severity of the offence.
@@ -50,4 +51,4 @@ Very severe or repeated offences may result in an [account restriction](/wiki/He
 ## Notes and references
 
 [^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
-[^exact-duration]: These silences are technically 42 hours and 40 minutes long due to durations being calculated based on multiples of 5 minutes.
+[^exact-duration]: These silences are technically 42 hours and 40 minutes long due to durations being calculated based on factors of 5 minutes.
