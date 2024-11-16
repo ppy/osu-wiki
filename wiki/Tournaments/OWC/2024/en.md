@@ -139,7 +139,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-
 | Russian Federation ::{ flag=RU }:: | ::{ flag=DE }:: Germany | [Nov 17 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241117T150000&p1=1440&p2=166&p3=37) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Norway ::{ flag=NO }:: | ::{ flag=CN }:: China | [Nov 17 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241117T150000&p1=1440&p2=187&p3=33) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=UA }:: Ukraine | [Nov 17 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241117T150000&p1=1440&p2=145&p3=367) | [dio_osu](https://twitch.tv/dio_osu) | [^losers-bracket] |
