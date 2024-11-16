@@ -10,7 +10,7 @@ This update contains a lot of quality-of-life changes. Feel free to continue you
 
 For those who want to pause for a moment to read, here's the complete rundown:
 
-After the [last update](https://osu.ppy.sh/home/news/2024-10-09-osulazer-updates-october-9), an [update to performance algorithms](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates) was rolled out to all players. If your global rank went up, congratulations. If not, maybe it's time to get back on the grind.
+After the [last update](https://osu.ppy.sh/home/news/2024-10-09-osulazer-updates-october-9), an [update to performance algorithms](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates) was rolled out to all players. If your global rank went up, congratulations! If not, maybe it's time to get back on the grind.
 
 Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://osu.ppy.sh/users/3178418) discussing the rollout as well as all the new neat changes in the game. Below that, you'll find the most notable changes in text form.
 
@@ -20,8 +20,8 @@ Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://o
 
 ## Editor changes
 
-- **Added keyboard shortcut for cycling grid types (`Shift` + `G`).** Did you know we have not just square, but triangular and circular grids as well?
-- **Toggles and shortcuts for hitsound sample addition banks.** Seasoned mappers will likely be familiar with the `Shift`/`Alt` + `Q`/`W`/`E`/`R` hitsounding keys already, which now all work on osu!(lazer).
+- **Added a keyboard shortcut for cycling grid types (`Shift` + `G`).** Did you know we have not just square, but triangular and circular grids as well?
+- **Toggles and shortcuts for hitsound sample addition banks have been added.** Seasoned mappers will likely be familiar with the `Shift`/`Alt` + `Q`/`W`/`E`/`R` hitsounding keys already, which now all work on osu!(lazer).
 - **Breaks can now be hidden from the timeline.** Minor visual change for those who find this indicator distracting.
 
 ## Gameplay changes
@@ -47,7 +47,7 @@ Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://o
 
 ## Other changes
 
-- **New osu!mania ruleset selection sample.** Our audio engineer [nekodex](https://osu.ppy.sh/users/102) has been at it again. Take a listen:
+- **The osu!mania ruleset selection sample has been reworked.** Our audio engineer [nekodex](https://osu.ppy.sh/users/102) has been at it again. Take a listen:
 
 Before:
 
@@ -66,7 +66,7 @@ After:
 </div>
 
 - **You can now search chat channels and the friends/online user listing.** Popular and social people will appreciate this one.
-- **New `ranked` and `submitted` date filtering in song select.** This already existed on the website. See the [beatmap search article](/wiki/Beatmap_search) for an extensive list of filters.
+- **New `ranked` and `submitted` date filters can now be used in song select.** This already existed on the website. See the [beatmap search article](/wiki/Beatmap_search) for an extensive list of filters.
 - **Searching mods by acronym will highlight the corresponding mod for selection.** `F1` + mod acronym + `Enter` + `F1`. Now if only there was a way to remember all the new mod acronyms...
 
 <div align="center" class="osu-md__paragraph">
@@ -75,9 +75,9 @@ After:
     </video>
 </div>
 
-- **New settings button to reset all beatmap offsets.** Useful when you realise you've set all your offsets wrong.
+- **A new settings button has been added to reset all beatmap offsets.** Useful when you realise you've set all your offsets wrong.
 - **Local scores are now preserved even when deleting maps.** Quality-of-life change for maintainers of large beatmap libraries.
-- **New context menu option for copying link to an online score.** The same thing exists when right-clicking beatmaps in song select, btw.
+- **Copying links to plays can now be done by right-clicking on them from the song select screen.** The same option exists for beatmaps in song select, by the way.
 
 ![Copying a score link](/wiki/shared/news/2024-11-16-osulazer-updates-november-15-2024/score-link-copy.jpg)
 
@@ -87,7 +87,7 @@ After:
 
 ---
 
-It's now easier than ever to farm performance points in [osu!(lazer)](https://osu.ppy.sh/home/download). If you were interested in the minor changes, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.1115.3).
+It's now easier than ever to farm performance points in [osu!(lazer)](https://osu.ppy.sh/home/download). If you are interested in every nook and cranny involving this update, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.1115.3).
 
 See ya next time!
 
