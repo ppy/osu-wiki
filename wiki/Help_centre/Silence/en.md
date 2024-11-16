@@ -30,7 +30,7 @@ After a user is silenced, an alert will be displayed in place of the chat input 
 
 If you believe you were silenced unfairly, contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! username, as well as the approximate date and time when the silence was handed out.
 
-## Common reasons for silences and durations
+## Common reasons and durations for silences
 
 *Caution: Engaging in "inappropriate behaviour" in private messages is not against the rules, unless said inappropriate behaviour is being delivered to unwilling or unconsenting recipients. If reported, appropriate punishments will be placed.*
 
@@ -40,13 +40,12 @@ If you believe you were silenced unfairly, contact the [account support team](/w
 | Inappropriate comments, beatmap discussion posts, or forum posts | 80 minutes |
 | Racism in chat | 80 minutes |
 | Inappropriate links or visual content | 43 hours[^exact-duration] |
-| Severe misconduct | 43 hours[^exact-duration] |
 
 While these are the most common reasons, silences can last any amount of time between 5 minutes and 28 days if the moderators deem it necessary due to the severity of the offence.
 
-Unless the new offence is more serious, a new silence will generally be twice the length of the previous silence, if any. Silences can stack on top of each other, adding more time for each one.
+Silences generally double in length each time they are issued to the same user. If silences overlap, their durations are added together.
 
-Please note that if an offence is heavy enough, or if a player is a repeat offender, it may result in an [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
+Very severe or repeated offences may result in an [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
 
 ## Notes and references
 
