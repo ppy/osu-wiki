@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: November 15, 2024"
-date: 2024-11-16 23:00:00 +0000
+date: 2024-11-16 23:45:00 +0000
 ---
 
 This update contains a lot of quality-of-life changes. Feel free to continue your day.
