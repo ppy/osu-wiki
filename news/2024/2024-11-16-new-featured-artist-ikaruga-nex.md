@@ -10,7 +10,7 @@ It's about time **ikaruga_nex** joined our Featured Artist catalogue.
 
 After years of building up a discography that's spread throughout rhythm games like *Arcaea*, *SOUND VOLTEX*, and *Dance Dance Revolution*, Japanese producer **ikaruga_nex** has finally made it to osu!.
 
-...Although, **ikaruga_nex** has been here for a while. You've probably seen their music in tournament series like [Global Taiko Showdown](/wiki/Tournaments/GTS) and [Corsace](https://open.corsace.io/) already, and today we're making their presence on osu! official.
+...That said, **ikaruga_nex** has been here for a while. You've probably seen their music in tournament series like [Global Taiko Showdown](/wiki/Tournaments/GTS) and [Corsace](https://open.corsace.io/) already, and today we're making their presence on osu! official.
 
 **7** new tracks are part of [**ikaruga_nex**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/446), each available as a pre-timed beatmap template for you to start mapping instantly.
 
