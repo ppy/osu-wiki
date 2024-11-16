@@ -10,7 +10,7 @@ This update contains a lot of quality-of-life changes. Feel free to continue you
 
 For those who want to pause for a moment to read, here's the complete rundown:
 
-After the [last update](https://osu.ppy.sh/home/news/2024-10-09-osulazer-updates-october-9), an [update to performance algorithms](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates) was rolled out to all players. If your global rank went up, congratulations. If not, maybe it's time to get back
+After the [last update](https://osu.ppy.sh/home/news/2024-10-09-osulazer-updates-october-9), an [update to performance algorithms](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates) was rolled out to all players. If your global rank went up, congratulations. If not, maybe it's time to get back on the grind.
 
 Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://osu.ppy.sh/users/3178418) discussing the rollout as well as all the new neat changes in the game.
 
