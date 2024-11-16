@@ -6,7 +6,7 @@ date: 2024-11-16 20:00:00 +0000
 
 It's about time **ikaruga_nex** joined our Featured Artist catalogue.
 
-![](https://assets.ppy.sh/artists/446/header.jpg)
+![](/wiki/shared/news/2024-11-16-new-featured-artist-ikaruga-nex/ikaruga-nex-banner.jpg)
 
 After years of building up a discography that's spread throughout rhythm games like *Arcaea*, *SOUND VOLTEX*, and *Dance Dance Revolution*, Japanese producer **ikaruga_nex** has finally made it to osu!.
 
