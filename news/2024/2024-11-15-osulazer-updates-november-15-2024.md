@@ -51,15 +51,19 @@ Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://o
 
 Before:
 
-<audio controls>
-    <source src="https://assets.ppy.sh/media/news/2024-11-16-ruleset-select-mania-before.mp3">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/2024-11-16-ruleset-select-mania-before.mp3">
+    </audio>
+</div>
 
 After:
 
-<audio controls>
-    <source src="https://assets.ppy.sh/media/news/2024-11-16-ruleset-select-mania-after.mp3">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/2024-11-16-ruleset-select-mania-after.mp3">
+    </audio>
+</div>
 
 - **You can now search chat channels and the friends/online user listing.** Popular and social people will appreciate this one.
 - **New `ranked` and `submitted` date filtering in song select.** This already existed on the website. See the [beatmap search article](/wiki/Beatmap_search) for an extensive list of filters.
@@ -75,7 +79,7 @@ After:
 - **Local scores are now preserved even when deleting maps.** Quality-of-life change for maintainers of large beatmap libraries.
 - **New context menu option for copying link to an online score.** The same thing exists when right-clicking beatmaps in song select, btw.
 
-![Option slider keyboard input](/wiki/shared/news/2024-11-16-osulazer-updates-november-15-2024/score-link-copy.jpg)
+![Copying a score link](/wiki/shared/news/2024-11-16-osulazer-updates-november-15-2024/score-link-copy.jpg)
 
 - **Option sliders can now be selected and adjusted with arrow keys.** They were previously controllable with arrow keys while hovered, but now they work exactly the same as in osu!(stable).
 
