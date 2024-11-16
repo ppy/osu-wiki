@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: November 15, 2024"
-date: 2024-11-16 19:00:00 +0000
+date: 2024-11-16 23:00:00 +0000
 ---
 
 This update contains a lot of quality-of-life changes. Feel free to continue your day.
@@ -18,7 +18,6 @@ Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://o
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YKljRdxfhxQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
 ## Editor changes
 
 - **Added keyboard shortcut for cycling grid types (`Shift` + `G`).** Did you know we have not just square, but triangular and circular grids as well?
@@ -28,22 +27,59 @@ Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://o
 ## Gameplay changes
 
 - **Pausing is now instant when hitting the pause key (`Esc`).** This used to be affected by the "hold-to-confirm activation time" setting.
-- **The time it takes to quick retry (`Ctrl` + `R`) has been decreased.** Without arbitrary delays, you'll be back in action as soon as the beatmap loads, i.e. about one second faster than before.<!-- video -->
+- **The time it takes to quick retry (`Ctrl` + `R`) has been decreased.** Without arbitrary delays, you'll be back in action as soon as the beatmap loads, i.e. about one second faster than before.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2024-11-16-quick-retry.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ## Skinning changes
 
 - **New "use relative size" setting for song progress bars.** Best explained with a video:
 
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2024-11-16-relative-skin-size.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ## Other changes
 
-- **New osu!mania ruleset selection sample.** Our audio engineer [nekodex](https://osu.ppy.sh/users/102) has been at it again. Take a listen:<!-- comparison -->
+- **New osu!mania ruleset selection sample.** Our audio engineer [nekodex](https://osu.ppy.sh/users/102) has been at it again. Take a listen:
+
+Before:
+
+<audio controls>
+    <source src="https://assets.ppy.sh/media/news/2024-11-16-ruleset-select-mania-before.mp3">
+</audio>
+
+After:
+
+<audio controls>
+    <source src="https://assets.ppy.sh/media/news/2024-11-16-ruleset-select-mania-after.mp3">
+</audio>
+
 - **You can now search chat channels and the friends/online user listing.** Popular and social people will appreciate this one.
 - **New `ranked` and `submitted` date filtering in song select.** This already existed on the website. See the [beatmap search article](/wiki/Beatmap_search) for an extensive list of filters.
-- **Searching mods by acronym will highlight the corresponding mod for selection.** `F1` + mod acronym + `Enter` + `F1`. Now if only I could remember all the new mod acronyms...<!-- video? -->
+- **Searching mods by acronym will highlight the corresponding mod for selection.** `F1` + mod acronym + `Enter` + `F1`. Now if only I could remember all the new mod acronyms...
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2024-11-16-mod-acronym-search.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 - **New settings button to reset all beatmap offsets.** Useful when you realise you've set all your offsets wrong.
 - **Local scores are now preserved even when deleting maps.** Quality-of-life change for maintainers of large beatmap libraries.
-- **New context menu option for copying link to an online score.** The same thing exists when right-clicking beatmaps in song select, btw.<!-- image -->
-- **Option sliders can now be adjusted with arrow keys when selected.**<!-- video? -->
+- **New context menu option for copying link to an online score.** The same thing exists when right-clicking beatmaps in song select, btw.
+
+![Option slider keyboard input](/wiki/shared/news/2024-11-16-osulazer-updates-november-15-2024/score-link-copy.jpg)
+
+- **Option sliders can now be selected and adjusted with arrow keys.** They were previously controllable with arrow keys while hovered, but now they work exactly the same as in osu!(stable).
+
+![Option slider keyboard input](/wiki/shared/news/2024-11-16-osulazer-updates-november-15-2024/option-slider-keyboard-input.gif)
 
 ---
 
