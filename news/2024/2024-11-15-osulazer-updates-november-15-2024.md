@@ -12,7 +12,7 @@ For those who want to pause for a moment to read, here's the complete rundown:
 
 After the [last update](https://osu.ppy.sh/home/news/2024-10-09-osulazer-updates-october-9), an [update to performance algorithms](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates) was rolled out to all players. If your global rank went up, congratulations. If not, maybe it's time to get back on the grind.
 
-Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://osu.ppy.sh/users/3178418) discussing the rollout as well as all the new neat changes in the game.
+Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://osu.ppy.sh/users/3178418) discussing the rollout as well as all the new neat changes in the game. Below that, you'll find the most notable changes in text form.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YKljRdxfhxQ" frameborder="0" allowfullscreen></iframe>
@@ -67,7 +67,7 @@ After:
 
 - **You can now search chat channels and the friends/online user listing.** Popular and social people will appreciate this one.
 - **New `ranked` and `submitted` date filtering in song select.** This already existed on the website. See the [beatmap search article](/wiki/Beatmap_search) for an extensive list of filters.
-- **Searching mods by acronym will highlight the corresponding mod for selection.** `F1` + mod acronym + `Enter` + `F1`. Now if only I could remember all the new mod acronyms...
+- **Searching mods by acronym will highlight the corresponding mod for selection.** `F1` + mod acronym + `Enter` + `F1`. Now if only there was a way to remember all the new mod acronyms...
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -91,4 +91,4 @@ It's now easier than ever to farm performance points in [osu!(lazer)](https://os
 
 See ya next time!
 
-—Walavouchey
+—Walavouchey & 0x84f
