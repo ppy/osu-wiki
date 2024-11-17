@@ -57,7 +57,7 @@ This year's tournament brings an exciting twist — special guests will be joini
 [One of those guests have been revealed already.](https://youtube.com/watch?v=quAevI_lYf0) Welcome aboard, [Rafis](https://osu.ppy.sh/users/2558286). Here's the next set of guests:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/4x2NDy4LuYQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 KEL3 is more than just a tournament: it's an opportunity to prove yourself alongside some of the most respected names in the community.
