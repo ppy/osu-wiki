@@ -12,8 +12,8 @@ For anyone out of the loop, the [Monthly Beatmapping Contest](/wiki/Contests/Mon
 
 This month's iteration is for **osu!taiko** and **osu!catch** mappers:
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/224)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/225)
 
 This article covers results from the last contest, plus criteria for this contest. Skip around with these links:
 
@@ -33,7 +33,7 @@ This article covers results from the last contest, plus criteria for this contes
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | Winner | [Paraxia](https://osu.ppy.sh/users/14001000) | [Frums (unknown "λ") - 19ZZ](https://osu.ppy.sh/beatmapsets/2280917) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [Irone OSU](https://osu.ppy.sh/users/10678230) | [Mili - Lemonade](LINK) | - | +1 (1 total) |
+| Runner-up | [Irone OSU](https://osu.ppy.sh/users/10678230) | [Mili - Lemonade](https://osu.ppy.sh/beatmapsets/2281063) | - | +1 (1 total) |
 
 #### Top 10
 
@@ -68,8 +68,8 @@ And special thanks to [Nelly](https://osu.ppy.sh/users/4741164) for coordinating
 
 This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/224)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/225)
 
 ## Timeline
 
@@ -146,8 +146,8 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 Stop reading these words and start reading the universal language on osu!: mapping. When your map is ready, plop it into one of these:
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/224)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/225)
 
 You have until **December 8th** to submit!
 
