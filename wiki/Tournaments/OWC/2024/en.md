@@ -624,33 +624,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
 
-## Match schedule: Semifinals
-
-### Saturday, 23 November 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Nov 23 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T030000&p1=1440&p2=102&p3=232) |  | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=PH }:: Philippines | [Nov 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T140000&p1=1440&p2=136&p3=145) |  | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Nov 23 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T160000&p1=1440&p2=188&p3=33) |  | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=PL }:: Poland | [Nov 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T180000&p1=1440&p2=166&p3=262) |  | [^losers-bracket] |
-
-### Sunday, 24 November 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Nov 24 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T030000&p1=1440&p2=57&p3=263) |  | [^winners-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=HK }:: Hong Kong | [Nov 24 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T110000&p1=1440&p2=166&p3=102) |  | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=HK }:: Hong Kong | [Nov 24 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T110000&p1=1440&p2=262&p3=102) |  | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 24 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T130000&p1=1440&p2=235&p3=37) |  | [^winners-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=33&p3=136) |  | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=33&p3=145) |  | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=GB }:: United Kingdom | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=188&p3=136) |  | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=188&p3=145) |  | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T180000&p1=1440&p2=166&p3=232) |  | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T180000&p1=1440&p2=262&p3=232) |  | [^potential-match] |
-| Finals | mappool showcase | [Nov 24 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
-
 ## Notes
 
 [^winners-bracket]: Winners bracket match
