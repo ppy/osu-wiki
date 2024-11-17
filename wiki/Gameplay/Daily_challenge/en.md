@@ -2,7 +2,7 @@
 
 The **daily challenge** is a multiplayer mode in osu!(lazer) where players are able to build up a daily streak by passing beatmaps consecutively with increasing difficulty with the difficulty being reset every 7 days.
 
-Every beatmap comes from the [Featured Artist](/wiki/People/Featured_Artists) listing, and sometimes the maps come with a mod forced onto users, which requires them to pass the map with the selected mod.
+Every beatmap is handpicked  from the [Featured Artist](/wiki/People/Featured_Artists) listing, and sometimes the maps come with a mod forced onto users, which requires them to pass the map with the selected mod.
 
 ## Game menu
 
@@ -56,6 +56,6 @@ Play streaks are displayed on the user profile with different colours depending 
 ![](img/yt-comment.jpg "waxxx14's YouTube comment suggesting the \"cup of the day\" format")
 :::
 
-- The idea for daily challenge was taken from a comment from waxxx14 requesting a "cup of the day" format from [TrackMania](https://en.wikipedia.org/wiki/TrackMania) in osu!, under a lazer dev video, ["deciding what to do with lazer"](https://www.youtube.com/watch?v=xUSxEjQQ1UI)
+- The idea for daily challenge was taken from a comment from waxxx14 requesting a "cup of the day" format from [TrackMania](https://en.wikipedia.org/wiki/TrackMania) in osu!, posted under the lazer development video ["deciding what to do with lazer"](https://www.youtube.com/watch?v=xUSxEjQQ1UI)
 - The daily challenge launched to the public on July 25, 2024 in osu!(lazer) public release [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0) solely for the [osu! game mode](/wiki/Game_mode/osu!).
 - In the initial release, free mods were not selectable, and the total pass count as well as the cumulative total score were only added in a later update.
