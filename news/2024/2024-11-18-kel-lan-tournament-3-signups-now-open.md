@@ -8,11 +8,11 @@ Attention, circle clickers! Join us in Poland for the third edition of the KEL T
 
 ![](/wiki/shared/news/2024-11-18-kel-lan-tournament-3/banner.jpg)
 
-KEL3 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience. Depending on the amount of accepted invites by special guests, only certain amount of people will qualify to the tournament.
+KEL3 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience. Depending on the amount of accepted invites by special guests, only a certain amount of people will qualify for the tournament.
 
 [Signups](https://forms.gle/Kgzww5LPQuwiJMBTA) are open and will run until the **2nd of December**, and the Qualifiers will take place online between **4th–18th December**.
 
-*If you signed up for the tournament, you need to join the [Discord](https://discord.com/invite/TSgMXsaZRR)! Travel and accommodation expenses are the responsibility of participants and are not covered by the hosts.*
+*If you signed up for the tournament, you need to join the [Discord server](https://discord.com/invite/TSgMXsaZRR)! Travel and accommodation expenses are the responsibility of participants and are not covered by the hosts.*
 
 This 2-day event during **February 8th-9th** features a major tournament alongside bundle of side events, all streamed from the [KEL3](https://www.twitch.tv/kinguin_lounge) Twitch channel!
 
@@ -20,19 +20,19 @@ This 2-day event during **February 8th-9th** features a major tournament alongsi
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| **Registrations** | October 8th - December 2nd 2024 |
-| **Qualifiers** | December 4th - December 18th 2024 |
-| **Day 1** | February 8th 2025 (10:00 - 18:00) |
-| **Day 2** | February 9th 2025 (10:00 - 18:00) |
+| **Registrations** | October 8th – December 2nd 2024 |
+| **Qualifiers** | December 4th – December 18th 2024 |
+| **Day 1** | February 8th 2025 (10:00–18:00) |
+| **Day 2** | February 9th 2025 (10:00–18:00) |
 
 ## Prizes
 
-The total prize pool of **610 PLN** will be awarded to the **top 3 players**, along with exciting physical prizes, including the **Wooting UwU Keypads**!
+The total prize pool of **610 PLN** will be awarded to the **top 3 players**, along with exciting physical prizes!
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | **Wooting UwU RGB Stealth Keypad** (courtesy of Wooting), 48% of the prizepool,  profile badge (pending) |
-| 2nd | **Wooting UwU Keypad** (courtesy of Wooting), 32% of the prizepool |
+| 1st | **Wooting UwU RGB Stealth Keypad**, 48% of the prizepool, profile badge (pending) |
+| 2nd | **Wooting UwU Keypad**, 32% of the prizepool |
 | 3rd | 16% of the prizepool |
 
 ## 1v1 double-elimination tournament
@@ -50,13 +50,12 @@ Below is the bracket schedule:
 
 During the breaks between or after tournament matches, we'll be hosting a variety of fun side events. Stay tuned for more details coming your way soon!
 
-
 ## Participants
 
 This year's tournament brings an exciting twist — special guests will be joining the competition! Qualify, and you'll have the chance to go head-to-head with top players and special guests alike. Take a look at our first guest reveal:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videonotdoneyet" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/quAevI_lYf0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 KEL3 is more than just a tournament: it's an opportunity to prove yourself alongside some of the most respected names in the community.
@@ -65,7 +64,7 @@ Are you ready to rise to the challenge?
 
 ---
 
-For all the finer details, check out the [forum post](https://osu.ppy.sh/community/forums/topics/1987674?n=1) and be sure to join our [Discord server](https://discord.com/invite/TSgMXsaZRR) to stay up-to-date with the latest announcements, guest reveals, and event surprises.
+For all the finer details, check out the [forum post](https://osu.ppy.sh/community/forums/topics/1987674?n=1), and be sure to join our [Discord server](https://discord.com/invite/TSgMXsaZRR) to stay up-to-date with the latest announcements, guest reveals, and event surprises.
 
 See you at the event!
 
