@@ -52,10 +52,12 @@ During the breaks between or after tournament matches, we'll be hosting a variet
 
 ## Participants
 
-This year's tournament brings an exciting twist — special guests will be joining the competition! Qualify, and you'll have the chance to go head-to-head with top players and special guests alike. Take a look at our first guest reveal:
+This year's tournament brings an exciting twist — special guests will be joining the competition! Qualify, and you'll have the chance to go head-to-head with top players and special guests alike.
+
+[One of those guests have been revealed already.](https://youtube.com/watch?v=quAevI_lYf0) Welcome aboard, [Rafis](https://osu.ppy.sh/users/2558286). Here are the next set of guests:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/quAevI_lYf0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO" frameborder="0" allowfullscreen></iframe>
 </div>
 
 KEL3 is more than just a tournament: it's an opportunity to prove yourself alongside some of the most respected names in the community.
