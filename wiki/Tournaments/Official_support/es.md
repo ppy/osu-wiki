@@ -110,7 +110,7 @@ Una vez concluido el torneo, los organizadores deberán enviar la siguiente info
 - Una insignia con un diseño adecuado ([más información en la sección correspondiente](#insignias-de-perfil)).
 - Enlaces a la página del torneo en la wiki, al sitio web y/o a las hojas de cálculo de acceso público:
   - El historial de partidos del torneo con enlaces a todos los partidos, incluidas las clasificatorias cuando sea necesario.
-  - Las mappools del torneo.
+  - Los mappools del torneo.
   - Los resultados de las clasificatorias del torneo, cuando sea necesario.
 
 ### Programas
