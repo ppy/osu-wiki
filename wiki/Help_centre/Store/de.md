@@ -24,7 +24,7 @@ Dieser Artikel bezieht sich nur auf Produkte, die im [osu!store](https://osu.ppy
 
 Sende eine E-Mail mit der Bestellnummer und der neuen Adresse an [merch@ppy.sh](mailto:merch@ppy.sh).
 
-Wenn deine Bestellung noch nicht versandt wurde, aktualisieren wir die Adresse und senden die Bestellung an die neue Anschrift. Wenn die Bestellung bereits unterwegs ist, können keine Änderungen mehr vorgenommen werden.
+Wenn deine Bestellung noch nicht versandt wurde, aktualisieren wir die Adresse und senden die Bestellung an die neue Anschrift. Wenn die Bestellung bereits unterwegs ist, können wir leider nicht mehr viel machen.
 
 ## Mein Produkt wurde noch nicht geliefert! {id=status}
 
