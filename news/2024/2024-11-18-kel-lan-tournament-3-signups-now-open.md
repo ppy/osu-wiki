@@ -1,12 +1,12 @@
 ---
 layout: post
-title: KEL LAN Tournament 3
-date: 2024-11-17 12:00:00 +0000
+title: "KEL LAN Tournament 3: Signups Now Open!"
+date: 2024-11-18 12:00:00 +0000
 ---
 
 Attention, circle clickers! Join us in Poland for the third edition of the KEL Tournament — an exciting in-person major event featuring special guests!
 
-![](/wiki/shared/news/2024-11-17-kel-lan-tournament-3/banner.jpg)
+![](/wiki/shared/news/2024-11-18-kel-lan-tournament-3/banner.jpg)
 
 KEL3 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience. Depending on the amount of accepted invites by special guests, only certain amount of people will qualify to the tournament.
 
