@@ -118,13 +118,12 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=PH }:: [-Rusty](https://osu.ppy.sh/users/16355636) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
-| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!mania
 
