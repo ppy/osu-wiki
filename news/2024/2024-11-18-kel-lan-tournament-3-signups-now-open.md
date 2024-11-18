@@ -14,7 +14,7 @@ KEL3 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gd
 
 *If you signed up for the tournament, you need to join the [Discord server](https://discord.com/invite/TSgMXsaZRR)! Travel and accommodation expenses are the responsibility of participants and are not covered by the hosts.*
 
-This 2-day event during **February 8th-9th** features a major tournament alongside bundle of side events, all streamed from the [KEL3](https://www.twitch.tv/kinguin_lounge) Twitch channel!
+This 2-day event during **February 8th–9th** features a major tournament alongside bundle of side events, all streamed from the [keltournaments Twitch channel](https://www.twitch.tv/keltournaments)!
 
 ## Schedule
 
