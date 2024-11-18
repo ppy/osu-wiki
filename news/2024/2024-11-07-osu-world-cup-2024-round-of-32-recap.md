@@ -24,7 +24,7 @@ If you are more of a visual learner, [Junihuhn](https://osu.ppy.sh/users/4182339
     }
 </style>
 
-**[Download the pool here! (127MB)](https://osu.ppy.sh/beatmaps/packs/P264)**
+**[Download the pool here! (127 MB)](https://osu.ppy.sh/beatmaps/packs/P264)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=01h05m58s&video=2287184079" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
@@ -191,7 +191,7 @@ Worst case I believe we place top16, which isn't that bad considering we seeded 
 
 ---
 
-The osu! World Cup will be back this weekend with its Round of 16, the first elimination round of the year! Check out the OWC wiki page for the match details along with full tournament details (such as the schedule or [statistics for this round](https://docs.google.com/spreadsheets/d/1QZkp7R5eBfvc2GP0rwWRmtRohZl16yKmHZiJ1rjlL0A)), and join us at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to ༼ つ ◕\_◕ ༽つ give your energy ༼ つ ◕\_◕ ༽つ, and cheer on your favourite teams!
+The osu! World Cup will be back this weekend with its Round of 16, the first elimination round of the year! Check out the [OWC wiki page](/wiki/Tournaments/OWC/2024) for the match details along with full tournament details (such as the schedule or [statistics for this round](https://docs.google.com/spreadsheets/d/1QZkp7R5eBfvc2GP0rwWRmtRohZl16yKmHZiJ1rjlL0A)), and join us at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to ༼ つ ◕\_◕ ༽つ give your energy ༼ つ ◕\_◕ ༽つ, and cheer on your favourite teams!
 
 We hope to see you cheering for your teams this weekend in Twitch chat or reading up on the results in another round of recaps!
 
