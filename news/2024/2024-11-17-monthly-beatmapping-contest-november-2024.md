@@ -6,7 +6,7 @@ date: 2024-11-17 20:30:00 +0000
 
 If you're dedicated to the art of designing digital drums and/or fruit, this month's contest was created just for you.
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 For anyone out of the loop, the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) has been an osu! tradition for over a decade at this point. The premise is (unsurprisingly) a beatmapping contest held every month. 
 

@@ -6,7 +6,7 @@ date: 2021-08-09 22:30:00 +0000
 
 Remember how your earliest mapping days were spent creating an endless supply of messy blankets? It's time to put that skill to the test through this month's mapping contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 August's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is for **osu!** only. View the contest listing [here](https://osu.ppy.sh/community/contests/134)!
 
