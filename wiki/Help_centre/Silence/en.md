@@ -39,7 +39,7 @@ If you believe you were silenced unfairly, contact the [account support team](/w
 | Spam or inappropriate discussions in chat | 5 minutes |
 | Inappropriate comments, beatmap discussion posts, or forum posts | 80 minutes |
 | Racism in chat | 80 minutes |
-| Repeated or severely inappropriate song submission | 43 hours |
+| Repeated or severely inappropriate song submission | 43 hours[^exact-duration] |
 | Inappropriate links or visual content | 43 hours[^exact-duration] |
 
 While these are the most common reasons, silences can last any amount of time between 5 minutes and 28 days if the moderators deem it necessary due to the severity of the offence.
