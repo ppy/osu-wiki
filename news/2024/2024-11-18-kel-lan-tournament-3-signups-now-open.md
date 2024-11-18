@@ -33,7 +33,7 @@ The total prize pool of **610 PLN** will be awarded to the **top 3 players**, al
 | :-: | :-- |
 | 1st | **Wooting UwU RGB Stealth Keypad**, 48% of the prizepool, profile badge (pending) |
 | 2nd | **Wooting UwU Keypad**, 32% of the prizepool |
-| 3rd | 16% of the prizepool |
+| 3rd | 20% of the prizepool |
 
 ## 1v1 double-elimination tournament
 
