@@ -2,7 +2,7 @@
 
 The **daily challenge** is a multiplayer mode in osu!(lazer) where players are able to build up a daily streak by passing beatmaps consecutively with increasing difficulty with the difficulty being reset every 7 days.
 
-Every beatmap is handpicked  from the [Featured Artist](/wiki/People/Featured_Artists) listing, and sometimes the maps come with a mod forced onto users, which requires them to pass the map with the selected mod.
+Every beatmap is handpicked from the [Featured Artist](/wiki/People/Featured_Artists) listing, and sometimes the maps come with a mod forced onto users, which requires them to pass the map with the selected mod.
 
 ## Game menu
 
@@ -27,16 +27,16 @@ Play streaks are displayed on the user profile with different colours depending 
 
 ### Rank breakdown 
 
-| Rank | Total streak | Daily streak | Weekly streak |
+| Tier | Total participation | Daily streak | Weekly streak |
 | :-: | :-: | :-: | :-: |
-| Lustrous | 1081 days | 360 days | 53 weeks |
-| Radiant | 721 days | 240 days | 36 weeks |
-| Rhodium | 361 days | 120 days | 19 weeks |
-| Platinum | 181 days | 60 days | 10 weeks |
-| Gold | 91 days | 30 days | 6 weeks |
-| Silver | 31 days | 10 days | 3 weeks |
-| Bronze | 16 days | 5 days | 2 weeks |
-| Iron | less than 16 days | less than 5 days | less than 2 weeks |
+| Lustrous | 1081 days | 361 days | 53 weeks |
+| Radiant | 721 days | 241 days | 36 weeks |
+| Rhodium | 361 days | 121 days | 19 weeks |
+| Platinum | 181 days | 61 days | 10 weeks |
+| Gold | 91 days | 31 days | 6 weeks |
+| Silver | 31 days | 11 days | 3 weeks |
+| Bronze | 16 days | 6 days | 2 weeks |
+| Iron | less than 16 days | less than 6 days | less than 2 weeks |
 
 ## Contributors
 
