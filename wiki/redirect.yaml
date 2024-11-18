@@ -2127,8 +2127,7 @@ usage_permissions:                         Rules/Content_usage_permissions
 rules/content_usage_guidelines:            Rules/Content_usage_permissions
 
 # moved in #12441
-
-silence:                                   Help_Centre/Silence
+silence:                                   Help_centre/Silence
 
 # Deleted "osu!monthly team" and moved its contents to a section of "osu!monthly" (#10373)
 people/osu!monthly_team: Community/osu!monthly#contributors
