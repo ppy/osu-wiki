@@ -56,12 +56,12 @@ Hvis du bryder reglerne vil det have dåååårlige konsekvenser.
 
 Disse konsekvenser kan inkludere (*men er ikke begrænset til*):
 
-- Tilbagetrækning af dine privilegier til at chatte i spillet for en stund (kendt som et silence).
+- Tilbagetrækning af dine privilegier til at chatte i spillet for en stund (kendt som en [silence](/wiki/Help_centre/Silence)).
 - Fjernelse af alt indhold der krænker retningslinjerne på din brugerside, profil eller blandt dine uploadede beatmaps.
 - Tabet af dit privilege til at ændre eller redigere din brugerside eller profil.
 - Tabet af dit privilege til at deltage eller spille i officielt hostede turneringer.
 
-Silences og andre overtrædelser forøges **automatisk** i varighed (næsten eksponentielt) med hver overtrædelse. Moderatorer kontrollerer ikke, hvor lang tid du bliver silenced for en overtrædelse, så det nytter ikke noget at beklage sig til dem. Brugere der gentagne gange overtræder reglerne vil blive låst ude af deres privilegier i stadig længere perioder.
+[Silences](/wiki/Help_centre/Silence) og andre straffe forøges **automatisk** i varighed (næsten eksponentielt) med hver overtrædelse. Moderatorer kontrollerer ikke, hvor lang tid du bliver silenced for en overtrædelse, så det nytter ikke noget at beklage sig til dem. Brugere, der gentagne gange overtræder reglerne, vil blive låst ude af deres privilegier i stadig længere perioder.
 
 Visse overtrædelser har en mindstevarighed (oftest 43+ timer) hvis de er særligt alvorlige. De er dog næsten udelukkende forbeholdt alvorlige overtrædelser, såsom deling af grafisk indhold eller chikane af andre brugere.
 

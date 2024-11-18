@@ -31,7 +31,7 @@ Des Weiteren werden alle Nachrichten eines stumm geschalteten Spielers aus allen
 
 Nachdem ein Nutzer stumm geschaltet wurde, wird eine Warnung anstelle der Chateingabe angezeigt, die anmerkt, wann die Stummschaltung vorbei ist. Der Eintrag der Stummschaltung kann auch am unteren Ende des Profils auf der Webseite eingesehen werden. Dort wird dieser nach 28 Tagen verschwinden.
 
-## Eine Stummschaltung widersprechen
+## Einer Stummschaltung widersprechen
 
 Wenn du glaubst, mit Unrecht stumm geschaltet worden zu sein, dann kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#accounts@ppy.sh) via [accounts@ppy.sh](mailto:accounts@ppy.sh), um die Stummschaltung anzufechten. Stelle sicher, dass du die mit deinem osu!-Account verknüpfte E-Mail-Adresse verwendest. Erwähne deinen osu!-Benutzernamen sowie das Datum und die ungefähre Zeit, als die Stummschaltung vergeben wurde.
 
