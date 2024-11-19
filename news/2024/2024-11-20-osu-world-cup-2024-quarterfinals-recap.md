@@ -102,17 +102,17 @@ I'd like to thank the osu! management for giving me this opportunity.
 | **Poland** ::{ flag=PL }:: | **6** | 0 | ::{ flag=TR }:: Türkiye |
 | **United States** ::{ flag=US }:: | **6** | 2 | ::{ flag=CA }:: Canada |
 
-It was a shake-down week in the osu! World Cup as the bracket was whittled down from 24 teams to a mere 12, and the contenders sought to elevate themselves above the pretenders. This was the the Quarterfinals weekend, a chance for the elite of the tournament to showcase their skills and a marathon battle for survival for those teams entering this stage in the losers' bracket, forced now to play two matches per week to stave off elimination.
+24 teams where whittled down to a mere 12 in this first shakedown week of the osu! World Cup, and the contenders sought to elevate themselves above the pretenders. Teams entering this stage in the losers' bracket were now forced to play two matches per week to stave off elimination.
 
 In retrospect, the weekend went on to become in large part a showcase of the best teams flexing their muscles. The top seeds and tournament favourites ::{ flag=KR }:: South Korea and ::{ flag=AU }:: Australia annihilated their opposition in their advance to the Semifinals, while team ::{ flag=DE }:: Germany continued its historical dominance over ::{ flag=RU }:: Russia, bringing their head-to-head matchup to 7–0 over the course of World Cup history.
 
-Meanwhile, the North American standoff ended up this time 6–2 in favour of the ::{ flag=US }:: United States. This rematch of their 2023 Quarterfinals bout, in which ::{ flag=CA }:: Canada pulled off one of the largest upsets in recent world cup memory, was still very close despite the misleading scoreline. The last two points of the match were won by a combined margin of only 150,000 points, as ::{ flag=CA }:: Canada battled to the bitter end.
+Meanwhile, the North American standoff ended up 6–2 in favour of the ::{ flag=US }:: United States. This rematch of their 2023 Quarterfinals bout, in which ::{ flag=CA }:: Canada pulled off one of the largest upsets in recent world cup memory, was still very close despite the misleading scoreline. The last two points of the match were won by a combined margin of only 150,000 points, as ::{ flag=CA }:: Canada battled to the bitter end.
 
-For the first round of losers' bracket matches, it would be ::{ flag=UA }:: Ukraine to pull off the only upset of the week as far as pick'ems were concerned. After defeating ::{ flag=BR }:: Brazil 6–1 despite spectators choosing them 7:3, it turns out the country that doesn't care about the odds has an osu! World Cup team to match. They would go on to end their run against the ::{ flag=PH }:: Philippines, but not without showing us the undisputed match of the week – read on for a full analysis [further below](#philippines-vs.-ukraine).
+For the first round of losers' bracket matches, it would be ::{ flag=UA }:: Ukraine to pull off the only upset of the week as far as pick'ems were concerned. After defeating ::{ flag=BR }:: Brazil 6–1 despite spectators favouring them 7:3, it turns out the country that doesn't care about the odds has an osu! World Cup team to match. They would go on to end their run against the ::{ flag=PH }:: Philippines, but not without showing us the undisputed match of the week – read on for a full analysis [further below](#philippines-vs.-ukraine).
 
 In the second losers' bracket round last weekend, there were again no pick'em surprises, but the winners all stood out for their own reasons:
 
-- ::{ flag=PL }:: Poland bounced back from their singular point loss last weekend with a perfect win rate, earning a spot in the top 12 despite replacing over half of their 2023 roster.
+- ::{ flag=PL }:: Poland's 6–0 win against ::{ flag=TR }:: Türkiye completed their perfect 12–0 weekend, bouncing back from their singular point loss last week and earning a spot in the top 12 despite replacing over half of their 2023 roster.
 - ::{ flag=CL }:: Chile took down ::{ flag=SE }:: Sweden 6–1 and look to be rounding into form as they seek to live up to expectations as the #7 seed.
 - ::{ flag=CN }:: China, running back a core roster that continues to stand the test of time, swept ::{ flag=NO }:: Norway 6–0 in a surprising outcome that was truly closer than the scoreline indicated.
 
