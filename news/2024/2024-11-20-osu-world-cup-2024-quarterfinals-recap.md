@@ -112,7 +112,7 @@ For the first round of losers' bracket matches, it would be ::{ flag=UA }:: Ukra
 
 In the second losers' bracket round last weekend, there were again no pick'em surprises, but the winners all stood out for their own reasons:
 
-- ::{ flag=PL }:: Poland's 6–0 win against ::{ flag=TR }:: Türkiye completed their perfect 12–0 weekend, bouncing back from their singular point loss last week and earning a spot in the top 12 despite replacing over half of their 2023 roster.
+- ::{ flag=PL }:: Poland's 6–0 win against ::{ flag=TR }:: Türkiye completed their perfect 12–0 weekend, bouncing back from their singular point loss so far and securing a spot in the top 12, all despite having replaced over half of their 2023 roster.
 - ::{ flag=CL }:: Chile took down ::{ flag=SE }:: Sweden 6–1 and look to be rounding into form as they seek to live up to expectations as the #7 seed.
 - ::{ flag=CN }:: China, running back a core roster that continues to stand the test of time, swept ::{ flag=NO }:: Norway 6–0 in a surprising outcome that was truly closer than the scoreline indicated.
 
