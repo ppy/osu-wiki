@@ -13,7 +13,7 @@ intro portion
 da video by da vinki
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cld2spAZQ-M" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
