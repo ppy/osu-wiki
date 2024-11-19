@@ -83,27 +83,40 @@ I'd like to thank the osu! management for giving me this opportunity.
 
 ## Quarterfinals summary
 
-It was a shake-down week in the osu! World Cup as the bracket was whittled down from 24 teams to a mere 12, and the contenders sought to elevate themselves above the pretenders. This was Quarterfinals weekend, a chance for the elite of the tournament to showcase their skills and a marathon battle for survival for those teams entering this stage in the losers bracket, forced now to play two matches per week to stave off elimination.
+| Team A |  |  | Team B |
+| --: | :-: | :-: | :-- |
+| **Chile** ::{ flag=CL }:: | **6** | 2 | ::{ flag=JP }:: Japan |
+| **Australia** ::{ flag=AU }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom |
+| **Philippines** ::{ flag=PH }:: | **6** | 3 | ::{ flag=FR }:: France |
+| **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=HK }:: Hong Kong |
+| **Norway** ::{ flag=NO }:: | **6** | 1 | ::{ flag=ID }:: Indonesia |
+| **Türkiye** ::{ flag=TR }:: | **6** | 0 | ::{ flag=TW }:: Taiwan |
+| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=FI }:: Finland |
+| **Sweden** ::{ flag=SE }:: | **6** | 1 | ::{ flag=TH }:: Thailand |
+| Brazil ::{ flag=BR }:: | 1 | **6** | ::{ flag=UA }:: **Ukraine** |
+| **Poland** ::{ flag=PL }:: | **6** | 0 | ::{ flag=RO }:: Romania |
+| **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=SE }:: Sweden |
+| **Philippines** ::{ flag=PH }:: | **6** | 5 | ::{ flag=UA }:: Ukraine |
+| Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=CN }:: **China** |
+| Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=DE }:: **Germany** |
+| **Poland** ::{ flag=PL }:: | **6** | 0 | ::{ flag=TR }:: Türkiye |
+| **United States** ::{ flag=US }:: | **6** | 2 | ::{ flag=CA }:: Canada |
 
-In retrospect, the week went on to be, in large part, a showcase of the best teams flexing their muscle. Top seeds and tournament favourites South Korea and Australia annihilated their opposition, beating Hong Kong 6–0 and the United Kingdom 6–1, respectively, to advance to the Semifinals.
+It was a shake-down week in the osu! World Cup as the bracket was whittled down from 24 teams to a mere 12, and the contenders sought to elevate themselves above the pretenders. This was the the Quarterfinals weekend, a chance for the elite of the tournament to showcase their skills and a marathon battle for survival for those teams entering this stage in the losers' bracket, forced now to play two matches per week to stave off elimination.
 
-Germany and the United States emerged the victors of the other two Quarterfinal matchups on the winners' side; Germany continued their historical dominance over Russia with a 6–3 score to make the head-to-head to 7–0 over the course of World Cup history, while the United States exorcised their demons by beating Canada 6–2.
+In retrospect, the weekend went on to become in large part a showcase of the best teams flexing their muscles. The top seeds and tournament favourites ::{ flag=KR }:: South Korea and ::{ flag=AU }:: Australia annihilated their opposition in their advance to the Semifinals, while team ::{ flag=DE }:: Germany continued its historical dominance over ::{ flag=RU }:: Russia, bringing their head-to-head matchup to 7–0 over the course of World Cup history.
 
-This rematch of their 2023 Quarterfinals bout, in which Canada pulled off one of the largest upsets in recent World Cup memory, was still very close despite the misleading scoreline. The United Statses won the last two points of the match by a combined margin of only 150,000 points as Canada battled to the bitter end.
+Meanwhile, the North American standoff ended up this time 6–2 in favour of the ::{ flag=US }:: United States. This rematch of their 2023 Quarterfinals bout, in which ::{ flag=CA }:: Canada pulled off one of the largest upsets in recent world cup memory, was still very close despite the misleading scoreline. The last two points of the match were won by a combined margin of only 150,000 points, as ::{ flag=CA }:: Canada battled to the bitter end.
 
-The losers' bracket would be the stage where 12 teams were eliminated over the course of the Quarterfinals week, their World Cup aspirations coming to an end. The first set of losers bracket matches for the week would play out as predictions expected, with one notable exception.
+For the first round of losers' bracket matches, it would be ::{ flag=UA }:: Ukraine to pull off the only upset of the week as far as pick'ems were concerned. After defeating ::{ flag=BR }:: Brazil 6–1 despite spectators choosing them 7:3, it turns out the country that doesn't care about the odds has an osu! World Cup team to match. They would go on to end their run against the ::{ flag=PH }:: Philippines, but not without showing us the undisputed match of the week – read on for a full analysis [further below](#philippines-vs.-ukraine).
 
-Perhaps fittingly, it would be Ukraine to pull off the only upset of the week when pick'ems were concerned, defeating Brazil 6–1 despite pick'ems participants choosing Brazil by a 67.2% to 32.7% margin — a country that doesn't care about the odds has an osu! World Cup team to match.
+In the second losers' bracket round last weekend, there were again no pick'em surprises, but the winners all stood out for their own reasons:
 
-When all was said and done, we said farewell to eight teams in this stage of matches, as Finland, France, Indonesia, Japan, Romania, Taiwan, and Thailand joined Brazil finishing their 2024 campaigns in the top 24.
+- ::{ flag=PL }:: Poland bounced back from their singular point loss last weekend with a perfect win rate, earning a spot in the top 12 despite replacing over half of their 2023 roster.
+- ::{ flag=CL }:: Chile took down ::{ flag=SE }:: Sweden 6–1 and look to be rounding into form as they seek to live up to expectations as the #7 seed.
+- ::{ flag=CN }:: China, running back a core roster that continues to stand the test of time, swept ::{ flag=NO }:: Norway 6–0 in a surprising outcome that was truly closer than the scoreline indicated.
 
-In the resulting potential matches, there were again no pick'ems surprises, but the winners all stood out for their own reasons. Poland defeated Turkiye 6–0, completing a perfect 12–0 weekend and earning a spot in the top 12 despite replacing over half of their 2023 roster.
-
-Chile took down Sweden 6–1 and look to be rounding into form as they seek to live up to their #7 seed expectations, and China, running back a core roster that continues to stand the test of time, swept Norway 6–0 in a surprising outcome that was truly closer than the scoreline indicated.
-
-Finally, the Philippines defeated Ukraine 6–5 in the undisputed match of the week – read on for a full analysis of this incredible battle between two countries desperate to continue on in the bracket.
-
-It is with great respect for these nations that we thus bid adieu to the teams finishing at 13th–16th; Turkiye achieved their best World Cup finish ever, while Sweden, Norway, and Ukraine all acquitted themselves honourably to finish in the top half of the standings.
+After all is said and done, it is with great respect that we bid adieu to ::{ flag=TR }:: Türkiye for achieving their best world cup finish ever along with ::{ flag=NO }:: Norway, ::{ flag=SE }:: Sweden and ::{ flag=UA }:: Ukraine at 13th–16th, as well as ::{ flag=BR }:: Brazil, ::{ flag=FI }:: Finland, ::{ flag=FR }:: France, ::{ flag=ID }:: Indonesia, ::{ flag=JP }:: Japan, ::{ flag=RO }:: Romania, ::{ flag=TH }:: Thailand and ::{ flag=TW }:: Taiwan for finishing their 2024 campaigns in the top 24.
 
 ### ::{ flag=PH }:: Philippines vs. ::{ flag=UA }:: Ukraine
 
