@@ -62,14 +62,24 @@ original description by dada + mapper thoughts
         margin-bottom: 2px;
     }
 
-    .news-chat-quote__colour-no-group {
-        color: #FFFFFF;
-    }
-
-    .news-chat-quote__colour-lvd {
-        color: #FFD1DC;
+    .news-chat-quote__colour-fa {
+        color: #00FFFF;
     }
 </style>
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/358" style="background-image: url('/wiki/shared/avatars/Genkaku_Aria.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/358">Genkaku Aria</a></p>
+
+I'm very grateful to all the members who were involved in this project. All of the project members valued the worldview of the song and gave their best performance. The design, maps, video, etc. are all of high quality.
+
+When creating the music for OWC, I placed importance on a sense of speed and the number of notes. I hope you enjoy the cold, sad, and beautiful worldview. If you haven't seen the work yet, please check it out.
+
+I'd like to thank the osu! management for giving me this opportunity.
+
+</div>
 
 ## Quarterfinals summary
 
