@@ -30,17 +30,12 @@ After a user is silenced, an alert will be displayed in place of the chat input 
 
 If you believe you were silenced unfairly, contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! username, as well as the approximate date and time when the silence was handed out.
 
-## Common reasons and durations for silences
+## Common reasons for silences
 
 *Caution: Engaging in "inappropriate behaviour" in private messages is not against the rules, unless said inappropriate behaviour is being delivered to unwilling or unconsenting recipients. If reported, appropriate punishments will be placed.*
 
-| Silence reason | Duration |
-| :-- | :-- |
-| Spam or inappropriate discussions in chat | 5 minutes |
-| Inappropriate comments, beatmap discussion posts, or forum posts | 80 minutes |
-| Racism in chat | 80 minutes |
-| Repeated or severely inappropriate song submission | 43 hours[^exact-duration] |
-| Inappropriate links or visual content | 43 hours[^exact-duration] |
+- Inappropriate behaviour in public chats or forums (e.g. `#multiplayer`, beatmap discussions, comments, etc.), including — but not limited to — spamming, nonsense chat, racism, etc.
+- Uploading or posting inappropriate content via other means (e.g. profile avatars, beatmap submissions, profile details, user page bio, banner, etc.).
 
 While these are the most common reasons, silences can last any amount of time between 5 minutes and 28 days if the moderators deem it necessary due to the severity of the offence.
 
@@ -51,4 +46,3 @@ Very severe or repeated offences may result in an [account restriction](/wiki/He
 ## Notes and references
 
 [^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
-[^exact-duration]: These silences are technically 42 hours and 40 minutes long due to durations being calculated based on factors of 5 minutes.
