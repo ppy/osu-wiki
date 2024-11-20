@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "osu! World Cup 2024: Round of 16 Recap"
-date: 2024-11-14 16:00:00 +0000
+title: "osu! World Cup 2024: Quarterfinals Recap"
+date: 2024-11-20 23:00:00 +0000
 ---
 
 teaser text
