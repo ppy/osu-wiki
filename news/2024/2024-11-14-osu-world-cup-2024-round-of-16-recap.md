@@ -111,6 +111,25 @@ Personally, I think a large amount of staff members that are vital to the succes
 
 ## Round of 16 summary
 
+| Team A |  |  | Team B |
+| --: | :-: | :-: | :-- |
+| **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=SE }:: Sweden |
+| **Germany** ::{ flag=DE }:: | **5** | 2 | ::{ flag=NO }:: Norway |
+| Austria ::{ flag=AT }:: | 1 | **5** | ::{ flag=ID }:: **Indonesia** |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=BR }:: Brazil |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=PH }:: Philippines |
+| Belarus ::{ flag=BY }:: | 0 | **5** | ::{ flag=RO }:: **Romania** |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 4 | ::{ flag=CN }:: China |
+| Kazakhstan ::{ flag=KZ }:: | 1 | **5** | ::{ flag=UA }:: **Ukraine** |
+| **Taiwan** ::{ flag=TW }:: | **5** | 3 | ::{ flag=MY }:: Malaysia |
+| Argentina ::{ flag=AR }:: | 1 | **5** | ::{ flag=JP }:: **Japan** |
+| Singapore ::{ flag=SG }:: | 2 | **5** | ::{ flag=TH }:: **Thailand** |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=PL }:: Poland |
+| Spain ::{ flag=ES }:: | 4 | **5** | ::{ flag=FI }:: **Finland** |
+| Peru ::{ flag=PE }:: | 2 | **5** | ::{ flag=FR }:: **France** |
+| Chile ::{ flag=CL }:: | 3 | **5** | ::{ flag=GB }:: **United Kingdom** |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=TR }:: Türkiye |
+
 The Round of 16 weekend has been jam-packed full of exciting matches, with teams both fighting for their survival, and trying to keep the coveted winners' bracket spots. Unfortunately, the following teams have been eliminated, and we have to bid them farewell from the world cup stage: ::{ flag=AR }:: Argentina, ::{ flag=AT }:: Austria, ::{ flag=BY }:: Belarus, ::{ flag=KZ }:: Kazakhstan, ::{ flag=MY }:: Malaysia, ::{ flag=PE }:: Peru, ::{ flag=SG }:: Singapore, and ::{ flag=ES }:: Spain.
 
 Over on the winners' bracket, we can see that it's been purged of everything but the elite, with the top 10 seeds completely occupying the remaining spots. As those spots continue to be halved each week, we can look forward to some great matches coming from these titans as they fight each other for supremacy in the upcoming Quarterfinals this weekend!
