@@ -30,9 +30,13 @@ da video by da vinki
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2298658144&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-pool image
+The pool expanded in this Quarterfinals round, and with that size increase came some unique picks. Tackling the Big, Black elephant in the room first - yes. That is Mismagius's(https://osu.ppy.sh/users/19048) original, iconic map of THE BIG BLACK(https://osu.ppy.sh/beatmapsets/41823#osu/131891) in our FreeMod pool. It was picked or banned in over half of the matches this round.
 
-dada text
+Other recognizable maps to be present include Frostmourne's(https://osu.ppy.sh/users/199669) map of IGNITE(https://osu.ppy.sh/beatmapsets/209170/#osu/492285) and CXu's(https://osu.ppy.sh/users/84841) take on the full version of Wing my Way(https://osu.ppy.sh/beatmapsets/850548/#osu/1778268), both beloved songs in the Double Time pool. The former is a staple 2014 map with aim and tapping elements done in a comfortable, yet signature style for that era, while the latter is a tough flow aim challenge when DT'd.
+
+Switching the topic to brand-new maps, this QF pool was the debut of a couple of them, including but not limited to: the stamina and stream aim test Rebuilding(https://osu.ppy.sh/beatmapsets/2278182#osu/4855537), mapped by iamtickrate(https://osu.ppy.sh/users/10772580), a favorite of those who take pride in shredding long streams; the technical slider challenge of It's Our Destiny (Cuepric Remix)(https://osu.ppy.sh/beatmapsets/2278186#osu/4855557), a collab between Azrulk(https://osu.ppy.sh/users/12046612) and Ishtiaq(https://osu.ppy.sh/users/6405262); and the reading and overlap-heavy Coffee no Aji to(https://osu.ppy.sh/beatmapsets/2278079#osu/4855234) by KnightC0re(https://osu.ppy.sh/users/7894340).
+
+...oh, [and the writer of this section made a map too](https://osu.ppy.sh/beatmapsets/2278205#osu/4855591)...
 
 [![](/wiki/shared/news/2024-11-20-osu-world-cup-2024-quarterfinals-recap/whiteout-banner.jpg)](https://osu.ppy.sh/beatmapsets/2278209#osu/4855599)
 
@@ -42,7 +46,7 @@ dada text
     </audio>
 </div>
 
-original description by dada + mapper thoughts
+For our tiebreaker this week, we once again had a brand-new, jamming original unveiled: Whiteout(https://osu.ppy.sh/beatmapsets/2278209#osu/4855599) by Genkaku Aria(https://osu.ppy.sh/beatmaps/artists/358), featuring vocals by the wonderful KOKOMI(I don't know what link to put here, soundcloud or twitter maybe?). Adapted into a fast-paced alt and aim test by KKipalt(https://osu.ppy.sh/users/6889573) and Icekalt(https://osu.ppy.sh/users/5410645), this tiebreaker ended up being played in a nail-biter of a match between the Philippines and Ukraine, which included a fittingly close finish. Definitely check it out!
 
 <style>
     .news-chat-quote__avatar {
