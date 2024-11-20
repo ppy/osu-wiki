@@ -40,7 +40,7 @@ Going back to the present times, we had some awesome custom maps in the pool las
 
 ---
 
-![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)
+[![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -77,7 +77,7 @@ Going back to the present times, we had some awesome custom maps in the pool las
 
 We also had an [osu! original](/wiki/osu!_originals) outside the tiebreaker slot: [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s energetic hardstyle song [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) was mapped by [Megafan](https://osu.ppy.sh/users/6632605) as an intense challenge of slider aim and technical streams in our Hard Rock pool.
 
-![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
+[![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -97,7 +97,7 @@ In between the usual love and care put into every song with original artwork and
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7777875">Azer</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
 
 [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546) was created with a specific vision in mind. [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98) has great proficiency in expressing musical stories through their music, and I wanted to capture this idea in a way that suits an OWC tiebreaker.
 
