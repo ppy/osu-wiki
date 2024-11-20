@@ -8,9 +8,9 @@ First eliminations are in! Read on for the most exciting matchups and to find ou
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
-intro portion
+The team count is dwindling rapidly as twelve more teams have reached the end of their OWC runs! As the top 12 teams are preparing for this week's Semifinals, you can take the time to catch up (or reaffirm) your world cup lore.
 
-da video by da vinki
+If you don't feel like reading on, or prefer digesting lore with visuals, [Junihuhn](https://osu.ppy.sh/users/4182339) is here to help.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cld2spAZQ-M" frameborder="0" allowfullscreen></iframe>
@@ -114,7 +114,7 @@ In retrospect, the weekend went on to become in large part a showcase of the bes
 
 Meanwhile, the North American standoff ended up in a 6–2 win for the ::{ flag=US }:: United States. This rematch of their 2023 Quarterfinals bout, in which ::{ flag=CA }:: Canada pulled off one of the largest upsets in recent world cup memory, was still very close despite the misleading scoreline. The last two points were won by a combined margin of only 150,000 points, as ::{ flag=CA }:: Canada battled to the bitter end.
 
-For the first round of losers' bracket matches, it would be ::{ flag=UA }:: Ukraine to pull off the only upset of the week, as far as pick'ems were concerned. After defeating ::{ flag=BR }:: Brazil 6–1 despite spectators favouring them 7:3, it turned out the country that doesn't care about the odds has an osu! World Cup team to match. They would go on to end their run against the ::{ flag=PH }:: Philippines, but not without showing us the undisputed match of the week — read on for a full analysis [further below](#philippines-vs.-ukraine).
+For the first round of losers' bracket matches, it would be ::{ flag=UA }:: Ukraine to pull off the only upset of the week, as far as pick'ems were concerned. After defeating ::{ flag=BR }:: Brazil 6–1 despite spectators favouring them 7:3, it turned out the country that doesn't care about the odds has an osu! World Cup team to match. They would go on to end their run against the ::{ flag=PH }:: Philippines, but not without showing us the undisputed match of the week — read on for a full analysis [further below](#philippines-vs.--ukraine).
 
 In the second losers' bracket round last weekend, there were again no pick'em surprises, but the winners all stood out for their own reasons:
 
@@ -147,6 +147,6 @@ With motivation pushing from behind and pressure mounting from above, the Philip
 
 ---
 
-outro
+If you kept up with the recaps this year you know what's coming next, so let's cut to the chase. [Check the schedules on the wiki](/wiki/Tournaments/OWC/2024), put your [pick'em votes in](https://pickem.hwc.hr/tournaments/158), and we'll see you on either the [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) Twitch chats this weekend.
 
 —0x84f, Dada, D I O, this1neguy, Walavouchey
