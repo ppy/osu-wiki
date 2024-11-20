@@ -4,7 +4,7 @@ title: "osu! World Cup 2024: Quarterfinals Recap"
 date: 2024-11-20 23:59:00 +0000
 ---
 
-Another week has passed and another elimination round is over. Read on for the most exciting matchups, the teams leaving the world cup stage and where the pick'ems crumbled.
+Another week has passed and another elimination round is over. Read on for the most exciting matchups, the teams leaving the world cup stage, and where the pick'ems crumbled.
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
@@ -32,7 +32,7 @@ If you don't feel like reading on, or prefer digesting lore with visuals, [Junih
 
 ![](/wiki/shared/news/2024-11-20-osu-world-cup-2024-quarterfinals-recap/owc-2024-qf-mappool.jpg)
 
-For the first time this year, the pool was expanded quite a bit, with all mods receiving 1 more pick! This means the mappoolers had more chances to isolate specific skill sets, and allow for more specialised players to shine! Alongside the expansions, the pool continues to be populated with throwbacks, the big, black elephant in the room being the first thing to tackle. Yes, that is [Mismagius](https://osu.ppy.sh/users/19048)'s original, iconic map of [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891) in our Free Mod pool. It was picked or banned in over half of the matches this round.
+For the first time this year, the pool was expanded quite a bit, with all mods receiving 1 more pick! This means the mappoolers had more chances to isolate specific skill sets, and allow for more specialised players to shine! Alongside the expansions, the pool continues to be populated with throwbacks, the big, black elephant in the room being the first thing to address. Yes, that is [Mismagius](https://osu.ppy.sh/users/19048)'s original, iconic map of [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891) in our Free Mod pool. Unsuprisingly, it was picked or banned in over half of the matches this round.
 
 Next up we have [Frostmourne](https://osu.ppy.sh/users/199669)'s iconic 2014 map of [IGNITE](https://osu.ppy.sh/beatmapsets/209170/#osu/492285), offering that classic DT aim and tapping challenge old-timers know and love. [CXu](https://osu.ppy.sh/users/84841)'s take on the full version of [Wing my Way](https://osu.ppy.sh/beatmapsets/850548/#osu/1778268) also made its appearance as DT2, offering a tough aim flow challenge that will reward consistency the most.
 
@@ -135,7 +135,7 @@ After all is said and done, it is with great respect that we bid adieu to ::{ fl
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cld2spAZQ-M?start=792&end=947" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The best match of the Quarterfinals may have been one you didn't even know about or watch. With three matches all happening at once, ::{ flag=PH }:: Philippines (seed #9) vs. ::{ flag=UA }:: Ukraine (seed #22), drew the short straw of not being streamed on the official Twitch channels. As it happened, this unofficial stream would include the only tiebreaker match of the weekend
+The best match of the Quarterfinals may have been one you didn't even know about or watch. With three matches all happening at once, ::{ flag=PH }:: Philippines (seed #9) vs. ::{ flag=UA }:: Ukraine (seed #22), drew the short straw of not being streamed on the official Twitch channels. As it happened, this unofficial stream would include the only tiebreaker match of the weekend.
 
 Both teams had similar strengths yet different weaknesses coming into this match, resulting in a back-and-forth slugfest. The ::{ flag=PH }:: Philippines opened with [DT3](https://osu.ppy.sh/beatmapsets/2072797#osu/4419768) as their first pick, but ::{ flag=UA }:: Ukraine took it as a break point to start the match, consolidating with their own [DT1](https://osu.ppy.sh/beatmapsets/209170#osu/492285) first pick. The ::{ flag=PH }:: Philippines tried switching gears to [NM4](https://osu.ppy.sh/beatmapsets/2278186#osu/4855557), but with three scores above 700,000, ::{ flag=UA }:: Ukraine ended up with 2 break points for a 3–0 lead.
 
