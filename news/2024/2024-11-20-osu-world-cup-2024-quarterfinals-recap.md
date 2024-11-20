@@ -8,7 +8,7 @@ First eliminations are in! Read on for the most exciting matchups and to find ou
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
-The team count is dwindling rapidly as twelve more teams have reached the end of their OWC runs! As the top 12 teams are preparing for this week's Semifinals, you can take the time to catch up (or reaffirm) your world cup lore.
+The team count is dwindling rapidly as the total team count has halved, with 12 more teams standing! As the remaining teams are preparing for this week's Semifinals, you can take the time to catch up (or reaffirm) your world cup lore.
 
 If you don't feel like reading on, or prefer digesting lore with visuals, [Junihuhn](https://osu.ppy.sh/users/4182339) is here to help.
 
