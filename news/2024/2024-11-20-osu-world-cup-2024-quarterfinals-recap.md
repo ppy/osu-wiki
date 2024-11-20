@@ -131,25 +131,17 @@ After all is said and done, it is with great respect that we bid adieu to ::{ fl
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q3t9MojGc18?start=136&end=300" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The best match of the quarter finals was one you probably didn’t even know about or watch because the only tiebreaker match of the quarter finals weekend was not even streamed on an official channel. With three matches all happening at once, the Philippines vs Ukraine drew the short straw of not being streamed.
-
-This made sense before the matches started: Russia vs Germany in the winners bracket were seeds 4 and 5 while Norway vs China in the losers bracket were seeds 12 and 13, making these the two closest matchups of the weekend on paper, so seed 9 vs 22 should never be as close as those. “Should” does a lot of heavy lifting in that last sentence, as seed 22 Ukraine took seed 9 the Philippines to the only tiebreaker of the weekend.
+The best match of the quarter finals was one you probably didn't even know about or watch because the only tiebreaker match of the quarter finals weekend was not even streamed on an official channel. With three matches all happening at once, seed 9 vs seed 22, the Philippines vs Ukraine, drew the short straw of not being streamed officially, instead getting an unofficial English broadcast.
 
 Both teams had similar strengths but different weaknesses coming into this match, resulting in a back-and-forth slugfest. The Philippines opened with DT3 as their first pick, but Ukraine took it as a break point to start the match, consolidating with their own DT1 first pick. The Philippines tried switching gears to NM4, but with Ukraine putting up three scores above 700,000, this resulted in a 3-0 lead with two break points for Ukraine.
 
-Momentum quickly shifted with Ukraine’s next pick, the breakcore-style speed FM2. The Philippines took this map, won their own next HD2 pick with a whopping 905,684 coming from Rammu, and stole Ukraine’s HR2 pick afterward with a carry performance of 839,244 from zonelouise, tying the match 3-3.
+Momentum quickly shifted with Ukraine's next pick, the breakcore-style speed FM2. The Philippines took this map, won their own next HD2 pick with a whopping 905,684 coming from Rammu, and stole Ukraine's HR2 pick afterward with a carry performance of 839,244 from zonelouise, tying the match 3-3.
 
-Another two very close break points followed on HD3 and NM2 with very close 200,000 score differences on both maps, bringing the match to 4-4. Both teams had saved a good last pick for this moment, with the Philippines picking NM5, the AR5 reading pick, and Ukraine picking HR3, the flow alt tech hybrid map. Both teams won their last pick comfortably, in contrast to the 6 break points of 8 maps played before this. With the teams tied 5-5, the only tiebreaker of the quarter finals weekend was secured.
+Another two very close break points followed on HD3 and NM2 with very close 200,000 score differences on both maps, bringing the match to 4-4. Both teams had saved a good last pick for this moment, with the Philippines picking NM5, the AR5 reading pick, and Ukraine picking HR3, the flow alt tech hybrid map. With the teams tied 5-5, the only tiebreaker of the quarter finals weekend was secured.
 
 Both these teams had something to prove going into this tiebreaker; the Philippines and Ukraine both lost at least one key team member from last year, with enri and hyeok2044 leaving the Philippines and dench leaving Ukraine, so repeating or going beyond their final placement last year would prove that these teams can hold their own year to year regardless of roster changes.
 
 With motivation pushing from behind and pressure mounting from above, the Philippines and Ukraine loaded into Whiteout for one last map. It ended up being a battle of carry players as NathanRam1918 and RafGPio found big combos at different points, and in the end, the tiebreaker went to the Philippines in one of the closest maps of the match, a 56,475 score difference.
-
-For Ukraine, this loss marks their second year in a row finishing in the top 16 of OWC, matching their best-ever performance from last year. With only 56,476 points separating them from the top 12, Ukraine can exit with their heads held high and with hope for the future.
-
-For the Philippines, this win brings them to the top 12 for the second time in OWC history. While they have a tough road ahead of them if they want to match their top 6 finish from last year, expectations for this team coming into OWC were, in many people’s minds, lower than top 12, and perhaps lower than top 16.
-
-In every competition, there are winners and losers, but this match is one of the rarest kinds; one where both teams proved their mettle, proved their doubters wrong, and proved they deserve their reputation in the osu! World Cup.
 
 ---
 
