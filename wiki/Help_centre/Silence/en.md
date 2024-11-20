@@ -43,6 +43,6 @@ Silences generally double in length each time they are issued to the same user. 
 
 Very severe or repeated offences may result in an [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
 
-## Notes and references
+## References
 
 [^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
