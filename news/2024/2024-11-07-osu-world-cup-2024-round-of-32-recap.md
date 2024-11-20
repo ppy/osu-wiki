@@ -42,7 +42,7 @@ The pool had its fair amount of modern maps — some made specifically for the t
 
 Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in the tournament — and what a project it is.
 
-![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)
+[![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)](https://osu.ppy.sh/beatmapsets/2271658)
 
 <div class="osu-md__paragraph">
     <audio controls>

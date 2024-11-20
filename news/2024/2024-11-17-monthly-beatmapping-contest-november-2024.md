@@ -139,6 +139,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).**
 - **osu!catch submissions must be solely made by you.** Collaborations are only allowed for osu!taiko maps this month!
+- **You may only participate in *one* osu!taiko submission.**
 
 Note that all submissions will be anonymised before they're reviewed by screeners/judges to avoid bias.
 
