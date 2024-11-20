@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! World Cup 2024: Quarterfinals Recap"
-date: 2024-11-20 23:00:00 +0000
+date: 2024-11-20 23:45:00 +0000
 ---
 
-First eliminations are in! Read on for the most exciting matchups and to find out which teams are leaving the world cup stage.
+Another week has passed and another elimination round is over. Read on for the most exciting matchups, the teams leaving the world cup stage and where the pick'ems crumbled.
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
@@ -149,6 +149,6 @@ With motivation pushing from behind and pressure mounting from above, the ::{ fl
 
 ---
 
-If you kept up with the recaps this year, you know what's coming next: [Check the schedules on the wiki](/wiki/Tournaments/OWC/2024), put your [pick'em votes in](https://pickem.hwc.hr/tournaments/158), and we'll see you on either the [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) Twitch chats this weekend.
+If you kept up with the recaps this year, you know what's coming next: [Check the schedules on the wiki](/wiki/Tournaments/OWC/2024), put your [pick'em votes](https://pickem.hwc.hr/tournaments/158) in, and we'll see you on either the [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) Twitch chats this weekend.
 
 —0x84f, Dada, D I O, this1neguy, Walavouchey
