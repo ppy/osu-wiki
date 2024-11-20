@@ -30,6 +30,8 @@ If you don't feel like reading on, or prefer digesting lore with visuals, [Junih
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2298658144&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
+![](/wiki/shared/news/2024-11-20-osu-world-cup-2024-quarterfinals-recap/owc-2024-qf-mappool.jpg)
+
 For the first time this year, the pool was expanded quite a bit, with all mods receiving 1 more pick! This means the mappoolers had more chances to isolate specific skill sets, and allow for more specialised players to shine! Alongside the expansions, the pool continues to be populated with throwbacks, the big, black elephant in the room being the first thing to tackle. Yes, that is [Mismagius](https://osu.ppy.sh/users/19048)'s original, iconic map of [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891) in our Free Mod pool. It was picked or banned in over half of the matches this round.
 
 Next up we have [Frostmourne](https://osu.ppy.sh/users/199669)'s iconic 2014 map of [IGNITE](https://osu.ppy.sh/beatmapsets/209170/#osu/492285), offering that classic DT aim and tapping challenge old-timers know and love. [CXu](https://osu.ppy.sh/users/84841)'s take on the full version of [Wing my Way](https://osu.ppy.sh/beatmapsets/850548/#osu/1778268) also made its appearance as DT2, offering a tough aim flow challenge that will reward consistency the most.
