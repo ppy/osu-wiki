@@ -108,7 +108,7 @@ I'd like to thank the osu! management for giving me this opportunity.
 | **Poland** ::{ flag=PL }:: | **6** | 0 | ::{ flag=TR }:: Türkiye |
 | **United States** ::{ flag=US }:: | **6** | 2 | ::{ flag=CA }:: Canada |
 
-24 teams where whittled down to a mere 12 in this first shakedown week of the osu! World Cup, where the contenders sought to elevate themselves above the pretenders. Teams entering this stage in the losers' bracket were now forced to play two matches per week to stave off elimination.
+24 teams were whittled down to a mere 12 in this first shakedown week of the osu! World Cup, where the contenders sought to elevate themselves above the pretenders. Teams entering this stage in the losers' bracket were now forced to play two matches per week to stave off elimination.
 
 In retrospect, the weekend went on to become in large part a showcase of the best teams flexing their muscles. The top seeds ::{ flag=KR }:: South Korea and ::{ flag=AU }:: Australia annihilated their opposition in their advance to the Semifinals, while team ::{ flag=DE }:: Germany continued its historical dominance over ::{ flag=RU }:: Russia, bringing their head-to-head matchup to 7–0 over the course of World Cup history.
 
