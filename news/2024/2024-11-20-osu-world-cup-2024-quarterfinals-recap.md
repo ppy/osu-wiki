@@ -4,7 +4,7 @@ title: "osu! World Cup 2024: Quarterfinals Recap"
 date: 2024-11-20 23:00:00 +0000
 ---
 
-teaser text
+First eliminations are in! Read on for the most exciting matchups and to find out which teams are leaving the world cup stage.
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
