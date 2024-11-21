@@ -140,25 +140,26 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Nov 23 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T030000&p1=1440&p2=102&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=PH }:: Philippines | [Nov 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T140000&p1=1440&p2=136&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=PL }:: Poland | [Nov 23 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T150000&p1=1440&p2=166&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Nov 23 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T160000&p1=1440&p2=188&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=PL }:: Poland | [Nov 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241123T180000&p1=1440&p2=166&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 24 November 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Nov 24 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=HK }:: Hong Kong | [Nov 24 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T110000&p1=1440&p2=166&p3=102) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=HK }:: Hong Kong | [Nov 24 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T110000&p1=1440&p2=262&p3=102) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Semifinals | showmatch | [Nov 24 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T020000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+| Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Nov 24 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T040000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 24 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T130000&p1=1440&p2=235&p3=37) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=GB }:: United Kingdom | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=188&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=188&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T180000&p1=1440&p2=166&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T180000&p1=1440&p2=262&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T140000&p1=1440&p2=102&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=HK }:: Hong Kong | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=166&p3=102) | *TBD* | [^potential-match] |
+| Poland ::{ flag=PL }:: | ::{ flag=HK }:: Hong Kong | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=262&p3=102) | *TBD* | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=33&p3=136) | *TBD* | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=33&p3=145) | *TBD* | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=166&p3=232) | *TBD* | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=GB }:: United Kingdom | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=188&p3=136) | *TBD* | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=188&p3=145) | *TBD* | [^potential-match] |
+| Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T180000&p1=1440&p2=262&p3=232) | *TBD* | [^potential-match] |
 | Finals | mappool showcase | [Nov 24 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
@@ -626,6 +627,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
+[^showmatch]: Semifinals showmatch — playtesters get drafted into both teams. Viewers choose which maps are played in real time
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
