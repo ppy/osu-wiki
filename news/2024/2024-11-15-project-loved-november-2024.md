@@ -271,7 +271,7 @@ Are you ready for the WORM RAVE? ◙▒◙ ♫♩♬ ₍₍ ◝(・ω・)◟ ⁾
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users/7620002), [Dahcreeper](https://osu.ppy.sh/users/6926006), and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users/7620002), and [Dahcreeper](https://osu.ppy.sh/users/6926006)!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR18%20-%20Project%20Loved:%20November%202024%20(osu!catch).zip)**
 
@@ -282,16 +282,6 @@ The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users
 </div>
 
 ---
-
-[![](/wiki/shared/news/2024-11-15-project-loved-november-2024/966789.jpg)](https://osu.ppy.sh/community/forums/topics/2003521)
-
-[Happatai - YATTA!](https://osu.ppy.sh/beatmapsets/966789#fruits) by [Xinnoh](https://osu.ppy.sh/users/4236057)\
-133 BPM, 3:52 | 3.81★\
-*description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
-
-[Xinnoh](https://osu.ppy.sh/users/4236057) is a name that everyone who plays catch actively has heard of. They mapped so much that you can find everything in their selection. Also maps like [YATTA!](https://osu.ppy.sh/beatmapsets/966789), which does really stand out for being a bit of an odd one. I definitely don't mean it in a bad way, the map is lots of fun. But it isn't very difficult nor does it have any unrankable shenanigans. But the style of the map, revolving heavily around slider patterns that match the song's rhythm, is just beautiful. The description of the map simply says "+hddt". This is because this becomes rather challenging with those mods and very difficult to SS. For most people it is probably too easy to play normally, so why not challenge yourself?
-
-A great early 2000 Japanese meme song turned into a very fun and quirky beatmap, doesn't that sound cool?
 
 [![](/wiki/shared/news/2024-11-15-project-loved-november-2024/2202779.jpg)](https://osu.ppy.sh/community/forums/topics/2003520)
 
