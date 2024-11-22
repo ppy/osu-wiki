@@ -156,7 +156,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 | Poland ::{ flag=PL }:: | ::{ flag=HK }:: Hong Kong | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=262&p3=102) | *TBD* | [^potential-match] |
 | China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=33&p3=136) | *TBD* | [^potential-match] |
 | China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=33&p3=145) | *TBD* | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=166&p3=232) | *TBD* | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T150000&p1=1440&p2=166&p3=232) | *TBD* | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=GB }:: United Kingdom | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=188&p3=136) | *TBD* | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | [Nov 24 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T160000&p1=1440&p2=188&p3=145) | *TBD* | [^potential-match] |
 | Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Nov 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241124T180000&p1=1440&p2=262&p3=232) | *TBD* | [^potential-match] |
