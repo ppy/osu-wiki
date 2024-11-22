@@ -45,7 +45,7 @@ Tidak mudah bagi kami untuk memberikan dukungan pada saat seluruh jenis masalah 
 
 ### Hilangnya kendali
 
-_Lag_ ini terjadi apabila dalam permainan, satu atau lebih perangkat input yang kamu miliki berhenti merespon. Segala sesuatunya pada layar tampil sebagaimana mestinya, namun permainan tidak dapat dimainkan dengan hingga kontrol ini kembali. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
+*Lag* ini terjadi apabila dalam permainan, satu atau lebih perangkat input yang kamu miliki berhenti merespon. Segala sesuatunya pada layar tampil sebagaimana mestinya, namun permainan tidak dapat dimainkan dengan hingga kontrol ini kembali. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
 - Tekan `Ctrl` + `F11` untuk membuka tampilan Frame Time Graph. Periksa apakah terdapat banyak warna putih pada bagan pada saat hal ini terjadi (yang berarti bahwa terdapat aplikasi atau *driver* lainnya pada sistem kamu yang menggunakan terlalu banyak waktu CPU dan menunda input).
 
@@ -59,7 +59,7 @@ _Lag_ ini terjadi apabila dalam permainan, satu atau lebih perangkat input yang 
 - Cobalah untuk mengubah nilai batasan FPS dan periksa apakah situasimu membaik.
 - Pastikan bahwa kamu sedang menjalankan osu! pada mode Fullscreen eksklusif (bukan Borderless). Hal ini akan selalu meningkatkan performa yang ada.
 - Pastikan bahwa kamu sedang mengaktifkan pengaturan [*game mode*](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10). Pengaturan ini mengizinkan Windows untuk menyediakan berbagai sarana inti dan sumber daya yang khusus untuk osu!.
-- Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat *spike* ini terjadi, semisal akibat pemindai virus atau _malware_ yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode *autoplay*.
+- Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat *spike* ini terjadi, semisal akibat pemindai virus atau *malware* yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode *autoplay*.
 
 ## Batasan FPS
 
@@ -79,17 +79,17 @@ Disarankan untuk PC yang telah cukup berumur atau untuk menghemat daya baterai p
 
 ### Optimal
 
-Batasan FPS ini akan berupaya untuk menjaga FPS agar setara dengan 8x _refresh rate_ monitor hingga maksimal 960 FPS. Batasan ini adalah batasan yang kami rekomendasikan untuk para pengguna yang tidak ingin menjalankan CPU/GPU mereka ke titik maksimalnya, namun tetap ingin menjaga performa yang mumpuni demi memperoleh jeda input yang rendah.
+Batasan FPS ini akan berupaya untuk menjaga FPS agar setara dengan 8x *refresh rate* monitor hingga maksimal 960 FPS. Batasan ini adalah batasan yang kami rekomendasikan untuk para pengguna yang tidak ingin menjalankan CPU/GPU mereka ke titik maksimalnya, namun tetap ingin menjaga performa yang mumpuni demi memperoleh jeda input yang rendah.
 
 Dari sudut pandang teknis, batasan ini dapat lebih diutamakan dibanding `Unlimited` untuk mengurangi jumlah *frame* yang di-*render* dan mengurangi potensi terdapatnya *frame* yang hilang akibat proses [*garbage collection*](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) (yang dapat membekukan layar selama sepersekian detik).
 
 ### Unlimited
 
-Batasan FPS ini merupakan batasan yang tidak membatasi FPS yang ada. osu! akan me-_render_ gambar secepat yang CPU/GPU kamu mampu.
+Batasan FPS ini merupakan batasan yang tidak membatasi FPS yang ada. osu! akan me-*render* gambar secepat yang CPU/GPU kamu mampu.
 
 Walaupun batasan ini sekilas terlihat seperti pilihan yang terbaik dari semuanya (dan memang demikian, apabila kamu memiliki perangkat keras yang mendukung), terdapat beberapa hal yang harus kamu pertimbangkan seputar batasan ini sebagai berikut:
 
-- Dengan me-_render_ lebih banyak _frame_, terdapat potensi yang lebih besar akan terdapatnya *frame* yang hilang akibat proses [*garbage collection*](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)).
+- Dengan me-*render* lebih banyak *frame*, terdapat potensi yang lebih besar akan terdapatnya *frame* yang hilang akibat proses [*garbage collection*](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)).
 - Dengan mendorong CPU dan GPU kamu hingga batas tertingginya, terdapat kemungkinan kedua perangkat ini akan mengalami kelebihan muatan (*throttling*), yang akan menurunkan performa permainan kamu secara umum.
 - GPU pada umumnya tidak ditujukan untuk me-*render* hingga 1000+ *frame* per detiknya. Oleh karenanya, batasan ini dapat menyebabkan perilaku yang tidak diinginkan, seperti performa yang lebih rendah dan jeda yang lebih tinggi dari yang semestinya.
 
