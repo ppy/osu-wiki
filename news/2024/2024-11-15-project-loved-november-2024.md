@@ -271,7 +271,7 @@ Are you ready for the WORM RAVE? ◙▒◙ ♫♩♬ ₍₍ ◝(・ω・)◟ ⁾
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users/7620002), and [Dahcreeper](https://osu.ppy.sh/users/6926006)!
+The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users/7620002) and [Dahcreeper](https://osu.ppy.sh/users/6926006)!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR18%20-%20Project%20Loved:%20November%202024%20(osu!catch).zip)**
 
