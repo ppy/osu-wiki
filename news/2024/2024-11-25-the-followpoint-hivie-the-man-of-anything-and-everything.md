@@ -48,49 +48,49 @@ I'd also like to say something at the end of this interview, but first things fi
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Hello Hivie, thank you so much for agreeing to this interview! First up, could you please give us a short introduction on who you are and what you usually do in osu! team?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 Hello! I'm a random person on the internet whose a little corner in the world is osu!. I've been part of the [osu! team](/wiki/People/osu!_team) for the past 3 years and I've been doing a lot of things there, primarily [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) leadership, osu! medals, running the Daily Challenge, and a bunch of other internal housekeeping stuff. I do also contribute to other areas like [Project Loved](/wiki/Community/Project_Loved), [Tournament Committee](/wiki/People/Tournament_Committee), [MBC](/wiki/Contests/Monthly_Beatmapping_Contest), [osu! wiki](/wiki/osu!_wiki) maintenance, and so on.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 How did you find osu! and what was your impression of it?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 My first encounter in osu! was actually in 2017 through some YouTube video, I didn't really like it because it set my first impression to "silly anime game". Fast-forward to early 2019, I was actually in my newbie anime enjoyer phase and was looking for a new game to play because I started to dread playing FPS games all the time. So, the reason that drove me away from the game is the same one that got me into it years later.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Are you familiar with the original Taiko no Tatsujin series?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 Yes, briefly. Being an osu!taiko player make it mandatory for me to know it, so to say. Unlike many players, it had nothing with me getting into osu!taiko, tho I wish I'd get to play it one day on an arcade machine.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Why did you choose to be an osu!taiko player among all game modes there are?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
@@ -100,25 +100,25 @@ On 1 January 2020 I submitted [my first osu!taiko beatmap](https://osu.ppy.sh/be
 
 Nowadays, while my monthly playcount is low, I still play osu! and osu!taiko pretty equally.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 What is your source of motivation to stay involved in basically all aspects of osu! even after all these years?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 the osu! community has been, and still is, a once in a lifetime experience for me, and I've grown attached to all the workflows and people I've met along the way. The reason I'm still here, and will be for the foreseeable future, is because it's a place that I can call *home* in some form, despite the ups and downs.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 What would you call the greatest gift that osu! has given you?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
@@ -127,25 +127,25 @@ I want to name 2 things:
 1. People skills: I've been a pretty timid person for a good chunk for my life, and osu! has helped me develop my social skills in a way I didn't expect, both through working together on projects, and through managing and leading teams.
 2. Programming skills: I've been studying in the computer science field for the past 5 years, and for a while, people around me kept emphasizing the importance of experience rather than just theoretical knowledge. osu! has been a great place for me to seek said experience through working on various projects development-wise (i.e. ontributing to the [BN website](https://bn.mappersguild.com), making my own [Discord bot](https://github.com/Hiviexd/AxerBot), and many other internal tools/script that proved their convenience when needed), and my involvment has always pushed me to always learn new things and improve my current capabilities.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Is there anything you would change about the osu!taiko community?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 Currently? I'd wish for people to stay. In recent years, taiko has been on a slow decline in terms of player and mapper activity, with many veterans and experienced people quitting, and not enough new people interested in honing their skills and staying. I'd love to see more people stay when they try to get more involved with the community, as we currently have a lot of passerbys who don't stick around after reaching Muzukashiis, or after making their first couple of maps.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Do you have plans to grind osu!taiko and get better at it? Or maybe just casually playing sometimes?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
@@ -153,26 +153,26 @@ Uh, hard to say. If you look at my [playcount graph](https://osu.ppy.sh/users/14
 
 However, I do get motivation sparks once every few months, and my improvement has been steady. My current goal is to reach #1 country rank, which i'm around 400pp away from.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 And before we move to the next section, how did you join the osu! team originally?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 I joined the osu!team in March 2023 following my appointment as NAT leader. From there, it opened many opportunities for me and motivated me to contribute to the game on an very close level, so I kept going at it with no regrets.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Now, let's talk about mapping a little.
 How did you get into mapping and even eventually became a NAT Leader?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
@@ -186,25 +186,25 @@ Thankfully, my efforts didn't go unnoticed, and on November 2022 I was added to 
 
 During March 2023, the NAT was dealing with serious organisational issues, momentum was slowing down and the team was in a dire need of a proactive hand that could help steer the ship back on track. So, months of lengthly discussions eventually led to the team unanimously appointing [radar](https://osu.ppy.sh/users/7131099) and I as leaders of the group, which had us officially join the osu! team.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 As a mapper, what do you appreciate the most in Beatmap Nominators?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 I appreciate how integral their role is in the grand scheme of things, they're a silent force that keeps our ecosystem running. People tend to either not grasp or underestimate the amount of effort and time they put into their work, and it's pretty sad to see them being easily used as scapegoats for any mapping disputes.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 If you had to choose the best osu!taiko beatmap (in your opinion), which one would that be and why?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
@@ -213,74 +213,74 @@ It's pretty hard to label a single beatmap as the best, so I'll just shout out a
 - [Camellia - Looking for Edge of Ground](https://osu.ppy.sh/beatmapsets/1678197#taiko/3428627) by [Genjuro](https://osu.ppy.sh/users/3196091), one of my most favourite Camellia songs paired by a map that *perfectly* compliments every detail in the song. The SV usage is prominent yet elegant, the patterning is top-notch, and overall there's nothing that could've been done better with the map.
 - [Madobe Rika - Panda Hero](https://osu.ppy.sh/beatmapsets/1832848#taiko/3762478) by [_Rise](https://osu.ppy.sh/users/5217107), winner of the [Mapping to Pander: Taiko #1](https://osu.ppy.sh/community/forums/topics/1624880?n=1) contest. A very energetic map and song, some intense SVs with fun tech-y patterns, what more can you ask for! My most favourite part would be the stream on 02:58:685, it's idea is so simple yet so perfectly effective.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Speaking of beatmaps, do you have any advice you would give to new mappers? Or those who just plan to try, but are too scared.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 My one advice is to try. Whether it's submitting your first map, finishing that one map of a song you love, posting your map in a modding queue, or even just asking for help in a mapping server. So many opportunities of learning and growth can be attained by simply trying. The one thing special about the osu! community is how welcoming and helpful it can get, which is a feeling that has been lost to time in many other places.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Oki doki, here comes my favorite part, medals :3
 What are your thoughts on the current state of medals?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 I think we've come a long way with medals, which is kind of surprising considering how limited the scope of medals is with osu!(stable). However I feel like we've started to plateau in terms of creativity and variety, that's why I'm really looking forward when we start releasing osu!(lazer)-exclusive medals. The possibilities there are much, *much* more vast with the gigantic library of mods, and how feasible is it to integrate medals in other areas technically (i.e. multiplayer).
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 What do you like about developing them the most?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 osu! medal hunters are insane schizos (in a good way), and trying to match that energy when brainstorming medals is always fun.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Speaking of development, do you have any ETA on when medals will display which map you received them on?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 Honestly I'm not sure, It might go against the spirit of secrecy with Hush-Hush medals, so it will need further considerations by the osu! team.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 And another question about dev side: When (and if) we will see multiplayer medals? In his interview Ephemeral mentioned having an idea of a zombie-like medal 👀
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 Sooner than you might think!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Personally, what's your favorite medal, and why?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
@@ -288,13 +288,13 @@ My personal favourite was a now-scrapped medal that involved getting a good scor
 
 Other than that, I'd consider Unwilted to be up there. I enjoy medals that you have a chance of obtaining naturally rather than actively grinding for them.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Before we finish medals part, I **have to** ask this question: New medals when? :3
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
@@ -302,34 +302,34 @@ Soon™
 
 Jokes aside, we've been hard at work on a batch that's bigger than usual (which may or may not introduce a new category!!) that we're hoping to release before the end of the year. After that, we're going to try to commit to a more frequent schedule but with smaller batches.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Finally, let me ask you a few more questions as an osu! team member.
 What advice would you give to people who want to contribute to osu!, but don't know where to start or what they can even do?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 osu! is one of the few communities where you can contribute in so many ways! Let's go through some examples:
 
 - Modding beatmaps is always a great way to start, it's an important part of the mapping ecosystem and is always in demand. Consider starting your modding journey via a [modding queue](https://osu.ppy.sh/community/forums/topics/726725?n=1).
-- Once you feel experienced enough with modding, you can give [applying](https://bn.mappersguild.com/bnapps) to join the [Beatmap Nominators](/wiki/en/People/Beatmap_Nominators) a chance! You'll be at your closest to maintaining the pillars of the mapping community via directly promoting official content of the game.
+- Once you feel experienced enough with modding, you can give [applying](https://bn.mappersguild.com/bnapps) to join the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) a chance! You'll be at your closest to maintaining the pillars of the mapping community via directly promoting official content of the game.
 - If mapping or modding isn't your jam, consider looking into community projects, such as [tournaments](https://osu.ppy.sh/community/forums/55), or join the [osu! Discord server](https://discord.com/invite/ppy) to keep up with the latest official and community projects!
 - If you're more of a technical person, hone your skills via the following:
   - Be a part of the game's [client](https://github.com/ppy/osu) or [website](https://github.com/ppy/osu-web) development.
-  - Help out with [maintaining the osu! wiki](/wiki/en/osu!_wiki/Contribution_guide).
+  - Help out with [maintaining the osu! wiki](/wiki/osu!_wiki/Contribution_guide).
   - Head to the `#osu-news` channel in the osu! Discord server and take a jab at news coverage by writing articles on new ideas, or contributing to existing news projects.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Some players believe there is a lack of communication from osu!'s side in different situations at times, which makes them trust osu! team less, what do you think about that and is the team planning to or already doing something to fix that?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/avatar-Hivie.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
@@ -337,7 +337,7 @@ What sets osu! apart from other games is that its staff chain is almost all cons
 
 We try to be transparent as much as possible, so we do appreciate feedback and discussion whenever the opportunity presents itself!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
