@@ -58,7 +58,7 @@ Hello Hivie, thank you so much for agreeing to this interview! First up, could y
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-Hello! I'm a random person on the internet whose a little corner in the world is osu!. I've been part of the [osu! team](/wiki/People/osu!_team) for the past 3 years and I've been doing a lot of things there, primarily [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) leadership, osu! medals, running the Daily Challenge, and a bunch of other internal housekeeping stuff. I do also contribute to other areas like [Project Loved](/wiki/Community/Project_Loved), [Tournament Committee](/wiki/People/Tournament_Committee), [MBC](/wiki/Contests/Monthly_Beatmapping_Contest), [osu! wiki](/wiki/osu!_wiki) maintenance, and so on.
+Hello! I'm a random person on the internet whose little corner in the world is osu!. I've been part of the [osu! team](/wiki/People/osu!_team) for the past 3 years and I've been doing a lot of things there, primarily [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) leadership, osu! medals, running the Daily Challenge, and a bunch of other internal housekeeping stuff. I do also contribute to other areas like [Project Loved](/wiki/Community/Project_Loved), [Tournament Committee](/wiki/People/Tournament_Committee), [MBC](/wiki/Contests/Monthly_Beatmapping_Contest), [osu! wiki](/wiki/osu!_wiki) maintenance, and so on.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -82,7 +82,7 @@ Are you familiar with the original Taiko no Tatsujin series?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-Yes, briefly. Being an osu!taiko player make it mandatory for me to know it, so to say. Unlike many players, it had nothing with me getting into osu!taiko, tho I wish I'd get to play it one day on an arcade machine.
+Yes, briefly. Being an osu!taiko player made it mandatory for me to know it, so to say. Unlike many players, it had nothing with me getting into osu!taiko, tho I wish I'd get to play it one day on an arcade machine.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -94,7 +94,7 @@ Why did you choose to be an osu!taiko player among all game modes there are?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-I first took serious interest in osu!taiko during my early mapping journey. After 4 months of osu! mapping, I felt like I've hit a wall (as many other new mappers) and struggled to improve. While I was watching some of [pishifat](https://osu.ppy.sh/users/3178418)'s videos, I stumbled upon his [osu!taiko mapping video](https://www.youtube.com/watch?v=kM0bUdpptsY), which motivated me to try mapping something on osu!taiko.
+I first took a serious interest in osu!taiko during my early mapping journey. After 4 months of osu! mapping, I felt like I've hit a wall (as many other new mappers) and struggled to improve. While I was watching some of [pishifat](https://osu.ppy.sh/users/3178418)'s videos, I stumbled upon his [osu!taiko mapping video](https://www.youtube.com/watch?v=kM0bUdpptsY), which motivated me to try mapping something on osu!taiko.
 
 On 1 January 2020 I submitted [my first osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1087013), then I reached out to an osu!taiko NAT asking for beginner tips/resources, and they directed me to the [osu!taiko Modding & Mapping Hub Discord server](/wiki/Community/Discord_servers#mapping-and-modding). There, I've found a very welcoming community full of heartwarming people who were more than willing to help new people, which made me feel right at home. I started playing and mapping osu!taiko more and more, and eventually, I got hooked.
 
@@ -125,7 +125,7 @@ What would you call the greatest gift that osu! has given you?
 I want to name 2 things:
 
 1. People skills: I've been a pretty timid person for a good chunk for my life, and osu! has helped me develop my social skills in a way I didn't expect, both through working together on projects, and through managing and leading teams.
-2. Programming skills: I've been studying in the computer science field for the past 5 years, and for a while, people around me kept emphasizing the importance of experience rather than just theoretical knowledge. osu! has been a great place for me to seek said experience through working on various projects development-wise (i.e. ontributing to the [BN website](https://bn.mappersguild.com), making my own [Discord bot](https://github.com/Hiviexd/AxerBot), and many other internal tools/script that proved their convenience when needed), and my involvment has always pushed me to always learn new things and improve my current capabilities.
+2. Programming skills: I've been studying in the computer science field for the past 5 years, and for a while, people around me kept emphasizing the importance of experience rather than just theoretical knowledge. osu! has been a great place for me to seek said experience through working on various projects development-wise (i.e. contributing to the [BN website](https://bn.mappersguild.com), making my own [Discord bot](https://github.com/Hiviexd/AxerBot), and many other internal tools/script that proved their convenience when needed), and my involvement has always pushed me to always learn new things and improve my current capabilities.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -151,7 +151,7 @@ Do you have plans to grind osu!taiko and get better at it? Or maybe just casuall
 
 Uh, hard to say. If you look at my [playcount graph](https://osu.ppy.sh/users/14102976#historical), you'll notice that I've yet to reach 1,000 plays a month since September 2019, which happens to be around the time I started mapping lol. Mapping and everything else has been taking most of my free time, leaving me with little patience and motivation to properly grind the game.
 
-However, I do get motivation sparks once every few months, and my improvement has been steady. My current goal is to reach #1 country rank, which i'm around 400pp away from.
+However, I do get motivation sparks once every few months, and my improvement has been steady. My current goal is to reach #1 country rank, which I'm around 400pp away from.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -163,7 +163,7 @@ And before we move to the next section, how did you join the osu! team originall
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-I joined the osu!team in March 2023 following my appointment as NAT leader. From there, it opened many opportunities for me and motivated me to contribute to the game on an very close level, so I kept going at it with no regrets.
+I joined the osu!team in March 2023 following my appointment as NAT leader. From there, it opened many opportunities for me and motivated me to contribute to the game on a very close level, so I kept going at it with no regrets.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -184,7 +184,7 @@ Being a BN and being proactive towards contributing to the game has set me for s
 
 Thankfully, my efforts didn't go unnoticed, and on November 2022 I was added to the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), which was a turning point for me, as it allowed me to work on a more impactful level and help build the future of the osu!taiko community, which made me take my responsibilities more more serious than ever.
 
-During March 2023, the NAT was dealing with serious organisational issues, momentum was slowing down and the team was in a dire need of a proactive hand that could help steer the ship back on track. So, months of lengthly discussions eventually led to the team unanimously appointing [radar](https://osu.ppy.sh/users/7131099) and I as leaders of the group, which had us officially join the osu! team.
+During March 2023, the NAT was dealing with serious organisational issues, momentum was slowing down and the team was in a dire need of a proactive hand that could help steer the ship back on track. So, months of lengthy discussions eventually led to the team unanimously appointing [radar](https://osu.ppy.sh/users/7131099) and I as leaders of the group, which had us officially join the osu! team.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -284,7 +284,7 @@ Personally, what's your favorite medal, and why?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-My personal favourite was a now-scrapped medal that involved getting a good score on a beatmap that you recently submitted. I loved how in theory it coul've been a great way to introduce players to the editor, but unfortunately it backfired hard and caused a ton of low effort spam content to flood the pending section, which caused the medal to be unfortunately but rightfully scrapped.
+My personal favourite was a now-scrapped medal that involved getting a good score on a beatmap that you recently submitted. I loved how in theory it could've been a great way to introduce players to the editor, but unfortunately it backfired hard and caused a ton of low effort spam content to flood the pending section, which caused the medal to be unfortunately but rightfully scrapped.
 
 Other than that, I'd consider Unwilted to be up there. I enjoy medals that you have a chance of obtaining naturally rather than actively grinding for them.
 
