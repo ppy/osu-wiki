@@ -13,7 +13,7 @@ Welcome or welcome back to The Followpoint, a series where we interview various 
 
 Hivie is an [osu!team](/wiki/People/osu!_team) member responsible for community affairs, [NAT (Nomination Assessment Team)](/wiki/People/Nomination_Assessment_Team) leader, [Project Loved](/wiki/Community/Project_Loved) manager, [medals](/wiki/Medals) developer and works on even more things than I listed here, so you likely heard his name at least once, no matter the aspect of osu! you are interested in! Funny enough, [our first interview](https://osu.ppy.sh/home/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals) was with [Ephemeral](https://osu.ppy.sh/users/102335), who also was a community maintainer and medals developer. That, and the fact Hivie often helps us with polishing our interviews makes him a perfect interviewee for today! 
 
-This interview will looks slightly different from the ones you got used to, as we'd like to make it in the spirit of our first one. That means it will be less flow-based, but the questions will still be split into categories.  
+This interview will look slightly different from the ones you got used to, as we'd like to make it in the spirit of our first one. That means it will be less flow-based, but the questions will still be split into categories.  
 
 I'd also like to say something at the end of this interview, but first things first, let's see what Hivie has to say! :3
 
