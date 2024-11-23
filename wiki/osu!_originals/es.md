@@ -6,7 +6,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 ## Estadísticas
 
-Actualmente, hay un total de **789** osu! originals documentados.
+Actualmente, hay un total de **792** osu! originals documentados.
 
 ![Gráfico de los osu! originals a lo largo del tiempo](img/originals-over-time-ES.png)
 
@@ -217,10 +217,12 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 | Enlaces | FA | Canción | Beatmap | Notas |
 | --: | :-: | :-- | :-: | :-- |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=YpXzhptB8Yc "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Future%20Witness&query=%22Resolution%22 "Página de artista destacado") | Future Witness - Resolution | [#1](https://osu.ppy.sh/beatmapsets/2274925) |  |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=YpXzhptB8Yc "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Future%20Witness&query=%22Resolution%22 "Página de artista destacado") | Future Witness - Resolution | [#1](https://osu.ppy.sh/beatmapsets/2274925) | HR2 de los octavos de final |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vdGU-OIZ2dQ "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Genkaku%20Aria&query=%22Whiteout%22 "Página de artista destacado") | Genkaku Aria - Whiteout | [#1](https://osu.ppy.sh/beatmapsets/2278209) | Mapa de desempate de los cuartos de final |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=It9hA0s9bI4 "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Imy&query=%22Lies%20playing%20Truth%22 "Página de artista destacado") | Imy feat. Natsume Itsuki - Lies playing Truth | [#1](https://osu.ppy.sh/beatmapsets/2271658) | Mapa de desempate de los dieciseisavos de final |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rG74CHZ9Vi8 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://ahicha.bandcamp.com/track/ajitama-adventure-ost "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Umeboshi%20Chazuke&query=%22AJITAMA%20Adventure%20OST%22 "Página de artista destacado") | Umeboshi Chazuke - AJITAMA Adventure OST | [#1](https://osu.ppy.sh/beatmapsets/2274953) |  |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=XYxT0Np6X3k "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/23tMiqi2BzVCRxSgjarykU "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Imy&query=%22Lies%20playing%20Truth%22 "Página de artista destacado") | Imy feat. Natsume Itsuki - Lies playing Truth | [#1](https://osu.ppy.sh/beatmapsets/2271658) | Mapa de desempate de los dieciseisavos de final |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=X0lTX-0w4X0 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://minstre1.bandcamp.com/track/today-is-the-day "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Minstrel&query=%22today%20is%20the%20day%22 "Página de artista destacado") | Minstrel - today is the day | [#1](https://osu.ppy.sh/beatmapsets/2281434) | Mapa de desempate de las semifinales |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nagiha/valdes "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=l4n5zBfREGk "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nagiha&query=%22VALDeS%22 "Página de artista destacado") | nagiha - VALDeS | [#1](https://osu.ppy.sh/beatmapsets/2281540) | NM3 de las semifinales |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rG74CHZ9Vi8 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://ahicha.bandcamp.com/track/ajitama-adventure-ost "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Umeboshi%20Chazuke&query=%22AJITAMA%20Adventure%20OST%22 "Página de artista destacado") | Umeboshi Chazuke - AJITAMA Adventure OST | [#1](https://osu.ppy.sh/beatmapsets/2274953) | Mapa de desempate de los octavos de final |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
 
@@ -526,7 +528,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/down-910707220/halfslashed "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r2RH3_a7ld4 "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Down&query=%22Halfslashed%22 "Página de artista destacado") | Down - Halfslashed | [#1](https://osu.ppy.sh/beatmapsets/1837962) | FM1 de los cuartos de final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/down-910707220/uberfazz "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=S3E9D1d48Nc "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Down&query=%22UberFazz%22 "Página de artista destacado") | Down - UberFazz | [#1](https://osu.ppy.sh/beatmapsets/1846742) | FM2 de las finales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sylp-hide/overflow-skies "SoundCloud") |  | Fuyuki Seana - OVERFLOW SKIES | [#1](https://osu.ppy.sh/beatmapsets/1846756) | Mapa de desempate de las finales |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ikaruga_nex/corsace-open-2022-sick-rock-crazy "SoundCloud") |  | ikaruga\_nex - SICK ROCK CRAZY | [#1](https://osu.ppy.sh/beatmapsets/1838305) | Mapa de desempate de los cuartos de final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ikaruga_nex/corsace-open-2022-sick-rock-crazy "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ikaruga_nex&query=%22SICK%20ROCK%20CRAZY%22 "Página de artista destacado") | ikaruga\_nex - SICK ROCK CRAZY | [#1](https://osu.ppy.sh/beatmapsets/1838305) | Mapa de desempate de los cuartos de final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/karalineavu/agaveill "SoundCloud") |  | Kara - AGAVEiL | [#1](https://osu.ppy.sh/beatmapsets/1842694) | Mapa de desempate de las semifinales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/estia_dtm/wisps-of-nifl "SoundCloud") |  | NTRSOUND and Estia - Wisps of Nifl | [#1](https://osu.ppy.sh/beatmapsets/1833757) | Mapa de desempate de los octavos de final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dksslqj/divine-ordeal "SoundCloud") |  | Rabbit House - Divine Ordeal[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1829371) | Mapa de desempate de los dieciseisavos de final |
@@ -556,7 +558,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ikaruga_nex/corsace-open-2024-gott-der-apokalypse "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=5akNlS3p0vQ "YouTube") |  | Kagetora. vs. ikaruga\_nex - Gott der Apokalypse[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2226230) | Mapa de desempate de la semana 1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/astranelique "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=l28aoIjcX64 "YouTube") |  | Kurokotei x kanemiko - astranelique[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2234516) | Mapa de desempate de la semana 3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-721414606/cut "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FvhhsB-8A30 "YouTube") |  | N\_dog - Cyclic Universe Theory | [#1](https://osu.ppy.sh/beatmapsets/2238742) | Mapa de desempate de la semana 4 |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=1uwsXUWHn0w "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/2y2V0UNj5ghkR6YdQXL7R5 "Spotify") |  | orangentle - Chromatolight[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2238833) | Mapa de desempate de la gran final |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=1uwsXUWHn0w "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/2y2V0UNj5ghkR6YdQXL7R5 "Spotify") |  | orangentle - Chromatolight[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2238833) | HD3 de la semana 4 |
 
 #### ![](/wiki/shared/mode/osu.png) [Corsix 3](https://osu.ppy.sh/community/forums/topics/1971736)
 
@@ -975,7 +977,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 | Enlaces | FA | Canción | Beatmap | Notas |
 | --: | :-: | :-- | :-: | :-- |
-|  |  | Astolsko - lunefleur | [#1](https://osu.ppy.sh/beatmapsets/2278859) | NM4 de la gran final del Tier 1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/astolsko/lunefleur "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=oDV18-tRi_U "YouTube") |  | Astolsko - lunefleur | [#1](https://osu.ppy.sh/beatmapsets/2278859) | NM4 de la gran final del Tier 1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/foodbot/feud-in-perplexity "SoundCloud") |  | Foodbot - Feud Against Perplexity | [#1](https://osu.ppy.sh/beatmapsets/2278818) | HR3 de la gran final del Tier 1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/h5-music/erm-what-is-this-show-about "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=kkLaJ9qyD0A "YouTube") |  | H5 - *Erm, What is this Show About...? | [#1](https://osu.ppy.sh/beatmapsets/2268735) | Mapa de desempate de los cuartos de final del Tier 1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/dystortion-dystopia "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DIi71uJUsQQ "YouTube") |  | roer & kaydotnet - Dystortion Dystopia | [#1](https://osu.ppy.sh/beatmapsets/2278785) | Mapa de desempate de la gran final del Tier 1 |
@@ -1416,6 +1418,12 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | Enlaces | FA | Canción | Beatmap | Notas |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sot-c/1konos "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=5pBuFA91sPE "YouTube") |  | ZxNX & Sot-C - 1KONOS | [#1](https://osu.ppy.sh/beatmapsets/2101561) | Mapa de desempate de la gran final |
+
+#### ![](/wiki/shared/mode/mania.png) [Mania Key Clash Cup](https://osu.ppy.sh/community/forums/topics/1984282)
+
+| Enlaces | FA | Canción | Beatmap | Notas |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | Wooden - MECHANICAL BLOSSOM | [#1](https://osu.ppy.sh/beatmapsets/2281609) | Mapa de desempate de los cuartos de final |
 
 #### ![](/wiki/shared/mode/mania.png) [Nicki's Friendly Tournament 2](https://osu.ppy.sh/community/forums/topics/1942342)
 
