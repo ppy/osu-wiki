@@ -165,6 +165,8 @@ And before we move to the next section, how did you join the osu! team originall
 
 I joined the osu!team in March 2023 following my appointment as NAT leader. From there, it opened many opportunities for me and motivated me to contribute to the game on a very close level, so I kept going at it with no regrets.
 
+---
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
@@ -224,6 +226,8 @@ Speaking of beatmaps, do you have any advice you would give to new mappers? Or t
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 My one advice is to try. Whether it's submitting your first map, finishing that one map of a song you love, posting your map in a modding queue, or even just asking for help in a mapping server. So many opportunities of learning and growth can be attained by simply trying. The one thing special about the osu! community is how welcoming and helpful it can get, which is a feeling that has been lost to time in many other places.
+
+---
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -301,6 +305,8 @@ Before we finish medals part, I **have to** ask this question: New medals when? 
 Soon™
 
 Jokes aside, we've been hard at work on a batch that's bigger than usual (which may or may not introduce a new category!!) that we're hoping to release before the end of the year. After that, we're going to try to commit to a more frequent schedule but with smaller batches.
+
+---
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
