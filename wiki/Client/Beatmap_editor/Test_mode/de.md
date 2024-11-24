@@ -27,4 +27,4 @@ Das Spielen einer Beatmap im Testmodus unterscheidet sich vom normalen Spiel, da
 - Die maximal mögliche Combo, die ein Spieler auf der Beatmap erreichen kann.
 - Verschiedene Tastaturkürzel.
 
-Der Testmodus unterscheidet sich vom normalen Spiel ebenfalls dadurch, da Nutzer ihre Beatmap vor dem Spielen abspeichern müssen. Außerdem kann die Beatmap mit aktiviertem Autoplay angeschaut werden, genauso wie bei der Mod [Auto](/wiki/Gameplay/Game_modifier/Auto).
+Der Testmodus unterscheidet sich vom normalen Spiel ebenfalls dadurch, dass Nutzer ihre Beatmap vor dem Spielen abspeichern müssen. Außerdem kann die Beatmap mit aktiviertem Autoplay angeschaut werden, genauso wie bei der Mod [Auto](/wiki/Gameplay/Game_modifier/Auto).
