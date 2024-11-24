@@ -151,6 +151,8 @@ Do you have plans to grind osu!taiko and get better at it? Or maybe just casuall
 
 Uh, hard to say. If you look at my [playcount graph](https://osu.ppy.sh/users/14102976#historical), you'll notice that I've yet to reach 1,000 plays a month since September 2019, which happens to be around the time I started mapping lol. Mapping and everything else has been taking most of my free time, leaving me with little patience and motivation to properly grind the game.
 
+![](/wiki/shared/news/2024-11-25-the-followpoint-hivie-the-man-of-anything-and-everything/playgraph.jpg)
+
 However, I do get motivation sparks once every few months, and my improvement has been steady. My current goal is to reach #1 country rank, which I'm around 400pp away from.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
@@ -182,7 +184,7 @@ Oh I still remember this day like yesterday lol. On a random day in August 2019,
 
 I really loved the community aspect of the game and it gave me a unique sense of belonging. I've set myself on a track to give back to the community as much as I can, and it shortly led me to the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) in January 2021, a position I never thought I'd be in.
 
-Being a BN and being proactive towards contributing to the game has set me for so many opportunities, I've contributed to Project Loved, mentored (and eventually became an organiser) for the Community Mentorship Program, organized the Mapper's Choice Awards, worked on one of the revivals of Beatmap Spotlights, and even hosted my own beatmapping contests. all of these experiences have helped me meet so many people and learn so much about the game and its community.
+Being a BN and being proactive towards contributing to the game has set me for so many opportunities, I've contributed to Project Loved, mentored (and eventually became an organiser) for the Community Mentorship Program, organized the Mapper's Choice Awards, worked on one of the revivals of Beatmap Spotlights, and even hosted my own beatmapping contests. All of these experiences have helped me meet so many people and learn so much about the game and its community.
 
 Thankfully, my efforts didn't go unnoticed, and on November 2022 I was added to the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), which was a turning point for me, as it allowed me to work on a more impactful level and help build the future of the osu!taiko community, which made me take my responsibilities more more serious than ever.
 
