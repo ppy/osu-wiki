@@ -304,10 +304,10 @@ Saturday, 23 November 2024:
 
 Sunday, 24 November 2024:
 
-| Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **AZZA** | **6** | 5 | BLEM | [#1](https://osu.ppy.sh/community/matches/116289775) | [#1](https://www.twitch.tv/videos/2309656714) |
-| Australia ::{ flag=AU }:: | 4 | **6** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/116290548) | [#1](https://www.twitch.tv/videos/2309726416) |
+| Team A |  |  | Team B | Match link | VOD link | Notes |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| **AZZA** | **6** | 5 | BLEM | [#1](https://osu.ppy.sh/community/matches/116289775) | [#1](https://www.twitch.tv/videos/2309656714) | Semifinals showmatch (playtester team) |
+| Australia ::{ flag=AU }:: | 4 | **6** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/116290548) | [#1](https://www.twitch.tv/videos/2309726416) |  |
 
 ### Quarterfinals
 
