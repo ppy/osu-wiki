@@ -99,7 +99,7 @@ Pertama-tama, [unduh paket yang berisi berkas bawaan osu!go ini](https://assets.
 **Ikuti langkah-langkah berikut untuk menyiapkan perangkat osu!go milikmu pada sistem operasi Windows.**
 
 1. Klik kanan tombol menu `Start` dan pilih `Disk Management`.
-2. **Pada saat berada dalam tampilan Disk Management, pastikan untuk mengikuti instruksi di bawah ini dengan _SANGAT_ seksama dan HANYA menerapkan segala sesuatunya pada perangkat osu!go milikmu.** Kamu dapat kehilangan berbagai data penting apabila kamu iseng bermain-main dengan kotak dialog ini.
+2. **Pada saat berada dalam tampilan Disk Management, pastikan untuk mengikuti instruksi di bawah ini dengan *SANGAT* seksama dan HANYA menerapkan segala sesuatunya pada perangkat osu!go milikmu.** Kamu dapat kehilangan berbagai data penting apabila kamu iseng bermain-main dengan kotak dialog ini.
 3. Periksa dalam kondisi apa komputer kamu mengenali perangkat osu!go yang terpasang.
 
 ### Perangkat osu!go saya dikenali oleh komputer, namun dalam kondisi "RAW" {id=osu!go-raw}
