@@ -264,7 +264,7 @@ Speaking of development, do you have any ETA on when medals will display which m
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-Honestly I'm not sure, It might go against the spirit of secrecy with Hush-Hush medals, so it will need further considerations by the osu! team.
+Honestly I'm not sure, It might go against the spirit of secrecy with Hush-Hush medals, so it will need further consideration by the osu! team.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
