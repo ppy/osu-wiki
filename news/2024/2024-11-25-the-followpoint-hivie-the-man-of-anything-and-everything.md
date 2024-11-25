@@ -335,20 +335,6 @@ osu! is one of the few communities where you can contribute in so many ways! Let
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Some players believe there is a lack of communication from osu!'s side in different situations at times, which makes them trust osu! team less, what do you think about that and is the team planning to or already doing something to fix that?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
-
-What sets osu! apart from other games is that its staff chain is almost all consisted of volunteering community members, just like you and anyone reading this. What I'm trying to get at is everyone wants the best for the game, and everyone is trying to achieve that within their human limits and with respect to their real-life responsibilities, so you're always bound to see delays or other issues from time to time.
-
-We try to be transparent as much as possible, so we do appreciate feedback and discussion whenever the opportunity presents itself!
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
-
 Alright, that's all for today. Thank you for your time and answering my questions, Hivie!
 
 </div>
