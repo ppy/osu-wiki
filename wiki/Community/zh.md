@@ -4,9 +4,10 @@
 
 ## 地点
 
-- [IRC](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
 - [社区 Discord 服务器](/wiki/Community/Discord_servers)
+- [论坛](/wiki/Community/Forum)
+- [互联网中继聊天](/wiki/Community/Internet_Relay_Chat) (IRC)
+- [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
 - [线下组织](/wiki/Community/Organisations)
 
 ## 项目
