@@ -106,7 +106,7 @@ Movement is one of the most vital parts of osu!catch map composition. That's why
 
 **All hyperdashes must be followed by a standstill.**
 
-For extra clarity, this means the two notes after a hyperdash must have the same `x` coordinate. (And if you make a map without hyperdashes, don't expect to receive high scores from judges!)
+For extra clarity, this means the two notes after a hyperdash must be possible to catch without any movement. (And if you make a map without hyperdashes, don't expect to receive high scores from judges!)
 
 ### Songs
 
