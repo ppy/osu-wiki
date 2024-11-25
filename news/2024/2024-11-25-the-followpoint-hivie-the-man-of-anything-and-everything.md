@@ -44,6 +44,11 @@ I'd also like to say something at the end of this interview, but first things fi
     .news-chat-quote__colour-nat {
         color: #fa3703;
     }
+    
+    .news-chat-quote__text-container ol,
+    .news-chat-quote__text-container ul {
+        margin-bottom: 25px;    
+    }
 </style>
 
 <div class="news-chat-quote__text-container">
@@ -312,7 +317,23 @@ Jokes aside, we've been hard at work on a batch that's bigger than usual (which 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Finally, let me ask a few more questions for you as an osu! team member. What advice would you give to people who want to contribute to osu!, but don't know where to start or what they can even do?
+Finally, let me ask a few more questions for you as an osu! team member. What do you like contributing to the most and why?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
+
+Has to be anything related to managing the NAT and the mapping community. It's by far the area I've put the most time and effort in, especially when considering that my beginnings were from the mapping scene.
+
+Doing things there feels... natural for me, I really enjoy pushing positive change there and making sure things run smoothly. Additionally, I tend to enter a satisfying flow state whenever I'm grinding a proposal or doing some problem solving for a BN website feature implementation.
+
+Despite the ups and downs (and the occasional stress waves I have to deal with), I find this to be the highlight of my overall activity.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
+
+What advice would you give to people who want to contribute to osu!, but don't know where to start or what they can even do?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
