@@ -18,11 +18,11 @@
 - [漫画](/wiki/Community/Manga)
 - [谱师工会 (Mappers' Guild)](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
-- [每月osu!](/wiki/Community/osu!monthly)
+- [osu! 月报](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 - [社区视频系列](/wiki/Community/Video_series)
   - [osu!学院](/wiki/Community/Video_series/osu!academy)
-  - [osu!制谱](/wiki/Community/Video_series/osu!mapping)
+  - [osu!作图](/wiki/Community/Video_series/osu!mapping)
   - [osu!畅聊](/wiki/Community/Video_series/osu!talk)
 
 ## 计划
