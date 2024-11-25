@@ -9,7 +9,7 @@ Ever heard of the person who does literally anything you can think of? No? Well,
 
 ![](/wiki/shared/news/2024-11-25-the-followpoint-hivie-the-man-of-anything-and-everything/banner.jpg)
 
-Welcome or welcome back to The Followpoint, a series where we interview various players and community figures to get to know them better! (Note: Please pretend this news post released on November 10) Today is a special day for us, it's our first anniversary! And we just had to chose a special interviewee for today, both for us and osu! community in general, [Hivie](https://osu.ppy.sh/users/14102976)!
+Welcome or welcome back to The Followpoint, a series where we interview various players and community figures to get to know them better! The series' first anniversary happened just two weeks ago, which means we're interviewing someone special both to us and the osu! community in general, [Hivie](https://osu.ppy.sh/users/14102976)!
 
 Hivie is an [osu!team](/wiki/People/osu!_team) member responsible for community affairs, [NAT (Nomination Assessment Team)](/wiki/People/Nomination_Assessment_Team) leader, [Project Loved](/wiki/Community/Project_Loved) manager, [medals](/wiki/Medals) developer and works on even more things than I listed here, so you likely heard his name at least once, no matter the aspect of osu! you are interested in! Funny enough, [our first interview](https://osu.ppy.sh/home/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals) was with [Ephemeral](https://osu.ppy.sh/users/102335), who also was a community maintainer and medals developer. That, and the fact Hivie often helps us with polishing our interviews makes him a perfect interviewee for today! 
 
@@ -173,8 +173,7 @@ I joined the osu!team in March 2023 following my appointment as NAT leader. From
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Now, let's talk about mapping a little.
-How did you get into mapping and even eventually became a NAT Leader?
+Now, let's talk about mapping a little. How did you get into mapping and even eventually became an NAT leader?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
@@ -184,11 +183,11 @@ Oh I still remember this day like yesterday lol. On a random day in August 2019,
 
 I really loved the community aspect of the game and it gave me a unique sense of belonging. I've set myself on a track to give back to the community as much as I can, and it shortly led me to the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) in January 2021, a position I never thought I'd be in.
 
-Being a BN and being proactive towards contributing to the game has set me for so many opportunities, I've contributed to Project Loved, mentored (and eventually became an organiser) for the Community Mentorship Program, organized the Mapper's Choice Awards, worked on one of the revivals of Beatmap Spotlights, and even hosted my own beatmapping contests. All of these experiences have helped me meet so many people and learn so much about the game and its community.
+Being a BN and being proactive towards contributing to the game has set me for so many opportunities. I've contributed to Project Loved, mentored (and eventually became an organiser) for the Community Mentorship Program, organized the Mapper's Choice Awards, worked on one of the revivals of Beatmap Spotlights, and even hosted my own beatmapping contests. All of these experiences have helped me meet so many people and learn so much about the game and its community.
 
-Thankfully, my efforts didn't go unnoticed, and on November 2022 I was added to the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), which was a turning point for me, as it allowed me to work on a more impactful level and help build the future of the osu!taiko community, which made me take my responsibilities more more serious than ever.
+Thankfully, my efforts didn't go unnoticed, and on November 2022 I was added to the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), which was a turning point for me, as it allowed me to work on a more impactful level and help build the future of the osu!taiko community, which made me take my responsibilities more more seriously than ever.
 
-During March 2023, the NAT was dealing with serious organisational issues, momentum was slowing down and the team was in a dire need of a proactive hand that could help steer the ship back on track. So, months of lengthy discussions eventually led to the team unanimously appointing [radar](https://osu.ppy.sh/users/7131099) and I as leaders of the group, which had us officially join the osu! team.
+During March 2023, the NAT was dealing with serious organisational issues, momentum was slowing down and the team was in a dire need of a proactive hand that could help steer the ship back on track. So, months of lengthy discussions eventually led to the team unanimously appointing [radar](https://osu.ppy.sh/users/7131099) and me as leaders of the group, which had us officially join the osu! team.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -215,13 +214,13 @@ If you had to choose the best osu!taiko beatmap (in your opinion), which one wou
 It's pretty hard to label a single beatmap as the best, so I'll just shout out a couple of maps that I always praise whenever I get the chance:
 
 - [Camellia - Looking for Edge of Ground](https://osu.ppy.sh/beatmapsets/1678197#taiko/3428627) by [Genjuro](https://osu.ppy.sh/users/3196091), one of my most favourite Camellia songs paired by a map that *perfectly* compliments every detail in the song. The SV usage is prominent yet elegant, the patterning is top-notch, and overall there's nothing that could've been done better with the map.
-- [Madobe Rika - Panda Hero](https://osu.ppy.sh/beatmapsets/1832848#taiko/3762478) by [_Rise](https://osu.ppy.sh/users/5217107), winner of the [Mapping to Pander: Taiko #1](https://osu.ppy.sh/community/forums/topics/1624880?n=1) contest. A very energetic map and song, some intense SVs with fun tech-y patterns, what more can you ask for! My most favourite part would be the stream on 02:58:685, it's idea is so simple yet so perfectly effective.
+- [Madobe Rika - Panda Hero](https://osu.ppy.sh/beatmapsets/1832848#taiko/3762478) by [_Rise](https://osu.ppy.sh/users/5217107), winner of the [Mapping to Pander: Taiko #1](https://osu.ppy.sh/community/forums/topics/1624880?n=1) contest. A very energetic map and song, some intense SVs with fun tech-y patterns — what more can you ask for! My most favourite part would be the stream on 02:58:685. It's idea is so simple yet so perfectly effective.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Speaking of beatmaps, do you have any advice you would give to new mappers? Or those who just plan to try, but are too scared.
+Speaking of beatmaps, do you have any advice you would give to new mappers? Or those who just plan to try, but are too scared?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
@@ -235,14 +234,13 @@ My one advice is to try. Whether it's submitting your first map, finishing that 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Oki doki, here comes my favorite part, medals :3
 What are your thoughts on the current state of medals?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-I think we've come a long way with medals, which is kind of surprising considering how limited the scope of medals is with osu!(stable). However I feel like we've started to plateau in terms of creativity and variety, that's why I'm really looking forward when we start releasing osu!(lazer)-exclusive medals. The possibilities there are much, *much* more vast with the gigantic library of mods, and how feasible is it to integrate medals in other areas technically (i.e. multiplayer).
+I think we've come a long way with medals, which is kind of surprising considering how limited the scope of medals is with osu!(stable). However, I feel like we've started to plateau in terms of creativity and variety. That's why I'm really looking forward to when we start releasing osu!(lazer)-exclusive medals. The possibilities there are much, *much* more vast with the gigantic library of mods, and how feasible is it to integrate medals in other areas technically (i.e. multiplayer).
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -272,7 +270,7 @@ Honestly I'm not sure, It might go against the spirit of secrecy with Hush-Hush 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-And another question about dev side: When (and if) we will see multiplayer medals? In his interview Ephemeral mentioned having an idea of a zombie-like medal 👀
+And another question about dev side: When (and if) we will see multiplayer medals? In his interview Ephemeral mentioned having an idea of a zombie-like medal. 👀
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
@@ -314,8 +312,7 @@ Jokes aside, we've been hard at work on a batch that's bigger than usual (which 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Finally, let me ask you a few more questions as an osu! team member.
-What advice would you give to people who want to contribute to osu!, but don't know where to start or what they can even do?
+Finally, let me ask a few more questions for you as an osu! team member. What advice would you give to people who want to contribute to osu!, but don't know where to start or what they can even do?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
@@ -323,7 +320,7 @@ What advice would you give to people who want to contribute to osu!, but don't k
 
 osu! is one of the few communities where you can contribute in so many ways! Let's go through some examples:
 
-- Modding beatmaps is always a great way to start, it's an important part of the mapping ecosystem and is always in demand. Consider starting your modding journey via a [modding queue](https://osu.ppy.sh/community/forums/topics/726725?n=1).
+- Modding beatmaps is always a great way to start. It's an important part of the mapping ecosystem and is always in demand. Consider starting your modding journey via a [modding queue](https://osu.ppy.sh/community/forums/topics/726725?n=1).
 - Once you feel experienced enough with modding, you can give [applying](https://bn.mappersguild.com/bnapps) to join the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) a chance! You'll be at your closest to maintaining the pillars of the mapping community via directly promoting official content of the game.
 - If mapping or modding isn't your jam, consider looking into community projects, such as [tournaments](https://osu.ppy.sh/community/forums/55), or join the [osu! Discord server](https://discord.com/invite/ppy) to keep up with the latest official and community projects!
 - If you're more of a technical person, hone your skills via the following:
