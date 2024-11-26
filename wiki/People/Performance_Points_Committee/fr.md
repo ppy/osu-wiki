@@ -3,6 +3,8 @@ no_native_review: true
 tags:
   - pp committee
   - comité des pp
+outdated_translation: true
+outdated_since: 094db22e2c037b8cef1999cf2738393ee8bd9b15
 ---
 
 # Comité des points de performance

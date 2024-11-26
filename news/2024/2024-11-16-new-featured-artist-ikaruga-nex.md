@@ -40,7 +40,7 @@ Or experience [this 4K Loved map](https://osu.ppy.sh/beatmapsets/486877) hosted 
 
 ### [ikaruga_nex - SICK ROCK CRAZY](https://assets.ppy.sh/artists/446/SICK%20ROCK%20CRAZY/ikaruga%27nex%20-%20SICK%20ROCK%20CRAZY.osz)
 
-Try [this this 4K marathon](https://osu.ppy.sh/beatmapsets/2044131) hosted by [-mint-](https://osu.ppy.sh/users/8976576)!
+Try [this tiebreaker map](https://osu.ppy.sh/beatmapsets/1838305) hosted by [JeZag](https://osu.ppy.sh/users/3087506) from [Corsace Open 2022](https://osu.ppy.sh/beatmaps/artists/381) (where the song originated) or [this 4K marathon](https://osu.ppy.sh/beatmapsets/2044131) hosted by [-mint-](https://osu.ppy.sh/users/8976576)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/446/SICK%20ROCK%20CRAZY/ikaruga%27nex%20-%20SICK%20ROCK%20CRAZY.mp3">
