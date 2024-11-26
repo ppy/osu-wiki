@@ -43,13 +43,15 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) |
-| Head mappooler | ::{ flag=FR }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344) |
-| Mapper | ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=US }:: [5\_5](https://osu.ppy.sh/users/6853438), ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=DE }:: [Ak1o](https://osu.ppy.sh/users/1600041), ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=FR }:: [Arrival](https://osu.ppy.sh/users/1694000), ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [DarkVortex](https://osu.ppy.sh/users/1940325), ::{ flag=MN }:: [dtn](https://osu.ppy.sh/users/17630767), ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=TW }:: [Firce777](https://osu.ppy.sh/users/274072), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=AR }:: [gaston\_2199](https://osu.ppy.sh/users/5938161), ::{ flag=FR }:: [Heaxys](https://osu.ppy.sh/users/5671417), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=GB }:: [Horiizon](https://osu.ppy.sh/users/14513386), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), ::{ flag=JP }:: [kei821](https://osu.ppy.sh/users/5846289), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256), ::{ flag=JP }:: [KTYN](https://osu.ppy.sh/users/2250574), ::{ flag=JP }:: [KuroKuroKuro](https://osu.ppy.sh/users/11931563), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825), ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099), ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=US }:: [Stingy](https://osu.ppy.sh/users/6777358), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=AR }:: [trollocat](https://osu.ppy.sh/users/9228032), ::{ flag=CN }:: [UnagiDon](https://osu.ppy.sh/users/2062410), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
-| Referee | ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=DE }:: [xMrtn-](https://osu.ppy.sh/users/866297) |
-| Streamer | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=IT }:: [LordEnder](https://osu.ppy.sh/users/4609767), ::{ flag=NL }:: [oliebol](https://osu.ppy.sh/users/2756335), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) |
-| Commentator | ::{ flag=HK }:: [-Storm7-](https://osu.ppy.sh/users/12248285), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548), ::{ flag=GB }:: [Ethereal\_Winter](https://osu.ppy.sh/users/9780417), ::{ flag=US }:: [FrootLoopy542](https://osu.ppy.sh/users/5468461), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=RU }:: [mekkimous](https://osu.ppy.sh/users/17381947), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=GB }:: [overdahedge2014](https://osu.ppy.sh/users/9864847), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=US }:: [SlipperyPickle](https://osu.ppy.sh/users/11969691), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=GB }:: [willowww](https://osu.ppy.sh/users/11406987), ::{ flag=DE }:: [Zephyte](https://osu.ppy.sh/users/3867109) |
-| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Organiser | ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=MN }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) |
+| Head mappooler | ::{ flag=MN }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344) |
+| Mapper | ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=US }:: [5\_5](https://osu.ppy.sh/users/6853438), ::{ flag=HK }:: [\_mtk](https://osu.ppy.sh/users/9468283), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=DE }:: [Ak1o](https://osu.ppy.sh/users/1600041), ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032),::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728),  ::{ flag=MN }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [DarkVortex](https://osu.ppy.sh/users/1940325), ::{ flag=MN }:: [dtn](https://osu.ppy.sh/users/17630767), ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=AR }:: [gaston\_2199](https://osu.ppy.sh/users/5938161), ::{ flag=FR }:: [Heaxys](https://osu.ppy.sh/users/5671417), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), ::{ flag=JP }:: [kei821](https://osu.ppy.sh/users/5846289), ::{ flag=JP }:: [KTYN](https://osu.ppy.sh/users/2250574), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=US }:: [Stingy](https://osu.ppy.sh/users/6777358), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=AR }:: [trollocat](https://osu.ppy.sh/users/9228032), ::{ flag=CN }:: [UnagiDon](https://osu.ppy.sh/users/2062410), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
+| Mappool playtester | ::{ flag=HK }:: [\_mtk](https://osu.ppy.sh/users/9468283), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=PT }:: [Babysnakes](https://osu.ppy.sh/users/4669728), ::{ flag=FI }:: [BFKB113PBK](https://osu.ppy.sh/users/13613362), ::{ flag=US }:: [ChurroChef](https://osu.ppy.sh/users/9258564), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695), ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=DE }:: [xMrtn-](https://osu.ppy.sh/users/866297) |
+| Referee | ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=CN }:: [154s8a6](https://osu.ppy.sh/users/7562543), ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=BE }:: [Brentywenty](https://osu.ppy.sh/users/22753946), ::{ flag=US }:: [cyger](https://osu.ppy.sh/users/20020441), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=DE }:: [xMrtn-](https://osu.ppy.sh/users/866297) |
+| Streamer | ::{ flag=HK }:: [-Storm7-](https://osu.ppy.sh/users/12248285), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=NL }:: [oliebol](https://osu.ppy.sh/users/2756335), ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) |
+| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548), ::{ flag=GB }:: [Ethereal\_Winter](https://osu.ppy.sh/users/9780417), ::{ flag=US }:: [FrootLoopy542](https://osu.ppy.sh/users/5468461), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=RU }:: [mekkimous](https://osu.ppy.sh/users/17381947), ::{ flag=GB }:: [overdahedge2014](https://osu.ppy.sh/users/9864847), ::{ flag=TW }:: [Polemo03](https://osu.ppy.sh/users/10726804), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=US }:: [SlipperyPickle](https://osu.ppy.sh/users/11969691), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=GB }:: [willowww](https://osu.ppy.sh/users/11406987), ::{ flag=DE }:: [Zephyte](https://osu.ppy.sh/users/3867109) |
+| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685), ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) |
+| Character designer and illustrator | ::{ flag=PH }:: SPEC [(↗)](https://instagram.com/its_spec) |
 | Translator | ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=CN }:: [WonderMan](https://osu.ppy.sh/users/2221895) |
 | Developer | ::{ flag=US }:: [Chupalika](https://osu.ppy.sh/users/1926383), ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736), ::{ flag=NL }:: [oliebol](https://osu.ppy.sh/users/2756335), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -102,7 +104,7 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
 - DoubleTime
   1. [Sta - Conway's Child (\[Zeth\]) \[Game of Life\]](https://osu.ppy.sh/beatmapsets/1859289#taiko/3822023)
   2. [katagiri - Kemonomimi Loli no Wakusei (Cynplytholowazy) \[Nyan\~Nyan\~Planet\~\~ with KTYN\~\]](https://osu.ppy.sh/beatmapsets/1859204#taiko/3821832)
-- FreeMod
+- ForceMod
   1. [Sot-C - Cursed Metamorph (Cut Ver.) (uone) \[Inner Oni (EGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1859250#taiko/3821934)
   2. [LINKER - WASTED (GTS Edit) (rubies87) \[CH3-CH2-OH\]](https://osu.ppy.sh/beatmapsets/1859275#taiko/3821990)
   3. [Rukadesu & 5KiLOBYTE - ULTIMATE (MTNTWarz) \[babu Oni\]](https://osu.ppy.sh/beatmapsets/1859283#taiko/3822010)
@@ -129,7 +131,7 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
 - DoubleTime
   1. [KARUT - Assault Gear (KyeX) \[Overheat\]](https://osu.ppy.sh/beatmapsets/1855274#taiko/3812525)
   2. [goreshit - o'er the flood (\[Zeth\]) \[cascade\]](https://osu.ppy.sh/beatmapsets/1855113#taiko/3812204)
-- FreeMod
+- ForceMod
   1. [Xyris - Terrablazer (Ak1o) \[Eruption\]](https://osu.ppy.sh/beatmapsets/1853559#taiko/3808743)
   2. [factal - Flux (Hivie) \[Quantum (feat. woosungko)\]](https://osu.ppy.sh/beatmapsets/1855293#taiko/3812555)
   3. [Laur - Chimi Moryou (Roxy-) \[KurOni (EGTS Ver.)\]](https://osu.ppy.sh/beatmapsets/1855258#taiko/3812482)
@@ -156,7 +158,7 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
 - DoubleTime
   1. [Ayaponzu\* - Streaming Heart (X a v y) \[Heartbreak\]](https://osu.ppy.sh/beatmapsets/1850620#taiko/3801713)
   2. [Alquimia - Indomable (Raiden) \[Unbreakable\]](https://osu.ppy.sh/beatmapsets/1850943#taiko/3802364)
-- FreeMod
+- ForceMod
   1. [Camellia - THE MUZZLE FACING (Stingy) \[Stingy & Nwolf's Massacre\]](https://osu.ppy.sh/beatmapsets/1850945#taiko/3802374)
   2. [blobdash - Resentment (Ak1o) \[Inner Hatred\]](https://osu.ppy.sh/beatmapsets/1850544#taiko/3801533)
   3. [Sad Keyboard Guy - Reflection Shift (Cynplytholowazy) \[Universe\]](https://osu.ppy.sh/beatmapsets/1851049#taiko/3802634)
@@ -182,7 +184,7 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
 - DoubleTime
   1. [OSTER project - piano x forte (Nwolf) \[Oni (EhGTS x Ehdit)\]](https://osu.ppy.sh/beatmapsets/1846758#taiko/3793566)
   2. [sawawa - Fire in the Phoenix (DarkVortex) \[Oni\]](https://osu.ppy.sh/beatmapsets/1846762#taiko/3793574)
-- FreeMod
+- ForceMod
   1. [Kou! - Sanzui (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1846769#taiko/3793585)
   2. [Kurosawa Daisuke - GIGA DRIVE (\_mtk) \[FLAMEWALL\]](https://osu.ppy.sh/beatmapsets/1846627#taiko/3793355)
   3. [pm04034 - Sugary Mocaccino (gaston\_2199) \[Bittersweet\]](https://osu.ppy.sh/beatmapsets/1846776#taiko/3793604)
@@ -196,7 +198,7 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
 - NoMod
   1. [Gram - Nibelungen (Nwolf) \[Die Heldensage von Cynply, Faputa und dem Drachen\]](https://osu.ppy.sh/beatmapsets/1842708#taiko/3784936)
   2. [fnylsp - SuperMiracleEnsemble (Cynplytholowazy) \[VIVID\]](https://osu.ppy.sh/beatmapsets/1842410#taiko/3784311)
-  3. [Dictate - Mitochondrion (Cut Ver.) (\[Zeth\]) \[Heatwave\]](https://osu.ppy.sh/beatmapsets/1842514#taiko/3784600)
+  3. [Dictate - Mitochondrion (Cut Ver.) (\[Zeth\]) \[Heatwave\]](https://osu.ppy.sh/beatmapsets/2180441#taiko/4605774)
   4. [MYUKKE. - Salmon It Up! (Mew) \[Wrap It Up!\]](https://osu.ppy.sh/beatmapsets/1842710#taiko/3784939)
   5. [Frums - Jam with Pancake (Alchyr) \[Good Morning\]](https://osu.ppy.sh/beatmapsets/1842712#taiko/3784941)
 - Hidden
@@ -208,7 +210,7 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
 - DoubleTime
   1. [Tedjimo yomigY - JezoensiS (Cychloryn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1841481#taiko/3782248)
   2. [Tanchiky - Maneuver (Nwolf) \[Man uber (EhGTS Ehdit)\]](https://osu.ppy.sh/beatmapsets/1842730#taiko/3784968)
-- FreeMod
+- ForceMod
   1. [4nzu - SCAN EGOEVIL (ekumea1123) \[HYPER\]](https://osu.ppy.sh/beatmapsets/1842570#taiko/3784715)
   2. [SOOOO - iiillluuuvvvUUU (Faputa) \[dddooouuulluuuvvvMMMEEE\]](https://osu.ppy.sh/beatmapsets/1842820#taiko/3785122)
   3. [DJ Witch Girl MIR4CLEN - Danrit (Gamelan4) \[F\*CK!!\]](https://osu.ppy.sh/beatmapsets/1842746#taiko/3784993)
@@ -259,7 +261,7 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
 - DoubleTime
   1. [kozato snow - Rengetsu Ouka (Ideal) \[Snowy Ribbon\]](https://osu.ppy.sh/beatmapsets/1833532#taiko/3764176)
   2. [Hirasawa Yui (CV Toyosaki Aki) - Guitar ni Kubittake (kmsn\_dnb\_bootleg\_rmx) (BabySnakes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1833613#taiko/3764316)
-- FreeMod
+- ForceMod
   1. [Aoi - TYPE-Rebellion (Cynplytholowazy) \[Resistance\]](https://osu.ppy.sh/beatmapsets/1833435#taiko/3763979)
   2. [Mifumei - Yurame (\[Zeth\]) \[Fluctuation\]](https://osu.ppy.sh/beatmapsets/1833425#taiko/3763957)
   3. [Maoki Yamamoto - Houkago concertino~watashi dake no bushitsu kyousoukyoku (roufou) \[Frenzy\]](https://osu.ppy.sh/beatmapsets/1833545#taiko/3764201)
@@ -550,7 +552,7 @@ Sunday, 28 August 2022:
 | **frukoyurdakul** ::{ flag=TR }:: | **5** | 3 | ::{ flag=JP }:: Ku\_Ren | [#1](https://osu.ppy.sh/community/matches/103394710) |
 | **Nekomusya7563** ::{ flag=JP }:: | **5** | 2 | ::{ flag=RU }:: QuassBot | [#1](https://osu.ppy.sh/community/matches/103395838) |
 | BG\_SubMessy ::{ flag=JP }:: | 2 | **5** | ::{ flag=SG }:: **Prehistoria** | [#1](https://osu.ppy.sh/community/matches/103395671) |
-| **Ekoro** ::{ flag=FR}:: | **5** | 1 | ::{ flag=US }:: mBiscuit | [#1](https://osu.ppy.sh/community/matches/103395662) |
+| **Ekoro** ::{ flag=FR }:: | **5** | 1 | ::{ flag=US }:: mBiscuit | [#1](https://osu.ppy.sh/community/matches/103395662) |
 | **kotohira\_06** ::{ flag=JP }:: | **5** | 0 | ::{ flag=FR }:: Chernobog | [#1](https://osu.ppy.sh/community/matches/103395709) |
 | **overdahedge2014** ::{ flag=GB }:: | **5** | 4 | ::{ flag=ID }:: Joltzzz | [#1](https://osu.ppy.sh/community/matches/103398262) |
 | **goheegy** ::{ flag=GB }:: | **5** | 0 | ::{ flag=CA }:: 6\_6 | [#1](https://osu.ppy.sh/community/matches/103399562) |
@@ -609,7 +611,7 @@ Sunday, 21 August 2022:
 
 ### Qualifiers
 
-Detailed statistics for this round can be found in [this spreadsheet](https://gtsosu.com/egts/stats#0) alongside the final standings on which players made it through to the next stage.
+Detailed statistics for this round can be found on [the GTS website](https://gtsosu.com/egts/stats#0) alongside the final standings on which players made it through to the next stage.
 
 ## Ruleset
 
@@ -646,7 +648,7 @@ Detailed statistics for this round can be found in [this spreadsheet](https://gt
 
 1. There will be one mappool for each stage.
 2. The loser's bracket will play on the same pool as the winner's bracket of the same weekend.
-3. The Qualifier pool will be different from all other rounds, as it will have a format of 3 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, and 1 Hidden+HardRock map.
+3. The Qualifier pool will be different from all other rounds, as it will have a format of 3 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, and 1 ForceMod map.
 4. Each mappool consists of 6 sections: **NoMod, Hidden, HardRock, DoubleTime, ForceMod, and Tiebreaker**.
 5. The total maps per stage will be listed as follows:
    - The Round of 96 and Round of 64 mappool will consist of 14 maps.
@@ -657,7 +659,7 @@ Detailed statistics for this round can be found in [this spreadsheet](https://gt
    - The Round of 32, Round of 16, and Quarterfinals will have 5 NoMod maps.
    - The Semifinals, Finals, and Grand Finals will have 6 NoMod maps.
 7. All stages will have 2 Hidden, HardRock, and DoubleTime maps, and 3 ForceMod maps.
-8. The ForceMod pool is played with ForceMod activated. Every player has to pick Hidden, HardRock, or both
+8. The ForceMod pool is played with ForceMod activated. Every player has to pick Hidden, HardRock, or both.
 9. The Tiebreaker is played under ForceMod conditions, but it is not necessary to have a mod activated.
 10. The mappool for each stage will be showcased a week beforehand.
 

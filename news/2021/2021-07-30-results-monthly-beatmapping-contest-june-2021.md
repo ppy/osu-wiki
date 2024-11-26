@@ -6,7 +6,7 @@ date: 2021-07-30 19:00:00 +0000
 
 Is it possible to make a decent map with mainly square patterns? The finalists of the latest Monthly Beatmapping Contest seem to think so. Check the entries out yourself and see who wears the crown!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Still don't know about the **Monthly Beatmapping Contest** (***MBC***)? The [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) covers just about everything. For those who'd rather not spend their time reading, it's a beatmapping contest that's hosted every month. You're welcome.
 

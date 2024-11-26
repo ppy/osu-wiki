@@ -72,6 +72,10 @@ This year includes two non-FA songs as part of the song list, which also means a
 | Instrumental | ASA – Assault TAXI | [2:30 / 154 BPM](https://assets.ppy.sh/media/news/Pending%20Cup%202024%20-%20ASA%20-%20Assault%20TAXI.osz) |
 | Featured Artist | Rabbit House – Seculo Seculorum | [2:22 / 210 BPM](https://assets.ppy.sh/media/news/Pending%20Cup%202024%20-%20Rabbit%20House%20-%20Seculo%20Seculorum.osz) |
 
+## Participants
+
+![List of participants](img/participants.jpg)
+
 ## Rules
 
 ### Format
