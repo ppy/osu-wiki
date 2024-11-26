@@ -57,3 +57,41 @@ Alors que le mois de mai touchait à sa fin, des [nouvelles medailles](https://w
 
 
 ## Références
+
+[^lazer-jan-21]: [Vidéo youtube par pishifat (21/01/2023) "lazer updates - January 21, 2023"](https://www.youtube.com/watch?v=P6Y9B1pyIcw)
+[^interview-mongodb]: [Tweet par @ppy (12/01/2023)](https://twitter.com/ppy/status/1613534700295028739)
+[^osu-stream-twitter]: [Tweet par @ppy (12/01/2023)](https://twitter.com/ppy/status/1613460209703456769)
+[^osu-stream-pr]: [Pull request par Beyley (22/08/2021) "Add android support"](https://github.com/ppy/osu-stream/pull/27)
+[^lazer-download]: [Pull request par nanaya (13/12/2022) "New download page"](https://github.com/ppy/osu-web/pull/9638)
+
+[^c-tag]: [Pull request par nanaya (02/02/2023) "Add bbcode tag for inline code"](https://github.com/ppy/osu-web/pull/9829)
+
+[^soty-results]: [Article publié par RockRoller (05/03/2023) "Skin of the Year 2022: Results"](https://osu.ppy.sh/home/news/2023-03-05-skin-of-the-year-2022-results)
+[^completionist-tweet]: [Tweet par @osugame (15/03/2023)](https://twitter.com/osugame/status/1635888223590453250)
+
+[^imagemap-tag]: [Pull request par nanaya (09/03/2023) "Add imagemap support to bbcode"](https://github.com/ppy/osu-web/pull/9972)
+[^desk-mat]: [Tweet par @osugame (04/04/2023)](https://twitter.com/osugame/status/1643288319860801536)
+
+[^highest-rank]: [Tweet par @ppy (13/05/2023)](https://twitter.com/ppy/status/1657250346291593217)
+
+[^mod-search]: [Pull request par Cootz (06/05/2023) "Add mod search"](https://github.com/ppy/osu/pull/23414)
+[^synesthesia-mod]: [Pull request par jtbiddle (13/05/2023) "Add "Synesthesia" mod for osu! ruleset"](https://github.com/ppy/osu/pull/23520)
+[^mapping-team-disbanding]: [Message discord par 0x84f (31/05/2023)](https://discord.com/channels/188630481301012481/1003689172420276246/1113463478057971722)
+[^monthly-discord]: [Message discord par 0x84f (17/04/2023)](https://discord.com/channels/188630481301012481/1003689172420276246/1097626728328876062)
+[^writing-proposal]: ["The “osu! writing team” proposal" sur Google Documents](https://docs.google.com/document/d/1vWSy64g8HxNsoEoL5uGVarH1cpYH0zWDRmmIoZyjOgY/edit)
+[^news-content-1]: [Article du forum par 0x84f (31/05/2023) "What content do you want to see in the news section on the front page?"](https://osu.ppy.sh/community/forums/topics/1772564?n=1)
+[^news-content-2]: [Post reddit par u/EDMSerbia (31/05/2023) "What content do you want to see in the news section on the osu! website?"](https://www.reddit.com/r/osugame/comments/13wpu7g/what_content_do_you_want_to_see_in_the_news/)
+
+[^flag-pr]: [Pull request par nanaya (21/07/2023) "Allow changing country from account settings"](https://github.com/ppy/osu-web/pull/10398)
+[^flag-issue]: [Issue par peppy (18/07/2023) "Add support for user initiated flag changes"](https://github.com/ppy/osu-web/issues/10382)
+[^flag-news]: [Article publié par Blushing et Walavouchey (28/07/2023) "Enabling Country Flag Changes"](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes)
+
+[^icons-of-an-era]: [Article publié par RockRoller (10/08/2023) "Skinning Contest: Icons of an Era - Results"](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results)
+[^me-page-place]: [Article du forum par Dynam1cNET (19/08/2023) "I've made a r/place clone for my about me section"](https://osu.ppy.sh/community/forums/topics/1809912?n=1)
+
+[^contributors]: [Article publié par l'équipe osu! (19/11/2023) "Community Contributors: 2022 & 2023"](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
+
+[^feedback]: [Article du forum par peppy (18/12/2023) "osu!(lazer) 2023.1218.0 release feedback "](https://osu.ppy.sh/community/forums/topics/1858702?n=1)
+[^lazer-12-18]: [Article publié par Walavouchey (18/12/2023) "osu!(lazer) Updates & Preparing For Ranked Play"](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play)
+[^winter-fanart]: [Article publié par Ephemeral (07/12/2023) "Winter 2023 Fanart Contest Results"](https://osu.ppy.sh/home/news/2023-12-07-winter-fanart-contest-results)
+[^lazer-user-count]: [Tweet par peppy (15/12/2023)](https://twitter.com/ppy/status/1735606671031091389)
