@@ -6,7 +6,7 @@ date: 2024-06-12 19:00:00 +0000
 
 If you've stared at digital drums or fruits for longer than the average person, you're a perfect fit for this mapping contest. Set your sights on making a top-tier osu!taiko or osu!catch map, then maybe one day you can join the fabled *Elite Mappers*!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Never heard of the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*)? To the surprise of many, it's a beatmapping contest that runs each month.
 
