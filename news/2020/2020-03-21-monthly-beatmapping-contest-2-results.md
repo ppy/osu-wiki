@@ -6,7 +6,7 @@ date: 2020-03-21 00:00:00 +0000
 
 February's Monthly Beatmapping Contest has come to a close. Find out who wears the crown!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 For those unfamiliar, the **Monthly Beatmapping Contest** (***MBC***) began its comeback in 2020. Everything you'd want to know about the contest is detailed on the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest), so give it a read.
 
