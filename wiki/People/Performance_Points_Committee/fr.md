@@ -3,6 +3,8 @@ no_native_review: true
 tags:
   - pp committee
   - comité des pp
+outdated_translation: true
+outdated_since: 094db22e2c037b8cef1999cf2738393ee8bd9b15
 ---
 
 # Comité des points de performance
@@ -55,7 +57,6 @@ Le panel osu!taiko a été créé le 1er mai 2022 en réponse à [une enquête c
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1er mai 2022 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) | 1er mai 2022 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) | 1er mai 2022 |
 | ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) | 25 juillet 2023 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 septembre 2023 |
 
@@ -64,6 +65,7 @@ Le panel osu!taiko a été créé le 1er mai 2022 en réponse à [une enquête c
 | Profil osu! | Date d'adhésion | Date de départ |
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | 1er mai 2022 | 17 septembre 2023 |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1er mai 2022 | 31 octobre 2024 |
 
 ### osu!catch
 

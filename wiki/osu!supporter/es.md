@@ -9,7 +9,7 @@ tags:
 
 # osu!supporter
 
-![Imagen promocional de osu!supporter](img/supporter-eyecatch-ES.jpg)
+[![Imagen promocional de osu!supporter](img/supporter-eyecatch-ES.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (o la ***etiqueta de osu!supporter***) es un título temporal dado a los jugadores que apoyan a osu! de manera voluntaria con una donación monetaria para ayudarlo a crecer. Los supporters reciben un puñado de beneficios cosméticos y técnicos, la mayoría solo se presentan cuando el título está presente. Las características extras de osu!supporter no dan ningún tipo de ventaja en el juego, rendimiento o puntuación, y nunca lo hará.
 
@@ -20,11 +20,11 @@ La etiqueta de osu!supporter puede obtenerse en la [página de la tienda de osu!
 ### Insignia de corazón
 
 ::: Infobox
-![](img/userpage.png?1 "Perfil con osu!supporter")
+![](img/userpage.png?20241103 "Perfil con osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard-ES.png "Tarjeta de usuario con osu!supporter")
+![](img/usercard-ES.png?20241022 "Tarjeta de usuario con osu!supporter")
 :::
 
 Los supporters reciben una insignia con corazones en ella, usualmente se encuentra junto a su nombre de usuario en el sitio web. La cantidad de corazones depende en la duración del osu!supporter que el usuario ha adquirido o que haya recibido en total:

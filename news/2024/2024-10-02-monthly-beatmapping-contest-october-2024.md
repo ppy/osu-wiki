@@ -6,7 +6,7 @@ date: 2024-10-02 20:45:00 +0000
 
 For the first time in Monthly Beatmapping Contest history, collabs are allowed. See if you and a friend have what it takes to become osu!'s next mapping victors!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 If you had any doubts, the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is exactly what it sounds like: a mapping contest that runs every month.
 
