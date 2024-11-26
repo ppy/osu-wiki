@@ -85,6 +85,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=CA }:: [Kommisar](https://osu.ppy.sh/users/773405) | [Kommisar](https://osu.ppy.sh/beatmaps/artists/379) |
 | ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078) | [Krimek](https://osu.ppy.sh/beatmaps/artists/371) |
+| ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) | [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |

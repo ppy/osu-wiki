@@ -6,7 +6,7 @@ date: 2020-09-27 19:00:00 +0000
 
 The winners are crowned! See who managed to make the coolest circle-only beatmap from last month's mapping contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 While a *community vote* previously decided winners of the **Monthly Beatmapping Contest** (***MBC***), that task has now been taken over by a team of judges. Read the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) if you're confused about how any of this works!
 
