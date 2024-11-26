@@ -16,9 +16,9 @@ tags:
 
 # Beatmapping dan editor
 
-_Halaman utama: [Pusat bantuan](/wiki/Help_centre)_
+*Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan dengan editor dan proses pembuatan beatmap (_beatmapping_) secara umum.
+Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan dengan editor dan proses pembuatan beatmap (*beatmapping*) secara umum.
 
 ## Bagaimana cara saya mengunggah/memperbarui map milik saya? {id=upload-beatmap}
 
@@ -50,7 +50,7 @@ Apabila kamu masih mengalami masalah atau membutuhkan informasi lebih lanjut sep
 
 Segala jenis konten yang diunggah tanpa izin dapat ditindak sebagai pelanggaran hak cipta apabila pemilik asli konten ingin menangani hal ini dengan cara yang demikian. Oleh karenanya, permintaan penghapusan konten memerlukan suatu prosedur hukum untuk memastikan proses yang adil.
 
-Mohon untuk **tidak** mengirimkan laporanmu melalui [perintah `!report` di dalam permainan](/wiki/Reporting_bad_behaviour#in-game-chat) atau melalui [situs web osu!](/wiki/Reporting_bad_behaviour#website), karena para anggota [NAT](/wiki/People/Nomination_Assessment_Team) dan [GMT](/wiki/People/Global_Moderation_Team) yang mengelola laporan ini tidak memiliki kapasitas untuk menangani masalah yang berhubungan dengan hukum.
+Mohon untuk **tidak** mengirimkan laporanmu melalui [perintah `!report` di dalam permainan](/wiki/Reporting_bad_behaviour#in-game-chat) atau melalui [situs web osu!](/wiki/Reporting_bad_behaviour#situs-web), karena para anggota [NAT](/wiki/People/Nomination_Assessment_Team) dan [GMT](/wiki/People/Global_Moderation_Team) yang mengelola laporan ini tidak memiliki kapasitas untuk menangani masalah yang berhubungan dengan hukum.
 
 ## Bagaimana cara saya menghapus beatmap milik saya? {id=delete-beatmap}
 
@@ -59,4 +59,3 @@ Mohon untuk **tidak** mengirimkan laporanmu melalui [perintah `!report` di dalam
 Kamu dapat menghapus beatmap milikmu sendiri dengan menunggu hingga beatmap tersebut terkubur di Graveyard, yang akan terjadi setelah beatmap ini tidak diperbarui selama satu bulan (28 hari).
 
 Setelah beatmap kamu berada di Graveyard, kamu dapat menghapus beatmap ini sendiri dengan cara membuka [halaman diskusi beatmap](/wiki/Beatmap_discussion) dan mengeklik tombol `Hapus` yang terdapat pada sisi kanan layar setelah menggulirkan halaman ke bawah.
-
