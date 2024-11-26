@@ -70,7 +70,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `length` | [Length](/wiki/Beatmap/Play_time) in seconds |
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
-| `created` | Beatmap creation date |
+| `created` | Beatmap creation/upload date |
 | `updated` | Beatmap last update date |
 | `ranked` | Beatmap ranking/approval date |
 
@@ -94,6 +94,8 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `lastplayed` | Time since last played. Accepts a format of `#y#M#d#h#m#s`, for years, months, days, hours, minutes, and seconds respectively. For example, `2d5s` means "2 days and 5 seconds". |
 | `played` | Played status. Value can be `yes`, `true`, or `1` for played beatmaps, or `no`, `false`, or `0` for unplayed beatmaps. |
 | `divisor` | The denominator of the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
+| `submitted` | Beatmap creation/upload date |
+| `ranked` | Beatmap ranking/approval date |
 
 ## Example queries
 

@@ -6,7 +6,7 @@ date: 2024-06-24 21:00:00 +0000
 
 This year's 4 Digit World Cup has finally come to an end! Join us for a recap on everything that's been going on as well as some insights from one of our second-place finishers, a commentator and a custom mapper.
 
-![](/wiki/shared/news/2024-03-21-4-digit-world-cup-2024-registrations-now-open/banner@2x.jpg)
+![](/wiki/shared/news/2024-03-21-4-digit-world-cup-2024-registrations-now-open/banner.jpg)
 
 Over the past two months, the 4-digit tournament scene has showcased their best players competing at the highest level within the rank range. Now, with the Grand Finals weekend behind us, it's time to reflect on the intense matches, unforgettable moments, and the friends we made along the way.
 
