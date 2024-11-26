@@ -6,7 +6,7 @@ date: 2020-05-22 04:30:00 +0000
 
 Curious as to how one makes a map with only reverse sliders? See how the winners of the fourth monthly beatmapping contest managed!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The **Monthly Beatmapping Contest** (***MBC***) has been pumping out constant mapping competition for all of 2020. The details may be overwhelming for those jumping in late, so review the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) if you're confused.
 
