@@ -6,7 +6,7 @@ date: 2021-03-07 09:00:00 +0000
 
 Back from hiatus, the Monthly Beatmapping Contest returns with tough design limits and precious prizes — now featuring competition for other modes too!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 It may be hard to believe, but the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is a series of mapping contests that recur monthly. Well, that's what the MBC was between January and October of 2020. We took a break while [A Labour of Love](https://osu.ppy.sh/community/contests/115) was underway, but submissions for that are now closed, so it's about time we bring back our bread and butter mapping contests!
 

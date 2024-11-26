@@ -6,7 +6,7 @@ date: 2021-08-30 20:45:00 +0000
 
 Results of the first two-map-contest are in! See who's on top and say hello to our newest Elite Mappers!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The **Monthly Beatmapping Contest** (***MBC***) is... well, a beatmap contest that's held monthly. The [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) has all the details, so check that if you're out of the loop.
 
