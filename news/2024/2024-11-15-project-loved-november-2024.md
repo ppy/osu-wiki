@@ -51,7 +51,7 @@ Don't forget to check out the [osu!(lazer)](https://osu.ppy.sh/home/download) Pr
 
 ## osu!
 
-The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [Kingling](https://osu.ppy.sh/users/7010761), [Librarian](https://osu.ppy.sh/users/10083084), [megumic](https://osu.ppy.sh/users/7537133), [Mismagius](https://osu.ppy.sh/users/19048), and [Skill](https://osu.ppy.sh/users/7802027)!
+The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [Librarian](https://osu.ppy.sh/users/10083084), [megumic](https://osu.ppy.sh/users/7537133), [Mismagius](https://osu.ppy.sh/users/19048), and [Skill](https://osu.ppy.sh/users/7802027)!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR20%20-%20Project%20Loved:%20November%202024%20(osu!).zip)**
 
@@ -160,16 +160,6 @@ After playing through this entire mapset for this month's Meme Monstrosities, an
 Bocchi is literally me. No other character can come close to relating to me like her. There is no way you can convince me that I'm not Bocchi. Bocchi could not possibly be any more me. It's me, and nobody can convince me otherwise. If anyone approached me about this not possibly being me, I immediately shut them down with overwhelming evidence that Bocchi was me. Bocchi is absolutely me; it is indisputable. Why anyone would try to argue that Bocchi is not me is beyond me. If you held two pictures of me and Bocchi side by side, you'd see no difference. I can safely look at Bocchi every day and say, "Yup, she's me." I can practically see Bocchi whenever I look at myself in the mirror. I go outside, and people stop me from commenting on how similar I look and act as Bocchi is. I chuckle softly as I'm assured every day Bocchi is me in every way. I can smile each time I get out of bed each morning, knowing that I've found my identity with Bocchi and I know my place in this world. It's amusing how similar she is to me; it's almost like identical twins. When I first saw Bocchi, I had an existential crisis. What if Bocchi was the real me and I was the fictional being? What if she actually became aware of my existence? Did she have the ability to become self-aware?
 
 With a staggering 50 difficulties to choose from, there's bound to be at least one Bocchi map for you to enjoy. Vote yes to never feel lonely again!
-
-[![](/wiki/shared/news/2024-11-15-project-loved-november-2024/1609956.jpg)](https://osu.ppy.sh/community/forums/topics/2003530)
-
-[senya - Kasoku Suru Koi wa Dare mo Tomerarenai](https://osu.ppy.sh/beatmapsets/1609956#osu) by [Luscent](https://osu.ppy.sh/users/2688581)\
-168 BPM, 3:49 | 4.77★\
-*description written by [Kingling](https://osu.ppy.sh/users/7010761)*
-
-Did someone say.... TOUHOU? This month, veteran Touhou mapper [Luscent](https://osu.ppy.sh/users/2688581) brings us yet another banger to hopefully be added to the Loved section. Sitting at a chill 4.77★, this map is accessible for players of all skill ranges! But don't let the star rating and category fool you, some of you may remember this map was made for OWC 2021 RO16 as a double time pick. Jumping up to over 250 BPM and nearly 7★ it can even still challenge some of the best players.
-
-So whether you're just looking to vibe with an awesome song, or test your limits of speed, this map has it all! Make sure to vote yes to see this map moved to the Loved category!
 
 [![](/wiki/shared/news/2024-11-15-project-loved-november-2024/2091742.jpg)](https://osu.ppy.sh/community/forums/topics/2003529)
 
@@ -281,7 +271,7 @@ Are you ready for the WORM RAVE? ◙▒◙ ♫♩♬ ₍₍ ◝(・ω・)◟ ⁾
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users/7620002), [Dahcreeper](https://osu.ppy.sh/users/6926006), and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users/7620002) and [Dahcreeper](https://osu.ppy.sh/users/6926006)!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR18%20-%20Project%20Loved:%20November%202024%20(osu!catch).zip)**
 
@@ -292,16 +282,6 @@ The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users
 </div>
 
 ---
-
-[![](/wiki/shared/news/2024-11-15-project-loved-november-2024/966789.jpg)](https://osu.ppy.sh/community/forums/topics/2003521)
-
-[Happatai - YATTA!](https://osu.ppy.sh/beatmapsets/966789#fruits) by [Xinnoh](https://osu.ppy.sh/users/4236057)\
-133 BPM, 3:52 | 3.81★\
-*description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
-
-[Xinnoh](https://osu.ppy.sh/users/4236057) is a name that everyone who plays catch actively has heard of. They mapped so much that you can find everything in their selection. Also maps like [YATTA!](https://osu.ppy.sh/beatmapsets/966789), which does really stand out for being a bit of an odd one. I definitely don't mean it in a bad way, the map is lots of fun. But it isn't very difficult nor does it have any unrankable shenanigans. But the style of the map, revolving heavily around slider patterns that match the song's rhythm, is just beautiful. The description of the map simply says "+hddt". This is because this becomes rather challenging with those mods and very difficult to SS. For most people it is probably too easy to play normally, so why not challenge yourself?
-
-A great early 2000 Japanese meme song turned into a very fun and quirky beatmap, doesn't that sound cool?
 
 [![](/wiki/shared/news/2024-11-15-project-loved-november-2024/2202779.jpg)](https://osu.ppy.sh/community/forums/topics/2003520)
 
