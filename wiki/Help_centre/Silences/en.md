@@ -1,4 +1,4 @@
-# Silence
+# Silences
 
 **Silence** is a term used to describe the punishment of limiting a user's means of communication within the osu! community. Silences can be placed by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), and are only placed on users that have broken the [Community Rules](/wiki/Rules).
 
