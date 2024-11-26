@@ -16,3 +16,44 @@ Le [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage) [BBC
 
 ## Mars
 
+Dans le concours du [skin de l'année 2022](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022), les utilisateurs pouvaient voter pour leur skin préferé. Les trois premières places, respectivement [- Koshiin -](https://osu.ppy.sh/users/19135423), [moonstaar](https://osu.ppy.sh/users/27339355), et [BatuhanYtho](https://osu.ppy.sh/users/12091015) ont reçu des badges spéciaux en guise de prix. Chaque finaliste de la première place à la dixième ont reçu différentes longueurs d'abonnement à osu!supporter.[^soty-results]
+
+[EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) a joué toutes les beatmaps classées dans le [mode osu!](/wiki/Game_mode/osu!) en date du 12 mars et est donc le troisième a recevoir le [titre](/wiki/Community/User_title) d'[osu!completionist](/wiki/People/Completionists).[^completionist-tweet]
+
+## Avril
+
+Une autre balise a été ajouté à la syntaxe BBCode. La balise `[imagemap]` permet d'ajouter plusieurs liens à différentes zones d'une seule image.[^imagemap-tag]
+
+En célébration du 15e anniversaire en 2022, osu! a vendu des tapis de souris en tant qu'offre a durée limitée.[^desk-mat]
+
+![](img/desk-mat.jpg "Tapis de souris du 15e anniversaire")
+
+## Mai
+
+Le site [osudaily.net](https://osudaily.net/) a fourni des données datant de 2016 à inclure dans les statistiques de profil montrant le plus rang atteine par un joueur.[^highest-rank]
+
+Alors que le mois de mai touchait à sa fin, des [nouvelles medailles](https://www.reddit.com/r/osugame/comments/13vma49/new_medals_are_out/) ont été créées.
+
+![](img/medals-may.png "Medailles publiées en mai")
+
+## Juin
+
+
+
+## Juillet
+
+
+
+## Août
+
+
+
+## Novembre
+
+
+
+## Décembre
+
+
+
+## Références
