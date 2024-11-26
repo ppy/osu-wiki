@@ -63,7 +63,7 @@ At all times, [the osu! team](/wiki/People/osu!_team) reserves the right to unil
 
 ## What happens if my image isn't okay?
 
-Any images, videos, or visual content the GMT deems inappropriate are removed from the website. Additionally, the user that uploaded that visual content may be [silenced](/wiki/Help_centre/Silence) for 43 hours depending on the severity of the offence and the user's relevant history.
+Any images, videos, or visual content the GMT deems inappropriate are removed from the website. Additionally, the user that uploaded that visual content may be [silenced](/wiki/Help_centre/Silences) for 43 hours depending on the severity of the offence and the user's relevant history.
 
 For inappropriate visual content on beatmaps, silences will generally not be handed out as long as the visual content is not severely inappropriate and the user removes the offending content within a reasonable time frame.
 

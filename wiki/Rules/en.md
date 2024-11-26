@@ -51,12 +51,12 @@ If you do find yourself on the wrong end of our community rules, bad things will
 
 These bad things may include (*but are not limited to*):
 
-- The removal of your ability to chat in-game for a period of time (known as a [silence](/wiki/Help_centre/Silence)).
+- The removal of your ability to chat in-game for a period of time (known as a [silence](/wiki/Help_centre/Silences)).
 - The removal of any infringing content from your userpage, profile or uploaded beatmaps.
 - The loss of the privilege to edit or alter your userpage or profile details.
 - The loss of the privilege to play or qualify in officially hosted tournaments.
 
-[Silences](/wiki/Help_centre/Silence) and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offence — repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
+[Silences](/wiki/Help_centre/Silences) and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offence — repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
 Certain offences carry a minimum duration (usually 43 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
