@@ -6,7 +6,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ## Statistics
 
-There is currently a total of **799** documented osu! originals.
+There is currently a total of **800** documented osu! originals.
 
 ![Graph of osu! originals over time](img/originals-over-time.png?20241126)
 
@@ -1335,6 +1335,12 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/gtssoundteam/antineutrino-witchcraft-feat "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=BQS57GsE7UQ "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1IthQ7FXVpjvexpxNlxqdX "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/antineutrino-witchcraft "Bandcamp") |  | Camellia - ANTINEUTRINO WITCHCRAFT[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2101746) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/gtssoundteam/feat-dj-raisei "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Gij3kcSOB9I "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1iiDZ6MqcySCuKQHxsYDx4 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/--4 "Bandcamp") |  | DJ Raisei - Tsuikou No Toshi Yori[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2095195) | Semifinals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/trung-nova_727/roars-of-vengeance-take-back-everything "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UBAW75EuG4M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1idfZahkafLuXSY4sDQAhL "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://trung-nova.bandcamp.com/album/roars-of-v-e-n-g-e-a-n-c-e-take-back-everything "Bandcamp") |  | trung-nova - Roars of V.E.N.G.E.A.N.C.E -Take Back Everything- | [#1](https://osu.ppy.sh/beatmapsets/2098441) | Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/catch.png) [osu!catch 3 Digit World Cup 2024](https://osu.ppy.sh/community/forums/topics/1977529)
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/3cwc-2024-grand-finals-ptar124-a-platter-of-primes "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=R754MNQPuGE "YouTube") |  | ptar124 - A Platter of Primes[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2284831) | Grand Finals HD2 |
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch United States Cup 2024](https://osu.ppy.sh/community/forums/topics/1941577)
 
