@@ -9,7 +9,7 @@ tags:
 
 # osu!supporter
 
-![image promotionnelle d'osu!supporter](img/supporter-eyecatch-FR.jpg?1)
+[![image promotionnelle d'osu!supporter](img/supporter-eyecatch-FR.jpg?1)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (ou le ***tag osu!supporter***) est un titre temporaire donné aux joueurs qui soutiennent osu! en faisant un don volontaire et monétaire pour l'aider à prospérer. Les supporters reçoivent une poignée d'avantages cosmétiques et techniques, dont la plupart ne sont actifs que lorsque le titre est présent. Les caractéristiques supplémentaires d'osu!supporter ne donnent aucun avantage en termes de gameplay, de performance ou de score, et n'en donneront jamais.
 
@@ -20,11 +20,11 @@ Le tag osu!supporter peut être obtenu à partir de la [page du magasin osu!supp
 ### Insigne de cœur
 
 ::: Infobox
-![](img/userpage.png?1 "Profil avec osu!supporter")
+![](img/userpage.png?20241103 "Profil avec osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard-FR.png?1 "Carte d'utilisateur avec osu!supporter")
+![](img/usercard-FR.png?20241022 "Carte d'utilisateur avec osu!supporter")
 :::
 
 Les supporters reçoivent un badge avec des cœurs, généralement situé à côté de leur nom d'utilisateur sur le site web. Le nombre de cœurs dépend de la durée d'osu!supporter que l'utilisateur a acquis ou reçu au total :
