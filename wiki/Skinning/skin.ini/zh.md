@@ -1,6 +1,6 @@
 ---
+outdated_since: dcec646e6b02b2ecbfddc15077ee9c6ed142fbd0
 outdated_translation: true
-outdated_since: a5a4d44b66fbe6446aefb341d712d1623b1aac80
 ---
 
 # skin.ini
@@ -94,7 +94,7 @@ outdated_since: a5a4d44b66fbe6446aefb341d712d1623b1aac80
 **允许按类别自定义箭头的皮肤**
 
 - 添加了 `arrow-generic.png`、`arrow-warning.png` 和 `arrow-pause.png`。
-- 删除了 `play-warningarrow.png`。
+- 弃用了 `play-warningarrow.png` 而使用上述元素。
 
 ### 2.7
 

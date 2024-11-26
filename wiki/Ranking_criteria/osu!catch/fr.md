@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4f6a3f88e0af90a02e3ba96a0558655be395e319
 ---
 
 # Critères de classement d'osu!catch

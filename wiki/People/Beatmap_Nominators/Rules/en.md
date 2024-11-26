@@ -18,27 +18,18 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 
 ## Activity
 
-- **Activity requirements for your respective game mode(s) must be met.** Activity over the last 90 days will be checked on the first day of each month and during regular BN evaluations, taking into account any leave of absence communicated.
-  - **Falling below 60 days worth of nominations in a 90 day period will result in a removal when activity is checked.** For example, an osu! BN with less than 6 nominations in a 90 day period will be removed.
-  - **Falling below the 90 day requirements with more than 60 days' worth of nominations will result in an activity warning.**
-  - When warned for activity, minimum activity requirements for your respective game mode(s) must be met over the course of one month.
-  - Failing to meet the required minimum when being warned for it prior may result in removal from the Beatmap Nominators.
-- Beatmap Nominators are expected to stay below a maximum number of nominations over any 90-day period, with each mode having its own nomination cap. Exceeding this amount will lead to a warning, followed by a removal if they fail to manage their activity accordingly.
-  - osu!, osu!catch, osu!mania: 75 unique nominations.
-  - osu!taiko: 100 unique nominations.
-- Beatmap Nominators returning on good terms are expected to reach their mode's minimum activity requirements in the first 30 days since their rejoin. Staying inactive during this period of time may result in a warning or a removal, which will be evaluated on a case-by-case basis.
+Beatmap Nominator activity is measured via nominations,[^multi-key-mode] and is evaluated during regular BN evaluations, which happen around every 90 days.
 
-### Requirements
+- Beatmap Nominators must nominate at least **6** beatmaps over a 90-day period.
+  - An activity warning will be issued when failing to meet this rule.  
+  - Falling below **4** nominations will always result in removal from the Beatmap Nominators.
+- Hybrid Beatmap Nominators must nominate at least **3** beatmaps per proficient game mode over a 90-day period.
+  - An activity warning in the relevant game mode will be issued when failing to meet this rule.  
+  - Falling below **2** nominations in a given game mode will always result in removal from the Beatmap Nominators of said game mode.
+- When warned for activity, minimum activity requirements must be met after 30 days.
+- Failing to meet the required minimum when being warned for it within a period of 1 year will result in a removal from the Beatmap Nominators.
 
-Beatmap Nominator activity is primarily measured by nominations. Resetting beatmaps is taken into account but to a lesser extent, and it has no set ratio compared to nominations.
-
-Each mode has its own required minimum for monthly activity.
-
-| Game mode | Requirement |
-| :-- | :-- |
-| osu!, osu!taiko | 3 nominations |
-| osu!catch, osu!mania[^multi-key-mode] | 2 nominations |
-| Hybrid | 3 nominations, with at least 1 per proficient game mode |
+When a Beatmap Nominator's evaluation is created and they still need to meet their minimum activity requirements, they will receive a reminder via the [NAT bot](https://osu.ppy.sh/users/6616586) and will be given **7** days to meet their quota.
 
 ## Nomination
 
