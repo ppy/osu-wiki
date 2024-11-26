@@ -24,7 +24,7 @@ If you are more of a visual learner, [Junihuhn](https://osu.ppy.sh/users/4182339
     }
 </style>
 
-**[Download the pool here! (127MB)](https://osu.ppy.sh/beatmaps/packs/P264)**
+**[Download the pool here! (127 MB)](https://osu.ppy.sh/beatmaps/packs/P264)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=01h05m58s&video=2287184079" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
@@ -42,7 +42,7 @@ The pool had its fair amount of modern maps — some made specifically for the t
 
 Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in the tournament — and what a project it is.
 
-![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)
+[![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)](https://osu.ppy.sh/beatmapsets/2271658)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -94,6 +94,25 @@ I am glad to participate in the making of RO32 TB as a mapper! This song has all
 </div>
 
 ## Round of 32 summary
+
+| Team A |  |  | Team B |
+| --: | :-: | :-: | :-- |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=TW }:: Taiwan |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=BY }:: Belarus |
+| **Philippines** ::{ flag=PH }:: | **5** | 2 | ::{ flag=MY }:: Malaysia |
+| **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=SG }:: Singapore |
+| **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=JP }:: Japan |
+| **Norway** ::{ flag=NO }:: | **5** | 2 | ::{ flag=TH }:: Thailand |
+| **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=KZ }:: Kazakhstan |
+| Romania ::{ flag=RO }:: | 3 | **5** | ::{ flag=BR }:: **Brazil** |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=UA }:: Ukraine |
+| **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=AT }:: Austria |
+| **Sweden** ::{ flag=SE }:: | **5** | 4 | ::{ flag=ID }:: Indonesia |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=FI }:: Finland |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=AR }:: Argentina |
+| France ::{ flag=FR }:: | 2 | **5** | ::{ flag=TR }:: **Turkey** |
+| **Chile** ::{ flag=CL }:: | **5** | 2 | ::{ flag=ES }:: Spain |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=PE }:: Peru |
 
 While it would be completely unfair to say that the Round of 32 plays out the same every year, it remains very clear that the top 32 seeds have been shaken out into their respective brackets during this round, but of course not without some surprises along the way.
 
@@ -191,7 +210,7 @@ Worst case I believe we place top16, which isn't that bad considering we seeded 
 
 ---
 
-The osu! World Cup will be back this weekend with its Round of 16, the first elimination round of the year! Check out the OWC wiki page for the match details along with full tournament details (such as the schedule or [statistics for this round](https://docs.google.com/spreadsheets/d/1QZkp7R5eBfvc2GP0rwWRmtRohZl16yKmHZiJ1rjlL0A)), and join us at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to ༼ つ ◕\_◕ ༽つ give your energy ༼ つ ◕\_◕ ༽つ, and cheer on your favourite teams!
+The osu! World Cup will be back this weekend with its Round of 16, the first elimination round of the year! Check out the [OWC wiki page](/wiki/Tournaments/OWC/2024) for the match details along with full tournament details (such as the schedule or [statistics for this round](https://docs.google.com/spreadsheets/d/1QZkp7R5eBfvc2GP0rwWRmtRohZl16yKmHZiJ1rjlL0A)), and join us at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to ༼ つ ◕\_◕ ༽つ give your energy ༼ つ ◕\_◕ ༽つ, and cheer on your favourite teams!
 
 We hope to see you cheering for your teams this weekend in Twitch chat or reading up on the results in another round of recaps!
 

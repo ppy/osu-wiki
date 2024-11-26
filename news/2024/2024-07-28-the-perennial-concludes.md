@@ -269,7 +269,7 @@ EMPICONES, on the other hand, was a team consisting of players I knew from a gro
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
@@ -281,7 +281,7 @@ Hi! I'm Doomsday, and I've been around the osu! community since 2008 doing all s
 
 With the release of *TGGT*, you also became a featured artist in osu!. What does it feel like to come full circle, from player to staff to artist?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
@@ -297,7 +297,7 @@ At this point I've somehow managed to do the full loop of staff roles for tourna
 
 What made you start making music? Was it always an interest of yours, or was it something you only recently wanted to do?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
@@ -311,7 +311,7 @@ Thanks to rhythm games, I've absolutely fallen in love with its style of music, 
 
 Who are your biggest inspirations when composing?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
@@ -327,7 +327,7 @@ Hardcore is the genre I most often produce in, and JAKAZiD is an artist I'm alwa
 
 The Perennial gave almost full creative freedom to musicians this year. What kind of challenges does that present compared to a more rigid approach where musicians are given song specifications, and which approach do you enjoy more as a musician?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/doomsday.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/avatars/Doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
