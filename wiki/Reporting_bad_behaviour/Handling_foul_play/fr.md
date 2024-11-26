@@ -30,7 +30,7 @@ L'équipe de support aux comptes ne fournira aucune "preuve" concernant les rest
 
 ## Je vais faire une vidéo pour prouver mon innocence !
 
-Désolé, mais si vous avez été restreint, l'équipe du support est déjà sûre que vous trichez. Une vidéo ne sera d'aucune utilité, car même celle-ci peut être falsifiée.
+Désolé, mais si vous avez été restreint, l'équipe du support est déjà sûre que vous trichez. Une vidéo ne sera d'aucune utilité, car celle-ci peut être falsifiée.
 
 ## J'ai trouvé quelqu'un qui triche sans aucun doute. Je peux le dire en regardant son score ! Que dois-je faire ?
 
@@ -47,7 +47,7 @@ Sur le profil de l'utilisateur, un bouton `Signaler` apparaît lorsque vous cliq
 
 ### Page des beatmaps
 
-Cette méthode de report est aussi efficace que l'utilisation de la page de profil pour le vote, les reports étant envoyés au même point d'accès.
+Cette méthode est aussi efficace que l'utilisation de la page de profil pour les reports - les reports sont envoyés au même endroit.
 
 Dans les pages des beatmaps, vous pouvez signaler un utilisateur dans les classements en cliquant sur le bouton `Signaler` à l'extrême droite de son score.
 
@@ -70,7 +70,7 @@ Les périphériques tels que les tablettes et les écrans tactiles sont accepté
 
 ## Comment puis-je faire appel de ma restriction ?
 
-Attendez trois mois après la dernière restriction émise avant de faire appel. Adressez vos courriels à [accounts@ppy.sh](mailto:accounts@ppy.sh) et utilisez un objet du type `Restriction Appeal: <username>`
+Attendez au moins trois mois après la dernière restriction émise avant de faire appel.[^longueur-restrictions] Adressez vos e-mails à [accounts@ppy.sh](mailto:accounts@ppy.sh) et utilisez l'objet suivant : `Restriction Appeal: <username>`
 
 L'équipe du support attend des utilisateurs qu'ils fournissent un historique complet de leurs actions et qu'ils donnent les raisons pour lesquelles ils ne récidiveront pas à l'avenir.
 
@@ -82,4 +82,8 @@ Si vous avez enfreint les règles et que vous souhaitez vous racheter, veuillez 
 
 ## Comment puis-je éviter d'être réduit au silence ou restreint ?
 
-Lisez attentivement et suivez les [règles](/wiki/Rules).
+Lisez attentivement et suivez les [règles](/wiki/Rules). Si vous n'êtes pas sûr que ce que vous voulez faire enfreigne les règles, demandez à un membre de la [Global Moderation Team](/wiki/People/Global_Moderation_Team). Si vous ne savez pas à qui demander, [cliquez ici](https://osu.ppy.sh/users/5999631).
+
+## Notes
+
+[^longueur-restrictions]: Le délai d'attente avant de faire appel dépend de la raison de la restriction. Si vous n'êtes pas sûr de la durée de votre restriction, envoyez un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh). Pour plus d'informations, voir [Restrictions de compte](/wiki/Help_centre/Account_restrictions).

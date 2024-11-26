@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 8aa57cbb842da61dbfc63dad509f4eed34e1066c
----
-
 # Содержание статей
 
 *См. также: [Оформление статей](/wiki/Article_styling_criteria/Formatting)*
@@ -110,9 +105,9 @@ outdated_since: 8aa57cbb842da61dbfc63dad509f4eed34e1066c
 
 При упоминании настроек мультиплеерных игр, которые ограничивают применение модов, стоит использовать [CamelCase](https://ru.wikipedia.org/wiki/CamelCase):
 
-- `NoMods`, `NoMod`, или `NM`;
-- `FreeMods`, `FreeMod`, или `FM`;
-- `Tiebreaker`.
+- `No Mod` или `NM`;
+- `Free Mod` или `FM`;
+- `Tiebreaker` (не является именем собственным).
 
 ### Имена собственные
 

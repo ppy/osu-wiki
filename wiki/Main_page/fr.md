@@ -62,7 +62,7 @@ Le classement est le processus qui permet d'obtenir un classement pour une beatm
 
 [Soumission](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Procédure de classement](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Critères de classement](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Critères de classement](/wiki/Ranking_criteria): [Métadonnées](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -101,7 +101,7 @@ Emplacements : [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet
 
 [Tournois](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concours](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projets](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projets](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisations : [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -123,7 +123,7 @@ osu! n'aurait pas été possible sans la participation de nombreux utilisateurs 
 
 Interagissez avec osu! via d'autres applications et médias, ou aidez-la à se développer davantage.
 
-[API](/wiki/osu!api) • [Compte bot](/wiki/Bot_account) • [Directives d'identité de marque](/wiki/Brand_identity_guidelines) • [Serveur Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Compte bot](/wiki/Bot_account) • [Directives d'identité de marque](/wiki/Brand_identity_guidelines) • [Serveur Discord osu!](/wiki/Community/Discord_servers#officielle)
 
 </div>
 <div class="wiki-main-page-panel">

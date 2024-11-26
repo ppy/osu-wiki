@@ -2,7 +2,7 @@
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-Este conjunto de **criterios de clasificación de osu!catch** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!catch](/wiki/Game_mode/osu!catch) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!catch** establece [reglas y pautas](/wiki/Ranking_criteria) que los [beatmaps](/wiki/Beatmap) específicos de [osu!catch](/wiki/Game_mode/osu!catch) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ## Universal
 
@@ -16,9 +16,9 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 - **Cada beatmap debe usar al menos dos [colores de combo](/wiki/Beatmapping/Combo_colour) diferentes, a menos que se fuerce el uso de la skin por defecto.** Los colores de combo no deben mezclarse con el fondo, storyboard o vídeo del beatmap en ningún caso. Esto garantiza que los objetos sean siempre visibles para el jugador y que los colores de combo de la skin personalizada no se mezclen accidentalmente con el fondo.
 - **No uses keysounds sin el soporte de un hitnormal.** Si los sonidos se mezclan perfectamente con la canción, la retroalimentación al atrapar las notas es mínima.
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
-  - **... menos de 2:30**, la dificultad más baja no puede ser más difícil que una Salad.
-  - **... entre 2:30 y 3:15**, la dificultad más baja no puede ser más difícil que una Platter.
-  - **... entre 3:15 y 4:00**, la dificultad más baja no puede ser más difícil que una Rain.
+  - **... menos de 2:30**, la dificultad más baja no puede ser más difícil que una Salad, o proporcionar una distribución adecuada[^proper-spread] que contenga al menos 4 dificultades.
+  - **... entre 2:30 y 3:15**, la dificultad más baja no puede ser más difícil que una Platter, o proporcionar una distribución adecuada[^proper-spread] que contenga al menos 3 dificultades.
+  - **... entre 3:15 y 4:00**, la dificultad más baja no puede ser más difícil que una Rain, o proporcionar una distribución adecuada[^proper-spread] que contenga al menos 2 dificultades.
   - **Se pueden combinar los [descansos](/wiki/Beatmap/Break) con el [tiempo de drenaje](/wiki/Beatmap/Drain_time) para alcanzar los umbrales mencionados anteriormente.** Para la dificultad más alta, esto está limitado a 30 segundos de descanso como máximo. Esto no se aplica a dificultades con menos de 30 segundos de tiempo de drenaje.
 
 #### Pautas
@@ -49,9 +49,9 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 
 ## Dificultades específicas
 
-Las reglas y pautas para las dificultades específicas solo se aplican al nivel de dificultad que se indica y, por lo tanto, *no se aplican a **todas** las dificultades de osu!catch*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
+Las reglas y pautas para las dificultades específicas solo se aplican al nivel de dificultad que se indica y, por lo tanto, *no se aplican a **todas** las dificultades de osu!catch*. Las reglas y pautas relacionadas al ritmo aplican para los beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
-### Nombre de las dificultades
+### Nombres de las dificultades
 
 *Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
 
@@ -75,7 +75,7 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 #### Reglas
 
-- **[Dashes](/wiki/Gameplay/Dash) e [hiperdashes](/wiki/Gameplay/Hyperdash) de cualquier tipo no están permitidos.** Esto es para garantizar una experiencia de inicio fácil para los jugadores principiantes. Con el fin de probar esto, debe ser posible alcanzar un grado SS en la dificultad sin hacer uso de la tecla de dash.
+- Los **[dashes](/wiki/Gameplay/Dash) e [hiperdashes](/wiki/Gameplay/Hyperdash) de cualquier tipo no están permitidos.** Esto es para garantizar una experiencia de inicio fácil para los jugadores principiantes. Con el fin de probar esto, debe ser posible alcanzar un grado SS en la dificultad sin hacer uso de la tecla de dash.
 - **Debe haber al menos 250 ms de espacio entre círculos/sliders y el inicio y final de los [spinners](/wiki/Gameplay/Hit_object/Spinner).** Esto es para garantizar una buena legibilidad.
 
 #### Pautas
@@ -194,3 +194,7 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 - La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) y la [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser entre 8 y 10.
 - La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser entre 5 y 7.
 - El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser entre 3 y 6.
+
+## Notas
+
+[^proper-spread]: Una distribución «adecuada» *para las dificultades Rain y superiores* se define como una distribución con intervalos de dificultad similares a los existentes entre los [niveles de dificultad](/wiki/Beatmap/Difficulty#niveles-de-dificultad) inferiores, tal y como se especifica en los [criterios específicos de las dificultades](#dificultades-específicas).

@@ -1,14 +1,10 @@
----
-no_native_review: true
----
-
 # Description de la beatmap
 
-**La description de la beatmap** est une petite zone sous la page d'une [beatmap](/wiki/Beatmap) qui donne aux joueurs des informations sur la beatmap en utilisant le [BBCode](/wiki/BBCode). Elle met généralement l'accent sur quelques faits concernant la beatmap que son créateur a jugé suffisamment importants, ou est utilisée pour faire de la publicité pour d'autres projets de mapping.
+La **description de la beatmap** est une petite zone sous la page d'une [beatmap](/wiki/Beatmap) qui donne aux joueurs des informations sur la beatmap en utilisant le [BBCode](/wiki/BBCode). Elle met généralement l'accent sur quelques faits concernant la beatmap que son créateur a jugé suffisamment importants, ou est utilisée pour faire de la publicité pour d'autres projets de mapping.
 
 ## Utilisations et informations
 
-Les descriptions populaires des beatmaps [classé](/wiki/Beatmap/Category#ranked) comprennent souvent les éléments suivants :
+Les descriptions populaires des beatmaps [classées](/wiki/Beatmap/Category#ranked) comprennent souvent les éléments suivants :
 
 - Une liste de toutes les [difficultés des invités](/wiki/Beatmap/Guest_difficulty) et de leurs créateurs.
 - Les informations qui aideraient un joueur à décider s'il souhaite ou non télécharger la beatmap
