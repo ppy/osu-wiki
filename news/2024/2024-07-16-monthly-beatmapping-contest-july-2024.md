@@ -6,7 +6,7 @@ date: 2024-07-16 18:15:00 +0000
 
 It might be too hot to go outside, but at least you can prove you're a top-tier mapper this summer!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Legend has it that the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is a beatmapping contest that occurs monthly. The legend is surprisingly straightforward.
 

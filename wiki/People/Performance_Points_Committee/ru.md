@@ -23,7 +23,6 @@ tags:
 
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
 | ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
 
@@ -33,8 +32,18 @@ tags:
 | :-- | :-- |
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) |
+| ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) |
 | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | [vunyunt](https://github.com/vunyunt) |
+
+### osu!catch
+
+| Профиль osu! | Профиль GitHub |
+| :-- | :-- |
+| ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) |
+| ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | [Sorceress-osu](https://github.com/Sorceress-osu) |
+| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | [Zoggoth](https://github.com/Zoggoth) |
+| ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) |
 
 ### osu!mania
 

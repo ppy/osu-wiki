@@ -8,7 +8,7 @@ tags:
 
 ![osu! Indonesia Tournament #14 (2024) banner](img/banner.png)
 
-The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). The tournament is open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It is the fourteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). The tournament was open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It was the fourteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -25,7 +25,7 @@ The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) is a double-elimination 
 
 ## Prizes
 
-The osu! Indonesia Tournament #14 (2024) offers an initial prize pool of 500,000 IDR as generously donated by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #14 (2024) offered an initial prize pool of 500,000 IDR as generously donated by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -33,23 +33,25 @@ The osu! Indonesia Tournament #14 (2024) offers an initial prize pool of 500,000
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, customised profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, customised profile banner |
 
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #14 (2024) is not marked for profit. All contributions and expenses made towards the tournament will be publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
+![](img/badge.png "OIT 2024 winner badge")
+
+As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #14 (2024) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discord.com/invite/CHRFffH) for transparency.
 
 ## Organisation
 
-The osu! Indonesia Tournament #14 (2024) is run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #14 (2024) was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933) |
-| Co-host | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [Senritsu](https://osu.ppy.sh/users/1165368) |
-| Mappool selector | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
-| Custom mapper | ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Saturnalize](https://osu.ppy.sh/users/762487), ::{ flag=ID }:: [Azrulk](https://osu.ppy.sh/users/12046612), *more to be announced* |
+| Co-host | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656) |
+| Mappool selector | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
+| Custom mapper | ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Saturnalize](https://osu.ppy.sh/users/762487), ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Azrulk](https://osu.ppy.sh/users/12046612), ::{ flag=ID }:: [Satono Crown](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200), ::{ flag=ID }:: [Ciyus Miapah](https://osu.ppy.sh/users/2805457), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=US }:: [Sparhten](https://osu.ppy.sh/users/7601720) |
 | Custom map quality assurance | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Playtester | ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=KR }:: [fragranceofpage](https://osu.ppy.sh/users/11399348) |
-| Streamer | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=ID }:: [cxyren](https://osu.ppy.sh/users/2151493), ::{ flag=ID }:: [Ren245](https://osu.ppy.sh/users/9048690), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=VN }:: [- Fubukiii](https://osu.ppy.sh/users/9931217) |
+| Playtester | ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160)[^stixe-note-1], ::{ flag=KR }:: [fragranceofpage](https://osu.ppy.sh/users/11399348) |
+| Streamer | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [cxyren](https://osu.ppy.sh/users/2151493), ::{ flag=ID }:: [Ren245](https://osu.ppy.sh/users/9048690), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=VN }:: [- Fubukiii](https://osu.ppy.sh/users/9931217) |
 | Commentator | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [\[Aero\]](https://osu.ppy.sh/users/24396418) |
-| Referee | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=ID }:: [Kurami\_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495) |
+| Referee | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=ID }:: [Kurami\_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950),  ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495) |
 | Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zaald](https://osu.ppy.sh/users/12088808), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
 | Spreadsheet manager | ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
@@ -87,7 +89,69 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 15 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 6.48 |
 | 16 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227) | 6.27 |
 
+## Podium
+
+![](img/podium.jpg "OIT 2024 podium")
+
 ## Mappools
+
+### Finals (week 2)
+
+- No Mod
+  1. [Yorushika - Replicant (forsen) \[All Love is a Replica\]](https://osu.ppy.sh/beatmapsets/1826541#osu/3748451)
+  2. [Shrine of Malice - The Awakening (ArXe) \[Born into this world, I am the Son of Perdition\]](https://osu.ppy.sh/beatmapsets/2248507#osu/4780981)
+  3. [Tsukuyomi - Absolute Zero (Delis) \[absolutinum russian kobold extra\]](https://osu.ppy.sh/beatmapsets/2033426#osu/4239024)
+  4. [ARForest - Birds of Plague (Saturnalize) \[Eulogy, the Interlude\]](https://osu.ppy.sh/beatmapsets/2242282#osu/4765985)
+  5. [ITHAQUA - aoi kokoro (Mejiro McQueen) \[BOCCHI THE ROLLING GIRLS\]](https://osu.ppy.sh/beatmapsets/2235137#osu/4747935)
+- Hidden  
+  1. [Ocelot - KAEDE (Hollow Wings) \[EX EX\]](https://osu.ppy.sh/beatmapsets/660630#osu/1398809)
+  2. [Rigel Theatre - Tir na nOg (FAW) \[Antediluvian Paradise\]](https://osu.ppy.sh/beatmapsets/2271884#osu/4839405)
+  3. [mezClA (Evatan & Mecotan) - Azul Remix (Celine) \[Overjoy\]](https://osu.ppy.sh/beatmapsets/2259103#osu/4807551)
+- Hard Rock
+  1. [Asriel - Nights of Blood (jiwoas) \[Anguish\]](https://osu.ppy.sh/beatmapsets/2271949#osu/4839635)
+  2. [HYTD - Yuanshao - Drone (Monsters With Tiny Mustaches Remix) (Hollow Wings) \[Extra\]](https://osu.ppy.sh/beatmapsets/162612#osu/396537)
+  3. [Sobrem x Silentroom - Random (seros) \[revoh's Expert\]](https://osu.ppy.sh/beatmapsets/1674155#osu/3992308)  
+- Double Time
+  1. [Ryokuoushoku Shakai - want (Amateurre) \[akitoshi's expert\]](https://osu.ppy.sh/beatmapsets/1870935#osu/3855031)
+  2. [NU-KO - Pochiko no Shiawase na Nichijou (Enon) \[A\_cu's Expert\]](https://osu.ppy.sh/beatmapsets/240733#osu/562192)
+  3. [Lia - Tori no Uta (OK_oreGENKI) \[Collab\]](https://osu.ppy.sh/beatmapsets/421467#osu/911540)
+  4. [my sound life - LINE (posydomojka) \[\_\]](https://osu.ppy.sh/beatmapsets/1769017#osu/3621279)
+- Free Mod
+  1. [Project Pop - Metal vs Dugem (Shurelia) \[Joget Maut Scub dan Shurelia\]](https://osu.ppy.sh/beatmapsets/2183079#osu/4613136)
+  2. [Gema Gathika - Chronograph (Saturnalize) \[i misgendered the person in the mv i am so sorry\]](https://osu.ppy.sh/beatmapsets/2270729#osu/4836584)
+  3. [X2N\_ - Smile of the End (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/775541#osu/1629708)
+  4. [Laur - Swift Swing (Alvearia) \[Ex\]](https://osu.ppy.sh/beatmapsets/1864791#osu/3835310)
+- Tiebreaker
+  1. **[Silentroom - Bhutesha (Celine) \[Shiva\]](https://osu.ppy.sh/beatmapsets/1730292#osu/3536190)** 
+
+### Finals (week 1)
+
+- No Mod
+  1. [Team.Nekokan - Airman ga Taosenai (10-shuunen version) (Toumei Dragon) \[Holy Shit! Blue Dragon's Back!!\]](https://osu.ppy.sh/beatmapsets/1585350#osu/3238171)
+  2. [Rhapsody of Fire - Dawn of Victory (Ciyus Miapah) \[Gloria\]](https://osu.ppy.sh/beatmapsets/2224461#osu/4717705)
+  3. [Tsukimura Temari (CV: Ojika Nao) - Kanaetai, Koto Bakari (Felter) \[aku gakumas\]](https://osu.ppy.sh/beatmapsets/2267901#osu/4829636)
+  4. [USAO - Knight Rider (AncuL) \[Entry: 2449200\]](https://osu.ppy.sh/beatmapsets/2267869#osu/4829575)
+  5. [Spire - Somnambulism (rollpan) \[(:3[\_\_\_\_]=\]](https://osu.ppy.sh/beatmapsets/2207139#osu/4673567)
+- Hidden
+  1. [Dreamcatcher - Deja Vu (- SUBAK -) \[[RyuTell]'s Extreme\]](https://osu.ppy.sh/beatmapsets/1116910#osu/2348906)
+  2. [IOSYS - Border of Extacy (Shinxyn) \[Doomsday\]](https://leopard.hosting.pecon.us/dl/nxtgh)[^mappool-note-1]
+  3. [Sheena Ringo - Kouzen no Himitsu (Local Hero) \[another\]](https://osu.ppy.sh/beatmapsets/2000086#osu/4158057)
+- Hard Rock
+  1. [ReoNa - ANIMA (SkyFlame) \[EVERLASTING\]](https://osu.ppy.sh/beatmapsets/1219288#osu/2536719)
+  2. [bj.HaLo - Ende (Kiiwa) \[Kiiwa\]](https://osu.ppy.sh/beatmapsets/117240#osu/302168)
+  3. [II-L feat. amelie xoxo - THE EARTH (Ryuusei Aika) \[Zeta: Non-trivial\]](https://osu.ppy.sh/beatmapsets/1889101#osu/3900737)
+- Double Time
+  1. [Hoshimi Production - Pray for you (Satono Crown) \[Miracle\]](https://osu.ppy.sh/beatmapsets/2197632#osu/4650534)
+  2. [Akatsuki Records - S.A.R.I.E.L. (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/2091456#osu/4386843)
+  3. [Creepy Nuts - Otonoke (AirinCat) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/2260908#osu/4813545)
+  4. [Dragonforce - Fury Of The Storm (lesjuh) \[Kingcobra's Expert\]](https://osu.ppy.sh/beatmapsets/10460#osu/41646)
+- Free Mod
+  1. [-45 - Reishiki (-45) \[YaMaDarknesss' ultra\]](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677)
+  2. [Denkishiki Karen Ongaku Shuudan - Distorted Pain (Garden) \[Trauma\]](https://osu.ppy.sh/beatmapsets/2076201#osu/4346797)
+  3. [HyuN feat. LyuU - Cross Over (Sonnyc) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1270122#osu/2639521)
+  4. [Will Stetson - Nh-Uh-Uh. (Ryuusei Aika) \[Shiny Braixen's Expert\]](https://osu.ppy.sh/beatmapsets/1506277#osu/3861337)
+- Tiebreaker
+  1. **[gmtn. (witch's slave) - furioso melodia (Alumetorz) \[Wrath\]](https://osu.ppy.sh/beatmapsets/280107#osu/633993)**
 
 ### Semifinals
 
@@ -190,6 +254,57 @@ The complete list of player registrations can be found [here](https://docs.googl
   3. [Okui Masami - Good-bye crisis (dasdwqdf) \[Insane\]](https://osu.ppy.sh/beatmapsets/1876230#osu/3861094)
 
 ## Match results
+
+### Finals (week 2)
+
+Friday, 1 November 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/116045989) |
+
+Sunday, 3 November 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/116068333) |
+| Grand Final (bracket reset) | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/116068688) |
+
+### Finals (week 1)
+
+Saturday, 26 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [BlankTap](https://osu.ppy.sh/users/10137131) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/115979028) |
+| Lower | **[Fuma](https://osu.ppy.sh/users/1501956)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | [#1](https://osu.ppy.sh/community/matches/115981620) |
+
+Sunday, 27 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/115993239) |
+| Upper | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/115994511) |
+
+### Semifinals
+
+Saturday, 19 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/115898695) |
+| Lower | [Anhydrous](https://osu.ppy.sh/users/11272510) ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **[Stixe](https://osu.ppy.sh/users/18351160)** | [#1](https://osu.ppy.sh/community/matches/115899533) |
+| Lower | **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | *win by default* |
+| Lower | [Skydiver](https://osu.ppy.sh/users/4750008) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | *win by default* |
+
+Sunday, 20 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/115910412) |
+| Upper | [BlankTap](https://osu.ppy.sh/users/10137131) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/115914156) |
+| Lower | [Stixe](https://osu.ppy.sh/users/18351160) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/115915877) |
+| Lower | [MejiroMcQueen](https://osu.ppy.sh/users/11320627) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | [#1](https://osu.ppy.sh/community/matches/115916281) |
 
 ### Quarterfinals
 
@@ -312,3 +427,8 @@ Sunday, 6 October 2024:
 6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+
+## Notes
+
+[^stixe-note-1]: ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) was brought in as a playtester after their elimination from the tournament.
+[^mappool-note-1]: An instrumental track version of the map was used for this tournament.

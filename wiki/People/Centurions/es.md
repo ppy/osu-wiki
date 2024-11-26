@@ -32,7 +32,7 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [16/9/2018](https://osu.ppy.sh/beatmapsets/826551) | [30/12/2022](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [21/5/2016](https://osu.ppy.sh/beatmapsets/169622) | [4/10/2024](https://osu.ppy.sh/beatmapsets/2250094) | [#1](https://osu.ppy.sh/beatmaps/packs/TM24) |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [13/12/2015](https://osu.ppy.sh/beatmapsets/373858) | [29/8/2018](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5), [#2](https://osu.ppy.sh/beatmaps/packs/TM6), [#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
-| ::{ flag=PL }:: [Suimya](https://osu.ppy.sh/users/700887) | [28/03/2011](https://osu.ppy.sh/beatmapsets/26544) | [1/08/2024](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |
+| ::{ flag=PL }:: [Sekai](https://osu.ppy.sh/users/700887) | [28/03/2011](https://osu.ppy.sh/beatmapsets/26544) | [1/08/2024](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [12/7/2019](https://osu.ppy.sh/beatmapsets/965596) | [7/10/2023](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [9/3/2009](https://osu.ppy.sh/beatmapsets/5417) | [8/3/2012](https://osu.ppy.sh/beatmapsets/44666) | [#1](https://osu.ppy.sh/beatmaps/packs/TM21) |
 
