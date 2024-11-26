@@ -61,7 +61,7 @@ La clasificación es el proceso de obtener una tabla de clasificación para un b
 
 [Envío](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Procedimiento de clasificación](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Criterios de clasificación](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Criterios de clasificación](/wiki/Ranking_criteria): [Metadatos](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
