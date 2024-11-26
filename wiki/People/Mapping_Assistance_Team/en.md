@@ -20,13 +20,13 @@ On the 13th of April, 2010, the proto-bubble was officially discontinued for use
 
 On the 4th of October, 2010, members of the MAT gained the ability to place [full bubble](/wiki/Modding/Bubble) and [bubble pop](/wiki/Modding/Bubble#bubble-pop) icons on beatmaps,[^5] bringing their roles and responsibilities more into line with their BAT colleagues. However, they still did not possess forum or in-game chat moderation tools, and focused solely on evaluating and promoting beatmaps.
 
-Following a gradual convergence of experience and responsibility between the two teams, on the 23rd of April, 2013, the MAT was dissolved,[^4] with all current members being promoted to the BAT and receiving the associated moderation tools and responsibilities.
+Following a gradual convergence of experience and responsibility between the two teams, on the 23rd of April, 2013, the MAT was dissolved,[^6] with all current members being promoted to the BAT and receiving the associated moderation tools and responsibilities.
 
 ## References
 
 [^1]:  [Forum post announcing the creation of the MAT.](https://osu.ppy.sh/community/forums/topics/21856?n=1)
 [^2]:  [Forum post announcing the addition of the new members.](https://osu.ppy.sh/community/forums/topics/25314?n=1)
-[^4]:  [Forum post announcing the end of the MAT.](https://osu.ppy.sh/community/forums/topics/129165?n=1)
 [^3]:  [(Restricted) Forum post announcing the discontinuation of proto-bubbles for MATs.](https://osu.ppy.sh/community/forums/topics/28143?n=57)
 [^4]:  [(Restricted) Forum post discussing the state of the MAT.](https://osu.ppy.sh/community/forums/topics/36277?n=1)
 [^5]:  [Forum post announcing that MATs are able to bubble maps.](https://osu.ppy.sh/community/forums/topics/38405?n=1)
+[^6]:  [Forum post announcing the end of the MAT.](https://osu.ppy.sh/community/forums/topics/129165?n=1)
