@@ -26,7 +26,7 @@ Following a gradual convergence of experience and responsibility between the two
 
 [^1]:  [Forum post announcing the creation of the MAT.](https://osu.ppy.sh/community/forums/topics/21856?n=1)
 [^2]:  [Forum post announcing the addition of the new members.](https://osu.ppy.sh/community/forums/topics/25314?n=1)
-[^3]:  [(Restricted) Forum post announcing the discontinuation of proto-bubbles for MATs.](https://osu.ppy.sh/community/forums/topics/28143?n=57)
-[^4]:  [(Restricted) Forum post discussing the state of the MAT.](https://osu.ppy.sh/community/forums/topics/36277?n=1)
+[^3]:  [Forum post announcing the discontinuation of proto-bubbles for MATs.](https://osu.ppy.sh/community/forums/topics/28143?n=57)
+[^4]:  [Forum post discussing the state of the MAT.](https://osu.ppy.sh/community/forums/topics/36277?n=1)
 [^5]:  [Forum post announcing that MATs are able to bubble maps.](https://osu.ppy.sh/community/forums/topics/38405?n=1)
 [^6]:  [Forum post announcing the end of the MAT.](https://osu.ppy.sh/community/forums/topics/129165?n=1)
