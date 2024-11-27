@@ -38,11 +38,19 @@ Alors que le mois de mai touchait à sa fin, des [nouvelles medailles](https://w
 
 ## Juin
 
+Dans la deuxième version du mois, deux semaines plus tard, le [mode de jeu](/wiki/Game_mode) osu! d'osu!(lazer) a vu arriver le mod Synesthesia, qui colore les [objets](/wiki/Gameplay/Hit_object) en fonction de leur rythme.[^synesthesia-mod] De plus, une barre de recherche a été ajoutée à l'écran de sélection des mods afin de simplifier la recherche de certains mods.[^mod-search] Le champ de saisie pouvait être activé en appuyant sur `Tab` afin de ne pas interférer avec les raccourcis claviers normaux.
 
+::: Infobox
+![](img/osu!monthly-9.jpg "Couverture de la neuvième édition d'osu!monthly")
+:::
+
+La troisième saison d'[osu!monthly](/wiki/Community/osu!monthly) s'est achevée avec la [neuvième edition](https://osu.ppy.sh/home/news/2023-06-26-osumonthly-9), retraçant les événements les plus importants de la communauté à partir de mars 2023. Principalement en raison de la dissolution de l'équipe de mapping au sein du projet [^mapping-team-disbanding] et de l'effort considérable nécessaire à la rédaction des éditions osu!monthly, l'équipe osu!monthly a décidé de mettre le projet en suspens pour le moment. La réorganisation du travail et la publication d'éditions saisonnières ou annuelles ont été envisagées lors de diverses discussions. [^monthly-discord][^writing-proposal] [0x84f](https://osu.ppy.sh/users/7944724), un des chefs de projet de la troisième saison, a aussi publié des sondages afin de savoir ce qui intéresait la communauté et ce qu'elle souhaitait voir dans la rubrique des actualités du site osu! en général.[^news-content-1][^news-content-2]
+
+En souvenir des deux premières saisons qui étaient publiées au format PDF, la neuvième édition du osu!monthly a été réalisée comme [un magazine](https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf) à la place des posts habituels. Il contenait des informations sur le mapping, skinning et les actualités de la communauté, ainsi que des interviews comme avec [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) et [pishifat](https://osu.ppy.sh/users/3178418).
 
 ## Juillet
 
-
+Une [mise à jour du site](https://osu.ppy.sh/home/changelog/web/2023.725.0) a permis aux utilisateurs de mettre à jour le pays affiché sur leur profil, a condition qu'il ne coincide pas avec le pays duquel ils se sont connectés régulièrement au cours des six derniers mois, et que le joueur ne soit pas inscrit à un tournoi en cours. Auparavent, il était possible de modifier le pays affiché en contactant l'[équipe d'assistance aux comptes](/wiki/People/Account_support_team) et en fournissant une preuve de résidence, mais cette option a été abandonnée après décembre 2021 en raison de la transmission de données sensibles et de cas fréquents d'abus.[^flag-pr][^flag-issue][^flag-news]
 
 ## Août
 
