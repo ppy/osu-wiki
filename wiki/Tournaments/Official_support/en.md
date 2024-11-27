@@ -124,7 +124,7 @@ Registrant filtering, not to be confused with [screening](#tournament-screening)
 
 In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
 
-- If a dataset is used, it must be up to date, publicly available and downloadable. Documentation must be provided explaining how to recreate the dataset and reproduce the results using it — including code where applicable.
+- If a dataset is used, it must be publicly available, downloadable, and no more than 30 days out of date. Documentation must be provided explaining how to recreate the dataset and reproduce the results using it — including code where applicable.
 - When doing qualifiers, the formula or method used to determine seeding must be included in the tournament's ruleset.
 
 A third party should be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
