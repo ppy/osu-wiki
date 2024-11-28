@@ -31,7 +31,7 @@ Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan den
 
 ### Saya sudah menunggu hingga lebih dari 2 minggu, namun saya masih belum menerima tanggapan atas tiket layanan dukungan saya! {id=support-no-reply}
 
-**Pada umumnya, hal ini disebabkan oleh banyaknya tiket layanan dukungan (_support ticket_) yang diterima oleh sistem kami dalam satu waktu.**
+**Pada umumnya, hal ini disebabkan oleh banyaknya tiket layanan dukungan (*support ticket*) yang diterima oleh sistem kami dalam satu waktu.**
 
 Kamu dapat mengirimkan pesan balasan yang menanyakan seputar status duduk perkaramu pada tiket kamu yang sedang aktif, namun pastikan kamu tidak bertanya hingga lebih dari satu atau dua kali per minggunya. Kamu juga dapat menghubungi kami di Twitter pada akun [@osusupport](https://twitter.com/osusupport) untuk menanyakan seputar tiketmu.
 
@@ -45,15 +45,15 @@ Apabila pengguna lain melecehkan kamu melalui pesan pribadi yang mereka kirim ba
 
 #### Memblokir pengguna agar mereka tidak dapat menghubungi kamu di dalam permainan {id=ignore-user-in-game}
 
-**Untuk memblokir pengguna tertentu agar mereka tidak dapat mengirim pesan kepadamu di dalam permainan, cukup tambahkan nama pengguna mereka ke daftar abai (_ignore list_) kamu.**
+**Untuk memblokir pengguna tertentu agar mereka tidak dapat mengirim pesan kepadamu di dalam permainan, cukup tambahkan nama pengguna mereka ke daftar abai (*ignore list*) kamu.**
 
 1. Klik tombol `Options` yang terdapat di menu utama atau tekan `CTRL` + `O`.
 2. Ketik `ignore` atau `abai` untuk menyaring pengaturan ke bagian `Daftar abai`.
 3. Tambahkan nama pengguna yang bermasalah tersebut ke daftar ini. Gunakan spasi untuk memisahkan nama masing-masing pengguna, dan ubah setiap karakter spasi yang terdapat pada nama mereka dengan tanda garis bawah (sebagai contoh, *The Gatekeeper* akan menjadi *The\_Gatekeeper*).
 
-Ke depannya, kamu tidak akan lagi melihat pesan _chat_ publik atau menerima pesan pribadi dari para pengguna ini.
+Ke depannya, kamu tidak akan lagi melihat pesan *chat* publik atau menerima pesan pribadi dari para pengguna ini.
 
-Apabila kamu hanya ingin mengabaikan *highlight*, pesan pribadi, atau pesan *chat* publik dari pengguna tertentu, kamu dapat menambahkan `@h`, `@p`, dan `@c` setelah nama pengguna mereka. Sebagai contoh, `The_Gatekeeper@c` akan membuatmu mengabaikan seluruh pesan yang dikirim oleh pengguna ini pada kanal _chat_ publik. Ketiga parameter ini juga dapat saling digabungkan satu sama lain: `The_Gatekeeper@ph` akan membuatmu mengabaikan *highlight* dan pesan pribadi mereka tanpa menutup pesan publik mereka.
+Apabila kamu hanya ingin mengabaikan *highlight*, pesan pribadi, atau pesan *chat* publik dari pengguna tertentu, kamu dapat menambahkan `@h`, `@p`, dan `@c` setelah nama pengguna mereka. Sebagai contoh, `The_Gatekeeper@c` akan membuatmu mengabaikan seluruh pesan yang dikirim oleh pengguna ini pada kanal *chat* publik. Ketiga parameter ini juga dapat saling digabungkan satu sama lain: `The_Gatekeeper@ph` akan membuatmu mengabaikan *highlight* dan pesan pribadi mereka tanpa menutup pesan publik mereka.
 
 #### Memblokir pengguna yang tidak ditambahkan sebagai teman untuk dapat mengirimimu pesan pribadi di dalam permainan {id=ignore-strangers-in-game}
 
