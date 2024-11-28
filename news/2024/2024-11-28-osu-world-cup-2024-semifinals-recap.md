@@ -114,7 +114,7 @@ It was a disappointing ending to a tremendous match that saw two top teams at th
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/udSXyASuYI4?start=393&end=585" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The teams involved in the best match of finals week each had a big question to answer. For the United Kingdom, it was whether the time had come for a return to form after recent lacklustre performance compared to their 2017–2019 peak. By contrast, Canada had back-to-back top 6 finishes in 2022 and 2023, and they came into 2024 trying to find out if they could continue their run despite major roster changes.
+The teams involved in the best match of finals week each had a big question to answer. For the United Kingdom, it was whether the time had come for a return to form after recent decline in final results compared to their 2017–2019 peak. By contrast, Canada had back-to-back top 6 finishes in 2022 and 2023, and they came into 2024 trying to find out if they could continue their run despite major roster changes.
 
 This match would be a gruelling affair between two remarkably evenly matched teams. With strong tapping mechanics players on their side such as ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [Akolibed](https://osu.ppy.sh/users/9269034), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), and ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896), the United Kingdom picked heavily into the double time pool in the early stages, winning [Arrival of Tears](https://osu.ppy.sh/beatmapsets/2108157#osu/4425512) and [White Happy](https://osu.ppy.sh/beatmapsets/1438024#osu/3092197) with their first two picks.
 
