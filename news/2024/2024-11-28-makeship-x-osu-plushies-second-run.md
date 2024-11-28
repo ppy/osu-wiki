@@ -20,7 +20,7 @@ Look at how adorable pippi looks while accompanying The Dean "[peppy](https://os
 
 [![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/deimos.jpg)](https://www.makeship.com/search?q=ppy)
 
-While staying on the desk trend, [Deimos](https://osu.ppy.sh/users/1515403) brought us one singular pippi – equipped with an appropriately-sized cookie – getting ready to code for us the next super duper secret osu!(lazer) 2.0.
+While staying on the desk trend, [Deimos](https://osu.ppy.sh/users/1515403) brought us one singular pippi — equipped with an appropriately sized cookie — getting ready to code for us the next super duper secret osu!(lazer) 2.0.
 
 P.S. Do NOT tell peppy we leaked this.
 
@@ -30,7 +30,7 @@ pippi! And puppies! You almost can't tell the difference from how cute they look
 
 [![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/waltertoro.jpg)](https://www.makeship.com/search?q=ppy)
 
-We're certain we're not the only ones mesmerized by the neon lights that pippi is basking in. [WalterToro](https://osu.ppy.sh/users/5281416) and his pippi plush are certainly a duo that's ready to take on the world, or at least the next osu!mania tournament.
+We're certain we're not the only ones mesmerised by the neon lights that pippi is basking in. [WalterToro](https://osu.ppy.sh/users/5281416) and his pippi plush are certainly a duo that's ready to take on the world, or at least the next osu!mania tournament.
 
 [![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/chompy.jpg)](https://www.makeship.com/search?q=ppy)
 
@@ -50,7 +50,7 @@ It's real simple, and Makeship also [describes the process on their site](https:
 - There's also a 10% discount if you order both at the same time!
 - Guaranteed campaigns keep taking new orders until they close, so everyone who orders one will get one.
 
-Basically, buy the plushies and if enough people want one, they get made. Easy as that!
+Basically, buy the plushies and, if enough people want one, they get made. Easy as that!
 
 ---
 
