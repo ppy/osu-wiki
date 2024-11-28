@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Makeship x osu!: Limited Edition Plushies 2.0"
+title: "Another Batch of osu! Plushies"
 date: 2024-11-28 22:30:00 +0000
 ---
 
@@ -10,7 +10,7 @@ Your favourite osu! plushies just came back for one last dance! Come get yours t
 
 You asked, we delivered. Thanks to [Makeship](https://www.makeship.com/), we're bringing back the fan-beloved osu! cookie and pippi plushies one more time!
 
-Unfortunately, Taikonator couldn't join us this time around. Rumors say he's been stuck retry-spamming osu!taiko beatmaps to get as much score as humanly possible, and it turns out he forgot to disable [NoFail](/wiki/Gameplay/Game_modifier/No_Fail) all this time. May he rest in peace.
+Unfortunately, Taikonator couldn't join us this time around. Rumors say he's been stuck retry-spamming osu!taiko beatmaps to get as much score as humanly possible, and it turns out he forgot to disable [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) all this time. May he rest in peace.
 
 Unsure if you should get one? Check out the plushies in all their glory, featuring some eye candy from our community members [posting their own plushies](https://osu.ppy.sh/community/forums/topics/1731984?n=1) from the first run:
 
