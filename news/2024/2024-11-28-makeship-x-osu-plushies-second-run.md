@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another Batch of osu! Plushies"
+title: Another Batch of osu! Plushies
 date: 2024-11-28 22:30:00 +0000
 ---
 
