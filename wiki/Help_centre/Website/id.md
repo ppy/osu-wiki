@@ -81,9 +81,9 @@ Pastikan untuk menyertakan rekaman percakapan (*chat log*) atau bukti lainnya pa
 
 ### Apa itu halaman "saya!" yang saya lihat pada profil pengguna lain? {id=userpage}
 
-**Halaman "saya!",  atau yang juga dikenal sebagai halaman pengguna (*userpage*), merupakan elemen profil khusus yang tersedia untuk diakses oleh seluruh pemilk [tag supporter](https://osu.ppy.sh/home/support). Halaman ini dapat kamu isi sesuka hatimu — baik itu dengan gambaran pencapaianmu, beatmap yang kamu buat, atau apa pun itu yang kamu inginkan!**
+**Halaman "saya!",  atau yang juga dikenal sebagai halaman pengguna (*userpage*), merupakan elemen profil yang secara khusus tersedia bagi para pemilik [tag supporter](https://osu.ppy.sh/home/support). Halaman ini dapat kamu isi sesuka hatimu — baik itu dengan gambaran pencapaianmu, beatmap yang kamu buat, atau apa pun itu yang kamu inginkan!**
 
-Para pemilik [tag supporter](https://osu.ppy.sh/home/support) memiliki hak khusus untuk menyunting halaman khusus pada profil mereka untuk ditunjukkan kepada dunia. Halaman "saya!" ini dapat diisi dengan hal apa pun yang kamu mau, selama hal ini tunduk terhadap [peraturan komunitas](/wiki/Rules)!
+Para pemilik [tag supporter](https://osu.ppy.sh/home/support) memiliki hak khusus untuk menyunting halaman khusus pada profil mereka untuk ditunjukkan kepada dunia. Halaman "saya!" ini dapat diisi dengan hal apa pun yang kamu mau, selama segala sesuatunya tidak melanggar [peraturan komunitas](/wiki/Rules) yang berlaku!
 
 Bahkan apabila masa berlaku [tag supporter](https://osu.ppy.sh/home/support) kamu telah habis, halaman "saya!" milikmu akan **tetap terlihat** dan kamu akan tetap dapat menyunting isi halaman ini.
 
