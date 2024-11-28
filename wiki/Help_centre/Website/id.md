@@ -93,7 +93,7 @@ Bahkan apabila masa berlaku [tag supporter](https://osu.ppy.sh/home/support) kam
 
 Dalam kasus yang demikian, kamu dapat membuka tiket baru ke tim layanan dukungan kami dengan mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan membicarakan duduk perkaramu.
 
-Apabila pada titik tertentu kamu ragu apakah suatu hal dapat ditampilkan pada halaman "saya!" ini, kamu dapat menghubungi anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mana pun dan mereka akan memberitahukan kamu apakah hal tersebut layak tampil atau tidak.
+Apabila pada titik tertentu kamu ragu apakah suatu hal dapat ditampilkan pada halaman "saya!" ini, kamu dapat menghubungi anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mana pun dan mereka akan memberitahukan kamu apakah hal tersebut layak pajang atau tidak.
 
 ### Apakah saya harus menggunakan alamat email milik saya untuk mendaftar? {id=email-purpose}
 
@@ -105,6 +105,6 @@ Apabila kamu sampai kehilangan kata sandimu atau tidak lagi dapat mengakses akun
 
 ### Mengapa statistik yang tertera pada halaman pengguna saya tidak tepat? {id=wrong-statistics}
 
-**Kamu mungkin sedang melihat statistik kamu pada mode permainan yang berbeda!**
+**Kamu mungkin sedang melihat statistik permainanmu untuk mode permainan yang berbeda!**
 
 Apabila kamu sudah lama tidak bermain dan statistik permainanmu tidak terlihat sama sekali, cukup mainkan beberapa map untuk menampilkan statistik ini kembali. Situs web osu! menyembunyikan skor dari para pengguna yang tidak aktif untuk menjaga agar papan peringkat yang ada tetap terbarukan seiring waktunya.
