@@ -34,7 +34,7 @@ We're certain we're not the only ones mesmerised by the neon lights that pippi i
 
 [![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/chompy.jpg)](https://www.makeship.com/search?q=ppy)
 
-[Chompy](https://osu.ppy.sh/users/7427035) took us all to a cute Jurassic era with his dino plushs! The cookie surely looks quite cozy in there, doesn't it?
+[Chompy](https://osu.ppy.sh/users/7427035) took us all to a cute Jurassic era with his plush dinos! The cookie surely looks quite cozy in there, doesn't it?
 
 <div align="center">
     <video width="100%" controls>
