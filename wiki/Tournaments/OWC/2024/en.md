@@ -675,6 +675,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
+[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^showmatch]: Finals showmatch — All-stars from eliminated teams
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
