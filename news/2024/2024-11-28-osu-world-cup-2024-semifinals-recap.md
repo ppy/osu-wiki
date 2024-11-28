@@ -82,7 +82,6 @@ This would mean that the ::{ flag=GB }:: UK and ::{ flag=CA }:: Canada would fac
 Meanwhile, in the winners' bracket:
 
 - ::{ flag=DE }:: Germany matched up against ::{ flag=KR }:: South Korea in an underdog match. And certainly, ::{ flag=DE }:: Germany were the underdogs; ::{ flag=KR }:: South Korea continued their 16–0 win streak and dropped no points against ::{ flag=DE }:: Germany, making them 22–0 in maps and 4–0 in matches through OWC 2024.
-
 - ::{ flag=AU }:: Australia and the ::{ flag=US }:: United States faced off in the last match of the weekend, with the ::{ flag=US }::  USA taking the match 6–4 and securing a spot in the winners' finals for the first time since 2021. Read on for more details about both ::{ flag=AU }:: Australia vs. the ::{ flag=US }:: United States and ::{ flag=CA }:: Canada vs. the ::{ flag=GB }:: United Kingdom.
 
 ### ::{ flag=AU }:: Australia vs. ::{ flag=US }:: United States
