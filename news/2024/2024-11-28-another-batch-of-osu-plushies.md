@@ -6,7 +6,7 @@ date: 2024-11-28 22:30:00 +0000
 
 Your favourite osu! plushies just came back for one last dance! Come get yours through the crowdfunding campaigns before they're gone for good!
 
-![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/banner.jpg)
+![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/banner.jpg)
 
 You asked, we delivered. Thanks to [Makeship](https://www.makeship.com/), we're bringing back the fan-beloved osu! cookie and pippi plushies one more time!
 
@@ -14,25 +14,25 @@ Unfortunately, Taikonator couldn't join us this time around. Rumours say he's be
 
 Unsure if you should get one? Check out the plushies in all their glory, featuring some eye candy from our community members [posting their own plushies](https://osu.ppy.sh/community/forums/topics/1731984?n=1) from the first run:
 
-[![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/the-og.jpg)](https://www.makeship.com/search?q=ppy)
+[![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/the-og.jpg)](https://www.makeship.com/search?q=ppy)
 
 Look at how adorable pippi looks while accompanying The Dean "[peppy](https://osu.ppy.sh/users/2)" Herbert on a desk that has witnessed more osu!(lazer) code than one could fathom, next to a very pink cookie! You can't resist having these on your desk too, can you?
 
-[![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/deimos.jpg)](https://www.makeship.com/search?q=ppy)
+[![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/deimos.jpg)](https://www.makeship.com/search?q=ppy)
 
 While staying on the desk trend, [Deimos](https://osu.ppy.sh/users/1515403) brought us one singular pippi — equipped with an appropriately sized cookie — getting ready to code for us the next super duper secret osu!(lazer) 2.0.
 
 P.S. Do NOT tell peppy we leaked this.
 
-[![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/jun-maeda.jpg)](https://www.makeship.com/search?q=ppy)
+[![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/jun-maeda.jpg)](https://www.makeship.com/search?q=ppy)
 
 pippi! And puppies! You almost can't tell the difference from how cute they look. [Jun Maeda](https://osu.ppy.sh/users/8777786) and his doggos will very much make for a wonderful home for our dear pippi.
 
-[![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/waltertoro.jpg)](https://www.makeship.com/search?q=ppy)
+[![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/waltertoro.jpg)](https://www.makeship.com/search?q=ppy)
 
 We're certain we're not the only ones mesmerised by the neon lights that pippi is basking in. [WalterToro](https://osu.ppy.sh/users/5281416) and his pippi plush are certainly a duo that's ready to take on the world, or at least the next osu!mania tournament.
 
-[![](/wiki/shared/news/2024-11-28-makeship-x-osu-plushies-second-run/chompy.jpg)](https://www.makeship.com/search?q=ppy)
+[![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/chompy.jpg)](https://www.makeship.com/search?q=ppy)
 
 [Chompy](https://osu.ppy.sh/users/7427035) took us all to a cute Jurassic era with his dino plushs! The cookie surely looks quite cozy in there, doesn't it?
 
