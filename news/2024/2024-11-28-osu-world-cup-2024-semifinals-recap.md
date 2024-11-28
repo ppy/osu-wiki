@@ -77,12 +77,12 @@ On the other side of the losers' bracket, ::{ flag=CA }:: Canada and ::{ flag=CN
 
 Across from this match was the ::{ flag=PH }:: Philippines vs ::{ flag=GB }:: United Kingdom, where the ::{ flag=PH }:: Philippines gave the UK some trouble, with the ::{ flag=GB }:: UK winning 6–4. The ::{ flag=PH }:: Philippines have now made the top 12 for the second time in OWC, solidifying them as one of the tournament's high performers.
 
-This would mean that the ::{ flag=GB }:: UK and ::{ flag=CA }:: Canada would face off in the second round of the losers' bracket; read on further for more details about this one, where the ::{ flag=GB }:: UK broke ::{ flag=CA }:: Canada's top 6 streak of 6 years and made the top 6 again themselves for the first time since 2021.
-
 Meanwhile, in the winners' bracket:
 
 - ::{ flag=DE }:: Germany matched up against ::{ flag=KR }:: South Korea in an underdog match. And certainly, ::{ flag=DE }:: Germany were the underdogs; ::{ flag=KR }:: South Korea continued their 16–0 win streak and dropped no points against ::{ flag=DE }:: Germany, making them 22–0 in maps and 4–0 in matches through OWC 2024.
-- ::{ flag=AU }:: Australia and the ::{ flag=US }:: United States faced off in the last match of the weekend, with the ::{ flag=US }::  USA taking the match 6–4 and securing a spot in the winners' finals for the first time since 2021. Read on for more details about both ::{ flag=AU }:: Australia vs. the ::{ flag=US }:: United States and ::{ flag=CA }:: Canada vs. the ::{ flag=GB }:: United Kingdom.
+- ::{ flag=AU }:: Australia and the ::{ flag=US }:: United States faced off in the last match of the weekend, with the ::{ flag=US }:: USA taking the match 6–4 and securing a spot in the winners' finals for the first time since 2021.
+
+Read on for more details about both ::{ flag=AU }:: Australia vs. the ::{ flag=US }:: United States and ::{ flag=CA }:: Canada vs. the ::{ flag=GB }:: United Kingdom.
 
 ### ::{ flag=AU }:: Australia vs. ::{ flag=US }:: United States
 
