@@ -33,9 +33,9 @@ Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan den
 
 **Pada umumnya, hal ini disebabkan oleh banyaknya tiket layanan dukungan (*support ticket*) yang diterima oleh sistem kami dalam satu waktu.**
 
-Kamu dapat mengirimkan pesan balasan yang menanyakan seputar status duduk perkaramu pada tiket kamu yang sedang aktif, namun pastikan kamu tidak bertanya hingga lebih dari satu atau dua kali per minggunya. Kamu juga dapat menghubungi kami di Twitter pada akun [@osusupport](https://twitter.com/osusupport) untuk menanyakan seputar tiketmu.
+Kamu dapat mengirimkan pesan balasan yang menanyakan seputar status permasalahanmu pada tiket kamu yang sedang aktif, namun pastikan kamu tidak bertanya hingga lebih dari satu atau dua kali per minggunya. Kamu juga dapat menghubungi kami di Twitter pada akun [@osusupport](https://twitter.com/osusupport) untuk bertanya seputar tiketmu.
 
-Dalam situasi langka tertentu, tiket layanan dukungan dari para pengguna yang telah berulang kali melanggar dapat dengan sengaja diabaikan oleh [tim layanan dukungan](/wiki/People/The_Team/Account_support_team) kami (walaupun hal ini akan **selalu** diberitahukan terlebih dahulu kepadamu apabila sampai terjadi). Apabila kamu tidak menerima pemberitahuan semacam ini, kamu tidak perlu khawatir tiketmu akan sampai dibiarkan terbengkalai!
+Dalam situasi langka tertentu, tiket layanan dukungan dari para pengguna yang telah berulang kali melanggar dapat dengan sengaja diabaikan oleh [tim layanan dukungan](/wiki/People/The_Team/Account_support_team) kami (walaupun hal ini akan **selalu** diberitahukan terlebih dahulu apabila sampai terjadi). Apabila kamu tidak menerima pemberitahuan semacam ini, kamu tidak perlu khawatir tiketmu akan sampai dibiarkan terbengkalai!
 
 ### Apakah saya dapat memblokir pengguna lain sepenuhnya agar tidak menghubungi saya? {id=ignore-user}
 
@@ -49,11 +49,11 @@ Apabila pengguna lain melecehkan kamu melalui pesan pribadi yang mereka kirim ba
 
 1. Klik tombol `Options` yang terdapat di menu utama atau tekan `CTRL` + `O`.
 2. Ketik `ignore` atau `abai` untuk menyaring pengaturan ke bagian `Daftar abai`.
-3. Tambahkan nama pengguna yang bermasalah tersebut ke daftar ini. Gunakan spasi untuk memisahkan nama masing-masing pengguna, dan ubah setiap karakter spasi yang terdapat pada nama mereka dengan tanda garis bawah (sebagai contoh, *The Gatekeeper* akan menjadi *The\_Gatekeeper*).
+3. Tambahkan nama pengguna yang bermasalah tersebut ke daftar ini. Gunakan spasi untuk memisahkan nama masing-masing pengguna, dan ubah setiap karakter spasi yang terdapat pada nama mereka dengan tanda garis bawah (sebagai contoh, tulis nama *The Gatekeeper* sebagai *The\_Gatekeeper*).
 
 Ke depannya, kamu tidak akan lagi melihat pesan *chat* publik atau menerima pesan pribadi dari para pengguna ini.
 
-Apabila kamu hanya ingin mengabaikan *highlight*, pesan pribadi, atau pesan *chat* publik dari pengguna tertentu, kamu dapat menambahkan `@h`, `@p`, dan `@c` setelah nama pengguna mereka. Sebagai contoh, `The_Gatekeeper@c` akan membuatmu mengabaikan seluruh pesan yang dikirim oleh pengguna ini pada kanal *chat* publik. Ketiga parameter ini juga dapat saling digabungkan satu sama lain: `The_Gatekeeper@ph` akan membuatmu mengabaikan *highlight* dan pesan pribadi mereka tanpa menutup pesan publik mereka.
+Apabila kamu hanya ingin mengabaikan *highlight*, pesan pribadi, atau pesan *chat* publik dari pengguna tertentu, kamu dapat menambahkan `@h`, `@p`, dan `@c` setelah nama pengguna mereka. Sebagai contoh, `The_Gatekeeper@c` akan membuatmu mengabaikan seluruh pesan yang dikirim oleh pengguna ini pada kanal *chat* publik. Ketiga parameter ini juga dapat saling digabungkan satu sama lain: `The_Gatekeeper@ph` akan membuatmu mengabaikan *highlight* dan pesan pribadi mereka tanpa memblokir pesan publik mereka.
 
 #### Memblokir pengguna yang tidak ditambahkan sebagai teman untuk dapat mengirimimu pesan pribadi di dalam permainan {id=ignore-strangers-in-game}
 
@@ -69,8 +69,7 @@ Ke depannya, kamu tidak akan lagi dapat dikontak oleh para pengguna yang tidak b
 
 #### Memblokir pengguna yang tidak ditambahkan sebagai teman untuk dapat mengirimimu pesan pribadi pada forum {id=ignore-strangers-website}
 
-Tuju halaman [pengaturan akunmu](https://osu.ppy.sh/home/account/edit) dan berikan tanda centang pada pilihan `
-blokir pesan pribadi dari pengguna yang tidak berada dalam daftar temanmu` yang terdapat pada bagian Privasi. Kamu masih akan tetap dapat menerima pesan pribadi dari pengguna yang berada dalam daftar temanmu.
+Tuju halaman [pengaturan akunmu](https://osu.ppy.sh/home/account/edit) dan berikan tanda centang pada pilihan `blokir pesan pribadi dari pengguna yang tidak berada dalam daftar temanmu` yang terdapat pada bagian Privasi. Kamu masih akan tetap dapat menerima pesan pribadi dari pengguna yang berada dalam daftar temanmu.
 
 ### Bagaimana apabila saya masih menemui masalah dengan pengguna tertentu bahkan setelah saya memblokir mereka? {id=ignore-did-not-help}
 
@@ -86,15 +85,15 @@ Pastikan untuk menyertakan rekaman percakapan (*chat log*) atau bukti lainnya pa
 
 Para pemilik [tag supporter](https://osu.ppy.sh/home/support) memiliki hak khusus untuk menyunting halaman khusus pada profil mereka untuk ditunjukkan kepada dunia. Halaman "saya!" ini dapat diisi dengan hal apa pun yang kamu mau, selama hal ini tunduk terhadap [peraturan komunitas](/wiki/Rules)!
 
-Bahkan apabila masa berlaku [tag supporter](https://osu.ppy.sh/home/support) kamu telah habis, halaman "saya!" milikmu akan **tetap terlihat** dan kamu akan tetap dapat menyunting isi dari halaman ini.
+Bahkan apabila masa berlaku [tag supporter](https://osu.ppy.sh/home/support) kamu telah habis, halaman "saya!" milikmu akan **tetap terlihat** dan kamu akan tetap dapat menyunting isi halaman ini.
 
 ### Konten yang terdapat pada halaman "saya!" milik saya menghilang! {id=userpage-removed}
 
 **Hal ini dapat terjadi apabila halaman "saya!" milikmu mengandung konten yang tidak pantas sebagaimana yang diterangkan oleh [peraturan komunitas](/wiki/Rules) kami.**
 
-Dalam kasus yang demikian, kamu dapat membuka tiket dukungan baru ke tim layanan dukungan kami dengan mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan membicarakan duduk perkaramu.
+Dalam kasus yang demikian, kamu dapat membuka tiket baru ke tim layanan dukungan kami dengan mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan membicarakan duduk perkaramu.
 
-Apabila pada titik tertentu kamu ragu apakah suatu hal dapat digunakan untuk halaman "saya!" ini, kamu dapat menghubungi anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mana pun dan mereka akan memberitahukan kamu apakah hal ini layak tampil atau tidak.
+Apabila pada titik tertentu kamu ragu apakah suatu hal dapat ditampilkan pada halaman "saya!" ini, kamu dapat menghubungi anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mana pun dan mereka akan memberitahukan kamu apakah hal tersebut layak tampil atau tidak.
 
 ### Apakah saya harus menggunakan alamat email milik saya untuk mendaftar? {id=email-purpose}
 
