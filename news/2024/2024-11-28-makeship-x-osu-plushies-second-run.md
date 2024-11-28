@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Makeship x osu!: Limited Edition Plushies 2.0"
-date: 2024-11-28 22:30:00 +0000
+date: 2024-11-28 22:15:00 +0000
 ---
 
 Your favourite osu! plushies just came back for one last dance! Come get yours through the crowdfunding campaigns before they're gone for good!
