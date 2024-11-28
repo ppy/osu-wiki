@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Makeship x osu!: Limited Edition Plushies 2.0"
-date: 2024-11-28 22:15:00 +0000
+date: 2024-11-28 22:30:00 +0000
 ---
 
 Your favourite osu! plushies just came back for one last dance! Come get yours through the crowdfunding campaigns before they're gone for good!
@@ -37,7 +37,7 @@ We're certain we're not the only ones mesmerized by the neon lights that pippi i
 [Chompy](https://osu.ppy.sh/users/7427035) took us all to a cute Jurassic era with his dino plushs! The cookie surely looks quite cozy in there, doesn't it?
 
 <div align="center">
-    <video height="50%" controls>
+    <video width="100%" controls>
         <source src="https://assets.ppy.sh/media/news/2024-11-28-plushie-attack.mp4" type="video/mp4" preload="none">
     </video>
 </div>
