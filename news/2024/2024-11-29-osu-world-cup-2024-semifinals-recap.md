@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2024: Semifinals Recap"
-date: 2024-11-28 23:59:00 +0000
+date: 2024-11-29 23:00:00 +0000
 ---
 
 As the brackets shrink, titans are forced to clash and fight for survival. Join us for an exciting recap of last week's world cup stage!
@@ -28,7 +28,7 @@ The Semifinals stage offered top-tier entertainment for the osu! community, with
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2304529321&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/owc-2024-sf-mappool.jpg)
+![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/owc-2024-sf-mappool.jpg)
 
 The Semifinals pool included some very interesting maps this time around. Fan favourite [melon boy](https://osu.ppy.sh/users/3053382) returned with another popular custom with [Warcry](https://osu.ppy.sh/beatmapsets/2281532#osu/4864391), a unique map that's over 3 minutes of non-stop aim, while also being quite taxing on tapping stamina through a sheer lack of breaks.
 
@@ -38,7 +38,9 @@ The Double Time selections were a mix of classic and new, with existing maps suc
 
 We had the debut of 2 [originals](/wiki/osu!_originals) this week as well: the first one being [VALDeS](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403), produced by the wonderful [nagiha](https://osu.ppy.sh/beatmaps/artists/447). A jazzy swing map at CS 6 put in place by [yaspo](https://osu.ppy.sh/users/4945926), the mix of precision and tricky rhythm made for quite a tough bout between players.
 
-[![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/VALDeS_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403)
+The second original to release on the same day would be [Minstrel](https://osu.ppy.sh/beatmaps/artists/349)'s [today is the day](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081), a high-intensity 212 BPM J-rock song supported by a jumpy burst map brought to you by the collab of [bad boy](https://osu.ppy.sh/users/3545323) and [melon boy](https://osu.ppy.sh/users/3053382).
+
+[![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/VALDeS_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -46,7 +48,7 @@ We had the debut of 2 [originals](/wiki/osu!_originals) this week as well: the f
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/today_is_the_day_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081)
+[![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/today_is_the_day_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081)
 
 <div class="osu-md__paragraph">
     <audio controls>
