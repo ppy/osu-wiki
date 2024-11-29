@@ -37,7 +37,7 @@ tags:
 ![](img/changelog-osume-2013.png "osu! 更新器 (updater)（2013年）")
 :::
 
-2007 年 10 月，[推出](https://osu.ppy.sh/community/forums/posts/2499)了 Web 版本的更新日志，在网站和 osu! 更新器中都可以看到。
+2007 年 10 月，Web 版本的更新日志[上线](https://osu.ppy.sh/community/forums/posts/2499)，在网站和 osu! 更新器中都可以看到。
 
 2009 年 10 月 25 日，更新日志现在[能够通过 RSS 获取](https://osu.ppy.sh/community/forums/topics/19137)，但最终关闭。
 
