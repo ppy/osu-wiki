@@ -42,10 +42,10 @@ tags:
 2009 年 10 月 25 日，更新日志现在[能够通过 RSS 获取](https://osu.ppy.sh/community/forums/topics/19137)，但最终关闭。
 
 ::: Infobox
-![](img/build-propagation-graph-2015.png "osu! 构建版本的分发图表（2015）")
+![](img/build-propagation-graph-2015.png "osu! 构建版本的用户分布图表（2015）")
 :::
 
-在 2015 年 10 月 28 日，一个展示 osu! 版本在玩家中的分发的图表[添加到了更新日志](https://web.archive.org/web/20151103161516/http://osu.ppy.sh:80/p/changelog)，使大众能够看到统计数据。同时，它也能够根据更新通道来筛选更新日志。
+在 2015 年 10 月 28 日，一个展示 osu! 不同版本玩家分布的图表[添加到了更新日志](https://web.archive.org/web/20151103161516/http://osu.ppy.sh:80/p/changelog)，使大众能够看到统计数据。同时，它也能够根据更新通道来筛选更新日志。
 
 ## 另请参阅
 
