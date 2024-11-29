@@ -29,7 +29,7 @@ Play streaks are displayed on the user profile with different colours depending 
 
 <!-- tier images: https://www.figma.com/design/tc79qAgJ35KQvdTO0Oj3dN/Daily-Challenge-Counter?node-id=0-1&t=xjRm9Ke0tUMtAQlh-1 -->
 
-| | Tier | Total participation | Daily streak | Weekly streak |
+|  | Tier | Total participation | Daily streak | Weekly streak |
 | --: | :-: | :-: | :-: | :-: |
 | ![Lustrous tier](img/tiers/lustrous.png) | Lustrous | 1080 days | 360 days | 53 weeks |
 | ![Radiant tier](img/tiers/radiant.png) | Radiant | 720 days | 240 days | 36 weeks |
