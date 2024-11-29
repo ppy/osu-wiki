@@ -75,4 +75,3 @@ Bancho 和[扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板)
 ## 未来?
 
 *"Think big, and expect big."* —— peppy
-<!--- 我不清楚这句应该怎么翻译>

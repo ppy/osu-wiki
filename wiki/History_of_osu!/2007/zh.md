@@ -97,5 +97,5 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ## 引用
 
-[^ouentest]: [ @ppy 发的推特（2019 年 6 月 19 日）](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^ouentest]:[@ppy 发的推特（2019 年 6 月 19 日）](https://twitter.com/ppy/status/1141394137637249025?s=20)
 [^osume]:[论坛中peppy发的帖子（ 2007 年 8 月 28 日）"pUpdater（又名 osume）"](https://osu.ppy.sh/community/forums/topics/4?n=1)
