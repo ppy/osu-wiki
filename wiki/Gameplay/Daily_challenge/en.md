@@ -45,9 +45,9 @@ The project is organised by ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/141
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9501251)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=GB }:: [kingling](https://osu.ppy.sh/users/7010761)
 - ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
+- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 
 ## Trivia
 
