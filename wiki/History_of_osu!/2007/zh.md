@@ -27,7 +27,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ## 八月
 
-主菜单在此时更新为了一个全新的外观，而谱面编辑器则是得到了包括复制粘贴功能在内的不少功能更新；内容目录和菜单栏被加入，使得谱面编辑器的功能比之前看起来更加直观；滑条得到了[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)的扩展；[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)也可以进行[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)；本地的高分榜也得到了完善；谱面格式 `.osu` 也进行了修改，甚至可以说是改头换面。但在同时，也加入了一个能将旧格式转换为新格式的转谱器。
+主菜单在此时更新为了一个全新的外观，而谱面编辑器则是得到了包括复制粘贴功能在内的不少功能更新；内容目录和菜单栏被加入，使得其功能比之前看起来更加直观；滑条得到了[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)的扩展；[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)也可以进行[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)；本地的高分榜也得到了完善；谱面格式 `.osu` 也进行了修改，甚至可以说是改头换面。但在同时，也加入了一个能将旧格式转换为新格式的转谱器。
 
 ![](img/2007-08_01.jpg "游玩模式的选曲界面")
 
@@ -45,7 +45,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 2007年9月17日是 osu! 被大众所公认的"生日"。我们今日所熟知的论坛在此日开通，并且托管于 peppy 的主域名(  `ppy.sh`  )。[这条新闻](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)被一家叫做 [bemanstyle](http://bemanistyle.com/) 的媒体发现并且发布了出来，而这条新闻则吸引了一些些对这有兴趣的音游人的注意力。
 
-![](img/2007-09_01.jpg "作图器中的滑块创建器")
+![](img/2007-09_01.jpg "作图器中的滑条创建器")
 
 ![](img/2007-09_02.jpg "游戏此时的主菜单")
 
