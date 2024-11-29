@@ -6,7 +6,7 @@ date: 2022-04-21 10:00:00 +0000
 
 Summoning all fruit catchers: the osu!catch World Cup is back for its 11th instalment!
 
-![](/wiki/Tournaments/CWC/2022/img/cwc2022_banner@2x.jpg)
+![](/wiki/Tournaments/CWC/2022/img/cwc2022_banner.jpg)
 
 The osu!catch World Cup brings with it a slew of changes — from the tournament format to the pool structure, no stone has been left unturned. Teams will play a Qualifier stage, where 9 maps will decide the who dashes to the top seeds for a Round of 32, double-elimination bracket. Furthermore, all pools after Qualifiers will feature the ubiquitous Mixed Mod bracket.
 
