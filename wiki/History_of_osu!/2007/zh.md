@@ -5,7 +5,7 @@
 
 ## 七月
 
-osu! 在最开始其实是一个叫做 “应援测试（ouentest）”[^ouentest] 的概念验证产品。它的第一个版本面向 [peppy](https://osu.ppy.sh/users/2) 的很小一部分挚友于 2007 年 7 月 1 日发布，并且包含一个简易的[谱面编辑器](/wiki/Client/Beatmap_editor)以及游玩谱面的功能。这个制谱器也只能创建*非常基本的*不包含预览或者[节拍对齐](/wiki/Disambiguation/Snapping)等诸如此类的功能，而游玩模式中的[谱面](/wiki/Beatmap)也没有滑条或者转盘，而只有最基本的普通音符以及分数和连击的计数器。第一个发布版只用了大概 16 个小时用于编码，并且它在*一个通宵*之内就完成了。`pUpdater`（也就是之后为人所知的`osume`）[^osume]也跟着发布，用于负责自动更新至最新版本。
+osu! 在最开始其实是一个叫做 “应援测试（ ouentest ）”[^ouentest] 的概念验证产品。它的第一个版本面向 [peppy](https://osu.ppy.sh/users/2) 的很小一部分挚友于 2007 年 7 月 1 日发布，包含一个简单的[谱面编辑器](/wiki/Client/Beatmap_editor)以及游玩谱面的功能。这个制谱器也只能创建*非常*基本的不包含预览或者[网格对齐](/wiki/Disambiguation/Snapping)等诸如此类的功能，而游玩模式中的[谱面](/wiki/Beatmap)也没有滑条或者转盘，而只有最基本的普通音符以及分数和连击的计数器。第一个发布版只用了大概 16 个小时用于编码，并且它在*一个通宵*之内就完成了。`pUpdater`（也就是之后为人所知的 `osume`）[^osume]也跟着发布，用于负责自动更新至最新版本。
 
 ![](img\2007-07_01.jpg "选曲界面")
 
@@ -43,7 +43,7 @@ osu! 在最开始其实是一个叫做 “应援测试（ouentest）”[^ouentes
 
 ![](img/2007-09.jpg)
 
-2007年9月17日是 osu! 被大众所公认的"生日"。我们今日所熟知的论坛在此日开通，并且托管于peppy的主域名(  `ppy.sh`  )。[这条新闻](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)被一家叫做 [bemanstyle](http://bemanistyle.com/) 的媒体发现并且发布了出来，而这条新闻则吸引了一些些对这有兴趣的音游人的注意力。
+2007年9月17日是 osu! 被大众所公认的"生日"。我们今日所熟知的论坛在此日开通，并且托管于 peppy 的主域名(  `ppy.sh`  )。[这条新闻](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)被一家叫做 [bemanstyle](http://bemanistyle.com/) 的媒体发现并且发布了出来，而这条新闻则吸引了一些些对这有兴趣的音游人的注意力。
 
 ![](img/2007-09_01.jpg "作图器中的滑块创建器")
 
@@ -73,7 +73,7 @@ osu! 在最开始其实是一个叫做 “应援测试（ouentest）”[^ouentes
 
 ![](img/2007-10_03.jpg "报错信息")
 
-`pUpdater`( `osume`) 的第二个版本发布，并且支持下载可选包。这也代表着第一个用户制作的皮肤可以通过更新程序向全体玩家公布。而作图器中则加入了[基于距离的音符拆分](/wiki/Client/Beatmap_editor/Distance_snap)、标记点、更多种类的滑条曲线、自定义颜色、试玩、进入缓冲，等等。
+`pUpdater`( `osume` ) 的第二个版本发布，并且支持下载可选包。这也代表着第一个用户制作的皮肤可以通过更新程序向全体玩家公布。而作图器中则加入了[基于距离的音符拆分](/wiki/Client/Beatmap_editor/Distance_snap)、标记点、更多种类的滑条曲线、自定义颜色、试玩、进入缓冲，等等。
 
 ## 十一月
 

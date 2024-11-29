@@ -12,7 +12,7 @@
 
 ![](img/hard_rock.png "Hard Rock \(v1\)") ![](img/sudden_death.png "Sudden Death \(v1\)") ![](img/double_time.png "Double Time \(v1\)")
 
-[Hard rock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) 和 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) 这三个[模组](/wiki/Gameplay/Game_modifier)给了玩家们更多的挑战。游戏体验通过添加倒计时图像和声音、自定义连击数字和颜色、O/X（通过/失败）段排名，对于每个计时部分的独立音量控制，以及（恐怕是最重要的）对于[使用脚本制作故事板](/wiki/Storyboard/Scripting)的支持等功能得到了极大的加强。曾有人试图将 osu！转移到 XNAv2 框架上，但 peppy 认为这个新版本毫无用处，而且降低了整体性能。但是，从这时起，osu！开始使用根据 osu! 的需求进行了数千行重写和 "修改"的 XNA1.1 框架。这个框架使得 osu！成为了现在的样子。此外 osu! 还采用了新的文本渲染引擎，可以在任何字体大小的情况下显示非常清晰的字体。这样[作图器](/wiki/Client/Beatmap_editor)就可以现实更多信息；同时这个字体渲染引擎也使得游戏整体看起来更好。
+[Hard rock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) 和 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) 这三个[模组](/wiki/Gameplay/Game_modifier)给了玩家们更多的挑战。游戏体验通过添加倒计时图像和声音、自定义连击数字和颜色、O/X（通过/失败）段排名，对于每个计时部分的独立音量控制，以及（恐怕是最重要的）对于[使用脚本制作故事板](/wiki/Storyboard/Scripting)的支持等功能得到了极大的加强。曾有人试图将 osu！转移到 XNAv2 框架上，但 peppy 认为这个新版本毫无用处，而且降低了整体性能。但是，从这时起，osu！开始使用根据 osu! 的需求进行了数千行重写和 “修改”的 XNA1.1 框架。这个框架使得 osu！成为了现在的样子。此外 osu! 还采用了新的文本渲染引擎，可以在任何字体大小的情况下显示非常清晰的字体。这样[作图器](/wiki/Client/Beatmap_editor)就可以现实更多信息；同时这个字体渲染引擎也使得游戏整体看起来更好。
 
 ## 三月
 
@@ -42,7 +42,7 @@ Bancho 和[扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板)
 
 像七月份一样，本月很难找到 osu! 没有改进或优化的方面。在全新添加的内容方面，谱面中添加了标签，并试验性地实现了多显示器支持。一种新的离开暂停的方法，也就是要求玩家将光标瞄准在暂停时光标的位置，被加入到游戏中。而其目的就是防止玩家滥用暂停功能。
 
-尽管这需要对数据库进行相当大的优化，但选歌界面中终于加入了个人最佳成绩的显示，也满足了玩家们长期以来的要求。排名屏幕和默认皮肤的各种元素进行了图形改进，使其感觉比以前更加简洁明快。滑条点得分（10/30）的显示得以实现。多人游戏功能的设置得到了提升，并且允许转移房主。为了提升玩家们的便利性，许多新的[聊天命令](/wiki/Client/Interface/Chat_console#命令列表)被加入。
+尽管这需要对数据库进行相当大的优化，但选歌界面中终于加入了个人最佳成绩的显示，也满足了玩家们长期以来的要求。排名屏幕和默认皮肤的各种元素进行了图形改进，使其令人感觉比以前更加简洁明快。滑条点得分（10/30）的显示得以实现。多人游戏功能的设置得到了提升，并且允许转移房主。为了提升玩家们的便利性，许多新的[聊天命令](/wiki/Client/Interface/Chat_console#命令列表)被加入。
 
 新增了一种新的排名状态"![](img/fire.gif) [达标](/wiki/Beatmap/Category#approved)"，用于标识那些质量上乘但超出最大谱面长度、难度或其他限制的地图。处于这种状态的地图不会增加玩家的分数，但会有排行榜，其他方面与 ![](img/heart.gif) [上架](/wiki/Beatmap/Category#ranked) 地图类似。
 
@@ -74,6 +74,4 @@ Bancho 和[扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板)
 
 ## 未来?
 
-> *"Think big, and expect big."* — peppy
-
-”要有远大的思想，并且迎接远大的未来。” —— peppy
+*"Think big, and expect big."* —— peppy
