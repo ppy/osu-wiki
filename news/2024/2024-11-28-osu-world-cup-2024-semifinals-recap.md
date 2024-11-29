@@ -8,7 +8,7 @@ As the brackets shrink, titans are forced to clash and fight for survival. Join 
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
-The Semifinals stage offered top tier entertainment for the osu! community, with history being made, and amazing team skills being displayed for the entire world to see. After all the dust has settled, the team count is down to 6, with the greatest battles yet to come.
+The Semifinals stage offered top-tier entertainment for the osu! community, with history being made, and amazing team skills being displayed for the entire world to see. The dust has now settled and the team count is down to 6, with the greatest battles yet to come.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/udSXyASuYI4" frameborder="0" allowfullscreen></iframe>
@@ -30,13 +30,13 @@ The Semifinals stage offered top tier entertainment for the osu! community, with
 
 ![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/owc-2024-sf-mappool.jpg)
 
-The Semifinals pool included some very interesting maps this time around. Fan favourite [melon boy](https://osu.ppy.sh/users/3053382) returned with another popular custom with [Warcry](https://osu.ppy.sh/beatmapsets/2281532#osu/4864391), a unique map that's over 3 minutes of non-stop aim, while also being quite taxing on the tapping stamina through its sheer lack of breaks.
+The Semifinals pool included some very interesting maps this time around. Fan favourite [melon boy](https://osu.ppy.sh/users/3053382) returned with another popular custom with [Warcry](https://osu.ppy.sh/beatmapsets/2281532#osu/4864391), a unique map that's over 3 minutes of non-stop aim, while also being quite taxing on tapping stamina through a sheer lack of breaks.
 
 The comet known as [jonathanlfj](https://osu.ppy.sh/users/270377) also came around for his yearly appearance, with his map of [TO MAKE THE END OF BATTLE](https://osu.ppy.sh/beatmapsets/2281558#osu/4864433) being another instance of the popular lfj + Falcom Sound Team combo to grace OWC. DragonForce's cover of [My Heart Will Go On](https://osu.ppy.sh/beatmapsets/1865009#osu/3853480) by the sadly late [MakiDonalds](https://osu.ppy.sh/users/11610772) was another highlight of the pool, providing a much-needed stream map and a great flow challenge. Rest in peace, Maki.
 
 The Double Time selections were a mix of classic and new, with existing maps such as [Fallen Angel (El Poco Maro Remix)](https://osu.ppy.sh/beatmapsets/36319#osu/403050) giving players a more established, standard map with a mix of aim and speed to opt for, contrasting with [Hit & Run](https://osu.ppy.sh/beatmapsets/2281450#osu/4864105), a very modern take on DT tech at high approach rates by rap mapping aficionado [jamesjan3](https://osu.ppy.sh/users/6260705).
 
-We had the debut of 2 originals this week as well, with the first one being [VALDeS](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403), produced by the wonderful [nagiha](https://osu.ppy.sh/beatmaps/artists/447). A jazzy swing map at circle size 6, the mix of precision and tricky rhythm was quite a tough bout for the players, put in place by [yaspo](https://osu.ppy.sh/users/4945926).
+We had the debut of 2 [originals](/wiki/osu!_originals) this week as well: the first one being [VALDeS](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403), produced by the wonderful [nagiha](https://osu.ppy.sh/beatmaps/artists/447). A jazzy swing map at CS 6 put in place by [yaspo](https://osu.ppy.sh/users/4945926), the mix of precision and tricky rhythm made for quite a tough bout between players.
 
 [![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/VALDeS_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403)
 
@@ -67,22 +67,22 @@ We had the debut of 2 originals this week as well, with the first one being [VAL
 | **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=CL }:: Chile |
 | Canada ::{ flag=CA }:: | 5 | **6** | ::{ flag=GB }:: **United Kingdom** |
 
-This semifinals weekend was historic; teams rose and fell like kingdoms, and the long-standing empires once more laid claim to their promised land. Glorious leaders commanded their troops through a weekend of fierce battles where the top 12 became the top 6 and where even mother nature stepped onto the battlefield.
+Long-standing teams put up torrential efforts against their fierce adversaries, as the 12 competitors squared off for the remaining 6 slots. This Semifinals weekend was a historic one, where even mother nature made her move.
 
-The first round of losers' bracket looked to be typical. ::{ flag=RU }:: Russia took down ::{ flag=PL }:: Poland 6–1, and ::{ flag=CL }:: Chile defeated ::{ flag=HK }:: Hong Kong in a tightly-contested 6–3 match, winning one map by only 107 points! This marks ::{ flag=PL }:: Poland's fourth top 12 finish in four years and ::{ flag=HK }:: Hong Kong's seventh in eight years.
+The first round of the losers' bracket looked to be typical. ::{ flag=RU }:: Russia took down ::{ flag=PL }:: Poland 6–1, and ::{ flag=CL }:: Chile defeated ::{ flag=HK }:: Hong Kong in a tightly contested 6–3 match, winning one map by only 107 points! This marks ::{ flag=PL }:: Poland's fourth top 12 finish in four years and ::{ flag=HK }:: Hong Kong's seventh in eight years.
 
-The resulting potential here would see ::{ flag=RU }:: Russia take down ::{ flag=CL }:: Chile 6–2 in the second round of the losers' bracket. Chile, having made the top 8 twice in a row, are finally solidifying themselves as a top performer after the unfortunate series of events in OWC 2021 and 2022. ::{ flag=RU }:: Russia, on the other hand, have finally broken their semifinals curse; the last time Russia finished in the top 6 was in 2019, and this roster finally made the cut.
+The resulting potential here would see ::{ flag=RU }:: Russia take down ::{ flag=CL }:: Chile 6–2 in the second round of the losers' bracket. Chile, having made the top 8 twice in a row, is finally solidifying itself as a top performer after the unfortunate series of events in OWC 2021 and 2022. Team ::{ flag=RU }:: Russia's new roster, on the other hand, finally broke through the country's Semifinals curse after being out of the top 6 since 2020.
 
 On the other side of the losers' bracket, ::{ flag=CA }:: Canada and ::{ flag=CN }:: China fought all the way until tiebreaker, with ::{ flag=CA }:: Canada taking the last map and advancing 6–5 into top 8. ::{ flag=CN }:: China showed once more, after taking both ::{ flag=RU }:: Russia and ::{ flag=CA }:: Canada to tiebreaker, that they are not to be trifled with.
 
-Across from this match was the ::{ flag=PH }:: Philippines vs ::{ flag=GB }:: United Kingdom, where the ::{ flag=PH }:: Philippines gave the UK some trouble, with the ::{ flag=GB }:: UK winning 6–4. The ::{ flag=PH }:: Philippines have now made the top 12 for the second time in OWC, solidifying them as one of the tournament's high performers.
+Another notable match was the ::{ flag=PH }:: Philippines vs. ::{ flag=GB }:: United Kingdom, where the ::{ flag=PH }:: Philippines gave the UK some trouble, but the ::{ flag=GB }:: UK ultimately ended up winning 6–4. The ::{ flag=PH }:: Philippines have now made the top 12 for the second time in OWC, solidifying them as one of the tournament's high performers.
 
 Meanwhile, in the winners' bracket:
 
-- ::{ flag=DE }:: Germany matched up against ::{ flag=KR }:: South Korea in an underdog match. And certainly, ::{ flag=DE }:: Germany were the underdogs; ::{ flag=KR }:: South Korea continued their 16–0 win streak and dropped no points against ::{ flag=DE }:: Germany, making them 22–0 in maps and 4–0 in matches through OWC 2024.
-- ::{ flag=AU }:: Australia and the ::{ flag=US }:: United States faced off in the last match of the weekend, with the ::{ flag=US }:: USA taking the match 6–4 and securing a spot in the winners' finals for the first time since 2021.
+- ::{ flag=DE }:: Germany matched up against ::{ flag=KR }:: South Korea in an underdog match. And certainly, ::{ flag=DE }:: Germany was the underdog — the ::{ flag=KR }:: South Koreans continued their 16–0 win streak and dropped no points against the ::{ flag=DE }:: Germans, making them 22–0 in maps and 4–0 in matches throughout OWC 2024.
+- ::{ flag=AU }:: Australia and the ::{ flag=US }:: United States faced off in the last match of the weekend, with the ::{ flag=US }:: U.S. taking the match 6–4 and securing a spot in the winners' finals for the first time since 2021.
 
-Read on for more details about both ::{ flag=AU }:: Australia vs. the ::{ flag=US }:: United States and ::{ flag=CA }:: Canada vs. the ::{ flag=GB }:: United Kingdom.
+Read on for more details about the matches of both ::{ flag=AU }:: Australia vs. the ::{ flag=US }:: United States and ::{ flag=CA }:: Canada vs. the ::{ flag=GB }:: United Kingdom.
 
 ### ::{ flag=AU }:: Australia vs. ::{ flag=US }:: United States
 
