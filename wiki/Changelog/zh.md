@@ -13,15 +13,15 @@ tags:
   - http://osu.ppy.sh/p/changelog
 --->
 
-**[更新日志 (changelog)](https://osu.ppy.sh/home/changelog)** 是 [osu! 开发团队](/wiki/People/Developers)详细列出游戏和网站更新的地方。这包括每天进行的改进，内容更新，和问题 (bug) 修复。出于存档的目的，先前所有版本的更改都记录在此处。
+**[更新日志 (Changelog)](https://osu.ppy.sh/home/changelog)** 是 [osu! 开发团队](/wiki/People/Developers)详细列出游戏和网站更新的地方，其中包括每天做出的改进、内容更新与问题修复。出于存档的目的，先前所有版本的更改都记录在此处。
 
-网站和 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 的更新日志基于 GitHub 相应发行版自动生成，而其它更改则手动维护。
+网站和 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 的更新日志基于 GitHub 上的相应发行版自动生成，而其它项目的更新日志则是人为维护的。
 
 ## 内容
 
 更新日志的主页展示了所有 osu! 组件的更改，以时间降序排列。要缩小列表范围，请点击其中一个类别（osu! wiki 的更改包含在 `Web` 内）。类别选择栏下方展示了每个客户端[更新通道](/wiki/Client/Release_stream)的在线用户数量。每个分类中，更改根据效果分组，且重要更新将标为金色。
 
-除了 Markdown 格式，更新日志还支持添加静态图片、动态 GIF，以及嵌入视频。尽管可能手动添加，发布新版本时，这些更新通常都取自 GitHub（更改在这里被审查），并自动分组。在任何拉取请求 (Pull Request) 的描述中，水平线 (`---`) 下方的内容默认会作为对更改的详细解释。
+除了 Markdown 格式，更新日志还支持添加静态图片、动态 GIF，以及嵌入视频。在发布新版本时可以手动添加它们，但这些日志通常都取自 GitHub（更改在这里被审查），并自动分组。在拉取请求 (Pull Request) 的描述中，默认会将水平线 (`---`) 下方的内容作为对更改的详细解释使用。
 
 更新日志本身的更改可在 [`ppy/osu-web` GitHub 存储库](https://github.com/ppy/osu-web/pulls?q=is%3Apr+sort%3Aupdated-desc+label%3Aarea%3Achangelog)中找到。
 
@@ -31,7 +31,7 @@ tags:
 ![](img/changelog-web-2007.png "2007 年的更新日志")
 :::
 
-更新日志最初由 [peppy](/wiki/People/peppy) 在 2007 年 9 月 11 日编写，发布在名为[“官方开发更新日志” (Official Development Changelog)](https://osu.ppy.sh/community/forums/topics/15) 的独立论坛帖子中。其中列举了值得关注的更改和问题修复，有时还会包含未来更新计划的简介。
+更新日志最初由 [peppy](/wiki/People/peppy) 在 2007 年 9 月 11 日编写，发布在名为[“官方开发更新日志” (Official Development Changelog)](https://osu.ppy.sh/community/forums/topics/15) 的独立论坛帖子中。其中列举了值得关注的更改和问题修复，有时还会简单提一下未来的更新计划。
 
 ::: Infobox
 ![](img/changelog-osume-2013.png "osu! 更新器 (updater)（2013年）")
