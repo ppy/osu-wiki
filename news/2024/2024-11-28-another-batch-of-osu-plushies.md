@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Batch of osu! Plushies
+title: osu! cookie and pippi plushies are back for round 2!
 date: 2024-11-28 22:30:00 +0000
 ---
 
@@ -8,9 +8,7 @@ Your favourite osu! plushies just came back for one last dance! Come get yours t
 
 ![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/banner.jpg)
 
-You asked, we delivered. Thanks to [Makeship](https://www.makeship.com/), we're bringing back the fan-beloved osu! cookie and pippi plushies one more time!
-
-Unfortunately, Taikonator couldn't join us this time around. Rumours say he's been stuck retry-spamming osu!taiko beatmaps to get as much score as humanly possible, and it turns out he forgot to disable [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) all this time. May he rest in peace.
+You asked, we delivered. Thanks to [Makeship](https://www.makeship.com/), we're bringing back the fan-beloved osu! cookie and pippi plushies one more time! These editions feature a "2.0" badge hidden inconspicuously on the plushies to mark their second run.
 
 Unsure if you should get one? Check out the plushies in all their glory, featuring some eye candy from our community members [posting their own plushies](https://osu.ppy.sh/community/forums/topics/1731984?n=1) from the first run:
 
@@ -20,9 +18,7 @@ Look at how adorable pippi looks while accompanying The Dean "[peppy](https://os
 
 [![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/deimos.jpg)](https://www.makeship.com/search?q=ppy)
 
-While staying on the desk trend, [Deimos](https://osu.ppy.sh/users/1515403) brought us one singular pippi — equipped with an appropriately sized cookie — getting ready to code for us the next super duper secret osu!(lazer) 2.0.
-
-P.S. Do NOT tell peppy we leaked this.
+While staying on the desk trend, [Deimos](https://osu.ppy.sh/users/1515403) brought us a similar setup featuring pippi — equipped with an appropriately sized cookie — getting ready for an intense coding session!
 
 [![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/jun-maeda.jpg)](https://www.makeship.com/search?q=ppy)
 
@@ -49,13 +45,16 @@ It's real simple, and Makeship also [describes the process on their site](https:
 - If you want any (or both) of the plushies above, pledge for them on Makeship by **clicking any of the pictures above**.
 - There's also a 10% discount if you order both at the same time!
 - Guaranteed campaigns keep taking new orders until they close, so everyone who orders one will get one.
-
-Basically, buy the plushies and, if enough people want one, they get made. Easy as that!
+- Production will take some months, so look out for an email when they are ready to be sent to you!
 
 ---
 
 **[What are you waiting for? Go get your own plushies today before they're gone FOREVER!](https://www.makeship.com/search?q=ppy)**
 
 Don't brood over getting one for too long, as production for these plushies will start on **December 20th**. You've got a total of three weeks (and one last chance) to get your hands on them, so don't miss out!
+
+---
+
+Unfortunately, Taikonator couldn't join us this time around. Rumours say he's been stuck retry-spamming osu!taiko beatmaps to get as much score as humanly possible, and it turns out he forgot to disable [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) all this time. May he rest in peace.
 
 —osu! team
