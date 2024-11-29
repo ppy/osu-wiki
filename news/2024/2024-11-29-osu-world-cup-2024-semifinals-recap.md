@@ -38,7 +38,7 @@ The Double Time selections were a mix of classic and new, with existing maps suc
 
 ---
 
-[![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/VALDeS_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403)
+[![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/VALDeS_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -48,7 +48,7 @@ The Double Time selections were a mix of classic and new, with existing maps suc
 
 We had the debut of 2 [originals](/wiki/osu!_originals) this week as well: the first one being [VALDeS](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403), produced by the wonderful [nagiha](https://osu.ppy.sh/beatmaps/artists/447). A jazzy swing map at CS 6 put in place by [yaspo](https://osu.ppy.sh/users/4945926), the mix of precision and tricky rhythm made for quite a tough bout between players.
 
-[![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/today_is_the_day_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081)
+[![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/today_is_the_day_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -97,7 +97,7 @@ Read on for more details about the matches of both ::{ flag=AU }:: Australia vs.
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/udSXyASuYI4?start=1021&end=1184" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The moment the Qualifier results were released, with ::{ flag=AU }:: Australia seeding #2 and the ::{ flag=US }:: United States seeding #3, all eyes looked toward their near-certain date in the Semifinals. After several weeks of one-sided wins each, their meeting was set, a rematch of last year's losers' bracket Finals in which the ::{ flag=US }:: United States ran roughshod over :{{ flag=AU }:: Australia 7–1.
+The moment the Qualifier results were released, with ::{ flag=AU }:: Australia seeding #2 and the ::{ flag=US }:: United States seeding #3, all eyes looked toward their near-certain date in the Semifinals. After several weeks of one-sided wins each, their meeting was set, a rematch of last year's losers' bracket Finals in which the ::{ flag=US }:: United States ran roughshod over :{ flag=AU }:: Australia 7–1.
 
 Expectations for this match were sky-high, and it lived up to the billing, a back-and-forth affair in which the teams dominated their own picks to a historic level. The ::{ flag=US }:: United States, having bolstered their roster's well-roundedness with the return of ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) and the addition of rookie ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), opted heavily into the gimmicky maps in the pool, opening things up with the overlap-reading No Mod pick [Lovely Icecream Princess Sweetie](https://osu.ppy.sh/beatmapsets/669232#osu/1415526) before delving into the precision flow aim Hard Rock pick [Saika](https://osu.ppy.sh/beatmapsets/1224300#osu/2546419). They would win both with ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106) and ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) being their top performers.
 
