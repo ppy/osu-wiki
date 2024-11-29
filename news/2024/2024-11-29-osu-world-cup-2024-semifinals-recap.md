@@ -8,7 +8,7 @@ As the brackets shrink, titans are forced to clash and fight for survival. Join 
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
-The Semifinals stage offered top-tier entertainment for the osu! community, with history being made, and amazing team skills being displayed for the entire world to see. The dust has now settled and the team count is down to 6, with the greatest battles yet to come.
+The Semifinals stage offered top-tier entertainment for the osu! community, with history being made, and amazing team skills being displayed for the entire world to see. The dust has now settled, the team count is down to 6, and the greatest battles are yet to come.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/udSXyASuYI4" frameborder="0" allowfullscreen></iframe>
