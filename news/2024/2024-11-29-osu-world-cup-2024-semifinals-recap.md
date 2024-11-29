@@ -48,7 +48,6 @@ The Double Time selections were a mix of classic and new, with existing maps suc
 
 We had the debut of 2 [originals](/wiki/osu!_originals) this week as well: the first one being [VALDeS](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403), produced by the wonderful [nagiha](https://osu.ppy.sh/beatmaps/artists/447). A jazzy swing map at CS 6 put in place by [yaspo](https://osu.ppy.sh/users/4945926), the mix of precision and tricky rhythm made for quite a tough bout between players.
 
-
 [![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/today_is_the_day_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081)
 
 <div class="osu-md__paragraph">
