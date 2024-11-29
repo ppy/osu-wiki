@@ -36,11 +36,9 @@ The comet known as [jonathanlfj](https://osu.ppy.sh/users/270377) also came arou
 
 The Double Time selections were a mix of classic and new, with existing maps such as [Fallen Angel (El Poco Maro Remix)](https://osu.ppy.sh/beatmapsets/36319#osu/403050) giving players a more established, standard map with a mix of aim and speed to opt for, contrasting with [Hit & Run](https://osu.ppy.sh/beatmapsets/2281450#osu/4864105), a very modern take on DT tech at high approach rates by rap mapping aficionado [jamesjan3](https://osu.ppy.sh/users/6260705).
 
-We had the debut of 2 [originals](/wiki/osu!_originals) this week as well: the first one being [VALDeS](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403), produced by the wonderful [nagiha](https://osu.ppy.sh/beatmaps/artists/447). A jazzy swing map at CS 6 put in place by [yaspo](https://osu.ppy.sh/users/4945926), the mix of precision and tricky rhythm made for quite a tough bout between players.
+---
 
-The second original to release on the same day would be [Minstrel](https://osu.ppy.sh/beatmaps/artists/349)'s [today is the day](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081), a high-intensity 212 BPM J-rock song supported by a jumpy burst map brought to you by the collab of [bad boy](https://osu.ppy.sh/users/3545323) and [melon boy](https://osu.ppy.sh/users/3053382).
-
-[![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/VALDeS_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403)
+[![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/VALDeS_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -48,13 +46,18 @@ The second original to release on the same day would be [Minstrel](https://osu.p
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/today_is_the_day_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081)
+We had the debut of 2 [originals](/wiki/osu!_originals) this week as well: the first one being [VALDeS](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403), produced by the wonderful [nagiha](https://osu.ppy.sh/beatmaps/artists/447). A jazzy swing map at CS 6 put in place by [yaspo](https://osu.ppy.sh/users/4945926), the mix of precision and tricky rhythm made for quite a tough bout between players.
+
+
+[![](/wiki/shared/news/2024-11-28-osu-world-cup-2024-semifinals-recap/today_is_the_day_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081)
 
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="https://assets.ppy.sh/artists/349/Songs/Minstrel_-_today_is_the_day.mp3">
     </audio>
 </div>
+
+The second original to release on the same day would be [Minstrel](https://osu.ppy.sh/beatmaps/artists/349)'s [today is the day](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081), a high-intensity 212 BPM J-rock song supported by a jumpy burst map brought to you by the collab of [bad boy](https://osu.ppy.sh/users/3545323) and [melon boy](https://osu.ppy.sh/users/3053382).
 
 ## Semifinals summary
 
