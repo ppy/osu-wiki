@@ -5,7 +5,7 @@
 
 ## 七月
 
-osu! 在最开始其实是一个叫做 “应援测试（ ouentest ）”[^ouentest] 的概念验证产品。它的第一个版本面向 [peppy](https://osu.ppy.sh/users/2) 的很小一部分挚友于 2007 年 7 月 1 日发布，包含一个简单的[谱面编辑器](/wiki/Client/Beatmap_editor)以及游玩谱面的功能。这个制谱器也只能创建*非常*基本的不包含预览或者[网格对齐](/wiki/Disambiguation/Snapping)等诸如此类的功能，而游玩模式中的[谱面](/wiki/Beatmap)也没有滑条或者转盘，而只有最基本的普通音符以及分数和连击的计数器。第一个发布版只用了大概 16 个小时用于编码，并且它在*一个通宵*之内就完成了。`pUpdater`（也就是之后为人所知的 `osume`）[^osume]也跟着发布，用于负责自动更新至最新版本。
+osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 的概念验证产品。它的第一个版本面向 [peppy](https://osu.ppy.sh/users/2) 的很小一部分挚友于 2007 年 7 月 1 日发布，包含一个简单的[谱面编辑器](/wiki/Client/Beatmap_editor)以及游玩谱面的功能。这个制谱器也只能创建*非常*基本的不包含预览或者[网格对齐](/wiki/Disambiguation/Snapping)等诸如此类的功能，而游玩模式中的[谱面](/wiki/Beatmap)也没有滑条或者转盘，而只有最基本的普通音符以及分数和连击的计数器。第一个发布版只用了大概 16 个小时用于编码，并且它在*一个通宵*之内就完成了。`pUpdater`（也就是之后为人所知的 `osume`）[^osume]也跟着发布，用于负责将游戏自动更新至最新版本。
 
 ![](img\2007-07_01.jpg "选曲界面")
 
@@ -27,7 +27,7 @@ osu! 在最开始其实是一个叫做 “应援测试（ ouentest ）”[^ouent
 
 ## 八月
 
-主菜单在此时更新为了一个全新的外观，而谱面编辑器则是得到了包括复制粘贴功能在内的不少功能更新：内容目录和菜单栏被加入谱面编辑器，使得谱面编辑器的功能比之前看起来更加直观；滑条得到了[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)的扩展；[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)也可以进行[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)；本地的高分榜也得到了完善；谱面格式 `.osu` 也进行了修改，甚至可以说是改头换面。但在同时，也加入了一个能将旧格式转换为新格式的转谱器。
+主菜单在此时更新为了一个全新的外观，而谱面编辑器则是得到了包括复制粘贴功能在内的不少功能更新；内容目录和菜单栏被加入，使得谱面编辑器的功能比之前看起来更加直观；滑条得到了[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)的扩展；[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)也可以进行[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)；本地的高分榜也得到了完善；谱面格式 `.osu` 也进行了修改，甚至可以说是改头换面。但在同时，也加入了一个能将旧格式转换为新格式的转谱器。
 
 ![](img/2007-08_01.jpg "游玩模式的选曲界面")
 
