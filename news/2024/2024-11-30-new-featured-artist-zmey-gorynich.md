@@ -6,7 +6,7 @@ date: 2024-11-30 20:00:00 +0000
 
 A new species of metal music crawled into our Featured Artist library, courtesy of **Zmey Gorynich**!
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/450/header.jpg)
 
 Self-proclaimed "buffoons", Russian band **Zmey Gorynich** made a name for themselves by playing an usual combo of cheerful extreme metal since 2012. They were brought to the forefront of osu! by metal mastermind [Mazzerin](https://osu.ppy.sh/users/2942381) with [Sorochinskaya Yarmarka](https://osu.ppy.sh/beatmapsets/1191853), a stream map featuring unreal slider-centric design perfectly fitting the insanity of the tune.
 
@@ -16,11 +16,11 @@ Words aren't very good at describing music. osu! gameplay does a better job:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/450/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
-### [Zmey Gorynich - Sorochinskaya Yarmarka](LINK)
+### [Zmey Gorynich - Sorochinskaya Yarmarka](https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Sorochinskaya%20Yarmarka.osz)
 
 You have options:
 
@@ -29,23 +29,23 @@ You have options:
 - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1899136) hosted by [keksikosu](https://osu.ppy.sh/users/23097320)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Sorochinskaya%20Yarmarka.mp3">
 </audio>
 
-### [Zmey Gorynich - Zmey Gorynych"](LINK)
+### [Zmey Gorynich - Zmey Gorynych"](https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Zmey%20Gorynych.osz)
 
 Here's [a classic osu!taiko spread](https://osu.ppy.sh/beatmapsets/1647772) hosted by [liku](https://osu.ppy.sh/users/11357694)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Zmey%20Gorynych.mp3">
 </audio>
 
-### [Zmey Gorynich - Medveplyas"](LINK)
+### [Zmey Gorynich - Medveplyas"](https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Medveplyas.osz)
 
 Test yourself with [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1849644) hosted by [a familiar face](https://osu.ppy.sh/users/11357694)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Medveplyas.mp3">
 </audio>
 
 ---
