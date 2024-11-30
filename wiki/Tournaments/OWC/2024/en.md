@@ -140,7 +140,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241130T120000&p1=1440&p2=57&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Australia ::{ flag=AU }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241130T123000&p1=1440&p2=57&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Germany ::{ flag=DE }:: | ::{ flag=GB }:: United Kingdom | [Nov 30 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241130T140000&p1=1440&p2=37&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Finals | showmatch | [Nov 30 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241130T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
