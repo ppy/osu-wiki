@@ -33,7 +33,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ![](img/2007-08_02.jpg "打击特效的迭代")
 
-[连击特效](/wiki/Gameplay/Combo_fire)、[血量](/wiki/Gameplay/Health)条、鼠标尾迹和更好看的滑条使游戏体验得到了加强。此时，osu! 已经有了一个由一个五人测试团队所制作的大约 10 张谱面所组成的一个谱面库。
+[连击特效](/wiki/Gameplay/Combo_fire)、[血量](/wiki/Gameplay/Health)条、鼠标尾迹和更好看的滑条改良了游戏体验。此时，osu! 已经有了一个由一个五人测试团队所制作的大约 10 张谱面所组成的一个谱面库。
 
 ![](img/2007-08_03.jpg "作图器选曲界面")
 
@@ -43,7 +43,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ![](img/2007-09.jpg)
 
-2007年9月17日是 osu! 被大众所公认的"生日"。我们今日所熟知的论坛在此日开通，并且托管于 peppy 的主域名(  `ppy.sh`  )。[这条新闻](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)被一家叫做 [bemanstyle](http://bemanistyle.com/) 的媒体发现并且发布了出来，而这条新闻则吸引了一些些对这有兴趣的音游人的注意力。
+2007 年 9 月 17 日是 osu! 被大众所公认的"生日"。我们今日所熟知的论坛在此日开通，并且托管于 peppy 的主域名 ( `ppy.sh` )。[这条新闻](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)被一家叫做 [bemanstyle](http://bemanistyle.com/) 的媒体发现并且发布了出来，而这条新闻则吸引了一些些对这有兴趣的音游人的注意力。
 
 ![](img/2007-09_01.jpg "作图器中的滑条创建器")
 
@@ -65,7 +65,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ![](img/2007-10_01.jpg)
 
-而选曲界面则有了两个改进：一个是基于难度的分组方式，一个是看起来更加直观的“轮式选曲”的动画。软件示例集、基于键盘的控制方式和游戏内搜索在这个月中加入。玩家们首次可以制作全局[皮肤](/wiki/Skinning)和对于特定谱面的皮肤。同时，对于平板（触屏）电脑的完整支持也得到了实现。
+而选曲界面则有了两个改进：一个是基于难度的分组方式，一个是看起来更加直观的“滚轮式”选图动画。软件示例集、基于键盘的控制方式和游戏内搜索在这个月中加入。玩家们首次可以制作全局[皮肤](/wiki/Skinning)和对于特定谱面的皮肤。同时，对于平板（触屏）电脑的完整支持也得到了实现。
 
 ![](img/2007-10_02.jpg "单人游戏选曲界面")
 
@@ -77,7 +77,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ## 十一月
 
-新的SS等级被加入了评分系统，用于替换在这之前达到AP的S级评分。 [No Video](/wiki/Gameplay/Game_modifier/No_Video) 和 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 两个模组和配套的 SH (银 S )和 SSH（银 SS ）两个等级加入游戏。也是第一次，玩家们可以基于每一段计时部分来进行换肤。现在可以通过双击或将其拖动到osu!的图标或窗口中来加载 `.osz` 谱面。
+新的 SS 评价被加入了评分系统，用于替换在这之前达到完美的 S 级评分。[No Video](/wiki/Gameplay/Game_modifier/No_Video) 和 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 两个模组和配套的 SH (银 S ) 和 SSH (银 SS) 两个评价加入游戏。也是第一次，玩家们可以基于每一段计时部分来切换皮肤。现在可以通过双击或将其拖动到osu!的图标或窗口中来加载 `.osz` 谱面。
 
 ![](img\no_video.png "第一版的 No Video")![](img\hidden.png "第一版的 Hidden")
 
@@ -91,7 +91,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ## 十二月
 
-现在，将音乐拖入 osu! 的窗口就可以直接为它制作谱面；主界面和制谱器中的每个按钮都加入了与其相对应的提示；一些新的优质皮肤由一些早期的[皮肤制作者](/wiki/Skinning/Skinner)([Holiday by LgigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761))所提交；选曲界面有了新的排序方式；现在，peppy 可以给所有玩家发公告；游玩模式做出了一些小更改（比如对未激活的打几圈进行暗化）。
+现在，将音乐拖入 osu! 的窗口就可以直接为它制作谱面；主界面和作图器中的每个按钮都加入了与其相对应的提示；一些新的优质皮肤由一些早期的[皮肤制作者](/wiki/Skinning/Skinner)([Holiday by LgigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761))所提交；选曲界面有了新的排序方式；现在，peppy 可以给所有玩家发公告；游玩模式做出了一些小更改（比如对未激活的打击圈进行暗化）。
 
 ![](img/2007-12_01.jpg)
 
