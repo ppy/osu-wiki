@@ -20,6 +20,10 @@ A user who has an active silence cannot do the following:
 
 Once a silence is issued to a user, all of their messages in chat are removed and an alert will be displayed in the place of the chat input field containing the duration of the active silence.
 
+::: Infobox
+![](img/silence-ingame.png "Silence warning in the chat")
+:::
+
 ## Durations
 
 The duration of a silence starts at 5 minutes and doubles for each subsequent offence, up to a maximum of 28 days, but the initial duration may vary depending on the offence committed and the user's previous history. The factors considered when determining the length of a silence include:
