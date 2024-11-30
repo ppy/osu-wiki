@@ -8,7 +8,7 @@ A new species of metal music crawled into our Featured Artist library, courtesy 
 
 ![](https://assets.ppy.sh/artists/450/header.jpg)
 
-Self-proclaimed "buffoons", Russian band **Zmey Gorynich** made a name for themselves by playing an usual combo of cheerful extreme metal since 2012. They were brought to the forefront of osu! by metal mastermind [Mazzerin](https://osu.ppy.sh/users/2942381) with [Sorochinskaya Yarmarka](https://osu.ppy.sh/beatmapsets/1191853), a stream map featuring unreal slider-centric design perfectly fitting the insanity of the tune.
+Self-proclaimed "buffoons", Russian band **Zmey Gorynich** made a name for itself by playing an unusual combo of cheerful extreme metal since 2012. They were brought to the forefront of osu! by metal mastermind [Mazzerin](https://osu.ppy.sh/users/2942381) with [Sorochinskaya Yarmarka](https://osu.ppy.sh/beatmapsets/1191853), a stream map featuring unreal slider-centric design perfectly fitting the insanity of the tune.
 
 A grand total of **8** aural gems have been put on display in [**Zmey Gorynich**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/450). Use the pre-timed beatmap templates while you can (which will be forever).
 
