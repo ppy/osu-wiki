@@ -1,6 +1,6 @@
 # Silence
 
-**Silence** is a term used to describe the punishment of limiting a user's means of communication within the osu! community. Silences can be placed by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), and are only placed on users that have broken the [Community Rules](/wiki/Rules).
+**Silence** is a term used to describe the punishment of limiting a user's means of communications within the osu! community. Members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) typically issue these silences to maintain a clean environment for the website and in-game.
 
 ## Limitations
 
@@ -8,37 +8,48 @@
 ![](img/silence-profile.png "Silence record in the profile page")
 :::
 
-Users who are silenced by moderators cannot do the following:
+A user who has an active silence cannot do the following:
 
-- Use [chat](/wiki/Client/Interface/Chat_console) (public and private), both in-game and on the website
+- Use the online [chat](/wiki/Client/Interface/Chat_console) (public and private), both in-game and on the website
 - Post on any of the osu! forums
-- Leave comments anywhere on the website (news, changelog, beatmaps)
+- Post comments anywhere on the website (beatmaps, changelog, news)
 - Take part in [beatmap discussions](/wiki/Beatmap_discussion)
-- Edit profile details (e.g. avatar, "me!" section, etc.)
+- Edit profile details such as avatar and cover
 - Submit and update beatmaps
 - Partake in [multiplayer](/wiki/Client/Interface/Multiplayer) games
 
-In addition to that, all messages of a silenced user are removed from all chat channels and private conversations.[^chat-cleanup]
+Once a silence is issued to a user, all of their messages in chat are removed and an alert will be displayed in the place of the chat input field containing the duration of the active silence.
 
-::: Infobox
-![](img/silence-ingame.png "Silence warning in the chat")
-:::
+## Durations
 
-After a user is silenced, an alert will be displayed in place of the chat input field, saying when the silence wears off. The silence record can also be observed at the bottom of the profile on the website, from which it will disappear after 28 days.
+The duration of a silence starts at 5 minutes and doubles for each subsequent offence, up to a maximum of 28 days, but the initial duration may vary depending on the offence committed and the user's previous history. The factors considered when determining the length of a silence include:
 
-## Appealing a silence
+- **Atmosphere:** The current chat environment's state.
+- **Frequency:** Repetitiveness regardless of the previous silences given.
+- **History:** The previous records of infringements.
+- **Severity:** The seriousness of the offence committed.
 
-If you believe you were silenced unfairly, contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! username, as well as the approximate date and time when the silence was handed out.
+In some cases, users may receive a final warning before an account restriction is placed, providing an opportunity to cease the offending behaviour.
 
 ## Common reasons for silences
 
-*Caution: Engaging in "inappropriate behaviour" in private messages is not against the rules, unless said inappropriate behaviour is being delivered to unwilling or unconsenting recipients. If reported, appropriate punishments will be placed.*
+Here are some common reasons why users get silenced in public chat, but not limited to:
 
-- Inappropriate behaviour in public chats or forums (e.g. `#multiplayer`, beatmap discussions, comments, etc.), including — but not limited to — spamming, nonsense chat, racism, etc.
-- Uploading or posting inappropriate content via other means (e.g. profile avatars, beatmap submissions, profile details, user page bio, banner, etc.).
+- **Spamming or Flooding:** Self-explanatory.
+- **Caps Abuse:** Chatting with all uppercase letters.
+- **Inappropriate Behavior/Conversation:** The public chat is not a place for such discussions.
+- **Racism:** Discrimination or hatred based on race, religion, gender or sexual orientation.
+- **Advertising:** Promoting products or services. This includes Discord invite links and streaming links such as Twitch and YouTube.
+- **Unwanted Content:** Websites such as piracy, screamers and referrals. 
 
-The length of a silence may vary based on the severity of the infringement. Silences can stack on top of each other, adding more time for each one. Please note that if an offence is heavy enough, or if a player is a repeat offender, it may result in an [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
+Silences may also be given to users for other reasons such as but not limited to:
 
-## References
+- **Inappropriate Beatmap Submission:** Details such as metadata, tags and background image.
+- **Inappropriate Conduct:** Places such as the forums, beatmap discussions and comments.
+- **Inappropriate Profile:** Contents such as avatar, cover and profile details.
 
-[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
+## Appealing
+
+While silences are implemented to maintain a positive community environment, it's acknowledged that errors can occur. If you believe that the silence issued to you was an error or unjustified, kindly contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain the situation.
+
+Keep in mind that you must use the email address associated with your osu! account and mention your username to confirm it's you.
