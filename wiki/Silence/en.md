@@ -14,15 +14,15 @@ A user who has an active silence cannot do the following:
 - Post on any of the osu! forums.
 - Post comments anywhere on the website (beatmaps, changelog, news).
 - Take part in [beatmap discussions](/wiki/Beatmap_discussion).
-- Edit profile details such as the avatar and cover.
+- Edit profile details, change the avatar, cover and userpage.
 - Submit and update beatmaps.
 - Partake in [multiplayer](/wiki/Client/Interface/Multiplayer) games.
-
-Once a silence is issued to a user, all of their messages in chat are removed and an alert will be displayed in the place of the chat input field containing the duration of the active silence.
 
 ::: Infobox
 ![](img/silence-ingame.png "Silence warning in the chat")
 :::
+
+Once a silence is issued to a user, all of their messages in chat are removed and an alert will be displayed in the place of the chat input field containing the duration of the active silence.[^chat-cleanup]
 
 ## Durations
 
@@ -57,3 +57,7 @@ Silences may also be given to users for other reasons such as but not limited to
 While silences are implemented to maintain a positive community environment, errors can occur. If you believe that the silence issued to you was an error or unjustified, kindly contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain the situation.
 
 Keep in mind that you must use the email address associated with your osu! account and mention your username to confirm it's you.
+
+## References
+
+[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
