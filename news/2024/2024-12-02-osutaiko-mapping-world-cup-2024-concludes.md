@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko Mapping World Cup 2024 concludes!"
+title: osu!taiko Mapping World Cup 2024 concludes!
 date: 2024-12-02 18:00:00 +0000
 ---
 
