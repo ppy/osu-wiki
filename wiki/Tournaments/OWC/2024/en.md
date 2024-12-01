@@ -136,23 +136,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 ## Match schedule: Finals
 
-### Saturday, 30 November 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241130T123000&p1=1440&p2=57&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=GB }:: United Kingdom | [Nov 30 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241130T140000&p1=1440&p2=37&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Finals | showmatch | [Nov 30 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241130T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-
 ### Sunday, 1 December 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Dec 01 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Australia ::{ flag=AU }:: | ::{ flag=DE }:: Germany | [Dec 01 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T123000&p1=1440&p2=57&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=GB }:: United Kingdom | [Dec 01 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T123000&p1=1440&p2=57&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=DE }:: Germany | [Dec 01 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T150000&p1=1440&p2=166&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=GB }:: United Kingdom | [Dec 01 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T150000&p1=1440&p2=166&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Australia ::{ flag=AU }:: | ::{ flag=DE }:: Germany | [Dec 01 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T123000&p1=1440&p2=57&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Grand Finals | mappool showcase | [Dec 01 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
@@ -329,6 +317,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
   3. [Annabel - Transient (dasdwqdf, maot) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/2268017#osu/4829883)
 
 ## Match results
+
+### Finals
+
+Saturday, 30 November 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Australia** ::{ flag=AU }:: | **7** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/116353913) | [#1](https://www.twitch.tv/videos/2314708086) |
+| **Germany** ::{ flag=DE }:: | **7** | 3 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/116354840) | [#1](https://www.twitch.tv/videos/2314769746) |
+| All-stars Red | 7 | 7 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/116356473) | [#1](https://www.twitch.tv/videos/2314875373) |
+
+Sunday, 1 December 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 5 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/116363241) | [#1](https://www.twitch.tv/videos/2315417594) |
 
 ### Semifinals
 
@@ -676,9 +680,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ## Notes
 
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
-[^showmatch]: Finals showmatch — All-stars from eliminated teams
-[^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
