@@ -153,7 +153,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 ### Grand Finals
 
-**[Download the mappack here (268 MB)](https://drive.usercontent.google.com/download?id=1mIk-iRaqd_p2lH1FUoWSTC79K9QDpUC5&export=download)**\
+**[Download the mappack here (268 MB, *temporary link*)](https://drive.usercontent.google.com/download?id=1mIk-iRaqd_p2lH1FUoWSTC79K9QDpUC5&export=download)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2315945072)
 
 - No Mod
