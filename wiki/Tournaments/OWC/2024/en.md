@@ -326,7 +326,7 @@ Saturday, 30 November 2024:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Australia** ::{ flag=AU }:: | **7** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/116353913) | [#1](https://www.twitch.tv/videos/2314708086) |
 | **Germany** ::{ flag=DE }:: | **7** | 3 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/116354840) | [#1](https://www.twitch.tv/videos/2314769746) |
-| Finals | 7 | 7 | showmatch | [#1](https://osu.ppy.sh/community/matches/116356473) | [#1](https://www.twitch.tv/videos/2314875373) |
+| All-stars Red | 7 | 7 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/116356473) | [#1](https://www.twitch.tv/videos/2314875373) |
 
 Sunday, 1 December 2024:
 
