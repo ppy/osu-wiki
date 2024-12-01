@@ -153,12 +153,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 ### Grand Finals
 
-**[Download the mappack here (270 MB, *temporary link*)](https://drive.google.com/file/d/1mIk-iRaqd_p2lH1FUoWSTC79K9QDpUC5/view?usp=sharing)**\
+**[Download the mappack here (268 MB)](https://drive.usercontent.google.com/download?id=1mIk-iRaqd_p2lH1FUoWSTC79K9QDpUC5&export=download)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2315945072)
 
 - No Mod
   1. [Ito Kanako - Sky of Twilight (elchxyrlia) \[Arles\]](https://osu.ppy.sh/beatmapsets/2287859#osu/4881501)
-  2. [Attoclef - Naples Yellow Mango (fanzhen0019, Hollow Wings) \[Van Gogh's Miss (feat. Hollow Wings)\] *(temporary link)*](https://leoflt.com/s/fvab)
+  2. [Attoclef - Naples Yellow Mango (fanzhen0019, Hollow Wings) \[Van Gogh's Miss (feat. Hollow Wings)\]](https://osu.ppy.sh/beatmapsets/2288022#osu/4881869)
   3. [TK from Ling tosite sigure - unravel (aishiteiru-) \[otshelnik\]](https://osu.ppy.sh/beatmapsets/2287914#osu/4881614)
   4. [XenjeS - Organic's Decay (Cut Ver.) (nooj, Feiri) \[Life Form Disintegration Ray\]](https://osu.ppy.sh/beatmapsets/2287939#osu/4881668)
   5. [XH - Corrupted Paywall (Cellina) \[Bypass\]](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677)
@@ -178,10 +178,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 - Free Mod
   1. [Dempagumi.inc - Back! to the Future (kowari) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2287983#osu/4881757)
   2. [Camellia - Yume Nikki Mega Mix (20th Anniversary Remake) (Icekalt) \[ploem\]](https://osu.ppy.sh/beatmapsets/2287988#osu/4881763)
-  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - Rubik's Cube (Heilia) \[Love x Hate x Indifference\] *(temporary link)*](https://leoflt.com/s/GsTR)
+  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - Rubik's Cube (Heilia) \[owc ver.\]](https://osu.ppy.sh/beatmapsets/2288047#osu/4881933)
   4. [First Fragment - Le Serment De Tsion (LMT) \[Kneel\]](https://osu.ppy.sh/beatmapsets/2287985#osu/4881760)
 - Tiebreaker
-  1. **[Camellia - Operation: Zenithfall (Mir, Sing, Heilia, funny) \[FINAL MISSION\]](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796)**
+  1. **[Camellia - Operation: Zenithfall (Mir, Sing, Heilia, funny, toybot) \[FINAL MISSION\]](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796)**
 
 ### Finals
 
