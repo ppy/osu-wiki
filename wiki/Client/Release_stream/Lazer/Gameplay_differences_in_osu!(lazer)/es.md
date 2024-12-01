@@ -17,7 +17,7 @@ En lugar de detener el juego mientras se llena la barra de salud, la salud se re
 | Cambiado intencionalmente | ![No][false] |
 | Necesita más consideración | ![Sí][true] |
 
-### Todos los modos de juego, a excepción de osu!catch, usan el mismo sistema de grados
+### Diferencias en el sistema de los grados
 
 En stable, los requisitos de precisión (y juicio) para cada [grado](/wiki/Gameplay/Grade) son los siguientes:
 
