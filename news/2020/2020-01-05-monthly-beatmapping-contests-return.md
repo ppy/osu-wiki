@@ -6,7 +6,7 @@ date: 2020-01-05 02:00:00 +0000
 
 It's time for a new way to flaunt your beatmapping capabilities. Find out what it takes to become osu!'s next Elite Mapper!
 
-![monthly beatmapping contest banner](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![monthly beatmapping contest banner](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Beatmapping contests have been far and few between throughout the last couple of years, but that's about to change. The Monthly Beatmapping Contest (MBC) is back with a new format! Participants must adapt to different mapping limitations each month and be evaluated by an unconventional grading system to earn some fancy rewards!
 

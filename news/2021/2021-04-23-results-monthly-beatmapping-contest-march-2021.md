@@ -6,7 +6,7 @@ date: 2021-04-23 19:30:00 +0000
 
 The jury is in! Results for last month's osu! and osu!taiko mapping contests are here, along with our newest Elite Mapper!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Unsure how the **Monthly Beatmapping Contest** (***MBC***) works? Unsure what the MBC even is? Conveniently the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) covers everything, including how contest winners are selected and their prizes!
 
