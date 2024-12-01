@@ -319,6 +319,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 ### Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1YsvoTdfHTyzxl5sI5qFnPvjWAmpkbtmyz2sdcwgD2dQ?rm=minimal).
+
 Saturday, 30 November 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
@@ -359,7 +361,7 @@ Sunday, 24 November 2024:
 
 ### Quarterfinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/17ePhTKtNcUEV43vJojotqzqs9Sgm4y564cKn20GajDM).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/17ePhTKtNcUEV43vJojotqzqs9Sgm4y564cKn20GajDM?rm=minimal).
 
 Saturday, 16 November 2024:
 
@@ -389,7 +391,7 @@ Sunday, 17 November 2024:
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1j2A1aLB9TpaJgJF4ZL0P2R5XfcRPztx68-bikXrhQV4).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1j2A1aLB9TpaJgJF4ZL0P2R5XfcRPztx68-bikXrhQV4?rm=minimal).
 
 Saturday, 9 November 2024:
 
