@@ -19,7 +19,7 @@ Una vez finalizada la introducción, el usuario podrá ver los datos del desafí
 
 ## Rango de dificultad de los beatmaps
 
-![](img/Beatmap-selection-criteria.png "Las calificaciones por estrellas específicas que los beatmaps deben seguir durante toda la semana")
+![](img/Beatmap-selection-criteria-ES.png "Las calificaciones por estrellas específicas que los beatmaps deben seguir durante toda la semana")
 
 ## Hitos de las rachas
 
@@ -27,14 +27,14 @@ Las rachas de juego se muestran en el perfil del usuario con diferentes colores 
 
 |  | Rango | Participación total | Racha diaria | Racha semanal |
 | --: | :-: | :-: | :-: | :-: |
-| ![Rango lustroso](img/tiers/lustrous.png) | Lustroso | 1080 días | 360 días | 53 semanas |
-| ![Rango radiante](img/tiers/radiant.png) | Radiante | 720 días | 240 días | 36 semanas |
-| ![Rango rodio](img/tiers/rhodium.png) | Rodio | 360 días | 120 días | 19 semanas |
-| ![Rango platino](img/tiers/platinum.png) | Platino | 180 días | 60 días | 10 semanas |
-| ![Rango oro](img/tiers/gold.png) | Oro | 90 days | 30 días | 6 semanas |
-| ![Rango plata](img/tiers/silver.png) | Plata | 30 días | 10 días | 3 semanas |
-| ![Rango bronce](img/tiers/bronze.png) | Bronce | 15 días | 5 días | 2 semanas |
-| ![Rango hierro](img/tiers/iron.png) | Hierro | menos de 15 días | menos de 5 días | menos de 2 semanas |
+| ![Rango lustroso](img/tiers/lustrous-ES.png) | Lustroso | 1080 días | 360 días | 53 semanas |
+| ![Rango radiante](img/tiers/radiant-ES.png) | Radiante | 720 días | 240 días | 36 semanas |
+| ![Rango rodio](img/tiers/rhodium-ES.png) | Rodio | 360 días | 120 días | 19 semanas |
+| ![Rango platino](img/tiers/platinum-ES.png) | Platino | 180 días | 60 días | 10 semanas |
+| ![Rango oro](img/tiers/gold-ES.png) | Oro | 90 days | 30 días | 6 semanas |
+| ![Rango plata](img/tiers/silver-ES.png) | Plata | 30 días | 10 días | 3 semanas |
+| ![Rango bronce](img/tiers/bronze-ES.png) | Bronce | 15 días | 5 días | 2 semanas |
+| ![Rango hierro](img/tiers/iron-ES.png) | Hierro | menos de 15 días | menos de 5 días | menos de 2 semanas |
 
 ## Contribuidores
 
@@ -50,7 +50,7 @@ El proyecto está organizado por ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/user
 ## Curiosidades
 
 ::: Infobox
-![](img/yt-comment.jpg "El comentario de waxxx14 en YouTube sugiriendo un formato similar al de la «copa del día» de TrackMania")
+![](img/yt-comment-ES.png "El comentario de waxxx14 en YouTube sugiriendo un formato similar al de la «copa del día» de TrackMania")
 :::
 
 - La idea del desafío diario surgió de un comentario de waxxx14 en el que solicitaba un formato similar al de la «copa del día» de [TrackMania](https://es.wikipedia.org/wiki/TrackMania) en osu!, publicado en el vídeo sobre el desarrollo de lazer [«deciding what to do with lazer»](https://www.youtube.com/watch?v=xUSxEjQQ1UI).
