@@ -63,7 +63,7 @@ Hello Hivie, thank you so much for agreeing to this interview! First up, could y
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-Hello! I'm a random person on the internet whose little corner in the world is osu!. I've been part of the [osu! team](/wiki/People/osu!_team) for the past 3 years and I've been doing a lot of things there, primarily [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) leadership, osu! medals, running the Daily Challenge, and a bunch of other internal housekeeping stuff. I do also contribute to other areas like [Project Loved](/wiki/Community/Project_Loved), [Tournament Committee](/wiki/People/Tournament_Committee), [MBC](/wiki/Contests/Monthly_Beatmapping_Contest), [osu! wiki](/wiki/osu!_wiki) maintenance, and so on.
+Hello! I'm a random person on the internet whose little corner in the world is osu!. I've been part of the [osu! team](/wiki/People/osu!_team) for the past 3 years and I've been doing a lot of things there, primarily [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) leadership, osu! medals, running the [Daily Challenge](/wiki/Gameplay/Daily_challenge), and a bunch of other internal housekeeping stuff. I do also contribute to other areas like [Project Loved](/wiki/Community/Project_Loved), [Tournament Committee](/wiki/People/Tournament_Committee), [MBC](/wiki/Contests/Monthly_Beatmapping_Contest), [osu! wiki](/wiki/osu!_wiki) maintenance, and so on.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
