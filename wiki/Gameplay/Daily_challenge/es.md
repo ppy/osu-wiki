@@ -31,7 +31,7 @@ Las rachas de juego se muestran en el perfil del usuario con diferentes colores 
 | ![Rango radiante](img/tiers/radiant-ES.png) | Radiante | 720 días | 240 días | 36 semanas |
 | ![Rango rodio](img/tiers/rhodium-ES.png) | Rodio | 360 días | 120 días | 19 semanas |
 | ![Rango platino](img/tiers/platinum-ES.png) | Platino | 180 días | 60 días | 10 semanas |
-| ![Rango oro](img/tiers/gold-ES.png) | Oro | 90 days | 30 días | 6 semanas |
+| ![Rango oro](img/tiers/gold-ES.png) | Oro | 90 días | 30 días | 6 semanas |
 | ![Rango plata](img/tiers/silver-ES.png) | Plata | 30 días | 10 días | 3 semanas |
 | ![Rango bronce](img/tiers/bronze-ES.png) | Bronce | 15 días | 5 días | 2 semanas |
 | ![Rango hierro](img/tiers/iron-ES.png) | Hierro | menos de 15 días | menos de 5 días | menos de 2 semanas |
