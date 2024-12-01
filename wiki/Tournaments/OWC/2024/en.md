@@ -140,8 +140,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=DE }:: Germany | [Dec 01 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T123000&p1=1440&p2=57&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Grand Finals | mappool showcase | [Dec 01 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Grand Finals | mappool showcase | [Dec 01 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241201T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
@@ -333,6 +332,7 @@ Sunday, 1 December 2024:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **South Korea** ::{ flag=KR }:: | **7** | 5 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/116363241) | [#1](https://www.twitch.tv/videos/2315417594) |
+| **Australia** ::{ flag=AU }:: | **7** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/116366892) | [#1](https://www.twitch.tv/videos/2315679372) |
 
 ### Semifinals
 
@@ -680,6 +680,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ## Notes
 
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
-[^losers-bracket]: Losers bracket match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
