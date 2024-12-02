@@ -122,7 +122,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 ![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg "更新前，在此区间内点击会判定为失误")
 
-[这个 Youtube 视频](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s)视频有更详细的解释。
+[这个 Youtube 视频](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s)有更详细的解释。
 
 |  |  |
 | :-- | :-: |
