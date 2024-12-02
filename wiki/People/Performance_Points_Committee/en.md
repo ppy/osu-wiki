@@ -47,12 +47,15 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 
 ### osu!taiko
 
-The osu!taiko panel was formed on 1 May 2022 in response to [a community survey regarding performance points and star rating in osu!taiko and osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) held earlier that year, as well as [major changes to the star rating algorithm](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
+The osu!taiko panel was formed on 1 May 2022 in response to [a community survey regarding performance points and star rating in osu!taiko and osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) held earlier that year, as well as [major changes to the star rating algorithm](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). In December 2024, the osu!taiko panel was once again updated via an application process alongside [major changes to the star rating algorithm](https://docs.google.com/document/d/1-k96U-3-77CSyWNbXxa3cf2AXeOIxVh8yoXowlIYc5g/edit?usp=sharing).
 
 | osu! profile | GitHub profile | Join date |
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1 May 2022 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 September 2023 |
+| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/22194163) | [Babysnakes](https://github.com/BabySnakes101) | 1 December 2024 |
+| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | [kadenbruh](https://github.com/kadenbruh) | 1 December 2024 |
+| ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [kadenbruh](https://github.com/YaniFR) | 1 December 2024 |
 
 #### Previous members
 
