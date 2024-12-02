@@ -54,7 +54,7 @@ A familiar face to the osu! community also made an appearance when [Xyris](https
     <source src="https://assets.ppy.sh/media/news/2024-12-02-crash-landing-rendezvous.mp3">
 </audio>
 
-### [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/divergence "SoundCloud") [Sydosys - Divergence](https://assets.ppy.sh/media/news/osu!taiko%20Mapping%20World%20Cup%202024%20-%20Sydosys%20-%20Divergence.osz)
+### [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/divergence "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/2UBAurx9s6AJx1ZMFQywvT "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/divergence "Bandcamp") [Sydosys - Divergence](https://assets.ppy.sh/media/news/osu!taiko%20Mapping%20World%20Cup%202024%20-%20Sydosys%20-%20Divergence.osz)
 
 Yet another familiar face showed up with [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) creating the song *Divergence*. This track shows a style that Sydosys has became synonymous with, where complex rhythms and layers allowing mappers to go wild.
 
@@ -62,7 +62,7 @@ Yet another familiar face showed up with [Sydosys](https://osu.ppy.sh/beatmaps/a
     <source src="https://assets.ppy.sh/media/news/2024-12-02-divergence.mp3">
 </audio>
 
-### [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/r4m3n50up/golden-gloss "SoundCloud") [Spehs - GOLDEN✧GLOSS](https://assets.ppy.sh/media/news/osu!taiko%20Mapping%20World%20Cup%202024%20-%20Spehs%20-%20GOLDEN+GLOSS.osz)
+### [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/r4m3n50up/golden-gloss "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=MDISRzO88iQ "YouTube") [Spehs - GOLDEN✧GLOSS](https://assets.ppy.sh/media/news/osu!taiko%20Mapping%20World%20Cup%202024%20-%20Spehs%20-%20GOLDEN+GLOSS.osz)
 
 The last custom song was made by [Spehs](https://soundcloud.com/r4m3n50up), someone who had played osu! before but had not made their presence as an artist known before. By far the most complex song in terms of timings, this song mixes many different rhythms and rapidly changing BPMs that allowed mappers to demonstrate their skills.
 
