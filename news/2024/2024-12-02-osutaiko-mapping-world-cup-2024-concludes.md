@@ -40,7 +40,7 @@ We had the chance to showcase some original works made specifically for this con
 
 ### [Chiru-san - Gleam](http://assets.ppy.sh/media/news/osu!taiko%20Mapping%20World%20Cup%202024%20-%20Chiru-san%20-%20Gleam.osz)
 
-The first custom song revealed was Chiru-san's [Gleam](https://drive.google.com/file/d/1lei5Y3aWqWMfh1k55-_wCqTl2ZAkKafQ/view?usp=sharing). This upbeat bright song was used in the first stage of the contest, with the restriction that maps had to be mechanically simple.
+The first custom song revealed was [Chiru-san](https://soundcloud.com/chiru-sancontinued)'s *Gleam*. This upbeat bright song was used in the first stage of the contest, with the restriction that maps had to be mechanically simple.
 
 <audio controls>
     <source src="https://assets.ppy.sh/media/news/2024-12-02-gleam.mp3">
