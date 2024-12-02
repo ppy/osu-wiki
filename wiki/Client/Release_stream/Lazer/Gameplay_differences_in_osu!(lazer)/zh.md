@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2198dcd505d19c40d33a0bfa764977d3c42d067c
----
-
 # osu!(lazer) 功能变化
 
 *如果想要比较 osu!(lazer) 和 osu!(stable) 的功能差别，参见： [帮助中心/升级到 lazer § 功能对比](/wiki/Help_centre/Upgrading_to_lazer#功能对比)。*
@@ -22,17 +17,17 @@ outdated_since: 2198dcd505d19c40d33a0bfa764977d3c42d067c
 | 这个更改是刻意的 | ![否][false] |
 | 这个更改需要进一步的考虑 | ![是][true] |
 
-### 除 osu!catch 外其他游戏模式使用同一套评级系统
+### 评价系统的区别
 
 在 stable 中，达成各[评价](/wiki/Gameplay/Grade)所需的准确率（和判定）条件如下：
 
 | 评价 | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
 | SS | 100% | 100% | 100% |
-| S | ≥90% (≤1% MEHs/50s，无失误) | ≥98% | ≥95% |
-| A | ≥80% (无失误) 或者 ≥90% | ≥94% | ≥90% |
-| B | ≥70% (无失误) 或者 ≥80% | ≥90% | ≥80% |
-| C | ≥60% | ≥85% | ≥70% |
+| S | GREAT/300 数量 >90% (≤1% MEH/50，无失误) | >98% | >95% |
+| A | GREAT/300 数量 >80% (无失误) 或者 GREAT/300 数量 >90% | >94% | >90% |
+| B | GREAT/300 数量 >70% (无失误) 或者 GREAT/300 数量 >80% | >90% | >80% |
+| C | GREAT/300 数量 >60% | >85% | >70% |
 
 而在 osu!(lazer) 达成各评价所需的准确率要求如下：
 
