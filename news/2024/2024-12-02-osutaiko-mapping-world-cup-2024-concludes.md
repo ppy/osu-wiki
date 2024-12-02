@@ -6,7 +6,7 @@ date: 2024-12-02 18:00:00 +0000
 
 Welcome to the recap of the osu!taiko Mapping World Cup 2024!
 
-![](/wiki/Contests/TMWC/2024/img/banner.png)
+![](/wiki/Contests/TMWC/2024/img/banner.jpg)
 
 The osu!taiko Mapping World Cup was a country-based, multi-stage osu!taiko mapping contest on a scale unlike anything seen previously in the osu!taiko scene. Across multiple rounds of mapping, we crowned our winner, the best current osu!taiko mapping country!
 
