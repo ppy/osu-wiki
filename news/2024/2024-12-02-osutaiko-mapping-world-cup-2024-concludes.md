@@ -36,7 +36,7 @@ The top 3 countries that reigned supreme have been rewarded for their excellence
 
 ## Original songs
 
-We had the chance to showcase some original works made specifically for this contest in the form of [custom songs](/wiki/osu!_originals). While they were made for this contest, the artists have agreed that all of these songs are availble for anyone in the osu! community to map, and not just in osu!taiko!
+We had the chance to showcase some original works made specifically for this contest in the form of [custom songs](/wiki/osu!_originals). While they were made for this contest, the artists have agreed that all of these songs are available for anyone in the osu! community to map, and not just in osu!taiko!
 
 ### [Chiru-san - Gleam](http://assets.ppy.sh/media/news/osu!taiko%20Mapping%20World%20Cup%202024%20-%20Chiru-san%20-%20Gleam.osz)
 
@@ -56,7 +56,7 @@ A familiar face to the osu! community also made an appearance when [Xyris](https
 
 ### [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/divergence "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/2UBAurx9s6AJx1ZMFQywvT "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/divergence "Bandcamp") [Sydosys - Divergence](https://assets.ppy.sh/media/news/osu!taiko%20Mapping%20World%20Cup%202024%20-%20Sydosys%20-%20Divergence.osz)
 
-Yet another familiar face showed up with [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) creating the song *Divergence*. This track shows a style that Sydosys has became synonymous with, where complex rhythms and layers allowing mappers to go wild.
+Yet another familiar face showed up with [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) creating the song *Divergence*. This track shows a style that Sydosys has become synonymous with, where complex rhythms and layers allowing mappers to go wild.
 
 <audio controls>
     <source src="https://assets.ppy.sh/media/news/2024-12-02-divergence.mp3">
