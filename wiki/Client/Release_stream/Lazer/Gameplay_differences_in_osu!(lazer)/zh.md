@@ -6,7 +6,7 @@
 
 ## 总览
 
-### Easy 模组在失败复活后不会暂停游玩
+### 在玩家使用 Easy 模组，并且触发失败复活后，游玩不会暂停
 
 血量立即回满，不会像 stable 一样先短暂的停顿再回复血量。
 
@@ -50,10 +50,10 @@
 
 当物件的点击时间正好位于判定区间的边缘时，不同的客户端版本可能会给出不一样的判定。
 
-| 游戏模式 | 比较（stable） | 比较 (lazer) | 比较 (lazer 回放模式) |
+| 游戏模式 | 与 stable 比较 | 与 lazer 比较 | 与 lazer 回放模式比较 |
 | :-- | :-- | :-- | :-- |
 | osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`，使用 `<=` 的 miss 区间除外 | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
+| osu!taiko | `abs(round(hit error)) < floor(hit window)`，除了 miss 判定区间使用 `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 | osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 
 |  |  |
@@ -80,7 +80,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 ### 未实现故事板触发器
 
-部分故事板含有特别的元素，需要玩家特定的输入或血量才能触发。
+部分故事板含有特别的元素，需要玩家特定的输入或处于特定的血量下才能触发。
 
 ![](img/sb-triggers.gif)
 
@@ -90,7 +90,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 ![](img/notelock.gif)
 
-在密集的排列中，能更轻松地从失误后恢复过来。
+在密集的排列中，玩家能更轻松地从失误后恢复过来。
 
 |  |  |
 | :-- | :-: |
@@ -99,11 +99,11 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
-### 滑条头的判定包含准确率
+### 点击滑条头的判定也会计入准确率
 
 ![](img/slideracc.gif)
 
-在 lazer 之前，玩家只要在 50/MEH 的判定区间内点击滑条头，就可以获得完美的分数。这是出于一些历史原因而设定的，不太适合一款节奏类音乐游戏。因此，滑条头的判定以后会更严格。
+在 lazer 之前，玩家只要在 50/MEH 的判定区间内点击滑条头，就可以获得完美的分数。这是出于一些历史原因而设定的，现在看来，这种设定不太适合一款音乐节奏游戏。因此，滑条头的判定在之后会更严格。
 
 |  |  |
 | :-- | :-: |
@@ -120,9 +120,9 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 此外，当过晚点击滑条头时，滑条球已经走过的滑条点或折返点也会判定为完成。
 
-![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg "在此区间内点击会造成miss（更新前）")
+![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg "更新前，在此区间内点击会判定为失误")
 
-[lazer 更新日志](https://www.bilibili.com/video/BV1Pe411R78b)视频有更详细的解释。[^update20231026]
+[这个 Youtube 视频](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s)视频有更详细的解释。
 
 |  |  |
 | :-- | :-: |
@@ -133,9 +133,9 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 ### 滑条尾的判定更宽松
 
-在高速滑条中，玩家只需跟随到滑条尾之前的36毫秒内就能得到完美的准确率，而不是在36毫秒这一个时间点。
+在高速滑条中，玩家的光标只需跟随到滑条尾之前的 36 毫秒内就能得到完美的准确率，而不是在 36 毫秒这一个时间点。
 
-[lazer 更新日志](https://www.youtube.com/watch?v=SlWKKA-ltZY)视频有更详细的解释。[^update20231218]
+[这个 Youtube 视频](https://www.youtube.com/watch?v=SlWKKA-ltZY)有更详细的解释。
 
 |  |  |
 | :-- | :-: |
@@ -144,9 +144,9 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
-### 漏掉滑条头会导致失误 (miss)
+### 漏掉滑条头会导致失误
 
-之前，漏掉滑条头（没有点击，或是在 miss 区间内点击）会断连，但不会导致 MISS 判定。如果完成滑条剩下的部分，仍然可以获得相应的判定。这允许玩家在没有 MISS 判定时，以较低的最大连击数获得成绩。
+之前，漏掉滑条头（没有点击，或是在 MISS 区间内点击）会断连，但不会导致 MISS 判定。如果完成滑条剩下的部分，仍然可以获得相应的判定。这允许玩家在没有 MISS 判定时，以较低的最大连击数获得成绩。
 
 在 lazer 中，错过滑条头，整个滑条会获得 MISS 判定。在此之后，你仍然可以从滑条点、折返、滑条尾上获得连击数、分数与准确率提升。
 
@@ -189,11 +189,11 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![是][true] |
 
-### 不支持 Aspire 样式的异常滑条
+### 不支持 Aspire 样式的奇异滑条
 
 ![](img/aspire-slider.gif)
 
-一些 Aspire 谱面利用了 stable 客户端中允许使用异常滑条的机制漏洞，做出了小到作为隐形圆圈使用的零长度滑条，大到跨屏幕拉伸和压缩的滑条。
+一些 Aspire 谱面利用了 stable 客户端中滑条的机制漏洞，做出了小到作为隐形圆圈使用的零长度滑条，大到跨屏幕拉伸和压缩的滑条。
 
 对 Aspire 谱面的兼容还需要进一步的讨论与考虑。比如未来游戏可能会正常支持隐形圆圈。
 
@@ -280,7 +280,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 ### 移除长条点
 
-在 stable 中，长条每100毫秒给一个连击数，而 lazer 是每一个单位的“长条点（hold note ticks）”给一个连击数。
+在 stable 中，长条每100毫秒给一个连击数，而 lazer 是每一个单位的“长条点 (hold note ticks)”给一个连击数。
 
 现在 lazer 里的长条点已被移除，只有长条的头尾才会给连击数。但是，松开滑条还是会和 stable 一样导致断连。
 
@@ -291,7 +291,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
-### 限制超快或超慢的滚动速度 (SV)
+### 超快或超慢的滚动速度 (SV) 被限制
 
 <!-- TODO: how exactly -->
 
@@ -336,12 +336,6 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | Classic 模组能够还原旧版本的效果 | ![否][false] |
 | 这个更改是刻意的 | ![否][false] |
 | 这个更改需要进一步的考虑 | ![是][true] |
-
-## 备注
-
-[^update20231026]: 更新日志的原视频地址：[preparing for pp in lazer](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s)
-
-[^update20231218]: 更新日志的原视频地址：[lazer updates (and some hidden mechanics) - October 26, 2023](https://www.youtube.com/watch?v=SlWKKA-ltZY)
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
