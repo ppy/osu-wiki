@@ -62,7 +62,16 @@ Une [mise à jour du site](https://osu.ppy.sh/home/changelog/web/2023.725.0) a p
 
 ## Décembre
 
+En parallèle à la dernière mise à jour de cette année, l'équipe osu! souhaitait que davabtage de personnes essayent osu!(lazer) et donnent leur avis via le forum avant de finaliser les mécaniques de gameplay et de permettre la distribution de [performance points](/wiki/Performance_points) pour les scores.[^feedback] Les changements suivants ont été appliqués :
 
+- La pénalité de score pour les misses à hauts combos a été réduite (`combo^1,5` comparé à `combo^2`);
+- La répartition combo-précision a été rééquilibrée, la précision comptant maintenant pour une plus grande part dans le score.
+- La notation d'osu!catch sur osu!(lazer) a été ajustée pour correspondre à celle d'osu!(stable) afin de simplifier l'obtention de valeurs de précision élevées.
+- Les mécaniques des sliders ont été ajustées pour rendre les sliders rapides plus indulgents.[^lazer-12-18]
+
+Le [Winter Fanart Contest](https://osu.ppy.sh/home/news/2023-11-07-winter-fanart-contest) de 2023 avait pour thème "les mascottes d'osu! profitant d'une festin saisonnier". En raison de ce thème très large, les participants ont eu beaucoup de liberté et de créativité pour leurs créations. Tous les finalistes ont reçu trois mois d'osu!supporter, tandis que les trois premiers gagnants ont reçu un [badge de profil](/wiki/Community/Profile_badge) en plus.[^winter-fanart]
+
+Comme pour les autres [canaux de mises à jour](/wiki/Client/Release_stream), le nombre d'utilisateurs d'osu!(lazer) est désormais visible sur le site web.[^lazer-user-count]
 
 ## Références
 
