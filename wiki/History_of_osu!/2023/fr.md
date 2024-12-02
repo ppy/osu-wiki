@@ -8,7 +8,7 @@ Grâce à une mise à jour d'osu!(lazer) le 21 janvier, les mappeurs sont mainte
 
 [osu!stream](/wiki/osu!stream), un jeu fait spécialement pour les appareils portables et doté d'éléments de gameplay uniques a été porté sur [Android](https://fr.wikipedia.org/wiki/Android) suite aux contributions de [ThePooN](https://osu.ppy.sh/users/718454) et d'autres. Jusqu'alors, le jeu n'était disponible que sur [iOS](https://fr.wikipedia.org/wiki/IOS). Une implémentation sur Android n'était pas prévue au moment où le développement de la version iOS a commencé en 2011 a cause de restrictions liées à l'audio dans l'infrastructure d'Android qui auraient lourdement affecté l'expérience de jeu.[^osu-stream-twitter][^osu-stream-pr]
 
-La page de téléchargement sur le site internet d'osu! a été revue, avec une nouvelle option pour osu!(lazer). Avant ce changement, seul osu!(stable) pouvait être téléchargé depuis le site, alors que le téléchargement d'osu!(lazer) était uniquement possible via le [début GitHub](https://github.com/ppy/osu). Le bouton de téléchargement d'osu!(lazer) a été mis sur le coté droit de la page, avec osu!(stable) à gauche, le but final étant d'inverser les deux afin de rendre osu!(lazer) plus visible
+La page de téléchargement sur le site internet d'osu! a été revue, avec une nouvelle option pour osu!(lazer). Avant ce changement, seul osu!(stable) pouvait être téléchargé depuis le site, alors que le téléchargement d'osu!(lazer) était uniquement possible via le [début GitHub](https://github.com/ppy/osu). Le bouton de téléchargement d'osu!(lazer) a été mis sur le coté droit de la page, avec osu!(stable) à gauche, le but final étant d'inverser les deux afin de rendre osu!(lazer) plus visible.[^lazer-download]
 
 ## Février
 
