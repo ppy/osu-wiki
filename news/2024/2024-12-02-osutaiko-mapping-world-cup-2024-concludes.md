@@ -16,7 +16,7 @@ If you want to read about the rules, contest format, schedule, or judging criter
 
 ![TMWC 2024 podium](/wiki/Contests/TMWC/2024/img/podium.png)
 
-After 3 stages of mapping and an extremely close finale, ::{ flag=FI }:: Team Finland was crowned the winner on October 20, beating out the second-place ::{ flag=JP }:: Team Japan and third-place ::{ flag=CN }:: Team China B by the smallest of margins. A complete breakdown of the contest results, overview of participating teams, and links to detailed scores and feedback can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1TJfreAbuk25zua2Zp5ncH1BA5QkhzEMpgkLhbal-Ri0/edit?usp=sharing).
+After 3 stages of mapping, over 100 expertly crafted maps and an extremely close finale, ::{ flag=FI }:: Team Finland was crowned the winner on October 20, beating out the second-place ::{ flag=JP }:: Team Japan and third-place ::{ flag=CN }:: Team China B by the smallest of margins. A complete breakdown of the contest results, overview of participating teams, and links to detailed scores and feedback can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1TJfreAbuk25zua2Zp5ncH1BA5QkhzEMpgkLhbal-Ri0/edit?usp=sharing).
 
 ## Final stage showcase
 
