@@ -54,7 +54,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 *Header and promotional artwork by finalist [**Nemururin**](https://osu.ppy.sh/users/26391825) from the [**New Beginnings Art Contest**](https://osu.ppy.sh/community/contests/160)!*
 
-Okay, got all that? Your next mission is to drop your masterpiece in the [Midnight Moment Art Contest Contest listing](https://osu.ppy.sh/community/contests/226) once you've finished cooking it. You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **20 days** to do so before submissions close, so don't brood over how many fireworks you're having for too long!
+Okay, got all that? Your next mission is to drop your masterpiece in the [Midnight Moment Art Contest Contest listing](https://osu.ppy.sh/community/contests/226) once you've finished cooking it. You may reupload your entry to your heart's content if you want to make any adjustments, but you only have until Sunday, 22 December (18:00 UTC) to do so before submissions close, so don't brood over how many fireworks you're having for too long!
 
 Good luck!
 
