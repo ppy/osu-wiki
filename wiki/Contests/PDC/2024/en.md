@@ -16,9 +16,9 @@ The **Pending Cup** is originally a Chinese mapping contest, which had its first
 
 | Event | Dates |
 | --: | :-- |
-| Beatmapping (1.5 months) | 2024-08-25/2024-10-10 (15:59 UTC) |
-| Judging (1.5 months) | 2024-10-10/2024-11-25 |
-| Results (1 week) | 2024-12-02 |
+| Beatmapping (2 months) | 2024-08-25/2024-10-24 (15:59 UTC) |
+| Judging (2 months) | 2024-10-24/2024-12-23 |
+| Results (1 week) | 2024-12-30 |
 
 ## Prizes
 
