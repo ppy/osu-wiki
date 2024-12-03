@@ -14,7 +14,7 @@ Lock in your drawing tools and get ready to...
 
 **Draw any of the osu! (or community) mascots sharing a moment on a winter night!**
 
-While this is our "New Year" theme, you may have correctly surmised that it's not strictly limited the associated festivities. Any scene of candid winter night will net you points. If sunny springtime flower fields come to mind, you have travelled too far into the future.
+While this is our "New Year" theme, you may have correctly surmised that it's not strictly limited to the associated festivities. Any scene of candid winter night will net you points. If sunny springtime flower fields come to mind, you have travelled too far into the future.
 
 In case you're still gathering ideas, here's a few to get the flow flowing:
 
