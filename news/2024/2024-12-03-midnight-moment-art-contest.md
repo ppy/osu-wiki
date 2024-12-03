@@ -1,18 +1,20 @@
 ---
 layout: post
 title: Midnight Moment Art Contest
-date: 2024-12-03 12:00:00 +0000
+date: 2024-12-03 13:00:00 +0000
 ---
 
-What better way to prepare for the new year than sharing cozy nocturnal moments with friends?
+What better way to prepare for the New Year than sharing cozy late-night moments with friends?
 
 ![](/wiki/shared/news/2024-12-03-midnight-moment-art-contest/banner.jpg)
 
-The dawn of a new year is calling for all osu! art extraordinaires to come together and flex their artistic prowess through our beloved osu! mascots!
+The dawn of a New Year is calling for all osu! art extraordinaires to come together and flex their artistic prowess!
 
 Lock in your drawing tools and get ready to...
 
 **Draw any of the osu! (or community) mascots sharing a moment on a winter night!**
+
+While this is our "New Year" theme, you may have correctly surmised that it's not strictly limited the associated festivities. Any scene of candid winter night will net you points. If sunny springtime flower fields come to mind, you have travelled too far into the future.
 
 In case you're still gathering ideas, here's a few to get the flow flowing:
 
@@ -26,15 +28,15 @@ In case you're still gathering ideas, here's a few to get the flow flowing:
 
 As always, a selection of the top-voted finalists will be **featured on the main menu** and receive **3 months of osu!supporter**, plus the top 3 will also receive fancy bespoke **profile badges** made from their own creations.
 
-Let's not also forget about the top 3 finalists being available for everyone as a [**limited-time selection of default profile banners**](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations)! Be sure to look into the current fanart banner roster before they disappear forever!
+In addition, the top 3 finalist artworks will be available for everyone as a [**limited-time selection of default profile banners**](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations)! Be sure to look into the current fanart banner roster before they disappear forever!
 
 ## Rules
 
 Like any contest, this one has rules. You should read through them even if you've participated before.
 
 - **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu client should it win, and to use it in promotional material for both the game (osu!) and the contest (Midnight Moment Art Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it's your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it.
-- **All entries MUST follow the contest theme and contain AT LEAST one of the osu! official or community mascots.** The mascots are not optional and neither are the new year celebrations!
-- **All entries MUST be suitable for all-ages viewing.** The new year is a time of joy and celebration — let's keep it that way!
+- **All entries MUST follow the contest theme and contain AT LEAST one of the osu! official or community mascots.** The mascots are not optional and neither are the New Year vibes!
+- **All entries MUST be suitable for all-ages viewing.** The New Year is a time of joy and celebration — let's keep it that way!
 - **SUBMIT ONLY YOUR OWN WORK. REDRAWING AND COMPOSITE WORKS ARE NOT ALLOWED.** Plagiarism sucks. Don't do it. Someone in the comments will call you out for it as has happened every other time someone's tried and they're going to do more damage to your reputation than us removing your entry from the voting will do. Use only your own work — brushes and the like are fine, but that's it! Don't redraw or trace someone else's work.
 - **Generative art programs or methods (such as AI) are NOT allowed.** This includes any kind of software that has you supply a written or visual prompt and fills in large amounts of details for you. We will know if you do this. If we somehow miss it, the community won't. Don't sully your legacy as an artist!
 - **Participants must keep a full file containing all of their entry's layers available.** We'll only ask you for this if we think it's needed to ascertain any claims regarding plagiarism or the use of generative art tools. If you don't/can't provide us this within a timely manner when we ask, we'll have no choice but to pull your listing from the contest, sorry!
@@ -52,7 +54,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 *Header and promotional artwork by finalist [**Nemururin**](https://osu.ppy.sh/users/26391825) from the [**New Beginnings Art Contest**](https://osu.ppy.sh/community/contests/160)!*
 
-Okay, got all that? Your next mission is to drop your masterpiece in [Midnight Moment Art Contest Contest listing](https://osu.ppy.sh/community/contests/226) once you've finished cooking it. You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **20 days** to do so before submissions close, so don't brood over how many fireworks you're having for too long!
+Okay, got all that? Your next mission is to drop your masterpiece in the [Midnight Moment Art Contest Contest listing](https://osu.ppy.sh/community/contests/226) once you've finished cooking it. You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **20 days** to do so before submissions close, so don't brood over how many fireworks you're having for too long!
 
 Good luck!
 
