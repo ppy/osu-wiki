@@ -1,6 +1,6 @@
 # Silence
 
-**Silence** is a term used to describe the punishment of limiting a user's means of communications within the osu! community. Members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) typically issue these silences to maintain a clean environment both on the website and in-game.
+**Silence** is the term used to describe the punishment of limiting a user's means of communications within the osu! community. Members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) typically issue these silences to maintain a clean environment, both on the website and in-game.
 
 ## Limitations
 
@@ -26,29 +26,29 @@ Once a silence is issued to a user, all of their messages in chat are removed an
 
 ## Durations
 
-The duration of a silence starts at 5 minutes and doubles for each subsequent offence, up to a maximum of 28 days, but the initial duration may vary depending on the offence committed and the user's prior history. The factors considered when determining the length of a silence include:
+The duration of a silence starts at 5 minutes and generally doubles for each subsequent offence, up to a maximum of 28 days, but the initial duration may vary depending on the offence committed and the user's prior history. The factors considered when determining the length of a silence include:
 
 - **Atmosphere:** The current chat environment's state.
 - **Frequency:** Repetitiveness regardless of previous silences given.
 - **History:** Records of previous infringements.
 - **Severity:** The seriousness of the offence committed.
 
-In some cases, users may receive a final warning before an account restriction is placed, providing an opportunity to cease the offending behaviour.
+In some cases, users may receive a final warning before an [account restriction](/wiki/Help_centre/Account_restrictions) is placed, providing an opportunity to cease the offending behaviour.
 
 ## Common reasons for silences
 
-Here are some common reasons why users get silenced in public chat, but not limited to:
+Some common reasons why users get silenced in public chat include, but are not limited to:
 
 - **Spamming or flooding:** Self-explanatory.
 - **Caps abuse:** Chatting with all uppercase letters.
 - **Inappropriate behavior/conversation:** The public chat is not a place for such discussions.
-- **Racism:** Discrimination or hatred based on race, religion, gender, or sexual orientation.
+- **Racism:** Discrimination or hatred based on race, religion, gender, sexual orientation, etc.
 - **Advertising:** Promoting products or services. This includes Discord invite links and streaming links such as Twitch and YouTube.
 - **Unwanted content:** Websites containing piracy, screamers, referrals and the like. 
 
-Silences may also be given to users for other reasons such as but not limited to:
+Silences may also be given to users for other reasons, such as (but not limited to):
 
-- **Inappropriate beatmap submission:** Details such as metadata, tags and background image.
+- **Inappropriate beatmap submission:** Details such as metadata, tags, difficulty names, and background images.
 - **Inappropriate conduct:** Places such as the forums, beatmap discussions and comments.
 - **Inappropriate profile:** Content such as avatars, covers and profile details.
 
