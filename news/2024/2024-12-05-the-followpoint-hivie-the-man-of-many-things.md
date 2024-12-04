@@ -5,7 +5,7 @@ date: 2024-12-05 17:00:00 +0000
 series: The Followpoint
 ---
 
-Ever heard of the person who does literally anything you can think of? No? Well, in this The Followpoint anniversary interview you'll learn more about such a person!
+Sometimes in order to keep the cogs turning, you need someone who does a little bit of everything. In this anniversary interview of The Followpoint, you'll learn more about such a person!
 
 ![](/wiki/shared/news/2024-12-05-the-followpoint-hivie-the-man-of-many-things/banner.jpg)
 
