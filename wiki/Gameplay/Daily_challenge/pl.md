@@ -29,14 +29,14 @@ Passy są wyświetlane na profilach użytkownika z innymi kolorami zależnie od 
 
 |  | Poziom | Łączny udział | Codzienna passa | Cotygodniowa passa |
 | --: | :-: | :-: | :-: | :-: |
-| ![Lustrous tier](img/tiers/lustrous.png) | Lśniący | 1080 dni | 360 dni | 53 tygodni |
-| ![Radiant tier](img/tiers/radiant.png) | Promienisty | 720 dni | 240 dni | 36 tygodni |
-| ![Rhodium tier](img/tiers/rhodium.png) | Rod | 360 dni | 120 dni | 19 tygodni |
-| ![Platinum tier](img/tiers/platinum.png) | Platyna | 180 dni | 60 dni | 10 tygodni |
-| ![Gold tier](img/tiers/gold.png) | Złoto | 90 dni | 30 dni | 6 tygodni |
-| ![Silver tier](img/tiers/silver.png) | Srebro | 30 dni | 10 dni | 3 tygodni |
-| ![Bronze tier](img/tiers/bronze.png) | Brąz | 15 dni | 5 dni | 2 tygodni |
-| ![Iron tier](img/tiers/iron.png) | Żelazo | mniej niż 15 dni | mniej niż 5 dni | mniej niż 2 tygodni |
+| ![Lśniący poziom](img/tiers/lustrous.png) | Lśniący | 1080 dni | 360 dni | 53 tygodni |
+| ![Promienisty poziom](img/tiers/radiant.png) | Promienisty | 720 dni | 240 dni | 36 tygodni |
+| ![Rodowy poziom](img/tiers/rhodium.png) | Rod | 360 dni | 120 dni | 19 tygodni |
+| ![Platynowy poziom](img/tiers/platinum.png) | Platyna | 180 dni | 60 dni | 10 tygodni |
+| ![Złoty poziom](img/tiers/gold.png) | Złoto | 90 dni | 30 dni | 6 tygodni |
+| ![Srebrny poziom](img/tiers/silver.png) | Srebro | 30 dni | 10 dni | 3 tygodni |
+| ![Brązowy poziom](img/tiers/bronze.png) | Brąz | 15 dni | 5 dni | 2 tygodni |
+| ![Żelazny poziom](img/tiers/iron.png) | Żelazo | mniej niż 15 dni | mniej niż 5 dni | mniej niż 2 tygodni |
 
 ## Współautorzy
 
