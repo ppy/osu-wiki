@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "The Followpoint: Hivie, the Man of Anything and Everything"
-date: 2024-11-25 17:00:00 +0000
+title: "The Followpoint: Hivie, the Man of Many Things"
+date: 2024-12-05 17:00:00 +0000
 series: The Followpoint
 ---
 
 Ever heard of the person who does literally anything you can think of? No? Well, in this The Followpoint anniversary interview you'll learn more about such a person!
 
-![](/wiki/shared/news/2024-11-25-the-followpoint-hivie-the-man-of-anything-and-everything/banner.jpg)
+![](/wiki/shared/news/2024-12-05-the-followpoint-hivie-the-man-of-many-things/banner.jpg)
 
 Welcome or welcome back to The Followpoint, a series where we interview various players and community figures to get to know them better! The series' first anniversary happened just two weeks ago, which means we're interviewing someone special both to us and the osu! community in general, [Hivie](https://osu.ppy.sh/users/14102976)!
 
 Hivie is an [osu! team](/wiki/People/osu!_team) member, but is also a [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) leader, [Project Loved](/wiki/Community/Project_Loved) manager, [medal](/wiki/Medals) coordinator, among so many other things. If you've been active in mapping or development discussion over the past years, you've surely seen him around! Funnily enough, [our first interview](https://osu.ppy.sh/home/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals) was with [Ephemeral](https://osu.ppy.sh/users/102335), who also was a community maintainer and medal developer. That, and the fact that Hivie often helps us with polishing our interviews, makes interviewing him that much more fitting for today!
 
-This interview will look slightly different from the ones you got used to, as we'd like to make it in the spirit of our first one. That means it will be less flow-based, but the questions will still be split into categories.  
+This interview will look slightly different from the ones you got used to, as we'd like to make it in the spirit of our first one. That means it will be less flow-based, but the questions will still be split into categories.
 
 I'd also like to say something at the end of this interview, but first things first, let's see what Hivie has to say! :3
 
@@ -44,10 +44,10 @@ I'd also like to say something at the end of this interview, but first things fi
     .news-chat-quote__colour-nat {
         color: #fa3703;
     }
-    
+
     .news-chat-quote__text-container ol,
     .news-chat-quote__text-container ul {
-        margin-bottom: 25px;    
+        margin-bottom: 25px;
     }
 </style>
 
@@ -156,7 +156,7 @@ Do you have plans to grind osu!taiko and get better at it? Or maybe just casuall
 
 Uh, hard to say. If you look at my [playcount graph](https://osu.ppy.sh/users/14102976#historical), you'll notice that I've yet to reach 1,000 plays a month since September 2019, which happens to be around the time I started mapping lol. Mapping and everything else has been taking most of my free time, leaving me with little patience and motivation to properly grind the game.
 
-![](/wiki/shared/news/2024-11-25-the-followpoint-hivie-the-man-of-anything-and-everything/playgraph.jpg)
+![](/wiki/shared/news/2024-12-05-the-followpoint-hivie-the-man-of-many-things/playgraph.jpg)
 
 However, I do get motivation sparks once every few months, and my improvement has been steady. My current goal is to reach #1 country rank, which I'm around 400pp away from.
 
