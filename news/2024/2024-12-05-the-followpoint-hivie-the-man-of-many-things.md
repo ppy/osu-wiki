@@ -9,7 +9,7 @@ Ever heard of the person who does literally anything you can think of? No? Well,
 
 ![](/wiki/shared/news/2024-12-05-the-followpoint-hivie-the-man-of-many-things/banner.jpg)
 
-Welcome or welcome back to The Followpoint, a series where we interview various players and community figures to get to know them better! The series' first anniversary happened just two weeks ago, which means we're interviewing someone special both to us and the osu! community in general, [Hivie](https://osu.ppy.sh/users/14102976)!
+Welcome or welcome back to The Followpoint, a series where we interview various players and community figures to get to know them better! The series' first anniversary happened just last month (November 10), which means we're interviewing someone special both to us and the osu! community in general, [Hivie](https://osu.ppy.sh/users/14102976)!
 
 Hivie is an [osu! team](/wiki/People/osu!_team) member, but is also a [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) leader, [Project Loved](/wiki/Community/Project_Loved) manager, [medal](/wiki/Medals) coordinator, among so many other things. If you've been active in mapping or development discussion over the past years, you've surely seen him around! Funnily enough, [our first interview](https://osu.ppy.sh/home/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals) was with [Ephemeral](https://osu.ppy.sh/users/102335), who also was a community maintainer and medal developer. That, and the fact that Hivie often helps us with polishing our interviews, makes interviewing him that much more fitting for today!
 
