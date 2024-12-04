@@ -15,7 +15,7 @@ Hivie is an [osu! team](/wiki/People/osu!_team) member, but is also a [Nominatio
 
 This interview will look slightly different from the ones you got used to, as we'd like to make it in the spirit of our first one. That means it will be less flow-based, but the questions will still be split into categories.
 
-I'd also like to say something at the end of this interview, but first things first, let's see what Hivie has to say! :3
+I'd also like to say something at the end of this interview, but first things first, let's see what Hivie has to say!
 
 ---
 
