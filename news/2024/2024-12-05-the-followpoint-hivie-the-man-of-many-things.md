@@ -325,7 +325,7 @@ Finally, let me ask a few more questions for you as an osu! team member. What do
 
 Has to be anything related to managing the NAT and the mapping community. It's by far the area I've put the most time and effort in, especially when considering that my beginnings were from the mapping scene.
 
-Doing things there feels... natural for me, I really enjoy pushing positive change there and making sure things run smoothly. Additionally, I tend to enter a satisfying flow state whenever I'm grinding a proposal or doing some problem solving for a BN website feature implementation.
+Doing things there feels... natural for me. I really enjoy pushing positive change there and making sure things run smoothly. Additionally, I tend to enter a satisfying flow state whenever I'm grinding a proposal or doing some problem solving for a BN website feature implementation.
 
 Despite the ups and downs (and the occasional stress waves I have to deal with), I find this to be the highlight of my overall activity.
 
