@@ -6,7 +6,7 @@ Pendant la deuxième semaine de janvier, [peppy](https://osu.ppy.sh/users/2) a �
 
 Grâce à une mise à jour d'osu!(lazer) le 21 janvier, les mappeurs sont maintenant capables de régler le temps d'aperçu d'une beatmap dans l'[éditeur](/wiki/Client/Beatmap_editor). De plus, la barre de progression a été refaite pour le skin "argon", et l'abilité de changer la surface de l'écran couverte par le mod [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) a été ajoutée. Pour finir, les [points de performance](/wiki/Performance_points) ont été activés pour les scores, ce qui a provoqué un pic d'activité chez les joueurs. Juste après la publication de la mise à jour, le nombre de scores ajoutés par jour a augmenté de 103 000 la veille à 302 000, et le nombre de joueurs simultanés a augmenté d'environ 200 à 1 600.[^lazer-jan-21]
 
-[osu!stream](/wiki/osu!stream), un jeu fait spécialement pour les appareils portables et doté d'éléments de gameplay uniques a été porté sur [Android](https://fr.wikipedia.org/wiki/Android) suite aux contributions de [ThePooN](https://osu.ppy.sh/users/718454) et d'autres. Jusqu'alors, le jeu n'était disponible que sur [iOS](https://fr.wikipedia.org/wiki/IOS). Une implémentation sur Android n'était pas prévue au moment où le développement de la version iOS a commencé en 2011 a cause de restrictions liées à l'audio dans l'infrastructure d'Android qui auraient lourdement affecté l'expérience de jeu.[^osu-stream-twitter][^osu-stream-pr]
+[osu!stream](/wiki/osu!stream), un jeu fait spécialement pour les appareils portables et doté d'éléments de gameplay uniques, a été porté sur [Android](https://fr.wikipedia.org/wiki/Android) suite aux contributions de [ThePooN](https://osu.ppy.sh/users/718454) et d'autres. Jusqu'alors, le jeu n'était disponible que sur [iOS](https://fr.wikipedia.org/wiki/IOS). Une implémentation sur Android n'était pas prévue au moment où le développement de la version iOS a commencé en 2011 à cause de restrictions liées à l'audio dans l'infrastructure d'Android qui auraient lourdement affecté l'expérience de jeu.[^osu-stream-twitter][^osu-stream-pr]
 
 La page de téléchargement sur le site internet d'osu! a été revue, avec une nouvelle option pour osu!(lazer). Avant ce changement, seul osu!(stable) pouvait être téléchargé depuis le site, alors que le téléchargement d'osu!(lazer) était uniquement possible via le [début GitHub](https://github.com/ppy/osu). Le bouton de téléchargement d'osu!(lazer) a été mis sur le coté droit de la page, avec osu!(stable) à gauche, le but final étant d'inverser les deux afin de rendre osu!(lazer) plus visible.[^lazer-download]
 
@@ -16,7 +16,7 @@ Le [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage) [BBC
 
 ## Mars
 
-Dans le concours du [skin de l'année 2022](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022), les utilisateurs pouvaient voter pour leur skin préferé. Les trois premières places, respectivement [- Koshiin -](https://osu.ppy.sh/users/19135423), [moonstaar](https://osu.ppy.sh/users/27339355), et [BatuhanYtho](https://osu.ppy.sh/users/12091015) ont reçu des badges spéciaux en guise de prix. Chaque finaliste de la première place à la dixième ont reçu différentes longueurs d'abonnement à osu!supporter.[^soty-results]
+Dans le concours du [skin de l'année 2022](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022), les utilisateurs pouvaient voter pour leur skin préféré. Les trois premières places, respectivement [- Koshiin -](https://osu.ppy.sh/users/19135423), [moonstaar](https://osu.ppy.sh/users/27339355), et [BatuhanYtho](https://osu.ppy.sh/users/12091015) ont reçu des badges spéciaux en guise de prix. Les finalistes de la première à la dixième place ont reçu des abonnements de durées différentes à osu!supporter.[^soty-results]
 
 [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) a joué toutes les beatmaps classées dans le [mode osu!](/wiki/Game_mode/osu!) en date du 12 mars et est donc le troisième a recevoir le [titre](/wiki/Community/User_title) d'[osu!completionist](/wiki/People/Completionists).[^completionist-tweet]
 
@@ -24,13 +24,13 @@ Dans le concours du [skin de l'année 2022](https://osu.ppy.sh/home/news/2023-02
 
 Une autre balise a été ajouté à la syntaxe BBCode. La balise `[imagemap]` permet d'ajouter plusieurs liens à différentes zones d'une seule image.[^imagemap-tag]
 
-En célébration du 15e anniversaire en 2022, osu! a vendu des tapis de souris en tant qu'offre a durée limitée.[^desk-mat]
+En célébration du 15e anniversaire en 2022, osu! a vendu des tapis de souris en tant qu'offre à durée limitée.[^desk-mat]
 
 ![](img/desk-mat.jpg "Tapis de souris du 15e anniversaire")
 
 ## Mai
 
-Le site [osudaily.net](https://osudaily.net/) a fourni des données datant de 2016 à inclure dans les statistiques de profil montrant le plus rang atteine par un joueur.[^highest-rank]
+Le site [osudaily.net](https://osudaily.net/) a fourni des données datant de 2016 à inclure dans les statistiques de profil montrant le plus rang atteint par un joueur.[^highest-rank]
 
 Alors que le mois de mai touchait à sa fin, des [nouvelles medailles](https://www.reddit.com/r/osugame/comments/13vma49/new_medals_are_out/) ont été créées.
 
@@ -44,13 +44,13 @@ Dans la deuxième version du mois, deux semaines plus tard, le [mode de jeu](/wi
 ![](img/osu!monthly-9.jpg "Couverture de la neuvième édition d'osu!monthly")
 :::
 
-La troisième saison d'[osu!monthly](/wiki/Community/osu!monthly) s'est achevée avec la [neuvième edition](https://osu.ppy.sh/home/news/2023-06-26-osumonthly-9), retraçant les événements les plus importants de la communauté à partir de mars 2023. Principalement en raison de la dissolution de l'équipe de mapping au sein du projet [^mapping-team-disbanding] et de l'effort considérable nécessaire à la rédaction des éditions osu!monthly, l'équipe osu!monthly a décidé de mettre le projet en suspens pour le moment. La réorganisation du travail et la publication d'éditions saisonnières ou annuelles ont été envisagées lors de diverses discussions. [^monthly-discord][^writing-proposal] [0x84f](https://osu.ppy.sh/users/7944724), un des chefs de projet de la troisième saison, a aussi publié des sondages afin de savoir ce qui intéresait la communauté et ce qu'elle souhaitait voir dans la rubrique des actualités du site osu! en général.[^news-content-1][^news-content-2]
+La troisième saison d'[osu!monthly](/wiki/Community/osu!monthly) s'est achevée avec la [neuvième edition](https://osu.ppy.sh/home/news/2023-06-26-osumonthly-9), retraçant les événements les plus importants de la communauté à partir de mars 2023. Principalement en raison de la dissolution de l'équipe de mapping au sein du projet [^mapping-team-disbanding] et de l'effort considérable nécessaire à la rédaction des éditions osu!monthly, l'équipe osu!monthly a décidé de mettre le projet en suspens pour le moment. La réorganisation du travail et la publication d'éditions saisonnières ou annuelles ont été envisagées lors de diverses discussions. [^monthly-discord][^writing-proposal] [0x84f](https://osu.ppy.sh/users/7944724), un des chefs de projet de la troisième saison, a aussi publié des sondages afin de savoir ce qui intéressait la communauté et ce qu'elle souhaitait voir dans la rubrique des actualités du site osu! en général.[^news-content-1][^news-content-2]
 
 En souvenir des deux premières saisons qui étaient publiées au format PDF, la neuvième édition du osu!monthly a été réalisée comme [un magazine](https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf) à la place des posts habituels. Il contenait des informations sur le mapping, skinning et les actualités de la communauté, ainsi que des interviews comme avec [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) et [pishifat](https://osu.ppy.sh/users/3178418).
 
 ## Juillet
 
-Une [mise à jour du site](https://osu.ppy.sh/home/changelog/web/2023.725.0) a permis aux utilisateurs de mettre à jour le pays affiché sur leur profil, a condition qu'il ne coincide pas avec le pays duquel ils se sont connectés régulièrement au cours des six derniers mois, et que le joueur ne soit pas inscrit à un tournoi en cours. Auparavent, il était possible de modifier le pays affiché en contactant l'[équipe d'assistance aux comptes](/wiki/People/Account_support_team) et en fournissant une preuve de résidence, mais cette option a été abandonnée après décembre 2021 en raison de la transmission de données sensibles et de cas fréquents d'abus.[^flag-pr][^flag-issue][^flag-news]
+Une [mise à jour du site](https://osu.ppy.sh/home/changelog/web/2023.725.0) a permis aux utilisateurs de mettre à jour le pays affiché sur leur profil, à condition qu'il ne coïncide pas avec le pays duquel ils se sont connectés régulièrement au cours des six derniers mois, et que le joueur ne soit pas inscrit à un tournoi en cours. Auparavant, il était possible de modifier le pays affiché en contactant l'[équipe d'assistance aux comptes](/wiki/People/Account_support_team) et en fournissant une preuve de résidence, mais cette option a été abandonnée après décembre 2021 en raison de la transmission de données sensibles et de cas fréquents d'abus.[^flag-pr][^flag-issue][^flag-news]
 
 ## Août
 
@@ -68,7 +68,7 @@ Plusieurs personnes ont été félicitées et ont reçu un badge de Community Co
 
 ## Décembre
 
-En parallèle à la dernière mise à jour de cette année, l'équipe osu! souhaitait que davabtage de personnes essayent osu!(lazer) et donnent leur avis via le forum avant de finaliser les mécaniques de gameplay et de permettre la distribution de [performance points](/wiki/Performance_points) pour les scores.[^feedback] Les changements suivants ont été appliqués :
+En parallèle à la dernière mise à jour de cette année, l'équipe osu! souhaitait que davantage de personnes essayent osu!(lazer) et donnent leur avis via le forum avant de finaliser les mécaniques de gameplay et de permettre la distribution de [performance points](/wiki/Performance_points) pour les scores.[^feedback] Les changements suivants ont été appliqués :
 
 - La pénalité de score pour les misses à hauts combos a été réduite (`combo^1,5` comparé à `combo^2`);
 - La répartition combo-précision a été rééquilibrée, la précision comptant maintenant pour une plus grande part dans le score.
