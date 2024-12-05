@@ -94,7 +94,7 @@ Germany finally took their first point on [Hold Your Colour](https://osu.ppy.sh/
 
 Australia, though, would not be denied. It was a double FC from ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) and ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) on [roots](https://osu.ppy.sh/beatmapsets/2139515#osu/4502914) to seal the deal, a 7–3 win for the Aussies, sending them onwards to the Grand Finals week, a top 3 finish secured for a second year in a row and a date set with a familiar nemesis, the United States.
 
-It was an emergence of the ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) show in the late stages, where skill cap trumps all, as he top-scored 5 of 9 maps — he would finish the week with an eye-popping 1.782 performance score, the highest of the entire field. The Germans, for their part, had done their job and done it well — they had finished top 4 for the 7th time straight and top 6 for a remarkable 11th year in a row, a legacy of performance few other teams could ever hope to match.
+It was an emergence of the ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) show in the late stages, where skill cap trumps all, as he top-scored 5 of 9 maps — he would finish the week with an eye-popping [1.782 performance score](https://docs.google.com/spreadsheets/d/1YsvoTdfHTyzxl5sI5qFnPvjWAmpkbtmyz2sdcwgD2dQ/edit?gid=2091468670#gid=2091468670), the highest of the entire field. The Germans, for their part, had done their job and done it well — they had finished top 4 for the 7th time straight and top 6 for a remarkable 11th year in a row, a legacy of performance few other teams could ever hope to match.
 
 ### ::{ flag=KR }:: South Korea vs. ::{ flag=US }:: United States
 
