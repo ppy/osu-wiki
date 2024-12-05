@@ -8,7 +8,7 @@ The dust has finally settled, and only 3 teams are left standing. Join us to ref
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
-Finals week. The elite of the elite. Titans of tapping. Admirals of aim. Oligarchs of osu. Six teams entered, all with battles won in the rearview but with their sternest tests yet to come — three would come out the other side, heading for the grand finals, while three would taste bitter disappointment, eliminated so close to the finish line.
+Finals week. The elite of the elite. Titans of tapping. Admirals of aim. Oligarchs of osu!. Six teams entered, all with battles won in the rearview and their sternest tests yet to come — three would come out the other side, heading for the Grand Finals, while three would taste bitter disappointment, eliminated so close to the finish line.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-H-rOKG-2C4" frameborder="0" allowfullscreen></iframe>
@@ -30,9 +30,7 @@ Finals week. The elite of the elite. Titans of tapping. Admirals of aim. Oligarc
 
 ![](/wiki/shared/news/2024-12-05-osu-world-cup-2024-finals-recap/owc-2024-f-mappool.jpg)
 
-The Finals stage pool was filled with bangers, some examples being the Hard Rock pick [roots](https://osu.ppy.sh/beatmapsets/2139515#osu/4502914) by [seros](https://osu.ppy.sh/users/10562853) acting as an aim pick with a sprinkle of alt, and [Aynane](https://osu.ppy.sh/beatmapsets/1842684#osu/3784901) (by one of our newest Featured Artists, [Zmey Gorynich](https://osu.ppy.sh/beatmaps/artists/450)) mapped by [Mazzerin](https://osu.ppy.sh/users/2942381), being the pool's main stream map. As is customary by now, the pool has its fair shared of old-school maps, one of them being [Blue Night](https://osu.ppy.sh/beatmapsets/31333#osu/116006), a classic 2011 map by [DoKiTo](https://osu.ppy.sh/users/537084), which when infused with Double Time becomes a challenge to keep up with! Looking at some more modern maps, [Lagtrain](https://osu.ppy.sh/beatmapsets/1313664#osu/2722655) also takes up a Double Time slot, although despite the song's popularity it wasn't picked at all this week.
-
----
+The Finals stage pool was filled with bangers, some examples being the Hard Rock pick [roots](https://osu.ppy.sh/beatmapsets/2139515#osu/4502914) mapped by [seros](https://osu.ppy.sh/users/10562853) acting as an aim pick with a sprinkle of alt, and [Aynane](https://osu.ppy.sh/beatmapsets/1842684#osu/3784901) (by one of our newest Featured Artists, [Zmey Gorynich](https://osu.ppy.sh/beatmaps/artists/450)) mapped by [Mazzerin](https://osu.ppy.sh/users/2942381), being the pool's main stream map. As is customary by now, the pool has its fair shared of old-school maps, one of them being [Blue Night](https://osu.ppy.sh/beatmapsets/31333#osu/116006), a classic 2011 map by [DoKiTo](https://osu.ppy.sh/users/537084), which when infused with Double Time becomes a challenge to keep up with! Looking at some more modern maps, [Lagtrain](https://osu.ppy.sh/beatmapsets/1313664#osu/2722655) also takes up a Double Time slot, although despite the song's popularity it wasn't picked at all this week.
 
 [![](/wiki/shared/news/2024-12-05-osu-world-cup-2024-finals-recap/data_eraser_banner.jpg)](https://osu.ppy.sh/beatmapsets/2284633#osu/4872735)
 
@@ -42,7 +40,7 @@ The Finals stage pool was filled with bangers, some examples being the Hard Rock
     </audio>
 </div>
 
-The Finals stage pool had 3 osu! originals, a record number thus far in the tournament. The first original was [Lusumi](https://osu.ppy.sh/beatmaps/artists/449)'s frenetic gabber-style offering [/data_eraser.wav](https://osu.ppy.sh/beatmapsets/2284633#osu/4872735), which served as a challenging No Mod tech map brought to life by [hehe](https://osu.ppy.sh/users/2123087) and [funny](https://osu.ppy.sh/users/8473573).
+The Finals stage pool had 3 [osu! originals](/wiki/osu!_originals), a record number thus far in the tournament. The first original was [Lusumi](https://osu.ppy.sh/beatmaps/artists/449)'s frenetic gabber-style offering [/data_eraser.wav](https://osu.ppy.sh/beatmapsets/2284633#osu/4872735), which served as a challenging No Mod tech map brought to life by [hehe](https://osu.ppy.sh/users/2123087) and [funny](https://osu.ppy.sh/users/8473573).
 
 [![](/wiki/shared/news/2024-12-05-osu-world-cup-2024-finals-recap/7he_osu_world_cup_2_dariacore_7imeline_banner.jpg)](https://osu.ppy.sh/beatmapsets/2284644#osu/4872751)
 
@@ -62,7 +60,7 @@ The Finals stage pool had 3 osu! originals, a record number thus far in the tour
     </audio>
 </div>
 
-For our Tiebreaker, nm-y and [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) collaborated to make an intense and exciting electronic banger in [Kaiju](https://osu.ppy.sh/beatmapsets/2284698#osu/4872864), mapped by the trio of [Aerousea](https://osu.ppy.sh/users/15664628), [9ami](https://osu.ppy.sh/users/1499997) & [oTwinkle](https://osu.ppy.sh/users/15095654). The mechanics and tech hybrid didn't end up seeing play last weekend, but you should definitely check it out regardless!
+For our tiebreaker, nm-y and [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) collaborated to make an intense and exciting electronic banger in [Kaiju](https://osu.ppy.sh/beatmapsets/2284698#osu/4872864), mapped by the trio of [Aerousea](https://osu.ppy.sh/users/15664628), [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654). The mechanics and tech hybrid didn't end up seeing play last weekend, but you should definitely check it out regardless!
 
 ## Finals summary
 
@@ -98,20 +96,26 @@ It was the emergence of the ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/756
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-H-rOKG-2C4?start=645&end=948" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Throughout this world cup, and throughout the finals weekend, there has been one matchup on people's minds — the anticipated Grand Finals matchup, and the matchup from Grand Finals in 2023, South Korea vs. the United States. With how close last year's Grand Finals was and how much both teams improved in the year since, expectations for a close, high-level match were sky-high, and this winners' Finals delivered.
+Throughout this world cup, and throughout the Finals weekend, there has been one matchup on people's minds — the anticipated Grand Finals matchup, and the matchup from Grand Finals in 2023, South Korea vs. the United States. With how close last year's Grand Finals was and how much both teams improved in the year since, expectations for a close, high-level match were sky-high, and this winners' Finals delivered.
 
-The match started off relatively predictably — South Korea banned out [Bound to Madness](https://osu.ppy.sh/beatmapsets/2284575#osu/4872589) and [Blue Night](https://osu.ppy.sh/beatmapsets/31333#osu/116006), the two most speed-focused maps in the pool, and the United States banned out [Dynasty of Extinction](https://osu.ppy.sh/beatmapsets/2284670#osu/4872796) and [Lunatic Eyes](https://osu.ppy.sh/beatmapsets/2267484#osu/4872667), both in the hidden pool. However, expectations would soon be flipped as the United States took South Korea's first pick, [Ratpark](https://osu.ppy.sh/beatmapsets/2284654#osu/4872765), by only 87,222 points.
+The match started off relatively predictably — South Korea banned out [Bound to Madness](https://osu.ppy.sh/beatmapsets/2284575#osu/4872589) and [Blue Night](https://osu.ppy.sh/beatmapsets/31333#osu/116006), the two most speed-focused maps in the pool, and the United States banned out [Dynasty of Extinction](https://osu.ppy.sh/beatmapsets/2284670#osu/4872796) and [Lunatic Eyes](https://osu.ppy.sh/beatmapsets/2267484#osu/4872667), both in the Hidden pool. However, expectations would soon be flipped as the United States took South Korea's first pick, [Ratpark](https://osu.ppy.sh/beatmapsets/2284654#osu/4872765), by only 87,222 points.
 
 This gave the United States a solid lead through the next six picks, until finally, on the United States' fourth pick and the eighth map overall, [Dear the Night I Loved](https://osu.ppy.sh/beatmapsets/2284389#osu/4872029), South Korea finally took back the early break point, tying up the match 4–4. The teams continued trading picks back and forth until finally, with South Korea having first pick, the score was 6–5 for South Korea.
 
-Throughout the match, there were displays of massive skill on a wide variety of maps and margins of difference ranging from 87k to 1.6 million points. These teams proved to be very evenly matched throughout this bout, and with the United States having last pick, the match seemed almost destined to go to tiebreaker — until suddenly it didn't.
+Throughout the match, there were displays of massive skill on a wide variety of maps and margins of difference ranging from 87k to 1.6 million points. These teams proved to be very evenly matched in this bout, and with the United States' last pick, the match seemed almost destined to go to tiebreaker — until suddenly it didn't.
 
-The United States last picked, [Horobi o Inorishi Mono](https://osu.ppy.sh/beatmapsets/2284565#osu/4872576), the Hard Rock precision, low bpm stream pick. While [Rektygon](https://osu.ppy.sh/users/7813296) would go on to top score the map with a pop-off 627,186 points, the second-highest score of the weekend, it would ultimately not be enough. South Korea took this last pick by a mere 84,436 points, closing out the match 7–5 and securing their spot in the top two and on the winners' side of the grand finals.
+The United States picked [Horobi o Inorishi Mono](https://osu.ppy.sh/beatmapsets/2284565#osu/4872576), the Hard Rock precision low-BPM stream pick. While [Rektygon](https://osu.ppy.sh/users/7813296) would go on to top-score the map with a pop-off 627,186 points, the second-highest score of the weekend, it would ultimately not be enough. South Korea took this last pick by a mere 84,436 points, closing out the match 7–5 and securing their spot in the top two and on the winners' side of the Grand Finals.
 
 ---
 
-With almost every match finished and only three teams remaining, the osu! World Cup 2024 is finally at its zenith. These last two matches are must-watch for anyone at all interested in osu! and its best players. With the top three teams matching the podium from last year, and with South Korea beating the United States in a finals or grand finals setting for the first time ever, this year is shaping up to be one of the best grand finals in OWC.
+With almost every match finished and only three teams remaining, the osu! World Cup 2024 is finally at its zenith. These last two matches are must-watch for anyone at all interested in osu! and its best players. With the top three teams matching the podium from last year, and with South Korea beating the United States in a Finals or Grand Finals setting for the first time ever, this year is shaping up to be one of the best Grand Finals in OWC.
 
 We hope you will join us on [Twitch](https://www.twitch.tv/osulive) this weekend and witness the best this game has offer. Check out [the wiki](/wiki/Tournaments/OWC/2024) for the schedules, set a reminder, and get ready for what will possibly be one of the greatest set of world cup matches this community has ever seen.
+
+In the mean time, we invite you to witness the greatest tiebreaker reveal this community has ever seen:
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/r459I7A-Rds" frameborder="0" allowfullscreen></iframe>
+</div>
 
 —0x84f, Dada, D I O, this1neguy, Walavouchey
