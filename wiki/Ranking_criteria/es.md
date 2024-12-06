@@ -138,7 +138,7 @@ Importante entender antes de usar:
   - **Los beatmaps de osu!mania no requieren de adiciones de hitsounds.**[^normal-vs-addition] Esto es para permitir una mayor accesibilidad a los mappers de osu!mania de diferentes tipos. Sigue siendo muy recomendable usar adiciones de hitsounds para mejorar la sensación de tus beatmaps.
 - **Todas las partes de los objetos en las que se haga clic deben tener al menos un hitsound...**
   - **... que tenga un impacto claro, cuyo pico no se retrase más de 5 milisegundos.** `normal-hitfinish.wav` de la skin por defecto está exento de esto.
-  - **... que use el formato de archivo WAV (`.wav`) u Ogg Vorbis (`.ogg`) sin comprimir.** Los MP3 no deberían usarse aquí, ya que tiene un retraso inherente.
+  - **... que use el formato de archivo WAV (`.wav`) u Ogg Vorbis (`.ogg`) sin comprimir.** Los MP3 no deberían usarse aquí, ya que tienen un retraso inherente.
   - Esto garantiza una respuesta audible instantánea al hacer clic en los objetos, sincronizándose con la canción de forma que los jugadores puedan determinar lo pronto o tarde que están haciendo clic. osu!mania está exento de esto debido a sus objetos concurrentes.
 - **Los hitsounds deben ser audibles.** Su propósito es proporcionar feedback, por lo que los hitsounds con un volumen extremadamente bajo o las muestras que se mezclan con las muestras las muestras de una canción son inaceptables. Los modos de juego específicos incluyen excepciones a esta regla en sus respectivos criterios de clasificación.
 - **Los puntos de previsualización deben establecerse y ser consistentes entre todas las dificultades de un beatmap.** Esto se usa tanto para el menú de selección de canciones como para la vista previa en línea.
