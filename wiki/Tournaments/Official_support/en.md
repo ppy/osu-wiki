@@ -124,7 +124,7 @@ Registrant filtering, not to be confused with [screening](#tournament-screening)
 
 In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
 
-- If a dataset of osu! multiplayer matches (or otherwise) is used, archives must be publicly available, downloadable, timestamped, and have the most recent archive be no more than 30 days out of date. Archives must remain available for at least 6 months. Documentation must be provided explaining how to reproduce the results using it — including code where applicable.
+- If a dataset of osu! multiplayer matches, player scores, or otherwise is used, archives must be publicly available, downloadable, timestamped, and have the most recent archive be no more than 30 days out of date. Archives must remain available for at least 6 months. Documentation must be provided explaining how to reproduce the results using it — including code where applicable.
   - Tournaments using such tools must disclose the dates at which they seed and/or filter players using these tools.
 - When doing qualifiers, the formula or method used to determine seeding must be included in the tournament's ruleset.
 
