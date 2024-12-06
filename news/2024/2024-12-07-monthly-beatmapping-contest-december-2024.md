@@ -64,8 +64,8 @@ Special thanks to [taba2](https://osu.ppy.sh/users/7850508), [[GB]SuddenDeath](h
 
 This month's contest is open to **osu!** and **osu!mania** mappers.
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/227)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/228)
 
 ## Timeline
 
@@ -149,8 +149,8 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 Stop reading these words and start reading the universal language on osu!: mapping. When your map is ready, plop it into one of these:
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/227)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/228)
 
 You have until **January 4th** to submit!
 
