@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: December 2024"
-date: 2024-12-07 23:45:00 +0000
+date: 2024-12-06 23:55:00 +0000
 ---
 
 It's time to create your last map of the year.
@@ -92,7 +92,7 @@ Many mappers have extrapolated on this rule, claiming that a slider is okay for 
 
 This month's contest aims to utilise this confusing rule to the fullest: **every slider's tail position must touch its head position.**
 
-![](/wiki/shared/news/2024-12-07-monthly-beatmapping-contest-december-2024/slider-examples.jpg)
+![](/wiki/shared/news/2024-12-06-monthly-beatmapping-contest-december-2024/slider-examples.jpg)
 
 If this screenshot doesn't answer all of your questions, head to the comments section.
 
@@ -100,7 +100,7 @@ If this screenshot doesn't answer all of your questions, head to the comments se
 
 osu!(stable)'s editor comes with this handy `Beat Snap Divisor` tool in the top right: 
 
-![](/wiki/shared/news/2024-12-07-monthly-beatmapping-contest-december-2024/beat-snap-divisor.jpg)
+![](/wiki/shared/news/2024-12-06-monthly-beatmapping-contest-december-2024/beat-snap-divisor.jpg)
 
 For this month's osu!mania contest:
 
