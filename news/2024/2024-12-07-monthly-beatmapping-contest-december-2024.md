@@ -31,7 +31,7 @@ This article covers results from the last contest, plus criteria for this contes
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | Winner | [KomachiBaka](https://osu.ppy.sh/users/6155320) & [Frakturehawkens](https://osu.ppy.sh/users/7458583) | [Marmalade butcher - NaRKiSSuS](https://osu.ppy.sh/beatmapsets/2288181) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 each |
-| Runner-up | [iPhone 10](https://osu.ppy.sh/users/12473857) & [-Doodle](https://osu.ppy.sh/users/12337329) | [Annabel - pedalnote](LINK) | - | +1 each |
+| Runner-up | [iPhone 10](https://osu.ppy.sh/users/12473857) & [-Doodle](https://osu.ppy.sh/users/12337329) | Annabel - pedalnote | - | +1 each |
 
 #### Top 10
 
