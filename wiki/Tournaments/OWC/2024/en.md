@@ -141,7 +141,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Dec 07 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241207T030000&p1=1440&p2=263&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-grand-final] |
-| Grand Finals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) |  |
+| Grand Finals | showmatch | [Dec 07 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241207T170000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ### Sunday, 8 December 2024
 
