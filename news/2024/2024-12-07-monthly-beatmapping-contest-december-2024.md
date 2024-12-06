@@ -10,8 +10,8 @@ It's time to create your last map of the year.
 
 Believe it or not, the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is a beatmapping contest that runs every month. This month's iteration is for **osu!** and **osu!mania** mappers:
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/227)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/228)
 
 This article covers results from the last contest, plus criteria for this contest. Skip around with these links:
 
