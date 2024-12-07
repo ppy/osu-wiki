@@ -60,7 +60,6 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 - [Challonge bracket](https://challonge.com/OWC24)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/158) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [VOD collection (Twitch)](https://www.twitch.tv/collections/P0Fp2MQ_ABijBw)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1382)
 
 ## Participants
 
@@ -140,7 +139,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Dec 07 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241207T030000&p1=1440&p2=263&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-grand-final] |
 | Grand Finals | showmatch | [Dec 07 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241207T170000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ### Sunday, 8 December 2024
@@ -148,7 +146,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Dec 08 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241208T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
-| South Korea ::{ flag=KR }:: | ::{ flag=AU }:: Australia | [Dec 08 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20241208T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
 
@@ -356,6 +353,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
   3. [Annabel - Transient (dasdwqdf, maot) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/2268017#osu/4829883)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1OGcjc_Kt5rV493JeFSB-dzPgXdUnpW_FuXEjI8IrE2s?rm=minimal).
+
+Saturday, 7 December 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/116420454) | [#1](https://www.twitch.tv/videos/2320386497) |
 
 ### Finals
 
@@ -721,7 +728,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^losers-grand-final]: Losers bracket Grand Finals match
 [^grand-finals]: Grand Finals match — final matchup depends on the losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
