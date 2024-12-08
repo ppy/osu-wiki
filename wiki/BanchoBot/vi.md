@@ -20,7 +20,7 @@ BanchoBot cũng có [hồ sơ osu!](https://osu.ppy.sh/users/3) và [tài khoả
 
 ## Lệnh
 
-*Về danh sách các lệnh client trong game, xem [Bảng điều khiển trò chuyện](/wiki/Client/Interface/Chat_console#commands-list)*
+*Về danh sách các lệnh client trong game, xem [Bảng điều khiển trò chuyện](/wiki/Client/Interface/Chat_console#danh-sách-lệnh)*
 
 BanchoBot có thể phản hồi lại lệnh từ người chơi thông qua những tin nhắn cụ thể được gõ trong chat. Tất cả các lệnh của BanchoBot bắt đầu bằng dấu chấm than (`!`) kèm theo lệnh (không phân biệt chữ hoa/thường và không có dấu cách ở giữa). Các lệnh này có thể sử dụng trong các kênh chat và thông qua tin nhắn riêng với BanchoBot.
 

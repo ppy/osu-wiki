@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 ---
 
@@ -13,7 +15,7 @@ Selamat datang di osu! wiki, basis pengetahuan open-source yang mengandung berba
 
 # Pendahuluan
 
-Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu untuk memulai permainanmu. Apabila kamu menemui suatu masalah atau merasa ragu akan hal tertentu, jangan sungkan untuk datang berkunjung ke [forum Help](https://osu.ppy.sh/forum/5).
+Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu untuk memulai permainanmu. Apabila kamu menemui masalah atau merasa ragu akan hal tertentu, jangan sungkan untuk mengunjungi [forum Help](https://osu.ppy.sh/forum/5).
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
 
@@ -24,7 +26,7 @@ Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu u
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali berbagai fitur yang osu! miliki beserta segala seluk-beluknya, mulai dari pengaturan yang tersedia, rincian teknisnya, hingga ragam format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali berbagai fitur yang osu! miliki beserta dengan seluk-beluknya, mulai dari pengaturan yang tersedia, rincian teknisnya, hingga ragam format berkas yang osu! gunakan.
 
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
@@ -46,7 +48,7 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 # [Editor beatmap](/wiki/Client/Beatmap_editor)
 
-Seluruh beatmap yang ada di osu! merupakan hasil karya para anggota komunitasnya. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari berbagai artikel berikut agar kamu dapat menguasai editor osu! dan menjadi mapper yang handal.
+Seluruh beatmap yang ada di osu! merupakan hasil karya para anggota komunitas. Apakah kamu ingin membuat beatmap dari lagu kesukaanmu, namun masih belum tahu caranya? Pelajari rangkaian artikel berikut agar kamu dapat menguasai editor osu! dan menjadi mapper yang handal.
 
 Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
 
@@ -63,14 +65,14 @@ Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebu
 
 [Submisi](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Prosedur ranking](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking criteria](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Kriteria ranking](/wiki/Ranking_criteria): [Metadata](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Aturan dan hukum
 
-Kenali berbagai prosedur dan ketentuan yang menjaga osu! dan komunitasnya tetap aman, mulai dari proses lisensi musik, pedoman penggunaan media, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
+Kenali berbagai prosedur dan ketentuan yang menjaga osu! dan komunitasnya tetap aman, mulai dari proses lisensi musik, pedoman penggunaan media, hingga etika penggunaan *chat* dan forum.
 
 [Peraturan](/wiki/Rules) • [Kode etik kontributor](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
@@ -83,9 +85,9 @@ Peraturan media: [Pedoman penggunaan konten](/wiki/Rules/Content_usage_guideline
 
 # Bantuan
 
-Temukan jawaban atas berbagai pertanyaan yang umum diajukan pada rangkaian artikel di bawah ini.
+Temukan jawaban atas berbagai pertanyaan umum pada rangkaian artikel di bawah ini.
 
-[Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Sub-forum Help](https://osu.ppy.sh/forum/5)
+[Pusat bantuan](/wiki/Help_centre) • [Penyelesaian masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Forum Help](https://osu.ppy.sh/forum/5)
 
 Pembatasan profil: [Silence](/wiki/Silence) • [Restriction](/wiki/Help_centre/Account_restrictions)
 
@@ -122,7 +124,7 @@ osu! tidak akan dapat berjalan tanpa dukungan dari para pengguna yang membantu d
 
 # Untuk pengembang
 
-Ketahui cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal, atau bantu osu! untuk dapat berkembang lebih jauh.
+Pelajari cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal, atau bantu osu! untuk dapat berkembang lebih jauh.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/Discord_servers#official)
 
