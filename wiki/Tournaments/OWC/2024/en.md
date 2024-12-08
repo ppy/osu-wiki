@@ -344,7 +344,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
   2. [-45 - Xna (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/2267990#osu/4829830)
   3. [Annabel - Transient (dasdwqdf, maot) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/2268017#osu/4829883)
 
-## Match results## Match results
+## Match results
 
 ### Grand Finals
 
