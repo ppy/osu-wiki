@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Tập tin cấu hình người dùng
 
 Đây là danh sách các tùy chọn trong tập tin `osu!.<tên tài khoản máy tính của bạn>.cfg`. Nhiều tùy chọn trong số này có sẵn thông qua [menu cài đặt](/wiki/Client/Options) trong trò chơi, và khuyến nghị bạn thay đổi chúng tại đó. Chỉ chỉnh sửa các giá trị này thủ công nếu bạn thực sự cần.

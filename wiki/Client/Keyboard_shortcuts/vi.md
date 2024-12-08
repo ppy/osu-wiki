@@ -4,6 +4,7 @@ tags:
   - hotkeys
   - keyboard
   - shortcuts
+no_native_review: true
 ---
 
 # Tra cứu phím tắt

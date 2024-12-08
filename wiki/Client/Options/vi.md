@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Tùy chọn
 
 ![Menu tùy chọn](img/options_basic-VI.png "Menu tùy chọn \(thanh bên trái\)")

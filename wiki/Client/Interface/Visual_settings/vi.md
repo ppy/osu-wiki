@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Cài đặt trực quan
 
 ![](img/visual-settings-VI.png "Menu cài đặt trực quan")

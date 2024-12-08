@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Bảng trò chuyện
 
 Từ hầu hết các màn hình trong osu!, bạn có thể nhấn `F8` hoặc nhấp vào nút `Show Chat` ở góc dưới bên phải để hiển thị bảng chat ở một phần ba dưới cùng của màn hình.
