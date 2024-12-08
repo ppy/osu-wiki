@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: S3RL"
-date: 2024-12-08 13:30:00 +0000
+date: 2024-12-08 15:30:00 +0000
 ---
 
 **S3RL** was osu!'s *9th* Featured Artist. Our library has over 450 artists at this point, so it was only a matter of time before we picked up more of **S3RL**'s music.
