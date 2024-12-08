@@ -6,7 +6,7 @@ tags:
 
 # osu!taiko Mapping World Cup 2024
 
-![contest banner](img/banner.png)
+![contest banner](img/banner.jpg)
 
 The **osu!taiko Mapping World Cup 2024** (***TMWC 2024***) was a country-based, multi-stage osu!taiko mapping contest that aimed to crown which nation was the best at creating osu!taiko beatmaps.
 
