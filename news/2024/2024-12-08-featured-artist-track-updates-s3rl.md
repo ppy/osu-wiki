@@ -55,6 +55,7 @@ Boost your own dopamine by clicking [these circles](https://osu.ppy.sh/beatmapse
 ### [S3RL x LIDA - My Girlfriend is a Raver](https://assets.ppy.sh/artists/9/Songs/S3RL_x_LIDA_-_My_Girlfriend_is_a_Raver.osz)
 
 Try one of these maps:
+
 - [The first version that reached the Ranked section](https://osu.ppy.sh/beatmapsets/1340834) hosted by [Nuvolina](https://osu.ppy.sh/users/10974170)
 - [Another osu! rendition](https://osu.ppy.sh/beatmapsets/1511331) hosted by [Aakki](https://osu.ppy.sh/users/11077540)
 - [An osu!taiko experience](https://osu.ppy.sh/beatmapsets/2087671) designed by [iRedi](https://osu.ppy.sh/users/8005579)
