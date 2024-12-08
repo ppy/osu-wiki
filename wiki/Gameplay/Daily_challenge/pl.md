@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Wyzwania dnia
 
 **Wyzwania dnia** to wieloosobowy tryb gry w [osu!(lazer)](/wiki/Client/Release_stream/Lazer) gdzie gracze mogą podbudowywać miernik codziennej passy poprzez przechodzenie kolejne codzienne beatmapy z zwiekszającą się trudnością która się resetuje co każde 7 dni.
