@@ -6,7 +6,7 @@ date: 2021-05-09 18:00:00 +0000
 
 Try your hand at this month's slow-slider-themed contest with a chance to become osu!'s next *Elite Mapper*!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 May's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) includes opportunities for [**osu!**](https://osu.ppy.sh/community/contests/127), [**osu!taiko**](https://osu.ppy.sh/community/contests/128), and [**osu!mania**](https://osu.ppy.sh/community/contests/129) mappers. Maybe next month we'll cover every mode at the same time, who knows?
 

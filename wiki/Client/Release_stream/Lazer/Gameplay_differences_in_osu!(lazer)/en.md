@@ -17,17 +17,17 @@ Instead of pausing gameplay while filling up the health bar, health is restored 
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
-### All game modes except osu!catch use the same grading system
+### Differences in grading systems
 
 In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:
 
 | Grade | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
 | SS | 100% | 100% | 100% |
-| S | ≥90% (≤1% MEHs/50s, no misses) | ≥98% | ≥95% |
-| A | ≥80% (no misses) or ≥90% | ≥94% | ≥90% |
-| B | ≥70% (no misses) or ≥80% | ≥90% | ≥80% |
-| C | ≥60% | ≥85% | ≥70% |
+| S | >90% GREATs/300s (≤1% MEHs/50s, no misses) | >98% | >95% |
+| A | >80% GREATs/300s (no misses) or >90% GREATs/300s | >94% | >90% |
+| B | >70% GREATs/300s (no misses) or >80% GREATs/300s | >90% | >80% |
+| C | >60% GREATs/300s | >85% | >70% |
 
 Meanwhile, osu!(lazer) has these accuracy cutoffs now:
 

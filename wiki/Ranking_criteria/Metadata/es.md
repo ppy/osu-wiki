@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3c04037e7e68ad747d967bcd85ce219c65b2a4a7
----
-
 # Metadatos
 
 ## General
@@ -147,13 +142,14 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 ##### Reglas: Marcadores que debes normalizar, pero no siempre añadir
 
 - **Si hay marcadores similares en el título de una canción, sustitúyelos por los marcadores correspondientes de la siguiente lista.**
-- **Si no hay marcadores, solo podrás añadirlos cuando haya varias versiones de una canción para indicar la versión correcta.**
+- **Si no hay marcadores, añade uno a la versión más corta cuando haya varias versiones de una canción con metadatos originales idénticos. Usa la opción más adecuada de la siguiente lista.**
+- **No añadas estos marcadores si una pista es la única versión conocida de una canción.**
 - `(Short Ver.)`
-  - Por lo general, se usa para indicar que existe una versión más larga. Usa este marcador cuando ya exista un marcador de duración como `-Short Ver-`, `Short Ver.`, `~Short Version~`. Esto no se aplica a los marcadores `Movie` o `Game Ver.`.
+  - Se usa para marcar las versiones más cortas cuando existen versiones largas y cortas de una canción. Algunos ejemplos de sustitución son: `-Short Ver-`, `Short`, `~Short Version~`.
 - `(Game Ver.)`
-  - Usa este marcador cuando ya exista un marcador como `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` para pistas usadas en videojuegos.
+  - Se usa para marcar las versiones de los videojuegos de las canciones. Algunos ejemplos de sustitución son: `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` para pistas usadas en videojuegos.
 - `(Movie Ver.)`
-  - Usa este marcador cuando ya exista uno como `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
+  - Se usa para marcar las versiones de las películas de las canciones. Algunos ejemplos de sustitución son: `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
 
 #### Pautas
 
