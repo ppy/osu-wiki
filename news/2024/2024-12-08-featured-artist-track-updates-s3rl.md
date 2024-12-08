@@ -4,7 +4,7 @@ title: "Featured Artist Track Updates: S3RL"
 date: 2024-12-08 13:30:00 +0000
 ---
 
-**S3RL** was osu!'s *9th* Featured Artist. Our library has over 400 artists at this point, so it was only a matter of time before we picked up more of **S3RL**'s music.
+**S3RL** was osu!'s *9th* Featured Artist. Our library has over 450 artists at this point, so it was only a matter of time before we picked up more of **S3RL**'s music.
 
 ![](https://assets.ppy.sh/artists/9/header.jpg)
 
@@ -90,7 +90,7 @@ xxxxxx xxxx [xxxx osu!taiko xxx](https://osu.ppy.sh/beatmapsets/1123726) xxxxxx 
 
 ### [S3RL - Ravers MashUp](https://assets.ppy.sh/artists/9/Songs/S3RL_-_Ravers_Mashup.osz)
 
-Everything written your DNA sequence led to the moment you play [this map](https://osu.ppy.sh/beatmapsets/912916) by [Nuvolina](https://osu.ppy.sh/users/10974170)
+Everything written in your DNA sequence led to the moment you play [this map](https://osu.ppy.sh/beatmapsets/912916) by [Nuvolina](https://osu.ppy.sh/users/10974170).
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/9/Songs/S3RL_-_Ravers_Mashup.mp3">
