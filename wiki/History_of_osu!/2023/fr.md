@@ -54,7 +54,7 @@ Une [mise à jour du site](https://osu.ppy.sh/home/changelog/web/2023.725.0) a p
 
 ## Août
 
-De mai à août, le concours de skinning [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) a été organisé pour célébrer les 15 ans d'osu! sous la forme de [skins](/wiki/Skin) représentants des beatmaps ou mascottes populaires. [Spoo](https://osu.ppy.sh/users/11805037), [Chromasia](https://osu.ppy.sh/users/7306251), et [thetasigma](https://osu.ppy.sh/users/6234482) ont respectivement remporté la première, deuxième et troisième place du concours. Le prix comprenait un badge personnalisé et des quantités variables d'osu!supporter.[^icons-of-an-era]
+De mai à août, le concours de skinning [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) a été organisé pour célébrer les 15 ans d'osu! sous la forme de [skins](/wiki/Skin) représentant des beatmaps ou mascottes populaires. [Spoo](https://osu.ppy.sh/users/11805037), [Chromasia](https://osu.ppy.sh/users/7306251), et [thetasigma](https://osu.ppy.sh/users/6234482) ont respectivement remporté la première, deuxième et troisième place du concours. Le prix comprenait un badge personnalisé et des quantités variables d'osu!supporter.[^icons-of-an-era]
 
 ::: Infobox
 ![](img/place-profile.png "Capture d'écran de la page le 20 octobre 2024")
