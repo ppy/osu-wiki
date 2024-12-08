@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2198dcd505d19c40d33a0bfa764977d3c42d067c
----
-
 # Diferencias de jugabilidad en osu!(lazer)
 
 *Para una lista comparativa de características entre lazer y stable, véase [Centro de ayuda/Actualizar a lazer § Comparación de características](/wiki/Help_centre/Upgrading_to_lazer#comparación-de-características)*
@@ -22,17 +17,17 @@ En lugar de detener el juego mientras se llena la barra de salud, la salud se re
 | Cambiado intencionalmente | ![No][false] |
 | Necesita más consideración | ![Sí][true] |
 
-### Todos los modos de juego, a excepción de osu!catch, usan el mismo sistema de grados
+### Diferencias en el sistema de los grados
 
 En stable, los requisitos de precisión (y juicio) para cada [grado](/wiki/Gameplay/Grade) son los siguientes:
 
 | Grado | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
 | SS | 100 % | 100 % | 100 % |
-| S | ≥90 % (≤1% MEH/50, sin fallos) | ≥98 % | ≥95 % |
-| A | ≥80 % (sin fallos) o ≥90 % | ≥94 % | ≥90 % |
-| B | ≥70 % (sin fallos) o ≥80 % | ≥90 % | ≥80 % |
-| C | ≥60 % | ≥85 % | ≥70 % |
+| S | >90 % de GREATs/300 (≤1 % de MEHs/50s, sin fallos) | >98 % | >95 % |
+| A | >80 % de GREATs/300 (sin fallos) o >90 % de GREATs/300 | >94 % | >90 % |
+| B | >70 % de GREATs/300 (sin fallos) o >80 % de GREATs/300 | >90 % | >80 % |
+| C | >60 % de GREATs/300 | >85 % | >70 % |
 
 Mientras tanto, osu!(lazer) ahora tiene los siguientes requisitos:
 
