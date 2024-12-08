@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2024 banner](img/owc2024-banner.jpg)
 
-The **osu! World Cup 2024** (***OWC 2024***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the fifteenth instalment of the osu! World Cup.
+The **osu! World Cup 2024** (***OWC 2024***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fifteenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2024** (***OWC 2024***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2024 offers a $10,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2024 offered a $10,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -38,7 +38,7 @@ The osu! World Cup 2024 offers a $10,000 cash prize pool and limited-edition mer
 
 ## Organisation
 
-The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu! World Cup 2024 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -143,7 +143,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/838
 
 ### Grand Finals
 
-**[Download the mappack here (268 MB, *temporary link*)](https://drive.usercontent.google.com/download?id=1mIk-iRaqd_p2lH1FUoWSTC79K9QDpUC5&export=download)**\
+**[Download the mappack here (185 MB)](https://packs.ppy.sh/P269%20-%20osu!%20World%20Cup%202024%3A%20Grand%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2315945072)
 
 - No Mod
