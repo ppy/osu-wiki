@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
+---
+
 # Silence
 
 Le **silence** est un terme utilisé pour décrire la sanction consistant à limiter les moyens de communication d'un utilisateur au sein de la communauté d'osu!. Les silences peuvent être imposés par les membres de la [Global Moderation Team](/wiki/People/Global_Moderation_Team) et de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), et ne sont imposés qu'aux utilisateurs qui ont enfreint les [règles de la communauté](/wiki/Rules).

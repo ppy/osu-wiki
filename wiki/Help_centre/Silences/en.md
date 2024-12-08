@@ -1,4 +1,4 @@
-# Silence
+# Silences
 
 **Silence** is a term used to describe the punishment of limiting a user's means of communication within the osu! community. Silences can be placed by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), and are only placed on users that have broken the [Community Rules](/wiki/Rules).
 
@@ -8,7 +8,7 @@
 ![](img/silence-profile.png "Silence record in the profile page")
 :::
 
-Users who are silenced by moderators cannot do the following:
+Users who are silenced cannot do the following:
 
 - Use [chat](/wiki/Client/Interface/Chat_console) (public and private), both in-game and on the website
 - Post on any of the osu! forums
@@ -37,7 +37,11 @@ If you believe you were silenced unfairly, contact the [account support team](/w
 - Inappropriate behaviour in public chats or forums (e.g. `#multiplayer`, beatmap discussions, comments, etc.), including — but not limited to — spamming, nonsense chat, racism, etc.
 - Uploading or posting inappropriate content via other means (e.g. profile avatars, beatmap submissions, profile details, user page bio, banner, etc.).
 
-The length of a silence may vary based on the severity of the infringement. Silences can stack on top of each other, adding more time for each one. Please note that if an offence is heavy enough, or if a player is a repeat offender, it may result in an [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
+While these are the most common reasons, silences can last any amount of time between 5 minutes and 28 days if the moderators deem it necessary due to the severity of the offence.
+
+Silences generally double in length each time they are issued to the same user. If silences overlap, their durations are added together.
+
+Very severe or repeated offences may result in an [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
 
 ## References
 

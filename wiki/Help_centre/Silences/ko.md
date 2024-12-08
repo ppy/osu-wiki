@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
+---
+
 # 사일런스
 
 **사일런스**는 osu! 커뮤니티에서 유저의 의사소통 수단을 제한하는 처벌을 설명하는 데 사용하는 용어로, [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team)과 [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team)의 구성원이 [커뮤니티 규칙](/wiki/Rules)을 위반한 유저에게만 사일런스를 적용할 수 있습니다.

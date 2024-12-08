@@ -55,14 +55,14 @@ Si vous vous trouvez du mauvais côté de nos règles communautaires, de mauvais
 
 Ces mauvaises choses peuvent inclure (*mais ne sont pas limitées à*) :
 
-- La suppression de votre capacité à discuter en jeu pendant une certaine période (appelée [silence](/wiki/Silence)).
+- La suppression de votre capacité à discuter en jeu pendant une certaine période (appelée [silence](/wiki/Help_centre/Silences)).
 - Le retrait de tout contenu illicite de votre page d'utilisateur, de votre profil ou des beatmaps téléchargées.
 - La perte du privilège d'éditer ou de modifier votre page d'utilisateur ou les détails de votre profil.
 - La perte du privilège de jouer ou de se qualifier dans les tournois organisés officiellement.
 
-Les [silences](/wiki/Silence) et autres infractions augmentent **automatiquement** leur durée de manière quasi exponentielle à chaque infraction. Les modérateurs ne contrôlent pas la durée du silence qui vous est imposé pour une infraction. Les récidivistes se verront exclus du jeu pour des périodes de plus en plus longues.
+Les [silences](/wiki/Help_centre/Silences) et autres infractions augmentent **automatiquement** leur durée de manière quasi exponentielle à chaque infraction. Les modérateurs ne contrôlent pas la durée du silence qui vous est imposé pour une infraction. Les récidivistes se verront exclus du jeu pour des périodes de plus en plus longues.
 
-Certaines infractions sont assorties d'une durée minimale (généralement 42 heures ou plus) si elles sont particulièrement graves, mais elles sont presque exclusivement réservées aux infractions graves, telles que le partage de contenu graphique ou le harcèlement impénitent d'autres utilisateurs.
+Certaines infractions sont assorties d'une durée minimale (généralement 43 heures ou plus) si elles sont particulièrement graves, mais elles sont presque exclusivement réservées aux infractions graves, telles que le partage de contenu graphique ou le harcèlement impénitent d'autres utilisateurs.
 
 Si, après plusieurs infractions, vous continuez à enfreindre les règles, votre compte peut être [définitivement et irrévocablement restreint](/wiki/Help_centre/Account_restrictions).
 

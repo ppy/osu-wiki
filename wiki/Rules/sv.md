@@ -63,7 +63,7 @@ Dessa dåliga saker kan inkludera (*men är inte begränsade till*):
 
 Silences och andra överträdelser ökar **automatiskt** i varaktighet exponentiellt med varje regelbrytning. Moderatorer kontrollerar inte hur länge du blir tystad för en regelbrytning - upprepade regelbrytare kommer bli utelåsta från spelet i allt längre tider.
 
-Vissa brott har en lägsta varaktighet (vanligtvis 48 timmar eller mer) om de är särskilt allvarliga, men de är nästan uteslutande reserverade för allvarliga överträdelser, till exempel som att dela grafiskt innehåll eller trakassera andra användare.
+Vissa brott har en lägsta varaktighet (vanligtvis 43 timmar eller mer) om de är särskilt allvarliga, men de är nästan uteslutande reserverade för allvarliga överträdelser, till exempel som att dela grafiskt innehåll eller trakassera andra användare.
 
 Om du fortsätter att bryta reglerna efter flera straff kan ditt konto bli permanent begränsat.
 
