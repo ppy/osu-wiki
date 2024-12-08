@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Penyelesaian masalah kinerja osu!
 
 Pada saat kamu melakukan/menjalankan sesuatu yang dapat menurunkan performa permainanmu, osu! akan berusaha sebisa mungkin untuk berjalan dengan pengaturan bawaan yang layak dan memberikan kamu peringatan yang sesuai.
