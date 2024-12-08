@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 40eac2ffc88cfc52c5dd2bb6574fb2f70a4ec3e6
----
-
 # Criterios de clasificación
 
 Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
@@ -134,8 +129,8 @@ Importante entender antes de usar:
 ### Reglas
 
 - **El archivo de audio de un beatmap debe...**
-  - **... usar el formato de archivo `.mp3` u `.ogg`.**
-  - **... tener una tasa de bits media no superior a 192 kbps para archivos `.mp3`, o 208 kbps para archivos `.ogg`.**
+  - **... estar codificado en MP3 (`.mp3`) u [Ogg Vorbis](https://es.wikipedia.org/wiki/Vorbis) (`.ogg`).**
+  - **... tener una tasa de bits media no superior a 192 kbps para archivos MP3, o 208 kbps para archivos Ogg Vorbis.**
   - **... tener una tasa de bits media no inferior a 128 kbps**, si existe tal fuente. En caso contrario, usa la calidad más alta disponible.
   - **... no ser codificado a partir de una tasa de bits inferior.**
 - **Un beatmap solo puede contener un archivo de canción usado por todas las dificultades.** No se admiten varios archivos de canciones dentro de un mismo beatmap, lo que provocaría un comportamiento inesperado con los tiempos de previsualización, los metadatos, etc.
@@ -143,7 +138,7 @@ Importante entender antes de usar:
   - **Los beatmaps de osu!mania no requieren de adiciones de hitsounds.**[^normal-vs-addition] Esto es para permitir una mayor accesibilidad a los mappers de osu!mania de diferentes tipos. Sigue siendo muy recomendable usar adiciones de hitsounds para mejorar la sensación de tus beatmaps.
 - **Todas las partes de los objetos en las que se haga clic deben tener al menos un hitsound...**
   - **... que tenga un impacto claro, cuyo pico no se retrase más de 5 milisegundos.** `normal-hitfinish.wav` de la skin por defecto está exento de esto.
-  - **... usa el formato de archivo `.wav` u `.ogg`.** Los `.mp3` no deberían usarse aquí, ya que tiene un retraso inherente.
+  - **... que use el formato de archivo WAV (`.wav`) u Ogg Vorbis (`.ogg`) sin comprimir.** Los MP3 no deberían usarse aquí, ya que tienen un retraso inherente.
   - Esto garantiza una respuesta audible instantánea al hacer clic en los objetos, sincronizándose con la canción de forma que los jugadores puedan determinar lo pronto o tarde que están haciendo clic. osu!mania está exento de esto debido a sus objetos concurrentes.
 - **Los hitsounds deben ser audibles.** Su propósito es proporcionar feedback, por lo que los hitsounds con un volumen extremadamente bajo o las muestras que se mezclan con las muestras las muestras de una canción son inaceptables. Los modos de juego específicos incluyen excepciones a esta regla en sus respectivos criterios de clasificación.
 - **Los puntos de previsualización deben establecerse y ser consistentes entre todas las dificultades de un beatmap.** Esto se usa tanto para el menú de selección de canciones como para la vista previa en línea.
@@ -159,7 +154,7 @@ Importante entender antes de usar:
 - **Las [compilaciones de canciones](/wiki/Beatmap/Song_compilation) u otras pistas tipo popurrí deben mezclarse limpiamente con transiciones adecuadas, y no deben incluir pausas bruscas ni fundidos largos entre diferentes canciones.** Las canciones usadas para la compilación deben ser similares en cuanto a calidad de audio, volumen y duración. Esto es para garantizar que las compilaciones ofrezcan la misma experiencia de juego que otros beatmaps. Las transiciones cruzadas son aceptables, pero deben usarse con moderación y, por lo general, no deben durar más de 5 segundos. Las transiciones con el mismo ritmo y bien planificadas son siempre una mejor opción que el fundido cruzado.
 - **La combinación de 2 canciones deben estar claramente y estrechamente relacionadas.** Ejemplos de esto incluye, pero no se limita a, que sean iteraciones de la misma serie de canciones, que estén relacionadas en letra o motivos, que sean similares en tono y/o género, etc.
 - **Las canciones cortadas deben mantener la impresión general y la intensidad de la canción completa.** Los cortes que cambien la estructura de la canción completa (como excluir o reorganizar la introducción/verso/estribillo/outro de una canción) pueden dar lugar a una representación errónea de la misma y, a menudo, provocar experiencias de jugabilidad insatisfactorias. Esto no se aplica a los cortes oficiales ni a las recreaciones de cortes oficiales.
-- **Los [sonidos de juego](/wiki/Skinning/Sounds#sonidos-dentro-de-un-beatmap), excluyendo los [hitsounds activos](/wiki/Beatmapping/Hitsound#hitsound-activo) deben usar los formatos de archivo `.mp3` u `.ogg`.** Estos archivos suelen tener duraciones largas y los archivos `.wav` son innecesariamente grandes en comparación, sin embargo `.wav` se debe usar cuando resulta en un tamaño de archivo más pequeño.
+- **Los [sonidos de juego](/wiki/Skinning/Sounds#sonidos-dentro-de-un-beatmap), excluyendo los [hitsounds activos](/wiki/Beatmapping/Hitsound#hitsound-activo) deberían usar el formato de archivo MP3 (`.mp3`) u Ogg Vorbis (`.ogg`).** Estos archivos suelen tener una duración larga y los archivos WAV (`.wav`) sin comprimir son innecesariamente grandes en comparación; sin embargo, se debería usar WAV sin comprimir cuando resulte en un tamaño de archivo menor.
 - **Evita sustituir el hit finish en los conjuntos de muestra soft/normal por muestras de hitsounds personalizados de uso frecuente.** Usar estos finishes para representar la caja/bombo o la melodía de una canción puede sonar odioso para cualquiera que desactive los hitsounds del beatmap. Se recomienda sustituir los hit whistles/claps porque esas muestras se usan más a menudo.
 
 ## Vídeo y fondo
