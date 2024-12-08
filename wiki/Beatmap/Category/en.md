@@ -30,7 +30,7 @@ Ranked beatmaps are endorsed as official content, in the sense that they have re
 
 *For history of the Loved category, see: [History of Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Community/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted if it moves out of Loved (this usually only happens on the creator's request). Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
+Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Community/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted if it moves out of Loved. Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
 
 ## History
 

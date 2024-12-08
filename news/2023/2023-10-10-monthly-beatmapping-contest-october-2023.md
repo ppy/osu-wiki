@@ -6,7 +6,7 @@ date: 2023-10-11 10:00:00 +0000
 
 Rumors say that you're the world's #1 mapper. Now's your chance to prove it.
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 For those out of the loop, the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is exactly what you'd expect: a mapping contest that runs each month... for different game modes.
 

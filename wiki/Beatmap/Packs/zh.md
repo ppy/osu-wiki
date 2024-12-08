@@ -4,6 +4,8 @@ tags:
   - pack
   - 曲包
   - 谱面包
+outdated_translation: true
+outdated_since: ca95f2744ae16917888912abc241bed2c5181f32
 ---
 
 # 曲包

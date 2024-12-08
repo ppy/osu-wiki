@@ -23,7 +23,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [osu!mania Map Yapım Kılavuzu](osu!mania_Mapping_Guide)
 - [Ofseti Doğru Vuruşa Ayarlamak](Setting_the_Offset_on_the_Correct_Beat)
 - [Bir Beatmap Projesi Başlatmak](Starting_a_Beatmap_Project)
-- [YouTube'dan Videolar](Videos_from_YouTube)
 
 ## Modlama
 
