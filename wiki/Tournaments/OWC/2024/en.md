@@ -361,7 +361,7 @@ Sunday, 8 December 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **South Korea** ::{ flag=KR }:: | **7** | 4 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/116432947) | [#1](https://www.twitch.tv/videos/2321357590) (re-upload, no chat) /  [#1](https://www.twitch.tv/videos/2321611793), [#2](https://www.twitch.tv/videos/2321612622) (split VODs with chat) |
+| **South Korea** ::{ flag=KR }:: | **7** | 4 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/116432947) | [#1](https://www.twitch.tv/videos/2321357590) (reupload, no chat) /  [#2](https://www.twitch.tv/videos/2321611793), [#3](https://www.twitch.tv/videos/2321612622) (split VODs with chat) |
 
 ### Finals
 
