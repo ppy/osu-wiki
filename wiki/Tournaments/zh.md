@@ -31,6 +31,7 @@ outdated_translation: true
 | [osu! 世界杯 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=KR }:: 韩国 |
 | [osu! 世界杯 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
 | [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
+| [osu! 世界杯 2024](OWC/2024) | 2024-10-26 | 2023-12-08 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=AU }:: 澳洲 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
