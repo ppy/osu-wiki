@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 32b8cbe53f7b9a5ee6408f6e905d6b5f7557bb7c
 tags:
   - BN
   - BNG
@@ -8,7 +6,7 @@ tags:
 
 # Beatmap Nominators
 
-*Véase también: [Reglas para los Beatmap Nominators](Rules), [Expectativas de los Beatmap Nominators](Expectations), [Información general de los Beatmap Nominators](General_Information) y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Véase también: [Reglas para los Beatmap Nominators](Rules), [Expectativas de los Beatmap Nominators](Expectations), [Información general para los Beatmap Nominators](General_Information) y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
 Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_group) que dice `BN`.
 
@@ -28,9 +26,9 @@ Aproximadamente cada tres meses, el [Nomination Assessment Team](/wiki/People/No
 
 ### Beatmap Nominators provisionales
 
-El período de prueba se usa para monitorear más de cerca a los nuevos Beatmap Nominators. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
+El periodo de prueba se usa para monitorear más de cerca a los nuevos Beatmap Nominators. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los Beatmap Nominators provisionales son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de cumplir con el doble de sus [requisitos de actividad](/wiki/People/Beatmap_Nominators/Rules#requisitos) o después de un mes de haber sido puestos ahí, lo que suceda primero.
+Los Beatmap Nominators provisionales deben tener al menos **3** beatmaps nominados que hayan sido clasificados. Son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de un mes, y la evaluación puede ocurrir antes si tienen **6** nominaciones clasificadas a principios de mes.
 
 A los nuevos miembros de los Beatmap Nominators se les asignará un compañero del NAT con el que podrán ponerse en contacto directamente en caso de preguntas u orientación. Después de su primera evaluación, serán promovidos a Beatmap Nominators completos luego de una evaluación positiva, o serán retirados de los Beatmap Nominators.
 
@@ -51,7 +49,7 @@ Los Beatmap Nominators reciben los siguientes beneficios:
 
 Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
 
-Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominators hablan inglés en adición a los idiomas listados debajo a menos que se especifique otra cosa.*
+Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominators hablan inglés además de los idiomas indicados a continuación, a menos que se indique lo contrario.*
 
 ### Beatmap Nominators completos
 
