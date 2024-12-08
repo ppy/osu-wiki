@@ -234,37 +234,37 @@ As per tradition, this part of the news post is reserved for a few questions for
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-Utiba.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
 Hello there, congrats on achieving the first-ever top 3 placement for Thailand! Did you have any strategies this year in particular that you think contributed to this achievement?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/avatars/_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
 I don't think we had any special strategy because the Thailand team heavily relies on our main players such as [konkawe](https://osu.ppy.sh/users/15665805) and [--Pavin--](https://osu.ppy.sh/users/12046267), but if I have to say what made us come this far, it would have to be how much effort we put into practising to keep improving throughout the entire tournament.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-Utiba.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
 Your [match against South Korea](https://www.twitch.tv/videos/2251727183) was completely unexpected with your team winning 7–1. What were your thoughts going through the match and coming out on top?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/avatars/_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
 Honestly, the result is really unexpected for us as South Korea is a team that is favoured to get top 3, and if we won we would get a guaranteed top 3 finish for the first time. So the amount of pressure we had before the match was really high, but when we played in the match, everyone was popping off, and we were able to go through the match like it was nothing. It was so much more unexpected than the result we've shown in many maps beforehand, but after we won I felt relieved and happy as it felt like all the pressure we had gone away.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-Utiba.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
 If there's one memorable moment throughout the tournament that you feel is worth sharing, what would it be and why?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/avatars/_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
@@ -286,13 +286,13 @@ Lastly, I would like to thank the MWC2024 Thailand team for practising and makin
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 We're glad to see the tournament coming to an end! How well do you think this year's picks have been received, both by players and by the community?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/avatars/Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
@@ -304,13 +304,13 @@ While SV picks have been received well, some of the risks and bets we've taken t
 
 Over the years, there has been a lot of progress in making gimmicks more telegraphed, polished, and accessible. Despite the different landscape, I do believe we've come back to a point where SVs are too hard for team tournament usage. We've learned a lot, but there's still room for improvement.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 Tell us a bit about yourself. What does being the head SV mappooler entail? What considerations does it come with as opposed to pooling for other skillsets?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/avatars/Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
@@ -318,13 +318,13 @@ SV pooling is completely different from the rest of picks. It is nigh impossible
 
 There is so much more than meets the eye, and two categories alone do not encompass the nuances of the skill set. More importantly, each SV pick should feel unique. Each pick is heavily nuanced by the mappers, and their outputs can be wildly different. And while this makes it harder to balance, it also makes it fun and interesting!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 Despite being considered a niche skill by many players, SV still gets to shine as a category in MWC. From a pooler's perspective, what are the primary reasons for the decision to include SV in the world cups?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/avatars/Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
@@ -346,25 +346,25 @@ Supa7onyz (also known as [[GB]Azukisan](https://osu.ppy.sh/users/5378805) here o
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 How would you describe yourself and your music?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/avatars/Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
 Variety in styles, always trying new stuff, always seeking for "*interestingness*" in music, as I always wrote in my personal descriptions: "I never *create* music, I just *play* with them".
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 *Les Cadences Magiques* is the first time an osu! original has been placed in the SV slot upon request. What concept did you have for the track, and how did it come about?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/avatars/Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
@@ -372,49 +372,49 @@ I was rather obsessed in the concept of "rhythms" and "grooves" recently. During
 
 ~~(Also thanks Paturages for helping me translate the title into French lol)~~
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 As an active rhythm game player, has your playing experience influenced your approach to composing music for them?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/avatars/Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
 Playing rhythm games and listening to their music not only brought me into the world of DTM (desktop music), but also influenced my composition style until now. I still play various rhythm games now, and I still keep finding interesting new stuffs that I can use in my future compositions.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Do you remember a specific moment or game that inspired you to start composing music for rhythm games?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/avatars/Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
 I can't really tell which particular game that led me into making music, but games like Rhythm Master (节奏大师), Rayark games (Deemo & Cytus) and Dynamix are like the pioneers which shaped my initial taste of rhythm game music, or rather, a wider range of music.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Since you're known by several names, would you mind explaining why an artist might release songs under different aliases? In your case, are there any special meanings to the pseudonyms you use?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/avatars/Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
 Sometimes for hiding identity, sometimes for trying out new genre(s), but for most of the time using different aliases is just for fun. In my case, I use different aliases when trying to make music in different genres and styles, e.g. *Normal1zer* in HDM (Hardstyle/Hardcore) only, *Supa7onyz* in most non-HDM genres, or *5-let* when a massive amount of weird rhythm changes are involved.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Do you have any artists that you often take inspiration from?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/avatars/Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
