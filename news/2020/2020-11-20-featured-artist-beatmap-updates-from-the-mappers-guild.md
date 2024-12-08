@@ -183,7 +183,7 @@ This quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754
 
 These beatmaps were featured in the [kiraku featured artist announcement](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)!
 
-![MBC banner](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![MBC banner](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 For each **MBC finalists** quest, the mappers had to create and rank at least 1 mapset of any submission that reached the voting or judging stage in its respective month.
 
