@@ -6,7 +6,7 @@ date: 2021-04-08 19:00:00 +0000
 
 Compete with other mappers to find out who holds the crown in this slidershape-themed mapping contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 This month's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) includes opportunities for **osu!**, **osu!taiko**, and **osu!catch** mappers. If you're an osu!mania mapper, next month is your time to shine.
 

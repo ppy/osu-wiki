@@ -1,6 +1,6 @@
 # Archivo skin.ini
 
-*Véase también: [skin.ini en blanco](/wiki/Skinning/skin.ini/Blank)*
+*Véase también: [Archivo skin.ini en blanco](/wiki/Skinning/skin.ini/Blank)*
 
 El `skin.ini` es un archivo de inicialización que se encuentra en casi todas las carpetas de skins.
 Este archivo definirá cómo osu! mostrará ciertos elementos de las skins.
@@ -160,18 +160,19 @@ osu! organiza los comandos con un comando de encabezado. Que puede verse así `[
 - `Name:`
   - Pregunta: ¿Cuál será el nombre de esta skin?
   - Valor: texto *(nombre de la skin)*
-  - Por defecto: *(vacío)*
+  - Por defecto: `Unknown`
   - Notas:
-    - En este momento, este comando no se usa.
-    - El cliente osu! se referirá al nombre de la carpeta al hacer el listado.
+    - Después de exportar la skin, el nombre del archivo será `<Nombre>.osk`.
+      - En [osu!(lazer)](/wiki/Client/Release_stream/Lazer), el nombre de archivo es `<Nombre> (<Autor>).osk`.
+    - El selector de skins usa los nombres de las carpetas, no los nombres dados por esta opción.
+      - En [osu!(lazer)](/wiki/Client/Release_stream/Lazer), las opciones del selector de skins tienen el formato `<Nombre> (<Autor>)`, o `<Nombre> [<.nombre de archivo del osk>] (<Autor>)` si el nombre en el `skin.ini` es diferente al nombre del archivo `.osk`.
 - `Author:`
   - Pregunta: ¿Quién es el autor de esta skin?
   - Valor: texto *(creador de la skin)*
   - Por defecto: *(vacío)*
   - Notas:
-    - En este momento, este comando no se usa.
-    - Usa tu nombre de usuario.
-      - Es preferible que uses tu nombre de usuario del sitio web.
+    - En [osu!(lazer)](/wiki/Client/Release_stream/Lazer), después de exportar la skin, el nombre del archivo será `<Nombre> (<Autor>).osk`.
+    - En [osu!(lazer)](/wiki/Client/Release_stream/Lazer), las opciones del selector de skins tienen el formato `<Nombre> (<Autor>)`, o `<Nombre> [<.nombre de archivo del osk>] (<Autor>)` si el nombre en el `skin.ini` es diferente al nombre del archivo `.osk`.
 - `Version:`
   - Pregunta: ¿Cómo debería comportarse la skin?
   - Valor: Un [número de versión](/wiki/Skinning/skin.ini#versiones) o `latest`
@@ -789,5 +790,5 @@ Keys: 5
   - Pregunta: ¿Cuál será el nombre de la imagen de hit300?
   - Valor: texto *(ruta de la imagen)*
 - `Hit300g:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de hit300g? 
+  - Pregunta: ¿Cuál será el nombre de la imagen de hit300g?
   - Valor: texto *(ruta de la imagen)*
