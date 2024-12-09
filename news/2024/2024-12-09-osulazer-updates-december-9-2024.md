@@ -26,7 +26,7 @@ While top players have been hard at work making world cup history for the past f
 - **The idle time before gameplay loads has been increased when hovering controls.** Now there's more time to ponder whether the background dim percentage is just right.
 - **A toggle has been added for star fountains during gameplay.** No more star fountain jump scares.
 
-![](/wiki/shared/news/2024-12-09-osulazer-updates-december-9-2024/star-fountain.jpg)
+![](/wiki/shared/news/2024-12-09-osulazer-updates-december-9-2024/star-fountain.png)
 
 - **Your score will be saved even if you quick-restart after passing a map.** Rest in peace to all the subpar runs that were tossed into the void so far.
 - **The "watch replay" button now works on first press.** No, your mouse wasn't broken after all.
@@ -53,7 +53,7 @@ While top players have been hard at work making world cup history for the past f
 - **Playlists can now be closed within 5 minutes after creation.** A more sane alternative than having to poke peppy.
 - **Hold-for-pause during gameplay has been re-added.** This time it's a toggle, meaning that sometimes you *can* get the best of both worlds.
 
-![](/wiki/shared/news/2024-12-09-osulazer-updates-december-9-2024/hold-to-pause.jpg)
+![](/wiki/shared/news/2024-12-09-osulazer-updates-december-9-2024/hold-to-pause.png)
 
 - **A map's maximum achievable pp can now be displayed with a skin element.** Select the `MaxPP` attribute for the `BeatmapAttributeText` skin element in the skin editor, and voilà.
 - **Gameplay settings have been added to the spectator screens.** This is the same menu that appears before playing a map or while watching a replay.
