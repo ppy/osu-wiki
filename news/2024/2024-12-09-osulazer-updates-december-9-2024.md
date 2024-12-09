@@ -62,4 +62,6 @@ While the community has been indulging themselves to some top of the line osu! g
 
 ---
 
+All the cool kids are on osu!(lazer), so why not give it a [quick download](https://osu.ppy.sh/home/download) and check it out? If you are interested in all the nitty-gritty details related to this release, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.1208.0)!
+
 —0x84f & Walavouchey
