@@ -1,32 +1,30 @@
 # Элитные номинаторы
 
-**Элитные номинаторы** - это члены команды [номинаторов](/wiki/People/Beatmap_Nominators) и [команды оценки номинаций](/wiki/People/Nomination_Assessment_Team), которые сделали все возможное для того чтобы продемонстрировать исключительную преданность [процессу ранкинга](/wiki/Beatmap_ranking_procedure) и общему состоянию сообщества [маппинга](/wiki/Beatmapping), став одними из лучших номинаторов своего времени.
+**Элитные номинаторы** - это члены команды [номинаторов](/wiki/People/Beatmap_Nominators) и [команды оценки номинаций](/wiki/People/Nomination_Assessment_Team), которые продемонстрировали исключительную преданность [процессу ранкинга](/wiki/Beatmap_ranking_procedure) и сообществу [маппинга](/wiki/Beatmapping) в целом, став одними из лучших номинаторов своего времени.
 
-Элитные номинаторы отбираются командой по оценке номинаций на основе множества факторов, включая, но не ограничиваясь такими как:
+Элитные номинаторы отбираются командой по оценке номинаций на основе множества факторов, например:
 
 - Количество [номинаций](/wiki/Beatmap_ranking_procedure#nominations)
 - Качество номинированных карт
 - Качество [моддинга](/wiki/Modding)
-- Количество и [серьёзность](/wiki/People/Nomination_Assessment_Team/SEV_rating) отправленных [сбросов номинаций](/wiki/Beatmap_ranking_procedure#nomination-resets)
+- Количество нарушений в [сброшенных номинаций](/wiki/Beatmap_ranking_procedure#nomination-resets) и их [серьёзность](/wiki/People/Nomination_Assessment_Team/SEV_rating)
 - Количество проведённых проверок [контроля качества](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance)
-- Заметные вклады в сообщество маппинга (создание инструментов, проведение ивентов сообщества, и так далее)
+- Заметный вклад в сообщество маппинга (написание программ и утилит, проведение ивентов и т.д.)
 - Другие качества, которые выделяют номинатора среди остальных
 
 Начиная с [7 февраля 2020](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019), элитные номинаторы отмечаются в новостях и награждаются:
 
-- [Титулом](/wiki/Community/User_title) "Elite Nominator", который остаётся на 1 год до следующей волны отбора элитных номинаторов, или до тех пор пока пользователь не покинет состав номинаторов. Если пользователь получает титул повторно на протяжении нескольких лет подряд, его уровень увеличивается на 1 ("Elite Nominator II", и так далее).
-- [Значком профиля](/wiki/Community/Profile_badge) элитного номинатора, остающимся навсегда.
+- [Титулом](/wiki/Community/User_title) "Elite Nominator", который остаётся на 1 год до следующей волны отбора элитных номинаторов или до тех пор, пока пользователь не уйдёт из номинаторов. Если пользователь получает титул повторно на протяжении нескольких лет подряд, его уровень увеличивается на 1 ("Elite Nominator II" и т.д.)
+- [Значком профиля](/wiki/Community/Profile_badge) элитного номинатора, остающимся навсегда
   ![Значок "Elite Nominator"](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 'Значок "Elite Nominator"') ![Значок "Elite Nominator II"](https://assets.ppy.sh/profile-badges/elite-nominator-2.png 'Значок "Elite Nominator II"')
 
 ## Список элитных номинаторов
 
 ### 2019
 
-*См. новостной пост: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+*См. новость: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
-<!-- порядок появления в списках ниже должен соотвествовать новостным сообщениям -->
-
-| Name | Game mode |
+| Ник | Режим |
 | :-- | :-- |
 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097) | osu! |
 | ::{ flag=US }:: [Cheri](https://osu.ppy.sh/users/5226970) | osu! |
@@ -42,9 +40,9 @@
 
 ### 2020
 
-*См. новостной пост: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+*См. новость: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
-| Name | Game mode |
+| Ник | Режим |
 | :-- | :-- |
 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097) | osu! |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
@@ -60,9 +58,9 @@
 
 ### 2021
 
-*См. новостной пост: [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
+*См. новость: [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
 
-| Name | Game mode |
+| Ник | Режим |
 | :-- | :-- |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | osu! |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | osu! |
@@ -83,9 +81,9 @@
 
 ### 2022
 
-*См. новостной пост: [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
+*См. новость: [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
 
-| Name | Game mode |
+| Ник | Режим |
 | :-- | :-- |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | osu! |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | osu! |
@@ -104,9 +102,9 @@
 
 ### 2023
 
-*См. новостной пост: [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
+*См. новость: [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
 
-| Name | Game mode |
+| Ник | Режим |
 | :-- | :-- |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | osu! |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | osu! |
