@@ -3,6 +3,8 @@ stub: true
 tags:
   - hit objects
   - repeats
+  - reverse slider
+  - reverses
   - objetos
   - golpeo
   - repetidor
