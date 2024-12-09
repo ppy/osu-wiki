@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
+---
+
 # Silencio
 
 El **silencio** es un término usado para describir el castigo de limitar los medios de comunicación de un usuario dentro de la comunidad de osu!. Los silencios pueden ser colocados por miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) y del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), y solo se colocan en usuarios que han infringido las [reglas de la comunidad](/wiki/Rules).

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
+---
+
 # Susturma
 
 **Susturma**, osu! topluluğunda bir kullanıcının başkalarıyla olan iletişiminin kısıtlanmasına denir. Susturma işlemini [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team) ve [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) üyeleri yapabilir, ve susturma yalnızca [Topluluk Kurallarına](/wiki/Rules) uymayan kullanıcılara verilir.
