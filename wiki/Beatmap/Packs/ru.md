@@ -12,7 +12,7 @@
 F2 - Rohi Pack.zip
 ```
 
-`F2` значит, что это второй набор карт, доступный в категории "Рекомендованные Исполнители" ("Featured Artist"), когда как `Rohi Pack` относится к названию набора в [списке наборов карт](https://osu.ppy.sh/beatmaps/packs/F2). В частности, этот набор исключительно выделяет карты под песни [Rohi](https://osu.ppy.sh/beatmaps/artists/82).
+`F2` значит, что это второй набор карт, доступный в категории "Рекомендованные Исполнители" ("Featured Artist"), тогда как `Rohi Pack` относится к названию набора в [списке наборов карт](https://osu.ppy.sh/beatmaps/packs/F2). В частности, этот набор исключительно выделяет карты под песни [Rohi](https://osu.ppy.sh/beatmaps/artists/82).
 
 Некоторые наборы карт, особенно в категории Standard, также пронумерованы по порядку загрузки. Например, [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (pack `S1000`) - 1000-ый набор, содержащий [рейтинговые](/wiki/Beatmap/Category#ranked) и [одобреные](/wiki/Beatmap/Category#approved) карты для [режима игры osu!](/wiki/Game_mode/osu!).
 
