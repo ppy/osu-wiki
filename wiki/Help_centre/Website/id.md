@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - site
   - block
@@ -10,97 +11,101 @@ tags:
   - profile
   - missing
   - stats
-  - situs web
-  - pemblokiran
-  - tiket layanan dukungan
+  - situs
+  - blokir
+  - tiket
   - tampilan
   - pesan
-  - laman profil
+  - halaman
+  - profil
+  - hilang
   - statistik
 ---
 
 # Situs web
 
-*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
+*Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar situs web osu! secara garis besar.
+Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan dengan situs web osu!.
 
-## Masalah-masalah umum {id=common-issues}
+## Masalah umum {id=common-issues}
 
-### Saya sudah menunggu hingga lebih dari 2 minggu, namun sampai saat ini saya belum mendapatkan kabar apa-apa seputar tiket layanan dukungan (support ticket) milik saya! {id=support-no-reply}
+### Saya sudah menunggu hingga lebih dari 2 minggu, namun saya masih belum menerima tanggapan atas tiket layanan dukungan saya! {id=support-no-reply}
 
-**Pada umumnya, hal ini disebabkan oleh banyaknya tiket layanan dukungan (*support ticket*) yang sedang kami proses.**
+**Pada umumnya, hal ini disebabkan oleh banyaknya tiket layanan dukungan (*support ticket*) yang diterima oleh sistem kami dalam satu waktu.**
 
-Apabila kamu ingin mengetahui status tiket layanan dukungan (support ticket) milikmu, kamu dipersilahkan untuk kembali menghubungi tim layanan dukungan kami asalkan masih dalam batas yang sewajarnya. Kamu juga dapat menanyakan hal yang sama melalui akun Twitter [@osusupport](https://twitter.com/osusupport) milik kami.
+Kamu dapat mengirimkan pesan balasan yang menanyakan seputar status permasalahanmu pada tiket kamu yang sedang aktif, namun pastikan kamu tidak bertanya hingga lebih dari satu atau dua kali per minggunya. Kamu juga dapat menghubungi kami di Twitter pada akun [@osusupport](https://twitter.com/osusupport) untuk bertanya seputar tiketmu.
 
-Dalam **kasus-kasus tertentu** yang utamanya melibatkan pelanggaran-pelanggaran berat, tim layanan dukungan kami dapat memberitahukan kamu bahwa tiket layanan dukungan (support ticket) milikmu tidak akan ditindaklanjuti lagi. Apabila kamu merasa tidak pernah melakukan pelanggaran apapun, kamu tidak perlu khawatir dan hanya butuh untuk lebih bersabar!
+Dalam situasi langka tertentu, tiket layanan dukungan dari para pengguna yang telah berulang kali melanggar dapat dengan sengaja diabaikan oleh [tim layanan dukungan](/wiki/People/The_Team/Account_support_team) kami (walaupun hal ini akan **selalu** diberitahukan terlebih dahulu apabila sampai terjadi). Apabila kamu tidak menerima pemberitahuan semacam ini, kamu tidak perlu khawatir tiketmu akan sampai dibiarkan terbengkalai!
 
-### Apakah saya dapat memblokir pengguna lain? {id=ignore-user}
+### Apakah saya dapat memblokir pengguna lain sepenuhnya agar tidak menghubungi saya? {id=ignore-user}
 
 **Tentu saja bisa.**
 
-Apabila kamu merasa tersinggung atau terlecehkan dengan pesan-pesan yang dikirim oleh pengguna-pengguna tertentu, baik itu melalui pesan pribadi (*private message*), forum, ataupun kanal obrolan dalam permainan (*in-game chat*), kamu dapat memblokir mereka dengan mengikuti langkah-langkah berikut.
+Apabila pengguna lain melecehkan kamu melalui pesan pribadi yang mereka kirim baik pada forum maupun di dalam permainan, terdapat beberapa langkah yang dapat kamu ikuti untuk menyaring pesan dari mereka.
 
-#### Memblokir pesan-pesan in-game chat dari pengguna lain {id=ignore-user-in-game}
+#### Memblokir pengguna agar mereka tidak dapat menghubungi kamu di dalam permainan {id=ignore-user-in-game}
 
-**Untuk dapat memblokir pesan-pesan *in-game chat* dari pengguna lain, tambahkan nama pengguna mereka ke dalam daftar pengabaian (*ignore list*) yang kamu miliki.**
+**Untuk memblokir pengguna tertentu agar mereka tidak dapat mengirim pesan kepadamu di dalam permainan, cukup tambahkan nama pengguna mereka ke daftar abai (*ignore list*) kamu.**
 
-1. Klik tombol `Options` pada yang ada pada layar menu utama, atau tekan `CTRL` + `O`.
-2. Ketik `ignore` atau `pengabaian` pada kolom pencarian (quick-search bar) yang muncul, lalu tuju pilihan `Daftar pengabaian`.
-3. Tambahkan nama-nama pengguna yang ingin kamu blokir ke dalam daftar tersebut. Apabila nama pengguna yang ingin kamu blokir memiliki spasi, ganti semua spasi yang ada dengan garis bawah (sebagai contoh, untuk dapat memblokir *The Gatekeeper* kamu harus mengetikkan *The\_Gatekeeper*).
+1. Klik tombol `Options` yang terdapat di menu utama atau tekan `CTRL` + `O`.
+2. Ketik `ignore` atau `abai` untuk menyaring pengaturan ke bagian `Daftar abai`.
+3. Tambahkan nama pengguna yang bermasalah tersebut ke daftar ini. Gunakan spasi untuk memisahkan nama masing-masing pengguna, dan ubah setiap karakter spasi yang terdapat pada nama mereka dengan tanda garis bawah (sebagai contoh, tulis nama *The Gatekeeper* sebagai *The\_Gatekeeper*).
 
-Ke depannya, kamu tidak akan lagi melihat pesan-pesan dari para pengguna tersebut baik yang dikirim pada kanal-kanal obrolan publik ataupun pada pesan pribadi (*private message*).
+Ke depannya, kamu tidak akan lagi melihat pesan *chat* publik atau menerima pesan pribadi dari para pengguna ini.
 
-Apabila kamu hanya ingin memblokir jenis-jenis pesan tertentu saja (semisal *highlight*, *private message*, atau *public message*), kamu dapat menambahkan @h, @p, atau @c pada nama-nama tertentu dalam daftar pengabaian milikmu. Sebagai contoh, `The_Gatekeeper@c` akan memblokir pesan-pesan pada kanal-kanal obrolan publik dan `The_Gatekeeper@ph` akan memblokir *highlight* dan *private message* yang masuk dari pengguna yang bersangkutan.
+Apabila kamu hanya ingin mengabaikan *highlight*, pesan pribadi, atau pesan *chat* publik dari pengguna tertentu, kamu dapat menambahkan `@h`, `@p`, dan `@c` setelah nama pengguna mereka. Sebagai contoh, `The_Gatekeeper@c` akan membuatmu mengabaikan seluruh pesan yang dikirim oleh pengguna ini pada kanal *chat* publik. Ketiga parameter ini juga dapat saling digabungkan satu sama lain: `The_Gatekeeper@ph` akan membuatmu mengabaikan *highlight* dan pesan pribadi mereka tanpa memblokir pesan publik mereka.
 
-#### Memblokir pesan-pesan pribadi (private message) dari pengguna-pengguna yang tidak ditambahkan sebagai teman pada in-game chat {id=ignore-strangers-in-game}
+#### Memblokir pengguna yang tidak ditambahkan sebagai teman untuk dapat mengirimimu pesan pribadi di dalam permainan {id=ignore-strangers-in-game}
 
-Apabila kamu tidak lagi ingin menerima pesan pribadi (*private message*) dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman, kamu dapat mengikuti langkah-langkah berikut. **Harap dicatat bahwa fitur ini tidak akan menghalangi para moderator kami untuk dapat berkomunikasi denganmu melalui *in-game chat*; apabila kamu merasa ada moderator yang menggunakan keistimewaan yang mereka miliki ini untuk hal-hal yang tidak sepantasnya, harap hubungi [tim layanan dukungan kami](mailto:support@ppy.sh).**
+Apabila kamu ingin mencegah para pengguna yang tidak berada dalam daftar temanmu untuk dapat mengirimkan pesan pribadi kepadamu, ikuti langkah-langkah berikut ini. **Mohon diperhatikan bahwa para moderator tidak akan terpengaruh oleh hal ini dan akan dapat mengirimkan PM kepadamu kapan saja. Apabila kamu merasa bahwa terdapat moderator yang menyalahgunakan kewenangan ini untuk melecehkan kamu, silakan hubungi [tim layanan dukungan kami](mailto:support@ppy.sh).**
 
-1. Klik tombol `Options` pada yang ada pada layar menu utama, atau tekan `CTRL` + `O`.
-2. Ketik `block` atau `tolak` pada kolom pencarian (*quick-search bar*) yang muncul.
-3. Aktifkan opsi `Tolak pesan pribadi dari pemain selain teman Anda`.
+1. Klik tombol `Options` yang terdapat di menu utama atau tekan `CTRL` + `O`.
+2. Ketik `block` atau `tolak` untuk menyaring pengaturan ke bagian `In-game Chat`.
+3. Aktifkan pilihan `Tolak pesan pribadi dari pemain selain teman Anda`.
 
-Ke depannya, kamu tidak akan lagi mendapatkan pesan *in-game chat* dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman.
+Ke depannya, kamu tidak akan lagi dapat dikontak oleh para pengguna yang tidak berada dalam daftar temanmu.
 
-#### Memblokir pesan-pesan pribadi (private message) dari pengguna-pengguna yang tidak ditambahkan sebagai teman pada forum osu! {id=ignore-strangers-website}
+<!-- TODO: describe how to ignore others' posts and comments when https://github.com/ppy/osu-web/issues/2319 is implemented -->
 
-Tuju laman [pengaturan akun](https://osu.ppy.sh/home/account/edit) dan aktifkan opsi `Blokir pesan pribadi dari orang yang tidak ada dalam daftar teman Anda` yang ada pada kolom Kebijakan Privasi. Ke depannya, kamu tidak akan lagi mendapatkan pesan forum yang berasal dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman.
+#### Memblokir pengguna yang tidak ditambahkan sebagai teman untuk dapat mengirimimu pesan pribadi pada forum {id=ignore-strangers-website}
 
-### Apa yang harus saya lakukan apabila saya masih merasa tersinggung atau terlecehkan oleh pengguna-pengguna tertentu walaupun saya sudah memblokir mereka? {id=ignore-did-not-help}
+Tuju halaman [pengaturan akunmu](https://osu.ppy.sh/home/account/edit) dan berikan tanda centang pada pilihan `blokir pesan pribadi dari pengguna yang tidak berada dalam daftar temanmu` yang terdapat pada bagian Privasi. Kamu masih akan tetap dapat menerima pesan pribadi dari pengguna yang berada dalam daftar temanmu.
 
-**Jangan khawatir. Kami siap untuk membantumu.**
+### Bagaimana apabila saya masih menemui masalah dengan pengguna tertentu bahkan setelah saya memblokir mereka? {id=ignore-did-not-help}
 
-Apabila kamu masih mendapatkan perlakuan yang kurang menyenangkan dari mereka terlepas dari segala upaya yang telah kamu lakukan sebelumnya, harap hubungi kami melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh).
+**Jangan khawatir, karena tim layanan dukungan kami akan membantu kamu.**
 
-Pastikan kamu melampirkan *chat log* atau bukti-bukti lain yang mendukung kasusmu agar kami dapat menindaklanjuti para pelanggar yang bersangkutan sebagaimana mestinya.
+Apabila pengguna ini masih melecehkan kamu dengan cara yang lain, atau apabila mereka menggunakan teman mereka atau orang lain untuk mengakali upayamu memblokir mereka, silakan kirimkan email kepada kami pada alamat [support@ppy.sh](mailto:support@ppy.sh).
 
-### Apa itu kolom “saya!” yang sering saya lihat pada laman profil milik para pengguna lain? {id=userpage}
+Pastikan untuk menyertakan rekaman percakapan (*chat log*) atau bukti lainnya pada email ini, dan tim layanan dukungan kami akan memeriksa kasusmu dan menyelesaikan permasalahan yang ada.
 
-**Kolom “saya!”, atau yang sering disebut juga dengan istilah *userpage*, merupakan kolom pada laman profil yang secara khusus tersedia bagi para pemilik [supporter tag](https://osu.ppy.sh/home/support). Kolom ini dapat kamu isi dengan hal apapun yang kamu inginkan - baik itu skor-skor yang pernah kamu torehkan, beatmap-beatmap milikmu, atau apapun itu!**
+### Apa itu halaman "saya!" yang saya lihat pada profil pengguna lain? {id=userpage}
 
-Para pemilik [supporter tag](https://osu.ppy.sh/home/support) dapat membuat kolom “saya!” pada laman profil milik mereka kapanpun yang mereka mau. Kolom ini bebas untuk diisi dengan hal apapun - selama tidak melanggar [peraturan komunitas](/wiki/Rules) yang berlaku, tentunya!
+**Halaman "saya!",  atau yang juga dikenal sebagai halaman pengguna (*userpage*), merupakan elemen profil yang secara khusus tersedia bagi para pemilik [tag supporter](https://osu.ppy.sh/home/support). Halaman ini dapat kamu isi sesuka hatimu — baik itu dengan gambaran pencapaianmu, beatmap yang kamu buat, atau apa pun itu yang kamu inginkan!**
 
-Apabila kamu sebelumnya pernah membuat kolom “saya!” pada laman profil osu! milikmu, kolom tersebut **tidak akan pernah hilang dan akan tetap dapat kamu sunting secara bebas ke depannya** bahkan ketika kamu sudah tidak lagi memiliki [supporter tag](https://osu.ppy.sh/home/support) yang berlaku.
+Para pemilik [tag supporter](https://osu.ppy.sh/home/support) memiliki hak khusus untuk menyunting halaman khusus pada profil mereka untuk ditunjukkan kepada dunia. Halaman "saya!" ini dapat diisi dengan hal apa pun yang kamu mau, selama segala sesuatunya tidak melanggar [peraturan komunitas](/wiki/Rules) yang berlaku!
 
-### Konten-konten yang ada pada kolom “saya!” milik saya tiba-tiba menghilang! {id=userpage-removed}
+Bahkan apabila masa berlaku [tag supporter](https://osu.ppy.sh/home/support) kamu telah habis, halaman "saya!" milikmu akan **tetap terlihat** dan kamu akan tetap dapat menyunting isi halaman ini.
 
-**Pada umumnya, hal ini disebabkan karena tim kami menemukan konten-konten pada kolom “saya!” milikmu yang melanggar [peraturan komunitas](/wiki/Rules) yang berlaku.**
+### Konten yang terdapat pada halaman "saya!" milik saya menghilang! {id=userpage-removed}
 
-Apabila kamu berkeberatan dengan hal ini, kamu dapat membuka tiket layanan dukungan (*support ticket*) baru dengan mengirimkan email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
+**Hal ini dapat terjadi apabila halaman "saya!" milikmu mengandung konten yang tidak pantas sebagaimana yang diterangkan oleh [peraturan komunitas](/wiki/Rules) kami.**
 
-Apabila kamu tidak yakin apakah konten yang kamu miliki (atau yang hendak kamu letakkan) pada kolom “saya!” milikmu melanggar peraturan atau tidak, harap hubungi anggota-anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) untuk mendapatkan arahan dan konfirmasi lebih lanjut.
+Dalam kasus yang demikian, kamu dapat membuka tiket baru ke tim layanan dukungan kami dengan mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan membicarakan duduk perkaramu.
 
-### Apakah saya harus memiliki alamat email yang terdaftar untuk dapat membuat akun osu!? {id=email-purpose}
+Apabila pada titik tertentu kamu ragu apakah suatu hal dapat ditampilkan pada halaman "saya!" ini, kamu dapat menghubungi anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) mana pun dan mereka akan memberitahukan kamu apakah hal tersebut layak pajang atau tidak.
 
-**Ya. Alamat email ini ke depannya akan diperlukan untuk mengatur ulang kata sandi dan mengirimkan kode verifikasi ketika diperlukan.**
+### Apakah saya harus menggunakan alamat email milik saya untuk mendaftar? {id=email-purpose}
 
-Apabila kamu tidak dapat terhubung secara *online*, harap periksa apakah osu! sedang diblokir oleh aplikasi *firewall* atau antivirus yang kamu miliki.
+**Ya. Kami membutuhkan alamat email kamu untuk mengirimkanmu permintaan pengaturan ulang kata sandi dan kode verifikasi ketika dibutuhkan.**
 
-Apabila sewaktu-waktu kamu kehilangan atau tidak dapat mengingat kata sandi milikmu, kami dapat menggunakan alamat email ini untuk memulihkan akses menuju akunmu.
+Apabila kamu mengalami masalah untuk terhubung melalui klien permainan, silakan periksa pengaturan *firewall* dan anti-virus kamu untuk memastikan bahwa osu! tidak sedang diblokir.
 
-### Mengapa statistik yang tertera pada laman profil saya tidak akurat? {id=wrong-statistics}
+Apabila kamu sampai kehilangan kata sandimu atau tidak lagi dapat mengakses akunmu, alamat email pendaftaran ini merupakan tempat pertama bagi kami untuk menghubungimu.
 
-**Kamu mungkin sedang melihat statistik milikmu pada mode permainan yang tidak kamu kehendaki!**
+### Mengapa statistik yang tertera pada halaman pengguna saya tidak tepat? {id=wrong-statistics}
 
-Periksa kembali apakah kamu sudah berada pada mode permainan yang kamu kehendaki. Di samping itu, apabila kamu sudah tidak lagi aktif bermain, situs web osu! akan secara otomatis menyembunyikan statistik-statistik tertentu yang kamu miliki setelah beberapa bulan agar peringkat performa (*performance ranking*) yang kami miliki senantiasa relevan seiring waktu.
+**Kamu mungkin sedang melihat statistik permainanmu untuk mode permainan yang berbeda!**
+
+Apabila kamu sudah lama tidak bermain dan statistik permainanmu tidak terlihat sama sekali, cukup mainkan beberapa map untuk menampilkan statistik ini kembali. Situs web osu! menyembunyikan skor dari para pengguna yang tidak aktif untuk menjaga agar papan peringkat yang ada tetap terbarukan seiring waktunya.
