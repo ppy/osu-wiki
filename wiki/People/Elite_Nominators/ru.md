@@ -7,7 +7,7 @@
 - Количество [номинаций](/wiki/Beatmap_ranking_procedure#nominations)
 - Качество номинированных карт
 - Качество [моддинга](/wiki/Modding)
-- Количество нарушений в [сброшенных номинаций](/wiki/Beatmap_ranking_procedure#nomination-resets) и их [серьёзность](/wiki/People/Nomination_Assessment_Team/SEV_rating)
+- Количество нарушений в [сброшенных номинаций](/wiki/Beatmap_ranking_procedure#сброс-номинации) и их [серьёзность](/wiki/People/Nomination_Assessment_Team/SEV_rating)
 - Количество проведённых проверок [контроля качества](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance)
 - Заметный вклад в сообщество маппинга (написание программ и утилит, проведение ивентов и т.д.)
 - Другие качества, которые выделяют номинатора среди остальных
@@ -16,7 +16,7 @@
 
 - [Титулом](/wiki/Community/User_title) "Elite Nominator", который остаётся на 1 год до следующей волны отбора элитных номинаторов или до тех пор, пока пользователь не уйдёт из номинаторов. Если пользователь получает титул повторно на протяжении нескольких лет подряд, его уровень увеличивается на 1 ("Elite Nominator II" и т.д.)
 - [Значком профиля](/wiki/Community/Profile_badge) элитного номинатора, остающимся навсегда
-  ![Значок "Elite Nominator"](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 'Значок "Elite Nominator"') ![Значок "Elite Nominator II"](https://assets.ppy.sh/profile-badges/elite-nominator-2.png 'Значок "Elite Nominator II"')
+  ![Значок "Elite Nominator"](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Значок \"Elite Nominator\"") ![Значок "Elite Nominator II"](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Значок \"Elite Nominator II\"")
 
 ## Список элитных номинаторов
 
