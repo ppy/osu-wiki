@@ -13,7 +13,7 @@ This article lists various items that were once available at the [osu!store](htt
 
 ![osu! goods CafePress store front](img/osu-goods.png)
 
-The **osu! goods** were a collection of official osu!-branded merchandise sold through the online retailer [CafePress](https://en.wikipedia.org/wiki/CafePress) from 2009 – 2012. All items were printed and produced by CafePress, with a portion of the sales being used to [support the development of the game](https://osu.ppy.sh/store/listing).
+The **osu! goods** were a collection of official osu!-branded merchandise sold through the online retailer [CafePress](https://en.wikipedia.org/wiki/CafePress) from 2009 – 2012. All items available for order were printed and produced by CafePress, with a portion of the sales being used to [support the development of the game](https://osu.ppy.sh/store/listing).
 
 The collection featured a range of products such as:
 
@@ -71,7 +71,7 @@ The collection featured a range of products such as:
 *See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*\
 *For troubleshooting steps related to the product, see: [Store archive § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
 
-The **osu!tablet** was an official osu!-branded graphic tablet made in partnership with the electronics company [HUION](https://www.huion.com/). It was designed by ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) and was released as an affordable alternative for those who simply wanted to buy a graphic tablet to play osu!.
+The **osu!tablet** was an official osu!-branded graphic tablet made in partnership with the electronics company [HUION](https://www.huion.com/). It was designed by ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) and was released as an affordable alternative for those who wanted to purchase a graphic tablet simply to play osu!.
 
 The product ran for two versions: the original "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", which was first fabricated in 2013, and the updated [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) in 2016 before it was discontinued in 2017 citing [a shift in development focus](https://twitter.com/ppy/status/846190076853870592).
 

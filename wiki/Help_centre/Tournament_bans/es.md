@@ -2,7 +2,7 @@
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*
 
-El veto de los torneos impide que un jugador participe en torneos con soporte oficial bajo cualquier circunstancia. Esto incluye participar en los partidos y ser parte del personal o cualquier otro tipo de asistencia.
+El veto de los torneos impide que un jugador participe en torneos oficiales o que cuenten con soporte oficial. También limita hasta qué punto un jugador puede formar parte del personal u ofrecer asistencia en estos torneos.
 
 Los vetos de los torneos son muy raros, pero en general casi todos los jugadores que regresan tras una apelación estándar por una [restricción de su cuenta](/wiki/Help_centre/Account_restrictions) están sujetos a un veto de al menos un año de duración.
 
@@ -43,6 +43,8 @@ En raras situaciones, el [equipo de soporte de cuentas](/wiki/People/Account_sup
 ## ¿Qué puedo hacer mientras estoy vetado de los torneos? {id=while-banned}
 
 Puedes seguir jugando en torneos de la comunidad en los que no se solicite soporte oficial ni se requiera un proceso de selección, a discreción de las personas que organicen dichos eventos.
+
+Puedes seguir participando en torneos oficiales transmitiendo, comentando o diseñando gráficos a discreción del organizador del torneo. Si deseas ayudar en otras tareas, el organizador del torneo al que deseas ayudar DEBE solicitar una autorización en su solicitud inicial de soporte. Dependiendo del motivo y la gravedad de la infracción, y teniendo en cuenta tu historial, el [equipo de soporte de cuentas](/wiki/People/Account_support_team) podrá autorizarlo.
 
 La información sobre tu estado del veto de los torneos puede ser proporcionada a los organizadores de los torneos que lo soliciten, se beneficien o no del soporte oficial.
 
