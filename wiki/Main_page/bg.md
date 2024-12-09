@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 no_native_review: true
 ---
@@ -103,7 +105,7 @@ no_native_review: true
 
 [Турнири](/wiki/Tournaments) • [Бийтмап под прожекторите](/wiki/Beatmap_Spotlights) • [Състезания](/wiki/Contests) • [Възпитателна програма](/wiki/Community/Community_Mentorship_Program)
 
-[Проекти](/wiki/Community/Projects) • [Съюз на създателите](/wiki/Community/Mappers_Guild) • [Проект обичани](/wiki/Community/Project_Loved) • [osu! обществени срещи](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Проекти](/wiki/Community/Projects) • [Съюз на създателите](/wiki/Community/Mappers_Guild) • [Проект обичани](/wiki/Community/Project_Loved) • [osu! обществени срещи](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Организатори: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -125,7 +127,7 @@ osu! нямаше да съществува без всички потребит
 
 Взаимодействайте с osu! чрез други приложения и медии или помогнете за бъдещия растеж.
 
-[API](/wiki/osu!api) • [Бот профил](/wiki/Bot_account) • [Указания за идентичност](/wiki/Brand_identity_guidelines) • [osu! дискорд сървър](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Бот профил](/wiki/Bot_account) • [Указания за идентичност](/wiki/Brand_identity_guidelines) • [osu! дискорд сървър](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

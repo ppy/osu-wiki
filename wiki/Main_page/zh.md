@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 ---
 
@@ -100,7 +102,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[社区项目](/wiki/Community/Projects) • [谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 月报](/wiki/Community/osu!monthly) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
+[社区项目](/wiki/Community/Projects) • [谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 月报](/wiki/Community/osu!monthly) • [osu! 讨论](/wiki/Community/Video_series/osu!talk) • [lazer 更新视频系列](/wiki/Community/Video_series/lazer_updates)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -122,7 +124,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 通过其他应用与 osu! 交互。
 
-[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

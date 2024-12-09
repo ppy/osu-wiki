@@ -6,7 +6,7 @@ tags:
 
 # osu!supporter
 
-![osu!supporter promotional image](img/supporter-eyecatch.jpg)
+[![osu!supporter promotional image](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (or the ***osu!supporter tag***) is a temporary title given to players who support osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetic and technical benefits, most of which are active only when the title is present. The extra features from osu!supporter do not give any advantage in gameplay, performance, or score, and never will.
 
@@ -17,11 +17,11 @@ The osu!supporter tag may be obtained from the [osu!supporter store page](https:
 ### Heart badge
 
 ::: Infobox
-![](img/userpage.png?1 "Profile with osu!supporter")
+![](img/userpage.png?20241103 "Profile with osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "User card with osu!supporter")
+![](img/usercard.png?20241022 "User card with osu!supporter")
 :::
 
 Supporters get a badge with hearts on it, usually found next to their username on the website. The amount of hearts depends on the duration of osu!supporter the user has acquired or received in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -56,6 +56,15 @@ Supporters can further customise their profile by setting a cover image:
 - Select a new cover from a few predefined options, or upload a custom image (its dimensions should be 2400x640).
 
 Once osu!supporter expires, the cover will remain, but cannot be changed.
+
+### Profile colour
+
+Akin to profile covers, supporters can alter the colour of their profile:
+
+- Press the pencil icon in the lower right corner of the profile cover.
+- Adjusting the profile colour alters the colour of almost everything, including the banner, buttons, links, and text.
+
+Once osu!supporter expires, the colour customisations will remain, but may only be changed back to default.
 
 ### One free username change
 

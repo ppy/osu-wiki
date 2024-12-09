@@ -72,7 +72,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 提交分数 | ![支持][true] | ![支持][true] |
 | 谱面排行榜 | ![支持][true] | ![支持][true] |
 | 主页统计数据 | ![支持][true] | ![支持][true] |
-| 奖章 (成就) | ![支持][true] | ![不支持][false] |
+| 奖章 (成就) | ![支持][true] | ![部分支持][partial][^medals-lazer] |
 | 表现分 (pp) | ![支持][true] | ![支持][true] |
 | 实时聊天 | ![部分支持][partial][^stable-chat] | ![支持][true] |
 | Wiki / 新闻 / 更新日志 / 排行榜 | ![不支持][false] | ![支持][true][^online-content] |
@@ -298,7 +298,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 
 还有一些额外的福利：
 
-- 支持者可以在课题模式中创建持续时间更长的课题。
+- 支持者可以在歌单模式中创建持续时间更长的歌单。
 - 支持者能在主菜单播放谱面故事板。
 
 我们确实打算在未来给支持者引入更多的福利，但我们目前着重于尽量多地将功能加至与稳定版相同。因此，最好将购买支持者标签的理由作为...支持游戏开发！
@@ -342,6 +342,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^countdown-timers-lazer]: 在游戏内用户界面 (UI) 设置倒计时，对局会自动开始。
 [^queue-modes]: 开启它，允许房内按队列选择谱面。即“房主轮换”(host rotate)。
 [^difficulty-adjust]: 直接在歌曲选择界面使用难度调整 (Difficulty Adjust) 模组，来更改谱面的 CS/AR/OD/HP。
+[^medals-lazer]: 部分[隐藏 (Hush-Hush) 奖章](/wiki/Medals#隐藏)还无法获取。
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

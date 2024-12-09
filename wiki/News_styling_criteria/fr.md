@@ -115,7 +115,7 @@ La largeur de tous les cadres de contenu incorporé doit être fixée à 95 %, �
 Vidéo hébergée sur `assets.ppy.sh` :
 
 ```html
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
@@ -125,7 +125,7 @@ Vidéo hébergée sur `assets.ppy.sh` :
 Vidéo intégrée dans YouTube :
 
 ```html
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
@@ -135,6 +135,7 @@ Vidéo intégrée dans YouTube :
 Ce qui suit s'applique à tous les médias dans les articles de news et comprend les raisons courantes des changements demandés ou des demandes de renseignements de l'équipe de news :
 
 - **Les ressources créées pour les articles de news doivent faire l'objet d'une autorisation et d'une licence.**
+- **Aucun placement de marque ou de sponsor n'est autorisé.** Ce n'est pas à osu! de leur fournir de la publicité.
 - **Notez les [directives relatives à l'identité de la marque](/wiki/Brand_identity_guidelines), notamment en ce qui concerne les noms des jeux et des modes de jeu.** Des termes comme "standard" ou "ctb" ne sont pas utilisés dans les contextes officiels.
   - Préférable : "osu!", "osu!taiko", "osu!catch", "osu!mania" (Notez également qu'il s'agit de l'ordre canonique lorsqu'ils sont présentés dans l'ordre.)
   - Acceptable : "osu!", "taiko", "catch", "mania"

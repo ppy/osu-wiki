@@ -2,7 +2,7 @@
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
 
-若要将 [osu!catch](/wiki/Game_mode/osu!catch) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!catch 上架标准 (osu!catch Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria#一般术语)。
+若要将 [osu!catch](/wiki/Game_mode/osu!catch) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!catch 上架标准 (osu!catch Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria)。
 
 ## 全局
 
@@ -95,16 +95,16 @@
 
 - **不能使用任何[红果跳](/wiki/Gameplay/Hyperdash)。** 这能保证新玩家能从学会处理简单的白果跳开始。
 - **[跳](/wiki/Gameplay/Dash)前后的两个物件相隔时间必须长于 125 毫秒（在 240 BPM 的歌曲内约为 1/2）。** 在作图时一般会限制为 180 BPM 下的 1/2。
-- **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[白果跳](/wiki/Gameplay/Dash)不能连续使用超过 2 次。**
-- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[白果跳](/wiki/Gameplay/Dash)之后只能接[走路](/wiki/Gameplay/Walk)排列。**
+- **[基础](/wiki/Gameplay/Dash_snapping#基本对齐)[白果跳](/wiki/Gameplay/Dash)不能连续使用超过 2 次。**
+- **[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[白果跳](/wiki/Gameplay/Dash)之后只能接[走路](/wiki/Gameplay/Walk)排列。**
 - **不能使用任何[边缘/极限跳](/wiki/Gameplay/Edge_dash)。** 接这种排列需要玩家拥有极精确的操纵手法，而新手通常都接不住。
 - **物件与转盘前后之间必须至少间隔 250 毫秒（在 240 BPM 的歌曲内约为 1/1）。** 这保证玩家能顺利读图。
 
 #### 准则
 
 - **所有水果间的距离应让玩家能清晰分辨应该[走路](/wiki/Gameplay/Walk)还是[跳](/wiki/Gameplay/Dash)。** 这是为了让玩家能轻松读出谱面要跳的位置。
-- **不同节奏类型的[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[白果跳](/wiki/Gameplay/Dash)不应相连。** 如：1/1 白果跳与 1/2 白果跳直接相连。
-- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[白果跳](/wiki/Gameplay/Dash)后不应使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗。**
+- **不同节奏类型的[基础](/wiki/Gameplay/Dash_snapping#基本对齐)[白果跳](/wiki/Gameplay/Dash)不应相连。** 如：1/1 白果跳与 1/2 白果跳直接相连。
+- **[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[白果跳](/wiki/Gameplay/Dash)后不应使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗。**
 - **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **包括滑条尾和滑条折返，[连击](/wiki/Beatmapping/Combo)不应该超过 10 个物件。** [转盘](/wiki/Gameplay/Hit_object/Spinner)除外。
 - **谱面物件密度应主要由 1/1 或 1/2 节奏组成。** 1/3 或 1/4 节奏应极少使用。
@@ -122,20 +122,20 @@
 - **[基础红果跳](/wiki/Gameplay/Hyperdash)前后的两个物件相隔时间必须长于 125 毫秒（在 240 BPM 的歌曲内约为 1/2）。** 在作图时一般会限制为 180 BPM 下的 1/2。
 - **不能在[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果)和滑条折返上使用任何[红果跳](/wiki/Gameplay/Hyperdash)。** 这种排列需要玩家有较高的控制力和精度，且玩家可能无法读清滑条路径。
 - **不同节奏类型的[基础红果跳](/wiki/Gameplay/Hyperdash)不应相连。** 如：1/2 红果跳与 1/4 红果跳直接相连。
-- **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 2 次。**
-- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能与任何形式的[跳](/wiki/Gameplay/Dash)相连。**
+- **[基础](/wiki/Gameplay/Dash_snapping#基本对齐)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 2 次。**
+- **[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[红果跳](/wiki/Gameplay/Hyperdash)不能与任何形式的[跳](/wiki/Gameplay/Dash)相连。**
 - **[跳](/wiki/Gameplay/Dash)前后的两个物件相隔时间必须长于 62 毫秒（在 240 BPM 的歌曲内约为 1/4）。** 在作图时一般会限制为 180 BPM 下的 1/4。
-- **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[白果跳](/wiki/Gameplay/Dash)不能连续使用超过 4 次。**
-- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[白果跳](/wiki/Gameplay/Dash)不能连续使用超过 2 次，且中途不能改变方向。**
+- **[基础](/wiki/Gameplay/Dash_snapping#基本对齐)[白果跳](/wiki/Gameplay/Dash)不能连续使用超过 4 次。**
+- **[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[白果跳](/wiki/Gameplay/Dash)不能连续使用超过 2 次，且中途不能改变方向。**
 - **不能使用任何[边缘/极限跳](/wiki/Gameplay/Edge_dash)。** 接这种排列需要玩家拥有极精确的操纵手法，而经验较少的玩家通常都接不住。
 - **物件与转盘开头之间必须至少间隔 125 毫秒（在 240 BPM 的歌曲内约为 1/2）。** 这保证玩家能顺利读图。
 - **物件与转盘结尾之间必须至少间隔 250 毫秒（在 240 BPM 的歌曲内约为 1/1）。** 这保证玩家能顺利读图。
 
 #### 准则
 
-- **不应使用超远的[红果跳](/wiki/Gameplay/Hyperdash)。** [基础](/wiki/Gameplay/Dash_snapping#basic-snapped)红果跳推荐限制为[触发距离](/wiki/Beatmapping/Trigger_distance)的 1.5 倍内，而[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)红果跳推荐限制为[触发距离](/wiki/Beatmapping/Trigger_distance)的 1.3 倍内。
-- **可以在[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)内使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗。** 若使用，则后接[走路](/wiki/Gameplay/Walk)的基础红果跳应限制为触发距离的 1.2 倍内，后接[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[白果跳](/wiki/Gameplay/Dash)的基础红果跳应限制为触发距离的 1.1 倍内。
-- **最好不要在[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)后使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗。** 若使用，则它应限制为[触发距离](/wiki/Beatmapping/Trigger_distance)的 1.1 倍。
+- **不应使用超远的[红果跳](/wiki/Gameplay/Hyperdash)。** [基础](/wiki/Gameplay/Dash_snapping#基本对齐)红果跳推荐限制为[触发距离](/wiki/Beatmapping/Trigger_distance)的 1.5 倍内，而[短时](/wiki/Gameplay/Dash_snapping#高度对齐)红果跳推荐限制为[触发距离](/wiki/Beatmapping/Trigger_distance)的 1.3 倍内。
+- **可以在[基础](/wiki/Gameplay/Dash_snapping#基本对齐)[红果跳](/wiki/Gameplay/Hyperdash)内使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗。** 若使用，则后接[走路](/wiki/Gameplay/Walk)的基础红果跳应限制为触发距离的 1.2 倍内，后接[基础](/wiki/Gameplay/Dash_snapping#基本对齐)[白果跳](/wiki/Gameplay/Dash)的基础红果跳应限制为触发距离的 1.1 倍内。
+- **最好不要在[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[红果跳](/wiki/Gameplay/Hyperdash)后使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗。** 若使用，则它应限制为[触发距离](/wiki/Beatmapping/Trigger_distance)的 1.1 倍。
 - **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **包括滑条尾和滑条折返，[连击](/wiki/Beatmapping/Combo)不应该超过 12 个物件。** [转盘](/wiki/Gameplay/Hit_object/Spinner)除外。
 - **谱面物件密度应主要由 1/2 或 1/3 节奏组成。** 1/4 或 1/6 节奏应极少使用。
@@ -151,18 +151,18 @@
 #### 规定
 
 - **[跳](/wiki/Gameplay/Dash)前后的两个物件相隔时间必须长于 62 毫秒（在 240 BPM 的歌曲内约为 1/4）。** 在作图时一般会限制为 180 BPM 下的 1/4。
-- **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 4 次。**
-- **当使用滑条头尾作为[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)时，则不能连续使用超过 2 次。** 滑条路径必须简单且易于跟随。
-- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能与任何形式的[红果跳](/wiki/Gameplay/Hyperdash)相连。** 短时红果跳只能与走路或白果跳相连。
-- **不能使用滑条头尾作为[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)。**
+- **[基础](/wiki/Gameplay/Dash_snapping#基本对齐)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 4 次。**
+- **当使用滑条头尾作为[基础](/wiki/Gameplay/Dash_snapping#基本对齐)[红果跳](/wiki/Gameplay/Hyperdash)时，则不能连续使用超过 2 次。** 滑条路径必须简单且易于跟随。
+- **[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[红果跳](/wiki/Gameplay/Hyperdash)不能与任何形式的[红果跳](/wiki/Gameplay/Hyperdash)相连。** 短时红果跳只能与走路或白果跳相连。
+- **不能使用滑条头尾作为[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **物件与转盘前后之间必须至少间隔 125 毫秒（在 240 BPM 的歌曲内约为 1/2）。** 这保证玩家能顺利读图。
 
 #### 准则
 
 - **不应在[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果)和滑条折返上使用任何[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **不同节奏类型的[基础红果跳](/wiki/Gameplay/Hyperdash)不应相连。** 如：1/1 红果跳与 1/2 红果跳直接相连。
-- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能与任何形式的短时[跳](/wiki/Gameplay/Dash)相连。** 若使用，则它们之间不能使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗，并且白果跳只能放在红果跳之前。
-- **若在[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)后使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)[跳](/wiki/Gameplay/Dash)，则反向跳应长于 250 毫秒。**（在 240 BPM 的歌曲内约为 1/1）。
+- **[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[红果跳](/wiki/Gameplay/Hyperdash)不能与任何形式的短时[跳](/wiki/Gameplay/Dash)相连。** 若使用，则它们之间不能使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗，并且白果跳只能放在红果跳之前。
+- **若在[短时](/wiki/Gameplay/Dash_snapping#高度对齐)[红果跳](/wiki/Gameplay/Hyperdash)后使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)[跳](/wiki/Gameplay/Dash)，则反向跳应长于 250 毫秒。**（在 240 BPM 的歌曲内约为 1/1）。
 - **[边缘/极限跳](/wiki/Gameplay/Edge_dash)只能独立使用（与其他任何[跳](/wiki/Gameplay/Dash)都不相连）。**
 - **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **包括滑条尾和滑条折返，[连击](/wiki/Beatmapping/Combo)不应该超过 16 个物件。** [转盘](/wiki/Gameplay/Hit_object/Spinner)除外。

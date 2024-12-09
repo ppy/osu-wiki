@@ -6,7 +6,7 @@ no_native_review: true
 
 ***Note : Cet article est une extension des [critères de classement généraux](/wiki/Ranking_criteria).***
 
-Cet ensemble de **critères de classement d'osu!mania** définit les [règles et directives](/wiki/Ranking_criteria#termes-courants) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!mania](/wiki/Game_mode/osu!mania) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cet ensemble de **critères de classement d'osu!mania** définit les [règles et directives](/wiki/Ranking_criteria) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!mania](/wiki/Game_mode/osu!mania) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glossaire
 
@@ -73,9 +73,9 @@ Les règles et directives générales s'appliquent à toutes les difficultés d'
 - **Chaque style de jeu non [standard](#termes-courants) présent dans une beatmap doit être indiqué dans les tags de la beatmap.**
 - **Les difficultés utilisant un [style de jeu N+1](#termes-courants) doivent activer l'option `Use special style (N+1 style) for mania` sous la section `Advanced` de l'onglet `Song Setup`. La beatmap doit également inclure le tag "N+1".** Aux fins de la présente règle, seuls les styles de jeu dont le nombre de touches est inférieur à 10 peuvent être considérés comme "N+1".[^n-plus-1]
 - **Si le [drain time](/wiki/Beatmap/Drain_time) d'une difficulté est...**
-  - **...inférieur à 2:30**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Normal ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 4 difficultés.
-  - **...entre 2:30 et 3:15**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Hard ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 3 difficultés.
-  - **...entre 3:15 et 4:00**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Insane ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 2 difficultés.
+  - **...inférieur à 2:00**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Normal ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 4 difficultés.
+  - **...entre 2:00 et 2:45**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Hard ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 3 difficultés.
+  - **...entre 2:45 et 3:30**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Insane ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 2 difficultés.
 
 ### Directives
 

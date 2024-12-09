@@ -2,7 +2,7 @@
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
 
-若要将 [osu!](/wiki/Game_mode/osu!) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu! 上架标准 (osu! Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria#一般术语)。
+若要将 [osu!](/wiki/Game_mode/osu!) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu! 上架标准 (osu! Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria)。
 
 ## 全局
 
@@ -25,8 +25,8 @@
 
 #### 准则
 
-- **未反映歌曲内实际声音的滑条尾，应按照歌曲节拍结构[对齐](/wiki/Beatmapping/Snapping)。** 推荐使用 1/4、1/8、1/16 节拍细分来贴合直拍 (Straight Beat) 结构的歌曲，使用 1/6、1/12 节拍细分来贴合摇摆拍 (Swing Beat) 结构的歌曲。如果歌曲的节拍类型在特定位置与以上推荐有所不同，则应优先根据歌曲实际情况来贴合。
-- **对于所有圆圈和滑条头，都应[对齐](/wiki/Beatmapping/Snapping)在歌曲内明显的声音上。** 在没有声音的地方放置物件会很不合曲。
+- **未反映歌曲内实际声音的滑条尾，应按照歌曲节拍结构[对齐](/wiki/Beatmapping/Beat_snapping)。** 推荐使用 1/4、1/8、1/16 节拍细分来贴合直拍 (Straight Beat) 结构的歌曲，使用 1/6、1/12 节拍细分来贴合摇摆拍 (Swing Beat) 结构的歌曲。如果歌曲的节拍类型在特定位置与以上推荐有所不同，则应优先根据歌曲实际情况来贴合。
+- **对于所有圆圈和滑条头，都应[对齐](/wiki/Beatmapping/Beat_snapping)在歌曲内明显的声音上。** 在没有声音的地方放置物件会很不合曲。
 - **[滑条点倍率](/wiki/Beatmapping/Slider_tick_rate)应按歌曲节奏类型来设置。** 举个例子，如果你的歌曲包含了 1/3 节拍细分的段落，那么此时很不适合使用 2 倍滑条点倍率，而应使用 1 倍。
 - **避免在连击 (Combo) 颜色组、滑条边界、圆圈叠加层内使用亮度小于等于 50 的颜色。** 暗色会干扰低背景亮度下物件的读图。若在物件的边界使用暗色，也会让它丧失应有的标识功能而变得难以辨认。
 - **避免在 Kiai 时间内，使用亮度大于等于 220 的连击 (Combo) 颜色和滑条颜色。** 闪光瞎眼。

@@ -76,7 +76,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Score-Einreichung | ![Ja][true] | ![Ja][true] |
 | Beatmap-Ranglisten | ![Ja][true] | ![Ja][true] |
 | Profil-Statistiken | ![Ja][true] | ![Ja][true] |
-| Medaillen | ![Ja][true] | ![Nein][false] |
+| Medaillen | ![Ja][true] | ![Teilweise][partial][^medals-lazer] |
 | Performance-Punkte | ![Ja][true] | ![Ja][true] |
 | Chat in Echtzeit | ![Teilweise][partial][^stable-chat] | ![Ja][true] |
 | Wiki / Neuigkeiten / Änderungsprotokoll / Ranglisten | ![Nein][false] | ![Ja][true][^online-content] |
@@ -346,6 +346,7 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^countdown-timers-lazer]: Stelle einen Countdown in der Benutzeroberfläche ein, um das Match automatisch zu starten.
 [^queue-modes]: Aktiviere diese Option, damit jeder in einer Lobby neue Beatmaps in die Warteschlange stellen kann, auch bekannt als "host rotate".
 [^difficulty-adjust]: Ändere die Werte CS/AR/OD/HP einer Beatmap direkt in der Songauswahl über die Mod "Difficulty Adjust".
+[^medals-lazer]: Manche [Hush-Hush Medaillen](/wiki/Medals#hush-hush) sind noch nicht verfügbar.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

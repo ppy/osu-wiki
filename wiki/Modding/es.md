@@ -2,41 +2,41 @@
 
 *Para otros usos, véase [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
-**Modding** es el acto de proveer comentarios al [beatmap](/wiki/Beatmap) de otro usuario. Un usuario que está modeando es considerado como un *modder*, y sus posts colectivos en una discusión de un beatmap se denomina como un *mod*.
+El **modding** es el acto de dar comentarios sobre el [beatmap](/wiki/Beatmap) de otro usuario. Un usuario que modea es conocido como un *modder*, y sus mensajes colectivos en la discusión de un beatmap son conocidos como *mods*.
 
-Los mods son principalmente usados para mejorar beatmaps que apuntan a un [estado Clasificado](/wiki/Beatmap/Category#ranked). Debido a que es un proceso detallado y analitico, modear beatmaps también es una manera popular de mejorar el entendimiento del beatmapping.
+Los mods se usan principalmente para mejorar los beatmaps que buscan ser [clasificados](/wiki/Beatmap/Category#ranked). Como se trata de un proceso detallado y analítico, el modding de los beatmaps también es una forma popular de que los usuarios mejoren su comprensión del beatmapping.
 
-## Encontrando beatmaps para modear
+## Cómo encontrar beatmaps para modear
 
-Mientras hay incontables maneras de descubrir beatmaps para modear, los siguientes son algunos métodos comunes:
+Si bien hay innumerables formas de encontrar beatmaps para modear, estos son algunos de los métodos más comunes:
 
-- El [foro de Modding Queues](https://osu.ppy.sh/community/forums/60) es la plataforma usada más activa para encontrar beatmaps para modear y para solicitar mods. Un usuario puede crear su propio hilo, refiriéndose como una *queue*, para que otros usuarios publiquen beatmaps que quieran que sean modeados.
+- El [foro Modding Queues](https://osu.ppy.sh/community/forums/60) es la plataforma más usada para encontrar beatmaps para modear y solicitar mods. Un usuario puede crear su propio hilo, conocido como *cola*, para que otros usuarios publiquen sus beatmaps que quieran que sean modeados.
 
-  El creador de cada queue dicta las reglas de cola, controlando que beatmaps son viables para recibir mods. Las colas usualmente abren por solicitudes de dos tipos de mods:
+  El creador de cada cola dicta las reglas de la cola, controlando qué beatmaps son aptos para recibir mods. Las colas suelen estar abiertas para solicitudes de dos tipos de mods:
 
-  - **Normal mod (NM):** Un mod que será proporcionado sin recibir trabajo alguno por parte del beatmaper solicitante.
-  - **Mod for Mod (M4M):** Un intercambio que requiere que cada usuario modee el beatmap del otro.
+  - **Mod normal (NM):** Un mod que se proporcionará sin trabajo por parte del mapper solicitante.
+  - **Mod por mod (M4M):** Un intercambio que requiere que cada usuario modee el beatmap del otro.
 
-- Los modders reconocidos a menudo anotan en sus perfiles de usuario si están o no aceptando solicitudes de mods.
+- Los modders más conocidos suelen indicar en sus perfiles de usuario si están aceptando o no solicitudes de mods.
 
-- Buscando el listado de beatmaps pendientes como beatmaps para modear **no** son recomendados debido a que la mayoría de envíos no están apuntando al estado Clasificado, por lo que sus creadores no responderán potencialmente por mods.
+- **No se recomienda buscar en la lista de beatmaps pendientes para modearlos**, ya que la mayoría de los mapas enviados no buscan ser clasificados, por lo que es posible que sus creadores no respondan a los mods.
 
-## Como modear
+## Cómo modear
 
-Para modear un beatmap, empieza descargando la versión más reciente y abre su [página de discusión](/wiki/Beatmap_discussion). Juega la [dificultad](/wiki/Beatmap/Difficulty) que quieras modear y ten en cuenta cualquier problema relacionado con el juego. Cuando finalices, abre la dificultad en el editor y analízala para encontrar otros errores.
+Para modear un beatmap, empieza descargando la versión más reciente y abriendo su [página de discusión](/wiki/Beatmap_discussion). Juega la [dificultad](/wiki/Beatmap/Difficulty) que quieras modear y ten en cuenta cualquier problema relacionado con la jugabilidad. Cuando hayas terminado, abre la dificultad en el editor y analízala en busca de otros problemas.
 
-Cuando te encuentres con un problema, selecciona los objetos de golpeo que sean relevantes, luego usa el atajo de copiar (`Ctrl` + `C`) para copiar la información de la línea de tiempo como texto. En la discusión del beatmap, pega (`Ctrl` + `V`) cualquier línea de tiempo aplicable y tu comentario. La pestaña de la `Línea de tiempo` se usa para problemas con respecto a partes específicas de un beatmap, la pestaña `General (Esta dificultad)` se usa para dar comentarios en secciones largas de un beatmap, y la pestaña `General (Todas las dificultades)` se usa para problemas que se apliquen con todas las dificultades de un beatmap.
+Cuando te encuentres con un problema, selecciona todos los objetos relevantes, luego usa el atajo de copiar (`Ctrl` + `C`) para copiar la información de la línea de tiempo como texto. En la discusión del beatmap, pega (`Ctrl` + `V`) la información de la línea de tiempo y tus comentarios. La pestaña `Línea de tiempo` se usa para problemas relacionados con partes específicas de un beatmap, la pestaña `General (nombre de la dificultad)` se usa para comentarios sobre secciones más grandes de un beatmap, y la pestaña `General (Todas las dificultades)` se usa para problemas aplicables a todas las dificultades de un beatmap.
 
-Todos los mod posts deben abordar cuál es el problema, porque es un problema, y como arreglarlo. Revise el [Código de conducta para Modding y Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) para más detalles en cómo dar formato a los mod posts.
+Todos las publicaciones de mods deben indicar cuál es el problema, por qué es un problema y cómo solucionarlo. Consulta el [código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) para obtener más información sobre el formato de las publicaciones de mods.
 
-Los beatmappers regularmente ofrecen [kudosu](/wiki/Modding/Kudosu) a los mod posts que ellos consideren como útiles al cliquear el botón de votar *pulgar arriba*. Esta estadística es rastreada por medio del perfil del usuario y se toma en cuenta al aplicar para ingresar a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
+Los mappers suelen dar [kudosu](/wiki/Modding/Kudosu) a los mods que consideren útiles haciendo clic en el icono de *pulgar hacia arriba*. Esta estadística se rastrea en el perfil del usuario y se usa como referencia al solicitar el ingreso a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
-## Tipos de mod posts
+## Tipos de publicaciones de mods
 
-El objetivo de cada post de un `Problema` o una `Sugerencia` en una página de discusión de beatmap es explicar todo lo relacionado con un beatmap en el contexto de su diseño.
+El objetivo de cada `Problema` o `Sugerencia` en la página de discusión de un beatmap es explicar todo lo relacionado con un beatmap en el contexto de su diseño.
 
-Muchos mod posts abordan errores en un beatmap. Por ejemplo, un clap hitsound faltante que se esperaría por el patrón de hitsounding del beatmap es probable que sea un problema.
+Muchas publicaciones de mods se refieren a errores en un beatmap. Por ejemplo, si falta un hitsound de un clap que se esperaría según el patrón de hitsounding del beatmap, es probable que se trate de un error.
 
-Proveer maneras alternativas de beatmapping es otro tipo común de mod posts. Mientras parte del beatmap pueda ser aceptable en su forma actual, un modder puede explicar como mejorarlo aún más diseñándolo de manera distinta.
+Proporcionar formas alternativas de mapear es otro tipo común para las publicaciones de mods. Si bien una parte de un beatmap puede ser aceptable en su forma actual, un modder puede explicar cómo mejorarla aún más diseñándola de otra manera.
 
-En los beatmaps que apuntan por un estado Clasificado, es imprescindible asegurarse de que cumplan con los [criterios de clasificación](/wiki/Ranking_criteria). Varios mod posts abordan problemas mencionados directamente desde estos mismos criterios.
+En los beatmaps que buscan ser clasificados, es imprescindible asegurarse de que cumplan los [criterios de clasificación](/wiki/Ranking_criteria). Varias publicaciones de mods abordan problemas citados directamente de estos criterios.

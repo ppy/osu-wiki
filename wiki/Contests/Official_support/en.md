@@ -14,7 +14,7 @@ tags:
 
 For other contests, email us at [tournaments@ppy.sh](mailto:tournaments@ppy.sh). We'll try to work something out.
 
-This article was last updated on June 2, 2024. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on September 30, 2024. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -37,12 +37,14 @@ Contests which abide by the following criteria are eligible for official support
 - **For solo osu!taiko, osu!catch, or osu!mania contests, there should be at least 10 valid submissions.**[^exception-note]
 - **For team contests, participation will be evaluated on a case-by-case basis depending on team sizes, creative requirements, and total valid submissions.** As a rule of thumb, aim for at least 20 participants and 10 valid submissions.
 - **The contest must have a clearly defined judging criteria based on mapping merit.** These ensure a contest follows an understandable quality standard in line with other mapping contests.
-- **The contest's results must be determined by valuing scores from all judges equally.** Using standard deviation to determine final scores is preferred but not required.
+- **The contest's results must be determined by valuing scores from all judges equally.** Using standard deviation to determine final scores is required.[^exception-note]
+  - The final score must be calculated as follows: `judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation`.
 - **The contest's results must be publicly displayed with judge scores/comments visible.** The judges may be anonymised publicly, but the osu! team may ask for un-anonymised judge details if necessary.
 - **The contest must have at least 4 judges.** Contests with fewer judges allow each judge too much influence on overall results.
 - **A user cannot participate in more than one submission to the contest.**
 - **Submissions to the contest should be anonymised.** This limits judging bias removing name association between a mapper and their map. This rule may be ignored only if a contest has special circumstances that warrant removing anonymity.
 - **The contest's organisers must not participate in the contest.** This includes both submitting a map *and* judging/screening submissions. Anyone with access to judging/screening information or un-anonymised submissions is considered a "contest organiser".
+- **Any staff involved in the operation of a contest in any capacity must not be currently restricted.**
 
 In addition to the criteria above, contests which abide by these rules are eligible for official support for **[contest points](/wiki/Contests/Contest_points) to earn the *Elite Mapper* user title:**
 
@@ -62,7 +64,11 @@ If your contest satisfies the [eligibility criteria](#eligibility), you can make
   - Previous iterations of the same contest series (if applicable).
   - Your contest on the [Mappers' Guild contest listing](https://mappersguild.com/contests/listing) (if applicable).
 
-Once we receive your request, the osu! team will send an approval or denial of your contest's official support status. Please send any such requests as early as possible before registrations, ideally at least a month in advance, to allow time for consideration.
+Once we receive your request, the osu! team will send an approval or denial of your contest's official support status.
+
+Profile badge prizes must be requested at most two months after the contest's completion. **Badges will never be approved until after the conclusion of the contest.**
+
+For news posts, setting up contest listings, or any other inquiries, please contact us as early as possible before registrations, ideally at least a month in advance, to allow time for consideration.
 
 The osu! team may choose to deny official support to any contest that fits the eligibility criteria at their discretion. This ensures no foul play occurs by contest organisers taking advantage of criteria loopholes, so if you are running a contest without ill intent, you likely do not need to worry about this.
 

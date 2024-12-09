@@ -110,7 +110,7 @@ The width of all embedded content frames must be set to 95% with the exception o
 Video embed hosted on `assets.ppy.sh`:
 
 ```html
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
@@ -120,7 +120,7 @@ Video embed hosted on `assets.ppy.sh`:
 Video embed hosted on YouTube:
 
 ```html
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
@@ -130,6 +130,7 @@ Video embed hosted on YouTube:
 The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
 
 - **Assets created for news posts should be cleared in terms of permissions and licensing.**
+- **No brand or sponsorship placements are allowed.** It is not on osu! to provide advertising for them.
 - **Note the [brand identity guidelines](/wiki/Brand_identity_guidelines), especially for the game and game mode names.** Terms like "standard" or "ctb" are not used in official contexts.
   - Preferred: "osu!", "osu!taiko", "osu!catch", "osu!mania" (also note that this is the canonical ordering whenever they're presented in sequence)
   - Acceptable: "osu!", "taiko", "catch", "mania"

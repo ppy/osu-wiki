@@ -2,7 +2,7 @@
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
 
-若要将 [osu!mania](/wiki/Game_mode/osu!mania) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!mania 上架标准 (osu!mania Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria#一般术语)。
+若要将 [osu!mania](/wiki/Game_mode/osu!mania) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!mania 上架标准 (osu!mania Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_criteria)。
 
 ## 术语
 
@@ -69,9 +69,9 @@
 - **必须将谱面中所出现的每个[特殊游玩方式](#常用术语)填入谱面的标签中。**
 - **使用 [N+1 游玩方式](#常用术语)的难度必须启用 `Song Setup` 标签页下的 `Advanced` 标签中的 `Use special style (N+1 style) for mania` 选项。同样，谱面也必须添加 “N+1” 标签。** 这条规定内的 “N+1” 仅限于键位数量低于 10 的游玩方式。[^n-plus-1]
 - **如果谱面的[掉血时间](/wiki/Beatmap/Drain_time)符合以下条件：**
-  - **小于 2:30**，则每个[键位模式](#常用术语)和[游玩方式](#常用术语)的最低难度不得高于 Normal，**或者**，每个键位模式至少拥有 4 个梯度合适[^proper-spread]的难度。
-  - **在 2:30 到 3:15 之间**，则每个[键位模式](#常用术语)和[游玩方式](#常用术语)的最低难度不得高于 Hard，**或者**，每个键位模式至少拥有 3 个梯度合适[^proper-spread]的难度。
-  - **在 3:15 到 4:00 之间**，则每个[键位模式](#常用术语)和[游玩方式](#常用术语)的最低难度不得高于 Insane，**或者**，每个键位模式至少拥有 2 个梯度合适[^proper-spread]的难度。
+  - **小于 2:00**，则每个[键位模式](#常用术语)和[游玩方式](#常用术语)的最低难度不得高于 Normal，**或者**，每个键位模式至少拥有 4 个梯度合适[^proper-spread]的难度。
+  - **在 2:00 到 2:45 之间**，则每个[键位模式](#常用术语)和[游玩方式](#常用术语)的最低难度不得高于 Hard，**或者**，每个键位模式至少拥有 3 个梯度合适[^proper-spread]的难度。
+  - **在 2:45 到 3:30 之间**，则每个[键位模式](#常用术语)和[游玩方式](#常用术语)的最低难度不得高于 Insane，**或者**，每个键位模式至少拥有 2 个梯度合适[^proper-spread]的难度。
 
 ### 准则
 

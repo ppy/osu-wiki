@@ -1,6 +1,44 @@
 # 直播 osu!
 
-本教程会向你展示使用 [OBS Studio](https://obsproject.com/) 在 Twitch 上直播 osu! 的方法。这个过程相对简单，需要一台能同时运行和直播 osu! 的高性能电脑。
+本教程会向你展示使用 [OBS Studio](https://obsproject.com/) 在哔哩哔哩与 Twitch 上直播 osu! 的方法。这个过程相对简单，需要一台能同时运行和直播 osu! 的高性能电脑。
+
+## 哔哩哔哩
+
+<!-- For en-zh translators and maintainers: All about Bilibili (a.k.a. This section) is independent of the original article and other translations. -->哔哩哔哩支持使用多种方式直播 osu!。关于配置直播的具体流程、以及直播过程中可能遇到的问题，参见[哔哩哔哩直播帮助中心](https://link.bilibili.com/p/help/index#/live-hime)。
+
+### 配置账户
+
+如果你还没有注册[哔哩哔哩账户](https://www.bilibili.com)，可以先注册一个。
+
+你需要确保账号通过了实名认证，直播功能可以正常使用。
+
+![](img/bilibili-livecenter.png "进入账户直播中心")
+
+进入直播中心后，转到`我的直播间 -> 开播设置`，选择直播分类并填写直播间标题。你也可以填写公告、添加标签与简介、上传封面等，以提高直播曝光率。
+
+例如，直播分类可选择`网游`或`单机游戏`等，个人标签、房间名中可添加 `osu!` 等字样。
+
+除此之外，哔哩哔哩直播姬客户端中也提供了相关信息的设置功能，可在主界面上部设置。
+
+![](img/bilibili-stream-info.png "在哔哩哔哩直播姬中设置直播信息")
+
+### 使用哔哩哔哩直播姬直播
+
+可以使用[哔哩哔哩直播姬](https://link.bilibili.com/p/eden/download)在 Windows 设备进行直播。
+
+与 OBS Studio 稍有不同的是，哔哩哔哩直播姬有 3 个固定的场景，但来源依然需要手动添加。
+
+在打开 osu! 客户端后，点击直播姬`场景`标签页下方的`+ 素材`按钮，随后选择`游戏进程`。在`添加其他`小节的下拉菜单中找到并选择`[osu!.exe]: osu!`，并点击`确定`。
+
+![](img/bilibili-game-capture.png "使用哔哩哔哩直播姬采集 osu! 窗口")
+
+如果一切正常，你应该会在预览画面中看到 osu! 窗口。
+
+### 使用 OBS Studio 直播
+
+关于 OBS Studio 的具体使用细节，请参见[下方的“配置 OBS Studio”](#配置-obs-studio)小节。
+
+对于 OBS Studio，请在哔哩哔哩直播中心的`开播设置`页面，点击`开始直播`按钮、将给出的服务器地址与推流码输入后，即可进行推流直播。
 
 ## Twitch
 
@@ -56,7 +94,7 @@
 
 ## 接下来做什么？
 
-现在，在配置好 OBS Studio 和你的 Twitch 账户后，在 OBS Studio 中点击`开始推流`来开始直播。几分钟后，你的直播就会出现在 [Twitch](https://www.twitch.tv/directory/game/osu!) 与 [osu! 网站的直播列表](https://osu.ppy.sh/community/livestreams)上。以上就是你开始直播之旅需要了解的所有事情了。当然，这篇教程只包括直播的基本流程；你还有很多方式继续进步、改善你的直播。因此，请考虑这些重要的事：
+现在，在配置好 OBS Studio 和你的哔哩哔哩或 Twitch 账户后，在 OBS Studio 中点击`开始推流`来开始直播。几分钟后，你的直播就会出现在 [Twitch](https://www.twitch.tv/directory/game/osu!) 与 [osu! 网站的直播列表](https://osu.ppy.sh/community/livestreams)上；如果你在使用哔哩哔哩直播，则会显示在你的哔哩哔哩账户资料页。以上就是你开始直播之旅需要了解的所有事情了。当然，这篇教程只包括直播的基本流程；你还有很多方式继续进步、改善你的直播。因此，请考虑这些重要的事：
 
 - **找到最佳直播设置。** OBS Studio 提供的自动配置对你的设备来说可能并不完美。因此，请检查一下你的直播是否很好。如果不太好，就看看应该改善什么来为观看者提供最佳体验。
 - **建立社群。** 这件事很有挑战性，因为从头开始建立你自己的社群需要很高程度的付出、投入和时间。然而，这可以为你的努力带来最丰厚的回报。
