@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: December 9, 2024"
-date: 2024-12-09 15:00:00 +0000
+date: 2024-12-09 17:15:00 +0000
 ---
 
 Cure your post–world cup depression with some brand-new osu!(lazer) updates!
