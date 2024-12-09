@@ -34,7 +34,7 @@ While the community has been indulging themselves to some top of the line osu! g
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2024-11-16-quick-retry.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-12-09-mod-bloom.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
