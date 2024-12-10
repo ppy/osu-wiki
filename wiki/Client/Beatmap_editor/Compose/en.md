@@ -22,7 +22,7 @@ The editor shares the same tools between osu!, osu!taiko, and osu!catch, while o
 
 The timeline can be zoomed in and out with the `+`/`-` buttons to the left, or alternatively scrolling with the `Alt` key held. The two white lines in the middle indicate the current timestamp. Additionally, hit objects on the timeline can be selected and moved around with the left mouse button, or removed by right-clicking.
 
-Click and drag a slidertail on the timeline right to create [repeat sliders](/wiki/Gameplay/Hit_object/Slider/Reverse_slider).
+Click and drag a slidertail on the timeline right to create [repeat sliders](/wiki/Gameplay/Hit_object/Slider/Repeat_slider).
 
 ### Beat snap divisor
 
