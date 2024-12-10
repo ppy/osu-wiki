@@ -6,7 +6,6 @@ tags:
 
 # Hit circle
 
-
 *Hit circle* are a type of colored, circular [hit object](/wiki/Gameplay/Hit_object) present in [osu!](/wiki/Game_mode/osu!) and [osu!taiko](/wiki/Game_mode/osu!taiko) [beatmaps](/wiki/Beatmap). They are core gameplay elements, requiring players to click on/tap them in time with the music to [score](/wiki/Gameplay/Score) point. The more [accurate](/wiki/Gameplay/Accuracy) is the player the more points he scores, and it provides a very small boost to the [health bar](/wiki/Gameplay/Health) as well as a larger boost at the end of a [combo](/wiki/Beatmapping/Combo).
 
 ## Customization and skinning
