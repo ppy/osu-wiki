@@ -24,7 +24,6 @@ In osu!taiko, hit circles appear from right-to-left as either red or blue notes 
 
 ![Taiko hit circles](/wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit circles")
 
-
 <!-- TODO: Include Skinnable Property-->
 
 <!-- TODO: Add links and images-->
