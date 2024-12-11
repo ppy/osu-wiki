@@ -67,7 +67,7 @@ Likely needing no introduction, [Camellia](https://osu.ppy.sh/beatmaps/artists/3
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
 
-How would you describe the concept or inspirations behind Operation: Zenithfall?
+How would you describe the concept or inspirations behind *Operation: Zenithfall*?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/31" style="background-image: url('/wiki/shared/avatars/Camellia.jpg')"></a>
 
@@ -83,7 +83,7 @@ As a result, and thanks to other people who did their best jobs to make this son
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
 
-Players likely remember your last osu! World Cup track ΩΩPARTS as the predecessor to hundreds of bespoke songs in osu! tournaments. Do you have thoughts to share regarding its conception?
+Players likely remember your last osu! World Cup track *ΩΩPARTS* as the predecessor to hundreds of bespoke songs in osu! tournaments. Do you have thoughts to share regarding its conception?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/31" style="background-image: url('/wiki/shared/avatars/Camellia.jpg')"></a>
 
