@@ -37,6 +37,7 @@ tags:
 
 :::
 
+*For the osu!stable version of this article, see: [xK (mod)](/wiki/Gameplay/Game_modifier/xK)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
