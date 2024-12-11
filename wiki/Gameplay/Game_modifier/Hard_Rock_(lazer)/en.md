@@ -24,7 +24,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 1.12x ![][osu!catch] / 1.06x ![][osu!] ![][osu!taiko] / 1.00x ![][osu!mania] |
 | Status | Ranked in ![][osu!] ![][osu!taiko] ![][osu!catch] / Unranked in ![][osu!mania] |
-| Incompatible mods | Easy (EZ), Difficulty Adjust (DA), Mirror (MR) compatible in ![][osu!mania] |
+| Incompatible mods | Easy (EZ), Difficulty Adjust (DA), Mirror (MR) only compatible in ![][osu!mania] |
 
 :::
 
