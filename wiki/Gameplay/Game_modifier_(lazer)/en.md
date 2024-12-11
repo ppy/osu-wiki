@@ -25,10 +25,10 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 ### Difficulty Reduction
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- No Fail (NF) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Half Time (HT) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Daycore (DC) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- No Release (NR) ![][osu!mania]
+- [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release) ![][osu!mania]
 
 ### Difficulty Increase
 
