@@ -10,7 +10,7 @@ tags:
 
 <!-- lint ignore heading-increment -->
 
-#### Wiggle
+#### Wind Up
 
 ![Wind Up mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WU.png)
 
