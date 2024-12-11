@@ -24,7 +24,8 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 1.12x ![][osu!] ![][osu!taiko] ![][osu!catch] / 1.00x ![][osu!mania] |
 | Status | Ranked |
-| Incompatible mods | Fade In (FI), Hidden (HD) only in ![][osu!mania], Cover (CO), Blinds (BL) |
+| Incompatible mods (osu!, osu!taiko, osu!catch) | Fade In (FI), Cover (CO), Blinds (BL) |
+| Incompatible mods (osu!mania) | Fade In (FI), Hidden (HD), Cover (CO), Blinds (BL) |
 
 :::
 
