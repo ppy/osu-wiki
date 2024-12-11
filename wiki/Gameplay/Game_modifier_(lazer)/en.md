@@ -47,11 +47,11 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Automation
 
-- Autoplay (AT) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Cinema (CN) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Relax (RX) ![][osu!] ![][osu!taiko] ![][osu!catch]
-- Autopilot (AP) ![][osu!]
-- Spun Out (SO) ![][osu!]
+- [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch]
+- [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)) ![][osu!]
+- [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)) ![][osu!]
 
 ### Conversion
 
