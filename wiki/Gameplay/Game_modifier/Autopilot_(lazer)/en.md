@@ -14,7 +14,7 @@ tags:
 
 ![Autopilot mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png)
 
-**
+*Automatic cursor movement - just follow the rhythm.*
 
 |  |  |
 | :-- | :-- |
