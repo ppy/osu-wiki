@@ -94,7 +94,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 ### Other
 
 - No Mod (NM) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- ScoreV2 ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [ScoreV2 (SV2)](/wiki/Gameplay/Game_modifier/ScoreV2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device) ![][osu!]
 
 #### Personal Presets
