@@ -57,7 +57,7 @@ intro
 
 ![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Camellia-banner.png)
 
-Likely needing no introduction, [Camellia](https://osu.ppy.sh/beatmaps/artists/31) is an artist responsible for many rhythm gamers' broken fingers and songs with storied beatmaps here on osu!. This year, he composed *Operation: Zenithfall* for the osu! World Cup's [Grand Finals tiebreaker beatmap](https://osu.ppy.sh/beatmapsets/2287992).
+Likely needing no introduction, [Camellia](https://osu.ppy.sh/beatmaps/artists/31) is an artist responsible for many rhythm gamers' broken fingers, as well as many songs with storied beatmaps here on osu!. This year, he composed *Operation: Zenithfall* for the osu! World Cup's [Grand Finals tiebreaker beatmap](https://osu.ppy.sh/beatmapsets/2287992).
 
 ---
 
