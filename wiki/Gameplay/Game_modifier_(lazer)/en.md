@@ -55,18 +55,18 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Conversion
 
-- Target Practice (TP) ![][osu!]
-- Difficulty Adjust (DA) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) ![][osu!]
+- [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko]
-- Random (RD) ![][osu!] ![][osu!taiko] ![][osu!mania]
-- Mirror (MR) ![][osu!] ![][osu!catch] ![][osu!mania]
-- Alternate (AL) ![][osu!]
-- Swap (SW) ![][osu!taiko]
-- Single Tap (SG) ![][osu!] ![][osu!taiko]
-- Invert (IN) ![][osu!mania]
-- Constant Speed (CS) ![][osu!taiko] ![][osu!mania]
-- Hold Off (HO) ![][osu!mania]
-- 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K ![][osu!mania]
+- [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!mania]
+- [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) ![][osu!] ![][osu!catch] ![][osu!mania]
+- [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) ![][osu!]
+- [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) ![][osu!taiko]
+- [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap) ![][osu!] ![][osu!taiko]
+- [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) ![][osu!mania]
+- [Constant Speed (CS)](/wiki/Gameplay/Game_modifier/Constant_Speed) ![][osu!taiko] ![][osu!mania]
+- [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) ![][osu!mania]
+- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K](/wiki/Gameplay/Game_modifier/xK_(lazer)) ![][osu!mania]
 
 ### Fun
 
