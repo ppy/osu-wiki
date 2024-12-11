@@ -23,7 +23,8 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 1.00x |
 | Status | Ranked |
-| Incompatible mods | Easy (EZ) only compatible in ![][osu!taiko], No Fail (NF), Perfect (PF), Cinema (CN) |
+| Incompatible mods (osu!, osu!catch, osu!mania) | Easy (EZ), No Fail (NF), Perfect (PF), Cinema (CN) |
+| Incompatible mods (osu!taiko) | No Fail (NF), Perfect (PF), Cinema (CN) |
 
 :::
 
