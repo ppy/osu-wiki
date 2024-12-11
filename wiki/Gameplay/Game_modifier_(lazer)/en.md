@@ -32,18 +32,18 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Difficulty Increase
 
-- Hard Rock (HR) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Sudden Death (SD) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Perfect (PF) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Double Time (DT) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Nightcore (NC) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Fade In (FI) ![][osu!mania]
-- Hidden (HD) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Cover (CO) ![][osu!mania]
-- Flashlight (FL) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Blinds (BL) ![][osu!]
-- Strict Tracking (ST) ![][osu!]
-- Accuracy Challenge (AC) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) ![][osu!mania]
+- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover)) ![][osu!mania]
+- [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) ![][osu!]
+- [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
+- [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### Automation
 
