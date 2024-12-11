@@ -40,6 +40,10 @@ intro
         margin-bottom: 2px;
     }
 
+    .news-chat-quote__colour-gmt {
+        color: #99EB47;
+    }
+
     .news-chat-quote__colour-lvd {
         color: #FFD1DC;
     }
@@ -52,6 +56,68 @@ intro
         color: #00FFFF;
     }
 </style>
+
+::{#flyingtuna}::
+
+![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/FlyingTuna-banner.png)
+
+[FlyingTuna](https://osu.ppy.sh/users/9224078) was the captain of the winning team of osu! World Cup 2024, South Korea.
+
+---
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/avatars/dio.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
+
+South Korea dropped only nine points in total against only one team, making this the second most dominant win of any team in OWC history, statistically speaking. Do you feel that South Korea's performance in matches this year were as dominant as this stat implies?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9224078" style="background-image: url('/wiki/shared/avatars/FlyingTuna.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9224078">FlyingTuna</a></p>
+
+Yes, I think our performance was outstanding. Honestly, I believe we could have won without giving up many points even against USA, but the pressure of playing against them was much bigger than we expected, which led us to giving them some breakpoints
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/avatars/dio.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
+
+How much do you consider tryouts when forming the roster as opposed to tournament performance throughout the year? How about the previous year's OWC performance?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9224078" style="background-image: url('/wiki/shared/avatars/FlyingTuna.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9224078">FlyingTuna</a></p>
+
+Last year, our main focus was on whether we could compete skillsets like speed and mechanics which favor USA when we face them in the later rounds.
+
+However, this year, instead of focusing on skillsets that favor USA, we decided to focus on skillsets that we are good at (like tech, alt, hidden, gimmick) and just give up on speed.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/avatars/dio.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
+
+You have [Nopekjk](https://osu.ppy.sh/users/4585186) listed as an analyst on your team collab, and [Allegrissimo](https://osu.ppy.sh/users/9052194) shouted him out with smoke writing during the TB showcase. What was his role this year as an analyst and past player for OWC South Korea?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9224078" style="background-image: url('/wiki/shared/avatars/FlyingTuna.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9224078">FlyingTuna</a></p>
+
+Yes, Nopekjk was our analyst. Throughout the whole OWC he would analyze the scores that the opponents would get on each map of each stage and would help us with pick and ban whilst also encouraging us and supporting us mentally.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/avatars/dio.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
+
+South Korea finished in the top 4 eight times since 2014, top 3 5 times since 2016, and second in 2019, 2022, and 2023. What does it mean for you to finally get the win this year?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9224078" style="background-image: url('/wiki/shared/avatars/FlyingTuna.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9224078">FlyingTuna</a></p>
+
+To be honest I can't really express my emotions enough with just words. I am so overjoyed and happy that this happened after everything we as a team have been through. This means so much not just to the 2024 roster players but also to past roster players who have been cheering and supporting us throughout all this time. It is definitely one of the greatest things in my life and I will cherish it always.
+
+</div>
 
 ::{#camellia}::
 
