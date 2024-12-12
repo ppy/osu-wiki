@@ -4,19 +4,19 @@ title: "osu!mania 7K World Cup 2025: Registrations Now Open!"
 date: 2024-12-12 15:00:00 +0000
 ---
 
-Winter’s here, and so is the season of smashing keys. Warm up your fingers and join the holiday rhythm!
+Winter's here, and so is the season of smashing keys. Warm up your fingers and join the holiday rhythm!
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
 
 For this year, all mappools will be made up of custom-tailored maps! We hope you enjoy playing our tailor-made, keysmashing-oriented creations. That's not everything though, as we are adding a new mod bracket called Extreme (**EX** for short). EX will be composed of 3 maps (one from Rice, Long Note, and Hybrid) that, as the name suggests, are a lot harder than the rest of the mappool. As such, they will only appear on Finals and Grand Finals.
 
-Now, moving on to the bracket format, we are going to monitor the amount of signups before deciding if qualifiers will seed into a traditional Round of 32 bracket, or last year's Round of 24, so make sure to tell all your friends to press the shiny pink button to register [here](https://osu.ppy.sh/community/tournaments/48)!
+Now, moving on to the bracket format, we are going to monitor the amount of signups before deciding if Qualifiers will seed into a traditional Round of 32 bracket, or last year's Round of 24, so make sure to tell all your friends to press the shiny pink button to register [here](https://osu.ppy.sh/community/tournaments/48)!
 
 For a refresher of what a Round of 24 bracket would look like, look no further:
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-bracket.png)
 
-As you can see, seeds 1 through 8 get a one week break before playing in the Round of 16. Please refer to last year's [Challonge bracket](https://challonge.com/MWC7K_2024) for the full picture.
+As you can see, seeds 1 through 8 get a one-week break before playing in the Round of 16. Please refer to last year's [Challonge bracket](https://challonge.com/MWC7K_2024) for the full picture.
 
 As always, for more details pertaining to the tournament, refer to the **[osu!mania 7K World Cup 2025 wiki article](/wiki/Tournaments/MWC/2025_7K)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2014134)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
@@ -52,6 +52,6 @@ Please note that teams will be formed by each country's captain *after* the regi
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
-*Remember that any registrations submitted after the deadline will not be considered under any circumstances — submit your registration ahead of time to avoid any last-minute headaches. If you run into any issues, send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).*
+*Remember that any registrations submitted after the deadline will not be considered under any circumstances — submit your registration ahead of time to avoid any last-minute headaches. If you run into any issues, email [tournaments@ppy.sh](mailto:tournaments@ppy.sh).*
 
 —LeoFLT
