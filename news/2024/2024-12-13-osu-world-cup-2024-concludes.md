@@ -4,11 +4,9 @@ title: "osu! World Cup 2024 Concludes"
 date: 2024-12-13 23:30:00 +0000
 ---
 
-teaser
+They've all come so far, but there can only be one Champion.
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
-
-intro
 
 ## Summary
 
@@ -23,8 +21,6 @@ text
 <!-- use ::{#grand-finals-originals}:: to guide the reader to the GF embeds -->
 
 ## Grand Finals recap
-
-text
 
 ### ::{ flag=US }:: United States vs. ::{ flag=AU }:: Australia
 
@@ -82,7 +78,7 @@ South Korea had finally done it. The reign of the United States as osu! World Cu
 
 ## Match highlights
 
-text
+If you missed out on any on the weeks, or are just getting into osu! and need a crash course, here you will find all matches that have been highlighted throughout the world cup.
 
 | Match | Stage | Links |
 | :-- | :-- | :-- |
@@ -104,7 +100,9 @@ text
     }
 </style>
 
-text
+Alongside all the high-quality production and entertainment, the 2024 osu! World Cup also featured **13** brand-new [osu! originals](/wiki/osu!_originals), spanning across almost all major music genres. From jazz to hardcore, the quality of not only the songs, but also all other assets such as backgrounds, storyboards, videos, etc. have helped generate hype and provide the community with content of the highest quality.
+
+Check out all the originals below by listening to the previews, and checking out the beatmaps themselves by clicking on their banners!
 
 ### Round of 32
 
@@ -417,10 +415,10 @@ And, by the way, this message will self-destruct in 5 seconds.
 
 ---
 
-<!-- dont forget to (if possible) include the GF art behind the scenes video https://discord.com/channels/188630481301012481/1293209725034303529/1313524094536515685 -->
-
-outro + credits
+The 2024 osu! world cup would not have been possible without **191** individual contributors across the board, along with **506** players who partook in the tournament.
 
 ![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc2024-credits.png)
+
+Thank you to the contributors, players, viewers, and everyone who has joined us for this amazing ride! The osu!mania 7K World Cup is up next in early January, so if you're a key smasher we hope to see you there!
 
 —0x84f, Dada, D I O, this1neguy, Walavouchey
