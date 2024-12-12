@@ -48,3 +48,6 @@ If you have any questions about this process, please leave a comment on this new
 * Contact any of the [Tournament Committee members](/wiki/People/Tournament_Committee/en.md#tournament-committee-members).
 * Join the [osu! Discord server](https://discord.gg/ppy) and visit `#tournaments` to chat with us.
 
+The team greatly appreciates anyone who takes the time to submit a detailed application. Best of luck!
+
+-Stage
