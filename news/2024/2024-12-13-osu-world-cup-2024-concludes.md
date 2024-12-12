@@ -27,7 +27,7 @@ intro
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/A_r3iiKN_gc?start=19&end=301" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The United States and Australia faced off once again in the losers’ finals, a rematch of their winners’ semifinals bout. Two weeks ago, the United States won the match 6–4, but Australia would have something to say about that this time around. This match was a back-and-forth slugfest with the best players on each team finding ways to pop off again and again and again in the hardest pool OWC has ever seen.
+The United States and Australia faced off once again in the losers’ Finals, a rematch of their winners’ semifinals bout. Two weeks ago, the United States won the match 6–4, but Australia would have something to say about that this time around. This match was a back-and-forth slugfest with the best players on each team finding ways to pop off again and again and again in the hardest pool OWC has ever seen.
 
 Things started off relatively predictably, with Australia banning out [HD2](https://osu.ppy.sh/beatmapsets/2287847#osu/4881475) and [FM2](https://osu.ppy.sh/beatmapsets/2287988#osu/4881763), while the USA banned out [DT2](https://osu.ppy.sh/beatmapsets/2287978#osu/4881745) and [DT3](https://osu.ppy.sh/beatmapsets/20949#osu/74684). What wasn’t predictable was that after taking the win on [DT1](https://osu.ppy.sh/beatmapsets/2287643#osu/4880978) by only 127,583 points, Australia also took a first pick break point on the USA’s [FM3](https://osu.ppy.sh/beatmapsets/2288047#osu/4881933) first pick. Australia would go on to have the top team score of the whole weekend, beating both of the USA’s scores and South Korea’s score on the map, with [cyo](https://osu.ppy.sh/users/8195473) top scoring the map with a whopping 950,339 points on hard rock. The USA then managed to break back on Australia’s second pick, [NM5](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677), with [hydrogen bomb](https://osu.ppy.sh/users/7813296) and [Utami](https://osu.ppy.sh/users/7512553) top scoring the lobby, before losing their own second pick in [NM2](https://osu.ppy.sh/beatmapsets/2288022#osu/4881869), where three of the players for Australia all outscored the top player from the USA.
 
@@ -41,7 +41,7 @@ The match would finish off with another set of traded points. The Aussies took t
 
 This last map, however, was not where we would see the peak of OWC dominance finally fall. Operation: Zenithfall would go to the Americans, with [mrekk](https://osu.ppy.sh/users/7562902) top scoring the lobby once again but [Utami](https://osu.ppy.sh/users/7512553), [hydrogen bomb](https://osu.ppy.sh/users/7813296), and [WindowLife](https://osu.ppy.sh/users/4108547) all outscoring the second best score on team Australia. Despite how close this match ended up, with many points traded for both teams with less than a 200,000 score difference, the end result still favoured the reigning champs. For the tenth time in a row, the United States would move on to the Grand Finals to face off against South Korea.
 
-### ::{ flag=US }:: United States vs. ::{ flag=SK }:: South Korea
+### ::{ flag=SK }:: South Korea vs. ::{ flag=US }:: United States
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116432947)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2321357590)**
@@ -73,6 +73,20 @@ Never willing to let the cinematic potential of such a moment go to waste, their
 South Korea had finally done it. The reign of the United States as osu! World Cup champions had come to an end at their hands, and in remarkable fashion: from 4-1 down, the South Korean squad did not drop a single map the rest of the way, taking 6 straight picks to close the match out 7-4. Their performance throughout the 2024 World Cup was stunning, dropping just 9 maps to the United States in their two matches while going undefeated through the rest of the tournament, all with multiple team members near the top of the performance score leaderboard every week. It was a victory for the ages, one which will be etched in the history of the osu! World Cup for all time.
 
 ## Match highlights
+
+text
+
+| Match | Stage | Links |
+| :-- | :-- | :-- |
+| ::{ flag=CN }:: China vs. ::{ flag=JP }:: Japan | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-11-07-osu-world-cup-2024-round-of-32-recap#china-vs.--japan), [VOD](https://www.twitch.tv/videos/2291865086), [video recap](https://www.youtube.com/watch?v=j9RjpqSAYcE&t=760s) |
+| ::{ flag=SE }:: Sweden vs. ::{ flag=ID }:: Indonesia | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-11-07-osu-world-cup-2024-round-of-32-recap#sweden-vs.--indonesia), [VOD](https://www.twitch.tv/videos/2292746231), [video recap](https://www.youtube.com/watch?v=j9RjpqSAYcE&t=1136s) |
+| :{ flag=RU }:: Russian Federation vs. ::{ flag=CN }:: China | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-11-14-osu-world-cup-2024-round-of-16-recap#russian-federation-vs.--china), [VOD](https://www.twitch.tv/videos/2298021032), [video recap](https://www.youtube.com/watch?v=Q3t9MojGc18&t=136s) |
+| ::{ flag=ES }:: Spain vs. ::{ flag=FI }:: Finland | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-11-14-osu-world-cup-2024-round-of-16-recap#spain-vs.--finland), [VOD](https://www.twitch.tv/videos/2298526307), [video recap](https://www.youtube.com/watch?v=Q3t9MojGc18&t=1132s) |
+| ::{ flag=PH }:: Philippines vs. ::{ flag=UA }:: Ukraine | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2024-11-20-osu-world-cup-2024-quarterfinals-recap#philippines-vs.--ukraine), [VOD](https://www.twitch.tv/videos/2304248553), [video recap](https://www.youtube.com/watch?v=cld2spAZQ-M&t=792s) |
+| ::{ flag=AU }:: Australia vs. ::{ flag=US }:: United States | Semifinals | [Text summary](https://osu.ppy.sh/home/news/2024-11-29-osu-world-cup-2024-semifinals-recap#australia-vs.--united-states), [VOD](https://www.twitch.tv/videos/2309726416), [video recap](https://www.youtube.com/watch?v=udSXyASuYI4&t=1021s) |
+| ::{ flag=CA }:: Canada vs. ::{ flag=GB }:: United Kingdom | Semifinals | [Text summary](https://osu.ppy.sh/home/news/2024-11-29-osu-world-cup-2024-semifinals-recap#canada-vs.--united-kingdom), [VOD](https://www.twitch.tv/videos/2310083959), [video recap](https://www.youtube.com/watch?v=udSXyASuYI4&t=393s) |
+| ::{ flag=AU }:: Australia vs. ::{ flag=DE }:: Germany | Finals | [Text summary](https://osu.ppy.sh/home/news/2024-12-05-osu-world-cup-2024-finals-recap#australia-vs.--germany), [VOD](https://www.twitch.tv/videos/2315679372), [video recap](https://www.youtube.com/watch?v=-H-rOKG-2C4&t=436s) |
+| ::{ flag=KR }:: South Korea vs. ::{ flag=US }:: United States | Finals | [Text summary](https://osu.ppy.sh/home/news/2024-12-05-osu-world-cup-2024-finals-recap#south-korea-vs.--united-states), [VOD](https://www.twitch.tv/videos/2315417594), [video recap](https://www.youtube.com/watch?v=-H-rOKG-2C4&t=645s) |
 
 ## osu! originals
 
