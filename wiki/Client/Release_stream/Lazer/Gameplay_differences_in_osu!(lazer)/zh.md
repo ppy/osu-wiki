@@ -53,7 +53,7 @@
 | 游戏模式 | 与 stable 比较 | 与 lazer 比较 | 与 lazer 回放模式比较 |
 | :-- | :-- | :-- | :-- |
 | osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`，除了 miss 判定区间使用 `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
+| osu!taiko | `abs(round(hit error)) < floor(hit window)`，除了 MISS 判定区间使用 `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 | osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 
 |  |  |
