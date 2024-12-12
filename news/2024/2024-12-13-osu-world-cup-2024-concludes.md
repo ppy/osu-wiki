@@ -41,7 +41,7 @@ The match would finish off with another set of traded points. The Aussies took t
 
 This last map, however, was not where we would see the peak of OWC dominance finally fall. Operation: Zenithfall would go to the Americans, with [mrekk](https://osu.ppy.sh/users/7562902) top scoring the lobby once again but [Utami](https://osu.ppy.sh/users/7512553), [hydrogen bomb](https://osu.ppy.sh/users/7813296), and [WindowLife](https://osu.ppy.sh/users/4108547) all outscoring the second best score on team Australia. Despite how close this match ended up, with many points traded for both teams with less than a 200,000 score difference, the end result still favoured the reigning champs. For the tenth time in a row, the United States would move on to the Grand Finals to face off against South Korea.
 
-### ::{ flag=SK }:: South Korea vs. ::{ flag=US }:: United States
+### ::{ flag=KR }:: South Korea vs. ::{ flag=US }:: United States
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116432947)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2321357590)**
@@ -80,7 +80,7 @@ text
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: China vs. ::{ flag=JP }:: Japan | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-11-07-osu-world-cup-2024-round-of-32-recap#china-vs.--japan), [VOD](https://www.twitch.tv/videos/2291865086), [video recap](https://www.youtube.com/watch?v=j9RjpqSAYcE&t=760s) |
 | ::{ flag=SE }:: Sweden vs. ::{ flag=ID }:: Indonesia | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-11-07-osu-world-cup-2024-round-of-32-recap#sweden-vs.--indonesia), [VOD](https://www.twitch.tv/videos/2292746231), [video recap](https://www.youtube.com/watch?v=j9RjpqSAYcE&t=1136s) |
-| :{ flag=RU }:: Russian Federation vs. ::{ flag=CN }:: China | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-11-14-osu-world-cup-2024-round-of-16-recap#russian-federation-vs.--china), [VOD](https://www.twitch.tv/videos/2298021032), [video recap](https://www.youtube.com/watch?v=Q3t9MojGc18&t=136s) |
+| ::{ flag=RU }:: Russian Federation vs. ::{ flag=CN }:: China | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-11-14-osu-world-cup-2024-round-of-16-recap#russian-federation-vs.--china), [VOD](https://www.twitch.tv/videos/2298021032), [video recap](https://www.youtube.com/watch?v=Q3t9MojGc18&t=136s) |
 | ::{ flag=ES }:: Spain vs. ::{ flag=FI }:: Finland | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-11-14-osu-world-cup-2024-round-of-16-recap#spain-vs.--finland), [VOD](https://www.twitch.tv/videos/2298526307), [video recap](https://www.youtube.com/watch?v=Q3t9MojGc18&t=1132s) |
 | ::{ flag=PH }:: Philippines vs. ::{ flag=UA }:: Ukraine | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2024-11-20-osu-world-cup-2024-quarterfinals-recap#philippines-vs.--ukraine), [VOD](https://www.twitch.tv/videos/2304248553), [video recap](https://www.youtube.com/watch?v=cld2spAZQ-M&t=792s) |
 | ::{ flag=AU }:: Australia vs. ::{ flag=US }:: United States | Semifinals | [Text summary](https://osu.ppy.sh/home/news/2024-11-29-osu-world-cup-2024-semifinals-recap#australia-vs.--united-states), [VOD](https://www.twitch.tv/videos/2309726416), [video recap](https://www.youtube.com/watch?v=udSXyASuYI4&t=1021s) |
