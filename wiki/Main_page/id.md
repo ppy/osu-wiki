@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 ---
 
