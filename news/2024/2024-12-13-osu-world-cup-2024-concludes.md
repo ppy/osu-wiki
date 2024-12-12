@@ -12,11 +12,17 @@ intro
 
 ## Summary
 
+text
+
 ## Mappool recap
+
+text
 
 <!-- use ::{#grand-finals-originals}:: to guide the reader to the GF embeds -->
 
 ## Grand Finals recap
+
+text
 
 ### ::{ flag=US }:: United States vs. ::{ flag=AU }:: Australia
 
@@ -89,6 +95,14 @@ text
 | ::{ flag=KR }:: South Korea vs. ::{ flag=US }:: United States | Finals | [Text summary](https://osu.ppy.sh/home/news/2024-12-05-osu-world-cup-2024-finals-recap#south-korea-vs.--united-states), [VOD](https://www.twitch.tv/videos/2315417594), [video recap](https://www.youtube.com/watch?v=-H-rOKG-2C4&t=645s) |
 
 ## osu! originals
+
+<style>
+    .osu-md--news .audio-player {
+        max-width: inherit;
+    }
+</style>
+
+text
 
 ### Round of 32
 
