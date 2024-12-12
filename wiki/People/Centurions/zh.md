@@ -19,6 +19,7 @@
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [2007-10-25](https://osu.ppy.sh/beatmapsets/122) | [2010-08-04](https://osu.ppy.sh/beatmapsets/17885) |  |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [2017-10-23](https://osu.ppy.sh/beatmapsets/659371) | [2022-07-09](https://osu.ppy.sh/beatmapsets/1738133) |  |
 | ::{ flag=AR }:: [gaston_2199](https://osu.ppy.sh/users/5938161) | [2016-12-25](https://osu.ppy.sh/beatmapsets/519474) | [2024-07-17](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
+| ::{ flag=JP }:: [gazimal](https://osu.ppy.sh/users/6055351) | [2020-12-24](https://osu.ppy.sh/beatmapsets/1298109) | [2024-10-11](https://osu.ppy.sh/beatmapsets/2183696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM25) |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [2020-03-09](https://osu.ppy.sh/beatmapsets/1112834) | [2023-08-28](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | [2013-06-13](https://osu.ppy.sh/beatmapsets/64564) | [2024-02-08](https://osu.ppy.sh/beatmapsets/2105591#osu/4418008) | [#1](https://osu.ppy.sh/beatmaps/packs/TM19) |
@@ -31,11 +32,11 @@
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [2018-09-16](https://osu.ppy.sh/beatmapsets/826551) | [2022-12-30](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [2016-05-21](https://osu.ppy.sh/beatmapsets/169622) | [2024-10-04](https://osu.ppy.sh/beatmapsets/2250094) | [#1](https://osu.ppy.sh/beatmaps/packs/TM24) |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [2015-12-13](https://osu.ppy.sh/beatmapsets/373858) | [2018-08-29](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5)、[#2](https://osu.ppy.sh/beatmaps/packs/TM6)、[#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
-| ::{ flag=PL }:: [Suimya](https://osu.ppy.sh/users/700887) | [2011-03-28](https://osu.ppy.sh/beatmapsets/26544) | [2024-08-01](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |
+| ::{ flag=PL }:: [Sekai](https://osu.ppy.sh/users/700887) | [2011-03-28](https://osu.ppy.sh/beatmapsets/26544) | [2024-08-01](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [2019-07-12](https://osu.ppy.sh/beatmapsets/965596) | [2023-10-07](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [2009-03-09](https://osu.ppy.sh/beatmapsets/5417) | [2012-03-08](https://osu.ppy.sh/beatmapsets/44666) | [#1](https://osu.ppy.sh/beatmaps/packs/TM21) |
 
 ## 冷知识
 
 - 第一个上架 100 张谱面的玩家是 ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363)，于 2010 年 8 月 4 日达成。
-- 总体来说，上架 100 张谱面平均需要 **4.8 年**（大约 1751 天）。<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->
+- 总体来说，上架 100 张谱面平均需要 **4.8 年**（大约 1735 天）。<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->

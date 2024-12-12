@@ -6,6 +6,7 @@ no_native_review: true
 
 - [Choke](Choke)
 - [Comboburst](Comboburst)
+- [Combo complet](Full_combo)
 - [Combo fire](Combo_fire)
 - [Combo milestone](Combo_milestone)
 - [Combo multiplier effect](Combo_multiplier_effect)
@@ -22,7 +23,9 @@ no_native_review: true
 - [Kiai time](Kiai_time)
 - [Mind block](Mind_block)
 - [Notelock](Judgement/Notelock)
+- [objets](Hit_object)
 - [Pass](Pass)
+- [Points de vie](Health)
 - [Précision](Accuracy)
 - [Protection pour tablette](Tablet_cover)
 - [Replay](Replay)

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 25e83fbe85484e8e4a461e1e5f862e876479eb0b
----
-
 # Criterios de clasificación de osu!
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
@@ -20,7 +15,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!. Las 
 - **Los objetos nunca deben estar fuera de la pantalla en relaciones de aspecto 4:3.** Los objetos que estén incluso parcialmente fuera de la pantalla pueden crear dificultades al momento de leer las notas. Prueba jugar tu beatmap para confirmar esto.
 - **Los spinners deben ser lo suficientemente largos para que Auto alcance una puntuación de bonificación de 1000.** Los spinners más cortos no permiten un tiempo de giro adecuado.
 - **Cada beatmap debe usar al menos dos colores de combo personalizados diferentes a menos que se fuerce la skin predeterminada.** Los colores de combo no deben mezclarse con el fondo/storyboard/vídeo del beatmap en ningún caso. Esto es para que los objetos siempre sean visibles para el jugador y los colores de combo de la skin personalizada no se mezclen con el fondo accidentalmente.
-- **Todas las partes de los objetos en las que se hace clic activamente deben tener al menos un [hitsound](/wiki/Beatmapping/Hitsound) audible que no se mezcle con la canción.** De lo contrario, los jugadores no reciben suficiente apoyo. No se permite el uso de [keysounds](/wiki/Beatmapping/Hitsound#keysound) como hits normales sin otros sonidos de hits adicionales distintos, por ejemplo.
+- **Todas las partes de los objetos en las que se hace clic activamente deben tener al menos un [hitsound](/wiki/Beatmapping/Hitsound) audible que no se mezcle con la canción.** De lo contrario, los jugadores no reciben suficiente apoyo. Por ejemplo, no se permite el uso de [keysounds](/wiki/Beatmapping/Hitsound#keysound) como hits normales sin otros hitsounds adicionales distintos.
 - **Las dificultades deben convertirse a otros modos de juego sin alterar la calificación por estrellas/puntos de rendimiento.** En ciertos casos, un archivo `.osu` puede tener un formato incorrecto, lo que hace que las dificultades convertidas muestren incorrectamente la calificación por estrellas y recompensen puntos de rendimiento inexactos.
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
   - **... menos de 3:30**, la dificultad más baja no puede ser más difícil que un Normal.
@@ -33,7 +28,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!. Las 
 - **Los slider ends que no representan un sonido específico en la música deben [ajustarse](/wiki/Beatmapping/Snapping) de acuerdo con la estructura de ritmo de la canción.** Si la canción usa un ritmo continuo, se debe usar 1/4, 1/8, 1/16. Si la canción usa un ritmo swing, se debe usar 1/6 o 1/12. Si la canción tiene un ritmo en una composición diferente a la recomendada, el ajuste a un ritmo adecuado siempre tendrá prioridad.
 - **Todos los círculos y slider heads deben [ajustarse](/wiki/Beatmapping/Snapping) a los distintos sonidos de la música.** Añadir objetos cuando no hay ninguna pista musical que los justifique puede dar lugar a un ritmo inadecuado.
 - La **[tasa de las marcas de los sliders](/wiki/Beatmapping/Slider_tick_rate) debe establecerse siguiendo el ritmo de la canción.** Por ejemplo, si tu canción contiene una sección que solo usa ritmos de 1/3, usar una tasa de 2 para las marcas de los sliders no sería adecuado para todo el beatmap. En estos casos, se debe usar una tasa de 1 para las marcas de los sliders.
-- **Evita usar colores de combo, bordes de slider o superposiciones de círculos con 50 de luminosidad o menos.** Los colores oscuros como estos afectan a la legibilidad de los círculos de aproximación con poca luz de fondo y los demás elementos pierden parcialmente sus funciones como bordes.
+- **Evita usar colores de combo, bordes de slider o superposiciones de círculos con 50 de luminosidad o menos.** Los colores oscuros como estos afectan a la legibilidad de los círculos de aproximación con un fondo muy oscuro y los demás elementos pierden parcialmente sus funciones como bordes.
 - **Evita usar colores de combo y colores personalizados para la trayectoria de los sliders con 220 de luminosidad o superior durante los kiai times.** Crean destellos brillantes que pueden resultar desagradables para los ojos.
 - **Los finales de los spinners, slider ends y las flechas de inverso de los sliders deben tener un hitsound de apoyo.** Si se usan para representar un sonido sostenido y no se alinean con un sonido distinto, es aceptable que no tengan un hitsound de apoyo.
 - **Evita usar muestras de sonido para sliderslide, sliderwhistle y spinnerspin que no se repiten de forma natural.** Estos hitsounds son continuos, lo que significa que sus archivos se reproducen de principio a fin y se repiten como un sonido continuo a lo largo del objeto, por lo que el uso de archivos de sonido con un impacto claro para ellos podría provocar efectos secundarios no deseados.
@@ -57,7 +52,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!. Las 
 
 Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de dificultad para el que se indican y, por lo tanto, *no se aplican a **todas** las dificultades de osu!*. Las reglas y pautas relacionadas con el ritmo se aplican a los beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalar el BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
-### Nombres de dificultad
+### Nombres de las dificultades
 
 *Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
 
