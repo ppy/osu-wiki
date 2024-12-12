@@ -143,7 +143,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 3. The top 8 seeded teams from the Qualifiers get a bye for the Round of 24, and start playing on the Round of 16 instead.
 4. Teams that lose their Round of 24 match get a bye for the Round of 16, and start playing the Losers bracket from Quarterfinals onwards.
 
-![](img/mwc7k2024-bracket.png)
+![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-bracket.png)
 
 ### Win conditions
 

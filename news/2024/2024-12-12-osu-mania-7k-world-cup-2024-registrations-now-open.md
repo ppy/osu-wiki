@@ -18,7 +18,6 @@ For a refresher of what a Round of 24 bracket would look like, look no further:
 
 As you can see, seeds 1 through 8 get a one week break before playing in the Round of 16. Please refer to last year's [Challonge bracket](https://challonge.com/MWC7K_2024) for the full picture.
 
-
 As always, for more details pertaining to the tournament, refer to the **[osu!mania 7K World Cup 2025 wiki article](/wiki/Tournaments/MWC/2025_7K)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2014134)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
