@@ -10,17 +10,191 @@ teaser
 
 intro
 
-### Summary
+## Summary
 
-### Mappool recap
+## Mappool recap
 
-### Grand Finals recap
+<!-- use ::{#grand-finals-originals}:: to guide the reader to the GF embeds -->
 
-### Match highlights
+## Grand Finals recap
 
-### osu! originals
+### ::{ flag=US }:: United States vs. ::{ flag=AU }:: Australia
 
-### Interviews
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116420454)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2320386497)**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/A_r3iiKN_gc?start=19&end=301" frameborder="0" allowfullscreen></iframe>
+</div>
+
+The United States and Australia faced off once again in the losers’ finals, a rematch of their winners’ semifinals bout. Two weeks ago, the United States won the match 6–4, but Australia would have something to say about that this time around. This match was a back-and-forth slugfest with the best players on each team finding ways to pop off again and again and again in the hardest pool OWC has ever seen.
+
+Things started off relatively predictably, with Australia banning out [HD2](https://osu.ppy.sh/beatmapsets/2287847#osu/4881475) and [FM2](https://osu.ppy.sh/beatmapsets/2287988#osu/4881763), while the USA banned out [DT2](https://osu.ppy.sh/beatmapsets/2287978#osu/4881745) and [DT3](https://osu.ppy.sh/beatmapsets/20949#osu/74684). What wasn’t predictable was that after taking the win on [DT1](https://osu.ppy.sh/beatmapsets/2287643#osu/4880978) by only 127,583 points, Australia also took a first pick break point on the USA’s [FM3](https://osu.ppy.sh/beatmapsets/2288047#osu/4881933) first pick. Australia would go on to have the top team score of the whole weekend, beating both of the USA’s scores and South Korea’s score on the map, with [cyo](https://osu.ppy.sh/users/8195473) top scoring the map with a whopping 950,339 points on hard rock. The USA then managed to break back on Australia’s second pick, [NM5](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677), with [hydrogen bomb](https://osu.ppy.sh/users/7813296) and [Utami](https://osu.ppy.sh/users/7512553) top scoring the lobby, before losing their own second pick in [NM2](https://osu.ppy.sh/beatmapsets/2288022#osu/4881869), where three of the players for Australia all outscored the top player from the USA.
+
+Australia then went on to, predictably, win their next pick in [DT4](https://osu.ppy.sh/beatmapsets/988552#osu/2067859), with [mrekk](https://osu.ppy.sh/users/7562902) top scoring the map on the weekend with 919,384 points. This all meant that, out of the first five picks in the match, the USA only took one of them, with Australia starting off 4-1 in this match. This was anything but the predicted start, as Australia was expected to have the advantage on speed and higher bpm maps throughout the match, with the USA being better on gimmick and reading overall. Australia had already taken maps like [FM3](https://osu.ppy.sh/beatmapsets/2288047#osu/4881933) and [NM2](https://osu.ppy.sh/beatmapsets/2288022#osu/4881869) away, in theory limiting the pick strategy for the USA.
+
+The United States, however, would not be deterred. They went next into [HR3](https://osu.ppy.sh/beatmapsets/1116399#osu/2332178) where they won with a 403,555 point lead. Australia continued to pick into speed, but as with [NM5](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677), this strategy began to falter; [FM4](https://osu.ppy.sh/beatmapsets/2287985#osu/4881760) ended up going the way of the Americans, with [WindowLife](https://osu.ppy.sh/users/4108547) top scoring the lobby for the second time with 717,002 points. The USA then picked into [HD3](https://osu.ppy.sh/beatmapsets/2287963#osu/4881714) and won this as well, with [WindowLife](https://osu.ppy.sh/users/4108547) once more top scoring the lobby alongside [tekkito](https://osu.ppy.sh/users/7075211), their captain.
+
+This resulted in a tied game, 4–4, between the two teams. Despite the USA being the six-time defending champions, Australia would not be deterred. Even having just lost on hidden, they picked next into [HD1](https://osu.ppy.sh/beatmapsets/2287961#osu/4881712) and managed to win by a slim margin, only 145,259 points. The United States, with the pool heavily whittled down, picked [HR2](https://osu.ppy.sh/beatmapsets/2287973#osu/4881729) next and also won their pick by a slim margin – this time, only 31,077 points!
+
+The match would finish off with another set of traded points. The Aussies took their [HR1](https://osu.ppy.sh/beatmapsets/1392496#osu/2874944) last pick by virtue of their supporting scores being better, while [hydrogen bomb](https://osu.ppy.sh/users/7813296) matched [mrekk](https://osu.ppy.sh/users/7562902) and top scored the lobby, and the Americans took their [FM1](https://osu.ppy.sh/beatmapsets/2287983#osu/4881757) last pick in much the same way, with [mrekk](https://osu.ppy.sh/users/7562902) top scoring the lobby with 908,435 points. When the match gets to 6–6, only one map remains; it was time for the tiebreaker!
+
+This last map, however, was not where we would see the peak of OWC dominance finally fall. Operation: Zenithfall would go to the Americans, with [mrekk](https://osu.ppy.sh/users/7562902) top scoring the lobby once again but [Utami](https://osu.ppy.sh/users/7512553), [hydrogen bomb](https://osu.ppy.sh/users/7813296), and [WindowLife](https://osu.ppy.sh/users/4108547) all outscoring the second best score on team Australia. Despite how close this match ended up, with many points traded for both teams with less than a 200,000 score difference, the end result still favoured the reigning champs. For the tenth time in a row, the United States would move on to the Grand Finals to face off against South Korea.
+
+### ::{ flag=US }:: United States vs. ::{ flag=SK }:: South Korea
+
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116432947)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2321357590)**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/A_r3iiKN_gc?start=302&end=553" frameborder="0" allowfullscreen></iframe>
+</div>
+
+It was uncharted territory for the South Korean OWC roster. Though they’d played in the past two grand finals as the representative from the upper bracket, they had never been the favourites, even with the bracket reset advantage in their back pocket. That honour went to the United States, and with good reason: the USA, after their 2023 triumph, had won eight of the last nine World Cups and were perennial favourites.
+
+2024, though, was different. Coming off their victory in the winners bracket final and playing at a level of historical dominance not seen since the famed 2019 USA roster, South Korea had finally flipped the script: the underdogs had become the favourites, with 67% of pick-em participants choosing them to defeat the six-time defending champions and take home the title of osu! Champions.
+
+Finally, match time arrived, and all discussion and analysis were cast aside as the 2024 OWC Grand Final got under way.
+
+The match began with a strong sense of déjà vu. Just as in the winners final, South Korea banned two tapping maps (this time FM4 and DT3); just as in the winners final, the United States responded with two gimmick/reading bans with NM2 and HD2; just as in the winners final, South Korea had the first pick, and just as in the winners final, the USA took a break point on the opening map. In a stunning reversal of fortune from the losers bracket final, not only did the USA win FM3 this time, they went on to take a 4-1 map lead, winning their early picks in NM5 and DT2 before taking a second break point via a 36,223 point victory on HD3.
+
+Collective déjà vu intensified through 5 maps: the day before, Australia had led the United States by an identical 4-1 score; now it was the United States’ turn to hold an early advantage as South Korea were forced to search for some way to turn the tide.
+
+And what a turn it would be.
+
+The United States’ next pick was the circle size 7.8 HR2 pick Black Birthday; led by a 540,581 score from byeok2044, South Korea took their first break point of the match. Next, they decided to stay in the HR pool by picking HR3, where it was fragranceofpage’s turn to lead the way for the Koreans with a 671,622 score en route to a victory. Despite an uncertain moment for South Korea following byeok2044 disconnecting on DT4, FlyingTuna’s 731k score led them to another break point, and suddenly the match was tied. South Korea had stolen two break points from the United States, they had grabbed the momentum, and they would not look back.
+
+NM4 was the next pick for South Korea, where a massive 1841 combo from byeok2044 helped secure them another map and a 5-4 lead in the match. The comeback was in full force, and the tables had unequivocally turned.
+
+The United States opted into HR1, but it was another fruitless endeavor, as byeok continued to display his incredible level of play by top scoring it with a 795,672 play, taking a third straight break point and setting up championship point for South Korea.
+
+Never willing to let the cinematic potential of such a moment go to waste, their selected map was unravel in the NM3 slot, a brutally challenging aim control alt map. South Korea raced to an early advantage and the United States could do nothing but watch their hopes and their dynasty unravel as the map played out: by the time all was said and done, worst hr player would be atop the map with a 433,888 score, leading his team to victory on the map and with it the tournament.
+
+South Korea had finally done it. The reign of the United States as osu! World Cup champions had come to an end at their hands, and in remarkable fashion: from 4-1 down, the South Korean squad did not drop a single map the rest of the way, taking 6 straight picks to close the match out 7-4. Their performance throughout the 2024 World Cup was stunning, dropping just 9 maps to the United States in their two matches while going undefeated through the rest of the tournament, all with multiple team members near the top of the performance score leaderboard every week. It was a victory for the ages, one which will be etched in the history of the osu! World Cup for all time.
+
+## Match highlights
+
+## osu! originals
+
+### Round of 32
+
+[![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)](https://osu.ppy.sh/beatmapsets/2271658)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/99/Songs/Imy_feat._Natsume_Itsuki_-_Lies_playing_Truth.mp3">
+    </audio>
+</div>
+
+### Round of 16
+
+[![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/444/Songs/Future%20Witness%20-%20Resolution.mp3">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_AJITAMA_Adventure_OST.mp3">
+    </audio>
+</div>
+
+### Quarterfinals
+
+[![](/wiki/shared/news/2024-11-20-osu-world-cup-2024-quarterfinals-recap/whiteout-banner.jpg)](https://osu.ppy.sh/beatmapsets/2278209#osu/4855599)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/358/Songs/Genkaku_Aria_-_Whiteout.mp3">
+    </audio>
+</div>
+
+### Semifinals
+
+[![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/VALDeS_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281540#osu/4864403)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/447/Songs/nagiha%20-%20VALDeS.mp3">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-11-29-osu-world-cup-2024-semifinals-recap/today_is_the_day_banner.jpg)](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/349/Songs/Minstrel_-_today_is_the_day.mp3">
+    </audio>
+</div>
+
+### Finals
+
+[![](/wiki/shared/news/2024-12-05-osu-world-cup-2024-finals-recap/data_eraser_banner.jpg)](https://osu.ppy.sh/beatmapsets/2284633#osu/4872735)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/449/Songs/Lusumi%20-%20data%27eraser.wav.mp3">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-12-05-osu-world-cup-2024-finals-recap/7he_osu_world_cup_2_dariacore_7imeline_banner.jpg)](https://osu.ppy.sh/beatmapsets/2284644#osu/4872751)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/366/Songs/passchooo_-_7he_osu_world_cup_2_dariacore_7imeline_ft._Azer_Jade__Rain.mp3">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-12-05-osu-world-cup-2024-finals-recap/Kaiju_banner.jpg)](https://osu.ppy.sh/beatmapsets/2284698#osu/4872864)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/448/Songs/nm-y%20vs.%20Kry.exe%20-%20Kaiju.mp3">
+    </audio>
+</div>
+
+### Grand Finals
+
+::{#grand-finals-originals}::
+
+[![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Naples_Yellow_Mango-banner.jpg)](https://osu.ppy.sh/beatmapsets/2288022#osu/4892773)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="pishifat please save us">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Corrupted_Paywall-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="pishifat please save us">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/XIchedelic_Nova_Trinity-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287963#osu/4881714)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="pishifat please save us">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Operation_Zenithfall-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="pishifat please save us">
+    </audio>
+</div>
+
+## Interviews
 
 <style>
     .news-chat-quote__avatar {
@@ -213,6 +387,10 @@ And, by the way, this message will self-destruct in 5 seconds.
 
 ---
 
+<!-- dont forget to (if possible) include the GF art behind the scenes video https://discord.com/channels/188630481301012481/1293209725034303529/1313524094536515685 -->
+
 outro + credits
+
+![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc2024-credits.png)
 
 —0x84f, Dada, D I O, this1neguy, Walavouchey
