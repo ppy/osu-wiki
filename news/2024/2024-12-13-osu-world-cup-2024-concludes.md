@@ -311,6 +311,18 @@ Yes, Nopekjk was our analyst. Throughout the whole OWC he would analyze the scor
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
+The Grand Final had a turning point when South Korea was down 4–1 early on. How did your team react, and what changed in order for you to win?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9224078" style="background-image: url('/wiki/shared/avatars/FlyingTuna.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9224078">FlyingTuna</a></p>
+
+My team and I, we all took it calmly as we had the bracket reset in mind. Because no matter what happens in the first part, even if we fail we had that 1 more chance. So we all remained calm and positive and even if we were down 4-1 we were just as confident and strong as ever because we are used to reverse sweeping.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/avatars/dio.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
+
 South Korea finished in the top 4 eight times since 2014, top 3 5 times since 2016, and second in 2019, 2022, and 2023. What does it mean for you to finally get the win this year?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9224078" style="background-image: url('/wiki/shared/avatars/FlyingTuna.jpg')"></a>
