@@ -51,7 +51,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 ## Links
 
 - **[Information spreadsheet]()**
-- [Discussion thread]()-->
+- [Discussion thread]()
 - [THMC 4 Discord server](https://discord.gg/cAr5VHG7WX)
 - [Livestream](https://www.twitch.tv/touhoumaniacup_official)
 - [Challonge bracket](https://challonge.com/)
@@ -107,7 +107,7 @@ modify these rules at any moment. Any such changes will be announced in advance.
     - Exclusion of specific players for an entire match.
     - Declaring the match as forfeited, or as a win by default for the other team.
     - Disqualification from the entire tournament.
-    - Reported to [Tournament Committee](/wiki/en/People/Tournament_Committee), which will cause disqualification from the current and future official tournaments, until appealed.
+    - Reported to [Tournament Committee](/wiki/People/Tournament_Committee), which will cause disqualification from the current and future official tournaments, until appealed.
 
 ### Tournament registration
 
