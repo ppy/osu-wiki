@@ -1,0 +1,226 @@
+---
+tags:
+  - TMC
+  - THMC
+  - THMC 4th
+  - THMC4th
+---
+
+# Touhou Project Mania Cup 4th
+
+<!--![Touhou Project Mania Cup 4th banner](img/banner.png)-->
+
+The **Touhou Project Mania Cup 4th** (***THMC 4th***) was a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament was the *Touhou Project*. The pool used for THMC 4th is 100% based on original and fan-made *Touhou* music. It was the forth instalment of the Touhou Project Mania Cup.
+
+## Tournament schedule
+
+| Event | Timestamp |
+| --: | :-- |
+| Registration phase | 2024-12-22 (00:00 UTC) / 2025-01-12 (24:00 UTC) |
+| Qualifier showcase | 2025-01-19 (12:00 UTC) |
+| Qualifier stage | 2025-01-20/2025-01-28 |
+| Qualifier result | 2025-01-28 (04:00 UTC)  |
+| Group stage Week 1 | 2025-01-28/2025-02-09 |
+| Group stage Week 2 | 2025-02-14/2025-02-16 |
+| Round of 32 | 2025-02-21/2025-02-23 |
+| Round of 16 | 2025-02-28/2025-03-02 |
+| Quarterfinals | 2025-03-07/2025-03-09 |
+| Semifinals | 2025-03-14/2025-03-16 |
+| Finals | 2025-03-21/2025-03-23 |
+| Grand Finals | 2025-03-28/2025-03-30 |
+
+<!-- ## Prizes -->
+
+## Organisation
+
+The Touhou Project Mania Cup 4th is run by various community members.
+
+| Position | Member(s) |
+| :-- | :-- |
+| Host | ::{ flag=CN }::[YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }::[[GB]Sanae](https://osu.ppy.sh/users/11238501) |
+| Admin | ::{ flag=US }::[Akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }::[ERA trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=US }::[EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }::[cdwcgt](https://osu.ppy.sh/users/14721101) |
+| Mappool selector | *TBA* |
+| Mappool playtester | *TBA* |
+| Mapper | *TBA* |
+| Commentator | *TBA* |
+| Referee | *TBA* |
+| Statistician | ::{ flag=US }::[EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }::[YuEast 2018](https://osu.ppy.sh/users/13953619) |
+| Wiki | ::{ flag=US }::[Akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }::[Rush_FTK](https://osu.ppy.sh/users/3046856) |
+| Designer | ::{ flag=MY }::[lous](https://osu.ppy.sh/users/6231292), ::{ flag=CN }::[lovely_hyahya](https://osu.ppy.sh/users/10318380) |
+
+## Links
+
+<!--- **[Information spreadsheet]()**-->
+<!--- [Discussion thread]()-->
+- [THMC 4 Discord Server](https://discord.gg/cAr5VHG7WX)
+- [Livestream](https://www.twitch.tv/touhoumaniacup_official)
+- [Challonge bracket](https://challonge.com/)
+- [Liquipedia](https://liquipedia.net/osu/Touhou_Project_Mania_Cup/4)
+
+<!--## Participants
+
+## Groups 
+
+## Podium
+
+## Mappools-->
+
+## Ruleset
+
+The ruleset is mainly based on [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K#ruleset) and [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024#ruleset).
+
+- Any general rules not shown below, but listed in the referance tournament are still valid.
+
+### Tournament rules
+1. The Touhou Project Mania Cup 3rd (THMC 4th) is a 2 versus 2 double-elimination team tournament, played on the osu!mania game mode (4K variant).
+2. If no referee is available at match time, the match will be postponed.
+3. Failed players' scores still get added to the team score.
+4. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+   - Custom skin elements must not be used to alter core gameplay elements or mechanics.
+5. If a game ends in a draw it will be nullified and the beatmap replayed, called a *rematch*.
+6. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
+   - "Lag spikes" are not considered a valid reason to nullify a beatmap.
+   - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
+   - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
+10. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
+7. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered acceptable proof:
+   - Livestream clips or VODs from the player's point of view. The entirety of the play and the results screen must be clearly visible along with the affected player's score.
+   - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen in the multiplayer match history).
+   - Screenshots from other players taken directly in-game that show the affected player's score.
+     - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
+     - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to determine the player's score.
+     - All screenshots **MUST** be taken using the game itself, that is, they must be hosted on the `https://osu.ppy.sh/` domain (using `Shift` + `F12`). Any other form of screenshot will be denied.
+     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
+8. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
+   - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots on the lobby (i.e. 2 participants must be present for the match to begin).
+9. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+10. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
+    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+11. The Staff teams may ...
+lower or higher tolerances for timers at their discretion.
+request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
+receiving and investigating any tournament-related complaints.
+modify these rules at any moment. Any such changes will be announced in advance.
+12. Penalties for violating the tournament rules include, but are not limited to:
+    - Exclusion of specific players for one beatmap.
+    - Exclusion of specific players for an entire match.
+    - Declaring the match as forfeited, or as a win by default for the other team.
+    - Disqualification from the entire tournament.
+    - Reported to [Tournament Committee](https://osu.ppy.sh/wiki/en/People/Tournament_Committee), which will cause disqualification from the current and future official tournaments, until appealed.
+
+### Tournament registration
+
+1. Please complete the [registration form]() to register.
+3. The size of a team has a minimum of 2 and a maximum of 4.
+4. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
+   - If any member in a team is blacklisted by organisers or considered "suspicious" by the account support team, the whole team will be disqualified. **Blacklists in other tournaments will be considered as well.**
+   - There are no rank requirements for this tournament, but player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+5. All successfully formed teams will be published after the registration phase.
+   - A team should have at least 2 players registered to have the chance to play in the Qualifiers.
+6. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
+   - Such staff members must not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
+7. All information of the tournament will be ONLY available on the [Discord server](https://discord.gg/cAr5VHG7WX). All captains are asked to join the server in case of any issues.
+
+
+### Stage instructions
+
+#### Qualifier 
+
+1. The Qualifiers Stage will happen in the first week of the tournament play. All of the registered players who were not screened out during screening are eligible to participate in the Qualifiers.
+2. During Qualifiers, all teams will play a pool in sequence up to 2 times, the pool will have 6 stages, and they are as followed:
+   - Stage 1:
+   - Stage 2:
+   - Stage 3:
+   - Stage 4:
+   - Stage 5:
+   - Stage 6:
+3. Each team must have 2 players play each map. They may be exchanged freely after a map is concluded.
+4. Teams can skip any map in the second playthrough. An optional 5-minute break will be offered between the first and second playthrough of the mappool.
+5. Following methods will be used for seeding, applied in order in case of tie:
+   - **Higher rank sum**: A exact formula will be used for each map: `Map score = RANK(Team score) * Map weight`, where:
+     -  `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
+     -  `Map weight` is the weight for the current map, as defined by the table below. 
+     -  `Team score` is highest team total scores they get in all tries.
+   -  Then using this formula to calculate `Final score = SUM(Map score)`, lower `Final score` will have higher ranks.
+   - **Higher total score**: An exact formula will be used: `Total score = SUM(Team score)`, where:
+     -  `Team score` is the highest team total scores they get in all tries.
+   -  Higher `Total score` will have higher ranks.
+   - **Higher map score**: higher team score will get higher ranks. Comparisons will be done from stage 1 to last stage in order, until break ties.
+   - **Fewer total trys**: Fewer maps the team played in the qualifier lobby will get higher ranks.
+   - **Dice rolls**: If still tied, all tied team captains will gather in a multiplayer room, using `!roll`, higher results will get higher ranks, roll again until break all ties.
+6. The top 64 seeded teams will advance to the Group Stage.
+
+The weights for the Qualifiers are as follows:
+
+|  | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | 
+| --: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Weight** |  |  |  |  |  |  |
+
+#### Group Stage & Playoffs
+
+1. The Win conditions and mappool format for the bracket stages will be as follows:
+
+| Round | Best of | Maps | Types |
+| :-: | :-: | :-: | :-- |
+| Group Stage | 7 | 13 | 6 rice, 3 LN, 3 hybrid, 1 tiebreaker |
+| Round of 32 | 9 | 13 | 6 rice, 4 LN, 2 hybrid, 1 tiebreaker |
+| Round of 16 | 9 | 13 | 6 rice, 4 LN, 2 hybrid, 1 tiebreaker |
+| Quarterfinals | 11 | 15 | 7 rice, 4 LN, 3 hybrid, 1 tiebreaker |
+| Semifinals | 11 | 15 | 7 rice, 4 LN, 3 hybrid, 1 tiebreaker |
+| Finals | 13 | 17 | 8 rice, 5 LN, 3 hybrid, 1 tiebreaker |
+| Grand Finals | 13 | 17 | 8 rice, 5 LN, 3 hybrid, 1 tiebreaker |
+
+2. Each round will have its own mappool.
+   - Group Stage will consist 2 weeks, using same mappools. 
+   - 2 of the rice maps, 1 of the LN map and 1 of the HB map in group stage mappool will be `classic` picks, meaning they are reused from previous or other tournaments.
+   - 1 of the rice map, 1 of the LN map in other bracket stage mappools will be `X` picks, meaning they are harder than other maps in the mappool.
+3. The split double elimination format will be used on group stage, means Top seed (`#1 ~ #16`) and high seed (`#17 ~ #32`) will start in upper bracket, mid seed (`#33 ~ #48`) and low seed (`#49 ~ #64`) will start in lower bracket.
+   - If fewer than 70 teams play the qualifier, the group stage will use the standard double elimination format, means all teams will start in the upper bracket.
+4. Top 2 teams will advance to a standard double elimination bracket stage, called `Playoffs`.
+5. Teams lose match in upper bracket moves to lower bracket, lose match in lower bracket will be eliminated, until final winner determined.
+6. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
+
+### Match instructions
+
+1. A referee will create a multiplayer room 10 minutes before the scheduled match time.
+   - The room settings are `Game mode: "osu!mania
+"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `THMC3 ({Stage}):
+ ({Red Team}) VS ({Blue Team})`.
+2. If less than 2 players are present at match time, the match can be postponed for up to **10 minutes**. If still, a *win by default* will be declared for the side with the most members present.
+   - If both teams haven’t equally enough players to present, and still have available staff and not influenced other match processes, they can reschedule the match.
+   - If still, high seed teams will *win by default*.
+3. Each captain must use `!roll` once in the match's chatroom.
+   - The winner of the `!roll` decides which team **picks** and **protect** first.
+   - The loser of the `!roll` decides which team **bans** first.
+4. After order determined, the pick and ban phase will have the following steps:
+   1. First team protect a beatmap, followed by another team.They may not protect the same beatmap. Protected beatmaps may not be banned.
+   2. First team ban a map, followed by another team.
+   3. (If it’s in group stage) First team ban second map, followed by another team.
+   4. First team pick a map.
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
+   - For the first occurrence:
+     - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
+     - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
+   - On subsequent occurrences:
+     - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
+     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
+     - Repeat offenders may receive further sanctions from the coordinator.
+6. Each team will receive one "tactical timeout" of 3 minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
+     - This timeout is automatically consumed when regular picking time runs out.
+     - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
+7. Each team will receive one technical timeout of 3 minutes, to be used only when a technical issue occurs.
+8. If players unavailable when rematch (e.g. technical issue or unavoidable player absence), they influenced team could replace those players while keeping the remaining players same.
+
+### Scheduling instructions
+
+1. Teams need to pick an available lobby to play a qualifier match.
+They could request a extra lobby before January 16, 23:59 UTC 
+   - **A team that does not pick a lobby after the last lobby start, will be considered disqualified.**
+2. All bracket stages will be held between Saturday 0:00 and Sunday 23:59 (UTC).
+   - Other times may be available upon request. 
+3. **Reschedules will only be considered if both teams agree to a time and communicate it to the coordinator, before Thursday 23:59 UTC of the week the match is to take place.**
+   - If a team needs to reschedule, the captain may make their demand **at least 24 hours** (48 hours recommended) before their match in the reschedule channel.
+   - **Do not ask for a reschedule unless it is absolutely needed. The coordinator reserves the right to deny any rescheduling request.**
+   - Late reschedule requests will not be accepted under any circumstances.
+4. Captains are responsible for their team's availability.
+
