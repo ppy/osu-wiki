@@ -47,7 +47,7 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 
 ### osu!taiko
 
-The osu!taiko panel was formed on 1 May 2022 in response to [a community survey regarding performance points and star rating in osu!taiko and osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) held earlier that year, as well as [major changes to the star rating algorithm](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). In December 2024, the osu!taiko panel was once again updated via an application process alongside [major changes to the star rating algorithm](https://docs.google.com/document/d/1-k96U-3-77CSyWNbXxa3cf2AXeOIxVh8yoXowlIYc5g/edit?usp=sharing).
+The osu!taiko panel was formed on 1 May 2022 in response to [a community survey regarding performance points and star rating in osu!taiko and osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) held earlier that year, as well as [major changes to the star rating algorithm](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
 | osu! profile | GitHub profile | Join date |
 | :-- | :-- | :-- |
