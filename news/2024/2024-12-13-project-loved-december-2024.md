@@ -9,7 +9,7 @@ Hop by the fireplace and enjoy some toasty Project Loved picks!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-Happy holidays and welcome to this month's Project Loved post! With the excitement of the season, you may have forgotten what we're all about. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/).
+Happy holidays and welcome to this month's Project Loved post! With the excitement of the season, you may have forgotten what we're all about. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
 Thanks as always for voting in last month's voting! You can view the results using the links below:
 
@@ -229,7 +229,7 @@ Step into the trap, embrace the honey, and see if you have what it takes to conq
 251 BPM, 5:50 | 7.99★\
 *description written by [Roxy-](https://osu.ppy.sh/users/11931563)*
 
-[Rules of the Chaos Dilemma](https://osu.ppy.sh/beatmapsets/1850782#taiko/3802036), composed by [takehirotei]( https://osu.ppy.sh/users/11793794), is a huge collaboration between famous Malaysian mappers [MTNTwarz]( https://osu.ppy.sh/users/14036825), [ler1211]( https://osu.ppy.sh/users/19901680) and [Asagi Mutsuki]( https://osu.ppy.sh/users/2403621). This map is a custom map for the semi-final tiebreaker of [Expert Global Taiko Showdown 2022]( https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022), a large scale osu!taiko tournament. Because it is a large scale tournament, the map is structured in such a way that it is very challenging and makes you tense, so you can feel as if you are actually playing in the tournament. We hope you will experience that sensation by playing this map.
+[Rules of the Chaos Dilemma](https://osu.ppy.sh/beatmapsets/1850782#taiko/3802036), composed by [takehirotei]( https://osu.ppy.sh/users/11793794), is a huge collaboration between famous Malaysian mappers [MTNTwarz]( https://osu.ppy.sh/users/14036825), [ler1211]( https://osu.ppy.sh/users/19901680) and [Asagi Mutsuki]( https://osu.ppy.sh/users/2403621). This map is a custom map for the semi-final tiebreaker of [Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022), a large scale osu!taiko tournament. Because it is a large scale tournament, the map is structured in such a way that it is very challenging and makes you tense, so you can feel as if you are actually playing in the tournament. We hope you will experience that sensation by playing this map.
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/952710.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -455,7 +455,7 @@ Christmas will be arriving this month. Therefore, we have also decided to nomina
 
 That's all from us for this month! From [all of us working on Project Loved](https://loved.sh/contributors), we hope you had a wonderful 2024 and are ready to stick with us going into the new year! All the beatmaps that pass voting will reach the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) soon after the polls end, so stay tuned and don't forget your vote, every person counts!
 
-More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the #osu-loved channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the #osu-loved channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 
 Don't forget we also have dedicated [Project Loved beatmap packs](https://osu.ppy.sh/beatmaps/packs?type=loved) where you can acquire yourself some shiny Project Loved medals!
 
