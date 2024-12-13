@@ -82,8 +82,8 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2024](/wiki/Tournaments/M
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-10. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
-7. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered acceptable proof:
+7. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
+8. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered acceptable proof:
    - Livestream clips or VODs from the player's point of view. The entirety of the play and the results screen must be clearly visible along with the affected player's score.
    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen in the multiplayer match history).
    - Screenshots from other players taken directly in-game that show the affected player's score.
@@ -91,17 +91,17 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2024](/wiki/Tournaments/M
      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to determine the player's score.
      - All screenshots **MUST** be taken using the game itself, that is, they must be hosted on the `https://osu.ppy.sh/` domain (using `Shift` + `F12`). Any other form of screenshot will be denied.
      - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-8. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
+9. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
    - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots on the lobby (i.e. 2 participants must be present for the match to begin).
-9. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-10. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
+10. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+11. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
-11. The Staff teams may ...
+12. The Staff teams may ...
 lower or higher tolerances for timers at their discretion.
 request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
 receiving and investigating any tournament-related complaints.
 modify these rules at any moment. Any such changes will be announced in advance.
-12. Penalties for violating the tournament rules include, but are not limited to:
+13. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
     - Declaring the match as forfeited, or as a win by default for the other team.
@@ -111,16 +111,15 @@ modify these rules at any moment. Any such changes will be announced in advance.
 ### Tournament registration
 
 1. Please complete the [registration form]() to register.
-3. The size of a team has a minimum of 2 and a maximum of 4.
-4. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
+2. The size of a team has a minimum of 2 and a maximum of 4.
+3. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
    - If any member in a team is blacklisted by organisers or considered "suspicious" by the account support team, the whole team will be disqualified. **Blacklists in other tournaments will be considered as well.**
    - There are no rank requirements for this tournament, but player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-5. All successfully formed teams will be published after the registration phase.
+4. All successfully formed teams will be published after the registration phase.
    - A team should have at least 2 players registered to have the chance to play in the Qualifiers.
-6. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
+5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
    - Such staff members must not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
-7. All information of the tournament will be ONLY available on the [Discord server](https://discord.gg/cAr5VHG7WX). All captains are asked to join the server in case of any issues.
-
+6. All information of the tournament will be ONLY available on the [Discord server](https://discord.gg/cAr5VHG7WX). All captains are asked to join the server in case of any issues.
 
 ### Stage instructions
 
@@ -223,4 +222,3 @@ They could request a extra lobby before January 16, 23:59 UTC
    - **Do not ask for a reschedule unless it is absolutely needed. The coordinator reserves the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 4. Captains are responsible for their team's availability.
-
