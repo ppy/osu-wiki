@@ -52,6 +52,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 <!--- **[Information spreadsheet]()**-->
 <!--- [Discussion thread]()-->
+
 - [THMC 4 Discord server](https://discord.gg/cAr5VHG7WX)
 - [Livestream](https://www.twitch.tv/touhoumaniacup_official)
 - [Challonge bracket](https://challonge.com/)
@@ -127,23 +128,23 @@ modify these rules at any moment. Any such changes will be announced in advance.
 
 1. The Qualifiers Stage will happen in the first week of the tournament play. All of the registered players who were not screened out during screening are eligible to participate in the Qualifiers.
 2. During Qualifiers, all teams will play a pool in sequence up to 2 times, the pool will have 6 stages, and they are as followed:
-   - Stage 1:
-   - Stage 2:
-   - Stage 3:
-   - Stage 4:
-   - Stage 5:
-   - Stage 6:
+   - Stage 1: *TBD*
+   - Stage 2: *TBD*
+   - Stage 3: *TBD*
+   - Stage 4: *TBD*
+   - Stage 5: *TBD*
+   - Stage 6: *TBD*
 3. Each team must have 2 players play each map. They may be exchanged freely after a map is concluded.
 4. Teams can skip any map in the second playthrough. An optional 5-minute break will be offered between the first and second playthrough of the mappool.
 5. Following methods will be used for seeding, applied in order in case of tie:
    - **Higher rank sum**: A exact formula will be used for each map: `Map score = RANK(Team score) * Map weight`, where:
-     -  `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
-     -  `Map weight` is the weight for the current map, as defined by the table below. 
-     -  `Team score` is highest team total scores they get in all tries.
-   -  Then using this formula to calculate `Final score = SUM(Map score)`, lower `Final score` will have higher ranks.
+     - `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
+     - `Map weight` is the weight for the current map, as defined by the table below. 
+     - `Team score` is highest team total scores they get in all tries.
+   - Then using this formula to calculate `Final score = SUM(Map score)`, lower `Final score` will have higher ranks.
    - **Higher total score**: An exact formula will be used: `Total score = SUM(Team score)`, where:
-     -  `Team score` is the highest team total scores they get in all tries.
-   -  Higher `Total score` will have higher ranks.
+     - `Team score` is the highest team total scores they get in all tries.
+   - Higher `Total score` will have higher ranks.
    - **Higher map score**: higher team score will get higher ranks. Comparisons will be done from stage 1 to last stage in order, until break ties.
    - **Fewer total trys**: Fewer maps the team played in the qualifier lobby will get higher ranks.
    - **Dice rolls**: If still tied, all tied team captains will gather in a multiplayer room, using `!roll`, higher results will get higher ranks, roll again until break all ties.
@@ -151,9 +152,9 @@ modify these rules at any moment. Any such changes will be announced in advance.
 
 The weights for the Qualifiers are as follows:
 
-|  | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | 
+|  | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Weight** |  |  |  |  |  |  |
+| **Weight** | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
 
 #### Group Stage & Playoffs
 
@@ -205,8 +206,8 @@ The weights for the Qualifiers are as follows:
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
      - Repeat offenders may receive further sanctions from the coordinator.
 6. Each team will receive one "tactical timeout" of 3 minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
-     - This timeout is automatically consumed when regular picking time runs out.
-     - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
+   - This timeout is automatically consumed when regular picking time runs out.
+   - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
 7. Each team will receive one technical timeout of 3 minutes, to be used only when a technical issue occurs.
 8. If players unavailable when rematch (e.g. technical issue or unavoidable player absence), they influenced team could replace those players while keeping the remaining players same.
 
