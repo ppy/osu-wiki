@@ -10,7 +10,7 @@ tags:
 
 <!--![Touhou Project Mania Cup 4th banner](img/banner.png)-->
 
-The **Touhou Project Mania Cup 4th** (***THMC 4th***) was a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament was the *Touhou Project*. The pool used for THMC 4th is 100% based on original and fan-made *Touhou* music. It was the forth instalment of the Touhou Project Mania Cup.
+The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament was the *Touhou Project*. The pool used for THMC 4th is 100% based on original and fan-made *Touhou* music. It is the forth instalment of the Touhou Project Mania Cup.
 
 ## Tournament schedule
 
@@ -52,7 +52,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 <!--- **[Information spreadsheet]()**-->
 <!--- [Discussion thread]()-->
-- [THMC 4 Discord Server](https://discord.gg/cAr5VHG7WX)
+- [THMC 4 Discord server](https://discord.gg/cAr5VHG7WX)
 - [Livestream](https://www.twitch.tv/touhoumaniacup_official)
 - [Challonge bracket](https://challonge.com/)
 - [Liquipedia](https://liquipedia.net/osu/Touhou_Project_Mania_Cup/4)
