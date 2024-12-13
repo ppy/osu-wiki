@@ -16,7 +16,7 @@ tags:
 
 *Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan dengan pemasangan osu! dan pembuatan akunmu.
+Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan dengan pemasangan osu! dan pembuatan akun.
 
 ## Instalasi {id=installation}
 
