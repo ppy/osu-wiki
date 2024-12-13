@@ -59,3 +59,5 @@ From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S 
 | B | Over 80% accuracy |
 | C | Over 70% accuracy |
 | D | Anything else |
+
+In osu! Lazer, the criteria in osu! is the same as in osu!mania.
