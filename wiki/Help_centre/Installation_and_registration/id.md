@@ -16,7 +16,7 @@ tags:
 
 *Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan dengan pemasangan osu! dan pembuatan akun.
+Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan dengan pemasangan osu! dan pembuatan akunmu.
 
 ## Instalasi {id=installation}
 
@@ -34,6 +34,6 @@ Sebagai alternatif, [klik di sini](https://osu.ppy.sh/home/download) untuk langs
 
 ### Di mana saya dapat mendaftar akun osu!? {id=registration}
 
-**Unduh osu! melalui [tautan ini](https://osu.ppy.sh/home/download), lalu jalankan berkas aplikasi yang kamu peroleh. osu! akan menampilkan jendela khusus tempat kamu dapat membuat akun.**
+**Unduh osu! melalui [tautan ini](https://osu.ppy.sh/home/download), lalu jalankan berkas aplikasi yang kamu peroleh. osu! akan menampilkan layar khusus tempat kamu dapat membuat akun.**
 
 Pastikan kamu memberikan alamat email yang berada dalam kendalimu. Alamat email ini akan digunakan untuk mengatur ulang kata sandimu dan mengirimkan email verifikasi ketika dibutuhkan. Oleh karenanya, jangan gunakan alamat email yang bersifat sementara (*throwaway email*).
