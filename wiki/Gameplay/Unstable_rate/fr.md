@@ -21,7 +21,7 @@ tags:
 
 Les joueurs spécialisés dans la [précision](/wiki/Gameplay/Accuracy) atteignent souvent des UR qui sont bien en dessous de ce qui est requis pour obtenir un [SS](/wiki/Gameplay/Grade). L'Unstable rate peut être une métrique particulièrement utile pour juger ces scores plus finement que les [jugements](/wiki/Gameplay/Judgement) habituels.
 
-Notez que L'UR mesure la régularité entre les erreurs de frappe, et non la quantité d'erreurs. Bien qu'un UR faible soit souvent le résultat d'un jeu précis, il est possible d'obtenir un UR très faible en même temps qu'une précision très faible. Par exemple, un joueur peut toucher chaque [objet](/wiki/Gameplay/Hit_object) suffisamment tard pour obtenir un [50](/wiki/Gameplay/Judgement/osu!), mais avec des erreurs constantes.
+Notez que L'UR mesure la régularité des erreurs de frappe, et non la quantité d'erreurs. Bien qu'un UR faible soit souvent le résultat d'un jeu précis, il est possible d'obtenir un UR très faible en même temps qu'une précision très faible. Par exemple, un joueur peut toucher chaque [objet](/wiki/Gameplay/Hit_object) suffisamment tard pour obtenir un [50](/wiki/Gameplay/Judgement/osu!), mais avec des erreurs constantes.
 
 ## Sur l'écran des résultats
 
@@ -33,7 +33,7 @@ Lorsque l'on survole le graphique de performance sur l'écran des résultats (/w
 
 Les hit errors utilisées pour calculer l'unstable rate sont mesurées en fonction du temps de la [beatmap](/wiki/Beatmap) pendant le gameplay, et non du temps du monde réel. Cela signifie que lors de l'utilisation de [mods](/wiki/Gameplay/Game_modifier) qui modifient la vitesse de la beatmap comme [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) ou [Half Time](/wiki/Gameplay/Game_modifier/Half_Time), l'UR des entrées du joueur dans le monde réel est effectivement multipliée par ce changement de vitesse.
 
-Lorsque l'on compare les valeurs UR entre des jeux utilisant différents mods, on s'appuie souvent sur le concept non officiel de **unstable rate converti** (***cv. UR***), défini comme l'UR avec le changement de vitesse dû aux mods divisé en deux :
+Lorsque l'on compare les valeurs UR entre des jeux utilisant différents mods, on s'appuie souvent sur le concept non officiel de **unstable rate converti** (***cv. UR***), défini comme l'UR avec le changement de vitesse dû aux mods ajusté en fonction :
 
 ```
 cv. UR pour Double Time = UR / 1.5

@@ -6,7 +6,7 @@ date: 2021-06-07 19:00:00 +0000
 
 Aiming to become osu!'s next *Elite Mapper*? Whip out your creative muscles in this month's square-pattern themed mapping contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 June's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) includes opportunities for [**osu!**](https://osu.ppy.sh/community/contests/130) and [**osu!catch**](https://osu.ppy.sh/community/contests/131) mappers. Next month we'll likely opt out osu!catch for osu!taiko and osu!mania, so stick around for that!
 
