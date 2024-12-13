@@ -19,7 +19,7 @@ The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!ma
 | Registration phase | 2024-12-22 (00:00 UTC) / 2025-01-12 (24:00 UTC) |
 | Qualifier showcase | 2025-01-19 (12:00 UTC) |
 | Qualifier stage | 2025-01-20/2025-01-28 |
-| Qualifier result | 2025-01-28 (04:00 UTC)  |
+| Qualifier result | 2025-01-28 (04:00 UTC) |
 | Group stage Week 1 | 2025-01-28/2025-02-09 |
 | Group stage Week 2 | 2025-02-14/2025-02-16 |
 | Round of 32 | 2025-02-21/2025-02-23 |
@@ -50,9 +50,8 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ## Links
 
-<!--- **[Information spreadsheet]()**-->
-<!--- [Discussion thread]()-->
-
+- **[Information spreadsheet]()**
+- [Discussion thread]()-->
 - [THMC 4 Discord server](https://discord.gg/cAr5VHG7WX)
 - [Livestream](https://www.twitch.tv/touhoumaniacup_official)
 - [Challonge bracket](https://challonge.com/)
@@ -73,6 +72,7 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2024](/wiki/Tournaments/M
 - Any general rules not shown below, but listed in the referance tournament are still valid.
 
 ### Tournament rules
+
 1. The Touhou Project Mania Cup 3rd (THMC 4th) is a 2 versus 2 double-elimination team tournament, played on the osu!mania game mode (4K variant).
 2. If no referee is available at match time, the match will be postponed.
 3. Failed players' scores still get added to the team score.
@@ -107,7 +107,7 @@ modify these rules at any moment. Any such changes will be announced in advance.
     - Exclusion of specific players for an entire match.
     - Declaring the match as forfeited, or as a win by default for the other team.
     - Disqualification from the entire tournament.
-    - Reported to [Tournament Committee](https://osu.ppy.sh/wiki/en/People/Tournament_Committee), which will cause disqualification from the current and future official tournaments, until appealed.
+    - Reported to [Tournament Committee](/wiki/en/People/Tournament_Committee), which will cause disqualification from the current and future official tournaments, until appealed.
 
 ### Tournament registration
 
