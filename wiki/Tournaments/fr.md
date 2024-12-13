@@ -30,7 +30,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu! World Cup 2021](OWC/2021) | 09/10/2021 | 28/11/2021 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=KR }:: Corée du Sud |
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=DE }:: Allemagne |
 | [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 03/12/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=AU }:: Australien |
-| [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 08/12/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 08/12/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=AU }:: Australien |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -92,6 +92,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/07/2023 | 24/09/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=ID }:: Indonésie |
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/02/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie | ::{ flag=PH }:: Philippines |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/07/2024 | 29/09/2024 | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine | ::{ flag=TH }:: Thaïlande |
+| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12/12/2024 | 23/02/2025 | *À déterminé* | *À déterminé* | *À déterminé* |
 
 ## Tournois communautaires
 
