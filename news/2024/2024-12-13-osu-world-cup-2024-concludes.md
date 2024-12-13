@@ -321,6 +321,93 @@ To be honest I can't really express my emotions enough with just words. I am so 
 
 </div>
 
+::{#alexdunk}::
+
+![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/AlexDunk-banner.png)
+
+For OWC 2024, [AlexDunk](https://osu.ppy.sh/users/2287992) was responsible for the graphic designs of [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953), [Whiteout](https://osu.ppy.sh/beatmapsets/2278209), [Naples Yellow Mango](https://osu.ppy.sh/beatmapsets/2288022) and [Corrupted Paywall](https://osu.ppy.sh/beatmapsets/2287942). These were, however, just four among 13 osu! original projects in AlexDunk's 2024 world cup (and [LGA](/wiki/Tournaments/LGA/2024)) portfolio.
+
+---
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+
+How would you describe yourself to someone who doesn't know you?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9194799" style="background-image: url('/wiki/shared/avatars/AlexDunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9194799">AlexDunk</a></p>
+
+Hi, thanks for having me! I go by AlexDunk, originally an osu!mania player and mapper at heart. But now I'm slowly transitioning to be doing graphic design for song backgrounds! I have always been enjoying making beatmap backgrounds for songs, the background images of all of my uploaded maps since 2019 are edited through Photoshop, so being able to join the World Cup design team for the same objectives is honestly such a honor. My goal is to keep making bigger and more awesome works that people enjoy to look at, at the same time mayyybe inspire people too to start their own creative hobby and just simply doing awesome things!
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+
+Throughout the 13 osu! original beatmaps you're credited in, do you have any favourites?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9194799" style="background-image: url('/wiki/shared/avatars/AlexDunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9194799">AlexDunk</a></p>
+
+Honest answer is, I love every work I've put out so far. Though LIGHT LEFT BEHIND will always have a special spot in my heart, during July 2023 I have the luckiest moment of my life, to be commissioned by mangomizer to make a custom background for this osu!original by BilliumMoto, as my first art debut to quite a big scale of audience. I have been a fan of his songs for so long, so to be given an opportunity to do this while I was pretty much an unknown in the GFX sphere was beyond unthinkable.
+
+To showcase my commitment to this project, I decided to implement Blender (A popular 3D software) for the first time in my background art design. It turned out amazing and I'm still really proud of it.
+
+Other than that, the CWC 2024 Grand Finals tiebreaker: Frost Walker by Kou! is such an enormous production from start to finish. I am very grateful to even be able to be part of it and contribute to this project (Big shout out to Sakura006 and the illustrators involved (Dreamxiety, Saturn, Nepperoni) for the carry).
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+
+Are there early concepts or interesting stories that you remember well?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9194799" style="background-image: url('/wiki/shared/avatars/AlexDunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9194799">AlexDunk</a></p>
+
+I remember my journey into GFX began in 2018, back when I was still deeply obsessed with grinding osu!mania ranks. One day I stumbled upon a beatmap for "Light It Up" by Hiranaka (osu! beatmap) and was immediately captivated by the typography and the overall mood of the background. Its simplicity perfectly complemented the song, inspiring me to create something similar for my own maps.
+
+That moment sparked my interest in GFX, starting with basic text overlays and gradually evolving into adding effects, crafting detailed typography, and eventually producing full-fledged Photoshop artworks. Today, I have the privilege of collaborating with talented individuals who share my passion, working on projects I could never have imagined when I first began this journey.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+
+Do you have any pointers to other artists about working with multiple people?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9194799" style="background-image: url('/wiki/shared/avatars/AlexDunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9194799">AlexDunk</a></p>
+
+Working with artists on a design project is new to me too, I've only grown comfortable with it after participating collabs time and time again. Obviously you would want to make sure you have active presence, sharing your thoughts / ideas together with the team, but in the end it still comes down to two things (let's assume you are a GFX artist working with illustrator(s)):
+
+1. Your contribution to the final work: Be proactive and ensure your input is valuable. Collaborate openly, but don't hesitate to take initiative—your unique touch as a GFX artist matters. Strive to leave a mark that aligns with the team's vision.
+2. Keep time constraint in mind, plan things out and finish them bit by bit. Break tasks into manageable parts and stick to a timeline to avoid rushing. Consistent progress ensures you deliver quality work without compromising the team's overall flow.
+
+Do and learn at the same time will always push you further.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+
+Are there other osu!-related projects that you've worked on?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9194799" style="background-image: url('/wiki/shared/avatars/AlexDunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9194799">AlexDunk</a></p>
+
+Aside from creating background artworks for this year's World Cups, I've also ventured into smaller regional tournaments. A standout example of my GFX contribution is the Grand Finals Tiebreaker for MCNC 7K 2024: Chong Xiao - The Multitude of Empyrean (osu! beatmap).
+
+Looking ahead, I'm excited to take on the responsibilities of making main design for the World Cups 2025, working alongside the talented illustrator Pineapple—whom I admire as their #1 fan. This marks my first time designing for tournaments on this scale, but I'm committed to delivering a presentation worthy of such an event.
+
+While I can't reveal more projects of what I have been busy with just yet, please stay tuned for the upcoming designs. And I promise, they are going to be bangers.
+
+</div>
+
 ::{#camellia}::
 
 ![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Camellia-banner.png)
