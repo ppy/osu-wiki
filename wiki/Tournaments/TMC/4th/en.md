@@ -29,7 +29,13 @@ The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!ma
 | Finals | 2025-03-21/2025-03-23 |
 | Grand Finals | 2025-03-28/2025-03-30 |
 
-<!-- ## Prizes -->
+## Prizes
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, profile badge (pending) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
