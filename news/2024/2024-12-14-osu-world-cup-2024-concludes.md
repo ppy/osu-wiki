@@ -399,15 +399,15 @@ To be honest I can't really express my emotions enough with just words. I am so 
 
 ![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/AlexDunk-banner.png)
 
-For OWC 2024, [AlexDunk](https://osu.ppy.sh/users/2287992) was responsible for the graphic designs of [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953), [Whiteout](https://osu.ppy.sh/beatmapsets/2278209), [Naples Yellow Mango](https://osu.ppy.sh/beatmapsets/2288022) and [Corrupted Paywall](https://osu.ppy.sh/beatmapsets/2287942). These were, however, just four among 13 osu! original projects in AlexDunk's 2024 world cup (and [LGA](/wiki/Tournaments/LGA/2024)) portfolio.
+For OWC 2024, [AlexDunk](https://osu.ppy.sh/users/9194799) was responsible for the graphic designs of [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953), [Whiteout](https://osu.ppy.sh/beatmapsets/2278209), [Naples Yellow Mango](https://osu.ppy.sh/beatmapsets/2288022) and [Corrupted Paywall](https://osu.ppy.sh/beatmapsets/2287942). These were, however, just four among 13 osu! original projects in AlexDunk's 2024 world cup (and [LGA](/wiki/Tournaments/LGA/2024)) portfolio.
 
 ---
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 How would you describe yourself to someone who doesn't know you?
 
@@ -417,9 +417,9 @@ How would you describe yourself to someone who doesn't know you?
 
 Hi, thanks for having me! I go by AlexDunk, originally an osu!mania player and mapper at heart. But now I'm slowly transitioning to be doing graphic design for song backgrounds! I have always been enjoying making beatmap backgrounds for songs, and the background images of all of my uploaded maps since 2019 are edited through Photoshop, so being able to join the World Cup design team for the same objectives is honestly such a honor. My goal is to keep making bigger and more awesome works that people enjoy to look at, and at the same time mayyybe inspire people too to start their own creative hobby and just simply doing awesome things!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Throughout the 13 osu! original beatmaps you're credited in, do you have any favourites?
 
@@ -433,9 +433,9 @@ To showcase my commitment to this project, I decided to implement Blender (A pop
 
 Other than that, the CWC 2024 Grand Finals tiebreaker: [Frost Walker](https://osu.ppy.sh/beatmapsets/2202823) by [Kou!](https://osu.ppy.sh/beatmaps/artists/383) is such an enormous production from start to finish. I am very grateful to even be able to be part of it and contribute to this project (Big shout out to [Sakura006](https://osu.ppy.sh/users/10365024) and the illustrators involved ([Dreamxiety](https://osu.ppy.sh/users/13103233), [Saturn](https://osu.ppy.sh/users/22001295), [Nepperoni](https://osu.ppy.sh/users/7082924)) for the carry).
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Are there early concepts or interesting stories that you remember well?
 
@@ -447,9 +447,9 @@ I remember my journey into GFX began in 2018, back when I was still deeply obses
 
 That moment sparked my interest in GFX, starting with basic text overlays and gradually evolving into adding effects, crafting detailed typography, and eventually producing full-fledged Photoshop artworks. Today, I have the privilege of collaborating with talented individuals who share my passion, working on projects I could never have imagined when I first began this journey.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Do you have any pointers to other artists about working with multiple people?
 
@@ -464,9 +464,9 @@ Working with artists on a design project is new to me too. I've only grown comfo
 
 Doing and learning at the same time will always push you further.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Are there other osu!-related projects that you've worked on?
 
@@ -492,9 +492,9 @@ Likely needing no introduction, [Camellia](https://osu.ppy.sh/beatmaps/artists/3
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 How would you describe the concept or inspirations behind *Operation: Zenithfall*?
 
@@ -508,9 +508,9 @@ During the brainstorming with concept idea process, I thought, "What if the them
 
 As a result, and thanks to other people who did their best jobs to make this song more elaborate than no one ever expected, I believe it became more than just a track, it's a work that combines storytelling and originality. I hope it serves as a new way to conclude the climax of the tournament, and enhance the players' experience.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Players likely remember your last osu! World Cup track *ΩΩPARTS* as the predecessor to hundreds of bespoke songs in osu! tournaments. Do you have thoughts to share regarding its conception?
 
@@ -526,9 +526,9 @@ I still vividly remember the excitement and honor I felt when the track was actu
 
 What makes me even happier is how this track became the starting point for a tradition of original songs being created for osu! tournaments. The fact that history has been shaped, even in a small way, by something I created is an incredible honor, and I'm proud to have been part of that journey. It's truly amazing to see how far things and other artists' works have come since then, and I'm thankful to have had the chance to contribute to it.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Many of your music releases are considered "boss songs" in a variety of rhythm games. When starting out, what did your relationship with the rhythm game sphere look like, and did you ever envision it as it is today?
 
@@ -542,9 +542,9 @@ In the beginning, I focused on creating music that expressed my favorite genres 
 
 But over time, I began to embrace the idea of "creating music that enhances the gameplay experience," consciously incorporating intense rhythm parts and challenging elements unique to rhythm games. As a result, I'm incredibly happy that many players have enjoyed my music, and that it's often recognized as "boss songs" as their biggest challenges. I could never have dreamed of becoming as deeply involved with the rhythm game community as I am today, but it has been one of the greatest joys and honors of my career.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Is there a story behind your fedora?
 
@@ -556,9 +556,9 @@ Nowadays, it's not just something I wear on stage - it's become a part of me, co
 
 Even people who have never met me in person recognize me by my hairstyle, glasses, and, of course, this fedora, which makes meeting up incredibly easy. It's also not uncommon for people to spot me in real life and ask, "Are you Camellia?". That's insane!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2287992" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/2287992">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Do you have any general thoughts to share about this project and the people you've been working with?
 
