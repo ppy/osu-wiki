@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "osu! World Cup 2024 Concludes"
-date: 2024-12-13 23:30:00 +0000
+title: osu! World Cup 2024 Concludes
+date: 2024-12-14 23:30:00 +0000
 ---
 
 They've all come so far, but there can only be one Champion.
@@ -22,7 +22,7 @@ Read or watch the [detailed match summaries further below](#grand-finals-recap).
 
 ## Mappool recap
 
-![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-mappool.jpg)
+![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-mappool.jpg)
 
 The Grand Finals pool had a fair amount of unique (and very difficult!) challenges for the top 3 teams. With a total of four separate osu! originals and some awesome custom maps — alongside a handful of existing maps, the backdrop for the final two matchups was undoubtedly an exciting spectacle to watch.
 
@@ -218,7 +218,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
 
 ::{#grand-finals-originals}::
 
-[![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Naples_Yellow_Mango-banner.jpg)](https://osu.ppy.sh/beatmapsets/2288022#osu/4892773)
+[![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/Naples_Yellow_Mango-banner.jpg)](https://osu.ppy.sh/beatmapsets/2288022#osu/4892773)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -226,7 +226,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Corrupted_Paywall-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677)
+[![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/Corrupted_Paywall-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -234,7 +234,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/XIchedelic_Nova_Trinity-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287963#osu/4881714)
+[![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/XIchedelic_Nova_Trinity-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287963#osu/4881714)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -242,7 +242,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Operation_Zenithfall-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796)
+[![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/Operation_Zenithfall-banner.jpg)](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -289,7 +289,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
 
 ::{#flyingtuna}::
 
-![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/FlyingTuna-banner.png)
+![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/FlyingTuna-banner.png)
 
 [FlyingTuna](https://osu.ppy.sh/users/9224078) was the captain of the winning team of osu! World Cup 2024, South Korea.
 
@@ -363,7 +363,7 @@ To be honest I can't really express my emotions enough with just words. I am so 
 
 ::{#alexdunk}::
 
-![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/AlexDunk-banner.png)
+![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/AlexDunk-banner.png)
 
 For OWC 2024, [AlexDunk](https://osu.ppy.sh/users/2287992) was responsible for the graphic designs of [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953), [Whiteout](https://osu.ppy.sh/beatmapsets/2278209), [Naples Yellow Mango](https://osu.ppy.sh/beatmapsets/2288022) and [Corrupted Paywall](https://osu.ppy.sh/beatmapsets/2287942). These were, however, just four among 13 osu! original projects in AlexDunk's 2024 world cup (and [LGA](/wiki/Tournaments/LGA/2024)) portfolio.
 
@@ -450,7 +450,7 @@ While I can't reveal more projects of what I have been busy with just yet, pleas
 
 ::{#camellia}::
 
-![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/Camellia-banner.png)
+![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/Camellia-banner.png)
 
 Likely needing no introduction, [Camellia](https://osu.ppy.sh/beatmaps/artists/31) is an artist responsible for many rhythm gamers' broken fingers, as well as many songs with storied beatmaps here on osu!. This year, he composed *Operation: Zenithfall* for the osu! World Cup's [Grand Finals tiebreaker beatmap](https://osu.ppy.sh/beatmapsets/2287992).
 
@@ -544,7 +544,7 @@ And, by the way, this message will self-destruct in 5 seconds.
 
 The 2024 osu! world cup would not have been possible without **192** individual contributors across the board, along with **506** players who partook in the tournament.
 
-![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc2024-credits.png)
+![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc2024-credits.png)
 
 Thank you to the contributors, players, viewers, and everyone who has joined us for this amazing ride! The osu!mania 7K World Cup is up next in early January, so if you're a key smasher we hope to see you there!
 
