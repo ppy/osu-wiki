@@ -36,7 +36,7 @@ You can find a glimpse behind the scenes for the mapping and visuals of this tie
 
 The three originals in the regular part of the pool were also very much worthy of attention. In the No Mod pool, there were two: [Naples Yellow Mango](https://osu.ppy.sh/beatmapsets/2288022#osu/4881869), by [Attoclef](LINK) was a funky, ever-changing song made into an extremely tough gimmick map by the combined efforts of Chinese legends [fanzhen0019](https://osu.ppy.sh/users/418699) and [Hollow Wings](https://osu.ppy.sh/users/416662). [Corrupted Paywall](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677), the frenetic speedcore track by [XH](LINK), was adapted by [Cellina](https://osu.ppy.sh/users/2490770) to be a relentless speed challenge with a good amount of tech added on top. Finally, [XIchedelic Nova Trinity](https://osu.ppy.sh/beatmapsets/2287963#osu/4881714) was [DJ Genki](https://osu.ppy.sh/beatmaps/artists/295)'s contribution this year, with an electronic offering equal parts groovy and vibrant, mapped by [Pho](https://osu.ppy.sh/users/3624692) as a true test of aim and finger control in the Hidden pool.
 
-Some highlights of the other maps include the unexpected appearance of a custom by [elchxyrlia](https://osu.ppy.sh/users/1722835), more well known as lahphnya or Arles, with their take on [Sky of Twilight](https://osu.ppy.sh/beatmapsets/2287859#osu/4881501) — the famous Graveyard high-SR mapper making the map in a similarly mechanically intensive way; a map of [Rubik's Cube](https://osu.ppy.sh/beatmapsets/2288047#osu/4881933) by the previously mentioned Heilia, a popular song with an adaptation here that the writer of this column can only define as "quite squarey". And the final map to be mentioned coincides with the final map played in the whole tournament — [unravel](https://osu.ppy.sh/beatmapsets/2287914#osu/4881614), the famous song made into an insanely hard alt map by [aishiteiru-](https://osu.ppy.sh/users/10566388).
+Some highlights of the other maps include the unexpected appearance of a custom by [elchxyrlia](https://osu.ppy.sh/users/1722835), more well known as lahphnya or Arles, with their take on [Sky of Twilight](https://osu.ppy.sh/beatmapsets/2287859#osu/4881501) — the famous Graveyard high-SR mapper making the map in a similarly mechanically intensive way; a map of [Rubik's Cube](https://osu.ppy.sh/beatmapsets/2288047#osu/4881933) by the previously mentioned Heilia, a popular song with an adaptation here that the writer of this section can only define as "quite squarey"; and the final map to be mentioned coincides with the final map played in the whole tournament — [unravel](https://osu.ppy.sh/beatmapsets/2287914#osu/4881614), the famous song made into an insanely hard alt map by [aishiteiru-](https://osu.ppy.sh/users/10566388).
 
 Thanks for everyone who made the pools possible this year, and we hope to see you next year!
 
@@ -104,7 +104,7 @@ South Korea had finally done it. The reign of the United States as osu! World Cu
 
 ## Match highlights
 
-If you missed out on any on the weeks, or are just getting into osu! and need a crash course, here you will find all matches that have been highlighted throughout the world cup.
+If you missed out on any on the weeks, or are just getting into osu! and need a crash course, here you will find all matches that have been highlighted throughout the osu! World Cup 2024.
 
 | Match | Stage | Links |
 | :-- | :-- | :-- |
@@ -126,9 +126,11 @@ If you missed out on any on the weeks, or are just getting into osu! and need a 
     }
 </style>
 
-Alongside all the high-quality production and entertainment, the 2024 osu! World Cup also featured **13** brand-new [osu! originals](/wiki/osu!_originals), spanning across almost all major music genres. From jazz to hardcore, the quality of not only the songs, but also all other assets such as backgrounds, storyboards, videos, etc. have helped generate hype and provide the community with content of the highest quality.
+Alongside all the high-quality production and entertainment, the 2024 osu! World Cup also featured **13** brand-new [osu! originals](/wiki/osu!_originals), spanning across almost all major music genres. From jazz to hardcore, the quality of not only the songs, but also all other assets such as backgrounds, storyboards, videos and everything in between have helped generate hype and provide the community with content of the highest quality.
 
 Check out all the originals below by listening to the previews, and check out the beatmaps themselves by clicking on their banners!
+
+We've covered the new original beatmaps in the [mappool section of this article](#mappool-recap). For commentary on previous originals, including interviews with some of their contributors, check the previous weekly recaps.
 
 ### Round of 32
 
