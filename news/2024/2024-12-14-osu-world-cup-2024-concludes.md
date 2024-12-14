@@ -22,7 +22,7 @@ Read or watch the [detailed match summaries further below](#grand-finals-recap).
 
 ## Mappool recap
 
-![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-mappool.jpg)
+![](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-mappool.png)
 
 The Grand Finals pool had a fair amount of unique (and very difficult!) challenges for the top 3 teams. With a total of four separate osu! originals and some awesome custom maps — alongside a handful of existing maps, the backdrop for the final two matchups was undoubtedly an exciting spectacle to watch.
 
@@ -254,29 +254,29 @@ We've compiled some interesting stats for you to look at.
 
 ### Most valuable players
 
-![MVPs, with mrekk at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-mvp.jpg)
+![MVPs, with mrekk at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-mvp.png)
 
 ### Top team win rates
 
-![Win rates, with team South Korea at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-team-winrate.jpg)
+![Win rates, with team South Korea at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-team-winrate.png)
 
 ### Top performance point scores
 
-![High-pp scores, with hydrogen bomb (Rektygon) at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-top-pp.jpg)
+![High-pp scores, with hydrogen bomb (Rektygon) at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-top-pp.png)
 
 ### Grand Finals closest matches
 
-![Grand Finals matches, with United States vs. Australia on HR2 at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-closest.jpg)
+![Grand Finals matches, with United States vs. Australia on HR2 at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-closest.png)
 
 ### Grand Finals highest score differences
 
-![Grand Finals score differences, with South Korea vs. United States on DT2 at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-score-diff.jpg)
+![Grand Finals score differences, with South Korea vs. United States on DT2 at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-score-diff.png)
 
 ### Grand Finals yap cost
 
 ...i.e how much of a player's performance is dedicated into talking in chat rooms instead of playing. It doesn't actually affect anything... right?
 
-![Grand Finals yap costs, with Allegrissimo at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-yap-costs.jpg)
+![Grand Finals yap costs, with Allegrissimo at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-yap-costs.png)
 
 ---
 
