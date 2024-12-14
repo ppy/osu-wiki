@@ -256,7 +256,7 @@ We've compiled some interesting stats for you to look at.
 
 ### Most valuable players
 
-![MVPs, with mrekk at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-mpv.jpg)
+![MVPs, with mrekk at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-mvp.jpg)
 
 ### Top team win rates
 
@@ -278,7 +278,7 @@ We've compiled some interesting stats for you to look at.
 
 ...i.e how much players talk in the chat rooms during matches. It doesn't actually affect matches... right?
 
-![Grand Finals yap costs, with Allegrissimo at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-yap-cost.jpg)
+![Grand Finals yap costs, with Allegrissimo at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-yap-costs.jpg)
 
 ---
 
