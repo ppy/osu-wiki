@@ -8,7 +8,7 @@ They've all come so far, but there can only be one Champion.
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
-History was made last weekend when when former victors were challenged on the highest stage of osu! gameplay. Read on for everything about the the results, the beatmaps, the people and how it all came together!
+History was made last weekend when former victors were challenged on the highest stage of osu! gameplay. Read on for everything about the results, the beatmaps, the people and how it all came together!
 
 ## Summary
 
@@ -16,7 +16,7 @@ History was made last weekend when when former victors were challenged on the hi
 
 Congratulations to ::{ flag=KR }:: South Korea for upending the ::{ flag=US }:: United States' 6-year reign, and to ::{ flag=AU }:: Australia for nearly doing the same and taking them to the tiebreaker.
 
-Coming into this tournament, suspicions about the then-current paradigm of U.S. dominance grew ever stronger, especially after last year's extremely close Grand Finals bout between the same finalist teams, where the last match went to both bracket reset and tiebreaker. While some were predicting this outcome as more likely than ever, none would remain unfazed in the moment the turning point actually happened.
+Coming into this tournament, suspicions about the then-current paradigm of U.S. dominance grew ever stronger, especially after last year's extremely close Grand Finals bout between the same finalist teams, where the last match went to both bracket reset and tiebreaker. While some were predicting this outcome as more likely than ever, none would remain unfazed at the moment the turning point actually happened.
 
 Read or watch the [detailed match summaries further below](#grand-finals-recap).
 
@@ -34,7 +34,7 @@ You can find a glimpse behind the scenes for the mapping and visuals of this tie
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/AGjq63yxfog" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The three originals in the regular part of the pool were also very much worthy of attention. In the No Mod pool, there were two: [Naples Yellow Mango](https://osu.ppy.sh/beatmapsets/2288022#osu/4881869), by [Attoclef](LINK) was a funky, ever-changing song made into an extremely tough gimmick map by the combined efforts of Chinese legends [fanzhen0019](https://osu.ppy.sh/users/418699) and [Hollow Wings](https://osu.ppy.sh/users/416662). [Corrupted Paywall](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677), the frenetic speedcore track by [XH](LINK), was adapted by [Cellina](https://osu.ppy.sh/users/2490770) to be a relentless speed challenge with a good amount of tech added on top. Finally, [XIchedelic Nova Trinity](https://osu.ppy.sh/beatmapsets/2287963#osu/4881714) was [DJ Genki](https://osu.ppy.sh/beatmaps/artists/295)'s contribution this year, with an electronic offering equal parts groovy and vibrant, mapped by [Pho](https://osu.ppy.sh/users/3624692) as a true test of aim and finger control in the Hidden pool.
+The three originals in the regular part of the pool were also very much worthy of attention. In the No Mod pool, there were two: [Naples Yellow Mango](https://osu.ppy.sh/beatmapsets/2288022#osu/4881869), by [Attoclef](https://osu.ppy.sh/users/30958520) was a funky, ever-changing song made into an extremely tough gimmick map by the combined efforts of Chinese legends [fanzhen0019](https://osu.ppy.sh/users/418699) and [Hollow Wings](https://osu.ppy.sh/users/416662). [Corrupted Paywall](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677), the frenetic speedcore track by [XH](LINK), was adapted by [Cellina](https://osu.ppy.sh/users/2490770) to be a relentless speed challenge with a good amount of tech added on top. Finally, [XIchedelic Nova Trinity](https://osu.ppy.sh/beatmapsets/2287963#osu/4881714) was [DJ Genki](https://osu.ppy.sh/beatmaps/artists/295)'s contribution this year, with an electronic offering equal parts groovy and vibrant, mapped by [Pho](https://osu.ppy.sh/users/3624692) as a true test of aim and finger control in the Hidden pool.
 
 Some highlights of the other maps include the unexpected appearance of a custom by [elchxyrlia](https://osu.ppy.sh/users/1722835), more well known as lahphnya or Arles, with their take on [Sky of Twilight](https://osu.ppy.sh/beatmapsets/2287859#osu/4881501) — the famous Graveyard high-SR mapper making the map in a similarly mechanically intensive way; a map of [Rubik's Cube](https://osu.ppy.sh/beatmapsets/2288047#osu/4881933) by the previously mentioned Heilia, a popular song with an adaptation here that the writer of this section can only define as "quite squarey"; and the final map to be mentioned coincides with the final map played in the whole tournament — [unravel](https://osu.ppy.sh/beatmapsets/2287914#osu/4881614), the famous song made into an insanely hard alt map by [aishiteiru-](https://osu.ppy.sh/users/10566388).
 
