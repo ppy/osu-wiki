@@ -16,9 +16,17 @@ text
 
 ## Mappool recap
 
-text
+![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-mappool.png)
 
-<!-- use ::{#grand-finals-originals}:: to guide the reader to the GF embeds -->
+The Grand Finals pool had a fair amount of unique (and very difficult!) challenges for the top 3 teams. With a total of four separate osu! originals and some awesome custom maps — alongside a handful of existing maps, the backdrop for the final two matchups was undoubtedly an exciting spectacle to watch.
+
+Headlining the lineup of originals was, no doubt about it, the tiebreaker — [Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796) by the great [Camellia](https://osu.ppy.sh/beatmaps/artists/31). An exciting yet suspenseful track inspired by classical spy film soundtracks, with callbacks both song-wise and GFX-wise to previous works, this amazing song was given to the elite taskforce of [Mir](https://osu.ppy.sh/users/8688812), [Sing](https://osu.ppy.sh/users/3795679), [funny](https://osu.ppy.sh/users/8473573), [Heilia](https://osu.ppy.sh/users/9823042) and [toybot](https://osu.ppy.sh/users/2848604), their mission being to adapt it to osu!, and be the cherry on top of this year's World Cup. The map features an intense mix of technical elements, as well as a high mechanical barrier, being aim-intensive and requiring a fair amount of stamina and a bit of speed.
+
+The three originals in the regular part of the pool were also very much worthy of attention. In the No Mod pool, there were two: [Naples Yellow Mango](https://osu.ppy.sh/beatmapsets/2288022#osu/4881869), by [Attoclef](LINK) was a funky, ever-changing song made into an extremely tough gimmick map by the combined efforts of Chinese legends [fanzhen0019](https://osu.ppy.sh/users/418699) and [Hollow Wings](https://osu.ppy.sh/users/416662). [Corrupted Paywall](https://osu.ppy.sh/beatmapsets/2287942#osu/4881677), the frenetic speedcore track by [XH](LINK), was adapted by [Cellina](https://osu.ppy.sh/users/2490770) to be a relentless speed challenge with a good amount of tech added on top. Finally, [XIchedelic Nova Trinity](https://osu.ppy.sh/beatmapsets/2287963#osu/4881714) was [DJ Genki](https://osu.ppy.sh/beatmaps/artists/295)'s contribution this year, with an electronic offering equal parts groovy and vibrant, mapped by [Pho](https://osu.ppy.sh/users/3624692) as a true test of aim and finger control in the Hidden pool.
+
+Some highlights of the other maps include the unexpected appearance of a custom by [elchxyrlia](https://osu.ppy.sh/users/1722835), more well known as lahphnya or Arles, with their take on [Sky of Twilight](https://osu.ppy.sh/beatmapsets/2287859#osu/4881501) — the famous Graveyard high-SR mapper making the map in a similarly mechanically intensive way; a map of [Rubik's Cube](https://osu.ppy.sh/beatmapsets/2288047#osu/4881933) by the previously mentioned Heilia, a popular song with an adaptation here that the writer of this column can only define as "quite squarey". And the final map to be mentioned coincides with the final map played in the whole tournament — [unravel](https://osu.ppy.sh/beatmapsets/2287914#osu/4881614), the famous song made into an insanely hard alt map by [aishiteiru-](https://osu.ppy.sh/users/10566388).
+
+Thanks for everyone who made the pools possible this year, and we hope to see you next year!
 
 ## Grand Finals recap
 
