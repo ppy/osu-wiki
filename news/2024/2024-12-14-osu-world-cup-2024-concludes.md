@@ -256,29 +256,29 @@ We've compiled some interesting stats for you to look at.
 
 ### Most valuable players
 
-![MVPs, with mrekk at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-mpv.jpg)
+![MVPs, with mrekk at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-mpv.jpg)
 
 ### Top team win rates
 
-![Win rates, with Team South Korea at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-team-winrate.jpg)
+![Win rates, with Team South Korea at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-team-winrate.jpg)
 
 ### Top performance point scores
 
-![High-pp scores, with hydrogen bomb (Rektygon) at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-top-pp.jpg)
+![High-pp scores, with hydrogen bomb (Rektygon) at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-top-pp.jpg)
 
 ### Grand Finals closest matches
 
-![Grand Finals matches, with United States vs. Australia on HR2 at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-closest.jpg)
+![Grand Finals matches, with United States vs. Australia on HR2 at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-closest.jpg)
 
 ### Grand Finals highest score differences
 
-![Grand Finals score differences, with South Korea vs. United States on DT2 at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-score-diff.jpg)
+![Grand Finals score differences, with South Korea vs. United States on DT2 at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-score-diff.jpg)
 
 ### Grand Finals yap cost
 
 ...i.e how much players talk in the chat rooms during matches. It doesn't actually affect matches... right?
 
-![Grand Finals yap costs, with Allegrissimo at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-yap-cost.jpg)
+![Grand Finals yap costs, with Allegrissimo at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-yap-cost.jpg)
 
 ---
 
