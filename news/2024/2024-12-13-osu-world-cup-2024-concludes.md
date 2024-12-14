@@ -8,11 +8,17 @@ They've all come so far, but there can only be one Champion.
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
+History was made last weekend when when former victors were challenged on the highest stage of osu! gameplay. Read on for everything about the the results, the beatmaps, the people and how it all came together!
+
 ## Summary
 
-text
-
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-podium.jpg)
+
+Congratulations to ::{ flag=KR }:: South Korea for upending the ::{ flag=US }:: United States' 6-year reign, and to ::{ flag=AU }:: Australia for nearly doing the same and taking them to the tiebreaker.
+
+Coming into this tournament, suspicions about the then-current paradigm of U.S. dominance grew ever stronger, especially after last year's extremely close Grand Finals bout between the same finalist teams, where the last match went to both bracket reset and tiebreaker. While some were predicting this outcome as more likely than ever, none would remain unfazed in the moment the turning point actually happened.
+
+Read or watch the [detailed match summaries further below](#grand-finals-recap).
 
 ## Mappool recap
 
