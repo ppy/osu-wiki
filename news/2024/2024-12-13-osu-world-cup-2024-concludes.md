@@ -110,7 +110,7 @@ If you missed out on any on the weeks, or are just getting into osu! and need a 
 
 Alongside all the high-quality production and entertainment, the 2024 osu! World Cup also featured **13** brand-new [osu! originals](/wiki/osu!_originals), spanning across almost all major music genres. From jazz to hardcore, the quality of not only the songs, but also all other assets such as backgrounds, storyboards, videos, etc. have helped generate hype and provide the community with content of the highest quality.
 
-Check out all the originals below by listening to the previews, and checking out the beatmaps themselves by clicking on their banners!
+Check out all the originals below by listening to the previews, and check out the beatmaps themselves by clicking on their banners!
 
 ### Round of 32
 
