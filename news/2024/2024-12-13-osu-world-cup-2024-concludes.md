@@ -16,7 +16,7 @@ text
 
 ## Mappool recap
 
-![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-mappool.png)
+![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-mappool.jpg)
 
 The Grand Finals pool had a fair amount of unique (and very difficult!) challenges for the top 3 teams. With a total of four separate osu! originals and some awesome custom maps — alongside a handful of existing maps, the backdrop for the final two matchups was undoubtedly an exciting spectacle to watch.
 
