@@ -250,7 +250,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
 
 ## Statistics
 
-We've compiled some interesting stats for you to look at.
+Let's go through some interesting stats that we've compiled for your viewing pleasure:
 
 ### Most valuable players
 
