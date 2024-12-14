@@ -264,9 +264,9 @@ Let's go through some interesting stats that we've compiled for your viewing ple
 
 ![High-pp scores, with hydrogen bomb (Rektygon) at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-top-pp.png)
 
-### Grand Finals closest matches
+### Grand Finals closest maps
 
-![Grand Finals matches, with United States vs. Australia on HR2 at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-closest.png)
+![Grand Finals matches, with the United States vs. Australia on HR2 at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-closest.png)
 
 ### Grand Finals highest score differences
 
