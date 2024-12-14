@@ -42,11 +42,9 @@ Thanks for everyone who made the pools possible this year, and we hope to see yo
 
 ## Grand Finals recap
 
-As before, [Junihuhn](https://osu.ppy.sh/users/4182339) has created video recaps of every stage. You'll find the latest one for the Grand Finals below, or you can also [binge the playlist of video recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_bQChx2C0ppRZ4tdf0tYe-) on Junihuhn's channel, if that's more your style.
+Much like in past years, [Junihuhn](https://osu.ppy.sh/users/4182339) has created a video recap of every stage. You'll find the latest one below in the match recaps, or you can also [binge the playlist of video recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_bQChx2C0ppRZ4tdf0tYe-) on Junihuhn's channel, if that's more your style.
 
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/A_r3iiKN_gc" frameborder="0" allowfullscreen></iframe>
-</div>
+You could also read all about what happened during the final two matches, and you can thank [D I O](https://osu.ppy.sh/users/3958619) and [this1neguy](https://osu.ppy.sh/users/1797189)'s penmanship for that.
 
 ### ::{ flag=US }:: United States vs. ::{ flag=AU }:: Australia
 
