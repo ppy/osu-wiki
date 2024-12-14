@@ -274,7 +274,7 @@ We've compiled some interesting stats for you to look at.
 
 ### Grand Finals yap cost
 
-...i.e how much players talk in the chat rooms during matches. It doesn't actually affect matches... right?
+...i.e how much players talk in chat rooms in relation to how many times they played in matches. It doesn't actually affect anything... right?
 
 ![Grand Finals yap costs, with Allegrissimo at the top](/wiki/shared/news/2024-12-14-osu-world-cup-2024-concludes/owc-2024-gf-yap-costs.jpg)
 
