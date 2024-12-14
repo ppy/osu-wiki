@@ -4,7 +4,7 @@ title: osu! World Cup 2024 Concludes
 date: 2024-12-14 22:30:00 +0000
 ---
 
-They've all come so far, but there can only be one Champion.
+They've all come so far, but there can only be one champion.
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
