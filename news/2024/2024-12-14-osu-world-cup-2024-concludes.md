@@ -222,7 +222,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="pishifat please save us">
+        <source src="https://assets.ppy.sh/artists/451/Songs/Attoclef%20-%20Naples%20Yellow%20Mango.mp3">
     </audio>
 </div>
 
@@ -230,7 +230,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="pishifat please save us">
+        <source src="https://assets.ppy.sh/artists/452/Songs/XH%20-%20Corrupted%20Paywall.mp3">
     </audio>
 </div>
 
@@ -238,7 +238,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="pishifat please save us">
+        <source src="https://assets.ppy.sh/artists/295/Songs/Gram_vs._DJ_Genki_-_XIchedelic_Nova_Trinity.mp3">
     </audio>
 </div>
 
@@ -246,7 +246,7 @@ We've covered the new original beatmaps in the [mappool section of this article]
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="pishifat please save us">
+        <source src="https://assets.ppy.sh/artists/31/Songs/Camellia_-_Operation_Zenithfall.mp3">
     </audio>
 </div>
 
