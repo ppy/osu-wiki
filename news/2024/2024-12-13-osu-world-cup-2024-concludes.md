@@ -522,7 +522,7 @@ And, by the way, this message will self-destruct in 5 seconds.
 
 ---
 
-The 2024 osu! world cup would not have been possible without **191** individual contributors across the board, along with **506** players who partook in the tournament.
+The 2024 osu! world cup would not have been possible without **192** individual contributors across the board, along with **506** players who partook in the tournament.
 
 ![](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc2024-credits.png)
 
