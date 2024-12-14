@@ -385,7 +385,7 @@ My team and I, we all took it calmly as we had the bracket reset in mind. Becaus
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-South Korea finished in the top 4 eight times since 2014, top 3 5 times since 2016, and second in 2019, 2022, and 2023. What does it mean for you to finally get the win this year?
+South Korea finished in the top 4 eight times since 2014, top 3 five times since 2016, and second in 2019, 2022, and 2023. What does it mean for you to finally get the win this year?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9224078" style="background-image: url('/wiki/shared/avatars/FlyingTuna.jpg')"></a>
 
