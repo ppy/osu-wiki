@@ -250,6 +250,40 @@ We've covered the new original beatmaps in the [mappool section of this article]
     </audio>
 </div>
 
+## Statistics
+
+We've compiled some interesting stats for you to look at.
+
+### Most valuable players
+
+![MVPs, with mrekk at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-mpv.jpg)
+
+### Top team win rates
+
+![Win rates, with Team South Korea at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-team-winrate.jpg)
+
+### Top performance point scores
+
+![High-pp scores, with hydrogen bomb (Rektygon) at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-top-pp.jpg)
+
+### Grand Finals closest matches
+
+![Grand Finals matches, with United States vs. Australia on HR2 at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-closest.jpg)
+
+### Grand Finals highest score differences
+
+![Grand Finals score differences, with South Korea vs. United States on DT2 at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-score-diff.jpg)
+
+### Grand Finals yap cost
+
+...i.e how much players talk in the chat rooms during matches. It doesn't actually affect matches... right?
+
+![Grand Finals yap costs, with Allegrissimo at the top](/wiki/shared/news/2024-12-13-osu-world-cup-2024-concludes/owc-2024-gf-yap-cost.jpg)
+
+---
+
+If you feel like staring at some more numbers, check out the [general information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSw3O_fsUqILDwRdTxtCv2_TdfpI2o_MmUj4__DXicX4sYVkSHtY3OOMtYL5oA2EvOIwnZ5IB_8dpe6/pubhtml) and the [per-round statistics spreadsheets](https://drive.google.com/drive/folders/15o3d1m8YY0oFQvUz6tNBzdnePAxQOEOT).
+
 ## Interviews
 
 <style>
