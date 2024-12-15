@@ -134,12 +134,12 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 
 1. The Qualifiers Stage will happen in the first week of the tournament play. All registered players who were not screened out during screening are eligible to participate in the Qualifiers.
 2. During Qualifiers, all teams will play the Qualifier pool in sequential order up to 2 times. The pool will have 6 stages, and they are as follows:
-   - Stage 1: *TBD*
-   - Stage 2: *TBD*
-   - Stage 3: *TBD*
-   - Stage 4: *TBD*
-   - Stage 5: *TBD*
-   - Stage 6: *TBD*
+   - Stage 1: Early-Mid Game Rice Technical
+   - Stage 2: Early-Mid Game LN Coordination
+   - Stage 3: Mid Game LN Density
+   - Stage 4: Mid Game Rice Jumpstream
+   - Stage 5: Mid-Late Game Rice Technical
+   - Stage 6: Mid-Late Game Hybrid
 3. Each team must have 2 players play each map. They may be exchanged freely after a map has concluded.
 4. Teams can skip any map in the second playthrough. An optional 5-minute break will be offered between the first and second playthrough of the mappool.
 5. The following methods will be used for seeding, sorting through each ranking criteria in the case of equal rank:
@@ -160,7 +160,7 @@ The weights for the Qualifiers are as follows:
 
 |  | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Weight** | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
+| **Weight** | 1 | 1.01 | 1.2 | 1.21 | 1.4 | 1.41 |
 
 #### Group Stage & Playoffs
 
@@ -196,13 +196,13 @@ The weights for the Qualifiers are as follows:
    - If both teams don’t have enough players to present and still have available staff and are not influenced by other match processes, the match can be rescheduled.
    - If a match cannot be rescheduled, the higher seeded team will *win by default*.
 3. Each captain must use `!roll` once in the match's chatroom.
-   - The winner of the `!roll` decides which team **picks** and **protects** first.
-   - The loser of the `!roll` decides which team **bans** first.
+   - The winner of the `!roll` team **picks** and **protects** first.
+   - The loser of the `!roll`  team **bans** first.
 4. After the order is determined, the pick and ban phase will have the following steps:
-   1. First team protect a beatmap, followed by another team.They may not protect the same beatmap. Protected beatmaps may not be banned.
-   2. First team ban a map, followed by another team.
-   3. (If it’s in group stage) First team ban second map, followed by another team.
-   4. First team pick a map.
+   1. `!roll` winner protect a beatmap, followed by another team. They may not protect the same beatmap. Protected beatmaps may not be banned.
+   2. `!roll` loser bans a map, followed by another team.
+   3. (If it’s in group stage) `!roll` loser bans the second map, followed by another team.
+   4. `!roll` winner pick the 1st map, followed by alternate picks afterwards.
 5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
@@ -211,11 +211,10 @@ The weights for the Qualifiers are as follows:
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e., the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
      - Repeat offenders may receive further sanctions from the coordinator.
-6. Each team will receive one "tactical timeout" of 3 minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
+6. Each team will receive only one timeout of 3 minutes, to be used as extra time to pick or ban a beatmap (tactical),or a technical issue occurs (technical). *The timeout is optional.*
    - This timeout is automatically consumed when regular picking time runs out.
    - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
-7. Each team will receive one technical timeout of 3 minutes, which is only to be used when a technical issue occurs.
-8. If players are unavailable when rematch (e.g. technical issue or unavoidable player absence), they influenced team could replace those players while keeping the remaining players same.
+7. If players are unavailable when rematch (e.g. technical issue or unavoidable player absence), they influenced team could replace those players while keeping the remaining players same.
 
 ### Scheduling instructions
 
