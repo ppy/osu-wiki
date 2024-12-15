@@ -192,7 +192,7 @@ The weights for the Qualifiers are as follows:
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time.
    - The room settings are `Game mode: "osu!mania
-"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `THMC3 ({Stage}):
+"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `THMC4 ({Stage}):
  ({Red Team}) VS ({Blue Team})`.
 2. If less than 2 players from a team are present at match time, the match can be postponed for up to **10 minutes**. If there are still less than 2 players from a team, a *win by default* will be declared for the side with the most members present.
    - If both teams don’t have enough players to present and still have available staff and are not influenced by other match processes, the match can be rescheduled.
@@ -213,7 +213,7 @@ The weights for the Qualifiers are as follows:
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e., the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
      - Repeat offenders may receive further sanctions from the coordinator.
-6. Each team will receive only one timeout of 3 minutes, to be used as extra time to pick or ban a beatmap (tactical),or a technical issue occurs (technical). *The timeout is optional.*
+6. Each team will receive only one timeout of 3 minutes, to be used as extra time to pick or ban a beatmap (tactical), or a technical issue occurs (technical). *The timeout is optional.*
    - This timeout is automatically consumed when regular picking time runs out.
    - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
 7. If players are unavailable when rematch (e.g. technical issue or unavoidable player absence), they influenced team could replace those players while keeping the remaining players same.
