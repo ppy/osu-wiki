@@ -8,7 +8,7 @@ tags:
 
 # Touhou Project Mania Cup 4th
 
-<!--![Touhou Project Mania Cup 4th banner](img/banner.png)-->
+![Touhou Project Mania Cup 4th banner](img/banner@2x.png)
 
 The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament is the *Touhou Project*. The pool used for THMC 4th is 100% based on original and fan-made *Touhou* music. It is the fourth installment of the Touhou Project Mania Cup.
 
@@ -185,6 +185,8 @@ The weights for the Qualifiers are as follows:
 4. The top 2 teams will advance to a standard double elimination bracket stage, called `Playoffs`.
 5. Teams that lose a match in the upper bracket move to the lower bracket; losing a match in the lower bracket will eliminate them until the final winner is determined.
 6. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
+
+![Group Stage Bracket](img/group-stage-bracket.png)
 
 ### Match instructions
 
