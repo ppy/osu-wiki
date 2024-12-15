@@ -41,10 +41,10 @@ Some common reasons why users get silenced in public chat include, but are not l
 
 - **Spamming or flooding:** Self-explanatory.
 - **Caps abuse:** Chatting with all uppercase letters.
-- **Inappropriate behaviour/conversation:** The public chat is not a place for discussions not appropriate for all ages, or for heavily inflammatory topics.
+- **Inappropriate behaviour/conversation:** The public chat is not a place for discussions not appropriate for all ages, or for inflammatory topics.
 - **Racism:** Discrimination or hatred based on race, religion, gender, sexual orientation, etc.
 - **Advertising:** Promoting products or services. This includes Discord invite links and streaming links such as Twitch and YouTube.
-- **Unwanted content:** Websites containing piracy, screamers, referrals and the like. 
+- **Unwanted content:** Websites containing piracy, screamers, referrals and the like.
 
 Silences may also be given to users for other reasons, such as (but not limited to):
 
