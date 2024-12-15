@@ -14,15 +14,15 @@ Their retro-inspired and charming tracks showcase an energetic atmosphere that p
 
 See what you've been missing out on:
 
-### [uynet - Mach space journey](https://assets.ppy.sh/artists/453/Songs/uynet%20-%20Mach%20space%20journey.osz)
-
-Check out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2013835) hosted by [wIntEr7z](https://osu.ppy.sh/users/16509588) or [this 7K Loved rendition](https://osu.ppy.sh/beatmapsets/1337065) hosted by [yahweh](https://osu.ppy.sh/users/10465260)!
-
 <div align="center">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/artists/453/release_showcase.mp4?1" type="video/mp4" preload="none">
     </video>
 </div>
+
+### [uynet - Mach space journey](https://assets.ppy.sh/artists/453/Songs/uynet%20-%20Mach%20space%20journey.osz)
+
+Check out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2013835) hosted by [wIntEr7z](https://osu.ppy.sh/users/16509588) or [this 7K Loved rendition](https://osu.ppy.sh/beatmapsets/1337065) hosted by [yahweh](https://osu.ppy.sh/users/10465260)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/453/Songs/uynet%20-%20Mach%20space%20journey.mp3">
