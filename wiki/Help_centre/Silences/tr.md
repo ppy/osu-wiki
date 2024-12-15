@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
+outdated_since: 220f8e2cb5c0a920fc17f24436144b38510e05d9
 ---
 
 # Susturma

@@ -5,7 +5,7 @@ tags:
   - account
   - profile
   - register
-  - instalasi
+  - pemasangan
   - pengunduhan
   - akun
   - profil
@@ -14,26 +14,26 @@ tags:
 
 # Instalasi dan pendaftaran
 
-*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
+*Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar instalasi dan pendaftaran akun osu! secara garis besar.
+Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan dengan pemasangan osu! dan pembuatan akun.
 
 ## Instalasi {id=installation}
 
-*Laman utama: [Instalasi](/wiki/Client/Installation)*
+*Halaman utama: [Instalasi](/wiki/Client/Installation)*
 
-### Di mana saya dapat mengunduh osu!? {id=download}
+### Bagaimana cara saya mengunduh osu!? {id=download}
 
-**Kamu dapat mengunduh osu! melalui tombol `Unduh sekarang` yang ada pada [laman utama (*homepage*) osu!](https://osu.ppy.sh/home), atau dengan mengarahkan kursor kamu pada menu `beranda` yang ada pada bagian atas layar dan memilih `unduh` pada daftar pilihan yang muncul setelahnya.**
+**Cukup klik tombol `Unduh sekarang` yang terdapat pada bagian tengah [halaman beranda situs resmi osu!](https://osu.ppy.sh/home). Kamu juga dapat menemukan tautan ke halaman unduhan melalui menu *dropdown* `beranda` yang terdapat pada bilah navigasi dari halaman mana pun.**
 
-Apabila kamu tidak ingin repot, [klik tautan ini](https://osu.ppy.sh/home/download).
+Sebagai alternatif, [klik di sini](https://osu.ppy.sh/home/download) untuk langsung menuju ke halaman unduhan.
 
 ## Pendaftaran {id=registration}
 
-*Laman utama: [Pendaftaran](/wiki/Registration)*
+*Halaman utama: [Pendaftaran](/wiki/Registration)*
 
-### Bagaimana caranya bagi saya untuk dapat membuat akun osu!? {id=how-to-register}
+### Di mana saya dapat mendaftar akun osu!? {id=registration}
 
-**[Unduh osu! terlebih dahulu](https://osu.ppy.sh/home/download), lalu instal dan jalankan. Apabila sudah, ikuti instruksi-instruksi yang tertera pada layar untuk dapat membuat akun baru.**
+**Unduh osu! melalui [tautan ini](https://osu.ppy.sh/home/download), lalu jalankan berkas aplikasi yang kamu peroleh. osu! akan menampilkan layar khusus tempat kamu dapat membuat akun.**
 
-Pastikan kamu mendaftar dengan menggunakan alamat email yang aktif dan dapat kamu akses setiap saat (bukan alamat email yang bersifat sementara/*throwaway mail*). Apabila sewaktu-waktu kamu kehilangan atau tidak dapat mengingat kata sandi milikmu, kami dapat menggunakan alamat email ini untuk memulihkan akses menuju akunmu.
+Pastikan kamu memberikan alamat email yang berada dalam kendalimu. Alamat email ini akan digunakan untuk mengatur ulang kata sandimu dan mengirimkan email verifikasi ketika dibutuhkan. Oleh karenanya, jangan gunakan alamat email yang bersifat sementara (*throwaway email*).
