@@ -1,5 +1,5 @@
 ---
-stub: true
+outdated_translation: true
 ---
 
 # Overmapping

@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-stub: true
+outdated_translation: true
 ---
 
 # Overmapping
