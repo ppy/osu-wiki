@@ -79,7 +79,7 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 
 ### Tournament rules
 
-1. The Touhou Project Mania Cup 3rd (THMC 4th) is a 2 versus 2 double-elimination team tournament, played on the osu!mania game mode (4K variant).
+1. The Touhou Project Mania Cup 4th (THMC 4th) is a 2 versus 2 double-elimination team tournament, played on the osu!mania game mode (4K variant).
 2. If no referee is available at match time, the match will be postponed to a later time.
 3. Failed players' scores will still count towards team scores.
 4. Use of visual settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
