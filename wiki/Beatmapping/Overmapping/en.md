@@ -12,4 +12,4 @@ This is mainly done by mapping to inaudible or non-existant sounds (e.g. adding 
 
 ![Example of overmapping by excessively high slider velocity](img/overmap-slider.gif "Example of overmapping by excessively high slider velocity")
 
-Please note that while overmapping is generally discouraged, this technique remains perfectly acceptable to use when applied under an appropriate context.
+While overmapping by itself is generally discouraged, there are contexts where the technique is acceptable such as when the added rhythm [creates an emphasis that benefits the map and the players alike](https://osu.ppy.sh/community/forums/posts/7791118).
