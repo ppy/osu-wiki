@@ -27,7 +27,7 @@ To mod a beatmap, start by downloading the most up-to-date version and opening i
 
 When you come across an issue, select any relevant hit objects, then use the copy shortcut (`Ctrl` + `C`) to copy their timestamp information as text. On the beatmap's discussion, paste (`Ctrl` + `V`) any applicable timestamps and your feedback. The `Timeline` tab is used for issues regarding specific parts of a beatmap, the `General (This difficulty)` tab is used for feedback on larger sections of a beatmap, and the `General (All difficulties)` tab is used for issues applicable to all difficulties of a beatmap.
 
-All mod posts should address what the issue is, why it is an issue, and how to fix it. See the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) for more details on how to format mod posts.
+All mod posts should address what the issue is, why it is an issue, and how to fix it. See the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) for more details on how to format mod posts.
 
 Beatmappers regularly provide [kudosu](/wiki/Modding/Kudosu) to mod posts that they consider helpful by clicking the *thumbs up* vote button. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 

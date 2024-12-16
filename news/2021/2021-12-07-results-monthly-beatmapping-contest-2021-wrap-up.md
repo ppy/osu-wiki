@@ -6,7 +6,7 @@ date: 2021-12-08 23:15:00 +0000
 
 At long last, winners from contests in **every game mode** have been crowned. See who sits on the throne in this Monthly Beatmapping Contest wrap-up!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 There's *a lot* to cover here. Let's jump right into it.
 
