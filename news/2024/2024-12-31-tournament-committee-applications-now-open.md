@@ -4,52 +4,71 @@ title: "Tournament Committee applications now open!"
 date: 2024-12-31 15:00:00 +0000
 ---
 
-If you want to help lift the tournament community to new heights, apply to join osu!'s Tournament Committee today!
+Do you want to help shape the future of the osu! tournament community? If so, then apply now to join the [Tournament Committee (TC)](/wiki/People/Tournament_Committee/en.md) during our first ever open application cycle!
 
-The [Tournament Committee (TC)](/wiki/People/Tournament_Committee/en.md) is seeking new members and invites anyone with longstanding tournament experience to apply in our first application cycle, including players!
+We are seeking passionate individuals with significant tournament experience—including players—to help support and improve the community.
 
-While you may read all of the team's details in the link above, the primary responsibilities of TC members are as follows:
+## What Does the Tournament Committee Do?
 
-* Engage in the tournament review process, including approving or denying badge support for tournaments and communicating any requested changes to organisers.
-* Evaluate tournament reports and process user inquiries.
-* Maintain the [official support](/wiki/Tournaments/Official_support/en.md) page.
-* Guide newer members of the tournament community towards making better decisions.
-* Function as a community leader of the tournament space.
+The TC plays a vital role in maintaining and supporting the growth of the tournament scene. As a member, your primary responsibilites will include:
 
-As a member of the Tournament Committee, you must meet these requirements:
+* **Tournament Reviews**: Approving or denying badge support for tournaments and communicating any necessary changes to organisers.
+* **Handling Reports and Inquiries**: Investigating tournament-related issues reported by the community, assessing the validity of claims, and providing timely and well-considered responses to users. 
+* **Maintaining the [Official tournament support](/wiki/Tournaments/Official_support/en.md) wiki**: Keeping official rules and documentation up to date.
+* **Mentoring the Community**: Guiding newer members of the tournament scene towards making better decisions.
+* **Community Leadership**: Acting as a representative and leader within the tournament space.
 
-* **You must be at least 18 years old.** This is not negotiable. The content which we review is occasionally graphic in nature.
-* **You must not have any recent account infringements.** Users who have faced disciplinary action within the last 12 months are not eligible to join the team.
-* **You must be fluent in English.** Nearly all of the content we review & communications we deliver are in English.
+## Requirements for joining
 
-Additionally, you are expected to have the following qualities:
+To join the TC, you must meet the following minimum criteria:
 
-* **Outstanding experience.** As a TC member, you are expected to have a breadth of experience participating in tournaments in a meaningful way. Community members will approach you with very complex issues and expect you to provide sound guidance. As such, it is expected that you have at least **2 years** of tournament-related involvement of any kind.
-* **Maturity and professionalism.** TC members must display a certain level of professionalism when interacting with other team members and the community at large while participating in official duties.
-* **Level-headedness and critical thinking.** The situations the team deals with are commonly multi-faceted and require thorough analysis. Jumping to conclusions is not something we want to see.
-* **Good behaviour.** Users joining the group are expected to have a history of good behaviour within the community and tournaments they are involved in.
+* **Age**: You must be at least 18 years of age.
+* **Account Standing**: All applicants will undergo a security check. Any notable disciplinary actions within the last 12 months will disqualify a candidate.
+* **Language Proficiency**: Fluency in English is mandatory, as most reviewed content and all communications are in English.
 
-Finally, here are some standout qualities we are looking for in candidates:
+## What We Look for in Candidates
 
-* Clear understanding of hosting process and badging criteria.
-* For staff members, having hosted multiple badged tournaments is a plus.
-* For staff members, having a history as a tournament player is a plus.
-* For players, having staffed multiple tournaments or having hosted one or more badged tournaments is a plus.
-* A clear desire to improve the tournament scene, demonstrated through consistent vocalisation and/or action.
+In addition to meeting the requirements, successful candidates typically demonstrate the following qualities:
 
-Individuals under consideration must undergo a single 20-minute interview with 2 random TC members before being considered for a final vote. This interview is functionally a conversation and opportunity for us to get to know you better, so don't be nervous! Anyone participating in an interview is invited to pick our brains so you can learn more about the team, workload, or anything else. Please note that this interview will be recorded and shared with the rest of the team.
+* **Extensive Tournament Experience**: Has **2 years** of recent, meaningful involvement in tournaments as a player, staff member, or organiser. Community members will approach you with complex issues and expect you to provide sound guidance.
+* **Maturity and Professionalism**: Communicates respectfully and handles responsibilities with professionalism.
+* **Composure and Critical Thinking**: Displays a level-headed approach to analyzing multi-faceted situations while providing reasonable insight.
+* **Good Behaviour**: Possesses a **well-established reputation** within the community and tournaments.
 
-So, what are you waiting for? **[Click here to apply!](https://www.google.com/)** After authentication, you will be able to fill a Google Form which collects some basic information before presenting scenario-based questions. Please set aside approximately 30 minutes to complete this application. The more thorough your answers, the more thoroughly we will consider your candidacy.
+## Standout Qualities (Bonus Points!)
 
-This application will remain open for !N! weeks, closing on !DATE!. It may take us quite a long time to process all of the applications, so please be patient. We hope to process all applications within 6 weeks after the closing date.
+We are particularly interested in candidates who:
 
----
+* Have a clear understanding of the tournament hosting process and badging criteria.
+* For staff members: Have hosted multiple badged tournaments or have experience as a tournament player.
+* For players: Have staffed multiple tournaments or hosted at least one badged tournament.
+* Consistently demonstrate a genuine desire to improve the tournament scene through their actions and advocacy.
+* Are fluent in languages other than English.
 
-If you have any questions about this process, please leave a comment on this news post, or do any of the following:
+# Decision Process
 
-* Contact any of the [Tournament Committee members](/wiki/People/Tournament_Committee/en.md#tournament-committee-members).
-* Join the [osu! Discord server](https://discord.gg/ppy) and visit `#tournaments` to chat with us.
+All individuals under consideration will first be brought to open discussion, followed by an anonymous voting period. Following this vote, we will notify each candidate of the decision via email.
 
-The team greatly appreciates anyone who takes the time to submit a detailed application. Best of luck!
+For those selected, we will invite you to an optional 20-minute call with two randomly assigned TC members. This call serves as an opportunity to ask any questions you may have about the team, workload, or anything else before deciding to accept this role. We want you to feel confident and fully informed before making your decision to join the team. 
 
--Stage
+*Please note that these calls are informal and focused on open conversation. There's no need to prepare, and we're happy to provide insights into our team and process.*
+
+## Application
+
+**[Click here to apply!](https://www.google.com/)** After authentication, you'll complete a Google Form that collects basic information and includes scenario-based questions. We recommend setting aside about 30 minutes to provide well-thought-out and detailed answers. To ensure a fair evaluation process, please respond as if we're unfamiliar with you or your previous work, even if you're well-known in the community. This approach helps us gain a clear and comprehensive understanding of your skills, perspective, and enthusiasm.
+
+## Timeline
+
+This application cycle will remain open for !N! weeks, closing on !DATE!. Please note that it may take up to six weeks after the closing date to process all applications, so we appreciate your patience.
+
+## Questions
+
+If you have any questions about the process, feel free to:
+
+* Leave a comment on this news post.
+* Contact us via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+* Join the [osu! Discord server](https://discord.gg/ppy) and visit the `#tournaments` channel to chat with us.
+
+Thank you for taking the time to apply and share your passion with us—your efforts make all the difference in shaping the future of our community!
+
+-ChillierPear & Stage
