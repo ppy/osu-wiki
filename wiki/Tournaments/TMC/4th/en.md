@@ -180,7 +180,7 @@ The weights for the Qualifiers are as follows:
 2. Each round will have its own mappool.
    - The Group Stage will last for 2 weeks and use the same mappools.
    - 2 rice maps, 1 LN map, and 1 of the HB maps in the group stage mappool will be made as `classic` picks, meaning they are reused from previous or other tournaments.
-   - 1 of the rice map, 1 of the LN map in the other bracket stage mappools will be `X` picks, meaning they are harder than other maps in the mappool.
+   - 1 rice map and 1 LN map in the other bracket stage mappools will be made as `X` picks, meaning they are more difficult than the other maps in the mappool.
 3. The split double elimination format will be used in the group stage, meaning the top seed (`#1 ~ #16`) and high seed (`#17 ~ #32`) will start in the upper bracket, and the mid seed (`#33 ~ #48`) and low seed (`#49 ~ #64`) will start in the lower bracket.
    - If fewer than 70 teams play the qualifier, the group stage will use the standard double elimination format, meaning all teams will start in the upper bracket.
 4. The top 2 teams will advance to a standard double elimination bracket stage, called `Playoffs`.
