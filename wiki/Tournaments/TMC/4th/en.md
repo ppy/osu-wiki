@@ -80,10 +80,10 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 
 ### Tournament rules
 
-1. The Touhou Project Mania Cup 4th (THMC 4th) is a 2 versus 2 double-elimination team tournament, played on the osu!mania game mode (4K variant).
+1. The Touhou Project Mania Cup 4th (THMC 4th) is a 2 versus 2 double-elimination team tournament played on the osu!mania game mode (4K variant).
 2. If no referee is available at match time, the match will be postponed to a later time.
-3. Failed players' scores will still count towards team scores.
-4. Use of visual settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+3. Players' scores will still count toward the team score, even if they fail.
+4. Use of visual settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics.
 5. If a game ends in a draw, it will be nullified and the beatmap replayed, called a *rematch*.
 6. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
@@ -97,11 +97,11 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
    - Screenshots from other players taken directly in-game that show the affected player's score.
      - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged, and it may be denied at the referee's discretion if the information provided is not sufficient to determine the player's score.
-     - All screenshots **MUST** be taken using the game itself, that is, they must be hosted on the `https://osu.ppy.sh/` domain (using `Shift` + `F12`). Any other form of screenshot will be denied.
+     - All screenshots **MUST** be taken using the game itself; that is, they must be hosted on the `https://osu.ppy.sh/` domain (using `Shift` + `F12`). Any other form of screenshot will be denied.
      - Player scores may be derived from the official stream as a last resort in cases where the match is streamed.
 9. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
    - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e., 2 participants must be present for the match to begin).
-   - In the off-chance that both teams have the same amount of players (i.e., each team with 1 player present) but not enough to start the match, the match may be rescheduled to a different time, otherwise a *win by default* will be declared to the team with the highest seed.
+   - In the off chance that both teams have the same amount of players (i.e., each team with 1 player present) but not enough to start the match, the match may be rescheduled to a different time; otherwise, a *win by default* will be declared to the team with the highest seed.
 10. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, or other deliberate inappropriate misbehavior are strictly prohibited and will be punished accordingly.
 11. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
@@ -197,27 +197,27 @@ The weights for the Qualifiers are as follows:
  ({Red Team}) VS ({Blue Team})`.
 2. If less than 2 players from a team are present at match time, the match can be postponed for up to **10 minutes**. If there are still less than 2 players from a team, a *win by default* will be declared for the side with the most members present.
    - If both teams don’t have enough players to present and still have available staff and are not influenced by other match processes, the match can be rescheduled.
-   - If a match cannot be rescheduled, the higher seeded team will *win by default*.
+   - If a match cannot be rescheduled, the higher-seeded team will *win by default*.
 3. Each captain must use `!roll` once in the match's chatroom.
    - The winner of the `!roll` team **picks** and **protects** first.
-   - The loser of the `!roll`  team **bans** first.
+   - The loser of the `!roll` team **bans** first.
 4. After the order is determined, the pick and ban phase will have the following steps:
-   1. `!roll` winner protect a beatmap, followed by another team. They may not protect the same beatmap. Protected beatmaps may not be banned.
+   1. `!roll` winner protects a beatmap, followed by another team. They may not protect the same beatmap. Protected beatmaps may not be banned.
    2. `!roll` loser bans a map, followed by another team.
-   3. (If it’s in group stage) `!roll` loser bans the second map, followed by another team.
-   4. `!roll` winner pick the 1st map, followed by alternate picks afterwards.
+   3. (If it’s in the group stage) `!roll` loser bans the second map, followed by another team.
+   4. `!roll` winner picks the 1st map, followed by alternate picks afterwards.
 5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
-     - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e, a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
+     - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e., a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
    - On subsequent occurrences:
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e., the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
      - Repeat offenders may receive further sanctions from the coordinator.
-6. Each team will receive only one timeout of 3 minutes, to be used as extra time to pick or ban a beatmap (tactical), or a technical issue occurs (technical). *The timeout is optional.*
+6. Each team will receive only one timeout of 3 minutes, to be used as extra time to pick or ban a beatmap (tactical) or if a technical issue occurs (technical). *The timeout is optional.*
    - This timeout is automatically consumed when regular picking time runs out.
    - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
-7. If players are unavailable when rematch (e.g. technical issue or unavoidable player absence), they influenced team could replace those players while keeping the remaining players same.
+7. If players are unavailable for a rematch (e.g., technical issue or unavoidable player absence), the influenced team could replace those players while keeping the remaining players the same.
 
 ### Scheduling instructions
 
