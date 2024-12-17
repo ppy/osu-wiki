@@ -144,17 +144,17 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 3. Each team must have 2 players participate in each map. They may be exchanged freely after a map has concluded.
 4. Teams can skip any map in the second playthrough. An optional 5-minute break will be offered between the first and second playthrough of the mappool.
 5. The following methods will be used in order for seeding, sorting through each ranking criteria in the case of equal rank:
-   - **Higher rank sum**: The following formula will be used for each map: `Map score = RANK(Team score) * Map weight`, where:
-     - `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
-     - `Map weight` is the weight for the current map, as defined by the table below. 
-     - `Team score` is the highest of the team total scores they get in all tries.
-   - Then the following formula will be used to calculate `Final score = SUM(Map score)`, where a lower `Final score` will have higher ranks.
-   - **Higher total score**: An exact formula will be used: `Total score = SUM(Team score)`, where:
-     - `Team score` is the highest team total scores gained in all tries.
-     - A higher `Total score` will have higher ranks.
-   - **Higher map score**: Higher team scores will receive higher ranks. Comparisons will be done from the last stage to the first stage in order until ties are broken.
-   - **Fewer total tries**: Teams that play fewer maps in the qualifier lobby will receive higher ranks.
-   - **Dice rolls**: If still tied, all tied team captains will gather in a multiplayer room, using `!roll`; higher results will get higher ranks. Roll again until breaking all ties.
+   1. **Lower weighted rank sum**: The following formula will be used for each map: `Map rank = RANK(Team score) * Map weight`, where:
+      - `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
+      - `Map weight` is the weight for the current map, as defined by the table below. 
+      - `Team score` is the highest of the team total scores they get in all tries.
+      - Then the following formula will be used to calculate `Final rank = SUM(Map rank)`, where a lower `Final rank` will have higher ranks.
+   2. **Higher total score**: An exact formula will be used: `Total score = SUM(Team score)`, where:
+      - `Team score` is the highest team total scores gained in all tries.
+      - A higher `Total score` will have higher ranks.
+   3. **Higher map score**: Higher team scores will receive higher ranks. Comparisons will be done from the last stage to the first stage in order until ties are broken.
+   4. **Fewer total tries**: Teams that play fewer maps in the qualifier lobby will receive higher ranks.
+   5. **Dice rolls**: If still tied, all tied team captains will gather in a multiplayer room, using `!roll`; higher results will get higher ranks. Roll again until breaking all ties.
 6. The top 64 seeded teams will advance to the Group Stage.
 
 The weights for the Qualifiers are as follows:
