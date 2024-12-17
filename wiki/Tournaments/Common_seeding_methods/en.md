@@ -7,19 +7,38 @@ tags:
 
 # Common seeding methods & formulas in tournaments
 
-## Disclaimer for Official Support
+[Seeding](https://en.wikipedia.org/wiki/Seed_(sports)) is a crucial part of tournaments. It’s most notably used to ensure that strong participants only get to face each other towards the end of a tournament. Thus, securing a higher seed will allow a player/team to avoid facing stronger opponents in the early stages.
 
-If the formulas or methods as described on this page are used exactly as described, they may be referred to as such without requiring the specific formula to be mentioned. Any discrepancies require the full formula to be documented instead.
+Commonly, a tournament will make use of Qualifiers to determine seedings. During this stage, all players/teams set scores on a fixed set of maps. The resulting scores are then used in combination with formulas to determine the specific seeds. This page details some commonly used [seeding methods](#seeding-methods) found in osu! Tournaments.
+
+If you believe a commonly used seeding method is missing from this page, please contact a member of the [Tournament Committee](/wiki/People/Tournament_Committee).
+
+## Official Support
+
+If you’re seeking [Official support](/wiki/Tournaments/Official_support) for your tournament and you are using the formulas or methods as described on this page exactly as they are written, you may use their plain name without the need to specify the exact formula. However, should there be any difference or change from the methods described here, you will be required to provide the full formula in your tournament’s ruleset. If you are using a different seeding method not found on this page, make sure to specify the exact formulas and/or method used.
+
+As always, a third party should be able to get the same results without needing additional information.
 
 ## Mini-glossary
 
 In the explanations below, we use the following terms:
 
-- A **team** is a single entity being ranked in the tournament. For example, the 6-8 players from each country in OWC are considered one team, while each player in the Lazer Grand Arena is considered their own team.
-- A **score** is a numerical value used for determining a team’s performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members’ scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a qualifier mappool; in those cases, the team’s score is often the highest or the average of those runs.
+
+- A **team** is a single entity being ranked in the tournament. For example, the 6-8 players from each country in [OWC](/wiki/Tournaments/OWC) are considered one team, while each player in the [Lazer Grand Arena](/wiki/Tournaments/LGA/2024) is considered their own team.
+- A **score** is a numerical value used for determining a team’s performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members’ scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a qualifier mappool; in those cases, the team’s score is often either the highest or the average of those runs.
 - A team’s **seed** is a number indicating their overall ranking among all teams. Typically, after one of the seeding methods below is used, the top N teams (that is, the teams seeded 1, 2, …, N) are placed into an elimination bracket or other competition format, with their placements being determined by their seeds.
 
 ## Seeding methods
+
+<!-- NOTE FOR WIKI EDITORS: Please do not add or remove seeding methods without prior approval of the Tournament Committee -->
+
+### Average (Normalised) Score
+
+This seeding method averages each team’s scores on all maps. Typically, scores are first normalised, meaning that they are divided by the [mod multipliers](/wiki/Gameplay/Game_modifier/Mod_multiplier) specified on the map, before averaging. (For example, scores on an osu! map played with Hard Rock in ScoreV2 would be divided by 1.1.) Teams are then seeded in order of this average, with the highest average receiving seed 1.
+
+#### Technical
+
+The normalised score on a map is given by `Normalised score = Score / PRODUCT(Mod multipliers)`. If any of the maps are played with Free Mod, it must be explicitly specified whether each individual player’s score is being normalised by the mods they used before summing, or if there is an overall normalisation. Seeding is then determined by `Total score = AVERAGE(Normalised score)`.
 
 ### Sum of Placements / Average Placement
 
@@ -28,24 +47,6 @@ This seeding method ranks all scores on each map played from highest to lowest, 
 #### Technical
 
 The placement that a team receives on a map is `Map placement = 1 + Number of higher scores on the map from other teams`, and the total sum of placements is `SUM(Map placement)`. (The average placement would instead be `AVERAGE(Map placement)`, but this yields the same overall seeding.) Note that if two teams both receive the highest score on a map, their map placements are both 1 (rather than both being 2).
-
-### Zipf’s Law
-
-This seeding method again ranks all scores on each map played, but it then gives the team points according to a version of the [Zipf–Mandelbrot law](https://en.wikipedia.org/wiki/Zipf%E2%80%93Mandelbrot_law). This yields a particularly high number of points for the top scorers on each map (largest gap between the first and second highest score), and seeding is then determined by the sum of all points received (with the highest sum receiving seed 1).
-
-#### Technical
-
-The usual formula used for assigning points is `Map points = 100 / (Map placement + 1.4 * Mappool size)`, where `Map placement` is as above and `Mappool size` is the number of maps in the qualifiers pool. Seeding is then determined by `Total points = SUM(Map points)`.
-
-Note that this seeding method may still make sense if `1.4 * Mappool size` is replaced by some other nonnegative real number, or if the numerator is replaced by another positive real number, or if the denominator is raised to some positive real number. But these changes must be specified explicitly if used.
-
-### Average (Normalised) Score
-
-This seeding method averages each team’s scores on all maps. Typically, scores are first normalised, meaning that they are divided by the mod multipliers specified on the map, before averaging. (For example, scores on an osu! map played with Hard Rock in ScoreV2 would be divided by 1.1.) Teams are then seeded in order of this average, with the highest average receiving seed 1.
-
-#### Technical
-
-The normalised score on a map is given by `Normalised score = Score / PRODUCT(Mod multipliers)`. If any of the maps are played with Free Mod, it must be explicitly specified whether each individual player’s score is being normalised by the mods they used before summing, or if there is an overall normalization. Seeding is then determined by `Total score = AVERAGE(Normalised score)`.
 
 ### Percent Maximum
 
@@ -71,7 +72,7 @@ Note that tournaments in the past have often used the term “Z-Sum” for what 
 
 #### Technical
 
-A team’s z-score is given by `Map z-score = (Score - AVERAGE(Scores on map)) / (STDEV(Scores on map))`, where STDEV is the sample standard deviation. (This means the sum of squared deviations is divided by `N-1` instead of `N` if there are `N` total scores on the map.) The total score is then `Total score = SUM(Map z-score)`.
+A team’s z-score is given by `Map z-score = (Score - AVERAGE(Scores on map)) / (STDEV(Scores on map))`, where `STDEV` is the sample standard deviation. (This means the sum of squared deviations is divided by `N-1` instead of `N` if there are `N` total scores on the map.) The total score is then `Total score = SUM(Map z-score)`.
 
 ### Z-Percentile
 
@@ -79,16 +80,28 @@ This seeding method is almost identical to Z-Sum, except that instead of assigni
 
 #### Technical
 
-A team’s z-percentile is given by `Map z-percentile = NORMCDF(Map z-score)`, where Map z-score is as above and NORMCDF is the cumulative distribution function for the standard normal distribution (also sometimes called NORMSDIST). The total score is then `Total score = SUM(Map z-percentile)`.
+A team’s z-percentile is given by `Map z-percentile = NORMCDF(Map z-score)`, where Map z-score is as above and `NORMCDF` is the cumulative distribution function for the standard normal distribution (also sometimes called `NORMSDIST` in software). The total score is then `Total score = SUM(Map z-percentile)`.
+
+### Zipf’s Law
+
+Much like Sum of Placements, this seeding method ranks all scores on each map played, but it then gives the team points according to a version of the [Zipf–Mandelbrot law](https://en.wikipedia.org/wiki/Zipf%E2%80%93Mandelbrot_law). This yields a particularly high number of points for the top scorers on each map (largest gap between the first and second highest score), and seeding is then determined by the sum of all points received (with the highest sum receiving seed 1).
+
+#### Technical
+
+The usual formula used for assigning points is `Map points = 100 / (Map placement + 1.4 * Mappool size)`, where `Map placement` is as above and `Mappool size` is the number of maps in the qualifiers pool. Seeding is then determined by `Total points = SUM(Map points)`.
+
+Note that this seeding method may still make sense if `1.4 * Mappool size` is replaced by some other nonnegative real number, or if the numerator is replaced by another positive real number, or if the denominator is raised to some positive real number. But these changes must be specified explicitly if used.
 
 ## Additional considerations
 
 ### Breaking ties
+
 All of the methods above may result in ties between teams. By default, these ties are usually broken by average normalised score (so if multiple teams would otherwise receive the same seeding rank, the team with the highest average normalised score would be seeded above the others). It is extremely rare to also have a tie after this point, but one option would be to assign the higher seeding to the higher ranked player (or in the case of teams, the highest ranked player per team) at the time when registrations close.
 
 Other options for breaking ties may also be sensible (such as the number of top-N placements on maps), but they should be specified in documentation if used.
 
 ### Rounding
+
 Unless otherwise specified, it is important to **avoid intermediate rounding** (unless for display purposes only). For example, if the Percent Maximum seeding method is being used, `Map points` should not be rounded to the nearest hundredth before being added together, since this may alter the ranking of teams. In seeding methods like Z-Sum or Z-Percentile, it is common for different teams’ total scores to look the same when rounded but actually be slightly different; in these cases, the true numbers (rather than the rounded ones) should be used.
 
 ### Weighting maps
@@ -101,22 +114,37 @@ More precisely, a positive number for each map (called the map weight) should be
 
 There are many factors that go into choosing a seeding method for a tournament. First of all, the following concepts are important to keep in mind:
 
-- **Lack of qualifiers**: All of the seeding methods above assume that teams all play through the same qualifiers pool. If qualifiers are not played, then it may make sense instead to seed by rank or BWS. 
+- **Lack of qualifiers**: All of the seeding methods above assume that teams all play through the same qualifiers pool. If qualifiers are not played, then it may make sense instead to seed by rank or [BWS](/wiki/Tournaments/Badge-weighted_seeding). (For example, a 2v2 tournament with team size 4 may seed teams by the sum of their two best BWS ranks, with the smallest sum being seeded 1st.)
+
+Note that some tournaments may begin head-to-head competition by placing teams into a group stage or Swiss-system tournament instead of a standard elimination bracket. However, these other systems still require specification on how the teams are placed into matchups, so often some method of seeding is still required (either one of the ones mentioned in this page, or random drawings).
 - **Scoring system**: Most of the seeding methods above are typically used when tournaments are played with the ScoreV2 scoring system. Thus, extra care should be taken when seeding tournaments that use ScoreV1, accuracy, or other methods of scoring. 
 - **Transparency and familiarity**: More complicated seeding methods, or new formulas that are not widely used in tournaments, may be more difficult for players and staff to understand or double-check. It may be advantageous to choose a seeding method that can be quickly sanity checked without needing heavy calculation.
 
-Next, here are some details that distinguish different seeding methods (and explain when some of them might be particularly useful). For context, the 2023 osu! world cups used the following seeding methods: **Percent Maximum** (osu!), **Sum of Placements** (osu!taiko), **Percent Maximum** (osu!catch), **Average Placement** (osu!mania 7K), and **Weighted Average Placement** with weights ranging from 0.100 to 0.145 (osu!mania 4K).
+Next, here are some details that distinguish different seeding methods (and explain when some of them might be particularly useful). 
+
+[The following might be moved to another article, as discussed in the thread.]
+First, here is a list of qualifier seeding methods used in the official osu! World Cups (which are team tournaments). Note that older tournaments often instead directly began with a Group Stage, choosing the qualifying teams by the osu! website’s country rank.
+
+|  | osu! | osu!taiko | osu!catch | osu!mania 4K | osu!mania 7K |
+| --: | :-: | :-: | :-: | :-: | :-: |
+| **2019** | Average Placement |  |  |  |  |
+| **2020** | Average Placement |  |  |  |  |
+| **2021** | Percent Maximum |  |  | Weighted Average Placement (0.1 - 0.1625) |  |
+| **2022** | Percent Maximum | Sum of Placements | Percent Maximum | Weighted Average Placement (0.1 - 0.15) | Weighted Average Placement (0.1 - 0.1675) |
+| **2023** | Percent Maximum | Sum of Placements | Percent Maximum | Weighted Average Placement (0.1 - 0.145) | Average Placement |
+| **2024** | Percent Maximum | Sum of Placements | Percent Maximum | Weighted Average Placement (0.1 - 0.145) | Sum of Placements |
 
 It is particularly common for tournaments to seed by **Sum of Placements, Percent Maximum, or Z-Percentile** when assessing overall consistent performance, or to use **Zipf’s Law** when promoting specialists (such as in some 1v1 tournaments). Below is a table showing some sample scores that 10 teams could receive on a map, along with the points that they would be assigned for the map under three common methods (rounded to the nearest hundredth):
 
-| | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 | Team 7 | Team 8 | Team 9 | Team 10 | 
+|  | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 | Team 7 | Team 8 | Team 9 | Team 10 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| **Scores** | 950000 | 800000 | 750000 | 750000 | 700000 | 600000 | 500000 | 450000 | 300000 | 100000 |
+| **Score** | 950000 | 800000 | 750000 | 750000 | 700000 | 600000 | 500000 | 450000 | 300000 | 100000 |
 | **Placement** | 1 | 2 | 3 | 3 | 5 | 6 | 7 | 8 | 9 | 10 |
 | **Percent Maximum** | 1.00 | 0.84 | 0.79 | 0.79 | 0.74 | 0.63 | 0.53 | 0.47 | 0.32 | 0.11 |
 | **Z-Percentile** | 0.92 | 0.79 | 0.73 | 0.73 | 0.67 | 0.52 | 0.36 | 0.29 | 0.13 | 0.03 |
 
 To contrast these methods, notice the following:
+
 
 - Score differences do not directly factor into Placement unless there is an exact tie, but they do significantly impact points under Percent Maximum and Z-Percentile.
 - The same score difference of 150000 between Teams 1 and 2 and between Teams 6 and 8 counts equally in Percent Maximum but matters much more in Z-Percentile in the latter case (where the scores are close to the mean). 
@@ -126,12 +154,13 @@ To contrast these methods, notice the following:
 Next, here are some more general points of comparison and features of seeding methods in general:
 
 - As in the example, some seeding methods are not very sensitive overall to individual teams’ scores, while others may be changed more dramatically. 
-  - For example, Sum of Placements yields the same placements no matter how large the differences between team scores are, but a particularly high or low score in Percent Difference may cause all other `Map points` to be unusually close together. This is particularly important for modes like osu!taiko or osu!mania where scores are typically very close to the maximum possible; historically, some tournaments such as SOFT have used a “piecewise-linear” Percent Difference method by grouping scores by quartile.
+  - For example, Sum of Placements yields the same placements no matter how large the differences between team scores are, but a particularly high or low score in Percent Difference may cause all other `Map points` to be unusually close together. This is particularly important for modes like osu!taiko or osu!mania where scores are typically very close to the maximum possible; historically, some tournaments such as [SOFT](/wiki/Tournaments/SOFT) have instead used a “piecewise-linear” Percent Difference method by grouping scores by quartile.
   - For another kind of example, the Z-Sum and Z-Percentile seeding methods have the feature that very close scores will receive very close point values for seeding (so if there is a cluster of many nearby scores, the highest and lowest scores of those clusters will be considered similarly in seeding), which is behaviour that does not occur for Sum of Placements. 
 - Some seeding methods benefit specialists, while others benefit consistent performances. For example, Zipf’s Law will give a large boost in seeding to teams with the highest or near-highest rank on a map compared to Sum of Placements. And because of the shape of the normal distribution, Z-Sum will give a large boost for extremely high scores (and a large reduction for extremely low scores) compared to Z-Percentile; thus, Z-Percentile tends to favour all-rounders over specialists compared to Z-Sum.
 - Some seeding methods may cause certain maps to contribute more to seeding differences than others. 
   - In particular, weighted seeding methods are designed to allow some maps to factor more into overall seeding than others – this allows for balancing of importance across different skill sets without needing to include extra maps of the same type in a pool. 
-  - For a less direct example, Average Score and Percent Maximum may cause relative performance on easier maps to affect seeding more than performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). 
+  - For a less direct example, seeding by Average Score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by Percent Maximum or Percent Difference will give that one team a large boost while less distinguishing the other teams on the map. 
+
 
 ## Sample data from osu! World Cup 2024
 
