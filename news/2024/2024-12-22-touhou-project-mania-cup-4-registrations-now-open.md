@@ -8,7 +8,7 @@ date: 2024-12-22 12:00:00 +0000
 
 With the celebration of the Touhou Project's 30th birthday, the Touhou Project Mania Cup is returning with its 4th iteration, bringing tons of improvement in competitiveness and player enjoyment!
 
-The [Touhou Project Mania Cup 4th](/community/forums/topics/2015815), or THMC 4 for short, is a team-based osu!mania 4k tournament. The tournament features 100% Touhou-related music and aims to bring top-tier competition to the tournament scene.
+The [Touhou Project Mania Cup 4th](https://osu.ppy.sh/community/forums/topics/2015815), or THMC 4 for short, is a team-based osu!mania 4k tournament. The tournament features 100% Touhou-related music and aims to bring top-tier competition to the tournament scene.
 
 We’ve had 80 teams [last year](/wiki/en/Tournaments/TMC/3rd), with **Bloxy cola** reaching the top with an undefeated performance. [This year](/wiki/en/Tournaments/TMC/4th), with more teams joining the competition, which team will rise to the challenge and become the best? 
 
@@ -28,7 +28,7 @@ We’ve had 80 teams [last year](/wiki/en/Tournaments/TMC/3rd), with **Bloxy col
 
 With almost **50 custom mappers** featured, this year we are bringing you a **nearly full custom** mappool from beginner to high-end. We hope this will not only enhance our Touhou journey but also contribute to the osu! community by adding more Touhou maps!
 
-You can check out [Supa7onyz](/beatmaps/artists/435)'s brilliant Grand Finals custom tiebreaker songs from last year as an example!
+You can check out [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435)'s brilliant Grand Finals custom tiebreaker songs from last year as an example!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="//player.bilibili.com/player.html?isOutside=true&aid=487714748&bvid=BV1sN411D7RV&cid=1176362169&p=1" frameborder="0" allowfullscreen></iframe>
@@ -60,6 +60,6 @@ To participate in this tournament, you may need to ensure that...
 
 If you haven't found enough players yet, feel free to use the `#looking-for-team` channel to find a new member and begin your Touhou adventure!
 
-Also join our [Discord Channel](https://discord.gg/cAr5VHG7WX) and follow our [Liquipedia page](https://liquipedia.net/osu/Touhou_Project_Mania_Cup/4) to track the latest info. Hope to see you joining us, whether you're a player or spectator!
+Also join our [Discord server](https://discord.gg/cAr5VHG7WX) and follow our [Liquipedia page](https://liquipedia.net/osu/Touhou_Project_Mania_Cup/4) to track the latest info. Hope to see you joining us, whether you're a player or spectator!
 
 —Rush_FTK, EpsilonMaiagare, YuEast 2018, Akace100, ERA trooperr
