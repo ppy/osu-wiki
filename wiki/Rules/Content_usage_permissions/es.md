@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5de39c08cf37e2889ecbc77213994fb7137417e2
+---
+
 # Permisos de uso de contenido
 
 osu! gira en torno a la posibilidad de crear y compartir creaciones libremente entre todos. Es importante asegurarse de adquirir los permisos adecuados para usar cualquier trabajo de otro creador en nuevas creaciones y que todo ese trabajo esté debidamente atribuido.
