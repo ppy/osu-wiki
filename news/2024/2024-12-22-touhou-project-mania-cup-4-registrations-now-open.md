@@ -6,7 +6,7 @@ date: 2024-12-22 12:00:00 +0000
 
 ![](/wiki/Tournaments/TMC/4th/image/banner@2x.png)
 
-With the celebration of the Touhou Project's 30th birthday, the Touhou Project Mania Cup is returning with its 4th iteration, bringing tons of improvement in competitiveness and player enjoyment!
+With the celebration of the Touhou Project's 30th birthday, the Touhou Project Mania Cup is returning for its 4th iteration, bringing tons of improvement in competitiveness and player enjoyment!
 
 The [Touhou Project Mania Cup 4th](https://osu.ppy.sh/community/forums/topics/2015815), or THMC 4 for short, is a team-based osu!mania 4k tournament. The tournament features 100% Touhou-related music and aims to bring top-tier competition to the tournament scene.
 
@@ -14,9 +14,9 @@ We’ve had 80 teams [last year](/wiki/en/Tournaments/TMC/3rd), with **Bloxy col
 
 ## What's new
 
-- **A Group Stage will debut this year** featuring a 16-group format. This means that we will have **64 teams** in the main event.
-  - If more than 70 teams play the qualifier, the group stage will use the split double elimination format.
-  - If fewer than 70 teams play the qualifier, the group stage will use the standard double elimination format.
+- **A Group Stage will be introduced in this year**, featuring 16 groups of 4 teams each. This means that we will have **64 teams** in the main event.
+  - If there are more than 70 teams participating in the Qualifier, the Group Stage will use the split double elimination format.
+  - If there are fewer than 70 teams participating in the Qualifier, the Group Stage will use the standard double elimination format.
 
 ![Groups format](/wiki/Tournaments/TMC/4th/image/group-stage-bracket.png)
 
@@ -24,9 +24,9 @@ We’ve had 80 teams [last year](/wiki/en/Tournaments/TMC/3rd), with **Bloxy col
 - **The "X" Picks will apply for RC and LN slots**, giving players more options to pick harder charts.
 - Two teams from each group will advance, with a total of 32 teams competing in a standard double-elimination bracket for the championship.
 
-## Custom charts 
+## Custom maps
 
-With almost **50 custom mappers** featured, this year we are bringing you a **nearly full custom** mappool from beginner to high-end. We hope this will not only enhance our Touhou journey but also contribute to the osu! community by adding more Touhou maps!
+With nearly **50 custom mappers** contributing, this year we are bringing you mappools that are **almost entirely custom-made** with maps ranging from the lower end of the difficulty spectrum to the very top. We hope this will not only enhance our Touhou journey, but also contribute to the osu! community by adding more Touhou maps!
 
 You can check out [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435)'s brilliant Grand Finals custom tiebreaker songs from last year as an example!
 
@@ -52,11 +52,11 @@ You can check out [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435)'s brillia
 
 ## How do I register?
 
-Click [here](https://docs.google.com/forms/d/1tl-4NeWZIDI10-1Mkja8lT3DHEpIUB_PK2uqAHptVj8/) and fill in the team registration form!
-To participate in this tournament, you may need to ensure that...
+Simply click [here](https://docs.google.com/forms/d/1tl-4NeWZIDI10-1Mkja8lT3DHEpIUB_PK2uqAHptVj8/) and fill in the team registration form!
+In order to participate in this tournament, you will need to ensure that...
 
-- Your team must consist of 2 to 4 players.
-- All team members must not have violated the [osu! community rules](/wiki/en/Rules) in the past 12 months.
+- Your team consists of 2-4 players.
+- All team members have not been violating the [osu! community rules](/wiki/en/Rules) in the past 12 months.
 
 If you haven't found enough players yet, feel free to use the `#looking-for-team` channel to find a new member and begin your Touhou adventure!
 
