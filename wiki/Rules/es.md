@@ -51,14 +51,14 @@ Si te encuentras en el lado equivocado de las reglas de nuestra comunidad, pasar
 
 Estas cosas malas pueden incluir (*pero no están limitadas a*):
 
-- La eliminación de tu capacidad para chatear en el juego durante un periodo de tiempo (conocido como [silencio](/wiki/Silence)).
+- La eliminación de tu capacidad para chatear en el juego durante un periodo de tiempo (conocido como [silencio](/wiki/Help_centre/Silences)).
 - La eliminación de cualquier contenido infractor de tu página de usuario, perfil o beatmaps subidos.
 - La pérdida del privilegio de editar o modificar tu página de usuario o los detalles de tu perfil.
 - La pérdida del privilegio de jugar o clasificarte en torneos organizados oficialmente.
 
-Los [silencios](/wiki/Silence) y otras infracciones **aumentan automáticamente** su duración de forma casi exponencial con cada infracción. Los moderadores no controlan la duración del silencio por una infracción, los infractores reincidentes se encontrarán bloqueados del juego durante periodos de tiempo cada vez más largos.
+Los [silencios](/wiki/Help_centre/Silences) y otras infracciones **aumentan automáticamente** su duración de forma casi exponencial con cada infracción. Los moderadores no controlan la duración del silencio por una infracción, los infractores reincidentes se encontrarán bloqueados del juego durante periodos de tiempo cada vez más largos.
 
-Ciertas infracciones conllevan una duración mínima (normalmente 42 horas o más) si son especialmente graves, aunque se reservan casi exclusivamente para infracciones graves, como compartir contenido gráfico o acosar sin remordimientos a otros usuarios.
+Ciertas infracciones conllevan una duración mínima (normalmente 43 horas o más) si son especialmente graves, aunque se reservan casi exclusivamente para infracciones graves, como compartir contenido gráfico o acosar sin remordimientos a otros usuarios.
 
 Si tras varias infracciones sigues incumpliendo las reglas, tu cuenta puede ser [restringida de forma permanente e irrevocable](/wiki/Help_centre/Account_restrictions).
 
