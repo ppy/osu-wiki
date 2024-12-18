@@ -16,7 +16,7 @@ See what you've been missing out on:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/453/release_showcase.mp4?1" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/uynet_release_showcase_2.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
