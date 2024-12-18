@@ -8,7 +8,7 @@ Recruiting helpers for the 2025 osu!mania 4K World Cup!
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
-The osu!mania 4K World Cup mappooling team is once again looking for mappers and playtesters. Think you got what it takes to help? Sign up [here](https://apps.leoflt.com/forms/form/mwc4k2025-recruitment)! If you're considering applying but do not feel like you have the experience, we urge you to still apply, as the earlier you do, the more time you will have to get accostumed to our workflows (if accepted).
+The osu!mania 4K World Cup mappooling team is once again looking for mappers and playtesters. Think you got what it takes to help? Sign up [here](https://apps.leoflt.com/forms/form/mwc4k2025-recruitment)! If you're considering applying but do not feel like you have the experience, we urge you to still apply, as the earlier you do, the more time you will have to get accustumed to our workflows (if accepted).
 
 Please note that we will not have any SV present in the pools next year, so we ask that you do not include SV-related material in your application.
 
@@ -16,7 +16,7 @@ Please note that we will not have any SV present in the pools next year, so we a
 
 Mappers will be tasked with creating beatmaps based on a specification given by each mode's mappooling team. Mappers will be expected to incorporate feedback from the mappoolers and/or playtesters in an iterative process to refine the map until it is in a shippable state.
 
-Playtesters will be responsible for playing and giving feedback for a plethora of beatmaps (as requested by the mappooling team) to gauge aspects such as difficulty, suitability for a certain slot, and/or skill representativity among others (specific workflows vary for each team). Playtesters are generally expected to have considerable skill on their respective game mode.
+Playtesters will be responsible for playing and giving feedback for a plethora of beatmaps (as requested by the mappooling team) to gauge aspects such as difficulty, suitability for a certain slot, and/or skill representation among others (specific workflows vary for each team). Playtesters are generally expected to have considerable skill on their respective game mode.
 
 Please note that if you are accepted into either team, you will not be eligible to participate as a player in the tournament.
 
