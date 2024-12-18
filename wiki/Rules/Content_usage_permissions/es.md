@@ -32,7 +32,7 @@ Mientras que la música suele estar sujeta a derechos de autor, los efectos de s
 
 Esta sección detalla qué artistas están dispuestos a permitir el uso de sus trabajos de audio en osu!, y bajo qué condiciones (cuando sea apropiado).
 
-Todas las pistas que aparecen en cualquier [lista de los artistas destacados ](https://osu.ppy.sh/beatmaps/artists) están licenciadas y aprobadas para su uso en la creación de beatmaps osu!, independientemente de cualquier tipo de desaprobación general en estas listas. Las pistas de un artista destacado que no aparezcan en su listado *no* están licenciadas y pueden ser necesarios permisos adicionales para usarlas.
+Todas las pistas que aparecen en cualquier [lista de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) están licenciadas y aprobadas para su uso en la creación de beatmaps de osu!, independientemente de cualquier tipo de desaprobación general en estas listas. Las pistas de un artista destacado que no aparezcan en su listado *no* están licenciadas y pueden ser necesarios permisos adicionales para usarlas.
 
 #### Artistas permitidos
 
