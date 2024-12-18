@@ -1,3 +1,8 @@
+---
+outdated_since: 17a70f697c1315b87938b74b3cf43b9649a5a8fb
+outdated_translation: true
+---
+
 # 作曲 (Compose)
 
 ::: Infobox
