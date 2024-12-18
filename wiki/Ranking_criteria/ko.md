@@ -80,7 +80,7 @@ outdated_translation: true
 
 ## 비트맵
 
-*참고: 이 파트에서 [osu!mania](/wiki/Game_mode/osu!mania)의 [각 키 모드](osu!mania#common-term)와 [플레이 스타일](osu!mania#common-terms)는 모두 별개의 게임 모드로 간주됩니다.*
+*참고: 이 파트에서 [osu!mania](/wiki/Game_mode/osu!mania)의 [각 키 모드](osu!mania#common-term)와 [플레이 스타일](osu!mania#common-terms)은 모두 별개의 게임 모드로 간주됩니다.*
 
 ### 규칙
 
