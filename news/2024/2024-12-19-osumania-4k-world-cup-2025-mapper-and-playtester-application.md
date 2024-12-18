@@ -8,7 +8,7 @@ Recruiting helpers for the 2025 osu!mania 4K World Cup!
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
-The osu!mania 4K World Cup mappooling team is once again looking for mappers and playtesters. Think you got what it takes to help? Sign up [here](https://apps.leoflt.com/forms/form/mwc4k2025-recruitment)! If you're considering applying but do not feel like you have the experience, we urge you to still apply, as the earlier you do, the more you'll have to get accostumed to our workflows (if accepted).
+The osu!mania 4K World Cup mappooling team is once again looking for mappers and playtesters. Think you got what it takes to help? Sign up [here](https://apps.leoflt.com/forms/form/mwc4k2025-recruitment)! If you're considering applying but do not feel like you have the experience, we urge you to still apply, as the earlier you do, the more time you will have to get accostumed to our workflows (if accepted).
 
 Please note that we will not be running an SV bracket for 2025, so we ask that you do not include SV-related material in your application.
 
