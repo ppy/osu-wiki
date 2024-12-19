@@ -8,7 +8,7 @@ date: 2024-12-22 12:00:00 +0000
 
 With the celebration of the Touhou Project's 30th birthday, the Touhou Project Mania Cup is returning for its 4th iteration, bringing tons of improvement in competitiveness and player enjoyment!
 
-The [Touhou Project Mania Cup 4th](https://osu.ppy.sh/community/forums/topics/2015815), or THMC 4 for short, is a team-based osu!mania 4k tournament. The tournament features 100% Touhou-related music and aims to bring top-tier competition to the tournament scene.
+The [Touhou Project Mania Cup 4th](https://osu.ppy.sh/community/forums/topics/2015815), or THMC 4 for short, is a team-based osu!mania 4K tournament exclusively featuring Touhou-related songs. This tournament aims to provide top-tier competition to the tournament scene.
 
 We’ve had 80 teams [last year](/wiki/Tournaments/TMC/3rd), with **Bloxy cola** reaching the top with an undefeated performance. [This year](/wiki/Tournaments/TMC/4th), with more teams joining the competition, which team will rise to the challenge and become the best? 
 
