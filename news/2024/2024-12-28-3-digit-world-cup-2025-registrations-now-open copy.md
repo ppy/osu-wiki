@@ -12,7 +12,7 @@ The **3 Digit World Cup** (*pending forum url*), or 3WC for short, has been a ma
 
 Despite the 3 digit range (#100–999) being very restrictive, it's the perfect stage to watch players who might sometimes get overshadowed by the hypercarries of their country in the osu! World Cup, or smaller teams benefitting from the reduced team size. The combination of matches being 3-on-3, a maximum of 6 players per team, and pool difficulty right behind the apex of tournament play always generates a very competitive tournament, and while waiting for the 2025 iteration to start, you can revisit all previous matches starting from 2021 on our [YouTube channel](https://www.youtube.com/@3wc_osu).
 
-[Last year](https://osu.ppy.sh/community/forums/topics/1862046?n=1) 30 countries competed for the top spot, with reigning champions South Korea taking down the United States in a close 7-5 grand final for their third title and the first ever consecutive win.
+[Last year](https://osu.ppy.sh/community/forums/topics/1862046?n=1) 30 countries competed for the top spot, with reigning champions South Korea taking down the United States in a close [7-5 grand final](https://osu.ppy.sh/community/matches/113012834) for their third title and the first ever consecutive win.
 
 [*quick 2024 recap here?*]
 
