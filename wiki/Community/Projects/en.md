@@ -17,6 +17,8 @@ outdated: true
   - [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
 - [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342) — The osu! localisation project, localise your language into osu!.
 - [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144) — A release of the initial game client.
+- osu! news scheduler — osu! feed news posts approximate schedule calendar.
+  - [Website](https://osunews.untone.uk/)
 - [osu!api](https://osu.ppy.sh/community/forums/topics/141240) — Public API for accessing osu! related data.
   - [GitHub](https://github.com/ppy/osu-api)
 - osu!framework — A game framework written with osu! in mind.
