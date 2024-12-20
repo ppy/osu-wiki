@@ -461,7 +461,7 @@ Seeding results are calculated by taking the Z-Sums of the teams and placing tho
 
 1. All matches will be played with ScoreV2 in Head-to-head mode.
 2. 32 teams will qualify for the bracket stage, chosen through Qualifiers Stage.
-3. All maps will be played with NoFail enabled, in addition to the appropriate mods.
+3. All maps will be played with No Fail enabled, in addition to the appropriate mods.
 
 ### Registration
 
