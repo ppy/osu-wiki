@@ -43,9 +43,9 @@ tags:
 | :-- | :-- |
 | Host | ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512) |
 | Lead GFX | ::{ flag=ID }:: [Len_licht](https://twitter.com/Len_licht) |
-| Team Serenity | ::{ flag=GB }:: [Ethereal_Winter](https://osu.ppy.sh/users/9780417), ::{ flag=ID }:: [ Len_licht](https://twitter.com/Len_licht), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601), ::{ flag=HU }:: [Yumeyo](https://twitter.com/Yumeyo_art) |
+| Team Serenity | ::{ flag=GB }:: [Ethereal_Winter](https://osu.ppy.sh/users/9780417), ::{ flag=ID }:: [Len_licht](https://twitter.com/Len_licht), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601), ::{ flag=HU }:: [Yumeyo](https://twitter.com/Yumeyo_art) |
 | Main Theme Design | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
-| Animation Design | ::{ flag=ID }:: [ Len_licht](https://twitter.com/Len_licht), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593), ::{ flag=US }:: [Secondoverthree](https://osu.ppy.sh/users/13432062) |
+| Animation Design | ::{ flag=ID }:: [Len_licht](https://twitter.com/Len_licht), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593), ::{ flag=US }:: [Secondoverthree](https://osu.ppy.sh/users/13432062) |
 | Storyboarders | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366), ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334) |
 | Illustrators | ::{ flag=US }:: [\_Xyris\_](https://osu.ppy.sh/users/11246193), ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=PH }:: [MM](https://osu.ppy.sh/users/7117621), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=TH }:: [Raytoly](https://osu.ppy.sh/users/8121109), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601), ::{ flag=US }:: [sh0wtime](https://osu.ppy.sh/users/30007083), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=IL }:: [Urition](https://osu.ppy.sh/users/19111992), ::{ flag=HU }:: [Yumeyo](https://twitter.com/Yumeyo_art) |
 | Developers | ::{ flag=VN }:: [[Boy]DaLat](https://osu.ppy.sh/users/8266808), ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334) |
@@ -369,14 +369,14 @@ Saturday, 6 July 2024:
 | **rich penguins** | **6** | 5 | RX 5600 xt | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114570872) |
 | **Caramba Chile** | **6** | 0 | super hamburger | *win by default* |
 | **ALL-IN IÑAKI** | **6** | 3 | Mannheimer Among Us | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114571614) |
-| Brzęczyszczykiewicz | 5 | **6** | **Germany owc B** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/mp/114573782) |
+| Brzęczyszczykiewicz | 5 | **6** | **Germany owc B** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114573782) |
 
 Sunday, 7 July 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
 | **swaglords** | **6** | 4 | Germany owc B | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114583356) |
-| **Grease Monkey** | **6** | 0 | cabaré sasoriosu | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/mp/114584177) |
+| **Grease Monkey** | **6** | 0 | cabaré sasoriosu | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114584177) |
 | ALL-IN IÑAKI | 1 | **6** | **Nipis Madu** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114584140) |
 | **Bobik** | **6** | 0 | im actually crying right now | *win by default* |
 | **kotomiler** | **6** | 1 | ruyunation | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114584522) |
@@ -480,9 +480,9 @@ Seeding results are calculated by taking the Z-Sums of the teams and placing tho
 
 1. The referee will create the lobby around 10 minutes before the scheduled match time, ping both team captains in the Discord server, and send out the invites shortly after.
 2. Teams have 10 minutes to gather enough players in the lobby. If a team fails to gather 4 players in the lobby on time, the match will be counted as a win for the opponent.
-  - If neither of the teams show up, they will be able to reschedule to a different time. If no suitable time can be found, the team with the higher qualifier seeding will be given the advantage.
+   - If neither of the teams show up, they will be able to reschedule to a different time. If no suitable time can be found, the team with the higher qualifier seeding will be given the advantage.
 3. In case of a disconnect, a team will be able to replay the map if the disconnect happened within the first 45 seconds of the map. A team is only allowed to replay one map during the whole match, any additional disconnects will not be taken into consideration and the opponent will win the point.
-  - The referee may allow additional replays at their discretion and with confirmation from the opponent. If you're having major internet issues so you keep disconnecting every map, you should not play.
+   - The referee may allow additional replays at their discretion and with confirmation from the opponent. If you're having major internet issues so you keep disconnecting every map, you should not play.
 4. You may select a warmup map with a maximum length of 4 minutes. Warmups can be skipped if both team captains agree to it.
 5. Both captains will be asked to roll. Whoever rolls higher will be given the choice of either first ban, second ban, first pick, or second pick. If the winner of the roll chooses the pick order, the loser chooses the ban order, and vice versa.
 6. Free Mod requires both teams to have a player picking HD and a player picking HR, the remaining two players can pick any of the following mods: HD, HR, FL, or EZ (x1.75). All players must have a mod.
@@ -491,7 +491,7 @@ Seeding results are calculated by taking the Z-Sums of the teams and placing tho
 ### Stage information
 
 | Stage | Best of | Ban count |
-| :-- | --: | --:|
+| :-- | --: | --: |
 | Qualifiers | 1[^qualifier-playthrough] |  |
 | Round of 32 | 9 | 1 |
 | Round of 16 | 9 | 1 |
