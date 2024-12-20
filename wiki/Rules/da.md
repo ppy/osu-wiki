@@ -14,14 +14,14 @@ Disse regler er grundlaget for hvordan vi holder osu! fællesskabet et sjovt og 
 2. **Spil fair.** Brug af tredjepartssoftware af enhver slags for at få en fordel er ikke tilladt. Dette inkluderer programmer såsom macros, aim-assists, tidsskala modificeringer, osv. Hvis et program hjælper dig med at gøre noget som du burde gøre selv, er det ikke tilladt.
 3. **Vær god ved andre.** Chikane eller andre former for fjendtligheder har ingen plads i osu!. Vi er her for at klikke cirker, slå på trommer, fange frugt og ramme op til atten taster på én gang - ikke for at være røvhuller overfor hinanden.
 4. **Lad være med at være et fjols.** Hvis du på et eneste tidspunkt er usikker på om du bryder denne regel, bryder du den sikkert, så lad være.
-5. **Fællesskabet er for alle aldre.** Det betyder at 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) indhold såsom brug af stoffer eller emner af seksuel natur ikke er velkomment her. Undtagelser bliver lavet hvor det er passende, men prøv generelt at holde tonen ren.
+5. **Fællesskabet er for alle aldre.** Det betyder at 18+/[NSFW](https://da.wikipedia.org/wiki/NSFW) indhold såsom brug af stoffer eller emner af seksuel natur ikke er velkomment her. Undtagelser bliver lavet hvor det er passende, men prøv generelt at holde tonen ren.
 6. **Hvis reglerne ikke holder, gør sund fornuft.** Administratorer har lov til at anvende deres egen dømmeevne som de finder det passende for at holde ro og orden.
 
 ## In-Game Chat Regler
 
 1. **Vær respektfuld og opmærksom på andre brugere i kanalen og undgå at spamme chatten.** En person der fylder halvdelen af skærmen er irriterende, så undgå det hvor muligt. Andre folk chatter også!
 2. **Lad moderatorerne håndtere problemer i chatten.** Du kan kontakte dem med [`!report` kommandoen](/wiki/Reporting_bad_behaviour) og så skal de nok sørge for resten.
-3. **Hvis nogen bliver timed out, silenced eller restricted, skal du lade dem være og ikke snakke om dem.** Deres sag involverer kun dem og spillets administratorer - ingen andre.
+3. **Hvis nogen bliver silenced eller restricted, skal du lade dem være og ikke snakke om dem.** Deres sag involverer kun dem og spillets administratorer - ingen andre.
 4. **Frem fairplay og giv ikke opmærksomhed til snyderi eller giftige personer.** Giftige personer eksisterer desværre, og hvis man giver dem opmærksomhed tilskynder man dem bare til at fortsætte eller i værste tilfælde kan det inspirere andre til at gøre det samme. Rapporter dem i stedet vha. chat kommandoen `!report` eller knapperne på deres profil.
 5. **Hold chatten ren og passende for alle aldre. Det betyder at NSFW emner skal undgås så meget som muligt.** NSFW emner er absolut ikke passende for et fællesskab der inkluderer alle aldre. Gør hvad du vil i privatbeskeder (inden for rimelighedens grænser), men hold de offentlige kanaler rene.
 6. **Vær opmærksom på hvad du deler med andre, især hvis indholdet er potentielt stødende eller af grafisk natur.** Hvis du bliver nødt til at tænke dig om for at finde ud af om det er tilladt at sende et link, er det sikkert ikke okay. Undgå generelt indhold med pulserende lys, blod, eller meget grafisk materialle.
@@ -56,17 +56,17 @@ Hvis du bryder reglerne vil det have dåååårlige konsekvenser.
 
 Disse konsekvenser kan inkludere (*men er ikke begrænset til*):
 
-- Tilbagetrækning af dine privilegier til at chatte i spillet for en stund (kendt som et silence).
+- Tilbagetrækning af dine privilegier til at chatte i spillet for en stund (kendt som en [silence](/wiki/Help_centre/Silences)).
 - Fjernelse af alt indhold der krænker retningslinjerne på din brugerside, profil eller blandt dine uploadede beatmaps.
 - Tabet af dit privilege til at ændre eller redigere din brugerside eller profil.
 - Tabet af dit privilege til at deltage eller spille i officielt hostede turneringer.
 
-Silences og andre overtrædelser forøges **automatisk** i varighed (næsten eksponentielt) med hver overtrædelse. Moderatorer kontrollerer ikke, hvor lang tid du bliver silenced for en overtrædelse, så det nytter ikke noget at beklage sig til dem. Brugere der gentagne gange overtræder reglerne vil blive låst ude af deres privilegier i stadig længere perioder.
+[Silences](/wiki/Help_centre/Silences) og andre straffe forøges **automatisk** i varighed (næsten eksponentielt) med hver overtrædelse. Moderatorer kontrollerer ikke, hvor lang tid du bliver silenced for en overtrædelse, så det nytter ikke noget at beklage sig til dem. Brugere, der gentagne gange overtræder reglerne, vil blive låst ude af deres privilegier i stadig længere perioder.
 
-Visse overtrædelser har en mindstevarighed (oftest 42+ timer) hvis de er særligt alvorlige. De er dog næsten udelukkende forbeholdt alvorlige overtrædelser, såsom deling af grafisk indhold eller chikane af andre brugere.
+Visse overtrædelser har en mindstevarighed (oftest 43+ timer) hvis de er særligt alvorlige. De er dog næsten udelukkende forbeholdt alvorlige overtrædelser, såsom deling af grafisk indhold eller chikane af andre brugere.
 
 Hvis du efter flere overtrædelser fortsætter med at bryde reglerne, kan din konto muligvis være permanent og uigenkaldeligt restricted.
 
-Restrictede brugere kan ikke spille online, sætte scores, chatte med andre brugere og er i alle henseender udelukket fra interaktion med resten af fællesskabet. En bruger som er blevet restricted for overtrædelse af fællesskabsreglerne kan kun fjernes efter appel til supportpersonalet efter der er gået 3 måneder ([flere betingelser kan gælde](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
+Restrictede brugere kan ikke spille online, sætte scores, chatte med andre brugere og er i alle henseender udelukket fra interaktion med resten af fællesskabet. En bruger, som er blevet restricted for overtrædelse af fællesskabsreglerne, kan kun få sin restriction fjernet efter appel til supportpersonalet, efter der er gået 3 måneder ([flere betingelser kan gælde](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 Alvorlige overtrædelser, der går langt ud over grænserne for vores regler og ind i ulovligt territorie i henhold til almindelig international lovgivning, vil resultere i øjeblikkelig lukning af kontoen. Dette gælder næsten udelukkende for ekstremt grafiske eller på anden måde afskyelige overtrædelser, såsom distribution af børnepornografi eller andet misbrugsmateriale.
