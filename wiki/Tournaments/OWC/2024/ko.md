@@ -137,7 +137,7 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 시상대
 
-![](img/owc2024-podium.jpg "OWC 2024 podium")
+![](img/owc2024-podium.jpg "OWC 2024 시상대")
 
 ## 맵풀
 
