@@ -23,7 +23,7 @@ Après l'introduction, le joueur peut consulter les données relatives au défi 
 
 ## Paliers de séries
 
-Les séries de parties sont affichés sur le profil du joueur avec différentes couleurs en fonction de certain paliers atteints:
+Les séries de parties sont affichées sur le profil du joueur avec différentes couleurs en fonction de certain paliers atteints :
 
 <!-- tier images: https://www.figma.com/design/tc79qAgJ35KQvdTO0Oj3dN/Daily-Challenge-Counter?node-id=0-1&t=xjRm9Ke0tUMtAQlh-1 -->
 
