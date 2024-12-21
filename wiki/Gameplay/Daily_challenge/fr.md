@@ -6,7 +6,7 @@ Chaque beatmap est soigneusement sélectionnée parmi la liste des [Featured Art
 
 ## Menu du jeu
 
-Depuis la page principale du jeu, le menu des défis quotidiens est accessible en suivant les étapes suivantes:
+Depuis la page principale du jeu, le menu des défis du jour est accessible en suivant les étapes suivantes:
 
 1. Cliquez sur l’icône `jouez` ou appuyez sur `P`.
 2. Cliquez sur l’icône `défi du jour` ou appuyez sur `D`.
@@ -29,7 +29,7 @@ Les séries de parties sont affichées sur le profil du joueur avec différentes
 
 |  | Niveau | Participation totale | Série quotidienne | Série hebdomadaire |
 | --: | :-: | :-: | :-: | :-: |
-| ![Palier Brillant](img/tiers/lustrous.png) | Brillant | 1080 jours | 360 jours | 53 semaines |
+| ![Palier Étincelant](img/tiers/lustrous.png) | Étincelant | 1080 jours | 360 jours | 53 semaines |
 | ![Palier Radiant](img/tiers/radiant.png) | Radiant | 720 jours | 240 jours | 36 semaines |
 | ![Palier Rhodium](img/tiers/rhodium.png) | Rhodium | 360 jours | 120 jours | 19 semaines |
 | ![Palier Platine](img/tiers/platinum.png) | Platine | 180 jours | 60 jours | 10 semaines |
@@ -55,6 +55,6 @@ Le projet est organisé par ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/141
 ![](img/yt-comment.jpg "Commentaire Youtube de waxxx14 suggérant le format \"coupe du jour\"")
 :::
 
-- L'idée du défi quotidien vient d'un commentaire de waxxx14 demandant une "coupe du jour", format tiré de [TrackMania](https://en.wikipedia.org/wiki/TrackMania), posté sous la vidéo de développement de lazer ["deciding what to do with lazer"](https://www.youtube.com/watch?v=xUSxEjQQ1UI).
-- Le défi quotidien a été lancé publiquement le 25 juillet 2024 dans osu!(lazer), lors de la version publique [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0), uniquement pour le [mode de jeu osu!](/wiki/Game_mode/osu!).
+- L'idée du défi du jour vient d'un commentaire de waxxx14 demandant une "coupe du jour", format tiré de [TrackMania](https://en.wikipedia.org/wiki/TrackMania), posté sous la vidéo de développement de lazer ["deciding what to do with lazer"](https://www.youtube.com/watch?v=xUSxEjQQ1UI).
+- Le défi du jour a été lancé publiquement le 25 juillet 2024 dans osu!(lazer), lors de la version publique [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0), uniquement pour le [mode de jeu osu!](/wiki/Game_mode/osu!).
 - Lors de la version initiale, les mods libres n’étaient pas sélectionnables, et le nombre total de réussites ainsi que le score cumulé n’ont été ajoutés que dans une mise à jour ultérieure.
