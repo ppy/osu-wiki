@@ -4,13 +4,13 @@ title: "New Featured Artist: Anamanaguchi"
 date: 2024-12-21 20:00:00 +0000
 ---
 
-**Anamanaguchi** rounds out the year as the final Featured Artist of 2024!
+**Anamanaguchi** rounds out the year as our final Featured Artist of 2024!
 
 ![](https://assets.ppy.sh/artists/xxx/header.jpg)
 
-For two decades and counting, **Anamanaguchi** has been the powerhouse behind combined chiptune/bitpop and traditional pop/rock music. From their own original releases to the soundtrack for multiple iterations of *Scott Pilgrim vs. the World*, **Anamanaguchi** has made an unforgettable name for themselves in all kinds of aural circles (...the most important of those being osu!, of course).
+For two decades and counting, **Anamanaguchi** has been the powerhouse behind combined chiptune/bitpop and traditional pop/rock music. From their own original releases to the soundtrack for multiple adaptations of *Scott Pilgrim vs. the World*, **Anamanaguchi** has made an unforgettable name for themselves in all kinds of aural circles (...the most important of those being osu!, of course).
 
-Through old-school mapper [Sushi](https://osu.ppy.sh/users/43108), **Anamanaguchi** made their first circle-paired appearance through [Helix Nebula](https://osu.ppy.sh/beatmapsets/10517) in 2009. What followed was an onslaught of maps year after year, highlighting the band's massive discography through beatmaps like [Blackout City](https://osu.ppy.sh/beatmapsets/67226) from *Dawn Metropolis* [SPF 420](https://osu.ppy.sh/beatmapsets/109024) from *Endless Fantasy*, and most recently [Miku](https://osu.ppy.sh/beatmapsets/1839623), which reached the Ranked category only last year.
+Through old-school mapper [Sushi](https://osu.ppy.sh/users/43108), **Anamanaguchi** made their first circle-paired appearance via [Helix Nebula](https://osu.ppy.sh/beatmapsets/10517) in 2009. What followed was an onslaught of maps year after year, highlighting the band's massive discography with beatmaps like [Blackout City](https://osu.ppy.sh/beatmapsets/67226) from *Dawn Metropolis*, [SPF 420](https://osu.ppy.sh/beatmapsets/109024) from *Endless Fantasy*, and most recently [Miku](https://osu.ppy.sh/beatmapsets/1839623), which reached the Ranked category only last year.
 
 Enough words. There are **9** tracks on [**Anamanaguchi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/454), each of whose greatness speaks for itself.
 
@@ -64,7 +64,7 @@ Try out [this map featuring a pop song about popping](https://osu.ppy.sh/beatmap
 
 ### [Anamanaguchi - Blackout City](LINK)
 
-If CS5 is your thing, [this map](https://osu.ppy.sh/beatmapsets/67226) by [Sushi](https://osu.ppy.sh/users/43108) might be your next top play.
+If CS5 is your thing, [this map](https://osu.ppy.sh/beatmapsets/67226) by [Sushi](https://osu.ppy.sh/users/43108) could be your next top play.
 
 <audio controls>
     <source src="LINK">
@@ -102,7 +102,7 @@ In 2024, **58** talented musicians joined our incomprehensibly large [Featured A
 
 You might've also noticed that this year continued our efforts towards original song production through [our 5 World Cups'](/wiki/Tournaments#official-world-cups) increasing collection of [osu! originals](/wiki/osu!_originals). The prowess behind every aspect of these, from song production to mapping to storyboards to stream showcases, has only proven how dedicated the osu! community is towards songs created specifically for the game. This isn't a direction we could've predicted 5 years ago, but it's awesome to see nonetheless.
 
-Throughout the next year, the ball will continue rolling. Expect our weekly artist releases to go on with a focus on both old artists and new faces alike, along with a new take on osu! originals in the 2025 series World Cups.
+Throughout the next year, our Featured-Artist-shaped ball will continue rolling. Expect our weekly artist releases to go on with a focus on both old artists and new faces alike, along with a new take on osu! originals in the 2025 series World Cups!
 
 As always, stay tuned.
 
