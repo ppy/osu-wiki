@@ -39,6 +39,6 @@ To register, simply head over to the **registration page** (*pending url*) to co
 
 All countries with at least 3 eligible registrants will have one player designated as the captain by the organisers. The captain is then responsible for selecting and submitting a roster of 3–6 players to represent their country in the tournament. Countries with more than 6 candidates are encouraged to host tryouts for their team to aid in selecting the best players.
 
-Joining the official [Discord server](https://discord.com/invite/ZjPs7ya) of 3WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. Be sure to also check out the forum thread (*pending url*) or the wiki article (*pending url*) for more information and rules. We hope to see you all join in — be it by playing or spectating!
+Joining the official [Discord server](https://discord.com/invite/ZjPs7ya) of 3WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. Be sure to also check out the forum thread (*pending url*) for more information and rules. We hope to see you all join in — be it by playing or spectating!
 
 —shdewz & nik
