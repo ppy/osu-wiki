@@ -2,7 +2,7 @@
 
 Le **défi du jour** est un mode multijoueur de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) où les joueurs peuvent accumuler une série en réussissant à passer des [beatmaps](/wiki/Beatmap) quotidiennement. La difficulté augmente de jour en jour et se réinitialise toutes les semaines.
 
-Chaque beatmap est soigneusement sélectionnée parmi la liste des [Featured Artists](/wiki/People/Featured_Artists), et parfois certaines maps imposent un mod aux joueurs, les obligeant à passer la map avec le mod de jeu sélectionné.
+Chaque beatmap est soigneusement sélectionnée parmi la liste des [Featured Artists](/wiki/People/Featured_Artists), et parfois certaines maps imposent un mod aux joueurs, les obligeant à passer la map avec le mod sélectionné.
 
 ## Menu du jeu
 
