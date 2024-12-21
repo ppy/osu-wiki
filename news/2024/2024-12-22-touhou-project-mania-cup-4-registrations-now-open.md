@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Touhou Project Mania Cup 4: Registrations are Now Open!"
-date: 2024-12-22 12:00:00 +0000
+date: 2024-12-22 00:00:00 +0000
 ---
 
 ![](/wiki/Tournaments/TMC/4th/image/banner@2x.png)
