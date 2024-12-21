@@ -4,17 +4,15 @@ title: "3 Digit World Cup 2025: Registrations Now Open!"
 date: 2024-12-28 12:00:00 +0000
 ---
 
-Want to watch what the more underrated players, overshadowed by absolute powerhouses, are capable of? Eager to prove your country’s worth, but the next osu! World Cup is too far away? If the answer to either of those is yes, get excited for the 7th iteration of the 3 Digit World Cup!
+Want to watch what the more underrated players, overshadowed by absolute powerhouses, are capable of? Eager to prove your country's worth, but the next osu! World Cup is too far away? If the answer to either of those is yes, get excited for the 7th iteration of the 3 Digit World Cup!
 
-[*pending banner image*]
+*pending banner image*
 
 The **3 Digit World Cup** (*pending forum url*), or 3WC for short, has been a mainstay of the community world cups since 2019, eventually being molded into the hyped event that loads of players look forward to at the start of the year. This time is no exception, with a seasoned staff roster and well known players looking to upkeep the expected competitiveness and quality that the tournament has provided over the years. Make sure to keep an eye out for newer accolades putting their name out there as well; these previously unknown key performers often debut in 3WC before any other big international tournaments due to its close proximity to the osu! World Cup.
 
 While the 3 digit range (#100–999) might seem a bit too restrictive at first, it still manages to brood the perfect stage to watch players who might sometimes get overshadowed by the hypercarries of their country in the osu! World Cup. Less powerful teams also benefit from the matches being 3-on-3, and the minimum team size of 3 allows for some smaller countries to still show up and attempt to surprise with their performance. Some countries that don't often appear in the rankings are allowed to combine as well due to the heavy rank range restriction, as observed by the Baltics (Estonia, Lithuania, and Latvia) and Oceania (Australia and New Zealand) last iteration.
 
 [Last year](https://osu.ppy.sh/community/forums/topics/1862046?n=1) 30 countries managed to field teams, the largest number in the history of the tournament, of which 16 qualified for the bracket stage. Reigning champions South Korea managed to take down the United States in a close [7-5 grand final](https://osu.ppy.sh/community/matches/113012834) after a [tiebreaker match](https://osu.ppy.sh/community/matches/112914726) against them in the Finals stage right before, securing their third title and the first ever consecutive win in 3WC. We also saw the return of a powerful Brazilian roster climbing into the podium for the first time in 4 years, as well as a rapidly improving Ukrainian roster making their way into the Finals stage. While waiting for the next iteration to start, you can revisit these matches in full, as well as all previous matches starting from 2021 on the [3wc_osu YouTube channel](https://www.youtube.com/@3wc_osu).
-
-[*quick 2024 recap here?*]
 
 ## Tournament schedule
 
