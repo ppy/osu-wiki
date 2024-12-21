@@ -6,7 +6,7 @@ date: 2024-12-21 20:00:00 +0000
 
 **Anamanaguchi** rounds out the year as our final Featured Artist of 2024!
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/454/header.jpg)
 
 For two decades and counting, **Anamanaguchi** has been the powerhouse behind combined chiptune/bitpop and traditional pop/rock music. From their own original releases to the soundtrack for multiple adaptations of *Scott Pilgrim vs. the World*, **Anamanaguchi** has made an unforgettable name for themselves in all kinds of aural circles (...the most important of those being osu!, of course).
 
