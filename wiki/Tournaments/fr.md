@@ -891,7 +891,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Sparxe's Two Key Event](STKE/1) | 26/10/2024 | 15/12/2024 | *TBD* | *TBD* | *TBD* |
+| [Sparxe's Two Key Event](STKE/1) | 26/10/2024 | 15/12/2024 | ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) | ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747) | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
 
 #### Speed of Light
 
