@@ -14,7 +14,7 @@ Through old-school mapper [Sushi](https://osu.ppy.sh/users/43108), **Anamanaguch
 
 Enough words. There are **9** tracks on [**Anamanaguchi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/454), each of whose greatness speaks for itself.
 
-For those who prefer completed maps over templates, take a glance at what's already here in osu!:
+For those who prefer completed maps over templates, take a glance at what's already here on osu!:
 
 <div align="center">
     <video width="95%" controls>
@@ -24,7 +24,7 @@ For those who prefer completed maps over templates, take a glance at what's alre
 
 ### [Anamanaguchi - STILL SPLODIN' THO (Interlude)](https://assets.ppy.sh/artists/454/Endless%20Fantasy/Anamanaguchi%20-%20STILL%20SPLODIN%27%20THO%20(Interlude).osz)
 
-It might say something about the osu! community to know that [this 1 minute map](https://osu.ppy.sh/beatmapsets/104151) hosted by [Liiraye](https://osu.ppy.sh/users/1280641) is the most played **Anamanaguchi** map on osu!.
+It might say something about the osu! community to know that [this 1-minute map](https://osu.ppy.sh/beatmapsets/104151) hosted by [Liiraye](https://osu.ppy.sh/users/1280641) is the most played **Anamanaguchi** map on osu!.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/454/Endless%20Fantasy/Anamanaguchi%20-%20STILL%20SPLODIN%27%20THO%20(Interlude).mp3">
@@ -64,7 +64,7 @@ Try out [this map featuring a pop song about popping](https://osu.ppy.sh/beatmap
 
 ### [Anamanaguchi - Blackout City](https://assets.ppy.sh/artists/454/Dawn%20Metropolis/Anamanaguchi%20-%20Blackout%20City.osz)
 
-If CS5 is your thing, [this map](https://osu.ppy.sh/beatmapsets/67226) by [Sushi](https://osu.ppy.sh/users/43108) could be your next top play.
+If CS 5 is your thing, [this map](https://osu.ppy.sh/beatmapsets/67226) by [Sushi](https://osu.ppy.sh/users/43108) could be your next top play.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/454/Dawn%20Metropolis/Anamanaguchi%20-%20Blackout%20City.mp3">
@@ -72,7 +72,7 @@ If CS5 is your thing, [this map](https://osu.ppy.sh/beatmapsets/67226) by [Sushi
 
 ### [Anamanaguchi - SPF 420](https://assets.ppy.sh/artists/454/Endless%20Fantasy/Anamanaguchi%20-%20SPF%20420.osz)
 
-Experience [this osu!+osu!taiko hybrid map](https://osu.ppy.sh/beatmapsets/109024) hosted by [a certain raw fish](https://osu.ppy.sh/users/43108).
+Experience [this osu! + osu!taiko hybrid map](https://osu.ppy.sh/beatmapsets/109024) hosted by [a certain raw fish](https://osu.ppy.sh/users/43108).
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/454/Endless%20Fantasy/Anamanaguchi%20-%20SPF%20420.mp3">
@@ -100,7 +100,7 @@ While the year may be done, osu!'s Featured Artists will continue pushing throug
 
 In 2024, **58** talented musicians joined our incomprehensibly large [Featured Artist library](https://osu.ppy.sh/beatmaps/artists) with a collective **476** individual songs (and that count would be *over 500* if we included updates to our older artists like [cygnus](https://osu.ppy.sh/home/news/2024-09-01-featured-artist-track-updates-cygnus) or [Imy](https://osu.ppy.sh/home/news/2024-10-28-featured-artist-track-updates-imy) or [S3RL](https://osu.ppy.sh/home/news/2024-12-08-featured-artist-track-updates-s3rl)!)
 
-You might've also noticed that this year continued our efforts towards original song production through [our annual World Cups'](/wiki/Tournaments#official-world-cups) increasing collection of [osu! originals](/wiki/osu!_originals). The prowess behind every aspect of these, from song production to mapping to storyboards to stream showcases, has only proven how dedicated the osu! community is towards the creative aspect of the game.
+You might've also noticed that this year continued our efforts towards original song production through [our annual World Cups](/wiki/Tournaments#official-world-cups)' increasing collection of [osu! originals](/wiki/osu!_originals). The prowess behind every aspect of these, from song production to mapping to storyboards to stream showcases, has only proven how dedicated the osu! community is towards the creative aspect of the game.
 
 Throughout the next year, our Featured-Artist-shaped ball will continue rolling. Expect our weekly artist releases to go on with a focus on both old and new faces alike, along with a bundle of breathtaking osu! originals in the 2025 series of World Cups!
 
