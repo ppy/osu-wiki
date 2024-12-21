@@ -21,14 +21,14 @@ While the 3 digit range (#100–999) might seem a bit too restrictive at first, 
 | Event | Dates |
 | --: | :-- |
 | Registration phase | December 28–January 12 (23:59 UTC) |
-| Team submission phase | January 12–January 19 (23:59 UTC) |
-| Qualifier showcase | January 26 |
-| Qualifier stage | February 1–February 2 |
-| Round of 16 | February 8–February 9 |
-| Quarterfinals | February 15–February 16 |
-| Semifinals | February 22–February 23 |
-| Finals | March 1–March 2 |
-| Grand Finals | March 8–March 9 |
+| Team submission phase | January 12–January 26 (23:59 UTC) |
+| Qualifier showcase | February 2 |
+| Qualifier stage | February 8–February 9 |
+| Round of 16 | February 15–February 16 |
+| Quarterfinals | February 22–February 23 |
+| Semifinals | March 1–March 2 |
+| Finals | March 8–March 9 |
+| Grand Finals | March 15–March 16 |
 
 ## How do I register?
 
