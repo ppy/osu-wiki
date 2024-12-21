@@ -29,14 +29,14 @@ Les séries de parties sont affichés sur le profil du joueur avec différentes 
 
 |  | Niveau | Participation totale | Série quotidienne | Série hebdomadaire |
 | --: | :-: | :-: | :-: | :-: |
-| ![Brillant tier](img/tiers/lustrous.png) | Brillant | 1080 jours | 360 jours | 53 semaines |
-| ![Radiant tier](img/tiers/radiant.png) | Radiant | 720 jours | 240 jours | 36 semaines |
-| ![Rhodium tier](img/tiers/rhodium.png) | Rhodium | 360 jours | 120 jours | 19 semaines |
-| ![Platine tier](img/tiers/platinum.png) | Platine | 180 jours | 60 jours | 10 semaines |
-| ![Or tier](img/tiers/gold.png) | Or | 90 jours | 30 jours | 6 semaines |
-| ![Argent tier](img/tiers/silver.png) | Argent | 30 jours | 10 jours | 3 semaines |
-| ![Bronze tier](img/tiers/bronze.png) | Bronze | 15 jours | 5 jours | 2 semaines |
-| ![Fer tier](img/tiers/iron.png) | Fer | moins de 15 jours | moins de 5 jours | moins de 2 semaines |
+| ![Palier Brillant](img/tiers/lustrous.png) | Brillant | 1080 jours | 360 jours | 53 semaines |
+| ![Palier Radiant](img/tiers/radiant.png) | Radiant | 720 jours | 240 jours | 36 semaines |
+| ![Palier Rhodium](img/tiers/rhodium.png) | Rhodium | 360 jours | 120 jours | 19 semaines |
+| ![Palier Platine](img/tiers/platinum.png) | Platine | 180 jours | 60 jours | 10 semaines |
+| ![Palier Or](img/tiers/gold.png) | Or | 90 jours | 30 jours | 6 semaines |
+| ![Palier Argent](img/tiers/silver.png) | Argent | 30 jours | 10 jours | 3 semaines |
+| ![Palier Bronze](img/tiers/bronze.png) | Bronze | 15 jours | 5 jours | 2 semaines |
+| ![Palier Fer](img/tiers/iron.png) | Fer | moins de 15 jours | moins de 5 jours | moins de 2 semaines |
 
 ## Contributeurs
 
