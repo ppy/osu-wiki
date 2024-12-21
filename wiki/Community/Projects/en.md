@@ -17,8 +17,6 @@ outdated: true
   - [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
 - [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342) — The osu! localisation project, localise your language into osu!.
 - [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144) — A release of the initial game client.
-- osu! news scheduler — osu! feed news posts approximate schedule calendar.
-  - [Website](https://osunews.untone.uk/)
 - [osu!api](https://osu.ppy.sh/community/forums/topics/141240) — Public API for accessing osu! related data.
   - [GitHub](https://github.com/ppy/osu-api)
 - osu!framework — A game framework written with osu! in mind.
@@ -217,6 +215,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 - [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) — A browser extension for calculating pp.
   - [GitHub](https://github.com/oamaok/ezpp)
+- osu! news scheduler — osu! feed news posts approximate schedule calendar.
+  - [Website](https://osunews.untone.uk/)
 - [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) — A status signature generator with osu! next design.
   - [GitHub](https://github.com/Lemmmy/osusig)
 - [osu!Post](https://osu.ppy.sh/community/forums/topics/164486) — Live osu! status for your signatures.
