@@ -15,7 +15,7 @@ Depuis la page principale du jeu, le menu des défis quotidiens est accessible e
 
 En entrant, il est présentée au joueur une introduction, montrant la beatmap à passer ainsi que les mods imposés.
 
-Après l'introduction, le joueur consulter les données relatives au défi du jour. Le côté gauche affiche diverses informations en rapport avec le [score](/wiki/Gameplay/Score), comme le nombre total de joueurs ayant réussi la beatmap et le score cumulé de tous les joueurs. Au centre, un classement montre les meilleurs scores obtenus par les joueurs. À droite, les joueurs peuvent discuter du défi quotidien dans un chat.
+Après l'introduction, le joueur peut consulter les données relatives au défi du jour. Le côté gauche affiche diverses informations en rapport avec le [score](/wiki/Gameplay/Score), comme le nombre total de joueurs ayant réussi la beatmap et le score cumulé de tous les joueurs. Au centre, un classement montre les meilleurs scores obtenus par les joueurs. À droite, les joueurs peuvent discuter du défi du jour dans un chat.
 
 ## Plage de difficulté
 
