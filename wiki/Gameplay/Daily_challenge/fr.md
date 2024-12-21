@@ -9,7 +9,7 @@ Chaque beatmap est soigneusement sélectionnée parmi la liste des [Featured Art
 Depuis la page principale du jeu, le menu des défis quotidiens est accessible en suivant les étapes suivantes:
 
 1. Cliquez sur l’icône `jouez` ou appuyez sur `P`.
-2. Cliquez sur l’icône `défi quotidien` ou appuyez sur `D`.
+2. Cliquez sur l’icône `défi du jour` ou appuyez sur `D`.
 
 ![](img/daily-challenge-menu.png "Capture d'écran du menu du défi du 7 novembre 2024.")
 
