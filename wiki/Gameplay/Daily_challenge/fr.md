@@ -11,7 +11,7 @@ Depuis la page principale du jeu, le menu des défis quotidiens est accessible e
 1. Cliquez sur l’icône `jouez` ou appuyez sur `P`.
 2. Cliquez sur l’icône `défi quotidien` ou appuyez sur `D`.
 
-![](img/daily-challenge-menu.png "Capture d'écran du menu du défi quotidien du 7 novembre 2024.")
+![](img/daily-challenge-menu.png "Capture d'écran du menu du défi du 7 novembre 2024.")
 
 En entrant, il est présentée au joueur une introduction, montrant la beatmap à passer ainsi que les mods imposés.
 
