@@ -10,7 +10,7 @@ tags:
 
 ![Touhou Project Mania Cup 4th banner](img/banner@2x.png)
 
-The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament is the *Touhou Project*. The pool used for THMC 4th is 100% based on original and fan-made *Touhou* music. It is the fourth installment of the Touhou Project Mania Cup.
+The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament is the *Touhou Project*. The pool used for THMC 4th is 100% based on original and fan-made *Touhou* music. It is the fourth instalment of the Touhou Project Mania Cup.
 
 ## Tournament schedule
 
@@ -19,9 +19,9 @@ The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!ma
 | Registration phase | 2024-12-22 (00:00 UTC) / 2025-01-12 (24:00 UTC) |
 | Qualifier showcase | 2025-01-19 (12:00 UTC) |
 | Qualifier stage | 2025-01-20/2025-01-28 |
-| Qualifier result | 2025-01-28 (04:00 UTC) |
-| Group stage Week 1 | 2025-01-28/2025-02-09 |
-| Group stage Week 2 | 2025-02-14/2025-02-16 |
+| Qualifier results | 2025-01-28 (04:00 UTC) |
+| Group stage week 1 | 2025-01-28/2025-02-09 |
+| Group stage week 2 | 2025-02-14/2025-02-16 |
 | Round of 32 | 2025-02-21/2025-02-23 |
 | Round of 16 | 2025-02-28/2025-03-02 |
 | Quarterfinals | 2025-03-07/2025-03-09 |
@@ -85,12 +85,12 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 3. Players' scores will still count toward the team score, even if they fail.
 4. Use of visual settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics.
-5. If a game ends in a draw, it will be nullified and the beatmap replayed, called a *rematch*.
+5. If a game ends in a draw, it will be nullified and the beatmap replayed. This is called a *rematch*.
 6. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g., by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-7. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
+7. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
 8. If a player disconnects, their scores will not be counted towards their team's total unless adequate proof of said score is provided. The following are considered acceptable proof:
    - Livestream clips or VODs from the player's point of view. The entirety of the play and the results screen must be clearly visible along with the affected player's score.
    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen in the multiplayer match history).
@@ -101,8 +101,8 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
      - Player scores may be derived from the official stream as a last resort in cases where the match is streamed.
 9. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
    - The minimum number of players required is defined as the number needed to play a beatmap without any empty spots in the lobby (e.g., at least two participants must be present for the match to start).
-   - In the off chance that both teams have the same amount of players (i.e., each team with 1 player present) but not enough to start the match, the match may be rescheduled to a different time; otherwise, a *win by default* will be declared to the team with the highest seed.
-10. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, or other deliberate inappropriate misbehavior are strictly prohibited and will be punished accordingly.
+   - In the off chance that both teams have the same amount of players (i.e., each team with 1 player present) but not enough to start the match, the match may be rescheduled to a different time. Otherwise, a *win by default* will be declared to the team with the highest seed.
+10. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited and will be punished accordingly.
 11. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
 12. Referees may allow, at their discretion, lower or higher tolerances for timers.
@@ -179,24 +179,22 @@ The weights for the Qualifiers are as follows:
 
 2. Each round will have its own mappool.
    - The Group Stage will last for 2 weeks and use the same mappools.
-   - 2 rice maps, 1 LN map, and 1 of the HB maps in the group stage mappool will be made as `classic` picks, meaning they are reused from previous or other tournaments.
-   - 1 rice map and 1 LN map in the other bracket stage mappools will be made as `X` picks, meaning they are more difficult than the other maps in the mappool.
-3. The split double elimination format will be used in the group stage, meaning the top seed (`#1 ~ #16`) and high seed (`#17 ~ #32`) will start in the upper bracket, and the mid seed (`#33 ~ #48`) and low seed (`#49 ~ #64`) will start in the lower bracket.
-   - If fewer than 70 teams play the qualifier, the group stage will use the standard double elimination format, meaning all teams will start in the upper bracket.
-4. The top 2 teams will advance to a standard double elimination bracket stage, called `Playoffs`.
-5. Teams that lose a match in the upper bracket move to the lower bracket; losing a match in the lower bracket will eliminate them until the final winner is determined.
+   - 2 rice maps, 1 LN map, and 1 of the HB maps in the group stage mappool will be made as *classic* picks, meaning they are reused from previous or other tournaments.
+   - 1 rice map and 1 LN map in the other bracket stage mappools will be made as *X* picks, meaning they are more difficult than the other maps in the mappool.
+3. The split double-elimination format will be used in the group stage, meaning the top seed (#1 – #16) and high seed (#17 – #32) will start in the upper bracket, and the mid seed (#33 – #48) and low seed (#49 – #64) will start in the lower bracket.
+   - If fewer than 70 teams play the Qualifiers, the Group Stage will use the standard double-elimination format, meaning all teams will start in the upper bracket.
+4. The top 2 teams will advance to a standard double-elimination bracket stage, called *Playoffs*.
+5. Teams that lose a match in the upper bracket move to the lower bracket; losing a match in the lower bracket will eliminate the team. This continues until the final winner is determined.
 6. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
 
-![Group Stage Bracket](img/group-stage-bracket.png)
+![Group Stage bracket](img/group-stage-bracket.png "Group Stage bracket")
 
 ### Match instructions
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time.
-   - The room settings are `Game mode: "osu!mania
-"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `THMC4 ({Stage}):
- ({Red Team}) VS ({Blue Team})`.
+   - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `THMC4 ({Stage}): ({Red Team}) VS ({Blue Team})`.
 2. If less than 2 players from a team are present at match time, the match can be postponed for up to **10 minutes**. If there are still less than 2 players from a team, a *win by default* will be declared for the side with the most members present.
-   - If both teams don’t have enough players to present and still have available staff and are not influenced by other match processes, the match can be rescheduled.
+   - If both teams do not have enough players to present, there is still available staff, and the match is not influenced by other match processes, the match can be rescheduled.
    - If a match cannot be rescheduled, the higher-seeded team will *win by default*.
 3. Each captain must use `!roll` once in the match's chatroom.
    - The winner of the `!roll` team **picks** and **protects** first.
@@ -204,7 +202,7 @@ The weights for the Qualifiers are as follows:
 4. After the order is determined, the pick and ban phase will have the following steps:
    1. The team that wins the `!roll` protects a beatmap, followed by another team. They may not protect the same beatmap. Protected beatmaps may not be banned.
    2. The team that loses the `!roll` bans a map, and then the other team bans a map.
-   3. If it's during the group stage, the team that loses the `!roll` bans the second map; after that, the winning team then bans a map.
+   3. If it is during the group stage, the team that loses the `!roll` bans the second map; after that, the winning team then bans a map.
    4. The team that wins the `!roll` picks the first map, followed by alternating picks for the remaining maps.
 5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
@@ -217,14 +215,14 @@ The weights for the Qualifiers are as follows:
 6. Each team will receive only one timeout of 3 minutes, to be used as extra time to pick or ban a beatmap (tactical) or if a technical issue occurs (technical). *The timeout is optional.*
    - This timeout is automatically consumed when regular picking time runs out.
    - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
-7. If players are unavailable for a rematch (e.g., technical issue or unavoidable player absence), the influenced team could replace those players while keeping the remaining players the same.
+7. If players are unavailable for a rematch (e.g., technical issue or unavoidable player absence), the influenced team may replace those players while keeping the remaining players the same.
 
 ### Scheduling instructions
 
-1. Teams need to pick an available lobby to play a qualifier match.
-They could request an extra lobby before January 16, 23:59 UTC.
-   - **A team that does not pick a lobby after the last lobby start will be considered disqualified.**
-2. All bracket stages will be held between Saturday 0:00 and Sunday 23:59 (UTC).
+1. Teams need to pick an available lobby to play a Qualifier match.
+   - Teams may request an extra lobby before January 16, 23:59 UTC.
+   - **A team that does not pick a lobby after the last lobby starts will be considered disqualified.**
+2. All bracket stages will be held between Saturday 00:00 and Sunday 23:59 (UTC).
    - Additional times may be available upon request.
 3. **Reschedules will only be considered if both teams agree to a time and communicate it to the coordinator before Thursday at 23:59 UTC of the week the match is to take place.**
    - If a team needs to reschedule, the captain must submit their request in the reschedule channel at least 24 hours (48 hours recommended) before the match.
