@@ -126,14 +126,14 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 4. All successfully formed teams will be published after the registration phase.
    - A team should have at least 2 players registered to have the chance to play in the Qualifiers.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
-   - These staff members must not have access to any privileged data, such as Qualifiers score information or mappool details, before the mappool showcase.
-6. All information about the tournament will ONLY be available on the [Discord server](https://discord.gg/cAr5VHG7WX). All captains are asked to join the server in the case of any issues that may arise.
+   - These staff members must not have access to any privileged data, such as Qualifier score information or mappool details, before the mappool showcase.
+6. All information about the tournament will ONLY be available on the [Discord server](https://discord.com/invite/cAr5VHG7WX). All captains are asked to join the server in the case of any issues that may arise.
 
 ### Stage instructions
 
-#### Qualifier 
+#### Qualifiers
 
-1. The Qualifiers Stage will happen in the first week of the tournament play. All registered players who were not screened out during screening are eligible to participate in the Qualifiers.
+1. The Qualifier Stage will happen in the first week of the tournament play. All registered players who were not screened out during screening are eligible to participate in the Qualifiers.
 2. During Qualifiers, all teams will play the Qualifier pool in sequential order up to 2 times. The pool will have 6 stages, and they are as follows:
    - Stage 1: Early-Mid Game Rice Technical
    - Stage 2: Early-Mid Game LN Coordination
@@ -143,7 +143,7 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
    - Stage 6: Mid-Late Game Hybrid
 3. Each team must have 2 players participate in each map. They may be exchanged freely after a map has concluded.
 4. Teams can skip any map in the second playthrough. An optional 5-minute break will be offered between the first and second playthrough of the mappool.
-5. The following methods will be used in order for seeding, sorting through each ranking criteria in the case of equal rank:
+5. The following methods will be used in order for seeding, sorting through each criterion in the case of equal rank:
    1. **Lower weighted rank sum**: The following formula will be used for each map: `Map rank = RANK(Team score) * Map weight`, where:
       - `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
       - `Map weight` is the weight for the current map, as defined by the table below. 
@@ -153,8 +153,8 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
       - `Team score` is the highest team total scores gained in all tries.
       - A higher `Total score` will have higher ranks.
    3. **Higher map score**: Higher team scores will receive higher ranks. Comparisons will be done from the last stage to the first stage in order until ties are broken.
-   4. **Fewer total tries**: Teams that play fewer maps in the qualifier lobby will receive higher ranks.
-   5. **Dice rolls**: If still tied, all tied team captains will gather in a multiplayer room, using `!roll`; higher results will get higher ranks. Roll again until breaking all ties.
+   4. **Fewer total tries**: Teams that play fewer maps in the Qualifier lobby will receive higher ranks.
+   5. **Dice rolls**: If still tied, all tied team captains will gather in a multiplayer room, using `!roll`; higher results will get higher ranks. Roll again until all ties are broken.
 6. The top 64 seeded teams will advance to the Group Stage.
 
 The weights for the Qualifiers are as follows:
