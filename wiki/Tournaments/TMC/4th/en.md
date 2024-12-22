@@ -180,15 +180,15 @@ The weights for the Qualifiers are as follows:
 2. Each round will have its own mappool, where the match format will be determined by the mappool that each stage uses.
    - 2 RC maps, 1 LN map, and 1 of the HB maps in the Group Stage mappool will be made as *classic* picks; picks which have been reused from previous or other tournaments.
    - 1 RC map and 1 LN map in the other bracket stage mappools will be made as *X* picks; picks that are more difficult than usual in the mappool.
-3. The Group Stage format will be determined by the amount of teams who play in the Qualifier stage. Each group will contain a team from the Top Seeds (#1 - #16), High Seeds (#17 - #32), Mid Seeds (#33 - #48) and Low Seeds (#49 - #64), where each group will play a mini double-elimination bracket. A team who wins their double-elimination group bracket will advance into the Playoff bracket.
+3. The Group Stage format will be determined by the amount of teams who play in the Qualifier stage. Each group will contain a team from the Top Seeds (#1 - #16), High Seeds (#17 - #32), Mid Seeds (#33 - #48) and Low Seeds (#49 - #64), where each group will play a mini double-elimination bracket.
    - If 140+ teams play in the Qualifier stage, the format will be *TBD* (a future announcement will be made regarding this circumstance).
    - If 70 ~ 140 teams play in the Qualifier stage, a split double-elimination format will be used in the group stage, where 64 teams will split into 16 groups. In each group, the Top and High Seeds will start in the Upper Bracket while the Mid and Low Seeds will start in the Lower Bracket.
      - The Group Stage will last for 2 weeks.
    - If 32 ~ 70 teams play in the Qualifier stage, the Group Stage will use a standard double-elimination format, where 32 teams split into 8 groups. All teams will start in the Upper Bracket.
-     - In Winner's Semifinals of the Group Stage, the Group Stage mappool will be used.
-     - In Winner's Finals, Loser's Semifinals and Loser's Finals of the Group Stage, the Round of 32 mappool will be used.
+     - In the Winner's Semifinals of the Group Stage, the Group Stage mappool will be used.
+     - In the Winner's Finals, Loser's Semifinals and Loser's Finals of the Group Stage, the Round of 32 mappool will be used.
    - If fewer than 32 teams play in the Qualifier stage, the Group Stage will be cancelled and all teams will automatically advance into the Playoff bracket.
-4. The top 2 teams will advance to a standard double-elimination bracket stage, called *Playoffs*.
+4. The 2 teams (from the Upper and Lower Bracket) that win their Group Stage Finals will advance to the *Playoffs* bracket; a standard double-elimination bracket stage.
 5. Teams that lose a match in the upper bracket move to the lower bracket; losing a match in the lower bracket will eliminate the team. This continues until the final winner is determined.
 6. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
 
