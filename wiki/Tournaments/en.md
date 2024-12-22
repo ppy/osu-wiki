@@ -887,7 +887,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Sparxe's Two Key Event](STKE/1) | 2024-10-26 | 2024-12-15 | *TBD* | *TBD* | *TBD* |
+| [Sparxe's Two Key Event](STKE/1) | 2024-10-26 | 2024-12-15 | ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) | ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747) | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
 
 #### Speed of Light
 

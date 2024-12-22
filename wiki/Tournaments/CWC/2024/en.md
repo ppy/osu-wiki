@@ -647,7 +647,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
    - **A team that does not pick a time slot by May 16, 2024 (23:59 UTC) will be considered disqualified.**
 3. All bracket stage matches will be held between Saturday 00:00 and Sunday 19:00 UTC.
    - Other times may be available upon request, consult with the tournament managers for more information.
