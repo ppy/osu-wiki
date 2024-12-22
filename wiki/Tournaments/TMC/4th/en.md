@@ -66,7 +66,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 <!--## Participants
 
-## Groups 
+## Groups
 
 ## Podium
 
@@ -135,18 +135,18 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 
 1. The Qualifier Stage will happen in the first week of the tournament play. All registered players who were not screened out during screening are eligible to participate in the Qualifiers.
 2. During Qualifiers, all teams will play the Qualifier pool in sequential order up to 2 times. The pool will have 6 stages, and they are as follows:
-   - Stage 1: Early-Mid Game Rice Technical
-   - Stage 2: Early-Mid Game LN Coordination
-   - Stage 3: Mid Game LN Density
-   - Stage 4: Mid Game Rice Jumpstream
-   - Stage 5: Mid-Late Game Rice Technical
-   - Stage 6: Mid-Late Game Hybrid
+   - Stage 1: Early mid-game rice technical
+   - Stage 2: Early mid-game LN coordination
+   - Stage 3: Mid-game LN density
+   - Stage 4: Mid-game rice jumpstream
+   - Stage 5: Mid late-game rice technical
+   - Stage 6: Mid late-game hybrid
 3. Each team must have 2 players participate in each map. They may be exchanged freely after a map has concluded.
 4. Teams can skip any map in the second playthrough. An optional 5-minute break will be offered between the first and second playthrough of the mappool.
 5. The following methods will be used in order for seeding, sorting through each criterion in the case of equal rank:
-   1. **Lower weighted rank sum**: The following formula will be used for each map: `Map rank = RANK(Team score) * Map weight`, where:
+   1. **Lower-weighted rank sum**: The following formula will be used for each map: `Map rank = RANK(Team score) * Map weight`, where:
       - `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
-      - `Map weight` is the weight for the current map, as defined by the table below. 
+      - `Map weight` is the weight for the current map, as defined by the table below.
       - `Team score` is the highest of the team total scores they get in all tries.
       - Then the following formula will be used to calculate `Final rank = SUM(Map rank)`, where a lower `Final rank` will have higher ranks.
    2. **Higher total score**: An exact formula will be used: `Total score = SUM(Team score)`, where:
@@ -180,15 +180,15 @@ The weights for the Qualifiers are as follows:
 2. Each round will have its own mappool, where the match format will be determined by the mappool that each stage uses.
    - 2 RC maps, 1 LN map, and 1 of the HB maps in the Group Stage mappool will be made as *classic* picks; picks which have been reused from previous or other tournaments.
    - 1 RC map and 1 LN map in the other bracket stage mappools will be made as *X* picks; picks that are more difficult than usual in the mappool.
-3. The Group Stage format will be determined by the amount of teams who play in the Qualifier stage. Each group will contain a team from the Top Seeds (#1 - #16), High Seeds (#17 - #32), Mid Seeds (#33 - #48) and Low Seeds (#49 - #64), where each group will play a mini double-elimination bracket.
+3. The Group Stage format will be determined by the amount of teams who play in the Qualifier stage. Each group will contain a team from the top seeds (#1 – #16), high seeds (#17 – #32), mid seeds (#33 – #48) and low seeds (#49 – #64), where each group will play a mini double-elimination bracket.
    - If 140+ teams play in the Qualifier stage, the format will be *TBD* (a future announcement will be made regarding this circumstance).
-   - If 70 ~ 140 teams play in the Qualifier stage, a split double-elimination format will be used in the group stage, where 64 teams will split into 16 groups. In each group, the Top and High Seeds will start in the Upper Bracket while the Mid and Low Seeds will start in the Lower Bracket.
+   - If 70–140 teams play in the Qualifier stage, a split double-elimination format will be used in the Group Stage, where 64 teams will split into 16 groups. In each group, the top and high seeds will start in the upper bracket while the mid and low seeds will start in the lower bracket.
      - The Group Stage will last for 2 weeks.
-   - If 32 ~ 70 teams play in the Qualifier stage, the Group Stage will use a standard double-elimination format, where 32 teams split into 8 groups. All teams will start in the Upper Bracket.
-     - In the Winner's Semifinals of the Group Stage, the Group Stage mappool will be used.
-     - In the Winner's Finals, Loser's Semifinals and Loser's Finals of the Group Stage, the Round of 32 mappool will be used.
+   - If 32–70 teams play in the Qualifier stage, the Group Stage will use a standard double-elimination format, where 32 teams split into 8 groups. All teams will start in the upper bracket.
+     - In the Winners' Semifinals of the Group Stage, the Group Stage mappool will be used.
+     - In the Winners' Finals, Losers' Semifinals and Losers' Finals of the Group Stage, the Round of 32 mappool will be used.
    - If fewer than 32 teams play in the Qualifier stage, the Group Stage will be cancelled and all teams will automatically advance into the Playoff bracket.
-4. The 2 teams (from the Upper and Lower Bracket) that win their Group Stage Finals will advance to the *Playoffs* bracket; a standard double-elimination bracket stage.
+4. The 2 teams (from the upper and lower bracket) that win their Group Stage Finals will advance to the *Playoffs* bracket; a standard double-elimination bracket stage.
 5. Teams that lose a match in the upper bracket move to the lower bracket; losing a match in the lower bracket will eliminate the team. This continues until the final winner is determined.
 6. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
 
@@ -207,7 +207,7 @@ The weights for the Qualifiers are as follows:
 4. After the order is determined, the pick and ban phase will have the following steps:
    1. The team that wins the `!roll` protects a beatmap, followed by another team. They may not protect the same beatmap. Protected beatmaps may not be banned.
    2. The team that loses the `!roll` bans a map, and then the other team bans a map.
-   3. If it is during the group stage, the team that loses the `!roll` bans the second map; after that, the winning team then bans a map.
+   3. If it is during the Group Stage, the team that loses the `!roll` bans the second map; after that, the winning team then bans a map.
    4. The team that wins the `!roll` picks the first map, followed by alternating picks for the remaining maps.
 5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
