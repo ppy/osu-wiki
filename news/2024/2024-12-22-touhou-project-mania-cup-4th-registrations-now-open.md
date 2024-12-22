@@ -14,19 +14,20 @@ We've had 80 teams [last year](/wiki/Tournaments/TMC/3rd), where team **Bloxy co
 
 ## What's new
 
-- **A Group Stage will be introduced in this year**, featuring 16 groups of 4 teams each. This means that we will have **64 teams** in the main event.
-  - If there are more than 70 teams participating in the Qualifier, the Group Stage will use the [split double-elimination format](/wiki/Tournaments/TMC/4th#Group-Stage-&-Playoffs).
-  - If there are fewer than 70 teams participating in the Qualifier, the Group Stage will use the standard double-elimination format.
+- **A Group Stage will be introduced this year**.
+  - If there are fewer than 70 teams playing in the Qualifier, the Group Stage will use the standard double-elimination format, featuring 8 groups of 4 teams each.
+  - If there are 70-140 teams playing the Qualifier, the Group Stage will use the split [double-elimination format](/wiki/Tournaments/TMC/4th#Group-Stage-&-Playoffs), featuring 16 groups of 4 teams each. This means that we will have **64 teams** in the main event.
+  - More large-scale announcements will be made if more than 140 teams played the Qualifier!
 
 ![Group format](/wiki/Tournaments/TMC/4th/image/group-stage-bracket.png)
 
-  - **Each team will have 2 bans in the group stage**, providing extra strategic options throughout the different weeks.
+  - **Each team will have 2 bans for matches played using the group stage mappools**, providing extra strategic options throughout the different weeks.
 - **A special series of "X" picks will apply for RC and LN slots**, giving players more options to pick harder charts.
-- Two teams from each group will advance, with a total of 32 teams competing in a standard double-elimination bracket for the championship.
+- Two teams from each group will advance; all advanced teams will compete in a standard double-elimination bracket for the championship.
 
 ## Custom maps
 
-With nearly **50 custom mappers** contributing, this year we are bringing you mappools that are **almost entirely custom-made** with maps ranging from the lower end of the difficulty spectrum to the very top. We hope this will not only enhance our Touhou journey, but also contribute to the osu! community by adding more Touhou maps!
+With nearly **50 custom mappers** contributing, this year we are bringing you mappools that are **almost entirely custom-made** with maps ranging from the lower end of the difficulty spectrum to the very top. We hope this will not only enhance our Touhou journey but also contribute to the osu! community by adding more Touhou maps!
 
 You can check out [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435)'s brilliant Grand Finals custom tiebreaker song from last year as an example:
 
@@ -53,7 +54,7 @@ You can check out [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435)'s brillia
 ## How do I register?
 
 Simply click [here](https://docs.google.com/forms/d/1tl-4NeWZIDI10-1Mkja8lT3DHEpIUB_PK2uqAHptVj8/) and fill in the team registration form!
-In order to participate in this tournament, you will need to ensure that...
+In order to participate in this tournament, you must make sure that...
 
 - Your team consists of 2–4 players.
 - All team members have not been violating the [osu! community rules](/wiki/Rules) in the past 12 months.
