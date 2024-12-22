@@ -40,7 +40,7 @@ Les séries de parties sont affichées sur le profil du joueur avec différentes
 
 ## Contributeurs
 
-Le projet est organisé par ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). Les membres de la communauté suivants sont responsables du choix des beatmaps:
+Le projet est organisé par ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). Les membres de la communauté suivants sont responsables du choix des beatmaps :
 
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
