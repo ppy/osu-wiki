@@ -50,7 +50,7 @@ Como homenaje a las dos primeras temporadas que se publicaron en formato PDF, el
 
 ## Julio
 
-[Una actualización del sitio web](https://osu.ppy.sh/home/changelog/web/2023.725.0) permitió a los usuarios actualizar el país que aparece en sus perfiles, siempre y cuando que no coincida con el país desde el cual han estado iniciando sesión de manera constante durante los últimos 6 meses y que el usuario no estuviera inscrito en ningún torneo en curso. En el pasado, era posible cambiar el país mostrado poniéndose en contacto con el [equipo de soporte de cuentas](/wiki/People/Account_support_team) y proporcionando una prueba de residencia, pero esta opción se dejó de ofrecer a partir de diciembre de 2021 debido a la transmisión de datos sensibles, así como a los frecuentes casos de abuso.[^flag-pr][^flag-issue][^flag-news]
+[Una actualización del sitio web](https://osu.ppy.sh/home/changelog/web/2023.725.0) permitió a los usuarios actualizar el país que aparece en sus perfiles, siempre y cuando no coincidiera con el país desde el cual hayan estado iniciando sesión de manera constante durante los últimos 6 meses y que el usuario no estuviera inscrito en ningún torneo en curso. En el pasado, era posible cambiar el país mostrado poniéndose en contacto con el [equipo de soporte de cuentas](/wiki/People/Account_support_team) y proporcionando una prueba de residencia, pero esta opción se dejó de ofrecer a partir de diciembre de 2021 debido a la transmisión de datos sensibles, así como a los frecuentes casos de abuso.[^flag-pr][^flag-issue][^flag-news]
 
 ## Agosto
 
@@ -77,7 +77,7 @@ Paralelamente a la última actualización de este año, el osu! team quería que
 
 El [Winter Fanart Contest](https://osu.ppy.sh/home/news/2023-11-07-winter-fanart-contest) de 2023 se desarrolló bajo un tema donde «las mascotas de osu! estén disfrutando de un festín navideño». Debido a este amplio tema, los participantes tuvieron mucha libertad y creatividad para los diseños. Todos los finalistas obtuvieron tres meses de osu!supporter, mientras que los 3 ganadores recibieron una [insignia de perfil](/wiki/Community/Profile_badge) personalizada además de todo esto.[^winter-fanart]
 
-Al igual que en otros [canales de lanzamiento](/wiki/Client/Release_stream), el número de usuarios en osu!(lazer) se puede consultar en el sitio web.[^lazer-user-count]
+Al igual que en otros [canales de lanzamiento](/wiki/Client/Release_stream), el número de usuarios en osu!(lazer) se hizo visible en el sitio web.[^lazer-user-count]
 
 ## Referencias
 
@@ -106,7 +106,7 @@ Al igual que en otros [canales de lanzamiento](/wiki/Client/Release_stream), el 
 [^news-content-2]: [Hilo de Reddit por u/EDMSerbia (31/5/2023) «What content do you want to see in the news section on the osu! website?»](https://www.reddit.com/r/osugame/comments/13wpu7g/what_content_do_you_want_to_see_in_the_news/)
 
 [^flag-pr]: [Solicitud de cambios por nanaya (21/7/2023) «Allow changing country from account settings»](https://github.com/ppy/osu-web/pull/10398)
-[^flag-issue]: [Problema abierto por peppy (18/7/2023) «Add support for user initiated flag changes»](https://github.com/ppy/osu-web/issues/10382)
+[^flag-issue]: [Problema abierto por peppy en GitHub (18/7/2023) «Add support for user initiated flag changes»](https://github.com/ppy/osu-web/issues/10382)
 [^flag-news]: [Publicación de noticia por Blushing y Walavouchey (28/7/2023) «Enabling Country Flag Changes»](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes)
 
 [^icons-of-an-era]: [Publicación de noticia por RockRoller (10/8/2023) «Skinning Contest: Icons of an Era - Results»](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results)
