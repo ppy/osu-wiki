@@ -14,7 +14,7 @@ In order to smoothen out the voting process, we present to you a sequence of all
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/contests/226/winter2024-voting.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
