@@ -42,8 +42,8 @@ You can check out [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435)'s brillia
 | Registration phase | Dec 22, 2024–Jan 12, 2025 (23:59 UTC) |
 | Qualifier showcase | Jan 19 (12:00 UTC) |
 | Qualifier stage | Jan 20–Jan 28 |
-| Group stage Week 1 | Jan 28–Feb 9 |
-| Group stage Week 2 | Feb 14–Feb 16 |
+| Group stage week 1 | Jan 28–Feb 9 |
+| Group stage week 2 | Feb 14–Feb 16 |
 | Round of 32 | Feb 21–Feb 23 |
 | Round of 16 | Feb 28–Mar 2 |
 | Quarterfinals | Mar 7–Mar 9 |
