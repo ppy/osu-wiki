@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Touhou Project Mania Cup 4th: Registrations Now Open!"
-date: 2024-12-22 00:00:00 +0000
+date: 2024-12-23 11:00:00 +0000
 ---
 
-![](/wiki/Tournaments/TMC/4th/image/banner@2x.png)
-
 With the celebration of the Touhou Project's 30th birthday, the Touhou Project Mania Cup is returning for its 4th iteration, bringing tons of improvement in competitiveness and player enjoyment!
+
+![](/wiki/Tournaments/TMC/4th/image/banner@2x.png)
 
 The [Touhou Project Mania Cup 4th](https://osu.ppy.sh/community/forums/topics/2015815), or THMC 4 for short, is a team-based osu!mania 4K tournament exclusively featuring Touhou-related songs. This tournament aims to provide top-tier competition to the tournament scene.
 
