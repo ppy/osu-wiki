@@ -146,7 +146,7 @@ Apabila kamu sudah pernah membeli (atau dihadiahkan) [tag supporter](https://osu
 
 Setelahnya, kamu akan dapat membeli [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) untuk mengubah nama penggunamu lebih lanjut kapan pun yang kamu mau. Meskipun demikian, setiap perubahan yang kamu beli akan menjadi semakin mahal seiring waktunya — perubahan kedua kamu akan dikenakan biaya $8 USD, perubahan ketiga $16 USD, dan seterusnya hingga batasan $100 USD. Kami menerapkan hal ini demi mencegah orang-orang menyalahgunakan sistem ini untuk mengubah nama pengguna mereka secara terus-menerus dengan cepat.
 
-Mohon diperhatikan bahwa seluruh nama pengguna yang dipilih harus tunduk terhadap [peraturan komunitas](/wiki/Rules#community-rules), dalam artian nama ini tidak boleh bersifat menyinggung, provokatif, atau menghasut pengguna lain dalam maksud apa pun. Di samping itu, nama pengguna yang meniru atau menggunakan identitas tokoh publik terkemuka (seperti artis, politisi, dll.) juga tidak diizinkan dan akan digulirkan balik secara paksa pada saat kami menemukan nama ini.
+Mohon diperhatikan bahwa seluruh nama pengguna yang dipilih harus tunduk terhadap [peraturan komunitas](/wiki/Rules#peraturan-komunitas), dalam artian nama ini tidak boleh bersifat menyinggung, provokatif, atau menghasut pengguna lain dalam maksud apa pun. Di samping itu, nama pengguna yang meniru atau menggunakan identitas tokoh publik terkemuka (seperti artis, politisi, dll.) juga tidak diizinkan dan akan digulirkan balik secara paksa pada saat kami menemukan nama ini.
 
 Apabila kamu hanya ingin sedikit mengubah penggunaan huruf kapital atau tata bahasa/ejaan pada namamu, kamu dapat mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta perubahan ini secara cuma-cuma. Kami tidak akan menagihmu untuk perubahan nama yang demikian, namun kamu **HARUS** meminta perubahan ini melalui email dukungan. Mohon diperhatikan bahwa kami hanya akan mengabulkan permintaan ini hingga beberapa kali, jadi pastikan kamu benar-benar menginginkan perubahan ini!
 
@@ -208,16 +208,16 @@ Apabila kamu saat ini memiliki lebih dari satu akun, silakan hubungi [accounts@p
 
 **Tidak untuk saat ini.**
 
-Kami saat ini tengah mempertimbangkan pembelian pengaturan ulang skor ("'_score reset_") bagi para pemain garis keras yang benar-benar hanya mengincar kesempurnaan, namun untuk saat ini, kami tidak dapat menghapus statistik akunmu.
+Kami saat ini tengah mempertimbangkan pembelian pengaturan ulang skor ("'*score reset*") bagi para pemain garis keras yang benar-benar hanya mengincar kesempurnaan, namun untuk saat ini, kami tidak dapat menghapus statistik akunmu.
 
-Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini! Memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#community-rules), dan kami tidak akan segan untuk menonaktifkan akun baru mana pun yang ditemukan oleh tim kami.
+Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini! Memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas), dan kami tidak akan segan untuk menonaktifkan akun baru mana pun yang ditemukan oleh tim kami.
 
 ### Apakah saya dapat menghapus akun saya? {id=account-deletion}
 
-_Untuk informasi lebih lanjut seputar penghapusan akun, lihat: [Kebijakan privasi osu! § Hak dan kendali Anda](/wiki/Legal/Privacy#your-rights-and-control)._\
-_Catatan: Penghapusan akun bersifat permanen dan tidak dapat diurungkan!_
+*Untuk informasi lebih lanjut seputar penghapusan akun, lihat: [Kebijakan privasi osu! § Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*\
+*Catatan: Penghapusan akun bersifat permanen dan tidak dapat diurungkan!*
 
-Ya, setiap pengguna dapat meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, segala sesuatunya tidak akan dapat dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu dapat membuat akun baru, karena memliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#community-rules). Dengan menghapus akunmu, kamu tidak akan lagi dapat menggunakan fitur *online* osu! mana pun juga.
+Ya, setiap pengguna dapat meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, segala sesuatunya tidak akan dapat dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu dapat membuat akun baru, karena memliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas). Dengan menghapus akunmu, kamu tidak akan lagi dapat menggunakan fitur *online* osu! mana pun juga.
 
 ### Saya tidak lagi ingin bermain, namun saya tidak ingin akun saya dihapus! {id=account-lock}
 
@@ -246,4 +246,3 @@ Apabila kamu bermain dari fasilitas umum, pastikan kamu menjaga keamanan akunmu 
 **Apabila kamu memiliki tag supporter yang aktif**, kamu dapat melihat seluruh map yang memiliki skormu dengan mengunjungi [halaman daftar beatmap](https://osu.ppy.sh/beatmapsets), mengeklik `Pilihan Pencarian Lebih Lanjut`, dan lalu memilih filter `Riwayat Permainan`. Sebagai alternatif, kamu dapat mengakses filter ini secara langsung dengan [mengeklik tautan ini](https://osu.ppy.sh/beatmapsets?played=played).
 
 Sayangnya, kami tidak mencatat beatmap mana saja yang pernah diunduh oleh pengguna. Sekurang-kurangnya, kamu dapat memanfaatkan filter di atas untuk memulihkan beatmap yang pernah kamu mainkan.
-
