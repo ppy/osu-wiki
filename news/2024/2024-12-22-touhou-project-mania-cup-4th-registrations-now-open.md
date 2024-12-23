@@ -10,7 +10,7 @@ With the celebration of the Touhou Project's 30th birthday, the Touhou Project M
 
 The [Touhou Project Mania Cup 4th](https://osu.ppy.sh/community/forums/topics/2015815), or THMC 4 for short, is a team-based osu!mania 4K tournament exclusively featuring Touhou-related songs. This tournament aims to provide top-tier competition to the tournament scene.
 
-We've had 80 teams [last year](/wiki/Tournaments/TMC/3rd), where team **Bloxy cola** reached the top with an undefeated performance. [This year](/wiki/Tournaments/TMC/4th), with more teams joining the competition, which team will rise to the challenge and become the best? 
+We've had 80 teams [last year](/wiki/Tournaments/TMC/3rd), where team **Bloxy cola** reached the top with an undefeated performance. [This year](/wiki/Tournaments/TMC/4th), with more teams joining the competition, which team will rise to the challenge and become the best?
 
 ## What's new
 
@@ -31,8 +31,8 @@ With nearly **50 custom mappers** contributing, this year we are bringing you ma
 
 You can check out [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435)'s brilliant Grand Finals custom tiebreaker song from last year as an example:
 
-<div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="//player.bilibili.com/player.html?isOutside=true&aid=487714748&bvid=BV1sN411D7RV&cid=1176362169&p=1" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3KT_CUK4qA8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Tournament schedule
