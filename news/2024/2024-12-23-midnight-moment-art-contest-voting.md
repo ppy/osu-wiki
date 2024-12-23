@@ -4,13 +4,13 @@ title: "Midnight Moment Art Contest: Voting Open"
 date: 2024-12-23 18:00:00 +0000
 ---
 
-Let's spend the last moments of this year together to crown the legendary finalists of the **Midnight Moment Art Contest**!
+This is *your moment* to decide which new winter artworks shall welcome the latter half of the decade.
 
 ![](/wiki/shared/news/2024-12-03-midnight-moment-art-contest/banner.jpg)
 
-Equipped with a total of **15** votes, you only have the last week of 2024 to decide the fate of **130** entries!
+A total of **130** entrants gathered to depict the osu! cast in wintery scenarios, and your next task is to decide their fate during the next week. However, you only get **15** votes to do so.
 
-In order to smoothen out the voting process, we present to you a sequence of all the entries set to the tune of [**kanemiko - Twilight of the Abyss**](https://soundcloud.com/kanemiko/twilight-of-the-abyss) from the [**TEST Open**](https://osu.ppy.sh/beatmaps/artists/420) tournament:
+In order provide the most cozy experience while you peruse the voting page, we present to you a sequence of all the entries set to the tune of [**kanemiko - Twilight of the Abyss**](https://soundcloud.com/kanemiko/twilight-of-the-abyss) from the [**TEST Open**](https://osu.ppy.sh/beatmaps/artists/420) tournament:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ For a refresher, here's the roster of the rewards for this contest:
 - The top 3 will receive bespoke **profile badges** made from their own creations.
 - The top 3 will also be featured as [**limited-time default profile banners**](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations), with the ones from last round rotating out.
 
-Eternal thanks to all participants who've put valuable time and effort into creating and submitting an entry — you're the lifeblood of this contest, and all art enjoyers in our community are eternally grateful!
+Eternal thanks to all participants who've put valuable time and effort into creating and submitting an entry — without you, there would be no contest!
 
 That's all for now, time to lock in your votes!
 
