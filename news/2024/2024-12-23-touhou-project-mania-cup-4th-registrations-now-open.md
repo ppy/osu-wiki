@@ -59,7 +59,7 @@ In order to participate in this tournament, you must make sure that...
 - Your team consists of 2–4 players.
 - All team members have not been violating the [osu! community rules](/wiki/Rules) in the past 12 months.
 
-Also join our [Discord server](https://discord.gg/cAr5VHG7WX) and follow our [Liquipedia](https://liquipedia.net/osu/Touhou_Project_Mania_Cup/4) or [osu! wiki](/wiki/Tournaments/TMC/4th) page to track the latest info. If you haven't found enough players yet, feel free to use the `#looking-for-team` channel to find a new member and begin your Touhou adventure!
+Also join our [Discord server](https://discord.com/invite/cAr5VHG7WX) and follow our [Liquipedia](https://liquipedia.net/osu/Touhou_Project_Mania_Cup/4) or [osu! wiki](/wiki/Tournaments/TMC/4th) page to track the latest info. If you haven't found enough players yet, feel free to use the `#looking-for-team` channel to find a new member and begin your Touhou adventure!
 
 Hope to see you joining us, whether you're a player or spectator!
 
