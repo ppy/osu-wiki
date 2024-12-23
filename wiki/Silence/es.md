@@ -5,7 +5,7 @@
 ## Limitaciones
 
 ::: Infobox
-![](img/silence-profile-ES.png "Registro del silencio en la página de perfil")
+![](img/silence-profile-ES.png "Registro de un silencio en la página de perfil")
 :::
 
 Un usuario que tiene un silencio activo no puede hacer lo siguiente:
