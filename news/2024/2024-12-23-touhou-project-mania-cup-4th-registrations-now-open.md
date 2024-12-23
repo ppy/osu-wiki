@@ -19,7 +19,7 @@ We've had 80 teams [last year](/wiki/Tournaments/TMC/3rd), where team **Bloxy co
   - If there are 70-140 teams playing the Qualifier, the Group Stage will use the split [double-elimination format](/wiki/Tournaments/TMC/4th#Group-Stage-&-Playoffs), featuring 16 groups of 4 teams each. This means that we will have **64 teams** in the main event.
   - More large-scale announcements will be made if more than 140 teams played the Qualifier!
 
-![Group format](/wiki/Tournaments/TMC/4th/image/group-stage-bracket.png)
+![Group format](/wiki/Tournaments/TMC/4th/img/group-stage-bracket.jpg)
 
   - **Each team will have 2 bans for matches played using the group stage mappools**, providing extra strategic options throughout the different weeks.
 - **A special series of "X" picks will apply for RC and LN slots**, giving players more options to pick harder charts.
