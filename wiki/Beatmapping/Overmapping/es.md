@@ -12,4 +12,4 @@ Esto se hace principalmente mediante la asignación a sonidos inaudibles o inexi
 
 ![Un ejemplo de overmapping por una velocidad muy alta de los sliders](img/overmap-slider.gif "Un ejemplo de overmapping por una velocidad muy alta de los sliders")
 
-Si bien el overmapping en sí no suele recomendarse, hay contextos en los que la técnica es aceptable, como cuando el ritmo añadido [encaja con la canción y crea un énfasis que beneficia la calidad del mapa](https://osu.ppy.sh/community/forums/posts/7791118).
+Si bien el overmapping en sí no suele recomendarse, hay contextos en los que la técnica es aceptable, como cuando el ritmo añadido [encaja con la canción y crea un énfasis que beneficia a la calidad del mapa](https://osu.ppy.sh/community/forums/posts/7791118).
