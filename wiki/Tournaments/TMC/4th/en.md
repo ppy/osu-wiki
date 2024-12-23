@@ -8,7 +8,7 @@ tags:
 
 # Touhou Project Mania Cup 4th
 
-![Touhou Project Mania Cup 4th banner](img/banner@2x.png)
+![Touhou Project Mania Cup 4th banner](img/banner@2x.jpg)
 
 The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament is the *Touhou Project*. The pool used for THMC 4th is 100% based on original and fan-made *Touhou* music. It is the fourth instalment of the Touhou Project Mania Cup.
 
