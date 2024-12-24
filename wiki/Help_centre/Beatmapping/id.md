@@ -26,7 +26,7 @@ Bagian pusat bantuan ini dikhususkan untuk berbagai masalah yang berhubungan den
 
 Untuk mengunggah beatmap milikmu, buka editor dan tuju `File` > `Upload Beatmap`.
 
-Hal ini akan membuat beatmap kamu dapat diunduh oleh pengguna lainnya pada situs web osu!. Untuk memperbarui beatmap yang telah diunggah, lakukan proses ini kembali.
+Hal ini akan menjadikan beatmap kamu tersedia untuk diunduh oleh pengguna lain melalui situs web osu!. Untuk memperbarui beatmap yang telah diunggah, ikuti langkah-langkah yang sama.
 
 Setiap pengguna memiliki batas jumlah beatmap yang dapat diunggah dalam satu waktu. Dengan tidak memperbarui beatmap selama satu bulan (28 hari), beatmap ini akan menjadi tidak aktif dan terkubur di dalam [Beatmap Graveyard](/wiki/Beatmap/Category#graveyard). Untuk mengembalikan beatmap dari Graveyard kembali ke Pending atau WIP, perbarui beatmap ini.
 
