@@ -1,4 +1,6 @@
 ---
+needs_cleanup: true # the paragraphs aren't written in the neutral tone you'd expect from the wiki. not sure about the format for "list of mods". info under "customise" is wrong. merging this anyway because it's in a massive / inconvenient PR and a stub anyway, but let's amend this soon -clayton
+stub: true
 tags:
   - mod
   - game modifier
