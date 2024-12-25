@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 0.50x |
 | Status | Unranked |
-| Incompatible mods | Autoplay (AT), Cinema (CN), Relax (RX), Autopilot (AP), Transform (TR), Wiggle (WG), Repel (RP), Bubbles (BU), Depth (DP) |
+| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 

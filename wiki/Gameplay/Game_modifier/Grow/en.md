@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods | [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), Traceable (TC), Approach Different (AD), Depth (DP) |
+| Incompatible mods | [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 

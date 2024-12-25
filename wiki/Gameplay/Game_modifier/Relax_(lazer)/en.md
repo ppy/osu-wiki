@@ -26,7 +26,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] |
 | Score multiplier | 0.10x |
 | Status | Unranked |
-| Incompatible mods | Autoplay (AT), Cinema (CN), Autopilot (AP), Alternate (AL), Single Tap (SG), Magnetised (MG) |
+| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) |
 
 :::
 

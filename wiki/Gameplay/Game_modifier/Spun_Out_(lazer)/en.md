@@ -25,7 +25,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 0.90x |
 | Status | Ranked |
-| Incompatible mods | Autoplay (AT), Cinema (CN), Autopilot (AP), Target Practice (TP) |
+| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 
 :::
 

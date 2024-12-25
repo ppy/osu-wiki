@@ -28,8 +28,8 @@ tags:
 | Score multiplier ![][osu!mania] | 1.00x |
 | Status ![][osu!] ![][osu!taiko] ![][osu!catch] | Ranked |
 | Status ![][osu!mania] | Unranked |
-| Incompatible mods ![][osu!] | Easy (EZ), Difficulty Adjust (DA), Mirror (MR) |
-| Incompatible mods ![][osu!taiko] ![][osu!catch] ![][osu!mania] | Easy (EZ), Difficulty Adjust (DA) |
+| Incompatible mods ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) |
+| Incompatible mods ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 
 :::
 

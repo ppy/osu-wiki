@@ -29,7 +29,7 @@ tags:
 | Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.06x |
 | Score multiplier ![][osu!mania] | 1.00x |
 | Status | Ranked |
-| Incompatible mods | Fade In (FI), Cover (CO), Flashlight (FL), Spin In (SI), Traceable (TC), Approach Different (AD), Depth (DP) |
+| Incompatible mods | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 

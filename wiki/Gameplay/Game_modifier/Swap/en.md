@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!taiko] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods | Random (RD) |
+| Incompatible mods | [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) |
 
 :::
 

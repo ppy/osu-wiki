@@ -26,7 +26,7 @@ tags:
 | Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.10x\* <!-- TODO --> |
 | Score multiplier ![][osu!mania] | 1.00x |
 | Status | Ranked |
-| Incompatible mods | Half Time (HT), Daycore (DC), Nightcore (NC), Adaptive Speed (AS), Wind Up (WU), Wind Down (WD) |
+| Incompatible mods | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
 :::
 

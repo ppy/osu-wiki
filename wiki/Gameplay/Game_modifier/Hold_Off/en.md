@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!mania] |
 | Score multiplier | 0.90x |
 | Status | Unranked |
-| Incompatible mods | No Release (NR), Invert (IN) |
+| Incompatible mods | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release), [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) |
 
 :::
 

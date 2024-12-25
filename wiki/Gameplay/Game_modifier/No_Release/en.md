@@ -24,7 +24,7 @@ tags:
 | Game modes | ![][osu!mania] |
 | Score multiplier | 0.90x |
 | Status | Unranked |
-| Incompatible mods | Hold Off (HO) |
+| Incompatible mods | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 
 :::
 

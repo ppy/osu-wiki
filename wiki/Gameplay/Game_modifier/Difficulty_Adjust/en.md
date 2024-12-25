@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 0.50x |
 | Status | Unranked |
-| Incompatible mods | Easy (EZ), Hard Rock (HR) |
+| Incompatible mods | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
 
 :::
 

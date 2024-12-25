@@ -25,7 +25,7 @@ tags:
 | Game modes | ![][osu!mania] |
 | Score multiplier | 1.00x |
 | Status | Ranked |
-| Incompatible mods | Hidden (HD), Cover (CO), Flashlight (FL) |
+| Incompatible mods | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 

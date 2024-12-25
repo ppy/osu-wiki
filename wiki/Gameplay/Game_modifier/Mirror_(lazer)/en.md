@@ -26,7 +26,7 @@ tags:
 | Score multiplier | 1.00x |
 | Status ![][osu!] ![][osu!catch] | Unranked |
 | Status ![][osu!mania] | Ranked |
-| Incompatible mods ![][osu!] | Hard Rock (HR) |
+| Incompatible mods ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
 | Incompatible mods ![][osu!catch] ![][osu!mania] | None |
 
 :::

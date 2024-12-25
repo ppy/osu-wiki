@@ -25,7 +25,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 0.50x |
 | Status | Ranked |
-| Incompatible mods | Accuracy Challenge (AC), Perfect (PF), Sudden Death (SD), Cinema (CN) |
+| Incompatible mods | [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
 :::
 
