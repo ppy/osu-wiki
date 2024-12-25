@@ -24,8 +24,10 @@ tags:
 | Type | Conversion |
 | Game modes | ![][osu!] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 1.00x |
-| Status | Ranked in ![][osu!mania] / Unranked in ![][osu!] ![][osu!catch] |
-| Incompatible mods (osu!) | Hard Rock (HR) |
+| Status ![][osu!] ![][osu!catch] | Unranked |
+| Status ![][osu!mania] | Ranked |
+| Incompatible mods ![][osu!] | Hard Rock (HR) |
+| Incompatible mods ![][osu!catch] ![][osu!mania] | None |
 
 :::
 

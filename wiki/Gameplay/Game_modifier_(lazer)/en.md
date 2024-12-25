@@ -91,9 +91,9 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 
-### Other
+### System
 
-- [ScoreV2 (SV2)](/wiki/Gameplay/Game_modifier/ScoreV2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
 
 #### Personal Presets

@@ -1,6 +1,7 @@
 ---
 stub: true
 tags:
+  - doubletime
   - DT
 ---
 
@@ -22,7 +23,8 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `F` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 1.10x ![][osu!] ![][osu!taiko] ![][osu!catch] / 1.00x ![][osu!mania] |
+| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.10x\* <!-- TODO --> |
+| Score multiplier ![][osu!mania] | 1.00x |
 | Status | Ranked |
 | Incompatible mods | Half Time (HT), Daycore (DC), Nightcore (NC), Adaptive Speed (AS), Wind Up (WU), Wind Down (WD) |
 

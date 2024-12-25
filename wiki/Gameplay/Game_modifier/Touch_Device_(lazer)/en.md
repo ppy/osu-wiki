@@ -2,6 +2,9 @@
 stub: true
 tags:
   - TD
+  - touch screen
+  - touchdevice
+  - touchscreen
 ---
 
 # Touch Device (lazer mod)
@@ -14,10 +17,12 @@ tags:
 
 ![Touch Device mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TD.png)
 
+*Automatically applied to plays on devices with a touchscreen.*
+
 |  |  |
 | :-- | :-- |
 | Acronym | TD |
-| Type | Other |
+| Type | System |
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Ranked |

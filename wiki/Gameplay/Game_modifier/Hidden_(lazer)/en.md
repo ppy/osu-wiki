@@ -23,9 +23,11 @@ tags:
 | :-- | :-- |
 | Acronym | HD |
 | Type | Difficulty Increase |
-| Default shortcut key | `H` ![][osu!] ![][osu!taiko] ![][osu!catch] / `J` ![][osu!mania] |
+| Default shortcut key ![][osu!] ![][osu!taiko] ![][osu!catch] | `H` |
+| Default shortcut key ![][osu!mania] | `J` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 1.06x ![][osu!] ![][osu!taiko] ![][osu!catch] / 1.00x ![][osu!mania] |
+| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.06x |
+| Score multiplier ![][osu!mania] | 1.00x |
 | Status | Ranked |
 | Incompatible mods | Fade In (FI), Cover (CO), Flashlight (FL), Spin In (SI), Traceable (TC), Approach Different (AD), Depth (DP) |
 

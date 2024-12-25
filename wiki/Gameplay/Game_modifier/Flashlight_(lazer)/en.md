@@ -2,6 +2,7 @@
 stub: true
 tags:
   - FL
+  - flash light
 ---
 
 # Flashlight (lazer mod)
@@ -20,12 +21,14 @@ tags:
 | :-- | :-- |
 | Acronym | FL |
 | Type | Difficulty Increase |
-| Default shortcut key | `J` ![][osu!] ![][osu!taiko] ![][osu!catch] / `L` ![][osu!mania] |
+| Default shortcut key ![][osu!] ![][osu!taiko] ![][osu!catch] | `J` |
+| Default shortcut key ![][osu!mania] | `L` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 1.12x ![][osu!] ![][osu!taiko] ![][osu!catch] / 1.00x ![][osu!mania] |
+| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.12x |
+| Score multiplier ![][osu!mania] | 1.00x |
 | Status | Ranked |
-| Incompatible mods (osu!, osu!taiko, osu!catch) | Fade In (FI), Cover (CO), Blinds (BL) |
-| Incompatible mods (osu!mania) | Fade In (FI), Hidden (HD), Cover (CO), Blinds (BL) |
+| Incompatible mods ![][osu!] ![][osu!taiko] ![][osu!catch] | Fade In (FI), Cover (CO), Blinds (BL) |
+| Incompatible mods ![][osu!mania] | Fade In (FI), Hidden (HD), Cover (CO), Blinds (BL) |
 
 :::
 

@@ -22,7 +22,7 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `R` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 0.30x |
+| Score multiplier | 0.30x\* <!-- TODO --> |
 | Status | Ranked |
 | Incompatible mods | Half Time (HT), Double Time (DT), Nightcore (NC), Adaptive Speed (AS), Wind Up (WU), Wind Down (WD) |
 

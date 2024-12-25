@@ -2,6 +2,7 @@
 stub: true
 tags:
   - AP
+  - auto pilot
 ---
 
 # Autopilot (lazer mod)

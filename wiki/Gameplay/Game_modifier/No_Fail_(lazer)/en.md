@@ -2,6 +2,7 @@
 stub: true
 tags:
   - NF
+  - nofail
 ---
 
 # No Fail (lazer mod)

@@ -1,6 +1,7 @@
 ---
 stub: true
 tags:
+  - hardrock
   - HR
 ---
 
@@ -22,10 +23,13 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `A` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 1.12x ![][osu!catch] / 1.06x ![][osu!] ![][osu!taiko] / 1.00x ![][osu!mania] |
-| Status | Ranked in ![][osu!] ![][osu!taiko] ![][osu!catch] / Unranked in ![][osu!mania] |
-| Incompatible mods (osu!) | Easy (EZ), Difficulty Adjust (DA), Mirror (MR) |
-| Incompatible mods (osu!taiko, osu!catch, osu!mania) | Easy (EZ), Difficulty Adjust (DA) |
+| Score multiplier ![][osu!] ![][osu!taiko] | 1.06x |
+| Score multiplier ![][osu!catch] | 1.12x |
+| Score multiplier ![][osu!mania] | 1.00x |
+| Status ![][osu!] ![][osu!taiko] ![][osu!catch] | Ranked |
+| Status ![][osu!mania] | Unranked |
+| Incompatible mods ![][osu!] | Easy (EZ), Difficulty Adjust (DA), Mirror (MR) |
+| Incompatible mods ![][osu!taiko] ![][osu!catch] ![][osu!mania] | Easy (EZ), Difficulty Adjust (DA) |
 
 :::
 

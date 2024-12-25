@@ -2,6 +2,7 @@
 stub: true
 tags:
   - SO
+  - spunout
 ---
 
 # Spun Out (lazer mod)

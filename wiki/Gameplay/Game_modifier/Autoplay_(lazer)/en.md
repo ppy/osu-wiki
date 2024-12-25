@@ -2,6 +2,8 @@
 stub: true
 tags:
   - AT
+  - auto
+  - auto play
 ---
 
 # Autoplay (lazer mod)

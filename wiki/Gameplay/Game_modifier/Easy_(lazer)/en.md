@@ -27,8 +27,8 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 0.50x |
 | Status | Ranked |
-| Incompatible mods (osu!, osu!catch, osu!mania) | Hard Rock (HR), Accuracy Challenge (AC), Difficulty Adjust (DA) |
-| Incompatible mods (osu!taiko) | Hard Rock (HR), Difficulty Adjust (DA) |
+| Incompatible mods ![][osu!] ![][osu!catch] ![][osu!mania] | Hard Rock (HR), Accuracy Challenge (AC), Difficulty Adjust (DA) |
+| Incompatible mods ![][osu!taiko] | Hard Rock (HR), Difficulty Adjust (DA) |
 
 :::
 

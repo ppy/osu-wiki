@@ -2,6 +2,7 @@
 stub: true
 tags:
   - SD
+  - suddendeath
 ---
 
 # Sudden Death (lazer mod)

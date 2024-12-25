@@ -1,6 +1,7 @@
 ---
 stub: true
 tags:
+  - fadein
   - FI
 ---
 

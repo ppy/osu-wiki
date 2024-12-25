@@ -34,7 +34,8 @@ tags:
 | Type | Conversion |
 | Game modes | ![][osu!mania] |
 | Score multiplier | 1.00x |
-| Status | Ranked in 4K, 5K, 6K, 7K 8K, 9K / Unranked in 1K, 2K, 3K, 10K |
+| Status (4K–9K) | Ranked |
+| Status (1K–3K, 10K) | Unranked |
 | Incompatible mods | None |
 
 :::

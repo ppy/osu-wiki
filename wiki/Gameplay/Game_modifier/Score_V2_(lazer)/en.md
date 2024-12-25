@@ -1,23 +1,26 @@
 ---
 stub: true
 tags:
+  - ScoreV2
   - SV2
 ---
 
-# ScoreV2 (lazer mod)
+# Score V2 (lazer mod)
 
 ::: Infobox
 
 <!-- lint ignore heading-increment -->
 
-#### ScoreV2
+#### Score V2
 
-![Touch Device mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SV2.png)
+![Score V2 mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SV2.png)
+
+*Score set on earlier osu! versions with the V2 scoring algorithm active.*
 
 |  |  |
 | :-- | :-- |
 | Acronym | SV2 |
-| Type | Other |
+| Type | System |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
