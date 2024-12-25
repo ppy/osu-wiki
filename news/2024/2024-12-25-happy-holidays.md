@@ -40,7 +40,7 @@ If your holiday schedule includes mapping but you're a bit short on fitting musi
 
 You might remember [last year's batch of new medals](https://osu.ppy.sh/home/news/2023-12-24-new-year-2024-countdown-medals) (and [the singular one for Valentine's Day](https://osu.ppy.sh/home/news/2024-02-14-project-loved-february-2024)). It's been too long (and it won't be that long in the future).
 
-In order to make up for the long hiatus, we're dropping a fresh batch of medals totalling **14** of them for you to collect! Featuring **9** [Hush-Hush](https://osu.ppy.sh/wiki/en/Medals#hush-hush) medals, **3** new [Daily Challenge](/wiki/Gameplay/Daily_challenge) milestone medals, and **2** new [Mod Introduction](/wiki/Medals#mod-introduction) medals, you'll sure have plenty to do over the holidays!
+In order to make up for the long hiatus, we're dropping a fresh batch of medals totalling **14** of them for you to collect! Featuring **9** [Hush-Hush](/wiki/Medals#hush-hush) medals, **3** new [Daily Challenge](/wiki/Gameplay/Daily_challenge) milestone medals, and **2** new [Mod Introduction](/wiki/Medals#mod-introduction) medals, you'll sure have plenty to do over the holidays!
 
 In case you've never checked these out these trinkets before, they're collectibles that unlock after clearing a certain task. You'll find instructions on how to unlock these medals by hovering over them on your profile page. For the purple ones, there will only be hints to the actual solutions, but we encourage you to work together with friends to find them!
 
