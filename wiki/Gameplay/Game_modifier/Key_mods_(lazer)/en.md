@@ -24,13 +24,13 @@ tags:
 
 #### 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K
 
-![1K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/1K.png) ![2K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/2K.png) ![3K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/3K.png) ![4K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/4K.png) ![5K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/5K.png) ![6K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/6K.png) ![7K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png) ![8K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/8K.png) ![9K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/9K.png) ![10K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/10K.png)
+![7K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png)
 
-*Play with x keys.*
+*Play with [key count] keys.*
 
 |  |  |
 | :-- | :-- |
-| Acronym | xK |
+| Acronym | [key count]K |
 | Type | Conversion |
 | Game modes | ![][osu!mania] |
 | Score multiplier | 1.00x |
