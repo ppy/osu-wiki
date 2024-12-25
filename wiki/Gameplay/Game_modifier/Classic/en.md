@@ -30,9 +30,15 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Classic** mod simply brings back the mechanics from stable in osu!(lazer). All scores set on stable will have the mod enable on them, which means that all stable scores have a score multiplier of 0.96x.
+The **Classic** mod emulates gameplay mechanics from osu!stable that have since changed.
+
+<!-- TODO probably more detail above -->
+
+When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!stable have this mod enabled with default settings. The mod's unranked status does not affect the scores in this case.
 
 <!-- TODO settings -->
+
+<!-- explanation of why this is unranked could be interesting to write about here -clayton -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
