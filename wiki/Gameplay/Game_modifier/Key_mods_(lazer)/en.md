@@ -26,11 +26,11 @@ tags:
 
 ![7K mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png)
 
-*Play with [key count] keys.*
+*Play with \[key count\] keys.*
 
 |  |  |
 | :-- | :-- |
-| Acronym | [key count]K |
+| Acronym | \[key count\]K |
 | Type | Conversion |
 | Game modes | ![][osu!mania] |
 | Score multiplier | 1.00x |
