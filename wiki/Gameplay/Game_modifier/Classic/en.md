@@ -4,7 +4,7 @@ tags:
   - CL
 ---
 
-# Classic (lazer mod)
+# Classic (mod)
 
 ::: Infobox
 
@@ -30,6 +30,8 @@ tags:
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 The **Classic** mod simply brings back the mechanics from stable in osu!(lazer). All scores set on stable will have the mod enable on them, which means that all stable scores have a score multiplier of 0.96x.
+
+<!-- TODO settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

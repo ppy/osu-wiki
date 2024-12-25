@@ -3,7 +3,7 @@ tags:
   - MU
 ---
 
-# Muted (lazer mod)
+# Muted (mod)
 
 ::: Infobox
 

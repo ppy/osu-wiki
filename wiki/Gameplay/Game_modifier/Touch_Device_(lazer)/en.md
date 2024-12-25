@@ -27,4 +27,8 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
+<!-- TODO note that this is in stable too but doesn't have a wiki article -->
+
+<!-- TODO description and settings -->
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"

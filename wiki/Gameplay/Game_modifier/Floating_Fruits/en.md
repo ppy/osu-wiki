@@ -4,7 +4,7 @@ tags:
   - FF
 ---
 
-# Floating Fruits (lazer mod)
+# Floating Fruits (mod)
 
 ::: Infobox
 
@@ -28,5 +28,7 @@ tags:
 :::
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

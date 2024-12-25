@@ -4,7 +4,7 @@ tags:
   - SG
 ---
 
-# Single Tap (lazer mod)
+# Single Tap (mod)
 
 ::: Infobox
 
@@ -29,6 +29,8 @@ tags:
 :::
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

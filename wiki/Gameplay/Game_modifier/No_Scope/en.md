@@ -4,7 +4,7 @@ tags:
   - NS
 ---
 
-# No Scope (lazer mod)
+# No Scope (mod)
 
 ::: Infobox
 

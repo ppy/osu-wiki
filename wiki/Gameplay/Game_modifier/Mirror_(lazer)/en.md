@@ -32,6 +32,8 @@ tags:
 *For the osu!stable version of this article, see: [Mirror (mod)](/wiki/Gameplay/Game_modifier/Mirror)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
+<!-- TODO description and settings -->
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
