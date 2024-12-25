@@ -42,7 +42,7 @@ You might remember [last year's batch of new medals](https://osu.ppy.sh/home/new
 
 In order to make up for the long hiatus, we're dropping a fresh batch of medals totalling **14** of them for you to collect! Featuring **9** [Hush-Hush](/wiki/Medals#hush-hush) medals, **3** new [Daily Challenge](/wiki/Gameplay/Daily_challenge) milestone medals, and **2** new [Mod Introduction](/wiki/Medals#mod-introduction) medals, you'll sure have plenty to do over the holidays!
 
-In case you've never checked these out these trinkets before, they're collectibles that unlock after clearing a certain task. You'll find instructions on how to unlock these medals by hovering over them on your profile page. For the purple ones, there will only be hints to the actual solutions, but we encourage you to work together with friends to find them!
+In case you've never checked these trinkets before, they're collectibles that unlock after clearing a certain task. You'll find instructions on how to unlock these medals by hovering over them on your profile page. For the purple ones, there will only be hints to the actual solutions, but we encourage you to work together with friends to find them!
 
 With the aging infrastructure of the osu!(stable) medal system, we've decided to make some medals that are **exclusive to osu!(lazer)**, where there's a ton more room to make them more interesting, be it with the bigger set of mods, support for other gameplay areas like multiplayer, or any future additions to the game. That said, whenever possible, new medals will still be available on both clients.
 
