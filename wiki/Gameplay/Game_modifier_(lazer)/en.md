@@ -66,7 +66,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) ![][osu!mania]
 - [Constant Speed (CS)](/wiki/Gameplay/Game_modifier/Constant_Speed) ![][osu!taiko] ![][osu!mania]
 - [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) ![][osu!mania]
-- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K](/wiki/Gameplay/Game_modifier/xK_(lazer)) ![][osu!mania]
+- [Key mods (1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) ![][osu!mania]
 
 ### Fun
 
@@ -94,7 +94,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 ### Other
 
 - [ScoreV2 (SV2)](/wiki/Gameplay/Game_modifier/ScoreV2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device) ![][osu!]
+- [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
 
 #### Personal Presets
 

@@ -24,7 +24,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.12x |
 | Status | Ranked |
-| Incompatible mods | Flashlight (FL) |
+| Incompatible mods | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 

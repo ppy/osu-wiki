@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods | Bubbles (BU) |
+| Incompatible mods | [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) |
 
 :::
 

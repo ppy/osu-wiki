@@ -24,7 +24,7 @@ tags:
 | Game modes | ![][osu!mania] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods | Fade In (FI), Hidden (HD), Flashlight (FL) |
+| Incompatible mods | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
