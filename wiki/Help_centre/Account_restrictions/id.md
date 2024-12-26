@@ -30,7 +30,7 @@ Apabila akunmu telah dibatasi karena melanggar [aturan](/wiki/Rules), kamu harus
 
 Apabila akun aslimu tidak dibatasi, kamu dapat masuk ke akun ini dan bermain seperti biasa, namun pastikan kamu tidak masuk ke akun lainnya yang kamu buat karena hal ini dapat menambah hukumanmu.
 
-Apabila bandingmu baru saja diterima dan akunmu kembali dibatasi setelah kamu bermain, jangan panik! Sistem otomatis kami mungkin salah menandai akunmu sebagai akun yang mencurigakan, dan pembatasanmu akan kembali diangkat setelah 24 jam. Jangan sungkan untuk mengirimkan email atau menulis tweet kepada kami agar pembatasanmu dapat diangkat secara lebih cepat!
+Apabila bandingmu baru saja diterima dan akunmu kembali dibatasi sesaat setelah kamu bermain, jangan panik! Sistem kami mungkin salah menandai akunmu sebagai akun yang mencurigakan, dan pembatasanmu akan diangkat kembali setelah 24 jam. Jangan sungkan untuk mengirimkan email atau menulis tweet kepada kami agar pembatasanmu dapat diangkat secara lebih cepat!
 
 ## Mengapa akun saya sampai dibatasi? {id=why}
 
