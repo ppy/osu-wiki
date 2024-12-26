@@ -30,7 +30,7 @@ tags:
 *For the osu!stable version of this article, see: [ScoreV2 (mod)](/wiki/Gameplay/Game_modifier/ScoreV2)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Score V2** mod indicates that a score was set on osu!stable and used the [ScoreV2](/wiki/Gameplay/Score#scorev2) gameplay mechanics and scoring algorithm.[^score-v2-ref] Scores with this mod display their original score value, unlike all other osu!stable scores, which are recalculated using a newer scoring algorithm.[^original-score-ref]
+The **Score V2** mod indicates that a score was set on osu!(stable) and used the [ScoreV2](/wiki/Gameplay/Score#scorev2) gameplay mechanics and scoring algorithm.[^score-v2-ref] Scores with this mod display their original score value, unlike all other osu!(stable) scores, which are recalculated using a newer scoring algorithm.[^original-score-ref]
 
 Score V2 cannot be used in osu!(lazer).
 
