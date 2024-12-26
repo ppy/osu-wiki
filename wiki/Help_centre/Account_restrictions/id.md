@@ -117,7 +117,7 @@ Mohon dipahami bahwa mengirim email ke alamat ini hanya akan menjamin bahwa band
 | Alasan pembatasan | Masa tenggang | Catatan banding |
 | :-- | :-- | :-- |
 | Vonis yang keliru | Tidak ada | Apabila pembatasan ini ternyata merupakan sebuah kekeliruan, akun yang ada tidak akan terdampak |
-| Pembuatan multi-akun | Permanen (untuk seluruh akun multi) | Akun utama yang ada tidak akan dibatasi, namun akan tetap terancam untuk di-*silence* |
+| Pembuatan multi-akun | Permanen (untuk seluruh akun multi) | Akun utama tidak akan dibatasi, namun akan tetap terancam untuk di-*silence* |
 | Pembuatan multi-akun yang berlebihan | 3 bulan | Syarat banding berlaku, yang disertai dengan larangan turnamen selama 1 tahun |
 | Berbagi akun | 3 bulan | Syarat banding berlaku, dengan disertai larangan turnamen selama 1 tahun dan pengembalian ulang skor secara parsial |
 | Pelanggaran selanjutnya (untuk pembuatan multi-akun, berbagi akun, dan perilaku yang tidak pantas) | 6 bulan | Syarat banding berlaku, dengan disertai pengembalian ulang skor (apabila dibutuhkan) dan larangan turnamen selama 1 tahun per pelanggarannya |
