@@ -22,7 +22,7 @@ Akun yang dibatasi tidak akan dapat melakukan berbagai tindakan berikut:
 
 Apabila akunmu telah dibatasi, jangan panik. Silakan ikuti langkah-langkah berikut:
 
-- **Tunggu 24 jam.** Terkadang, suatu akun dapat dibatasi karena proses tertentu yang berlangsung secara otomatis. Selagi kami memeriksa bermacam jenis kasus pembatasan baru setiap harinya, silakan tunggu 24 jam — apabila pembatasan kamu merupakan sebuah kekeliruan, pembatasan ini akan diangkat dalam waktu satu hari.
+- **Tunggu 24 jam.** Terkadang, suatu akun dapat dibatasi karena proses tertentu yang berlangsung secara otomatis. Selagi kami memeriksa bermacam kasus pembatasan baru setiap harinya, silakan tunggu 24 jam — apabila pembatasan kamu merupakan sebuah kekeliruan, pembatasan ini akan diangkat dalam waktu satu hari.
 - **Hubungi [tim layanan dukungan](/wiki/People/The_Team/Account_support_team) kami.** Apabila akunmu masih juga dibatasi, silakan kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) **dari alamat email yang terhubung dengan akunmu** untuk meminta rincian lebih lanjut seputar pembatasanmu. Pastikan kamu menyertakan nama penggunamu serta rincian apa pun yang dapat menjelaskan mengapa kamu merasa akunmu sampai dibatasi. Semakin banyak informasi yang kamu berikan kepada kami, semakin mudah pula bagi kami untuk menyelesaikan masalahmu.
 - Apabila kamu benar-benar yakin bahwa pembatasan kamu merupakan sebuah kekeliruan, silakan hubungi kami dengan segera agar masalahmu dapat didiskusikan bersama.
 
@@ -36,10 +36,10 @@ Apabila bandingmu baru saja diterima dan akunmu kembali dibatasi setelah kamu be
 
 Terdapat beberapa alasan mengapa akunmu sampai dibatasi.
 
-- **Akun ini bukan merupakan akun pertamamu.** Membuat lebih dari satu akun (*multi-accounting*) merupakan tindakan yang melanggar peraturan. Seluruh akun milik pengguna yang bukan merupakan akun pertama mereka akan dibatasi secara permanen. Meskipun demikian, akun pertama ini dalam sebagian besar kasus akan tetap dapat diakses demi mendorong pengguna untuk lanjut bermain menggunakan akun ini. Apabila pelanggaran ini sudah sangat parah, akun asli mereka dapat dijatuhi hukuman *silence* sebagai peringatan untuk tidak membuat akun baru, serta akan ikut dibatasi apabila pembuatan multi-akun ini terus berlanjut. Oleh karenanya, apabila akunmu telah dibatasi dan kamu memiliki akun lainnya, mohon untuk tidak mengakses akun yang telah dibatasi dan tetaplah bermain pada akunmu yang asli. Apabila kamu mengalami masalah dalam mengakses atau memverifikasi akun ini, silakan kirimkan email kepada kami di [accounts@ppy.sh](mailto:accounts@ppy.sh) agar kami dapat membantumu memulihkan akses ke akunmu.
-- **Kamu telah mengizinkan orang lain untuk bermain pada akunmu.** Berbagi akun juga tidak dibenarkan oleh peraturan. Apabila kamu mengizinkan orang lain untuk menggunakan akunmu, akun ini akan dibatasi, dan pemain yang menggunakan akunmu juga akan dapat menerima _silence_ pada akun mereka atau bahkan ikut dibatasi. Apabila hal ini terjadi secara tidak sengaja, silakan beri tahu kami sesegera mungkin dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh).
+- **Akun ini bukan merupakan akun pertamamu.** Membuat lebih dari satu akun (*multi-accounting*) merupakan tindakan yang melanggar peraturan. Seluruh akun milik pengguna yang bukan merupakan akun pertama mereka akan dibatasi secara permanen. Meskipun demikian, akun pertama ini dalam sebagian besar kasus akan tetap dapat diakses demi mendorong pengguna untuk lanjut bermain menggunakan akun ini. Apabila pelanggaran ini sudah sangat parah, akun asli mereka dapat dijatuhi hukuman *silence* sebagai peringatan untuk tidak membuat akun baru, serta akan ikut dibatasi apabila pembuatan multi-akun ini terus berlanjut. Oleh karenanya, apabila akunmu telah dibatasi dan kamu memiliki akun lainnya, mohon untuk tidak mengakses akun yang telah dibatasi ini dan tetaplah bermain pada akunmu yang asli. Apabila kamu mengalami masalah dalam mengakses atau memverifikasi akun ini, silakan kirimkan email kepada kami di [accounts@ppy.sh](mailto:accounts@ppy.sh) agar kami dapat membantumu memulihkan akses ke akunmu.
+- **Kamu telah mengizinkan orang lain untuk bermain pada akunmu.** Berbagi akun juga tidak dibenarkan oleh peraturan. Apabila kamu mengizinkan orang lain untuk menggunakan akunmu, akun ini akan dibatasi, dan pemain yang menggunakan akunmu juga akan dapat menerima *silence* pada akun mereka atau bahkan ikut dibatasi. Apabila hal ini terjadi secara tidak sengaja, silakan beri tahu kami sesegera mungkin dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh).
 - **Kamu telah bermain curang.** Menggunakan program pihak ketiga, makro, atau hal apa pun yang memberikan kamu keunggulan yang tidak adil akan membuat akunmu dibatasi dengan segera.
-- **Kasus lainnya.** Tim akun kami berhak untuk menjatuhkan pembatasan atas kasus yang tidak terliput oleh ketiga alasan di atas.
+- **Kasus lainnya.** Tim akun kami berhak untuk menjatuhkan pembatasan terhadap kasus yang tidak terliput oleh ketiga alasan di atas.
 
 Apabila akunmu telah dibatasi dengan alasan yang sahih, kami akan meminta kamu untuk menunggu selama sekian waktu sebelum mengirimkan banding. Waktu tunggu ini disebut juga sebagai *masa tenggang* (*cooldown*), yang lamanya bervariasi tergantung dari pelanggaran yang telah kamu perbuat.
 
@@ -69,7 +69,7 @@ Apabila kami memutuskan untuk mengizinkan kamu kembali, kami akan memerlukan kam
 - **Kamu tidak akan lagi melanggar peraturan.** Hal ini meliputi bermain curang dan berbagi akun.
 - **Kamu tidak akan lagi membuat akun baru, baik itu untuk dirimu atau orang lain.**
 - **Kamu tidak akan lagi mengaitkan dirimu dengan akun lainnya**, termasuk dengan bermain pada komputer yang digunakan secara bersama.
-- **Kamu memahami bahwa pelanggaran berat apa pun yang kamu lakukan ke depannya akan langsung membuat akunmu dibatasi**. Hal ini meliputi _silence_ yang berkepanjangan.
+- **Kamu memahami bahwa pelanggaran berat apa pun yang kamu lakukan ke depannya akan langsung membuat akunmu dibatasi**. Hal ini meliputi *silence* yang berkepanjangan.
 
 Pengguna yang bandingnya dikabulkan sesuai dengan syarat di atas juga akan [dilarang untuk berpartisipasi dalam turnamen resmi dan yang berlencana](/wiki/Help_centre/Tournament_bans), baik sebagai peserta ataupun staf, selama 1 tahun per pelanggarannya (sebagai contoh, apabila kamu berada pada banding keduamu, kamu akan dilarang untuk mengikuti turnamen selama 2 tahun). Email yang kamu terima akan menjelaskan durasi dari larangan ini.
 
@@ -117,12 +117,12 @@ Mohon dipahami bahwa mengirim email ke alamat ini hanya akan menjamin bahwa band
 | Alasan pembatasan | Masa tenggang | Catatan banding |
 | :-- | :-- | :-- |
 | Vonis yang keliru | Tidak ada | Apabila pembatasan ini ternyata merupakan sebuah kekeliruan, akun yang ada tidak akan terdampak |
-| Pembuatan multi-akun  | Permanen (untuk seluruh akun multi) | Akun utama yang ada tidak akan dibatasi, namun akan tetap terancam untuk di-*silence* |
+| Pembuatan multi-akun | Permanen (untuk seluruh akun multi) | Akun utama yang ada tidak akan dibatasi, namun akan tetap terancam untuk di-*silence* |
 | Pembuatan multi-akun yang berlebihan | 3 bulan | Syarat banding berlaku, yang disertai dengan larangan turnamen selama 1 tahun |
 | Berbagi akun | 3 bulan | Syarat banding berlaku, dengan disertai larangan turnamen selama 1 tahun dan pengembalian ulang skor secara parsial |
 | Pelanggaran selanjutnya (untuk pembuatan multi-akun, berbagi akun, dan perilaku yang tidak pantas) | 6 bulan | Syarat banding berlaku, dengan disertai pengembalian ulang skor (apabila dibutuhkan) dan larangan turnamen selama 1 tahun per pelanggarannya |
 | Bermain curang | 6 bulan | Syarat banding berlaku, dengan disertai larangan turnamen selama 1 tahun dan pengembalian ulang seluruh skor |
 | Perilaku tidak pantas yang berlebihan | Bervariasi | Syarat banding berlaku, dengan lama masa tenggang yang akan bergantung pada riwayat akun |
-| Bermain curang/berbagi akun dalam turnamen | 12 bulan  | Syarat banding berlaku, dengan disertai pengembalian ulang skor sebagaimana yang dibutuhkan dan larangan turnamen permanen |
+| Bermain curang/berbagi akun dalam turnamen | 12 bulan | Syarat banding berlaku, dengan disertai pengembalian ulang skor sebagaimana yang dibutuhkan dan larangan turnamen permanen |
 | Pelanggaran selanjutnya (untuk tindak kecurangan) | 12 hingga 24 bulan | Syarat banding berlaku, dengan disertai pengembalian ulang skor dan larangan turnamen selama 1 tahun per pelanggarannya |
 | Perilaku tidak pantas yang sangat keji atau sangat tidak dibenarkan | Tak tentu | Seringnya berlaku permanen tanpa adanya kesempatan untuk mengajukan banding |
