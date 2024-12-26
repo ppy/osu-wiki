@@ -41,23 +41,23 @@ Terdapat beberapa alasan mengapa akunmu sampai dibatasi.
 - **Kamu telah bermain curang.** Menggunakan program pihak ketiga, makro, atau hal apa pun yang memberikan kamu keunggulan yang tidak adil akan membuat akunmu dibatasi dengan segera.
 - **Kasus lainnya.** Tim akun kami berhak untuk menjatuhkan pembatasan terhadap kasus yang tidak terliput oleh ketiga alasan di atas.
 
-Apabila akunmu telah dibatasi dengan alasan yang sahih, kami akan meminta kamu untuk menunggu selama sekian waktu sebelum mengirimkan banding. Waktu tunggu ini disebut juga sebagai *masa tenggang* (*cooldown*), yang lamanya bervariasi tergantung dari pelanggaran yang telah kamu perbuat.
+Apabila akunmu telah dibatasi dengan alasan yang sahih, kami akan meminta kamu untuk menunggu selama sekian waktu sebelum mengirimkan banding. Waktu tunggu ini disebut juga sebagai *masa tenggang* (*cooldown*) yang durasi bervariasi tergantung dari pelanggaran yang telah kamu perbuat.
 
 ## Apa yang harus saya lakukan selama saya berada dalam masa tenggang sebelum mengajukan banding? {id=while-on-cooldown}
 
 - **Tetap bermain seperti biasa!** Pada saat akunmu dibatasi dan kamu sedang berada dalam masa tenggang, kamu sangat diizinkan untuk tetap lanjut bermain sebagaimana adanya (selama kamu hanya bermain pada akun aslimu!). Skor yang kamu peroleh pada saat kamu dibatasi akan tetap dikirim ke server kami, dan kecuali akunmu diputihkan, skor ini akan tetap ada setelah status pembatasanmu diangkat.
-- **Jaga perilaku yang baik.** Kami paham bahwa pembatasan ini dapat membuatmu frustrasi, namun pikirkan hal ini sebagai peluang bagimu untuk rehat dari komunitas. Cobalah untuk menghindari interaksi dengan komunitas selama setidaknya beberapa hari (baik itu melalui Discord, media sosial, atau sarana lainnya) untuk menenangkan diri dan merenungkan tindakan yang telah membuat akunmu dibatasi.
-- **Pastikan kamu patuh terhadap peraturan yang berlaku.** Pembatasan jangka panjang merupakan hukuman karena melanggar peraturan. Apabila kamu terus melanggar pada saat sedang dibatasi, masa tenggang kamu akan diatur ulang ke setidaknya **tiga bulan** setelah tanggal pelanggaran terakhirmu. Hal ini meliputi, misalnya, apabila kamu terus bermain curang (yang akan mengatur ulang masa tenggangmu ke setidaknya enam bulan), mengakses akun milik pengguna lain, atau membuat akun baru untuk menyiasati pembatasan yang ada.
-- **Ikuti arahan tim layanan dukungan kami.** Masa tenggang ini merupakan kesempatan bagimu untuk mundur dan mencerminkan tindakanmu. Apabila kamu berupaya untuk mengirim banding sebelum masa tenggangmu berakhir, email kamu akan diabaikan. Apabila kamu tidak yakin kapan masa tenggangmu berakhir, atau kapan kamu akan diizinkan untuk mengajukan banding, atau pada akun mana kamu harus bermain (dan mengajukan banding), kamu dipersilakan mengirimkan email kepada kami untuk bertanya.
+- **Jaga perilaku yang baik.** Kami paham bahwa pembatasan ini dapat membuatmu frustrasi, namun pikirkan hal ini sebagai peluang bagimu untuk beristirahat dari komunitas. Cobalah untuk menghindari interaksi dengan pengguna lainnya selama setidaknya beberapa hari (baik itu melalui Discord, media sosial, atau sarana lainnya) untuk menenangkan diri dan merenungkan tindakan yang telah membuat akunmu dibatasi.
+- **Pastikan kamu patuh terhadap peraturan yang berlaku.** Pada hakikatnya, pembatasan merupakan hukuman karena melanggar peraturan. Apabila kamu terus melanggar pada saat sedang dibatasi, masa tenggang kamu akan diatur ulang ke setidaknya **tiga bulan** setelah tanggal pelanggaran terakhirmu. Hal ini meliputi, misalnya, apabila kamu terus bermain curang (yang akan mengatur ulang masa tenggangmu ke setidaknya enam bulan), mengakses akun milik pengguna lain, atau membuat akun baru untuk menyiasati pembatasan yang ada.
+- **Ikuti arahan tim layanan dukungan kami.** Masa tenggang ini merupakan kesempatan bagimu untuk menarik diri dan mencerminkan tindakanmu. Apabila kamu berupaya untuk mengirim banding sebelum masa tenggangmu berakhir, email kamu akan diabaikan. Apabila kamu tidak yakin kapan masa tenggangmu berakhir, atau kapan kamu akan diizinkan untuk mengajukan banding, atau pada akun mana kamu harus bermain (dan mengajukan banding), kamu dipersilakan mengirimkan email kepada kami untuk bertanya.
 - **Jangan ragu untuk menghubungi kami apabila kamu memiliki pertanyaan.** Selama kamu tidak mencoba untuk mengakali hukumanmu, kami akan dengan senang hati menjawab segala pertanyaan yang kamu miliki seputar pembatasan akunmu!
 
 ## Masa tenggang saya telah berakhir. Bagaimana cara saya mengajukan banding? {id=appeal}
 
-Kamu dapat mengajukan banding dengan cara mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Pastikan kamu mengirim banding ini dari alamat email yang terhubung dengan akunmu. Setelah kamu mengirimkan bandingmu, berikan waktu satu minggu hingga bandingmu dibalas. Apabila kamu belum menerima balasan apa pun setelah satu minggu, silakan hubungi kami melalui Twitter atau email — ada kemungkinan bandingmu masih belum sampai kepada kami.
+Kamu dapat mengajukan banding dengan cara mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Pastikan kamu mengirim banding ini dari alamat email yang terhubung dengan akunmu. Setelah kamu mengirimkan bandingmu, berikan waktu satu minggu hingga bandingmu dibalas. Apabila kamu belum menerima balasan apa pun setelah satu minggu, silakan hubungi kami melalui Twitter atau email — mungkin saja pesan bandingmu masih belum kami terima.
 
 Pada saat mengajukan banding, kami mengharapkan kamu untuk menjelaskan poin-poin berikut di dalam emailmu:
 
-- **Riwayat akunmu.** Riwayat ini tidak perlu dijelaskan sampai terlalu mendalam, selama kamu mencantumkan seluruh pelanggaran berat yang telah kamu perbuat (multi-akun, berbagi akun, bermain curang, atau *silence* yang berkepanjangan). Kamu tidak perlu untuk mengingat setiap tanggal, setiap *silence* atau setiap akun yang kamu buat, selama kamu jujur dengan apa yang kamu sampaikan. Sertakan juga segala peraturan yang telah kamu langgar selama akunmu dibatasi apabila ada.
+- **Riwayat akunmu.** Riwayat ini tidak perlu dijelaskan sampai terlalu rinci, selama kamu mencantumkan seluruh pelanggaran berat yang telah kamu perbuat (multi-akun, berbagi akun, bermain curang, atau *silence* yang berkepanjangan). Kamu tidak perlu untuk mengingat setiap tanggal, setiap *silence* atau setiap akun yang kamu buat, selama kamu jujur dengan apa yang kamu sampaikan. Sertakan juga segala peraturan yang telah kamu langgar selama akunmu dibatasi apabila ada.
 - **Mengapa kamu sampai melanggar peraturan**. Penjelasan seputar mengapa kamu sampai membuat akun baru, membagikan akunmu, bermain curang, dan lain sebagainya akan membantu kami (dan dirimu) untuk menimbang apakah kamu berisiko untuk kembali berulah ke depannya. Apabila kamu terus melanggar peraturan pada saat sedang dibatasi, kami juga ingin mengetahui alasannya.
 - **Bagaimana kamu memperoleh alat yang kamu gunakan untuk melanggar peraturan.** Hal ini pada umumnya berlaku bagi pelanggaran yang berupa tindak kecurangan — kami ingin tahu alat apa yang kamu gunakan, bagaimana kamu menemukan alat ini, dan apakah alat ini masih terdapat pada komputermu.
 - **Mengapa kami harus mengizinkan kamu untuk kembali.** Sering kalinya, hal ini berhubungan dengan poin kedua di atas. Kami hanya ingin memastikan bahwa kamu tidak akan melanggar apa pun lagi! Mohon dipahami bahwa semakin banyak pelanggaran yang terdapat pada riwayat akunmu, semakin banyak pula penjelasan yang kami harapkan darimu dalam poin ini.
@@ -71,7 +71,7 @@ Apabila kami memutuskan untuk mengizinkan kamu kembali, kami akan memerlukan kam
 - **Kamu tidak akan lagi mengaitkan dirimu dengan akun lainnya**, termasuk dengan bermain pada komputer yang digunakan secara bersama.
 - **Kamu memahami bahwa pelanggaran berat apa pun yang kamu lakukan ke depannya akan langsung membuat akunmu dibatasi**. Hal ini meliputi *silence* yang berkepanjangan.
 
-Pengguna yang bandingnya dikabulkan sesuai dengan syarat di atas juga akan [dilarang untuk berpartisipasi dalam turnamen resmi dan yang berlencana](/wiki/Help_centre/Tournament_bans), baik sebagai peserta ataupun staf, selama 1 tahun per pelanggarannya (sebagai contoh, apabila kamu berada pada banding keduamu, kamu akan dilarang untuk mengikuti turnamen selama 2 tahun). Email yang kamu terima akan menjelaskan durasi dari larangan ini.
+Pengguna yang bandingnya diterima sesuai dengan syarat di atas juga akan [dilarang untuk berpartisipasi dalam turnamen resmi dan yang berlencana](/wiki/Help_centre/Tournament_bans), baik sebagai peserta ataupun staf, selama 1 tahun per pelanggarannya (sebagai contoh, apabila kamu berada pada banding keduamu, kamu akan dilarang untuk mengikuti turnamen selama 2 tahun). Email yang kamu terima akan menjelaskan durasi dari larangan ini.
 
 **Apabila kamu bermain curang atau berbagi akun dalam turnamen resmi atau yang berlencana, kamu akan dilarang untuk mengikuti turnamen untuk jangka waktu yang tidak ditentukan.** Kamu dapat mengajukan banding terhadap hal ini setelah dua tahun, namun banding ini hanya akan diterima apabila kamu telah banyak berkontribusi dalam meningkatkan nilai turnamen komunitas.
 
@@ -99,16 +99,16 @@ Sebagai catatan tambahan, banding kamu akan semakin sulit diterima setelah pelan
 
 ## Email saya telah diabaikan / Saya merasa banding saya tidak ditangani secara adil {id=appeal-review}
 
-Apabila kamu merasa emailmu tidak dibaca atau ditanggapi secara selayaknya oleh tim layanan dukungan kami, silakan kirimkan email kepada kami pada [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) yang mengandung informasi berikut:
+Apabila kamu merasa emailmu tidak dibaca atau ditanggapi secara selayaknya oleh tim layanan dukungan kami, silakan kirimkan email kepada kami pada [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) yang mencantumkan informasi berikut:
 
 - Seberapa lama kamu telah dibatasi
 - Alasan utama mengapa kamu merasa telah dibatasi
 - Segala permohonan banding yang pernah kamu kirimkan dan diabaikan/ditolak
 - Ringkasan singkat seputar mengapa kamu kecewa dengan hasil bandingmu (apabila ada)
 
-Seluruh email yang dikirim ke alamat pengkajian banding ini akan diselidiki oleh pihak ketiga yang tidak terlibat dalam kegiatan sehari-hari tim layanan dukungan, serta akan ditandai untuk direvisi atau ditinjau lebih lanjut.
+Seluruh email yang dikirim ke alamat pengkajian banding ini akan diselidiki dah ditandai untuk dikaji ulang oleh pihak ketiga yang tidak terlibat dalam kegiatan sehari-hari tim layanan dukungan.
 
-Mohon dipahami bahwa mengirim email ke alamat ini hanya akan menjamin bahwa bandingmu akan diperiksa kembali. Banding kamu tidak akan serta-merta langsung diterima, terlebih apabila kamu terbukti menyelewengkan itikad baik kami dalam proses banding ini.
+Mohon dipahami bahwa mengirim email ke alamat ini hanya akan menjamin bahwa bandingmu akan diperiksa kembali. Vonis banding kamu tidak akan serta-merta berubah begitu saja, terlebih apabila kamu terbukti menyelewengkan itikad baik kami dalam proses banding ini.
 
 **Kami hanya akan membalas permintaan pengkajian/penyeledikan hasil banding yang dikirimkan melalui email ke [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Mohon untuk tidak menghubungi anggota tim layanan dukungan (atau anggota tim sukarelawan kami) melalui Twitter, Discord, atau platform lainnya untuk menyiasati kebijakan ini — mereka tidak akan dapat membantumu dengan cara ini.
 
