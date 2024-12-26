@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # Freischaltungsanforderungen für Dedication Medaillen
 
 ## osu!

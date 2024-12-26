@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated_translation: true
 ---
 
 # 毅力奖章解锁条件

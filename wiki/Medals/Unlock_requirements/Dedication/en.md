@@ -1,5 +1,13 @@
 # Unlock requirements for Dedication medals
 
+## All-Mode
+
+| Medal name | Requirement | Description |
+| :-- | :-- | :-- |
+| Daily Sprout | Achieve a 1-day streak in [Daily Challenge](/wiki/Gameplay/Daily_challenge/). | Ready for anything. |
+| Weekly Sapling | Achieve a 7-day streak in [Daily Challenge](/wiki/Gameplay/Daily_challenge/). | Circadian rhythm calibrated. |
+| Monthly Shrub | Achieve a 30-day streak in [Daily Challenge](/wiki/Gameplay/Daily_challenge/). | In for the grind. |
+
 ## osu!
 
 | Medal name | Requirement | Description |

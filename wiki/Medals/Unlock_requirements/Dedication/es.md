@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # Requisitos de desbloqueo para las medallas de Dedicación
 
 ## osu!
