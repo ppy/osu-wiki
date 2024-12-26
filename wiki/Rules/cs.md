@@ -57,14 +57,14 @@ Pokud se ocitnete na špatném konci pravidel naší komunity, stanou se špatn�
 
 Tyto špatné věci mohou zahrnovat (*ale nejsou omezeny na*):
 
-- Odstranění vaší schopnosti chatovat ve hře po určitou dobu (známé jako [silence](/wiki/Silence)).
+- Odstranění vaší schopnosti chatovat ve hře po určitou dobu (známé jako [silence](/wiki/Help_centre/Silences)).
 - Odstranění veškerého obsahu porušujícího autorská práva z vaší uživatelské stránky, profilu nebo nahraných beatmap.
 - Ztráta oprávnění upravovat nebo měnit podrobnosti o vaší uživatelské stránce nebo profilu.
 - Ztráta oprávnění hrát nebo se kvalifikovat v oficiálně pořádaných turnajích.
 
-[Silences](/wiki/Silence) a další porušení se **automaticky** prodlužují téměř exponenciálně s každým porušením. Moderátoři nekontrolují dobu, po kterou jste umlčeni za přestupek – recidivisté se ocitnou mimo hru na stále delší dobu.
+[Silences](/wiki/Help_centre/Silences) a další porušení se **automaticky** prodlužují téměř exponenciálně s každým porušením. Moderátoři nekontrolují dobu, po kterou jste umlčeni za přestupek – recidivisté se ocitnou mimo hru na stále delší dobu.
 
-Některé trestné činy mají minimální trvání (obvykle 42 hodin nebo více), pokud jsou zvláště závažné, ačkoli jsou téměř výhradně vyhrazeny pro závažná porušení, jako je sdílení grafického obsahu nebo nelítostné obtěžování ostatních uživatelů.
+Některé trestné činy mají minimální trvání (obvykle 43 hodin nebo více), pokud jsou zvláště závažné, ačkoli jsou téměř výhradně vyhrazeny pro závažná porušení, jako je sdílení grafického obsahu nebo nelítostné obtěžování ostatních uživatelů.
 
 Pokud po několika porušeních budete nadále porušovat pravidla, váš účet může být [trvale a neodvolatelně omezen](/wiki/Help_centre/Account_restrictions).
 

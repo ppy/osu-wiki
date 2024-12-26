@@ -51,14 +51,14 @@ Apabila kamu terbukti melanggar peraturan komunitas yang berlaku, kamu akan diha
 
 Hukuman ini dapat meliputi (*namun tidak terbatas pada*):
 
-- Hilangnya hak untuk mengobrol di dalam permainan dalam jangka waktu tertentu (yang dikenal juga dengan istilah *[silence](/wiki/Silence)*).
+- Hilangnya hak untuk mengobrol di dalam permainan dalam jangka waktu tertentu (yang dikenal juga dengan istilah *[silence](/wiki/Help_centre/Silences)*).
 - Penghapusan konten yang dianggap melanggar dari *userpage*, halaman profil, atau beatmap yang kamu unggah.
 - Hilangnya hak untuk menyunting atau mengubah halaman pengguna atau rincian profilmu.
 - Hilangnya hak untuk bermain atau berpartisipasi pada turnamen yang diselenggarakan secara resmi.
 
-Durasi *[silence](/wiki/Silence)* dan hukuman lainnya yang kamu terima akan **secara otomatis** berlipat ganda untuk setiap pelanggaran yang kamu lakukan. Dalam menjatuhkan hukuman, para moderator tidak akan mengatur lamanya waktu *silence* yang kamu terima — semakin kamu melanggar, semakin lama pula masa hukuman yang harus kamu jalani.
+Durasi *[silence](/wiki/Help_centre/Silences)* dan hukuman lainnya yang kamu terima akan **secara otomatis** berlipat ganda untuk setiap pelanggaran yang kamu lakukan. Dalam menjatuhkan hukuman, para moderator tidak akan mengatur lamanya waktu *silence* yang kamu terima — semakin kamu melanggar, semakin lama pula masa hukuman yang harus kamu jalani.
 
-Pelanggaran tertentu memiliki durasi hukuman *silence* minimal yang lebih panjang (pada umumnya 42 jam atau lebih), yang meliputi antara lain penyebaran konten vulgar serta pelecehan berlebihan terhadap pengguna lain.
+Pelanggaran tertentu memiliki durasi hukuman *silence* minimal yang lebih panjang (pada umumnya 43 jam atau lebih), yang meliputi antara lain penyebaran konten vulgar serta pelecehan berlebihan terhadap pengguna lain.
 
 Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peraturan, akunmu dapat langsung [di-*restrict* secara permanen tanpa adanya opsi pengajuan banding](/wiki/Help_centre/Account_restrictions).
 
