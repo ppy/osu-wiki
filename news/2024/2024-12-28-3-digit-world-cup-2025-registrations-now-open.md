@@ -6,7 +6,7 @@ date: 2024-12-28 12:00:00 +0000
 
 Want to watch what the more underrated players, overshadowed by absolute powerhouses, are capable of? Eager to prove your country's worth, but the next osu! World Cup is too far away? If the answer to either of those is yes, get excited for the 7th iteration of the 3 Digit World Cup!
 
-*pending banner image*
+![](/wiki/shared/news/2024-12-28-3-digit-world-cup-2025-registrations-now-open/banner.jpg)
 
 The **3 Digit World Cup** (*pending forum url*), or 3WC for short, has been a mainstay of the community world cups since 2019, eventually being molded into the hyped event that loads of players look forward to at the start of the year. This time is no exception, with a seasoned staff roster and well known players looking to upkeep the expected competitiveness and quality that the tournament has provided over the years. Make sure to keep an eye out for newer accolades putting their name out there as well; these previously unknown key performers often debut in 3WC before any other big international tournaments due to its close proximity to the osu! World Cup.
 
@@ -30,7 +30,7 @@ While the 3 digit range (#100–999) might seem a bit too restrictive at first, 
 
 ## How do I register?
 
-To register, simply head over to the **registration page** (*pending url*) to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
+To register, simply head over to the **[registration page](https://r.shdewz.me/3wc25-registration)** to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
 
 - **Your osu! global rank must be within #100–999 at the time of registrations closing** (January 12, 23:59 UTC)
 - **You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months**
