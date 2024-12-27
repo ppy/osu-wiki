@@ -76,6 +76,91 @@ This year includes two non-FA songs as part of the song list, which also means a
 
 ![List of participants](img/participants.jpg)
 
+## Results
+
+| # | Score | User | Beatmap |
+| :-: | --: | :-: | :-- |
+| 1 | 10.43 | Ryuusei Aika | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 2 | 10.04 | Shijie | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 3 | 9.60 | Matsuyuki Ame | [Rabbit House - Seculo Seculorum](LINK) |
+| 4 | 9.49 | Jayblue | [Rabbit House - Seculo Seculorum](LINK) |
+| 5 | 8.31 | Shiraya Sayuki | [ASA - Assault TAXI](LINK) |
+| 6 | 7.48 | Luval | [Rabbit House - Seculo Seculorum](LINK) |
+| 7 | 7.39 | William K | [ASA - Assault TAXI](LINK) |
+| 8 | 6.97 | Hyasalia | [ASA - Assault TAXI](LINK) |
+| 9 | 6.88 | emilia | [ASA - Assault TAXI](LINK) |
+| 10 | 6.84 | iBell | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 11 | 6.63 | \[W\]hiteRBQ 033 | [Rabbit House - Seculo Seculorum](LINK) |
+| 12 | 6.22 | Pyo | [ASA - Assault TAXI](LINK) |
+| 13 | 6.20 | Koiyuki | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 14 | 5.98 | pudge137 | [ASA - Assault TAXI](LINK) |
+| 15 | 5.50 | Randomness64 | [ASA - Assault TAXI](LINK) |
+| 16 | 5.42 | Mysty | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 17 | 5.24 | 09kami | [ASA - Assault TAXI](LINK) |
+| 18 | 5.19 | Sunazuka Akira | [ASA - Assault TAXI](LINK) |
+| 19 | 4.96 | bucky | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 20 | 4.79 | Evangelion\_guy | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 21 | 4.73 | Cocoyu | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 22 | 4.59 | Poruby | [Rabbit House - Seculo Seculorum](LINK) |
+| 23 | 4.22 | Ratna Petit | [Rabbit House - Seculo Seculorum](LINK) |
+| 24 | 4.17 | Callionet | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 25 | 3.66 | EnderCraft | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 26 | 3.66 | kelinimo | [ASA - Assault TAXI](LINK) |
+| 27 | 3.37 | Clawtch | [ASA - Assault TAXI](LINK) |
+| 28 | 3.31 | CSLM | [ASA - Assault TAXI](LINK) |
+| 29 | 3.30 | Plus4j | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 30 | 2.95 | SouJuku | [Rabbit House - Seculo Seculorum](LINK) |
+| 31 | 2.65 | Selithrarion | [ASA - Assault TAXI](LINK) |
+| 32 | 2.49 | iHySy | [ASA - Assault TAXI](LINK) |
+| 33 | 2.23 | Patchouli-R | [Rabbit House - Seculo Seculorum](LINK) |
+| 34 | 2.02 | ZevinLevin | [ASA - Assault TAXI](LINK) |
+| 35 | 1.88 | touka- | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 36 | 1.54 | ErunamoJAZZ | [Rabbit House - Seculo Seculorum](LINK) |
+| 37 | 1.44 | SparkNights | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 38 | 1.25 | astralcynsm | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 39 | 1.05 | Lastent | [ASA - Assault TAXI](LINK) |
+| 40 | 1.05 | xZyn17x | [ASA - Assault TAXI](LINK) |
+| 41 | 1.00 | Mimosa M | [ASA - Assault TAXI](LINK) |
+| 42 | 0.93 | Saki | [Rabbit House - Seculo Seculorum](LINK) |
+| 43 | 0.91 | Nimagan | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 44 | 0.83 | KomachiBaka | [Rabbit House - Seculo Seculorum](LINK) |
+| 45 | 0.54 | bran cereal | [ASA - Assault TAXI](LINK) |
+| 46 | 0.50 | App | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 47 | 0.24 | takimeme | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 48 | 0.06 | Phten02 | [Rabbit House - Seculo Seculorum](LINK) |
+| 49 | -0.02 | Gyro Zeppeli | [Rabbit House - Seculo Seculorum](LINK) |
+| 50 | -0.07 | lKuuchanl | [ASA - Assault TAXI](LINK) |
+| 51 | -0.33 | nominomu | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 52 | -1.53 | AdrianLazer | [ASA - Assault TAXI](LINK) |
+| 53 | -1.65 | Liyuu\_0109 | [Rabbit House - Seculo Seculorum](LINK) |
+| 54 | -1.77 | too | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 55 | -2.08 | sjoy | [ASA - Assault TAXI](LINK) |
+| 56 | -2.12 | urdu | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 57 | -2.35 | dectopia | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 58 | -2.49 | zekk | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 59 | -3.00 | Alxeee | [Rabbit House - Seculo Seculorum](LINK) |
+| 60 | -4.03 | Tomoe | [Rabbit House - Seculo Seculorum](LINK) |
+| 61 | -4.17 | Nameless\_233 | [ASA - Assault TAXI](LINK) |
+| 62 | -4.51 | Noob\_Oni | [Rabbit House - Seculo Seculorum](LINK) |
+| 63 | -4.55 | Noldalag | [ASA - Assault TAXI](LINK) |
+| 64 | -4.69 | DubWub | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 65 | -4.93 | Doubi\_wert | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 66 | -6.00 | eqbalATH | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 67 | -6.43 | Unsinkable Sam | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 68 | -7.63 | Alib234 | [ASA - Assault TAXI](LINK) |
+| 69 | -7.73 | zacfr | [qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o](LINK) |
+| 70 | -7.95 | Bluekrait | [Rabbit House - Seculo Seculorum](LINK) |
+| 71 | -8.02 | app1e dog | [ASA - Assault TAXI](LINK) |
+| 72 | -9.77 | XBisch\_LasagnaX | [Rabbit House - Seculo Seculorum](LINK) |
+| 73 | -10.55 | Glimmer\_Miku | [Rabbit House - Seculo Seculorum](LINK) |
+| 74 | -11.07 | CheezWhiz328 | [ASA - Assault TAXI](LINK) |
+| 75 | -11.49 | Kiba Moa Chiin | [Rabbit House - Seculo Seculorum](LINK) |
+| 76 | -11.59 | yokuSenpai | [ASA - Assault TAXI](LINK) |
+| 77 | -11.93 | YASHIYO | [Rabbit House - Seculo Seculorum](LINK) |
+| 78 | -14.72 | JaeOR | [ASA - Assault TAXI](LINK) |
+| 79 | -15.19 | Rukara | [Rabbit House - Seculo Seculorum](LINK) |
+| 80 | -15.80 | Shield VA | [Rabbit House - Seculo Seculorum](LINK) |
+
 ## Rules
 
 ### Format
