@@ -26,7 +26,7 @@ Apabila akunmu telah dibatasi, jangan panik. Silakan ikuti langkah-langkah berik
 - **Hubungi [tim layanan dukungan](/wiki/People/The_Team/Account_support_team) kami.** Apabila akunmu masih juga dibatasi, silakan kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) **dari alamat email yang terhubung dengan akunmu** untuk meminta rincian lebih lanjut seputar pembatasanmu. Pastikan kamu menyertakan nama penggunamu serta rincian apa pun yang dapat menjelaskan mengapa kamu merasa akunmu sampai dibatasi. Semakin banyak informasi yang kamu berikan kepada kami, semakin mudah pula bagi kami untuk menyelesaikan masalahmu.
 - Apabila kamu benar-benar yakin bahwa pembatasan kamu merupakan sebuah kekeliruan, silakan hubungi kami dengan segera agar masalahmu dapat didiskusikan bersama.
 
-Apabila akunmu telah dibatasi karena melanggar [aturan](/wiki/Rules), kamu harus menunggu sekurang-kurangnya **tiga bulan** sebelum kamu dapat mengajukan banding. Kami menyebut rentang waktu ini sebagai *masa tenggang* (*cooldown*), dan apabila kamu telah berbuat curang, masa tenggang ini akan naik menjadi enam bulan.
+Apabila akunmu telah dibatasi karena melanggar [peraturan](/wiki/Rules), kamu harus menunggu sekurang-kurangnya **tiga bulan** sebelum kamu dapat mengajukan banding. Kami menyebut rentang waktu ini sebagai *masa tenggang* (*cooldown*), dan apabila kamu telah berbuat curang, masa tenggang ini akan naik menjadi enam bulan.
 
 Apabila akun aslimu tidak dibatasi, kamu dapat masuk ke akun ini dan bermain seperti biasa, namun pastikan kamu tidak masuk ke akun lainnya yang kamu buat karena hal ini dapat menambah hukumanmu.
 
