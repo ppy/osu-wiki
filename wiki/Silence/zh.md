@@ -13,10 +13,10 @@
 - 使用任何形式的[聊天](/wiki/Client/Interface/Chat_console)，这包含了公共频道和私密频道、也包含了游戏内和网站内。
 - 在任何 osu! 论坛里发帖。
 - 在网站可评论的地方评论（谱面、更新日志、新闻的讨论区）。
-- 参加[谱面讨论](/wiki/Beatmap_discussion)。
+- 参与[谱面讨论](/wiki/Beatmap_discussion)。
 - 编辑个人资料，更换头像、封面、个人主页。
 - 发布和更新谱面。
-- 参加[多人](/wiki/Client/Interface/Multiplayer)游戏。
+- 参与[多人](/wiki/Client/Interface/Multiplayer)游戏。
 
 除此之外，禁言还会删除被禁言玩家曾发表在所有聊天频道和私人对话中的消息。[^chat-cleanup]
 
@@ -56,7 +56,7 @@
 
 ## 上诉
 
-尽管禁言是为了确保一个积极的社区环境，但也可能执行时发生错误。如果你认为你被禁言这件事是错误或不公正的，请通过 [accounts@ppy.sh](mailto:accounts@ppy.sh)，友善联系[账号支持团队](/wiki/People/Account_support_team#accounts@ppy.sh)并说明详细情况。
+尽管禁言是为了确保一个积极的社区环境，但在执行时也可能出错。如果你认为你被禁言这件事是错误或不公正的，请通过 [accounts@ppy.sh](mailto:accounts@ppy.sh)，友善联系[账号支持团队](/wiki/People/Account_support_team#accounts@ppy.sh)并说明详细情况。
 
 请记住，你必须使用你当前 osu! 账户内绑定的邮箱地址联系，并告知你的玩家名，来让我们得知你的身份。
 
