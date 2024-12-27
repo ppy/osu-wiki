@@ -8,7 +8,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 Actualmente, hay un total de **800** osu! originals documentados.
 
-![Gráfico de los osu! originals a lo largo del tiempo](img/originals-over-time-ES.png)
+![Gráfico de los osu! originals a lo largo del tiempo](img/bespoke-music-over-time-ES.png)
 
 ## Lista de osu! originals
 
