@@ -106,7 +106,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 
 Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, January 4 23:59 UTC**. This list was last updated on **December 28**.
 
-The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3ec88dc91bdbf85429fdeff10ba211f).
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a81f6e7fddd9345702ba0d0fb75f759).
 
 ## Ruleset
 
