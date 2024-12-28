@@ -8,7 +8,7 @@ Please note that the osu!(lazer) client is currently under development and there
 
 *For detailed steps about running and setting the osu! tournament client up, see: [osu! tournament client](/wiki/osu!_tournament_client#setup)*
 
-If you have never used the osu! tournament client before, open it once by creating a shortcut on the desktop, whose location is set to `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`.
+If you never used the osu! tournament client before, open it once by creating a shortcut on the desktop, whose location is set to `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`.
 
 After that, a directory called `default` should be created inside `%APPDATA%/osu/tournaments`, which is the tournament storage folder for osu!(lazer). Create the following two files in this directory:
 
@@ -23,7 +23,7 @@ Next, add the following line to the `drawings.txt` file:
 AU : Australia : AUS
 ```
 
-Then, restart the tournament client, and ensure `default` is selected as the current tournament in the setup screen.
+Then restart the tournament client, and ensure `default` is selected as the current tournament in the setup screen.
 
 The drawings screen is now ready to be previewed. It is important to understand how the drawings screen looks and acts before modifying each of these files further.
 
@@ -33,7 +33,7 @@ Start the osu! tournament client, and press the `Drawings` button in the left si
 
 ![](img/main-screen.png "The main drawings screen")
 
-There are three sections to this screen: the sidebar on the left, the main section, and the control panel section on the right. Please **avoid** livestreaming the sidebar and the control panel.
+There are three sections to this screen: the sidebar on the left, the main section and the control panel section on the right. Please **avoid** livestreaming the sidebar and the control panel.
 
 There are 4 buttons in the control panel, let's go over them:
 
