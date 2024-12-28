@@ -36,7 +36,7 @@ The **Daycore** mod behaves exactly like [Half Time](/wiki/Gameplay/Game_modifie
 
 ![Daycore customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DC.jpg)
 
-- **Speed decrease** (0,50%-0,99%, default 0,75x): The speed at which the map is played.
+- **Speed decrease** (0,50x-0,99x, default 0,75x): The speed at which the map is played.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
