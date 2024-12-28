@@ -38,7 +38,7 @@ The **Half Time** mod decreases the BPM of any beatmap by 75% and increase the l
 
 ![Half Time customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HT.jpg)
 
-- **Speed decrease** (0,50%-0,99%, default 0,75x): The speed at which the map is played.
+- **Speed decrease** (0,50x-0,99x, default 0,75x): The speed at which the map is played.
 - **Adjust pitch** (default disabled): Changes the audio frequency depending on the chosen speed. (playing with the default speed will have the same audio effect as [Daycore](/wiki/Gameplay/Game_modifier/Daycore))
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
