@@ -14,10 +14,10 @@ tags:
 
 ![Easy mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
 
-*![][osu!] Larger circles, more forgiving HP drain, less accuracy required, and three lives!*\
-*![][osu!taiko] Beats move slower, and less accuracy required!*\
-*![][osu!catch] Larger fruits, more forgiving HP drain, less accuracy required, and three lives!*\
-*![][osu!mania] More forgiving HP drain, less accuracy, and three lives!*
+*![][osu!]: Larger circles, more forgiving HP drain, less accuracy required, and three lives!*\
+*![][osu!taiko]: Beats move slower, and less accuracy required!*\
+*![][osu!catch]: Larger fruits, more forgiving HP drain, less accuracy required, and three lives!*\
+*![][osu!mania]: More forgiving HP drain, less accuracy, and three lives!*
 
 |  |  |
 | :-- | :-- |
