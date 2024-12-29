@@ -145,6 +145,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | [Aus/NZ osu!standard Tournament 5 - Summer](ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | [Aus/NZ osu!standard Tournament 5 - Winter](ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
+| [Aus/NZ osu!standard Tournament 6 - Winter](ANZT/2019_Winter) | 2019-07-26 | 2019-09-22 | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102) |
 
 #### BubblyQT
 
