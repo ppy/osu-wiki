@@ -1,8 +1,13 @@
+---
+tags:
+  - ANZT 6W
+---
+
 # Aus/NZ osu!standard Tournament 6 - Winter
 
-![ANZT 6W logo](img/logo.png)
+![ANZT 6W banner](img/banner.png)
 
-The **Aus/NZ osu!standard Tournament 6 - Winter** (***ANZT 6W***) was a 1v1 single elimination osu! tournament with a score-based qualifier stage hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) and ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the eigth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 6 - Winter** (***ANZT 6W***) was a 1v1 double elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) and ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the eigth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -25,6 +30,8 @@ The **Aus/NZ osu!standard Tournament 6 - Winter** (***ANZT 6W***) was a 1v1 sing
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter |
+
+![](img/badge.png "ANZT 6W winner badge")
 
 ## Organisation
 
@@ -278,6 +285,7 @@ All individual match results can be found on the spreadsheet linked above.
 - Reschedules must be agreed on by **both players** and **proof must be provided**.
 - All reschedules must be done prior to 24 hours before the scheduled match time.
 - All matches will be scheduled for Friday, Saturday & Sunday.
+- RO64 will be single elimination. All further rounds will be double elimination.
 
 ### Match rules
 
