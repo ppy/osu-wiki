@@ -22,7 +22,7 @@ Untuk berpindah antar mode permainan, klik tombol `Mode` yang terdapat pada bagi
 
 *Halaman utama: [osu!](osu!)*
 
-*osu!* merupakan mode permainan utama yang mengharuskan pemain untuk mengeklik lingkaran, menahan slider, dan memutar spinner sesuai dengan irama lagu. Mode ini didasarkan pada permainan ritme *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* versi asli yang dirilis oleh [iNiS](https://en.wikipedia.org/wiki/INiS). Maskot mode osu! adalah [pippi](/wiki/Mascots#pippi), seorang gadis berambut pink dan hitam.
+*osu!* merupakan mode permainan dasar yang mengharuskan pemain untuk mengeklik lingkaran, menahan slider, dan memutar spinner sesuai dengan irama lagu. Mode ini didasarkan pada permainan ritme *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* versi asli yang dirilis oleh [iNiS](https://en.wikipedia.org/wiki/INiS). Maskot mode osu! adalah [pippi](/wiki/Mascots#pippi), seorang gadis berambut pink dan hitam.
 
 ![Permainan osu!](/wiki/shared/osu-gameplay.jpg "Permainan osu!")
 
