@@ -7,7 +7,7 @@ tags:
 
 ![ANZT 6W banner](img/banner.png)
 
-The **Aus/NZ osu!standard Tournament 6 - Winter** (***ANZT 6W***) was a 1v1 double elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) and ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the eigth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 6 - Winter** (***ANZT 6W***) was a 1v1 double elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) and ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the eighth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
