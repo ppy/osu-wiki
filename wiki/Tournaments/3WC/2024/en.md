@@ -189,17 +189,3 @@ The 3 Digit World Cup 2025 is run by various community members.
 5. Reschedules will only be considered if both teams agree to a time and communicate it to the tournament organisers, **before Thursday 23:59 UTC** of the week the match is to take place on.
     - In exceptional circumstances, the reschedule deadline may be extended at the tournament organisers discretion.
 6. Captains are responsible for their team's availability.
-
-### Qualifier procedure
-
-- All of the rules above will be in effect during Qualifier lobbies.
-- Qualifiers will be played in **Head-to-head** mode.
-- There are no bans in Qualifiers.
-- Captains are responsible for choosing a lobby time for their team by **Friday, May 3 at 23:59 UTC**. Teams that fail to select a time before the deadline **will be disqualified**.
-- In the lobby, the team will play through the **entire** mappool **in the order** given on the mappool sheet.
-- In the event of a disconnection, the disconnected player will be allowed to replay the map at the end of the lobby if the disconnection happened in the **first 45 seconds or 1/3 of the map's drain time** (whichever comes first).
-  - Suspected misuse of this rule may lead to disqualification.
-- Every map will be played with a **roster of 4 players**. Players can be freely swapped between maps.
-- Qualifier scores will be kept private until all teams have played in order to prevent seed manipulation.
-- The top 32 qualifying teams will advance to a double elimination bracket.
-  - Cumulative z-score, scaled to 0–100, will be used to seed the teams.
