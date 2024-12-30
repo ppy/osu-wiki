@@ -26,7 +26,7 @@ The **3 Digit World Cup 2025** (***3WC2025***) is a 3v3, double-elimination, cou
 
 ## Prizes
 
-The 3 Digit World Cup 2025 awarded winners with a [community-funded prize pool on Open Collective](https://opencollective.com/3wc).
+The 3 Digit World Cup 2025 awards winners with a [community-funded prize pool on Open Collective](https://opencollective.com/3wc).
 
 | Placing | Prize(s) |
 | :-: | :-- |
