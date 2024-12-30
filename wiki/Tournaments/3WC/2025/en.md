@@ -69,9 +69,7 @@ The 3 Digit World Cup 2025 is run by various community members.
 5. Teams will be seeded by Qualifier results.
 6. Grand Finals will feature a **bracket reset** if the team coming from the losers' bracket wins the first match.
 7. Match schedules and other events will be displayed in **UTC time**.
-8. Matches can be rescheduled if both teams agree to a time and communicate it to the tournament organisers **before Thursday 23:59 UTC** of the week the match is to take place on.
-9. Staff members, with the exception of streamers and commentators, are not allowed to play in the tournament.
-10. The tournament organisers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+8. The tournament organisers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Conduct
 
