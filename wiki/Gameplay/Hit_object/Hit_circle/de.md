@@ -4,6 +4,8 @@ stub: true
 tags:
   - hit objects
   - Hit-Objekte
+outdated_since: b8c04d75ee4f7a06b738c1fdbb36fe5ff0559ef7
+outdated_translation: true
 ---
 
 # Hit-Circle
