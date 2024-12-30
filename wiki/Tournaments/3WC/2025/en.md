@@ -114,7 +114,7 @@ The 3 Digit World Cup 2025 is run by various community members.
    - Allowed mods are Hidden, Hard Rock, and [Easy](/wiki/Gameplay/Game_modifier/Easy).
    - Players are allowed to use multiple mods.
    - **Teams must have at least one player with Hidden or Easy and one player with Hard Rock or Hidden + Hard Rock.** For the third player, enabling mods is optional.
-      - Scores with Easy will be multiplied by 1.75 for a maximum score of 875,000.
+     - Scores with Easy will be multiplied by 1.75 for a maximum score of 875,000.
 7. The tiebreaker will be played under Free Mod conditions, but players will be exempt from the mod requirements.
 
 ### Match format
@@ -169,12 +169,12 @@ The 3 Digit World Cup 2025 is run by various community members.
    - Multiple teams may be grouped into a singular room if there are not enough referees available at match time.
 6. Qualifiers will be seeded by cumulative z-score, scaled to 0–100.
    - The exact formula that will be used for all teams (and for each map) is `z-score = (Team score - Mean score) / Standard deviation`, where:
-      - `Team score` is the score the current team achieved on the current map
-      - `Mean score` is the mean score across all teams on the current map
-      - `Standard deviation` is the standard deviation of all team scores on the current map
+     - `Team score` is the score the current team achieved on the current map
+     - `Mean score` is the mean score across all teams on the current map
+     - `Standard deviation` is the standard deviation of all team scores on the current map
    - The final score for each team is `Points = SUM(z-score)`, which is then visually scaled to 0–100 with `Final Points = 100 * (Points - MIN(Points)) / (MAX(Points) - MIN(Points))`, where:
-      - `MIN(Points)` is the points of the lowest ranking team
-      - `MAX(Points)` is the points of the highest ranking team
+     - `MIN(Points)` is the points of the lowest ranking team
+     - `MAX(Points)` is the points of the highest ranking team
 7. The **16 best-performing** teams will advance to the Round of 16.
 
 ### Scheduling information
