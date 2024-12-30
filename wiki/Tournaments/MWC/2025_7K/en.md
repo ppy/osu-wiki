@@ -19,7 +19,7 @@ The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) is a country-based osu!m
 | Registration phase | 2024-12-12 (15:00 UTC)/2024-12-26 (23:59 UTC) |
 | Qualifier showcase | 2025-01-05 (14:00 UTC) |
 | Qualifier stage | 2025-01-11/2025-01-12 |
-| Round of 24 | 2025-01-18/2025-01-19 |
+| Round of 32 | 2025-01-18/2025-01-19 |
 | Round of 16 | 2025-01-25/2025-01-26 |
 | Quarterfinals | 2025-02-01/2025-02-02 |
 | Semifinals | 2025-02-08/2025-02-09 |
@@ -53,9 +53,58 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/48)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2014134)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/48)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[ottenst](https://osu.ppy.sh/users/13488325)** |
+| ::{ flag=AU }:: | **Australia** | **[Lynxaar](https://osu.ppy.sh/users/17557759)**, [Orcanos](https://osu.ppy.sh/users/13762441), [staynoidedd](https://osu.ppy.sh/users/16954929) |
+| ::{ flag=AT }:: | **Austria** | **[Fabieii](https://osu.ppy.sh/users/16235845)**, [Dash19e](https://osu.ppy.sh/users/17804952) |
+| ::{ flag=BR }:: | **Brazil** | **[LothusFangirl](https://osu.ppy.sh/users/4685756)** |
+| ::{ flag=CA }:: | **Canada** | **[UmmmMrMoo](https://osu.ppy.sh/users/15314355)** |
+| ::{ flag=CL }:: | **Chile** | **[Sebaex](https://osu.ppy.sh/users/4686036)**, [DarkDave](https://osu.ppy.sh/users/5182879), [\[LS\]bambi fnf](https://osu.ppy.sh/users/20360332), [-Z\_Z-](https://osu.ppy.sh/users/22157047) |
+| ::{ flag=CN }:: | **China** | **[tyrcs](https://osu.ppy.sh/users/13026904)**, [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [VanWilder](https://osu.ppy.sh/users/89545), [af-](https://osu.ppy.sh/users/10512663) |
+| ::{ flag=CZ }:: | **Czechia** | **[cooheri](https://osu.ppy.sh/users/16469072)**, [TomisNotGood](https://osu.ppy.sh/users/16360055) |
+| ::{ flag=DK }:: | **Denmark** | **[Fritte](https://osu.ppy.sh/users/5001658)**, [Jole](https://osu.ppy.sh/users/2883132), [Stoom](https://osu.ppy.sh/users/13572493) |
+| ::{ flag=EE }:: | **Estonia** | **[hisaella](https://osu.ppy.sh/users/9557847)**, [Arcaxio](https://osu.ppy.sh/users/16819909) |
+| ::{ flag=FI }:: | **Finland** | **[Maffe](https://osu.ppy.sh/users/4773855)**, [Lyuna](https://osu.ppy.sh/users/4760676), [Crazzeh](https://osu.ppy.sh/users/5054154), [Huukkeli](https://osu.ppy.sh/users/11098035) |
+| ::{ flag=FR }:: | **France** | **[Milla\[Monkey\]](https://osu.ppy.sh/users/6264519)**, [Jerem\[Monkey\]](https://osu.ppy.sh/users/13431947), [Mokett](https://osu.ppy.sh/users/14535598), [Whirst](https://osu.ppy.sh/users/5350761) |
+| ::{ flag=DE }:: | **Germany** | **[TsukiyaWhiskers](https://osu.ppy.sh/users/12598261)** |
+| ::{ flag=GT }:: | **Guatemala** | **[Votchis](https://osu.ppy.sh/users/14862011)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[zec](https://osu.ppy.sh/users/20809032)**, [tangjinxi](https://osu.ppy.sh/users/2270126), [Tat3](https://osu.ppy.sh/users/14222982) |
+| ::{ flag=ID }:: | **Indonesia** | **[Onta\_Bekasi](https://osu.ppy.sh/users/8677684)** |
+| ::{ flag=IT }:: | **Italy** | **[Lorak\_80](https://osu.ppy.sh/users/20028293)** |
+| ::{ flag=JP }:: | **Japan** | **[rainlily](https://osu.ppy.sh/users/485007)**, [butanic](https://osu.ppy.sh/users/1433586), [Suzuha\_l](https://osu.ppy.sh/users/6132697), [\[ misa \]](https://osu.ppy.sh/users/10011429) |
+| ::{ flag=LT }:: | **Lithuania** | **[TrueDash24](https://osu.ppy.sh/users/10528290)**, [ketiph](https://osu.ppy.sh/users/18483296), [PaulIsGaming](https://osu.ppy.sh/users/26404465) |
+| ::{ flag=MO }:: | **Macau** | **[idqoos123](https://osu.ppy.sh/users/3946113)**, [Randumbs](https://osu.ppy.sh/users/27657112) |
+| ::{ flag=MY }:: | **Malaysia** | **[Neokje](https://osu.ppy.sh/users/7727987)** |
+| ::{ flag=MX }:: | **Mexico** | **[Dex uwu](https://osu.ppy.sh/users/12084755)**, [- Kopi -](https://osu.ppy.sh/users/24140109), [marcelito8v](https://osu.ppy.sh/users/12127526), [nana3000](https://osu.ppy.sh/users/27605792) |
+| ::{ flag=NL }:: | **Netherlands** | **[Freek](https://osu.ppy.sh/users/9630674)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Robeats](https://osu.ppy.sh/users/19446399)**, [do you fart](https://osu.ppy.sh/users/15690480), [Worms](https://osu.ppy.sh/users/1963937), [Koyu\_](https://osu.ppy.sh/users/33328421) |
+| ::{ flag=NO }:: | **Norway** | **[masaya](https://osu.ppy.sh/users/5818319)** |
+| ::{ flag=PK }:: | **Pakistan** | **[Axoscope](https://osu.ppy.sh/users/32097633)**, [Frank\_WhyNot](https://osu.ppy.sh/users/27213915), [nico-](https://osu.ppy.sh/users/15206217) |
+| ::{ flag=PE }:: | **Peru** | **[-luvv](https://osu.ppy.sh/users/23731514)** |
+| ::{ flag=PH }:: | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)** |
+| ::{ flag=PL }:: | **Poland** | **[bagjettka](https://osu.ppy.sh/users/18338179)**, [SitekX](https://osu.ppy.sh/users/3840946), [- SzymeQ -](https://osu.ppy.sh/users/26646233), [Sayobatsu](https://osu.ppy.sh/users/2383766) |
+| ::{ flag=RU }:: | **Russian Federation** | **[Meiju](https://osu.ppy.sh/users/5527957)** |
+| ::{ flag=SG }:: | **Singapore** | **[Japeynius](https://osu.ppy.sh/users/13993659)** |
+| ::{ flag=KR }:: | **South Korea** | **[yz1155](https://osu.ppy.sh/users/2071008)** |
+| ::{ flag=ES }:: | **Spain** | **[Luqas678](https://osu.ppy.sh/users/26688450)**, [Manuel-san\_UWU](https://osu.ppy.sh/users/23244116), [fantasticsiker](https://osu.ppy.sh/users/17471458), [Nerea](https://osu.ppy.sh/users/18660354) |
+| ::{ flag=SE }:: | **Sweden** | **[Craty](https://osu.ppy.sh/users/3918056)**, [erased self](https://osu.ppy.sh/users/8856244), [Henkayy](https://osu.ppy.sh/users/3003778), [venyez](https://osu.ppy.sh/users/15927535) |
+| ::{ flag=TW }:: | **Taiwan** | **[hero\_jeff](https://osu.ppy.sh/users/3375226)**, [vvvxx](https://osu.ppy.sh/users/30220646), [\[ Kloc \]](https://osu.ppy.sh/users/11609084) |
+| ::{ flag=TH }:: | **Thailand** | **[--Pavin--](https://osu.ppy.sh/users/12046267)**, [Nattapoom](https://osu.ppy.sh/users/12852613), [nanonbandusty](https://osu.ppy.sh/users/15543726), [yoth99](https://osu.ppy.sh/users/15727775) |
+| ::{ flag=UA }:: | **Ukraine** | **[HeavenlyFaith](https://osu.ppy.sh/users/14412562)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Usie](https://osu.ppy.sh/users/16162078)** |
+| ::{ flag=US }:: | **United States** | **[logann](https://osu.ppy.sh/users/24675802)** |
+| ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, January 4 23:59 UTC**. This list was last updated on **December 29**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a81f6e7fddd9345702ba0d0fb75f759).
 
 ## Ruleset
 
@@ -112,7 +161,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not not send their team list by January 3, 23:59 UTC will be disqualified from the competition.**
+   - **Teams that do not not send their team list by January 4, 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
@@ -134,21 +183,17 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 8. The seeding method used for Qualifiers will be rank sum, where each team's map rank will be added as a numerical value to compose that team's final score, which is then sorted from lowest to highest, lowest being seed #1.
    - The exact formula that will be used for each map is `Map score = RANK(Team score)`, where `RANK` is the function that correlates `Team score` to all scores in the current map, sorted from highest to lowest score.
    - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
-9. The top 24 seeded teams will advance to the Round of 24.
+9. The top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
 
 1. Following the Qualifiers, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
 2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Quarterfinals.
-3. The top 8 seeded teams from the Qualifiers get a bye for the Round of 24, and start playing on the Round of 16 instead.
-4. Teams that lose their Round of 24 match get a bye for the Round of 16, and start playing the Losers bracket from Quarterfinals onwards.
-
-![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-bracket.png)
 
 ### Win conditions
 
-- In the Qualifiers, teams need to place in the top 24 seeded teams in order to advance to the double-elimination stage.
-- In the Round of 24 and Round of 16, teams need to win 5 maps to win a match (best of 9).
+- In the Qualifiers, teams need to place in the top 32 seeded teams in order to advance to the double-elimination stage.
+- In the Round of 32 and Round of 16, teams need to win 5 maps to win a match (best of 9).
 - In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11).
 - In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
   - *Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets.*
@@ -180,7 +225,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 2. Each mappool consists of a fixed amount of maps, which will all be played under Free Mod conditions.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
-   - Round of 24 and Round of 16: 12 beatmaps
+   - Round of 32 and Round of 16: 12 beatmaps
    - Quarterfinals and Semifinals: 14 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
