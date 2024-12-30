@@ -102,19 +102,19 @@ The 3 Digit World Cup 2025 is run by various community members.
 
 1. Every stage will have its own mappool.
 2. Each mappool will consist of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [Free Mod](/wiki/Gameplay/Game_modifier#free-mod).
-    - The Qualifier mappool will not include the Free Mod bracket.
+   - The Qualifier mappool will not include the Free Mod bracket.
 3. The mappool sizes are as follows:
-    - Qualifiers: 10 beatmaps
-    - Round of 16 and Quarterfinals: 15 beatmaps
-    - Semifinals, Finals, and Grand Finals: 20 beatmaps
+   - Qualifiers: 10 beatmaps
+   - Round of 16 and Quarterfinals: 15 beatmaps
+   - Semifinals, Finals, and Grand Finals: 20 beatmaps
 4. The Hidden, Hard Rock, and Double Time brackets will be played with the respective mods enabled for all players.
 5. Every beatmap will have the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod enforced on top of the indicated mods.
-    - Teams that disregard this instruction by choosing to play without at least one No Fail and fail as a result will lose the point.
+   - Teams that disregard this instruction by choosing to play without at least one No Fail and fail as a result will lose the point.
 6. The Free Mod bracket will have "Free Mods" enabled, that is, players will be able to select what mods they use.
-    - Allowed mods are Hidden, Hard Rock, and [Easy](/wiki/Gameplay/Game_modifier/Easy).
-    - Players are allowed to use multiple mods.
-    - **Teams must have at least one player with Hidden or Easy and one player with Hard Rock or Hidden + Hard Rock.** For the third player, enabling mods is optional.
-        - Scores with Easy will be multiplied by 1.75 for a maximum score of 875,000.
+   - Allowed mods are Hidden, Hard Rock, and [Easy](/wiki/Gameplay/Game_modifier/Easy).
+   - Players are allowed to use multiple mods.
+   - **Teams must have at least one player with Hidden or Easy and one player with Hard Rock or Hidden + Hard Rock.** For the third player, enabling mods is optional.
+      - Scores with Easy will be multiplied by 1.75 for a maximum score of 875,000.
 7. The tiebreaker will be played under Free Mod conditions, but players will be exempt from the mod requirements.
 
 ### Match format
@@ -135,19 +135,19 @@ The 3 Digit World Cup 2025 is run by various community members.
 4. There will be no warmup maps.
 5. The referee is not allowed to play in the match.
 6. Each team may ban **one beatmap** from the mappool in the Round of 16 and Quarterfinals, increased to **two beatmaps** from Semifinals onwards. Banned maps beatmaps are effectively removed from the mappool and cannot be picked for the entire duration of the match.
-    - From Semifinals onwards, bans will follow a **snaking (ABBA) order**.
+   - From Semifinals onwards, bans will follow a **snaking (ABBA) order**.
 7. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
 8. There are no pick or ban restrictions, that is, players are allowed to pick or ban multiple beatmaps from the same mod bracket in a row.
 9. Teams will have **one 2-minute timeout available per match**. Timeouts can be activated at any time at the team's discretion.
 10. Teams are allowed **2 minutes to pick a beatmap** and **2 minutes to ready up** after a pick. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
     - For the first occurence:
-        - The team will receive a verbal warning from the referee and their tactical timeout will be forcefully used to allow for the team to pick or ready up.
-        - If the timeout ends and the team is still not ready, it will be counted as a subsequent occurence.
+      - The team will receive a verbal warning from the referee and their tactical timeout will be forcefully used to allow for the team to pick or ready up.
+      - If the timeout ends and the team is still not ready, it will be counted as a subsequent occurence.
     - On subsequent occurences or if a timeout is not available:
-        - For a pick timer: the map pick will pass to the other team.
-        - For a ready timer: the referee will force start the match with `!mp start 15` and the map will start with the players present in the lobby.
-            - Should a team have too many players in the lobby, the scores from their 3 worst-performing players will be counted.
-        - Repeat offenders may receive further sanctions from the tournament organisers.
+      - For a pick timer: the map pick will pass to the other team.
+      - For a ready timer: the referee will force start the match with `!mp start 15` and the map will start with the players present in the lobby.
+        - Should a team have too many players in the lobby, the scores from their 3 worst-performing players will be counted.
+      - Repeat offenders may receive further sanctions from the tournament organisers.
 11. If a player disconnects during play, common sense will be applied: if proof exists of the disconnected player's score (or a rough estimate of their hypothetical score if they finished the map), it will be added to their team's total score; if it is at all ambiguous, the other team will get the point.
     - If a disconnection happens in the **first 30 seconds or 1/4 of the map's drain time** (whichever comes first) the team may ask to replay the map. This will be allowed once per match and suspected misuse may lead to disqualification.
     - Any replays of a map must be done with the same rosters as the initial playthrough. If the disconnected player is unable to play due to the nature of the disconnect, both teams will be able to change rosters.
@@ -155,26 +155,26 @@ The 3 Digit World Cup 2025 is run by various community members.
 ### Qualifier instructions
 
 1. The Qualifier mappool will feature 10 beatmaps, organised as such:
-    - No Mod: 4 beatmaps
-    - Hidden: 2 beatmaps
-    - Hard Rock: 2 beatmaps
-    - Double Time: 2 beatmaps
+   - No Mod: 4 beatmaps
+   - Hidden: 2 beatmaps
+   - Hard Rock: 2 beatmaps
+   - Double Time: 2 beatmaps
 2. Teams have until **Friday, February 7, 23:59 UTC**, to choose a time to play qualifiers. Teams that fail to select a time before the deadline will be disqualified.
-    - The latest time to play qualifiers is **Sunday, February 9, 20:00 UTC**.
+   - The latest time to play qualifiers is **Sunday, February 9, 20:00 UTC**.
 3. Teams will play through the **entire** mappool **in the order** given on the mappool sheet up to **two times**.
-    - Teams are allowed to skip maps on their second playthrough.
-    - The **best team score on each map** is used for seeding.
+   - Teams are allowed to skip maps on their second playthrough.
+   - The **best team score on each map** is used for seeding.
 4. Each team must have 3 players play each map. Players may be exchanged freely between maps.
 5. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
-    - Multiple teams may be grouped into a singular room if there are not enough referees available at match time.
+   - Multiple teams may be grouped into a singular room if there are not enough referees available at match time.
 6. Qualifiers will be seeded by cumulative z-score, scaled to 0–100.
-    - The exact formula that will be used for all teams (and for each map) is `z-score = (Team score - Mean score) / Standard deviation`, where:
-        - `Team score` is the score the current team achieved on the current map
-        - `Mean score` is the mean score across all teams on the current map
-        - `Standard deviation` is the standard deviation of all team scores on the current map
-    - The final score for each team is `Points = SUM(z-score)`, which is then visually scaled to 0–100 with `Final Points = 100 * (Points - MIN(Points)) / (MAX(Points) - MIN(Points))`, where:
-        - `MIN(Points)` is the points of the lowest ranking team
-        - `MAX(Points)` is the points of the highest ranking team
+   - The exact formula that will be used for all teams (and for each map) is `z-score = (Team score - Mean score) / Standard deviation`, where:
+      - `Team score` is the score the current team achieved on the current map
+      - `Mean score` is the mean score across all teams on the current map
+      - `Standard deviation` is the standard deviation of all team scores on the current map
+   - The final score for each team is `Points = SUM(z-score)`, which is then visually scaled to 0–100 with `Final Points = 100 * (Points - MIN(Points)) / (MAX(Points) - MIN(Points))`, where:
+      - `MIN(Points)` is the points of the lowest ranking team
+      - `MAX(Points)` is the points of the highest ranking team
 7. The **16 best-performing** teams will advance to the Round of 16.
 
 ### Scheduling information
@@ -182,8 +182,8 @@ The 3 Digit World Cup 2025 is run by various community members.
 1. Each stage will be held on **a single weekend**.
 2. Qualifiers will be held between Friday 00:00 and Sunday 20:00 UTC.
 3. All bracket stages will be held between Saturday 00:00 and Sunday 23:00 UTC.
-    - Other times may be available upon request. Teams should consult with the tournament organisers for more information.
+   - Other times may be available upon request. Teams should consult with the tournament organisers for more information.
 4. Match scheduling will be handled by the tournament organisers. Schedules will be released on the Sunday before the first matches of the stage. The tournament organisers will try to create the schedule to respect the participants' time zones.
 5. Reschedules will only be considered if both teams agree to a time and communicate it to the tournament organisers, **before Thursday 23:59 UTC** of the week the match is to take place on.
-    - In exceptional circumstances, the reschedule deadline may be extended at the tournament organisers discretion.
+   - In exceptional circumstances, the reschedule deadline may be extended at the tournament organisers discretion.
 6. Captains are responsible for their team's availability.
