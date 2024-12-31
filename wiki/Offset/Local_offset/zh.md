@@ -40,4 +40,4 @@ osu! 也会在游戏开始时，提示当前的本地偏移量。
 
 ## 提示和参考资料
 
-[^hit-difference]: 所需的偏移量可能根据得分表上，打击窗口中的击键大部分落在一个非中心位置<!-- TODO: link -->，或者[结算界面](/wiki/Client/Interface#结算界面)上一致的[击键偏差](/wiki/Gameplay/Accuracy#偏差（Error）)推算得出。
+[^hit-difference]: 所需的偏移量可能根据得分表上，打击窗口中的击键大部分落在一个非中心位置<!-- TODO: link -->，或者[结算界面](/wiki/Client/Interface#结算界面)上一致的[击键偏差](/wiki/Gameplay/Accuracy#偏差（error）)推算得出。
