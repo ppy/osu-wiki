@@ -8,7 +8,7 @@ tags:
 
 *对于其它用法，参见[偏移量](/wiki/Offset)。*
 
-**本地偏移量 (Local offset)**（另一种不常见的说法是*线下偏移量*，即 *offline offset*）是在单一[谱面](/wiki/Beatmap)中，根据音乐改变[打击物件](/wiki/Gameplay/Hit_object)出现时机的设置。这对于那些遇到声音或视觉延迟的玩家来说很有用。本地音乐偏移量和[全局偏移量](/wiki/Offset/Universal_offset)同时生效，共同计算得出总计偏移量。
+**本地偏移量 (Local offset)**（另一种不常见的说法是*线下偏移量*，即 *offline offset*）是在单一[谱面](/wiki/Beatmap)中，相对于音乐改变[打击物件](/wiki/Gameplay/Hit_object)出现时机的设置。这对于那些遇到声音或视觉延迟的玩家来说很有用。本地音乐偏移量和[全局偏移量](/wiki/Offset/Universal_offset)同时生效，共同计算得出总计偏移量。
 
 ## 行为
 

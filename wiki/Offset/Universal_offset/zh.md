@@ -10,7 +10,7 @@ tags:
 *对于其它用途，参见[偏移量](/wiki/Offset)。*\
 *对于如何正确设置全局偏移量，请参见[如何使用偏移量设置向导](/wiki/Guides/How_to_use_the_Offset_Wizard)的分步指导。*
 
-**全局偏移量 (Universal offset)**（或 **global offset**）是一项根据所有[谱面](/wiki/Beatmap)音乐，移动[打击物件](/wiki/Gameplay/Hit_object)出现时机的[设置](/wiki/Client/Options)。这对于那些遇到音频和视觉延迟的玩家很有帮助。全局偏移量与[本地歌曲偏移量](/wiki/Offset/Local_offset)共同计算，得出总计的偏移量。
+**全局偏移量 (Universal offset)**（或 **global offset**）是一项相对于所有[谱面](/wiki/Beatmap)音乐，移动[打击物件](/wiki/Gameplay/Hit_object)出现时机的[设置](/wiki/Client/Options)。这对于那些遇到音频和视觉延迟的玩家很有帮助。全局偏移量与[本地歌曲偏移量](/wiki/Offset/Local_offset)共同计算，得出总计的偏移量。
 
 ## 行为
 
