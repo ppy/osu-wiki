@@ -8,7 +8,7 @@ tags:
 
 *其他用途，请参见 [偏移量](/wiki/Offset)。*
 
-**在线偏移量** 是在谱面[上架 (ranked)](/wiki/Beatmap/Category#ranked) 后可以应用于谱面的偏移量。这通常是在[谱面](/wiki/Beatmap)的[时间轴](/wiki/Beatmapping/Timing)需要微调的时候完成的。在线偏移量的优先级在玩家的[全局偏移量](/wiki/Offset/Universal_offset)和[局部偏移量](/wiki/Offset/Local_offset)之上。
+**在线偏移量 (Online offset)** 是在谱面[上架 (ranked)](/wiki/Beatmap/Category#ranked) 后可以应用于谱面的偏移量。这通常是在[谱面](/wiki/Beatmap)的[时间轴](/wiki/Beatmapping/Timing)需要微调的时候完成的。在线偏移量的优先级在玩家的[全局偏移量](/wiki/Offset/Universal_offset)和[局部偏移量](/wiki/Offset/Local_offset)之上。
 
 ## 行为
 
