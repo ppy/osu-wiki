@@ -22,6 +22,6 @@
 
 *注意：导入时间和视频偏移量只能通过[编辑谱面文件](/wiki/Client/File_formats/osu_(file_format))进行设定。*
 
-- 倒计时偏移量，一项影响第一个打击物件前，[倒计时](/wiki/Beatmap/Countdown)出现时机的设定，以[节拍beats](/wiki/Music_theory/Beat)计算。
+- 倒计时偏移量，一项影响第一个打击物件前，[倒计时](/wiki/Beatmap/Countdown)出现时机的设定，以[节拍](/wiki/Music_theory/Beat)计算。
 - [导入时间](/wiki/Beatmap/Lead-in_time)，谱面开始前，额外的延迟时间。
 - 视频偏移量，决定视频相对于音轨何时播放的设定。

@@ -37,7 +37,7 @@ tags:
 
 ## 参考资料
 
-[^changelog-add]: [peppy 的论坛帖子  (2008-09-16)](https://osu.ppy.sh/community/forums/posts/50194)
+[^changelog-add]: [peppy 的论坛帖子 (2008-09-16)](https://osu.ppy.sh/community/forums/posts/50194)
 [^qat-restructuring-follow-up-pr]: [“BN 规则：取消过审”，MoMan 的拉取请求 (2019-05-05)](https://github.com/ppy/osu-wiki/pull/2160)
 [^new-website-offset]: [“向谱面元数据控制中添加偏移量编辑”，venix12 的拉取请求 (2021-04-12)](https://github.com/ppy/osu-web/pull/7474)
 [^new-website-offset-restriction]: [“仅允许管理员修改谱面偏移量”，nanaya 的拉取请求 (2022-04-22)](https://github.com/ppy/osu-web/pull/8834)
