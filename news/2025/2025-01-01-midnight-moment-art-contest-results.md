@@ -74,7 +74,7 @@ Mocha and pippi explosive celebration of the New Year was noticed by **541** beh
 
 ### peppy's picks
 
-The year may be coming to an end, but some traditions never do. We present to you [peppy](https://osu.ppy.sh/users/2)'s personal fabourites that will be joining the top-voted entries on the main menu:
+The year may have come to an end, but some traditions never do. We present to you [peppy](https://osu.ppy.sh/users/2)'s personal fabourites that will be joining the top-voted entries on the main menu:
 
 [![](https://assets.ppy.sh/contests/226/banners/JlNN.jpg)](https://assets.ppy.sh/contests/226/winners/JlNN.png)
 
@@ -110,6 +110,6 @@ If you're an [osu!supporter](/wiki/osu!supporter), take this opportunity to drag
 
 Want to observe all submitted entries alongside their voting numbers? Head over to the [contest listing](https://osu.ppy.sh/community/contests/226) and find out how your favourites fared.
 
-See you next year!
+See you next time!
 
 —Hivie & Walavouchey
