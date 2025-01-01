@@ -74,7 +74,7 @@ Mocha and pippi explosive celebration of the New Year was noticed by **541** beh
 
 ### peppy's picks
 
-The year may have come to an end, but some traditions never do. We present to you [peppy](https://osu.ppy.sh/users/2)'s personal fabourites that will be joining the top-voted entries on the main menu:
+The year may have come to an end, but some traditions never do. We present to you [peppy](https://osu.ppy.sh/users/2)'s personal favourites that will be joining the top-voted entries on the main menu:
 
 [![](https://assets.ppy.sh/contests/226/banners/JlNN.jpg)](https://assets.ppy.sh/contests/226/winners/JlNN.png)
 
