@@ -32,7 +32,7 @@ tags:
 *For the osu!stable version of this article, see: [Half Time (mod)](/wiki/Gameplay/Game_modifier/Half_Time)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Half Time** mod decreases the BPM of any beatmap by 75% as well as the length of the song by 33%. It also can reduce the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) or both at once according to the [game mode](/wiki/Game_mode).
+The **Half Time** mod decreases the BPM of any beatmap by 75% as well as increasing the length of the song by 33%. It also can reduce the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) or both at once according to the [game mode](/wiki/Game_mode).
 
 ## Customisation
 
