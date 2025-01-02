@@ -32,7 +32,9 @@ tags:
 *For the osu!stable version of this article, see: [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **No Fail** mod prevents the player from failing on any [beatmap](/wiki/Beatmap), which means that although the [health bar](/wiki/Client/Interface/Health_bar) reaches the bottom, you won't be able to fail, even if you didn't score any points. This mod has the same effect across all [game modes](/wiki/Game_mode).
+
+**This mod can't be customised through Customisation.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
