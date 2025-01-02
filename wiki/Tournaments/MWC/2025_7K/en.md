@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2025 banner](img/mwc7k2025-banner.jpg)
 
-The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the nineth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the ninth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
