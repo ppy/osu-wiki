@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 220f8e2cb5c0a920fc17f24436144b38510e05d9
+---
+
 # Stummschaltung
 
 Eine **Stummschaltung** (auch *Silence* genannt) ist eine Strafe, bei der einem Spieler die Kommunikation innerhalb der osu!-Community verwehrt wird. Stummschaltungen können durch Mitglieder des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team) und des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) festgelegt werden und werden nur gegen Spieler verhängt, die gegen die [Community-Regeln](/wiki/Rules) verstoßen haben.

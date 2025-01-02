@@ -88,6 +88,7 @@ Official tournaments organised by the osu! team.
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 2023-07-13 | 2023-09-24 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=ID }:: Indonesia |
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 2023-12-15 | 2024-02-25 | ::{ flag=KR }:: South Korea | ::{ flag=MY }:: Malaysia | ::{ flag=PH }:: Philippines |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 2024-07-18 | 2024-09-29 | ::{ flag=US }:: United States | ::{ flag=CN }:: China | ::{ flag=TH }:: Thailand |
+| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | *TBD* | *TBD* | *TBD* |
 
 ## Community
 
@@ -886,7 +887,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Sparxe's Two Key Event](STKE/1) | 2024-10-26 | 2024-12-15 | *TBD* | *TBD* | *TBD* |
+| [Sparxe's Two Key Event](STKE/1) | 2024-10-26 | 2024-12-15 | ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) | ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747) | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
 
 #### Speed of Light
 
@@ -927,6 +928,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 2021-12-20 | 2022-03-20 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 | [Touhou Project Mania Cup 3rd](TMC/3rd) | 2023-04-17 | 2023-07-16 | Bloxy cola | Winx Club | Mew's Bodyguards |
+| [Touhou Project Mania Cup 4th](TMC/4th) | 2024-12-22 | 2025-03-30 | *TBD* | *TBD* | *TBD* |
 
 ### Multimode
 
