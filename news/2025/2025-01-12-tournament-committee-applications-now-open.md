@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tournament Committee applications now open!"
-date: 2024-12-31 15:00:00 +0000
+date: 2025-01-12 15:00:00 +0000
 ---
 
 Do you want to help shape the future of the osu! tournament community? If so, then apply now to join the [Tournament Committee (TC)](/wiki/People/Tournament_Committee/en.md) during our first ever open application cycle!
