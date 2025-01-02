@@ -1,5 +1,7 @@
 ---
 outdated: true
+outdated_translation: true
+outdated_since: bc94442500060da779f61b83a02f848b3a9133e1
 ---
 
 # Tournament drawings
