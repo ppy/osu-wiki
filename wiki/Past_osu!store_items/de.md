@@ -4,6 +4,7 @@ tags:
   - merchandise
   - legacy
   - Shop
+outdated_translation: true  
 ---
 
 # Vergangene Artikel aus dem osu!store
