@@ -5,7 +5,7 @@ tags:
   - legacy
   - Shop
 outdated_translation: true
-outdated_since : 3bb0891de5dccd2d637a3fef7257e0826d9be962
+outdated_since: 3bb0891de5dccd2d637a3fef7257e0826d9be962
 ---
 
 # Vergangene Artikel aus dem osu!store
