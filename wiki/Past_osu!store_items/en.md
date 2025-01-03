@@ -123,4 +123,4 @@ The **osu!mug** was a special edition multi-purpose drinkware adorned by illustr
 
 The **limited edition osu! plushies** were a trio of plush dolls each featuring [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator), and the [osu! cookie](/wiki/Client/Interface/Cookie). The product was sold in early 2023 through pre-orders and was made in partnership with the crowdfunding platform [Makeship](https://www.makeship.com/).
 
-Due to popular demand, a second batch of plushies featuring [pippi](https://www.makeship.com/products/pippi-2-0-plushie) and the [osu!cookie](https://www.makeship.com/products/osu-cookie-2-0-plushie) was made available for purchase for a limited time in late 2024.
+Due to popular demand, a second batch of plushies featuring [pippi](https://www.makeship.com/products/pippi-2-0-plushie) and the [osu!cookie](https://www.makeship.com/products/osu-cookie-2-0-plushie) was later made available for purchase for a limited time in November 2024.
