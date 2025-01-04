@@ -207,7 +207,7 @@ While he's only a recent addition to our Featured Artists, multi-genre mastermin
 
 [![](https://assets.ppy.sh/artists/185/header.jpg)](https://osu.ppy.sh/beatmaps/artists/185)
 
-Anyone who's heard [**seatrus**](https://osu.ppy.sh/beatmaps/artists/185)'s hyper-intense music would know how perfect it is for tournaments. Both of these tracks were licensed for their presence in the tourney scene: one from *The Perennial* and another which we won't spoil yet.
+Anyone who's heard [**seatrus**](https://osu.ppy.sh/beatmaps/artists/185)'s hyperintense music would know how perfect it is for tournaments. Both of these tracks were licensed for their presence in the tourney scene: one from *The Perennial* and another which we won't spoil yet.
 
 ### seatrus - Metal Globe
 
