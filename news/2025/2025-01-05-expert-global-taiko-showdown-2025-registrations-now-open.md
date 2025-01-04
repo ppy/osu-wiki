@@ -54,7 +54,7 @@ Registrations are currently open on the [GTS website](https://gratiaproductions.
 
 As long as you have done everything above, you will be instantly noted on the website as registered!
 
-*Notice: Registrations will be screened by osu! staff during the screening phase. In order to participate, you must not have violated the [osu! community rules](https://osu.ppy.sh/wiki/en/Rules) in the past 12 months.*
+*Notice: Registrations will be screened by osu! staff during the screening phase. In order to participate, you must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
 ***Registration attempts after this deadline will not be accepted whatsoever. You have two weeks to think about whether you want to participate in this or not. No hesitation allowed, because this is your last chance ever.***
 
