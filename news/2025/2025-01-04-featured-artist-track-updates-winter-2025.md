@@ -10,7 +10,7 @@ If your New Year's resolution is to become a mapper, a solid first step would be
 
 osu!'s [Featured Artist library](https://osu.ppy.sh/beatmaps/artists) has over **450** talented musicians at this point. While we usually reserve weekends for new artist announcements, we have a bunch of tracks from older artists to showcase, so... that's what we're doing.
 
-Any new songs are marked with a **NEW** icon on the Featured Artist listing
+Any new songs are marked with a **NEW** icon on the Featured Artist listing.
 
 ![](/wiki/shared/news/2022-01-02-featured-artist-track-updates-winter-2022/new.png)
 
@@ -173,10 +173,6 @@ While he's only a recent addition to our Featured Artists, multi-genre mastermin
     </video>
 </div>
 
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/1/osu!%20themes/nekodex_-_circle_the_halls.mp3" type="audio/mpeg">
-</audio>
-
 ## [RINYA](https://osu.ppy.sh/beatmaps/artists/262)
 
 [![](https://assets.ppy.sh/artists/262/header.jpg)](https://osu.ppy.sh/beatmaps/artists/262)
@@ -261,7 +257,7 @@ Try out [this map from The Perennial 2024](https://osu.ppy.sh/beatmapsets/221419
 
 [![](https://assets.ppy.sh/artists/265/header.jpg)](https://osu.ppy.sh/beatmaps/artists/265)
 
-[**Tenchio**](https://osu.ppy.sh/beatmaps/artists/265) is a one-of-a-kind musician behind a complex combination of math rock, noise, and pure emotion. Two tracks are now part of his listing, one of which has a two vocal versions: one vocaloid and another human!
+[**Tenchio**](https://osu.ppy.sh/beatmaps/artists/265) is a one-of-a-kind musician behind a complex combination of math rock, noise, and pure emotion. Two tracks are now part of his listing, one of which has two vocal versions: one VOCALOID and another human!
 
 ### Tenchio - PLAY DEAD feat. Po-Uta (Quiet Ver.)
 
@@ -304,6 +300,8 @@ You've been living under a rock if you haven't played an [**UNDEAD CORPORATION**
 <audio controls>
     <source src="https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_God_of_Leaf.mp3" type="audio/mpeg">
 </audio>
+
+<!-- lint ignore no-heading-punctuation -->
 
 ### UNDEAD CORPORATION - Obituaries We(')rE None...
 
