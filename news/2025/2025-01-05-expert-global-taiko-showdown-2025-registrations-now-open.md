@@ -38,7 +38,7 @@ The tournament's detailed schedule and all relevant info for participating can b
 
 ## Original content
 
-As we've stated earlier before, EGTS releases a lot of original content through a variety of mediums, but the two main ones we have been known for have easily been for one, our story, which has been shown through extracts before reveals of all past EGTS Tiebreaker original songs, as well as the COEGTS 2023 Mappool Showcase.
+As we've stated earlier, EGTS releases a lot of original content through a variety of mediums. One the main ones, however, has been our story, which has been shown through short videos before the reveals of all past EGTS tiebreaker original songs, as well as the [COEGTS 2023 mappool showcase](https://www.youtube.com/watch?v=0I3UH7Al-lM).
 
 We're now reaching the end of that story coming in EGTS, so we've wanted to gift you a little something, with the first ever full-length MV we've made, and basically our ending theme.
 
