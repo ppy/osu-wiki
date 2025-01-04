@@ -53,7 +53,7 @@
 - **Dalam kolom yang teromanisasi, simbol khusus yang terdapat pada nama artis/judul lagu harus diubah menjadi karakter ASCII yang terdekat atau dihilangkan sepenuhnya.** Karakter khusus yang tidak terliput dalam tabel di bawah ini juga harus diubah atau dihilangkan sesuai dengan situasinya masing-masing. Pada saat terdapat lebih dari satu pilihan, gunakan romanisasi yang paling sesuai konteks.
 
   | Simbol | Romanisasi yang disarankan |
-  | :--- | :-- |
+  | :-- | :-- |
   | `★ ☆ ⚝ ✪ ✻`, dan bentuk lainnya yang serupa | `*` |
   | `♥ ♡` dan simbol hati lainnya yang serupa | `<3` |
   | `「 」『 』` | `""` |
