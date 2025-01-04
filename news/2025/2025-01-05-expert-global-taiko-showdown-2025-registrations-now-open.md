@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Expert Global Taiko Showdown 2025: Registrations now open!"
+title: "Expert Global Taiko Showdown 2025: Registrations Now Open!"
 date: 2025-01-05 00:00:00 +0000
 ---
 
