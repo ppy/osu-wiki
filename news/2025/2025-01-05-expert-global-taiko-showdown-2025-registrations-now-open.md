@@ -4,9 +4,9 @@ title: "Expert Global Taiko Showdown 2025: Registrations now open!"
 date: 2025-01-05 00:00:00 +0000
 ---
 
-![](/wiki/shared/news/2025-01-05-egts-2025-registrations-now-open/banner.png)
-
 Calling all drum smashers — after a year and a half of inactivity, Global Taiko Showdown is finally back! We are kicking things off with EGTS 2025, its fourth and final iteration!
+
+![](/wiki/shared/news/2025-01-05-egts-2025-registrations-now-open/banner.jpg)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/H7fyykWplDI" frameborder="0" allowfullscreen></iframe>
@@ -38,13 +38,13 @@ The tournament's detailed schedule and all relevant info for participating can b
 
 ## Original content
 
-As we've stated earlier before, EGTS releases a lot of original content through a variety of mediums, but the two main ones we have been known for have easily been for one, our story, which has been shown through extracts before reveals of all past EGTS Tiebreaker original songs, as well as the COEGTS 2023 Mappool Showcase. 
+As we've stated earlier before, EGTS releases a lot of original content through a variety of mediums, but the two main ones we have been known for have easily been for one, our story, which has been shown through extracts before reveals of all past EGTS Tiebreaker original songs, as well as the COEGTS 2023 Mappool Showcase.
 
 We're now reaching the end of that story coming in EGTS, so we've wanted to gift you a little something, with the first ever full-length MV we've made, and basically our ending theme.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/hyfPAknDhP0" frameborder="0" allowfullscreen></iframe>
-</div>  
+</div>
 
 ## How do I register?
 
