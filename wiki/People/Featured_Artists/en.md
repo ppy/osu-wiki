@@ -29,7 +29,8 @@ New Featured Artist releases per year:
 - **2021:** 101
 - **2022:** 104
 - **2023:** 64
-- **2024:** *to be determined*
+- **2024:** 58
+- **2025:** *to be determined*
 
 New Featured Artists are announced weekly on osu!'s [news feed](https://osu.ppy.sh/home/news). Most announcements include a list of the artist's licensed songs and a link to their Featured Artist page, though some announcements are paired with mapping contests or beatmaps created by the [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
