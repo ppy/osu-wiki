@@ -19,7 +19,7 @@
 ### Pedoman
 
 - **Logo yang ada sebaiknya tidak dijadikan acuan dalam penulisan huruf kapital.** Berhubung penulisan pada logo pada umumnya sering digayakan, gunakan kaidah penulisan judul yang baku[^title-case] kecuali apabila terdapat metadata tertulis lainnya yang mendukung penulisan ini.
-- **Pada saat judul lagu remix atau cover mengandung salah ketik (*typo*) yang tidak terdapat pada lagu aslinya, gunakan judul asli ini kecuali apabila salah ketik yang ada memang disengaja.** Apabila kamu merasa ragu, bukalah [topik diskusi baru](/wiki/Beatmap_discussion#discussions) untuk mencapai kesepakatan seputar judul lagu mana yang sebaiknya digunakan. Berikut merupakan berbagai contoh kasus yang menyangkut hal ini dengan remix dari lagu berjudul `triangles`:
+- **Pada saat judul lagu remix atau cover mengandung salah ketik (*typo*) yang tidak terdapat pada lagu aslinya, gunakan judul asli ini kecuali apabila salah ketik yang ada memang disengaja.** Apabila kamu merasa ragu, bukalah [topik diskusi baru](/wiki/Beatmap_discussion#diskusi) untuk mencapai kesepakatan seputar judul lagu mana yang sebaiknya digunakan. Berikut merupakan berbagai contoh kasus yang menyangkut hal ini dengan remix dari lagu berjudul `triangles`:
   - `triangls` harus ditulis sebagai `triangles`
   - `triANGELS (angelic remix)`harus dibiarkan sebagaimana adanya
   - `3angle5` harus dibiarkan sebagaimana adanya
@@ -53,7 +53,7 @@
 - **Dalam kolom yang teromanisasi, simbol khusus yang terdapat pada nama artis/judul lagu harus diubah menjadi karakter ASCII yang terdekat atau dihilangkan sepenuhnya.** Karakter khusus yang tidak terliput dalam tabel di bawah ini juga harus diubah atau dihilangkan sesuai dengan situasinya masing-masing. Pada saat terdapat lebih dari satu pilihan, gunakan romanisasi yang paling sesuai konteks.
 
   | Simbol | Romanisasi yang disarankan |
-  | :------------------------------------------ | :------------------------- |
+  | :--- | :-- |
   | `★ ☆ ⚝ ✪ ✻`, dan bentuk lainnya yang serupa | `*` |
   | `♥ ♡` dan simbol hati lainnya yang serupa | `<3` |
   | `「 」『 』` | `""` |
@@ -61,8 +61,8 @@
   | `。` | `.` |
   | `→` dan anak panah lainnya yang serupa | `->` atau `-->` |
   | `←` dan anak panah lainnya yang serupa | `<-` atau `<--` |
-  | `《》` | `< >`, `<< >>`, atau `""`  |
-  | `【】` | `""`, `()` atau `[]`       |
+  | `《》` | `< >`, `<< >>`, atau `""` |
+  | `【】` | `""`, `()` atau `[]` |
   | `≠` | `=/=` atau `!=` |
   | `・` | `.`, `,` atau ` ` |
   | `×` | `×` |
