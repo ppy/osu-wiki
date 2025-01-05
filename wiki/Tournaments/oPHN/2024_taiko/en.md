@@ -18,7 +18,7 @@ The **osu! Philippines Nationals 2024 - osu!taiko** Tournament (***PHNT2024***) 
 | Qualifiers showcase | 2024-10-06 (13:00 UTC) |
 | Qualifiers | 2024-10-12/2024-10-13 |
 | Round of 16 | 2024-10-19/2024-10-20 |
-| Quarterfinals |  2024-10-26/2024-10-27 |
+| Quarterfinals | 2024-10-26/2024-10-27 |
 | Semifinals | 2024-11-02/2024-11-03 |
 | Finals | 2024-11-09/2024-11-10 |
 | Grand Finals | 2024-11-16/2024-11-17 |
