@@ -342,7 +342,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 ### General Rules
 
 - Players must be in the rank range of #500 to #10,000 to be eligible to join.
-- Players who currently have (or had at some point since account creation) the Philippine Flag on their profile, or players who do not have the Philippine Flag on their profiles but can present a proof of their Philippine Citizenship to the staff are the only ones allowed to join the tournament.
+- Players who currently have (or had at some point since account creation) the Philippine Flag on their profile are the only ones allowed to join the tournament.
 - Score v2 will be used.
 - Permitted mods for Forced Mod (FM) and Tiebreaker picks are Hidden (HD), HardRock (HR), or both.
 - No Fail (NF) is enforced for all picks.
