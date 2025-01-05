@@ -45,17 +45,20 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=CN }:: [\_Yiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool playtester | *TBD* |
-| Mapper | *TBA* |
+| Mappool playtester | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=CN }:: [\_Yiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664), ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=KR }:: [chumpup](https://osu.ppy.sh/users/10878878), ::{ flag=KR }:: [DellyK](https://osu.ppy.sh/users/19791211), ::{ flag=MY }:: [Enie](https://osu.ppy.sh/users/11976455), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=JP }:: [LuluM](https://osu.ppy.sh/users/13151924), ::{ flag=AR }:: [lxLucasxl](https://osu.ppy.sh/users/3632846), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=BR }:: [roko100789](https://osu.ppy.sh/users/3224958), ::{ flag=KR }:: [rubyy](https://osu.ppy.sh/users/9880422), ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525), ::{ flag=KR }:: [seou\_](https://osu.ppy.sh/users/31323430), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=CN }:: [Watch01](https://osu.ppy.sh/users/13967954), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Mapper | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [qodtjr](https://osu.ppy.sh/users/3021168), *more TBA* |
 | Commentator | *TBA* |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | **[Sakura006](https://osu.ppy.sh/users/10365024)** |
 
 ## Links
 
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/19JffJy65s7N2hqJfgL17ahNONTu9S-wDqvlHO7AFpNw?rm=minimal)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2014134)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/48)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/160) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Vod collection (Twitch)](https://www.twitch.tv/collections/6Mg2S0rTFxi6uQ)
 
 ## Participants
 
@@ -103,6 +106,22 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)**, [sir aelay](https://osu.ppy.sh/users/12055954), [xShyzDy](https://osu.ppy.sh/users/13545528) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a81f6e7fddd9345702ba0d0fb75f759).
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (32 MB)](https://packs.ppy.sh/P270%20-%20osu!%20World%20Cup%202025%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2345049575)
+
+1. [rN - opia (Maxus) \[Stage 1: Dark Apathy\]](https://osu.ppy.sh/beatmapsets/2303937#mania/4924792)
+2. [-45 - bloody malie (Carpihat) \[Stage 2: -.. . .- - .... -.. . .-.. .- -.--\]](https://osu.ppy.sh/beatmapsets/2303939#mania/4924794)
+3. [Sephid - Fine Logic (\_Stan) \[Stage 3: Seeking\]](https://osu.ppy.sh/beatmapsets/2303947#mania/4924808)
+4. [aran - Yoake Mae feat. shully (\_Kobii) \[Stage 4: Mystic\]](https://osu.ppy.sh/beatmapsets/2303945#mania/4924806)
+5. [Mono. - skip&step (Blocko) \[Stage 5: Stride\]](https://osu.ppy.sh/beatmapsets/2303942#mania/4924800)
+6. [3R2 - Spring Carnival (qodtjr) \[Stage 6: Joyous\]](https://osu.ppy.sh/beatmapsets/2303934#mania/4924787)
+7. [Junk - Yellow Smile (ExNeko) \[Stage 7: Sunshine\]](https://osu.ppy.sh/beatmapsets/2303944#mania/4924805)
+8. [seatrus - Hekikuu no Yakusoku (Critical\_Star) \[Stage 8: Azure\]](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807)
 
 ## Ruleset
 
