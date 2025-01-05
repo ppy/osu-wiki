@@ -112,7 +112,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 ### Qualifiers
 
 **[Download the mappack here (32 MB)](https://packs.ppy.sh/P270%20-%20osu!%20World%20Cup%202025%3A%20Qualifiers.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/collections/6Mg2S0rTFxi6uQ)
+[View the showcase VOD here](https://www.twitch.tv/videos/2345049575)
 
 1. [rN - opia (Maxus) \[Stage 1: Dark Apathy\]](https://osu.ppy.sh/beatmapsets/2303937#mania/4924792)
 2. [-45 - bloody malie (Carpihat) \[Stage 2: -.. . .- - .... -.. . .-.. .- -.--\]](https://osu.ppy.sh/beatmapsets/2303939#mania/4924794)
