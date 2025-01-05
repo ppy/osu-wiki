@@ -378,13 +378,14 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Players are eligible to use a 2 minute tactical time out once per match. They are only allowed to use it when it is their turn to pick. It will take into effect after the pick timer has expired.
 - If a player disconnects during a map within 30 seconds, the player must reconnect within 5 minutes and the map may be replayed. This only applies once for each player. From there onwards, if the player disconnects again at any point of the match, the match will be played out normally until the player reconnects or forfeits the remaining maps.
 - If two players tie on a map, the map is replayed. In case another tie occurs, the map is nullified and another map may be chosen by the same player who picked the nulled map.
--  Scores in the match link are final, unless a player can give a legitimate screenshot (Shift + F12), a replay file, or a video clip. The score in the given proof must be clearly visible in order for it to be accepted.
+- Scores in the match link are final, unless a player can give a legitimate screenshot (Shift + F12), a replay file, or a video clip. The score in the given proof must be clearly visible in order for it to be accepted.
 
 ### Player Conduct
 
 In order to preserve the integrity of the tournament, all players are expected to observe proper conduct befitting a "national championship".
 
 Improper conduct includes, but is not limited to:
+
 - Any form of toxicity towards other players, staff, or spectators.
 - Unsportsmanlike behaviour, such as purposefully throwing matches or match fixing.
 - Deliberate misconduct.
