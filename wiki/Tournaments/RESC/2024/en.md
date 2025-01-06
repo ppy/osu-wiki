@@ -9,7 +9,7 @@ tags:
 
 ![Resurrection Cup 2024](img/banner.jpg)
 
-**Resurrection Cup 2024** was a 4v4, double-elimination osu! tournament hosted by ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110) and ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512). It was the third instalment in the Resurrection Cup series.
+**Resurrection Cup 2024** was a 4v4, double-elimination osu! tournament hosted by ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110) and ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512). It was the third instalment in the Resurrection Cup series. Resurrection Cup 2024 also introduced the Resurrection Cup mascot, Serenity.
 
 ## Tournament schedule
 
@@ -43,7 +43,8 @@ tags:
 | :-- | :-- |
 | Host | ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512) |
 | Lead GFX | ::{ flag=ID }:: [Len_licht](https://twitter.com/Len_licht) |
-| Team Serenity | ::{ flag=GB }:: [Ethereal_Winter](https://osu.ppy.sh/users/9780417), ::{ flag=ID }:: [Len_licht](https://twitter.com/Len_licht), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601), ::{ flag=HU }:: [Yumeyo](https://twitter.com/Yumeyo_art) |
+| Serenity design team | ::{ flag=ID }:: [Len_licht](https://twitter.com/Len_licht), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601), ::{ flag=HU }:: [Yumeyo](https://twitter.com/Yumeyo_art) |
+| Serenity's voice | ::{ flag=GB }:: [Ethereal_Winter](https://osu.ppy.sh/users/9780417) |
 | Main theme design | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
 | Animation design | ::{ flag=ID }:: [Len_licht](https://twitter.com/Len_licht), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593), ::{ flag=US }:: [Secondoverthree](https://osu.ppy.sh/users/13432062) |
 | Storyboarders | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366), ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334) |
@@ -453,7 +454,7 @@ Sunday, 23 June 2024:
 
 ### Qualifiers
 
-Seeding results are calculated by taking the Z-Sums of the teams and placing those linearly between 0 and 1 where 1 is the best performing team and 0 the worst performing team. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1IevySrIL2gtHzz5jUByiouxqWNpKwwek4dgmK8cIKI8).
+Seeding results are calculated by ranking each team by their sum of [Z-scores](https://en.wikipedia.org/wiki/Standard_score), normalised to a scale of 0 to 1. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1IevySrIL2gtHzz5jUByiouxqWNpKwwek4dgmK8cIKI8).
 
 ## Ruleset
 
