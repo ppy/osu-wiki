@@ -14,7 +14,7 @@ Depuis 2020, le MBC a adopté un nouveau calendrier, un nouveau règlement, une 
 
 Les informations et les résultats de toutes les itérations du MBC depuis sa relance en 2020 sont disponibles ci-dessous.
 
-| | Concours | Gagnant | Deuxième place | [Le numéro 1 de présélection](#filtrage) | Résultats |
+|  | Concours | Gagnant | Deuxième place | [Le numéro 1 de présélection](#filtrage) | Résultats |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![osu! icon](/wiki/shared/mode/osu.png) | [Jan 2020](https://osu.ppy.sh/community/contests/84) | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | [News](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results), [Vote](https://osu.ppy.sh/community/contests/84) |
 | ![osu! icon](/wiki/shared/mode/osu.png) | [Feb 2020](https://osu.ppy.sh/community/contests/89) | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | [News](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results), [Vote](https://osu.ppy.sh/community/contests/89) |
