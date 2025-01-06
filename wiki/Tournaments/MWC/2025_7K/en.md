@@ -57,6 +57,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2014134)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/48)
+- [Challonge bracket](https://challonge.com/MWC7K2025)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/160) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Vod collection (Twitch)](https://www.twitch.tv/collections/6Mg2S0rTFxi6uQ)
 
