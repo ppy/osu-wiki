@@ -4,7 +4,7 @@ title: "osu!mania 7K World Cup 2025: Qualifiers Recap"
 date: 2025-01-16 23:00:00 +0000
 ---
 
-Opening sentence
+The stage is set, and our contestants are about to take on the challenge. Join us along and witness the beginning of a 7K hero's journey!
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
 
