@@ -30,10 +30,10 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 70% of the prizepool, exclusive profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the prizepool, exclusive profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the prizepool, exclusive profile banner |
-| 4th place | Exclusive profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 70% of the prize pool, exclusive profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the prize pool, exclusive profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the prize pool, exclusive profile banner |
+| "4th place" | Exclusive profile banner |
 
 ![](img/badge.png "Resurrection Cup 2024 winner badge")
 
@@ -457,10 +457,10 @@ Seeding results are calculated by taking the Z-Sums of the teams and placing tho
 
 ## Ruleset
 
-### General Information
+### General information
 
 1. All matches will be played with ScoreV2 in Head-to-head mode.
-2. 32 teams will qualify for the bracket stage, chosen through Qualifiers Stage.
+2. 32 teams will qualify for the bracket stage, chosen through Qualifier Stage.
 3. All maps will be played with No Fail enabled, in addition to the appropriate mods.
 
 ### Registration
@@ -469,10 +469,10 @@ Seeding results are calculated by taking the Z-Sums of the teams and placing tho
 2. The team captain must be present in the Discord until the end of their team's tournament run. If none of the team members can be contacted by any means, it results in a forfeit.
 3. Staff members and former staff members (before registrations opened) who participated in the production of this iteration are not allowed to participate, with the exception of commentators.
 
-### Qualifiers Procedure
+### Qualifier procedure
 
-1. The referee will create the lobby around 10 minutes before the scheduled match time, ping all assigned team captains in the Discord server and send out the invites shortly after.
-2. Teams have 5 minutes to gather enough players in the lobby. If a team cannot gather 4 players, they can reschedule for a different, already existing lobby. 
+1. The referee will create the lobby around 10 minutes before the scheduled match time, ping all assigned team captains in the Discord server, and send out the invites shortly after.
+2. Teams have 5 minutes to gather enough players in the lobby. If a team cannot gather 4 players, they can reschedule for a different, already existing lobby.
 3. Each map will be played in order as they are shown on the mappool sheet. There will be one playthrough of the pool.
 4. If there is a disconnect, the player(s) that disconnected will be allowed to replay the map at the end of the lobby.
 
@@ -482,7 +482,7 @@ Seeding results are calculated by taking the Z-Sums of the teams and placing tho
 2. Teams have 10 minutes to gather enough players in the lobby. If a team fails to gather 4 players in the lobby on time, the match will be counted as a win for the opponent.
    - If neither of the teams show up, they will be able to reschedule to a different time. If no suitable time can be found, the team with the higher qualifier seeding will be given the advantage.
 3. In case of a disconnect, a team will be able to replay the map if the disconnect happened within the first 45 seconds of the map. A team is only allowed to replay one map during the whole match, any additional disconnects will not be taken into consideration and the opponent will win the point.
-   - The referee may allow additional replays at their discretion and with confirmation from the opponent. If you're having major internet issues so you keep disconnecting every map, you should not play.
+   - The referee may allow additional replays at their discretion and with confirmation from the opponent. If you're having major internet issues causing you to keep disconnecting every map, you should not play.
 4. You may select a warmup map with a maximum length of 4 minutes. Warmups can be skipped if both team captains agree to it.
 5. Both captains will be asked to roll. Whoever rolls higher will be given the choice of either first ban, second ban, first pick, or second pick. If the winner of the roll chooses the pick order, the loser chooses the ban order, and vice versa.
 6. Free Mod requires both teams to have a player picking HD and a player picking HR, the remaining two players can pick any of the following mods: HD, HR, FL, or EZ (x1.75). All players must have a mod.
@@ -516,16 +516,16 @@ Seeding results are calculated by taking the Z-Sums of the teams and placing tho
 
 #### Qualifiers
 
-1. Qualifier lobbies can be scheduled in the Discord server in the #scheduling channel. Rescheduling a qualifier lobby can be done here as well.
+1. Qualifier lobbies can be scheduled in the Discord server in the `#scheduling` channel. Rescheduling a qualifier lobby can be done here as well.
 2. If a team doesn't show up to their qualifiers lobby, they may reschedule to any other lobby provided there is free space in that lobby. The hosts should be contacted if this is the case. If the team is able to play in the very next lobby, and there is space for them to do so, they should additionally contact the referee of that lobby.
-3. If a team fails to show up to any qualifiers lobby, they will be disqualified. 
+3. If a team fails to show up to any qualifiers lobby, they will be disqualified.
 4. If it is not possible for a team to make any of the scheduled lobbies, they may request a custom time for their lobby subject to staff availability and host's discretion.
 
 #### Bracket stage
 
-1. If the assigned time does not work with your team's schedule/you don't like it, please reschedule your match using the format from the pinned messages.
-2. Reschedules will be accepted until 12hrs before the original time of the match, and only if you reschedule to a later time. If you reschedule to an earlier time, reschedules will only be accepted until 12hrs before the new time of the match.
-3. If you post a reschedule later than 12hrs before the original/new time, approval is subject to staff availability and host's discretion. If no referee can be found for that time, the reschedule may be declined and your match will be played at the original time. Attempts at rescheduling to a different time are permitted.
+1. If the assigned time does not work with your team's schedule/you don't like it, please reschedule your match using the format found pinned in the `#scheduling` channel on Discord.
+2. Reschedules will be accepted until 12 hours before the original time of the match, and only if you reschedule to a later time. If you reschedule to an earlier time, reschedules will only be accepted until 12 hours before the new time of the match.
+3. If you post a reschedule later than 12 hours before the original/new time, approval is subject to staff availability and host's discretion. If no referee can be found for that time, the reschedule may be declined and your match will be played at the original time. Attempts at rescheduling to a different time are permitted.
 
 #### Conditional matches
 
