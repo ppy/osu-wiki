@@ -1535,7 +1535,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Midian&query=%22Pixel%20Odyssey%22 "osu! original") | Midian - Pixel Odyssey | [#1](https://osu.ppy.sh/beatmapsets/2236209) | Grand Finals Group A LN2 |
+|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Midian&query=%22Pixel%20Odyssey%22 "osu! original") | Midian - Pixel Odyssey | [#1](https://osu.ppy.sh/beatmapsets/2236209) | Week 3 Group A LN2 |
 
 #### ![](/wiki/shared/mode/mania.png) [Sparxe's Two Key Event](/wiki/Tournaments/STKE/1)
 
