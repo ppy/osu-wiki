@@ -44,7 +44,7 @@ Besides the game mode hubs, other community servers exist to facilitate communic
 |  | Name | Owner | Description |
 | :-: | :-- | :-- | :-- |
 | [![](img/Mapset-Management-Server.png)](https://discord.com/invite/TCDSjhb6yS) | [Mapset Management Server](https://discord.com/invite/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** hosts spaces to create and browse requests for [mods](/wiki/Modding), [guest difficulties](/wiki/Beatmap/Guest_difficulty), and [collaborations](/wiki/Beatmap/Beatmap_collaborations) in a casual environment. |
-| [![](img/Mentorship.png)](https://discord.com/invite/Ft2FtXmBgx) | [Mentorship](https://discord.com/invite/Ft2FtXmBgx) | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | The **Mentorship** server manages the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program), hosting seasonal classes to teach and learn [mapping](/wiki/Beatmapping) and [modding](/wiki/Beatmapping) for all game modes.  |
+| [![](img/Mentorship.png)](https://discord.com/invite/Ft2FtXmBgx) | [Mentorship](https://discord.com/invite/Ft2FtXmBgx) | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | The **Mentorship** server manages the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program), hosting seasonal classes to teach and learn [mapping](/wiki/Beatmapping) and [modding](/wiki/Beatmapping) for all game modes. |
 
 ## Tournaments
 
