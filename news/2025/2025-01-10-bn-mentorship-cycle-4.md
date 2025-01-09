@@ -55,7 +55,7 @@ Below you'll find a list of mentors for each game mode, alongside their timezone
 
 [![Application link](/wiki/shared/news/banners/bn-mentorship/apply.png)](https://forms.gle/1N2zEZqKmwhrfXzm8)
 
-You (or anyone you think they'd be interested) may apply by smashing that big ol' button above. However, don't brood over it for too long, as sign-ups end on **January 24th**.
+You may apply by smashing that big ol' button above. However, don't brood over it for too long, as sign-ups end on **January 24th**.
 
 Good luck!
 
