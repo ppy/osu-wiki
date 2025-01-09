@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BN Mentorship: Cycle 4 Sign-ups Open"
-date: 2025-01-10 10:00:00 +0000
+date: 2025-01-10 12:00:00 +0000
 ---
 
 A new year, a new cycle of BN Mentorship!
