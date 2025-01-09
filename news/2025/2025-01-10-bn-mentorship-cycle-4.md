@@ -8,7 +8,7 @@ A new year, a new cycle of BN Mentorship!
 
 ![](/wiki/shared/news/banners/bn-mentorship/banner.jpg)
 
-For those who aren't on the loop, the BN Mentorship Program is an [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)-led effort to try and give modders interested in joining the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) the skills they may be lacking to do so. Participants get mentored on how to mod in the way a BN is expected to, given tips on how to optimize their workflow and given crucial insight as to how to avoid common modding pitfalls.
+For those who aren't on the loop, the BN Mentorship Program is a [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)-led effort to try and give modders interested in joining the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) the skills they may be lacking to do so. Participants get mentored on how to mod in the way a BN is expected to, given tips on how to optimize their workflow and given crucial insight as to how to avoid common modding pitfalls.
 
 Cycles last around 2 months, with this cycle being planned to run from **January 25th** to **March 23rd**.
 
