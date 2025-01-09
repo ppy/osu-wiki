@@ -33,7 +33,7 @@ Below you'll find a list of mentors for each game mode, alongside their timezone
 | Mentor | Timezone |
 | :-- | :-- |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) & ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (joint class) | UTC+?? & UTC+2 |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | UTC+?? |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | UTC+8 |
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch mentors
 
@@ -45,9 +45,9 @@ Below you'll find a list of mentors for each game mode, alongside their timezone
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-?? |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-4 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | UTC+7 |
-| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+?? |
+| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+1 |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | UTC+?? |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | UTC+8 |
 
