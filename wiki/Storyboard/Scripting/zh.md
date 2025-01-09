@@ -4,7 +4,7 @@
 
 **用脚本制作故事板** 指的是使用 [`.osb`](/wiki/Client/File_formats/osb_(file_format)) 与 [`.osu`](/wiki/Client/File_formats/osu_(file_format)) 文件编辑 osu! [故事板](/wiki/Storyboard)的过程。这些文件定义了在游玩过程中，[游戏客户端](/wiki/Client)要渲染成背景动画的图像与效果。
 
-当需要制作精确复杂的故事板时，与其使用[游戏客户端的故事板编辑器](/wiki/Client/Beatmap_editor/Design)，通常会转而编写脚本。使用诸如[记事本](https://zh.wikipedia.org/wiki/Windows_Notepad "维基百科上的“Windows 记事本”")、[Notepad++](https://www.notepad-plus-plus.org/)、[Visual Studio Code](https://code.visualstudio.com/) 这样的文本编辑器，故事板制作者可以编辑[对象](Objects)与[命令](Commands)的具体数值，而无需使用屏幕上的控件。许多故事板制作者也会利用[编程](https://zh.wikipedia.org/wiki/Computer_programming "维基百科上的“计算机编程”")来构建难以手动制作的故事板文件。
+当需要制作精确复杂的故事板时，与其使用[游戏客户端的故事板编辑器](/wiki/Client/Beatmap_editor/Design)，通常会转而编写脚本。使用诸如[记事本](https://zh.wikipedia.org/wiki/Windows_Notepad "维基百科上的“Windows 记事本”")、[Notepad++](https://www.notepad-plus-plus.org/)、[CodeLobster](https://codelobster.com/)、[Visual Studio Code](https://code.visualstudio.com/) 这样的文本编辑器，故事板制作者可以编辑[对象](Objects)与[命令](Commands)的具体数值，而无需使用屏幕上的控件。许多故事板制作者也会利用[编程](https://zh.wikipedia.org/wiki/Computer_programming "维基百科上的“计算机编程”")来构建难以手动制作的故事板文件。
 *警告：请避免编辑已在[谱面编辑器](/wiki/Client/Beatmap_editor)中打开的[谱面](/wiki/Beatmap)故事板脚本。保存谱面时，你的工作成果可能会被覆盖。*
 
 ## 概念与文件格式
