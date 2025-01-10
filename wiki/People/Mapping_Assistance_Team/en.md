@@ -16,7 +16,7 @@ The MAT was formed on the 27th of December, 2009, with initial members being han
 
 Shortly afterwards, open applications were held, allowing all members of the general mapping and modding community to apply for a position in the MAT. On the 26th of February, 2010, the first new batch of MAT members were added from these applicants,[^2] based on a collective evaluation from members of the BAT and existing MAT. Further application cycles were held regularly to scout for new members, as well as provide feedback to unsuccessful applicants.
 
-On the 13th of April, 2010, the proto-bubble was officially discontinued for use by the MAT.[^3] After this change, the MAT role would not have any direct crontol over beatmaps, and would serve more as a title given to exceptional modders.[^4]
+On the 13th of April, 2010, the proto-bubble was officially discontinued for use by the MAT.[^3] After this change, the MAT role would not have any direct control over beatmaps, and would serve more as a title given to exceptional modders.[^4]
 
 On the 4th of October, 2010, members of the MAT gained the ability to place [full bubble](/wiki/Modding/Bubble) and [bubble pop](/wiki/Modding/Bubble#bubble-pop) icons on beatmaps,[^5] bringing their roles and responsibilities more into line with their BAT colleagues. However, they still did not possess forum or in-game chat moderation tools, and focused solely on evaluating and promoting beatmaps.
 
