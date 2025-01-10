@@ -1,6 +1,6 @@
 # 偏移量
 
-**偏移量 (offset)** 是一项设置，能够暂时改变并对齐[谱面](/wiki/Beatmap)的不同组件，例如音轨，[打击音效](/wiki/Beatmapping/Hitsound)，[打击物件](/wiki/Gameplay/Hit_object)，或后台视频。游戏中，不同种类的偏移量影响不同的组件。
+**偏移量 (offset)** 是一项设置，能够暂时改变并对齐[谱面](/wiki/Beatmap)的不同元素，例如音轨，[打击音效](/wiki/Beatmapping/Hitsound)，[打击物件](/wiki/Gameplay/Hit_object)，或后台视频。游戏中，不同种类的偏移量影响不同的元素。
 
 根据偏移量的类型，它们可以由谱面创作者设定，由玩家自定义，或者由一位网站管理员调整。除了[全局偏移量](#类型)外，大部分偏移量都针对单一谱面。
 
@@ -8,7 +8,7 @@
 
 ### 游戏
 
-- [本地偏移量 (Local offset)](/wiki/Offset/Local_offset)，一项针对单个谱面的设定，能够相对音轨移动所有游戏组件。
+- [本地偏移量 (Local offset)](/wiki/Offset/Local_offset)，一项针对单个谱面的设定，能够相对音轨移动所有游戏元素。
 - [在线偏移量 (Online offset)](/wiki/Offset/Online_offset)，由 [NAT](/wiki/People/Nomination_Assessment_Team) 针对[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 的谱面设定，用于解决时间轴问题。
 - [全局偏移量 (Universal offset)](/wiki/Offset/Universal_offset)，一项针对所有谱面时间轴的设定，能够相对于其它游戏元素移动音轨。
 
