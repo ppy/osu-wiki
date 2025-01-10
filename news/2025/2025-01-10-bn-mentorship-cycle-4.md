@@ -34,7 +34,7 @@ Below you'll find a list of mentors for each game mode, alongside their time zon
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) & ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (joint class) | UTC+8 & UTC+2 |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) & ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (joint class) | UTC+8 & UTC+1 |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | UTC+8 |
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch mentors
