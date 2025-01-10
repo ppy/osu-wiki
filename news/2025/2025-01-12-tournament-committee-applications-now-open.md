@@ -55,11 +55,11 @@ For those selected, we will invite you to an optional 20-minute call with two ra
 
 ## Application
 
-**[Click here to apply!](https://www.google.com/)** After authentication, you'll complete a Google Form that collects basic information and includes scenario-based questions. We recommend setting aside about 30 minutes to provide well-thought-out and detailed answers. To ensure a fair evaluation process, please respond as if we're unfamiliar with you or your previous work, even if you're well-known in the community. This approach helps us gain a clear and comprehensive understanding of your skills, perspective, and enthusiasm.
+**[Click here to apply!](https://forms.gle/uADXw7zHM81e584y8)** After authentication, you'll complete a Google Form that collects basic information and includes scenario-based questions. We recommend setting aside about 30 minutes to provide well-thought-out and detailed answers. To ensure a fair evaluation process, please respond as if we're unfamiliar with you or your previous work, even if you're well-known in the community. This approach helps us gain a clear and comprehensive understanding of your skills, perspective, and enthusiasm.
 
 ## Timeline
 
-This application cycle will remain open for !N! weeks, closing on !DATE!. Please note that it may take up to six weeks after the closing date to process all applications, so we appreciate your patience.
+This application cycle will remain open for **2 weeks**, closing on **Sunday, January 26, 2025**. Please note that it may take up to 6 weeks after the closing date to process all applications, so we appreciate your patience.
 
 ## Questions
 
