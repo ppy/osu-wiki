@@ -407,6 +407,15 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [RMoT #2](RMoTI/2) | 6/5/2017 | 14/5/2017 | ::{ flag=PL }:: [MagBlood](https://osu.ppy.sh/users/6178640) | ::{ flag=PL }:: [bsurma](https://osu.ppy.sh/users/509575) | ::{ flag=PL }:: [MaIson](https://osu.ppy.sh/users/6047395) |
 | [RMoT #5](RMoTI/5) | 12/5/2018 | 27/5/2018 | ::{ flag=FR }:: [Prosdokies](https://osu.ppy.sh/users/3852436) | ::{ flag=RU }:: [Well Halen](https://osu.ppy.sh/users/8660244) | ::{ flag=RU }:: [KoloMl](https://osu.ppy.sh/users/6544403) |
 
+#### Resurrection Cup
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Resurrection Cup 2022 | 17/6/2022 | 31/7/2022 | super auto pets | HWDP: Sad Jabłkowy | Wii U Esports |
+| Resurrection Cup: Cataclysm Contest | 4/11/2022 | 18/12/2022 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
+| Resurrection Cup 2023 | 16/6/2023 | 30/7/2023 | ESSA | fresh off the boat | Sleep accommodation |
+| [Resurrection Cup 2024](RESC/2024) | 14/6/2024 | 28/7/2024 | kotomiler | fresh off the boat | Bobik |
+
 #### ROI PRO Tournament
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
@@ -928,6 +937,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [Touhou Project Mania Cup 1st](TMC/1st) | 14/9/2020 | 6/12/2020 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 20/12/2021 | 20/3/2022 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 | [Touhou Project Mania Cup 3rd](TMC/3rd) | 17/4/2023 | 16/7/2023 | Bloxy cola | Winx Club | Mew's Bodyguards |
+| [Touhou Project Mania Cup 4th](TMC/4th) | 22/12/2024 | 30/03/2025 | *TBD* | *TBD* | *TBD* |
 
 ### Multimodo
 

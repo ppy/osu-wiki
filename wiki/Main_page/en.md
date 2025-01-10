@@ -100,9 +100,11 @@ Social interaction is one of main things that fuel osu! players all around the w
 
 Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord servers](/wiki/Community/Discord_servers)
 
-[Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+Initiatives: [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Projects](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly)
+
+Media: [Bespoke music](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Video series](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
