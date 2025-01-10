@@ -22,7 +22,7 @@ Below you'll find a list of mentors for each game mode, alongside their time zon
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | UTC+2 |
+| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | UTC+1 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | UTC-3 |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) | UTC-4 |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | UTC-5 |
@@ -41,7 +41,7 @@ Below you'll find a list of mentors for each game mode, alongside their time zon
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | UTC+2 |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | UTC+1 |
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania mentors
 
