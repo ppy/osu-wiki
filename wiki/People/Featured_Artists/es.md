@@ -28,7 +28,7 @@ Nuevos lanzamientos de un artista destacado por año:
 - **2020:** 65
 - **2021:** 101
 - **2022:** 104
-- **2023:** 64
+- **2023:** 65
 - **2024:** 58
 - **2025:** *por determinar*
 
