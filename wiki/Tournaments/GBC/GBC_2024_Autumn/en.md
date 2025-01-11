@@ -142,9 +142,9 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
   6. [STAYC - STEREOTYPE \[Good Girl\]](https://osu.ppy.sh/beatmapsets/2271422#mania/4838220)
   7. [Nishiki Yasunori - The Song of Hope \[vs Dolcinea (Edit)\]](https://osu.ppy.sh/beatmapsets/2106951#mania/4916165)
 - **HB**
-  HB1. [Kaneko Chiharu - Opfer \[Alice in Misanthrope(GBC edit)\]](https://osu.ppy.sh/beatmapsets/2300506#mania/4916150)
-  HB2. [Sakuzyo - Ultimate Force \[Ultima Refined\]](https://osu.ppy.sh/beatmapsets/2300497#mania/4916129)
-  HB3. [Kayuki - Miya Gekkyou \[Alone under the Moon (edit)\]](https://osu.ppy.sh/beatmapsets/2300501#mania/4916135)
+  1. [Kaneko Chiharu - Opfer \[Alice in Misanthrope(GBC edit)\]](https://osu.ppy.sh/beatmapsets/2300506#mania/4916150)
+  2. [Sakuzyo - Ultimate Force \[Ultima Refined\]](https://osu.ppy.sh/beatmapsets/2300497#mania/4916129)
+  3. [Kayuki - Miya Gekkyou \[Alone under the Moon (edit)\]](https://osu.ppy.sh/beatmapsets/2300501#mania/4916135)
 - **LN**
   1. [sasakure.UK feat. Hatsune Miku - Replica \[Finale w/ MyZterioN-\]](https://osu.ppy.sh/beatmapsets/2300514#mania/4916166)
   2. [UNDEAD CORPORATION - Kasha no sakebu yoru ni \[HOOOOOOONK!\]](https://osu.ppy.sh/beatmapsets/2300513#mania/4916163)
@@ -169,9 +169,9 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
   6. [Monster Siren Records / Adam Gubman - Ambiguous Morality \[Il Carnevale (vs. elexire vs. Nepijin) \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2297181#mania/4906816)
   7. [Juggernaut. - Yomi \[At Acheron w/ Doshowz\]](https://osu.ppy.sh/beatmapsets/2297147#mania/4906714)
 - **HB**
-  HB1. [Designant - Designant. \[Designant\]](https://osu.ppy.sh/beatmapsets/2297162#mania/4906745)
-  HB2. [TOGENASHI TOGEARI - Zattou, Bokura no Machi \[Renascence\]](https://osu.ppy.sh/beatmapsets/2297166#mania/4906750)
-  HB3. [BlackY a.k.a. WAiKURO survive - Divide et impera! \[Vivere est militare! (edit)\]](https://osu.ppy.sh/beatmapsets/2297164#mania/4906747)
+  1. [Designant - Designant. \[Designant\]](https://osu.ppy.sh/beatmapsets/2297162#mania/4906745)
+  2. [TOGENASHI TOGEARI - Zattou, Bokura no Machi \[Renascence\]](https://osu.ppy.sh/beatmapsets/2297166#mania/4906750)
+  3. [BlackY a.k.a. WAiKURO survive - Divide et impera! \[Vivere est militare! (edit)\]](https://osu.ppy.sh/beatmapsets/2297164#mania/4906747)
 - **LN**
   1. [Ito Kashitaro - Shura Nikki \[Creation(Nerfed)\]](https://osu.ppy.sh/beatmapsets/2282152#mania/4906761)
   2. [USAO - XTREME \[INFERNO\]](https://osu.ppy.sh/beatmapsets/2297169#mania/4906764)
@@ -195,9 +195,9 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
   5. [petit milady - Ma Cherie (Cut Ver.) \[Loving U Forever...\]](https://osu.ppy.sh/beatmapsets/2290876#mania/4889804)
   6. [Raphlesia - PSYCHO-BOMB \[SCREWY OUTBURST 1.05x\]](https://osu.ppy.sh/beatmapsets/2290707#mania/4889409)
 - **HB**
-  HB1. [Ooguni Kanon - Koorimetsu no 135-shousetsu \[Glacial Eruption\]](https://osu.ppy.sh/beatmapsets/2270774#mania/4889808)
-  HB2. [owl＊tree feat.nie＊tree - QuiQ \[Don't go back to sleep!! (edit)\]](https://osu.ppy.sh/beatmapsets/2290879#mania/4889813)
-  HB3. [SXTH SNS - watercolours \[refraction\]](https://osu.ppy.sh/beatmapsets/1861787#mania/3828054)
+  1. [Ooguni Kanon - Koorimetsu no 135-shousetsu \[Glacial Eruption\]](https://osu.ppy.sh/beatmapsets/2270774#mania/4889808)
+  2. [owl＊tree feat.nie＊tree - QuiQ \[Don't go back to sleep!! (edit)\]](https://osu.ppy.sh/beatmapsets/2290879#mania/4889813)
+  3. [SXTH SNS - watercolours \[refraction\]](https://osu.ppy.sh/beatmapsets/1861787#mania/3828054)
 - **LN**
   1. [Kano - Yuudachi no Ribbon \[Edit\]](https://osu.ppy.sh/beatmapsets/2230694#mania/4889820)
   2. [Aquestion - fragment \[The Remnants of Time (Cut & Edit)\]](https://osu.ppy.sh/beatmapsets/2290901#mania/4889851)
@@ -220,9 +220,9 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
   5. [lalanoi - magicalgirl \[incredible (edit)\]](https://osu.ppy.sh/beatmapsets/2287706#mania/4881139)
   6. [Frums - Credits \[Funding w/ Sanae\]](https://osu.ppy.sh/beatmapsets/2287835#mania/4881439)
 - **HB**
-  HB1. [Team Grimoire vs Laur - Grievous Lady (Laur Remix) \[Divine\]](https://osu.ppy.sh/beatmapsets/2287826#mania/4881417)
-  HB2. [yandere - y2k forever \[to the wonderful childhood gone by\]](https://osu.ppy.sh/beatmapsets/2287829#mania/4881423)
-  HB3. [Charli xcx - Guess feat. Billie Eilish \[sure i guess\]](https://osu.ppy.sh/beatmapsets/2246850#mania/4867539)
+  1. [Team Grimoire vs Laur - Grievous Lady (Laur Remix) \[Divine\]](https://osu.ppy.sh/beatmapsets/2287826#mania/4881417)
+  2. [yandere - y2k forever \[to the wonderful childhood gone by\]](https://osu.ppy.sh/beatmapsets/2287829#mania/4881423)
+  3. [Charli xcx - Guess feat. Billie Eilish \[sure i guess\]](https://osu.ppy.sh/beatmapsets/2246850#mania/4867539)
 - **LN**
   1. [YOASOBI - Yuusha (Aitsuki Nakuru cover) \[Exploring\]](https://osu.ppy.sh/beatmapsets/2287831#mania/4881429)
   2. [Omoi - Teo \[Sotto\]](https://osu.ppy.sh/beatmapsets/2287843#mania/4881465)
@@ -244,8 +244,8 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
   4. [Sakuzyo - Neurotoxin \[Scorpion x1.1\]](https://osu.ppy.sh/beatmapsets/2281365#mania/4863913)
   5. [tsubi club - re:laced.up \[i.hate.it\]](https://osu.ppy.sh/beatmapsets/2281183#mania/4863452)
 - **HB**
-  HB1. [BEMANI Sound Team "person09" - Puberty Dysthymia \[EX\]](https://osu.ppy.sh/beatmapsets/1792778#mania/3854386)
-  HB2. [Hino Isuka - Mechanical Jaeger \[Tayer's MEGA\]](https://osu.ppy.sh/beatmapsets/2238673#mania/4797566)
+  1. [BEMANI Sound Team "person09" - Puberty Dysthymia \[EX\]](https://osu.ppy.sh/beatmapsets/1792778#mania/3854386)
+  2. [Hino Isuka - Mechanical Jaeger \[Tayer's MEGA\]](https://osu.ppy.sh/beatmapsets/2238673#mania/4797566)
 - **LN**
   1. [Boa - Duvet \[Wired\]](https://osu.ppy.sh/beatmapsets/2281375#mania/4863943)
   2. [Neko Hacker - Setsuna no Chikai (feat. Tsukasa Yuzaki (CV: Kito Akari)) \[VERY HARD 1.1X EDIT\]](https://osu.ppy.sh/beatmapsets/2197955#mania/4873563)
@@ -267,8 +267,8 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
   4. [MONKEY MAJIK - Running In The Dark \[Faraway\]](https://osu.ppy.sh/beatmapsets/2085950#mania/4369837)
   5. [The Flashbulb - Terra Firma \[Esfera 1.1x (143bpm)\]](https://osu.ppy.sh/beatmapsets/1522706#mania/3161552)
 - **HB**
-  HB1. [tn-shi - Synthesis. (Cut Ver.) \[Coalescence.\]](https://osu.ppy.sh/beatmapsets/2277391#mania/4853491)
-  HB2. [lapix - Flamenco House \[flemish (edit)\]](https://osu.ppy.sh/beatmapsets/1325697#mania/4832848)
+  1. [tn-shi - Synthesis. (Cut Ver.) \[Coalescence.\]](https://osu.ppy.sh/beatmapsets/2277391#mania/4853491)
+  2. [lapix - Flamenco House \[flemish (edit)\]](https://osu.ppy.sh/beatmapsets/1325697#mania/4832848)
 - **LN**
   1. [LamazeP, Hatsune Miku - Ai no Uta \[58858858588 (Cut & Edit ver.)\]](https://osu.ppy.sh/beatmapsets/2195524#mania/4645531)
   2. [HiTECH NINJA - Blah!! \[Kick It!!\]](https://osu.ppy.sh/beatmapsets/2277408#mania/4853515)
