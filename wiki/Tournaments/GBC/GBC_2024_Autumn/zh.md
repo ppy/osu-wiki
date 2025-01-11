@@ -33,6 +33,41 @@ tags:
 | 淘汰赛第一周 | 2024-12-28/2024-12-29 |
 | 淘汰赛第二周 | 2025-01-04/2025-01-05 |
 
+## 奖励
+
+### QQ 赛区
+
+| 队伍排名 | 奖励 |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫 bot 缎带，¥450 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫 bot 缎带，¥400 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫 bot 缎带，¥350 |
+| *殿军* | ¥300 |
+| *第 5-8 名* | ¥250 |
+| *第 9-12 名* | ¥200 |
+| *第 13-16 名* | ¥150 |
+| *第 17-24 名* | ¥100 |
+| *第 25-32 名* | ¥50 |
+
+| 资格赛排名 | 奖励 |
+| :-: | :-- |
+| *第 1-4 名* | ¥40 |
+| *第 5-8 名* | ¥30 |
+| *第 9-16 名* | ¥20 |
+| *第 17-32 名* | ¥10 |
+
+![GBC 2024 秋季赛 QQ 赛区冠军缎带图片](img/GBC-2024-Autumn-badge-QQ-1st.png)
+
+### Discord 赛区
+
+| 队伍排名 | 奖励 |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，每人4个月osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 每人2个月osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 每人1个月osu!supporter |
+
+![GBC 2024 秋季赛 Discord 赛区冠军缎带图片](img/GBC-2024-Autumn-badge-Discord-1st.png)
+
 ## 组织
 
 GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
@@ -126,6 +161,26 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | D14 | **The Vicious Cycle Of Cat** | ::{ flag=TH }:: **[AomDCO](https://osu.ppy.sh/users/21072569)**, ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179)**, ::{ flag=TH }:: [panny](https://osu.ppy.sh/users/20179559)**, ::{ flag=SG }:: [AdamAckerville](https://osu.ppy.sh/users/12297375)**, ::{ flag=PH }:: [BronyaZaychik_](https://osu.ppy.sh/users/19690810) |
 | D15 | **Mania Rangers Dinoforce** | ::{ flag=KR }:: **[Selitation](https://osu.ppy.sh/users/25311011)**, ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419)**, ::{ flag=ES }:: [Alen-](https://osu.ppy.sh/users/9552883)**, ::{ flag=DZ }:: [aeko](https://osu.ppy.sh/users/16665306)**, ::{ flag=PH }:: [PandaChee](https://osu.ppy.sh/users/8072250) |
 | D16 | **okay²** | ::{ flag=TH }:: **[parponger](https://osu.ppy.sh/users/28098890)**, ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131)**, ::{ flag=RO }:: [[LS]Khu](https://osu.ppy.sh/users/12712916)**, ::{ flag=CA }:: [[LS]Nemesis](https://osu.ppy.sh/users/20544648)**, ::{ flag=JP }:: [yuukituk](https://osu.ppy.sh/users/11998955) |
+
+## 领奖台
+
+本届赛事已经结束，有以下队伍登上了领奖台：
+
+### QQ 赛区
+
+| 名次 | 选手 |
+| :-: | :-- |
+| ![金冠图片](/wiki/shared/crown-gold.png "1st place") | Q17: 雾雨魔法小萝莉 |
+| ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | Q5: 我已进入天空之城 |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | Q3: 漏勺挖洞, Q24: Make PLANA Great Againn |
+
+### Discord 赛区
+
+| 名次 | 选手 |
+| :-: | :-- |
+| ![金冠图片](/wiki/shared/crown-gold.png "1st place") | D16: okay² |
+| ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | D12: Photon Worshippers |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | D13: bol |
 
 ## 图池
 
