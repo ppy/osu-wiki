@@ -41,7 +41,7 @@ osu! 官网上的 FAQ 板块现在允许贡献翻译。在这之后，志愿者�
 
 2 月 14 日，第四次 osu! community meeting 召开，讨论了谱面的管理方式、一个即将推出的本地化新功能两个议题，以及有关扩大 osu! 团队的一些问题。[^community-meeting-4]
 
-为了缓解在[谱面审核流程](/wiki/Beatmap_ranking_procedure)中[摸图](/wiki/Modding)过程的压力，[Kudosu]("/wiki/Modding/Kudosu) 系统被加入。谱师们可以给提出与谱面相关的建设性批评的人们奖励一种叫做 Kudosu 的点数。三个 Kudosu 可以兑换为一颗 Kudosu 星，而 Kudosu 星可以用于提升该谱面在[谱面审核团队](/wiki/People/Beatmap_Appreciation_Team) （BAT）的摸图队列中的优先级。[^kudosu-1]
+为了缓解在[谱面审核流程](/wiki/Beatmap_ranking_procedure)中[摸图](/wiki/Modding)过程的压力，[Kudosu](/wiki/Modding/Kudosu) 系统被加入。谱师们可以给提出与谱面相关的建设性批评的人们奖励一种叫做 Kudosu 的点数。三个 Kudosu 可以兑换为一颗 Kudosu 星，而 Kudosu 星可以用于提升该谱面在[谱面审核团队](/wiki/People/Beatmap_Appreciation_Team) （BAT）的摸图队列中的优先级。[^kudosu-1]
 
 ## 三月
 
