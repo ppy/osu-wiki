@@ -134,7 +134,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
 **[Download the mappack here (172MB)](https://drive.google.com/file/d/1iz317E_XpGKWZz7uF66TkWCP-clCMTV8/view?usp=sharing)**
 
 - **RC**
-  1. [Junk - Qualia \[Choukyorisou] \[shaky, sweaty (edit)\]](https://osu.ppy.sh/beatmapsets/2265656#mania/4916159)
+  1. [Junk - Qualia [Choukyorisou] \[shaky, sweaty (edit)\]](https://osu.ppy.sh/beatmapsets/2265656#mania/4916159)
   2. [Lime - Stellaria \[Expert (edit) (250bpm)\]](https://osu.ppy.sh/beatmapsets/2300510#mania/4916156)
   3. [t+pazolite - Cheatreal \[Extraneous (240bpm)\]](https://osu.ppy.sh/beatmapsets/2214819#mania/4693937)
   4. [Yoko Shimomura - Unfinished Business \[Imposing Iron Assault! \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2288088#mania/4882030)
@@ -181,7 +181,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
   1. [Sora Amamiya - Love Evidence (Cut Ver.) \[Stage 1: LaTeX Confession\]](https://osu.ppy.sh/beatmapsets/1768267#mania/3619649)
   2. [Sophie - Immaterial (Cut Ver.) \[Intangible\]](https://osu.ppy.sh/beatmapsets/2297076#mania/4906554)
 - **TB**
-  1. [ATOLS - ZOMBIE MAKER feat. Hatsune Miku \[Long Version] \[Lust for Life\]](https://osu.ppy.sh/beatmapsets/2297184#mania/4906820)
+  1. [ATOLS - ZOMBIE MAKER feat. Hatsune Miku [Long Version] \[Lust for Life\]](https://osu.ppy.sh/beatmapsets/2297184#mania/4906820)
 
 ### Swiss II Round 2 & 3 Mappool
 
@@ -240,7 +240,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
 - **RC**
   1. [FM-84 - Running In The Night (feat. Ollie Wride) (Cut Ver.) \[Chasing Sunset\]](https://osu.ppy.sh/beatmapsets/2281374#mania/4863942)
   2. [seatrus - Animare Niveus \[Animation\]](https://osu.ppy.sh/beatmapsets/2281359#mania/4863904)
-  3. [The Prodigy - Everybody in the Place (Fairground Remix) \[Cut Ver.] \[(Let's Go!)\]](https://osu.ppy.sh/beatmapsets/1441054#mania/2964707)
+  3. [The Prodigy - Everybody in the Place (Fairground Remix) [Cut Ver.] \[(Let's Go!)\]](https://osu.ppy.sh/beatmapsets/1441054#mania/2964707)
   4. [Sakuzyo - Neurotoxin \[Scorpion x1.1\]](https://osu.ppy.sh/beatmapsets/2281365#mania/4863913)
   5. [tsubi club - re:laced.up \[i.hate.it\]](https://osu.ppy.sh/beatmapsets/2281183#mania/4863452)
 - **HB**
