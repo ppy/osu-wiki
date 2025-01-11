@@ -33,6 +33,41 @@ The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) is a 3v3 captain draft–base
 | Knockout week 1 | 2024-12-28/2024-12-29 |
 | Knockout week 2 | 2025-01-04/2025-01-05 |
 
+## Prizes
+
+### QQ division
+
+| Team Placing | Prizes |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | Profile badgem, KanonBot profile badge, ¥450 CNY |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥400 CNY |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥350 CNY |
+| *4th place* | ¥300 CNY |
+| *5-8 place* | ¥250 CNY |
+| *9-12 place* | ¥200 CNY |
+| *13-16 place* | ¥150 CNY |
+| *17-24 place* | ¥100 CNY |
+| *25-32 place* | ¥50 CNY |
+
+| Qualifier Placing | Prizes |
+| :-: | :-- |
+| *1-4 place* | ¥40 CNY |
+| *5-8 place* | ¥30 CNY |
+| *9-16 place* | ¥20 CNY |
+| *17-32 place* | ¥10 CNY |
+
+![GBC 2024 Autumn QQ division winner badge](img/GBC-2024-Autumn-badge-QQ-1st.png)
+
+### Discord division
+
+| Team Placing | Prizes |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | Profile badge，4 months osu!supporter tag for members |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months osu!supporter tag for members |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months osu!supporter tag for members |
+
+![GBC 2024 Autumn Discord division winner badge](img/GBC-2024-Autumn-badge-Discord-1st.png)
+
 ## Organisation
 
 The GB Cup 2024 Autumn is run by Team GB and various community members.
@@ -69,7 +104,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
 
 ## Participants
 
-### QQ Division
+### QQ division
 
 | # | Team | Members |
 | :-: | :-- | :-- |
@@ -106,7 +141,7 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
 | Q31 | **队名待商榷** | ::{ flag=CN }:: **[neeeeeh](https://osu.ppy.sh/users/18586390)**, ::{ flag=CN }:: [Na2He](https://osu.ppy.sh/users/20298842)**, ::{ flag=CN }:: [a79](https://osu.ppy.sh/users/9912076)**, ::{ flag=CN }:: [CLLbin](https://osu.ppy.sh/users/11837219)**, ::{ flag=CN }:: [Lzq12345](https://osu.ppy.sh/users/15012640) |
 | Q32 | **SKT T1** | ::{ flag=CN }:: **[kamladshold](https://osu.ppy.sh/users/25158670)**, ::{ flag=CN }:: [GinaFujino](https://osu.ppy.sh/users/25864079)**, ::{ flag=CN }:: [-Chiyoda Momo-](https://osu.ppy.sh/users/14742881)**, ::{ flag=CN }:: [WingsOfRain](https://osu.ppy.sh/users/27029245)**, ::{ flag=JP }:: [Layfolk](https://osu.ppy.sh/users/28495605) |
 
-### Discord Division
+### Discord division
 
 | # | Team | Members |
 | :-: | :-- | :-- |
@@ -126,6 +161,26 @@ The GB Cup 2024 Autumn is run by Team GB and various community members.
 | D14 | **The Vicious Cycle Of Cat** | ::{ flag=TH }:: **[AomDCO](https://osu.ppy.sh/users/21072569)**, ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179)**, ::{ flag=TH }:: [panny](https://osu.ppy.sh/users/20179559)**, ::{ flag=SG }:: [AdamAckerville](https://osu.ppy.sh/users/12297375)**, ::{ flag=PH }:: [BronyaZaychik_](https://osu.ppy.sh/users/19690810) |
 | D15 | **Mania Rangers Dinoforce** | ::{ flag=KR }:: **[Selitation](https://osu.ppy.sh/users/25311011)**, ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419)**, ::{ flag=ES }:: [Alen-](https://osu.ppy.sh/users/9552883)**, ::{ flag=DZ }:: [aeko](https://osu.ppy.sh/users/16665306)**, ::{ flag=PH }:: [PandaChee](https://osu.ppy.sh/users/8072250) |
 | D16 | **okay²** | ::{ flag=TH }:: **[parponger](https://osu.ppy.sh/users/28098890)**, ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131)**, ::{ flag=RO }:: [[LS]Khu](https://osu.ppy.sh/users/12712916)**, ::{ flag=CA }:: [[LS]Nemesis](https://osu.ppy.sh/users/20544648)**, ::{ flag=JP }:: [yuukituk](https://osu.ppy.sh/users/11998955) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+### QQ division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Q17: 雾雨魔法小萝莉 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Q5: 我已进入天空之城 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Q3: 漏勺挖洞, Q24: Make PLANA Great Againn |
+
+### Discord division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | D16: okay² |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | D12: Photon Worshippers |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | D13: bol |
 
 ## Mappools
 
