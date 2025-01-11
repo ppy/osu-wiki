@@ -61,9 +61,11 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - 直播间
   - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+  - [Twitch直播间](https://www.twitch.tv/gbc_official)
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
 - [比赛 Discord 服务器](https://discord.gg/qpJjGuYyC5)
 - [赛事信息表格](https://docs.qq.com/sheet/DVktwUHBkWkNKbUpm)
+- [数据统计表格](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz)
 
 ## 参赛选手
 
