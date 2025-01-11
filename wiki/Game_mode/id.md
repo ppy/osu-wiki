@@ -30,7 +30,7 @@ Untuk berpindah antar mode permainan, klik tombol `Mode` yang terdapat pada bagi
 
 *Halaman utama: [osu!taiko](osu!taiko)*
 
-*osu!taiko* merupakan mode permainan yang menyimulasikan permainan drum sungguhan, di mana pemain menggunakan *keyboard* atau kit drum mereka untuk mengenai lingkaran beraneka warna yang bergulir di atas ban berjalan. Mode permainan ini didasarkan pada serial permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* yang diproduksi oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Maskot mode osu!taiko adalah [Mocha](/wiki/Mascots#mocha), seorang gadis berambut hijau dan berbalut kimono yang memegang stik drum.
+*osu!taiko* merupakan mode permainan yang menyimulasikan permainan drum sungguhan, di mana pemain menggunakan keyboard atau kit drum mereka untuk mengenai lingkaran beraneka warna yang bergulir di atas ban berjalan. Mode permainan ini didasarkan pada serial permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* yang diproduksi oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Maskot mode osu!taiko adalah [Mocha](/wiki/Mascots#mocha), seorang gadis berambut hijau dan berbalut kimono yang memegang stik drum.
 
 ![Permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Permainan osu!taiko")
 
@@ -38,7 +38,7 @@ Untuk berpindah antar mode permainan, klik tombol `Mode` yang terdapat pada bagi
 
 *Halaman utama: [osu!catch](osu!catch)*
 
-Pada mode *osu!catch*, berbagai macam buah akan jatuh dari atas layar, yang mengharuskan pemain untuk menangkap buah-buah ini sesuai dengan irama lagu menggunakan penangkap (*catcher*) yang dikendalikan di atas kepala mereka. Mode ini terilhami dari *minigame* yang terdapat pada salah satu simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) yang pernah beredar, yang sendirinya konon didasarkan pada mode *EZ2CATCH* dari serial permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Maskot mode osu!catch adalah [Yuzu](/wiki/Mascots#yuzu), seorang pemuda berambut biru.
+Pada mode *osu!catch*, berbagai macam buah akan jatuh dari atas layar, yang mengharuskan pemain untuk menangkap buah-buah ini sesuai dengan irama lagu menggunakan penangkap (*catcher*) yang dikendalikan di atas kepala mereka. Mode ini terilhami dari minigame yang terdapat pada salah satu simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) yang pernah beredar, yang sendirinya konon didasarkan pada mode *EZ2CATCH* dari serial permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Maskot mode osu!catch adalah [Yuzu](/wiki/Mascots#yuzu), seorang pemuda berambut biru.
 
 ![Permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
 
