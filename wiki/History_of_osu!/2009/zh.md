@@ -35,13 +35,13 @@ osu! 被 [nuudles](https://osu.ppy.sh/users/21312) 移植到了 iPhone 上。该
 osu! 官网上的 FAQ 板块现在允许贡献翻译。在这之后，志愿者们为使得 FAQ 板块可以以多种不同的语言访问而做出了许多贡献。[^faq-localisation]
 
 在 1 月 26 日的一次大更新中，又有许多功能被添加到 osu! 中。[^stable-b593a] 这些功能包括：新的多人游戏模式 [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) 与 [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs)；多人游戏房间的密码保护；可以通过矢量缩放和翻转转换选项，将故事板编辑器中的对象以一种新方式进行修改；
-游玩时，打击高亮效果将会以将颜色泼洒在屏幕上的方式来强调一次点击；歌曲游玩进度可以以饼状图进行显示；“最近游玩的”作为一种排序方式被加入了[选歌界面](/wiki/Client/Interface#song-select)。
+游玩时，打击高亮效果将会以将颜色泼洒在屏幕上的方式来强调一次点击；歌曲游玩进度可以以饼状图进行显示；“最近游玩的”作为一种排序方式被加入了[选歌界面](/wiki/Client/Interface#选歌界面)。
 
 ## 二月
 
 2 月 14 日，第四次 osu! community meeting 召开，讨论了谱面的管理方式、一个即将推出的本地化新功能两个议题，以及有关扩大 osu! 团队的一些问题。[^community-meeting-4]
 
-为了缓解在[谱面审核流程](/wiki/Beatmap_ranking_procedure)中[摸图](/wiki/Modding)过程的压力，[Kudosu]("/wiki/Kudosu) 系统被加入。谱师们可以给提出与谱面相关的建设性批评的人们奖励一种叫做 Kudosu 的点数。三个 Kudosu 可以兑换为一颗 Kudosu 星，而 Kudosu 星可以用于提升该谱面在[谱面审核团队](/wiki/People/Beatmap_Appreciation_Team) （BAT）的摸图队列中的优先级。[^kudosu-1]
+为了缓解在[谱面审核流程](/wiki/Beatmap_ranking_procedure)中[摸图](/wiki/Modding)过程的压力，[Kudosu]("/wiki/Modding/Kudosu) 系统被加入。谱师们可以给提出与谱面相关的建设性批评的人们奖励一种叫做 Kudosu 的点数。三个 Kudosu 可以兑换为一颗 Kudosu 星，而 Kudosu 星可以用于提升该谱面在[谱面审核团队](/wiki/People/Beatmap_Appreciation_Team) （BAT）的摸图队列中的优先级。[^kudosu-1]
 
 ## 三月
 
@@ -109,7 +109,7 @@ Twitter 账号 [@osustatus](https://twitter.com/osustatus) 被创建，用于通
 
 本月，[制谱协助团队](/wiki/People/Mapping_Assistance_Team) (MAT) 成立。MAT 负责挑选质量合格的[待定](/wiki/Beatmap/Category#wip-and-pending)谱面，并推荐给 [BAT](/wiki/People/Beatmap_Appreciation_Team) 在[论坛摸图](/wiki/Modding/Forum_modding)系统中进行排名。[^mat]
 
-为了应对一些不可能的跳跃，osu! 的一次更新为 Catch the Beat 模式引入了[红果跳](/wiki/Gameplay/Hyperdash)。玩家在收集[红果](/wiki/Gameplay/Hit_object/Hyperfruit)时会获得短暂的额外速度。此外，还实现了在[扩展聊天面板](/wiki/Client/Interface/Chat_console#extended-chat-console)中显示在线用户列表的预览的功能。[^stable-b1209]
+为了应对一些不可能的跳跃，osu! 的一次更新为 Catch the Beat 模式引入了[红果跳](/wiki/Gameplay/Hyperdash)。玩家在收集[红果](/wiki/Gameplay/Hit_object/Hyperfruit)时会获得短暂的额外速度。此外，还实现了在[扩展聊天面板](/wiki/Client/Interface/Chat_console#扩展聊天面板)中显示在线用户列表的预览的功能。[^stable-b1209]
 
 新增了 [社区之声](https://osu.ppy.sh/community/forums/65) 论坛，旨在向社区提出各种问题，用户可以在每周的投票中进行投票。[^weekly-polls]
 
