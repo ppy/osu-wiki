@@ -4,7 +4,7 @@ title: "Tournament Committee applications now open!"
 date: 2025-01-12 15:00:00 +0000
 ---
 
-Do you want to help shape the future of the osu! tournament community? If so, then apply now to join the [Tournament Committee (TC)](/wiki/People/Tournament_Committee/en.md) during our first ever open application cycle!
+Do you want to help shape the future of the osu! tournament community? If so, then apply now to join the [Tournament Committee (TC)](/wiki/People/Tournament_Committee) during our first ever open application cycle!
 
 We are seeking passionate individuals with significant tournament experience—including players—to help support and improve the community.
 
@@ -14,7 +14,7 @@ The TC plays a vital role in maintaining and supporting the growth of the tourna
 
 * **Tournament Reviews**: Approving or denying badge support for tournaments and communicating any necessary changes to organisers.
 * **Handling Reports and Inquiries**: Investigating tournament-related issues reported by the community, assessing the validity of claims, and providing timely and well-considered responses to users. 
-* **Maintaining the [Official tournament support](/wiki/Tournaments/Official_support/en.md) wiki**: Keeping official rules and documentation up to date.
+* **Maintaining the [Official tournament support](/wiki/Tournaments/Official_support) wiki**: Keeping official rules and documentation up to date.
 * **Mentoring the Community**: Guiding newer members of the tournament scene towards making better decisions.
 * **Community Leadership**: Acting as a representative and leader within the tournament space.
 
