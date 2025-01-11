@@ -12,38 +12,38 @@ We are seeking passionate individuals with significant tournament experience—i
 
 The TC plays a vital role in maintaining and supporting the growth of the tournament scene. As a member, your primary responsibilites will include:
 
-* **Tournament Reviews**: Approving or denying badge support for tournaments and communicating any necessary changes to organisers.
-* **Handling Reports and Inquiries**: Investigating tournament-related issues reported by the community, assessing the validity of claims, and providing timely and well-considered responses to users. 
-* **Maintaining the [Official tournament support](/wiki/Tournaments/Official_support) wiki**: Keeping official rules and documentation up to date.
-* **Mentoring the Community**: Guiding newer members of the tournament scene towards making better decisions.
-* **Community Leadership**: Acting as a representative and leader within the tournament space.
+- **Tournament Reviews**: Approving or denying badge support for tournaments and communicating any necessary changes to organisers.
+- **Handling Reports and Inquiries**: Investigating tournament-related issues reported by the community, assessing the validity of claims, and providing timely and well-considered responses to users. 
+- **Maintaining the [Official tournament support](/wiki/Tournaments/Official_support) wiki**: Keeping official rules and documentation up to date.
+- **Mentoring the Community**: Guiding newer members of the tournament scene towards making better decisions.
+- **Community Leadership**: Acting as a representative and leader within the tournament space.
 
 ## Requirements for joining
 
 To join the TC, you must meet the following minimum criteria:
 
-* **Age**: You must be at least 18 years of age.
-* **Account Standing**: All applicants will undergo a security check. Any notable disciplinary actions within the last 12 months will disqualify a candidate.
-* **Language Proficiency**: Fluency in English is mandatory, as most reviewed content and all communications are in English.
+- **Age**: You must be at least 18 years of age.
+- **Account Standing**: All applicants will undergo a security check. Any notable disciplinary actions within the last 12 months will disqualify a candidate.
+- **Language Proficiency**: Fluency in English is mandatory, as most reviewed content and all communications are in English.
 
 ## What We Look for in Candidates
 
 In addition to meeting the requirements, successful candidates typically demonstrate the following qualities:
 
-* **Extensive Tournament Experience**: Has **2 years** of recent, meaningful involvement in tournaments as a player, staff member, or organiser. Community members will approach you with complex issues and expect you to provide sound guidance.
-* **Maturity and Professionalism**: Communicates respectfully and handles responsibilities with professionalism.
-* **Composure and Critical Thinking**: Displays a level-headed approach to analyzing multi-faceted situations while providing reasonable insight.
-* **Good Behaviour**: Possesses a **well-established reputation** within the community and tournaments.
+- **Extensive Tournament Experience**: Has **2 years** of recent, meaningful involvement in tournaments as a player, staff member, or organiser. Community members will approach you with complex issues and expect you to provide sound guidance.
+- **Maturity and Professionalism**: Communicates respectfully and handles responsibilities with professionalism.
+- **Composure and Critical Thinking**: Displays a level-headed approach to analyzing multi-faceted situations while providing reasonable insight.
+- **Good Behaviour**: Possesses a **well-established reputation** within the community and tournaments.
 
 ## Standout Qualities (Bonus Points!)
 
 We are particularly interested in candidates who:
 
-* Have a clear understanding of the tournament hosting process and badging criteria.
-* For staff members: Have hosted multiple badged tournaments or have experience as a tournament player.
-* For players: Have staffed multiple tournaments or hosted at least one badged tournament.
-* Consistently demonstrate a genuine desire to improve the tournament scene through their actions and advocacy.
-* Are fluent in languages other than English.
+- Have a clear understanding of the tournament hosting process and badging criteria.
+- For staff members: Have hosted multiple badged tournaments or have experience as a tournament player.
+- For players: Have staffed multiple tournaments or hosted at least one badged tournament.
+- Consistently demonstrate a genuine desire to improve the tournament scene through their actions and advocacy.
+- Are fluent in languages other than English.
 
 # Decision Process
 
@@ -65,9 +65,9 @@ This application cycle will remain open for **2 weeks**, closing on **Sunday, Ja
 
 If you have any questions about the process, feel free to:
 
-* Leave a comment on this news post.
-* Contact us via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
-* Join the [osu! Discord server](https://discord.gg/ppy) and visit the `#tournaments` channel to chat with us.
+- Leave a comment on this news post.
+- Contact us via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Join the [osu! Discord server](https://discord.gg/ppy) and visit the `#tournaments` channel to chat with us.
 
 Thank you for taking the time to apply and share your passion with us—your efforts make all the difference in shaping the future of our community!
 
