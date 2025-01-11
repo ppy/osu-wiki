@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
+---
+
 # osu! originals
 
 Los **osu! originals** son canciones creadas específicamente para (o lanzadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists). Si bien no todos los osu! originals tienen licencia oficial y están incluidos en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists), las canciones que sí la tienen suelen distinguirse por la etiqueta `ORIGINAL` en las páginas de sus respectivos artistas.
@@ -8,7 +13,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 Actualmente, hay un total de **800** osu! originals documentados.
 
-![Gráfico de los osu! originals a lo largo del tiempo](img/originals-over-time-ES.png)
+![Gráfico de los osu! originals a lo largo del tiempo](img/bespoke-music-over-time-ES.png)
 
 ## Lista de osu! originals
 
