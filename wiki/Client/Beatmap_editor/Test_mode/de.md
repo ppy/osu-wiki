@@ -9,7 +9,7 @@ tags:
 
 ![Screenshot des Testmodus](img/test-mode-example.jpg "Der Testmodus mit aktiviertem Autoplay")
 
-Der **Testmodus** ist eine Funktion des [Beatmap-Editors](/wiki/Client/Beatmap_editor) mit dem Ersteller ihre eigenen [Beatmaps](/wiki/Beatmap) zu Testzwecken aus dem Editor heraus spielen können. Der Modus ist über den Button `Test` in der rechten, unteren Ecke im Editor aufrufbar.
+Der **Testmodus** ist eine Funktion des [Beatmap-Editors](/wiki/Client/Beatmap_editor), mit dem Ersteller ihre eigenen [Beatmaps](/wiki/Beatmap) zu Testzwecken aus dem Editor heraus spielen können. Der Modus ist über den Button `Test` in der rechten, unteren Ecke im Editor aufrufbar.
 
 ![Testmodus Button](img/test-mode-button.png "Der Test-Button im Beatmap-Editor")
 
