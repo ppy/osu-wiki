@@ -12,7 +12,7 @@ tags:
 
 ![GBC 2024 Autumn banner](img/banner.jpg)
 
-The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) is a 3v3 captain draft–based osu!mania 4-key tournament hosted by Team GB. It was the seventh instalment of the GB Cup.
+The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) was a 3v3 captain draft–based osu!mania 4-key tournament hosted by Team GB. It was the seventh instalment of the GB Cup.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) is a 3v3 captain draft–base
 
 | Team Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | Profile badgem, KanonBot profile badge, ¥450 CNY |
+| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | Profile badge, KanonBot profile badge, ¥450 CNY |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥400 CNY |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥350 CNY |
 | *4th place* | ¥300 CNY |
@@ -70,7 +70,7 @@ The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) is a 3v3 captain draft–base
 
 ## Organisation
 
-The GB Cup 2024 Autumn is run by Team GB and various community members.
+The GB Cup 2024 Autumn was run by Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
