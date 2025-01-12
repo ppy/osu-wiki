@@ -5,7 +5,7 @@ tags:
 
 # Gesponserte Künstler
 
-**Gesponserte Künstler** (auch *Featured Artists* oder kurz ***FA*** genannt) sind Musikschaffende, die mit osu! zusammenarbeiten, um einige ihrer Songs für die Verwendung in [Beatmaps](/wiki/Beatmap) und als Hintergrundmusik in den Livestreams des [osu! World Cup](/wiki/Tournaments#osu!-world-cup) zur Verfügung zu stellen.
+**Gesponserte Künstler** (auch *Featured Artists* oder kurz ***FA*** genannt) sind Musiker, die mit osu! zusammenarbeiten, um einige ihrer Songs für die Verwendung in [Beatmaps](/wiki/Beatmap) und als Hintergrundmusik in den Livestreams des [osu! World Cup](/wiki/Tournaments#osu!-world-cup) zur Verfügung zu stellen.
 
 Die [Auflistung der Featured Artists](https://osu.ppy.sh/beatmaps/artists) auf der Webseite präsentiert jeden einzelnen Künstler, der an dem Programm teilnimmt. Jede Künstlerseite enthält allgemeine Informationen über die Musik und eine Liste der Songs, die für die Verwendung in osu! lizenziert sind, zusammen mit vorkonfigurierten `.osz`-Dateien zur Erstellung von Beatmaps.
 
@@ -15,7 +15,7 @@ Das [osu!-Team](/wiki/People/osu!_team) arbeitet manchmal mit Künstlern zusamme
 
 Neuzugänge zum Featured-Artist-Programm werden indirekt von der osu!-Community bestimmt. Wenn Mapper Beatmaps für einen Künstler entwerfen und ranken, spricht das osu!-Team den Künstler möglicherweise an, um auf das Featured-Artist-Programm aufmerksam zu machen. Gelegentlich werden Künstler jedoch basierend auf anderen Faktoren zum Featured-Artist-Programm eingeladen, wie beispielsweise ihre Präsenz in der Mapping-Community von osu!.
 
-Alle Songs im Featured-Artist-Programm werden nicht-exklusiv für die Verwendung in osu! lizenziert. Weitere Details für Musikschaffende, die dem Künstlerprogramm beitreten möchten, können im Artikel [Musiklizenzierung](/wiki/Legal/Music_licensing) nachgelesen werden.
+Alle Songs im Featured-Artist-Programm werden nicht-exklusiv für die Verwendung in osu! lizenziert. Weitere Details für Musiker, die dem Künstlerprogramm beitreten möchten, können im Artikel [Musiklizenzierung](/wiki/Legal/Music_licensing) nachgelesen werden.
 
 ## Bekanntgabe neuer gesponserter Künstler
 
@@ -35,7 +35,7 @@ Neue gesponserte Künstler werden wöchentlich im [Newsfeed](https://osu.ppy.sh/
 
 ## Verwendung von der Community
 
-Mapper sind dazu aufgerufen, aus Featured-Artist-Songs Beatmaps zu kreieren. Diese Songs werden mit voreingestelltem [Timing](/wiki/Client/Beatmap_editor/Timing) bereitgestellt und sind bereits für die Verwendung in osu! freigegeben, wodurch Nutzer sofort ohne Bedenken in das Mapping eintauchen können. Die in Arbeit befindliche Entwicklungsversion von osu!, genannt [osu!(lazer)](/wiki/Client/Release_stream/Lazer), präsentiert diese Beatmaps prominent im Spiel.
+Mapper sind dazu aufgerufen, aus Featured-Artist-Songs Beatmaps zu kreieren. Diese Songs werden mit voreingestelltem [Timing](/wiki/Client/Beatmap_editor/Timing) bereitgestellt und sind bereits für die Verwendung in osu! freigegeben, wodurch Nutzer sofort ohne Bedenken in das Mapping eintauchen können. Die in Arbeit befindliche Entwicklungsversion von osu! namens [osu!(lazer)](/wiki/Client/Release_stream/Lazer) hebt solche Beatmaps deutlich hervor.
 
 In allen Mapping-Wettbewerben, die in der [Wettbewerbsauflistung](https://osu.ppy.sh/community/contests) veröffentlicht werden, wie zum Beispiel dem [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) und der [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), müssen Teilnehmer Beatmaps zu Songs von gesponserten Künstlern erstellen. Einige von der Community organisierte Wettbewerbe verwenden diese Songs ebenfalls.
 
