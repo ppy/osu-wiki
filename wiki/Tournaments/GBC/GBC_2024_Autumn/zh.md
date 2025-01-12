@@ -238,7 +238,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **TB**
   1. [ATOLS - ZOMBIE MAKER feat. Hatsune Miku [Long Version] \[Lust for Life\]](https://osu.ppy.sh/beatmapsets/2297184#mania/4906820)
 
-### 瑞士轮2第二周
+### 瑞士轮2 第二周&第三周
 
 **[在这里下载图包 (116.8MB)](https://drive.google.com/file/d/1jLiv38CjmFcSYOn5CuBu2ECwzIXdzhUS/view?usp=sharing)**
 
@@ -263,7 +263,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **TB**
   1. [TAG - Unknown Territory \[The World God Only Knows\]](https://osu.ppy.sh/beatmapsets/2290909#mania/4889867)
 
-### 瑞士轮2第一周
+### 瑞士轮2 第一周
 
 **[在这里下载图包 (99.6MB)](https://drive.google.com/file/d/1qz0C0beG_RW0xbwlZ-nWYZb2q6KNea5A/view?usp=sharing)**
 
@@ -288,7 +288,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **TB**
   1. [Kou! - Quantielectromolecularifeline Tunnelling \[Meltdowner\]](https://osu.ppy.sh/beatmapsets/2287851#mania/4881483)
 
-### 瑞士轮1第二周
+### 瑞士轮1 第二周&第三周
 
 **[在这里下载图包 (75.0MB)](https://drive.google.com/file/d/1qD27ivASynm_YlxsjSZ4Kpeln1IQPEY0/view?usp=sharing)**
 
@@ -311,7 +311,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **TB**
   1. [Wooden - LiMiNAL DRiVE \[seek the edge of the ground\]](https://osu.ppy.sh/beatmapsets/2281364#mania/4863911)
 
-### 瑞士轮2第一周
+### 瑞士轮1 第一周
 
 **[在这里下载图包 (87.1MB)](https://drive.google.com/file/d/1VTH-XRADVqIpKtIxpX2tg8KX9ubqfLz2/view?usp=sharing)**
 
@@ -350,6 +350,331 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - Hybrid
   1. [DJ Raisei vs Setca. feat. nayuta - Utakata no Sekai de \[Stage 7: Yume\]](https://osu.ppy.sh/beatmapsets/2267890#mania/4829616)
   2. [t+pazolite & Sakuzyo - Silentphobia \[Stage 8: NotSilent\]](https://osu.ppy.sh/beatmapsets/2267900#mania/4829635)
+
+## 赛果
+
+### QQ 赛区
+
+#### 淘汰赛第二周
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=gkcio0)查看。
+
+2025 年 1 月 4 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Q3:漏勺挖洞 | 5 | **7** | **Q17:雾雨魔法小萝莉** | [#1](https://osu.ppy.sh/community/matches/116708967) |
+| Q24:Make PLANA Great Again | 5 | **7** | **Q5:我已进入天空之城** | [#1](https://osu.ppy.sh/community/matches/116709362) |
+
+2025 年 1 月 5 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Q3:漏勺挖洞 | - | - | Q24:Make PLANA Great Again | *match cancelled* |
+| **Q17:雾雨魔法小萝莉** | **7** | 2 | Q5:我已进入天空之城 | [#1](https://osu.ppy.sh/community/matches/116720458) |
+
+#### 淘汰赛第一周
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=gpikea)查看。
+
+2024 年 12 月 28 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q3:漏勺挖洞** | **7** | 3 | Q1:玩尬的 | [#1](https://osu.ppy.sh/community/matches/116635264) |
+| **Q24:Make PLANA Great Again** | **7** | 6 | Q15:火力战队 | [#1](https://osu.ppy.sh/community/matches/116636449) |
+| **Q17:雾雨魔法小萝莉** | **7** | 2 | Q23:66我判定就没正过 | [#1](https://osu.ppy.sh/community/matches/116636455) |
+| Q7:哭泣少女漏勺 | 3 | **7** | **Q5:我已进入天空之城** | [#1](https://osu.ppy.sh/community/matches/116636994) |
+
+#### 瑞士轮2 第三轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=794n9o)查看。
+
+2024 年 12 月 21 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Q2:金戈铁马应援队 | 4 | **6** | **Q23:66我判定就没正过** | [#1](https://osu.ppy.sh/community/matches/116562553) |
+| Q18:玩米的这辈子有了 | 3 | **6** | **Q1:玩尬的** | [#1](https://osu.ppy.sh/community/matches/116563307) |
+| Q21:走路人路走 | 5 | **6** | **Q5:我已进入天空之城** | [#1](https://osu.ppy.sh/community/matches/116563982) |
+
+2024 年 12 月 22 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Q16:让金戈铁马在gbc起飞 | 4 | **6** | **Q15:火力战队** | [#1](https://osu.ppy.sh/community/matches/116575147) |
+
+#### 瑞士轮2 第二轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=fo2nqy)查看。
+
+2024 年 12 月 14 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q3:漏勺挖洞** | **6** | 5 | Q2:金戈铁马应援队 | [#1](https://osu.ppy.sh/community/matches/116492663) |
+| **Q16:让金戈铁马在gbc起飞** | **6** | 3 | Q4:嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡 | [#1](https://osu.ppy.sh/community/matches/116492995) |
+| Q12:黑暗大fa师 | 4 | **6** | **Q5:我已进入天空之城** | [#1](https://osu.ppy.sh/community/matches/116493281) |
+| **Q17:雾雨魔法小萝莉** | **6** | 1 | Q1:玩尬的 | [#1](https://osu.ppy.sh/community/matches/116493541) |
+| **Q21:走路人路走** | **6** | 3 | Q29:万键齐发 | [#1](https://osu.ppy.sh/community/matches/116493866) |
+| Q26:奶龙教派 | 3 | **6** | **Q15:火力战队** | [#1](https://osu.ppy.sh/community/matches/116494224) |
+| **Q7:哭泣少女漏勺** | **6** | 1 | Q23:66我判定就没正过 | [#1](https://osu.ppy.sh/community/matches/116494210) |
+| Q18:玩米的这辈子有了 | 5 | **6** | **Q24:Make PLANA Great Again** | [#1](https://osu.ppy.sh/community/matches/116494955) |
+
+#### 瑞士轮2 第一轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=7m9sp6)查看。
+
+2024 年 12 月 7 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q2:金戈铁马应援队** | **6** | 3 | Q26:奶龙教派 | [#1](https://osu.ppy.sh/community/matches/116423298) |
+| Q4:嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡 | 2 | **6** | **Q18:玩米的这辈子有了** | [#1](https://osu.ppy.sh/community/matches/116423545) |
+| Q12:黑暗大fa师 | 5 | **6** | **Q1:玩尬的** | [#1](https://osu.ppy.sh/community/matches/116423799) |
+| **Q24:Make PLANA Great Again** | **6** | 5 | Q21:走路人路走 | [#1](https://osu.ppy.sh/community/matches/116424050) |
+| **Q7:哭泣少女漏勺** | **6** | 1 | Q29:万键齐发 | [#1](https://osu.ppy.sh/community/matches/116424309) |
+| **Q23:66我判定就没正过** | **6** | 5 | Q16:让金戈铁马在gbc起飞 | [#1](https://osu.ppy.sh/community/matches/116424622) |
+| Q5:我已进入天空之城 | 2 | **6** | **Q17:雾雨魔法小萝莉** | [#1](https://osu.ppy.sh/community/matches/116424991) |
+
+2024 年 12 月 8 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q3:漏勺挖洞** | **6** | 3 | Q15:火力战队 | [#1](https://osu.ppy.sh/community/matches/116436104) |
+
+#### 瑞士轮1 第三轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=vwsd1p)查看。
+
+2024 年 11 月 29 日，星期五
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q17:雾雨魔法小萝莉** | **5** | 3 | Q19:比那波来啦 | [#1](https://osu.ppy.sh/community/matches/116342972) |
+
+2024 年 11 月 30 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q29:万键齐发** | **5** | 3 | Q20:RC兄弟 | [#1](https://osu.ppy.sh/community/matches/116353363) |
+| **Q1:玩尬的** | **5** | 3 | Q27:你先开的 | [#1](https://osu.ppy.sh/community/matches/116354156) |
+| Q22:嵐船长的海底小纵队 | 4 | **5** | **Q15:火力战队** | [#1](https://osu.ppy.sh/community/matches/116354862) |
+
+2024 年 12 月 1 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q21:走路人路走** | **5** | 4 | Q11:新新炮台山の闪电五人 | [#1](https://osu.ppy.sh/community/matches/116366657) |
+| **Q18:玩米的这辈子有了** | **5** | 2 | Q32:SKT T1 | [#1](https://osu.ppy.sh/community/matches/116366694) |
+| Q14:放课后甜点部 | 3 | **5** | **Q16:让金戈铁马在gbc起飞** | [#1](https://osu.ppy.sh/community/matches/116367144) |
+
+2024 年 12 月 6 日，星期五
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q26:奶龙教派** | **5** | 3 | Q8:DJ Yukm和动物朋友们 | [#1](https://osu.ppy.sh/community/matches/116413310) |
+
+#### 瑞士轮1 第二轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=evznpu)查看。
+
+2024 年 11 月 22 日，星期五
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q2:金戈铁马应援队** | **5** | 3 | Q16:让金戈铁马在gbc起飞 | [#1](https://osu.ppy.sh/community/matches/116268756) |
+
+2024 年 11 月 23 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q1:玩尬的** | **5** | 1 | Q25:cpδδ | [#1](https://osu.ppy.sh/community/matches/116280118) |
+| Q20:RC兄弟 | 3 | **5** | **Q12:黑暗大fa师** | [#1](https://osu.ppy.sh/community/matches/116280599) |
+| Q8:DJ Yukm和动物朋友们 | 3 | **5** | **Q24:Make PLANA Great Again** | [#1](https://osu.ppy.sh/community/matches/116280530) |
+| **Q23:66我判定就没正过** | **5** | 3 | Q32:SKT T1 | [#1](https://osu.ppy.sh/community/matches/116280916) |
+| **Q29:万键齐发** | **5** | 4 | Q6:重生之我是吃米糕手 | [#1](https://osu.ppy.sh/community/matches/116280939) |
+| **Q14:放课后甜点部** | **5** | 2 | Q30:翻斗幼儿园 | [#1](https://osu.ppy.sh/community/matches/116281253) |
+| Q9:稲葉曇 team | 2 | **5** | **Q26:奶龙教派** | [#1](https://osu.ppy.sh/community/matches/116281178) |
+| **Q18:玩米的这辈子有了** | **5** | 4 | Q13:小手手给你一拳 | [#1](https://osu.ppy.sh/community/matches/116281465) |
+| **Q5:我已进入天空之城** | **5** | 3 | Q15:火力战队 | [#1](https://osu.ppy.sh/community/matches/116281848) |
+| Q19:比那波来啦 | 4 | **5** | **Q4:嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡** | [#1](https://osu.ppy.sh/community/matches/116282176) |
+
+2024 年 11 月 24 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q22:嵐船长的海底小纵队** | **5** | 3 | Q10:Tenshi | [#1](https://osu.ppy.sh/community/matches/116291531) |
+| **Q17:雾雨魔法小萝莉** | **5** | 4 | Q31:队名待商榷 | [#1](https://osu.ppy.sh/community/matches/116292052) |
+| **Q21:走路人路走** | **5** | 0 | Q28:随机挑选几个人漏勺队 | [#1](https://osu.ppy.sh/community/matches/116292816) |
+| Q27:你先开的 | 1 | **5** | **Q3:漏勺挖洞** | [#1](https://osu.ppy.sh/community/matches/116293440) |
+| **Q7:哭泣少女漏勺** | **5** | 1 | Q11:新新炮台山の闪电五人 | [#1](https://osu.ppy.sh/community/matches/116294014) |
+
+#### 瑞士轮1 第一轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=ni29kc)查看。
+
+2024 年 11 月 16 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q2:金戈铁马应援队** | **5** | 1 | Q31:队名待商榷 | [#1](https://osu.ppy.sh/community/matches/116205381) |
+| **Q3:漏勺挖洞** | **5** | 2 | Q30:翻斗幼儿园 | [#1](https://osu.ppy.sh/community/matches/116205699) |
+| **Q8:DJ Yukm和动物朋友们** | **5** | 1 | Q25:cpδδ | [#1](https://osu.ppy.sh/community/matches/116206725) |
+| Q1:玩尬的 | 4 | **5** | **Q32:SKT T1** | [#1](https://osu.ppy.sh/community/matches/116207061) |
+| **Q12:黑暗大fa师** | **5** | 4 | Q21:走路人路走 | [#1](https://osu.ppy.sh/community/matches/116207229) |
+| Q13:小手手给你一拳 | 0 | **5** | **Q20:RC兄弟** | [#1](https://osu.ppy.sh/community/matches/116207031) |
+| **Q4:嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡** | **5** | 2 | Q29:万键齐发 | [#1](https://osu.ppy.sh/community/matches/116207675) |
+| **Q7:哭泣少女漏勺** | **5** | 1 | Q26:奶龙教派 | [#1](https://osu.ppy.sh/community/matches/116208239) |
+| **Q5:我已进入天空之城** | **5** | 0 | Q28:随机挑选几个人漏勺队 | [#1](https://osu.ppy.sh/community/matches/116208372) |
+| Q10:Tenshi | 1 | **5** | **Q23:66我判定就没正过** | [#1](https://osu.ppy.sh/community/matches/116208357) |
+| **Q15:火力战队** | **5** | 4 | Q18:玩米的这辈子有了 | [#1](https://osu.ppy.sh/community/matches/116208591) |
+| Q9:稲葉曇 team | 3 | **5** | **Q24:Make PLANA Great Again** | [#1](https://osu.ppy.sh/community/matches/116208663) |
+
+2024 年 11 月 17 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Q11:新新炮台山の闪电五人** | **5** | 3 | Q22:嵐船长的海底小纵队 | [#1](https://osu.ppy.sh/community/matches/116220785) |
+| Q14:放课后甜点部 | 2 | **5** | **Q19:比那波来啦** | [#1](https://osu.ppy.sh/community/matches/116221245) |
+| Q6:重生之我是吃米糕手 | 2 | **5** | **Q27:你先开的** | [#1](https://osu.ppy.sh/community/matches/116221200) |
+| **Q16:让金戈铁马在gbc起飞** | **5** | 3 | Q17:雾雨魔法小萝莉 | [#1](https://osu.ppy.sh/community/matches/116221573) |
+
+### Discord 赛区
+
+#### 淘汰赛第二周
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=gkcio0)查看。
+
+2025 年 1 月 5 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| D15:Mania Rangers Dinoforce | 1 | **7** | **D13:bol** | [#1](https://osu.ppy.sh/community/matches/116721946) |
+| **D16:okay²** | **7** | 2 | D12:Photon Worshippers | [#1](https://osu.ppy.sh/community/matches/116722278) |
+
+#### 淘汰赛第一周
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=gpikea)查看。
+
+2024 年 12 月 29 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D16:okay²** | **7** | 5 | D13:bol | [#1](https://osu.ppy.sh/community/matches/116648354) |
+| D15:Mania Rangers Dinoforce | 6 | **7** | **D12:Photon Worshippers** | [#1](https://osu.ppy.sh/community/matches/116648562) |
+
+#### 瑞士轮2 第三轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=794n9o)查看。
+
+2024 年 12 月 22 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D12:Photon Worshippers** | **6** | 2 | D1:Konkawe | [#1](https://osu.ppy.sh/community/matches/116576029) |
+| D13:bol | 6 | **FF** | **D11:play tower battles** | [#1](https://osu.ppy.sh/community/matches/116576623) |
+
+#### 瑞士轮2 第二轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=fo2nqy)查看。
+
+2024 年 12 月 14 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D12:Photon Worshippers** | **6** | 1 | D10:芝士虾 | [#1](https://osu.ppy.sh/community/matches/116500526) |
+
+2024 年 12 月 15 日，星期日
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D15:Mania Rangers Dinoforce** | **6** | 5 | D1:Konkawe | [#1](https://osu.ppy.sh/community/matches/116505990) |
+| **D16:okay²** | **6** | 5 | D11:play tower battles | [#1](https://osu.ppy.sh/community/matches/116506698) |
+| **D13:bol** | **6** | 2 | D5:Migu | [#1](https://osu.ppy.sh/community/matches/116507179) |
+
+#### 瑞士轮2 第一轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=7m9sp6)查看。
+
+2024 年 12 月 7 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D11:play tower battles** | **6** | 4 | D12:Photon Worshippers | [#1](https://osu.ppy.sh/community/matches/116426114) |
+
+2024 年 12 月 8 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| D13:bol | 5 | **6** | **D1:Konkawe** | [#1](https://osu.ppy.sh/community/matches/116437234) |
+| **D16:okay²** | **6** | 3 | D10:芝士虾 | [#1](https://osu.ppy.sh/community/matches/116437764) |
+| D5:Migu | 4 | **6** | **D15:Mania Rangers Dinoforce** | [#1](https://osu.ppy.sh/community/matches/116438258) |
+
+#### 瑞士轮1 第三轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=vwsd1p)查看。
+
+2024 年 11 月 30 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D12:Photon Worshippers** | **5** | FF | D3:GBC fan club | *win by default* |
+| D4:DC Team 4 | 1 | **5** | **D10:芝士虾** | [#1](https://osu.ppy.sh/community/matches/116360134) |
+
+2024 年 12 月 1 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D1:Konkawe** | **5** | 2 | D2:雪見だいふく | [#1](https://osu.ppy.sh/community/matches/116366692) |
+| **D15:Mania Rangers Dinoforce** | **5** | 3 | D8:kimmui femboys | [#1](https://osu.ppy.sh/community/matches/116367100) |
+
+#### 瑞士轮1 第二轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=evznpu)查看。
+
+2024 年 11 月 23 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| D6:Grand Blue Cheese | 4 | **5** | **D15:Mania Rangers Dinoforce** | [#1](https://osu.ppy.sh/community/matches/116281855) |
+| D2:雪見だいふく | 4 | **5** | **D11:play tower battles** | [#1](https://osu.ppy.sh/community/matches/116282148) |
+| D7:Lock In | 2 | **5** | **D12:Photon Worshippers** | [#1](https://osu.ppy.sh/community/matches/116285926) |
+| **D5:Migu** | **5** | 2 | D10:芝士虾 | [#1](https://osu.ppy.sh/community/matches/116287296) |
+
+2024 年 11 月 24 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D4:DC Team 4** | **5** | 0 | D9:Welcome to rice fields | [#1](https://osu.ppy.sh/community/matches/116293237) |
+| D14:The Vicious Cycle Of Cat | 4 | **5** | **D1:Konkawe** | [#1](https://osu.ppy.sh/community/matches/116293619) |
+| D8:kimmui femboys | 3 | **5** | **D13:bol** | [#1](https://osu.ppy.sh/community/matches/116294209) |
+| D3:GBC fan club | 3 | **5** | **D16:okay²** | [#1](https://osu.ppy.sh/community/matches/116294772) |
+
+#### 瑞士轮1 第一轮
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=ni29kc)查看。
+
+2024 年 11 月 16 日，星期六
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D8:kimmui femboys** | **5** | 1 | D9:Welcome to rice fields | [#1](https://osu.ppy.sh/community/matches/116205719) |
+| **D2:雪見だいふく** | **5** | 1 | D15:Mania Rangers Dinoforce | [#1](https://osu.ppy.sh/community/matches/116206530) |
+| D6:Grand Blue Cheese | 4 | **5** | **D11:play tower battles** | [#1](https://osu.ppy.sh/community/matches/116209170) |
+| **D5:Migu** | **5** | 1 | D12:Photon Worshippers | [#1](https://osu.ppy.sh/community/matches/116210769) |
+| D7:Lock In | 3 | **5** | **D10:芝士虾** | [#1](https://osu.ppy.sh/community/matches/116214649) |
+
+2024 年 11 月 17 日，星期日
+
+| 队伍 A |  |  | 队伍 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **D3:GBC fan club** | **5** | 2 | D14:The Vicious Cycle Of Cat | [#1](https://osu.ppy.sh/community/matches/116221271) |
+| D1:Konkawe | 2 | **5** | **D16:okay²** | [#1](https://osu.ppy.sh/community/matches/116221954) |
+| D4:DC Team 4 | 4 | **5** | **D13:bol** | [#1](https://osu.ppy.sh/community/matches/116221887) |
+
+### 资格赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=7cpdju)查看。
 
 ## 规则
 
