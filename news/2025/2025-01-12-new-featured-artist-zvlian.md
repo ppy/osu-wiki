@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: ZVLIAN"
-date: 2025-01-11 20:00:00 +0000
+date: 2025-01-12 01:00:00 +0000
 ---
 
 There are two states of existence: one before and another after you've listened to **ZVLIAN**, our latest Featured Artist!
