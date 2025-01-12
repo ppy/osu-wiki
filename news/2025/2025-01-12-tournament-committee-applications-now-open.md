@@ -71,4 +71,4 @@ If you have any questions about the process, feel free to:
 
 Thank you for taking the time to apply and share your passion with us — your efforts make all the difference in shaping the future of our community!
 
--ChillierPear & Stage
+—ChillierPear & Stage
