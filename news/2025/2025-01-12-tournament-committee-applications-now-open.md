@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tournament Committee applications now open!
+title: Tournament Committee Applications Now Open!
 date: 2025-01-12 15:00:00 +0000
 ---
 
