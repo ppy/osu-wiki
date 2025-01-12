@@ -6,6 +6,8 @@ date: 2025-01-12 15:00:00 +0000
 
 Do you want to help shape the future of the osu! tournament community? If so, then apply now to join the [Tournament Committee (TC)](/wiki/People/Tournament_Committee) during our first ever open application cycle!
 
+![](/wiki/shared/news/2025-01-12-tournament-committee-applications-now-open/banner.jpg)
+
 We are seeking passionate individuals with significant tournament experience — including players — to help support and improve the community.
 
 ## What does the Tournament Committee do?
@@ -55,7 +57,11 @@ For those selected, we will invite you to an optional 20-minute call with two ra
 
 ## Application
 
-**[Click here to apply!](https://forms.gle/uADXw7zHM81e584y8)** After authentication, you'll complete a Google Form that collects basic information and includes scenario-based questions. We recommend setting aside about 30 minutes to provide well-thought-out and detailed answers. To ensure a fair evaluation process, please respond as if we're unfamiliar with you or your previous work, even if you're well known in the community. This approach helps us gain a clear and comprehensive understanding of your skills, perspective, and enthusiasm.
+**[Click here to apply!](https://forms.gle/uADXw7zHM81e584y8)**
+
+After authentication, you'll complete a Google Form that collects basic information and includes scenario-based questions. We recommend setting aside about 30 minutes to provide well-thought-out and detailed answers.
+
+To ensure a fair evaluation process, please respond as if we're unfamiliar with you or your previous work, even if you're well known in the community. This approach helps us gain a clear and comprehensive understanding of your skills, perspective, and enthusiasm.
 
 ## Timeline
 
