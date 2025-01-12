@@ -586,6 +586,7 @@ Saturday, 14 December 2024:
 | **D12:Photon Worshippers** | **6** | 1 | D10:芝士虾 | [#1](https://osu.ppy.sh/community/matches/116500526) |
 
 Sunday, 15 December 2024:
+
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **D15:Mania Rangers Dinoforce** | **6** | 5 | D1:Konkawe | [#1](https://osu.ppy.sh/community/matches/116505990) |
