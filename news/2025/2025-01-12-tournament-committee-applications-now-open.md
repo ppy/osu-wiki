@@ -12,28 +12,28 @@ We are seeking passionate individuals with significant tournament experience —
 
 The TC plays a vital role in maintaining and supporting the growth of the tournament scene. As a member, your primary responsibilites will include:
 
-- **Tournament reviews**: Approving or denying badge support for tournaments and communicating any necessary changes to organisers.
-- **Handling reports and inquiries**: Investigating tournament-related issues reported by the community, assessing the validity of claims, and providing timely and well-considered responses to users. 
-- **Maintaining the [tournament support](/wiki/Tournaments/Official_support) wiki page**: Keeping official rules and documentation up to date.
-- **Mentoring the community**: Guiding newer members of the tournament scene towards making better decisions.
-- **Community leadership**: Acting as a representative and leader within the tournament space.
+- **Tournament reviews:** Approving or denying badge support for tournaments and communicating any necessary changes to organisers.
+- **Handling reports and inquiries:** Investigating tournament-related issues reported by the community, assessing the validity of claims, and providing timely and well-considered responses to users. 
+- **Maintaining the [tournament support](/wiki/Tournaments/Official_support) wiki page:** Keeping official rules and documentation up to date.
+- **Mentoring the community:** Guiding newer members of the tournament scene towards making better decisions.
+- **Community leadership:** Acting as a representative and leader within the tournament space.
 
 ## Requirements for joining
 
 To join the TC, you must meet the following minimum criteria:
 
-- **Age**: You must be at least 18 years of age.
-- **Account standing**: All applicants will undergo a security check. Any notable disciplinary actions within the last 12 months will disqualify a candidate.
-- **Language proficiency**: Fluency in English is mandatory, as most reviewed content and all communications are in English.
+- **Age:** You must be at least 18 years of age.
+- **Account standing:** All applicants will undergo a security check. Any notable disciplinary actions within the last 12 months will disqualify a candidate.
+- **Language proficiency:** Fluency in English is mandatory, as most reviewed content and all communications are in English.
 
 ## What we look for in candidates
 
 In addition to meeting the requirements, successful candidates typically demonstrate the following qualities:
 
-- **Extensive tournament experience**: **2 years** of recent, meaningful involvement in tournaments as a player, staff member, or organiser. Community members will approach you with complex issues and expect you to provide sound guidance.
-- **Maturity and professionalism**: Ability to communicate respectfully and handle responsibilities with professionalism.
-- **Composure and critical thinking**: A level-headed approach to analysing multi-faceted situations while providing reasonable insight.
-- **Good behaviour**: A **well-established reputation** within the community and tournaments.
+- **Extensive tournament experience:** **2 years** of recent, meaningful involvement in tournaments as a player, staff member, or organiser. Community members will approach you with complex issues and expect you to provide sound guidance.
+- **Maturity and professionalism:** Ability to communicate respectfully and handle responsibilities with professionalism.
+- **Composure and critical thinking:** A level-headed approach to analysing multi-faceted situations while providing reasonable insight.
+- **Good behaviour:** A **well-established reputation** within the community and tournaments.
 
 ## Standout qualities (bonus points!)
 
