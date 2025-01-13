@@ -14,22 +14,17 @@ We are seeking passionate individuals with significant tournament experience —
 
 The Tournament Committee is a panel of skilled and established organisers and helpers in the tournament scene. Here is some of what we do:
 
-- **Tournament reviews:** Approving or denying badge support for tournaments and communicating any necessary changes to organisers.
-- **Handling reports and inquiries:** Investigating tournament-related issues reported by the community, assessing the validity of claims, and providing timely and well-considered responses to users. 
-- **Maintaining the [tournament support](/wiki/Tournaments/Official_support) wiki page:** Keeping official rules and documentation up to date.
-- **Mentoring the community:** Guiding newer members of the tournament scene towards making better decisions.
-- **Community leadership:** Acting as a representative and leader within the tournament space.
+- Reviewing tournaments for badge support.
+- Handling tournament reports and inquiries from the community.
+- Keeping rules up to date in the [tournament support](/wiki/Tournaments/Official_support) wiki page.
+- Mentoring event organisers, answering questions and providing resources.
 
-## Why join us?
-
-- **Make a Difference:** Your efforts will directly impact the quality and success of the osu! tournament community.
-- **Develop Skills:** Gain experience in management, teamwork, and leadership.
-- **Connect with the Community:** Work alongside other passionate community members and make lasting friendships and connections.
+## Requirements
 
 To join the TC, you must meet the following minimum criteria:
 
 - **Age:** You must be at least 18 years of age.
-- **Account standing:** All applicants will undergo a security check. Any notable disciplinary actions within the last 12 months will disqualify a candidate.
+- **Account standing:** All applicants are checked for any notable community rule violations within the last 12 months, which would disqualify them from joining.
 - **Language proficiency:** Fluency in English is mandatory, as most reviewed content and all communications are in English.
 
 ## Who should apply?
@@ -39,7 +34,7 @@ We're looking for individuals who are:
 - Passionate about osu! tournaments
 - Team players
 - Exceptional communicators
-- Organized and reliable
+- Organised and reliable
 
 ## Standout qualities (bonus points!)
 
