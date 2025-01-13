@@ -23,7 +23,7 @@ The Tournament Committee is a panel of skilled and established organisers and he
 ## Why join us?
 
 - **Make a Difference:** Your efforts will directly impact the quality and success of the osu! tournament community.
-- **Develop Skills:** Gain experience in event management, teamwork, and leadership.
+- **Develop Skills:** Gain experience in management, teamwork, and leadership.
 - **Connect with the Community:** Work alongside other passionate community members and make lasting friendships and connections.
 
 To join the TC, you must meet the following minimum criteria:
@@ -55,13 +55,13 @@ We are particularly interested in candidates who:
 
 **[Click here to apply!](https://forms.gle/uADXw7zHM81e584y8)**
 
-After authentication, you'll complete a Google Form that collects basic information and includes scenario-based questions. We recommend setting aside about 30 minutes to provide well-thought-out and detailed answers.
+After authentication, you'll complete a Google Form that collects basic information and includes scenario-based questions. We recommend setting aside about 45 minutes to provide well-thought-out and detailed answers.
 
 To ensure a fair evaluation process, please respond as if we're unfamiliar with you or your previous work, even if you're well known in the community. This approach helps us gain a clear and comprehensive understanding of your skills, perspective, and enthusiasm.
 
 ## Timeline
 
-This application cycle will remain open for **2 weeks**, closing on **Sunday, January 26, 2025**. Please note that it may take up to 6 weeks after the closing date to process all applications, so we appreciate your patience.
+This application cycle will remain open for **2 weeks**, closing on **Monday, January 27, 2025**. Please note that it may take up to 6 weeks after the closing date to process all applications, so we appreciate your patience.
 
 ## Questions
 
