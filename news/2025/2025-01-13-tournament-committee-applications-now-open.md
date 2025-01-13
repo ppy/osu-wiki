@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Tournament Committee Applications Now Open!
-date: 2025-01-12 15:00:00 +0000
+date: 2025-01-13 15:00:00 +0000
 ---
 
-Do you want to help shape the future of the osu! tournament community? If so, then apply now to join the [Tournament Committee (TC)](/wiki/People/Tournament_Committee) during our first ever open application cycle!
+Calling all tournament goers! We're excited to announce that, for the first time ever, formal applications for the [Tournament Committee (TC)](/wiki/People/Tournament_Committee) are now open!
 
-![](/wiki/shared/news/2025-01-12-tournament-committee-applications-now-open/banner.jpg)
+![](/wiki/shared/news/2025-01-13-tournament-committee-applications-now-open/banner.jpg)
 
 We are seeking passionate individuals with significant tournament experience — including players — to help support and improve the community.
 
-## What does the Tournament Committee do?
+## Who are we, and what do we do?
 
-The TC plays a vital role in maintaining and supporting the growth of the tournament scene. As a member, your primary responsibilites will include:
+The Tournament Committee is a panel of skilled and established organisers and helpers in the tournament scene. Here is some of what we do:
 
 - **Tournament reviews:** Approving or denying badge support for tournaments and communicating any necessary changes to organisers.
 - **Handling reports and inquiries:** Investigating tournament-related issues reported by the community, assessing the validity of claims, and providing timely and well-considered responses to users. 
@@ -20,7 +20,11 @@ The TC plays a vital role in maintaining and supporting the growth of the tourna
 - **Mentoring the community:** Guiding newer members of the tournament scene towards making better decisions.
 - **Community leadership:** Acting as a representative and leader within the tournament space.
 
-## Requirements for joining
+## Why join us?
+
+- **Make a Difference:** Your efforts will directly impact the quality and success of the osu! tournament community.
+- **Develop Skills:** Gain experience in event management, teamwork, and leadership.
+- **Connect with the Community:** Work alongside other passionate community members and make lasting friendships and connections.
 
 To join the TC, you must meet the following minimum criteria:
 
@@ -28,14 +32,14 @@ To join the TC, you must meet the following minimum criteria:
 - **Account standing:** All applicants will undergo a security check. Any notable disciplinary actions within the last 12 months will disqualify a candidate.
 - **Language proficiency:** Fluency in English is mandatory, as most reviewed content and all communications are in English.
 
-## What we look for in candidates
+## Who should apply?
 
-In addition to meeting the requirements, successful candidates typically demonstrate the following qualities:
+We're looking for individuals who are:
 
-- **Extensive tournament experience:** **2 years** of recent, meaningful involvement in tournaments as a player, staff member, or organiser. Community members will approach you with complex issues and expect you to provide sound guidance.
-- **Maturity and professionalism:** Ability to communicate respectfully and handle responsibilities with professionalism.
-- **Composure and critical thinking:** A level-headed approach to analysing multi-faceted situations while providing reasonable insight.
-- **Good behaviour:** A **well-established reputation** within the community and tournaments.
+- Passionate about osu! tournaments
+- Team players
+- Exceptional communicators
+- Organized and reliable
 
 ## Standout qualities (bonus points!)
 
@@ -46,14 +50,6 @@ We are particularly interested in candidates who:
 - For players: Have staffed multiple tournaments or hosted at least one badged tournament.
 - Consistently demonstrate a genuine desire to improve the tournament scene through their actions and advocacy.
 - Are fluent in languages other than English.
-
-# Decision process
-
-All individuals under consideration will first be brought to open discussion, followed by an anonymous voting period. Following this vote, we will notify each candidate of the decision via email.
-
-For those selected, we will invite you to an optional 20-minute call with two randomly assigned TC members. This call serves as an opportunity to ask any questions you may have about the team, workload, or anything else before deciding to accept this role. We want you to feel confident and fully informed before making your decision to join the team. 
-
-*Please note that these calls are informal and focused on open conversation. There's no need to prepare, and we're happy to provide insights into our team and process.*
 
 ## Application
 
