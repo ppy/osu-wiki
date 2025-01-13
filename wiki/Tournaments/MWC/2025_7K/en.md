@@ -140,15 +140,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Round of 32
 
-**[Download the mappack here (54 MB, *temporary link*)](https://leoflt.com/s/VdNQ)**\
+**[Download the mappack here (54 MB)](https://packs.ppy.sh/P271%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Round%20of%2032.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2351784653?t=0h47m50s)
 
 - Rice
   1. [MisomyL - Catalinesie (qodtjr) \[Speed of 32\]](https://osu.ppy.sh/beatmapsets/2307453#mania/4934987)
   2. [rerulili - Noushou Sakuretsu Girl (Cut Ver.) (ExNeko) \[Sakuretsu Chordstream\]](https://osu.ppy.sh/beatmapsets/2307428#mania/4934921)
   3. [Panda Eyes & Teminite - Highscore (Cut Ver.) (Carpihat) \[1,000,000\]](https://osu.ppy.sh/beatmapsets/2307424#mania/4934916)
-  4. [II-L - VANGUARD-3 (lenpai) \[S&P 500 ETF Shorted\] *(temporary link)*](https://leoflt.com/s/LUK4)
-  5. [Sparxe - Switcheroo (Maxus) \[Joker Trickery\] *(temporary link)*](https://leoflt.com/s/S6Nv)
+  4. [II-L - VANGUARD-3 (lenpai) \[S&P 500 ETF Shorted\]](https://osu.ppy.sh/beatmapsets/2307703#mania/4935651)
+  5. [Sparxe - Switcheroo (Maxus) \[Joker Trickery\]](https://osu.ppy.sh/beatmapsets/2307554#mania/4935257)
 - Long Note
   1. [Neko Hacker - Shadows feat. Such (SurfChu85) \[Negative Space\]](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981)
   2. [rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit) (Lung\_P) \[Midsummer Paradise (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2307474#mania/4935021)
@@ -156,7 +156,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 - Hybrid
   1. [Tedjimo yomigY - Usuva Kagerow (\_Yiiiii) \[Kurayami\]](https://osu.ppy.sh/beatmapsets/2307475#mania/4935023)
   2. [BPM15Q - Kyo You Mu (ExNeko) \[Yoru ni Odoru\]](https://osu.ppy.sh/beatmapsets/2307429#mania/4934922)
-  3. [Xyris - Crash-Landing Rendezvous (Irone OSU) \[Catastrophic Descent\] *(temporary link)*](https://leoflt.com/s/GggM)
+  3. [Xyris - Crash-Landing Rendezvous (Irone OSU) \[Catastrophic Descent\]](https://osu.ppy.sh/beatmapsets/2307516#mania/4935112)
 - Tiebreaker
   1. **[Camellia - The Lost Place In The New World (pwhk) \[Undiscoverable (MWC edit)\]](https://osu.ppy.sh/beatmapsets/2307444#mania/4934957)**
 
