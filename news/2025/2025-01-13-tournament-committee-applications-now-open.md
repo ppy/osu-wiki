@@ -23,9 +23,9 @@ The Tournament Committee is a panel of skilled and established organisers and he
 
 To join the TC, you must meet the following minimum criteria:
 
-- **Age:** You must be at least 18 years of age.
-- **Account standing:** All applicants are checked for any notable community rule violations within the last 12 months, which would disqualify them from joining.
-- **Language proficiency:** Fluency in English is mandatory, as most reviewed content and all communications are in English.
+- You must be at least 18 years of age.
+- All applicants are checked for any notable community rule violations within the last 12 months, which would disqualify them from joining.
+- Fluency in English is mandatory, as most reviewed content and all communications are in English.
 
 ## Who should apply?
 
