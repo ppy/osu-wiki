@@ -17,7 +17,7 @@ The Tournament Committee is a panel of skilled and established organisers and he
 - Reviewing tournaments for badge support.
 - Handling tournament reports and inquiries from the community.
 - Keeping rules up to date in the [tournament support](/wiki/Tournaments/Official_support) wiki page.
-- Mentoring event organisers, answering questions and providing resources.
+- Mentoring event organisers, answering questions, and providing resources.
 
 ## Requirements
 
