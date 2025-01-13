@@ -141,7 +141,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 ### Round of 32
 
 **[Download the mappack here (54 MB, *temporary link*)](https://leoflt.com/s/VdNQ)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2351784653)
+[View the showcase VOD here](https://www.twitch.tv/videos/2351784653?t=0h47m50s)
 
 - Rice
   1. [MisomyL - Catalinesie (qodtjr) \[Speed of 32\]](https://osu.ppy.sh/beatmapsets/2307453#mania/4934987)
@@ -174,9 +174,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 7. [Junk - Yellow Smile (ExNeko) \[Stage 7: Sunshine\]](https://osu.ppy.sh/beatmapsets/2303944#mania/4924805)
 8. [seatrus - Hekikuu no Yakusoku (Critical\_Star) \[Stage 8: Azure\]](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807)
 
-# Match results
+## Match results
 
-# Qualifiers
+### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1axEpXUCv37C-xcZiGudWt1WKz3yVWVgz9ml-7_8hg3w?rm=minimal).\
 [View the Qualifier seed reveal VOD here]().
