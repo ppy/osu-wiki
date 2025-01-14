@@ -1,57 +1,60 @@
----
-outdated_translation: true
-outdated_since: 422698dbf36efb2be8537ab4d319428032966405
----
-
 # Mode permainan
 
-osu! memiliki empat **mode permainan** yang dapat kamu mainkan. Keempat mode permainan tersebut secara garis besar terinspirasi dari berbagai *rhythm game* lain yang ada di luar sana dengan mekanisme permainan yang saling berbeda antar satu sama lain sebagai berikut :
+osu! memiliki empat **mode permainan** bawaan dengan mekanika permainannya masing-masing, yang pada awalnya terinspirasi dari permainan ritme lainnya:
 
 - ![][osu!] [osu!](#osu!)
 - ![][osu!taiko] [osu!taiko](#osu!taiko)
 - ![][osu!catch] [osu!catch](#osu!catch)
 - ![][osu!mania] [osu!mania](#osu!mania)
 
-Untuk dapat beralih dari satu mode permainan ke mode permainan lainnya, klik tombol `Mode` yang terdapat pada layar *Song Select* atau gunakan kombinasi-kombinasi tombol berikut:
+Untuk berpindah antar mode permainan, klik tombol `Mode` yang terdapat pada bagian bawah layar pemilihan lagu osu!(stable), deretan tombol yang terdapat pada bagian atas layar osu!(lazer), atau gunakan kombinasi tombol berikut:
 
 - `Ctrl` + `1` untuk osu!
 - `Ctrl` + `2` untuk osu!taiko
 - `Ctrl` + `3` untuk osu!catch
 - `Ctrl` + `4` untuk osu!mania
 
-![Menu untuk mengubah mode permainan](/wiki/shared/Interface_mode.png "Menu untuk mengubah mode permainan")
+![Antarmuka pemilihan mode](/wiki/shared/Interface_mode.png "Tampilan antarmuka pemilihan mode permainan pada osu!(stable)")
+
+![Antarmuka pemilihan mode](/wiki/shared/Interface_mode.png "Tampilan antarmuka pemilihan mode permainan pada osu!(lazer)")
 
 ## ![][osu!] osu!
 
-*Laman utama: [osu!](osu!)*
+*Halaman utama: [osu!](osu!)*
 
-*osu!* merupakan mode permainan *default* yang menuntut para pemainnya untuk dapat mengenai semua circle, slider, dan spinner yang ada mengikuti irama lagu. Mode permainan ini didasarkan pada seri permainan [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) yang dikembangkan oleh [iNiS](https://en.wikipedia.org/wiki/INiS). Maskot dari mode permainan ini adalah [pippi](/wiki/Mascots#pippi), seorang gadis lugu berambut pink/hitam.
+*osu!* merupakan mode permainan dasar yang mengharuskan pemain untuk mengeklik lingkaran, menahan slider, dan memutar spinner sesuai dengan irama lagu. Mode ini didasarkan pada permainan ritme *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* versi asli yang dirilis oleh [iNiS](https://en.wikipedia.org/wiki/INiS). Maskot mode osu! adalah [pippi](/wiki/Mascots#pippi), seorang gadis berambut pink dan hitam.
 
-![Tampilan permainan osu!](/wiki/shared/osu-gameplay.jpg "Permainan osu!")
+![Permainan osu!](/wiki/shared/osu-gameplay.jpg "Permainan osu!")
 
 ## ![][osu!taiko] osu!taiko
 
-*Laman utama: [osu!taiko](osu!taiko)*
+*Halaman utama: [osu!taiko](osu!taiko)*
 
-*osu!taiko* merupakan mode permainan yang menuntut para pemainnya untuk dapat mengenai not-not Taiko yang bergulir dengan menggunakan *keyboard* atau *drum kit*. Mode permainan ini didasarkan pada seri permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* yang dikembangkan oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Maskot dari mode permainan ini adalah [Mocha](/wiki/Mascots#mocha), seorang gadis berambut hijau yang mengenakan kimono dan memegang stik drum.
+*osu!taiko* merupakan mode permainan yang menyimulasikan permainan drum sungguhan, di mana pemain menggunakan keyboard atau kit drum mereka untuk mengenai lingkaran beraneka warna yang bergulir di atas ban berjalan. Mode permainan ini didasarkan pada serial permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* yang diproduksi oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Maskot mode osu!taiko adalah [Mocha](/wiki/Mascots#mocha), seorang gadis berambut hijau dan berbalut kimono yang memegang stik drum.
 
-![Tampilan permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Permainan osu!taiko")
+![Permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Permainan osu!taiko")
 
 ## ![][osu!catch] osu!catch
 
-*Laman utama: [osu!catch](osu!catch)*
+*Halaman utama: [osu!catch](osu!catch)*
 
-*osu!catch* merupakan mode permainan yang menuntut para pemainnya untuk dapat menangkap buah-buah yang jatuh dari atas layar dengan menggunakan *catcher* yang mereka miliki. Mode permainan ini didasarkan pada *minigame EZ2CATCH* yang terdapat pada seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) lainnya. Maskot dari mode permainan ini adalah [Yuzu](/wiki/Mascots#yuzu), seorang pemuda tampan berambut biru.
+Pada mode *osu!catch*, berbagai macam buah akan jatuh dari atas layar, yang mengharuskan pemain untuk menangkap buah-buah ini sesuai dengan irama lagu menggunakan penangkap (*catcher*) yang dikendalikan di atas kepala mereka. Mode ini terilhami dari minigame yang terdapat pada salah satu simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) yang pernah beredar, yang sendirinya konon didasarkan pada mode *EZ2CATCH* dari serial permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Maskot mode osu!catch adalah [Yuzu](/wiki/Mascots#yuzu), seorang pemuda berambut biru.
 
-![Tampilan permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
+![Permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
 
 ## ![][osu!mania] osu!mania
 
-*Laman utama: [osu!mania](osu!mania)*
+*Halaman utama: [osu!mania](osu!mania)*
 
-*osu!mania* merupakan mode permainan VSRG (*vertical-scrolling rhythm game*) yang menuntut para pemainnya untuk dapat mengenai not-not yang ada layaknya bermain piano. Mode permainan ini [pada awalnya](https://osu.ppy.sh/community/forums/topics/100751) dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) dan didasarkan pada permainan-permainan VSRG lainnya seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan [Beatmania](https://en.wikipedia.org/wiki/Beatmania). Maskot dari mode permainan ini adalah [Mani and Mari](/wiki/Mascots#mani-&-mari), sepasang saudara kembar yang masing-masing memiliki rambut berwarna ungu dan ungu cerah.
+*osu!mania* merupakan mode permainan *vertical scrolling rhythm game* (VSRG) yang dirancang sebagai simulator piano. Mode ini [diperkenalkan dan diimplementasikan](https://osu.ppy.sh/community/forums/topics/100751) oleh [woc2006](https://osu.ppy.sh/users/1105845), dan didasarkan pada berbagai permainan ritme yang menggulirkan not dari satu sisi layar ke sisi lainnya (terutama [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Maskot mode osu!mania adalah si kembar [Mani and Mari](/wiki/Mascots#mani-&-mari), yang keduanya berambut ungu dan ungu muda.
 
-![Tampilan permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
+![Permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
+
+## Mode permainan khusus
+
+Pada osu!(lazer), kamu dapat memasang berbagai mode permainan khusus (atau yang disebut juga sebagai *custom ruleset*) secara manual melalui berkas `.dll` milik pihak ketiga. Mode-mode ini memperkenalkan berbagai cara baru untuk bermain osu! dengan menggunakan pustaka beatmap yang osu! sediakan. Seperti halnya keempat mode permainan bawaan di atas, mode permainan khusus ini juga sering kalinya terinspirasi dari permainan ritme lainnya.
+
+Daftar mode permainan khusus yang dapat dimainkan selengkapnya dapat ditemukan [pada halaman diskusi GitHub ini](https://github.com/ppy/osu/discussions/13096).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
