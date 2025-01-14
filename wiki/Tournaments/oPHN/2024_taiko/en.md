@@ -8,9 +8,9 @@ tags:
 
 ![PHNT2024 logo](img/logo.jpg)
 
-The **osu! Philippines Nationals 2024 - osu!taiko** Tournament (***PHNT2024***) was a 1v1 rank-restricted osu!taiko tournament. It serves as the National Championships of osu!taiko for the Philippine community of the game.
+The **osu! Philippines Nationals 2024 - osu!taiko** Tournament (***PHNT2024***) was a 1v1 rank-restricted osu!taiko tournament. It served as the National Championships of osu!taiko for the Philippine community of the game.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -29,9 +29,9 @@ The winner of the tournament will receive a profile badge.
 
 ![](img/phnt-badge.png "PHNT winner badge")
 
-## Organization
+## Organisation
 
-The osu! Philippines Nationals 2024 - osu!taiko tournament is ran by various community members.
+The osu! Philippines Nationals 2024 - osu!taiko tournament was ran by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -53,7 +53,7 @@ The osu! Philippines Nationals 2024 - osu!taiko tournament is ran by various com
   - [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
 - [VOD Archive](https://www.youtube.com/playlist?list=PLiCZoouucYhCuC2wW_bBXoT0pTCC76YN5)
 - [PHNT Discord server](https://discord.gg/KFn8rBxf42)
-- [Challonge](https://challonge.com/PHNT2024)
+- [Challonge bracket](https://challonge.com/PHNT2024)
 - Spreadsheets
   - [Master](https://docs.google.com/spreadsheets/d/1I6rWSn6UdT3jhLW29mgtQbxWBsXY9c6kFumPeMpEZuE/edit?rm=minimal)
   - [Statistics](https://docs.google.com/spreadsheets/d/1WF-I_EkpFGLJmB-19lLCu-OpBSiXvUFj6l3QrQrsraU/edit?rm=minimal)
