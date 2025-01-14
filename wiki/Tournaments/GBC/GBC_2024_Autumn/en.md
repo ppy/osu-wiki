@@ -37,30 +37,30 @@ The **GB Cup 2024 Autumn** (***GBC 2024 Autumn***) was a 3v3 captain draft–bas
 
 ### QQ division
 
-| Team Placing | Prizes |
+| Team placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "Winner") | Profile badge, KanonBot profile badge, ¥450 CNY |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥400 CNY |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥350 CNY |
 | *4th place* | ¥300 CNY |
-| *5-8 place* | ¥250 CNY |
-| *9-12 place* | ¥200 CNY |
-| *13-16 place* | ¥150 CNY |
-| *17-24 place* | ¥100 CNY |
-| *25-32 place* | ¥50 CNY |
+| *5–8 place* | ¥250 CNY |
+| *9–12 place* | ¥200 CNY |
+| *13–16 place* | ¥150 CNY |
+| *17–24 place* | ¥100 CNY |
+| *25–32 place* | ¥50 CNY |
 
-| Qualifier Placing | Prizes |
+| Qualifier placing | Prizes |
 | :-: | :-- |
-| *1-4 place* | ¥40 CNY |
-| *5-8 place* | ¥30 CNY |
-| *9-16 place* | ¥20 CNY |
-| *17-32 place* | ¥10 CNY |
+| *1–4 place* | ¥40 CNY |
+| *5–8 place* | ¥30 CNY |
+| *9–16 place* | ¥20 CNY |
+| *17–32 place* | ¥10 CNY |
 
 ![GBC 2024 Autumn QQ division winner badge](img/GBC-2024-Autumn-badge-QQ-1st.png)
 
 ### Discord division
 
-| Team Placing | Prizes |
+| Team placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "Winner") | Profile badge，4 months osu!supporter tag for members |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months osu!supporter tag for members |
@@ -78,12 +78,12 @@ The GB Cup 2024 Autumn was run by Team GB and various community members.
 | Staff | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) |
 | Mappool manager | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
 | Mapper | ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [PORTTAYER](https://osu.ppy.sh/users/8790200), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [cherrychou](https://osu.ppy.sh/users/7214023), ::{ flag=CN }:: [Xu seventeen](https://osu.ppy.sh/users/8781662), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=PH }:: [ERA arccat](https://osu.ppy.sh/users/4848294), ::{ flag=KR }:: [KR](https://osu.ppy.sh/users/9164100), ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[GB\]Azukisan](https://osu.ppy.sh/users/5378805), ::{ flag=CA }:: [Livium](https://osu.ppy.sh/users/9828552), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) |
-| Mappool Helper | ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PL }:: [Paraxia](https://osu.ppy.sh/users/14001000), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616), ::{ flag=CN }:: [OxalicAcid](https://osu.ppy.sh/users/17146433), ::{ flag=CN }:: [\[GB\]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=US }:: [Ballistic](https://osu.ppy.sh/users/5170506), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=US }:: [Feraligatr](https://osu.ppy.sh/users/7439226), ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) |
+| Mappool helper | ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PL }:: [Paraxia](https://osu.ppy.sh/users/14001000), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616), ::{ flag=CN }:: [OxalicAcid](https://osu.ppy.sh/users/17146433), ::{ flag=CN }:: [\[GB\]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=US }:: [Ballistic](https://osu.ppy.sh/users/5170506), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=US }:: [Feraligatr](https://osu.ppy.sh/users/7439226), ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) |
 | Referee | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Apr4th](https://osu.ppy.sh/users/20485400), ::{ flag=CN }:: [80zero](https://osu.ppy.sh/users/12301332), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814), ::{ flag=CN }:: [KitoriQAQ](https://osu.ppy.sh/users/28653364), ::{ flag=CN }:: [Cris_DK](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=CN }:: [LightingT](https://osu.ppy.sh/users/34739432), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=CN }:: [FenggeTGOB](https://osu.ppy.sh/users/35928532), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }:: [bili_TYL](https://osu.ppy.sh/users/30993101), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645) |
-| Referee Helper | ::{ flag=CN }:: [\[GB\]YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [Rync_](https://osu.ppy.sh/users/18242164), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=JP }:: [yoshyap](https://osu.ppy.sh/users/16608860) |
-| Additional Referee | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
+| Referee helper | ::{ flag=CN }:: [\[GB\]YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [Rync_](https://osu.ppy.sh/users/18242164), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=JP }:: [yoshyap](https://osu.ppy.sh/users/16608860) |
+| Additional referee | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
 | Tester | ::{ flag=VN }:: [-Kita-](https://osu.ppy.sh/users/27175001), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [c6H8o6_](https://osu.ppy.sh/users/20984576), ::{ flag=CN }:: [nobder](https://osu.ppy.sh/users/13577309), ::{ flag=CN }:: [bili_TYL](https://osu.ppy.sh/users/30993101), ::{ flag=JP }:: [yoshyap](https://osu.ppy.sh/users/16608860), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=HK }:: [minatoaquafan69](https://osu.ppy.sh/users/18111392), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CN }:: [Shiki Natsume](https://osu.ppy.sh/users/6997459), ::{ flag=CN }:: [SaltFalt](https://osu.ppy.sh/users/31185655), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
-| Additional Tester | ::{ flag=CN }:: [Pleia_](https://osu.ppy.sh/users/32651686), ::{ flag=CN }:: [Nyagato Yuki](https://osu.ppy.sh/users/32954144), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=AU }:: [nick-haoran](https://osu.ppy.sh/users/29944863), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390) |
+| Additional tester | ::{ flag=CN }:: [Pleia_](https://osu.ppy.sh/users/32651686), ::{ flag=CN }:: [Nyagato Yuki](https://osu.ppy.sh/users/32954144), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=AU }:: [nick-haoran](https://osu.ppy.sh/users/29944863), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390) |
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [80zero](https://osu.ppy.sh/users/12301332), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=HK }:: [Icyyycrem](https://osu.ppy.sh/users/31380427), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [PORTTAYER](https://osu.ppy.sh/users/8790200), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=AU }:: [nick-haoran](https://osu.ppy.sh/users/29944863), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [80zero](https://osu.ppy.sh/users/12301332), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=HK }:: [Icyyycrem](https://osu.ppy.sh/users/31380427) |
 | Designer | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Knockout Week 2 Mappool
+### Knockout week 2 mappool
 
 **[Download the mappack here (172MB)](https://drive.google.com/file/d/1iz317E_XpGKWZz7uF66TkWCP-clCMTV8/view?usp=sharing)**
 
@@ -211,7 +211,7 @@ This competition has come to an end and resulted in the following podium:
 - **TB**
   1. [seatrus - The Princess was gills breathing. \[Grace Beneath Corals\]](https://osu.ppy.sh/beatmapsets/2300517#mania/4916169)
 
-### Knockout Week 1 Mappool
+### Knockout week 1 mappool
 
 **[Download the mappack here (141.9MB)](https://drive.google.com/file/d/1TpDSr5jM-IkktHKDzmeVx1quhSEqFLb_/view?usp=sharing)**
 
@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
 - **TB**
   1. [ATOLS - ZOMBIE MAKER feat. Hatsune Miku [Long Version] \[Lust for Life\]](https://osu.ppy.sh/beatmapsets/2297184#mania/4906820)
 
-### Swiss II Round 2 & 3 Mappool
+### Swiss II week 2 & 3 mappool
 
 **[Download the mappack here (116.8MB)](https://drive.google.com/file/d/1jLiv38CjmFcSYOn5CuBu2ECwzIXdzhUS/view?usp=sharing)**
 
@@ -263,7 +263,7 @@ This competition has come to an end and resulted in the following podium:
 - **TB**
   1. [TAG - Unknown Territory \[The World God Only Knows\]](https://osu.ppy.sh/beatmapsets/2290909#mania/4889867)
 
-### Swiss II Round 1 Mappool
+### Swiss II week 1 mappool
 
 **[Download the mappack here (99.6MB)](https://drive.google.com/file/d/1qz0C0beG_RW0xbwlZ-nWYZb2q6KNea5A/view?usp=sharing)**
 
@@ -288,7 +288,7 @@ This competition has come to an end and resulted in the following podium:
 - **TB**
   1. [Kou! - Quantielectromolecularifeline Tunnelling \[Meltdowner\]](https://osu.ppy.sh/beatmapsets/2287851#mania/4881483)
 
-### Swiss I Round 2 & 3 Mappool
+### Swiss I week 2 & 3 mappool
 
 **[Download the mappack here (75.0MB)](https://drive.google.com/file/d/1qD27ivASynm_YlxsjSZ4Kpeln1IQPEY0/view?usp=sharing)**
 
@@ -311,7 +311,7 @@ This competition has come to an end and resulted in the following podium:
 - **TB**
   1. [Wooden - LiMiNAL DRiVE \[seek the edge of the ground\]](https://osu.ppy.sh/beatmapsets/2281364#mania/4863911)
 
-### Swiss I Round 1 Mappool
+### Swiss I week 1 mappool
 
 **[Download the mappack here (87.1MB)](https://drive.google.com/file/d/1VTH-XRADVqIpKtIxpX2tg8KX9ubqfLz2/view?usp=sharing)**
 
@@ -355,7 +355,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### QQ division
 
-#### Knockout Week 2
+#### Knockout week 2
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=gkcio0).
 
@@ -373,7 +373,7 @@ Sunday, 5 January 2025:
 | Q3:漏勺挖洞 | - | - | Q24:Make PLANA Great Again | *match cancelled* |
 | **Q17:雾雨魔法小萝莉** | **7** | 2 | Q5:我已进入天空之城 | [#1](https://osu.ppy.sh/community/matches/116720458) |
 
-#### Knockout Week 1
+#### Knockout week 1
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=gpikea).
 
@@ -386,7 +386,7 @@ Saturday, 28 December 2024:
 | **Q17:雾雨魔法小萝莉** | **7** | 2 | Q23:66我判定就没正过 | [#1](https://osu.ppy.sh/community/matches/116636455) |
 | Q7:哭泣少女漏勺 | 3 | **7** | **Q5:我已进入天空之城** | [#1](https://osu.ppy.sh/community/matches/116636994) |
 
-#### Swiss II Round 3
+#### Swiss II week 3
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=794n9o).
 
@@ -404,7 +404,7 @@ Sunday, 22 December 2024:
 | --: | :-: | :-: | :-- | :-- |
 | Q16:让金戈铁马在gbc起飞 | 4 | **6** | **Q15:火力战队** | [#1](https://osu.ppy.sh/community/matches/116575147) |
 
-#### Swiss II Round 2
+#### Swiss II week 2
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=fo2nqy).
 
@@ -421,7 +421,7 @@ Saturday, 14 December 2024:
 | **Q7:哭泣少女漏勺** | **6** | 1 | Q23:66我判定就没正过 | [#1](https://osu.ppy.sh/community/matches/116494210) |
 | Q18:玩米的这辈子有了 | 5 | **6** | **Q24:Make PLANA Great Again** | [#1](https://osu.ppy.sh/community/matches/116494955) |
 
-#### Swiss II Round 1
+#### Swiss II week 1
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=7m9sp6).
 
@@ -443,7 +443,7 @@ Sunday, 8 December 2024:
 | --: | :-: | :-: | :-- | :-- |
 | **Q3:漏勺挖洞** | **6** | 3 | Q15:火力战队 | [#1](https://osu.ppy.sh/community/matches/116436104) |
 
-#### Swiss I Round 3
+#### Swiss I week 3
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=vwsd1p).
 
@@ -475,7 +475,7 @@ Friday, 6 December 2024:
 | --: | :-: | :-: | :-- | :-- |
 | **Q26:奶龙教派** | **5** | 3 | Q8:DJ Yukm和动物朋友们 | [#1](https://osu.ppy.sh/community/matches/116413310) |
 
-#### Swiss I Round 2
+#### Swiss I week 2
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=evznpu).
 
@@ -510,7 +510,7 @@ Sunday, 24 November 2024:
 | Q27:你先开的 | 1 | **5** | **Q3:漏勺挖洞** | [#1](https://osu.ppy.sh/community/matches/116293440) |
 | **Q7:哭泣少女漏勺** | **5** | 1 | Q11:新新炮台山の闪电五人 | [#1](https://osu.ppy.sh/community/matches/116294014) |
 
-#### Swiss I Round 1
+#### Swiss I week 1
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=ni29kc).
 
@@ -542,7 +542,7 @@ Sunday, 17 November 2024:
 
 ### Discord division
 
-#### Knockout Week 2
+#### Knockout week 2
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=gkcio0).
 
@@ -553,7 +553,7 @@ Sunday, 5 January 2025:
 | D15:Mania Rangers Dinoforce | 1 | **7** | **D13:bol** | [#1](https://osu.ppy.sh/community/matches/116721946) |
 | **D16:okay²** | **7** | 2 | D12:Photon Worshippers | [#1](https://osu.ppy.sh/community/matches/116722278) |
 
-#### Knockout Week 1
+#### Knockout week 1
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=gpikea).
 
@@ -564,7 +564,7 @@ Sunday, 29 December 2024:
 | **D16:okay²** | **7** | 5 | D13:bol | [#1](https://osu.ppy.sh/community/matches/116648354) |
 | D15:Mania Rangers Dinoforce | 6 | **7** | **D12:Photon Worshippers** | [#1](https://osu.ppy.sh/community/matches/116648562) |
 
-#### Swiss II Round 3
+#### Swiss II week 3
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=794n9o).
 
@@ -575,7 +575,7 @@ Sunday, 22 December 2024:
 | **D12:Photon Worshippers** | **6** | 2 | D1:Konkawe | [#1](https://osu.ppy.sh/community/matches/116576029) |
 | D13:bol | 6 | **FF** | **D11:play tower battles** | [#1](https://osu.ppy.sh/community/matches/116576623) |
 
-#### Swiss II Round 2
+#### Swiss II week 2
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=fo2nqy).
 
@@ -593,7 +593,7 @@ Sunday, 15 December 2024:
 | **D16:okay²** | **6** | 5 | D11:play tower battles | [#1](https://osu.ppy.sh/community/matches/116506698) |
 | **D13:bol** | **6** | 2 | D5:Migu | [#1](https://osu.ppy.sh/community/matches/116507179) |
 
-#### Swiss II Round 1
+#### Swiss II week 1
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=7m9sp6).
 
@@ -611,7 +611,7 @@ Sunday, 8 December 2024:
 | **D16:okay²** | **6** | 3 | D10:芝士虾 | [#1](https://osu.ppy.sh/community/matches/116437764) |
 | D5:Migu | 4 | **6** | **D15:Mania Rangers Dinoforce** | [#1](https://osu.ppy.sh/community/matches/116438258) |
 
-#### Swiss I Round 3
+#### Swiss I week 3
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=vwsd1p).
 
@@ -629,7 +629,7 @@ Sunday, 1 December 2024:
 | **D1:Konkawe** | **5** | 2 | D2:雪見だいふく | [#1](https://osu.ppy.sh/community/matches/116366692) |
 | **D15:Mania Rangers Dinoforce** | **5** | 3 | D8:kimmui femboys | [#1](https://osu.ppy.sh/community/matches/116367100) |
 
-#### Swiss I Round 2
+#### Swiss I week 2
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=evznpu).
 
@@ -651,7 +651,7 @@ Sunday, 24 November 2024:
 | D8:kimmui femboys | 3 | **5** | **D13:bol** | [#1](https://osu.ppy.sh/community/matches/116294209) |
 | D3:GBC fan club | 3 | **5** | **D16:okay²** | [#1](https://osu.ppy.sh/community/matches/116294772) |
 
-#### Swiss I Round 1
+#### Swiss I week 1
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=ni29kc).
 
@@ -673,7 +673,7 @@ Sunday, 17 November 2024:
 | D1:Konkawe | 2 | **5** | **D16:okay²** | [#1](https://osu.ppy.sh/community/matches/116221954) |
 | D4:DC Team 4 | 4 | **5** | **D13:bol** | [#1](https://osu.ppy.sh/community/matches/116221887) |
 
-### Qualifier
+### Qualifier stage
 
 Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=7cpdju).
 
