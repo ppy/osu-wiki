@@ -48,7 +48,7 @@ We are particularly interested in candidates who:
 
 ## Application
 
-**[Click here to apply!](https://forms.gle/uADXw7zHM81e584y8)**
+**[Click here to apply!](https://form-auth.ppy.sh/form/2025-tournament-committee-applications)**
 
 After authentication, you'll complete a Google Form that collects basic information and includes scenario-based questions. We recommend setting aside about 45 minutes to provide well-thought-out and detailed answers.
 
