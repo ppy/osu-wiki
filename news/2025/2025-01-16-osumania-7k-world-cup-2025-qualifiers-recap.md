@@ -4,11 +4,15 @@ title: "osu!mania 7K World Cup 2025: Qualifiers Recap"
 date: 2025-01-16 23:00:00 +0000
 ---
 
-The stage is set, and our contestants are about to take on the challenge. Join us along and witness the beginning of a 7K hero's journey!
+The stage is set, and our contestants are about to take on the challenge. Join us along and witness the birth of a 7K hero's journey!
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
 
-Fancy intro. Some stats (Registrations, countries, the iteration number, etc...). Brief mention to mappool changes, explained in another section. Introduce mappool recap and whom wrote it.
+The community's beloved keysmashing tournament is back for another year! With a record breaking number of 228 registrations and the very first time the bracket begins at Round of 32, the tournament's ambitions have grown ever so larger — The largest they've ever been!
+
+This year, the mappooling team has opted to slightly modify the mappool format. With the introduction of a new long note category, and a new-found focus on testing players in a wide variety of skillsets, we have gotten but a small glimpse into the future of this year's pools to come.
+
+With the introduction out of the way, let us get into the nitty-gritty of this year's Qualifiers pool! Stay tuned, as later on we'll get to chat with several members from the mappooling team.
 
 ## Mappool recap
 
@@ -59,4 +63,4 @@ Question geared towards trying to understand the hurdles of mappooling from the 
 
 Cool outro, hype up next round and the whole tourney.
 
-—RandomeLoL, _Kobii
+—RandomeLoL, _Kobii, Maxus
