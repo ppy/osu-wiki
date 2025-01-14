@@ -54,7 +54,6 @@ The Touhou Project Mania Cup 4th is run by various community members.
 | Wiki | ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
 | Designer | ::{ flag=MY }:: [lous](https://osu.ppy.sh/users/6231292), ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
 
-
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/11iFCHTWJLZhRDrtsDUjMx8hwKGWUYu0VR_x3SDgTOS0)**
