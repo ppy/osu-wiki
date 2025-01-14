@@ -186,7 +186,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 淘汰赛第二周
 
-**[在这里下载图包 (172MB)](https://drive.google.com/file/d/1iz317E_XpGKWZz7uF66TkWCP-clCMTV8/view?usp=sharing)**
+**[在这里下载图包](https://drive.google.com/file/d/1iz317E_XpGKWZz7uF66TkWCP-clCMTV8/view?usp=sharing)**
 
 - **RC**
   1. [Junk - Qualia [Choukyorisou] \[shaky, sweaty (edit)\]](https://osu.ppy.sh/beatmapsets/2265656#mania/4916159)
@@ -213,7 +213,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 淘汰赛第一周
 
-**[在这里下载图包 (141.9MB)](https://drive.google.com/file/d/1TpDSr5jM-IkktHKDzmeVx1quhSEqFLb_/view?usp=sharing)**
+**[在这里下载图包](https://drive.google.com/file/d/1TpDSr5jM-IkktHKDzmeVx1quhSEqFLb_/view?usp=sharing)**
 
 - **RC**
   1. [-45 - Malice Call \[Stream Call\]](https://osu.ppy.sh/beatmapsets/2297138#mania/4906704)
@@ -240,7 +240,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 瑞士轮2 第二周&第三周
 
-**[在这里下载图包 (116.8MB)](https://drive.google.com/file/d/1jLiv38CjmFcSYOn5CuBu2ECwzIXdzhUS/view?usp=sharing)**
+**[在这里下载图包](https://drive.google.com/file/d/1jLiv38CjmFcSYOn5CuBu2ECwzIXdzhUS/view?usp=sharing)**
 
 - **RC**
   1. [SHK - Yue Ai Yue Ye \[Waxing\]](https://osu.ppy.sh/beatmapsets/2283007#mania/4868358)
@@ -265,7 +265,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 瑞士轮2 第一周
 
-**[在这里下载图包 (99.6MB)](https://drive.google.com/file/d/1qz0C0beG_RW0xbwlZ-nWYZb2q6KNea5A/view?usp=sharing)**
+**[在这里下载图包](https://drive.google.com/file/d/1qz0C0beG_RW0xbwlZ-nWYZb2q6KNea5A/view?usp=sharing)**
 
 - **RC**
   1. [S.H.E - Super Star \[cut\]](https://osu.ppy.sh/beatmapsets/2189204#mania/4630237)
@@ -290,7 +290,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 瑞士轮1 第二周&第三周
 
-**[在这里下载图包 (75.0MB)](https://drive.google.com/file/d/1qD27ivASynm_YlxsjSZ4Kpeln1IQPEY0/view?usp=sharing)**
+**[在这里下载图包](https://drive.google.com/file/d/1qD27ivASynm_YlxsjSZ4Kpeln1IQPEY0/view?usp=sharing)**
 
 - **RC**
   1. [FM-84 - Running In The Night (feat. Ollie Wride) (Cut Ver.) \[Chasing Sunset\]](https://osu.ppy.sh/beatmapsets/2281374#mania/4863942)
@@ -313,7 +313,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 瑞士轮1 第一周
 
-**[在这里下载图包 (87.1MB)](https://drive.google.com/file/d/1VTH-XRADVqIpKtIxpX2tg8KX9ubqfLz2/view?usp=sharing)**
+**[在这里下载图包](https://drive.google.com/file/d/1VTH-XRADVqIpKtIxpX2tg8KX9ubqfLz2/view?usp=sharing)**
 
 - **RC**
   1. [LV.4 - Angel dust (2016 Radio Mix) \[fall in love with tachyon\]](https://osu.ppy.sh/beatmapsets/2222866#mania/4713540)
@@ -336,7 +336,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 资格赛
 
-**[在这里下载图包 (38.5MB)](https://drive.google.com/file/d/1MhagD74o77ToTaAofmRHDpMIX04aSQw9)**
+**[在这里下载图包](https://drive.google.com/file/d/1MhagD74o77ToTaAofmRHDpMIX04aSQw9)**
 
 - SV
   1. [litmus* - The NightScape \[Stage 1: Dynamic\]](https://osu.ppy.sh/beatmapsets/2267875#mania/4829588)
@@ -386,7 +386,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | **Q17:雾雨魔法小萝莉** | **7** | 2 | Q23:66我判定就没正过 | [#1](https://osu.ppy.sh/community/matches/116636455) |
 | Q7:哭泣少女漏勺 | 3 | **7** | **Q5:我已进入天空之城** | [#1](https://osu.ppy.sh/community/matches/116636994) |
 
-#### 瑞士轮2 第三轮
+#### 瑞士轮2 第三周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=794n9o)查看。
 
@@ -404,7 +404,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | --: | :-: | :-: | :-- | :-- |
 | Q16:让金戈铁马在gbc起飞 | 4 | **6** | **Q15:火力战队** | [#1](https://osu.ppy.sh/community/matches/116575147) |
 
-#### 瑞士轮2 第二轮
+#### 瑞士轮2 第二周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=fo2nqy)查看。
 
@@ -421,7 +421,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | **Q7:哭泣少女漏勺** | **6** | 1 | Q23:66我判定就没正过 | [#1](https://osu.ppy.sh/community/matches/116494210) |
 | Q18:玩米的这辈子有了 | 5 | **6** | **Q24:Make PLANA Great Again** | [#1](https://osu.ppy.sh/community/matches/116494955) |
 
-#### 瑞士轮2 第一轮
+#### 瑞士轮2 第一周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=7m9sp6)查看。
 
@@ -443,7 +443,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | --: | :-: | :-: | :-- | :-- |
 | **Q3:漏勺挖洞** | **6** | 3 | Q15:火力战队 | [#1](https://osu.ppy.sh/community/matches/116436104) |
 
-#### 瑞士轮1 第三轮
+#### 瑞士轮1 第三周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=vwsd1p)查看。
 
@@ -475,7 +475,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | --: | :-: | :-: | :-- | :-- |
 | **Q26:奶龙教派** | **5** | 3 | Q8:DJ Yukm和动物朋友们 | [#1](https://osu.ppy.sh/community/matches/116413310) |
 
-#### 瑞士轮1 第二轮
+#### 瑞士轮1 第二周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=evznpu)查看。
 
@@ -510,7 +510,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | Q27:你先开的 | 1 | **5** | **Q3:漏勺挖洞** | [#1](https://osu.ppy.sh/community/matches/116293440) |
 | **Q7:哭泣少女漏勺** | **5** | 1 | Q11:新新炮台山の闪电五人 | [#1](https://osu.ppy.sh/community/matches/116294014) |
 
-#### 瑞士轮1 第一轮
+#### 瑞士轮1 第一周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=ni29kc)查看。
 
@@ -564,7 +564,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | **D16:okay²** | **7** | 5 | D13:bol | [#1](https://osu.ppy.sh/community/matches/116648354) |
 | D15:Mania Rangers Dinoforce | 6 | **7** | **D12:Photon Worshippers** | [#1](https://osu.ppy.sh/community/matches/116648562) |
 
-#### 瑞士轮2 第三轮
+#### 瑞士轮2 第三周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=794n9o)查看。
 
@@ -575,7 +575,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | **D12:Photon Worshippers** | **6** | 2 | D1:Konkawe | [#1](https://osu.ppy.sh/community/matches/116576029) |
 | D13:bol | 6 | **FF** | **D11:play tower battles** | [#1](https://osu.ppy.sh/community/matches/116576623) |
 
-#### 瑞士轮2 第二轮
+#### 瑞士轮2 第二周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=fo2nqy)查看。
 
@@ -593,7 +593,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | **D16:okay²** | **6** | 5 | D11:play tower battles | [#1](https://osu.ppy.sh/community/matches/116506698) |
 | **D13:bol** | **6** | 2 | D5:Migu | [#1](https://osu.ppy.sh/community/matches/116507179) |
 
-#### 瑞士轮2 第一轮
+#### 瑞士轮2 第一周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=7m9sp6)查看。
 
@@ -611,7 +611,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | **D16:okay²** | **6** | 3 | D10:芝士虾 | [#1](https://osu.ppy.sh/community/matches/116437764) |
 | D5:Migu | 4 | **6** | **D15:Mania Rangers Dinoforce** | [#1](https://osu.ppy.sh/community/matches/116438258) |
 
-#### 瑞士轮1 第三轮
+#### 瑞士轮1 第三周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=vwsd1p)查看。
 
@@ -629,7 +629,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | **D1:Konkawe** | **5** | 2 | D2:雪見だいふく | [#1](https://osu.ppy.sh/community/matches/116366692) |
 | **D15:Mania Rangers Dinoforce** | **5** | 3 | D8:kimmui femboys | [#1](https://osu.ppy.sh/community/matches/116367100) |
 
-#### 瑞士轮1 第二轮
+#### 瑞士轮1 第二周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=evznpu)查看。
 
@@ -651,7 +651,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 | D8:kimmui femboys | 3 | **5** | **D13:bol** | [#1](https://osu.ppy.sh/community/matches/116294209) |
 | D3:GBC fan club | 3 | **5** | **D16:okay²** | [#1](https://osu.ppy.sh/community/matches/116294772) |
 
-#### 瑞士轮1 第一轮
+#### 瑞士轮1 第一周
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DVkZkd215VlB6a3dz?tab=ni29kc)查看。
 
