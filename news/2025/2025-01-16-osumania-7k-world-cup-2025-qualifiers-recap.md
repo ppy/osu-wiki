@@ -14,6 +14,8 @@ This year, the mappooling team has opted to slightly modify the mappool format. 
 
 With the introduction out of the way, let us get into the nitty-gritty of this year's Qualifiers pool! Stay tuned, as later on we'll get to chat with several members from the mappooling team.
 
+## 
+
 ## Mappool recap
 
 [**Download the pool here (32 MB)**](https://osu.ppy.sh/beatmaps/packs/P270)
@@ -24,7 +26,7 @@ With the introduction out of the way, let us get into the nitty-gritty of this y
 
 ![Qualifier mappool table](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/mappool.jpg)
 
-Players were given a warm welcome into the tournament with a fairly standard-sized 8-map pool. But size isn't what matters for all intents and purposes. From changing the LN release picks to be LN coordination, to introducing one of the most intense hybrid maps to date in a Qualifiers pool. And while the core of the pool remains the same, those teams who were able to adapt to the changes were able to gain an edge over their peers!
+Players were given a warm welcome into the tournament with a fairly standard-sized 8 stage Qualifiers pool. But size isn't what matters for all intents and purposes. From changing the LN release picks to be LN coordination, to introducing one of the most intense hybrid maps to date in a Qualifiers pool. And while the core of the pool remains the same, those teams who were able to adapt to the changes were able to gain an edge over their peers!
 
 Speaking of highlights, let's talk about the star of the pool: [aran - Yoake Mae feat. shully](https://osu.ppy.sh/beatmapsets/2303945#mania/4924806) (LN1) by [_Kobii](https://osu.ppy.sh/users/6209713) ::{ flag=MY }::. Whereas in previous years this would've been a long note pick with a focus on releases, this time around the poolers decided to test players' finger coordination as a whole. Other noteworthy maps include [Mono - skip&step](https://osu.ppy.sh/beatmapsets/2115949#mania/4443569) (RC3) by [Blocko](https://osu.ppy.sh/users/4075092) ::{ flag=US }::, a fun and varied rice experience meant to keep players on their toes — or shall we say, their fingers? Finally, we have [seatrus - Hekikuu no Yakusoku](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807) (HB2) by [Critical_Star](https://osu.ppy.sh/users/3793196) ::{ flag=MY }::. Players got a little of tiebreakers to come, as well as the intensity they should expect.
 
