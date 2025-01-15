@@ -14,6 +14,12 @@ This year, the mappooling team has opted to slightly modify the mappool format. 
 
 With the introduction out of the way, let us get into the nitty-gritty of this year's Qualifiers pool! Stay tuned, as later on we'll get to chat with several members from the mappooling team.
 
+If you're new to the series, fret not! [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) got you covered with the mappool's basics.
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/SVE8tT1zL9Y" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Mappool recap
 
 [**Download the pool here (32 MB)**](https://osu.ppy.sh/beatmaps/packs/P270)
