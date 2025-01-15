@@ -14,8 +14,6 @@ This year, the mappooling team has opted to slightly modify the mappool format. 
 
 With the introduction out of the way, let us get into the nitty-gritty of this year's Qualifiers pool! Stay tuned, as later on we'll get to chat with several members from the mappooling team.
 
-## 
-
 ## Mappool recap
 
 [**Download the pool here (32 MB)**](https://osu.ppy.sh/beatmaps/packs/P270)
@@ -35,7 +33,7 @@ But we've only just begun, and future mappools are yet to be revealed. Who knows
 ## Qualifier highlights
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="ADD-VOD-HERE" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2351784653&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![Qualifier results table](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/results.jpg)
