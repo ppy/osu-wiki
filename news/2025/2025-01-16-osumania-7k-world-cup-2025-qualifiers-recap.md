@@ -48,26 +48,74 @@ Recap of the qualifiers. Highlight top seeds, surprising turnarounds, overperfor
 
 # Mappooling team interview - MWC 7K 2025
 
-! This whole section is a placeholder !
-- Prepare banners
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-lvd {
+        color: #FFD1DC;
+    }
+
+    .news-chat-quote__colour-gmt {
+        color: #99EB47;
+    }
+
+    .news-chat-quote__colour-nat {
+        color: #fa3703;
+    }
+
+    .news-chat-quote__colour-bn {
+        color: #A347EB;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
+
+    .news-chat-quote__colour-fa {
+        color: #00FFFF;
+    }
+</style>
+
+Players and spectators alike only get to experience the results of the mappooling team's hard work. But more often than not, they're unaware of the process nor of the challenges that come with it. Keeping up with players' expectations is no easy feat afterall. Therefore, we'd like to have a chat with three members of the pooling team. Each responsible of one piece of the puzzle. As such, let us introduce [_Kobii](https://osu.ppy.sh/users/6209713), [ExNeko](https://osu.ppy.sh/users/7590894), and [cheewee10](https://osu.ppy.sh/users/4477497) to lecture us on the herculean task of pooling for MWC 7K!
+
+::{#_kobii}::
+
+![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/Kobii.png)
 
 ## The weight of being the head pooler must be nothing short of burdensome. How does one manage to meet the community's expectations? What are the challenges that come with such an endeavour?
 
 (Head pooler - [_Kobii](https://osu.ppy.sh/users/6209713))
 
-Puts into perspective the effort and responsibility carried by those who are in charge of overseeing the pool and team alike. A chance to explain to the community many of the challenges that they may so blissfully be unaware of.
+:{#ExNeko}::
+
+![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/ExNeko.png)
 
 ## What are the challenges that mappers face when pooling for tournaments? Are the restrictions imposed by the needs of the pool too big of a challenge to overcome? How these issues impact your original vision of the maps?
 
 (Mapper - [ExNeko](https://osu.ppy.sh/users/7590894))
 
-Gives the perspective of a mapper who has worked on multiple parts of the pool within multiple rounds. Considering tournaments are notorious for their strict requirements in order to keep balance in check, having the experience of a mapper used to them may give better insight to these challenges and how they affect them and their creations as an individual from a wider team.
+:{#cheewee10}::
+
+![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/cheewee10.png)
 
 ## How would you describe your experience as a playtester, after having been on the other side of the fence for so long? Is balancing the pool as easy of a task as some players' opinions may lead to believe?
 
 (Playtester - [cheewee10](https://osu.ppy.sh/users/4477497))
-
-Question geared towards trying to understand the hurdles of mappooling from the experience of someone who has been on both sides of the coin for a long time. Gives an opportunity to put into perspective the challenges of ultimately being the person who'll have the most weight in how a pool will get balanced.
 
 ---
 
