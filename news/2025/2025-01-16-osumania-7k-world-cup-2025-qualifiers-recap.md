@@ -99,7 +99,11 @@ Players and spectators alike only get to experience the results of the mappoolin
 
 ## The weight of being the head pooler must be nothing short of burdensome. How does one manage to meet the community's expectations? What are the challenges that come with such an endeavour?
 
-(Head pooler - [_Kobii](https://osu.ppy.sh/users/6209713))
+While the workload is nothing to scoff at, it is an honor to be appointed as the head pooler for one of the osu! World Cup tournaments! Being a head pooler and an advisor comes with a lot of doubts and uncertainties, as well as expectations to withstand. Thankfully, after years of experience in mappooling I've managed to understand and address what needs to be improved, addressing past issues. And while not perfect, I couldn't be more satisfied with the result!
+
+Mappooling isn't as easy as some might think. It's not just a matter of selecting appropriate maps, but rather creating a custom pool to meet everyone's expectations. Preparation is key, and the mappooling team has been working non-stop from as early as June 2024 to ensure the quality of the pool is up to par for a tournament of this magnitude. 
+
+With a team as varied and talented as ours, there are bound to be conflicting opinions. Occasionally leading to lengthy discussions. Ultimately, a conclusion had to be reached by finding a compromise between the mappoolers and the mappers. Additionally, given the size of our pools we sometimes had to make do with insufficient feedback from playtesters. Suffice to say, pooling for a tournament of this size is a stressful task. And while it's my responsibility to adhere to the deadlines, we've learned that none of us want to work under a time crunch—period.
 
 :{#ExNeko}::
 
