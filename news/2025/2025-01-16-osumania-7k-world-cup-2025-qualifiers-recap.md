@@ -17,7 +17,7 @@ With the introduction out of the way, let us get into the nitty-gritty of this y
 If you're new to the series, fret not! [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) got you covered with the mappool's basics.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/SVE8tT1zL9Y" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Ir8Qk92aaI0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
@@ -115,8 +115,6 @@ Mappooling isn't as easy as some might think. It's not just a matter of selectin
 
 With a team as varied and talented as ours, there are bound to be conflicting opinions. Occasionally leading to lengthy discussions. Ultimately, a conclusion had to be reached by finding a compromise between the mappoolers and the mappers. Additionally, given the size of our pools we sometimes had to make do with insufficient feedback from playtesters. Suffice to say, pooling for a tournament of this size is a stressful task. And while it's my responsibility to adhere to the deadlines, we've learned that none of us want to work under a time crunch—period.
 
-</div>
-
 :{#ExNeko}::
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/ExNeko.png)
@@ -129,9 +127,25 @@ With a team as varied and talented as ours, there are bound to be conflicting op
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/cheewee10.png)
 
-## How would you describe your experience as a playtester, after having been on the other side of the fence for so long? Is balancing the pool as easy of a task as some players' opinions may lead to believe?
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
 
-(Playtester - [cheewee10](https://osu.ppy.sh/users/4477497))
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+How would you describe your experience as a playtester, after having been on the other side of the fence for so long? Is balancing the pool as easy of a task as some players' opinions may lead to believe?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4477497" style="background-image: url('/wiki/shared/avatars/cheewee10.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4477497">cheewe10</a></p>
+
+Transitioning into the mappooling group after so many years as a player has been an interesting experience to say the least. While as a player my focus was always on performing my best in the pool, as a playtester I had to shift from thinking about my experience with the mappool alone to considering how the entire playerbase will perceive the mappool. The stakes are different on each role.
+
+Initially, this shift wasn't easy for me. As a player, I've always been more "feeling-oriented", relying on how the map feels rather than analyzing its components to provide constructive feedback. However, stepping into this role, I learned the nuances of playtesting and the sheer effort that goes into the creation of these pools. I expect that players will find an increase in quality, balance, and replayability on this year's picks! The fact everything is 100% custom-made is nothing short of amazing.
+
+When it comes to balancing a pool, I think it's important to acknowledge that no mappool will be perfect. Every players has their preferences and opinions on any given map. Mapping is inherently subjective, and with so many competitors in the tournament, their opinions are bound to be very differnet. Even so, the mappoolers work tirelessly to tackle these challenges. By being open to criticism and adjusting the structure of the pools, these issues are mitigated. It is commendable how open to feedback the team has been!
+
+That said, while being a playtester has been a fascinating and rewarding experience, I still prefer being a player. Huge shout-outs to the mappooling team for the absurd amount of work they put in, and last but not least, best of luck to all the players in MWC! Have fun out there!
+
+</div>
 
 ---
 
