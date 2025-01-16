@@ -149,7 +149,7 @@ How would you describe your experience as a playtester, after having been on the
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4477497" style="background-image: url('/wiki/shared/avatars/cheewee10.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4477497">cheewe10</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4477497">cheewee10</a></p>
 
 Transitioning into the mappooling group after so many years as a player has been an interesting experience to say the least. While as a player my focus was always on performing my best in the pool, as a playtester I had to shift from thinking about my experience with the mappool alone to considering how the entire playerbase will perceive the mappool. The stakes are different on each role.
 
