@@ -8,7 +8,7 @@ The stage is set, and our contestants are about to take on the challenge. Join u
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
 
-The community's beloved keysmashing tournament is back for another year! With a record breaking number of 228 registrations and the very first time the bracket begins at Round of 32, the tournament's ambitions have grown ever so larger — the largest they've ever been!
+The community's beloved key smashing tournament is back for another year! With a record-breaking number of 228 registrations and the bracket commencing at the Round of 32 stage for the very first time, the tournament's ambitions have grown ever so larger — the largest they've ever been!
 
 This year, the mappooling team has opted to slightly modify the mappool format. With the introduction of a new long note category, and a new-found focus on testing players in a wide variety of skill sets, we have got but a small glimpse into the future of this year's pools to come.
 
@@ -30,7 +30,7 @@ If you're new to the series, fret not! [SurfChu85](https://osu.ppy.sh/users/4469
 
 ![Qualifier mappool table](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/mappool.jpg)
 
-Players were given a warm welcome into the tournament with a fairly standard-sized 8 stage Qualifiers pool. But size isn't what matters for all intents and purposes. From changing the LN release picks to be LN coordination, to introducing one of the most intense hybrid maps to date in a Qualifiers pool. And while the core of the pool remains the same, those teams who were able to adapt to the changes were able to gain an edge over their peers!
+Players were given a warm welcome into the tournament with a fairly standard-sized 8 stage Qualifiers pool. But size isn't what matters for all intents and purposes. There were various structural changes, from changing the LN release picks to be LN coordination, to introducing one of the most intense hybrid maps to date in a Qualifiers pool. And while the core of the pool remains the same, with teams who were able to adapt to the changes gaining an edge over their peers!
 
 Speaking of highlights, let's talk about the star of the pool: [aran - Yoake Mae feat. shully](https://osu.ppy.sh/beatmapsets/2303945#mania/4924806) (LN1) by ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713). Whereas in previous years this would've been a long note pick with a focus on releases, this time around the poolers decided to test players' finger coordination as a whole. Other noteworthy maps include [Mono - skip&step](https://osu.ppy.sh/beatmapsets/2115949#mania/4443569) (RC3) by ::{ flag=US }::[Blocko](https://osu.ppy.sh/users/4075092), a fun and varied rice experience meant to keep players on their toes — or shall we say, their fingers? Finally, we have [seatrus - Hekikuu no Yakusoku](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807) (HB2) by ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196). Players got a little of tiebreakers to come, as well as the intensity they should expect.
 
