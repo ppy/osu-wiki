@@ -130,11 +130,12 @@ I think our biggest challenges are related to time. Communication with the team,
 As for the limitations, I don't particularly find them to be a challenge. When signing up for the task, you should already be expecting them. Maps created for tournaments have a very clear purpose: to test the skill of players under specific conditions. And while these conditions may not be found in ranked maps, these challenges haven't stopped many of the mappers I've worked with to create imaginative, creative, and unique maps without losing their personal style!
 
 Our opinions on certain patterns are bound to evolve over time. As the years pass, so do the different mapping trends and player preferences. Ever since I started working as a mapper, I've seen the evolution first hand. Throughout the years and thanks to all the feedback gathered, the focus of pools have become ever so clearer. As such, mappers were able to more easily introduce these adjustments into their maps as the goals became more concise. Therefore, I think the best approach is having the mappoolers dictate the structure of the pools, leaving the mappers to nurture those ideas in their own style.
+
 </div>
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/cheewee10.png)
 
-To conclude this interview, we've also reached out to [cheewee10](https://osu.ppy.sh/users/4477497). Tournament veteran and mania player extraordinaire, cheewee10 wanted to get a taste of what's being part of the mappooling team like. From the first time they placed 2nd in the [osu!mania 7K World Cup 2018](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2018_7K) to last year achieving the same results, their wide-ranging experience has been a huge asset to have in the team.
+To conclude this interview, we've also reached out to [cheewee10](https://osu.ppy.sh/users/4477497). Tournament veteran and mania player extraordinaire, cheewee10 wanted to get a taste of what's being part of the mappooling team like. From the first time they placed 2nd in the [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) to last year achieving the same results, their wide-ranging experience has been a huge asset to have in the team.
 
 <div class="news-chat-quote__text-container">
 
