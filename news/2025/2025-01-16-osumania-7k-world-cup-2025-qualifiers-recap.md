@@ -119,9 +119,21 @@ With a team as varied and talented as ours, there are bound to be conflicting op
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/ExNeko.png)
 
-## What are the challenges that mappers face when pooling for tournaments? Are the restrictions imposed by the needs of the pool too big of a challenge to overcome? How these issues impact your original vision of the maps?
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
 
-(Mapper - [ExNeko](https://osu.ppy.sh/users/7590894))
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+What are the challenges that mappers face when pooling for tournaments? Are the restrictions imposed by the needs of the pool too big of a challenge to overcome? How do these issues impact your original vision of the maps?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7590894" style="background-image: url('/wiki/shared/avatars/ExNeko.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7590894">ExNeko</a></p>
+
+I think our biggest challenges are related to time. Communication with the team, meeting our deadlines, coordinating with playtesters, making adjustments to the maps, etc. All of these have to be done in a timely manner. The efectiveness of which is heavily dependent on the organizer's ability to manage the competition and the mapper's committment to the task. I've been in tournaments that had found themselves with playtesters who were unable to provide feedback due to the mappers' tardiness with their deliveries, or that had to replace some of their mappers. Luckily, this hasn't been the case for us. Everyone's committment to the project and thanks to the organizer's management we managed to complete most of the pool in record time, mapping a fully custom pool of maps!
+
+As for the limitations, I don't particularly find them to be a challenge. When signing up for the task, you should already be expecting them. Maps created for tournaments have a very clear purpose: to test the skill of players under specific conditions. And while these conditions may not be found in ranked maps, these challenges haven't stopped many of the mappers I've worked with to create imaginative, creative, and unique maps without losing their personal style!
+
+Our opinions on certain patterns are bound to evolve over time. As the years pass, so do the different mapping trends and player preferences. Ever since I started working as a mapper, I've seen the evolution first hand. Throughout the years and thanks to all the feedback gathered, the focus of pools have become ever so clearer. As such, mappers were able to more easily introduce these adjustements into their maps as the goals became more concise. Therefore, I think the best approach is having the mappoolers dictate the structure of the pools, leaving the mappers to nurture  those ideas in their own style.
 
 :{#cheewee10}::
 
