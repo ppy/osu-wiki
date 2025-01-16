@@ -42,9 +42,17 @@ But we've only just begun, and future mappools are yet to be revealed. Who knows
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2351784653&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
+Despite the increased number of rounds, Qualifiers has been a trove of surprises! With 39 registered countries and 32 slots to fill, competition has been nothing short of thrilling. This year hasn't been short on surprises either.
+
 ![Qualifier results table](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/results.jpg)
 
-Recap of the qualifiers. Highlight top seeds, surprising turnarounds, overperforming players, etc...
+Starting things off with the top 3 seeds, it should come as no surprise that ::{ flag=KR }:: South Korea has once again risen up to the top spot with their new members ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649) and ::{ flag=KR }:: [Crusher](https://osu.ppy.sh/users/7304158). Following up, we've got ::{ flag=CN }:: China and ::{ flag=PH }:: Philippines on the #2 and #3 seeds respectively, another two fan-favourites whose performances have consistently been amongst the best. But who knows, maybe we'll find some upsets along the way!
+
+Other strong contendants like ::{ flag=JP }:: Japan, ::{ flag=ID }:: Indonesia, ::{ flag=US }:: United States, and ::{ flag=MY }:: Malaysia have also managed to stay on top of their game. But that can't be the same for everyone. ::{ flag=AU }:: Australia, placing #7 last year, has fallen short from qualifying to top 32 by placing into the #33 seed. Several other past top performers like ::{ flag=TH }:: Thailand, ::{ flag=CA }:: Canada, and ::{ flag=PL }:: Poland have also dropped substantially even though they still qualified to play.
+
+That said, what caught us by surprise is the amount of new countries who didn't get to participate in previous years have gotten their chance this year! A round of applause for ::{ flag=HK }:: Hong Kong, ::{ flag=PE }:: Peru, ::{ flag=CL }:: Chile, and ::{ flag=VE }:: Venezuela for their impressive performances this year! We can't wait to see what their performances in the coming rounds.
+
+Other than that, we're very happy to see new countries like ::{ flag=PK }:: Pakistan, ::{ flag=UA }:: Ukraine, and ::{ flag=AT }:: Austria for the very first time. Despite not qualifying for this year, we believe this is an indicator of the ever-growing, world-wide interest in the osu!mania 7K World Cup. We can only hope for the competition to grow even more fiercely in the years to come!
 
 # Mappooling team interview - MWC 7K 2025
 
@@ -93,8 +101,6 @@ Recap of the qualifiers. Highlight top seeds, surprising turnarounds, overperfor
 
 Players and spectators alike only get to experience the results of the mappooling team's hard work. But more often than not, they're unaware of the process nor of the challenges that come with it. Keeping up with players' expectations is no easy feat afterall. Therefore, we'd like to have a chat with three members of the pooling team. Each responsible of one piece of the puzzle. As such, let us introduce [_Kobii](https://osu.ppy.sh/users/6209713), [ExNeko](https://osu.ppy.sh/users/7590894), and [cheewee10](https://osu.ppy.sh/users/4477497) to lecture us on the herculean task of pooling for MWC 7K!
 
-::{#_kobii}::
-
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/Kobii.png)
 
 <div class="news-chat-quote__text-container">
@@ -115,8 +121,6 @@ Mappooling isn't as easy as some might think. It's not just a matter of selectin
 
 With a team as varied and talented as ours, there are bound to be conflicting opinions. Occasionally leading to lengthy discussions. Ultimately, a conclusion had to be reached by finding a compromise between the mappoolers and the mappers. Additionally, given the size of our pools we sometimes had to make do with insufficient feedback from playtesters. Suffice to say, pooling for a tournament of this size is a stressful task. And while it's my responsibility to adhere to the deadlines, we've learned that none of us want to work under a time crunch—period.
 
-:{#ExNeko}::
-
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/ExNeko.png)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
@@ -134,8 +138,6 @@ I think our biggest challenges are related to time. Communication with the team,
 As for the limitations, I don't particularly find them to be a challenge. When signing up for the task, you should already be expecting them. Maps created for tournaments have a very clear purpose: to test the skill of players under specific conditions. And while these conditions may not be found in ranked maps, these challenges haven't stopped many of the mappers I've worked with to create imaginative, creative, and unique maps without losing their personal style!
 
 Our opinions on certain patterns are bound to evolve over time. As the years pass, so do the different mapping trends and player preferences. Ever since I started working as a mapper, I've seen the evolution first hand. Throughout the years and thanks to all the feedback gathered, the focus of pools have become ever so clearer. As such, mappers were able to more easily introduce these adjustements into their maps as the goals became more concise. Therefore, I think the best approach is having the mappoolers dictate the structure of the pools, leaving the mappers to nurture  those ideas in their own style.
-
-:{#cheewee10}::
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/cheewee10.png)
 
