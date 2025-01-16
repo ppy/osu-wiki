@@ -87,6 +87,8 @@ Players and spectators alike only get to experience the results of the mappoolin
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/Kobii.png)
 
+Kicking things off, we've got [_Kobii](https://osu.ppy.sh/users/6209713) to tell us how pooling works from the perspective of a head pooler. While _Kobii's experience extends beyond tournaments alone, their work as a mapper and playtester ever since they joined the pooling theam in 2022 has given them a ton of insight over the years. A feat that has got them promoted to where they are right now!
+
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
@@ -109,6 +111,8 @@ With a team as varied and talented as ours, there are bound to be conflicting op
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/ExNeko.png)
 
+[ExNeko](https://osu.ppy.sh/users/7590894)'s experience as a mapper should not be underestimated. Known for their plethora of ranked maps, and their multiple appearances throughout various osu!mania tournaments. Their work is nothing short of amazing having been one of the most active mappers this year, making dreams like fully custom mapped pools a reality!
+
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
@@ -129,6 +133,8 @@ Our opinions on certain patterns are bound to evolve over time. As the years pas
 </div>
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/cheewee10.png)
+
+To conclude this interview, we've also reached out to [cheewee10](https://osu.ppy.sh/users/4477497). Tournament veteran and mania player extraordinaire, cheewee10 wanted to get a taste of what's being part of the mappooling team like. From the first time they placed 2nd in the [osu!mania 7K World Cup 2018](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2018_7K) to last year achieving the same results, their wide-ranging experience has been a huge asset to have in the team.
 
 <div class="news-chat-quote__text-container">
 
