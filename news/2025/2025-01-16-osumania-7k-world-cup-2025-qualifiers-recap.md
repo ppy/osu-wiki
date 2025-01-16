@@ -163,6 +163,6 @@ That said, while being a playtester has been a fascinating and rewarding experie
 
 ---
 
-Can't believe we've only just begun! Who knows what surprises awaits us in the coming weeks. So buckle up, and get ready for the show. And don't miss the upcoming Round of 32 on[osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2)! We'll be eagerly waiting for your return next week.
+Can't believe we've only just begun! Who knows what surprises awaits us in the coming weeks. So buckle up, and get ready for the show. And don't miss the upcoming Round of 32 on [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2)! We'll be eagerly waiting for your return next week.
 
 —RandomeLoL, _Kobii, Maxus
