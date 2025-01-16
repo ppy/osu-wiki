@@ -83,7 +83,7 @@ Other than that, we're very happy to see new countries like ::{ flag=PK }:: Paki
     }
 </style>
 
-Players and spectators alike only get to experience the results of the mappooling team's hard work. But more often than not, they're unaware of the process nor of the challenges that come with it. Keeping up with players' expectations is no easy feat after all. Therefore, we'd like to have a chat with three members of the pooling team, each responsible for one piece of the puzzle. As such, let us introduce [_Kobii](https://osu.ppy.sh/users/6209713), [ExNeko](https://osu.ppy.sh/users/7590894), and [cheewee10](https://osu.ppy.sh/users/4477497) to lecture us on the herculean task of pooling for MWC 7K!
+Players and spectators alike only get to experience the results of the mappooling team's hard work. But more often than not, they're unaware of the process and the challenges that come with it. Keeping up with players' expectations is no easy feat after all. Therefore, we'd like to have a chat with three members of the pooling team, each responsible for one piece of the puzzle. As such, let us introduce [_Kobii](https://osu.ppy.sh/users/6209713), [ExNeko](https://osu.ppy.sh/users/7590894), and [cheewee10](https://osu.ppy.sh/users/4477497) to lecture us on the herculean task of pooling for MWC 7K!
 
 ![](/wiki/shared/news/2025-01-16-osumania-7k-world-cup-2025-qualifiers-recap/Kobii.png)
 
