@@ -492,7 +492,7 @@ If you are as passionate about this map as I am, if you just love CrewK maps, or
 135 – 189 BPM, 2:49 | 6.28★, 6.82★, 7.36★, 7.90★, 8.43★\
 *description written by [Silhoueska Elze](https://osu.ppy.sh/users/11517895)*
 
-A newcomer arrives to the Project Loved scene! \[[Szy\]MongolCJ](https://osu.ppy.sh/users/2486125)'s [PAM!!!](https://osu.ppy.sh/beatmapsets/1684822#mania/3442426) can certainly provide you with quite the experience when it comes to practicing and training your chordjack fundamentals and physicality at the same time.
+A newcomer arrives to the Project Loved scene! [\[Szy\]MongolCJ](https://osu.ppy.sh/users/2486125)'s [PAM!!!](https://osu.ppy.sh/beatmapsets/1684822#mania/3442426) can certainly provide you with quite the experience when it comes to practicing and training your chordjack fundamentals and physicality at the same time.
 
 While the start of the chart seems to be very friendly, it immediately starts to pick up the pace by adding some jacks and quads here and there, which eventually builds up to an extremely dense chordjack section. Looking at all of these transitions that you'll have to make between the different hands and quads that are present can be overwhelming, especially if you aren't adept at very dense chordjack patterning.
 
