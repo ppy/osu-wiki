@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: January 2025"
-date: 2025-01-17 12:00:00 +0000
+date: 2025-01-17 14:15:00 +0000
 series: Project Loved
 ---
 
@@ -45,7 +45,7 @@ Now it's time to delve into the picks, don't forget, we host [osu!(lazer)](https
 
 ## osu!
 
-The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/4879380), [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [Librarian](https://osu.ppy.sh/users/10083084), [bailie](https://osu.ppy.sh/users/7537133), [Mismagius](https://osu.ppy.sh/users/19048), and [Skill](https://osu.ppy.sh/users/7802027)!
+The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/4879380), [bailie](https://osu.ppy.sh/users/7537133), [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [Librarian](https://osu.ppy.sh/users/10083084), [Mismagius](https://osu.ppy.sh/users/19048), and [Skill](https://osu.ppy.sh/users/7802027)!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR28%20-%20Project%20Loved:%20January%202025%20(osu!).zip)**
 
@@ -57,7 +57,7 @@ The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/48793
 
 ---
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1711618.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1711618.jpg)](https://osu.ppy.sh/community/forums/topics/2028687)
 
 [shadowraze - showdown](https://osu.ppy.sh/beatmapsets/1711618#osu) by [Mulciber](https://osu.ppy.sh/users/8062785), [add222](https://osu.ppy.sh/users/14261013), [Jaxyk](https://osu.ppy.sh/users/11457152), and [mrforse](https://osu.ppy.sh/users/11642599)\
 230 BPM, 1:44 | 2.38★ – 6.98★\
@@ -65,7 +65,7 @@ The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/48793
 
 Our first *Popular Playcounts* pick for this month goes hard. Presenting [SHADOWRAZE - SHOWDOWN](https://osu.ppy.sh/beatmapsets/1711618#osu), mapped by [Mulciber](https://osu.ppy.sh/users/8062785), [add222](https://osu.ppy.sh/users/14261013), [Jaxyk](https://osu.ppy.sh/users/11457152), and [mrforse](https://osu.ppy.sh/users/11642599). With a whopping 1,300,000 play count, this beatmap knows how to stand out — its stylish storyboard complements the simple (but effective!) mapping, making it an accessible experience for players of all skill levels. If you're interested in the top difficulty, get ready for a fun time with the 230 BPM jumps that are quite literally all over the place. And that's not to mention the banging soundtrack for this map — if you're in need of some Russian phonk, here it is in all its pure glory.
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1289690.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1289690.jpg)](https://osu.ppy.sh/community/forums/topics/2028686)
 
 [Modern Talking - Last Exit To Brooklyn](https://osu.ppy.sh/beatmapsets/1289690#osu) by [-NeBu-](https://osu.ppy.sh/users/4099626) and [sytho](https://osu.ppy.sh/users/4175698)\
 129 BPM, 3:13 | 8.20★, 9.12★\
@@ -79,7 +79,7 @@ This set includes two difficulties from two of the most renowned aim mappers in 
 
 With a 150,000+ play count and 200+ favourites, this set undoubtedly deserves a place in Project Loved. If you want this map to earn a leaderboard, it's up to you — be sure to cast your vote!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/247170.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/247170.jpg)](https://osu.ppy.sh/community/forums/topics/2028685)
 
 [Fleshgod Apocalypse - Warpledge](https://osu.ppy.sh/beatmapsets/247170#osu) by [koki_old_1](https://osu.ppy.sh/users/846235)\
 247.51 BPM, 4:21 | 7.31★\
@@ -96,7 +96,7 @@ With a 150,000+ play count and 200+ favourites, this set undoubtedly deserves a 
 
 The first *Outstanding Oldies* pick of the month is [Fleshgod Apocalypse - Warpledge](https://osu.ppy.sh/beatmapsets/247170#osu/569113) by [koki_old_1](https://osu.ppy.sh/users/846235) (also known as lovu). As demonstrated in Doomsday's 2015 stamina masterclass, this map is a fantastic way to challenge your high-BPM stamina. If you think you're up to the challenge of four minutes of nonstop streams, be sure to give this one a try and cast your vote!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2028305.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2028305.jpg)](https://osu.ppy.sh/community/forums/topics/2028684)
 
 [takehirotei as "Infinite Limit" - C://YOU NEX-TIME](https://osu.ppy.sh/beatmapsets/2028305#osu) by [Kardshark](https://osu.ppy.sh/users/4724315), [-Stocking](https://osu.ppy.sh/users/9979877), [Chizu-Kun](https://osu.ppy.sh/users/10288461), [Mahiru Shiina](https://osu.ppy.sh/users/13866023), and [smolship](https://osu.ppy.sh/users/23964758)\
 211 BPM, 6:37 | 7.98★\
@@ -112,7 +112,7 @@ Whether you're looking to challenge yourself with a massive boss-like gauntlet o
 
 So what are you waiting for? Support Malaysia's hit anime superstar Etsuko Marvia by casting your vote in the thread and celebrating the legacy created by this remarkable local project!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/623665.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/623665.jpg)](https://osu.ppy.sh/community/forums/topics/2028683)
 
 [Hommarju - HYENA](https://osu.ppy.sh/beatmapsets/623665#osu) by [rustbell](https://osu.ppy.sh/users/227717), [Callionet](https://osu.ppy.sh/users/3072921), and [fanzhen0019](https://osu.ppy.sh/users/418699)\
 178 BPM, 1:57 | 9.47★, 9.57★, 10.71★, 19.52★\
@@ -217,23 +217,7 @@ I HAVE PLAYED THESE GAMES BEFORE!
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
-I knew about the first game because I'd played it before. And everyone who was with me — they all met the same fate.
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/15173952" style="background-image: url('/wiki/shared/avatars/BATBALL.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/15173952">BATBALL</a></p>
-
-Everyone? What does that mean? Are you saying you were the sole winner?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/avatars/enri.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
-
-Yes, that's right. We can fix this, though. There will be a vote soon — if you all vote YES for HYENA to get Loved, we can make it out of these games safely.
-
-</div>
-
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2000232.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2000232.jpg)](https://osu.ppy.sh/community/forums/topics/2028682)
 
 [Kurokotei - Nonbinarity](https://osu.ppy.sh/beatmapsets/2000232#osu) by [Aerousea](https://osu.ppy.sh/users/15664628), [Cocoyu](https://osu.ppy.sh/users/20101640), [oTwinkle](https://osu.ppy.sh/users/15095654), [Syodou](https://osu.ppy.sh/users/11333236), and [Wither](https://osu.ppy.sh/users/11220416)\
 175 BPM, 3:17 | 2.30★ – 7.42★\
@@ -243,7 +227,7 @@ For January's *Ranked Rejects* pick, we have [Aerousea](https://osu.ppy.sh/users
 
 Make sure to vote YES for this pick in this month's Loved voting polls!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1621249.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1621249.jpg)](https://osu.ppy.sh/community/forums/topics/2028681)
 
 [callasoiled - Altitude Remix](https://osu.ppy.sh/beatmapsets/1621249#osu) by [dectopia](https://osu.ppy.sh/users/2845904)\
 135 BPM, 2:55 | 6.64★\
@@ -265,7 +249,7 @@ Make sure to vote YES for this pick in this month's Loved voting polls!
 
 —definitely also Bennett Foddy
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/483611.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/483611.jpg)](https://osu.ppy.sh/community/forums/topics/2028680)
 
 [MC MENTAL - MC MENTAL @ HIS BEST](https://osu.ppy.sh/beatmapsets/483611#osu) by [Doomsdaddy](https://osu.ppy.sh/users/5039710)\
 175.8 BPM, 2:23 | 5.99★, 6.13★\
@@ -285,7 +269,7 @@ Udududugelududu
 
 Meme Monstrosities. Nothing else needs to be said.
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1198613.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1198613.jpg)](https://osu.ppy.sh/community/forums/topics/2028679)
 
 [glass beach - bedroom community](https://osu.ppy.sh/beatmapsets/1198613#osu) by [quantumvortex](https://osu.ppy.sh/users/10660777), [\_Hornet](https://osu.ppy.sh/users/6862265), [Kyairie](https://osu.ppy.sh/users/10910405), [sytho](https://osu.ppy.sh/users/4175698), and [tadahitotsu](https://osu.ppy.sh/users/11653544)\
 135 BPM, 5:56 | 4.51★ – 9.54★\
@@ -296,7 +280,7 @@ After the lack of votes, we forgot.\
 Whence it sat alone, half a decade passed,\
 Waiting in hope, for a second shot.
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1901578.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1901578.jpg)](https://osu.ppy.sh/community/forums/topics/2028678)
 
 [Tears For Fears - Everybody Wants To Rule The World](https://osu.ppy.sh/beatmapsets/1901578#osu) by [-Cronik](https://osu.ppy.sh/users/20159223) and [Kuroise](https://osu.ppy.sh/users/14547127)\
 112.06 BPM, 3:57 | 2.20★, 3.28★, 4.63★\
@@ -305,7 +289,7 @@ The \[Hitsounds\] difficulty is *not* being nominated for Loved.\
 
 Welcome to your life in Project Loved! There's no turning back from this week's Chill Champions pick. Even while we sleep, [-Cronik](https://osu.ppy.sh/users/20159223) and [Kuroise's](https://osu.ppy.sh/users/14547127) [Tears for Fears - Everybody Wants To Rule The World](https://osu.ppy.sh/beatmapsets/1901578#osu/3949463) will find you wanting even more. Make sure to act on your best behaviour when giving this map a chance, and don't turn your back on mother nature by using *that* mod... Everybody wants to rule the world, and everybody wants you to vote yes this week as well!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2088555.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2088555.jpg)](https://osu.ppy.sh/community/forums/topics/2028677)
 
 [Magnetude - Valhalla (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2088555#osu) by [nooj](https://osu.ppy.sh/users/8271086)\
 174 BPM, 2:35 | 6.44★\
@@ -317,7 +301,7 @@ Olaf, The Berserker, was picked, [pewdekz](https://osu.ppy.sh/users/5754859) wen
 
 This map embodies that moment, that **strength**, of Olaf, The Berserker.
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/603506.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/603506.jpg)](https://osu.ppy.sh/community/forums/topics/2028676)
 
 [BABYMETAL - THE ONE](https://osu.ppy.sh/beatmapsets/603506#osu) by [elchxyrlia](https://osu.ppy.sh/users/1722835)\
 195 BPM, 6:05 | 7.83★, 7.83★\
@@ -327,7 +311,7 @@ Here's our second *Wildcard* pick for the month... and the legendary mapper [elc
 
 If you've played other Arles maps, you should know what to expect — jumps. Lots of them. Beautifully crafted jumps, that feel extremely satisfying to play, on one of BABYMETAL's best songs. It comes as no surprise that the beatmap, while fairly obscure, has pretty much a cult following from those who have seen it in action. So, what are you waiting for? Give this one a try!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1799349.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1799349.jpg)](https://osu.ppy.sh/community/forums/topics/2028675)
 
 [ALEPH - Delirium](https://osu.ppy.sh/beatmapsets/1799349#osu) by [Mir](https://osu.ppy.sh/users/8688812)\
 170 BPM, 4:08 | 7.01★\
@@ -353,7 +337,7 @@ The osu!taiko Loved candidates were chosen by [Boaz](https://osu.ppy.sh/users/13
 
 ---
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/911459.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/911459.jpg)](https://osu.ppy.sh/community/forums/topics/2028674)
 
 [Various Artists - Neverending streams for those who hate themselves.](https://osu.ppy.sh/beatmapsets/911459#taiko) by [Krekker](https://osu.ppy.sh/users/8265940) and [Kannes](https://osu.ppy.sh/users/10821432)\
 175 – 270 BPM, 41:19 | 5.97★ – 9.17★\
@@ -365,7 +349,7 @@ It's been quite some time since we last nominated a ''Various Artists'' mapset i
 
 While it certainly is concerning for a map with such a title to amass that impressive play count (here at Project Loved, we love you nonetheless!), it just comes to show the appeal and replay value this set has. The final decision comes to you, the player, so give the set a try if you haven't. Now, if you will excuse us, we have to find a way to fight the Project Hate allegations (we are never beating them).
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1534772.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1534772.jpg)](https://osu.ppy.sh/community/forums/topics/2028673)
 
 [Feryquitous - Central Nucleus](https://osu.ppy.sh/beatmapsets/1534772#taiko) by [layxa](https://osu.ppy.sh/users/14800030)\
 175 BPM, 6:14 | 8.53★, 10.13★\
@@ -379,7 +363,7 @@ This is a great map to see how skilled you are and to assist you in improving yo
 
 Can you pass this map for the best experience ever? Vote and take the challenge!! <3
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1146391.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1146391.jpg)](https://osu.ppy.sh/community/forums/topics/2028672)
 
 [katagiri - Magical Girl Tour 2019](https://osu.ppy.sh/beatmapsets/1146391#taiko) by [Ozu](https://osu.ppy.sh/users/980092) and [applerss](https://osu.ppy.sh/users/983349)\
 280 BPM, 3:04 | 8.37★\
@@ -393,7 +377,7 @@ Are you ready to conquer this breakcore demon? Make sure to check out *Magical G
 
 If you can't get enough of the technical challenges this map brings, I highly suggest trying out Ozu's maps from their YAZD series aswell!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1767423.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1767423.jpg)](https://osu.ppy.sh/community/forums/topics/2028671)
 
 [Hayakore Tatsumi - NomaNomaYeah](https://osu.ppy.sh/beatmapsets/1767423#taiko) by [KawaiiBass](https://osu.ppy.sh/users/11992585)\
 190 BPM, 5:08 | 6.41★\
@@ -419,7 +403,7 @@ The osu!catch Loved candidates were chosen by [Dahcreeper](https://osu.ppy.sh/us
 
 ---
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1769279.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1769279.jpg)](https://osu.ppy.sh/community/forums/topics/2028670)
 
 [Cardboard Box - The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/1769279#fruits) by [Enjuxx](https://osu.ppy.sh/users/10727985)\
 260 BPM, 1:53 | 7.02★\
@@ -427,7 +411,7 @@ The osu!catch Loved candidates were chosen by [Dahcreeper](https://osu.ppy.sh/us
 
 [Enjuxx](https://osu.ppy.sh/users/10727985) is joining us again 2 months in a row, wow. This time, he's here with his map of [Cardboard Box - The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/1769279#fruits/3621806)! This map features patterns that can be approached in 2 different ways: you can go the noob route of walking all of the patterns (like the map was intended to be played), or you can go the chad way of tapping every pattern. Well, either way, we wish everyone good luck, and have fun!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1177413.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1177413.jpg)](https://osu.ppy.sh/community/forums/topics/2028669)
 
 [ASTERIA - The Shattered Time](https://osu.ppy.sh/beatmapsets/1177413#fruits) by [F D Flourite](https://osu.ppy.sh/users/2459589)\
 140 BPM, 2:12 | 5.36★\
@@ -435,7 +419,7 @@ The osu!catch Loved candidates were chosen by [Dahcreeper](https://osu.ppy.sh/us
 
 One of [F D Flourite](https://osu.ppy.sh/users/2459589)'s earliest tournament entries dates back to [CWC Semifinals of 2020](/wiki/Tournaments/CWC/2020), and we see an introduction to many of the Flourite staples. From the orchestral song to the tap stacks, we see the start of her tournament mapping era with this map. The CS 5 generates a precision test paired with a plethora of techniques. Do you have what it takes to handle CWC 2020 Semifinals No Mod 4!?
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2092860.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2092860.jpg)](https://osu.ppy.sh/community/forums/topics/2028668)
 
 [Various Artists - Jump Pack](https://osu.ppy.sh/beatmapsets/2092860#fruits) by [Dahcreeper](https://osu.ppy.sh/users/6926006)\
 140 – 176.09 BPM, 2:48 | 9.26★ – 11.34★\
@@ -458,7 +442,7 @@ The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/user
 
 ---
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2161360.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2161360.jpg)](https://osu.ppy.sh/community/forums/topics/2028667)
 
 [Eliminate - MULA (Cut & Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/2161360#mania) by [Paturages](https://osu.ppy.sh/users/1375479) and [ERA arccat](https://osu.ppy.sh/users/4848294)\
 175 BPM, 2:25 | 3.14★, 3.14★\
@@ -474,7 +458,7 @@ Coming into this chart without prior practice will really send you into trouble.
 
 The charters have done such an amazing job in being able to express and integrate SV difficulty into a song like this. If you want to see more of these kinds of charts in the Loved section, don't be afraid to give a "Yes" vote and show your support!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1666553.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1666553.jpg)](https://osu.ppy.sh/community/forums/topics/2028666)
 
 [YONEDA - KAERU](https://osu.ppy.sh/beatmapsets/1666553#mania) by [CrewK](https://osu.ppy.sh/users/11488604)\
 229.2 – 320.88 BPM, 3:39 | 5.20★ – 6.96★\
@@ -486,7 +470,7 @@ Alongside just being a banger to listen to, this map is just a 4-minute gauntlet
 
 If you are as passionate about this map as I am, if you just love CrewK maps, or if you have any reason at all, be sure to vote "Yes" in the polls so we can give this map the glory it deserves. Also shoutout Paturages's "boyfriend".
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1684822.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1684822.jpg)](https://osu.ppy.sh/community/forums/topics/2028665)
 
 [Carpainter - PAM!!! feat. Onjuicy \[FOXSKY Version\]](https://osu.ppy.sh/beatmapsets/1684822#mania) by [\[Szy\]MongolCJ](https://osu.ppy.sh/users/2486125)\
 135 – 189 BPM, 2:49 | 6.28★, 6.82★, 7.36★, 7.90★, 8.43★\
@@ -502,7 +486,7 @@ Of course, if you think 1.0x isn't hard enough, we have rates up to 1.4x! With a
 
 Having a newcomer into Project Loved is always so great to see, and I can't wait to see what more charts \[Szy\]MongolCJ can dish out. If you are excited to see more of these charts, then don't be afraid to vote "Yes" and to show your support!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/475373.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/475373.jpg)](https://osu.ppy.sh/community/forums/topics/2028664)
 
 [Various Artists - Wh1teh Pack #2](https://osu.ppy.sh/beatmapsets/475373#mania) by [Wh1teh](https://osu.ppy.sh/users/2640467)\
 150 – 280 BPM, 6:16 | 4.21★ – 6.08★\
@@ -517,7 +501,7 @@ Great examples include [XQCL](https://osu.ppy.sh/beatmapsets/475373#mania/101566
 
 Can you believe this pack was uploaded to the osu! website almost ***nine*** years ago? Do you want to relive a piece of history? Or do you want to hone your skills and enhance your 4K ability? If you agree with any of these, don't hesitate to show your support by voting "Yes" on this chart!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1319005.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1319005.jpg)](https://osu.ppy.sh/community/forums/topics/2028663)
 
 [Erehamonika - Der Wald](https://osu.ppy.sh/beatmapsets/1319005#mania) by [\_underjoy](https://osu.ppy.sh/users/2235750)\
 160 BPM, 1:56 | 3.36★\
@@ -534,7 +518,7 @@ A majority of LN maps opt for ODs between 7 and 8. The OD of *Der Wald* stands a
 
 Does this challenge sound appealing to you? Do you want to improve at LN accuracy by throwing yourself against a wall of 200s? Go ahead and vote now!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1660098.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1660098.jpg)](https://osu.ppy.sh/community/forums/topics/2028662)
 
 [DJ TOTTO - DORNWALD \~Junge\~](https://osu.ppy.sh/beatmapsets/1660098#mania) by [stupud man](https://osu.ppy.sh/users/2141612)\
 169 – 219.7 BPM, 2:04 | 4.11★, 4.43★, 4.76★, 5.12★\
@@ -548,7 +532,7 @@ As said earlier, if you're familiar with his density charts, this is no exceptio
 
 Enough of my talking. Go vote.
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/901870.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/901870.jpg)](https://osu.ppy.sh/community/forums/topics/2028661)
 
 [Endorfin. - Four Leaves](https://osu.ppy.sh/beatmapsets/901870#mania) by [ruka](https://osu.ppy.sh/users/6117525), [\_Kobii](https://osu.ppy.sh/users/6209713), [eZmmR](https://osu.ppy.sh/users/8647138), [Flexo123](https://osu.ppy.sh/users/5367287), [Onta_Bekasi](https://osu.ppy.sh/users/8677684), and [P e n g k i](https://osu.ppy.sh/users/9880713)\
 181 BPM, 3:40 | 6.33★, 6.59★, 7.02★, 8.34★\
@@ -560,7 +544,7 @@ As many 7K players already know, [ruka](https://osu.ppy.sh/users/6117525) is ver
 
 We also hope you enjoy the charts in 4K, 5K and 6K! Please don't forget to vote yes and support this map!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/958979.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/958979.jpg)](https://osu.ppy.sh/community/forums/topics/2028660)
 
 [101-202-404 - Koakuma x3 no Daidasso!?](https://osu.ppy.sh/beatmapsets/958979#mania) by [Jinjin](https://osu.ppy.sh/users/3360737) and [Blocko](https://osu.ppy.sh/users/4075092)\
 202 BPM, 2:17 | 0.83★ – 10.24★\
@@ -568,7 +552,7 @@ We also hope you enjoy the charts in 4K, 5K and 6K! Please don't forget to vote 
 
 2025, a new year, and we will start with a nomination of a new 7-key full-spread set! [Koakuma x3 no Daidasso!?](https://osu.ppy.sh/beatmapsets/958979) is mapped by osu!mania 7K alumni and experienced professional mapper [Jinjin](https://osu.ppy.sh/users/3360737). The lowest difficulty is 0.83★ and the 3 highest difficulties, with different mapping styles, are ranged from 8.63★ to 10.24★. So technically, everyone can have a good gaming experience on this set. No matter if you are a top 10 player or if you just started playing this game today, we can confidently guarantee that there will be a difficulty for you to play!
 
-[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1923500.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1923500.jpg)](https://osu.ppy.sh/community/forums/topics/2028659)
 
 [Sayuri - Hana no Tou](https://osu.ppy.sh/beatmapsets/1923500#mania) by [Lung_P](https://osu.ppy.sh/users/8271308) and [emO_Oticon](https://osu.ppy.sh/users/12064488)\
 170 BPM, 4:28 | 9.32★\
