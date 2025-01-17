@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup 2025: Qualifiers Recap" 
+title: "osu!mania 7K World Cup 2025: Qualifiers Recap"
 date: 2025-01-16 23:00:00 +0000
 ---
 
