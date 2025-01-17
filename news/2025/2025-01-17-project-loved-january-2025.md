@@ -122,33 +122,116 @@ So what are you waiting for? Support Malaysia's hit anime superstar Etsuko Marvi
 
 **FIRST GAME: "<><><><><><><><><>" Difficulty**
 
-enri: EVERYONE, LISTEN CAREFULLY! THIS IS NOT JUST AN OSU! MAP! IF YOU LOSE [**HYENA**](https://osu.ppy.sh/beatmapsets/623665#osu) BY [RUSTBELL](https://osu.ppy.sh/users/227717), [CALLIONET](https://osu.ppy.sh/users/3072921), & [FANZHEN0019](https://osu.ppy.sh/users/418699), YOU GET ELIMINATED!
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
 
-megumic: What? Are you out of your mind?
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
 
-BATBALL: Something must have happened to him. For now, I empathize.
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
 
-enri: PLEASE! YOU HAVE TO LISTEN TO ME! PAY CLOSE ATTENTION TO YOUR HP BAR, AND PLAY AS STRATEGICALLY AS POSSIBLE.
+    .news-chat-quote__colour-lvd {
+        color: #FFD1DC;
+    }
+
+    .news-chat-quote__colour-bsc {
+        color: #76AEBC;
+    }
+</style>
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/avatars/enri.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
+
+EVERYONE, LISTEN CAREFULLY! THIS IS NOT JUST AN OSU! MAP! IF YOU LOSE [**HYENA**](https://osu.ppy.sh/beatmapsets/623665#osu) BY [RUSTBELL](https://osu.ppy.sh/users/227717), [CALLIONET](https://osu.ppy.sh/users/3072921), & [FANZHEN0019](https://osu.ppy.sh/users/418699), YOU GET ELIMINATED!
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7537133" style="background-image: url('/wiki/shared/avatars/megumic.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/7537133">megumic</a></p>
+
+What? Are you out of your mind?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/15173952" style="background-image: url('/wiki/shared/avatars/BATBALL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/15173952">BATBALL</a></p>
+
+Something must have happened to him. For now, I empathize.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/avatars/enri.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
+
+PLEASE! YOU HAVE TO LISTEN TO ME! PAY CLOSE ATTENTION TO YOUR HP BAR, AND PLAY AS STRATEGICALLY AS POSSIBLE.
+
+</div>
 
 *A few minutes after the first game; several people have failed and been eliminated as a result. megumic slowly approaches enri in the distance.*
 
-megumic: How exactly did you know what was going to happen? Are you deceiving us by pretending to be a player in the game?
+<div class="news-chat-quote__text-container">
 
-BATBALL: You were going on and on about how we would get eliminated, my god. I couldn't even focus and almost failed.
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7537133" style="background-image: url('/wiki/shared/avatars/megumic.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/7537133">megumic</a></p>
+
+How exactly did you know what was going to happen? Are you deceiving us by pretending to be a player in the game?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/15173952" style="background-image: url('/wiki/shared/avatars/BATBALL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/15173952">BATBALL</a></p>
+
+You were going on and on about how we would get eliminated, my god. I couldn't even focus and almost failed.
+
+</div>
 
 *The rest of the participants all yell at him with the same concerns.*
 
 *The noise grows noticeably louder, almost deafening.*
 
-enri: I HAVE PLAYED THESE GAMES BEFORE!
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/avatars/enri.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
+
+I HAVE PLAYED THESE GAMES BEFORE!
+
+</div>
 
 *The room, in contrast to a few seconds prior, falls into silence.*
 
-enri: I knew about the first game because I'd played it before. And everyone who was with me — they all met the same fate.
+<div class="news-chat-quote__text-container">
 
-BATBALL: Everyone? What does that mean? Are you saying you were the sole winner?
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/avatars/enri.jpg')"></a>
 
-enri: Yes, that's right. We can fix this, though. There will be a vote soon — if you all vote YES for HYENA to get Loved, we can make it out of these games safely.
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
+
+I knew about the first game because I'd played it before. And everyone who was with me — they all met the same fate.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/15173952" style="background-image: url('/wiki/shared/avatars/BATBALL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/15173952">BATBALL</a></p>
+
+Everyone? What does that mean? Are you saying you were the sole winner?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/avatars/enri.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
+
+Yes, that's right. We can fix this, though. There will be a vote soon — if you all vote YES for HYENA to get Loved, we can make it out of these games safely.
+
+</div>
 
 [![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2000232.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
