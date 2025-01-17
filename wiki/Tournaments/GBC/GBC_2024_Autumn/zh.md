@@ -186,7 +186,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 淘汰赛第二周
 
-**[在这里下载图包 (172MB)](https://drive.google.com/file/d/1iz317E_XpGKWZz7uF66TkWCP-clCMTV8/view?usp=sharing)**
+**[在这里下载图包 (172 MB)](https://drive.google.com/file/d/1iz317E_XpGKWZz7uF66TkWCP-clCMTV8/view?usp=sharing)**
 
 - Rice
   1. [Junk - Qualia [Choukyorisou] \[shaky, sweaty (edit)\]](https://osu.ppy.sh/beatmapsets/2265656#mania/4916159)
@@ -213,7 +213,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 淘汰赛第一周
 
-**[在这里下载图包 (141.9MB)](https://drive.google.com/file/d/1TpDSr5jM-IkktHKDzmeVx1quhSEqFLb_/view?usp=sharing)**
+**[在这里下载图包 (141.9 MB)](https://drive.google.com/file/d/1TpDSr5jM-IkktHKDzmeVx1quhSEqFLb_/view?usp=sharing)**
 
 - Rice
   1. [-45 - Malice Call \[Stream Call\]](https://osu.ppy.sh/beatmapsets/2297138#mania/4906704)
@@ -240,7 +240,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 瑞士轮2 第二周&第三周
 
-**[在这里下载图包 (116.8MB)](https://drive.google.com/file/d/1jLiv38CjmFcSYOn5CuBu2ECwzIXdzhUS/view?usp=sharing)**
+**[在这里下载图包 (116.8 MB)](https://drive.google.com/file/d/1jLiv38CjmFcSYOn5CuBu2ECwzIXdzhUS/view?usp=sharing)**
 
 - Rice
   1. [SHK - Yue Ai Yue Ye \[Waxing\]](https://osu.ppy.sh/beatmapsets/2283007#mania/4868358)
@@ -265,7 +265,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 瑞士轮2 第一周
 
-**[在这里下载图包 (99.6MB)](https://drive.google.com/file/d/1qz0C0beG_RW0xbwlZ-nWYZb2q6KNea5A/view?usp=sharing)**
+**[在这里下载图包 (99.6 MB)](https://drive.google.com/file/d/1qz0C0beG_RW0xbwlZ-nWYZb2q6KNea5A/view?usp=sharing)**
 
 - Rice
   1. [S.H.E - Super Star \[cut\]](https://osu.ppy.sh/beatmapsets/2189204#mania/4630237)
@@ -290,7 +290,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 瑞士轮1 第二周&第三周
 
-**[在这里下载图包 (75.0MB)](https://drive.google.com/file/d/1qD27ivASynm_YlxsjSZ4Kpeln1IQPEY0/view?usp=sharing)**
+**[在这里下载图包 (75.0 MB)](https://drive.google.com/file/d/1qD27ivASynm_YlxsjSZ4Kpeln1IQPEY0/view?usp=sharing)**
 
 - Rice
   1. [FM-84 - Running In The Night (feat. Ollie Wride) (Cut Ver.) \[Chasing Sunset\]](https://osu.ppy.sh/beatmapsets/2281374#mania/4863942)
@@ -313,7 +313,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 瑞士轮1 第一周
 
-**[在这里下载图包 (87.1MB)](https://drive.google.com/file/d/1VTH-XRADVqIpKtIxpX2tg8KX9ubqfLz2/view?usp=sharing)**
+**[在这里下载图包 (87.1 MB)](https://drive.google.com/file/d/1VTH-XRADVqIpKtIxpX2tg8KX9ubqfLz2/view?usp=sharing)**
 
 - Rice
   1. [LV.4 - Angel dust (2016 Radio Mix) \[fall in love with tachyon\]](https://osu.ppy.sh/beatmapsets/2222866#mania/4713540)
@@ -336,7 +336,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 资格赛
 
-**[在这里下载图包 (38.5MB)](https://drive.google.com/file/d/1MhagD74o77ToTaAofmRHDpMIX04aSQw9)**
+**[在这里下载图包 (38.5 MB)](https://drive.google.com/file/d/1MhagD74o77ToTaAofmRHDpMIX04aSQw9)**
 
 - SV
   1. [litmus* - The NightScape \[Stage 1: Dynamic\]](https://osu.ppy.sh/beatmapsets/2267875#mania/4829588)
