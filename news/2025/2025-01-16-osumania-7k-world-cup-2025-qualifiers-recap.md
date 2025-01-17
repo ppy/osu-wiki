@@ -17,7 +17,7 @@ With the introduction out of the way, let us get into the nitty-gritty of this y
 If you're new to the series, fret not! [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) got you covered with the mappool's basics.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Ir8Qk92aaI0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wZdL4pTQA6A" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
