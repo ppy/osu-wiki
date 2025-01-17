@@ -262,7 +262,7 @@ Masalah ini dapat dicegah per beatmapnya dengan bermain pada papan peringkat glo
 
 #### Apakah server pengiriman skor kami sedang online? {id=no-submission-servers}
 
-**Pertanyaan ini akan hampir selalu dapat dijawab dengan "ya", namun kamu dapat memeriksa halaman [status server osu! ](https://status.ppy.sh) atau [akun Twitter @osustatus](https://twitter.com/osustatus) untuk memastikan apakah segala sesuatunya sedang berjalan lancar dari sisi kami.**
+**Pertanyaan ini akan hampir selalu dapat dijawab dengan "ya", namun kamu dapat memeriksa halaman [status server osu!](https://status.ppy.sh) atau [akun Twitter @osustatus](https://twitter.com/osustatus) untuk memastikan apakah segala sesuatunya sedang berjalan lancar dari sisi kami.**
 
 Apabila server kami sedang offline, jangan tutup jendela osu! kamu hingga kami menyelesaikan masalah ini dan server kami kembali online. osu! akan berusaha untuk mengirimkan ulang skor kamu selama paling lama satu jam sebelum skor ini hangus.
 
@@ -362,7 +362,7 @@ Untuk menyalin hasil perintah ini, cukup klik dan seret seluruh keluaran yang mu
 
 **Server kami mungkin sedang bermasalah.**
 
-Periksa [halaman status server osu! ](https://status.ppy.sh/ "status server osu! ") untuk melihat apakah saat ini sedang terdapat masalah pada server kami.
+Periksa [halaman status server osu!](https://status.ppy.sh/ "status server osu!") untuk melihat apakah saat ini sedang terdapat masalah pada server kami.
 
 **Hal ini juga dapat terjadi apabila kamu terhubung dengan koneksi internet yang digunakan secara bersama (*shared connection*), proxy, atau VPN.**
 
