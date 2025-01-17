@@ -45,7 +45,7 @@ Now it's time to delve into the picks, don't forget, we host [osu!(lazer)](https
 
 ## osu!
 
-The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/4879380), [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [Librarian](https://osu.ppy.sh/users/10083084), [megumic](https://osu.ppy.sh/users/7537133), [Mismagius](https://osu.ppy.sh/users/19048), and [Skill](https://osu.ppy.sh/users/7802027)!
+The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/4879380), [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [Librarian](https://osu.ppy.sh/users/10083084), [bailie](https://osu.ppy.sh/users/7537133), [Mismagius](https://osu.ppy.sh/users/19048), and [Skill](https://osu.ppy.sh/users/7802027)!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR28%20-%20Project%20Loved:%20January%202025%20(osu!).zip)**
 
@@ -100,7 +100,7 @@ The first *Outstanding Oldies* pick of the month is [Fleshgod Apocalypse - Warpl
 
 [takehirotei as "Infinite Limit" - C://YOU NEX-TIME](https://osu.ppy.sh/beatmapsets/2028305#osu) by [Kardshark](https://osu.ppy.sh/users/4724315), [-Stocking](https://osu.ppy.sh/users/9979877), [Chizu-Kun](https://osu.ppy.sh/users/10288461), [Mahiru Shiina](https://osu.ppy.sh/users/13866023), and [smolship](https://osu.ppy.sh/users/23964758)\
 211 BPM, 6:37 | 7.98★\
-*description written by [megumic](https://osu.ppy.sh/users/7537133)*
+*description written by [bailie](https://osu.ppy.sh/users/7537133)*
 
 > "Don't cry because it's over. Smile because it happened."
 
@@ -116,7 +116,7 @@ So what are you waiting for? Support Malaysia's hit anime superstar Etsuko Marvi
 
 [Hommarju - HYENA](https://osu.ppy.sh/beatmapsets/623665#osu) by [rustbell](https://osu.ppy.sh/users/227717), [Callionet](https://osu.ppy.sh/users/3072921), and [fanzhen0019](https://osu.ppy.sh/users/418699)\
 178 BPM, 1:57 | 9.47★, 9.57★, 10.71★, 19.52★\
-*description written by [megumic](https://osu.ppy.sh/users/7537133)*
+*description written by [bailie](https://osu.ppy.sh/users/7537133)*
 
 *The following script for HYENA GAME: SEASON 2 was brought to you by [enri](https://osu.ppy.sh/users/8640970), who achieved an incredible [3x miss play](https://www.youtube.com/watch?v=GIv5xJkldUc) on the 19.5★ top difficulty.*
 
@@ -157,9 +157,9 @@ So what are you waiting for? Support Malaysia's hit anime superstar Etsuko Marvi
 
 EVERYONE, LISTEN CAREFULLY! THIS IS NOT JUST AN OSU! MAP! IF YOU LOSE [**HYENA**](https://osu.ppy.sh/beatmapsets/623665#osu) BY [RUSTBELL](https://osu.ppy.sh/users/227717), [CALLIONET](https://osu.ppy.sh/users/3072921), & [FANZHEN0019](https://osu.ppy.sh/users/418699), YOU GET ELIMINATED!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7537133" style="background-image: url('/wiki/shared/avatars/megumic.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7537133" style="background-image: url('/wiki/shared/avatars/bailie.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/7537133">megumic</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/7537133">bailie</a></p>
 
 What? Are you out of your mind?
 
@@ -177,13 +177,13 @@ PLEASE! YOU HAVE TO LISTEN TO ME! PAY CLOSE ATTENTION TO YOUR HP BAR, AND PLAY A
 
 </div>
 
-*A few minutes after the first game; several people have failed and been eliminated as a result. megumic slowly approaches enri in the distance.*
+*A few minutes after the first game; several people have failed and been eliminated as a result. bailie slowly approaches enri in the distance.*
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7537133" style="background-image: url('/wiki/shared/avatars/megumic.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7537133" style="background-image: url('/wiki/shared/avatars/bailie.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/7537133">megumic</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/7537133">bailie</a></p>
 
 How exactly did you know what was going to happen? Are you deceiving us by pretending to be a player in the game?
 
@@ -289,7 +289,7 @@ Meme Monstrosities. Nothing else needs to be said.
 
 [glass beach - bedroom community](https://osu.ppy.sh/beatmapsets/1198613#osu) by [quantumvortex](https://osu.ppy.sh/users/10660777), [\_Hornet](https://osu.ppy.sh/users/6862265), [Kyairie](https://osu.ppy.sh/users/10910405), [sytho](https://osu.ppy.sh/users/4175698), and [tadahitotsu](https://osu.ppy.sh/users/11653544)\
 135 BPM, 5:56 | 4.51★ – 9.54★\
-*description written by [megumic](https://osu.ppy.sh/users/7537133)*
+*description written by [bailie](https://osu.ppy.sh/users/7537133)*
 
 Here it is again, a map resurrected,\
 After the lack of votes, we forgot.\
