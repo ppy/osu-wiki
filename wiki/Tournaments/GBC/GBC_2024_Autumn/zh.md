@@ -188,7 +188,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 
 **[在这里下载图包](https://drive.google.com/file/d/1iz317E_XpGKWZz7uF66TkWCP-clCMTV8/view?usp=sharing)**
 
-- **RC**
+- **Rice**
   1. [Junk - Qualia [Choukyorisou] \[shaky, sweaty (edit)\]](https://osu.ppy.sh/beatmapsets/2265656#mania/4916159)
   2. [Lime - Stellaria \[Expert (edit) (250bpm)\]](https://osu.ppy.sh/beatmapsets/2300510#mania/4916156)
   3. [t+pazolite - Cheatreal \[Extraneous (240bpm)\]](https://osu.ppy.sh/beatmapsets/2214819#mania/4693937)
@@ -196,7 +196,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
   5. [Memme - Pray for the ED \[Prayer 2024 \[1.15x Rate\]\]](https://osu.ppy.sh/beatmapsets/1913953#mania/4916161)
   6. [STAYC - STEREOTYPE \[Good Girl\]](https://osu.ppy.sh/beatmapsets/2271422#mania/4838220)
   7. [Nishiki Yasunori - The Song of Hope \[vs Dolcinea (Edit)\]](https://osu.ppy.sh/beatmapsets/2106951#mania/4916165)
-- **HB**
+- **Hybrid**
   1. [Kaneko Chiharu - Opfer \[Alice in Misanthrope(GBC edit)\]](https://osu.ppy.sh/beatmapsets/2300506#mania/4916150)
   2. [Sakuzyo - Ultimate Force \[Ultima Refined\]](https://osu.ppy.sh/beatmapsets/2300497#mania/4916129)
   3. [Kayuki - Miya Gekkyou \[Alone under the Moon (edit)\]](https://osu.ppy.sh/beatmapsets/2300501#mania/4916135)
@@ -208,14 +208,14 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **SV**
   1. [Mestie - Illusory Sea Fish \[Aquatic Waves\]](https://osu.ppy.sh/beatmapsets/2300492#mania/4916108)
   2. [Yuta Imai - UNKNOWN LEVELS \[`"windosu_24h2_mania_editions_GBC2024Aut_sv2_DVktwUHBkWkNKbUpm.iso"\]](https://osu.ppy.sh/beatmapsets/2300504#mania/4916141)
-- **TB**
+- **Tiebreaker**
   1. [seatrus - The Princess was gills breathing. \[Grace Beneath Corals\]](https://osu.ppy.sh/beatmapsets/2300517#mania/4916169)
 
 ### 淘汰赛第一周
 
 **[在这里下载图包](https://drive.google.com/file/d/1TpDSr5jM-IkktHKDzmeVx1quhSEqFLb_/view?usp=sharing)**
 
-- **RC**
+- **Rice**
   1. [-45 - Malice Call \[Stream Call\]](https://osu.ppy.sh/beatmapsets/2297138#mania/4906704)
   2. [sasakure.UK - Posinega * Mistakers (feat. Hatsune Miku) \[>continue? (cut) \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2297206#mania/4906890)
   3. [PassCode - It's you \[another step forward x1.1\]](https://osu.ppy.sh/beatmapsets/2226627#mania/4723472)
@@ -223,7 +223,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
   5. [ZUN - Voyage 1969 \[Final B: Five Impossible Requests\]](https://osu.ppy.sh/beatmapsets/2051526#mania/4284205)
   6. [Monster Siren Records / Adam Gubman - Ambiguous Morality \[Il Carnevale (vs. elexire vs. Nepijin) \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2297181#mania/4906816)
   7. [Juggernaut. - Yomi \[At Acheron w/ Doshowz\]](https://osu.ppy.sh/beatmapsets/2297147#mania/4906714)
-- **HB**
+- **Hybrid**
   1. [Designant - Designant. \[Designant\]](https://osu.ppy.sh/beatmapsets/2297162#mania/4906745)
   2. [TOGENASHI TOGEARI - Zattou, Bokura no Machi \[Renascence\]](https://osu.ppy.sh/beatmapsets/2297166#mania/4906750)
   3. [BlackY a.k.a. WAiKURO survive - Divide et impera! \[Vivere est militare! (edit)\]](https://osu.ppy.sh/beatmapsets/2297164#mania/4906747)
@@ -235,21 +235,21 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **SV**
   1. [Sora Amamiya - Love Evidence (Cut Ver.) \[Stage 1: LaTeX Confession\]](https://osu.ppy.sh/beatmapsets/1768267#mania/3619649)
   2. [Sophie - Immaterial (Cut Ver.) \[Intangible\]](https://osu.ppy.sh/beatmapsets/2297076#mania/4906554)
-- **TB**
+- **Tiebreaker**
   1. [ATOLS - ZOMBIE MAKER feat. Hatsune Miku [Long Version] \[Lust for Life\]](https://osu.ppy.sh/beatmapsets/2297184#mania/4906820)
 
 ### 瑞士轮2 第二周&第三周
 
 **[在这里下载图包](https://drive.google.com/file/d/1jLiv38CjmFcSYOn5CuBu2ECwzIXdzhUS/view?usp=sharing)**
 
-- **RC**
+- **Rice**
   1. [SHK - Yue Ai Yue Ye \[Waxing\]](https://osu.ppy.sh/beatmapsets/2283007#mania/4868358)
   2. [Kano - Sukisuki Zecchoushou \[[A]ddicted \[GBC Edit\]\]](https://osu.ppy.sh/beatmapsets/1991215#mania/4889702)
   3. [Seiryu - Age de la Lune \[4.53e9 \[1.15x Rate\]\]](https://osu.ppy.sh/beatmapsets/2290903#mania/4889855)
   4. [SAM Free Music - Up to you \[Sora x1.1\]](https://osu.ppy.sh/beatmapsets/2290878#mania/4889811)
   5. [petit milady - Ma Cherie (Cut Ver.) \[Loving U Forever...\]](https://osu.ppy.sh/beatmapsets/2290876#mania/4889804)
   6. [Raphlesia - PSYCHO-BOMB \[SCREWY OUTBURST 1.05x\]](https://osu.ppy.sh/beatmapsets/2290707#mania/4889409)
-- **HB**
+- **Hybrid**
   1. [Ooguni Kanon - Koorimetsu no 135-shousetsu \[Glacial Eruption\]](https://osu.ppy.sh/beatmapsets/2270774#mania/4889808)
   2. [owl＊tree feat.nie＊tree - QuiQ \[Don't go back to sleep!! (edit)\]](https://osu.ppy.sh/beatmapsets/2290879#mania/4889813)
   3. [SXTH SNS - watercolours \[refraction\]](https://osu.ppy.sh/beatmapsets/1861787#mania/3828054)
@@ -260,21 +260,21 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **SV**
   1. [linear ring - enchanted wanderer \[Stage 1: Cate\]](https://osu.ppy.sh/beatmapsets/2015936#mania/4196869)
   2. [Tanger - BIKE \[SV\]](https://osu.ppy.sh/beatmapsets/2291002#mania/4890174)
-- **TB**
+- **Tiebreaker**
   1. [TAG - Unknown Territory \[The World God Only Knows\]](https://osu.ppy.sh/beatmapsets/2290909#mania/4889867)
 
 ### 瑞士轮2 第一周
 
 **[在这里下载图包](https://drive.google.com/file/d/1qz0C0beG_RW0xbwlZ-nWYZb2q6KNea5A/view?usp=sharing)**
 
-- **RC**
+- **Rice**
   1. [S.H.E - Super Star \[cut\]](https://osu.ppy.sh/beatmapsets/2189204#mania/4630237)
   2. [Falcom Sound Team jdk - Destruction Impulse \[Bloody Shirley\]](https://osu.ppy.sh/beatmapsets/2287816#mania/4881395)
   3. [DJ Sharpnel - Lost Connections \[Magic x1.15\]](https://osu.ppy.sh/beatmapsets/2287821#mania/4881400)
   4. [Fractal Dreamers - Ex Nihilo \[Genesis 1.0x\]](https://osu.ppy.sh/beatmapsets/2287824#mania/4881411)
   5. [lalanoi - magicalgirl \[incredible (edit)\]](https://osu.ppy.sh/beatmapsets/2287706#mania/4881139)
   6. [Frums - Credits \[Funding w/ Sanae\]](https://osu.ppy.sh/beatmapsets/2287835#mania/4881439)
-- **HB**
+- **Hybrid**
   1. [Team Grimoire vs Laur - Grievous Lady (Laur Remix) \[Divine\]](https://osu.ppy.sh/beatmapsets/2287826#mania/4881417)
   2. [yandere - y2k forever \[to the wonderful childhood gone by\]](https://osu.ppy.sh/beatmapsets/2287829#mania/4881423)
   3. [Charli xcx - Guess feat. Billie Eilish \[sure i guess\]](https://osu.ppy.sh/beatmapsets/2246850#mania/4867539)
@@ -285,20 +285,20 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **SV**
   1. [Eliminate - MOREPWR \[Oligarchy (buffed)\]](https://osu.ppy.sh/beatmapsets/2210267#mania/4881421)
   2. [Virtual Self - Particle arts \[remember...\]](https://osu.ppy.sh/beatmapsets/2287854#mania/4881493)
-- **TB**
+- **Tiebreaker**
   1. [Kou! - Quantielectromolecularifeline Tunnelling \[Meltdowner\]](https://osu.ppy.sh/beatmapsets/2287851#mania/4881483)
 
 ### 瑞士轮1 第二周&第三周
 
 **[在这里下载图包](https://drive.google.com/file/d/1qD27ivASynm_YlxsjSZ4Kpeln1IQPEY0/view?usp=sharing)**
 
-- **RC**
+- **Rice**
   1. [FM-84 - Running In The Night (feat. Ollie Wride) (Cut Ver.) \[Chasing Sunset\]](https://osu.ppy.sh/beatmapsets/2281374#mania/4863942)
   2. [seatrus - Animare Niveus \[Animation\]](https://osu.ppy.sh/beatmapsets/2281359#mania/4863904)
   3. [The Prodigy - Everybody in the Place (Fairground Remix) [Cut Ver.] \[(Let's Go!)\]](https://osu.ppy.sh/beatmapsets/1441054#mania/2964707)
   4. [Sakuzyo - Neurotoxin \[Scorpion x1.1\]](https://osu.ppy.sh/beatmapsets/2281365#mania/4863913)
   5. [tsubi club - re:laced.up \[i.hate.it\]](https://osu.ppy.sh/beatmapsets/2281183#mania/4863452)
-- **HB**
+- **Hybrid**
   1. [BEMANI Sound Team "person09" - Puberty Dysthymia \[EX\]](https://osu.ppy.sh/beatmapsets/1792778#mania/3854386)
   2. [Hino Isuka - Mechanical Jaeger \[Tayer's MEGA\]](https://osu.ppy.sh/beatmapsets/2238673#mania/4797566)
 - **LN**
@@ -308,20 +308,20 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **SV**
   1. [Vital Mode - Metastasis \[Stage 1: Translation\]](https://osu.ppy.sh/beatmapsets/1414148#mania/2914800)
   2. [Alan Walker - The Spectre \[Spectre\]](https://osu.ppy.sh/beatmapsets/2281370#mania/4863922)
-- **TB**
+- **Tiebreaker**
   1. [Wooden - LiMiNAL DRiVE \[seek the edge of the ground\]](https://osu.ppy.sh/beatmapsets/2281364#mania/4863911)
 
 ### 瑞士轮1 第一周
 
 **[在这里下载图包](https://drive.google.com/file/d/1VTH-XRADVqIpKtIxpX2tg8KX9ubqfLz2/view?usp=sharing)**
 
-- **RC**
+- **Rice**
   1. [LV.4 - Angel dust (2016 Radio Mix) \[fall in love with tachyon\]](https://osu.ppy.sh/beatmapsets/2222866#mania/4713540)
   2. [DJ Sharpnel - Fuwatanity \[Fuwa Fuwa Edit x1.05\]](https://osu.ppy.sh/beatmapsets/2277395#mania/4853497)
   3. [Simon Patterson - The One (feat. Lucy Pullin) (Cut Ver.) \[... like i was in the sky.\]](https://osu.ppy.sh/beatmapsets/2162606#mania/4853556)
   4. [MONKEY MAJIK - Running In The Dark \[Faraway\]](https://osu.ppy.sh/beatmapsets/2085950#mania/4369837)
   5. [The Flashbulb - Terra Firma \[Esfera 1.1x (143bpm)\]](https://osu.ppy.sh/beatmapsets/1522706#mania/3161552)
-- **HB**
+- **Hybrid**
   1. [tn-shi - Synthesis. (Cut Ver.) \[Coalescence.\]](https://osu.ppy.sh/beatmapsets/2277391#mania/4853491)
   2. [lapix - Flamenco House \[flemish (edit)\]](https://osu.ppy.sh/beatmapsets/1325697#mania/4832848)
 - **LN**
@@ -331,7 +331,7 @@ GBC 2024 秋季赛由 GB 成员和多位社区成员举办。
 - **SV**
   1. [ILLIT - Magnetic (Cut Ver.) \[Attraction (Edit)\]](https://osu.ppy.sh/beatmapsets/2256451#mania/4834976)
   2. [Basshunter - Now You're Gone (Cut Ver.) \[Reminder of What is Lost\]](https://osu.ppy.sh/beatmapsets/2277380#mania/4853454)
-- **TB**
+- **Tiebreaker**
   1. [Stereoman & Yunomi feat.antennagirl - Cinderellababy (KOTONOHOUSE remix) \[Furfill of Dreams w/ Hidden\]](https://osu.ppy.sh/beatmapsets/2277416#mania/4853557)
 
 ### 资格赛
