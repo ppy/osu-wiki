@@ -166,20 +166,17 @@ Make sure to vote YES for this pick in this month's Loved voting polls!
 135 BPM, 2:55 | 6.64★\
 *description written by [BATBALL](https://osu.ppy.sh/users/15173952)*
 
-> \
-We have the same taste, you and I
-
-It's not ambition.\
-It's ambition's opposite.
-
-An obdurate mission to taste defeat
-
-You'll feel bad if you win\
-So I put this beatmap in Loved for you"
-
+> We have the same taste, you and I
+> 
+> It's not ambition.
+> It's ambition's opposite.
+> 
+> An obdurate mission to taste defeat
+> 
+> You'll feel bad if you win
+> So I put this beatmap in Loved for you"
 
 —Bennett Foddy
-
 
 > AND Remember to vote YES for [Altitude Remix](https://osu.ppy.sh/beatmapsets/1621249#osu/3310130) in *Gameplay Gimmicks* for January's Loved voting."
 
