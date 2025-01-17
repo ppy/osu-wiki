@@ -11,7 +11,7 @@ Happy Project Loved New Year!
 
 Welcome to the first Project Loved news post of 2025! Perhaps your resolution this year is to find out more about what we do? Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
-Speaking of, did you know you can contribute to Project Loved too? The oou wansu! community (you guys!) can submit maps for consideration on our [website](https://loved.sh/), be sure to check it out if you know a map deserving of some signature pink!
+Speaking of, did you know you can contribute to Project Loved too? The osu! community (you guys!) can submit maps for consideration on our [website](https://loved.sh/), be sure to check it out if you know a map deserving of some signature pink!
 
 Thanks you for your votes in December's voting! You can view the results using the links below:
 
