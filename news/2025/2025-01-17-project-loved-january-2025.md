@@ -333,11 +333,11 @@ If you've played other Arles maps, you should know what to expect — jumps. Lot
 170 BPM, 4:08 | 7.01★\
 *description written by [chiv](https://osu.ppy.sh/users/6701656)*
 
-Hi everyone! We've taken your #mappool-feedback from last week's Project Loved *Wildcard* mappool. Seems that there were too many "streams" (whatever *that* means), so we'll have to do some skill set balancing by throwing in something else this week. Not aim... not alt either...
+Hi everyone! We've taken your `#mappool-feedback` from last week's Project Loved *Wildcard* mappool. Seems that there were too many "streams" (whatever *that* means), so we'll have to do some skill set balancing by throwing in something else this week. Not aim... not alt either...
 
 Straight from the [Charlie's Perfect Math Class](https://osu.ppy.sh/community/forums/topics/1570901) lecture, [Mir](https://osu.ppy.sh/users/8688812)'s [ALEPH - Delirium](https://osu.ppy.sh/beatmapsets/1799349#osu/3688631) stands to redefine the control tech genre. Extreme 170 BPM snap wiggles into crazy flow-tech sections will require your versatility and determination as a student to pass this class. Try your best to stay afloat and before you consider dropping out, maybe take a look at [some solutions](https://www.youtube.com/watch?v=0GBO109IhDE) first.
 
-If you want to see more maps like this, make sure to let me know in the #mappool-crashout channel or on the forums. Thanks for the feedback! :steamhappy:
+If you want to see more maps like this, make sure to let me know in the `#mappool-crashout` channel or on the forums. Thanks for the feedback! :steamhappy:
 
 ## osu!taiko
 
@@ -586,7 +586,7 @@ Both Lung_P and emO_Oticon are incredibly talented mappers with plenty of years 
 
 That's all from us this month! From [all of us working on Project Loved](https://loved.sh/contributors), we hope your 2025 celebrations went well, and you'll continue to stick with us this year! All the beatmaps that pass voting will reach the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) soon after the polls end, so stay tuned and don't forget your vote, every person counts!
 
-More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the #osu-loved channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 
 See you next month! <3
 
