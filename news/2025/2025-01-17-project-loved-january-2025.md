@@ -217,6 +217,22 @@ I HAVE PLAYED THESE GAMES BEFORE!
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
+I knew about the first game because I'd played it before. And everyone who was with me — they all met the same fate.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/15173952" style="background-image: url('/wiki/shared/avatars/BATBALL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/15173952">BATBALL</a></p>
+
+Everyone? What does that mean? Are you saying you were the sole winner?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/avatars/enri.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
+
+Yes, that's right. We can fix this, though. There will be a vote soon — if you all vote YES for HYENA to get Loved, we can make it out of these games safely.
+
+</div>
+
 [![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2000232.jpg)](https://osu.ppy.sh/community/forums/topics/2028682)
 
 [Kurokotei - Nonbinarity](https://osu.ppy.sh/beatmapsets/2000232#osu) by [Aerousea](https://osu.ppy.sh/users/15664628), [Cocoyu](https://osu.ppy.sh/users/20101640), [oTwinkle](https://osu.ppy.sh/users/15095654), [Syodou](https://osu.ppy.sh/users/11333236), and [Wither](https://osu.ppy.sh/users/11220416)\
