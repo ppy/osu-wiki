@@ -15,18 +15,16 @@ Speaking of, did you know you can contribute to Project Loved too? The oou wansu
 
 Thanks you for your votes in December's voting! You can view the results using the links below:
 
-* [Results for osu!](https://osu.ppy.sh/community/forums/topics/2014506)
-* [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/2014505)
-* [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/2014504)
-* [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/2014503)
+- [Results for osu!](https://osu.ppy.sh/community/forums/topics/2014506)
+- [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/2014505)
+- [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/2014504)
+- [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/2014503)
 
 It's a new year, so we're bringing in new faces to join us. Not one, or two, but nine new members have joined us for 2025!
 
-* In the metadata reviewers department, say hello to [Antalf](https://osu.ppy.sh/users/8793773), [Luscent](https://osu.ppy.sh/users/2688581), and [Monoseul](https://osu.ppy.sh/users/16010604)! They're here to make sure that it's never been easier to find your favourite maps.
-
-* Here to keep the writing in pristine condition, we have our new description reviewers [ikin5050](https://osu.ppy.sh/users/4007649), [Molybdenum](https://osu.ppy.sh/users/14708449), and [Tomy](https://osu.ppy.sh/users/14889628)!
-
-* A fan of drums? Loved has got you covered. Please welcome our new osu!taiko captains [\_gt](https://osu.ppy.sh/users/8301957), [K a y o k o](https://osu.ppy.sh/users/17664300), and [nevqr](https://osu.ppy.sh/users/14269506)! We better call [Mocha](/wiki/Mascots#mocha) to make sure she's prepared.
+- In the metadata reviewers department, say hello to [Antalf](https://osu.ppy.sh/users/8793773), [Luscent](https://osu.ppy.sh/users/2688581), and [Monoseul](https://osu.ppy.sh/users/16010604)! They're here to make sure that it's never been easier to find your favourite maps.
+- Here to keep the writing in pristine condition, we have our new description reviewers [ikin5050](https://osu.ppy.sh/users/4007649), [Molybdenum](https://osu.ppy.sh/users/14708449), and [Tomy](https://osu.ppy.sh/users/14889628)!
+- A fan of drums? Loved has got you covered. Please welcome our new osu!taiko captains [\_gt](https://osu.ppy.sh/users/8301957), [K a y o k o](https://osu.ppy.sh/users/17664300), and [nevqr](https://osu.ppy.sh/users/14269506)! We better call [Mocha](/wiki/Mascots#mocha) to make sure she's prepared.
 
 Something doesn't feel quite right actually, 9 is... not enough members! That's right, it's time for your chance to shine. The osu! captains are opening up applications for new members! If you have what it takes to show the world the best circles and sliders you know, click the banner below to apply!
 
