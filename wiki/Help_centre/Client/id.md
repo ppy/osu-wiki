@@ -35,7 +35,7 @@ Memiliki masalah dengan klien permainanmu? Temukan apakah masalahmu termasuk ke 
 
 ## Bug & crash {id=crash}
 
-### Saya mengubah pengaturan saya, dan sekarang osu! saya tidak dapat dibuka atau tidak merespon! {id=incorrect-settings}
+### Saya mengubah pengaturan saya, dan sekarang osu! saya tidak dapat dibuka atau tidak merespons! {id=incorrect-settings}
 
 **Dalam sebagian besar kasus, masalah ini akan dapat diselesaikan dengan mengatur ulang osu! ke pengaturan bawaannya.**
 
@@ -79,7 +79,7 @@ Untuk memeriksa hal ini, ikuti langkah-langkah berikut (pada Windows 8 atau lebi
 
 osu! pada umumnya akan dapat memperbarui dirinya sendiri tanpa bantuan apa pun, namun terkadang segala sesuatunya dapat tidak berjalan sebagaimana mestinya.
 
-Kami menyarankanmu untuk memulai ulang PC kamu sebagai langkah pertama. Hal ini akan dapat menyelesaikan berbagai masalah yang menjangkiti komputermu, termasuk yang berhubungan dengan osu!.
+Kami menyarankanmu untuk memulai ulang PC kamu sebagai langkah pertamamu. Hal ini akan dapat menyelesaikan berbagai masalah yang menjangkiti komputermu, termasuk yang berhubungan dengan osu!.
 
 Pastikan "versi rilis" (*release stream*) kamu telah diatur ke `stable` pada menu pengaturan.
 
@@ -154,7 +154,7 @@ Untuk memaksa agar basis data beatmap kamu direka ulang secara aman, ikuti langk
 
 ### Daftar lagu saya terus-menerus bergulir! {id=songs-list-scrolling}
 
-**Hal ini pada umumnya disebabkan oleh terdapatnya perangkat input yang bermasalah yang sedang terhubung ke komputermu. Cobalah untuk mencabut kontroler atau joystick yang sedang terhubung.**
+**Hal ini pada umumnya disebabkan oleh terdapatnya perangkat input bermasalah yang sedang terhubung ke komputermu. Cobalah untuk mencabut kontroler atau joystick yang sedang terhubung.**
 
 Masalah ini juga dapat disebabkan oleh aplikasi yang menirukan atau mengubah input keyboard, seperti *Xpadder* atau *X-Mouse Button Control*. Apabila kamu menggunakan aplikasi yang demikian untuk permainan lain, cobalah untuk menonaktifkan aplikasi ini.
 
