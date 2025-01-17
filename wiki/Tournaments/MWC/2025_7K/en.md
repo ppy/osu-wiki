@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2025 banner](img/mwc7k2025-banner.jpg)
 
-The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the nineth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the ninth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -19,7 +19,7 @@ The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) is a country-based osu!m
 | Registration phase | 2024-12-12 (15:00 UTC)/2024-12-26 (23:59 UTC) |
 | Qualifier showcase | 2025-01-05 (14:00 UTC) |
 | Qualifier stage | 2025-01-11/2025-01-12 |
-| Round of 24 | 2025-01-18/2025-01-19 |
+| Round of 32 | 2025-01-18/2025-01-19 |
 | Round of 16 | 2025-01-25/2025-01-26 |
 | Quarterfinals | 2025-02-01/2025-02-02 |
 | Semifinals | 2025-02-08/2025-02-09 |
@@ -45,17 +45,183 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=CN }:: [\_Yiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool playtester | *TBD* |
-| Mapper | *TBA* |
-| Commentator | *TBA* |
+| Mappool playtester | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=CN }:: [\_Yiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664), ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=KR }:: [chumpup](https://osu.ppy.sh/users/10878878), ::{ flag=KR }:: [DellyK](https://osu.ppy.sh/users/19791211), ::{ flag=MY }:: [Enie](https://osu.ppy.sh/users/11976455), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=JP }:: [LuluM](https://osu.ppy.sh/users/13151924), ::{ flag=AR }:: [lxLucasxl](https://osu.ppy.sh/users/3632846), ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=KR }:: [rubyy](https://osu.ppy.sh/users/9880422), ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525), ::{ flag=KR }:: [seou\_](https://osu.ppy.sh/users/31323430), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=CN }:: [Watch01](https://osu.ppy.sh/users/13967954), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
+| Mapper | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [\_Yiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=TH }:: [Lung\_P](https://osu.ppy.sh/users/8271308), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=KR }:: [qodtjr](https://osu.ppy.sh/users/3021168), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), *more TBA* |
+| Commentator | ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | **[Sakura006](https://osu.ppy.sh/users/10365024)** |
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/48)**
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/19JffJy65s7N2hqJfgL17ahNONTu9S-wDqvlHO7AFpNw?rm=minimal)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2014134)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/48)
+- [Challonge bracket](https://challonge.com/MWC7K2025)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/160) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Vod collection (Twitch)](https://www.twitch.tv/collections/6Mg2S0rTFxi6uQ)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AU }:: | **Australia** | **[Lynxaar](https://osu.ppy.sh/users/17557759)**, [Orcanos](https://osu.ppy.sh/users/13762441), [staynoidedd](https://osu.ppy.sh/users/16954929) |
+| ::{ flag=AT }:: | **Austria** | **[Fabieii](https://osu.ppy.sh/users/16235845)**, [Dash19e](https://osu.ppy.sh/users/17804952) |
+| ::{ flag=BR }:: | **Brazil** | **[YuukiFanGirl](https://osu.ppy.sh/users/16318630)**, [pepokk](https://osu.ppy.sh/users/24973011), [UltraBlack](https://osu.ppy.sh/users/15677134), [MORDEST68](https://osu.ppy.sh/users/28527409) |
+| ::{ flag=CA }:: | **Canada** | **[UmmmMrMoo](https://osu.ppy.sh/users/15314355)**, [LelPop](https://osu.ppy.sh/users/10242770), [Genuine](https://osu.ppy.sh/users/5235597), [Anto\_Crasher555](https://osu.ppy.sh/users/28720868) |
+| ::{ flag=CL }:: | **Chile** | **[Sebaex](https://osu.ppy.sh/users/4686036)**, [DarkDave](https://osu.ppy.sh/users/5182879), [\[LS\]bambi fnf](https://osu.ppy.sh/users/20360332), [-Z\_Z-](https://osu.ppy.sh/users/22157047) |
+| ::{ flag=CN }:: | **China** | **[tyrcs](https://osu.ppy.sh/users/13026904)**, [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [VanWilder](https://osu.ppy.sh/users/89545), [af-](https://osu.ppy.sh/users/10512663) |
+| ::{ flag=CZ }:: | **Czechia** | **[cooheri](https://osu.ppy.sh/users/16469072)**, [TomisNotGood](https://osu.ppy.sh/users/16360055) |
+| ::{ flag=DK }:: | **Denmark** | **[Fritte](https://osu.ppy.sh/users/5001658)**, [Jole](https://osu.ppy.sh/users/2883132), [Stoom](https://osu.ppy.sh/users/13572493) |
+| ::{ flag=EE }:: | **Estonia** | **[hisaella](https://osu.ppy.sh/users/9557847)**, [Arcaxio](https://osu.ppy.sh/users/16819909) |
+| ::{ flag=FI }:: | **Finland** | **[Maffe](https://osu.ppy.sh/users/4773855)**, [Lyuna](https://osu.ppy.sh/users/4760676), [Crazzeh](https://osu.ppy.sh/users/5054154), [Huukkeli](https://osu.ppy.sh/users/11098035) |
+| ::{ flag=FR }:: | **France** | **[Milla\[Monkey\]](https://osu.ppy.sh/users/6264519)**, [Jerem\[Monkey\]](https://osu.ppy.sh/users/13431947), [Mokett](https://osu.ppy.sh/users/14535598), [Whirst](https://osu.ppy.sh/users/5350761) |
+| ::{ flag=DE }:: | **Germany** | **[TsukiyaWhiskers](https://osu.ppy.sh/users/12598261)**, [Blacku1](https://osu.ppy.sh/users/14160917), [ERA Pheon](https://osu.ppy.sh/users/10615367), [2Bnator](https://osu.ppy.sh/users/13611934) |
+| ::{ flag=GT }:: | **Guatemala** | **[Votchis](https://osu.ppy.sh/users/14862011)**, [ChichanN](https://osu.ppy.sh/users/29436746) |
+| ::{ flag=HK }:: | **Hong Kong** | **[zec](https://osu.ppy.sh/users/20809032)**, [tangjinxi](https://osu.ppy.sh/users/2270126), [Tat3](https://osu.ppy.sh/users/14222982) |
+| ::{ flag=ID }:: | **Indonesia** | **[Onta\_Bekasi](https://osu.ppy.sh/users/8677684)**, [RaffCo](https://osu.ppy.sh/users/7589503), [\_yea](https://osu.ppy.sh/users/20834055), [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) |
+| ::{ flag=IT }:: | **Italy** | **[Lorak\_80](https://osu.ppy.sh/users/20028293)**, [Ganyu1](https://osu.ppy.sh/users/10831582) |
+| ::{ flag=JP }:: | **Japan** | **[rainlily](https://osu.ppy.sh/users/485007)**, [butanic](https://osu.ppy.sh/users/1433586), [Suzuha\_l](https://osu.ppy.sh/users/6132697), [\[ misa \]](https://osu.ppy.sh/users/10011429) |
+| ::{ flag=LT }:: | **Lithuania** | **[TrueDash24](https://osu.ppy.sh/users/10528290)**, [ketiph](https://osu.ppy.sh/users/18483296), [PaulIsGaming](https://osu.ppy.sh/users/26404465) |
+| ::{ flag=MO }:: | **Macau** | **[idqoos123](https://osu.ppy.sh/users/3946113)**, [Randumbs](https://osu.ppy.sh/users/27657112) |
+| ::{ flag=MY }:: | **Malaysia** | **[Neokje](https://osu.ppy.sh/users/7727987)**, [ZYuan](https://osu.ppy.sh/users/3337688), [YeonHong187](https://osu.ppy.sh/users/10236326), [\[MY\]NoLimit](https://osu.ppy.sh/users/11787977) |
+| ::{ flag=MX }:: | **Mexico** | **[Dex uwu](https://osu.ppy.sh/users/12084755)**, [- Kopi -](https://osu.ppy.sh/users/24140109), [marcelito8v](https://osu.ppy.sh/users/12127526), [nana3000](https://osu.ppy.sh/users/27605792) |
+| ::{ flag=NL }:: | **Netherlands** | **[Freek](https://osu.ppy.sh/users/9630674)**, [DravenXTaric](https://osu.ppy.sh/users/11999500), [Roasted Chicken](https://osu.ppy.sh/users/9461160), [samuelhklumpers](https://osu.ppy.sh/users/10945523) |
+| ::{ flag=NZ }:: | **New Zealand** | **[Robeats](https://osu.ppy.sh/users/19446399)**, [do you fart](https://osu.ppy.sh/users/15690480), [Worms](https://osu.ppy.sh/users/1963937), [Koyu\_](https://osu.ppy.sh/users/33328421) |
+| ::{ flag=NO }:: | **Norway** | **[masaya](https://osu.ppy.sh/users/5818319)**, [Endroma](https://osu.ppy.sh/users/10340462), [Zekronz](https://osu.ppy.sh/users/7220725), [Ziquids](https://osu.ppy.sh/users/10972799) |
+| ::{ flag=PK }:: | **Pakistan** | **[Axoscope](https://osu.ppy.sh/users/32097633)**, [Frank\_WhyNot](https://osu.ppy.sh/users/27213915), [nico-](https://osu.ppy.sh/users/15206217) |
+| ::{ flag=PE }:: | **Peru** | **[-luvv](https://osu.ppy.sh/users/23731514)**, [\[HD\]Suisei](https://osu.ppy.sh/users/25024313), [diviza](https://osu.ppy.sh/users/14579257), [josiaxarg](https://osu.ppy.sh/users/13018117) |
+| ::{ flag=PH }:: | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [Ojisan-](https://osu.ppy.sh/users/11420405), [Sanni](https://osu.ppy.sh/users/3036686), [shadowkun-](https://osu.ppy.sh/users/13450837) |
+| ::{ flag=PL }:: | **Poland** | **[bagjettka](https://osu.ppy.sh/users/18338179)**, [SitekX](https://osu.ppy.sh/users/3840946), [- SzymeQ -](https://osu.ppy.sh/users/26646233), [Sayobatsu](https://osu.ppy.sh/users/2383766) |
+| ::{ flag=RU }:: | **Russian Federation** | **[Meiju](https://osu.ppy.sh/users/5527957)**, [karayss](https://osu.ppy.sh/users/7156634), [timebuka](https://osu.ppy.sh/users/6857841), [SmeadollsBoy](https://osu.ppy.sh/users/9504954) |
+| ::{ flag=SG }:: | **Singapore** | **[origamibest](https://osu.ppy.sh/users/16192531)**, [Japeynius](https://osu.ppy.sh/users/13993659), [Hanjizen](https://osu.ppy.sh/users/17213010), [doggythatsucks](https://osu.ppy.sh/users/26236177) |
+| ::{ flag=KR }:: | **South Korea** | **[yz1155](https://osu.ppy.sh/users/2071008)**, [dressurf](https://osu.ppy.sh/users/758406), [Kalkai](https://osu.ppy.sh/users/10790649), [Crusher](https://osu.ppy.sh/users/7304158) |
+| ::{ flag=ES }:: | **Spain** | **[Luqas678](https://osu.ppy.sh/users/26688450)**, [Manuel-san\_UWU](https://osu.ppy.sh/users/23244116), [fantasticsiker](https://osu.ppy.sh/users/17471458), [Nerea](https://osu.ppy.sh/users/18660354) |
+| ::{ flag=SE }:: | **Sweden** | **[Craty](https://osu.ppy.sh/users/3918056)**, [erased self](https://osu.ppy.sh/users/8856244), [Henkayy](https://osu.ppy.sh/users/3003778), [venyez](https://osu.ppy.sh/users/15927535) |
+| ::{ flag=TW }:: | **Taiwan** | **[hero\_jeff](https://osu.ppy.sh/users/3375226)**, [vvvxx](https://osu.ppy.sh/users/30220646), [\[ Kloc \]](https://osu.ppy.sh/users/11609084) |
+| ::{ flag=TH }:: | **Thailand** | **[--Pavin--](https://osu.ppy.sh/users/12046267)**, [Nattapoom](https://osu.ppy.sh/users/12852613), [nanonbandusty](https://osu.ppy.sh/users/15543726), [yoth99](https://osu.ppy.sh/users/15727775) |
+| ::{ flag=UA }:: | **Ukraine** | **[HeavenlyFaith](https://osu.ppy.sh/users/14412562)**, [anti\_spiral228](https://osu.ppy.sh/users/31670767), [thesayer](https://osu.ppy.sh/users/29034266) |
+| ::{ flag=GB }:: | **United Kingdom** | **[Usie](https://osu.ppy.sh/users/16162078)**, [Vygatron](https://osu.ppy.sh/users/3628783), [MiniEgg\_23](https://osu.ppy.sh/users/25914360) |
+| ::{ flag=US }:: | **United States** | **[AlterFangirl](https://osu.ppy.sh/users/17233884)**, [logann](https://osu.ppy.sh/users/24675802), [Alter-](https://osu.ppy.sh/users/4980256), [Potaterr](https://osu.ppy.sh/users/18664411) |
+| ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)**, [sir aelay](https://osu.ppy.sh/users/12055954), [xShyzDy](https://osu.ppy.sh/users/13545528) |
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a81f6e7fddd9345702ba0d0fb75f759).
+
+## Match schedule: Round of 32
+
+### Saturday, 18 January 2025
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Jan 18 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250118T050000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=NO }:: Norway | [Jan 18 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250118T100000&p1=1440&p2=108&p3=187) | [osulive](https://twitch.tv/osulive) |
+| Philippines ::{ flag=PH }:: | ::{ flag=LT }:: Lithuania | [Jan 18 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250118T110000&p1=1440&p2=145) | [osulive](https://twitch.tv/osulive) |
+| Germany ::{ flag=DE }:: | ::{ flag=EE }:: Estonia | [Jan 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250118T140000&p1=1440&p2=37) | [osulive](https://twitch.tv/osulive) |
+| Spain ::{ flag=ES }:: | ::{ flag=SE }:: Sweden | [Jan 18 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250118T150000&p1=1440&p2=141&p3=239) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=NL }:: Netherlands | [Jan 18 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250118T190000&p1=1440&p2=263&p3=16) | [osulive](https://twitch.tv/osulive) |
+
+### Sunday, 19 January 2025
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| China ::{ flag=CN }:: | ::{ flag=MX }:: Mexico | [Jan 19 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T040000&p1=1440&p2=33&p3=155) | [osulive](https://twitch.tv/osulive) |
+| New Zealand ::{ flag=NZ }:: | ::{ flag=TW }:: Taiwan | [Jan 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T100000&p1=1440&p2=264&p3=241) | [osulive](https://twitch.tv/osulive) |
+| France ::{ flag=FR }:: | ::{ flag=MO }:: Macau | [Jan 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T120000&p1=1440&p2=195) | [osulive](https://twitch.tv/osulive) |
+| South Korea ::{ flag=KR }:: | ::{ flag=CZ }:: Czechia | [Jan 19 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T130000&p1=1440&p2=235&p3=204) | [osulive_2](https://twitch.tv/osulive_2) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=GB }:: United Kingdom | [Jan 19 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T130000&p1=1440&p2=102&p3=136) | [osulive](https://twitch.tv/osulive) |
+| Peru ::{ flag=PE }:: | ::{ flag=SG }:: Singapore | [Jan 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T140000&p1=1440&p2=131&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=DK }:: Denmark | [Jan 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T140000&p1=1440&p2=166&p3=69) | [osulive](https://twitch.tv/osulive) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=PL }:: Poland | [Jan 19 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T150000&p1=1440&p2=122&p3=262) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=FI }:: Finland | [Jan 19 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T160000&p1=1440&p2=232&p3=101) | [osulive](https://twitch.tv/osulive) |
+| Venezuela ::{ flag=VE }:: | ::{ flag=CA }:: Canada | [Jan 19 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T190000&p1=1440&p3=188) | [osulive](https://twitch.tv/osulive) |
+| Round of 16 | mappool showcase | [Jan 19 (Sun) 19:45 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250119T194500&p1=1440) | [osulive](https://twitch.tv/osulive) |
+
+## Mappools
+
+### Round of 32
+
+**[Download the mappack here (54 MB)](https://packs.ppy.sh/P271%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Round%20of%2032.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2351784653?t=0h47m50s)
+
+- Rice
+  1. [MisomyL - Catalinesie (qodtjr) \[Speed of 32\]](https://osu.ppy.sh/beatmapsets/2307453#mania/4934987)
+  2. [rerulili - Noushou Sakuretsu Girl (Cut Ver.) (ExNeko) \[Sakuretsu Chordstream\]](https://osu.ppy.sh/beatmapsets/2307428#mania/4934921)
+  3. [Panda Eyes & Teminite - Highscore (Cut Ver.) (Carpihat) \[1,000,000\]](https://osu.ppy.sh/beatmapsets/2307424#mania/4934916)
+  4. [II-L - VANGUARD-3 (lenpai) \[S&P 500 ETF Shorted\]](https://osu.ppy.sh/beatmapsets/2307703#mania/4935651)
+  5. [Sparxe - Switcheroo (Maxus) \[Joker Trickery\]](https://osu.ppy.sh/beatmapsets/2307554#mania/4935257)
+- Long Note
+  1. [Neko Hacker - Shadows feat. Such (SurfChu85) \[Negative Space\]](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981)
+  2. [rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit) (Lung\_P) \[Midsummer Paradise (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2307474#mania/4935021)
+  3. [AAAA + yadrigg - Sakase Natsuzora, Koi no Hana. (Muses) \[Spark\]](https://osu.ppy.sh/beatmapsets/2307438#mania/4934949)
+- Hybrid
+  1. [Tedjimo yomigY - Usuva Kagerow (\_Yiiiii) \[Kurayami\]](https://osu.ppy.sh/beatmapsets/2307475#mania/4935023)
+  2. [BPM15Q - Kyo You Mu (ExNeko) \[Yoru ni Odoru\]](https://osu.ppy.sh/beatmapsets/2307429#mania/4934922)
+  3. [Xyris - Crash-Landing Rendezvous (Irone OSU) \[Catastrophic Descent\]](https://osu.ppy.sh/beatmapsets/2307516#mania/4935112)
+- Tiebreaker
+  1. **[Camellia - The Lost Place In The New World (pwhk) \[Undiscoverable (MWC edit)\]](https://osu.ppy.sh/beatmapsets/2307444#mania/4934957)**
+
+### Qualifiers
+
+**[Download the mappack here (32 MB)](https://packs.ppy.sh/P270%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2345049575)
+
+1. [rN - opia (Maxus) \[Stage 1: Dark Apathy\]](https://osu.ppy.sh/beatmapsets/2303937#mania/4924792)
+2. [-45 - bloody malie (Carpihat) \[Stage 2: -.. . .- - .... -.. . .-.. .- -.--\]](https://osu.ppy.sh/beatmapsets/2303939#mania/4924794)
+3. [Sephid - Fine Logic (\_Stan) \[Stage 3: Seeking\]](https://osu.ppy.sh/beatmapsets/2303947#mania/4924808)
+4. [aran - Yoake Mae feat. shully (\_Kobii) \[Stage 4: Mystic\]](https://osu.ppy.sh/beatmapsets/2303945#mania/4924806)
+5. [Mono. - skip&step (Blocko) \[Stage 5: Stride\]](https://osu.ppy.sh/beatmapsets/2303942#mania/4924800)
+6. [3R2 - Spring Carnival (qodtjr) \[Stage 6: Joyous\]](https://osu.ppy.sh/beatmapsets/2303934#mania/4924787)
+7. [Junk - Yellow Smile (ExNeko) \[Stage 7: Sunshine\]](https://osu.ppy.sh/beatmapsets/2303944#mania/4924805)
+8. [seatrus - Hekikuu no Yakusoku (Critical\_Star) \[Stage 8: Azure\]](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1axEpXUCv37C-xcZiGudWt1WKz3yVWVgz9ml-7_8hg3w?rm=minimal).\
+[View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2351784653).
+
+| Seed | Country | rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | --: | --: |
+| #1 | ::{ flag=KR }:: South Korea | 10 | 1,985,011 |
+| #2 | ::{ flag=CN }:: China | 17 | 1,978,764 |
+| #3 | ::{ flag=PH }:: Philippines | 32 | 1,966,654 |
+| #4 | ::{ flag=JP }:: Japan | 33 | 1,964,655 |
+| #5 | ::{ flag=ID }:: Indonesia | 41 | 1,960,995 |
+| #6 | ::{ flag=HK }:: Hong Kong | 57 | 1,944,910 |
+| #7 | ::{ flag=US }:: United States | 64 | 1,936,888 |
+| #8 | ::{ flag=PE }:: Peru | 74 | 1,929,096 |
+| #9 | ::{ flag=MY }:: Malaysia | 78 | 1,931,268 |
+| #10 | ::{ flag=CL }:: Chile | 80 | 1,920,156 |
+| #11 | ::{ flag=RU }:: Russian Federation | 90 | 1,923,973 |
+| #12 | ::{ flag=VE }:: Venezuela | 92 | 1,920,171 |
+| #13 | ::{ flag=DE }:: Germany | 96 | 1,917,927 |
+| #14 | ::{ flag=NZ }:: New Zealand | 116 | 1,892,753 |
+| #15 | ::{ flag=FR }:: France | 118 | 1,891,522 |
+| #16 | ::{ flag=ES }:: Spain | 132 | 1,889,494 |
+| #17 | ::{ flag=SE }:: Sweden | 140 | 1,871,972 |
+| #18 | ::{ flag=MO }:: Macau | 158 | 1,854,059 |
+| #19 | ::{ flag=TW }:: Taiwan | 164 | 1,859,566 |
+| #20 | ::{ flag=EE }:: Estonia | 165 | 1,862,147 |
+| #21 | ::{ flag=CA }:: Canada | 177 | 1,828,541 |
+| #22 | ::{ flag=DK }:: Denmark | 184 | 1,836,021 |
+| #23 | ::{ flag=FI }:: Finland | 185 | 1,845,229 |
+| #24 | ::{ flag=PL }:: Poland | 188 | 1,812,866 |
+| #25 | ::{ flag=SG }:: Singapore | 196 | 1,816,281 |
+| #26 | ::{ flag=NL }:: Netherlands | 197 | 1,813,289 |
+| #27 | ::{ flag=GB }:: United Kingdom | 201 | 1,823,427 |
+| #28 | ::{ flag=NO }:: Norway | 213 | 1,803,560 |
+| #29 | ::{ flag=TH }:: Thailand | 222 | 1,779,637 |
+| #30 | ::{ flag=LT }:: Lithuania | 228 | 1,774,849 |
+| #31 | ::{ flag=MX }:: Mexico | 235 | 1,777,141 |
+| #32 | ::{ flag=CZ }:: Czechia | 250 | 1,676,517 |
+| #33 | ::{ flag=AU }:: Australia | 255 | 1,709,015 |
+| #34 | ::{ flag=UA }:: Ukraine | 277 | 1,482,362 |
+| #35 | ::{ flag=AT }:: Austria | 277 | 1,480,990 |
+| #36 | ::{ flag=GT }:: Guatemala | 293 | 1,357,401 |
+| #37 | ::{ flag=PK }:: Pakistan | 294 | 1,352,238 |
+| #38 | ::{ flag=IT }:: Italy | 299 | 1,314,417 |
+| #39 | ::{ flag=BR }:: Brazil | *DNP* |  |
 
 ## Ruleset
 
@@ -112,7 +278,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not not send their team list by January 3, 23:59 UTC will be disqualified from the competition.**
+   - **Teams that do not not send their team list by January 4, 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
@@ -134,21 +300,17 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 8. The seeding method used for Qualifiers will be rank sum, where each team's map rank will be added as a numerical value to compose that team's final score, which is then sorted from lowest to highest, lowest being seed #1.
    - The exact formula that will be used for each map is `Map score = RANK(Team score)`, where `RANK` is the function that correlates `Team score` to all scores in the current map, sorted from highest to lowest score.
    - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
-9. The top 24 seeded teams will advance to the Round of 24.
+9. The top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
 
 1. Following the Qualifiers, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
 2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Quarterfinals.
-3. The top 8 seeded teams from the Qualifiers get a bye for the Round of 24, and start playing on the Round of 16 instead.
-4. Teams that lose their Round of 24 match get a bye for the Round of 16, and start playing the Losers bracket from Quarterfinals onwards.
-
-![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-bracket.png)
 
 ### Win conditions
 
-- In the Qualifiers, teams need to place in the top 24 seeded teams in order to advance to the double-elimination stage.
-- In the Round of 24 and Round of 16, teams need to win 5 maps to win a match (best of 9).
+- In the Qualifiers, teams need to place in the top 32 seeded teams in order to advance to the double-elimination stage.
+- In the Round of 32 and Round of 16, teams need to win 5 maps to win a match (best of 9).
 - In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11).
 - In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
   - *Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets.*
@@ -180,7 +342,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 2. Each mappool consists of a fixed amount of maps, which will all be played under Free Mod conditions.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
-   - Round of 24 and Round of 16: 12 beatmaps
+   - Round of 32 and Round of 16: 12 beatmaps
    - Quarterfinals and Semifinals: 14 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
@@ -192,7 +354,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 ### Scheduling information
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
    - **A team that does not pick a time slot by January 9, 23:59 UTC will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
@@ -202,3 +364,8 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum

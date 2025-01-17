@@ -60,7 +60,7 @@ The osu! Indonesia Tournament #14 (2024) was run by various osu! community membe
 
 - **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1zSjTQYN_9qG_bZTnw89k-H3AV_mhZrVJdTP5_Z9crYE/edit?usp=sharing)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1968598)
-- [Discord server](https://discord.gg/nKthrPUahJ)
+- [Discord server](https://discord.gg/FJgtKEqypY)
 - [Challonge brackets](https://challonge.com/oit14)
 - [Livestream channel](https://www.twitch.tv/osumalaysia)
 
@@ -390,7 +390,7 @@ Sunday, 6 October 2024:
 2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their Z-sum value (which is the total amount of Z-score across all eleven Qualifier beatmaps). A brief explanation on the concept of Z-sum and Z-score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
+5. Based on their performance in the Qualifier, players will be ranked based on their **Z-sum value** (which is the sum of Z-scores across all eleven Qualifier beatmaps fitted to a standard normal cumulative distribution function). A brief explanation on the concept of Z-sum and Z-score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
 6. The 16 players with the **highest Z-sum value** will advance to the knock-out stages.
    - If there are two (or more) players who share the same Z-sum value, the player that holds the higher total raw score will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
