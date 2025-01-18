@@ -28,13 +28,13 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Bloom** mod progressively makes the cursor bigger as the combo builds up until it reaches the limit of 50x combo. If you miss an object, the cursor returns to its original size.
+The **Bloom** mod progressively makes the cursor bigger as the combo builds up until it reaches a set limit configurable. If you miss an object, the cursor returns to its original size.
 
 ## Customisation
 
 ![Bloom customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BM.jpg)
 
-- **Max size at combo** (5–100, default 50): The combo count at which the cursor reaches its maximum size.
+- **Max size at combo** (5,0–100, default 50): The combo count at which the cursor reaches its maximum size.
 - **Final size multiplier** (5,0–15,0, default 10,0): The multiplier applied to the cursor size when the combo reaches its maximum.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
