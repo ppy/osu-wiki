@@ -5,6 +5,8 @@ tags:
   - Contest Committee
   - CC
   - Comité des concours
+outdated_translation: true
+outdated_since: 89722a56c74c20810e1fa8b375de1042def7971e
 ---
 
 # Comité des tournois
