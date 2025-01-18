@@ -386,6 +386,8 @@ This is a compendium of the first users to unlock each medal in osu! history.
 
 The first person to unlock a medal was [Echo](https://osu.ppy.sh/users/431) on 1 Aug 2008 (23:08:56) with the **500 Combo** medal.
 
+These statistics were first announced to the public via [this news post](https://osu.ppy.sh/home/news/2025-01-19-meet-the-medal-pioneers).
+
 Below are various notable milestones related to first medal unlocks:
 
 |  | Medal | Milestone | First achiever | Date achieved (UTC) |
