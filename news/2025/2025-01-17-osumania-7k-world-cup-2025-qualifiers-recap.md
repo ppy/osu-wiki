@@ -40,7 +40,7 @@ But we've only just begun, and future mappools are yet to be revealed. Who knows
 
 Despite the increased number of rounds, the Qualifiers have been a trove of surprises! With 39 registered countries and 32 slots to fill, competition has been nothing short of thrilling.
 
-![Qualifier results table](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/results.jpg)
+![Qualifier results table](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/results.jpg?20250118)
 
 Starting things off with the top 3 seeds, it should come as no surprise that ::{ flag=KR }:: South Korea has once again risen up to the top spot with their new members ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649) and ::{ flag=KR }:: [Crusher](https://osu.ppy.sh/users/7304158). Following up, we've got ::{ flag=CN }:: China and ::{ flag=PH }:: Philippines on the #2 and #3 seeds respectively, another two fan favourites whose performances have consistently been amongst the best. But who knows, maybe we'll find some upsets along the way!
 
