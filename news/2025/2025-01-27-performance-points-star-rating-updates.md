@@ -76,7 +76,7 @@ Aim calculations reward maps for having difficult to follow slider patterns, wit
 
 A [change](https://github.com/ppy/osu/pull/31055) proposed by [StanR](https://osu.ppy.sh/users/7217455) has been created in order to ensure this penalty is applied correctly, and uses a more concrete estimation of the difficult sliders in a map.
 
-Prior to this change, the penalty applied to aim PP for missed sliderends was significantly undernerfing unintentionally. This meant maps with difficult sliders could be abused for easy PP by missing a lot of slider ends. This has been corrected to nerf as intended which has caused large nerfs on a lot of plays set on beatmaps such as [t+pazolite - Oshama Scramble! (IOException Edit) [Special]](https://osu.ppy.sh/beatmapsets/1376308#osu/2844649).
+Prior to this change, the penalty applied to aim PP for missed sliderends was unintentionally nerfing much less than it was supposed to. This meant maps with difficult sliders could be abused for easy PP by missing a lot of slider ends. This has been corrected which causes large nerfs for a lot of scores set on beatmaps such as [t+pazolite - Oshama Scramble! (IOException Edit) [Special]](https://osu.ppy.sh/beatmapsets/1376308#osu/2844649).
 
 Furthermore, this change now uses a count of difficult sliders dictated by difficulty calculations for this penalty instead of assuming that 10% of the map's sliders are difficult. This makes the penalty fairer across the board.
 
