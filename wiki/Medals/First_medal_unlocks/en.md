@@ -386,12 +386,34 @@ This is a compendium of the first users to unlock each medal in osu! history.
 
 The first person to unlock a medal was [Echo](https://osu.ppy.sh/users/431) on 1 Aug 2008 (23:08:56) with the **500 Combo** medal.
 
-Below are the users who unlocked the first medal for each game mode:
+Below are various notable milestones related to first medal unlocks:
 
-|  | Medal | Game mode | First achiever | Date achieved (UTC) |
+|  | Medal | Milestone | First achiever | Date achieved (UTC) |
 | --: | :-- | :-: | :-- | :-- |
-| ![500 Combo](/wiki/shared/medals/osu-combo-500.png) | 500 Combo | ![osu!](/wiki/shared/mode/osu.png "osu!") | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 Aug 2008 (23:08:56) |
-| ![30,000 Drum Hits](/wiki/shared/medals/taiko-hits-30000.png) | 30,000 Drum Hits | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ::{ flag=FR }:: [Makimoke](https://osu.ppy.sh/users/169796) | 9 Apr 2012 (06:37:30) |
-| ![Catch 20,000 fruits](/wiki/shared/medals/fruits-hits-20000.png) | Catch 20,000 fruits | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | 22 Nov 2008 (02:55:10) |
-| ![40,000 Keys](/wiki/shared/medals/mania-hits-40000.png) | 40,000 Keys | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ::{ flag=CN }:: [pameira](https://osu.ppy.sh/users/1272596) | 28 May 2013 (05:01:06) |
-| ![Jackpot](/wiki/shared/medals/all-secret-jackpot.png) | Jackpot | All | ::{ flag=US }:: [tigresoy](https://osu.ppy.sh/users/1862163) | 22 Aug 2012 (16:45:04) |
+| ![500 Combo](/wiki/shared/medals/osu-combo-500.png) | 500 Combo | First osu! medal | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 Aug 2008 (23:08:56) |
+| ![30,000 Drum Hits](/wiki/shared/medals/taiko-hits-30000.png) | 30,000 Drum Hits | First osu!taiko medal | ::{ flag=FR }:: [Makimoke](https://osu.ppy.sh/users/169796) | 9 Apr 2012 (06:37:30) |
+| ![Catch 20,000 fruits](/wiki/shared/medals/fruits-hits-20000.png) | Catch 20,000 fruits | First osu!catch medal | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | 22 Nov 2008 (02:55:10) |
+| ![40,000 Keys](/wiki/shared/medals/mania-hits-40000.png) | 40,000 Keys | First osu!mania medal | ::{ flag=CN }:: [pameira](https://osu.ppy.sh/users/1272596) | 28 May 2013 (05:01:06) |
+| ![Aberration](/wiki/shared/medals/osu-skill-fc-8.png) | Aberration | First osu! 8★ FC  | ::{ flag=KR }:: [firebat92](https://osu.ppy.sh/users/1777162) | 17 Jul 2016 (12:41:58) |
+| ![Don't let the bunny distract you!](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | First Hush-Hush medal | ::{ flag=AR }:: [Pokefanrichie](https://osu.ppy.sh/users/16629) | 11 Aug 2008 (12:47:24) |
+| ![Perseverance](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | First Expert Hush-Hush medal | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17 Aug 2016 (09:56:45) |
+| ![Creator's Gambit](/wiki/shared/medals/all-secret-trophy.png) | Creator's Gambit | First mapping-related medal | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 4 Nov 2022 (07:47:25) |
+
+The following is a leaderbord of users with three first medal unlocks or more:
+
+| Player | First medals unlocked |
+| :-- | --: |
+| ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | 9 |
+| ::{ flag=US }:: [Weebs Suck](https://osu.ppy.sh/users/12948001) | 9 |
+| ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523) | 8 |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 6 |
+| ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
+| ::{ flag=DE }:: [Bin_AFK](https://osu.ppy.sh/users/5840659) | 3 |
+| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 3 |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 3 |
+| ::{ flag=BR }:: [Murin](https://osu.ppy.sh/users/13771539) | 3 |
+| ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 3 |
+| ::{ flag=UA }:: [sharytory](https://osu.ppy.sh/users/16139008) | 3 |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 3 |
+| ::{ flag=PE }:: [Vaticanus](https://osu.ppy.sh/users/4454465) | 3 |
+| ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
