@@ -8,7 +8,7 @@ The time has finally come: **ntyn** is part of our Featured Artist catalogue!
 
 ![](https://assets.ppy.sh/artists/456/header.jpg)
 
-Taiwanese producer **ntyn** isn't someone who sticks to a single style. He's an artist who specializes in a bunch of genres, switching between calm orchestral pieces and exciting pop tracks effortlessly.
+Taiwanese producer **ntyn** isn't someone who sticks to a single style. He's an artist who specialises in a bunch of genres, switching between calm orchestral pieces and exciting pop tracks effortlessly.
 
 **6** songs (available as pre-timed `.osz` files) are officially part of [**ntyn**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/456). Pick out a song and start mapping already.
 
@@ -16,7 +16,7 @@ Check everything out:
 
 ### [ntyn - We Love Idol, and Master! (Chiptune)](https://assets.ppy.sh/artists/456/Songs/ntyn%20-%20We%20Love%20Idol%2C%20and%20Master!%20(Chiptune).osz)
 
-Here on osu!, his most recognizable tune is a chiptune rendition of [We Love Idol, and Master!](https://osu.ppy.sh/beatmapsets/2258940) hosted by [Daycore](https://osu.ppy.sh/users/5596337), showcasing just one side of **ntyn**'s multi-genre capabilities.
+Here on osu!, his most recognisable tune is a chiptune rendition of [We Love Idol, and Master!](https://osu.ppy.sh/beatmapsets/2258940) hosted by [Daycore](https://osu.ppy.sh/users/5596337), showcasing just one side of **ntyn**'s multi-genre capabilities.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
