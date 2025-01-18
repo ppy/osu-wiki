@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 2e84fccef42dbe90b57ed6174fbf1e20e74135ff
+outdated_translation: true
 ---
 
 # Médailles

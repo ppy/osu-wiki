@@ -1,4 +1,6 @@
 ---
+outdated_since: 2e84fccef42dbe90b57ed6174fbf1e20e74135ff
+outdated_translation: true
 no_native_review: true
 tags:
   - 成就
