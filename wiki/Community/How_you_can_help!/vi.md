@@ -1,50 +1,49 @@
-# Làm thế nào tôi có thể giúp đỡ!
+# Làm thế nào bạn có thể giúp đỡ!
 
-osu! có một cộng đồng rất sôi nổi bao gồm những người từ khắp nơi trên thế giới và bất kỳ ai cũng có thể đóng góp cho cộng đồng theo cách riêng của họ!
+osu! có một cộng đồng ổn định rất sôi nổi bao gồm những người từ khắp nơi trên thế giới và bất kỳ ai cũng có thể trở thành một phần cho cộng đồng theo cách riêng của họ!
 
-Dưới đây chỉ là một số cách bạn có thể giúp cho cộng đồng:
+Dưới đây chỉ một số cách bạn có thể giúp trong cộng đồng:
 
-## Trợ giúp về wiki
+## Trợ giúp với wiki
 
-[Wiki](https://github.com/ppy/osu-wiki) là cơ sở dữ liệu chính thức chứa mọi thứ về osu!. Do đó, wiki cần tìm kiếm thêm người đóng góp để giúp trang web luôn được cập nhật những kiến ​​thức hoặc bản dịch mới.
+[Wiki](https://github.com/ppy/osu-wiki) là cơ sở dữ liệu chính thức của chúng tôi bao gồm kỳ thứ gì và mọi thứ về osu!. Vì vậy, wiki luôn đang tìm kiếm thêm người đóng góp để giúp giữ trang web luôn được cập nhật mới nhất với những kiến ​​thức hoặc bản dịch tươi mới.
 
-Nếu bạn là người mới tham gia đóng góp cho osu!wiki, bạn có thể đọc thêm trong [hướng dẫn đóng góp osu!wiki](/wiki/osu!_wiki/Contribution_guide).
+Nếu bạn là một người mới đến với osu!wiki, bạn có thể đọc thêm về nó trong [hướng dẫn đóng góp osu!wiki](/wiki/osu!_wiki/Contribution_guide).
 
-## Giúp giữ osu! thân thiện và an toàn 
+## Giúp đỡ giữ osu! thân thiện và an toàn 
 
-Để giữ những nơi hoạt động sôi nổi của cộng đồng được an toàn, osu! có một nhóm kiểm duyệt chuyên biệt —[Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team)— để giám sát các diễn đàn và các cuộc trò chuyện trực tuyến xuyên suốt cả ngày.
+Để giữ cho các trung tâm cộng đồng chính thức an toàn , osu! có một nhóm kiểm duyệt tận tâm —[Đội ngũ kiểm duyệt toàn cầu](/wiki/People/Global_Moderation_Team)— để giám sát các diễn đàn và các cuộc trò chuyện trực tuyến xuyên suốt ngày đêm.
 
-Thật may là việc giúp giữ mọi thứ an toàn ở đây khá là dễ dàng. Sau đây chỉ là một trong số rất nhiều cách bạn có thể giúp:
+Thật may, vẫn còn dễ dàng đối với bạn để giúp giữ mọi thứ an toàn từ đây. Dưới đây là chỉ một vài trong số nhiều cách bạn có thể giúp đỡ:
 
-- Theo dõi các kênh yêu thích của bạn ở [phần trò chuyện (chat) trong game](/wiki/Client/Interface/Chat_console) hoặc tham gia vào các diễn đàn.
-- Nếu bạn thấy điều gì đó xảy ra mà bạn cho là không phù hợp hoặc gây phiền phức theo bất kỳ cách nào, hãy sử dụng [lệnh `!report`](/wiki/Reporting_bad_behaviour) trong phần trò chuyện để thông báo cho kiểm duyệt viên về điều đó.
+- Theo dõi các kênh yêu thích của bạn trong [phần trò chuyện trong trò chơi](/wiki/Client/Interface/Chat_console) hoặc tham gia vào các diễn đàn.
+- Nếu bạn thấy điều gì đó đang xảy ra rằng bạn nghĩ là không thích hợp hoặc gây khó chịu theo bất kỳ cách nào, sử dụng [lệnh `!report`](/wiki/Reporting_bad_behaviour) trong trò chuyện trò chơi để thông báo cho người kiểm duyệt về nó.
 
-## Giúp đỡ các thành viên khác trong cộng đồng
+## Giúp đỡ các thành viên cộng đồng khác.
 
-Nếu bạn thấy ai đó đang gặp vấn đề với game, hãy giúp họ một tay! Cho dù đó là vấn đề về phần cứng, câu hỏi về game hoặc beatmap, nếu bạn có thể trả lời được thì bạn có thể giúp họ giải quyết vấn đề.
+Nếu bạn gặp ai đó có một vấn đề với game, sẵn sàng giúp đỡ họ! Cho dù nó là một vấn đề về phần cứng, câu hỏi về beatmap hoặc lối chơi, nếu bạn có thể trả lời nó, bạn có thể giúp người ấy trong giải quyết vẫn đề của họ.
 
-Sau đây là các gợi ý để bạn có thể bắt đầu giúp đỡ người khác trên diễn đàn:
+Dưới đây là một số tóm tắt làm sao bạn có thể bắt đầu giúp đỡ người khác trên diễn đàn:
 
 - Chọn một diễn đàn thu hút sự quan tâm của bạn, ví dụ:
-  - [Help](https://osu.ppy.sh/community/forums/5)
-  - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
+  - [Giúp đỡ](https://osu.ppy.sh/community/forums/5)
+  - [Thảo luận tạo beatmap](https://osu.ppy.sh/community/forums/56)
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Skinning](https://osu.ppy.sh/community/forums/15)
-  - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
+  - [lối chơi và xếp hạng](https://osu.ppy.sh/community/forums/13)
 - Đọc qua các bài đăng được ghim ở diễn đàn để tìm hiểu các quy tắc cụ thể dành riêng cho từng diễn đàn nhỏ và những thông tin hữu ích ở trong bài đăng đó.
-- Sử dụng nút `Mark forum as read` ở trên cùng.
-- Theo dõi tất cả các chủ đề mới, đọc từng chủ đề và trợ giúp khi có thể — bạn có thể sử dụng biểu tượng chưa đọc để chắc chắn rằng bạn bắt kịp với mọi thông tin.
-- Đọc các [hướng dẫn có sẵn](/wiki/Guides) để cải thiện kiến thức về osu! của bạn. Nếu những hướng dẫn đó không giúp được bạn thì bạn có thể thử đóng góp vào các hướng dẫn ấy!
-
+- Sử dụng nút `đánh dấu diễn đàn đã đọc` trên cùng.
+- Theo dõi bất kỳ các chủ đề mới, đọc từng cái một và trợ giúp khi bạn có thể — bạn có thể sử dụng biểu tượng chưa đọc để đảm bảo rằng bạn theo kịp.
+- Đọc các [hướng dẫn có sẵn](/wiki/Guides) để nâng cao kiến thức osu! của bạn.Nếu các hướng dẫn trong đó không làm bạn hài lòng, thì bạn có thể thử đóng góp vào chúng!
 ## Giúp kiểm tra/mod các beatmap
 
-osu! có một đội ngũ đánh giá tận tâm, những [Đề cử viên](/wiki/People/Beatmap_Nominators), để kiểm tra các [beatmap](/wiki/Beatmap) được gửi đã sẵn sàng để xếp hạng và chơi hay chưa. Tuy nhiên, điều đó không có nghĩa là bạn không thể đóng góp cho lĩnh vực này:
+osu! có một đội ngũ đánh giá tận tâm để xem xét, những [người đề cử beatmap](/wiki/People/Beatmap_Nominators), để kiểm tra nếu các [beatmap](/wiki/Beatmap) được gửi đã sẵn sàng để xếp hạng và chơi bởi mọi người hay chưa. Tuy nhiên, điều đó không có nghĩa là bạn không thể đóng góp cho lĩnh vực này:
 
-- Xem qua hoặc tìm kiếm danh sách [Beatmap Đang chờ](https://osu.ppy.sh/beatmapsets?s=pending) để tìm bất kỳ nghệ sĩ hoặc bài hát nào bạn thích/muốn đóng góp.
+- Xem qua hoặc tìm kiếm danh sách [Beatmap đang chờ](https://osu.ppy.sh/beatmapsets?s=pending) nghe với bất kỳ nghệ sĩ hoặc các bài hát nào bạn thích/ và muốn đóng góp.
 - Chơi các beatmap đang trong giai đoạn [Đang chờ hoặc WIP](/wiki/Beatmap/Category#wip-and-pending) và để lại phản hồi trên trang thảo luận beatmap.
-- Đọc [Hướng dẫn Modding](/wiki/Modding) và [Tiêu chuẩn xếp hạng](/wiki/Ranking_criteria) để biết những điều cơ bản về modding chuyên môn và điều gì làm cho beatmap có thể xếp hạng được.
-- Tham gia kênh `#mapping` và `#modreqs` ở phần trò chuyện trong game. Bạn có thể tham gia trò chuyện hoặc chỉ theo dõi.
-- Nếu bạn có thời gian và tâm huyết, hãy tạo một [Hàng chờ Modding](https://osu.ppy.sh/community/forums/6) để người tạo beatmap có thể đến để nhận gợi ý sửa đổi beatmap.
+- Đọc [Hướng dẫn Modding](/wiki/Modding) và [Tiêu chuẩn xếp hạng](/wiki/Ranking_criteria) để biết những điều cơ bản liên quan đến kỹ thuật modding và điều gì làm một beatmap có thể xếp hạng.
+- Tham gia kênh `#mapping` và `#modreqs` ở kênh trò chuyện trong trò chơi và hoặc tham gia vào cuộc trò chuyện hoặc chỉ theo dõi. 
+- Nếu bạn có thời gian và tâm huyết, hãy chuẩn bị một [Hàng chờ Modding](https://osu.ppy.sh/community/forums/6) để cho tạo beatmap một nơi để yêu cầu của bạn với các mod 
 
 ## Đưa ra góp ý về quá trình chơi hoặc skin của người chơi!
 
@@ -79,3 +78,4 @@ Người xưa có câu "hãy là một phần của giải pháp, đừng là m�
 - Hãy cố gắng hòa giải các tình huống tiêu cực và biến chúng thành kết quả tích cực.
 
 **Mặc dù bài viết này không thể đề cập tất cả các cách để bạn có thể đóng góp cho cộng đồng của osu!, nhưng chỉ cần chơi game thôi cũng có thể giúp osu! thậm chí còn tuyệt vời hơn nữa!**
+
