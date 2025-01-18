@@ -4,7 +4,6 @@ outdated_translation: true
 outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
 ---
 
-
 # Klien turnamen osu!
 
 **Klien turnamen osu!** merupakan klien resmi yang meng-*overlay* [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) dengan berbagai adegan tambahan dan informasi yang berhubungan dengan turnamen dalam tayangan siaran langsung.
