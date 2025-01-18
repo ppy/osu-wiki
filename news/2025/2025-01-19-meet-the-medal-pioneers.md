@@ -1,12 +1,12 @@
 ---
 layout: post
 title: meet the medal pioneers
-date: 2025-01-15 18:00:00 +0000
+date: 2025-01-19 18:00:00 +0000
 ---
 
 Let's take a trip down memory lane and meet the people who were the first to dominate each and every medal in osu! history.
 
-![](/wiki/shared/news/2025-01-15-meet-the-medal-pioneers/banner.jpg)
+![](/wiki/shared/news/2025-01-19-meet-the-medal-pioneers/banner.jpg)
 
 Are you a new or seasoned medal enjoyer? Are you also a history buff? Regardless of how you answer this, you're in for a treat! We've published [a new wiki article](/wiki/Medals/First_medal_unlocks) that contains a compendium of all the first people to achieve each and every medal out there.
 
