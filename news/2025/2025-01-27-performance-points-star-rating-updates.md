@@ -103,6 +103,7 @@ As a result of this change, the old penalty applied in speed PP for 50s has now 
 - A [fix](https://github.com/ppy/osu/pull/30544) proposed by [Finadoggie](https://osu.ppy.sh/users/14182048) to ensure estimated slider drops cannot go below zero.
 - A [fix](https://github.com/ppy/osu/pull/30618) proposed by [Natelytle](https://osu.ppy.sh/users/17607667) to ensure osu!(lazer)'s PP counter does not display NaN numbers while star rating is zero.
 - A [set](https://github.com/ppy/osu/pull/30536) [of](https://github.com/ppy/osu/pull/30534) [refactors](https://github.com/ppy/osu/pull/31520) proposed by [StanR](https://osu.ppy.sh/users/7217455), [ltca](https://osu.ppy.sh/users/11475208) and [Natelytle](https://osu.ppy.sh/users/17607667) to aid with development.
+- A [change](https://github.com/ppy/osu/pull/31449) proposed by [StanR](https://osu.ppy.sh/users/7217455) to simplify the angle bonus formulas in aim calculations.
 
 ## osu!taiko
 
