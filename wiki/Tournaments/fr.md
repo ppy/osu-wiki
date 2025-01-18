@@ -131,7 +131,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 4 Digit World Cup 2020 | 28/06/2020 | 28/09/2020 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis | ::{ flag=RU }:: Fédération de Russie |
 | 4 Digit World Cup 2022 | 05/12/2021 | 06/03/2022 | ::{ flag=CN }:: Chine | ::{ flag=SG }:: Singapour | ::{ flag=CA }:: Canada |
 | 4 Digit World Cup 2023 | 07/05/2023 | 23/07/2023 | ::{ flag=US }:: États-Unis | ::{ flag=CA }:: Canada | ::{ flag=TH }:: Thaïlande |
-| [4 Digit World Cup 2024](4WC/2024) | 04/05/2024 | 16/06/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [4 Digit World Cup 2024](4WC/2024) | 04/05/2024 | 16/06/2024 | ::{ flag=US }:: États-Unis | ::{ flag=CA }:: Canada | ::{ flag=CN }:: Chine |
 
 #### Aetherian's Summer Singles
 
