@@ -14,6 +14,8 @@ Going forward, we will be attempting to releasing updates for performance points
 
 All changes made in this round are intended to keep the general understanding of per-score pp values the same. This means that if a score's (or beatmap's max) pp value has decreased, it is due to that beatmap or score being overweighted until now. As a result, individual users may see a large jump in their pp, in either direction.
 
+If you find yourself scratching your head when reading, consider consulting the [performance points (pp)](/wiki/Performance_points) wiki article to gain a greater understanding of the topics.
+
 ## Release schedule
 
 ### ⏳ Star rating recalculation (24 - 48 hours)
