@@ -58,7 +58,7 @@ This will fix scores being out of order on profiles under "best performance", an
 
 The acute angle bonus is a bonus inside of aim calculations for BPMs greater than 300. It is used to reward fast, difficult aim patterns.
 
-A [set](https://github.com/ppy/osu/pull/30902) [of](https://github.com/ppy/osu/pull/31245) [changes](https://github.com/ppy/osu/pull/31320) proposed by [StanR](https://osu.ppy.sh/users/7217455) (with some contributions by [tsunyoku](https://osu.ppy.sh/users/11315329)) have been created in order to make this bonus more fairer towards difficult patterns, and to nerf more overweighted ones. These changes make repeated angles less awarded than previously and also overall assess better which patterns are difficult. There was also a change to uncap velocity constraints that used to exist on the bonus allowing for some very hard *acute* angle high BPM maps to receive a greater buff.
+A [set](https://github.com/ppy/osu/pull/30902) [of](https://github.com/ppy/osu/pull/31245) [various](https://github.com/ppy/osu/pull/31320) [changes](https://github.com/ppy/osu/pull/31566) proposed by [StanR](https://osu.ppy.sh/users/7217455) (with some contributions by [tsunyoku](https://osu.ppy.sh/users/11315329)) have been created in order to make this bonus more fairer towards difficult patterns, and to nerf more overweighted ones. These changes make repeated angles less awarded than previously and also overall assess better which patterns are difficult. There was also a change to uncap velocity constraints that used to exist on the bonus allowing for some very hard *acute* angle high BPM maps to receive a greater buff.
 
 Some examples of maps buffed by this change:
 
