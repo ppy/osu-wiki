@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: January 18, 2024"
-date: 2025-01-18 17:15:00 +0000
+date: 2025-01-19 17:15:00 +0000
 ---
 
 New year, new osu!(lazer) updates.
 
-![](/wiki/shared/news/2025-01-18-osulazer-updates-january-18-2025/banner.jpg)
+![](/wiki/shared/news/2025-01-19-osulazer-updates-january-18-2025/banner.jpg)
 
 The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iOS release is still not ready for the public, there are other things cooking up, along with a major multiplayer change dubbed "freestyle" coming very soon to a device near you!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/FOb9v4BZ118" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Editor changes
@@ -20,7 +20,7 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-01-19-lazer-editor-storyboard-view.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -28,11 +28,7 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 
 - **Bookmarks have been added.** Finally, bookmarks.
 
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
-    </video>
-</div>
+![Editor bookmark shortcuts](/wiki/shared/news/2025-01-19-osulazer-updates-january-18-2025/bookmarks.jpg)
 
 - **The beat snap divisor is now changed with `ctrl` + scroll.** Previously `ctrl` + `shift` + scroll, the bindings are changed to match osu!(stable).
 - **The metronome can now be sped up when pressing `ctrl`.** The speed change will depend on the chosen snap divisor.
@@ -41,7 +37,7 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-01-19-lazer-colourhax.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -56,7 +52,7 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 
 ### Skinning changes
 
-- **New `SkinableModDisplay` element has been added.** This element shows all active mods, and while it doesn't replace the already existing mod display, it can have its own uses.
+- **New `SkinnableModDisplay` element has been added.** This element shows all active mods, and while it doesn't replace the already existing mod display, it can have its own uses.
 - **You can now rename your skins.** A rename button has been added for any currently selected skin, so now you can get rid of all the `(Modified)` suffixes added to all the skins that were changed in the skin editor.
 
 ### Other changes
@@ -65,28 +61,23 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-01-19-lazer-10-sec-multi-countdown.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
 - **Multiplayer rooms can be filtered by their status.** The room listing will now show whether a room is already playing a map, and those rooms can be filtered out.
 - **Friend leaderboard scores are now highlighted yellow.** A small feature that's been missed by many.
-
-![](screenshot)
-
 - **Notifications for friends going online/offline have been added.** This makes stalking your friends on osu!(lazer) much easier!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-01-19-online-notification.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
 - **The recommended difficulty value is now visible in the in-game beatmap listing.** Previously only available on the osu! website, this value is now displayed in-game as well, allowing you what star rating osu! thinks you should play.
 - **Maps can now be marked as played in song select.** Previously named `Removed from unplayed` the `options` menu in song select, this button now actually works, and has been renamed to `Mark as played`.
 - **Extensions are now better handled in order to support side-by-side osu!(stable) and osu!(lazer) installs.** This means that within Windows you can specify which version of the game should open when opening osu! related files, as well as select default apps for extensions of the aforementioned files. There are still things to polish out, but this is a major step forward.
-
-![](screenshot)
 
 ---
 
