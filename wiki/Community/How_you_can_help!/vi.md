@@ -57,7 +57,7 @@ Dưới đây chỉ là một số cách bạn có thể đóng góp:
 
 - Duyệt qua diễn đàn các [Giải đấu](https://osu.ppy.sh/community/forums/55). Các giải đấu đòi hỏi rất nhiều thời gian và công sức để tổ chức mà không gặp trục trặc, và bạn có thể giúp đỡ bằng cách làm trọng tài khán giả trong một số trường hợp
 - Hãy kiểm tra những gì đang diễn ra trong diễn đàn [Phát triển](https://osu.ppy.sh/community/forums/2); đây là nơi hầu hết các dự án nghiêm túc diễn ra.
-  - Tham gia [máy chủ Discord của osu!]() Thậm chí chỉ cần theo dõi và cập nhật thông tin về sự phát triển và các dự án osu! cũng là một cách tốt để nắm bắt thông tin.
+  - Tham gia [máy chủ Discord của osu!](https://discord.com/invite/ppy) Thậm chí chỉ cần theo dõi và cập nhật thông tin về sự phát triển và các dự án osu! cũng là một cách tốt để nắm bắt thông tin.
 - Tham gia một [dự án beatmap](https://osu.ppy.sh/community/forums/53) khám phá cách làm việc nhóm với người khác thú vị như thế nào!" .
 - Bắt đầu dự án của riêng bạn hoặc tham gia vào dự án của người khác! Dù là đưa lại Pippi nhảy múa hay chỉ tạo ra một thứ gì đó hay ho cho osu!, bất cứ điều gì cũng được chấp nhận.
   - Xem qua [danh sách các dự án phổ biến](/wiki/Community/Projects).
