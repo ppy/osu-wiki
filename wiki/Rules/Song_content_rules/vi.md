@@ -4,7 +4,7 @@ Với một loạt các thể loại nhạc khác nhau có sẵn, hầu hết c�
 
 - Liên quan nặng nề đến vấn đề chính trị
 - Phân biệt hoặc chia rẽ chủng tộc
-- Cực kỳ ồn ào và đến mức không thể chịu được 
+- Cực kỳ và quá to đến mức không thể chịu nổi 
 - Đã được sửa đổi (chứa âm thanh đã bị cắt) hoặc móp méo (như chỉnh EQ tránh bản quyền) bài nhạc không theo mong muốn của tác giả
 
  Nhưng hãy lưu ý rằng các bài hát với nội dung chứa yếu tố không phù hợp [được điểu chỉnh bởi các quy định khác nhau](/wiki/Rules/Explicit_content).
@@ -23,4 +23,4 @@ Mỗi lần bài nộp của bạn bị xóa, bạn sẽ được được cung 
 
 Bạn có thể phản đối điều đó với họ qua chat riêng nếu bạn muốn, hoặc tìm ý kiến của người khác để làm cơ sở cho yêu cầu của bạn về tính phù hợp của bài nhạc. Nếu bạn vẫn không thể tìm được sự đồng thuận trong vấn đề này,yêu cầu của bạn có thể được nâng lên thành một cuộc bỏ phiếu đồng thuận giữa các thành viên hiện tại của NAT, ai sẽ cùng nhau quyết định xem bài nhạc của bạn có chấp nhận được hay không.
 
-Không bao gồm những bài tải lên cực kỳ không phù hợp, tất cả các người dùng được trao một **ngoại lệ cho một lần gửi** Trước khi các hình phạt được áp dụng vì tính không chắc chắn của quyết định này, sau khi ngoại lệ này đã trôi qua, những người dùng liên tục chọn tải lên những bài nhạc không phù hợp sẽ đối mặt với một khoảng thời gian [im lặng](/wiki/Silence) lên đến 42 giờ cùng với Việc gỡ bỏ bài nộp của họ.
+Không bao gồm những bài tải lên cực kỳ không phù hợp, tất cả các người dùng được trao một **ngoại lệ cho một lần gửi** Trước khi các hình phạt được áp dụng vì tính không chắc chắn của quyết định này, sau khi ngoại lệ này đã trôi qua, những người dùng liên tục chọn tải lên những bài nhạc không phù hợp sẽ đối mặt với một khoảng thời gian [im lặng](/wiki/Silence) lên đến 42 giờ cùng với việc gỡ bỏ bài nộp của họ.
