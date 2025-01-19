@@ -232,6 +232,6 @@
 
 ## 참조
 
-[^maximum-dimensions]: 스토리보드 이미지로도 사용하는 배경의 최대 크기는 [스토리보드의 이미지 규칙](/wiki/Ranking_criteria#규칙.7)을 따를 수 있습니다.
+[^maximum-dimensions]: 스토리보드 이미지로도 사용하는 배경의 최대 크기는 [스토리보드의 이미지 규칙](/wiki/Ranking_criteria#규칙.6)을 따를 수 있습니다.
 [^normal-vs-addition]: [히트 사운드](/wiki/Beatmapping/Hitsound)는 항상 표현되는 *hitnormal* 샘플과 휘슬, 피니시, 클랩 샘플의 조합인 *additions*로 구성됩니다.
 [^songs-comp-note]: 다음 규칙은 [송 컴필레이션](/wiki/Beatmap/Song_compilation)에는 적용되지 않습니다.
