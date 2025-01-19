@@ -27,7 +27,7 @@ Dưới đây là một số tóm tắt làm sao bạn có thể bắt đầu gi
 
 - Chọn một diễn đàn thu hút sự quan tâm của bạn, ví dụ:
   - [Giúp đỡ](https://osu.ppy.sh/community/forums/5)
-  - [Thảo luận tạo beatmap](https://osu.ppy.sh/community/forums/56)
+  - [Thảo luận mapping](https://osu.ppy.sh/community/forums/56)
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Skinning](https://osu.ppy.sh/community/forums/15)
   - [Lối chơi và xếp hạng](https://osu.ppy.sh/community/forums/13)
@@ -39,7 +39,7 @@ Dưới đây là một số tóm tắt làm sao bạn có thể bắt đầu gi
 
 osu! có một đội ngũ đánh giá tận tâm để xem xét, những [người đề cử beatmap](/wiki/People/Beatmap_Nominators), để kiểm tra nếu các [beatmap](/wiki/Beatmap) được gửi đã sẵn sàng để xếp hạng và chơi bởi mọi người hay chưa. Tuy nhiên, điều đó không có nghĩa là bạn không thể đóng góp cho lĩnh vực này:
 
-- Xem qua hoặc tìm kiếm danh sách [Beatmap đang chờ](https://osu.ppy.sh/beatmapsets?s=pending) nghe với bất kỳ nghệ sĩ hoặc các bài hát nào bạn thích/ và muốn đóng góp.
+- Xem qua hoặc tìm kiếm danh sách [Beatmap đang chờ](https://osu.ppy.sh/beatmapsets?s=pending) danh sách với bất kỳ các nghệ sĩ hoặc các bài hát nào bạn thích/ và muốn đóng góp.
 - Chơi các beatmap đang trong giai đoạn [Đang chờ hoặc WIP](/wiki/Beatmap/Category#wip-and-pending) và để lại phản hồi trên trang thảo luận beatmap.
 - Đọc [Hướng dẫn Modding](/wiki/Modding) và [Tiêu chuẩn xếp hạng](/wiki/Ranking_criteria) để biết những điều cơ bản liên quan đến kỹ thuật modding và điều gì làm một beatmap có thể xếp hạng.
 - Tham gia kênh `#mapping` và `#modreqs` ở kênh trò chuyện trong trò chơi và hoặc tham gia vào cuộc trò chuyện hoặc chỉ theo dõi. 
