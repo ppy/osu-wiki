@@ -87,3 +87,4 @@ These servers aim to provide users with resources to help them in their [storybo
 |  | Name | Owner | Description |
 | :-: | :-- | :-- | :-- |
 | [![](img/Aiess-Project.png)](https://discord.com/invite/2XV5dcW) | [Aiess Project](https://discord.com/invite/2XV5dcW) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | The **Aiess Project** maintains several feeds that inform members of events that happen in osu! on a regular basis, such as [beatmap category](/wiki/Beatmap/Category) changes, [user group](/wiki/People/User_group) updates, and news posts. |
+| [![](img/osu!-ru.png)](https://discord.gg/JPJUPJ2A5F) | [OSU! RU](https://discord.gg/JPJUPJ2A5F) | ::{ flag=RU }:: [[ Mashiro ]](https://osu.ppy.sh/users/17848748) | The **OSU! RU** discord server offers russian speakers a space for everything osu! related. From mapping & modding help, to hosting their own contests and tournaments. |
