@@ -183,7 +183,7 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![](/wiki/shared/medals/all-secret-unwilted.png) | Unwilted | ::{ flag=ID }:: [-Minz-](https://osu.ppy.sh/users/20578672) | 1 Jan 2024 (14:06:48) |
 | ![](/wiki/shared/medals/all-secret-pioneer.png) | Pioneer | - | - |
 | ![](/wiki/shared/medals/osu-secret-overcooked.png) | Overcooked? | ::{ flag=CL }:: [GalaxyGaming](https://osu.ppy.sh/users/4587526) | 25 Dec 2024 (05:29:27) |
-| ![](/wiki/shared/medals/taiko-secret-stargazer.png) | Stargazer | - | - |
+| ![](/wiki/shared/medals/taiko-secret-stargazer.png) | Stargazer | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 18 Jan 2025 (16:09:11) |
 | ![](/wiki/shared/medals/osu-secret-candescence.png) | Candescence | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 25 Dec 2024 (04:44:36) |
 | ![](/wiki/shared/medals/osu-secret-icefairy.png) | The Strongest Ice Fairy | ::{ flag=CL }:: [Bomb](https://osu.ppy.sh/users/10218998) | 26 Dec 2024 (07:43:13) |
 
