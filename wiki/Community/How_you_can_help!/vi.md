@@ -58,24 +58,24 @@ Dưới đây chỉ là một số cách bạn có thể đóng góp:
 - Duyệt qua diễn đàn các [Giải đấu](https://osu.ppy.sh/community/forums/55). Các giải đấu đòi hỏi rất nhiều thời gian và công sức để tổ chức mà không gặp trục trặc, và bạn có thể giúp đỡ bằng cách làm trọng tài khán giả trong một số trường hợp
 - Hãy kiểm tra những gì đang diễn ra trong diễn đàn [Phát triển](https://osu.ppy.sh/community/forums/2); đây là nơi hầu hết các dự án nghiêm túc diễn ra.
   - Tham gia [máy chủ Discord của osu!]() Thậm chí chỉ cần theo dõi và cập nhật thông tin về sự phát triển và các dự án osu! cũng là một cách tốt để nắm bắt thông tin.
-- Tham gia một [dự án beatmap](https://osu.ppy.sh/community/forums/53) và học cách làm ...............
-- Bắt đầu dự án của riêng bạn hoặc tham gia dự án của người khác! Cho dù đó là pippi nhảy múa hay đơn giản là làm điều gì đó thú vị cho osu!, cái gì cũng tốt cả.
+- Tham gia một [dự án beatmap](https://osu.ppy.sh/community/forums/53) khám phá cách làm việc nhóm với người khác thú vị như thế nào!" .
+- Bắt đầu dự án của riêng bạn hoặc tham gia vào dự án của người khác! Dù là đưa lại Pippi nhảy múa hay chỉ tạo ra một thứ gì đó hay ho cho osu!, bất cứ điều gì cũng được chấp nhận.
   - Xem qua [danh sách các dự án phổ biến](/wiki/Community/Projects).
 
 ## Đóng góp cho tương lai của osu!
 
-Bắt đầu vào năm 2017, dự án [osu!(lazer)](/wiki/Client/Release_stream/Lazer) là trọng tâm hiện tại của [đội ngũ osu!](/wiki/People/osu!_team) và cùng với trang web mới, là những gì bạn thấy ngày hôm nay! Nếu bạn muốn làm cho những dự án này trở nên tốt hơn nữa và đến gần hơn với tương lai của osu!, thì bạn có thể giúp một số việc và dưới đây là một số ví dụ:
+Đã bắt đầu vào năm 2017, dự án [osu!(lazer)](/wiki/Client/Release_stream/Lazer) là mục tiêu hiện tại của [đội ngũ osu!](/wiki/People/osu!_team) và cùng với trang web mới, là những gì bạn thấy ngày hôm nay! Nếu bạn muốn giúp cải thiện các dự án này và đưa chúng đến gần hơn với tương lai của osu!, có một số việc bạn có thể làm và dưới đây chỉ là một số ví dụ:
 
 - Giúp đỡ dự án [osu!(lazer)](https://github.com/ppy/osu). Có rất nhiều thứ cần triển khai trên phiên bản mới của osu!, và bạn có thể giúp biến điều đó thành hiện thực!
 - Làm cho [trang web](https://github.com/ppy/osu-web) ngày càng tốt hơn.
 
 ## Tránh thái độ tiêu cực! Làm cho mọi người vui vẻ!
 
-Có một câu cũ nói rằng "bạn nên trở thành một phần của giải pháp, không phải của vấn đề". Chỉ cần làm theo câu nói này, bạn sẽ giúp được osu! bằng cách làm cho cộng đồng trở thành một nơi tươi sáng hơn. Mọi người sẽ luôn phàn nàn, nhưng vẫn có rất nhiều việc bạn có thể làm để giúp cải thiện tâm trạng của mọi người:
+Có một câu cũ nói rằng "bạn nên trở thành một phần của giải pháp, không phải của vấn đề". Chỉ cần làm theo câu nói này, bạn sẽ giúp được osu! bằng cách làm cho cộng đồng trở thành một nơi tươi sáng hơn. Mọi người sẽ luôn phàn nàn, nhưng vẫn còn rất nhiều cách bạn có thể giúp làm nhẹ bớt không khí trong cộng đồng:
 
 - Hãy thân thiện với mỗi người khác; cuộc sống quá ngắn để tranh luận.
-- [Báo cáo những kẻ gian lận khi bạn nhìn thấy chúng](/wiki/Reporting_bad_behaviour/Handling_foul_play). Vui lòng không phàn nàn về những người này thông qua các phương tiện khác vì chỉ cần một câu đơn giản là `!report <tên người dùng> seems to be cheating` là đủ để vấn đề của bạn đi khuất mắt chỉ trong vài phút đến vài giờ.
-- Hãy cố gắng hòa giải các tình huống tiêu cực và biến chúng thành kết quả tích cực.
+- [Báo cáo những kẻ gian lận khi bạn nhìn thấy chúng](/wiki/Reporting_bad_behaviour/Handling_foul_play). Vui lòng không phàn nàn về họ thông qua những người khác vì chỉ cần một câu đơn giản là `!report <tên người dùng> seems to be cheating` có thể giải quyết vấn đề của bạn trong vòng từ vài phút đến vài giờ..
+- Hãy vượt qua khó khăn để hòa giải các tình huống tiêu cực và biến chúng thành kết quả tích cực.
 
-**Mặc dù bài viết này không thể đề cập tất cả các cách để bạn có thể đóng góp cho cộng đồng của osu!, nhưng chỉ cần chơi game thôi cũng có thể giúp osu! thậm chí còn tuyệt vời hơn nữa!**
+**Mặc dù bài viết này không thể đề cập hết cách bạn có thể giúp đỡ cộng đồng osu!, chỉ đơn giản là chơi game cũng đã có thể làm osu! trở nên tuyệt vời hơn!**
 
