@@ -82,6 +82,8 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 - **Maps can now be marked as played in song select.** Previously named `Removed from unplayed` the `options` menu in song select, this button now actually works, and has been renamed to `Mark as played`.
 - **File extensions are now better handled in order to support side-by-side osu!(stable) and osu!(lazer) installs.** This means that, within Windows, you can specify which version of the game should open when clicking osu!-related files. There are still things to polish out, but this is a major step forward.
 
+![Default app selection on Windows](/wiki/shared/news/2025-01-19-osulazer-updates-january-19-2025/file-extensions.jpg)
+
 ---
 
 If your New Year's resolution didn't include playing osu!(lazer), it's still not too late to [start now](https://osu.ppy.sh/home/download)! If you are curious about all the changes that we didn't mention above, feel free to check out the latest [changelog](https://osu.ppy.sh/home/changelog/lazer/2025.118.0).
