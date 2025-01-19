@@ -30,10 +30,10 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 
 ![Editor bookmark shortcuts](/wiki/shared/news/2025-01-19-osulazer-updates-january-19-2025/bookmarks.jpg)
 
-- **The beat snap divisor is now changed with `ctrl` + scroll.** Previously `ctrl` + `shift` + scroll, the bindings are changed to match osu!(stable).
-- **The metronome can now be sped up when pressing `ctrl`.** The speed change will depend on the chosen snap divisor.
+- **The beat snap divisor is now changed with `Ctrl` + scroll.** Previously `Ctrl` + `Shift` + scroll, the bindings are changed to match osu!(stable).
+- **The metronome can now be sped up when pressing `Ctrl`.** The speed change will depend on the chosen snap divisor.
 
-- **You can now override combo colours.** *[Colourhaxing](wiki/Beatmapping/Colourhaxing)* has been made way more convenient, with a GUI element allowing you to select any colour you want for any hit circle, and automatically resuming the colour rotation from the last selected colour.
+- **You can now override combo colours.** *[Colourhaxing](/wiki/Beatmapping/Colourhaxing)* has been made way more convenient, with a GUI element allowing you to select any colour you want for any hit circle, and automatically resuming the colour rotation from the last selected colour.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
