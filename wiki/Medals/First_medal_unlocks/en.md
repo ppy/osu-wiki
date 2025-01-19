@@ -180,9 +180,9 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![Hybrid Hyperion](/wiki/shared/medals/all-secret-hybrid.png) | Hybrid Hyperion | ::{ flag=MX }:: [Agamalpa](https://osu.ppy.sh/users/15420662) | 31 Dec 2023 (04:25:09) |
 | ![Divination Break](/wiki/shared/medals/all-secret-divinationbreak.png) | Divination Break | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 31 Dec 2023 (21:27:24) |
 | ![Unwilted](/wiki/shared/medals/all-secret-unwilted.png) | Unwilted | ::{ flag=ID }:: [-Minz-](https://osu.ppy.sh/users/20578672) | 1 Jan 2024 (14:06:48) |
-| ![Pioneer](/wiki/shared/medals/all-secret-pioneer.png) | Pioneer | *N/A* | *N/A* |
+| ![Pioneer](/wiki/shared/medals/all-secret-pioneer.png) | Pioneer | - | - |
 | ![Overcooked?](/wiki/shared/medals/osu-secret-overcooked.png) | Overcooked? | ::{ flag=CL }:: [GalaxyGaming](https://osu.ppy.sh/users/4587526) | 25 Dec 2024 (05:29:27) |
-| ![Stargazer](/wiki/shared/medals/taiko-secret-stargazer.png) | Stargazer | *N/A* | *N/A* |
+| ![Stargazer](/wiki/shared/medals/taiko-secret-stargazer.png) | Stargazer | - | - |
 | ![Candescence](/wiki/shared/medals/osu-secret-candescence.png) | Candescence | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 25 Dec 2024 (04:44:36) |
 | ![The Strongest Ice Fairy](/wiki/shared/medals/osu-secret-icefairy.png) | The Strongest Ice Fairy | ::{ flag=CL }:: [Bomb](https://osu.ppy.sh/users/10218998) | 26 Dec 2024 (07:43:13) |
 
@@ -377,9 +377,9 @@ This is a compendium of the first users to unlock each medal in osu! history.
 
 ## Trivia
 
-The first person to unlock a medal was [Echo](https://osu.ppy.sh/users/431) on 1 Aug 2008 (23:08:56) with the **500 Combo** medal.
+The first person to unlock a medal was [Echo](https://osu.ppy.sh/users/431) on 1 August 2008 (23:08:56) with the **500 Combo** medal.
 
-These statistics were first announced to the public via [this news post](https://osu.ppy.sh/home/news/2025-01-19-meet-the-medal-pioneers).
+These statistics were first announced to the public via [a news post](https://osu.ppy.sh/home/news/2025-01-19-meet-the-medal-pioneers) on January 2025.
 
 Below are various notable milestones related to first medal unlocks:
 
