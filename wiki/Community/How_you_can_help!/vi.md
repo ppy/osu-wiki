@@ -74,7 +74,7 @@ Dưới đây chỉ là một số cách bạn có thể đóng góp:
 Có một câu cũ nói rằng "bạn nên trở thành một phần của giải pháp, không phải của vấn đề". Chỉ cần làm theo câu nói này, bạn sẽ giúp được osu! bằng cách làm cho cộng đồng trở thành một nơi tươi sáng hơn. Mọi người sẽ luôn phàn nàn, nhưng vẫn còn rất nhiều cách bạn có thể giúp làm nhẹ bớt không khí trong cộng đồng:
 
 - Hãy thân thiện với mỗi người khác; cuộc sống quá ngắn để tranh luận.
-- [Báo cáo những kẻ gian lận khi bạn nhìn thấy chúng](/wiki/Reporting_bad_behaviour/Handling_foul_play). Vui lòng không phàn nàn về họ thông qua những người khác vì chỉ cần một câu đơn giản là `!report <tên người dùng> seems to be cheating` có thể giải quyết vấn đề của bạn trong vòng từ vài phút đến vài giờ..
+- [Báo cáo những kẻ gian lận khi bạn nhìn thấy chúng](/wiki/Reporting_bad_behaviour/Handling_foul_play). Vui lòng không phàn nàn về họ thông qua những người khác vì chỉ cần một câu đơn giản là `!report <tên người dùng> seems to be cheating` có thể giải quyết vấn đề của bạn trong vòng từ vài phút đến vài giờ.
 - Hãy vượt qua khó khăn để hòa giải các tình huống tiêu cực và biến chúng thành kết quả tích cực.
 
 **Mặc dù bài viết này không thể đề cập hết cách bạn có thể giúp đỡ cộng đồng osu!, chỉ đơn giản là chơi game cũng đã có thể làm osu! trở nên tuyệt vời hơn!**
