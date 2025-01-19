@@ -67,6 +67,9 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 
 - **Multiplayer rooms can now be filtered by their status.** The room listing will now show whether a room is already playing a map, and those rooms can be filtered out.
 - **Friend leaderboard scores are now highlighted yellow.** A small feature that's been missed by many.
+
+![Yellow name on a beatmap leaderboard](/wiki/shared/news/2025-01-19-osulazer-updates-january-19-2025/yellow-fellow.jpg)
+
 - **Notifications for friends going online and offline have been added.** You'll now be able to say hello to your friends as soon as they open the game.
 
 <div align="center" class="osu-md__paragraph">
