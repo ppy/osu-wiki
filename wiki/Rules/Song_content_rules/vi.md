@@ -1,4 +1,4 @@
-# Quy định nội dung nhạc
+# Quy định nội dung bài hát
 
 Với một loạt các thể loại nhạc khác nhau có sẵn, hầu hết các bài hát sẽ được chấp nhận và sử dụng được trong osu!, nhưng hãy cung cấp các bài nhạc không chứa những nội dung liên quan như :
 
@@ -7,7 +7,7 @@ Với một loạt các thể loại nhạc khác nhau có sẵn, hầu hết c�
 - Cực kỳ ồn ào và đến mức không thể chịu được 
 - Đã được sửa đổi (chứa âm thanh đã bị cắt) hoặc móp méo (như chỉnh EQ tránh bản quyền) bài nhạc không theo mong muốn của tác giả
 
- Nhưng hãy nhớ rằng các bài hát với nội dung chứa yếu tố không phù hợp [được điểu chỉnh bởi các quy định khác nhau](/wiki/Rules/Explicit_content).
+ Nhưng hãy lưu ý rằng các bài hát với nội dung chứa yếu tố không phù hợp [được điểu chỉnh bởi các quy định khác nhau](/wiki/Rules/Explicit_content).
 
 ## Nội dung nào được xem là "chính trị nặng"?
 
