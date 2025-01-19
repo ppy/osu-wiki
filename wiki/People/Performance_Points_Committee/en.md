@@ -5,20 +5,20 @@ tags:
 
 # Performance Points Committee
 
-The **Performance Points Committee** is a panel of well-versed players and developers who facilitate and approve updates to the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) algorithms. Their goal is to help [osu! developers](/wiki/People/Developers) push changes faster and with more community coordination.
+The **Performance Points Committee** is a panel of well-versed players and developers who facilitate and approve updates to the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) algorithms.
 
 The Performance Points Committee's responsibilities include:
 
 - Organizing development efforts and helping contributors
 - Reviewing and developing changes in difficulty calculation algorithms
 - Deciding which changes will be deployed and used in the game
-- Assisting with writing news posts for newly deployed changes
+- Assisting the Performance Points Maintainers with writing news posts for newly deployed changes
 
 ## Workflow
 
-When a new difficulty calculation change is proposed on [GitHub](https://github.com/ppy/osu), the Performance Points Committee members responsible for the relevant [game mode](/wiki/Game_mode) are requested to review it. Those committee members then review and test the proposal and write feedback on its GitHub page. If the committee ultimately approves of the changes, the proposal will be passed on to [osu! developers](/wiki/People/Developers) for final code inspection before it is merged into the game.
+When a new difficulty calculation change is proposed on [GitHub](https://github.com/ppy/osu), the Performance Points Committee members responsible for the relevant [game mode](/wiki/Game_mode) are requested to review it. Those committee members then review and test the proposal and write feedback on its GitHub page. If the committee ultimately approves of the changes, the proposal will be passed on to the [Performance Points Maintainers](/wiki/People/Performance_Points_Maintainers) for final code inspection before it is merged into the game.
 
-The osu! developers prepare merged proposals to be deployed in batches. A deployment recalculates star ratings for all beatmaps and performance points for all scores and users. The Performance Points Committee helps write the news post that accompanies each deployment.
+The osu! developers prepare merged proposals to be deployed in batches. A deployment recalculates star ratings for all beatmaps and performance points for all scores and users.
 
 ## Communication
 
