@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "osu!(lazer) Updates: January 18, 2024"
+title: "osu!(lazer) Updates: January 19, 2024"
 date: 2025-01-19 17:15:00 +0000
 ---
 
 New year, new osu!(lazer) updates.
 
-![](/wiki/shared/news/2025-01-19-osulazer-updates-january-18-2025/banner.jpg)
+![](/wiki/shared/news/2025-01-19-osulazer-updates-january-19-2025/banner.jpg)
 
 The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iOS release is still not ready for the public, there are other things cooking up, along with a major multiplayer change dubbed "freestyle" coming very soon to a device near you!
 
@@ -28,7 +28,7 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 
 - **Bookmarks have been added.** Finally, bookmarks.
 
-![Editor bookmark shortcuts](/wiki/shared/news/2025-01-19-osulazer-updates-january-18-2025/bookmarks.jpg)
+![Editor bookmark shortcuts](/wiki/shared/news/2025-01-19-osulazer-updates-january-19-2025/bookmarks.jpg)
 
 - **The beat snap divisor is now changed with `ctrl` + scroll.** Previously `ctrl` + `shift` + scroll, the bindings are changed to match osu!(stable).
 - **The metronome can now be sped up when pressing `ctrl`.** The speed change will depend on the chosen snap divisor.
