@@ -66,4 +66,5 @@ All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) 
 
 ## See also
 
+- [First medal unlocks](First_medal_unlocks)
 - [Medal unlock requirements](Unlock_requirements)
