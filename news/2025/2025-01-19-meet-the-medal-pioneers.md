@@ -23,7 +23,7 @@ Here's a sneak peek to whet your appetite:
 | ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | First Expert Hush-Hush medal | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17 Aug 2016 (09:56:45) |
 | ![](/wiki/shared/medals/all-secret-trophy.png) | Creator's Gambit | First mapping-related medal | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 4 Nov 2022 (07:47:25) |
 
-Wondering who has the most first medals? Here's a top 14 leaderboard just for you:
+Wondering if anyone got first dibs more than once? Here's a top 14 leaderboard just for you:
 
 | Player | First medals unlocked |
 | :-- | --: |
