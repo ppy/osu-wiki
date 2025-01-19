@@ -51,8 +51,7 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![Creo](/wiki/shared/medals/all-packs-creo.png) | Creo | ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523) | 12 Mar 2020 (20:13:54) |
 | ![cYsmix](/wiki/shared/medals/all-packs-cysmix.png) | cYsmix | ::{ flag=FR }:: [rimjobber1](https://osu.ppy.sh/users/10671830) | 12 Mar 2020 (16:46:33) |
 | ![Fractal Dreamers](/wiki/shared/medals/all-packs-fractaldreamers.png) | Fractal Dreamers | ::{ flag=DE }:: [Bin_AFK](https://osu.ppy.sh/users/5840659) | 12 Mar 2020 (17:34:53) |
-| ![LukHash](/wiki/shared/medals/all-packs-lukhash.png) | LukHash | ::{ flag=DE }:: [Kerilia](https://osu.ppy.sh/users/7990615) | 12 Mar 2020 (15:38:34) |
-| ![LukHash](/wiki/shared/medals/all-packs-lukhash.png) | LukHash | ::{ flag=DE }:: [Akita](https://osu.ppy.sh/users/8923804) | 12 Mar 2020 (15:38:34) |
+| ![LukHash](/wiki/shared/medals/all-packs-lukhash.png) | LukHash | ::{ flag=DE }:: [Akita](https://osu.ppy.sh/users/8923804), ::{ flag=DE }:: [Kerilia](https://osu.ppy.sh/users/7990615) | 12 Mar 2020 (15:38:34) |
 | ![*namirin](/wiki/shared/medals/all-packs-namirin.png) | *namirin | ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523) | 12 Mar 2020 (20:39:08) |
 | ![onumi](/wiki/shared/medals/all-packs-onumi.png) | onumi | ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523) | 12 Mar 2020 (20:25:24) |
 | ![The Flashbulb](/wiki/shared/medals/all-packs-theflashbulb.png) | The Flashbulb | ::{ flag=MX }:: [chiliawa52](https://osu.ppy.sh/users/7057787) | 30 Mar 2020 (07:03:07) |
@@ -203,10 +202,7 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![Obsessed](/wiki/shared/medals/all-secret-obsessed.png) | Obsessed | ::{ flag=HK }:: [Hetry](https://osu.ppy.sh/users/793536) | 28 Aug 2012 (07:28:33) |
 | ![Nonstop](/wiki/shared/medals/all-secret-nonstop.png) | Nonstop | ::{ flag=JP }:: [tomo63887](https://osu.ppy.sh/users/1503391) | 28 Aug 2012 (12:52:26) |
 | ![Jack of All Trades](/wiki/shared/medals/all-secret-jack.png) | Jack of All Trades | ::{ flag=KR }:: [Bye](https://osu.ppy.sh/users/344783) | 28 Aug 2012 (07:34:48) |
-| ![Twin Perspectives](/wiki/shared/medals/mania-secret-meganekko.png) | Twin Perspectives | ::{ flag=PH }:: [uniqgirl_old](https://osu.ppy.sh/users/2283635) | 20 Apr 2016 (05:36:30) |
-| ![Twin Perspectives](/wiki/shared/medals/mania-secret-meganekko.png) | Twin Perspectives | ::{ flag=TH }:: [Shaimm](https://osu.ppy.sh/users/6171337) | 20 Apr 2016 (05:36:30) |
-| ![Twin Perspectives](/wiki/shared/medals/mania-secret-meganekko.png) | Twin Perspectives | ::{ flag=TW }:: [R4BT117](https://osu.ppy.sh/users/7834551) | 20 Apr 2016 (05:36:30) |
-| ![Twin Perspectives](/wiki/shared/medals/mania-secret-meganekko.png) | Twin Perspectives | ::{ flag=ID }:: [Hyoga_old_1](https://osu.ppy.sh/users/7950559) | 20 Apr 2016 (05:36:30) |
+| ![Twin Perspectives](/wiki/shared/medals/mania-secret-meganekko.png) | Twin Perspectives | ::{ flag=ID }:: [Hyoga_old_1](https://osu.ppy.sh/users/7950559), ::{ flag=TW }:: [R4BT117](https://osu.ppy.sh/users/7834551), ::{ flag=TH }:: [Shaimm](https://osu.ppy.sh/users/6171337), ::{ flag=PH }:: [uniqgirl_old](https://osu.ppy.sh/users/2283635) | 20 Apr 2016 (05:36:30) |
 | ![Time Dilation](/wiki/shared/medals/all-secret-tidi.png) | Time Dilation | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 17 Aug 2016 (13:49:48) |
 | ![Afterimage](/wiki/shared/medals/osu-secret-afterimage.png) | Afterimage | ::{ flag=VN }:: [owarika](https://osu.ppy.sh/users/7368910) | 17 Aug 2016 (09:58:24) |
 | ![To The Core](/wiki/shared/medals/all-secret-tothecore.png) | To The Core | ::{ flag=PL }:: [[PL]dawid](https://osu.ppy.sh/users/8811659) | 17 Aug 2016 (10:17:35) |
@@ -246,8 +242,7 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![Deliberation](/wiki/shared/medals/all-secret-deliberation.png) | Deliberation | ::{ flag=MX }:: [PureDePapa](https://osu.ppy.sh/users/24965434) | 9 Sep 2022 (23:49:20) |
 | ![When You See It](/wiki/shared/medals/all-secret-when-you-see-it.png) | When You See It | ::{ flag=NZ }:: [rwvz](https://osu.ppy.sh/users/29473368) | 10 Sep 2022 (04:45:12) |
 | ![Time Sink](/wiki/shared/medals/all-secret-time-sink.png) | Time Sink | ::{ flag=CZ }:: [iamfover](https://osu.ppy.sh/users/32737263) | 5 Jun 2023 (20:47:51) |
-| ![You're Here Forever](/wiki/shared/medals/all-secret-youre-here-forever.png) | You're Here Forever | ::{ flag=CL }:: [francox1](https://osu.ppy.sh/users/17963924) | 31 May 2023 (02:45:41) |
-| ![You're Here Forever](/wiki/shared/medals/all-secret-youre-here-forever.png) | You're Here Forever | ::{ flag=HK }:: [HelloShit](https://osu.ppy.sh/users/23303064) | 31 May 2023 (02:45:41) |
+| ![You're Here Forever](/wiki/shared/medals/all-secret-youre-here-forever.png) | You're Here Forever | ::{ flag=CL }:: [francox1](https://osu.ppy.sh/users/17963924), ::{ flag=HK }:: [HelloShit](https://osu.ppy.sh/users/23303064) | 31 May 2023 (02:45:41) |
 | ![Hospitality](/wiki/shared/medals/all-secret-hospitality.png) | Hospitality | ::{ flag=US }:: [-bree](https://osu.ppy.sh/users/25838836) | 31 May 2023 (02:54:59) |
 | ![True North](/wiki/shared/medals/all-secret-true-north.png) | True North | ::{ flag=DE }:: [leonov3a](https://osu.ppy.sh/users/8492584) | 30 May 2023 (16:01:22) |
 | ![Superfan](/wiki/shared/medals/all-secret-superfan.png) | Superfan | ::{ flag=RU }:: [-Koyuki-](https://osu.ppy.sh/users/8202576) | 30 May 2023 (17:41:03) |
@@ -308,10 +303,8 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![Rising Star](/wiki/shared/medals/osu-skill-pass-1.png) | Rising Star | ::{ flag=KR }:: [pck0818](https://osu.ppy.sh/users/8335723) | 4 May 2016 (07:12:32) |
 | ![Constellation Prize](/wiki/shared/medals/osu-skill-pass-2.png) | Constellation Prize | ::{ flag=US }:: [Greatwalk](https://osu.ppy.sh/users/6550055) | 4 May 2016 (07:12:30) |
 | ![Building Confidence](/wiki/shared/medals/osu-skill-pass-3.png) | Building Confidence | ::{ flag=KR }:: [mailrun](https://osu.ppy.sh/users/7471536) | 4 May 2016 (07:12:30) |
-| ![Insanity Approaches](/wiki/shared/medals/osu-skill-pass-4.png) | Insanity Approaches | ::{ flag=KR }:: [nhw101](https://osu.ppy.sh/users/2262043) | 4 May 2016 (07:12:30) |
-| ![Insanity Approaches](/wiki/shared/medals/osu-skill-pass-4.png) | Insanity Approaches | ::{ flag=US }:: [Supadupaflyee](https://osu.ppy.sh/users/4906225) | 4 May 2016 (07:12:30) |
-| ![These Clarion Skies](/wiki/shared/medals/osu-skill-pass-5.png) | These Clarion Skies | ::{ flag=AU }:: [gith](https://osu.ppy.sh/users/1583060) | 4 May 2016 (07:12:29) |
-| ![These Clarion Skies](/wiki/shared/medals/osu-skill-pass-5.png) | These Clarion Skies | ::{ flag=AU }:: [JOYBOYDESU](https://osu.ppy.sh/users/2848040) | 4 May 2016 (07:12:29) |
+| ![Insanity Approaches](/wiki/shared/medals/osu-skill-pass-4.png) | Insanity Approaches | ::{ flag=KR }:: [nhw101](https://osu.ppy.sh/users/2262043), ::{ flag=US }:: [Supadupaflyee](https://osu.ppy.sh/users/4906225) | 4 May 2016 (07:12:30) |
+| ![These Clarion Skies](/wiki/shared/medals/osu-skill-pass-5.png) | These Clarion Skies | ::{ flag=AU }:: [gith](https://osu.ppy.sh/users/1583060), ::{ flag=AU }:: [JOYBOYDESU](https://osu.ppy.sh/users/2848040) | 4 May 2016 (07:12:29) |
 | ![Above and Beyond](/wiki/shared/medals/osu-skill-pass-6.png) | Above and Beyond | ::{ flag=US }:: [Sahyuk](https://osu.ppy.sh/users/1687218) | 4 May 2016 (07:12:30) |
 | ![Supremacy](/wiki/shared/medals/osu-skill-pass-7.png) | Supremacy | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 4 May 2016 (07:21:37) |
 | ![Absolution](/wiki/shared/medals/osu-skill-pass-8.png) | Absolution | ::{ flag=HK }:: [MinG3012](https://osu.ppy.sh/users/1583218) | 4 May 2016 (08:47:37) |
