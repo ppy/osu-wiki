@@ -20,8 +20,8 @@ If you're experienced in mapping, modding, or storyboarding, and have a desire t
 
 For this following cycle, the timeline is as follows:
 
-- Mentor signups will open on **January 20th** and close on **January 27th**.
-- Mentee signups will open on **February 10th** and close on **February 17th**.
+- Mentor signups will be open from **January 20th** to **January 27th**.
+- Mentee signups will be open from **February 10th** to **February 17th**.
 - The 2025 Spring cycle will run from **February 17th** to **May 19th**.
 
 Throughout the cycle, the organisation team will host a speed-mapping contest for mentees to participate in. In the past, we've also run feedback lobbies and other types of mapping contests, created [mapping puzzles](https://osu.ppy.sh/community/forums/topics/565382), and hosted [mapping discussion panels](https://osu.ppy.sh/community/forums/topics/514122). If you are a mentor or outside party interested in running or trialling a new event on the server, feel free to reach out to us!
