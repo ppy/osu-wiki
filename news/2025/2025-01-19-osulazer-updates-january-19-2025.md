@@ -25,14 +25,12 @@ The grind never stops at osu!HQ, and while the highly anticipated osu!(lazer) iO
 </div>
 
 - **Separate audio and background files can be selected for each difficulty.** While separate backgrounds per difficulty already existed in osu!(stable), separate audio files previously had to be assigned by manually changing the `.osu` file. Going forward, this can be done in osu!(lazer) with no hassle at all.
-
 - **Bookmarks have been added.** Finally, bookmarks.
 
 ![Editor bookmark shortcuts](/wiki/shared/news/2025-01-19-osulazer-updates-january-19-2025/bookmarks.jpg)
 
 - **The beat snap divisor is now changed with `Ctrl` + scroll.** Previously `Ctrl` + `Shift` + scroll, the bindings are changed to match osu!(stable).
 - **The metronome can now be sped up when pressing `Ctrl`.** The speed change will depend on the chosen snap divisor.
-
 - **You can now override combo colours.** *[Colourhaxing](/wiki/Beatmapping/Colourhaxing)* has been made way more convenient, with a GUI element allowing you to select any colour you want for any hit circle.
 
 <div align="center" class="osu-md__paragraph">
