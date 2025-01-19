@@ -92,6 +92,7 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![](/wiki/shared/medals/loved-seasonal-2023-spring.png) | Project Loved: Spring 2023 | ::{ flag=BE }:: [[ Ajia ]](https://osu.ppy.sh/users/17578266) | 19 Jun 2023 (17:15:16) |
 | ![](/wiki/shared/medals/loved-seasonal-2023-summer.png) | Project Loved: Summer 2023 | ::{ flag=PL }:: [Psiki](https://osu.ppy.sh/users/12985528) | 22 Oct 2023 (10:42:19) |
 | ![](/wiki/shared/medals/catch-packs-ghostlove.png) | in love with a ghost | ::{ flag=FR }:: [Glassive](https://osu.ppy.sh/users/12453848) | 14 Feb 2024 (13:27:13) |
+| ![](/wiki/shared/medals/loved-seasonal-2024.png) | Project Loved: Best of 2024 | ::{ flag=DE }:: [respektive](https://osu.ppy.sh/users/1023489) | 17 Jan 2025 (14:56:56) |
 
 ## Beatmap Spotlights
 
