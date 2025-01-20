@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Mentorship Program Spring 2025 Signups Now Open
-date: 2025-01-20 12:00:00 +0000
+date: 2025-01-20 13:00:00 +0000
 ---
 
 The 29th cycle of the Community Mentorship Program is upon us! Get ready to delve deep into the world of mapping, modding, or storyboarding.
