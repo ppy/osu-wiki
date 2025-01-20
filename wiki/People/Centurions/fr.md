@@ -22,7 +22,7 @@ Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de c
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [02/11/2015](https://osu.ppy.sh/beatmapsets/329829) | [31/10/2019](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [25/10/2007](https://osu.ppy.sh/beatmapsets/122) | [04/08/2010](https://osu.ppy.sh/beatmapsets/17885) |  |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [23/10/2017](https://osu.ppy.sh/beatmapsets/659371) | [09/07/2022](https://osu.ppy.sh/beatmapsets/1738133) |  |
-| ::{ flag=KR }:: [Fushia](https://osu.ppy.sh/users/1997633) | [08/11/2018](https://osu.ppy.sh/beatmapsets/809992) | [19-01-2025](https://osu.ppy.sh/beatmapsets/2268756) |  |
+| ::{ flag=KR }:: [Fushia](https://osu.ppy.sh/users/1997633) | [08/11/2018](https://osu.ppy.sh/beatmapsets/809992) | [19-01-2025](https://osu.ppy.sh/beatmapsets/2268756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM28) |
 | ::{ flag=AR }:: [gaston_2199](https://osu.ppy.sh/users/5938161) | [25/12/2016](https://osu.ppy.sh/beatmapsets/519474) | [17/07/2024](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
 | ::{ flag=JP }:: [gazimal](https://osu.ppy.sh/users/6055351) | [24/12/2020](https://osu.ppy.sh/beatmapsets/1298109) | [11/10/2024](https://osu.ppy.sh/beatmapsets/2183696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM25) |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [10/04/2019](https://osu.ppy.sh/beatmapsets/921130) | [27/08/2022](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
