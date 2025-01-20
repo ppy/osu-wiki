@@ -1,112 +1,111 @@
 ---
-outdated: true
+outdated:false
 ---
 
-<!-- Outdated these articles because they were created a very long time ago, contain some deprecated/wrong info, and are generally misleading in context of more modern mapping -clayton -->
+<!-- Desatualizado estes artigos porque foram criados há muito tempo, contêm algumas informações obsoletas/erradas e são geralmente enganosos no contexto de mapeamento mais moderno -clayton -->
 
-# Mapping techniques
+# Técnicas de Mapeamento
 
-Mapping techniques are methods of hit object placements/patterns that are widely used by known beatmappers in their maps.
+As técnicas de mapeamento são métodos de posicionamento/padrões de objetos de hit que são amplamente usados por mapeadores conhecidos em seus mapas.
 
-These pages are here as a beginner's guide to help explain how to do such techniques until you have developed your own mapping style.
-For starters, it is recommended to observe and copy these mapping techniques from experienced mappers while allowing your creativity flow freely little-by-little.
-Many great mappers have sharpened their skills at first by imitating others they admired, so there is no shame in doing that yourself.
+Essas páginas servem como um guia para iniciantes para explicar como executar essas técnicas até que você tenha desenvolvido seu próprio estilo de mapeamento. 
 
-Below are links to the some of the well known mapping techniques widely used by mappers.
-If need be, you could also get a gist of mapping techniques at [Mapping techniques/Basics](Basics/).
+Para começar, é recomendado observar e copiar essas técnicas de mapeamento de mapeadores experientes, permitindo que sua criatividade flua aos poucos. Muitos grandes mapeadores aprimoraram suas habilidades no início imitando outros que admiravam, então não há vergonha em fazer o mesmo.
 
-If you want to know how to make good sliders, see [Making Good Sliders](Making_good_sliders).
+Abaixo estão links para algumas das técnicas de mapeamento bem conhecidas e amplamente usadas por mapeadores. Se necessário, você também pode ter uma ideia das técnicas de mapeamento em [Técnicas de Mapeamento/Básico](Básico/).
 
-## List of mapping techniques
+Se quiser saber como fazer bons sliders, veja [Fazendo Bons Sliders](Fazendo_bons_sliders).
 
-<!-- please place all mapping techniques in alphabetical order -->
+## Lista de técnicas de mapeamento
 
-### Formations
+<!-- por favor, coloque todas as técnicas de mapeamento em ordem alfabética -->
 
-*Main page: [Mapping techniques/Formations](Formations)*
+### Formações
 
-#### Creative
+*Página principal: [Técnicas de Mapeamento/Formações](Formações)*
 
-- [Blanket Combos](Formations#blanket-combos)
-- [Divebomb Combos](Formations#divebomb-combos)
-- [Flower Combos](Formations#flower-combos)
-- [Honeycomb Beats](Formations#honeycomb-beats)
-- [Star Formations](Formations#star-formations)
-- [The Kickstream](Formations#the-kickstream)
-- [Tornado Combos](Formations#tornado-combos)
-- [ztrot Spacing](Formations#ztrot-spacing)
+#### Criativas
 
-#### Symmetrical Shapes
+- [Blanket Combos](Formações#blanket-combos)
+- [Divebomb Combos](Formações#divebomb-combos)
+- [Flower Combos](Formações#flower-combos)
+- [Honeycomb Beats](Formações#honeycomb-beats)
+- [Star Formations](Formações#star-formations)
+- [The Kickstream](Formações#the-kickstream)
+- [Tornado Combos](Formações#tornado-combos)
+- [ztrot Spacing](Formações#ztrot-spacing)
 
-- [Circle Formation](Formations#circle-formation)
-- [Diamond Formation](Formations#diamond-formation)
-- [Double Stacks](Formations#double-stacks)
-- [QQ Diamonds](Formations#qq-diamonds)
-- [Reversed Zig-zag Sliders](Formations#reversed-zig-zag-sliders)
-- [Square Formation](Formations#square-formation)
-- [Square Formation v2](Formations#square-formation-v2)
-- [Triangle Beats](Formations#triangle-beats)
-- [Zig-Zag Sliders](Formations#zig-zag-sliders)
+#### Formas Simétricas
 
-### Jumps
+- [Circle Formation](Formações#circle-formation)
+- [Diamond Formation](Formações#diamond-formation)
+- [Double Stacks](Formações#double-stacks)
+- [QQ Diamonds](Formações#qq-diamonds)
+- [Reversed Zig-zag Sliders](Formações#reversed-zig-zag-sliders)
+- [Square Formation](Formações#square-formation)
+- [Square Formation v2](Formações#square-formation-v2)
+- [Triangle Beats](Formações#triangle-beats)
+- [Zig-Zag Sliders](Formações#zig-zag-sliders)
 
-*Main page: [Mapping techniques/Jumps](Jumps)*
+### Saltos
+
+*Página principal: [Técnicas de Mapeamento/Saltos](Saltos)*
 
 #### Hit Circle
 
-- [Anti-Jumps](Jumps#anti-jumps)
-- [Anti-SeibeiStyle-Jumps](Jumps#anti-seibeistyle-jumps)
-- [Centre Anti-Jumps](Jumps#centre-anti-jumps)
-- [Large Jumps](Jumps#large-jumps)
-- [Oibon Jumps](Jumps#oibon-jumps)
+- [Anti-Jumps](Saltos#anti-jumps)
+- [Anti-SeibeiStyle-Jumps](Saltos#anti-seibeistyle-jumps)
+- [Centre Anti-Jumps](Saltos#centre-anti-jumps)
+- [Large Jumps](Saltos#large-jumps)
+- [Oibon Jumps](Saltos#oibon-jumps)
 
 #### Slider
 
-- [B&F Sliderbased Jumps](Jumps#b&f-sliderbased-jumps)
-- [Endpoint Slider Jumps](Jumps#endpoint-slider-jumps)
-- [Orbital Sliders](Jumps#orbital-sliders)
+- [B&F Sliderbased Jumps](Saltos#b&f-sliderbased-jumps)
+- [Endpoint Slider Jumps](Saltos#endpoint-slider-jumps)
+- [Orbital Sliders](Saltos#orbital-sliders)
 
-### Rhythm
+### Ritmo
 
-*Main page: [Mapping techniques/Rhythm](Rhythm)*
+*Página principal: [Técnicas de Mapeamento/Ritmo](Ritmo)*
 
-#### Spacing
+#### Espaçamento
 
-- [15 Degree Patterns](Rhythm#15-degree-patterns)
-- [Accelerated Spacing](Rhythm#accelerated-spacing)
-- [Back and Forth Beats](Rhythm#back-and-forth-beats)
-- [Differential Stacks](Rhythm#differential-stacks)
-- [Drain Sections](Rhythm#drain-sections)
-- [Half-Backing](Rhythm#half-backing)
-- [Hub and Spoke](Rhythm#hub-and-spoke)
-- [Linear Back and Forth](Rhythm#linear-back-and-forth)
-- [Spacing Out](Rhythm#spacing-out)
-- [Step-Too-Fars](Rhythm#step-too-fars)
+- [15 Degree Patterns](Ritmo#15-degree-patterns)
+- [Accelerated Spacing](Ritmo#accelerated-spacing)
+- [Back and Forth Beats](Ritmo#back-and-forth-beats)
+- [Differential Stacks](Ritmo#differential-stacks)
+- [Drain Sections](Ritmo#drain-sections)
+- [Half-Backing](Ritmo#half-backing)
+- [Hub and Spoke](Ritmo#hub-and-spoke)
+- [Linear Back and Forth](Ritmo#linear-back-and-forth)
+- [Spacing Out](Ritmo#spacing-out)
+- [Step-Too-Fars](Ritmo#step-too-fars)
 
-#### Speed
+#### Velocidade
 
-- [Slider Slowdowns](Rhythm#slider-slowdowns)
+- [Slider Slowdowns](Ritmo#slider-slowdowns)
 
 #### Streams
 
-- [Compressed Streams](Rhythm#compressed-streams)
-- [Discontinuous Streams](Rhythm#discontinuous-streams)
-- [Deathstreams](Rhythm#deathstreams)
-- [Slider Stream Jumps](Rhythm#slider-stream-jumps)
-- [Triplet Streams](Rhythm#triplet-streams)
-- [Variable Spaced Streams](Rhythm#variable-spaced-streams)
-- [Zig-Zag Streams](Rhythm#zig-zag-streams)
+- [Compressed Streams](Ritmo#compressed-streams)
+- [Discontinuous Streams](Ritmo#discontinuous-streams)
+- [Deathstreams](Ritmo#deathstreams)
+- [Slider Stream Jumps](Ritmo#slider-stream-jumps)
+- [Triplet Streams](Ritmo#triplet-streams)
+- [Variable Spaced Streams](Ritmo#variable-spaced-streams)
+- [Zig-Zag Streams](Ritmo#zig-zag-streams)
 
 ### Spinners
 
-*Main page: [Mapping techniques/Spinners](Spinners)*
+*Página principal: [Técnicas de Mapeamento/Spinners](Spinners)*
 
-#### Additional Effects
+#### Efeitos Adicionais
 
 - [Post-Spinner Note](Spinners#post-spinner-note)
 - [Pre-Spinner Note](Spinners#pre-spinner-note)
 
-#### Spinner Variation
+#### Variação de Spinner
 
 - [Double Spinners](Spinners#double-spinners)
 - [End Spinner](Spinners#end-spinner)
@@ -114,9 +113,9 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 
 ### Sliders
 
-*Main page: [Mapping techniques/Sliders](Sliders)*
+*Página principal: [Técnicas de Mapeamento/Sliders](Sliders)*
 
-#### Patterns
+#### Padrões
 
 - [Etna Sliders](Sliders#etna-sliders)
 - [Introverted Flow](Sliders#introverted-flow)
@@ -127,7 +126,7 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 - [Slider Trains](Sliders#slider-trains)
 - [Zig-Zagging Sliders](Sliders#zig-zagging-sliders)
 
-#### Stylish
+#### Estilosos
 
 - [Cutting Sliders](Sliders#cutting-sliders)
 - [Crumpled Sliders](Sliders#crumpled-sliders)
@@ -140,17 +139,17 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 - [Wave Sliders](Sliders#wave-sliders)
 - [Windmill Sliders](Sliders#windmill-sliders)
 
-#### Miscellaneous
+#### Diversos
 
 - [Switch-Back Sliders](Sliders#switch-back-sliders)
 - [Tick-Hitsounds](Sliders#tick-hitsounds)
 - [Tricky Triple Combo](Sliders#tricky-triple-combo)
 
-### Unrankable
+### Não Rankeáveis
 
-*Main page: [Mapping techniques/Unrankable](Unrankable)*
+*Página principal: [Técnicas de Mapeamento/Não Rankeáveis](Não_Rankeáveis)*
 
-- [Burai Sliders](Unrankable#burai-sliders)
-- [Hold Sliders](Unrankable#hold-sliders)
-- [Ninja Spinners](Unrankable#ninja-spinners)
-- [Stack Zero](Unrankable#stack-zero)
+- [Burai Sliders](Não_Rankeáveis#burai-sliders)
+- [Hold Sliders](Não_Rankeáveis#hold-sliders)
+- [Ninja Spinners](Não_Rankeáveis#ninja-spinners)
+- [Stack Zero](Não_Rankeáveis#stack-zero)
