@@ -24,7 +24,7 @@ For this following cycle, the timeline is as follows:
 - Mentee signups will be open from **February 10th** to **February 17th**.
 - The 2025 Spring cycle will run from **February 17th** to **May 19th**.
 
-Throughout the cycle, the organisation team will host a speed-mapping contest for mentees to participate in. In the past, we've also run feedback lobbies and other types of mapping contests, created [mapping puzzles](https://osu.ppy.sh/community/forums/topics/565382), and hosted [mapping discussion panels](https://osu.ppy.sh/community/forums/topics/514122). If you are a mentor or outside party interested in running or trialling a new event on the server, feel free to reach out to us!
+Throughout the cycle, the organisation team will host a speedmapping contest for mentees to participate in. In the past, we've also run feedback lobbies and other types of mapping contests, created [mapping puzzles](https://osu.ppy.sh/community/forums/topics/565382), and hosted [mapping discussion panels](https://osu.ppy.sh/community/forums/topics/514122). If you are a mentor or outside party interested in running or trialling a new event on the server, feel free to reach out to us!
 
 If you or a friend are curious about the rules and which mentors you can apply for, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/2027351?n=1) for more information.
 
