@@ -18,7 +18,7 @@
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2015-11-02](https://osu.ppy.sh/beatmapsets/329829) | [2019-10-31](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [2007-10-25](https://osu.ppy.sh/beatmapsets/122) | [2010-08-04](https://osu.ppy.sh/beatmapsets/17885) |  |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [2017-10-23](https://osu.ppy.sh/beatmapsets/659371) | [2022-07-09](https://osu.ppy.sh/beatmapsets/1738133) |  |
-| ::{ flag=KR }:: [Fushia](https://osu.ppy.sh/users/1997633) | [2018-11-08](https://osu.ppy.sh/beatmapsets/809992) | [2025-01-19](https://osu.ppy.sh/beatmapsets/2268756) |  |
+| ::{ flag=KR }:: [Fushia](https://osu.ppy.sh/users/1997633) | [2018-11-08](https://osu.ppy.sh/beatmapsets/809992) | [2025-01-19](https://osu.ppy.sh/beatmapsets/2268756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM28) |
 | ::{ flag=AR }:: [gaston_2199](https://osu.ppy.sh/users/5938161) | [2016-12-25](https://osu.ppy.sh/beatmapsets/519474) | [2024-07-17](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
 | ::{ flag=JP }:: [gazimal](https://osu.ppy.sh/users/6055351) | [2020-12-24](https://osu.ppy.sh/beatmapsets/1298109) | [2024-10-11](https://osu.ppy.sh/beatmapsets/2183696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM25) |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
