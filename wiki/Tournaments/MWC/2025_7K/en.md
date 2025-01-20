@@ -113,12 +113,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Lithuania ::{ flag=LT }:: | ::{ flag=TW }:: Taiwan | [Jan 25 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T100000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
 | Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Jan 25 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T110000&p1=1440&p2=236&p3=262) | [osulive](https://twitch.tv/osulive) |
 | Thailand ::{ flag=TH }:: | ::{ flag=EE }:: Estonia | [Jan 25 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T120000&p1=1440&p2=28) | [osulive](https://twitch.tv/osulive) |
-| Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Jan 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T130000&p1=1440&p2=16&p3=101) | [osulive](https://twitch.tv/osulive) |
+| Lithuania ::{ flag=LT }:: | ::{ flag=TW }:: Taiwan | [Jan 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T130000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
 | Czechia ::{ flag=CZ }:: | ::{ flag=SE }:: Sweden | [Jan 25 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T140000&p1=1440&p2=204&p3=239) | [osulive](https://twitch.tv/osulive) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=DK }:: Denmark | [Jan 25 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T150000&p1=1440&p2=136&p3=69) | [osulive](https://twitch.tv/osulive) |
+| Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Jan 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T160000&p1=1440&p2=16&p3=101) | [osulive](https://twitch.tv/osulive) |
 | Norway ::{ flag=NO }:: | ::{ flag=CA }:: Canada | [Jan 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T170000&p1=1440&p2=187&p3=188) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 26 January 2025
@@ -140,25 +140,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Round of 16
 
-**[Download the mappack here (77 MB, *temporary link*)](https://leoflt.com/s/JruS)**\
+**[Download the mappack here (77 MB)](https://packs.ppy.sh/P272%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Round%20of%2016.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2358013328)
 
 - Rice
-  1. [7\_7 - Shine (Carpihat) \[Sonnenschein!!\] *(temporary link)*](https://leoflt.com/s/Ho6L)
-  2. [Rabbit House - das Leben nach dem Tode (Level 51) \[Unsterblichkeit\] *(temporary link)*](https://leoflt.com/s/vwf8)
+  1. [7\_7 - Shine (Carpihat) \[Sonnenschein!!\]](https://osu.ppy.sh/beatmapsets/2310827#mania/4943535)
+  2. [Rabbit House - das Leben nach dem Tode (Level 51) \[Unsterblichkeit\]](https://osu.ppy.sh/beatmapsets/2310847#mania/4943570)
   3. [ginkiha - Fading Star (banshi Remix) (ExNeko) \[Stray star (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2310662#mania/4943189)
-  4. [Culprate - Junglist Acid (osu! Edit) (pwhk) \[HOC(CO2H)(CH2CO2H)2\] *(temporary link)*](https://leoflt.com/s/7KGp)
-  5. [Toromaru - Curiosity (\_Yiiiii) \[Kininarimasu\] *(temporary link)*](https://leoflt.com/s/1o6f)
+  4. [Culprate - Junglist Acid (osu! Edit) (pwhk) \[HOC(CO2H)(CH2CO2H)2\]](https://osu.ppy.sh/beatmapsets/2310708#mania/4943272)
+  5. [Toromaru - Curiosity (\_Yiiiii) \[Kininarimasu\]](https://osu.ppy.sh/beatmapsets/2310774#mania/4943406)
 - Long Note
-  1. [Phoenix Legend - She Xiang Fu Ren (Cut Ver.) (\_Yiiiii) \[wcm...\] *(temporary link)*](https://leoflt.com/s/gi7z)
+  1. [Phoenix Legend - She Xiang Fu Ren (Cut Ver.) (\_Yiiiii) \[wcm...\]](https://osu.ppy.sh/beatmapsets/2310775#mania/4943407)
   2. [nekomirin - NO NIGHT MORE SOUL! (MapleSyrup-) \[LESS RICE MORE NOODLES!\]](https://osu.ppy.sh/beatmapsets/2310669#mania/4943198)
-  3. [A.SAKA - KAGUTSUCHI (Maxus) \[Sakura Bloom\] *(temporary link)*](https://leoflt.com/s/XUyb)
+  3. [A.SAKA - KAGUTSUCHI (Maxus) \[Sakura Bloom\]](https://osu.ppy.sh/beatmapsets/2310842#mania/4943560)
 - Hybrid
   1. [Kotono - friend ship (Cut Ver.) (\_Kobii) \[HELP ME!\]](https://osu.ppy.sh/beatmapsets/2310670#mania/4943200)
-  2. [Supa7onyz feat. 5-let - Les Cadences Magiques (\_Yiiiii) \[The Magical Groups\] *(temporary link)*](https://leoflt.com/s/NMr2)
-  3. [katagiri - c0pyf0x (\_Stan) \[tw1n1sm\] *(temporary link)*](https://leoflt.com/s/MXPP)
+  2. [Supa7onyz feat. 5-let - Les Cadences Magiques (\_Yiiiii) \[The Magical Groups\]](https://osu.ppy.sh/beatmapsets/2310776#mania/4943408)
+  3. [katagiri - c0pyf0x (\_Stan) \[tw1n1sm\]](https://osu.ppy.sh/beatmapsets/2310817#mania/4943513)
 - Tiebreaker
-  1. **[Reek - Deity Mode (ft. L4hee) (Critical\_Star) \[DT Mode\] *(temporary link)*](https://leoflt.com/s/8EL2)**
+  1. **[Reek - Deity Mode (ft. L4hee) (Critical\_Star) \[DT Mode\]](https://osu.ppy.sh/beatmapsets/2310796#mania/4943464)**
 
 ### Round of 32
 
@@ -199,6 +199,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 ## Match results
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hGv-_IlyBZdxMkAYK9OjyjWPZUcn_mTH0CVi2ng8lcs?rm=minimal).
 
 Saturday, 18 January 2025:
 
