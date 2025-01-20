@@ -12,7 +12,7 @@ The Community Mentorship Program serves as a place for upcoming mappers, modders
 
 Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events such speedmapping contests, organise guest difficulties for your mapsets on our job board, and more! 
 
-On the public side of things, [our server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels, the guest difficulty job board and more! We also announce mapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [Organisation Team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing)!
+On the public side of things, [our Discord server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels, the guest difficulty job board and more! We also announce mapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [Organisation Team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing)!
 
 If you're experienced in mapping, modding, or storyboarding, and have a desire to take those who are new under your wing, then consider joining us as a mentor! In the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/2027351?n=1), you'll be able to apply right away. If you're only just getting started and are eager to hone your skills, then signing up as a mentee might be what you need!
 
