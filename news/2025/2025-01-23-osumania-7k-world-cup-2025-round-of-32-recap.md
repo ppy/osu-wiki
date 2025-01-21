@@ -21,7 +21,7 @@ For those who prefer enjoying the recap in a video format, [SurfChu85](https://o
 **[Download the pool here! (54 MB)](https://osu.ppy.sh/beatmaps/packs/P271)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2351784653?t=0h47m50s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h47m50s&video=2351784653" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Mappool recap
