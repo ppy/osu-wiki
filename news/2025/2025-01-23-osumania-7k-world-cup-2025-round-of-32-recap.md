@@ -36,31 +36,49 @@ Mappool recap
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=TH }:: Thailand |
+| **Indonesia** ::{ flag=ID }:: | **5** | 0 | ::{ flag=NO }:: Norway |
+| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=LT }:: Lithuania |
+| **Germany** ::{ flag=DE }:: | **5** | 2 | ::{ flag=EE }:: Estonia |
+| **Spain** ::{ flag=ES }:: | **5** | 3 | ::{ flag=SE }:: Sweden |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: Netherlands |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=MX }:: Mexico |
+| Romania ::{ flag=RO }:: | 3 | **5** | ::{ flag=BR }:: **Brazil** |
+| **New Zealand** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=TW }:: Taiwan |
+| **France** ::{ flag=FR }:: | **5** | 4 | ::{ flag=MO }:: Macau |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CZ }:: Czechia |
+| **Peru** ::{ flag=PE }:: | **5** | 1 | ::{ flag=SG }:: Singapore |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=DK }:: Denmark |
+| **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=PL }:: Poland |
+| **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=FI }:: Finland |
+| **Venezuela** ::{ flag=VE }:: | **5** | 4 | ::{ flag=CA }:: Canada |
 
 General summary.
 
 If the video summary contains mentions to the matches, embed the videos in their respective sections.
 
-### ::{ flag=CODE }:: COUNTRY vs. ::{ flag=CODE }:: COUNTRY
+### ::{ flag=ES }:: Spain vs. ::{ flag=SE }:: Sweden
 
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
-
-Match highlights
-
-### ::{ flag=CODE }:: COUNTRY vs. ::{ flag=CODE }:: COUNTRY
-
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116857735)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2356755591)**
 
 Match highlights
 
-### ::{ flag=CODE }:: COUNTRY vs. ::{ flag=CODE }:: COUNTRY
+### ::{ flag=FR }:: France vs. ::{ flag=MO }:: Macau
 
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116869938)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2357648754)**
 
 Match highlights
+
+### ::{ flag=VE }:: Venezuela vs. ::{ flag=CA }:: Canada
+
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116874748)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2357969267)**
+
+Match highlights
+
+Add interview.
 
 ### Score highlights
 
