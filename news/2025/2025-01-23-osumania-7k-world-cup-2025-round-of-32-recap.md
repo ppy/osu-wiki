@@ -46,7 +46,7 @@ Mappool recap
 | **New Zealand** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=TW }:: Taiwan |
 | **France** ::{ flag=FR }:: | **5** | 4 | ::{ flag=MO }:: Macau |
 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CZ }:: Czechia |
-| **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=UK }:: United Kingdom | | 
+| **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=UK }:: United Kingdom |
 | **Peru** ::{ flag=PE }:: | **5** | 1 | ::{ flag=SG }:: Singapore |
 | **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=DK }:: Denmark |
 | **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=PL }:: Poland |
