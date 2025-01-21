@@ -43,10 +43,10 @@ Mappool recap
 | **Spain** ::{ flag=ES }:: | **5** | 3 | ::{ flag=SE }:: Sweden |
 | **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: Netherlands |
 | **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=MX }:: Mexico |
-| Romania ::{ flag=RO }:: | 3 | **5** | ::{ flag=BR }:: **Brazil** |
 | **New Zealand** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=TW }:: Taiwan |
 | **France** ::{ flag=FR }:: | **5** | 4 | ::{ flag=MO }:: Macau |
 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CZ }:: Czechia |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=UK }:: United Kingdom | | 
 | **Peru** ::{ flag=PE }:: | **5** | 1 | ::{ flag=SG }:: Singapore |
 | **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=DK }:: Denmark |
 | **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=PL }:: Poland |
