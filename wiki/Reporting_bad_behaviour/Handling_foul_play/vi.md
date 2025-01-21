@@ -11,11 +11,11 @@ Một người dùng có thể bị hạn chế nếu họ làm bất kỳ đi�
 
 ## Điều gì được coi là sử dụng nhiều tài khoản?
 
-Mỗi người có thể sử dụng **một** tài khoản. Tạo tài khoản mới là hoàn toàn bị cấm, những vi phạm lần đầu sẽ bị xử phạt bằng hình thức im lặng với độ dài khác nhau, tùy thuộc vào số lượng tài khoản đã tạo. Người dùng tiếp tục tạo tài khoản mới mặc dù đã có cảnh báo trước sẽ bị hạn chế.
+Mỗi người có thể sử dụng **một** tài khoản. Tạo tài khoản mới là hoàn toàn bị cấm, những vi phạm lần đầu sẽ bị xử phạt bằng hình thức im lặng với độ dài khác nhau tùy thuộc vào số lượng tài khoản đã tạo. Người dùng tiếp tục tạo tài khoản mới mặc dù đã có cảnh báo trước sẽ bị hạn chế.
 
 ## Điều gì được coi là gian lận?
 
-Các [quy tắc](/wiki/Rules) chỉ ra rằng bất kỳ hình thức thao túng nào đối với client, chẳng hạn như hack điểm số, dãy full-combo được kích hoạt bằng macro, auto-aim và bất cứ điều gì khác rằng chơi game thay vì tự chơi đều là gian lận. 
+Các [quy tắc](/wiki/Rules) chỉ ra rằng bất kỳ hình thức thao túng nào đối với client, chẳng hạn như hack điểm số, dãy full-combo được kích hoạt bằng macro, auto-aim và bất cứ điều gì khác rằng chơi trò chơi thay vì tự chơi đều là gian lận. 
 
 Đây là một quy tắc một lần phạt, kẻ gian lận sẽ bị hạn chế lần đầu tiên với thời gian không xác định. [Nhóm hỗ trợ](/wiki/People/Account_support_team) có thể quyết định gỡ bỏ hạn chế nếu người vi phạm thành công trong việc kháng cáo.
 
@@ -25,7 +25,7 @@ osu! sử dụng các chỉ số tự động kết hợp với xác nhận th�
 
 ## Chứng minh rằng tôi/họ đang gian lận! Hãy cho chúng tôi biết bạn biết như thế nào!
 
-Nhóm hỗ trợ sẽ không cung cấp bất kỳ "bằng chứng" liên quan đến các hạn chế, nhưng tất cả đều được đặt ra với nghi ngờ có cơ sở. Người dùng bình thường rất khó bị nhắm đến bởi những hành động như vậy.
+Nhóm hỗ trợ sẽ không cung cấp bất kỳ "bằng chứng" liên quan đến các hạn chế nhưng tất cả đều được đặt ra với nghi ngờ có cơ sở, người dùng bình thường rất khó bị nhắm đến bởi những hành động như vậy.
 
 ## Tôi sẽ làm một video để chứng minh mình vô tội!
 
@@ -43,13 +43,13 @@ Trên các hồ sơ người dùng, một nút `Báo cáo` sẽ xuất hiện kh
 
 *Hãy lưu ý chế độ trò chơi đã chọn trước khi báo cáo.*
 
-### trang beatmap 
+### Trang beatmap 
 
 Cách báo cáo này hiệu quả như việc sử dụng trang hồ sơ để báo cáo – các báo cáo sẽ được gửi đến cùng một điểm nhận.
 
 Trên trang beatmap, bạn có thể báo cáo một người dùng trong bảng xếp hạng cao nhất bằng cách nhấn nút `Báo cáo` ở phía bên phải của điểm số của họ.
 
-### trong trò chuyện trò chơi 
+### Trong trò chuyện trò chơi 
 
 Cách báo cáo này **không được khuyến khích** vì các báo cáo trong trò chơi chủ yếu liên quan đến trò chuyện.
 
@@ -64,7 +64,7 @@ Sự giúp đỡ của bạn trong việc phát hiện hành vi gian lận rất
 
 ## Sử dụng phần cứng chuyên dụng có được coi là gian lận không?
 
-Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/khắc phục tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ, điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc bất kỳ thiết bị tương tự nào đều bị coi là không được phép.
+Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ, điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc bất kỳ thiết bị tương tự nào đều bị coi là không được phép.
 
 ## Làm thế nào tôi có thể kháng cáo hạn chế của mình ?
 
@@ -84,4 +84,4 @@ Nếu bạn đã vi phạm quy tắc và muốn thú nhận, vui lòng liên h�
 
 ## Chú thích
 
-[^restriction-length]: Thời gian bạn phải chờ đợi trước khi kháng cáo phụ thuộc vào lý do của việc bị hạn chế.Nếu bạn không chắc chắn hạn chế của mình kéo dài bao lâu, email [accounts@ppy.sh](mailto:accounts@ppy.sh) với thêm thông tin, xem [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions).
+[^restriction-length]: Thời gian bạn phải chờ đợi trước khi kháng cáo phụ thuộc vào lý do của việc bị hạn chế. Nếu bạn không chắc chắn hạn chế của mình kéo dài bao lâu, email [accounts@ppy.sh](mailto:accounts@ppy.sh) với thêm thông tin, xem [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions).
