@@ -111,7 +111,91 @@ As a result of this change, the old penalty applied in speed PP for 50s has now 
 
 ## osu!taiko
 
-<!-- todo -->
+In order to aid understanding of the changes to osu!taiko, these are the skills in difficulty calculation which will be referenced throughout:
+
+- **Stamina**: the speed at which you hit notes, based on an assumed finger count of 2 per colour
+- **Colour**: the frequency or variability of which the beatmap changes between a don or kat
+- **Rhythm**: the complexity of the beatmap's rhythm in relation to notes' independent rhythm ratios
+
+Throughout these changes, we will be using the following terminology:
+
+- **d** refers to don (red) notes
+- **k** refers to kat (blue) notes
+- **monos** refer to repeated notes of the same colour
+- **intervals** refer to the snap interval of notes (such as 1/1, 1/4 and 1/8)
+
+### osu!taiko committee
+
+Since the last performance points post, osu!taiko now has some new faces in the osu!taiko committee:
+
+- [YaniFR](https://osu.ppy.sh/users/11260982)
+- [BabySnakes](https://osu.ppy.sh/users/4669728)
+- [rloseise](https://osu.ppy.sh/users/6793778)
+
+### Rhythm rewrite
+
+A [set](https://github.com/ppy/osu/pull/31284) [of](https://github.com/ppy/osu/pull/31339) [changes](https://github.com/ppy/osu/pull/31573) proposed by [ltca](https://osu.ppy.sh/users/11475208) (with contributions from [rloseise](https://osu.ppy.sh/users/6793778)) has been created in order to rewrite the rhythm skill to address shortcomings of the previous implementation.
+
+The new rhythm skill works by creating ratios to assess difficulty. These ratios are dictated by the time between note changes - simple rhythms such as 1/2 will receive less of a bonus than more complicated rhythms such as 1/6 and 1/8, especially when frequently placed. In order to ensure this does not overly award small sections of difficulty, the frequency of these ratios are assessed to decide how difficult the ratio changes are.
+
+To handle patterns where the time between notes doesn’t change much, we group evenly spaced notes into a pattern. These are often the "streams" you see in fast beatmaps. If the timing between notes is consistent, those notes go into the same group. 
+
+When the timing changes, the system shifts notes into the group with the shorter interval:
+
+- In **●● ●●●**, the third note joins the later group (**●●●**) because it fits better with the shorter timing.
+- In **●●● ●●**, the third note sticks with the earlier group (**●●●**) for the same reason.
+
+This prevents evenly spaced notes from being unfairly treated as difficult, whilst also helping to measure how rhythm and colour difficulty interact with eachother.
+
+The new rhythm skill also uses hit windows to decide if the current pattern can be hit without requiring any adjustments to your timing. If a pattern does not require any timing adjustments, then rhythm difficulty is not awarded and those patterns are grouped together:
+
+- **● ● ● ● ●●●** can be played evenly as **● ● ● ● ● ● ●**, so it has no rhythm difficulty.
+- **● ● ● ● ●●●●●●** can't be played the same way because the later notes fall outside the hit window, so the rhythm still counts as challenging.
+
+Repeating patterns, such as triples or 4 note patterns, receive a lower bonus in this new system due to their constant rhythm and predictability.
+
+### Reading skill
+
+A [set](https://github.com/ppy/osu/pull/31208) [of](https://github.com/ppy/osu/pull/31510) [changes](https://github.com/ppy/osu/pull/31512) proposed by [ltca](https://osu.ppy.sh/users/11475208) (with contributions from [rloseise](https://osu.ppy.sh/users/6793778)) has been created in order to add a new measure of difficulty assessment - reading. This new skill aims to award added bonuses depending on the difficulty of reading patterns.
+
+The reading skill assesses the effective BPM (calculated as the base BPM of the beatmap multiplied by the per-object slider velocity multiplier) of each object. Drum rolls and swells are not required to be hit, so these object types are exempt from any reading bonuses.
+
+The new skill also uses object density which evaluates how close a note appears to the previous one using its effective BPM and the time between the 2 notes. This is used to penalise dense high-velocity notes that are generally easier to read.
+
+The combination of effective BPM and density evaluation ensures that fast, spaced-out sections feel accurately represented in the difficulty system while avoiding inflation for simpler sections at high BPM.
+
+As part of this change, fixed HR buffs in performance calculations were removed to allow difficulty calculation to handle the difficulty increase.
+
+### Ratio considerations in colour
+
+A [change](https://github.com/ppy/osu/pull/31285) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to consider the ratios of patterns when awarding colour difficulty.
+
+The colour skill now applies a penalty is based on the number of consecutive *consistent* intervals, meaning stream-like patterns with a lack of rhythmic and colour difficulty are penalised appropriately. This also means that diverse beatmaps with less predictable colour changes receive an added bonus.
+
+### Stamina improvements
+
+A [change](https://github.com/ppy/osu/pull/31337) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to better factor speed into stamina calculations:
+
+- Monos now have an additional buff to acknowledge the stamina required to keep up with rapid single-colour patterns, especially at higher BPMs
+- Stamina now considers the density & BPM of consecutive objects, awarding extra bonuses for faster patterns
+
+### Convert changes
+
+A [set](https://github.com/ppy/osu/pull/31196) of [changes](https://github.com/ppy/osu/pull/31546) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to improve star rating for convert beatmaps. Star rating no longer receives a blanket nerf for converts, and instead addresses converts in various areas:
+
+- The accuracy curve for monos is harsher on lower accuracies
+- Difficult converts usually increase the amount of available fingers due to techniques such as "TL tapping", stamina difficulty is decreased proportionally to match this added availability
+- The previously mentioned stamina buff to monos is disabled for converts to address mapping techniques not present in osu!taiko beatmapsets
+
+### Minor changes
+
+- A [set](https://github.com/ppy/osu/pull/31338) of [rebalances](https://github.com/ppy/osu/pull/31556) proposed by [ltca](https://osu.ppy.sh/users/11475208) in order to line-up final values with community expectations
+- A [change](https://github.com/ppy/osu/pull/31195) proposed by [ltca](https://osu.ppy.sh/users/11475208) to weight accuracy better on lower ODs
+- A [change](https://github.com/ppy/osu/pull/31499) proposed by [Natelytle](https://osu.ppy.sh/users/17607667) to remove the lower cap on accuracy calculations, providing a larger nerf to lower accuracies
+- A [change](https://github.com/ppy/osu/pull/30591) proposed by [ltca](https://osu.ppy.sh/users/11475208) to implement basic difficulty calculations for the Relax mod
+- A [change](https://github.com/ppy/osu/pull/31067) proposed by [YaniFR](https://osu.ppy.sh/users/11260982) to scale star rating on lower difficulties more harshly
+- A [fix](https://github.com/ppy/osu/pull/31579) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure rhythm uses the correct hit windows
+- A [refactor](https://github.com/ppy/osu/pull/31191) proposed by [ltca](https://osu.ppy.sh/users/11475208) to aid with development
 
 ## osu!catch
 
