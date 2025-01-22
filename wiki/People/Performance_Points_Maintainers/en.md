@@ -5,11 +5,11 @@ tags:
 
 # Performance Points Maintainers
 
-The **Performance Points Maintainers** maintain the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) algorithms via the [osu!(lazer) repository](https://github.com/ppy/osu). Their goal is to help [osu! developers](/wiki/People/Developers) push changes faster and with more community coordination.
+The **Performance Points Maintainers** maintain the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) algorithms via the [osu!(lazer) repository](https://github.com/ppy/osu). Their duty is to take responsibility for all of the difficulty and performance calculations off of [osu! developers](/wiki/People/Developers).
 
 The maintainers regularly look after the [difficulty calculation project](https://github.com/orgs/ppy/projects/12) and act as a final set of reviewers on any PP changes submitted or approved by the [Performance Points Committee](/wiki/People/Performance_Points_Committee). Unlike the Performance Points Committee, maintainers can merge PP changes into the `pp-dev` branch in order to confirm their place in the next batch of changes.
 
-The maintainers liase with the Performance Points Committees across all game modes to ensure all changes are tested and work as expected. They also take charge in writing the news posts for each batch of changes.
+The maintainers liase with Performance Points Committees across all game modes to ensure these changes are tested and work as expected so that they can plan each batch of changes for deployment alongside writing the accompanying news post.
 
 ## Communication
 
