@@ -11,7 +11,7 @@ tags:
   - conseils
 ---
 
-<!-- Pour les traducteurs : pour traduire cette page, sélectionnez la langue correspondante dans stable et ouvrez `Localisation/fr.txt` dans votre dossier d'installation d'osu!. Les clés de traduction commençant par MenuTip_ et EditorTip_ contiennent les astuces traduites correspondantes. Les astuces de lazer sont accessibles sur Crowdin: https://crowdin.com/editor/osu-web/656/en-de?view=comfortable&filter=basic&value=0 -->
+<!-- Pour les traducteurs : pour traduire cette page, sélectionnez la langue correspondante dans stable et ouvrez `Localisation/fr.txt` dans votre dossier d'installation d'osu!. Les clés de traduction commençant par MenuTip_ et EditorTip_ contiennent les astuces traduites correspondantes. Les astuces de lazer sont accessibles sur Crowdin: https://crowdin.com/editor/osu-web/656/en-fr -->
 
 # Conseils sur les menus
 
