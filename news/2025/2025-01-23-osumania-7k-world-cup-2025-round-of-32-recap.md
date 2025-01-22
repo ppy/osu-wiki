@@ -10,6 +10,8 @@ The first round of many came by. Let's catch up with one of the wildest starts t
 
 While Qualifiers have been full of surprises, nobody could expect the many secrets that the Round of 32 was going to reveal. From multiple neck and neck matches, to this year's rising stars showing their worth. So who knows what the future holds for us. With a beginning this exciting, anything is possible!
 
+On a side note, the [MWC7K 2025 Support Banner](https://osu.ppy.sh/store/products/1415) were put up for sale last week. For those who would wish to support their favourite team(s), now is the time to make it known in your profiles! Thanks to the community's support, we can enjoy a tournament as packful of surprises and enjoyment for players and spectators alike.
+
 For those who prefer enjoying the recap in a video format, [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) have made that possible by providing you with a bite-sized version of the recap.
 
 <div align="center" class="osu-md__paragraph">
@@ -80,8 +82,8 @@ Score highlights
 
 ---
 
-Plug wiki and streams.
+Stay tuned for the streams and recaps to come! Join us on [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to bear witness of upcoming matches from a first row seat. For those eager to delve deeper into [this round's statistics](https://docs.google.com/spreadsheets/d/1hGv-_IlyBZdxMkAYK9OjyjWPZUcn_mTH0CVi2ng8lcs?rm=minimal), the [wiki article](/wiki/Tournaments/MWC/2025_7K) will be your best friend.
 
-Outro sentence.
+But until then, we hope you enjoyed this week's matches to the fullest! We can only wish for that passion of yours to continue throughout the tournament.
 
 —RandomeLoL
