@@ -58,39 +58,39 @@ This will fix scores being out of order on profiles under "best performance", an
 
 The acute angle bonus is a bonus inside of aim calculations for BPMs greater than 300. It is used to reward fast, difficult aim patterns.
 
-A [set](https://github.com/ppy/osu/pull/30902) [of](https://github.com/ppy/osu/pull/31245) [various](https://github.com/ppy/osu/pull/31320) [changes](https://github.com/ppy/osu/pull/31566) proposed by [StanR](https://osu.ppy.sh/users/7217455) (with some contributions by [tsunyoku](https://osu.ppy.sh/users/11315329)) have been created in order to make this bonus more fairer towards difficult patterns, and to nerf more overweighted ones. These changes make repeated angles less awarded than previously and also overall assess better which patterns are difficult. There was also a change to uncap velocity constraints that used to exist on the bonus allowing for some very hard *acute* angle high BPM maps to receive a greater buff.
+A [set](https://github.com/ppy/osu/pull/30902) [of](https://github.com/ppy/osu/pull/31245) [various](https://github.com/ppy/osu/pull/31320) [changes](https://github.com/ppy/osu/pull/31566) proposed by [StanR](https://osu.ppy.sh/users/7217455) (with some contributions by [tsunyoku](https://osu.ppy.sh/users/11315329)) have been created in order to make this bonus more fairer towards difficult patterns, and to nerf more overweighted ones. These changes make repeated angles less awarded than previously and also overall assess better which patterns are difficult. There was also a change to uncap velocity constraints that used to exist on the bonus allowing for some very hard *acute* angle high BPM beatmaps to receive a greater buff.
 
-Some examples of maps buffed by this change:
+Some examples of beatmaps buffed by this change:
 
 - [DJ TOTTO - Crystalia [Meal's Ultra]](https://osu.ppy.sh/beatmapsets/691220#osu/1475722) with DT: 11.19* --> 11.38*
 - [Light - Anoneanoneanoneanoneanoneanoneanoneanone Kouji ga Okureteruno [Anone]](https://osu.ppy.sh/beatmapsets/822716#osu/1724319) with DT: 10.62* --> 11.22*
 - [nameless - Milk Crown on Sonnetica [Milked]](https://osu.ppy.sh/beatmapsets/550414#osu/1166087) with DT: 10.73* --> 11.17*
 
-Some examples of maps nerfed by this change:
+Some examples of beatmaps nerfed by this change:
 
 - [toby fox - Song That Might Play When You Fight Sans [Genocide]](https://osu.ppy.sh/beatmapsets/2252729#osu/4791387) with DT: 10.09* --> 9.82*
 - [Middle Kids - R U 4 Me? (Cut Ver.) [Together Forever]](https://osu.ppy.sh/beatmapsets/2299895#osu/4914437) with DT: 11.13* --> 10.95*
 - [Yousei Teikoku - Zetsubou plantation (Cut. Ver) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2250663#osu/4793476) with DT: 10.46* --> 10.22*
 
-As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM - maps with difficult wiggle-like patterns below 300BPM may receive a (slight) new buff!
+As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM - beatmaps with difficult wiggle-like patterns below 300BPM may receive a (slight) new buff!
 
 ### Slider drop penalty fixes
 
-Aim calculations reward maps for having difficult to follow slider patterns, with a penalty for dropped slider ends to ensure that plays only receive their full buff for these sliders if they were hit correctly.
+Aim calculations reward beatmaps for having difficult to follow slider patterns, with a penalty for dropped slider ends to ensure that plays only receive their full buff for these sliders if they were hit correctly.
 
-A [change](https://github.com/ppy/osu/pull/31055) proposed by [StanR](https://osu.ppy.sh/users/7217455) has been created in order to ensure this penalty is applied correctly, and uses a more concrete estimation of the difficult sliders in a map.
+A [change](https://github.com/ppy/osu/pull/31055) proposed by [StanR](https://osu.ppy.sh/users/7217455) has been created in order to ensure this penalty is applied correctly, and uses a more concrete estimation of the difficult sliders in a beatmap.
 
-Prior to this change, the penalty applied to aim PP for missed sliderends was unintentionally nerfing much less than it was supposed to. This meant maps with difficult sliders could be abused for easy PP by missing a lot of slider ends. This has been corrected which causes large nerfs for a lot of scores set on beatmaps such as [t+pazolite - Oshama Scramble! (IOException Edit) [Special]](https://osu.ppy.sh/beatmapsets/1376308#osu/2844649).
+Prior to this change, the penalty applied to aim PP for missed sliderends was unintentionally nerfing much less than it was supposed to. This meant beatmaps with difficult sliders could be abused for easy PP by missing a lot of slider ends. This has been corrected which causes large nerfs for a lot of scores set on beatmaps such as [t+pazolite - Oshama Scramble! (IOException Edit) [Special]](https://osu.ppy.sh/beatmapsets/1376308#osu/2844649).
 
-Furthermore, this change now uses a count of difficult sliders dictated by difficulty calculations for this penalty instead of assuming that 10% of the map's sliders are difficult. This makes the penalty fairer across the board.
+Furthermore, this change now uses a count of difficult sliders dictated by difficulty calculations for this penalty instead of assuming that 10% of the beatmap's sliders are difficult. This makes the penalty fairer across the board.
 
 ### Speed PP punishment for scores with high tapping deviation
 
 A [change](https://github.com/ppy/osu/pull/30907) proposed by [Givikap120](https://osu.ppy.sh/users/10560705) has been created in order to nerf speed PP on scores with a very high tapping deviation.
 
-Tapping deviation is the estimated result (similar to unstable rate) of a statistical calculation created by [Frostium](https://osu.ppy.sh/users/8202998) using the score's hit statistics, OD and amount of difficult speed notes in the map.
+Tapping deviation is the estimated result (similar to unstable rate) of a statistical calculation created by [Frostium](https://osu.ppy.sh/users/8202998) using the score's hit statistics, OD and amount of difficult speed notes in the beatmap.
 
-This deviation is used to punish speed PP if the deviation is deemed "too high" for the map's difficulty and is assumed to have been tapped improperly. This primarily addresses scores using the "rake tapping" technique while also nerfing other forms of improper tapping.
+This deviation is used to punish speed PP if the deviation is deemed "too high" for the beatmap's difficulty and is assumed to have been tapped improperly. This primarily addresses scores using the "rake tapping" technique while also nerfing other forms of improper tapping.
 
 This nerf works by deciding a cut-off point for speed PP, scaled by the deviation, where anything above it is considered to be tapped improperly - scores which go above this cut-off point are then re-adjusted based on their deviation to give a more representative value of their tapping difficulty.
 
@@ -119,7 +119,7 @@ As a result of this change, the old penalty applied in speed PP for 50s has now 
 
 A [change](https://github.com/ppy/osu/pull/31126) proposed by [bastoo0](https://osu.ppy.sh/users/4864877) has been created in order to ensure buzz sliders are treated correctly.
 
-A buzz slider is a back-and-forth horizontal slider that has a width smaller than the size of the catcher, but still large enough to be counted as a movement. This resulted in difficulty calculations interpreting the pattern as a very fast movement instead of a stand-still pattern. Back-and-forth movements caused by buzz sliders are now detected and no longer award excessive difficulty. This most notably affects maps such as [100 gecs - hand crushed by a mullet [g3X_x_Xtr^@]](https://osu.ppy.sh/beatmapsets/1253992#fruits/3208604).
+A buzz slider is a back-and-forth horizontal slider that has a width smaller than the size of the catcher, but still large enough to be counted as a movement. This resulted in difficulty calculations interpreting the pattern as a very fast movement instead of a stand-still pattern. Back-and-forth movements caused by buzz sliders are now detected and no longer award excessive difficulty. This most notably affects beatmaps such as [100 gecs - hand crushed by a mullet [g3X_x_Xtr^@]](https://osu.ppy.sh/beatmapsets/1253992#fruits/3208604).
 
 ---
 
