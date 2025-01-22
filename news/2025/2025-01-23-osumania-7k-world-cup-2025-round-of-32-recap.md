@@ -71,12 +71,63 @@ Match highlights
 
 ### ::{ flag=VE }:: Venezuela vs. ::{ flag=CA }:: Canada
 
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-nat {
+        color: #fa3703;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
+</style>
+
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116874748)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2357969267)**
 
 Match highlights
 
-Add interview.
+![](/wiki/shared/news/2025-01-23-osumania-7k-world-cup-2025-round-of-32-recap/Adogg145.png)
+
+Interview intro
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+To say Venezuela has had a good start would be an understatement. How does the team feel about their recent achievements? Has the confidence of the team been increased with these recent wins? And finally, what are your team's ambitions moving forward?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11956607" style="background-image: url('/wiki/shared/avatars/Adog145.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11956607">Adogg145</a></p>
+
+To be honest, this wouldn't have been possible without making use of each of our members' strengths. Given we were the last to play this week, the expectations from other teams and our confidence in winning were both very high. Our only inconvenience was that one of our core team members wasn't able to play given they suffered a brown-out just 5 minutes before the match...
+
+As expected, that caused our morale to tank quite a bit. There was no other option than to keep playing under the hopes they would show up at some point during the match, which never ended up happening.
+
+Despite our hurdles, we managed to give it our all and won the match in the process! Suffice to say, we hope that we get to show our true potential in future rounds by playing with our full squad.
+
+We hope that our story of success qualifying into the osu!mania World Cup encourages other players — mainly from our country — to engage themselves with 7K's competitive side! Or at least we strive for that to be our goal.
+
+</div>
 
 ### Score highlights
 
