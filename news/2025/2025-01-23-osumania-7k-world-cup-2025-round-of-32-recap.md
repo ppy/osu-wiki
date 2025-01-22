@@ -26,6 +26,8 @@ For those who prefer enjoying the recap in a video format, [SurfChu85](https://o
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h47m50s&video=2351784653" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
+![Round of 32 mappool table](/wiki/shared/news/2025-01-23-osumania-7k-world-cup-2025-round-of-32-recap/mappool.png)
+
 Mappool recap
 
 ## Round of 32 summary
