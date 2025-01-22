@@ -209,4 +209,4 @@ A buzz slider is a back-and-forth horizontal slider that has a width smaller tha
 
 A huge thanks to the contributors of these changes as well as the community of people who helped by providing their feedback. If you'd like to learn more about the development of performance points, you may want to take a look in the `#difficulty-osu` channel of the [osu! Discord server](https://discord.gg/ppy), or even join the [Performance Points Discord server](https://discord.gg/aqPCnXu) dedicated to developing and discussing performance points.
 
-—the performance points maintainers
+—the performance points committees
