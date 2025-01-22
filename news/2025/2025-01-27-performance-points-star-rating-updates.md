@@ -14,10 +14,6 @@ All changes made in this round are intended to keep the general understanding of
 
 If you find yourself scratching your head when reading, consider consulting the [performance points (PP)](/wiki/Performance_points) wiki article to gain a greater understanding of the topics.
 
-## Seasonal updates
-
-Going forward, we will be attempting to releasing updates for performance points and star rating **seasonally**. This means you should expect to see smaller but more frequent changes.
-
 ## Release schedule
 
 ### ⏳ Star rating recalculation (24 - 48 hours)
