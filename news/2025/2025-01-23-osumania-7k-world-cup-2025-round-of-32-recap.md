@@ -115,7 +115,7 @@ Interview intro
 
 To say Venezuela has had a good start would be an understatement. How does the team feel about their recent achievements? Has the confidence of the team been increased with these recent wins? And finally, what are your team's ambitions moving forward?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11956607" style="background-image: url('/wiki/shared/avatars/Adog145.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11956607" style="background-image: url('/wiki/shared/avatars/Adogg145.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11956607">Adogg145</a></p>
 
