@@ -62,7 +62,7 @@ The osu!taiko panel was formed on 1 May 2022 in response to [a community survey 
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1 May 2022 | 31 October 2024 |
 | ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | 25 July 2023 | 19 November 2024 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 1 May 2022 | 24 November 2024 |
-| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | [kadenbruh](https://github.com/kadenbruh) | 1 December 2024 | 6 January 2025 |
+| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | 1 December 2024 | 6 January 2025 |
 
 ### osu!catch
 
