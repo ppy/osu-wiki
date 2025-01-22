@@ -199,7 +199,7 @@ A [set](https://github.com/ppy/osu/pull/31196) of [changes](https://github.com/p
 
 ## osu!catch
 
-## Buzz slider bug fixes
+## Buzz slider fixes
 
 A [change](https://github.com/ppy/osu/pull/31126) proposed by [bastoo0](https://osu.ppy.sh/users/4864877) has been created in order to ensure buzz sliders are treated correctly.
 
