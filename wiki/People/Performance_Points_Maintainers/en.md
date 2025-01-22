@@ -22,6 +22,6 @@ Maintainers are hand-picked by osu! developers and consist of people with a lot 
 <!-- internal reference: https://github.com/orgs/ppy/teams/pp-maintainers -->
 
 | osu! profile | GitHub profile |
-| :-- | :-- | :-- |
+| :-- | :-- |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
 | ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
