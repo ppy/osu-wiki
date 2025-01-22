@@ -13,7 +13,7 @@ Der **Testmodus** ist eine Funktion des [Beatmap-Editors](/wiki/Client/Beatmap_e
 
 ![Testmodus Button](img/test-mode-button.png "Der Test-Button im Beatmap-Editor")
 
-*Anmerkung: Der Testmodus ist dafür bekannt, dass bei einigen Nutzern Lags oder spürbare Einbrüche der Framerate auftreten.*
+*Anmerkung: Der Testmodus führt bei einigen Nutzern zu Lags oder spürbaren Einbrüchen der Framerate.*
 
 Das Spielen einer Beatmap im Testmodus unterscheidet sich vom normalen Spiel, da keine Scores angelegt werden, keine Ranglisten angezeigt werden und Spieler nicht auf der Beatmap scheitern können. Des Weiteren werden auf der linken Seite des Bildschirms immer diese Informationen angezeigt:
 
