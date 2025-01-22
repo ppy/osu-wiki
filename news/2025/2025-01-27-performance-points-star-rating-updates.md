@@ -8,7 +8,7 @@ We are back with another set of changes!
 
 ![](/wiki/shared/news/banners/pp-sr-pippi.jpg)
 
-This time around the osu!, osu!taiko and osu!catch rulesets are receiving updates to difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
+This time around the osu!, osu!taiko and osu!catch game modes are receiving updates to difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 
 All changes made in this round are intended to keep the general understanding of per-score pp values the same. This means that if a score's (or beatmap's max) pp value has decreased, it is due to that beatmap or score being overweighted until now. As a result, individual users may see a large jump in their pp, in either direction.
 
