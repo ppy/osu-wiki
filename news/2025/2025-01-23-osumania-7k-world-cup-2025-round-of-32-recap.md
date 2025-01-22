@@ -165,4 +165,4 @@ Stay tuned for the streams and recaps to come! Join us on [osulive](https://www.
 
 But until then, we hope you enjoyed this week's matches to the fullest! We can only wish for that passion of yours to continue throughout the tournament.
 
-—RandomeLoL, Maxus, SurfChu85
+—RandomeLoL, Maxus, SurfChu85, [GB]yobrevelc
