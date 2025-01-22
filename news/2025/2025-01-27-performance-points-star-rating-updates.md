@@ -115,7 +115,11 @@ As a result of this change, the old penalty applied in speed PP for 50s has now 
 
 ## osu!catch
 
-<!-- to do -->
+## Buzz slider bug fixes
+
+A [change](https://github.com/ppy/osu/pull/31126) proposed by [bastoo0](https://osu.ppy.sh/users/4864877) has been created in order to ensure buzz sliders are treated correctly.
+
+A buzz slider is a back-and-forth horizontal slider that has a width smaller than the size of the catcher, but still large enough to be counted as a movement. This resulted in difficulty calculations interpreting the pattern as a very fast movement instead of a stand-still pattern. Back-and-forth movements caused by buzz sliders are now detected and no longer award excessive difficulty. This most notably affects maps such as [100 gecs - hand crushed by a mullet [g3X_x_Xtr^@]](https://osu.ppy.sh/beatmapsets/1253992#fruits/3208604).
 
 ---
 
