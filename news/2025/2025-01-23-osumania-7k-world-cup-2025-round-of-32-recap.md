@@ -101,11 +101,21 @@ Match highlights
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116874748)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2357969267)**
 
-Match highlights
+As the week came to a close, there was but one more surprise awaiting us in the match against ::{ flag=VE }:: Venezuela (#12) and ::{ flag=CA }:: Canada (#21)! Everyone's expectations were sky-high, as this was the first time Venezuela had the chance to go against Canada in a World Cup match, who reached Semifinals just last year. Nobody expected the roller coaster of emotions to ensue, ending in a nerve-wracking tiebreaker to decide the victor.
+
+The first map chosen was [Tedjimo yomigY - Usuva Kagerow](https://osu.ppy.sh/beatmapsets/2307475#mania/4935023) (HB1). A grueling battle of precision, only won by a fairly narrow margin of 5,360 points in favour of Venezuela managing to maintain their cool till the very end. A testament to Venezuela's resilience and perseverance right off the bat! The next three maps also ended in victory for Venezuela, who extended their lead by such large, seemingly uncontested margins. At this point, many viewers thought the match would end in a complete sweep in favour of Venezuela.
+
+But lo and behold, everything changed when Canada took a gamble and chose [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1), a map that featured LN category not seen in previous tournaments. This proved to be very effective however, as the map's style played very well with Canada's strengths, managing to secure their first win of the match! This substantially boosted the team's morale as they managed to win point after point thereafter. Despite the multiple close calls experienced by Canada, they managed to tie things up with Venezuela, forcing a tiebreaker to be played.
+
+Tiebreakers had been a sore spot for Canada, as they had previously lost a crucial match against ::{ flag=CN }:: China in a past World Cup. However. despite their determination and past grievances Venezuela managed to come back from their slump and maintain their concentration and advantage all throughout the map, ending 30,000~ points ahead of their opponent! Nobody was expecting such a match full of highlights, subverting everyone's initial expectations, and turning into a dramatic reversal that ultimately got resolved in a decisive tiebreak.
+
+But be not mistaken, as while Venezuela will get to continue their journey in the winner's bracket, Canada has proven that they're a force to be reckoned with. They're not out of the game yet, so keep your eyes peeled for their next move!
 
 ![](/wiki/shared/news/2025-01-23-osumania-7k-world-cup-2025-round-of-32-recap/Adogg145.png)
 
-Interview intro
+For this week's round of interviews and as a fitting conclusion to this fantastic match we've beared witness to, we've got the chance to host an interview with [Adogg145](https://osu.ppy.sh/users/11956607). Venezuela's captain and arepa extraordinaire, we'd like to get some insight from one of the most interesting teams currently competing this year.
+
+---
 
 <div class="news-chat-quote__text-container">
 
@@ -131,7 +141,7 @@ We hope that our story of success qualifying into the osu!mania World Cup encour
 
 ### Score highlights
 
-Score highlights
+Score highlights.
 
 ---
 
@@ -139,4 +149,4 @@ Stay tuned for the streams and recaps to come! Join us on [osulive](https://www.
 
 But until then, we hope you enjoyed this week's matches to the fullest! We can only wish for that passion of yours to continue throughout the tournament.
 
-—RandomeLoL
+—RandomeLoL, Maxus, SurfChu85
