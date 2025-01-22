@@ -76,6 +76,7 @@ The osu!catch panel was formed on 14 October 2023.
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 October 2023 |
 
 #### Previous members
+
 | osu! profile | Join date | Leave date |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | 14 October 2023 | 11 December 2024 |
