@@ -16,7 +16,7 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 ## Seasonal updates
 
-Going forward, we will be attempting to releasing updates for performance points and star rating **seasonally** - this means you should expect to see smaller but more frequent changes.
+Going forward, we will be attempting to releasing updates for performance points and star rating **seasonally**. This means you should expect to see smaller but more frequent changes.
 
 ## Release schedule
 
