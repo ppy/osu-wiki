@@ -28,7 +28,15 @@ For those who prefer enjoying the recap in a video format, [SurfChu85](https://o
 
 ![Round of 32 mappool table](/wiki/shared/news/2025-01-23-osumania-7k-world-cup-2025-round-of-32-recap/mappool.png)
 
-Mappool recap
+As it is customary, the first pool tends to have quite a drop-off in difficulty compared to Qualifiers. This time around however, things wouldn't be as easy for our players, especially those high above the seeding charts. Everyone had to play to win their spot in the next round's winnin bracket!
+
+Some of our readers and viewers from previous World Cups may've recognized [Sparxe - Switcheroo](https://osu.ppy.sh/beatmapsets/2307554#mania/4935257) (RC5) mapped by [Maxus](https://osu.ppy.sh/users/4335785) and [Tedjimo yomigY - Usuva Kagerow](https://osu.ppy.sh/beatmapsets/2307475#mania/4935023) (HB1) mapped by [_Yiiiii](https://osu.ppy.sh/users/6066359). These were [osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) from the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024), now repurposed and reimagined for the osu!mania World Cup.
+
+But as alluded to in last week's recap, the pools to come — including this one — feature a new skillset never tested in cups prior. That being [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1) mapped by [SurfChu85](https://osu.ppy.sh/users/4469895) as a test of players' finger independence as well as their noodle reading ability. A very polarizing pick for sure, but a threat that players will have to face in all of the upcoming rounds!
+
+Another stand out of this round must've been [Xyris - Crash-Landing Rendezvous](https://osu.ppy.sh/beatmapsets/2307516#mania/4935112) (HB3) mapped by [Irone OSU](https://osu.ppy.sh/users/10678230). The mappooling team has slightly repurposed the slot by using it as a "mini-TB". This will be one of the hardest, if not the hardest, maps on the pool. Not only for its length, but also for its full-flavour assortment of patterns and skillsets it will be testing in one go. Players can only expect everything everywhere all at once.
+
+While we unfortunately have no new osu! originals to cover for this week's pool, don't worry! There are lots of surprises to come, and osu!'s musical repertoire is bound to be one of them.
 
 ## Round of 32 summary
 
