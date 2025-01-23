@@ -59,9 +59,11 @@ While we unfortunately have no new osu! originals to cover for this week's pool,
 | **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=FI }:: Finland |
 | **Venezuela** ::{ flag=VE }:: | **5** | 4 | ::{ flag=CA }:: Canada |
 
-General summary.
+While we always try to enjoy new World Cups with the least amount of prejudices possible, it is hard to deny that most people believe the Round of 32 ends up being quite predictable at times.
 
-If the video summary contains mentions to the matches, embed the videos in their respective sections.
+And while we haven't gotten any groundbreaking upsets, we've sure had our fair share of close calls and breathtaking matches to enjoy! As expected, these matches came from closely matches teams, fighting for their survival in the middle of the seeding chart.
+
+Our writers have curated the following highlights, from the most exciting matches this round had to offer. From 53 point wins, to teams clawing their way up from what was initially expected to be a full sweep. We've got you covered!
 
 ### ::{ flag=ES }:: Spain vs. ::{ flag=SE }:: Sweden
 
