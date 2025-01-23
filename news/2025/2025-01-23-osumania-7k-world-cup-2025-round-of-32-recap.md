@@ -70,7 +70,15 @@ Our writers have curated the following highlights, from the most exciting matche
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116857735)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2356755591)**
 
-Match highlights
+The match between ::{ flag=ES }:: Spain (#16) and ::{ flag=SE }:: (#17) must have been one of the most polarizing yet closely tied matches witnessed this weekend. Which shouldn't come as a surprise considering our contestants were basically seed siblings! A battle to test a country's versatility and consistency such as Sweden's, versus Spain's accuracy and precision.
+
+The teams wasted no time showing their strenghts and weaknesses right off the first two maps played. Perspicacious viewers must've noticed how ::{ flag=ES }:: [Luqas678](https://osu.ppy.sh/users/26688450) and ::{ flag=ES }:: [Manuel-san_UWU](https://osu.ppy.sh/users/23244116)'s ratios overpowered their opponents in [MisomyL - Catalinésie](https://osu.ppy.sh/beatmapsets/2307453#mania/4934987) (RC1) on their very first pick. Sweden took no time whatsoever to recover, picking [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1) and completely shadowing Spain's scores with an eye-watering 170,632 point lead thanks to ::{ flag=SE }:: [Craty](https://osu.ppy.sh/users/3918056) and ::{ flag=SE }:: [Henkayy](https://osu.ppy.sh/users/3003778)'s efforts!
+
+But that loss did not discourage Spain, as they quickly got back on their feet, winning map after map. By winning their break point, Spain managed to reach a lead of 4-1. With a clever used of what could very well be their last pick, Sweden chose [AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.](https://osu.ppy.sh/beatmapsets/2307438#mania/4934949) (LN3) to try and gain some ground. It was not an easy task as Spain's accuracy far surpassed their opponents', but thanks to ::{ flag=ES }:: [Manuel-san_UWU](https://osu.ppy.sh/users/23244116)'s series of misses, the balance quickly shifted towards Sweden who managed to stay afloat, managing to overturn Spain's counter pick.
+
+With one point short of a tie, Sweden took a risky gamble and chose Spain's protect, [Tedjimo yomigY - Usuva Kagerow](https://osu.ppy.sh/beatmapsets/2307475#mania/4935023) (HB1). A precarious gambit that would end up sealing this match's fate, but not without giving Spain a run for their money! Were it not be for ::{ flag=ES }:: [Luqas678](https://osu.ppy.sh/users/26688450)'s impressive full combo, we may've been recapping the tiebreaker between our two teams.
+
+With all of that said, we believe this match was a testament on how important it is to play with your strengths and against your opponents' weaknesses. Both teams held an edge over the other's blind spots. A match that was not only fought through technical skill alone, but won through strategy and thoughtful choices.
 
 ### ::{ flag=FR }:: France vs. ::{ flag=MO }:: Macau
 
