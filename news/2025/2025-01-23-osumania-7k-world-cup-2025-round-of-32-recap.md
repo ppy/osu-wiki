@@ -4,13 +4,13 @@ title: "osu!mania 7K World Cup 2025: Round of 32 Recap"
 date: 2025-01-23 12:00:00 +0000
 ---
 
-The first round of many came by. Let's catch up with one of the wildest starts to a tournament we've ever seen before!
+The first round of many came by. Let's catch up with one of the wildest starts to a tournament we've ever seen!
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
 
-While Qualifiers have been full of surprises, nobody could expect the many secrets that the Round of 32 was going to reveal. From multiple neck and neck matches, to this year's rising stars showing their worth. So who knows what the future holds for us. With a beginning this exciting, anything is possible!
+While the Qualifiers have been full of surprises, nobody could expect the many secrets that the Round of 32 was going to reveal: multiple neck-and-neck matches to rising stars showing their worth. Who knows what the future holds for us. With a beginning this exciting, anything is possible!
 
-On a side note, the [MWC7K 2025 support banners](https://osu.ppy.sh/store/products/1415) were put up for sale last week. For those who would wish to support their favourite team(s), now is the time to make it known on your profiles! Thanks to the community's support, we can enjoy a tournament packed full of surprises and enjoyment for players and spectators alike.
+On a side note, the [MWC 7K 2025 support banners](https://osu.ppy.sh/store/products/1415) went up for sale last week. For those who would wish to support their favourite team(s), now is the time to make it known on your profiles! Thanks to the community's support, we can enjoy a tournament packed full of surprises and enjoyment for players and spectators alike.
 
 For those who prefer enjoying the recap in a video format, [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) have made that possible by providing you with a bite-sized version of the recap.
 
@@ -28,13 +28,13 @@ For those who prefer enjoying the recap in a video format, [SurfChu85](https://o
 
 ![Round of 32 mappool table](/wiki/shared/news/2025-01-23-osumania-7k-world-cup-2025-round-of-32-recap/mappool.png)
 
-As is customary, the first pool tends to have quite a drop-off in difficulty compared to Qualifiers. This time around however, things wouldn't be as easy for our players, especially those high above the seeding charts. Everyone had to play to win their spot in the next round's winners' bracket!
+As is customary, the first pool tends to have quite a drop-off in difficulty compared to the Qualifiers. This time around however, things wouldn't be as easy for our players, especially those high above the seeding charts. Everyone had to play to win their spot in the next round's winners' bracket!
 
-Some of our readers and viewers from previous World Cups may've recognized [Sparxe - Switcheroo](https://osu.ppy.sh/beatmapsets/2307554#mania/4935257) (RC5) mapped by [Maxus](https://osu.ppy.sh/users/4335785) and [Tedjimo yomigY - Usuva Kagerow](https://osu.ppy.sh/beatmapsets/2307475#mania/4935023) (HB1) mapped by [_Yiiiii](https://osu.ppy.sh/users/6066359). These were [osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) from the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024), now repurposed and reimagined for the osu!mania World Cup.
+Some of our readers and viewers from previous World Cups may've recognised [Sparxe - Switcheroo](https://osu.ppy.sh/beatmapsets/2307554#mania/4935257) (RC5) mapped by [Maxus](https://osu.ppy.sh/users/4335785) and [Tedjimo yomigY - Usuva Kagerow](https://osu.ppy.sh/beatmapsets/2307475#mania/4935023) (HB1) mapped by [_Yiiiii](https://osu.ppy.sh/users/6066359). These were [osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) from the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024), now repurposed and reimagined for the osu!mania World Cup.
 
-But as alluded to in last week's recap, the pools to come — including this one — feature a new skillset never tested in cups prior. That being [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1) mapped by [SurfChu85](https://osu.ppy.sh/users/4469895) as a test of players' finger independence as well as their noodle reading ability. A very polarizing pick for sure, but a threat that players will have to face in all of the upcoming rounds!
+But as alluded to in last week's recap, the pools to come — including this one — feature a new skill set never tested in cups prior: LN inverses. Embodied by [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1) mapped by [SurfChu85](https://osu.ppy.sh/users/4469895), it's a test of players' finger independence as well as their noodle reading ability. A very polarising pick for sure, but a threat that players will have to face in all of the upcoming rounds!
 
-Another stand out of this round must've been [Xyris - Crash-Landing Rendezvous](https://osu.ppy.sh/beatmapsets/2307516#mania/4935112) (HB3) mapped by [Irone OSU](https://osu.ppy.sh/users/10678230). The mappooling team has slightly repurposed the slot by using it as a "mini-TB". This will be one of the hardest, if not the hardest, maps on the pool, not just because of its length, but also for its full-flavour assortment of patterns and skill sets it will be testing in one go. Players can only expect everything everywhere all at once.
+Another stand-out of this round must've been [Xyris - Crash-Landing Rendezvous](https://osu.ppy.sh/beatmapsets/2307516#mania/4935112) (HB3) mapped by [Irone OSU](https://osu.ppy.sh/users/10678230). The mappooling team has slightly repurposed the slot by using it as a "mini-TB". This will be one of the hardest, if not the hardest, maps on the pool, not just because of its length, but also for its full-flavour assortment of patterns and skill sets it will be testing in one go. Players can only expect everything everywhere all at once.
 
 While we unfortunately have no new [osu! originals](/wiki/osu!_originals) to cover for this week's pool, don't worry! There are lots of surprises to come, and osu!'s musical repertoire is bound to be one of them.
 
@@ -63,22 +63,22 @@ While we always try to enjoy new World Cups with the least amount of prejudices 
 
 And while we haven't got any groundbreaking upsets, we've sure had our fair share of close calls and breathtaking matches to enjoy! As expected, these matches came from closely matched teams, fighting for their survival in the middle of the seeding chart.
 
-Our writers have curated the following highlights, from the most exciting matches this round had to offer. From 53 point wins, to teams clawing their way up from what was initially expected to be a full sweep, we got you covered!
+Our writers have curated the following highlights from the most exciting matches this round had to offer. From 53-point wins to teams denying expectations of full sweeps, we got you covered!
 
 ### ::{ flag=ES }:: Spain vs. ::{ flag=SE }:: Sweden
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116857735)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2356755591)**
 
-The match between Spain (#16) and Sweden (#17) must have been one of the most polarizing, yet closely tied matches witnessed this weekend, which shouldn't come as a surprise considering our contestants were basically seed siblings! A battle to test a country's versatility and consistency such as Sweden's, versus Spain's accuracy and precision.
+The match between Spain (#16) and Sweden (#17) must have been one of the most polarising, yet closely tied matches witnessed this weekend, which shouldn't come as a surprise considering our contestants were basically seed siblings! A battle to test a the versatility and consistency of Sweden, versus the accuracy and precision of Spain.
 
-The teams wasted no time showing their strengths and weaknesses right off the first two maps played. Perspicacious viewers must've noticed how ::{ flag=ES }:: [Luqas678](https://osu.ppy.sh/users/26688450) and ::{ flag=ES }:: [Manuel-san_UWU](https://osu.ppy.sh/users/23244116)'s ratios overpowered their opponents in [MisomyL - Catalinésie](https://osu.ppy.sh/beatmapsets/2307453#mania/4934987) (RC1) on their very first pick. Sweden took no time whatsoever to recover, picking [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1) and completely shadowing Spain's scores with an eye-watering 170,632 point lead thanks to ::{ flag=SE }:: [Craty](https://osu.ppy.sh/users/3918056) and ::{ flag=SE }:: [Henkayy](https://osu.ppy.sh/users/3003778)'s efforts!
+The teams wasted no time showing their strengths and weaknesses right off the first two maps played. Keen-eyed viewers must've noticed how ::{ flag=ES }:: [Luqas678](https://osu.ppy.sh/users/26688450) and ::{ flag=ES }:: [Manuel-san_UWU](https://osu.ppy.sh/users/23244116)'s ratios overpowered their opponents in [MisomyL - Catalinésie](https://osu.ppy.sh/beatmapsets/2307453#mania/4934987) (RC1) on their very first pick. Sweden took no time whatsoever to recover, picking [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1) and completely shadowing Spain's scores with an eye-watering 170,632-point lead thanks to ::{ flag=SE }:: [Craty](https://osu.ppy.sh/users/3918056) and ::{ flag=SE }:: [Henkayy](https://osu.ppy.sh/users/3003778)'s efforts!
 
-But that loss did not discourage Spain, as they quickly got back on their feet, winning map after map. By winning their break point, Spain managed to reach a lead of 4-1. With a clever use of what could very well be their last pick, Sweden chose [AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.](https://osu.ppy.sh/beatmapsets/2307438#mania/4934949) (LN3) to try and gain some ground. It was not an easy task as Spain's accuracy far surpassed their opponents', but thanks to ::{ flag=ES }:: [Manuel-san_UWU](https://osu.ppy.sh/users/23244116)'s series of misses, the balance quickly shifted towards Sweden who managed to stay afloat, managing to overturn Spain's counter pick.
+But that loss did not discourage Spain, as they quickly got back on their feet, winning map after map. By winning their break point, Spain managed to reach a lead of 4–1. With a clever use of what could very well be their last pick, Sweden chose [AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.](https://osu.ppy.sh/beatmapsets/2307438#mania/4934949) (LN3) to try and gain some ground. It was not an easy task as Spain's accuracy far surpassed their opponents', but thanks to ::{ flag=ES }:: [Manuel-san_UWU](https://osu.ppy.sh/users/23244116)'s series of misses, the balance quickly shifted towards Sweden that managed to stay afloat, managing to overturn Spain's counter pick.
 
 With one point short of a tie, Sweden took a risky gamble and chose Spain's protect, [Tedjimo yomigY - Usuva Kagerow](https://osu.ppy.sh/beatmapsets/2307475#mania/4935023) (HB1). This precarious gambit would end up sealing this match's fate, but not without giving Spain a run for their money! Were it not be for ::{ flag=ES }:: [Luqas678](https://osu.ppy.sh/users/26688450)'s impressive full combo, we may've been recapping the tiebreaker between our two teams.
 
-With all of that said, we believe this match was a testament on how important it is to play with your strengths and against your opponents' weaknesses. Both teams held an edge over the other's blind spots. A match that was not only fought through technical skill alone, but won through strategy and thoughtful choices.
+With all of that said, we believe this match was a testament on how important it is to play with your strengths and against your opponents' weaknesses. Both teams held an edge over the other's blind spots. This match was not only fought through technical skill alone, but won through strategy and thoughtful choices.
 
 ### ::{ flag=FR }:: France vs. ::{ flag=MO }:: Macau
 
