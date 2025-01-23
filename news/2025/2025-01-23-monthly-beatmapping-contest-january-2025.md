@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: January 2025"
-date: 2025-01-24 20:00:00 +0000
+date: 2025-01-23 19:30:00 +0000
 ---
 
 Only one thing stands between you and proof that you're a good mapper: the Monthly Beatmapping Contest.
