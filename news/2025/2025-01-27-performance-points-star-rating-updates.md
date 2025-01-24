@@ -158,7 +158,9 @@ The reading skill assesses the **effective BPM** (calculated as the base BPM of 
 
 The new skill also uses object density which evaluates how close a note appears to the previous one using its effective BPM and the time between the 2 notes. This is used to penalise dense high-velocity notes that are generally easier to read.
 
-The combination of effective BPM and density evaluation ensures that fast, spaced-out sections feel accurately represented in the difficulty system while avoiding inflation for simpler sections at high BPM.
+The combination of effective BPM and density evaluation ensures that fast, spaced-out sections feel accurately represented in the difficulty system while avoiding inflation for simpler sections at high BPM:
+
+![](/wiki/shared/news/2025-01-27-performance-points-star-rating-updates/reading-graph.png)
 
 As part of this change, fixed HR buffs in performance calculations were removed to allow difficulty calculation to handle the difficulty increase.
 
