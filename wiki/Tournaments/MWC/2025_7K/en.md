@@ -102,7 +102,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=TH }:: | **Thailand** | **[--Pavin--](https://osu.ppy.sh/users/12046267)**, [Nattapoom](https://osu.ppy.sh/users/12852613), [nanonbandusty](https://osu.ppy.sh/users/15543726), [yoth99](https://osu.ppy.sh/users/15727775) |
 | ::{ flag=UA }:: | **Ukraine** | **[HeavenlyFaith](https://osu.ppy.sh/users/14412562)**, [anti\_spiral228](https://osu.ppy.sh/users/31670767), [thesayer](https://osu.ppy.sh/users/29034266) |
 | ::{ flag=GB }:: | **United Kingdom** | **[Usie](https://osu.ppy.sh/users/16162078)**, [Vygatron](https://osu.ppy.sh/users/3628783), [MiniEgg\_23](https://osu.ppy.sh/users/25914360) |
-| ::{ flag=US }:: | **United States** | **[AlterFangirl](https://osu.ppy.sh/users/17233884)**, [logann](https://osu.ppy.sh/users/24675802), [Alter-](https://osu.ppy.sh/users/4980256), [Potaterr](https://osu.ppy.sh/users/18664411) |
+| ::{ flag=US }:: | **United States** | **[logann](https://osu.ppy.sh/users/24675802)**, [Alter-](https://osu.ppy.sh/users/4980256), [AlterFangirl](https://osu.ppy.sh/users/17233884), [Potaterr](https://osu.ppy.sh/users/18664411) |
 | ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)**, [sir aelay](https://osu.ppy.sh/users/12055954), [xShyzDy](https://osu.ppy.sh/users/13545528) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a81f6e7fddd9345702ba0d0fb75f759).
