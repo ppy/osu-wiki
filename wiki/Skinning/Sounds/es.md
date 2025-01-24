@@ -108,7 +108,7 @@ Los siguientes sonidos del juego se pueden personalizar para los beatmaps.
 
 - `count.wav`:
   - Esto sustituye a los sonidos de `count{n}s` (si se desea un sonido).
-  - Este es también el metrónomo para el mod target practice.
+  - Este es también el metrónomo para el mod [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice).
 - `count1s.wav`
 - `count2s.wav`
 - `count3s.wav`
