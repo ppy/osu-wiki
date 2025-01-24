@@ -122,7 +122,7 @@ Throughout these changes, we will be using the following terminology:
 
 ### osu!taiko committee
 
-Since the last performance points post, osu!taiko now has some new faces in the osu!taiko committee:
+Since the last performance points post, there are some new faces in the osu!taiko pp committee:
 
 - [YaniFR](https://osu.ppy.sh/users/11260982)
 - [BabySnakes](https://osu.ppy.sh/users/4669728)
