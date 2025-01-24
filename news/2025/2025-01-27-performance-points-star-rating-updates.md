@@ -78,7 +78,7 @@ A [change](https://github.com/ppy/osu/pull/31055) proposed by [StanR](https://os
 
 Prior to this change, the penalty applied to aim PP for missed slider ends was unintentionally nerfing much less than it was supposed to. This meant beatmaps with difficult sliders could be abused for easy PP by missing a lot of slider ends. This has been corrected, which causes large nerfs for a lot of scores set on beatmaps such as [t+pazolite - Oshama Scramble! (IOException Edit) [Special]](https://osu.ppy.sh/beatmapsets/1376308#osu/2844649).
 
-Furthermore, this change now uses a count of difficult sliders dictated by difficulty calculations for this penalty instead of assuming that 10% of the beatmap's sliders are difficult. This makes the penalty fairer across the board.
+Furthermore, the game would previously assume that 10% of a beatmap's sliders are difficult, but that is no longer the case due to the aforementioned new estimation of difficult sliders. This makes the slider drop penalty fairer across the board.
 
 ### Speed PP punishment for scores with high tapping deviation
 
