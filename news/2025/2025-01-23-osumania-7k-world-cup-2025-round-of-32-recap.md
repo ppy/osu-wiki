@@ -15,7 +15,7 @@ On a side note, the [MWC 7K 2025 support banners](https://osu.ppy.sh/store/produ
 For those who prefer enjoying the recap in a video format, [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) have made that possible by providing you with a bite-sized version of the recap.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jog3fCYr-XE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
@@ -70,6 +70,10 @@ Our writers have curated the following highlights from the most exciting matches
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116857735)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2356755591)**
 
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jog3fCYr-XE?start=206&end=270" frameborder="0" allowfullscreen></iframe>
+</div>
+
 The match between Spain (#16) and Sweden (#17) must have been one of the most polarising, yet closely tied matches witnessed this weekend, which shouldn't come as a surprise considering our contestants were basically seed siblings! A battle to test a the versatility and consistency of Sweden, versus the accuracy and precision of Spain.
 
 The teams wasted no time showing their strengths and weaknesses right off the first two maps played. Keen-eyed viewers must've noticed how ::{ flag=ES }:: [Luqas678](https://osu.ppy.sh/users/26688450) and ::{ flag=ES }:: [Manuel-san_UWU](https://osu.ppy.sh/users/23244116)'s ratios overpowered their opponents in [MisomyL - Catalinésie](https://osu.ppy.sh/beatmapsets/2307453#mania/4934987) (RC1) on their very first pick. Sweden took no time whatsoever to recover, picking [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1) and completely shadowing Spain's scores with an eye-watering 170,632-point lead thanks to ::{ flag=SE }:: [Craty](https://osu.ppy.sh/users/3918056) and ::{ flag=SE }:: [Henkayy](https://osu.ppy.sh/users/3003778)'s efforts!
@@ -84,6 +88,10 @@ With all of that said, we believe this match was a testament on how important it
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116869938)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2357648754)**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jog3fCYr-XE?start=368&end=448" frameborder="0" allowfullscreen></iframe>
+</div>
 
 One of our most interesting matches this weekend must've been between France (#15) and Macau (#18). While France has had a consistent presence in the tournament for many years now, this is the first time since 2019 that Macau has made it to the elimination phase. A considerable feat all things considered, if we take into account the fact that Macau only disposed of two players, as opposed to France's more robust roster of four. An unusual match to experience for sure.
 
@@ -130,6 +138,10 @@ Saying that the tiebreaker was hard would be an understatement. Despite fighting
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/116874748)**\
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2357969267)**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jog3fCYr-XE?start=665&end=756" frameborder="0" allowfullscreen></iframe>
+</div>
 
 As the week came to a close, there was but one more surprise awaiting us in the match against Venezuela (#12) and Canada (#21)! Everyone's expectations were sky-high, as this was the first time Venezuela had the chance to go against Canada in a World Cup match, who reached Semifinals just last year. Nobody expected the roller coaster of emotions to ensue, ending in a nerve-wracking tiebreaker to decide the victor.
 
