@@ -7,14 +7,13 @@ tags:
   - game modifier
   - 模组
   - 游戏模组
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # No Fail（模组）
 
 ![NF 模组图标](/wiki/shared/mods/NF.png "No Fail (NF) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[No Fail（lazer 模组）](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
