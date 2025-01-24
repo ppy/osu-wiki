@@ -86,7 +86,7 @@ A [change](https://github.com/ppy/osu/pull/30907) proposed by [Givikap120](https
 
 Tapping deviation is the estimated result (similar to unstable rate) of a statistical calculation created by [Frostium](https://osu.ppy.sh/users/8202998) using the score's hit statistics, OD and amount of difficult speed notes in the beatmap.
 
-This deviation is used to punish speed PP if the deviation is deemed "too high" for the beatmap's difficulty and is assumed to have been tapped improperly. This primarily addresses scores using the "rake tapping" technique while also nerfing other forms of improper tapping.
+This deviation is used to punish speed PP if the deviation is deemed "too high" for a beatmap's difficulty and is assumed to have been tapped improperly. This primarily addresses scores using the "rake tapping" technique while also nerfing other forms of improper tapping.
 
 This nerf works by deciding a cut-off point for speed PP, scaled by the deviation, where anything above it is considered to be tapped improperly - scores which go above this cut-off point are then re-adjusted based on their deviation to give a more representative value of their tapping difficulty.
 
