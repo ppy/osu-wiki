@@ -181,7 +181,7 @@ We hope that our story of success qualifying into the osu!mania World Cup encour
 
 </div>
 
-### Score highlights
+## Score highlights
 
 The increase of teams from 24 last year to 32 gave us a bigger player pool to look at when looking for amazing scores to highlight this weekend. Here are some scores that we think are worth shouting out:
 
