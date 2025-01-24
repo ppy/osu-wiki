@@ -66,7 +66,7 @@ tags:
 | 名称 | 含义 |
 | :-- | :-- |
 | `BPM` | 当前时间轴上的[曲速](/wiki/Music_theory/Tempo)，单位是每分钟节拍数 (BPM)。 |
-| `偏移值 (Offset)` | 当前时间轴上的[偏移值 (Offset)](/wiki/Offset#mapping)，单位是毫秒 |
+| `偏移值 (Offset)` | 当前时间轴上的[偏移值 (Offset)](/wiki/Offset#作图)，单位是毫秒 |
 | `更改 offset/BPM 时，自动把已经放好的物件对齐时间轴刻度` | 当时间轴设定变动时，把物件对齐在[时间轴](/wiki/Client/Beatmap_editor/Timelines)刻度上。 |
 | `滑条速度 (SV)` | 整张谱面的基础[滑条速度 (SV)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) |
 | `滑条点倍率（每拍滑条点个数）` | 在乐理上的一[拍](/wiki/Music_theory/Beat)内，会出现有多少个[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick) |
