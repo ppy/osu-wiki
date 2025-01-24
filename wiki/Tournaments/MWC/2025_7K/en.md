@@ -120,6 +120,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Jan 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T160000&p1=1440&p2=16&p3=101) | [osulive](https://twitch.tv/osulive) |
 | Peru ::{ flag=PE }:: | ::{ flag=MY }:: Malaysia | [Jan 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T160000&p1=1440&p2=131&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
 | Czechia ::{ flag=CZ }:: | ::{ flag=SE }:: Sweden | [Jan 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T190000&p1=1440&p2=204&p3=239) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jan 25 (Sat) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T220000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 26 January 2025
 
@@ -132,7 +133,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Jan 26 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T140000&p1=1440&p2=33&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=RU }:: Russian Federation | [Jan 26 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T140000&p1=1440&p2=102&p3=166) | [osulive](https://twitch.tv/osulive) |
 | Indonesia ::{ flag=ID }:: | ::{ flag=VE }:: Venezuela | [Jan 26 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T150000&p1=1440&p2=108) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jan 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T180000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) |
 | Norway ::{ flag=NO }:: | ::{ flag=CA }:: Canada | [Jan 26 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T190000&p1=1440&p2=187&p3=188) | [osulive](https://twitch.tv/osulive) |
 | Quarterfinals | mappool showcase | [Jan 26 (Sun) 19:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T194500&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
