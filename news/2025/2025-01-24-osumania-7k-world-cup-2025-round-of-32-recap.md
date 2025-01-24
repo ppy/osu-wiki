@@ -26,7 +26,7 @@ For those who prefer enjoying the recap in a video format, [SurfChu85](https://o
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h47m50s&video=2351784653" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Round of 32 mappool table](/wiki/shared/news/2025-01-23-osumania-7k-world-cup-2025-round-of-32-recap/mappool.png)
+![Round of 32 mappool table](/wiki/shared/news/2025-01-24-osumania-7k-world-cup-2025-round-of-32-recap/mappool.png)
 
 As is customary, the first pool tends to have quite a drop-off in difficulty compared to the Qualifiers. This time around however, things wouldn't be as easy for our players, especially those high above the seeding charts. Everyone had to play to win their spot in the next round's winners' bracket!
 
@@ -153,7 +153,7 @@ Tiebreakers had been a sore spot for Canada, as they had previously lost a cruci
 
 But be not mistaken, as while Venezuela will get to continue their journey in the winners' bracket, Canada has proven that they're a force to be reckoned with. They're not out of the game yet, so keep your eyes peeled for their next move!
 
-![](/wiki/shared/news/2025-01-23-osumania-7k-world-cup-2025-round-of-32-recap/Adogg145.png)
+![](/wiki/shared/news/2025-01-24-osumania-7k-world-cup-2025-round-of-32-recap/Adogg145.png)
 
 For this week's round of interviews, and as a fitting conclusion to this fantastic match we bore witness to, we've got the chance to host an interview with [Adogg145](https://osu.ppy.sh/users/11956607). Venezuela's captain and arepa extraordinaire, we'd like to get some insight from one of the most interesting teams currently competing this year.
 
