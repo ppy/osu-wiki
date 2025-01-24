@@ -75,3 +75,4 @@ Los archivos de vídeo deben colocarse en `<tu-torneo>/Videos` y se requieren no
 | Pantalla de resultados | `teamwin-red`, `teamwin-blue` |
 | Sorteo de los equipos | `main` |
 | Presentación | `showcase` |
+| Llave del torneo | `ladder` |

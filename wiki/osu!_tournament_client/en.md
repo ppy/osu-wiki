@@ -74,3 +74,4 @@ The video files have to placed in `<your-tournament>/Videos` and specific names 
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
+| Bracket | `ladder` |
