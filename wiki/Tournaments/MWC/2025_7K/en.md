@@ -102,7 +102,7 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=TH }:: | **Thailand** | **[--Pavin--](https://osu.ppy.sh/users/12046267)**, [Nattapoom](https://osu.ppy.sh/users/12852613), [nanonbandusty](https://osu.ppy.sh/users/15543726), [yoth99](https://osu.ppy.sh/users/15727775) |
 | ::{ flag=UA }:: | **Ukraine** | **[HeavenlyFaith](https://osu.ppy.sh/users/14412562)**, [anti\_spiral228](https://osu.ppy.sh/users/31670767), [thesayer](https://osu.ppy.sh/users/29034266) |
 | ::{ flag=GB }:: | **United Kingdom** | **[Usie](https://osu.ppy.sh/users/16162078)**, [Vygatron](https://osu.ppy.sh/users/3628783), [MiniEgg\_23](https://osu.ppy.sh/users/25914360) |
-| ::{ flag=US }:: | **United States** | **[AlterFangirl](https://osu.ppy.sh/users/17233884)**, [logann](https://osu.ppy.sh/users/24675802), [Alter-](https://osu.ppy.sh/users/4980256), [Potaterr](https://osu.ppy.sh/users/18664411) |
+| ::{ flag=US }:: | **United States** | **[logann](https://osu.ppy.sh/users/24675802)**, [Alter-](https://osu.ppy.sh/users/4980256), [AlterFangirl](https://osu.ppy.sh/users/17233884), [Potaterr](https://osu.ppy.sh/users/18664411) |
 | ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)**, [sir aelay](https://osu.ppy.sh/users/12055954), [xShyzDy](https://osu.ppy.sh/users/13545528) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a81f6e7fddd9345702ba0d0fb75f759).
@@ -120,6 +120,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Jan 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T160000&p1=1440&p2=16&p3=101) | [osulive](https://twitch.tv/osulive) |
 | Peru ::{ flag=PE }:: | ::{ flag=MY }:: Malaysia | [Jan 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T160000&p1=1440&p2=131&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
 | Czechia ::{ flag=CZ }:: | ::{ flag=SE }:: Sweden | [Jan 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T190000&p1=1440&p2=204&p3=239) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jan 25 (Sat) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T220000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 26 January 2025
 
@@ -132,7 +133,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Jan 26 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T140000&p1=1440&p2=33&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=RU }:: Russian Federation | [Jan 26 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T140000&p1=1440&p2=102&p3=166) | [osulive](https://twitch.tv/osulive) |
 | Indonesia ::{ flag=ID }:: | ::{ flag=VE }:: Venezuela | [Jan 26 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T150000&p1=1440&p2=108) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jan 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T180000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) |
 | Norway ::{ flag=NO }:: | ::{ flag=CA }:: Canada | [Jan 26 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T190000&p1=1440&p2=187&p3=188) | [osulive](https://twitch.tv/osulive) |
 | Quarterfinals | mappool showcase | [Jan 26 (Sun) 19:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T194500&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
