@@ -72,11 +72,11 @@ As part of this change, the wiggle bonus which used to be part of the acute angl
 
 ### Slider drop penalty fixes
 
-Aim calculations reward beatmaps for having difficult to follow slider patterns, with a penalty for dropped slider ends to ensure that plays only receive their full buff for these sliders if they were hit correctly.
+Aim calculations reward beatmaps for having difficult-to-follow slider patterns, with a penalty for dropped slider ends to ensure that plays only receive their full buff if the sliders were hit correctly.
 
 A [change](https://github.com/ppy/osu/pull/31055) proposed by [StanR](https://osu.ppy.sh/users/7217455) has been created in order to ensure this penalty is applied correctly, and uses a more concrete estimation of the difficult sliders in a beatmap.
 
-Prior to this change, the penalty applied to aim PP for missed sliderends was unintentionally nerfing much less than it was supposed to. This meant beatmaps with difficult sliders could be abused for easy PP by missing a lot of slider ends. This has been corrected which causes large nerfs for a lot of scores set on beatmaps such as [t+pazolite - Oshama Scramble! (IOException Edit) [Special]](https://osu.ppy.sh/beatmapsets/1376308#osu/2844649).
+Prior to this change, the penalty applied to aim PP for missed slider ends was unintentionally nerfing much less than it was supposed to. This meant beatmaps with difficult sliders could be abused for easy PP by missing a lot of slider ends. This has been corrected, which causes large nerfs for a lot of scores set on beatmaps such as [t+pazolite - Oshama Scramble! (IOException Edit) [Special]](https://osu.ppy.sh/beatmapsets/1376308#osu/2844649).
 
 Furthermore, this change now uses a count of difficult sliders dictated by difficulty calculations for this penalty instead of assuming that 10% of the beatmap's sliders are difficult. This makes the penalty fairer across the board.
 
@@ -88,15 +88,15 @@ Tapping deviation is the estimated result (similar to unstable rate) of a statis
 
 This deviation is used to punish speed PP if the deviation is deemed "too high" for a beatmap's difficulty and is assumed to have been tapped improperly. This primarily addresses scores using the "rake tapping" technique while also nerfing other forms of improper tapping.
 
-This nerf works by deciding a cut-off point for speed PP, scaled by the deviation, where anything above it is considered to be tapped improperly - scores which go above this cut-off point are then re-adjusted based on their deviation to give a more representative value of their tapping difficulty.
+This nerf works by deciding a cut-off point for speed PP, scaled by the deviation, where anything above it is considered to be tapped improperly — scores which go above this cut-off point are then re-adjusted based on their deviation to give a more representative value of their tapping difficulty.
 
 The nerf has a threshold for deviation that must be reached before it nerfs anything at all in order to ensure the majority of scores which were tapped correctly are either not nerfed or nerfed insignificantly.
 
-As a result of this change, the old penalty applied in speed PP for 50s has now been removed as this proposal better serves it's purpose - you may see noticable buffs on plays with a lot of 50s if they're not deemed to be tapped improperly.
+As a result of this change, the old penalty applied in speed PP for 50s has now been removed as this proposal better serves its purpose. You may see noticable buffs on plays with a lot of 50s if they're not deemed to be tapped improperly.
 
 ### Minor changes
 
-- A [set](https://github.com/ppy/osu/pull/31456) of [rebalances](https://github.com/ppy/osu/pull/31515) proposed by [StanR](https://osu.ppy.sh/users/7217455) and [tsunyoku](https://osu.ppy.sh/users/11315329) in order to line-up final values with community expectations
+- A [set](https://github.com/ppy/osu/pull/31456) of [rebalances](https://github.com/ppy/osu/pull/31515) proposed by [StanR](https://osu.ppy.sh/users/7217455) and [tsunyoku](https://osu.ppy.sh/users/11315329) in order to line up final values with community expectations
 - A [fix](https://github.com/ppy/osu/pull/31525) proposed by [molneya](https://osu.ppy.sh/users/8945180) to ensure that the time between spinners are correctly accounted for in Flashlight calculations
 - A [fix](https://github.com/ppy/osu/pull/31447) proposed by [StanR](https://osu.ppy.sh/users/7217455) to ensure ODs below 0 cannot increase PP
 - A [fix](https://github.com/ppy/osu/pull/30544) proposed by [Finadoggie](https://osu.ppy.sh/users/14182048) to ensure estimated slider drops cannot go below zero
