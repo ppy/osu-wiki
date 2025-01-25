@@ -109,8 +109,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ## Match schedule: Round of 16
 
-## Match schedule: Round of 16
-
 ### Sunday, 26 January 2025
 
 | Team A | Team B | Match time | Twitch stream |
