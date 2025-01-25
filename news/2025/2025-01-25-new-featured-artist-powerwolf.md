@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Powerwolf"
-date: 2025-01-25 21:00:00 +0000
+date: 2025-01-25 21:30:00 +0000
 ---
 
 Two decades of power metal experience have arrived here on osu!.
