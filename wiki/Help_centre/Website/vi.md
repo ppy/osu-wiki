@@ -67,7 +67,7 @@ Ngay cả khi [thẻ supporter](https://osu.ppy.sh/home/support) của bạn h�
 
 Trong những trường hợp như vậy, bạn có thể mở một yêu cầu hỗ trợ với đội ngũ hỗ trợ đến email [accounts@ppy.sh](mailto:accounts@ppy.sh) và thảo luận về tình huống của bạn với họ.
 
-Nếu vào bất kỳ thời điểm nào bạn cảm thấy nghi ngờ liệu một nội dung có phù hợp cho trang 'Me!' hay không, bạn có thể nhắn tin cho bất kỳ thành viên nào trong [Đội Ngũ điều hành toàn cầu](/wiki/People/The_Team/Global_Moderation_Team) với những gì bạn dự định đăng lên và họ sẽ cho bạn biết liệu có được phép hay không.
+Nếu vào bất kỳ thời điểm nào bạn cảm thấy nghi ngờ liệu một nội dung có phù hợp cho trang 'Me!' hay không, bạn có thể nhắn tin cho bất kỳ thành viên nào trong [Đội ngũ điều hành toàn cầu](/wiki/People/The_Team/Global_Moderation_Team) với những gì bạn dự định đăng lên và họ sẽ cho bạn biết liệu có được phép hay không.
 
 ### Tôi có cần sử dụng địa chỉ email của mình để đăng ký không? {id=email-purpose}
 
