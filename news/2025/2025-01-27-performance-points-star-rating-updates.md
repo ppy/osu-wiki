@@ -173,7 +173,7 @@ The colour skill now applies a penalty is based on the number of consecutive *co
 Some examples of beatmaps buffed by this change:
 
 - [Babuchan - 13 stairs [Unneeded]](https://osu.ppy.sh/beatmapsets/1093671#taiko/3878430): 9.43* --> 10.00*
-- [GTS Sound Team - <</nttld.:beings>> ~Truth in Uncertainty~ [<</eclectic.:genesis>>]](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143): 9.10* --> 9.79*
+- [GTS Sound Team - <</nttld.:beings>> \~Truth in Uncertainty\~ [<</eclectic.:genesis>>]](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143): 9.10* --> 9.79*
 - [Ludicin - Fallen Symphony [The Symphony of the Fallen Angel]](https://osu.ppy.sh/beatmapsets/1957129#taiko/4054390): 8.90* --> 9.60*
 
 Some examples of beatmaps nerfed by this change:
