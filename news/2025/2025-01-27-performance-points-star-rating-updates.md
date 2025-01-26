@@ -170,6 +170,18 @@ A [change](https://github.com/ppy/osu/pull/31285) proposed by [ltca](https://osu
 
 The colour skill now applies a penalty is based on the number of consecutive *consistent* intervals, meaning stream-like patterns with a lack of rhythmic and colour difficulty are penalised appropriately. This also means that diverse beatmaps with less predictable colour changes receive an added bonus.
 
+Some examples of beatmaps buffed by this change:
+
+- [Babuchan - 13 stairs [Unneeded]](https://osu.ppy.sh/beatmapsets/1093671#taiko/3878430): 9.43* --> 10.00*
+- [GTS Sound Team - <</nttld.:beings>> ~Truth in Uncertainty~ [<</eclectic.:genesis>>]](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143): 9.10* --> 9.79*
+- [Ludicin - Fallen Symphony [The Symphony of the Fallen Angel]](https://osu.ppy.sh/beatmapsets/1957129#taiko/4054390): 8.90* --> 9.60*
+
+Some examples of beatmaps nerfed by this change:
+
+- [Null Specification - Aletheia (fake lover, fake summer) [fake promise]](https://osu.ppy.sh/beatmapsets/1895850#taiko/3907074): 7.47* --> 6.82*
+- [DJ SHARPNEL - Pacific Girls [Divine Orchestra]](https://osu.ppy.sh/beatmapsets/2176923#taiko/4597047): 7.37* --> 6.68*
+- [USAO - Try Again [Inner Oni]](https://osu.ppy.sh/beatmapsets/1875585#taiko/3859766) with DT: 7.61* --> 6.83*
+
 ### Stamina improvements
 
 A [change](https://github.com/ppy/osu/pull/31337) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to better factor speed into stamina calculations:
