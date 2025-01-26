@@ -152,7 +152,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Quarterfinals
 
-**[Download the mappack here (84 MB)](https://leoflt.com/s/YViF)**\
+**[Download the mappack here (84 MB, *temporary link*)](https://leoflt.com/s/YViF)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2364500525)
 
 - Rice
