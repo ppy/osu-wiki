@@ -109,25 +109,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ## Match schedule: Round of 16
 
-### Saturday, 25 January 2025
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Thailand ::{ flag=TH }:: | ::{ flag=EE }:: Estonia | [Jan 25 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T120000&p1=1440&p2=28) | [osulive](https://twitch.tv/osulive) |
-| Lithuania ::{ flag=LT }:: | ::{ flag=TW }:: Taiwan | [Jan 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T130000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
-| Mexico ::{ flag=MX }:: | ::{ flag=MO }:: Macau | [Jan 25 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T140000&p1=1440&p2=155) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=DK }:: Denmark | [Jan 25 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T150000&p1=1440&p2=136&p3=69) | [osulive](https://twitch.tv/osulive) |
-| Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Jan 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T160000&p1=1440&p2=16&p3=101) | [osulive](https://twitch.tv/osulive) |
-| Peru ::{ flag=PE }:: | ::{ flag=MY }:: Malaysia | [Jan 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T160000&p1=1440&p2=131&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
-| Czechia ::{ flag=CZ }:: | ::{ flag=SE }:: Sweden | [Jan 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T190000&p1=1440&p2=204&p3=239) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jan 25 (Sat) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250125T220000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 26 January 2025
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=NZ }:: New Zealand | [Jan 26 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T090000&p1=1440&p2=145&p3=264) | [osulive](https://twitch.tv/osulive) |
-| Japan ::{ flag=JP }:: | ::{ flag=DE }:: Germany | [Jan 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T120000&p1=1440&p2=248&p3=37) | [osulive_2](https://twitch.tv/osulive_2) |
+| Japan ::{ flag=JP }:: | ::{ flag=DE }:: Germany | [Jan 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T120000&p1=1440&p2=248&p3=37) | [osulive](https://twitch.tv/osulive) |
 | Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Jan 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T130000&p1=1440&p2=236&p3=262) | [osulive_2](https://twitch.tv/osulive_2) |
 | South Korea ::{ flag=KR }:: | ::{ flag=ES }:: Spain | [Jan 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T130000&p1=1440&p2=235&p3=141) | [osulive](https://twitch.tv/osulive) |
 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Jan 26 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250126T140000&p1=1440&p2=33&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
@@ -197,6 +184,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 8. [seatrus - Hekikuu no Yakusoku (Critical\_Star) \[Stage 8: Azure\]](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 25 January 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Thailand ::{ flag=TH }:: | 0 | **5** | ::{ flag=EE }:: **Estonia** | [#1](https://osu.ppy.sh/community/matches/116939051) | [#1](https://www.twitch.tv/videos/2363144709) |
+| Lithuania ::{ flag=LT }:: | 0 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/116939707) | [#1](https://www.twitch.tv/videos/2363169055) |
+| Mexico ::{ flag=MX }:: | 1 | **5** | ::{ flag=MO }:: **Macau** | [#1](https://osu.ppy.sh/community/matches/116940442) | [#1](https://www.twitch.tv/videos/2363216292) |
+| United Kingdom ::{ flag=GB }:: | 4 | **5** | ::{ flag=DK }:: **Denmark** | [#1](https://osu.ppy.sh/community/matches/116941242) | [#1](https://www.twitch.tv/videos/2363319347) |
+| **Netherlands** ::{ flag=NL }:: | **5** | 4 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/116942048) | [#1](https://www.twitch.tv/videos/2363319348) |
+| Peru ::{ flag=PE }:: | 3 | **5** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/116942102) | [#1](https://www.twitch.tv/videos/2363305061) |
+| Czechia ::{ flag=CZ }:: | 1 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/116944481) | [#1](https://www.twitch.tv/videos/2363453437) |
 
 ### Round of 32
 
