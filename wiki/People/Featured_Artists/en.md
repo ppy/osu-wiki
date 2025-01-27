@@ -28,8 +28,9 @@ New Featured Artist releases per year:
 - **2020:** 65
 - **2021:** 101
 - **2022:** 104
-- **2023:** 64
-- **2024:** *to be determined*
+- **2023:** 65
+- **2024:** 58
+- **2025:** *to be determined*
 
 New Featured Artists are announced weekly on osu!'s [news feed](https://osu.ppy.sh/home/news). Most announcements include a list of the artist's licensed songs and a link to their Featured Artist page, though some announcements are paired with mapping contests or beatmaps created by the [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
@@ -127,4 +128,5 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (member of) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |
+| ::{ flag=DE }:: [ZVLIAN](https://osu.ppy.sh/users/13687741) | [ZVLIAN](https://osu.ppy.sh/beatmaps/artists/455) |
 | ::{ flag=US }:: [ZytrxZX](https://osu.ppy.sh/users/14782369) | [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430) |

@@ -32,7 +32,7 @@ While music is frequently copyright-restricted, sound effects used for custom hi
 
 This section details which artists are willing to allow use of their audio works in osu!, and under what conditions (where appropriate).
 
-All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) are approved for use in the creation of osu! beatmaps. Tracks from a Featured Artist that do not appear in their listing are *not* licensed, and additional permissions may be required to use them.
+All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) are licensed and approved for use in the creation of osu! beatmaps, regardless of any blanket disapprovals in these lists. Tracks from a Featured Artist that do not appear in their listing are *not* licensed, and additional permissions may be required to use them.
 
 #### Allowed
 
