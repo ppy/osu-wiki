@@ -34,7 +34,7 @@ Os pontos de performance são fortemente baseados na dificuldade calculada da be
 
 A dificuldade da beatmap que o jogador está jogando determina o valor final de pp de sua pontuação. Por design, a fórmula depende de quatro valores principais: **[aim](#aim)**, **[speed](#speed)**, **[accuracy](#accuracy)** e **[strain](#strain)**. Todos esses valores são combinados em diferentes magnitudes para produzir uma pontuação geral que se relaciona com a [dificuldade](/wiki/Beatmap/Difficulty) da beatmap e o desempenho individual do jogador nessa beatmap.
 
-As pontuações são então "pesadas" em relação umas às outras para garantir que apenas as melhores pontuações de um usuário contem mais para sua classificação geral de pontos de performance. Isso é conhecido como o sistema de [*peso*](#weightage-system), e seu objetivo é evitar o ganho rápido e repetido de pontuações mais baixas em beatmaps fáceis, reduzindo a quantidade de pp que é realmente ganhada com base nas outras pontuações de topo do jogador.
+As pontuações são então "pesadas" em relação umas às outras para garantir que apenas as melhores pontuações de um usuário contem mais para sua classificação geral de pontos de performance. Isso é conhecido como o [sistema de *peso*](#sistema-de-peso), e seu objetivo é evitar o ganho rápido e repetido de pontuações mais baixas em beatmaps fáceis, reduzindo a quantidade de pp que é realmente ganhada com base nas outras pontuações de topo do jogador.
 
 *Nota: Uma pequena quantidade de pp bônus é concedida com base no número de mapas classificados nos quais você obteve uma pontuação.*
 
@@ -103,7 +103,7 @@ Considere as seguintes dicas:
 
 **Os pontos de performance utilizam um sistema de peso, o que significa que sua melhor pontuação de todas dará 100% de seu total de pp, e toda pontuação feita depois disso dará cada vez menos.**
 
-Você pode aprender mais sobre o sistema de peso [acima](#weightage-system).
+Você pode aprender mais sobre o sistema de peso [acima](#sistema-de-peso).
 
 ### Quanto de pp bônus é concedido por ter pontuações em mapas classificados?
 
