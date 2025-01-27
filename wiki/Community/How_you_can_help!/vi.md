@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Làm thế nào bạn có thể giúp đỡ!
 
 osu! có một cộng đồng ổn định rất sôi nổi bao gồm những người từ khắp nơi trên thế giới và bất kỳ ai cũng có thể trở thành một phần cho cộng đồng theo cách riêng của họ!
