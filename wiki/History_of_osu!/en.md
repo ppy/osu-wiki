@@ -32,4 +32,4 @@ Records of osu!'s history, all in the osu! wiki.
 - [Online rankings history](Online_rankings)
 - [Staff log record](/wiki/People/Staff_log)
 - [History of osu!'s tournaments](/wiki/Tournaments)
-- [Past osu!store items](/wiki//Past_osu!store_items)
+- [Past osu!store items](/wiki/Past_osu!store_items)

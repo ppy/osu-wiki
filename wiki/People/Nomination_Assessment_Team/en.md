@@ -88,7 +88,7 @@ Before conducting such addition, the addition is sanity checked with the rest of
 
 ## Departure from the NAT
 
-Once an NAT member chooses to depart from the team, they may be granted the following benefits depending on the circumstances:
+Once an NAT member chooses to depart from the team under amicable terms, they may be granted the following benefits depending on the circumstances:
 
 - **[osu! Alumni](/wiki/People/osu!_Alumni) user title**: This is granted to members who were part of the team for at least 1 year, or have made significant contributions within the team during a shorter period of time.
 - **osu!supporter**: Members will be awarded an osu!supporter tag that lasts double the amount of time they spent in the NAT, under the same conditions as osu! Alumni status.
