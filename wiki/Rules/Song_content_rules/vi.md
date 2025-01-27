@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Quy định nội dung bài hát
 
 Với một loạt các thể loại nhạc khác nhau có sẵn, hầu hết các bài hát sẽ được chấp nhận và sử dụng được trong osu!, nhưng hãy cung cấp các bài nhạc không chứa những nội dung liên quan như :
