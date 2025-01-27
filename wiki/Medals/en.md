@@ -1,12 +1,12 @@
 # Medals
 
-**Medals**, previously known as *achievements*, are badges on a user's profile which indicate certain goals that have been achieved by the user. Currently, there are **324** medals available to be unlocked across eight different categories in total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medals**, previously known as *achievements*, are badges on a user's profile which indicate certain goals that have been achieved by the user. Currently, there are **339** medals available to be unlocked across eight different categories in total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
-**Beatmap Packs medals** are medals awarded upon completion of certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist). These medals can be obtained by clearing every beatmap all the way through at least once in any difficulty within the corresponding beatmap pack.
+**Beatmap Packs medals** are medals awarded upon completion of certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme), [Project Loved Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=loved) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist). These medals can be obtained by clearing every beatmap all the way through at least once in any difficulty within the corresponding beatmap pack.
 
-All beatmaps have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the badge unless otherwise specified. The usage of either [difficulty reducing mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [difficulty increasing mods](/wiki/Gameplay/Game_modifier#difficulty-increase), as well as [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), is permitted.
+All beatmaps have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the medal unless otherwise specified. The usage of either [difficulty reducing mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [difficulty increasing mods](/wiki/Gameplay/Game_modifier#difficulty-increase), as well as [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), is permitted.
 
 It is worth noting however that the contents of all the Video Game Packs, Anime Packs, Internet! Packs, and Rhythm Game Packs have been dramatically altered since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of these beatmap packs in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_beatmap_packs).
 
@@ -62,8 +62,9 @@ Although the Seasonal Spotlights have been discontinued as of early 2020 in favo
 
 **Beatmap Challenge Packs medals**, or alternatively referred to as [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs), are medals awarded upon clearing the hardest difficulty present on all beatmaps featured in certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *without any [difficulty reduction](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [special](/wiki/Gameplay/Game_modifier#special) mods enabled*. These beatmap packs are specifically curated to test each player's comprehension of various gameplay aspects around a specific skill level, e.g. within a particular [star rating](/wiki/Beatmap/Star_rating) or difficulty cap range.
 
-All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the badge unless otherwise specified.
+All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the medal unless otherwise specified.
 
 ## See also
 
+- [First medal unlocks](First_medal_unlocks)
 - [Medal unlock requirements](Unlock_requirements)
