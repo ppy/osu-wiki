@@ -1,6 +1,7 @@
 ---
 no_native_review: true
-stub: true
+outdated_translation: true
+outdated_since: b46338bb861124db0a466a4122e8b352e6908748
 ---
 
 # Overmapping

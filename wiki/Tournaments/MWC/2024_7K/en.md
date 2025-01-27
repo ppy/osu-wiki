@@ -503,7 +503,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not not send their team list by January 5, 23:59 UTC will be disqualified from the competition.**
+   - **Teams that do not send their team list by January 5, 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
@@ -522,7 +522,10 @@ The final standings for the Qualifier stage can be found in the following [sprea
 6. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 7. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Multiple teams may be grouped into a singular room if there are not enough referees available at match time.
-8. Only the top 24 seeded teams will advance to the Round of 24.
+8. The seeding method used for Qualifiers will be rank sum, where each team's map rank will be added as a numerical value to compose that team's final score, which is then sorted from lowest to highest, lowest being seed #1.
+   - The exact formula that will be used for each map is `Map score = RANK(Team score)`, where `RANK` is the function that correlates `Team score` to all scores in the current map, sorted from highest to lowest score.
+   - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
+9. The top 24 seeded teams will advance to the Round of 24.
 
 ### Stage instructions
 
@@ -580,7 +583,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Scheduling information
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
    - **A team that does not pick a time slot by January 10, 23:59 UTC will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.

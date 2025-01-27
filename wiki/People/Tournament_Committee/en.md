@@ -59,14 +59,14 @@ Once a tournament has concluded and has requested a badge prize, two random memb
 - Any staff and player lists are publicly available and the staff list is up to date.
 - The badge meets relevant [design criteria](/wiki/Tournaments/Official_support#profile-badges).
 
-Assigned members will indicate tournaments that pass the review process as eligible for badges. The account support team will apply the badges at a later time to the winners' profiles. If a tournament fails the review process, the reviewing members may advise the account support team on what changes need to be communicated to the tournament hosts. If these changes are not possible after the tournament's conclusion, the Tournament Committee will hold an anonymous vote on whether to withdraw official support.
+Assigned members will indicate tournaments that pass the review process as eligible for badges. The account support team will apply the badges at a later time to the winners' profiles. If a tournament fails the review process, the reviewing members may advise the account support team on what changes need to be communicated to the tournament hosts. If these changes are not possible after the tournament's conclusion, the Tournament Committee will hold a vote on whether to withdraw official support.
 
 Tournaments may be reported for violations of official support criteria via the [tournament reports form](https://pif.ephemeral.ink/tournament-reports). For concluded tournaments that have sent a support email, the Tournament Committee will take the following course of action if there are actionable reports:
 
 - Determine if the issues brought up in the reports break any of the official support criteria.
 - If they are severe enough to warrant action, investigate the events detailed in the reports to ensure their validity and gather additional context.
 - Reach out to the infringing party, e.g. the tournament organiser, to get further information on the events detailed in the report.
-- After the investigation concludes and the Tournament Committee is considering administering relevant punishment, hold an anonymous vote to determine whether to do so and the severity of such punishment.
+- After the investigation concludes and the Tournament Committee is considering administering relevant punishment, hold a vote to determine whether to do so and the severity of such punishment.
 
 ### News posts
 
@@ -76,7 +76,7 @@ When an email requesting a news post for a tournament is received, the Tournamen
 
 ### Top three badge support
 
-If a tournament host believes their tournament has achieved the highest level of production quality and organisation possible, they can request to receive badge prizes for all three finalists in their tournament. If a host requests to be awarded with this distinction, the assigned members will also notify the rest of the Tournament Committee for discussion. Following this discussion, an anonymous vote will be held.
+If a tournament host believes their tournament has achieved the highest level of production quality and organisation possible, they can request to receive badge prizes for all three finalists in their tournament. If a host requests to be awarded with this distinction, the assigned members will also notify the rest of the Tournament Committee for discussion. Following this discussion, a vote will be held.
 
 ### Public communication
 
@@ -95,13 +95,13 @@ New members to the Tournament Committee must meet the following basic criteria b
 - Be at least 18 years old
 - Pass a check for recent account infringements
 
-Once a prospective member applies by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh), the Tournament Committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, an anonymous vote is held to determine whether to add the candidate to the committee.
+Once a prospective member applies by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh), the Tournament Committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, a vote is held to determine whether to add the candidate to the committee.
 
 Applicants that fail to gather enough positive votes will be denied, and won't be able to apply again for 6 months from the time of response to their application. The response will be sent no later than 2 weeks from the day the application was submitted.
 
 ### Votes
 
-The Tournament Committee frequently makes use of anonymous voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended by 24 hours. Furthermore, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
+The Tournament Committee frequently makes use of voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended by 24 hours. Furthermore, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
 
 | Vote type | Minimum length (days) | Approval threshold |
 | :-- | --: | --: |
@@ -152,7 +152,6 @@ Tournament Committee members are granted the following benefits:
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
@@ -174,6 +173,7 @@ Tournament Committee members are granted the following benefits:
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

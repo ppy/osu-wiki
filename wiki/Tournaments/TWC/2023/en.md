@@ -553,8 +553,11 @@ The final standings for the Qualifier stage can be found at the following [sprea
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-9. Only the top 32 seeded teams will advance to the Round of 32.
-10. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
+9. The seeding method used for Qualifiers will be rank sum, where each team's map rank will be added together as a numerical value to compose that team's final score, which is then sorted from lowest to highest, lowest being seed #1.
+   - The exact formula that will be used for each map is `Map score = RANK(Team score)`, where `RANK` is the function that correlates `Team score` to all scores in the current map, sorted from highest to lowest score.
+   - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
+10. Only the top 32 seeded teams will advance to the Round of 32.
+11. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
 
 ### Stage instructions
 
@@ -613,7 +616,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
    - **A team that does not pick a time slot by March 16, 2023 (23:59 UTC) will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.

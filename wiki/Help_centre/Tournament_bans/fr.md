@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 342bb3f3b7dafa4a7d4871e36ceba76c93ad4775
 no_native_review: true
 ---
 
@@ -18,7 +20,7 @@ Toute violation grave des [règles de la communauté](/wiki/Rules) qui a lieu pe
 
 Dans le monde réel, un tel comportement consisterait à dessiner ou à écrire des symboles ou des insultes haineuses (croix gammée, etc.) en utilisant la fumée du curseur dans les matchs diffusés en continu.
 
-Tous les utilisateurs qui reviennent dans le jeu après une restriction dans le cadre des conditions d'appel standard sont également soumis à une [interdiction temporaire de tournoi d'un an minimum](/wiki/Help_centre/Account_restrictions#reasons), qui peut être prolongée à la discrétion de [l'équipe de support aux comptes](/wiki/People/The_Team/Account_support_team).
+Tous les utilisateurs qui reviennent dans le jeu après une restriction dans le cadre des conditions d'appel standard sont également soumis à une [interdiction temporaire de tournoi d'un an minimum](/wiki/Help_centre/Account_restrictions#reasons), qui peut être prolongée à la discrétion de [l'équipe de support aux comptes](/wiki/People/Account_support_team).
 
 ## Quelles sont les causes du bannissement pour une durée indéterminée ? {id=pourquoi-permanent}
 
