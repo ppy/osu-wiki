@@ -19,7 +19,7 @@ Thật may, vẫn còn dễ dàng đối với bạn để giúp giữ mọi th�
 - Theo dõi các kênh yêu thích của bạn trong [phần trò chuyện trong trò chơi](/wiki/Client/Interface/Chat_console) hoặc tham gia vào các diễn đàn.
 - Nếu bạn thấy điều gì đó đang xảy ra rằng bạn nghĩ là không thích hợp hoặc gây khó chịu theo bất kỳ cách nào, sử dụng [lệnh `!report`](/wiki/Reporting_bad_behaviour) trong trò chuyện trò chơi để thông báo cho người kiểm duyệt về nó.
 
-## Giúp đỡ các thành viên cộng đồng khác.
+## Giúp đỡ các thành viên cộng đồng khác
 
 Nếu bạn gặp ai đó có một vấn đề với game, sẵn sàng giúp đỡ họ! Cho dù nó là một vấn đề về phần cứng, câu hỏi về beatmap hoặc lối chơi, nếu bạn có thể trả lời nó, bạn có thể giúp người ấy trong giải quyết vẫn đề của họ.
 
@@ -35,6 +35,7 @@ Dưới đây là một số tóm tắt làm sao bạn có thể bắt đầu gi
 - Sử dụng nút `đánh dấu diễn đàn đã đọc` trên cùng.
 - Theo dõi bất kỳ các chủ đề mới, đọc từng cái một và trợ giúp khi bạn có thể — bạn có thể sử dụng biểu tượng chưa đọc để đảm bảo rằng bạn theo kịp.
 - Đọc các [hướng dẫn có sẵn](/wiki/Guides) để nâng cao kiến thức osu! của bạn.Nếu các hướng dẫn trong đó không làm bạn hài lòng, thì bạn có thể thử đóng góp vào chúng!
+
 ## Giúp kiểm tra/mod các beatmap
 
 osu! có một đội ngũ đánh giá tận tâm để xem xét, những [người đề cử beatmap](/wiki/People/Beatmap_Nominators), để kiểm tra nếu các [beatmap](/wiki/Beatmap) được gửi đã sẵn sàng để xếp hạng và chơi bởi mọi người hay chưa. Tuy nhiên, điều đó không có nghĩa là bạn không thể đóng góp cho lĩnh vực này:
@@ -78,4 +79,3 @@ Có một câu cũ nói rằng "bạn nên trở thành một phần của giả
 - Hãy vượt qua khó khăn để hòa giải các tình huống tiêu cực và biến chúng thành kết quả tích cực.
 
 **Mặc dù bài viết này không thể đề cập hết cách bạn có thể giúp đỡ cộng đồng osu!, chỉ đơn giản là chơi game cũng đã có thể làm osu! trở nên tuyệt vời hơn!**
-
