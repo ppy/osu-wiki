@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
+---
+
 # osu! 比赛客户端
 
 **osu! 比赛客户端** 是用于 [osu!tourney](/wiki/osu!_tournament_client/osu!tourney)，并可在直播 osu! 比赛期间，提供多种多样的信息界面的官方信息覆盖层客户端。
