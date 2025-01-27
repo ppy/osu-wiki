@@ -215,6 +215,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 - [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) — A browser extension for calculating pp.
   - [GitHub](https://github.com/oamaok/ezpp)
+- osu! news scheduler — osu! feed news posts approximate schedule calendar.
+  - [Website](https://osunews.untone.uk/)
 - [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) — A status signature generator with osu! next design.
   - [GitHub](https://github.com/Lemmmy/osusig)
 - [osu!Post](https://osu.ppy.sh/community/forums/topics/164486) — Live osu! status for your signatures.
