@@ -18,7 +18,7 @@ Trong các hoàn cảnh hiếm gặp, các phiếu hỗ trợ bởi các ngườ
 
 **Vâng, chắc chắn.**
 
-Trong sự việc rằng người dùng khác đang làm phiền bạn thông qua tin nhắn riêng trên diễn đàn hoặc thông qua máy khách của chính mình, ở đây có một vài bước mà bạn có thể tự thực hiện để lọc bỏ tin nhắn của họ.
+Trong sự việc rằng người dùng khác đang làm phiền bạn thông qua tin nhắn riêng trên diễn đàn hoặc thông qua client trò chơi của chính mình, ở đây có một vài bước mà bạn có thể tự thực hiện để lọc bỏ tin nhắn của họ.
 
 #### Chặn lại người dùng giao tiếp bạn từ trong trò chơi. {id=ignore-user-in-game}
 **Để chặn người dùng đang gửi bạn các tin nhắn trong game, chỉ cần thêm họ đến danh sách phớt lờ của bạn.** 
@@ -49,7 +49,7 @@ Người dùng không có trong danh sách bạn bè của bạn sẽ không th�
 
 **Đừng lo, đội ngũ hỗ trợ của chúng tôi sẽ giúp bạn.**
 
-Nếu một người dùng vẫn đang quấy rối bạn qua những phương tiện khác hoặc dùng các bạn bè của họ hoặc người khác để lách nỗ lực ngăn chặn họ của bạn. Vui lòng gửi email cho chúng tôi tại [support@ppy.sh](mailto:support@ppy.sh).
+Nếu một người dùng vẫn đang quấy rối bạn qua những phương tiện khác hoặc dùng các bạn bè của họ hoặc người khác để lách nỗ lực chặn họ của bạn. Vui lòng gửi email cho chúng tôi tại [support@ppy.sh](mailto:support@ppy.sh).
 
 Hãy chắc chắn bao gồm bất kỳ nhật ký trò chuyện hoặc bằng chứng nào trong email và đội ngũ hỗ trợ của chúng tôi sẽ xem xét trường hợp của bạn và giải quyết cho bạn.
 
