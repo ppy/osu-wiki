@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Xử lý hành vi chơi xấu
 
 ## Tại sao tôi bị hạn chế?
