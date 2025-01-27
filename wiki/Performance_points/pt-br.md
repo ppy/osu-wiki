@@ -1,4 +1,3 @@
-
 # Pontos de Performance
 
 **Pontos de Performance** (ou **pp** para abreviar) é uma métrica de classificação que visa ser mais relevante para o progresso do jogador no osu!.
