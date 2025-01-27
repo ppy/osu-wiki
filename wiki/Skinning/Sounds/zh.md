@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 自定义音效
 
 音效的可用格式有 `.wav`、`.mp3` 和/或 `.ogg`。
