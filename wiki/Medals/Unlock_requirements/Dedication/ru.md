@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
+---
+
 # Условия получения медалей Dedication
 
 ## osu!
