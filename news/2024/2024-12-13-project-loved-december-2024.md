@@ -350,7 +350,7 @@ Trills are extremely difficult to hit if you are not careful, and in this file, 
 
 You may notice that at some point in this chart, some hands will also start to show up. Through that, density also increases, and as you keep on progressing through this chart, you will really see how stamina-draining this file can be. Let's not forget to mention, this chart has rates up to 1.4x, raising the BPM from 182 to around 254.8.
 
-[midgy](https://osu.ppy.sh/users/6312055) has been really stepping up to the occasion when it comes to charting jumpstreams and stamina charts, and this chart really shows a lot of his creativity in charting. If you think so as well, go give this chart a favorable vote in the Loved section!
+[midgy](https://osu.ppy.sh/users/6312055) has been really stepping up to the occasion when it comes to charting jumpstreams and stamina charts, and this chart really shows a lot of her creativity in charting. If you think so as well, go give this chart a favorable vote in the Loved section!
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1684011.jpg)](https://osu.ppy.sh/community/forums/topics/2014481)
 
