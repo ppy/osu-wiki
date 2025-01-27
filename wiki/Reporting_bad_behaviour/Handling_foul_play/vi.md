@@ -1,4 +1,5 @@
 # Xử lý hành vi chơi xấu
+
 ## Tại sao tôi bị hạn chế?
 
 Một người dùng có thể gặp phải hạn chế nếu họ làm bất kỳ điều gì sau đây:
