@@ -33,7 +33,7 @@ Start the osu! tournament client, and press the `Drawings` button in the left si
 
 ![](img/main-screen.png "The main drawings screen")
 
-There are three sections to this screen: the sidebar on the left, the main section and the control panel section on the right. Please **avoid** livestreaming the sidebar and the control panel.
+There are three sections to this screen: the sidebar on the left, the main section, and the control panel section on the right. Please **avoid** livestreaming the sidebar and the control panel.
 
 There are 4 buttons in the control panel, let's go over them:
 
