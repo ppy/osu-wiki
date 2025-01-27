@@ -85,7 +85,7 @@ Nếu bạn đã vi phạm quy tắc và muốn thú nhận, vui lòng liên h�
 
 ## Làm thế nào để tôi tránh bị im lặng hoặc hạn chế?
 
-Đọc kỹ và theo các [quy tắc](https://osu.ppy.sh/wiki/vi/Rules), nếu bạn không chắc chắn liệu điều mình muốn làm có vi phạm quy định hay không, hãy hỏi một thành viên trong [Nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team). Nếu bạn không biết nên hỏi ai, [nhấn vào đây](https://osu.ppy.sh/users/5999631).
+Đọc kỹ và theo các [quy tắc](/wiki/Rules), nếu bạn không chắc chắn liệu điều mình muốn làm có vi phạm quy định hay không, hãy hỏi một thành viên trong [Nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team). Nếu bạn không biết nên hỏi ai, [nhấn vào đây](https://osu.ppy.sh/users/5999631).
 
 ## Chú thích
 
