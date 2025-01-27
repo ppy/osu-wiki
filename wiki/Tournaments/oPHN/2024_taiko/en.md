@@ -95,7 +95,7 @@ This competition ended with the following podium:
 
 ### Grand Finals
 
-**[You may download the mappack here](https://drive.google.com/file/d/1YpWSArtywv5Q6cD2gkHah9tMTqFyRG7Z/view?usp=sharing)**
+**[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1YpWSArtywv5Q6cD2gkHah9tMTqFyRG7Z/view?usp=sharing)**
 
 - No Mod
   1. [wyntr. - UPOPZONE (WTHBRO) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2278404#taiko/4856169)
@@ -122,7 +122,7 @@ This competition ended with the following podium:
 
 ### Finals
 
-**[You may download the mappack here](https://drive.google.com/file/d/10ITDqA0g4CqBhZMzBvhsLrRzKrdWw2rz/view?usp=sharing)**
+**[Download the mappack here! (121 MB)](https://drive.google.com/file/d/10ITDqA0g4CqBhZMzBvhsLrRzKrdWw2rz/view?usp=sharing)**
 
 - No Mod
   1. [Mia REGINA - I got it! (Slax Remix) (dtn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1722920#taiko/3521273)
@@ -149,7 +149,7 @@ This competition ended with the following podium:
 
 ### Semifinals
 
-**[You may download the mappack here](https://drive.google.com/file/d/1VgUp-mAOLIhVul0hvdSqOaZhMoD43C_Q/view?usp=sharing)**
+**[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1VgUp-mAOLIhVul0hvdSqOaZhMoD43C_Q/view?usp=sharing)**
 
 - No Mod
   1. [Ogura Yui - Future Strike (Aquestion 210 bootleg) (My Angel Shinku) \[Shinku and hpz's Inner Oni\]](https://osu.ppy.sh/beatmapsets/2160803#taiko/4579437)
@@ -175,7 +175,7 @@ This competition ended with the following podium:
 
 ### Quarterfinals
 
-**[You may download the mappack here](https://drive.google.com/file/d/13Ra6Nygfozuno7iSCEuXIeTICaA9OAfv/view?usp=sharing)**
+**[Download the mappack here! (120 MB)](https://drive.google.com/file/d/13Ra6Nygfozuno7iSCEuXIeTICaA9OAfv/view?usp=sharing)**
 
 - No Mod
   1. [Helblinde - Heaven's Fall (Rinze) \[08's Oni\]](https://osu.ppy.sh/beatmapsets/1894358#taiko/3903846)
@@ -201,7 +201,7 @@ This competition ended with the following podium:
 
 ### Round of 16
 
-**[You may download the mappack here](https://drive.google.com/file/d/143dyTPIIg6CHoZ_O8ev4N5pBXGUbzXX-/view?usp=sharing)**
+**[Download the mappack here! (65 MB)](https://drive.google.com/file/d/143dyTPIIg6CHoZ_O8ev4N5pBXGUbzXX-/view?usp=sharing)**
 
 - No Mod
   1. [Omoi - Teo (Astolfo) \[Oni\]](https://osu.ppy.sh/beatmapsets/780003#taiko/1637790)
@@ -226,7 +226,7 @@ This competition ended with the following podium:
 
 ### Qualifiers
 
-**[You may download the mappack here](https://drive.google.com/file/d/1YbFQQuMIovDsCPhDhvQO76xwmLmSV83e/view?usp=sharing)**
+**[Download the mappack here! (31 MB)](https://drive.google.com/file/d/1YbFQQuMIovDsCPhDhvQO76xwmLmSV83e/view?usp=sharing)**
 
 - No Mod
   1. [kanemiko - Twilight of the Abyss (midorijeon) \[Brilliant\]](https://osu.ppy.sh/beatmapsets/2260613#taiko/4811332)
