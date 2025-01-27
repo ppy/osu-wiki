@@ -132,7 +132,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 4 Digit World Cup 2020 | 28/06/2020 | 28/09/2020 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis | ::{ flag=RU }:: Fédération de Russie |
 | 4 Digit World Cup 2022 | 05/12/2021 | 06/03/2022 | ::{ flag=CN }:: Chine | ::{ flag=SG }:: Singapour | ::{ flag=CA }:: Canada |
 | 4 Digit World Cup 2023 | 07/05/2023 | 23/07/2023 | ::{ flag=US }:: États-Unis | ::{ flag=CA }:: Canada | ::{ flag=TH }:: Thaïlande |
-| [4 Digit World Cup 2024](4WC/2024) | 04/05/2024 | 16/06/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [4 Digit World Cup 2024](4WC/2024) | 04/05/2024 | 16/06/2024 | ::{ flag=US }:: États-Unis | ::{ flag=CA }:: Canada | ::{ flag=CN }:: Chine |
 
 #### Aetherian's Summer Singles
 
@@ -411,6 +411,15 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [RMoT #2](RMoTI/2) | 06/05/2017 | 14/05/2017 | ::{ flag=PL }:: [MagBlood](https://osu.ppy.sh/users/6178640) | ::{ flag=PL }:: [bsurma](https://osu.ppy.sh/users/509575) | ::{ flag=PL }:: [MaIson](https://osu.ppy.sh/users/6047395) |
 | [RMoT #5](RMoTI/5) | 12/05/2018 | 27/05/2018 | ::{ flag=FR }:: [Prosdokies](https://osu.ppy.sh/users/3852436) | ::{ flag=RU }:: [Well Halen](https://osu.ppy.sh/users/8660244) | ::{ flag=RU }:: [KoloMl](https://osu.ppy.sh/users/6544403) |
+
+#### Resurrection Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Resurrection Cup 2022 | 17/06/2022 | 31/07/2022 | super auto pets | HWDP: Sad Jabłkowy | Wii U Esports |
+| Resurrection Cup: Cataclysm Contest | 04/11/2022 | 18/12/2022 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
+| Resurrection Cup 2023 | 16/06/2023 | 30/07/2023 | ESSA | fresh off the boat | Sleep accommodation |
+| [Resurrection Cup 2024](RESC/2024) | 14/06/2024 | 28/07/2024 | kotomiler | fresh off the boat | Bobik |
 
 #### ROI PRO Tournament
 
