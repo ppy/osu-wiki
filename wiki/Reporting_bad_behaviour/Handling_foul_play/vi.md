@@ -1,7 +1,7 @@
 # Xử lý hành vi chơi xấu
 ## Tại sao tôi bị hạn chế?
 
-Một người dùng có thể bị hạn chế nếu họ làm bất kỳ điều gì sau đây:
+Một người dùng có thể gặp phải hạn chế nếu họ làm bất kỳ điều gì sau đây:
 
 - Hành vi sai trái liên tục bất kể số lần vi phạm họ tích lũy
 - Tránh né hình phạt bằng cách tạo một tài khoản mới
