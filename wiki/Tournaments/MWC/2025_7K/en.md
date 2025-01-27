@@ -152,7 +152,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Quarterfinals
 
-**[Download the mappack here (84 MB, *temporary link*)](https://leoflt.com/s/YViF)**\
+**[Download the mappack here (84 MB)](https://packs.ppy.sh/P273%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Quarterfinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2364500525)
 
 - Rice
@@ -160,19 +160,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
   2. [Sound piercer & ginkiha (feat. Yuzuha & NeLiME) - MI:LIGHT CONNECT (\_Kobii) \[LU:MINOUS DREAMS\]](https://osu.ppy.sh/beatmapsets/2314240#mania/4952529)
   3. [Ito Kanako - Tataeshi Tatakai no Uta (Tailsdk) \[Tale of a Battle\]](https://osu.ppy.sh/beatmapsets/2314259#mania/4952567)
   4. [saaa - MORNINGLOOM (taba2) \[TARDINESS\]](https://osu.ppy.sh/beatmapsets/2314251#mania/4952555)
-  5. [Akiri - Evolutionary Anima (Maxus, Critical\_Star) \[Collab Melody Symphonia\] *(temporary link)*](https://leoflt.com/s/kXJK)
-  6. [69 de 74 - Grievous Fate (Level 51) \[Fell Clutch\] *(temporary link)*](https://leoflt.com/s/2P54)
+  5. [Akiri - Evolutionary Anima (Maxus, Critical\_Star) \[Collab Melody Symphonia\]](https://osu.ppy.sh/beatmapsets/2314344#mania/4952725)
+  6. [69 de 74 - Grievous Fate (Level 51) \[Fell Clutch\]](https://osu.ppy.sh/beatmapsets/2314385#mania/4952820)
 - Long Note
   1. [Kashii Moimi feat. SEKAI - Karen no Seisou (Cut Ver.) (ExNeko) \[Monomania.\]](https://osu.ppy.sh/beatmapsets/2314242#mania/4952534)
   2. [YURRY CANON - Tsukuyomi Step (feat. nameless) (ExNeko) \[LN Dancing (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2314243#mania/4952535)
   3. [seatrus - Ataraxia (2020 Rework) (Blocko) \[Tranquility (MWC7K2023 Reference) (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2314245#mania/4952538)
   4. [Monster Siren Records & Kirara Magic - Fu Da Huang (Muses, \_Yiiiii) \[Reap of Millenia\]](https://osu.ppy.sh/beatmapsets/2314248#mania/4952550)
 - Hybrid
-  1. [Gram vs. DJ Genki - XIchedelic Nova Trinity (\_Stan) \[Transcendence\] *(temporary link)*](https://leoflt.com/s/ZC1m)
-  2. [PASOCOM MUSIC CLUB feat. punipunidenki - i s o p h o t e (lenpai) \[mazesoba + chashu\] *(temporary link)*](https://leoflt.com/s/eLYL)
+  1. [Gram vs. DJ Genki - XIchedelic Nova Trinity (\_Stan) \[Transcendence\]](https://osu.ppy.sh/beatmapsets/2314398#mania/4952876)
+  2. [PASOCOM MUSIC CLUB feat. punipunidenki - i s o p h o t e (lenpai) \[mazesoba + chashu\]](https://osu.ppy.sh/beatmapsets/2314588#mania/4953343)
   3. [siromaru - Tsuzumi (kaulpakka) \[Hakurouken (MWC)\]](https://osu.ppy.sh/beatmapsets/2314257#mania/4952564)
 - Tiebreaker
-  1. **[t+pazolite feat. Rizna - Distorted Lovesong (Full length) (\_Yiiiii) \[Chaos\] *(temporary link)*](https://leoflt.com/s/Bo24)**
+  1. **[t+pazolite feat. Rizna - Distorted Lovesong (Full length) (\_Yiiiii) \[Chaos\]](https://osu.ppy.sh/beatmapsets/2314347#mania/4952730)**
 
 ### Round of 16
 
