@@ -32,6 +32,6 @@ tags:
 
 The **No Release** mod removes the [accuracy](/wiki/Gameplay/Accuracy) penalty when releasing a key on the tail of [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note).
 
-**This mod can't be customised through Customisation.**
+**This mod cannot be customised.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
