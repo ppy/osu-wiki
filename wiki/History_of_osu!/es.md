@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f65f9027e4a4df76600c03ace51142cb8b96af84
----
-
 # Historia de osu!
 
 Registros de la historia de osu!, todo en la osu! wiki.
@@ -32,3 +27,4 @@ Registros de la historia de osu!, todo en la osu! wiki.
 - [Historial de las clasificaciones en línea](Online_rankings)
 - [Registro del personal](/wiki/People/Staff_log)
 - [Historial de los torneos de osu!](/wiki/Tournaments)
+- [Productos anteriores de la osu!store](/wiki/Past_osu!store_items)

@@ -13,6 +13,7 @@ tags:
 
 ![CM 模组图标](/wiki/shared/mods/CM.png "Cinema (CM) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Cinema（lazer 模组）](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *请勿与[电影摄影术 (Cinematography)](https://en.wikipedia.org/wiki/Cinematography) 混淆。*
 

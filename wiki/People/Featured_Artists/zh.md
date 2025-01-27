@@ -30,8 +30,9 @@ tags:
 - **2020:** 65
 - **2021:** 101
 - **2022:** 104
-- **2023:** 64
-- **2024:** *待定*
+- **2023:** 65
+- **2024:** 58
+- **2025:** *待定*
 
 每周，osu! 的[新闻推送](https://osu.ppy.sh/home/news)都会公布新的精选艺术家，公告文章里大多都会列出艺术家授权的音乐和主页链接，有时这些文章也会和[谱师工会](/wiki/Community/Mappers_Guild)做的谱面或作图竞赛的文章一同发布。
 
@@ -87,6 +88,7 @@ tags:
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=CA }:: [Kommisar](https://osu.ppy.sh/users/773405) | [Kommisar](https://osu.ppy.sh/beatmaps/artists/379) |
 | ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078) | [Krimek](https://osu.ppy.sh/beatmaps/artists/371) |
+| ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) | [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
@@ -128,4 +130,5 @@ tags:
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) （成员） |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |
+| ::{ flag=DE }:: [ZVLIAN](https://osu.ppy.sh/users/13687741) | [ZVLIAN](https://osu.ppy.sh/beatmaps/artists/455) |
 | ::{ flag=US }:: [ZytrxZX](https://osu.ppy.sh/users/14782369) | [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430) |
