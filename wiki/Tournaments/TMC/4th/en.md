@@ -2,6 +2,8 @@
 tags:
   - TMC
   - THMC
+  - THMC4
+  - THMC 4
   - THMC 4th
   - THMC4th
 ---
@@ -67,9 +69,20 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ## Groups
 
-## Podium
+## Podium-->
 
-## Mappools-->
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here! (30 MB)](https://drive.google.com/file/d/1-G2a4Azp-V6DXjdfw1PlNtroJGPhHso6/)**
+
+1. [Sasara Yuuna - Oreore Shuugetsu ~Wriggle de Pikokyon~ (Cut Ver.) (AutotelicBrown)\[Stage 1: Fool Moon\]](https://osu.ppy.sh/beatmapsets/2310392#mania/4942637)
+2. [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Sped Up & Cut Ver.) (MyZterioN-)\[Stage 2: Sakura Tears\]](https://osu.ppy.sh/beatmapsets/2310371#mania/4942587)
+3. [sawawa - Seventh Doll (Hylotl)\[Stage 3: Alice Crisis\]](https://osu.ppy.sh/beatmapsets/2310413#mania/4942674)
+4. [Pizuya's Cell - Nano Probe (PORTTAYER)\[Stage 4: Setsuna\]](https://osu.ppy.sh/beatmapsets/2310402#mania/4942651)
+5. [Rolling Contact - Tyto Alba (YuEast 2018)\[Stage 5: Rocking\]](https://osu.ppy.sh/beatmapsets/2310393#mania/4942638)
+6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan)\[Stage 6: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
 
 ## Ruleset
 

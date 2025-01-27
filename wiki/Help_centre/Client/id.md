@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - bug
   - crash
@@ -16,503 +17,507 @@ tags:
   - glitch
   - gameplay
   - interface
-  - pembaharuan
+  - pembaruan
+  - peluncuran
   - pengaturan
+  - jenis tulisan
   - direktori
   - permainan
   - koneksi
   - performa
-  - tampilan antarmuka
+  - antarmuka
 ---
 
 # Klien
 
-*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
+*Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Apakah kamu mengalami masalah dengan klien osu! milikmu? Harap simak artikel ini dengan seksama untuk mengetahui apakah persoalan yang tengah kamu hadapi telah terperinci di dalamnya.
+Memiliki masalah dengan klien permainanmu? Temukan apakah masalahmu termasuk ke dalam daftar masalah yang paling umum dijumpai oleh para pengguna kami.
 
 ## Bug & crash {id=crash}
 
-### Saya mengubah pengaturan osu! saya, dan sekarang osu! saya tidak dapat dibuka! {id=incorrect-settings}
+### Saya mengubah pengaturan saya, dan sekarang osu! saya tidak dapat dibuka atau tidak merespons! {id=incorrect-settings}
 
-**Pada umumnya, masalah ini dapat teratasi dengan mengembalikan osu! ke pengaturan *default*.**
+**Dalam sebagian besar kasus, masalah ini akan dapat diselesaikan dengan mengatur ulang osu! ke pengaturan bawaannya.**
 
-Untuk dapat mengembalikan osu! ke pengaturan *default*, ikuti langkah-langkah berikut:
+Ikuti langkah-langkah berikut untuk mengatur ulang osu! ke pengaturan bawaan:
 
-1. Jalankan osu! sembari menahan tombol `Shift` pada *keyboard*.
-2. Tunggu hingga osu! memunculkan menu `osu! configuration`.
-3. Klik tombol `reset settings` yang terdapat pada bagian bawah menu.
-4. Apabila osu! milikmu masih bermasalah, buka kembali menu tersebut dan klik `repair osu!`.
+1. Buka osu! sambil menekan tombol `Shift` pada keyboard.
+2. Terus tekan `Shift` hingga kamu melihat menu dialog pemulihan osu! .
+3. Pada saat menu `osu! configuration dialog` ini terbuka, klik tombol `reset settings`.
+4. Apabila masalahmu belum teratasi, buka menu dialog ini kembali dan klik `repair osu!`.
 
-### osu! saya menjadi tidak responsif setiap kali saya hendak membuka suatu tautan atau mengklik beatmap di lobi multiplayer! {id=broken-links}
+### osu! saya tidak merespon pada saat saya mengeklik tautan atau map multiplayer! {id=broken-links}
 
-**Pastikan kamu tidak sedang menjalankan osu! pada mode *compatibility mode*, dan pastikan pula kamu memiliki aplikasi *web browser* yang terpasang sebagai *default browser* pada sistem.**
+**Pastikan bahwa kamu tidak sedang menjalankan osu! pada mode kompatibilitas Windows dan kamu memiliki browser bawaan yang terpasang pada pengaturan sistemmu.**
 
-Masalah ini pada umumnya disebabkan oleh terdapatnya suatu konflik antara osu! dengan sistem komputer milikmu akibat penggunaan *compatibility mode* atau akibat tidak terdapatnya aplikasi *default browser* yang dapat osu! gunakan untuk membuka tautan.
+Masalah ini terkadang disebabkan oleh interaksi tertentu dengan mode kompatibilitas yang ada, atau karena tidak adanya browser bawaan yang dapat digunakan oleh permainan untuk membuka tautan.
 
-#### Apakah osu! sedang berjalan pada mode compatibility mode? {id=windows-compatibility}
+#### Apakah permainanmu sedang berjalan pada mode kompatibilitas Windows? {id=windows-compatibility}
 
-Untuk memeriksa apakah osu! sedang berjalan pada mode *compatibility mode* atau tidak, ikuti langkah-langkah berikut:
+Untuk memeriksa apakah permainanmu sedang berjalan pada mode kompatibilitas Windows, ikuti langkah-langkah berikut:
 
-1. Buka folder osu! dan cari `osu!.exe`.
-2. Klik kanan `osu!.exe` tersebut dan klik `Properties` pada menu yang muncul.
+1. Buka folder tempat kamu memasang osu! dan temukan `osu!.exe`.
+2. Klik kanan `osu!.exe` dan pilih `Properties` dari menu dropdown yang muncul.
 3. Tuju tab `Compatibility`.
-4. Perhatikan apakah opsi `Run this program in compatibility mode` yang ada pada bagian `Compatibility mode` telah tercentang atau tidak.
-5. Apabila opsi ini telah tercentang sebelumnya, hilangkan tanda centang yang ada.
-6. Tutup semua layar osu! yang aktif (apabila ada) dan jalankan osu! kembali.
+4. Cari kotak centang bertuliskan `Run this program in compatibility mode` di dalam bagian `Compatibility mode`.
+5. Apabila kotak ini telah tercentang, lepas tanda centang ini untuk menonaktifkan mode kompatibilitas.
+6. Apabila permainanmu telah terbuka, tutup dan buka kembali klien permainanmu.
 
-#### Apakah kamu memiliki aplikasi default browser yang terpasang pada sistem? {id=default-browser}
+#### Apakah kamu memiliki browser bawaan yang terpasang? {id=default-browser}
 
-**Apabila kamu menggunakan Windows, pada umumnya kamu telah memiliki aplikasi *default browser* yang terpasang pada sistem sejak pertama kali kamu menginstal Windows.**
+**Dalam hampir seluruh kasus, sebagian besar instalasi Windows sudah akan memiliki browser bawaan yang terpasang.**
 
-Untuk memeriksa apakah kamu memiliki aplikasi *default browser* yang terpasang, ikuti langkah-langkah berikut:
+Untuk memeriksa hal ini, ikuti langkah-langkah berikut (pada Windows 8 atau lebih tinggi):
 
-1. Buka menu Start.
-2. Ketik `default app settings` pada kolom pencarian (*quick-search bar*) yang ada pada menu Start, dan klik hasil teratas yang muncul.
-3. Tuju bagian `Web browser` pada layar yang baru terbuka dan pastikan bahwa kamu telah memiliki aplikasi *web browser* yang terdaftar sebagai *default browser* pada sistem.
+1. Buka Menu Start.
+2. Ketik `default app settings` pada bilah pencarian yang terdapat pada menu Start dan klik pengaturan yang muncul.
+3. Gulirkan layar ke bagian `Web browser` dan periksa apakah browser yang kamu miliki telah terpasang sebagai browser bawaan.
 
-### osu! saya tidak dapat diperbaharui sebagaimana mestinya! {id=cannot-update}
+### Permainan saya tidak dapat diperbarui sebagaimana mestinya! {id=cannot-update}
 
-**Pada umumnya, hal ini disebabkan oleh terdapatnya suatu masalah pada PC milikmu atau - dalam kasus-kasus tertentu - pada versi osu! yang hendak kamu unduh.**
+**Hal ini biasanya disebabkan oleh masalah pada PC kamu, namun dalam kasus langka tertentu, hal ini dapat pula disebabkan oleh pembaruan itu sendiri.**
 
-Walaupun osu! telah diprogram sedemikian rupa untuk dapat memperbaharui dirinya sendiri tanpa harus diminta, dalam prosesnya terkadang terdapat hal-hal yang tidak diinginkan.
+osu! pada umumnya akan dapat memperbarui dirinya sendiri tanpa bantuan apa pun, namun terkadang segala sesuatunya dapat tidak berjalan sebagaimana mestinya.
 
-Apabila kamu menemui suatu masalah, kami menyarankanmu untuk me-*restart* PC milikmu terlebih dahulu. Walaupun terkesan sepele, tindakan ini telah terbukti ampuh untuk dapat mengatasi berbagai masalah teknis yang ada, termasuk yang berhubungan dengan osu!.
+Kami menyarankanmu untuk memulai ulang PC kamu sebagai langkah pertamamu. Hal ini akan dapat menyelesaikan berbagai masalah yang menjangkiti komputermu, termasuk yang berhubungan dengan osu!.
 
-Apabila masalahmu masih belum kunjung terselesaikan, pastikan versi "*release stream*" yang kamu gunakan adalah versi `stable`.
+Pastikan "versi rilis" (*release stream*) kamu telah diatur ke `stable` pada menu pengaturan.
 
-Kamu juga dapat memaksa osu! untuk mengunduh versi osu! yang terbaru.
+Kamu juga dapat memaksa osu! untuk memperbarui dirinya sendiri.
 
-#### Mengubah versi release stream {id=release-stream}
+#### Mengubah versi rilis osu! {id=release-stream}
 
-**Kamu dapat mengubah versi *release stream* melalui menu Options.**
-
-1. Buka osu!.
-2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Ketik `release` pada kolom pencarian (*quick-search bar*) yang muncul.
-4. Pastikan kamu sedang menggunakan osu! versi `Stable (Latest)`.
-
-#### Memaksa osu! untuk mengunduh versi osu! yang terbaru {id=force-update}
-
-**Kamu dapat memaksa osu! untuk mengunduh versi osu! yang terbaru melalui menu Options.**
+**Versi rilis osu! dapat diubah melalui menu pengaturan di dalam permainan.**
 
 1. Buka osu!.
-2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Ketik `update` atau `pembaharuan` pada kolom pencarian (*quick-search bar*) yang muncul.
-4. Klik tombol `Jalankan osu! updater`.
+2. Klik tombol `Options` pada menu utama atau tekan `Ctrl` + `O`.
+3. Ketik `release` pada bilah pencarian untuk langsung menuju pengaturan yang terkait.
+4. Pastikan menu dropdown yang tertera menampilkan pilihan `Stabil (Terkini)` untuk menerima versi stabil osu! yang paling terkini.
 
-Kamu juga dapat memaksa osu! untuk mengunduh versi osu! yang terbaru dengan membuat berkas `help.txt` pada folder osu! milikmu. Berkas ini tidak perlu kamu isi dengan teks apapun; asalkan kamu memiliki berkas ini, osu! akan secara otomatis memperbaharui dirinya sendiri di kemudian waktu.
+#### Memaksa osu! untuk memperbarui dirinya sendiri {id=force-update}
 
-### Saya mendapatkan pesan error yang menyinggung seputar "font styles" ketika saya hendak membuka osu! milik saya! {id=no-default-fonts}
+**Kamu dapat memaksa osu! untuk memperbarui dirinya sendiri melalui menu pengaturan.**
 
-**Pada umumnya, hal ini disebabkan oleh hilangnya atau belum terpasangnya jenis-jenis tulisan (*font*) tertentu pada sistem Windows yang kamu gunakan.**
+1. Buka osu!.
+2. Klik tombol `Options` pada menu utama atau tekan `Ctrl` + `O`.
+3. Ketik `update` pada bilah pencarian untuk langsung menuju pengaturan yang terkait.
+4. Klik tombol `Jalankan updater osu!`.
 
-Apabila kamu menemui pesan *error* ini di kala kamu hendak menjalankan osu! atau aplikasi *updater* milik osu!, besar kemungkinan kamu telah secara tidak sengaja menghapus (atau belum memasang) jenis-jenis tulisan tertentu yang umum digunakan oleh Windows pada PC milikmu. Ketidaktersediaan jenis-jenis tulisan ini diketahui dapat merusak osu! dan berbagai aplikasi lainnya.
+Kamu juga dapat memaksa pembaruan ini dengan membuat berkas `help.txt` pada folder tempat kamu memasang osu!. Berkas ini tidak perlu untuk diisi dengan hal apa pun; selama berkas ini ada, osu! akan memaksakan pembaruan pada saat selanjutnya diluncurkan.
 
-Berikut merupakan daftar jenis-jenis tulisan yang umum digunakan oleh Windows:
+### Saya menemui kesalahan seputar "gaya font" ("font styles") pada saat saya mencoba untuk membuka permainan! {id=no-default-fonts}
 
-- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (terutama Arial, Times New Roman, Trebuchet MS, and Verdana)
+**Kamu kemungkinan telah menghapus atau kehilangan berbagai jenis tulisan sistem penting yang terpasang dengan instalasi Windows. **
+
+Apabila kamu menemui kesalahan ini pada saat kamu mencoba untuk membuka osu! atau program pembarunya, hal ini berarti bahwa kamu telah menghapus atau kehilangan berbagai jenis tulisan sistem penting yang datang bersama Windows. Jenis tulisan ini digunakan di hampir seluruh sistem operasi Windows, dan oleh karenanya kamu akan dapat menemui berbagai masalah seperti tampilan huruf yang salah, teks yang hilang, dan aplikasi yang crash akibat font yang hilang ini.
+
+Untuk membantumu, berikut merupakan kumpulan jenis tulisan umum yang sering digunakan pada berbagai versi Windows dan situs web:
+
+- [Jenis tulisan web inti Microsoft](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (terutama Arial, Times New Roman, Trebuchet MS, dan Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
 - [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
-- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Traditional Chinese UI font)
+- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?\&id=12072) (微軟正黑體) (jenis tulisan untuk antarmuka Bahasa Tionghoa Tradisional)
 
-Untuk panduan lebih lanjut seputar masalah ini, harap lihat [topik diskusi pada situs web Microsoft Answers berikut](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a).
+Kunjungi [topik Microsoft Answers berikut](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) untuk memperoleh saran yang lebih terperinci dan berbagai cara lainnya untuk memasang jenis tulisan ini kembali.
 
-### Sebagian beatmap yang saya miliki menghilang! {id=missing-beatmaps}
+### Sebagian beatmap saya hilang! {id=missing-beatmaps}
 
-**Pastikan kamu tidak sedang mengelompokkan beatmap-beatmap yang ada berdasarkan kriteria tertentu.**
+**Pastikan kamu tidak sedang mengelompokkan beatmap kamu berdasarkan suatu kategori tertentu pada pojok kanan atas layar (atau dengan kata lain, pastikan opsi "Pengelompokan" yang ada sedang diatur ke "Tanpa Pengelompokan").**
 
-Harap periksa apakah opsi "Grup" yang terdapat pada pojok kanan atas layar sedang terpasang ke "Tanpa Pengelompokan" atau tidak.
+Apabila kamu baru saja mengunduh suatu beatmap, kamu dapat mencoba untuk memperbarui daftar beatmap kamu dengan menekan tombol `F5` pada layar pemilihan lagu.
 
-Apabila kamu masih merasa ada beatmap-beatmap yang hilang, cobalah untuk menekan `F5` agar osu! dapat memproses dan memuat ulang beatmap-beatmap yang ada.
+Pastikan juga kamu tidak sedang membatasi beatmap apa saja yang sedang ditampilkan pada menu pengaturan.
 
-Di samping itu, pastikan juga kamu tidak sedang membatasi rentang batas tingkat kesulitan beatmap yang osu! tampilkan sebagai berikut:
-
-1. Buka osu!.
-2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Ketik `song select` atau `pemilihan lagu` pada kolom pencarian (*quick-search bar*) yang muncul.
-4. Pastikan *slider* yang ada pada opsi `Tampilkan beatmap dari` berada pada batas bawah (0 bintang) dan *slider* yang ada pada opsi `hingga` diatur pada batas atas (10+ bintang).
-
-![](img/difficulty-display.png "Pengaturan rentang batas tingkat kesulitan yang disarankan")
-
-Apabila kamu sudah mencoba semua hal di atas namun kamu tetap saja masih merasa ada beatmap-beatmap yang hilang, kamu dapat memaksa osu! untuk mereka ulang *database* lagu yang osu! miliki dari awal. **Harap dicatat bahwa proses ini akan menghilangkan segala rekam jejak permainan yang ada sebelumnya.**
-
-Untuk dapat mereka ulang *database* lagu yang osu! miliki, ikuti langkah-langkah berikut:
+Untuk memeriksa atau mengubah beatmap apa saja yang ditampilkan pada layar pemilihan lagu, ikuti langkah-langkah berikut:
 
 1. Buka osu!.
-2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Klik `Buka folder osu!`.
+2. Klik tombol `Options` pada menu utama atau tekan `Ctrl` + `O`.
+3. Ketik `song select` pada bilah pencarian untuk langsung menuju pengaturan yang terkait.
+4. Pastikan pilihan `Tampilkan beatmap dari` dan `hingga` yang muncul sedang diatur pada rentang 0 hingga 10+ bintang.
+
+![](img/difficulty-display.png "Nilai pengaturan Tampilkan Beatmap yang tepat")
+
+Apabila seluruh metode ini tidak membantu, sebagai pilihan terakhir, kamu dapat mencoba memaksa basis data beatmap kamu untuk direka ulang. **Mohon diperhatikan bahwa hal ini akan menandai seluruh beatmap yang kamu miliki sebagai "belum dimainkan", sehingga pencarian dan pengelompokan beatmap berdasarkan tanggal permainan terakhir tidak akan lagi dapat dilangsungkan.**
+
+Untuk memaksa agar basis data beatmap kamu direka ulang secara aman, ikuti langkah-langkah berikut:
+
+1. Buka osu!.
+2. Klik tombol `Options` pada menu utama atau tekan `Ctrl` + `O`.
+3. Klik `Buka folder osu! `.
 4. Tutup osu!.
-5. Temukan berkas `osu!.db` pada folder osu! milikmu.
-6. Klik kanan berkas tersebut, lalu klik `Rename`.
-7. Beri nama baru pada berkas tersebut. Kamu dapat menamai berkas tersebut sesuka hatimu asalkan nama baru berkas tersebut tidak mengandung "osu!" di dalamnya. Apabila sudah, tekan `Enter`.
-8. Buka osu! kembali.
+5. Temukan berkas `osu!.db` pada folder yang baru saja kamu buka.
+6. Klik kanan berkas ini dan lalu klik `Rename`.
+7. Beri nama baru kepada berkas ini sesuai dengan keinginanmu. Berkas ini dapat dinamai dengan nama apa saja selama bukan "osu!". Apabila sudah, tekan `Enter`.
+8. Luncurkan osu! kembali.
 
-*Catatan tambahan: Per osu! versi [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) yang dirilis pada 2021-05-19, masalah ini akan terselesaikan secara otomatis. Apabila kamu menggunakan osu! versi tersebut (atau yang lebih baru) namun tetap merasa mengalami masalah ini, harap [laporkan masalahmu kepada kami](https://github.com/ppy/osu-stable-issues/issues).*
+*Catatan: Solusi untuk masalah ini telah diimplementasikan pada osu! versi [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) yang dirilis pada tanggal 19 Mei 2021. Apabila kamu masih menemui masalah ini, silakan [beri tahu kami](https://github.com/ppy/osu-stable-issues/issues).*
 
-### Daftar lagu yang ada pada layar saya terus-menerus bergulir tanpa henti! {id=songs-list-scrolling}
+### Daftar lagu saya terus-menerus bergulir! {id=songs-list-scrolling}
 
-**Masalah ini pada umumnya disebabkan oleh terdapatnya suatu tombol yang macet pada piranti input (*input device*) yang bermasalah. Cobalah untuk mencopot *keyboard* atau *joystick* yang sedang kamu gunakan.**
+**Hal ini pada umumnya disebabkan oleh terdapatnya perangkat input bermasalah yang sedang terhubung ke komputermu. Cobalah untuk mencabut kontroler atau joystick yang sedang terhubung.**
 
-Di samping itu, masalah ini juga dapat disebabkan oleh penggunaan aplikasi yang dapat menyimulasikan input *mouse* dan *keyboard* secara virtual seperti *Xpadder* atau *X-Mouse Button Control*. Apabila kamu sebelumnya pernah menggunakan aplikasi yang demikian, cobalah untuk menutupnya.
+Masalah ini juga dapat disebabkan oleh aplikasi yang menirukan atau mengubah input keyboard, seperti *Xpadder* atau *X-Mouse Button Control*. Apabila kamu menggunakan aplikasi yang demikian untuk permainan lain, cobalah untuk menonaktifkan aplikasi ini.
 
-Periksa juga apakah tombol-tombol pada *numpad* milikmu bermasalah. Cobalah untuk menekan `NumLock` dan perhatikan kondisi tombol-tombol `9`, `8`, `3`, dan `2` pada *numpad* milikmu setelahnya mengingat tombol-tombol tersebut juga dapat digunakan untuk menggulirkan roda lagu pada menu Song Select.
+Selain itu, masalah ini juga dapat disebabkan oleh tombol numpad yang berulah, karena tombol ini juga dapat digunakan untuk menggulirkan daftar pilihan lagu. Menekan tombol `NumLock` untuk menonaktifkan numpad dan kemudian menekan `9`, `8`, `3`, atau `2` pada numpad akan menyelesaikan masalah ini.
 
-Terakhir, jangan lupa untuk selalu menjaga dan merawat piranti-piranti inputmu dengan baik.
+Kamu juga dapat memeriksa apakah terdapat tombol yang macet atau rusak pada perangkatmu.
 
-### osu! terus-menerus berusaha untuk "memperbaiki" berkas paket beatmap (beatmap pack) yang saya unduh! {id=beatmap-pack-extraction}
+### Saya mengunduh paket beatmap, namun osu! selalu mencoba untuk "memperbaiki" paket ini! {id=beatmap-pack-extraction}
 
-**Kamu harus terlebih dahulu mengekstrak isi paket beatmap tersebut ke dalam folder Songs yang kamu miliki.**
+**Kamu akan perlu untuk mengekstrak paket ini ke dalam folder Songs milikmu.**
 
-Paket-paket beatmap yang tersedia pada situs web osu! pada umumnya tersedia dalam format `.rar` yang terkompresi. Kamu harus terlebih dahulu mengekstrak isi paket beatmap tersebut dengan menggunakan aplikasi semacam [7-Zip](https://7-zip.org "7zip") ke dalam folder `Songs` yang kamu miliki.
+Sebagian besar paket beatmap disediakan dalam format berkas `.rar`, yang menandakan bahwa berkas ini merupakan arsip yang terkompresi. Kamu akan perlu untuk terlebih dahulu mengekstrak arsip ini menggunakan perangkat lunak pilihanmu (kami merekomendasikan [7-Zip](https://7-zip.org)) ke dalam folder `Songs` milikmu.
 
-Setelah semua berkas `.osz` yang terkandung di dalam paket beatmap yang bersangkutan selesai diekstrak, tekan `F5` pada layar osu! agar osu! dapat memuat beatmap-beatmap yang baru saja kamu tambahkan tersebut ke dalam permainan.
+Setelah seluruh berkas `.osz` dari arsip ini terekstrak ke folder `Songs`, tekan `F5` pada layar pemilihan lagu untuk memuat ulang daftar beatmap dan memuat lagu-lagu baru kamu ke dalam permainan.
 
 ## Permainan {id=gameplay}
 
-### Indikator kombo, skor, dan akurasi yang saya miliki menghilang! {id=missing-interface}
+### Tampilan kombo, skor, atau akurasi saya hilang! {id=missing-interface}
 
-**Tekan kombinasi tombol `Shift` + `Tab` di dalam permainan untuk kembali memunculkan indikator-indikator tersebut.**
+**Menekan `Shift` + `Tab` ketika bermain akan memunculkan tampilan jemala (*head-up display*/HUD) dalam permainan dan memungkinkan kamu untuk melihat elemen ini kembali.**
 
-Apabila tidak terjadi apa-apa setelah kamu menekan kombinasi tombol tersebut, harap periksa apakah kamu sebelumnya telah mengubah *key bind* osu! secara tidak sengaja. Tuju `Options` -> `Konfigurasi Tombol` -> `In-Game` -> `Toggle Scoreboard`, lalu atur ulang kombinasi tombol yang ada.
+Apabila kamu sebelumnya telah mengubah kombinasi tombol yang digunakan untuk memunculkan papan peringkat, solusi ini tidak akan membantumu. Kamu dapat memeriksa kombinasi tombol yang terhubung dengan tindakan ini melalui `Options` -> `Konfigurasi tombol` -> `Permainan` -> `Tampilkan Papan Peringkat`. Setelahnya, kamu akan dapat mengubah kombinasi tombol ini ke kombinasi yang berbeda, seperti `Shift` + `V`.
 
-### Skor-skor yang berada pada papan peringkat lokal (local leaderboard) yang saya miliki menghilang! {id=no-scores}
+### Skor lokal saya hilang! id=no-scores}
 
-Terdapat beberapa hal yang dapat memicu terjadinya masalah ini sebagai berikut:
+Terdapat beberapa alasan mengapa hal ini bisa terjadi.
 
-#### Apakah kamu baru saja menginstal ulang osu! belakangan ini? {id=no-scores-reinstalling}
+#### Apakah kamu baru saja memasang ulang klien permainanmu? {id=no-scores-reinstalling}
 
-**Menginstal ulang osu! akan menghapus semua skor lokal yang kamu miliki.**
+**Memasang ulang klien permainan akan menghapus seluruh skor lokal yang kamu miliki secara otomatis.**
 
-Skor-skor ini sayangnya tidak dapat dikembalikan.
+Sayangnya, skor yang hilang dengan cara yang demikian tidak akan lagi dapat dipulihkan.
 
-Meskipun demikian, skor-skor yang kamu torehkan ketika kamu bermain secara *online* tidak akan hilang - kamu hanya perlu mengunduh ulang beatmap-beatmap yang pernah kamu mainkan untuk kembali mendapatkan skor-skor ini.
+Meskipun demikian, skor yang telah kamu catatkan secara online tidak akan hilang — cukup unduh kembali lagu yang pernah kamu mainkan sebelumnya, dan skor ini akan kembali muncul.
 
-Apabila kamu memiliki osu!supporter, kamu dapat menggunakan filter `Pernah Dimainkan` pada opsi pencarian `Riwayat Permainan` yang ada pada [laman daftar beatmap](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) untuk mengetahui beatmap-beatmap apa saja yang pernah kamu mainkan sebelumnya.
+Tips praktis: Apabila kamu merupakan pemilik osu!supporter, kamu dapat menggunakan filter `Ranked (Telah Dimainkan)` yang terdapat pada panel osu!direct di dalam permainan atau pada [halaman daftar beatmap](https://osu.ppy.sh/beatmapsets?played=played\&s=ranked) untuk mencari beatmap yang memiliki skormu.
 
-#### Apakah kamu sedang berada pada mode permainan yang kamu kehendaki? {id=no-scores-game-mode}
+#### Apakah kamu sedang berada pada mode permainan yang benar? {id=no-scores-game-mode}
 
-**osu! memiliki papan peringkat lokal yang terpisah untuk keempat mode permainan yang ada (osu!, osu!taiko, osu!catch, dan osu!mania).**
+**Memainkan mode permainan lain (osu!taiko, osu!catch, atau osu!mania) akan mengatur osu! untuk hanya menampilkan skor dari mode permainan tersebut. Dengan kata lain, skor dari mode permainan selain yang saat ini sedang aktif tidak akan muncul.**
 
-Masalah ini umum dijumpai oleh para pemain yang tidak sengaja memainkan beatmap di mode permainan lain. Apabila kamu baru saja memainkan beatmap di mode permainan lain, kamu harus terlebih dahulu kembali ke mode permainan utamamu untuk dapat memunculkan papan peringkat lokal yang ada sebelumnya.
+Salah satu penyebab utama dari masalah ini adalah beatmap mode lain yang dimainkan secara tidak sengaja, yang akan mengubah mode permainan yang aktif pada layar pemilihan lagu ke mode tersebut.
 
-Kamu dapat mengubah mode permainan yang kamu kehendaki melalui tombol `Mode` yang ada pada pojok kiri bawah layar Song Select.
+Kamu dapat mengubah mode permainan yang aktif dengan mengeklik tombol `Mode` pada pojok kiri bawah layar pemilihan lagu dan memilih mode yang mengandung skor yang kamu cari.
 
-#### Apakah kamu baru saja selesai mengunduh sekian banyak beatmap (melalui bundel/paket beatmap atau lain sebagainya) dalam satu waktu? {id=no-scores-many-maps}
+#### Apakah kamu baru saja mengunduh beatmap dalam jumlah besar? (mis: melalui paket atau bundel beatmap) {id=no-scores-many-maps}
 
-**Dalam kasus demikian, osu! membutuhkan waktu untuk dapat memproses skor-skor yang ada.**
+**Skor yang ada terkadang akan memerlukan waktu untuk diunduh dari server kami apabila kamu memuat banyak beatmap baru sekaligus.**
 
-Kamu hanya perlu bersabar sembari menunggu osu! memuat skor-skor yang pernah kamu torehkan sebelumnya.
+Cukup mainkan osu! seperti biasa atau lakukan hal lain, dan klien permainan kamu akan memproses skor ini seiring waktu di belakang layar.
 
-### Apa gerangan jejak berwarna putih yang mengekori gerakan kursor saya ini? {id=smoke}
+### Apa itu jejak putih atau garis asap yang mengekor di belakang kursor saya? {id=smoke}
 
-**Jejak putih tersebut merupakan fitur *smoke* yang dapat kamu gunakan untuk menggambar hal apapun yang kamu inginkan. Para pemain yang sedang menontonmu juga akan dapat melihat jejak putih ini.**
+**Garis asap ini merupakan fitur khusus yang dikenal dengan nama *smoke*, yang dapat kamu gunakan untuk mencorat-coret layar permainanmu sesuka hati. Semua orang yang menonton kamu akan dapat melihat asap yang kamu gambar ini.**
 
-Secara *default*, fitur *smoke* ini akan muncul setiap kali kamu menahan tombol `C` pada *keyboard*. Kamu dapat mengubah tombol ini melalui opsi `Konfigurasi Tombol` yang ada pada menu `Options`, tepatnya pada sub-bagian `osu!`.
+Tombol keyboard bawaan yang terhubung dengan tindakan ini adalah `C`, di mana asap ini akan terus tergambar selama kamu menekan tombol ini. Kamu dapat mengubah tombol ini kapan saja pada bagian `osu!` di dialog pengaturan `Konfigurasi tombol`.
 
-### Bagaimana caranya agar saya dapat menyimpan tayangan ulang (replay) dari skor yang baru saja saya torehkan? {id=save-replay}
+### Bagaimana cara saya menyimpan tayangan ulang skor yang baru saja saya cetak? {id=save-replay}
 
-**Kamu dapat menyimpan tayangan ulang yang kamu kehendaki dengan menekan tekan tombol `F2` pada layar skor.**
+**Masuki layar hasil dengan mengeklik skor yang ingin disimpan pada papan peringkat lokal kamu, lalu tekan tombol `F2`.**
 
-Tayangan-tayangan ulang yang tersimpan dapat kamu akses pada folder `/Replays/` yang ada pada direktori osu! milikmu.
+Tindakan ini akan menyimpan skormu sebagai berkas `.osr` dalam folder /Replays/ pada direktori tempat osu! dipasang.
 
-Lebih jauh, sistem internal osu! juga menyimpan berbagai tayangan ulang pada folder `Data/r/` yang tersembunyi di dalam direktori osu! yang ada.
+osu! juga secara otomatis menyimpan seluruh tayangan ulang setelah kamu selesai memainkan suatu lagu pada folder tersembunyi `/Data/r`, yang juga terletak pada direktori pemasangan ini.
 
-Harap dicatat bahwa apabila karena suatu alasan tayangan ulang milikmu hilang atau tidak lagi tersedia secara *online*, tayangan ulang tersebut akan hilang selama-lamanya.
+Mohon diperhatikan bahwa apabila skor ini tidak memiliki tayangan ulang yang tersimpan, kamu tidak akan dapat melakukan hal ini untuk memperoleh tayangan ulangmu.
 
-### osu! memberitahu saya bahwa versi osu! yang saya gunakan sudah terlalu lawas (your game client is too old)! {id=old-client}
+### osu! memberi tahu saya bahwa klien permainan saya sudah terlalu lawas! {id=old-client}
 
-**Waktunya untuk memperbaharui versi osu! yang kamu gunakan! Versi-versi osu! lawas pada umumnya tidak lagi dapat digunakan untuk mengirimkan skor secara *online*, sehingga kamu harus memperbaharui versi osu! milikmu melalui menu `Options` -> `Umum` -> `Jalankan osu! updater` untuk tetap dapat terhubung dengan para pemain lain.**
+**Waktunya untuk memperbarui permainanmu! Versi osu! yang sangat lawas sudah tidak lagi dapat mengirimkan skor baru, sehingga kamu akan perlu untuk memaksa pembaruan melalui `Options` -> `Umum` -> `Jalankan updater osu!`.**
 
-Kamu juga dapat memperbaharui versi osu! yang kamu gunakan melalui menu `osu! configuration` yang dapat kamu akses dengan cara menahan tombol `Shift` di saat kamu membuka klien osu! (`osu.exe`) milikmu.
+Apabila hal ini tidak membantu, kamu dapat menutup osu! dan membuka kembali berkas `osu!.exe` sambil menekan tombol `Shift`. Hal ini akan memberikan kamu beberapa pilihan untuk memperbaiki dan membenahi permainan, yang salah satunya adalah memperbarui permainanmu ke versi terbaru.
 
-### Skor-skor yang saya torehkan tidak terkirim/ter-submit secara online! {id=no-submission}
+### Skor saya tidak terkirim! {id=no-submission}
 
-Ada beberapa hal yang dapat menyebabkan masalah ini sebagai berikut:
+Ups! Terdapat beberapa alasan mengapa hal ini bisa terjadi. Mari kita bahas satu per satu:
 
-#### Apakah kamu sedang terhubung ke internet? {id=no-submission-no-connection}
+#### Apakah kamu sedang terhubung ke internet pada saat bermain? {id=no-submission-no-connection}
 
-**Apabila kamu tidak sedang terhubung ke internet ketika kamu menyelesaikan permainanmu, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.**
+**Apabila kamu tidak dapat mengakses internet pada saat menyelesaikan permainanmu, skor ini bisa jadi tidak terkirim.**
 
-Apabila koneksimu terputus di tengah permainan, kamu tidak perlu khawatir - osu! akan berusaha untuk mengirim ulang/me-*resubmit* skor yang kamu torehkan secara otomatis ketika koneksimu telah pulih.
+Hal ini dapat sangat mengesalkan apabila kamu bermain dengan koneksi yang tidak stabil. Meskipun demikian, osu! akan mencoba untuk mengirimkan ulang skor ini sebisa mungkin selama kamu membiarkan klien permainanmu terbuka.
 
-#### Apakah koneksi dari dan menuju jaringan osu! sedang terhalang oleh aplikasi firewall atau anti-virus yang kamu gunakan? {id=no-submission-firewall}
+#### Apakah osu! telah diizinkan pada aplikasi firewall atau antivirus yang kamu miliki? {id=no-submission-firewall}
 
-**Aplikasi-aplikasi *firewall* dan *antivirus* tertentu terkadang menghalangi osu! untuk dapat terhubung ke internet.**
+**Firewall atau antivirus tertentu dapat mencegah osu! untuk mengakses internet, yang akan mencegah permainan untuk dapat mengirimkan skor.**
 
-Harap periksa pengaturan aplikasi-aplikasi *firewall* dan *antivirus* yang terpasang di komputermu dan pastikan aplikasi-aplikasi ini tidak menghalangi osu! untuk dapat terhubung ke internet.
+Periksa perangkat keamanan yang kamu gunakan untuk memastikan apakah berkas `osu!.exe` yang terdapat pada folder osu! kamu telah diizinkan untuk mengakses internet.
 
-#### Apakah kamu sedang menjalankan banyak aplikasi lain di waktu yang bersamaan? {id=no-submission-software}
+#### Apakah kamu sedang menjalankan banyak program di belakang layar? {id=no-submission-software}
 
-**Aplikasi-aplikasi tertentu terkadang juga dapat menghalangi osu! untuk dapat terhubung ke internet.**
+**Program tertentu dapat mengganggu kinerja osu! untuk mengirimkan skor.**
 
-Harap tutup aplikasi-aplikasi yang sekiranya tidak sedang kamu gunakan apabila kamu merasa internetmu tidak bermasalah.
+Cobalah untuk menutup program yang tidak perlu sebelum bermain osu! apabila skor kamu tidak terkirim walaupun koneksi internetmu tidak bermasalah.
 
-#### Apakah kamu memainkan versi beatmap yang tepat? {id=no-submission-beatmap-status}
+#### Apakah status beatmap kamu sudah tepat? {id=no-submission-beatmap-status}
 
-**Apabila kamu memainkan versi beatmap yang tidak tepat, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.**
+**Terkadang, status beatmap kamu dapat saling tertukar, yang mengakibatkan skor yang kamu catatkan pada beatmap ini tidak dapat dikirim.**
 
-Pada layar Song Select, pastikan ikon yang muncul pada layar kiri atas telah sesuai dengan status beatmap yang kamu mainkan (sebagai contoh, apabila kamu memainkan beatmap Ranked, kamu harusnya akan melihat ikon panah biru pada pojok kiri layarmu). Apabila kamu tidak melihat ikon apapun, atau ikon yang ada tidak sesuai dengan status beatmap yang bersangkutan, maka skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.
+Pada menu pemilihan lagu, periksa apakah ikon yang muncul di samping nama beatmap pada pojok kiri atas layar kamu sudah tepat (sebagai contoh, beatmap yang Ranked seharusnya akan menampilkan ikon dua panah biru). Apabila beatmap kamu tidak memunculkan ikon apa pun atau menampilkan ikon yang keliru, skor kamu tidak akan dapat dikirim.
 
-![](img/correct-map-status.png "Tampilan ikon *in-game* untuk beatmap Ranked")
+![](img/correct-map-status.png "Tampilan ikon yang benar pada beatmap Ranked")
 
-Kamu juga dapat mengecek apakah versi beatmap yang kamu hendak mainkan tepat atau tidak dengan menampilkan `Papan Peringkat Global` (*global leaderboard*). Apabila kamu menemui banyak beatmap milikmu yang versinya tidak tepat, cobalah untuk mereka ulang *database* lagu yang dimiliki osu! dengan mengikuti langkah-langkah yang tertera pada sub-bagian "[Sebagian beatmap yang saya miliki menghilang!](#missing-beatmaps)".
+Masalah ini dapat dicegah per beatmapnya dengan bermain pada papan peringkat global (alih-alih papan peringkat lokal). Apabila status yang tertera pada kebanyakan atau seluruh beatmap kamu hilang/keliru, cobalah untuk memaksa agar basis data beatmap kamu direka ulang. Kamu dapat mengetahui cara untuk melakukan proses ini secara aman pada bagian "[Sebagian beatmap saya hilang!](#missing-beatmaps)" di bawah. Setelah reka ulang ini selesai, kamu mungkin akan perlu untuk menunggu beberapa saat sebelum beatmap kamu kembali menampilkan status yang benar.
 
-#### Apakah server osu! sedang online? {id=no-submission-servers}
+#### Apakah server pengiriman skor kami sedang online? {id=no-submission-servers}
 
-***Server* osu! pada umumnya selalu *online* setiap saat, namun ada kalanya *server* kami sedang *offline* karena satu dan lain hal. Harap periksa [situs web osu! server status](https://status.ppy.sh) atau [akun Twitter @osustatus](https://twitter.com/osustatus) untuk mendapatkan perkembangan-perkembangan terkini seputar status *server* kami.**
+**Pertanyaan ini akan hampir selalu dapat dijawab dengan "ya", namun kamu dapat memeriksa halaman [status server osu!](https://status.ppy.sh) atau [akun Twitter @osustatus](https://twitter.com/osustatus) untuk memastikan apakah segala sesuatunya sedang berjalan lancar dari sisi kami.**
 
-Apabila *server* kami sedang *offline*, jangan tutup jendela osu! dan harap bersabar hingga server kami kembali *online*. osu! akan berusaha untuk mengirim ulang/me-*resubmit* skor yang kamu torehkan secara otomatis ketika *server* kami telah kembali *online*.
+Apabila server kami sedang offline, jangan tutup jendela osu! kamu hingga kami menyelesaikan masalah ini dan server kami kembali online. osu! akan berusaha untuk mengirimkan ulang skor kamu selama paling lama satu jam sebelum skor ini hangus.
 
-### Apakah saya dapat mengirimkan skor saya melalui email untuk kemudian disisipkan ke dalam papan peringkat (leaderboard) yang ada? {id=upload-replay}
+### Apakah kamu dapat mengunggah skor yang saya cetak untuk saya? {id=upload-replay}
 
-**Sayangnya tidak - tim kami tidak menerima permintaan untuk menyisipkan skor atau semacamnya.**
+**Sayangnya, kami tidak dapat menggunggah skor berdasarkan permintaan.**
 
-Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak terkirim masuk ke dalam *server* kami, kamu harus kembali mencetak skor baru pada beatmap yang sama. Mohon maaf yang sebesar-besarnya!
+Apabila skor kamu tidak terkirim karena masalah teknis atau hal lainnya, harapan terbaikmu adalah untuk mencetak ulang skor ini. Maaf!
 
-### Objek-objek permainan yang ada tidak sinkron dengan musik yang saya dengar! {id=offsync-notes}
+### Not yang ada terasa tidak sinkron atau tidak sesuai dengan musik! {id=offsync-notes}
 
-**Masalah ini pada umumnya disebabkan oleh terdapatnya aplikasi yang mempengaruhi output audio di komputermu (seperti *Razer Surround Audio*) atau tidak tepatnya nilai `Universal Offset` yang kamu gunakan.**
+**Masalah ini dapat diakibatkan oleh software pengolah suara yang berjalan di komputermu (seperti *Razer Surround Audio*) atau nilai `Offset Universal` kamu yang tidak diatur dengan benar.**
 
-Cobalah untuk menutup aplikasi-aplikasi yang sekiranya dapat mempengaruhi output audio. Apabila hal ini tidak membantu, cobalah untuk mengatur nilai `Universal Offset` yang kamu gunakan.
+Cobalah untuk menutup program lain yang mengubah atau memengaruhi suara yang keluar dari komputermu. Apabila hal ini tidak membantu, kamu dapat mencoba untuk mengatur nilai `Offset Universal` kamu.
 
-Pada umumnya, osu! dapat berjalan tanpa masalah pada nilai `Universal Offset` *default* yang ada. Meskipun demikian, dalam beberapa kasus, terkadang *hardware-hardware* tertentu dapat membuat tampilan visual yang ada pada layar dan suara lagu yang kamu dengar pada piranti audio milikmu menjadi tidak sinkron.
+Setiap konfigurasi hardware memiliki nilai `Offset Universal`-nya tersendiri, yang menentukan apakah audio dari permainanmu akan terdengar sedikit lebih cepat atau lebih lambat.
 
-Untuk dapat mengatur nilai `Universal Offset` yang kamu gunakan, ikuti langkah-langkah berikut:
+Kebanyakan orang tidak akan perlu untuk mengubah nilai offset bawaan mereka, namun apabila kamu menemukan bahwa nilai bawaan ini tidak sesuai bagimu, kamu dapat mengubahnya dengan mengikuti langkah-langkah berikut:
 
 1. Buka osu!.
-2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Ketik `offset` atau pada kolom pencarian (*quick-search bar*) yang muncul.
-4. Atur nilai *offset* yang kamu gunakan hingga objek-objek permainan yang ada tersinkronisasi dengan baik terhadap musik yang mengalun. Apabila kamu ragu, kamu dapat menggunakan *[offset wizard](/wiki/Client/Options/Offset_Wizard)* sebagai acuan pengaturanmu.
+2. Klik tombol `Options` pada menu utama atau tekan `Ctrl` + `O`.
+3. Ketik `offset` pada bilah pencarian. Hal ini akan membawa kamu ke pengaturan offset universal yang saat ini digunakan oleh klien permainanmu.
+4. Gunakan tuas yang ada untuk mengatur nilai offset universal kamu. Sebagai alternatif, gunakan [wisaya offset](/wiki/Client/Options/Offset_Wizard) untuk membantumu dengan proses ini.
 
-Terakhir, jangan lupa untuk senantiasa memperbaharui *driver* milik *sound card* dan *motherboard* yang kamu gunakan.
+Apabila hal ini masih tidak membantu, kamu dapat memperbarui driver kartu suara atau motherboard kamu.
 
-### Tampilan osu! saya terlihat terkotak-kotak, seolah-oleh layar saya hendak terbelah! {id=screen-tearing}
+### Permainan saya terlihat bermasalah, seolah-olah tampilan pada layar saya robek! {id=screen-tearing}
 
-**Masalah ini dikenal dengan istilah *[screen tearing](https://en.wikipedia.org/wiki/Screen_tearing)* yang dapat kamu atasi dengan mengatur nilai batasan FPS (*frame limiter*) milikmu ke `Vsync`.**
+**Hal ini disebabkan oleh efek yang dikenal sebagai [*screen tearing*](https://en.wikipedia.org/wiki/Screen_tearing) dan dapat diperbaiki dengan mengatur batasan FPS permainan ke `VSync`.**
 
-Pada umumnya, *screen tearing* ini timbul karena jumlah *frame* yang osu! tampilkan per detiknya tidak sesuai dengan nilai *refresh rate* yang monitor kamu miliki. Adapun masalah ini tidak membahayakan komputer atau monitormu.
+Efek ini merupakan sesuatu yang sama sekali tidak berbahaya (walaupun terlihat buruk!) dan disebabkan oleh frekuensi gambar (*refresh rate*) permainan yang tidak sinkron dengan frekuensi monitormu.
 
-Di samping itu, kamu juga dapat menjalankan osu! pada mode `Windowed` atau `Borderless` yang akan secara otomatis mengaktifkan opsi `Vsync` yang ada. Harap dicatat bahwa penggunaan `VSync` dan/atau mode `Windowed` dan `Borderless` di sini dapat menurunkan performa osu! dan menambah *input lag* bagi sebagian pemain.
+Kamu juga dapat mencoba untuk bermain pada mode Windowed atau Borderless, yang akan menggunakan teknologi VSync bawaan sistem operasimu.
 
-Apabila kamu menggunakan kartu grafik (*graphics card*) NVidia, kamu juga dapat mengatasi masalah ini dengan cara membuka aplikasi NVidia Control Panel dan mengatur nilai `global refresh rate` yang ada ke `Fast`.
+Sayangnya, mengaktifkan VSync atau bermain pada mode Windowed/Borderless akan *sedikit* menimbulkan jeda input dalam permainan. Bagi kebanyakan orang, jeda input ini tidak akan menimbulkan masalah yang berarti.
 
-## Fitur-fitur online {id=online-features}
+Kartu grafis NVidia model terkini memiliki pengaturan global pada NVidia Control Panel untuk mengatur frekuensi gambar global ke `Fast`, yang juga dapat kamu gunakan untuk menyelesaikan masalah ini.
 
-### Saya tidak bisa terhubung ke jaringan ke osu! sama sekali! {id=cannot-sign-in}
+## Fitur online {id=online-features}
 
-**Pastikan koneksi dari dan menuju jaringan osu! tidak sedang terhalang oleh aplikasi *firewall* atau anti-virus yang terpasang di komputer milikmu.**
+### Saya tidak dapat masuk atau terhubung ke permainan sama sekali! {id=cannot-sign-in}
 
-Berikut merupakan langkah-langkah yang dapat kamu lakukan agar koneksi dari dan menuju jaringan osu tidak lagi terhalang oleh aplikasi *firewall* atau anti-virus yang kamu miliki:
+**Pastikan osu! dapat mengakses internet sebagaimana mestinya tanpa terhalang oleh firewall atau antivirus apa pun yang terpasang pada komputermu.**
 
-#### Mengatur agar koneksi osu! tidak terhalang oleh Windows Firewall {id=firewall-whitelist-windows}
+Berikut merupakan beberapa cara untuk mengizinkan suatu aplikasi agar dapat mengakses internet melalui antivirus yang umum digunakan:
 
-**Pada umumnya, para pengguna Windows sudah memiliki aplikasi Windows Firewall yang terpasang secara *default* pada sistem.**
+#### Mengizinkan program untuk melalui Windows Firewall {id=firewall-whitelist-windows}
 
-Apabila osu! tidak dapat terhubung ke internet, kamu dapat mengecek apakah koneksi dari dan menuju jaringan osu! sedang diblokir oleh Windows Firewall atau tidak melalui langkah-langkah berikut:
+**Dalam sebagian besar instalasi Windows, Windows Firewall akan terpasang sebagai firewall bawaan sistem.**
+
+Untuk memastikan bahwa osu! dapat mengakses internet, kamu akan perlu untuk mengizinkan osu! agar dapat terhubung melalui Windows Firewall. Untuk memeriksa izin ini dan menambahkan osu! ke daftar program yang diizinkan, ikuti langkah-langkah berikut:
 
 1. Buka menu Start.
-2. Ketik `allow an app` pada kolom pencarian (*quick-search bar*) yang ada pada menu Start.
-3. Klik `Allow an app through Windows Firewall`.
-4. Kamu akan melihat panel yang berisikan daftar aplikasi yang terpasang pada komputer milikmu. Klik aplikasi manapun, lalu tekan tombol `o` pada *keyboard* untuk mempersempit pencarian.
+2. Ketik `allow an app` pada bilah pencarian yang terdapat pada menu Start.
+3. Hasil pencarianmu akan mengerucut ke pengaturan `Allow an app through Windows Firewall` yang terdapat pada Control Panel. Klik pengaturan ini.
+4. Kamu akan dihadapkan dengan panel yang berisi daftar berbagai aplikasi dengan dua kotak centang di sampingnya. Klik pada nama aplikasi mana pun, lalu tekan tombol `o`. Daftar ini akan kemudian bergulir ke aplikasi yang dimulai dengan huruf `o`.
 5. Cari `osu!` atau `osu!.exe`.
-6. Apabila kamu tidak menemukan keduanya, klik tombol `Allow another app` yang berada di bagian bawah layar dan tambahkan aplikasi `osu!.exe` milikmu ke dalam daftar yang ada.
-7. Pastikan kolom `Private` dan `Public` yang ada di samping osu! telah tercentang. Apabila sudah, klik OK dan buka osu! kembali.
+6. Apabila kamu tidak dapat menemukan keduanya, klik `Allow another app` yang terdapat pada bagian bawah panel dan telusuri lokasi folder tempat kamu memasang osu!. Setelahnya, pilih `osu!.exe`.
+7. Pastikan kotak `Private` dan `Public` yang ada telah tercentang. Klik OK untuk menyimpan pengaturanmu dan coba lagi.
 
-#### Mengatur agar koneksi osu! tidak terhalang oleh AVG Firewall {id=firewall-whitelist-avg}
+#### Mengizinkan program untuk melalui AVG Firewall {id=firewall-whitelist-windows}
 
-Harap ikuti langkah-langkah yang tertera pada [panduan yang disediakan oleh AVG berikut](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) agar koneksi osu! tidak terhalang oleh AVG Firewall.
+Silakan rujuk [entri basis pengetahuan AVG resmi berikut](https://support.avg.com/SupportArticleView?l=en\&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules\&supportType=home) untuk memperoleh arahan yang terperinci seputar topik ini.
 
-#### Mengatur agar koneksi osu! tidak terhalang oleh Kaspersky Internet Security {id=firewall-whitelist-kaspersky}
+#### Mengizinkan program untuk melalui Kaspersky Internet Security {id=firewall-whitelist-kaspersky}
 
-Harap ikuti langkah-langkah yang tertera pada [panduan yang disediakan oleh Kaspersky berikut](https://support.kaspersky.com/15163#block2) agar osu! dapat ditambahkan ke dalam daftar Trusted Zone milik Kaspersky Internet Security.
+Silakan rujuk [artikel bantuan resmi Kaspersky berikut](https://support.kaspersky.com/15163#block2) seputar cara menambahkan aplikasi ke Trusted Zone.
 
-#### Mengatur agar koneksi osu! tidak terhalang oleh McAfee {id=firewall-whitelist-mcafee}
+#### Mengizinkan program untuk melalui McAfee {id=firewall-whitelist-windows}
 
-Harap ikuti langkah-langkah yang tertera pada [panduan yang disediakan oleh McAfee berikut](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Silakan rujuk [entri basis pengetahuan resmi McAfee berikut](https://service.mcafee.com/?articleId=TS100813\&page=shell\&shell=article-view) seputar topik ini.
 
-### Saya telah mengatur agar koneksi osu! saya tidak terhalang oleh aplikasi firewall, namun saya tetap tidak dapat terhubung secara online!  {id=sign-in-unknown-cause}
+### Saya telah menambahkan osu! ke firewall saya, namun saya masih belum dapat terhubung ke permainan! {id=sign-in-unknown-cause}
 
-**Kami butuh beberapa informasi tambahan untuk menyelesaikan masalahmu.**
+**Kami akan butuh informasi tambahan dari kamu untuk membantu menyelesaikan masalah ini.**
 
-Apabila kamu tetap tidak dapat terhubung ke dalam jaringan kami, harap hubungi tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan menyertakan informasi-informasi berikut:
+Apabila kamu masih menemui masalah untuk terhubung ke server permainan kami, silakan ajukan tiket layanan dukungan (*support ticket*) dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Informasi berikut akan membantu kami untuk menyelesaikan masalahmu dengan cepat:
 
-- Hasil *trace route* (perintah `tracert` pada Command Prompt) untuk *server*-*server* `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh` (sesuai dengan instruksi yang tertera di bawah)
-- Berkas `network.log` yang terdapat pada folder `Logs` pada direktori osu! milikmu
+- Catatan hasil pelacakan rute jaringan (*trace route log*) yang diperoleh dari perintah `tracert` untuk server `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh` (simak penjelasan di bawah ini untuk petunjuk lebih lanjut)
+- Berkas `network.log` dari folder `Logs` yang terdapat pada folder tempat kamu memasang osu!
 
-#### Melakukan trace route untuk mengatasi masalah koneksi {id=traceroute}
+#### Melacak rute jaringan untuk menyelesaikan masalah koneksi {id=traceroute}
 
-**Hasil dari *trace route* yang ada dapat membantu kami untuk mengidentifikasi masalah jaringan seperti apa yang sebenarnya sedang kamu hadapi.**
+**Pelacakan rute jaringan akan membantu kami untuk mendeteksi di mana letak masalah yang ada antara kamu dan server kami secara persis.**
 
-Kamu dapat melakukan *trace route* dengan membuka Command Prompt dan menjalankan perintah `tracert`.
+Kamu dapat melakukan pelacakan ini dengan membuka Command Prompt dan menjalankan perintah `tracert`.
 
-Untuk membuka Command Prompt, tekan kombinasi tombol `Windows` dan `R` lalu ketik `cmd` dan klik `OK`. Bagi yang sekiranya masih asing dengan Command Prompt, berbagai penjelasan dasar seputar Command Prompt dapat dilihat pada [artikel berikut](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
+Untuk membuka Command Prompt, tekan dan tahan kombinasi tombol `Windows` + `R`, lalu ketik `cmd` dan klik `OK`. Untuk informasi lebih lanjut seputar Command Prompt, lihat [artikel basis pengetahuan Windows berikut](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
 
-Apabila sudah, ketik perintah untuk menjalankan proses *trace route* pada layar Command Prompt yang muncul. Sebagai contoh, perintah `tracert cho.ppy.sh` akan merekam hal-hal apa saja yang terjadi ketika jaringanmu mencoba untuk membuka hubungan dengan *server* `cho.ppy.sh` milik kami.
+Apabila sudah, kamu dapat mengetikkan perintah pelacakan di atas ke dalam konsol Command Prompt. Sebagai contoh, perintah `tracert cho.ppy.sh` akan melacak bagaimana komputermu terhubung ke server permainan melalui internet. Pelacakan ini akan memakan waktu sejenak, terkadang lebih dari satu menit, tergantung dari koneksi yang kamu gunakan.
 
-Kami membutuhkan hasil *trace route* untuk *server*-*server* berikut: `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh`.
+Kami akan membutuhkan hasil pelacakan rute untuk server-server berikut: `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh`.
 
-Proses *trace route* pada umumnya akan membutuhkan sedikit waktu. Apabila hasilnya sudah keluar, harap salin dan sertakan segala informasi yang tertera pada layar pada email yang hendak kamu kirim.
+Untuk menyalin hasil perintah ini, cukup klik dan seret seluruh keluaran yang muncul dari bawah ke atas sehingga teks yang ada berubah warna menjadi putih. Setelahnya, klik kanan teks yang terpilih untuk langsung menyalin informasi ini ke papan klip.
 
-### Saya mendapatkan pesan error yang menyinggung seputar "server-side error" ketika saya hendak bermain secara online! {id=server-side-error}
+### Saya menemui masalah dari server pada saat saya mencoba untuk bermain secara online! {id=server-side-error}
 
-**Pada umumnya, pesan tersebut menandakan bahwa *server* kami sedang sibuk atau mengalami suatu gangguan.**
+**Server kami mungkin sedang bermasalah.**
 
-Harap periksa [laman berikut](https://status.ppy.sh/ "osu! server status") untuk mengetahui apakah terdapat suatu gangguan pada *server* kami.
+Periksa [halaman status server osu!](https://status.ppy.sh/ "status server osu!") untuk melihat apakah saat ini sedang terdapat masalah pada server kami.
 
-**Masalah ini juga dapat disebabkan oleh gangguan koneksi yang timbul akibat penggunaan *proxy* atau VPN.**
+**Hal ini juga dapat terjadi apabila kamu terhubung dengan koneksi internet yang digunakan secara bersama (*shared connection*), proxy, atau VPN.**
 
-Cobalah untuk beralih ke aplikasi *proxy* atau VPN lainnya. Apabila kamu masih menemui pesan *error* yang sama, harap hubungi tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Cobalah untuk menggunakan penyedia proxy atau VPN yang berbeda — apabila segala sesuatunya tidak membantu, ajukan tiket layanan dukungan melalui email ke [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-Apabila kamu tidak merasa sedang menggunakan *proxy* atau VPN, maka ada kemungkinan sistem kami telah memblokir koneksi dari komputermu secara tidak sengaja. Harap hubungi tim layanan dukungan kami agar masalahmu dapat segera terselesaikan.
+Apabila kamu tidak sedang menggunakan salah satu hal di atas, kamu akan perlu untuk mengajukan tiket layanan dukungan, karena ada kemungkinan koneksimu telah masuk ke dalam daftar hitam kami secara tidak sengaja.
 
-Di samping itu, pada umumnya sistem kami akan secara otomatis memblokir segala koneksi yang berasal dari Tor atau jaringan-jaringan lainnya yang terkait. Harap diingat bahwa di sini osu! tidak mendukung ataupun mengecam penggunaan Tor - kami mengambil tindakan demikian murni untuk mencegah terjadinya hal-hal yang tidak diinginkan.
+Dalam sebagian besar kasus, koneksi via Tor atau yang melalui jaringan yang terhubung dengan Tor tidak akan dapat terhubung ke server permainan. Walaupun kami tidak mengecam atau mendukung penggunaan Tor, kami menegakkan peraturan ini untuk menghindari kemungkinan terdapatnya oknum jahat yang memanfaatkan Tor.
 
-### Ketika saya mengobrol di chat, warna pengguna saya tidak berubah menjadi kuning meskipun saya telah membeli osu!supporter! {id=white-username}
+### Saya telah menjadi osu!supporter, namun nama saya tidak terlihat berwarna kuning di dalam permainan! {id=white-username}
 
-**Warna penggunamu di *chat* hanya akan terlihat kuning di mata para pengguna lain. Dari sudut pandangmu sendiri, kamu akan selalu terlihat berwarna putih!**
+**Namamu akan selalu terlihat berwarna putih dari dalam klien permainanmu. Jangan khawatir, karena orang lain akan dapat melihat namamu dengan warna kuning cerah!**
 
-Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah membedakan antara baris-baris *chat* yang kamu kirimkan dan baris-baris *chat* yang orang-orang lain kirimkan. Adapun untuk saat ini warna-warna yang ada tersebut tidak dapat kamu ubah.
+Warna putih ini adalah untuk membantu kamu mengenali pesanmu dari pesan pengguna lain. Fitur ini tidak dapat dinonaktifkan untuk saat ini.
 
 ## Performa {id=performance}
 
-### Komputer saya menjadi panas (overheating) setiap kali saya menjalankan osu!. Bagaimana caranya agar saya dapat membuat osu! menjadi lebih bersahabat dengan komputer saya? {id=overheating}
+### Bagaimana cara untuk membuat osu! berjalan secara lebih hemat daya apabila komputer saya terlalu panas? {id=overheating}
 
-**Cara paling mudah untuk mengatasi masalah ini adalah dengan menurunkan nilai batasan FPS (*frame limiter*) yang kamu gunakan.**
+**Cara termudah untuk mencapai hal ini adalah dengan mengubah batasan FPS yang kamu gunakan.**
 
-Untuk mengatur nilai *frame limiter* yang kamu gunakan, ikuti langkah-langkah berikut:
+Untuk memeriksa batasan FPS mana yang saat ini sedang terpasang, ikuti langkah-langkah berikut:
 
 1. Buka osu!.
-2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Ketik `frame` atau `batasan FPS` pada kolom pencarian (*quick-search bar*) yang muncul.
+2. Klik tombol `Options` pada menu utama atau tekan `Ctrl` + `O`.
+3. Ketik `frame` pada bilah pencarian untuk membuka pengaturan batasan FPS.
 
-Apabila ternyata nilai *frame limiter* milikmu terpasang pada `Unlimited` atau `Tak terbatas`, cobalah untuk mengubahnya ke nilai lain yang tersedia.
+Apabila batasan FPS kamu sedang diatur ke `Unlimited`, kamu mungkin akan merasakan peningkatan performa yang signifikan pada saat kamu mengubah batasan ini ke salah satu dari tiga pilihan lainnya.
 
-Secara berurutan, pilihan-pilihan `VSync`, `Power Saving`, dan `Optimal` akan membatasi FPS osu! pada nilai yang sama dengan *refresh rate*, 2x *refresh rate*, dan 8x *refresh rate* monitormu hingga batas maksimal 960Hz.
+`VSync` akan menjalankan permainan pada frekuensi gambar (*refresh rate*) yang sama dengan frekuensi monitormu, sedangkan `Power Saving` dan `Optimal` akan menggunakan frekuensi yang masing-masingnya 2 kali dan 8 kali lipat frekuensi monitormu, hingga batas atas 960 Hz.
 
-Kami merekomendasikanmu untuk menggunakan `VSync` apabila kamu mengalami masalah *overheating* yang serius.
+Kami menyarankanmu untuk menggunakan `VSync` pada situasi di mana kamu mengalami masalah dengan suhu komputermu.
 
-Di samping itu, apabila kamu berkehendak, kamu juga dapat menggunakan berbagai perlengkapan dan *software* eksternal yang sekiranya dapat mengoptimalkan kinerja CPU dan GPU yang kamu miliki.
+Kamu juga dapat menggunakan berbagai utilitas yang memungkinkan kamu untuk mengendalikan kecepatan kipas CPU dan GPU kamu secara manual.
 
-### PC saya sering me-reboot dirinya sendiri di kala osu! saya sedang aktif! {id=reboot-overheating}
+### PC saya menyala ulang pada saat saya bermain osu! {id=reboot-overheating}
 
-**Pada umumnya, masalah ini disebabkan oleh terdapatnya komponen pada komputermu yang terlampau panas (*overheating*) - utamanya GPU atau CPU.**
+**Pada umumnya, masalah ini disebabkan oleh salah satu komponen pada komputermu (seringnya kartu grafis/CPU) yang terlalu panas.**
 
-Untuk dapat mengetahui komponen mana yang bermasalah, kami menyarankanmu untuk menggunakan aplikasi yang dapat memonitor suhu GPU atau CPU yang kamu miliki seperti [Speccy](https://www.ccleaner.com/speccy).
+Untuk mencari tahu komponen mana yang menyebabkan masalah ini, kamu menyarankanmu untuk memasang program pemantau suhu GPU/CPU dan memeriksa suhu ini secara berkala selagi kamu bermain osu! di belakang layar. Program yang disarankan untuk memantau suhu ini adalah [Speccy](https://www.ccleaner.com/speccy).
 
-Apabila suhu GPU atau CPU yang kamu miliki mencapai angka 90°C (194°F) atau lebih tinggi, sistem komputer yang kamu miliki pada umumnya akan menjalankan prosedur *shutdown* otomatis akibat terdapatnya komponen yang terlampau panas.
+Apabila kamu melihat suhu GPU atau CPU kamu melebihi 90°C atau 194°F, komputermu sudah sangat panas dan telah berada sangat dekat dengan ambang batas pemberhentian otomatis.
 
-### Saya tidak menemui komponen apapun yang suhunya tidak normal, namun komputer saya tetap sering me-reboot dirinya sendiri dari waktu ke waktu! {id=reboot-faulty-device}
+### Suhu komputer saya normal, namun permainan saya tetap memicu komputer saya untuk menyala ulang! {id=reboot-faulty-device}
 
-**Harap periksa apakah terdapat masalah pada kartu suara (*sound card*) atau piranti-piranti yang sedang terpasang ke komputermu.**
+**Setelah panas yang berlebihan, penyebab utama dari komputer yang menyala ulang secara paksa ini adalah masalah pada kartu suara, yang diikuti oleh rusaknya perangkat yang terhubung ke komputermu.**
 
-Dalam beberapa kasus, *driver sound card* yang sudah lawas dapat menyebabkan masalah pada komputermu ketika osu! dijalankan. Harap senantiasa perbaharui *driver sound card* yang kamu gunakan.
+Driver atau software kartu suara yang telah usang juga dapat menyebabkan masalah dengan osu!, namun bagi sebagian besar orang, hal ini bukan merupakan sumber masalah mereka. Apabila kamu khawatir, cobalah untuk memperbarui driver kartu suara atau motherboard kamu.
 
-Apabila *driver sound card* milikmu tidak bermasalah, cobalah untuk mencopot piranti-piranti yang terhubung ke komputermu melalui sambungan USB. Piranti-piranti tertentu (utamanya *headphone* dan *sound card* eksternal) dapat memicu komputer untuk me-*reboot* dirinya sendiri secara otomatis apabila telah rusak atau tidak tersambung sebagaimana mestinya.
+Kamu juga dapat mencabut sebagian perangkat yang terhubung via USB ke komputermu, terutama apabila perangkat ini berhubungan dengan audio. Headphone dan kartu suara USB terkadang dapat menyebabkan masalah tertentu apabila perangkat ini atau port yang digunakan mulai tidak berfungsi dengan baik.
 
-### Saya sudah mencoba semua hal yang disarankan di atas, namun saya tetap menemui masalah ini! {id=reboot-nothing-helps}
+### Komputer saya masih juga menyala ulang! {id=reboot-nothing-helps}
 
-Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari gejala-gejala yang kamu alami, spesifikasi komputermu, hingga informasi-informasi lainnya yang sekiranya dapat membantu) kepada tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Apabila seluruh solusi ini tidak membantu, silakan ajukan tiket layanan dukungan ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan informasi lebih lanjut seputar masalahmu — termasuk spesifikasi teknis komputermu, model komputer (apabila memungkinkan), dan segala informasi lainnya yang kamu pikir akan dapat membantu kami untuk menentukan akar masalahmu.
 
-### Ketika saya bermain osu!mania, jumlah tombol yang dapat saya tekan secara bersamaan dalam satu waktu terbatas hanya pada beberapa tombol saja! {id=keyboard-ghosting}
+### Saya tidak dapat menahan lebih dari beberapa tombol sekaligus pada saat saya bermain osu!mania! {id=keyboard-ghosting}
 
-**Hal ini pada umumnya dikenal dengan istilah *ghosting*.**
+**Hal ini terjadi karena masalah hardware yang umum ditemui pada sebagian besar keyboard, yang dikenal dengan istilah *ghosting*.**
 
-Definisi dari istilah *ghosting* itu sendiri cukup kompleks, namun pada intinya apabila *keyboard* kamu memiliki efek *ghosting*, jumlah input yang dapat didaftarkan oleh *keyboard* milikmu dalam satu waktu akan terbatas.
+Ghosting merupakan topik yang cukup rumit, namun pada dasarnya masalah ini bersumber dari batasan yang ada pada keyboard itu sendiri — di mana keyboard tertentu dirancang untuk hanya dapat menerima input dari sekian banyak tombol dalam satu waktu.
 
-Pada umumnya, *keyboard-keyboard* yang beredar di pasaran hanya mampu untuk mendaftarkan input dari **6** tombol dalam satu waktu.
+Sebagian besar keyboard model baru akan dapat menerima input dari hingga **6** tombol secara bersamaan.
 
-Kamu dapat mengecek apakah *keyboard* milikmu memiliki efek *ghosting* atau tidak dengan menggunakan [aplikasi penguji Anti-Ghosting buatan drakeirving berikut](https://drakeirving.github.io/MultiKeyDisplay).
+Kamu dapat memeriksa batasan ghosting keyboardmu dengan menggunakan [utilitas Anti-Ghosting dari drakeirving berikut](https://drakeirving.github.io/MultiKeyDisplay).
 
-Adapun Ranking Criteria untuk mode osu!mania yang kami miliki telah disusun sedemikian rupa agar para *mapper* hanya dapat menempatkan 6 not pada waktu yang bersamaan untuk mengantisipasi efek *ghosting* yang mungkin terjadi.
+Walaupun kriteria ranking osu!mania telah berusaha untuk meminimalisir dampak ghosting dengan melarang lebih dari 6 tombol untuk ditekan dalam satu waktu, kamu mungkin akan menemui masalah ini apabila kamu menggunakan keyboard yang lebih lawas.
 
-Meskipun demikian, satu-satunya solusi untuk mengatasi masalah ini adalah dengan membeli *keyboard* baru yang dapat mendaftarkan lebih banyak input dalam satu waktu. Tanyakanlah kepada penjual apakah *keyboard* yang hendak kamu beli telah dilengkapi dengan fitur NKRO (*n-key rollover*) yang dapat mencegah *ghosting* atau tidak.
+Dalam kasus ini, satu-satunya solusi yang hakiki adalah untuk membeli keyboard baru yang mendukung lebih banyak tombol dalam satu waktu. Sebelum membeli, kamu dapat memeriksa apakah keyboard yang ingin kamu beli mendukung fitur *n-key rollover*(NKRO). Walaupun mahal, keyboard NKRO pada umumnya tidak memiliki masalah ghosting.
 
-### Kursor saya selalu bergerak secara liar setiap kali saya hendak bermain! {id=crazy-cursor}
+### Kursor saya menggila setiap kali saya mencoba untuk bermain osu! {id=crazy-cursor}
 
-**Pada umumnya, masalah ini disebabkan oleh pengaturan nilai sensitivitas *mouse* yang terlalu tinggi.**
+**Penyebab utama dari masalah ini adalah sensitivitas mouse dalam permainan kamu yang dipasang terlalu tinggi.**
 
-Masalah ini utamanya dijumpai oleh para pengguna tablet yang banyak mengeluhkan kalau kursor mereka "sering melompat ke mana-mana" dan "tidak dapat dikontrol".
+Pada umumnya, kamu akan menemui gerakan kursor yang melompat-lompat dan tak menentu, terutama apabila kamu menggunakan tablet.
 
-Solusi paling pokok untuk masalah ini adalah dengan mengatur sensivitas mouse yang osu! miliki ke nilai *default* (1.0x), mengaktifkan `raw input`, dan mengatur area tablet aktif yang kamu gunakan.
+Dalam sebagian besar kasus, mengatur sensitivitas di dalam permainan ke nilai bawaannya (1.0x) akan menyelesaikan masalah ini, walaupun hal ini dapat membuat kursor kamu terasa berat. Kami menyarankanmu untuk mengaktifkan `raw input` dari pengaturan permainan dan menggunakan driver milik perangkatmu untuk mengatur sensitivitas yang ada.
 
-Apabila kamu menggunakan *mouse*, cobalah untuk mengatur nilai DPI yang digunakan oleh *mouse* milikmu. Nilai DPI yang terlalu tinggi juga terkadang dapat memicu pergerakan kursor yang tidak diinginkan.
+Apabila kamu menggunakan mouse, kamu juga dapat mengatur nilai *dot-per-inch* (DPI) mouse kamu. Pengaturan DPI yang lebih tinggi akan dapat membuat kursor kamu lebih luwes dan akurat.
 
-Terakhir, pastikan tablet dan *mouse* yang kamu gunakan terbebas dari debu atau kotoran-kotoran lainnya karena sensor pada piranti-piranti ini pada umumnya sangat sensitif terhadap hal-hal yang demikian.
+Kami juga menyarankanmu untuk memastikan bahwa perangkatmu bersih dari debu atau remah apa pun. Rambut atau debu yang mengendap pada sensor optik mouse dapat menyebabkan pergerakan kursor yang tidak lazim.
 
 #### Mengaktifkan raw input {id=raw-input}
 
-***Raw input* merupakan opsi yang memungkinkan osu! untuk dapat memproses berbagai informasi dari piranti-piranti input yang kamu miliki secara langsung. Pada umumnya, penggunaan *raw input* dapat meningkatkan akurasi bidikan kursor secara signifikan.**
+**Raw input memaksa permainan agar menggunakan cara yang lebih langsung untuk mengakses informasi dari perangkatmu. Hal ini pada umumnya akan meningkatkan akurasi keluaran perangkat yang kamu peroleh.**
 
-Untuk dapat mengaktifkan *raw input*, ikuti langkah-langkah berikut:
+Untuk mengaktifkan raw input, ikuti langkah-langkah berikut:
 
 1. Buka osu!.
-2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Ketik `raw` pada kolom pencarian (*quick-search bar*) yang muncul.
-4. Aktifkan opsi `Raw input`.
+2. Klik tombol `Options` pada menu utama atau tekan `Ctrl` + `O`.
+3. Ketik `raw` pada bilah pencarian untuk langsung menuju pengaturan yang terkait.
+4. Klik pengaturan `Raw input` untuk mengaktifkan pengaturan ini.
 
-### Kursor saya terasa berat ketika saya bermain dengan menggunakan tablet! {id=slow-cursor}
+### Saya bermain menggunakan tablet, dan kursor saya terasa terlalu lambat! {id=slow-cursor}
 
-**Masalah ini dapat teratasi dengan mengecilkan area tablet aktif yang kamu gunakan.**
+**Kamu dapat menyelesaikan masalah ini dengan memasang area tablet yang lebih kecil pada perangkatmu.**
 
-Apabila kamu menggunakan tablet Wacom, kamu dapat mengatur area tablet aktif yang kamu gunakan pada *tab* `Mapping` yang terdapat pada aplikasi `Wacom Tablet Properties`.
+Dalam sebagian besar tablet Wacom, hal ini dapat dilakukan melalui tab `Mapping` yang terdapat pada aplikasi Wacom Tablet Properties.
 
-![Opsi untuk mengatur area tablet aktif pada Wacom Tablet Properties](img/tablet-area.png "Opsi untuk mengatur area tablet aktif pada Wacom Tablet Properties")
+![Layar Wacom Tablet Properties yang menampilkan berbagai pilihan pemetaan area](img/tablet-area.png "Tampilan antarmuka untuk mengubah area tablet pada perangkat Wacom")
 
-Apabila kamu menggunakan tablet merk lain, harap baca manual yang disediakan oleh masing-masing merk untuk dapat mengetahui cara mengatur area tablet aktif yang kamu gunakan.
+Untuk merek lainnya, kamu akan perlu untuk bertanya ke pabrikan tabletmu untuk mengetahui cara mengatur ulang area tablet yang kamu gunakan.
 
-Apabila tablet yang kamu gunakan memiliki fitur *raw input* yang terpasang secara *default*, kamu juga dapat membuat kursormu menjadi lebih ringan melalui opsi pengaturan sensitivitas yang ada di dalam osu!.
+Seluruh tablet bermerek osu! mendukung raw input secara bawaan, dan memiliki sensitivitas yang dapat diatur sesuai kebutuhan melalui pilihan raw input dan pengaturan sensitivitas mouse di dalam permainan.
 
-### Saya berkali-kali mengalami lag dan/atau stutter ketika saya bermain! {id=lag-spikes}
+### Saya mengalami lonjakan lag atau layar yang tersendat pada saat bermain! {id=lag-spikes}
 
-***Lag* dan/atau *stutter* yang ada dapat disebabkan oleh banyak hal - mulai dari keterdapatan aplikasi lain yang mengganggu performa, penggunaan *driver* yang sudah terlalu lawas, hingga pengaturan osu! yang terlalu ekstrim.**
+**Terdapat berbagai alasan mengapa performa permainan kamu bisa sampai tidak konsisten, mulai dari program lain, driver yang telah usang, hingga pengaturan yang dipasang terlalu tinggi.**
 
-#### Selain osu!, apakah kamu tengah membuka aplikasi-aplikasi lain yang juga menguras daya/resource CPU milikmu? {id=lag-too-many-programs}
+#### Apakah kamu memiliki banyak program yang terbuka secara bersamaan pada saat kamu bermain osu!? {id=lag-too-many-programs}
 
-**Aplikasi-aplikasi yang demikian dapat menurunkan performa osu! secara signifikan.**
+**Proses latar belakang tertentu dapat bersaing dengan osu! untuk memperebutkan sumber daya komputermu dan membuat permainanmu tidak nyaman untuk dimainkan.**
 
-Cobalah untuk menutup aplikasi-aplikasi yang sekiranya tidak kamu gunakan di kala kamu bermain osu!.
+Cobalah untuk menutup sebagian atau seluruh program yang tidak dibutuhkan pada saat bermain.
 
-#### Apakah komputermu aman dari aplikasi-aplikasi berbahaya? {id=lag-infected-pc}
+#### Apakah komputermu aman dari ancaman program berbahaya? {id=lag-infected-pc}
 
-**Periksalah apakah komputer milikmu aman dari ancaman virus, *spyware*, *malware*, dan lain sebagainya.**
+**Virus, spyware, malware, atau program yang tidak diinginkan lainnya dapat menyebabkan masalah performa yang serius, bahkan untuk komputer kelas atas sekalipun.**
 
-Terkadang, aplikasi-aplikasi yang demikian dapat menguras sumber daya CPU milikmu tanpa kamu ketahui. Cobalah untuk memindai komputermu dengan aplikasi *antivirus* untuk menghilangkan aplikasi-aplikasi berbahaya tersebut.
+Kamu mungkin akan merasakan peningkatan performa apabila kamu menjaga komputermu bersih dan aman. Cobalah untuk menjalankan pemindai virus pada komputermu untuk mencari dan menyingkirkan ancaman yang ada.
 
-#### Apakah komputermu sudah berusia belasan atau puluhan tahun? {id=lag-old-pc}
+#### Seberapa tua usia komputermu? {id=lag-old-pc}
 
-**Komputer-komputer yang sudah sangat lawas pada umumnya masih menggunakan *chipset* Intel Integrated Graphics yang sudah tidak lagi kompatibel dengan versi osu! modern.**
+**Komputer yang sangat tua, bahkan yang menggunakan chipset grafis Intel terintegrasi model lama sekalipun, dapat tidak cukup kuat untuk menjalankan osu! sama sekali bahkan pada pengaturan terendahnya.**
 
-Satu-satunya solusi pada kasus yang demikian adalah dengan membeli komputer baru!
+Satu-satunya cara untuk mengatasi masalah ini adalah dengan meningkatkan komputermu!
 
-#### Apakah driver-driver yang kamu gunakan sudah merupakan versi yang terbaru? {id=lag-old-driver}
+#### Apakah driver kamu sudah terkini? {id=lag-old-driver}
 
-***Driver-driver* yang sudah terlalu lawas dapat menyebabkan masalah performa yang serius.**
+**Driver yang lawas dapat menyebabkan masalah performa yang serius. Pastikan kamu menjaga agar seluruh driver kamu selalu terkini.**
 
-Pastikan kamu senantiasa memperbaharui *driver-driver* yang kamu miliki secara berkala, utamanya *driver* kartu grafik (*graphics card*) dan kartu suara (*sound card*).
+Hal ini berlaku terutama untuk driver kartu grafis dan kartu suara, yang keduanya sangat penting bagi osu!.
 
-#### Apakah kamu sedang menggunakan USB splitter untuk menghubungkan berbagai piranti ke komputermu ke dalam satu port USB dalam satu waktu? {id=lag-faulty-usb}
+#### Apakah kamu sedang menggunakan hub USB untuk menghubungkan banyak perangkat USB ke komputermu melalui satu kabel USB? {id=lag-faulty-usb}
 
-**Terlalu banyaknya piranti USB yang tertumpuk pada satu *port* USB yang sama dapat menyebabkan *input lag* yang signifikan.**
+**Menghubungkan terlalu banyak perangkat ke satu port melalui splitter USB dapat menyebabkan lag input yang sulit dideteksi namun berdampak serius pada permainan.**
 
-Cobalah untuk mencopot *USB splitter* yang kamu miliki dan menghubungkan ulang piranti-piranti yang ada pada *port-port* USB lain secara merata setelahnya.
+Cara yang mudah untuk menyelesaikan masalah ini adalah dengan mencabut hub USB kamu sejenak. Apabila lag kamu menghilang, kini kamu tahu alasannya!
 
-#### Apakah kamu sedang menjalankan osu! pada mode windowed atau borderless? {id=lag-windowed}
+#### Apakah kamu sedang menjalankan osu! pada mode Windowed atau Borderless? {id=lag-windowed}
 
-**Menjalankan osu! pada mode *windowed* atau *borderless* dapat menyebabkan *input lag* yang luar biasa besar. Kecuali ada sesuatu hal yang menghalangimu, kami menyarankanmu untuk selalu menjalankan osu! pada mode *fullscreen*.**
+**Mode Windowed dan Borderless memiliki jeda input yang *cukup besar*. Mode Fullscreen merupakan mode yang optimal untuk pengalaman bermain yang paling lancar.**
 
-#### Apakah lag yang kamu alami hanya berlangsung selama beberapa saat? {id=lag-background-process}
+#### Apakah permainanmu hanya tersendat secara sekilas? {id=lag-background-process}
 
-**Terkadang, *lag* yang kamu alami dapat bersumber dari tingkah laku aplikasi lain yang menguras daya/*resource* CPU milikmu secara tiba-tiba.**
+**Terkadang, proses latar belakang atau aplikasi tertentu dapat menuntut banyak sumber daya sekaligus, yang akan membuat komputermu kewalahan.**
 
-Pada umumnya, biang kerok dari masalah ini adalah aplikasi *torrent* yang mengirimkan banyak data ke jaringan lain dalam satu waktu. Cobalah untuk menutup aplikasi *torrent* yang sedang berjalan pada komputermu.
+Hal ini pada umumnya akan hilang dengan sendirinya setelah kamu menutup segala sesuatunya yang tidak dibutuhkan sebelum bermain osu!. Software torrent seringnya merupakan penyebab utama dari masalah ini, terutama apabila software ini terpasang pada drive komputer yang sama dengan drive tempat osu! terpasang.
 
-#### Apakah kamu baru saja memperbaharui versi osu! yang kamu gunakan? {id=lag-after-update}
+#### Apakah permainan kamu baru saja diperbarui? {id=lag-after-update}
 
-**Dalam kasus-kasus tertentu, osu! membutuhkan waktu untuk dapat memproses segala sesuatunya dari awal.**
+**Terkadang, setelah permainanmu diperbarui, klien kamu dapat mengalami masalah tanpa alasan yang jelas.**
 
-Apabila kamu memiliki koleksi beatmap dalam jumlah yang sangat banyak, harap berikan osu! waktu 10-15 menit untuk dapat mereka ulang *database* beatmap yang ada.
+Apabila kamu memiliki banyak beatmap, silakan tunggu setidaknya 10-15 menit sebelum kamu menyalahkan lag ini pada pembaruan yang ada. Klien osu! mungkin saja masih memproses ulang beatmap yang kamu miliki.
 
-Apabila masalahmu masih belum kunjung terselesaikan, cobalah untuk me-*restart* PC milikmu.
+Apabila hal ini tidak membantu, masalah ini terkadang dapat diselesaikan dengan menyalakan ulang komputermu.
 
-**Apabila kamu sudah mencoba semua hal di atas namun kamu tetap menjumpai *lag* dan/atau *stutter* ketika kamu bermain, harap periksa [panduan berikut](/wiki/Performance_troubleshooting) untuk mendapatkan arahan lebih lanjut seputar masalah yang kamu hadapi.**
+**Apabila kamu masih menemui lonjakan lag atau layar yang tersendat ketika bermain, kunjungi halaman [panduan penyelesaian masalah performa](/wiki/Performance_troubleshooting) untuk menemukan lebih banyak masalah yang terkait beserta solusinya.**
