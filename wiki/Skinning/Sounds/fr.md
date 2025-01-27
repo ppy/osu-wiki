@@ -112,7 +112,7 @@ Les sons de gameplay suivants sont tous skinnables sur les beatmaps.
 
 - `count.wav` :
   - Cela remplace les sons `count{n}s` (si un seul son est souhaité).
-  - Il s'agit également du métronome pour le mod target practice.
+  - Il s'agit également du métronome pour le mod [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice).
 - `count1s.wav`
 - `count2s.wav`
 - `count3s.wav`

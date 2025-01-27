@@ -1,4 +1,6 @@
 ---
+outdated_since: eb2c42138f41cdab7375296ad1aa5114cd1bf160
+outdated_translation: true
 tags:
   - badge
   - badges
