@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 no_native_review_since: 8ad5d07abb60afb005417de9dd9ee4653daf6ae0 Doryan
 tags:
   - GMT
