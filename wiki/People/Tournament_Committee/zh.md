@@ -6,6 +6,8 @@ tags:
   - 赛事
   - 竞赛
   - 锦标赛
+outdated_translation: true
+outdated_since: 89722a56c74c20810e1fa8b375de1042def7971e
 ---
 
 # 锦标赛委员会
