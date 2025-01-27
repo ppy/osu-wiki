@@ -15,7 +15,7 @@ The **osu! Philippines Nationals 2024 - osu!taiko** Tournament (***PHNT2024***) 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2024-09-01/2024-09-01 (15:59 UTC) |
-| Qualifiers showcase | 2024-10-06 (13:00 UTC) |
+| Qualifier showcase | 2024-10-06 (13:00 UTC) |
 | Qualifiers | 2024-10-12/2024-10-13 |
 | Round of 16 | 2024-10-19/2024-10-20 |
 | Quarterfinals | 2024-10-26/2024-10-27 |
@@ -25,7 +25,7 @@ The **osu! Philippines Nationals 2024 - osu!taiko** Tournament (***PHNT2024***) 
 
 ## Prizes
 
-The winner of the tournament will receive a profile badge.
+The winner of the tournament received a profile badge.
 
 ![](img/phnt-badge.png "PHNT winner badge")
 
@@ -97,7 +97,7 @@ This competition ended with the following podium:
 
 **[You may download the mappack here](https://drive.google.com/file/d/1YpWSArtywv5Q6cD2gkHah9tMTqFyRG7Z/view?usp=sharing)**
 
-- NoMod
+- No Mod
   1. [wyntr. - UPOPZONE (WTHBRO) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2278404#taiko/4856169)
   2. [Kobaryo - Milky Factory (ikin5050) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1899820#taiko/3915958)
   3. [The Flashbulb - The Bridgeport Run (Faputa) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1215016#taiko/3301943)
@@ -118,13 +118,13 @@ This competition ended with the following podium:
   2. [BlackY - ARTEMiS (ikin5050) \[Dusk's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1314196#taiko/3393312)
   3. [Feryquitous - Rhuzerv (Fynbi) \[Voice\]](https://osu.ppy.sh/beatmapsets/2278462#taiko/4856312)
 - Tiebreaker
-  1. [Akiri - The Angel Of Fallen Origins (qish) \[Grand Finale\]](https://osu.ppy.sh/beatmapsets/2279014#taiko/4857681)
+  1. **[Akiri - The Angel Of Fallen Origins (qish) \[Grand Finale\]](https://osu.ppy.sh/beatmapsets/2279014#taiko/4857681)**
 
 ### Finals
 
 **[You may download the mappack here](https://drive.google.com/file/d/10ITDqA0g4CqBhZMzBvhsLrRzKrdWw2rz/view?usp=sharing)**
 
-- NoMod
+- No Mod
   1. [Mia REGINA - I got it! (Slax Remix) (dtn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1722920#taiko/3521273)
   2. [kessoku band - Ano Band (Yuuni Bootleg) (qish) \[real (phnt ver.)\]](https://osu.ppy.sh/beatmapsets/2275994#taiko/4850375)
   3. [Ikitama - sun and spirit (Alchyr) \[inner\]](https://osu.ppy.sh/beatmapsets/1413087#taiko/2929562)
@@ -241,7 +241,7 @@ This competition ended with the following podium:
 - Forced Mod
   1. [Lime - VIIIbit Explorer (qish) \[Oni\]](https://osu.ppy.sh/beatmapsets/2260658#taiko/4811425)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -339,48 +339,48 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 - Players must be in the rank range of #500 to #10,000 to be eligible to join.
-- Players who currently have (or had at some point since account creation) the Philippine Flag on their profile are the only ones allowed to join the tournament.
+- Players who currently have (or had at some point since account creation) the Philippine flag on their profile are the only ones allowed to join the tournament.
 - Score v2 will be used.
-- Permitted mods for Forced Mod (FM) and Tiebreaker picks are Hidden (HD), HardRock (HR), or both.
+- Permitted mods for Forced Mod (FM) and tiebreaker picks are Hidden (HD), Hard Rock (HR), or both.
 - No Fail (NF) is enforced for all picks.
 
-### Round Overview
+### Round overview
 
-#### Qualifier Stage
+#### Qualifier stage
 
-- Players must sign up to one of the qualifier lobbies provided by the hosts. Instructions will be announced after the Qualifiers mappool showcase. Players may request a special lobby if needed, as long as a referee is available at the requested time.
-- There will be no warmups for all qualifiers lobbies. The mappool will be played twice during a lobby, and will be played in the following order: NM1, NM2, NM3, HD1, HR1, DT1, FM1. A 5-minute break will be offered between the first and second run of the mappool, which can be skipped if all players in the lobby are ready. A player may skip certain maps during their second run if they so desire.
+- Players must sign up to one of the Qualifier lobbies provided by the hosts. Instructions will be announced after the Qualifier mappool showcase. Players may request a special lobby if needed, as long as a referee is available at the requested time.
+- There will be no warmups for all Qualifier lobbies. The mappool will be played twice during a lobby, and will be played in the following order: NM1, NM2, NM3, HD1, HR1, DT1, FM1. A 5-minute break will be offered between the first and second run of the mappool, which can be skipped if all players in the lobby are ready. A player may skip certain maps during their second run if they so desire.
 - The higher scores from each player for each map will be used for seeding. Players will be ordered by overall rank, which is computed by taking the average of their rankings on each map. In case of a tie, the sum of the top scores of the tied players are taken into account instead. Sharing of scores before the results showcase is discouraged.
 - The number of players that will advance to the next stage will depend on the total number of participants.
 
-#### Bracket Stage
+#### Bracket stage
 
-- Players are placed into a double-elimination bracket. They comprise of the Top 16 from the qualifiers.
-- Mappool Sizes and Best of Format for each round are given as follows:
+- Players are placed into a double-elimination bracket. They comprise of the top 16 from the Qualifiers.
+- Mappool sizes and best-of format for each round are given as follows:
   - Round of 16 (Best of 9): 4 NM, 2 HD/HR/DT, 3 FM, 1 TB
   - Quarterfinals and Semifinals (Best of 11): 5 NM, 2 HD/HR/DT, 3 FM, 1 TB
   - Finals and Grand Finals (Best of 13): 6 NM, 2 HD/HR/DT, 3 FM, 1 TB
 
-### Match Rules
+### Match rules
 
-- The multiplayer room will be created and invites sent to players 5-10 minutes prior to the match start time. The multiplayer rooms are named in the following format: `PHNT2024: (<Player 1>) vs. (<Player 2>)`
-- If a player is more than 10 minutes late to the for their match, the player inside the MP room will be declared the winner. If neither player appears, the player with the higher seed will be considered the winner.
-- Each player is allowed (but not required) to have a warm-up with length below 3:00. Players may request to use DoubleTime if the map length is slightly above the restriction. The players must give the map link to their referee 10 minutes before their match. Otherwise, the player’s warm-up is skipped.
+- The multiplayer room will be created and invites sent to players 5–10 minutes prior to the match start time. The multiplayer rooms are named in the following format: `PHNT2024: ({Player 1}) vs. ({Player 2})`
+- If a player is more than 10 minutes late to their match, the player inside the multiplayer room will be declared the winner. If neither player appears, the player with the higher seed will be considered the winner.
+- Each player is allowed (but not required) to have a warm-up with length below 3:00. Players may request to use Double Time if the map length is slightly above the restriction. The players must give the map link to their referee 10 minutes before their match. Otherwise, the player's warm-up is skipped.
 - Players are required to ban 1 map in the pool, excluding the tiebreaker. Banned charts cannot be picked during the match proper. The players shall use the `!roll` command in-game to determine the order in which charts are banned and picked. The order is as follows:
-  - Player with the higher roll: First Pick
-  - Player with the lower roll: First Ban
+  - Player with the higher roll: first pick
+  - Player with the lower roll: first ban
   - The ban phase happens first, then the match proceeds to the picks.
-- Each player will alternate picks based on the `!roll` results until a winner is determined based on the Best-of format for the round. If both players are tied on match point (e.g. 4-4 score in a Best-of-9), the players will play the tiebreaker map of the pool to determine the winner.
-- Players are given 2 minutes to ban/pick maps when it is their turn. Failure to do so means that the referee will ban/pick at random in behalf of the player.
-- Players are eligible to use a 2 minute tactical time out once per match. They are only allowed to use it when it is their turn to pick. It will take into effect after the pick timer has expired.
+- Each player will alternate picks based on the `!roll` results until a winner is determined based on the best-of format for the round. If both players are tied on match point (e.g. 4–4 score in a best-of-9), the players will play the tiebreaker map of the pool to determine the winner.
+- Players are given 2 minutes to ban/pick maps when it is their turn. Failure to do so means that the referee will ban/pick at random on behalf of the player.
+- Players are eligible to use a 2-minute tactical time-out once per match. They are only allowed to use it when it is their turn to pick. It will take into effect after the pick timer has expired.
 - If a player disconnects during a map within 30 seconds, the player must reconnect within 5 minutes and the map may be replayed. This only applies once for each player. From there onwards, if the player disconnects again at any point of the match, the match will be played out normally until the player reconnects or forfeits the remaining maps.
 - If two players tie on a map, the map is replayed. In case another tie occurs, the map is nullified and another map may be chosen by the same player who picked the nulled map.
-- Scores in the match link are final, unless a player can give a legitimate screenshot (Shift + F12), a replay file, or a video clip. The score in the given proof must be clearly visible in order for it to be accepted.
+- Scores in the match link are final, unless a player can give a legitimate screenshot (`Shift` + `F12`), a replay file, or a video clip. The score in the given proof must be clearly visible in order for it to be accepted.
 
-### Player Conduct
+### Player conduct
 
 In order to preserve the integrity of the tournament, all players are expected to observe proper conduct befitting a "national championship".
 
