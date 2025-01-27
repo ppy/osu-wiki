@@ -59,7 +59,7 @@ Global Moderators are granted the following benefits:
 
 ## Departure from the team
 
-Once a Global Moderator chooses to depart from the team, they may be granted the following rewards depending on the circumstances:
+Once a Global Moderator chooses to depart from the team under amicable terms, they may be granted the following rewards depending on the circumstances:
 
 - **[osu! Alumni](/wiki/People/osu!_Alumni) user title**: this is granted to members who were part of the team for at least 1 year, or have made significant contributions within the team during a shorter period of time.
 - **osu!supporter**: Members are awarded an osu!supporter tag that lasts double the amount of time they spent in the GMT, under the same conditions as osu! Alumni status.
