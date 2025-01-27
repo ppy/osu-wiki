@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Servidores do Discord  
 
 Este artigo lista diversos [servidores](https://discord.com/) do Discord criados e mantidos pela comunidade osu! para hospedar espaços de discussão sobre os diferentes aspectos do jogo. Alguns são focados na gestão de projetos específicos, enquanto outros são mais gerais, mas a maioria inclui canais de bate-papo casual.  
