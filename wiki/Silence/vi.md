@@ -1,6 +1,6 @@
 # Im lặng 
 
-**Im lặng** là thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [Nhóm điều hành toàn Cầu]() và [Nhóm đánh giá đề cử]() thường đưa ra hình phạt im lặng này để duy trì một môi trường sạch sẽ, cả trên trang web lẫn trong game.
+**Im lặng** là thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [Nhóm điều hành toàn Cầu](/wiki/People/Global_Moderation_Team) và [Nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường sạch sẽ, cả trên trang web lẫn trong game.
 
 ## Những hạn chế 
 
