@@ -37,7 +37,7 @@ Trong một số các trường hợp, người dùng có thể nhận được 
 
 ## Những lý do phổ biến cho im lặng
 
-Một số các lý do phổ biến tại sao người dùng đã nhận được im lặng trong trò chuyện cộng đồng bao gồm, nhưng không giới hạn :
+Một số các lý do phổ biến tại sao người dùng nhận được im lặng trong trò chuyện cộng đồng bao gồm, nhưng không giới hạn :
 
 - **Gửi thư rác hoặc làm tràn ngập trò chuyện**: không cần giải thích thêm 
 - **Lạm dụng chữ in hoa**: trò chuyện bằng tất cả các chữ cái in hoa
