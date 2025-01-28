@@ -18,10 +18,10 @@ Surfchu + Yukina plug.
 
 ## Mappool recap
 
-**[Download the pool here! (XX MB)](https://osu.ppy.sh/beatmaps/packs/PACK_ID)**
+**[Download the pool here! (77 MB)](https://osu.ppy.sh/beatmaps/packs/P272)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2358013328&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![](/wiki/shared/news/2025-01-30-osumania-7k-world-cup-2025-round-of-16-recap/mappool.jpg)
