@@ -185,7 +185,7 @@ This competition has come to an end and resulted in the following podium:
   5. [Sakaue Nachi - Crazy Hot (\[GB\]Reisen) \[Nixo's Work in progress (170bpm)\]](https://osu.ppy.sh/beatmapsets/2014755#mania/4193112)
   6. [katagiri - Breakin' Asia (\[GB\]Sanae) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/2006486#mania/4173474)
   7. [Kobaryo - CU73-D3V1L (Alptraum) \[LVN471C\]](https://osu.ppy.sh/beatmapsets/2014377#mania/4193105)
-- LN
+- Long Note
   1. [TAMAMOSEN - HOSHI NO UTSUWA (\[GB\]Reisen) \[Phantasm Starry Sky (w/ sherweifa)\]](https://osu.ppy.sh/beatmapsets/2009888#mania/4181914)
   2. [katagiri - WallHakkr (YuEast 2018) \[DRIVE UP!\]](https://osu.ppy.sh/beatmapsets/2014300#mania/4191829)
   3. [IOSYS - Scarlet Keisatsu no Ghetto Patrol 24-ji (RoughSketch Remix) (PORTTAYER) \[Funky! x1.15\]](https://osu.ppy.sh/beatmapsets/2010963#mania/4184552)
@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
   4. [uma_0002 - Sunburnt naughty innocent girl (Doshowz) \[Hard x1.15_P\]](https://osu.ppy.sh/beatmapsets/2007137#mania/4174888)
   5. [Adust Rain - psychology (FelixSpade) \[despondent 1.1x (168bpm)\]](https://osu.ppy.sh/beatmapsets/1631776#mania/3330904)
   6. [3L - Tiny Little Adiantum (\[GB\]Reisen) \[Ska's smol 1.05x (cut)\]](https://osu.ppy.sh/beatmapsets/2007649#mania/4176067)
-- LN
+- Long Note
   1. [Akatsuki Records - HANIPAGANDA (YuEast 2018) \[HAHAHA\]](https://osu.ppy.sh/beatmapsets/2006946#mania/4174471)
   2. [COOL&CREATE - Lunatic Eyes ~ Invisible Full Moon (Cut Ver.) (TheFunk) \[Blood Moon 1.05x (210bpm)\]](https://osu.ppy.sh/beatmapsets/1888601#mania/3889543)
   3. [ZUN - At the end of spring (pieerre) \[Normal\]](https://osu.ppy.sh/beatmapsets/1726430#mania/3528171)
@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
   3. [3L - Three Magic (DiGiTAL WiNG TRANCE Remix) (Hylotl) \[<3 [1.05x Rate]\]](https://osu.ppy.sh/beatmapsets/2002689#mania/4164754)
   4. [UNDEAD CORPORATION - Necrophilia (Gekido-) \[Desire\]](https://osu.ppy.sh/beatmapsets/738235#mania/1557879)
   5. [ZYTOKINE - Hyakka (-Deepdive-) \[Hundred Flower\]](https://osu.ppy.sh/beatmapsets/2002622#mania/4164586)
-- LN
+- Long Note
   1. [BUTAOTOME - Hakanaki Mono Ningen (YuEast 2018) \[fake x1.10\]](https://osu.ppy.sh/beatmapsets/2003096#mania/4165581)
   2. [ALiCE'S EMOTiON - Last Time (t+pazolite Remix) (\[GB\]Reisen) \[Dreamy Path\]](https://osu.ppy.sh/beatmapsets/2003293#mania/4166066)
   3. [Camellia - werewolf howls. (lemonguy) \[LNFINITE.\]](https://osu.ppy.sh/beatmapsets/1435835#mania/2954313)
@@ -243,7 +243,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Yonder Voice - Flight Night Flight (Tairits7) \[Rice Jack Cake x1.15(140bpm)\]](https://osu.ppy.sh/beatmapsets/1994489#mania/4144917)
   4. [Camellia - potential curve (\[GB\]V1do) \[Challenge\]](https://osu.ppy.sh/beatmapsets/2000177#mania/4158359)
   5. [T.B.K - Louve d'Automne (-Deepdive-) \[Automne d'Automne 1.1x (177bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1827113#mania/3772200)
-- LN
+- Long Note
   1. [Halozy - Starry Presto (arccat) \[LN\]](https://osu.ppy.sh/beatmapsets/1680643#mania/3459364)
   2. [Demetori - Inchlings of the Shining Needle ~ Counter-Attack of the Weak (\[GB\]Sanae) \[Lighting Sword\]](https://osu.ppy.sh/beatmapsets/1853689#mania/3810011)
   3. [t+pazolite - CENSORED!! (-mint-) \[EXPLICIT\]](https://osu.ppy.sh/beatmapsets/1878634#mania/3867039)
@@ -260,7 +260,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Stack - Deep Dream Dominator (\[GB\]Sanae) \[Dream Catcher (200bpm)\]](https://osu.ppy.sh/beatmapsets/1922257#mania/4147278)
   3. [FELT - START (-Deepdive-) \[Rebirth\]](https://osu.ppy.sh/beatmapsets/1726334#mania/3527980)
   4. [t+pazolite - Magical Higan Tour 2009 (-Deepdive-) \[Technical Higan Tour 2023 1.05x\]](https://osu.ppy.sh/beatmapsets/1993067#mania/4141713)
-- LN
+- Long Note
   1. [IOSYS - Marisa wa Taihen na Mono wo Nusunde Ikimashita (lemonguy) \[LuNatic\]](https://osu.ppy.sh/beatmapsets/1738003#mania/3552265)
   2. [senya - Nagori Tori (Hidden is fun) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1993909#mania/4143528)
 - Hybrid
@@ -276,7 +276,7 @@ This competition has come to an end and resulted in the following podium:
   2. [sun3 - Meikai Kikou (Hidden is fun) \[thmc3_edit\]](https://osu.ppy.sh/beatmapsets/1991655#mania/4138152)
   3. [ZUN - Maho no kasajizo (\[Crz\]hinako1804) \[Namoamituofo\]](https://osu.ppy.sh/beatmapsets/1736124#mania/3548272)
   4. [ELECTR - Black Fluid (-Deepdive-) \[Turbulence\]](https://osu.ppy.sh/beatmapsets/1993055#mania/4141692)
-- LN
+- Long Note
   1. [Komiya Mao - (can you) understand me? (Hidden is fun) \[?\]](https://osu.ppy.sh/beatmapsets/1991656#mania/4138153)
   2. [FELT - Katsukusa ya sarishi Nichinichi no Kageboushi (-\[Ulazis\]-) \[Koi\]](https://osu.ppy.sh/beatmapsets/1991141#mania/4136834)
 - Hybrid
