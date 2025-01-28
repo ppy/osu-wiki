@@ -68,6 +68,8 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `star`, `stars` | [Star rating](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Song tempo](/wiki/Music_theory/Tempo) |
 | `length` | [Length](/wiki/Beatmap/Play_time) in seconds |
+| `circles` | Number of circles in the beatmap |
+| `sliders` | Number of sliders in the beatmap |
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
 | `created` | Beatmap creation/upload date |
@@ -143,7 +145,7 @@ status=r,l
 
 ## References
 
-[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/58514a67d1f38e9842045615993252a8810fd50b/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [true]: /wiki/shared/true.png
