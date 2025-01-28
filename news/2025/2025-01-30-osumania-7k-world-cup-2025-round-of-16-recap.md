@@ -32,9 +32,22 @@ Mappool summary.
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
-| Thailand ::{ flag=TH }:: | 0 | **5** | ::{ flag=EE }:: Estonia |
-
-Add table.
+| Thailand ::{ flag=TH }:: | 0 | **5** | ::{ flag=EE }:: **Estonia** |
+| Lithuania ::{ flag=LT }:: | 0 | **5** | ::{ flag=TH }:: **Thailand** |
+| Mexico ::{ flag=MX }:: | 1 | **5** | ::{ flag=MO }:: **Macau** |
+| United Kingdom ::{ flag=GB }:: | 4 | **5** | ::{ flag=DK }:: **Denmark** |
+| **Netherlands** ::{ flag=NL }:: | **5** | 4 | ::{ flag=FI }:: Finland |
+| Peru ::{ flag=PE }:: | 3 | **5** | ::{ flag=MY }:: **Malaysia** |
+| Czechia ::{ flag=CZ }:: | 1 | **5** | ::{ flag=SE }:: **Sweden** |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=CL }:: Chile |
+| **Philippines** ::{ flag=PH }:: | **5** | 2 | ::{ flag=NZ }:: New Zealand |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=DE }:: Germany |
+| **Singapore** ::{ flag=SG }:: | **5** | 4 | ::{ flag=PL }:: Poland |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=ES }:: Spain |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=FR }:: France |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=RU }:: Russian Federation |
+| **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=VE }:: Venezuela |
+| Norway ::{ flag=NO }:: | 2 | **5** | ::{ flag=CA }:: **Canada** |
 
 Week summary. How are seeds going. Mention how losers bracket is going.
 
