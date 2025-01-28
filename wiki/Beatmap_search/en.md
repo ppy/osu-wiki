@@ -68,6 +68,8 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `star`, `stars` | [Star rating](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Song tempo](/wiki/Music_theory/Tempo) |
 | `length` | [Length](/wiki/Beatmap/Play_time) in seconds |
+| `circles` | Number of circles in the beatmap |
+| `sliders` | Number of sliders in the beatmap |
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
 | `created` | Beatmap creation/upload date |
