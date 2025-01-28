@@ -51,21 +51,10 @@ Mappool summary.
 
 Week summary. How are seeds going. Mention how losers bracket is going.
 
-### ::{ flag=XX }:: COUNTRY vs. ::{ flag=XX }:: COUNTRY
+### ::{ flag=GB }:: United Kingdom vs. ::{ flag=DK }:: Denmark
 
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Highlights.
-
-### ::{ flag=XX }:: COUNTRY vs. ::{ flag=XX }:: COUNTRY
-
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116941242)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2363319347)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
@@ -73,10 +62,21 @@ Highlights.
 
 Highlights.
 
-### ::{ flag=XX }:: COUNTRY vs. ::{ flag=XX }:: COUNTRY
+### ::{ flag=NL }:: Netherlands vs. ::{ flag=FI }:: Finland
 
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116942048)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2363319348)**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Highlights.
+
+### ::{ flag=PE }:: Peru vs. ::{ flag=MY }:: Malaysia
+
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/116942102)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2363305061)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
