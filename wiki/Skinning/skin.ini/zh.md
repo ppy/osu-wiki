@@ -171,8 +171,8 @@ osu! 使用标题命令组织参数，看起来像这样：`[General]`。在 ski
   - 值：文本 *（皮肤制作者）*
   - 默认值：*（空）*
   - 备注：
-    - 在[osu!(lazer)](/wiki/Client/Release_stream/Lazer)中，文件名将会是`<Name> (<Author>).osk`。
-    - 在[osu!(lazer)](/wiki/Client/Release_stream/Lazer)中，皮肤选择器的选项格式通常为`<Name> (<Author>)`，如果`skin.ini`中的名称与`.osk`文件中的名称不同，那么格式为`<Name> [<.osk filename>] (<Author>)`
+    - 在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，文件名将会是 `<Name> (<Author>).osk`。
+    - 在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，皮肤选择器的选项格式通常为 `<Name> (<Author>)`，如果 `skin.ini` 中的名称与 `.osk` 文件中的名称不同，那么格式为 `<Name> [<.osk filename>] (<Author>)`。
 - `Version:`
   - 问题：此皮肤的具体行为如何？
   - 值：[版本号](/wiki/Skinning/skin.ini#版本) 或 `latest`
