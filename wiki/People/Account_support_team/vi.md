@@ -13,6 +13,7 @@ Thường mất vài ngày để bộ phận hỗ trợ trả lời email. Nếu
 ## vai trò và nhiệm vụ 
 
 *Bài viết chính: [Trung tâm hỗ trợ](/wiki/Help_centre)*
+
 *Xem thêm: [Hạn chế tài khoản](/wiki/Help_centre/Account_restrictions)* 
 
 Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến tài khoản mà bạn không thể kiểm soát. Vui lòng nhớ cung cấp đầy đủ thông tin vấn đề của bạn càng tốt và gửi email từ địa chỉ liên kết với tài khoản osu! của bạn.
