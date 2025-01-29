@@ -70,7 +70,9 @@ Some examples of beatmaps nerfed by this change:
 - [Middle Kids - R U 4 Me? (Cut Ver.) [Together Forever]](https://osu.ppy.sh/beatmapsets/2299895#osu/4914437) with DT: 11.13* --> 10.95*
 - [Yousei Teikoku - Zetsubou plantation (Cut. Ver) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2250663#osu/4793476) with DT: 10.46* --> 10.22*
 
-As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM - beatmaps with difficult wiggle-like patterns below 300BPM may receive a (slight) new buff!
+As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM - beatmaps with difficult wiggle-like patterns below 300BPM may receive a (slight) new buff:
+
+![](/wiki/shared/news/2025-01-27-performance-points-star-rating-updates/wiggle-graph.png)
 
 ### Slider drop penalty fixes
 
