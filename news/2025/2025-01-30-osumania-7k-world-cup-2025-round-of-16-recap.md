@@ -119,8 +119,8 @@ Score highlights.
 
 ---
 
-Outro.
+There's still plenty of MWC ahead of us! For those looking to experience it live, make sure to stay tuned to [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) in the weekends to come. And for any stat freak who'd like to go over every minute detail there's to know, check out the [wiki article](/wiki/Tournaments/MWC/2025_7K) and the [spreadsheets](https://docs.google.com/spreadsheets/d/1FY-wKhfklcx2YH8xlFp5Z7VNGdvM5L2t3IyIzONZ1aI?rm=minimal) with this week's results.
 
-Stream, and wiki plug.
+We have only scratched the surface of this year's tournament, and yet we've already got to experience plenty of highlights! Who knows what later rounds will surprise us with, as we're not even close to the tournament's apex.
 
 —RandomeLoL
