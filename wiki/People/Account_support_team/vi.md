@@ -4,7 +4,7 @@
 
 **Nhóm hỗ trợ tài khoản** là một nhóm người quản lý tài khoản người dùng, đồng thời tiếp nhận các kháng cáo về im lặng và hạn chế.
 
-## Điểm để liên hệ
+## Điểm liên hệ
 
 Nhóm chỉ có thể liên lạc được bằng cách gửi email đến [accounts@ppy.sh](mailto:accounts@ppy.sh), [support@ppy.sh](mailto:support@ppy.sh), [privacy@ppy.sh](mailto:privacy@ppy.sh) hoặc  [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Danh tính các thành viên của nhóm được giữ bí mật để bảo vệ họ khỏi sự chú ý không mong muốn.
 
