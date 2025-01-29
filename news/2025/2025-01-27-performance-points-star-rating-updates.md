@@ -58,21 +58,21 @@ This bonus should now be more fair towards difficult patterns, while some overwe
 
 There was also a change to uncap velocity constraints that used to exist on the bonus allowing for some very hard *acute*-angled jumps in high BPM beatmaps to receive a greater buff.
 
-Some examples of beatmaps buffed by this change:
+As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM - beatmaps with difficult wiggle-like patterns below 300BPM may receive a (slight) new buff:
+
+![](/wiki/shared/news/2025-01-27-performance-points-star-rating-updates/wiggle-graph.png)
+
+Some examples of beatmaps buffed by these changes:
 
 - [DJ TOTTO - Crystalia [Meal's Ultra]](https://osu.ppy.sh/beatmapsets/691220#osu/1475722) with DT: 11.19* --> 11.38*
 - [Light - Anoneanoneanoneanoneanoneanoneanoneanone Kouji ga Okureteruno [Anone]](https://osu.ppy.sh/beatmapsets/822716#osu/1724319) with DT: 10.62* --> 11.22*
 - [nameless - Milk Crown on Sonnetica [Milked]](https://osu.ppy.sh/beatmapsets/550414#osu/1166087) with DT: 10.73* --> 11.17*
 
-Some examples of beatmaps nerfed by this change:
+Some examples of beatmaps nerfed by these changes:
 
 - [toby fox - Song That Might Play When You Fight Sans [Genocide]](https://osu.ppy.sh/beatmapsets/2252729#osu/4791387) with DT: 10.09* --> 9.82*
 - [Middle Kids - R U 4 Me? (Cut Ver.) [Together Forever]](https://osu.ppy.sh/beatmapsets/2299895#osu/4914437) with DT: 11.13* --> 10.95*
 - [Yousei Teikoku - Zetsubou plantation (Cut. Ver) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2250663#osu/4793476) with DT: 10.46* --> 10.22*
-
-As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM - beatmaps with difficult wiggle-like patterns below 300BPM may receive a (slight) new buff:
-
-![](/wiki/shared/news/2025-01-27-performance-points-star-rating-updates/wiggle-graph.png)
 
 ### Slider drop penalty fixes
 
