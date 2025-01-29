@@ -26,7 +26,7 @@ Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag-GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Jerman |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polski |

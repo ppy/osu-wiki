@@ -26,7 +26,7 @@ La [page de groupe de l'équipe de support technique](https://osu.ppy.sh/groups/
 | Nom | Langues additionnelles |
 | :-- | :-- |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag-GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Allemand |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polonais |
