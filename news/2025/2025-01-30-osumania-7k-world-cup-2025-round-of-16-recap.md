@@ -4,13 +4,15 @@ title: "osu!mania 7K World Cup 2025: Round of 16 Recap"
 date: 2025-01-30 20:00:00 +0000
 ---
 
-Eye grabbing sentence.
+As the SOMETHING of the tournament draws near, s
+
+With the the tournament drawing near to its halfway point, our contestants' fighting spirits are on the rise!
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
 
-Intro
+With a steady increase in pool's difficulty, our teams are starting to get accustomed to the pace of the tournament. Competition is steadily on the rise as our teams fight relentlessly for glory or to save themselves from the clutches of elimination. With no further ado, let's see what this week's Round of 16 has in store for us!
 
-Surfchu + Yukina plug.
+As per usual, [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) have joined forces once again to recap the events in video form for those who'd prefer to watch it along.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
