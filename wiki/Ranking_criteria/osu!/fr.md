@@ -97,7 +97,7 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 #### Directives sur les paramètres de difficultés
 
-- [L'Approach rate](/wiki/Beatmap/Approach_rate) doit être égal ou inférieure à 5.
+- [L'Approach rate](/wiki/Beatmap/Approach_rate) doit être inférieur ou égal à 5.
 - [L'Overall difficulty](/wiki/Beatmap/Overall_difficulty)/[L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 1 et 3.
 - Le [Circle size](/wiki/Beatmap/Circle_size) doit être inférieur ou égal à 4.
 
