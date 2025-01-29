@@ -164,7 +164,7 @@ osu! 使用标题命令组织参数，看起来像这样：`[General]`。在 ski
   - 备注：
     - 在导出皮肤后，文件名将会是 `<Name>.osk`。
       - 在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，文件名将会是 `<Name> (<Author>).osk`。
-    - osu! 客户端会参照皮肤文件夹的名字列出皮肤。
+    - osu! 客户端会参照皮肤文件夹的名字列出皮肤，而不是这一选项所指定的文件名。
       - 在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，皮肤选择器的选项格式通常为 `<Name> (<Author>)`，如果 `skin.ini` 中的名称与 `.osk` 文件中的名称不同，那么格式为 `<Name> [<.osk filename>] (<Author>)`。
 - `Author:`
   - 问题：此皮肤的作者是谁？
