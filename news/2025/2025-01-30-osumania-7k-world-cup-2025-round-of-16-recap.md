@@ -24,9 +24,17 @@ As per usual, [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](ht
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2358013328&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-01-30-osumania-7k-world-cup-2025-round-of-16-recap/mappool.jpg)
+![Round of 16 mappool table](/wiki/shared/news/2025-01-30-osumania-7k-world-cup-2025-round-of-16-recap/mappool.jpg)
 
-Mappool summary.
+As it is to be expected, the mappool has had a substantial bump in difficulty. It's probably not going to be apparent by the amazing scores set by the players as you'll soon see! But this is easier said than done, especially on the very first elimination round. Teams cannot afford to grow complacent, and the pools to come won't make that an easy goal to achieve.
+
+Returning from previous World Cups, this pool featured quite a handful of [osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) — one song from the other World Cup series to be precise! So if you wanted to see osu!mania interpretations of your favourite songs, fret not. [pwhk](https://osu.ppy.sh/users/4887865), [Maxus](https://osu.ppy.sh/users/4335785), [_Yiiiii](https://osu.ppy.sh/users/6066359), and [_Stan](https://osu.ppy.sh/users/1653229) got you covered with their unique takes on [Culprate - Junglist Acid (osu! Edit)](https://osu.ppy.sh/beatmapsets/2310708#mania/4943272) (RC4), [A.SAKA - KAGUTSUCHI](https://osu.ppy.sh/beatmapsets/2310842#mania/4943560) (LN3), [Supa7onyz feat. 5-let - Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2310776#mania/4943408) (HB2), and [katagiri - c0pyf0x](https://osu.ppy.sh/beatmapsets/2310817#mania/4943513) (HB2) respectively.
+
+Other than our full suite of World Cup originals, we've got a couple stand-outs from this mappool to showcase! A pick that seemed to be very popular amongst our contestants was [Toromaru - Curiosity](https://osu.ppy.sh/beatmapsets/2310774#mania/4943406) (RC5) by [_Yiiiii](https://osu.ppy.sh/users/6066359). While not the most picked from the pool nor the Rice category, it is quite rare to see one of the hardest — if not the hardest — rice picks being one of this pool's fan favourites. A relentless chart aimed to test players' full suite of rice skills with its wide variety of patterns. Perhaps the best strategy was having fun all along, playing the maps players enjoyed the most!
+
+Our second highlight of the week was [Supa7onyz feat. 5-let - Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2310776#mania/4943408) (HB2) by [_Yiiiii](https://osu.ppy.sh/users/6066359). How convenient, as both of this week's spotlighted picks were made by the same mapper! Silly trivia aside, HB2 is the exact opposite of RC5. With the second lowest pick rate of the round, outside of the tiebreaker, HB2 acted as the de facto wildcard pick for the pool. The definition of a high risk, high reward pick for those who were able to use it wisely and force their opponents to play a rather tricky map.
+
+Those who have been keeping up with the next round's pool know what's coming on the next recap! For the time being, the Round of 16 still hadn't had the chance to showcase a brand new track. But that's bound to change in the rounds to come. So stay tuned for Quarterfinals and beyond!
 
 ## Round of 16 summary
 
