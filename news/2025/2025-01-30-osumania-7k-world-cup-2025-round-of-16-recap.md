@@ -86,7 +86,12 @@ Highlights.
 
 ## Score highlights
 
-Score highlights.
+With a noticeable step up in difficulty in this round's mappool, players had to make an active effort to stay afloat and perform well. Considering what we saw over the weekend, it is save to assume they went above and beyond our expectations. Here are some of the scores we'd like to put the spotlight on:
+
+- [ginkiha - Fading Star (banshi Remix)](https://osu.ppy.sh/beatmapsets/2310662#mania/4943189) (RC3) may have been an ironic song title given that we did have *shining* stars like ::{ flag=US }:: [logann](https://osu.ppy.sh/users/24675802) and ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649) who both had 999,000+ runs.
+- Even though we're still in the early stages of the World Cup, ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) may have given us a candidate for "score of the tournament" with an impressive 994,000+ full combo on [Phoenix Legend - She Xiang Fu Ren (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310775#mania/4943407) (LN1).
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) had an absolute field day this Sunday thanks to their weekend-topping performances on [nekomirin - NO NIGHT MORE SOUL!](https://osu.ppy.sh/beatmapsets/2310669#mania/4943198) (LN2) 993,673, [A.SAKA - KAGUTSUCHI](https://osu.ppy.sh/beatmapsets/2310842#mania/4943560) (LN3) 991,310, and [Kotono - friend ship (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310670#mania/4943200) (HB1) 995,354.
+- Last but not least, we'd like to give ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179) a mention for their amazing performance on [Culprate - Junglist Acid (osu! Edit)](https://osu.ppy.sh/beatmapsets/2310708#mania/4943272) (RC4), leading the pack with their 988,459 run.
 
 ## ¡¡ Placeholder !! Interview below.
 
