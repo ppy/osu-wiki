@@ -218,7 +218,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (30 MB)](https://drive.google.com/file/d/1-G2a4Azp-V6DXjdfw1PlNtroJGPhHso6/)**\
+**[Download the mappack here! (30 MB)](https://drive.google.com/file/d/1-G2a4Azp-V6DXjdfw1PlNtroJGPhHso6/)**
 [View the showcase VOD here](https://www.twitch.tv/videos/2357615055)
 
 1. [Sasara Yuuna - Oreore Shuugetsu \~Wriggle de Pikokyon\~ (Cut Ver.) (AutotelicBrown)\[Stage 1: Fool Moon\]](https://osu.ppy.sh/beatmapsets/2310392#mania/4942637)
