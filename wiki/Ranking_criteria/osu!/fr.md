@@ -208,4 +208,4 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 
 - [L'Approach rate](/wiki/Beatmap/Approach_rate)/[L'Overall difficulty](/wiki/Beatmap/Overall_difficulty) doit être égal ou supérieur à 8.
 - [L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être égal ou supérieur à 5.
-- Le [Circle size](/wiki/Beatmap/Circle_size) doit être égal ou inférieure à 7.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être inférieur ou égal à 7.
