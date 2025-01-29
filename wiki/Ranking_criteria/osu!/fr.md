@@ -140,7 +140,7 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 
 - [L'Approach rate](/wiki/Beatmap/Approach_rate) doit être compris entre 4 et 6.
 - [L'Overall difficulty](/wiki/Beatmap/Overall_difficulty)/[L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 3 et 5.
-- Le [Circle size](/wiki/Beatmap/Circle_size) doit être égal ou inférieure à 5.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être inférieur ou égal à 5.
 
 ### ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 
