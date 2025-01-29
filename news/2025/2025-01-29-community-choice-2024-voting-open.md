@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2024: Voting Open"
-date: 2024-01-28 18:00:00 +0000
+date: 2024-01-29 06:00:00 +0000
 ---
 
 One of the 17 full years of mapping ended just last month, and this will be the moment to pick its most memorable maps!
@@ -18,7 +18,7 @@ That's not all, however, because the same deal applies to the *Mappers' Favourit
 
 This means there is a total of *80 distinct spots* to fill on the final showcase! Or less, if mappers and players agree on the best maps. (But that rarely happens.)
 
-There is but one thing left to do, which is to review the past year in numbers:
+Now, there is but one thing left to do, which is to review the past year in numbers:
 
 <!-- 2023 data
 - A total of **17,342** difficulties were ranked across **4,665** mapsets in all game modes, seeing roughly a **13%** drop from the year before.
@@ -35,7 +35,10 @@ Let's not wait any longer. You'll find your repertoire of played maps to vote fo
 - [osu! voting](https://osu.ppy.sh/community/contests/231)
 - [osu!taiko voting](https://osu.ppy.sh/community/contests/232)
 - [osu!catch voting](https://osu.ppy.sh/community/contests/233)
-- [osu!mania voting](https://osu.ppy.sh/community/contests/234)
+- [osu!mania 4K voting](https://osu.ppy.sh/community/contests/234)
+- [osu!mania 7K voting](https://osu.ppy.sh/community/contests/235)
+
+Unlike previous times, the votings for osu!mania are split between the 4K and 7K key modes.
 
 Again, you have **14 days** from now to decide, so don't get stuck between maps for too long.
 
