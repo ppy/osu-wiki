@@ -136,4 +136,4 @@ There's still plenty of MWC ahead of us! For those looking to experience it live
 
 We have only scratched the surface of this year's tournament, and yet we've already got to experience plenty of highlights! Who knows what later rounds will surprise us with, as we're not even close to the tournament's apex.
 
-—RandomeLoL
+—RandomeLoL, SurfChu85
