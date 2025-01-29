@@ -160,7 +160,7 @@ osu! 使用标题命令组织参数，看起来像这样：`[General]`。在 ski
 - `Name:`
   - 问题：此皮肤的文件名是什么？
   - 值：文本 *（皮肤名）*
-  - 默认值：*（空）*
+  - 默认值：*未知*
   - 备注：
     - 在导出皮肤后，文件名将会是 `<Name>.osk`。
       - 在[osu!(lazer)](/wiki/Client/Release_stream/Lazer)中，文件名将会是`<Name> (<Author>).osk`。
