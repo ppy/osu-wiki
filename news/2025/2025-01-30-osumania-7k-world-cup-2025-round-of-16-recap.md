@@ -33,7 +33,7 @@ Mappool summary.
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
 | Thailand ::{ flag=TH }:: | 0 | **5** | ::{ flag=EE }:: **Estonia** |
-| Lithuania ::{ flag=LT }:: | 0 | **5** | ::{ flag=TH }:: **Thailand** |
+| Lithuania ::{ flag=LT }:: | 0 | **5** | ::{ flag=TW }:: **Taiwan** |
 | Mexico ::{ flag=MX }:: | 1 | **5** | ::{ flag=MO }:: **Macau** |
 | United Kingdom ::{ flag=GB }:: | 4 | **5** | ::{ flag=DK }:: **Denmark** |
 | **Netherlands** ::{ flag=NL }:: | **5** | 4 | ::{ flag=FI }:: Finland |
