@@ -72,7 +72,7 @@ Some examples of beatmaps nerfed by these changes:
 
 - [toby fox - Song That Might Play When You Fight Sans [Genocide]](https://osu.ppy.sh/beatmapsets/2252729#osu/4791387) with DT: 10.09* --> 9.82*
 - [Middle Kids - R U 4 Me? (Cut Ver.) [Together Forever]](https://osu.ppy.sh/beatmapsets/2299895#osu/4914437) with DT: 11.13* --> 10.95*
-- [Yousei Teikoku - Zetsubou plantation (Cut. Ver) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2250663#osu/4793476) with DT: 10.46* --> 10.22*
+- [Yousei Teikoku - Zetsubou plantation (Cut Ver.) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2250663#osu/4793476) with DT: 10.46* --> 10.22*
 
 ### Slider drop penalty fixes
 
