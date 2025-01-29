@@ -4,8 +4,6 @@ title: "osu!mania 7K World Cup 2025: Round of 16 Recap"
 date: 2025-01-30 20:00:00 +0000
 ---
 
-As the SOMETHING of the tournament draws near, s
-
 With the the tournament drawing near to its halfway point, our contestants' fighting spirits are on the rise!
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
