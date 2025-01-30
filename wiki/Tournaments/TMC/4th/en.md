@@ -183,7 +183,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 | **Group L** | vivid/stasis | kingg! | Cino fan club | File Archivers |
 | **Group M** | E=mc² | Odysseus | steamhappy | 那咋了 |
 | **Group N** | cheewee10 | The Boys | AKatsuki | Blue-Haired Yuuka |
-| **Group O** | Benny Goodman | ball itchers | una familia de 10  | WE HATE FEMBOYS@!!!!! |
+| **Group O** | Benny Goodman | ball itchers | una familia de 10 | WE HATE FEMBOYS@!!!!! |
 | **Group P** | Girls Band Cry | Fish⁴ | rip king von | copium inhalers |
 
 <!--## Podium-->
