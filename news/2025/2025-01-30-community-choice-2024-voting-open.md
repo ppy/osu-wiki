@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2024: Voting Open"
-date: 2024-01-29 06:00:00 +0000
+date: 2024-01-30 16:00:00 +0000
 ---
 
 One of the 17 full years of mapping ended just last month, and this will be the moment to pick its most memorable maps!
@@ -28,9 +28,18 @@ Now, there is but one thing left to do, which is to review the past year in numb
 - **4,030** osu!mania difficulties got recognised as enough high quality to have an everlasting place in the Ranked section, with an astonishing increase of **34%** to continue the upward trend!
 -->
 
-Compared to [last year](https://osu.ppy.sh/home/news/2024-02-12-community-choice-2023-results), {some kind of conclusion}.
+| Game mode | Beatmaps | Difficulties | Difference from [2023](https://osu.ppy.sh/home/news/2024-02-12-community-choice-2023-results) |
+| :-- | --: | --: | :-- |
+| osu! | 3,510 | 14,524 | +63% |
+| osu!taiko | 1,213 | 4,950 | +48% |
+| osu!catch | 437 | 1,314 | +25% |
+| osu!mania (4k) | 980 | 3,067 | +0.13% |
+| osu!mania (7k) | 162 | 577 | +7.1% |
+| **Total** | 6,253 | 24,763 | +43% |
 
-Let's not wait any longer. You'll find your repertoire of played maps to vote for below:
+It would seem that the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) have been busy.
+
+Anyway, let's not wait any longer. You'll find your repertoire of played maps to vote for below:
 
 - [osu! voting](https://osu.ppy.sh/community/contests/231)
 - [osu!taiko voting](https://osu.ppy.sh/community/contests/232)
@@ -38,7 +47,7 @@ Let's not wait any longer. You'll find your repertoire of played maps to vote fo
 - [osu!mania 4K voting](https://osu.ppy.sh/community/contests/234)
 - [osu!mania 7K voting](https://osu.ppy.sh/community/contests/235)
 
-Unlike previous times, the votings for osu!mania are split between the 4K and 7K key modes.
+Unlike previous times, the votings for osu!mania are split between the 4K and 7K key modes due to popular demand.
 
 Again, you have **14 days** from now to decide, so don't get stuck between maps for too long.
 
