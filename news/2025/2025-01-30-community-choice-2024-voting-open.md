@@ -29,7 +29,7 @@ Now, there is but one thing left to do, which is to review the past year in numb
 -->
 
 | Game mode | Beatmaps | Difficulties | Difference from [2023](https://osu.ppy.sh/home/news/2024-02-12-community-choice-2023-results) |
-| :-- | --: | --: | :-- |
+| :-- | --: | --: | --: |
 | osu! | 3,510 | 14,524 | +63% |
 | osu!taiko | 1,213 | 4,950 | +48% |
 | osu!catch | 437 | 1,314 | +25% |
