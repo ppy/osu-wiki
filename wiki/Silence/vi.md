@@ -22,7 +22,7 @@ Một người dùng có một im lặng đang hoạt động không thể làm 
 ![](img/silence-ingame.png "Cảnh báo im lặng trong trò chuyện")
 :::
 
-Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đã bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí của trường nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
+Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đã bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí của ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
 
 ## Thời lượng
 
