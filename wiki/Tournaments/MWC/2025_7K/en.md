@@ -109,6 +109,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ## Match schedule: Quarterfinals
 
+### Friday, 31 January 2025
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Jan 31 (Fri) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250131T060000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+
 ### Saturday, 1 February 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
@@ -130,7 +136,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | Russian Federation ::{ flag=RU }:: | ::{ flag=SG }:: Singapore | [Feb 02 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250202T100000&p1=1440&p2=166&p3=236) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Sweden ::{ flag=SE }:: | ::{ flag=NZ }:: New Zealand | [Feb 02 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250202T100000&p1=1440&p2=239&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Sweden ::{ flag=SE }:: | ::{ flag=SG }:: Singapore | [Feb 02 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250202T100000&p1=1440&p2=239&p3=236) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 02 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250202T113000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=HK }:: Hong Kong | [Feb 02 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250202T120000&p1=1440&p2=145&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
 | Germany ::{ flag=DE }:: | ::{ flag=NL }:: Netherlands | [Feb 02 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250202T130000&p1=1440&p2=37&p3=16) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Taiwan ::{ flag=TW }:: | ::{ flag=ES }:: Spain | [Feb 02 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250202T140000&p1=1440&p2=241&p3=141) | *TBD* | [^potential-match] |
