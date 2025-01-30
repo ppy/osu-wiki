@@ -20,14 +20,6 @@ This means there is a total of *80 distinct spots* to fill on the final showcase
 
 Now, there is but one thing left to do, which is to review the past year in numbers:
 
-<!-- 2023 data
-- A total of **17,342** difficulties were ranked across **4,665** mapsets in all game modes, seeing roughly a **13%** drop from the year before.
-- **8,917** osu! difficulties were blessed with nominations from 2 Beatmap Nominators, with a **20%** decrease from 2022.
-- **3,345** osu!taiko difficulties successfully made it through their ranking journey, returning a recline of **23%** from the bygone year.
-- **1,050** osu!catch difficulties were deemed worthy to receive permanent leaderboards, matched with a **26%** drop from 2022.
-- **4,030** osu!mania difficulties got recognised as enough high quality to have an everlasting place in the Ranked section, with an astonishing increase of **34%** to continue the upward trend!
--->
-
 | Game mode | Beatmaps | Difficulties | Difference from [2023](https://osu.ppy.sh/home/news/2024-02-12-community-choice-2023-results) |
 | :-- | --: | --: | --: |
 | osu! | 3,510 | 14,524 | +63% |
