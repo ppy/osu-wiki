@@ -85,7 +85,19 @@ Highlights.
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights.
+If we were to ask ourselves what could've been one of the most exciting matches of the weekend, a lot of us would've most probably agreed that the Netherlands (#26) versus Finland (#22) would be a commonly agreed upon answer. Clutching from the claws of elimination in the losers bracket, both teams have it their all in an effort to stay afloat. Get ready for a match driven to victory by a team's stern determination despite all odds!
+
+Finland got the upper hand by being allowed to pick first, choosing to protect [Toromaru - Curiosity](https://osu.ppy.sh/beatmapsets/2310774#mania/4943406) (RC5) and ban [Phoenix Legend - She Xiang Fu Ren (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310775#mania/4943407). Meanwhile, the Netherlands opted to protect [Kotono - friend ship (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310670#mania/4943200) and ban [Culprate - Junglist Acid (osu! Edit)](https://osu.ppy.sh/beatmapsets/2310708#mania/4943272). Right out of the gate, we can see each team's prefered skill sets from those choices alone.
+
+With Finland's slight rice advantage, they chose to start strong by choosing [ginkiha - Fading Star (banshi Remix)](https://osu.ppy.sh/beatmapsets/2310662#mania/4943189) (RC3). No surprises there considering this was the most first picked beatmap in the pool! As it was to be expected, Finland dominated the point with a 37,548-point lead, setting a solid start for the team. In an attempt to regain some ground, the netherlands went for their protected pick [Kotono - friend ship (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310670#mania/4943200) (HB1). While the teams traded blows back and forth, Finland ended up taking the point thanks to ::{ flag=FI }:: [Lyuna](https://osu.ppy.sh/users/4760676) and ::{ flag=FI }:: [Maffe](https://osu.ppy.sh/users/4773855)'s impressive performances. This lead to Finland securing the first break point of the match.
+
+This trend continued with Finland's next pick, that being [Toromaru - Curiosity](https://osu.ppy.sh/beatmapsets/2310774#mania/4943406) (RC5). And while the Netherlands was able to gain some momentum back by picking and winning [A.SAKA - KAGUTSUCHI](https://osu.ppy.sh/beatmapsets/2310842#mania/4943560) (LN3), the Finns did not take long to recover on their very next point and reaching their match point with a 1–4 lead over their rivals.
+
+When everyone thought Finland would be winning the match by now, we were bestowed with one of the most surprising comebacks of the tournament to date! The Netherlands, with their backs pressed against the wall, were able to calm their nerves and rise back up from the brink of defeat. Winning pick after pick, ::{ flag=NL }:: [Freek](https://osu.ppy.sh/users/9630674) and ::{ flag=NL }:: [DravenXTaric](https://osu.ppy.sh/users/11999500) refused to go down without a fair fight. And by winning their very last [katagiri - c0pyf0x](https://osu.ppy.sh/beatmapsets/2310817#mania/4943513) (HB2), the Netherlands managed to force a 4–4 tie, sending both teams to fight for survival on this round's tiebreaker!
+
+The tiebreaker itself was packful of dense and difficult patterns that required players to stay at the top of their game for the map's entire 5-minute duration. And after a serious battle of attrition that left both teams exhausted, the Netherlands managed to win their final battle. Escaping from the clutches of death itself and moving into their next round in a breathtaking comeback!
+
+Finland's performance should not be overlooked however. Even though they were eliminated, their efforts have not gone unnoticed. We wish them the best of luck next year in the hopes they can deliver matches as exciting as this one was!
 
 ### ::{ flag=PE }:: Peru vs. ::{ flag=MY }:: Malaysia
 
