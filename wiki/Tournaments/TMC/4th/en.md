@@ -169,22 +169,22 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 |  | Top Seed | High Seed | Mid Seed | Low Seed |
 | :-: | :-: | :-: | :-: | :-: |
-| **Group A** | Gravity Coil | fuma fumos | the | 我的哈基米观崩溃了 |
-| **Group B** | Mahjong Soul Official | The Clones | Cat Yumy | 原来你也玩malody |
-| **Group C** | Girlfriend ASMR | the malaysians + 1 indo | Lucky Star | PLAY TOUHOU LUNA NIGHTS |
-| **Group D** | cucumbers | Adrianlazer Fanboys | WE LUV かめりあ | Doki Doki Osu Club |
-| **Group E** | Retirados y Peligrosos | EL NACHO | Team CatTaiL | Saataa Andagii!!! |
-| **Group F** | :bucket::1217god::scream: | Ton 618 | GOOOOOOOOOOAAAAAAAAAAAAL | The Chen Enjoyers |
-| **Group G** | Mr Beajek's winter ARC | spicy chicken sandwich | 古明地三鲜与八云紫的狂想四重奏 | sprite cranberry |
-| **Group H** | "OH MY DAYS (skylanders)" | shreimu (reimu shrimp) | toilet driver | 企鹅 |
-| **Group I** | 有点弱，， | Mystia's Izakaya Patrons | TOHOK | 古老的元神 |
-| **Group J** | spongebob water | Help me, P3pp3RINNNNNN | team saucisse | fpt wifi users: |
-| **Group K** | vivid/stasis | Eerie Idiots in Space | Cino fan club | filipinos kidnap indo et |
-| **Group L** | Chodan | kingg! | The Rewinders | File Archivers |
-| **Group M** | E=mc² | The Boys | steamhappy | Blue-Haired Yuuka |
-| **Group N** | cheewee10 | Odysseus | AKatsuki | 那咋了 |
-| **Group O** | Girls Band Cry | ball itchers | rip king von | WE HATE FEMBOYS@!!!!! |
-| **Group P** | Benny Goodman | Fish⁴ | una familia de 10 | copium inhalers |
+| **Group A** | Gravity Coil | The Clones | the | 原来你也玩malody |
+| **Group B** | Mahjong Soul Official | fuma fumos | Cat Yumy | 我的哈基米观崩溃了 |
+| **Group C** | cucumbers | the malaysians + 1 indo | WE LUV かめりあ | PLAY TOUHOU LUNA NIGHTS |
+| **Group D** | Girlfriend ASMR | Adrianlazer Fanboys | Lucky Star | Doki Doki Osu Club |
+| **Group E** | Retirados y Peligrosos | Ton 618 | Team CatTaiL | The Chen Enjoyers |
+| **Group F** | :bucket::1217god::scream: | EL NACHO | GOOOOOOOOOOAAAAAAAAAAAAL | Saataa Andagii!!! |
+| **Group G** | "OH MY DAYS (skylanders)" | spicy chicken sandwich | toilet driver | sprite cranberry |
+| **Group H** | Mr Beajek's winter ARC | shreimu (reimu shrimp) | 古明地三鲜与八云紫的狂想四重奏 | 企鹅 |
+| **Group I** | 有点弱，， | Help me, P3pp3RINNNNNN | TOHOK | fpt wifi users: |
+| **Group J** | spongebob water | Mystia's Izakaya Patrons | team saucisse | 古老的元神 |
+| **Group K** | Chodan | Eerie Idiots in Space | The Rewinders | filipinos kidnap indo et |
+| **Group L** | vivid/stasis | kingg! | Cino fan club | File Archivers |
+| **Group M** | E=mc² | Odysseus | steamhappy | 那咋了 |
+| **Group N** | cheewee10 | The Boys | AKatsuki | Blue-Haired Yuuka |
+| **Group O** | Benny Goodman | ball itchers | una familia de 10  | WE HATE FEMBOYS@!!!!! |
+| **Group P** | Girls Band Cry | Fish⁴ | rip king von | copium inhalers |
 
 <!--## Podium-->
 
@@ -218,7 +218,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (30 MB)](https://drive.google.com/file/d/1-G2a4Azp-V6DXjdfw1PlNtroJGPhHso6/)**
+**[Download the mappack here! (30 MB)](https://drive.google.com/file/d/1-G2a4Azp-V6DXjdfw1PlNtroJGPhHso6/)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2357615055)
 
 1. [Sasara Yuuna - Oreore Shuugetsu \~Wriggle de Pikokyon\~ (Cut Ver.) (AutotelicBrown)\[Stage 1: Fool Moon\]](https://osu.ppy.sh/beatmapsets/2310392#mania/4942637)
