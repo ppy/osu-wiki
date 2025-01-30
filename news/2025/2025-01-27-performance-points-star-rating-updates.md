@@ -170,7 +170,7 @@ As part of this change, fixed HR buffs in performance calculations were removed 
 
 A [change](https://github.com/ppy/osu/pull/31285) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to consider the ratios of patterns when awarding colour difficulty.
 
-The colour skill now applies a penalty is based on the number of consecutive *consistent* intervals, meaning stream-like patterns with a lack of rhythmic and colour difficulty are penalised appropriately. This also means that diverse beatmaps with less predictable colour changes receive an added bonus.
+The colour skill now applies a penalty based on the number of consecutive *consistent* intervals, meaning stream-like patterns with a lack of rhythmic and colour difficulty are penalised appropriately. This also means that diverse beatmaps with less predictable colour changes receive an added bonus.
 
 Some examples of beatmaps buffed by this change:
 
