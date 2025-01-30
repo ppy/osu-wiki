@@ -37,7 +37,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Penasihat bidang modding dan mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Pengembang situs web osu!, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), penasihat bidang mapping dan modding |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), penasihat bidang mapping dan modding |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Pembawa acara [kanal YouTube osu!](https://www.youtube.com/@osugame), pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild), pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Penasihat bidang modding dan mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [pemelihara wiki](/wiki/People/osu!_wiki_maintainers) |
