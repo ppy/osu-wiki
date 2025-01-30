@@ -57,7 +57,13 @@ Those who have been keeping up with the next round's pool know what's coming on 
 | **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=VE }:: Venezuela |
 | Norway ::{ flag=NO }:: | 2 | **5** | ::{ flag=CA }:: **Canada** |
 
-Week summary. How are seeds going. Mention how losers bracket is going.
+As our teams start getting eliminated for the first time in the group stage, things have mostly remained quite chill. While there have been a fair share of interesting matches — particularly from those teams with closely matched seedings — as we're still in the earlier rounds matches continued being fairly lopsided.
+
+Unsurprisingly, the topmost teams have been exceeding our expectations with their breathtaking performances all throughout the pool. On that note, the top 7 seeded teams remain uncontested, making it seem like the increase in the pool's difficulty is negligible!
+
+But results by themselves do not tell the whole story. All of our 32 teams have given it their all this weekend. Regardless of who remains a victor, at the end of the day their efforts have not gone to waste.
+
+Suffice to say, while upsets remain a rarity we still had a bunch of amazing matches to highlight. Tighten your seatbelts as we delve into this week's shenanigans!
 
 ### ::{ flag=GB }:: United Kingdom vs. ::{ flag=DK }:: Denmark
 
