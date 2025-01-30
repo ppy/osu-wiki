@@ -12,8 +12,6 @@ As 2025 rolls around, it's time to continue the annual tradition of going throug
 
 This is also the perfect time to look back at 2024 and remind ourselves of various events and changes that impacted the skinning community. For starters, last year we had 1 official contest, ["Unchained"](/wiki/Contests/Skinning_Contest/5) — with 28 total entries, 1839 community members cast their votes, making the total vote count 4637! Unchained also broke records, with **15** all-mode skins and **3** three-mode skins, the biggest counts so far!
 
-We also have to address the elephant in the room, and that is the missing 2nd 2024 contest. Even though in the [announcement news post](https://osu.ppy.sh/home/news/2024-04-09-skinning-contest-unchained) we announced that there will be 2 contests per year (excluding SOTY), due to some extraordinary circumstances in relation to how the skins are screened, along with difficulties figuring out the right balance when it comes to artwork usage permissions and acquiring official contest support, all future contests were put on pause until that's all been figured out. We are hoping that this year we can resume as planned and bring you more exciting contests!
-
 When it comes to technical changes to the game clients, osu!(lazer) received a bunch of changes that impacted skinning, so here's a full list, ordered by month:
 
 - In February, a small fix has been applied to some skin sprites that were not being converted to greyscale when required.
