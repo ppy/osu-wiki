@@ -21,6 +21,7 @@ Trong các hoàn cảnh hiếm gặp, các phiếu hỗ trợ bởi các ngườ
 Trong sự việc rằng người dùng khác đang làm phiền bạn thông qua tin nhắn riêng trên diễn đàn hoặc thông qua client trò chơi của chính mình, ở đây có một vài bước mà bạn có thể tự thực hiện để lọc bỏ tin nhắn của họ.
 
 #### Chặn lại người dùng giao tiếp bạn từ trong trò chơi. {id=ignore-user-in-game}
+
 **Để chặn người dùng đang gửi bạn các tin nhắn trong game, chỉ cần thêm họ đến danh sách phớt lờ của bạn.** 
 
 1. Nhấp vào nút menu `Tùy Chọn` trong trò chơi.  
@@ -31,7 +32,7 @@ Bạn sẽ không còn thấy tin nhắn trò chuyện công cộng từ bất k
 
 Nếu bạn muốn bỏ qua các thông báo nổi bật, tin nhắn riêng tư hoặc tin nhắn công cộng, bạn chỉ cần thêm lần lượt `@h`, `@p`, `@c` vào tên người dùng của họ. `The_Gatekeeper@c` sẽ bỏ qua tin nhắn của người dùng này trong các kênh công cộng. Bạn cũng có thể kết hợp các lựa chọn này: `The_Gatekeeper@ph` sẽ bỏ qua thông báo nổi bật và tin nhắn riêng tư, nhưng vẫn để các tin nhắn công cộng hiển thị.
 
-#### Chặn tất cả người không phải bạn bè gửi tin nhắn riêng trong game. {id=ignore-strangers-in-game}
+#### Chặn tất cả người không phải bạn bè gửi tin nhắn riêng trong trò chơi. {id=ignore-strangers-in-game}
 
 Nếu bạn muốn ngừng nhận tin nhắn riêng từ những người không có trong danh sách bạn bè, hãy làm theo các bước dưới đây. **Lưu ý: các quản trị viên không bị ảnh hưởng bởi tính năng này và luôn có thể gửi tin nhắn riêng cho bạn, nếu bạn cảm thấy một quản trị viên đang quấy rối bạn mặc dù đã có tính năng này, bạn nên liên hệ với [đội ngũ hỗ trợ của chúng tôi](mailto:support@ppy.sh).**
 
