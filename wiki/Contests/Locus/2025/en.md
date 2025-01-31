@@ -13,7 +13,7 @@ Submissions to this contest include the following elements:
 ## Links
 
 - [Registration form](https://form-auth.ppy.sh/form/2025-locus-registrations)
-- [Contest listing](https://osu.ppy.sh/community/contests/237)
+- [Contest listing](https://osu.ppy.sh/community/contests/238)
 - [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
 - [Nexus](https://mappersguild.com/locus)
 
