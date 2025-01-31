@@ -10,6 +10,8 @@ With the the tournament drawing near to its halfway point, our contestants' figh
 
 With a steady increase in pool's difficulty, our teams are starting to get accustomed to the pace of the tournament. Competition is steadily on the rise as our teams fight relentlessly for glory or to save themselves from the clutches of elimination. With no further ado, let's see what this week's Round of 16 has in store for us!
 
+Moreover, we got the chance to host an interview with [ChillierPear](https://osu.ppy.sh/users/9501251) in the hopes of offering us some insight on World Cup management as a whole, putting into perspective what a massive endeavour it is to host a series of tournaments of this scale. Stay tuned for the interview, or spoil yourself by scrolling all the way down!
+
 As per usual, [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) have joined forces once again to recap the events in video form for those who'd prefer to watch it along.
 
 <div align="center" class="osu-md__paragraph">
@@ -168,7 +170,7 @@ With a noticeable step up in difficulty in this round's mappool, players had to 
 
 ![](/wiki/shared/news/2025-01-30-osumania-7k-world-cup-2025-round-of-16-recap/ChillierPear.png)
 
-Interview intro.
+In the same way we used the Qualifiers recap to give you guys some a glimpse into the inner workings of the mappooling team and the different parties involved into bringing players the best experience possible, we now want to share with you a new perspective from the management team themselves thanks to [ChillierPear](https://osu.ppy.sh/users/7080063)'s first-hand account on the team's experience throughout World Cups' evolution!
 
 <div class="news-chat-quote__text-container">
 
@@ -182,11 +184,11 @@ What are the responsibilities of the World Cup managers? How does the team keep 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/9501251">ChillierPear</a></p>
 
-Running a World Cup is a massive undertaking—there’s so much happening behind the scenes that never makes it to the Twitch channel. Just like a movie, what you all see is only the final product, but behind it all, there are infinite moving parts working together to make everything run smoothly.
+Running a World Cup is a massive undertaking — there's so much happening behind the scenes that never makes it to the Twitch channel. Just like a movie, what you all see is only the final product, but behind it all, there are infinite moving parts working together to make everything run smoothly.
 
-As managers, we’re responsible for every aspect of the tournament, from planning the format to ensuring each weekend of matches goes off smoothly. Beyond that, we coordinate referees, commentators, mappoolers, designers, and the production team to create the best possible experience for both players and viewers. It’s a lot to juggle, but we’re fortunate to have an incredibly talented and dedicated team.
+As managers, we're responsible for every aspect of the tournament, from planning the format to ensuring each weekend of matches goes off smoothly. Beyond that, we coordinate referees, commentators, mappoolers, designers, and the production team to create the best possible experience for both players and viewers. It's a lot to juggle, but we're fortunate to have an incredibly talented and dedicated team.
 
-Everyone has a role to play, and over the years, we’ve developed clear processes and workflows to keep things organized. These established methods allow us to operate efficiently while maintaining our high standards. At the end of the day, our goal is simple: to deliver the most competitive, fair, and exciting World Cup possible—every single time. Every decision we make is guided by our love for the community and our desire to make each tournament better than the last.
+Everyone has a role to play, and over the years, we've developed clear processes and workflows to keep things organized. These established methods allow us to operate efficiently while maintaining our high standards. At the end of the day, our goal is simple: to deliver the most competitive, fair, and exciting World Cup possible — every single time. Every decision we make is guided by our love for the community and our desire to make each tournament better than the last.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
 
@@ -198,11 +200,11 @@ How has the team been able to keep up for as long as it has? Managing a tourname
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/9501251">ChillierPear</a></p>
 
-To be honest, it really hasn’t been easy! Running a tournament of this scale even once takes months of preparation—doing it five or more times a year is a whole different story. On top of that, the preparation for each World Cup often overlaps with at least one other, sometimes even two or three. That means things can get pretty intense, even with a large and experienced team behind it.
+To be honest, it really hasn't been easy! Running a tournament of this scale even once takes months of preparation — doing it five or more times a year is a whole different story. On top of that, the preparation for each World Cup often overlaps with at least one other, sometimes even two or three. That means things can get pretty intense, even with a large and experienced team behind it.
 
-That experience, though, is what has kept us going. Many of us have been involved in tournament hosting for years (decades for some), not just for World Cups but across the broader osu! tournament scene. Over time, we’ve all developed our own systems to manage the workload. Experience got us started, but knowing when to adapt has been the key to sustaining it.
+That experience, though, is what has kept us going. Many of us have been involved in tournament hosting for years (decades for some), not just for World Cups but across the broader osu! tournament scene. Over time, we've all developed our own systems to manage the workload. Experience got us started, but knowing when to adapt has been the key to sustaining it.
 
-What really keeps us going is our passion. Seeing the community come together for every iteration—cheering for underdogs, watching legendary rivalries play out, and celebrating incredible performances—makes every second of effort worth it. We also make a point to learn from every tournament. After most World Cups, we send out feedback forms and take a deep dive into what worked and what could be improved. Did the mappool achieve the right balance? Were there any format issues? How was the pacing of the tournament?
+What really keeps us going is our passion. Seeing the community come together for every iteration — cheering for underdogs, watching legendary rivalries play out, and celebrating incredible performances — makes every second of effort worth it. We also make a point to learn from every tournament. After most World Cups, we send out feedback forms and take a deep dive into what worked and what could be improved. Did the mappool achieve the right balance? Were there any format issues? How was the pacing of the tournament?
 
 All of these question help shape the next iteration, ensuring that every year is better than the last.
 
@@ -216,9 +218,9 @@ To wrap this up, how is the team able to improve with every passing year? How do
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/9501251">ChillierPear</a></p>
 
-While the World Cup format has been refined over the years, we never see it as something set in stone. There’s always room for improvement—whether it’s evolving our mappool philosophy, enhancing stream production with updated features and graphics, or making quality-of-life changes to improve the overall experience. Even small tweaks can have a big impact on how each iteration feels, we pay close attention to feedback from both players and the community to help guide those changes.
+While the World Cup format has been refined over the years, we never see it as something set in stone. There's always room for improvement — whether it's evolving our mappool philosophy, enhancing stream production with updated features and graphics, or making quality-of-life changes to improve the overall experience. Even small tweaks can have a big impact on how each iteration feels, we pay close attention to feedback from both players and the community to help guide those changes.
 
-At its core, the World Cup format is tried and true, but that doesn’t mean it has to be predictable. Competition is what drives the event, but so do the moments that catch people off guard—bold mappool choices, underdog teams making deep bracket runs, or the crowning of a new osu! champion. Our job is to ensure that every World Cup delivers those unforgettable moments while maintaining a fair and competitive environment.
+At its core, the World Cup format is tried and true, but that doesn't mean it has to be predictable. Competition is what drives the event, but so do the moments that catch people off guard — bold mappool choices, underdog teams making deep bracket runs, or the crowning of a new osu! champion. Our job is to ensure that every World Cup delivers those unforgettable moments while maintaining a fair and competitive environment.
 
 </div>
 
