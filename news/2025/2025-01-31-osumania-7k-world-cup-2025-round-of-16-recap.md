@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2025: Round of 16 Recap"
-date: 2025-01-31 12:00:00 +0000
+date: 2025-01-31 11:30:00 +0000
 ---
 
 With the tournament drawing near to its halfway point, our contestants' fighting spirits are on the rise!
