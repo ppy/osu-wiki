@@ -167,7 +167,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ## Groups
 
-|  | Top Seed | High Seed | Mid Seed | Low Seed |
+|  | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-: | :-: | :-: | :-: |
 | **Group A** | Gravity Coil | The Clones | the | 原来你也玩malody |
 | **Group B** | Mahjong Soul Official | fuma fumos | Cat Yumy | 我的哈基米观崩溃了 |
