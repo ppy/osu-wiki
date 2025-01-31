@@ -156,7 +156,7 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **Typhoon** | ::{ flag=CA }:: **[squiddy](https://osu.ppy.sh/users/30465583)**, ::{ flag=GB }:: [AJgamer07](https://osu.ppy.sh/users/25950685), ::{ flag=PA }:: [\[HD\]Softer64](https://osu.ppy.sh/users/8704966), ::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028) |
 | **Walnuts** | ::{ flag=GB }:: **[\[Crz\]Envy](https://osu.ppy.sh/users/11817815)**, ::{ flag=US }:: [Asharpp](https://osu.ppy.sh/users/12657177), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303), ::{ flag=US }:: [\[LS\]eeriee](https://osu.ppy.sh/users/19133938) |
 | **Weakest Captain** | ::{ flag=KR }:: **[GungunK](https://osu.ppy.sh/users/25311011)**, ::{ flag=KR }:: [PocaFanboy](https://osu.ppy.sh/users/6912079), ::{ flag=KR }:: [qtepote](https://osu.ppy.sh/users/18278945), ::{ flag=KR }:: [fhdmtmf](https://osu.ppy.sh/users/14454420) |
-| **What’s Meramipoppin** | ::{ flag=US }:: **[PeachMarrow](https://osu.ppy.sh/users/15926730)**, ::{ flag=SG }:: [Messica](https://osu.ppy.sh/users/19838168), ::{ flag=VN }:: [Qutilt](https://osu.ppy.sh/users/16214723), ::{ flag=SG }:: [Seiron](https://osu.ppy.sh/users/18666852) |
+| **What's Meramipoppin** | ::{ flag=US }:: **[PeachMarrow](https://osu.ppy.sh/users/15926730)**, ::{ flag=SG }:: [Messica](https://osu.ppy.sh/users/19838168), ::{ flag=VN }:: [Qutilt](https://osu.ppy.sh/users/16214723), ::{ flag=SG }:: [Seiron](https://osu.ppy.sh/users/18666852) |
 | **who cooked this team** | ::{ flag=RU }:: **[Kloofhi](https://osu.ppy.sh/users/29627572)**, ::{ flag=US }:: [- Sky -](https://osu.ppy.sh/users/15255368), ::{ flag=RU }:: [Waring0](https://osu.ppy.sh/users/24972284), ::{ flag=MY }:: [\[Mom\] Edmund](https://osu.ppy.sh/users/21015090) |
 | **whoever tf they are** | ::{ flag=FI }:: **[Albania Illya](https://osu.ppy.sh/users/10393606)**, ::{ flag=FI }:: [Fisu](https://osu.ppy.sh/users/35431390), ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118), ::{ flag=DE }:: [Cyaewin](https://osu.ppy.sh/users/10027302) |
 | **Winx Club** | ::{ flag=BR }:: **[LeMarcinho](https://osu.ppy.sh/users/13347579)**, ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971), ::{ flag=US }:: [\[GS\]linc](https://osu.ppy.sh/users/12093536), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
@@ -419,7 +419,7 @@ Saturday, May 20, 2023
 | **Catcat** | **4** | 0 | RuJackMains | [#1](https://osu.ppy.sh/community/matches/108579270) |
 | **Ariana Grande Fanboys** | **4** | 1 | whoever tf they are | [#1](https://osu.ppy.sh/community/matches/108580371) |
 | **"undecided"** | **4** | 0 | BurguerDeFresa | [#1](https://osu.ppy.sh/community/matches/108581070) |
-| What’s Meramipoppin | 1 | **4** | **shawarma beurre** | [#1](https://osu.ppy.sh/community/matches/108582891) |
+| What's Meramipoppin | 1 | **4** | **shawarma beurre** | [#1](https://osu.ppy.sh/community/matches/108582891) |
 | **Los pe bastidas E-Sports** | **4** | 1 | Noodle Team | [#1](https://osu.ppy.sh/community/matches/108583939) |
 | **rock lobsters** | **4** | 1 | los tilines | [#1](https://osu.ppy.sh/community/matches/108588505) |
 

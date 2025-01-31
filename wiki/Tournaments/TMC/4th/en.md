@@ -82,7 +82,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 | **Cat Yumy** | ::{ flag=MY }:: [RhythmBoii](https://osu.ppy.sh/users/18484917), ::{ flag=PH }:: [BronyaZaychik\_](https://osu.ppy.sh/users/19690810), ::{ flag=ID }:: [\_yea](https://osu.ppy.sh/users/20834055), ::{ flag=ID }:: [My Angel Chen](https://osu.ppy.sh/users/24285111) |
 | **Chodan** | ::{ flag=KR }:: [Naaaad](https://osu.ppy.sh/users/10344857), ::{ flag=KR }:: [ggeexx1](https://osu.ppy.sh/users/17494164), ::{ flag=KR }:: [Scitra](https://osu.ppy.sh/users/26140861), ::{ flag=KR }:: [PocaFanboy](https://osu.ppy.sh/users/6912079) |
 | **cheewee10** | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447), ::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028), ::{ flag=MY }:: [Fuuneral](https://osu.ppy.sh/users/31042682), ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
-| **Chen_Xi and Chen_Xi’s后宫团** | ::{ flag=CN }:: [nyamushi](https://osu.ppy.sh/users/17537004), ::{ flag=CN }:: [Chen\_Xi](https://osu.ppy.sh/users/24156840), ::{ flag=CN }:: [XLH](https://osu.ppy.sh/users/25519096), ::{ flag=JP }:: [--ATRI--](https://osu.ppy.sh/users/35810547) |
+| **Chen_Xi and Chen_Xi's后宫团** | ::{ flag=CN }:: [nyamushi](https://osu.ppy.sh/users/17537004), ::{ flag=CN }:: [Chen\_Xi](https://osu.ppy.sh/users/24156840), ::{ flag=CN }:: [XLH](https://osu.ppy.sh/users/25519096), ::{ flag=JP }:: [--ATRI--](https://osu.ppy.sh/users/35810547) |
 | **Chopped Chin Enthusiasts** | ::{ flag=PK }:: [nico-](https://osu.ppy.sh/users/15206217), ::{ flag=PK }:: [silencegfx](https://osu.ppy.sh/users/22058385), ::{ flag=PK }:: [Bpzyxl](https://osu.ppy.sh/users/23312307) |
 | **Cino fan club** | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261), ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829), ::{ flag=DE }:: [Lotex09](https://osu.ppy.sh/users/14114899), ::{ flag=DE }:: [datnonameboi](https://osu.ppy.sh/users/14217761) |
 | **copium inhalers** | ::{ flag=VN }:: [anhnhatbui](https://osu.ppy.sh/users/16346970), ::{ flag=PH }:: [Regretion](https://osu.ppy.sh/users/20327239), ::{ flag=VN }:: [LagNeon](https://osu.ppy.sh/users/26514272), ::{ flag=EG }:: [worstHDplayerr](https://osu.ppy.sh/users/30948823) |
@@ -303,7 +303,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #64 | copium inhalers | 457.9 |
 | #65 | γ HEBO3MOӜHO | 474.04 |
 | #66 | The Cunny Hoshicons | 476.52 |
-| #67 | Chen_Xi and Chen_Xi’s后宫团 | 481.09 |
+| #67 | Chen_Xi and Chen_Xi's后宫团 | 481.09 |
 | #68 | VultureSEA | 481.2 |
 | #69 | sosunchiki | 485.05 |
 | #70 | Chopped Chin Enthusiasts | 489.23 |
