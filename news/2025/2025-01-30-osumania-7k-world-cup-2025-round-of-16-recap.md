@@ -118,7 +118,15 @@ Finland's performance should not be overlooked however. Even though they were el
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights.
+A much anticipated match this was! Peru (#8) and Malaysia (#9) was the closest match of the weekend. These seed siblings were still fighting in their comfy little winners bracket. Fighting to maintain their extra life, this was a match full of impressive scores, unfortunate events, and very close leads!
+
+Things started out strong with Peru's first being their protect, [ginkiha - Fading Star (banshi Remix)](https://osu.ppy.sh/beatmapsets/2310662#mania/4943189) (RC3). Both teams traded blows and combos, and despite ::{ flag=MY }:: [YeonHong187](https://osu.ppy.sh/users/10236326)'s impressive 994,123–point score, Peru was able to hold on for just a tad longer with ::{ flag=MY }:: [\[HD\]Suisei](https://osu.ppy.sh/users/25024313)'s impressive full combo to carry their team through. And as small of a lead 2,727 points was, it was enough to get the Peruvians rolling!
+
+Malaysia opted to pick the first LN pick of the match with [nekomirin - NO NIGHT MORE SOUL!](https://osu.ppy.sh/beatmapsets/2310669#mania/4943198) (LN2). It is worth highlighting Malaysia's very strong LN skills with ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) being one of the strongest LN players in the tournament. Suffice to say, their performance alongside their teammate was enough to win the point! Props to ::{ flag=PE }:: [-luvv](https://osu.ppy.sh/users/23731514) with their amazing 993,730 full combo score, which wasn't able to best Malaysia's double full combo.
+
+But Malaysia's consistency on the previous point was no fluke whatsoever. Their concentration was off the charts, racking up a mind boggling 10 full combos throughout the match, as opposed to Peru's 3. And while the team had an unfortunate incident in [A.SAKA - KAGUTSUCHI](https://osu.ppy.sh/beatmapsets/2310842#mania/4943560) (LN3) with one of Malaysia's players disconnecting midway through the map, they persevered through the match winning the next point in [Toromaru - Curiosity](https://osu.ppy.sh/beatmapsets/2310774#mania/4943406) (RC5) and finally getting into the match point with a 3–4 lead over their rivals.
+
+Whilst Peru's protect was used on their first pick, Malaysia opted to save their for the very end. And of course that couldn't be any other map than [Phoenix Legend - She Xiang Fu Ren (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310775#mania/4943407) (LN1). While Peru's scores were nothing short of impressive, ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) earth-shattering **980,027 full combo** stands atop one of the top 5 scores for that map, granting Malaysia the win they desperatedly fought for!
 
 ## Score highlights
 
