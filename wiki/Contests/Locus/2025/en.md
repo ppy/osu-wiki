@@ -50,7 +50,7 @@ Submissions to this contest include the following elements:
   - Spread
     - The `.osz` should aim to contain a spread of difficulties that satisfies the current ranking criteria for the osu! gamemode. Other game modes are not supported.
   - Visual elements
-    - Any images, storyboards, or videos produced must be integrated into the `.osz`. on submission.
+    - Any images, storyboards, or videos produced must be integrated into the `.osz` on submission.
     - Designers must own all the usage rights for these as well.
   - The entry must abide by the [song content rules](/wiki/Rules/Song_content_rules) and [visual content considerations](/wiki/Rules/Visual_content_considerations).
   - Teams may be asked to email examples of WIPs/assets used throughout to demonstrate ownership of said content. Full spread and graphical design elements are not mandatory requirements. However, the entry will be heavily penalised by the voting process (see [below](#voting-system)).
