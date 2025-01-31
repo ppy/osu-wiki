@@ -23,14 +23,15 @@ As always, a third party should be able to get the same results without needing 
 
 In the explanations below, we use the following terms:
 
-
 - A **team** is a single entity being ranked in the tournament. For example, the 6-8 players from each country in [OWC](/wiki/Tournaments/OWC) are considered one team, while each player in the [Lazer Grand Arena](/wiki/Tournaments/LGA/2024) is considered their own team.
 - A **score** is a numerical value used for determining a team’s performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members’ scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a qualifier mappool; in those cases, the team’s score is often either the highest or the average of those runs.
-- A team’s **seed** is a number indicating their overall ranking among all teams. Typically, after one of the seeding methods below is used, the top N teams (that is, the teams seeded 1, 2, …, N) are placed into an elimination bracket or other competition format, with their placements being determined by their seeds.
+- A team’s **seed** is a number indicating their overall ranking among all teams. Typically, after one of the seeding methods below is used, the top N teams (that is, the teams seeded 1, 2, …, N) are placed into an elimination bracket or other competition format, with their locations being determined by their seeds.
 
 ## Seeding methods
 
 <!-- NOTE FOR WIKI EDITORS: Please do not add or remove seeding methods without prior approval of the Tournament Committee -->
+
+Each subsection below explains, both in words and in a mathematical formula, a different seeding method commonly found in osu! tournaments. In all formulas, `m` refers to the number of maps in the qualifier mappool.
 
 ### Average (Normalised) Score
 
@@ -38,7 +39,11 @@ This seeding method averages each team’s scores on all maps. Typically, scores
 
 #### Technical
 
-The normalised score on a map is given by `Normalised score = Score / PRODUCT(Mod multipliers)`. If any of the maps are played with Free Mod, it must be explicitly specified whether each individual player’s score is being normalised by the mods they used before summing, or if there is an overall normalisation. Seeding is then determined by `Total score = AVERAGE(Normalised score)`.
+The average normalised score for a team is given by
+
+![Average Score formula](img/avgscore.png)[^mappool-size]
+
+If any of the maps are played with Free Mod, it must be explicitly specified whether each individual player’s score is being normalised by the mods they used before summing, or if there is an overall normalisation.
 
 ### Sum of Placements / Average Placement
 
@@ -46,7 +51,11 @@ This seeding method ranks all scores on each map played from highest to lowest, 
 
 #### Technical
 
-The placement that a team receives on a map is `Map placement = 1 + Number of higher scores on the map from other teams`, and the total sum of placements is `SUM(Map placement)`. (The average placement would instead be `AVERAGE(Map placement)`, but this yields the same overall seeding.) Note that if two teams both receive the highest score on a map, their map placements are both 1 (rather than both being 2).
+The sum of placements for a team is given by
+
+![Average Placement formula](img/golf.png)[^mappool-size]
+
+(Seeding by Average Placement would instead average the map placements, but that yields the same overall seeding.) Note that if two teams both receive the highest score on a map, their map placements are both 1 (rather than both being 2); more explicitly, a team’s `Map placement` on a map is one plus the number of teams who score higher than them.
 
 ### Percent Maximum
 
@@ -54,7 +63,9 @@ This seeding method assigns each team some number of points between 0 and 1 on e
 
 #### Technical
 
-The number of points a team receives on a map is given by `Map points = Score / MAX(Scores on map)`, and the final total is `Total points = SUM(Map points)`.
+The percent maximum sum for a team is given by
+
+![Percent Maximum formula](img/percentmax.png)[^mappool-size]
 
 ### Percent Difference
 
@@ -62,7 +73,9 @@ This seeding method is almost identical to Percent Maximum, except that it assig
 
 #### Technical
 
-The number of points a team receives on a map is given by `Map points = (Score - MIN(Scores on map)) / (MAX(Scores on map) - MIN(Scores on map))`, and the total score is `Total score = SUM(Map points)`.
+The percent difference sum for a team is given by
+
+![Percent Difference formula](img/percentdiff.png)[^mappool-size]
 
 ### Z-Sum
 
@@ -72,7 +85,11 @@ Note that tournaments in the past have often used the term “Z-Sum” for what 
 
 #### Technical
 
-A team’s z-score is given by `Map z-score = (Score - AVERAGE(Scores on map)) / (STDEV(Scores on map))`, where `STDEV` is the sample standard deviation. (This means the sum of squared deviations is divided by `N-1` instead of `N` if there are `N` total scores on the map.) The total score is then `Total score = SUM(Map z-score)`.
+The z-sum for a team is given by
+
+![Z-Sum formula](img/zsum.png)[^mappool-size]
+
+where typically the sample standard deviation is used (rather than the population standard deviation).
 
 ### Z-Percentile
 
@@ -80,7 +97,11 @@ This seeding method is almost identical to Z-Sum, except that instead of assigni
 
 #### Technical
 
-A team’s z-percentile is given by `Map z-percentile = NORMCDF(Map z-score)`, where Map z-score is as above and `NORMCDF` is the cumulative distribution function for the standard normal distribution (also sometimes called `NORMSDIST` in software). The total score is then `Total score = SUM(Map z-percentile)`.
+The z-percentile sum for a team is given by
+
+![Z-Percentile formula](img/zpercentile.png)[^mappool-size]
+
+where `NORMCDF` is the cumulative distribution function for the standard normal distribution (also sometimes called `NORMSDIST` in software).
 
 ### Zipf’s Law
 
@@ -88,9 +109,11 @@ Much like Sum of Placements, this seeding method ranks all scores on each map pl
 
 #### Technical
 
-The usual formula used for assigning points is `Map points = 100 / (Map placement + 1.4 * Mappool size)`, where `Map placement` is as above and `Mappool size` is the number of maps in the qualifiers pool. Seeding is then determined by `Total points = SUM(Map points)`.
+The usual formula used for assigning points is
 
-Note that this seeding method may still make sense if `1.4 * Mappool size` is replaced by some other nonnegative real number, or if the numerator is replaced by another positive real number, or if the denominator is raised to some positive real number. But these changes must be specified explicitly if used.
+![Zipf's Law formula](img/zipf.png)[^mappool-size]
+
+Note that this seeding method may still make sense if `1.4 * m` is replaced by some other nonnegative real number, or if the numerator is replaced by another positive real number, or if the denominator is raised to some positive real number. But these changes must be specified explicitly if used.
 
 ## Additional considerations
 
@@ -106,9 +129,14 @@ Unless otherwise specified, it is important to **avoid intermediate rounding** (
 
 ### Weighting maps
 
-Many of the methods above assign each team a number on each map and then add or average those numbers together to determine final seeding. It may also make sense to perform a weighted average of the numbers so that some maps contribute more than others to final standings. (For example, osu!mania tournaments may assign niche skill sets or physically demanding maps a lower weight than fundamental skill sets or accuracy-based challenges.)
+Many of the methods above assign each team a number of points on each map and then add or average those points together to determine final seeding. It may also make sense to perform a weighted average so that some maps contribute more than others to final standings. (For example, osu!mania tournaments may assign niche skill sets or physically demanding maps a lower weight than fundamental skill sets or accuracy-based challenges.)
 
-More precisely, a positive number for each map (called the map weight) should be specified. The final number used for seeding is then `SUM(Map number * Map weight)`, where `Map number` is the number that the seeding method assigns to each map (e.g. `Map placement` for Average Placement or `Map z-percentile` for Z-Percentile). Notice that having all map weights be equal to `1` or `1/(Number of maps)` would just be equivalent to summing or averaging the map numbers together.
+More precisely, a positive number for each map (called the `Map weight`) should be specified. The final number used for seeding is then
+
+![Weighting formula](img/weight.png)[^mappool-size]
+
+where `Map points` is the quantity that the seeding method assigns to each map (e.g. `Map placement` for Average Placement). Note that having all map weights be equal to `1` or `1/(Number of maps)` would just be equivalent to summing or averaging the map points together.
+
 
 ## Advantages/Disadvantages | Pros/Cons
 
@@ -161,7 +189,6 @@ Next, here are some more general points of comparison and features of seeding me
   - In particular, weighted seeding methods are designed to allow some maps to factor more into overall seeding than others – this allows for balancing of importance across different skill sets without needing to include extra maps of the same type in a pool. 
   - For a less direct example, seeding by Average Score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by Percent Maximum or Percent Difference will give that one team a large boost while less distinguishing the other teams on the map. 
 
+## Notes
 
-## Sample data from osu! World Cup 2024
-
-Not yet implemented.
+[^mappool-size]: The letter `m` refers to the number of maps in the qualifier mappool.
