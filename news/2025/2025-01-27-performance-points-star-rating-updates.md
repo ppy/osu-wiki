@@ -154,7 +154,7 @@ Repeating patterns, such as triples or 4 note patterns, receive a lower bonus in
 
 ### Reading skill
 
-A [set](https://github.com/ppy/osu/pull/31208) [of](https://github.com/ppy/osu/pull/31510) [changes](https://github.com/ppy/osu/pull/31512) proposed by [ltca](https://osu.ppy.sh/users/11475208) (with contributions from [rloseise](https://osu.ppy.sh/users/6793778)) has been created in order to add a new measure of difficulty assessment - reading. This new skill aims to award added bonuses depending on the difficulty of reading patterns.
+A [set](https://github.com/ppy/osu/pull/31208) [of](https://github.com/ppy/osu/pull/31510) [changes](https://github.com/ppy/osu/pull/31512) proposed by [ltca](https://osu.ppy.sh/users/11475208) (with contributions from [rloseise](https://osu.ppy.sh/users/6793778)) have been created in order to add a new measure of difficulty assessment — reading. This new skill aims to award additional bonuses depending on the difficulty of reading patterns.
 
 The reading skill assesses the **effective BPM** (calculated as the base BPM of the beatmap multiplied by the per-object slider velocity multiplier) of each object. Drum rolls and swells are not required to be hit, so these object types are exempt from any reading bonuses.
 
