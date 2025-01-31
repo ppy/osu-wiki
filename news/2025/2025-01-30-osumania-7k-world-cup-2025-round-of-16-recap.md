@@ -15,7 +15,7 @@ Moreover, we got the chance to host an interview with [ChillierPear](https://osu
 As per usual, [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) have joined forces once again to recap the events in video form for those who'd prefer to watch it along.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OsZ0Taiqbr0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
@@ -73,7 +73,7 @@ Suffice to say, while upsets remain a rarity we still had a bunch of amazing mat
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2363319347)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OsZ0Taiqbr0?start=211&end=326" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The match between the United Kingdom (#27) and Denmark (#22) was packful of surprises. Defined by its consistent backs and forths and by the fact each team seemed to be picking the best maps for their rivals. A match that was so unpredictable that we had no option but to highlight it!
@@ -94,7 +94,7 @@ A round of applause for all players involved! A more ground to earth match that 
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2363319348)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OsZ0Taiqbr0?start=326&end=436" frameborder="0" allowfullscreen></iframe>
 </div>
 
 If we were to ask ourselves what could've been one of the most exciting matches of the weekend, a lot of us would've most probably agreed that the Netherlands (#26) versus Finland (#22) would be a commonly agreed upon answer. Clutching from the claws of elimination in the losers bracket, both teams have it their all in an effort to stay afloat. Get ready for a match driven to victory by a team's stern determination despite all odds!
@@ -117,7 +117,7 @@ Finland's performance should not be overlooked however. Even though they were el
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2363305061)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OsZ0Taiqbr0?start=436&end=551" frameborder="0" allowfullscreen></iframe>
 </div>
 
 A much anticipated match this was! Peru (#8) and Malaysia (#9) was the closest match of the weekend. These seed siblings were still fighting in their comfy little winners bracket. Fighting to maintain their extra life, this was a match full of impressive scores, unfortunate events, and very close leads!
