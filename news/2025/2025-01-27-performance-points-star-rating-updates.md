@@ -193,7 +193,7 @@ A [change](https://github.com/ppy/osu/pull/31337) proposed by [ltca](https://osu
 
 ### Convert changes
 
-A [set](https://github.com/ppy/osu/pull/31196) of [changes](https://github.com/ppy/osu/pull/31546) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to improve star rating for convert beatmaps. Star rating no longer receives a blanket nerf for converts, and instead addresses converts in various areas:
+Star rating for convert beatmaps have been improved, thanks to a [set](https://github.com/ppy/osu/pull/31196) of [changes](https://github.com/ppy/osu/pull/31546) proposed by [ltca](https://osu.ppy.sh/users/11475208). There is no longer any blanket star rating nerf for converts, because they're instead now more properly addressed in various areas:
 
 - The accuracy curve for monos is harsher on lower accuracies
 - Difficult converts usually increase the amount of available fingers due to techniques such as "TL tapping", stamina difficulty is decreased proportionally to match this added availability
