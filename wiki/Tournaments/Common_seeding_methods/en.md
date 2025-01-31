@@ -164,20 +164,19 @@ First, here is a list of qualifier seeding methods used in the official osu! Wor
 
 It is particularly common for tournaments to seed by **Sum of Placements, Percent Maximum, or Z-Percentile** when assessing overall consistent performance, or to use **Zipf’s Law** when promoting specialists (such as in some 1v1 tournaments). Below is a table showing some sample scores that 10 teams could receive on a map, along with the points that they would be assigned for the map under three common methods (rounded to the nearest hundredth):
 
-|  | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 | Team 7 | Team 8 | Team 9 | Team 10 | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| **Score** | 950000 | 800000 | 750000 | 750000 | 700000 | 600000 | 500000 | 450000 | 300000 | 100000 |
-| **Placement** | 1 | 2 | 3 | 3 | 5 | 6 | 7 | 8 | 9 | 10 |
-| **Percent Maximum** | 1.00 | 0.84 | 0.79 | 0.79 | 0.74 | 0.63 | 0.53 | 0.47 | 0.32 | 0.11 |
-| **Z-Percentile** | 0.92 | 0.79 | 0.73 | 0.73 | 0.67 | 0.52 | 0.36 | 0.29 | 0.13 | 0.03 |
+| **Team** | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Score** | 950,000 | 800,000 | 750,000 | 750,000 | 650,000 | 500,000 | 400,000 | 250,000 |
+| **Placement** | 1 | 2 | 3 | 3 | 5 | 6 | 7 | 8
+| **Percent Maximum** | 1.00 | 0.84 | 0.79 | 0.79 | 0.68 | 0.53 | 0.42 | 0.26 |
+| **Z-Percentile** | 0.92 | 0.77 | 0.70 | 0.70 | 0.53 | 0.29 | 0.16 | 0.05 |
 
 To contrast these methods, notice the following:
 
-
-- Score differences do not directly factor into Placement unless there is an exact tie, but they do significantly impact points under Percent Maximum and Z-Percentile.
-- The same score difference of 150000 between Teams 1 and 2 and between Teams 6 and 8 counts equally in Percent Maximum but matters much more in Z-Percentile in the latter case (where the scores are close to the mean). 
-- When scores are more clustered near the mean and more spread out for outliers (as in this data set) – more precisely, when the distribution of scores follows a bell curve – Z-Percentile spaces out the points relatively evenly similarly to Placement, other than the fact that very close scores will receive similar seedings (see Teams 2 through 5 above). But if scores were more uniformly distributed, Z-Percentile would instead space out points more similarly to Percent Maximum.
-- If the highest score of 950000 were instead much higher (e.g. 1200000), scoring under Placement would remain the same, scoring under Percent Maximum would heavily deflate all other teams, and scoring under Z-Percentile would be altered slightly (most notably in shifting the average and thus the range of scores in which improvements are most important).
+- Score differences do not directly factor into Placement except for exact ties, but they do significantly impact points under Percent Maximum and Z-Percentile.
+- Teams 1 and 2, teams 5 and 6, and teams 7 and 8 each had a score difference of 150,000 points. This difference counts equally in all cases for Percent Maximum (about 0.16 points) but makes a bigger difference for teams 5 and 6 in Z-Percentile (about 0.25 points compared to 0.15 or 0.11 for the other pairs) because their scores are closer to the mean.
+- When scores are more clustered near the mean and more spread out for outliers – more precisely, when the distribution of scores is close to a bell curve – Z-Percentile will favor teams similarly to Placement, other than the fact that very close scores will receive similar points (for example Teams 2 through 4 above). But if scores are more uniformly distributed, Z-Percentile instead favors teams more similarly to Percent Maximum.
+- If the highest score of 950,000 were instead much higher (like 1,200,000), seeding under Placement would remain the same, seeding under Percent Maximum would heavily deflate all other teams, and seeding under Z-Percentile would be altered slightly (most notably in shifting the average and thus the range of scores in which improvements are most important).
 
 Next, here are some more general points of comparison and features of seeding methods in general:
 
