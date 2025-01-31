@@ -74,7 +74,17 @@ Suffice to say, while upsets remain a rarity we still had a bunch of amazing mat
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights.
+The match between the United Kingdom (#27) and Denmark (#22) was packful of surprises. Defined by its consistent backs and forths and by the fact each team seemed to be picking the best maps for their rivals. A match that was so unpredictable that we had no option but to highlight it!
+
+The first pick showed how unforgiving [Phoenix Legend - She Xiang Fu Ren (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310775#mania/4943407) (LN1) can be for the teams that are not well versed in its style. Inverses are notoriously difficult to execute without having a very good finger coordination skill. And while unfortunately none of the scores were particularly impressive, the United Kingdom's quite big lead was convenient for a pick as divisive as this one.
+
+The United Kingdom tried to take advantage of this early win by picking [Rabbit House - das Leben nach dem Tode](https://osu.ppy.sh/beatmapsets/2310847#mania/4943570) (RC2). As alluded to before however, this match was full of upsets. More often than not, the picks that were chosen ended up being won by the opposing team. All maps except for [katagiri - c0pyf0x](https://osu.ppy.sh/beatmapsets/2310817#mania/4943513) (HB2) and [7_7 - Shine](https://osu.ppy.sh/beatmapsets/2310827#mania/4943535) (RC1) were won this way. This back and forth continued up until the United Kingdom got the match point with their 4–3 lead.
+
+There were a lot of close calls before we got to this point. From a measley 942–point lead in [A.SAKA - KAGUTSUCHI](https://osu.ppy.sh/beatmapsets/2310842#mania/4943560) (LN3) in favour of the United Kingdom, to Denmark's last wind by winning [Toromaru - Curiosity](https://osu.ppy.sh/beatmapsets/2310774#mania/4943406) (RC5) on their last chance to force a tiebreaker. And thanks to ::{ flag=DK }:: [Fritte](https://osu.ppy.sh/users/5001658) with their impressive 974,977 full combo, Denmark's fight for survival was given a second wind!
+
+As expected of a tiebreaker, this was no easy beatmap to tackle. A true full flavour test and a gauntlet of endurance. While the United Kingdom performed as well as they could with ::{ flag=GB }:: [Usie](https://osu.ppy.sh/users/16162078) getting the best score of the lobby, Denmark's team efforts and consistent performance from ::{ flag=DK }:: [Fritte](https://osu.ppy.sh/users/5001658) and ::{ flag=DK }:: [Stoom](https://osu.ppy.sh/users/13572493) sealed the deal for the United Kingdom.
+
+A round of applause for all players involved! A more ground to earth match that really shows how challenging even earlier pools can be. It is easy to assume the pool is easy by seeing how effortlessly top teams are able to perform. But sometimes, we need matches like these which show us the herculean effort required to win a tournament as competitive as this.
 
 ### ::{ flag=NL }:: Netherlands vs. ::{ flag=FI }:: Finland
 
