@@ -118,7 +118,7 @@ The top entries of the contest will earn equal prizes. The number of "top entrie
 - Team members will receive a unique profile badge themed around their entry.
 - Team members will be awarded a *Locus* user title befitting of their role.
 
-For any complete entry that was submitted by the entry submission deadline, team members will be awarded a profile badge if they are able to rank the set before the next iteration of the contest (they will be prioritised on Mappers' Guild quests).
+For any complete entry that was submitted by the entry submission deadline, **team members will be awarded a profile badge if they are able to rank the set before the next iteration of the contest**.
 
 Finally, there is a wildcard prize. peppy will pick his favourite entry and that team will earn a separate mystery prize.
 
