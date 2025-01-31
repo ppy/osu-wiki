@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2025: Round of 16 Recap"
-date: 2025-01-30 20:00:00 +0000
+date: 2025-01-31 12:00:00 +0000
 ---
 
 With the the tournament drawing near to its halfway point, our contestants' fighting spirits are on the rise!
@@ -26,7 +26,7 @@ As per usual, [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](ht
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2358013328&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Round of 16 mappool table](/wiki/shared/news/2025-01-30-osumania-7k-world-cup-2025-round-of-16-recap/mappool.jpg)
+![Round of 16 mappool table](/wiki/shared/news/2025-01-31-osumania-7k-world-cup-2025-round-of-16-recap/mappool.jpg)
 
 As it is to be expected, the mappool has had a substantial bump in difficulty. It's probably not going to be apparent by the amazing scores set by the players as you'll soon see! But this is easier said than done, especially on the very first elimination round. Teams cannot afford to grow complacent, and the pools to come won't make that an easy goal to achieve.
 
@@ -168,7 +168,7 @@ With a noticeable step up in difficulty in this round's mappool, players had to 
     }
 </style>
 
-![](/wiki/shared/news/2025-01-30-osumania-7k-world-cup-2025-round-of-16-recap/ChillierPear.png)
+![](/wiki/shared/news/2025-01-31-osumania-7k-world-cup-2025-round-of-16-recap/ChillierPear.png)
 
 In the same way we used the Qualifiers recap to give you guys some a glimpse into the inner workings of the mappooling team and the different parties involved into bringing players the best experience possible, we now want to share with you a new perspective from the management team themselves thanks to [ChillierPear](https://osu.ppy.sh/users/7080063)'s first-hand account on the team's experience throughout World Cups' evolution!
 
