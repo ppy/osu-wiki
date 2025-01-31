@@ -100,7 +100,7 @@ As a result of this change, the old penalty applied in speed PP for 50s has now 
 
 ### Minor changes
 
-- A [set](https://github.com/ppy/osu/pull/31456) of [rebalances](https://github.com/ppy/osu/pull/31515) proposed by [StanR](https://osu.ppy.sh/users/7217455) and [tsunyoku](https://osu.ppy.sh/users/11315329) in order to line up final values with community expectations
+- A [set](https://github.com/ppy/osu/pull/31456) of [rebalances](https://github.com/ppy/osu/pull/31515) proposed by [StanR](https://osu.ppy.sh/users/7217455) and [tsunyoku](https://osu.ppy.sh/users/11315329) in order to align final values with community expectations
 - A [fix](https://github.com/ppy/osu/pull/31525) proposed by [molneya](https://osu.ppy.sh/users/8945180) to ensure that the time between spinners are correctly accounted for in Flashlight calculations
 - A [fix](https://github.com/ppy/osu/pull/31447) proposed by [StanR](https://osu.ppy.sh/users/7217455) to ensure ODs below 0 cannot increase PP
 - A [fix](https://github.com/ppy/osu/pull/30544) proposed by [Finadoggie](https://osu.ppy.sh/users/14182048) to ensure estimated slider drops cannot go below zero
@@ -201,7 +201,7 @@ A [set](https://github.com/ppy/osu/pull/31196) of [changes](https://github.com/p
 
 ### Minor changes
 
-- A [set](https://github.com/ppy/osu/pull/31338) of [rebalances](https://github.com/ppy/osu/pull/31556) proposed by [ltca](https://osu.ppy.sh/users/11475208) in order to line-up final values with community expectations
+- A [set](https://github.com/ppy/osu/pull/31338) of [rebalances](https://github.com/ppy/osu/pull/31556) proposed by [ltca](https://osu.ppy.sh/users/11475208) in order to align final values with community expectations
 - A [change](https://github.com/ppy/osu/pull/31195) proposed by [ltca](https://osu.ppy.sh/users/11475208) to weight accuracy better on lower ODs
 - A [change](https://github.com/ppy/osu/pull/31499) proposed by [Natelytle](https://osu.ppy.sh/users/17607667) to remove the lower cap on accuracy calculations, providing a larger nerf to lower accuracies
 - A [change](https://github.com/ppy/osu/pull/30591) proposed by [ltca](https://osu.ppy.sh/users/11475208) to implement basic difficulty calculations for the Relax mod
