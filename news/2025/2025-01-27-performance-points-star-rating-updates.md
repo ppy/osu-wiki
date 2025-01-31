@@ -119,8 +119,8 @@ In order to aid understanding of the changes to osu!taiko, these are the skills 
 
 Throughout these changes, we will be using the following terminology:
 
-- **monos** refer to repeated notes of the same colour
-- **intervals** refer to the snap interval of notes (such as 1/1, 1/4 and 1/8)
+- **Monos** refer to repeated notes of the same colour
+- **Intervals** refer to the snap interval of notes (such as 1/1, 1/4 and 1/8)
 
 ### osu!taiko committee
 
