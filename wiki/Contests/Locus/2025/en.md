@@ -64,6 +64,12 @@ Teams must be registered in order to submit an entry. Teams are allowed to choos
 
 [Register through this form.](https://form-auth.ppy.sh/form/2025-locus-registrations)
 
+### Submission
+
+The details of how to submit entries will be announced later.
+
+Teams should follow the `#osu-locus` channel in the [osu! Discord server](https://discord.com/invite/ppy) for updates.
+
 ### Nexus
 
 We cannot expect every composer and graphic designer who is interested in participating to be familiar with navigating the osu! community, so the [Nexus](https://mappersguild.com/locus) was created as a support system to help those who are looking to form or join viable teams.
