@@ -196,7 +196,7 @@ A [change](https://github.com/ppy/osu/pull/31337) proposed by [ltca](https://osu
 Star rating for convert beatmaps have been improved, thanks to a [set](https://github.com/ppy/osu/pull/31196) of [changes](https://github.com/ppy/osu/pull/31546) proposed by [ltca](https://osu.ppy.sh/users/11475208). There is no longer any blanket star rating nerf for converts, because they're instead now more properly addressed in various areas:
 
 - The accuracy curve for monos is harsher on lower accuracies
-- Difficult converts usually increase the amount of available fingers due to techniques such as "TL tapping", stamina difficulty is decreased proportionally to match this added availability
+- Difficult converts usually increase the amount of available fingers due to techniques such as "TL tapping", thus stamina difficulty is decreased proportionally to match this added availability
 - The previously mentioned stamina buff to monos is disabled for converts to address mapping techniques not present in osu!taiko beatmapsets
 
 ### Minor changes
