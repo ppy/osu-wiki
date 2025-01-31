@@ -62,7 +62,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2015815)
 - [THMC 4 Discord server](https://discord.gg/cAr5VHG7WX)
 - [Livestream](https://www.twitch.tv/touhoumaniacup_official)
-- [Challonge bracket](https://challonge.com/)
+- [Challonge bracket](https://challonge.com/THMC4)
 - [Liquipedia](https://liquipedia.net/osu/Touhou_Project_Mania_Cup/4)
 
 ## Participants
