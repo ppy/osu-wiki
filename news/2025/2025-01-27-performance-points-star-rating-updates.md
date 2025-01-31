@@ -58,7 +58,7 @@ This bonus should now be more fair towards difficult patterns, while some overwe
 
 There was also a change to uncap velocity constraints that used to exist on the bonus allowing for some very hard *acute*-angled jumps in high BPM beatmaps to receive a greater buff.
 
-As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM - beatmaps with difficult wiggle-like patterns below 300BPM may receive a (slight) new buff:
+As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM — beatmaps with difficult wiggle-like patterns below 300 BPM may receive a (slight) new buff:
 
 ![](/wiki/shared/news/2025-01-27-performance-points-star-rating-updates/wiggle-graph.png)
 
@@ -134,9 +134,9 @@ Since the last performance point post, there are some new faces in the osu!taiko
 
 A [set](https://github.com/ppy/osu/pull/31284) [of](https://github.com/ppy/osu/pull/31339) [changes](https://github.com/ppy/osu/pull/31573) proposed by [ltca](https://osu.ppy.sh/users/11475208) (with contributions from [rloseise](https://osu.ppy.sh/users/6793778) and [YaniFR](https://osu.ppy.sh/users/11260982)) has been created in order to rewrite the rhythm skill to address shortcomings of the previous implementation.
 
-The new rhythm skill works by creating ratios to assess difficulty. These ratios are dictated by the time between note changes - simple rhythms such as 1/2 will receive less of a bonus than more complicated rhythms such as 1/6 and 1/8, especially when frequently placed. In order to ensure this does not overly award small sections of difficulty, the frequency of these ratios are assessed to decide how difficult the ratio changes are.
+The new rhythm skill works by creating ratios to assess difficulty. These ratios are dictated by the time between note changes — simple rhythms such as 1/2 will receive less of a bonus than more complicated rhythms such as 1/6 and 1/8, especially when frequently placed. In order to ensure this does not overly award small sections of difficulty, the frequency of these ratios are assessed to decide how difficult the ratio changes are.
 
-To handle patterns where the time between notes doesn’t change much, we group evenly spaced notes into a pattern. These are often the "streams" you see in fast beatmaps. If the timing between notes is consistent, those notes go into the same group. 
+To handle patterns where the time between notes doesn't change much, we group evenly spaced notes into a pattern. These are often the "streams" you see in fast beatmaps. If the timing between notes is consistent, those notes go into the same group. 
 
 When the timing changes, the system shifts notes into the group with the shorter interval:
 
@@ -189,7 +189,7 @@ Some examples of beatmaps nerfed by this change:
 A [change](https://github.com/ppy/osu/pull/31337) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to better factor speed into stamina calculations:
 
 - Monos now have an additional buff to acknowledge the stamina required to keep up with rapid single-colour patterns, especially at higher BPMs
-- Stamina now considers the density & BPM of consecutive objects, awarding extra bonuses for faster patterns
+- Stamina now considers the density and BPM of consecutive objects, awarding extra bonuses for faster patterns
 
 ### Convert changes
 
