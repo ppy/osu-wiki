@@ -92,9 +92,7 @@ Tapping deviation is a statistic similar to unstable rate created by [Frostium](
 
 This deviation is used to punish speed PP if the deviation is deemed "too high" for a beatmap's difficulty and is assumed to have been tapped improperly. This primarily addresses scores using the "rake tapping" technique while also nerfing other forms of improper tapping.
 
-This nerf works by deciding a cut-off point for speed PP, scaled by the deviation, where anything above it is considered to be tapped improperly — scores which go above this cut-off point are then re-adjusted based on their deviation to give a more representative value of their tapping difficulty.
-
-The nerf has a threshold for deviation that must be reached before it nerfs anything at all in order to ensure the majority of scores which were tapped correctly are either not nerfed or nerfed insignificantly.
+This nerf only applies when two conditions are met: the speed PP is above a certain value (that is affected by the deviation), and the deviation itself is above a certain value (roughly corresponding to 220 UR). The only affected scores should be ones which were tapped incorrectly, which should now be more representative of their tapping difficulty.
 
 As a result of this change, the old penalty applied in speed PP for 50s has now been removed as this proposal better serves its purpose. You may see noticable buffs on plays with a lot of 50s if they're not deemed to be tapped improperly.
 
