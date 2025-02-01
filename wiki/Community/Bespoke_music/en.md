@@ -17,9 +17,9 @@ Conversely, all other songs in this list are not officially licensed by the game
 
 ## Statistics
 
-There is currently a total of **841** documented songs made within osu!.
+There is currently a total of **842** documented songs made within osu!.
 
-![Graph of bespoke music over time](img/bespoke-music-over-time.png?20250128)
+![Graph of bespoke music over time](img/bespoke-music-over-time.png?20250201)
 
 ## Listing
 
@@ -404,7 +404,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=_1ZbcT3e0tg "YouTube") |  | Akiri - Evolutionary Anima[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2314344) | Quarterfinals RC5 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=_1ZbcT3e0tg "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Evolutionary%20Anima%22 "osu! original") | Akiri - Evolutionary Anima | [#1](https://osu.ppy.sh/beatmapsets/2314344) | Quarterfinals RC5 |
 
 ### Community-run tournament releases
 
@@ -1674,6 +1674,12 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=mFkbG48-KI0 "YouTube") |  | DeformedEutopia (Nirotiy + AiSS) - Chong Xiao - The Multitude of Empyrean - | [#1](https://osu.ppy.sh/beatmapsets/2133204) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania Chilean Tournament 4K 2025](https://osu.ppy.sh/community/forums/topics/2020146)
+
+| Links |  | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/miriqo/before-ascent "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vSiOTyGwi1Q "YouTube") |  | MIRIQO - Before Ascent | [#1](https://osu.ppy.sh/beatmapsets/2314271) | Round of 15 RC2 |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
 
