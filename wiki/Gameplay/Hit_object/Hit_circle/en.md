@@ -8,9 +8,9 @@ tags:
 
 *Hit circles* are a type of coloured, circular [hit objects](/wiki/Gameplay/Hit_object) present in [osu!](/wiki/Game_mode/osu!) and [osu!taiko](/wiki/Game_mode/osu!taiko) [beatmaps](/wiki/Beatmap). They are core gameplay elements, requiring players to click on/tap them in time with the music to [score](/wiki/Gameplay/Score) points. Clicking hit circles more [accurately](/wiki/Gameplay/Accuracy) awards more score, as well as providing a very small boost to the [health bar](/wiki/Gameplay/Health) and a larger one at the end of a [combo](/wiki/Beatmapping/Combo).
 
-## Customization and skinning
+## Customisation and skinning
 
-Hit circles are customizable through osu! [skins](/wiki/Skin), allowing player to modify their appearance. 
+Hit circles are customisable through [skins](/wiki/Skin), allowing players to modify their appearance. 
 
 ## In osu!
 
