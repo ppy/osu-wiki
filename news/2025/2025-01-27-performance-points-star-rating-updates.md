@@ -134,14 +134,9 @@ A [set](https://github.com/ppy/osu/pull/31284) [of](https://github.com/ppy/osu/p
 
 The new rhythm skill works by creating ratios to assess difficulty. These ratios are dictated by the time between note changes — simple rhythms such as 1/2 will receive less of a bonus than more complicated rhythms such as 1/6 and 1/8, especially when frequently placed. In order to ensure this does not overly award small sections of difficulty, the frequency of these ratios are assessed to decide how difficult the ratio changes are.
 
-To handle patterns where the time between notes doesn't change much, we group evenly spaced notes into a pattern. These are often the "streams" you see in fast beatmaps. If the timing between notes is consistent, those notes go into the same group. 
+Similarly, when the time between notes don't change much, evenly spaced notes are treated as separate patterns (i.e. **●● ●●●** is treated as two groups). For "streams" in fast beatmaps, these groups can become large.
 
-When the timing changes, the system shifts notes into the group with the shorter interval:
-
-- In **●● ●●●**, the third note joins the later group (**●●●**) because it fits better with the shorter timing.
-- In **●●● ●●**, the third note sticks with the earlier group (**●●●**) for the same reason.
-
-This prevents evenly spaced notes from being unfairly treated as difficult, whilst also helping to measure how rhythm and colour difficulty interact with eachother.
+This prevents evenly spaced notes from being unfairly treated as difficult, while also helping to measure how rhythm and colour difficulty interact with each other.
 
 The new rhythm skill also uses hit windows to decide if the current pattern can be hit without requiring any adjustments to your timing. If a pattern does not require any timing adjustments, then rhythm difficulty is not awarded and those patterns are grouped together:
 
