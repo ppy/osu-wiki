@@ -97,7 +97,7 @@ A round of applause for all players involved! We got to see a close upset this t
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OsZ0Taiqbr0?start=326&end=436" frameborder="0" allowfullscreen></iframe>
 </div>
 
-We saw a strong contender for the most exciting match of the weekend in Netherlands (#26) versus Finland (#22). Clutching from the claws of elimination in the losers' bracket, both teams have given it their all in an effort to stay afloat. Get ready for a match driven to victory by a team's stern determination despite all odds!
+We saw a strong contender for the most exciting match of the weekend in Netherlands (#26) versus Finland (#23). Clutching from the claws of elimination in the losers' bracket, both teams have given it their all in an effort to stay afloat. Get ready for a match driven to victory by a team's stern determination despite all odds!
 
 Finland got the upper hand by being allowed to pick first, choosing to protect [Toromaru - Curiosity](https://osu.ppy.sh/beatmapsets/2310774#mania/4943406) (RC5) and ban [Phoenix Legend - She Xiang Fu Ren (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310775#mania/4943407). Meanwhile, the Netherlands opted to protect [Kotono - friend ship (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310670#mania/4943200) and ban [Culprate - Junglist Acid (osu! Edit)](https://osu.ppy.sh/beatmapsets/2310708#mania/4943272). Right out of the gate, we can see each team's prefered skill sets from those choices alone.
 
