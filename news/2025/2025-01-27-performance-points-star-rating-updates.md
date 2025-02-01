@@ -143,7 +143,7 @@ The new rhythm skill also uses hit windows to decide if the current pattern can 
 - **● ● ● ● ●●●** can be played evenly as **● ● ● ● ● ● ●**, so it has no rhythm difficulty.
 - **● ● ● ● ●●●●●●** can't be played the same way because the later notes fall outside the hit window, so the rhythm still counts as challenging.
 
-Repeating patterns, such as triples or 4 note patterns, receive a lower bonus in this new system due to their constant rhythm and predictability.
+Repeating patterns, such as triples or 4-note patterns, receive a lower bonus in this new system due to their constant rhythm and predictability.
 
 ### Reading skill
 
