@@ -12,7 +12,7 @@ A *slider* is a [hit object](/wiki/Gameplay/Hit_object) in [osu!](/wiki/Game_mod
 
 ![Sliders](/wiki/shared/osu_slider.jpg "osu! slider")
 
-[Slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) are small circles that appear in regular intervals along the sliderbody. The player only fails to completely clear a slider if the cursor is outside the slider ball range (defined by the circle around the ball) or the mouse button is unpressed while the slider ball is passing over a slider tick. Being outside the slider ball range or releasing the button at any other time will not yield any penalty (though it is not advised as it could easily result in a sliderbreak). Passing over a slidertail or a slider tick will give a small health boost; usually just barely enough to keep the health bar where it is.
+[Slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) are small circles that appear in regular intervals along the slider body. The player only fails to completely clear a slider if the cursor is outside the slider ball range (defined by the circle around the ball) or if the mouse button is unpressed while the slider ball is passing over a slider tick. Being outside the slider ball range or releasing the button at any other time will not yield any penalty (though it is not advised as it could easily result in a slider break). Passing over a slider tail or a slider tick will give a small health boost, usually just barely enough to keep the health bar where it is.
 
 ## Editor
 
