@@ -262,11 +262,11 @@ Pengaturan tata letak osu!mania lebih lanjut dapat ditemukan pada berkas [skin.i
 | `Display` | Integer | Nomor indeks monitor yang akan digunakan untuk membuka osu! |
 | `EditorTip` | Integer | Nomor indeks [tips editor](/wiki/Client/Menu_tips#editor) yang akan dimunculkan selanjutnya |
 | `GuideTips` | String | Melacak tips yang telah dimunculkan agar tips ini tidak kembali muncul ke depannya |
-| `HighResolution` | 0 atau 1 | Memaksa dukungan elemen skin HD |
+| `HighResolution` | 0 atau 1 | Memaksa dukungan elemen skin dengan resolusi HD |
 | `IgnoreBarline` | 0 atau 1 | Apakah barline osu!mania akan disembunyikan |
 | `LastVersion` | String | Versi klien saat ini |
 | `LastVersionPermissionsFailed` | String | Versi klien terakhir yang memerlukan perizinan admininstrator untuk menyelesaikan pembaruan |
-| `LowResolution` | 0 atau 1 | Memaksa elemen skin dengan resolusi SD untuk digunakan (menimpa pengaturan `HighResolution`) |
+| `LowResolution` | 0 atau 1 | Memaksa elemen skin dengan resolusi SD untuk digunakan (yang akan menimpa pengaturan `HighResolution`) |
 | `MenuTip` | Integer | Nomor indeks [tips menu](/wiki/Client/Menu_tips#main-menu) yang akan dimunculkan selanjutnya |
 | `MyPcSucks` | 0 atau 1 | Menonaktifkan seluruh pengaturan grafis canggih |
 | OverrideRefreshRate\` | 0 atau 1 | Apakah parameter `RefreshRate` akan digunakan |
