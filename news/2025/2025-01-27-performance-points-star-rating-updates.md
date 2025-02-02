@@ -132,7 +132,7 @@ Since the last performance point post, there are some new faces in the osu!taiko
 
 A [set](https://github.com/ppy/osu/pull/31284) [of](https://github.com/ppy/osu/pull/31339) [changes](https://github.com/ppy/osu/pull/31573) proposed by [ltca](https://osu.ppy.sh/users/11475208) (with contributions from [rloseise](https://osu.ppy.sh/users/6793778) and [YaniFR](https://osu.ppy.sh/users/11260982)) has been created in order to rewrite the rhythm skill to address shortcomings of the previous implementation.
 
-The new rhythm skill works by creating ratios to assess difficulty. These ratios are dictated by the time between note changes — simple rhythms such as 1/2 will receive less of a bonus than more complicated rhythms such as 1/6 and 1/8, especially when frequently placed. In order to ensure this does not overly award small sections of difficulty, the frequency of these ratios are assessed to decide how difficult the ratio changes are.
+The new rhythm skill works by measuring timing changes between notes — simple rhythms such as 1/2 will receive less of a bonus than more complicated rhythms such as 1/6 and 1/8, especially when frequently placed. In order to ensure this does not overly buff small sections of difficulty, the frequency of these rhythms are assessed to decide how difficult changes to them are.
 
 Similarly, when the time between notes don't change much, evenly spaced notes are treated as separate patterns (i.e. **●● ●●●** is treated as two groups). For "streams" in fast beatmaps, these groups can become large.
 
