@@ -48,16 +48,16 @@ Bạn vẫn có thể làm nhân viên trong các giải đấu được hỗ tr
 
 Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể được cung cấp cho các nhà tổ chức giải đấu khi có yêu cầu, cho dù họ có được hỗ trợ chính thức hay không.
 
-## Những lý do cấm thi đấu phổ biến và thời gian cấm.
+## Những lý do cấm thi đấu phổ biến và thời gian cấm
 
 | Lý do cấm thi đấu | Thời gian | Các ghi chú |
 | :-- | :-- | :-- |
-| Vi phạm quy tắc cộng đồng trong một giải đấu. | 1 tháng hoặc hơn | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản. |
+| Vi phạm quy tắc cộng đồng trong một giải đấu. | 1 tháng hoặc hơn | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản |
 | Thô tục với nhân viên hoặc lãng phí thời gian. | 1 tháng hoặc hơn |  |
 | Hỗ trợ người chơi khác sử dụng nhiều tài khoản hoặc gian lận trong suốt giải đấu | 6 tháng hoặc hơn |  |
 | Hành vi sai trái của người chơi trong một giải đấu được hỗ trợ chính thức | 1-2 năm |  |
-| Quay lại theo điều khoản kháng cáo tiêu chuẩn | 1-2 năm | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản. |
+| Quay lại theo điều khoản kháng cáo tiêu chuẩn | 1-2 năm | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản |
 | Sử dụng nhiều tài khoản hoặc chia sẻ tài khoản trong giải đấu được hỗ trợ chính thức | Vô thời hạn | Cũng sẽ dẫn đến hạn chế |
 | Sử dụng phần mềm bên thứ ba hoặc các công cụ gian lận khác trong giải đấu được hỗ trợ chính thức | Vô thời hạn | Cũng sẽ dẫn đến hạn chế |
 | Sử dụng thông tin riêng tư/ bảo mật của giải đấu để đạt hoặc mang lợi thế không công bằng | Vô thời hạn | Cũng có thể dẫn đến hạn chế |
-| Lạm dụng nghiêm trọng hoặc quấy rối ban tổ chức/nhân viên/người tham gia giải đấu | Vô thời hạn | Cũng có thể dẫn đến hạn chế. |
+| Lạm dụng nghiêm trọng hoặc quấy rối ban tổ chức/nhân viên/người tham gia giải đấu | Vô thời hạn | Cũng có thể dẫn đến hạn chế |
