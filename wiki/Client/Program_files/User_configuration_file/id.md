@@ -211,7 +211,7 @@ Pengaturan tata letak osu!mania lebih lanjut dapat ditemukan pada berkas [skin.i
 ### Menu utama
 
 | Pengaturan | Jenis nilai | Keterangan |
-| :--| :-- | :-- |
+| :-- | :-- | :-- |
 | `FrameTimeDisplay` | 0 atau 1 | Apakah grafik frame time akan dimunculkan |
 | `PermanentSongInfo` | 0 atau 1 | Apakah informasi seputar lagu yang sedang diputar akan dimunculkan secara permanen |
 
@@ -239,7 +239,7 @@ Pengaturan tata letak osu!mania lebih lanjut dapat ditemukan pada berkas [skin.i
 
 | Pengaturan | Jenis nilai | Keterangan |
 | :-- | :-- | :-- |
-| `ShowReplayComments` | 0 atau 1    | Mengaktifkan pilihan `Tampilkan Komentar` pada saat menonton tayangan ulang |
+| `ShowReplayComments` | 0 atau 1 | Mengaktifkan pilihan `Tampilkan Komentar` pada saat menonton tayangan ulang |
 
 ### Pemilihan lagu
 
