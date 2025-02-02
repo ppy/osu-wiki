@@ -113,28 +113,53 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=DE }:: Germany | [Feb 08 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T110000&p1=1440&p2=102&p3=37) |  | [^losers-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Feb 08 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T130000&p1=1440&p2=108&p3=166) |  | [^losers-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Feb 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T150000&p1=1440&p2=122&p3=232) |  | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Feb 08 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T170000&p1=1440&p2=263&p3=131) |  | [^losers-bracket] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=DE }:: Germany | [Feb 08 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T110000&p1=1440&p2=102&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Feb 08 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T130000&p1=1440&p2=108&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Feb 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T150000&p1=1440&p2=122&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Feb 08 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T170000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Semifinals | showmatch | []() | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 9 February 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=US }:: United States | [Feb 09 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T040000&p1=1440&p2=102&p3=263) |  | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=PE }:: Peru | [Feb 09 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T040000&p1=1440&p2=102&p3=131) |  | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=JP }:: Japan | [Feb 09 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T090000&p1=1440&p2=235&p3=248) |  | [^winners-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 09 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T120000&p1=1440&p2=33&p3=145) |  | [^winners-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=MY }:: Malaysia | [Feb 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T140000&p1=1440&p2=108&p3=122) |  | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Feb 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T140000&p1=1440&p2=166&p3=122) |  | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=108&p3=232) |  | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=166&p3=232) |  | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=US }:: United States | [Feb 09 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T170000&p1=1440&p2=37&p3=263) |  | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=PE }:: Peru | [Feb 09 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T170000&p1=1440&p2=37&p3=131) |  | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=US }:: United States | [Feb 09 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T040000&p1=1440&p2=102&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=PE }:: Peru | [Feb 09 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T040000&p1=1440&p2=102&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=JP }:: Japan | [Feb 09 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T090000&p1=1440&p2=235&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 09 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T120000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=MY }:: Malaysia | [Feb 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T140000&p1=1440&p2=108&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Feb 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T140000&p1=1440&p2=166&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=108&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=166&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=US }:: United States | [Feb 09 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T170000&p1=1440&p2=37&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=PE }:: Peru | [Feb 09 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T170000&p1=1440&p2=37&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Finals | mappool showcase | [Feb 09 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here (97 MB, *temporary link*)](https://leoflt.com/s/W47x)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2370772706)
+
+- Rice
+  1. [Aquestion - Umami Blaze (pwhk) \[Another+\] *(temporary link)*](https://leoflt.com/s/pFFy)
+  2. [REDALiCE feat. Ayumi Nomiya - Little Star (Full ver.) (Tailsdk) \[Wish (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2317896#mania/4964062)
+  3. [Flying Steps - We Are Electric (ExNeko) \[Derezzed\]](https://osu.ppy.sh/beatmapsets/2317884#mania/4964044)
+  4. [The Flashbulb - Six Acid Strings (Maxus) \[Indescribable futility\] *(temporary link)*](https://leoflt.com/s/EZhx)
+  5. [SiLiS - Hebe (\_Yiiiii) \[O\~O\] *(temporary link)*](https://leoflt.com/s/bPzu)
+  6. [Lime - Pixel Planet (\_Kobii) \[Pixel Dimension\]](https://osu.ppy.sh/beatmapsets/2317895#mania/4964061)
+- Long Note
+  1. [Elliot Hsu - A Guiding Star (ruka) \[Voyage\]](https://osu.ppy.sh/beatmapsets/2317897#mania/4964065)
+  2. [seatrus & Halv - The Core (Muses, U1d) \[Keys w/ U1d\]](https://osu.ppy.sh/beatmapsets/2317878#mania/4964035)
+  3. [Trina Lydia - TETRATONE ALTiSSiMO (U1d) \[NOCTURNAL (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2317891#mania/4964056)
+  4. [Aiobahn feat. KOTOKO - Gekkouchou (Cut Ver.) (ExNeko) \[Dreamscape\]](https://osu.ppy.sh/beatmapsets/2317886#mania/4964046)
+- Hybrid
+  1. [Xyris - FOXGLOVE (Critical\_Star) \[Say My Name\] *(temporary link)*](https://leoflt.com/s/9fdt)
+  2. [linear ring - enchanted love (\_Kobii) \[cold embrace (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2317898#mania/4964066)
+  3. [mitei - Phosphor (U1d) \[Scintillation\]](https://osu.ppy.sh/beatmapsets/2317893#mania/4964059)
+- Tiebreaker
+  1. **[kanemiko - Ruin in Cascade (Critical\_Star, Maxus, ExNeko, \_Stan, paulkappa, taba2) \[Vanishing Echoes\] *(temporary link)*](https://leoflt.com/s/ZKUL)**
 
 ### Quarterfinals
 
@@ -221,6 +246,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 ## Match results
 
 ### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1AV9UcS9HFeGpWpzDteEOwG3Lm3mytW2iI8xLRYesqeA?rm=minimal).
 
 Friday, 31 January 2025:
 
