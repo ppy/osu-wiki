@@ -58,11 +58,11 @@ Sau đó, block hoặc mute người dùng đó bằng cách nhấp vào ba dấ
 
 Xin lưu ý rằng người đó sẽ biết bạn chặn họ nếu họ kiểm tra hồ sơ Twitter của bạn. Nếu bạn lo lắng điều này sẽ làm cho vấn đề trở nên tồi tệ hơn trong tương lai thì hãy chọn mute tài khoản đó. Thao tác này sẽ xóa các tweet của họ khỏi dòng thời gian của bạn và ngăn bạn xem thêm bất kỳ nội dung nào từ họ, nhưng họ vẫn có thể xem và bình luận về tất cả các tweet bạn thực hiện.
 
-Nếu tweet đến từ một tài khoản được liên kết với hồ sơ osu! của người chơi qua trang web của chúng tôi (nó sẽ xuất hiện bên dưới hình đại diện của người dùng và ngày tham gia bên cạnh biểu tượng con chim tweet), vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa hình chụp hồ sơ tweet bất cứ khi nào có thể, cùng với bất kỳ thông tin nào khác bạn có thể nghĩ tới.
+Nếu tweet đến từ một tài khoản được liên kết với hồ sơ người chơi osu! qua trang web của chúng tôi (nó sẽ xuất hiện dưới ảnh đại diện và ngày tham gia, bên cạnh biểu tượng con chim tweet), vui lòng gửi email đến abuse@ppy.sh kèm theo bản sao của tweet dưới dạng hình ảnh nếu có thể, cùng với bất kỳ thông tin nào bạn có thể nghĩ ra.
 
-## Một thành viên trong một trong các đội tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
+## Một thành viên của một trong các đội tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
 
-Gửi email đến abuse@ppy.sh **ngay lập tức** với càng nhiều thông tin càng tốt. Điều này bao gồm ảnh chụp màn hình, nhật ký trò chuyện, cơ bản là bất kỳ thứ gì bạn có thể đính kèm vào email.
+Gửi email đến [abuse@ppy.sh]() **ngay lập tức** với càng nhiều thông tin càng tốt. Điều này bao gồm ảnh chụp màn hình, nhật ký trò chuyện, cơ bản là bất kỳ thứ gì bạn có thể đính kèm vào email.
 
 Nếu bất kỳ điều gì bạn muốn đính kèm khiến bạn cảm thấy xấu hổ, vui lòng che khuất nó đi.
 
