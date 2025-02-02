@@ -1,16 +1,16 @@
 # Báo cáo lạm dụng
 
-## Tôi không biết có nên báo cáo điều này hay không
+## Tôi không biết liệu mình nên có nên báo cáo điều này hay không
 
 Nếu bạn vẫn đang băn khoăn thì tốt nhất là nên báo cáo.
 
-Nếu bạn đang thấy khó chịu hay không thoải mái đến mức tìm đến trang này, hãy liên hệ ngay với chúng tôi tại [abuse@ppy.sh](mailto:abuse@ppy.sh) và cung cấp càng nhiều thông tin về vấn đề của bạn càng tốt.
+Nếu bạn cảm thấy không thoải mái đến mức phải đọc trang này, vui lòng liên hệ với chúng tôi ngay lập tức tại abuse@ppy.sh và cung cấp càng nhiều chi tiết về vấn đề của bạn càng tốt.
 
-Chúng tôi không khoan nhượng đối với bất kỳ hình thức tán tỉnh, chú ý hoặc đề nghị tình dục không mong muốn trong cộng đồng này.
+Chúng tôi không khoan nhượng đối với bất kỳ hình thức chú ý hoặc tiếp cận tình dục không mong muốn nào trong cộng đồng này
 
-Địa chỉ email báo cáo chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi).
+Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi).
 
-Mọi thứ bạn gửi tới [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không được chia sẻ với bất kỳ ai ngoài anh ấy.
+Không có gì bạn gửi đến [abuse@ppy.sh]() sẽ được chia sẻ với bất kỳ ai khác ngoài anh ta.
 
 ## Ai đó đã có những lời đề nghị hoặc nhận xét mang tính tình dục không phù hợp đối với tôi!
 
