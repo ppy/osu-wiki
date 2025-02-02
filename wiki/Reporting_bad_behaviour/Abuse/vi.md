@@ -8,9 +8,7 @@ Nếu bạn cảm thấy không thoải mái đến mức phải đọc trang n�
 
 Chúng tôi không khoan nhượng đối với bất kỳ hình thức chú ý hoặc tiếp cận tình dục không mong muốn nào trong cộng đồng này
 
-Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi).
-
-Không có gì bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ được chia sẻ với bất kỳ ai khác ngoài anh ta.
+Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi), không có gì bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ được chia sẻ với bất kỳ ai khác ngoài anh ta.
 
 ## Ai đó đã có những hành vi hoặc lời nói khiếm nhã mang tính quấy rối tình dục đối với tôi!
 
