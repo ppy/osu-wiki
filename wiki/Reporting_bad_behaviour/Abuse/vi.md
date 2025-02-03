@@ -12,7 +12,7 @@ Chúng tôi không khoan nhượng đối với bất kỳ hình thức chú ý 
 
 ## Ai đó đã có những hành vi hoặc lời nói khiếm nhã mang tính quấy rối tình dục đối với tôi!
 
-Cuộn qua các tiêu đề phụ bên dưới để tìm hiểu phải làm gì, tùy thuộc vào nơi mà tất cả các sự việc này đã xảy ra.
+Cuộn qua các tiêu đề phụ bên dưới để tìm hiểu phải làm gì, tùy thuộc vào chỗ mà tất cả các sự việc này đã xảy ra.
 
 ### Trong phần trò chuyện của trò chơi
 
