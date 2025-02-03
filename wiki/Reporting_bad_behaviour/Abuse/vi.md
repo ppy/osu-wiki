@@ -46,7 +46,7 @@ Sau đó, hãy liên hệ ngay với quản trị viên của máy chủ bằng 
 
 Nếu hành vi lạm dụng này tiếp tục diễn ra và quản trị viên không làm gì về việc đó, [vui lòng thông báo cho nhóm Discord Trust & Safety bằng cách gửi báo cáo](https://dis.gd/request).
 
-Ngoài ra, nếu bạn biết tài khoản osu! của người làm phiền bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và mọi thứ sẽ được điều tra kịp thời.
+Ngoài ra, nếu bạn biết tài khoản osu! của người quấy rối bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và mọi thứ sẽ được điều tra kịp thời.
 
 ### Trên Twitter được liên kết với tài khoản osu!
 
@@ -58,7 +58,7 @@ Xin lưu ý rằng người đó sẽ biết bạn chặn họ nếu họ kiểm
 
 Nếu tweet đến từ một tài khoản được liên kết với hồ sơ người chơi osu! qua trang web của chúng tôi (nó sẽ xuất hiện dưới ảnh đại diện và ngày tham gia, bên cạnh biểu tượng con chim tweet), vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo bản sao của tweet dưới dạng hình ảnh nếu có thể, cùng với bất kỳ thông tin nào bạn có thể nghĩ ra.
 
-## Một thành viên của một trong các đội tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
+## Một thành viên của một trong các nhóm tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
 
 Gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) **ngay lập tức** với càng nhiều thông tin càng tốt. Điều này bao gồm ảnh chụp màn hình, nhật ký trò chuyện, cơ bản là bất kỳ thứ gì bạn có thể đính kèm vào email.
 
@@ -66,7 +66,7 @@ Nếu bất kỳ điều gì bạn muốn đính kèm khiến bạn cảm thấy
 
 Chúng tôi sẽ xem xét vấn đề ngay khi có thể.
 
-## Ai đó tôi biết đang bị lạm dụng bởi một thành viên trong đội tình nguyện (NAT, GMT) nhưng quá sợ hãi để lên tiếng!
+## Ai đó tôi biết đang bị lạm dụng bởi một thành viên trong nhóm tình nguyện (NAT, GMT) nhưng quá sợ hãi để lên tiếng!
 
 Gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) với tất cả thông tin bạn biết và càng nhiều bằng chứng càng tốt.
 
