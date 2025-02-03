@@ -95,9 +95,9 @@ tags:
 - 18세 이상일 것
 - 계정 위반 사항에 대한 확인을 통과할 것
 
-예비 멤버가 이메일을 통해 신청하던 기존 멤버가 제안하던 절차는 동일합니다. 위원회는 후보자에 대한 심도 있는 논의를 진행하며 토너먼트 현장에서의 활동, 위상, 커뮤니티 기여, 위원회에 어떤 도움이 될지에 대하여 특별한 관심을 집중합니다. 논의 후, 해당 후보자를 위원회의 멤버로 추가할지에 대한 여부를 투표하여 결정하게 됩니다.\
+예비 멤버가 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 이메일을 보내 신청하면, 토너먼트 위원회가 후보자에 대한 심도 있는 논의를 진행하며 토너먼트 현장에서의 활동, 위상, 커뮤니티 기여, 위원회에 어떤 도움이 될지에 대하여 특별한 관심을 집중합니다. 논의 후, 해당 후보자를 위원회의 멤버로 추가할지에 대한 여부를 투표하여 결정하게 됩니다.
 
-충분한 찬성 표를 모으지 못한 사용자는 거부되며, 지원에 대한 답변이 온 날로부터 6개월간 지원이 제한됩니다. 지원한 날로부터 2주내로 응답을 받게 됩니다.
+충분한 찬성표를 모으지 못한 지원자는 거부되며, 지원에 대한 답변이 온 날로부터 6개월간 지원이 제한됩니다. 지원한 날로부터 적어도 2주내로 응답을 받게 됩니다.
 
 ### 투표
 
@@ -158,7 +158,6 @@ tags:
 - ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
-- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
 
 ## 콘테스트 위원회 멤버
@@ -176,4 +175,5 @@ tags:
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
+- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
