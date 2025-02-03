@@ -190,7 +190,7 @@ Star rating for convert beatmaps have been improved, thanks to a [set](https://g
 
 - Low accuracy is punished more harshly on beatmaps with a lot of mono patterns
 - Difficult converts usually increase the amount of available fingers due to techniques such as "TL tapping", thus stamina difficulty is decreased proportionally to match this added availability
-- The previously mentioned stamina buff to monos is disabled for converts to address mapping techniques not present in osu!taiko beatmapsets
+- The previously mentioned [stamina improvements](#stamina-improvements) do not buff monos on converts to address mapping techniques not present in osu!taiko beatmaps
 
 ### Minor changes
 
