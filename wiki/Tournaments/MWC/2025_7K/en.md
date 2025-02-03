@@ -139,15 +139,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Semifinals
 
-**[Download the mappack here (97 MB, *temporary link*)](https://leoflt.com/s/W47x)**\
+**[Download the mappack here (118 MB)](https://packs.ppy.sh/P274%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Semifinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2370772706)
 
 - Rice
-  1. [Aquestion - Umami Blaze (pwhk) \[Another+\] *(temporary link)*](https://leoflt.com/s/pFFy)
+  1. [Aquestion - Umami Blaze (pwhk) \[Another+\]](https://osu.ppy.sh/beatmapsets/2318018#mania/4964366)
   2. [REDALiCE feat. Ayumi Nomiya - Little Star (Full ver.) (Tailsdk) \[Wish (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2317896#mania/4964062)
   3. [Flying Steps - We Are Electric (ExNeko) \[Derezzed\]](https://osu.ppy.sh/beatmapsets/2317884#mania/4964044)
-  4. [The Flashbulb - Six Acid Strings (Maxus) \[Indescribable futility\] *(temporary link)*](https://leoflt.com/s/EZhx)
-  5. [SiLiS - Hebe (\_Yiiiii) \[O\~O\] *(temporary link)*](https://leoflt.com/s/bPzu)
+  4. [The Flashbulb - Six Acid Strings (Maxus) \[Indescribable futility\]](https://osu.ppy.sh/beatmapsets/2318102#mania/4964713)
+  5. [SiLiS - Hebe (\_Yiiiii) \[O\~O\]](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313)
   6. [Lime - Pixel Planet (\_Kobii) \[Pixel Dimension\]](https://osu.ppy.sh/beatmapsets/2317895#mania/4964061)
 - Long Note
   1. [Elliot Hsu - A Guiding Star (ruka) \[Voyage\]](https://osu.ppy.sh/beatmapsets/2317897#mania/4964065)
@@ -155,11 +155,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
   3. [Trina Lydia - TETRATONE ALTiSSiMO (U1d) \[NOCTURNAL (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2317891#mania/4964056)
   4. [Aiobahn feat. KOTOKO - Gekkouchou (Cut Ver.) (ExNeko) \[Dreamscape\]](https://osu.ppy.sh/beatmapsets/2317886#mania/4964046)
 - Hybrid
-  1. [Xyris - FOXGLOVE (Critical\_Star) \[Say My Name\] *(temporary link)*](https://leoflt.com/s/9fdt)
+  1. [Xyris - FOXGLOVE (Critical\_Star) \[Say My Name\]](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416)
   2. [linear ring - enchanted love (\_Kobii) \[cold embrace (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2317898#mania/4964066)
   3. [mitei - Phosphor (U1d) \[Scintillation\]](https://osu.ppy.sh/beatmapsets/2317893#mania/4964059)
 - Tiebreaker
-  1. **[kanemiko - Ruin in Cascade (Critical\_Star, Maxus, ExNeko, \_Stan, paulkappa, taba2) \[Vanishing Echoes\] *(temporary link)*](https://leoflt.com/s/ZKUL)**
+  1. **[kanemiko - Ruin in Cascade (Critical\_Star, Maxus, ExNeko, \_Stan, paulkappa, taba2) \[Vanishing Echoes\]](https://osu.ppy.sh/beatmapsets/2318032#mania/4964418)**
 
 ### Quarterfinals
 
