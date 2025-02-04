@@ -54,6 +54,7 @@ These servers aim to provide users everything related to [tournaments](/wiki/Tou
 | :-: | :-- | :-- | :-- |
 | [![](img/osu!-Tournament-Hub.png)](https://discord.com/invite/bvhajDC) | [osu! Tournament Hub](https://discord.com/invite/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) | The **osu! Tournament Hub** provides resources around tournament organisation and channels for advertising new tournaments and staff recruitments in all game modes and regions. |
 | [![](img/osu!mania-Tourney-Central.png)](https://discord.com/invite/WnMcrUnGV5) | [osu!mania Tourney Central](https://discord.com/invite/WnMcrUnGV5) | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | **osu!mania Tourney Central** focuses on resources and staff recruitments for tournaments in the osu!mania game mode. |
+| [![](img/poolingcore.png)](https://discord.com/invite/gpEbCBE7Jg) | [poolingcore](https://discord.com/invite/gpEbCBE7Jg) | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) | **poolingcore** provides resources around tournament mappooling and mapping primarily in the osu! game mode. The server features occasional games and contests related to mappooling and allows verified hosts to recruit active mappoolers and mappers for their tournaments. |
 
 ## Project Loved
 
