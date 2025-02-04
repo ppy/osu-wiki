@@ -37,8 +37,6 @@ Each subsection below explains, both in words and in a mathematical formula, a d
 
 This seeding method averages each team’s scores on all maps. Typically, scores are first normalised, meaning that they are divided by the [mod multipliers](/wiki/Gameplay/Game_modifier/Mod_multiplier) specified on the map, before averaging. (For example, scores on an osu! map played with Hard Rock in ScoreV2 would be divided by 1.1.) Teams are then seeded in order of this average, with the highest average receiving seed 1.
 
-#### Technical
-
 The average normalised score for a team is given by
 
 ![Average Score formula](img/avgscore.png)[^mappool-size]
@@ -48,8 +46,6 @@ If any of the maps are played with Free Mod, it must be explicitly specified whe
 ### Sum of Placements / Average Placement
 
 This seeding method ranks all scores on each map played from highest to lowest, with the highest-scoring team receiving a rank of 1, the next receiving 2, and so on. A team’s overall seeding is then determined by the sum (or average) of these numbers (called placements); the lowest sum (or equivalently average) receives seed 1, the next lowest receives seed 2, and so on.
-
-#### Technical
 
 The sum of placements for a team is given by
 
@@ -61,8 +57,6 @@ The sum of placements for a team is given by
 
 This seeding method assigns each team some number of points between 0 and 1 on each map by dividing their score by the highest score achieved. Seeding is then determined by the sum of these map points, with the highest sum receiving seed 1.
 
-#### Technical
-
 The percent maximum sum for a team is given by
 
 ![Percent Maximum formula](img/percentmax.png)[^mappool-size]
@@ -70,8 +64,6 @@ The percent maximum sum for a team is given by
 ### Percent Difference
 
 This seeding method is almost identical to Percent Maximum, except that it assigns the lowest score on each map 0, the highest score on each map 1, and all others linearly in between. 
-
-#### Technical
 
 The percent difference sum for a team is given by
 
@@ -83,8 +75,6 @@ This seeding method first computes the average and standard deviation of team sc
 
 Note that tournaments in the past have often used the term “Z-Sum” for what is instead called the “Z-Percentile” seeding method below. The Z-Sum seeding method should result in roughly half the teams having a negative total sum of z-scores (and in particular, the total sum over all maps should be exactly 0).
 
-#### Technical
-
 The z-sum for a team is given by
 
 ![Z-Sum formula](img/zsum.png)[^mappool-size]
@@ -95,8 +85,6 @@ where typically the sample standard deviation is used (rather than the populatio
 
 This seeding method is almost identical to Z-Sum, except that instead of assigning teams a z-score, it assigns teams the corresponding percentile with respect to the normal distribution. In other words, Z-Percentile estimates the percentage of teams beaten on each map by fitting scores to a bell curve, and each team will receive a value between 0 and 1 on each map played. Seeding is then determined by the sum of these values, with the highest sum receiving seed 1.
 
-#### Technical
-
 The z-percentile sum for a team is given by
 
 ![Z-Percentile formula](img/zpercentile.png)[^mappool-size]
@@ -106,8 +94,6 @@ where `NORMCDF` is the cumulative distribution function for the standard normal 
 ### Zipf’s Law
 
 Much like Sum of Placements, this seeding method ranks all scores on each map played, but it then gives the team points according to a version of the [Zipf–Mandelbrot law](https://en.wikipedia.org/wiki/Zipf%E2%80%93Mandelbrot_law). This yields a particularly high number of points for the top scorers on each map (largest gap between the first and second highest score), and seeding is then determined by the sum of all points received (with the highest sum receiving seed 1).
-
-#### Technical
 
 The usual formula used for assigning points is
 
@@ -136,7 +122,6 @@ More precisely, a positive number for each map (called the `Map weight`) should 
 ![Weighting formula](img/weight.png)[^mappool-size]
 
 where `Map points` is the quantity that the seeding method assigns to each map (e.g. `Map placement` for Average Placement). Note that having all map weights be equal to `1` or `1/(Number of maps)` would just be equivalent to summing or averaging the map points together.
-
 
 ## Advantages/Disadvantages | Pros/Cons
 
@@ -186,7 +171,8 @@ Here are some other features and comparisons of seeding methods to keep in mind,
 - Some seeding methods benefit specialists, while others benefit consistent performances. For example, Zipf’s Law will give a large boost in seeding to teams with the highest or near-highest rank on a map compared to Sum of Placements. And because of the shape of the normal distribution, Z-Sum will give a large boost for extremely high scores (and a large reduction for extremely low scores) compared to Z-Percentile; thus, Z-Percentile tends to favour all-rounders over specialists compared to Z-Sum.
 - Some seeding methods may cause certain maps to contribute more to seeding differences than others. 
   - In particular, weighted seeding methods are designed to allow some maps to factor more into overall seeding than others – this allows for balancing of importance across different skill sets without needing to include extra maps of the same type in a pool. 
-  - For a less direct example, seeding by Average Score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by Percent Maximum or Percent Difference will give that one team a large boost while distinguishing the other teams on the map less. 
+  - For a less direct example, seeding by Average Score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by Percent Maximum or Percent Difference will give that one team a large boost while distinguishing the other teams on the map less.
+  
 ## Notes
 
 [^mappool-size]: The letter `m` refers to the number of maps in the qualifier mappool.
