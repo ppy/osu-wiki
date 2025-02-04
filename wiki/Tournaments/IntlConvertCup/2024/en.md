@@ -33,7 +33,7 @@ The **International Convert Cup 2024** (***ICC 2024***) was a double-elimination
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
 
-![](img/badge.jpg "o!cCO 2023 winner badge")
+![](img/badge.png "ICC 2024 winner badge")
 
 ## Organisation
 
