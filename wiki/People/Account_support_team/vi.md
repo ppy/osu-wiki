@@ -10,7 +10,7 @@ Nhóm chỉ có thể liên lạc được bằng cách gửi email đến [acco
 
 Thường mất vài ngày để bộ phận hỗ trợ trả lời email. Nếu không nhận được phản hồi trong vòng một tuần, thì nên gửi một tin nhắn nhắc về trường hợp đó.
 
-## vai trò và nhiệm vụ 
+## Vai trò và nhiệm vụ 
 
 *Bài viết chính: [Trung tâm hỗ trợ](/wiki/Help_centre)*
 
