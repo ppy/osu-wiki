@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup 2025: Round of 16 Recap"
-date: 2025-01-31 11:30:00 +0000
+title: "osu!mania 7K World Cup 2025: Quarterfinals recap"
+date: 2025-02-07 12:00:00 +0000
 ---
 
 Eye catcher.
