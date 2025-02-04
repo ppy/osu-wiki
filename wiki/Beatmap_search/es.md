@@ -10,6 +10,8 @@ tags:
   - filtros de beatmaps
   - búsqueda del cliente
   - búsqueda del sitio web
+outdated_translation: true
+outdated_since: 08192e65f4c39155136ca0b88b79bf7e959d78e0
 ---
 
 # Búsqueda de beatmaps
@@ -74,7 +76,7 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `length` | [Duración](/wiki/Beatmap/Play_time) en segundos |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
-| `created` | Fecha de creación del beatmap |
+| `created` | Fecha de creación/subida del beatmap |
 | `updated` | Fecha de la última actualización del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
 
@@ -98,6 +100,8 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `lastplayed` | Tiempo desde la última vez que se jugó un beatmap. Acepta un formato de `#y#M#d#h#m#s`, para años, meses, días, horas, minutos y segundos respectivamente. Por ejemplo, `2d5s` significa «2 días y 5 segundos». |
 | `played` | Si se ha jugado o no un beatmap. El valor puede ser `yes`, `true` o `1` para beatmaps jugados, o `no`, `false` o `0` para beatmaps no jugados. |
 | `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
+| `submitted` | Fecha de creación/subida del beatmap |
+| `ranked` | Fecha de clasificación/aprobación del beatmap |
 
 ## Búsquedas de ejemplo
 

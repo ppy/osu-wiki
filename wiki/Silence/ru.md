@@ -5,6 +5,8 @@ tags:
   - бан чата
   - блок чата
   - молчанка
+outdated_translation: true
+outdated_since: 220f8e2cb5c0a920fc17f24436144b38510e05d9
 ---
 
 # Сайленс
