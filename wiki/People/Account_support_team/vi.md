@@ -23,7 +23,7 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
 - [Kháng cáo các hạn chế được áp dụng cho tài khoản của bạn](/wiki/Help_centre/Account_restrictions), bao gồm:
  - Các im lặng;
  - Xóa nội dung hồ sơ; 
- - xóa beatmap; 
+ - Xóa beatmap; 
  - Xóa bỏ bài đăng diễn đàn và bình luận. 
 - Những hành vi sai trái mà bạn [muốn thừa nhận](/wiki/Reporting_bad_behaviour/Handling_foul_play#tôi-có-thể-làm-gì-nếu-tôi-đã-vi-phạm-quy-tắc?
 )
