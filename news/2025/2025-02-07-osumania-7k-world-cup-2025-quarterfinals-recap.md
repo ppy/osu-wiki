@@ -36,7 +36,22 @@ osu!originals
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
-| Thailand ::{ flag=TH }:: | 0 | **5** | ::{ flag=EE }:: **Estonia** |
+| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=MY }:: Malaysia |
+| **New Zealand** ::{ flag=NZ }:: | **6** | 1 | ::{ flag=SG }:: Singapore |
+| **Spain** ::{ flag=ES }:: | **6** | 0 | ::{ flag=DK }:: Denmark |
+| **Russian Federation** ::{ flag=RU }:: | **6** | 0 | ::{ flag=SE }:: Sweden |
+| **Peru** ::{ flag=PE }:: | **6** | 0 | ::{ flag=TW }:: Taiwan |
+| **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=EE }:: Estonia |
+| **Venezuela** ::{ flag=VE }:: | **6** | 0 | ::{ flag=MO }:: Macau |
+| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=US }:: United States |
+| **Japan** ::{ flag=JP }:: | **6** | 3 | ::{ flag=ID }:: Indonesia |
+| **Russian Federation** ::{ flag=RU }:: | **6** | 0 | ::{ flag=NZ }:: New Zealand |
+| **Philippines** ::{ flag=PH }:: | **6** | 2 | ::{ flag=HK }:: Hong Kong |
+| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=NL }:: Netherlands |
+| Venezuela ::{ flag=VE }:: | 4 | **6** | ::{ flag=DE }:: **Germany** |
+| **France** ::{ flag=FR }:: | **6** | 2 | ::{ flag=CA }:: Canada |
+| **Peru** ::{ flag=PE }:: | **6** | 2 | ::{ flag=ES }:: Spain |
+| **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=FR }:: France |
 
 Week summary.
 
