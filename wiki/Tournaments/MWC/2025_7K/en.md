@@ -114,10 +114,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=DE }:: Germany | [Feb 08 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T110000&p1=1440&p2=102&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Feb 08 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T130000&p1=1440&p2=108&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Feb 08 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T120000&p1=1440&p2=108&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Feb 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T150000&p1=1440&p2=122&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Feb 08 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T170000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Semifinals | showmatch | []() | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 9 February 2025
 
