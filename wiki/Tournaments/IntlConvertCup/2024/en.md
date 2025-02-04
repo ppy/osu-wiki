@@ -19,7 +19,7 @@ The **International Convert Cup 2024** (***ICC 2024***) was a double-elimination
 | Qualifiers | 2024-11-25/2024-12-01 |
 | Round of 32 | 2024-12-02/2024-12-08 |
 | Round of 16 | 2024-12-09/2024-12-15 |
-| *Winter break* | 2024-12-16/2024-12-29 | 
+| *Winter break* | 2024-12-16/2024-12-29 |
 | Quarterfinals | 2024-12-30/2023-01-05 |
 | Semifinals | 2025-01-06/2023-01-12 |
 | Finals (week 1) | 2025-01-13/2025-01-19 |
