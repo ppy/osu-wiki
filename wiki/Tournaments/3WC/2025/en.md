@@ -89,6 +89,25 @@ The 3 Digit World Cup 2025 is run by various community members.
 | ::{ flag=UA }:: | **Ukraine** | **[Ayla](https://osu.ppy.sh/users/4548264)**, [RafGPio](https://osu.ppy.sh/users/13705417), [sur1](https://osu.ppy.sh/users/13872859), [KING GG](https://osu.ppy.sh/users/9820878), [gusniki](https://osu.ppy.sh/users/9830628), [1Max](https://osu.ppy.sh/users/11653711) |
 | ::{ flag=US }:: | **United States** | **[tekkito](https://osu.ppy.sh/users/7075211)**, [Pezz](https://osu.ppy.sh/users/10651106), [EthantrixV2](https://osu.ppy.sh/users/10634348), [BoshyMan741](https://osu.ppy.sh/users/4830687), [\[C\]](https://osu.ppy.sh/users/7959945), [Flameztear](https://osu.ppy.sh/users/13207763) |
 
+## Mappools
+
+### Qualifiers
+
+- No Mod
+  1. [mirai akari - mirai to mirai (toybot) \[?\]](https://osu.ppy.sh/beatmapsets/2012939#osu/4188886)
+  2. [xi - Beatrice (Gordon) \[Solace\]](https://osu.ppy.sh/beatmapsets/1664961#osu/3398914)
+  3. [ZAQ - Minor Piece (Petal) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/2147857#osu/4524272)
+  4. [Rory in early 20s - used to it (Halgoh) \[Halgoh x Sharu Tridolon Cull\]](https://osu.ppy.sh/beatmapsets/2012001#osu/4186705)
+- Hidden
+  1. [paraoka feat. haru\*nya - Boot (attendant) \[Jounzan's Expert\]](https://osu.ppy.sh/beatmapsets/1649456#osu/3366726)
+  2. [Frog96 - Letter to the Black World (_Destiny) \[ar8 for pissbabies\]](https://osu.ppy.sh/beatmapsets/2098923#osu/4638573)
+- Hard Rock
+  1. [Camellia - Compute It With Some Devilish Alcoholic Steampunk Engines (DeRandom Otaku) \[Retrofuturism\]](https://osu.ppy.sh/beatmapsets/1280590#osu/2660097)
+  2. [Alice Schach and the Magic Orchestra - Give Me a Nightmare (Aeril) \[FUTURE+\]](https://osu.ppy.sh/beatmapsets/1569814#osu/3205652)
+- Double Time
+  1. [Mitchie M - Ageage Again (Natsu) \[captin's Insane\]](https://osu.ppy.sh/beatmapsets/220694#osu/516452)
+  2. [Yousei Teikoku - Infection (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/1897554#osu/3910916)
+
 ## Ruleset
 
 ### General
