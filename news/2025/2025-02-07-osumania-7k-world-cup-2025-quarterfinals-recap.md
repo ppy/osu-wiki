@@ -20,7 +20,7 @@ SurfChu + Yukina + Nerfox credit.
 
 ## Mappool recap
 
-**[Download the pool here! (XX MB)](https://osu.ppy.sh/beatmaps/packs/PACK_ID)**
+**[Download the pool here! (80 MB)](https://osu.ppy.sh/beatmaps/packs/P273)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID8&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
@@ -55,21 +55,10 @@ osu!originals
 
 Week summary.
 
-### ::{ flag=xx }:: COUNTRY vs. ::{ flag=xx }:: COUNTRY
+### ::{ flag=JP }:: Japan vs. ::{ flag=ID }:: Indonesia
 
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Highlights.
-
-### ::{ flag=xx }:: COUNTRY vs. ::{ flag=xx }:: COUNTRY
-
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/117034121)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2370422585)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
@@ -77,10 +66,10 @@ Highlights.
 
 Highlights.
 
-### ::{ flag=xx }:: COUNTRY vs. ::{ flag=xx }:: COUNTRY
+### ::{ flag=VE }:: Venezuela vs. ::{ flag=DE }:: Germany
 
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/117037473)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2370564283)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
