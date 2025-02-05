@@ -36,7 +36,7 @@ En date du 21 juillet 2024, sur [l'osu!catch performance rankings](https://osu.p
 
 ## ![][osu!mania] osu!mania
 
-En date du 13 avril 2023, sur [l'osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) le joueur #1 est ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+En date du 31 décembre 2024, sur [l'osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) le joueur #1 est ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

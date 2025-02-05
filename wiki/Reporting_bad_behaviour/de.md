@@ -1,4 +1,4 @@
-# Melden von schlechtem Verhalten
+# Schlechtes Verhalten melden
 
 osu! hat [ein Team von Moderatoren](/wiki/People/Global_Moderation_Team), die sich dem Sauberhalten und dem Schutz der Community verschrieben haben. Wenn dir regelbrechendes Verhalten oder anstößiger Inhalt auffällt, dann melde es über eine der unten beschriebenen Methoden. Alternativ darfst du auch einen der Moderatoren direkt ansprechen, sofern deine Meldung nicht in einem angemessenen Zeitraum bearbeitet wurde — mache dies nur als letzte Möglichkeit.
 
