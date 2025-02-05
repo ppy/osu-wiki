@@ -2,6 +2,8 @@
 tags:
   - pp committee
   - comité de pp
+outdated_translation: true
+outdated_since: 6aafc526068a3b650c6a7ec10c3dd133d13afdce
 ---
 
 # Comité de puntos de rendimiento
