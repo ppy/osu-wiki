@@ -20,6 +20,12 @@ SurfChu + Yukina + Nerfox credit.
 
 ## Mappool recap
 
+<style>
+    .osu-md--news .audio-player {
+        max-width: inherit;
+    }
+</style>
+
 **[Download the pool here! (80 MB)](https://osu.ppy.sh/beatmaps/packs/P273)**
 
 <div align="center" class="osu-md__paragraph">
@@ -30,7 +36,17 @@ SurfChu + Yukina + Nerfox credit.
 
 Mappool recap
 
-osu!originals
+---
+
+[![](/wiki/shared/news/2025-02-07-osumania-7k-world-cup-2025-quarterfinals-recap/Evolutionary_Anima_banner.jpg)](https://osu.ppy.sh/beatmapsets/2314344#mania/4952725)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/401/Songs/Akiri%20-%20Evolutionary%20Anima.mp3">
+    </audio>
+</div>
+
+Original summary.
 
 ## Quarterfinals summary
 
