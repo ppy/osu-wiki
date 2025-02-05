@@ -92,8 +92,6 @@ Highlights.
 
 SurfChu's score highlights.
 
-## Interview (If independent interview is done)
-
 ---
 
 Wiki + stream plugs.
