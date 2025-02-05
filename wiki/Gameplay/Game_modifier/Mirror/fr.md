@@ -3,6 +3,8 @@ stub: true
 tags:
   - mod
   - MR
+outdated_translation: true
+outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Le mod Mirror
