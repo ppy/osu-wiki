@@ -101,7 +101,11 @@ Highlights.
 
 ## Score highlights
 
-SurfChu's score highlights.
+We may not have had a long repertoire of memorable matches. Instead, we've got quite a few impressive scores to highlight coming from all teams! The next scores are only but a few of the highlights that this week had to offer:
+
+- [Ito Kanako - Tataeshi Tatakai no Uta](https://osu.ppy.sh/beatmapsets/2314259#mania/4952567) (RC3) saw three players hit the coveted 999k score. A feat easier said than done with Score V2! ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649) obtained a 58x300 run, ::{ flag=PE }:: [-luvv](https://osu.ppy.sh/users/23731514) got one less with 57x300, and ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) topped the weekend with 56x300. The consistency of these players is definitely something to admire.
+- [Monster Siren Records & Kirara Magic - Fu Da Huang](https://osu.ppy.sh/beatmapsets/2314248#mania/4952550) (LN4) may have not seen much action over the weekend, but we still witnessed a noodle masterclass from ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178) and ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) who obtained the only 990,000-point scores on the chart.
+- We'd also like to point the spotlight to ::{ flag=PH }:: [arcwinolivirus](https://osu.ppy.sh/users/2039089)' weekend-topping efforts courtesy of their 987,225-point full combo on [PASOCOM MUSIC CLUB feat. punipunidenki - i s o p h o t e](https://osu.ppy.sh/beatmapsets/2314588#mania/4953343) (HB2), and a 971,167 score run on [siromaru - Tsuzumi](https://osu.ppy.sh/beatmapsets/2314257#mania/4952564) (HB3).
 
 ---
 
