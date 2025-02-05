@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0ea790250344a95c352ee0241b94ddc44a06c5b0
+---
+
 # 竞赛
 
 本页面专门用来记录整个 osu! 社区举办的竞赛。
