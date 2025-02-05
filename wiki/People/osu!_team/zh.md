@@ -39,7 +39,7 @@ outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 摸图和作图领域顾问 |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web 开发者，[精选艺术家](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者 |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [管理员](/wiki/People/Global_Moderation_Team)，摸图和作图领域顾问 |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [管理员](/wiki/People/Global_Moderation_Team)，摸图和作图领域顾问 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube 频道](https://www.youtube.com/@osugame)主，[谱师工会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者，精选艺术家募集者 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 摸图和作图领域顾问 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [管理员](/wiki/People/Global_Moderation_Team)，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
