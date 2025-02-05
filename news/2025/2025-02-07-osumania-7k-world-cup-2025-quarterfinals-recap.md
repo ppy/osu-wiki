@@ -4,15 +4,15 @@ title: "osu!mania 7K World Cup 2025: Quarterfinals recap"
 date: 2025-02-07 12:00:00 +0000
 ---
 
-Eye catcher.
+Only a few weeks ahead of us remain! As our teams continue to fight for a chance to stay atop, let's us mourn this week's fallen heroes.
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
 
-Intro.
+As we get one week of respite considering how hectic previous rounds were, it is way too soon for players to relax. Even those who remain uncontested can't take a break! The mappools are only going to get harder and harder as we reach the end of the line. As such, we're starting to see the difference between the teams who were able to keep up the tournament's pace, versus those who are already struggling adjusting to these newfound challenges.
 
-Interview peek.
+Do expect things to heat up on the weeks to come! 12 very strong teams remain, ranging from seed #13 all the way up to #1. Not having had many upsets throughout the earlier rounds means that this is going to be a very stacked finale for the tournament. But enough about the future, let us recap last week's Quarterfinals!
 
-SurfChu + Yukina + Nerfox credit.
+Both [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) with their new assistant [Nerfox](https://osu.ppy.sh/users/7976724) have prepared yet another recap in video form for Quarterfinals! The best way to enjoy the recap while completing your favourite gacha game's dailies.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
