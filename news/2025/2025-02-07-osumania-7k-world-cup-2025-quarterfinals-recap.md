@@ -42,7 +42,7 @@ Mappool recap
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/401/Songs/Akiri%20-%20Evolutionary%20Anima.mp3">
+        <source src="https://assets.ppy.sh/artists/401/Songs/Akiri_-_Evolutionary_Anima.mp3">
     </audio>
 </div>
 
