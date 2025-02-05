@@ -193,6 +193,14 @@ The **Fan Art Contest** is a drawing contest where participating artists from th
 | [#31 (Spring 2022)](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) | A Place to Belong | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=NL }:: [utaaa](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Llamartist](https://osu.ppy.sh/users/14697690) | [#1](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results) | [#1](https://osu.ppy.sh/community/contests/142) |
 | [#32 (15th Anniversary Art Contest)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | osu! mascots exploring part of osu!'s history | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
 
+### Locus
+
+**Locus 2025** is a multi-layered contest launched in early 2025 to bring the creative circles on osu! closer together, where participants must create entirely original beatmaps complete with music and visuals.
+
+| Year | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [2025](/wiki/Contests/Locus/2025) | *TBD* | *TBD* | *TBD* | *TBD* |
+
 ### osu! Beatmap Blueprints Contest
 
 The *osu! Beatmap Blueprints Contest* is a one-off contest held in commemoration of the launch of [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) in the [osu!store](https://osu.ppy.sh/store/listing). In this contest, participating users competed to create the best blueprint of a beatmap in any visual medium using all the assets provided in the Beatmap Blueprints merchandise pack.
