@@ -43,8 +43,8 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 | Penyiar | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Hookseye](https://osu.ppy.sh/users/19030920), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) |
 | Wasit | ::{ flag=ID }:: [[ Friz ]](https://osu.ppy.sh/users/9382787), ::{ flag=ID }:: [[ Raiid ]](https://osu.ppy.sh/users/20037405), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [exvius](https://osu.ppy.sh/users/15822192), ::{ flag=ID }:: [FerryAnanda](https://osu.ppy.sh/users/20788796), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [My Angel Satori](https://osu.ppy.sh/users/15522414), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
 | Komentator | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
-| Desainer | ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [AuristelaVlyn](https://osu.ppy.sh/users/26772932), ::{ flag=ID }:: [Daput](https://osu.ppy.sh/users/10262909), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [vexule-](https://osu.ppy.sh/users/18215071) JANGAN LUPA NAMBAH CHAJI ENZOR DLL|
-| Komposer | NYUSUL |
+| Desainer | ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [AuristelaVlyn](https://osu.ppy.sh/users/26772932), ::{ flag=ID }:: [Daput](https://osu.ppy.sh/users/10262909), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [vexule-](https://osu.ppy.sh/users/18215071) |
+| Komposer | ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865) |
 | Sheeter | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
 | Editor Wiki | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Sponsor | NYUSUL |
@@ -181,7 +181,7 @@ belum beres turnamennya
 2. [Morimori Atsushi - Txxs or get the fxxk out!! [Kick some, what?]](https://osu.ppy.sh/b/4957744)
 3. [YOASOBI - UNDEAD [To feel alive again]](https://osu.ppy.sh/b/4963678)
 4. [Rahatt - Matusa Bomber [bom dia]](https://osu.ppy.sh/b/4957796)
-5. [lapix - Labyrinth (Cut Ver.) [Geng mafia elite]](https://osu.ppy.sh/b/4816184)
+5. [lapix - Labyrinth (Cut Ver.) [Xesar Harva]](https://osu.ppy.sh/b/4816184)
 6. [Yousei Teikoku - Autoscopy [Battlefield]](https://osu.ppy.sh/b/4894048)
 - LN
 1. [HyuN feat. Ms.Valentine - CROSS FATE [The Light of the Collapsing Afterimage | Insane]](https://osu.ppy.sh/b/4961444)
@@ -229,7 +229,7 @@ belum beres turnamennya
 2. [Chroma - sink to the deep sea world (FIFTH DREAM PARALLEL REMIX) (Cut Ver.) [serenity.]](https://osu.ppy.sh/b/4927147)
 3. [ISOxo - SKYLIT (Cut Ver.) [i'm up in the sky]](https://osu.ppy.sh/b/4919822)
 4. [KARUT - JACKPOT 777 [Gacor]](https://osu.ppy.sh/b/4692135)
-5. [Tanger - Firestarter [bagjettka's Blazing (OD8)]](https://osu.ppy.sh/b/4942972)
+5. [Tanger - Firestarter [bagjettka's Blazing (edit)]](https://osu.ppy.sh/b/4942972)
 - LN
 1. [Kep1er - Shooting Star [Ga1axy]](https://osu.ppy.sh/b/4854404)
 2. [PSYQUI - What Is Vibe [apa ya]](https://osu.ppy.sh/b/4829699)
