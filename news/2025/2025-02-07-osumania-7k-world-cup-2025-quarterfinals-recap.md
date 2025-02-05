@@ -69,7 +69,13 @@ Original summary.
 | **Peru** ::{ flag=PE }:: | **6** | 2 | ::{ flag=ES }:: Spain |
 | **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=FR }:: France |
 
-Week summary.
+If we were to compare this round's results to previous weeks, this has been one relatively calm round all things considered. Not to be mistaken with a lack of highlights — we've got plenty of those in store!
+
+With less than half of qualified teams remaining, this has been one hell of an inflection point for most of the remaining teams. It would either spell doom for those running on their second wind, or force higher seeded teams to gamble their chances and drop to a lower bracket.
+
+This was also the week were conditional matches were introduced. For some, this would mean requiring an extra effort just to get a chance to play for another week. Venezuela, Germany, Spain, France, Peru, and Chile were such teams. While unfortunately some didn't get to make it, all of them gave their all in the end.
+
+Let's jump right into this week's match highlights as there's still a lot of meat from this week's metaphorical bone to chew from!
 
 ### ::{ flag=JP }:: Japan vs. ::{ flag=ID }:: Indonesia
 
