@@ -1,3 +1,8 @@
+---
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
+outdated_translation: true
+---
+
 # osu! Alumni
 
 **osu! Alumni** oyuna yaptıkları katkılar tarafından bilinen oyunculardır. Eğer elimizde kaynak olsaydı her bir üyenin heykelini şehir meydanına dikerdik.
