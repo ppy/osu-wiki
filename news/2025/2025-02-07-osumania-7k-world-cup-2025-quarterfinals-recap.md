@@ -107,7 +107,17 @@ Indonesia is not out of the game however! They'll get a second chance next weeke
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights.
+One of the most exciting matches of the round had to be the duel between Venezuela (#12) and Germany (#13). With a negligible seed gap bwteen the two and with both teams risking losing their spot in the losers' bracket, it was to be expected that the match was going to be a fierce one. A battle you certainly won't want to miss!
+
+Germany opened the martch with a long note pick, that being [seatrus - Ataraxia (2020 Rework)](https://osu.ppy.sh/beatmapsets/2314245#mania/4952538) (LN3). This was quite a close win for Germany given their small lead of 6,117 points by the end of the map. Venezuela decided to answer back by picking a more full-flavoured map with [siromaru - Tsuzumi](https://osu.ppy.sh/beatmapsets/2314257#mania/4952564) (HB3). A mini tiebreaker-styled chart whose varied patterns rewarded Venezuela's more versatile players with a winning lead of 38,239 points, shifting the winds in their favour!
+
+Germany stayed true to their team's strengths and picked [YURRY CANON - Tsukuyomi Step (feat. nameless)](https://osu.ppy.sh/beatmapsets/2314243#mania/4952535) (LN2), where ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) promptly delivered with a groundbreaking full combo score of 988,634 points! This performance alone gave Germany a significant edge over their rivals, winning them an extra point with a margin of 30,381 points. After this point onwards, the match continued to swing back and forth between the two teams as they continued to pick and win their preferred maps. This all changed on the 6th pick, when Venezuela picked [Akiri - Evolutionary Anima](https://osu.ppy.sh/beatmapsets/2314344#mania/4952725) (RC5). Much to their dismay, Germany managed to pull ahead, awarding them with the match's first break point with a 2–4 lead over their rivals.
+
+Interestingly, every pick chosen by either team from this point onwards was won by the opposing side, in stark contrast with the first half of the match. Despite Germany reaching the match point after winning [Silentroom - Aliake (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2314239#mania/4952522) (RC1), Venezuela stood strong and won Germany's counterpick [69 de 74 - Grievous Fate](https://osu.ppy.sh/beatmapsets/2314385#mania/4952820) (RC6) after a much impressive double full combo from the hands of ::{ flag=VE }:: [sir aelay](https://osu.ppy.sh/users/12055954) and ::{ flag=VE }:: [xShyzDy](https://osu.ppy.sh/users/13545528), narrowing down Germany's lead down to 4–5.
+
+This was Venezuela's last chance at forcing a tiebreaker. After some much needed consideration, Venezuela chose to play [Sound piercer & ginkiha (feat. Yuzuha & NeLiME) - MI:LIGHT CONNECT](https://osu.ppy.sh/beatmapsets/2314240#mania/4952529) (RC2). This turned into quite an intense, nail-biting showdown, with the score lead constantly alternating between the two teams. But nerves got the best of team Venezuela, and after an impressive full combo from yet again ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261), team Germany emerged victorious from the match!
+
+Congratulations to Germany for advancing to the next round, and a big round of applause to Venezuela for their performance throughout the match and tournament alike! It is no easy feat to push Germany to their very limits till the very end despite being considered the underdogs. We hope to see them soon in the future even stronger than they were this year!
 
 ## Score highlights
 
