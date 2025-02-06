@@ -14,8 +14,8 @@ Mặc dù có vô số cách để khám phá các beatmap để mod, nhưng sau
 
   Người tạo queue sẽ quy định các quy tắc của queue, kiểm soát các beatmap nào có thể nhận mod. Các queue thường mở cho hai loại yêu cầu mod:
 
-    - **Mod thông thường (NM):** Một mod sẽ được cung cấp mà không yêu cầu công việc từ người tạo beatmap.
-    - **Mod đổi mod (M4M):** Một thỏa thuận yêu cầu mỗi người dùng mod beatmap của người kia.
+  - **Mod thông thường (NM):** Một mod sẽ được cung cấp mà không yêu cầu công việc từ người tạo beatmap.
+  - **Mod đổi mod (M4M):** Một thỏa thuận yêu cầu mỗi người dùng mod beatmap của người kia.
 
 - Các modder nổi tiếng thường ghi chú trên hồ sơ của họ về việc họ có chấp nhận yêu cầu mod hay không.
 
