@@ -34,7 +34,13 @@ Both [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu
 
 ![Quarterfinals mappool table](/wiki/shared/news/2025-02-07-osumania-7k-world-cup-2025-quarterfinals-recap/mappool.jpg)
 
-Mappool recap
+If this weeks scores are anything to go by, players must have been starting to feel the effects of the ever-increasing difficulty of the maps as we reach the latter half of the tournament! No wonder this is the case with some of this round's heavy hitters taking a toll on players who weren't able to keep up with the pace.
+
+Not only did we get a substantial bump in difficulty, but the pool's size was also increased! With a change of format to a Best of 11 instead of 9, two new maps alongside new categories were added to the pool. The first map to be introduced was [69 de 74 - Grievous Fate](https://osu.ppy.sh/beatmapsets/2314385#mania/4952820) (RC6) mapped by [Level 51](https://osu.ppy.sh/users/3617847), providing players with a new challenge in the form of fast chordstreams. The second and final addition was [Monster Siren Records & Kirara Magic - Fu Da Huang](https://osu.ppy.sh/beatmapsets/2314248#mania/4952550) (LN4) by [Muses](https://osu.ppy.sh/users/9705896) which brings back the LN coordination category previously held by LN1 in past years! A very divisive pick considering it was banned the most out of this week's pool, being banned 9 times across 16 different matches.
+
+We only got one returning [osu! original](/wiki/Community/Bespoke_music#official-tournament-releases) this weekend, coming from the hands of [_Stan](https://osu.ppy.sh/users/1653229) by mapping [Gram vs. DJ Genki - XIchedelic Nova Trinity](https://osu.ppy.sh/beatmapsets/2314398#mania/4952876) (HB1) which was once featured in the [osu! World Cup 2024](/wiki/Tournaments/OWC/2024) — the very last official tournament of 2024! A rather standard hybrid beatmap for those teams that could not commit to its trickier technical and mini-tiebreaker counterparts.
+
+As for this week's stand-outs, besides LN4 we got [PASOCOM MUSIC CLUB feat. punipunidenki - i s o p h o t e](https://osu.ppy.sh/beatmapsets/2314588#mania/4953343) (HB2) made by [lenpai](https://osu.ppy.sh/users/5314573) which was the most popular hybrid pick this week. The technical hybrid of the week provided players with a dump styled map akin to 4K maps. Its unique layering of the vocals managed to offer a challenging experience while being fun to play!
 
 ---
 
