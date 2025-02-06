@@ -58,7 +58,7 @@ The first osu! original to be debuted in this year's tournament was [Evolutionar
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_1ZbcT3e0tg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Handcrafted by [Maxus](https://osu.ppy.sh/users/4335785), the map — and song! — was purpose-made for the mixed rice category of this round's mappool. At 173 BPM, players were in for fast streams and jacks all over. That did not scare away the players however, as the map got picked a whole 10 times this weekend, making it a very popular pick all things considered! Let it be for its very fun gameplay or for its very catchy tunes, players were eager to give this map a shot in most of the matches that were played.
+Handcrafted by [Maxus](https://osu.ppy.sh/users/4335785) and [Critical_Star](https://osu.ppy.sh/users/3793196), the map — and song! — was purpose-made for the mixed rice category of this round's mappool. At 173 BPM, players were in for fast streams and jacks all over. That did not scare away the players however, as the map got picked a whole 10 times this weekend, making it a very popular pick all things considered! Let it be for its very fun gameplay or for its very catchy tunes, players were eager to give this map a shot in most of the matches that were played.
 
 ## Quarterfinals summary
 
