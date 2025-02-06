@@ -133,4 +133,4 @@ The show is not over yet folks! Keep a close watch on [osulive](https://www.twit
 
 Those who'd like to dig a bit deeper into this week's happenings, check out the [wiki article](/wiki/Tournaments/MWC/2025_7K) and the [spreadsheets](https://docs.google.com/spreadsheets/d/1AV9UcS9HFeGpWpzDteEOwG3Lm3mytW2iI8xLRYesqeA/edit?rm=minimal&gid=857504000#gid=857504000) to not miss out on any details. We'll see ourselves out, awaiting for next week's results. Make sure to get some popcorn ready to enjoy this weekend's matches to the fullest!
 
-—RandomeLoL
+—RandomeLoL, SurfChu85, Maxus, \[GB\]yobrevelc
