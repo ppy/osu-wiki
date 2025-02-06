@@ -46,7 +46,13 @@ Mappool recap
     </audio>
 </div>
 
-Original summary.
+The first osu! original to be debuted in this year's tournament was [Evolutionary Anima](https://osu.ppy.sh/beatmapsets/2314344#mania/4952725) (RC5) by [Akiri](https://osu.ppy.sh/beatmaps/artists/401). And to the surprise of many, this was not the tiebreaker!
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_1ZbcT3e0tg" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Handcrafted by [Maxus](https://osu.ppy.sh/users/4335785), the map — and song! — was purpose-made for the mixed rice category of this round's mappool. At 173 BPM, players were in for fast streams and jacks all over. That did not scare away the players however, as the map got picked a whole 10 times this weekend, making it a very popular pick all things considered! Let it be for its very fun gameplay or for its very catchy tunes, players were eager to give this map a shot in most of the matches that were played.
 
 ## Quarterfinals summary
 
