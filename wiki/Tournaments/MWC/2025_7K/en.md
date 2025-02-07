@@ -114,8 +114,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Feb 08 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T120000&p1=1440&p2=108&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Feb 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T150000&p1=1440&p2=122&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Feb 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T150000&p1=1440&p2=263&p3=131) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| BIG MAXUS | ET BLOCKO | [Feb 08 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Feb 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T150000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 9 February 2025
 
@@ -123,11 +123,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | --: | :-- | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=JP }:: Japan | [Feb 09 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T090000&p1=1440&p2=235&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=MY }:: Malaysia | [Feb 09 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T100000&p1=1440&p2=108&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Feb 09 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T120000&p1=1440&p2=108&p3=232) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 09 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T120000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=DE }:: Germany | [Feb 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T140000&p1=1440&p2=102&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Feb 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T140000&p1=1440&p2=166&p3=122) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=166&p3=232) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=US }:: United States | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=102&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=PE }:: Peru | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=102&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=US }:: United States | [Feb 09 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T170000&p1=1440&p2=37&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
@@ -243,6 +241,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 8. [seatrus - Hekikuu no Yakusoku (Critical\_Star) \[Stage 8: Azure\]](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 8 February 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Malaysia** ::{ flag=MY }:: | **6** | -1 | ::{ flag=CL }:: Chile | *win by default* |  |
 
 ### Quarterfinals
 
@@ -530,6 +536,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
+[^showmatch]: Mappooling team showmatch
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
