@@ -15,7 +15,7 @@ Do expect things to heat up in the weeks to come! 12 very strong teams remain, r
 Both [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) with their new assistant [Nerfox](https://osu.ppy.sh/users/7976724) have prepared yet another recap in video form for Quarterfinals! This might be the best way to enjoy the recap while completing your favourite gacha game's dailies.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dWqetIGpGOk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
@@ -93,7 +93,7 @@ With all the background out of the way, let's get into the meat of this recap (t
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2370422585)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dWqetIGpGOk?start=645&end=749" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Japan (#4) versus Indonesia (#5) was bound to be a match between two titans fighting for their spot in the winners' bracket. Japan is well known for their strong rice skill thanks to ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007). With their returning teammates, ::{ flag=JP }:: [Suzuha_l](https://osu.ppy.sh/users/6132697) and ::{ flag=JP }:: [[ misa ]](https://osu.ppy.sh/users/10011429), this made for an overall more balanced team as opposed to their opponents. Indonesia on the other hand has very strong LN players, courtesy of ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684) being a force to be reckoned with throughout this tournament's history. With the help of ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055) and ::{ flag=ID }:: [[ -Asriel- ]](https://osu.ppy.sh/users/11829623) alongside ::{ flag=ID }:: [RaffCo](https://osu.ppy.sh/users/7589503)'s consistency on rice sets, this made Indonesia yet another fairly well-balanced team. Given each team's strengths, this would be a match where hybrid maps would play a key role in their success.
@@ -114,7 +114,7 @@ Indonesia is not out of the game however! They'll get a second chance next weeke
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2370564283)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dWqetIGpGOk?start=962&end=1137" frameborder="0" allowfullscreen></iframe>
 </div>
 
 One of the most exciting matches of the round had to be the duel between Venezuela (#12) and Germany (#13). With a negligible seed gap between the two, and with both teams risking losing their spot in the losers' bracket, we couldn't have expected anything but a fierce match, and certainly not a battle you'd want to miss!
