@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup 2025: Quarterfinals recap"
+title: "osu!mania 7K World Cup 2025: Quarterfinals Recap"
 date: 2025-02-07 12:00:00 +0000
 ---
 
@@ -29,14 +29,16 @@ Both [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu
 **[Download the pool here! (80 MB)](https://osu.ppy.sh/beatmaps/packs/P273)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID8&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2364500525&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![Quarterfinals mappool table](/wiki/shared/news/2025-02-07-osumania-7k-world-cup-2025-quarterfinals-recap/mappool.jpg)
 
 If this week's scores are anything to go by, players must have been starting to feel the effects of the ever-increasing difficulty of the maps as we reach the latter half of the tournament! No wonder this is the case with some of this round's heavy hitters taking a toll on players who weren't able to keep up with the pace.
 
-Not only did we get a substantial bump in difficulty, but the pool's size was also increased! With a change of format to a Best of 11 instead of 9, two new maps alongside new categories were added to the pool. The first map to be introduced was [69 de 74 - Grievous Fate](https://osu.ppy.sh/beatmapsets/2314385#mania/4952820) (RC6) mapped by [Level 51](https://osu.ppy.sh/users/3617847), providing players with a new challenge in the form of fast chordstreams. The second and final addition was [Monster Siren Records & Kirara Magic - Fu Da Huang](https://osu.ppy.sh/beatmapsets/2314248#mania/4952550) (LN4) by [Muses](https://osu.ppy.sh/users/9705896) which brings back the LN coordination category previously held by LN1 in past years! A very divisive pick considering it was banned the most out of this week's pool, that is 9 times across 16 different matches.
+Not only did we get a substantial bump in difficulty, but the pool's size was also increased! With a change of format to a best of 11 instead of 9, two new maps alongside new categories were added to the pool.
+
+The first map to be introduced was [69 de 74 - Grievous Fate](https://osu.ppy.sh/beatmapsets/2314385#mania/4952820) (RC6) mapped by [Level 51](https://osu.ppy.sh/users/3617847), providing players with a new challenge in the form of fast chordstreams. The second and final addition was [Monster Siren Records & Kirara Magic - Fu Da Huang](https://osu.ppy.sh/beatmapsets/2314248#mania/4952550) (LN4) by [Muses](https://osu.ppy.sh/users/9705896) which brings back the LN coordination category previously held by LN1 in past years! A very divisive pick considering it was banned the most out of this week's pool, that is 9 times across 16 different matches.
 
 We only got one returning [osu! original](/wiki/Community/Bespoke_music#official-tournament-releases) this weekend, coming from the hands of [_Stan](https://osu.ppy.sh/users/1653229) by mapping [Gram vs. DJ Genki - XIchedelic Nova Trinity](https://osu.ppy.sh/beatmapsets/2314398#mania/4952876) (HB1) which was once featured in the [osu! World Cup 2024](/wiki/Tournaments/OWC/2024) — the very last official tournament of 2024! This osu!mania rendition came to be a rather standard hybrid beatmap for those teams that could not commit to its trickier technical and mini-tiebreaker counterparts.
 
@@ -81,7 +83,7 @@ If we were to compare this round's results to previous weeks, it'd become clear 
 
 With less than half of qualified teams remaining, this has been one hell of an inflection point for most of the remaining teams. It would either spell doom for those running on their second wind, or force higher-seeded teams to take their chances and drop to a lower bracket.
 
-This was also the week were conditional matches were introduced. For some, this would mean requiring an extra effort just to get a chance to play for another week. Venezuela, Germany, Spain, France, Peru, and Chile were such teams. While unfortunately some didn't make it, all of them gave their all in the end.
+This was also the week where conditional matches were introduced. For some, this would mean requiring an extra effort just to get a chance to play for another week. Venezuela, Germany, Spain, France, Peru, and Chile were such teams. While unfortunately some didn't make it, all of them gave their all in the end.
 
 With all the background out of the way, let's get into the meat of this recap (the match highlights).
 
@@ -94,7 +96,7 @@ With all the background out of the way, let's get into the meat of this recap (t
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Japan (#4) versus Indonesia (#5) was bound to be a match between two titans fighting for their spot in the winners' bracket. Japan is well-known for their strong rice skill thanks to ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007). With their newfound teammates, ::{ flag=JP }:: [Suzuha_l](https://osu.ppy.sh/users/6132697) and ::{ flag=JP }:: [[ misa ]](https://osu.ppy.sh/users/10011429), this made for a very well balanced team. Indonesia on the other hand has very strong LN players, courtesy of ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684) being a force to be reckoned with throughout this tournament's history. With the help of ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055) and ::{ flag=ID }:: [[ -Asriel- ]](https://osu.ppy.sh/users/11829623) on rice sets, this made Indonesia yet another fairly well balanced team. Given each team's strengths, this would be a match where hybrid maps would play a key role in their success.
+Japan (#4) versus Indonesia (#5) was bound to be a match between two titans fighting for their spot in the winners' bracket. Japan is well known for their strong rice skill thanks to ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007). With their newfound teammates, ::{ flag=JP }:: [Suzuha_l](https://osu.ppy.sh/users/6132697) and ::{ flag=JP }:: [[ misa ]](https://osu.ppy.sh/users/10011429), this made for a very well-balanced team. Indonesia on the other hand has very strong LN players, courtesy of ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684) being a force to be reckoned with throughout this tournament's history. With the help of ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055) and ::{ flag=ID }:: [[ -Asriel- ]](https://osu.ppy.sh/users/11829623) on rice sets, this made Indonesia yet another fairly well-balanced team. Given each team's strengths, this would be a match where hybrid maps would play a key role in their success.
 
 It should not be a surprise that Japan chose to protect [Ito Kanako - Tataeshi Tatakai no Uta](https://osu.ppy.sh/beatmapsets/2314259#mania/4952567) (RC3), whereas Indonesia protected [Monster Siren Records & Kirara Magic - Fu Da Huang](https://osu.ppy.sh/beatmapsets/2314248#mania/4952550) (LN4), with Indonesia banning [Sound piercer & ginkiha (feat. Yuzuha & NeLiME) - MI:LIGHT CONNECT](https://osu.ppy.sh/beatmapsets/2314240#mania/4952529) (RC2) and Japan banning the very opposite by choosing [YURRY CANON - Tsukuyomi Step (feat. nameless)](https://osu.ppy.sh/beatmapsets/2314243#mania/4952535) (LN2). With Japan starting the match with RC3 and winning with no less than the best team score on said map, and Indonesia following up with LN3, the signature strengths of both teams were at full display. They were not going to hold back any punches!
 
@@ -115,7 +117,7 @@ Indonesia is not out of the game however! They'll get a second chance next weeke
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-One of the most exciting matches of the round had to be the duel between Venezuela (#12) and Germany (#13). With a negligible seed gap bewteen the two and with both teams risking losing their spot in the losers' bracket, we couldn't have expected anything but a fierce match, and certainly not a battle you'd want to miss!
+One of the most exciting matches of the round had to be the duel between Venezuela (#12) and Germany (#13). With a negligible seed gap between the two, and with both teams risking losing their spot in the losers' bracket, we couldn't have expected anything but a fierce match, and certainly not a battle you'd want to miss!
 
 Germany opened the match with a long note pick: [seatrus - Ataraxia (2020 Rework)](https://osu.ppy.sh/beatmapsets/2314245#mania/4952538) (LN3). This was quite a close win for Germany given their small lead of 6,117 points by the end of the map. Venezuela decided to answer back by picking a more full-flavoured map with [siromaru - Tsuzumi](https://osu.ppy.sh/beatmapsets/2314257#mania/4952564) (HB3), a tiebreaker-styled chart whose varied patterns rewarded Venezuela's more versatile players with a winning lead of 38,239 points, shifting the winds in their favour!
 
@@ -137,8 +139,8 @@ We may not have had a large repertoire of memorable matches. Instead, we've got 
 
 ---
 
-The show is not over yet folks! Keep a close watch on [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to make sure you don't miss out on the fun. As briefly mentioned in the introduction, we've got some good matches to look forward to in the upcoming weeks: a battle between all remaining heavyweights!
+The show is not over yet folks! Keep a close watch on [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to make sure you don't miss out on the fun. As briefly mentioned in the introduction, we've got some good matches to look forward to in the upcoming weeks — a battle between all remaining heavyweights!
 
-Those who'd like to dig a bit deeper into this week's happenings, check out the [wiki article](/wiki/Tournaments/MWC/2025_7K) and [this week's statistics spreadsheet](https://docs.google.com/spreadsheets/d/1AV9UcS9HFeGpWpzDteEOwG3Lm3mytW2iI8xLRYesqeA/edit?rm=minimal) to not miss out on any details. We'll see ourselves out, awaiting for next week's results. Make sure to get some popcorn ready to enjoy the weekend's matches to the fullest!
+Those who'd like to dig a bit deeper into this week's happenings, check out the [wiki article](/wiki/Tournaments/MWC/2025_7K) and [this week's statistics spreadsheet](https://docs.google.com/spreadsheets/d/1AV9UcS9HFeGpWpzDteEOwG3Lm3mytW2iI8xLRYesqeA/edit?rm=minimal) to not miss out on any details. We'll see ourselves out, awaiting next week's results. Make sure to get some popcorn ready to enjoy the weekend's matches to the fullest!
 
 —RandomeLoL, SurfChu85, Maxus, \[GB\]yobrevelc
