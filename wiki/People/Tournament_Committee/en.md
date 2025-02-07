@@ -148,7 +148,6 @@ Tournament Committee members are granted the following benefits:
 
 ## Tournament Committee Members
 
-- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
@@ -169,6 +168,7 @@ Tournament Committee members are granted the following benefits:
 
 ## Alumni
 
+- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)

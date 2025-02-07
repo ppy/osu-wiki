@@ -27,7 +27,7 @@ Zusätzlich zur Gruppenzugehörigkeit, die durch Gruppenabzeichen gekennzeichnet
 
 ### Moderation
 
-*Siehe auch: [Melden von schlechtem Verhalten § Forum](/wiki/Reporting_bad_behaviour#forum)*
+*Siehe auch: [Schlechtes Verhalten melden § Forum](/wiki/Reporting_bad_behaviour#forum)*
 
 [Moderatoren](/wiki/People/Global_Moderation_Team) sind Benutzer, die die Foren sauber und angemessen halten und sich um diesbezügliche Bedenken kümmern. Moderatoren können unangebrachte Beiträge oder Themen bearbeiten bzw. löschen, Themen anpinnen und sie zwischen verschiedenen Foren verschieben. Des Weiteren können sie Missetäter durch eine [Stummschaltung](/wiki/Silence) temporär daran hindern, Beiträge zu teilen.
 

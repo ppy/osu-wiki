@@ -14,10 +14,10 @@ tags:
 
 ![Easy mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
 
-*![][osu!]: Larger circles, more forgiving HP drain, less accuracy required, and three lives!*\
-*![][osu!taiko]: Beats move slower, and less accuracy required!*\
-*![][osu!catch]: Larger fruits, more forgiving HP drain, less accuracy required, and three lives!*\
-*![][osu!mania]: More forgiving HP drain, less accuracy, and three lives!*
+*![][osu!] Larger circles, more forgiving HP drain, less accuracy required, and three lives!*\
+*![][osu!taiko] Beats move slower, and less accuracy required!*\
+*![][osu!catch] Larger fruits, more forgiving HP drain, less accuracy required, and three lives!*\
+*![][osu!mania] More forgiving HP drain, less accuracy, and three lives!*
 
 |  |  |
 | :-- | :-- |
@@ -35,7 +35,13 @@ tags:
 *For the osu!stable version of this article, see: [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Easy** mod attempts to make the gameplay on any [beatmap](/wiki/Beatmap) played easier by halving each difficulty setting. In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the mod gives two extra lives in case the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, which instead refills it instantly.
+
+## Customisation
+
+![Easy customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.jpg)
+
+- **Extra Lives** (0–10, default 2): The number of extra lives when starting a beatmap.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

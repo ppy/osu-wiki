@@ -39,7 +39,7 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 [Mode permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Objek permainan](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Objek permainan](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Mod (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
