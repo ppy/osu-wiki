@@ -12,9 +12,7 @@ tags:
 
 Hit circles are customisable through [skins](/wiki/Skin), allowing players to modify their appearance. 
 
-## In osu!
-
-In osu!, hit circles are numbered to indicate their order in a combo. Each hit circle is surrounded by an [approach circles](/wiki/Gameplay/Hit_object/Approach_circle), which shrink around it. Once the approach circle overlaps the hit circle, the player must click on/tap the hit cirlce to earn score. Missing this timing results in a lower score based on the timing gap, interrupt the combo and reduces the player's health.
+Hit circles are numbered to indicate their order in a combo. Each hit circle is surrounded by an [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) that shrinks around it. Once the approach circle overlaps the hit circle, the player must click or tap the hit circle to earn score. Missing this timing results in a lower score based on how far off the hit was, potentially breaking the combo and reducing the player's health.
 
 ![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit circles")
 
