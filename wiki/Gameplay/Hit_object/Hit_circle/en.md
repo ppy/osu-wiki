@@ -18,12 +18,6 @@ In osu!, hit circles are numbered to indicate their order in a combo. Each hit c
 
 ![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit circles")
 
-## In osu!taiko
-
-In osu!taiko, hit circles appear from right-to-left as either red or blue notes (Don or Katu). As hit circles approach and line up with the white [judgement](/wiki/Gameplay/Judgement) circle the correct key(s) must be pressed to gain score.
-
-![Taiko hit circles](/wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit circles")
-
 <!-- TODO: Include Skinnable Property-->
 
 <!-- TODO: Add links and images-->
