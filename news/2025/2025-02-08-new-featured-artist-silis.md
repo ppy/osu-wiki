@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: SiLiS"
-date: 2025-02-08 16:00:00 +0000
+date: 2025-02-08 15:45:00 +0000
 ---
 
 Anyone who's paid attention to tournaments throughout the last few years has probably heard of **SiLiS**, our latest Featured Artist!
