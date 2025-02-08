@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: eb2c42138f41cdab7375296ad1aa5114cd1bf160
+outdated_since: 5869ad4dd35ba5fc8f219daf56ba26c49dca418d
 tags:
   - badge
   - badges
@@ -17,7 +17,7 @@ tags:
 
 El [osu! team](/wiki/People/osu!_team) dirige un programa en el que puede optar por proporcionar un soporte extra a los torneos organizados por la comunidad que cumplan una serie de criterios y expectativas, según su criterio.
 
-Este artículo se actualizó por última vez el 12 de noviembre de 2024. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Este artículo se actualizó por última vez el 13 de diciembre de 2024. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Beneficios
 
@@ -130,7 +130,8 @@ El filtrado de los jugadores registrados, que no debe confundirse con el [proces
 
 Además de las expectativas para los programas mencionados anteriormente, las herramientas o sistemas usados para filtrar las inscripciones o agrupar a los jugadores también deben cumplir las siguientes prácticas:
 
-- Si se usa un conjunto de datos, debe estar actualizado, a disposición del público y descargable. La documentación debe explicar cómo recrear el conjunto de datos y reproducir los resultados con él, incluyendo el código cuando sea necesario.
+- Si se usa un conjunto de datos de partidas multijugador de osu!, puntuaciones de jugadores o cualquier otra cosa, los archivos deben estar a disposición del público, ser descargables, tener fecha y hora, y que el archivo más reciente no tenga más de 30 días de antigüedad. Los archivos deben estar disponibles durante al menos 6 meses. La documentación debe explicar cómo recrear el conjunto de datos y reproducir los resultados con él, incluyendo el código cuando sea necesario.
+  - Los torneos que usen dichas herramientas deberán revelar las fechas en las que formaron a los cabezas de serie y/o filtraron a los jugadores usando estas herramientas.
 - Cuando se realicen las clasificatorias, la fórmula o método usado para determinar los cabezas de serie debe incluirse en el reglamento del torneo.
 
 Un tercero debería poder obtener los mismos resultados sin necesidad de información adicional. Está estrictamente prohibido filtrar manualmente a los jugadores o ajustar sus semillas.

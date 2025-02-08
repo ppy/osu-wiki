@@ -7,14 +7,13 @@ tags:
   - SD
   - 模组
   - 游戏模组
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Sudden Death（模组）
 
 ![SD 模组图标](/wiki/shared/mods/SD.png "Sudden Death (SD) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Sudden Death（lazer 模组）](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *另见：[Perfect（模组）](/wiki/Gameplay/Game_modifier/Perfect)*
 
