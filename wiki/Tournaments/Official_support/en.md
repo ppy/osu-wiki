@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on November 12, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on February 7, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -124,7 +124,8 @@ Registrant filtering, not to be confused with [screening](#tournament-screening)
 
 In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
 
-- If a dataset is used, it must be up to date, publicly available and downloadable. Documentation must be provided explaining how to recreate the dataset and reproduce the results using it — including code where applicable.
+- If a dataset of osu! multiplayer matches, player scores, or otherwise is used, archives must be publicly available, downloadable, timestamped, and have the most recent archive be no more than 30 days out of date. Archives must remain available for at least 6 months. Documentation must be provided explaining how to reproduce the results using it — including code where applicable.
+  - Tournaments using such tools must disclose the dates at which they seed and/or filter players using these tools.
 - When doing qualifiers, the formula or method used to determine seeding must be included in the tournament's ruleset.
 
 A third party should be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
@@ -197,7 +198,7 @@ Only players who are participating in the tournament **or** would be likely subs
 
 ### Profile badges
 
-Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. Profile badge prizes must be requested at most two months after tournament completion. **Badges will never be approved until after the conclusion of the tournament.**
+Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. We highly recommend requesting profile badge prizes as soon as possible after tournament completion, as this will benefit the [review process](/wiki/People/Tournament_Committee#tournament-review). **Badges will never be approved until after the conclusion of the tournament.**
 
 Profile badge images must adhere to the following standards:
 

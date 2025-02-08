@@ -16,7 +16,7 @@ A *slider* is a [hit object](/wiki/Gameplay/Hit_object) in [osu!](/wiki/Game_mod
 
 ## Editor
 
-Sliders can be created in the [beatmap editor](/wiki/Client/Beatmap_editor) by selecting the Slider icon from the selection menu on the left, and clicking once on the playfield. This will create a sliderhead in the selected position. Moving the cursor will show a preview of how the slider will look if it is finished in the current spot. Slider anchors can now be placed to manipulate the path of the sliderbody. To curve a slider, place a slider anchor by left-clicking anywhere on the playfield. To create sharp angles double-click instead. This will create a red slider anchor. Once the slider is placed as desired, right-click to end it.
+Sliders can be created in the [beatmap editor](/wiki/Client/Beatmap_editor) by selecting the Slider icon from the selection menu on the left, and clicking once on the playfield. This will create a sliderhead in the selected position. Moving the cursor will show a preview of how the slider will look if it is finished in the current spot. Slider anchors can now be placed to manipulate the path of the sliderbody. To curve a slider, place a slider anchor by left-clicking anywhere on the playfield. To create sharp angles, double-click instead. This will create a red slider anchor. Once the slider is placed as desired, right-click to end it.
 
 It is possible to move/add/remove slider control points after the slider is finished. Remove control points by right clicking them after the slider has been selected, or add a control point by holding `Ctrl` and clicking anywhere inside the slider(double click, or hold `Ctrl` and click a control point to make it red). Sliders can also be reversed by clicking and dragging the slidertail in the timeline.<!-- TODO: Insert curve types/algorithm in here maybe-->
 
@@ -30,7 +30,7 @@ To change a slider's volume mid-slider, the current sampleset has to be changed 
 
 ## Slider techniques
 
-Sliders are often mapped to long or held sounds in music, but can be used anywhere as long as there is rhythm to support it. Sliders are used to make reading intuitive when songs have rhythm-changes since slidertails give feedback but are played passively. Sliders are also used to simplify rhythm on easier difficulties.
+Sliders are often mapped to long or held sounds in music, but can be used anywhere as long as there is rhythm to support it. Sliders are used to make reading intuitive when songs have rhythm changes, since slidertails give feedback but are played passively. Sliders are also used to simplify rhythm on easier difficulties.
 
 <!-- TODO: Include Skinnable Property-->
 
