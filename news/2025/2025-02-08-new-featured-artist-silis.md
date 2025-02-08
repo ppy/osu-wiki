@@ -18,7 +18,7 @@ See what's in store for yourself:
 
 ### [takehirotei & SiLiS - WATAGASHI RUSH](https://assets.ppy.sh/artists/434/Songs/takehirotei__SiLiS_-_WATAGASHI_RUSH.osz)
 
-Attendees at [KEL LAN Tournament 3](https://osu.ppy.sh/home/news/2024-11-18-kel-lan-tournament-3-signups-now-open) were the first to learn that **SiLiS** was a Featured Artist! [WATAGASHI RUSH](https://osu.ppy.sh/beatmapsets/2320691) was mapped by [netnesanya](https://osu.ppy.sh/users/6017901) specifically for the tournament:
+Attendees at [KEL LAN Tournament 3](https://osu.ppy.sh/home/news/2024-11-18-kel-lan-tournament-3-signups-now-open) were the first to learn that **SiLiS** was a Featured Artist! [WATAGASHI RUSH](https://osu.ppy.sh/beatmapsets/2320691) was mapped by [netnesanya](https://osu.ppy.sh/users/6017901) and [Kyairie](https://osu.ppy.sh/users/10910405) specifically for the tournament:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
