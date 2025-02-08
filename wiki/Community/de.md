@@ -20,7 +20,7 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 - [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 
-## Events
+## Initiativen
 
 - [osu! Community Meetings](/wiki/Community/osu!_community_meetings)
 - [osu! Talk-Event](/wiki/Community/osu!_Talk_Event)
