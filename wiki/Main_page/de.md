@@ -98,7 +98,7 @@ Eine aktive Community ist eines der Dinge, die osu! voranbringen. Entdecke die A
 
 Orte: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord-Server](/wiki/Community/Discord_servers)
 
-Events: [Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
+Initiativen: [Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 
 [Projekte](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly)
 
