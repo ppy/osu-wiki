@@ -1,6 +1,6 @@
 # Im lặng 
 
-**Im lặng** là thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [Nhóm điều hành toàn Cầu](/wiki/People/Global_Moderation_Team) và [Nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường sạch sẽ, cả trên trang web lẫn trong game.
+**Im lặng** là một thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [nhóm điều hành toàn Cầu](/wiki/People/Global_Moderation_Team) và [nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường sạch sẽ, cả trên trang web lẫn trong game.
 
 ## Những hạn chế 
 
@@ -54,7 +54,7 @@ Lệnh cấm im lặng cũng có thể được áp dụng đối với người
 
 ## Kháng cáo
 
-Trong khi các hình thức im lặng được áp dụng để duy trì một môi trường cộng đồng tích cực, đôi khi lỗi cũng có thể xảy ra. Nếu bạn tin rằng hình thức im lặng áp dụng cho bạn là một lỗi hoặc không công bằng, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#accounts@ppy.sh) tại [accounts@ppy.sh](mailto:accounts@ppy.sh) và giải thích tình huống.
+Trong khi các hình thức im lặng được áp dụng để duy trì một môi trường cộng đồng tích cực, đôi khi lỗi cũng có thể xảy ra. Nếu bạn tin rằng hình thức im lặng áp dụng cho bạn là lỗi hoặc không công bằng, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#accounts@ppy.sh) tại [accounts@ppy.sh](mailto:accounts@ppy.sh) và giải thích tình huống.
 
 Hãy nhớ rằng bạn bắt buộc sử dụng địa chỉ email liên quan với tài khoản osu! của bạn và đề cập đến tên người dùng của bạn để xác nhận đó là bạn.
 
