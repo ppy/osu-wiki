@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
----
-
 # Freischaltungsanforderungen für Dedication Medaillen
 
 ## osu!
@@ -40,3 +35,11 @@ outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
 | 400.000 Keys | Treffe insgesamt 400.000 Tasten in osu!mania. | Four hundred thousand and still not even close. |
 | 4.000.000 Keys | Treffe insgesamt 4.000.000 Tasten in osu!mania. | Is this the end of the rainbow? |
 | 40.000.000 Keys | Treffe insgesamt 40.000.000 Tasten in osu!mania. | When someone asks which keys you play, the answer is now 'yes'. |
+
+## Tägliche Herausforderung
+
+| Medaillenname | Anforderung | Beschreibung |
+| :-- | :-- | :-- |
+| Daily Sprout | Erreiche eine 1-tägige Serie in [Tägliche Herausforderung](/wiki/Gameplay/Daily_challenge). | Ready for anything. |
+| Weekly Sapling | Erreiche eine 7-tägige Serie in [Tägliche Herausforderung](/wiki/Gameplay/Daily_challenge). | Circadian rhythm calibrated. |
+| Monthly Shrub | Erreiche eine 30-tägige Serie in [Tägliche Herausforderung](/wiki/Gameplay/Daily_challenge). | In for the grind. |
