@@ -8,7 +8,7 @@ Anyone who's paid attention to tournaments throughout the last few years has pro
 
 ![](/wiki/shared/news/2025-02-08-new-featured-artist-silis/header.jpg)
 
-With a decade of experience arranging music for concerts and performing in local Chinese Orchestra groups, **SiLiS** has transferred his knowledge to the realm of rhythm game music production, having produced an ever-growing collection of [bespoke music](/wiki/en/Community/Bespoke_music) for osu!.
+With a decade of experience arranging music for concerts and performing in local Chinese Orchestra groups, **SiLiS** has transferred his knowledge to the realm of rhythm game music production, having produced an ever-growing collection of [bespoke music](/wiki/Community/Bespoke_music) for osu!.
 
 The Ranked section is no stranger to **SiLiS**'s work either, with maps like [Reminiscing Onward](https://osu.ppy.sh/beatmapsets/2241960), [GAME MAKE OVER](https://osu.ppy.sh/beatmapsets/2123356), and [Isekai Magistrate](https://osu.ppy.sh/beatmapsets/2262171) showcasing his talent.
 
