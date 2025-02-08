@@ -2146,3 +2146,7 @@ community/discord_servers/osu!_university: Community/Discord_servers#gameplay
 community/discord_servers/osu!taiko_modding_&_mapping_hub: Community/Discord_servers#mapping-and-modding
 community/discord_servers/osu!catch_modding_&_mapping_hub: Community/Discord_servers#mapping-and-modding
 community/discord_servers/osu!mania_modding_&_mapping_hub: Community/Discord_servers#mapping-and-modding
+
+gameplay/hit_object/slider/reverse_slider: Gameplay/Hit_object/Slider/Repeat_slider
+
+osu!_originals: Community/Bespoke_music

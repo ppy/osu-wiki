@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - GMT
   - moderator
@@ -19,7 +21,7 @@ Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Admi
 
 ## Rollen und Verantwortlichkeiten
 
-*Siehe auch: [Melden von schlechtem Verhalten](/wiki/Reporting_bad_behaviour)*
+*Siehe auch: [Schlechtes Verhalten melden](/wiki/Reporting_bad_behaviour)*
 
 Das globale Moderationsteam ist für das Wohlergehen des Chats und Forums zuständig und kümmert sich um reibungslose Interaktionen innerhalb der Community. Das GMT kann bei allen Fragen zu Moderationsthemen angesprochen werden. Dazu gehören beispielsweise:
 

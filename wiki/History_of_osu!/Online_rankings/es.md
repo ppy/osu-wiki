@@ -34,7 +34,7 @@ A partir del 21 de julio de 2024, en la [clasificación de rendimiento de osu!ca
 
 ## ![][osu!mania] osu!mania
 
-A partir del 13 de abril de 2023, en la [clasificación de rendimiento de osu!mania](https://osu.ppy.sh/rankings/mania/performance) el jugador en el puesto #1 es ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+A partir del 31 de diciembre de 2024, en la [clasificación de rendimiento de osu!mania](https://osu.ppy.sh/rankings/mania/performance) el jugador en el puesto #1 es ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
