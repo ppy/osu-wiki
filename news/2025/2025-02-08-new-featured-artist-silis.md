@@ -6,7 +6,7 @@ date: 2025-02-08 15:55:00 +0000
 
 Anyone who's paid attention to tournaments throughout the last few years has probably heard of **SiLiS**, our latest Featured Artist!
 
-![](/wiki/shared/news/2025-02-08-new-featured-artist-silis/header.jpg)
+![](/wiki/shared/news/2025-02-08-new-featured-artist-silis/header.jpg?1)
 
 With a decade of experience arranging music for concerts and performing in local Chinese Orchestra groups, **SiLiS** has transferred his knowledge to the realm of rhythm game music production, having produced an ever-growing collection of [bespoke music](/wiki/Community/Bespoke_music) for osu!.
 
