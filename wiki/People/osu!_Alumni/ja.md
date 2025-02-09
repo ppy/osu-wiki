@@ -1,3 +1,8 @@
+---
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
+outdated_translation: true
+---
+
 # osu! Alumni
 
 **osu! Alumni**とは、その貢献が知られていても、今は亡き人たちのことです。財源があれば、町の広場にそれぞれのメンバーのための銅像を建てることができます。
