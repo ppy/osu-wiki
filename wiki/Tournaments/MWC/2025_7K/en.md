@@ -268,12 +268,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 Saturday, 8 February 2025:
 
-| Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/117101145) | [#1](https://www.twitch.tv/videos/2375710046) |
-| BIG MAXUS | 6 | **7** | **ET BLOCKO** | [#1](https://osu.ppy.sh/community/matches/117101821) | [#1](https://www.twitch.tv/videos/2375746661) |
-| **Malaysia** ::{ flag=MY }:: | **6** | -1 | ::{ flag=CL }:: Chile | *win by default* |  |
-| United States ::{ flag=US }:: | 2 | **6** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/117103481) | [#1](https://www.twitch.tv/videos/2375793992) |
+| Team A |  |  | Team B | Match link | VOD link |  |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/117101145) | [#1](https://www.twitch.tv/videos/2375710046) |  |
+| BIG MAXUS | 6 | **7** | **ET BLOCKO** | [#1](https://osu.ppy.sh/community/matches/117101821) | [#1](https://www.twitch.tv/videos/2375746661) | Semifinals showmatch (mappooling team) |
+| **Malaysia** ::{ flag=MY }:: | **6** | -1 | ::{ flag=CL }:: Chile | *win by default* |  |  |
+| United States ::{ flag=US }:: | 2 | **6** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/117103481) | [#1](https://www.twitch.tv/videos/2375793992) |  |
 
 Sunday, 9 February 2025:
 
