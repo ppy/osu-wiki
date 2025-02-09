@@ -56,14 +56,14 @@ Se ti ritrovi nella parte sbagliata delle regole della comunità, accadranno cos
 
 Queste cose brutte possono includere (*ma non sono limitate a*):
 
-- La rimozione della tua capacità di chattare nel gioco per un periodo di tempo (noto come [silenzio](/wiki/Silence))
+- La rimozione della tua capacità di chattare nel gioco per un periodo di tempo (noto come [silenzio](/wiki/Help_centre/Silences))
 - La rimozione di qualsiasi contenuto illegale dalla tua pagina utente, profilo o beatmap caricati
 - La perdita del privilegio di modificare o alterare la tua pagina utente o i dettagli del profilo
 - La perdita del privilegio di giocare o qualificarsi nei tornei ospitati ufficialmente
 
-Venir [Silenziato](/wiki/Silence) e altre violazioni **automaticamente** aumentano in durata quasi esponenziale con ogni violazione. I moderatori non controllano il periodo di tempo in cui sei messo a tacere per un reato - i recidivi si ritroveranno chiusi fuori dal gioco per periodi di tempo sempre più lunghi.
+Venir [Silenziato](/wiki/Help_centre/Silences) e altre violazioni **automaticamente** aumentano in durata quasi esponenziale con ogni violazione. I moderatori non controllano il periodo di tempo in cui sei messo a tacere per un reato - i recidivi si ritroveranno chiusi fuori dal gioco per periodi di tempo sempre più lunghi.
 
-Alcuni reati hanno una durata minima (in genere 42 ore o più) se sono particolarmente severi, sebbene siano quasi esclusivamente riservati a gravi infrazioni, come la condivisione di contenuti grafici o molestie incessanti di altri utenti.
+Alcuni reati hanno una durata minima (in genere 43 ore o più) se sono particolarmente severi, sebbene siano quasi esclusivamente riservati a gravi infrazioni, come la condivisione di contenuti grafici o molestie incessanti di altri utenti.
 
 Se dopo diverse infrazioni continui a violare le regole, il tuo account potrebbe essere [permanentemente e irrevocabilmente ristretto](/wiki/Help_centre/Account_restrictions).
 
