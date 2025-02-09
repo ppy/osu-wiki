@@ -78,4 +78,4 @@ Falls du keine Beweise hast, sondern nur Geschichten oder Gerüchte, von denen d
 
 Wenn du nach einigen Wochen keine Antwort auf deine E-Mail erhalten hast, sende bitte eine weitere E-Mail.
 
-Die E-Mail ging vermutlich unter, aber wir wollen uns trotzdem um deine Meldung kümmern.
+Die E-Mail ging vermutlich unterwegs verloren, aber wir wollen uns trotzdem um deine Meldung kümmern.
