@@ -1,8 +1,8 @@
-# Trang wed
+# Trang website 
 
 *Trang chín: [Trung tâm trợ giúp](/wiki/Help_centre)*
 
-Phần này dành riêng cho các vấn đề liên quan đến trang web osu!
+Phần này dành riêng cho các vấn đề liên quan đến trang website osu!
 
 ## Vấn đề thường gặp {id=common-issues}
 
