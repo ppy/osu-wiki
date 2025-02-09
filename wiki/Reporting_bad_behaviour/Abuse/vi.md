@@ -56,7 +56,7 @@ Sau đó, chặn hoặc tắt tiếng người dùng đó bằng cách nhấp v�
 
 Xin lưu ý rằng người đó sẽ biết bạn chặn họ nếu họ kiểm tra hồ sơ Twitter của bạn. Nếu bạn lo lắng điều này sẽ làm cho vấn đề trở nên tồi tệ hơn trong tương lai thì hãy chọn tắt tiếng tài khoản đó. Thao tác này sẽ xóa các tweet của họ khỏi dòng thời gian của bạn và ngăn bạn xem thêm bất kỳ nội dung nào từ họ, nhưng họ vẫn có thể xem và bình luận về tất cả các tweet bạn thực hiện.
 
-Nếu tweet đến từ một tài khoản được liên kết với hồ sơ người chơi osu! qua trang web của chúng tôi (nó sẽ xuất hiện dưới ảnh đại diện và ngày tham gia, bên cạnh biểu tượng con chim tweet), vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo bản sao của tweet dưới dạng hình ảnh nếu có thể, cùng với bất kỳ thông tin nào bạn có thể nghĩ ra.
+Nếu tweet đến từ một tài khoản được liên kết với hồ sơ người chơi osu! qua trang web của chúng tôi (nó sẽ xuất hiện dưới ảnh đại diện và ngày tham gia, bên cạnh biểu tượng con chim tweet), vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo bản sao của tweet dưới dạng hình ảnh nếu có thể, cùng với bất kỳ thông tin nào bạn có thể nghĩ tới.
 
 ## Một thành viên của một trong các nhóm tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
 
@@ -76,4 +76,4 @@ Nếu bạn không có bằng chứng nhưng chỉ có câu chuyện hoặc tin 
 
 Nếu bạn không nhận được phản hồi cho email của mình sau vài tuần, vui lòng gửi email tiếp theo về vụ việc.
 
-Rất có thể email đã bị lạc ở đâu đó nhưng chúng tôi vẫn muốn điều tra báo cáo của bạn.
+Rất có thể email đã bị lạc ở đâu đó trong khi gửi nhưng chúng tôi vẫn muốn điều tra báo cáo của bạn.
