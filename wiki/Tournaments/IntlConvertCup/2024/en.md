@@ -6,7 +6,7 @@ tags:
 
 # International Convert Cup 2024
 
-![International Convert Cup 2024 banner](img/banner.png)
+![International Convert Cup 2024 banner](img/banner.jpg)
 
 The **International Convert Cup 2024** (***ICC 2024***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265), and ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). Although it was the first to be held under the "International Convert Cup" banner, the tournament was considered as an expansion of the preceeding [Indonesia Convert Cup](/wiki/Tournaments/ICC) and [osu!catch Convert Cup Open](/wiki/Tournaments/o!cCO) series.
 
@@ -29,9 +29,9 @@ The **International Convert Cup 2024** (***ICC 2024***) was a double-elimination
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 16 USD or 6 months of osu!supporter for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 USD or 4 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 8 USD or 2 months of osu!supporter for each team member |
 
 ![](img/badge.png "ICC 2024 winner badge")
 
@@ -105,13 +105,7 @@ The International Convert Cup 2024 was run by various community members from all
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **naruto when** (::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **common madcin L** (::{ flag=PL }:: [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506), ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Red Hawk** (::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283), ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439)) |
+![](img/podium.jpg "ICC 2024 podium")
 
 ## Mappools
 
