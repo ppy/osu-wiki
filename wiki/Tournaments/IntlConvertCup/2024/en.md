@@ -470,7 +470,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a team does not show up or is unable to field in a sizeable 2v2 roster within **10 minutes** of the start time, their opponent gets to win by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. Lag is not a valid reason to nullify a beatmap.
@@ -482,7 +482,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 ### Tournament registration
 
 1. In order to participate, players are required to form a team and register into the tournament as a team through [the tournament's website](https://wybin.xyz/tournaments/icc2024).
-   - Each team may only enlist one player ranked #1 - #50 and one player ranked #50 - #100 according to [osupepe.com's convert ranking](https://osupepe.com) at the time of registration in their roster.
+   - Each team may only enlist one player ranked #1 – #50 and one player ranked #50 – #100 according to [osupepe.com's convert ranking](https://osupepe.com) at the time of registration in their roster.
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Additionally, teams may also appoint one or more vice-captains who will be in charge of their team should the captain be unavailable.
    - Team names may not violate the [osu! community rules](/wiki/Rules#community-rules).
@@ -536,7 +536,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - Teams are given 2 minutes to pick a beatmap and 2 minutes to press the Ready button on their client.
    - If a team is unable to come up with a pick within their time window, the pick will be chosen by random by the referee using the `!roll X` command.
 5. Not counting the Qualifiers, each stage of the tournament will feature a **Mixed Mod pool** that goes as follows: 
-   - The Mixed Mod pool will be played with FreeMod activated.
+   - The Mixed Mod pool will be played with Free Mod activated.
    - During a Mixed Mod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either Hard Rock or Hidden + Hard Rock.
 6. When playing a map from the Hard Rock or Double Time pool, the Hidden modification may additionally be used by any player.
 7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with Hidden, Hard Rock, or Hidden + Hard Rock should they wish to. 
