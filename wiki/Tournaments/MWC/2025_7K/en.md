@@ -131,7 +131,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Finals
 
-**[Download the mappack here (103 MB, *tempoorary link*)](https://leoflt.com/s/XxT3)**\
+**[Download the mappack here (98 MB)](https://packs.ppy.sh/P275%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2376804412)
 
 - Rice
@@ -148,10 +148,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
   4. [KOTOKO - agony (Cut ver.) (ExNeko, \_Kobii, \_Yiiiii, paulkappa) \[MWC Collab\]](https://osu.ppy.sh/beatmapsets/2321282#mania/4973094)
 - Hybrid
   1. [5KiLOBYTE vs. Raphiiel - -Totsuka no Tsurugi- (Critical\_Star) \[Twilight Hymn\]](https://osu.ppy.sh/beatmapsets/2321283#mania/4973095)
-  2. [lapix - Horizon Blue feat. Kanata.N (ruka) \[D=2RHD\] *(temporary link)*](https://leoflt.com/s/Lg8i)
+  2. [lapix - Horizon Blue feat. Kanata.N (ruka) \[D=2RH/D\]](https://osu.ppy.sh/beatmapsets/2321532#mania/4973733)
 - Extreme
   1. [celtix - Cursed Bloom (Critical\_Star, \_Kobii) \[Sinister Blossom\]](https://osu.ppy.sh/beatmapsets/2321288#mania/4973138)
-  2. [Feryquitous - Ai Drew (Enie, ruka) \[Stable Diffusion (MWC Edit)\] *(temporary link)*](https://leoflt.com/s/1JCv)
+  2. [Feryquitous - Ai Drew (Enie, ruka) \[Stable Diffusion (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2321585#mania/4973835)
   3. [Aoi - Welkius (\_Kobii\_, Blocko, ruka) \[Gilded Firmament\]](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158)
 - Tiebreaker
   1. **[Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination (Critical\_Star, Blocko) \[Shattered Sky\]](https://osu.ppy.sh/beatmapsets/2321297#mania/4973159)**
