@@ -1,0 +1,83 @@
+---
+layout: post
+title: osu! tablets return
+date: 2025-02-xx 00:00:00 +0000
+---
+
+While mouse can (do) everything, it wouldn't hurt to try out the most iconic input method osu! has to offer.
+
+![](/wiki/shared/news/2024-08-17-osu-deskmats/banner.jpg)
+
+Over 10 years ago, we offered a series of tablets on [the osu! store](https://osu.ppy.sh/store/listing).
+
+And they were bad.
+
+Those [old school osu! tablets](/wiki/Guides/Tablet_purchase#osu!store) had input detection issues and a *heavy* battery inside the pen, leading to less-than-ideal circle clicking conditions.
+
+Despite their problems, early osu! tablets were still popular among first-time tablet users. Tablets often recommended by pro players were more expensive, and beginners naturally wanted to test the waters before diving in with a pricey peripheral.
+
+The tradeoffs between "introductory" and "pro player" tablets are tough to balance, so... we'll leave the choice to you.
+
+We plan to offer two osu! tablets: the [**intro tablet**](#intro-tablet) and the [**pro player tablet**](#pro-player-tablet)!
+
+## [intro tablet](LINK)
+
+<div align="center" class="osu-md__paragraph">
+    <video width="100%" controls>
+        <source src="https://assets.ppy.sh/media/news/tablet_vbr_frame1.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+This tablet co-produced with **XPPen** has everything you could ask for:
+
+(pic of everything laid out on tablet)
+[![](LINK)](LINK)
+
+True to its name, the *intro* tablet even has instructions for setting up a tablet in-game!
+
+(pic of quick start guide)
+[![](LINK)](LINK)
+
+But of course, this isn't *just* a tablet. It's a *beautiful* tablet. Send all of your appreciation to veteran mapper [meiikyuu](https://osu.ppy.sh/users/1043627) for the design!
+
+(side by side low aperature pics 73 and 79)
+[![](LINK)](LINK)
+
+If you feel an urge to keep your future osu! tablet on display instead of on your desk, we fully understand.
+
+(the image in display case, redo)
+[![](LINK)](LINK)
+
+Be warned: you might not be the only one enjoying your tablet.
+
+(calcipher 77)
+[![](LINK)](LINK)
+
+And when you're not setting top plays, you can keep your tablet safely away from dust in the *osu! box*.
+
+(the image with box and tablet 69)
+[![](LINK)](LINK)
+
+Pick up your own osu! tablet on [**the store page**](https://osu.ppy.sh/store/products/1347).
+
+## pro player tablet
+
+...is coming later this year!
+
+In collaboration with **Wacom**, we're already in the production stages of bringing the osu! tablet to a new competitive level.
+
+![](LINK)
+
+While we usually don't announce upcoming products like this, we thought it would be worthwhile in this case. If you're exclusively interested in a competitively viable tablet (and you're okay with the extra cost it involves), sit tight until everything is ready.
+
+Desperate to know exactly when the **pro player tablet** will be here? Head to [its future store page](LINK) and hit the "Notify me!" button.
+
+![](LINK)
+
+As soon as this version of the osu! tablet is available, you'll receive an email about it!
+
+---
+
+That's enough words. [Grab your osu! tablet already.](LINK)
+
+—osu! team
