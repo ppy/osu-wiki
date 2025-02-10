@@ -50,9 +50,23 @@ Le osu!originals
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
-| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=MY }:: Malaysia |
+| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation |
+| BIG MAXUS | 6 | **7** | **ET BLOCKO** |
+| **Malaysia** ::{ flag=MY }:: | **6** | -1 | ::{ flag=CL }:: Chile |
+| United States ::{ flag=US }:: | 2 | **6** | ::{ flag=PE }:: **Peru** |
+| **South Korea** ::{ flag=KR }:: | **6** | 4 | ::{ flag=JP }:: Japan |
+| **Indonesia** ::{ flag=ID }:: | **6** | 0 | ::{ flag=MY }:: Malaysia |
+| **China** ::{ flag=CN }:: | **6** | 4 | ::{ flag=PH }:: Philippines |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 0 | ::{ flag=DE }:: Germany |
+| Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=PE }:: **Peru** |
 
-Week summary. Mention Indonesia's placement.
+This week was nothing short of amazing! We reached a point of the tournament where the best of the best teams are being tested against one another. The matches between ::{ flag=KR }:: South Korea versus ::{ flag=JP }:: Japan and ::{ flag=CN }:: China versus ::{ flag=PH }:: the Philippines should get the point across, with all four teams being the top 4 seeded teams on this year's Qualifiers!
+
+The last two teams standing in the winners' bracket are ::{ flag=KR }:: South Korea and ::{ flag=CN }:: China, who'll be facing each other in the Finals to see who gets to keep their spot in the Grand Finals. The rest of teams however haven't had it as easily in the losers' bracket given how high the stakes were.
+
+On the other side of the bracket, teams had to win two consecutive matches to keep up with the pace. ::{ flag=ID }:: Indonesia and ::{ flag=PE }:: Peru were able to survive the gauntlet, moving on to the Finals for their very last chance at redemption. A very exciting moment for Indonesian fans, who get to see their country get to the Finals for the first time since all the way back to 2017!
+
+And what other way to begin with the match highlights than by recapping the best of the best show match this series has ever seen. Truly a fight between an unstoppable force against an immovable object!
 
 ### BIG MAXUS vs. ET BLOCKO
 
