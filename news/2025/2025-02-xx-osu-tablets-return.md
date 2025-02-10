@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! tablets return
-date: 2025-02-xx 00:00:00 +0000
+date: 2025-02-10 00:00:00 +0000
 ---
 
 While mouse can (do) everything, it wouldn't hurt to try out the most iconic input method osu! has to offer.
