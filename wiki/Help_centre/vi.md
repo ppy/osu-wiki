@@ -10,6 +10,8 @@ tags:
   - khó khăn
   - rắc rối
   - bỏ lỡ
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Trung tâm trợ giúp
@@ -27,7 +29,7 @@ Chọn nhánh phù hợp với vấn đề của bạn nhất để tìm ra gi�
 | [Beatmap và chỉnh sửa](/wiki/Help_centre/Beatmapping) | Duy trì beatmap của bạn, quyền sở hữu beatmap, vị trí beatmap |
 | [Client](/wiki/Help_centre/Client) | Lỗi và sự cố, lối chơi, kết nối, hiệu suất |
 | [Cài đặt và đăng ký](/wiki/Help_centre/Installation_and_registration) | Tải game, tạo tài khoản |
-| [Cửa hàng](/wiki/Help_centre/Store) | Hàng hóa, osu!go, osu!keyboard, osu!tablet |
+| [Cửa hàng](/wiki/Help_centre/Store) | Hàng hóa |
 | [Lệnh cấm thi đấu](/wiki/Help_centre/Tournament_bans) | Tất cả về lệnh cấm thi đấu: tổng quan, lý do phổ biến và thời gian chờ đợi |
 | [Nâng cấp lên lazer](/wiki/Help_centre/Upgrading_to_lazer) | Di chuyển sang [bản phát hành chính tiếp theo](/wiki/Client/Release_stream/Lazer) của osu! |
 | [Trang website](/wiki/Help_centre/Website) | Chặn người dùng, liên hệ với bộ phận hỗ trợ, giao diện trang web |

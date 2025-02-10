@@ -7,6 +7,8 @@ tags:
   - missing
   - ajutor
   - problemă
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Centru ajutor
@@ -24,7 +26,7 @@ Alege secțiunea care se potrivește cel mai bine cu problema ta pentru a găsi 
 | [Beatmapping și Editor](/wiki/Help_centre/Beatmapping) | Păstrarea beatmap-urilor tale, proprietatea unui beatmap, sloturi beatmap |
 | [Client](/wiki/Help_centre/Client) | Bug-uri și crash-uri, gameplay, conexiune, performanță |
 | [Instalare și înregistrare](/wiki/Help_centre/Installation_and_registration) | Descărcarea jocului, crearea unui cont |
-| [Magazin](/wiki/Help_centre/Store) | Produse, osu!go, osu!keyboard, osu!tablet |
+| [Magazin](/wiki/Help_centre/Store) | Produse |
 | [Interdicții turnee](/wiki/Help_centre/Tournament_bans) | Totul despre interdicții turnee, prezentare generală, motive comune și durate |
 | [Actualizarea la lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrarea la [următoarea versiune semnificativă](/wiki/Client/Release_stream/Lazer) osu! |
 | [Site](/wiki/Help_centre/Website) | Blocarea utilizatorilor, contactarea suportului, aparența site-ului |

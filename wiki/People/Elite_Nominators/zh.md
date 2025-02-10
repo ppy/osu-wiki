@@ -8,7 +8,7 @@
 - 提名的谱面质量
 - [摸图](/wiki/Modding)的质量
 - 收到[提名重置](/wiki/Beatmap_ranking_procedure#提名重置)的数量
-- 做出[质量保证](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance)检查的数量
+- 做出[质量保证](/wiki/People/Beatmap_Nominators/General_Information#质量保证-(quality-assurance))检查的数量
 - 对作图社区的其他重大贡献（制作辅助作图的工具、参与举办社区活动等）
 - 让他们与众不同的其他优秀品质
 
@@ -75,7 +75,7 @@
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | osu!taiko |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | osu!catch |
-| ::{ flag=US }:: [Nokashi](https://osu.ppy.sh/users/5431196) | osu!catch |
+| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | osu!catch |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | osu!mania |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) | osu!mania |
 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | osu!mania |

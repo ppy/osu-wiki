@@ -22,9 +22,9 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), technical support |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu! developer |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, [Featured Artist](/wiki/People/Featured_Artists) outreach |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
+| ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! developer |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [NAT](/wiki/People/Nomination_Assessment_Team) leader, [Project Loved](/wiki/Community/Project_Loved) manager, Venix's secretary |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | General housekeeper, [NAT](/wiki/People/Nomination_Assessment_Team) leader, [Project Loved](/wiki/Community/Project_Loved) manager |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [World Cup](/wiki/Tournaments#official-world-cups) organiser and administrator |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [Featured Artist](/wiki/People/Featured_Artists) outreach, [World Cup](/wiki/Tournaments#official-world-cups) secretary |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! developer, technical support |
@@ -33,18 +33,19 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Modding and mapping scene advisor |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), modding and mapping scene advisor |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), modding and mapping scene advisor |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube channel](https://www.youtube.com/@osugame) host, [Mappers' Guild](/wiki/Community/Mappers_Guild) organiser, [Featured Artist](/wiki/People/Featured_Artists) outreach |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Modding and mapping scene advisor |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [wiki maintainer](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | World Cup design coordinator |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! developer |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! infrastructure developer |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament support |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | General housekeeper, broom sweeper |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [GMT](/wiki/People/Global_Moderation_Team) leader, [Beatmap Spotlights](/wiki/Beatmap_Spotlights) manager, Hivie's secretary |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [GMT](/wiki/People/Global_Moderation_Team) leader, [Beatmap Spotlights](/wiki/Beatmap_Spotlights) manager |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Wiki maintainer](/wiki/People/osu!_wiki_maintainers), news editor |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 

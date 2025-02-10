@@ -8,6 +8,8 @@ tags:
   - aide
   - problème
   - manquant
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Centre d'aide
@@ -22,7 +24,7 @@ Choisissez la section qui correspond le plus à votre problème pour trouver une
 | :-- | :-- |
 | [Bannissement des tournois](/wiki/Help_centre/Tournament_bans) | Tout sur les bannissements des tournois : aperçu, raisons courantes et cooldowns |
 | [Beatmapping et Éditeur](/wiki/Help_centre/Beatmapping) | Maintenance de vos beatmaps, propriété des beatmaps, emplacements des beatmaps |
-| [Boutique](/wiki/Help_centre/Store) | Marchandise, osu!go, osu!keyboard, osu!tablet |
+| [Boutique](/wiki/Help_centre/Store) | Marchandise |
 | [Client](/wiki/Help_centre/Client) | Bugs et crashs, gameplay, connexion, performances |
 | [Compte](/wiki/Help_centre/Account) | osu!supporter, connexion et récupération de l'accès, changements de pseudo, données de profil |
 | [Installation et inscription](/wiki/Help_centre/Installation_and_registration) | Télécharger le jeu, créer un compte |

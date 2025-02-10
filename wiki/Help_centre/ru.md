@@ -13,6 +13,8 @@ tags:
   - не работает
   - сломалось
   - не запускается
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Справочный центр
@@ -29,7 +31,7 @@ tags:
 | [Аккаунт](/wiki/Help_centre/Account) | osu!supporter, вход в аккаунт и восстановление доступа к нему, смена ника, игровой профиль |
 | [Веб-сайт](/wiki/Help_centre/Website) | Использование игнор-листа, связь с техподдержкой, внешний вид сайта |
 | [Игровой клиент](/wiki/Help_centre/Client) | Ошибки и вылеты, игровой процесс, подключение, лаги и производительность |
-| [Магазин](/wiki/Help_centre/Store) | Продукция с символикой osu!, osu!go, osu!keyboard, osu!tablet |
+| [Магазин](/wiki/Help_centre/Store) | Продукция с символикой osu! |
 | [Маппинг](/wiki/Help_centre/Beatmapping) | Публикация карт, связанные проблемы и ограничения |
 | [Обновление до lazer](/wiki/Help_centre/Upgrading_to_lazer) | Всё о переходе на [следующее глобальное обновление](/wiki/Client/Release_stream/Lazer) osu! |
 | [Ограничение аккаунта](/wiki/Help_centre/Account_restrictions) | Ограничение (рестрикт): краткое описание, подача апелляции, наиболее частые причины и длительность |

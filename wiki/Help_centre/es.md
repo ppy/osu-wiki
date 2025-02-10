@@ -9,6 +9,8 @@ tags:
   - problema
   - inconveniente
   - faltante
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Centro de ayuda
@@ -26,7 +28,7 @@ Elige la sección que mejor se ajuste a tu problema para encontrar una solución
 | [Beatmapping y Editor](/wiki/Help_centre/Beatmapping) | Mantenimiento de tus beatmaps, propiedad de beatmaps, ranuras de beatmap |
 | [Cliente](/wiki/Help_centre/Client) | Errores y bloqueos, jugabilidad, conexión, rendimiento |
 | [Instalación y registro](/wiki/Help_centre/Installation_and_registration) | Descarga del juego, creación de cuenta |
-| [Tienda](/wiki/Help_centre/Store) | Mercancía, osu!go, osu!keyboard, osu!tablet |
+| [Tienda](/wiki/Help_centre/Store) | Mercancía |
 | [Prohibiciones de torneos](/wiki/Help_centre/Tournament_bans) | Todo sobre las prohibiciones de torneos: descripción general, razones comunes y tiempos de espera |
 | [Actualización a lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migración a la [próxima versión principal](/wiki/Client/Release_stream/Lazer) de osu! |
 | [Sitio web](/wiki/Help_centre/Website) | Bloquear usuarios, contacto con el soporte, apariencia del sitio |

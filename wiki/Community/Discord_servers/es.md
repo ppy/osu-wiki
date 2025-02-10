@@ -1,3 +1,8 @@
+---
+outdated_since: c6324d94e26e1c045d4a534cd463ef687e0ea42c
+outdated_translation: true
+---
+
 # Servidores de Discord
 
 Este artículo enumera varios servidores de [Discord](https://discord.com/) que han sido creados y mantenidos por la comunidad de osu! para albergar lugares de discusión sobre los diferentes aspectos del juego. Algunos se centran en la gestión de proyectos concretos, mientras que otros son más generales, pero la mayoría incluyen canales de chat casuales a pesar de todo.
@@ -25,7 +30,7 @@ Estos servidores se centran en proporcionar y desarrollar herramientas y sistema
 
 |  | Nombre | Propietario | Descripción |
 | :-: | :-- | :-- | :-- |
-| [![](img/Performance-Points.png)](https://discord.com/invite/aqPCnXu) | [Performance Points](https://discord.com/invite/aqPCnXu) |  | El servidor **Performance Points** facilita el desarrollo por parte de la comunidad del sistema de los [puntos de rendimiento](/wiki/Performance_points) y la [calificación por estrellas](/wiki/Beatmap/Star_rating). |
+| [![](img/Performance-Points.png)](https://discord.com/invite/aqPCnXu) | [Performance Points](https://discord.com/invite/aqPCnXu) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | El servidor **Performance Points** facilita el desarrollo por parte de la comunidad del sistema de los [puntos de rendimiento](/wiki/Performance_points) y la [calificación por estrellas](/wiki/Beatmap/Star_rating). |
 | [![](img/osu!catch-dev.png)](https://discord.com/invite/YEJBENvFzN) | [osu!catch dev](https://discord.com/invite/YEJBENvFzN) | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | **osu!catch dev** facilita el desarrollo por parte de la comunidad del sistema de los [puntos de rendimiento](/wiki/Performance_points) y la [calificación por estrellas](/wiki/Beatmap/Star_rating) de osu!catch. |
 | [![](img/o!m-SR-PP-Rework-Hub.png)](https://discord.com/invite/GFCNNg8bwk) | [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | El **o!m SR/PP Rework Hub** facilita el desarrollo por parte de la comunidad del sistema de los [puntos de rendimiento](/wiki/Performance_points) y la [calificación por estrellas](/wiki/Beatmap/Star_rating) de osu!mania. |
 

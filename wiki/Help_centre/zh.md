@@ -7,6 +7,8 @@ tags:
   - missing
   - 帮助
   - 问题
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # 帮助中心
@@ -24,7 +26,7 @@ tags:
 | [作图与编辑器](/wiki/Help_centre/Beatmapping) | 谱面维护，谱面所有权，谱面槽位 |
 | [客户端](/wiki/Help_centre/Client) | 漏洞和崩溃，游玩问题，网络连接，性能问题 |
 | [安装与注册](/wiki/Help_centre/Installation_and_registration) | 下载游戏，注册账号 |
-| [商店](/wiki/Help_centre/Store) | 周边产品如 osu!go, osu!keyboard, osu!tablet |
+| [商店](/wiki/Help_centre/Store) | 周边产品 |
 | [禁赛](/wiki/Help_centre/Tournament_bans) | 禁赛相关：概述，常见原因和冷静期 |
 | [升级到 lazer](/wiki/Help_centre/Upgrading_to_lazer) | 迁移到 osu! 的[下一个主要版本](/wiki/Client/Release_stream/Lazer) |
 | [网站](/wiki/Help_centre/Website) | 屏蔽用户，获得支持，网站外观 |

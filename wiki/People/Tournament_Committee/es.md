@@ -4,6 +4,8 @@ tags:
   - Contest Committee
   - CC
   - Comité de concursos
+outdated_translation: true
+outdated_since: 89722a56c74c20810e1fa8b375de1042def7971e
 ---
 
 # Comité de torneos
@@ -22,7 +24,7 @@ Además, el comité de torneos desempeña las siguientes funciones independiente
 - Revisar regularmente la página de [soporte oficial para torneos](/wiki/Tournaments/Official_support) para realizar alguna modificación necesaria.
 - Investigar los reportes del [formulario de reportes de torneos](https://pif.ephemeral.ink/tournament-reports).
 - Comprobar si los torneos finalizados que hayan solicitado soporte oficial cumplen sus criterios.
-- Asesorar al equipo de noticias de osu! sobre si se debe hacer una [noticia](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) para el torneo.
+- Asesorar al equipo de noticias de osu! sobre si se debe hacer una [noticia](/wiki/Tournaments/Official_support#solicitar-soporte-para-banners-dentro-del-juego-y-noticias) para el torneo.
 - Mantener la comunicación con la base de jugadores en general sobre los cambios en los criterios de soporte oficial y el estado de todos los torneos que hayan solicitado soporte oficial.
 
 ## Comité de concursos
@@ -58,7 +60,7 @@ Una vez que un torneo ha finalizado y ha solicitado un premio en forma de insign
 - Cualquier restricción de registro regional es consistente desde el punto de vista geográfico y/o cultural.
 - La existencia de un catálogo públicamente visible del historial de los partidos del torneo.
 - Todas las listas de personal y jugadores están a disposición del público y la lista del personal está actualizada.
-- La insignia cumple con los [criterios de diseño](/wiki/Tournaments/Official_support#profile-badges) correspondientes.
+- La insignia cumple con los [criterios de diseño](/wiki/Tournaments/Official_support#insignias-de-perfil) correspondientes.
 
 Los miembros asignados indicarán los torneos que superen el proceso de revisión como aptos para recibir insignias. El equipo de soporte de cuentas aplicará las insignias más adelante a los perfiles de los ganadores. Si un torneo no pasa el proceso de revisión, los miembros revisores podrán informar al equipo de soporte de cuentas sobre los cambios que deben comunicarse a los organizadores del torneo. Si estos cambios no son posibles una vez finalizado el torneo, el comité de torneos realizará una votación anónima para decidir si retira el soporte oficial.
 
@@ -71,7 +73,7 @@ Los torneos pueden ser reportados por violación de los criterios oficiales de s
 
 ### Publicaciones de noticias
 
-*Véase también: [Soporte oficial para torneos § Publicaciones de noticias](/wiki/Tournaments/Official_support#news-posts) y [Criterios de estilo de las noticias](/wiki/News_styling_criteria)*
+*Véase también: [Soporte oficial para torneos § Noticias](/wiki/Tournaments/Official_support#noticias) y [Criterios de estilo para las noticias](/wiki/News_styling_criteria)*
 
 Cuando se reciba un correo electrónico solicitando una noticia para un torneo, se notificará al comité de torneos. Si el torneo cumple todos los criterios de elegibilidad para la publicación de una noticia y el consenso en la discusión es positivo después de 48 horas, el comité de torneos reenviará la solicitud al equipo de noticias para su aprobación.
 
@@ -96,7 +98,9 @@ Los nuevos miembros del comité de torneos deben cumplir con los siguientes crit
 - Tener al menos 18 años
 - Pasar una revisión de infracciones recientes de la cuenta
 
-Ya sea que un miembro potencial presente su solicitud por correo electrónico o sea presentado por un miembro existente, el proceso es el mismo. El comité de torneos mantiene una discusión en profundidad sobre el candidato. Se presta especial atención a su actividad en la escena de los torneos, su importancia, sus contribuciones a la comunidad y cómo beneficiarían al comité. Luego de dicha discusión, se lleva a cabo una votación anónima para determinar si se añade al candidato al comité.
+Una vez que un miembro potencial presente su solicitud enviando un correo electrónico a [tournaments@ppy.sh](mailto:tournaments@ppy.sh), el comité de torneos realizará una discusión en profundidad sobre el candidato. Se presta especial atención a su actividad en la escena de los torneos, su importancia, sus contribuciones a la comunidad y cómo beneficiarían al comité. Luego de dicha discusión, se lleva a cabo una votación anónima para determinar si se añade al candidato al comité.
+
+Los solicitantes que no consigan reunir suficientes votos positivos serán rechazados y no podrán volver a presentar una solicitud hasta que transcurran 6 meses desde la respuesta a su solicitud. La respuesta se enviará en un plazo máximo de 2 semanas a partir del día del envío de la solicitud.
 
 ### Votaciones
 
@@ -151,7 +155,6 @@ Los miembros del comité de torneos reciben los siguientes beneficios:
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
@@ -173,6 +176,7 @@ Los miembros del comité de torneos reciben los siguientes beneficios:
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
