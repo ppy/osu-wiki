@@ -4,13 +4,17 @@ title: "osu!mania 7K World Cup 2025: Semifinals Recap"
 date: 2025-02-13 12:00:00 +0000
 ---
 
-Eye catcher
+As teams begin shifting to their top gears, the tournament's zenith looms ever closer! The last remaining 7K titans clash head-on with bone-chilling performances all across the bracket.
 
 ![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
 
-Intro
+If last week was this tournament's low point, then this week was the complete opposite! Only legends remain, and the chances for any team's success grow slimmer by the day. Those who thought things couldn't get harder from now on, were proven to be sorely mistaken. Only for Finals and Grand Finals to be bound to break the skill ceiling once again to an unimaginable degree.
 
-Video plug
+There have been quite a lot of exciting moments on this week alone. From historical feats achieved by some of the teams, to fun moments shared amongst the pooling team members. Tournaments are meant to be fun after all, both to its participants and organisers!
+
+We even got the chance to interview ::{ flag=PE }:: [-luvv](https://osu.ppy.sh/users/23731514) on behalf of team Peru given their players' performances throughout the tournament. Definitely a story worth telling from one of this year's most promising teams!
+
+Rambling and spoilers aside, this week's video recap is yet again brought to you by [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550). A very good alternative to the usual podcasts you may be used to listening in the background on your spare time.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
@@ -46,7 +50,7 @@ Mappool recap
 
 Le osu!originals
 
-## Quarterfinals summary
+## Semifinals summary
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
