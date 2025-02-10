@@ -28,23 +28,33 @@ Rambling and spoilers aside, this week's video recap is yet again brought to you
     }
 </style>
 
-**[Download the pool here! (XX MB)](https://osu.ppy.sh/beatmaps/packs/PACK_ID)**
+**[Download the pool here! (118 MB)](https://osu.ppy.sh/beatmaps/packs/P274)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2370772706&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Semifinals mappool table](/wiki/shared/news/)
+![Semifinals mappool table](/wiki/shared/news/2025-02-13-osumania-7k-world-cup-2025-semifinals-recap/mappool.jpg)
 
 Mappool recap
 
 ---
 
-[![](/wiki/shared/news/)](BEATMAP_LINK)
+[![](/wiki/shared/news/2025-02-13-osumania-7k-world-cup-2025-semifinals-recap/FOXGLOVE_banner.jpg)](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="ASSETS_AUDIO_LINK">
+        <source src="https://assets.ppy.sh/artists/433/Songs/Xyris_-_FOXGLOVE.mp3">
+    </audio>
+</div>
+
+Le osu!originals
+
+[![](/wiki/shared/news/2025-02-13-osumania-7k-world-cup-2025-semifinals-recap/Ruin_in_Cascade_banner.jpg)](https://osu.ppy.sh/beatmapsets/2318032#mania/4964418)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Ruin_in_Cascade.mp3">
     </audio>
 </div>
 
