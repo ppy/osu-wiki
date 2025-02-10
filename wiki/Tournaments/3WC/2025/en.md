@@ -94,7 +94,7 @@ The 3 Digit World Cup 2025 is run by various community members.
 
 ### Saturday, February 15
 
-|  Red Team | Blue Team | Match time | Twitch stream | |
+| Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United Kingdom ::{ flag=GB }:: | ![Oceania](img/OC.png) Oceania | Feb 15 (Sat) 10:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
 | South Korea ::{ flag=KR }:: | ::{ flag=GR }:: Greece | Feb 15 (Sat) 11:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
@@ -103,7 +103,7 @@ The 3 Digit World Cup 2025 is run by various community members.
 
 ### Sunday, February 16
 
-|  Red Team | Blue Team | Match time | Twitch stream | |
+| Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=FI }:: Finland | Feb 16 (Sun) 14:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
 | Germany ::{ flag=DE }:: | ::{ flag=FR }:: France | Feb 16 (Sun) 15:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
