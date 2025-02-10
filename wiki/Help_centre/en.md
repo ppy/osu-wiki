@@ -22,6 +22,7 @@ Choose the section that matches your problem the most to find a suitable solutio
 | [Beatmapping and Editor](/wiki/Help_centre/Beatmapping) | Maintaining your beatmaps, beatmap ownership, beatmap slots |
 | [Client](/wiki/Help_centre/Client) | Bugs and crashes, gameplay, connection, performance |
 | [Installation and registration](/wiki/Help_centre/Installation_and_registration) | Downloading the game, creating an account |
+| [Silences](/wiki/Help_centre/Silences) | All about silences: overview, appeal process, common reasons |
 | [Store](/wiki/Help_centre/Store) | Merchandise |
 | [Tournament bans](/wiki/Help_centre/Tournament_bans) | All about tournament bans: overview, common reasons, and cooldowns |
 | [Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrating to the [next major release](/wiki/Client/Release_stream/Lazer) of osu! |

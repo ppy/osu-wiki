@@ -56,14 +56,14 @@ Solltest du dich nicht an die Regeln halten, passieren schlechte Dinge.
 
 Diese schlechten Dinge umfassen unter anderem (nicht nur):
 
-- Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als [Stummschaltung](/wiki/Silence)).
+- Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als [Stummschaltung](/wiki/Help_centre/Silences)).
 - Das Entfernen der regelwidrigen Inhalte von deiner Nutzerseite, deinem Profil oder deiner Beatmap.
 - Der Verlust deiner Privilegien, deine Nutzerseite zu bearbeiten oder zu verändern.
 - Der Verlust deines Privilegs, an offiziellen Turnieren teilzunehmen.
 
-[Stummschaltungen](/wiki/Silence) und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
+[Stummschaltungen](/wiki/Help_centre/Silences) und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
 
-Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 42 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
+Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 43 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
 
 Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account [permanent und unwiderruflich gesperrt werden](/wiki/Help_centre/Account_restrictions).
 

@@ -60,7 +60,7 @@ Mogą się w to wliczać:
 
 Czas uciszeń **automatycznie** wzrasta wraz z każdym przewinieniem. Moderacja nie ma kontroli nad czasem przez który twoje konto będzie uciszone - dalsze naruszanie zasad poskutkuje dłuższym czasem izolacji od innych użytkowników.
 
-Pewne przewinienia niosą za sobą uciszenie zazwyczaj o długości 48 godzin lub więcej. Ta kara jest zazwyczaj stosowana dla takich działań jak udostępnianie obscenicznych treści lub nieprzerwane nękanie innych użytkowników.
+Pewne przewinienia niosą za sobą uciszenie zazwyczaj o długości 43 godzin lub więcej. Ta kara jest zazwyczaj stosowana dla takich działań jak udostępnianie obscenicznych treści lub nieprzerwane nękanie innych użytkowników.
 
 Jeżeli po kilku naruszeniach nadal będziesz łamać zasady, to twoje konto może zostać trwale zablokowane.
 

@@ -60,7 +60,7 @@ Tieto "zlé veci" môžu byť (*ale nie sú obmedzené na*):
 
 Dĺžka stlmení a ostatných trestov sa **automaticky** predlžuje skoro exponenciálne s každým porušením. Moderátori nekontrolujú dĺžku trestov - porušovatelia pravidieľ budú potrestaný čo raz dlhšie.
 
-Niektoré porušenia majú minimálne trvanie (bežne 48 alebo viac hodín) pokiaľ sú obzvlášť závažné, ale toto je rezervované takmer výlučne pre prípady ako zdielanie veľmi nechutného obsahu alebo neprestávajúce obťažovanie ostatných uživateľov.
+Niektoré porušenia majú minimálne trvanie (bežne 43 alebo viac hodín) pokiaľ sú obzvlášť závažné, ale toto je rezervované takmer výlučne pre prípady ako zdielanie veľmi nechutného obsahu alebo neprestávajúce obťažovanie ostatných uživateľov.
 
 Pokiaľ sa rozhodneš pokračovať v porušovaní pravidiel, tvoj účet môže byť natrvalo obmedzený.
 
