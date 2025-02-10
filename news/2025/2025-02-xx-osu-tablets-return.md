@@ -54,7 +54,7 @@ Pick up your own osu! tablet on [**the store page**](https://osu.ppy.sh/store/pr
 
 ...is coming later this year!
 
-In collaboration with **Wacom**, we're already in the production stages for a tablet that suits players who want the highest caliber of circle clicking.
+In collaboration with **Wacom**, we're already in the production stages for a tablet that suits players who want the highest calibre of circle clicking.
 
 [![](/wiki/shared/news/2025-02-xx-osu-tablets-return/teaser.jpg)](LINK)
 
