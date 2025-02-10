@@ -1,6 +1,6 @@
 ---
 layout: post
-title: osu! tablets return
+title: osu!tablets return
 date: 2025-02-10 00:00:00 +0000
 ---
 
@@ -12,13 +12,13 @@ Over 10 years ago, we offered a series of tablets on [the osu! store](https://os
 
 And they had problems.
 
-Those [old school osu! tablets](/wiki/Guides/Tablet_purchase#osu!store) had input detection issues and a *heavy* battery inside the pen, leading to less-than-ideal circle clicking conditions.
+Those [old school osu!tablets](/wiki/Guides/Tablet_purchase#osu!store) had input detection issues and a *heavy* battery inside the pen, leading to less-than-ideal circle clicking conditions.
 
-Despite their downsides, early osu! tablets were still popular among first-time tablet users. Tablets often recommended by pro players were more expensive, and beginners naturally wanted to test the waters before diving in with a pricey peripheral.
+Despite their downsides, early osu!tablets were still popular among first-time tablet users. Tablets often recommended by pro players were more expensive, and beginners naturally wanted to test the waters before diving in with a pricey peripheral.
 
 The tradeoffs between "introductory" and "pro player" tablets are tough to balance, so... we'll leave the choice to you.
 
-We plan to offer two osu! tablets: the [**intro tablet**](#intro-tablet) and the [**pro tablet**](#pro-tablet)!
+We plan to offer two osu!tablets: the [**intro tablet**](#intro-tablet) and the [**pro tablet**](#pro-tablet)!
 
 ## [intro tablet](LINK)
 
@@ -40,7 +40,7 @@ But of course, this isn't *just* a tablet. It's a *beautiful* tablet. Send all o
 
 [![](/wiki/shared/news/2025-02-xx-osu-tablets-return/beauty.jpg)](LINK)
 
-If you feel an urge to keep your osu! tablet on display instead of on your desk, we fully understand.
+If you feel an urge to keep your osu!tablet on display instead of on your desk, we fully understand.
 
 [![](/wiki/shared/news/2025-02-xx-osu-tablets-return/fridge.jpg)](LINK)
 
@@ -48,7 +48,7 @@ And when you're not setting top plays, you can keep your tablet safely away from
 
 [![](/wiki/shared/news/2025-02-xx-osu-tablets-return/box.jpg)](LINK)
 
-Pick up your own osu! tablet on [**the store page**](https://osu.ppy.sh/store/products/1347).
+Pick up your own osu!tablet on [**the store page**](https://osu.ppy.sh/store/products/1347).
 
 ## pro tablet
 
@@ -64,10 +64,10 @@ Desperate to know exactly when the **pro tablet** will be here? Head to [the **p
 
 ![](/wiki/shared/news/2025-02-xx-osu-tablets-return/stock.png)
 
-As soon as this version of the osu! tablet is in the store, you'll receive an email about it!
+As soon as this version of the osu!tablet is in the store, you'll receive an email about it!
 
 ---
 
-That's enough words. [Grab your osu! tablet already.](LINK)
+That's enough words. [Grab your osu!tablet already.](LINK)
 
 —osu! team
