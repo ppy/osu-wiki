@@ -107,32 +107,54 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a81f6e7fddd9345702ba0d0fb75f759).
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, 8 February 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Feb 08 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T120000&p1=1440&p2=108&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| BIG MAXUS | ET BLOCKO | [Feb 08 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Feb 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250208T150000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### Sunday, 9 February 2025
+### Saturday, 15 February 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=JP }:: Japan | [Feb 09 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T090000&p1=1440&p2=235&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=MY }:: Malaysia | [Feb 09 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T100000&p1=1440&p2=108&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 09 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T120000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=DE }:: Germany | [Feb 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T140000&p1=1440&p2=102&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Feb 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T140000&p1=1440&p2=166&p3=122) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=US }:: United States | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=102&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=PE }:: Peru | [Feb 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T150000&p1=1440&p2=102&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=US }:: United States | [Feb 09 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T170000&p1=1440&p2=37&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=PE }:: Peru | [Feb 09 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T170000&p1=1440&p2=37&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finals | mappool showcase | [Feb 09 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250209T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Japan ::{ flag=JP }:: | ::{ flag=PE }:: Peru | [Feb 15 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250215T040000&p1=1440&p2=248&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=ID }:: Indonesia | [Feb 15 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250215T100000&p1=1440&p2=145&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### Sunday, 16 February 2025
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 16 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T080000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Feb 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T100000&p1=1440&p2=145&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=JP }:: Japan | [Feb 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T100000&p1=1440&p2=108&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=PE }:: Peru | [Feb 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T150000&p1=1440&p2=145&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=PE }:: Peru | [Feb 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T150000&p1=1440&p2=108&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Grand Finals | mappool showcase | [Feb 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (103 MB, *tempoorary link*)](https://leoflt.com/s/XxT3)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2376804412)
+
+- Rice
+  1. [Cranky - Into the Unknown (\_Yiiiii) \[We just don't know\]](https://osu.ppy.sh/beatmapsets/2321250#mania/4973016)
+  2. [EBIMAYO - NIGHTMARE INVITATION (Blocko) \[INFERNO\]](https://osu.ppy.sh/beatmapsets/2321254#mania/4973026)
+  3. [Kohta Imafuku - Last Fireworks (pwhk) \[Finale\]](https://osu.ppy.sh/beatmapsets/2321256#mania/4973036)
+  4. [Kolaa - async (taba2) \[cyans\]](https://osu.ppy.sh/beatmapsets/2321301#mania/4973175)
+  5. [Akiri - Blocko ET (feat. Jinjin) (Blocko) \[The ETest ET to ever E(xis)T\]](https://osu.ppy.sh/beatmapsets/2321263#mania/4973054)
+  6. [Wolpis Carter - Oxalis (Cut Ver.) (ExNeko) \[Wizllia.\]](https://osu.ppy.sh/beatmapsets/2321276#mania/4973088)
+- Long Note
+  1. [Sayuri x MY FIRST STORY - Reimei (Cut Ver.) (ExNeko) \[Dawn\]](https://osu.ppy.sh/beatmapsets/2321280#mania/4973092)
+  2. [Yooh - Divinity (Short Ver.) (Lung\_P) \[Legendary\]](https://osu.ppy.sh/beatmapsets/2321274#mania/4973086)
+  3. [Marmalade butcher - CuttingEdgeInsaneArtifact (Lung\_P, Muses) \[EsotericFragment\]](https://osu.ppy.sh/beatmapsets/2321277#mania/4973089)
+  4. [KOTOKO - agony (Cut ver.) (ExNeko, \_Kobii, \_Yiiiii, paulkappa) \[MWC Collab\]](https://osu.ppy.sh/beatmapsets/2321282#mania/4973094)
+- Hybrid
+  1. [5KiLOBYTE vs. Raphiiel - -Totsuka no Tsurugi- (Critical\_Star) \[Twilight Hymn\]](https://osu.ppy.sh/beatmapsets/2321283#mania/4973095)
+  2. [lapix - Horizon Blue feat. Kanata.N (ruka) \[D=2RHD\] *(temporary link)*](https://leoflt.com/s/Lg8i)
+- Extreme
+  1. [celtix - Cursed Bloom (Critical\_Star, \_Kobii) \[Sinister Blossom\]](https://osu.ppy.sh/beatmapsets/2321288#mania/4973138)
+  2. [Feryquitous - Ai Drew (Enie, ruka) \[Stable Diffusion (MWC Edit)\] *(temporary link)*](https://leoflt.com/s/1JCv)
+  3. [Aoi - Welkius (\_Kobii\_, Blocko, ruka) \[Gilded Firmament\]](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158)
+- Tiebreaker
+  1. **[Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination (Critical\_Star, Blocko) \[Shattered Sky\]](https://osu.ppy.sh/beatmapsets/2321297#mania/4973159)**
 
 ### Semifinals
 
@@ -246,9 +268,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 Saturday, 8 February 2025:
 
+| Team A |  |  | Team B | Match link | VOD link |  |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/117101145) | [#1](https://www.twitch.tv/videos/2375710046) |  |
+| BIG MAXUS | 6 | **7** | **ET BLOCKO** | [#1](https://osu.ppy.sh/community/matches/117101821) | [#1](https://www.twitch.tv/videos/2375746661) | Semifinals showmatch (mappooling team) |
+| **Malaysia** ::{ flag=MY }:: | **6** | -1 | ::{ flag=CL }:: Chile | *win by default* |  |  |
+| United States ::{ flag=US }:: | 2 | **6** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/117103481) | [#1](https://www.twitch.tv/videos/2375793992) |  |
+
+Sunday, 9 February 2025:
+
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Malaysia** ::{ flag=MY }:: | **6** | -1 | ::{ flag=CL }:: Chile | *win by default* |  |
+| **South Korea** ::{ flag=KR }:: | **6** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/117114421) | [#1](https://www.twitch.tv/videos/2376660974) |
+| **Indonesia** ::{ flag=ID }:: | **6** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/117114882) | [#1](https://www.twitch.tv/videos/2376660973) |
+| **China** ::{ flag=CN }:: | **6** | 4 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/117115848) | [#1](https://www.twitch.tv/videos/2376663395) |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 0 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/117117145) | [#1](https://www.twitch.tv/videos/2376694274) |
+| Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/117117928) | [#1](https://www.twitch.tv/videos/2376748946) |
 
 ### Quarterfinals
 
@@ -536,7 +571,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^showmatch]: Mappooling team showmatch
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
