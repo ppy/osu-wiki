@@ -29,7 +29,7 @@ Nominators who ranked **at least 4 maps** during the event were given a 1 month 
 **Overall across all game modes**
 
 | Name | Game mode | Nominations |
-| :-: | :-: | :-: |
+| :-- | :-- | --: |
 | ::{ flag=US }:: [Chanyah](https://osu.ppy.sh/users/5226970) | osu! | 18 |
 | ::{ flag=AU }:: [Akito](https://osu.ppy.sh/users/5716327) | osu! | 12 |
 | ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | osu! | 11 |
@@ -44,7 +44,7 @@ Nominators who ranked **at least 4 maps** during the event were given a 1 month 
 **osu!**
 
 | Name | Nominations |
-| :-: | :-: |
+| :-- | --: |
 | ::{ flag=US }:: [Chanyah](https://osu.ppy.sh/users/5226970) | 18 |
 | ::{ flag=AU }:: [Akito](https://osu.ppy.sh/users/5716327) | 12 |
 | ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | 11 |
@@ -52,7 +52,7 @@ Nominators who ranked **at least 4 maps** during the event were given a 1 month 
 **osu!taiko**
 
 | Name | Nominations |
-| :-: | :-: |
+| :-- | --: |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 9 |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 7 |
 | ::{ flag=US }:: [ikin5050](https://osu.ppy.sh/users/4007649) | 5 |
@@ -60,7 +60,7 @@ Nominators who ranked **at least 4 maps** during the event were given a 1 month 
 **osu!catch**
 
 | Name | Nominations |
-| :-: | :-: |
+| :-- | --: |
 | ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | 3 |
 | ::{ flag=NO }:: [Benita](https://osu.ppy.sh/users/4023183) | 3 |
 | ::{ flag=KR }:: [My Angel RangE](https://osu.ppy.sh/users/6336713) | 2 |
@@ -68,7 +68,7 @@ Nominators who ranked **at least 4 maps** during the event were given a 1 month 
 **osu!mania**
 
 | Name | Nominations |
-| :-: | :-: |
+| :-- | --: |
 | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | 10 |
 | ::{ flag=KR }:: [Dubstek](https://osu.ppy.sh/users/9555243) | 8 |
 | ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941) | 6 |
