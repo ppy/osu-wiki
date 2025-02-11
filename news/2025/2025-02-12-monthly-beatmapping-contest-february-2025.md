@@ -10,8 +10,8 @@ Constraints boost creativity in any medium, and osu! mapping is no exception. Se
 
 Welcome to the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*), the beatmapping contest that runs every month. While we're not very original with our names, we expect **osu!** and **osu!mania** mappers to produce original maps this month:
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/239)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/240)
 
 This article covers results from the last contest, plus criteria for this contest. Skip around with these links:
 
@@ -30,8 +30,8 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [fowwo](https://osu.ppy.sh/users/4547551) | [SONG](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
-| Runner-up | [Pyo](https://osu.ppy.sh/users/6641784) | [SONG](LINK) | - | - | +1 (1 total) |
+| Winner | [fowwo](https://osu.ppy.sh/users/4547551) | [False Noise - Serpentine](https://osu.ppy.sh/beatmapsets/2322117) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
+| Runner-up | [Pyo](https://osu.ppy.sh/users/6641784) | [sakuraburst - AETHERSONG](https://osu.ppy.sh/beatmapsets/2322116) | - | - | +1 (1 total) |
 
 #### Top 10
 
@@ -66,8 +66,8 @@ Special thanks to this month's judges: [-mint-](https://osu.ppy.sh/users/8976576
 
 This month's contest is open to **osu!** and **osu!mania** mappers.
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/239)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/240)
 
 ## Timeline
 
@@ -146,8 +146,8 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 Why are you reading this? You should be in the editor designing your beatmapping masterpiece. As soon as your creation is complete, head to your mode's contest listing and send your `.osz` to the judges.
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/239)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/240)
 
 You have until **March 5th** to submit!
 
