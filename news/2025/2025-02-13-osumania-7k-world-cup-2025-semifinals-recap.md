@@ -36,7 +36,13 @@ Rambling and spoilers aside, this week's video recap is yet again brought to you
 
 ![Semifinals mappool table](/wiki/shared/news/2025-02-13-osumania-7k-world-cup-2025-semifinals-recap/mappool.jpg)
 
-Mappool recap
+We've reached a point where the average Joe may struggle to keep up with the mappool's difficulty. If earlier maps are characterised by their need to get very good accuracy on them, higher-end maps are tests of endurance meant to push players to their limits, where difficulty comes from misses more than anything else. And let us tell you — missing our players will!
+
+Keeping up with the same pool size as last week and its newfound categories, we have several new rehashed [bespoke tracks](/wiki/Community/Bespoke_music) on this round's pool! Most interestingly, the first one is [Trina Lydia - TETRATONE ALTiSSiMO](https://osu.ppy.sh/beatmapsets/2317891#mania/4964056) (LN3) mapped by [U1d](https://osu.ppy.sh/users/10125072) and originally released for the [1K Dan Course](https://osu.ppy.sh/beatmapsets/2234936#mania/4747563). That's right, one key! As for returning originals from other World Cups, we have [Lime - Pixel Planet](https://osu.ppy.sh/beatmapsets/2317895#mania/4964061) (RC6) made by [_Kobii](https://osu.ppy.sh/users/6209713), [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313) (RC5) by [_Yiiiii](https://osu.ppy.sh/users/6066359), and finally [aquestion - Umami Blaze](https://osu.ppy.sh/users/6066359) (RC1) mapped by [pwhk](https://osu.ppy.sh/users/4887865). Quite the assortment of original rice maps.
+
+But originals are not the only highlights of the pool! As we all know by now, the mini-TB gives players a taste of how an actual tiebreaker is typically designed, both in terms of structure and difficulty. [mitei - Phosphor](https://osu.ppy.sh/beatmapsets/2317893#mania/4964059) (HB3) by [U1d](https://osu.ppy.sh/users/10125072) has it all! Aesthetically pleasing patterns are present throughout the map while covering a wide range of skill sets required to play these patterns effectively. Beyond these challenges, it also offered an enjoyable experience not only for the players alone but also for the mappool playtesters. A 0% ban rate during the weekend is a testament to that.
+
+! EXTRA MAP TO HIGHLIGHT HERE !
 
 ---
 
@@ -48,7 +54,7 @@ Mappool recap
     </audio>
 </div>
 
-Le osu!originals
+Following suit from last week, we've got a couple new original tracks lined up! The second one to showcase was [FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) (HB1) produced by [Xyris](https://osu.ppy.sh/beatmaps/artists/433) with the backup of [Critical_Star](https://osu.ppy.sh/users/3793196) as the maestro behind the map. A fairly generic hybrid as the category would suggest. Not to be confused with simple however given the map's tricky nature. With fast-paced chordstreams to the rhythm of the song's very upbeat melody and less-than-friendlier releases, this beatmap is anything but simple.
 
 [![](/wiki/shared/news/2025-02-13-osumania-7k-world-cup-2025-semifinals-recap/Ruin_in_Cascade_banner.jpg)](https://osu.ppy.sh/beatmapsets/2318032#mania/4964418)
 
@@ -58,7 +64,13 @@ Le osu!originals
     </audio>
 </div>
 
-Le osu!originals
+Our second and last original track of the week was [Ruin in Cascade](https://osu.ppy.sh/beatmapsets/2318032#mania/4964418) by [kanemiko](https://osu.ppy.sh/beatmaps/artists/367). Keeping up with the tradition of featuring exciting new tracks on the tiebreaker, this year's 7K MWC was no exception! A massive collaborative effort between [Critical_star](https://osu.ppy.sh/users/3793196), [_Stan](https://osu.ppy.sh/users/1653229), [Maxus](https://osu.ppy.sh/users/4335785), [kaulpakka](https://osu.ppy.sh/users/7115625), [ExNeko](https://osu.ppy.sh/users/7590894), and [taba2](https://osu.ppy.sh/users/7850508).
+
+But words alone cannot describe the map, so why not enjoy it in full thanks to [cheewee10](https://osu.ppy.sh/users/4477497)'s amazing play with [Noffy](https://osu.ppy.sh/users/1541323)'s eye-watering storyboard to accompany it with!
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/jDt7cJ_YiUE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Semifinals summary
 
@@ -138,4 +150,4 @@ Add interview + Make GFX.
 
 Outro + plugs.
 
-—RandomeLoL
+—RandomeLoL, _Kobii
