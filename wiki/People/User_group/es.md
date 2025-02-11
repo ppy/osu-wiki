@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: b41f62f090ac047d79968128d8cfbfc2527412ba
 tags:
   - usergroup
   - grupo de usuario
