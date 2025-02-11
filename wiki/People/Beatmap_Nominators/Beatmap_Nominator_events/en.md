@@ -20,9 +20,9 @@ During the event, Beatmap Nominators were tasked with ranking maps from users wh
 
 Nominators who ranked **at least 4 maps** during the event were given a 1 month of Discord nitro reward. Moreover the overall top 4 nominators across all game modes and the top 1 in each game mode were given an exclusive BN mug and a badge to accompany it.
 
-- **Badge:**
-  ![Top Nominator during the 2021 New Mapper Nomination Event](https://assets.ppy.sh/profile-badges/BNevent2021.png)
-- **Mug:** ![](img/mug.jpg)
+![Top Nominator badge reward](https://assets.ppy.sh/profile-badges/BNevent2021@2x.png "Top Nominator badge reward")
+
+![Top Nominator mug reward](img/mug.jpg "Top Nominator mug reward")
 
 ### Top placements
 
