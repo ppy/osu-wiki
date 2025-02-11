@@ -25,7 +25,7 @@ Now that we've gone through everything skinning related that happened in 2024, l
 
 ## Voting details
 
-All skins released in 2024 and added to the skinship compendium are eligible, **including contest entries (regardless of their final placement)**. This year you'll have **12** votes to cast, so be sure to use them wisely!
+All skins released in 2024 and added to the skinship compendium are eligible, **including contest entries (regardless of their final placement)**. This year you'll have **15** votes to cast, so be sure to use them wisely!
 
 The top 3 entries will all receive a unique profile badge based on their entry along with 4, 3 and 2 months of osu!supporter respectively. Entries #4–10 will all receive a month of osu!supporter each.
 
