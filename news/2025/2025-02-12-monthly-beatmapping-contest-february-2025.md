@@ -10,8 +10,8 @@ Constraints boost creativity in any medium, and osu! mapping is no exception. Se
 
 Welcome to the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*), the beatmapping contest that runs every month. While we're not very original with our names, we expect **osu!** and **osu!mania** mappers to produce original maps this month:
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/239)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/240)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/240)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/241)
 
 This article covers results from the last contest, plus criteria for this contest. Skip around with these links:
 
@@ -51,8 +51,8 @@ And of course, send some appreciation to [Daycore](https://osu.ppy.sh/users/5596
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Xinhong1003](https://osu.ppy.sh/users/19821902) | [SONG](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [oct4](https://osu.ppy.sh/users/10303887) | [SONG](LINK) | - | +1 (3 total) |
+| Winner | [Xinhong1003](https://osu.ppy.sh/users/19821902) | [Culprate - Florn](https://osu.ppy.sh/beatmapsets/2322253#mania/4975664) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| Runner-up | [oct4](https://osu.ppy.sh/users/10303887) | [Sobrem & NIWASHI - A fight in Tunisia](https://osu.ppy.sh/beatmapsets/2322182#mania/4975491) | - | +1 (3 total) |
 
 #### Top 10
 
@@ -66,8 +66,8 @@ Special thanks to this month's judges: [-mint-](https://osu.ppy.sh/users/8976576
 
 This month's contest is open to **osu!** and **osu!mania** mappers.
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/239)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/240)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/240)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/241)
 
 ## Timeline
 
@@ -98,7 +98,7 @@ This contest's limitation is the same as [January 2020's contest](https://osu.pp
 
 For no particular reason, this month's contest is about **the number 6**.
 
-Single note, long note, and total object counts **must include a 6**.
+**Submissions must be 6K.** Moreover, single note, long note, and total object counts **must include the number 6**.
 
 *But wait, there's more.* Single note, long note, and total object counts must also **be divisible by 6**.
 
@@ -146,8 +146,8 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 Why are you reading this? You should be in the editor designing your beatmapping masterpiece. As soon as your creation is complete, head to your mode's contest listing and send your `.osz` to the judges.
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/239)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/240)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/240)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/241)
 
 You have until **March 5th** to submit!
 
