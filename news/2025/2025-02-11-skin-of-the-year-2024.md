@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Skin of the Year 2024: Voting Open"
-date: 2025-02-05 12:00:00 +0000
+date: 2025-02-11 18:00:00 +0000
 ---
 
 Take one final look back into 2024 and vote for your favourite skins!
 
-![](/wiki/shared/news/2025-02-05-skin-of-the-year-2024/banner.jpg)
+![](/wiki/shared/news/2025-02-11-skin-of-the-year-2024/banner.jpg)
 
 As 2025 rolls around, it's time to continue the annual tradition of going through the [skinship compendium](https://compendium.skinship.xyz/) and voting for the best skins of the previous year.
 
@@ -25,12 +25,16 @@ Now that we've gone through everything skinning related that happened in 2024, l
 
 ## Voting details
 
-- are all compendium skins eligible this year as well?
-- how many votes?
-- how many total submissions to the forums, how many have been added to the compendium?
-- how long will the voting be up for?
-- rewards?
+All skins released in 2024 and added to the skinship compendium are eligible, **including contest entries (regardless of their final placement).** This year you'll have **12** votes to cast, so be sure to use them wisely!
 
-[**Click here to get involved and vote for 2024's Skin of the Year!**](https://osu.ppy.sh/community/contests/237)
+The top 3 entries will all receive a unique profile badge based on their entry along with 4, 3 and 2 months of osu!supporter respectively. Entries #4–10 will all receive a month of osu!supporter each.
+
+In total there have been **233** skins submitted this year across all forum categories ([work in progress](https://osu.ppy.sh/community/forums/119), [remixed](https://osu.ppy.sh/community/forums/124), [completed](https://osu.ppy.sh/community/forums/109)), with **105** of them getting added to the [skinship compendium](https://compendium.skinship.xyz/). As always, it's highly recommended that you peruse through the compendium, and pick out your 2024 favourites!
+
+[**Click here to get involved and vote for 2024's Skin of the Year!**](https://osu.ppy.sh/community/contests/239)
+
+The voting will be up for 14 days after this post goes up, and will close on the 25th at 23:59 UTC, so don't hesitate too long and get your votes in on time!
+
+Thank you to all skinning community members who contributed to the compendium this year, good luck!
 
 —skinship
