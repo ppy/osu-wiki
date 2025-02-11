@@ -140,7 +140,12 @@ Highlights.
 
 ## Score highlights
 
-Score highlights.
+This weekend gave us quite an extense highlight reel in spite of the increased difficulty of the mappool. The scores we're about to mention are some of the best performances seen throughout the weekend!
+
+- Elite osu!mania 7K player ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406) gave us a masterclass on playing technical charts with their 991k score on [The Flashbulb - Six Acid Strings](https://osu.ppy.sh/beatmapsets/2318102#mania/4964713) (RC4). Not satisfied with that score alone, they doubled down by scoring 986,112 on [mitei - Phosphor](https://osu.ppy.sh/beatmapsets/2317893#mania/4964059) (HB3), barely missing out on the full combo.
+- Speaking of masterclasses, ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) also offered us one on overall consistency on rice charts thanks to their 993k run on [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313) (RC5).
+- ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178)'s lecture on noodle slurping continued with their impressive 987k run on [Elliot Hsu - A Guiding Star](https://osu.ppy.sh/beatmapsets/2317897#mania/4964065) (LN1). If anything, this score should serve as *a guiding star* for us who wish to emulate these players' ability to play the game.
+- South Korea's team captain, ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008), gave us quite an emphatic performance this weekend. Enough for us to highlight three scores at once! Namely, their 988k full combo on [Aiobahn feat. KOTOKO - Gekkouchou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2317886#mania/4964046) (LN4), their 989k 1-miss run on [FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) (HB1), and an *enchanting* 986k FC on [linear ring - enchanted love](https://osu.ppy.sh/beatmapsets/2317898#mania/4964066) (HB2).
 
 ## Interview (TBD)
 
