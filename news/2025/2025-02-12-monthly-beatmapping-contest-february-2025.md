@@ -132,8 +132,8 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 ## Rules
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - **osu!:** asdf
-  - **osu!mania:** asdf
+  - **osu!:** all slider shapes must be straight lines.
+  - **osu!mania:** Single note, long note, and total object counts **must include a 6** and **must be divisible by 6**.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
