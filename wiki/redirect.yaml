@@ -2156,4 +2156,4 @@ gameplay/hit_object/slider/reverse_slider: Gameplay/Hit_object/Slider/Repeat_sli
 osu!_originals: Community/Bespoke_music
 
 # Renamed in #12800
-user_group: User_groups
+people/user_group: People/User_groups
