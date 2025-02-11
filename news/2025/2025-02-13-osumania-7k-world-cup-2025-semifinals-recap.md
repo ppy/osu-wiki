@@ -179,7 +179,7 @@ South American teams have been a bit of a surprise this year. Considered the und
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
-Congratulations for your performance in the tournament so far! How does the team feel about their achievement this year, considering this was Peru's first time to qualify for the tournament?
+Congratulations on your performance in the tournament so far! How does the team feel about their achievement this year, considering this was Peru's first time to qualify for the tournament?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/23731514" style="background-image: url('/wiki/shared/avatars/-luvv.jpg')"></a>
 
