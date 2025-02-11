@@ -12,7 +12,7 @@ If last week was this tournament's low point, then this week was the complete op
 
 There have been quite a lot of exciting moments on this week alone. From historical feats achieved by some of the teams, to fun moments shared amongst the pooling team members. Tournaments are meant to be fun after all, both to its participants and organisers!
 
-We even got the chance to interview ::{ flag=PE }:: [-luvv](https://osu.ppy.sh/users/23731514) on behalf of team Peru given their players' performances throughout the tournament. Definitely a story worth telling from one of this year's most promising teams!
+We even got the chance to interview [-luvv](https://osu.ppy.sh/users/23731514) on behalf of team Peru given their players' performances throughout the tournament. Definitely a story worth telling from one of this year's most promising teams!
 
 Rambling and spoilers aside, this week's video recap is yet again brought to you by [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550). A very good alternative to the usual podcasts you may be used to listening in the background on your spare time.
 
