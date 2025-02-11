@@ -114,7 +114,19 @@ Highlights.
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights.
+This must've been a match that most people were waiting for! With South Korea (#1) and Japan (#4) being considered two of the strongest teams in the tournament, this was bound to be a heated duel. While South Korea has dominated the 7K World Cup for years, Japan's strength in rice maps is nothing short of remarkable. The outcome could go either way, and neither team could afford to give their opponent an opening if they were planning on securing their points.
+
+Japan opened the match with their first pick, [Flying Steps - We Are Electric](https://osu.ppy.sh/beatmapsets/2317884#mania/4964044) (RC3). Arguably one of Japan's strongest choices. With a very close 6,770-point lead, Japan managed to secure the win in no small part thanks to ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586)'s earth-shattering score of 999,257, one of the best in the entire round! A point which would've been much closer were it not be for ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649)'s unfortunate miss, away from getting a 49 perfect run.
+
+South Korea's strategy was quite straightforward. Knowing Japan's strengths, they opted to pick long note or hybrid maps to counter their rivals and gain a tangible edge on their picks. This all begun with [mitei - Phosphor](https://osu.ppy.sh/beatmapsets/2317893#mania/4964059) (HB3), arguably one of the hardest maps in the pool. Capitalizing on South Korea's stronger physique, they turned the tables around and evened out the match winning by a considerable margin.
+
+Both teams stuck true to their strategies. But sticking to a plan wouldn't be enough, as proven by some close moments such as in [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313) (RC5) when ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007)'s mid-chart miss nearly gave South Korea the edge, winning by a mere 1,385 points. Things only looked better for the Japanese when they won their break point against South Korea's [Xyris - FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) (HB1) after a series of misses from the Koreans caused them to lag behind their opponents. With ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) and ::{ flag=JP }:: [Suzuha_l](https://osu.ppy.sh/users/6132697) dual full combos, Japan secured the break point with a **tiny lead of 114 points!** The Japanese were in a very good spot, being 2–4 over their rivals.
+
+However, that was the beginning of the end for Japan as they picked [The Flashbulb - Six Acid Strings](https://osu.ppy.sh/beatmapsets/2318102#mania/4964713) (RC4), a risky and volatile map prone to misses. South Korea won with a large score gap, in no small part thanks to ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406)'s 991,769 full combo. Japan continued bleeding points as the ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) and ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406) duo kept winning point after point with considerable margins over their rivals.
+
+This trend continued up until South Korea shifted the match's tides, scoring 5–4 and gaining an advantage over their previously superior rivals. Japan's last chance to force a tiebreaker was in the hands of South Korea's pick, which ended up being [Aiobahn feat. KOTOKO - Gekkouchou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2317886#mania/4964046) (LN4). Despite their best efforts however, with their rivals winning the high ground, South Korea sealed the match by winning their last pick.
+
+South Korea's reputation precedes them, and their performance in this match only reinforced that. That said, Japan managed to push their rivals' buttons more than once, demonstrating their own prowess especially under pressure. The match was a testament to the skill and determination of both teams, with every round feeling like a battle of nerves and precision.
 
 ### ::{ flag=CN }:: China vs. ::{ flag=PH }:: Philippines
 
@@ -236,7 +248,7 @@ This weekend gave us quite an extense highlight reel in spite of the increased d
 - Elite osu!mania 7K player ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406) gave us a masterclass on playing technical charts with their 991k score on [The Flashbulb - Six Acid Strings](https://osu.ppy.sh/beatmapsets/2318102#mania/4964713) (RC4). Not satisfied with that score alone, they doubled down by scoring 986,112 on [mitei - Phosphor](https://osu.ppy.sh/beatmapsets/2317893#mania/4964059) (HB3), barely missing out on the full combo.
 - Speaking of masterclasses, ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) also offered us one on overall consistency on rice charts thanks to their 993k run on [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313) (RC5).
 - ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178)'s lecture on noodle slurping continued with their impressive 987k run on [Elliot Hsu - A Guiding Star](https://osu.ppy.sh/beatmapsets/2317897#mania/4964065) (LN1). If anything, this score should serve as *a guiding star* for us who wish to emulate these players' ability to play the game.
-- South Korea's team captain, ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008), gave us quite an emphatic performance this weekend. Enough for us to highlight three scores at once! Namely, their 988k full combo on [Aiobahn feat. KOTOKO - Gekkouchou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2317886#mania/4964046) (LN4), their 989k 1-miss run on [FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) (HB1), and an *enchanting* 986k FC on [linear ring - enchanted love](https://osu.ppy.sh/beatmapsets/2317898#mania/4964066) (HB2).
+- South Korea's team captain, ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008), gave us quite an emphatic performance this weekend. Enough for us to highlight three scores at once! Namely, their 988k full combo on [Aiobahn feat. KOTOKO - Gekkouchou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2317886#mania/4964046) (LN4), their 989k 1-miss run on [Xyris - FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) (HB1), and an *enchanting* 986k FC on [linear ring - enchanted love](https://osu.ppy.sh/beatmapsets/2317898#mania/4964066) (HB2).
 
 ---
 
@@ -244,4 +256,4 @@ We knew this was going to be an interesting year given the increased number of q
 
 In the meantime, we'll see ourselves out. Make sure to keep a close eye on the [wiki article](/wiki/Tournaments/MWC/2025_7K) to not miss any of the details that may've gone amiss throughout the recap.
 
-—RandomeLoL, _Kobii, SurfChu85
+—RandomeLoL, _Kobii, \[GB\]yobrevelc, Maxus, SurfChu85
