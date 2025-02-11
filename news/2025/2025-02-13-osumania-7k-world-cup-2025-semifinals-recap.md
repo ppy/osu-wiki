@@ -138,6 +138,87 @@ Highlights.
 
 Highlights.
 
+Segue to interview.
+
+---
+
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-nat {
+        color: #fa3703;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
+</style>
+
+![](/wiki/shared/news/2025-02-13-osumania-7k-world-cup-2025-semifinals-recap/-luvv.png)
+
+South American teams have been a bit of a surprise this year. Considered the underdogs by some, yet both Venezuela and Peru have managed to make it quite far into the tournament! Peru's performance in particular has been astonishing given their team's first year qualifying for the 7K World Cup. Therefore, we wanted to host an interview with [-luvv](https://osu.ppy.sh/users/23731514) in the hopes of giving us some insight of the team's thoughts on this year's experience!
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+Congratulations for your performance in the tournament so far! How does the team feel about their achievement this year, considering this was Peru's first time to qualify for the tournament?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/23731514" style="background-image: url('/wiki/shared/avatars/-luvv.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/23731514">-luvv</a></p>
+
+Honestly, the team was already expecting these results, as Peru disposes of some of the best players in South America. Compared to previous years when Peru didn't bother participating in the 7K MWC, we weren't surprised we made the cut during Qualifiers. That said, we really didn't expect making it this far to be quite honest.
+
+We're very satisfied with this year's achievements! While we were a bit nervous, we managed to achieve something quite big in this year's tournament: that a South American team would reach the Finals in 2025.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+The journey to get here must have not been easy. What has been the key to your success? What improvements has the team gone through throughout these past few years to get where you are right now?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/23731514" style="background-image: url('/wiki/shared/avatars/-luvv.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/23731514">-luvv</a></p>
+
+I feel like the key to our success was, more than anything else, our teamwork and our match against Malaysia in the Round of 16. We were very nervous because none of us had any real experience in tournaments, and that match served as a reality check — sometimes we win, sometimes we lose. Moreover, the strategies we used to win some rounds helped us a lot!
+
+Some of these strategies focused on how we could learn to control our nerves. These included doing some breathing exercises or not watching the stream until the very end of the match. This last one in particular is a very good recommendation for any new players who wish to participate in the MWC. I'm plenty sure it will help them. In general, the most important thing is having fun! And I can safely say that our team had plenty of it during the tournament.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+Finally, we'd like to assume this is not the end for team Peru. How do you think this year's performance will affect tournaments in the future? Will it reignite your country's community passion for tournaments to come?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/23731514" style="background-image: url('/wiki/shared/avatars/-luvv.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/23731514">-luvv</a></p>
+
+As much as it pains me to say this, I don't think this will affect future tournaments as we don't know if we'll be participating in the years to come — including new players — given our time constraints. However, our participation had a huge impact on the players of my country who were quite motivated seeing the challenges we overcame this year.
+
+While it is true that there were lofty expectations for us this year, I personally believe that our passion for tournaments will keep on growing. I'm eagerly waiting for more people capable to break their own limits in future competitions. Even so, I'm more than sure that we could do even better if we had just a bit more determination and commitment...
+
+</div>
+
 ## Score highlights
 
 This weekend gave us quite an extense highlight reel in spite of the increased difficulty of the mappool. The scores we're about to mention are some of the best performances seen throughout the weekend!
@@ -146,10 +227,6 @@ This weekend gave us quite an extense highlight reel in spite of the increased d
 - Speaking of masterclasses, ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) also offered us one on overall consistency on rice charts thanks to their 993k run on [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313) (RC5).
 - ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178)'s lecture on noodle slurping continued with their impressive 987k run on [Elliot Hsu - A Guiding Star](https://osu.ppy.sh/beatmapsets/2317897#mania/4964065) (LN1). If anything, this score should serve as *a guiding star* for us who wish to emulate these players' ability to play the game.
 - South Korea's team captain, ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008), gave us quite an emphatic performance this weekend. Enough for us to highlight three scores at once! Namely, their 988k full combo on [Aiobahn feat. KOTOKO - Gekkouchou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2317886#mania/4964046) (LN4), their 989k 1-miss run on [FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) (HB1), and an *enchanting* 986k FC on [linear ring - enchanted love](https://osu.ppy.sh/beatmapsets/2317898#mania/4964066) (HB2).
-
-## Interview (TBD)
-
-Add interview + Make GFX.
 
 ---
 
