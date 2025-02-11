@@ -155,13 +155,15 @@ Users under an active tournament ban are expected to disclose their tournament b
 
 At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another officially-supported tournament for at least 4 months. In the event a staffing ban is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
+At the support team's discretion, organisers who make major mistakes that break elibility rules or expectations for official support may be subject to a hosting ban. Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. Under a hosting ban, organisers may not be a primary organiser or admin for any officially-supported tournaments but are still able to fulfill other roles.
+
 A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet. If there are multiple lists of staff, they must all be up to date and in sync with one another.
 
 ### Players
 
 Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
 
-Additionally, players are expected to have *reasonably participated* in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough.
+Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough. Because there are intangible contributions to teams that players often make without playing maps, only players who *do not play any maps at all* throughout the course of a tournament may be denied a badge prize.
 
 At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
