@@ -133,7 +133,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
   - **osu!:** all slider shapes must be straight lines.
-  - **osu!mania:** Single note, long note, and total object counts **must include a 6** and **must be divisible by 6**.
+  - **osu!mania:** single note, long note, and total object counts **must include a 6** and **must be divisible by 6**.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
@@ -149,6 +149,6 @@ Why are you reading this? You should be in the editor designing your beatmapping
 - [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
 - [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
 
-You have until **February 5th** to submit!
+You have until **March 5th** to submit!
 
 —pishifat, RandomeLoL
