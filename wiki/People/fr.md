@@ -36,7 +36,7 @@ Page d'index pour les articles sur les personnes ou les groupes.
 
 ## Autres
 
-- [Groupe d'utilisateurs](User_group)
 - [peppy](peppy)
 - [Registre du personnel](Staff_log)
+- [Groupes d'utilisateurs](User_groups)
 - [Utilisateurs avec des titres uniques](Users_with_unique_titles)

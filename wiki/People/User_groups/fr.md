@@ -2,10 +2,11 @@
 no_native_review: true
 tags:
   - usergroup
-  - groupes d'utilisateurs
+  - usergroups
+  - groupe d'utilisateurs
 ---
 
-# Groupe d'utilisateurs
+# Groupes d'utilisateurs
 
 ![Exemple de badge de groupe d'utilisateurs](img/user-group-badge.png "Badge de groupe d'utilisateurs sur la page de profil d'un utilisateur")
 

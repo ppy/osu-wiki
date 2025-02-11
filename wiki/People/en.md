@@ -34,5 +34,5 @@ Index page for articles about people or groups.
 
 - [peppy](peppy)
 - [Staff log](Staff_log)
-- [User group](User_group)
+- [User groups](User_groups)
 - [Users with unique titles](Users_with_unique_titles)

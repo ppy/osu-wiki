@@ -7,7 +7,7 @@ tags:
 
 # Tournament Committee
 
-The **Tournament Committee** is a panel of skilled and established organisers and helpers in the tournament scene. The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
+The **Tournament Committee** is a panel of skilled and established organisers and helpers in the tournament scene. Members of the Tournament Committee are distinguished by their orange user title and [user group](/wiki/People/User_groups) badge that reads `TC`. The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
 
 The Tournament Committee's responsibilities include advising the [account support team](/wiki/People/Account_support_team) on:
 
@@ -142,6 +142,7 @@ Those who are interested in joining the Tournament Committee may express their i
 ## Benefits
 
 Tournament Committee members are granted the following benefits:
+
 
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the Tournament Committee, ranging from 1 to 10.
   ![1 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-1y.png "1 year Tournament Committee badge") ![2 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-2y.png "2 year Tournament Committee badge") ![3 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-3y.png "3 year Tournament Committee badge") ![4 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-4y.png "4 year Tournament Committee badge") ![5 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-5y.png "5 year Tournament Committee badge") ![6 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-6y.png "6 year Tournament Committee badge") ![7 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-7y.png "7 year Tournament Committee badge") ![8 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-8y.png "8 year Tournament Committee badge") ![9 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-9y.png "9 year Tournament Committee badge") ![10 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-10y.png "10 year Tournament Committee badge")

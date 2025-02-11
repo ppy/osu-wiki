@@ -2,9 +2,11 @@
 tags:
   - usergroup
   - Nutzergruppe
+  - usergroups
+  - Nutzergruppen
 ---
 
-# Benutzergruppe
+# Benutzergruppen
 
 ![Beispiel für ein Gruppenabzeichen](img/user-group-badge.png "Gruppenabzeichen auf der Profilseite eines Nutzers")
 

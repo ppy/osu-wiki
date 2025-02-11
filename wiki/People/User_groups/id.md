@@ -2,6 +2,7 @@
 no_native_review: true
 tags:
   - usergroup
+  - usergroups
   - kelompok pengguna
 ---
 

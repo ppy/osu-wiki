@@ -1,10 +1,11 @@
 ---
 tags:
   - usergroup
+  - usergroups
   - grupo de usuario
 ---
 
-# Grupo de usuarios
+# Grupos de usuarios
 
 ![Ejemplo de insignias de grupos de usuarios](img/user-group-badge.png "Insignias de grupos de usuarios en la página de perfil de un usuario")
 
