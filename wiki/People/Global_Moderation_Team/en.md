@@ -20,7 +20,7 @@ The **Global Moderation Team** (formerly known as the Global Mod Team, Administr
 
 *See also: [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour)*
 
-The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to):
+The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining to the moderation aspect of the game, which would include (but is not limited to):
 
 - issues with chat (e.g. spam or harassment)
 - misbehaviour on forum (e.g. inappropriate posts)
