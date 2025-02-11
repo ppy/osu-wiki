@@ -39,6 +39,7 @@ outdated_translation: true
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | GMT |
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | LVD |
 | ::{ flag=CN }:: [Colin Hou](https://osu.ppy.sh/users/196614) | BAT |
 | ::{ flag=NO }:: [CXu](https://osu.ppy.sh/users/84841) | BAT |
 | ::{ flag=FR }:: [Cyclohexane](https://osu.ppy.sh/users/116078) | GMT |
