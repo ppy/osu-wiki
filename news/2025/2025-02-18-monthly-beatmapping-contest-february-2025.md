@@ -149,6 +149,6 @@ Why are you reading this? You should be in the editor designing your beatmapping
 - [osu! contest listing](https://osu.ppy.sh/community/contests/240)
 - [osu!mania contest listing](https://osu.ppy.sh/community/contests/241)
 
-You have until **March 5th** to submit!
+You have until **March 9th** to submit!
 
 —pishifat, RandomeLoL
