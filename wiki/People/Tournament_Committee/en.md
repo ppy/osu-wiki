@@ -143,7 +143,6 @@ Those who are interested in joining the Tournament Committee may express their i
 
 Tournament Committee members are granted the following benefits:
 
-
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the Tournament Committee, ranging from 1 to 10.
   ![1 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-1y.png "1 year Tournament Committee badge") ![2 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-2y.png "2 year Tournament Committee badge") ![3 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-3y.png "3 year Tournament Committee badge") ![4 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-4y.png "4 year Tournament Committee badge") ![5 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-5y.png "5 year Tournament Committee badge") ![6 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-6y.png "6 year Tournament Committee badge") ![7 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-7y.png "7 year Tournament Committee badge") ![8 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-8y.png "8 year Tournament Committee badge") ![9 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-9y.png "9 year Tournament Committee badge") ![10 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-10y.png "10 year Tournament Committee badge")
 
