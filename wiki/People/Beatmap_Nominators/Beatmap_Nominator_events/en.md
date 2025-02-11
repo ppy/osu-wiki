@@ -29,7 +29,7 @@ Nominators who ranked **at least 4 maps** during the event were given a 1 month 
 #### All game modes
 
 | Name | Game mode | Nominations |
-| :-- | :-: | --: |
+| :-- | :-- | --: |
 | ::{ flag=US }:: [Chanyah](https://osu.ppy.sh/users/5226970) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 18 |
 | ::{ flag=AU }:: [Akito](https://osu.ppy.sh/users/5716327) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 12 |
 | ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 11 |
