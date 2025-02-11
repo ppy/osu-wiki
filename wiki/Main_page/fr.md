@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 layout: main_page
+outdated_translation: true
+outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
 ---
 
 <div class="wiki-main-page__blurb">
@@ -62,7 +64,7 @@ Le classement est le processus qui permet d'obtenir un classement pour une beatm
 
 [Soumission](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Procédure de classement](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Critères de classement](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Critères de classement](/wiki/Ranking_criteria): [Métadonnées](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">

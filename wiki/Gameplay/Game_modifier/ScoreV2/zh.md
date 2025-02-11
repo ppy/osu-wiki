@@ -13,6 +13,7 @@ tags:
 
 ![SV2 模组图标](/wiki/shared/mods/SV2.png "ScoreV2 (SV2) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Score V2（lazer 模组）](/wiki/Gameplay/Game_modifier/Score_V2_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *请勿与 [分数](/wiki/Gameplay/Score) 或 [ScoreV1](/wiki/Gameplay/Score/ScoreV1) 混淆。*
 

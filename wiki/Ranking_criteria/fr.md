@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 40eac2ffc88cfc52c5dd2bb6574fb2f70a4ec3e6
 ---
 
 # Critères de classement
@@ -96,7 +98,6 @@ Il est important de prendre en compte cela avant d'utiliser ces logiciels :
   - De la difficulté la plus élevée de chaque mode de jeu.
   - Des difficultés les plus élevées de chaque mode de jeu avec un niveau de difficulté similaire, s'appliquant uniquement aux difficultés Insane et Extra (par exemple, les difficultés Insane d'un jeu ENHIIII ou les difficultés Extra d'un jeu ENHIIXXX).
 - **La dénomination de la difficulté personnalisée d'une beatmap doit suivre un thème ou un modèle commun lié à la musique ou à la difficulté et ne doit pas être déformée.** Un nom de difficulté est trompeur s'il implique un niveau de difficulté différent (par exemple, nommer une difficulté "Expert" comme étant une difficulté "Normal").
-- **Le nom d'une difficulté ne doit pas être constitué uniquement d'un ou plusieurs noms d'utilisateurs.** Les mots qui se trouvent être des noms d'utilisateurs sont acceptés dans les noms de difficulté, à condition qu'ils soient liés à la musique.
 - **[l'Hôte d'une beatmap](/wiki/Beatmap/Beatmap_host) ne peut pas indiquer son nom dans le nom d'une difficulté.** (par exemple Beatmap Host's Insane). Les conflits causés par le beatmapping de plusieurs musiques avec les mêmes métadonnées et les [difficultés collaborative](/wiki/Beatmap/Beatmap_collaborations) sont les seules exceptions. Les [guest difficulty](/wiki/Beatmap/Guest_difficulty) peuvent indiquer le nom d'utilisateur ou le surnom de ses créateurs.
 - **[l'Hôte d'une beatmap](/wiki/Beatmap/Beatmap_host) doit avoir beatmappé des difficultés égales ou supérieures à celles de n'importe quel créateur de [guest difficulty](/wiki/Beatmap/Guest_difficulty).** Il s'agit de rendre à chacun ce qui lui appartient. Les [difficultés collaborative](/wiki/Beatmap/Beatmap_collaborations) sont considérées comme des difficultés partielles, et le [drain time](/wiki/Beatmap/Drain_time) sera utilisé pour déterminer le montant de la contribution lorsqu'un invité a beatmappé significativement plus que l'hôte.
 - **[l'Hôte d'une beatmap](/wiki/Beatmap/Beatmap_host) et d'une [guest difficulty](/wiki/Beatmap/Guest_difficulty) peuvent apporter des modifications à leurs difficultés respectives comme ils le souhaitent.** En cas de désaccord entre les deux, l'hôte de la beatmap doit supprimer la contribution de l'invité sur demande. Si le créateur d'une guest difficulty n'est pas joignable dans un délai d'un mois, il sera considéré comme étant d'accord avec tout changements.
