@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Team
 
-The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Community/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmap) to the [Loved](/wiki/Beatmap/Category#loved) category. They are distinguished by their candy pink [user group](/wiki/People/User_group) badge that reads `LVD`.
+The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Community/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmap) to the [Loved](/wiki/Beatmap/Category#loved) category. They are distinguished by their candy pink [user group](/wiki/People/User_groups) badge that reads `LVD`.
 
 The Project Loved Team mainly consists of *captains* for each [game mode](/wiki/Game_mode). Captains are responsible for nominating beatmaps to the Loved category and act as representatives for the community in having a good sense of which maps to choose. They also write short descriptions about the nominated maps to help readers get a feel for each map in case they have not seen or played them before, which can be seen in Project Loved news posts.
 

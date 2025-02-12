@@ -34,5 +34,5 @@
 
 - [peppy](peppy)
 - [工作日志](Staff_log)
-- [用户组](User_group)
+- [用户组](User_groups)
 - [拥有特殊头衔的玩家](Users_with_unique_titles)

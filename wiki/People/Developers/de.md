@@ -11,7 +11,7 @@ tags:
 
 Die Entwickler von osu! halten das Spiel und die Website durch das Beheben von Fehlern und das Hinzufügen neuer Funktionen am Laufen. Die meisten sind Angestellte von ppy Pty Ltd, dem Unternehmen, dem osu! gehört. Sie bilden den größten Teil des [osu!-Teams](/wiki/People/osu!_team).
 
-Die osu!-Entwickler können anhand des pinken Benutzertitels "osu!dev" oder "osu!team" und des [Gruppenabzeichens](/wiki/People/User_group), auf dem `DEV` steht, erkannt werden.
+Die osu!-Entwickler können anhand des pinken Benutzertitels "osu!dev" oder "osu!team" und des [Gruppenabzeichens](/wiki/People/User_groups), auf dem `DEV` steht, erkannt werden.
 
 ## Teammitglieder
 

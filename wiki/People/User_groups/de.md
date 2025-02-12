@@ -1,10 +1,14 @@
 ---
+outdated_since: 3abbc3696141c81461c9bb3ca5190c1d6376091c
+outdated_translation: true
 tags:
   - usergroup
   - Nutzergruppe
+  - usergroups
+  - Nutzergruppen
 ---
 
-# Benutzergruppe
+# Benutzergruppen
 
 ![Beispiel für ein Gruppenabzeichen](img/user-group-badge.png "Gruppenabzeichen auf der Profilseite eines Nutzers")
 

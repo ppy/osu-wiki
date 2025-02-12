@@ -11,7 +11,7 @@ tags:
 
 Les développeurs d'osu! assurent le fonctionnement du jeu et du site Web en corrigeant les bugs et en ajoutant de nouvelles fonctionnalités. La plupart d'entre eux sont des employés de ppy Pty Ltd, la société propriétaire d'osu!. Ils forment la majorité de l'[équipe du jeu](/wiki/People/osu!_team).
 
-Les développeurs d'osu! sont reconnaissables à leur titre d'utilisateur "osu!dev" ou "osu!team" de couleur rose, ainsi qu'à leur [groupe d'utilisateurs](/wiki/People/User_group) sur lequel on peut lire `DEV`.
+Les développeurs d'osu! sont reconnaissables à leur titre d'utilisateur "osu!dev" ou "osu!team" de couleur rose, ainsi qu'à leur [groupe d'utilisateurs](/wiki/People/User_groups) sur lequel on peut lire `DEV`.
 
 ## Membres de l'équipe
 

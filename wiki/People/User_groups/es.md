@@ -1,10 +1,13 @@
 ---
+outdated_since: 3abbc3696141c81461c9bb3ca5190c1d6376091c
+outdated_translation: true
 tags:
   - usergroup
+  - usergroups
   - grupo de usuario
 ---
 
-# Grupo de usuarios
+# Grupos de usuarios
 
 ![Ejemplo de insignias de grupos de usuarios](img/user-group-badge.png "Insignias de grupos de usuarios en la página de perfil de un usuario")
 

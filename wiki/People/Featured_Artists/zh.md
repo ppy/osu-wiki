@@ -48,7 +48,7 @@ tags:
 
 ## 有 osu! 账号的精选艺术家
 
-精选艺术家的账号有青色的 "Featured Artist" [玩家头衔](/wiki/Community/User_title)和 `FA` [用户组](/wiki/People/User_group)标签，体现出他们对 osu! 的贡献。
+精选艺术家的账号有青色的 "Featured Artist" [玩家头衔](/wiki/Community/User_title)和 `FA` [用户组](/wiki/People/User_groups)标签，体现出他们对 osu! 的贡献。
 
 [精选艺术家用户组页面](https://osu.ppy.sh/groups/35)列出的是有 osu! 账号的精选艺术家，而[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有精选艺术家。
 

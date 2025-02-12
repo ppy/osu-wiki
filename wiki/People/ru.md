@@ -37,6 +37,6 @@ outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
 ## Разное
 
 - [peppy](peppy)
-- [Группы пользователей](User_group)
+- [Группы пользователей](User_groups)
 - [История команд osu!](Staff_log)
 - [Пользователи с уникальными титулами](Users_with_unique_titles)

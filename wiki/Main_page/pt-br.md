@@ -116,7 +116,7 @@ osu! não seria possivel sem vários usuários ajudando com seu desenvolvimento,
 
 [O time](/wiki/People/osu!_team): [Desenvolvedores](/wiki/People/Developers) • [Artistas em Destaque](/wiki/People/Featured_Artists) • [Time de Moderação Global](/wiki/People/Global_Moderation_Team) • [Time de Suporte](/wiki/People/Support_Team) • [Time de Avaliação de Nomeações](/wiki/People/Nomination_Assessment_Team) • [Nomeadores de Beatmap](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Time do Project Loved](/wiki/People/Project_Loved_Team) • [Curadores do Beatmap Spotlight](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Contribuidores da comunidade](/wiki/People/Community_Contributors) • [Grupo do Usuário](/wiki/People/User_group) • [Usuários com títulos únicos](/wiki/People/Users_with_unique_titles) • [Comitê de Torneios](/wiki/People/Tournament_Committee) • [Comitê de Pontos de Performance](/wiki/People/Performance_Points_Committee) • [Preservadores da osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Contribuidores da comunidade](/wiki/People/Community_Contributors) • [Grupos do Usuário](/wiki/People/User_groups) • [Usuários com títulos únicos](/wiki/People/Users_with_unique_titles) • [Comitê de Torneios](/wiki/People/Tournament_Committee) • [Comitê de Pontos de Performance](/wiki/People/Performance_Points_Committee) • [Preservadores da osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
