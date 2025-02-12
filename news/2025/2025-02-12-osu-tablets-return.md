@@ -58,7 +58,7 @@ In collaboration with **Wacom**, we're already in the production stages for a ta
 
 [![](/wiki/shared/news/2025-02-12-osu-tablets-return/teaser.jpg)](https://osu.ppy.sh/store/products/1448)
 
-While we usually don't announce upcoming products like this, we thought it would be worthwhile in this case. If you're exclusively interested in a tablet that top players would advocate for (and you're okay with a slightly higher pricetag), sit tight until everything is ready.
+While we usually wouldn't announce upcoming products like this, we feel it is only right that we do so for those which would rather wait for this model. If you're exclusively interested in a tablet that top players would advocate for (and you're okay with a somewhat higher price tag), sit tight until everything is ready. Note that the pro tablet will have its own **unique design**, so you're also more than welcome to collect them all!
 
 Desperate to know exactly when the **pro tablet** will be here? Head to [the **pro tablet**'s future store page](https://osu.ppy.sh/store/products/1448) and hit the "Notify me when available!" button.
 
