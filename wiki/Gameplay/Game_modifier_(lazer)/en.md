@@ -92,6 +92,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) ![][osu!]
 - [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
+- [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
 
 ### System
 

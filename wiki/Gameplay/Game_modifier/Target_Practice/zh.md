@@ -10,14 +10,13 @@ tags:
   - 标靶
   - 模组
   - 测试版
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Target Practice（模组）
 
 ![TP 模组图标](/wiki/shared/mods/TP.png "Target Practice (TP) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Target Practice（lazer 模组）](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *注意：只能在`测试版 (Cutting Edge)`中使用此模组。*
 

@@ -75,7 +75,7 @@
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | osu!taiko |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | osu!catch |
-| ::{ flag=US }:: [Nokashi](https://osu.ppy.sh/users/5431196) | osu!catch |
+| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | osu!catch |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | osu!mania |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) | osu!mania |
 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | osu!mania |
