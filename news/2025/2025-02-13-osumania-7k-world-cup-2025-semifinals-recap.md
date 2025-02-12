@@ -103,7 +103,21 @@ And what other way to begin with the match highlights than by recapping the best
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights.
+Allow us to introduce what could very well be the most exciting match of the week. Hell, we would dare to say this was the best match of the whole tournament! Where the extra terrestrial met the colossal; a clash between tectonic plates; a fight to be recorded on history books! Analogies aside, this was a showdown between two teams formed by members of the mappooling team — the true definition of "meeting your maker"!
+
+With all beatmaps on the pool being played with the exception of [seatrus & Halv - The Core](https://osu.ppy.sh/beatmapsets/2317878#mania/4964035) (LN2), this best of 13 match was bound to be a long (but fun!) one. With ::{ flag=KR }:: [rubyy](https://osu.ppy.sh/users/9880422), ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=JP }:: [[GS]hina](https://osu.ppy.sh/users/20040607), and ::{ flag=CN }:: [Watch01](https://osu.ppy.sh/users/13967954) forming part of team ET BLOCKO, and ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887), ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072), ::{ flag=KR }:: [chumpup](https://osu.ppy.sh/users/10878878), ::{ flag=CN }:: [_Yiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), and ::{ flag=JP }:: [LuluM](https://osu.ppy.sh/users/13151924) making up their rivals' team this was going to be a wacky match to say the least. But do not be mistaken, as some of the players were on par with many of the legends currently playing in this year's tournament. So the expectations on our members' performances were sky-high!
+
+And what better way to start the match than by picking [Elliot Hsu - A Guiding Star](https://osu.ppy.sh/beatmapsets/2317897#mania/4964065) (LN1), a category proven to be most divisive throughout the tournament. But a surprising close game for both of our teams whose long note skills are on point! A fact completely unrelated to the existence of the category in this year's pool — *no relation whatsoever~*. Snarky tone aside, some of the scores were worth highlighting just for how impressive they were. Take for example ::{ flag=CN }:: [Watch01](https://osu.ppy.sh/users/13967954)'s 985,571 full combo, which was the second best score on that map during the weekend!
+
+Team BIG MAXUS was no pushover, however. With ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) bathing in the limelight with their performance on rice maps such as [Lime - Pixel Planet](https://osu.ppy.sh/beatmapsets/2317895#mania/4964061) (RC6), or with ::{ flag=CN }:: [_Yiiiii](https://osu.ppy.sh/users/6066359) handling themselves quite well in [Trina Lydia - TETRATONE ALTiSSiMO](https://osu.ppy.sh/beatmapsets/2317891#mania/4964056) (LN3) with a team-leading score of 944,114 points. Shoutouts to ::{ flag=KR }:: [rubyy](https://osu.ppy.sh/users/9880422) who was consistently top scoring in many of the maps they played in! Makes you wonder how many of these players would've bolstered their team's rosters on this year's MWC.
+
+But this wouldn't be a showcase without showing the tiebreaker, wouldn't it? So of course [kanemiko - Ruin in Cascade](https://osu.ppy.sh/beatmapsets/2318032#mania/4964418) had to make an appearance at the very end of the showcase to determine who would be the biggest of ETs after the match! A match so engaging that even the commentators couldn't help themselves by cursing one of the players in the middle of the map:
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/2025-02-14-watch-this.mp4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Given the match's length, we haven't been able to recap it in full. Because of that, we strongly suggest you to [watch the whole match](https://www.twitch.tv/videos/2375746661). Having fun in a competitive environment is part of what makes a game enjoyable. If it's not fun, why bother? So go grab a handful of buddies of yours, download any of the pools, and start having a blast together on a multiplayer lobby!
 
 ### ::{ flag=KR }:: South Korea vs. ::{ flag=JP }:: Japan
 
