@@ -48,7 +48,7 @@ And when you're not setting top plays, you can keep your tablet safely away from
 
 [![](/wiki/shared/news/2025-02-12-osu-tablets-return/box.jpg)](https://osu.ppy.sh/store/products/1447)
 
-Pick up your own osu!tablet on [**the store page**](https://osu.ppy.sh/store/products/1447).
+Pick up your own osu!tablet on [**the store page**](https://osu.ppy.sh/store/products/1447). Available in **limited stock for immediate shipping** (with future re-stocks based on demand).
 
 ## pro tablet
 
