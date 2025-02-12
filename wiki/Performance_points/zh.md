@@ -115,7 +115,7 @@
 
 系统推出了几个月后，发布的 20120722-24 osu! 版本正式上线这个系统，取代了旧版的[上架谱面](/wiki/Beatmap/Category#ranked)分数系统。这个系统原定为每 30 分钟更新一次，同年 8 月时，系统升级为实时更新。
 
-系统继续运行了大约一年多，直到 *osu!tp* 计分系统的创建者，[Tom94](https://osu.ppy.sh/users/1857058) 加入 osu! 团队并将设计更新到表现分数系统时，这个系统更名为 *ppv2*，并于 2014 年 1 月 27 日上线。为便于区分，旧版的系统叫做 [ppv1](/wiki/Performance_points/ppv1)。
+系统继续运行了大约一年多，直到 *osu!tp* 计分系统的创建者，[Tom94](https://osu.ppy.sh/users/1857058) 加入 osu! 团队并将设计更新到表现分数系统时，这个系统更名为 *ppv2*，并于 2014 年 1 月 27 日上线。为便于区分，旧版的系统叫做 [ppv1](/wiki/Performance_points/ppv1)。在此以后，系统一直在维护，但没有重大的更新。
 
 2021 年 1 月 16 日，为了更加精准地确定谱面难度，并将更多的奖励分配给谱面中更困难的部分，ppv2 系统进行了一次比较大的修改。这次修改的大部分工作，是由一些社区成员做的，例如 [Xexxar](https://osu.ppy.sh/users/2773526) 和 [StanR](https://osu.ppy.sh/users/7217455) 等。修改方案的细节参见[这条新闻贴](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates)。简而言之，更新的主要内容如下：
 
