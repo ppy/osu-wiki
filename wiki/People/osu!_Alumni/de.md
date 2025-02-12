@@ -1,3 +1,9 @@
+---
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
+outdated_translation: true
+no_native_review: true
+---
+
 # osu! Alumni
 
 Die **osu! Alumni** sind diejenigen, die für ihre Beiträge bekannt sind und die inzwischen weitergezogen sind. Hätten wir die nötigen Mittel, würden wir eine Statue für jedes dieser Mitglieder errichten!
