@@ -145,7 +145,7 @@ This competition ended with the following podium:
   2. [32ki feat. Hatsune Miku & Kasane Teto - Mesmerizer (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2191205#taiko/4634769)
   3. [Irodorimidori - Shikisai Kajou no Diary Music (\_gt) \[Colorful Days\]](https://osu.ppy.sh/beatmapsets/2275130#taiko/4848014)
 - Tiebreaker
-  1. [Arctic Indexed Systems. - Nightburner (Eyenine) \[Shadeblight\]](https://osu.ppy.sh/beatmapsets/2275218#taiko/4848179)
+  1. **[Arctic Indexed Systems. - Nightburner (Eyenine) \[Shadeblight\]](https://osu.ppy.sh/beatmapsets/2275218#taiko/4848179)**
 
 ### Semifinals
 
@@ -171,7 +171,7 @@ This competition ended with the following podium:
   2. [polysha feat. Sennzai - Hurt Urge (MicSup08) \[Compulsion\]](https://osu.ppy.sh/beatmapsets/2150623#taiko/4530957)
   3. [owl\*tree - QuiQ (Game Version) (Fynbi) \[Master\]](https://osu.ppy.sh/beatmapsets/2271790#taiko/4839194)
 - Tiebreaker
-  1. [Cansol - a school of fish (midorijeon) \[subterranean shoal feat. qish\]](https://osu.ppy.sh/beatmapsets/2271802#taiko/4839212)
+  1. **[Cansol - a school of fish (midorijeon) \[subterranean shoal feat. qish\]](https://osu.ppy.sh/beatmapsets/2271802#taiko/4839212)**
 
 ### Quarterfinals
 
@@ -197,7 +197,7 @@ This competition ended with the following podium:
   2. [Mitsukiyo - Hifumi Daisuki \~Raytoly Futurecore Remix\~ (Raytoly) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1812041#taiko/3785732)
   3. [DOT96 - MAKE IT FUNKY NOW (FinHazel) \[FUNKY ONI\]](https://osu.ppy.sh/beatmapsets/2190868#taiko/4633859)
 - Tiebreaker
-  1. [Chroma - Higher Than The Sky (Fynbi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2267905#taiko/4829641)
+  1. **[Chroma - Higher Than The Sky (Fynbi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2267905#taiko/4829641)**
 
 ### Round of 16
 
@@ -222,7 +222,7 @@ This competition ended with the following podium:
   2. [BlackY - Nobodyknows Eden (namaniku) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/768440#taiko/1769628)
   3. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/1612240#taiko/3298607)
 - Tiebreaker
-  1. [tokiwa - Memoirs feat. Aitsuki Nakuru (qish) \[Stellar Memories\]](https://osu.ppy.sh/beatmapsets/2264801#taiko/4821598)
+  1. **[tokiwa - Memoirs feat. Aitsuki Nakuru (qish) \[Stellar Memories\]](https://osu.ppy.sh/beatmapsets/2264801#taiko/4821598)**
 
 ### Qualifiers
 
