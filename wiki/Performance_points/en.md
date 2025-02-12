@@ -101,7 +101,7 @@ At that point however, you would've set some comparatively more impressive score
 
 ### Why did I lose pp for setting a new score?
 
-**The pp algorithm is occasionally updated and scores recalculated to reflect new changes, which may become visible as a sudden decrease or increases in total pp when you set a score during that process.**
+**The pp algorithm is occasionally updated and scores are recalculated to reflect new changes, which may become visible as a sudden decrease or increase in total pp when you set a score during that process.**
 
 Updates to performance point systems are accompanied by announcements in-game and on the website, which contain more information about the recalculation process and the changes themselves.
 
@@ -115,15 +115,15 @@ Overall, the current performance points system has been engineered to be as fair
 
 ## History
 
-The initial implementation of performance points was revealed to the public during April 2012 and was then known only as the mysterious *"???"* project.
+The initial implementation of performance points was revealed to the public in April 2012 and was then known only as the mysterious *"???"* project.
 
-With the full name revealed later on in the month, this new system sought to change the previous standard of player performance from simply total [score](/wiki/Gameplay/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
+With the full name revealed later on in the month, this new system sought to change the previous standard of player performance from simply total [score](/wiki/Gameplay/Score) to something that accurately reflected skill. The new system was met with widespread acclaim among the player base at the time.
 
-Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
+Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on, in August of the same year, the system was improved to update in real-time.
 
-It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/osu!_team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
+It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/osu!_team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*. Since then, the system has been continuously maintained. but no major updates have been made.
 
-On January 16, 2021, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part by the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in the [corresponding news post](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Very briefly, the main points of interest in the update were as follows:
+On January 16, 2021, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part with the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in the [corresponding news post](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Very briefly, the main points of interest in the update were as follows:
 
 - Introduce a scaling factor to the additional pp gain from approach rate 11 maps based on the length of a beatmap
 - Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod based on the number of misses in a play
