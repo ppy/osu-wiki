@@ -1,12 +1,12 @@
 ---
 layout: post
 title: osu!tablets return
-date: 2025-02-10 00:00:00 +0000
+date: 2025-02-12 03:30:00 +0000
 ---
 
 While mouse can (do) everything, it wouldn't hurt to try out the most iconic input method osu! has to offer.
 
-![](/wiki/shared/news/2025-02-xx-osu-tablets-return/banner.jpg)
+![](/wiki/shared/news/2025-02-12-osu-tablets-return/banner.jpg)
 
 Over 10 years ago, we offered a series of tablets on [the osu! store](https://osu.ppy.sh/store/listing).
 
@@ -30,23 +30,23 @@ We plan to offer two osu!tablets: the [**intro tablet**](#intro-tablet) and the 
 
 This tablet co-produced with **XPPen** has everything you could ask for:
 
-[![](/wiki/shared/news/2025-02-xx-osu-tablets-return/info.jpg)](LINK)
+[![](/wiki/shared/news/2025-02-12-osu-tablets-return/info.jpg)](LINK)
 
 True to its name, the ***intro* tablet** even has instructions and recommendations for setting up a tablet in-game!
 
-[![](/wiki/shared/news/2025-02-xx-osu-tablets-return/quickstart.jpg)](LINK)
+[![](/wiki/shared/news/2025-02-12-osu-tablets-return/quickstart.jpg)](LINK)
 
 But of course, this isn't *just* a tablet. It's a *beautiful* tablet. Send all of your appreciation to veteran mapper [meiikyuu](https://osu.ppy.sh/users/1043627) for the design!
 
-[![](/wiki/shared/news/2025-02-xx-osu-tablets-return/beauty.jpg)](LINK)
+[![](/wiki/shared/news/2025-02-12-osu-tablets-return/beauty.jpg)](LINK)
 
 If you feel an urge to keep your osu!tablet on display instead of on your desk, we fully understand.
 
-[![](/wiki/shared/news/2025-02-xx-osu-tablets-return/fridge.jpg)](LINK)
+[![](/wiki/shared/news/2025-02-12-osu-tablets-return/fridge.jpg)](LINK)
 
 And when you're not setting top plays, you can keep your tablet safely away from dust in the *official osu! box*. (Note: It's a normal box.)
 
-[![](/wiki/shared/news/2025-02-xx-osu-tablets-return/box.jpg)](LINK)
+[![](/wiki/shared/news/2025-02-12-osu-tablets-return/box.jpg)](LINK)
 
 Pick up your own osu!tablet on [**the store page**](https://osu.ppy.sh/store/products/1347).
 
@@ -56,13 +56,13 @@ Pick up your own osu!tablet on [**the store page**](https://osu.ppy.sh/store/pro
 
 In collaboration with **Wacom**, we're already in the production stages for a tablet that suits players who want the highest calibre of circle clicking.
 
-[![](/wiki/shared/news/2025-02-xx-osu-tablets-return/teaser.jpg)](LINK)
+[![](/wiki/shared/news/2025-02-12-osu-tablets-return/teaser.jpg)](LINK)
 
 While we usually don't announce upcoming products like this, we thought it would be worthwhile in this case. If you're exclusively interested in a tablet that top players would advocate for (and you're okay with a slightly higher pricetag), sit tight until everything is ready.
 
 Desperate to know exactly when the **pro tablet** will be here? Head to [the **pro tablet**'s future store page](LINK) and hit the "Notify me when available!" button.
 
-![](/wiki/shared/news/2025-02-xx-osu-tablets-return/stock.png)
+![](/wiki/shared/news/2025-02-12-osu-tablets-return/stock.png)
 
 As soon as this version of the osu!tablet is in the store, you'll receive an email about it!
 
