@@ -141,7 +141,7 @@ China (#2) and the Philippines (#3), a match between two old rivals, clashed onc
 
 The bans and protects were a bit all over the place, with China opting to focus on their strong rice lead, whereas the Philippines chose to rely on long note maps. China spared no time and picked their protected map [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313) (RC5). Unsurprisingly, they won the map with an impressive 989,830-point full combo score from ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904). The Philippines followed suit by picking their protected map likewise, that being [Aiobahn feat. KOTOKO - Gekkouchou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2317886#mania/4964046) (LN4). Unfortunately for them, things didn't go as smoothly as they originally expected given the early misses from the Filipinos. Thanks to some late misses from team China and the performance of both ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405) and ::{ flag=PH }:: [sanni666](https://osu.ppy.sh/users/3036686), the Philippines evened out the match with a narrow 2,181-point lead.
 
-The first break point of the match was reached with China's second pick, that being [aquestion - Umami Blaze](https://osu.ppy.sh/users/6066359) (RC1). What originally should've been a strong map for China getting the upper hand in ratio, ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s great performance and 978,941 full combo score secured the win for the Philippines. Cashing out on the break point, the Philippines picked [seatrus & Halv - The Core](https://osu.ppy.sh/beatmapsets/2317878#mania/4964035). China did not leave any room for error, however. Maintaining their lead by a considerable margin by the middle point of the map, and with the Philippines not capable of keeping up with China's ratio nor double full combos, China won the point with an 18,876-point gap.
+The first break point of the match was reached with China's second pick, that being [aquestion - Umami Blaze](https://osu.ppy.sh/users/6066359) (RC1). What originally should've been a strong map for China getting the upper hand in ratio, ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s great performance and 978,941 full combo score secured the win for the Philippines. Cashing out on the break point, the Philippines picked [seatrus & Halv - The Core](https://osu.ppy.sh/beatmapsets/2317878#mania/4964035) (LN2). China did not leave any room for error, however. Maintaining their lead by a considerable margin by the middle point of the map, and with the Philippines not capable of keeping up with China's ratio nor double full combos, China won the point with an 18,876-point gap.
 
 You may've noticed by now the trend, with both teams winning points by rather narrow margins and switching their leads back and forth. To be expected from a match with two closely matches teams! This trend continued till the very end of the match, with China ultimately gaining an advantage over the Philippines when they achieved their second break point by stealing [Elliot Hsu - A Guiding Star](https://osu.ppy.sh/beatmapsets/2317897#mania/4964065) (LN1) from their rivals' hands. A very important point to win, as the 2-point lead would be dragged throughout the whole match, all thanks to ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178)'s crazy 987,943 full combo!
 
@@ -158,9 +158,19 @@ The last gambit from the Filipinos was with their very last pick of the match, b
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights.
+The last losers' bracket match for Semifinals between Hong Kong (#6) and Peru (#8) had the audience talking about a potential tiebreaker even before the match started, considering the close seed gap between the two teams. With both of them having their respective longest run in 7K MWC history, the face-off determined which team would get eliminated from there on out while the other survives to continue another world cup week in Finals.
 
-Segue to interview.
+Hong Kong protecting [REDALiCE feat. Ayumi Nomiya - Little Star (Full ver.)](https://osu.ppy.sh/beatmapsets/2317896#mania/4964062) (RC2) while banning [Flying Steps - We Are Electric](https://osu.ppy.sh/beatmapsets/2317884#mania/4964044) (RC3) was a rather unexpected decision according to the audience despite being a very common strategy in MWC matches in general. Meanwhile, Peru protected [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313) (RC5) and banned [Elliot Hsu - A Guiding Star](https://osu.ppy.sh/beatmapsets/2317897#mania/4964065) (LN1), which was a smart call given that Hong Kong did get a 125,290-point lead against Germany on that map.
+
+Hong Kong opened up the match with their own protect, but it didn't work out as intended as Peru proceeded to get the first break point of the match. With Peru winning their subsequent pick and with the scoreboard being at 0-2 in favor of Peru, Hong Kong tried to pick [seatrus & Halv - The Core](https://osu.ppy.sh/beatmapsets/2317878#mania/4964035) (LN2) thinking it would be the best pick, considering Peru banned LN1. However, the point streak would continue on, tallying the score up to 0-4 in favor of Peru who was on the verge of a match point after winning their protect.
+
+Hong Kong's 3rd pick, [Lime - Pixel Planet](https://osu.ppy.sh/beatmapsets/2317895#mania/4964061) (RC6) made things slightly more interesting as ::{ flag=PE }:: [-luvv](https://osu.ppy.sh/users/23731514) started off with the wrong foot and gave their rivals a lead hard to come back from. The same can be said about Peru's next pick on [linear ring - enchanted love](https://osu.ppy.sh/beatmapsets/2317898#mania/4964066) (HB2), where they got a team-wide combo reset in the middle of the map, giving Hong Kong their second consecutive point and their only break point of the match.
+
+While the audience was very thrilled for a potential comeback from the Hongkongers, this would unfortunately not be possible after losing their pick on [Xyris - FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) (HB1) to a close lead of 6,758 points giving the match point to Peru. Said team then closed out the match by winning their own pick on [The Flashbulb - Six Acid Strings](https://osu.ppy.sh/beatmapsets/2318102#mania/4964713) (RC4), scoring a final tally of 2-6 in favor of Peru. 
+
+Unfortunately, this would become the end of the line for Hong Kong, finishing at 7th-8th place. This is currently their best run in 7K MWC so far, but who knows what they'll have in store for us next year. Meanwhile, for the first time since 2019, a South American team has finally advanced to the Finals with a guaranteed top 6 placement.
+
+With their upcoming challenger being Japan (#4), this will surely stir up some interesting strategies for the upcoming picks next round, given their legacy of having one of the highest rice average scores in the tournament series so far. We hope that both teams give their all next weekend as we approach the late-game stages!
 
 ---
 
@@ -243,7 +253,7 @@ While it is true that there were lofty expectations for us this year, I personal
 
 ## Score highlights
 
-This weekend gave us quite an extense highlight reel in spite of the increased difficulty of the mappool. The scores we're about to mention are some of the best performances seen throughout the weekend!
+This weekend gave us quite an extensive highlight reel in spite of the increased difficulty of the mappool. The scores we're about to mention are some of the best performances seen throughout the weekend!
 
 - Elite osu!mania 7K player ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406) gave us a masterclass on playing technical charts with their 991k score on [The Flashbulb - Six Acid Strings](https://osu.ppy.sh/beatmapsets/2318102#mania/4964713) (RC4). Not satisfied with that score alone, they doubled down by scoring 986,112 on [mitei - Phosphor](https://osu.ppy.sh/beatmapsets/2317893#mania/4964059) (HB3), barely missing out on the full combo.
 - Speaking of masterclasses, ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) also offered us one on overall consistency on rice charts thanks to their 993k run on [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2317981#mania/4964313) (RC5).
@@ -256,4 +266,4 @@ We knew this was going to be an interesting year given the increased number of q
 
 In the meantime, we'll see ourselves out. Make sure to keep a close eye on the [wiki article](/wiki/Tournaments/MWC/2025_7K) to not miss any of the details that may've gone amiss throughout the recap.
 
-—RandomeLoL, _Kobii, \[GB\]yobrevelc, Maxus, SurfChu85
+—RandomeLoL, _Kobii, \[GB\]yobrevelc, Maxus, SurfChu85, yukina meng
