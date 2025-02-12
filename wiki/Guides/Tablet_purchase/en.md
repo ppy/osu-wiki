@@ -78,11 +78,11 @@ In short, Wacom is recommended by most serious osu! players. Cintiq and Intuos t
 
 Here are some links to purchase the latest models.
 
-- [Amazon - One by Wacom Tablet (small version) (CTL472)](https://www.amazon.com/dp/B07S1RR3FR)
-- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
-- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
+- [Amazon - One by Wacom Tablet (small version) (CTL472)](https://amzn.to/4gIpdsZ)
+- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://amzn.to/42Vzm2n)
+- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://amzn.to/4hWUAkR)
 - [Huion - HUION H430P (4096)](https://store.huion.com/products/inspiroy-h430p)
-  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
+  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://amzn.to/4hU6mfD)
 
 ## Conclusion
 
