@@ -6,11 +6,11 @@ Phần này dành riêng cho các vấn đề liên quan đến trang website os
 
 ## Vấn đề thường gặp {id=common-issues}
 
-### Tôi đã chưa nhận được câu trả lời đến phiếu hỗ trợ của tôi và nó đã hơn 2 tuần. {id=support-no-reply}
+### Tôi vẫn chưa nhận được câu trả lời đến phiếu hỗ trợ của tôi và nó đã hơn 2 tuần. {id=support-no-reply}
 
-**Hầu hết thời gian, điều này là do một lượng lớn vé hỗ trợ đến hệ thống của chúng tôi cùng lúc.**
+**Hầu hết thời gian, điều này là do một lượng lớn phiếu hỗ trợ đến hệ thống của chúng tôi cùng lúc.**
 
-Bạn luôn có thể gửi một câu trả lời duy nhất cho vé hỗ trợ đang mở của mình để hỏi về tình trạng trường hợp của bạn, nhưng hãy chắc chắn là đừng làm điều này quá một hoặc hai lần mỗi tuần. Bạn cũng có thể liên hệ chúng tôi trên Twitter tại [@osu!support](https://twitter.com/osusupport) để hỏi về phiếu của bạn. 
+Bạn luôn có thể gửi một câu trả lời duy nhất cho phiếu hỗ trợ đang mở của mình để hỏi về tình trạng trường hợp của bạn, nhưng hãy chắc chắn là đừng làm điều này quá một hoặc hai lần mỗi tuần. Bạn cũng có thể liên hệ chúng tôi trên Twitter tại [@osu!support](https://twitter.com/osusupport) để hỏi về phiếu của bạn. 
 
 Trong các hoàn cảnh hiếm gặp, các phiếu hỗ trợ bởi các người dùng thường xuyên vi phạm có thể bị cố tình phớt lờ, mặc dù [Đội ngũ hỗ trợ](/wiki/People/The_Team/Account_support_team) sẽ **luôn** nói cho bạn biết khi họ sẽ không còn phản hồi đến bạn trước. nếu bạn vẫn chưa nhận được một thông báo như vậy, bạn không cần bận tâm về nó!
 
@@ -74,7 +74,7 @@ Nếu vào bất kỳ thời điểm nào bạn cảm thấy nghi ngờ liệu m
 
 **Đúng vậy, chúng tôi yêu cầu địa chỉ email của bạn để gửi yêu cầu đặt lại mật khẩu và mã xác minh khi cần thiết.**
 
-nếu bạn có gặp rắc rối khi kết nối qua client trò chơi, vui lòng kiểm tra các cài đặt tường lửa và anti-viru của bạn để đảm bảo rằng osu! không bị chặn.
+nếu bạn có gặp rắc rối khi kết nối qua client trò chơi, vui lòng kiểm tra các cài đặt tường lửa và anti-virus của bạn để đảm bảo rằng osu! không bị chặn.
 
 Nếu bạn bao giờ mất mật khẩu hoặc không thể truy cập vào tài khoản của mình, email đăng ký của bạn sẽ là phương thức liên lạc đầu tiên của chúng tôi với bạn.
 
