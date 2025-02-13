@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2025: Semifinals Recap"
-date: 2025-02-13 12:00:00 +0000
+date: 2025-02-13 20:00:00 +0000
 ---
 
 As teams begin shifting to their top gears, the tournament's zenith looms ever closer! The last remaining 7K titans clash head-on with bone-chilling performances all across the bracket.
