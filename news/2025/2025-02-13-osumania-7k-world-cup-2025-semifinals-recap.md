@@ -6,7 +6,7 @@ date: 2025-02-13 20:00:00 +0000
 
 As teams begin shifting to their top gears, the tournament's zenith looms ever closer! The last remaining 7K titans clash head-on with bone-chilling performances all across the bracket.
 
-![](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-banner.jpg)
+![](/wiki/shared/news/2025-02-13-osumania-7k-world-cup-2025-semifinals-recap/banner.jpg)
 
 If last week was this tournament's low point, then this week was the complete opposite! Only legends remain, and those who thought things couldn't get harder from now on were proven to be sorely mistaken. Only Finals and Grand Finals are bound to break the skill ceiling once again to an unimaginable degree.
 
