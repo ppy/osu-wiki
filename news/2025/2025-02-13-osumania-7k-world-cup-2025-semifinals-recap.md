@@ -42,7 +42,7 @@ Keeping up with the same pool size as last week and its newfound categories, we 
 
 But originals are not the only highlights of the pool! As we all know by now, the mini-TB gives players a taste of how an actual tiebreaker is typically designed, both in terms of structure and difficulty. [mitei - Phosphor](https://osu.ppy.sh/beatmapsets/2317893#mania/4964059) (HB3) by [U1d](https://osu.ppy.sh/users/10125072) has it all! Aesthetically pleasing patterns are present throughout the map while covering a wide range of skill sets required to play these patterns effectively. Beyond these challenges, it also offered an enjoyable experience not only for the players but also for the mappool playtesters. The 0% ban rate during the weekend is a testament to that.
 
-! EXTRA MAP TO HIGHLIGHT HERE !
+On top of that, for the more rice-oriented players, we've got [REDALiCE feat. Ayumi Nomiya - Little Star (Full ver.)](https://osu.ppy.sh/beatmapsets/2317896#mania/4964062) (RC2). Even if it just had a minor increase in BPM as opposed to its Quarterfinals counterpart, the far denser patterns didn't scale as smoothly. This effectively tested players' reading skills and endurance, especially if we consider that it is almost a minute longer from last round's map on the same category. While it might seem daunting to tackle such a map given it was one of the most stamina-intensive picks, it remained a favourite amongst players. So much so that it was the most picked map throughout the Semifinals, with no bans at all!
 
 ---
 
