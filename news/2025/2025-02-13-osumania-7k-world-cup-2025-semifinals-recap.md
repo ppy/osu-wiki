@@ -17,7 +17,7 @@ We even got the chance to interview [-luvv](https://osu.ppy.sh/users/23731514) o
 Rambling and spoilers aside, this week's video recap is yet again brought to you by [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550). A very good alternative to the usual podcasts you may be used to listening in the background on your spare time.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aG5PQCqq99A" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
@@ -100,7 +100,7 @@ Now, what other way to begin with the match highlights than by recapping the bes
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2375746661)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aG5PQCqq99A?start=132&end=281" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Allow us to introduce what could very well be the most exciting match of the week. Hell, we would dare to say this was the best match of the whole tournament! Where the extra terrestrial met the colossal; a clash between tectonic plates; a fight to be recorded on history books! Analogies aside, this was a showdown between two teams formed by members of the mappooling team — the true definition of "meeting your maker"!
@@ -127,7 +127,7 @@ Given the match's length, we haven't been able to recap it in full. Because of t
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2376660974)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aG5PQCqq99A?start=431&end=564" frameborder="0" allowfullscreen></iframe>
 </div>
 
 This must've been a match that most people were waiting for! With South Korea (#1) and Japan (#4) being considered two of the strongest teams in the tournament, this was bound to be a heated duel. While South Korea has dominated the 7K World Cup for years, Japan's strength in rice maps is nothing short of remarkable. The outcome could go either way, and neither team could afford to give their opponent an opening if they were planning on securing their points.
@@ -150,7 +150,7 @@ South Korea's reputation precedes them, and their performance in this match only
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2376663395)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aG5PQCqq99A?start=681&end=812" frameborder="0" allowfullscreen></iframe>
 </div>
 
 China (#2) and the Philippines (#3), a match between two old rivals, clashed once again during the Semifinals. Last year, they gave us quite the show where the Philippines ended up victorious. This year however, the stakes are a bit different as both teams need this win to secure their seat on the podium. With both teams boasting of similar skill sets and experienced players, it was not easy to predict which team had the upper hand.
@@ -171,7 +171,7 @@ The last gambit from the Filipinos was with their very last pick of the match, b
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2376748946)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aG5PQCqq99A?start=919&end=1018" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The last losers' bracket match for Semifinals between Hong Kong (#6) and Peru (#8) had the audience talking about a potential tiebreaker even before the match started, considering the close seed gap between the two teams. With both of them having their respective longest run in 7K MWC history, the face-off determined which team would get eliminated from there on out, while the other survives to continue another world cup week in Finals.
