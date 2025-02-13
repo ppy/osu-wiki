@@ -64,22 +64,22 @@ The following players qualified for the tournament:
 
 | Seed | Users |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users18560307) |
-| 2 | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users12320451) |
-| 3 | ::{ flag=PH }:: [Taikore](https://osu.ppy.sh/users29115112) |
-| 4 | ::{ flag=PH }:: [space-walker](https://osu.ppy.sh/users9435841) |
-| 5 | ::{ flag=PH }:: [Krishel17](https://osu.ppy.sh/users9841880) |
-| 6 | ::{ flag=PH }:: [Farmer Brown](https://osu.ppy.sh/users17823779) |
-| 7 | ::{ flag=PH }:: [rrapido](https://osu.ppy.sh/users18630149) |
-| 8 | ::{ flag=PH }:: [wwowie](https://osu.ppy.sh/users19445999) |
-| 9 | ::{ flag=PH }:: [Asa Kazato](https://osu.ppy.sh/users13547767) |
-| 10 | ::{ flag=PH }:: [Kornettissimo](https://osu.ppy.sh/users7487058) |
-| 11 | ::{ flag=PH }:: [Syni-](https://osu.ppy.sh/users15232470) |
-| 12 | ::{ flag=PH }:: [Euanofthedead](https://osu.ppy.sh/users15676812) |
-| 13 | ::{ flag=PH }:: [\_Kancho\_](https://osu.ppy.sh/users11035895) |
-| 14 | ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users796530) |
-| 15 | ::{ flag=SA }:: [thesuslulkid](https://osu.ppy.sh/users25611653) |
-| 16 | ::{ flag=PH }:: [Phann\_](https://osu.ppy.sh/users12905445) |
+| 1 | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) |
+| 2 | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451) |
+| 3 | ::{ flag=PH }:: [Taikore](https://osu.ppy.sh/users/29115112) |
+| 4 | ::{ flag=PH }:: [space-walker](https://osu.ppy.sh/users/9435841) |
+| 5 | ::{ flag=PH }:: [Krishel17](https://osu.ppy.sh/users/9841880) |
+| 6 | ::{ flag=PH }:: [Farmer Brown](https://osu.ppy.sh/users/17823779) |
+| 7 | ::{ flag=PH }:: [rrapido](https://osu.ppy.sh/users/18630149) |
+| 8 | ::{ flag=PH }:: [wwowie](https://osu.ppy.sh/users/19445999) |
+| 9 | ::{ flag=PH }:: [Asa Kazato](https://osu.ppy.sh/users/13547767) |
+| 10 | ::{ flag=PH }:: [Kornettissimo](https://osu.ppy.sh/users/7487058) |
+| 11 | ::{ flag=PH }:: [Syni-](https://osu.ppy.sh/users/15232470) |
+| 12 | ::{ flag=PH }:: [Euanofthedead](https://osu.ppy.sh/users/15676812) |
+| 13 | ::{ flag=PH }:: [\_Kancho\_](https://osu.ppy.sh/users/11035895) |
+| 14 | ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530) |
+| 15 | ::{ flag=SA }:: [thesuslulkid](https://osu.ppy.sh/users/25611653) |
+| 16 | ::{ flag=PH }:: [Phann\_](https://osu.ppy.sh/users/12905445) |
 
 ## Podium
 
@@ -87,9 +87,9 @@ This competition ended with the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users18560307) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users12320451) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Taikore](https://osu.ppy.sh/users29115112) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Taikore](https://osu.ppy.sh/users/29115112) |
 
 ## Mappools
 
