@@ -280,6 +280,6 @@ This weekend gave us quite an extensive highlight reel in spite of the increased
 
 We knew this was going to be an interesting year given the increased number of qualifying teams. What we didn't know back when was how much would our expectations be shattered throughout the course of the tournament. And it only goes up from here! Join us next weekend at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) so you get to experience the fun live.
 
-In the meantime, we'll see ourselves out. Make sure to keep a close eye on the [wiki article](/wiki/Tournaments/MWC/2025_7K) to not miss any of the details that may've gone amiss throughout the recap.
+In the meantime, we'll see ourselves out. Make sure to keep a close eye on the [wiki article](/wiki/Tournaments/MWC/2025_7K) and the [weekly stats spreadsheet](https://docs.google.com/spreadsheets/d/1yr8Maxom0J2jf7inlfBqDb9my3dcmL9lGu9ClgV5tBc/edit?rm=minimal) to not miss any of the details that may've gone amiss throughout the recap.
 
 —RandomeLoL, _Kobii, \[GB\]yobrevelc, Maxus, SurfChu85, yukina meng
