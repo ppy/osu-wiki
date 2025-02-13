@@ -121,7 +121,7 @@ Du kannst es [hier](https://osu.ppy.sh/home/download) herunterladen. Bald wirst 
 
 #### Wird stable verschwinden? Werde ich zum Wechsel gezwungen?
 
-Stable wird weiterhin unterstützt, solange die Nutzer es verwenden. Zumindest wird es mehrere Jahre lang gepflegt.
+Solange der Stable-Client aktiv gespielt wird, wird dieser unterstützt.
 
 #### Kann ich alle meine Daten aus stable in lazer importieren?
 
