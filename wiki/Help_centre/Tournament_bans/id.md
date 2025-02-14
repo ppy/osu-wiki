@@ -42,9 +42,9 @@ Dalam kasus langka tertentu, [tim dukungan akun](/wiki/People/Account_support_te
 
 ## Apa saja yang dapat saya lakukan selama saya berada dalam masa larangan? {id=while-banned}
 
-Kamu dapat lanjut bermain pada turnamen komunitas yang tidak didukung secara resmi atau melibatkan proses penyaringan peserta (*screening*) sesuai dengan kebijakan panitia masing-masing turnamen.
+Kamu dapat tetap bermain pada turnamen komunitas yang tidak didukung secara resmi atau yang tidak melibatkan proses penyaringan peserta (*screening*) sesuai dengan kebijakan panitia masing-masing turnamen.
 
-Kamu juga dapat berperan sebagai penyiar, komentator, atau desainer grafis dalam turnamen yang didukung secara resmi apabila kamu diizinkan oleh host turnamen yang bersangkutan. Apabila kamu ingin membantu dalam kapasitas lainnya, host turnamen ini HARUS meminta pengecualian khusus dalam permohonan dukungan turnamen mereka. [Tim dukungan akun](/wiki/People/Account_support_team) akan kemudian dapat mengabulkan permintaan ini dengan menimbang alasan pelanggaranmu serta rekam jejak akunmu.
+Kamu juga dapat berperan sebagai penyiar, komentator, atau desainer grafis dalam turnamen yang didukung secara resmi apabila kamu diizinkan oleh host turnamen yang bersangkutan. Apabila kamu ingin membantu dalam kapasitas lainnya, host turnamen ini HARUS meminta pengecualian khusus dalam permohonan dukungan turnamen mereka. [Tim dukungan akun](/wiki/People/Account_support_team) kemudian akan dapat mengabulkan permintaan ini dengan menimbang alasan pelanggaranmu serta rekam jejak akunmu.
 
 Apabila diminta, informasi seputar status larangan turnamenmu dapat diberikan kepada panitia turnamen yang kamu ikuti, terlepas dari apakah turnamen ini didukung secara resmi ataupun tidak.
 
