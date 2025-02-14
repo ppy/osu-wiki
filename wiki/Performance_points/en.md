@@ -137,7 +137,7 @@ On October 28, 2024, more changes were deployed. The specifics of the changes ma
   - Remove combo scaling
   - Improve rhythm complexity
   - Adjust fast flow aim
-  - Sliders now contribute to accuracy pp
+  - Sliders now contribute to accuracy pp for scores using slider head accuracy
 - osu!taiko
   - Consider TL-tapping in the stamina component of star rating
   - Adjust [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) bonus in the accuracy component of pp calculation
