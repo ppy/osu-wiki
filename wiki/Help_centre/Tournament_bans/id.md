@@ -1,6 +1,6 @@
 # Larangan turnamen
 
-_Halaman utama: [Pusat bantuan](/wiki/Help_centre)_
+*Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
 Larangan turnamen (*tournament ban*) merupakan hukuman yang mencegah pemain untuk dapat bermain di dalam turnamen resmi atau yang didukung secara resmi. Hukuman ini juga membatasi sejauh mana pemain ini dapat membantu atau berpartisipasi sebagai staf dalam rangkaian turnamen ini.
 
@@ -53,9 +53,9 @@ Apabila diminta, informasi seputar status larangan turnamenmu dapat diberikan ke
 | Alasan larangan turnamen | Durasi | Catatan |
 | :-- | :-- | :-- |
 | Melanggar peraturan komunitas di dalam turnamen | 1 bulan atau lebih | Dapat berlaku lebih sesuai dengan kebijaksanaan tim dukungan akun |
-| Tidak menghormati staf atau membuang-buang waktu | 1 bulan atau lebih | |
-| Memungkinkan pemain lain untuk bermain pada lebih dari satu akun atau bertindak curang di dalam turnamen | 6 bulan atau lebih | |
-| Berperilaku buruk selaku pemain dalam turnamen yang didukung secara resmi | 1-2 tahun | |
+| Tidak menghormati staf atau membuang-buang waktu | 1 bulan atau lebih |  |
+| Memungkinkan pemain lain untuk bermain pada lebih dari satu akun atau bertindak curang di dalam turnamen | 6 bulan atau lebih |  |
+| Berperilaku buruk selaku pemain dalam turnamen yang didukung secara resmi | 1-2 tahun |  |
 | Akun yang status pembatasannya baru dicabut dengan ketentuan banding standar | 1-2 tahun | Dapat berlaku lebih sesuai dengan kebijaksanaan tim dukungan akun |
 | Bermain pada lebih dari satu akun atau saling berbagi akun dalam turnamen yang didukung secara resmi | Tidak terbatas waktu | Akan disertai dengan pembatasan akun |
 | Menggunakan sarana pihak ketiga atau alat bermain curang lainnya dalam turnamen yang didukung secara resmi | Tidak terbatas waktu | Akan disertai dengan pembatasan akun |
