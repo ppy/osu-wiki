@@ -110,7 +110,7 @@ The osu!taiko World Cup 2025 is run by various community members.
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not not send their team list by March 8, 23:59 UTC will either be drafted by the tournament managers (if the country players accept to be drafted) or removed from the competition (otherwise). In the case of being drafted, the top 6 players by rank will be selected.**
+   - **Teams that do not send their team list by March 8, 23:59 UTC will either be drafted by the tournament managers (if the country players accept to be drafted) or removed from the competition (otherwise). In the case of being drafted, the top 6 players by rank will be selected.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
