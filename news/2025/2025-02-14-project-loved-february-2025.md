@@ -9,9 +9,9 @@ Roses are red, violets are blue, Project Loved is back — this month, just for 
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-Happy Valentines Day! While we cannot give you flowers and chocolates, we can give you a fresh round of amazing maps, all yearning for your attention!
+Happy Valentine's Day! While we cannot give you flowers and chocolates, we can give you a fresh round of amazing maps, all yearning for your attention!
 
-If by any chance you are not aware of what this is, Project Loved hosts community polls every months, where the community gets to decide whether maps put up by each game mode's [captains](https://loved.sh/contributors) get added to the coveted [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). For the next 10 days, you'll be able to cast your vote for each map by clicking on their banners below, or by heading directly to the [Project Loved forum](https://osu.ppy.sh/community/forums/120) for the full listing.
+If by any chance you are not aware of what this is, Project Loved hosts community polls every month, where the community gets to decide whether maps put up by each game mode's [captains](https://loved.sh/contributors) get added to the coveted [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). For the next 10 days, you'll be able to cast your vote for each map by clicking on their banners below, or by heading directly to the [Project Loved forum](https://osu.ppy.sh/community/forums/120) for the full listing.
 
 Thanks to everyone who put their votes in last month! You can see the full results for each game mode below:
 
@@ -20,7 +20,7 @@ Thanks to everyone who put their votes in last month! You can see the full resul
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/2028689)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/2028688)
 
-If you are interested in playing all the currently nominated maps before voting for them, for the next 7 days you can do so by checking out the Project Loved [osu!(lazer)](https://osu.ppy.sh/home/download) playlists, and even compete with others for the #1 leaderboard spot!
+If you want to play all the currently nominated maps before voting for them, for the next 7 days you can do so by checking out the Project Loved [osu!(lazer)](https://osu.ppy.sh/home/download) playlists, and even by competing with others for the #1 leaderboard spot!
 
 As always, if you want to suggest a beatmap for Project Loved, you can do by clicking on the banner below!
 
@@ -28,7 +28,7 @@ As always, if you want to suggest a beatmap for Project Loved, you can do by cli
 
 Before we jump into the maps, there have been major changes within the team, the biggest one of them all being the fact that [clayton](https://osu.ppy.sh/users/3666350) has left the team. As one of the people who have been in the team almost since the project's inception, clayton has been instrumental in making Project Loved into what it is today, assisting and maintaining various aspects of the project for many years. We wish clayton the best as they depart from Project Loved, and thank them for the years of selfless and commendable support.
 
-Next to clayton, [wwwww](https://osu.ppy.sh/users/8434466), a veteran osu!catch community member, has decided to withdraw from Project Loved. While only being in Project Loved for a relatively short time period, their contributions are appreciated, and we wish them the best in their future endeavors.
+Next to clayton, [wwwww](https://osu.ppy.sh/users/8434466), a veteran osu!catch community member, has decided to withdraw from Project Loved. While only being in Project Loved for a relatively short time period, their contributions are appreciated, and we wish them the best in their future endeavours.
 
 Along with these departures, the captain applications for osu! have concluded, and with that please send your congratulations to [rHO](https://osu.ppy.sh/users/1629553), [Plasma](https://osu.ppy.sh/users/10077431), and [momoyo](https://osu.ppy.sh/users/12469536), who have joined the team as of this month!
 
