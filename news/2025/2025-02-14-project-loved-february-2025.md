@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: February 2025"
-date: 2025-02-14 12:30:00 +0000
+date: 2025-02-14 13:00:00 +0000
 series: Project Loved
 ---
 
@@ -20,7 +20,7 @@ Thanks to everyone who put their votes in last month! You can see the full resul
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/2028689)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/2028688)
 
-If you are interested in playing all the currently nominated maps before voting for them, you can do so by checking out the Project Loved [osu!(lazer)](https://osu.ppy.sh/home/download) playlists, and even compete with others for the #1 leaderboard spot!
+If you are interested in playing all the currently nominated maps before voting for them, for the next 7 days you can do so by checking out the Project Loved [osu!(lazer)](https://osu.ppy.sh/home/download) playlists, and even compete with others for the #1 leaderboard spot!
 
 As always, if you want to suggest a beatmap for Project Loved, you can do by clicking on the banner below!
 
