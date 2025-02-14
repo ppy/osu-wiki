@@ -4,7 +4,7 @@ title: "osu!taiko World Cup 2025: Registrations Now Open!"
 date: 2025-02-15 00:00:00 +0000
 ---
 
-Get yoursticks ready — the osu!taiko World Cup 2025 is just around the corner!
+Get your drumsticks ready — the osu!taiko World Cup 2025 is just around the corner!
 
 ![](/wiki/Tournaments/TWC/2025/img/twc2025-banner.jpg)
 

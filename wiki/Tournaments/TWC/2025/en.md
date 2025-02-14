@@ -37,7 +37,7 @@ The osu!taiko World Cup 2025 offers a $2,000 cash prize pool and limited-edition
 
 ## Organisation
 
-The osu!taiko World Cup 2025 is run by various community members.
+The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
