@@ -15,7 +15,7 @@ The **osu!taiko World Cup 2025** (***TWC 2025***) is a country-based osu!taiko t
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2025-02-12 (00:00 UTC)/2025-02-27 (23:59 UTC) |
+| Registration phase | 2025-02-15 (00:00 UTC)/2025-02-28 (23:59 UTC) |
 | Qualifier showcase | 2025-03-09 (14:00 UTC) |
 | Qualifier stage | 2025-03-15/2025-03-16 |
 | Round of 32 | 2025-03-22/2025-03-23 |
@@ -52,7 +52,7 @@ The osu!taiko World Cup 2025 is run by various community members.
 ## Links
 
 - **[Sign up here](https://osu.ppy.sh/community/tournaments/49)**
-- [Discussion thread]({THREAD})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2041167)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset
