@@ -113,16 +113,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=PE }:: Peru | [Feb 15 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250215T040000&p1=1440&p2=248&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=PE }:: Peru | [Feb 15 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250215T020000&p1=1440&p2=248&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=ID }:: Indonesia | [Feb 15 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250215T100000&p1=1440&p2=145&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 16 February 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 16 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T080000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Feb 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T100000&p1=1440&p2=145&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=JP }:: Japan | [Feb 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T100000&p1=1440&p2=108&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 16 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T113000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=PE }:: Peru | [Feb 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T150000&p1=1440&p2=145&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=PE }:: Peru | [Feb 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T150000&p1=1440&p2=108&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Grand Finals | mappool showcase | [Feb 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
@@ -263,6 +263,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 8. [seatrus - Hekikuu no Yakusoku (Critical\_Star) \[Stage 8: Azure\]](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807)
 
 ## Match results
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1yr8Maxom0J2jf7inlfBqDb9my3dcmL9lGu9ClgV5tBc?rm=minimal).
 
 ### Semifinals
 
