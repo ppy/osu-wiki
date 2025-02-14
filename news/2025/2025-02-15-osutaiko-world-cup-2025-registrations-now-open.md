@@ -38,7 +38,7 @@ The osu!taiko World Cup 2025 offers a $2,000 prize pool, along with limited-edit
 
 **[Click here!](https://osu.ppy.sh/community/tournaments/49)**
 
-Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is February 27, 23:59 UTC. Make sure to submit yours before then!**
+Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is February 28, 23:59 UTC. Make sure to submit yours before then!**
 
 *Notice: you may only participate if your position in the osu!taiko global ranking is #5,000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
