@@ -117,7 +117,7 @@ osu! có lẽ sẽ không thể trở thành hiện thực nếu không có sự
 
 [Đội ngũ của osu!](/wiki/People/osu!_team): [Lập trình viên (DEV)](/wiki/People/Developers) • [Đội ngũ Kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) • [Đội ngũ Hỗ trợ Kỹ thuật](/wiki/People/Technical_Support_Team) • [Đội ngũ Đánh giá Đề cử (NAT)](/wiki/People/Nomination_Assessment_Team) • [Đề cử viên (BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/Project_Loved_Team) • [Giám tuyển Beatmap Tiêu điểm (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Cộng tác viên](/wiki/People/Community_Contributors) • [Đề cử viên ưu tú](/wiki/People/Elite_Nominators) • [Nhóm người dùng](/wiki/People/User_group) • [Những người dùng với danh hiệu đặc biệt](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Ban phụ trách Giải đấu](/wiki/People/Tournament_Committee) • [Ban phụ trách Điểm Hiệu suất](/wiki/People/Performance_Points_Committee) • [Những người bảo trì osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Cộng tác viên](/wiki/People/Community_Contributors) • [Đề cử viên ưu tú](/wiki/People/Elite_Nominators) • [Nhóm người dùng](/wiki/People/User_groups) • [Những người dùng với danh hiệu đặc biệt](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Ban phụ trách Giải đấu](/wiki/People/Tournament_Committee) • [Ban phụ trách Điểm Hiệu suất](/wiki/People/Performance_Points_Committee) • [Những người bảo trì osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

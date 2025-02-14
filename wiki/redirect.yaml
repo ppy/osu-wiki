@@ -2152,4 +2152,8 @@ community/discord_servers/osu!mania_modding_&_mapping_hub: Community/Discord_ser
 
 gameplay/hit_object/slider/reverse_slider: Gameplay/Hit_object/Slider/Repeat_slider
 
+# Moved in #12643
 osu!_originals: Community/Bespoke_music
+
+# Renamed in #12800
+people/user_group: People/User_groups
