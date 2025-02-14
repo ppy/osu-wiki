@@ -47,7 +47,7 @@ outdated_since: 9614c00afb2d756879c172ff071d00e16959bbec
 
 ## Исполнители, играющие в osu!
 
-Участников программы Featured Artists, имеющих аккаунт в osu!, можно узнать по бирюзовому [титулу](/wiki/Community/User_title) "Featured Artist", а также по [значку группы](/wiki/People/User_group), на котором написано `FA`.
+Участников программы Featured Artists, имеющих аккаунт в osu!, можно узнать по бирюзовому [титулу](/wiki/Community/User_title) "Featured Artist", а также по [значку группы](/wiki/People/User_groups), на котором написано `FA`.
 
 Актуальный список пользователей — всегда на странице группы: [Featured Artist](https://osu.ppy.sh/groups/35). Полный список самих исполнителей можно найти тут: [листинг Featured Artist](https://osu.ppy.sh/beatmaps/artists).
 

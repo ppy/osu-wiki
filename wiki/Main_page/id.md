@@ -117,7 +117,7 @@ osu! tidak akan dapat hadir tanpa dukungan dari para pengguna yang membantu dala
 
 [Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_group) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
+[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_groups) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

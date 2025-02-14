@@ -38,5 +38,5 @@ Halaman ini merupakan halaman indeks untuk berbagai artikel yang membahas seputa
 
 - [peppy](peppy)
 - [Log staf](Staff_log)
-- [Kelompok pengguna](User_group)
+- [Kelompok pengguna](User_groups)
 - [Daftar pengguna dengan gelar khusus](Users_with_unique_titles)

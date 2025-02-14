@@ -117,7 +117,7 @@ osu! non potrebbe esistere senza i numerosi utenti che aiutano con lo sviluppo, 
 
 [Il Team](/wiki/People/osu!_team): [Sviluppatori](/wiki/People/Developers) • [Artisti in Primo Piano](/wiki/People/Featured_Artists) • [Team di Moderazione Globale](/wiki/People/Global_Moderation_Team) • [Team di Supporto Tecnico](/wiki/People/Technical_Support_Team) • [Team di Valutazione Nomine](/wiki/People/Nomination_Assessment_Team) • [Nominatori di Beatmap](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Team Progetto Amata](/wiki/People/Project_Loved_Team) • [Curatori Beatmap Spotlight](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Collaboratori della Community](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Gruppo Utenti](/wiki/People/User_group) • [Utenti con titoli unici](/wiki/People/Users_with_unique_titles) • [Centurioni](/wiki/People/Centurions) • [Completisti](/wiki/People/Completionists) • [Comitato Tornei](/wiki/People/Tournament_Committee) • [Comitato Punti Performance](/wiki/People/Performance_Points_Committee) • [Manutentori della osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Collaboratori della Community](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Gruppi Utenti](/wiki/People/User_groups) • [Utenti con titoli unici](/wiki/People/Users_with_unique_titles) • [Centurioni](/wiki/People/Centurions) • [Completisti](/wiki/People/Completionists) • [Comitato Tornei](/wiki/People/Tournament_Committee) • [Comitato Punti Performance](/wiki/People/Performance_Points_Committee) • [Manutentori della osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
