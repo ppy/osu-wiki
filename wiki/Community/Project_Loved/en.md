@@ -50,7 +50,7 @@ Every month, beatmaps are chosen according to 9 categories, with the goal of ens
 | Category | Explanation |
 | :-: | :-- |
 | Popular Playcounts | Popular beatmaps in the community, with at least 100,000 playcount. |
-| Outstanding Oldies | Beatmaps submitted more than six years ago. |
+| Outstanding Oldies | Beatmaps submitted in the first half of osu!'s lifespan. |
 | Small Spectacles | Outstanding beatmaps as determined by the captains, with less than 5,000 playcount. |
 | Daredevil Difficulties | Beatmaps known for extreme difficulty, nominated with the goal of fostering competition among top players. |
 | Ranked Rejects | Beatmaps with full spreads that follow ranking criteria, yet never reached Ranked status. |
