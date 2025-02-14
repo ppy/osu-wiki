@@ -19,7 +19,7 @@ As always, for more details pertaining to the tournament, refer to the **[osu!ta
 | Registration phase | Feb 15 (00:00 UTC) – Feb 28 (23:59 UTC) |
 | Qualifier showcase | Mar 9 (14:00 UTC) |
 | Qualifier stage | Mar 15 & Mar 16 |
-| Round of 24 |  Mar 22 & Mar 23 |
+| Round of 32 | Mar 22 & Mar 23 |
 | Round of 16 | Mar 29 & Mar 30 |
 | Quarterfinals | Apr 5 & Apr 6 |
 | Semifinals | Apr 12 & Apr 13 |
