@@ -8,7 +8,7 @@ tags:
 
 *Véase también: [Reglas para los Beatmap Nominators](Rules), [Expectativas de los Beatmap Nominators](Expectations), [Información general para los Beatmap Nominators](General_Information) y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_group) que dice `BN`.
+Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_groups) que dice `BN`.
 
 ## Roles y responsabilidades
 

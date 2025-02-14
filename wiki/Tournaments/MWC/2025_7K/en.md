@@ -113,16 +113,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=PE }:: Peru | [Feb 15 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250215T040000&p1=1440&p2=248&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=PE }:: Peru | [Feb 15 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250215T020000&p1=1440&p2=248&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=ID }:: Indonesia | [Feb 15 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250215T100000&p1=1440&p2=145&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 16 February 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 16 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T080000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Feb 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T100000&p1=1440&p2=145&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=JP }:: Japan | [Feb 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T100000&p1=1440&p2=108&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 16 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T113000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=PE }:: Peru | [Feb 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T150000&p1=1440&p2=145&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=PE }:: Peru | [Feb 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T150000&p1=1440&p2=108&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Grand Finals | mappool showcase | [Feb 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
@@ -131,7 +131,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Finals
 
-**[Download the mappack here (103 MB, *tempoorary link*)](https://leoflt.com/s/XxT3)**\
+**[Download the mappack here (98 MB)](https://packs.ppy.sh/P275%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2376804412)
 
 - Rice
@@ -148,10 +148,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
   4. [KOTOKO - agony (Cut ver.) (ExNeko, \_Kobii, \_Yiiiii, paulkappa) \[MWC Collab\]](https://osu.ppy.sh/beatmapsets/2321282#mania/4973094)
 - Hybrid
   1. [5KiLOBYTE vs. Raphiiel - -Totsuka no Tsurugi- (Critical\_Star) \[Twilight Hymn\]](https://osu.ppy.sh/beatmapsets/2321283#mania/4973095)
-  2. [lapix - Horizon Blue feat. Kanata.N (ruka) \[D=2RHD\] *(temporary link)*](https://leoflt.com/s/Lg8i)
+  2. [lapix - Horizon Blue feat. Kanata.N (ruka) \[D=2RH/D\]](https://osu.ppy.sh/beatmapsets/2321532#mania/4973733)
 - Extreme
   1. [celtix - Cursed Bloom (Critical\_Star, \_Kobii) \[Sinister Blossom\]](https://osu.ppy.sh/beatmapsets/2321288#mania/4973138)
-  2. [Feryquitous - Ai Drew (Enie, ruka) \[Stable Diffusion (MWC Edit)\] *(temporary link)*](https://leoflt.com/s/1JCv)
+  2. [Feryquitous - Ai Drew (Enie, ruka) \[Stable Diffusion (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2321585#mania/4973835)
   3. [Aoi - Welkius (\_Kobii\_, Blocko, ruka) \[Gilded Firmament\]](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158)
 - Tiebreaker
   1. **[Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination (Critical\_Star, Blocko) \[Shattered Sky\]](https://osu.ppy.sh/beatmapsets/2321297#mania/4973159)**
@@ -263,6 +263,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 8. [seatrus - Hekikuu no Yakusoku (Critical\_Star) \[Stage 8: Azure\]](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807)
 
 ## Match results
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1yr8Maxom0J2jf7inlfBqDb9my3dcmL9lGu9ClgV5tBc?rm=minimal).
 
 ### Semifinals
 
