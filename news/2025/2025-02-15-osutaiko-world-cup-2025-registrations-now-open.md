@@ -4,11 +4,11 @@ title: "osu!taiko World Cup 2025: Registrations Now Open!"
 date: 2025-02-15 00:00:00 +0000
 ---
 
-Get your drumsticks ready — the osu!taiko World Cup 2025 is just around the corner!
+Get your drum sticks ready — the osu!taiko World Cup 2025 is just around the corner!
 
 ![](/wiki/Tournaments/TWC/2025/img/twc2025-banner.jpg)
 
-For TWC 2025, we’re keeping the same tournament format as previous years, with no major structural changes. This year, the focus is on refining the player experience, ensuring a seamless and engaging competition for the world's best osu!taiko players!
+For TWC 2025, we're keeping the same tournament format as previous years, with no major structural changes. This year, the focus is on refining the player experience, ensuring a seamless and engaging competition for the world's best osu!taiko players!
 
 As always, for more details pertaining to the tournament, refer to the **[osu!taiko World Cup 2025 wiki article](/wiki/Tournaments/TWC/2025)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2041167)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
