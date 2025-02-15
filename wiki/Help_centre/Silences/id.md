@@ -54,7 +54,7 @@ Silence juga dapat dijatuhkan kepada pengguna atas berbagai alasan lainnya yang 
 
 ## Mengajukan banding
 
-Walaupun hukuman silence diterapkan untuk menjaga lingkungan komunitas yang positif, hukuman ini terkadang dapat salah dijatuhkan. Apabila kamu merasa bahwa silence yang kamu terima merupakan suatu kekeliruan atau ditimpakan kepadamu secara tidak adil, silakan hubungi [tim dukungan akun](/wiki/People/Account_support_team#accounts@ppy.sh) melalui [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan duduk perkaramu.
+Walaupun hukuman silence diberlakukan demi menjaga lingkungan komunitas yang positif, hukuman ini terkadang dapat dijatuhkan secara keliru. Apabila kamu merasa bahwa silence yang kamu terima merupakan suatu kesalahan atau diberikan kepadamu secara tidak adil, silakan hubungi [tim dukungan akun](/wiki/People/Account_support_team#accounts@ppy.sh) melalui [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan duduk perkaramu.
 
 Mohon diperhatikan bahwa kamu harus menggunakan alamat email yang terhubung dengan akun osu! milikmu dan menyebutkan nama penggunamu untuk memastikan bahwa email ini berasal dari kamu.
 
