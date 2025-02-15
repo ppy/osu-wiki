@@ -46,7 +46,7 @@ Si un `.osz` pre-temporizado del listado de los artistas destacados tiene errore
 
 ## Artistas destacados con cuentas de osu!
 
-Los artistas destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_group) que dice `FA` para exhibir su participación.
+Los artistas destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_groups) que dice `FA` para exhibir su participación.
 
 La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) enumera todas estas cuentas, mientras que el [listado de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) enumera a todos los artistas destacados.
 
@@ -101,6 +101,7 @@ La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=CH }:: [pandaeyesosu](https://osu.ppy.sh/users/34609545) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) |
 | ::{ flag=US }:: [Pandize](https://osu.ppy.sh/users/5490937) | [Pandize](https://osu.ppy.sh/beatmaps/artists/405) |
 | ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/users/4325444) | [ptar124](https://osu.ppy.sh/beatmaps/artists/409) |
+| ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593) | [Rose Quartz](https://osu.ppy.sh/beatmaps/artists/429) |

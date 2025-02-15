@@ -46,7 +46,7 @@ Wenn eine vorkonfigurierte `.osz` aus der Künstlerauflistung jegliche Fehler au
 
 ## Gesponserte Künstler mit osu!-Accounts
 
-Für ihre Beteiligung erhalten gesponserte Künstler mit einem osu!-Account einen cyanfarbenen [Nutzertitel](/wiki/Community/User_title) "Featured Artist" und ein [Gruppenabzeichen](/wiki/People/User_group), auf dem `FA` steht.
+Für ihre Beteiligung erhalten gesponserte Künstler mit einem osu!-Account einen cyanfarbenen [Nutzertitel](/wiki/Community/User_title) "Featured Artist" und ein [Gruppenabzeichen](/wiki/People/User_groups), auf dem `FA` steht.
 
 Die [Gruppenseite für Featured Artists](https://osu.ppy.sh/groups/35) listet alle derartigen Accounts, wohingegen die [Auflistung der Featured Artists](https://osu.ppy.sh/beatmaps/artists) alle gesponserten Künstler nennt.
 
@@ -101,6 +101,7 @@ Die [Gruppenseite für Featured Artists](https://osu.ppy.sh/groups/35) listet al
 | ::{ flag=CH }:: [pandaeyesosu](https://osu.ppy.sh/users/34609545) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) |
 | ::{ flag=US }:: [Pandize](https://osu.ppy.sh/users/5490937) | [Pandize](https://osu.ppy.sh/beatmaps/artists/405) |
 | ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/users/4325444) | [ptar124](https://osu.ppy.sh/beatmaps/artists/409) |
+| ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593) | [Rose Quartz](https://osu.ppy.sh/beatmaps/artists/429) |

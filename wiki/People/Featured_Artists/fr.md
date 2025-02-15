@@ -47,7 +47,7 @@ Si un `.osz` préprogrammé provenant de la liste des Featured Artist comporte d
 
 ## Artistes ayant un compte osu!
 
-Les artistes en vedette ayant un compte osu! peuvent être identifiés par un [titre d'utilisateur](/wiki/Community/User_title) "Featured Artist" cyan et un [badge utilisateur](/wiki/People/User_group) avec la mention `FA` pour montrer leur implication.
+Les artistes en vedette ayant un compte osu! peuvent être identifiés par un [titre d'utilisateur](/wiki/Community/User_title) "Featured Artist" cyan et un [badge utilisateur](/wiki/People/User_groups) avec la mention `FA` pour montrer leur implication.
 
 La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertorie tous ces comptes, tandis que la [liste des Featured Artist](https://osu.ppy.sh/beatmaps/artists) répertorie tous les Featured Artist.
 
@@ -102,6 +102,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=CH }:: [pandaeyesosu](https://osu.ppy.sh/users/34609545) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) |
 | ::{ flag=US }:: [Pandize](https://osu.ppy.sh/users/5490937) | [Pandize](https://osu.ppy.sh/beatmaps/artists/405) |
 | ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/users/4325444) | [ptar124](https://osu.ppy.sh/beatmaps/artists/409) |
+| ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593) | [Rose Quartz](https://osu.ppy.sh/beatmaps/artists/429) |
