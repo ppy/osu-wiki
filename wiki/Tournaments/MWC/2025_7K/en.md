@@ -115,7 +115,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 | --: | :-- | :-- | :-: | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Feb 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T100000&p1=1440&p2=145&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 16 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T113000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Grand Finals | mappool showcase | [Feb 16 (Sun) 12:30 UTC - 13:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Grand Finals | mappool showcase | [Feb 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250216T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
