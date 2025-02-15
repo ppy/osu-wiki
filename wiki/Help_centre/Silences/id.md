@@ -10,7 +10,7 @@
 
 Pengguna yang sedang terkena silence tidak akan dapat melakukan hal-hal berikut:
 
-- Menggunakan sarana [chat](/wiki/Client/Interface/Chat_console) online (publik dan pribadi), baik di dalam permainan atau pada situs web.
+- Menggunakan fasilitas [chat](/wiki/Client/Interface/Chat_console) (untuk mengirim pesan publik dan pribadi), baik itu di dalam permainan atau pada situs web.
 - Menulis postingan pada forum osu! mana pun.
 - Menulis komentar pada halaman situs web mana pun (baik itu halaman beatmap, riwayat perubahan, atau berita).
 - Berpartisipasi dalam [diskusi beatmap](/wiki/Beatmap_discussion).
@@ -22,7 +22,7 @@ Pengguna yang sedang terkena silence tidak akan dapat melakukan hal-hal berikut:
 ![](img/silence-ingame.png "Peringatan silence di dalam kolom chat")
 :::
 
-Sekalinya suatu pengguna terkena silence, seluruh pesan chat mereka akan dihapus dan kolom input chat mereka akan diganti dengan peringatan yang menampilkan seberapa lama durasi silence mereka.[^chat-cleanup]
+Sekalinya suatu pengguna terkena silence, seluruh pesan chat mereka akan dihapus dan kolom input chat mereka akan diganti dengan pesan peringatan yang menampilkan seberapa lama durasi silence mereka.[^chat-cleanup]
 
 ## Durasi
 
