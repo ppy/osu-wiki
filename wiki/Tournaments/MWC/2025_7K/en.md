@@ -262,9 +262,9 @@ Saturday, 15 February 2025:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/117178763) | [#1](https://www.twitch.tv/videos/2381488373) |
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1yr8Maxom0J2jf7inlfBqDb9my3dcmL9lGu9ClgV5tBc?rm=minimal).
-
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1yr8Maxom0J2jf7inlfBqDb9my3dcmL9lGu9ClgV5tBc?rm=minimal).
 
 Saturday, 8 February 2025:
 
