@@ -616,6 +616,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^losers-grand-finals]: Losers bracket Grand Finals match
 [^showmatch]: Best performing MWC7K 2025 players from eliminated teams (All-stars)
-[^grand-finals]: Grand Finals - final matchup depends on the Losers bracket Grand Finals match
+[^grand-finals]: Grand Finals — final matchup depends on the Losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
