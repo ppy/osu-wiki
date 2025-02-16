@@ -31,7 +31,7 @@ These unofficial subreddits aim to provide resources surrounding [skinning](/wik
 
 | Avatar | Name | Description |
 | :-: | :-: | :-- |
-| ![osureport avatar](img/osureport.png) | [/r/osureport](https://reddit.com/r/osureport) | **/r/osureport** is a hub designed for raising awareness about illegitimate players and cheated play. It is not affiliated with the [osu! team](/wiki/People/osu!_team). |
+| ![osureport avatar](img/osureport.png) | [/r/osureport](https://reddit.com/r/osureport) | **/r/osureport** is a hub designed for raising awareness about illegitimate players and cheated plays. It is not affiliated with the [osu! team](/wiki/People/osu!_team). |
 
 ## Personal
 
