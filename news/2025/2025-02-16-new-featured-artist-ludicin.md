@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "New Featured Artist: Ludicin"
-date: 2025-02-16 16:00:00 +0000
+date: 2025-02-16 18:30:00 +0000
 ---
 
 When life gives you **Ludicin**, you make beatmaps.
 
 ![](https://assets.ppy.sh/artists/xxx/header.jpg)
 
-Some may know **Ludicin** for their track *Everlasting Eternity* produced for Beat Saber World Cup 2023, but osu! players specifically might recognize **Ludicin** for the Grand Finals tiebreaker to 2025's osu!mania 7K World Cup: [*Lost Requiem*](LINK).
+Some may know **Ludicin** for their track *Everlasting Eternity* produced for Beat Saber World Cup 2023, but osu! players specifically might recognize **Ludicin** for the Grand Finals tiebreaker to 2025's osu!mania 7K World Cup: [*Lost Requiem*](https://osu.ppy.sh/beatmapsets/2325151).
 
 Regardless of how anyone knows **Ludicin**, everyone is aware of their musical prowess, and that's why they're one of our Featured Artists!
 
@@ -16,17 +16,15 @@ Regardless of how anyone knows **Ludicin**, everyone is aware of their musical p
 
 Check everything out:
 
-### [Ludicin - Lost Requiem](LINK)
+### [Ludicin - Lost Requiem](https://assets.ppy.sh/artists/459/Songs/Ludicin%20-%20Lost%20Requiem.osz)
 
-This year's osu!mania 7K World Cup will reach its conclusion next weekend. Expect to see [this year's Grand Finals tiebreaker](LINK) (mapped by [USERS]()) to be the climax!
+This year's osu!mania 7K World Cup will reach its conclusion next weekend. Expect to see [this year's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2325151) (mapped by [_underjoy](https://osu.ppy.sh/users/2235750), [Critical_Star](https://osu.ppy.sh/users/3793196), [Blocko](https://osu.ppy.sh/users/4075092), [ruka](https://osu.ppy.sh/users/6117525), [_Kobii](https://osu.ppy.sh/users/6209713), [ExNeko](https://osu.ppy.sh/users/7590894), [U1d](https://osu.ppy.sh/users/10125072), plus the one and only [**Ludicin**](https://osu.ppy.sh/users/8659666)) to be the climax!
 
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
-    </video>
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/MmccFHPScKA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### [Ludicin - Bismuth](LINK)
+### [Ludicin - Bismuth](https://assets.ppy.sh/artists/459/HARDCORE%20UTOPIA%20IV/Ludicin%20-%20Bismuth.osz)
 
 Play through any of these masterpieces:
 
@@ -37,10 +35,10 @@ Play through any of these masterpieces:
 - [A considerably harder osu!mania 7K marathon](https://osu.ppy.sh/beatmapsets/2017887) by [tyrcs](https://osu.ppy.sh/beatmapsets/2017887)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/459/HARDCORE%20UTOPIA%20IV/Ludicin%20-%20Bismuth.mp3">
 </audio>
 
-### [Ludicin - Clinozoisite](LINK)
+### [Ludicin - Clinozoisite](https://assets.ppy.sh/artists/459/HARDCORE%20UTOPIA%20V/Ludicin%20-%20Clinozoisite.osz)
 
 Here's another bunch of maps:
 
@@ -51,10 +49,10 @@ Here's another bunch of maps:
 - [Another osu!mania 7K marathon](https://osu.ppy.sh/beatmapsets/2129939) created by [ruka](https://osu.ppy.sh/beatmapsets/2129939) (and Ranked one day after the previous map!)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/459/HARDCORE%20UTOPIA%20V/Ludicin%20-%20Clinozoisite.mp3">
 </audio>
 
-### [Ludicin - Echoes of Memoria](LINK)
+### [Ludicin - Echoes of Memoria](https://assets.ppy.sh/artists/459/Echoes%20of%20Memoria/Ludicin%20-%20Echoes%20of%20Memoria.osz)
 
 **Ludicin**'s music is pretty popular. Take *another* batch of maps for this song from [The Perennial 2024](https://osu.ppy.sh/home/news/2024-05-21-the-perennial-returns):
 
@@ -65,10 +63,10 @@ Here's another bunch of maps:
 - [An osu!mania 6K marathon](https://osu.ppy.sh/beatmapsets/2220030) by [U1d](https://osu.ppy.sh/users/10125072)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/459/Echoes%20of%20Memoria/Ludicin%20-%20Echoes%20of%20Memoria.mp3">
 </audio>
 
-### [Ludicin - Everlasting Eternity](LINK)
+### [Ludicin - Everlasting Eternity](https://assets.ppy.sh/artists/459/Everlasting%20Eternity/Ludicin%20-%20Everlasting%20Eternity.osz)
 
 Yep. More maps:
 
@@ -79,10 +77,10 @@ Yep. More maps:
 - [A massive osu!mania 7K difficulty spread](https://osu.ppy.sh/beatmapsets/2099753) hosted by [Critical_Star](https://osu.ppy.sh/users/3793196)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/459/Everlasting%20Eternity/Ludicin%20-%20Everlasting%20Eternity.mp3">
 </audio>
 
-### [Ludicin - Fallen Symphony](LINK)
+### [Ludicin - Fallen Symphony](https://assets.ppy.sh/artists/459/Fallen%20Symphony/Ludicin%20-%20Fallen%20Symphony.osz)
 
 The last batch of maps is here:
 
@@ -93,15 +91,15 @@ The last batch of maps is here:
 - [A 10-star osu!mania 7K marathon](https://osu.ppy.sh/beatmapsets/1948301) hosted by [tyrcs](https://osu.ppy.sh/users/13026904)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/459/Fallen%20Symphony/Ludicin%20-%20Fallen%20Symphony.mp3">
 </audio>
 
-### [Ludicin - Onus Regulus](LINK)
+### [Ludicin - Onus Regulus](https://assets.ppy.sh/artists/459/Onus%20Regulus/Ludicin%20-%20Onus%20Regulus.osz)
 
 Play through [one more osu!mania 4K and 7K set](https://osu.ppy.sh/beatmapsets/2046363) hosted by [uL-](https://osu.ppy.sh/users/10652110)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/459/Onus%20Regulus/Ludicin%20-%20Onus%20Regulus.mp3">
 </audio>
 
 ---
