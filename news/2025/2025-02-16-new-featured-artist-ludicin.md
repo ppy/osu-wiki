@@ -8,7 +8,7 @@ When life gives you **Ludicin**, you make beatmaps.
 
 ![](https://assets.ppy.sh/artists/459/header.jpg)
 
-Some may know **Ludicin** for their track *Everlasting Eternity* produced for Beat Saber World Cup 2023, but osu! players specifically might recognize **Ludicin** for the Grand Finals tiebreaker to 2025's osu!mania 7K World Cup: [*Lost Requiem*](https://osu.ppy.sh/beatmapsets/2325151).
+Some may know **Ludicin** for their track *Everlasting Eternity* produced for Beat Saber World Cup 2023, but osu! players specifically might recognise **Ludicin** for the Grand Finals tiebreaker in 2025's osu!mania 7K World Cup: [*Lost Requiem*](https://osu.ppy.sh/beatmapsets/2325151).
 
 Regardless of how anyone knows **Ludicin**, everyone is aware of their musical prowess, and that's why they're one of our Featured Artists!
 
