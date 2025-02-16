@@ -46,7 +46,7 @@ Wenn eine vorkonfigurierte `.osz` aus der Künstlerauflistung jegliche Fehler au
 
 ## Gesponserte Künstler mit osu!-Accounts
 
-Für ihre Beteiligung erhalten gesponserte Künstler mit einem osu!-Account einen cyanfarbenen [Nutzertitel](/wiki/Community/User_title) "Featured Artist" und ein [Gruppenabzeichen](/wiki/People/User_group), auf dem `FA` steht.
+Für ihre Beteiligung erhalten gesponserte Künstler mit einem osu!-Account einen cyanfarbenen [Nutzertitel](/wiki/Community/User_title) "Featured Artist" und ein [Gruppenabzeichen](/wiki/People/User_groups), auf dem `FA` steht.
 
 Die [Gruppenseite für Featured Artists](https://osu.ppy.sh/groups/35) listet alle derartigen Accounts, wohingegen die [Auflistung der Featured Artists](https://osu.ppy.sh/beatmaps/artists) alle gesponserten Künstler nennt.
 

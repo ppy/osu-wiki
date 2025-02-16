@@ -47,7 +47,7 @@ Si un `.osz` préprogrammé provenant de la liste des Featured Artist comporte d
 
 ## Artistes ayant un compte osu!
 
-Les artistes en vedette ayant un compte osu! peuvent être identifiés par un [titre d'utilisateur](/wiki/Community/User_title) "Featured Artist" cyan et un [badge utilisateur](/wiki/People/User_group) avec la mention `FA` pour montrer leur implication.
+Les artistes en vedette ayant un compte osu! peuvent être identifiés par un [titre d'utilisateur](/wiki/Community/User_title) "Featured Artist" cyan et un [badge utilisateur](/wiki/People/User_groups) avec la mention `FA` pour montrer leur implication.
 
 La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertorie tous ces comptes, tandis que la [liste des Featured Artist](https://osu.ppy.sh/beatmaps/artists) répertorie tous les Featured Artist.
 

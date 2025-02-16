@@ -3,10 +3,11 @@ outdated_translation: true
 outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 tags:
   - група користувачів
+  - usergroups
   - usergroup
 ---
 
-# Група користувачів
+# Групи користувачів
 
 *Примітка: Списки користувачів у групах Chat Bots та Announce не є публічними.*
 
