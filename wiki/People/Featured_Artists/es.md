@@ -46,7 +46,7 @@ Si un `.osz` pre-temporizado del listado de los artistas destacados tiene errore
 
 ## Artistas destacados con cuentas de osu!
 
-Los artistas destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_group) que dice `FA` para exhibir su participación.
+Los artistas destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_groups) que dice `FA` para exhibir su participación.
 
 La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) enumera todas estas cuentas, mientras que el [listado de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) enumera a todos los artistas destacados.
 

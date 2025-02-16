@@ -34,5 +34,5 @@ Trang chỉ mục cho những bài viết về người hoặc nhóm.
 
 - [peppy](peppy)
 - [Nhật ký nhân viên](Staff_log)
-- [Nhóm người dùng](User_group)
+- [Nhóm người dùng](User_groups)
 - [Những người dùng với danh hiệu đặc biệt](Users_with_unique_titles)

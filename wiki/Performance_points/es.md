@@ -1,3 +1,8 @@
+---
+outdated_since: 6764d34c29c0eac7037a091e314d7376d1829d9d
+outdated_translation: true
+---
+
 # Puntos de rendimiento
 
 Los **puntos de rendimiento** (o **pp** para abreviar) son una forma de clasificación que pretende ser más contextualmente relevante para la progresión de un jugador en osu!.
