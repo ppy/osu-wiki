@@ -37,4 +37,4 @@ These unofficial subreddits aim to provide resources surrounding [skinning](/wik
 
 | Avatar | Handle | Description |
 | :-: | :-: | :-- |
-| ![Dean Herbert avatar](img/pepppppy.png) | [/u/pepppppy](https://reddit.com/u/pepppppy) | The [osu! creator](/wiki/People/peppy)'s personal Reddit account, which primarily contains osu!-related topics, but is not limited to them. |
+| ![Dean Herbert avatar](img/pepppppy.png) | [/u/pepppppy](https://reddit.com/user/pepppppy) | The [osu! creator](/wiki/People/peppy)'s personal Reddit account, which primarily contains osu!-related topics, but is not limited to them. |
