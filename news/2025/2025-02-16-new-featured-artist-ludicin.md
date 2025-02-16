@@ -57,9 +57,9 @@ Here's another bunch of maps:
 **Ludicin**'s music is pretty popular. Take *another* batch of maps for this song from [The Perennial 2024](https://osu.ppy.sh/home/news/2024-05-21-the-perennial-returns):
 
 - [The original tournament map](https://osu.ppy.sh/beatmapsets/2214238) by [hehe](https://osu.ppy.sh/users/2123087)
-- [An osu!catch rendition](https://osu.ppy.sh/beatmapsets/2271235) co-created by [Mochi -](https://osu.ppy.sh/users/20424806), [-Ken](https://osu.ppy.sh/users/4430811), [Unlucky_w](https://osu.ppy.sh/users/4820793), [-Rustyy](https://osu.ppy.sh/users/16355636), and [Ririmu](https://osu.ppy.sh/users/20424806)
+- [An osu!catch rendition](https://osu.ppy.sh/beatmapsets/2271235) co-created by [-Ken](https://osu.ppy.sh/users/4430811), [Unlucky_w](https://osu.ppy.sh/users/4820793), [-Rustyy](https://osu.ppy.sh/users/16355636), and [Ririmu](https://osu.ppy.sh/users/20424806)
 - [Two osu!mania 4K marathon difficulties](https://osu.ppy.sh/beatmapsets/2218336) by [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359)
-- [Another osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/22463820) by [-mint-](https://osu.ppy.sh/users/8976576) and [elexire](https://osu.ppy.sh/users/9206093)
+- [Another osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/2246382) by [-mint-](https://osu.ppy.sh/users/8976576) and [elexire](https://osu.ppy.sh/users/9206093)
 - [An osu!mania 6K marathon](https://osu.ppy.sh/beatmapsets/2220030) by [U1d](https://osu.ppy.sh/users/10125072)
 
 <audio controls>
