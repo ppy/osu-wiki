@@ -32,7 +32,7 @@ Play through any of these masterpieces:
 - [Two osu!taiko marathons](https://osu.ppy.sh/beatmapsets/1984610) by [Undead Alice](https://osu.ppy.sh/users/17415683) and [Tsukani](https://osu.ppy.sh/users/5146144)
 - [An osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/2016290) by [uL-](https://osu.ppy.sh/users/10652110) and [Disguise](https://osu.ppy.sh/users/10764851)
 - [A slightly harder osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/2025951) by [7912](https://osu.ppy.sh/users/14875348)
-- [A considerably harder osu!mania 7K marathon](https://osu.ppy.sh/beatmapsets/2017887) by [tyrcs](https://osu.ppy.sh/beatmapsets/2017887)
+- [A considerably harder osu!mania 7K marathon](https://osu.ppy.sh/beatmapsets/2017887) by [tyrcs](https://osu.ppy.sh/users/13026904)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/459/HARDCORE%20UTOPIA%20IV/Ludicin%20-%20Bismuth.mp3">
