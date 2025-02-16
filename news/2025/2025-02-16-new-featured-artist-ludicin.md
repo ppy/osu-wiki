@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Ludicin"
-date: 2025-02-16 18:30:00 +0000
+date: 2025-02-16 18:45:00 +0000
 ---
 
 When life gives you **Ludicin**, you make beatmaps.
