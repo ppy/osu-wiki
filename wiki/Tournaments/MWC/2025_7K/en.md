@@ -127,7 +127,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Grand Finals
 
-**[Download the mappack here (158 MB MB)](https://leoflt.com/s/kLSY)**\
+**[Download the mappack here (158 MB, *temporary link*)](https://leoflt.com/s/kLSY)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2382915152)
 
 - Rice
@@ -144,7 +144,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
   4. [Gram - LOKI (ExNeko) \[logi\]](https://osu.ppy.sh/beatmapsets/2325136#mania/4983835)
 - Hybrid
   1. [MisomyL - Coming\*True!! (Muses) \[Sincerely yours. (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2325139#mania/4983838)
-  2. [Ludicin - Signal (\_Kobii, Blocko) \[Terminated\] *(temporary link)*](https://leoflt.com/s/RR4E)
+  2. [Ludicin - Signal (\_Kobii, Blocko) \[Terminated\]](https://osu.ppy.sh/beatmapsets/2325160#mania/4983871)
 - Extreme
   1. [DJ Raisei - T.R.A.P. (aci) \[W.E.L.C.O.M.E. T.O. M.A.N.I.A.\] *(temporary link)*](https://leoflt.com/s/2eov)
   2. [Sakuzyo - Distorted Fate (ruka) \[Take my hand\]](https://osu.ppy.sh/beatmapsets/2325154#mania/4983861)
