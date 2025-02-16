@@ -40,6 +40,6 @@
 
 | Medaillenname | Anforderung | Beschreibung |
 | :-- | :-- | :-- |
-| Daily Sprout | Erreiche eine 1-tägige Serie in [Tägliche Herausforderung](/wiki/Gameplay/Daily_challenge). | Ready for anything. |
-| Weekly Sapling | Erreiche eine 7-tägige Serie in [Tägliche Herausforderung](/wiki/Gameplay/Daily_challenge). | Circadian rhythm calibrated. |
-| Monthly Shrub | Erreiche eine 30-tägige Serie in [Tägliche Herausforderung](/wiki/Gameplay/Daily_challenge). | In for the grind. |
+| Daily Sprout | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) einmal. | Ready for anything. |
+| Weekly Sapling | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) 7 Mal hintereinander. | Circadian rhythm calibrated. |
+| Monthly Shrub | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) 30 Mal hintereinander. | In for the grind. |

@@ -66,5 +66,5 @@ Für den Erwerb dieser Medaillen müssen alle Beatmaps im jeweiligen Paket im [o
 
 ## Siehe auch
 
-- [Ersterwerb von Medaillen](First_medal_unlocks)
+- [Medaillen-Ruhmeshalle](First_medal_unlocks)
 - [Freischaltungsanforderungen für Medaillen](Unlock_requirements)
