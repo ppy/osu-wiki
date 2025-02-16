@@ -113,15 +113,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250222T120000&p1=1440&p2=33&p3=145) |  | [^losers-grand-finals] |
+| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250222T120000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-grand-finals] |
 | Grand Finals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 23 February 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250223T120000&p1=1440&p2=235&p3=33) |  | [^grand-finals] |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250223T120000&p1=1440&p2=235&p3=145) |  | [^grand-finals] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250223T120000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250223T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
 
