@@ -46,7 +46,7 @@ If a pre-timed `.osz` from the Featured Artist listing has errors of any kind, t
 
 ## Featured Artists with osu! accounts
 
-Featured Artists with an osu! account can be identified by a cyan "Featured Artist" [user title](/wiki/Community/User_title) and a [user group](/wiki/People/User_group) badge that reads `FA` to show their involvement.
+Featured Artists with an osu! account can be identified by a cyan "Featured Artist" [user title](/wiki/Community/User_title) and a [user group](/wiki/People/User_groups) badge that reads `FA` to show their involvement.
 
 The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such accounts, while the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) lists all Featured Artists.
 
@@ -89,6 +89,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) | [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
+| ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
