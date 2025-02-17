@@ -8,7 +8,7 @@ Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu perbuat 
 
 [osu! wiki](https://github.com/ppy/osu-wiki) merupakan basis pengetahuan resmi kami yang mengandung segala sesuatunya tentang osu!. Dan sebagaimana pada wiki lainnya, osu! wiki selalu mencari kontributor baru untuk membantu menjaga situs web ini tetap mutakhir dengan berbagai pengetahuan atau terjemahan baru.
 
-Apabila kamu baru di osu! wiki, kamu dapat membaca keterangan lebih lanjut seputar hal ini pada halaman [Panduan kontribusi osu! wiki(/wiki/osu!_wiki/Contribution_guide).
+Apabila kamu baru di osu! wiki, kamu dapat membaca keterangan lebih lanjut seputar hal ini pada halaman [Panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
 ## Bantu jaga osu! agar tetap ramah dan aman
 
