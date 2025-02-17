@@ -127,12 +127,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ### Grand Finals
 
-**[Download the mappack here (158 MB, *temporary link*)](https://leoflt.com/s/kLSY)**\
+**[Download the mappack here (158 MB)](https://packs.ppy.sh/P276%20-%20osu!mania%207K%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2382915152)
 
 - Rice
   1. [Himeringo - Kodoku no Kakurenbo (Cut Ver.) (\_Yiiiii) \[Kimi no Ushiro ni\]](https://osu.ppy.sh/beatmapsets/2325113#mania/4983786)
-  2. [Super Psychic Fujy - Dark Avatara Beam (Le Dos-on Remix) (qodtjr) \[mwc (x1.05)\] *(temporary link)*](https://leoflt.com/s/Lo66)
+  2. [Super Psychic Fujy - Dark Avatara Beam (Le Dos-on Remix) (qodtjr) \[mwc (x1.05)\]](https://osu.ppy.sh/beatmapsets/2325303#mania/4984227)
   3. [Junk - Aihana (ExNeko) \[Blossom\]](https://osu.ppy.sh/beatmapsets/2325135#mania/4983834)
   4. [BilliumMoto - 100 Carat Smoke Point (Blocko) \[Obsidian\]](https://osu.ppy.sh/beatmapsets/2325114#mania/4983791)
   5. [TWC Sound Team "Xurv Stasis Rasufim" - Kaze no Denwa (Cut Ver.) (pwhk) \[Disconnected (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2325116#mania/4983795)
@@ -146,7 +146,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
   1. [MisomyL - Coming\*True!! (Muses) \[Sincerely yours. (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2325139#mania/4983838)
   2. [Ludicin - Signal (\_Kobii, Blocko) \[Terminated\]](https://osu.ppy.sh/beatmapsets/2325160#mania/4983871)
 - Extreme
-  1. [DJ Raisei - T.R.A.P. (aci) \[W.E.L.C.O.M.E. T.O. M.A.N.I.A.\] *(temporary link)*](https://leoflt.com/s/2eov)
+  1. [DJ Raisei - T.R.A.P. (aci) \[W.E.L.C.O.M.E. T.O. M.A.N.I.A.\]](https://osu.ppy.sh/beatmapsets/2325366#mania/4984357)
   2. [Sakuzyo - Distorted Fate (ruka) \[Take my hand\]](https://osu.ppy.sh/beatmapsets/2325154#mania/4983861)
   3. [Genesis - Absolute Evil (kaulpakka) \[Dark Fall (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2325148#mania/4983851)
 - Tiebreaker
