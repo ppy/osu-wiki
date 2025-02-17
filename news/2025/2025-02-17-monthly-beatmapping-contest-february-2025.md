@@ -22,6 +22,14 @@ This article covers results from the last contest, plus criteria for this contes
 
 ## Previous contest results
 
+We've decided to slot the **top 5 maps** from each mode in osu!(lazer)'s [Featured Artist playlists](/wiki/People/Featured_Artists/Featured_Artist_playlists)!
+
+Following the criteria explained on [the wiki page](/wiki/People/Featured_Artists/Featured_Artist_playlists#cumulative-leaderboard), you have the potential to earn these profile badges:
+
+![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplosu.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplmania.png)
+
+The playlists will be open for **2 weeks.** Get started already.
+
 ### osu! results
 
 [See the full results here.](https://mappersguild.com/contests/results?contest=6779ea74a9ef0aeb36ed8a51)
@@ -61,16 +69,6 @@ And of course, send some appreciation to [Daycore](https://osu.ppy.sh/users/5596
 </div>
 
 Special thanks to this month's judges: [-mint-](https://osu.ppy.sh/users/8976576), [Monoseul](https://osu.ppy.sh/users/16010604), [taba2](https://osu.ppy.sh/users/7850508), and [Antalf](https://osu.ppy.sh/users/8793773)!
-
-### Play the winning maps
-
-We've decided to slot the **top 5 maps** from each mode in osu!(lazer)'s [Featured Artist playlists](/wiki/People/Featured_Artists/Featured_Artist_playlists)!
-
-Following the criteria explained on [the wiki page](/wiki/People/Featured_Artists/Featured_Artist_playlists#cumulative-leaderboard), you have the potential to earn these profile badges:
-
-![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplosu.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplmania.png)
-
-The playlists will be open for **2 weeks.** Get started already.
 
 ## Game modes
 
