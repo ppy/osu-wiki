@@ -88,7 +88,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
+<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Localisation/MenuTipStrings.cs -->
 
 These tips appear at the bottom of the main menu in [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
