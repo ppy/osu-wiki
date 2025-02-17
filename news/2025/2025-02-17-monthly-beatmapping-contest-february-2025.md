@@ -28,7 +28,7 @@ Following the criteria explained on [the wiki page](/wiki/People/Featured_Artist
 
 ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplosu.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplmania.png)
 
-The playlists will be open for **2 weeks.** Get started already.
+The playlists will be open for **2 weeks**. Get started already.
 
 ### osu! results
 
