@@ -94,8 +94,6 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
-
 Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 - ¡Presiona `Ctrl` + `T` en cualquier parte del juego para alternar la barra de herramientas!

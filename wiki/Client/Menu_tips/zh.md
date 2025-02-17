@@ -89,8 +89,6 @@ tags:
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
-
 这些提示出现在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 的主菜单下方。
 
 - 在游戏里随时按下 `Ctrl` + `T`，来唤出工具栏！
