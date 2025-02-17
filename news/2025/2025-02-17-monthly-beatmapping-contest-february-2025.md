@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: February 2025"
-date: 2025-02-18 00:00:00 +0000
+date: 2025-02-17 22:00:00 +0000
 ---
 
 Constraints boost creativity in any medium, and osu! mapping is no exception. See if you have what it takes to design a truly creative map!
