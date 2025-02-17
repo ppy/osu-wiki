@@ -16,7 +16,7 @@ Demi menjaga agar mata rantai komunitas kami tetap aman, osu! memiliki tim moder
 
 Untungnya, tidak sulit bagi kamu untuk ikut membantu menjaga segala sesuatunya tetap aman. Berikut merupakan beberapa hal yang dapat kamu lakukan:
 
-- Ikuti kanal percakapan favoritmu pada [konsol chat ](/wiki/Client/Interface/Chat_console) atau ramaikan forum yang ada.
+- Ikuti kanal percakapan favoritmu pada [ruang chat](/wiki/Client/Interface/Chat_console) atau ramaikan forum yang ada.
 - Apabila kamu melihat sesuatu yang kamu rasa tidak pantas atau mengganggu dari segi mana pun, gunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) pada kolom chat di dalam permainan untuk memberitahukan hal ini kepada para moderator.
 
 ## Bantu anggota komunitas lainnya
@@ -60,14 +60,14 @@ Berikut merupakan berbagai hal yang dapat kamu lakukan untuk berkontribusi:
 
 - Jelajahi forum [Tournaments](https://osu.ppy.sh/community/forums/55). Turnamen sering kalinya membutuhkan banyak waktu dan tenaga untuk dapat berjalan mulus, dan terkadang kamu dapat membantu turnamen yang ada dengan menjadi juri penonton (*spectator judge*).
 - Cari tahu apa saja yang sedang terjadi pada forum [Development](https://osu.ppy.sh/community/forums/2); forum ini merupakan tempat berlangsungnya berbagai proyek yang paling serius.
-  - Bergabunglah ke [server Discord osu ](https://discord.gg/ppy)! Bahkan hanya dengan sekadar mengikuti pengembangan dan proyek yang ada di osu! sekalipun, kamu sudah dapat memperoleh berbagai informasi terkini.
+  - Bergabunglah ke [server Discord osu](https://discord.gg/ppy)! Bahkan hanya dengan sekadar mengikuti pengembangan dan proyek yang ada di osu! sekalipun, kamu sudah dapat memperoleh berbagai informasi terkini.
 - Ikuti [proyek beatmap](https://osu.ppy.sh/community/forums/53) yang ada dan rasakan seberapa menyenangkannya berkolaborasi dengan pengguna lain!
 - Mulai proyekmu sendiri atau bergabunglah ke proyek milik pengguna lain! Baik itu menghadirkan kembali pippi yang menari-nari atau sekadar menciptakan sesuatu yang keren untuk osu!, apa saja boleh!
   - Telusuri berbagai proyek populer pada [tautan berikut](/wiki/Community/Projects).
 
 ## Berikan kontribusi terhadap masa depan osu!
 
-Pertama dikembangkan pada tahun 2017, proyek [osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan fokus utama dari [tim osu! ](/wiki/People/osu!_team) saat ini bersama dengan situs web osu! baru yang kamu lihat saat ini! Apabila kamu ingin membantu menjadikan kedua proyek ini lebih baik lagi dan membawa kami lebih dekat ke masa depan osu!, berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan:
+Pertama dikembangkan pada tahun 2017, proyek [osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan fokus utama dari [tim osu!](/wiki/People/osu!_team) saat ini bersama dengan situs web osu! baru yang kamu lihat saat ini! Apabila kamu ingin membantu menjadikan kedua proyek ini lebih baik lagi dan membawa kami lebih dekat ke masa depan osu!, berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan:
 
 - Bantu proyek [osu!(lazer)](https://github.com/ppy/osu). Terdapat begitu banyak hal yang dapat diwujudkan pada versi osu! yang baru ini, dan kamu dapat membantu membuat segala sesuatunya menjadi kenyataan!
 - Jadikan [situs web osu!](https://github.com/ppy/osu-web) lebih baik lagi.
