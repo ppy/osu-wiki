@@ -65,7 +65,7 @@ And of course, send some appreciation to [Daycore](https://osu.ppy.sh/users/5596
 #### Top 10
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/5eSjdUdM2iI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mDfj5BNpWWc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Special thanks to this month's judges: [-mint-](https://osu.ppy.sh/users/8976576), [Monoseul](https://osu.ppy.sh/users/16010604), [taba2](https://osu.ppy.sh/users/7850508), and [Antalf](https://osu.ppy.sh/users/8793773)!
