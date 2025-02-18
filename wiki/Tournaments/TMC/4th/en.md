@@ -335,7 +335,7 @@ Sunday, 16 February 2025:
 | **the malaysians + 1 indo** | **4** | 0 | PLAY TOUHOU LUNA NIGHTS | [#1](https://osu.ppy.sh/community/matches/117198843) | [#1](https://www.youtube.com/watch?v=VD4CWidNHR0&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1BkwReSE2z) |
 | **Fish⁴** | **4** | -1 | rip king von | [#1](https://osu.ppy.sh/community/matches/117198858) | *win by default* |
 | **Odysseus** | **4** | 1 | steamhappy | [#1](https://osu.ppy.sh/community/matches/117199666) | [#1](https://www.twitch.tv/videos/2382861076), [#2](https://www.bilibili.com/video/BV1iUwRe1EE5) |
-| EL NACHO | 2 | **4** | **GOOOOOOOOOOAAAAAAAAAAAAL** | [#1](https://osu.ppy.sh/community/matches/117201107) | [#1](https://www.twitch.tv/videos/2383414435),[ #2](https://www.bilibili.com/video/BV1DEwReKE1x) |
+| EL NACHO | 2 | **4** | **GOOOOOOOOOOAAAAAAAAAAAAL** | [#1](https://osu.ppy.sh/community/matches/117201107) | [#1](https://www.twitch.tv/videos/2383414435), [#2](https://www.bilibili.com/video/BV1DEwReKE1x) |
 
 ### Qualifiers
 
