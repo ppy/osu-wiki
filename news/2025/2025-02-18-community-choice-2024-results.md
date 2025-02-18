@@ -16,6 +16,12 @@ The rest of the top 10 (top 5 for osu!mania 7K) for each *Community Choice* cate
 
 Tallying **95,562** total votes from **12,615** users across all game modes, you've made your voice heard, and it's time to reveal *your* choices for the best beatmaps of 2024!
 
+If you're more of a visual learner, here's a showcase of all winning beatmaps in action:
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/0iXGHuhRmDY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## osu!
 
 *This category got 63,250 votes from 7,687 users.*
