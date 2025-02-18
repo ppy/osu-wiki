@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Nominators
 
-The **Beatmap Nominators** (***BN***) is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). They are distinguished by their purple user title and [user group](/wiki/People/User_group) badge that reads `BN`.
+The **Beatmap Nominators** (***BN***) is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). They are distinguished by their purple user title and [user group](/wiki/People/User_groups) badge that reads `BN`.
 
 ## Related articles
 

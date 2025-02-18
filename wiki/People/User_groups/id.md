@@ -1,7 +1,10 @@
 ---
+outdated_since: 3abbc3696141c81461c9bb3ca5190c1d6376091c
+outdated_translation: true
 no_native_review: true
 tags:
   - usergroup
+  - usergroups
   - kelompok pengguna
 ---
 
