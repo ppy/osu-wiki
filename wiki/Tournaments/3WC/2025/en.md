@@ -125,7 +125,7 @@ The 3 Digit World Cup 2025 is run by various community members.
   1. [ASIAN KUNG-FU GENERATION - After Dark (-NeBu-) \[Riding On Faint Hopes Carried By The Night Wind\]](https://osu.ppy.sh/beatmapsets/2268520#osu/4831196)
   2. [POLKADOT STINGRAY - Keshin (Keqing) \[Atalanta's Extreme\]](https://osu.ppy.sh/beatmapsets/1311266#osu/2987479)
 - Hard Rock
-  1. [Ice - Amber Wishes (Deemo edit) (Astronic) \[_Epreus' Diminuendo\]](https://osu.ppy.sh/beatmapsets/1610241#osu/4254657)
+  1. [Ice - Amber Wishes (Deemo edit) (Astronic) \[\_Epreus' Diminuendo\]](https://osu.ppy.sh/beatmapsets/1610241#osu/4254657)
   2. [Feryquitous - Estahv (jazzberry) \[Ethereal (nwc ver.)\]](https://osu.ppy.sh/beatmapsets/1693141#osu/3459819)
 - Double Time
   1. [WALKUERE - Ikenai Borderline (Aranel) \[A Lovely Rebirth\]](https://osu.ppy.sh/beatmapsets/1866176#osu/3838647)
