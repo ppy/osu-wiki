@@ -236,7 +236,7 @@ For many, this is the epitome of 7K mapping when it comes to tiebreak-styled map
 
 ### Community Choice & Mapper's Favourite
 
-[![](/wiki/shared/news/2025-02-18-community-choice-2024-results/electromagnetic-stealth-girl-born-in-philadelphia.jpg)](https://osu.ppy.sh/beatmapsets/2099753)
+[![](/wiki/shared/news/2025-02-18-community-choice-2024-results/electromagnetic-stealth-girl-born-in-philadelphia.jpg)](https://osu.ppy.sh/beatmapsets/2016163)
 
 Not satisfied with being one of 2022's Community Choice runner-ups, [Ryax](https://osu.ppy.sh/users/8949769) surprised the anti-meta community with [**Camellia - Electromagnetic Stealth Girl Born In Philadelphia**](https://osu.ppy.sh/beatmapsets/2016163)! Being a fairly easy-going hybrid map characterised by its very catchy tunes and fun technical patterning, it was bound to be enjoyed by those who were willing to give it a chance — suffice to say, they didn't regret it!
 
