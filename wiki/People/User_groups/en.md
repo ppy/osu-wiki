@@ -1,9 +1,10 @@
 ---
 tags:
   - usergroup
+  - usergroups
 ---
 
-# User group
+# User groups
 
 ![User group badge example](img/user-group-badge.png "User group badge on a user's profile page")
 
@@ -27,6 +28,7 @@ Clicking the badges will lead to the respective group listings, while the names 
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Musical creators who have partnered with osu! |
 | 47 |  | Announce[^private] | Users with permission to send [announcement chat messages](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Responsible for selecting high-quality maps for the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| 50 | [![TC](/wiki/shared/group/TC.png)](https://osu.ppy.sh/groups/50) | [Tournament Committee](/wiki/People/Tournament_Committee) | Helping ensure the [tournament](/wiki/Tournaments) and [contest](/wiki/Contests) scenes remain fair and fun for all |
 
 ## Notes
 
