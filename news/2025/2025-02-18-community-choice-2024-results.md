@@ -34,7 +34,7 @@ Taking the [osu! World Cup 2023](/wiki/Tournaments/OWC/2023) by storm, [ktgster]
 
 This score has left such a significant mark on the community that it resonated enough with players to be voted as the *Community Choice* for 2024.
 
-In case you need a refresher, let's rewatch the glorious score that cemented this map's legacy:
+In case you need a refresher, here's the glorious score that cemented this map's legacy:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/83077CifykM" frameborder="0" allowfullscreen></iframe>
