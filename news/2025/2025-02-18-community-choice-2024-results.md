@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2024: Results"
-date: 2025-02-18 16:00:00 +0000
+date: 2025-02-18 17:45:00 +0000
 ---
 
 Rev up the drumrolls as we crown 2024's Community Choice and Mapper's Favourite beatmaps for each mode!
