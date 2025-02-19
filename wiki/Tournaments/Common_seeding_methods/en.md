@@ -24,7 +24,7 @@ As always, a third party should be able to get the same results without needing 
 In the explanations below, we use the following terms:
 
 - A **team** is a single entity participating in the tournament. For example, the 6-8 players from each country in [OWC](/wiki/Tournaments/OWC) are considered one team, while each player in the [Lazer Grand Arena](/wiki/Tournaments/LGA/2024) is considered their own team.
-- A **score** is a numerical value used for determining a team’s performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members’ scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a qualifier mappool; in those cases, the team’s score is often either the highest or the average of those runs.
+- A **score** is a numerical value used for determining a team’s performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members’ scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a Qualifier mappool; in those cases, the team’s score is often either the highest or the average of those runs.
 - A team’s **seed** is a number indicating their overall ranking among all teams. Typically, after one of the seeding methods below is used, the top N teams (that is, the teams seeded 1, 2, …, N) are placed into an elimination bracket or other competition format, with their locations being determined by their seeds.
 - **Normalisation** is the process of dividing a team’s score by any mod multipliers on the map. Typically, this is done to avoid artificial inflation of scores on modded maps.
 
@@ -36,7 +36,7 @@ Each subsection below explains, both in words and in a mathematical formula, a d
 
 ### Average Score
 
-This seeding method averages each team’s scores on all maps. Typically, scores are first normalised, meaning that they are divided by the [mod multipliers](/wiki/Gameplay/Game_modifier/Mod_multiplier) specified on the map, before averaging. (For example, scores on an osu! map played with Hard Rock in ScoreV2 would be divided by 1.1.) Teams are then seeded in order of this average, with the highest average receiving seed 1.
+This seeding method averages each team’s scores on all maps. Typically, scores are first normalised. Teams are then seeded in order of this average, with the highest average receiving seed 1.
 
 The average score for a team is given by
 
@@ -60,7 +60,7 @@ This seeding method assigns each team some number of points between 0 and 1 on e
 
 The percent max sum for a team is given by
 
-![Percent Maximum formula](img/percentmax.png)[^mappool-size]
+![Percent Max formula](img/percentmax.png)[^mappool-size]
 
 ### Percent Difference
 
@@ -74,9 +74,9 @@ The percent difference sum for a team is given by
 
 This seeding method first computes the average and standard deviation of team scores on each map. Each team then receives a “z-score” for each map, which is the number of standard deviations above or below the mean that they scored. (0 is an average z-score, and z-scores are typically between -3 and 3.) Seeding is then determined by the sum of these z-scores, with the highest sum receiving seed 1.
 
-Note that tournaments in the past have often used the term “Z-Sum” for what is instead called the “Z-Percentile” seeding method below.[^z-sum] The Z-Sum seeding method should result in roughly half the teams having a negative total sum of z-scores and half having a positive sum. The total sum over all maps should be exactly 0.
+Note that tournaments in the past have often used the term “Z-Sum” for what is instead called the “Z-Percentile” seeding method below.[^Z-Sum] The Z-Sum seeding method should result in roughly half the teams having a negative total sum of z-scores and half having a positive sum. The total sum over all maps should be exactly 0.
 
-The z-sum for a team is given by
+The Z-Sum for a team is given by
 
 ![Z-Sum formula](img/zsum.png)[^mappool-size]
 
@@ -86,7 +86,7 @@ where typically the sample standard deviation is used (rather than the populatio
 
 This seeding method is almost identical to Z-Sum, except that instead of assigning teams a z-score, it assigns teams the corresponding percentile with respect to the normal distribution. In other words, Z-Percentile estimates the percentage of teams beaten on each map by fitting scores to a bell curve, and each team will receive a value between 0 and 1 on each map played. Seeding is then determined by the sum of these values, with the highest sum receiving seed 1.
 
-The z-percentile sum for a team is given by
+The Z-Percentile sum for a team is given by
 
 ![Z-Percentile formula](img/zpercentile.png)[^mappool-size]
 
@@ -130,7 +130,7 @@ There are many factors that go into choosing a seeding method for a tournament. 
 
 - **Lack of qualifiers**: All of the seeding methods above assume that teams all play through the same qualifiers pool. If qualifiers are not played, then it may make sense instead to seed by rank or [BWS](/wiki/Tournaments/Badge-weighted_seeding). (For example, a 2v2 tournament with team size 4 may seed teams by the sum of their two best BWS ranks, with the smallest sum being seeded 1st.)
   - Note that some tournaments may begin head-to-head competition by placing teams into a group stage or Swiss-system tournament instead of a standard elimination bracket. However, these other systems still require specification on how the teams are placed into matchups, so often some method of seeding is still required (either one of the ones mentioned in this page, or random drawings).
-- **Scoring system**: Most of the seeding methods above are typically used when tournaments are played with the ScoreV2 scoring system. Thus, extra care should be taken when seeding tournaments that use ScoreV1, accuracy, or other methods of scoring. For example, a map played with ScoreV1 may have high outliers from well-performing teams, so it may be less advised to seed by Z-Percentile or Percent Maximum.
+- **Scoring system**: Most of the seeding methods above are typically used when tournaments are played with the ScoreV2 scoring system. Thus, extra care should be taken when seeding tournaments that use ScoreV1, accuracy, or other methods of scoring. For example, a map played with ScoreV1 may have high outliers from well-performing teams, so it may be less appropriate to seed by Z-Percentile or Percent Max.
 - **Transparency and familiarity**: More complicated seeding methods, or new formulas that are not widely used in tournaments, may be more difficult for players and staff to understand or double-check. It may be advantageous to choose a seeding method that can be quickly sanity checked without needing heavy calculation.
 
 ### Comparing the most commonly used methods
@@ -141,26 +141,26 @@ For reference, below is a list of qualifier seeding methods used in the official
 | --: | :-: | :-: | :-: | :-: | :-: |
 | **2019** | Average Placement |  |  |  |  |
 | **2020** | Average Placement |  |  |  |  |
-| **2021** | Percent Maximum |  |  | Weighted Average Placement (0.1 - 0.1625) |  |
-| **2022** | Percent Maximum | Sum of Placements | Percent Maximum | Weighted Average Placement (0.1 - 0.15) | Weighted Average Placement (0.1 - 0.1675) |
-| **2023** | Percent Maximum | Sum of Placements | Percent Maximum | Weighted Average Placement (0.1 - 0.145) | Average Placement |
-| **2024** | Percent Maximum | Sum of Placements | Percent Maximum | Weighted Average Placement (0.1 - 0.145) | Sum of Placements |
+| **2021** | Percent Max |  |  | Weighted Average Placement (0.1 - 0.1625) |  |
+| **2022** | Percent Max | Sum of Placements | Percent Max | Weighted Average Placement (0.1 - 0.15) | Weighted Average Placement (0.1 - 0.1675) |
+| **2023** | Percent Max | Sum of Placements | Percent Max | Weighted Average Placement (0.1 - 0.145) | Average Placement |
+| **2024** | Percent Max | Sum of Placements | Percent Max | Weighted Average Placement (0.1 - 0.145) | Sum of Placements |
 
-It is particularly common for tournaments to seed by **Sum of Placements, Percent Maximum, or Z-Percentile** when assessing overall consistent performance, or to use **Zipf’s Law** when promoting specialists (such as in some 1v1 tournaments). Below is a table showing some sample scores that 8 teams could receive on a map, along with the points that they would be assigned for the map under three common methods (rounded to the nearest hundredth):
+It is particularly common for tournaments to seed by **Sum of Placements, Percent Max, or Z-Percentile** when assessing overall consistent performance, or to use **Zipf’s Law** when promoting specialists (such as in some 1v1 tournaments). Below is a table showing some sample scores that 8 teams could receive on a map, along with the points that they would be assigned for the map under three common methods (rounded to the nearest hundredth):
 
 | **Team** | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | **Score** | 950,000 | 800,000 | 750,000 | 750,000 | 650,000 | 500,000 | 400,000 | 250,000 |
 | **Placement** | 1 | 2 | 3 | 3 | 5 | 6 | 7 | 8 |
-| **Percent Maximum** | 1.00 | 0.84 | 0.79 | 0.79 | 0.68 | 0.53 | 0.42 | 0.26 |
+| **Percent Max** | 1.00 | 0.84 | 0.79 | 0.79 | 0.68 | 0.53 | 0.42 | 0.26 |
 | **Z-Percentile** | 0.92 | 0.77 | 0.70 | 0.70 | 0.53 | 0.29 | 0.16 | 0.05 |
 
 To contrast these methods, notice the following:
 
-- Score differences do not directly factor into Placement except for exact ties, but they do significantly impact points under Percent Maximum and Z-Percentile.
-- Teams 1 and 2, teams 5 and 6, and teams 7 and 8 each had a score difference of 150,000 points. This difference counts equally in all cases for Percent Maximum (about 0.16 points) but makes a bigger difference for teams 5 and 6 in Z-Percentile (about 0.25 points compared to 0.15 or 0.11 for the other pairs) because their scores are closer to the mean.
-- When scores are more clustered near the mean and more spread out for outliers – more precisely, when the distribution of scores is close to a bell curve – Z-Percentile will favor teams similarly to Placement, other than the fact that very close scores will receive similar points (for example Teams 2 through 4 above). But if scores are more uniformly distributed, Z-Percentile instead favors teams more similarly to Percent Maximum.
-- If the highest score of 950,000 were instead much higher (like 1,200,000), seeding under Placement would remain the same, seeding under Percent Maximum would heavily deflate all other teams, and seeding under Z-Percentile would be altered slightly (most notably in shifting the average and thus the range of scores in which improvements are most important).
+- Score differences do not directly factor into Placement except for exact ties, but they do significantly impact points under Percent Max and Z-Percentile.
+- Teams 1 and 2, teams 5 and 6, and teams 7 and 8 each had a score difference of 150,000 points. This difference counts equally in all cases for Percent Max (about 0.16 points) but makes a bigger difference for teams 5 and 6 in Z-Percentile (about 0.25 points compared to 0.15 or 0.11 for the other pairs) because their scores are closer to the mean.
+- When scores are more clustered near the mean and more spread out for outliers – more precisely, when the distribution of scores is close to a bell curve – Z-Percentile will favor teams similarly to Placement, other than the fact that very close scores will receive similar points (for example Teams 2 through 4 above). But if scores are more uniformly distributed, Z-Percentile instead favors teams more similarly to Percent Max.
+- If the highest score of 950,000 were instead much higher (like 1,200,000), seeding under Placement would remain the same, seeding under Percent Max would heavily deflate all other teams, and seeding under Z-Percentile would be altered slightly (most notably in shifting the average and thus the range of scores in which improvements are most important).
 
 Finally, a side-by-side comparison of all seeding methods on this page using the [osu! World Cup 2024](/wiki/Tournaments/OWC/2024) qualifiers data can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSNjTR6oXcjyCEaNEu-h0EabC8ZSYUMVhjEUYvZsfU78JXOrUpoOc_lIDinRe2gWEDbDCkTdvr1VCn9/pubhtml).
 
@@ -174,9 +174,9 @@ Here are some other features and comparisons of seeding methods to keep in mind,
 - Some seeding methods benefit specialists, while others benefit consistent performances. For example, Zipf’s Law will give a large boost in seeding to teams with the highest or near-highest rank on a map compared to Sum of Placements. And because of the shape of the normal distribution, Z-Sum will give a large boost for extremely high scores (and a large reduction for extremely low scores) compared to Z-Percentile; thus, Z-Percentile tends to favour all-rounders over specialists compared to Z-Sum.
 - Some seeding methods may cause certain maps to contribute more to seeding differences than others.
   - In particular, weighted seeding methods are designed to allow some maps to factor more into overall seeding than others – this allows for balancing of importance across different skill sets without needing to include extra maps of the same type in a pool.
-  - For a less direct example, seeding by Average Score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by Percent Maximum or Percent Difference will give that one team a large boost while distinguishing the other teams on the map less.
+  - For a less direct example, seeding by Average Score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by Percent Max or Percent Difference will give that one team a large boost while distinguishing the other teams on the map less.
 
 ## Notes
 
 [^mappool-size]: The letter `m` refers to the number of maps in the qualifier mappool.
-[^z-sum]: The misconception between Z-Sum and Z-Percentile originates from taking each map score’s z-percentile and then summing all of a team’s z-percentiles. While this is a sum, it is a sum of z-percentiles rather than z-scores, making the two methods distinct.
+[^Z-Sum]: The misconception between Z-Sum and Z-Percentile originates from taking each map score’s z-percentile and then summing all of a team’s z-percentiles. While this is a sum, it is a sum of z-percentiles rather than z-scores, making the two methods distinct.
