@@ -54,14 +54,21 @@ osu! the Original.
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
-| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation |
+| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=PE }:: Peru |
+| **Philippines** ::{ flag=PH }:: | **7** | 0 | ::{ flag=ID }:: Indonesia |
+| **Philippines** ::{ flag=PH }:: | **7** | 6 | ::{ flag=JP }:: Japan |
+| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=CN }:: China |
 
-Week summary
+Following last week's trends, with only the best of the best teams remaining, these matches were not short of amazing either. Regardless of a match results, the level of play shown in last week's skirmishes was unmatched to any other week. The pool's (almost) final bump in difficulty didn't make things any easier for the players.
 
-### ::{ flag=xx }:: COUNTRY vs. ::{ flag=xx }:: COUNTRY
+With South Korea being the sole victor of the winners' bracket, they currently have the most advantage over their rivals. With the Philippines surviving losers' bracket after their win against Indonesia and their **very** narrow victory over Japan, they'll get to rematch China in Grand Finals. That's a match we'd suggest bearing witnessing to given the very heated rivalry between China and the Philippines!
 
-**[You can view the match information here!](https://osu.ppy.sh/community/matches/MATCH_ID)**\
-**[You can view the match VOD here!](https://www.twitch.tv/videos/VOD_ID)**
+We can't stress enough how all of this week's matches were worth watching. While we would suggest watching them all, we'd like to highlight what has possibly been the most exciting match not only of the week but of the tournament as a whole!
+
+### ::{ flag=PH }:: Philippines vs. ::{ flag=JP }:: Japan
+
+**[You can view the match information here!](https://osu.ppy.sh/community/matches/117196404)**\
+**[You can view the match VOD here!](https://www.twitch.tv/videos/2382690271)**
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
