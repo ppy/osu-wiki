@@ -353,26 +353,26 @@ The final standings for the Qualifier stage can be found in the following [sprea
 3. There will be no warm-up maps, following the same format as MWC matches.
 4. Matches (with minor exceptions) will be played over the weekend (Friday to Sunday) at the times specified in the Main Sheet. Players are allowed to request reschedules up until a deadline announced in the tournament's Discord server.
 5. The schedules for each match will be announced on Sundays each week in the Main Sheet.
-4. Both players must be present in the room within a maximum of 10 minutes after the match's start time. If a player does not show up within this time, the opponent will be awarded the victory.
+6. Both players must be present in the room within a maximum of 10 minutes after the match's start time. If a player does not show up within this time, the opponent will be awarded the victory.
   - *If neither player shows up, they will be allowed to schedule an emergency reschedule within the same day.*
   - *If no suitable time can be found, the player with the higher seeding will advance.*
-5. Once both players are present, the referee will ask them to perform !roll. The roll winner can choose between first protect or first ban. 
+7. Once both players are present, the referee will ask them to perform !roll. The roll winner can choose between first protect or first ban. 
   - If the roll winner (Player A) chooses first protect, the order will be:
     - Protect A - Protect B - Ban B - Ban A - Pick A.
   - If the roll winner chooses first ban instead:
     - Protect B - Protect A - Ban A - Ban B - Pick A.
-6. After the rolls, players can freely choose their maps.
-7. Players have 2 minutes to select each map and ready up in the lobby. If a player exceeds this limit, the referee may issue a warning and enforce a tactical timeout if necessary. If this happens multiple times, the referee may perform a !roll to randomly select a map. In extreme cases, hosts and referees may take stricter actions.
-8. Each round will require a certain amount of points in order to win the match, those being:
+8. After the rolls, players can freely choose their maps.
+9. Players have 2 minutes to select each map and ready up in the lobby. If a player exceeds this limit, the referee may issue a warning and enforce a tactical timeout if necessary. If this happens multiple times, the referee may perform a !roll to randomly select a map. In extreme cases, hosts and referees may take stricter actions.
+10. Each round will require a certain amount of points in order to win the match, those being:
   - Round of 16: First to 5 points (BO9)
   - Quarterfinals and Semifinals: First to 6 points (BO11)
   - Finals and Grand Finals: First to 7 points (BO13)
-9. Each player has one tactical timeout, which can only be used during their own pick. This allows the player to request an additional 2 minutes from the referee, on top of the regular 2-minute pick time.
-10. In the rare case of a score tie on a map, the map will be replayed. If a tie occurs again, the map will continue to be replayed until a winner is determined.
-11. If a match tie occurs, the Tiebreaker map will be played automatically. If both players agree, an additional tactical timeout can be used before the Tiebreaker.
-12. Only the following mods are allowed during matches: Hidden (HD), Fade In, Flashlight (FL) and Mirror. All other mods **are strictly prohibited.**
-13. A rematch can be requested if a player experiences technical issues within the first 30 seconds of a map. The referee may deny this request if deemed unnecessary.
-14. If a player disconnects after the first 30 seconds, their opponent will win the point, unless:
+11. Each player has one tactical timeout, which can only be used during their own pick. This allows the player to request an additional 2 minutes from the referee, on top of the regular 2-minute pick time.
+12. In the rare case of a score tie on a map, the map will be replayed. If a tie occurs again, the map will continue to be replayed until a winner is determined.
+13. If a match tie occurs, the Tiebreaker map will be played automatically. If both players agree, an additional tactical timeout can be used before the Tiebreaker.
+14. Only the following mods are allowed during matches: Hidden (HD), Fade In, Flashlight (FL) and Mirror. All other mods **are strictly prohibited.**
+15. A rematch can be requested if a player experiences technical issues within the first 30 seconds of a map. The referee may deny this request if deemed unnecessary.
+16. If a player disconnects after the first 30 seconds, their opponent will win the point, unless:
   - A VOD, Twitch Stream or liveplay is provided showing the complete playthrough and result.
   - A replay file is submitted, with the timestamp matching exactly with the lobby's map start time.
 
