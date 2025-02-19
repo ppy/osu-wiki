@@ -74,7 +74,7 @@ The percent difference sum for a team is given by
 
 This seeding method first computes the average and standard deviation of team scores on each map. Each team then receives a “z-score” for each map, which is the number of standard deviations above or below the mean that they scored. (0 is an average z-score, and z-scores are typically between -3 and 3.) Seeding is then determined by the sum of these z-scores, with the highest sum receiving seed 1.
 
-Note that tournaments in the past have often used the term “Z-Sum” for what is instead called the “Z-Percentile” seeding method below. The Z-Sum seeding method should result in roughly half the teams having a negative total sum of z-scores and half having a positive sum. The total sum over all maps should be exactly 0.
+Note that tournaments in the past have often used the term “Z-Sum” for what is instead called the “Z-Percentile” seeding method below.[^z-sum] The Z-Sum seeding method should result in roughly half the teams having a negative total sum of z-scores and half having a positive sum. The total sum over all maps should be exactly 0.
 
 The z-sum for a team is given by
 
@@ -129,7 +129,7 @@ where `Map points` is the quantity that the seeding method assigns to each map (
 There are many factors that go into choosing a seeding method for a tournament. First of all, the following principles are important to keep in mind:
 
 - **Lack of qualifiers**: All of the seeding methods above assume that teams all play through the same qualifiers pool. If qualifiers are not played, then it may make sense instead to seed by rank or [BWS](/wiki/Tournaments/Badge-weighted_seeding). (For example, a 2v2 tournament with team size 4 may seed teams by the sum of their two best BWS ranks, with the smallest sum being seeded 1st.)
-	- Note that some tournaments may begin head-to-head competition by placing teams into a group stage or Swiss-system tournament instead of a standard elimination bracket. However, these other systems still require specification on how the teams are placed into matchups, so often some method of seeding is still required (either one of the ones mentioned in this page, or random drawings).
+  - Note that some tournaments may begin head-to-head competition by placing teams into a group stage or Swiss-system tournament instead of a standard elimination bracket. However, these other systems still require specification on how the teams are placed into matchups, so often some method of seeding is still required (either one of the ones mentioned in this page, or random drawings).
 - **Scoring system**: Most of the seeding methods above are typically used when tournaments are played with the ScoreV2 scoring system. Thus, extra care should be taken when seeding tournaments that use ScoreV1, accuracy, or other methods of scoring. For example, a map played with ScoreV1 may have high outliers from well-performing teams, so it may be less advised to seed by Z-Percentile or Percent Maximum.
 - **Transparency and familiarity**: More complicated seeding methods, or new formulas that are not widely used in tournaments, may be more difficult for players and staff to understand or double-check. It may be advantageous to choose a seeding method that can be quickly sanity checked without needing heavy calculation.
 
@@ -149,7 +149,7 @@ For reference, below is a list of qualifier seeding methods used in the official
 It is particularly common for tournaments to seed by **Sum of Placements, Percent Maximum, or Z-Percentile** when assessing overall consistent performance, or to use **Zipf’s Law** when promoting specialists (such as in some 1v1 tournaments). Below is a table showing some sample scores that 8 teams could receive on a map, along with the points that they would be assigned for the map under three common methods (rounded to the nearest hundredth):
 
 | **Team** | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | **Score** | 950,000 | 800,000 | 750,000 | 750,000 | 650,000 | 500,000 | 400,000 | 250,000 |
 | **Placement** | 1 | 2 | 3 | 3 | 5 | 6 | 7 | 8 |
 | **Percent Maximum** | 1.00 | 0.84 | 0.79 | 0.79 | 0.68 | 0.53 | 0.42 | 0.26 |
