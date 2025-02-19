@@ -4,15 +4,17 @@ title: "osu!mania 7K World Cup 2025: Finals Recap"
 date: 2025-02-20 20:30:00 +0000
 ---
 
-Eyecandy.
+The last purge before Grand Finals has finished. With only three teams remaining, let us see how we got up to this point!
 
 ![](/wiki/shared/news/2025-02-20-osumania-7k-world-cup-2025-finals-recap/banner.jpg)
 
-Intro
+With one week to go till this year's MWC 7K ends, teams have started to get ready for the final sprint. Everything up until last week may've been just a jog for some, but it's soon to become one final mad dash to the top of the podium!
 
-Interview spoiler
+We're reaching a point where finding highlights is getting harder and harder. What is there to highlight if everything is worthy of it? All the teams still standing have fought tooth and nail to be with us today. So let us wait no longer and dig deep into last week's happenings.
 
-Video intro
+Before that though, given China's performance across the tournament, we decided to host a short interview with the team's captain, [tyrcs](https://osu.ppy.sh/users/13026904). A fitting person nonetheless, given their amazing scores throughout the tournament's span! Hard to see a week go by without topping the scoreboards.
+
+With the handy help of [SurfChu85](https://osu.ppy.sh/users/4469895), [yukina meng](https://osu.ppy.sh/users/9919550), and [Nerfox](https://osu.ppy.sh/users/7976724) we've managed to get these recaps done in video form — this week was no exception!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
