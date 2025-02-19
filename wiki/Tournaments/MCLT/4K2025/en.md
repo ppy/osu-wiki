@@ -316,7 +316,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 7. Players who wish to register must be present in the Discord server linked in the first section of the forum.
 8. The score system used will be ScoreV2, and the version used will be stable, not osu!lazer.
 9. No tournament staff, except designers, streamers, and commentators, may participate as players.
-10. Players must adhere to the [osu! community rules](wiki/en/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
+10. Players must adhere to the [osu! community rules](/wiki/en/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
 11. Players are allowed to adjust visual settings to alter background opacity or disable beatmap elements, such as storyboards and skins.
 12. Skin elements must not be used to alter key gameplay mechanics inappropriately.
 13. The tournament hosts reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
