@@ -321,7 +321,7 @@ Saturday, 15 February 2025:
 | **Adrianlazer Fanboys** | **4** | 2 | Lucky Star | [#1](https://osu.ppy.sh/community/matches/117184837) | [#1](https://www.twitch.tv/videos/2381932327), [#2](https://www.bilibili.com/video/BV1orAVeAESq) |
 | **ball itchers** | **4** | 0 | una familia de 10 | [#1](https://osu.ppy.sh/community/matches/117187486) | [#1](https://www.twitch.tv/videos/2382023448), [#2](https://www.bilibili.com/video/BV1FYAVezEYL) |
 | **Mystia's Izakaya Patrons** | **4** | 1 | team saucisse | [#1](https://osu.ppy.sh/community/matches/117189191) | [#1](https://www.twitch.tv/videos/2382501343), [#2](https://www.bilibili.com/video/BV1gHwReNEVm) |
-| Ton 618 | -1 | **4** | **The Chen Enjoyers** | [#1](https://osu.ppy.sh/community/matches/117190850) | *win by default* |
+| Ton 618 | -1 | **4** | **The Chen Enjoyers** | [*win by default*](https://osu.ppy.sh/community/matches/117190850) |  |
 
 Sunday, 16 February 2025:
 
@@ -333,7 +333,7 @@ Sunday, 16 February 2025:
 | **The Boys** | **4** | 2 | AKatsuki | [#1](https://osu.ppy.sh/community/matches/117198032) | [#1](https://www.youtube.com/watch?v=CuseECpxVUM&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1c9wQe1EE5) |
 | spicy chicken sandwich | 0 | **4** | **sprite cranberry** | [#1](https://osu.ppy.sh/community/matches/117198518) | [#1](https://www.twitch.tv/videos/2382801383), [#2](https://www.bilibili.com/video/BV16zwReQEGh) |
 | **the malaysians + 1 indo** | **4** | 0 | PLAY TOUHOU LUNA NIGHTS | [#1](https://osu.ppy.sh/community/matches/117198843) | [#1](https://www.youtube.com/watch?v=VD4CWidNHR0&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1BkwReSE2z) |
-| **Fish⁴** | **4** | -1 | rip king von | [#1](https://osu.ppy.sh/community/matches/117198858) | *win by default* |
+| **Fish⁴** | **4** | -1 | rip king von | [*win by default*](https://osu.ppy.sh/community/matches/117198858) |  |
 | **Odysseus** | **4** | 1 | steamhappy | [#1](https://osu.ppy.sh/community/matches/117199666) | [#1](https://www.twitch.tv/videos/2382861076), [#2](https://www.bilibili.com/video/BV1iUwRe1EE5) |
 | EL NACHO | 2 | **4** | **GOOOOOOOOOOAAAAAAAAAAAAL** | [#1](https://osu.ppy.sh/community/matches/117201107) | [#1](https://www.twitch.tv/videos/2383414435), [#2](https://www.bilibili.com/video/BV1DEwReKE1x) |
 
