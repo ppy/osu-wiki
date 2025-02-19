@@ -42,7 +42,7 @@ The pool had its fair amount of modern maps — some made specifically for the t
 
 Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in the tournament — and what a project it is.
 
-![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)
+[![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/Lies_playing_Truth-banner.jpg)](https://osu.ppy.sh/beatmapsets/2271658)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -94,6 +94,25 @@ I am glad to participate in the making of RO32 TB as a mapper! This song has all
 </div>
 
 ## Round of 32 summary
+
+| Team A |  |  | Team B |
+| --: | :-: | :-: | :-- |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=TW }:: Taiwan |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=BY }:: Belarus |
+| **Philippines** ::{ flag=PH }:: | **5** | 2 | ::{ flag=MY }:: Malaysia |
+| **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=SG }:: Singapore |
+| **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=JP }:: Japan |
+| **Norway** ::{ flag=NO }:: | **5** | 2 | ::{ flag=TH }:: Thailand |
+| **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=KZ }:: Kazakhstan |
+| Romania ::{ flag=RO }:: | 3 | **5** | ::{ flag=BR }:: **Brazil** |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=UA }:: Ukraine |
+| **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=AT }:: Austria |
+| **Sweden** ::{ flag=SE }:: | **5** | 4 | ::{ flag=ID }:: Indonesia |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=FI }:: Finland |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=AR }:: Argentina |
+| France ::{ flag=FR }:: | 2 | **5** | ::{ flag=TR }:: **Turkey** |
+| **Chile** ::{ flag=CL }:: | **5** | 2 | ::{ flag=ES }:: Spain |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=PE }:: Peru |
 
 While it would be completely unfair to say that the Round of 32 plays out the same every year, it remains very clear that the top 32 seeds have been shaken out into their respective brackets during this round, but of course not without some surprises along the way.
 

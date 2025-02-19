@@ -7,7 +7,7 @@ osu! heeft verschillende Twitter-accounts, die elk een specifiek doel hebben. De
 | Avatar | Gebruikersnaam | Beschrijving |
 | :-: | :-: | :-- |
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Meldingen over problemen met de website of [Bancho](/wiki/Bancho_(server)) |
-| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Voor hulp met account- of communityproblemen. Beheerd door het [account support team](/wiki/People/Account_support_team). |
+| ![osu! support avatar](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | Voor hulp met account- of communityproblemen. Beheerd door het [account support team](/wiki/People/Account_support_team). |
 
 ## Community
 

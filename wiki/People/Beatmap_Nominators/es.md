@@ -1,6 +1,6 @@
 ---
+outdated_since: 8fc25770a967aae1168da58f8504b4215093c598
 outdated_translation: true
-outdated_since: 32b8cbe53f7b9a5ee6408f6e905d6b5f7557bb7c
 tags:
   - BN
   - BNG
@@ -8,9 +8,9 @@ tags:
 
 # Beatmap Nominators
 
-*Véase también: [Reglas para los Beatmap Nominators](Rules), [Expectativas de los Beatmap Nominators](Expectations), [Información general de los Beatmap Nominators](General_Information) y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Véase también: [Reglas para los Beatmap Nominators](Rules), [Expectativas de los Beatmap Nominators](Expectations), [Información general para los Beatmap Nominators](General_Information) y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_group) que dice `BN`.
+Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_groups) que dice `BN`.
 
 ## Roles y responsabilidades
 
@@ -28,9 +28,9 @@ Aproximadamente cada tres meses, el [Nomination Assessment Team](/wiki/People/No
 
 ### Beatmap Nominators provisionales
 
-El período de prueba se usa para monitorear más de cerca a los nuevos Beatmap Nominators. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
+El periodo de prueba se usa para monitorear más de cerca a los nuevos Beatmap Nominators. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los Beatmap Nominators provisionales son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de cumplir con el doble de sus [requisitos de actividad](/wiki/People/Beatmap_Nominators/Rules#requisitos) o después de un mes de haber sido puestos ahí, lo que suceda primero.
+Los Beatmap Nominators provisionales deben tener al menos **3** beatmaps nominados que hayan sido clasificados. Son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de un mes, y la evaluación puede ocurrir antes si tienen **6** nominaciones clasificadas a principios de mes.
 
 A los nuevos miembros de los Beatmap Nominators se les asignará un compañero del NAT con el que podrán ponerse en contacto directamente en caso de preguntas u orientación. Después de su primera evaluación, serán promovidos a Beatmap Nominators completos luego de una evaluación positiva, o serán retirados de los Beatmap Nominators.
 
@@ -44,14 +44,14 @@ Los Beatmap Nominators reciben los siguientes beneficios:
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que han sido BN.
   ![Insignia de BN de 1 año](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "Insignia de BN de 1 año") ![Insignia de BN de 2 años](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "Insignia de BN de 2 años") ![Insignia de BN de 3 años](https://assets.ppy.sh/profile-badges/BN3y.png "Insignia de BN de 3 años") ![4 Insignia de BN de 4 años](https://assets.ppy.sh/profile-badges/BN4y.png "Insignia de BN de 4 años") ![Insignia de BN de 5 años](https://assets.ppy.sh/profile-badges/BN5y.png "Insignia de BN de 5 años") ![Insignia de BN de 6 años](https://assets.ppy.sh/profile-badges/BN6y.png "Insignia de BN de 6 años") ![Insignia de BN de 7 años](https://assets.ppy.sh/profile-badges/BN7y.png "Insignia de BN de 7 años") ![Insignia de BN de 8 años](https://assets.ppy.sh/profile-badges/BN8y.png "Insignia de BN de 8 años") ![Insignia de BN de 9 años](https://assets.ppy.sh/profile-badges/BN9y.png "Insignia de BN de 9 años") ![Insignia de BN de 10 años](https://assets.ppy.sh/profile-badges/BN10y.png "Insignia de BN de 10 años")
 - **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominations)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
-  ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
+  ![Insignia de 100 nominaciones](https://assets.ppy.sh/profile-badges/100_noms.png "Insignia de 100 nominaciones") ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
 - **Elegibilidad para [Elite Nominator](/wiki/People/Elite_Nominators)**: Los Beatmap Nominators que se desempeñen excepcionalmente en su oficio son elegibles para recibir el [título de usuario](/wiki/Community/User_title) Elite Nominator.
 
 ## Miembros del equipo
 
 Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
 
-Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominators hablan inglés en adición a los idiomas listados debajo a menos que se especifique otra cosa.*
+Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominators hablan inglés además de los idiomas indicados a continuación, a menos que se indique lo contrario.*
 
 ### Beatmap Nominators completos
 

@@ -40,7 +40,7 @@ Going back to the present times, we had some awesome custom maps in the pool las
 
 ---
 
-![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)
+[![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/Resolution_banner.jpg)](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -77,7 +77,7 @@ Going back to the present times, we had some awesome custom maps in the pool las
 
 We also had an [osu! original](/wiki/osu!_originals) outside the tiebreaker slot: [Future Witness](https://osu.ppy.sh/beatmaps/artists/444)'s energetic hardstyle song [Resolution](https://osu.ppy.sh/beatmapsets/2274925#osu/4847498) was mapped by [Megafan](https://osu.ppy.sh/users/6632605) as an intense challenge of slider aim and technical streams in our Hard Rock pool.
 
-![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)
+[![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/AJITAMA_Adventure_OST_banner.jpg)](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -97,7 +97,7 @@ In between the usual love and care put into every song with original artwork and
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7777875">Azer</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
 
 [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546) was created with a specific vision in mind. [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98) has great proficiency in expressing musical stories through their music, and I wanted to capture this idea in a way that suits an OWC tiebreaker.
 
@@ -110,6 +110,25 @@ Personally, I think a large amount of staff members that are vital to the succes
 </div>
 
 ## Round of 16 summary
+
+| Team A |  |  | Team B |
+| --: | :-: | :-: | :-- |
+| **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=SE }:: Sweden |
+| **Germany** ::{ flag=DE }:: | **5** | 2 | ::{ flag=NO }:: Norway |
+| Austria ::{ flag=AT }:: | 1 | **5** | ::{ flag=ID }:: **Indonesia** |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=BR }:: Brazil |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=PH }:: Philippines |
+| Belarus ::{ flag=BY }:: | 0 | **5** | ::{ flag=RO }:: **Romania** |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 4 | ::{ flag=CN }:: China |
+| Kazakhstan ::{ flag=KZ }:: | 1 | **5** | ::{ flag=UA }:: **Ukraine** |
+| **Taiwan** ::{ flag=TW }:: | **5** | 3 | ::{ flag=MY }:: Malaysia |
+| Argentina ::{ flag=AR }:: | 1 | **5** | ::{ flag=JP }:: **Japan** |
+| Singapore ::{ flag=SG }:: | 2 | **5** | ::{ flag=TH }:: **Thailand** |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=PL }:: Poland |
+| Spain ::{ flag=ES }:: | 4 | **5** | ::{ flag=FI }:: **Finland** |
+| Peru ::{ flag=PE }:: | 2 | **5** | ::{ flag=FR }:: **France** |
+| Chile ::{ flag=CL }:: | 3 | **5** | ::{ flag=GB }:: **United Kingdom** |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=TR }:: Türkiye |
 
 The Round of 16 weekend has been jam-packed full of exciting matches, with teams both fighting for their survival, and trying to keep the coveted winners' bracket spots. Unfortunately, the following teams have been eliminated, and we have to bid them farewell from the world cup stage: ::{ flag=AR }:: Argentina, ::{ flag=AT }:: Austria, ::{ flag=BY }:: Belarus, ::{ flag=KZ }:: Kazakhstan, ::{ flag=MY }:: Malaysia, ::{ flag=PE }:: Peru, ::{ flag=SG }:: Singapore, and ::{ flag=ES }:: Spain.
 

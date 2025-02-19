@@ -11,13 +11,13 @@ tags:
 
 # Les points de vie
 
-Les **points de vie** (abrégé en *PV*) est la valeur qui détermine si le joueur a réussi ou échoué une [beatmap](/wiki/Beatmap). La vie est visible dans la [barre de vie](/wiki/Client/Interface/Health_bar), qui s'actualise au fur et à mesure de la progression du jeu. Le paramètre de difficulté appelé [taux de drain de santé](/wiki/Beatmap/HP_drain_rate) détermine à quel point il est difficile de garder une valeur de points de vie élevée.
+Les **points de vie** (abrégé en *PV*) sont la valeur qui détermine si le joueur a réussi ou échoué une [beatmap](/wiki/Beatmap). La vie est visible dans la [barre de vie](/wiki/Client/Interface/Health_bar), qui s'actualise au fur et à mesure de la progression du jeu. Le paramètre de difficulté appelé [taux de drain de santé](/wiki/Beatmap/HP_drain_rate) détermine à quel point il est difficile de garder une valeur de points de vie élevée.
 
 ## osu!
 
 Dans le mode [osu!](/wiki/Game_mode/osu!), la vie diminue à un rythme régulier appelé drain de vie, mais elle peut être récupérée en frappant les notes au bon moment ou en tournant les spinners.
 
-Des bursts de score apparaissent après avoir frappé des cercles, modifiant les valeurs de score et de vie en fonction de la précision à laquelle la note est frappée. Une note frappé parfaitement en rythme (300) permettra de récupérer plus de vie qu'une note mal frappée en rythme (50). Les joueurs reçoivent également des boosts plus importants s'ils réalisent un Katu ou un Geki à la fin d'un combo. Un miss, à l'inverse, lui fera perdre de la vie. Si les spinners sont complétés en avance, continuer à tourner permet de récupérer des points de vie supplémentaires. Pour un aperçu de la récupération et de la perte de vie, voir ci-dessous :
+Des bursts de score apparaissent après avoir frappé des cercles, modifiant les valeurs de score et de vie en fonction de la précision à laquelle la note est frappée. Une note frappée parfaitement en rythme (300) permettra de récupérer plus de vie qu'une note mal frappée en rythme (50). Les joueurs reçoivent également des boosts plus importants s'ils réalisent un Katu ou un Geki à la fin d'un combo. Un miss, à l'inverse, lui fera perdre de la vie. Si les spinners sont complétés avant la fin, continuer à tourner permet de récupérer des points de vie supplémentaires. Pour un aperçu de la récupération et de la perte de vie, voir ci-dessous :
 
 Récupération de vie :
 
@@ -81,7 +81,7 @@ Perte de vie :
 
 Aucun effet :
 
-- Temps de pause
+- Le temps de pause
 
 ## osu!mania
 

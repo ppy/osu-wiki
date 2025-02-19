@@ -1,6 +1,4 @@
 ---
-outdated_since: f65f9027e4a4df76600c03ace51142cb8b96af84
-outdated_translation: true
 tags:
   - store
   - product
@@ -14,10 +12,10 @@ tags:
   - Tastatur
 ---
 
-# Store archive
+# Shoparchiv
 
 *Hauptseite: [osu!store und Merchandise](/wiki/Help_centre/Store)*\
-*Anmerkung: Diese Produkte werden nicht mehr länger zum Verkauf im osu!store angeboten.*
+*Anmerkung: Diese Produkte werden nicht mehr zum Verkauf im osu!store angeboten. Für die vollständige Liste an Artikeln, die in der Vergangenheit im osu!store verkauft wurden, siehe: [Vergangene Artikel aus dem osu!store](/wiki/Past_osu!store_items)*
 
 Hast du Schwierigkeiten mit einem Produkt aus dem osu!store? Prüfe, ob es eine Lösung für dein Problem gibt!
 
