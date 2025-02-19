@@ -41,12 +41,12 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 | :-- | :-- |
 | Organiser | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085) |
 | Technical | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308) |
-| Design Team | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=CL }:: [SmilingKey](https://osu.ppy.sh/users/10659178), ::{ flag=PH }:: [DD1amond](https://osu.ppy.sh/users/14705051)  |
-| Mappool selector |  ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439) |
+| Design Team | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=CL }:: [SmilingKey](https://osu.ppy.sh/users/10659178), ::{ flag=PH }:: [DD1amond](https://osu.ppy.sh/users/14705051) |
+| Mappool selector | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439) |
 | Mappool scouter | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
-| Mappool playtester | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439), ::{ flag=CL }:: [[LS]bambi fnf](https://osu.ppy.sh/users/20360332), ::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=BR }:: [fefedk](https://osu.ppy.sh/users/18943504), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626), ::{ flag=AR }:: [-hakitsu](https://osu.ppy.sh/users/25300387), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=KR }:: [[GB]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/3855052),  ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009), ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267)   |
+| Mappool playtester | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439), ::{ flag=CL }:: [[LS]bambi fnf](https://osu.ppy.sh/users/20360332), ::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=BR }:: [fefedk](https://osu.ppy.sh/users/18943504), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626), ::{ flag=AR }:: [-hakitsu](https://osu.ppy.sh/users/25300387), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=KR }:: [[GB]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009), ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) |
 | Mapper | ::{ flag=BR }:: [Davix150](https://osu.ppy.sh/users/26512810), ::{ flag=NZ }:: [Div](https://osu.ppy.sh/users/3751116), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CL }:: [H4chyk0](https://osu.ppy.sh/users/17397748), ::{ flag=BR }:: [nayeonie bunny](https://osu.ppy.sh/users/15187174), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=PE }:: [Miaurichesu](https://osu.ppy.sh/users/10055648), ::{ flag=CL }:: [NikoSek](https://osu.ppy.sh/users/4088977), ::{ flag=KR }:: [[GB]Oceanus](https://osu.ppy.sh/users/9164100), ::{ flag=CN }:: [[GB]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=US }:: [Smokydoh](https://osu.ppy.sh/users/20169884), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797) |
-| Streamer |  ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698)  |
+| Streamer | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698) |
 | Commentator | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [-Ryu-](https://osu.ppy.sh/users/8440939), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626) |
 | Referee | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CL }:: [Bastaku](https://osu.ppy.sh/users/14351782), ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=AR }:: [ottenst](https://osu.ppy.sh/users/13488325), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698) |
 
@@ -82,20 +82,20 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 
 ### Saturday, February 22
 
-| Red Player | Blue Player | Match time | Twitch stream |  |
+| Red Player | Blue Player | Match time | Twitch stream | |
 | --: | :-- | :-- | :-: | :-: |
 | Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: Horuszed | Feb 22 (Sat) 19:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
 | kuraaaFangirl ::{ flag=CL }:: |::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 20:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
-| b3njvv2 ::{ flag=CL }:: |::{ flag=CL }:: Anterex | Feb 22 (Sat) 22:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^winners-bracket] |
+| b3njvv2 ::{ flag=CL }:: | ::{ flag=CL }:: Anterex | Feb 22 (Sat) 22:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^winners-bracket] |
 
 ### Sunday, February 23
 
-| Red Player | Blue Player | Match time | Twitch stream |  |
+| Red Player | Blue Player | Match time | Twitch stream | |
 | --: | :-- | :-- | :-: | :-: |
-| Ogata Kanna  ::{ flag=CL }:: |::{ flag=CL }:: kuraaaFangirl  | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
-| Ogata Kanna ::{ flag=CL }:: |::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
-| Horuszed ::{ flag=CL }:: |::{ flag=CL }:: kuraaaFangirl | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
-| Horuszed ::{ flag=CL }:: |::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
+| Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: kuraaaFangirl | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
+| Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
+| Horuszed ::{ flag=CL }:: | ::{ flag=CL }:: kuraaaFangirl | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
+| Horuszed ::{ flag=CL }:: | ::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
 
 ## Mappools
 
@@ -216,21 +216,21 @@ Detailed statistics for this round can be found [on this spreadsheet](https://do
 
 Saturday, 15 February 2025:
 
-| Player A |  |  | Player B | Match link | VOD link |
+| Player A | | | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | b3njvv2 ::{ flag=CL }:: | **6** | 4 | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117188342) | [#1](https://www.twitch.tv/videos/2382390641) |
 | Hikikomori ::{ flag=CL }:: | **6** | 5 | ::{ flag=CL }:: yukataa | [#1](https://osu.ppy.sh/community/matches/117190863) |  |
-| Best Sanallite ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2382390372)  |
-| Jeanne Da Rin ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117192708) | [#1](https://www.twitch.tv/videos/2382390103)  |
+| Best Sanallite ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2382390372) |
+| Jeanne Da Rin ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117192708) | [#1](https://www.twitch.tv/videos/2382390103) |
 
 Sunday, 16 February 2025:
 
-| Player A |  |  | Player B | Match link | VOD link |
+| Player A | | | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Yor Fangirl ::{ flag=CL }:: | **6** | FF | ::{ flag=CL }:: Shiny Sylveon | | |
 | Anterex ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: kuraaaFangirl | [#1](https://osu.ppy.sh/community/matches/117205295) | [#1](https://www.twitch.tv/videos/2383776915) |
 | Hikikomori ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117205757) |  |
-| Yor Fangirl ::{ flag=CL }:: | 3 | **6** | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117205794) | [#1](https://www.twitch.tv/videos/2383777114)  |
+| Yor Fangirl ::{ flag=CL }:: | 3 | **6** | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117205794) | [#1](https://www.twitch.tv/videos/2383777114) |
 
 ### Quarterfinals
 
@@ -244,23 +244,22 @@ Friday, 7 February 2025:
  
 Saturday, 8 February 2025:
 
-| Player A |  |  | Player B | Match link | VOD link |
+| Player A | | | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Wantaso ::{ flag=CL }:: | FF | **6** | ::{ flag=CL }:: Yor Fangirl |  |  |
 | Horuszed ::{ flag=CL }:: | **6** | 3 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117105222) | [#1](https://www.twitch.tv/videos/2376058108) |
 | [REG]Levels ::{ flag=CL }:: | 1 | **6** | ::{ flag=CL }:: yukataa | [#1](https://osu.ppy.sh/community/matches/117106043) | [#1](https://www.twitch.tv/videos/2376057639) |
-| b3njvv2 ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: Best Sanallite | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2376056882)  |
+| b3njvv2 ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: Best Sanallite | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2376056882) |
 | UQU ::{ flag=CL }:: | -1 | **6** | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117109269) |  |
-| Hikikomori ::{ flag=CL }:: | 0 | **6** | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117111498) | [#1](https://www.twitch.tv/videos/2377226704)  |
+| Hikikomori ::{ flag=CL }:: | 0 | **6** | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117111498) | [#1](https://www.twitch.tv/videos/2377226704) |
 
 Sunday, 9 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| kuraaaFangirl ::{ flag=CL }:: | **6** | 1 |::{ flag=CL }:: Shiny Sylveon | [#1](https://osu.ppy.sh/community/matches/117121756) | [#1](https://www.twitch.tv/videos/2377226956)  |
+| kuraaaFangirl ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: Shiny Sylveon | [#1](https://osu.ppy.sh/community/matches/117121756) | [#1](https://www.twitch.tv/videos/2377226956) |
 
-
-### Round of 16
+## Round of 16
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1J5OpwDH6j5fTULnw9V1hEV9wwzoKgnDaQx_V6vYBV94).
 
@@ -268,19 +267,19 @@ Saturday, 15 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| b3njvv2 ::{ flag=CL }::| **5** | FF |::{ flag=CL }:: Wantaso|  |  |
-| Yor Fangirl ::{ flag=CL }::| 1 | **5** |::{ flag=CL }:: Best Sanallite | [#1](https://osu.ppy.sh/community/matches/117027474) | [#1](https://www.twitch.tv/videos/2369879732) |
-| Hikikomori ::{ flag=CL }::| **5** | -1 |::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117028217) |  |
-| Ogata Kanna ::{ flag=CL }::| **5** | 2 |::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117029124) | [#1](https://www.twitch.tv/videos/2370163235)  |
-| Anterex ::{ flag=CL }::| **5** | 0 |::{ flag=CL }:: [REG]Levels | [#1](https://osu.ppy.sh/community/matches/117031119) | [#1](https://www.twitch.tv/videos/2370163448)  |
+| b3njvv2 ::{ flag=CL }:: | **5** | FF | ::{ flag=CL }:: Wantaso|  |  |
+| Yor Fangirl ::{ flag=CL }:: | 1 | **5** | ::{ flag=CL }:: Best Sanallite | [#1](https://osu.ppy.sh/community/matches/117027474) | [#1](https://www.twitch.tv/videos/2369879732) |
+| Hikikomori ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117028217)|  |
+| Ogata Kanna ::{ flag=CL }:: | **5** | 2 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117029124) | [#1](https://www.twitch.tv/videos/2370163235) |
+| Anterex ::{ flag=CL }:: | **5** | 0 | ::{ flag=CL }:: [REG]Levels | [#1](https://osu.ppy.sh/community/matches/117031119) | [#1](https://www.twitch.tv/videos/2370163448) |
 
 Sunday, 16 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| yukataa ::{ flag=CL }::| 4 | **5** |::{ flag=CL }:: Jeanne Da Rin | [#1](https://osu.ppy.sh/community/matches/117038115) | [#1](https://www.twitch.tv/videos/2370616128) |
-| kuraaaFangirl ::{ flag=CL }::| **5** | 1 |::{ flag=CL }:: UQU | [#1](https://osu.ppy.sh/community/matches/117039635) | [#1](https://www.twitch.tv/videos/2370701940) |
-| Shiny Sylveon ::{ flag=CL }::| **5** | 4 |::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117041804) | [#1](https://www.twitch.tv/videos/2371105628)  |
+| yukataa ::{ flag=CL }:: | 4 | **5** | ::{ flag=CL }:: Jeanne Da Rin | [#1](https://osu.ppy.sh/community/matches/117038115) | [#1](https://www.twitch.tv/videos/2370616128) |
+| kuraaaFangirl ::{ flag=CL }:: | **5** | 1 | ::{ flag=CL }:: UQU | [#1](https://osu.ppy.sh/community/matches/117039635) | [#1](https://www.twitch.tv/videos/2370701940) |
+| Shiny Sylveon ::{ flag=CL }:: | **5** | 4 | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117041804) | [#1](https://www.twitch.tv/videos/2371105628) |
 
 ### Qualifiers
 
@@ -291,7 +290,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #1 | ::{ flag=CL }:: b3njvv2 | 2,400 | 988,095 |
 | #2 | ::{ flag=CL }:: Anterex | 2,600 | 988,978 |
 | #3 | ::{ flag=CL }:: kuraaaFangirl | 4,400 | 981.640 |
-| #4 | ::{ flag=CL }:: Hikikomori| 4,400 | 980,398 |
+| #4 | ::{ flag=CL }:: Hikikomori | 4,400 | 980,398 |
 | #5 | ::{ flag=CL }:: Ogata Kanna | 6,600 | 975.031 |
 | #6 | ::{ flag=CL }:: Shiny Sylveon | 8,600 | 970.156 |
 | #7 | ::{ flag=CL }:: yukataa | 8,600 | 968,687 |
@@ -317,7 +316,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 7. Players who wish to register must be present in the Discord server linked in the first section of the forum.
 8. The score system used will be ScoreV2, and the version used will be stable, not osu!lazer.
 9. No tournament staff, except designers, streamers, and commentators, may participate as players.
-10. Players must adhere to the [osu! community rules](https://osu.ppy.sh/wiki/en/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
+10. Players must adhere to the [osu! community rules](wiki/en/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
 11. Players are allowed to adjust visual settings to alter background opacity or disable beatmap elements, such as storyboards and skins.
 12. Skin elements must not be used to alter key gameplay mechanics inappropriately.
 13. The tournament hosts reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
@@ -355,27 +354,27 @@ The final standings for the Qualifier stage can be found in the following [sprea
 4. Matches (with minor exceptions) will be played over the weekend (Friday to Sunday) at the times specified in the Main Sheet. Players are allowed to request reschedules up until a deadline announced in the tournament's Discord server.
 5. The schedules for each match will be announced on Sundays each week in the Main Sheet.
 4. Both players must be present in the room within a maximum of 10 minutes after the match's start time. If a player does not show up within this time, the opponent will be awarded the victory.
-    - *If neither player shows up, they will be allowed to schedule an emergency reschedule within the same day.*
-    - *If no suitable time can be found, the player with the higher seeding will advance.*
+  - *If neither player shows up, they will be allowed to schedule an emergency reschedule within the same day.*
+  - *If no suitable time can be found, the player with the higher seeding will advance.*
 5. Once both players are present, the referee will ask them to perform !roll. The roll winner can choose between first protect or first ban. 
-    - If the roll winner (Player A) chooses first protect, the order will be:
-        - Protect A - Protect B - Ban B - Ban A - Pick A.
-    - If the roll winner chooses first ban instead:
-        - Protect B - Protect A - Ban A - Ban B - Pick A.
+  - If the roll winner (Player A) chooses first protect, the order will be:
+    - Protect A - Protect B - Ban B - Ban A - Pick A.
+  - If the roll winner chooses first ban instead:
+    - Protect B - Protect A - Ban A - Ban B - Pick A.
 6. After the rolls, players can freely choose their maps.
 7. Players have 2 minutes to select each map and ready up in the lobby. If a player exceeds this limit, the referee may issue a warning and enforce a tactical timeout if necessary. If this happens multiple times, the referee may perform a !roll to randomly select a map. In extreme cases, hosts and referees may take stricter actions.
 8. Each round will require a certain amount of points in order to win the match, those being:
-    - Round of 16: First to 5 points (BO9)
-    - Quarterfinals and Semifinals: First to 6 points (BO11)
-    - Finals and Grand Finals: First to 7 points (BO13)
+  - Round of 16: First to 5 points (BO9)
+  - Quarterfinals and Semifinals: First to 6 points (BO11)
+  - Finals and Grand Finals: First to 7 points (BO13)
 9. Each player has one tactical timeout, which can only be used during their own pick. This allows the player to request an additional 2 minutes from the referee, on top of the regular 2-minute pick time.
 10. In the rare case of a score tie on a map, the map will be replayed. If a tie occurs again, the map will continue to be replayed until a winner is determined.
 11. If a match tie occurs, the Tiebreaker map will be played automatically. If both players agree, an additional tactical timeout can be used before the Tiebreaker.
 12. Only the following mods are allowed during matches: Hidden (HD), Fade In, Flashlight (FL) and Mirror. All other mods **are strictly prohibited.**
 13. A rematch can be requested if a player experiences technical issues within the first 30 seconds of a map. The referee may deny this request if deemed unnecessary.
 14. If a player disconnects after the first 30 seconds, their opponent will win the point, unless:
-    - A VOD, Twitch Stream or liveplay is provided showing the complete playthrough and result.
-    - A replay file is submitted, with the timestamp matching exactly with the lobby's map start time.
+  - A VOD, Twitch Stream or liveplay is provided showing the complete playthrough and result.
+  - A replay file is submitted, with the timestamp matching exactly with the lobby's map start time.
 
 ### Extra
 [^winners-bracket]: Winners' bracket match.
