@@ -82,15 +82,15 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 
 ### Saturday, February 22
 
-| Red Player | Blue Player | Match time | Twitch stream | |
+| Red Player | Blue Player | Match time | Twitch stream |   | 
 | --: | :-- | :-- | :-: | :-: |
 | Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: Horuszed | Feb 22 (Sat) 19:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
-| kuraaaFangirl ::{ flag=CL }:: |::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 20:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
+| kuraaaFangirl ::{ flag=CL }:: | ::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 20:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
 | b3njvv2 ::{ flag=CL }:: | ::{ flag=CL }:: Anterex | Feb 22 (Sat) 22:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^winners-bracket] |
 
 ### Sunday, February 23
 
-| Red Player | Blue Player | Match time | Twitch stream | |
+| Red Player | Blue Player | Match time | Twitch stream |   |
 | --: | :-- | :-- | :-: | :-: |
 | Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: kuraaaFangirl | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
 | Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
@@ -216,7 +216,7 @@ Detailed statistics for this round can be found [on this spreadsheet](https://do
 
 Saturday, 15 February 2025:
 
-| Player A | | | Player B | Match link | VOD link |
+| Player A  |  |  | Player B  | Match link  | VOD link  |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | b3njvv2 ::{ flag=CL }:: | **6** | 4 | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117188342) | [#1](https://www.twitch.tv/videos/2382390641) |
 | Hikikomori ::{ flag=CL }:: | **6** | 5 | ::{ flag=CL }:: yukataa | [#1](https://osu.ppy.sh/community/matches/117190863) |  |
@@ -225,9 +225,9 @@ Saturday, 15 February 2025:
 
 Sunday, 16 February 2025:
 
-| Player A | | | Player B | Match link | VOD link |
+| Player A  |  |  | Player B  | Match link  | VOD link  |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Yor Fangirl ::{ flag=CL }:: | **6** | FF | ::{ flag=CL }:: Shiny Sylveon | | |
+| Yor Fangirl ::{ flag=CL }:: | **6** | FF | ::{ flag=CL }:: Shiny Sylveon |  |  |
 | Anterex ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: kuraaaFangirl | [#1](https://osu.ppy.sh/community/matches/117205295) | [#1](https://www.twitch.tv/videos/2383776915) |
 | Hikikomori ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117205757) |  |
 | Yor Fangirl ::{ flag=CL }:: | 3 | **6** | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117205794) | [#1](https://www.twitch.tv/videos/2383777114) |
@@ -238,13 +238,13 @@ Detailed statistics for this round can be found [on this spreadsheet](https://do
 
 Friday, 7 February 2025:
 
-| Player A |  |  | Player B | Match link | VOD link |
+| Player A  |  |  | Player B  | Match link  | VOD link  |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Anterex ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: Jeanne Da Rin | [#1](https://osu.ppy.sh/community/matches/117093415) | [#1](https://www.twitch.tv/videos/2376058430) |
  
 Saturday, 8 February 2025:
 
-| Player A | | | Player B | Match link | VOD link |
+| Player A  |  |  | Player B  | Match link  | VOD link  |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Wantaso ::{ flag=CL }:: | FF | **6** | ::{ flag=CL }:: Yor Fangirl |  |  |
 | Horuszed ::{ flag=CL }:: | **6** | 3 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117105222) | [#1](https://www.twitch.tv/videos/2376058108) |
@@ -255,7 +255,7 @@ Saturday, 8 February 2025:
 
 Sunday, 9 February 2025:
 
-| Player A |  |  | Player B | Match link | VOD link |
+| Player A  |  |  | Player B  | Match link  | VOD link  |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | kuraaaFangirl ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: Shiny Sylveon | [#1](https://osu.ppy.sh/community/matches/117121756) | [#1](https://www.twitch.tv/videos/2377226956) |
 
@@ -265,17 +265,17 @@ Detailed statistics for this round can be found [on this spreadsheet](https://do
 
 Saturday, 15 February 2025:
 
-| Player A |  |  | Player B | Match link | VOD link |
+| Player A  |  |  | Player B  | Match link  | VOD link  |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| b3njvv2 ::{ flag=CL }:: | **5** | FF | ::{ flag=CL }:: Wantaso|  |  |
+| b3njvv2 ::{ flag=CL }:: | **5** | FF | ::{ flag=CL }:: Wantaso |  |  |
 | Yor Fangirl ::{ flag=CL }:: | 1 | **5** | ::{ flag=CL }:: Best Sanallite | [#1](https://osu.ppy.sh/community/matches/117027474) | [#1](https://www.twitch.tv/videos/2369879732) |
-| Hikikomori ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117028217)|  |
+| Hikikomori ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117028217) |  |
 | Ogata Kanna ::{ flag=CL }:: | **5** | 2 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117029124) | [#1](https://www.twitch.tv/videos/2370163235) |
 | Anterex ::{ flag=CL }:: | **5** | 0 | ::{ flag=CL }:: [REG]Levels | [#1](https://osu.ppy.sh/community/matches/117031119) | [#1](https://www.twitch.tv/videos/2370163448) |
 
 Sunday, 16 February 2025:
 
-| Player A |  |  | Player B | Match link | VOD link |
+| Player A  |  |  | Player B  | Match link  | VOD link  |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | yukataa ::{ flag=CL }:: | 4 | **5** | ::{ flag=CL }:: Jeanne Da Rin | [#1](https://osu.ppy.sh/community/matches/117038115) | [#1](https://www.twitch.tv/videos/2370616128) |
 | kuraaaFangirl ::{ flag=CL }:: | **5** | 1 | ::{ flag=CL }:: UQU | [#1](https://osu.ppy.sh/community/matches/117039635) | [#1](https://www.twitch.tv/videos/2370701940) |
@@ -306,7 +306,8 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Ruleset
 
-### General 
+### General
+
 1. Only players with the Chilean flag visible on their osu! profile are eligible to enter the tournament.
 2. No tournament staff, except designers, streamers, and commentators, may participate as players.
 3. Tournament schedules are based on Chilean continental time (UTC-3).
@@ -322,6 +323,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 13. The tournament hosts reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Mappool information
+
 1. Every stage will have its own mappool.
 2. Each mappool consists of a fixed amount of maps, which will all be played under Free Mod conditions.
 3. The mappool sizes are as follows:
@@ -377,6 +379,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   - A replay file is submitted, with the timestamp matching exactly with the lobby's map start time.
 
 ### Extra
+
 [^winners-bracket]: Winners' bracket match.
 [^losers-bracket]: Losers' bracket match.
 [^qualifiers-seeding]: Average rank between the 5 maps played during the Qualifiers stage.
