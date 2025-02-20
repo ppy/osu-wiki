@@ -110,7 +110,7 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (229 MB)](https://drive.google.com/file/d/1MHlLP_L5pX7Zco2PZZkbZWidQpTtFT_j/view)**\
+**[Download the mappack here! (229 MB)](https://drive.google.com/file/d/1MHlLP_L5pX7Zco2PZZkbZWidQpTtFT_j/view)**
 
 - Rice
   1. [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (Polarin) [1.05x]](https://osu.ppy.sh/beatmapsets/1892755#mania/4588272)
