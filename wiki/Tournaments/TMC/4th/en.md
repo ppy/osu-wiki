@@ -317,7 +317,7 @@ Saturday, 15 February 2025:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Help me, P3pp3RINNNNNN** | **4** | 3 | TOHOK | [#1](https://osu.ppy.sh/community/matches/117182128) | [#1](https://www.youtube.com/watch?v=gWj86gSpL6c&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1VPA3eDEP2) |
 | **Eerie Idiots in Space** | **4** | 3 | The Rewinders | [#1](https://osu.ppy.sh/community/matches/117183701) | [#1](https://www.youtube.com/watch?v=NH3yflcC4Tk&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1LZAgeRETN) |
-| **kingg!** | **4** | 2 | Cino fan club | [#1](https://www.youtube.com/watch?v=LZWp64tDVBo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1zDAge8EBb) |
+| **kingg!** | **4** | 2 | Cino fan club | [#1](https://osu.ppy.sh/community/matches/117184179) | [#1](https://www.youtube.com/watch?v=LZWp64tDVBo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1zDAge8EBb) |
 | **Adrianlazer Fanboys** | **4** | 2 | Lucky Star | [#1](https://osu.ppy.sh/community/matches/117184837) | [#1](https://www.youtube.com/watch?v=57dZLX--JBw&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1orAVeAESq) |
 | **ball itchers** | **4** | 0 | una familia de 10 | [#1](https://osu.ppy.sh/community/matches/117187486) | [#1](https://www.youtube.com/watch?v=VB2B0mtiUuc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1FYAVezEYL) |
 | **Mystia's Izakaya Patrons** | **4** | 1 | team saucisse | [#1](https://osu.ppy.sh/community/matches/117189191) | [#1](https://www.youtube.com/watch?v=iUTAoEcdT84&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1gHwReNEVm) |
