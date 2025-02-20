@@ -65,6 +65,6 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
 
 ---
 
-Give yourself a great belated Valentine's Day gift by [downloading osu!(lazer)](https://osu.ppy.sh/home/download) and experiencing the future of osu! If you want to snoop around for all the little things we didn't mention, check out the [changelog](https://osu.ppy.sh/home/changelog)!
+Give yourself a great belated Valentine's Day gift by [downloading osu!(lazer)](https://osu.ppy.sh/home/download) and experiencing the future of osu! If you want to snoop around for all the little things we didn't mention, check out the [changelog](https://osu.ppy.sh/home/changelog/lazer/2025.220.0)!
 
 —0x84f & Walavouchey
