@@ -35,7 +35,6 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
     </video>
 </div>
 
-
 ### Editor
 
 - **The precise movement tool has been added.** You can now use coordinates for pinpoint object placing accuracy.
