@@ -40,8 +40,6 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085) |
-| Technical | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308) |
-| Design Team | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=CL }:: [SmilingKey](https://osu.ppy.sh/users/10659178), ::{ flag=PH }:: [DD1amond](https://osu.ppy.sh/users/14705051) |
 | Mappool selector | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439) |
 | Mappool scouter | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
 | Mappool playtester | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439), ::{ flag=CL }:: [[LS]bambi fnf](https://osu.ppy.sh/users/20360332), ::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=BR }:: [fefedk](https://osu.ppy.sh/users/18943504), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626), ::{ flag=AR }:: [-hakitsu](https://osu.ppy.sh/users/25300387), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=KR }:: [[GB]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009), ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) |
@@ -49,10 +47,13 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 | Streamer | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698) |
 | Commentator | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [-Ryu-](https://osu.ppy.sh/users/8440939), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626) |
 | Referee | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CL }:: [Bastaku](https://osu.ppy.sh/users/14351782), ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=AR }:: [ottenst](https://osu.ppy.sh/users/13488325), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698) |
+| Technical | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308) |
+| Design Team | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=CL }:: [SmilingKey](https://osu.ppy.sh/users/10659178), ::{ flag=PH }:: [DD1amond](https://osu.ppy.sh/users/14705051) |
 
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1N6ri1YN1-2lFDzPiyS4ap6i7mPepbsAu-q7mIcSWD5k/edit?gid=0#gid=0)**
+- [Forum post](https://osu.ppy.sh/community/forums/topics/2020146?n=1)
 - [Livestream](https://www.twitch.tv/mclt_osu)
 - [Challonge bracket](https://challonge.com/es/mclt4k2025)
 - [Discord server](https://discord.gg/aSTBgHBpSN)
@@ -287,22 +288,22 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 | Seed | Player | Average Rank[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
 | :-: | :-- | --: | --: |
-| #1 | ::{ flag=CL }:: b3njvv2 | 2,400 | 988,095 |
-| #2 | ::{ flag=CL }:: Anterex | 2,600 | 988,978 |
-| #3 | ::{ flag=CL }:: kuraaaFangirl | 4,400 | 981.640 |
-| #4 | ::{ flag=CL }:: Hikikomori | 4,400 | 980,398 |
-| #5 | ::{ flag=CL }:: Ogata Kanna | 6,600 | 975.031 |
-| #6 | ::{ flag=CL }:: Shiny Sylveon | 8,600 | 970.156 |
-| #7 | ::{ flag=CL }:: yukataa | 8,600 | 968,687 |
-| #8 | ::{ flag=CL }:: Yor Fangirl | 8,600 | 968,247 |
-| #9 | ::{ flag=CL }:: Best Sanallite | 10,800 | 964,395 |
-| #10 | ::{ flag=CL }:: Jeanne Da Rin | 11,200 | 963,878 |
-| #11 | ::{ flag=CL }:: NikitodeuS | 12,000 | 958.823 |
-| #12 | ::{ flag=CL }:: TheTrixdo_YT | 13,400 | 956,299 |
-| #13 | ::{ flag=CL }:: Horuszed | 13,400 | 947,361 |
-| #14 | ::{ flag=CL }:: UQU | 13,600 | 952,576 |
-| #15 | ::{ flag=CL }:: [REG]Levels | 14,200 | 956,143 |
-| #16 | ::{ flag=CL }:: Wantaso | 14,600 | 951,591 |
+| #1 | ::{ flag=CL }:: b3njvv2 | 2.4 | 988,095 |
+| #2 | ::{ flag=CL }:: Anterex | 2.6 | 988,978 |
+| #3 | ::{ flag=CL }:: kuraaaFangirl | 4.4 | 981.640 |
+| #4 | ::{ flag=CL }:: Hikikomori | 4.4 | 980,398 |
+| #5 | ::{ flag=CL }:: Ogata Kanna | 6.6 | 975.031 |
+| #6 | ::{ flag=CL }:: Shiny Sylveon | 8.6 | 970.156 |
+| #7 | ::{ flag=CL }:: yukataa | 8.6 | 968,687 |
+| #8 | ::{ flag=CL }:: Yor Fangirl | 8.6 | 968,247 |
+| #9 | ::{ flag=CL }:: Best Sanallite | 10.8 | 964,395 |
+| #10 | ::{ flag=CL }:: Jeanne Da Rin | 11.2 | 963,878 |
+| #11 | ::{ flag=CL }:: NikitodeuS | 12 | 958.823 |
+| #12 | ::{ flag=CL }:: TheTrixdo_YT | 13.4 | 956,299 |
+| #13 | ::{ flag=CL }:: Horuszed | 13.4 | 947,361 |
+| #14 | ::{ flag=CL }:: UQU | 13.6 | 952,576 |
+| #15 | ::{ flag=CL }:: [REG]Levels | 14.2 | 956,143 |
+| #16 | ::{ flag=CL }:: Wantaso | 14.6 | 951,591 |
 
 ## Ruleset
 
@@ -311,16 +312,14 @@ The final standings for the Qualifier stage can be found in the following [sprea
 1. Only players with the Chilean flag visible on their osu! profile are eligible to enter the tournament.
 2. No tournament staff, except designers, streamers, and commentators, may participate as players.
 3. Tournament schedules are based on Chilean continental time (UTC-3).
-4. Players who wish to register must be present in the Discord server linked in the first section of the forum.
+4. To participate in the tournament, player **must** join [this Discord server](https://discord.gg/aSTBgHBpSN) after registration.
 5. This tournament is a 1v1 double-elimination competition for the osu!mania 4K game mode.
-6. Only players with the Chilean flag visible on their osu! profile are eligible to enter the tournament.
-7. Players who wish to register must be present in the Discord server linked in the first section of the forum.
-8. The score system used will be ScoreV2, and the version used will be stable, not osu!lazer.
-9. No tournament staff, except designers, streamers, and commentators, may participate as players.
-10. Players must adhere to the [osu! community rules](/wiki/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
-11. Players are allowed to adjust visual settings to alter background opacity or disable beatmap elements, such as storyboards and skins.
-12. Skin elements must not be used to alter key gameplay mechanics inappropriately.
-13. The tournament hosts reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+6. The score system used will be ScoreV2, and the version used will be stable, not osu!lazer.
+7. No tournament staff, except designers, streamers, and commentators, may participate as players.
+8. Players must adhere to the [osu! community rules](/wiki/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
+9. Players are allowed to adjust visual settings to alter background opacity or disable beatmap elements, such as storyboards and skins.
+10. Skin elements must not be used to alter key gameplay mechanics inappropriately.
+11. The tournament hosts reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Mappool information
 
