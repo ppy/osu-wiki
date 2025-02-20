@@ -46,7 +46,7 @@ If a pre-timed `.osz` from the Featured Artist listing has errors of any kind, t
 
 ## Featured Artists with osu! accounts
 
-Featured Artists with an osu! account can be identified by a cyan "Featured Artist" [user title](/wiki/Community/User_title) and a [user group](/wiki/People/User_group) badge that reads `FA` to show their involvement.
+Featured Artists with an osu! account can be identified by a cyan "Featured Artist" [user title](/wiki/Community/User_title) and a [user group](/wiki/People/User_groups) badge that reads `FA` to show their involvement.
 
 The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such accounts, while the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) lists all Featured Artists.
 
@@ -89,6 +89,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) | [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
+| ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
@@ -101,6 +102,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=CH }:: [pandaeyesosu](https://osu.ppy.sh/users/34609545) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) |
 | ::{ flag=US }:: [Pandize](https://osu.ppy.sh/users/5490937) | [Pandize](https://osu.ppy.sh/beatmaps/artists/405) |
 | ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/users/4325444) | [ptar124](https://osu.ppy.sh/beatmaps/artists/409) |
+| ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593) | [Rose Quartz](https://osu.ppy.sh/beatmaps/artists/429) |

@@ -60,7 +60,7 @@ Ezek a rossz dolgok lehetnek (*de nincsenek korlátozva*):
 
 A némítások és egyéb áthágások időtartama **automatikusan**, majdnem exponenciálisan növekszik minden újabb megszegéssel. A moderátorok nem befolyásolják az adott sértésért járó némítás időtartamát - többszörös szabálysértők igen hosszú elvonásban részesülnek.
 
-Egyes szabálysértések minimum (általában 48 óra, vagy több) időtartammal rendelkeznek, ugyanakkor, ezek leginkább a súlyos szabálysértésekre vonatkoznak, mint például felkavaró tartalom megosztása vagy más felhasználók rendszeres zaklatása.
+Egyes szabálysértések minimum (általában 43 óra, vagy több) időtartammal rendelkeznek, ugyanakkor, ezek leginkább a súlyos szabálysértésekre vonatkoznak, mint például felkavaró tartalom megosztása vagy más felhasználók rendszeres zaklatása.
 
 Ha számtalan áthágás után is folytatod a szabálysértéseket, a felhasználói fiókodat akár örökre és visszavonhatatlanul felfüggeszthetik.
 
