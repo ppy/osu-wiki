@@ -10,7 +10,7 @@ tags:
 
 ![MCLT 4K 2025 banner](img/banner.jpg)
 
-The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) is a 1v1, double-elimination, country-based osu! tournament hosted by ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) and ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085). It is the first instalment of the osu!mania 4K Chilean National Cup 2025.
+The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) is a 1v1, double-elimination, chilean only open rank osu! tournament hosted by ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) and ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085). It is the first instalment of the osu!mania 4K Chilean National Cup.
 
 ## Tournament schedule
 
@@ -102,7 +102,8 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (229 MB)](https://drive.google.com/file/d/1MHlLP_L5pX7Zco2PZZkbZWidQpTtFT_j/view)**
+**[Download the mappack here! (229 MB)](https://drive.google.com/file/d/1MHlLP_L5pX7Zco2PZZkbZWidQpTtFT_j/view)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2383778150)
 
 - Rice
   1. [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (Polarin) [1.05x]](https://osu.ppy.sh/beatmapsets/1892755#mania/4588272)
@@ -228,7 +229,7 @@ Sunday, 16 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Yor Fangirl ::{ flag=CL }:: | **6** | FF | ::{ flag=CL }:: Shiny Sylveon |  |  |
+| **Yor Fangirl** ::{ flag=CL }:: | **6** | -1 | ::{ flag=CL }:: Shiny Sylveon | *win by default* |  |
 | Anterex ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: kuraaaFangirl | [#1](https://osu.ppy.sh/community/matches/117205295) | [#1](https://www.twitch.tv/videos/2383776915) |
 | Hikikomori ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117205757) |  |
 | Yor Fangirl ::{ flag=CL }:: | 3 | **6** | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117205794) | [#1](https://www.twitch.tv/videos/2383777114) |
@@ -313,8 +314,8 @@ The final standings for the Qualifier stage can be found in the following [sprea
 2. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
 3. Tournament schedules are based on Chilean continental time (UTC-3).
 4. To participate in the tournament, player **must** join [this Discord server](https://discord.gg/aSTBgHBpSN) after registration.
-5. This tournament is a 1v1 double-elimination competition for the osu!mania 4K game mode.
-6. The score system used will be ScoreV2, and the version used will be stable, not osu!lazer.
+5. This tournament is a 1v1 double-elimination competition for the osu!mania game mode (4K variant).
+6. Beatmap scoring is based on ScoreV2.
 7. No tournament staff, except designers, streamers, and commentators, may participate as players.
 8. Players must adhere to the [osu! community rules](/wiki/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
 9. Players are allowed to adjust visual settings to alter background opacity or disable beatmap elements, such as storyboards and skins.
@@ -349,7 +350,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Matches
 
-1. A room will be created, and players will be invited 15 minutes before the match, with the format: `MCLT 4K 2025: {(Player 1)} vs {(Player 2)}`
+1. A room will be created, and players will be invited 15 minutes before the match, with the format: `MCLT4K2025: {(Player 1)} vs {(Player 2)}`
 2. Each match will be played using Score V2 and Team Vs format.
 3. There will be no warm-up maps, following the same format as MWC matches.
 4. Matches (with minor exceptions) will be played over the weekend (Friday to Sunday) at the times specified in the Main Sheet. Players are allowed to request reschedules up until a deadline announced in the tournament's Discord server.
