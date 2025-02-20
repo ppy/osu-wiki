@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: February 20, 2025"
-date: 2025-02-20 12:00:00 +0000
+date: 2025-02-20 18:00:00 +0000
 ---
 
 Too late for Valentine's Day, too early for the osu!jet, but just in time for some osu!(lazer) updates.
@@ -20,7 +20,7 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/freestyle.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
