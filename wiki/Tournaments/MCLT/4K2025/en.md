@@ -202,7 +202,7 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
   3. [DJ Noriken & aran - Comet Coaster (chxu) [Frizzle]](https://osu.ppy.sh/beatmapsets/1875722#mania/3859986)
   4. [Memme - Gaehwa (elexire) [Sakura Fubuki]](https://osu.ppy.sh/beatmapsets/2010275#mania/4182879)
 - Tiebreaker
-  1. **[Camellia - overcomplexification ("Quaternion" Long ver.) (myucchii) [disambiguation (edit)]](https://osu.ppy.sh/beatmapsets/1626172#osu/3320026)**
+  1. **[Camellia - overcomplexification ("Quaternion" Long ver.) (myucchii) [disambiguation (edit)]](https://osu.ppy.sh/beatmapsets/2314301#mania/4952628)**
 
 ### Qualifiers
 
@@ -210,7 +210,7 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 
 - Rice
   1. [RYOQUCHA - CYBERDREAM (Cut Ver.) (Urusai) [Stage 1: Future]](https://osu.ppy.sh/beatmapsets/2310771#osu/4943403)
-  2. [Tanya Degurechaff (CV: Yuki Aoi) - Los! Los! Los! (NikoSek) [Stage 2: Tyranique]](https://osu.ppy.sh/beatmapsets/1664961#osu/3398914)
+  2. [Tanya Degurechaff (CV: Yuki Aoi) - Los! Los! Los! (NikoSek) [Stage 2: Tyranique]](https://osu.ppy.sh/beatmapsets/2310784#mania/4943432)
 - Hybrid
   1. [technoplanet - Insomnia ([GB]V1do) [Stage 3: Restless]](https://osu.ppy.sh/beatmapsets/2310765#mania/4943385)
 - Long Note
