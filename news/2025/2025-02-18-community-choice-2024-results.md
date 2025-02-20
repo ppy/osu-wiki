@@ -198,7 +198,7 @@ Besides the traction gained from its tournament debut, users from all skill leve
 
 ### Community Choice & Mapper's Favourite
 
-[![](/wiki/shared/news/2025-02-18-community-choice-2024-results/everlasting-eternity.jpg)](https://osu.ppy.sh/beatmapsets/2099753)
+[![](/wiki/shared/news/2025-02-18-community-choice-2024-results/everlasting-eternity.jpg?1)](https://osu.ppy.sh/beatmapsets/2099753)
 
 Arguably a contender for [Critical_Star](https://osu.ppy.sh/users/3793196)'s magnum opus, with the help of [tyrcs](https://osu.ppy.sh/users/13026904) and [Schopfer](https://osu.ppy.sh/users/11270477) [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) quickly became one of the most admired 7K maps of the year despite being ranked during the lattermost quarter of 2024.
 
