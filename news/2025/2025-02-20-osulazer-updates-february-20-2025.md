@@ -23,7 +23,7 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/lazer-bss.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -33,8 +33,8 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
 - **Mobile devices have received a huge osu!mania playability overhaul.** Both iOS and Android osu!(lazer) builds received various changes that should make playing osu!mania on mobile devices much better.
 
 <div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+    <video width="75%" controls>
+        <source src="https://assets.ppy.sh/media/news/mobile-mania.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -56,18 +56,12 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/friend-notifications.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
 - **The ruleset icon is now displayed on expanded score panels.** With the addition of freestyle, it became apparent that being able to see which game modes your friends chose on the multiplayer room results screen is a must.
-- **Collections now show their beatmap counts in the "manage" dialog.** If you select `Manage collections...` at the bottom of the collection list, you'll see how many beatmaps each collection contains.
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2025-01-19-lazer-10-sec-multi-countdown.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
+- **Collections now show their beatmap counts in the "manage" dialog.** You can also create collections directly from playlists.
 
 ---
 
