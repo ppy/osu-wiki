@@ -310,7 +310,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### General
 
 1. Only players with the Chilean flag visible on their osu! profile are eligible to enter the tournament.
-2. No tournament staff, except designers, streamers, and commentators, may participate as players.
+2. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
 3. Tournament schedules are based on Chilean continental time (UTC-3).
 4. To participate in the tournament, player **must** join [this Discord server](https://discord.gg/aSTBgHBpSN) after registration.
 5. This tournament is a 1v1 double-elimination competition for the osu!mania 4K game mode.
