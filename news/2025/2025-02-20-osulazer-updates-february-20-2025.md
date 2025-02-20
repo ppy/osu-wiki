@@ -33,7 +33,7 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
 - **Mobile devices have received a huge osu!mania playability overhaul.** Both iOS and Android osu!(lazer) builds received various changes that should make playing osu!mania on mobile devices much better.
 
 <div align="center" class="osu-md__paragraph">
-    <video width="75%" controls>
+    <video width="55%" controls>
         <source src="https://assets.ppy.sh/media/news/mobile-mania.mp4" type="video/mp4" preload="none">
     </video>
 </div>
