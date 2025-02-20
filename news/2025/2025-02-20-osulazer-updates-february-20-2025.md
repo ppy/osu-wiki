@@ -14,6 +14,28 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ZzDdJqJnnvw" frameborder="0" allowfullscreen></iframe>
 </div>
 
+### Gameplay
+
+- **You can now "freestyle" in multiplayer.** If you thought being able to choose your own mods was cool, wait until you learn that you can now select your own **game mode**.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="" type="video/mp4" preload="none">
+    </video>
+</div>
+
+- **You can now see spectators during gameplay.** The curtain is unveiled, and the audience is revealed.
+- **The default UI scale on iOS mobile devices has been improved.** Another win for the mobile rhythm gamers. One thing to note: if you changed your UI scale previously it will be reset to the new 1.0x value to avoid scaling issues.
+- **The osu!taiko spinner (swell) has been added.** Not only has the legacy spinner been added, but skinning support has been added for it as well.
+- **osu!mania is now more playable on vertical resolutions.** That means portrait gameplay, for the best mobile VSRG experience.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="55%" controls>
+        <source src="https://assets.ppy.sh/media/news/mobile-mania.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+
 ### Editor
 
 - **The precise movement tool has been added.** You can now use coordinates for pinpoint object placing accuracy.
@@ -24,27 +46,6 @@ Despite the impressive key-smashing display that the osu!mania 7K community has 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/media/news/lazer-bss.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
-
-### Gameplay
-
-- **You can now see spectators during gameplay.** The curtain is unveiled, and the audience is revealed.
-- **osu!mania is now more playable on vertical resolutions.** That means portrait gameplay, for the best mobile VSRG experience.
-
-<div align="center" class="osu-md__paragraph">
-    <video width="55%" controls>
-        <source src="https://assets.ppy.sh/media/news/mobile-mania.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
-
-- **The default UI scale on iOS mobile devices has been improved.** Another win for the mobile rhythm gamers. One thing to note: if you changed your UI scale previously it will be reset to the new 1.0x value to avoid scaling issues.
-- **The osu!taiko spinner (swell) has been added.** Not only has the legacy spinner been added, but skinning support has been added for it as well.
-- **You can now "freestyle" in multiplayer.** If you thought being able to choose your own mods was cool, wait until you learn that you can now select your own **game mode.**
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
     </video>
 </div>
 
