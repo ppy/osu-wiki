@@ -269,45 +269,45 @@ Friday, 7 February 2025:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **cheewee10** | **4** | 1 | The Boys | [#1](https://osu.ppy.sh/community/matches/117088978) | [#1](https://www.youtube.com/watch?v=aTQIi_PH9zI&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1ocNNeLELi) |
-| Blue-Haired Yuuka | 2 | **4** | **AKatsuki** | [#1](https://osu.ppy.sh/community/matches/117088961) | [#1](https://www.twitch.tv/videos/2374867358), [#2](https://www.bilibili.com/video/BV1EdNPeSEdp) |
+| Blue-Haired Yuuka | 2 | **4** | **AKatsuki** | [#1](https://osu.ppy.sh/community/matches/117088961) | [#1](https://www.youtube.com/watch?v=tH13rRulG1A&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1EdNPeSEdp) |
 
 Saturday, 8 February 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| copium inhalers | -1 | **4** | **rip king von** | [#1](https://osu.ppy.sh/community/matches/117096558) | [#1](https://www.twitch.tv/videos/2375342090), [#2](https://www.bilibili.com/video/BV1jmNDekEJ4) |
+| copium inhalers | -1 | **4** | **rip king von** | [#1](https://osu.ppy.sh/community/matches/117096558) | [#1](https://www.youtube.com/watch?v=1xGhH6PBOgI&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1jmNDekEJ4) |
 | filipinos kidnap indo et | 0 | **4** | **The Rewinders** | [#1](https://osu.ppy.sh/community/matches/117100425) | [#1](https://www.youtube.com/watch?v=4k0Cw6YXGII&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1dmNDerEQV) |
-| **Benny Goodman** | **4** | 2 | ball itchers | [#1](https://osu.ppy.sh/community/matches/117100390) | [#1](https://www.twitch.tv/videos/2375643831), [#2](https://www.bilibili.com/video/BV1KjNdeMEur) |
+| **Benny Goodman** | **4** | 2 | ball itchers | [#1](https://osu.ppy.sh/community/matches/117100390) | [#1](https://www.youtube.com/watch?v=dZLZKbisyRQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1KjNdeMEur) |
 | fpt wifi users: | -1 | **4** | **TOHOK** | *win by default* |  |
 | 我的哈基米观崩溃了 | 0 | **4** | **Cat Yumy** | [#1](https://osu.ppy.sh/community/matches/117101077) | [#1](https://www.youtube.com/watch?v=DisBTV7aDQI&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1T9NyeVErf) |
-| 古老的元神 | 0 | **4** | **team saucisse** | [#1](https://osu.ppy.sh/community/matches/117101135) | [#1](https://www.twitch.tv/videos/2375887444), [#2](https://www.bilibili.com/video/BV1LmNDerE7M) |
-| **sprite cranberry** | **4** | 2 | toilet driver | [#1](https://osu.ppy.sh/community/matches/117101804) | [#1](https://www.twitch.tv/videos/2375895764), [#2](https://www.bilibili.com/video/BV1LmNDerE9L) |
+| 古老的元神 | 0 | **4** | **team saucisse** | [#1](https://osu.ppy.sh/community/matches/117101135) | [#1](https://www.youtube.com/watch?v=8rYX9pcHVKc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1LmNDerE7M) |
+| **sprite cranberry** | **4** | 2 | toilet driver | [#1](https://osu.ppy.sh/community/matches/117101804) | [#1](https://www.youtube.com/watch?v=KymIFyOyfTI&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1LmNDerE9L) |
 | 企鹅 | 1 | **4** | **古明地三鲜与八云紫的狂想四重奏** | [#1](https://osu.ppy.sh/community/matches/117101839) | [#1](https://www.youtube.com/watch?v=xG4LbuXal8U&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1tQNyeyEsB) |
 | **vivid/stasis** | **4** | 1 | kingg! | [#1](https://osu.ppy.sh/community/matches/117101855) | [#1](https://www.youtube.com/watch?v=MIFOaTy5hVM&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1vZNRenEMe) |
 | **cucumbers** | **4** | 1 | the malaysians + 1 indo | [#1](https://osu.ppy.sh/community/matches/117102548) | [#1](https://www.youtube.com/watch?v=HNG3HIFN9zk&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV17SNRedEfk) |
 | **:bucket::1217god::scream:** | **4** | 1 | EL NACHO | [#1](https://osu.ppy.sh/community/matches/117102649) | [#1](https://www.youtube.com/watch?v=GoBN12loXhc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1GrNyeHEXa) |
-| **E=mc²** | **4** | 1 | Odysseus | [#1](https://osu.ppy.sh/community/matches/117102646) | [#1](https://www.twitch.tv/videos/2376544975), [#2](https://www.bilibili.com/video/BV1LmNDerECk) |
+| **E=mc²** | **4** | 1 | Odysseus | [#1](https://osu.ppy.sh/community/matches/117102646) | [#1](https://www.youtube.com/watch?v=hKXLSWTp_jI&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1LmNDerECk) |
 | 原来你也玩malody | 1 | **4** | **the** | [#1](https://osu.ppy.sh/community/matches/117103340) | [#1](https://www.youtube.com/watch?v=ekvNgtphb8A&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1RFNvetEwW) |
 | Doki Doki Osu Club | 0 | **4** | **Lucky Star** | [#1](https://osu.ppy.sh/community/matches/117103422) | [#1](https://www.youtube.com/watch?v=2I9i_k4Po9o&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1T9NyeVE2a) |
-| **Chodan** | **4** | 1 | Eerie Idiots in Space | [#1](https://osu.ppy.sh/community/matches/117103430) | [#1](https://www.twitch.tv/videos/2376550559), [#2](https://www.bilibili.com/video/BV1LmNDerEU8) |
+| **Chodan** | **4** | 1 | Eerie Idiots in Space | [#1](https://osu.ppy.sh/community/matches/117103430) | [#1](https://www.youtube.com/watch?v=h5sp64b1z9E&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1LmNDerEU8) |
 | **PLAY TOUHOU LUNA NIGHTS** | **4** | 2 | WE LUV かめりあ | [#1](https://osu.ppy.sh/community/matches/117103935) | [#1](https://www.youtube.com/watch?v=EiDCKC5w1KE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1TQNyeyEY6) |
-| Saataa Andagii!!! | 1 | **4** | **GOOOOOOOOOOAAAAAAAAAAAAL** | [#1](https://osu.ppy.sh/community/matches/117104348) | [#1](https://www.twitch.tv/videos/2376551758), [#2](https://www.bilibili.com/video/BV15mNDerE93) |
-| **spongebob water** | **4** | 1 | Mystia's Izakaya Patrons | [#1](https://osu.ppy.sh/community/matches/117107630) | [#1](https://www.twitch.tv/videos/2376802443), [#2](https://www.bilibili.com/video/BV1dRNRepEGH) |
-| **Mr Beajek's winter ARC** | **4** | 1 | shreimu (reimu shrimp) | [#1](https://osu.ppy.sh/community/matches/117108921) | [#1](https://www.twitch.tv/videos/2376804435), [#2](https://www.bilibili.com/video/BV18TNde5EAS) |
+| Saataa Andagii!!! | 1 | **4** | **GOOOOOOOOOOAAAAAAAAAAAAL** | [#1](https://osu.ppy.sh/community/matches/117104348) | [#1](https://www.youtube.com/watch?v=EOmYGR9ygAM&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV15mNDerE93) |
+| **spongebob water** | **4** | 1 | Mystia's Izakaya Patrons | [#1](https://osu.ppy.sh/community/matches/117107630) | [#1](https://www.youtube.com/watch?v=teRKpppIZo8&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1dRNRepEGH) |
+| **Mr Beajek's winter ARC** | **4** | 1 | shreimu (reimu shrimp) | [#1](https://osu.ppy.sh/community/matches/117108921) | [#1](https://www.youtube.com/watch?v=p785fmrMEFo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV18TNde5EAS) |
 
 Sunday, 9 February 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **The Chen Enjoyers** | **4** | 0 | Team CatTaiL | [#1](https://osu.ppy.sh/community/matches/117111955) | [#1](https://www.twitch.tv/videos/2376807058), [#2](https://www.bilibili.com/video/BV1x5NdezEb5) |
-| **有点弱，，** | **4** | 0 | Help me, P3pp3RINNNNNN | [#1](https://osu.ppy.sh/community/matches/117115301) | [#1](https://www.twitch.tv/videos/2376811394), [#2](https://www.bilibili.com/video/BV17YNde4ESA) |
+| **The Chen Enjoyers** | **4** | 0 | Team CatTaiL | [#1](https://osu.ppy.sh/community/matches/117111955) | [#1](https://www.youtube.com/watch?v=7_6PJgk--OI&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1x5NdezEb5) |
+| **有点弱，，** | **4** | 0 | Help me, P3pp3RINNNNNN | [#1](https://osu.ppy.sh/community/matches/117115301) | [#1](https://www.youtube.com/watch?v=m4KIdGG7evo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV17YNde4ESA) |
 | 那咋了 | 3 | **4** | **steamhappy** | [#1](https://osu.ppy.sh/community/matches/117115234) | [#1](https://www.youtube.com/watch?v=hfziFwtjmgQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1YTNUecECp) |
-| **Gravity Coil** | **4** | 0 | The Clones | [#1](https://osu.ppy.sh/community/matches/117116149) | [#1](https://www.twitch.tv/videos/2376814257), [#2](https://www.bilibili.com/video/BV1MMNdeCEUd) |
-| **Girls Band Cry** | **4** | 2 | Fish⁴ | [#1](https://osu.ppy.sh/community/matches/117117481) | [#1](https://www.twitch.tv/videos/2376817021), [#2](https://www.bilibili.com/video/BV1MgNdeGEpZ) |
+| **Gravity Coil** | **4** | 0 | The Clones | [#1](https://osu.ppy.sh/community/matches/117116149) | [#1](https://www.youtube.com/watch?v=2nXAItXAbuc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1MMNdeCEUd) |
+| **Girls Band Cry** | **4** | 2 | Fish⁴ | [#1](https://osu.ppy.sh/community/matches/117117481) | [#1](https://www.youtube.com/watch?v=WC8bKUDUH-4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1MgNdeGEpZ) |
 | **Mahjong Soul Official** | **4** | 1 | fuma fumos | [#1](https://osu.ppy.sh/community/matches/117118397) | [#1](https://www.youtube.com/watch?v=eV2vD0vEFro&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1KVNdegEBE) |
-| **"OH MY DAYS (skylanders)"** | **4** | 0 | spicy chicken sandwich | [#1](https://osu.ppy.sh/community/matches/117118787) | [#1](https://www.twitch.tv/videos/2376826914), [#2](https://www.bilibili.com/video/BV1GcNdeEE4K) |
-| File Archivers | 0 | **4** | **Cino fan club** | [#1](https://osu.ppy.sh/community/matches/117120297) | [#1](https://www.twitch.tv/videos/2377225516), [#2](https://www.bilibili.com/video/BV1EUNRe4EZs) |
-| **Girlfriend ASMR** | **4** | 0 | Adrianlazer Fanboys | [#1](https://osu.ppy.sh/community/matches/117121145) | [#1](https://www.twitch.tv/videos/2377227193), [#2](https://www.bilibili.com/video/BV16bNdeFEEQ) |
+| **"OH MY DAYS (skylanders)"** | **4** | 0 | spicy chicken sandwich | [#1](https://osu.ppy.sh/community/matches/117118787) | [#1](https://www.youtube.com/watch?v=wYSCEYwCVDo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1GcNdeEE4K) |
+| File Archivers | 0 | **4** | **Cino fan club** | [#1](https://osu.ppy.sh/community/matches/117120297) | [#1](https://www.youtube.com/watch?v=OeMacjslL84&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1EUNRe4EZs) |
+| **Girlfriend ASMR** | **4** | 0 | Adrianlazer Fanboys | [#1](https://osu.ppy.sh/community/matches/117121145) | [#1](https://www.youtube.com/watch?v=Hrq2zrv5hWw&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV16bNdeFEEQ) |
 | **Retirados y Peligrosos** | **4** | -1 | Ton 618 | *win by default* |  |
 | WE HATE FEMBOYS@!!!!! | 3 | **4** | **una familia de 10** | [#1](https://osu.ppy.sh/community/matches/117121125) | [#1](https://www.youtube.com/watch?v=2qNqre5IVuk&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1A9K5eRE2P) |
 
@@ -315,27 +315,27 @@ Saturday, 15 February 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Help me, P3pp3RINNNNNN** | **4** | 3 | TOHOK | [#1](https://osu.ppy.sh/community/matches/117182128) | [#1](https://www.twitch.tv/videos/2381928173), [#2](https://www.bilibili.com/video/BV1VPA3eDEP2) |
+| **Help me, P3pp3RINNNNNN** | **4** | 3 | TOHOK | [#1](https://osu.ppy.sh/community/matches/117182128) | [#1](https://www.youtube.com/watch?v=gWj86gSpL6c&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1VPA3eDEP2) |
 | **Eerie Idiots in Space** | **4** | 3 | The Rewinders | [#1](https://osu.ppy.sh/community/matches/117183701) | [#1](https://www.youtube.com/watch?v=NH3yflcC4Tk&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1LZAgeRETN) |
-| **kingg!** | **4** | 2 | Cino fan club | [#1](https://osu.ppy.sh/community/matches/117184179) | [#1](https://www.twitch.tv/videos/2381926591), [#2](https://www.bilibili.com/video/BV1zDAge8EBb) |
-| **Adrianlazer Fanboys** | **4** | 2 | Lucky Star | [#1](https://osu.ppy.sh/community/matches/117184837) | [#1](https://www.twitch.tv/videos/2381932327), [#2](https://www.bilibili.com/video/BV1orAVeAESq) |
-| **ball itchers** | **4** | 0 | una familia de 10 | [#1](https://osu.ppy.sh/community/matches/117187486) | [#1](https://www.twitch.tv/videos/2382023448), [#2](https://www.bilibili.com/video/BV1FYAVezEYL) |
-| **Mystia's Izakaya Patrons** | **4** | 1 | team saucisse | [#1](https://osu.ppy.sh/community/matches/117189191) | [#1](https://www.twitch.tv/videos/2382501343), [#2](https://www.bilibili.com/video/BV1gHwReNEVm) |
+| **kingg!** | **4** | 2 | Cino fan club | [#1](https://www.youtube.com/watch?v=LZWp64tDVBo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1zDAge8EBb) |
+| **Adrianlazer Fanboys** | **4** | 2 | Lucky Star | [#1](https://osu.ppy.sh/community/matches/117184837) | [#1](https://www.youtube.com/watch?v=57dZLX--JBw&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1orAVeAESq) |
+| **ball itchers** | **4** | 0 | una familia de 10 | [#1](https://osu.ppy.sh/community/matches/117187486) | [#1](https://www.youtube.com/watch?v=VB2B0mtiUuc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1FYAVezEYL) |
+| **Mystia's Izakaya Patrons** | **4** | 1 | team saucisse | [#1](https://osu.ppy.sh/community/matches/117189191) | [#1](https://www.youtube.com/watch?v=iUTAoEcdT84&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1gHwReNEVm) |
 | Ton 618 | -1 | **4** | **The Chen Enjoyers** | [*win by default*](https://osu.ppy.sh/community/matches/117190850) |  |
 
 Sunday, 16 February 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **shreimu (reimu shrimp)** | **4** | 3 | 古明地三鲜与八云紫的狂想四重奏 | [#1](https://osu.ppy.sh/community/matches/117193998) | [#1](https://www.twitch.tv/videos/2382520517), [#2](https://www.bilibili.com/video/BV1fiAVeiExs) |
-| **fuma fumos** | **4** | 2 | Cat Yumy | [#1](https://osu.ppy.sh/community/matches/117195250) | [#1](https://www.twitch.tv/videos/2382606429), [#2](https://www.bilibili.com/video/BV1XVwRezE5P) |
-| **The Clones** | **4** | 1 | the | [#1](https://osu.ppy.sh/community/matches/117197769) | [#1](https://www.twitch.tv/videos/2382799530), [#2](https://www.bilibili.com/video/BV1imwRejEtQ) |
+| **shreimu (reimu shrimp)** | **4** | 3 | 古明地三鲜与八云紫的狂想四重奏 | [#1](https://osu.ppy.sh/community/matches/117193998) | [#1](https://www.youtube.com/watch?v=ETzAVc9rN3U&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1fiAVeiExs) |
+| **fuma fumos** | **4** | 2 | Cat Yumy | [#1](https://osu.ppy.sh/community/matches/117195250) | [#1](https://www.youtube.com/watch?v=v6yRuNQYYvo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1XVwRezE5P) |
+| **The Clones** | **4** | 1 | the | [#1](https://osu.ppy.sh/community/matches/117197769) | [#1](https://www.youtube.com/watch?v=6CJB7GNEm3Q&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1imwRejEtQ) |
 | **The Boys** | **4** | 2 | AKatsuki | [#1](https://osu.ppy.sh/community/matches/117198032) | [#1](https://www.youtube.com/watch?v=CuseECpxVUM&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1c9wQe1EE5) |
-| spicy chicken sandwich | 0 | **4** | **sprite cranberry** | [#1](https://osu.ppy.sh/community/matches/117198518) | [#1](https://www.twitch.tv/videos/2382801383), [#2](https://www.bilibili.com/video/BV16zwReQEGh) |
+| spicy chicken sandwich | 0 | **4** | **sprite cranberry** | [#1](https://osu.ppy.sh/community/matches/117198518) | [#1](https://www.youtube.com/watch?v=lLrm0CY4rgY&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV16zwReQEGh) |
 | **the malaysians + 1 indo** | **4** | 0 | PLAY TOUHOU LUNA NIGHTS | [#1](https://osu.ppy.sh/community/matches/117198843) | [#1](https://www.youtube.com/watch?v=VD4CWidNHR0&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1BkwReSE2z) |
 | **Fish⁴** | **4** | -1 | rip king von | [*win by default*](https://osu.ppy.sh/community/matches/117198858) |  |
-| **Odysseus** | **4** | 1 | steamhappy | [#1](https://osu.ppy.sh/community/matches/117199666) | [#1](https://www.twitch.tv/videos/2382861076), [#2](https://www.bilibili.com/video/BV1iUwRe1EE5) |
-| EL NACHO | 2 | **4** | **GOOOOOOOOOOAAAAAAAAAAAAL** | [#1](https://osu.ppy.sh/community/matches/117201107) | [#1](https://www.twitch.tv/videos/2383414435), [#2](https://www.bilibili.com/video/BV1DEwReKE1x) |
+| **Odysseus** | **4** | 1 | steamhappy | [#1](https://osu.ppy.sh/community/matches/117199666) | [#1](https://www.youtube.com/watch?v=wtBbMGz1Wis&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1iUwRe1EE5) |
+| EL NACHO | 2 | **4** | **GOOOOOOOOOOAAAAAAAAAAAAL** | [#1](https://osu.ppy.sh/community/matches/117201107) | [#1](https://www.youtube.com/watch?v=Zz1EUfuX-Bo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1DEwReKE1x) |
 
 ### Qualifiers
 
