@@ -28,7 +28,7 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending approval) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge |
 
 ![](img/badge.png "STKE winner badge")
 

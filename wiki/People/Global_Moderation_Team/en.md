@@ -10,7 +10,7 @@ tags:
 
 *See also: [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
 
-The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators, or GreenBAT), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large. They are distinguished by their citrus green user title, [user group](/wiki/People/User_group) badge that reads `GMT`, and their red in-game username.
+The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators, or GreenBAT), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large. They are distinguished by their citrus green user title, [user group](/wiki/People/User_groups) badge that reads `GMT`, and their red in-game username.
 
 **All Global Moderators are sworn to uphold [the Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
@@ -20,7 +20,7 @@ The **Global Moderation Team** (formerly known as the Global Mod Team, Administr
 
 *See also: [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour)*
 
-The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to):
+The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining to the moderation aspect of the game, which would include (but is not limited to):
 
 - issues with chat (e.g. spam or harassment)
 - misbehaviour on forum (e.g. inappropriate posts)
@@ -59,7 +59,7 @@ Global Moderators are granted the following benefits:
 
 ## Departure from the team
 
-Once a Global Moderator chooses to depart from the team, they may be granted the following rewards depending on the circumstances:
+Once a Global Moderator chooses to depart from the team under amicable terms, they may be granted the following rewards depending on the circumstances:
 
 - **[osu! Alumni](/wiki/People/osu!_Alumni) user title**: this is granted to members who were part of the team for at least 1 year, or have made significant contributions within the team during a shorter period of time.
 - **osu!supporter**: Members are awarded an osu!supporter tag that lasts double the amount of time they spent in the GMT, under the same conditions as osu! Alumni status.
