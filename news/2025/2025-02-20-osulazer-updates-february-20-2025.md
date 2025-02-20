@@ -11,7 +11,7 @@ Too late for Valentine's Day, too early for the osu!jet, but just in time for so
 Despite the impressive key-smashing display that the osu!mania 7K community has put up over the past 7 weeks, the devs managed to keep their heads straight, and bring a bunch of cool updates, some of them even osu!mania related!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ZzDdJqJnnvw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Editor
