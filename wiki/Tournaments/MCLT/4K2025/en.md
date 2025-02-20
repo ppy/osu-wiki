@@ -306,8 +306,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Ruleset
 
-## Ruleset
-
 ### General
 
 1. Only players with the Chilean flag visible on their osu! profile are eligible to enter the tournament.
