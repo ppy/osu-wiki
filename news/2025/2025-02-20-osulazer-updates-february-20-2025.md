@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: February 20, 2025"
-date: 2025-02-20 19:00:00 +0000
+date: 2025-02-20 18:30:00 +0000
 ---
 
 Too late for Valentine's Day, too early for the osu!jet, but just in time for some osu!(lazer) updates.
