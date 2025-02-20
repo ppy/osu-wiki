@@ -78,6 +78,14 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 | 14 | ::{ flag=CL }:: [UQU](https://osu.ppy.sh/users/11012279) |
 | 15 | ::{ flag=CL }:: [[REG]Levels](https://osu.ppy.sh/users/15421077) |
 | 16 | ::{ flag=CL }:: [Wantaso](https://osu.ppy.sh/users/17363267) |
+| 17 | ::{ flag=CL }:: [[REG]M1ST3R](https://osu.ppy.sh/users/21788629) |
+| 18 | ::{ flag=CL }:: [-Kori](https://osu.ppy.sh/users/12490530) |
+| 19 | ::{ flag=CL }:: [[AT] Funnies](https://osu.ppy.sh/users/31679332) |
+| 20 | ::{ flag=CL }:: [Diprimm](https://osu.ppy.sh/users/12219285) |
+| 21 | ::{ flag=CL }:: [brunaso](https://osu.ppy.sh/users/22386768) |
+| 22 | ::{ flag=CL }:: [-Ryu-](https://osu.ppy.sh/users/8440939) |
+| 23 | ::{ flag=CL }:: [YeaaBoiii](https://osu.ppy.sh/users/14630452) |
+| 24 | ::{ flag=CL }:: [labotx](https://osu.ppy.sh/users/12434346) |
 
 ## Match schedule: Finals
 
@@ -220,19 +228,19 @@ Saturday, 15 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| b3njvv2 ::{ flag=CL }:: | **6** | 4 | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117188342) | [#1](https://www.twitch.tv/videos/2382390641) |
-| Hikikomori ::{ flag=CL }:: | **6** | 5 | ::{ flag=CL }:: yukataa | [#1](https://osu.ppy.sh/community/matches/117190863) |  |
-| Best Sanallite ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2382390372) |
-| Jeanne Da Rin ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117192708) | [#1](https://www.twitch.tv/videos/2382390103) |
+| **b3njvv2** ::{ flag=CL }:: | **6** | 4 | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117188342) | [#1](https://www.twitch.tv/videos/2382390641) |
+| **Hikikomori** ::{ flag=CL }:: | **6** | 5 | ::{ flag=CL }:: yukataa | [#1](https://osu.ppy.sh/community/matches/117190863) |  |
+| Best Sanallite ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: **NikitodeuS** | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2382390372) |
+| Jeanne Da Rin ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: **Horuszed** | [#1](https://osu.ppy.sh/community/matches/117192708) | [#1](https://www.twitch.tv/videos/2382390103) |
 
 Sunday, 16 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Yor Fangirl** ::{ flag=CL }:: | **6** | -1 | ::{ flag=CL }:: Shiny Sylveon | *win by default* |  |
-| Anterex ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: kuraaaFangirl | [#1](https://osu.ppy.sh/community/matches/117205295) | [#1](https://www.twitch.tv/videos/2383776915) |
-| Hikikomori ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117205757) |  |
-| Yor Fangirl ::{ flag=CL }:: | 3 | **6** | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117205794) | [#1](https://www.twitch.tv/videos/2383777114) |
+| **Anterex** ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: kuraaaFangirl | [#1](https://osu.ppy.sh/community/matches/117205295) | [#1](https://www.twitch.tv/videos/2383776915) |
+| **Hikikomori** ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117205757) |  |
+| Yor Fangirl ::{ flag=CL }:: | 3 | **6** | ::{ flag=CL }:: **Horuszed** | [#1](https://osu.ppy.sh/community/matches/117205794) | [#1](https://www.twitch.tv/videos/2383777114) |
 
 ### Quarterfinals
 
@@ -242,24 +250,24 @@ Friday, 7 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Anterex ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: Jeanne Da Rin | [#1](https://osu.ppy.sh/community/matches/117093415) | [#1](https://www.twitch.tv/videos/2376058430) |
+| **Anterex** ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: Jeanne Da Rin | [#1](https://osu.ppy.sh/community/matches/117093415) | [#1](https://www.twitch.tv/videos/2376058430) |
  
 Saturday, 8 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Wantaso ::{ flag=CL }:: | FF | **6** | ::{ flag=CL }:: Yor Fangirl |  |  |
-| Horuszed ::{ flag=CL }:: | **6** | 3 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117105222) | [#1](https://www.twitch.tv/videos/2376058108) |
-| [REG]Levels ::{ flag=CL }:: | 1 | **6** | ::{ flag=CL }:: yukataa | [#1](https://osu.ppy.sh/community/matches/117106043) | [#1](https://www.twitch.tv/videos/2376057639) |
-| b3njvv2 ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: Best Sanallite | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2376056882) |
-| UQU ::{ flag=CL }:: | -1 | **6** | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117109269) |  |
-| Hikikomori ::{ flag=CL }:: | 0 | **6** | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117111498) | [#1](https://www.twitch.tv/videos/2377226704) |
+| Wantaso ::{ flag=CL }:: | -1 | **6** | ::{ flag=CL }:: **Yor Fangirl** | *win by default* |  |
+| **Horuszed** ::{ flag=CL }:: | **6** | 3 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117105222) | [#1](https://www.twitch.tv/videos/2376058108) |
+| [REG]Levels ::{ flag=CL }:: | 1 | **6** | ::{ flag=CL }:: **yukataa** | [#1](https://osu.ppy.sh/community/matches/117106043) | [#1](https://www.twitch.tv/videos/2376057639) |
+| **b3njvv2** ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: Best Sanallite | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2376056882) |
+| UQU ::{ flag=CL }:: | -1 | **6** | ::{ flag=CL }:: **NikitodeuS** | [*win by default*](https://osu.ppy.sh/community/matches/117109269) |  |
+| Hikikomori ::{ flag=CL }:: | 0 | **6** | ::{ flag=CL }:: **Ogata Kanna** | [#1](https://osu.ppy.sh/community/matches/117111498) | [#1](https://www.twitch.tv/videos/2377226704) |
 
 Sunday, 9 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| kuraaaFangirl ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: Shiny Sylveon | [#1](https://osu.ppy.sh/community/matches/117121756) | [#1](https://www.twitch.tv/videos/2377226956) |
+| **kuraaaFangirl** ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: Shiny Sylveon | [#1](https://osu.ppy.sh/community/matches/117121756) | [#1](https://www.twitch.tv/videos/2377226956) |
 
 ## Round of 16
 
@@ -269,19 +277,19 @@ Saturday, 15 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| b3njvv2 ::{ flag=CL }:: | **5** | FF | ::{ flag=CL }:: Wantaso |  |  |
-| Yor Fangirl ::{ flag=CL }:: | 1 | **5** | ::{ flag=CL }:: Best Sanallite | [#1](https://osu.ppy.sh/community/matches/117027474) | [#1](https://www.twitch.tv/videos/2369879732) |
-| Hikikomori ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117028217) |  |
-| Ogata Kanna ::{ flag=CL }:: | **5** | 2 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117029124) | [#1](https://www.twitch.tv/videos/2370163235) |
-| Anterex ::{ flag=CL }:: | **5** | 0 | ::{ flag=CL }:: [REG]Levels | [#1](https://osu.ppy.sh/community/matches/117031119) | [#1](https://www.twitch.tv/videos/2370163448) |
+| **b3njvv2** ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Wantaso | *win by default*  |  |
+| Yor Fangirl ::{ flag=CL }:: | 1 | **5** | ::{ flag=CL }:: **Best Sanallite** | [#1](https://osu.ppy.sh/community/matches/117027474) | [#1](https://www.twitch.tv/videos/2369879732) |
+| **Hikikomori** ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117028217) |  |
+| **Ogata Kanna** ::{ flag=CL }:: | **5** | 2 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117029124) | [#1](https://www.twitch.tv/videos/2370163235) |
+| **Anterex** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CL }:: [REG]Levels | [#1](https://osu.ppy.sh/community/matches/117031119) | [#1](https://www.twitch.tv/videos/2370163448) |
 
 Sunday, 16 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| yukataa ::{ flag=CL }:: | 4 | **5** | ::{ flag=CL }:: Jeanne Da Rin | [#1](https://osu.ppy.sh/community/matches/117038115) | [#1](https://www.twitch.tv/videos/2370616128) |
-| kuraaaFangirl ::{ flag=CL }:: | **5** | 1 | ::{ flag=CL }:: UQU | [#1](https://osu.ppy.sh/community/matches/117039635) | [#1](https://www.twitch.tv/videos/2370701940) |
-| Shiny Sylveon ::{ flag=CL }:: | **5** | 4 | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117041804) | [#1](https://www.twitch.tv/videos/2371105628) |
+| yukataa ::{ flag=CL }:: | 4 | **5** | ::{ flag=CL }:: **Jeanne Da Rin** | [#1](https://osu.ppy.sh/community/matches/117038115) | [#1](https://www.twitch.tv/videos/2370616128) |
+| **kuraaaFangirl** ::{ flag=CL }:: | **5** | 1 | ::{ flag=CL }:: UQU | [#1](https://osu.ppy.sh/community/matches/117039635) | [#1](https://www.twitch.tv/videos/2370701940) |
+| **Shiny Sylveon** ::{ flag=CL }:: | **5** | 4 | ::{ flag=CL }:: NikitodeuS | [#1](https://osu.ppy.sh/community/matches/117041804) | [#1](https://www.twitch.tv/videos/2371105628) |
 
 ### Qualifiers
 
@@ -305,6 +313,14 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #14 | ::{ flag=CL }:: UQU | 13.6 | 952,576 |
 | #15 | ::{ flag=CL }:: [REG]Levels | 14.2 | 956,143 |
 | #16 | ::{ flag=CL }:: Wantaso | 14.6 | 951,591 |
+| #17 | ::{ flag=CL }:: [REG]M1ST3R | 14.6 | 947,731 |
+| #18 | ::{ flag=CL }:: -Kori | 14.8 | 945,122 |
+| #19 | ::{ flag=CL }:: [AT] Funnies | 15 | 938,504 |
+| #20 | ::{ flag=CL }:: Diprimm | 16.2 | 942,849 |
+| #21 | ::{ flag=CL }:: brunaso | 21.4 | 744,322 |
+| #22 | ::{ flag=CL }:: -Ryu- | 21.6 | 736,307 |
+| #23 | ::{ flag=CL }:: YeaaBoiii | 23 | 265,990 |
+| #24 | ::{ flag=CL }:: labotx | 24 | 155,806 |
 
 ## Ruleset
 
