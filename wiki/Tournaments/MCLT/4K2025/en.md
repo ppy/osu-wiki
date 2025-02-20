@@ -277,7 +277,7 @@ Saturday, 15 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **b3njvv2** ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Wantaso | *win by default*  |  |
+| **b3njvv2** ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Wantaso | *win by default* |  |
 | Yor Fangirl ::{ flag=CL }:: | 1 | **5** | ::{ flag=CL }:: **Best Sanallite** | [#1](https://osu.ppy.sh/community/matches/117027474) | [#1](https://www.twitch.tv/videos/2369879732) |
 | **Hikikomori** ::{ flag=CL }:: | **5** | -1 | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117028217) |  |
 | **Ogata Kanna** ::{ flag=CL }:: | **5** | 2 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117029124) | [#1](https://www.twitch.tv/videos/2370163235) |
