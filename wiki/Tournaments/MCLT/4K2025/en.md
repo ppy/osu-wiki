@@ -309,14 +309,11 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### General
 
 1. Only players with the Chilean flag visible on their osu! profile are eligible to enter the tournament.
-2. No tournament staff, except designers, streamers, and commentators, may participate as players.
+2. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
 3. Tournament schedules are based on Chilean continental time (UTC-3).
-4. Players who wish to register must be present in the Discord server linked in the first section of the forum.
+4. To participate in the tournament, player **must** join [this Discord server](https://discord.gg/aSTBgHBpSN) after registration.
 5. This tournament is a 1v1 double-elimination competition for the osu!mania 4K game mode.
-6. Only players with the Chilean flag visible on their osu! profile are eligible to enter the tournament.
-7. Players who wish to register must be present in the Discord server linked in the first section of the forum.
 8. The score system used will be ScoreV2, and the version used will be stable, not osu!lazer.
-9. No tournament staff, except designers, streamers, and commentators, may participate as players.
 10. Players must adhere to the [osu! community rules](/wiki/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
 11. Players are allowed to adjust visual settings to alter background opacity or disable beatmap elements, such as storyboards and skins.
 12. Skin elements must not be used to alter key gameplay mechanics inappropriately.
