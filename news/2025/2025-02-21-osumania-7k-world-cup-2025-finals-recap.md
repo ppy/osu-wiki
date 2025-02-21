@@ -36,7 +36,13 @@ With the handy help of [SurfChu85](https://osu.ppy.sh/users/4469895), [yukina me
 
 ![Finals mappool table](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/mappool.jpg)
 
-Mappool recap
+If the Semifinals pool was only accessible to ETs, the Finals mappool has doubled down on the difficulty. Even some of the strongest players of the tournament and the game have struggled to keep up with it! On a tournament where every little mistake can cost you a point, a pool ridden with easy to miss patterns is bound to be a disaster for teams that can't keep up with the pace.
+
+This week, we were bestowed with another guest [osu! original](/wiki/Community/Bespoke_music) by the hands of [Critical_Star](https://osu.ppy.sh/users/3793196) and [Blocko](https://osu.ppy.sh/users/4075092). Debuting in [Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1567455?n=1) 2022, [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://osu.ppy.sh/beatmapsets/2321297#mania/4973159) (TB) was bound to become the main protagonist on one of this week's matches.
+
+We had plenty of surprises beyond a returning bespoke track, however. For the first time in MWC 7K history, the EX pool was introduced this round. Maps in this pool represent the pinnacle of raw difficulty within their respective category. In this case [celtix - Cursed Bloom](https://osu.ppy.sh/beatmapsets/2321288#mania/4973138) (EX1) made by [Critical_Star](https://osu.ppy.sh/users/3793196) and [_Kobii](https://osu.ppy.sh/users/6209713) represents the difficulty apex of the rice category and is designated as the mixed rice pick. It is notably harder than the rest of the mappool, with the exception of the tiebreaker. For this particular pick, the patterns were significantly more abrasive and considerably tougher than usual to manage. It was an ideal choice for teams aiming to establish dominance in this category early on.
+
+But this was not the end of the pool's surprises. This week offered the biggest selection of osu! originals of the tournament, with 3 amazing custom tracks and maps to choose from!
 
 ---
 
@@ -48,7 +54,7 @@ Mappool recap
     </audio>
 </div>
 
-osu! the Original.
+The first original of the week was [NIGHTMARE INVITATION](https://osu.ppy.sh/beatmapsets/2321254#mania/4973026) (RC2) composed by [EBIMAYO](https://osu.ppy.sh/beatmaps/artists/458). Their debut to osu! was nothing short of amazing! Taking the role of a dense chordstream pick, players can expect a fast-paced yet difficult to read map with many spots where one miss alone can spell doom for the player.
 
 [![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/CuttingEdgeInsaneArtifact_banner.jpg)](https://osu.ppy.sh/beatmapsets/2321277#mania/4973089)
 
@@ -58,7 +64,7 @@ osu! the Original.
     </audio>
 </div>
 
-osu! the Original 2: Electric boogaloo.
+This week, we had LN consistency as the new category to the LN pool. And what better way to introduce our new category than with an osu! original by [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220) of course, who composed [CuttingEdgeInsaneArtifact](https://osu.ppy.sh/beatmapsets/2321277#mania/4973089) (LN3) which was then mapped by [Lung_P](https://osu.ppy.sh/users/8271308) and [Muses](https://osu.ppy.sh/users/9705896). As the name of the category implies, this pick is all about testing players' consistency of their LN prowess. This map has a wide range of LN patterning, which also added another layer of difficulty as players have to be proficient in all of them in order to perform well.
 
 [![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/Welkius_banner.jpg)](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158)
 
@@ -68,7 +74,7 @@ osu! the Original 2: Electric boogaloo.
     </audio>
 </div>
 
-osu! the Original 3: Origins.
+The last original featured this week was [Welkius](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158) (EX3), composed by [Aoi](https://osu.ppy.sh/beatmaps/artists/183) and mapped by [_Kobii](https://osu.ppy.sh/users/6209713), [_Kobii](https://osu.ppy.sh/users/6209713), [ruka](https://osu.ppy.sh/users/6117525), and [Blocko](https://osu.ppy.sh/users/4075092)! This map can be considered the little brother of the tiebreaker. With patterns that rival its sibling's difficulty, this was meant to be the wildcard amongst wildcards in the pools. A pick that is not won by practice, but sheer physicality and consistency. Suffice to say, a fitting experience for a track as hype as Aoi's.
 
 ## Semifinals summary
 
@@ -116,7 +122,7 @@ At a first glance, the Philippines seemed to have an advantage in the tiebreaker
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2025-02-14-watch-this.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-02-21-ph-jp-tiebreaker.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
