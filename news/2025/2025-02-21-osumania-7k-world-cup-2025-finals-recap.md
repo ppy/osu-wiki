@@ -17,7 +17,7 @@ Before that though, given China's performance across the tournament, we decided 
 With the handy help of [SurfChu85](https://osu.ppy.sh/users/4469895), [yukina meng](https://osu.ppy.sh/users/9919550), and [Nerfox](https://osu.ppy.sh/users/7976724) we've managed to get these recaps done in video form — this week was no exception!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-YSOZ_eWE4E" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
@@ -28,10 +28,10 @@ With the handy help of [SurfChu85](https://osu.ppy.sh/users/4469895), [yukina me
     }
 </style>
 
-**[Download the pool here! (XX MB)](https://osu.ppy.sh/beatmaps/packs/PACK_ID)**
+**[Download the pool here! (98 MB)](https://osu.ppy.sh/beatmaps/packs/P276)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2376804412&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![Finals mappool table](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/mappool.jpg)
@@ -40,15 +40,35 @@ Mappool recap
 
 ---
 
-[![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/BANNER.jpg)]()
+[![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/NIGHTMARE_INVITATION_banner.jpg)](https://osu.ppy.sh/beatmapsets/2321254#mania/4973026)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/ID/Songs/SONG_NAME.mp3">
+        <source src="https://assets.ppy.sh/artists/458/Songs/EBIMAYO%20-%20NIGHTMARE%20INVITATION.mp3">
     </audio>
 </div>
 
 osu! the Original.
+
+[![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/CuttingEdgeInsaneArtifact_banner.jpg)](https://osu.ppy.sh/beatmapsets/2321277#mania/4973089)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_CuttingEdgeInsaneArtifact.mp3">
+    </audio>
+</div>
+
+osu! the Original 2: Electric boogaloo.
+
+[![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/Welkius_banner.jpg)](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/183/Songs/Aoi_-_Welkius.mp3">
+    </audio>
+</div>
+
+osu! the Original 3: Origins.
 
 ## Semifinals summary
 
@@ -71,7 +91,7 @@ We can't stress enough how all of this week's matches were worth watching. While
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2382690271)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-YSOZ_eWE4E?start=243&end=786" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Match highlights.
@@ -104,36 +124,52 @@ Close point clip embed.
         margin-bottom: 2px;
     }
 
-    .news-chat-quote__colour-nat {
-        color: #fa3703;
-    }
-
     .news-chat-quote__colour-no-group {
         color: #FFFFFF;
     }
 </style>
 
-![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/FIGMA_BANNER_PENDING.png)
+![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/tyrcs.png)
 
 Interview intro
 
-Remember to change interviewer and interviewee.
-
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14128407" style="background-image: url('/wiki/shared/avatars/[GB]yobrevelc.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14128407">[GB]yobrevelc</a></p>
 
-Question
+Congratulations on getting to the top 3 for the first time since 2022! How does the team feel about the possibility of taking revenge on the Philippines? You guys will have to face them again in the Grand Finals, so what are the expectations for this upcoming match?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/23731514" style="background-image: url('/wiki/shared/avatars/-luvv.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13026904" style="background-image: url('/wiki/shared/avatars/tyrcs.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/23731514">-luvv</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13026904">tyrcs</a></p>
 
 Answer
 
-Repeat 3 times.
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14128407" style="background-image: url('/wiki/shared/avatars/[GB]yobrevelc.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14128407">[GB]yobrevelc</a></p>
+
+Given this year's mappool compared to previous years — with the changes to LN1 and EX picks — how have these changes influenced your team's matches? Have you guys benefitted from it?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13026904" style="background-image: url('/wiki/shared/avatars/tyrcs.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13026904">tyrcs</a></p>
+
+Answer
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14128407" style="background-image: url('/wiki/shared/avatars/[GB]yobrevelc.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14128407">[GB]yobrevelc</a></p>
+
+It is pleasant to see that the Chinese roster included both experienced and newer players. As a captain, how will the team be arranged in the future? Any advice for up-and-coming 7K players?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13026904" style="background-image: url('/wiki/shared/avatars/tyrcs.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13026904">tyrcs</a></p>
+
+Answer
 
 </div>
 
