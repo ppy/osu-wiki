@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2025: Finals Recap"
-date: 2025-02-20 20:30:00 +0000
+date: 2025-02-21 20:30:00 +0000
 ---
 
 The last purge before Grand Finals has finished. With only three teams remaining, let us see how we got up to this point!
 
-![](/wiki/shared/news/2025-02-20-osumania-7k-world-cup-2025-finals-recap/banner.jpg)
+![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/banner.jpg)
 
 With one week to go till this year's MWC 7K ends, teams have started to get ready for the final sprint. Everything up until last week may've been just a jog for some, but it's soon to become one final mad dash to the top of the podium!
 
@@ -34,13 +34,13 @@ With the handy help of [SurfChu85](https://osu.ppy.sh/users/4469895), [yukina me
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Finals mappool table](/wiki/shared/news/2025-02-20-osumania-7k-world-cup-2025-finals-recap/mappool.jpg)
+![Finals mappool table](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/mappool.jpg)
 
 Mappool recap
 
 ---
 
-[![](/wiki/shared/news/2025-02-20-osumania-7k-world-cup-2025-finals-recap/BANNER.jpg)]()
+[![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/BANNER.jpg)]()
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -113,7 +113,7 @@ Close point clip embed.
     }
 </style>
 
-![](/wiki/shared/news/2025-02-20-osumania-7k-world-cup-2025-finals-recap/FIGMA_BANNER_PENDING.png)
+![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/FIGMA_BANNER_PENDING.png)
 
 Interview intro
 
