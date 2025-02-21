@@ -151,7 +151,7 @@ This was undoubtedly one of the most intense and hyped matches in the entire 7K 
 
 ![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/tyrcs.png)
 
-Interview intro
+[tyrcs](https://osu.ppy.sh/users/13026904) needs little to no introduction. 7K player extraordinaire, their performance during the tournament has left many users in awe. Even those who were already familiar with their skills were still impressed by consistently providing us with amazing scores throughout the tournament. The scores highlights section may've as well been theirs!
 
 <div class="news-chat-quote__text-container">
 
@@ -165,7 +165,9 @@ Congratulations on getting to the top 3 for the first time since 2022! How does 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13026904">tyrcs</a></p>
 
-Last year, our match against the Philippines ended in a heartbreaking comeback loss, which was truly regrettable. Therefore, when they chased back 2 points in a row after we were leading 5:2 and reached match point, all of us were quite nervous. Fortunately, we managed to end that match before it reached the tiebreaker. The mappool for the Grand Finals is considerably much more challenging compared with the Semifinals. I hope that under the pressure of such a mappool, everyone can demonstrate their normal skills and deliver a match that more exciting than Semifinals.
+Last year, our match against the Philippines ended in a heartbreaking loss after their comeback, which left a sour taste in our mouths. This is why when they won two consecutive points after leading the match 5–2, all of us were quite nervous. We didn't want to repeat our past mistakes. Fortunately, we managed to stay calm and secure the last point before reaching the tiebreaker. If there's something we've learnt from these past skirmishes is that we cannot take a win for granted given the Philippines' potential to regain momentum.
+
+As for the match to come, we know that the mappool for Grand Finals is going to be considerably more challenging compared to Semifinals. We expect the Philippines to stay on top of their game and deliver a match much more exciting than Semifinals! The mappool's difficulty won't put things easy for any of us, but we believe that under duress, everyone will be able to demonstrate their skills.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14128407" style="background-image: url('/wiki/shared/avatars/[GB]yobrevelc.jpg')"></a>
 
@@ -177,7 +179,9 @@ Given this year's mappool compared to previous years — with the changes to LN1
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13026904">tyrcs</a></p>
 
-Actually, the switch from Release to Inverse for LN1 didn't affect us too much. It might be beneficial for players who are skilled at Inverse and rarely touched tournament maps. But in our team, those LN specialists are all experienced in tournament. They have been able to transfer their experience from the old LN1 to the new LN1 effectively. Although the EX category is a new concept this year, there have been maps with similar roles in past mappools (such as Minerva in MWC7k2023 Grand Finals RC5). Overall, the experience of the mappool hasn't been changed by the newly introduced EX category significantly from previous years.
+To be honest, the switch from release to inverse for LN1 didn't affect us too much. It might've been beneficial who may not have had much tournament experience, but whose skills better aligned with inverse's demands. For us though this wasn't a problem, as our LN specialists were all experienced in tournaments already and were able to adapt to the changes with relative ease.
+
+As for the EX category, while it is a new concept altogether, there have been maps with similar roles in past mappools. Say for example [Hylen - Minerva](https://osu.ppy.sh/beatmapsets/1939250#mania/4009321) from [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) featured in the Grand Finals' pool as RC5. All in all, the introduction of the EX category hasn't significantly changed our experience from previous years.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14128407" style="background-image: url('/wiki/shared/avatars/[GB]yobrevelc.jpg')"></a>
 
@@ -189,7 +193,9 @@ It is pleasant to see that the Chinese roster included both experienced and newe
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13026904">tyrcs</a></p>
 
-Currently, the base of Chinese 7k player is full of fresh blood, many players have shown their promising future. Starting from 2025, team China has started to use tryout for selection. If a new player with better skill passes the tryout in the future, they can join the team and have fun in MWC. Since the patterns in touranment maps are considerably different from those in most ranked maps, players planned to participate in MWC might consider looking beyond ranked maps, playing more tournament maps to improve their stability and accuracy, and to strengthen their weak points.
+Currently, the player base of Chinese 7K players is quite plentiful. Many promising new players have been showing their interest in joining the team. Starting from 2025, we've prepared tryouts to select players for team China. Regardless of a player's tenure, if a new player with promising skills passes the tryouts in the future, they'll be able to join the team and have fun in MWC!
+
+My tip to new players looking to join the team would be to look beyond ranked maps and play more tournament picks. Since the patterning in tournament maps is considerably different from most ranked maps, users willing to join will need to improve their accuracy by playing the kinds of beatmaps they'll be playing in a real tournament.
 
 </div>
 
