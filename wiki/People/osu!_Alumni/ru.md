@@ -1,3 +1,8 @@
+---
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
+outdated_translation: true
+---
+
 # osu! Alumni
 
 **osu! Alumni** ([а-лам-най](http://dictionary.cambridge.org/pronunciation/english/alumni), досл. с англ. *«выпускники»*) — бывшие [БАТы](/wiki/People/Beatmap_Appreciation_Team), [администраторы или модераторы](/wiki/People/Global_Moderation_Team), решившие уйти со своей должности или даже покинуть игру. Также в эту группу попадают некоторые особо отличившиеся (в хорошем смысле) участники коммьюнити.
