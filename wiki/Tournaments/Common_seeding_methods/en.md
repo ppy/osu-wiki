@@ -40,7 +40,7 @@ This seeding method averages each team’s scores on all maps. Typically, scores
 
 The average score for a team is given by
 
-![Average Score formula](img/avgscore.png)[^mappool-size]
+![Average Score formula](img/avgscore.png)
 
 If any of the maps are played with [Free Mod](/wiki/Gameplay/Game_modifier#free-mod), it must be explicitly specified whether each individual player’s score on the map is normalised by the mods they use — effectively nullifying multipliers of any additional mods taken — or if there is an overall normalisation — where all scores are divided only by the globally required mod multipliers.
 
@@ -50,7 +50,7 @@ This seeding method ranks all scores on each map played from highest to lowest, 
 
 The sum of placements for a team is given by
 
-![Sum of Placements formula](img/golf.png)[^mappool-size]
+![Sum of Placements formula](img/golf.png)
 
 Instead of a sum, the placements may also be averaged, which yields the same overall seeding. Note that if two teams both receive the highest score on a map, their map placements are both 1 (rather than both being 2); more explicitly, a team’s `Map placement` on a map is the number of teams who score higher than them plus one.
 
@@ -60,7 +60,7 @@ This seeding method assigns each team some number of points between 0 and 1 on e
 
 The percent max sum for a team is given by
 
-![Percent Max formula](img/percentmax.png)[^mappool-size]
+![Percent Max formula](img/percentmax.png)
 
 ### Percent Difference
 
@@ -68,7 +68,7 @@ This seeding method is almost identical to Percent Max, except that it assigns t
 
 The percent difference sum for a team is given by
 
-![Percent Difference formula](img/percentdiff.png)[^mappool-size]
+![Percent Difference formula](img/percentdiff.png)
 
 ### Z-Sum
 
@@ -78,7 +78,7 @@ Note that tournaments in the past have often used the term “Z-Sum” for what 
 
 The Z-Sum for a team is given by
 
-![Z-Sum formula](img/zsum.png)[^mappool-size]
+![Z-Sum formula](img/zsum.png)
 
 where typically the sample standard deviation is used (rather than the population standard deviation).
 
@@ -88,7 +88,7 @@ This seeding method is almost identical to Z-Sum, except that instead of assigni
 
 The Z-Percentile sum for a team is given by
 
-![Z-Percentile formula](img/zpercentile.png)[^mappool-size]
+![Z-Percentile formula](img/zpercentile.png)
 
 where `NORMCDF` is the cumulative distribution function for the standard normal distribution (also sometimes called `NORMSDIST` in software).
 
@@ -98,7 +98,7 @@ Much like Sum of Placements, this seeding method ranks all scores on each map pl
 
 The usual formula used for assigning points is given by
 
-![Zipf's Law formula](img/zipf.png)[^mappool-size]
+![Zipf's Law formula](img/zipf.png)
 
 Note that this seeding method may still make sense if `1.4 * m` is replaced by some other nonnegative real number, or if the numerator is replaced by another positive real number, or if the denominator is raised to some positive real number. But these changes must be specified explicitly if used.
 
@@ -120,7 +120,7 @@ Many of the methods above assign each team a number of points on each map and th
 
 More precisely, a positive number for each map, called the `Map weight`, should be specified. The final number used for seeding is then
 
-![Weighting formula](img/weight.png)[^mappool-size]
+![Weighting formula](img/weight.png)
 
 where `Map points` is the quantity that the seeding method assigns to each map (e.g. `Map placement` for Average Placement). Note that having all map weights be equal to `1` or `1/(Number of maps)` would just be equivalent to summing or averaging the map points together.
 
@@ -178,5 +178,4 @@ Here are some other features and comparisons of seeding methods to keep in mind,
 
 ## Notes
 
-[^mappool-size]: The letter `m` refers to the number of maps in the qualifier mappool.
 [^Z-Sum]: The misconception between Z-Sum and Z-Percentile originates from taking each map score’s z-percentile and then summing all of a team’s z-percentiles. While this is a sum, it is a sum of z-percentiles rather than z-scores, making the two methods distinct.
