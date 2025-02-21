@@ -201,7 +201,12 @@ My tip to new players looking to join the team would be to look beyond ranked ma
 
 ## Score highlights
 
-Score highlights
+The Finals weekend not only gave us very special matches, but also very special scores! There's quite a lot of them to unpack, so here's a selection of scores that we believe are worth mentioning:
+
+- The quest to get the highest possible score on [Kohta Imafuku - Last Fireworks](https://osu.ppy.sh/beatmapsets/2321256#mania/4973036) (RC3) this week was won by ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007), thanks to their 996k run on their [match against Peru](https://www.twitch.tv/videos/2381488373). Notably, this was the only 990k+ score on the chart during the weekend.
+- ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406) had quite a good run on the rice pool. That said, we think that their 986k score on [Kolaa - async](https://osu.ppy.sh/beatmapsets/2321301#mania/4973175) (RC4) is the best showcase of their skills by playing some of the most complex patterns found in the pool.
+- The title "LN Inverse Specialist" should be bestowed to ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178) at this point after their 985k run on [Sayuri x MY FIRST STORY - Reimei (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2321280#mania/4973092) (LN1).
+- ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s overall performance this weekend was quite something. This includes (but isn't limited to) their two weekend-topping runs on [Marmalade butcher - CuttingEdgeInsaneArtifact](https://osu.ppy.sh/beatmapsets/2321277#mania/4973089) (LN3) (987k vs. Indonesia, 984k vs. Japan), and another top score on [KOTOKO - agony (Cut ver.)](https://osu.ppy.sh/beatmapsets/2321282#mania/4973094) (LN4) (980k).
 
 ---
 
