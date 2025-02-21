@@ -42,7 +42,7 @@ The average score for a team is given by
 
 ![Average Score formula](img/avgscore.png)[^mappool-size]
 
-If any of the maps are played with [Free Mod](/wiki/Gameplay/Game_modifier#free-mod), it must be explicitly specified whether each individual player’s score is being normalised by the mods they used before summing, or if there is an overall normalisation.
+If any of the maps are played with [Free Mod](/wiki/Gameplay/Game_modifier#free-mod), it must be explicitly specified whether each individual player’s score on the map is normalised by the mods they use — effectively nullifying multipliers of any additional mods taken — or if there is an overall normalisation — where all scores are divided only by the globally required mod multipliers.
 
 ### Sum of Placements
 
