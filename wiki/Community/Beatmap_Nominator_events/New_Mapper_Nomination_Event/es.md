@@ -5,7 +5,7 @@ tags:
 
 # Evento de Nominación para Mappers Nuevos
 
-El **Evento de Nominación para Mappers Nuevos** se llevó a cabo entre **marzo 1ro** and **mayo 31**, 2021.
+El **Evento de Nominación para Mappers Nuevos** se llevó a cabo entre **marzo 1** y **mayo 31**, 2021.
 
 Durante el evento, se les entrego como tarea a los Beatmap Nominators rankear mapas de usuarios que nunca habían rankeado un mapa antes and el modo de juego de su elección. Solo los mapas [calificados](/wiki/Beatmap_ranking_procedure#qualification) durante el evento eran elegibles para ser nominados.
 
