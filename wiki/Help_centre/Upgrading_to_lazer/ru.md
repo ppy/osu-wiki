@@ -1,6 +1,8 @@
 ---
 tags:
   - лазер
+outdated_translation: true
+outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
 ---
 
 # Обновление до lazer
