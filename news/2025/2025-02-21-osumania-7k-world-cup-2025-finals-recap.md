@@ -74,7 +74,7 @@ This week, we had LN consistency as the new category for the LN pool, and what b
     </audio>
 </div>
 
-The last original featured this week was [Welkius](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158) (EX3), composed by [Aoi](https://osu.ppy.sh/beatmaps/artists/183) and mapped by [_Kobii](https://osu.ppy.sh/users/6209713), [_Kobii](https://osu.ppy.sh/users/6209713), [ruka](https://osu.ppy.sh/users/6117525), and [Blocko](https://osu.ppy.sh/users/4075092)! This map can be considered the little brother of the tiebreaker. With patterns that rival its sibling's difficulty, this was meant to be the wildcard amongst wildcards in the pools. A pick that is not won by practice, but sheer physicality and consistency. Suffice to say, it's a fitting experience for a track as hype as Aoi's.
+The last original featured this week was [Welkius](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158) (EX3), composed by [Aoi](https://osu.ppy.sh/beatmaps/artists/183) and mapped by [_Kobii](https://osu.ppy.sh/users/6209713), [ruka](https://osu.ppy.sh/users/6117525), and [Blocko](https://osu.ppy.sh/users/4075092)! This map can be considered the little brother of the tiebreaker. With patterns that rival its sibling's difficulty, this was meant to be the wildcard amongst wildcards in the pools. A pick that is not won by practice, but sheer physicality and consistency. Suffice to say, it's a fitting experience for a track as hype as Aoi's.
 
 ## Semifinals summary
 
@@ -165,6 +165,8 @@ Congratulations to the Philippines for advancing to the Grand Finals, and a huge
 
 [tyrcs](https://osu.ppy.sh/users/13026904) needs little to no introduction. 7K player extraordinaire, their performance during the tournament has left many users in awe. Even those who were already familiar with their skills were still impressed by consistently providing us with amazing scores throughout the tournament. The scores highlights section may've as well been theirs!
 
+[**You can find the Chinese version of the interview here.**](https://www.bilibili.com/opus/1036644825691062274)
+
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14128407" style="background-image: url('/wiki/shared/avatars/[GB]yobrevelc.jpg')"></a>
@@ -226,4 +228,4 @@ So this is it folks, next weekend we'll get a fitting conclusion to this year's 
 
 So, what are you waiting for? Chime in [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) during the weekend to experience the epitome of 7K gameplay, from the hands of our finalists themselves! For those who haven't been satisfied by the recap alone, you can find all the information you will ever need in the [wiki article](/wiki/Tournaments/MWC/2025_7K) and the [weekly stats spreadsheet](https://docs.google.com/spreadsheets/d/19eQbdrFbndGIEFGXeZb5uAwt7NWf9iYJMNeSepbwuZs?rm=minimal)
 
-—RandomeLoL
+—RandomeLoL, _Kobii, \[GB\]yobrevelc, Maxus, SurfChu85
