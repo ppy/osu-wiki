@@ -226,4 +226,4 @@ So this is it folks, next weekend we'll get a fitting conclusion to this year's 
 
 So, what are you waiting for? Chime in [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) during the weekend to experience the epitome of 7K gameplay, from the hands of our finalists themselves! For those who haven't been satisfied by the recap alone, you can find all the information you will ever need in the [wiki article](/wiki/Tournaments/MWC/2025_7K) and the [weekly stats spreadsheet](https://docs.google.com/spreadsheets/d/19eQbdrFbndGIEFGXeZb5uAwt7NWf9iYJMNeSepbwuZs?rm=minimal)
 
-—RandomeLoL
+—RandomeLoL, _Kobii, \[GB\]yobrevelc, Maxus, SurfChu85
