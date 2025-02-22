@@ -96,19 +96,19 @@ The 3 Digit World Cup 2025 is run by various community members.
 
 | Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Greece ::{ flag=GR }:: | ![Oceania](img/OC.png) Oceania | Feb 22 (Sat) 10:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=PH }:: Philippines | Feb 22 (Sat) 03:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
 | South Korea ::{ flag=KR }:: | ::{ flag=GB }:: United Kingdom | Feb 22 (Sat) 13:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
-| Austria-Hungary ![Austria-Hungary](img/AH.png) | ::{ flag=FI }:: Finland | Feb 22 (Sat) 16:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
 | France ::{ flag=FR }:: | ::{ flag=BR }:: Brazil | Feb 22 (Sat) 17:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | Feb 22 (Sat) 22:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
 
 ### Sunday, February 23
 
 | Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=PH }:: Philippines | Feb 23 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=RU }:: Russian Federation | Feb 23 (Sun) 17:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=RO }:: Romania | Feb 23 (Sun) 18:00 UTC | [3wc_osub](https://twitch.tv/3wc_osub) | [^winners-bracket] |
+| Greece ::{ flag=GR }:: | ![Oceania](img/OC.png) Oceania | Feb 23 (Sun) 11:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
+| Germany ::{ flag=DE }:: | ::{ flag=RU }:: Russian Federation | Feb 23 (Sun) 15:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
+| Austria-Hungary ![Austria-Hungary](img/AH.png) | ::{ flag=FI }:: Finland | Feb 23 (Sun) 16:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
+| Poland ::{ flag=PL }:: | ::{ flag=RO }:: Romania | Feb 23 (Sun) 17:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | Feb 23 (Sun) 23:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
 
 ## Mappools
 
