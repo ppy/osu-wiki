@@ -101,7 +101,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Divisione e fusione degli slider | ![No][false] | ![Yes][true] |
 | Rotazione dei pattern | ![Sì][true] | ![Sì][true] |
 | Ridimensionamento dei pattern | ![No][false] | ![Sì][true] |
-| Caricamento della beatmap | ![Sì][true] | ![No][false] |
+| Caricamento della beatmap | ![Sì][true] | ![Sì][true] |
 | Storyboard editor | ![Sì][true] | ![No][false] |
 | Compatibilità cross-client | ![Sì][true] | ![Parziale][partial][^incompatibilities] |
 

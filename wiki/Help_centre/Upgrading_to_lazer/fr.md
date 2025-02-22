@@ -105,7 +105,7 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 | Séparation et fusion des sliders | ![Non][faux] | ![Oui][vrai] |
 | Rotation du pattern | ![Oui][vrai] | ![Oui][vrai] |
 | Redimensionnement du pattern | ![Non][faux] | ![Oui][vrai] |
-| Soumission des beatmaps | ![Oui][vrai] | ![Non][faux] |
+| Soumission des beatmaps | ![Oui][vrai] | ![Oui][vrai] |
 | Éditeur de storyboard | ![Oui][vrai] | ![Non][faux] |
 | Compatibilité croisée | ![Oui][vrai] | ![Partiellement][partiel][^incompatibilités] |
 

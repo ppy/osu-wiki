@@ -101,7 +101,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
 | Pattern rotation | ![Yes][true] | ![Yes][true] |
 | Pattern resizing | ![No][false] | ![Yes][true] |
-| Beatmap submission | ![Yes][true] | ![No][false] |
+| Beatmap submission | ![Yes][true] | ![Yes][true] |
 | Storyboard editor | ![Yes][true] | ![No][false] |
 | Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 

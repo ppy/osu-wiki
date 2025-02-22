@@ -105,7 +105,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Aufsplittung und Zusammenführung von Slidern | ![Nein][false] | ![Ja][true] |
 | Pattern-Rotation | ![Ja][true] | ![Ja][true] |
 | Pattern-Skalierung | ![Nein][false] | ![Ja][true] |
-| Beatmap-Einreichung | ![Ja][true] | ![Nein][false] |
+| Beatmap-Einreichung | ![Ja][true] | ![Ja][true] |
 | Storyboard-Editor | ![Ja][true] | ![Nein][false] |
 | Cross-Kompatibilität | ![Ja][true] | ![Teilweise][partial][^incompatibilities] |
 
