@@ -38,7 +38,7 @@ The osu!mania 7K World Cup 2025 offered a $1,200 cash prize pool and limited-edi
 
 ## Organisation
 
-The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!mania 7K World Cup 2025 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
