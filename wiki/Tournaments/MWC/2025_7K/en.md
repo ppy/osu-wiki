@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2025 banner](img/mwc7k2025-banner.jpg)
 
-The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the ninth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the ninth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **osu!mania 7K World Cup 2025** (***MWC 7K 2025***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 7K World Cup 2025 offers a $1,200 cash prize pool and limited-edition merch.
+The osu!mania 7K World Cup 2025 offered a $1,200 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -109,21 +109,9 @@ The osu!mania 7K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a81f6e7fddd9345702ba0d0fb75f759).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 22 February 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250222T120000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-grand-finals] |
-
-### Sunday, 23 February 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Grand Finals | showmatch | [Feb 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250223T100000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Feb 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250223T120000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250223T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/mwc7k2025-podium.jpg "MWC 7K 2025 podium")
 
 ## Mappools
 
@@ -288,6 +276,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 8. [seatrus - Hekikuu no Yakusoku (Critical\_Star) \[Stage 8: Azure\]](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 22 February 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **China** ::{ flag=CN }:: | **7** | 5 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/117264672) | [#1](https://www.twitch.tv/videos/2388073702) |
+
+Sunday, 23 February 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| All-stars Red | **7** | 6 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/117278897) | [#1](https://www.twitch.tv/videos/2388967134?t=0h4m44s) |
+| **South Korea** ::{ flag=KR }:: | **7** | 0 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/117278897) | [#1](https://www.twitch.tv/videos/2388967134?t=2h3m39s) |
 
 ### Finals
 
@@ -616,8 +619,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^losers-grand-finals]: Losers bracket Grand Finals match
-[^showmatch]: Best performing MWC7K 2025 players from eliminated teams (All-stars)
-[^grand-finals]: Grand Finals — final matchup depends on the Losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
