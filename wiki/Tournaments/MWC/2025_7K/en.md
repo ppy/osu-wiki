@@ -289,7 +289,7 @@ Sunday, 23 February 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| All-stars Red | **7** | 6 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/117278897) | [#1](https://www.twitch.tv/videos/2388967134?t=0h4m44s) |
+| **All-stars Red** | **7** | 6 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/117278897) | [#1](https://www.twitch.tv/videos/2388967134?t=0h4m44s) |
 | **South Korea** ::{ flag=KR }:: | **7** | 0 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/117278897) | [#1](https://www.twitch.tv/videos/2388967134?t=2h3m39s) |
 
 ### Finals
