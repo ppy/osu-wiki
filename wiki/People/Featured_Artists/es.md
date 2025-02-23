@@ -126,6 +126,7 @@ La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |
 | ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |
+| ::{ flag=PH }:: [weary2007](https://osu.ppy.sh/users/31900423) | [WEARY](https://osu.ppy.sh/beatmaps/artists/460) |
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (miembro de) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
