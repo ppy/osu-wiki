@@ -117,6 +117,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: China | ::{ flag=ID }:: Indonesia |
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: South Korea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States |
 | 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=BR }:: Brazil |
+| [3 Digit World Cup 2025](3WC/2025) | 2024-12-28 | 2025-03-16 | *TBD* | *TBD* | *TBD* |
 
 #### 4 Digit World Cup
 
@@ -127,7 +128,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | 4 Digit World Cup 2020 | 2020-06-28 | 2020-09-28 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States | ::{ flag=RU }:: Russian Federation |
 | 4 Digit World Cup 2022 | 2021-12-05 | 2022-03-06 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapore | ::{ flag=CA }:: Canada |
 | 4 Digit World Cup 2023 | 2023-05-07 | 2023-07-23 | ::{ flag=US }:: United States | ::{ flag=CA }:: Canada | ::{ flag=TH }:: Thailand |
-| [4 Digit World Cup 2024](4WC/2024) | 2024-05-04 | 2024-06-16 | *TBD* | *TBD* | *TBD* |
+| [4 Digit World Cup 2024](4WC/2024) | 2024-05-04 | 2024-06-16 | ::{ flag=US }:: United States | ::{ flag=CA }:: Canada | ::{ flag=CN }:: China |
 
 #### Aetherian's Summer Singles
 
@@ -704,6 +705,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Indonesia Convert Cup 2020](ICC/2020) | 2020-09-13 | 2020-11-08 | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
 | [Indonesia Convert Cup 2021](ICC/2021) | 2021-08-16 | 2021-10-11 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 | [Indonesia Convert Cup Open 2022](ICC/2022) | 2022-10-10 | 2022-11-27 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
+
+#### International Convert Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [International Convert Cup 2024](IntlConvertCup/2024) | 2024-11-25 | 2025-02-02 | naruto when (::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149)) | common madcin L (::{ flag=PL }:: [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506), ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534)) | Red Hawk (::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283), ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439) |
 
 #### osu! Cup Master
 

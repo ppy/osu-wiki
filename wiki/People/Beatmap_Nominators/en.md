@@ -6,9 +6,15 @@ tags:
 
 # Beatmap Nominators
 
-*See also: [Beatmap Nominator Rules](Rules), [Expectations for Beatmap Nominators](Expectations), [General Information for Beatmap Nominators](General_Information), and [Becoming a Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+The **Beatmap Nominators** (***BN***) is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). They are distinguished by their purple user title and [user group](/wiki/People/User_groups) badge that reads `BN`.
 
-The **Beatmap Nominators** (***BN***) is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). They are distinguished by their purple user title and [user group](/wiki/People/User_group) badge that reads `BN`.
+## Related articles
+
+- [Beatmap Nominator Rules](Rules)
+- [Expectations for Beatmap Nominators](Expectations)
+- [General Information for Beatmap Nominators](General_Information)
+- [Becoming a Beatmap Nominator](Becoming_a_Beatmap_Nominator)
+- [Beatmap Nominator events](/wiki/Community/Beatmap_Nominator_events)
 
 ## Roles and responsibilities
 
@@ -42,7 +48,7 @@ Beatmap Nominators are granted the following benefits:
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been a BN.
   ![1 year BN badge](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "1 year BN badge") ![2 year BN badge](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "2 year BN badge") ![3 year BN badge](https://assets.ppy.sh/profile-badges/BN3y.png "3 year BN badge") ![4 year BN badge](https://assets.ppy.sh/profile-badges/BN4y.png "4 year BN badge") ![5 year BN badge](https://assets.ppy.sh/profile-badges/BN5y.png "5 year BN badge") ![6 year BN badge](https://assets.ppy.sh/profile-badges/BN6y.png "6 year BN badge") ![7 year BN badge](https://assets.ppy.sh/profile-badges/BN7y.png "7 year BN badge") ![8 year BN badge](https://assets.ppy.sh/profile-badges/BN8y.png "8 year BN badge") ![9 year BN badge](https://assets.ppy.sh/profile-badges/BN9y.png "9 year BN badge") ![10 year BN badge](https://assets.ppy.sh/profile-badges/BN10y.png "10 year BN badge")
 - **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge awarded when reaching certain nomination count milestones.
-  ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 nominations badge") ![1500 nominations badge](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 nominations badge") ![2000 nominations badge](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 nominations badge")
+  ![100 nominations badge](https://assets.ppy.sh/profile-badges/100_noms.png "100 nominations badge") ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 nominations badge") ![1500 nominations badge](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 nominations badge") ![2000 nominations badge](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 nominations badge")
 - **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: Beatmap Nominators who perform exceptionally at their craft are eligible to be awarded the yearly Elite Nominator [user title](/wiki/Community/User_title).
 
 ## Team members

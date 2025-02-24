@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: a8bd2ac78f3cf5949aa60b4d2d8d8637b22fd994
 tags:
   - tip
   - tips
@@ -10,7 +12,7 @@ tags:
   - pistas
 ---
 
-<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
+<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656/en-es -->
 
 # Consejos del menú
 
@@ -91,8 +93,6 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 - Procura que los deslizadores no se superpongan sobre otros deslizadores o sobre ellos mismos.
 
 ## osu!(lazer)
-
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
 
 Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
