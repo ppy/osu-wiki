@@ -117,6 +117,7 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
   6. [Terminal 11 - The Ever Increasing Death Toll of Birds In My Life (Pizza69) [Extreme]](https://osu.ppy.sh/beatmapsets/1802944#mania/3697102)
   7. [Datach'i - LaByRa (Phil) [Thanatopsis 1.05x (208bpm)]](https://osu.ppy.sh/beatmapsets/2055649#mania/4295387)
   8. [Monster Siren Records - Arsonist (elexire) [Renegade (Cut)]](https://osu.ppy.sh/beatmapsets/2329178#mania/4994461)
+- Hybrid
   1. [Rish feat. Choko - Punai Punai Sensou (V1do-) [Boin Boin]](https://osu.ppy.sh/beatmapsets/2329229#mania/4994590)
   2. [t+pazolite & Sakuzyo - Silentphobia (Uncut Edition) (H4chyk0) [Finale: Cataclysm]](https://osu.ppy.sh/beatmapsets/2329230#mania/4994591)
   3. [Ichika Nito feat. Feryquitous - Metaphor (ImperialTrinity) [Expert | Ethereal Resonance]](https://osu.ppy.sh/beatmapsets/2329261#mania/4994642)
@@ -128,7 +129,6 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
   5. [-MSR/Adam Gubman/Holly Sedillos - Awaken (Nepijin) [SPALTER PLEASE SAVE ME]](https://osu.ppy.sh/beatmapsets/2329267#mania/4994652)
 - Tiebreaker
   1. **[megaskzm - Pathos (myucchii) [Sentient Sorrow]](https://osu.ppy.sh/beatmapsets/2329317#mania/4994803)**
-
 
 ### Finals
 
@@ -439,4 +439,3 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^losers-bracket]: Losers bracket Grand Finals bracket match.
 [^qualifiers-seeding]: Average rank between the 5 maps played during the Qualifiers stage.
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two Players have the same average rank in their Qualifiers result.
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches.
