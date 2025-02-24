@@ -16,7 +16,7 @@ The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) is a 1v1, do
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2024-12-27 (20:00 CLST) / 2025-01-12 (20:00 CLST) |
+| Registration phase | 2024-12-27 (21:00 CLST) / 2025-01-12 (21:00 CLST) |
 | Qualifier showcase | 2025-01-19 |
 | Qualifier stage | 2025-01-25/2025-01-26 |
 | Round of 16 | 2025-02-01/2025-02-02 |
@@ -87,26 +87,48 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 | 23 | ::{ flag=CL }:: [YeaaBoiii](https://osu.ppy.sh/users/14630452) |
 | 24 | ::{ flag=CL }:: [labotx](https://osu.ppy.sh/users/12434346) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, February 22
-
-| Red Player | Blue Player | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: Horuszed | Feb 22 (Sat) 19:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
-| kuraaaFangirl ::{ flag=CL }:: | ::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 20:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
-| b3njvv2 ::{ flag=CL }:: | ::{ flag=CL }:: Anterex | Feb 22 (Sat) 22:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^winners-bracket] |
-
-### Sunday, February 23
+### Saturday, March 01
 
 | Red Player | Blue Player | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: kuraaaFangirl | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
-| Ogata Kanna ::{ flag=CL }:: | ::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
-| Horuszed ::{ flag=CL }:: | ::{ flag=CL }:: kuraaaFangirl | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
-| Horuszed ::{ flag=CL }:: | ::{ flag=CL }:: Hikikomori | Feb 22 (Sat) 16:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^potential-match] |
+| b3njvv2 ::{ flag=CL }:: | ::{ flag=CL }:: Ogata Kanna | Mar 01 (Sat) 18:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
+
+### Sunday, March 02
+
+| Red Player | Blue Player | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| Anterex ::{ flag=CL }:: | ::{ flag=CL }:: b3njvv2 | Mar 02 (Sun) 20:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^grand-finals] |
+| Anterex ::{ flag=CL }:: | ::{ flag=CL }:: Ogata Kanna | Mar 02 (Sun) 20:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^grand-finals] |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (209 MB)](https://drive.usercontent.google.com/download?id=1N0kiPalXmwbn7ABcv21cpjWeW_h97qNx&export=download&authuser=0)**
+
+- Rice
+  1. [Yuaru - Asu no Yozora Shoukaihan (Miaurichesu) [melancholy 1.05x]](https://osu.ppy.sh/beatmapsets/2329282#mania/4994677)
+  2. [KEMOMIMI EDM SQUAD - Breakcore Strikes Back (Smokydoh) [chicken why v2 // MCLT Edit [1.075]]](https://osu.ppy.sh/beatmapsets/2329144#mania/4994389)
+  3. [LV.4 feat. Chiaki Iwasaki - B.O.L. ([GB]Oceanus) [Exigent (edit)]](https://osu.ppy.sh/beatmapsets/2329174#mania/4994454)
+  4. [Anubasu-anubasu remixed by CELLON - The island of albatross -8bit Style RMX- (MyZterioN-) [awe 1.1x (165bpm)]](https://osu.ppy.sh/beatmapsets/1996250#mania/4148831)
+  5. [Sillot - Dear Myuka (H4chyk0) [[MCLT Gran Final: myucchii vs [GS]Myuka]]](https://osu.ppy.sh/beatmapsets/2329236#mania/4994599)
+  6. [Terminal 11 - The Ever Increasing Death Toll of Birds In My Life (Pizza69) [Extreme]](https://osu.ppy.sh/beatmapsets/1802944#mania/3697102)
+  7. [Datach'i - LaByRa (Phil) [Thanatopsis 1.05x (208bpm)]](https://osu.ppy.sh/beatmapsets/2055649#mania/4295387)
+  8. [Monster Siren Records - Arsonist (elexire) [Renegade (Cut)]](https://osu.ppy.sh/beatmapsets/2329178#mania/4994461)
+  1. [Rish feat. Choko - Punai Punai Sensou (V1do-) [Boin Boin]](https://osu.ppy.sh/beatmapsets/2329229#mania/4994590)
+  2. [t+pazolite & Sakuzyo - Silentphobia (Uncut Edition) (H4chyk0) [Finale: Cataclysm]](https://osu.ppy.sh/beatmapsets/2329230#mania/4994591)
+  3. [Ichika Nito feat. Feryquitous - Metaphor (ImperialTrinity) [Expert | Ethereal Resonance]](https://osu.ppy.sh/beatmapsets/2329261#mania/4994642)
+- Long Note
+  1. [KAF - Montage (Hylotl) [Cinematic]](https://osu.ppy.sh/beatmapsets/2329101#mania/4994314)
+  2. [Hino Isuka - Dreamin' attraction!! ([Crz]Crysarlene) [Sidonia [1.1x Rate]]](https://osu.ppy.sh/beatmapsets/2006864#mania/4186382)
+  3. [asteria - i didn't need you anyway (myucchii) [farewell (edit)]](https://osu.ppy.sh/beatmapsets/2231477#mania/4993235)
+  4. [Culprate - Beast (Vorso Remix) ([Crz]Crysarlene) [Excelsior]](https://osu.ppy.sh/beatmapsets/2230642#mania/4733962)
+  5. [-MSR/Adam Gubman/Holly Sedillos - Awaken (Nepijin) [SPALTER PLEASE SAVE ME]](https://osu.ppy.sh/beatmapsets/2329267#mania/4994652)
+- Tiebreaker
+  1. **[megaskzm - Pathos (myucchii) [Sentient Sorrow]](https://osu.ppy.sh/beatmapsets/2329317#mania/4994803)**
+
 
 ### Finals
 
@@ -218,6 +240,24 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
   2. [Yuikonnu - Genjitsu Game (Logan636) [Stage 5: Pursuit]](https://osu.ppy.sh/beatmapsets/2310746#mania/4943345)
 
 ## Match results
+
+### Finals
+
+Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1sdBSTCFOd8dz-m2BjbqKU2sBu-1rUWjsD7hbDRfUBrg).
+
+Saturday, 22 February 2025:
+
+| Player A |  |  | Player B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| b3njvv2 ::{ flag=CL }:: | 3 | **7** | ::{ flag=CL }:: Anterex | [#1](https://osu.ppy.sh/community/matches/117271579) | [#1](https://www.twitch.tv/videos/2389555020) |
+| **Ogata Kanna** ::{ flag=CL }:: | **7** | 6 | ::{ flag=CL }:: Horuszed | [#1](https://osu.ppy.sh/community/matches/117272342) | [#1](https://www.twitch.tv/videos/2389555016) |
+| kuraaaFangirl ::{ flag=CL }:: | 3 | **7** | ::{ flag=CL }:: **Hikikomori** | [#1](https://osu.ppy.sh/community/matches/117273169) | [#1](https://www.twitch.tv/videos/2389555018) |
+
+Sunday, 23 February 2025:
+
+| Player A |  |  | Player B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Ogata Kanna** ::{ flag=CL }:: | **7** | 2 | ::{ flag=CL }:: Hikikomori | [#1](https://osu.ppy.sh/community/matches/117284604) | [#1](https://www.twitch.tv/videos/2389556997) |
 
 ### Semifinals
 
@@ -395,8 +435,8 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Extra
 
-[^winners-bracket]: Winners' bracket match.
-[^losers-bracket]: Losers' bracket match.
+[^grand-finals]: Grand Finals — final matchup depends on the Losers bracket Grand Finals match
+[^losers-bracket]: Losers bracket Grand Finals bracket match.
 [^qualifiers-seeding]: Average rank between the 5 maps played during the Qualifiers stage.
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two Players have the same average rank in their Qualifiers result.
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches.
