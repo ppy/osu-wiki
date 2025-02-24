@@ -36,6 +36,8 @@ The osu!mania 7K World Cup 2025 offered a $1,200 cash prize pool and limited-edi
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.png "MWC 7K 2025 winner badge") ![](img/badge-2nd.png "MWC 7K 2025 2nd-place badge") ![](img/badge-3rd.png "MWC 7K 2025 3rd-place badge")
+
 ## Organisation
 
 The osu!mania 7K World Cup 2025 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
@@ -277,6 +279,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/7a8
 
 ## Match results
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1iNT1gBJjyOsokVlo_Fn2G8pynLQ56hHLuruCCymDYQA?rm=minimal).
+
 ### Grand Finals
 
 Saturday, 22 February 2025:
@@ -289,7 +293,7 @@ Sunday, 23 February 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **All-stars Red** | **7** | 6 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/117278897) | [#1](https://www.twitch.tv/videos/2388967134?t=0h4m44s) |
+| **All-stars Red** | **7** | 6 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/117277946) | [#1](https://www.twitch.tv/videos/2388967134?t=0h4m44s) |
 | **South Korea** ::{ flag=KR }:: | **7** | 0 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/117278897) | [#1](https://www.twitch.tv/videos/2388967134?t=2h3m39s) |
 
 ### Finals
