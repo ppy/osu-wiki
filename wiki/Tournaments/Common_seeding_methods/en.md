@@ -135,7 +135,7 @@ There are many factors that go into choosing a seeding method for a tournament. 
 
 ### Comparing the most commonly used methods
 
-For reference, below is a list of qualifier seeding methods used in the official osu! World Cups (which are team tournaments). Note that older tournaments often instead directly began with a Group Stage, choosing the qualifying teams by the osu! website's country rank.
+For reference, below is a list of Qualifier seeding methods used in the official osu! World Cups (which are team tournaments). Note that older tournaments often instead directly began with a Group Stage, choosing the qualifying teams by the osu! website's country rank.
 
 |  | osu! | osu!taiko | osu!catch | osu!mania 4K | osu!mania 7K |
 | --: | :-: | :-: | :-: | :-: | :-: |
