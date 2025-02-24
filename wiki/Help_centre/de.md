@@ -7,8 +7,6 @@ tags:
   - missing
   - Hilfe
   - Fehler
-outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Hilfecenter
@@ -26,6 +24,7 @@ Wähle den Abschnitt, der deinem Problem am meisten ähnelt, damit du eine passe
 | [Mapping und Editor](/wiki/Help_centre/Beatmapping) | Deine Beatmaps pflegen, Beatmap-Eigentümerschaft, Beatmap-Slots |
 | [Client](/wiki/Help_centre/Client) | Fehler und Abstürze, Spielverlauf, Verbindung, Leistung |
 | [Installation und Registrierung](/wiki/Help_centre/Installation_and_registration) | Das Spiel herunterladen, einen Account erstellen |
+| [Stummschaltungen](/wiki/Help_centre/Silences) | Alles über Stummschaltungen: Übersicht, Beschwerdeverfahren und häufige Gründe |
 | [Store](/wiki/Help_centre/Store) | Merchandise |
 | [Turniersperren](/wiki/Help_centre/Tournament_bans) | Alles über Turniersperren: Übersicht, häufige Gründe und Auszeiten |
 | [Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migration zur [nächsten Hauptversion](/wiki/Client/Release_stream/Lazer) von osu! |
