@@ -17,7 +17,7 @@ Conversely, all other songs in this list are not officially licensed by the game
 
 ## Statistics
 
-There is currently a total of **863** documented songs made within osu!.
+There is currently a total of **864** documented songs made within osu!.
 
 ![Graph of bespoke music over time](img/bespoke-music-over-time.png?20250226)
 
@@ -410,7 +410,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 ### Community-run tournament releases
 
-#### ![](/wiki/shared/mode/osu.png) 3 Digit World Cup 2025
+#### ![](/wiki/shared/mode/osu.png) [3 Digit World Cup 2025](/wiki/Tournaments/3WC/2025)
 
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
@@ -1718,7 +1718,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=mFkbG48-KI0 "YouTube") |  | DeformedEutopia (Nirotiy + AiSS) - Chong Xiao - The Multitude of Empyrean - | [#1](https://osu.ppy.sh/beatmapsets/2133204) | Grand Finals tiebreaker |
 
-#### ![](/wiki/shared/mode/mania.png) osu!mania 7K Chinese National Cup 2025
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 7K Chinese National Cup 2025](https://osu.ppy.sh/community/forums/topics/2001949)
 
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
@@ -1730,6 +1730,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=w0Hs3CHB7yU "YouTube") |  | megaszkm - Pathos | [#1](https://osu.ppy.sh/beatmapsets/2329317) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/miriqo/before-ascent "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vSiOTyGwi1Q "YouTube") |  | MIRIQO - Before Ascent | [#1](https://osu.ppy.sh/beatmapsets/2314271) | Round of 16 RC2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RSfJMVv1ufw "YouTube") |  | Sillot - Dear Myuka | [#1](https://osu.ppy.sh/beatmapsets/2329236) | Grand Finals RC5 |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
 
