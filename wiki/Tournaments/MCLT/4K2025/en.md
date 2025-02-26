@@ -10,7 +10,7 @@ tags:
 
 ![MCLT 4K 2025 banner](img/banner.jpg)
 
-The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) is a 1v1, double-elimination, chilean only open rank osu! tournament hosted by ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) and ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085). It is the first instalment of the osu!mania 4K Chilean National Cup.
+The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) is a 1v1, double-elimination, Chilean-only open rank osu! tournament hosted by ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) and ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085). It is the first instalment of the osu!mania 4K Chilean National Cup.
 
 ## Tournament schedule
 
@@ -48,7 +48,7 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 | Commentator | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [-Ryu-](https://osu.ppy.sh/users/8440939), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626) |
 | Referee | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CL }:: [Bastaku](https://osu.ppy.sh/users/14351782), ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=AR }:: [ottenst](https://osu.ppy.sh/users/13488325), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698) |
 | Technical | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308) |
-| Design Team | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=CL }:: [SmilingKey](https://osu.ppy.sh/users/10659178), ::{ flag=PH }:: [DD1amond](https://osu.ppy.sh/users/14705051) |
+| Design team | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=CL }:: [SmilingKey](https://osu.ppy.sh/users/10659178), ::{ flag=PH }:: [DD1amond](https://osu.ppy.sh/users/14705051) |
 
 ## Links
 
@@ -388,7 +388,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Finals and Grand Finals: 17 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all beatmaps are [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Fade In](/wiki/Gameplay/Game_modifier/Fade_In), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), and [Mirror](/wiki/Gameplay/Game_modifier/Mirror).
-6. The tiebreaker will be played under FreeMod conditions.
+6. The tiebreaker will be played under Free Mod conditions.
 
 ### Qualifiers
 
@@ -401,33 +401,33 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### After Qualifiers
 
 1. On Sunday of the qualifiers week, at a previously announced time, the qualifier results and designated matches will be published.
-2. If players qualify, they will advance to the double-elimination bracket stage, meaning that losing your first match does not eliminate you from the tournament. Starting from Quarterfinals, if you are in the loser bracket, you will have to play two matches per week. If you lose in the losers bracket, players will get eliminated from the tournament.
+2. If players qualify, they will advance to the double-elimination bracket stage, meaning that losing your first match does not eliminate you from the tournament. Starting from Quarterfinals, if you are in the losers' bracket, you will have to play two matches per week. If you lose in the losers' bracket, players will get eliminated from the tournament.
 
 ### Matches
 
 1. A room will be created, and players will be invited 15 minutes before the match, with the format: `MCLT4K2025: {(Player 1)} vs {(Player 2)}`
 2. Each match will be played using Score V2 and Team Vs format.
 3. There will be no warm-up maps, following the same format as MWC matches.
-4. Matches (with minor exceptions) will be played over the weekend (Friday to Sunday) at the times specified in the Main Sheet. Players are allowed to request reschedules up until a deadline announced in the tournament's Discord server.
-5. The schedules for each match will be announced on Sundays each week in the Main Sheet.
+4. Matches (with minor exceptions) will be played over the weekend (Friday to Sunday) at the times specified in the main sheet. Players are allowed to request reschedules up until a deadline announced in the tournament's Discord server.
+5. The schedules for each match will be announced on Sundays each week in the main sheet.
 6. Both players must be present in the room within a maximum of 10 minutes after the match's start time. If a player does not show up within this time, the opponent will be awarded the victory.
    - *If neither player shows up, they will be allowed to schedule an emergency reschedule within the same day.*
    - *If no suitable time can be found, the player with the higher seeding will advance.*
-7. Once both players are present, the referee will ask them to perform !roll. The roll winner can choose between first protect or first ban. 
+7. Once both players are present, the referee will ask them to perform `!roll`. The roll winner can choose between first protect or first ban. 
    - If the roll winner (Player A) chooses first protect, the order will be:
      - Protect A - Protect B - Ban B - Ban A - Pick A.
    - If the roll winner chooses first ban instead:
      - Protect B - Protect A - Ban A - Ban B - Pick A.
 8. After the rolls, players can freely choose their maps.
-9. Players have 2 minutes to select each map and ready up in the lobby. If a player exceeds this limit, the referee may issue a warning and enforce a tactical timeout if necessary. If this happens multiple times, the referee may perform a !roll to randomly select a map. In extreme cases, hosts and referees may take stricter actions.
+9. Players have 2 minutes to select each map and ready up in the lobby. If a player exceeds this limit, the referee may issue a warning and enforce a tactical timeout if necessary. If this happens multiple times, the referee may perform a `!roll` to randomly select a map. In extreme cases, hosts and referees may take stricter actions.
 10. Each round will require a certain amount of points in order to win the match, those being:
     - Round of 16: First to 5 points (BO9)
     - Quarterfinals and Semifinals: First to 6 points (BO11)
     - Finals and Grand Finals: First to 7 points (BO13)
 11. Each player has one tactical timeout, which can only be used during their own pick. This allows the player to request an additional 2 minutes from the referee, on top of the regular 2-minute pick time.
 12. In the rare case of a score tie on a map, the map will be replayed. If a tie occurs again, the map will continue to be replayed until a winner is determined.
-13. If a match tie occurs, the Tiebreaker map will be played automatically. If both players agree, an additional tactical timeout can be used before the Tiebreaker.
-14. Only the following mods are allowed during matches: Hidden (HD), Fade In, Flashlight (FL) and Mirror. All other mods **are strictly prohibited.**
+13. If a match tie occurs, the tiebreaker map will be played automatically. If both players agree, an additional tactical timeout can be used before the tiebreaker.
+14. Only the following mods are allowed during matches: Hidden (HD), Fade In, Flashlight (FL) and Mirror. All other mods **are strictly prohibited**.
 15. A rematch can be requested if a player experiences technical issues within the first 30 seconds of a map. The referee may deny this request if deemed unnecessary.
 16. If a player disconnects after the first 30 seconds, their opponent will win the point, unless:
     - A VOD, Twitch Stream or liveplay is provided showing the complete playthrough and result.
@@ -435,7 +435,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Extra
 
-[^grand-finals]: Grand Finals — final matchup depends on the Losers bracket Grand Finals match
-[^losers-bracket]: Losers bracket Grand Finals bracket match.
+[^grand-finals]: Grand Finals — final matchup depends on the losers' bracket Grand Finals match.
+[^losers-bracket]: Losers' bracket Grand Finals bracket match.
 [^qualifiers-seeding]: Average rank between the 5 maps played during the Qualifiers stage.
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two Players have the same average rank in their Qualifiers result.
