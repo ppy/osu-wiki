@@ -356,6 +356,277 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 5. [Chroma - To the Milky Way [Stage 5: Pemimpi]](https://osu.ppy.sh/b/4914475)
 6. [Sasuke Haraguchi feat. Choten-chan - Cubibibibism [Stage 6: Kawakawa]](https://osu.ppy.sh/b/4914477)
 
+### Wildcard
+  
+- GM1 | **[Unduh mappack babak ini di sini! (732 MB)](https://drive.google.com/file/d/1qIb5uJF9fpckyFF4HwBcOccBSvnfJJ1c/view?usp=sharing)**  
+
+1. [rei sirose - Lost Umbrella (Cut Ver.) [STEPDWI's Deluge]](https://osu.ppy.sh/b/3583021) dikirim oleh ocaibo
+2. [callasoiled - ARTIFICALIMAGE (Cut Ver.) [WHAT IS NOT REAL CANNOT HURT YOU]](https://osu.ppy.sh/b/4499441) dikirim oleh [ Zenith ]
+3. [GTA feat. Sam Bruno - Red Lips (Mendus Remix) [Hard (SV)]](https://osu.ppy.sh/b/1537498) dikirim oleh Raeaw
+4. [Gram & Camellia - Ragnarok -cut- [Universe Collapse (Zero)]](https://osu.ppy.sh/b/2825299) dikirim oleh MightyTech
+5. [ShinRa-Bansho - signal flare [lonely noodles [1,3x Rate]]](https://osu.ppy.sh/b/3489580) dikirim oleh skadidragen
+6. [Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg) [I'm more of a dog person tbh]](https://osu.ppy.sh/b/4656541) dikirim oleh -Nandakai-
+7. [Lime - Stargazer [Astral [1,1x Rate]]](https://osu.ppy.sh/b/1975564) dikirim oleh Remuu
+8. [katagiri - ch3rry [Sar4CORE! [1.2x Rate]]](https://osu.ppy.sh/b/2827577) dikirim oleh lisachandra
+9. [Smigonaut - Shower Beer [Shower Thought]](https://osu.ppy.sh/b/3774021) dikirim oleh ChocoCoki-
+10. [Zimba TS - The Vicious Cycle of Cat [omg the chef cat cooked]](https://osu.ppy.sh/b/4747347) dikirim oleh Prinow6
+11. [cygnus - Tree of Misery [Agony]](https://osu.ppy.sh/b/4766759) dikirim oleh yeedinobro
+12. [Mikito-P - Shoujorei [Ghost]](https://osu.ppy.sh/b/3779996) dikirim oleh Aimaina
+13. [COOL&CREATE - Lunatic Eyes ~ Invisible Full Moon (Cut Ver.) [Blood Moon 1.35x (270bpm)]](https://osu.ppy.sh/b/3889548) dikirim oleh NizT
+14. [Random dude on tiktok - Alight Motion Edit [Jedag Jedug [1.3x Rate]]](https://osu.ppy.sh/b/3708296) dikirim oleh KinoJourney
+15. [Camellia - KillerBeast [hunter (sv)]](https://osu.ppy.sh/b/2160748) dikirim oleh Tsurumaki_
+16. [Chroma - I [UNEXPECTED LOVE]](https://osu.ppy.sh/b/4734213) dikirim oleh Az-u
+17. [DJ Mars - Lemon Tree (Lemon Dance) [Challenge]](https://osu.ppy.sh/b/2690149) dikirim oleh [LS] akarii
+18. [Camellia - WYSI (When You See It) [OverCharge]](https://osu.ppy.sh/b/3104321) dikirim oleh MrFlinxy
+19. [Sujak + Jakads (feat. arpia97) - Vibro on Jakads's belly fat [electric tickle]](https://osu.ppy.sh/b/3148213) dikirim oleh askL330
+20. [Camellia - overcomplexification ("Quaternion" Long ver.) [convolution (cut) [0.95x Rate]]](https://osu.ppy.sh/b/4303205) dikirim oleh SnakesYxle
+21. [Jack Stauber - Dinner Is Not Over [Bon Appetit]](https://osu.ppy.sh/b/4138217) dikirim oleh _yea
+22. [katagiri - Angel's Salad [Duck 00: Tenshi Duck]](https://osu.ppy.sh/b/4702352) dikirim oleh My Angel Chen
+23. [Haraguchi Sasuke - Hito mania [SV mania]](https://osu.ppy.sh/b/4404921) dikirim oleh shidqidragon
+24. [Ariabl'eyeS - Raison d'etre [The Essence of Existence]](https://osu.ppy.sh/b/4808336) dikirim oleh Neptunia-chan
+25. [Various Artists - Dan ~ REFORM ~ Finalmaps [Laur - Exitium ~ Eta Tech ~]](https://osu.ppy.sh/b/4490038) dikirim oleh [LS]Robi
+26. [Akaza Akari(CV:Mikami Shiori) - Watashi, Shuyaku no Akaza Akari desu [4K VIBROAKARIN]](https://osu.ppy.sh/b/1344355) dikirim oleh AzusaNakano2
+27. [Yu-dachi - Shukufuku no Shikisai wa Omoi Musubu Kimitachi made [MAXIMUM]](https://osu.ppy.sh/b/4268617) dikirim oleh lyoneljose
+28. [Utatane Yasumi (CV: Itou Miku) & Yuugure Yuuhi (CV: Toyota Moe) - STAND BY YOU (TV Size) [CS' BE WITH YOU]](https://osu.ppy.sh/b/4655981) dikirim oleh Napeace
+29. [KOAN Sound - Traverse [oan]](https://osu.ppy.sh/b/3866380) dikirim oleh D_ana
+30. [EmoCosine - This Club is Not 4 U (short ver.) [Stage 1: Gatekeep]](https://osu.ppy.sh/b/3729870) dikirim oleh EterEnvy
+31. [Hana - Sakura no Uta [Ruruchan!!]](https://osu.ppy.sh/b/1343374) dikirim oleh [ -Asriel- ]
+32. [Giga-P - BRING IT ON [BRING THE LNS ON]](https://osu.ppy.sh/b/2736010) dikirim oleh -Aji
+33. [CHiCO with HoneyWorks - Minikui ikimono [Otherworld Lily]](https://osu.ppy.sh/b/3812318) dikirim oleh IzKun-
+34. [Giga-P - BRING IT ON [BRING THE LNS ON]](https://osu.ppy.sh/b/2736010) dikirim oleh ZhasK_667
+35. [LeaF - ATHAZA [ASVZA]](https://osu.ppy.sh/b/2657548) dikirim oleh [-Elaina-]
+36. [Various Artists - Anto's High BPM Dense Chordjack Pack 16 [(Anto_) Sugar Loli 0.85x]](https://osu.ppy.sh/b/4736168) dikirim oleh \_reggie\_
+37. [Lil Boom - Already Dead [Deadman]](https://osu.ppy.sh/b/2272979) dikirim oleh tentrempm
+38. [sakuraburst - serotonin [sleep, my child]](https://osu.ppy.sh/b/4702316) dikirim oleh Catzu
+39. [MisomyL - Catalinesie [Catalyst of Amnesia]](https://osu.ppy.sh/b/3927353) dikirim oleh ARDHANA
+40. [MUZZ - Nemesis (Cut Ver.) [Musuh Terlihat]](https://osu.ppy.sh/b/4527113) dikirim oleh lucknut
+41. [Mr Rock - wii theme but its the worst thing you will ever hear [error.exe]](https://osu.ppy.sh/b/1894828) dikirim oleh Molten Cheese
+42. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) [fn(top=true,sv=false)]](https://osu.ppy.sh/b/3204544) dikirim oleh dogethedoge25
+43. [DJ SHARPNEL - Kaze no Naka no Subaru ~Hyougenshatachi~ [subarushii]](https://osu.ppy.sh/b/3325116) dikirim oleh TheLegend3RD
+44. [Sharks & Chime - Water Elemental [Stage 3: Stormbound]](https://osu.ppy.sh/b/3957466) dikirim oleh spectator_boi
+45. [Risshuu feat. Choko - Take [Beyond]](https://osu.ppy.sh/b/2847100) dikirim oleh KafuuChlno
+46. [korea - oronaminC [korean vibro]](https://osu.ppy.sh/b/1152244) dikirim oleh RaffCo
+47. [Angelic Burster - Star Bubble [AngeliChan!!]](https://osu.ppy.sh/b/2641914) dikirim oleh Kyoukary
+48. [Laser Imouto - Prismatix [SMOCMouse [Jumpstream+trill] 1.1x (220bpm) OD8]](https://osu.ppy.sh/b/3687529) dikirim oleh danar mw
+49. [Various Artists - arpia97's Vibro Anthology [Electric Butterfly (ATTang)]](https://osu.ppy.sh/b/3261950) dikirim oleh beethiven
+50. [The Quick Brown Fox - ~ GAMAMA DAN ~ Break (Handhurt Remix) [BREAKBREAKBREAKBREAK]](https://osu.ppy.sh/b/4409616) dikirim oleh ImOyZo
+51. [crafter2011 - keep out! [Myst's OUT!!!]](https://osu.ppy.sh/b/4328936) dikirim oleh FinHazel
+52. [Harumaki Gohan feat. isui - Suisei ni Nareta nara [Starfall]](https://osu.ppy.sh/b/4464482) dikirim oleh MzLord
+53. [MoonDeity - NEON BLADE [level 10 [1.1x Rate]]](https://osu.ppy.sh/b/3666507) dikirim oleh [ Heez ]
+54. [Marmalade butcher - Floccinaucinihilipilification [Grundstucksverkehrsgenehmigungszustandigkeitsubertragungsverordnung]](https://osu.ppy.sh/b/2135894) dikirim oleh Proxae
+55. [Don't Hug Me I'm Scared - The Creativity Song [C'mon, guys. Let's get creative!]](https://osu.ppy.sh/b/1774897) dikirim oleh [Shiroko]
+56. [AiRI - DREAMxSCRAMBLE! [Splash!]](https://osu.ppy.sh/b/2171003) dikirim oleh Lyz-
+57. [Kocchi no Kento - Hai Yorokonde (Magens Remix) feat. Hatsune Miku [Aut0's Another]](https://osu.ppy.sh/b/4824862) dikirim oleh DAENGXicisae-
+58. [Various Artists - Zia's 4K ChordJack Training Pack [DJ TOTTO - Crystalia]](https://osu.ppy.sh/b/3319255) dikirim oleh [-Vanart-]
+59. [Various Artists - arpia97's Vibro Anthology [Electric Butterfly (ATTang)]](https://osu.ppy.sh/b/3261950) dikirim oleh Darrel27
+60. [Siti Badriah - Mama Minta Pulsa (Speed Up Ver.) [Greget]](https://osu.ppy.sh/b/1129049) dikirim oleh Marcille-
+61. [Suicidal Angels - Torment Payback (edited ver.) [Massacre (2020)]](https://osu.ppy.sh/b/4491143) dikirim oleh Violet-
+62. [Aaron Spectre - You Don't Know [It Is a Mystery [1.1x]]](https://osu.ppy.sh/b/3142809) dikirim oleh uThot
+63. [Camellia - Final-Boss-Chan [Stage 4: vs. Mid Boss Aruel]](https://osu.ppy.sh/b/3531225) dikirim oleh Animerge
+64. [Ari Lasso - Penjaga Hati (DJ Asia Remix) [kubayangkan]](https://osu.ppy.sh/b/3626095) dikirim oleh syamisu-
+
+- GM2 | **[Unduh mappack babak ini di sini! (643 MB)](https://drive.google.com/file/d/1vDZ87CPcKZhpxwz88pxCT6OChmbPDH5q/view?usp=sharing)**  
+
+1. [-45 - Reikou Hatsuden [Rapture]](https://osu.ppy.sh/b/3082924) dikirim oleh ocaibo
+2. [dIJe aLoK - Linganguliguli [brainrot]](https://osu.ppy.sh/b/4877346) dikirim oleh [ Zenith ]
+3. [Raimukun - Myths Orbis [Trapezium Cluster]](https://osu.ppy.sh/b/3955346) dikirim oleh Raeaw
+4. [Taylor Swift - The Very First Night (Taylor's Version) [I wish I could fly... 1.4x]](https://osu.ppy.sh/b/4080505) dikirim oleh MightyTech
+5. [Geoxor - Aurora [Dreamy]](https://osu.ppy.sh/b/3966441) dikirim oleh skadidragen
+6. [MisomyL - Catalinesie [Catalyst of Amnesia]](https://osu.ppy.sh/b/3927353) dikirim oleh -Nandakai-
+7. [Slax - Sugar Loli [x1.0]](https://osu.ppy.sh/b/2353484) dikirim oleh Remuu
+8. [Seishun Buta Yarou Cast - Fukashigi no Karte (K@keru Bootleg Remix) [Sar4CORE! [1.2x Rate]]](https://osu.ppy.sh/b/3718967) dikirim oleh lisachandra
+9. [Camellia - ORCA [Orca's Challenge]](https://osu.ppy.sh/b/2984802) dikirim oleh ChocoCoki-
+10. [DJ Majokko Mirakurun - Mafain [Phasmos]](https://osu.ppy.sh/b/3205012) dikirim oleh Prinow6
+11. [Frums - gur yvsr (kari) [(^^)]](https://osu.ppy.sh/b/4766318) dikirim oleh yeedinobro
+12. [Yuuka - Girls' Carnival [<3]](https://osu.ppy.sh/b/3682701) dikirim oleh Aimaina
+13. [siinamota - Shoujo A [Quick and hateful cold [1.35x Rate]]](https://osu.ppy.sh/b/4399288) dikirim oleh NizT
+14. [Yorushika - Yuunagi, Bou, Hana Madoi [Fireworks, Summer Night (LN)]](https://osu.ppy.sh/b/3723959) dikirim oleh KinoJourney
+15. [xKore - Stress [Syncope]](https://osu.ppy.sh/b/1802667) dikirim oleh Tsurumaki_
+16. [Nemune Muni - Time Sleep! (Tartarate Remix) [Tragic Time-freezing Love Extra]](https://osu.ppy.sh/b/4873689) dikirim oleh Az-u
+17. [Icona Pop - I Love It [x1.15]](https://osu.ppy.sh/b/3479387) dikirim oleh [LS] akarii
+18. [tofubeats - CANDYLAND feat. LIZ (Pa's Lam System Remix) [CandyLand]](https://osu.ppy.sh/b/1229992) dikirim oleh MrFlinxy
+19. [Various Artists - Vibro Pack [Vibro Star]](https://osu.ppy.sh/b/1513156) dikirim oleh askL330
+20. [KANKAN - Boost Anima [Overdrive]](https://osu.ppy.sh/b/4756867) dikirim oleh SnakesYxle
+21. [aran - L.F.O [Phase Shift]](https://osu.ppy.sh/b/3173029) dikirim oleh _yea
+22. [Amamiya Kokoro - Kyu-kurarin [>w<]](https://osu.ppy.sh/b/4008773) dikirim oleh My Angel Chen
+23. [inoqx - decode [p_q]](https://osu.ppy.sh/b/4438671) dikirim oleh shidqidragon
+24. [umu. - humanly [timing hell?]](https://osu.ppy.sh/b/2468707) dikirim oleh Neptunia-chan
+25. [Various Artists - Dan ~ REFORM ~ Finalmaps [S.S.H. - Intersect Thunderbolt-Remix ~ Eta Speed ~]](https://osu.ppy.sh/b/4490042) dikirim oleh [LS]Robi
+26. [You (ft.nayuta) - Dimond Smile [Vibro Expert]](https://osu.ppy.sh/b/1188981) dikirim oleh AzusaNakano2
+27. [The Quick Brown Fox - Big Money [Shana's Dollar [SC]]](https://osu.ppy.sh/b/1009933) dikirim oleh lyoneljose
+28. [Nakanoke no Itsutsugo - Hatsukoi (TV Size) [I Love You]](https://osu.ppy.sh/b/4148863) dikirim oleh Napeace
+29. [Trerey-U + NIWASHI - Hisui [Jade]](https://osu.ppy.sh/b/4592599) dikirim oleh D_ana
+30. [Teminite & MDK - Space Invaders (Cut Ver.) [LN Expert // Infringer (OD6.5)]](https://osu.ppy.sh/b/4486045) dikirim oleh EterEnvy
+31. [TUYU - Itsuka Otona ni Nareru to Ii ne. [MieAyam!!]](https://osu.ppy.sh/b/3652200) dikirim oleh [ -Asriel- ]
+32. [Sayuri - Mikazuki [EXCLUSIVER]](https://osu.ppy.sh/b/1194600) dikirim oleh -Aji
+33. [Nana Mizuki - STARTING NOW! [Jumping!]](https://osu.ppy.sh/b/1094161) dikirim oleh IzKun-
+34. [Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg) [I'm more of a dog person tbh]](https://osu.ppy.sh/b/4656541) dikirim oleh ZhasK_667
+35. [Yukopi - Kyoufuu All Back [Weird]](https://osu.ppy.sh/b/4119132) dikirim oleh [-Elaina-]
+36. [TUYU - If there was an endpoint. (a? edit) [ade_maine's Challenge 1.1x (154bpm)]](https://osu.ppy.sh/b/4592107) dikirim oleh \_reggie\_
+37. [cute girls doing cute things - Main Heroine [Telolet Full Ver.]](https://osu.ppy.sh/b/3231666) dikirim oleh tentrempm
+38. [INHUMAN - AUGMENTED [WAKE UP FROM YOUR DREAM // EXTRA]](https://osu.ppy.sh/b/4586908) dikirim oleh Catzu
+39. [None Like Joshua - Naruto's Ninja Way [DZ's 1000 Years of Pain]](https://osu.ppy.sh/b/3860117) dikirim oleh ARDHANA
+40. [Lee Jin Ah - Target for Love [Target]](https://osu.ppy.sh/b/3397529) dikirim oleh lucknut
+41. [Sabicas - Carcelera - Reflejo Andaluz [de_inferno]](https://osu.ppy.sh/b/4918035) dikirim oleh Molten Cheese
+42. [KimuraYP - Kouon Katsuzetsu-chuu Oniki Hayakuchi Test [For The Jumptrill / Blastix Baka]](https://osu.ppy.sh/b/4061965) dikirim oleh dogethedoge25
+43. [DJ Sharpnel feat.Chiroru Ohyama - Can You Say KanColle? [Lv.XXIII]](https://osu.ppy.sh/b/3267509) dikirim oleh TheLegend3RD
+44. [Silentroom - Shuu no Hazama [Rainshower] [Abendregen 1.1x (191bpm)]](https://osu.ppy.sh/b/2843594) dikirim oleh spectator_boi
+45. [Slax - Too Much Loli [x1.2]](https://osu.ppy.sh/b/2444465) dikirim oleh KafuuChlno
+46. [gems - Gems Pack 12 - LN Master 4th [31 - Koxx, A Fool Moon Night]](https://osu.ppy.sh/b/1111631) dikirim oleh RaffCo
+47. [Aiobahn feat. KOTOKO - INTERNET YAMERO [SA! I! KOU! (YES SV)]](https://osu.ppy.sh/b/4057358) dikirim oleh Kyoukary
+48. [Caravan Palace - Lone Digger [Jack Digger]](https://osu.ppy.sh/b/1139757) dikirim oleh danar mw
+49. [Ludicin - Onus Regulus [Conqueror Of The Universe | 4K Extreme]](https://osu.ppy.sh/b/4271568) dikirim oleh beethiven
+50. [Dion Timmer - Shiawase (VIP) [1.2x]](https://osu.ppy.sh/b/4316770) dikirim oleh ImOyZo
+51. [ZxNX - huggy wuggy [sv]](https://osu.ppy.sh/b/3658240) dikirim oleh FinHazel
+52. [Laur - Laur chan taiso dai ichi [Hardcore Gymnastics]](https://osu.ppy.sh/b/3604249) dikirim oleh MzLord
+53. [Hana - Sakura no Uta [Berguling uwu]](https://osu.ppy.sh/b/1218839) dikirim oleh [ Heez ]
+54. [Mili - Between Two Worlds [Dunkelheit]](https://osu.ppy.sh/b/4216703) dikirim oleh Proxae
+55. [Mrs. GREEN APPLE - StaRt  (Speed up Ver.) [Celebration!]](https://osu.ppy.sh/b/3500381) dikirim oleh [Shiroko]
+56. [a crowd of rebellion - Ill [Goodbye]](https://osu.ppy.sh/b/4875879) dikirim oleh Lyz-
+57. [Creaky Jackals - PLVCK [Extra]](https://osu.ppy.sh/b/889671) dikirim oleh DAENGXicisae-
+58. [Foreground Eclipse - Storytellers [EXCLUSIVER]](https://osu.ppy.sh/b/1194598) dikirim oleh [-Vanart-]
+59. [KARUT 01 - Colorful Mess [bang darevv]](https://osu.ppy.sh/b/3064144) dikirim oleh Darrel27
+60. [Porter Robinson & Madeon - Shelter [4K DUMP]](https://osu.ppy.sh/b/1113809) dikirim oleh Marcille-
+61. [Various Artists - Dan ~ REFORM ~ Finalmaps [DJ Myosuke - Collapse of Ego ~ Eta Stamina ~]](https://osu.ppy.sh/b/4490036) dikirim oleh Violet-
+62. [Maroon 5 - Misery [Firstmaple8's Hard 1.06x]](https://osu.ppy.sh/b/4923198) dikirim oleh uThot
+63. [BlackY fused with WAiKURO - Alea jacta est! [MASTER]](https://osu.ppy.sh/b/2138308) dikirim oleh Animerge
+64. [nokia 6015i - hatsune miku arabic ringtone [JUNGKOOK: ding dong call me on my phone]](https://osu.ppy.sh/b/2617474) dikirim oleh syamisu-
+
+- GM3 | **[Unduh mappack babak ini di sini! (856 MB)](https://drive.google.com/file/d/113950ZcV9ZXFariECVb-w8GjqtKyrUgn/view?usp=sharing)**  
+
+1. [Tobu & Syndec - Dusk (Radio Edit) [Nostalgia]](https://osu.ppy.sh/b/3686104) dikirim oleh ocaibo
+2. [gingus - dont say "i can sample that" for 24 hours challenge [dont say "i can sv map that" for 24 hours challenge]](https://osu.ppy.sh/b/4219688) dikirim oleh [ Zenith ]
+3. [brains - Housoushitsu [FM / Insane]](https://osu.ppy.sh/b/4185086) dikirim oleh Raeaw
+4. [Olivia Rodrigo - Bad Idea right [x1.25]](https://osu.ppy.sh/b/4635382) dikirim oleh MightyTech
+5. [Tacitly - Wake Me Up [Wake Up x1.1]](https://osu.ppy.sh/b/3200806) dikirim oleh skadidragen
+6. [Ooguni Kanon - Fuuen no 135-byou [Eternal Flame]](https://osu.ppy.sh/b/3865636) dikirim oleh -Nandakai-
+7. [Rissyuu feat. Choko - Paa ~PaPaPaPaa ver~ [d-_-b]](https://osu.ppy.sh/b/2854762) dikirim oleh Remuu
+8. [pencil - little (girl) goodbye.rah [parting [1.3x Rate]]](https://osu.ppy.sh/b/2204533) dikirim oleh lisachandra
+9. [Camellia - AttraqtiA [Spatial Scission]](https://osu.ppy.sh/b/3793332) dikirim oleh ChocoCoki-
+10. [Nanahira - Nanahira singing from the window to a firetrucking van [PRI PRI]](https://osu.ppy.sh/b/2566354) dikirim oleh Prinow6
+11. [Two Door Cinema Club - Undercover Martyn [Main Streets 1.2x]](https://osu.ppy.sh/b/2725455) dikirim oleh yeedinobro
+12. [Syalis Hime (CV: Minase Inori) - Kaimin! Anmin! Syalist Seikatsu (TV Size) [Bobo]](https://osu.ppy.sh/b/3671504) dikirim oleh Aimaina
+13. [toby fox - Quiet Water [Easy]](https://osu.ppy.sh/b/3485740) dikirim oleh NizT
+14. [Hana - Sakura no Uta (Sped Up Ver.) [The eternal phase, the ending of the poem of Sakura...]](https://osu.ppy.sh/b/4460603) dikirim oleh KinoJourney
+15. [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion [Koi Koi]](https://osu.ppy.sh/b/1446011) dikirim oleh Tsurumaki_
+16. [7_7 feat. kasane vavzed - Yakou [Deliverance]](https://osu.ppy.sh/b/4713590) dikirim oleh Az-u
+17. [Tsukino - Darling Dance [Delusion]](https://osu.ppy.sh/b/2985342) dikirim oleh [LS] akarii
+18. [Shiraishi - Odin [VIKINGFJORD]](https://osu.ppy.sh/b/777356) dikirim oleh MrFlinxy
+19. [Various Artists - 4k Vibro pack [Machine Gun]](https://osu.ppy.sh/b/1108163) dikirim oleh askL330
+20. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) [Blossom]](https://osu.ppy.sh/b/4702309) dikirim oleh SnakesYxle
+21. [DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) [Yasashii / 1.00]](https://osu.ppy.sh/b/4766574) dikirim oleh _yea
+22. [Helblinde - Grief & Malice [LN Prodigy (cut) 1.05x (210bpm)]](https://osu.ppy.sh/b/3808592) dikirim oleh My Angel Chen
+23. [Sia - Unstoppable (Envy Frenchcore Remix) [1.05x]](https://osu.ppy.sh/b/4530385) dikirim oleh shidqidragon
+24. [Hino Isuka - #be_fortunate [#be_columnlocked]](https://osu.ppy.sh/b/2296388) dikirim oleh Neptunia-chan
+25. [AAAA - Hoshi no Otoshimono [Hoshiboard]](https://osu.ppy.sh/b/3128460) dikirim oleh [LS]Robi
+26. [Blend A - Bon Appetit S [4K Star BurSt!!!!!!!!]](https://osu.ppy.sh/b/1461414) dikirim oleh AzusaNakano2
+27. [Kaneko Chiharu - Kai Dan [Daitatsujin]](https://osu.ppy.sh/b/1315053) dikirim oleh lyoneljose
+28. [VIichan - I want to be your lover [Koibito]](https://osu.ppy.sh/b/4732089) dikirim oleh Napeace
+29. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD [FubuKING]](https://osu.ppy.sh/b/3643666) dikirim oleh D_ana
+30. [syudou - day by days [advanced]](https://osu.ppy.sh/b/3732432) dikirim oleh EterEnvy
+31. [Ayo - Hanjuuryoku no Machi [Levitation]](https://osu.ppy.sh/b/1778630) dikirim oleh [ -Asriel- ]
+32. [SiLiS - Hebe [Fountain of Youth]](https://osu.ppy.sh/b/4746375) dikirim oleh -Aji
+33. [Sayuri - Hana no Tou [Lily [1,2x Rate]]](https://osu.ppy.sh/b/3801740) dikirim oleh IzKun-
+34. [trinadtsat' karat - davay rasskazhem (ily Frenchcore Remix) (Sped Up Ver.) [d-_-b]](https://osu.ppy.sh/b/4374753) dikirim oleh ZhasK_667
+35. [Tamura Yukari feat. Motsu - You & Me [eZmmR's 4K For You]](https://osu.ppy.sh/b/2604386) dikirim oleh [-Elaina-]
+36. [Masaki - Astronomy [Kangcm's Challenge 1.15x]](https://osu.ppy.sh/b/4182009) dikirim oleh \_reggie\_
+37. [Aitsuki Nakuru & A than_Lily - Presenter* [Syr's coLlectioN]](https://osu.ppy.sh/b/3300001) dikirim oleh tentrempm
+38. [Limpid - HAZARD [/chance(1x?);]](https://osu.ppy.sh/b/3897911) dikirim oleh Catzu
+39. [penoreri - Everlasting Message [GRAVITY]](https://osu.ppy.sh/b/3017336) dikirim oleh ARDHANA
+40. [Dj CUTMAN - POP/STARS vs. MEGALOVANIA [POP/SANS]](https://osu.ppy.sh/b/2436229) dikirim oleh lucknut
+41. [LBDJS - Tari Ubur Ubur (Hendro Engkeng Remix) (Cut Ver) [Paket Phoenix]](https://osu.ppy.sh/b/3063643) dikirim oleh Molten Cheese
+42. [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria [Giant PaSVic Octopus]](https://osu.ppy.sh/b/977744) dikirim oleh dogethedoge25
+43. [DJ Sharpnel - Fuwatanity [K-ON!]](https://osu.ppy.sh/b/2879679) dikirim oleh TheLegend3RD
+44. [Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit]](https://osu.ppy.sh/b/2022451) dikirim oleh spectator_boi
+45. [goreshit - satori de pon! [4K MX]](https://osu.ppy.sh/b/1026633) dikirim oleh KafuuChlno
+46. [t+pazolite - Garakuta Doll Play [4K Challenge]](https://osu.ppy.sh/b/968241) dikirim oleh RaffCo
+47. [Porter Robinson & Madeon - Shelter [Allein Quad 1.2]](https://osu.ppy.sh/b/3056264) dikirim oleh Kyoukary
+48. [Nakiri Ayame - Good-bye sengen [Ojou]](https://osu.ppy.sh/b/3273717) dikirim oleh danar mw
+49. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) [Chord Life [135]]](https://osu.ppy.sh/b/2442473) dikirim oleh beethiven
+50. [HoneyWorks feat.Kotoha - Ai ni Deai Koi wa Tsuzuku [SMOCMouse [Chordjack] 1.6x (320bpm) OD8]](https://osu.ppy.sh/b/4164787) dikirim oleh ImOyZo
+51. [Chroma feat. mikanzil - Koi no Kuuchuu Bunkai [bittersweet love.]](https://osu.ppy.sh/b/4193642) dikirim oleh FinHazel
+52. [Yoshida Yasei feat. Kasane Teto - Override [pasta]](https://osu.ppy.sh/b/4417022) dikirim oleh MzLord
+53. [Pastel*Palettes - Zettai Sengen ~Recital~ [Trick or Escape!]](https://osu.ppy.sh/b/2198742) dikirim oleh [ Heez ]
+54. [Pastry - Goblin Girl [Another]](https://osu.ppy.sh/b/1806257) dikirim oleh Proxae
+55. [DECO*27 x PinocchioP - (Not) A Devil feat. Hatsune Miku [TIMING HELL]](https://osu.ppy.sh/b/4307929) dikirim oleh [Shiroko]
+56. [KIIXSHI&phonk.me - GHOST (Remix) [RAGE]](https://osu.ppy.sh/b/4822375) dikirim oleh Lyz-
+57. [Cillia - FIRST [Hymn's Of Cillia]](https://osu.ppy.sh/b/4710751) dikirim oleh DAENGXicisae-
+58. [lapix - Artificial Human [Singularity]](https://osu.ppy.sh/b/4342417) dikirim oleh [-Vanart-]
+59. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) [Chord Life [170]]](https://osu.ppy.sh/b/3328353) dikirim oleh Darrel27
+60. [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (short ver.) [Hoi !!!!]](https://osu.ppy.sh/b/1206254) dikirim oleh Marcille-
+61. [Hylen - Minerva [Ravenheart]](https://osu.ppy.sh/b/4266970) dikirim oleh Violet-
+62. [The Veronicas - Untouched [Challenge]](https://osu.ppy.sh/b/1650706) dikirim oleh uThot
+63. [Hoshina Megumi - Star Trip (Short Ver.) [Madoka's Starlight]](https://osu.ppy.sh/b/2749961) dikirim oleh Animerge
+64. [syamisu - Neoteric Metropolis [Revolutionary]](https://osu.ppy.sh/b/4926291) dikirim oleh syamisu-
+
+- GM4 | **[Unduh mappack babak ini di sini! (658 MB)](https://drive.google.com/file/d/1kJuzGIQ9w5aKa9aswgolfOLEEGR1YAsO/view?usp=sharing)**  
+
+1. [DVRST - Close Eyes [Danger]](https://osu.ppy.sh/b/3273735) dikirim oleh ocaibo
+2. [Kolaa & Mestie - Digibuprofen [Lauren]](https://osu.ppy.sh/b/4311995) dikirim oleh [ Zenith ]
+3. [SHIKI - Rose Quartz [Dumpstream x1.15]](https://osu.ppy.sh/b/4580277) dikirim oleh Raeaw
+4. [a_hisa - Anhedonia [x1.05]](https://osu.ppy.sh/b/4304650) dikirim oleh MightyTech
+5. [Sakuzyo - Distorted Fate [Elysian]](https://osu.ppy.sh/b/4256508) dikirim oleh skadidragen
+6. [CK - Nirv lucE [End]](https://osu.ppy.sh/b/4230764) dikirim oleh -Nandakai-
+7. [Carinho - Caipirinha (IOSYS Remix) [Stage 1: Nico Nico 2008]](https://osu.ppy.sh/b/4335675) dikirim oleh Remuu
+8. [Yorushika - Shikaki to Coffee [composer 1.4x (252bpm)]](https://osu.ppy.sh/b/3061601) dikirim oleh lisachandra
+9. [Nanahoshi Kangengakudan - No.39 [t!m!ng h#ll]](https://osu.ppy.sh/b/3792661) dikirim oleh ChocoCoki-
+10. [SickStrophe - Pop Up Tha Bass [Jump]](https://osu.ppy.sh/b/1298710) dikirim oleh Prinow6
+11. [StudioEIM - Crescent Moon Island [Kuro]](https://osu.ppy.sh/b/3262554) dikirim oleh yeedinobro
+12. [BlackY feat. Risa Yuzuki - SHION -sublimation mix- [Memory]](https://osu.ppy.sh/b/3566539) dikirim oleh Aimaina
+13. [R3 Music Box - FREEDOM DiVE [CLASSiCAL DiMENSiON]](https://osu.ppy.sh/b/3659745) dikirim oleh NizT
+14. [SICK HACK - Watashi Dake Yuurei [Prostitute]](https://osu.ppy.sh/b/4117168) dikirim oleh KinoJourney
+15. [SickStrophe - Pop Up Tha Bass [Jump]](https://osu.ppy.sh/b/1298710) dikirim oleh Tsurumaki_
+16. [Reizoko Cj - Happy Arnold=) [Nice To Meet You=)]](https://osu.ppy.sh/b/4256058) dikirim oleh Az-u
+17. [Various Artists - LTD Pack [Camellia - BRACE FOR FRICKING IMPACT]](https://osu.ppy.sh/b/3032790) dikirim oleh [LS] akarii
+18. [S-C-U feat. Qrispy Joybox - anemone [4K Beginner]](https://osu.ppy.sh/b/645315) dikirim oleh MrFlinxy
+19. [skibidi toilet - skibidi toilet vibro [185 bpm SKIBIDI]](https://osu.ppy.sh/b/4587767) dikirim oleh askL330
+20. [Lime - Campanella [Soothingness]](https://osu.ppy.sh/b/4785256) dikirim oleh SnakesYxle
+21. [Mitsukiyo & Lee Jin Ah - Target For Love (Ludicin's Hardcore Bootleg) [Trayblank's Always with Me]](https://osu.ppy.sh/b/4706293) dikirim oleh _yea
+22. [DJ Raisei & RYOQUCHA - HiTECH Shotgun - Haitekku shokunin no asa wa hayai (Cut Ver.) [Reaching Out Into Other World]](https://osu.ppy.sh/b/4717146) dikirim oleh My Angel Chen
+23. [ZERATch - tp na ame [x1.1]](https://osu.ppy.sh/b/4479370) dikirim oleh shidqidragon
+24. [knot - cold planet [Everybody Dance!]](https://osu.ppy.sh/b/1665871) dikirim oleh Neptunia-chan
+25. [*namirin - Kanzen Shouri*Esper Girl [Ash's Normal]](https://osu.ppy.sh/b/2102419) dikirim oleh [LS]Robi
+26. [Sadohara Kaori - Day to Story (TV Size) [legendary keyboard]](https://osu.ppy.sh/b/1332442) dikirim oleh AzusaNakano2
+27. [t+pazolite - Party in the HOLLOWood feat. Nanahira (HOLLOWeen Sitchaka Metchaka Remix) [Party]](https://osu.ppy.sh/b/2149349) dikirim oleh lyoneljose
+28. [Asaka - The Sunshower (TV Size) [Apol's Hard]](https://osu.ppy.sh/b/3783891) dikirim oleh Napeace
+29. [paraoka - L9 [4K Daydream]](https://osu.ppy.sh/b/3197091) dikirim oleh D_ana
+30. [JOYRYDE - ON FIRE [EMBER [INSANE]]](https://osu.ppy.sh/b/3808274) dikirim oleh EterEnvy
+31. [Hana - MAJICK [Berguling Style]](https://osu.ppy.sh/b/1426506) dikirim oleh [ -Asriel- ]
+32. [Foreground Eclipse - Storytellers [EXCLUSIVER]](https://osu.ppy.sh/b/1194598) dikirim oleh -Aji
+33. [Shirakami Fubuki - Say! Fanfare! [Yummy~ ^^ [1.2x Rate]]](https://osu.ppy.sh/b/3288692) dikirim oleh IzKun-
+34. [ZERATch - tp na ame [krip kripochek]](https://osu.ppy.sh/b/4169817) dikirim oleh ZhasK_667
+35. [JUNKOSI - Faruzan Theme (JUNKOSI Remix) [Cat Faruzan]](https://osu.ppy.sh/b/4781641) dikirim oleh [-Elaina-]
+36. [KORDHELL - Dat Phonk [GET DOWN [1.15]]](https://osu.ppy.sh/b/4072973) dikirim oleh \_reggie\_
+37. [CS4W - Guilty Hostage [Nightmare (edit)]](https://osu.ppy.sh/b/4762359) dikirim oleh tentrempm
+38. [glaive - astrid [celestial // expert]](https://osu.ppy.sh/b/4868160) dikirim oleh Catzu
+39. [rintaro soma - Tsunagite [Connection]](https://osu.ppy.sh/b/4509456) dikirim oleh ARDHANA
+40. [Yakushi Ruri - Gaman Dekinai no, Iwasete!! [Okaeri, Onii-chan]](https://osu.ppy.sh/b/4184570) dikirim oleh lucknut
+41. [The Verkkars - Flashbang dance (feat. n0thing) [Prepare your Stance!]](https://osu.ppy.sh/b/3752581) dikirim oleh Molten Cheese
+42. [TK from Ling tosite sigure - unravel [escapist 1.05x (142bpm)]](https://osu.ppy.sh/b/3090617) dikirim oleh dogethedoge25
+43. [S3RL - MTC (-mcfly- REMIX - 2015) [4K 'Delusional Lust' Arc]](https://osu.ppy.sh/b/2095243) dikirim oleh TheLegend3RD
+44. [Various Artists - Technical Complexes Vol. 1 [#1f1e33 [cherrychou]]](https://osu.ppy.sh/b/2578347) dikirim oleh spectator_boi
+45. [Yumiella Dolkness (CV: Fairuz Ai), Eleanora Hillrose (CV: Hidaka Rina) - Suki ga Levechi (TV Size) [CS' Lv 99]](https://osu.ppy.sh/b/4489268) dikirim oleh KafuuChlno
+46. [ROSE BRAND - Tepung Beras Rose Brand [Engky232]](https://osu.ppy.sh/b/2399870) dikirim oleh RaffCo
+47. [Cream puff - Mermaid girl (STARLiGHT Mix) [Mermaid  x0.95]](https://osu.ppy.sh/b/2029276) dikirim oleh Kyoukary
+48. [Gigabanana x Yasuo feat. Kagamine Rin, Kagamine Len - Electric Angel [4K SC]](https://osu.ppy.sh/b/417649) dikirim oleh danar mw
+49. [Various Arists - Vibro Pack [Swan's gabe power]](https://osu.ppy.sh/b/1146279) dikirim oleh beethiven
+50. [Various Artists - Wombo Combo [Challenge 1.2x]](https://osu.ppy.sh/b/3122316) dikirim oleh ImOyZo
+51. [Hirose Kohmi - promise [Get Down]](https://osu.ppy.sh/b/3044144) dikirim oleh FinHazel
+52. [Yooh - Seraphim (Long Ver.) [LN Angel]](https://osu.ppy.sh/b/4314630) dikirim oleh MzLord
+53. [Various Artists - Rhythm Heaven Selection [Coin Toss]](https://osu.ppy.sh/b/1528754) dikirim oleh [ Heez ]
+54. [sakuzyo - Fracture Ray [Future+ \SV/]](https://osu.ppy.sh/b/1882932) dikirim oleh Proxae
+55. [Yorushika - Yuunagi, Bou, Hana Madoi [Nightbloom]](https://osu.ppy.sh/b/4148847) dikirim oleh [Shiroko]
+56. [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) [Madness]](https://osu.ppy.sh/b/2228402) dikirim oleh Lyz-
+57. [Giga-P - BRING IT ON [BRING THE LNS ON]](https://osu.ppy.sh/b/2736010) dikirim oleh DAENGXicisae-
+58. [yanaginagi - Megumi no Ame (TV Size) [Normal]](https://osu.ppy.sh/b/3617630) dikirim oleh [-Vanart-]
+59. [phonon - polyriddim [brrrrrrrrrrrrrr]](https://osu.ppy.sh/b/2465806) dikirim oleh Darrel27
+60. [Rehan - Rehan Wangsaf [BOGOR]](https://osu.ppy.sh/b/3385821) dikirim oleh Marcille-
+61. [Xyris - Eviternity [LN Eviternity]](https://osu.ppy.sh/b/4652576) dikirim oleh Violet-
+62. [Ginger Root - Loretta [Plum Sake]](https://osu.ppy.sh/b/4476079) dikirim oleh uThot
+63. [penoreri - Desperado Waltz [Skogarmaor]](https://osu.ppy.sh/b/4317707) dikirim oleh Animerge
+64. [phonon - polyriddim [brrrrrrrrrrrrrr vip]](https://osu.ppy.sh/b/2769068) dikirim oleh syamisu-
+
+
 ## Hasil Pertandingan
 
 ### Grand Finals
@@ -366,10 +637,10 @@ Jumat, 21 Februari 2025:
 | Lower | **[LS]Robi** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: MightyTech | [#1](https://osu.ppy.sh/mp/117252175) | [#1](https://www.youtube.com/watch?v=ZgQZg3LAg-4) |
 
 Sabtu, 22 Februari 2025:
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
-| :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| SHOW | GENG MOTOR ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **GENG MAFIA** | [#1](https://osu.ppy.sh/community/matches/117263740) | [#1](https://www.youtube.com/watch?v=w1MtoVGTplI) |
-| Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/mp/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link | |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| SHOW | GENG MOTOR | 4 | **5** | **GENG MAFIA** | [#1](https://osu.ppy.sh/community/matches/117263740) | [#1](https://www.youtube.com/watch?v=w1MtoVGTplI) | Showmatch wildcard (staf lawan pemain) |
+| Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/mp/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) | |
 
 ### Finals
 
@@ -492,7 +763,7 @@ Sabtu, 25 Januari 2025:
 | Lower | [ -Asriel- ] ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **KinoJourney** | [#1](https://osu.ppy.sh/community/matches/116939567) | [#1](https://youtu.be/5Y-8AL9IUXc) |
 | Lower | ChocoCoki- ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **NizT** | [#1](https://osu.ppy.sh/mp/116939508) | [#1](https://youtu.be/ofurjumy7Ho) |
 | Lower | **Animerge** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: ocaibo | [#1](https://osu.ppy.sh/community/matches/116940357) | [#1](https://youtu.be/MQstpdlCY8o) |
-| Lower | **D_ana** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: _Reggie_ | [#1](https://osu.ppy.sh/mp/116941407) | [#1](https://youtu.be/xwMJsM2agrQ) |
+| Lower | **D_ana** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: \_Reggie\_ | [#1](https://osu.ppy.sh/mp/116941407) | [#1](https://youtu.be/xwMJsM2agrQ) |
 | Cond | **tentrempm** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: Proxae | [#1](https://osu.ppy.sh/mp/116939611) | [#1](https://youtu.be/_E9l0hA3Psg) |
 | Upper | **Tsurumaki_** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: ARDHANA | [#1](https://osu.ppy.sh/mp/116937115) | [#1](https://youtu.be/cziBTHM6XbY) |
 | Upper | **DAENGXicisae-** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: yeedinobro | [#1](https://osu.ppy.sh/mp/116938545) | [#1](https://youtu.be/51oM8hGaFJA) |
@@ -542,7 +813,7 @@ Sabtu, 18 Januari 2025:
 | Lower | **ZhasK_667** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: -Aji | [#1](https://osu.ppy.sh/community/matches/116856266) | [#1](https://youtu.be/oIiI72OdIR4) |
 | Lower | [-Vanart-] ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **uThot** | [#1](https://osu.ppy.sh/mp/116856207) | [#1](https://youtu.be/fl0gQA4kOfg) |
 | Lower | shidqidragon ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **Neptunia-chan** | [#1](https://osu.ppy.sh/mp/116856433) | [#1](https://youtu.be/RmWfGbLm_dE) |
-| Lower | Aimaina ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **_Reggie_** | [#1](https://osu.ppy.sh/mp/116856870) | [#1](https://youtu.be/c0YXWPOKPIA) |
+| Lower | Aimaina ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **\_Reggie\_** | [#1](https://osu.ppy.sh/mp/116856870) | [#1](https://youtu.be/c0YXWPOKPIA) |
 | Lower | Raeaw ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **beethiven** | [#1](https://osu.ppy.sh/mp/116857251) | [#1](https://youtu.be/Jzi6DlTkli0) |
 | Upper | **Tsurumaki_** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ImOyZo | [#1](https://osu.ppy.sh/mp/116853735) | [#1](https://youtu.be/tNQ7kDzrEH0) |
 | Upper | askL330 ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **ARDHANA** | [#1](https://osu.ppy.sh/mp/116854154) | [#1](https://youtu.be/Zz-z739gASU) |
@@ -600,7 +871,7 @@ Sabtu, 11 Januari 2025:
 
 | Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Upper | **IzKun-** ::{ flag=ID }:: | **4** | 3 | ::{ flag=ID }:: _Reggie_ | [#1](https://osu.ppy.sh/mp/116778358) | [#1](https://youtu.be/w9vygpDl17c) |
+| Upper | **IzKun-** ::{ flag=ID }:: | **4** | 3 | ::{ flag=ID }:: \_Reggie\_ | [#1](https://osu.ppy.sh/mp/116778358) | [#1](https://youtu.be/w9vygpDl17c) |
 | Upper | **[ -Asriel- ]** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: skadidragen | [#1](https://osu.ppy.sh/mp/116779876) | [#1](https://youtu.be/x4aPQtkypHU) |
 | Upper | **MightyTech** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: Marcille- | [#1](https://osu.ppy.sh/mp/116779830) | [#1](https://youtu.be/vnCU0Qeaiks) |
 | Upper | ocaibo ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **Darrel27** | [#1](https://osu.ppy.sh/community/matches/116780225) | [#1](https://youtu.be/2lV5ilNhRpI) |
