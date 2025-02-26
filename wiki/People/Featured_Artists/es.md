@@ -46,7 +46,7 @@ Si un `.osz` pre-temporizado del listado de los artistas destacados tiene errore
 
 ## Artistas destacados con cuentas de osu!
 
-Los artistas destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_group) que dice `FA` para exhibir su participación.
+Los artistas destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_groups) que dice `FA` para exhibir su participación.
 
 La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) enumera todas estas cuentas, mientras que el [listado de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) enumera a todos los artistas destacados.
 
@@ -89,6 +89,7 @@ La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) | [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
+| ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
@@ -101,6 +102,7 @@ La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=CH }:: [pandaeyesosu](https://osu.ppy.sh/users/34609545) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) |
 | ::{ flag=US }:: [Pandize](https://osu.ppy.sh/users/5490937) | [Pandize](https://osu.ppy.sh/beatmaps/artists/405) |
 | ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/users/4325444) | [ptar124](https://osu.ppy.sh/beatmaps/artists/409) |
+| ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593) | [Rose Quartz](https://osu.ppy.sh/beatmaps/artists/429) |
@@ -124,6 +126,7 @@ La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |
 | ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |
+| ::{ flag=PH }:: [weary2007](https://osu.ppy.sh/users/31900423) | [WEARY](https://osu.ppy.sh/beatmaps/artists/460) |
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (miembro de) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |

@@ -9,7 +9,7 @@ tags:
 
 # Project Loved Team
 
-La **Project Loved Team** est composée de membres de la communauté d'osu! qui gèrent le [Project Loved](/wiki/Community/Project_Loved), la plateforme de vote qui promeut les [beatmaps](/wiki/Beatmap) dans la catégorie [loved](/wiki/Beatmap/Category#loved). Ils se distinguent par la couleur rose bonbon de leur badge de [groupe d'utilisateurs](/wiki/People/User_group) sur lequel on peut lire `LVD` .
+La **Project Loved Team** est composée de membres de la communauté d'osu! qui gèrent le [Project Loved](/wiki/Community/Project_Loved), la plateforme de vote qui promeut les [beatmaps](/wiki/Beatmap) dans la catégorie [loved](/wiki/Beatmap/Category#loved). Ils se distinguent par la couleur rose bonbon de leur badge de [groupe d'utilisateurs](/wiki/People/User_groups) sur lequel on peut lire `LVD` .
 
 La Project Loved Team se compose principalement de *capitaines* pour chaque [mode de jeu](/wiki/Game_mode). Les capitaines sont responsables de la nomination des beatmaps dans la catégorie loved et agissent en tant que représentants de la communauté en ayant une bonne idée des beatmaps à choisir. Ils rédigent également de courtes descriptions des beatmaps nominées afin d'aider les lecteurs à se faire une idée de chaque beatmap s'ils ne les ont pas vu ou joué auparavant.
 
