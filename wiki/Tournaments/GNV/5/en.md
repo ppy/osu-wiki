@@ -368,6 +368,7 @@ Friday, 21 February 2025:
 Saturday, 22 February 2025:
 | Bracket | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| SHOW | GENG MOTOR ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **GENG MAFIA** | [#1](https://osu.ppy.sh/community/matches/117263740) | [#1](https://www.youtube.com/watch?v=w1MtoVGTplI) |
 | Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/mp/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) |
 
 ### Finals
