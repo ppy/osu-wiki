@@ -136,8 +136,8 @@ Each timing point influences a specified portion of the map, commonly called a "
 - **`sampleSet` (Integer):** Default sample set for hit objects (0 = beatmap default, 1 = normal, 2 = soft, 3 = drum).
 - **`sampleIndex` (Integer):** Custom sample index for hit objects. `0` indicates osu!'s default hitsounds.
 - **`volume` (Integer):** Volume percentage for hit objects.
-- **`uninherited` (0 or 1):** Whether or not the timing point is uninherited.
-- **`effects` (Integer):** Bit flags that give the timing point extra effects. See [the effects section](#effects).
+- **`uninherited` (0 or 1, default: 1):** Whether or not the timing point is uninherited.
+- **`effects` (Integer, default: 0):** Bit flags that give the timing point extra effects. See [the effects section](#effects).
 
 ### Effects
 
