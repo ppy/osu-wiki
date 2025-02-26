@@ -30,10 +30,10 @@ tags:
 
 | Peringkat | Hadiah |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | 1,000,000 IDR, *banner userpage* |
-| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | 625,000 IDR, *banner userpage* |
-| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | 375,000 IDR, *banner userpage* |
-| Finalis | 150,000 IDR, *banner userpage* |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | 1.000.000 IDR, *banner userpage* |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | 625.000 IDR, *banner userpage* |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | 375.000 IDR, *banner userpage* |
+| Finalis | 150.000 IDR, *banner userpage* |
 
 
 ## Staf Turnamen
@@ -637,7 +637,7 @@ Senin, 13 Januari 2025:
 
 | | **Stage 1 (SV)** | **Stage 2 (RC1)** | **Stage 3 (RC2)** | **Stage 4 (LN1)** | **Stage 5 (LN2)** | **Stage 6 (HB)** |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Bobot** | 12.50% | 20.83% | 18.33% | 15.00% | 17.50% | 15.83% |
+| **Bobot** | 12,50% | 20,83% | 18,33% | 15,00% | 17,50% | 15,83% |
 
 - Hanya 64 pemain teratas yang lanjut ke babak selanjutnya.  
 [Lihat VOD seed reveal di sini!](https://youtu.be/8hdq8-x-6LA)
