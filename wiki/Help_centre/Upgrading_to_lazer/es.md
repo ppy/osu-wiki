@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
+---
+
 # Actualizar a lazer
 
 osu!(lazer) es la próxima gran actualización del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.
@@ -101,7 +106,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | División y fusión de sliders | ![No][false] | ![Sí][true] |
 | Rotación de patrón | ![Sí][true] | ![Sí][true] |
 | Cambio de tamaño de patrón | ![No][false] | ![Sí][true] |
-| Envío de beatmaps | ![Sí][true] | ![No][false] |
+| Envío de beatmaps | ![Sí][true] | ![Sí][true] |
 | Editor de storyboards | ![Sí][true] | ![No][false] |
 | Compatibilidad entre versiones | ![Sí][true] | ![Parcial][partial][^incompatibilities] |
 
