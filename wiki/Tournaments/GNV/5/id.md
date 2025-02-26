@@ -3,6 +3,7 @@ tags:
   - GNV5
   - Gulanocup
   - Gulanocap
+  - Gulanova
 ---
 
 # Gulano Cup #5
