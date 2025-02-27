@@ -18,7 +18,7 @@ The [last osu!(lazer) update](https://osu.ppy.sh/home/news/2025-02-20-osulazer-u
 
 ![](/wiki/shared/news/2025-02-27-introducing-teams/team-banner.jpg)
 
-Teams are shown besides usernames in places like user profiles, leaderboards, and forums. Each team gets a flag and name to display everywhere, a unique acronym to go along with it, a banner and description, and their own internal leaderboard.
+Teams are shown beside usernames in places like user profiles, leaderboards, and forums. Each team gets a flag and name to display everywhere, a unique acronym to go along with it, a banner and description, and their own internal leaderboard.
 
 ![](/wiki/shared/news/2025-02-27-introducing-teams/team-display.png)
 
@@ -62,10 +62,10 @@ It's hard to put into perspective how much the community has grown to love teams
 
 Here are some of the most noteworthy stats:
 
-- Around **7249~ teams** were made during the first 7 days. Close to 1000 teams per day!
+- **7249 teams** were made during the first 7 days. Close to 1000 teams per day!
 - Currently, only one team has reached the maximum team size of **256 members**, that being [yuri](https://osu.ppy.sh/teams/14) with a team ID of 14.
 - **2743 teams** only have their creators as members. Show these users some love by joining their teams!
-- The first team was created all the way back in **December the 13th, 2024**. Talk about early access.
+- The first team was created all the way back in **December 13th, 2024**. Talk about early access.
 
 ---
 
