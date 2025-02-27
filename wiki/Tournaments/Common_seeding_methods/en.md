@@ -24,7 +24,7 @@ As always, a third party should be able to get the same results without needing 
 The explanations below frequently use the following terms:
 
 - A **team** is a single entity participating in the tournament. For example, the 6–8 players from each country in [OWC](/wiki/Tournaments/OWC) are considered one team, while each player in the [Lazer Grand Arena](/wiki/Tournaments/LGA/2024) is considered their own team.
-- A **score** is a numerical value used for determining a team's performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members' scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a Qualifier mappool; in those cases, the team's score is often either the highest or the average of those runs.
+- A **score** is a numerical value used for determining a team's performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members' scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a Qualifiers mappool; in those cases, the team's score is often either the highest or the average of those runs.
 - A team's **seed** is a number indicating their overall ranking among all teams. Typically, after one of the seeding methods below is used, the top N teams (that is, the teams seeded 1, 2, ..., N) are placed into an elimination bracket or other competition format, with their locations being determined by their seeds.
 - **Normalisation** is the process of dividing a team's score by any mod multipliers on the map. Typically, this is done to avoid artificial inflation of scores on modded maps.
 
@@ -32,7 +32,7 @@ The explanations below frequently use the following terms:
 
 <!-- NOTE FOR WIKI EDITORS: Please do not add or remove seeding methods without prior approval of the Tournament Committee -->
 
-Each subsection below explains, both in words and in a mathematical formula, a different seeding method commonly found in osu! tournaments. In all formulas, `m` refers to the number of maps in the Qualifier mappool.
+Each subsection below explains, both in words and in a mathematical formula, a different seeding method commonly found in osu! tournaments. In all formulas, `m` refers to the number of maps in the Qualifiers mappool.
 
 ### Average score
 
@@ -128,14 +128,14 @@ where `map points` is the quantity that the seeding method assigns to each map (
 
 There are many factors that go into choosing a seeding method for a tournament. First of all, the following principles are important to keep in mind:
 
-- **Lack of Qualifiers**: All of the seeding methods above assume that teams all play through the same Qualifiers pool. If Qualifiers are not played, then it may make sense instead to seed by rank or [BWS](/wiki/Tournaments/Badge-weighted_seeding). (For example, a 2v2 tournament with team size 4 may seed teams by the sum of their two best BWS ranks, with the smallest sum being seeded 1st.)
+- **Lack of Qualifiers**: All of the seeding methods above assume that teams all play through the same Qualifiers mappool. If Qualifiers are not played, then it may make sense instead to seed by rank or [BWS](/wiki/Tournaments/Badge-weighted_seeding). (For example, a 2v2 tournament with team size 4 may seed teams by the sum of their two best BWS ranks, with the smallest sum being seeded 1st.)
   - Note that some tournaments may begin head-to-head competition by placing teams into a Group Stage or Swiss-system tournament instead of a standard elimination bracket. However, these other systems still require specification on how the teams are placed into matchups, so often some method of seeding is still required (either one of the ones mentioned in this page, or random drawings).
 - **Scoring system**: Most of the seeding methods above are typically used when tournaments are played with the ScoreV2 scoring system. Thus, extra care should be taken when seeding tournaments that use ScoreV1, accuracy, or other methods of scoring. For example, a map played with ScoreV1 may have high outliers from well-performing teams, so it may be less appropriate to seed by Z-percentile or Percent Max.
 - **Transparency and familiarity**: More complicated seeding methods, or new formulas that are not widely used in tournaments, may be more difficult for players and staff to understand or double-check. It may be advantageous to choose a seeding method that can be quickly sanity checked without needing heavy calculation.
 
 ### Comparing the most commonly used methods
 
-For reference, below is a list of Qualifier seeding methods used in the official osu! World Cups (which are team tournaments). Note that older tournaments often instead directly began with a Group Stage, choosing the qualifying teams by the osu! website's country rank.
+For reference, below is a list of Qualifiers seeding methods used in the official osu! World Cups (which are team tournaments). Note that older tournaments often instead directly began with a Group Stage, choosing the qualifying teams by the osu! website's country rank.
 
 |  | osu! | osu!taiko | osu!catch | osu!mania 4K | osu!mania 7K |
 | --: | :-: | :-: | :-: | :-: | :-: |
@@ -173,7 +173,7 @@ Here are some other features and comparisons of seeding methods to keep in mind,
   - For another kind of example, the Z-sum and Z-percentile seeding methods have the feature that very close scores will receive very close point values for seeding (so if there is a cluster of many nearby scores, the highest and lowest scores of those clusters will be considered similarly in seeding), which is behaviour that does not occur for Sum of Placements.
 - Some seeding methods benefit specialists, while others benefit consistent performances. For example, Zipf's Law will give a large boost in seeding to teams with the highest or near-highest rank on a map compared to Sum of Placements. And because of the shape of the normal distribution, Z-sum will give a large boost for extremely high scores (and a large reduction for extremely low scores) compared to Z-percentile; thus, Z-percentile tends to favour all-rounders over specialists compared to Z-sum.
 - Some seeding methods may cause certain maps to contribute more to seeding differences than others.
-  - In particular, weighted seeding methods are designed to allow some maps to factor more into overall seeding than others – this allows for balancing of importance across different skill sets without needing to include extra maps of the same type in a pool.
+  - In particular, weighted seeding methods are designed to allow some maps to factor more into overall seeding than others – this allows for balancing of importance across different skill sets without needing to include extra maps of the same type in a mappool.
   - For a less direct example, seeding by average score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by Percent Max or Percent Difference will give that one team a large boost while distinguishing the other teams on the map less.
 
 ## Notes
