@@ -42,7 +42,6 @@ You can expect to see more features in the future as the system is refined. Whil
 - Displaying team leaderboards in osu!(lazer).
 - An endpoint for teams in the [osu!api (v2)](https://osu.ppy.sh/docs/index.html).
 
-
 ### Limitations
 
 Despite the many features already introduced from the get-go, there are still some limitations to keep in mind:
