@@ -49,7 +49,7 @@ Despite the many features already introduced from the get-go, there are still so
 
 Some of these limitations may be lifted as the system is iterated upon, a lot of which may depend on the community's feedback. Don't be afraid to propose and discuss changes in the [osu!web GitHub repository](https://github.com/ppy/osu-web/issues?q=is:issue%20state:open%20teams%20label:area:team)!
 
-In the meantime, if team leaders wish to change their team's name, acronym, or even the leader itself, they may do so by contacting the [account support team](/wiki/People/Account_support_team) via accounts@ppy.sh.
+In the meantime, if team leaders wish to change their team's name, acronym, or even the leader itself, they may do so by contacting the [account support team](/wiki/People/Account_support_team) via [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ## Stats
 
