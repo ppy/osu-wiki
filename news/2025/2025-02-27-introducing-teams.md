@@ -31,7 +31,7 @@ While the feature is still in its infancy, there are plenty of things users can 
 - Create and join other users' teams.
 - Manage incoming applications.
 - Compete with your peers in the team's leaderboard.
-- Communicate with your team in a private team chatroom.
+- Communicate with your team in a private chatroom.
 - Proudly display your allegiance with a team flag and unique acronym!
 
 ### Upcoming features
