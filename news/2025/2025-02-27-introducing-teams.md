@@ -24,28 +24,37 @@ Teams are shown besides usernames in places like user profiles, leaderboards, an
 
 Users can interact with all of these features by going to the ["My Team"](https://osu.ppy.sh/teams) page at any time. Players not yet in a team will be given the option to create one. Alternatively, by going to the page of an existing team, users will be able to apply to any team they see fit!
 
-### Features
+### Current features
 
 While the feature is still in its infancy, there are plenty of things users can already do with teams:
 
 - Create and join other users' teams.
 - Manage incoming applications.
 - Compete with your peers in the team's leaderboard.
+- Communicate with your team in a private team chatroom.
 - Proudly display your allegiance with a team flag and unique acronym!
 
-You can expect to see more features in the future as the system is refined, such as displaying team leaderboards in osu!(lazer) or team versus team matches.
+### Upcoming features
+
+You can expect to see more features in the future as the system is refined. While there may be more to come, these are a few of the things to look forward to:
+
+- A listing on the website with all available teams in the platform.
+- Displaying team leaderboards in osu!(lazer).
+- An endpoint for teams in the [osu!api (v2)](https://osu.ppy.sh/docs/index.html).
+
 
 ### Limitations
 
 Despite the many features already introduced from the get-go, there are still some limitations to keep in mind:
 
 - Team acronyms are unique.
-- Both team acronyms and names are permanent (contact [support](accounts@ppy.sh) or re-create your team if you make a mistake!).
+- Both team acronyms and names are permanent (contact [support](mailto:accounts@ppy.sh) or re-create your team if you make a mistake!).
 - Team leaders cannot be swapped.
 - The maximum team size is dependent on the amount of [osu!supporters](/wiki/osu!supporter) on the team.
   - Each supporter will add 4 slots to the base team size of 8, up to a cap of 256.
-- Currently, the web does not dispose of a listing with all available teams in the platform.
-  - This also applies to the [osu!api (v2)](https://osu.ppy.sh/docs/index.html) which does not have an endpoint for teams.
+  - This cap will **not** be increased in the future.
+- Users can only join one team at a time.
+  - To join another team, you may do so at any time by leaving your current one.
 
 Some of these limitations may be lifted as the system is iterated upon, a lot of which may depend on the community's feedback. Don't be afraid to propose and discuss changes in the [osu!web GitHub repository](https://github.com/ppy/osu-web/issues?q=is:issue%20state:open%20teams%20label:area:team)!
 
@@ -53,13 +62,14 @@ In the meantime, if team leaders wish to change their team's name, acronym, or e
 
 ## Stats
 
-It's hard to put into perspective how much the community has grown to love teams ever since their release despite their recency. So why not put it into numbers instead! [MegaMix](https://osu.ppy.sh/users/18152711) has taken the time to compile an [unofficial team list](https://docs.google.com/spreadsheets/d/1z0ddlo3EudoNJdEssrm3tMQYOQY7YQEdXWhMN7JV2TM?rm=minimal).
+It's hard to put into perspective how much the community has grown to love teams ever since their release despite their recency. So why not put it into numbers instead!
 
 Here are some of the most noteworthy stats:
 
-- Around **6780~ teams** were made during the first 7 days. Close to 1000 teams per day!
+- Around **7249~ teams** were made during the first 7 days. Close to 1000 teams per day!
 - Currently, only one team has reached the maximum team size of **256 members**, that being [yuri](https://osu.ppy.sh/teams/14) with a team ID of 14.
-- Nearly **1650~ teams** only have their creators as members. Show these users some love by joining their teams!
+- **2743 teams** only have their creators as members. Show these users some love by joining their teams!
+- The first team was created all the way back in **December the 13th, 2024**. Talk about early access.
 
 ---
 
