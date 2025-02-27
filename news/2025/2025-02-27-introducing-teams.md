@@ -40,18 +40,15 @@ You can expect to see more features in the future as the system is refined. Whil
 
 - A listing on the website with all available teams in the platform.
 - Displaying team leaderboards in osu!(lazer).
-- An endpoint for teams in the [osu!api (v2)](https://osu.ppy.sh/docs/index.html).
+- [osu!api (v2)](https://osu.ppy.sh/docs/index.html) support for teams.
 
 ### Limitations
-
-Despite the many features already introduced from the get-go, there are still some limitations to keep in mind:
 
 - Team acronyms are unique.
 - Both team acronyms and names are permanent (contact [support](mailto:accounts@ppy.sh) or re-create your team if you make a mistake!).
 - Team leaders cannot be swapped.
 - The maximum team size is dependent on the amount of [osu!supporters](/wiki/osu!supporter) on the team.
   - Each supporter will add 4 slots to the base team size of 8, up to a cap of 256.
-  - This cap will **not** be increased in the future.
 - Users can only join one team at a time.
   - To join another team, you may do so at any time by leaving your current one.
 
