@@ -18,7 +18,7 @@ The [last osu!(lazer) update](https://osu.ppy.sh/home/news/2025-02-20-osulazer-u
 
 ![](/wiki/shared/news/2025-02-27-introducing-teams/team-banner.jpg)
 
-Teams are shown besides usernames in places like user profiles, leaderboards, and forums. Each team gets a flag and name to display everywhere, a unique acronym to go along with it, a banner and description, and their own internal leaderboard.
+Teams are shown beside usernames in places like user profiles, leaderboards, and forums. Each team gets a flag and name to display everywhere, a unique acronym to go along with it, a banner and description, and their own internal leaderboard.
 
 ![](/wiki/shared/news/2025-02-27-introducing-teams/team-display.png)
 
