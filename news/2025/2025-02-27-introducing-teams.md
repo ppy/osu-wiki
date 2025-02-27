@@ -22,7 +22,7 @@ Teams are shown beside usernames in places like user profiles, leaderboards, and
 
 ![](/wiki/shared/news/2025-02-27-introducing-teams/team-display.png)
 
-Users can interact with all of these features by going to the ["My Team"](https://osu.ppy.sh/teams) page at any time. Players not yet in a team will be given the option to create one. Alternatively, by going to the page of an existing team, users will be able to apply to any team they see fit!
+Users can interact with all of these features by going to the ["My Team"](https://osu.ppy.sh/teams/create) page at any time. Players not yet in a team will be given the option to create one. Alternatively, by going to the page of an existing team, users will be able to apply to any team they see fit!
 
 ### Current features
 
