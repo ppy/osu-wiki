@@ -62,7 +62,7 @@ Here are some of the most noteworthy stats:
 
 - **7,249 teams** were made during the first 7 days. Close to 1,000 teams per day!
 - Currently, only one team has reached the maximum team size of **256 members**, that being [yuri](https://osu.ppy.sh/teams/14) with a team ID of 14.
-- **2,743 teams** only have one member, i.e. the creator. You can show these users some love by joining their teams!
+- **2,743 teams** only have one member, i.e. the creator. You can show these users some love by joining their team!
 - The first team was created all the way back in **December 13th, 2024**. Talk about early access.
 
 ---
