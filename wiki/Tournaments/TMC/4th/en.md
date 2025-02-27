@@ -210,14 +210,14 @@ The Touhou Project Mania Cup 4th is run by various community members.
 - Rice (Extreme)
   1. [Akatsuki Records - Rock 'n' Rock 'n' Beat (ImperialTrinity)\[Bang! Bang!\]](https://osu.ppy.sh/beatmapsets/2329599#mania/4996381)
 - Long Note
+  1. [Floating Cloud - Road to the moon (Castella)\[Happy End\]](https://osu.ppy.sh/beatmapsets/2329584#mania/4996292)
+  2. [Yuma Mizonokuchi feat. Ai Ohsera - Princess Lily (Xinhong1003)\[Blooming\]](https://osu.ppy.sh/beatmapsets/2329588#mania/4996312)
+  3. [ccy - Another Apple (cherrychou)\[YuEast's 2025 LN Ver.\]](https://osu.ppy.sh/beatmapsets/1612762#mania/4996395)
+- Long Note (Extreme)
+  1. [marasy - Re:Unknown X (cherrychou)\[Lunatic (edit)\]](https://osu.ppy.sh/beatmapsets/2279360#mania/4996380)
+- Hybrid
   1. [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (V1do-)\[Illusional\]](https://osu.ppy.sh/beatmapsets/2329573#mania/4996270)
   2. [Tokyo Active NEETs - Akahoshi Mizeraburu \~ Hai yi Hen (Game Ver.) (AelSan)\[Master 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/2329582#mania/4996289)
-  3. [Floating Cloud - Road to the moon (Castella)\[Happy End\]](https://osu.ppy.sh/beatmapsets/2329584#mania/4996292)
-- Long Note (Extreme)
-  1. [Yuma Mizonokuchi feat. Ai Ohsera - Princess Lily (Xinhong1003)\[Blooming\]](https://osu.ppy.sh/beatmapsets/2329588#mania/4996312)
-- Hybrid
-  1. [ccy - Another Apple (cherrychou)\[YuEast's 2025 LN Ver.\]](https://osu.ppy.sh/beatmapsets/1612762#mania/4996395)
-  2. [marasy - Re:Unknown X (cherrychou)\[Lunatic (edit)\]](https://osu.ppy.sh/beatmapsets/2279360#mania/4996380)
 - Tiebreaker
   1. [Para Dot. - Hyper banquet (gzdongsheng)\[514nm\]](https://osu.ppy.sh/beatmapsets/2329595#mania/4996354)
 
