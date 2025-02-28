@@ -18,7 +18,7 @@ tags:
 *Véase también: [NC (desambiguación)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: NC
 - Tipo: Aumento de dificultad

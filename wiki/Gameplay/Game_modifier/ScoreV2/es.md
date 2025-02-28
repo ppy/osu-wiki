@@ -17,7 +17,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Puntuación](/wiki/Gameplay/Score) o [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: SV2
 - Tipo: Especial

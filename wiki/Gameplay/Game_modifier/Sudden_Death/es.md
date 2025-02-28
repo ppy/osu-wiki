@@ -17,7 +17,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *Véase también: [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: SD
 - Tipo: Aumento de dificultad

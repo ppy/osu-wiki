@@ -17,7 +17,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *Véase también: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: PF
 - Tipo: Aumento de dificultad

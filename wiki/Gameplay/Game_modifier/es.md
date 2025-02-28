@@ -34,13 +34,13 @@ En la pantalla de selección, los mods se separan en tres categorías: `Menos di
 
 Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) al lado.
 
-### Mods que reducen la dificultad
+### Reducción de dificultad
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Mods que aumentan la dificultad
+### Aumento de dificultad
 
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]

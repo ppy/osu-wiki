@@ -16,7 +16,7 @@ tags:
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [No Fail (mod de lazer)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))*\
 *Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: NF
 - Tipo: Reducción de dificultad

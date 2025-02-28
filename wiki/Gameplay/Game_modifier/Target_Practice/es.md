@@ -18,7 +18,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *Nota: El mod Target Practice solo es accesible en la version `Cutting Edge` del juego.*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: TP
 - Tipo: Especial
