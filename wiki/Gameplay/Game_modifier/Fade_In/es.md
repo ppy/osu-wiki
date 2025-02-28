@@ -18,7 +18,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden) o [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: FI
 - Tipo: Aumento de dificultad

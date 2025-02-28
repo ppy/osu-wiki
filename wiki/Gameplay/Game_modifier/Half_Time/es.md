@@ -16,7 +16,7 @@ tags:
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Half Time (mod de lazer)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))*\
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: HT
 - Tipo: Reducción de dificultad

@@ -15,7 +15,7 @@ tags:
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Mirror (mod de lazer)](/wiki/Gameplay/Game_modifier/Mirror_(lazer))*\
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: MR
 - Tipo: Especial

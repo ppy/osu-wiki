@@ -17,7 +17,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Cinematografía](https://es.wikipedia.org/wiki/Cinematografía).*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: CM
 - Tipo: Especial

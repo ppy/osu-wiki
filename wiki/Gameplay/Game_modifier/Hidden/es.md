@@ -17,7 +17,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In) o [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: HD
 - Tipo: Aumento de dificultad

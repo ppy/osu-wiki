@@ -17,7 +17,7 @@ tags:
 *Para otros usos, véase [Easy (desambiguación)](/wiki/Disambiguation/Easy).*\
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: EZ
 - Tipo: Reducción de dificultad

@@ -18,7 +18,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto).*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: AP
 - Tipo: Especial

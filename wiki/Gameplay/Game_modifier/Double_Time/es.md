@@ -17,7 +17,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *Véase también: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: DT
 - Tipo: Aumento de dificultad

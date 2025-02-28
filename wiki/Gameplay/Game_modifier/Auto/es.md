@@ -21,7 +21,7 @@ tags:
 *Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: AT o AO
 - Tipo: Especial
