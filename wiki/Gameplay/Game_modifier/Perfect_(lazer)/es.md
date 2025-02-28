@@ -4,7 +4,7 @@ tags:
   - PF
 ---
 
-# Perfect (lazer mod)
+# Perfect (mod de lazer)
 
 ::: Infobox
 

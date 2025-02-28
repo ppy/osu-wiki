@@ -4,7 +4,7 @@ tags:
   - NC
 ---
 
-# Nightcore (lazer mod)
+# Nightcore (mod de lazer)
 
 ::: Infobox
 

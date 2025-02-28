@@ -4,7 +4,7 @@ tags:
   - RX
 ---
 
-# Relax (lazer mod)
+# Relax (mod de lazer)
 
 ::: Infobox
 

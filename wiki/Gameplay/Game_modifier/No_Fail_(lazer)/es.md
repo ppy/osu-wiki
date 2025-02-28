@@ -5,7 +5,7 @@ tags:
   - nofail
 ---
 
-# No Fail (lazer mod)
+# No Fail (mod de lazer)
 
 ::: Infobox
 

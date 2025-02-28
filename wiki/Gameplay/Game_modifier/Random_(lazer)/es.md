@@ -4,7 +4,7 @@ tags:
   - RD
 ---
 
-# Random (lazer mod)
+# Random (mod de lazer)
 
 ::: Infobox
 
