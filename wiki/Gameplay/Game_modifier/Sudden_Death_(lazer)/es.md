@@ -5,7 +5,7 @@ tags:
   - suddendeath
 ---
 
-# Sudden Death (lazer mod)
+# Sudden Death (mod de lazer)
 
 ::: Infobox
 

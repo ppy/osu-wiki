@@ -5,7 +5,7 @@ tags:
   - spunout
 ---
 
-# Spun Out (lazer mod)
+# Spun Out (mod de lazer)
 
 ::: Infobox
 
