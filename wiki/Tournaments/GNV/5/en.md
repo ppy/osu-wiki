@@ -17,7 +17,7 @@ tags:
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2024-09-24/2024-12-28 |
-| Qualifier Showcase | 2024-12-28 (20:00 WIB) |
+| Qualifier showcase | 2024-12-28 (13:00 UTC) |
 | Qualifiers | 2025-01-01/2025-01-06 |
 | Round of 64 | 2025-01-08/2025-01-13 |
 | Round of 32 | 2025-01-15/2025-01-20 |
