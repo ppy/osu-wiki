@@ -15,7 +15,7 @@ tags:
 
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Easy (mod de lazer)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
 *Para otros usos, véase [Easy (desambiguación)](/wiki/Disambiguation/Easy).*\
-*Para la lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Información adicional
 

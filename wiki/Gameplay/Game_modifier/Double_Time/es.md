@@ -14,7 +14,7 @@ tags:
 ![Icono del mod DT](/wiki/shared/mods/DT.png "Icono del mod Double Time (DT)")
 
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Double Time (mod de lazer)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))*\
-*Para la lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *Véase también: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## Información adicional
@@ -41,7 +41,7 @@ El mod Double Time es ampliamente considerado como uno de los mejores mods usado
 
 ### osu!taiko
 
-En [osu!taiko](/wiki/Game_mode/osu!taiko), la tolerancia de los aciertos se reduce en gran medida cuando el mod Double Time está activado, debido a la dificultad general de osu!taiko, ya de por sí estricta, junto con sus marcas de los slider considerablemente más difíciles de acertar. Debido a esto, el mod Double Time es ampliamente considerado como el mod más difícil en osu!taiko y rara vez se usa.
+En [osu!taiko](/wiki/Game_mode/osu!taiko), la tolerancia de los aciertos se reduce en gran medida cuando el mod Double Time está activado, debido a la dificultad general de osu!taiko, ya de por sí estricta, junto con sus marcas de los sliders considerablemente más difíciles de acertar. Debido a esto, el mod Double Time es ampliamente considerado como el mod más difícil en osu!taiko y rara vez se usa.
 
 ### osu!catch
 

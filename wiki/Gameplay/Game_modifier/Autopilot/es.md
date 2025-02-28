@@ -15,7 +15,7 @@ tags:
 ![Icono del mod AP](/wiki/shared/mods/AP.png "Icono del mod Auto Pilot (AP)")
 
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Autopilot (mod de lazer)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer))*\
-*Para la lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto).*
 
 ## Información adicional
@@ -29,7 +29,7 @@ tags:
 
 ## Descripción
 
-*Aviso: Activar el mod Autopilot hará que la jugada no se clasifique y no se guardará en las tabla de clasificación local.*
+*Aviso: Activar el mod Autopilot hará que la jugada no se clasifique y no se guardará en la tabla de clasificación local.*
 
 El mod **Autopilot** es un [modificador del juego](/wiki/Gameplay/Game_modifier) para el modo de juego [osu!](/wiki/Game_mode/osu!) que tomará el control del movimiento del cursor y se moverá sistemáticamente al centro exacto del próximo [objeto](/wiki/Gameplay/Hit_object), dejando que el jugador se encargue de pulsar sobre los objetos. Durante una jugada con el mod Autopilot activado, el jugador no podrá mover el cursor, a menos que esté en la pantalla de pausa.
 

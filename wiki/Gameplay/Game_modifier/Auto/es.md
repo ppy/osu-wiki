@@ -18,7 +18,7 @@ tags:
 ![Icono del mod AT](/wiki/shared/mods/AT.png "Icono del mod Auto (AT)")
 
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Autoplay (mod de lazer)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
-*Para la lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 
 ## Información adicional
@@ -32,7 +32,7 @@ tags:
 
 ## Descripción
 
-*Aviso: Activar el mod Auto hará que la jugada no se clasifique y no se guardará en las tablas de clasificación locales.*
+*Aviso: Activar el mod Auto hará que la jugada no se clasifique y no se guardará en la tabla de clasificación local.*
 
 El mod **Auto** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que permite a los jugadores ver una repetición perfecta del beatmap seleccionado.
 
@@ -40,7 +40,7 @@ El mod funciona exactamente como una [repetición](/wiki/Gameplay/Replay), con l
 
 ### osu!
 
-En [osu!](/wiki/Game_mode/osu!), cuando se encuentra con un spinner, el mod Auto girará a un máximo de 477 giros por minuto (SPM) en sentido contrario a las agujas del reloj.
+En [osu!](/wiki/Game_mode/osu!), cuando aparezca un spinner, el mod Auto girará hasta un máximo de 477 giros por minuto (SPM) en sentido contrario a las agujas del reloj.
 
 ### osu!taiko
 

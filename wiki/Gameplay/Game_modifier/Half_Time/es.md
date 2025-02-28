@@ -14,7 +14,7 @@ tags:
 ![Icono del mod HT](/wiki/shared/mods/HT.png "Icono del mod Half Time (HT)")
 
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Half Time (mod de lazer)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Información adicional
 
@@ -35,7 +35,7 @@ El mod **Half Time** es un [modificador del juego](/wiki/Gameplay/Game_modifier)
 
 ### osu!taiko
 
-En [osu!taiko](/wiki/Game_mode/osu!taiko), la canción y el BPM ralentizados hacen que las notas se vuelvan muy densas debido a la disminución del AR. Sin embargo, debido a la forma en que se calculan los dendens en osu!taiko, se necesitan más golpes para completarlos y hacen que otorguen un **valor total más alto que sin el mod**, ya que los golpes de los dendens no se ven afectados por el [multiplicador de puntuación](/wiki/Gameplay/Game_modifier/Mod_multiplier).
+En [osu!taiko](/wiki/Game_mode/osu!taiko), la canción y el BPM ralentizado hacen que las notas se vuelvan muy densas debido a la disminución del AR. Sin embargo, debido a la forma en que se calculan los dendens en osu!taiko, se necesitan más golpes para completarlos y hacen que otorguen un **valor total más alto que sin el mod**, ya que los golpes de los dendens no se ven afectados por el [multiplicador de puntuación](/wiki/Gameplay/Game_modifier/Mod_multiplier).
 
 Como resultado, usar el mod Half Time conducirá a un aumento en la puntuación máxima posible para mapas con combos muy bajos y muchos dendens largos. Este efecto será aún más significativo cuando [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) esté activado simultáneamente.
 

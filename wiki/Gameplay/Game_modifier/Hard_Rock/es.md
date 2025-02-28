@@ -14,7 +14,7 @@ tags:
 ![Icono del mod HR](/wiki/shared/mods/HR.png "Icono del mod Hard Rock (HR)")
 
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Hard Rock (mod de lazer)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Información adicional
 
