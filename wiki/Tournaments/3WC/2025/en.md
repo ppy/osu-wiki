@@ -97,24 +97,29 @@ The 3 Digit World Cup 2025 is run by various community members.
 | Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=CA }:: Canada | Mar 01 (Sat) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ![Oceania](img/OC.png) Oceania | Mar 01 (Sat) 10:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
-| Romania ::{ flag=RO }:: | ![Austria-Hungary](img/AH.png) Austria-Hungary | Mar 01 (Sat) 16:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=BR }:: Brazil | Mar 01 (Sat) 17:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
+| Romania ::{ flag=RO }:: | ![Austria-Hungary](img/AH.png) Austria-Hungary | Mar 01 (Sat) 15:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=BR }:: Brazil | Mar 01 (Sat) 20:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
 
 ### Sunday, March 2
 
 | Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Oceania ![Oceania](img/OC.png) | ::{ flag=CA }:: Canada | Mar 02 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=PH }:: Philippines | Mar 02 (Sun) 10:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
-| Oceania ![Oceania](img/OC.png) | ::{ flag=PH }:: Philippines | Mar 02 (Sun) 10:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ![Oceania](img/OC.png) Oceania | Mar 02 (Sun) 10:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=PH }:: Philippines | Mar 02 (Sun) 12:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
+| Oceania ![Oceania](img/OC.png) | ::{ flag=PH }:: Philippines | Mar 02 (Sun) 12:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=PL }:: Poland | Mar 02 (Sun) 13:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
+| Romania ::{ flag=RO }:: | ::{ flag=BR }:: Brazil | Mar 02 (Sun) 16:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=CA }:: Canada | Mar 02 (Sun) 16:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
+| Austria-Hungary ![Austria-Hungary](img/AH.png) | ::{ flag=BR }:: Brazil | Mar 02 (Sun) 17:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
 | Romania ::{ flag=RO }:: | ::{ flag=GB }:: United Kingdom | Mar 02 (Sun) 18:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
-| Romania ::{ flag=RO }:: | ::{ flag=BR }:: Brazil | Mar 02 (Sun) 18:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
 | Austria-Hungary ![Austria-Hungary](img/AH.png) | ::{ flag=GB }:: United Kingdom | Mar 02 (Sun) 18:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
-| Austria-Hungary ![Austria-Hungary](img/AH.png) | ::{ flag=BR }:: Brazil | Mar 02 (Sun) 18:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | Mar 02 (Sun) 19:30 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^winners-bracket] |
+
+### Monday, March 3
+
+| Red Team | Blue Team | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| Oceania ![Oceania](img/OC.png) | ::{ flag=CA }:: Canada | Mar 03 (Mon) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^potential-match] |
 
 ## Mappools
 
