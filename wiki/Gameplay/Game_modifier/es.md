@@ -18,7 +18,7 @@ tags:
 # Modificadores del juego
 
 *Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
-*Para otros usos de «mod», véase: [Mod (desambiguación)](/wiki/Disambiguación/Mod)*
+*Para otros usos de «mod», véase: [Mod (desambiguación)](/wiki/Disambiguation/Mod)*
 
 ![Pantalla del selector de mods](img/mod-selection-screen-ES.jpg "Comparación entre los selectores de mods de los modos de juego osu! (arriba a la izquierda), osu!taiko (arriba a la derecha), osu!catch (abajo a la izquierda) y osu!mania (abajo a la derecha)")
 
