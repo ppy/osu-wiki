@@ -32,7 +32,7 @@ The explanations below frequently use the following terms:
 
 <!-- NOTE FOR WIKI EDITORS: Please do not add or remove seeding methods without prior approval of the Tournament Committee -->
 
-Each subsection below explains, both in words and in a mathematical formula, a different seeding method commonly found in osu! tournaments. In all formulas, `m` refers to the number of maps in the Qualifiers mappool.
+Each subsection below explains a different seeding method commonly found in osu! tournaments, both in words and with a mathematical formula. In all formulas, `m` refers to the number of maps in the Qualifier mappool.
 
 ### Average score
 
@@ -74,7 +74,7 @@ The percent difference sum for a team is given by
 
 This seeding method first computes the average and standard deviation of team scores on each map. Each team then receives a "Z-score" for each map, which is the number of standard deviations above or below the mean that they scored. (0 is an average Z-score, and Z-scores are typically between -3 and 3.) Seeding is then determined by the sum of these Z-scores, with the highest sum receiving seed 1.
 
-Note that tournaments in the past have often used the term "Z-sum" for what is instead called the "Z-percentile" seeding method below.[^Z-sum] The Z-sum seeding method should result in roughly half the teams having a negative total sum of Z-scores and half having a positive sum. The total sum over all maps should be exactly 0.
+Note that tournaments in the past have often used the term "Z-sum" for a distinctly different method that is instead called "[Z-percentile](#z-percentile)" in this article.[^Z-sum] The Z-sum seeding method should result in roughly half the teams having a negative total sum of Z-scores and half having a positive sum. The total sum over all teams should be exactly 0.
 
 The Z-sum for a team is given by
 
@@ -84,13 +84,13 @@ Typically the sample standard deviation is used, rather than the population stan
 
 ### Z-percentile
 
-This seeding method is almost identical to Z-sum, except that instead of assigning teams a Z-score, it assigns teams the corresponding percentile with respect to the normal distribution. In other words, Z-percentile estimates the percentage of teams beaten on each map by fitting scores to a bell curve, and each team will receive a value between 0 and 1 on each map played. Seeding is then determined by the sum of these values, with the highest sum receiving seed 1.
+This seeding method is almost identical to Z-sum, except that instead of assigning teams a Z-score, it assigns teams the corresponding percentile under the [standard normal distribution](https://en.wikipedia.org/wiki/Normal_distribution#Standard_normal_distribution)). In other words, Z-percentile estimates the percentage of teams beaten on each map by fitting scores to a bell curve, and each team will receive a value between 0 and 1 on each map played. Seeding is then determined by the sum of these values, with the highest sum receiving seed 1.
 
 The Z-percentile sum for a team is given by
 
 ![Z-percentile formula](img/zpercentile.png)
 
-Here, `NORMCDF` is the cumulative distribution function for the standard normal distribution (also sometimes called `NORMSDIST` in software).
+Here, `NORMCDF` is the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) for the standard normal distribution (also sometimes called `NORMSDIST` in software).
 
 ### Zipf's law
 
@@ -122,7 +122,7 @@ More precisely, a positive number for each map, called the `map weight`, should 
 
 ![Weighting formula](img/weight.png)
 
-where `map points` is the quantity that the seeding method assigns to each map (e.g. `map placement` for Average Placement). Note that having all map weights be equal to `1` or `1/(number of maps)` would just be equivalent to summing or averaging the map points together.
+where `map points` is the quantity that the seeding method assigns to each map (e.g. `map placement` for the sum of placements method). Note that having all map weights be equal to `1` or `1/(number of maps)` would just be equivalent to summing or averaging the map points together.
 
 ## Differences between methods
 
@@ -159,7 +159,7 @@ To contrast these methods, notice the following:
 
 - Score differences do not directly factor into the placement except for exact ties, but they do significantly impact points under percent max and Z-percentile seeding.
 - Teams 1 and 2, teams 5 and 6, and teams 7 and 8 each had a score difference of 150,000 points. This difference counts equally in all cases for percent max (about 0.16 points) but makes a bigger difference for teams 5 and 6 in Z-percentile (about 0.25 points compared to 0.15 or 0.11 for the other pairs) because their scores are closer to the mean.
-- When scores are more clustered near the mean and more spread out for outliers – more precisely, when the distribution of scores is close to a bell curve – Z-percentile will favor teams similarly to Placement, other than the fact that very close scores will receive similar points (for example Teams 2 through 4 above). But if scores are more uniformly distributed, Z-percentile instead favors teams more similarly to Percent Max.
+- When scores are more clustered near the mean and more spread out for outliers – more precisely, when the distribution of scores is close to a bell curve – Z-percentile will favour teams similarly to sum of placements, other than the fact that very close scores will receive similar points (e.g. teams 2 through 4 above). However, if scores are more uniformly distributed, Z-percentile instead favours teams more similarly to percent max.
 - If the highest score of 950,000 were instead much higher (e.g. 1,200,000), seeding by placement would remain the same, while seeding under percent max would heavily deflate all other teams, and seeding under Z-percentile would be altered slightly (most notably in shifting the average and thus the range of scores in which improvements are most important).
 
 Finally, a side-by-side comparison of all seeding methods on this page using the [osu! World Cup 2024](/wiki/Tournaments/OWC/2024) Qualifier data can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSNjTR6oXcjyCEaNEu-h0EabC8ZSYUMVhjEUYvZsfU78JXOrUpoOc_lIDinRe2gWEDbDCkTdvr1VCn9/pubhtml).
