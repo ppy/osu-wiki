@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
 ---
 
 # Umstellung auf lazer
@@ -105,7 +107,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Aufsplittung und Zusammenführung von Slidern | ![Nein][false] | ![Ja][true] |
 | Pattern-Rotation | ![Ja][true] | ![Ja][true] |
 | Pattern-Skalierung | ![Nein][false] | ![Ja][true] |
-| Beatmap-Einreichung | ![Ja][true] | ![Nein][false] |
+| Beatmap-Einreichung | ![Ja][true] | ![Ja][true] |
 | Storyboard-Editor | ![Ja][true] | ![Nein][false] |
 | Cross-Kompatibilität | ![Ja][true] | ![Teilweise][partial][^incompatibilities] |
 
