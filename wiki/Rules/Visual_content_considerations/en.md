@@ -53,13 +53,19 @@ In certain circumstances, some exceptions may apply for artistic use of high-eff
 
 *See: [Content voting process](/wiki/Rules/Content_voting_process).*
 
-Images that are used anywhere on the site outside of a beatmap (avatars, profile covers, userpages, etc) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the Global Moderation Team.
+Images that are used anywhere on the site outside of a beatmap (avatars, profile covers, userpages, etc) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
 
 If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied.
 
 **The result of any vote is final**, unless the image is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
 
 At all times, [the osu! team](/wiki/People/osu!_team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
+
+## What happens if my image isn't okay?
+
+Any images, videos, or visual content the GMT deems inappropriate are removed from the website. Additionally, the user that uploaded that visual content may be [silenced](/wiki/Help_centre/Silences) for 43 hours depending on the severity of the offence and the user's relevant history.
+
+For inappropriate visual content on beatmaps, silences will generally not be handed out as long as the visual content is not severely inappropriate and the user removes the offending content within a reasonable time frame.
 
 ## Notes
 
