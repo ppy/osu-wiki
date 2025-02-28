@@ -7,7 +7,7 @@ tags:
   - juego automático
 ---
 
-# Autoplay (lazer mod)
+# Autoplay (mod de lazer)
 
 ::: Infobox
 

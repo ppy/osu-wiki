@@ -6,7 +6,7 @@ tags:
   - piloto automático
 ---
 
-# Autopilot (lazer mod)
+# Autopilot (mod de lazer)
 
 ::: Infobox
 
