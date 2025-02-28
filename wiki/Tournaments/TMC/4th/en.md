@@ -69,6 +69,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
   - [Qualifier](https://www.twitch.tv/collections/r4kDVUObIhiWlQ) 
   - [Group stage](https://www.twitch.tv/collections/UzdD8QkYHBhnSQ)
   - [Round of 32](https://www.twitch.tv/collections/ad7xc-k4JRgA3w)
+  - [Round of 16](https://www.twitch.tv/collections/Edj5-4BmJxj1nQ)
 
 ## Participants
 
@@ -195,10 +196,35 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (148 MB)](https://drive.google.com/file/d/1tZHPcVBLblsgGm4iHPUR_6hNfneVkEOk/)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=K4o2j2zd-yQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
+
+- Rice
+  1. [Foreground Eclipse - You May Not Want To Hear This But (Ycloki)\[I am here screaming, yelling and crying.\]](https://osu.ppy.sh/beatmapsets/2329601#mania/4996397)
+  2. [FELT - New World (Kiraz)\[Reborn 1.13x (220bpm)\]](https://osu.ppy.sh/beatmapsets/2329538#mania/4996122)
+  3. [Tomohiko Togashi feat. Kano - Kimi to Iu Tokuiten (Cut Ver.) (Blue\_Potion)\[Singular 1.05x\]](https://osu.ppy.sh/beatmapsets/2329583#mania/4996291)
+  4. [NJK Record - Spring Of Dreams (Cut Ver.) (Miaurichesu)\[Memories 1.1x\]](https://osu.ppy.sh/beatmapsets/2147028#mania/4522577)
+  5. [DJ suslik - Made In China (Blue\_Potion)\[Save Your Soul (w/ YuEast 2018) 1.0x\]](https://osu.ppy.sh/beatmapsets/2329589#mania/4996318)
+- Rice (Extreme)
+  1. [Akatsuki Records - Rock 'n' Rock 'n' Beat (ImperialTrinity)\[Bang! Bang!\]](https://osu.ppy.sh/beatmapsets/2329599#mania/4996381)
+- Long Note
+  1. [Floating Cloud - Road to the moon (Castella)\[Happy End\]](https://osu.ppy.sh/beatmapsets/2329584#mania/4996292)
+  2. [Yuma Mizonokuchi feat. Ai Ohsera - Princess Lily (Xinhong1003)\[Blooming\]](https://osu.ppy.sh/beatmapsets/2329588#mania/4996312)
+  3. [ccy - Another Apple (cherrychou)\[YuEast's 2025 LN Ver.\]](https://osu.ppy.sh/beatmapsets/1612762#mania/4996395)
+- Long Note (Extreme)
+  1. [marasy - Re:Unknown X (cherrychou)\[Lunatic (edit)\]](https://osu.ppy.sh/beatmapsets/2279360#mania/4996380)
+- Hybrid
+  1. [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (V1do-)\[Illusional\]](https://osu.ppy.sh/beatmapsets/2329573#mania/4996270)
+  2. [Tokyo Active NEETs - Akahoshi Mizeraburu \~ Hai yi Hen (Game Ver.) (AelSan)\[Master 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/2329582#mania/4996289)
+- Tiebreaker
+  1. [Para Dot. - Hyper banquet (gzdongsheng)\[514nm\]](https://osu.ppy.sh/beatmapsets/2329595#mania/4996354)
+
 ### Round of 32
 
 **[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1Bhg8Jd9zVSsKXutnsJY3we2shktkKHJR/)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2383637280)
+[View the showcase VOD here](https://www.youtube.com/watch?v=nANJIH8VJvA&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
 
 - Rice
   1. [senya - Yozakura ni Kimi wo Kakushite (Xzzj)\[1.05 cut edited by YuEast 2018\]](https://osu.ppy.sh/beatmapsets/1844571#mania/4983634)
@@ -217,13 +243,13 @@ The Touhou Project Mania Cup 4th is run by various community members.
 - Hybrid
   1. [BUTAOTOME - Towa no Maigo (fvrex)\[Gastronomic Alchemy\]](https://osu.ppy.sh/beatmapsets/2325603#mania/4985013)
   2. [Shibayan feat. yana - Oznei Haman wa Mou Iranai (Cut Ver.) (\[GB\]Reisen)\[YuEast & Micleak's Gulp2\]](https://osu.ppy.sh/beatmapsets/2325617#mania/4985048)
-- TB
+- Tiebreaker
   1. [JAKAZiD & nora2r - Heian no Alien (Night Striker Mix) (PORTTAYER)\[Speed Up X\]](https://osu.ppy.sh/beatmapsets/2325616#mania/4985046)
 
 ### Group stage
 
 **[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1-IhujJ4Fsbri2VT4X-i7fMjXuqn-Pk3d/)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2365764699)
+[View the showcase VOD here](https://www.youtube.com/watch?v=G8oefVm9HRE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
 
 - Rice
   1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Akebosi Rocket (\[GB\]Reisen)\[PORTTAYER's Retrospective x1.1\]](https://osu.ppy.sh/beatmapsets/2314529#mania/4953189)
@@ -249,7 +275,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 ### Qualifiers
 
 **[Download the mappack here! (30 MB)](https://drive.google.com/file/d/1-G2a4Azp-V6DXjdfw1PlNtroJGPhHso6/)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2357615055)
+[View the showcase VOD here](https://www.youtube.com/watch?v=dBhtKsWFjHc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
 
 1. [Sasara Yuuna - Oreore Shuugetsu \~Wriggle de Pikokyon\~ (Cut Ver.) (AutotelicBrown)\[Stage 1: Fool Moon\]](https://osu.ppy.sh/beatmapsets/2310392#mania/4942637)
 2. [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Sped Up & Cut Ver.) (MyZterioN-)\[Stage 2: Sakura Tears\]](https://osu.ppy.sh/beatmapsets/2310371#mania/4942587)
@@ -259,6 +285,41 @@ The Touhou Project Mania Cup 4th is run by various community members.
 6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan)\[Stage 6: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
 
 ## Match results
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1BaXBtkVWm37aqD-NzjpMJSFjATpzLvKhEYid7enO9O4/).
+
+Friday, 21 February 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **有点弱，，** | **5** | 2 | shreimu (reimu shrimp) | [#1](https://osu.ppy.sh/community/matches/117248769) | [#1](https://www.youtube.com/watch?v=YSH8I1PMofE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1BsADezEBm) |
+
+Saturday, 22 February 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Mahjong Soul Official** | **5** | 0 | ball itchers | [#1](https://osu.ppy.sh/community/matches/117265242) | [#1](https://www.youtube.com/watch?v=gpwRBrQExsw&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1v8ADeKEaA) |
+| **Mr Beajek's winter ARC** | **5** | 3 | Help me, P3pp3RINNNNNN | [#1](https://osu.ppy.sh/community/matches/117265292) | [#1](https://www.youtube.com/watch?v=9GndLRG0c94&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV14mADe9E77) |
+| **:bucket::1217god::scream:** | **5** | 3 | Eerie Idiots in Space | [#1](https://osu.ppy.sh/community/matches/117265968) | [#1](https://www.youtube.com/watch?v=5se2T-lcl54&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV11uADeSEhz) |
+| E=mc² | 1 | **5** | **Adrianlazer Fanboys** | [#1](https://osu.ppy.sh/community/matches/117266904) | [#1](https://www.youtube.com/watch?v=2M2W7O-TLLs&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1y3ADeEEt4) |
+| **spongebob water** | **5** | 0 | sprite cranberry | [#1](https://osu.ppy.sh/community/matches/117271596) | [#1](https://www.youtube.com/watch?v=bkvnV0lBuUI&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1vhADevEFr) |
+
+Sunday, 23 February 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Girlfriend ASMR** | **5** | 0 | Odysseus | [#1](https://osu.ppy.sh/community/matches/117274542) | [#1](https://www.youtube.com/watch?v=1PbpvkEayE0&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1Z4ADeMEVD) |
+| **vivid/stasis** | **5** | -1 | The Chen Enjoyers | *win by default* |  |
+| **Gravity Coil** | **5** | 0 | Fish⁴ | [#1](https://osu.ppy.sh/community/matches/117278929) | [#1](https://www.youtube.com/watch?v=9bW7pEjTwiY&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1bDAReMECL) |
+| **cheewee10** | **5** | 3 | the malaysians + 1 indo | [#1](https://osu.ppy.sh/community/matches/117279443) | [#1](https://www.youtube.com/watch?v=_UEOqH91S00&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1ynAReZEAH) |
+| **Girls Band Cry** | **5** | 1 | The Clones | [#1](https://osu.ppy.sh/community/matches/117279783) | [#1](https://www.youtube.com/watch?v=pRjSQfI81fY&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1DAP4e8Eya) |
+| **Benny Goodman** | **5** | 0 | fuma fumos | [#1](https://osu.ppy.sh/community/matches/117280045) | [#1](https://www.youtube.com/watch?v=SyF_V1M1KeM&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1erARe5Ekw) |
+| **cucumbers** | **5** | 0 | The Boys | [#1](https://osu.ppy.sh/community/matches/117280318) | [#1](https://www.youtube.com/watch?v=63J64wtpsW8&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1yjP4eDEUH) |
+| **Chodan** | **5** | 0 | GOOOOOOOOOOAAAAAAAAAAAAL | [#1](https://osu.ppy.sh/community/matches/117280861) | [#1](https://www.youtube.com/watch?v=gk7O8jF1f0o&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1vBARejEb2) |
+| **Retirados y Peligrosos** | **5** | 3 | kingg! | [#1](https://osu.ppy.sh/community/matches/117281560) | [#1](https://www.youtube.com/watch?v=AuDo361x_PM&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV11FAdewEpJ) |
+| **"OH MY DAYS (skylanders)"** | **5** | 0 | Mystia's Izakaya Patrons | [#1](https://osu.ppy.sh/community/matches/117284598) | [#1](https://www.youtube.com/watch?v=5W7qBJcKNmE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1KVP4e9E49) |
 
 ### Group stage
 
