@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 5869ad4dd35ba5fc8f219daf56ba26c49dca418d
 tags:
   - badge
   - badges
@@ -17,7 +15,7 @@ tags:
 
 El [osu! team](/wiki/People/osu!_team) dirige un programa en el que puede optar por proporcionar un soporte extra a los torneos organizados por la comunidad que cumplan una serie de criterios y expectativas, según su criterio.
 
-Este artículo se actualizó por última vez el 13 de diciembre de 2024. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Este artículo se actualizó por última vez el 28 de febrero de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Beneficios
 
@@ -133,6 +131,7 @@ Además de las expectativas para los programas mencionados anteriormente, las he
 - Si se usa un conjunto de datos de partidas multijugador de osu!, puntuaciones de jugadores o cualquier otra cosa, los archivos deben estar a disposición del público, ser descargables, tener fecha y hora, y que el archivo más reciente no tenga más de 30 días de antigüedad. Los archivos deben estar disponibles durante al menos 6 meses. La documentación debe explicar cómo recrear el conjunto de datos y reproducir los resultados con él, incluyendo el código cuando sea necesario.
   - Los torneos que usen dichas herramientas deberán revelar las fechas en las que formaron a los cabezas de serie y/o filtraron a los jugadores usando estas herramientas.
 - Cuando se realicen las clasificatorias, la fórmula o método usado para determinar los cabezas de serie debe incluirse en el reglamento del torneo.
+  - Los métodos más usados y las matemáticas que los sustentan se pueden encontrar en el artículo [Métodos comunes para la distribución de los cabezas de serie en los torneos](/wiki/Tournaments/Common_seeding_methods) de la wiki.
 
 Un tercero debería poder obtener los mismos resultados sin necesidad de información adicional. Está estrictamente prohibido filtrar manualmente a los jugadores o ajustar sus semillas.
 
@@ -163,11 +162,13 @@ A discreción del equipo de soporte, los miembros del personal cuya conducta pro
 
 Una lista de todo el personal del torneo debe estar a la vista del público en un lugar de fácil acceso. Esta lista puede estar incluida en la publicación del torneo en el foro, en una página de la wiki, en un sitio web o en una hoja de cálculo. Si hay varias listas del personal, todas deben estar actualizadas y sincronizadas entre sí.
 
+A discreción del equipo de soporte, los organizadores que cometan errores graves que infrinjan las normas de elegibilidad o las expectativas del soporte oficial podrán ser sancionados con un veto para ser anfitriones. Los vetos como anfitrión se pueden usar en lugar de retirar el soporte oficial cuando un torneo, de otro modo, no sería elegible para el soporte mientras se mantiene la integridad competitiva. Mientras un usuario se encuentre bajo un veto como anfitrión, no podrá ser organizador principal ni administrador de ningún torneo con soporte oficial. Sin embargo, pueden desempeñar otras funciones que no impliquen la organización.
+
 ### Jugadores
 
 Se espera que los participantes en los torneos con soporte oficial cumplan las [reglas de la comunidad de osu!](/wiki/Rules) en todo momento, independientemente de su rango, logros u otras hazañas. También se espera de ellos que traten con respeto a todos los voluntarios que participen en la organización de un torneo y que no intenten deliberadamente hacerles perder el tiempo o complicar excesivamente la realización de un torneo con sus acciones.
 
-Además, se espera que los jugadores hayan *participado razonablemente* en un torneo determinado para poder optar a los premios que pueda otorgar; no basta con clasificarse como miembro de un equipo ganador.
+Además, se espera que los jugadores hayan participado en un torneo determinado para poder optar a los premios que pueda otorgar; no basta con clasificarse como miembro de un equipo ganador. Dado que hay contribuciones intangibles a los equipos que los jugadores suelen hacer sin jugar mapas, solo a los jugadores que *no jueguen ningún mapa* en el transcurso de un torneo se les podrá negar el premio de la insignia.
 
 A discreción del equipo de soporte de cuentas, los jugadores infractores pueden recibir [vetos](/wiki/Help_centre/Tournament_bans) temporales o indefinidos dependiendo de la gravedad de su conducta. Los infractores reincidentes pueden arriesgarse a recibir un veto por tiempo indefinido o una restricción.
 
@@ -204,7 +205,7 @@ Solo los jugadores que participen en el torneo **o** que serían probables susti
 
 ### Insignias de perfil
 
-Los torneos con soporte oficial que cumplan las [expectativas anteriores](#expectativas) podrán solicitar premios en forma de insignias de perfil una vez finalizados. Los premios en forma de insignias de perfil deben solicitarse como máximo dos meses después de la finalización del torneo. **Las insignias no se aprobarán hasta después de la conclusión del torneo.**
+Los torneos con soporte oficial que cumplan las [expectativas anteriores](#expectativas) podrán solicitar premios en forma de insignias de perfil una vez finalizados. Recomendamos encarecidamente solicitar los premios de las insignias de perfil lo antes posible una vez finalizado el torneo, ya que esto beneficiará al [proceso de revisión](/wiki/People/Tournament_Committee#revisión-de-los-torneos). **Las insignias no se aprobarán hasta después de la conclusión del torneo.**
 
 Las imágenes de las insignias de perfil deben cumplir los siguientes estándares:
 
