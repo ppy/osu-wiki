@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - GMT
   - moderator
@@ -11,7 +13,7 @@ tags:
 
 *Đọc thêm: [Mod (định hướng)](/wiki/Disambiguation/Mod).*
 
-**Đội ngũ Kiểm duyệt viên** (từng được biết đến với tên Global Mod Team, Administrators, hoặc GreenBAT), thường đuợc gọi là **GMT**, bao gồm những thành viên của cộng đồng tập trung chủ yếu vào việc quản lý người chơi và vấn đề liên quan đến đội ngũ nói riêng và cộng đồng nói chung. Họ được nhận diện bởi danh hiệu màu xanh lá, huy hiệu [nhóm người dùng](/wiki/People/User_group) có đề tên `GMT`, và tên người dùng hiện màu đỏ trong game.
+**Đội ngũ Kiểm duyệt viên** (từng được biết đến với tên Global Mod Team, Administrators, hoặc GreenBAT), thường đuợc gọi là **GMT**, bao gồm những thành viên của cộng đồng tập trung chủ yếu vào việc quản lý người chơi và vấn đề liên quan đến đội ngũ nói riêng và cộng đồng nói chung. Họ được nhận diện bởi danh hiệu màu xanh lá, huy hiệu [nhóm người dùng](/wiki/People/User_groups) có đề tên `GMT`, và tên người dùng hiện màu đỏ trong game.
 
 **Tất cả thành viên của đội ngũ Kiểm duyệt  cam kết tuân thủ [Bộ quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct) bên cạnh [Nội quy Cộng đồng](/wiki/Rules).**
 

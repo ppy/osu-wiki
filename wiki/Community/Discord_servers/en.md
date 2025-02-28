@@ -44,6 +44,7 @@ Besides the game mode hubs, other community servers exist to facilitate communic
 |  | Name | Owner | Description |
 | :-: | :-- | :-- | :-- |
 | [![](img/Mapset-Management-Server.png)](https://discord.com/invite/TCDSjhb6yS) | [Mapset Management Server](https://discord.com/invite/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** hosts spaces to create and browse requests for [mods](/wiki/Modding), [guest difficulties](/wiki/Beatmap/Guest_difficulty), and [collaborations](/wiki/Beatmap/Beatmap_collaborations) in a casual environment. |
+| [![](img/Mentorship.png)](https://discord.com/invite/Ft2FtXmBgx) | [Mentorship](https://discord.com/invite/Ft2FtXmBgx) | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | The **Mentorship** server manages the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program), hosting seasonal classes to teach and learn [mapping](/wiki/Beatmapping) and [modding](/wiki/Modding) for all game modes. |
 
 ## Tournaments
 
@@ -53,6 +54,7 @@ These servers aim to provide users everything related to [tournaments](/wiki/Tou
 | :-: | :-- | :-- | :-- |
 | [![](img/osu!-Tournament-Hub.png)](https://discord.com/invite/bvhajDC) | [osu! Tournament Hub](https://discord.com/invite/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) | The **osu! Tournament Hub** provides resources around tournament organisation and channels for advertising new tournaments and staff recruitments in all game modes and regions. |
 | [![](img/osu!mania-Tourney-Central.png)](https://discord.com/invite/WnMcrUnGV5) | [osu!mania Tourney Central](https://discord.com/invite/WnMcrUnGV5) | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | **osu!mania Tourney Central** focuses on resources and staff recruitments for tournaments in the osu!mania game mode. |
+| [![](img/poolingcore.png)](https://discord.com/invite/gpEbCBE7Jg) | [poolingcore](https://discord.com/invite/gpEbCBE7Jg) | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) | **poolingcore** provides resources around tournament mappooling and mapping primarily in the osu! game mode. The server features occasional games and contests related to mappooling and allows verified hosts to recruit active mappoolers and mappers for their tournaments. |
 
 ## Project Loved
 

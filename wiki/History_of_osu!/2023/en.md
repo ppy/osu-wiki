@@ -114,7 +114,7 @@ Similar to the other [release streams](/wiki/Client/Release_stream), osu!(lazer)
 
 [^contributors]: [News post by osu! team (2023-11-19) "Community Contributors: 2022 & 2023"](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
 
-[^feedback]: [Forum thread by peppy (2023-12-18) "osu!(lazer) 2023.1218.0 release feedback "](https://osu.ppy.sh/community/forums/topics/1858702?n=1)
+[^feedback]: [Forum thread by peppy (2023-12-18) "osu!(lazer) 2023.1218.0 release feedback"](https://osu.ppy.sh/community/forums/topics/1858702?n=1)
 [^lazer-12-18]: [News post by Walavouchey (2023-12-18) "osu!(lazer) Updates & Preparing For Ranked Play"](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play)
 [^winter-fanart]: [News post by Ephemeral (2023-12-07) "Winter 2023 Fanart Contest Results"](https://osu.ppy.sh/home/news/2023-12-07-winter-fanart-contest-results)
-[^lazer-user-count]: [Tweet by peppy (2023-12-15)](https://twitter.com/ppy/status/1735606671031091389)
+[^lazer-user-count]: [Tweet by @ppy (2023-12-15)](https://twitter.com/ppy/status/1735606671031091389)

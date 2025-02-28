@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
+---
+
 # Comunidade
 
 Essa página lista formas de entrar em contato com pessoas de todo osu!. Se você está procurando oportunidades para contribuir, mas não sabe exatamente onde começar, certifique-se de ler [Como eu posso ajudar!](/wiki/Community/How_you_can_help!)
