@@ -7,7 +7,7 @@ tags:
   - tiempo doble
 ---
 
-# Double Time (lazer mod)
+# Double Time (mod de lazer)
 
 ::: Infobox
 

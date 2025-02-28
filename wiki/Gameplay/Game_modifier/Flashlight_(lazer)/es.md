@@ -6,7 +6,7 @@ tags:
   - linterna
 ---
 
-# Flashlight (lazer mod)
+# Flashlight (mod de lazer)
 
 ::: Infobox
 

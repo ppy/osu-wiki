@@ -4,7 +4,7 @@ tags:
   - EZ
 ---
 
-# Easy (lazer mod)
+# Easy (mod de lazer)
 
 ::: Infobox
 

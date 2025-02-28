@@ -6,7 +6,7 @@ tags:
   - desvanecimiento
 ---
 
-# Fade In (lazer mod)
+# Fade In (mod de lazer)
 
 ::: Infobox
 
