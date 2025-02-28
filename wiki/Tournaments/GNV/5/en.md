@@ -31,7 +31,7 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1,000,000 IDR, *banner userpage* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1,000,000 IDR, customised profile banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 625,000 IDR, customised profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 375,000 IDR, *banner userpage* |
 | Finalist | 150,000 IDR, *banner userpage* |
