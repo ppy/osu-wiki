@@ -5,7 +5,7 @@ tags:
   - TP
 ---
 
-# Target Practice (lazer mod)
+# Target Practice (mod de lazer)
 
 ::: Infobox
 
@@ -15,7 +15,7 @@ tags:
 
 ![Icono del mod Target Practice](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TP.png)
 
-*Práctica siguiendo el ritmo de la canción.*
+*Practica siguiendo el ritmo de la canción.*
 
 |  |  |
 | :-- | :-- |
