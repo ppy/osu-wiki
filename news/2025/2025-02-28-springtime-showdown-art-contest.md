@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Springtime Showdown Art Contest
-date: 2025-02-28 15:30:00 +0000
+date: 2025-02-28 16:00:00 +0000
 ---
 
 This is your moment... proceed with unwavering resolve.
