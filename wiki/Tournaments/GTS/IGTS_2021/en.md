@@ -55,7 +55,7 @@ The Intermediate Global Taiko Showdown 2021 was run by various community members
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1359725)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1358322)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
 - [GTS website](https://gtsosu.com)
 - Livestream

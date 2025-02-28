@@ -11,7 +11,7 @@ tags:
 
 *Đọc thêm: [Quy tắc của Đề cử viên](Rules), [Tiêu chuẩn riêng dành cho Đề cử viên](Expectations), [Thông tin chung dành cho Đề cử viên](General_Information), và [Trở thành một Đề cử viên](Becoming_a_Beatmap_Nominator)*
 
-**Đội ngũ Đề cử viên** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_group) có đề tên `BN`.
+**Đội ngũ Đề cử viên** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `BN`.
 
 ## Vai trò và trách nhiệm của Đề cử viên
 
