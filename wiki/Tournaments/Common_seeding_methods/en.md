@@ -24,7 +24,7 @@ As always, a third party should be able to get the same results without needing 
 The explanations below frequently use the following terms:
 
 - A **team** is a single entity participating in the tournament. For example, the 6–8 players from each country in [OWC](/wiki/Tournaments/OWC) are considered one team, while each player in the [Lazer Grand Arena](/wiki/Tournaments/LGA/2024) is considered their own team.
-- A **score** is a numerical value used for determining a team's performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members' scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a Qualifiers mappool; in those cases, the team's score is often either the highest or the average of those runs.
+- A **score** is a numerical value used for determining a team's performance on a given map. For example, in a 3v3 team tournament, a score typically refers to the sum of the three team members' scores, rather than those three numbers separately. Some tournaments may allow teams multiple runs through a Qualifier mappool. In those cases, the team's score is often either the highest or the average of those runs.
 - A team's **seed** is a number indicating their overall ranking among all teams. Typically, after one of the seeding methods below is used, the top N teams (that is, the teams seeded 1, 2, ..., N) are placed into an elimination bracket or other competition format, with their locations being determined by their seeds.
 - **Normalisation** is the process of dividing a team's score by any mod multipliers on the map. Typically, this is done to avoid artificial inflation of scores on modded maps.
 
@@ -94,7 +94,7 @@ Here, `NORMCDF` is the cumulative distribution function for the standard normal 
 
 ### Zipf's law
 
-Much like Sum of Placements, this seeding method ranks all scores on each map played, but it then gives the team points according to a version of the [Zipf–Mandelbrot law](https://en.wikipedia.org/wiki/Zipf%E2%80%93Mandelbrot_law). This yields a particularly high number of points for the top scorers on each map (largest gap between the first and second highest score), and seeding is then determined by the sum of all points received (with the highest sum receiving seed 1).
+Much like the sum of placements method, this seeding method ranks all scores on each map played, but it then gives the team points according to a version of the [Zipf–Mandelbrot law](https://en.wikipedia.org/wiki/Zipf%E2%80%93Mandelbrot_law). This yields a particularly high number of points for the top scorers on each map (largest gap between the first and second-highest score), and seeding is then determined by the sum of all points received (with the highest sum receiving seed 1).
 
 The usual formula used for assigning points is given by
 
@@ -106,7 +106,7 @@ Note that this seeding method may still make sense if `1.4 * m` is replaced by s
 
 ### Breaking ties
 
-All of the methods above may result in ties between teams. By default, these ties are usually broken by average normalised score (so if multiple teams would otherwise receive the same seeding rank, the team with the highest average normalised score would be seeded above the others). It is extremely rare to also have a tie after this point, but one option would be to assign the higher seeding to the higher ranked player (or in the case of teams, the highest ranked player per team) at the time when registrations close.
+All of the methods above may result in ties between teams. By default, these ties are usually broken by average normalised score (so if multiple teams would otherwise receive the same seeding rank, the team with the highest average normalised score would be seeded above the others). It is extremely rare to also have a tie after this point, but one option would be to assign the higher seeding to the higher-ranked player (or in the case of teams, the highest-ranked player per team) at the time when registrations close.
 
 Other options for breaking ties may also be sensible (such as the number of top-N placements on maps), but they should be specified in documentation if used.
 
@@ -128,14 +128,14 @@ where `map points` is the quantity that the seeding method assigns to each map (
 
 There are many factors that go into choosing a seeding method for a tournament. First of all, the following principles are important to keep in mind:
 
-- **Lack of Qualifiers**: All of the seeding methods above assume that teams all play through the same Qualifiers mappool. If Qualifiers are not played, then it may make sense instead to seed by rank or [BWS](/wiki/Tournaments/Badge-weighted_seeding). (For example, a 2v2 tournament with team size 4 may seed teams by the sum of their two best BWS ranks, with the smallest sum being seeded 1st.)
-  - Note that some tournaments may begin head-to-head competition by placing teams into a Group Stage or Swiss-system tournament instead of a standard elimination bracket. However, these other systems still require specification on how the teams are placed into matchups, so often some method of seeding is still required (either one of the ones mentioned in this page, or random drawings).
-- **Scoring system**: Most of the seeding methods above are typically used when tournaments are played with the ScoreV2 scoring system. Thus, extra care should be taken when seeding tournaments that use ScoreV1, accuracy, or other methods of scoring. For example, a map played with ScoreV1 may have high outliers from well-performing teams, so it may be less appropriate to seed by Z-percentile or Percent Max.
-- **Transparency and familiarity**: More complicated seeding methods, or new formulas that are not widely used in tournaments, may be more difficult for players and staff to understand or double-check. It may be advantageous to choose a seeding method that can be quickly sanity checked without needing heavy calculation.
+- **Lack of Qualifiers:** All of the seeding methods above assume that teams all play through the same Qualifier mappool. If Qualifiers are not played, then it may make sense instead to seed by rank or [BWS](/wiki/Tournaments/Badge-weighted_seeding). (For example, a 2v2 tournament with team size 4 may seed teams by the sum of their two best BWS ranks, with the smallest sum being seeded 1st.)
+  - Note that some tournaments may begin head-to-head competition by placing teams into a Group Stage or Swiss-system tournament instead of a standard elimination bracket. However, these other systems still require specification on how the teams are placed into matchups, meaning a method of seeding is still likely required (either one of the ones mentioned in this page, or random drawings).
+- **Scoring system:** Most of the seeding methods above are typically used when tournaments are played with the ScoreV2 scoring system. Thus, extra care should be taken when seeding tournaments that use ScoreV1, accuracy, or other methods of scoring. For example, a map played with ScoreV1 may have high outliers from well-performing teams, so it may be less appropriate to seed by Z-percentile or percent max.
+- **Transparency and familiarity:** More complicated seeding methods, or new formulas that are not widely used in tournaments, may be more difficult for players and staff to understand or double-check. It may be advantageous to choose a seeding method that can be quickly sanity-checked without needing heavy calculation.
 
 ### Comparing the most commonly used methods
 
-For reference, below is a list of Qualifiers seeding methods used in the official osu! World Cups (which are team tournaments). Note that older tournaments often instead directly began with a Group Stage, choosing the qualifying teams by the osu! website's country rank.
+Below is a list of Qualifier seeding methods used in the official osu! World Cups (which are team tournaments). Note that older tournaments often instead directly began with a group stage, choosing the qualifying teams by the osu! website's country rank.
 
 |  | osu! | osu!taiko | osu!catch | osu!mania 4K | osu!mania 7K |
 | --: | :-: | :-: | :-: | :-: | :-: |
@@ -157,24 +157,24 @@ It is particularly common for tournaments to seed by **sum of placements, percen
 
 To contrast these methods, notice the following:
 
-- Score differences do not directly factor into Placement except for exact ties, but they do significantly impact points under Percent Max and Z-percentile.
-- Teams 1 and 2, teams 5 and 6, and teams 7 and 8 each had a score difference of 150,000 points. This difference counts equally in all cases for Percent Max (about 0.16 points) but makes a bigger difference for teams 5 and 6 in Z-percentile (about 0.25 points compared to 0.15 or 0.11 for the other pairs) because their scores are closer to the mean.
+- Score differences do not directly factor into the placement except for exact ties, but they do significantly impact points under percent max and Z-percentile seeding.
+- Teams 1 and 2, teams 5 and 6, and teams 7 and 8 each had a score difference of 150,000 points. This difference counts equally in all cases for percent max (about 0.16 points) but makes a bigger difference for teams 5 and 6 in Z-percentile (about 0.25 points compared to 0.15 or 0.11 for the other pairs) because their scores are closer to the mean.
 - When scores are more clustered near the mean and more spread out for outliers – more precisely, when the distribution of scores is close to a bell curve – Z-percentile will favor teams similarly to Placement, other than the fact that very close scores will receive similar points (for example Teams 2 through 4 above). But if scores are more uniformly distributed, Z-percentile instead favors teams more similarly to Percent Max.
-- If the highest score of 950,000 were instead much higher (like 1,200,000), seeding under Placement would remain the same, seeding under Percent Max would heavily deflate all other teams, and seeding under Z-percentile would be altered slightly (most notably in shifting the average and thus the range of scores in which improvements are most important).
+- If the highest score of 950,000 were instead much higher (e.g. 1,200,000), seeding by placement would remain the same, while seeding under percent max would heavily deflate all other teams, and seeding under Z-percentile would be altered slightly (most notably in shifting the average and thus the range of scores in which improvements are most important).
 
-Finally, a side-by-side comparison of all seeding methods on this page using the [osu! World Cup 2024](/wiki/Tournaments/OWC/2024) Qualifiers data can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSNjTR6oXcjyCEaNEu-h0EabC8ZSYUMVhjEUYvZsfU78JXOrUpoOc_lIDinRe2gWEDbDCkTdvr1VCn9/pubhtml).
+Finally, a side-by-side comparison of all seeding methods on this page using the [osu! World Cup 2024](/wiki/Tournaments/OWC/2024) Qualifier data can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSNjTR6oXcjyCEaNEu-h0EabC8ZSYUMVhjEUYvZsfU78JXOrUpoOc_lIDinRe2gWEDbDCkTdvr1VCn9/pubhtml).
 
 ### Further analysis
 
 Here are some other features and comparisons of seeding methods to keep in mind, especially for tournaments using methods not listed on this page.
 
 - Some seeding methods are not very sensitive overall to individual teams' scores, while others may be changed more dramatically.
-  - For example, Sum of Placements yields the same placements no matter how large the differences between team scores are, but a particularly high or low score in Percent Difference may cause all other `map points` to be unusually close together. This is particularly important for modes like osu!taiko or osu!mania where scores are typically very close to the maximum possible; historically, some tournaments such as [SOFT](/wiki/Tournaments/SOFT) have instead used a "piecewise-linear" Percent Difference method by grouping scores by quartile.
-  - For another kind of example, the Z-sum and Z-percentile seeding methods have the feature that very close scores will receive very close point values for seeding (so if there is a cluster of many nearby scores, the highest and lowest scores of those clusters will be considered similarly in seeding), which is behaviour that does not occur for Sum of Placements.
-- Some seeding methods benefit specialists, while others benefit consistent performances. For example, Zipf's Law will give a large boost in seeding to teams with the highest or near-highest rank on a map compared to Sum of Placements. And because of the shape of the normal distribution, Z-sum will give a large boost for extremely high scores (and a large reduction for extremely low scores) compared to Z-percentile; thus, Z-percentile tends to favour all-rounders over specialists compared to Z-sum.
+  - For example, sum of placements yields the same placements no matter how large the differences between team scores are, but a particularly high or low score in percent difference may cause all other `map points` to be unusually close together. This is particularly important for modes like osu!taiko or osu!mania where scores are typically very close to the maximum possible; historically, some tournaments such as [SOFT](/wiki/Tournaments/SOFT) have instead used a "piecewise-linear" percent difference method by grouping scores by quartile.
+  - For another kind of example, the Z-sum and Z-percentile seeding methods have the feature that very close scores will receive very close point values for seeding (i.e. if there is a cluster of many nearby scores, the highest and lowest scores of those clusters will be considered similarly in seeding), which is behaviour that does not occur for the sum of placements method.
+- Some seeding methods benefit specialists, while others benefit consistent performances. For example, Zipf's law will give a large boost in seeding to teams with the highest or near-highest rank on a map compared to sum of placements. Similarly, because of the shape of the normal distribution, Z-sum will give a large boost for extremely high scores (and a large reduction for extremely low scores) compared to Z-percentile. Z-percentile therefore tends to favour all-rounders over specialists compared to Z-sum.
 - Some seeding methods may cause certain maps to contribute more to seeding differences than others.
-  - In particular, weighted seeding methods are designed to allow some maps to factor more into overall seeding than others – this allows for balancing of importance across different skill sets without needing to include extra maps of the same type in a mappool.
-  - For a less direct example, seeding by average score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by Percent Max or Percent Difference will give that one team a large boost while distinguishing the other teams on the map less.
+  - In particular, weighted seeding methods are designed to allow some maps to factor more into overall seeding than others — this allows for balancing of importance across different skill sets without needing to include extra maps of the same type in a mappool.
+  - For a less direct example, seeding by average score may cause relative performance on easier maps to affect seeding more than relative performance on harder maps (if it is easier to increase score by a fixed amount on the easier map than the harder one). Along the same lines, one particularly high team score on a map may mean that seeding by percent max or percent difference will give that one team a large boost while distinguishing the other teams on the map less.
 
 ## Notes
 
