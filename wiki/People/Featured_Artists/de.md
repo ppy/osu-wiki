@@ -46,7 +46,7 @@ Wenn eine vorkonfigurierte `.osz` aus der Künstlerauflistung jegliche Fehler au
 
 ## Gesponserte Künstler mit osu!-Accounts
 
-Für ihre Beteiligung erhalten gesponserte Künstler mit einem osu!-Account einen cyanfarbenen [Nutzertitel](/wiki/Community/User_title) "Featured Artist" und ein [Gruppenabzeichen](/wiki/People/User_group), auf dem `FA` steht.
+Für ihre Beteiligung erhalten gesponserte Künstler mit einem osu!-Account einen cyanfarbenen [Nutzertitel](/wiki/Community/User_title) "Featured Artist" und ein [Gruppenabzeichen](/wiki/People/User_groups), auf dem `FA` steht.
 
 Die [Gruppenseite für Featured Artists](https://osu.ppy.sh/groups/35) listet alle derartigen Accounts, wohingegen die [Auflistung der Featured Artists](https://osu.ppy.sh/beatmaps/artists) alle gesponserten Künstler nennt.
 
@@ -89,6 +89,7 @@ Die [Gruppenseite für Featured Artists](https://osu.ppy.sh/groups/35) listet al
 | ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) | [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
+| ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
@@ -125,6 +126,7 @@ Die [Gruppenseite für Featured Artists](https://osu.ppy.sh/groups/35) listet al
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |
 | ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |
+| ::{ flag=PH }:: [weary2007](https://osu.ppy.sh/users/31900423) | [WEARY](https://osu.ppy.sh/beatmaps/artists/460) |
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (Mitglied) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |

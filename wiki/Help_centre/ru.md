@@ -13,6 +13,8 @@ tags:
   - не работает
   - сломалось
   - не запускается
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Справочный центр

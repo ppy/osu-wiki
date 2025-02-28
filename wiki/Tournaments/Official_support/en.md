@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on February 7, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on February 28, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -127,6 +127,7 @@ In addition to the expectations for programs above, tools or systems used to fil
 - If a dataset of osu! multiplayer matches, player scores, or otherwise is used, archives must be publicly available, downloadable, timestamped, and have the most recent archive be no more than 30 days out of date. Archives must remain available for at least 6 months. Documentation must be provided explaining how to reproduce the results using it — including code where applicable.
   - Tournaments using such tools must disclose the dates at which they seed and/or filter players using these tools.
 - When doing qualifiers, the formula or method used to determine seeding must be included in the tournament's ruleset.
+  - The most commonly used seeding methods and the mathematics behind them can be found on the [Common seeding methods](/wiki/Tournaments/Common_seeding_methods) wiki page.
 
 A third party should be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
 
@@ -155,13 +156,15 @@ Users under an active tournament ban are expected to disclose their tournament b
 
 At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another officially-supported tournament for at least 4 months. In the event a staffing ban is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
+At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a hosting ban. Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
+
 A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet. If there are multiple lists of staff, they must all be up to date and in sync with one another.
 
 ### Players
 
 Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
 
-Additionally, players are expected to have *reasonably participated* in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough.
+Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough. Because there are intangible contributions to teams that players often make without playing maps, only players who *do not play any maps at all* throughout the course of a tournament may be denied a badge prize.
 
 At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
