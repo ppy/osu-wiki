@@ -4,7 +4,7 @@ tags:
   - CN
 ---
 
-# Cinema (lazer mod)
+# Cinema (mod de lazer)
 
 ::: Infobox
 
