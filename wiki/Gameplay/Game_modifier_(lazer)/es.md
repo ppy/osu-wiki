@@ -98,6 +98,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) ![][osu!]
 - [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
+- [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
 
 ### Sistema
 
