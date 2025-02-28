@@ -5,7 +5,7 @@ tags:
   - HR
 ---
 
-# Hard Rock (lazer mod)
+# Hard Rock (mod de lazer)
 
 ::: Infobox
 

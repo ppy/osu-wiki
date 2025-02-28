@@ -14,7 +14,7 @@ tags:
 
 ![Icono del mod Magnetised](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MG.png)
 
-*No hace falta que persigas los círculos; ¡tu cursor es un imán!*
+*No hace falta que persigas a los círculos; ¡tu cursor es un imán!*
 
 |  |  |
 | :-- | :-- |

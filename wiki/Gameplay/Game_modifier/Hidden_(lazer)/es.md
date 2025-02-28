@@ -4,7 +4,7 @@ tags:
   - HD
 ---
 
-# Hidden (lazer mod)
+# Hidden (mod de lazer)
 
 ::: Infobox
 

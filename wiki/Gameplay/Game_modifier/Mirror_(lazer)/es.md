@@ -4,7 +4,7 @@ tags:
   - MR
 ---
 
-# Mirror (lazer mod)
+# Mirror (mod de lazer)
 
 ::: Infobox
 

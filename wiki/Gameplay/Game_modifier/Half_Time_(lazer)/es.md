@@ -6,7 +6,7 @@ tags:
   - medio tiempo
 ---
 
-# Half Time (lazer mod)
+# Half Time (mod de lazer)
 
 ::: Infobox
 
