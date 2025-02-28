@@ -14,7 +14,7 @@ tags:
 
 ![Icono del mod Wind Up](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WU.png)
 
-*¿Puede seguir el ritmo?*
+*¿Puedes seguir el ritmo?*
 
 |  |  |
 | :-- | :-- |

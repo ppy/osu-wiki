@@ -24,13 +24,13 @@ tags:
 
 ![](img/mod-select-ES.png "El selector de mods para el modo de juego osu!")
 
-Los mods se dividen en cinco categorías: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion` y `Fun`. Pueden reducir o aumentar el multiplicador de puntuación. Cuando se usan dos mods simultáneamente, los multiplicadores respectivos de los mods se multiplicarán juntos (por ejemplo, 1,06x * 1,12x = 1,1872x).
+Los mods se dividen en cinco categorías: `Reducción de dificultad`, `Aumento de dificultad`, `Automatización`, `Conversión` y `Diversión`. Pueden reducir o aumentar el multiplicador de puntuación. Cuando se usan dos mods simultáneamente, los multiplicadores respectivos de los mods se multiplicarán juntos (por ejemplo, 1,06x * 1,12x = 1,1872x).
 
 ## Lista de mods
 
 Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) al lado.
 
-### Mods que reducen la dificultad
+### Reducción de dificultad
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -38,7 +38,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release) ![][osu!mania]
 
-### Mods que aumentan la dificultad
+### Aumento de dificultad
 
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -53,7 +53,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Mods automáticos
+### Automatización
 
 - [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -61,7 +61,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)) ![][osu!]
 - [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)) ![][osu!]
 
-### Mods de conversión
+### Conversión
 
 - [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) ![][osu!]
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -76,7 +76,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) ![][osu!mania]
 - [Mods de teclas (1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) ![][osu!mania]
 
-### Mods de diversión
+### Diversión
 
 - [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform) ![][osu!]
 - [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle) ![][osu!]
@@ -99,7 +99,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 
-### Mods del sistema
+### Sistema
 
 - [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
