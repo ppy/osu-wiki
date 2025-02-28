@@ -39,7 +39,7 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -87,7 +87,7 @@ Answers to frequent questions and solutions to common issues live here.
 
 [Help centre](/wiki/Help_centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
-Profile restrictions: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_centre/Account_restrictions)
+Profile restrictions: [Silences](/wiki/Help_centre/Silences) • [Account restrictions](/wiki/Help_centre/Account_restrictions) • [Tournament bans](/wiki/Help_centre/Tournament_bans)
 
 Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) • [Report bad behaviour](/wiki/Reporting_bad_behaviour) • [Report abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Report cheating](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -100,9 +100,11 @@ Social interaction is one of main things that fuel osu! players all around the w
 
 Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord servers](/wiki/Community/Discord_servers)
 
-[Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+Initiatives: [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Projects](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly)
+
+Media: [Bespoke music](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Video series](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -115,7 +117,7 @@ osu! wouldn't have been possible without many users helping with development, ma
 
 [osu! team](/wiki/People/osu!_team) • [Developers](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Technical Support Team](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Community Contributors](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [User group](/wiki/People/User_group) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)
+[Community Contributors](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [User groups](/wiki/People/User_groups) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

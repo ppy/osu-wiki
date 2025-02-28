@@ -5,17 +5,6 @@ Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) d
 - **Las reglas no deben romperse bajo ninguna circunstancia.**
 - **Las pautas pueden ignorarse y romperse en circunstancias excepcionales.** Al hacerlo, el mapper debe proporcionar una explicación adecuada, ya sea por adelantado o cuando se le solicite durante el proceso de modding.
 
-## Cómo proponer cambios
-
-Los cambios en cualquier parte de los criterios de clasificación se proponen a través del [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).
-
-1. **Crea una propuesta en el [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).** Intenta ser lo más detallado posible al explicar tu idea y el impacto del cambio.
-2. **Llega a un consenso.** Si crees que estás en ese punto, ponte en contacto con un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) para ver si tu propuesta puede implementarse. Hasta cierto punto, el NAT puede actuar como árbitro en casos contenciosos, pero es probable que las propuestas que no cuenten con un consenso general no se aprueben.
-3. **Crea una solicitud de cambios en el repositorio de la osu! wiki en GitHub.** Por lo general, esto lo hace un miembro del NAT que participa en la finalización de la discusión.
-4. **Espera la aprobación de [peppy](https://osu.ppy.sh/users/2).**
-
-Los cambios que no alteren el significado o la intención de los criterios de clasificación, como las mejoras ortográficas, gramaticales o de organización, pueden no necesitar una propuesta en el foro. Sin embargo, es recomendable que consultes con los miembros más experimentados de la comunidad si los cambios son útiles y bienvenidos.
-
 ## Índice
 
 Algunas partes de los criterios de clasificación tienen sus propios artículos, pero siguen aplicándose a todos los beatmaps, independientemente del modo de juego, la duración o cualquier otra restricción.
@@ -43,6 +32,17 @@ Cada [modo de juego](/wiki/Game_mode) tiene criterios de clasificación específ
 - **[osu!taiko](osu!taiko)**
 - **[osu!catch](osu!catch)**
 - **[osu!mania](osu!mania)**
+
+## Cómo proponer cambios
+
+Los cambios en cualquier parte de los criterios de clasificación se proponen a través del [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).
+
+1. **Crea una propuesta en el [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).** Intenta ser lo más detallado posible al explicar tu idea y el impacto del cambio.
+2. **Llega a un consenso.** Si crees que estás en ese punto, ponte en contacto con un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) para ver si tu propuesta puede implementarse. Hasta cierto punto, el NAT puede actuar como árbitro en casos contenciosos, pero es probable que las propuestas que no cuenten con un consenso general no se aprueben.
+3. **Crea una solicitud de cambios en el repositorio de la osu! wiki en GitHub.** Por lo general, esto lo hace un miembro del NAT que participa en la finalización de la discusión.
+4. **Espera la aprobación de [peppy](https://osu.ppy.sh/users/2).**
+
+Los cambios que no alteren el significado o la intención de los criterios de clasificación, como las mejoras ortográficas, gramaticales o de organización, pueden no necesitar una propuesta en el foro. Sin embargo, es recomendable que consultes con los miembros más experimentados de la comunidad si los cambios son útiles y bienvenidos.
 
 ## Herramientas
 
@@ -92,7 +92,6 @@ Importante entender antes de usar:
   - La dificultad más alta de cada modo de juego.
   - Las dificultades más altas de cada modo de juego con un nivel de dificultad similar, aplicándose solo a las dificultades Insane y Extra (por ejemplo, las dificultades Insane de un conjunto ENHIIII o las dificultades Extra de un conjunto ENHIIXXX).
 - **Los nombres de dificultad personalizados de un beatmap deben seguir un tema o patrón común relacionado con la canción o dificultad y no deben ser tergiversados.** Un nombre de dificultad es engañoso si implica un nivel de dificultad diferente (por ejemplo, nombrar una dificultad «Expert» como «Normal»).
-- **El nombre de una dificultad no debe consistir únicamente de uno o más nombres de usuario.** Las palabras que sean nombres de usuario son aceptables en los nombres de las dificultades siempre que estén relacionadas con la canción.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) no puede indicar posesión en el nombre de una dificultad.** (por ejemplo, Beatmap Host's Insane). Las únicas excepciones son los conflictos causados por el beatmapping de varias canciones con los mismos metadatos y las [dificultades colaborativas](/wiki/Beatmap/Beatmap_collaborations). Las [dificultades de invitado](/wiki/Beatmap/Guest_difficulty), sin embargo, pueden indicar posesión con el nombre de usuario o apodo de sus creadores.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) debe haber mapeado igual o más dificultades que cualquier creador de [dificultades de invitado](/wiki/Beatmap/Guest_difficulty).** Esto se hace para dar crédito a quien lo merece. Las [dificultades colaborativas](/wiki/Beatmap/Beatmap_collaborations) solo se consideran dificultades parciales, y el [tiempo de drenaje](/wiki/Beatmap/Drain_time) se usará para determinar la cantidad de contribución cuando un invitado haya mapeado significativamente más que el anfitrión.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) y los creadores de [dificultades de invitado](/wiki/Beatmap/Guest_difficulty) pueden hacer cambios en sus respectivas dificultades como deseen.** En caso de desacuerdo entre ambos, el anfitrión del beatmap deberá eliminar la contribución del invitado si así lo solicita. Si no se puede contactar con el creador de una dificultad de invitado durante un mes, se asumirá que está de acuerdo con cualquier cambio.
