@@ -16,7 +16,7 @@ tags:
 
 *![][osu!]: Círculos más grandes, menor drenaje de HP, menor precisión requerida, ¡y tres vidas!*\
 *![][osu!taiko]: ¡Las notas se moverán más despacio y la precisión requerida será menor!*\
-*![][osu!catch]: Frutas más grandes, menor drenaje de HP,menor precisión requerida, ¡y tres vidas!*\
+*![][osu!catch]: Frutas más grandes, menor drenaje de HP, menor precisión requerida, ¡y tres vidas!*\
 *![][osu!mania]: Menor drenaje de HP, menor precisión requerida, ¡y tres vidas!*
 
 |  |  |
