@@ -39,7 +39,7 @@ En algunos casos, los usuarios pueden recibir una última advertencia antes de q
 
 Algunas razones comunes por las que los usuarios son silenciados en el chat público incluyen, pero no se limitan a:
 
-- **Varios mensajes a la vez o escribir en varias líneas:** Se explica por sí mismo.
+- **Varios mensajes sin sentido a la vez o escribir en varias líneas:** Se explica por sí mismo.
 - **ABUSO DE LAS MAYÚSCULAS:** CHATEAR CON TODAS LAS LETRAS EN MAYÚSCULAS.
 - **Conductas/conversaciones inapropiadas:** El chat público no es un lugar para discusiones que no sean apropiadas para todas las edades, ni para temas subidos de tono.
 - **Racismo:** Discriminación u odio por motivos de raza, religión, sexo, orientación sexual, etc.
