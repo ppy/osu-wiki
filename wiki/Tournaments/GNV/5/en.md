@@ -29,7 +29,7 @@ tags:
 
 ## Prizes
 
-| Peringkat | Hadiah |
+| Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1,000,000 IDR, *banner userpage* |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 625,000 IDR, *banner userpage* |
