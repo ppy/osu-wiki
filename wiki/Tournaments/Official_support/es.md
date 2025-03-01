@@ -168,7 +168,7 @@ A discreción del equipo de soporte, los organizadores que cometan errores grave
 
 Se espera que los participantes en los torneos con soporte oficial cumplan las [reglas de la comunidad de osu!](/wiki/Rules) en todo momento, independientemente de su rango, logros u otras hazañas. También se espera de ellos que traten con respeto a todos los voluntarios que participen en la organización de un torneo y que no intenten deliberadamente hacerles perder el tiempo o complicar excesivamente la realización de un torneo con sus acciones.
 
-Además, se espera que los jugadores hayan participado en un torneo determinado para poder optar a los premios que pueda otorgar; no basta con clasificarse como miembro de un equipo ganador. Dado que hay contribuciones intangibles a los equipos que los jugadores suelen hacer sin jugar mapas, solo a los jugadores que *no jueguen ningún mapa* en el transcurso de un torneo se les podrá negar el premio de la insignia.
+Además, se espera que los jugadores hayan participado en un torneo determinado para poder optar a los premios que pueda otorgar; no basta con clasificarse como miembro de un equipo ganador. Debido a que existen contribuciones intangibles a los equipos que los jugadores suelen hacer sin jugar mapas, solo a los jugadores que *no jueguen ningún mapa* durante el transcurso de un torneo se les podrá negar el premio de la insignia.
 
 A discreción del equipo de soporte de cuentas, los jugadores infractores pueden recibir [vetos](/wiki/Help_centre/Tournament_bans) temporales o indefinidos dependiendo de la gravedad de su conducta. Los infractores reincidentes pueden arriesgarse a recibir un veto por tiempo indefinido o una restricción.
 
