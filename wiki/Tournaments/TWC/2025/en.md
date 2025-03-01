@@ -51,9 +51,55 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/49)**
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2041167)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2041167)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/49)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[-Senshi-](https://osu.ppy.sh/users/5040981)** |
+| ::{ flag=AU }:: | **Australia** | **[Jaye](https://osu.ppy.sh/users/4841352)** |
+| ::{ flag=BR }:: | **Brazil** | **[Spicy Onion](https://osu.ppy.sh/users/11799110)** |
+| ::{ flag=BG }:: | **Bulgaria** | **[Vasko2o](https://osu.ppy.sh/users/19577961)** |
+| ::{ flag=CA }:: | **Canada** | **[Kombucha457](https://osu.ppy.sh/users/18265351)** |
+| ::{ flag=CL }:: | **Chile** | **[ulko](https://osu.ppy.sh/users/1263669)** |
+| ::{ flag=CN }:: | **China** | **[superSSS](https://osu.ppy.sh/users/4315477)** |
+| ::{ flag=CO }:: | **Colombia** | **[ParraCharlie](https://osu.ppy.sh/users/18425848)** |
+| ::{ flag=CR }:: | **Costa Rica** | **[pui](https://osu.ppy.sh/users/12687433)** |
+| ::{ flag=FI }:: | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)** |
+| ::{ flag=FR }:: | **France** | **[Ranshi](https://osu.ppy.sh/users/6680785)** |
+| ::{ flag=DE }:: | **Germany** | **[Drecksackblase](https://osu.ppy.sh/users/6278008)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[YonGin](https://osu.ppy.sh/users/7109317)** |
+| ::{ flag=ID }:: | **Indonesia** | **[ImChro](https://osu.ppy.sh/users/7280717)** |
+| ::{ flag=IT }:: | **Italy** | **[CRHIX](https://osu.ppy.sh/users/25662684)** |
+| ::{ flag=JP }:: | **Japan** | **[Grape\_Tea](https://osu.ppy.sh/users/9540073)** |
+| ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ::{ flag=LT }:: | **Lithuania** | **[ramojusd](https://osu.ppy.sh/users/14400817)** |
+| ::{ flag=MY }:: | **Malaysia** | **[K0rd31HP](https://osu.ppy.sh/users/15231510)** |
+| ::{ flag=MX }:: | **Mexico** | **[Hivan111](https://osu.ppy.sh/users/13525805)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Cookie\_Tree](https://osu.ppy.sh/users/502722)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)** |
+| ::{ flag=PE }:: | **Peru** | **[alemagno333](https://osu.ppy.sh/users/11411697)** |
+| ::{ flag=PH }:: | **Philippines** | **[Aiery](https://osu.ppy.sh/users/10363380)** |
+| ::{ flag=PL }:: | **Poland** | **[bernard351](https://osu.ppy.sh/users/9511518)** |
+| ::{ flag=PT }:: | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[TwinT-sama](https://osu.ppy.sh/users/9976154)** |
+| ::{ flag=SG }:: | **Singapore** | **[Blerargh](https://osu.ppy.sh/users/7609510)** |
+| ::{ flag=SK }:: | **Slovakia** | **[Golden](https://osu.ppy.sh/users/12639462)** |
+| ::{ flag=KR }:: | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)** |
+| ::{ flag=ES }:: | **Spain** | **[A L E P H](https://osu.ppy.sh/users/6735738)** |
+| ::{ flag=CH }:: | **Switzerland** | **[TaikoWorldCup](https://osu.ppy.sh/users/11296097)** |
+| ::{ flag=TW }:: | **Taiwan** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)** |
+| ::{ flag=TR }:: | **Türkiye** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[overdahedge2015](https://osu.ppy.sh/users/9864847)** |
+| ::{ flag=US }:: | **United States** | **[R J](https://osu.ppy.sh/users/6490509)** |
+| ::{ flag=VN }:: | **Vietnam** | **[RandomNameIdk](https://osu.ppy.sh/users/24042710)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, March 8 23:59 UTC**. This list was last updated on **March 1**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bcaab51028b74dee27c483e54fc7f251).
 
 ## Ruleset
 
