@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 94f6bdffe71a688a51fee5cc0ddc3a7528fedc58
----
-
 # osu!taiko
 
 ![osu!taiko 游玩](/wiki/shared/taiko-gameplay.jpg "osu!taiko 的界面")
@@ -31,11 +26,11 @@ osu!taiko 是基于日本节奏游戏[太鼓达人](https://zh.wikipedia.org/wik
   - 没有实现打击气球或谱面分歧这样的游戏机制（只有基本元素）
 - 背景显示差异
   - 谱面的视频或背景图像只会占用屏幕下半部分
-  - 如果谱面含有故事板，故事板则会占据屏幕下半部分
+  - 如果谱面含有故事板，故事板会占满全屏，但位于游玩区域下层
 
 对于 osu!taiko 模式的新手来说：
 
-屏幕会分成两个不同部分；上半部分含有游戏元素，而下半部分含有谱面的背景图片或视频。在上半部分，有一个与其他游戏模式不一样的血条，其在开始时是空的，必须填到至少 50% 满才能通过难度。血条下方的中上区域左侧有一个太鼓，旁边是传送带，将打击物件从右侧输送到左侧。期间，打击物件会通过太鼓旁的判定圈。太鼓上方是太鼓的动画吉祥物（也被叫做 pippidon 或咚），它会根据谱面是否处于 Kiai 段落，以及连击数达到里程碑时做出相应的反应。如果在 Kiai 时间内出现失误，则传送带背景会变换颜色。最后，右上角有常见的分数、准确度和谱面计时器。
+屏幕会分成两个不同部分；上半部分含有游戏元素，而下半部分含有谱面的背景图片或视频。在上半部分，有一个与其他游戏模式不一样的血条，其在开始时是空的，必须填到至少 50% 满才能通过谱面。血条下方的中上区域左侧有一个太鼓，旁边是传送带，将打击物件从右侧输送到左侧。期间，打击物件会通过太鼓旁的判定圈。太鼓上方是太鼓的动画吉祥物（也被叫做 pippidon 或咚），它会根据谱面是否处于 Kiai 段落，以及连击数达到里程碑时做出相应的反应。如果在 Kiai 时间内出现失误，则传送带背景会变换颜色。最后，右上角有常见的分数、准确度和谱面计时器。
 
 请注意，osu!taiko 中不存在自然掉血，因此，只有打击物件会影响到血条。不像 osu! 模式一样，osu!taiko 模式的连击里程碑是每 50 连击出现一次。打击物件的分数会从连击数大于 10 之后开始增长，但这个增长趋势会在连击数大于 100 后停止（能获得的最高奖励分的最大连击）。如果断连，打击物件的分数会回到基础分。在 *Kiai 时间*内，玩家能获得额外的 20% 物件分数。通过打击物件获得的单一物件分能够在右上角准确度下方的红色数字看到。
 
@@ -61,7 +56,7 @@ osu!taiko 是基于日本节奏游戏[太鼓达人](https://zh.wikipedia.org/wik
 
 ![太鼓转盘](/wiki/shared/Taiko_spinner.jpg "osu!taiko 中的转盘（拨浪鼓）")
 
-**依次**打击鼓的内侧和外侧（像是红、蓝、红、蓝）直到计数器达到 0 。开始击打时所使用的颜色不重要（你可以从红色或蓝色开始），如果没能完成，会导致掉血，但不会导致断连。如果打击相同颜色，在打击不同颜色之前，不会减少拨浪鼓计数。
+**依次**打击鼓的内侧和外侧（像是红、蓝、红、蓝）直到计数器达到 0。开始击打时所使用的颜色不重要（你可以从红色或蓝色开始），如果没能完成，会导致掉血，但不会导致断连。如果打击相同颜色，在打击不同颜色之前，不会减少拨浪鼓计数。
 
 拨浪鼓不会增加连击数，也不会以任何方式回复血量。每次打击成功只会给出固定的 300 分，完成拨浪鼓会给出完美（GREAT）的大物件分数。
 
@@ -80,9 +75,9 @@ osu!taiko 的默认控制方式如下：
 
 游玩时，光标的位置并不重要。
 
-如果在游玩时，使用了 [Relax](/wiki/Gameplay/Game_modifier/Relax) 模组，得分判定只会考虑打击准确度（模组会自动帮你使用正确的颜色击打）。
+如果在游玩时，使用了 [Relax](/wiki/Gameplay/Game_modifier/Relax) 模组，得分判定只会考虑打击准确度（模组会自动将击打颜色调整成正确的颜色）。
 
-*TaTaCon* 太鼓控制器主要是为*太鼓达人*的家庭版本和 *Taiko: Drum Master* 制作的，不常用于 osu!taiko。
+*TaTaCon* 太鼓控制器主要是为*太鼓达人*的家庭版本和 *Taiko: Drum Master* 制作的，不常用于 osu!taiko，但[设置](/wiki/Client/Options#其它)中依然有`启动 Wiimote / TaTaCon 支持`的选项。
 
 ## 计分
 
@@ -130,7 +125,7 @@ osu!taiko 的默认控制方式如下：
 - 黄条：滑条打击数的上限是：
   - 滑条长度的 4 倍，或者是
   - 滑条长度的 8 倍（BPM 小于等于 125 的歌曲中）。
-- 不像其他游戏模式，*Kiai 时间*会影响分数。因为它在*太鼓达人*中指的是 *“Go-Go 时间”*。当启用 *Kiai 时间*时，左上区域的鼓（叫做 *pippidon*，或是*太鼓达人*中的 *咚酱*或*咔酱*）会改变动画，游玩区域的背景会渐变，打击区域周围也会有火焰图像。
+- 不像其他游戏模式，*Kiai 时间*会影响分数。因为它是基于*太鼓达人*的*“Go-Go 时间”*设计的。当启用 *Kiai 时间*时，左上区域的鼓（在 osu!taiko 中叫做 *pippidon*，或是*太鼓达人*中的 *咚酱*或*咔酱*）会改变动画，游玩区域的背景会渐变，打击区域周围也会有火焰图像。
   - 除此之外，除了完成转盘（拨浪鼓）时的击打外（但转盘完成的判定仍然有加成），包括黄条，每个击打的音符会获得 1.2x 分数加成。
 - osu!taiko 的吉祥物是 [pippidon](/wiki/Mascots#pippi) 和 [Mocha](/wiki/Mascots#mocha)。
 - 当使用 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组游玩时，玩家名是 *mekkadosu!*。
@@ -139,6 +134,6 @@ osu!taiko 的默认控制方式如下：
 
 ![特殊模式中的 osu!taiko logo](img/Taiko_logo.jpg "特殊模式中的 osu!taiko logo")
 
-- 启用`太鼓模式中使用太鼓皮肤`选项时，无论当前皮肤的太鼓元素如何，在 osu!taiko 中游玩时都会使用 `taiko` 文件夹内的皮肤。这个文件夹过去用来存放 *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* 皮肤，可以用现已弃用的 `osume.exe`（osu! 更新所需的更新工具）在`皮肤`标签页下下载。
-- 第一张至少含有一个 osu!taiko 难度的上架谱面是 [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)。
-- 第一张上架的 osu!taiko 专谱是 [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)。
+- 启用`太鼓模式中使用太鼓皮肤`选项时，无论当前皮肤的太鼓元素如何，在 osu!taiko 中游玩时都会使用 `taiko` 文件夹内的皮肤。这个文件夹过去用来存放 *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* 皮肤，可以用现已弃用的 `osume.exe`（osu! 原有的更新系统，后来被集成进游戏中）在`皮肤`标签页下下载。
+- 第一张至少含有一个 osu!taiko 难度的上架谱面是 [Kharl](https://osu.ppy.sh/users/452) 的 [Taiko no Tatsujin - Saitama2000](https://osu.ppy.sh/beatmapsets/210)。
+- 第一张上架的 osu!taiko 专谱是 [lepidopus](https://osu.ppy.sh/users/194807) 的 [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/beatmapsets/55920)。
