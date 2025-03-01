@@ -48,7 +48,8 @@ Submissions to this contest include the following elements:
     - No restrictions on genre, but must be suitable for all ages (ie. not explicit).
     - Composers must own all the usage rights to samples (so it can be licensed).
   - Spread
-    - The `.osz` should aim to contain a spread of difficulties that satisfies the current ranking criteria for the osu! gamemode. Other game modes are not supported.
+    - The `.osz` should aim to contain an ENHIX spread that satisfies the current ranking criteria for the osu! game mode. Your submission should contain no more than 5 difficulties.
+    - Other game modes are not supported.
   - Visual elements
     - Any images, storyboards, or videos produced must be integrated into the `.osz` on submission.
     - Designers must own all the usage rights for these as well.

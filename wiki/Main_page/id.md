@@ -39,7 +39,7 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 [Mode permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Objek permainan](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Objek permainan](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Mod (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -87,7 +87,7 @@ Temukan jawaban atas berbagai pertanyaan umum beserta solusinya di bawah ini.
 
 [Pusat bantuan](/wiki/Help_centre) • [Penyelesaian masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Forum Help](https://osu.ppy.sh/forum/5)
 
-Pembatasan profil: [Silence](/wiki/Silence) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions)
+Pembatasan profil: [Silence](/wiki/Help_centre/Silences) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions) • [Larangan turnamen](/wiki/Help_centre/Tournament_bans)
 
 Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_help!) • [Melaporkan perilaku yang tidak pantas](/wiki/Reporting_bad_behaviour) • [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) • [Melaporkan kecurangan](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -117,7 +117,7 @@ osu! tidak akan dapat hadir tanpa dukungan dari para pengguna yang membantu dala
 
 [Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_group) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
+[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_groups) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
