@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Đội ngũ hỗ trợ tài khoản 
 
 Đối với một nhóm điều hành các diễn đàn nhỏ nhất định, xem: [Nhóm hỗ trợ Kỹ thuật](/wiki/People/Technical_Support_Team)
