@@ -32,7 +32,14 @@ tags:
 *For the osu!stable version of this article, see: [Half Time (mod)](/wiki/Gameplay/Game_modifier/Half_Time)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Half Time** mod decreases the BPM of any beatmap to 75%, increasing the length of the song by 33%. It also can reduce the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) or both at once depending on the [game mode](/wiki/Game_mode).
+
+## Customisation
+
+![Half Time customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HT.jpg)
+
+- **Speed decrease** (0.50x–0.99x, default 0.75x): The speed at which the map is played.
+- **Adjust pitch** (disabled by default): Changes the audio frequency depending on the chosen speed. Enabling this option does not make the play unranked. (Enabling pitch adjustment with the default speed will have the same effect as [Daycore](/wiki/Gameplay/Game_modifier/Daycore).)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
