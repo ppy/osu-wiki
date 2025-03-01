@@ -2126,6 +2126,9 @@ client/options/keyboard_bindings:          Client/Keyboard_shortcuts
 usage_permissions:                         Rules/Content_usage_permissions
 rules/content_usage_guidelines:            Rules/Content_usage_permissions
 
+# moved in #12441
+silence:                                   Help_centre/Silences
+
 # Deleted "osu!monthly team" and moved its contents to a section of "osu!monthly" (#10373)
 people/osu!monthly_team: Community/osu!monthly#contributors
 
@@ -2148,3 +2151,9 @@ community/discord_servers/osu!catch_modding_&_mapping_hub: Community/Discord_ser
 community/discord_servers/osu!mania_modding_&_mapping_hub: Community/Discord_servers#mapping-and-modding
 
 gameplay/hit_object/slider/reverse_slider: Gameplay/Hit_object/Slider/Repeat_slider
+
+# Moved in #12643
+osu!_originals: Community/Bespoke_music
+
+# Renamed in #12800
+people/user_group: People/User_groups

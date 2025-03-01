@@ -28,7 +28,9 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending approval) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge |
+
+![](img/badge.png "STKE winner badge")
 
 ## Organisation
 
@@ -98,6 +100,8 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
+
+![](img/podium.jpg "STKE podium") 
 
 ## Mappools
 
