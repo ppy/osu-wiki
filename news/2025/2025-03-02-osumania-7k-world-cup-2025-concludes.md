@@ -38,7 +38,15 @@ For those who'd wish to skip to this week's highlights, we've got you covered [d
 
 ![Grand Finals mappool table](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/mappool.jpg)
 
-Mappool stuff.
+Grand Finals mappools have always been notorious for their difficulty. And this one is no exception! In fact, the trend from past years shows that it's becoming increasingly more difficult to play with every passing year. This paradigm shift forced teams to play outside their comfort zones, who had to play while pushing their very limits.
+
+We had a couple returning [osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) such as [DJ Raisei - T.R.A.P.](https://osu.ppy.sh/beatmapsets/2325366#mania/4984357) (EX1) made by [aci](https://osu.ppy.sh/users/9650304) and originally featured in the [osu! World Cup 2022](/wiki/Tournaments/OWC/2022), and [TWC Sound Team "Xurv Stasis Rasufim" - Kaze no Denwa (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2325116#mania/4983795) (RC5) mapped by [pwhk](https://osu.ppy.sh/users/4887865) and first seen in the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024). What no one was expecting was that the round would feature only one new track — little did we know quality would far surpass quantity!
+
+Speaking of EX1, that was one of this week's standouts! [aci](https://osu.ppy.sh/users/9650304)'s MWC 7K debut comes with an absolutely nightmarish map. Those familiar with aci's work know how extreme their maps can be, making this a perfect fit for the slot. The relentless nature of the map forced players to perform at their best, as even the smallest mistakes can be very costly.
+
+The second map highlight-worthy was [Raimukun - Nyarlathotep's Dreamland](https://osu.ppy.sh/beatmapsets/2325126#mania/4983819) (LN2) by [Enie](https://osu.ppy.sh/users/11976455), who was able to perfectly capture a new style of LN Density by featuring a lot longer long notes. To no one's surprise, this map posed a considerable challenge for the players — understandably so! The map is really dense after all. Despite the dense patterning, the chart also incorporates a generous amount of comfortable patterns, which somewhat offsets the difficulty brought on by its density.
+
+But what about the new track that was teased a couple paragraphs ago? Fret not, for we wanted to give it the attention it deserves, alongside its artist who will be joining us as a Featured Artist moving forward. Drum roll, please!
 
 ---
 
@@ -50,7 +58,17 @@ Mappool stuff.
     </audio>
 </div>
 
-Original stuff.
+This week's big surprise was actually twofold! Not only did we get to witness an amazing **9 minutes** long track and tiebreaker beatmap to go along with it, but also we got the announcement that its artist, [Ludicin](https://osu.ppy.sh/beatmaps/artists/459), will be joining osu!'s [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) moving on!
+
+[Lost Requiem](https://osu.ppy.sh/beatmapsets/2325151#mania/4983858) can be briefly described as this tournament's magnum opus. Mapped by [_Kobii](https://osu.ppy.sh/users/6209713), [_underjoy](https://osu.ppy.sh/users/2235750), [Critical_Star](https://osu.ppy.sh/users/3793196), [Blocko](https://osu.ppy.sh/users/4075092), [ruka](https://osu.ppy.sh/users/6117525), [ExNeko](https://osu.ppy.sh/users/7590894), [U1d](https://osu.ppy.sh/users/10125072), and even [Ludicin](https://osu.ppy.sh/users/8659666) themselves, this relentless marathon is a direct result of all creative minds in the team being put into use! This was not only an affair between the artist and the mappers, with multiple teams collaborating to bring into life one of osu!'s most ambitious commissions yet. So, why not take a look at the map itself?
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/MmccFHPScKA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+The graphics team worked overtime with this one. Not only was the map accompanied by a groundbreaking storyboard by the hands of [RiceSS](https://osu.ppy.sh/users/8271436) and [binarie](https://osu.ppy.sh/users/15632854), but also a showcase video worthy of admiration produced by [CrewK](https://osu.ppy.sh/users/11488604) and [TheFunk](https://osu.ppy.sh/users/13981991) with the trusty help of [Sakura006](https://osu.ppy.sh/users/10365024). If that wasn't enough, [KM](https://twitter.com/KM2650223087343) and [Zeth](https://osu.ppy.sh/users/9912966) with their beautiful illustrations and graphics respectively put the cherry on top of an already impressive cake.
+
+Suffice to say, the team is very proud of the work. Seeing the community's breathtaking reaction put everyone at ease. We can confidently say their efforts did not go to waste, and this map alone is a testament to the team's dedication for the tournament!
 
 ## Grand Finals recap
 
@@ -204,4 +222,4 @@ We want to extend our heartfelt thanks to everyone involved into making this pos
 
 But in case we don't see you... Good morning, good afternoon, good evening, and good night! Or something like that.
 
-—RandomeLoL
+—RandomeLoL, _Kobii
