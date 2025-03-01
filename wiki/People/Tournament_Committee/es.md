@@ -102,7 +102,7 @@ Los solicitantes que no consigan reunir suficientes votos positivos serán recha
 
 ### Votaciones
 
-El comité de torneos recurre con frecuencia a las votaciones para tomar decisiones importantes. Los usos típicos se enumeran más arriba, pero no son totalmente generales. Los requisitos de las votaciones también difieren según el caso de uso. Todas las votaciones típicas requieren también una «participación estricta», lo que significa que si el 75 % del comité de torneos no participa antes de que finalice el plazo de votación, esta se extenderá 24 horas. Además, todas las votaciones requieren al menos una mayoría absoluta, como mínimo un 50 %, para poder tomar medidas. Las votaciones sobre muchos temas tienen los mismos requisitos, pero hay ligeras diferencias en algunos temas comunes que se enumeran a continuación.
+El comité de torneos recurre con frecuencia a votaciones para tomar decisiones importantes. Los usos típicos se enumeran más arriba, pero no son totalmente generales. Los requisitos de las votaciones también difieren según el caso de uso. Todas las votaciones típicas requieren también una «participación estricta», lo que significa que si el 75 % del comité de torneos no participa antes de que finalice el plazo de votación, esta se extenderá 24 horas. Además, todas las votaciones requieren al menos una mayoría absoluta, como mínimo un 50 %, para poder tomar medidas. Las votaciones sobre muchos temas tienen los mismos requisitos, pero hay ligeras diferencias en algunos temas comunes que se enumeran a continuación.
 
 | Tipo de la votación | Duración mínima (días) | Mínimo de aprobación |
 | :-- | --: | --: |
