@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: a8bd2ac78f3cf5949aa60b4d2d8d8637b22fd994
 tags:
   - tip
   - tips
@@ -91,8 +93,6 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 - Procura que los deslizadores no se superpongan sobre otros deslizadores o sobre ellos mismos.
 
 ## osu!(lazer)
-
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
 
 Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
