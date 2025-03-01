@@ -11,7 +11,7 @@ tags:
 
 *请参阅：[BN 规章制度](Rules)、[对 BN 的期望](Expectations)、[BN 须知](General_Information)、[成为 BN](Becoming_a_Beatmap_Nominator)*
 
-**谱面审核成员** 全称为 Beatmap Nominators (***BN***)，是负责[谱面审核流程](/wiki/Beatmap_ranking_procedure)的一群玩家。可以通过紫色的玩家头衔和写着 `BN` 的[用户组徽章](/wiki/People/User_group)认出他们。
+**谱面审核成员** 全称为 Beatmap Nominators (***BN***)，是负责[谱面审核流程](/wiki/Beatmap_ranking_procedure)的一群玩家。可以通过紫色的玩家头衔和写着 `BN` 的[用户组徽章](/wiki/People/User_groups)认出他们。
 
 ## 角色与职责
 
@@ -45,7 +45,7 @@ BN 可获得以下特权：
 - **职位奖牌**：获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
   ![1 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "1 年 BN 奖牌") ![2 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "2 年 BN 奖牌") ![3 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN3y.png "3 年 BN 奖牌") ![4 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN4y.png "4 年 BN 奖牌") ![5 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN5y.png "5 年 BN 奖牌") ![6 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN6y.png "6 年 BN 奖牌") ![7 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN7y.png "7 年 BN 奖牌") ![8 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN8y.png "8 年 BN 奖牌") ![9 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN9y.png "9 年 BN 奖牌") ![10 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN10y.png "10 年 BN 奖牌")
 - **[提名](/wiki/Beatmap_ranking_procedure#nominations)次数奖牌**：当提名次数达到某里程碑后，获得一个显示提名次数的主页奖牌。
-  ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 次提名奖牌") ![1500 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 次提名奖牌") ![2000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 次提名奖牌")
+  ![100 提名奖牌](https://assets.ppy.sh/profile-badges/100_noms.png "100 次提名奖牌") ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 次提名奖牌") ![1500 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 次提名奖牌") ![2000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 次提名奖牌")
 - **[优秀提名者](/wiki/People/Elite_Nominators)资格**：如果 BN 在提名谱面方面表现出色，可以获得年度优秀提名者[玩家头衔](/wiki/Community/User_title)。
 
 ## 团队成员
