@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
+---
+
 # Komunitas
 
 Halaman ini menerakan berbagai cara bagi orang-orang dari seluruh penjuru komunitas osu! untuk saling berinteraksi dengan satu sama lain. Apabila kamu ingin berkontribusi terhadap osu! tetapi tidak tahu harus memulai dari mana, kunjungi halaman [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!).

@@ -14,7 +14,7 @@ Auf dieser Seite werden verschiedene Produkte gezeigt, die mal im [osu!store](ht
 
 ![Storeseite von osu! goods CafePress](img/osu-goods.png)
 
-**osu! goods** war eine Kollektion von offiziellen osu!-Markenartikeln, die über den Onlinehändler [CafePress](https://en.wikipedia.org/wiki/CafePress) zwischen 2009 und 2012 verkauft wurden. Alle auf Bestellung erhältlichen Artikel wurden von CafePress gedruckt und produziert, wobei ein Teil der Einnahmen [in die Spielentwicklung flossen](https://osu.ppy.sh/store/listing).
+**osu! goods** war eine Kollektion von offiziellen osu!-Markenartikeln, die über den Onlinehändler [CafePress](https://en.wikipedia.org/wiki/CafePress) zwischen 2009 und 2012 verkauft wurden. Alle in dieser Sammlung enthaltenen Artikel wurden von CafePress gedruckt und produziert, wobei ein Teil der Einnahmen [in die Spielentwicklung flossen](https://osu.ppy.sh/store/listing).
 
 Die Kollektion bestand aus einer Breite an Produkten wie zum Beispiel:
 
@@ -74,7 +74,7 @@ Die Kollektion bestand aus einer Breite an Produkten wie zum Beispiel:
 
 Das **osu!tablet** war ein offizielles, von osu! vertriebenes Grafiktablett, das in Zusammenarbeit mit der Elektronikfirma [HUION](https://www.huion.com/) entstand. Es wurde von ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) entworfen und als eine erschwingliche Alternative für die, die einfach ein Grafiktablett für osu! haben wollten, herausgebracht.
 
-Das Produkt wurde in zwei Ausführungen angeboten: Das originale "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", welches zuerst 2013 hergestellt wurde. Das verbesserte [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) kam ab 2016 auf den Markt, bevor es im Jahre 2017 im Rahmen einer [Anpassung der Entwicklungsschwerpunkte](https://twitter.com/ppy/status/846190076853870592) eingestellt wurde.
+Das Produkt wurde in zwei Ausführungen angeboten: Das originale "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", welches zuerst 2013 verkauft wurde. Das verbesserte [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) kam ab 2016 auf den Markt, bevor es im Jahre 2017 im Rahmen einer [Anpassung der Entwicklungsschwerpunkte](https://twitter.com/ppy/status/846190076853870592) eingestellt wurde.
 
 ## osu! beatmap blueprints
 
@@ -120,6 +120,8 @@ Der **osu!mug** war eine Sonderedition einer Tasse, die mit Abbildungen von [pip
 
 ![Limited edition osu! plushies](img/osu-limited-edition-plushie.jpg)
 
-*Für den Newsbeitrag, siehe: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)*
+*Für die Newsbeiträge, siehe: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies) und [osu! cookie and pippi plushies are back for round 2!](https://osu.ppy.sh/home/news/2024-11-28-another-batch-of-osu-plushies)*
 
 Die **limitierte Edition der osu!-Plüschtiere** war ein Trio aus Plüschtieren bestehend aus [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator) und dem [osu!-Cookie](/wiki/Client/Interface/Cookie). Die Produkte konnten im Frühjahr 2023 im Rahmen von Vorbestellungen erworben werden und wurden in Zusammenarbeit mit der Crowdfunding-Plattform [Makeship](https://www.makeship.com/) hergestellt.
+
+Aufgrund der hohen Nachfrage standen die Plüschtiere [pippi](https://www.makeship.com/products/pippi-2-0-plushie) und der [osu!-Cookie](https://www.makeship.com/products/osu-cookie-2-0-plushie) in einer zweiten, limitierten Edition im November 2024 zum Kauf verfügbar.

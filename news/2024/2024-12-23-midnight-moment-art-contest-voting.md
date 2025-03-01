@@ -8,7 +8,7 @@ This is *your moment* to decide which new winter artworks shall welcome the latt
 
 ![](/wiki/shared/news/2024-12-03-midnight-moment-art-contest/banner.jpg)
 
-A total of **130** entrants gathered to depict the osu! cast in wintery scenarios, and your next task is to decide their fate during the next week. However, you only get **15** votes to do so.
+A total of **129** entrants gathered to depict the osu! cast in wintery scenarios, and your next task is to decide their fate during the next week. However, you only get **15** votes to do so.
 
 In order provide the most cozy experience while you peruse the voting page, we present to you a sequence of all the entries set to the tune of [**kanemiko - Twilight of the Abyss**](https://soundcloud.com/kanemiko/twilight-of-the-abyss) from the [**TEST Open**](https://osu.ppy.sh/beatmaps/artists/420) tournament:
 
