@@ -124,6 +124,7 @@ Ces conseils apparaissent en bas du menu principal de [osu!(lazer)](/wiki/Client
 - Lorsque vous regardez un replay, appuyez sur `Ctrl` + `H` pour basculer les paramètres du replay !
 - Vous pouvez facilement copier les mods des scores sur un leaderboard en faisant un clic droit dessus !
 - `Ctrl` + `Enter` à la sélection de la musique lancera une beatmap en mode autoplay !
+- "Lazer" n'est pas un vrai mot, l'orthographe correcte pour la lumière brillante est "laser".
 
 ## Voir également
 
