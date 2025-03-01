@@ -1,6 +1,6 @@
 # Befehle für das Turnier-Management
 
-Die folgenden Chatbefehle sind für die Fernverwaltung von Mehrspieler-Turnierräumen vorgesehen:
+Die folgenden Chatbefehle sind für die Verwaltung von Mehrspieler-Turnierräumen vorgesehen:
 
 - `!mp make <name>` - Erstellt einen Turnierraum mit dem angegebenen Namen. Maximal 4 solcher Räume können erstellt werden.
   - Dieser Raum ist insofern besonders, da er nicht geschlossen wird, sobald alle Spieler den Raum verlassen haben. Außerdem ist er vor Spielern, die ihm selbst beitreten wollen, passwortgeschützt.
@@ -29,8 +29,8 @@ Die folgenden Chatbefehle sind für die Fernverwaltung von Mehrspieler-Turnierr�
   - Es kann eine beliebige Anzahl von Mods eingegeben werden.
   - `mod` - HR, DT, FL, HD, FI, Freemod, None
 - `!mp timer [<time>]` - Startet einen Countdown-Timer.
-  - Standardmäßig beträgt `time` 30 s.
-  - Ansagen des Timers erscheinen jede Minute, 30 s, 10 s, 5 s und vorher.
+  - Standardmäßig beträgt `time` 30s.
+  - Ansagen des Timers erscheinen jede Minute, bei 30 Sekunden, bei 10 Sekunden, bei 5 Sekunden und direkt vorher.
 - `!mp aborttimer` - Stoppt den aktuellen Timer (normale Timer und Timer für den Spielbeginn).
 - `!mp kick <username>` - Kickt den Spieler aus dem Raum.
 - `!mp ban <username>` - Verbannt den Spieler aus dem Raum.
@@ -41,17 +41,17 @@ Die folgenden Chatbefehle sind für die Fernverwaltung von Mehrspieler-Turnierr�
   - Der [osu!tourney-Client](/wiki/osu!_tournament_client/osu!tourney) wird den Raum-Chat für Schiedsrichter anzeigen.
 - `!mp removeref <username> [<username>] …` - Entfernt einen Schiedsrichter aus dem Raum. Nur der Ersteller des Raums kann einen Schiedsrichter entfernen.
 - `!mp listrefs` - Listet alle Schiedsrichter im Raum auf.
-- `!mp close` - Schließe den Raum.
+- `!mp close` - Schließt den Raum.
 
-Durch das Senden von `!mp help` an BanchoBot werden die Befehle gezeigt.
+Mit `!mp help` zeigt BanchoBot die Befehlsübersicht an.
 
 Elemente, die mit Winkelklammern (`<>`) umschlossen sind, definieren "Parameter" von Befehlen. Parameter, die von eckigen Klammern (`[]`) umgeben sind, sind optional. Leerzeichen in Nutzernamen müssen durch Unterstriche (`_`) ersetzt werden. `#<userid>` kann durch `<username>` in allen Befehlen ersetzt werden.
 
 ## Verwendung
 
-Die Befehle können sowohl in osu! als auch über einen IRC-Client wie z. B. mIRC, HexChat oder HydraIRC verwendet werden.
+Die hier aufgelisteten Befehle können sowohl in osu! als auch über einen IRC-Client wie z. B. mIRC, HexChat oder HydraIRC verwendet werden.
 
-Der originale Host eines Mehrspieler-Raums kann ebenfalls diese Befehle benutzen. Falls der originale Host den Raum verlässt, wird der nächste Host diese Befehle nicht erben. Der originale Host wird wieder in der Lage sein, die Befehle zu verwenden, sobald er dem Raum erneut beitritt.
+Der originale Host eines Mehrspieler-Raums kann ebenfalls diese Befehle benutzen. Verlässt der originale Host den Raum, erhält der nächste Host keinen Zugriff auf diese Befehle. Der originale Host kann die Befehle wieder verwenden, sobald er dem Raum erneut beitritt.
 
 ## Beispielhafte Benutzung
 
