@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Lệnh cấm thi đấu
 
 *Trang chính: [trung tâm trợ giúp](/wiki/Help_centre)* 
