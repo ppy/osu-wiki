@@ -12,7 +12,7 @@ tags:
 
 **审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
 
-可以通过橙红色的游戏内名称、橙红色的玩家头衔和写着 `NAT` 的[用户组徽章](/wiki/People/User_group)认出他们。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
+可以通过橙红色的游戏内名称、橙红色的玩家头衔和写着 `NAT` 的[用户组徽章](/wiki/People/User_groups)认出他们。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
 
 **审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_code_of_conduct)以及[普通的社区规则](/wiki/Rules)。**
 
@@ -70,7 +70,7 @@ NAT 成员可获得以下特权：
 - **职位奖牌**：获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
   ![1 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT1y.png "1 年 NAT 奖牌") ![2 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT2y.png "2 年 NAT 奖牌") ![3 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT3y.png "3 年 NAT 奖牌") ![4 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT4y.png "4 年 NAT 奖牌") ![5 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT5y.png "5 年 NAT 奖牌") ![6 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT6y.png "6 年 NAT 奖牌") ![7 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT7y.png "7 年 NAT 奖牌") ![8 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT8y.png "8 年 NAT 奖牌") ![9 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT9y.png "9 年 NAT 奖牌") ![10 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT10y.png "10 年 NAT 奖牌")
 - **[提名](/wiki/Beatmap_ranking_procedure#nominations)次数奖牌**：当提名次数达到某里程碑后，获得一个显示提名次数的主页奖牌。
-  ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 次提名奖牌") ![1500 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 次提名奖牌") ![2000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 次提名奖牌")
+  ![100 提名奖牌](https://assets.ppy.sh/profile-badges/100_noms.png "100 次提名奖牌") ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 次提名奖牌") ![1500 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 次提名奖牌") ![2000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 次提名奖牌")
 - **[优秀提名者](/wiki/People/Elite_Nominators)候选资格**：如果 NAT 成员在提名谱面方面表现出色，可以获得优秀提名者候选资格。
 
 ## 加入审核评估团队 (NAT)

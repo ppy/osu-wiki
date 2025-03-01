@@ -8,7 +8,7 @@ Two decades of power metal experience have arrived here on osu!.
 
 ![](https://assets.ppy.sh/artists/457/header.jpg)
 
-With 22 years and 10 studio albums under their belt, German band **Powermetal** has made a name for themselves among metalheads and circle clickers alike. Introduced to the Ranked section through [Christ & Combat](https://osu.ppy.sh/beatmapsets/1013426), **Powerwolf**'s double-bass-packed tracks serve as both a training ground for stream players and a demonstration of sheer aural intensity.
+With 22 years and 10 studio albums under their belt, German band **Powerwolf** has made a name for themselves among metalheads and circle clickers alike. Introduced to the Ranked section through [Christ & Combat](https://osu.ppy.sh/beatmapsets/1013426), **Powerwolf**'s double-bass-packed tracks serve as both a training ground for stream players and a demonstration of sheer aural intensity.
 
 A total of **14** songs are part of [**Powerwolf**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/457). If you're not picking out a pre-timed `.osz` already, your priorities are out of line.
 
