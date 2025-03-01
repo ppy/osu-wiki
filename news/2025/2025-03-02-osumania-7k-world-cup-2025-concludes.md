@@ -4,21 +4,23 @@ title: "osu!mania 7K World Cup Concludes"
 date: 2025-03-02 12:00:00 +0000
 ---
 
-Intro sentence.
+The curtains close once more, and the tournament's victors have finally been crowned! Join us for the last recap of the osu!mania 7K World Cup 2025.
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/banner.jpg)
 
-Intro.
+What an amazing year this was! Not only did we get to experience a new take on the 7K World Cup with the plethora of changes that have been made to the format and production value of the series, but we may have got to witness the most exciting tournament to date. From new teams becoming legends overnight, to old rivalries clashing once (or twice) again this year.
 
-Interviews to come.
+While we have tons to cover for the Grand Finals recap, let's take a quick break to congratulate this year's champions, shall we?
 
 ## Summary
 
 ![MWC 7K 2025 podium](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-podium.jpg)
 
-Summary of the winning team.
+Congratulations to ::{ flag=KR }:: South Korea for winning 2025's first official World Cup! With this win, South Korea has amassed a total of **13 total osu!mania World Cups** under their belt between 4K and 7K, with a total of 8 being in 7K. A feat easier said that done!
 
-Link to grand finals recap section.
+While South Korea's dominance over 7K is not news to anyone, it's easy to understand the Herculean effort that has gone behind such an accomplishment. This year's teams were no joke. Competition only ever got fiercer with the increase in the bracket size. And despite the extra hurdles, South Korea remains as the undisputed champions of 2025! We'd like to extend our deepest congratulations to the team for their well deserved victory.
+
+For those who'd wish to skip to this week's highlights, we've got you covered [down below](#grand-finals-recap)!
 
 ## Mappool recap
 
@@ -59,6 +61,8 @@ Original stuff.
 | **South Korea** ::{ flag=KR }:: | **7** | 0 | ::{ flag=CN }:: China |
 
 General recap of events
+
+Interviews to come.
 
 Video recap plug.
 
@@ -192,8 +196,12 @@ ALL of them.
 
 ---
 
-Outro. Plug next WC. Mention all news helpers + other contributors.
+Hopefully the interviews we had throughout the last couple of months gave everyone a glimpse into the tournament's inner workings. None of this would've been possible without the [team](/wiki/Tournaments/MWC/2025_7K#organisation) who arranged the tournament, the [players](/wiki/Tournaments/MWC/2025_7K#participants) who gave their all, and you — the community who supported both throughout the tournament's runtime!
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/mwc7k2025-credits.png)
+
+We want to extend our heartfelt thanks to everyone involved into making this possible. And for as much as it pains us to say it, we'll have to tune out till next year! But fret not, as the World Cups will go on. The osu!taiko World Cup 2025 is right around the corner, so make sure to keep an eye out for it!
+
+But in case we don't see you... Good morning, good afternoon, good evening, and good night! Or something like that.
 
 —RandomeLoL
