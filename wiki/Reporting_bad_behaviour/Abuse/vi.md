@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Báo cáo lạm dụng
 
 ## Tôi không biết liệu mình nên có nên báo cáo điều này hay không
