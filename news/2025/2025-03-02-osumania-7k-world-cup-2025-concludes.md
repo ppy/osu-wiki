@@ -85,7 +85,7 @@ Suffice to say, there's a lot to go over despite the reduced number of matches. 
 And how could we forget the amazing video recap by the hands of [SurfChu85](https://osu.ppy.sh/users/4469895), [yukina meng](https://osu.ppy.sh/users/9919550), and [Nerfox](https://osu.ppy.sh/users/7976724) who have been working overtime throughout the last couple of months to churn out these amazing, easily digestible recaps.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/971jZsacy4M" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Without further ado, let's get into last week's match highlight. And contrary to what you may be expecting, this wasn't the match to decide the victors but rather its runner-up!
@@ -96,7 +96,7 @@ Without further ado, let's get into last week's match highlight. And contrary to
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2388073702)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=XXX" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/971jZsacy4M?start=23&end=288" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Coming in hot from their Semifinals match, China and the Philippines face off once again after China's initial 6–4 score. This made it possible for China to achieve their first Grand Finals appearance since 2022! However, the Philippines came back stronger than before after their hard-fought victory against Japan, seeking revenge for their previous loss. In turn, this made for one of the most intense and nerve-wracking matches of Grand Finals — let alone the entire tournament!
@@ -462,4 +462,4 @@ We want to extend our heartfelt thanks to everyone involved into making this pos
 
 But in case we don't see you... Good morning, good afternoon, good evening, and good night! Or something like that.
 
-—RandomeLoL, _Kobii, SurfChu85, Maxus
+—RandomeLoL, _Kobii, SurfChu85, Maxus, Sakura006
