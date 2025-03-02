@@ -107,7 +107,9 @@ Both weekly + tournament-wide highlights.
 
 ## osu! originals
 
-ALL of them.
+It is very easy to underestimate the effort being put into the commissioning process behind every single brand-new track. And yet despite all odds, this year's 7K World Cup has given us **7** new [osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) for the osu! community to enjoy! This year was able to boast of a wide variety of genres. Moreover, artists previously uninvolved with commissions such as [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220) have taken their chance to debut in this year's tournament!
+
+For those interested in the maps that accompanied these amazing tracks, please check the [mappool recap](#mappool-recap) section of previous recaps.
 
 ### Quartefinals
 
