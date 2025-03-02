@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup Concludes"
-date: 2025-03-02 12:00:00 +0000
+date: 2025-03-02 24:00:00 +0000
 ---
 
 The curtains close once more, and the tournament's victors have finally been crowned! Join us for the last recap of the osu!mania 7K World Cup 2025.
