@@ -106,8 +106,16 @@ Match highlights.
 Some of the scores we saw throughout the Grand Finals weekend put the cherry on the top of what has already been a very special MWC 7K cake. It's really hard to pick individual scores from such performant players, however. In light of this, we've decided to highlight one player from each team to spotlight their best performing scores!
 
 - Of the many charts::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405) has played last weekend, including the show match, their performance on [rejection - Aimai Attitude (feat. Nakamura Sanso)](https://osu.ppy.sh/beatmapsets/2325129#mania/4983823) LN3 (980k) and [MisomyL - Coming*True!!](https://osu.ppy.sh/beatmapsets/2325139#mania/4983838) (HB1) (972k) were mesmerizing.
-- With our jaws wide open from before, we now have space to put in [tyrcs](https://osu.ppy.sh/users/13026904)'s sublime runs on [Himeringo - Kodoku no Kakurenbo (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2325113#mania/4983786) (RC1) (974k) and [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39](https://osu.ppy.sh/beatmapsets/2325120#mania/4983811) (RC6) (968k) in our mouths.
-- Rounding out our carbohydrate-rich osu!mania 7K diet, [yz1155](https://osu.ppy.sh/users/2071008) barged in with plenty more spoonfuls of rice with their impressive scores on [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2325114#mania/4983791) (RC4) (966k) and [DJ Raisei - T.R.A.P.](https://osu.ppy.sh/beatmapsets/2325366#mania/4984357) (EX1) (954k).
+- With our jaws wide open from before, we now have space to put in ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)'s sublime runs on [Himeringo - Kodoku no Kakurenbo (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2325113#mania/4983786) (RC1) (974k) and [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39](https://osu.ppy.sh/beatmapsets/2325120#mania/4983811) (RC6) (968k) in our mouths.
+- Rounding out our carbohydrate-rich osu!mania 7K diet, ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) barged in with plenty more spoonfuls of rice with their impressive scores on [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2325114#mania/4983791) (RC4) (966k) and [DJ Raisei - T.R.A.P.](https://osu.ppy.sh/beatmapsets/2325366#mania/4984357) (EX1) (954k).
+
+That said, we want to call back some of the most impressive scores we witnessed throughout the tournament! Even in earlier rounds, we got to witness some of the best performances of the entire tournament.
+
+- ::{ flag=CN }:: [af-](https://osu.ppy.sh/users/10512663) and ::{ flag=PH }::[sanni666](https://osu.ppy.sh/users/3036686) surprised everyone in [Round of 32](/news/2025/2025-01-24-osumania-7k-world-cup-2025-round-of-32-recap.md) with their 991+k scores in [Neko Hacker - Shadows feat. Such](https://osu.ppy.sh/beatmapsets/2307450#mania/4934981) (LN1). These scores in the LN inverse category were *arguably* one of the best ones in the category throughout the entire tournament!
+- And why were the previous scores *arguably* the best? Well, that's because the crown of the jewel had to be ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586)'s run during [Round of 16](/news/2025/2025-01-31-osumania-7k-world-cup-2025-round-of-16-recap.md) on [Phoenix Legend - She Xiang Fu Ren (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2310775#mania/4943407) (LN1) with its 994,000+ full combo score, rivaling even the best of scores in other categories!
+- Last but not least, ::{ flag=KR }:: [dessurf](https://osu.ppy.sh/users/758406) technical prowess was showcased on [The Flashbulb - Six Acid Strings](https://osu.ppy.sh/beatmapsets/2318102#mania/4964713) (RC4) during the [Semifinals](/news/2025/2025-02-13-osumania-7k-world-cup-2025-semifinals-recap.md) with an amazing score of 991k.
+
+It's worth mentioning that highlighting the best of the best scores is no easy task. If it were by us, all scores would need to be highlighted!
 
 ## osu! originals
 
@@ -228,4 +236,4 @@ We want to extend our heartfelt thanks to everyone involved into making this pos
 
 But in case we don't see you... Good morning, good afternoon, good evening, and good night! Or something like that.
 
-—RandomeLoL, _Kobii
+—RandomeLoL, _Kobii, SurfChu85
