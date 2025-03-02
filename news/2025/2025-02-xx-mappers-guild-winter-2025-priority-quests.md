@@ -44,17 +44,17 @@ When installing osu! for the first time, your client can automatically fill your
 
 **Your goal is to create a map eligible for the bundled map pool!** This has a lot of weirdly specific requirements detailed [here](https://github.com/bdach/osu/blob/master/osu.Game/Beatmaps/Drawables/BundledBeatmapDownloader.cs#L134-L152).
 
+### [osu!original expansion v2](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+
+Most of the [osu! originals](https://osu.ppy.sh/wiki/en/osu%21_originals) in osu!'s music library come from the World Cups. Many of those songs don't reach players beyond their initial mode, so let's change that.
+
+**Rank a map of any World Cup osu! original in a game mode that it wasn't created for!**
+
 ### [Monthly Beatmapping Contest returns v3](LINK) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
 **Rank a map from any of your [Monthly Beatmapping Contest](https://osu.ppy.sh/wiki/en/Contests/Monthly_Beatmapping_Contest) submissions.**
 
 If you've never made a map for the Monthly Beatmapping Contest, the next iteration is unsurprisingly coming within the next month!
-
-### [osu!(lazer) trial run](LINK) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
-
-You can finally upload maps in osu!(lazer), so let's test things out.
-
-**Create and rank map using osu!(lazer) and upload it with the new Beatmap Submission System (BSS)**, where every update will be tracked with the new versioning feature!
 
 ### [Celestial manipulator](LINK) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
 
