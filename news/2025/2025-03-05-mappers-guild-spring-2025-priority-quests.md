@@ -46,13 +46,13 @@ When installing osu! for the first time, your client can automatically fill your
 
 ### [osu!original expansion v2](https://mappersguild.com/missions?id=67c3b7b665c8e39f49e7923c) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
-Most of the [osu! originals](https://osu.ppy.sh/wiki/en/osu%21_originals) in osu!'s music library come from the World Cups. Many of those songs don't reach players beyond their initial mode, so let's change that.
+Most of the [osu! originals](/wiki/en/osu!_originals) in osu!'s music library come from the World Cups. Many of those songs don't reach players beyond their initial mode, so let's change that.
 
 **Rank a map of any World Cup osu! original in a game mode that it wasn't created for!**
 
 ### [Monthly Beatmapping Contest returns v3](https://mappersguild.com/missions?id=67c3b83765c8e39f49e79244) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
-**Rank a map from any of your [Monthly Beatmapping Contest](https://osu.ppy.sh/wiki/en/Contests/Monthly_Beatmapping_Contest) submissions.**
+**Rank a map from any of your [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) submissions.**
 
 If you've never made a map for the Monthly Beatmapping Contest, the next iteration is unsurprisingly coming within the next month!
 
