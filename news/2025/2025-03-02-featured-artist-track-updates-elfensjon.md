@@ -14,9 +14,9 @@ Today, we've brought **ELFENSJoN**'s newest album *ZENITH* into osu!, including 
 
 In any case, all **9** new tracks are part of [**ELFENSJoN**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/69), pre-timed and ready for mapping just like every other song on every other Featured Artist listing (which you should use for every map you create). You'll find these new additions highlighted by this **NEW** tag:
 
-![](/wiki/shared/news/2025-03-01-featured-artist-track-updates-elfensjon/new-elfensjon.jpg)
+![](/wiki/shared/news/2025-03-02-featured-artist-track-updates-elfensjon/new-elfensjon.png)
 
-### [ELFENSJoN - Hadareyuki](LINK)
+### [ELFENSJoN - Hadareyuki](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20Hadareyuki.osz)
 
 In preparation for this announcement, Mappers' Guild conductor [Hinsvar](https://osu.ppy.sh/users/1249323) made a map for [ELFENSJoN - Hadareyuki](https://osu.ppy.sh/beatmapsets/2266310) which you can either play through for yourself or witness below!
 
@@ -26,60 +26,60 @@ In preparation for this announcement, Mappers' Guild conductor [Hinsvar](https:/
     </video>
 </div>
 
-### [ELFENSJoN - Hotarubi (REINCARNATE ver)](LINK)
+### [ELFENSJoN - Hotarubi (REINCARNATE ver)](https://assets.ppy.sh/artists/69/REINCARNATE/ELFENSJoN%20-%20Hotarubi%20(REINCARNATE%20ver).osz)
 
 *REINCARNATE ver* refers to a remake of [a previous song](https://osu.ppy.sh/beatmapsets/1131083). Explore [the new version](https://osu.ppy.sh/beatmapsets/2116675) mapped by [Hanakumo Rin](https://osu.ppy.sh/users/12895865)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/69/REINCARNATE/ELFENSJoN%20-%20Hotarubi%20(REINCARNATE%20ver).mp3">
 </audio>
 
-### [ELFENSJoN - ATARAXIA](LINK)
+### [ELFENSJoN - ATARAXIA](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20ATARAXIA.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20ATARAXIA.mp3">
 </audio>
 
-### [ELFENSJoN - BAPTIZE](LINK)
+### [ELFENSJoN - BAPTIZE](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20BAPTIZE.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20BAPTIZE.mp3">
 </audio>
 
-### [ELFENSJoN - HETERODOXY](LINK)
+### [ELFENSJoN - HETERODOXY](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20HETERODOXY.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20HETERODOXY.mp3">
 </audio>
 
-### [ELFENSJoN - Hikari no Yobigoe](LINK)
+### [ELFENSJoN - Hikari no Yobigoe](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20Hikari%20no%20Yobigoe.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20Hikari%20no%20Yobigoe.mp3">
 </audio>
 
-### [ELFENSJoN - Houmuru Kagerou](LINK)
+### [ELFENSJoN - Houmuru Kagerou](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20Houmuru%20Kagerou.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20Houmuru%20Kagerou.mp3">
 </audio>
 
-### [ELFENSJoN - Tsumi](LINK)
+### [ELFENSJoN - Tsumi](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20Tsumi.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20Tsumi.mp3">
 </audio>
 
-### [ELFENSJoN - ZENITH](LINK)
+### [ELFENSJoN - ZENITH](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20ZENITH.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20ZENITH.mp3">
 </audio>
 
 ---
 
 We won't tell you how to spend your time, but if you went to [**ELFENSJoN**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/69) to find a song to map, you might enjoy yourself. Again, the choice is yours. But you should really do it.
 
-Your sense of self-determination surely wants to see who our Featured Artist addition is next week, so stay tuned.
+More music is already on the docket for next week. Stay tuned.
 
 —pishifat
