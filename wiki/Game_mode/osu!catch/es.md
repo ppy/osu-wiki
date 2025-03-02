@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # osu!catch
 
 ![Jugabilidad de osu!catch](/wiki/shared/catch-gameplay.jpg "Interfaz de osu!catch")

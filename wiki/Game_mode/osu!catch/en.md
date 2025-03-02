@@ -1,78 +1,85 @@
----
-needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, needs a grammar/style check
----
+<!-- TODO: replace images to be taken from osu!(lazer) with the osu! argon skin.--> 
+
+<!-- Mostly since new players will touch lazer rather than stable in the future its just better to do it this way (this is also why the catcher is mostly referred to as 'platter', the argon skin uses a floating platter, not a character)-->
+
 
 # osu!catch
 
-![Gameplay of osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch Interface")
+osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requires the player to control a platter that has the ability to *catch* falling fruits in tune to the beat.
 
-osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requires the player to control a character(catcher) who catches falling fruit in tune to the beat.
+## Song Selection
 
-## ![](/wiki/shared/mode/catch.png) Gameplay
+To access the osu!catch game mode press `Ctrl` + `3` at the same time, or use the the `Mode` button and select `osu!catch` in osu!(stable) or click the ![](/wiki/shared/mode/catch.png) icon on the top of the screen for osu!(lazer).
 
-### Song Selection
+To download more beatmaps for osu!catch, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `Beatmap listing` button 
 
-To access the osu!catch game mode, press `Ctrl` + `3` at the same time.
+![osu!(lazer) beatmap listing button](/wiki/shared/lazer_beatmap_listing.png)
 
-Alternatively, click on the `Mode` button and select `osu!catch`.
+## Player control
 
-### Gameplay Basics
+In osu!catch, the player is supposed to catch falling fruits by controlling a **platter** (also known as a "catcher") to the rhythm of the music. By default the keys to control the platters movements are:
 
-#### Playfield
+- the left `<-` and right `->` or `Z` and `X` keys to move the catcher left and right respectively.
+- Press and hold the `leftShift` key or the Left Mouse Button to activate a *dash* state which is recognizable by it making the platter *glow brightly* and leaving an afterimage while moving. Moving while in the dash state makes the player move **2 times faster** then normally.
 
-![osu!catch playfield difference between CS2 and CS7](/wiki/shared/Catch_Playfield_27.jpg "osu!catch playfield difference based on CS")
+The placement of the mouse cursor *does not* affect gameplay unless [Relax](/wiki/Gameplay/Game_modifier/Relax) mod is enabled, which makes the platter directly follow the cursor. 
 
-The zoom size of the playfield is based on CS (Circle Size) settings, with lower CS means much more zoomed in and smaller space, while higher CS means much more zoomed out and larger movement space.
+## Hitobjects
 
-The catcher can move from left to right, with the fruits falling from top to bottom. The catcher cannot move pass the left and right walls of the playfield.
+osu!catch has 3 main [hitobjects](/wiki/gameplay/Hit_object/) the player interacts with:
 
-All fruits will stay at the plate until its combo ends, which the fruits will bounce out of the plate. Timing and where it falls on the plate does not matter; either a full score for successful catch or miss.
+- Fruits
+- Juice Streams
+- Banana Showers
 
-#### Fruits
+### Fruits
 
 ![Fruits](/wiki/shared/Catch_fruits.jpg "osu!catch fruits")
 
-To catch these fruits, make sure it falls to the plate and not over the plate. Collected fruits will always give 300 points each, increment combo by 1, and treated as 300 in result screen.
+**Fruits** are the simplest object type in osu!catch, all the user is required to do is move the platter under the fruit so it will fall on to the plate rather than over it.
 
-#### Fruit trails
+Collected fruits will always give a `GREAT` judgement, rewarding 300 points each and increment combo by 1. 
 
-![Fruit trails](/wiki/shared/Catch_trails.jpg "osu!catch fruit trails")
+### Juice streams 
 
-A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path. Droplet gives 10 points each and treated as 50 in result screen. Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
+A typical **juice stream** will contains two fruits at its start and end. Between the start and the end there will also be a path made out of small and large droplets, with the large droplets acting as slider ticks. Juice streams, similarly to sliders, can be reversed.
 
-Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as *Miss Droplet*, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
+Small droplets give 10 points each and don't affect combo, while large droplets give 30 points, increment combo by 1 if caught. Unlike small droplets, missing a large droplet resets the combo
 
-#### Bananas
+### Banana showers
 
 ![Bananas](/wiki/shared/Catch_bananas.jpg "osu!catch bananas")
 
-Here, large bananas will rain down and shrink down to catch size as it falls down to the plate (or not). Each collected bananas will give a static score of 1,100 regardless of mod and combo multiplier.
+While a **banana shower** is active, large bananas will pour from the sky and shirk down. Catching bananas (or missing them) doesn't affect combo, but if caught they reward 1,100 score each and regenerate a portion of the players missing health. Each banana will always reward 1,100 score regardless of mod and combo multiplier.
 
-The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Gameplay/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail.
+Notably, [Auto](/wiki/Gameplay/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail, even if its humanly impossible.
 
-#### Hyperfruits
+## Hyperfruits
 
 ![Hyperfruits, and catcher hyperdashing from collecting previous hyperfruit](/wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfruits")
 
-Hyperfruits are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated. All hyperfruits have a signature red colour surrounding the hyperfruit itself by default.
+**Hyperfruits** are special kinds of fruits that will appear when the next fruit is too far away for it to be possible to catch it with a normal dash.
 
-Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (just fast enough to catch the next fruit), glows red, and leaves a temporary red *afterimage* at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
+Collecting a hyperfruit will upgrade the catchers dash into a *hyperdash*, which allows the platter to move just fast enough to catch the next fruit. While performing a hyperdash, the catcher glows red and leaves a temporary red *afterimage* at the collection point. A hyperdash will be active until the next fruit was caught or dropped.
+
+Hyperfruits can be recognised by a signature red colour surrounding the hyperfruit itself by default.
+
+## Difficulty settings
+
+osu!catch has 3 difficulty settings which each affecting the gameplay differently:
+
+- [Circle size ](/wiki/Beatmap/Circle_size/)
+- [HP drain](/wiki/Beatmap/HP_drain_rate/)
+- [Approach rate](/wiki/Beatmap/Approach_rate/)
+- [Overall difficulty](/wiki/Beatmap/Overall_difficulty/) (ScoreV1 only)
+
+Each setting is often referred to as CS, HP, AR and OD respectively
+
+In osu!(lazer), each of the settings can be altered to the users preferences using the [Difficulty Adjust](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) mod.
 
 ## Play Styles
 
 *Refer to [Play Style page under osu!catch](/wiki/Gameplay/Play_style#osu!catch).*
-
-## Controls
-
-![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
-
-### Catcher control
-
-- By default, the left `<-` (L) and right `->` (R) arrow keys to move the catcher.
-- Press and hold the `leftShift` (D) key with one of the arrow keys will make the catcher *dash* in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
-  - Alternatively, press and hold the Left Click (D) button on the mouse to trigger the dash.
-
-The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Gameplay/Game_modifier/Relax) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
 ## Scoring
 

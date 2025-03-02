@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # osu!catch
 
 ![osu!catch 游玩](/wiki/shared/catch-gameplay.jpg "osu!catch 的界面")
