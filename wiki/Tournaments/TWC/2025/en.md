@@ -70,7 +70,6 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=CR }:: | **Costa Rica** | **[pui](https://osu.ppy.sh/users/12687433)** |
 | ::{ flag=FI }:: | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [Antti](https://osu.ppy.sh/users/13281473), [BFKB113PBK](https://osu.ppy.sh/users/13613362), [GamersDecision](https://osu.ppy.sh/users/19975342), [Haadez](https://osu.ppy.sh/users/8925266), [vodnanen](https://osu.ppy.sh/users/10335557) |
 | ::{ flag=FR }:: | **France** | **[Ranshi](https://osu.ppy.sh/users/6680785)**, [Acii\_](https://osu.ppy.sh/users/11253595), [Glassive](https://osu.ppy.sh/users/12453848), [Gundham](https://osu.ppy.sh/users/8023063), [Nethen](https://osu.ppy.sh/users/14034809), [YaniFR](https://osu.ppy.sh/users/11260982) |
-| ::{ flag=DE }:: | **Germany** | **[Drecksackblase](https://osu.ppy.sh/users/6278008)** |
 | ::{ flag=HK }:: | **Hong Kong** | **[YonGin](https://osu.ppy.sh/users/7109317)** |
 | ::{ flag=ID }:: | **Indonesia** | **[ImChro](https://osu.ppy.sh/users/7280717)** |
 | ::{ flag=IT }:: | **Italy** | **[CRHIX](https://osu.ppy.sh/users/25662684)**, [eww](https://osu.ppy.sh/users/12022477), [Garda](https://osu.ppy.sh/users/8127849), [Kurotsuki37](https://osu.ppy.sh/users/11764134), [Plasmusss](https://osu.ppy.sh/users/20822544) |
