@@ -2,6 +2,10 @@
 
 Index page for all of the Aus/NZ osu!standard Tournament series.
 
+- AUS/NZ osu!standard Tournament
+- Aus/NZ osu!standard Tournament 2
+- Aus/NZ osu!standard Tournament 3
+- Aus/NZ osu!standard Tournament 4
 - [Aus/NZ osu!standard Tournament 5 - Summer](2018_Summer)
 - [Aus/NZ osu!standard Tournament 5 - Winter](2018_Winter)
 - [Aus/NZ osu!standard Tournament 6 - Summer](2019_Summer)

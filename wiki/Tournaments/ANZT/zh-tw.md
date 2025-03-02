@@ -6,6 +6,10 @@ no_native_review: true
 
 所有 Aus/NZ osu!standard 系列錦標賽的索引頁。
 
+- Aus/NZ osu!standard Tournament
+- Aus/NZ osu!standard Tournament 2
+- Aus/NZ osu!standard Tournament 3
+- Aus/NZ osu!standard Tournament 4
 - [Aus/NZ osu!standard Tournament 5 - Summer](2018_Summer)
 - [Aus/NZ osu!standard Tournament 5 - Winter](2018_Winter)
 - [Aus/NZ osu!standard Tournament 6 - Summer](2019_Summer)
