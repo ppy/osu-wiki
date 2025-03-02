@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup Concludes"
+title: osu!mania 7K World Cup 2025 Concludes
 date: 2025-03-02 23:59:59 +0000
 ---
 
@@ -234,9 +234,213 @@ For those interested in the maps that accompanied these amazing tracks, please c
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/yz1155.png)
 
+Intro to yz
+
+---
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+Congratulations to the team for the win! What are the team's overall thoughts on the series thus far? What has been the team's strategy this year as opposed to previous ones? As a player, how has the evolution of World Cups felt? Has it affected the way you guys played in any noticeable way?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2071008" style="background-image: url('/wiki/shared/avatars/yz1155.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2071008">yz1155</a></p>
+
+Everyone may have slightly different opinions about this year's tournament, but our entire team agrees that the introduction of the Round of 32 and the EX mappools were great decision. And overall mappool's quality was great.
+
+South Korea's main strategy was simple and clear. Focusing on the opponent's weak point. Of course, Teams like Japan and China are surprisingly strong. However, no matter how strong a team is, it does not have a SSS rank in all areas. When we had a match with Japan, our team focused on LN and HB. And with team China, we focused on RC picks. I believe our strength was 'balanced skill set', so this strategy was effectual in every round. Actually, it is same with previous tournament. Unless tournament add SV picks, probably strategy will not change.
+
+As a one of players, I can notice MWC have tried new and challenging. Especially this year, there were a lot of new things. At least, our team had a great time with a new things from this year. There are always opposing opinions when trying something new. While all opinions should be respected, I hope the mappooling team will not be too swayed by them. Any participants with a normal attitude and mindset would be grateful for staffs effort.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+With this year's win, South Korea currently boasts of 13 wins across both 4K and 7K. How do you think South Korea has been able to maintain their dominance? As a captain, how do you decide who gets to play when the country's skill ceiling is this high?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2071008" style="background-image: url('/wiki/shared/avatars/yz1155.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2071008">yz1155</a></p>
+
+Well, the major reason South Korea has achieved first place many times in the MWC so far is that South Korea has a significantly long VSRG history especially in 7K. Due to this long history, It is natural that there are many skillful players in South Korea. The fact that other nations with a long VSRG history like Japan, China, and Philippines also have greatly strong teams proves it.
+
+But, it doesn't mean South Korea is still 'overwhelming' at all like taiko mode's Japan. As time goes by, VSRG is being played in various nations. So the gap of skill level is being decreased gradually. And, honestly, I would say If another team gathered their best members, no one could predict the world cup's result carelessly. Moreover, If other dozens, or even hundreds of players more skilled than me from various VSRGs started playing Osu! mania and participated in the MWC, the results would become much more unpredictable.
+
+It seems i might get sidetracked. Anyway in short, the reason South Korea has been dominant in Mania, especially 7K mode is there are more active players than other nations. And the reason why there are many active and skillful players is that South Korea has long VSRG history.
+
+If I had to point out another reason, it might be that South Koreans have grown up in an extremely competitive environment, which could have influenced their skill improvement in gaming. However, I don't really see VSRG as a competition at all, so I can't say for sure.
+
+To me, VSRG is like minecraft. We can play however we want- for example, LN, Hybrid, ChordJack, Stream, Tech, Dump. And we don't have to do what we don't want to play. It's like Minecraft, where we can do anything we want. And MWC is a festival where friends from all over the world come together to have fun. When you're busy enjoying the festival with your friends, is there really any reason to compete with your friends?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+It's hard to ignore all the changes that have taken place this year. How does the team feel about these changes, in particular the change to the mappool format? What about the addition of Round of 32, has this made the tournament ever so slightly more competitive?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2071008" style="background-image: url('/wiki/shared/avatars/yz1155.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2071008">yz1155</a></p>
+
+(Crusher) : In my opinion, the tournament has definitely improved from previous years because round of 32 and EX bracket have been added. These changes made the tournament more competitive and interesting. These were quite attractive and necessary to players. As the period of the tournament is longer than last year's, there were more things to see. The promotion effect of the tournament has increased. The addition of round of 32 gave more players hope to play in MWC than before. I believe this is the key of making MWC bigger. Also players are getting stronger so they need harder maps. That's why I think the addition of EX bracket was good. I would say adding something new to MWC will always be positive for MWC.
+
+(dressurf) : I believe extending to the round of 32 provided a fresh and exciting atmosphere for the event. If little more people participate in the MWC, it seems fine with keep up round of 32 next year too. It could be positive for bringing (evoking?) much more tournament-vibe atmosphere. [Im not sure about this sentence. what he means is 'Adding Ro32 was positive try for better world cup.] I also experience the EX mappool for the first time, it wasn't as difficult as the 'EX' title might suggest. It seems that difficulty adjustments are needed. How about using current range's EX pick for 'Wildcard' and make the EX pool more challenging? Also, thank you for efforts in improving the overall mappool quality. I had a great time playing this year's mappool.
+
+(Kalkai) : Overall quality for this year's mappool was really cool. And the song choices were also good. I really enjoyed charts while tournament. Thank you for the all staff's effort. 
+
+(yz1155) : I want to praise who suggested round of  32 in this year. For me, World cup is not a competition just determine ranking, but a  joyful international event for gamer.  In particular, there are no special events in 7K mode, so the World Cup is almost the only event. It is just my very subjective opinion, but it doesn't really matter which team wins. The most important thing is everyone enjoys this fiesta with satisfaction. More than anything else, extending to round of 32 is the most positive thing from this year.
+
+</div>
+
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/Ludicin.png)
 
+Intro to ludicin
+
+---
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+More perspicacious members in the community know that you're not new to the game. For how long have you been interested in VSRGs? What about osu!mania interested you the most?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8659666" style="background-image: url('/wiki/shared/avatars/Ludicin.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/8659666">Ludicin</a></p>
+
+I've been playing rhythm games for quite some time now. I think around 2008, I was introduced to rhythm games like Dance Dance Revolution and Guitar Hero, and then I found out about osu!mania when my brother was playing it back in 2016.
+
+What interested me about osu!mania was the convenience of playing on a keyboard. It was really easy to boot up the game and start playing. After that, I’ve just been playing ever since.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+What was your main drive to become a musician? Did your experience with rhythm games influence this decision? Finally, what were your main inspirations and goals?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8659666" style="background-image: url('/wiki/shared/avatars/Ludicin.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/8659666">Ludicin</a></p>
+
+Really, I’ve always wanted to do something with music, even before playing rhythm games. I’ve been making music for a long time and have always created what I enjoy listening to. The fact that people also like what I make and that it has helped them in some way is really cool to see.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+It's hard to understate the effort that must've gone into the tiebreaker. What was the inspiration behind it? How closely intertwined was the collaboration between you, the design team, and the map poolers?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8659666" style="background-image: url('/wiki/shared/avatars/Ludicin.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/8659666">Ludicin</a></p>
+
+I honestly have been wanting to make an orchestral song like this for a while, so when the osu! team reached out to me about making a Grand Finals Tiebreaker, I figured it would have been fitting.
+
+The only idea I really had for this song was that it's set in a post-apocalyptic world. I wasn’t too involved in the design process since I wanted every designer involved to have the freedom to build upon my initial concept. Seeing everyone's ideas come together and work so well was really cool to witness.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+We're glad to see you took the chance to become a Featured Artist! Will this encourage you to take on more projects in the community? Has this year's experience been gratifying for you?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8659666" style="background-image: url('/wiki/shared/avatars/Ludicin.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/8659666">Ludicin</a></p>
+
+This was definitely a fun experience! I would definitely like to be a part of more projects in the osu! community, but we will see!
+
+</div>
+
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/TheFunk-and-CrewK.png)
+
+Intro to VFX team
+
+---
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
+
+Both of you are well-known in the mania 4K tournament scene. Can you each briefly introduce yourselves and share what sparked your interest in applying to join the World Cup Design Team as visual effects designers?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13981991" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13981991">TheFunk</a></p>
+
+Hello! Most people might know me for mapping in multiple community tournaments, or more infamously, for the SV maps in MWC 4K 2023 and 2024. What some may not know is that I have been doing graphic design and visual effects since 2022, but I became more active in design last year thanks to multiple opportunities I was given in the osu! community.
+
+The main reason I was interested in joining the World Cup Design Team was the high-quality and well-thought-out designs I saw in previous osu! originals. This sparked my interest in contributing designs for osu! originals while also gaining new experience from fellow designers. I'm very glad I was given this opportunity to debut my visual effects work in Lost Requiem through the World Cup Design Team.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11488604">CrewK</a></p>
+
+Hi, I'm CrewK. If you've been playing mania 4K for a long time, you might know me as a former MWC 4K player from 2019 to 2024—just a regular MWC enthusiast.
+
+The event that most inspired me to apply as a VFX designer was seeing Purple Palace's showcase in person at MWC 4K 2021. The elation I felt when the original music was released still resonates with me, and I’ve always hoped to create something that could excite the community in the same way.
+
+I also started making videos under the name "rua" about two years ago, hoping to use the experience I gained there to showcase my work someday. Now, I’m truly honored to present the fruits of my labor on such a big stage. If you're interested, feel free to check out more of my work as "rua" (@rua_alfalfa).
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
+
+Despite being your first design project for the World Cups, you were immediately thrown into working on the challenging Grand Finals Tiebreaker project, known to require extensive planning and meticulous execution. How did you approach the theme of the song to develop a plan that would translate into a cohesive visual storytelling? Given the song's cinematic opening, were there any key elements you wanted to emphasize during the design process?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13981991" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13981991">TheFunk</a></p>
+
+Before we were assigned to the Grand Finals Tiebreaker project, we were given some design requirements to follow, which served as stepping stones for both me and CrewK during the design process. After seeing KM's artwork and hearing Ludicin’s song, the design team brainstormed lore ideas that could work well, allowing us to create a story for the first minute of the song while maintaining a connection between the song and artwork.
+
+Some of the lore concepts included showing the players’ or spectators’ perspectives from a camera as they help Ludicin and Mani (the 7K mascot) uncover something within the ruins. An important relic or object was discovered inside a dome-shaped building, which we referenced from the artwork as it was a prominent element.
+
+The song’s opening was different from previous tiebreakers, featuring a cinematic introduction. CrewK and I tried our best to make it look like a movie with the ruined buildings and scenic look during our process with a lot of references from KM's artwork, mainly from the ruined buildings. With the collaboration of Sakura006, we were also able to implement character animations, making the scenes feel more immersive and realistic.
+
+After seeing the Grand Finals Tiebreaker being showcased, I’m very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn’t have achieved this without KM’s fantastic illustrations, Zeth’s graphic design, and RiceSS and binarie’s storyboard work which covered the remaining sections of the song.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11488604">CrewK</a></p>
+
+The team production process was exactly as TheFunk described. Since brainstorming isn’t my strong suit, I’m extremely grateful for TheFunk’s proactive support.
+
+To add a few details about the production, we focused heavily on the overall color tone of the scenes to make them feel more cinematic. We experimented extensively to create a majestic atmosphere that wasn’t too bright or too dark, perfectly complementing the music. Additionally, I carefully adjusted the timing of Ludicin’s reveal from the blacked-out silhouette. After consideration, we determined that the best moment for the reveal was at 1:02, when the music reaches a climactic point. By synchronizing the reveal with the peak of the song, we aimed to enhance the sense of excitement and surprise for the song composer announcement.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
+
+Most of your past designs have been solo work. What was it like working in a collaborative design process? What advantages did it have over your solo experiences?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13981991" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13981991">TheFunk</a></p>
+
+This was my first time collaborating with another designer on visual effects, and I had a blast working with CrewK. It was fun getting to know him and seeing his approach to design. We frequently exchanged opinions and ideas on how we wanted the video to look while also sharing design assets to ensure visual consistency across all scenes.
+
+Working together had its unique advantages as well. Since we both used the same software, it was easy to communicate ideas and make adjustments to enhance the visuals. Splitting the workload allowed us to complete scenes more efficiently, and having another person provide built-in quality assurance, which is something solo work lacks. Instead of relying solely on personal judgment, we could critique and refine each other’s scenes.
+
+Given the opportunity, I would be happy to work with CrewK again or collaborate with other designers of the World Cup Design Team.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11488604">CrewK</a></p>
+
+I believe that one of the biggest advantages of collaborative work is the ability to complement each other's strengths and weaknesses, ultimately improving the overall quality of the final product.
+
+This applies not only to brainstorming as I mentioned earlier, but also to the ability to give and receive technical feedback, which I found to be incredibly valuable.
+
+</div>
 
 ---
 
