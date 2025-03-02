@@ -33,7 +33,7 @@ For those who'd wish to skip to this week's highlights, we've got you covered [d
 **[Download the pool here! (158 MB)](https://osu.ppy.sh/beatmaps/packs/P276)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2382915152&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![Grand Finals mappool table](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/mappool.jpg)
