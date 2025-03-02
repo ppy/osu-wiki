@@ -78,17 +78,17 @@ Suffice to say, the team is very proud of the work. Seeing the community's breat
 | **All-stars Red** | **7** | 6 | All-stars Blue |
 | **South Korea** ::{ flag=KR }:: | **7** | 0 | ::{ flag=CN }:: China |
 
-General recap of events
+All good things must come to an end. And this World Cup is no exception. That said, this year's grand finale hasn't left us short of surprises! Not only did we get to witness this year's winning match between South Korea and China, but also the conclusion of the Philippines' and their nemesis throughout the tournament — that being China. We even got to witness a show match between one of osu!mania's best sets of 7K players to date!
 
-Interviews to come.
+Suffice to say, there's a lot to go over despite the reduced number of matches. We also got a set of [interviews](#interviews) prepared to gain some insight from the creative team involved in this week's osu! original showcase plus an interview with South Korea as this year's winners. Don't miss out on these!
 
-Video recap plug.
+And how could we forget the amazing video recap by the hands of [SurfChu85](https://osu.ppy.sh/users/4469895), [yukina meng](https://osu.ppy.sh/users/9919550), and [Nerfox](https://osu.ppy.sh/users/7976724) who have been working overtime throughout the last couple of months to churn out these amazing, easily digestible recaps.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Intro to highlight.
+Without further ado, let's get into last week's match highlight. And contrary to what you may be expecting, this wasn't the match to decide the victors but rather its runner-up!
 
 ### ::{ flag=CN }:: China vs. ::{ flag=PH }:: Philippines
 
