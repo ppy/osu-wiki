@@ -370,7 +370,7 @@ This was definitely a fun experience! I would definitely like to be a part of mo
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/TheFunk-and-CrewK.png)
 
-Intro to VFX team
+To many people's surprise, this year's design team had two well-known osu!mania users on board! While some users may already know about [TheFunk](https://osu.ppy.sh/users/13981991) and [CrewK](https://osu.ppy.sh/users/11488604)'s side hustles having seen their work throughout the years, fewer people know on their involvement in the official World Cup Design Team. With that said, let us give them the opportunity to talk about their creative thought process throughout the tournament! 
 
 ---
 
@@ -386,45 +386,45 @@ Both of you are well-known in the mania 4K tournament scene. Can you each briefl
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13981991">TheFunk</a></p>
 
-Hello! Most people might know me for mapping in multiple community tournaments, or more infamously, for the SV maps in MWC 4K 2023 and 2024. What some may not know is that I have been doing graphic design and visual effects since 2022, but I became more active in design last year thanks to multiple opportunities I was given in the osu! community.
+Hello! Most people might know me for mapping in multiple community tournaments, or more infamously, for the SV maps in MWC 4K 2023 and 2024. What some may not know is that I have been doing graphic design and visual effects since 2022, but I became more active in design last year thanks to multiple opportunities I was given throughout the osu! community.
 
 The main reason I was interested in joining the World Cup Design Team was the high-quality and well-thought-out designs I saw in previous osu! originals. This sparked my interest in contributing designs for osu! originals while also gaining new experience from fellow designers. I'm very glad I was given this opportunity to debut my visual effects work in Lost Requiem through the World Cup Design Team.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/CrewK.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11488604">CrewK</a></p>
 
-Hi, I'm CrewK. If you've been playing mania 4K for a long time, you might know me as a former MWC 4K player from 2019 to 2024—just a regular MWC enthusiast.
+Hi, I'm CrewK. If you've been playing mania 4K for a long time, you might know me as a former MWC 4K player from 2019 to 2024 — just a regular MWC enthusiast.
 
-The event that most inspired me to apply as a VFX designer was seeing Purple Palace's showcase in person at MWC 4K 2021. The elation I felt when the original music was released still resonates with me, and I’ve always hoped to create something that could excite the community in the same way.
+The event that most inspired me to apply as a VFX designer was seeing [Purple Palace](https://osu.ppy.sh/beatmapsets/1569527#mania/3205077)'s showcase in person on MWC 4K 2021. The elation I felt when the original music was released still resonates with me, and I've always hoped to create something that could excite the community in the same way.
 
-I also started making videos under the name "rua" about two years ago, hoping to use the experience I gained there to showcase my work someday. Now, I’m truly honored to present the fruits of my labor on such a big stage. If you're interested, feel free to check out more of my work as "rua" (@rua_alfalfa).
+I also started making videos under the name "rua" about two years ago, hoping to use the experience I gained there to showcase my work someday. Now, I'm truly honored to present the fruits of my labor on such a big stage. If you're interested, feel free to check out more of my work as "rua" ([@rua_alfalfa](https://x.com/rua_alfalfa)).
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
-Despite being your first design project for the World Cups, you were immediately thrown into working on the challenging Grand Finals Tiebreaker project, known to require extensive planning and meticulous execution. How did you approach the theme of the song to develop a plan that would translate into a cohesive visual storytelling? Given the song's cinematic opening, were there any key elements you wanted to emphasize during the design process?
+Despite being your first design project for the World Cups, you were immediately thrown into working on the challenging Grand Finals tiebreaker project, known to require extensive planning and meticulous execution. How did you approach the theme of the song to develop a plan that would translate into a cohesive visual storytelling? Given the song's cinematic opening, were there any key elements you wanted to emphasize during the design process?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13981991" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13981991">TheFunk</a></p>
 
-Before we were assigned to the Grand Finals Tiebreaker project, we were given some design requirements to follow, which served as stepping stones for both me and CrewK during the design process. After seeing KM's artwork and hearing Ludicin’s song, the design team brainstormed lore ideas that could work well, allowing us to create a story for the first minute of the song while maintaining a connection between the song and artwork.
+Before we were assigned to the Grand Finals tiebreaker project, we were given some design requirements to follow, which served as stepping stones for both me and CrewK during the design process. After seeing KM's artwork and hearing Ludicin's song, the design team brainstormed lore ideas that could work well, allowing us to create a story for the first minute of the song while maintaining a connection between the song and artwork.
 
-Some of the lore concepts included showing the players’ or spectators’ perspectives from a camera as they help Ludicin and Mani (the 7K mascot) uncover something within the ruins. An important relic or object was discovered inside a dome-shaped building, which we referenced from the artwork as it was a prominent element.
+Some of the lore concepts included showing the players' or spectators' perspectives from a camera as they help Ludicin and Mani (the 7K mascot) uncover something within the ruins. An important relic or object was discovered inside a dome-shaped building, which we referenced from the artwork as it was a prominent element.
 
-The song’s opening was different from previous tiebreakers, featuring a cinematic introduction. CrewK and I tried our best to make it look like a movie with the ruined buildings and scenic look during our process with a lot of references from KM's artwork, mainly from the ruined buildings. With the collaboration of Sakura006, we were also able to implement character animations, making the scenes feel more immersive and realistic.
+The song's opening was different from previous tiebreakers, taking a more cinematic approach. CrewK and I tried our best to make it look like a movie with the ruined buildings and scenic looks during our process with a lot of references from KM's artwork. With the collaboration of Sakura006, we were also able to implement character animations, making the scenes feel more immersive and realistic.
 
-After seeing the Grand Finals Tiebreaker being showcased, I’m very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn’t have achieved this without KM’s fantastic illustrations, Zeth’s graphic design, and RiceSS and binarie’s storyboard work which covered the remaining sections of the song.
+After seeing the Grand Finals tiebreaker being showcased, I'm very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn't have achieved this without KM's fantastic illustrations, Zeth's graphic design, and RiceSS and binarie's storyboard work which covered the remaining sections of the song!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/CrewK.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11488604">CrewK</a></p>
 
-The team production process was exactly as TheFunk described. Since brainstorming isn’t my strong suit, I’m extremely grateful for TheFunk’s proactive support.
+The team production process was exactly as TheFunk described. Since brainstorming isn't my strong suit, I'm extremely grateful for TheFunk's proactive support.
 
-To add a few details about the production, we focused heavily on the overall color tone of the scenes to make them feel more cinematic. We experimented extensively to create a majestic atmosphere that wasn’t too bright or too dark, perfectly complementing the music. Additionally, I carefully adjusted the timing of Ludicin’s reveal from the blacked-out silhouette. After consideration, we determined that the best moment for the reveal was at 1:02, when the music reaches a climactic point. By synchronizing the reveal with the peak of the song, we aimed to enhance the sense of excitement and surprise for the song composer announcement.
+To add a few details about the production, we focused heavily on the overall color tone of the scenes to make them feel more cinematic. We experimented extensively to create a majestic atmosphere that wasn't too bright or too dark, perfectly complementing the music. Additionally, I carefully adjusted the timing of Ludicin's reveal from the blacked-out silhouette. After consideration, we determined that the best moment for the reveal was at 1:02, when the music reaches a climactic point. By synchronizing the reveal with the peak of the song, we aimed to enhance the sense of excitement and surprise for the song composer announcement.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -438,11 +438,11 @@ Most of your past designs have been solo work. What was it like working in a col
 
 This was my first time collaborating with another designer on visual effects, and I had a blast working with CrewK. It was fun getting to know him and seeing his approach to design. We frequently exchanged opinions and ideas on how we wanted the video to look while also sharing design assets to ensure visual consistency across all scenes.
 
-Working together had its unique advantages as well. Since we both used the same software, it was easy to communicate ideas and make adjustments to enhance the visuals. Splitting the workload allowed us to complete scenes more efficiently, and having another person provide built-in quality assurance, which is something solo work lacks. Instead of relying solely on personal judgment, we could critique and refine each other’s scenes.
+Working together had its unique advantages as well. Since we both used the same software, it was easy to communicate ideas and make adjustments to enhance the visuals. Splitting the workload allowed us to complete scenes more efficiently, and having another person provide built-in quality assurance, which is something solo work lacks. Instead of relying solely on personal judgment, we could critique and refine each other's scenes.
 
 Given the opportunity, I would be happy to work with CrewK again or collaborate with other designers of the World Cup Design Team.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/CrewK.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11488604">CrewK</a></p>
 
