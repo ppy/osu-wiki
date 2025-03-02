@@ -1,6 +1,4 @@
 ---
-outdated_since: 3abbc3696141c81461c9bb3ca5190c1d6376091c
-outdated_translation: true
 tags:
   - usergroup
   - usergroups
@@ -31,6 +29,7 @@ Al hacer clic en las insignias, se accederá a las listas del grupo respectivo, 
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Creadores musicales que se han asociado con osu! |
 | 47 |  | Announce[^private] | Usuarios con permiso para enviar mensajes en el [chat de anuncios](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Responsables de seleccionar mapas de alta calidad para [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| 50 | [![TC](/wiki/shared/group/TC.png)](https://osu.ppy.sh/groups/50) | [Tournament Committee](/wiki/People/Tournament_Committee) | Ayudar a garantizar que los [torneos](/wiki/Tournaments) y los [concursos](/wiki/Contests) sigan siendo justos y divertidos para todos |
 
 ## Notas
 
