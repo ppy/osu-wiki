@@ -18,11 +18,11 @@ In any case, all **9** new tracks are part of [**ELFENSJoN**'s Featured Artist l
 
 ### [ELFENSJoN - Hadareyuki](LINK)
 
-In preparation for this announcement, Mappers' Guild conductor [Hinsvar](https://osu.ppy.sh/users/1249323) made a map for [ELFENSJoN - Hadareyuki](https://osu.ppy.sh/beatmapsets/2266310) which you can either play through or witness below!
+In preparation for this announcement, Mappers' Guild conductor [Hinsvar](https://osu.ppy.sh/users/1249323) made a map for [ELFENSJoN - Hadareyuki](https://osu.ppy.sh/beatmapsets/2266310) which you can either play through for yourself or witness below!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/elfensjon_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
