@@ -643,7 +643,7 @@ Detailed statistics can be seen in the [statistics sheet](https://docs.google.co
     - Disqualification from the current and future Jack House Cup tournaments, until appealed.
 18. Referees may allow, at their discretion, lower or higher tolerances for timers.
 19. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
-20. Any tournament-related complaints shall be sent to the [osu! tournament report form](https://pif.ephemeral.ink/tournament-reports).
+20. Any tournament-related complaints shall be sent to the [osu! tournament report form](https://tcomm.hivie.tn/reports/create).
 21. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
