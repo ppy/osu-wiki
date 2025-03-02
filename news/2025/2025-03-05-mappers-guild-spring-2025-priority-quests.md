@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mappers' Guild - Winter 2025 Priority Quests
+title: Mappers' Guild - Spring 2025 Priority Quests
 date: 2025-03-05 20:00:00 +0000
 ---
 
