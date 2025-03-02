@@ -234,7 +234,7 @@ For those interested in the maps that accompanied these amazing tracks, please c
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/yz1155.png)
 
-Intro to yz
+Our first interview of the week was with none other than South Korea's team captain, [yz1155](https://osu.ppy.sh/users/2071008) alongside their teammates! We want to get some insight into the team's thoughts after winning one of MWC 7K's most exciting tournaments to date, both due to its plethora of changes and given how competitive this year seemed to be. And who better knows about the osu!mania World Cup series than a team as experienced as South Korea's?
 
 ---
 
@@ -250,11 +250,11 @@ Congratulations to the team for the win! What are the team's overall thoughts on
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2071008">yz1155</a></p>
 
-Everyone may have slightly different opinions about this year's tournament, but our entire team agrees that the introduction of the Round of 32 and the EX mappools were great decision. And overall mappool's quality was great.
+Everyone may have slightly different opinions about this year's tournament, but our entire team agrees that the introduction of Round of 32 and the EX category in the mappools were both a great addition. Moreover, the overall quality of the mappools was great!
 
-South Korea's main strategy was simple and clear. Focusing on the opponent's weak point. Of course, Teams like Japan and China are surprisingly strong. However, no matter how strong a team is, it does not have a SSS rank in all areas. When we had a match with Japan, our team focused on LN and HB. And with team China, we focused on RC picks. I believe our strength was 'balanced skill set', so this strategy was effectual in every round. Actually, it is same with previous tournament. Unless tournament add SV picks, probably strategy will not change.
+South Korea's main strategy was simple and clear: focusing on the opponent's weak point. Of course, teams like Japan and China are surprisingly strong. However, no matter how strong a team is, no one is a jack of all trades and a master of all. When we had a match with Japan, our team focused on LN and HB, and with team China, we focused on RC picks. I believe our strength was our balanced skill set, so this strategy proved effective in every round. This is basically the same approach we took in previous tournaments, and unless SV picks are added we'll probably not be changing strategies any time soon.
 
-As a one of players, I can notice MWC have tried new and challenging. Especially this year, there were a lot of new things. At least, our team had a great time with a new things from this year. There are always opposing opinions when trying something new. While all opinions should be respected, I hope the mappooling team will not be too swayed by them. Any participants with a normal attitude and mindset would be grateful for staffs effort.
+As one of the players involved, I have noticed how the team has tried new and challenging things this year. Our team had a great time with these changes! While there will always be opposing opinions when testing the waters and all should equally be respected, I hope that the mappooling team will not be swayed by them. Any reasonable participant with the correct attitude and mindset should be grateful for the staff's efforts!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
 
@@ -266,15 +266,13 @@ With this year's win, South Korea currently boasts of 13 wins across both 4K and
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2071008">yz1155</a></p>
 
-Well, the major reason South Korea has achieved first place many times in the MWC so far is that South Korea has a significantly long VSRG history especially in 7K. Due to this long history, It is natural that there are many skillful players in South Korea. The fact that other nations with a long VSRG history like Japan, China, and Philippines also have greatly strong teams proves it.
+Well, the main reason South Korea has achieved first place many times in the MWC so far would have to be our significantly longer VSRG history, especially in 7K. Because of this, it is only natural for more experienced and skilled players to have grown up in South Korea. This same fact applies to other strong countries with VSRG history such as Japan, China, or the Philippines.
 
-But, it doesn't mean South Korea is still 'overwhelming' at all like taiko mode's Japan. As time goes by, VSRG is being played in various nations. So the gap of skill level is being decreased gradually. And, honestly, I would say If another team gathered their best members, no one could predict the world cup's result carelessly. Moreover, If other dozens, or even hundreds of players more skilled than me from various VSRGs started playing Osu! mania and participated in the MWC, the results would become much more unpredictable.
+This does not mean that we're "overwhelmingly" better than others, such as Japan's taiko dominance. As time goes by and VSRGs get played in other countries, the skill gaps will end up gradually decreasing. Knowing this, we do not know what would happen if more people started to play osu!mania and participated in the MWC in the future. Unfortunately, not all nations are as active as South Korea is, and as long as that's the case, it will be very hard for other countries to catch up.
 
-It seems i might get sidetracked. Anyway in short, the reason South Korea has been dominant in Mania, especially 7K mode is there are more active players than other nations. And the reason why there are many active and skillful players is that South Korea has long VSRG history.
+If I had to point out another reason, it might be that South Koreans have grown up in an extremely competitive environment, which could have influenced their skill improvements in gaming as a whole. However, I don't really see VSRGs as a competition at all, so I can't say for sure how much that has influenced others.
 
-If I had to point out another reason, it might be that South Koreans have grown up in an extremely competitive environment, which could have influenced their skill improvement in gaming. However, I don't really see VSRG as a competition at all, so I can't say for sure.
-
-To me, VSRG is like minecraft. We can play however we want- for example, LN, Hybrid, ChordJack, Stream, Tech, Dump. And we don't have to do what we don't want to play. It's like Minecraft, where we can do anything we want. And MWC is a festival where friends from all over the world come together to have fun. When you're busy enjoying the festival with your friends, is there really any reason to compete with your friends?
+To me, these games are like Minecraft: a sandbox where we can play however we want! For example, we have multiple categories and play styles to choose from, such as LN, rice, hybrid, etc... just to name a few. After all, the main goal of a game is to have fun, especially with friends all around the world. When you're enjoying a game with friends, is there any more compelling reason than to enjoy the moment with them?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/avatars/RandomeLoL.jpg')"></a>
 
@@ -282,17 +280,29 @@ To me, VSRG is like minecraft. We can play however we want- for example, LN, Hyb
 
 It's hard to ignore all the changes that have taken place this year. How does the team feel about these changes, in particular the change to the mappool format? What about the addition of Round of 32, has this made the tournament ever so slightly more competitive?
 
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7304158" style="background-image: url('/wiki/shared/avatars/Crusher.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7304158">Crusher</a></p>
+
+In my opinion, the tournament has definitely improved from previous years thanks to the addition of Round of 32 and the EX category. These changes made the tournament more competitive and interesting. In fact, these were quite attractive and necessary to players. As the length of the tournament is longer than last year's, there were more things to see. The production value of the tournament has increased, and the addition of Round of 32 gave more players a chance to play in MWC compared to before. Ultimately, I believe this was the key to make MWC 7K as big as it was this year. The pools need to adapt to the players' rapid increase of skill, which is why I think the addition of EX bracket was a good choice! I believe trying out new things will always be something positive for the tournament.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/758406" style="background-image: url('/wiki/shared/avatars/dressurf.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/758406">dressurf</a></p>
+
+I believe extending the bracket to the Rround of 32 provided a fresh and exciting atmosphere for the event. If more people participate in the MWC in the future, it seems fine keeping up the Round of 32 next year too. It would be a net positive to improve the tournament's atmosphere. My only nitpick was that the EX mappool didn't really feel as hard as the name may've suggested. Other than that, I'm really thankful for the team's efforts this year by providing such great mappools! I had a great time playing them all.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10790649" style="background-image: url('/wiki/shared/avatars/Kalkai.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10790649">Kalkai</a></p>
+
+The overall quality of this year's mappool was really cool! The song choices were also good, which made it really enjoyable to play this year's charts throughout the tournament. Thank you for all the staff's hard work!
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2071008" style="background-image: url('/wiki/shared/avatars/yz1155.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2071008">yz1155</a></p>
 
-(Crusher) : In my opinion, the tournament has definitely improved from previous years because round of 32 and EX bracket have been added. These changes made the tournament more competitive and interesting. These were quite attractive and necessary to players. As the period of the tournament is longer than last year's, there were more things to see. The promotion effect of the tournament has increased. The addition of round of 32 gave more players hope to play in MWC than before. I believe this is the key of making MWC bigger. Also players are getting stronger so they need harder maps. That's why I think the addition of EX bracket was good. I would say adding something new to MWC will always be positive for MWC.
-
-(dressurf) : I believe extending to the round of 32 provided a fresh and exciting atmosphere for the event. If little more people participate in the MWC, it seems fine with keep up round of 32 next year too. It could be positive for bringing (evoking?) much more tournament-vibe atmosphere. [Im not sure about this sentence. what he means is 'Adding Ro32 was positive try for better world cup.] I also experience the EX mappool for the first time, it wasn't as difficult as the 'EX' title might suggest. It seems that difficulty adjustments are needed. How about using current range's EX pick for 'Wildcard' and make the EX pool more challenging? Also, thank you for efforts in improving the overall mappool quality. I had a great time playing this year's mappool.
-
-(Kalkai) : Overall quality for this year's mappool was really cool. And the song choices were also good. I really enjoyed charts while tournament. Thank you for the all staff's effort. 
-
-(yz1155) : I want to praise who suggested round of  32 in this year. For me, World cup is not a competition just determine ranking, but a  joyful international event for gamer.  In particular, there are no special events in 7K mode, so the World Cup is almost the only event. It is just my very subjective opinion, but it doesn't really matter which team wins. The most important thing is everyone enjoys this fiesta with satisfaction. More than anything else, extending to round of 32 is the most positive thing from this year.
+I want to praise whoever suggested adding the Round of 32. For me, World Cups aren't just a competition to determine a team's rank, but rather a joyful international event for gamers. There are hardly any events in 7K after all, so the World Cup is the only event where we get to enjoy this environment. It's just my very subjective opinion, but at the end of the day it doesn't really matter which team wins. The most important thing is for everyone to enjoy this "fiesta"!
 
 </div>
 
