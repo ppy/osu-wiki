@@ -6,21 +6,20 @@ tags:
   - game modifier
   - modificador de juego
   - modificador del juego
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Mirror (mod)
 
 ![Icono del mod MR](/wiki/shared/mods/MR.png "Icono del mod Mirror (MR)")
 
-*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
+*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Mirror (mod de lazer)](/wiki/Gameplay/Game_modifier/Mirror_(lazer))*\
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
 
-## Acerca de
+## Resumen
 
 - Abreviatura: MR
 - Tipo: Especial
-- Multiplicador de puntuación: 1.00x
+- Multiplicador de puntuación: 1,00x
 - Modos de juego compatibles: ![][osu!mania]
 
 ## Descripción
@@ -29,13 +28,13 @@ El mod **Mirror** es un [modificador del juego](/wiki/Gameplay/Game_modifier) pa
 
 ![Jugabilidad de MR](/wiki/Gameplay/Game_modifier/Mirror/img/MR-comparison-mania.jpg "Comparación entre una partida normal (izquierda) y una partida con el mod Mirror activado (derecha) en osu!mania")
 
-El razonamiento detrás de esto es que muchos beatmaps de osu!mania están mapeados por creadores de mano derecha dominante y, por lo tanto, muchos de los patrones de beatmaps están hechos para que sean más cómodos para los jugadores de osu!mania de mano derecha dominante. Por lo tanto, muchos jugadores que dominan la mano izquierda, particularmente los de mayor rango, sienten que la ubicación de la nota reflejada causada por el mod permite que su mano izquierda se utilice de manera más efectiva.
+El razonamiento detrás de esto es que muchos beatmaps de osu!mania son mapeados por creadores que son diestros y, por lo tanto, muchos de los patrones de los beatmaps están hechos para ser más cómodos para los jugadores de osu!mania que son diestros. Por lo tanto, muchos jugadores que son zurdos, sobre todo los de alto nivel, creen que la colocación reflejada de las notas provocada por el mod permite usar la mano izquierda de forma más eficaz.
 
 ## Curiosidades
 
-- El mod Mirror se agregó en septiembre de 2019, en respuesta a una [solicitud de función](https://osu.ppy.sh/community/forums/topics/956618) del usuario [Kamuy](https://osu.ppy.sh/users/7439226).
-  - En el momento de la publicación de la solicitud de función, ya había un mod similar a Mirror que se implementó en [osu!(lazer)](/wiki/Client/Release_stream/Lazer), pero debido a la naturaleza del mod Mirror de aumentar la accesibilidad, se agregó a la versión estable de osu! en el momento.
-  - El mod Mirror en realidad se había solicitado varias veces e incluso años antes de la solicitud de Kamuy, pero la publicación de Kamuy fue la única que realmente llamó la atención suficiente para que se agregara el mod.
-- El mod Mirror es el único mod de juego en la categoría «Especial» que no afecta la cantidad de [puntos de rendimiento (pp)](/wiki/Performance_points) ni la [puntuación](/wiki/Gameplay/Score) que gana un jugador, sin dejar de ser clasificable.
+- El mod Mirror se añadió en septiembre de 2019, en respuesta a una [solicitud de función](https://osu.ppy.sh/community/forums/topics/956618) del usuario [Kamuy](https://osu.ppy.sh/users/7439226).
+  - En el momento de la publicación de la solicitud de función, ya había un mod similar a Mirror que se implementó en [osu!(lazer)](/wiki/Client/Release_stream/Lazer), pero debido a la naturaleza del mod Mirror de aumentar la accesibilidad, se añadió a la versión stable de osu! en ese momento.
+  - El mod Mirror en realidad se había solicitado varias veces e incluso años antes de la solicitud de Kamuy, pero la publicación de Kamuy fue la única que realmente llamó la atención suficiente para que se añadiera el mod.
+- El mod Mirror es el único mod en la categoría «Especial» que no afecta la cantidad de [puntos de rendimiento (pp)](/wiki/Performance_points) ni la [puntuación](/wiki/Gameplay/Score) que gana un jugador, sin dejar de ser clasificable.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
