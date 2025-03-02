@@ -38,41 +38,41 @@ By completing priority quests, you can earn some special rewards too:
 
 Below is an overview of each quest. If any are confusing, feel free to ask questions in the comments or directly to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418). Be sure to check the quest pages for additional requirements!
 
-### [Point of entry](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### [Point of entry](https://mappersguild.com/missions?id=67c3b7f965c8e39f49e79240) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 When installing osu! for the first time, your client can automatically fill your library with a few maps. We call these "bundled maps", which are randomly selected from a pool of curated Featured Artist maps.
 
 **Your goal is to create a map eligible for the bundled map pool!** This has a lot of weirdly specific requirements detailed [here](https://github.com/bdach/osu/blob/master/osu.Game/Beatmaps/Drawables/BundledBeatmapDownloader.cs#L134-L152).
 
-### [osu!original expansion v2](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### [osu!original expansion v2](https://mappersguild.com/missions?id=67c3b7b665c8e39f49e7923c) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 Most of the [osu! originals](https://osu.ppy.sh/wiki/en/osu%21_originals) in osu!'s music library come from the World Cups. Many of those songs don't reach players beyond their initial mode, so let's change that.
 
 **Rank a map of any World Cup osu! original in a game mode that it wasn't created for!**
 
-### [Monthly Beatmapping Contest returns v3](LINK) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
+### [Monthly Beatmapping Contest returns v3](https://mappersguild.com/missions?id=67c3b83765c8e39f49e79244) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
 **Rank a map from any of your [Monthly Beatmapping Contest](https://osu.ppy.sh/wiki/en/Contests/Monthly_Beatmapping_Contest) submissions.**
 
 If you've never made a map for the Monthly Beatmapping Contest, the next iteration is unsurprisingly coming within the next month!
 
-### [Celestial manipulator](LINK) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
+### [Celestial manipulator](https://mappersguild.com/missions?id=67c3b88065c8e39f49e79248) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
 
 As mappers gain more experience, they understand the depths of osu!'s star rating systems more deeply than anyone reasonably should. It's time to make use of that experience.
 
 **Create a spread using any [osu! original](/wiki/osu!_originals) with at least 5 difficulties, where each difficulty's star rating is exactly 1.0 apart at the time it's Ranked.**
 
-### [Classified: Artist edition](LINK) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
+### [Classified: Artist edition](https://mappersguild.com/missions?id=67c3b8e565c8e39f49e7925f) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 This quest goes back to the roots of the Mappers' Guild: **making maps for upcoming Featured Artists**.
 
-Your goal is to create and rank a map for it to be showcased in the artist's upcoming announcement! To participate in this quest, the first step is to select an artist from the [quest page](LINK).
+Your goal is to create and rank a map for it to be showcased in the artist's upcoming announcement! To participate in this quest, the first step is to select an artist from the [quest page](https://mappersguild.com/missions?id=67c3b8e565c8e39f49e7925f).
 
 Unlike previous Classified quests, this one gives you a decent selection upfront. You're given all available songs for an upcoming artist, and your goal is to create and rank a map for any of them. If all goes well, your map will be showcased in the artist's announcement!
 
 For confidentiality reasons, this quest is only open to experienced Mappers' Guild members.
 
-### [The Hurdle v4](LINK) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
+### [The Hurdle v4](https://mappersguild.com/missions?id=67c3b8b965c8e39f49e7925b) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 If you're a new mapper, you don't need extra restrictions on your creativity. Making a map is tough enough on its own.
 
