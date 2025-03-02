@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mappers' Guild - Winter 2025 Priority Quests
-date: 2025-02-xx 22:00:00 +0000
+date: 2025-03-05 20:00:00 +0000
 ---
 
 Creativity thrives on constraints, and the creative side of osu! mapping is no exception. Rethink how you map with the Mappers' Guild's newest quests!
