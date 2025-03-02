@@ -78,7 +78,7 @@ All individual match results can be found on the spreadsheet linked above.
   6. [Pastel\*Palettes - Happy Synthesizer (Special) [ktgster]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
 - Hidden
   1. [ak+q feat. Sennzai - Solitary Dream (Kuuhaku) [-[Pino]-]](https://osu.ppy.sh/beatmapsets/1012249#osu/2118753)
-  2. **[{artist} - {title} ({version}) [{creator}]](https://osu.ppy.sh/beatmapsets/{beatmapset_id}#osu/{beatmap_id})**
+  2. [Shibayan - Shock!! (S.S.H. Arrangement) (Exceed) [Snow Note]](https://osu.ppy.sh/beatmapsets/55119#osu/3929941)
   3. [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui (Descent) [Kalibe]](https://osu.ppy.sh/beatmapsets/926846#osu/1935864)
 - HardRock
   1. [Akira Kushida - Kyuukyoku No Seisen (Kakarotto) [Jounzan]](https://osu.ppy.sh/beatmapsets/764589#osu/1607713)
@@ -86,7 +86,7 @@ All individual match results can be found on the spreadsheet linked above.
   3. [Hisui - SORA-VII Cygnus Wall (Stars Gathering in the Night Skies) [KnightC0re]](https://osu.ppy.sh/beatmapsets/958121#osu/2006097)
 - DoubleTime
   1. [Yorushika - Tomin (Collab Extra) [CoLouRed GlaZeE]](https://osu.ppy.sh/beatmapsets/1007573#osu/2108789)
-  2. **[{artist} - {title} ({version}) [{creator}]](https://osu.ppy.sh/beatmapsets/{beatmapset_id}#osu/{beatmap_id})**
+  2. [yanaginagi - Yukitoki (Insane) [GranDSenpai]](https://osu.ppy.sh/beatmapsets/1003048#osu/2182200)
   3. [Kanon Wakeshima - REUNION (Insane) [Delis]](https://osu.ppy.sh/beatmapsets/929166#osu/1940657)
   4. [Lia - Kokoro ni Todoku Uta (Holo) [Holoaz]](https://osu.ppy.sh/beatmapsets/26549#osu/89428)
 - FreeMod
@@ -140,7 +140,7 @@ All individual match results can be found on the spreadsheet linked above.
   3. [MitiS & MaHi - Blu (Speed Up Ver.) (Nold's Posthumous) [Ashasaki]](https://osu.ppy.sh/beatmapsets/261911#osu/736300)
 - HardRock
   1. [Rib - Jitter Doll (Love.) [Shirasaka Koume]](https://osu.ppy.sh/beatmapsets/819468#osu/1718138)
-  2. **[{artist} - {title} ({version}) [{creator}]](https://osu.ppy.sh/beatmapsets/{beatmapset_id}#osu/{beatmap_id})**
+  2. sky_delta - Grenade (Ex) [Nanashima Asami]
   3. [HIMEHINA - Hitogata (TV Size) (Loli's Extra) [Ryuusei Aika]](https://osu.ppy.sh/beatmapsets/942714#osu/2006664)
 - DoubleTime
   1. [Asaka - Eternal Star (Rinne) [Cami]](https://osu.ppy.sh/beatmapsets/956424#osu/2002273)
@@ -216,7 +216,7 @@ All individual match results can be found on the spreadsheet linked above.
   4. [Jimmy Weckl - Get Happy (MASTER) [buhei]](https://osu.ppy.sh/beatmapsets/359580#osu/953945)
   5. [Yorushika - Hachigatsu, Bou, Tsukiakari (Extra) [Delis]](https://osu.ppy.sh/beatmapsets/963814#osu/2017881)
 - Hidden
-  1. **[{artist} - {title} ({version}) [{creator}]](https://osu.ppy.sh/beatmapsets/{beatmapset_id}#osu/{beatmap_id})**
+  1. An - AxiVid (Another) [Nakagawa-Kanon]
   2. [kaztora, eba, Misaki Nakajima - Messiah (Insane) [Shinxyn]](https://osu.ppy.sh/beatmapsets/21877#osu/75689)
 - HardRock
   1. [Itou Kanako - Skyclad no Kansokusha -Remix- (taka) [Takos]](https://osu.ppy.sh/beatmapsets/33323#osu/110628)
