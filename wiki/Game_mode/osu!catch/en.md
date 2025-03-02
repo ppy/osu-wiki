@@ -2,7 +2,6 @@
 
 <!-- Mostly since new players will touch lazer rather than stable in the future its just better to do it this way (this is also why the catcher is mostly referred to as 'platter', the argon skin uses a floating platter, not a character)-->
 
-
 # osu!catch
 
 osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requires the player to control a platter that has the ability to *catch* falling fruits in tune to the beat.
@@ -26,7 +25,7 @@ The placement of the mouse cursor *does not* affect gameplay unless [Relax](/wik
 
 ## Hitobjects
 
-osu!catch has 3 main [hitobjects](/wiki/gameplay/Hit_object/) the player interacts with:
+osu!catch has 3 main [hitobjects](/wiki/gameplay/Hit_object) the player interacts with:
 
 - Fruits
 - Juice Streams
@@ -68,10 +67,10 @@ Hyperfruits can be recognised by a signature red colour surrounding the hyperfru
 
 osu!catch has 3 difficulty settings which each affecting the gameplay differently:
 
-- [Circle size ](/wiki/Beatmap/Circle_size/)
-- [HP drain](/wiki/Beatmap/HP_drain_rate/)
-- [Approach rate](/wiki/Beatmap/Approach_rate/)
-- [Overall difficulty](/wiki/Beatmap/Overall_difficulty/) (ScoreV1 only)
+- [Circle size](/wiki/Beatmap/Circle_size)
+- [HP drain](/wiki/Beatmap/HP_drain_rate)
+- [Approach rate](/wiki/Beatmap/Approach_rate)
+- [Overall difficulty](/wiki/Beatmap/Overall_difficulty) (ScoreV1 only)
 
 Each setting is often referred to as CS, HP, AR and OD respectively
 
