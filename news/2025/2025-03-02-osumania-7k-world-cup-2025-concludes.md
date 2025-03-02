@@ -308,7 +308,7 @@ I want to praise whoever suggested adding the Round of 32. For me, World Cups ar
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/Ludicin.png)
 
-Intro to ludicin
+More than likely, [Ludicin](https://osu.ppy.sh/users/8659666) needs little to no introduction! This is, in fact, not their first rodeo in the game as they've previously composed [Echoes of Memoria](https://osu.ppy.sh/beatmapsets/2214238#mania/4691422) for [The Perennial 2024](https://osu.ppy.sh/community/forums/topics/1924994?n=1), as well as the [myriad of ranked sets](https://osu.ppy.sh/beatmapsets?q=artist%3D%22%22Ludicin%22%22) they were featured in!
 
 ---
 
@@ -350,7 +350,7 @@ It's hard to understate the effort that must've gone into the tiebreaker. What w
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/8659666">Ludicin</a></p>
 
-I honestly have been wanting to make an orchestral song like this for a while, so when the osu! team reached out to me about making a Grand Finals Tiebreaker, I figured it would have been fitting.
+I honestly have been wanting to make an orchestral song like this for a while, so when the osu! team reached out to me about making a Grand Finals tiebreaker, I figured it would have been fitting.
 
 The only idea I really had for this song was that it's set in a post-apocalyptic world. I wasn’t too involved in the design process since I wanted every designer involved to have the freedom to build upon my initial concept. Seeing everyone's ideas come together and work so well was really cool to witness.
 
