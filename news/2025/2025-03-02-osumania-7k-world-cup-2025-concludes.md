@@ -16,7 +16,7 @@ While we have tons to cover for the Grand Finals recap, let's take a quick break
 
 ![MWC 7K 2025 podium](/wiki/Tournaments/MWC/2025_7K/img/mwc7k2025-podium.jpg)
 
-Congratulations to ::{ flag=KR }:: South Korea for winning 2025's first official World Cup! With this win, South Korea has amassed a total of **13 total osu!mania World Cup wins** under their belt between 4K and 7K, 8 of them being in 7K. A feat easier said that done!
+Congratulations to ::{ flag=KR }:: South Korea for winning 2025's first official World Cup! With this win, South Korea has amassed a total of **13 total osu!mania World Cup wins** under their belt between 4K and 7K, 8 of them being in 7K. A feat easier said than done!
 
 While South Korea's dominance over 7K is not news to anyone, it's easy to understand the Herculean effort behind such an accomplishment. This year's teams were no joke. Competition only ever got fiercer with the increase in the bracket size, and despite the extra hurdles, South Korea remains as the undisputed champion of 2025! We'd like to extend our deepest congratulations to the team for their well deserved victory.
 
@@ -93,13 +93,13 @@ Without further ado, let's get into last week's match highlight. And contrary to
 
 Coming in hot from their Semifinals match, China and the Philippines faced off once again after China's initial 6–4 score. This made it possible for China to achieve their first Grand Finals appearance since 2022! However, the Philippines came back stronger than before after their hard-fought victory against Japan, seeking revenge for their previous loss. This made for one of the most intense and nerve-wracking matches of Grand Finals — let alone the entire tournament!
 
-Unsurprisingly, both teams stuck to their original strategies. While China opted to focus on the rice pool by protecting [DJ Raisei - T.R.A.P.](https://osu.ppy.sh/beatmapsets/2325366#mania/4984357) (EX1) and banning [Ludicin - Signal](https://osu.ppy.sh/beatmapsets/2325160#mania/4983871) (HB2), the Philippines protected [Aoi - excez](https://osu.ppy.sh/beatmapsets/2325127#mania/4983820) (LN1) and banned [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2325114#mania/4983791) (RC4). China's strategy proved to be the successful one, winning them their first pick on the protect map by a landslide 73,986-point lead.
+Unsurprisingly, both teams stuck to their original strategies. While China opted to focus on the rice pool by protecting [DJ Raisei - T.R.A.P.](https://osu.ppy.sh/beatmapsets/2325366#mania/4984357) (EX1) and banning [Ludicin - Signal](https://osu.ppy.sh/beatmapsets/2325160#mania/4983871) (HB2), the Philippines protected [Aoi - excez](https://osu.ppy.sh/beatmapsets/2325127#mania/4983820) (LN1) and banned [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2325114#mania/4983791) (RC4). China's strategy proved to be the successful one, winning them their first pick on the protected map by a landslide 73,986-point lead.
 
 The Philippines quickly responded by picking [Raimukun - Nyarlathotep's Dreamland](https://osu.ppy.sh/beatmapsets/2325126#mania/4983819) (LN2). China adjusted by switching players to ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178) and ::{ flag=CN }:: [VanWilder](https://osu.ppy.sh/users/89545) to counter the long note–heavy chart. The Philippines held their ground, however, scoring a comfortable first win thanks to ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s as the MVP of the match and their impressive 978,133 score.
 
-This initial back-and-forth was an omen of what was to come, with each team dominating their respective picks. During this skirmish, there were some notable moments such as the Philippines choice of [rejection - Aimai Attitude (feat. Nakamura Sanso)](https://osu.ppy.sh/beatmapsets/2325129#mania/4983823) (LN3) and [Aoi - excez](https://osu.ppy.sh/beatmapsets/2325127#mania/4983820) (LN1) which were promptly won by them, or the Chinese rice counter-attack with [Junk - Aihana](https://osu.ppy.sh/beatmapsets/2325135#mania/4983834) (RC3), allowing ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) to excel with a full combo 983,858 score.
+This initial back-and-forth was an omen of what was to come, with each team dominating their respective picks. During this skirmish, there were some notable moments such as the Philippines' choice of [rejection - Aimai Attitude (feat. Nakamura Sanso)](https://osu.ppy.sh/beatmapsets/2325129#mania/4983823) (LN3) and [Aoi - excez](https://osu.ppy.sh/beatmapsets/2325127#mania/4983820) (LN1) which were promptly won by them, or the Chinese rice counter-attack with [Junk - Aihana](https://osu.ppy.sh/beatmapsets/2325135#mania/4983834) (RC3), allowing ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) to excel with a full combo 983,858 score.
 
-Both teams traded blows up until the scoreboard hit the 5–5 mark. A critical point for the both teams! China stayed true to their strategy and picked [Super Psychic Fujy - Dark Avatara Beam (Le Dos-on Remix)](https://osu.ppy.sh/beatmapsets/2325303#mania/4984227) (RC2). Much to everyone's surprise, this resulted in a much narrower score gap than anticipated. With ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s flawless performance of 987,636 points, the Philippines got incredibly close to winning! Much to their dismay however, China won the pick by a relatively slim margin of 8,704 points, squeezing the very last points they could on the map's ending.
+Both teams traded blows up until the scoreboard hit the 5–5 mark. A critical point for both teams! China stayed true to their strategy and picked [Super Psychic Fujy - Dark Avatara Beam (Le Dos-on Remix)](https://osu.ppy.sh/beatmapsets/2325303#mania/4984227) (RC2). Much to everyone's surprise, this resulted in a much narrower score gap than anticipated. With ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s flawless performance of 987,636 points, the Philippines got incredibly close to winning! Much to their dismay however, China won the pick by a relatively slim margin of 8,704 points, squeezing the very last points they could on the map's ending.
 
 With the scoreboard at 6–5 in China's favour, the Philippines had to make a tough choice: [MisomyL - Coming*True!!](https://osu.ppy.sh/beatmapsets/2325139#mania/4983838) (HB1) or [Genesis - Absolute Evil](https://osu.ppy.sh/beatmapsets/2325148#mania/4983851) (EX3). They ultimately chose the former, a reasonable choice due to its easier patterns and lower physical demands which benefited their team. The Philippines started strong, taking an early lead, but with ::{ flag=PH }:: [sanni666](https://osu.ppy.sh/users/3036686) and ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s unfortunate misses, China was allowed to regain their footing. Despite a flurry of misses coming from both sides in the final stretch of the map, the Philippines' mistakes proved very costly, and China claimed the last victory they needed with a 2,786-point lead, denying the Philippines' final chance to come back and thus, their win.
 
@@ -127,7 +127,7 @@ It is very easy to underestimate the effort being put into the commissioning pro
 
 For those interested in the maps that accompanied these amazing tracks, please check the [mappool recap](#mappool-recap) section of previous recaps.
 
-### Quartefinals
+### Quarterfinals
 
 [![](/wiki/shared/news/2025-02-07-osumania-7k-world-cup-2025-quarterfinals-recap/Evolutionary_Anima_banner.jpg)](https://osu.ppy.sh/beatmapsets/2314344#mania/4952725)
 
@@ -276,13 +276,13 @@ It's hard to ignore all the changes that have taken place this year. How does th
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7304158">Crusher</a></p>
 
-In my opinion, the tournament has definitely improved from previous years thanks to the addition of Round of 32 and the EX category. These changes made the tournament more competitive and interesting. In fact, these were quite attractive and necessary to players. As the length of the tournament is longer than last year's, there were more things to see. The production value of the tournament has increased, and the addition of Round of 32 gave more players a chance to play in MWC compared to before. Ultimately, I believe this was the key to make MWC 7K as big as it was this year. The pools need to adapt to the players' rapid increase of skill, which is why I think the addition of EX bracket was a good choice! I believe trying out new things will always be something positive for the tournament.
+In my opinion, the tournament has definitely improved from previous years thanks to the addition of Round of 32 and the EX category. These changes made the tournament more competitive and interesting. In fact, these were quite attractive and necessary to players. As the length of the tournament is longer than last year's, there were more things to see. The production value of the tournament has increased, and the addition of Round of 32 gave more players a chance to play in MWC compared to before. Ultimately, I believe this was the key to make MWC 7K as big as it was this year. The pools need to adapt to the players' rapid increase of skill, which is why I think the addition of the EX bracket was a good choice! I believe trying out new things will always be something positive for the tournament.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/758406" style="background-image: url('/wiki/shared/avatars/dressurf.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/758406">dressurf</a></p>
 
-I believe extending the bracket to the Rround of 32 provided a fresh and exciting atmosphere for the event. If more people participate in the MWC in the future, it seems fine keeping up the Round of 32 next year too. It would be a net positive to improve the tournament's atmosphere. My only nitpick was that the EX mappool didn't really feel as hard as the name may've suggested. Other than that, I'm really thankful for the team's efforts this year by providing such great mappools! I had a great time playing them all.
+I believe extending the bracket to the Round of 32 provided a fresh and exciting atmosphere for the event. If more people participate in the MWC in the future, it seems fine keeping up the Round of 32 next year too. It would be a net positive to improve the tournament's atmosphere. My only nitpick was that the EX mappool didn't really feel as hard as the name may've suggested. Other than that, I'm really thankful for the team's efforts this year by providing such great mappools! I had a great time playing them all.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10790649" style="background-image: url('/wiki/shared/avatars/Kalkai.jpg')"></a>
 
@@ -450,7 +450,7 @@ Hopefully the interviews we had throughout the last couple of months gave everyo
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/mwc7k2025-credits.png)
 
-We want to extend our heartfelt thanks to everyone involved in making this possible, and as much as it pains us to say it, we'll have to tune out untill next year! Nevertheless, the World Cups will go on. The osu!taiko World Cup 2025 is right around the corner, so make sure to keep an eye out for it!
+We want to extend our heartfelt thanks to everyone involved in making this possible, and as much as it pains us to say it, we'll have to tune out until next year! Nevertheless, the World Cups will go on. The osu!taiko World Cup 2025 is right around the corner, so make sure to keep an eye out for it!
 
 But in case we don't see you... Good morning, good afternoon, good evening, and good night! Or something like that.
 
