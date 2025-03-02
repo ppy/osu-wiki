@@ -104,15 +104,6 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kitazawakyouhei/true-queen-feat-miku-hatsune "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=s4FcjckW0NE "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0eDux052E5fRn9dp404gYk "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kitazawakyouhei.bandcamp.com/track/true-queen "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Kitazawa%20Kyouhei&query=%22TRUE-QUEEN%22 "osu! original") | Kitazawa Kyouhei - TRUE-QUEEN |
 
-#### [Midian](https://osu.ppy.sh/beatmaps/artists/443)
-
-*For the announcement news post, see: [New Featured Artist: Midian](https://osu.ppy.sh/home/news/2024-11-02-new-featured-artist-midian)*
-
-| Links |  | Song |
-| --: | :-: | :-- |
-|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Midian&query=%22Astra%22 "osu! original") | Midian - Astra |
-|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Midian&query=%22Midian%27s%20Lament%22 "osu! original") | Midian - Midian's Lament |
-
 #### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
 
 *For the announcement news post, see: [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)*
