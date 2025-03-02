@@ -103,7 +103,11 @@ Match highlights.
 
 ## Score highlights
 
-Both weekly + tournament-wide highlights.
+Some of the scores we saw throughout the Grand Finals weekend put the cherry on the top of what has already been a very special MWC 7K cake. It's really hard to pick individual scores from such performant players, however. In light of this, we've decided to highlight one player from each team to spotlight their best performing scores!
+
+- Of the many charts::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405) has played last weekend, including the show match, their performance on [rejection - Aimai Attitude (feat. Nakamura Sanso)](https://osu.ppy.sh/beatmapsets/2325129#mania/4983823) LN3 (980k) and [MisomyL - Coming*True!!](https://osu.ppy.sh/beatmapsets/2325139#mania/4983838) (HB1) (972k) were mesmerizing.
+- With our jaws wide open from before, we now have space to put in [tyrcs](https://osu.ppy.sh/users/13026904)'s sublime runs on [Himeringo - Kodoku no Kakurenbo (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2325113#mania/4983786) (RC1) (974k) and [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39](https://osu.ppy.sh/beatmapsets/2325120#mania/4983811) (RC6) (968k) in our mouths.
+- Rounding out our carbohydrate-rich osu!mania 7K diet, [yz1155](https://osu.ppy.sh/users/2071008) barged in with plenty more spoonfuls of rice with their impressive scores on [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2325114#mania/4983791) (RC4) (966k) and [DJ Raisei - T.R.A.P.](https://osu.ppy.sh/beatmapsets/2325366#mania/4984357) (EX1) (954k).
 
 ## osu! originals
 
