@@ -300,7 +300,7 @@ I want to praise whoever suggested adding the Round of 32. For me, World Cups ar
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/Ludicin.png)
 
-More than likely, [Ludicin](https://osu.ppy.sh/users/8659666) needs little to no introduction! This is, in fact, not their first rodeo in the game as they've previously composed [Echoes of Memoria](https://osu.ppy.sh/beatmapsets/2214238#mania/4691422) for [The Perennial 2024](https://osu.ppy.sh/community/forums/topics/1924994?n=1), as well as the [myriad of ranked sets](https://osu.ppy.sh/beatmapsets?q=artist%3D%22%22Ludicin%22%22) they were featured in!
+More than likely, [Ludicin](https://osu.ppy.sh/users/8659666) needs little to no introduction! This is, in fact, not their first rodeo in the game as they've previously composed [Echoes of Memoria](https://osu.ppy.sh/beatmapsets/2214238#mania/4691422) for [The Perennial 2024](https://osu.ppy.sh/community/forums/topics/1924994?n=1), as well as the [myriad of Ranked sets](https://osu.ppy.sh/beatmapsets?q=artist%3D%22%22Ludicin%22%22) they were featured in!
 
 ---
 
@@ -362,7 +362,7 @@ This was definitely a fun experience! I would definitely like to be a part of mo
 
 ![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/TheFunk-and-CrewK.png)
 
-To many people's surprise, this year's design team had two well-known osu!mania users on board! While some users may already know about [TheFunk](https://osu.ppy.sh/users/13981991) and [CrewK](https://osu.ppy.sh/users/11488604)'s side hustles having seen their work throughout the years, fewer people know on their involvement in the official World Cup Design Team. With that said, let us give them the opportunity to talk about their creative thought process throughout the tournament! 
+To many people's surprise, this year's design team had two well-known osu!mania users on board! While some users may already know about [TheFunk](https://osu.ppy.sh/users/13981991) and [CrewK](https://osu.ppy.sh/users/11488604)'s side hustles having seen their work throughout the years, fewer people know about their involvement in the World Cup design team. With that said, we'd like to hear about their creative thought process for this tournament.
 
 ---
 
@@ -372,7 +372,7 @@ To many people's surprise, this year's design team had two well-known osu!mania 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
-Both of you are well-known in the mania 4K tournament scene. Can you each briefly introduce yourselves and share what sparked your interest in applying to join the World Cup Design Team as visual effects designers?
+Both of you are well-known in the mania 4K tournament scene. Can you each briefly introduce yourselves and share what sparked your interest in applying to join the World Cup design team as visual effect designers?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13981991" style="background-image: url('/wiki/shared/avatars/TheFunk.jpg')"></a>
 
