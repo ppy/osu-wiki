@@ -408,7 +408,7 @@ Some of the lore concepts included showing the players' or spectators' perspecti
 
 The song's opening was different from previous tiebreakers, taking a more cinematic approach. CrewK and I tried our best to make it look like a movie with the ruined buildings and scenic looks during our process with a lot of references from KM's artwork. With the collaboration of Sakura006, we were also able to implement character animations, making the scenes feel more immersive and realistic.
 
-After seeing the Grand Finals tiebreaker being showcased, I'm very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn't have achieved this without KM's fantastic illustrations, Zeth's graphic design, and RiceSS and binarie's storyboard work which covered the remaining sections of the song!
+After seeing the Grand Finals tiebreaker being showcased, I'm very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn't have achieved this without [KM](https://twitter.com/KM2650223087343)'s fantastic illustrations, [Zeth](https://osu.ppy.sh/users/9912966)'s graphic design, and [RiceSS](https://osu.ppy.sh/users/8271436) and [binarie](https://osu.ppy.sh/users/15632854)'s storyboard work which covered the remaining sections of the song!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/CrewK.jpg')"></a>
 
@@ -448,7 +448,7 @@ This applies not only to brainstorming as I mentioned earlier, but also to the a
 
 Hopefully the interviews we had throughout the last couple of months gave everyone a glimpse into the tournament's inner workings. None of this would've been possible without the [team](/wiki/Tournaments/MWC/2025_7K#organisation) that arranged the tournament, the [players](/wiki/Tournaments/MWC/2025_7K#participants) who gave their all, and you — the community who supported both throughout the tournament!
 
-![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/mwc7k2025-credits.png)
+![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/mwc7k2025-credits.png?1)
 
 We want to extend our heartfelt thanks to everyone involved in making this possible, and as much as it pains us to say it, we'll have to tune out until next year! Nevertheless, the World Cups will go on. The osu!taiko World Cup 2025 is right around the corner, so make sure to keep an eye out for it!
 
