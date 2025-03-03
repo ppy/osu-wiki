@@ -165,6 +165,7 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
+- ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317)
 
 ### Contest Committee
 
