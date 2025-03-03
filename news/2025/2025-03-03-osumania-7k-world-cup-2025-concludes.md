@@ -183,7 +183,7 @@ For those interested in the maps that accompanied these amazing tracks, please c
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/Lost_Requiem_banner.jpg)](https://osu.ppy.sh/beatmapsets/2325151)
+[![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/Lost_Requiem_banner.jpg?1)](https://osu.ppy.sh/beatmapsets/2325151)
 
 <div class="osu-md__paragraph">
     <audio controls>
