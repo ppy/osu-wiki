@@ -14,6 +14,8 @@ The team's reach is far and wide. From chats, comments, forums, to various commu
 
 If this sounds like something you want to be a part of, we want you to apply!
 
+### Application criteria
+
 Before your scroll down to the bottom of the news post and press that apply link, we must go through a couple of criteria relating to your soon-to-be submitted application:
 
 - **You must be at least 18 years old. This is [NOT negotiable](https://osu.ppy.sh/legal/Terms#your-responsibilities-in-volunteer-positions).** As part of the Global Moderation Team, you will come in contact with inappropriate content that's not suitable for everyone.
