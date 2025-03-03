@@ -34,7 +34,7 @@ By completing priority quests, you can earn some special rewards too:
 
 ## New priority quests
 
-**6** new quests have just been added to the [priority quest listing](https://mappersguild.com/missions), all of which will be open to mappers until **May 15, 2025**!
+**6** new quests have just been added to the [priority quest listing](https://mappersguild.com/missions), all of which will be open to mappers until **June 21, 2025**!
 
 Below is an overview of each quest. If any are confusing, feel free to ask questions in the comments or directly to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418). Be sure to check the quest pages for additional requirements!
 
