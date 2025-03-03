@@ -1,12 +1,12 @@
 ---
 layout: post
 title: osu!mania 7K World Cup 2025 Concludes
-date: 2025-03-02 23:59:59 +0000
+date: 2025-03-03 01:00:00 +0000
 ---
 
 The curtains close once more, and the tournament's victors have finally been crowned! Join us for the last recap of the osu!mania 7K World Cup 2025.
 
-![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/banner.jpg)
+![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/banner.jpg)
 
 What an amazing year this was! Not only did we get to experience a new take on the 7K World Cup with the plethora of changes that have been made to the format and production value of the series, but we may have got to witness the most exciting tournament to date. From new teams becoming legends overnight, to old rivalries clashing once (or twice) again this year.
 
@@ -36,7 +36,7 @@ For those who'd wish to skip to this week's highlights, we've got you covered [d
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2382915152&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Grand Finals mappool table](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/mappool.jpg)
+![Grand Finals mappool table](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/mappool.jpg)
 
 Grand Finals mappools have always been notorious for their difficulty. And this one is no exception! In fact, the trend from past years shows that it's becoming increasingly more difficult to play with every passing year. This paradigm shift forced teams to play outside their comfort zones, who had to play while pushing their very limits.
 
@@ -183,7 +183,7 @@ For those interested in the maps that accompanied these amazing tracks, please c
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/Lost_Requiem_banner.jpg)](https://osu.ppy.sh/beatmapsets/2325151)
+[![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/Lost_Requiem_banner.jpg)](https://osu.ppy.sh/beatmapsets/2325151)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -224,7 +224,7 @@ For those interested in the maps that accompanied these amazing tracks, please c
     }
 </style>
 
-![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/yz1155.png)
+![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/yz1155.png)
 
 Our first interview of the week was with none other than South Korea's team captain, [yz1155](https://osu.ppy.sh/users/2071008) alongside their teammates! We want to get some insight into the team's thoughts after winning one of MWC 7K's most exciting tournaments to date, both due to its plethora of changes and given how competitive this year seemed to be. And who better knows about the osu!mania World Cup series than a team as experienced as South Korea's?
 
@@ -298,7 +298,7 @@ I want to praise whoever suggested adding the Round of 32. For me, World Cups ar
 
 </div>
 
-![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/Ludicin.png)
+![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/Ludicin.png)
 
 More than likely, [Ludicin](https://osu.ppy.sh/users/8659666) needs little to no introduction! This is, in fact, not their first rodeo in the game as they've previously composed [Echoes of Memoria](https://osu.ppy.sh/beatmapsets/2214238#mania/4691422) for [The Perennial 2024](https://osu.ppy.sh/community/forums/topics/1924994?n=1), as well as the [myriad of Ranked sets](https://osu.ppy.sh/beatmapsets?q=artist%3D%22%22Ludicin%22%22) they were featured in!
 
@@ -360,7 +360,7 @@ This was definitely a fun experience! I would definitely like to be a part of mo
 
 </div>
 
-![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/TheFunk-and-CrewK.png)
+![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/TheFunk-and-CrewK.png)
 
 To many people's surprise, this year's design team had two well-known osu!mania users on board! While some users may already know about [TheFunk](https://osu.ppy.sh/users/13981991) and [CrewK](https://osu.ppy.sh/users/11488604)'s side hustles having seen their work throughout the years, fewer people know about their involvement in the World Cup design team. With that said, we'd like to hear about their creative thought process for this tournament.
 
@@ -448,7 +448,7 @@ This applies not only to brainstorming as I mentioned earlier, but also to the a
 
 Hopefully the interviews we had throughout the last couple of months gave everyone a glimpse into the tournament's inner workings. None of this would've been possible without the [team](/wiki/Tournaments/MWC/2025_7K#organisation) that arranged the tournament, the [players](/wiki/Tournaments/MWC/2025_7K#participants) who gave their all, and you — the community who supported both throughout the tournament!
 
-![](/wiki/shared/news/2025-03-02-osumania-7k-world-cup-2025-concludes/mwc7k2025-credits.png)
+![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/mwc7k2025-credits.png)
 
 We want to extend our heartfelt thanks to everyone involved in making this possible, and as much as it pains us to say it, we'll have to tune out until next year! Nevertheless, the World Cups will go on. The osu!taiko World Cup 2025 is right around the corner, so make sure to keep an eye out for it!
 
