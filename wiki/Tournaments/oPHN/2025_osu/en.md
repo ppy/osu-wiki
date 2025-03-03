@@ -145,7 +145,7 @@ This competition ended with the following podium:
   3. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
   4. [m-flo loves CHEMISTRY - Astrosexy (mtmcl) \[Sexy\]](https://osu.ppy.sh/beatmapsets/13244#osu/49101)
 - Tiebreaker
-  1. [Altermis vs takehirotei - Celestial Divine \~Clash between light and darkness\~ (Liyuu) \[Luminous Sovereignty\]](https://osu.ppy.sh/beatmapsets/2325686#osu/4985208)
+  1. **[Altermis vs takehirotei - Celestial Divine \~Clash between light and darkness\~ (Liyuu) \[Luminous Sovereignty\]](https://osu.ppy.sh/beatmapsets/2325686#osu/4985208)**
 
 ### Finals
 
@@ -174,7 +174,7 @@ This competition ended with the following podium:
   3. [Reol - FLASH BACK (sukiNathan) \[pishi's Extra\]](https://osu.ppy.sh/beatmapsets/409397#osu/907302)
   4. [IV OF SPADES - Mundo (Sisig) \[Aking Sinta\]](https://osu.ppy.sh/beatmapsets/1213183#osu/2525002)
 - Tiebreaker
-    1. [SAMString - NUMA (Fursum) \[Multifarious\]](https://osu.ppy.sh/beatmapsets/1570528#osu/3207042)
+  1. **[SAMString - NUMA (Fursum) \[Multifarious\]](https://osu.ppy.sh/beatmapsets/1570528#osu/3207042)**
 
 ### Semifinals
 
@@ -202,7 +202,7 @@ This competition ended with the following podium:
   3. [\- FamilyMart Jingle \(deepsea\) \\[Family Mart is Your Home\\]](https://osu.ppy.sh/beatmapsets/9400#osu/37658)
   4. [KOTOKO - Wing my Way (CXu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/850548#osu/1778268)
 - Tiebreaker
-  1. [Sad Keyboard Guy & Gardens - Illusory Truth (toybot) \[Reiteration\]](https://osu.ppy.sh/beatmapsets/2219282#osu/4704124)
+  1. **[Sad Keyboard Guy & Gardens - Illusory Truth (toybot) \[Reiteration\]](https://osu.ppy.sh/beatmapsets/2219282#osu/4704124)**
 
 ### Quarterfinals
 
@@ -230,7 +230,7 @@ This competition ended with the following podium:
   3. [The Wingless - All the World in One Girl (buraimaster1234) \[Special\]](https://osu.ppy.sh/beatmapsets/2128#osu/19558)
   4. [Engineers - Clean Coloured Wire (Mismagius) \[Flow\]](https://osu.ppy.sh/beatmapsets/1733370#osu/3542945)
 - Tiebreaker
-  1. [Pratanallis feat. KOKOMI - Crocus (Melize) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1878262#osu/3866299)
+  1. **[Pratanallis feat. KOKOMI - Crocus (Melize) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1878262#osu/3866299)**
 
 ### Round of 16
 
@@ -255,7 +255,7 @@ This competition ended with the following podium:
   2. [TJ Davis - Can You Feel the Sunshine? (Kowari) \[Fast\]](https://osu.ppy.sh/beatmapsets/1893876#osu/3902731)
   3. [Yamamoto Mineko - Presea (Shurelia) \[Elmerulia Fryxell\]](https://osu.ppy.sh/beatmapsets/2082024#osu/4360325)
 - Tiebreaker
-  1. [Parannoul - Gold River (xAsuna) \[eobseojin\]](https://osu.ppy.sh/beatmapsets/2185364#osu/4654501)
+  1. **[Parannoul - Gold River (xAsuna) \[eobseojin\]](https://osu.ppy.sh/beatmapsets/2185364#osu/4654501)**
 
 ### Round of 32
 
@@ -280,7 +280,7 @@ This competition ended with the following podium:
   2. [FELT - Midnight Boogie (\[Mad\]) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1153893#osu/2422377)
   3. [Paramore - Looking Up (Lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/17563#osu/66662)
 - Tiebreaker
-  1. [Demetori - Koyoi wa Hyouitsu na Egoist \~ Ego, Schizoid, Beat. (Crissa) \[Yorigami\]](https://osu.ppy.sh/beatmapsets/829940#osu/1745634)
+  1. **[Demetori - Koyoi wa Hyouitsu na Egoist \~ Ego, Schizoid, Beat. (Crissa) \[Yorigami\]](https://osu.ppy.sh/beatmapsets/829940#osu/1745634)**
 
 ### Qualifiers
 
