@@ -38,8 +38,9 @@ Anyway, let's not wait any longer. You'll find your repertoire of played maps to
 - [osu!catch voting](https://osu.ppy.sh/community/contests/233)
 - [osu!mania 4K voting](https://osu.ppy.sh/community/contests/234)
 - [osu!mania 7K voting](https://osu.ppy.sh/community/contests/235)
+- [osu!mania other voting](https://osu.ppy.sh/community/contests/237)
 
-Unlike previous times, the votings for osu!mania are split between the 4K and 7K key modes due to popular demand.
+Unlike previous times, the voting for osu!mania is split out to 4K, 7K and other key modes due to popular demand.
 
 Again, you have **14 days** from now to decide, so don't get stuck between maps for too long.
 

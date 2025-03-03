@@ -21,7 +21,6 @@ Feel free to use these links to skip to a specific artist's new tracks:
 - [**BilliumMoto**](#billiummoto)
 - [**II-L**](#ii-l)
 - [**KOAN Sound**](#koan-sound)
-- [**Midian**](#midian)
 - [**nekodex**](#nekodex)
 - [**RINYA**](#rinya)
 - [**seatrus**](#seatrus)
@@ -127,36 +126,6 @@ Play through [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1667473) hos
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/49/Songs/KOAN_Sound_-_Chronos.mp3" type="audio/mpeg">
-</audio>
-
-## [Midian](https://osu.ppy.sh/beatmaps/artists/443)
-
-[![](https://assets.ppy.sh/artists/443/header.jpg)](https://osu.ppy.sh/beatmaps/artists/443)
-
-While he's only a recent addition to our Featured Artists, multi-genre mastermind [**Midian**](https://osu.ppy.sh/beatmaps/artists/443) is already back with **11** new tunes.
-
-- **Midian - Black Nova**
-- **Midian - Coagulate**
-- **Midian - Cornershot**
-- **Midian - Drifting Sideways**
-- **Midian - Malformation**
-- **Midian - Midian's Lament**
-- **Midian - Pixel Odyssey**
-- **Midian - Polaris**
-- **Midian - Space Exodium**
-- **Midian - The Year of MIDIAN**
-- **Midian - This Is OMMT4**
-
-### Midian - Coagulate
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/443/Songs/Midian_-_Coagulate.mp3" type="audio/mpeg">
-</audio>
-
-### Midian - Drifting Sideways
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/443/Songs/Midian_-_Drifting_Sideways.mp3" type="audio/mpeg">
 </audio>
 
 ## [nekodex](https://osu.ppy.sh/beatmaps/artists/1)
