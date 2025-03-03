@@ -448,7 +448,7 @@ This applies not only to brainstorming as I mentioned earlier, but also to the a
 
 Hopefully the interviews we had throughout the last couple of months gave everyone a glimpse into the tournament's inner workings. None of this would've been possible without the [team](/wiki/Tournaments/MWC/2025_7K#organisation) that arranged the tournament, the [players](/wiki/Tournaments/MWC/2025_7K#participants) who gave their all, and you — the community who supported both throughout the tournament!
 
-![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/mwc7k2025-credits.png)
+![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/mwc7k2025-credits.png?1)
 
 We want to extend our heartfelt thanks to everyone involved in making this possible, and as much as it pains us to say it, we'll have to tune out until next year! Nevertheless, the World Cups will go on. The osu!taiko World Cup 2025 is right around the corner, so make sure to keep an eye out for it!
 
