@@ -408,7 +408,7 @@ Some of the lore concepts included showing the players' or spectators' perspecti
 
 The song's opening was different from previous tiebreakers, taking a more cinematic approach. CrewK and I tried our best to make it look like a movie with the ruined buildings and scenic looks during our process with a lot of references from KM's artwork. With the collaboration of Sakura006, we were also able to implement character animations, making the scenes feel more immersive and realistic.
 
-After seeing the Grand Finals tiebreaker being showcased, I'm very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn't have achieved this without KM's fantastic illustrations, Zeth's graphic design, and RiceSS and binarie's storyboard work which covered the remaining sections of the song!
+After seeing the Grand Finals tiebreaker being showcased, I'm very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn't have achieved this without [KM](https://twitter.com/KM2650223087343)'s fantastic illustrations, [Zeth](https://osu.ppy.sh/users/9912966)'s graphic design, and [RiceSS](https://osu.ppy.sh/users/8271436) and [binarie](https://osu.ppy.sh/users/15632854)'s storyboard work which covered the remaining sections of the song!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/CrewK.jpg')"></a>
 
