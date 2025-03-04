@@ -2,6 +2,8 @@
 tags:
   - FA
 no_native_review: true
+outdated_translation: true
+outdated_since: e953687ef4c8b100ef19fe21eb3ce288f88bf98e
 ---
 
 # Playlists des Featured Artist
