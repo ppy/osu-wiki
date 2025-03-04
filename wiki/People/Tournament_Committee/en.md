@@ -158,6 +158,7 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
 - ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
+- ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
