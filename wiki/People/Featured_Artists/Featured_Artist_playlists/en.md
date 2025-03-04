@@ -269,7 +269,13 @@ For full playlist details, see the [multiplayer room listing](https://osu.ppy.sh
 
 - 6 beatmaps from September and October 2023's Featured Artist releases created by the [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - All game modes
-- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard).
+- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard)
+
+### December 2024
+
+- Top 5 beatmaps from [December 2024's Monthly Beatmapping Contest](https://osu.ppy.sh/home/news/2025-02-17-monthly-beatmapping-contest-february-2025)
+- Only applicable to osu! and osu!mania game modes
+- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard)
 
 ## Notes
 
