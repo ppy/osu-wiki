@@ -44,7 +44,7 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 | ::{ flag=CA }:: **[Vararaup](https://osu.ppy.sh/users/8257675)** | **10** |
 | ::{ flag=BY }:: **[TemaZpro](https://osu.ppy.sh/users/5510197)** | **10** |
 | ::{ flag=KR }:: **[yadon](https://osu.ppy.sh/users/6922333)** | **10** |
-| ::{ flag=RU }:: **[desuqe](https://osu.ppy.sh/users/9712285)** | **10** |\
+| ::{ flag=RU }:: **[desuqe](https://osu.ppy.sh/users/9712285)** | **10** |
 | ::{ flag=US }:: **[Emerald Ages](https://osu.ppy.sh/users/10224047)** | **10** |
 | ::{ flag=FI }:: [Wolfey-](https://osu.ppy.sh/users/10504284) | 9 |
 | ::{ flag=US }:: [yencis](https://osu.ppy.sh/users/10852203) | 6 |
