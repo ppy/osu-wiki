@@ -328,7 +328,6 @@ Saturday, 1 March 2025:
 | Odysseus | 1 | **5** | **the malaysians + 1 indo** | [#1](https://osu.ppy.sh/community/matches/117343263) | [#1](https://www.youtube.com/watch?v=Y93mmQI4Q8s&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV18p9jY6E1S) |
 | Mystia's Izakaya Patrons | 0 | **5** | **shreimu (reimu shrimp)** | [#1](https://osu.ppy.sh/community/matches/117349261) | [#1](https://www.youtube.com/watch?v=141P4FsYkHw&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV12D9LYaEvC) |
 
-
 Sunday, 2 March 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
@@ -344,7 +343,6 @@ Sunday, 2 March 2025:
 | Retirados y Peligrosos | 4 | **5** | **Chodan** | [#1](https://osu.ppy.sh/community/matches/117356986) | [#1](https://www.youtube.com/watch?v=WkhCVGxVRYo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1sz9EYqEib) |
 | **Eerie Idiots in Space** | **5** | 0 | The Chen Enjoyers | [#1](https://osu.ppy.sh/community/matches/117359667) | [#1](https://www.youtube.com/watch?v=D342RM0uhZE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1Tm9LYvEan) |
 | **Mr Beajek's winter ARC** | **5** | 4 | spongebob water | [#1](https://osu.ppy.sh/community/matches/117360657) | [#1](https://www.youtube.com/watch?v=KGfuVgsItN4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV16A9jYWEKM) |
-
 
 ### Round of 32
 
