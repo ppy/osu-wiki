@@ -502,7 +502,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 
 - The multiplayer room will be created and invites sent to players 5–10 minutes prior to the match start time. The multiplayer rooms are named in the following format: `PHNS: ({Player 1}) vs. ({Player 2})`
 - If a player is more than 10 minutes late to their match, the player inside the multiplayer room will be declared the winner. If neither player appears, the player with the higher seed will be considered the winner.
-- In the early rounds, Picking and Banning from the same mod category is not allowed. From the Quarterfinals and onwards, Banning from the same mod category is not allowed but Picking from the same mod category is allowed. (only applies to HD, HR and DT)
+- In the early rounds, **picking** and **banning** from the same mod category is not allowed. From the Quarterfinals and onwards, **banning** from the same mod category is not allowed but **picking** from the same mod category is allowed. (This only applies to HD, HR, and DT)
 - Players are required to protect 1 map and ban 1 map in the pool, excluding the tiebreaker. Starting from Quarterfinals and onwards, players are required to ban 2 maps. Protected maps cannot be banned, and banned maps cannot be picked. The players shall use the `!roll` command in-game to determine the order in which maps are protected, banned, and picked. The order is as follows:
   - Player with the higher roll: first protect, first pick
   - Player with the lower roll: first ban
