@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: a8bd2ac78f3cf5949aa60b4d2d8d8637b22fd994
 tags:
   - tip
   - tips
@@ -124,6 +122,7 @@ Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)
 - ¡Mientras miras una repetición, presiona `Ctrl` + `H` para alternar la configuración de la repetición!
 - ¡Puedes copiar fácilmente los mods de las puntuaciones en una tabla de clasificación haciendo clic derecho sobre ellas!
 - ¡Si presionas `Ctrl` + `Entrar` al seleccionar una canción, se iniciará el beatmap en modo autoplay!
+- «Lazer» no es una palabra en inglés. La forma correcta de escribir la luz brillante es «láser».
 
 ## Véase también
 
