@@ -12,20 +12,20 @@ tags:
 
 **Gulano Cup #5** merupakan turnamen osu!mania 4K perseorangan khusus wilayah Indonesia yang diselenggarakan oleh ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) dan ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). Turnamen ini menggunakan sistem pertandingan satu lawan satu dengan format eliminasi ganda (*double elimination*). Turnamen ini memiliki gimik berupa map **wildcard** yang dikirimkan oleh para pemain dan dapat digunakan dalam pertandingan dengan memilih secara acak dari daftar map wildcard. Hanya pemain non-MWC yang dapat mengikuti turnamen ini. Turnamen ini merupakan iterasi kelima dari seri Gulano Cup.
 
-## Jadwal Turnamen
+## Jadwal turnamen
 
-| Rangkaian Acara | Waktu Pelaksanaan |
+| Rangkaian acara | Waktu pelaksanaan |
 | --: | :-- |
 | Tahap Registrasi | 2024-09-24/2024-12-28 |
 | Showcase Qualifier | 2024-12-28 (20:00 WIB) |
 | Tahap Qualifier | 2025-01-01/2025-01-06 |
-| Round of 64 | 2025-01-08/2025-01-13 |
-| Round of 32 | 2025-01-15/2025-01-20 |
-| Round of 16 | 2025-01-22/2025-01-27 |
-| Quarterfinals | 2025-01-26/2025-02-03 |
-| Semifinals | 2025-02-05/2025-02-10 |
-| Finals | 2025-02-12/2025-02-17 |
-| Grand Finals | 2025-02-19/2025-02-24 |
+| Babak 64 Besar | 2025-01-08/2025-01-13 |
+| Babak 32 Besar | 2025-01-15/2025-01-20 |
+| Babak 16 Besar | 2025-01-22/2025-01-27 |
+| Perempat Final | 2025-01-26/2025-02-03 |
+| Semifinal | 2025-02-05/2025-02-10 |
+| Final | 2025-02-12/2025-02-17 |
+| Grand Final | 2025-02-19/2025-02-24 |
 
 ## Hadiah
 
@@ -45,20 +45,20 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 | :-- | :-- |
 | Penyelenggara | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
 | Pengurus | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [AsanagiYori](https://osu.ppy.sh/users/17223636), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Pemilih Map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Pembuat Map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[-SVzzZ-]](https://osu.ppy.sh/users/26574578), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Sarahkuai](https://osu.ppy.sh/users/5246861), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Who_is_Marpang](https://osu.ppy.sh/users/24787752) |
-| Penguji Map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [[ReyZ]](https://osu.ppy.sh/users/16768803), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
+| Pemilih map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
+| Pembuat map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[-SVzzZ-]](https://osu.ppy.sh/users/26574578), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Sarahkuai](https://osu.ppy.sh/users/5246861), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Who_is_Marpang](https://osu.ppy.sh/users/24787752) |
+| Penguji map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [[ReyZ]](https://osu.ppy.sh/users/16768803), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
 | Penyiar | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Hookseye](https://osu.ppy.sh/users/19030920), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) |
 | Wasit | ::{ flag=ID }:: [[ Friz ]](https://osu.ppy.sh/users/9382787), ::{ flag=ID }:: [[ Raiid ]](https://osu.ppy.sh/users/20037405), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [exvius](https://osu.ppy.sh/users/15822192), ::{ flag=ID }:: [FerryAnanda](https://osu.ppy.sh/users/20788796), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [My Angel Satori](https://osu.ppy.sh/users/15522414), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
 | Komentator | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
 | Desainer | ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [AuristelaVlyn](https://osu.ppy.sh/users/26772932), ::{ flag=ID }:: chaji[^komisi] ([Instagram](https://www.instagram.com/chaji_8736/)), ::{ flag=ID }:: EnZore[^komisi] ([Facebook](https://www.facebook.com/enjor.s/)), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [vexule-](https://osu.ppy.sh/users/18215071) |
 | Programmer | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272) |
 | Komposer | ::{ flag=ID }:: Altair Aquila[^komisi] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^komisi] ([YouTube](www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^komisi] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^komisi] ([SoundCloud](https://soundcloud.com/typemars)) |
-| Sheeter | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
+| Pengelola spreadsheet | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
 | Editor Wiki | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Sponsor | [FTG]Kagamine, AsanagiYori, danar, Halsy, hira_osu, Ilham, lolohpela, MightyTech, Molten Cheese, typeMARS, Yuvya Anastasya |
 
-## Daftar Tautan Terkait
+## Daftar tautan
 
 - [Topik diskusi](https://www.gulanova.top/tournaments/gulanocup-lima/forum)
 - [Mastersheet](https://www.gulanova.top/tournaments/gulanocup-lima/sheet)
@@ -67,7 +67,7 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 - [Server Discord Gulanova](https://www.gulanova.top/discord)
 - [Bagan Challonge](https://www.gulanova.top/tournaments/gulanocup-lima/bracket)
 
-## Daftar Peserta
+## Daftar peserta
 
 | Peringkat | Pemain |
 | --: | :-- |
@@ -162,7 +162,7 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 
 ## Podium
 
-Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
+Turnamen ini telah berakhir dengan podium sebagai berikut:
 
 ![Gulano Cup #5 banner](img/podium.png)
 
@@ -174,7 +174,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 | Finalis | ::{ flag=ID }:: [[LS] akarii](https://osu.ppy.sh/users/20040064), ::{ flag=ID }:: [DAENGXicisae-](https://osu.ppy.sh/users/8029883), ::{ flag=ID }:: [SnakesYxle](https://osu.ppy.sh/users/22842079) |
 
 
-## Mappools
+## Mappool
 
 ### Grand Finals
 **[Unduh mappack babak ini di sini! (91 MB)](https://drive.google.com/file/d/1jx6MHwSo7L2JDdpSgf8zTy3cGt0NLoKc/view)**  
@@ -632,7 +632,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 ### Grand Finals
 
 Jumat, 21 Februari 2025:
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **[LS]Robi** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: MightyTech | [#1](https://osu.ppy.sh/mp/117252175) | [#1](https://www.youtube.com/watch?v=ZgQZg3LAg-4) |
 
@@ -905,8 +905,8 @@ Senin, 13 Januari 2025:
 
 ## Qualifiers
 
-- Hasil Qualifiers yang lebih detail dapat di akses melalui [Mastersheet](https://www.gulanova.top/tournaments/gulanocup-lima/sheet)
-- Penghitungan rerata peringkat mengacu pada `Σ(Peringkat Stage * Bobot Stage)` Dengan detail bobot tiap stage sebagai berikut:
+- Hasil Qualifiers yang lebih terperinci dapat dilihat pada [Mastersheet](https://www.gulanova.top/tournaments/gulanocup-lima/sheet)
+- Penghitungan rerata peringkat mengacu pada rumus `Σ(Peringkat Stage * Bobot Stage)`, dengan rincian bobot masing-masing stage sebagai berikut:
 
 | | **Stage 1 (SV)** | **Stage 2 (RC1)** | **Stage 3 (RC2)** | **Stage 4 (LN1)** | **Stage 5 (LN2)** | **Stage 6 (HB)** |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -1002,59 +1002,59 @@ Senin, 13 Januari 2025:
 Serangkaian aturan ini diberlakukan dan digunakan untuk kelancaran Gulano Cup #5 agar tidak terjadi perselisihan apabila terdapat suatu permasalahan. Dengan keterlibatannya, keseluruhan orang yang terlibat dalam Gulano Cup #5, termasuk staff maupun pemain, dianggap mengetahui dan memahami seluruh peraturan ini. Aturan ini ditegakkan secara adil berprinsip logika dan akal sehat oleh keseluruhan staff Gulanova. (Wasit = Referee | Pemain = Player)
 
 ### Prosedur Qualifier
-- Wasit akan mengingatkan pemain sekitar 15 menit lewat discord sebelum lobi yang dijadwalkan dimulai.
+- Wasit akan mengingatkan pemain sekitar 15 menit lewat Discord sebelum lobi yang dijadwalkan dimulai.
 - Lobi akan dimulai ketika semua pemain sudah masuk, atau sudah lewat 10 menit dari waktu yang dijadwalkan.
-- Pemain akan memainkan pool stage 1-6 secara urut. Setelah semua stage sudah dimainkan, player diberi waktu istirahat 2 menit sebelum memainkan stage 1-6 lagi (kesempatan kedua). Dan kesempatan kedua ini sifatnya Opsional namun dianjurkan.
-- Skor terbaik dari tiap stage akan diambil sebagai skor qualifier.
+- Pemain akan memainkan pool stage 1-6 secara urut. Setelah semua stage sudah dimainkan, player diberi waktu istirahat 2 menit sebelum memainkan stage 1-6 lagi (kesempatan kedua). Kesempatan kedua ini bersifat opsional, namun dianjurkan.
+- Skor terbaik dari tiap stage akan diambil sebagai skor Qualifier.
 
 
-### Prosedur Match
-- Wasit akan mengingatkan kedua pemain sekitar 15 menit lewat discord sebelum match dimulai.
-- Pemain berhak untuk bermain satu warm up di lobi (tiap pemain).
-- Setelah warm up berlangsung, kedua pemain akan melakukan !roll. roll tertinggi berhak memilih untuk melakukan ban atau pick pertama dengan format ABBA. contoh: Jika pemain A memilih pick pertama, maka pemain B akan melakukan ban, kemudian diikuti pemain A. lalu pemain A dapat memilih pick. Pemenang roll dipastikan mendapatkan protect pertama.
+### Prosedur pertandingan
+- Wasit akan mengingatkan kedua pemain sekitar 15 menit lewat Discord sebelum match dimulai.
+- Pemain berhak untuk memainkan satu map pemanasan di lobi (tiap pemain).
+- Setelah map pemanasan dimainkan, kedua pemain akan melakukan !roll. roll tertinggi berhak memilih untuk melakukan ban atau pick pertama dengan format ABBA. contoh: Jika pemain A memilih pick pertama, maka pemain B akan melakukan ban, kemudian diikuti pemain A. lalu pemain A dapat memilih pick. Pemenang roll dipastikan mendapatkan protect pertama.
 - Pemain akan bergantian memilih map hingga pemenang ditentukan. Jika kedua pemain hanya membutuhkan 1 poin lagi untuk memenangkan pertandingan, maka map Tiebreaker akan dimainkan.
 
 
-### Aturan Umum
-- Secara garis besar semua hadirin mengikuti aturan osu! community rules yang sudah mencakup sportifitas, tidak melakukan kecurangan, dan tata krama secara umum.
+### Aturan umum
+- Secara garis besar, seluruh hadirin harus tunduk terhadap [peraturan komunitas osu!](/wiki/Rules) yang mencakup sportivitas, tidak melakukan kecurangan, dan tata krama secara umum.
 - Dilarang membawa topik sensitif eksternal kecuali yang bersangkutan dengan acara ini.
-- Feedback dibuat secara konstruktif, tanpa hal tersebut biasanya dianggap hanya candaan.
-- Ketersediaan Streaming diprioritaskan match yang memasang jadwal terlebih dahulu, semakin telat reschedule semakin kecil kemungkinan kedapatan streamnya.
+- Tanggapan harus diajukan secara konstruktif. Tanpa hal tersebut, tanggapan ini dapat dianggap sebagai candaan belaka.
+- Ketersediaan siaran langsung diprioritaskan match yang memasang jadwal terlebih dahulu, semakin telat reschedule semakin kecil kemungkinan kedapatan siaran langsungnya.
 
-### Aturan Warmup
-- Pemain diperbolehkan mengirim map warm up sebelum match dimulai.
-- Map dikirim ke wasit bisa berupa dm, di dalam room, discord, atau apapun yang pesannya tersampaikan ke wasit.
-- Durasi warm-up maksimal 3 menit 30 detik tanpa nego.
-- Dilarang menggunakan seluruh mappool sebagai warm-up.
+### Aturan pemanasan
+- Pemain diperbolehkan mengirim map pemanasan sebelum pertandingan dimulai.
+- Map dikirim ke wasit bisa berupa DM, di dalam room, Discord, atau apa pun yang pesannya tersampaikan ke wasit.
+- Durasi map pemanasan maksimal 3 menit 30 detik tanpa dapat dinegosiasikan.
+- Dilarang menggunakan map yang terdapat pada mappool sebagai map pemanasan.
 - Harus mode 4k osu!mania.
 
-### Aturan Wildcard
-- Masing-masing player diwajibkan submit 4 map pilihannya melalui google form yang tersedia dengan ketentuan durasi maksimal 4 menit atau minimal 10 detik dan harus 4K osu!mania.
+### Aturan wildcard
+- Masing-masing pemain diwajibkan untuk mengirimkan 4 map pilihannya melalui formulir Google yang tersedia dengan ketentuan durasi maksimal 4 menit atau minimal 10 detik dan harus 4K osu!mania.
 - Map yang merusak klien atau membuat crash tidak diperbolehkan.
-- Bila salah satu player keberatan untuk bermain menggunakan gimik wildcard, maka mappool wildcard akan ditutup.
-- Wildcard akan dipilih secara acak berdasarkan hasil submit google form bila pemain memilih dari mappool tersebut.
+- Bila salah satu pemain keberatan untuk bermain menggunakan gimik wildcard, maka mappool wildcard akan ditutup.
+- Wildcard akan dipilih secara acak berdasarkan hasil submisi dari formulir Google bila pemain memilih dari mappool tersebut.
 - Map yang sudah dipilih secara acak di match sebelumnya tidak bisa dipakai lagi untuk match selanjutnya.
-- Setiap Pemain hanya memiliki jatah 1 wildcard dan tidak bisa mengambil wildcard lawan.
-- Sistem Wildcard mengikuti dari batch pertama, lalu diikuti batch selanjutnya, yang artinya batch makin belakang makin - kecil kemungkinan untuk dipick.
-- Apabila pemain tidak submit form wildcard, pemain dianggap gugur.
+- Setiap pemain hanya memiliki jatah 1 wildcard dan tidak bisa mengambil wildcard lawan.
+- Sistem wildcard mengikuti dari batch pertama, lalu diikuti batch selanjutnya, yang artinya batch makin belakang, makin kecil pula kemungkinan suatu map wildcard untuk dipilih.
+- Apabila pemain tidak mengisi formulir wildcard, pemain dianggap gugur.
 
 
 
 ### Aturan WBD
 - Pemain akan dianggap mengundurkan diri jika tidak ada informasi melewati 15 menit yang dijadwalkan.
-- Pemain akan mendapatkan hak negosiasi jika ada informasi kendala, namun pemain yang hadir berhak untuk mengambil Win by Default.
-- Jika keduanya tidak hadir, seed lebih atas yang mendapatkan Win By Default. Namun diperbolehkan untuk melakukan penjadwalan ulang dan pembatalan Win By Default dengan maksimal sebelum showcase ronde selanjutnya.
-- Tidak ada WBD di Grand Finals. Delay paling telat 1 minggu dan jika masih tidak memungkinkan maka prizepool akan - shifting ke pemain yang hadir sebesar 80%. Jika tidak ada yang main sama sekali, maka pemberian prizepool akan dibatalkan.
+- Pemain akan mendapatkan hak negosiasi jika ada informasi kendala, namun pemain yang hadir berhak untuk mengklain kemenangan otomatis (*win by default*).
+- Jika keduanya tidak hadir, pemain dengan seed yang lebih tinggi akan dinyatakan menang secara otomatis. Meskipun demikian, kedua pemain diperbolehkan untuk melakukan penjadwalan ulang dan membatalkan keputusan ini hingga maksimal sebelum showcase ronde selanjutnya.
+- Tidak ada WBD di Grand Final. Kedua pemain hanya dapat menunda pertandingan Grand Final paling telat 1 minggu, dan jika masih tidak memungkinkan, maka pundi hadiah yang ada akan dialihkan ke pemain yang hadir sebesar 80%. Jika tidak ada yang main sama sekali, maka pundi hadiah ini akan dibatalkan.
 
 ### Aturan Qualifier
-- Semua pemain harus melakukan penjadwalan sebelum hari Sabtu. Jika sudah melewati hari Sabtu, harap kontak Wasit, diprioritaskan yang sedang aktif di waktu tersebut.
+- Semua pemain harus melakukan penjadwalan sebelum hari Sabtu. Jika sudah melewati hari Sabtu, harap kontak wasit, diprioritaskan yang sedang aktif di waktu tersebut.
 - Jika pemain tidak hadir melewati 10 menit pada lobi yang dijadwalkan, pemain dianggap tidak hadir pada lobi tersebut dan diwajibkan melakukan konfirmasi penjadwalan ulang dengan Wasit (bila tidak ada respon dari Wasit maka tidak ada jadwal di waktu tersebut).
-- Pemain dianggap gugur jika tidak memainkan qualifier sampai 1 Jam sebelum Mappool Showcase.
+- Pemain dianggap gugur jika tidak memainkan qualifier sampai 1 Jam sebelum showcase.
 
 
-### Aturan Match
-- Sistem scoring menggunakan Score v2, Head to Head (No Fail tidak ada efek apapun).
-- Map yang sudah diprotect tidak bisa diban.
+### Aturan pertandingan
+- Sistem penilaian menggunakan Score v2, Head to Head (No Fail tidak ada efek apapun).
+- Map yang sudah di-protect tidak bisa diban.
 - Mod yang diperbolehkan hanya: Mirror, Hidden, Fade In, dan Flashlight.
 - Setiap pemain mempunyai hak timeout 3 x 1 menit.
 - Jika pemain tidak memilih map selama 1 menit, maka timeout akan terpakai.
@@ -1063,20 +1063,20 @@ Serangkaian aturan ini diberlakukan dan digunakan untuk kelancaran Gulano Cup #5
 - Jika timeout sudah habis dan masih belum ready setelah memilih map, maka poin diberikan pada lawan.
 - Jika 10 menit tidak ada respon dari pemain, maka lawan mendapatkan Win By Default.
 - Pemain berhak meminta abort saat match sebelum 30 detik berlangsung, hanya diperbolehkan 1x pengulangan (beda map akan reset).
-- Timing abort berdasarkan sepengetahuan wasit, bukti bisa dilihat di irc atau replay di Livestream (jika ada).
+- Timing abort berdasarkan sepengetahuan wasit, bukti bisa dilihat di IRC atau rekaman siaran langsung (jika ada).
 - Semua bisa dinegosiasi dengan wasit dan lawan apabila ada informasi kendala seperti koneksi, mati lampu, atau sejenisnya.
-- Khusus untuk Grand Finals, pemain match terakhir diwajibkan untuk showcase map Tiebreaker setelah match berakhir.
+- Khusus untuk Grand Final, pemain match terakhir diwajibkan untuk showcase map Tiebreaker setelah match berakhir.
 
 
-### Aturan Reschedule
-- Para player aktif melakukan reschedule dengan waktu yang jelas disertai tanggal dan jam dimulainya match mereka.
-- Penentuan reschedule dalam suatu ronde harus memiliki hari diantara Jumat, Sabtu, Minggu, atau Senin 1 minggu setelah mappool showcase ronde tersebut dengan batas pukul 16:00 pada hari Senin.
-- Pengecualian ketentuan reschedule hanya berlaku apabila ada keadaan memaksa objektif yang menimpa para/salah satu player.
-- Reschedule dapat dilakukan di weekday apabila terdapat suatu urgensi dalam bentuk keadaan memaksa yang menimpa salah satu player.
+### Aturan perubahan jadwal
+- Para player aktif dapat menjadwalkan ulang pertandingan mereka dengan mengajukan waktu pertandingan yang baru (beserta dengan tanggal dan jamnya) kepada panitia secara jelas.
+- Penentuan perubahan jadwal dalam suatu ronde harus memiliki hari diantara Jumat, Sabtu, Minggu, atau Senin 1 minggu setelah mappool showcase ronde tersebut dengan batas pukul 16:00 pada hari Senin.
+- Pengecualian ketentuan perubahan jadwal hanya berlaku apabila ada keadaan memaksa objektif yang menimpa para/salah satu player.
+- Jadwal pertandingan dapat dirubah ke hari kerja apabila terdapat suatu urgensi dalam bentuk keadaan memaksa yang menimpa salah satu player.
 
 
 
-Segala perbuatan yang bertentangan dengan peraturan yang berlaku, setelah penilaian yang adil secara logika dan akal sehat, akan ditindak oleh para staff dengan memberikan sanksi sesuai dengan aturannya atau pertimbangan objektif kepada pelanggar peraturan.
+Segala perbuatan yang bertentangan dengan peraturan yang berlaku, setelah penilaian yang adil secara logika dan akal sehat, akan ditindak oleh panitia dengan memberikan sanksi sesuai dengan aturannya atau pertimbangan objektif kepada pelanggar peraturan.
 
-## Notes
+## Catatan
 [^komisi]: Komisi
