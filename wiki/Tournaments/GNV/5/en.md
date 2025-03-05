@@ -10,7 +10,8 @@ tags:
 
 ![Gulano Cup #5 banner](img/banner.png)
 
-**Gulano Cup #5** was a 1v1 double-elimination osu!mania 4K tournament hosted by ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) and ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). The tournament was open to all players from Indonesia who did not participate in the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K). The tournament featured a **wildcard map** gimmick, where players may submit maps into the "wildcard" pool for a chance for it to be picked during the tournament. It was the fifth instalment of the Gulano Cup series.
+<<<<<<< HEAD
+**Gulano Cup #5** was a 1v1 double-elimination osu!mania 4K tournament hosted by ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) and ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). The tournament was open to all players from Indonesia who had not participated in the [osu!mania 4K World Cup](/wiki/Tournaments/MWC#osu!mania-4k-world-cup). The tournament featured a **wildcard map** gimmick, where players may submit maps into the "wildcard" pool for a chance for it to be picked during the tournament. It was the fifth instalment of the Gulano Cup series.
 
 ## Tournament schedule
 
@@ -55,6 +56,7 @@ Gulano Cup #5 was run by various community members from Indonesia.
 | Programmer | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272) |
 | Composer | ::{ flag=ID }:: Altair Aquila[^commission] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^commission] ([YouTube](www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^commission] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^commission] ([SoundCloud](https://soundcloud.com/typemars)) |
 | Spreadsheet manager | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
+| Statistician | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Wiki editor | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Sponsor | [FTG]Kagamine, AsanagiYori, danar, Halsy, hira_osu, Ilham, lolohpela, MightyTech, Molten Cheese, typeMARS, Yuvya Anastasya |
 
@@ -1027,7 +1029,7 @@ These rules are in effect for the entirety of the Gulano Cup #5 to ensure that t
 - Warm-up maps must be a 4K osu!mania map.
 
 ### Wildcard rules
-- Each player is required to send 4 osu!mania 4K maps of their choice, all no shorter than 10 seconds and no longer than 4 minutes, through [this submission form](LINK).
+- Each player is required to send 4 osu!mania 4K maps of their choice, all no shorter than 10 seconds and no longer than 4 minutes, through [this submission form](https://forms.gle/op5xtLAd8R4J5pv76).
 - Submitted maps may not be unplayable or otherwise causes the osu! client to crash.
 - If one of the players disapproves to play using the wildcard gimmick, the wildcard mappool will be rendered unavailable for the duration of the match.
 - Upon being picked, wildcard maps will be randomly selected based on the results of the submission.
@@ -1063,7 +1065,7 @@ These rules are in effect for the entirety of the Gulano Cup #5 to ensure that t
 - Exclusive to the Grand Finals, players participating in the Grand Final match are required to showcase the Tiebreaker map after the match ends.
 
 ### Reschedule rules
-- Upon submitting a rescehdule, players are required to inform an exact date and time for their new match to the referee.
+- Upon submitting a reschedule, players are required to inform an exact date and time for their new match to the referee.
 - The new match time must fall into a Friday, Saturday, Sunday, or Monday of their corresponding stage with a deadline of 16:00 on Monday.
 - Exceptions to the reschedule provisions only apply if there are objective force majeure circumstances that befall the players/one of them.
 - Reschedule can be done on weekdays if there is an urgency in the form of force majeure circumstances that befall one of the players.

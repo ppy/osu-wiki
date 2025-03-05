@@ -10,7 +10,7 @@ tags:
 
 ![Gulano Cup #5 banner](img/banner.png)
 
-**Gulano Cup #5** merupakan turnamen osu!mania 4K perseorangan khusus wilayah Indonesia yang diselenggarakan oleh ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) dan ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). Turnamen ini menggunakan sistem pertandingan satu lawan satu dengan format eliminasi ganda (*double elimination*). Turnamen ini memiliki gimik berupa map **wildcard** yang dikirimkan oleh para pemain dan dapat digunakan dalam pertandingan dengan memilih secara acak dari daftar map wildcard. Hanya pemain non-MWC yang dapat mengikuti turnamen ini. Turnamen ini merupakan iterasi kelima dari seri Gulano Cup.
+**Gulano Cup #5** merupakan turnamen osu!mania 4K perseorangan khusus wilayah Indonesia yang diselenggarakan oleh ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) dan ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). Turnamen ini menggunakan sistem pertandingan satu lawan satu dengan format eliminasi ganda (*double elimination*). Turnamen ini memiliki gimik berupa map **wildcard** yang dikirimkan oleh para pemain dan dapat digunakan dalam pertandingan dengan memilih secara acak dari daftar map wildcard. Hanya pemain yang belum pernah berpartisipasi di turnamen [osu!mania 4K World Cup](/wiki/Tournaments/MWC#osu!mania-4k-world-cup). yang dapat mengikuti turnamen ini. Turnamen ini merupakan iterasi kelima dari seri Gulano Cup.
 
 ## Jadwal turnamen
 
@@ -55,7 +55,8 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 | Programmer | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272) |
 | Komposer | ::{ flag=ID }:: Altair Aquila[^komisi] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^komisi] ([YouTube](www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^komisi] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^komisi] ([SoundCloud](https://soundcloud.com/typemars)) |
 | Pengelola spreadsheet | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Editor Wiki | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
+| Statistisi | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
+| Editor wiki | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Sponsor | [FTG]Kagamine, AsanagiYori, danar, Halsy, hira_osu, Ilham, lolohpela, MightyTech, Molten Cheese, typeMARS, Yuvya Anastasya |
 
 ## Daftar tautan
@@ -176,7 +177,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 
 ## Mappool
 
-### Grand Finals
+### Grand Final
 **[Unduh mappack babak ini di sini! (91 MB)](https://drive.google.com/file/d/1jx6MHwSo7L2JDdpSgf8zTy3cGt0NLoKc/view)**  
 [Tonton VOD showcase di sini!](https://youtu.be/SjNkzGL41Zc)
 
@@ -202,7 +203,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 - Tiebreaker
 1. **[morethanahalf & typeMARS - Kemilau Fana feat. Altair Aquila & Mariela Riona [Menuliskan Takdir di Atas Abu Keraguan]](https://osu.ppy.sh/b/4985255)**
 
-### Finals
+### Final
 **[Unduh mappack babak ini di sini! (86 MB)](https://drive.google.com/file/d/1KdGgBp5RC5DY7U35M0tdBc-v9sVqGuvN/view)**  
 [Tonton VOD showcase di sini!](https://youtu.be/PVX-SyFqXVc)
 
@@ -228,7 +229,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 - Tiebreaker
 1. **[KEMOMIMI EDM SQUAD - THE PLATINUM TROPHY [Decagrammaton]](https://osu.ppy.sh/b/4974142)**
 
-### Semifinals
+### Semifinal
 
 **[Unduh mappack babak ini di sini! (70 MB)](https://drive.google.com/file/d/1Xf2gVAjCBmReQNE5FS_0J1Ao9UwsxkVe/view)**  
 [Tonton VOD showcase di sini!](https://youtu.be/HBgAk_GdZT4) | [Tonton clip montage di sini!](https://youtu.be/z21vS7DKBpw)
@@ -253,7 +254,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 - Tiebreaker
 1. **[tn-shi - INVERSION [_.revers(e)_al.\_shift.\_]](https://osu.ppy.sh/b/4965149)**
 
-### Quarterfinals
+### Perempat Final
 
 **[Unduh mappack babak ini di sini! (62 MB)](https://drive.google.com/file/d/1-VTrEWVucP63ChlnFjxJZezaZ7y2SJDO/view)**  
 [Tonton VOD showcase di sini!](https://youtu.be/v7q17LR5qTE) | [Tonton clip montage di sini!](https://youtu.be/A4JGppl0ceQ)
@@ -278,7 +279,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 - Tiebreaker
 1. **[ReeK - A Day At The Arcade (Cut Ver.) [No game, no life]](https://osu.ppy.sh/b/4953187)**
 
-### Round of 16
+### Babak 16 Besar
 
 **[Unduh mappack babak ini di sini! (57 MB)](https://drive.google.com/file/d/13IspFyRy8sQx6LHEou_ojxSoofcqZBfT/view)**  
 [Tonton VOD showcase di sini!](https://youtu.be/odVOo4T_d7U) | [Tonton clip montage di sini!](https://youtu.be/I1uR0ac3geU)
@@ -301,7 +302,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 - Tiebreaker
 1. **[uet - Drug on the Drop (Zekk Remix) [Methamphetamine]](https://osu.ppy.sh/b/4943852)**
 
-### Round of 32
+### Babak 32 Besar
 
 **[Unduh mappack babak ini di sini! (59 MB)](https://drive.google.com/file/d/1_7ERdhjVnNDHoiVv-5PYa1a7MsrPXZSv/view)**  
 [Tonton VOD showcase di sini!](https://youtu.be/92ItBAXVN5A) | [Tonton clip montage di sini!](https://youtu.be/hnHUX1n3s1A)
@@ -323,7 +324,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 - Tiebreaker
 1. **[YUKIYANAGI - Multiple Objectivity [Convergence]](https://osu.ppy.sh/b/4935546)**
 
-### Round of 64
+### Babak 64 Besar
 
 **[Unduh mappack babak ini di sini! (44 MB)](https://drive.google.com/file/d/1UTf5sZ4Z1yMDb5R-NMVJorUY0uubemnR/view)**  
 [Tonton VOD showcase di sini!](https://youtu.be/86Sm75_63yk) | [Tonton clip montage di sini!](https://youtu.be/emL_zWDgdaQ)
@@ -629,7 +630,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 
 ## Hasil Pertandingan
 
-### Grand Finals
+### Grand Final
 
 Jumat, 21 Februari 2025:
 | Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
@@ -637,43 +638,43 @@ Jumat, 21 Februari 2025:
 | Lower | **[LS]Robi** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: MightyTech | [#1](https://osu.ppy.sh/mp/117252175) | [#1](https://www.youtube.com/watch?v=ZgQZg3LAg-4) |
 
 Sabtu, 22 Februari 2025:
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link | |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD | |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- | :-- |
 | SHOW | GENG MOTOR | 4 | **5** | **GENG MAFIA** | [#1](https://osu.ppy.sh/community/matches/117263740) | [#1](https://www.youtube.com/watch?v=w1MtoVGTplI) | Showmatch wildcard (staf lawan pemain) |
 | Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/mp/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) | |
 
-### Finals
+### Final
 
 Kamis, 13 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | DAENGXicisae- ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[LS] akarii** | [#1](https://osu.ppy.sh/mp/117160009) | [#1](https://www.youtube.com/watch?v=52VUVjwXWxQ) |
 
 Sabtu, 15 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | SnakesYxle ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **MightyTech** | [#1](https://osu.ppy.sh/mp/117182865) | [#1](https://www.youtube.com/watch?v=2FJWbOdjbxo) |
 | Upper | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/mp/117183784), [#2](https://osu.ppy.sh/mp/117185026) | [#1](https://www.youtube.com/watch?v=717TDuzyjlc) |
 
 Minggu, 16 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Cond | **MightyTech** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [LS] akarii | [#1](https://osu.ppy.sh/mp/117197903) | [#1](https://www.youtube.com/watch?v=3Yk4T6DOlCA) |
 
-### Semifinals
+### Semifinal
 
 Jumat, 07 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Upper | DAENGXicisae- ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **[LS]Robi** | [#1](https://osu.ppy.sh/community/matches/117088454) | [#1](https://www.youtube.com/watch?v=8k3hQiryp64) |
 
 Sabtu, 08 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | Napeace ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **askL330** | [#1](https://osu.ppy.sh/mp/117099874) | [#1](https://www.youtube.com/watch?v=MwCurL16mU4) |
 | Lower | Tsurumaki_ ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[LS] akarii** | [#1](https://osu.ppy.sh/mp/117101834) | [#1](https://www.youtube.com/watch?v=o25Lu-lh1IA) |
@@ -683,23 +684,23 @@ Sabtu, 08 Februari 2025:
 
 Minggu, 09 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Cond | RaffCo ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **MightyTech** | [#1](https://osu.ppy.sh/community/matches/117113000) | [#1](https://www.youtube.com/watch?v=Nfa8SM4JX1U) |
 | Cond | **[LS] akarii** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: askL330 | [#1](https://osu.ppy.sh/mp/117116430) | [#1](https://www.youtube.com/watch?v=b4_b8BipdoQ&feature=youtu.be) |
 
-### Quarterfinals
+### Perempat Final
 
 Jumat, 31 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **RaffCo** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: Darrel27 | [#1](https://osu.ppy.sh/community/matches/117007746) | [#1](https://youtu.be/vVHCwo8sUfA) |
 | Upper | Napeace ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **SnakesYxle** | [#1](https://osu.ppy.sh/mp/117009731) | [#1](https://youtu.be/tp5IQs-PqFg) |
 
 Sabtu, 01 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **MightyTech** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: D_ana | [#1](https://osu.ppy.sh/mp/117019718) | [#1](https://youtu.be/3CAGlBUNuwM) |
 | Lower | Remuu ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **askL330** | [#1](https://osu.ppy.sh/mp/117020345) | [#1](https://youtu.be/JcsNTKOTSgo) |
@@ -710,7 +711,7 @@ Sabtu, 01 Februari 2025:
 
 Minggu, 02 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | danar mw ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **_yea** | [#1](https://osu.ppy.sh/mp/117033169) | [#1](https://youtu.be/cAjtOSuDKf0) |
 | Lower | **[LS] akarii** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: Violet- | [#1](https://osu.ppy.sh/community/matches/117034861) | [#1](https://youtu.be/zu8s3vcggPQ) |
@@ -722,27 +723,27 @@ Minggu, 02 Februari 2025:
 
 Senin, 03 Februari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Upper | Tsurumaki_ ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **lisachandra** | [#1](https://osu.ppy.sh/mp/117046313) | [#1](https://youtu.be/n27pp62i9ro) |
 
-### Round of 16
+### Babak 16 Besar
 
 Rabu, 22 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **AzusaNakano2** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Neptunia-chan | [#1](https://osu.ppy.sh/mp/116903574) | [#1](https://youtu.be/jWrj8Ek5NcQ) |
 
 Kamis, 23 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **tentrempm** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: MzLord | [#1](https://osu.ppy.sh/community/matches/116913251) | [#1](https://youtu.be/6lWwvF27Ux4) |
 
 Jumat, 24 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **Violet-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: -Nandakai- | *win by default* | *win by default* | 
 | Lower | **Darrel27** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: My Angel Chen | [#1](https://osu.ppy.sh/mp/116924872) | [#1](https://youtu.be/Zzc02-xY5Ro) |
@@ -753,7 +754,7 @@ Jumat, 24 Januari 2025:
 
 Sabtu, 25 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **askL330** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: uThot | [#1](https://osu.ppy.sh/mp/116935458) | [#1](https://youtu.be/v94tfm-V3Gs) |
 | Lower | **Molten Cheese** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: skadidragen | [#1](https://osu.ppy.sh/community/matches/116937726) | [#1](https://youtu.be/pxtEkoTMkSQ) |
@@ -771,7 +772,7 @@ Sabtu, 25 Januari 2025:
 
 Minggu, 26 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | ImOyZo ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **beethiven** | *win by default* | *win by default* | 
 | Cond | **Violet-** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: Catzu | [#1](https://osu.ppy.sh/mp/116950898) | [#1](https://youtu.be/ngMRo47s-Ew) |
@@ -783,18 +784,18 @@ Minggu, 26 Januari 2025:
 
 Senin, 27 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Cond | IzKun- ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **_yea** | [#1](https://osu.ppy.sh/community/matches/116963575) | [#1](https://youtu.be/F-XmEzCHCgE) |
 | Cond | Animerge ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **KinoJourney** | [#1](https://osu.ppy.sh/community/matches/116964473) | [#1](https://youtu.be/eoeAygJEtGk) |
 | Upper | **Napeace** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: RaffCo | [#1](https://osu.ppy.sh/community/matches/116964336) | [#1](https://youtu.be/kkDR22b3k1E) |
 | Upper | **Prinow6** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Remuu | [#1](https://osu.ppy.sh/community/matches/116964878) | [#1](https://youtu.be/eHSHnHzaPh0) |
 
-### Round of 32
+### Babak 32 Besar
 
 Jumat, 17 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | syamisu- ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **KinoJourney** | *win by default* | *win by default* | 
 | Lower | MrFlinxy ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **KyoukaRy** | [#1](https://osu.ppy.sh/mp/116842013) | [#1](https://youtu.be/n2yqPm_aESw) |
@@ -807,7 +808,7 @@ Jumat, 17 Januari 2025:
 
 Sabtu, 18 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | Lyz- ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **ocaibo** | [#1](https://osu.ppy.sh/community/matches/116854112) | [#1](https://youtu.be/OUN5HHrW-NU) |
 | Lower | **ZhasK_667** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: -Aji | [#1](https://osu.ppy.sh/community/matches/116856266) | [#1](https://youtu.be/oIiI72OdIR4) |
@@ -823,7 +824,7 @@ Sabtu, 18 Januari 2025:
 
 Minggu, 19 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | EterEnvy ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **-Nandakai-** | [#1](https://osu.ppy.sh/community/matches/116869865) | [#1](https://youtu.be/0LcbBfWsT3I) |
 | Lower | [-Elaina-] ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[ Zenith ]** | [#1](https://osu.ppy.sh/community/matches/116869883) | [#1](https://youtu.be/N34h4nyI50Q) |
@@ -839,23 +840,23 @@ Minggu, 19 Januari 2025:
 
 Senin, 20 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Upper | **MightyTech** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Animerge | [#1](https://osu.ppy.sh/community/matches/116881275) | [#1](https://youtu.be/j9J1KFpffwM) |
 | Upper | **[LS]Robi** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Proxae | [#1](https://osu.ppy.sh/mp/116881280) | [#1](https://youtu.be/-knNr7xqQqc) |
 
-### Round of 64
+### Babak 64 Besar
 
 Rabu, 08 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Upper | **[LS]Robi** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [-Vanart-] | [#1](https://osu.ppy.sh/community/matches/116750818) | [#1](https://youtu.be/15vGv2ZhDas) |
 | Upper | **Remuu** ::{ flag=ID }:: | **4** | 3 | ::{ flag=ID }:: lucknut | [#1](https://osu.ppy.sh/mp/116751128) | [#1](https://youtu.be/J-uuAxZ4LZQ) |
 
 Jumat, 10 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Upper | **Tsurumaki_** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: FinHazel | [#1](https://osu.ppy.sh/mp/116768605) | [#1](https://youtu.be/oJYtJx0TW3w) |
 | Upper | **_yea** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: lyoneljose | [#1](https://osu.ppy.sh/community/matches/116768861) | [#1](https://youtu.be/OAlQwi709g0), [#2](https://youtu.be/nPwg_R6AjNE) | 
@@ -869,7 +870,7 @@ Jumat, 10 Januari 2025:
 
 Sabtu, 11 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Upper | **IzKun-** ::{ flag=ID }:: | **4** | 3 | ::{ flag=ID }:: \_Reggie\_ | [#1](https://osu.ppy.sh/mp/116778358) | [#1](https://youtu.be/w9vygpDl17c) |
 | Upper | **[ -Asriel- ]** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: skadidragen | [#1](https://osu.ppy.sh/mp/116779876) | [#1](https://youtu.be/x4aPQtkypHU) |
@@ -886,7 +887,7 @@ Sabtu, 11 Januari 2025:
 
 Minggu, 12 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Upper | **Napeace** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Shiroko] | [#1](https://osu.ppy.sh/mp/116793555) | [#1](https://youtu.be/UJLiGyTzAj8) |
 | Upper | **AzusaNakano2** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Dogethedoge25 | [#1](https://osu.ppy.sh/mp/116794278) | [#1](https://youtu.be/Brux4dOmQeM) |
@@ -898,7 +899,7 @@ Minggu, 12 Januari 2025:
 
 Senin, 13 Januari 2025:
 
-| Bracket | Pemain 1 |  |  | Pemain 2 | Match link | VOD link |
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Upper | **Violet-** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: TheLegend3RD | [#1](https://osu.ppy.sh/community/matches/116804464) | [#1](https://youtu.be/u_1Jz55lrl8) |
 | Upper | **ImOyZo** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: MzLord | [#1](https://osu.ppy.sh/mp/116805104) | [#1](https://youtu.be/T7RceIX9Hx4) |
@@ -1029,7 +1030,7 @@ Serangkaian aturan ini diberlakukan dan digunakan untuk kelancaran Gulano Cup #5
 - Harus mode 4k osu!mania.
 
 ### Aturan wildcard
-- Masing-masing pemain diwajibkan untuk mengirimkan 4 map pilihannya melalui formulir Google yang tersedia dengan ketentuan durasi maksimal 4 menit atau minimal 10 detik dan harus 4K osu!mania.
+- Masing-masing pemain diwajibkan untuk mengirimkan 4 map pilihannya melalui [formulir Google](https://forms.gle/op5xtLAd8R4J5pv76) yang tersedia dengan ketentuan durasi maksimal 4 menit atau minimal 10 detik dan harus 4K osu!mania.
 - Map yang merusak klien atau membuat crash tidak diperbolehkan.
 - Bila salah satu pemain keberatan untuk bermain menggunakan gimik wildcard, maka mappool wildcard akan ditutup.
 - Wildcard akan dipilih secara acak berdasarkan hasil submisi dari formulir Google bila pemain memilih dari mappool tersebut.
