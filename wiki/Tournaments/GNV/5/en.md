@@ -12,7 +12,7 @@ tags:
 
 **Gulano Cup #5** was a 1v1 double-elimination osu!mania 4K tournament hosted by ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) and ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). It was open exclusively to Indonesian players. It has a **wildcard** map gimmick that is submitted by players and can be used in the match by randomly picking from the wildcard map list. Only non-MWC players are able to play in this tournament. It was the fifth instalment of the Gulano Cup series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -54,8 +54,8 @@ Gulano Cup #5 was run by various community members from Indonesia.
 | Designer | ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [AuristelaVlyn](https://osu.ppy.sh/users/26772932), ::{ flag=ID }:: chaji[^commission] ([Instagram](https://www.instagram.com/chaji_8736/)), ::{ flag=ID }:: EnZore[^commission] ([Facebook](https://www.facebook.com/enjor.s/)), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [vexule-](https://osu.ppy.sh/users/18215071) |
 | Programmer | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272) |
 | Composer | ::{ flag=ID }:: Altair Aquila[^commission] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^commission] ([YouTube](www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^commission] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^commission] ([SoundCloud](https://soundcloud.com/typemars)) |
-| Sheeter | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Editor Wiki | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
+| Spreadsheet manager | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
+| Wiki editor | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Sponsor | [FTG]Kagamine, AsanagiYori, danar, Halsy, hira_osu, Ilham, lolohpela, MightyTech, Molten Cheese, typeMARS, Yuvya Anastasya |
 
 ## Links
@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "Juara pertama") | ::{ flag=ID }:: [lisachandra](https://osu.ppy.sh/users/26634482) |
 | ![Silver crown](/wiki/shared/crown-silver.png "Juara kedua") | ::{ flag=ID }:: [[LS]Robi](https://osu.ppy.sh/users/21900872) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "Juara ketiga") | ::{ flag=ID }:: [MightyTech](https://osu.ppy.sh/users/34454156) |
-| Finalist | ::{ flag=ID }:: [[LS] akarii](https://osu.ppy.sh/users/20040064), ::{ flag=ID }:: [DAENGXicisae-](https://osu.ppy.sh/users/8029883), ::{ flag=ID }:: [SnakesYxle](https://osu.ppy.sh/users/22842079) |
+| Non-podium finalists | ::{ flag=ID }:: [[LS] akarii](https://osu.ppy.sh/users/20040064), ::{ flag=ID }:: [DAENGXicisae-](https://osu.ppy.sh/users/8029883), ::{ flag=ID }:: [SnakesYxle](https://osu.ppy.sh/users/22842079) |
 
 
 ## Mappools
@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
 1. [WATEVA - Ber Zer Ker (Rob Gasser Remix) (Cut Ver.) [Anomali]](https://osu.ppy.sh/b/4963941)
 2. [ISOxo - Chamber (M!R4 & LGC Jersey Club Edit) [Dimensional Drift]](https://osu.ppy.sh/b/4965027)
 - Tiebreaker
-1. **[tn-shi - INVERSION [_.revers(e)_al.\_shift.\_]](https://osu.ppy.sh/b/4965149)**
+1. **[tn-shi - INVERSION [\_.revers(e)_al.\_shift.\_]](https://osu.ppy.sh/b/4965149)**
 
 ### Quarterfinals
 
@@ -905,7 +905,7 @@ Monday, 13 January 2025:
 
 ## Qualifiers
 
-- More detailed Qualifier results can be accessed via the [Mastersheet](https://www.gulanova.top/tournaments/gulanocup-lima/sheet)
+- Detailed information on the standings of the Qualifier stage can be found in [the master spreadsheet](https://www.gulanova.top/tournaments/gulanocup-lima/sheet)
 - Average rank was determined by `Σ(Stage Rank * Stage Weight)` with each stage weights as follows:
 
 | | **Stage 1 (SV)** | **Stage 2 (RC1)** | **Stage 3 (RC2)** | **Stage 4 (LN1)** | **Stage 5 (LN2)** | **Stage 6 (HB)** |
@@ -999,55 +999,55 @@ Monday, 13 January 2025:
 | #80 | ::{ flag=ID }:: [anteiku7](https://osu.ppy.sh/users/7013247) | 80 |
 
 ## Ruleset
-These series of rules are enforced and used for Gulano Cup #5 so that there is no disruption if there is a problem. With their involvement, all people involved in Gulano Cup #5, including staff and players, are considered to know and understand all of these rules. These rules are enforced fairly based on the principles of logic and common sense by all Gulanova staff.
+These rules are in effect for the entirety of the Gulano Cup #5 to ensure that the tournament runs as smoothly as possible. Upon contributing and/or registering into the tournament, all people involved with Gulano Cup #5 (including staff and players) are assumed to be aware of and understands all of these rules. These rules are enforced fairly based on the principles of logic and common sense by all Gulanova staffs.
 
-### Qualifier Procedure
-- The referee will remind players about 15 minutes via discord before the scheduled lobby starts.
+### Qualifier procedure
+- The referee will remind players about 15 minutes via Discord before the scheduled lobby starts.
 - The lobby will start when all players have entered, or 10 minutes have passed from the scheduled time.
-- Players will play pool stages 1-6 in order. After all stages have been played, players are given a 2-minute break before playing stages 1-6 again (second chance). And this second chance is optional but recommended.
+- Players will have to play all six Qualifier stages in order. After all stages have been played, players will be given a 2-minute break before they go on their second Qualifier attempt. Playing this second run is not mandatory, but recommended.
 - The best score from each stage will be taken as the qualifier score.
 
-### Match Procedure
-- The referee will remind both players about 15 minutes via discord before the match starts.
-- Players are entitled to play one warm-up in the lobby (each player).
-- After the warm-up, both players will do a !roll. The highest roll has the right to choose to ban or pick first with the ABBA format. Example: If player A chooses the first pick, then player B will ban, followed by player A. then player A can choose a pick. The winner of the roll is guaranteed to get the first protection
+### Match procedure
+- The referee will remind both players about 15 minutes via Discord before the match starts.
+- Players may play up to two warm-up maps in the lobby before the match (one from each player).
+- After the warm-up, both players will have to do a !roll. The player with the higher roll number has the right to choose to ban or pick first following the ABBA format. For example, If player A chooses to pick first, then player B will get the first ban, followed by player A's ban and finally player A can choose a pick. The winner of the roll is guaranteed to get the first protect.
 - Players will take turns choosing maps until a winner is determined. If both players only need 1 more point to win the match, then a Tiebreaker map will be played.
 
-### General Rules
-- In general, all attendees follow the rules of osu! community rules that already include sportsmanship, not doing conditions, and general manners.
+### General rules
+- Players, staffs, and other attendees are required to abide to the [osu! community rules](/wiki/Rules).
 - No external sensitive topics are allowed unless they are related to this event.
 - Feedback is made constructively, without it considered as just a joke.
-- Streaming availability is prioritized for matches that have a schedule in advance, the later the reschedule the less likely it is to get the stream.
+- Matches will be streamed according to the streamers' availability, with matches that have their schedule locked in early being prioritised. While players may reschedule their matches to a more suitable time, the later the reschedule is agreed, the less likely it is for the match to be streamed.
 
-### Warm-up Rules
-- Players are allowed to send warm-up maps before the match starts.
-- Maps sent to the referee can be in the form of dm, in the room, discord, or anything whose message is conveyed to the referee.
-- Maximum warm-up duration is 3 minutes 30 seconds without negotiation.
+### Warm-up rules
+- Players are allowed to send their own map of choice to the referee to be played as a warm-up map before the match starts.
+- Warm-up maps may be sent to the referee through DMs, Discord, directly in the room, or any other media without restriction.
+- Warm-up maps may not exceed 3 minutes and 30 seconds.
 - It is forbidden to use the entire mappool as a warm-up.
-- Must be in 4k osu!mania mode.
+- Warm-up maps must be a 4K osu!mania map.
 
-### Wildcard Rules
-- Each player is required to send 4 maps of their choice via the available google form with a maximum duration of 4 minutes or a minimum of 10 seconds and must be osu!mania 4K.
-- Maps that damage the client or cause crashes are not allowed.
-- If one of the players disapproves to play using the wildcard gimmick, the wildcard mappool will be closed.
-- Wildcards will be randomly selected based on the results of the google form submission if the player chooses from the mappool.
-- Maps that have been randomly selected in the previous match cannot be used again for the next match.
-- Each player only has 1 wildcard quota and cannot take the opponent's wildcard.
+### Wildcard rules
+- Each player is required to send 4 osu!mania 4K maps of their choice, all no shorter than 10 seconds and no longer than 4 minutes, through [this submission form](LINK).
+- Submitted maps may not be unplayable or otherwise causes the osu! client to crash.
+- If one of the players disapproves to play using the wildcard gimmick, the wildcard mappool will be rendered unavailable for the duration of the match.
+- Upon being picked, wildcard maps will be randomly selected based on the results of the submission.
+- Wildcard maps that have been randomly selected cannot be used again in the future matches.
+- Each player may only pick up to 1 wildcard map per match.
 - The Wildcard system follows from the first batch, then followed by the next batch, which means that the later the batch, the less likely it is to be picked.
 - If a player does not submit the wildcard to the form, the player is disqualified.
 
-### WBD Rules
-- Players will be considered resigning if there is no information beyond the scheduled 15 minutes.
-- Players will get the right to negotiate if there is information about obstacles, but players who are present have the right to take Win by Default.
-- If both are absent, the higher seed gets Win By Default. However, it is permissible to reschedule and cancel Win By Default up to a maximum of before the next showcase round.
-- There is no WBD in the Grand Finals. The latest delay is 1 week and if it is still not possible then the Prizepool will be shifted to the players who are present by 80%. If no one plays at all, then the Prizepool will be canceled.
+### WBD rules
+- Players will be considered to have forfeited the match if they don't show up until 15 minutes after the scheduled match time without any further information.
+- Players who failed to show up will have to negotiate for a late reschedule and present their arguments as to why they were not present in their scheduled match time, but players who are present have the right to take the win by default.
+- If both players are absent, the higher seed gets to win the match by default. However, it is permissible for both players to apply for a reschedule and cancel the win by default designation up to a maximum of before the next showcase round.
+- The win by default mechanic is not applicable in the Grand Finals. Both grand finalists are given the right to delay their Grand Final match for up to 1 week, and if no consensus is reached until then, the prize pool will be automatically given to the player who is present by 80%. If both of the grand finalists are not able to play at all, the prize pool will be canceled entirely.
 
-### Qualification Rules
+### Qualifier rules
 - All players must schedule before Saturday. If it is past Saturday, please contact the Referee, prioritized those who are active at that time.
 - If a player is absent for more than 10 minutes in the scheduled lobby, the player is considered absent from the lobby and is required to confirm rescheduling with the Referee (if there is no response from the Referee then there is no schedule at that time).
 - Players are disqualified if they do not play the qualifier until 1 hour before the Mappool Showcase.
 
-### Match Rules
+### Match rules
 - Scoring system uses Score v2, Head to Head (No Fail has no effect).
 - Protected maps cannot be banned.
 - Mods that are allowed: Mirror, Hidden, Fade In, and Flashlight.
@@ -1056,15 +1056,15 @@ These series of rules are enforced and used for Gulano Cup #5 so that there is n
 - If the player is not ready after choosing a map, the timeout will be used.
 - If the timeout is up and still has not chosen a map, then the pick is given to the opponent.
 - If the timeout is up and still not ready after choosing a map, then the point is given to the opponent.
-- If there is no response from the player for 10 minutes, then the opponent gets Win By Default.
-- Players have the right to request an abort during the match before 30 seconds have passed, only 1 repetition is allowed (a different map will reset the abort).
-- Abort timing is based on the referee's knowledge, evidence can be seen on irc or replay on Livestream (if available).
-- Everything can be negotiated with the referee and opponent if there is information about obstacles such as connection, power outages, or the likes of it.
-- Especially for Grand Finals, players in the last match are required to showcase the Tiebreaker map after the match ends.
+- If there is no response from the player for 10 minutes, then the opponent gets to win by default.
+- Once per match, players will be able to call for an abort during a map before 30 seconds have passed should technical issues occur.
+- The timing of the abort call (and whether the abort call is valid or not) will be determined by records such as the IRC log or the livestream feed and the referee's discretion.
+- Players are free to discuss upon obstacles such as connection issues, power outages, and the likes of it to the referee and their opponent at any time.
+- Exclusive to the Grand Finals, players participating in the Grand Final match are required to showcase the Tiebreaker map after the match ends.
 
-### Reschedule Rules
+### Reschedule rules
 - Active players reschedule with a clear time along with the date and time of the start of their match.
-- Determination of reschedule in a round must have a day between Friday, Saturday, Sunday, or Monday 1 week after the mappool showcase of the round with a deadline of 16:00 on Monday.
+- The new match time must fall into a Friday, Saturday, Sunday, or Monday of their corresponding stage with a deadline of 16:00 on Monday.
 - Exceptions to the reschedule provisions only apply if there are objective force majeure circumstances that befall the players/one of them.
 - Reschedule can be done on weekdays if there is an urgency in the form of force majeure circumstances that befall one of the players.
 
