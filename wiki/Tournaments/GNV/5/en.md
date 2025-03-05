@@ -10,7 +10,7 @@ tags:
 
 ![Gulano Cup #5 banner](img/banner.png)
 
-**Gulano Cup #5** was a 1v1 double-elimination osu!mania 4K tournament hosted by ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) and ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). It was open exclusively to Indonesian players. It has a **wildcard** map gimmick that is submitted by players and can be used in the match by randomly picking from the wildcard map list. Only non-MWC players are able to play in this tournament. It was the fifth instalment of the Gulano Cup series.
+**Gulano Cup #5** was a 1v1 double-elimination osu!mania 4K tournament hosted by ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) and ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). The tournament was open to all players from Indonesia who did not participate in the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K). The tournament featured a **wildcard map** gimmick, where players may submit maps into the "wildcard" pool for a chance for it to be picked during the tournament. It was the fifth instalment of the Gulano Cup series.
 
 ## Tournament schedule
 
@@ -1023,7 +1023,7 @@ These rules are in effect for the entirety of the Gulano Cup #5 to ensure that t
 - Players are allowed to send their own map of choice to the referee to be played as a warm-up map before the match starts.
 - Warm-up maps may be sent to the referee through DMs, Discord, directly in the room, or any other media without restriction.
 - Warm-up maps may not exceed 3 minutes and 30 seconds.
-- It is forbidden to use the entire mappool as a warm-up.
+- Maps that are present in the corresponding stage's mappool may not be picked as a warm-up map.
 - Warm-up maps must be a 4K osu!mania map.
 
 ### Wildcard rules
@@ -1063,7 +1063,7 @@ These rules are in effect for the entirety of the Gulano Cup #5 to ensure that t
 - Exclusive to the Grand Finals, players participating in the Grand Final match are required to showcase the Tiebreaker map after the match ends.
 
 ### Reschedule rules
-- Active players reschedule with a clear time along with the date and time of the start of their match.
+- Upon submitting a rescehdule, players are required to inform an exact date and time for their new match to the referee.
 - The new match time must fall into a Friday, Saturday, Sunday, or Monday of their corresponding stage with a deadline of 16:00 on Monday.
 - Exceptions to the reschedule provisions only apply if there are objective force majeure circumstances that befall the players/one of them.
 - Reschedule can be done on weekdays if there is an urgency in the form of force majeure circumstances that befall one of the players.
