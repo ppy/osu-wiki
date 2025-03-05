@@ -25,10 +25,10 @@ Before your scroll down to the bottom of the news post and press that apply link
 
 As always, we will look through every single application, but if you fit into the following categories, we'll count that as a plus:
 
-- you are active in `#turkish` and/or speak the language on a native level
-- you are active in `#ukrainian` and/or speak the language on a native level
-- you are active in `#portuguese` and/or speak the language on a native level
-- you are online and available in the Australia/Asia timezones
+- you speak Turkish on a near-native level, being active in `#turkish` is a plus
+- you speak Ukrainian on a near-native level, being active in `#ukrainian` is a plus
+- you speak Portuguese on a near-native level, being active in `#portuguese` is a plus
+- you are online and available to moderate and react to reports in the Australia/Asia timezones
 - you actively browse and/or participate in forum discussions
 
 ---
