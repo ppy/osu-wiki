@@ -11,7 +11,7 @@ tags:
 
 Начиная с сентября 2023 года, это достижение отмечается [значком профиля](/wiki/Community/Profile_badge), выдающимся после проверки [osu! team](/wiki/People/osu!_team):
 
-![osu!](img/osu.png "значок osu! completionist") ![osu!taiko](img/taiko.png "значок osu!taiko completionist") ![osu!catch](img/catch.png "значок osu!catch completionist") ![osu!mania](img/mania.png "значок osu!mania completionist")
+![osu!](img/osu.png?20230902 "значок osu! completionist") ![osu!taiko](img/taiko.png?20230902 "значок osu!taiko completionist") ![osu!catch](img/catch.png?20230902 "значок osu!catch completionist") ![osu!mania](img/mania.png?20230902 "значок osu!mania completionist")
 
 ## Подтверждённые комплишионисты
 
