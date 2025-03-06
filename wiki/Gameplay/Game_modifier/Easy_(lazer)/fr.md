@@ -18,7 +18,7 @@ tags:
 *![][osu!] Cercles plus larges, barre de vie plus indulgente, moins de précision nécessaire, et deux vies supplémentaires !*\
 *![][osu!taiko] Les notes arrivent plus lentement, et moins de précision nécessaire !*\
 *![][osu!catch] Fruits plus larges, barre de vie plus indulgente, moins de précision nécessaire, et deux vies supplémentaires !*\
-*![][osu!mania] Barre de vie plus indulgente, moins de précision requise, et deux vies supplémentaires !*
+*![][osu!mania] Barre de vie plus indulgente, moins de précision nécessaire, et deux vies supplémentaires !*
 
 |  |  |
 | :-- | :-- |
