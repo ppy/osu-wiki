@@ -4,13 +4,13 @@ title: Pending Cup 2024 Results
 date: 2025-03-07 09:00:00 +0800
 ---
 
-The longest running annual beatmapping contest is back, and it's now on the big stage!
+The longest-running annual beatmapping contest closes its doors and is ready to present its victors!
 
 ![](/wiki/Contests/PDC/2024/img/banner.jpg)
 
-The 12th iteration of Pending Cup has concluded! This year, with a total of 80 entries across three tracks, makes PDC 2024 one of, if not the most exciting, community mapping contests ever!
+The 12th iteration of Pending Cup has concluded! This year, with a total of 79 entries across three tracks, makes PDC 2024 one of, if not the most exciting, community mapping contests ever!
 
-In case you have missed it. The Pending Cup is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). Through the past years, the Pending Cup has always been a means of encouraging creative mapping and finding new talent across the entire mapping community, and it will always be the core value of the contest.
+This contest was [announced back in August](https://osu.ppy.sh/home/news/2024-08-25-pending-cup-2024). In case you missed it, The Pending Cup is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). Through the past years, the Pending Cup has always been a means of encouraging creative mapping and finding new talent across the entire mapping community, and it will always be the core value of the contest.
 
 With that all set, let's dive into the results of each track!
 
