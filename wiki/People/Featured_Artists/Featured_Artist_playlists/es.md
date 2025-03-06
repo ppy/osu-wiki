@@ -1,8 +1,6 @@
 ---
 tags:
   - FA
-outdated_translation: true
-outdated_since: e953687ef4c8b100ef19fe21eb3ce288f88bf98e
 ---
 
 # Listas de juego de artistas destacados
@@ -11,9 +9,9 @@ Las **listas de juego de artistas destacados** se publican en [osu!(lazer)](/wik
 
 ![Sala de una lista de juego de artistas destacados](img/playlist.jpg "osu!(lazer) Sala de una lista de juego de artistas destacados")
 
-Accede a las listas de reproducción a través del menú para jugar en osu!(lazer) y filtrando por **Featured Artist** en la esquina superior derecha.
+Accede a las listas de juego a través del menú para jugar en osu!(lazer) y filtrando por **Featured Artist** en la esquina superior derecha.
 
-![Listado de listas de juego de artistas destacados](img/playlist-listing.jpg)
+![Listado de las listas de juego de artistas destacados](img/playlist-listing.jpg)
 
 ## Premios
 
@@ -229,7 +227,7 @@ Para obtener detalles completos de las listas de juego, consulta el [listado de 
 - Todos los modos de juego
 - Se requiere el mod [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden)
 - Opción de [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) y [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) como mods libres
-- Premios recompensados ​​a los 3 mejores jugadores en cada lista de juego
+- Premios para los 3 mejores jugadores de cada lista de juego
 
 ### Julio de 2022
 
@@ -237,41 +235,47 @@ Para obtener detalles completos de las listas de juego, consulta el [listado de 
 - Todos los modos de juego
 - 15 intentos permitidos en todos los elementos de la lista de juego
 - Opción de [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) y [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) como mods libres
-- Premios otorgados al 0,5 % de los mejores jugadores en cada lista de juego
+- Premios para el 0,5 % de los mejores jugadores de cada lista de juego
 
 ### Septiembre de 2022
 
-- Los 8 mejores beatmaps del [concurso triangles Beatmapping](/wiki/Contests/triangles_Beatmapping_Contest) con premios separados
+- Los 8 mejores beatmaps del [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) con premios separados
 - Solo aplicable al modo de juego osu!
 
 ### Marzo de 2023
 
-- Los 8 mejores beatmaps del [concurso Twin Trials](/wiki/Contests/Twin_Trials_Contest) con premios separados
+- Los 8 mejores beatmaps del [Twin Trials Contest](/wiki/Contests/Twin_Trials_Contest) con premios separados
 - Todos los modos de juego
 
 ### Mayo de 2023
 
 - 6 beatmaps de los lanzamientos de artistas destacados de mayo de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - Solo aplicable a los modos de juego osu! y osu!mania
-- [Premios otorgados](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa) con modificaciones relacionadas con los cambios en el algoritmo de puntuación, como se explica en el anuncio de los resultados
+- [Premios](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa), con modificaciones relacionadas con los cambios en el algoritmo de puntuación, tal y como se explica en el anuncio de los resultados
 
 ### Junio/Julio de 2023
 
 - 6 beatmaps de los lanzamientos de artistas destacados de junio y julio de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - Todos los modos de juego
-- [Premios otorgados](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa)
+- [Premios](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa)
 
 ### Agosto de 2023
 
 - 6 beatmaps de los lanzamientos de artistas destacados de agosto de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - Solo aplicable a los modos de juego osu!, osu!taiko y osu!mania
-- [Premios otorgados](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa)
+- [Premios](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa)
 
 ### Septiembre/Octubre de 2023
 
 - 6 beatmaps de los lanzamientos de artistas destacados de septiembre y octubre de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - Todos los modos de juego
-- Premios otorgados según la [clasificación acumulativa](#clasificación-acumulativa)
+- Premios según la [clasificación acumulativa](#clasificación-acumulativa)
+
+### Diciembre de 2024
+
+- Los 5 mejores beatmaps del [Monthly Beatmapping Contest de diciembre de 2024](https://osu.ppy.sh/home/news/2025-02-17-monthly-beatmapping-contest-february-2025)
+- Solo aplicable a los modos de juego osu! y osu!mania
+- Premios según la [clasificación acumulativa](#clasificación-acumulativa)
 
 ## Notas
 
