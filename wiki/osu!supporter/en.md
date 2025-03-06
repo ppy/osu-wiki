@@ -165,10 +165,7 @@ The giver can also hide this event from their own profile by ticking `Hide all o
 
 Additionally, both the giver and the recipient will receive email notifications mentioning the purchase.
 
-## References
-
-[^pending-beatmaps-ref]: [Forum post by peppy (2021-09-14) in "Increase the number of pending beatmap slots"](https://osu.ppy.sh/community/forums/posts/8294132)
-
 ## Notes
 
+[^pending-beatmaps-ref]: [Forum post by peppy (2021-09-14) in "Increase the number of pending beatmap slots"](https://osu.ppy.sh/community/forums/posts/8294132)
 [^team-size-note]: Each supporter will add 4 slots to their team's base size of 8, up to a cap of 256.
