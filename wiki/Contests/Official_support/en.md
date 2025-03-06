@@ -31,6 +31,9 @@ Contests which abide by the following criteria are eligible for official support
 - **The contest must meet either of these criteria:**
   - The contest is organised and run by an experienced team of accomplished and reputable staff, as decided by the osu! team.
   - The contest has successfully run for one iteration without official support.
+- The forum threads associated with the tournament MUST contain a clearly visible link in a normal-sized font to the tournament reports form as the very last content of the original post.
+- **The forum threads associated with the contest MUST contain a clearly visible and accessible link to the contest reports form.** The link must be placed at the bottom of the original post.
+  - `https://tcomm.hivie.tn/reports/create`
 - **The contest must have a clearly defined set of rules.**
 - **The contest must accept submissions for only one game mode.** Most users specialise in one game mode, so it is not reliable to evaluate mapping quality across multiple game modes.
 - **For solo osu! contests, there should be at least 15 valid submissions.**[^exception-note]
