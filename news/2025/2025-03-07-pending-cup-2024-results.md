@@ -1,0 +1,97 @@
+---
+layout: post
+title: Pending Cup 2024 Results
+date: 2025-03-07 00:00:00 +0800
+---
+
+The longest running annual beatmapping contest is back, and it's now on the big stage!
+
+![](https://serocious.s-ul.eu/5xrYmTt0)
+
+The 12th iteration of Pending Cup has concluded! This year, with a total of 80 entries across three tracks, makes PDC 2024 one of, if not the most exciting, community mapping contests ever!
+
+In case you have missed it. The Pending Cup is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). Through the past years, the Pending Cup has always been a means of encouraging creative mapping and finding new talent across the entire mapping community, and it will always be the core value of the contest.
+
+With that all set, let's dive into the results of each track!
+
+![](https://pendingcup.s-ul.eu/images/mEMYD1Bp)
+
+### Vocal Track Winner - [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-7p_vDtaWkY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+> *very cool use of symmetry and linear patterning at just the right places, digging this
+---- enneya*
+
+> *Very charming work. I love the change in circle radius sharpness idea to emphasize sounds in the song. Map is kinda circular but it wasnt monotonic due to this. Solid work
+---- Reioli*
+
+Check out [this recently ranked mapset](https://osu.ppy.sh/beatmapsets/2301820) with entries from [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Shijie](https://osu.ppy.sh/users/10927454), [Plus4j](https://osu.ppy.sh/users/4086497) and [Koiyuki](https://osu.ppy.sh/users/2433507) included hosted by [iBell](https://osu.ppy.sh/users/4298072) for a fun rhythm challenge!
+
+### Instrumental Track Winner - [William K](https://osu.ppy.sh/users/2261651)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YvQjcc47qJ8" frameborder="0" allowfullscreen></iframe>
+</div>
+
+> *00:39:533 - you won me over with this section. fantastic use of rotation and phrasing
+---- captin1*
+
+> *awesome entry. simple and clear structure.
+---- Firika*
+
+Words cannot describe how fast-paced this experience would be, make sure to try [the map](https://osu.ppy.sh/beatmapsets/2302426) yourself to truly feel the intensity!
+
+### Featured Artist Track Winner - [Matsuyuki Ame](https://osu.ppy.sh/users/12763959)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/PYMimfOwx5Y" frameborder="0" allowfullscreen></iframe>
+</div>
+
+> *This is one of the few standout works in the song, definitely one of my top entries in my mind
+---- Fycho*
+
+> *Impressive. Nothing much to say.
+---- pw384*
+
+Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4926360) by [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) yourself to truly experience the epic renaissance hardcore, along with entries by [Luval](https://osu.ppy.sh/users/22414293), [[W]hiteRBQ 033](https://osu.ppy.sh/users/8678443), and [Saki](https://osu.ppy.sh/users/3420746)!
+
+---
+
+### Track Prizes
+
+Every track finalist will receive the following prizes!
+
+| Placement | Prizes |
+| :-: | :-- |
+| 1st | **$75 USD**, **12** months of osu! supporter, [*Elite Mapper* contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) **+2**, *Track Winner* profile badge |
+| 2nd | **$35 USD**, **6** months of osu! supporter, [*Elite Mapper* contest point](https://osu.ppy.sh/wiki/en/Contests/Contest_points) **+1** |
+| 3rd | **$15 USD**, **4** months of osu! supporter |
+
+![](https://pendingcup.s-ul.eu/images/J3Hamy5G)
+
+---
+
+### Grand Prizes
+
+![](https://pendingcup.s-ul.eu/images/H3goiW2g)
+
+Finalists with the **highest points** out of the **3** tracks will receive special separate **grand prizes** as well!
+
+| Placement | Prizes |
+| :-: | :-- |
+| 1st | **Wooting 60HE+** (courtesy of [Ttmnzk](https://osu.ppy.sh/users/2495509)), custom Pending Cup 2024 physical badges and sticker set |
+| 2nd | **[osu! deskmat](https://osu.ppy.sh/store/products/1347)** of your choice (courtesy of [Chaoslitz](https://osu.ppy.sh/users/3621552)), custom Pending Cup 2024 physical badges and sticker set |
+| 3rd | Custom Pending Cup 2024 physical badges and sticker set |
+
+---
+
+For detailed scoring and judging, please check the Mappers' Guild contest listing [here](https://mappersguild.com/contests/results?contest=66be99c3e1f8c3da9e8a995b) for the full results.
+
+At the same time, another mapping contest [Newspaper Cup 2025](https://osu.ppy.sh/home/news/2025-01-29-newspaper-cup-2025) is currently ongoing, so make sure to check it out as well!
+
+Congratulations to all the winners, and thank you to everyone who participated and supported, see you next year!
+
+—Chaoslitz, seros & Elayue
