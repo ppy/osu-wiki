@@ -14,6 +14,8 @@ In case you have missed it. The Pending Cup is originally a Chinese mapping cont
 
 With that all set, let's dive into the results of each track!
 
+## Results
+
 ![](https://pendingcup.s-ul.eu/images/mEMYD1Bp)
 
 ### Vocal track winner - [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
@@ -66,6 +68,8 @@ Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4
 
 ### Track prizes
 
+![](https://pendingcup.s-ul.eu/images/J3Hamy5G)
+
 Every track finalist will receive the following prizes!
 
 | Placement | Prizes |
@@ -73,8 +77,6 @@ Every track finalist will receive the following prizes!
 | 1st | **$75 USD**, **12** months of osu! supporter, [*Elite Mapper* contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) **+2**, *Track Winner* profile badge |
 | 2nd | **$35 USD**, **6** months of osu! supporter, [*Elite Mapper* contest point](https://osu.ppy.sh/wiki/en/Contests/Contest_points) **+1** |
 | 3rd | **$15 USD**, **4** months of osu! supporter |
-
-![](https://pendingcup.s-ul.eu/images/J3Hamy5G)
 
 ### Grand prizes
 
