@@ -18,7 +18,9 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 ### ✅ Star rating recalculation
 
-Unlike previous runs, we've updated all star ratings in the background, maintaining a separate copy. These will go live in the near future.
+Unlike previous runs, we've updated all star ratings in the background, maintaining a separate copy.
+
+These will be going live imminently and be used for all PP calculations and SR displays. osu! stable and lazer updates will also be pushed out today to update client-side calculations.
 
 ### 🏃 Reprocess performance values of negligible scores (1 - 2 days)
 
