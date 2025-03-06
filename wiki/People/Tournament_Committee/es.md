@@ -4,6 +4,8 @@ tags:
   - Contest Committee
   - CC
   - Comité de concursos
+outdated_translation: true
+outdated_since: 89722a56c74c20810e1fa8b375de1042def7971e
 ---
 
 # Comité de torneos
@@ -20,7 +22,7 @@ Las responsabilidades del comité de torneos incluyen asesorar al [equipo de sop
 Además, el comité de torneos desempeña las siguientes funciones independientemente del equipo de soporte de cuentas:
 
 - Revisar regularmente la página de [soporte oficial para torneos](/wiki/Tournaments/Official_support) para realizar alguna modificación necesaria.
-- Investigar los reportes del [formulario de reportes de torneos](https://pif.ephemeral.ink/tournament-reports).
+- Investigar los reportes del [formulario de reportes de torneos](https://tcomm.hivie.tn/reports/create).
 - Comprobar si los torneos finalizados que hayan solicitado soporte oficial cumplen sus criterios.
 - Asesorar al equipo de noticias de osu! sobre si se debe hacer una [noticia](/wiki/Tournaments/Official_support#solicitar-soporte-para-banners-dentro-del-juego-y-noticias) para el torneo.
 - Mantener la comunicación con la base de jugadores en general sobre los cambios en los criterios de soporte oficial y el estado de todos los torneos que hayan solicitado soporte oficial.
@@ -62,7 +64,7 @@ Una vez que un torneo ha finalizado y ha solicitado un premio en forma de insign
 
 Los miembros asignados indicarán los torneos que superen el proceso de revisión como aptos para recibir insignias. El equipo de soporte de cuentas aplicará las insignias más adelante a los perfiles de los ganadores. Si un torneo no pasa el proceso de revisión, los miembros revisores podrán informar al equipo de soporte de cuentas sobre los cambios que deben comunicarse a los organizadores del torneo. Si estos cambios no son posibles una vez finalizado el torneo, el comité de torneos realizará una votación anónima para decidir si retira el soporte oficial.
 
-Los torneos pueden ser reportados por violación de los criterios oficiales de soporte a través del [formulario de reportes](https://pif.ephemeral.ink/tournament-reports). Para los torneos finalizados que hayan enviado un correo electrónico de soporte, el comité de torneos tomará el siguiente curso de acción si hay reportes procesables:
+Los torneos pueden ser reportados por violación de los criterios oficiales de soporte a través del [formulario de reportes](https://tcomm.hivie.tn/reports/create). Para los torneos finalizados que hayan enviado un correo electrónico de soporte, el comité de torneos tomará el siguiente curso de acción si hay reportes procesables:
 
 - Determinar si los problemas planteados en los reportes incumplen alguno de los criterios oficiales de soporte.
 - Si son lo suficientemente graves como para justificar la toma de medidas, se investigarán los hechos detallados en los reportes para garantizar su validez y reunir contexto adicional.

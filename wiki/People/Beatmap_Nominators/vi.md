@@ -11,7 +11,7 @@ tags:
 
 *Đọc thêm: [Quy tắc của Đề cử viên](Rules), [Tiêu chuẩn riêng dành cho Đề cử viên](Expectations), [Thông tin chung dành cho Đề cử viên](General_Information), và [Trở thành một Đề cử viên](Becoming_a_Beatmap_Nominator)*
 
-**Đội ngũ Đề cử viên** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_group) có đề tên `BN`.
+**Đội ngũ Đề cử viên** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `BN`.
 
 ## Vai trò và trách nhiệm của Đề cử viên
 
@@ -45,7 +45,7 @@ Thành viên mới của Đội ngũ Đề cử viên sẽ được kèm cặp b
 - **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
   ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/BN3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/BN4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/BN5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/BN6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/BN7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/BN8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/BN9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/BN10y.png "Huy hiệu 10 năm")
 - **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số lần đề cử nhất định.
-  ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
+  ![100 đề cử](https://assets.ppy.sh/profile-badges/100_noms.png "100 đề cử") ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
 - **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những Đề cử viên làm tốt vai trò của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
 
 ## Danh sách thành viên
