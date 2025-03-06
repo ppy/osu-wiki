@@ -5,6 +5,7 @@ tags:
   - sliderbody
   - slideranchor
   - objets
+no_native_review: true
 ---
 
 # Slider

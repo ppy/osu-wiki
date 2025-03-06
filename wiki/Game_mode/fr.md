@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: 422698dbf36efb2be8537ab4d319428032966405
+no_native_review: true
 ---
 
 # Modes de jeu

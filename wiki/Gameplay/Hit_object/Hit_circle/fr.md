@@ -2,6 +2,7 @@
 stub: true
 tags:
   - hit objects
+no_native_review: true
 ---
 
 # Hit circle
