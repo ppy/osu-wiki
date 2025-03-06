@@ -35,5 +35,3 @@ Sliders are often mapped to long or held sounds in music, but can be used anywhe
 <!-- TODO: Include Skinnable Property-->
 
 <!-- TODO: Mention Sliderleniency and Slider Art here-->
-
-<!-- TODO: Add links and images-->

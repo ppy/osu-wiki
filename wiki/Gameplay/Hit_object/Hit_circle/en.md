@@ -15,7 +15,3 @@ Hit circles are customisable through [skins](/wiki/Skin), allowing players to mo
 Hit circles are numbered to indicate their order in a combo. Each hit circle is surrounded by an [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) that shrinks around it. Once the approach circle overlaps the hit circle, the player must click or tap the hit circle to earn score. Missing this timing results in a lower score based on how far off the hit was, potentially breaking the combo and reducing the player's health.
 
 ![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit circles")
-
-<!-- TODO: Include Skinnable Property-->
-
-<!-- TODO: Add links and images-->
