@@ -33,11 +33,11 @@ We now need to reprocess all remaining 3 billion scores (this means **any scores
 During this period:
 
 - Scores in the "Best Performance" on user profiles may be **out of order or not be visible at all**.
-- All player total PP, global ranks, country ranks, and profile ranking graphs **will be frozen** in time until we're done reprocessing things. If we didn't freze things, users would question their rank and PP jumping all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
+- All player total PP, global ranks, country ranks, and profile ranking graphs **will be frozen** in time until we're done reprocessing things. If we didn't freeze things, users would question their rank and PP jumping all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
 ### ⏳ Reprocess total PP values for all users (12 hours)
 
-Bring everything back in-line with expectations.
+Bring everything back in line with expectations.
 
 ### ⏳ Re-enabling of global rank history updates
 
