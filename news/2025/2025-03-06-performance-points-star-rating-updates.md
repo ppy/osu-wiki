@@ -59,7 +59,7 @@ There was also a change to uncap velocity constraints that used to exist on the 
 
 As part of this change, the wiggle bonus which used to be part of the acute angle bonus is now applied regardless of BPM — beatmaps with difficult wiggle-like patterns below 300 BPM may receive a (slight) new buff:
 
-![](/wiki/shared/news/2025-01-27-performance-points-star-rating-updates/wiggle-graph.png)
+![](/wiki/shared/news/2025-03-06-performance-points-star-rating-updates/wiggle-graph.png)
 
 Some examples of beatmaps buffed by these changes:
 
@@ -154,7 +154,7 @@ The new skill also uses object density which evaluates how close a note appears 
 
 The combination of effective BPM and density evaluation ensures that fast, spaced-out sections feel accurately represented in the difficulty system while avoiding inflation for simpler sections at high BPM:
 
-![](/wiki/shared/news/2025-01-27-performance-points-star-rating-updates/reading-graph.png)
+![](/wiki/shared/news/2025-03-06-performance-points-star-rating-updates/reading-graph.png)
 
 As part of this change, fixed HR buffs in performance calculations were removed to allow difficulty calculation to handle the difficulty increase.
 
