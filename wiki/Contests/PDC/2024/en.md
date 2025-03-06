@@ -8,11 +8,9 @@ tags:
 
 ![](img/banner.jpg)
 
-The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). This year's contest will be hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552), [seros](https://osu.ppy.sh/users/10562853) and [Elayue](https://osu.ppy.sh/users/6400861).
+The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). This year's contest was hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552), [seros](https://osu.ppy.sh/users/10562853) and [Elayue](https://osu.ppy.sh/users/6400861).
 
 ## Schedule
-
-*Notice: Beatmapping and judging phase deadlines are subject to change.*
 
 | Event | Dates |
 | --: | :-- |
@@ -24,7 +22,7 @@ The **Pending Cup** is originally a Chinese mapping contest, which had its first
 
 ### Track prizes
 
-The contest will have **3** separate **1st to 3rd rankings** for each track. Since only one submission is allowed, there may be a higher chance of winning by picking the track carefully.
+The contest had **3** separate **1st to 3rd rankings** for each track. Since only one submission was allowed, there may have been a higher chance of winning by picking the track carefully.
 
 | Placement | Prizes |
 | :-: | :-- |
@@ -34,7 +32,7 @@ The contest will have **3** separate **1st to 3rd rankings** for each track. Sin
 
 ### Grand prizes
 
-For the winner with the **highest points** out of the **3** tracks, there is a special **grand prize** section.
+For the winner with the **highest points** out of the **3** tracks, there was a special **grand prize** section.
 
 | Placement | Prizes |
 | :-: | :-- |
@@ -64,7 +62,7 @@ Besides that, there will be two lucky draws of 1 month of osu! supporter for any
 
 ## Songs
 
-This year includes two non-FA songs as part of the song list, which also means a revisit to a previous Pending Cup format of having **3** different categories of tracks: **Vocal**, **Instrumental**, and **Featured Artist**.
+This year included two non-FA songs as part of the song list, which also means a revisit to a previous Pending Cup format of having **3** different categories of tracks: **Vocal**, **Instrumental**, and **Featured Artist**.
 
 | Category | Song | Beatmap template |
 | --: | :-- | :-- |
