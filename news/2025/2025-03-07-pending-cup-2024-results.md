@@ -6,7 +6,7 @@ date: 2025-03-07 09:00:00 +0800
 
 The longest running annual beatmapping contest is back, and it's now on the big stage!
 
-![](https://serocious.s-ul.eu/5xrYmTt0)
+![](/wiki/Contests/PDC/2024/img/banner.jpg)
 
 The 12th iteration of Pending Cup has concluded! This year, with a total of 80 entries across three tracks, makes PDC 2024 one of, if not the most exciting, community mapping contests ever!
 
@@ -16,7 +16,7 @@ With that all set, let's dive into the results of each track!
 
 ## Results
 
-![](https://pendingcup.s-ul.eu/images/mEMYD1Bp)
+![](/wiki/shared/news/2025-03-07-pending-cup-2024-results/finalists.jpg)
 
 ### Vocal track winner - [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 
@@ -68,7 +68,7 @@ Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4
 
 ### Track prizes
 
-![](https://pendingcup.s-ul.eu/images/J3Hamy5G)
+![](/wiki/shared/news/2025-03-07-pending-cup-2024-results/badge-designs.jpg)
 
 Every track finalist will receive the following prizes!
 
@@ -80,7 +80,7 @@ Every track finalist will receive the following prizes!
 
 ### Grand prizes
 
-![](https://pendingcup.s-ul.eu/images/H3goiW2g)
+![](/wiki/shared/news/2025-03-07-pending-cup-2024-results/grand-prizes.jpg)
 
 Finalists with the **highest points** out of the **3** tracks will receive special separate **grand prizes** as well!
 
