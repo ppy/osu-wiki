@@ -47,19 +47,11 @@ Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **ya
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Tampilan performance point yang akurat | ![Partial][partial][^online] | ![Yes][true] |
-| Penyesuaian tingkat kesulitan | ![No][false] | ![Yes][true][^difficulty-adjust] |
-| Preset mod | ![No][false] | ![Yes][true] |
-| Pengaturan per mod | ![No][false] | ![Yes][true] |
-| Mod "hiburan" baru | ![No][false] | ![Yes][true] |
-| Normalisasi warna kombo[^normalisation] | ![No][false] | ![Yes][true] |
-| Tampilan jemala (HUD) yang dapat dimunculkan dengan menahan tombol | ![No][false] | ![Yes][true][^hold-for-hud] |
-| Kalibrasi offset per beatmap | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
-| Slider yang ikut berkelok pada saat dimainkan | ![No][false] | ![Yes][true][^can-disable] |
-| Sistem "note lock" yang ramah pemain | ![No][false] | ![Yes][true][^note-lock] |
-| Warna not osu! dan osu!mania yang berdasar pada waktu | ![No][false] | ![Yes][true] |
-| Pencarian momen tayangan ulang | ![No][false] | ![Yes][true] |
-| Komentar beatmap yang bergulir ala situs [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Yes][true] | ![No][false] |
+| Tampilan storyboard pada menu utama | ![No][false] | ![Yes][true][^supporter] |
+| Pilihan untuk menyembunyikan tingkat kesulitan | ![No][false] | ![Yes][true] |
+| Pedoman pengaturan dasar | ![No][false] | ![Yes][true] |
+| Penghapusan lunak (_soft deletion_) | ![No][false] | ![Yes][true][^soft-deletion] |
+| Pengaturan yang dapat dirubah secara instan di dalam permainan | ![No][false] | ![Yes][true] |
 
 ### Permainan
 
