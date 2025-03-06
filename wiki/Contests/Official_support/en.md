@@ -24,6 +24,28 @@ Officially supported contests have access to certain benefits:
 - **Progress towards *Elite Mapper* user title.** See [contest points](/wiki/Contests/Contest_points) for more details.
 - **Potential consideration for [news coverage](#news-posts)**.
 
+## Expectations
+
+Contest organisers are expected to monitor their contest for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
+
+### Contests
+
+Community-run contests receiving this support are expected to abide by the following general ideals:
+
+- Remain free and fair.
+- Be as transparent as possible.
+- Preserve competitive integrity.
+- Encourage good sportsmanship.
+
+In addition, all promotional material or any services associated with a contest receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
+
+### Additional expectations
+
+While the following expectations mainly apply to tournaments, contests are still expected to abide by them to the best of their ability:
+
+- [Staff](/wiki/Tournaments/Official_support#staff)
+- [Players](/wiki/Tournaments/Official_support#players)
+
 ## Eligibility
 
 Contests which abide by the following criteria are eligible for official support for **profile badges**:
