@@ -95,6 +95,7 @@ osu! offers more relaxed limits on various online features to supporters:
 | Value | Regular limit | osu!supporter limit |
 | :-- | :-: | :-: |
 | [Pending beatmaps](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(ranked beatmaps, 4)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
+| Team size | 8 | `8 + 4 * supporters` up to **256**[^team-size-note] |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 500 | 1000 |
 
@@ -167,3 +168,7 @@ Additionally, both the giver and the recipient will receive email notifications 
 ## References
 
 [^pending-beatmaps-ref]: [Forum post by peppy (2021-09-14) in "Increase the number of pending beatmap slots"](https://osu.ppy.sh/community/forums/posts/8294132)
+
+## Notes
+
+[^team-size-note]: Each supporter will add 4 slots to their team's base size of 8, up to a cap of 256.
