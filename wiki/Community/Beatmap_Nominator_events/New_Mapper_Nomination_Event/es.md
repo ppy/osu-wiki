@@ -3,15 +3,15 @@ tags:
   - BN mug
 ---
 
-# Evento de Nominación para Mappers Nuevos
+# New Mapper Nomination Event
 
-El **Evento de Nominación para Mappers Nuevos** se llevó a cabo entre **marzo 1** y **mayo 31**, 2021.
+El **New Mapper Nomination Event** se llevó a cabo entre el **1 de marzo** y el **31 de mayo** de 2021.
 
 Durante el evento, se les encargó a los Beatmap Nominators clasificar mapas de usuarios que nunca habían clasificado un mapa antes el modo de juego de su elección. Solo los mapas [calificados](/wiki/Beatmap_ranking_procedure#calificación) durante el evento eran elegibles para ser nominados.
 
 ## Recompensas
 
-Los nominadores que rankearon **al menos 4 mapas** durante el evento, fueron previstos con 1 mes de [Discord Nitro](https://discord.com/nitro). Además, los 4 nominadores en el top general atreves de todos los modos de juego y el top 1 en cada modo de juego recibieron una taza de BN exclusiva y una emblema para acompañarla.
+Los nominadores que clasificaron **al menos 4 mapas** durante el evento, recibieron 1 mes de [Discord Nitro](https://discord.com/nitro). Además, los 4 mejores nominadores en todos los modos de juego y el mejor en cada modo de juego recibieron una taza de BN exclusiva y una insignia para acompañarla.
 
 ![Top Nominator badge reward](https://assets.ppy.sh/profile-badges/BNevent2021@2x.png "Top Nominator emblema de recompensa")
 
