@@ -13,11 +13,11 @@ Durante el evento, se les encargó a los Beatmap Nominators clasificar mapas de 
 
 Los nominadores que clasificaron **al menos 4 mapas** durante el evento, recibieron 1 mes de [Discord Nitro](https://discord.com/nitro). Además, los 4 mejores nominadores en todos los modos de juego y el mejor en cada modo de juego recibieron una taza de BN exclusiva y una insignia para acompañarla.
 
-![Top Nominator badge reward](https://assets.ppy.sh/profile-badges/BNevent2021@2x.png "Top Nominator emblema de recompensa")
+![Insignia de recompensa de Top Nominator](https://assets.ppy.sh/profile-badges/BNevent2021@2x.png "Insignia de recompensa de Top Nominator")
 
-![Top Nominator mug reward](img/mug.jpg "Top Nominator taza de recompensa")
+![Taza de recompensa de Top Nominator](img/mug.jpg "Taza de recompensa de Top Nominator")
 
-## Primeras posiciones
+## Primeros puestos
 
 ### Todos los modos de juego
 
