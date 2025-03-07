@@ -14,7 +14,7 @@ Lazer dikembangkan dengan tujuan akhir untuk dapat dirilis sebagai pembaruan yan
 
 ## Perbandingan fitur
 
-*Untuk daftar perbandingan seputar mekanika permainan, lihat: [Perbedaan permainan di osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!\(lazer\))*
+*Untuk daftar perbandingan seputar mekanika permainan, lihat: [Perbedaan permainan di osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **yang ada saat ini** dengan stable. Mohon diperhatikan bahwa daftar ini tidak bersifat tetap — tujuan akhir dari pengembangan lazer adalah untuk menerapkan seluruh fitur yang diinginkan oleh pemain seiring waktunya.
 
@@ -132,7 +132,7 @@ Saat ini, beatmap, skin, skor, tayangan ulang, dan koleksi sudah dapat diimpor k
 
 #### Apabila saya mengimpor beatmap saya ke lazer, apakah ruang penyimpanan yang terpakai akan berlipat ganda?
 
-Apabila lazer dan stable terpasang pada drive yang sama, osu! akan menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) untuk mencegah terpakainya ruang penyimpanan tambahan.
+Apabila lazer dan stable terpasang pada drive yang sama, osu! akan menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#dengan-*hard-link*) untuk mencegah terpakainya ruang penyimpanan tambahan.
 
 Apabila tidak, ruang penyimpanan yang digunakan akan berlipat ganda.
 
