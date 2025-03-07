@@ -209,7 +209,7 @@ Star rating for convert beatmaps have been improved, thanks to a [set](https://g
 
 A [change](https://github.com/ppy/osu/pull/31126) proposed by [bastoo0](https://osu.ppy.sh/users/4864877) has been created in order to ensure "buzz sliders" are treated correctly.
 
-A "buzz slider", to borrow osu! mode terminology, is a rapid back-and-forth juice stream with a width smaller than the size of the catcher, but still large enough to be counted as a movement. This resulted in difficulty calculations interpreting the pattern as a very fast movement instead of a stand-still pattern. Back-and-forth movements caused by these streams are now detected and no longer award excessive difficulty. This most notably affects beatmaps such as [100 gecs - hand crushed by a mullet [g3X_x_Xtr^@]](https://osu.ppy.sh/beatmapsets/1253992#fruits/3208604).
+A "buzz slider", to borrow osu! mode terminology, is a rapid back-and-forth juice stream with a width smaller than the size of the catcher, but still large enough to be counted as a movement. This resulted in difficulty calculations interpreting the pattern as a very fast movement instead of a stand-still pattern. Back-and-forth movements caused by these streams are now detected and no longer award excessive difficulty. This most notably affects beatmaps such as [100 gecs - hand crushed by a mallet [g3X_x_Xtr^@]](https://osu.ppy.sh/beatmapsets/1253992#fruits/3208604).
 
 ---
 
