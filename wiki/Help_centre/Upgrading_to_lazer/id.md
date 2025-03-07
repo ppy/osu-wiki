@@ -14,7 +14,7 @@ Lazer dikembangkan dengan tujuan akhir untuk dapat dirilis sebagai pembaruan yan
 
 ## Perbandingan fitur
 
-_Untuk daftar perbandingan seputar mekanika permainan, lihat: [Perbedaan permainan di osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!\(lazer\))_
+*Untuk daftar perbandingan seputar mekanika permainan, lihat: [Perbedaan permainan di osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!\(lazer\))*
 
 Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **yang ada saat ini** dengan stable. Mohon diperhatikan bahwa daftar ini tidak bersifat tetap — tujuan akhir dari pengembangan lazer adalah untuk menerapkan seluruh fitur yang diinginkan oleh pemain seiring waktunya.
 
@@ -22,95 +22,95 @@ Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **ya
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Dukungan untuk Windows 8.0 dan lebih rendah | ![Yes][true] | ![No][false] |
-| Dukungan untuk macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
-| Dukungan DirectX / Metal | ![Partial][partial][^compatibility-mode] | ![Yes][true] |
-| Dukungan untuk perangkat mobile | ![No][false] | ![Yes][true] |
-| Arsitektur mulithread | ![No][false] | ![Yes][true] |
-| Pemutaran video yang diakselerasi oleh hardware | ![No][false] | ![Yes][true] |
-| Penyesuaian skala UI | ![No][false] | ![Yes][true] |
-| Ruleset (mode permainan) khusus | ![No][false] | ![Partial][partial][^dll] |
-| Penyimpanan berkas yang tidak saling tumpang tindih | ![No][false] | ![Yes][true][^share-files] |
-| Penyesuaian area tablet | ![No][false] | ![Yes][true] |
-| Dukungan untuk berbagai rasio aspek | ![No][false] | ![Yes][true] |
+| Dukungan untuk Windows 8.0 dan lebih rendah | ![Ya][true] | ![Tidak][false] |
+| Dukungan untuk macOS / Linux | ![Parsial][partial][^wine] | ![Ya][true] |
+| Dukungan DirectX / Metal | ![Parsial][partial][^compatibility-mode] | ![Ya][true] |
+| Dukungan untuk perangkat mobile | ![Tidak][false] | ![Ya][true] |
+| Arsitektur mulithread | ![Tidak][false] | ![Ya][true] |
+| Pemutaran video yang diakselerasi oleh hardware | ![Tidak][false] | ![Ya][true] |
+| Penyesuaian skala UI | ![Tidak][false] | ![Ya][true] |
+| Ruleset (mode permainan) khusus | ![Tidak][false] | ![Parsial][partial][^dll] |
+| Penyimpanan berkas yang tidak saling tumpang tindih | ![Tidak][false] | ![Ya][true][^share-files] |
+| Penyesuaian area tablet | ![Tidak][false] | ![Ya][true] |
+| Dukungan untuk berbagai rasio aspek | ![Tidak][false] | ![Ya][true] |
 
 ### UI dan skin
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Dukungan skin | ![Yes][true] | ![Partial][partial][^gameplay-only] |
-| Pengelompokan lagu berdasarkan kategori tertentu | ![Yes][true] | ![No][false] |
-| Penyuntingan tata letak skin / UI dari dalam permainan | ![No][false] | ![Yes][true] |
-| Komponen skin yang dinamis dan mudah disesuaikan | ![No][false] | ![Yes][true] |
+| Dukungan skin | ![Ya][true] | ![Parsial][partial][^gameplay-only] |
+| Pengelompokan lagu berdasarkan kategori tertentu | ![Ya][true] | ![Tidak][false] |
+| Penyuntingan tata letak skin / UI dari dalam permainan | ![Tidak][false] | ![Ya][true] |
+| Komponen skin yang dinamis dan mudah disesuaikan | ![Tidak][false] | ![Ya][true] |
 
 ### Antarmuka
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Tampilan storyboard pada menu utama | ![No][false] | ![Yes][true][^supporter] |
-| Pilihan untuk menyembunyikan tingkat kesulitan | ![No][false] | ![Yes][true] |
-| Pedoman pengaturan dasar | ![No][false] | ![Yes][true] |
-| Penghapusan lunak (_soft deletion_) | ![No][false] | ![Yes][true][^soft-deletion] |
-| Pengaturan yang dapat dirubah secara instan di dalam permainan | ![No][false] | ![Yes][true] |
+| Tampilan storyboard pada menu utama | ![Tidak][false] | ![Ya][true][^supporter] |
+| Pilihan untuk menyembunyikan tingkat kesulitan | ![Tidak][false] | ![Ya][true] |
+| Pedoman pengaturan dasar | ![Tidak][false] | ![Ya][true] |
+| Penghapusan lunak (*soft deletion*) | ![Tidak][false] | ![Ya][true][^soft-deletion] |
+| Pengaturan yang dapat dirubah secara instan di dalam permainan | ![Tidak][false] | ![Ya][true] |
 
 ### Permainan
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Tampilan performance point yang akurat | ![Partial][partial][^online] | ![Yes][true] |
-| Penyesuaian tingkat kesulitan | ![No][false] | ![Yes][true][^difficulty-adjust] |
-| Preset mod | ![No][false] | ![Yes][true] |
-| Pengaturan per mod | ![No][false] | ![Yes][true] |
-| Mod "hiburan" baru | ![No][false] | ![Yes][true] |
-| Normalisasi warna kombo[^normalisation] | ![No][false] | ![Yes][true] |
-| Tampilan jemala (HUD) yang dapat dimunculkan dengan menahan tombol | ![No][false] | ![Yes][true][^hold-for-hud] |
-| Kalibrasi offset per beatmap | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
-| Slider yang ikut berkelok pada saat dimainkan | ![No][false] | ![Yes][true][^can-disable] |
-| Sistem "note lock" yang ramah pemain | ![No][false] | ![Yes][true][^note-lock] |
-| Warna not osu! dan osu!mania yang berdasar pada waktu | ![No][false] | ![Yes][true] |
-| Pencarian momen tayangan ulang | ![No][false] | ![Yes][true] |
-| Komentar beatmap yang bergulir ala situs [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Yes][true] | ![No][false] |
+| Tampilan performance point yang akurat | ![Parsial][partial][^online] | ![Ya][true] |
+| Penyesuaian tingkat kesulitan | ![Tidak][false] | ![Ya][true][^difficulty-adjust] |
+| Preset mod | ![Tidak][false] | ![Ya][true] |
+| Pengaturan per mod | ![Tidak][false] | ![Ya][true] |
+| Mod "hiburan" baru | ![Tidak][false] | ![Ya][true] |
+| Tidakrmalisasi warna kombo[^normalisation] | ![Tidak][false] | ![Ya][true] |
+| Tampilan jemala (HUD) yang dapat dimunculkan dengan menahan tombol | ![Tidak][false] | ![Ya][true][^hold-for-hud] |
+| Kalibrasi offset per beatmap | ![Parsial][partial][^offset-calibration-stable] | ![Ya][true][^offset-calibration-lazer] |
+| Slider yang ikut berkelok pada saat dimainkan | ![Tidak][false] | ![Ya][true][^can-disable] |
+| Sistem "note lock" yang ramah pemain | ![Tidak][false] | ![Ya][true][^note-lock] |
+| Warna not osu! dan osu!mania yang berdasar pada waktu | ![Tidak][false] | ![Ya][true] |
+| Pencarian momen tayangan ulang | ![Tidak][false] | ![Ya][true] |
+| Komentar beatmap yang bergulir ala situs [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Ya][true] | ![Tidak][false] |
 
 ### Sistem online
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Pengiriman skor | ![Yes][true] | ![Yes][true] |
-| Papan peringkat beatmap | ![Yes][true] | ![Yes][true] |
-| Statistik profil | ![Yes][true] | ![Yes][true] |
-| Medali | ![Yes][true] | ![Partial][partial][^medals-lazer] |
-| Performance point | ![Yes][true] | ![Yes][true] |
-| Percakapan yang berlangsung secara real-time | ![Partial][partial][^stable-chat] | ![Yes][true] |
-| Halaman wiki / berita / riwayat perubahan / peringkat | ![No][false] | ![Yes][true][^online-content] |
-| Profil pengguna | ![No][false] | ![Yes][true] |
-| Daftar beatmap | ![Partial][partial][^direct-supporter] | ![Yes][true] |
-| Ruangan multiplayer tanpa batas ukuran | ![No][false][^multi-room-max] | ![Yes][true] |
-| Ruangan multiplayer yang dapat ditonton | ![No][false] | ![Yes][true] |
-| Waktu hitungan mundur | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
-| Antrean beatmap | ![No][false] | ![Yes][true][^queue-modes] |
-| Pertandingan multiplayer mode freestyle | ![No][false] | ![Yes][true][^freestyle] |
-| Perintah multiplayer | ![Yes][true] | ![No][false] |
-| Pertandingan multiplayer mode tag co-op | ![Yes][true] | ![No][false] |
-| Playlist (papan peringkat yang dikurasi pengguna) | ![No][false] | ![Yes][true] |
-| Memperbarui beatmap ke versi terbaru secara online | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
+| Pengiriman skor | ![Ya][true] | ![Ya][true] |
+| Papan peringkat beatmap | ![Ya][true] | ![Ya][true] |
+| Statistik profil | ![Ya][true] | ![Ya][true] |
+| Medali | ![Ya][true] | ![Parsial][partial][^medals-lazer] |
+| Performance point | ![Ya][true] | ![Ya][true] |
+| Percakapan yang berlangsung secara real-time | ![Parsial][partial][^stable-chat] | ![Ya][true] |
+| Halaman wiki / berita / riwayat perubahan / peringkat | ![Tidak][false] | ![Ya][true][^online-content] |
+| Profil pengguna | ![Tidak][false] | ![Ya][true] |
+| Daftar beatmap | ![Parsial][partial][^direct-supporter] | ![Ya][true] |
+| Ruangan multiplayer tanpa batas ukuran | ![Tidak][false][^multi-room-max] | ![Ya][true] |
+| Ruangan multiplayer yang dapat ditonton | ![Tidak][false] | ![Ya][true] |
+| Waktu hitungan mundur | ![Parsial][partial][^countdown-timers-stable] | ![Ya][true][^countdown-timers-lazer] |
+| Antrean beatmap | ![Tidak][false] | ![Ya][true][^queue-modes] |
+| Pertandingan multiplayer mode freestyle | ![Tidak][false] | ![Ya][true][^freestyle] |
+| Perintah multiplayer | ![Ya][true] | ![Tidak][false] |
+| Pertandingan multiplayer mode tag co-op | ![Ya][true] | ![Tidak][false] |
+| Playlist (papan peringkat yang dikurasi pengguna) | ![Tidak][false] | ![Ya][true] |
+| Memperbarui beatmap ke versi terbaru secara online | ![Parsial][partial][^map-only] | ![Ya][true][^all-files] |
 
 ### Editor
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Editor osu! | ![Yes][true] | ![Yes][true] |
-| Editor osu!taiko | ![No][false] | ![Yes][true] |
-| Editor osu!catch | ![No][false] | ![Yes][true] |
-| Editor osu!mania | ![Yes][true] | ![Yes][true] |
-| Membuka tingkat kesulitan lain sebagai bahan rujukan | ![Yes][true] | ![No][false] |
-| Kecepatan slider / volume per objek | ![No][false] | ![Yes][true] |
-| Jenis kurva slider per masing-masing segmen | ![No][false] | ![Yes][true] |
-| Pemisahan dan penggabungan slider | ![No][false] | ![Yes][true] |
-| Rotasi pola | ![Yes][true] | ![Yes][true] |
-| Perubahan ukuran pola | ![No][false] | ![Yes][true] |
-| Submisi beatmap | ![Yes][true] | ![Yes][true] |
-| Editor storyboard | ![Yes][true] | ![No][false] |
-| Kompatibilitas silang | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| Editor osu! | ![Ya][true] | ![Ya][true] |
+| Editor osu!taiko | ![Tidak][false] | ![Ya][true] |
+| Editor osu!catch | ![Tidak][false] | ![Ya][true] |
+| Editor osu!mania | ![Ya][true] | ![Ya][true] |
+| Membuka tingkat kesulitan lain sebagai bahan rujukan | ![Ya][true] | ![Tidak][false] |
+| Kecepatan slider / volume per objek | ![Tidak][false] | ![Ya][true] |
+| Jenis kurva slider per masing-masing segmen | ![Tidak][false] | ![Ya][true] |
+| Pemisahan dan penggabungan slider | ![Tidak][false] | ![Ya][true] |
+| Rotasi pola | ![Ya][true] | ![Ya][true] |
+| Perubahan ukuran pola | ![Tidak][false] | ![Ya][true] |
+| Submisi beatmap | ![Ya][true] | ![Ya][true] |
+| Editor storyboard | ![Ya][true] | ![Tidak][false] |
+| Kompatibilitas silang | ![Ya][true] | ![Parsial][partial][^incompatibilities] |
 
 ## Beralih ke lazer
 
@@ -198,7 +198,7 @@ Meskipun demikian, hanya rangkaian mod berikut yang akan dapat memberikan perfor
 
 - Pengurang kesulitan
   - Easy
-  - No Fail
+  - Tidak Fail
   - Half Time (hanya 0.75x, penggunaan `Sesuaikan pitch` diizinkan)
   - Daycore (hanya 0.75x)
 - Peningkat kesulitan
@@ -221,7 +221,7 @@ Meskipun demikian, hanya rangkaian mod berikut yang akan dapat memberikan perfor
   - Nine Keys
 - Hiburan
   - Muted
-  - No Scope
+  - Tidak Scope
 - Automasi (khusus osu!)
   - Spun Out
 - Sistem
@@ -285,7 +285,7 @@ Apa yang lebih tajam dari "cutting-edge"?
 
 Walaupun osu! sekilas terlihat seperti permainan yang sederhana, dalam kenyataannya terdapat beratus-ratus fitur dan sistem yang menopang kegiatan pengguna seiring waktunya. Tergantung dari kepada siapa kamu bertanya, lazer dapat dipandang sebagai versi osu! yang sudah dapat dimainkan sejak dulu atau bahkan yang masih jauh dari kata rampung.
 
-Bidang lainnya yang cukup menguras banyak daya adalah pelestarian sejarah — kami harus memastikan bahwa seluruh beatmap yang ada akan dapat berperilaku sebagaimana mestinya, termasuk beatmap yang dirancang dengan teknik yang pada awalnya tidak kami rencanakan (_edge case_). Ekosistem osu! merupakan ekosistem yang dinamis, dan pengguna kami telah banyak berkarya untuk mendorong osu! melampaui batasnya. Oleh karenanya, kami ingin berusaha sebaik mungkin untuk mendukung dan meneruskan semangat ini ke depannya.
+Bidang lainnya yang cukup menguras banyak daya adalah pelestarian sejarah — kami harus memastikan bahwa seluruh beatmap yang ada akan dapat berperilaku sebagaimana mestinya, termasuk beatmap yang dirancang dengan teknik yang pada awalnya tidak kami rencanakan (*edge case*). Ekosistem osu! merupakan ekosistem yang dinamis, dan pengguna kami telah banyak berkarya untuk mendorong osu! melampaui batasnya. Oleh karenanya, kami ingin berusaha sebaik mungkin untuk mendukung dan meneruskan semangat ini ke depannya.
 
 Terakhir, tidak seperti pada stable, kami juga ingin memastikan agar basis kode kami dapat terus berguna ke depannya. Kami merancang lazer sedemikian rupa agar kami dapat memperkenalkan berbagai fitur baru tanpa harus menunggu lama. Nantikan berbagai komponen UI baru, metode skinning baru, sistem multiplayer baru, serta kemampuan untuk memainkan beatmap pada berbagai mode permainan (atau yang dikenal di lazer sebagai ruleset) baru dari kami!
 
