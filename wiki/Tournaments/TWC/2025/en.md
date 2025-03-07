@@ -59,15 +59,15 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **Argentina** | **[-Senshi-](https://osu.ppy.sh/users/5040981)** |
+| ::{ flag=AR }:: | **Argentina** | **[-Senshi-](https://osu.ppy.sh/users/5040981)**, [\_Illustrious\_](https://osu.ppy.sh/users/8256770), [- Nothing -](https://osu.ppy.sh/users/8808087), [juan736](https://osu.ppy.sh/users/6957262), [LemonDust](https://osu.ppy.sh/users/8065042), [Tapi](https://osu.ppy.sh/users/3715691) |
 | ::{ flag=AU }:: | **Australia** | **[Jaye](https://osu.ppy.sh/users/4841352)**, [r1chyy](https://osu.ppy.sh/users/11499467), [CrabCow](https://osu.ppy.sh/users/9755504), [rango](https://osu.ppy.sh/users/7728466), [HungryTurtle420](https://osu.ppy.sh/users/30338965), [Necromancy](https://osu.ppy.sh/users/1890084) |
 | ::{ flag=BR }:: | **Brazil** | **[ImTutu](https://osu.ppy.sh/users/16262582)**, [Spicy Onion](https://osu.ppy.sh/users/11799110), [-wahl-](https://osu.ppy.sh/users/29727936), [heitonto](https://osu.ppy.sh/users/34750396), [Optimus Prime](https://osu.ppy.sh/users/16456158), [PedSen](https://osu.ppy.sh/users/12826983) |
 | ::{ flag=BG }:: | **Bulgaria** | **[Vasko2o](https://osu.ppy.sh/users/19577961)**, [giyokon](https://osu.ppy.sh/users/10852632), [Z12aS](https://osu.ppy.sh/users/14949578), [theangelov](https://osu.ppy.sh/users/18827836) |
 | ::{ flag=CA }:: | **Canada** | **[Kombucha457](https://osu.ppy.sh/users/18265351)** |
 | ::{ flag=CL }:: | **Chile** | **[ulko](https://osu.ppy.sh/users/1263669)**, [chibamasu](https://osu.ppy.sh/users/16067522), [Esconyan](https://osu.ppy.sh/users/9057823), [myucchii](https://osu.ppy.sh/users/10072733), [Shiny Froakie](https://osu.ppy.sh/users/6194830), [Kioshinxs](https://osu.ppy.sh/users/14433939) |
 | ::{ flag=CN }:: | **China** | **[superSSS](https://osu.ppy.sh/users/4315477)** |
-| ::{ flag=CO }:: | **Colombia** | **[ParraCharlie](https://osu.ppy.sh/users/18425848)** |
-| ::{ flag=CR }:: | **Costa Rica** | **[pui](https://osu.ppy.sh/users/12687433)** |
+| ::{ flag=CO }:: | **Colombia** | **[ParraCharlie](https://osu.ppy.sh/users/18425848)**, [Madsri](https://osu.ppy.sh/users/6260841), [sti](https://osu.ppy.sh/users/1271807), [JoseloFxD7](https://osu.ppy.sh/users/34362997) |
+| ::{ flag=CR }:: | **Costa Rica** | **[pui](https://osu.ppy.sh/users/12687433)**, [\_Castle](https://osu.ppy.sh/users/11847767), [Hotman](https://osu.ppy.sh/users/7902082), [JostRc3](https://osu.ppy.sh/users/11211959) |
 | ::{ flag=FI }:: | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [Antti](https://osu.ppy.sh/users/13281473), [BFKB113PBK](https://osu.ppy.sh/users/13613362), [GamersDecision](https://osu.ppy.sh/users/19975342), [Haadez](https://osu.ppy.sh/users/8925266), [vodnanen](https://osu.ppy.sh/users/10335557) |
 | ::{ flag=FR }:: | **France** | **[Ranshi](https://osu.ppy.sh/users/6680785)**, [Acii\_](https://osu.ppy.sh/users/11253595), [Glassive](https://osu.ppy.sh/users/12453848), [Gundham](https://osu.ppy.sh/users/8023063), [Nethen](https://osu.ppy.sh/users/14034809), [YaniFR](https://osu.ppy.sh/users/11260982) |
 | ::{ flag=HK }:: | **Hong Kong** | **[YonGin](https://osu.ppy.sh/users/7109317)** |
@@ -82,21 +82,21 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=NZ }:: | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)**, [Zed0x](https://osu.ppy.sh/users/12136108), [idk123456](https://osu.ppy.sh/users/18718856), [arley\_](https://osu.ppy.sh/users/9039824), [Blujae](https://osu.ppy.sh/users/10613885), [Bulturst](https://osu.ppy.sh/users/14777912) |
 | ::{ flag=PE }:: | **Peru** | **[alemagno333](https://osu.ppy.sh/users/11411697)**, [Dinki](https://osu.ppy.sh/users/23361435), [Pachekin](https://osu.ppy.sh/users/8257441), [Koto-chan](https://osu.ppy.sh/users/8925569) |
 | ::{ flag=PH }:: | **Philippines** | **[Aiery](https://osu.ppy.sh/users/10363380)** |
-| ::{ flag=PL }:: | **Poland** | **[bernard351](https://osu.ppy.sh/users/9511518)** |
+| ::{ flag=PL }:: | **Poland** | **[bernard351](https://osu.ppy.sh/users/9511518)**, [knibblet](https://osu.ppy.sh/users/6922240), [Dynutka](https://osu.ppy.sh/users/5947521), [SKRIS-MI](https://osu.ppy.sh/users/15330641), [fafik99](https://osu.ppy.sh/users/1787011), [My Angel Bernrd](https://osu.ppy.sh/users/14075839) |
 | ::{ flag=PT }:: | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)**, [MeovvCAT](https://osu.ppy.sh/users/5905091), [Shinzui](https://osu.ppy.sh/users/2505011), [Warp](https://osu.ppy.sh/users/18649724) |
 | ::{ flag=RU }:: | **Russian Federation** | **[taikoshallah](https://osu.ppy.sh/users/11117835)**, [TwinT-sama](https://osu.ppy.sh/users/9976154), [Den4ik228](https://osu.ppy.sh/users/7115174), [krokodil\_koban](https://osu.ppy.sh/users/24910091), [\_TheXFactory\_](https://osu.ppy.sh/users/15013948), [SceptifyMK](https://osu.ppy.sh/users/20843003) |
-| ::{ flag=SG }:: | **Singapore** | **[Blerargh](https://osu.ppy.sh/users/7609510)** |
-| ::{ flag=SK }:: | **Slovakia** | **[nevqr](https://osu.ppy.sh/users/14269506)**, [Golden](https://osu.ppy.sh/users/12639462), [AlejarTV](https://osu.ppy.sh/users/12568571), [HungarianLolz](https://osu.ppy.sh/users/33254568) |
+| ::{ flag=SG }:: | **Singapore** | **[\_gt](https://osu.ppy.sh/users/8301957)**, [Blerargh](https://osu.ppy.sh/users/7609510), [awdse22](https://osu.ppy.sh/users/8743513), [Prehistoria](https://osu.ppy.sh/users/8364237), [chairIess](https://osu.ppy.sh/users/26031453), [tzechi](https://osu.ppy.sh/users/4662795) |
+| ::{ flag=SK }:: | **Slovakia** | **[nevqr](https://osu.ppy.sh/users/14269506)**, [Golden](https://osu.ppy.sh/users/12639462), [AlejarTV](https://osu.ppy.sh/users/12568571), [HungarianLolz](https://osu.ppy.sh/users/33254568), [Lukasek29](https://osu.ppy.sh/users/14116351), [Spinasson](https://osu.ppy.sh/users/21448085) |
 | ::{ flag=KR }:: | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)** |
 | ::{ flag=ES }:: | **Spain** | **[A L E P H](https://osu.ppy.sh/users/6735738)** |
 | ::{ flag=CH }:: | **Switzerland** | **[TaikoWorldCup](https://osu.ppy.sh/users/11296097)**, [cholarmor](https://osu.ppy.sh/users/21502158), [Nakarin](https://osu.ppy.sh/users/547957), [NekoTowel](https://osu.ppy.sh/users/14838605) |
 | ::{ flag=TW }:: | **Taiwan** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)** |
 | ::{ flag=TR }:: | **Türkiye** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)**, [NeuralG](https://osu.ppy.sh/users/13811400), [magev](https://osu.ppy.sh/users/13892153), [Zmor0133](https://osu.ppy.sh/users/6419257), [Flicker](https://osu.ppy.sh/users/7916800) |
 | ::{ flag=GB }:: | **United Kingdom** | **[overdahedge2015](https://osu.ppy.sh/users/9864847)**, [MAZIONGA](https://osu.ppy.sh/users/8484987), [My Angel Seia](https://osu.ppy.sh/users/17797595), [rloseise](https://osu.ppy.sh/users/6793778), [H1Pur](https://osu.ppy.sh/users/15756120), [Nathanial](https://osu.ppy.sh/users/9169747) |
-| ::{ flag=US }:: | **United States** | **[cheese salad](https://osu.ppy.sh/users/6349821)** |
+| ::{ flag=US }:: | **United States** | **[cheese salad](https://osu.ppy.sh/users/6349821)**, [SilverTyrant](https://osu.ppy.sh/users/14356353), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [R J](https://osu.ppy.sh/users/6490509), [pet](https://osu.ppy.sh/users/1656336), [Miniature Lamp](https://osu.ppy.sh/users/9821194) |
 | ::{ flag=VN }:: | **Vietnam** | **[njshift1](https://osu.ppy.sh/users/16688499)**, [davidminh0111](https://osu.ppy.sh/users/9623142), [buttermiilk](https://osu.ppy.sh/users/16039831), [RandomNameIdk](https://osu.ppy.sh/users/24042710), [hi\_there\_osu](https://osu.ppy.sh/users/22698999), [Mafuyu Kirisu](https://osu.ppy.sh/users/7844013) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, March 8 23:59 UTC**. This list was last updated on **March 3**.
+Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, March 8 23:59 UTC**. This list was last updated on **March 7**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bcaab51028b74dee27c483e54fc7f251).
 
