@@ -7,9 +7,9 @@
 | Nama | Byte | Keterangan |
 | :-- | :-- | :-- |
 | Byte | 1 | Nilai 8-bit tunggal. |
-| Short | 2 | Nilai ujung terkecil (little endian) 2-byte. |
-| Integer | 4 | Nilai ujung terkecil (little endian) 4-byte. |
-| Long | 8 | Nilai ujung terkecil (little endian) 8-byte. |
+| Short | 2 | Nilai ujung terkecil (*little endian*) 2-byte. |
+| Integer | 4 | Nilai ujung terkecil (*little endian*) 4-byte. |
+| Long | 8 | Nilai ujung terkecil (*little endian*) 8-byte. |
 | ULEB128 | Bervariasi | Integer dengan panjang yang bervariasi. Lihat [ULEB128](https://en.wikipedia.org/wiki/LEB128) untuk keterangan lebih lanjut. |
 | String | Bervariasi | Memiliki tiga bagian; data ini akan selalu diawali oleh byte tunggal yang bernilai 0x00 atau 0x0b (11 desimal). Apabila byte ini bernilai 0x00, kedua bagian lainnya akan kosong. Apabila byte ini bernilai 0x0b, maka byte ini akan diikuti dengan ULEB128 (yang menandakan panjang string yang bersangkutan) dan lalu string itu sendiri yang dienkode dengan UTF-8. Lihat [UTF-8](https://en.wikipedia.org/wiki/UTF-8) untuk keterangan lebih lanjut. |
 
@@ -58,7 +58,7 @@ Pada saat didekompresi, sisa data ini akan mengeluarkan teks yang berisikan berb
 | y | Float | Koordinat sumbu-y kursor dari 0 - 384 |
 | z | Integer | Kombinasi bit dari tuts keyboard/tombol mouse yang ditekan (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke 16) (K1 selalu digunakan bersamaan dengan M1; K2 selalu digunakan bersamaan dengan M2; 1+4=5, 2+8=10) |
 
-Pada tayangan ulang yang dicatatkan pada osu! versi `20130319` atau yang lebih baru, nomor benih acak (_RNG seed_) 32-bit yang digunakan pada skor akan dienkodekan ke dalam frame tayangan ulang tambahan di akhir stream LZMA dengan format `-12345|0|0|nomor benih`.
+Pada tayangan ulang yang dicatatkan pada osu! versi `20130319` atau yang lebih baru, nomor benih acak (*RNG seed*) 32-bit yang digunakan pada skor akan dienkodekan ke dalam frame tayangan ulang tambahan di akhir stream LZMA dengan format `-12345|0|0|nomor benih`.
 
 ## Mod
 
