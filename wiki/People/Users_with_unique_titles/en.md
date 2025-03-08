@@ -286,6 +286,7 @@ These players were awarded their respective titles through either a crazy gamepl
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Was the [first person to unlock the *The Girl in the Forest* medal](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | Was the [first person to unlock the *Internment* medal](https://twitter.com/osugame/status/1696007320663359800) |
 | ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Achieved the maximum possible score on [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) for an unbeatable #1 leaderboard spot |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Limit Breaker | Achieved the maximum performance points by reaching over 32,768 pp |
 
 ## Contributors
 
