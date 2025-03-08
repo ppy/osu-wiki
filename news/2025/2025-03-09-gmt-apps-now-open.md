@@ -8,7 +8,7 @@ If you have a burning passion towards the osu! community, and have great interes
 
 ![](/wiki/shared/news/banners/gmt-generic.jpg)
 
-The [Global Moderation Team](/wiki/People/Global_Moderation_Team) has been a part of the game in some shape or form from its inception. If you are not aware of what we do, the team is responsible for overseeing the entire osu! platform, as well as assisting community members with any queries regardless of the nature.
+The [Global Moderation Team](/wiki/People/Global_Moderation_Team) has existed in some shape or form since osu!'s inception. If you are not aware of what we do, the team is responsible for overseeing the entire osu! platform, as well as assisting community members with any queries regardless of the nature.
 
 The team's reach is far and wide. From chats, comments and forums to various community projects and the mapping community at large, we are always looking to expand our reach and make sure that everyone feels safe and welcome, and that any inappropriate activities get properly dealt with.
 
@@ -25,21 +25,21 @@ Before you scroll down to the bottom of the news post and press that apply link,
 
 As always, we will look through every single application, but if you fit into the following additional categories, we'll count that as a plus:
 
-- you speak Turkish on a near-native level, being active in `#turkish` and Turkish communities is a plus
-- you speak Ukrainian on a near-native level, being active in `#ukrainian` and Ukrainian communities is a plus
-- you speak Portuguese on a near-native level, being active in `#portuguese` and Portuguese communities is a plus
-- you are online and available to moderate and react to reports in the Australia/Asia timezones
-- you actively browse and/or participate in forum discussions
+- You speak Turkish on a near-native level; being active in `#turkish` and Turkish communities is a plus
+- You speak Ukrainian on a near-native level; being active in `#ukrainian` and Ukrainian communities is a plus
+- You speak Portuguese on a near-native level; being active in `#portuguese` and Portuguese communities is a plus
+- You are online and available to moderate and react to reports in the Australia/Asia timezones
+- You actively browse and/or participate in forum discussions
 
 ---
 
-If you fit the above-mentioned criteria, **click here to apply!** Feel free to take your time when answering the questions, but don't take too long as the applications will remain **open for 2 weeks**, closing on **March XX, 2025 23:59 UTC+0**.
+If you fit the above-mentioned criteria, **[click here to apply!]()** Feel free to take your time when answering the questions, but don't take too long as the applications will remain **open for 2 weeks**, closing on **March XX, 2025 23:59 UTC+0**.
 
-Since there may be a large number of applications, please bear with us as we take the appropriate time to go through all of them. We will be reaching out to promising members in a few weeks after the applications close, so please stay patient!
+Since there may be numerous applications, please bear with us as we take the appropriate time to go through all of them. We will be reaching out to promising members in a few weeks after the applications close, so please stay patient!
 
 ---
 
-If you have any questions in relation to the applications, feel free to [reach out to any available moderator](https://osu.ppy.sh/groups/4), or just leave a comment below.
+If you have any questions in relation to the applications, feel free to ask away on the [discussion forum thread](https://osu.ppy.sh/community/forums/topics/2051019), [reach out to any available moderator](https://osu.ppy.sh/groups/4), or just leave a comment below.
 
 Good luck to everyone!
 
