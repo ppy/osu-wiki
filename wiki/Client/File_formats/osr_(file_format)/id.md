@@ -1,6 +1,6 @@
 # .osr (format berkas)
 
-**.osr** merupakan format berkas yang berisi informasi seputar tayangan ulang osu! tertentu. Agar berkas ini dapat dibuka oleh osu!, beatmap yang terhubung dengan berkas ini harus terkandung di dalam folder "Songs".
+**.osr** merupakan format berkas yang berisi informasi seputar tayangan ulang osu! tertentu. Agar berkas ini dapat dibuka di dalam permainan, beatmap yang terhubung dengan berkas ini harus dimiliki oleh osu! di dalam folder "Songs".
 
 ## Jenis data
 
@@ -11,7 +11,7 @@
 | Integer | 4 | Nilai ujung terkecil (*little endian*) 4-byte. |
 | Long | 8 | Nilai ujung terkecil (*little endian*) 8-byte. |
 | ULEB128 | Bervariasi | Integer dengan panjang yang bervariasi. Lihat [ULEB128](https://en.wikipedia.org/wiki/LEB128) untuk keterangan lebih lanjut. |
-| String | Bervariasi | Memiliki tiga bagian; data ini akan selalu diawali oleh byte tunggal yang bernilai 0x00 atau 0x0b (11 desimal). Apabila byte ini bernilai 0x00, kedua bagian lainnya akan kosong. Apabila byte ini bernilai 0x0b, maka byte ini akan diikuti dengan ULEB128 (yang menandakan panjang string yang bersangkutan) dan lalu string itu sendiri yang dienkode dengan UTF-8. Lihat [UTF-8](https://en.wikipedia.org/wiki/UTF-8) untuk keterangan lebih lanjut. |
+| String | Bervariasi | Memiliki tiga bagian; data ini akan selalu diawali oleh byte tunggal yang bernilai 0x00 atau 0x0b (11 desimal). Apabila byte ini bernilai 0x00, kedua bagian lainnya akan bernilai kosong. Apabila byte ini bernilai 0x0b, maka byte ini akan diikuti dengan ULEB128 (yang menandakan panjang string yang bersangkutan) dan lalu string itu sendiri yang dienkode dengan UTF-8. Lihat [UTF-8](https://en.wikipedia.org/wiki/UTF-8) untuk keterangan lebih lanjut. |
 
 ## Format
 
