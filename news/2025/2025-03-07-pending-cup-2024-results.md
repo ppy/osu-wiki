@@ -74,8 +74,8 @@ Every track finalist will receive the following prizes!
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | **$75 USD**, **12** months of osu! supporter, [*Elite Mapper* contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) **+2**, *Track Winner* profile badge |
-| 2nd | **$35 USD**, **6** months of osu! supporter, [*Elite Mapper* contest point](https://osu.ppy.sh/wiki/en/Contests/Contest_points) **+1** |
+| 1st | **$75 USD**, **12** months of osu! supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) **+2**, *Track Winner* profile badge |
+| 2nd | **$35 USD**, **6** months of osu! supporter, [*Elite Mapper* contest point](/wiki/Contests/Contest_points) **+1** |
 | 3rd | **$15 USD**, **4** months of osu! supporter |
 
 ### Grand prizes
