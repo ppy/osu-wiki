@@ -1,6 +1,6 @@
 # .osr (format berkas)
 
-**.osr** merupakan format berkas yang mengandung informasi seputar tayangan ulang osu!. Agar berkas ini dapat dimuat di dalam permainan, beatmap yang terhubung berkas tayangan ulang pada folder "Songs".
+**.osr** merupakan format berkas yang mengandung informasi seputar tayangan ulang osu! tertentu. Agar berkas ini dapat dimuat oleh osu!, beatmap yang terhubung berkas tayangan ulang ini harus terdapat dalam folder "Songs".
 
 ## Jenis data
 
