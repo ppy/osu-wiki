@@ -7,7 +7,7 @@ tags:
 
 El **New Mapper Nomination Event** se llevó a cabo entre el **1 de marzo** y el **31 de mayo** de 2021.
 
-Durante el evento, se les encargó a los Beatmap Nominators clasificar mapas de usuarios que nunca habían clasificado un mapa antes el modo de juego de su elección. Solo los mapas [calificados](/wiki/Beatmap_ranking_procedure#calificación) durante el evento eran elegibles para ser nominados.
+Durante el evento, se les encargó a los Beatmap Nominators clasificar mapas de usuarios que nunca habían clasificado un mapa antes en el modo de juego de su elección. Solo los mapas [calificados](/wiki/Beatmap_ranking_procedure#calificación) durante el evento eran elegibles para ser nominados.
 
 ## Recompensas
 
