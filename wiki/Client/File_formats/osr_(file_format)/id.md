@@ -1,6 +1,6 @@
 # .osr (format berkas)
 
-**.osr** merupakan format berkas yang mengandung informasi seputar tayangan ulang osu!. Agar berkas ini dapat dibuka, beatmap yang sesuai dengan yang dibutuhkan oleh berkas tayangan ulang pada folder "Songs".
+**.osr** merupakan format berkas yang mengandung informasi seputar tayangan ulang osu!. Agar berkas ini dapat dimuat di dalam permainan, beatmap yang terhubung berkas tayangan ulang pada folder "Songs".
 
 ## Jenis data
 
@@ -51,7 +51,7 @@ Sisa data yang ada akan mengandung informasi seputar pergerakan mouse dan peneka
 
 Pada saat didekompresi, sisa data ini akan mengeluarkan teks yang berisikan berbagai data yang terpisah oleh koma. Masing-masing bagian dari teks ini merupakan gambaran dari tindakan tertentu, sebagaimana yang ditunjukkan oleh 4 angka dalam bentuk `w | x | y | z` berikut:
 
-| Bagian | Jenis data | Keterangan  |
+| Bagian | Jenis data | Keterangan |
 | :-- | :-- | :-- |
 | w | Long | Waktu setelah tindakan sebelumnya dalam satuan milidetik |
 | x | Float | Koordinat sumbu-x kursor dari 0 - 512 |
@@ -66,36 +66,36 @@ Sebagaimana yang tertera pada [dokumentasi API osu!](https://github.com/ppy/osu-
 
 | Mod | Nilai (BitOffset) | Keterangan |
 | :-- | :-- | :-- |
-| Tidak ada | 0 | |
-| NoFail | 1 (0) | |
-| Easy | 2 (1) | |
+| Tidak ada | 0 |  |
+| NoFail | 1 (0) |  |
+| Easy | 2 (1) |  |
 | TouchDevice | 4 (2) | Menggantikan mod NoVideo yang tidak lagi digunakan |
-| Hidden | 8 (3) | |
-| HardRock | 16 (4) | |
-| SuddenDeath | 32 (5) | |
-| Double Time | 64 (6) | |
-| Relax | 128 (7) | |
-| HalfTime | 256 (8) | |
+| Hidden | 8 (3) |  |
+| HardRock | 16 (4) |  |
+| SuddenDeath | 32 (5) |  |
+| Double Time | 64 (6) |  |
+| Relax | 128 (7) |  |
+| HalfTime | 256 (8) |  |
 | Nightcore | 512 (9) | Selalu digunakan bersamaan dengan DT: 512 + 64 = 576. Menggantikan mod Taiko yang tidak lagi digunakan |
-| Flashlight | 1024 (10) | |
-| Autoplay | 2048 (11) | |
-| SpunOut | 4096 (12) | |
+| Flashlight | 1024 (10) |  |
+| Autoplay | 2048 (11) |  |
+| SpunOut | 4096 (12) |  |
 | Relax2 | 8192 (13) | Mod Autopilot |
-| Perfect | 16384 (14) | |
-| Key4 | 32768 (15) | |
-| Key5 | 65536 (16) | |
-| Key6 | 131072 (17) | |
-| Key7 | 262144 (18) | |
-| Key8 | 524288 (19) | |
+| Perfect | 16384 (14) |  |
+| Key4 | 32768 (15) |  |
+| Key5 | 65536 (16) |  |
+| Key6 | 131072 (17) |  |
+| Key7 | 262144 (18) |  |
+| Key8 | 524288 (19) |  |
 | keyMod | 1015808 | k4+k5+k6+k7+k8 |
-| FadeIn | 1048576 (20) | |
-| Random | 2097152 (21) | |
+| FadeIn | 1048576 (20) |  |
+| Random | 2097152 (21) |  |
 | LastMod | 4194304 (22) | Mod Cinema |
 | TargetPractice | 8388608 (23) | Khusus osu! versi Cutting Edge |
-| Key9 | 16777216 (24) | |
-| Coop | 33554432 (25) | |
-| Key1 | 67108864 (26) | |
-| Key3 | 134217728 (27) | |
-| Key2 | 268435456 (28) | |
-| ScoreV2 | 536870912 (29) | |
-| Mirror | 1073741824 (30) | |
+| Key9 | 16777216 (24) |  |
+| Coop | 33554432 (25) |  |
+| Key1 | 67108864 (26) |  |
+| Key3 | 134217728 (27) |  |
+| Key2 | 268435456 (28) |  |
+| ScoreV2 | 536870912 (29) |  |
+| Mirror | 1073741824 (30) |  |
