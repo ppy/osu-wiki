@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Global Moderation Team applications now open!
-date: 2025-03-03 12:00:00 +0000
+date: 2025-03-09 12:00:00 +0000
 ---
 
 If you have a burning passion towards the osu! community, and have great interest in keeping osu! safe for everyone, this is your time to shine.
