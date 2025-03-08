@@ -33,7 +33,7 @@ As always, we will look through every single application, but if you fit into th
 
 ---
 
-If you fit the above-mentioned criteria, **[click here to apply!]()** Feel free to take your time when answering the questions, but don't take too long as the applications will remain **open for 2 weeks**, closing on **March XX, 2025 23:59 UTC+0**.
+If you fit the above-mentioned criteria, **[click here to apply!]()** Feel free to take your time when answering the questions, but don't take too long as the applications will remain **open for 2 weeks**, closing on **March 23, 2025 23:59 UTC+0**.
 
 Since there may be numerous applications, please bear with us as we take the appropriate time to go through all of them. We will be reaching out to promising members in a few weeks after the applications close, so please stay patient!
 
