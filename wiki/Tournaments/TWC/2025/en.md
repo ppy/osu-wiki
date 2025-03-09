@@ -104,12 +104,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ### Qualifiers
 
-**[Download the mappack here (39 MB, *temporary link*)](https://apps.leoflt.com/s/5ge7o)**\
+**[Download the mappack here (39 MB)](https://packs.ppy.sh/P277%20-%20osu!taiko%20World%20Cup%202025%3A%20Qualifiers.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2401273729?t=0h4m9s)
 
 - No Mod
   1. [Dennoko-P - MIRACLE GREAT (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/2336486#taiko/5016007)
-  2. [Sobrem & NIWASHI - A fight in Tunisia (paz08) \[Dueto (Edit)\] *(temporary link)*](https://apps.leoflt.com/s/XkDIR)
+  2. [Sobrem & NIWASHI - A fight in Tunisia (paz08) \[Dueto (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2243628#taiko/4769330)
   3. [Ashrount - GALVANIZER (ikin5050) \[Square steel and screws from your aunt\]](https://osu.ppy.sh/beatmapsets/2336489#taiko/5016013)
 - Hidden
   1. [BilliumMoto - four veiled stars (D 3) \[120 stars\]](https://osu.ppy.sh/beatmapsets/2336492#taiko/5016018)
