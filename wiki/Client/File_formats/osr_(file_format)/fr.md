@@ -1,3 +1,8 @@
+---
+outdated_since: 3beefe4f5a50484b1a97ebdf019fd3581d4ca0c4
+outdated_translation: true
+---
+
 # .osr (format de fichier)
 
 Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour l'utiliser, il suffit juste d'avoir la beatmap de ce replay dans le dossier Songs.
