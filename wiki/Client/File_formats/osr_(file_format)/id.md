@@ -1,6 +1,6 @@
 # .osr (format berkas)
 
-**.osr** merupakan format berkas yang berisi informasi seputar tayangan ulang osu! tertentu. Agar berkas ini dapat dibuka di dalam permainan, beatmap yang terhubung dengan berkas ini harus dimiliki oleh osu! di dalam folder "Songs".
+**.osr** merupakan format berkas yang berisi informasi seputar [tayangan ulang](/wiki/Gameplay/Replay) osu! tertentu. Agar berkas ini dapat dibuka di dalam permainan, beatmap yang terhubung dengan berkas ini harus dimiliki oleh osu! di dalam folder "Songs".
 
 ## Jenis data
 
@@ -21,9 +21,9 @@ Offset byte tidak disertakan dalam tabel ini karena masing-masing byte dapat mem
 | :-- | :-- |
 | Byte | Mode permainan (0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
 | Integer | Versi permainan pada saat tayangan ulang dihasilkan (mis. 20131216) |
-| String | Hash MD5 beatmap osu! |
+| String | Hash MD5 beatmap |
 | String | Nama pemain |
-| String | Hash MD5 tayangan ulang osu! (yang meliputi atribut tayangan ulang tertentu) |
+| String | Hash MD5 tayangan ulang (yang meliputi atribut tayangan ulang tertentu) |
 | Short | Jumlah penilaian 300 yang diperoleh |
 | Short | Jumlah penilaian 100 pada osu!, 150 pada osu!taiko, 100 pada osu!catch, dan 100 pada osu!mania yang diperoleh |
 | Short | Jumlah penilaian 50 pada osu!, buah kecil pada osu!catch, dan penilaian 50 pada osu!mania yang diperoleh |
