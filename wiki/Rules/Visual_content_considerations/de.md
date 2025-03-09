@@ -2,8 +2,6 @@
 no_native_review: true
 tags:
   - vcc
-outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Empfehlungen für visuelle Inhalte
@@ -14,7 +12,7 @@ Das beinhaltet:
 
 - eingereichte Beatmaps, **sogar die, die mit [explizit](/wiki/Rules/Explicit_content) markiert wurden**
 - Profildetails (Avatare, Titelbilder)
-- jeder andere Anhang oder Hyperlink (Forumsbeiträge, Kommentare, Beiträge zu Beatmap-Diskussionen)
+- jeder andere Anhang oder Hyperlink (Forenbeiträge, Kommentare, Beiträge zu Beatmap-Diskussionen)
 
 Um das Wohlergehen der Community sicherzustellen, gilt die Community-Regel Nr. 5 für alles, was gemeinhin als "fragwürdig" angesehen werden kann.
 
@@ -39,7 +37,7 @@ Bilder oder visuelle Elemente, die eines der folgenden Dinge enthalten, sind **n
 - **Darstellungen von absichtlich hetzerischen politischen, kulturellen, religiösen oder sozialen Inhalten**
 - **Bilder, die suizidales oder selbstverletzendes Verhalten darstellen, einschließlich der Vorbereitung oder bevorstehende Versuche**
 
-Zusätzlich sollten Bilder oder visuelle Elemente, die vernünftig bewertet als in schlechter Qualität eingestuft werden könnten (entweder in objektiver Bildqualität oder subjektiver Komposition/Gestaltung) und in Fällen, in denen sie in keinem direkten Zusammenhang mit einem relevanten Thema stehen, ebenso nicht in Beatmaps verwendet werden.
+Zusätzlich sollten Bilder oder visuelle Elemente, die von außen betrachtet eine schlechte Qualität aufweisen könnten (entweder in objektiver Bildqualität oder subjektiver Komposition/Gestaltung) und in Fällen, in denen sie in keinem direkten Zusammenhang mit einem relevanten Thema stehen, ebenso nicht in Beatmaps verwendet werden.
 
 ## Ausnahmen
 
@@ -50,19 +48,25 @@ Bilder oder visuelle Elemente, die die folgenden Beispiele enthalten, können al
 - milde Romanzen, Flirten oder intime Zuneigung (Knuddeln, Umarmen, Küssen ohne sexuelle Konnotationen, Händchenhalten usw.)
 - Badeanzüge in angemessener Gestaltung (Standardbademode mit genereller Bedeckung, einem gewöhnlichen Bikini)
 
-In bestimmten Umständen können einige Ausnahmen für künstlerische Verwendungen von aufwändigen Inhalten gelten, wie zum Beispiel Storyboards oder maßgeschneiderter (d. h. speziell erstellter) Videoinhalt. Dies muss direkt vom Support-Team bewilligt werden. Alle Interessierten können es via [support@ppy.sh](mailto:support@ppy.sh) kontaktieren.
+In bestimmten Umständen können einige Ausnahmen für künstlerische Verwendungen von aufwändigen Inhalten gelten, wie zum Beispiel Storyboards oder maßgeschneiderter (d. h. speziell erstellter) Videoinhalt. Dies muss direkt vom Support-Team bewilligt werden. Alle Interessierten können das Team via [support@ppy.sh](mailto:support@ppy.sh) kontaktieren.
 
 ## Dein Bild bewerten lassen
 
 *Siehe: [Verfahren zur Abstimmung über den Inhalt](/wiki/Rules/Content_voting_process).*
 
-Bilder, die überall auf der Webseite außerhalb einer Beatmap benutzt werden (Avatare, Profilbilder, Nutzerseiten usw.) sind **nicht** Thema des Abstimmungsverfahrens, das unten erklärt wird, und können jederzeit nach dem Ermessen des globalen Moderationsteams entfernt werden.
+Bilder, die auf der Webseite außerhalb einer Beatmap benutzt werden (Avatare, Profilbilder, Nutzerseiten usw.) sind **nicht** Thema des Abstimmungsverfahrens, das unten erklärt wird, und können jederzeit nach dem Ermessen des [globalen Moderationsteams](/wiki/People/Global_Moderation_Team) (GMT) entfernt werden.
 
 Wenn du dir über ein Bild unsicher bist, das in einer Beatmap vorhanden sein soll, **erstelle bitte eine Anfrage via [der Einreichungsseite von Beatmap-Nominatoren für Meldungen](https://bn.mappersguild.com/reports).** Das Bild wird zur Abstimmung gestellt und muss von einer eindeutigen Mehrheit angenommen werden oder wird automatisch verweigert.
 
-**Das Ergebnis einer Wahl ist final**, es sei denn, das Bild wird signifikant verändert im Versuch, alle potenziell problematischen Elemente, die während der Diskussion angesprochen wurden, zu lösen.
+**Das Ergebnis einer Wahl ist final**, es sei denn, das Bild wird signifikant verändert im Versuch, alle potenziell problematischen Elemente, die während der Diskussion angesprochen wurden, zu überarbeiten.
 
 Zu jeder Zeit behält sich [das osu!-Team](/wiki/People/osu!_team) in ihrem Ermessen das Recht vor, einseitig jeden Inhalt als entweder zugelassen oder nicht zugelassen zu deklarieren, unabhängig von vorherigen Wahlen bezogen auf das Thema.
+
+## Was, wenn mein Bild nicht in Ordnung ist?
+
+Alle Bilder, Videos oder visuellen Inhalte, die das GMT als unangemessen einstuft, werden von der Webseite entfernt. Des Weiteren erhält der Nutzer, der die visuellen Inhalte hochlud, möglicherweise eine [Stummschaltung](/wiki/Help_centre/Silences) für 43 Stunden, abhängig von der Schwere des Verstoßes und dem früheren Verhalten des Nutzers.
+
+Für unangemessene visuelle Inhalte in Beatmaps werden Stummschaltungen in der Regel nicht ausgehändigt, solange der visuelle Inhalt nicht völlig unangebracht ist und der Nutzer den entsprechenden Inhalt nach kurzer Zeit entfernt.
 
 ## Anmerkungen
 
