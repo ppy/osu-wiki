@@ -161,6 +161,7 @@ En la [página del grupo del comité de torneos](https://osu.ppy.sh/groups/50) s
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
