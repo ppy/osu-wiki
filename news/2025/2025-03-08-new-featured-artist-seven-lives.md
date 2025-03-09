@@ -11,7 +11,7 @@ You haven't heard full flavour music if you haven't heard **SEVEN LIVES**.
 Hailing from Canada, **SEVEN LIVES** has been exploring music production since their early teens, with immediate inclinations towards multi-genre (a.k.a. "full flavour") rhythm game tracks.
 
 Totaling **16** tracks, [**SEVEN LIVES**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/461) is packed with enough awesome music to occupy your next year of mapping. And as per usual, each track is available as a pre-timed `.osz`!
-*Caravan Palace*, [*onumi*](https://osu.ppy.sh/beatmaps/artists/32), *MUST DIE!*, *MARETU*, [*Kikuo*](https://osu.ppy.sh/beatmaps/artists/314), [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), [t+pazolite](https://osu.ppy.sh/beatmaps/artists/396), and many many more inspire these tunes, you can be guaranteed to find top-notch music.
+With inspirations from *Caravan Palace*, [*onumi*](https://osu.ppy.sh/beatmaps/artists/32), *MUST DIE!*, *MARETU*, [*Kikuo*](https://osu.ppy.sh/beatmaps/artists/314), [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), [t+pazolite](https://osu.ppy.sh/beatmaps/artists/396), and many many more, you can be guaranteed to find top-notch music.
 
 You can judge for yourself though:
 
