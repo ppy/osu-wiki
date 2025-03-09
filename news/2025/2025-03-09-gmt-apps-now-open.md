@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Global Moderation Team Applications Now Open!
-date: 2025-03-09 12:00:00 +0000
+date: 2025-03-09 17:30:00 +0000
 ---
 
 If you have a burning passion towards the osu! community, and have great interest in keeping osu! safe for everyone, this is your time to shine.
@@ -28,12 +28,12 @@ As always, we will look through every single application, but if you fit into th
 - You speak Turkish on a near-native level; being active in `#turkish` and Turkish communities is a plus
 - You speak Ukrainian on a near-native level; being active in `#ukrainian` and Ukrainian communities is a plus
 - You speak Portuguese on a near-native level; being active in `#portuguese` and Portuguese communities is a plus
-- You are online and available to moderate and react to reports in the Australia/Asia timezones
+- You are online and available to moderate and react to reports in the Australia/Asia timezones (approximately UTC+4 to UTC+10)
 - You actively browse and/or participate in forum discussions
 
 ---
 
-If you fit the above-mentioned criteria, **[click here to apply!]()** Feel free to take your time when answering the questions, but don't take too long as the applications will remain **open for 2 weeks**, closing on **March 23, 2025 23:59 UTC+0**.
+If you fit the above-mentioned criteria, **[click here to apply!](https://form-auth.ppy.sh/form/2025-gmt-applications)** Feel free to take your time when answering the questions, but don't take too long as the applications will remain **open for 2 weeks**, closing on **March 23, 2025 23:59 UTC+0**.
 
 Since there may be numerous applications, please bear with us as we take the appropriate time to go through all of them. We will be reaching out to promising members in a few weeks after the applications close, so please stay patient!
 
