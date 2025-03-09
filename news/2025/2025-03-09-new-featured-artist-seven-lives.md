@@ -6,7 +6,7 @@ date: 2025-03-09 12:00:00 +0000
 
 You haven't heard full flavour music if you haven't heard **SEVEN LIVES**.
 
-![](/wiki/shared/news/2025-03-08-new-featured-artist-seven-lives/header.png)
+![](/wiki/shared/news/2025-03-09-new-featured-artist-seven-lives/header.png)
 
 Hailing from Canada, **SEVEN LIVES** has been exploring music production since their early teens, with immediate inclinations towards multi-genre (a.k.a. "full flavour") rhythm game tracks.
 
