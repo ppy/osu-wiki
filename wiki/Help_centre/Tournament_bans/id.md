@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Larangan turnamen
 
 *Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
