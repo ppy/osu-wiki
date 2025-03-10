@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Silence
 
 **Silence** (pembungkaman) merupakan hukuman yang membatasi cara seseorang untuk dapat berkomunikasi di dalam komunitas osu!. Pada umumnya, hukuman ini dijatuhkan oleh para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) demi menjaga lingkungan situs web dan permainan yang bersih.
