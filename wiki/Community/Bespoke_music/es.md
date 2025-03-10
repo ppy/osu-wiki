@@ -99,14 +99,6 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 | --: | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kitazawakyouhei/true-queen-feat-miku-hatsune "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=s4FcjckW0NE "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0eDux052E5fRn9dp404gYk "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kitazawakyouhei.bandcamp.com/track/true-queen "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Kitazawa%20Kyouhei&query=%22TRUE-QUEEN%22 "Página de artista destacado") | Kitazawa Kyouhei - TRUE-QUEEN |
 
-#### [Midian](https://osu.ppy.sh/beatmaps/artists/443)
-
-*Para la publicación del anuncio, véase: [New Featured Artist: Midian](https://osu.ppy.sh/home/news/2024-11-02-new-featured-artist-midian)*
-
-| Enlaces | FA | Canción |
-| --: | :-: | :-- |
-|  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Midian&query=%22Astra%22 "Página de artista destacado") | Midian - Astra |
-
 #### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
 
 *Para la publicación del anuncio, véase: [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)*
