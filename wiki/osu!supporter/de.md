@@ -4,6 +4,8 @@ tags:
   - supporter tag
   - osu!supporter tag
   - Unterstützung
+outdated_since: 53463c9d5a611e5d8b38f68b00f48b7983225576
+outdated_translation: true
 ---
 
 # osu!supporter
