@@ -22,13 +22,13 @@ Unlike previous runs, we've updated all star ratings in the background, maintain
 
 These will be going live imminently and be used for all PP calculations and SR displays. osu! stable and lazer updates will also be pushed out today to update client-side calculations.
 
-### 🏃 Reprocess performance values of negligible scores (1 - 2 days)
+### ✅ Reprocess performance values of negligible scores (completed 2025-03-08)
 
 To start with, we are reprocessing the PP values of scores which are insignificant. This means starting with scores worth a very low amount of PP and working upwards in a way that doesn't affect the competitive nature of the rankings.
 
 This can be done in the background, without stopping the world.
 
-### ⏳ Reprocess performance values of all scores (3 - 5 days)
+### 🏃 Reprocess performance values of all scores (3 - 5 days)
 
 We now need to reprocess all remaining 3 billion scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!(stable) and osu!(lazer)). This is the most time-consuming part of the deploy process.
 
