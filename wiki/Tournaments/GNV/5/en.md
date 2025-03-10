@@ -232,7 +232,8 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
 
 **[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1Xf2gVAjCBmReQNE5FS_0J1Ao9UwsxkVe/view)**\
-[Watch the showcase VOD here!](https://youtu.be/HBgAk_GdZT4) | [Watch the clip montage here!](https://youtu.be/z21vS7DKBpw)
+[Watch the showcase VOD here!](https://youtu.be/HBgAk_GdZT4)\
+[Watch the clip montage here!](https://youtu.be/z21vS7DKBpw)
 
 - Rice
   1. [USAO - Dynamite (Camellia's MACHO TNT REMIX) (Cut ver.) [Combustible]](https://osu.ppy.sh/b/4948497)
@@ -257,7 +258,8 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 **[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1-VTrEWVucP63ChlnFjxJZezaZ7y2SJDO/view)**\
-[Watch the showcase VOD here!](https://youtu.be/v7q17LR5qTE) | [Watch the clip montage here!](https://youtu.be/A4JGppl0ceQ)
+[Watch the showcase VOD here!](https://youtu.be/v7q17LR5qTE)\
+[Watch the clip montage here!](https://youtu.be/A4JGppl0ceQ)
 
 - Rice
   1. [Laur - Absolute Queen [Absolute Lunacy]](https://osu.ppy.sh/b/4945294)
@@ -282,7 +284,8 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 **[Download the mappack here! (57 MB)](https://drive.google.com/file/d/13IspFyRy8sQx6LHEou_ojxSoofcqZBfT/view)**\
-[Watch the showcase VOD here!](https://youtu.be/odVOo4T_d7U) | [Watch the clip montage here!](https://youtu.be/I1uR0ac3geU)
+[Watch the showcase VOD here!](https://youtu.be/odVOo4T_d7U)\
+[Watch the clip montage here!](https://youtu.be/I1uR0ac3geU)
 
 - Rice
   1. [xi - Time Files [Chrono Shift]](https://osu.ppy.sh/b/4888290)
@@ -305,7 +308,8 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 32
 
 **[Download the mappack here! (59 MB)](https://drive.google.com/file/d/1_7ERdhjVnNDHoiVv-5PYa1a7MsrPXZSv/view)**\
-[Watch the showcase VOD here!](https://youtu.be/92ItBAXVN5A) | [Watch the clip montage here!](https://youtu.be/hnHUX1n3s1A)
+[Watch the showcase VOD here!](https://youtu.be/92ItBAXVN5A)\
+[Watch the clip montage here!](https://youtu.be/hnHUX1n3s1A)
 
 - Rice
   1. [NOMA - SATELLITE [STARLINK]](https://osu.ppy.sh/b/4747279)
@@ -328,7 +332,8 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 64
 
 **[Download the mappack here! (44 MB)](https://drive.google.com/file/d/1UTf5sZ4Z1yMDb5R-NMVJorUY0uubemnR/view)**\
-[Watch the showcase VOD here!](https://youtu.be/86Sm75_63yk) | [Watch the clip montage here!](https://youtu.be/emL_zWDgdaQ)
+[Watch the showcase VOD here!](https://youtu.be/86Sm75_63yk)\
+[Watch the clip montage here!](https://youtu.be/emL_zWDgdaQ)
 
 - Rice
   1. [Knife Party & Tom Morello - Battle Sirens (RIOT Remix) (Cut Ver.) [Catastrophe]](https://osu.ppy.sh/b/4859707)
