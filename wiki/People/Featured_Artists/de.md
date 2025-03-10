@@ -72,7 +72,6 @@ Die [Gruppenseite für Featured Artists](https://osu.ppy.sh/groups/35) listet al
 | ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | [Doomsday](https://osu.ppy.sh/beatmaps/artists/425) |
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
-| ::{ flag=NZ }:: [ERA Midian](https://osu.ppy.sh/users/25689815) | [Midian](https://osu.ppy.sh/beatmaps/artists/443) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ::{ flag=CA }:: [exyl_sounds](https://osu.ppy.sh/users/16759928) | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) |
 | ::{ flag=GR }:: [Geoxor](https://osu.ppy.sh/users/8112146) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
