@@ -164,7 +164,7 @@ Gulano Cup #5 was run by various community members from Indonesia.
 
 This competition has come to an end and resulted in the following podium:
 
-![Gulano Cup #5 podium](img/podium.png "Gulano Cup #5 Podium")
+![Gulano Cup #5 podium](img/podium.jpg "Gulano Cup #5 Podium")
 
 | Placing | Player |
 | :-: | :-- |
