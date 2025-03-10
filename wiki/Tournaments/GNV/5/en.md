@@ -356,12 +356,12 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (27 MB)](https://drive.google.com/file/d/17dUig6_ecLZYWxIQgV-PEH3z9bnYZQ0s/view)**\
 [Watch the showcase VOD here!](https://www.youtube.com/watch?v=0fEf5d3Fpgk)
 
-  1. [inabakumori - Lagtrain (Redsign Remix) (Cut Ver.) [Stage 1: Delay]](https://osu.ppy.sh/b/4914479)
-  2. [D-D-Dice vs. Tanchiky - SPOOKY BADBALL [Stage 2: Ghostly Treats]](https://osu.ppy.sh/b/4914476)
-  3. [gsharp - Iris [Stage 3: Santai]](https://osu.ppy.sh/b/4914474)
-  4. [Kolaa & Kumaku - Amaama Toutetsu Bonbon [Stage 4: Desserts]](https://osu.ppy.sh/b/4914473)
-  5. [Chroma - To the Milky Way [Stage 5: Pemimpi]](https://osu.ppy.sh/b/4914475)
-  6. [Sasuke Haraguchi feat. Choten-chan - Cubibibibism [Stage 6: Kawakawa]](https://osu.ppy.sh/b/4914477)
+1. [inabakumori - Lagtrain (Redsign Remix) (Cut Ver.) [Stage 1: Delay]](https://osu.ppy.sh/b/4914479)
+2. [D-D-Dice vs. Tanchiky - SPOOKY BADBALL [Stage 2: Ghostly Treats]](https://osu.ppy.sh/b/4914476)
+3. [gsharp - Iris [Stage 3: Santai]](https://osu.ppy.sh/b/4914474)
+4. [Kolaa & Kumaku - Amaama Toutetsu Bonbon [Stage 4: Desserts]](https://osu.ppy.sh/b/4914473)
+5. [Chroma - To the Milky Way [Stage 5: Pemimpi]](https://osu.ppy.sh/b/4914475)
+6. [Sasuke Haraguchi feat. Choten-chan - Cubibibibism [Stage 6: Kawakawa]](https://osu.ppy.sh/b/4914477)
 
 ### Wildcard
 
