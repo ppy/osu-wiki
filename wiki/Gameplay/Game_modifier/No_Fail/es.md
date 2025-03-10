@@ -7,30 +7,29 @@ tags:
   - game modifier
   - modificador de juego
   - modificador del juego
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # No Fail (mod)
 
 ![Icono del mod NF](/wiki/shared/mods/NF.png "Icono del mod No Fail (NF)")
 
-*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
+*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [No Fail (mod de lazer)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))*\
+*Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
-## Acerca de
+## Resumen
 
 - Abreviatura: NF
 - Tipo: Reducción de dificultad
-- Multiplicador de puntuación: 0.50x
+- Multiplicador de puntuación: 0,50x
 - Tecla de acceso directo predeterminada: `W`
 - Descripción: `No podrás perder, sin importar lo que hagas.`
-- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- Modos de juego compatibles: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Descripción
 
-El modificador **No Fail** es una [modificación de juego](/wiki/Gameplay/Game_modifier) que evita que el jugador falle en [beatmaps](/wiki/Beatmap). Al habilitar el mod No Fail, el jugador no puede fallar un [beatmap](/wiki/Beatmap), incluso si la [barra de vida](/wiki/Client/Interface/Health_bar) llega a cero. Sin embargo, si el jugador no ha obtenido ningún punto durante el beatmap, la partida *sí* fallará.
+El mod **No Fail** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que evita que el jugador muera en los [beatmaps](/wiki/Beatmap). Al habilitar el mod No Fail, el jugador no puede morir en un [beatmap](/wiki/Beatmap), incluso si la [barra de vida](/wiki/Client/Interface/Health_bar) llega a cero. Sin embargo, si el jugador no ha obtenido ningún punto durante el beatmap, la jugada *sí* fallará.
 
-A partir del 16 de enero de 2021, el mod No Fail incurrirá en una cierta penalización en la cantidad de [puntos de rendimiento](/wiki/Performance_points) que el jugador obtiene de una partida, dependiendo de cuántos fallos tenga. Comenzando desde un valor base de 1.0x (100 %), cada fallo disminuirá el multiplicador de ganancia de puntos de rendimiento en -0.02x (0.5 %), hasta un máximo de 0.9x (90 %).
+Desde el 16 de enero de 2021, el mod No Fail aplica una cierta penalización a la cantidad de [puntos de rendimiento](/wiki/Performance_points) que un jugador podrá obtener de una jugada según el número de fallos que consiga. Comenzando con un valor base de 1,0x (100 %), cada fallo disminuirá el multiplicador de ganancia de puntos de rendimiento en -0,02x (0,5 %) hasta un máximo de 0,9x (90 %).
 
 Este mod tiene el mismo efecto en todos los [modos de juego](/wiki/Game_mode).
 
