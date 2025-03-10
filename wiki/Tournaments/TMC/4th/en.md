@@ -200,54 +200,56 @@ The Touhou Project Mania Cup 4th is run by various community members.
 ### Quarterfinals
 
 **[Download the mappack here! (169 MB)](https://drive.google.com/file/d/1b8xUcLGy1Fq2IxFwSER2x9H1YtuxhqUa/)**\
-[View the showcase VOD here](https://www.youtube.com/watch?v=TKvcAkk8-H4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
+[View the showcase VOD here](https://www.youtube.com/watch?v=TKvcAkk8-H4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1W59BYxEfs)
 
 - Rice
-  1. [ShinRa-Bansho - Sanyousei SAY YA!!! (Cut Ver.) (YuEast 2018)\[Say! Ya! / 1.05\]](https://osu.ppy.sh/beatmapsets/2333478#mania/5007634)
-  2. [Sally - Ennb\~Abyss Flames (RiceSS)\[ennb style (thmc ver.)\]](https://osu.ppy.sh/beatmapsets/2333538#mania/5007768)
-  3. [LeaF - Calamity Fortune (extended cut ver.) (\[GB\]Oceanus)\[Collapse(Cut) x1.15\]](https://osu.ppy.sh/beatmapsets/2333528#mania/5007744)
-  4. [Ganeme - See you again... (Blue\_Potion)\[Immersion 1.0x\]](https://osu.ppy.sh/beatmapsets/2333482#mania/5007653)
-  5. [FELT - Summer Fever (Cut Ver.) (epic man 2)\[2hu diff name goes here\]](https://osu.ppy.sh/beatmapsets/2333365#mania/5007276)
-  6. [para Dot. - Colored garden (Ycloki)\[Obscured Eden 1.05x (158bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2333498#mania/5007687)
+  1. [ShinRa-Bansho - Sanyousei SAY YA!!! (Cut Ver.) (YuEast 2018) \[Say! Ya! / 1.05\]](https://osu.ppy.sh/beatmapsets/2333478#mania/5007634)
+  2. [Sally - Ennb\~Abyss Flames (RiceSS) \[ennb style (thmc ver.)\]](https://osu.ppy.sh/beatmapsets/2333538#mania/5007768)
+  3. [LeaF - Calamity Fortune (extended cut ver.) (\[GB\]Oceanus) \[Collapse(Cut) x1.15\]](https://osu.ppy.sh/beatmapsets/2333528#mania/5007744)
+  4. [Ganeme - See you again... (Blue\_Potion) \[Immersion 1.0x\]](https://osu.ppy.sh/beatmapsets/2333482#mania/5007653)
+  5. [FELT - Summer Fever (Cut Ver.) (epic man 2) \[2hu diff name goes here\]](https://osu.ppy.sh/beatmapsets/2333365#mania/5007276)
+  6. [para Dot. - Colored garden (Ycloki) \[Obscured Eden 1.05x (158bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2333498#mania/5007687)
 - Rice (Extreme)
-  1. [nachi - Tsuioku Summer Night (ELEMENTAS Remix) (Alptraum)\[none \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2333455#mania/5007542)
-- Long Note
-  1. [Nuruhachi - Doll Judgment -Glittering Magic- (Xu seventeen)\[Kinju Eishou\]](https://osu.ppy.sh/beatmapsets/2333448#mania/5007508)
-  2. [Houshou Marine - Hoihoi\_Gensou Holoism (Cut Ver.) (Koyori Chan)\[Lunatic\]](https://osu.ppy.sh/beatmapsets/2333460#mania/5007554)
-  3. [xi-on - The Concealed Four Seasons (Castella)\[Chromatic Sound\]](https://osu.ppy.sh/beatmapsets/2333486#mania/5007664)
-- Long Note (Extreme)
-  1. [K2 SOUND - Fairy stage (ExNeko)\[LN\]](https://osu.ppy.sh/beatmapsets/2333465#mania/5007580)
+  1. [nachi - Tsuioku Summer Night (ELEMENTAS Remix) (Alptraum) \[none \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2333455#mania/5007542)
 - Hybrid
-  1. [Spacelectro feat. Momokami - DANCING FOX!!! (Cut Ver.) (YuEast 2018)\[dancing fish!!!\]](https://osu.ppy.sh/beatmapsets/2333480#mania/5007637)
-  2. [Para Dot. - Kage-Tech (Usagi\_)\[Werewolf\]](https://osu.ppy.sh/beatmapsets/2333496#mania/5007680)
-  3. [cYsmix - Abandoned Shrine Party (\[Crz\]FolAH1217)\[Midnight gaming +\]](https://osu.ppy.sh/beatmapsets/2333495#mania/5007678)
+  1. [Spacelectro feat. Momokami - DANCING FOX!!! (Cut Ver.) (YuEast 2018) \[dancing fish!!!\]](https://osu.ppy.sh/beatmapsets/2333480#mania/5007637)
+  2. [Para Dot. - Kage-Tech (Usagi\_) \[Werewolf\]](https://osu.ppy.sh/beatmapsets/2333496#mania/5007680)
+  3. [cYsmix - Abandoned Shrine Party (\[Crz\]FolAH1217) \[Midnight gaming +\]](https://osu.ppy.sh/beatmapsets/2333495#mania/5007678)
+- Long Note
+  1. [Nuruhachi - Doll Judgment -Glittering Magic- (Xu seventeen) \[Kinju Eishou\]](https://osu.ppy.sh/beatmapsets/2333448#mania/5007508)
+  2. [Houshou Marine - Hoihoi\_Gensou Holoism (Cut Ver.) (Koyori Chan, YuEast 2018) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2333460#mania/5007554)
+  3. [xi-on - The Concealed Four Seasons (Castella) \[Chromatic Sound\]](https://osu.ppy.sh/beatmapsets/2333486#mania/5007664)
+- Long Note (Extreme)
+  1. [K2 SOUND - Fairy stage (ExNeko, YuEast 2018) \[LN\]](https://osu.ppy.sh/beatmapsets/2333465#mania/5007580)
 - Tiebreaker
-  1. [Diao ye zong feat. Meramipop - Shinkirou (YuEast 2018)\[Hana.\]](https://osu.ppy.sh/beatmapsets/2333476#mania/5007631)
+  1. **[Diao ye zong feat. Meramipop - Shinkirou (YuEast 2018) \[Hana.\]](https://osu.ppy.sh/beatmapsets/2333476#mania/5007631)**
 
 ### Round of 16
 
 **[Download the mappack here! (148 MB)](https://drive.google.com/file/d/1tZHPcVBLblsgGm4iHPUR_6hNfneVkEOk/)**\
-[View the showcase VOD here](https://www.youtube.com/watch?v=K4o2j2zd-yQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
+[View the showcase VOD here](https://www.youtube.com/watch?v=K4o2j2zd-yQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1DgPhe3E9D)
 
 - Rice
-  1. [Foreground Eclipse - You May Not Want To Hear This But (Ycloki)\[I am here screaming, yelling and crying.\]](https://osu.ppy.sh/beatmapsets/2329601#mania/4996397)
-  2. [FELT - New World (Kiraz)\[Reborn 1.13x (220bpm)\]](https://osu.ppy.sh/beatmapsets/2329538#mania/4996122)
-  3. [Tomohiko Togashi feat. Kano - Kimi to Iu Tokuiten (Cut Ver.) (Blue\_Potion)\[Singular 1.05x\]](https://osu.ppy.sh/beatmapsets/2329583#mania/4996291)
-  4. [NJK Record - Spring Of Dreams (Cut Ver.) (Miaurichesu)\[Memories 1.1x\]](https://osu.ppy.sh/beatmapsets/2147028#mania/4522577)
-  5. [DJ suslik - Made In China (Blue\_Potion)\[Save Your Soul (w/ YuEast 2018) 1.0x\]](https://osu.ppy.sh/beatmapsets/2329589#mania/4996318)
+  1. [Foreground Eclipse - You May Not Want To Hear This But (Ycloki) \[I am here screaming, yelling and crying.\]](https://osu.ppy.sh/beatmapsets/2329601#mania/4996397)
+  2. [FELT - New World (Kiraz) \[Reborn 1.13x (220bpm)\]](https://osu.ppy.sh/beatmapsets/2329538#mania/4996122)
+  3. [Tomohiko Togashi feat. Kano - Kimi to Iu Tokuiten (Cut Ver.) (Blue\_Potion) \[Singular 1.05x\]](https://osu.ppy.sh/beatmapsets/2329583#mania/4996291)
+  4. [NJK Record - Spring Of Dreams (Cut Ver.) (Miaurichesu) \[Memories 1.1x\]](https://osu.ppy.sh/beatmapsets/2147028#mania/4522577)
+  5. [DJ suslik - Made In China (Blue\_Potion, YuEast 2018) \[Save Your Soul (w/ YuEast 2018) 1.0x\]](https://osu.ppy.sh/beatmapsets/2329589#mania/4996318)
 - Rice (Extreme)
-  1. [Akatsuki Records - Rock 'n' Rock 'n' Beat (ImperialTrinity)\[Bang! Bang!\]](https://osu.ppy.sh/beatmapsets/2329599#mania/4996381)
-- Long Note
-  1. [Floating Cloud - Road to the moon (Castella)\[Happy End\]](https://osu.ppy.sh/beatmapsets/2329584#mania/4996292)
-  2. [Yuma Mizonokuchi feat. Ai Ohsera - Princess Lily (Xinhong1003)\[Blooming\]](https://osu.ppy.sh/beatmapsets/2329588#mania/4996312)
-  3. [ccy - Another Apple (cherrychou)\[YuEast's 2025 LN Ver.\]](https://osu.ppy.sh/beatmapsets/1612762#mania/4996395)
-- Long Note (Extreme)
-  1. [marasy - Re:Unknown X (cherrychou)\[Lunatic (edit)\]](https://osu.ppy.sh/beatmapsets/2279360#mania/4996380)
+  1. [Akatsuki Records - Rock 'n' Rock 'n' Beat (ImperialTrinity) \[Bang! Bang!\]](https://osu.ppy.sh/beatmapsets/2329599#mania/4996381)
 - Hybrid
-  1. [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (V1do-)\[Illusional\]](https://osu.ppy.sh/beatmapsets/2329573#mania/4996270)
-  2. [Tokyo Active NEETs - Akahoshi Mizeraburu \~ Hai yi Hen (Game Ver.) (AelSan)\[Master 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/2329582#mania/4996289)
+  1. [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (V1do-) \[Illusional\]](https://osu.ppy.sh/beatmapsets/2329573#mania/4996270)
+  2. [Tokyo Active NEETs - Akahoshi Mizeraburu \~ Hai yi Hen (Game Ver.) (AelSan) \[Master 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/2329582#mania/4996289)
+- Long Note
+  1. [Floating Cloud - Road to the moon (Castella) \[Happy End\]](https://osu.ppy.sh/beatmapsets/2329584#mania/4996292)
+  2. [Yuma Mizonokuchi feat. Ai Ohsera - Princess Lily (Xinhong1003) \[Blooming\]](https://osu.ppy.sh/beatmapsets/2329588#mania/4996312)
+  3. [ccy - Another Apple (YuEast 2018) \[YuEast's 2025 LN Ver.\]](https://osu.ppy.sh/beatmapsets/1612762#mania/4996395)
+- Long Note (Extreme)
+  1. [marasy - Re\:Unknown X (cherrychou) \[Lunatic (edit)\]](https://osu.ppy.sh/beatmapsets/2279360#mania/4996380)
 - Tiebreaker
-  1. [Para Dot. - Hyper banquet (gzdongsheng)\[514nm\]](https://osu.ppy.sh/beatmapsets/2329595#mania/4996354)
+  1. **[Para Dot. - Hyper banquet (gzdongsheng) \[514nm\]](https://osu.ppy.sh/beatmapsets/2329595#mania/4996354)**
 
 ### Round of 32
 
@@ -255,62 +257,64 @@ The Touhou Project Mania Cup 4th is run by various community members.
 [View the showcase VOD here](https://www.youtube.com/watch?v=nANJIH8VJvA&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
 
 - Rice
-  1. [senya - Yozakura ni Kimi wo Kakushite (Xzzj)\[1.05 cut edited by YuEast 2018\]](https://osu.ppy.sh/beatmapsets/1844571#mania/4983634)
-  2. [IOSYS - Chantikku San-Yousei no Itazura Daisensou (YuEast 2018)\[Ya! / 1.10\]](https://osu.ppy.sh/beatmapsets/2326028#mania/4986112)
-  3. [Chiyoko - Alice's Mad Tea Party (ERA trooperr)\[Trickster's Spell 1.25x\]](https://osu.ppy.sh/beatmapsets/2325599#mania/4985569)
-  4. [ShinRa-Bansho - Vodka niwa Tonic (Cut Ver.) (AelSan)\[Alcoholism (w/ Reimu)\]](https://osu.ppy.sh/beatmapsets/2325598#mania/4984994)
-  5. [Down - Ekoro (epic man 2)\[YuEast's \[RO32 RC WC +Classic\]\]](https://osu.ppy.sh/beatmapsets/2023038#mania/4984986)
+  1. [senya - Yozakura ni Kimi wo Kakushite (Xzzj) \[1.05 cut edited by YuEast 2018\]](https://osu.ppy.sh/beatmapsets/1844571#mania/4983634)
+  2. [IOSYS - Chantikku San-Yousei no Itazura Daisensou (YuEast 2018) \[Ya! / 1.10\]](https://osu.ppy.sh/beatmapsets/2326028#mania/4986112)
+  3. [Chiyoko - Alice's Mad Tea Party (ERA trooperr) \[Trickster's Spell 1.25x\]](https://osu.ppy.sh/beatmapsets/2325599#mania/4985569)
+  4. [ShinRa-Bansho - Vodka niwa Tonic (Cut Ver.) (AelSan, \[Crz\]Reimu) \[Alcoholism (w/ Reimu)\]](https://osu.ppy.sh/beatmapsets/2325598#mania/4984994)
+  5. [Down - Ekoro (YuEast 2018, epic man 2) \[YuEast's \[RO32 RC WC +Classic\]\]](https://osu.ppy.sh/beatmapsets/2023038#mania/4984986)
 - Rice (Extreme)
-  1. [A-One feat. Shihori - Magic Girl !! (elexire)\[yup\]](https://osu.ppy.sh/beatmapsets/2325600#mania/4985002)
-- Long Note
-  1. [An - artcore JINJA (\[GB\]Reisen)\[coordination JINJA\]](https://osu.ppy.sh/beatmapsets/2325618#mania/4985049)
-  2. [Halozy - Paranoid Lost (Cut Ver.) (YuEast 2018)\[I'm lost in the starry autumn sky.\]](https://osu.ppy.sh/beatmapsets/2326029#mania/4986115)
-  3. [Akatsuki Records - Adieu, to this Lively Graveyard (Castella)\[Zombie\]](https://osu.ppy.sh/beatmapsets/2325613#mania/4985039)
-- Long Note (Extreme)
-  1. [Akatsuki Records - Necromantic (Cut Ver.) (PORTTAYER)\[WakuwakuDokidoki\]](https://osu.ppy.sh/beatmapsets/2135171#mania/4985037)
+  1. [A-One feat. Shihori - Magic Girl !! (elexire) \[yup\]](https://osu.ppy.sh/beatmapsets/2325600#mania/4985002)
 - Hybrid
-  1. [BUTAOTOME - Towa no Maigo (fvrex)\[Gastronomic Alchemy\]](https://osu.ppy.sh/beatmapsets/2325603#mania/4985013)
-  2. [Shibayan feat. yana - Oznei Haman wa Mou Iranai (Cut Ver.) (\[GB\]Reisen)\[YuEast & Micleak's Gulp2\]](https://osu.ppy.sh/beatmapsets/2325617#mania/4985048)
+  1. [BUTAOTOME - Towa no Maigo (fvrex) \[Gastronomic Alchemy\]](https://osu.ppy.sh/beatmapsets/2325603#mania/4985013)
+  2. [Shibayan feat. yana - Oznei Haman wa Mou Iranai (Cut Ver.) (\[GB\]Reisen) \[YuEast & Micleak's Gulp2\]](https://osu.ppy.sh/beatmapsets/2325617#mania/4985048)
+- Long Note
+  1. [An - artcore JINJA (\[GB\]Reisen) \[coordination JINJA\]](https://osu.ppy.sh/beatmapsets/2325618#mania/4985049)
+  2. [Halozy - Paranoid Lost (Cut Ver.) (YuEast 2018) \[I'm lost in the starry autumn sky.\]](https://osu.ppy.sh/beatmapsets/2326029#mania/4986115)
+  3. [Akatsuki Records - Adieu, to this Lively Graveyard (Castella) \[Zombie\]](https://osu.ppy.sh/beatmapsets/2325613#mania/4985039)
+- Long Note (Extreme)
+  1. [Akatsuki Records - Necromantic (Cut Ver.) (PORTTAYER) \[WakuwakuDokidoki\]](https://osu.ppy.sh/beatmapsets/2135171#mania/4985037)
 - Tiebreaker
-  1. [JAKAZiD & nora2r - Heian no Alien (Night Striker Mix) (PORTTAYER)\[Speed Up X\]](https://osu.ppy.sh/beatmapsets/2325616#mania/4985046)
+  1. **[JAKAZiD & nora2r - Heian no Alien (Night Striker Mix) (PORTTAYER) \[Speed Up X\]](https://osu.ppy.sh/beatmapsets/2325616#mania/4985046)**
 
 ### Group stage
 
 **[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1-IhujJ4Fsbri2VT4X-i7fMjXuqn-Pk3d/)**\
-[View the showcase VOD here](https://www.youtube.com/watch?v=G8oefVm9HRE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
+[View the showcase VOD here](https://www.youtube.com/watch?v=G8oefVm9HRE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1cnFaeSEmU/?t=4390)
 
 - Rice
-  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Akebosi Rocket (\[GB\]Reisen)\[PORTTAYER's Retrospective x1.1\]](https://osu.ppy.sh/beatmapsets/2314529#mania/4953189)
-  2. [Akiyama Uni - Azakeri no Yuugi (\[GB\]V1do)\[Joy\]](https://osu.ppy.sh/beatmapsets/2314758#mania/4953772)
-  3. [Shibayan feat. 3L - Maigo no Echo (ScoliosisET)\[You are the most important person to me... (nerf ver.)\]](https://osu.ppy.sh/beatmapsets/2314830#mania/4954410)
-  4. [Jane Remover - me (Cut Ver.) (YuEast 2018)\[u\]](https://osu.ppy.sh/beatmapsets/2314980#mania/4954292)
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Akebosi Rocket (\[GB\]Reisen) \[PORTTAYER's Retrospective x1.1\]](https://osu.ppy.sh/beatmapsets/2314529#mania/4953189)
+  2. [Akiyama Uni - Azakeri no Yuugi (V1do-) \[Joy\]](https://osu.ppy.sh/beatmapsets/2314758#mania/4953772)
+  3. [Shibayan feat. 3L - Maigo no Echo (ScoliosisET) \[You are the most important person to me... (nerf ver.)\]](https://osu.ppy.sh/beatmapsets/2314830#mania/4954410)
+  4. [Jane Remover - me (Cut Ver.) (YuEast 2018) \[u\]](https://osu.ppy.sh/beatmapsets/2314980#mania/4954292)
+  5. [EastNewSound - Hana wa gensou no Hate ni (PORTTAYER) \[Phantasmagoria x1.15\]](https://osu.ppy.sh/beatmapsets/2002645#mania/4164636)
 - Rice (Classic)
-  1. [EastNewSound - Hana wa gensou no Hate ni (PORTTAYER)\[Phantasmagoria x1.15\]](https://osu.ppy.sh/beatmapsets/2002645#mania/4164636)
-  2. [Hachimitsu Lemon - far away (YuEast 2018)\[Nocturne\]](https://osu.ppy.sh/beatmapsets/1661860#mania/4954291)
+  1. [Hachimitsu Lemon - far away (YuEast 2018) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/1661860#mania/4954291)
 - Hybrid
-  1. [Yuuhei Satellite - Hatenaki Kaze no Kiseki sae ~Ha~ (Cut ver.) (\[Crz\]Reimu)\[Kochiya Sanae\]](https://osu.ppy.sh/beatmapsets/2314987#mania/4954309)
-  2. [TAMAONSEN - 66 Ondo (YuEast 2018)\[66\]](https://osu.ppy.sh/beatmapsets/2314979#mania/4954289)
+  1. [Yuuhei Satellite - Hatenaki Kaze no Kiseki sae \~Ha\~ (Cut ver.) (\[Crz\]Reimu) \[Kochiya Sanae\]](https://osu.ppy.sh/beatmapsets/2314987#mania/4954309)
+  2. [TAMAONSEN - 66 Ondo (YuEast 2018) \[66\]](https://osu.ppy.sh/beatmapsets/2314979#mania/4954289)
 - Hybrid (Classic)
-  1. [ARM - Water Lily (\[GB\]Reisen)\[elexire's Lotus (cut) 1.15x\]](https://osu.ppy.sh/beatmapsets/2314532#mania/4953193)
+  1. [ARM - Water Lily (elexire)\[elexire's Lotus (cut) 1.15x\]](https://osu.ppy.sh/beatmapsets/2044117#mania/4266315)
 - Long Note
-  1. [MISATO - Necro Fantasia (Cut Ver.) (eZmmR)\[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/2314982#mania/4954302)
-  2. [Chocofan - LUCKY CAT (\[Crz\]FolAH1217)\[UNLUCKY LN\]](https://osu.ppy.sh/beatmapsets/2314978#mania/4954287)
+  1. [MISATO - Necro Fantasia (Cut Ver.) (eZmmR) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/2314982#mania/4954302)
+  2. [Chocofan - LUCKY CAT (\[Crz\]FolAH1217) \[UNLUCKY LN\]](https://osu.ppy.sh/beatmapsets/2314978#mania/4954287)
 - Long Note (Classic)
-  1. [Camellia - werewolf howls. (lemonguy)\[LNFINITE.\]](https://osu.ppy.sh/beatmapsets/1435835#mania/2954313)
+  1. [Camellia - werewolf howls. (lemonguy) \[LNFINITE.\]](https://osu.ppy.sh/beatmapsets/1435835#mania/2954313)
 - Tiebreaker
-  1. [Spacelectro feat. momogami - Colorless (\[GB\]Sanae)\[Colorful\]](https://osu.ppy.sh/beatmapsets/2314977#mania/4954286)
+  1. **[Spacelectro feat. momogami - Colorless (\[Crz\]FolAH1217, Koyori Chan, YuEast 2018, V1do-) \[Colorful\]](https://osu.ppy.sh/beatmapsets/2314977#mania/4954286)**
 
 ### Qualifiers
 
 **[Download the mappack here! (30 MB)](https://drive.google.com/file/d/1-G2a4Azp-V6DXjdfw1PlNtroJGPhHso6/)**\
-[View the showcase VOD here](https://www.youtube.com/watch?v=dBhtKsWFjHc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
+[View the showcase VOD here](https://www.youtube.com/watch?v=dBhtKsWFjHc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1aHw1eVEKE)
 
-1. [Sasara Yuuna - Oreore Shuugetsu \~Wriggle de Pikokyon\~ (Cut Ver.) (AutotelicBrown)\[Stage 1: Fool Moon\]](https://osu.ppy.sh/beatmapsets/2310392#mania/4942637)
-2. [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Sped Up & Cut Ver.) (MyZterioN-)\[Stage 2: Sakura Tears\]](https://osu.ppy.sh/beatmapsets/2310371#mania/4942587)
-3. [sawawa - Seventh Doll (Hylotl)\[Stage 3: Alice Crisis\]](https://osu.ppy.sh/beatmapsets/2310413#mania/4942674)
-4. [Pizuya's Cell - Nano Probe (PORTTAYER)\[Stage 4: Setsuna\]](https://osu.ppy.sh/beatmapsets/2310402#mania/4942651)
-5. [Rolling Contact - Tyto Alba (YuEast 2018)\[Stage 5: Rocking\]](https://osu.ppy.sh/beatmapsets/2310393#mania/4942638)
-6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan)\[Stage 6: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
+1. [Sasara Yuuna - Oreore Shuugetsu \~Wriggle de Pikokyon\~ (Cut Ver.) (AutotelicBrown) \[Stage 1\: Fool Moon\]](https://osu.ppy.sh/beatmapsets/2310392#mania/4942637)
+2. [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Sped Up & Cut Ver.) (MyZterioN-, Hytex, Koyori Chan, fvrex, YuEast 2018) \[Stage 2\: Sakura Tears\]](https://osu.ppy.sh/beatmapsets/2310371#mania/4942587)
+3. [sawawa - Seventh Doll (Hylotl) \[Stage 3\: Alice Crisis\]](https://osu.ppy.sh/beatmapsets/2310413#mania/4942674)
+4. [Pizuya's Cell - Nano Probe (PORTTAYER) \[Stage 4\: Setsuna\]](https://osu.ppy.sh/beatmapsets/2310402#mania/4942651)
+5. [Rolling Contact - Tyto Alba (YuEast 2018) \[Stage 5\: Rocking\]](https://osu.ppy.sh/beatmapsets/2310393#mania/4942638)
+6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan) \[Stage 6\: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
 
 ## Match results
 
