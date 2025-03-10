@@ -6,6 +6,8 @@ tags:
   - badges
   - badged
   - concours de mapping
+outdated_since: 60c34c981f3134b3415bee948053a5ed03c66040
+outdated_translation: true
 ---
 
 # Prise en charge du concours officiel de beatmapping

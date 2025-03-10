@@ -10,6 +10,8 @@ tags:
   - insignias
   - concurso con insignia
   - concursos con insignias
+outdated_since: 60c34c981f3134b3415bee948053a5ed03c66040
+outdated_translation: true
 ---
 
 # Soporte oficial para concursos de beatmapping
