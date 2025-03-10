@@ -10,8 +10,6 @@ tags:
   - masalah
   - permasalahan
   - kehilangan
-outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Pusat bantuan
@@ -29,6 +27,7 @@ Silakan pilih bagian pusat bantuan yang paling menggambarkan masalahmu untuk men
 | [Beatmapping dan editor](/wiki/Help_centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
 | [Klien](/wiki/Help_centre/Client) | *Bug* dan *crash*, permainan, koneksi, kinerja |
 | [Instalasi dan pendaftaran](/wiki/Help_centre/Installation_and_registration) | Mengunduh permainan, membuat akun |
+| [Silence](/wiki/Help_centre/Silences) | Segala hal seputar pembungkaman (*silence*): garis besar, proses banding, alasan umum |
 | [osu!store](/wiki/Help_centre/Store) | Cendera mata |
 | [Larangan turnamen](/wiki/Help_centre/Tournament_bans) | Segala hal seputar larangan turnamen (*tournament ban*): garis besar, alasan umum, masa tenggang |
 | [Beralih ke lazer](/wiki/Help_centre/Upgrading_to_lazer) | Proses migrasi menuju [versi osu! utama yang akan datang](/wiki/Client/Release_stream/Lazer) |

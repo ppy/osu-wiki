@@ -15,7 +15,7 @@ Desde el menú principal, se puede acceder al menú del desafío diario con los 
 
 Al entrar, el usuario se encuentra con una introducción que muestra el beatmap que tiene que pasar, y los mods con los que tiene que pasarlo.
 
-Una vez finalizada la introducción, el usuario podrá ver los datos del desafío del día correspondiente. La parte izquierda muestra diversa información relacionada con la puntuación, como el número total de personas que han pasado el beatmap y la puntuación total acumulada. En el centro, una tabla de clasificación muestra las mejores puntuaciones obtenidas por los jugadores. Los usuarios pueden comentar sobre el desafío diario en el chat de la derecha.
+Una vez finalizada la introducción, el usuario podrá ver los datos del desafío del día correspondiente. La parte izquierda muestra diversa información relacionada con la puntuación, como el número total de veces que el beatmap ha sido completado y la puntuación total acumulada. En el centro, una tabla de clasificación muestra las mejores puntuaciones obtenidas por los jugadores. Los usuarios pueden comentar sobre el desafío diario en el chat de la derecha.
 
 ## Rango de dificultad de los beatmaps
 
@@ -55,4 +55,4 @@ El proyecto está organizado por ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/user
 
 - La idea del desafío diario surgió de un comentario de waxxx14 en el que solicitaba un formato similar al de la «copa del día» de [TrackMania](https://es.wikipedia.org/wiki/TrackMania) en osu!, publicado en el vídeo sobre el desarrollo de lazer [«deciding what to do with lazer»](https://www.youtube.com/watch?v=xUSxEjQQ1UI).
 - El desafío diario se lanzó al público el 25 de julio de 2024 en la versión pública de osu!(lazer) [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0) únicamente para el modo de juego [osu!](/wiki/Game_mode/osu!).
-- En la versión inicial, no podían seleccionarse mods libres, y el número total de personas que habían pasado un beatmap, así como la puntuación total acumulada, se añadieron en una actualización posterior.
+- En la versión inicial, no podían seleccionarse mods libres, y el número total de veces que el beatmap había sido completado, así como la puntuación total acumulada, se añadieron en una actualización posterior.
