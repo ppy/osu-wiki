@@ -626,11 +626,13 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 Friday, 21 February 2025:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **[LS]Robi** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: MightyTech | [#1](https://osu.ppy.sh/mp/117252175) | [#1](https://www.youtube.com/watch?v=ZgQZg3LAg-4) |
 
 Saturday, 22 February 2025:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link | VOD link | |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- | :-- |
 | SHOW | GENG MOTOR | 4 | **5** | **GENG MAFIA** | [#1](https://osu.ppy.sh/community/matches/117263740) | [#1](https://www.youtube.com/watch?v=w1MtoVGTplI) | Wildcard showmatch (staff vs player) |
