@@ -82,6 +82,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Multiplayer spectating | ![No][false] | ![Yes][true] |
 | Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
 | Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
+| Multiplayer freestyle | ![No][false] | ![Yes][true][^freestyle] |
 | Multiplayer commands | ![Yes][true] | ![No][false] |
 | Tag co-op | ![Yes][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
@@ -101,7 +102,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
 | Pattern rotation | ![Yes][true] | ![Yes][true] |
 | Pattern resizing | ![No][false] | ![Yes][true] |
-| Beatmap submission | ![Yes][true] | ![No][false] |
+| Beatmap submission | ![Yes][true] | ![Yes][true] |
 | Storyboard editor | ![Yes][true] | ![No][false] |
 | Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 
@@ -341,6 +342,7 @@ You're likely thinking of another game.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
+[^freestyle]: Turn on in song select to allow players to select any difficulty of the current beatmap.
 [^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
 [^medals-lazer]: Some [Hush-Hush medals](/wiki/Medals#hush-hush) are not yet obtainable.
 

@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - NAT
   - equipo de evaluación de nominaciones
@@ -12,7 +10,7 @@ tags:
 
 El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) y garantiza que el lado del beatmapping de osu! se mantenga funcional.
 
-Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia del [grupo de usuarios](/wiki/People/User_group) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en los beatmaps, como los [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
+Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia del [grupo de usuarios](/wiki/People/User_groups) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en los beatmaps, como los [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
 
 **Todos los miembros del Nomination Assessment Team juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
@@ -91,7 +89,7 @@ Antes de realizar dicha adición, se comprueba la validez de la misma con el res
 
 ## Salida del NAT
 
-Una vez que un miembro del NAT decide dejar el equipo, se le pueden otorgar los siguientes beneficios según las circunstancias:
+Una vez que un miembro del NAT decide dejar el equipo de forma amistosa, se le pueden otorgar los siguientes beneficios según las circunstancias:
 
 - **Título de usuario [osu! Alumni](/wiki/People/osu!_Alumni)**: Se otorga a miembros que formaron parte del equipo durante al menos 1 año, o que hayan realizado contribuciones significativas dentro del equipo durante un período de tiempo más corto.
 - **osu!supporter**: Los miembros recibirán una etiqueta osu!supporter que durará el doble del tiempo que pasaron en el NAT, con las mismas condiciones que los osu! Alumni.
