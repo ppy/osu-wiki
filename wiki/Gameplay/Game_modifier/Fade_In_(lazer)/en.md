@@ -32,6 +32,8 @@ tags:
 *For the osu!stable version of this article, see: [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Fade In** mod causes notes to be invisible from above, then to gradually appear the closer they get from the bottom. At first, the fading size only covers about 20% of the playfield, but the more combo you build, the later the notes appear. It reaches its limit at 500x combo covering 70% of the playfield.
+
+**This mod can't be customised through Customisation.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
