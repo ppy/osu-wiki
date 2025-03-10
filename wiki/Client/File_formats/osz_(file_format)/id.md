@@ -1,3 +1,3 @@
-# .osz (format file)
+# .osz (format berkas)
 
-**.osz** adalah sebuah arsip file yang mengandung tingkat kesulitan beatmap dan sumber daya lainnya, seperti skin maupun hitsound.
+**.osz** merupakan berkas arsip yang mengandung berkas-berkas beatmap secara keseluruhan, yang meliputi tingkat kesulitan dan aset tambahan lainnya seperti skin atau hitsound.
