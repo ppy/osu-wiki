@@ -43,17 +43,19 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=SE }:: **[Nurend](https://osu.ppy.sh/users/9905079)**, ::{ flag=SE }:: **[Raphalge](https://osu.ppy.sh/users/3918650)**, ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
-| Mappool playtester | *TBA* |
-| Mapper | *TBA* |
+| Mappool playtester | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=BR }:: [Foxeru](https://osu.ppy.sh/users/7479684), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=BR }:: [miwoo](https://osu.ppy.sh/users/12630336), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=US }:: [Shyguy](https://osu.ppy.sh/users/178038) |
+| Mapper | ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=IT }:: [D 3](https://osu.ppy.sh/users/7807444), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=BR }:: [Skid](https://osu.ppy.sh/users/3044264), *more TBA* |
 | Commentator | *TBA* |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 
 ## Links
 
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1ZREEsDy6HICTCTtp1_czfxpDjVKJraP3qXKVhc1aZHk?rm=minimal)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2041167)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/49)
+- [Challonge bracket](https://challonge.com/TWC2025)
 
 ## Participants
 
@@ -86,7 +88,7 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=PT }:: | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)**, [MeovvCAT](https://osu.ppy.sh/users/5905091), [Shinzui](https://osu.ppy.sh/users/2505011), [Warp](https://osu.ppy.sh/users/18649724) |
 | ::{ flag=RU }:: | **Russian Federation** | **[taikoshallah](https://osu.ppy.sh/users/11117835)**, [TwinT-sama](https://osu.ppy.sh/users/9976154), [Den4ik228](https://osu.ppy.sh/users/7115174), [krokodil\_koban](https://osu.ppy.sh/users/24910091), [\_TheXFactory\_](https://osu.ppy.sh/users/15013948), [SceptifyMK](https://osu.ppy.sh/users/20843003) |
 | ::{ flag=SG }:: | **Singapore** | **[\_gt](https://osu.ppy.sh/users/8301957)**, [Blerargh](https://osu.ppy.sh/users/7609510), [awdse22](https://osu.ppy.sh/users/8743513), [Prehistoria](https://osu.ppy.sh/users/8364237), [chairIess](https://osu.ppy.sh/users/26031453), [tzechi](https://osu.ppy.sh/users/4662795) |
-| ::{ flag=SK }:: | **Slovakia** | **[nevqr](https://osu.ppy.sh/users/14269506)**, [Golden](https://osu.ppy.sh/users/12639462), [AlejarTV](https://osu.ppy.sh/users/12568571), [HungarianLolz](https://osu.ppy.sh/users/33254568), [Lukasek29](https://osu.ppy.sh/users/14116351), [Spinasson](https://osu.ppy.sh/users/21448085) |
+| ::{ flag=SK }:: | **Slovakia** | **[nevqr](https://osu.ppy.sh/users/14269506)**, [Golden](https://osu.ppy.sh/users/12639462), [AlejarTV](https://osu.ppy.sh/users/12568571), [Lukasek29](https://osu.ppy.sh/users/14116351), [Spinasson](https://osu.ppy.sh/users/21448085) |
 | ::{ flag=KR }:: | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)**, [applerss](https://osu.ppy.sh/users/983349), [ChoSeung](https://osu.ppy.sh/users/6367560), [Rosemarie](https://osu.ppy.sh/users/2228401), [Konpaku Sariel](https://osu.ppy.sh/users/533502), [Mean X](https://osu.ppy.sh/users/5128029) |
 | ::{ flag=ES }:: | **Spain** | **[A L E P H](https://osu.ppy.sh/users/6735738)**, [Luqas678](https://osu.ppy.sh/users/26688450), [ERA GulMyMommy](https://osu.ppy.sh/users/15186865), [R a c e](https://osu.ppy.sh/users/18660354) |
 | ::{ flag=CH }:: | **Switzerland** | **[TaikoWorldCup](https://osu.ppy.sh/users/11296097)**, [cholarmor](https://osu.ppy.sh/users/21502158), [Nakarin](https://osu.ppy.sh/users/547957), [NekoTowel](https://osu.ppy.sh/users/14838605) |
@@ -96,9 +98,27 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=US }:: | **United States** | **[cheese salad](https://osu.ppy.sh/users/6349821)**, [SilverTyrant](https://osu.ppy.sh/users/14356353), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [R J](https://osu.ppy.sh/users/6490509), [pet](https://osu.ppy.sh/users/1656336), [Miniature Lamp](https://osu.ppy.sh/users/9821194) |
 | ::{ flag=VN }:: | **Vietnam** | **[njshift1](https://osu.ppy.sh/users/16688499)**, [davidminh0111](https://osu.ppy.sh/users/9623142), [buttermiilk](https://osu.ppy.sh/users/16039831), [RandomNameIdk](https://osu.ppy.sh/users/24042710), [hi\_there\_osu](https://osu.ppy.sh/users/22698999), [Mafuyu Kirisu](https://osu.ppy.sh/users/7844013) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, March 8 23:59 UTC**. This list was last updated on **March 8**.
-
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bcaab51028b74dee27c483e54fc7f251).
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (39 MB)](https://packs.ppy.sh/P277%20-%20osu!taiko%20World%20Cup%202025%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2401273729?t=0h4m9s)
+
+- No Mod
+  1. [Dennoko-P - MIRACLE GREAT (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/2336486#taiko/5016007)
+  2. [Sobrem & NIWASHI - A fight in Tunisia (paz08) \[Dueto (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2243628#taiko/4769330)
+  3. [Ashrount - GALVANIZER (ikin5050) \[Square steel and screws from your aunt\]](https://osu.ppy.sh/beatmapsets/2336489#taiko/5016013)
+- Hidden
+  1. [BilliumMoto - four veiled stars (D 3) \[120 stars\]](https://osu.ppy.sh/beatmapsets/2336492#taiko/5016018)
+- Hard Rock
+  1. [Akiri - Evolutionary Anima (Skid) \[spicy chicken sandwich\]](https://osu.ppy.sh/beatmapsets/2336494#taiko/5016020)
+- Double Time
+  1. [Nanahira - Zenbu Honto de Zenbu Uso (JarvisGaming) \[:D\]](https://osu.ppy.sh/beatmapsets/2162214#taiko/4559796)
+- Free Mod
+  1. [t+pazolite - Chartreuse Green (Raphalge) \[Creature Feature featuring The Creature\]](https://osu.ppy.sh/beatmapsets/2336500#taiko/5016026)
 
 ## Ruleset
 
