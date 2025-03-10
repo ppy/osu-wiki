@@ -53,7 +53,7 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 | Komentator | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
 | Desainer | ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [AuristelaVlyn](https://osu.ppy.sh/users/26772932), ::{ flag=ID }:: chaji[^komisi] ([Instagram](https://www.instagram.com/chaji_8736/)), ::{ flag=ID }:: EnZore[^komisi] ([Facebook](https://www.facebook.com/enjor.s/)), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [vexule-](https://osu.ppy.sh/users/18215071) |
 | Programmer | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272) |
-| Komposer | ::{ flag=ID }:: Altair Aquila[^komisi] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^komisi] ([YouTube](www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^komisi] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^komisi] ([SoundCloud](https://soundcloud.com/typemars)) |
+| Komposer | ::{ flag=ID }:: Altair Aquila[^komisi] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^komisi] ([YouTube](https://www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^komisi] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^komisi] ([SoundCloud](https://soundcloud.com/typemars)) |
 | Pengelola spreadsheet | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
 | Statistisi | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Editor wiki | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
@@ -165,7 +165,7 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 
 Turnamen ini telah berakhir dengan podium sebagai berikut:
 
-![Gulano Cup #5 banner](img/podium.png)
+![Gulano Cup #5 banner](img/podium.png "Podium Gulano Cup #5")
 
 | Peringkat | Pemain |
 | :-: | :-- |
@@ -1075,9 +1075,7 @@ Serangkaian aturan ini diberlakukan dan digunakan untuk kelancaran Gulano Cup #5
 - Pengecualian ketentuan perubahan jadwal hanya berlaku apabila ada keadaan memaksa objektif yang menimpa para/salah satu player.
 - Jadwal pertandingan dapat dirubah ke hari kerja apabila terdapat suatu urgensi dalam bentuk keadaan memaksa yang menimpa salah satu player.
 
-
-
 Segala perbuatan yang bertentangan dengan peraturan yang berlaku, setelah penilaian yang adil secara logika dan akal sehat, akan ditindak oleh panitia dengan memberikan sanksi sesuai dengan aturannya atau pertimbangan objektif kepada pelanggar peraturan.
 
 ## Catatan
-[^komisi]: Komisi
+[^komisi]: Komisi.
