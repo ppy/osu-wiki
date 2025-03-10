@@ -33,7 +33,7 @@ Submissions to this contest include the following elements:
 
 ## Rules
 
-**Failure to abide by these rules will lead to immediate disqualification.**
+**Failure to abide by these rules MAY lead to immediate disqualification.**
 
 - Team composition
   - There can only be a maximum of 5 people per team.
@@ -44,7 +44,7 @@ Submissions to this contest include the following elements:
 - Teams must submit their entry as a `.osz` by the submission deadline. Do not upload your entry to the website via BSS — there will be a separate submission for this.
   - Song requirements
     - Must contain the original song in `.mp3` (192 kbps) or `.ogg` (208 kbps) format.
-    - Length of song must be between 1:30–3:00.
+    - DRAIN TIME SHOULD AIM TO be between 1:30–3:00. Length of song should be reasonably close to this.
     - No restrictions on genre, but must be suitable for all ages (ie. not explicit).
     - Composers must own all the usage rights to samples (so it can be licensed).
   - Spread
