@@ -340,9 +340,9 @@ The Touhou Project Mania Cup 4th is run by various community members.
   2. [Akiyama Uni - Azakeri no Yuugi (V1do-) \[Joy\]](https://osu.ppy.sh/beatmapsets/2314758#mania/4953772)
   3. [Shibayan feat. 3L - Maigo no Echo (ScoliosisET) \[You are the most important person to me... (nerf ver.)\]](https://osu.ppy.sh/beatmapsets/2314830#mania/4954410)
   4. [Jane Remover - me (Cut Ver.) (YuEast 2018) \[u\]](https://osu.ppy.sh/beatmapsets/2314980#mania/4954292)
-  5. [EastNewSound - Hana wa gensou no Hate ni (PORTTAYER) \[Phantasmagoria x1.15\]](https://osu.ppy.sh/beatmapsets/2002645#mania/4164636)
 - Rice (Classic)
-  1. [Hachimitsu Lemon - far away (YuEast 2018) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/1661860#mania/4954291)
+  1. [EastNewSound - Hana wa gensou no Hate ni (PORTTAYER) \[Phantasmagoria x1.15\]](https://osu.ppy.sh/beatmapsets/2002645#mania/4164636)
+  2. [Hachimitsu Lemon - far away (YuEast 2018) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/1661860#mania/4954291)
 - Hybrid
   1. [Yuuhei Satellite - Hatenaki Kaze no Kiseki sae \~Ha\~ (Cut ver.) (\[Crz\]Reimu) \[Kochiya Sanae\]](https://osu.ppy.sh/beatmapsets/2314987#mania/4954309)
   2. [TAMAONSEN - 66 Ondo (YuEast 2018) \[66\]](https://osu.ppy.sh/beatmapsets/2314979#mania/4954289)
