@@ -197,6 +197,12 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! ()]()**\
+[View the showcase VOD here](https://youtu.be/TdJ31_oWYz4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
+[View the showcase VOD (Chinese commentary) here]()
+
 ### Quarterfinals
 
 **[Download the mappack here! (169 MB)](https://drive.google.com/file/d/1b8xUcLGy1Fq2IxFwSER2x9H1YtuxhqUa/)**\
@@ -317,6 +323,36 @@ The Touhou Project Mania Cup 4th is run by various community members.
 6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan) \[Stage 6\: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
 
 ## Match results
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1tYzf446Jbqvukc9PiqquBhQHDB-rr7JKIGVhIBjfyog/).
+
+Saturday, 8 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Adrianlazer Fanboys** | **6** | 0 | Help me, P3pp3RINNNNNN | [#1](https://osu.ppy.sh/community/matches/117411429) | [#1](https://www.youtube.com/watch?v=EH4mx-CSSD4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1GkRGYNEAp) |
+| cheewee10 | 3 | **6** | **shreimu (reimu shrimp)** | [#1](https://osu.ppy.sh/community/matches/117411461) | [#1](https://www.youtube.com/watch?v=Y-C5Nsyii6c&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1N9RGYoE2D) |
+| **\:bucket\:\:1217god\:\:scream\:** | **6** | 0 | fuma fumos | [#1](https://osu.ppy.sh/community/matches/117411860) | [#1](https://www.youtube.com/watch?v=38dLpHBfNDE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1T9R5YvE9M) |
+| **Gravity Coil** | **6** | 0 | 有点弱，， | [#1](https://osu.ppy.sh/community/matches/117414475) | [#1](https://www.youtube.com/watch?v=OEAZcrvETN8&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1CHR5Y4Exq) |
+| **Benny Goodman** | **6** | -1 | Eerie Idiots in Space | *win by default* |  |
+| **Girls Band Cry** | **6** | 0 | kingg! | [#1](https://osu.ppy.sh/community/matches/117414934) | [#1](https://www.youtube.com/watch?v=MyOCqh6qwLA&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1LeRGY6ESC) |
+| **Mahjong Soul Official** | **6** | 1 | Mr Beajek's winter ARC | [#1](https://osu.ppy.sh/community/matches/117415103) | [#1](https://www.youtube.com/watch?v=MUkicTBw_Mo&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1ntR5YpEk8) |
+| **"OH MY DAYS (skylanders)"** | **6** | 0 | the malaysians + 1 indo | [#1](https://osu.ppy.sh/community/matches/117415526) | [#1](https://www.youtube.com/watch?v=ABSVYCd06ME&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV19ERVYzEEM) |
+| **spongebob water** | **6** | 3 | E=mc² | [#1](https://osu.ppy.sh/community/matches/117416172) | [#1](https://www.youtube.com/watch?v=565x5y4Fweg&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1TQRGYFE9m) |
+
+Sunday, 9 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Retirados y Peligrosos** | **6** | 0 | The Clones | [#1](https://osu.ppy.sh/community/matches/117423465) | [#1](https://www.youtube.com/watch?v=SkAj7zy8RC8&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1YzRGYTE8W) |
+| **\:bucket\:\:1217god\:\:scream\:** | **6** | 0 | shreimu (reimu shrimp) | [#1](https://osu.ppy.sh/community/matches/117423589) | [#1](https://www.youtube.com/watch?v=aXSGyTl1t-g&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1uDR5YqEkY) |
+| spongebob water | 4 | **6** | **Girls Band Cry** | [#1](https://osu.ppy.sh/community/matches/117424400) | [#1](https://www.youtube.com/watch?v=_YZrC7XCIDY&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1T9R5YvEXL) |
+| **Girlfriend ASMR** | **6** | 1 | vivid/stasis | [#1](https://osu.ppy.sh/community/matches/117424431) | [#1](https://www.youtube.com/watch?v=utcTEQK5-hU&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1i9RVY1ECb) |
+| "OH MY DAYS (skylanders)" | 4 | **6** | **Benny Goodman** | [#1](https://osu.ppy.sh/community/matches/117427509) | [#1](https://www.youtube.com/watch?v=ZXFW24ieo6k&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1JSRVYJEB9) |
+| cucumbers | 4 | **6** | **Chodan** | [#1](https://osu.ppy.sh/community/matches/117428012) | [#1](https://www.youtube.com/watch?v=-QtT9C1sdpc&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV16hR5YnEwN) |
+| **Retirados y Peligrosos** | **6** | 3 | Adrianlazer Fanboys | [#1](https://osu.ppy.sh/community/matches/117432667) | [#1](https://www.youtube.com/watch?v=1IAf0HYkYE4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV14ERjYTED7) |
 
 ### Round of 16
 
