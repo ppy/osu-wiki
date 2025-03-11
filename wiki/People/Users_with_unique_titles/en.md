@@ -129,6 +129,7 @@ Winners of previous osu!mania World Cups with the **Former osu!mania Champion** 
 | [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697) |
 | [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
 | [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) | Former osu!mania 7K Champion: 2023 | ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405), ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664), ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011), ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) |
+| [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) | Former osu!mania 4K Champion: 2023 | ::{ flag=US }:: [ERA Dev](https://osu.ppy.sh/users/16407268) |
 | [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K) | Former osu!mania 7K Champion: 2024 | ::{ flag=KR }:: [HanJaeHun](https://osu.ppy.sh/users/2402586), ::{ flag=KR }:: [OutLast](https://osu.ppy.sh/users/5402803) |
 
 ## Official mapping contest winners
