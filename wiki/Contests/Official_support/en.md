@@ -63,9 +63,10 @@ Contests which abide by the following criteria are eligible for official support
 - **The contest must have a clearly defined judging criteria based on mapping merit.** These ensure a contest follows an understandable quality standard in line with other mapping contests.
 - **The contest's results must be determined by valuing scores from all judges equally.** Using standard deviation to determine final scores is required.[^exception-note]
   - The final score must be calculated as follows: `judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation`.
-- **The contest's host must moderate their judges' comments.** Comments which are either offensive, belittling, low effort, or otherwise inappropriate may be removed at the committee's discretion.
+- **The contest's host must moderate their judges' comments.** Comments which are either offensive, belittling, of low effort, or otherwise inappropriate may be removed at the committee's discretion.
 - **The contest's results must be publicly displayed with judge scores/comments visible.** The judges may be anonymised publicly, but the osu! team may ask for un-anonymised judge details if necessary.
-- **The contest must have at least 4 judges.** Contests with fewer judges allow each judge too much influence on overall results. This also applies to contests which incorporate a screening phase prior to judging.
+- **The contest must have at least 4 judges.** Contests with fewer judges allow each judge too much influence on overall results.
+- **Contests which incorporate a screening phase prior to judging must also have at least 4 screeners.**
 - **A user cannot participate in more than one submission to the contest.**
 - **Submissions to the contest should be anonymised.** This limits judging bias removing name association between a mapper and their map. This rule may be ignored only if a contest has special circumstances that warrant removing anonymity.
 - **The contest's organisers must not participate in the contest.** This includes both submitting a map *and* judging/screening submissions. Anyone with access to judging/screening information or un-anonymised submissions is considered a "contest organiser".
