@@ -90,6 +90,21 @@ Finalists with the **highest points** out of the **3** tracks will receive speci
 | 2nd | **[osu! deskmat](https://osu.ppy.sh/store/products/1347)** of the finalist's choice (courtesy of [Chaoslitz](https://osu.ppy.sh/users/3621552)), custom Pending Cup 2024 physical badges and sticker set |
 | 3rd | Custom Pending Cup 2024 physical badges and sticker set |
 
+### Contest points
+
+In addition, the finalists at **1st and 2nd place** per category receive the following amount of [**contest points**](/wiki/Contests/Contest_points):
+
+| Mapper | Points |
+| :-- | --:
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | +2 |
+| ::{ flag=ID }:: [William K](https://osu.ppy.sh/users/2261651) | +2 |
+| ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | +2 |
+| ::{ flag=CN }:: [Shijie](https://osu.ppy.sh/users/10927454) | +1 |
+| ::{ flag=CN }:: [Hyasalia](https://osu.ppy.sh/users/3375004) | +1 |
+| ::{ flag=US }:: [Jayblue](https://osu.ppy.sh/users/19618924) | +1 |
+
+View the entire contest point leaderboards [on the wiki](/wiki/Contests/Contest_points#leaderboards)
+
 ---
 
 For detailed scoring and judging, please check the [Mappers' Guild contest listing](https://mappersguild.com/contests/results?contest=66be99c3e1f8c3da9e8a995b) for the full results.
