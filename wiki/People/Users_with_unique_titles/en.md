@@ -90,7 +90,7 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) |
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
 | [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742), ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
-| [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950), ::{ flag=JP }:: [kotohira_06](https://osu.ppy.sh/users/22444525) ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562) |
+| [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950), ::{ flag=JP }:: [kotohira_06](https://osu.ppy.sh/users/22444525), ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562) |
 
 Winners of previous osu!catch World Cups with the **Former osu!catch Champion** user title:
 
