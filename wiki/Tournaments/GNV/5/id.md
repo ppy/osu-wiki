@@ -631,15 +631,17 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 ### Grand Final
 
 Jumat, 21 Februari 2025:
+
 | Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | Lower | **[LS]Robi** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: MightyTech | [#1](https://osu.ppy.sh/community/matches/117252175) | [#1](https://www.youtube.com/watch?v=ZgQZg3LAg-4) |
 
 Sabtu, 22 Februari 2025:
-| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD | |
+ 
+| Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |  |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- | :-- |
 | SHOW | GENG MOTOR | 4 | **5** | **GENG MAFIA** | [#1](https://osu.ppy.sh/community/matches/117263740) | [#1](https://www.youtube.com/watch?v=w1MtoVGTplI) | Showmatch wildcard (staf lawan pemain) |
-| Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/community/matches/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) | |
+| Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/community/matches/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) |  |
 
 ### Final
 
@@ -907,14 +909,14 @@ Senin, 13 Januari 2025:
 - Hasil Qualifiers yang lebih terperinci dapat dilihat pada [Mastersheet](https://www.gulanova.top/tournaments/gulanocup-lima/sheet)
 - Penghitungan rerata peringkat mengacu pada rumus `Σ(Peringkat Stage * Bobot Stage)`, dengan rincian bobot masing-masing stage sebagai berikut:
 
-| | **Stage 1 (SV)** | **Stage 2 (RC1)** | **Stage 3 (RC2)** | **Stage 4 (LN1)** | **Stage 5 (LN2)** | **Stage 6 (HB)** |
+|  | **Stage 1 (SV)** | **Stage 2 (RC1)** | **Stage 3 (RC2)** | **Stage 4 (LN1)** | **Stage 5 (LN2)** | **Stage 6 (HB)** |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Bobot** | 12,50% | 20,83% | 18,33% | 15,00% | 17,50% | 15,83% |
 
 - Hanya 64 pemain teratas yang lanjut ke babak selanjutnya.
 [Lihat VOD seed reveal di sini!](https://www.youtube.com/watch?v=8hdq8-x-6LA)
 
-| Seed | Pemain | Rerata peringkat (berbobot)|
+| Seed | Pemain | Rerata peringkat (berbobot) |
 | --: | :-- | --: |
 | #1 | ::{ flag=ID }:: [Tsurumaki_](https://osu.ppy.sh/users/18790026) | 5,5 |
 | #2 | ::{ flag=ID }:: [Prinow6](https://osu.ppy.sh/users/18658630) | 6 |

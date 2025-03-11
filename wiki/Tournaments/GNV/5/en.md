@@ -638,10 +638,10 @@ Friday, 21 February 2025:
 
 Saturday, 22 February 2025:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link | VOD link | |
+| Bracket | Player 1 |  |  | Player 2 | Match link | VOD link |  |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- | :-- |
 | SHOW | GENG MOTOR | 4 | **5** | **GENG MAFIA** | [#1](https://osu.ppy.sh/community/matches/117263740) | [#1](https://www.youtube.com/watch?v=w1MtoVGTplI) | Wildcard showmatch (staff vs player) |
-| Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/community/matches/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) | |
+| Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/community/matches/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) |  |
 
 ### Finals
 
@@ -909,14 +909,14 @@ Monday, 13 January 2025:
 - Detailed information on the standings of the Qualifier stage can be found in [the master spreadsheet](https://www.gulanova.top/tournaments/gulanocup-lima/sheet)
 - Average rank was determined by `Σ(Stage Rank * Stage Weight)` with each stage weights as follows:
 
-| | **Stage 1 (SV)** | **Stage 2 (RC1)** | **Stage 3 (RC2)** | **Stage 4 (LN1)** | **Stage 5 (LN2)** | **Stage 6 (HB)** |
+|  | **Stage 1 (SV)** | **Stage 2 (RC1)** | **Stage 3 (RC2)** | **Stage 4 (LN1)** | **Stage 5 (LN2)** | **Stage 6 (HB)** |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Weight** | 12.50% | 20.83% | 18.33% | 15.00% | 17.50% | 15.83% |
 
 - Only the top 64 players advances to the next stage.
 [Watch the seed reveal VOD here!](https://www.youtube.com/watch?v=8hdq8-x-6LA)
 
-| Seed | Player | Avg. rank (weighted)|
+| Seed | Player | Avg. rank (weighted) |
 | --: | :-- | --: |
 | #1 | ::{ flag=ID }:: [Tsurumaki_](https://osu.ppy.sh/users/18790026) | 5.5 |
 | #2 | ::{ flag=ID }:: [Prinow6](https://osu.ppy.sh/users/18658630) | 6 |
