@@ -71,6 +71,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
   - [Round of 32](https://www.twitch.tv/collections/ad7xc-k4JRgA3w)
   - [Round of 16](https://www.twitch.tv/collections/Edj5-4BmJxj1nQ)
   - [Quarterfinals](https://www.twitch.tv/collections/txoutiFOKRhxbQ)
+  - [Semifinals](https://www.twitch.tv/collections/M8vf-QHSKxjtTA)
 
 ## Participants
 
@@ -195,13 +196,59 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 <!--## Podium-->
 
+## Match schedule: Semifinals
+
+### Saturday, 15 March 2025
+
+| Team A | Team B | Match time | Stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| 有点弱，， | Girls Band Cry | [Mar 15 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T120000&p1=1440&p2=3910) | *TBD* | [^losers-bracket] |
+| Mr Beajek's winter ARC | Benny Goodman | [Mar 15 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T130000&p1=1440&p2=3903&p3=3909&p4=3911) | *TBD* | [^losers-bracket] |
+| cucumbers | \:bucket\:\:1217god\:\:scream\: | [Mar 15 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T140000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^losers-bracket] |
+
+### Sunday, 16 March 2025
+
+| Team A | Team B | Match time | Stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| vivid/stasis | Retirados y Peligrosos | [Mar 16 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T030000&p1=1440&p2=3911&p3=3917) | *TBD* | [^losers-bracket] |
+| Gravity Coil | Chodan | [Mar 16 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T040000&p1=1440&p2=3920&p3=3909&p4=3911) | *TBD* | [^winners-bracket] |
+| Mahjong Soul Official | Girlfriend ASMR | [Mar 16 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | *TBD* | [^winners-bracket] |
+| cucumbers | 有点弱，， | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^potential-match] |
+| cucumbers | Girls Band Cry | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^potential-match] |
+| \:bucket\:\:1217god\:\:scream\: | 有点弱，， | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3910) | *TBD* | [^potential-match] |
+| \:bucket\:\:1217god\:\:scream\: | Girls Band Cry | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3910) | *TBD* | [^potential-match] |
+| vivid/stasis | Mr Beajek's winter ARC | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3911&p3=3903) | *TBD* | [^potential-match] |
+| vivid/stasis | Benny Goodman | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3911&p3=3903&p4=3909) | *TBD* | [^potential-match] |
+| Retirados y Peligrosos | Benny Goodman | [Mar 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T150000&p1=1440&p2=3917&p3=3903&p4=3909&p5=3911) | *TBD* | [^potential-match] |
+| Retirados y Peligrosos | Mr Beajek's winter ARC | [Mar 16 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T200000&p1=1440&p2=3917&p3=3903) | *TBD* | [^potential-match] |
+
 ## Mappools
 
 ### Semifinals
 
-**[Download the mappack here! ()]()**\
+**[Download the mappack here! (134M)](https://drive.google.com/file/d/1YYszI1Ui_XQ7wxZql9vpBE2m_p7mxCJh/)**\
 [View the showcase VOD here](https://youtu.be/TdJ31_oWYz4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
-[View the showcase VOD (Chinese commentary) here]()
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1L5QLYgEu1/)
+
+- Rice
+  1. [Diao ye zong - Seiren 'Uruwashi no Ventra' (Cut ver.) (Hylotl) \[UFO Romance!?\]](https://osu.ppy.sh/beatmapsets/2337247#mania/5018267)
+  2. [Shinigiwa Satellite - Taishoku Reality (\[GB\]Kita-) \[Lost\]](https://osu.ppy.sh/beatmapsets/2337391#mania/5018690)
+  3. [Asomosphere - Cross Commander Circuit (PORTTAYER) \[Triangle Chase (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2337111#mania/5018935)
+  4. [SmileDemon - Doomtempo (\[GB\]Azukisan) \[DoomLotus 150bpm edit\]](https://osu.ppy.sh/beatmapsets/2337108#mania/5017844)
+  5. [SOUND HOLIC feat. Nana Takahashi - No Life Queen (elexire) \[cut\]](https://osu.ppy.sh/beatmapsets/2176951#mania/4597090)
+  6. [Uten-Kekkoh - SYOUZYOSAKUSOUTYU (Nicknem\_) \[Egoist (THMC edit)\]](https://osu.ppy.sh/beatmapsets/2337473#mania/5018946)
+  7. [Xenon - 63HiiraossHuikgoeH53 (cut ver.) (ScoliosisET) \[Gensokyo Daydream 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/2337459#mania/5018927)
+- Hybrid
+  1. [S.S.H. - Genshi no Yoru \~ Ghostly Eyes (\[GB\]Reisen, Xu seventeen) \[Ei Yoru no Mukui. // co. Xu seventeen 1.05x\]](https://osu.ppy.sh/beatmapsets/2337121#mania/5017868)
+  2. [Spacelectro feat. setsunann - Luv the world \[DJ Raisei Remix\] (Cut Ver.) (gzdongsheng) \[Phantom\]](https://osu.ppy.sh/beatmapsets/2337373#mania/5018650)
+  3. [Amane - Neuro Circuit (PORTTAYER) \[Crazy Bass Dancers\]](https://osu.ppy.sh/beatmapsets/2337109#mania/5017847)
+- Long Note
+  1. [BUTAOTOME - Mesen (\[GB\]Reisen) \[roslaunch ittsui\_no\_kamikemono touhou.launch\]](https://osu.ppy.sh/beatmapsets/2337122#mania/5017870)
+  2. [Sawawa - Taketori Hishou \~Lunatic Princess (MyZterioN-) \[nisemono 1.05x\]](https://osu.ppy.sh/beatmapsets/2337199#mania/5018089)
+  3. [dBu - Majotachi no Butoukai \~ Magus (Castella) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/2337323#mania/5018527)
+  4. [ALiCE'S EMOTiON - Ghostly Parapara Ship (Hardcore Edit) (V1do-) \[Let's enjoy the Parapara Night! (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/2337396#mania/5018706)
+- Tiebreaker
+  1. **[HAGISOPH - Beyond the Millennium (Blue\_Potion, V1do-) \[Lunatic Eternity (w/ Blue\_Potion)\]](https://osu.ppy.sh/beatmapsets/2337397#mania/5018707)**
 
 ### Quarterfinals
 
@@ -751,4 +798,7 @@ The weights for the Qualifiers are as follows:
 
 ## Notes
 
+[^winners-bracket]: Winners bracket match
+[^losers-bracket]: Losers bracket match
+[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
