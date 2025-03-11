@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Tokyo Machine - BLEEP BLOOP [POWER COGS]](https://osu.ppy.sh/beatmapsets/2325533#mania/4984847)
   2. [ISOKNOCK feat. Bantu - ENERGY [amfilinyaenaji debeslaintekontollomi]](https://osu.ppy.sh/beatmapsets/2325529#mania/4984835)
 - Tiebreaker
-  1. **[morethanahalf & typeMARS - Kemilau Fana feat. Altair Aquila & Mariela Riona [Menuliskan Takdir di Atas Abu Keraguan]](https://osu.ppy.sh/b/4985255)**
+  1. **[morethanahalf & typeMARS - Kemilau Fana feat. Altair Aquila & Mariela Riona [Menuliskan Takdir di Atas Abu Keraguan]](https://osu.ppy.sh/beatmapsets/2325708#mania/5008074)**
 
 ### Finals
 
@@ -413,7 +413,7 @@ This competition has come to an end and resulted in the following podium:
   45. [Risshuu feat. Choko - Take [Beyond]](https://osu.ppy.sh/beatmapsets/1377628#mania/2847100) submitted by [KafuuChlno](https://osu.ppy.sh/users/31102647)
   46. [korea - oronaminC [korean vibro]](https://osu.ppy.sh/beatmapsets/543648#mania/1152244) submitted by [RaffCo](https://osu.ppy.sh/users/7589503)
   47. [Angelic Burster - Star Bubble [AngeliChan!!]](https://osu.ppy.sh/beatmapsets/1271321#mania/2641914) submitted by [KyoukaRy](https://osu.ppy.sh/users/13403380)
-  48. [Laser Imouto - Prismatix [SMOCMouse [Jumpstream+trill] 1.1x (220bpm) OD8]](https://osu.ppy.sh/b/3687529) submitted by [danar mw](https://osu.ppy.sh/users/13859109)
+  48. Laser Imouto - Prismatix \[SMOCMouse \[Jumpstream+trill\] 1.1x (220bpm) OD8\] submitted by [danar mw](https://osu.ppy.sh/users/13859109)
   49. [Various Artists - arpia97's Vibro Anthology [Electric Butterfly (ATTang)]](https://osu.ppy.sh/beatmapsets/724338#mania/3261950) submitted by [beethiven](https://osu.ppy.sh/users/18560270)
   50. [The Quick Brown Fox - ~ GAMAMA DAN ~ Break (Handhurt Remix) [BREAKBREAKBREAKBREAK]](https://osu.ppy.sh/beatmapsets/2101452#mania/4409616) submitted by [ImOyZo](https://osu.ppy.sh/users/14875989)
   51. [crafter2011 - keep out! [Myst's OUT!!!]](https://osu.ppy.sh/beatmapsets/2068972#mania/4328936) submitted by [FinHazel](https://osu.ppy.sh/users/13660273)
@@ -545,7 +545,7 @@ This competition has come to an end and resulted in the following podium:
   47. [Porter Robinson & Madeon - Shelter [Allein Quad 1.2]](https://osu.ppy.sh/beatmapsets/1490961#mania/3056264) submitted by [KyoukaRy](https://osu.ppy.sh/users/13403380)
   48. [Nakiri Ayame - Good-bye sengen [Ojou]](https://osu.ppy.sh/beatmapsets/1603078#mania/3273717) submitted by [danar mw](https://osu.ppy.sh/users/13859109)
   49. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) [Chord Life [135]]](https://osu.ppy.sh/beatmapsets/1170842#mania/2442473) submitted by [beethiven](https://osu.ppy.sh/users/18560270)
-  50. [HoneyWorks feat.Kotoha - Ai ni Deai Koi wa Tsuzuku [SMOCMouse [Chordjack] 1.6x (320bpm) OD8]](https://osu.ppy.sh/b/4164787) submitted by [ImOyZo](https://osu.ppy.sh/users/14875989)
+  50. HoneyWorks feat.Kotoha - Ai ni Deai Koi wa Tsuzuku \[SMOCMouse \[Chordjack\] 1.6x (320bpm) OD8\] submitted by [ImOyZo](https://osu.ppy.sh/users/14875989)
   51. [Chroma feat. mikanzil - Koi no Kuuchuu Bunkai [bittersweet love.]](https://osu.ppy.sh/beatmapsets/2014990#mania/4193642) submitted by [FinHazel](https://osu.ppy.sh/users/13660273)
   52. [Yoshida Yasei feat. Kasane Teto - Override [pasta]](https://osu.ppy.sh/beatmapsets/2105074#mania/4417022) submitted by [MzLord](https://osu.ppy.sh/users/14659672)
   53. [Pastel*Palettes - Zettai Sengen ~Recital~ [Trick or Escape!]](https://osu.ppy.sh/beatmapsets/1052116#mania/2198742) submitted by [[ Heez ]](https://osu.ppy.sh/users/17957861)
