@@ -446,7 +446,7 @@ Sunday, 25 July 2024:
 
 ### Qualifiers
 
-Seeding results are calculated using the [Zipfian's law](https://osu.ppy.sh/wiki/en/Tournaments/Common_seeding_methods#zipf's-law) method. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Lu-VWJz3lqIvsoPUIiE4KkI6qN3Fs0jU37sI66IRTMk).
+Seeding results are calculated using the [Zipfian's law](https://osu.ppy.sh/wiki/en/Tournaments/Common_seeding_methods#zipf's-law) method. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/146kfZI5-YnTXftZTNyADTjvwx5zaEYbn7h5wImQtFDU).
 
 ## Ruleset
 
