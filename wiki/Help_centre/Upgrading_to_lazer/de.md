@@ -293,7 +293,7 @@ Wir haben eine riesige ToDo-Liste an Funktionen und Verbesserungen, die von den 
 
 #### Wie greife ich auf meinen Songs-Ordner zu?
 
-Es gibt keinen Songs-Ordner in lazer! Das ermöglicht uns, coole Dinge zu machen, wie zum Beispiel, dass in der Songauswahl nicht mehr `F5` gedrückt werden muss, um Beatmaps neuzuladen (weil Beatmaps immer das richtige Format haben) und dass der Speicherplatz, der von Beatmaps verbraucht wird, um 20 bis 40 % reduziert wird. Wie lazer Dateien speichert, kannst du in [in diesem Artikel](/wiki/Client/Release_stream/Lazer/File_storage) nachlesen.
+Es gibt keinen Songs-Ordner in lazer! Das ermöglicht uns, coole Dinge zu machen, wie zum Beispiel, dass in der Songauswahl nicht mehr `F5` gedrückt werden muss, um Beatmaps neuzuladen (weil Beatmaps immer das richtige Format haben) und dass der Speicherplatz, der von Beatmaps verbraucht wird, um 20 bis 40 % reduziert wird. Wie lazer Dateien speichert, kannst du [in diesem Artikel](/wiki/Client/Release_stream/Lazer/File_storage) nachlesen.
 
 Wenn du Änderungen an Beatmaps vornehmen musst, dann verwende bitte den Editor. Künftig werden wir einen Modus im Editor einführen, der einen Beatmap-Ordner temporär für die externe Bearbeitung verfügbar macht. So kannst du während der Erstellung einer Beatmap externe Tools verwenden.
 
