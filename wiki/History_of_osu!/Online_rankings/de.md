@@ -33,7 +33,7 @@ Mit Stand vom 21. Juli 2024 ist ::{ flag=KR }:: [Motion](https://osu.ppy.sh/user
 
 ## ![][osu!mania] osu!mania
 
-Mit Stand vom 13. April 2023 ist ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
+Mit Stand vom 31. Dezember 2024 ist ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
