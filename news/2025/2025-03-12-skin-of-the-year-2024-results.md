@@ -64,7 +64,7 @@ Continuing on with the time travelling theme, Phosphor transports you back to a 
 
 ![](https://assets.ppy.sh/profile-badges/SOTY2024-Phosphor@2x.png)
 
-[![](/wiki/shared/news/2025-03-12-skin-of-the-year-2024-results/fool-moon-night-2.0.jpg)](https://osu.ppy.sh/community/forums/topics/1885740)
+[![](/wiki/shared/news/2025-03-12-skin-of-the-year-2024-results/fool-moon-night2.0.jpg)](https://osu.ppy.sh/community/forums/topics/1885740)
 
 Yet another remaster has grabbed the hearts and minds of the community, this time around being the [FOOL MOON NIGHT 2.0](https://osu.ppy.sh/community/forums/topics/1885740) skin by [Spoo](https://osu.ppy.sh/users/11805037)!
 
@@ -77,6 +77,8 @@ Spoo took the [original skin](https://osu.ppy.sh/community/forums/topics/1775136
 You could say that 2024 was [Spoo](https://osu.ppy.sh/users/11805037)'s year of the remaster, and it looks like it has paid out it's dividends, with them taking both the #1 and #2 spots!
 
 With yet another throwback, the [original skin](https://osu.ppy.sh/community/forums/topics/1293207) was based on the famous [background](https://images6.alphacoders.com/974/974020.png) used across various FREEDOM DiVE beatmapsets, and it was created all the way back in 2021 for the [first ever skinship skinning contest](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)! After it received the Spoo™ treatment with a complete re-draw of all elements, it was received with huge praise, so much so that the community deemed it worthy of the #1 spot, with **1078** votes!
+
+![](https://assets.ppy.sh/profile-badges/SOTY2024-FREEDOM-DiVE-REiMAGINED@2x.png)
 
 ---
 
