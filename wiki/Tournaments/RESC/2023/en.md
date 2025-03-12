@@ -427,8 +427,8 @@ Saturday, 24 July 2024:
 | **fresh off the boat** | **5** | 0 | GENTE SERIA USH | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109156731) |
 | **ballers will ball** | **5** | 2 | PSG | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109160124) |
 | **Grease Monkey** | **5** | 0 | widepeepoHappy | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109166254) |
-| **full of soup** | **5** | 2 | baen | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/mp/109167068) |
-| **ESSA** | **5** | 2 | napadeniesomov | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/mp/109167069) |
+| **full of soup** | **5** | 2 | baen | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109167068) |
+| **ESSA** | **5** | 2 | napadeniesomov | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109167069) |
 | **swaglins** | **5** | 1 | Caramba™ | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109169902) |
 
 Sunday, 25 July 2024:
@@ -442,11 +442,11 @@ Sunday, 25 July 2024:
 | **Capybara** | **5** | 2 | MyHouse.WAD | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109184506) |
 | **Gentlemen fgsfds** | **5** | 0 | pon | *win by default* |
 | **Sleep accommodation** | **5** | 0 | Contentpilled | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109185408) |
-| **halcyon** | **5** | 0 | POSKVONYALbl | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109186281) 
+| **halcyon** | **5** | 0 | POSKVONYALbl | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/109186281) |
 
 ### Qualifiers
 
-Seeding results are calculated using the [Zipfian's law](https://osu.ppy.sh/wiki/en/Tournaments/Common_seeding_methods#zipf's-law) method. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/146kfZI5-YnTXftZTNyADTjvwx5zaEYbn7h5wImQtFDU).
+Seeding results are calculated using the [Zipfian's law](/wiki/Tournaments/Common_seeding_methods#zipf's-law) method. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/146kfZI5-YnTXftZTNyADTjvwx5zaEYbn7h5wImQtFDU).
 
 ## Ruleset
 
