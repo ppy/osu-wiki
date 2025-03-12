@@ -72,7 +72,7 @@ Spoo took the [original skin](https://osu.ppy.sh/community/forums/topics/1775136
 
 ![](https://assets.ppy.sh/profile-badges/SOTY2024-FOOL-MOON-NIGHT@2x.png)
 
-[![](/wiki/shared/news/2025-03-12-skin-of-the-year-2024-results/freedom-dive.jpg)](https://osu.ppy.sh/community/forums/topics/2019099)
+[![](/wiki/shared/news/2025-03-12-skin-of-the-year-2024-results/freedom-dive-remastered.jpg)](https://osu.ppy.sh/community/forums/topics/2019099)
 
 You could say that 2024 was [Spoo](https://osu.ppy.sh/users/11805037)'s year of the remaster, and it looks like it has paid out it's dividends, with them taking both the #1 and #2 spots!
 
