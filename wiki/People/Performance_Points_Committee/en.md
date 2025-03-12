@@ -12,7 +12,7 @@ The Performance Points Committee's responsibilities include:
 - Organizing development efforts and helping contributors
 - Reviewing and developing changes in difficulty calculation algorithms, ensuring community satisfaction
 - Deciding which changes will be deployed and used in the game
-- Assisting the [Performance Points Maintainers](/wiki/People/Performance_Points_Maintainers) with writing news posts for newly deployed changes
+- Assisting the [Performance Points Maintainers](#performance-points-maintainers) with writing news posts for newly deployed changes
 
 ## Workflow
 
@@ -22,7 +22,18 @@ When a new difficulty calculation change is proposed on [GitHub](https://github.
 
 The Performance Points Committee mainly operates in the [Performance Points Discord server](https://discord.gg/aqPCnXu), with some game modes also having [separate servers](/wiki/Community/Discord_servers#community-development). The committee also maintains a [Twitter account](https://x.com/pp_committee) used for official announcements and difficulty calculation related news.
 
-## Members
+## Performance Points Maintainers
+
+The maintainers are hand-picked by osu! developers and consist of people with a lot of experience organising performance points efforts. They are responsible for writing newsposts, merging batches of changes into the `pp-dev` branch on the osu! repository and acting as a final approval on all PP changes.
+
+<!-- internal reference: https://github.com/orgs/ppy/teams/pp-maintainers -->
+
+| osu! profile | GitHub profile |
+| :-- | :-- |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
+
+## Committee members
 
 Members of the committee are hand-picked by osu! developers and/or other committee members and consist of people with a lot of experience working on the difficulty calculation system.
 
