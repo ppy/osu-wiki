@@ -24,7 +24,7 @@ The Performance Points Committee mainly operates in the [Performance Points Disc
 
 ## Performance Points Maintainers
 
-The maintainers are hand-picked by osu! developers and consist of people with a lot of experience organising performance points efforts. They are responsible for writing newsposts, merging batches of changes into the `pp-dev` branch on the osu! repository and acting as a final approval on all PP changes.
+The maintainers are hand-picked by osu! developers and consist of people with a lot of experience organising performance points efforts. They are responsible for writing news posts, merging batches of changes into the [`pp-dev`](https://github.com/ppy/osu/tree/pp-dev) branch on the [osu! repository](https://github.com/ppy/osu) and acting as a final approval on all PP changes.
 
 <!-- internal reference: https://github.com/orgs/ppy/teams/pp-maintainers -->
 
