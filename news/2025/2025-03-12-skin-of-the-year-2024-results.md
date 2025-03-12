@@ -54,7 +54,7 @@ Despite the "anime girl" theme, Teto's Territory is actually a surprisingly simp
 
 Another familiar face joins the party! [Cyperdark](https://osu.ppy.sh/users/9893708) has already earned skinning-related accolades by winning last years [Skin of the Year](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) contest, so it isn't surprising they are showing up once again.
 
-After last year's release of the [official osu! deskmats](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) featuring three different community designs to choose from, the only logical thing to do was combine the designs into one beautiful skin, all while maintaining a clean aesthetic on the gameplay portion. This original idea was rewarded with a whopping **713** votes, and the #4 spot.
+After last year's release of the [official osu! deskmats](https://osu.ppy.sh/home/news/2024-08-17-osu!-deskmats) featuring three different community designs to choose from, the only logical thing to do was combine the designs into one beautiful skin, all while maintaining a clean aesthetic on the gameplay portion. This original idea was rewarded with a whopping **713** votes, and the #4 spot.
 
 [![](/wiki/shared/news/2025-03-12-skin-of-the-year-2024-results/phosphor.jpg)](https://osu.ppy.sh/community/forums/topics/1920571)
 
