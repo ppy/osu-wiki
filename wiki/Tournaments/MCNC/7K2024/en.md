@@ -34,7 +34,7 @@ The **osu!mania 7K Chinese National Cup 2024** (***MCNC 7K 2024***) was a countr
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, CNY 1,320, 4 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 880, 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 500, 1 months of osu!supporter |
-| 4th to 12th  | CNY 40 |
+| 4th to 12th | CNY 40 |
 | 13th to 32nd | CNY 25 |
 | *All players who passed Qualifiers* | CNY 15 |
 
