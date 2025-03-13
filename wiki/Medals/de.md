@@ -1,12 +1,12 @@
 # Medaillen
 
-**Medaillen**, auch früher bekannt als *Achievements* (zu Dt. Erfolge oder Errungenschaften), sind Embleme auf der Profilseite, welche anzeigen, dass der Benutzer ein Ziel erreicht hat. Zur Zeit können **324** Medaillen freigeschaltet werden in 8 unterschiedlichen Kategorien: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) und [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medaillen**, auch früher bekannt als *Achievements* (zu Dt. Erfolge oder Errungenschaften), sind Embleme auf der Profilseite, welche anzeigen, dass der Benutzer ein Ziel erreicht hat. Zur Zeit können **339** Medaillen freigeschaltet werden in 8 unterschiedlichen Kategorien: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) und [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
-**Beatmap Packs Medaillen** sind Medaillen, die beim Abschließen bestimmter [Thema-Beatmap-Pakete](https://osu.ppy.sh/beatmaps/packs?type=theme) oder [Beatmap-Pakete von Künstlern/Alben](https://osu.ppy.sh/beatmaps/packs?type=artist) überreicht werden. Diese Medaillen können erlangt werden, indem jede Beatmap in irgendeiner Schwierigkeitsstufe innerhalb des entsprechenden Beatmap-Pakets mindestens einmalig gemeistert wird.
+**Beatmap Packs Medaillen** sind Medaillen, die beim Abschließen bestimmter [Thema-Beatmap-Pakete](https://osu.ppy.sh/beatmaps/packs?type=theme), [Project Loved Beatmap-Pakete](https://osu.ppy.sh/beatmaps/packs?type=loved) oder [Beatmap-Pakete von Künstlern/Alben](https://osu.ppy.sh/beatmaps/packs?type=artist) überreicht werden. Diese Medaillen können erlangt werden, indem jede Beatmap in irgendeiner Schwierigkeitsstufe innerhalb des entsprechenden Beatmap-Pakets mindestens einmalig gemeistert wird.
 
-Alle Beatmaps müssen im [osu!](/wiki/Game_mode/osu!)-Spielmodus bezwungen werden, um sich für das Abzeichen zu qualifizieren, sofern nicht anders angegeben. Die Verwendung von entweder [Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher), [Mods zur Erhöhung der Schwierigkeit](/wiki/Gameplay/Game_modifier#schwieriger) oder [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) ist erlaubt.
+Für den Erwerb dieser Medaillen müssen alle Beatmaps im [osu!](/wiki/Game_mode/osu!)-Spielmodus abgeschlossen werden, sofern nicht anders angegeben. Die Verwendung von entweder [Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher), [Mods zur Erhöhung der Schwierigkeit](/wiki/Gameplay/Game_modifier#schwieriger) oder [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) ist erlaubt.
 
 Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime Packs, Internet! Packs und Rhythm Game Packs seit [ihrer ersten Bekanntmachung im Jahr 2008](https://osu.ppy.sh/community/forums/topics/1853) dramatisch verändert hat. Siehe [originale Beatmap-Pakete](/wiki/Medals/Legacy_beatmap_packs) für die Liste dieser Beatmap-Pakete in ihrem alten/originalen Zustand.
 
@@ -34,7 +34,7 @@ Alle Mod Introduction Medaillen können in jedem [Spielmodus](/wiki/Game_mode) f
 - Die kurze Beschreibung der Medaille und
 - Die *Flair-Texte*<!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> der Medaillen (sofern vorhanden), sichtbar beim Fahren der Maus über die entsprechenden Karten.
 
-Da die Hush-Hush Medaillen eine Art geheime Errungenschaft sein sollen, sind die Freischaltungsanforderungen nicht direkt spezifiziert, jedoch sind Spieler [dazu eingeladen, zusammenzuarbeiten, um gemeinsam herauszufinden, wie alle Hush-Hush Medaillen da draußen erlangt werden können](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+Da die Hush-Hush Medaillen eine Art geheime Errungenschaft sein sollen, sind die Freischaltungsanforderungen nicht direkt spezifiziert, jedoch sind Spieler [dazu eingeladen, zusammenzuarbeiten, um gemeinsam herauszufinden, wie alle Hush-Hush Medaillen erlangt werden können](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
 Es gibt auch eine Unterkategorie namens "Hush-Hush (Expert)". Der Unterschied ist, dass für die dortigen Medaillen keine [speziellen](/wiki/Gameplay/Game_modifier#sonstige) Mods oder Mods, die die [Schwierigkeit reduzieren](/wiki/Gameplay/Game_modifier#einfacher), aktiviert sein dürfen.
 
@@ -62,8 +62,9 @@ Obwohl die saisonalen Spotlights seit Frühjahr 2020 zugunsten des [aktuellen Be
 
 **Beatmap Challenge Packs Medaillen**, oder alternativ auch [*Skill Packs Medaillen*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs) genannt, sind Medaillen, die beim Abschließen der höchsten Schwierigkeitsstufe auf allen Beatmaps, die in einem bestimmten [Thema-Beatmap-Paket](https://osu.ppy.sh/beatmaps/packs?type=theme) oder [Beatmap-Paket eines Künstlers/Albums](https://osu.ppy.sh/beatmaps/packs?type=artist) enthalten sind, überreicht werden (*ohne aktivierte [Mods zur Reduzierung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) oder [spezielle](/wiki/Gameplay/Game_modifier#sonstige) Mods*). Diese Beatmap-Pakete werden speziell angeboten, um das Verständnis von verschiedenen Gameplay-Aspekten um ein bestimmtes Fähigkeitslevel der Spieler zu testen, also z. B. innerhalb einer bestimmten [Sternebewertung](/wiki/Beatmap/Star_rating) oder einem Bereich von Schwierigkeitsgraden.
 
-Alle Beatmaps im Paket müssen im [osu!](/wiki/Game_mode/osu!)-Spielmodus abgeschlossen werden, um sich für das Abzeichen zu qualifizieren, sofern nicht anders angegeben.
+Für den Erwerb dieser Medaillen müssen alle Beatmaps im jeweiligen Paket im [osu!](/wiki/Game_mode/osu!)-Spielmodus abgeschlossen werden, sofern nicht anders angegeben.
 
 ## Siehe auch
 
+- [Medaillen-Ruhmeshalle](First_medal_unlocks)
 - [Freischaltungsanforderungen für Medaillen](Unlock_requirements)

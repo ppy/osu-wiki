@@ -226,7 +226,7 @@
 
 - [Gabe](https://osu.ppy.sh/users/654108)をosu! Alumniからビートマップアプリーシエイションチームへ (2014-09-02)
 - [Frostmourne](https://osu.ppy.sh/users/199669)をosu! Alumniから品質保証チームへ (2014-09-05)
-- Added [XavierJones](https://osu.ppy.sh/users/495733) チャットモデレーター (2014-09-08)
+- [XavierJones](https://osu.ppy.sh/users/495733)をチャットモデレーターに追加 (2014-09-08)
 - [Card N'FoRcE](https://osu.ppy.sh/users/3936)をosu! Alumniへ移動 (2014-09-11)
 - [Asphyxia](https://osu.ppy.sh/users/1715720)をビートマップアプリーシエイションチームから品質保証チームへ (2014-09-20)
 - [captin1](https://osu.ppy.sh/users/689997)をビートマップアプリーシエイションチームへ移動 (2014-09-20)

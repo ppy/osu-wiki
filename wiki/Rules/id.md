@@ -1,9 +1,3 @@
----
-no_native_review_since: 5e9fdb4c627a3fae13ab9a1e60e70d1e3aabf594
-outdated_since: 218cb353a5cb04575555aa5d0c33fd5e5de209d7
-outdated_translation: true
----
-
 # Peraturan
 
 Peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! yang menyenangkan dan ramah bagi semua.
@@ -11,12 +5,12 @@ Peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! y
 ## Peraturan komunitas
 
 1. **Setiap pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat adalah satu-satunya akun osu! milikmu yang sah, terhitung dari detik pertama akun ini didaftarkan. Akun ini adalah KAMU. Bukan orang lain — bukan saudaramu, ibumu, kakakmu, temanmu — akun ini hanya milik KAMU. Jangan bagikan akunmu dengan siapa pun juga. Kamu tidak dibenarkan untuk membuat akun baru apabila kamu kehilangan akses menuju akunmu. Jagalah akunmu sebaik-baiknya.
-2. **Bermainlah secara sportif.** Penggunaan sarana pihak ketiga untuk memperoleh keuntungan dalam bentuk apa pun sangat tidak dibenarkan. Hal ini meliputi program makro, *aim assist*, modifikasi waktu, dan lain sebagainya. Apabila suatu program dapat membantu kamu untuk bermain secara tidak adil, maka program ini tidak patut untuk kamu gunakan!
-3. **Bersikap baiklah terhadap satu sama lain.** Pelecehan dan segala bentuk perilaku tak etis lainnya tidak memiliki tempat di dalam komunitas osu!. Kita di sini untuk bermain mengikuti irama musik, memukul drum, menangkap buah, dan menekan tuts keyboard, bukan untuk menjadi orang yang menyinggung perasaan orang lain.
-4. **Jangan bertindak kurang ajar.** Apabila kamu tidak yakin apakah kamu telah melanggar peraturan ini, mungkin saja secara tidak sadar kamu telah melanggarnya.
+2. **Bermainlah secara sportif.** Menggunakan sarana pihak ketiga dalam bentuk apa pun untuk memperoleh keuntungan sangat tidak dibenarkan. Hal ini meliputi program penempa bidikan (*aim assist*), modifikasi waktu, dan lain sebagainya. Penggunaan makro, kaitan tombol, atau perangkat keras di mana suatu tindakan fisik tertentu (mis. menekan tuts) tidak menghasilkan tindakan yang sama di dalam permainan juga tidak diperkenankan[^macros]. Apabila suatu program melakukan sesuatu untukmu di dalam permainan yang seharusnya kamu lakukan sendiri, maka program ini tidak patut untuk digunakan!
+3. **Bersikap baiklah terhadap satu sama lain.** Pelecehan dan perilaku tak etis lainnya tidak memiliki tempat di dalam komunitas osu!. Kita di sini untuk bermain mengikuti irama musik, memukul drum, menangkap buah, dan menekan tuts keyboard, bukan untuk menjadi orang yang menyinggung perasaan orang lain.
+4. **Jangan bertindak kurang ajar.** Apabila kamu tidak yakin apakah kamu sudah melanggar peraturan ini, mungkin saja kamu telah melanggarnya.
 5. **Kami merupakan komunitas yang terbuka bagi semua usia.** Hal ini berarti konten yang tergolong 18+/[NSFW](https://id.wikipedia.org/wiki/Not_safe_for_work) seperti penggunaan obat-obatan terlarang atau topik seksual tidak dibenarkan di sini.
 6. **Hindari perbuatan yang tidak senonoh.** osu! bukan tempat untuk mencari jodoh atau menggoda pengguna lain. Segala tutur kata, gambar, dan rayuan yang tidak pantas TIDAK dibenarkan baik di depan umum maupun pada ranah pribadi. Apabila kamu merasa tidak nyaman dengan cara seseorang mendekatimu, [segera laporkan kepada kami secara rahasia](/wiki/Reporting_bad_behaviour/Abuse) agar kami dapat membantumu (dan mencegah orang lain untuk ikut menjadi korban).
-7. **Pada saat peraturan yang ada tidak dapat diterapkan, gunakanlah logika dan akal sehat *(common sense)* untuk menetapkan segala sesuatunya.** Pihak administrasi osu! memiliki hak khusus untuk dapat mengambil keputusan sebagaimana dengan yang dirasa sesuai.
+7. **Pada saat peraturan yang ada tidak dapat diterapkan, gunakanlah logika dan akal sehat *(common sense)* untuk menetapkan segala sesuatunya.** Pihak administrasi osu! memiliki hak eksplisit untuk dapat mengambil keputusan sebagaimana dengan yang dirasa sesuai.
 
 ## Peraturan in-game chat
 
@@ -57,17 +51,21 @@ Apabila kamu terbukti melanggar peraturan komunitas yang berlaku, kamu akan diha
 
 Hukuman ini dapat meliputi (*namun tidak terbatas pada*):
 
-- Hilangnya hak untuk mengobrol di dalam permainan dalam jangka waktu tertentu (yang dikenal juga dengan istilah *[silence](/wiki/Silence)*).
+- Hilangnya hak untuk mengobrol di dalam permainan dalam jangka waktu tertentu (yang dikenal juga dengan istilah *[silence](/wiki/Help_centre/Silences)*).
 - Penghapusan konten yang dianggap melanggar dari *userpage*, halaman profil, atau beatmap yang kamu unggah.
 - Hilangnya hak untuk menyunting atau mengubah halaman pengguna atau rincian profilmu.
 - Hilangnya hak untuk bermain atau berpartisipasi pada turnamen yang diselenggarakan secara resmi.
 
-Durasi *[silence](/wiki/Silence)* dan hukuman lainnya yang kamu terima akan **secara otomatis** berlipat ganda untuk setiap pelanggaran yang kamu lakukan. Dalam menjatuhkan hukuman, para moderator tidak akan mengatur lamanya waktu *silence* yang kamu terima — semakin kamu melanggar, semakin lama pula masa hukuman yang harus kamu jalani.
+Durasi *[silence](/wiki/Help_centre/Silences)* dan hukuman lainnya yang kamu terima akan **secara otomatis** berlipat ganda untuk setiap pelanggaran yang kamu lakukan. Dalam menjatuhkan hukuman, para moderator tidak akan mengatur lamanya waktu *silence* yang kamu terima — semakin kamu melanggar, semakin lama pula masa hukuman yang harus kamu jalani.
 
-Pelanggaran tertentu memiliki durasi hukuman *silence* minimal yang lebih panjang (pada umumnya 42 jam atau lebih), yang meliputi antara lain penyebaran konten vulgar serta pelecehan berlebihan terhadap pengguna lain.
+Pelanggaran tertentu memiliki durasi hukuman *silence* minimal yang lebih panjang (pada umumnya 43 jam atau lebih), yang meliputi antara lain penyebaran konten vulgar serta pelecehan berlebihan terhadap pengguna lain.
 
 Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peraturan, akunmu dapat langsung [di-*restrict* secara permanen tanpa adanya opsi pengajuan banding](/wiki/Help_centre/Account_restrictions).
 
 Akun yang di-*restrict* tidak akan dapat bermain secara *online*, mencetak skor, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "diasingkan" dari komunitas. Hukuman ini hanya dapat diangkat dengan cara mengajukan banding kepada staf layanan dukungan secepat-cepatnya 3 bulan setelah hukuman tersebut dijatuhkan ([yang dapat berlaku lebih pada situasi tertentu](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Pelanggaran berat yang telah jauh melampaui batas peraturan kami dan telah masuk ke ranah ilegal sesuai dengan hukum internasional yang berlaku akan berakibat pada penghapusan akun dengan segera. Hukuman ini pada umumnya hanya berlaku bagi pelanggaran yang tidak dapat ditoleransi lagi, seperti penyebaran pornografi anak di bawah umur atau konten eksploitatif lainnya.
+
+## Catatan
+
+[^macros]: Mengubah kaitan tombol ke K1 dan K2 tidak dilarang selama menekan tombol menghasilkan tindakan penekanan dan melepas tombol menghasilkan tindakan pelepasan pada tombol yang terkait. Sebaliknya, mengaitkan penekanan ke pelepasan atau mengatur agar satu tombol melakukan lebih dari satu pasang tindakan penekanan/pelepasan tidak diizinkan.

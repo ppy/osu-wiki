@@ -1,8 +1,6 @@
 ---
 no_native_review: true
 no_native_review_since: 1bf5b747eb7cc330b7bed4195c7119e904282211 Doryan
-outdated_translation: true
-outdated_since: 810423a062ae5027a60675da09bb9be132b04229
 ---
 
 # Critères de style des news
@@ -137,6 +135,7 @@ Vidéo intégrée dans YouTube :
 Ce qui suit s'applique à tous les médias dans les articles de news et comprend les raisons courantes des changements demandés ou des demandes de renseignements de l'équipe de news :
 
 - **Les ressources créées pour les articles de news doivent faire l'objet d'une autorisation et d'une licence.**
+- **Aucun placement de marque ou de sponsor n'est autorisé.** Ce n'est pas à osu! de leur fournir de la publicité.
 - **Notez les [directives relatives à l'identité de la marque](/wiki/Brand_identity_guidelines), notamment en ce qui concerne les noms des jeux et des modes de jeu.** Des termes comme "standard" ou "ctb" ne sont pas utilisés dans les contextes officiels.
   - Préférable : "osu!", "osu!taiko", "osu!catch", "osu!mania" (Notez également qu'il s'agit de l'ordre canonique lorsqu'ils sont présentés dans l'ordre.)
   - Acceptable : "osu!", "taiko", "catch", "mania"

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c1185e9b37c8a140323d91e11fdaf9e4b27e0464
+---
+
 # Permisos de uso de contenido
 
 osu! gira en torno a la posibilidad de crear y compartir creaciones libremente entre todos. Es importante asegurarse de adquirir los permisos adecuados para usar cualquier trabajo de otro creador en nuevas creaciones y que todo ese trabajo esté debidamente atribuido.
@@ -32,7 +37,7 @@ Mientras que la música suele estar sujeta a derechos de autor, los efectos de s
 
 Esta sección detalla qué artistas están dispuestos a permitir el uso de sus trabajos de audio en osu!, y bajo qué condiciones (cuando sea apropiado).
 
-Todas las pistas que aparecen en cualquier [lista de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) están aprobadas para su uso en la creación de beatmaps de osu!. Las pistas de un artista destacado que no aparezcan en su listado *no* están licenciadas y pueden ser necesarios permisos adicionales para usarlas.
+Todas las pistas que aparecen en cualquier [lista de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) están licenciadas y aprobadas para su uso en la creación de beatmaps de osu!, independientemente de cualquier tipo de desaprobación general en estas listas. Las pistas de un artista destacado que no aparezcan en su listado *no* están licenciadas y pueden ser necesarios permisos adicionales para usarlas.
 
 #### Artistas permitidos
 
@@ -301,7 +306,7 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
-|  | PanPanPanic | ![][true] |
+|  | [PanPanPanic](https://www.youtube.com/channel/UCGrEYs4BHutJSqE5fR8WY1g) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
@@ -317,7 +322,6 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/194) | [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/300) | [Rezonate](https://osu.ppy.sh/beatmaps/artists/300) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/54) | [Ricky Montgomery](https://osu.ppy.sh/beatmaps/artists/54) | ![][true] |
@@ -393,6 +397,7 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
+|  | [VEEXIE](https://www.youtube.com/@veexie/videos) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |
@@ -429,6 +434,7 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Pistas de *Touhou* o con dicha temática no deben ser subidas o usadas. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |

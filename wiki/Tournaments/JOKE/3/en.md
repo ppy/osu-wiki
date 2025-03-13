@@ -8,7 +8,7 @@ tags:
 
 ![JOKE 3 banner](img/banner.jpg)
 
-**Jaye's One Key Event 3: paradigm//SHIFT** (***JOKE***) was a 1v1, double-elimination, global osu!mania 1-key tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) and ::{ flag=AU }:: [Sparxe](https://osu.ppy.sh/users/5750235). It was the third instalment in the JOKE series.
+**Jaye's One Key Event 3: paradigm//SHIFT** (***JOKE***) was a 1v1, double-elimination, global osu!mania 1-key tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) and ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235). It was the third instalment in the JOKE series.
 
 ## Tournament schedule
 
@@ -54,7 +54,7 @@ tags:
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1829307)
 - [JOKE Discord server](https://discord.gg/35kN3dF)
-- [Livestream](https://www.twitch.tv/DrumDecimator)
+- [Livestream](https://www.twitch.tv/jokeOfficial)
 - [Tournament bracket](https://challonge.com/Jaye1K2023)
 - Spreadsheets
   - **[Master](https://docs.google.com/spreadsheets/d/1Q3NTkMSpp-scnYrjrbVoCzXNaiTALDNcc7Fk3rMgVdI)**

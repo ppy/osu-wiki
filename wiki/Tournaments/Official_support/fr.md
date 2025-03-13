@@ -1,12 +1,12 @@
 ---
+outdated_translation: true
+outdated_since: 0493b20f780959f560670b1d62b460940c0b2a18
 no_native_review: true
 tags:
   - badge
   - badges
   - badged
   - badgé
-outdated_translation: true
-outdated_since: 5513d012607d730b79bc8e984119f1b188c7456e
 ---
 
 # Support officielle aux tournois
@@ -15,7 +15,7 @@ outdated_since: 5513d012607d730b79bc8e984119f1b188c7456e
 
 [L'équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois organisés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour pour la dernière fois le 5 Août 2024. Pour obtenir la liste complète des modifications, consultez le [fil de discussion sur les mises à jour du support des tournois](https://osu.ppy.sh/community/forums/topics/1715676). Pour toute question ou clarification, veuillez consulter le canal `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un e-mail à [l'équipe de support aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour pour la dernière fois le 17 Août 2024. Pour obtenir la liste complète des modifications, consultez le [fil de discussion sur les mises à jour du support des tournois](https://osu.ppy.sh/community/forums/topics/1715676). Pour toute question ou clarification, veuillez consulter le canal `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un e-mail à [l'équipe de support aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -38,10 +38,13 @@ Les tournois organisés par la communauté qui respectent les critères stricts 
     - La taille de l'équipe est de 8 personnes ou plus.
     - Note : Dans les tournois comportant plusieurs divisions, cette règle ne s'applique qu'à une seule division ouverte.
   - D'autres échelles et formats peuvent être autorisés à la seule discrétion du comité des tournois. Les organisateurs doivent contacter [tournaments@ppy.sh](mailto:tournaments@ppy.sh) s'ils souhaitent bénéficier d'une aide pour un format ou une taille de tournoi non traditionnels.
-- Les fils de discussion associés au tournoi - y compris les fils de discussion relatifs aux événements préliminaires - **DOIVENT** contenir un lien clairement visible, dans une police de taille normale, vers le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports) en tant que tout dernier contenu du message d'origine.
-  - `https://pif.ephemeral.ink/tournament-reports`
+- Les fils de discussion associés au tournoi - y compris les fils de discussion relatifs aux événements préliminaires - **DOIVENT** contenir un lien clairement visible, dans une police de taille normale, vers le [formulaire de rapport de tournoi](https://tcomm.hivie.tn/reports/create) en tant que tout dernier contenu du message d'origine.
+  - `https://tcomm.hivie.tn/reports/create`
   - Ce formulaire de signalement est supervisé par le [comité des tournois](/wiki/People/Tournament_Committee). Nous encourageons tous les utilisateurs - joueurs et personnels - à utiliser ce formulaire si nécessaire. Tout manquement aux [attentes](#attentes), aux [autres procédures](#autres-procédures), ou aux conditions [d'éligibilité](#éligibilité) doit faire l'objet d'un rapport.
-- Le tournoi ne doit utiliser que des beatmaps de musiques qui sont autorisées en termes de [permissions d'utilisation du contenu](/wiki/Rules/Content_usage_permissions#autorisations-de-l'artiste). Toute utilisation de musique explicitement interdite annulera l'éligibilité d'un tournoi à l'aide. Voir les [critères de classement](/wiki/Ranking_criteria#règles) pour les détails concernant les exceptions pour les artistes ou les musiques qui sont listés comme non autorisés.
+- Le tournoi doit respecter les règles suivantes en matière d'utilisation du contenu :
+  - L'utilisation de toute beatmap faisant l'objet d'un avertissement DMCA, sous quelque forme que ce soit, est strictement interdite.
+  - La création ou la réutilisation de toute beatmap qui viole les [règles de permission d'utilisation du contenu](/wiki/Rules/Content_usage_permissions#autorisations-de-l'artiste) est strictement interdite, sauf si elle est **Ranked, Approved, ou Loved**.
+    - Si l'artiste autorise l'utilisation de musiques non autorisées, l'organisateur **doit** inclure la preuve de l'autorisation dans son courrier électronique à [tournaments@ppy.sh](mailto:tournaments@ppy.sh) à la fin du tournoi.
 - Le tournoi ne permet qu'aux joueurs d'un niveau exceptionnel de participer, en interdisant les joueurs dont le rang est inférieur aux rangs suivants dans chaque mode de jeu :
   - osu! : 100,000
   - osu!taiko : 10,000
@@ -86,14 +89,14 @@ En outre, tout matériel promotionnel ou service associé à un tournoi bénéfi
 
 - Tous les inscrits doivent être contrôlés par l'équipe d'assistance aux comptes avant le début du jeu.[^début-du-jeu] Voir [contrôle du tournoi](#contrôle-du-tournoi) pour plus de détails.
 - Si un utilisateur satisfait aux critères d'inscription (le cas échéant) et n'est pas [filtré](#filtrage-et-sélection-des-inscrits) par d'autres moyens, le tournoi ne doit pas empêcher ceux qui passent le filtrage de participer sans que de nombreuses preuves ne soient présentées publiquement contre eux et sans l'approbation de l'équipe de support aux comptes.
-  - Il s'agit notamment d'empêcher les utilisateurs qui sont perçus comme faisant du "sandbagging" de jouer. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas à l'aide du [formulaire de signalement de tournoi](https://pif.ephemeral.ink/tournament-reports).
+  - Il s'agit notamment d'empêcher les utilisateurs qui sont perçus comme faisant du "sandbagging" de jouer. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas à l'aide du [formulaire de signalement de tournoi](https://tcomm.hivie.tn/reports/create).
 - Un arbitre doit être présent lors de chaque match ou être disponible pour être appelé dans un délai minimal (2 à 5 minutes) si un logiciel automatisé a été autorisé et utilisé à des fins d'assistance. Les joueurs ne peuvent pas s'auto-arbitrer.
   - L'utilisation de bots est autorisée lors des matchs de la phase de qualification, à condition qu'elle soit supervisée par un membre de l'équipe.
 - Chaque match au sein d'un même groupe ou d'une même phase de qualification doit se dérouler dans un format cohérent. Par exemple, dans un tournoi comportant une phase de qualification et une phase de double élimination, les matchs de la phase de qualification doivent être joués soit de manière synchrone, soit de manière asynchrone, mais pas les deux à la fois.
 - Tous les matchs multijoueurs pertinents pour le tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics dans le message original du forum du tournoi ou dans une source extérieure liée au message du forum, dans un format clair et accessible.
 - Tous les changements de règles doivent être communiqués clairement à tous les participants. Ceux-ci doivent conserver les attentes mentionnées [ci-dessus](#tournois).
 
-Une fois le tournoi terminé, les organisateurs du tournoi devront soumettre les éléments suivants à l'équipe d'assistance aux comptes :
+Une fois le tournoi terminé, les organisateurs du tournoi devront soumettre les éléments suivants à l'équipe d'assistance aux comptes via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) :
 
 - Une liste des bénéficiaires des badges (c'est-à-dire les vainqueurs de votre tournoi).
 - Un badge conçu de manière appropriée ([voir ci-dessous](#badges-de-profil)).

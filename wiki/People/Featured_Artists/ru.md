@@ -41,13 +41,13 @@ outdated_since: 9614c00afb2d756879c172ff071d00e16959bbec
 
 Во всех соревнованиях по маппингу, указанных на [странице конкурсов сообщества](https://osu.ppy.sh/community/contests), — например, [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) и [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), — фигурируют только песни из программы Featured Artists. Это же требование есть и в некоторых неофициальных конкурсах.
 
-Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/osu!_Discord_server).
+Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
 
 Если вы обнаружили какие-то ошибки в затаймленных файлах `.osz` из базы Featured Artists, пожалуйста, сообщите о них в [специальном треде](https://osu.ppy.sh/community/forums/topics/783985).
 
 ## Исполнители, играющие в osu!
 
-Участников программы Featured Artists, имеющих аккаунт в osu!, можно узнать по бирюзовому [титулу](/wiki/Community/User_title) "Featured Artist", а также по [значку группы](/wiki/People/User_group), на котором написано `FA`.
+Участников программы Featured Artists, имеющих аккаунт в osu!, можно узнать по бирюзовому [титулу](/wiki/Community/User_title) "Featured Artist", а также по [значку группы](/wiki/People/User_groups), на котором написано `FA`.
 
 Актуальный список пользователей — всегда на странице группы: [Featured Artist](https://osu.ppy.sh/groups/35). Полный список самих исполнителей можно найти тут: [листинг Featured Artist](https://osu.ppy.sh/beatmaps/artists).
 

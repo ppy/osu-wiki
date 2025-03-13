@@ -6,7 +6,7 @@
 
 ![](img/SS_General.jpg "包含完整元数据的难度示例")
 
-`基本设定 (General)` 标签页提供的信息不仅会帮助玩家找到谱面，也会让他们更加了解歌曲本身。此处指定的元数据必须从歌曲的[主要元数据源](/wiki/Beatmap/Primary_metadata_source)处获取；如果谱面正处于[审核](/wiki/Beatmap_ranking_procedure)中，则要遵循[谱面上架标准](/wiki/Ranking_criteria#元数据)。
+`基本设定 (General)` 标签页提供的信息不仅会帮助玩家找到谱面，也会让他们更加了解歌曲本身。此处指定的元数据必须从歌曲的[主要元数据源](/wiki/Beatmap/Primary_metadata_source)处获取；如果谱面正处于[审核](/wiki/Beatmap_ranking_procedure)中，则要遵循[谱面上架标准](/wiki/Ranking_criteria/Metadata)。
 
 | 字段 | 含义 |
 | :-- | :-- |

@@ -49,15 +49,7 @@ The event took place on Saturday, 25 May, 2024 from 8:00 a.m. to 10:00 p.m. PDT.
 
 ## Prizes
 
-Prizes were/will be awarded to both osu! and osu!mania winners.
-
-| Placing | Prize |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending approval), Sanrio keychain |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Sanrio keychain |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Sanrio keychain |
-
-![](img/badge.png "IDOLS winner badge (pending approval)")
+The top 3 players in each of the osu! and osu!mania tournaments were awarded a Sanrio keychain.
 
 ## Organisation
 

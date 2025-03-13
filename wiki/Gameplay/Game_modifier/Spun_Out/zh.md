@@ -14,6 +14,7 @@ tags:
 
 ![SO 模组图标](/wiki/shared/mods/SO.png "Spun Out (SO) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Spun Out（lazer 模组）](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于

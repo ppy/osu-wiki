@@ -1,7 +1,7 @@
 ---
 no_native_review: true
-outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
 outdated_translation: true
+outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
 ---
 
 # Mise à jour vers lazer
@@ -78,7 +78,7 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 | Soumission du score | ![Oui][vrai] | ![Oui][vrai] |
 | Classements des beatmap | ![Oui][vrai] | ![Oui][vrai] |
 | Statistiques du profil | ![Oui][vrai] | ![Oui][vrai] |
-| Médailles | ![Oui][vrai] | ![Partiellement][partiel] |
+| Médailles | ![Oui][vrai] | ![Partiellement][partiel][^médailles-lazer] |
 | Points de performance | ![Oui][vrai] | ![Oui][vrai] |
 | Tchat en temps réel | ![Partiellement][partiel][^tchat-stable] | ![Oui][vrai] |
 | Wiki/news/changelog/classements | ![Non][faux] | ![Oui][vrai][^contenu-en-ligne] |
@@ -107,7 +107,7 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 | Séparation et fusion des sliders | ![Non][faux] | ![Oui][vrai] |
 | Rotation du pattern | ![Oui][vrai] | ![Oui][vrai] |
 | Redimensionnement du pattern | ![Non][faux] | ![Oui][vrai] |
-| Soumission des beatmaps | ![Oui][vrai] | ![Non][faux] |
+| Soumission des beatmaps | ![Oui][vrai] | ![Oui][vrai] |
 | Éditeur de storyboard | ![Oui][vrai] | ![Non][faux] |
 | Compatibilité croisée | ![Oui][vrai] | ![Partiellement][partiel][^incompatibilités] |
 
@@ -346,6 +346,7 @@ Vous pensez probablement à un autre jeu.
 [^compte-à-rebours-lazer]: Définir un compte à rebours à partir de l'interface utilisateur du jeu pour lancer automatiquement le match.
 [^modes-fille-attente]: Activez cette option pour permettre à n'importe quel membre d'un lobby de mettre en file d'attente de nouvelles beatmaps, alias "host rotate".
 [^ajustement-difficulté]: Modifier CS/AR/OD/HP d'une beatmap directement à partir de la sélection de la musique via le mod Difficulty Adjust.
+[^médailles-lazer]: Certaines médailles [Hush-Hush](/wiki/Medals#hush-hush) ne peuvent pas encore être obtenues.
 
 [vrai]: /wiki/shared/true.png
 [faux]: /wiki/shared/false.png

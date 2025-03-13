@@ -172,6 +172,7 @@ Most official mapping contests offer the **Elite Mapper** title through [contest
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
 - ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
@@ -285,6 +286,7 @@ These players were awarded their respective titles through either a crazy gamepl
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Was the [first person to unlock the *The Girl in the Forest* medal](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | Was the [first person to unlock the *Internment* medal](https://twitter.com/osugame/status/1696007320663359800) |
 | ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Achieved the maximum possible score on [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) for an unbeatable #1 leaderboard spot |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Limit Breaker | [Exceeded the 16-bit integer size limit of 32,767 for the performance points counter on osu!(stable)](https://osu.ppy.sh/home/changelog/stable40/20250306.2) |
 
 ## Contributors
 

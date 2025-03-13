@@ -6,7 +6,7 @@ date: 2024-02-21 19:00:00 +0000
 
 You already know you're the world's #1 mapper, but this contest can make everyone else realise it too.
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is a contest that runs monthly... most of the time. Our judges *may* have procrastinated a bit, but after hundreds of Discord highlights, the results are finally in!
 

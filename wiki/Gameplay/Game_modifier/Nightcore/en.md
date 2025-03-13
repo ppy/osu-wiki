@@ -11,6 +11,7 @@ tags:
 
 ![NC mod icon](/wiki/shared/mods/NC.png "Nightcore (NC) mod icon")
 
+*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Nightcore (lazer mod)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))*\
 *Not to be confused with [Nightcore (genre)](https://en.wikipedia.org/wiki/Nightcore).*\
 *See also: [NC (disambiguation)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
 *For the full list of all mods, see: [Game Modifiers](/wiki/Gameplay/Game_modifier)*

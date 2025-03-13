@@ -14,7 +14,7 @@ Las preguntas de la prueba se extraen de un amplio conjunto de preguntas ordenad
 - [Código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 pregunta
 - [Criterios de clasificación generales](/wiki/Ranking_criteria#general) (*RC*): 1 pregunta
 - [Cómo debe ser la distribución según los criterios de clasificación](/wiki/Ranking_criteria#beatmap): 1 pregunta
-- [Cómo deben ser los metadatos según los criterios de clasificación](/wiki/Ranking_criteria#metadatos): 1 pregunta
+- [Cómo deben ser los metadatos según los criterios de clasificación](/wiki/Ranking_criteria/Metadata): 1 pregunta
 - [Cómo debe ser la temporización según los criterios de clasificación](/wiki/Ranking_criteria#temporización): 1 pregunta
 - [Cómo debe ser el audio según los criterios de clasificación](/wiki/Ranking_criteria#audio): 1 pregunta
 - [Cómo debe ser el vídeo y el fondo según los criterios de clasificación](/wiki/Ranking_criteria#vídeo-y-fondo): 1 pregunta

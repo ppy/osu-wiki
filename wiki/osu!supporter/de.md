@@ -4,11 +4,13 @@ tags:
   - supporter tag
   - osu!supporter tag
   - Unterstützung
+outdated_since: 53463c9d5a611e5d8b38f68b00f48b7983225576
+outdated_translation: true
 ---
 
 # osu!supporter
 
-![osu!supporter Werbebild](img/supporter-eyecatch-DE.jpg)
+[![osu!supporter Werbebild](img/supporter-eyecatch-DE.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (oder das ***osu!supporter-Tag***) ist ein zeitlich begrenzter Titel, der Spielern verliehen wird, die osu! durch eine freiwillige Geldspende unterstützen, um das Spiel zu fördern. Unterstützer erhalten eine handvoll kosmetischer und technischer Vorteile, von denen die meisten nur aktiv sind, wenn der Titel vorhanden ist. Die zusätzlichen Funktionen von osu!supporter geben keinen Vorsprung im Gameplay, in der Leistung oder dem Erreichen von Scores und werden es auch nie.
 
@@ -19,11 +21,11 @@ Das osu!supporter-Tag kann über die [osu!supporter-Seite des Stores](https://os
 ### Herzabzeichen
 
 ::: Infobox
-![](img/userpage.png?1 "Profil mit osu!supporter")
+![](img/userpage.png?20241103 "Profil mit osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard-DE.png "Benutzerkarte mit osu!supporter")
+![](img/usercard-DE.png?20241022 "Benutzerkarte mit osu!supporter")
 :::
 
 Unterstützer bekommen ein Abzeichen mit Herzen darauf, das auf der Webseite normalerweise neben ihrem Benutzernamen angezeigt wird. Die Anzahl der Herzen hängt ab von der Dauer von osu!supporter, die der Nutzer insgesamt erworben oder erhalten hat:

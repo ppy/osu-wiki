@@ -115,7 +115,7 @@ osu! бы не было без многих пользователей, учас
 
 [Команда osu!](/wiki/People/osu!_team): [Разработчики](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Команда глобальной модерации](/wiki/People/Global_Moderation_Team) • [Команда технической поддержки](/wiki/People/Support_Team) • [Команда оценки номинаций](/wiki/People/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда проекта Loved](/wiki/People/Project_Loved_Team) • [Кураторы Beatmap Spotlight](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Элитные номинаторы](/wiki/People/Elite_Nominators) • [Группы пользователей](/wiki/People/User_group) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Центурионы](/wiki/People/Centurions) • [Комитет по турнирам](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee) • [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Элитные номинаторы](/wiki/People/Elite_Nominators) • [Группы пользователей](/wiki/People/User_groups) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Центурионы](/wiki/People/Centurions) • [Комитет по турнирам](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee) • [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -124,7 +124,7 @@ osu! бы не было без многих пользователей, учас
 
 О том, как работать с osu! или поучаствовать в разработке.
 
-[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

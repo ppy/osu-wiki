@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 9813f83f3faf3eff53d59bf14f5b81cc128a345f
----
-
 # Skinning de osu!taiko
 
 Puedes modificar las partes del campo de juego de osu!taiko creando una carpeta llamada `taiko` dentro de la carpeta de tu skin. Si se usa este enfoque, el usuario deberá habilitarlo explícitamente en las [opciones](/wiki/Client/Options) (habilita el botón `Utilizar la skin de Taiko para Taiko`); de lo contrario, se usarán los elementos predeterminados de la skin.
@@ -431,6 +426,27 @@ Notas:
 - La posición varía según la versión de la skin:
   - Versión 1.0 - versión 2.0: (181,216)
   - Versión 2.1 o versiones posteriores: (0,216)
+
+<!-- lint ignore heading-increment -->
+
+#### `taiko-barline.png`
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| Versiones | Todas |
+| Animable | ![No][false] |
+| Personalizable para los beatmaps | ![No][false] |
+| Modo de mezcla | Normal |
+| Origen | Centro |
+| Tamaño SD sugerido | 4x175 |
+
+:::
+
+![](img/taiko-barline.png "taiko-barline@2x.png predeterminado")
+
+Esta imagen se muestra en el campo de juego al principio de cada [compás](/wiki/Music_theory/Measure) de la canción (a menos que se omita mediante un [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo-no-heredados)).
 
 ## Redobles de tambores
 

@@ -38,7 +38,7 @@ outdated_translation: true
 | 토너먼트 관리 | ::{ flag=DE }::[Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }::[p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }::[Deif](https://osu.ppy.sh/users/318565) |
 | 비트맵 선별 | ::{ flag=NL }::[GladiOol](https://osu.ppy.sh/users/23326) // ::{ flag=KR }::[ToGlette](https://osu.ppy.sh/users/1076236) |
 | 방송 | ::{ flag=AU }::[peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }::[Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }::[shARPII](https://osu.ppy.sh/users/776257) |
-| 해설 | ::{ flag=GB }::[jesus1412](https://osu.ppy.sh/users/230116) // ::{ flag=FR }::[Mr Color](https://osu.ppy.s6078) // ::{ flag=GB }::[Raiku](https://osu.ppy.sh/users/1525538) // ::{ flag=US }::[ztrot](https://osu.ppy.sh/users/6347) |
+| 해설 | ::{ flag=GB }::[jesus1412](https://osu.ppy.sh/users/230116) // ::{ flag=FR }::[Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=GB }::[Raiku](https://osu.ppy.sh/users/1525538) // ::{ flag=US }::[ztrot](https://osu.ppy.sh/users/6347) |
 | 통계 | ::{ flag=PL }::[Marcin](https://osu.ppy.sh/users/722665) |
 
 ## 링크

@@ -20,7 +20,8 @@ tags:
 
 # 游戏模组 (Mods)
 
-*对于更多义项，参见 [Mod（消歧义页）](/wiki/Disambiguation/Mod).*
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
+*对于更多义项，参见 [Mod（消歧义）](/wiki/Disambiguation/Mod)*
 
 ![模组选择界面](img/mod-selection-screen.jpg "不同游戏模式内模组选择界面的对照图，左上为 osu!，右上为 osu!taiko，左下为 osu!catch，右下为 osu!mania。")
 

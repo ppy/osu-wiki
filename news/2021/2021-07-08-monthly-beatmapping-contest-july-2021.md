@@ -6,7 +6,7 @@ date: 2021-07-08 19:00:00 +0000
 
 Design two super short maps in this month's contrast-themed mapping contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 July's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is for **osu!** only. View the contest listing [here](https://osu.ppy.sh/community/contests/132) and stay tuned for other modes in the coming months!
 

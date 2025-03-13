@@ -1,17 +1,17 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: ea5e0cb4f7ad63118b67ee2e1891e307cf366831
 tags:
   - supporter tag
   - osu!supporter tag
   - tag supporter
   - tag osu!supporter
+outdated_since: 53463c9d5a611e5d8b38f68b00f48b7983225576
+outdated_translation: true
 ---
 
 # osu!supporter
 
-![image promotionnelle d'osu!supporter](img/supporter-eyecatch-FR.jpg?1)
+[![image promotionnelle d'osu!supporter](img/supporter-eyecatch-FR.jpg?1)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (ou le ***tag osu!supporter***) est un titre temporaire donné aux joueurs qui soutiennent osu! en faisant un don volontaire et monétaire pour l'aider à prospérer. Les supporters reçoivent une poignée d'avantages cosmétiques et techniques, dont la plupart ne sont actifs que lorsque le titre est présent. Les caractéristiques supplémentaires d'osu!supporter ne donnent aucun avantage en termes de gameplay, de performance ou de score, et n'en donneront jamais.
 
@@ -22,11 +22,11 @@ Le tag osu!supporter peut être obtenu à partir de la [page du magasin osu!supp
 ### Insigne de cœur
 
 ::: Infobox
-![](img/userpage.png?1 "Profil avec osu!supporter")
+![](img/userpage.png?20241103 "Profil avec osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard-FR.png?1 "Carte d'utilisateur avec osu!supporter")
+![](img/usercard-FR.png?20241022 "Carte d'utilisateur avec osu!supporter")
 :::
 
 Les supporters reçoivent un badge avec des cœurs, généralement situé à côté de leur nom d'utilisateur sur le site web. Le nombre de cœurs dépend de la durée d'osu!supporter que l'utilisateur a acquis ou reçu au total :
@@ -61,6 +61,15 @@ Les supporters peuvent personnaliser leur profil en choisissant une image de cou
 - Sélectionnez une nouvelle couverture parmi quelques options prédéfinies ou téléchargez une image personnalisée (ses dimensions doivent être de 2400x640).
 
 Une fois que osu!supporter aura expiré, la couverture sera conservée, mais ne pourra pas être modifiée.
+
+### Couleur de profil
+
+À l'instar des couvertures de profil, les supporters peuvent modifier la couleur de leur profil :
+
+- Appuyez sur l'icône du crayon dans le coin inférieur droit de la couverture du profil.
+- L'ajustement de la couleur du profil modifie la couleur de presque tous les éléments, y compris la bannière, les boutons, les liens et le texte.
+
+Une fois qu'osu!supporter a expiré, les personnalisations de couleurs sont conservées, mais ne peuvent être ramenées qu'à leur valeur par défaut.
 
 ### Un changement de nom d'utilisateur gratuit
 

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: b0afe186b01a363a31211b349e4d83c15033890e
----
-
 # Vue d'ensemble des échantillons personnalisées
 
 Pour l'instant, il est possible de mettre en œuvre des ensembles d'échantillons par beatmap et par skin.
@@ -52,6 +47,7 @@ Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous
 
 - `spinnerspin` (ce son est décalé en hauteur au fur et à mesure que le spinner augmente. Il passe de ~500hz à 80000hz alors que l'échantillon original est de 44100hz.)
 - `spinnerbonus` (ding)
+- `spinnerbonus-max` ([Lazer](/wiki/Client/Release_stream/Lazer) uniquement)
 
 ## Remarques
 

@@ -117,6 +117,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: Tiongkok | ::{ flag=ID }:: Indonesia |
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: Korea Selatan | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat |
 | 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=BR }:: Brazil |
+| [3 Digit World Cup 2025](3WC/2025) | 2024-12-28 | 2025-03-16 | *TBD* | *TBD* | *TBD* |
 
 #### Aetherian's Summer Singles
 
@@ -260,6 +261,12 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | [osu! European Tournament 2](o!ET/2) | 2019-02-10 | 2019-03-30 | Sruba (Top), Makeshift Winners (Mid), not even european (Low) | Almost Allies (Top), singletap is braindead (Mid), Yes (Yes) (Low) | nh9mju0 (Top), Phoenix Emperors (Mid), Polish Musketeers (Low) |
 | osu! European Tournament 3 | 2019-02-08 | 2020-03-23 | Woopak :CRAB: | Fondermanp2p | Käptn Mein Käptn |
 | [osu! European Tournament 2021](o!ET/2021) | 2021-05-15 | 2021-07-11 | opa pizdec | The Cow Fields | Team Papayapa |
+
+#### osu! FumoFumo Cup
+
+| Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
 
 #### osu! Indonesia Tournament
 

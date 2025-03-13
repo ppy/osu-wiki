@@ -19,7 +19,6 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 - [Mapping-Tutorial für osu!mania](osu!mania_mapping_guide)
 - [Den Offset auf den richtigen Beat setzen](Setting_the_offset_on_the_correct_beat)
 - [Eigene Hitsounds benutzen](Using_custom_hitsounds)
-- [Videos von YouTube](Videos_from_YouTube)
 - [Songs mit #/8-Signaturen timen](Timing_songs_with_8-signatures)
 
 ## Modding

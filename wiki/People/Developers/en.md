@@ -11,7 +11,7 @@ tags:
 
 The developers of osu! keep the game and website running by fixing bugs and adding new features. Most of them are employees of ppy Pty Ltd, the company that owns osu!. They form most of the [osu! team](/wiki/People/osu!_team).
 
-Developers of osu! can be recognised by their pink "osu!dev" or "osu!team" user titles and [user group](/wiki/People/User_group) badge that reads `DEV`.
+Developers of osu! can be recognised by their pink "osu!dev" or "osu!team" user titles and [user group](/wiki/People/User_groups) badge that reads `DEV`.
 
 ## Team members
 
@@ -40,7 +40,7 @@ The osu! development effort is lead by ::{ flag=AU }:: **[peppy](https://osu.ppy
 
 ### Designers
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Community managers
 

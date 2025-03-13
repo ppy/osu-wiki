@@ -6,7 +6,7 @@ no_native_review_since: acfbd0c258f788ae298d9cd328f0d6924fe7f1e7 CloneWith
 
 *参见：[osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide)*
 
-这篇文章描述了 osu! wiki 的技术和管理方面。它还囊括了保持 wiki 更新所需的维护程序——也许你可以[在其中一个程序做出贡献](#例行程序)。所有与 wiki 相关的讨论，应使用 [osu! Discord 服务器](/wiki/Community/osu!_Discord_server)的 `#osu-wiki` 频道。
+这篇文章描述了 osu! wiki 的技术和管理方面。它还囊括了保持 wiki 更新所需的维护程序——也许你可以[在其中一个程序做出贡献](#例行程序)。所有与 wiki 相关的讨论，应使用 [osu! Discord 服务器](/wiki/Community/Discord_servers#official)的 `#osu-wiki` 频道。
 
 ## 管理员
 
@@ -132,7 +132,7 @@ osu! wiki 已经集成到 osu! 网站中，也就是说所有的技术功能类�
 
 *注意：[osu-wiki status](https://osu.wiki/status/zh) 网站列出了所有需要维护的文章，并按类别分开排列。*
 
-wiki 依靠 osu! 社区的投入。你可以尽自己的职责，来帮助维护者或者其他贡献者。想要知道如何做到这一点，请阅读[贡献指南](/wiki/osu!_wiki/Contribution_guide)。如果你有任何困难，请在 [osu! Discord server](/wiki/Community/osu!_Discord_server) 的 `#osu-wiki` 频道寻求帮助。
+wiki 依靠 osu! 社区的投入。你可以尽自己的职责，来帮助维护者或者其他贡献者。想要知道如何做到这一点，请阅读[贡献指南](/wiki/osu!_wiki/Contribution_guide)。如果你有任何困难，请在 [osu! Discord server](/wiki/Community/Discord_servers#official) 的 `#osu-wiki` 频道寻求帮助。
 
 ### 翻译
 

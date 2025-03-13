@@ -11,7 +11,7 @@ Das **Turnierkomitee** ist ein Gremium an erfahrenen sowie etablierten Organisat
 
 Zu ihren Aufgaben gehören:
 
-- das Verwalten von Meldungen aus dem [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports)
+- das Verwalten von Meldungen aus dem [Meldeformular für Turniere](https://tcomm.hivie.tn/reports/create)
 - Beobachtung der allgemeinen Turnierszene und das [Account-Support-Team](/wiki/People/Account_support_team) auf Basis einer Einzelfallbetrachtung zu beraten
 - regelmäßige Überprüfung der Seite [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support) für etwaige Überarbeitungen
 

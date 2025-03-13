@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 47eb8012cee643acc8130a6992aad6e4b54c0cac
+---
+
 # Usuarios con títulos únicos
 
 Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/People/User_group), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones. La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
@@ -172,6 +177,7 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
 - ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)

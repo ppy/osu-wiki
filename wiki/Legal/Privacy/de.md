@@ -4,7 +4,7 @@ legal: true
 
 # Datenschutzerklärung von osu!
 
-Zuletzt aktualisiert am 16. April 2021. [Sehen Sie den Verlauf der englischen Version hier](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md).
+Zuletzt aktualisiert am 3. September 2024. [Sehen Sie den Verlauf der englischen Version hier](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md).
 
 Zusätzlich zu dieser Richtlinie sollten Sie auch unsere [Nutzungsbedingungen](/wiki/Legal/Terms) lesen und verstehen.
 
@@ -120,7 +120,7 @@ Die osu!-Dienste sind nicht für Minderjährige unter 13 Jahren bestimmt. Wenn w
 
 Hi, ich bin Dean (allgemein bekannt als peppy) und ich bin der Datenschutzbeauftragte. Wenn Sie irgendwelche Bedenken hinsichtlich des Schutzes der Privatsphäre haben oder Anträge stellen möchten, um Ihr Recht geltend zu machen, zögern Sie nicht, mich direkt unter der unten genannten Adresse zu kontaktieren.
 
-**E-Mail**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (Antwort in 24 Stunden garantiert)
+**E-Mail**: [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 **Postanschrift**:
 

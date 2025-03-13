@@ -30,6 +30,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu! World Cup 2021](OWC/2021) | 09/10/2021 | 28/11/2021 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=KR }:: Corée du Sud |
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=DE }:: Allemagne |
 | [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 03/12/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=AU }:: Australien |
+| [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 08/12/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=AU }:: Australien |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -90,7 +91,8 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/02/2023 | ::{ flag=PH }:: Philippines | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/07/2023 | 24/09/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=ID }:: Indonésie |
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/02/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie | ::{ flag=PH }:: Philippines |
-| [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/07/2024 | 29/09/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/07/2024 | 29/09/2024 | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine | ::{ flag=TH }:: Thaïlande |
+| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12/12/2024 | 23/02/2025 | *À déterminé* | *À déterminé* | *À déterminé* |
 
 ## Tournois communautaires
 
@@ -119,6 +121,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 3 Digit World Cup 2022 | 20/02/2022 | 08/05/2022 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: Chine | ::{ flag=ID }:: Indonésie |
 | 3 Digit World Cup 2023 | 17/02/2023 | 30/04/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis |
 | 3 Digit World Cup 2024 | 25/12/2023 | 10/03/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=BR }:: Brésil |
+| [3 Digit World Cup 2025](3WC/2025) | 28/12/2024 | 16/03/2025 | *À déterminé* | *À déterminé* | *À déterminé* |
 
 #### 4 Digit World Cup
 
@@ -129,7 +132,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 4 Digit World Cup 2020 | 28/06/2020 | 28/09/2020 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis | ::{ flag=RU }:: Fédération de Russie |
 | 4 Digit World Cup 2022 | 05/12/2021 | 06/03/2022 | ::{ flag=CN }:: Chine | ::{ flag=SG }:: Singapour | ::{ flag=CA }:: Canada |
 | 4 Digit World Cup 2023 | 07/05/2023 | 23/07/2023 | ::{ flag=US }:: États-Unis | ::{ flag=CA }:: Canada | ::{ flag=TH }:: Thaïlande |
-| [4 Digit World Cup 2024](4WC/2024) | 04/05/2024 | 16/06/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [4 Digit World Cup 2024](4WC/2024) | 04/05/2024 | 16/06/2024 | ::{ flag=US }:: États-Unis | ::{ flag=CA }:: Canada | ::{ flag=CN }:: Chine |
 
 #### Aetherian's Summer Singles
 
@@ -175,8 +178,9 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [COE 1v1 Tournament 2022](COE/COE_2022) | 17/01/2022 | 17/02/2022 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
+| [COE 1v1 Tournament 2022](COE/COE_2022) | 22/07/2022 | 06/08/2022 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
 | [COE 1v1 Tournament 2023](COE/COE_2023) | 14/07/2023 | 05/08/2023 | ::{ flag=DE }:: criller | ::{ flag=KR }:: FlyingTuna | ::{ flag=DK }:: cat burger |
+| [COE x Yuki Aim 2024 1v1 Tournament](COE/COE_2024) | 16/07/2024 | 03/08/2024 | ::{ flag=PL }:: MALISZEWSKI | ::{ flag=DE }:: criller | ::{ flag=GB }:: Bubbleman |
 
 #### Coffee Hispanic
 
@@ -201,7 +205,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Donut Cup](Donut_Cup/1) | 27/05/2024 | 15/07/2024 | **crying right now** (::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872), ::{ flag=AU }:: [oslash](https://osu.ppy.sh/users/13228917), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=UA }:: [EPEMA](https://osu.ppy.sh/users/18781432), ::{ flag=UA }:: [SHADOW FREAK](https://osu.ppy.sh/users/7587763)) | **YOSHIMOBIL** (::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=LV }:: [solo drinking](https://osu.ppy.sh/users/21653406), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)) | **No title** (::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=PL }:: [szedis](https://osu.ppy.sh/users/14282987), ::{ flag=PL }:: [BMG\_](https://osu.ppy.sh/users/4981809), ::{ flag=PL }:: [hedayo](https://osu.ppy.sh/users/9323821), ::{ flag=UA }:: [KirbyTwister](https://osu.ppy.sh/users/7979597), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878) |
+| [Donut Cup](Donut_Cup/1) | 27/05/2024 | 15/07/2024 | **crying right now** (::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872), ::{ flag=AU }:: [oslash](https://osu.ppy.sh/users/13228917), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=UA }:: [EPEMA](https://osu.ppy.sh/users/18781432), ::{ flag=UA }:: [SHADOW FREAK](https://osu.ppy.sh/users/7587763)) | **YOSHIMOBIL** (::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=LV }:: [solo drinking](https://osu.ppy.sh/users/21653406), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)) | **No title** (::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=PL }:: [szedis](https://osu.ppy.sh/users/14282987), ::{ flag=PL }:: [BMG\_](https://osu.ppy.sh/users/4981809), ::{ flag=PL }:: [hedayo](https://osu.ppy.sh/users/9323821), ::{ flag=UA }:: [KirbyTwister](https://osu.ppy.sh/users/7979597), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878)) |
 
 #### Game_Osu Tourney
 
@@ -235,6 +239,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Indonesian Draft Cup 2020](IDC/2020) | 29/08/2020 | 03/10/2020 | Brazil | Pondokers | awan fanclub 2 |
+
+#### Jogja Fun Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Jogja Fun Cup](JFC/1) | 01/07/2024 | 11/08/2024 | **BAKPIA KUKUS KILLER** (::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)) | **Bakpia Kukus** (::{ flag=ID }:: [beabadobee](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131)) | **Ban HR2** (::{ flag=ID }:: [ruruichi](https://osu.ppy.sh/users/6717559), ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666)) |
 
 #### Mirai. Tournament
 
@@ -293,6 +303,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | osu! European Tournament 3 | 08/02/2019 | 23/03/2020 | Woopak :CRAB: | Fondermanp2p | Käptn Mein Käptn |
 | [osu! European Tournament 2021](o!ET/2021) | 15/05/2021 | 11/07/2021 | opa pizdec | The Cow Fields | Team Papayapa |
 
+#### osu! FumoFumo Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15/09/2024 | - | - | - | - |
+
 #### osu! Indonesia Tournament
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
@@ -301,6 +317,13 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04/01/2021 | 28/03/2021 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15/02/2022 | 03/04/2022 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 | [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 19/06/2023 | 30/07/2023 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+| [osu! Indonesia Tournament #14 (2024)](OIT/2024) | 23/09/2024 | 03/11/2024 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+
+#### osu! Malaysia Tournament
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Malaysia Tournament X](OMT/X) | 26/08/2024 | 13/10/2024 | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) |
 
 #### osu! Romania Tournament
 
@@ -388,6 +411,15 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [RMoT #2](RMoTI/2) | 06/05/2017 | 14/05/2017 | ::{ flag=PL }:: [MagBlood](https://osu.ppy.sh/users/6178640) | ::{ flag=PL }:: [bsurma](https://osu.ppy.sh/users/509575) | ::{ flag=PL }:: [MaIson](https://osu.ppy.sh/users/6047395) |
 | [RMoT #5](RMoTI/5) | 12/05/2018 | 27/05/2018 | ::{ flag=FR }:: [Prosdokies](https://osu.ppy.sh/users/3852436) | ::{ flag=RU }:: [Well Halen](https://osu.ppy.sh/users/8660244) | ::{ flag=RU }:: [KoloMl](https://osu.ppy.sh/users/6544403) |
+
+#### Resurrection Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Resurrection Cup 2022 | 17/06/2022 | 31/07/2022 | super auto pets | HWDP: Sad Jabłkowy | Wii U Esports |
+| Resurrection Cup: Cataclysm Contest | 04/11/2022 | 18/12/2022 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
+| Resurrection Cup 2023 | 16/06/2023 | 30/07/2023 | ESSA | fresh off the boat | Sleep accommodation |
+| [Resurrection Cup 2024](RESC/2024) | 14/06/2024 | 28/07/2024 | kotomiler | fresh off the boat | Bobik |
 
 #### ROI PRO Tournament
 
@@ -668,6 +700,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 01/06/2021 | 01/08/2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
 | [Catch the Beat Indonesia Cup 2022](CIC/2022) | 04/03/2022 | 10/04/2022 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 | [Catch the Beat Indonesia Cup 2023](CIC/2023) | 15/07/2023 | 27/08/2023 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
+| [Catch the Beat Indonesia Cup Open 2024](CIC/Open_2024) | 08/07/2024 | 01/09/2024 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
 
 #### Indonesia Convert Cup
 
@@ -676,6 +709,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Indonesia Convert Cup 2020](ICC/2020) | 13/09/2020 | 08/11/2020 | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
 | [Indonesia Convert Cup 2021](ICC/2021) | 16/08/2021 | 11/10/2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 | [Indonesia Convert Cup Open 2022](ICC/2022) | 10/10/2022 | 27/11/2022 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
+
+#### International Convert Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [International Convert Cup 2024](IntlConvertCup/2024) | 25/11/2024 | 02/02/2025 | naruto when (::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149)) | common madcin L (::{ flag=PL }:: [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506), ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534)) | Red Hawk (::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283), ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439) |
 
 #### osu! Cup Master
 
@@ -732,6 +771,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [:thonking: Newbie mania Tournament](TNMT/1) | 13/07/2019 | 29/09/2019 | ::{ flag=US }:: [NestleiFan](https://osu.ppy.sh/users/6833341) | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | ::{ flag=TH }:: [palmEuEi](https://osu.ppy.sh/users/13656264) |
+
+#### Asia Suiji Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Asia Suiji Cup: Rhythmus Aquarum](ASC/1) | 13/07/2024 | 25/08/2024 | Yuma fanboys | Pixel 7 | Noodle Soup |
 
 #### Cemara Mania Cup
 
@@ -838,6 +883,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | osu!mania Malaysia Tournament | 14/05/2021 | 27/06/2021 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
 | osu!mania Malaysia Tournament 2 | 27/05/2022 | 10/07/2022 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
 | [osu!mania Malaysia Tournament 3](OMMT/3) | 01/07/2023 | 13/08/2023 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
+| [osu!mania Malaysia Tournament 4](OMMT/4) | 06/07/2024 | 18/08/2024 | leon's waifuus!! (::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805)) | Gon and LongGone (::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)) | Re:Zuna (::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028), ::{ flag=VN }:: [Rxizuna](https://osu.ppy.sh/users/16055641)) |
 
 #### osu!mania South East Asia Champion 2020
 
@@ -856,6 +902,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Score Attack Showdown](SAS/1) | 26/10/2020 | 28/11/2020 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) |
+
+#### Sparxe's Two Key Event
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Sparxe's Two Key Event](STKE/1) | 26/10/2024 | 15/12/2024 | ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) | ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747) | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
 
 #### Speed of Light
 
@@ -896,6 +948,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Touhou Project Mania Cup 1st](TMC/1st) | 14/09/2020 | 06/12/2020 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 20/12/2021 | 20/03/2022 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 | [Touhou Project Mania Cup 3rd](TMC/3rd) | 17/04/2023 | 16/07/2023 | Bloxy cola | Winx Club | Mew's Bodyguards |
+| [Touhou Project Mania Cup 4th](TMC/4th) | 22/12/2024 | 30/03/2025 | *TBD* | *TBD* | *TBD* |
 
 ### Multimode
 

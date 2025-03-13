@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 47eb8012cee643acc8130a6992aad6e4b54c0cac
 no_native_review: true
 ---
 
@@ -176,6 +178,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
 - ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)

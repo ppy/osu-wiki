@@ -4,7 +4,7 @@ Esta sección está dedicada a los concursos que se llevan a cabo en toda la com
 
 ## Concursos oficiales
 
-*Véase también: [Puntos de concurso](Contest_points), [Soporte oficial del concurso de mapping](Official_support)*
+*Véase también: [Puntos de los concursos](Contest_points), [Soporte oficial para concursos de beatmapping](Official_support)*
 
 Los concursos oficiales son organizados (o reconocidos como oficiales) por el [osu! team](/wiki/People/osu!_team). La mayoría de los concursos oficiales tienen sus propias páginas en la [lista de concursos](https://osu.ppy.sh/community/contests).
 
@@ -190,6 +190,14 @@ En su lanzamiento, el concurso fue nombrado «Best of», ya que la premisa inici
 | [#30 (Winter 2021)](https://osu.ppy.sh/home/news/2021-11-23-winter-fanart-contest) | Invierno | ::{ flag=RU }:: [Dem4eg-](https://osu.ppy.sh/users/7206818) | ::{ flag=ID }:: [Nimiru](https://osu.ppy.sh/users/11041959) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-12-17-winter-fanart-contest-results) | [#1](https://osu.ppy.sh/community/contests/136) |
 | [#31 (Spring 2022)](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) | Un lugar para pertenecer | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=NL }:: [utaaa](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Llamartist](https://osu.ppy.sh/users/14697690) | [#1](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results) | [#1](https://osu.ppy.sh/community/contests/142) |
 | [#32 (15th Anniversary Art Contest)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | Mascotas de osu! explorando parte de la historia de osu! | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
+
+### Locus
+
+**Locus 2025** es un concurso de varios niveles lanzado a principios de 2025 para acercar a los círculos creativos de osu! en el que los participantes deben crear beatmaps con música y visuales totalmente originales.
+
+| Año | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
+| :-: | :-- | :-- | :-- | :-- |
+| [2025](/wiki/Contests/Locus/2025) | *Por determinar* | *Por determinar* | *Por determinar* | *Por determinar* |
 
 ### osu! Beatmap Blueprints Contest
 

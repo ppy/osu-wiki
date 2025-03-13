@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0ea790250344a95c352ee0241b94ddc44a06c5b0
 ---
 
 # Concours

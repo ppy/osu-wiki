@@ -6,6 +6,8 @@ tags:
   - badges
   - badged
   - concours de mapping
+outdated_since: 60c34c981f3134b3415bee948053a5ed03c66040
+outdated_translation: true
 ---
 
 # Prise en charge du concours officiel de beatmapping
@@ -16,7 +18,7 @@ Les [concours de beatmapping](/wiki/Contests) peuvent bénéficier du soutien de
 
 Pour les autres concours, envoyez-nous un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Nous essaierons de trouver une solution.
 
-Cet article a été mis à jour pour la dernière fois le 10 juillet 2024. Pour obtenir la liste complète des modifications, consultez le fil de discussion [beatmapping contest support updates](https://osu.ppy.sh/community/forums/topics/1907886). Pour toute question ou clarification, veuillez consulter le channel `#tournaments` sur le [serveur Discord d'osu](https://discord.com/invite/ppy) ou envoyer un email à [l'équipe de support aux comptes](/wiki/People/Account_support_team) par l'intermédiaire de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour pour la dernière fois le 7 septembre 2024. Pour obtenir la liste complète des modifications, consultez le fil de discussion [beatmapping contest support updates](https://osu.ppy.sh/community/forums/topics/1907886). Pour toute question ou clarification, veuillez consulter le channel `#tournaments` sur le [serveur Discord d'osu](https://discord.com/invite/ppy) ou envoyer un email à [l'équipe de support aux comptes](/wiki/People/Account_support_team) par l'intermédiaire de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -39,7 +41,8 @@ Les concours qui respectent les critères suivants peuvent bénéficier d'un sou
 - **Pour les concours osu!taiko, osu!catch ou osu!mania en solo, il doit y avoir au moins 10 soumissions valides.**[^note-d’exception]
 - **Pour les concours par équipe, la participation sera évaluée au cas par cas en fonction de la taille des équipes, des exigences créatives et du nombre total de candidatures valides.** En règle générale, l'objectif est d'avoir au moins 20 participants et 10 soumissions valides.
 - **Le concours doit comporter des critères d'évaluation clairement définis, fondés sur le mérite du mapping.** Ceux-ci garantissent qu'un concours respecte des normes de qualité compréhensibles et conformes à celles des autres concours de mapping.
-- **Les résultats du concours doivent être déterminés en évaluant les notes de tous les juges de manière égale.** L'utilisation de l'écart-type pour déterminer les notes finales est préférable mais non obligatoire.
+- **Les résultats du concours doivent être déterminés en évaluant les notes de tous les juges de manière égale.** L'utilisation de l'écart-type pour déterminer les notes finales est obligatoire.[^note-d’exception]
+  - La note finale doit être calculée comme suit : `judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation`.
 - **Les résultats du concours doivent être affichés publiquement et les notes/commentaires des juges doivent être visibles.** Les juges peuvent être anonymisés publiquement, mais l'équipe d'osu! peut demander des informations non anonymisées sur les juges si nécessaire.
 - **Le concours doit avoir au moins 4 juges.** Les concours avec moins de juges permettent à chaque juge d'avoir trop d'influence sur les résultats globaux.
 - **Un utilisateur ne peut participer à plus d'une soumission au concours.**
@@ -94,4 +97,4 @@ Les demandes de soutien au post de news seront examinées par le comité du conc
 
 ## Notes
 
-[^note-d’exception]: Des exceptions peuvent être accordées au cas par cas, à la discrétion du [comité du concours](/wiki/People/Tournament_Committee#contest-committee).
+[^note-d’exception]: Des exceptions peuvent être accordées au cas par cas, à la discrétion du [comité du concours](/wiki/People/Tournament_Committee#comité-des-concours).

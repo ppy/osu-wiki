@@ -6,7 +6,7 @@ date: 2020-07-24 21:00:00 +0000
 
 The jury is in! The best of the best mapping contest entries have been chosen and prizes are delivered!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Winners of the **Monthly Beatmapping Contest** (***MBC***) were previously decided by a community vote, but are now decided by a team of judges. Read the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) for details on what changes were made and why!
 

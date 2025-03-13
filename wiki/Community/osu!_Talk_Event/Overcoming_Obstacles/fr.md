@@ -9,7 +9,7 @@ tags:
 
 L'**osu! Talk Event** est un événement organisé par [osu! University](/wiki/Community/Discord_servers/osu!_University) où différentes personnes ont tenu des conférences sur des sujets variés. Il s'agissait de la première itération de l'événement dont le thème était "surmonter les obstacles".
 
-Les intervenants ont tenu leurs discours dans un salon Étape sur le [serveur Discord osu!](/wiki/Community/osu!_Discord_server). Pendant l'événement, des fils de discussion ont été ouverts dans le salon `#community-meetings` pour en discuter.
+Les intervenants ont tenu leurs discours dans un salon Étape sur le [serveur Discord osu!](/wiki/Community/Discord_servers#officielle). Pendant l'événement, des fils de discussion ont été ouverts dans le salon `#community-meetings` pour en discuter.
 
 Les conférences ont également été diffusées en direct sur [la chaîne Twitch d'osu! University](https://twitch.tv/osuuniversity) et des enregistrements de chaque conférence sont disponibles sur [la chaîne YouTube d'osu! University](https://www.youtube.com/c/osuuniversity).
 
@@ -26,7 +26,7 @@ Pour participer en tant qu'intervenant à une prochaine itération de l'événem
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1574152)
 - [News post de l'annonce](https://osu.ppy.sh/home/news/2022-05-19-osu-talk-event-overcoming-obstacles)
-- [Serveur Discord osu!](/wiki/Community/osu!_Discord_server)
+- [Serveur Discord osu!](/wiki/Community/Discord_servers#officielle)
 - [Serveur Discord osu! University](https://discord.gg/QubdHdnBVg)
 - [Chaîne Twitch d'osu! University](https://twitch.tv/osuuniversity)
 - [Chaîne YouTube d'osu! University](https://www.youtube.com/c/osuuniversity)
