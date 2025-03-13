@@ -4,7 +4,7 @@ title: "Skin of the Year 2024: Results"
 date: 2025-03-12 18:00:00 +0000
 ---
 
-It's time to take one final turn back at the previous year, and showcase the best community-made skins of 2024!
+2024 never ended. In fact, it's time to showcase the best community-made skins of the year!
 
 ![](/wiki/shared/news/2025-03-12-skin-of-the-year-2024-results/banner.jpg)
 
