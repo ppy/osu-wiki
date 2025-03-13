@@ -609,7 +609,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 
 ### Win conditions
 
-1. In the Qualifiers, players need to place in the top 16 seeded players in order to advance to the double-elimination stage.
+1. In the Qualifiers, players' seeding will be determined based on the weighted average of their scores on each map.
 2. In the Play-off, players need to win 4 maps to win a match (best of 7).
 3. In the Round of 32 and Round of 16, players need to win 5 maps to win a match (best of 9).
 4. In the Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
@@ -618,7 +618,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC7K2024: ({Red}) vs ({Blue})`.
+   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC 7K 2024: ({Red}) vs ({Blue})`.
    - The player mentioned first in the room name must be in the red team, and the player mentioned second in the room name must be in the blue team.
 2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player during the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
@@ -632,18 +632,14 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 
 ### Mappool instructions
 
-1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
+1. There will be one mappool for each stage.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 8 beatmaps
-   - Play-off 1: 11 beatmaps
-   - Play-off 2: 14 beatmaps
-   - Round of 32: 14 beatmaps
-   - Round of 16: 16 beatmaps
-   - Quarterfinals: 16 beatmaps
-   - Semifinals: 18 beatmaps
-   - Finals: 18 beatmaps
-   - Grand Finals: 18 beatmaps
+   - Qualifiers: 9 beatmaps
+   - Play-off: 10 beatmaps
+   - Round of 32 and Round of 16: 12 beatmaps
+   - Quarterfinals and Semifinals: 14 beatmaps
+   - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
@@ -651,5 +647,5 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Scheduling instructions
 
 1. Each stage will be held on a single weekend (including Friday). It can be held on weekdays if both players require it, but this is not recommended.
-2. The schedule is decided by the players discussing with each other. All match times must be communicated to the tournament management two days prior to the actual match. If not informed, the tournament management will decide the match time at their own discretion. The daily schedule will be released a day beforehand.
-3. If a player needs to make a change after deciding the match time, rescheduling can only be considered with the consent of both players, and the scheduled time must be set to at least one day after informing the tournament management.
+2. The schedule is decided by the tournament management and the timetable will be released before Tuesday every week.
+3. If a player needs to reschedule after deciding the match time, rescheduling can only be considered with the consent of both players, and the request must submit before Friday.
