@@ -542,7 +542,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
    - If a rematch happens, the player's mod during that particular beatmap must remain the same.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Beatmaps must not be reused in the same match, except for rematches.
-10. If a player is not present at match time, it can be postponed for up to 10 minutes. If they are still absent after this period, a win by default will be declared for the player present.
+10. If a player is not present at match time, it can be postponed for up to 15 minutes. If they are still absent after this period, a win by default will be declared for the player present.
 11. All players and staff must be treated with respect. Instructions of the referees and the tournament management are to be followed. Decisions labelled as final are not to be objected.
 12. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match and other deliberate inappropriate misbehaviour are strictly prohibited.
 13. Breaking chat rules results in a silence. Silenced players cannot participate in multiplayer matches.
