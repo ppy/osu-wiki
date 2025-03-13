@@ -293,13 +293,13 @@ Sunday, 16 February 2025:
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1eIMFwHFejZ6zirpLnm0w7OTqA11JRqYPEszzkoSp1WQ).
 
-Friday, 07 February 2025:
+Friday, 7 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Anterex** ::{ flag=CL }:: | **6** | 0 | ::{ flag=CL }:: Jeanne Da Rin | [#1](https://osu.ppy.sh/community/matches/117093415) | [#1](https://www.twitch.tv/videos/2376058430) |
  
-Saturday, 08 February 2025:
+Saturday, 8 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -310,7 +310,7 @@ Saturday, 08 February 2025:
 | UQU ::{ flag=CL }:: | -1 | **6** | ::{ flag=CL }:: **NikitodeuS** | [*win by default*](https://osu.ppy.sh/community/matches/117109269) |  |
 | Hikikomori ::{ flag=CL }:: | 0 | **6** | ::{ flag=CL }:: **Ogata Kanna** | [#1](https://osu.ppy.sh/community/matches/117111498) | [#1](https://www.twitch.tv/videos/2377226704) |
 
-Sunday, 09 February 2025:
+Sunday, 9 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -320,7 +320,7 @@ Sunday, 09 February 2025:
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1J5OpwDH6j5fTULnw9V1hEV9wwzoKgnDaQx_V6vYBV94).
 
-Saturday, 01 February 2025:
+Saturday, 1 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -330,7 +330,7 @@ Saturday, 01 February 2025:
 | **Ogata Kanna** ::{ flag=CL }:: | **5** | 2 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117029124) | [#1](https://www.twitch.tv/videos/2370163235) |
 | **Anterex** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CL }:: [REG]Levels | [#1](https://osu.ppy.sh/community/matches/117031119) | [#1](https://www.twitch.tv/videos/2370163448) |
 
-Sunday, 02 February 2025:
+Sunday, 2 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
