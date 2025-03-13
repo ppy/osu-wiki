@@ -14,7 +14,7 @@ This just goes to show how much each skin in the top 10 is completely deserving 
 
 ---
 
-[![](/wiki/shared/news/2025-03-13-skin-of-the-year-2024-results/echoing-inside.jpg)](https://osu.ppy.sh/community/forums/topics/1959731)
+[![](/wiki/shared/news/2025-03-13-skin-of-the-year-2024-results/pastel.jpg)](https://osu.ppy.sh/community/forums/topics/1959731)
 
 In a shocking turn of events, [AshClown](https://osu.ppy.sh/users/8132473) has managed to snag themselves a tied 10th place with [Pastel](https://osu.ppy.sh/community/forums/topics/1959731), a skin that brings a unique twist by focusing on various works of an individual artist, rather than an individual character.
 
