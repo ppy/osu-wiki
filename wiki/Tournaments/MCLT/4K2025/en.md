@@ -237,13 +237,13 @@ Detailed statistics for this round can be found [on this spreadsheet](https://do
 
 ### Grand Finals
 
-Saturday, 22 February 2025:
+Saturday, 01 March 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **b3njvv2** ::{ flag=CL }:: | **7** | 2 | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117348510) | [#1](https://www.twitch.tv/videos/2394611266) |
 
-Sunday, 23 February 2025:
+Sunday, 02 March 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
