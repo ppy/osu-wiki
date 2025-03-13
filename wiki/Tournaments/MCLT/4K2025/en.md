@@ -59,7 +59,7 @@ The osu!mania 4K Chilean National Cup 2025 was run by various community members.
 - [Livestream](https://www.twitch.tv/mclt_osu)
 - [Challonge bracket](https://challonge.com/es/mclt4k2025)
 - [Discord server](https://discord.gg/aSTBgHBpSN)
-- [Vod collection (YouTube)](https://www.youtube.com/@MCLT4K)
+- [VOD collection (YouTube)](https://www.youtube.com/@MCLT4K)
 
 ## Participants
 
@@ -92,7 +92,7 @@ The osu!mania 4K Chilean National Cup 2025 was run by various community members.
 
 ## Podium
 
-![](img/mclt-podium.png "MCLT 4K 2025 Podium")
+![](img/mclt-podium.png "MCLT 4K 2025 podium")
 
 ## Mappools
 
@@ -237,13 +237,13 @@ Detailed statistics for this round can be found [on this spreadsheet](https://do
 
 ### Grand Finals
 
-Saturday, 01 March 2025:
+Saturday, 1 March 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **b3njvv2** ::{ flag=CL }:: | **7** | 2 | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117348510) | [#1](https://www.twitch.tv/videos/2394611266) |
 
-Sunday, 02 March 2025:
+Sunday, 2 March 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
