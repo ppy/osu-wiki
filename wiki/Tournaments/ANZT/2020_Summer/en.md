@@ -2,7 +2,7 @@
 
 ![ANZT 7S logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 7 - Summer** (***ANZT 7S***) was a 1v1 single elimination osu! tournament with a Swiss format group stage hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) and ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054). It was the ninth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 7 - Summer** (***ANZT 7S***) was a 1v1 double elimination osu! tournament with a Swiss format group stage hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) and ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054). It was the ninth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -25,6 +25,8 @@ The **Aus/NZ osu!standard Tournament 7 - Summer** (***ANZT 7S***) was a 1v1 sing
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter |
+
+![](img/badge.png "ANZT 7S winner badge")
 
 ## Organisation
 
