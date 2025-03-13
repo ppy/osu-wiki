@@ -92,7 +92,7 @@ The osu!mania 4K Chilean National Cup 2025 was run by various community members.
 
 ## Podium
 
-![](img/mclt-podium.png "MCLT 4K 2025 podium")
+![](img/mclt-podium.jpg "MCLT 4K 2025 podium")
 
 ## Mappools
 
