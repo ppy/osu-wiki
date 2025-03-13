@@ -76,7 +76,7 @@ Spoo took the [original skin](https://osu.ppy.sh/community/forums/topics/1775136
 
 You could say that 2024 was [Spoo](https://osu.ppy.sh/users/11805037)'s year of the remaster, and it looks like it has paid out it's dividends, with them taking both the #1 and #2 spots!
 
-With yet another throwback, the [original skin](https://osu.ppy.sh/community/forums/topics/1293207) was based on the famous [background](https://images6.alphacoders.com/974/974020.png) used across various FREEDOM DiVE beatmapsets, and it was created all the way back in 2021 for the [first ever skinship skinning contest](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)! After it received the Spoo™ treatment with a complete re-draw of all elements, it was received with huge praise, so much so that the community deemed it worthy of the #1 spot, with **1078** votes!
+With yet another throwback, the [original skin](https://osu.ppy.sh/community/forums/topics/1293207) was based on the famous [background](https://www.pixiv.net/en/artworks/41256222) used across various FREEDOM DiVE beatmapsets, and it was created all the way back in 2021 for the [first ever skinship skinning contest](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)! After it received the Spoo™ treatment with a complete re-draw of all elements, it was received with huge praise, so much so that the community deemed it worthy of the #1 spot, with **1078** votes!
 
 ![](https://assets.ppy.sh/profile-badges/SOTY2024-FREEDOM-DiVE-REiMAGINED@2x.png)
 
