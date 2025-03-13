@@ -14,7 +14,7 @@ tags:
 
 For other contests, email us at [tournaments@ppy.sh](mailto:tournaments@ppy.sh). We'll try to work something out.
 
-This article was last updated on September 30, 2024. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on **March 13, 2025**. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -24,6 +24,28 @@ Officially supported contests have access to certain benefits:
 - **Progress towards *Elite Mapper* user title.** See [contest points](/wiki/Contests/Contest_points) for more details.
 - **Potential consideration for [news coverage](#news-posts)**.
 
+## Expectations
+
+Contest organisers are expected to monitor their contest for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
+
+### Contests
+
+Community-run contests receiving this support are expected to abide by the following general ideals:
+
+- Remain free and fair.
+- Be as transparent as possible.
+- Preserve competitive integrity.
+- Encourage good sportsmanship.
+
+In addition, all promotional material or any services associated with a contest receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
+
+### Additional expectations
+
+While the following expectations mainly apply to tournaments, contests are still expected to abide by them to the best of their ability:
+
+- [Staff](/wiki/Tournaments/Official_support#staff)
+- [Players](/wiki/Tournaments/Official_support#players)
+
 ## Eligibility
 
 Contests which abide by the following criteria are eligible for official support for **profile badges**:
@@ -31,6 +53,8 @@ Contests which abide by the following criteria are eligible for official support
 - **The contest must meet either of these criteria:**
   - The contest is organised and run by an experienced team of accomplished and reputable staff, as decided by the osu! team.
   - The contest has successfully run for one iteration without official support.
+- **The forum threads associated with the contest MUST contain a clearly visible and accessible link to the contest report form.** The link must be placed at the bottom of the original post.
+  - `https://tcomm.hivie.tn/reports/create`
 - **The contest must have a clearly defined set of rules.**
 - **The contest must accept submissions for only one game mode.** Most users specialise in one game mode, so it is not reliable to evaluate mapping quality across multiple game modes.
 - **For solo osu! contests, there should be at least 15 valid submissions.**[^exception-note]
@@ -39,12 +63,14 @@ Contests which abide by the following criteria are eligible for official support
 - **The contest must have a clearly defined judging criteria based on mapping merit.** These ensure a contest follows an understandable quality standard in line with other mapping contests.
 - **The contest's results must be determined by valuing scores from all judges equally.** Using standard deviation to determine final scores is required.[^exception-note]
   - The final score must be calculated as follows: `judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation`.
+- **The contest's host must moderate their judges' comments.** Comments which are either offensive, belittling, of low effort, or otherwise inappropriate may be removed at the committee's discretion.
 - **The contest's results must be publicly displayed with judge scores/comments visible.** The judges may be anonymised publicly, but the osu! team may ask for un-anonymised judge details if necessary.
 - **The contest must have at least 4 judges.** Contests with fewer judges allow each judge too much influence on overall results.
+- **Contests which incorporate a screening phase prior to judging must also have at least 4 screeners.**
 - **A user cannot participate in more than one submission to the contest.**
 - **Submissions to the contest should be anonymised.** This limits judging bias removing name association between a mapper and their map. This rule may be ignored only if a contest has special circumstances that warrant removing anonymity.
 - **The contest's organisers must not participate in the contest.** This includes both submitting a map *and* judging/screening submissions. Anyone with access to judging/screening information or un-anonymised submissions is considered a "contest organiser".
-- **Any staff involved in the operation of a contest in any capacity must not be currently restricted.**
+- **Any staff involved in the operation of a contest in any capacity must not be currently [restricted](/wiki/Help_centre/Account_restrictions) or [tournament banned](/wiki/Help_centre/Tournament_bans).**
 
 In addition to the criteria above, contests which abide by these rules are eligible for official support for **[contest points](/wiki/Contests/Contest_points) to earn the *Elite Mapper* user title:**
 

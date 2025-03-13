@@ -5,26 +5,35 @@ tags:
 
 # Performance Points Committee
 
-The **Performance Points Committee** is a panel of well-versed players and developers who facilitate and approve updates to the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) algorithms. Their goal is to help [osu! developers](/wiki/People/Developers) push changes faster and with more community coordination.
+The **Performance Points Committee** is a panel of well-versed players and developers who facilitate and approve updates to the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) algorithms.
 
 The Performance Points Committee's responsibilities include:
 
 - Organizing development efforts and helping contributors
-- Reviewing and developing changes in difficulty calculation algorithms
+- Reviewing and developing changes in difficulty calculation algorithms, ensuring community satisfaction
 - Deciding which changes will be deployed and used in the game
-- Assisting with writing news posts for newly deployed changes
+- Assisting the [Performance Points Maintainers](#performance-points-maintainers) with writing news posts for newly deployed changes
 
 ## Workflow
 
-When a new difficulty calculation change is proposed on [GitHub](https://github.com/ppy/osu), the Performance Points Committee members responsible for the relevant [game mode](/wiki/Game_mode) are requested to review it. Those committee members then review and test the proposal and write feedback on its GitHub page. If the committee ultimately approves of the changes, the proposal will be passed on to [osu! developers](/wiki/People/Developers) for final code inspection before it is merged into the game.
-
-The osu! developers prepare merged proposals to be deployed in batches. A deployment recalculates star ratings for all beatmaps and performance points for all scores and users. The Performance Points Committee helps write the news post that accompanies each deployment.
+When a new difficulty calculation change is proposed on [GitHub](https://github.com/ppy/osu), the Performance Points Committee members responsible for the relevant [game mode](/wiki/Game_mode) are requested to review it. Those committee members then review and test the proposal and write feedback on its GitHub page. If the committee ultimately approves of the changes, the proposal will be passed on to the Performance Points Maintainers for final inspection before it is merged into the game.
 
 ## Communication
 
 The Performance Points Committee mainly operates in the [Performance Points Discord server](https://discord.gg/aqPCnXu), with some game modes also having [separate servers](/wiki/Community/Discord_servers#community-development). The committee also maintains a [Twitter account](https://x.com/pp_committee) used for official announcements and difficulty calculation related news.
 
-## Members
+## Performance Points Maintainers
+
+The maintainers are hand-picked by osu! developers and consist of people with a lot of experience organising performance points efforts. They are responsible for writing news posts, merging batches of changes into the [`pp-dev`](https://github.com/ppy/osu/tree/pp-dev) branch on the [osu! repository](https://github.com/ppy/osu) and acting as a final approval on all PP changes.
+
+<!-- internal reference: https://github.com/orgs/ppy/teams/pp-maintainers -->
+
+| osu! profile | GitHub profile |
+| :-- | :-- |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
+
+## Committee members
 
 Members of the committee are hand-picked by osu! developers and/or other committee members and consist of people with a lot of experience working on the difficulty calculation system.
 
@@ -54,7 +63,6 @@ The osu!taiko panel was formed on 1 May 2022 in response to [a community survey 
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1 May 2022 |
 | ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/22194163) | [Babysnakes101](https://github.com/BabySnakes101) | 1 December 2024 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 September 2023 |
-| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | [kadenbruh](https://github.com/kadenbruh) | 1 December 2024 |
 | ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) | 1 December 2024 |
 
 #### Previous members
@@ -65,6 +73,7 @@ The osu!taiko panel was formed on 1 May 2022 in response to [a community survey 
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1 May 2022 | 31 October 2024 |
 | ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | 25 July 2023 | 19 November 2024 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 1 May 2022 | 24 November 2024 |
+| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | 1 December 2024 | 6 January 2025 |
 
 ### osu!catch
 
@@ -74,9 +83,14 @@ The osu!catch panel was formed on 14 October 2023.
 | :-- | :-- | :-- |
 | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 October 2023 |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) | 14 October 2023 |
-| ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | [Sorceress-osu](https://github.com/Sorceress-osu) | 14 October 2023 |
-| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | [Zoggoth](https://github.com/Zoggoth) | 14 October 2023 |
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 October 2023 |
+
+#### Previous members
+
+| osu! profile | Join date | Leave date |
+| :-- | :-- | :-- |
+| ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | 14 October 2023 | 11 December 2024 |
+| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | 14 October 2023 | 11 December 2024 |
 
 ### osu!mania
 
