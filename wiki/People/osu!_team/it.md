@@ -35,7 +35,7 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Consigliere della scena Modding e mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Sviluppatore osu!web, [Artista in Primo Piano](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Sviluppatore osu!web |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderatore](/wiki/People/Global_Moderation_Team), consigliere della scena Modding e mapping |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Moderatore](/wiki/People/Global_Moderation_Team), consigliere della scena Modding e mapping |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Gestore del [canale YouTube di osu!](https://www.youtube.com/@osugame), organizzatore della [Gilda dei Mapper](/wiki/Community/Mappers_Guild), ricercatore degli [Artisti in Primo Piano](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Consigliere della scena Modding e mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderatore](/wiki/People/Global_Moderation_Team), [manutentore della wiki](/wiki/People/osu!_wiki_maintainers) |

@@ -28,7 +28,7 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | ทำหน้าที่ทั่วไป และผู้ให้คำปรึกษาเกี่ยวกับการดูแล |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | ผู้พัฒนา osu!web, [ศิลปินโด่งดัง osu!](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | ผู้พัฒนา osu!web |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | ผู้ให้คำปรึกษาเกี่ยวกับการวิจารณ์แมป และวงการแมป |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | ผู้ให้คำปรึกษาเกี่ยวกับการวิจารณ์แมป และวงการแมป |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | ผู้ให้คำปรึกษาเกี่ยวกับการวิจารณ์แมป และวงการแมป, ผู้จัดระเบียบ Mappers' Guild, การเข้าถึงศิลปินโด่งดัง |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | ทำหน้าที่ทั่วไป, ผู้ดูแลวิกิ |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | ทำหน้าที่ทั่วไป |

@@ -7,7 +7,7 @@ tags:
   - 提示
 ---
 
-<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
+<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656/en-zhcn -->
 
 # 菜单提示
 
@@ -89,8 +89,6 @@ tags:
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
-
 这些提示出现在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 的主菜单下方。
 
 - 在游戏里随时按下 `Ctrl` + `T`，来唤出工具栏！
@@ -121,6 +119,7 @@ tags:
 - 在播放回放时，按下 `Ctrl` + `H` 显示回放设置！
 - 右键点击排行榜上分数的模组，可以轻松复制它！
 - 在歌曲选择界面按下 `Ctrl` + `Enter`，能自动游玩这张谱面！
+- "Lazer" 并不是一个英文单词。激光正确的英文拼写是 "laser"。
 
 ## 参见
 
