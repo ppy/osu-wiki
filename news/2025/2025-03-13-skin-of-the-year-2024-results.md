@@ -14,9 +14,15 @@ This just goes to show how much each skin in the top 10 is completely deserving 
 
 ---
 
+[![](/wiki/shared/news/2025-03-13-skin-of-the-year-2024-results/echoing-inside.jpg)](https://osu.ppy.sh/community/forums/topics/1959731)
+
+In a shocking turn of events, [AshClown](https://osu.ppy.sh/users/8132473) has managed to snag themselves a tied 10th place with [Pastel](https://osu.ppy.sh/community/forums/topics/1959731), a skin that brings a unique twist by focusing on various works of an individual artist, rather than an individual character.
+
+[Chon](https://www.pixiv.net/en/users/15158551)'s illustrations can be seen across the entire skin, with various cameos of their previously drawn characters and retro-styled icons, and an overall pleasing *pastel* blue palette that can be seen across the entire skin. For their effort and unique idea the community has granted them **520** votes, and an unexpected shared #10 spot.
+
 [![](/wiki/shared/news/2025-03-13-skin-of-the-year-2024-results/echoing-inside.jpg)](https://osu.ppy.sh/community/forums/topics/1925867)
 
-[thetasigma](https://osu.ppy.sh/users/6234482) once again earned a spotlight, this time around with their [echoing inside.](https://osu.ppy.sh/community/forums/topics/1925867) skin, which not only got the #10 spot with **520** votes, but also got the #2 spot in the [Unchained skinning contest](https://osu.ppy.sh/home/news/2024-07-17-skinning-contest-unchained-results) that was run last year.
+[thetasigma](https://osu.ppy.sh/users/6234482) once again earned a spotlight (albeit a shared one), this time around with their [echoing inside.](https://osu.ppy.sh/community/forums/topics/1925867) skin, which not only got the #10 spot with **520** votes, but also got the #2 spot in the [Unchained skinning contest](https://osu.ppy.sh/home/news/2024-07-17-skinning-contest-unchained-results) that was run last year.
 
 Needless to say, if you are a fan of *Honkai: Star Rail* and one of its characters [Robin](https://honkai-star-rail.fandom.com/wiki/Robin), you are in for a treat.
 
