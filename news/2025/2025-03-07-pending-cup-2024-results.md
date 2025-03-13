@@ -95,7 +95,7 @@ Finalists with the **highest points** out of the **3** tracks will receive speci
 In addition, the finalists at **1st and 2nd place** per category receive the following amount of [**contest points**](/wiki/Contests/Contest_points):
 
 | Mapper | Points |
-| :-- | --:
+| :-- | --: |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | +2 |
 | ::{ flag=ID }:: [William K](https://osu.ppy.sh/users/2261651) | +2 |
 | ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | +2 |
