@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
   4. [AVTechNO! - boku-boku SuketchP Remix ([Crz]xz1z1z) \[Tachyon?\]](https://osu.ppy.sh/beatmapsets/2230251#mania/4732794)
   5. [celtix - Entanglement (gzdongsheng) \[Decoherence\]](https://osu.ppy.sh/beatmapsets/2230190#mania/4732603)
   6. [Frums - UMBRA, RADIOLOGOS. (Cut ver.) ([Crz]sunnyxxy) \[aspodifu\]](https://osu.ppy.sh/beatmapsets/2230225#mania/4732665)
-  7. [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (YuEast 2018) \[Bokura wa tsuyokunai, demo yowakunai.\]](https://osu.ppy.sh/beatmapsets/2230217#mania/4732651) 
+  7. [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (YuEast 2018) \[Bokura wa tsuyokunai, demo yowakunai.\]](https://osu.ppy.sh/beatmapsets/2230217#mania/4732651)
 - Hybrid
   1. [Ashrount - LaureLs ~the Angelus~ (Muses) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/2230195#mania/4732611)
   2. [kuro - BEYOND THE GRAVITY [UNIVERSE 1.15x (207bpm)] (gzdongsheng)](https://osu.ppy.sh/beatmapsets/2230198#mania/4732615)
@@ -348,24 +348,6 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (82 MB)](https://drive.google.com/file/d/1YZSIN3Ch5OCrSCJDT3goS7LPjSx2EMVy/view?usp=sharing)**
 
-- FreeMod
-  1. [HOYO-MiX - If I Can Stop One Heart From Breaking (Cut Ver.) ([Crz]xz1z1z) \[xz & yd's Firefly\]](https://osu.ppy.sh/beatmapsets/2202556#mania/4661730)
-  2. [-45 - Midorigo Queen Bee ([Crz]Makii) \[Ruin 1.25x\]](https://osu.ppy.sh/beatmapsets/2202554#mania/4661720)
-  3. [lolol235 - The Ballad of Player XZ (WhiteCookies) \[FcEazy's 213832 (114bpm)\]](https://osu.ppy.sh/beatmapsets/2197001#mania/4661779)
-  4. [YOASOBI - Adventure (AelSan) \[Memorable Memories\]](https://osu.ppy.sh/beatmapsets/2202551#mania/4661716)
-  5. [Pa's Lam System - City Lights Feat. EVO+ , Jinmenusagi (Pa's Lam System Remix) (elexire) \[Phosphorescent\]](https://osu.ppy.sh/beatmapsets/2123348#mania/4462321)
-  6. [Yoroshiku!Amucharuzu - Say Hello to the World's End (Cut Ver.) (Hidden is fun) \[Collab Yoroshiku!\]](https://osu.ppy.sh/beatmapsets/2202557#mania/4661731)
-  7. [PSYQUI - Eyes on me feat. Such (HowToPlayLN) \[Stage 4: Focused\]](https://osu.ppy.sh/beatmapsets/1196939#mania/2493320)
-  8. [Jay Chou - Dao Xiang (YuEast 2018) \[Dongdong's Bringing Back Your Memories\]](https://osu.ppy.sh/beatmapsets/2202550#mania/4661715)
-  9. [awfuless - Temptation ([Crz]Alleyne) \[Yuuwaku\]](https://osu.ppy.sh/beatmapsets/2202552#mania/4661717)
-  10. [Cartoons - Witch Doctor (Cut Ver.) (UselessPlayer) \[51522\]](https://osu.ppy.sh/beatmapsets/2202561#mania/4661747)
-- Tiebreaker
-  1. **[Massive New Krew - Majestic 12 ([Crz]xz1z1z) \[Goodbye, I'm an alien\]](https://osu.ppy.sh/beatmapsets/2202558#mania/4661735)**
-
-### Qualifiers
-
-**[Download the mappack here! (34 MB)](https://drive.google.com/file/d/1rvK0aZpvsCKJe1pLhn02iuqH2jtywPD7/view?usp=sharing)**
-
 - Rice
   1. [HOYO-MiX - If I Can Stop One Heart From Breaking (Cut Ver.) ([Crz]xz1z1z) \[xz & yd's Firefly\]](https://osu.ppy.sh/beatmapsets/2202556#mania/4661730)
   2. [-45 - Midorigo Queen Bee ([Crz]Makii) \[Ruin 1.25x\]](https://osu.ppy.sh/beatmapsets/2202554#mania/4661720)
@@ -376,12 +358,26 @@ This competition has come to an end and resulted in the following podium:
   1. [Yoroshiku!Amucharuzu - Say Hello to the World's End (Cut Ver.) (Hidden is fun) \[Collab Yoroshiku!\]](https://osu.ppy.sh/beatmapsets/2202557#mania/4661731)
   2. [PSYQUI - Eyes on me feat. Such (HowToPlayLN) \[Stage 4: Focused\]](https://osu.ppy.sh/beatmapsets/1196939#mania/2493320)
 - Long Note
-  1. [Jay Chou - Dao Xiang (YuEast 2018) \[Dongdong's Bringing Back Your Memories\]](https://osu.ppy.sh/beatmapsets/2202550#mania/4661715)
-  2. [awfuless - Temptation ([Crz]Alleyne) \[Yuuwaku\]](https://osu.ppy.sh/beatmapsets/2202552#mania/4661717)
+  3. [Jay Chou - Dao Xiang (YuEast 2018) \[Dongdong's Bringing Back Your Memories\]](https://osu.ppy.sh/beatmapsets/2202550#mania/4661715)
+  4.  [awfuless - Temptation ([Crz]Alleyne) \[Yuuwaku\]](https://osu.ppy.sh/beatmapsets/2202552#mania/4661717)
 - SV
   1. [Cartoons - Witch Doctor (Cut Ver.) (UselessPlayer) \[51522\]](https://osu.ppy.sh/beatmapsets/2202561#mania/4661747)
 - Tiebreaker
   1. **[Massive New Krew - Majestic 12 ([Crz]xz1z1z) \[Goodbye, I'm an alien\]](https://osu.ppy.sh/beatmapsets/2202558#mania/4661735)**
+
+### Qualifiers
+
+**[Download the mappack here! (34 MB)](https://drive.google.com/file/d/1rvK0aZpvsCKJe1pLhn02iuqH2jtywPD7/view?usp=sharing)**
+
+- FreeMod
+  1. [A-39 - Memories of the Heart (feat. Hatsune Miku) (Cut Ver.) ([GB]Mafufu) [Stage 1: Humanity]](https://osu.ppy.sh/beatmapsets/2198029#mania/4651408)
+  2. [Aphex Twin - Bucephalus Bouncing Ball (Cut Ver.) (Lott) [Conundrum]](https://osu.ppy.sh/beatmapsets/2198005#mania/4651348)
+  3. [Toromaru - Ebb Tide ([Crz]xz1z1z) [Stage 3: Eastward]](https://osu.ppy.sh/beatmapsets/2198027#mania/4651402)
+  4. [Magens - DDDDance! (AelSan) [Stage 4: Party]](https://osu.ppy.sh/beatmapsets/2198019#mania/4651381)
+  5. [REDALiCE vs. DJ Myosuke feat. DELUTAYA - KYOREN ROMANCE (Seiran-) [Stage 5: Romanticism]](https://osu.ppy.sh/beatmapsets/2198024#mania/4651386)
+  6. [Riya - Annihilation ([Crz]Alleyne) [Stage 6: Oblivion]](https://osu.ppy.sh/beatmapsets/2198020#mania/4651382)
+  7. [J-CORE SLi//CER - "Ongaku producer" no heikin-tekina seishin jotai (Cut Ver.) (gzdongsheng) [Stage 7: Mental]](https://osu.ppy.sh/beatmapsets/2198021#mania/4651383)
+  8. [YUC'e - SPACE INVADER (YuEast 2018) [Stage 8: Futur-vasion]](https://osu.ppy.sh/beatmapsets/2198018#mania/4651380)
 
 ## Match results
 
@@ -410,7 +406,7 @@ Tuesday, 6 August 2024:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **tyrcs** | **7** | 5 | nyasunfanboy | [#1](https://osu.ppy.sh/community/matches/114965408) |
-| Quotient | 0 | **7** | **[GB]GanyuAngel** | [#1](https://osu.ppy.sh/community/matches/114965815) |
+| [GB]GanyuAngel | 0 | **7** | **Quotient** | [#1](https://osu.ppy.sh/community/matches/114965815) |
 | Quotient | 1 | **7** | **tyrcs** | [#1](https://osu.ppy.sh/community/matches/114968132) |
 
 Sunday, 12 August 2024:
@@ -576,7 +572,7 @@ Saturday, 6 July 2024:
 | **Mantozi** | **5** | 0 | [GB]Aeracy_nya | [#1](https://osu.ppy.sh/community/matches/114565870) |
 | neeko the rock | -1 | **0** | **[Paw]DCRSG** | [#1](https://osu.ppy.sh/community/matches/114566364) |
 | SilentParleHorn | 3 | **5** | **HxcQ777** | [#1](https://osu.ppy.sh/community/matches/114566716) |
-| [GB]nyasun | -1 | **0** | **[GB]nnk** | [#1](https://osu.ppy.sh/community/matches/114567487) |
+| **[GB]nyasun** | **0** | -1 | [GB]nnk | [#1](https://osu.ppy.sh/community/matches/114567487) |
 | **[Crz]Xinyi2016** | **5** | 0 | Old Pigeon | [#1](https://osu.ppy.sh/community/matches/114567775) |
 | **[GB]mmttyy233** | **5** | 0 | shade0214 | [#1](https://osu.ppy.sh/community/matches/114568003) |
 | **af-** | **5** | 1 | neeeeeh | [#1](https://osu.ppy.sh/community/matches/114568086) |
