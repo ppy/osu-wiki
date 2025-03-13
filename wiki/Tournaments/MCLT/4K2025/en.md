@@ -442,7 +442,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Extra
 
-[^grand-finals]: Grand Finals — final matchup depends on the losers' bracket Grand Finals match.
-[^losers-bracket]: Losers' bracket Grand Finals bracket match.
 [^qualifiers-seeding]: Average rank between the 5 maps played during the Qualifiers stage.
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two Players have the same average rank in their Qualifiers result.
