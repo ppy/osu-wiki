@@ -47,12 +47,12 @@ The osu!mania 4K Chinese National Cup 2024 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
-| Referees | ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [[GB]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [Shiki-Natsume](https://osu.ppy.sh/users/6338477), ::{ flag=CN }:: [Azureus](https://osu.ppy.sh/users/6938658) |
+| Referees | ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [Kieran_](https://osu.ppy.sh/users/11264367), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [[Crz]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [Xu seventeen](https://osu.ppy.sh/users/8781662), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=HK }:: [wanderloop](https://osu.ppy.sh/users/13858681), ::{ flag=CN }:: [Azureus](https://osu.ppy.sh/users/6938658), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=CN }:: [[Crz]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [[GB]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Shiki-Natsume](https://osu.ppy.sh/users/6338477), ::{ flag=CN }:: [FenggeTGOB](https://osu.ppy.sh/users/35928532), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556) |
 | Mappoolers | ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CN }:: [[Crz]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [[Crz]Caicium](https://osu.ppy.sh/users/10702235), ::{ flag=CN }:: [[Crz]sunnyxxy](https://osu.ppy.sh/users/10333739) |
 | Mappool tester | ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [[Crz]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [[Crz]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [[Crz]Caicium](https://osu.ppy.sh/users/10702235), ::{ flag=CN }:: [[Crz]sunnyxxy](https://osu.ppy.sh/users/10333739), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=MX }:: [[Crz]Noire](https://osu.ppy.sh/users/6031847), ::{ flag=CN }:: [[GB]Mafufu](https://osu.ppy.sh/users/10884561) |
 | Custom mappers | ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [UselessPlayer](https://osu.ppy.sh/users/15030466), ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=KR }:: [Nicknem_](https://osu.ppy.sh/users/16615040), ::{ flag=CN }:: [[Crz]sunnyxxy](https://osu.ppy.sh/users/10333739), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=US }:: [0DZ0](https://osu.ppy.sh/users/28156707), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=CN }:: [[GB]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=CN }:: [[Crz]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=GB }:: [Monheim](https://osu.ppy.sh/users/6814203), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [[GB]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) |
-| Streamers | ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [Kieran_](https://osu.ppy.sh/users/11264367), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [[GB]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [Azureus](https://osu.ppy.sh/users/6938658), ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Shiki-Natsume](https://osu.ppy.sh/users/6338477) |
-| Commentators | ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [[Crz]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [Xu seventeen](https://osu.ppy.sh/users/8781662), ::{ flag=CN }:: [FenggeTGOB](https://osu.ppy.sh/users/35928532), ::{ flag=CN }:: [[GB]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [[GB]sherweifa](https://osu.ppy.sh/users/17457562) |
+| Streamers | ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [Kieran_](https://osu.ppy.sh/users/11264367), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [Azureus](https://osu.ppy.sh/users/6938658), ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Shiki-Natsume](https://osu.ppy.sh/users/6338477) |
+| Commentators | ::{ flag=CN }:: [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [[Crz]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [Xu seventeen](https://osu.ppy.sh/users/8781662), ::{ flag=CN }:: [FenggeTGOB](https://osu.ppy.sh/users/35928532), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [[GB]sherweifa](https://osu.ppy.sh/users/17457562) |
 | Graphics | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=CN }:: [Dr_Tissues](https://osu.ppy.sh/users/5106681), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) |
 
 ## Links
@@ -630,7 +630,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Tournament rules
 
 1. The osu!mania 4K Chinese National Cup is a head-to-head individual tournament, played on the osu!mania game mode.
-2. Beatmap scoring will be based on Score V2.
+2. The Match mode will be `Head-To-Head`, beatmap scoring will be based on `Score V2`.
 3. The beatmaps for each round will be announced by the mappool selection team before the actual matches take place.
    - Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the "best of" system, e.g. if scoreline is 4–4 and the match is best of 9, the tiebreaker shall be played.
 4. Match scheduling will be handled by the tournament management.
@@ -675,7 +675,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 1. There will be no warmups during the Qualifier stage.
 2. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
 3. The Qualifier pool contains 8 maps, all of which will use FreeMod rules.
-4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding.
+4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding. If players wish, they can the mappool only once.
 5. The mappool will be played in the order the maps are listed.
 6. There will be an optional 5-minute break in between the first and second playthrough of the mappool.
 7. All players will play their qualifiers in separate rooms. We suggest players not to broadcast or share their results to avoid seed manipulation.
@@ -715,7 +715,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 
 ### Win conditions
 
-1. In the Qualifiers, players need to place in the top 16 seeded players in order to advance to the double-elimination stage.
+1. In the Qualifiers, players' seeding will be determined based on the weighted average of their scores on each map.
 2. In the Play-off 1, players need to win 4 maps to win a match (best of 7).
 3. In the Play-off 2 and Round of 32, players need to win 5 maps to win a match (best of 9).
 4. In the Roudd of 16 and Quarterfinals, players need to win 6 maps to win a match (best of 11).
@@ -724,15 +724,15 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC4K2024: ({Red}) vs ({Blue})`.
+   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC 4K 2024: ({Red}) vs ({Blue})`.
    - The player mentioned first in the room name must be in the red team, and the player mentioned second in the room name must be in the blue team.
 2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player during the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
 4. Each player must use `!roll` once in `#multiplayer`.
-   1. The loser of the `!roll` starts protecting one beatmap, followed by the winner of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be banned.
+   1. The loser of the `!roll` starts protecting one beatmap, followed by the winner of the `!roll` to protect a beatmap. They cannot protect the same beatmap. Protected beatmaps cannot be banned.
    2. The winner of the `!roll` starts banning one beatmap, followed by the loser of the `!roll` to ban a beatmap.
    3. The winner of the `!roll` starts picking the first beatmap of the match.
-5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player exceeds the allotted time more than once., a random map will be chosen from the mappool using `!roll` with the number of maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the tournament management.
+5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If it takes longer than the allotted time for no technical reasons, then on the second occurrence, a random map will be chosen from the mappool using `!roll`, considering only the maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the tournament management.
 6. Players will be given at most a 3-minute timeout for solving unexpected situations.
 7. Qualifier results will be published via a statistics sheet.
 
@@ -743,13 +743,9 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Play-off 1: 11 beatmaps
-   - Play-off 2: 14 beatmaps
-   - Round of 32: 14 beatmaps
-   - Round of 16: 16 beatmaps
-   - Quarterfinals: 16 beatmaps
-   - Semifinals: 18 beatmaps
-   - Finals: 18 beatmaps
-   - Grand Finals: 18 beatmaps
+   - Play-off 2 and Round of 32: 14 beatmaps
+   - Round of 16 and Quarterfinals: 16 beatmaps
+   - Semifinals, Finals, and Grand Finals: 18 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
@@ -757,5 +753,5 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Scheduling instructions
 
 1. Each stage will be held on a single weekend (including Friday). It can be held on weekdays if both players require it, but this is not recommended.
-2. The schedule is decided by the Tournament Management. The daily schedule will be released every Friday before.
-3. If player need to make a temporary change after decide the game time. Rescheduling can only be considered with the consent of both players, and the scheduled time must be every Thursday before.
+2. The schedule is decided by the tournament management and the timetable will be released before Tuesday every week.
+3. If a player needs to reschedule after deciding the match time, rescheduling can only be considered with the consent of both players, and the request must submit before Friday.
