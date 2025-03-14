@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ec1d6b99174e0f2058273f412d860fa4a2d59f4a
 tags:
   - badge
   - badges
@@ -224,6 +222,8 @@ Consulta los siguientes diseños de insignias aprobadas:
 
 ![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
+Usa [esta herramienta de visualización de insignias](https://tcomm.hivie.tn/assets-previewer?tab=badges) para comprobar que tu insignia cumple los estándares mencionados.
+
 Las imágenes de las insignias que no cumplan estos estándares serán rechazadas con un motivo dado, y en algunos casos se te podrá pedir que rediseñes completamente tu insignia. Esto es bastante poco frecuente, pero debe tenerse en cuenta.
 
 En casos excepcionales, se le podrá conceder a un torneo el privilegio de otorgar insignias a sus tres primeros finalistas. Un torneo que ha recibido esta distinción es reconocido por alcanzar el nivel más alto posible de calidad de producción y organización. Esta distinción se concede exclusivamente a discreción del osu! team. Si crees que tu torneo cumple las expectativas para recibir esta distinción, puedes solicitarla al presentar tu solicitud inicial de las insignias.
@@ -276,6 +276,8 @@ Consulta los siguientes diseños de banners aceptables:
 ![](https://assets.ppy.sh/main-menu/corsace-2021/gf3.png)
 
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
+
+Usa [esta herramienta de visualización de banners](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) para comprobar cómo se vería el banner dentro del juego.
 
 Por favor, no envíes un banner para el menú principal con tu solicitud original; se te preguntará y se te indicará esta sección si estás autorizado a hacer uso de uno.
 
