@@ -1,7 +1,3 @@
----
-outdated_since: 2e84fccef42dbe90b57ed6174fbf1e20e74135ff
-outdated_translation: true
----
 
 # Medaglie
 
@@ -9,7 +5,7 @@ Le **medaglie**, precedentemente chiamate *obiettivi*, sono emblemi sulla pagina
 
 ## Pacchetti Beatmap
 
-Le **medaglie Pacchetti Beatmap** sono medaglie assegnate al completamento di alcuni [Pacchetti Beatmap a Tema](https://osu.ppy.sh/beatmaps/packs?type=theme) o [Pacchetti Beatmap Artista/Album](https://osu.ppy.sh/beatmaps/packs?type=artist). Queste medaglie possono essere ottenute finendo una partita su ogni beatmap almeno una volta in una qualsiasi difficoltà all'interno del corrispondente pacchetto beatmap.
+Le **medaglie Pacchetti Beatmap** sono medaglie assegnate al completamento di alcuni [Pacchetti Beatmap a Tema](https://osu.ppy.sh/beatmaps/packs?type=theme), [Pacchetti Beatmap Artista/Album](https://osu.ppy.sh/beatmaps/packs?type=artist) o [Pacchetti Progetto Amate](https://osu.ppy.sh/beatmaps/packs?type=loved). Queste medaglie possono essere ottenute finendo una partita su ogni beatmap almeno una volta in una qualsiasi difficoltà all'interno del corrispondente pacchetto beatmap.
 
 Tutte le beatmap devono essere finite nella modalità di gioco [osu!](/wiki/Game_mode/osu!) per ottenere la medaglia a meno che non venga specificato altrimenti. L'uso di [mod che riducono la difficoltà](/wiki/Gameplay/Game_modifier#difficulty-reduction) o [mod che aumentano la difficoltà](/wiki/Gameplay/Game_modifier#difficulty-increase), compreso [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) è permesso.
 
