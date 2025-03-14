@@ -33,7 +33,7 @@ La duración de un silencio comienza con 5 minutos y generalmente se duplica por
 - **Historial:** Registros de infracciones anteriores.
 - **Gravedad:** La gravedad de la infracción cometida.
 
-En algunos casos, los usuarios pueden recibir una última advertencia antes de que se les imponga una [restricción de la cuenta](/wiki/Help_centre/Account_restrictions), ofreciéndoles la oportunidad de poner fin a la conducta infractora.
+En algunos casos, los usuarios pueden recibir una última advertencia antes de que se les imponga una [restricción](/wiki/Help_centre/Account_restrictions), ofreciéndoles la oportunidad de poner fin a la conducta infractora.
 
 ## Razones comunes de los silencios
 
