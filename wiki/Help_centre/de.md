@@ -7,8 +7,6 @@ tags:
   - missing
   - Hilfe
   - Fehler
-outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Hilfecenter
@@ -22,11 +20,12 @@ Wähle den Abschnitt, der deinem Problem am meisten ähnelt, damit du eine passe
 | Abschnitt | Schwerpunkte |
 | :-- | :-- |
 | [Account](/wiki/Help_centre/Account) | osu!supporter, Anmeldung und Zugangswiederherstellung, Namensänderungen, Profildaten |
-| [Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions) | Alles über Einschränkungen: Übersicht, Beschwerdeverfahren, häufige Gründe und Auszeiten |
-| [Mapping und Editor](/wiki/Help_centre/Beatmapping) | Deine Beatmaps pflegen, Beatmap-Eigentümerschaft, Beatmap-Slots |
 | [Client](/wiki/Help_centre/Client) | Fehler und Abstürze, Spielverlauf, Verbindung, Leistung |
+| [Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions) | Alles über Einschränkungen: Übersicht, Beschwerdeverfahren, häufige Gründe und Auszeiten |
 | [Installation und Registrierung](/wiki/Help_centre/Installation_and_registration) | Das Spiel herunterladen, einen Account erstellen |
+| [Mapping und Editor](/wiki/Help_centre/Beatmapping) | Deine Beatmaps pflegen, Beatmap-Eigentümerschaft, Beatmap-Slots |
 | [Store](/wiki/Help_centre/Store) | Merchandise |
+| [Stummschaltungen](/wiki/Help_centre/Silences) | Alles über Stummschaltungen: Übersicht, Beschwerdeverfahren und häufige Gründe |
 | [Turniersperren](/wiki/Help_centre/Tournament_bans) | Alles über Turniersperren: Übersicht, häufige Gründe und Auszeiten |
 | [Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migration zur [nächsten Hauptversion](/wiki/Client/Release_stream/Lazer) von osu! |
 | [Webseite](/wiki/Help_centre/Website) | Benutzer blockieren, den Support kontaktieren, Erscheinungsbild der Website |
