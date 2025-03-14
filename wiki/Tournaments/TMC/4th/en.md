@@ -200,27 +200,27 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ### Saturday, 15 March 2025
 
-| Team A | Team B | Match time | Stream |  |
+| Team A | Team B | Match time | stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| 有点弱，， | Girls Band Cry | [Mar 15 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T120000&p1=1440&p2=3910) | *TBD* | [^losers-bracket] |
-| Mr Beajek's winter ARC | Benny Goodman | [Mar 15 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T130000&p1=1440&p2=3903&p3=3909&p4=3911) | *TBD* | [^losers-bracket] |
-| cucumbers | \:bucket\:\:1217god\:\:scream\: | [Mar 15 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T140000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^losers-bracket] |
+| cucumbers | :bucket::1217god::scream: | [Mar 15 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T110000&p1=1440&p2=3905&p3=3910&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
+| 有点弱，， | Girls Band Cry | [Mar 15 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T120000&p1=1440&p2=3910) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961) | [^losers-bracket] |
+| vivid/stasis | Retirados y Peligrosos | [Mar 15 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T140000&p1=1440&p2=3911&p3=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
+| Mr Beajek's winter ARC | Benny Goodman | [Mar 15 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T150000&p1=1440&p2=3903&p3=3909&p4=3911) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961) | [^losers-bracket] |
 
 ### Sunday, 16 March 2025
 
-| Team A | Team B | Match time | Stream |  |
+| Team A | Team B | Match time | stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| vivid/stasis | Retirados y Peligrosos | [Mar 16 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T030000&p1=1440&p2=3911&p3=3917) | *TBD* | [^losers-bracket] |
-| Gravity Coil | Chodan | [Mar 16 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T040000&p1=1440&p2=3920&p3=3909&p4=3911) | *TBD* | [^winners-bracket] |
-| Mahjong Soul Official | Girlfriend ASMR | [Mar 16 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | *TBD* | [^winners-bracket] |
-| cucumbers | 有点弱，， | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^potential-match] |
-| cucumbers | Girls Band Cry | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^potential-match] |
-| \:bucket\:\:1217god\:\:scream\: | 有点弱，， | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3910) | *TBD* | [^potential-match] |
-| \:bucket\:\:1217god\:\:scream\: | Girls Band Cry | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3910) | *TBD* | [^potential-match] |
-| vivid/stasis | Mr Beajek's winter ARC | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3911&p3=3903) | *TBD* | [^potential-match] |
-| vivid/stasis | Benny Goodman | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3911&p3=3903&p4=3909) | *TBD* | [^potential-match] |
-| Retirados y Peligrosos | Benny Goodman | [Mar 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T150000&p1=1440&p2=3917&p3=3903&p4=3909&p5=3911) | *TBD* | [^potential-match] |
-| Retirados y Peligrosos | Mr Beajek's winter ARC | [Mar 16 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T200000&p1=1440&p2=3917&p3=3903) | *TBD* | [^potential-match] |
+| Gravity Coil | Chodan | [Mar 16 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T040000&p1=1440&p2=3920&p3=3909&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
+| :bucket::1217god::scream: | 有点弱，， | [Mar 16 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T050000&p1=1440&p2=3910) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961) | [^potential-match] |
+| :bucket::1217god::scream: | Girls Band Cry | [Mar 16 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T050000&p1=1440&p2=3910) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961) | [^potential-match] |
+| Mahjong Soul Official | Girlfriend ASMR | [Mar 16 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
+| cucumbers | 有点弱，， | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3905&p3=3910&p4=3911) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961) | [^potential-match] |
+| cucumbers | Girls Band Cry | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3905&p3=3910&p4=3911) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961) | [^potential-match] |
+| vivid/stasis | Mr Beajek's winter ARC | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3911&p3=3903) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
+| vivid/stasis | Benny Goodman | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3911&p3=3903&p4=3909) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
+| Retirados y Peligrosos | Benny Goodman | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3917&p3=3903&p4=3909&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
+| Retirados y Peligrosos | Mr Beajek's winter ARC | [Mar 16 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T200000&p1=1440&p2=3917&p3=3903) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
 
 ## Mappools
 
