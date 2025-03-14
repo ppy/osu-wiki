@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3589d6c6271fa8cf9164bb3a0e26575287869758
----
-
 # Beatmap-Kategorie
 
 Hochgeladene [Beatmaps](/wiki/Beatmap) werden, abhängig von kürzlicher Aktivität, [Nominierungs-Status](/wiki/Beatmap_ranking_procedure#qualification) und Beliebtheit, in Kategorien (häufig auch *Status* genannt) eingeteilt.
@@ -35,7 +30,7 @@ Ranked Beatmaps werden als offizieller Spielinhalt beworben, da sie den Standard
 
 *Für die Geschichte der Loved-Kategorie, siehe: [Geschichte von Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-Loved Beatmaps entsprechen nicht zwingend den [Ranking-Kriterien](/wiki/Ranking_criteria), werden aber von der Community *geliebt* und werden deshalb, basierend auf Abstimmungen der Community, im Rahmen von [Project Loved](/wiki/Community/Project_Loved) regelmäßig hinzugefügt. Loved Beatmaps verfügen über Ranglisten, vergeben aber keine [Performance-Punkte](/wiki/Performance_points). Des Weiteren werden alle Scores gelöscht, sobald die Beatmap in eine andere Kategorie verschoben wird (dies geschieht für gewöhnlich nur auf Anfrage des Erstellers). In der [Songauswahl](/wiki/Client/Interface#songauswahl) werden Loved Beatmaps mit einem Herz-Symbol (![](/wiki/shared/status/loved.png)) markiert.
+Loved Beatmaps entsprechen nicht zwingend den [Ranking-Kriterien](/wiki/Ranking_criteria), werden aber von der Community *geliebt* und werden deshalb, basierend auf Abstimmungen der Community, im Rahmen von [Project Loved](/wiki/Community/Project_Loved) regelmäßig hinzugefügt. Loved Beatmaps verfügen über Ranglisten, vergeben aber keine [Performance-Punkte](/wiki/Performance_points). Des Weiteren werden alle Scores gelöscht, sobald die Beatmap in eine andere Kategorie verschoben wird. In der [Songauswahl](/wiki/Client/Interface#songauswahl) werden Loved Beatmaps mit einem Herz-Symbol (![](/wiki/shared/status/loved.png)) markiert.
 
 ## Geschichte
 
