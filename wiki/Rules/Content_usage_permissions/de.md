@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 5de39c08cf37e2889ecbc77213994fb7137417e2
+outdated_since: c1185e9b37c8a140323d91e11fdaf9e4b27e0464
 ---
 
 # Richtlinien für die Nutzung von Inhalten
@@ -37,7 +37,7 @@ Während Musik häufig urheberrechtlich geschützt ist, stehen Soundeffekte für
 
 Dieser Abschnitt beschreibt, welche Künstler die Nutzung ihrer Songs in osu! erlauben, und unter welchen Bedingungen (sofern zutreffend).
 
-Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps/artists)-Seite stehen, sind für die Verwendung in osu!-Beatmaps freigegeben. Songs von einem Featured Artist, die nicht auf seiner Seite erscheinen, sind *nicht* lizenziert und erfordern für die Nutzung möglicherweise zusätzliche Genehmigungen.
+Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps/artists)-Seite stehen, sind für die Verwendung in osu!-Beatmaps lizenziert und freigegeben, auch wenn die allgemeine Verwendung nicht gestattet ist. Songs von einem Featured Artist, die nicht auf seiner Seite erscheinen, sind *nicht* lizenziert und erfordern für die Nutzung möglicherweise zusätzliche Genehmigungen.
 
 #### Erlaubt
 
@@ -306,7 +306,7 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
-|  | PanPanPanic | ![][true] |
+|  | [PanPanPanic](https://www.youtube.com/channel/UCGrEYs4BHutJSqE5fR8WY1g) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
@@ -397,7 +397,7 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
-|  | veexie | ![][true] |
+|  | [VEEXIE](https://www.youtube.com/@veexie/videos) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |

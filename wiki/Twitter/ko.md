@@ -12,7 +12,7 @@ osu!에는 특정 목적을 가지는 여러 개의 트위터 계정이 있습�
 | 아바타 | 아이디 | 설명 |
 | :-: | :-: | :-- |
 | ![osu!status 아바타](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | 웹 사이트 및 [반초](/wiki/Bancho_(server))와 관련된 문제를 알립니다. |
-| ![osu! support 아바타](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | 계정 및 커뮤니티 이슈에 대한 도움을 줍니다. [계정 관리팀](/wiki/People/Account_support_team)이 관리합니다. |
+| ![osu! support 아바타](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | 계정 및 커뮤니티 이슈에 대한 도움을 줍니다. [계정 관리팀](/wiki/People/Account_support_team)이 관리합니다. |
 
 ## 커뮤니티
 
