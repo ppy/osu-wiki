@@ -1061,7 +1061,7 @@ These rules are in effect for the entirety of the Gulano Cup #5 to ensure that t
 - The scoring system uses Score v2, Head to Head (No Fail has no effect).
 - Protected maps cannot be banned.
 - Mods that are allowed: Mirror, Hidden, Fade In, and Flashlight.
-- Each player has the right to call a 3 x 1 minute timeout.
+- Each player has the right to call a 1-minute timeout 3 times.
 - If the player does not choose a map for 1 minute, the timeout will be used.
 - If the player is not ready after choosing a map, the timeout will be used.
 - If the timeout is up and still has not chosen a map, then the pick is given to the opponent.
