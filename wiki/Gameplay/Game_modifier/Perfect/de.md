@@ -6,14 +6,13 @@ tags:
   - game modifier
   - PF
   - Spielmodifikation
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Perfect (Mod)
 
 ![PF Modsymbol](/wiki/shared/mods/PF.png "Perfect (PF) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Perfect (lazer-Mod)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Siehe auch: [Sudden Death (Mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 

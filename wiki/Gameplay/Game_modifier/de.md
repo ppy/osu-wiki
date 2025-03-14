@@ -10,8 +10,6 @@ tags:
   - Free Mod
   - Spielmodifikation
   - Übersicht
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 <!-- READ BEFORE EDITING:
@@ -20,6 +18,7 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 # Spielmodifikationen
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Spielmodifikationen (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
 *Für andere Bedeutungen, siehe [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
 
 ![Modauswahl](img/mod-selection-screen-DE.jpg "Vergleich der Modauswahl zwischen den Spielmodi osu! (oben links), osu!taiko (oben rechts), osu!catch (unten links) und osu!mania (unten rechts)")

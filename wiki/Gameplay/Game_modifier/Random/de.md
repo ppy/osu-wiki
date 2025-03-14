@@ -7,14 +7,13 @@ tags:
   - game modifier
   - Spielmodifikation
 no_native_review: true
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Random (Mod)
 
 ![RD Modsymbol](/wiki/shared/mods/RD.png "Random (RD) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Random (lazer-Mod)](/wiki/Gameplay/Game_modifier/Random_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht
