@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pending Cup 2024 Results
-date: 2025-03-07 09:00:00 +0800
+date: 2025-03-14 15:00:00 +0800
 ---
 
 The longest-running annual beatmapping contest closes its doors and is ready to present its victors!
@@ -16,7 +16,7 @@ With that all set, let's dive into the results of each track!
 
 ## Results
 
-![](/wiki/shared/news/2025-03-07-pending-cup-2024-results/finalists.jpg)
+![](/wiki/shared/news/2025-03-14-pending-cup-2024-results/finalists.jpg)
 
 ### Vocal track winner - [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 
@@ -68,7 +68,7 @@ Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4
 
 ### Track prizes
 
-![](/wiki/shared/news/2025-03-07-pending-cup-2024-results/badge-designs.jpg)
+![](/wiki/shared/news/2025-03-14-pending-cup-2024-results/badge-designs.jpg)
 
 Every track finalist will receive the following prizes!
 
@@ -80,7 +80,7 @@ Every track finalist will receive the following prizes!
 
 ### Grand prizes
 
-![](/wiki/shared/news/2025-03-07-pending-cup-2024-results/grand-prizes.jpg)
+![](/wiki/shared/news/2025-03-14-pending-cup-2024-results/grand-prizes.jpg)
 
 Finalists with the **highest points** out of the **3** tracks will receive special separate **grand prizes** as well!
 
