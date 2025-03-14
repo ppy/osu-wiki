@@ -4,7 +4,7 @@ This article lists places on [Reddit](https://reddit.com) where users are able t
 
 ## Gameplay
 
-These unofficial community-driven subreddits focus mainly on gameplay topics.
+These community-driven subreddits focus mainly on gameplay topics.
 
 | Avatar | Name | Description |
 | :-: | :-: | :-- |
