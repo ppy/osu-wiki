@@ -19,7 +19,7 @@ Un usuario que tiene un silencio activo no puede hacer lo siguiente:
 - Participar en partidas [multijugador](/wiki/Client/Interface/Multiplayer).
 
 ::: Infobox
-![](img/silence-ingame.png "Aviso de silencio en el chat")
+![](img/silence-ingame.png "Advertencia de silencio en el chat")
 :::
 
 Una vez que se aplique un silencio a un usuario, se eliminarán todos sus mensajes en el chat y se mostrará una alerta en el lugar del campo de entrada del chat con la duración del silencio activo.[^chat-cleanup]
