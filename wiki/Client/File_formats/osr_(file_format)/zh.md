@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 3beefe4f5a50484b1a97ebdf019fd3581d4ca0c4
+outdated_translation: true
 ---
 
 # .osr（文件格式）
