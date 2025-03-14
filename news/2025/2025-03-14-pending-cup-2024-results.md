@@ -103,7 +103,7 @@ In addition, the finalists at **1st and 2nd place** per category receive the fol
 | ::{ flag=CN }:: [Hyasalia](https://osu.ppy.sh/users/3375004) | +1 |
 | ::{ flag=US }:: [Jayblue](https://osu.ppy.sh/users/19618924) | +1 |
 
-View the entire contest point leaderboards [on the wiki](/wiki/Contests/Contest_points#leaderboards)
+View the entire contest point leaderboards [on the wiki](/wiki/Contests/Contest_points#leaderboards)!
 
 ---
 
