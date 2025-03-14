@@ -1,4 +1,3 @@
-
 # Pacchetti di beatmap
 
 I **pacchetto di beatmap** sono degli archivi compressi contenenti [beatmap](/wiki/Beatmap). Si possono trovare nell'[elenco dei pacchetti di beatmap](https://osu.ppy.sh/beatmaps/packs).
