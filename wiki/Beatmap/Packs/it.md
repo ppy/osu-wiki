@@ -57,13 +57,7 @@ Per ora tutti i pacchetti di beatmap sono conservati ufficialmente su `packs.ppy
 
 I Torrent sono un modo eccellente di scaricare le mappe in un unico blocco, invece che uno per uno manualmente. Per farlo usa gli strumenti di torrenting per scaricarli da uno dei siti indicati di seguito:
 
-
-- [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - [PandoTracker](https://pandotracker.me) di [- Pandoro](https://osu.ppy.sh/users/2574057)
-- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (chiuso)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) di [Hiramiya](https://osu.ppy.sh/users/1313441)
-
- - [Pacchetti Beatmaps osu! @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
+- [Pacchetti Beatmaps osu! @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
   - - [File Torrent Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) di ::{ flag=RU }:: [glukki](https://osu.ppy.sh/users/14285150)
 - [[Pacchetti Beatmap] Tutte le mappe rankate](https://osu.ppy.sh/community/forums/topics/330552)
   - [File torrent](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) di ::{ flag=RE }:: [Elessey](https://osu.ppy.sh/users/4925105)
