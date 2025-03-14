@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pending Cup 2024 Results
-date: 2025-03-14 15:00:00 +0800
+date: 2025-03-14 18:00:00 +0800
 ---
 
 The longest-running annual beatmapping contest closes its doors and is ready to present its victors!
