@@ -26,9 +26,11 @@ The contest had **3** separate **1st to 3rd rankings** for each track. Since onl
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | $75 USD, 12 months of osu! supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *Track Winner* profile badge (pending design) |
+| 1st | $75 USD, 12 months of osu! supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *Track Winner* profile badge |
 | 2nd | $35 USD, 6 months of osu! supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
 | 3rd | $15 USD, 4 months of osu! supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
+
+![PDC 2024 badge designs](img/badge-designs.jpg "PDC 2024 badge designs")
 
 ### Grand prizes
 
@@ -40,7 +42,9 @@ For the winner with the **highest points** out of the **3** tracks, there was a 
 | 2nd | **[osu! deskmat](https://osu.ppy.sh/store/products/1347) of your choice** (courtesy of [Chaoslitz](https://osu.ppy.sh/users/3621552)), custom Pending Cup 2024 sticker set and keychain |
 | 3rd | Custom Pending Cup 2024 sticker set and keychain |
 
-Besides that, there will be two lucky draws of 1 month of osu! supporter for anyone who participates (excluding prize winners). Make sure to join the [Discord server](https://discord.com/invite/fVgU9pA) to get involved.
+### Lucky draw
+
+In addition, there were two lucky draws of 1 month of osu! supporter for anyone who participated (excluding prize winners).
 
 ## Contributors
 
@@ -73,6 +77,16 @@ This year included two non-FA songs as part of the song list, which also means a
 ## Participants
 
 ![List of participants](img/participants.jpg)
+
+## Podium
+
+![PDC 2024 track prize podium](img/finalists.jpg "PDC 2024 track prize podium")
+
+![PDC 2024 grand prize podium](img/grand-prizes.jpg "PDC 2024 grand prize podium")
+
+---
+
+The [lucky draw](#lucky-draw) winners were [App](https://osu.ppy.sh/users/13650508) and [Gyro Zeppeli](https://osu.ppy.sh/users/3824882).
 
 ## Results
 

@@ -16,7 +16,7 @@ With that all set, let's dive into the results of each track!
 
 ## Results
 
-![](/wiki/shared/news/2025-03-14-pending-cup-2024-results/finalists.jpg)
+![](/wiki/Contests/PDC/2024/img/finalists.jpg)
 
 ### Vocal track winner - [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 
@@ -68,7 +68,7 @@ Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4
 
 ### Track prizes
 
-![](/wiki/shared/news/2025-03-14-pending-cup-2024-results/badge-designs.jpg)
+![](/wiki/Contests/PDC/2024/img/badge-designs.jpg)
 
 Every track finalist will receive the following prizes!
 
@@ -80,7 +80,7 @@ Every track finalist will receive the following prizes!
 
 ### Grand prizes
 
-![](/wiki/shared/news/2025-03-14-pending-cup-2024-results/grand-prizes.jpg)
+![](/wiki/Contests/PDC/2024/img/grand-prizes.jpg)
 
 Finalists with the **highest points** out of the **3** tracks will receive special separate **grand prizes** as well!
 
