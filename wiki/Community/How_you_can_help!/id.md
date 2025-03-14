@@ -1,79 +1,87 @@
 ---
-outdated_translation: true
-outdated_since: 17eeba86a2344329aec159f1673c810a37a874b4
+no_native_review: true
 ---
 
 # Bagaimana kamu dapat membantu!
 
-osu! memiliki komunitas yang sangat dinamis yang terdiri dari orang-orang dari seluruh dunia. Siapa pun dapat menjadi bagian dari komunitas dengan caranya sendiri!
+osu! memiliki komunitas yang sangat dinamis yang tersusun atas orang-orang dari seluruh dunia. Siapa pun juga dapat menjadi bagian dari komunitas ini dengan caranya sendiri!
 
-Di bawah ini merupakan beberapa cara yang dapat kamu lakukan untuk membantu dalam komunitas:
+Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu perbuat untuk melakukan bagianmu di dalam komunitas:
 
-## Berkontribusi pada wiki
+## Bantu wiki kami
 
-[Wiki](https://github.com/ppy/osu-wiki) merupakan basis pengetahuan resmi kami yang berisi apa saja dan segalanya tentang osu!. Oleh karena itu, wiki selalu membutuhkan lebih banyak kontributor untuk membantu menjaga situs tetap mutakhir dengan pengetahuan maupun terjemahan yang segar dan baru.
+[osu! wiki](https://github.com/ppy/osu-wiki) merupakan basis pengetahuan resmi kami yang mengandung segala sesuatunya tentang osu!. Dan sebagaimana pada wiki lainnya, osu! wiki selalu mencari kontributor baru untuk membantu menjaga situs web ini tetap mutakhir dengan berbagai pengetahuan atau terjemahan baru.
 
-Jika kamu adalah pendatang baru di osu! wiki, kamu dapat membaca lebih lanjut di [Panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
+Apabila kamu baru di osu! wiki, kamu dapat membaca keterangan lebih lanjut seputar hal ini pada halaman [Panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
-## Membantu menjaga osu! tetap ramah dan aman
+## Bantu jaga osu! agar tetap ramah dan aman
 
-Untuk menjaga keamanan hub komunitas resmi, osu! memiliki tim moderasi khusus yang memantau forum dan obrolan online sepanjang waktu.
+Demi menjaga agar mata rantai komunitas kami tetap aman, osu! memiliki tim moderasi khusus — [Global Moderation Team](/wiki/People/Global_Moderation_Team) — yang memantau forum dan ruang chat online sepanjang waktu.
 
-Untungnya, masih mudah bagi kamu untuk membantu menjaga semuanya tetap aman. Berikut ini adalah sebagian kecil dari banyak cara yang dapat kamu lakukan untuk membantu:
+Untungnya, tidak sulit bagi kamu untuk ikut membantu menjaga segala sesuatunya tetap aman. Berikut merupakan beberapa hal yang dapat kamu lakukan:
 
-- Ikuti *channel* favorit kamu di [obrolan osu! dalam permainan](/wiki/Client/Interface/Chat_console) atau di forum.
-- Jika kamu melihat suatu peristiwa yang tidak pantas atau mengganggu, gunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) dalam obrolan dalam osu! untuk memberi tahu moderator.
+- Ikuti kanal percakapan favoritmu pada [ruang chat](/wiki/Client/Interface/Chat_console) atau ramaikan forum yang ada.
+- Apabila kamu melihat sesuatu yang kamu rasa tidak pantas atau mengganggu dari segi mana pun, gunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) pada kolom chat di dalam permainan untuk memberitahukan hal ini kepada para moderator.
 
 ## Bantu anggota komunitas lainnya
 
-Jika kamu menemui seseorang yang memiliki masalah dengan osu!, bantulah mereka! Apakah itu masalah pada driver, pertanyaan seputar beatmap, atau pertanyaan seputar gameplay, jika kamu dapat menjawabnya, kamu dapat membantu orang tersebut memecahkan masalah mereka.
+Apabila kamu menemui seseorang yang mengalami masalah dengan permainan mereka, berikanlah bantuanmu! Baik itu masalah seputar driver, beatmap, atau permainan — apabila kamu tahu solusinya, kamu dapat membantu mereka untuk menyelesaikan masalah yang ada.
 
-Secara garis besar, berikut ini beberapa cara kamu dapat membantu orang lain:
+<!-- TODO: add ways to help outside of forums -->
 
-- Pilih forum yang menarik minat kamu:
+Berikut merupakan berbagai cara bagaimana kamu dapat mulai membantu pengguna lain pada forum:
+
+- Pilih forum yang sesuai dengan minatmu, semisal:
   - [Help](https://osu.ppy.sh/community/forums/5)
   - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
+  - [Skinning](https://osu.ppy.sh/community/forums/15)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Tandai forum ini sebagai telah dibaca menggunakan tombol tautan di paling bawah.
-- Ikuti utas-utas terbaru, baca masing-masing utas tersebut dan bantu bila kamu bisa; kamu dapat menggunakan *unread icon* untuk memastikan kamu mengikutinya.
-- Baca [panduan](/wiki/Guides) yang tersedia untuk menyempurnakan pengetahuan osu!. Jika menurutmu panduan tidak memuaskan, maka kamu dapat mencoba berkontribusi pada panduan itu!
+- Baca topik yang tersemat secara seksama untuk mempelajari peraturan masing-masing sub-forum dan segala informasi berguna yang terkandung di dalamnya.
+- Gunakan tombol `Tandai forum ini sebagai telah dibaca` yang terdapat pada bagian atas forum.
+- Ikuti dan baca berbagai utas baru yang muncul, serta bantu jawab berbagai pertanyaan yang muncul ketika kamu bisa membantu — kamu dapat menggunakan ikon belum dibaca (*unread*) untuk memastikan kamu tetap terkini.
+- Baca berbagai [panduan yang tersedia](/wiki/Guides) untuk memperdalam pengetahuan osu! kamu. Apabila kamu tidak puas dengan panduan yang telah ada, kamu dapat menambahkan kontribusimu sendiri ke dalam panduan ini!
 
-## Bantu memeriksa/modding beatmap!
+## Bantu periksa/berikan mod pada beatmap!
 
-osu! memiliki tim peninjau yang berdedikasi untuk memeriksa apakah beatmap-beatmap siap untuk dipindahkan ke bagian peringkat dan dimainkan oleh semua orang. kamu juga dapat ikut berkontribusi pada sektor ini:
+osu! memiliki tim peninjau khusus ([Beatmap Nominator](/wiki/People/Beatmap_Nominators)) yang memeriksa apakah [beatmap](/wiki/Beatmap) yang diunggah telah siap untuk di-rank dan dimainkan oleh semua. Meskipun demikian, hal ini tidak berarti bahwa kamu tidak dapat ikut berkontribusi terhadap proses ini:
 
-- Lihat atau cari daftar [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) untuk artis atau lagu yang kamu suka dan/atau ingin kamu kontribusikan.
-- Mainkan beatmap [*Pending* atau *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) dan tinggalkan umpan balik di utas diskusi beatmap.
-- Baca [Panduan Modding](/wiki/Modding) dan [Ranking Criteria](/wiki/Ranking_criteria) untuk mengetahui dasar-dasar teknis modding dan apa yang membuat beatmap rankable.
-- Bergabung dan ikutilah percakapan pada kanal obrolan `#mapping` dan` #modreqs` dalam osu!.
-- Jika kamu punya waktu dan dedikasi untuk osu!, cobalah membuat sebuah utas [Modding Queue](https://osu.ppy.sh/community/forums/60) untuk memberikan tempat bagi para pembuat beatmap meminta mod dari kamu.
+- Telusuri atau cari artis atau lagu yang kamu suka dan/atau yang ingin kamu bantu periksa pada [daftar beatmap Pending](https://osu.ppy.sh/beatmapsets?s=pending).
+- Mainkan beatmap yang sedang berstatus [*Pending* atau *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) dan tinggalkan tanggapanmu pada halaman diskusi beatmap yang bersangkutan.
+- Pelajari [panduan modding](/wiki/Modding) dan [kriteria ranking](/wiki/Ranking_criteria) untuk mengetahui landasan teknis dari proses modding dan hal-hal apa saja yang membuat suatu beatmap layak untuk di-rank.
+- Ikuti kanal percakapan `#mapping` dan `#modreqs` pada chat dan jadilah bagian dari percakapan yang berlangsung.
+- Apabila kamu memiliki waktu dan ketekunan, buatlah [antrian modding](https://osu.ppy.sh/community/forums/60) (*modding queue*) untuk memberi tempat bagi mapper lain untuk meminta mod kepadamu.
 
-## Membantu atau bergabung dalam proyek komunitas yang dijalankan pengguna
+## Berikan tanggapan terhadap kemajuan atau skin pengguna lain!
 
-osu! memiliki komunitas teknis dan kompetitif yang berkembang pesat. Mulai dari penggemar, hobi, hingga veteran berpengalaman gim ritme. Ada banyak proposal dan proyek yang dibuat khusus untuk osu! dan kamu dapat membantu mereka, atau mendorong masa depan osu! dengan proposal/proyek kamu sendiri!
+Semua orang memerlukan masukan dari orang lain untuk dapat menjadi lebih baik. Sering kalinya, kamu akan dapat menemui pengguna yang meminta tanggapan atas progres permainan mereka pada [forum Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) dan skin terbaru mereka pada forum [Work In Progress Skins](https://osu.ppy.sh/community/forums/119).
 
-Di bawah ini beberapa cara kamu dapat berkontribusi:
+## Bantu atau ikuti proyek komunitas yang dijalankan oleh pengguna
 
-- Jelajahi forum [Tournaments](https://osu.ppy.sh/community/forums/55). Turnamen membutuhkan banyak waktu dan pekerjaan untuk dapat diatur tanpa hambatan, dan kamu dapat membantu dengan menjadi juri penonton dalam beberapa kasus.
-- Periksa apa yang terjadi di forum [Development](https://osu.ppy.sh/community/forums/2); di sinilah proyek paling serius terjadi.
-  - Bergabunglah dengan [Discord osu!dev](https://discord.gg/ppy), bahkan hanya mengikuti dan up-to-date dengan proyek pengembangan osu! adalah cara yang baik untuk tetap memperoleh informasi.
-- Bergabunglah dengan [beatmap project](https://osu.ppy.sh/community/forums/53) dan pelajari betapa menyenangkannya berkolaborasi dengan orang lain!
-- Mulai proyek kamu sendiri! Baik itu membawakan kembali dancing pippi, atau hanya membuat sesuatu yang keren untuk osu!, apa pun boleh!
+Komunitas osu! penuh dengan orang-orang yang berjiwa teknis dan kompetitif. Latar belakangnya bermacam-macam, mulai dari orang yang hobi mengutak-atik segala sesuatunya hingga pemain rhythm game veteran. Terdapat banyak proposal dan proyek yang khusus dibuat untuk osu! di luar sana, dan kamu dapat membantu proyek ini atau membentuk masa depan osu! dengan proposal/proyek buatanmu sendiri!
 
-## Berkontribusi untuk masa depan osu!
+Berikut merupakan berbagai hal yang dapat kamu lakukan untuk berkontribusi:
 
-Dimulai pada tahun 2017, proyek osu!(lazer) saat ini menjadi fokus [tim inti osu!](/wiki/People/osu!_team), bersama dengan situs web baru yang kamu lihat saat ini! Jika kamu ingin membantu menjadikan proyek ini lebih baik dan membawa kita lebih dekat ke masa depan osu!, ada beberapa hal yang dapat kamu lakukan, tetapi di bawah ini hanya beberapa contoh:
+- Jelajahi forum [Tournaments](https://osu.ppy.sh/community/forums/55). Turnamen sering kalinya membutuhkan banyak waktu dan tenaga untuk dapat berjalan mulus, dan terkadang kamu dapat membantu turnamen yang ada dengan menjadi juri penonton (*spectator judge*).
+- Cari tahu apa saja yang sedang terjadi pada forum [Development](https://osu.ppy.sh/community/forums/2); forum ini merupakan tempat berlangsungnya berbagai proyek yang paling serius.
+  - Bergabunglah ke [server Discord osu](https://discord.gg/ppy)! Bahkan hanya dengan sekadar mengikuti pengembangan dan proyek yang ada di osu! sekalipun, kamu sudah dapat memperoleh berbagai informasi terkini.
+- Ikuti [proyek beatmap](https://osu.ppy.sh/community/forums/53) yang ada dan rasakan seberapa menyenangkannya berkolaborasi dengan pengguna lain!
+- Mulai proyekmu sendiri atau bergabunglah ke proyek milik pengguna lain! Baik itu menghadirkan kembali pippi yang menari-nari atau sekadar menciptakan sesuatu yang keren untuk osu!, apa saja boleh!
+  - Telusuri berbagai proyek populer pada [tautan berikut](/wiki/Community/Projects).
 
-- Membantu proyek [osu!(lazer)](https://github.com/ppy/osu). Ada begitu banyak yang harus diterapkan ke versi baru osu! ini, dan kamu juga dapat mewujudkannya!
-- Menjadikan [situs web yang baru](https://github.com/ppy/osu-web) yang lebih baik.
+## Berikan kontribusi terhadap masa depan osu!
 
-## Hindari bersikap negatif! Buat orang-orang bahagia!
+Pertama dikembangkan pada tahun 2017, proyek [osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan fokus utama dari [tim osu!](/wiki/People/osu!_team) saat ini bersama dengan situs web osu! baru yang kamu lihat saat ini! Apabila kamu ingin membantu menjadikan kedua proyek ini lebih baik lagi dan membawa kami lebih dekat ke masa depan osu!, berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan:
 
-Ada pepatah lama yang mengatakan bahwa kamu harus menjadi bagian dari solusi, bukan dari masalah. Cukup dengan mengikuti pepatah lama ini, kamu akan membantu osu! dengan membuat komunitas menjadi tempat yang lebih cerah. Mungkin orang-orang akan selalu mengeluh, tetapi masih banyak cara yang dapat kamu lakukan untuk membantu meringankan suasana dalam komunitas:
+- Bantu proyek [osu!(lazer)](https://github.com/ppy/osu). Terdapat begitu banyak hal yang dapat diwujudkan pada versi osu! yang baru ini, dan kamu dapat membantu membuat segala sesuatunya menjadi kenyataan!
+- Jadikan [situs web osu!](https://github.com/ppy/osu-web) lebih baik lagi.
 
-- Bersikap ramah satu sama lain. Hidup terlalu pendek untuk diperdebatkan.
-- Jangan mengeluhkan jika terdapat pemain yang melakukan kecurangan. [Laporkan saja mereka dan lanjutkan harimu](/wiki/Reporting_bad_behaviour/Handling_foul_play), sederhananya menggunakan perintah `!report <username> sepertinya melakukan kecurangan` dapat memperbaiki masalah kamu dalam beberapa menit hingga jam.
-- Berusahalah untuk menengahi situasi negatif dan mengubahnya menjadi hasil yang positif.
+## Hindari bersikap negatif! Buatlah orang lain bahagia!
 
-**Meskipun artikel ini tidak mencakup seberapa banyaknya kamu dapat membantu komunitas osu!, cukup hanya bermain juga dapat membuat osu! menjadi lebih mengagumkan!**
+Ada pepatah kuno yang mengatakan bahwa kamu harus menjadi bagian dari solusi, bukan bagian dari masalah. Cukup dengan mengikuti pepatah ini, kamu telah membantu komunitas osu! menjadi tempat yang lebih baik. Orang-orang akan selalu mengeluh seiring waktunya, namun terlepas dari hal ini, masih banyak hal yang dapat kamu lakukan untuk mencerahkan komunitas:
+
+- Bersikap baiklah antar satu sama lain; hidup ini terlalu pendek untuk dijadikan ajang perdebatan.
+- [Laporkan pemain yang bermain curang pada saat kamu menemukan tindak kecurangan](/wiki/Reporting_bad_behaviour/Handling_foul_play). Mohon untuk tidak mengadukan pengguna ini pada media lainnya, karena satu laporan `!report <username> bermain curang` sudah akan dapat menyelesaikan masalahmu dalam hitungan menit hingga jam.
+- Berinisiatiflah untuk menengahi situasi yang negatif dan mengubahnya menjadi hal yang positif.
+
+**Walaupun artikel ini tidak dapat mencakup begitu banyaknya cara lain yang dapat kamu lakukan untuk membantu komunitas osu!, kamu sudah dapat membuat osu! menjadi lebih luar biasa hanya dengan bermain!**
