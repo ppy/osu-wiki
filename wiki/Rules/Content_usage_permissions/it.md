@@ -1,4 +1,3 @@
-
 # Autorizzazioni per l'utilizzo di contenuti
 
 osu! è incentrato sulla possibilità di creare e condividere liberamente le proprie creazioni. È importante assicurarsi che siano stati acquisiti i permessi necessari per utilizzare il lavoro di altri creatori nelle nuove creazioni e che tutto il lavoro sia attribuito correttamente.
