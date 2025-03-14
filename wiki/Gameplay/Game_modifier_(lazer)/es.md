@@ -111,7 +111,7 @@ Los **preajustes personales** se encuentran en una categoría propia, que te per
 
 #### Personalizar
 
-Al igual que el mod Difficulty Adjust (DA), los ajustes preconfigurados de **Personalizar** garantizan una experiencia de juego personalizable basada en los mods que hayas elegido. Cualquier cambio en estos ajustes hará que tu puntuación deje de estar clasificada.
+Al igual que el mod Difficulty Adjust (DA), los ajustes preconfigurados de **Personalizar** garantizan una experiencia de juego personalizable basada en los mods que hayas elegido. Cualquier cambio en estos ajustes hará que tu puntuación deje de ser clasificable.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
