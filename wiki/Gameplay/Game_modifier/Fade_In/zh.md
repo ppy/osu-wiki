@@ -8,14 +8,13 @@ tags:
   - game modifier
   - 模组
   - 游戏模组
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Fade In（模组）
 
 ![FI 模组图标](/wiki/shared/mods/FI.png "Fade In (FI) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Fade In（lazer 模组）](/wiki/Gameplay/Game_modifier/Fade_In_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *请勿与 [Hidden（模组）](/wiki/Gameplay/Game_modifier/Hidden) 或 [Flashlight（模组）](/wiki/Gameplay/Game_modifier/Flashlight) 混淆。*
 

@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: 422698dbf36efb2be8537ab4d319428032966405
+no_native_review: true
 ---
 
 # Modes de jeu
@@ -12,14 +11,16 @@ osu! propose quatre **modes de jeu** aux mécaniques différentes, inspirés à 
 - ![][osu!catch] [osu!catch](#osu!catch)
 - ![][osu!mania] [osu!mania](#osu!mania)
 
-Pour passer d'un mode à l'autre, cliquez sur le bouton `Mode` en bas de l'écran de sélection des beatmaps, ou utilisez ces combinaisons de touches :
+Pour passer d'un mode à l'autre, cliquez sur le bouton `Mode` en bas de l'écran de sélection des [beatmaps](/wiki/Beatmap), ou utilisez ces combinaisons de touches :
 
 - `Ctrl` + `1` pour osu!
 - `Ctrl` + `2` pour osu!taiko
 - `Ctrl` + `3` pour osu!catch
 - `Ctrl` + `4` pour osu!mania
 
-![Interface de sélection du mode](/wiki/shared/Interface_mode.png "Interface de sélection du mode")
+![Interface de sélection du mode](/wiki/shared/Interface_mode.png "Interface de sélection du mode osu!(stable)")
+
+![Interface de sélection du mode](/wiki/shared/Interface_mode_lazer.png "Interface de sélection du mode osu!(lazer)")
 
 ## ![][osu!] osu!
 
@@ -52,6 +53,12 @@ Dans *osu!catch*, des fruits de différentes variétés tombent du haut de l'éc
 *osu!mania* est un mode de jeu rythmique à défilement vertical (VSRG) conçu comme un simulateur de piano. Il a été principalement [introduit et implémenté](https://osu.ppy.sh/community/forums/topics/100751) par [woc2006](https://osu.ppy.sh/users/1105845), et est basé sur une variété de jeux de rythme de type tapis roulant (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution) et [Beatmania](https://fr.wikipedia.org/wiki/Beatmania)). Les mascottes d'osu!mania sont les jumeaux [Mani et Mari](/wiki/Mascots#mani-&-mari), tous deux aux cheveux violets et violets clairs.
 
 ![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "Gameplay d'osu!mania")
+
+## Mode de jeu personnalisés
+
+Dans *osu!(lazer)*, il est possible d'installer manuellement des modes de jeu personnalisés (également appelés en anglais *custom rulesets*) via des fichiers `.dll`. Ces modes de jeu personnalisés introduisent de nouvelles façons de jouer au jeu en utilisant la bibliothèque de beatmaps proposée par osu!. Les modes de jeu personnalisés sont comme le jeu principal, souvent inspirés d'autres jeux de rythme.
+
+La liste complète des modes de jeu personnalisé est disponible dans [cette discussion GitHub](https://github.com/ppy/osu/discussions/13096).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -39,7 +39,7 @@ outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 모딩 및 매핑 자문가 |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web 개발자, [공식 아티스트](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 개발자 |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [모더레이터](/wiki/People/Global_Moderation_Team), 모딩 및 매핑 자문가 |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [모더레이터](/wiki/People/Global_Moderation_Team), 모딩 및 매핑 자문가 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! 유튜브 채널](https://www.youtube.com/@osugame) 호스트, [Mappers' Guild](/wiki/Community/Mappers_Guild) 주최자, [공식 아티스트](/wiki/People/Featured_Artists) 지원 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 모딩 및 매핑 자문가 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [모더레이터](/wiki/People/Global_Moderation_Team), [위키 관리자](/wiki/People/osu!_wiki_maintainers) |
