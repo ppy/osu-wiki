@@ -69,7 +69,7 @@ Peripheriegeräte wie Tablets und Touchscreens sind okay. Alles, was die benöti
 
 ## Wie kann ich Beschwerde gegen meine Einschränkung einlegen?
 
-Warte mindestens drei Monate nach der letzten aktiven Einschränkung vor dem Einlegen einer Beschwerde.[^restriction-length] Adressiere deine E-Mails an [accounts@ppy.sh](mailto:accounts@ppy.sh) und benutze den Betreff `Restriction Appeal: <Benutzername>`
+Warte mindestens drei Monate nach der letzten aktiven Einschränkung vor dem Einlegen einer Beschwerde.[^restriction-length] Adressiere deine E-Mails an [accounts@ppy.sh](mailto:accounts@ppy.sh) und benutze den Betreff `Restriction Appeal: <Benutzername>`.
 
 Das Support-Team erwartet, dass Nutzer ihre vergangenen Verstöße auflisten und Gründe nennen, warum sie das nicht mehr in Zukunft machen werden.
 
