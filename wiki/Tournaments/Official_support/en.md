@@ -218,6 +218,8 @@ Please consult the following examples of approved badge designs:
 
 ![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
+Use [this badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to help you verify that your badge complies with the above standards.
+
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 
 In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. If you believe your tournament meets the expectations to receive this distinction, you may request it when submitting your initial badge request.
@@ -270,6 +272,8 @@ Please consult the following examples of acceptable banner designs:
 ![](https://assets.ppy.sh/main-menu/corsace-2021/gf3.png)
 
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
+
+Use [this banner visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to check how the banner would look in-game.
 
 Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorised to make use of one.
 
