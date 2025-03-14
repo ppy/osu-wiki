@@ -1,3 +1,8 @@
+---
+outdated_since: 1e9cf11032117d2e470e99cfa7c5857207a06786
+outdated_translation: true
+---
+
 # 랭킹 크리테리아
 
 이 문서는 [비트맵](/wiki/Beatmap)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야 하는 규칙과 가이드라인입니다.
