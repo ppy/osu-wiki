@@ -200,7 +200,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ### Sunday, 16 March 2025
 
-| Team A | Team B | Match time | stream |  |
+| Team A | Team B | Match time | Stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Gravity Coil | Chodan | [Mar 16 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T040000&p1=1440&p2=3920&p3=3909&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
 | \:bucket\:\:1217god\:\:scream\: | Girls Band Cry | [Mar 16 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T050000&p1=1440&p2=3910) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961)[^potential-place] | [^losers-bracket] |
