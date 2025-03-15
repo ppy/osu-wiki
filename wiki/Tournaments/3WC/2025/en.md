@@ -530,8 +530,6 @@ The final standings for the Qualifier stage can be found in the [following sprea
    - In exceptional circumstances, the reschedule deadline may be extended at the tournament organisers discretion.
 6. Captains are responsible for their team's availability.
 
-[^grand-final]: Grand Finals match — final matchup depends on the losers bracket Grand Finals match
-[^losers-final]: Losers bracket Grand Finals match
 [^austria-hungary]: Country merge between Austria and Hungary
 [^baltics]: Country merge between Estonia and Lithuania
 [^imperio-rioplatense]: Country merge between Argentina and Uruguay
