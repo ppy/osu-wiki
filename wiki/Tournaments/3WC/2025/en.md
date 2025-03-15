@@ -94,18 +94,11 @@ The 3 Digit World Cup 2025 is run by various community members.
 
 ## Match schedule: Grand Finals
 
-### Saturday, March 15
-
-| Red Team | Blue Team | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | Mar 15 (Sat) 14:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-final] |
-
 ### Sunday, March 16
 
 | Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | Mar 16 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^grand-final] |
-| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | Mar 16 (Sun) 18:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^grand-final] |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | Mar 16 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) |  |
 
 ## Mappools
 
@@ -274,6 +267,14 @@ The 3 Digit World Cup 2025 is run by various community members.
   2. [Yousei Teikoku - Infection (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/1897554#osu/3910916)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 15 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/117486446) | |
 
 ### Finals
 
