@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: hikota"
-date: 2025-03-15 20:00:00 +0000
+date: 2025-03-15 20:30:00 +0000
 ---
 
 Blend a bit of drum, a pinch of bass, and some amphibian wit together to create **hikota**, our newest Featured Artist!
@@ -10,7 +10,7 @@ Blend a bit of drum, a pinch of bass, and some amphibian wit together to create 
 
 Latvian musician **hikota** is a master of mood-setting. Mixing inspiration from video game soundtracks with a specialty in atmospheric drum & bass, jungle, and occassional vocaloid thrown into the mix, **hikota**'s unique combination of skills lends to a one-of-a-kind bass-oriented listen.
 
-[**hikota**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/463) has a grand total of **15** tracks, each timed in advance for your next session in the editor.
+[**hikota**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/463) has a grand total of **27** tracks, each timed in advance for your next session in the editor.
 
 Need some inspiration? [nik](https://osu.ppy.sh/users/10077264) and [Kyouren](https://osu.ppy.sh/users/2013571) have you covered:
 
