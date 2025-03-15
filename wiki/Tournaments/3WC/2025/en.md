@@ -274,7 +274,7 @@ Saturday, 15 March 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/117486446) | |
+| **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/117486446) |  |
 
 ### Finals
 
