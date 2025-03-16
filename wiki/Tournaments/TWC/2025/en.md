@@ -133,7 +133,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ### Round of 32
 
-**[Download the mappack here (75 MB)](https://packs.ppy.sh/P278%20-%20osu!taiko%20World%20Cup%202025%3A%20Round%20of%2032.zip?1742165723)**\
+**[Download the mappack here (75 MB)](https://packs.ppy.sh/P278%20-%20osu!taiko%20World%20Cup%202025%3A%20Round%20of%2032.zip?1742166328)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2407576662?t=1h23m30s)
 
 - No Mod
