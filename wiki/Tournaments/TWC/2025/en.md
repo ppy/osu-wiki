@@ -182,7 +182,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1ZcWWAPOf5U-aSvrYkeOqIOArM1szZczwbhqajQZe-Ro?rm=minimal).\
 [View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2407576662?t=0h4m57s).
 
-| Seed | Country | rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] | Match link |
+| Seed | Country | Rank sum[^qualifiers-seeding] | Avg. score[^qualifiers-tiebreaker] | Match link |
 | :-: | :-- | --: | --: | :-- |
 | #1 | ::{ flag=JP }:: Japan | 10 | 3,047,116 | [#1](https://osu.ppy.sh/community/matches/117499466) |
 | #2 | ::{ flag=KR }:: South Korea | 19 | 3,032,061 | [#1](https://osu.ppy.sh/community/matches/117484183) |
@@ -370,4 +370,4 @@ The final standings for the Qualifier stage can be found in the following [sprea
 6. Captains are responsible for their team's availability.
 
 [^qualifiers-seeding]: Used as the main seeding method
-[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum. For this statistic the Hidden, Hard Rock, and Double Time bracket scores are normalized (but FreeMod is not).
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum. For this statistic the Hidden, Hard Rock, and Double Time bracket scores are normalised (but Free Mod is not).
