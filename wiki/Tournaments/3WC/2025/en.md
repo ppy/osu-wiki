@@ -94,18 +94,11 @@ The 3 Digit World Cup 2025 is run by various community members.
 
 ## Match schedule: Grand Finals
 
-### Saturday, March 15
-
-| Red Team | Blue Team | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | Mar 15 (Sat) 14:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^losers-final] |
-
 ### Sunday, March 16
 
 | Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | Mar 16 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^grand-final] |
-| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | Mar 16 (Sun) 18:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) | [^grand-final] |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | Mar 16 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) |  |
 
 ## Mappools
 
@@ -274,6 +267,14 @@ The 3 Digit World Cup 2025 is run by various community members.
   2. [Yousei Teikoku - Infection (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/1897554#osu/3910916)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 15 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/117486446) |  |
 
 ### Finals
 
@@ -529,8 +530,6 @@ The final standings for the Qualifier stage can be found in the [following sprea
    - In exceptional circumstances, the reschedule deadline may be extended at the tournament organisers discretion.
 6. Captains are responsible for their team's availability.
 
-[^grand-final]: Grand Finals match — final matchup depends on the losers bracket Grand Finals match
-[^losers-final]: Losers bracket Grand Finals match
 [^austria-hungary]: Country merge between Austria and Hungary
 [^baltics]: Country merge between Estonia and Lithuania
 [^imperio-rioplatense]: Country merge between Argentina and Uruguay
