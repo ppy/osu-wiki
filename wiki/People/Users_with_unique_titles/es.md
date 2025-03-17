@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 47eb8012cee643acc8130a6992aad6e4b54c0cac
+outdated_since: 8f09736fa88ac0b1eca4f2e38fbe3c3b13f4be96
 ---
 
 # Usuarios con títulos únicos
@@ -289,6 +289,7 @@ Estos jugadores recibieron sus respectivos títulos a través de un logro de jue
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Fue la [primera persona en desbloquear la medalla *Girl in the Forest*](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | Fue la [primera persona en desbloquear la medalla *Internment*](https://twitter.com/osugame/status/1696007320663359800) |
 | ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Logró la puntuación máxima posible en [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) para obtener un lugar imbatible en el puesto #1 en la tabla de clasificación |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Limit Breaker | [Superó el límite del tamaño entero de 16 bits de 32 767 del contador de puntos de rendimiento en osu!(stable)](https://osu.ppy.sh/home/changelog/stable40/20250306.2) |
 
 ## Contribuidores
 

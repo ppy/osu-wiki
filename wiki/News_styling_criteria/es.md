@@ -97,7 +97,7 @@ Estos banners aparecen en muchas relaciones de aspecto diferentes en distintos l
 
 ![Referencia de la relación de aspecto del banner de una noticia](img/banner-sizes-ES.png "Referencia de la relación de aspecto del banner de una noticia. Ten en cuenta que los dispositivos móviles pueden situarse en cualquier lugar dentro o incluso ligeramente fuera de los rangos comunes aquí especificados.")
 
-Usa [esta herramienta de visualización](https://tanza.me/tools/osu-vis/) para comprobar cómo aparecerá el banner en diferentes partes del sitio web.
+Usa [esta herramienta de visualización](https://tcomm.hivie.tn/assets-previewer?tab=news-banners) para comprobar cómo aparecerá el banner en diferentes partes del sitio web.
 
 Los banners deben tener un tamaño base mínimo de 1000x200 píxeles. Se debe proporcionar una versión con cada dimensión duplicada si la imagen de origen es lo suficientemente grande como para ser compatible (lo que da como resultado `banner.jpg` y `banner@2x.jpg`). Las imágenes de los banners que aparecen en varias noticias deben colocarse en el directorio [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
