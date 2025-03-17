@@ -277,13 +277,13 @@ All individual match results can be found on the spreadsheet linked above.
 - We maintain a blacklist for all ANZT tournaments. You will be put on this list if you:
   - Fail to show up to two of your matches without a valid excuse and/or without alerting a staff member.
   - Were blatantly rude to a staff member and/or other players.
-  - Displaying unsportsmanlike conduct and/or anti-competitive behaviour like purposefully throwing.
-  - Dropped out of a tournament because “you didn’t feel like playing anymore.”
-- If a problem occurs where rules are not clear questions can be directed to admins. Administration has final say regarding these situations.
+  - Display unsportsmanlike conduct and/or anti-competitive behaviour like purposefully throwing.
+  - Dropped out of a tournament because “you didn’t feel like playing anymore”.
+- If a problem occurs where rules are not clear questions can be directed to staff members. The staff has final say regarding these situations.
 - In order for your registration to count, you must **fill out the form, join the Discord, and change your name to your osu! username**.
 - Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
-- Reschedules must be agreed on by **both players** and **proof must be provided**.
-- All reschedules must be done prior to 24 hours before the scheduled match time.
+- Reschedules must be agreed on by **both players**, and **proof must be provided**.
+- All reschedules must be done at least 24 hours before the scheduled match time.
 - All matches will be scheduled for Friday, Saturday & Sunday.
 - RO64 will be single elimination. All further rounds will be double elimination.
 
