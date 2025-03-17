@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on February 28, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on March 02, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -35,8 +35,8 @@ Community-run tournaments which abide by the following hard criteria are eligibl
     - The team size is 8 or more.
     - Note: In tournaments with multiple divisions, this rule applies to only one open-rank division.
   - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
-- The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
-  - `https://pif.ephemeral.ink/tournament-reports`
+- The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://tcomm.hivie.tn/reports/create) as the very last content of the original post.
+  - `https://tcomm.hivie.tn/reports/create`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
 - The tournament must abide by the following content usage rules:
   - Usage of any beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
@@ -94,7 +94,7 @@ In addition, all promotional material or any services associated with a tourname
 
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
-  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
+  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
 - A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players may not "self-ref".
 - Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
@@ -218,6 +218,8 @@ Please consult the following examples of approved badge designs:
 
 ![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
+Use [this badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to help you verify that your badge complies with the above standards.
+
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 
 In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. If you believe your tournament meets the expectations to receive this distinction, you may request it when submitting your initial badge request.
@@ -270,6 +272,8 @@ Please consult the following examples of acceptable banner designs:
 ![](https://assets.ppy.sh/main-menu/corsace-2021/gf3.png)
 
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
+
+Use [this banner visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to check how the banner would look in-game.
 
 Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorised to make use of one.
 
