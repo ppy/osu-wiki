@@ -419,7 +419,7 @@ This competition has come to an end and resulted in the following podium:
   51. [crafter2011 - keep out! (MeWhenYourMom) [Myst's OUT!!!]](https://osu.ppy.sh/beatmapsets/2068972#mania/4328936) submitted by [FinHazel](https://osu.ppy.sh/users/13660273)
   52. [Harumaki Gohan feat. isui - Suisei ni Nareta nara (Castella) [Starfall]](https://osu.ppy.sh/beatmapsets/2124253#mania/4464482) submitted by [MzLord](https://osu.ppy.sh/users/14659672)
   53. [MoonDeity - NEON BLADE (IsonafShikolake) [level 10 [1.1x Rate]]](https://osu.ppy.sh/beatmapsets/1789311#mania/3666507) submitted by [[ Heez ]](https://osu.ppy.sh/users/17957861)
-  54. [Marmalade butcher - Floccinaucinihilipilification (Cokiiplay) [Grundstucksverkehrsgenehmigungszustandigkeitsubertragungsverordnung]](osu.ppy.sh/beatmapsets/1020778#mania/2135894) submitted by [Proxae](https://osu.ppy.sh/users/8410575)
+  54. [Marmalade butcher - Floccinaucinihilipilification (Cokiiplay) [Grundstucksverkehrsgenehmigungszustandigkeitsubertragungsverordnung]](https://osu.ppy.sh/beatmapsets/1020778#mania/2135894) submitted by [Proxae](https://osu.ppy.sh/users/8410575)
   55. [Don't Hug Me I'm Scared - The Creativity Song (AscensionDTWhen) [C'mon, guys. Let's get creative!]](https://osu.ppy.sh/beatmapsets/848746#mania/1774897) submitted by [[Shiroko]](https://osu.ppy.sh/users/21129437)
   56. [AiRI - DREAMxSCRAMBLE! (Lyz-) [Splash!]](https://osu.ppy.sh/beatmapsets/1038568#mania/2171003) submitted by [Lyz-](https://osu.ppy.sh/users/9670957)
   57. [Kocchi no Kento - Hai Yorokonde (Magens Remix) feat. Hatsune Miku (9SuRodn) [Aut0's Another]](https://osu.ppy.sh/beatmapsets/2249870#mania/4824862) submitted by [DAENGXicisae-](https://osu.ppy.sh/users/8029883)
