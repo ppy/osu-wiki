@@ -684,7 +684,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 
 ### Play-off stage
 
-1. After the Qualifiers, the tournament will proceed to the Play-off stage. The Play-off stage is a single-elimination phase with specific rules.
+1. After the Qualifiers, the tournament will proceed to the Play-off stage. The Play-off stage is a Single-Elimination phase with specific rules.
 2. The warm-up map duration in the Play-off stage is capped at 3 minutes.
 3. After the Qualifiers, advancing players will be grouped based on Qualifiers seeds, and each group will have a different set of match procedures.
    - If 32 players advance:
@@ -704,7 +704,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 
 ### Stage instructions
 
-1. Following the Play-off stage, a Double Elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing player gets moved to the losers' bracket.
+1. Following the Play-off stage, a Double-Elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing player gets moved to the losers' bracket.
 2. Players in the losers’ bracket must play 2 matches each weekend starting from the Quarterfinals.
 3. Players that lose a match in the losers' bracket get eliminated from the tournament.
 4. The warmup maps are allowed up to 5 minutes. In the case you can choose not to play your warmup map. Players need to prepare the link to the warmup map before the match start, and send it to #multiplayer during the match for the referee to select the map.
