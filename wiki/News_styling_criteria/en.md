@@ -97,7 +97,7 @@ These banners appear in many different aspect ratios in different places of the 
 
 ![News post banner aspect ratio reference](img/banner-sizes.png "News post banner aspect ratio reference. Note that mobile devices may fall anywhere within or even slightly outside the common ranges specified here.")
 
-Use [this banner visualisation tool](https://tanza.me/tools/osu-vis/) to check how the banner will appear in different parts of the website.
+Use [this banner visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=news-banners) to check how the banner will appear in different parts of the website.
 
 Banners should have a minimum 1000x200 px base size. A version with each dimension doubled should be provided if the source image is large enough to support it (resulting in `banner.jpg` and `banner@2x.jpg`). Banner images appearing in multiple news articles should be put in the [`wiki/shared/news/banners/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 

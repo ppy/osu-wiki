@@ -9,14 +9,13 @@ tags:
   - mod
   - game modifier
   - Spielmodifikation
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Auto (Mod)
 
 ![AT Modsymbol](/wiki/shared/mods/AT.png "Auto (AT) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Autoplay (lazer-Mod)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Autopilot (Mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 
