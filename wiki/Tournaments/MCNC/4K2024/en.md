@@ -628,7 +628,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 1. The osu!mania 4K Chinese National Cup is a head-to-head individual tournament, played on the osu!mania game mode.
 2. The Match mode will be `Head-To-Head`, beatmap scoring will be based on `Score V2`.
 3. The beatmaps for each round will be announced by the mappool selection team before the actual matches take place.
-   - Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the "best of" system, e.g. if scoreline is 4–4 and the match is best of 9, the tiebreaker shall be played.
+   - Each mappool, except for the Qualifiers, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the "best of" system, e.g. if scoreline is 4–4 and the match is best of 9, the tiebreaker shall be played.
 4. Match scheduling will be handled by the tournament management.
 5. If no referees are available at match time, the match will be postponed.
 6. Failed players' scores will be considered losses, even if they are higher than the opponent.
@@ -668,8 +668,8 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 
 ### Qualifier instructions
 
-1. There will be no warmups during the Qualifier stage.
-2. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
+1. There will be no warmups during the Qualifiers.
+2. In the Qualifiers, all players will play a specific pool designed by the mappool selectors.
 3. The Qualifier pool contains 8 maps, all of which will use FreeMod rules.
 4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding. If players wish, they can the mappool only once.
 5. The mappool will be played in the order the maps are listed.
@@ -684,9 +684,9 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 
 ### Play-off stage
 
-1. After the Qualifier stage, the tournament will proceed to the Play-off stage. The Play-off stage is a single-elimination phase with specific rules.
+1. After the Qualifiers, the tournament will proceed to the Play-off stage. The Play-off stage is a single-elimination phase with specific rules.
 2. The warm-up map duration in the Play-off stage is capped at 3 minutes.
-3. After the Qualifier stage, advancing players will be grouped based on Qualifier stage seeds, and each group will have a different set of match procedures.
+3. After the Qualifiers, advancing players will be grouped based on Qualifiers seeds, and each group will have a different set of match procedures.
    - If 32 players advance:
      - The Play-off stage will be canceled.
    - If 48 players advance:
@@ -730,7 +730,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
    3. The winner of the `!roll` starts picking the first beatmap of the match.
 5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If it takes longer than the allotted time for no technical reasons, then on the second occurrence, a random map will be chosen from the mappool using `!roll`, considering only the maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the tournament management.
 6. Players will be given at most a 3-minute timeout for solving unexpected situations.
-7. Qualifier results will be published via a statistics sheet.
+7. Qualifiers results will be published via a statistics sheet.
 
 ### Mappool instructions
 
