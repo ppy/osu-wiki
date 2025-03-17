@@ -21,9 +21,6 @@ Winners of [TWC 2024](/wiki/Tournaments/TWC/2024) with the **osu!taiko Champion*
 
 - ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311)
 - ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073)
-- ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311)
-- ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757)
-- ::{ flag=JP }:: [Nekomusya7563](https://osu.ppy.sh/users/1382717)
 - ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357)
 - ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
 - ::{ flag=JP }:: [Nekomusya7563](https://osu.ppy.sh/users/1382717)
