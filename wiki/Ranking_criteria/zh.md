@@ -92,7 +92,6 @@
   - 各个游戏模式内的最高难度。
   - 各个游戏模式内与最高难度相近的多个难度，可应用于 Insane 和 Extra 难度区间。（如 ENHIIII 中的 Insane 难度，或 ENHIIXXX 中的 Extra 难度）
 - **如果谱师使用了自定义的难度名称，则它必须符合与歌曲相关的主题或风格，且不得带有误导性。** 如果自定义的难度名表示了本属于其他难度区间的难度等级，则它是误导性的（比如将一个 "Expert" 难度命名为 "Normal"）。
-- **难度名称不得仅由用户名组成。** 如果想使用的与歌曲相关的难度名单词，碰巧与某些用户名有所重叠，则无需考虑此条规定。
 - **[谱面创建者](/wiki/Beatmap/Beatmap_host)的用户名不能出现在难度名称中。**（例如：Beatmap Host's Insane）。制作歌曲元数据相同，但含有多首歌曲的谱面，或在制作[合作谱面](/wiki/Beatmap/Beatmap_collaborations)时所出现的一些命名冲突的情况除外。参见：[客串难度](/wiki/Beatmap/Guest_difficulty)，一般需要客串难度的难度名内标识该难度谱师的用户名或昵称，以表示难度的归属。
 - **[谱面创建者](/wiki/Beatmap/Beatmap_host)制作的难度数量必须大于等于[客串难度](/wiki/Beatmap/Guest_difficulty)的数量。** 这保证谱面创建者应在制作谱面时贡献更大。[合作难度](/wiki/Beatmap/Beatmap_collaborations)只能占据谱面的一小部分，同时，在客串谱师明显比谱面创建者付出更多的时候，会凭借谱面的[掉血时间](/wiki/Beatmap/Drain_time)来衡量谱师们的贡献。
 - **[谱面创建者](/wiki/Beatmap/Beatmap_host)和[客串难度](/wiki/Beatmap/Guest_difficulty)谱师可以按照自己的想法修改各自的谱面。** 如果谱面的创建者和客串谱师意见不一致，谱面制作者必须提交请求才能删除客串谱面。如果在一个月内无法与客串谱师取得联系，将默认他们同意一切对客串难度的修改。
