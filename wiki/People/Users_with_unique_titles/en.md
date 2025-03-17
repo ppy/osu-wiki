@@ -136,6 +136,7 @@ Winners of previous osu!mania World Cups with the **Former osu!mania Champion** 
 
 Most official mapping contests offer the **Elite Mapper** title through [contest points](/wiki/Contests/Contest_points). Older contests rewarded the title as a first-place prize.
 
+- ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
 - ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
