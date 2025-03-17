@@ -7,14 +7,13 @@ tags:
   - game modifier
   - Spielmodifikation
 no_native_review: true
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # ScoreV2 (Mod)
 
 ![SV2 Modsymbol](/wiki/shared/mods/SV2.png "ScoreV2 (SV2) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Score V2 (lazer-Mod)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Score](/wiki/Gameplay/Score) oder [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
 
