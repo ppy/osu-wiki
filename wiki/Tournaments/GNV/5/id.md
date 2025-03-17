@@ -329,7 +329,6 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 - Tiebreaker
   1. **[YUKIYANAGI - Multiple Objectivity (danar, Revv-, FelixSpade, Ilham & -Yubi-) [Convergence]](https://osu.ppy.sh/beatmapsets/2307664#mania/4935546)**
 
-
 ### Babak 64 Besar
 
 **[Unduh mappack babak ini di sini! (44 MB)](https://drive.google.com/file/d/1UTf5sZ4Z1yMDb5R-NMVJorUY0uubemnR/view)**\
@@ -542,7 +541,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
   43. [DJ Sharpnel - Fuwatanity (11Bit) [K-ON!]](https://osu.ppy.sh/beatmapsets/1395107#mania/2879679) dikirim oleh [TheLegend3RD](https://osu.ppy.sh/users/14732769)
   44. [Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit (Gekido-) [Tech Shit]](https://osu.ppy.sh/beatmapsets/966210#mania/2022451) dikirim oleh [spectator_boi](https://osu.ppy.sh/users/17400577)
   45. [goreshit - satori de pon! (Loebad434) [4K MX]](https://osu.ppy.sh/beatmapsets/435015#mania/1026633) dikirim oleh [KafuuChlno](https://osu.ppy.sh/users/31102647)
-  46. [t+pazolite - Garakuta Doll Play (_S h i r o_) [4K Challenge]](https://osu.ppy.sh/beatmapsets/451327#mania/968241) dikirim oleh [RaffCo](https://osu.ppy.sh/users/7589503)
+  46. [t+pazolite - Garakuta Doll Play (\_S h i r o\_) [4K Challenge]](https://osu.ppy.sh/beatmapsets/451327#mania/968241) dikirim oleh [RaffCo](https://osu.ppy.sh/users/7589503)
   47. [Porter Robinson & Madeon - Shelter (towakane) [Allein Quad 1.2]](https://osu.ppy.sh/beatmapsets/1490961#mania/3056264) dikirim oleh [Kyoukary](https://osu.ppy.sh/users/13403380)
   48. [Nakiri Ayame - Good-bye sengen (LuxSayaka) [Ojou]](https://osu.ppy.sh/beatmapsets/1603078#mania/3273717) dikirim oleh [danar mw](https://osu.ppy.sh/users/13859109)
   49. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) (LaoXiao-) [Chord Life [135]]](https://osu.ppy.sh/beatmapsets/1170842#mania/2442473) dikirim oleh [beethiven](https://osu.ppy.sh/users/18560270)
