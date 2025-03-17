@@ -30,7 +30,7 @@ The top entries of the contest will earn equal prizes. The number of "top entrie
 
 For any complete entry that was submitted by the entry submission deadline, **team members will be awarded a profile badge if they are able to rank the set before the next iteration of the contest**.
 
-Finally, there is a wildcard prize. peppy will pick his favourite entry and that team will earn a separate mystery prize.
+Finally, there is a wildcard prize. ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) will pick his favourite entry and that team will earn a separate mystery prize.
 
 ## Organisation
 
