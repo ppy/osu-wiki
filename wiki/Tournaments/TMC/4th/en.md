@@ -198,29 +198,14 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ## Match schedule: Semifinals
 
-### Saturday, 15 March 2025
-
-| Team A | Team B | Match time | Stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| 有点弱，， | Girls Band Cry | [Mar 15 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T120000&p1=1440&p2=3910) | *TBD* | [^losers-bracket] |
-| Mr Beajek's winter ARC | Benny Goodman | [Mar 15 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T130000&p1=1440&p2=3903&p3=3909&p4=3911) | *TBD* | [^losers-bracket] |
-| cucumbers | \:bucket\:\:1217god\:\:scream\: | [Mar 15 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250315T140000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^losers-bracket] |
-
 ### Sunday, 16 March 2025
 
 | Team A | Team B | Match time | Stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| vivid/stasis | Retirados y Peligrosos | [Mar 16 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T030000&p1=1440&p2=3911&p3=3917) | *TBD* | [^losers-bracket] |
-| Gravity Coil | Chodan | [Mar 16 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T040000&p1=1440&p2=3920&p3=3909&p4=3911) | *TBD* | [^winners-bracket] |
-| Mahjong Soul Official | Girlfriend ASMR | [Mar 16 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | *TBD* | [^winners-bracket] |
-| cucumbers | 有点弱，， | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^potential-match] |
-| cucumbers | Girls Band Cry | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3905&p3=3910&p4=3911) | *TBD* | [^potential-match] |
-| \:bucket\:\:1217god\:\:scream\: | 有点弱，， | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3910) | *TBD* | [^potential-match] |
-| \:bucket\:\:1217god\:\:scream\: | Girls Band Cry | [Mar 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T130000&p1=1440&p2=3910) | *TBD* | [^potential-match] |
-| vivid/stasis | Mr Beajek's winter ARC | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3911&p3=3903) | *TBD* | [^potential-match] |
-| vivid/stasis | Benny Goodman | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3911&p3=3903&p4=3909) | *TBD* | [^potential-match] |
-| Retirados y Peligrosos | Benny Goodman | [Mar 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T150000&p1=1440&p2=3917&p3=3903&p4=3909&p5=3911) | *TBD* | [^potential-match] |
-| Retirados y Peligrosos | Mr Beajek's winter ARC | [Mar 16 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T200000&p1=1440&p2=3917&p3=3903) | *TBD* | [^potential-match] |
+| Gravity Coil | Chodan | [Mar 16 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T040000&p1=1440&p2=3920&p3=3909&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
+| \:bucket\:\:1217god\:\:scream\: | Girls Band Cry | [Mar 16 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T050000&p1=1440&p2=3910) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961)[^potential-place] | [^losers-bracket] |
+| Mahjong Soul Official | Girlfriend ASMR | [Mar 16 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
+| Retirados y Peligrosos | Benny Goodman | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3917&p3=3903&p4=3909&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
 
 ## Mappools
 
@@ -370,6 +355,17 @@ The Touhou Project Mania Cup 4th is run by various community members.
 6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan) \[Stage 6\: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 15 March 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| cucumbers | 4 | **6** | **\:bucket\:\:1217god\:\:scream\:** | [#1](https://osu.ppy.sh/community/matches/117484887) | [#1](https://www.youtube.com/watch?v=6PMG1bj-L30&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes) |
+| 有点弱，， | 4 | **6** | **Girls Band Cry** | [#1](https://osu.ppy.sh/community/matches/117485256) |  |
+| vivid/stasis | 1 | **6** | **Retirados y Peligrosos** | [#1](https://osu.ppy.sh/community/matches/117486421) | [#1](https://www.youtube.com/watch?v=IyAO0r9jgkw&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes) |
+| Mr Beajek's winter ARC | 4 | **6** | **Benny Goodman** | [#1](https://osu.ppy.sh/community/matches/117487177) | [#1](https://www.youtube.com/watch?v=vpC1dKG2t2A&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes) |
 
 ### Quarterfinals
 
@@ -800,5 +796,5 @@ The weights for the Qualifiers are as follows:
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
+[^potential-place]: Will still be streamed on official Twitch channel if no overlaps happen
 [^qualifiers-seeding]: Used as the main seeding method
