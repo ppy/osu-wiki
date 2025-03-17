@@ -42,9 +42,9 @@ Play streaks are displayed on the user's profile with different colours dependin
 
 The project is organised by ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). The following community members are responsible for picking beatmaps:
 
+- ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
 - ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)

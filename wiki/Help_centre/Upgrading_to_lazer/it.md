@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
+---
+
 # Aggiornare a lazer
 
 osu!(lazer) è il prossimo grande aggiornamento al client di osu!. È il frutto di diversi anni di lavoro dietro le quinte per reimplementare osu!.
@@ -101,7 +106,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Divisione e fusione degli slider | ![No][false] | ![Yes][true] |
 | Rotazione dei pattern | ![Sì][true] | ![Sì][true] |
 | Ridimensionamento dei pattern | ![No][false] | ![Sì][true] |
-| Caricamento della beatmap | ![Sì][true] | ![No][false] |
+| Caricamento della beatmap | ![Sì][true] | ![Sì][true] |
 | Storyboard editor | ![Sì][true] | ![No][false] |
 | Compatibilità cross-client | ![Sì][true] | ![Parziale][partial][^incompatibilities] |
 
