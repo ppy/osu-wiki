@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 5de39c08cf37e2889ecbc77213994fb7137417e2
+outdated_since: c1185e9b37c8a140323d91e11fdaf9e4b27e0464
 ---
 
 # 内容使用规范
@@ -37,7 +37,7 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 
 本节详细介绍了哪些艺术家愿意在 osu! 中，在适当的条件下使用他们的音频作品。
 
-[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)中列出的任何曲目都可以用于创作 osu! 谱面。未在列表中列出的，属于精选艺术家创作的歌曲并*没有*获得许可，使用它们创作 osu! 谱面之前，需要额外的授权。
+不论以下列表中是否有完全不允许的情况，只要曲目在[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)中列出，即表明它们已经得到授权，从而可以用于创作 osu! 谱面。未在列表中列出的，属于精选艺术家创作的歌曲并*没有*获得许可，使用它们创作 osu! 谱面之前，需要额外的授权。
 
 #### 允许
 
@@ -306,7 +306,7 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
-|  | PanPanPanic | ![][true] |
+|  | [PanPanPanic](https://www.youtube.com/channel/UCGrEYs4BHutJSqE5fR8WY1g) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
@@ -397,7 +397,7 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
-|  | veexie | ![][true] |
+|  | [VEEXIE](https://www.youtube.com/@veexie/videos) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |

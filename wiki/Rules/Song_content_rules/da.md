@@ -27,4 +27,4 @@ Hver gang en af dine indsendelser bliver fjernet, får du en forklaring af det m
 
 Du kan anke beslutningen med dem gennem direkte beskeder hvis du vil, eller spørge andre om deres meninger for at begrunde din påstand om sangens egnethed. Hvis I stadig ikke kan enes om, hvorvidt sangen er passende, kan din påstand eskaleres til en afstemning af de nuværende NAT-medlemmer, der kollektivt beslutter hvorvidt sangen er acceptabel eller ej.
 
-Med mindre indsendelsen er meget upassende, så vil **en brugers første fjernelse ikke forårsage nogen straf** for brugeren, grundet den naturlige usikkerhed der er i beslutningen om fjernelse. Herefter vil en bruger, der gentagne gange uploader upassende sange, en 42-time lang [mute](/wiki/Silence), sammen med at deres indsendelse bliver fjernet.
+Med mindre indsendelsen er meget upassende, så vil **en brugers første fjernelse ikke forårsage nogen straf** for brugeren, grundet den naturlige usikkerhed der er i beslutningen om fjernelse. Herefter vil en bruger, der gentagne gange uploader upassende sange, en 43-time lang [silence](/wiki/Help_centre/Silences), sammen med at deres indsendelse bliver fjernet.

@@ -191,6 +191,14 @@ En su lanzamiento, el concurso fue nombrado «Best of», ya que la premisa inici
 | [#31 (Spring 2022)](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) | Un lugar para pertenecer | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=NL }:: [utaaa](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Llamartist](https://osu.ppy.sh/users/14697690) | [#1](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results) | [#1](https://osu.ppy.sh/community/contests/142) |
 | [#32 (15th Anniversary Art Contest)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | Mascotas de osu! explorando parte de la historia de osu! | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
 
+### Locus
+
+**Locus 2025** es un concurso de varios niveles lanzado a principios de 2025 para acercar a los círculos creativos de osu! en el que los participantes deben crear beatmaps con música y visuales totalmente originales.
+
+| Año | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
+| :-: | :-- | :-- | :-- | :-- |
+| [2025](/wiki/Contests/Locus/2025) | *Por determinar* | *Por determinar* | *Por determinar* | *Por determinar* |
+
 ### osu! Beatmap Blueprints Contest
 
 *osu! Beatmap Blueprints Contest* es un concurso único que se lleva a cabo en conmemoración del lanzamiento de los [planos de beatmaps](https://osu.ppy.sh/store/products/9) en la [osu!store](https://osu.ppy.sh/store/listing). En este concurso, los usuarios participantes compitieron para crear el mejor plano de un beatmap en cualquier medio visual utilizando todos los recursos proporcionados en el paquete de los planos del beatmap.

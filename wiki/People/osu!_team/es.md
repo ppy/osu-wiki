@@ -37,7 +37,7 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Asesor de la escena de modding y mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Desarrollador de osu!web, [artista destacado](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desarrollador de osu!web |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderador](/wiki/People/Global_Moderation_Team), asesor de la escena de modding y mapping |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Moderador](/wiki/People/Global_Moderation_Team), asesor de la escena de modding y mapping |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Anfitrión del [canal de YouTube osu!](https://www.youtube.com/@osugame), organizador del [Mappers' Guild](/wiki/Community/Mappers_Guild), divulgación de [artistas destacados](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Asesor de la escena de modding y mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderador](/wiki/People/Global_Moderation_Team), [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) |
