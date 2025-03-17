@@ -426,7 +426,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Resurrection Cup 2022 | 2022-06-17 | 2022-07-31 | super auto pets | HWDP: Sad Jabłkowy | Wii U Esports |
 | Resurrection Cup: Cataclysm Contest | 2022-11-04 | 2022-12-18 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
-| Resurrection Cup 2023 | 2023-06-16 | 2023-07-30 | ESSA | fresh off the boat | Sleep accommodation |
+| [Resurrection Cup 2023](RESC/2023) | 2023-06-16 | 2023-07-30 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 2024-06-14 | 2024-07-28 | kotomiler | fresh off the boat | Bobik |
 
 #### ROI PRO Tournament
