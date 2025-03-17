@@ -358,12 +358,12 @@ All individual match results can be found on the spreadsheet linked above.
 - We maintain a blacklist for all ANZT tournaments. You will be put on this list if you:
   - Fail to show up to two of your matches without a valid excuse and/or without alerting a staff member.
   - Were blatantly rude to a staff member and/or other players.
-  - Displaying unsportsmanlike conduct and/or anti-competitive behaviour like purposefully throwing.
-  - Dropped out of a tournament because “you didn’t feel like playing anymore.”
-- If a problem occurs where rules are not clear questions can be directed to admins. Administration has final say regarding these situations.
+  - Display unsportsmanlike conduct and/or anti-competitive behaviour like purposefully throwing.
+  - Dropped out of a tournament because “you didn’t feel like playing anymore”.
+- If a problem occurs where rules are not clear, questions can be directed to staff members. The staff has final say regarding these situations.
 - Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
-- Reschedules must be agreed on by both players and proof must be provided.
-- All reschedules must be done prior to 2 hours before the scheduled match time.
+- Reschedules must be agreed on by both players, and proof must be provided.
+- All reschedules must be done at least 2 hours before the scheduled match time.
 - All matches and reschedules will/must be scheduled for Friday, Saturday or Sunday.
 
 ### Match rules
@@ -375,11 +375,11 @@ All individual match results can be found on the spreadsheet linked above.
 - If a player disconnects within the first 30 seconds of a map, it will be aborted and replayed. Any disconnects afterwards will be a forfeit of that map.
 - Disconnects may only occur once per match per player. It will count as a forfeit after the first time.
 - Highest `!roll` has first warmup and the choice of either 1ˢᵗ ban and 1ˢᵗ pick or 2ⁿᵈ ban and 2ⁿᵈ pick.
-- Each player is allowed one ban. From best of 11, each player is allowed two bans, however both bans cannot be of the same mod pool. Players may ban multiple No Mod maps. Players will alternate ban picks.
+- Each player is allowed one ban. From best of 11, each player is allowed two bans, however, both bans cannot be of the same mod pool. Players may ban multiple No Mod maps. Players will alternate ban picks.
 - Each player is allowed one warmup. Warmups must not be longer than 5 minutes, must not be in any ANZT7S mappool and must be submitted.
 - One player may not pick from the same mod pool twice in a row (HD/HR/DT). This does not apply to No Mod.
 - Failed scores **DO** count. If both players fail, the point goes to the higher failed score.
-- If the match ends in a tie, players will play the tiebreaker. The tiebreaker will be played with FreeMod enabled. Players may choose to use No Mod.
+- If the match ends in a tie, players will play the tiebreaker. The tiebreaker will be played with Free Mod enabled. Players may choose to use No Mod.
 
 ### Winning conditions
 
