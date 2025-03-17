@@ -7,14 +7,13 @@ tags:
   - SD
   - Spielmodifikation
 no_native_review: true
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Sudden Death (Mod)
 
 ![SD Modsymbol](/wiki/shared/mods/SD.png "Sudden Death (SD) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Sudden Death (lazer-Mod)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Siehe auch: [Perfect (Mod)](/wiki/Gameplay/Game_modifier/Perfect)*
 

@@ -102,7 +102,7 @@ Ces bannières apparaissent dans de nombreux rapports d'aspect différents à di
 
 ![Référence pour le ratio d'aspect des bannières des articles de news.](img/banner-sizes.png "Référence pour le ratio d'aspect des bannières des articles de news. Notez que les appareils mobiles peuvent se situer n'importe où à l'intérieur ou même légèrement en dehors des intervalles communs spécifiés ici.")
 
-Utilisez [cet outil de visualisation de la bannière](https://tanza.me/tools/osu-vis/) pour vérifier comment la bannière apparaîtra dans les différentes parties du site web.
+Utilisez [cet outil de visualisation de la bannière](https://tcomm.hivie.tn/assets-previewer?tab=news-banners) pour vérifier comment la bannière apparaîtra dans les différentes parties du site web.
 
 Les bannières doivent avoir une taille de base minimale de 1000x200px. Une version avec chaque dimension doublée doit être fournie si l'image source est assez grande pour la supporter (ce qui donne `banner.jpg` et `banner@2x.jpg`). Les images de bannières apparaissant dans plusieurs articles doivent être placées dans le répertoire [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
