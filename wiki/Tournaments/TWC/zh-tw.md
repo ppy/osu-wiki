@@ -19,3 +19,5 @@ no_native_review: true
 - [osu!taiko 世界盃 2021](2021)
 - [osu!taiko 世界盃 2022](2022)
 - [osu!taiko 世界盃 2023](2023)
+- [osu!taiko 世界盃 2024](2024)
+- [osu!taiko 世界盃 2025](2025)

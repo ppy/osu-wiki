@@ -14,6 +14,7 @@ gmt:
     beatmap: 谱面管理员
     chat: 聊天管理员
     forum: 论坛管理员
+    general: 全局管理员
     team: 官方团队
     dev: osu! 贡献者
     player: 玩家支持团队

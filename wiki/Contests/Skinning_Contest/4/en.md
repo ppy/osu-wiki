@@ -5,7 +5,7 @@ tags:
   - skins
 ---
 
-# Skinning Contest #4
+# Skinning Contest #4: Icons of an Era
 
 ![Skinning Contest #4 banner](img/banner.jpg)
 
@@ -95,7 +95,7 @@ The Skinning Contest #4 is run by various community members.
   - textures
   - artworks (e.g. stock images or anime artwork)
   - sounds
-- The majority of the in-game menu interface and at least two game modes have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
+- The majority of the in-game menu interface and at least two game modes have to be skinned. In other words, in addition to the gameplay elements, the following segments should not be left default:
   - ranking panel
   - song selection
   - mode selection

@@ -2,8 +2,6 @@
 stub: true
 tags:
   - FC
-outdated_translation: true
-outdated_since: a60c43d582052f143b0e97e1494041cc3b8bd5b7
 ---
 
 # Full combo
@@ -14,4 +12,4 @@ I punteggi che hanno perso combo sugli slider end sono ampiamente considerati da
 
 ![Schermata dei punteggi delle full combo e delle non full combo](img/combo-comparison.png "Il punteggio sopra è una full combo e quello sotto è una combo interrotta").
 
-Grazie all'effetto [moltiplicatore di combo](/wiki/Gameplay/Combo_multiplier_effect), le full combo daranno il massimo [punteggio](/wiki/Gameplay/Score) nelle [modalità di gioco](/wiki/Game_mode) [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko) ed [osu!catch](/wiki/Game_mode/osu!catch).
+Poiché il [punteggio](/wiki/Gameplay/Score) di un singolo oggetto in [osu!](/wiki/Game_mode/osu!) e [osu!catch](/wiki/Game_mode/osu!catch) dipende fortemente dal moltiplicatore di combo ed è virtualmente illimitato, le full combo di solito conferiscono un punteggio maggiore in queste modalità di gioco.

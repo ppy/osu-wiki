@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - accuracy
   - hit window
@@ -51,9 +50,9 @@ Les fenêtres de résultats pour les jugements peuvent être visualisées en sur
 | 300 | `64 - 3 × OD` |
 | 200 | `97 - 3 × OD` |
 | 100 | `127 - 3 × OD` |
-| 50 | `188 - 3 × OD` |
+| 50 | `151 - 3 × OD` |
 
-Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un échec. Si les hit windows de deux objets se chevauchent, le second objet sera inaccessible jusqu'à ce que le premier objet disparaisse en raison d'un [notelock](/wiki/Gameplay/Judgement/Notelock).
+Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un miss. Si les hit windows de deux objets se chevauchent, le second objet sera inaccessible jusqu'à ce que le premier objet disparaisse en raison d'un [notelock](/wiki/Gameplay/Judgement/Notelock).
 
 ## Sliders et spinners
 

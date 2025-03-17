@@ -1,5 +1,7 @@
 ---
 needs_cleanup: true  # нужно проверить стиль статьи
+outdated_since: a7829a7972d112aa1bc8799dd865ef3b5e80a630
+outdated_translation: true
 ---
 
 # Обращение с читами и читерами

@@ -10,9 +10,9 @@ tags:
   - retiro
 ---
 
-# Registro de personal
+# Registro del personal
 
-El siguiente artículo enumera las promociones y retiros de la mayoría de [grupos](/wiki/People/User_group) públicos así como algunos miembros del personal.
+Los siguientes artículos enumeran las promociones y retiros de la mayoría de los [grupos](/wiki/People/User_group) públicos, así como algunos miembros del personal.
 
 - [2007](2007)
 - [2008](2008)
@@ -32,4 +32,4 @@ El siguiente artículo enumera las promociones y retiros de la mayoría de [grup
 - [2022](2022)
 - [2023](2023)
 
-Desde el 27 de octubre de 2023, los cambios a grupos de usuarios serán registrados en la [página de "historia de grupos" del sitio web](https://osu.ppy.sh/groups/history).
+Desde el 27 de octubre de 2023, los cambios en los grupos de usuarios se registran en el [historial de grupos](https://osu.ppy.sh/groups/history) del sitio web. Estos artículos de la wiki ya no se actualizan.

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0afe186b01a363a31211b349e4d83c15033890e
+---
+
 # Custom Sample Overrides
 
 Untuk saat ini, sample set per-beatmap dan per-skin dapat diimplementasikan.

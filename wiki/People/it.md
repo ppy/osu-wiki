@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
----
-
 # Persone
 
 Pagina di indice per gli articoli su persone o gruppi.
@@ -22,7 +17,7 @@ Pagina di indice per gli articoli su persone o gruppi.
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Comitato Punti Performance](Performance_Points_Committee)
 - [Team Progetto Amata](Project_Loved_Team)
-- [Team di Supporto](Support_Team)
+- [Team di Supporto Tecnico](Support_Team)
 - [Comitato dei Tornei](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! team](osu!_team)
@@ -39,5 +34,5 @@ Pagina di indice per gli articoli su persone o gruppi.
 
 - [peppy](peppy)
 - [Log dello Staff](Staff_log)
-- [Gruppo di utenti](User_group)
+- [Gruppi di utenti](User_groups)
 - [Utenti con titoli unici](Users_with_unique_titles)

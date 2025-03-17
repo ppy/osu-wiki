@@ -16,6 +16,6 @@ Distance snap is typically used to create visually balanced patterns, such as un
 
 ## Usage
 
-Distance snap can be toggled from the [`Compose`](/wiki/Client/Beatmap_editor/Compose) tab by pressing `Y`, or — temporarily — by holding `Alt` (which may be more preferable, since the tool limits object placement to a circle of certain radius). The distance spacing multiplier may be changed by holding `Alt` and either using the mouse wheel, or by dragging the `Distance Spacing` slider in the top left corner.
+Distance snap can be toggled from the [Compose](/wiki/Client/Beatmap_editor/Compose) tab by pressing `Y`, or — temporarily — by holding `Alt` (which may be more preferable, since the tool limits object placement to a circle of certain radius). The distance spacing multiplier may be changed by holding `Alt` and either using the mouse wheel, or by dragging the `Distance Spacing` slider in the top right corner. Additionally, holding down `Shift` after `Alt` and either scrolling the mouse wheel or dragging the slider in the top right will let you adjust the distance snap with two-digit precision.
 
 The distance snap icon will turn red if the next object's position is going to be outside the playfield.

@@ -89,7 +89,7 @@ osu!-Spieler benutzen in allen Spielmodi Beatmaps, um [global im Rang aufzusteig
 - Länder-spezifische Ranglisten mit Spielern, die dieselben Flaggen tragen
 - Freundesranglisten, die die Position eines Spielers auf einer Beatmap verglichen mit seinen Freunden zeigen
 
-Für die 500 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [Replays](/wiki/Gameplay/Replay) angeboten, die entweder online angeschaut oder zur weiteren Anzeige in einer lokalen Rangliste gespeichert werden können.
+Für die 1000 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [Replays](/wiki/Gameplay/Replay) angeboten, die entweder online angeschaut oder zur weiteren Anzeige in einer lokalen Rangliste gespeichert werden können.
 
 ### Charts und Spotlights
 

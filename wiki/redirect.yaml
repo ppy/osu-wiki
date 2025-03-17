@@ -32,7 +32,8 @@ song_setup:                       Client/Beatmap_editor/Song_setup
 key_count:                        Client/Beatmap_editor/Song_setup#key-count-osumania-only
 timelines:                        Client/Beatmap_editor/Timelines
 timeline:                         Client/Beatmap_editor/Timelines
-timing:                           Client/Beatmap_editor/Timing
+timing:                           Disambiguation/Timing
+beatmap_timing:                   Beatmapping/Timing
 
 mapping:                     Beatmapping
 
@@ -91,9 +92,9 @@ ot:                           Community/Forum/Off-Topic
 off-topic:                    Community/Forum/Off-Topic
 offtopic:                     Community/Forum/Off-Topic
 osu!_community_meetings:      Community/osu!_community_meetings
-osu!_discord_server:          Community/osu!_Discord_server
-osu!dev_discord_server:       Community/osu!_Discord_server
-community/osu!dev_discord_server: Community/osu!_Discord_server
+osu!_discord_server:          Community/Discord_servers#official
+osu!dev_discord_server:       Community/Discord_servers#official
+community/osu!dev_discord_server: Community/Discord_servers#official
 organisations:                Community/Organisations
 organisations/osu!_uci:       Community/Organisations/osu!_UCI
 project_loved:                Community/Project_Loved
@@ -269,10 +270,11 @@ star:                        Disambiguation/Star
 stars:                       Disambiguation/Star
 star_priority:               Modding/Star_priority
 tablet:                      Gameplay/Input_device/Graphics_tablet
-tag:                         Beatmap/TAG
-tag2:                        Beatmap/TAG
-tag3:                        Beatmap/TAG
-tag4:                        Beatmap/TAG
+beatmap/tag:                 Beatmap/TAG_beatmaps
+tag:                         Beatmap/TAG_beatmaps
+tag2:                        Beatmap/TAG_beatmaps
+tag3:                        Beatmap/TAG_beatmaps
+tag4:                        Beatmap/TAG_beatmaps
 test_mode:                   Client/Beatmap_editor/Test_mode
 timing_section:              Client/Beatmap_editor/Timing
 beatmapping/timing_section:  Client/Beatmap_editor/Timing
@@ -323,7 +325,6 @@ setting_the_offset_on_the_correct_beat: Guides/Setting_the_offset_on_the_correct
 starting_a_beatmap_project:             Guides/Starting_a_beatmap_project
 tablet_purchase:                        Guides/Tablet_purchase
 buying_a_tablet:                        Guides/Tablet_purchase
-videos_from_youtube:                    Guides/Videos_from_YouTube
 
 guides/changing_the_title_text:         Beatmap/Title_text#changing-title-text
 changing_the_title_text:                Beatmap/Title_text#changing-title-text
@@ -2125,6 +2126,9 @@ client/options/keyboard_bindings:          Client/Keyboard_shortcuts
 usage_permissions:                         Rules/Content_usage_permissions
 rules/content_usage_guidelines:            Rules/Content_usage_permissions
 
+# moved in #12441
+silence:                                   Help_centre/Silences
+
 # Deleted "osu!monthly team" and moved its contents to a section of "osu!monthly" (#10373)
 people/osu!monthly_team: Community/osu!monthly#contributors
 
@@ -2134,3 +2138,22 @@ people/support_team: People/Technical_Support_Team
 # Added "Unstable rate"
 unstable_rate: Gameplay/Unstable_rate
 ur:            Gameplay/Unstable_rate
+
+convert:  Beatmap/Converts
+converts: Beatmap/Converts
+
+# Deleted "Community Discord servers" individual articles and moved its contents to "Discord servers" (#11929)
+community/osu!_discord_server: Community/Discord_servers#official
+community/discord_servers/osu!_medal_hunters: Community/Discord_servers#gameplay
+community/discord_servers/osu!_university: Community/Discord_servers#gameplay
+community/discord_servers/osu!taiko_modding_&_mapping_hub: Community/Discord_servers#mapping-and-modding
+community/discord_servers/osu!catch_modding_&_mapping_hub: Community/Discord_servers#mapping-and-modding
+community/discord_servers/osu!mania_modding_&_mapping_hub: Community/Discord_servers#mapping-and-modding
+
+gameplay/hit_object/slider/reverse_slider: Gameplay/Hit_object/Slider/Repeat_slider
+
+# Moved in #12643
+osu!_originals: Community/Bespoke_music
+
+# Renamed in #12800
+people/user_group: People/User_groups

@@ -5,7 +5,7 @@ tags:
   - skins
 ---
 
-# Skinning Contest #3
+# Skinning Contest #3: Chromatic Alteration
 
 ![Skinning Contest #3 banner](img/banner.jpg)
 
@@ -100,7 +100,7 @@ The Skinning Contest #3 is run by various community members.
   - textures
   - artworks (e.g. stock images or anime artwork)
   - sounds
-- The majority of the in-game menu interface and at least two game modes have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
+- The majority of the in-game menu interface and at least two game modes have to be skinned. In other words, in addition to the gameplay elements, the following segments should not be left default:
   - Ranking Panel
   - Song Selection
   - Mode Selection

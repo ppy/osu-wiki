@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - find beatmaps
   - filter beatmaps
@@ -10,6 +11,8 @@ tags:
   - demande de beatmaps
   - client de recherche
   - recherche sur le web
+outdated_translation: true
+outdated_since: 905340ee700a7e6885a56dffdced959df02686f1
 ---
 
 # Recherche des beatmaps
@@ -20,21 +23,23 @@ Par défaut, tout texte saisi à [l'écran de sélection des musiques](/wiki/Cli
 
 Les champs de métadonnées des beatmap peuvent être comparés à des valeurs spécifiques pour un filtrage plus précis, à l'aide des opérateurs suivants :
 
-| Comparaison | Description |
-| :-: | :-- |
-| `=` ou `==` | Égale à |
-| `!=` | Pas égal à |
-| `<` | Inférieure à |
-| `>` | Supérieure à |
-| `<=` | Inférieur ou égal à |
-| `>=` | Supérieur ou égal à |
+| Comparaison | osu!web | osu!(stable) | osu!(lazer) | Description |
+| :-: | :- :| :-: | :-: | :-- |
+| `=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Égale à |
+| `==` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Égale à |
+| `:` | ![Oui][vrai] | ![Non][faux] | ![Oui][vrai] | Égale à |
+| `!=` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Pas égal à |
+| `<` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Inférieure à |
+| `>` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Supérieure à |
+| `<=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Inférieur ou égal à |
+| `>=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Supérieur ou égal à |
 
 ## Client
 
-*Remarque : les filtres ne fonctionnent qu'à l'écran de sélection des musiques, alors qu'osu!direct prend en charge la recherche en texte intégral.*
+*Remarque : les filtres ne fonctionnent qu'à l'écran de sélection des musiques, alors [qu'osu!direct](/wiki/osu!supporter#osu!direct) prend en charge la recherche en texte intégral uniquement.*
 
 | Filtre | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Nom de l'artiste |
 | `creator` | Nom du créateur des difficultés |
 | `title` | Nom de la musique |
@@ -57,8 +62,10 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 ## Site web[^filtres-sites-web]
 
 | Filtre | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Nom de l'artiste |
+| `title` | Nom de la musique |
+| `source` | Le support, tel qu'un jeu vidéo, un film, une série ou un événement, d'où provient la musique ou auquel elle est le mieux associée. |
 | `featured_artist` | Identifiant d'une entrée [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Nom du créateur des difficultés |
 | `difficulty` | Nom de la difficulté de la beatmap |
@@ -70,7 +77,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 | `bpm` | [Le tempo de la musique](/wiki/Music_theory/Tempo) |
 | `length` | [La longueur](/wiki/Beatmap/Play_time) en secondes |
 | `key`, `keys` | Nombre de touches (osu!mania et beatmaps convertis uniquement) |
-| `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. |
+| `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. Permet des valeurs multiples séparées par des virgules (`,`) |
 | `created` | Date de création de la beatmap |
 | `updated` | Date de la dernière mise à jour de la beatmap |
 | `ranked` | Date de classement/approbation de la beatmap |
@@ -78,10 +85,11 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 ## Client (lazer)[^filtres-lazer]
 
 | Filtre | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Nom de l'artiste |
 | `title` | Nom de la musique |
 | `creator` | Nom du créateur des difficultés |
+| `diff` | Name of the beatmap difficulty |
 | `ar` | [L'Approach rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Le Circle size](/wiki/Beatmap/Circle_size) |
 | `od` | [L'Overall difficulty](/wiki/Beatmap/Overall_difficulty) |
@@ -91,6 +99,9 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 | `length` | [Le temps de jeu](/wiki/Beatmap/Play_time) en secondes |
 | `key`, `keys` | Nombre de touches (osu!mania et beatmaps convertis uniquement) |
 | `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. |
+| `lastplayed` | Temps écoulé depuis la dernière lecture. Accepte le format `#y#M#d#h#m#s`, pour les années, les mois, les jours, les heures, les minutes et les secondes respectivement. Par exemple, `2d5s` signifie "2 jours et 5 secondes". |
+| `played` | L'état de la beatmap. La valeur peut être `yes`, `true`, ou `1` pour les beatmaps joués, ou `no`, `false`, ou `0` pour les beatmaps non joués. |
+| `divisor` | Le dénominateur du [diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Exemples de requêtes
 
@@ -118,7 +129,28 @@ unplayed= status=r christmas
 ranked>=2010-08 ranked<2010-11 creator=Natteke
 ```
 
+(Lazer) Trouvez les difficultés d'une beatmap qui ont été jouées il y a moins de 2 mois et 5 heures :
+
+```
+lastplayed<2M5h
+```
+
+(Lazer) Trouver les difficultés de la beatmap qui n'ont pas été jouées au cours de l'année écoulée :
+
+```
+lastplayed>1y
+```
+
+(Lazer) Trouver des beatmaps classées et Loved :
+
+```
+status=r,l
+```
+
 ## Références
 
-[^filtres-sites-web]: [Code source osu!web](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^filtres-lazer]: [Code source osu!(lazer)](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^filtres-sites-web]: [Code source osu!web](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^filtres-lazer]: [Code source osu!(lazer)](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
+
+[vrai]: /wiki/shared/true.png
+[faux]: /wiki/shared/false.png

@@ -21,7 +21,8 @@ La [página del grupo Technical Support Team](https://osu.ppy.sh/groups/22) enum
 
 | Nombres | Idiomas |
 | :-- | :-- |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Alemán |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Español |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polaco |

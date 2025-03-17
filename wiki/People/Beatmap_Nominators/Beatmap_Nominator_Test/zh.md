@@ -14,11 +14,11 @@
 - [摸图和作图的行为规范](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)：1 道题目
 - [谱面上架标准 (*RC*)](/wiki/Ranking_criteria#常规)：1 道题目
 - [难度分布标准 (Spread)](/wiki/Ranking_criteria#谱面)：1 道题目
-- [歌曲元数据标准 (Metadata)](/wiki/Ranking_criteria#元数据)：1 道题目
-- [歌曲时间轴标准 (Timing)](/wiki/Ranking_criteria#时间轴测定)：1 道题目
+- [歌曲元数据标准 (Metadata)](/wiki/Ranking_criteria/Metadata)：1 道题目
+- [歌曲时间轴标准 (Timing)](/wiki/Ranking_criteria#时间轴)：1 道题目
 - [音频标准](/wiki/Ranking_criteria#音频)：1 道题目
 - [背景图片和视频标准](/wiki/Ranking_criteria#视频和背景图片)：1 道题目
-- [自定义皮肤标准](/wiki/Ranking_criteria#皮肤)：1 道题目
+- [自定义皮肤标准](/wiki/Ranking_criteria#自定义皮肤)：1 道题目
 - [故事板标准](/wiki/Ranking_criteria#故事板)
 - 游戏模式特殊标准：与将申请的游戏模式相关 (osu!, osu!taiko, osu!catch, osu!mania)
 

@@ -17,15 +17,15 @@ tags:
 
 ![Captura de pantalla de las insignias de HappyStick en la página web](img/HappyStick.png "Las insignias de perfil se muestran debajo del avatar y el nombre de usuario en el sitio web.")
 
-Las **insignias de perfil** (comúnmente denominadas simplemente *insignias*) son pequeños gráficos en las páginas de perfil de usuario que se otorgan por diversos logros. Por lo general, se otorgan como premios de [torneos](/wiki/Tournaments) y [concursos](/wiki/Contests), pero tienen otros usos, como recompensas para los [contribuidores de la comunidad](/wiki/People/Community_Contributors), [Beatmap Spotlights](/wiki/Beatmap_Spotlights#recompensas) y la pertenencia continua a un grupo.
+Las **insignias de perfil** (comúnmente llamadas *insignias*) son pequeños gráficos en las páginas de perfil de los usuarios que se otorgan por diversos logros. Por lo general, se otorgan como premios de [torneos](/wiki/Tournaments) y [concursos](/wiki/Contests), pero tienen otros usos, como recompensas para los [contribuidores de la comunidad](/wiki/People/Community_Contributors), [Beatmap Spotlights](/wiki/Beatmap_Spotlights#recompensas) y la pertenencia continua a un grupo.
 
-Al pasar el cursor sobre una insignia, se muestra un tooltip con más detalles sobre por qué se otorgó la insignia.
+Al pasar el cursor sobre una insignia, se muestran más detalles sobre por qué se otorgó la insignia.
 
 ## Seeding de torneos
 
-*Página principal: [Seeding ponderado en insignias](/wiki/Tournaments/Badge-weighted_seeding)*
+*Página principal: [Clasificación ponderada por insignias](/wiki/Tournaments/Badge-weighted_seeding)*
 
-En el [cliente del juego](/wiki/Client) y en el sitio web, las insignias son puramente decorativas. Sin embargo, debido a que las insignias de premios de [torneos](/wiki/Tournaments) muestran el desempeño de los jugadores, algunos torneos han adoptado métodos de clasificación ([seeding](https://en.wikipedia.org/wiki/Seed_(sports))) que tienen en cuenta la cantidad de insignias que tienen los jugadores, comúnmente conocido como [seeding ponderado en insignias](/wiki/Tournaments/Badge-weighted_seeding) (BWS).
+En el [cliente del juego](/wiki/Client) y en el sitio web, las insignias son puramente decorativas. Sin embargo, debido a que las insignias como premios de los [torneos](/wiki/Tournaments) muestran el desempeño de los jugadores, algunos torneos han adoptado métodos de clasificación ([seeding](https://en.wikipedia.org/wiki/Seed_(sports))) que tienen en cuenta la cantidad de insignias que tienen los jugadores, comúnmente conocido como [clasificación ponderada por insignias](/wiki/Tournaments/Badge-weighted_seeding) (BWS).
 
 ## Historia
 
@@ -42,4 +42,5 @@ Un efecto secundario de este esquema de diseño fue que la altura predeterminada
 :::
 
 - Las dos primeras insignias de perfil se otorgaron a ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) y ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) el 6 de septiembre de 2009 [por ganar el *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
-- Las insignias pueden vincularse a otras páginas web para obtener más contexto, como la página del foro de un torneo o una entrada de la wiki.
+- Las insignias pueden vincularse a otras páginas web para obtener más contexto, como la página del foro de un torneo o un artículo de la wiki.
+- Las insignias sirven para evitar que otros jugadores puedan [tomar el nombre de usuario actual o nombres pasados del jugador](/wiki/Help_centre/Account#take-existing-username).

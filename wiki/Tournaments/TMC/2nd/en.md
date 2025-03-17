@@ -507,7 +507,7 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` will select which team will pick first.
    - The loser of the `!roll` will select which team will ban first.
-5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than alloted, the procedure adopted will be as follows:
+5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than allotted, the procedure adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:

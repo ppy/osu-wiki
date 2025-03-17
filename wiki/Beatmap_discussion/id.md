@@ -42,7 +42,7 @@ Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemi
 
 ## Beatmap header
 
-*Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
+*Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu § General](/wiki/Client/Beatmap_editor/Song_setup#general)*
 
 ![](img/beatmap-header.png "Beatmap header")
 

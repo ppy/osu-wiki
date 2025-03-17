@@ -91,7 +91,7 @@ Terlepas dari mode permainan yang dimainkan, pemain osu! di seluruh dunia memanf
 - Peringkat negara, yang mengurut peringkat pemain yang memiliki bendera yang sama;
 - Peringkat teman, yang mengurut peringkat pemain pada suatu map terhadap pengguna lainnya yang telah ditambahkan sebagai teman.
 
-Skor yang berada pada peringkat 500 atau lebih tinggi pada masing-masing tingkat kesulitan akan memiliki [tayangan ulangnya tersendiri](/wiki/Gameplay/Replay), yang dapat ditonton secara *online* atau disimpan pada papan peringkat lokal untuk diputar ulang pada kemudian hari.
+Skor yang berada pada peringkat 1000 atau lebih tinggi pada masing-masing tingkat kesulitan akan memiliki [tayangan ulangnya tersendiri](/wiki/Gameplay/Replay), yang dapat ditonton secara *online* atau disimpan pada papan peringkat lokal untuk diputar ulang pada kemudian hari.
 
 ### Chart dan Spotlight
 

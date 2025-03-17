@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 ---
 
@@ -72,7 +74,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [规章制度](/wiki/Rules) • [贡献者公约](/wiki/Rules/Contributor_code_of_conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-媒体内容规范：[内容使用规范](/wiki/Rules/Content_usage_guidelines) • [内容投票流程](/wiki/Rules/Content_voting_process) • [少儿不宜内容](/wiki/Rules/Explicit_content) • [歌曲内容规范](/wiki/Rules/Song_content_rules) • [视觉内容注意事项](/wiki/Rules/Visual_content_considerations)
+媒体内容规范：[内容使用规范](/wiki/Rules/Content_usage_guidelines) • [内容投票流程](/wiki/Rules/Content_voting_process) • [不良内容](/wiki/Rules/Explicit_content) • [歌曲内容规范](/wiki/Rules/Song_content_rules) • [视觉内容注意事项](/wiki/Rules/Visual_content_considerations)
 
 [法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [歌曲许可](/wiki/Legal/Music_licensing)
 
@@ -100,7 +102,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[社区项目](/wiki/Community/Projects) • [谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 月报](/wiki/Community/osu!monthly) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
+[社区项目](/wiki/Community/Projects) • [谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 月报](/wiki/Community/osu!monthly) • [osu! 讨论](/wiki/Community/Video_series/osu!talk) • [lazer 更新视频系列](/wiki/Community/Video_series/lazer_updates)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -113,7 +115,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [osu! 团队](/wiki/People/osu!_team) • [开发团队](/wiki/People/Developers) • [精选艺术家](/wiki/People/Featured_Artists) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [技术支持团队](/wiki/People/Technical_Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
-[社区贡献者](/wiki/People/Community_Contributors) • [优秀提名者](/wiki/People/Elite_Nominators) • [用户组](/wiki/People/User_group) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [百夫长](/wiki/People/Centurions) • [全收集者](/wiki/People/Completionists) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
+[社区贡献者](/wiki/People/Community_Contributors) • [优秀提名者](/wiki/People/Elite_Nominators) • [用户组](/wiki/People/User_groups) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [百夫长](/wiki/People/Centurions) • [全收集者](/wiki/People/Completionists) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -122,7 +124,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 通过其他应用与 osu! 交互。
 
-[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

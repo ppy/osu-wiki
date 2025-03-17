@@ -22,6 +22,8 @@ The editor shares the same tools between osu!, osu!taiko, and osu!catch, while o
 
 The timeline can be zoomed in and out with the `+`/`-` buttons to the left, or alternatively scrolling with the `Alt` key held. The two white lines in the middle indicate the current timestamp. Additionally, hit objects on the timeline can be selected and moved around with the left mouse button, or removed by right-clicking.
 
+Click and drag a slidertail on the timeline right to create [repeat sliders](/wiki/Gameplay/Hit_object/Slider/Repeat_slider).
+
 ### Beat snap divisor
 
 ![](img/beat-snap-divisor.jpg "Beat snap divisor")
@@ -187,9 +189,9 @@ The left side of the sample import window lists all audio samples from the beatm
 | :-- | :-- |
 | `Play` | Play selected sample. |
 | `Import` | Add more samples to the beatmap folder from other locations. |
-| `Sample` | Add selected sample as a [storyboard audio event](/wiki/Storyboard/Scripting/Audio) at the current timestamp. |
+| `Delete` | Delete the audio file. |
 | `Apply` | Apply selected sample to the selected note. |
-| `Sample` | Add selected sample as a storyboard event at the current timestamp. |
+| `Sample` | Add selected sample as a [storyboard audio event](/wiki/Storyboard/Scripting/Audio) at the current timestamp. |
 | `Sample list` | Display [sound events in the storyboard](#sample-events-list). |
 | `Reset` | Remove custom sample from the selected note. |
 | `Cancel` | Close the window. |

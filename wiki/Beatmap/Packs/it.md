@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ca95f2744ae16917888912abc241bed2c5181f32
+---
+
 # Pacchetti di beatmap
 
 Un **pacchetto di beatmap** è un archivio compresso contenente [beatmap](/wiki/Beatmap). Si possono trovare nell'[elenco dei pacchetti di beatmap](https://osu.ppy.sh/beatmaps/packs).
@@ -24,7 +29,7 @@ I pacchetti di beatmap sono suddivisi in 7 categorie con un indicatore speciale 
 | :-: | :-- | :-- |
 | **S** | Standard | Beatmap [Classificate](/wiki/Beatmap/Category#ranked) o [Approvate]( /wiki/Beatmap/Category#approved) |
 | **F** | Artista in primo piano | Brani di [Artisti in primo piano](/wiki/People/Featured_Artists) |
-| **T** | Tornei | Mappools dei tornei |
+| **P** | Tornei | Mappools dei tornei |
 | **L** | Project Loved | Beatmap scelte dalla community nel [Progetto Amata](/wiki/Community/Project_Loved) |
 | **R** | Spotlights | Pacchetti di challenge di beatmap stagionali da [Beatmap Spotlights](/wiki/Beatmap_Spotlights), precedentemente conosciuti come *Charts* |
 | **T** | Tema | Beatmap basate su un tema particolare |

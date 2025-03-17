@@ -54,7 +54,7 @@ It would take many years for the community to see the true potential of using to
 
 ### Kuvster (2015)
 
-In 2015, Kuvster had a unique opportunity to snag the performance point (pp) record under a very specific set of circumstances. Back in the day, ["TAG4" maps](/wiki/Beatmap/TAG) were [approved](/wiki/Beatmap/Category#approved), hence you were able to gain pp by playing them. They weren't really supposed to be played solo, but if you owned a touch screen and were apt with it, you were eligible to grab the pp record, which is exactly what they did:
+In 2015, Kuvster had a unique opportunity to snag the performance point (pp) record under a very specific set of circumstances. Back in the day, ["TAG4" maps](/wiki/Beatmap/TAG_beatmaps) were [approved](/wiki/Beatmap/Category#approved), hence you were able to gain pp by playing them. They weren't really supposed to be played solo, but if you owned a touch screen and were apt with it, you were eligible to grab the pp record, which is exactly what they did:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/jcHiuNcwsiM" frameborder="0" allowfullscreen></iframe>

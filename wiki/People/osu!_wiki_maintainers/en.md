@@ -4,7 +4,7 @@ The **osu! wiki maintainers** maintain the [osu! wiki](/wiki/osu!_wiki) via its 
 
 The maintainers regularly look after the [issue tracker](https://github.com/ppy/osu-wiki/issues) and review pull requests (edit requests) from contributors. Contrary to other contributors, they can edit pull requests and merge them into the `master` branch of the repository, effectively making the changes public.
 
-If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu! Discord server](/wiki/Community/osu!_Discord_server) and a maintainer or another contributor will reply back (all maintainers know English).
+If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu! Discord server](/wiki/Community/Discord_servers#official) and a maintainer or another contributor will reply back (all maintainers know English).
 
 ## Wiki maintainers
 
@@ -13,7 +13,7 @@ If you need help with making a contribution or want a review on your pull reques
 | osu! profile | GitHub profile | Status | Additional languages |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inactive |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Active** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | Inactive |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Active** | Arabic |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactive |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactive | Spanish |

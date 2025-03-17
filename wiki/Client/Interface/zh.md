@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
----
-
 # 界面
 
 本文将解释关于使用 osu! 游戏客户端的方法，你需要了解的所有事情。在这里，你会找到关于歌曲选择页面、排行榜显示与结果屏幕的信息。当启动客户端时，你会看到如下界面：
@@ -143,55 +138,19 @@ outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
 | `作图者` | 谱面将按作图者的首字母排序。 |
 | `添加日期` | 谱面将按添加日期从最晚到最早排序。 |
 | `难度⭐` | 谱面将按难度从易到难排序。*注意这将会分割谱面集！* |
-| `长度` |  谱面将按长度从短到长排序。 |
+| `长度` | 谱面将按长度从短到长排序。 |
 | `成绩评级` | 谱面将按最高评级从差到好排序。 |
 | `标题` | 谱面将按标题的首字母排序。 |
 
 ### 搜索
 
+*主页面：[谱面搜索](/wiki/Beatmap_search)*
+
 ![](img/search-bar-ZH.jpg)
 
-*注意：你不能在打开聊天窗口或设置侧边栏时搜索。否则，你的输入会被视为聊天文本或选项搜索词。*
+可以使用搜索栏筛选符合条件的难度。默认情况下，osu! 进行全文搜索，只显示包含所有搜索词的结果。除此之外，你也可以使用一组筛选条件（例如 `ar=8` 或 `stars>=5`），按[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[星数评价](/wiki/Beatmap/Star_rating)与很多其他数值进行搜索。
 
-只有匹配您的搜索条件的谱面才会显示出来。默认情况下，任何搜索都会与谱面的艺术家、标题、创建者和标签相匹配。
-
-除了搜索这些字段之外，您还可以使用过滤器来搜索其他元数据，方法是将一个受支持的过滤器与一个值比较（例如，`ar=9`）。
-
-支持的过滤器：
-
-| 过滤器 | 描述 |
-| :-: | :-- |
-| `artist` | 艺术家的名字 |
-| `creator` | 谱面制作者的名字 |
-| `title` | 歌曲名 |
-| `difficulty` | 谱面难度名 |
-| `ar` | [缩圈速度](/wiki/Beatmap/Approach_rate) |
-| `cs` | [圆圈大小](/wiki/Beatmap/Circle_size) |
-| `od` | [总体难度](/wiki/Beatmap/Overall_difficulty) |
-| `hp` | [掉血速度](/wiki/Beatmap/HP_drain_rate) |
-| `key`, `keys` | 按键数量（仅限 osu!mania 及转谱） |
-| `star`, `stars` | [难度星级](/wiki/Beatmap/Star_rating) |
-| `bpm` | 每分钟节拍数 |
-| `length` | 谱面长度，单位为秒 |
-| `drain` | [掉血时间](/wiki/Beatmap/Drain_time)，单位为秒 |
-| `mode` | 游戏模式。值可以是 `osu`、 `taiko`、 `catch` 或 `mania`，或者是 `o`/`t`/`c`/`m` 这些缩写。 |
-| `status` | 谱面状态。 值可以是 `ranked`、 `approved`、 `pending`、 `notsubmitted`、 `unknown` 或 `loved`，或者 `r`/`a`/`p`/`n`/`u`/`l` 这些缩写。 |
-| `played` | 距离上次游玩这张谱面的时间，单位为天 |
-| `unplayed` | 只显示未游玩过的谱面。必须不带数值使用（比如 `unplayed=`），比较本身已经被忽略了。 |
-| `speed` | 在 osu!mania 谱面中保存的下落速度。这个值在未游玩谱面或[`记住每张地图的 osu!mania 下落速度`](/wiki/Client/Options#游戏)选项为关时永远为 0。 |
-
-支持的比较符：
-
-| 比较符 | 描述 |
-| :-: | :-- |
-| `=` 或 `==` | 等于 |
-| `!=` | 不等于 |
-| `<` | 小于 |
-| `>` | 大于 |
-| `<=` | 小于等于 |
-| `>=` | 大于等于 |
-
-你也可以在搜索框中输入难度 ID 或谱面 ID 来获得单一结果。
+要搜索谱面，只需在选歌界面内（设置与聊天面板未打开时）直接输入即可。
 
 ### 排名
 
@@ -318,7 +277,7 @@ outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
 | [`准确度 (Accuracy)`](/wiki/Gameplay/Accuracy) | 游玩谱面时的准确度。只会在新分数超过旧分数时计算。 | 所有最好分数经加权后的平均准确度。 |
 | `最大连击数 (Max Combo)` | 此谱面中你获得的最大连击数。 | 所有已游玩谱面中获得的最大连击数。 |
 | [`排名分数 (Ranked Score)`](/wiki/Gameplay/Score/Ranked_score) | 你在这张谱面获得的[最好成绩](/wiki/Gameplay/Score/Ranked_score) | 你在所有已上架谱面中游玩获得分数的总和。每张谱面只计算一次。 |
-| [`总分数 (Total Score)`](/wiki/Gameplay/Score/Total_score) | 不考虑，因为不会影响你的在线排名。 | 与排名分数相同，但会计算 osu! 网站所有可用谱面的游玩分数，包括未游玩完整或失败的谱面。这会影响你的[等级](/wiki/Gameplay/Score/Total_score#Level). |
+| [`总分数 (Total Score)`](/wiki/Gameplay/Score/Total_score) | 不考虑，因为不会影响你的在线排名。 | 与排名分数相同，但会计算 osu! 网站所有可用谱面的游玩分数，包括未游玩完整或失败的谱面。这会影响你的[等级](/wiki/Gameplay/Score/Total_score#等级). |
 | [`表现分 (Performance)`](/wiki/Performance_points) | 此次游玩获得的[未加权表现分](/wiki/Performance_points#为什么我不能获得一张谱面的所有表现分-(pp)？)值。 | 你的总表现分数，以及本次游玩获得的表现分数。 |
 
 ### 成就

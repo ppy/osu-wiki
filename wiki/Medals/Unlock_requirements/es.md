@@ -8,6 +8,7 @@ Los requisitos de desbloqueo para las [medallas Hush-Hush](/wiki/Medals#hush-hus
 - [Beatmap Packs](Beatmap_packs)
 - [Beatmap Spotlights](Beatmap_spotlights)
 - [Dedication](Dedication)
+- [Hush-Hush](Hush-hush)
 - [Mod Introduction](Mod_introduction)
 - [Seasonal Spotlights](Seasonal_spotlights)
 - [Skill](Skill)

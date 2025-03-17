@@ -7,7 +7,7 @@ This page lists ways for people from all around osu! to get in touch with each o
 - [Community Discord servers](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [osu! Discord server](/wiki/Community/osu!_Discord_server)
+- [osu! Discord server](/wiki/Community/Discord_servers#official)
 - [Offline organisations](/wiki/Community/Organisations)
 
 ## Projects
@@ -24,6 +24,11 @@ This page lists ways for people from all around osu! to get in touch with each o
 
 - [osu! community meetings](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
+
+## Media
+
+- [Bespoke music](/wiki/Community/Bespoke_music)
+- [Manga](/wiki/Community/Manga)
 - [Video series](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)

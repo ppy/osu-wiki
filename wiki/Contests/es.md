@@ -4,7 +4,7 @@ Esta sección está dedicada a los concursos que se llevan a cabo en toda la com
 
 ## Concursos oficiales
 
-*Véase también: [Puntos de concurso](Contest_points), [Soporte oficial del concurso de mapping](Official_support)*
+*Véase también: [Puntos de los concursos](Contest_points), [Soporte oficial para concursos de beatmapping](Official_support)*
 
 Los concursos oficiales son organizados (o reconocidos como oficiales) por el [osu! team](/wiki/People/osu!_team). La mayoría de los concursos oficiales tienen sus propias páginas en la [lista de concursos](https://osu.ppy.sh/community/contests).
 
@@ -191,6 +191,14 @@ En su lanzamiento, el concurso fue nombrado «Best of», ya que la premisa inici
 | [#31 (Spring 2022)](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) | Un lugar para pertenecer | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=NL }:: [utaaa](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Llamartist](https://osu.ppy.sh/users/14697690) | [#1](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results) | [#1](https://osu.ppy.sh/community/contests/142) |
 | [#32 (15th Anniversary Art Contest)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | Mascotas de osu! explorando parte de la historia de osu! | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
 
+### Locus
+
+**Locus 2025** es un concurso de varios niveles lanzado a principios de 2025 para acercar a los círculos creativos de osu! en el que los participantes deben crear beatmaps con música y visuales totalmente originales.
+
+| Año | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
+| :-: | :-- | :-- | :-- | :-- |
+| [2025](/wiki/Contests/Locus/2025) | *Por determinar* | *Por determinar* | *Por determinar* | *Por determinar* |
+
 ### osu! Beatmap Blueprints Contest
 
 *osu! Beatmap Blueprints Contest* es un concurso único que se lleva a cabo en conmemoración del lanzamiento de los [planos de beatmaps](https://osu.ppy.sh/store/products/9) en la [osu!store](https://osu.ppy.sh/store/listing). En este concurso, los usuarios participantes compitieron para crear el mejor plano de un beatmap en cualquier medio visual utilizando todos los recursos proporcionados en el paquete de los planos del beatmap.
@@ -230,6 +238,7 @@ En su lanzamiento, el concurso fue nombrado «Best of», ya que la premisa inici
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) por ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) por ::{ flag=EE }:: [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) por ::{ flag=RU }:: [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 | [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) por ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) por ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) por ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
 | [#3](/wiki/Contests/Skinning_Contest/3) | [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514) por ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [Ralsei Dark](https://osu.ppy.sh/community/forums/topics/1629393) por ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | [sour_grapes](https://osu.ppy.sh/community/forums/topics/1626950) por ::{ flag=VN }:: [koomo](https://osu.ppy.sh/users/2168518) | [#1](https://osu.ppy.sh/home/news/2022-10-20-skinning-contest-chromatic-alteration-results) |
+| [#4](/wiki/Contests/Skinning_Contest/4) | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) por ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) | [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) por ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251) | [星塵 DIVIDE ÷ 8](https://osu.ppy.sh/community/forums/topics/1792739) por ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/community/forums/topics/1792739) | [#1](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results) |
 
 ### Skin of the Year
 
@@ -238,6 +247,7 @@ En su lanzamiento, el concurso fue nombrado «Best of», ya que la premisa inici
 | Concurso núm. | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2022)](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) | [If there was an endpoint.](https://osu.ppy.sh/community/forums/topics/1672096) por ::{ flag=PE }:: [- Koshiin -](https://osu.ppy.sh/users/19135423) | [Moonshine](https://osu.ppy.sh/community/forums/topics/1610388) por ::{ flag=MY }:: [moonstaar](https://osu.ppy.sh/users/27339355) | [Shiroko Swimsuit](https://osu.ppy.sh/community/forums/topics/1641543) por ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015) | [#1](https://osu.ppy.sh/home/news/2023-03-05-skin-of-the-year-2022-results) |
+| [#2 (2023)](https://osu.ppy.sh/home/news/2024-01-14-skin-of-the-year-2023) | [WhiteCat 3.0](https://osu.ppy.sh/community/forums/topics/1864774) por ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | [Windosu XP](https://osu.ppy.sh/community/forums/topics/1790353) por ::{ flag=US }:: [Miorine](https://osu.ppy.sh/users/12630408) | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) por ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) | [#2](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) |
 
 ### [osu!trivium Quiz](osu!trivium_Quiz)
 

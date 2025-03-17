@@ -6,7 +6,7 @@ La catégorie de beatmaps [Loved](/wiki/Beatmap/Category#loved) est actuellement
 
 Le 02/02/2015, la demande de fonctionnalité *[New beatmap category for good unrankable mapsets](https://osu.ppy.sh/community/forums/topics/293841)* a été postée. Elle détaillait un autre moyen en dehors du [processus de classement](/wiki/Beatmap_ranking_procedure) pour que les beatmaps puissent avoir des classements, et a rapidement gagné en popularité car les joueurs ont montré leur inquiétude quant au processus de classement devenant trop strict et ne permettant pas à certaines beatmaps de prendre part à la compétition.
 
-Une autre raison pour laquelle cette demande est devenue populaire est que des beatmaps très peu conventionnelles ou révolutionnaires n'auraient jamais pu correspondre aux [critères de classement](/wiki/Ranking_criteria). Les joueurs étaient intéressés par la compétition sur certaines de ces beatmaps, comme celles présentant un style "2B", un gameplay de type *[Aspire](/wiki/Contests/Aspire)* ou des éléments de [TAG co-op](/wiki/Beatmap/TAG).
+Une autre raison pour laquelle cette demande est devenue populaire est que des beatmaps très peu conventionnelles ou révolutionnaires n'auraient jamais pu correspondre aux [critères de classement](/wiki/Ranking_criteria). Les joueurs étaient intéressés par la compétition sur certaines de ces beatmaps, comme celles présentant un style "2B", un gameplay de type *[Aspire](/wiki/Contests/Aspire)* ou des éléments de [TAG co-op](/wiki/Beatmap/TAG_beatmaps).
 
 Fin 2016, cette demande de fonctionnalité détenait le deuxième plus grand nombre d'étoiles dans l'histoire du forum, avec près de 13 000 de priorité.
 

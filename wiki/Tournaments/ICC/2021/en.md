@@ -8,7 +8,7 @@ tags:
 
 ![ICC 2021 banner](img/banner.jpg)
 
-The **Indonesia Convert Cup 2021** (***ICC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) and ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), where all mappools were exclusively made of converted osu! beatmaps. The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the second iteration of the Indonesia Convert Cup.
+The **Indonesia Convert Cup 2021** (***ICC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) and ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the second iteration of the Indonesia Convert Cup.
 
 ## Tournament schedule
 

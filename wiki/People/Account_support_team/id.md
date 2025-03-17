@@ -1,49 +1,53 @@
 ---
-outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+no_native_review: true
 ---
 
-# Account support team
+# Tim dukungan akun
 
-*Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Support Team](/wiki/People/Support_Team)*
+*Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Tim dukungan teknis](/wiki/People/Support_Team)*
 
-**Account support team** adalah sekelompok orang yang mengelola akun yang dimiliki oleh para pengguna osu!, serta menerima banding jika akun kamu terkena silence dan restrict.
+**Tim dukungan akun** (*account support team*) merupakan kelompok pengguna yang bertanggung jawab untuk mengelola akun pengguna serta menerima banding terhadap hukuman *silence* dan *restriction* yang dijatuhkan.
 
 ## Kontak
 
-Tim ini **hanya** dapat dihubungi melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Adapun identitas para anggotanya sengaja dirahasiakan untuk melindungi mereka semua dari hal-hal yang tidak diinginkan.
+Tim ini **hanya** dapat dihubungi dengan mengirimkan email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Identitas para anggota tim ini sengaja dirahasiakan untuk melindungi mereka dari perhatian yang tidak diinginkan.
 
-Biasanya dibutuhkan waktu beberapa hari bagi Support Team untuk mendapatkan email. Jika tidak ada tanggapan dalam waktu seminggu, ada baiknya untuk mengirimkan ulang pesan tersebut.
+Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk memproses email yang masuk. Apabila emailmu belum dibalas setelah satu minggu, ada baiknya kamu mengirimkan email baru agar laporanmu dapat segera ditindaklanjuti.
 
-## Peran dan tugas
+## Peran dan fungsi
 
-*Artikel utama: [Pusat Bantuan](/wiki/Help_centre)*\
-*Lihat juga: [Akun yang di-restrict](/wiki/Help_centre/Account_restrictions)*
+*Halaman utama: [Pusat Bantuan](/wiki/Help_centre)*\
+*Lihat juga: [Restriction](/wiki/Help_centre/Account_restrictions)*
 
-Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang berada di luar kendali kamu. Perlu diingat untuk menjelaskan sedetail mungkin tentang masalah kamu dan kirim email tersebut melalui email yang terhubung dengan akun osu! kamu.
+Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun yang berada di luar kendalimu. Mohon sertakan informasi yang selengkap-lengkapnya seputar masalah yang kamu alami dalam laporanmu, dan pastikan kamu mengirimkan laporan ini dari alamat email yang terhubung dengan akun osu! milikmu.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Banding atas restriction yang diberlakukan pada akun kamu](/wiki/Help_centre/Account_restrictions), termasuk:
-  - silence;
+- [Pengajuan banding terhadap berbagai pembatasan yang diberlakukan pada akunmu](/wiki/Help_centre/Account_restrictions), yang meliputi:
+  - *silence*;
   - penghapusan konten profil;
   - penghapusan beatmap;
-  - penghapusan postingan dan komentar di forum.
-- Perilaku buruk yang [ingin kamu akui](/wiki/Reporting_bad_behaviour/Handling_foul_play#apa-yang-dapat-saya-lakukan-apabila-saya-telah-melanggar-peraturan?).
-- [Kehilangan akses ke email](/wiki/Help_centre/Account#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
-- [Mengembalikan nama pengguna menjadi yang sebelumnya dan sedikit koreksi ejaan pada nama pengguna](/wiki/Help_centre/Account#name-changes).
+  - penghapusan postingan dan komentar forum.
+- Pengakuan seputar [perilaku buruk yang telah kamu lakukan](/wiki/Reporting_bad_behaviour/Handling_foul_play#apa-yang-dapat-saya-lakukan-apabila-saya-telah-melanggar-peraturan?).
+- Pengajuan laporan [hilangnya akses email](/wiki/Help_centre/Account#sign-in) yang terhubung dengan akun osu! milikmu atau telah dicurinya akunmu.
+- [Pengembalian dan perbaikan ejaan nama pengguna](/wiki/Help_centre/Account#name-changes).
 - [Pendaftaran akun bot](/wiki/Bot_account).
+- Permintaan untuk mengakses fitur [pesan pengumuman](/wiki/Announcement_messages).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Catatan: Untuk melaporkan kasus-kasus seperti perilaku buruk dan pelecehan seksual yang ekstrim dari pengguna mana pun, termasuk dari seorang moderator, silakan kunjungi artikel [Melaporkan Penyalahgunaan](/wiki/Reporting_bad_behaviour/Abuse).*
+*Catatan: Untuk melaporkan perilaku buruk yang sudah melebihi batas dan tindak pelecehan seksual dari pengguna mana pun (termasuk moderator), kunjungi [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse).*
 
-- Kekhawatiran terhadap perilaku buruk dari seorang moderator.
-- Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct).
-- [Masalah pembayaran](/wiki/Help_centre/Account#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
-- Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_centre/Client#online-features).
+- Pengajuan laporan seputar perilaku yang tidak sepantasnya dari salah seorang moderator.
+- Pengajuan laporan seputar pelanggaran [kode etik kontributor](/wiki/Rules/Contributor_code_of_conduct) yang dilakukan oleh salah seorang moderator.
+- Permintaan dukungan seputar [masalah pembayaran](/wiki/Help_centre/Account#supporter) pada pesanan [osu!store](https://osu.ppy.sh/store/listing).
+- Permintaan dukungan seputar masalah teknis yang tidak dapat atau belum terselesaikan pada [forum Help](https://osu.ppy.sh/community/forums/5), seperti [masalah konektivitas](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Permintaan data](/wiki/Legal/Privacy#pengelola-data) dan masalah privasi.
+- [Permintaan data](/wiki/Legal/Privacy#pengelola-data) dan pertanyaan seputar privasi.
 - [Permintaan penghapusan akun](/wiki/Legal/Privacy#hak-dan-kendali-anda) secara **permanen**.
+
+### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
+
+- Permintaan [dukungan turnamen resmi](/wiki/Tournaments/Official_support) dan pertanyaan umum seputar turnamen melalui konsultasi dengan tim [Komite Turnamen](/wiki/People/Tournament_Committee).

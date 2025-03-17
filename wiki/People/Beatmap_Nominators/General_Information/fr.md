@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Informations générales sur les Beatmap Nominators
 
 Êtes vous un [**Beatmap Nominator**](/wiki/People/Beatmap_Nominators) *(BN)*, ou souhaitez-vous en devenir un ? Si la réponse est oui, vous êtes au bon endroit ! Cet article contient toutes les informations que vous aurez besoin en tant que Beatmap Nominator.
@@ -42,7 +46,7 @@ En plus de pouvoir nominer des beatmaps ou de réinitialiser leurs nominations, 
 
 ### Médiation des veto
 
-Quand une médiation de veto est lancée, un jury choisi au hasard va être sélectionné. Si vous êtes l'un des membres choisis pour une médiation de veto, un membre de la NAT va vous envoyer un message avec des informations additionnelles sur comment utiliser le vote sur le [site des BN](http://bn.mappersguild.com). Si vous ne pouvez pas participer, informez un membre de la NAT afin qu'un autre BN puisse être choisi pour le jury à votre place.
+Lorsqu'un veto est envoyé à la médiation, les BN et les membres de la NAT correspondant au mode de la beatmap ayant fait l'objet d'un veto seront tous invités à soumettre des votes individuels sur la question. Dans le cas de vetos liés à des questions qui ne sont pas spécifiques à un mode, tous les membres du mode seront invités à participer. La NAT vous enverra un message contenant des informations supplémentaires sur la manière de voter en utilisant le [site web des BN](http://bn.mappersguild.com) lorsqu'une médiation de veto commencera. À la fin de la médiation, tous les votes soumis seront compilés pour déterminer un consensus final maintenu ou rejeté.
 
 ### Quality Assurance
 

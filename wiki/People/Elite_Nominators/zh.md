@@ -8,7 +8,7 @@
 - 提名的谱面质量
 - [摸图](/wiki/Modding)的质量
 - 收到[提名重置](/wiki/Beatmap_ranking_procedure#提名重置)的数量
-- 做出[质量保证](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance)检查的数量
+- 做出[质量保证](/wiki/People/Beatmap_Nominators/General_Information#质量保证-(quality-assurance))检查的数量
 - 对作图社区的其他重大贡献（制作辅助作图的工具、参与举办社区活动等）
 - 让他们与众不同的其他优秀品质
 
@@ -75,7 +75,7 @@
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | osu!taiko |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | osu!catch |
-| ::{ flag=US }:: [Nokashi](https://osu.ppy.sh/users/5431196) | osu!catch |
+| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | osu!catch |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | osu!mania |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) | osu!mania |
 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | osu!mania |
@@ -101,3 +101,26 @@
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | osu!mania |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | osu!mania |
+
+## 2023
+
+*关于新闻帖，请参见： [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
+
+| 名称 | 游戏模式 |
+| :-- | :-- |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | osu! |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | osu! |
+| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | osu! |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | osu! |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | osu! |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | osu! |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | osu!taiko |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | osu!taiko |
+| ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) | osu!taiko |
+| ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | osu!catch |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | osu!mania |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | osu!mania |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | osu!mania |
+| ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | osu!mania |
+| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | osu!mania |

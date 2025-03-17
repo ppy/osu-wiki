@@ -22,6 +22,10 @@ For full Beatmap Nominators without recent warnings, their evaluations will be s
 
 The duration between evaluations is automatically scheduled by the [BN website](https://bn.mappersguild.com/). However, if there is a substantial cause for concern about a BN's performance at a sooner date, NAT members can also manually schedule an evaluation to happen sooner than normal.
 
+A BN is able to see the current progress of their evaluation via a progress bar in their BN website profile.
+
+![evaluation status progress bar](img/progress-bar.png "Evaluation status progress bar")
+
 Just like applications, current BN evaluations are randomly assigned to 3 evaluators and will be announced in the respective mode's NAT Discord channels.
 
 ### Individual phase
@@ -32,28 +36,32 @@ The individual phase will show on the BN website 2 weeks before it is due, letti
 
 After three NAT members have submitted their evaluations, the evaluation will be moved to the group phase. During the group phase, NAT members will discuss their evaluations with each other, come to a consensus, and write evaluation feedback. The results and feedback will vary depending on the BN. If it is found a BN is not performing up to standard, they may either be given a warning or placed on probation depending on the severity of the issue.
 
-Once the feedback is written and reviewed, it will be sent and accompany any group changes needed if the BN is moved from the probationary Beatmap Nominators to the full Beatmap Nominators, or vice versa. The feedback will be delivered by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages).
+Once the feedback is written and reviewed, it will be sent and accompany any [user group](/wiki/People/User_group) changes needed. The feedback will be delivered by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages).
 
-Warnings and being placed on probation due to subpar performance as a full Beatmap Nominator are effective for roughly one year. If a BN has reoccurring issues down the line after being warned or placed on probation recently, they may be removed from the Beatmap Nominators on future evaluations.
+Warnings due to subpar performance as a full Beatmap Nominator are effective for roughly one year. If a BN has reoccurring issues down the line after being warned recently, they may be removed from the Beatmap Nominators on future evaluations.
 
 ## Special evaluations
 
-### Activity
-
-Each Beatmap Nominator's activity is checked automatically by the BN website on the 1st of every month. If it has found that there are nominators not meeting the activity requirements, they will be flagged and posted in their respective mode's NAT channel for NAT members to review by the "bnsite" Discord bot. Review will include whether the BN has posted an absence notice recently, and a double check to ensure the website check is accurate to the BN's activity status.
-
-If it is found the BN is indeed not meeting activity, they will be either warned or removed depending on severity. Beatmap Nominators who were removed for activity in this way may apply again without any cooldowns, provided they apply with 3 mods instead of 2 to show they have come back to being active as a modder again.
-
 ### Resignations
 
-Beatmap Nominators can resign from the group at any time via the BN website. When this happens, three NAT members will be assigned to evaluate the nominator one last time, in order to determine if the resignation is on "good" terms or on "standard" terms. This evaluation is given a 24-hour deadline and announced to the NAT members in their respective Discord channel. Beatmap Nominators who resign on good terms may be able to fast-track back to being a full BN if they choose to apply again within 1 year of resignation. Those who resign on standard terms will have to start from probation if they pass their reapplication.
-
-Generally, good- and standard-term evaluations are relatively simple. Beatmap Nominators who have not been recently warned or placed on probation, and were not about to be warned for issues, will usually resign on good terms. Standard terms is typically used for nominators who have been warned recently, are on probation, or were about to be warned for issues on their upcoming current BN evaluation.
+Beatmap Nominators can resign from the group at any time via the BN website. When this happens, three NAT members will be assigned to evaluate the nominator one last time, in order to determine if the resignation is on "good" terms or on "standard" terms. This evaluation is given a 24-hour deadline and announced to the NAT members in their respective Discord channel.
 
 Once a consensus for the resignation terms has been reached, the NAT will send the BN an announcement message via the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) informing them of their status and when they can reapply to become a BN if they so choose.
 
-### Mock evaluations
+#### Good terms
 
-In addition to BN evaluations by NAT members, mock evaluations may also be given out to Beatmap Nominators for new BN application evaluations. In mock evaluations, nominators will submit individual evaluations alongside the NAT, but it will not determine the final result for the application unless the NAT evaluators cannot come to their own consensus. For mock evaluations they participated in, nominators will be able to read the individual evaluations in an anonymised format once the application is archived.
+Beatmap Nominators who have not been recently warned or been on probation, and were not about to be warned for issues, will usually resign on good terms.
 
-Mock evaluations allow the NAT to scout for future NAT members, as well as for Beatmap Nominators to see how the NAT evaluates applications and learn from them if joining the NAT in the future is something they are interested in. As such, there are no consequences for not completing them.
+The good-term status allows former Nominators to fast-track their way back to being a full BN if they choose to apply again within 1 year of their resignation. The resignation will turn to standard terms if it is older than 1 year.
+
+#### Standard terms
+
+A standard-term resignation is issued for nominators who have been warned recently, are on probation, or were about to be warned for issues on their upcoming current BN evaluation.
+
+Nominators who resign on standard terms will have to reapply to become a BN after a 60-day cooldown if they wish to return to the group, and they will have to start from probation if they pass their reapplication.
+
+### Activity
+
+Whenever a Beatmap Nominator's evaluation is created, their activity will be checked automatically by the BN website. If it fails to meet the [minimum requirements](/wiki/People/Beatmap_Nominators/Rules#activity), then the evaluation will be automatically moved to the group phase and have its consensus set to an activity warning or a removal, depending on the activity. Then, a member of the NAT will sanity check said evaluation, and send it if there are no issues.
+
+If a Beatmap Nominator is returning from a good-term resignation and they have not reached their minimum activity within the first 30 days, a new evaluation will be created following the same procedure as above, with the consensus set to a removal.

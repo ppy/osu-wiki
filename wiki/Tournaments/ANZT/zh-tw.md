@@ -9,3 +9,4 @@ no_native_review: true
 - [Aus/NZ osu!standard Tournament 5 - Summer](2018_Summer)
 - [Aus/NZ osu!standard Tournament 5 - Winter](2018_Winter)
 - [Aus/NZ osu!standard Tournament 6 - Summer](2019_Summer)
+- [Aus/NZ osu!standard Tournament 7 - Summer](2020_Summer)

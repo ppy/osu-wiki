@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
 ---
 
 <div class="wiki-main-page__blurb">
@@ -61,7 +63,7 @@ La clasificación es el proceso de obtener una tabla de clasificación para un b
 
 [Envío](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Procedimiento de clasificación](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Criterios de clasificación](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Criterios de clasificación](/wiki/Ranking_criteria): [Metadatos](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -100,7 +102,7 @@ Lugares: [Foro](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_
 
 [Torneos](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concursos](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Proyectos](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Reuniones con la comunidad](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Proyectos](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Reuniones con la comunidad](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -113,7 +115,7 @@ osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, 
 
 [osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Artistas destacados](/wiki/People/Featured_Artists) • [Technical Support Team](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Contribuidores de la comunidad](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Grupo de usuarios](/wiki/People/User_group) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Centuriones](/wiki/People/Centurions) • [Completacionistas](/wiki/People/Completionists) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Contribuidores de la comunidad](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Grupos de usuarios](/wiki/People/User_groups) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Centuriones](/wiki/People/Centurions) • [Completacionistas](/wiki/People/Completionists) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -122,7 +124,7 @@ osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, 
 
 Interactúa con osu! a través de otras aplicaciones y medios, o contribuir a su desarrollo.
 
-[API](/wiki/osu!api) • [Cuenta bot](/wiki/Bot_account) • [Directrices de identidad de marca](/wiki/Brand_identity_guidelines) • [Servidor de Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Cuenta bot](/wiki/Bot_account) • [Directrices de identidad de marca](/wiki/Brand_identity_guidelines) • [Servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -368,13 +368,13 @@ Only the top 32 teams advance to the next round.
 5. Mappool will be released on different dates depending of the stage:
    - **Qualifiers and Finals**: Mappool will be released one week in advance, right after the mappool showcase.
    - **Weekly stages**: Mappool will be released every Friday at 0 UTC.
-6. Maps will be played with [FreeMod](/wiki/Gameplay/Game_modifier#freemod). The only allowed mods are FadeIn, Flashlight, Hidden, and Mirror.
+6. Maps will be played with [FreeMod](/wiki/Gameplay/Game_modifier#free-mod). The only allowed mods are FadeIn, Flashlight, Hidden, and Mirror.
 
 ### Tournament structure
 
 #### Qualifiers
 
-1. The Qualifier pool contains 4 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
+1. The Qualifier pool contains 4 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) rules.
 2. Each player will play 2 unique maps of the qualifier mappool.
 3. When joining the lobby, the teams will tell the referee what maps each player will be playing.
    - From this point, players cannot change selected maps.
@@ -401,7 +401,7 @@ Only the top 32 teams advance to the next round.
 #### Finals
 
 1. Teams that advance to finals will play a small single-elimination bracket.
-2. The Finals pool contains 5 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
+2. The Finals pool contains 5 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) rules.
 3. Matches are defined as follows:
    - First place faces fourth place.
    - Second place faces third place.

@@ -287,7 +287,7 @@ Due to the large number of players and matches, the match results will be displa
 ### Mappool information
 
 1. Each group has four mappools, and each group uses one mappool per round.
-2. Each mappool consists of 7 beatmaps that will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of 7 beatmaps that will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) conditions. This means that there is a unique FreeMod bracket.
 3. The type of beatmap included in the mappool is not fixed.
 
 ### Scheduling information

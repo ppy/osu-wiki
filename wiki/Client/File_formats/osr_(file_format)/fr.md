@@ -76,7 +76,7 @@ Comme décrit dans l'[API osu!](https://github.com/ppy/osu-api/wiki#mods)
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | Toujours utilisé avec DT : 512 + 64 = 576 |
+| Nightcore | 512 (9) | Toujours utilisé avec DT : 512 + 64 = 576. Remplace le mod Taiko inutilisé |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |

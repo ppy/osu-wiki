@@ -276,10 +276,7 @@ There are four types of slider curves in osu!:
 - **Linear (L):** These curves form a straight path between all of their points.
 - **Perfect circle (P):** Perfect circle curves are limited to three points (including the hit object's position) that define the boundary of a circle. Using more than three points will result in the curve type being switched to bézier.
 
-If the slider's `length` is longer than the defined curve, the slider will extend until it reaches the target length:
-
-- For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve.
-- For perfect circle curves, it continues the circular arc.
+If the slider's `length` is longer than the defined curve, the slider will extend in a straight line from the end of the curve until it reaches the target length.
 
 *Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100 * SV) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (where `SV` is the slider velocity multiplier given by the effective inherited timing point, or `1` if there is none).*
 

@@ -23,7 +23,6 @@ Vous trouverez ci-dessous une liste de guides créés par des membres de la comm
 - [Théorie musicale](/wiki/Music_theory)
 - [Timing des musiques avec des signatures en #/8](Timing_songs_with_8-signatures)
 - [Utilisation de hitsounds personnalisés](Using_custom_hitsounds)
-- [Vidéos de YouTube](Videos_from_YouTube)
 - [Vue d'ensemble des échantillons personnalisées](Custom_sample_overrides)
 
 ## Modding

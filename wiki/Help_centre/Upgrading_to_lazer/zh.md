@@ -1,6 +1,9 @@
-# 升级到 lazer
+---
+outdated_translation: true
+outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
+---
 
-*注意：我们仍在调整游戏平衡，开发游戏新机制。目前，**在 lazer 上取得的分数不会永久保存**。*
+# 升级到 lazer
 
 osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕后工作的结晶，并且，我们重构了游戏。
 
@@ -71,11 +74,11 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 | 功能 | stable | lazer |
 | :-- | :-- | :-- |
-| 提交分数 | ![支持][true] | ![部分支持][partial][^score-reset-balance] |
-| 谱面排行榜 | ![支持][true] | ![部分支持][partial][^score-reset-isolated] |
+| 提交分数 | ![支持][true] | ![支持][true] |
+| 谱面排行榜 | ![支持][true] | ![支持][true] |
 | 主页统计数据 | ![支持][true] | ![支持][true] |
-| 奖章 (成就) | ![支持][true] | ![不支持][false] |
-| 表现分 (pp) | ![支持][true] | ![部分支持][partial][^score-reset-isolated] |
+| 奖章 (成就) | ![支持][true] | ![部分支持][partial][^medals-lazer] |
+| 表现分 (pp) | ![支持][true] | ![支持][true] |
 | 实时聊天 | ![部分支持][partial][^stable-chat] | ![支持][true] |
 | Wiki / 新闻 / 更新日志 / 排行榜 | ![不支持][false] | ![支持][true][^online-content] |
 | 玩家主页 | ![不支持][false] | ![支持][true] |
@@ -101,9 +104,9 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 按物件设定变速和音量 (SV / volume) | ![不支持][false] | ![支持][true] |
 | 分段调整滑条的曲线类型 | ![不支持][false] | ![支持][true] |
 | 分割、合并滑条 | ![不支持][false] | ![支持][true] |
-| 旋转物件 | ![支持][true] | ![部分支持][partial][^editor-precise-rotation] |
+| 旋转物件 | ![支持][true] | ![支持][true] |
 | 调整物件大小 | ![不支持][false] | ![支持][true] |
-| 提交谱面 | ![支持][true] | ![不支持][false] |
+| 提交谱面 | ![支持][true] | ![支持][true] |
 | 故事板编辑器 | ![支持][true] | ![不支持][false] |
 | 交叉兼容性 | ![支持][true] | ![部分支持][partial][^incompatibilities] |
 
@@ -153,35 +156,76 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 #### 如果我在 lazer 中获得了成绩，它会显示在我的个人主页上吗？
 
-成绩将会显示在“最近游玩”下，但不会显示在“最好成绩 (BP)”上。
+是的，但是在官网的“Lazer 模式”关闭的状态下，不会显示在“最好成绩”。
 
-#### 如果我在 lazer 中获得了成绩，它会提供表现分 (pp) 吗？
+目前也不会显示在“第一名”。
 
-个人主页上的“最近游玩”部分展示了在 lazer 中获得的成绩，以及计算出的 pp。如果在总 pp 的数字上悬停，你还能看到它们的总和。
+#### 如果我在 lazer 中获得了成绩，它能给我表现分 (pp) 吗？
 
-另外，试运行的 osu! 网站，[lazer.ppy.sh](https://lazer.ppy.sh/home)，已经展示了所有根据 lazer 成绩计算的总和以及排名。
+是的。
 
-#### lazer 使用了 ScoreV2 计分？
+#### lazer 使用 ScoreV2 计分吗？
 
-是的，它基于 ScoreV2 运行，并做了一些调整。ScoreV1 的成绩在不久的将来会转换成这套计分系统。
+是的，用的是做了一些调整的 ScoreV2 。
 
 <!-- lint ignore no-heading-punctuation -->
 
 #### 我喜欢经典的计分显示，就是分数超级大的那种。
 
-实际上，你可以将`分数显示模式`修改成`经典` ，来恢复游戏内分数爆炸式增长的风格！这不会完美复现，但会给你一种经典计分的感觉，并在你预想到的一切地方作出了修改。
+实际上，你可以将 `分数显示模式` 设置成 `经典` ，来恢复游戏内分数爆炸式增长的风格！这不会完美复现，但会给你一种经典计分的感觉，并在你预想到的一切地方作出了修改。
+
+全球排行榜也会使用经典计分。
 
 #### 如果我在 lazer 上留下了成绩，它会永久保存吗？
 
-尽管我们会尽量多地保留成绩，但我们**不保证能永久保留成绩**。我们随时可能会删除一小部分或是全部分数，来确保游戏平衡。
+我们会尽量地多保留成绩，但我们**不保证能永久保留**。为确保游戏平衡，我们随时可能会删除一小部分成绩，比如发现滥用或作弊得来的成绩时。
 
-#### 在稳定版上显示的成绩也会在 lazer 上显示吗？
+#### 稳定版上的成绩也会在 lazer 上显示吗？
 
-是的。一旦我们完成了 lazer 和稳定版的计分平衡，就能在 lazer 上看到两个版本的成绩。
+是的。
+
+#### lazer 上的成绩也会在稳定版上显示吗？
+
+目前不行。
 
 #### 所有游戏模组 (Mods) 都会上传成绩 (Ranked) 吗？
 
-目前，所有含游戏模组的成绩都会显示在排行榜上。至于含有部分模组的成绩是否能获得表现分 (pp)（如果能获得的话，这些模组应该提供奖励或是惩罚）的一些问题仍在讨论中。
+所有含游戏模组的成绩都会显示在排行榜上。
+
+但是，目前只有以下模组能给予表现分：
+
+- 降低难度
+  - Easy
+  - No Fail
+  - Half Time (仅 0.75 倍速，可以调整 `Adjust pitch` )
+  - Daycore (仅 0.75 倍速)
+- 增加难度
+  - Hard Rock (不适用 osu!mania )
+  - Sudden Death (可以打开 `Restart on fail` )
+  - Perfect (可以打开 `Restart on fail` )
+  - Hidden
+  - Nightcore (仅 1.5 倍速)
+  - Double Time (仅 1.5 倍速，可以调整 `Adjust pitch`)
+  - Flashlight
+  - Blinds
+  - Accuracy Challenge
+- 转谱 (仅限 osu!mania)
+  - Mirror
+  - Four Keys
+  - Five Keys
+  - Six Keys
+  - Seven Keys
+  - Eight Keys
+  - Nine Keys
+- 娱乐
+  - Muted
+  - No Scope
+- 自动游玩 (仅限 osu!)
+  - Spun out
+- 系统
+  - Touch Device
+
+除非特别指出，只有模组的自定义设置为默认值时才能获得表现分。
 
 #### 我不喜欢新游戏机制。我能恢复旧游戏机制吗？
 
@@ -259,7 +303,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 
 还有一些额外的福利：
 
-- 支持者可以在课题模式中创建持续时间更长的课题。
+- 支持者可以在歌单模式中创建持续时间更长的歌单。
 - 支持者能在主菜单播放谱面故事板。
 
 我们确实打算在未来给支持者引入更多的福利，但我们目前着重于尽量多地将功能加至与稳定版相同。因此，最好将购买支持者标签的理由作为...支持游戏开发！
@@ -290,8 +334,6 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^offset-calibration-lazer]: 当重试谱面时，可以根据上一次游玩的成绩来校准偏移值。
 [^can-disable]: 可以关闭。
 [^note-lock]: 仍旧存在，但影响应该会很小。
-[^score-reset-balance]: 为了确保平衡，分数将重置。
-[^score-reset-isolated]: 分数将重置，目前与稳定版的分数隔开。
 [^online-content]: 游戏内访问在线内容。
 [^direct-supporter]: 进入 osu!direct，仅 osu! 支持者可用。
 [^supporter]: 仅 osu! 支持者可用。
@@ -299,13 +341,13 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^multi-room-max]: 最多 16 个玩家。
 [^map-only]: 只更新谱面文件。
 [^all-files]: 更新所有文件。
-[^editor-precise-rotation]: 不能按精确的角度来旋转物件。
 [^incompatibilities]: 一些编辑器功能会导致谱面在稳定版内显示异常——将来修复。
 [^stable-chat]: 通常需要 15 秒来接收新消息。
 [^countdown-timers-stable]: 使用指令来倒计时。对局不会自动开始。
 [^countdown-timers-lazer]: 在游戏内用户界面 (UI) 设置倒计时，对局会自动开始。
 [^queue-modes]: 开启它，允许房内按队列选择谱面。即“房主轮换”(host rotate)。
 [^difficulty-adjust]: 直接在歌曲选择界面使用难度调整 (Difficulty Adjust) 模组，来更改谱面的 CS/AR/OD/HP。
+[^medals-lazer]: 部分[隐藏 (Hush-Hush) 奖章](/wiki/Medals#隐藏)还无法获取。
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

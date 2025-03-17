@@ -73,7 +73,7 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 ## Groups
 
 | Group | Seed 1 | Seed 2 | Seed 3 | Seed 4 | Seed 5 |
-| :--  | :--  | :-- | :-- | :-- | :-- |
+| :-- | :-- | :-- | :-- | :-- | :-- |
 | A | The Hidden Ones | Viciados em Crack | Champion The Beat | Indonesia | Lone wolfs |
 | B | State(s) of the Art | CFC | Hungary CTB | #filipino | Old School |
 | C | Team Nub | half manual player team | Red Fury | German Hentai's | Indonesia II |
@@ -430,7 +430,7 @@ Time Zone: (...)
 1. In the Group Stage, the teams will be divided into four groups of five teams each.
 2. All the teams from each group will face each other over the course of five weeks.
    - Due to the odd number of teams in each group, all teams **will only be playing on four matchweeks** instead of on all five by default. Team captains are expected to be aware of the schedules announced by the Tournament Management.
-3. Depending on the outcome of a Group Stage match, each team will be alloted Group Stage points to their name as follows:
+3. Depending on the outcome of a Group Stage match, each team will be allotted Group Stage points to their name as follows:
    - Winning a match gives the team +3 Group Stage points.
    - Losing a match gives the team +1 Group Stage point.
    - Forfeiting a match, either by disqualification or by a Lost by Default, penalizes the team by -3 Group Stage points.

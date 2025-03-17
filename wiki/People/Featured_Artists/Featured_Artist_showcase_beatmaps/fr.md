@@ -754,6 +754,35 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 - **[Dustvoxx](https://osu.ppy.sh/home/news/2023-10-28-new-featured-artist-dustvoxx)** (28/10/2023)
   - (![][osu!]) [Dustvoxx, Laur - FireLight](https://osu.ppy.sh/beatmapsets/2064173) organisé par ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 
+### Novembre
+
+- **[PHAZE](https://osu.ppy.sh/home/news/2023-11-04-new-featured-artist-phaze)** (04/11/2023)
+  - (![][osu!]) [PHAZE - Mirai Isho](https://osu.ppy.sh/beatmapsets/1989072#osu/4132104) organisé par ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910)
+  - (![][osu!]) [PHAZE - abyss](https://osu.ppy.sh/beatmapsets/2047330#osu/4274291) organisé par ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
+- **[you](https://osu.ppy.sh/home/news/2023-11-18-new-featured-artist-you)** (18/11/2023)
+  - (![][osu!mania]) [you - Wake Up](https://osu.ppy.sh/beatmapsets/2090600#mania/4383318) organisé par ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)
+  - (![][osu!]) [you feat. nayuta - Color (2019 Reworks)](https://osu.ppy.sh/beatmapsets/2089375#osu/4378527) organisé par ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+### Décembre
+
+- **[Knife](https://osu.ppy.sh/home/news/2023-12-02-new-featured-artist-knife)** (02/12/2023)
+  - (![][osu!]) [Knife - Negaigoto Liner 2020](https://osu.ppy.sh/beatmapsets/2049932#osu/4280355) organisé par ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!catch]) [Knife - Story](https://osu.ppy.sh/beatmapsets/2096026#fruits/4395020) organisé par ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765)
+- **[Asa](https://osu.ppy.sh/home/news/2023-12-10-new-featured-artist-asa)** (10/12/2023)
+  - (![][osu!catch]) [Koan Sound x Culprate x Reso x Asa - Cascade](https://osu.ppy.sh/beatmapsets/2046177#fruits/4271123) organisé par ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
+
+## 2024
+
+### Février
+
+- **[Rocket Start](https://osu.ppy.sh/home/news/2024-02-03-new-featured-artist-rocket-start)** (03/02/2024)
+  - (![][osu!]) [Rocket Start - Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690#osu/4330639) organisé par ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
+
+### Avril
+
+- **[PaceMKR](https://osu.ppy.sh/home/news/2024-04-13-new-featured-artist-pacemkr)** (13/04/2024)
+  - (![][osu!]) [PaceMKR - Break It Down (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2051128#osu/4283294) organisé par ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+
 ## Histoire
 
 Dès sa création, la Mappers' Guild s'est fixée comme objectif principal de "créer des packs de beatmaps promotionnels pour les Featured Artists à venir". Cela s'est reflété dans le tout premier projet majeur de la Guilde, dans lequel les membres de la Guilde ont préparé et classé six beatmaps des [musiques MOtOLOiD sous licence](https://osu.ppy.sh/beatmaps/artists/19) bien avant [l'annonce de l'artiste correspondant](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).

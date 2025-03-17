@@ -1,6 +1,4 @@
 ---
-outdated_since: 90681ed55cd6b445404dda6ac60d196e1a3549ba
-outdated_translation: true
 tags:
   - find beatmaps
   - filter beatmaps
@@ -19,21 +17,23 @@ Standardmäßig wird jeder Text, der in der [Songauswahl](/wiki/Client/Interface
 
 Metadaten von Beatmaps können für eine genauere Filterung über die folgenden Operatoren mit bestimmten Werten verglichen werden:
 
-| Vergleich | Beschreibung |
-| :-: | :-- |
-| `=` oder `==` | Gleich |
-| `!=` | Nicht gleich |
-| `<` | Kleiner als |
-| `>` | Größer als |
-| `<=` | Kleiner als oder gleich |
-| `>=` | Größer als oder gleich |
+| Vergleich | osu!web | osu!(stable) | osu!(lazer) | Beschreibung |
+| :-: | :-: | :-: | :-: | :-- |
+| `=` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Gleich |
+| `==` | ![Nein][false] | ![Ja][true] | ![Nein][false] | Gleich |
+| `:` | ![Ja][true] | ![Nein][false] | ![Ja][true] | Gleich |
+| `!=` | ![Nein][false] | ![Ja][true] | ![Nein][false] | Nicht gleich |
+| `<` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Kleiner als |
+| `>` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Größer als |
+| `<=` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Kleiner als oder gleich |
+| `>=` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Größer als oder gleich |
 
 ## Client
 
-*Anmerkung: Diese Filter funktionieren nur in der Songauswahl, während osu!direct normale Volltextsuche unterstützt.*
+*Anmerkung: Diese Filter funktionieren nur in der Songauswahl, während [osu!direct](/wiki/osu!supporter#osu!direct) nur normale Volltextsuche unterstützt.*
 
 | Filter | Beschreibung |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Name des Künstlers |
 | `creator` | Name des Beatmap-Erstellers |
 | `title` | Songtitel |
@@ -50,14 +50,16 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `mode` | Spielmodus. Das kann `osu`, `taiko`, `catch` oder `mania` sein sowie `o`/`t`/`c`/`m` in Kurzform. |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
 | `played` | Die Zeit in Tagen, seit wann zuletzt gespielt wurde. |
-| `unplayed` | Zeigt nur ungespielte Beatmaps an. Dabei muss ein Vergleich mit einem leeren Wert verwendet werden (z. B. `unplayed=`). Der Vergleich selbst wird ignoriert. |
+| `unplayed` | Zeigt nur ungespielte Beatmaps an. Dieser Filter darf keinen Wert enthalten (`unplayed=`). Der Vergleichsoperator selbst spielt keine Rolle (z. B. sind `unplayed=`, `unplayed>` und `unplayed!=` das Gleiche). |
 | `speed` | Gespeicherte Scrollgeschwindigkeit in osu!mania. Immer 0 für ungespielte Beatmaps oder wenn die Option [`osu!mania-Scrollgeschwindigkeit für jede Beatmap merken`](/wiki/Client/Options#gameplay) ausgeschaltet ist. |
 
 ## Webseite[^website-filters]
 
 | Filter | Beschreibung |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Name des Künstlers |
+| `title` | Name des Songs |
+| `source` | Das Medium, in dem der Song ursprünglich erschienen ist oder mit dem er in Verbindung gebracht wird (zum Beispiel ein Videospiel, ein Film, eine Serie oder ein Ereignis) |
 | `featured_artist` | Kennung eines [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Name des Beatmap-Erstellers |
 | `difficulty` | Name des Schwierigkeitsgrads der Beatmap |
@@ -68,19 +70,22 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `star`, `stars` | [Sternebewertung](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Songtempo](/wiki/Music_theory/Tempo) |
 | `length` | [Länge](/wiki/Beatmap/Play_time) in Sekunden |
+| `circles` | Anzahl der Circles in der Beatmap |
+| `sliders` | Anzahl der Slider in der Beatmap |
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
-| `created` | Erstellungsdatum der Beatmap |
+| `created` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
 | `updated` | Datum, an dem die Beatmap zuletzt aktualisiert wurde |
 | `ranked` | Datum, an dem die Beatmap gerankt/approved wurde |
 
 ## Client (lazer)[^lazer-filters]
 
 | Filter | Beschreibung |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Name des Künstlers |
 | `title` | Songtitel |
 | `creator` | Name des Beatmap-Erstellers |
+| `diff` | Name des Schwierigkeitsgrads der Beatmap |
 | `ar` | [Approach-Rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle-Size](/wiki/Beatmap/Circle_size) |
 | `od` | [Allgemeine Schwierigkeit](/wiki/Beatmap/Overall_difficulty) |
@@ -89,7 +94,12 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `bpm` | [Songtempo](/wiki/Music_theory/Tempo) |
 | `length` | [Länge](/wiki/Beatmap/Play_time) in Sekunden |
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
-| `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
+| `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. Mehrere, durch Komma (`,`) getrennte Werte sind erlaubt. |
+| `lastplayed` | Die Zeit, seit der Schwierigkeitsgrad zuletzt gespielt wurde. Das gültige Format ist `#y#M#d#h#m#s`, entsprechend für Jahre, Monate, Tage, Stunden, Minuten und Sekunden. Zum Beispiel bedeutet `2d5s` "2 Tage und 5 Sekunden". |
+| `played` | Ob die Beatmap bereits gespielt wurde. Der Wert kann `yes`, `true` sowie `1` für gespielte Beatmaps oder `no`, `false` sowie `0` für ungespielte Beatmaps sein. |
+| `divisor` | Der Nenner des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
+| `submitted` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
+| `ranked` | Datum, an dem die Beatmap den Status "Ranked" erhielt |
 
 ## Beispielhafte Suchbegriffe
 
@@ -117,7 +127,28 @@ unplayed= status=r christmas
 ranked>=2010-08 ranked<2010-11 creator=Natteke
 ```
 
+(Lazer) Finde Beatmaps, die zuletzt vor maximal 2 Monaten und 5 Stunden gespielt wurden:
+
+```
+lastplayed<2M5h
+```
+
+(Lazer) Finde Beatmaps, die nicht innerhalb des letzten Jahres gespielt wurden:
+
+```
+lastplayed>1y
+```
+
+(Lazer) Finde Beatmaps der Kategorie "Ranked" und "Loved":
+
+```
+status=r,l
+```
+
 ## Referenzen
 
-[^website-filters]: [osu!web Quellcode](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [osu!(lazer) Quellcode](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^website-filters]: [osu!web Quellcode](https://github.com/ppy/osu-web/blob/58514a67d1f38e9842045615993252a8810fd50b/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^lazer-filters]: [osu!(lazer) Quellcode](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

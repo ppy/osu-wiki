@@ -1,4 +1,7 @@
 ---
+outdated_translation: true
+outdated_since: 0493b20f780959f560670b1d62b460940c0b2a18
+no_native_review: true
 tags:
   - badge
   - badges
@@ -12,7 +15,7 @@ tags:
 
 [L'équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois organisés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour pour la dernière fois le 18 janvier 2024. Pour toute question ou clarification, veuillez consulter le salon `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un courriel à [l'équipe d'assistance aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour pour la dernière fois le 17 Août 2024. Pour obtenir la liste complète des modifications, consultez le [fil de discussion sur les mises à jour du support des tournois](https://osu.ppy.sh/community/forums/topics/1715676). Pour toute question ou clarification, veuillez consulter le canal `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un e-mail à [l'équipe de support aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -30,10 +33,18 @@ Les tournois organisés par la communauté qui respectent les critères stricts 
 - La série de tournois ne doit pas avoir lieu plus de deux fois par an.
 - Le tournoi doit se dérouler au minimum selon la formule des huitièmes de finale à double élimination.
   - Des formats plus larges, tels que les phases de groupe et les groupes suisses, peuvent également être utilisés à condition qu'ils commencent avec au moins 16 équipes et, le cas échéant et s'ils ne commencent qu'avec 16 équipes, qu'ils passent ensuite à un groupe à double élimination.
+  - Les tournois qui présentent un format de draft peuvent se dérouler selon un système de double élimination en huitièmes de finale, à condition que le tournoi réponde aux critères supplémentaires suivants :
+    - Le tournoi est ouvert à tous.
+    - La taille de l'équipe est de 8 personnes ou plus.
+    - Note : Dans les tournois comportant plusieurs divisions, cette règle ne s'applique qu'à une seule division ouverte.
   - D'autres échelles et formats peuvent être autorisés à la seule discrétion du comité des tournois. Les organisateurs doivent contacter [tournaments@ppy.sh](mailto:tournaments@ppy.sh) s'ils souhaitent bénéficier d'une aide pour un format ou une taille de tournoi non traditionnels.
-- Le fil de discussion du tournoi **DEVAIT** contenir un lien clairement visible dans une police de taille normale vers le [formulaire de signalement de tournoi](https://pif.ephemeral.ink/tournament-reports) en tant que tout dernier contenu du message original.
-  - `https://pif.ephemeral.ink/tournament-reports`
+- Les fils de discussion associés au tournoi - y compris les fils de discussion relatifs aux événements préliminaires - **DOIVENT** contenir un lien clairement visible, dans une police de taille normale, vers le [formulaire de rapport de tournoi](https://tcomm.hivie.tn/reports/create) en tant que tout dernier contenu du message d'origine.
+  - `https://tcomm.hivie.tn/reports/create`
   - Ce formulaire de signalement est supervisé par le [comité des tournois](/wiki/People/Tournament_Committee). Nous encourageons tous les utilisateurs - joueurs et personnels - à utiliser ce formulaire si nécessaire. Tout manquement aux [attentes](#attentes), aux [autres procédures](#autres-procédures), ou aux conditions [d'éligibilité](#éligibilité) doit faire l'objet d'un rapport.
+- Le tournoi doit respecter les règles suivantes en matière d'utilisation du contenu :
+  - L'utilisation de toute beatmap faisant l'objet d'un avertissement DMCA, sous quelque forme que ce soit, est strictement interdite.
+  - La création ou la réutilisation de toute beatmap qui viole les [règles de permission d'utilisation du contenu](/wiki/Rules/Content_usage_permissions#autorisations-de-l'artiste) est strictement interdite, sauf si elle est **Ranked, Approved, ou Loved**.
+    - Si l'artiste autorise l'utilisation de musiques non autorisées, l'organisateur **doit** inclure la preuve de l'autorisation dans son courrier électronique à [tournaments@ppy.sh](mailto:tournaments@ppy.sh) à la fin du tournoi.
 - Le tournoi ne permet qu'aux joueurs d'un niveau exceptionnel de participer, en interdisant les joueurs dont le rang est inférieur aux rangs suivants dans chaque mode de jeu :
   - osu! : 100,000
   - osu!taiko : 10,000
@@ -41,6 +52,7 @@ Les tournois organisés par la communauté qui respectent les critères stricts 
   - osu!mania : 40,000
   - Cette disposition ne s'applique pas aux tournois ouverts autorisant tout les rangs.
 - Le tournoi doit respecter toutes les [attentes](#attentes) des tournois officiellement soutenus.
+  - Les tournois organisés en tant qu'événements préliminaires à une compétition principale doivent respecter les mêmes [attentes](#attentes) que les tournois indépendants.
 
 ## Demande de support
 
@@ -76,30 +88,49 @@ En outre, tout matériel promotionnel ou service associé à un tournoi bénéfi
 **Le tournoi doit également respecter les pratiques suivantes pendant toute sa durée :**
 
 - Tous les inscrits doivent être contrôlés par l'équipe d'assistance aux comptes avant le début du jeu.[^début-du-jeu] Voir [contrôle du tournoi](#contrôle-du-tournoi) pour plus de détails.
-- Si un utilisateur répond aux critères d'inscription (le cas échéant), le tournoi ne doit pas empêcher ceux qui ont passé la sélection de participer sans que de solides preuves ne soient présentées publiquement contre eux et sans l'approbation de l'équipe d'assistance aux comptes.
-  - Il s'agit notamment d'empêcher les utilisateurs qui sont perçus comme faisant du "sandbagging" de jouer. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas à l'aide du [formulaire de signalement de tournoi](https://pif.ephemeral.ink/tournament-reports).
+- Si un utilisateur satisfait aux critères d'inscription (le cas échéant) et n'est pas [filtré](#filtrage-et-sélection-des-inscrits) par d'autres moyens, le tournoi ne doit pas empêcher ceux qui passent le filtrage de participer sans que de nombreuses preuves ne soient présentées publiquement contre eux et sans l'approbation de l'équipe de support aux comptes.
+  - Il s'agit notamment d'empêcher les utilisateurs qui sont perçus comme faisant du "sandbagging" de jouer. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas à l'aide du [formulaire de signalement de tournoi](https://tcomm.hivie.tn/reports/create).
 - Un arbitre doit être présent lors de chaque match ou être disponible pour être appelé dans un délai minimal (2 à 5 minutes) si un logiciel automatisé a été autorisé et utilisé à des fins d'assistance. Les joueurs ne peuvent pas s'auto-arbitrer.
   - L'utilisation de bots est autorisée lors des matchs de la phase de qualification, à condition qu'elle soit supervisée par un membre de l'équipe.
 - Chaque match au sein d'un même groupe ou d'une même phase de qualification doit se dérouler dans un format cohérent. Par exemple, dans un tournoi comportant une phase de qualification et une phase de double élimination, les matchs de la phase de qualification doivent être joués soit de manière synchrone, soit de manière asynchrone, mais pas les deux à la fois.
 - Tous les matchs multijoueurs pertinents pour le tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics dans le message original du forum du tournoi ou dans une source extérieure liée au message du forum, dans un format clair et accessible.
 - Tous les changements de règles doivent être communiqués clairement à tous les participants. Ceux-ci doivent conserver les attentes mentionnées [ci-dessus](#tournois).
 
-Une fois le tournoi terminé, les organisateurs du tournoi devront soumettre les éléments suivants à l'équipe d'assistance aux comptes :
+Une fois le tournoi terminé, les organisateurs du tournoi devront soumettre les éléments suivants à l'équipe d'assistance aux comptes via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) :
 
 - Une liste des bénéficiaires des badges (c'est-à-dire les vainqueurs de votre tournoi).
 - Un badge conçu de manière appropriée ([voir ci-dessous](#badges-de-profil)).
 - Un lien vers le catalogue public de l'historique des matches de votre tournoi.
 
-#### Bots d'arbitrage
+### Logiciels
 
-L'utilisation de bots pour faciliter le déroulement des matchs des tournois officiellement soutenus est autorisée *avec quelques mises en garde pour refléter leur nature avant-gardiste*, pour autant que tout logiciel ou processus de travail applicable réponde aux exigences énumérées ci-dessous :
+Les logiciels tiers conçus pour filtrer les inscrits, sélectionner les joueurs ou automatiser le travail d'un arbitre doivent être ouverts, transparents et documentés. Tout outil tiers utilisé à ces fins doit :
 
-- Le bot doit être mis à la disposition du public sous la forme d'un dépôt à code source ouvert.
-- Le bot doit respecter les attentes définies pour les [comptes bot](/wiki/Bot_account) pour une utilisation générale dans le jeu. Les outils et logiciels liés à l'arbitrage peuvent être exécutés directement à partir du compte d'un utilisateur.
-- Si un bot est utilisé pour l'arbitrage, un arbitre humain doit toujours être disponible pour répondre aux appels à l'aide des participants dans un délai raisonnable (2 à 5 minutes), et pouvoir être appelé à distance via une commande de tchat dans le lobby lui-même (nous recommandons `!panic` comme alias global pour cela).
-- En présence d'un bot, les lobbies en cours doivent pouvoir être repris manuellement par un arbitre humain avec un minimum d'interférence, tout en conservant les journaux de jeu et de discussion antérieurs.
+- être mis à la disposition du public et de ses fonctions sous la forme d'un dépôt de données à code source ouvert.
+- Être entièrement documenté dans un format facilement lisible et digeste.
 
-L'approbation pour l'utilisation de bots d'arbitrage **doit** être accordée par l'équipe de support d'osu!. En outre, cette approbation est requise pour **chaque cas individuel où un bot d'arbitrage est utilisé**. Nous prévoyons d'assouplir certaines de ces exigences à l'avenir, au fur et à mesure que la technologie entourant ces bots se développera et que l'expérience de leur utilisation s'étoffera.
+Actuellement, l'utilisation d'un tel outil doit être **explicitement approuvée** par l'équipe d'assistance d'osu!. En outre, cette autorisation doit être accordée pour **chaque tournoi où des programmes de filtrage des inscrits, de sélection ou d'arbitrage automatisé sont utilisés**. Nous prévoyons d'assouplir certaines de ces exigences à l'avenir, au fur et à mesure que la technologie entourant ces programmes se développe et que l'expérience de leur utilisation s'accroît.
+
+### Filtrage et sélection des inscrits
+
+Le filtrage des inscrits, à ne pas confondre avec le [filtrage du tournoi](#contrôle-du-tournoi), est le processus qui consiste à utiliser un programme, un algorithme, une formule mathématique ou tout autre moyen objectif pour éliminer d'un tournoi des joueurs qui auraient pu être de bonne qualité. Ceci est couramment utilisé pour réduire la variance des compétences au sein d'un tournoi, par exemple avec [BWS](/wiki/Tournaments/Badge-weighted_seeding).
+
+En plus des attentes concernant les programmes ci-dessus, les outils ou systèmes utilisés pour filtrer les inscrits ou les joueurs doivent également respecter les pratiques suivantes :
+
+- Si un ensemble de données est utilisé, il doit être à jour, accessible au public et téléchargeable. Une documentation doit être fournie expliquant comment recréer l'ensemble de données et reproduire les résultats en l'utilisant - y compris le code le cas échéant.
+- Lors des qualifications, la formule ou la méthode utilisée pour déterminer le classement doit être incluse dans le règlement du tournoi.
+
+Un tiers devrait être en mesure d'obtenir les mêmes résultats sans avoir besoin d'informations supplémentaires. Il est strictement interdit de filtrer manuellement les joueurs ou d'ajuster leurs seeds.
+
+### Arbitrage automatisé
+
+L'utilisation d'outils d'arbitrage automatisés est autorisée *avec quelques mises en garde pour refléter leur nature avant-gardiste*. Les outils d'arbitrage automatisés, y compris les bots, peuvent être approuvés pour être utilisés dans les tournois avec badge, à condition que certaines conditions soient remplies.
+
+En plus des attentes concernant les programmes ci-dessus, les outils d'arbitrage automatisés doivent également respecter les attentes suivantes :
+
+- Les bots potentiels doivent se conformer aux attentes définies pour les [comptes bots](/wiki/Bot_account) pour une utilisation générale dans le jeu. Les outils et logiciels liés à l'arbitrage peuvent également être exécutés directement à partir du compte d'un utilisateur.
+- Un arbitre humain doit toujours être disponible pour répondre aux appels à l'aide des participants dans un délai raisonnable (2 à 5 minutes) et doit pouvoir être appelé à distance au moyen d'une commande `!panic` à l'intérieur du lobby lui-même. Lorsque cette commande est utilisée, tous les automatismes doivent s'arrêter jusqu'à ce que l'arbitre humain les relance.
+- Les lobbies en cours doivent pouvoir être repris manuellement par un arbitre humain avec un minimum d'interférence, tout en conservant les logs de jeu et de discussion antérieurs.
 
 ### Personnel
 
@@ -116,7 +147,7 @@ Les utilisateurs faisant l'objet d'une interdiction de tournoi active sont tenus
 
 À la discrétion de l'équipe d'assistance, les membres du personnel dont le comportement a directement entraîné la perte du soutien officiel d'un tournoi ne peuvent pas jouer le même rôle dans un autre tournoi avec un badge en récompense, ni en être l'hôte ou l'administrateur, pendant au moins 4 mois. Si ce délai est appliqué à un utilisateur, celui-ci en sera informé directement par l'intermédiaire de [l'équipe du tournoi](mailto:tournaments@ppy.sh).
 
-Une liste de tous les membres du staff du tournoi doit être publiquement visible dans un endroit facilement accessible. Cette liste peut être contenue dans un message du forum, sur le site web ou dans une feuille de calcul.
+Une liste de tous les membres du staff du tournoi doit être publiquement visible dans un endroit facilement accessible. Cette liste peut être contenue dans un message du forum, une page du wiki, sur un site web ou dans une feuille de calcul.
 
 ### Joueurs
 
@@ -124,7 +155,7 @@ Les participants aux tournois officiellement soutenus sont tenus de respecter le
 
 En outre, les joueurs sont censés avoir *participé raisonnablement* à un tournoi donné afin de se qualifier pour les prix qui peuvent être attribués - le simple fait de se qualifier en tant que membre d'une équipe gagnante ne suffit pas.
 
-À la discrétion de l'équipe d'assistance aux comptes, les joueurs fautifs peuvent se voir imposer des interdictions de tournoi temporaires ou permanentes en fonction de la gravité de leur comportement. Les récidivistes risquent de se voir infliger une interdiction de tournoi permanente ou une restriction.
+À la discrétion de l'équipe d'assistance aux comptes, les joueurs fautifs peuvent se voir imposer des [interdictions de tournoi](/wiki/Help_centre/Tournament_bans) à durée déterminée ou indéterminée, en fonction de la gravité de leur comportement. Les récidivistes risquent de se voir infliger une interdiction de tournoi à durée indéterminée ou une restriction.
 
 ## Autres procédures
 
@@ -168,10 +199,13 @@ Les images des badges de profil doivent respecter les spécifications suivantes 
 - Le logo, le motif ou le nom de votre tournoi doit y figurer clairement.
 - Il doit être conçu de manière propre et d'une qualité visuelle raisonnable.
 - Il ne doit pas comporter de parrainage ni promouvoir quoi que ce soit d'autre que le tournoi.
+- Tous les éléments doivent être spécifiquement créés pour le tournoi et respecter les [directives d'utilisation du contenu](/wiki/Rules/Content_usage_permissions).
+  - Cela n'inclut pas les éléments à source ouverte ou à usage public (par exemple, les polices de caractères, les icônes, etc.).
+  - Si des éléments qui n'entrent pas dans la catégorie ci-dessus sont utilisés dans un dessin ou modèle, l'approbation explicite de l'artiste original doit être fournie avant l'approbation.
 
 Veuillez consulter les exemples suivants de modèles de badges approuvés :
 
-![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/timeskip-2021@2x.png)
+![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
 Les images de badges qui ne répondent pas à ces normes seront refusées avec une justification donnée et, dans certains cas, il pourra vous être demandé de revoir complètement la conception de votre badge. Cette situation est assez rare, mais il est important d'en tenir compte.
 
@@ -194,18 +228,21 @@ Les conditions minimales requises pour demander un soutien publicitaire dans le 
 - Votre tournoi répond aux [critères d'éligibilité pour les tournois applicables](#éligibilité).
 - Le tournoi s'est déroulé avec succès pendant *au moins* deux itérations avec des badges en récompense dans le passé.
   - Des exceptions peuvent être faites à la discrétion de l'équipe d'osu! et du comité des tournois en fonction d'un certain nombre de facteurs, tels que la taille, l'étendue, la portée et la taille de l'équipe de soutien d'un tournoi donné. Un bon exemple de ce type d'exception serait un événement comme la Roundtable.
-- Les livestreams de votre tournoi actuel ont une moyenne d'audience raisonnable pour tous les modes de jeu qui y sont présentés. Les modes les plus populaires (comme osu!) devront avoir une moyenne d'audience plus élevée pour se qualifier.
-- Votre tournoi touche à sa fin (par exemple, votre tournoi est en quarts de finale ou plus et à commencé en 32e de finale).
-- Vous êtes en mesure de fournir à l'avance le calendrier des matchs et des livestreams.
 - Votre tournoi diffuse ou partage ses résultats dans un anglais clair et lisible.
 
 Si vous répondez aux critères ci-dessus, vous pouvez demander ce soutien en envoyant un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Cette demande doit inclure un historique de base de votre tournoi et de son impact sur la communauté si vous n'avez jamais reçu ce type de soutien auparavant. Veuillez également noter que ce soutien supplémentaire n'est en aucun cas garanti et qu'il est accordé à la seule discrétion de l'équipe d'osu!.
 
-Nous vous recommandons d'envoyer ces demandes le plus tôt possible pour qu'elles puissent être examinées.
+Nous vous recommandons d'envoyer ces demandes le plus tôt possible pour qu'elles puissent être examinées. Les demandes de posts de news doivent être envoyées au moins un mois à l'avance.
 
 #### Bannières du menu principal
 
-Les images de la bannière du menu principal doivent respecter les normes suivantes :
+Les tournois qui souhaitent figurer dans le menu principal doivent également remplir les conditions suivantes :
+
+- Les livestreams de votre tournoi actuel ont une moyenne d'audience raisonnable pour tous les modes de jeu qui y sont présentés. Les modes les plus populaires (comme osu!) devront avoir une moyenne d'audience plus élevée pour se qualifier.
+- Votre tournoi touche à sa fin (par exemple, votre tournoi est en quarts de finale ou plus et il a commencé en 32e de finale).
+- Vous êtes en mesure de fournir à l'avance l'horaire des matchs et des livestreams en direct.
+
+Toutes les images des bannières du menu principal doivent respecter les normes suivantes :
 
 - Le fichier soumis doit être au format **PNG**.
 - La largeur ne doit pas dépasser **1000px**. Il est possible d'utiliser des largeurs inférieures.
@@ -229,12 +266,11 @@ Ne soumettez pas de bannière de menu principal avec votre demande initiale - vo
 
 Bien que le soutien à la publicité et au partage des résultats de votre tournoi soit disponible par le biais de messages d'information, il existe des exigences supplémentaires qui doivent être prises en compte :
 
-- Seuls les messages annonçant les inscriptions et les récapitulatifs des résultats **finaux** sont actuellement autorisés.
+- Les tournois devront fournir à la fois un message pour annoncer les inscriptions et un message pour récapituler les résultats **finaux**. Les messages supplémentaires ne sont pas autorisés pour le moment.
+  - Si une annonce d'inscription est refusée mais que toutes les autres [exigences](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) sont remplies, un tournoi peut tout de même recevoir l'autorisation d'une annonce de fin de tournoi. Les hôtes et les organisateurs intéressés doivent envoyer une nouvelle demande après la fin du tournoi.
 - Si votre tournoi est limité à une région spécifique, il n'est éligible pour recevoir le soutien des news post que s'il implique un LAN (c'est-à-dire une rencontre en personne).
 
-Les tournois devront fournir leurs propres messages écrits de cette manière, et les personnes chargées de les rédiger devront s'attendre à respecter les normes des news requises par nos [critères de style des news](/wiki/News_styling_criteria).
-
-Les articles potentiels doivent être soumis bien à l'avance et seront examinés par le comité des tournois et l'équipe de news d'osu! afin de déterminer s'ils sont appropriés.
+Les demandes de soutien aux posts de news seront examinées par le comité du tournoi et l'équipe de news d'osu! afin d'en vérifier la pertinence.
 
 ## FAQ
 

@@ -225,7 +225,7 @@
 - Moved [Mr Color](https://osu.ppy.sh/users/116078) from Chat Moderators to Global Moderation Team (2013-11-16)
 - Added [ZHSteven](https://osu.ppy.sh/users/142413) to Beatmap Appreciation Team (2013-11-17) <!-- https://osu.ppy.sh/community/forums/topics/161395?start=2691021 -->
 - Added [PROGUY](https://osu.ppy.sh/users/528181) to Beatmap Appreciation Team (2013-11-17) <!-- https://osu.ppy.sh/community/forums/topics/165008?start=2690769 -->
-- Added [Roxas](https://osu.ppy.sh/users/1041833)  to Beatmap Appreciation Team (2013-11-17)
+- Added [Roxas](https://osu.ppy.sh/users/1041833) to Beatmap Appreciation Team (2013-11-17)
 - Moved [lolcubes](https://osu.ppy.sh/users/578401) from osu! Alumni to Beatmap Appreciation Team (2013-11-18) <!-- https://osu.ppy.sh/community/forums/posts/2693082 -->
 - Moved [Dangaard](https://osu.ppy.sh/users/19488) from osu! Alumni to Beatmap Appreciation Team (2013-11-24) <!-- https://osu.ppy.sh/community/forums/posts/2703864 -->
 - Moved [blissfulyoshi](https://osu.ppy.sh/users/20865) from osu! Alumni to Beatmap Appreciation Team (2013-11-24) <!-- https://osu.ppy.sh/community/forums/posts/2703982 -->

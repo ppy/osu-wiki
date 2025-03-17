@@ -6,6 +6,8 @@ tags:
   - trouble
   - missing
 no_native_review: true
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Centro di Supporto
@@ -23,7 +25,7 @@ Seleziona la sezione che corrisponde maggiormente al problema per trovare una so
 | [Beatmap e l'Editor](/wiki/Help_centre/Beatmapping) | Gestire le beatmaps, possedere le beatmap, slot beatmap |
 | [Client](/wiki/Help_centre/Client) | Bug e crash, gameplay, connessione, performance |
 | [Installazione e registrazione](/wiki/Help_centre/Installation_and_registration) | Scaricare il gioco, creare un account |
-| [Negozio](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
+| [Negozio](/wiki/Help_centre/Store) | Merchandise |
 | [Ban dai Tornei](/wiki/Help_centre/Tournament_bans) | Tutto sui Ban dai Tornei: panoramica, motivi comuni, e cooldown |
 | [Aggiornare a Lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrare alla [nuova versione principale](/wiki/Client/Release_stream/Lazer) di osu! |
 | [Sito Web](/wiki/Help_centre/Website) | Bloccare utenti, contattare il supporto, aspetto del sito |

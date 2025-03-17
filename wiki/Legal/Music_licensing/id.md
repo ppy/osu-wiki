@@ -4,32 +4,32 @@ legal: true
 
 # Lisensi musik osu!
 
-100% konten yang ada pada osu! (yang pada umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) merupakan hasil unggahan para pengguna kami. Walaupun kami telah sebisa mungkin memandu para pengguna kami untuk hanya mengunggah konten-konten yang tidak melanggar hak cipta, sering kali terdapat kasus-kasus di mana konten yang diunggah mengandung musik/karya seni yang dipergunakan tanpa restu dari para pemegang hak cipta yang bersangkutan.
+100% konten yang osu! miliki (yang pada umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) merupakan hasil unggahan pengguna. Walaupun kami telah berupaya memandu para pengguna kami untuk memperoleh izin dengan benar sebelum mengunggah, sering kali terdapat kasus di mana musik/karya seni yang diunggah tidak disertai dengan hak guna yang memadai.
 
-osu! tidak pernah secara khusus ditujukan untuk mengeruk keuntungan — kami tidak mengiklankan atau mengomersilkan konten-konten yang diunggah secara langsung, dan kami juga tidak mengeksploitasi konten-konten tersebut dari segi apapun. Meskipun demikian, kami paham bahwa hal ini sering kali dianggap tidak cukup oleh sebagian orang.
+osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklankan atau mengambil pendapatan secara langsung dari konten yang diunggah (agar konten ini tidak sampai tersalahgunakan). Meskipun demikian, kami paham bahwa hal ini sering kali masih dianggap kurang cukup.
 
-Oleh karenanya, sebagai bentuk balas jasa kami kepada para musisi yang telah membentuk osu! seperti sekarang ini, seluruh laba yang kami peroleh dari hasil donasi pengguna akan kami sisihkan kembali untuk keperluan lisensi musik. Kami senantiasa menjangkau para musisi di seluruh belahan dunia (baik yang karya-karyanya telah dipergunakan di osu! sebelumnya maupun yang belum pernah) untuk membeli hak guna karya-karya mereka dan menawarkan kesempatan bagi mereka untuk dapat bergabung ke dalam program [Featured Artist](/wiki/People/Featured_Artists) kami.
+Demi mendukung para musisi yang telah membentuk osu! seperti sekarang ini, kami menyisihkan kembali seluruh laba yang kami peroleh dari hasil donasi pengguna untuk keperluan lisensi musik. Kami terus berupaya untuk menjangkau berbagai musisi (baik yang karyanya telah dipergunakan di osu! maupun yang belum) demi memperoleh lisensi yang memadai dan memperkenalkan program [Featured Artist](/wiki/People/Featured_Artists) kami.
 
-Para musisi yang tertarik untuk bergabung dengan program Featured Artist kami dapat langsung menghubungi osu! melalui alamat email yang kami terakan di akhir artikel ini untuk menegosiasikan lisensi.
+Para musisi yang tertarik untuk bergabung ke program Featured Artist kami disarankan untuk menghubungi osu! guna menegosiasikan lisensi.
 
 ## Penggunaan musik di osu!
 
-Berhubung osu! merupakan sebuah permainan ritme (*rhythm game*), seluruh level yang dibuat oleh para pengguna kami akan berdasar pada ritme lagu-lagu yang digunakan.
+Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggahan pengguna tersinkron dengan irama lagu yang digunakan.
 
-Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh pengguna-pengguna lainnya pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan mengetikkan nama musisi, judul, atau informasi-informasi lainnya yang terkait. Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara tertentu di dalamnya.
+Para pengguna dapat mencari dan mengunduh level permainan tertentu dengan mengetikkan nama musisi, judul lagu, atau informasi lainnya yang terkait pada halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets). Pada umumnya, level yang diunduh mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek suara permainan di dalamnya.
 
-Di samping itu, pada saat suatu level hendak diunggah untuk pertama kalinya, kami akan terlebih dahulu mengingatkan pembuat level yang bersangkutan untuk memeriksa kembali apakah seluruh aset yang hendak diunggah tidak melanggar hak cipta sebagaimana yang tertera pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
+Pada saat menggunggah, para pembuat level dianjurkan untuk memperoleh izin yang memadai atas seluruh aset yang digunakan sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
 
 ## Ketentuan lisensi Featured Artist
 
-Lagu-lagu yang telah dilisensikan oleh osu! akan dapat diunduh secara gratis pada [laman Featured Artist](https://osu.ppy.sh/beatmaps/artists) dalam bentuk berkas `.osz` yang merupakan dasar (*template*) sebuah beatmap. Sistem kami akan secara otomatis menggubah pratinjau berdurasi satu menit untuk masing-masing lagu yang dapat didengarkan pada laman artis terkait. Berhubung lagu-lagu tersebut akan disediakan sebagai bahan bagi para anggota komunitas kami dalam proses pembuatan beatmap, beberapa di antaranya mungkin tidak akan langsung dipergunakan sebagai level permainan.
+Lagu yang telah dilisensi oleh osu! tersedia untuk diunduh secara bebas pada [halaman Featured Artist](https://osu.ppy.sh/beatmaps/artists) dalam bentuk berkas `.osz`, yang merupakan dasar (*template*) suatu beatmap. Masing-masing lagu akan disertai dengan pratinjau berdurasi satu menit yang dihasilkan secara otomatis dan dapat didengarkan pada halaman masing-masing musisi. Berhubung rangkaian lagu ini digunakan sebagai katalog bagi para anggota komunitas untuk membuat beatmap, sebagian lagu mungkin tidak akan digunakan sebagai konten permainan dengan segera.
 
-Kami berupaya untuk mencakup penggunaan lagu-lagu yang kami lisensi di dalam permainan kami serta situs-situs web dan konten-konten video yang terkait dengan osu!. Perlu diperhatikan bahwa hal ini tidak serta-merta mencakup izin penggunaan lagu-lagu tersebut pada *platform-platform* lainnya di luar osu! yang dapat digunakan oleh pihak-pihak lain untuk memperoleh keuntungan (semisal YouTube). Dalam kasus-kasus demikian, para musisi dapat mengajukan klausul pembagian hasil apabila dikehendaki.
+Kami berupaya untuk mencakup izin penggunaan  di dalam permainan kami, situs web yang terkait, serta konten video yang diunggah. Mohon diperhatikan bahwa hal ini tidak serta-merta meliputi izin penggunaan lebih lanjut pada platform lainnya dalam situasi yang melibatkan keuntungan. Pada kasus yang demikian, para musisi dapat meminta bagian dari keuntungan yang diperoleh (apabila platform yang bersangkutan mengizinkan, semisal pada unggahan pengguna di YouTube).
 
-osu! hanya akan menawarkan kontrak dengan ketentuan-ketentuan lisensi yang bersifat non-eksklusif (*non-exclusive terms*), yang memungkinkan lagu-lagu yang terkait untuk dapat dilisensikan kembali secara bersamaan pada *platform-platform* lainnya di kemudian waktu (kami beritikad untuk tidak membatasi penggunaan lagu-lagu yang telah kami lisensi pada *platform* kami semata). Berhubung para pengguna kami pada umumnya mengharapkan agar hasil karya mereka dapat tetap tersedia selama-lamanya, kami lebih mengutamakan lisensi yang tidak terikat waktu. Pembayaran akan diberikan dalam bentuk royalti tunggal (*once-off royalty*) yang besarnya dapat dinegosiasikan.
+osu! melisensi seluruh lagu dengan ketentuan yang bersifat non-eksklusif, yang memungkinkan lisensi yang simultan dengan platform lainnya (kami memercayai bahwa kami tidak seharusnya membatasi penggunaan lagu yang berkualitas hanya pada platform kami semata). Kami pada umumnya lebih mengutamakan lisensi yang tidak terikat waktu karena sifat penggunaan konten ini (para pengguna mengharapkan hasil karya mereka untuk tetap tersedia selama-lamanya). Pembayaran akan disediakan dalam bentuk royalti tunggal (*once-off royalty*) yang nilainya dapat dinegosiasikan.
 
 ## Kontak
 
 **Email:** [music@ppy.sh](mailto:music@ppy.sh)
 
-Apabila Anda tertarik untuk menegosiasikan lisensi atas karya-karya Anda kepada kami, harap hubungi kami melalui alamat email di atas dengan menyertakan contoh lagu-lagu yang Anda ciptakan. Kami akan mempertimbangkan apakah lagu-lagu yang Anda kirimkan sekiranya cocok dengan kebutuhan komunitas kami serta menjelaskan seputar syarat dan ketentuan lisensi yang berlaku secara lebih rinci.
+Apabila Anda tertarik untuk menegosiasikan lisensi atas karya Anda di dalam lingkungan osu!, silakan hubungi kami melalui alamat email di atas dengan menyertakan sampel lagu yang Anda ciptakan. Kami akan memutuskan apakah lagu Anda cocok untuk osu! dan menjelaskan ketentuan lisensi yang berlaku.

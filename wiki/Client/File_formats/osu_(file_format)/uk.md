@@ -1,3 +1,8 @@
+---
+outdated_since: 18bc8cacbc8b5a3dbed527ddc9f385e630ea2666
+outdated_translation: true
+---
+
 # .osu (формат файлу)
 
 **`.osu`** - це придатний до читання людиною формат файлу, що зберігає інформацію про бітмапу.

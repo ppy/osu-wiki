@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 17a70f697c1315b87938b74b3cf43b9649a5a8fb
+outdated_translation: true
 ---
 
 # Onglet Compose
@@ -191,9 +193,9 @@ La partie gauche de la fenêtre sample import répertorie tous les échantillons
 | :-- | :-- |
 | `Play` | Joue l'échantillon sélectionné. |
 | `Import` | Ajoute d'autres échantillons au dossier de la beatmap à partir d'autres emplacements. |
-| `Sample` | Ajoute l'échantillon sélectionné en tant [qu'événement audio du storyboard](/wiki/Storyboard/Scripting/Audio) à l'heure actuelle. |
+| `Delete` | Supprime le fichier audio. |
 | `Apply` | Applique l'échantillon sélectionné à la note sélectionnée. |
-| `Sample` | Ajoute l'échantillon sélectionné en tant qu'événement du storyboard à l'heure actuelle. |
+| `Sample` | Ajoute l'échantillon sélectionné en tant [qu'événement audio du storyboard](/wiki/Storyboard/Scripting/Audio) à l'heure actuelle. |
 | `Sample list` | Affiche [les événements sonores dans le storyboard](#sample-events-list). |
 | `Reset` | Supprime l'échantillon personnalisé de la note sélectionnée. |
 | `Cancel` | Ferme la fenêtre. |

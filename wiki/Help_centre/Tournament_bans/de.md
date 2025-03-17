@@ -1,3 +1,9 @@
+---
+outdated_translation: true
+outdated_since: 342bb3f3b7dafa4a7d4871e36ceba76c93ad4775
+no_native_review: true
+---
+
 # Turniersperren
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
@@ -50,6 +56,9 @@ Informationen über den Status deiner Turniersperre können Turnierveranstaltern
 
 | Grund der Turniersperre | Zeitraum | Bemerkungen |
 | :-- | :-- | :-- |
+| Verletzung der Community-Regeln innerhalb eines Turniers | 1 Monat oder mehr | Kann nach dem Ermessen des Account-Support-Teams möglicherweise auch länger sein |
+| Missachtung des Personals und Zeitverschwendung | 1 Monat oder mehr |  |
+| Multi-Accounting oder Betrug eines anderen Spielers während eines Turniers ermöglichen | 6 Monate oder mehr |  |
 | Fehlverhalten eines Spielers während eines offiziell unterstützten Turniers | 1 bis 2 Jahre |  |
 | Zurückkehren im Rahmen des üblichen Beschwerdeverfahrens | 1 bis 2 Jahre | Kann nach Ermessen des Account-Support-Teams länger sein |
 | Multi-Accounting oder Teilen des Accounts während eines offiziell unterstützten Turniers | Dauerhaft | Wird auch zu einer Einschränkung führen |

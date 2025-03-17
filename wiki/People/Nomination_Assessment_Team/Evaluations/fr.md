@@ -26,6 +26,10 @@ Pour les Beatmap Nominators titulaire qui n'ont pas reçu d'avertissement récen
 
 La durée entre les évaluations est automatiquement programmée par le [site web des BN](https://bn.mappersguild.com/). Toutefois, s'il existe des raisons sérieuses de s'inquiéter des performances d'un BN à une date antérieure, les membres de la NAT peuvent également programmer manuellement une évaluation à une date plus rapprochée que la normale.
 
+Un BN peut voir l'état d'avancement de son évaluation grâce à une barre de progression dans son profil sur le site web des BN.
+
+![Barre de progression de l'état de l'évaluation](img/progress-bar.png "Barre de progression de l'état de l'évaluation")
+
 Tout comme les candidatures, les évaluations des BN en cours sont attribuées de manière aléatoire à 3 évaluateurs et seront annoncées dans les canaux Discord NAT des modes respectifs.
 
 ### Phase individuelle
@@ -36,28 +40,32 @@ La phase individuelle sera affichée sur le site web des BN deux semaines avant 
 
 Lorsque trois membres de la NAT auront soumis leur évaluation, celle-ci passera à la phase de groupe. Au cours de la phase de groupe, les membres de la NAT discuteront entre eux de leurs évaluations, parviendront à un consensus et rédigeront un retour d'information sur l'évaluation. Les résultats et les commentaires varieront en fonction du BN. S'il s'avère qu'un BN n'est pas à la hauteur, il peut recevoir un avertissement ou être placé en période de probation, en fonction de la gravité du problème.
 
-Une fois le feedback écrit et revu, il sera envoyé et accompagnera les éventuels changements de groupe nécessaires si le BN passe du probatoire à titulaire, ou vice versa. Le feedback sera transmis par le [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) sous forme de [message d'annonce](/wiki/Announcement_messages).
+Une fois les commentaires rédigés et examinés, ils seront envoyés et accompagneront tout changement de [groupe d'utilisateurs](/wiki/People/User_group) nécessaire. Les commentaires seront transmis par le [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) sous la forme d'un [message d'annonce](/wiki/Announcement_messages).
 
-Les avertissements et les probations en raison de performances insuffisantes en tant que Beatmap Nominator titulaire sont effectifs pendant environ une année. Si un BN a des problèmes récurrents après avoir été averti ou mis en probation récemment, il peut être exclu de la liste des Beatmap Nominators lors des prochaines évaluations.
+Les avertissements dus à des performances insuffisantes en tant que Beatmap Nominator à part entière sont effectifs pendant environ une année. Si un BN a des problèmes récurrents après avoir été averti récemment, il peut être retiré de la liste des Beatmap Nominators lors d'évaluations futures.
 
 ## Évaluations spéciales
 
-### Activité
-
-L'activité de chaque Beatmap Nominator est vérifiée automatiquement par le site des BN le 1er de chaque mois. S'il s'avère qu'il y a des nominateurs qui ne remplissent pas les conditions d'activité, ils seront signalés et affichés dans le canal NAT de leur mode respectif pour que les membres du NAT puissent les examiner par le bot Discord "bnsite". L'examen portera sur le fait de savoir si le BN a posté un avis d'absence récemment, et sur une double vérification pour s'assurer que la vérification du site web est exacte par rapport au statut d'activité du BN.
-
-S'il s'avère que le BN ne respecte pas l'activité, il sera averti ou exclu selon la gravité. Les Beatmap Nominators qui ont été exclu pour activité de cette manière peuvent postuler à nouveau sans aucun cooldown, à condition qu'ils aient au moins 3 mods au lieu de 2 pour montrer qu'ils sont redevenus actifs en tant que modder.
-
 ### Démissions
 
-Les Beatmap Nominators peuvent démissionner du groupe à tout moment via le site web des BN. Lorsque cela se produit, trois membres de la NAT seront chargés d'évaluer une dernière fois le nominateur, afin de déterminer si la démission se fait en "bons" termes ou en termes "standards". Cette évaluation a lieu dans un délai de 24 heures et est annoncée aux membres de la NAT dans leur canal Discord respectif. Les Beatmap Nominators qui démissionnent en bons termes peuvent être en mesure d'accélérer leur retour en tant que BN titulaire s'ils choisissent de postuler à nouveau dans un délai d'un an après leur démission. Ceux qui démissionnent dans des conditions normales devront recommencer en probation s'ils réussissent leur nouvelle demande.
-
-En règle générale, les évaluations de bonne et de moyenne durée sont relativement simples. Les Beatmap Nominators qui n'ont pas été récemment avertis ou mis en probation, et qui n'étaient pas sur le point d'être avertis pour des problèmes, démissionneront généralement en bons termes. Les conditions normales sont généralement utilisées pour les nominateurs qui ont été récemment avertis, qui sont en probation ou qui étaient sur le point d'être avertis pour des problèmes lors de leur prochaine évaluation.
+Les Beatmap Nominators peuvent démissionner du groupe à tout moment via le site web des BN. Dans ce cas, trois membres de la NAT sont chargés d'évaluer une dernière fois le nominateur, afin de déterminer si la démission est en "bons" termes ou en "mauvais" termes. Cette évaluation a un délai de 24 heures et est annoncée aux membres de la NAT dans leur channel Discord respectif.
 
 Une fois qu'un consensus sur les conditions de la démission aura été atteint, la NAT enverra au BN un message d'annonce via le [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) l'informant de son statut et de la date à laquelle il pourra, s'il le souhaite, présenter une nouvelle demande pour devenir BN.
 
-### Évaluations fictives
+#### Bons termes
 
-En plus des évaluations du BN par les membres de la NAT, des évaluations fictives peuvent également être données aux Beatmap Nominators pour les évaluations des nouvelles candidatures au BN. Dans le cadre de ces évaluations fictives, les nominateurs soumettront des évaluations individuelles en même temps que la NAT, mais cela ne déterminera pas le résultat final de la demande, à moins que les évaluateurs de la NAT ne parviennent pas à un consensus. Pour les évaluations fictives auxquelles ils ont participé, les nominateurs pourront lire les évaluations individuelles dans un format anonyme une fois que l'application sera archivée.
+Les Beatmap Nominator qui n'ont pas fait l'objet d'un récent avertissement ou d'une mise à l'épreuve, et qui n'étaient pas sur le point de faire l'objet d'un avertissement pour des problèmes, démissionneront généralement en bons termes.
 
-Les évaluations fictives permettent à la NAT de repérer les futurs membres de la NAT, ainsi Beatmap Nominators de voir comment la NAT évalue les candidatures et d'apprendre d'eux si l'adhésion à la NAT à l'avenir est quelque chose qui les intéresse. Il n'y a donc aucune conséquence à ne pas les compléter.
+Le statut de bon terme permet aux anciens nominateurs de retrouver rapidement leur statut de BN à part entière s'ils décident de présenter à nouveau leur candidature dans l'année qui suit leur démission. Si la démission remonte à plus d'un an, les conditions normales s'appliqueront.
+
+#### Termes standards
+
+Une démission de durée normale est émise pour les nominateurs qui ont été récemment avertis, qui sont en probation ou qui étaient sur le point d'être avertis pour des questions relatives à leur prochaine évaluation de BN.
+
+Les nominateurs qui démissionnent dans des conditions normales devront présenter une nouvelle demande pour devenir BN après une période de réflexion de 60 jours s'ils souhaitent réintégrer le groupe, et ils devront repartir de la période de probation s'ils ne réussissent pas leur nouvelle demande.
+
+### Activité
+
+Lors de la création d'une évaluation d'un Beatmap Nominator, son activité sera automatiquement vérifiée par le site des BN. Si elle ne remplit pas les [exigences minimales](/wiki/People/Beatmap_Nominators/Rules#activité), alors l'évaluation sera automatiquement déplacée à la phase de groupe et aura son consensus fixé à un avertissement d'activité ou à une exclusion, en fonction de l'activité. Ensuite, un membre de la NAT vérifiera le bien-fondé de cette évaluation, et l'enverra s'il n'y a pas de problème.
+
+Si un Beatmap Nominator revient d'une démission en bons terme et qu'il n'a pas atteint son activité minimale dans les 30 premiers jours, une nouvelle évaluation sera créée selon la même procédure que ci-dessus, le consensus étant fixé à une exclusion.

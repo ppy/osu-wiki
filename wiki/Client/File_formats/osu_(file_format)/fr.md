@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # .osu (format de fichier)
 
 **`.osu`** est un format de fichier lisible par l'homme contenant des informations sur une beatmap.
@@ -278,10 +274,7 @@ Il existe quatre types de courbes de slider dans osu! :
 - **Linéaire (L):** Ces courbes forment une ligne droite entre tous leurs points.
 - **Cercle parfait (P):** Les courbes en cercle parfait sont limitées à trois points (y compris la position de l'objet) qui définissent les limites d'un cercle. Si l'on utilise plus de trois points, le type de courbe devient bézier.
 
-Si la `longueur` du slider est plus longue que la courbe définie, le slider s'étendra jusqu'à ce qu'il atteigne la longueur cible :
-
-- Pour les courbes de Bézier, de Catmull et les courbes linéaires, elle se poursuit en ligne droite à partir de l'extrémité de la courbe.
-- Pour les courbes en cercle parfait, il continue l'arc de cercle.
+Si la `longueur` du slider est plus longue que la courbe définie, le slider s'étendra en ligne droite à partir de la fin de la courbe jusqu'à ce qu'il atteigne la longueur cible.
 
 *Remarque : La `longueur` du slider peut être utilisée pour déterminer le temps nécessaire pour compléter le slider. `longueur/(MultiplicateurSlider* 100 * SV) * LongueurBeat` indique combien de millisecondes il faut pour compléter un slide du slider (où `SV` est le multiplicateur de vitesse du slider donné par le point de timing hérité effectif, ou `1` s'il n'y en a pas).*
 

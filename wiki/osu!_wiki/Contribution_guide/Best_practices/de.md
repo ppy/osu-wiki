@@ -1,8 +1,3 @@
----
-outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
-outdated_translation: true
----
-
 # Bewährte Methoden
 
 Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledigen sind. Die hier verfolgten Ansätze sind dazu gedacht, den Prozess einfacher zu machen und können auch auf andere Projekte angewandt werden, die auf GitHub oder einer ähnlichen Plattform untergebracht sind.
@@ -35,27 +30,17 @@ Wenn du während der Verwendung des GitHub-Tools auf irgendwelche Probleme stö�
 
 1. Öffne **deine Verzweigung** und gehe zum Tab `Actions`.
 
-2. Schaue unter `Workflows` nach `Sync from osu! upstream`.
+2. Schaue auf der linken Seitenleiste nach `Sync with ppy:master`.
 
 3. Klicke auf `Run workflow` und fülle die Optionen aus:
 
-   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
-
-   ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+   ![Screenshot des Formulars auf der GitHub-Webseite, das unten beschrieben wird](img/github-actions-workflow-dispatch.png "Workflowmenü der GitHub-Action")
 
    - **Use workflow from**: Name des Branches, der synchronisiert werden soll. Standardmäßig ist das auf `master` eingestellt.
-   - **Overwrite any changes in the target repository**:
-     - `true`: Ersetzt den Inhalt deines Branches mit einer sauberen Kopie des Branches `master` aus `ppy/osu-wiki`.
-     - `false` (Standard): Führt deine Änderungen mit denen von `ppy/osu-wiki` zusammen.
-   - **Create a backup of your target branch**:
-     - `true`:  Erstellt einen Branch namens `backup-{Name deines Branches}`, bevor der ursprüngliche Branch verändert wird.
-     - `false` (Standard): Kreiert keine Backups.
+   - **Create a backup of the selected branch**: Erstellt eine Kopie deines Branches namens `{Name des Branches}-backup`, bevor der ursprüngliche Branch verändert wird.
+   - **Overwrite all history of the selected branch**: Ersetzt den ausgewählten Branch mit dem Branch `ppy:master`, wodurch alle neuen Commits des ausgewählten Branches verworfen werden. Standardmäßig werden die Änderungen mit denen von `ppy:master` zusammengeführt.
 
-4. Klicke auf den Button `Run Workflow` und warte ab, bis der Workflow abgeschlossen ist. Wenn du wissen möchtest, wie das Tool funktioniert, klicke auf die Workflow-Aufgabe `Sync from osu! upstream`.
-
-   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
-
-   ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+4. Klicke auf den Button `Run Workflow` und warte ab, bis der Workflow abgeschlossen ist. Wenn du wissen möchtest, wie das Tool funktioniert, klicke auf die Workflow-Aufgabe `Sync with ppy:master`.
 
 ## Änderungen vornehmen
 

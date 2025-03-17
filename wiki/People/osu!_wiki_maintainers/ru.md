@@ -4,7 +4,7 @@
 
 Администраторы следят за [трекером задач](https://github.com/ppy/osu-wiki/issues) osu! wiki, а также проверяют правки (пулл-реквесты) от всех желающих. В отличие от остальных пользователей, администраторы могут редактировать чужие пулл-реквесты и применять их к ветке `master`, чтобы изменения были всем видны.
 
-Если у вас есть вопросы по редактированию вики, или вам нужно ревью, обращайтесь в канал `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/osu!_Discord_server), и вам ответит кто-нибудь из участников (все администраторы знают английский).
+Если у вас есть вопросы по редактированию вики, или вам нужно ревью, обращайтесь в канал `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official), и вам ответит кто-нибудь из участников (все администраторы знают английский).
 
 ## Администраторы вики
 
@@ -13,7 +13,7 @@
 | Профиль osu! | Профиль GitHub | Статус | Дополнительные языки |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Неактивен |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Активен** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | Неактивен |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Активен** | Арабский |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Неактивен |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Неактивен | Испанский |

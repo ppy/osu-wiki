@@ -1,20 +1,20 @@
 # Komunitas
 
-Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang terjadi di komunitas osu!. Jika kamu mencari cara berkontribusi tetapi belum tahu harus mulai dari mana, kamu dapat membaca artikel [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!) untuk mengetahui cara berkontribusi.
+Halaman ini menerakan berbagai cara bagi orang-orang dari seluruh penjuru komunitas osu! untuk saling berinteraksi satu sama lain. Apabila kamu ingin berkontribusi namun tidak tahu harus memulai dari mana, kunjungi halaman [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!).
 
 ## Tempat
 
+- [Server Discord komunitas](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [Server Discord komunitas](/wiki/Community/Discord_servers)
-- [Server Discord osu!](/wiki/Community/osu!_Discord_server)
+- [Server Discord osu!](/wiki/Community/Discord_servers#official)
 - [Organisasi](/wiki/Community/Organisations)
 
 ## Proyek
 
-*Lihat juga: [Daftar seluruh proyek](/wiki/Community/Projects)*
+*Lihat juga: [Daftar proyek selengkapnya](/wiki/Community/Projects)*
 
-- [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+- [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
 - [osu!monthly](/wiki/Community/osu!monthly)
@@ -24,6 +24,11 @@ Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang 
 
 - [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
+
+## Media
+
+- [Lagu ciptaan khusus](/wiki/Community/Bespoke_music)
+- [Manga](/wiki/Community/Manga)
 - [Serial video](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)

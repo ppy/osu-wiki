@@ -41,21 +41,24 @@ outdated_since: 9614c00afb2d756879c172ff071d00e16959bbec
 
 Во всех соревнованиях по маппингу, указанных на [странице конкурсов сообщества](https://osu.ppy.sh/community/contests), — например, [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) и [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), — фигурируют только песни из программы Featured Artists. Это же требование есть и в некоторых неофициальных конкурсах.
 
-Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/osu!_Discord_server).
+Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
 
 Если вы обнаружили какие-то ошибки в затаймленных файлах `.osz` из базы Featured Artists, пожалуйста, сообщите о них в [специальном треде](https://osu.ppy.sh/community/forums/topics/783985).
 
 ## Исполнители, играющие в osu!
 
-Участников программы Featured Artists, имеющих аккаунт в osu!, можно узнать по бирюзовому [титулу](/wiki/Community/User_title) "Featured Artist", а также по [значку группы](/wiki/People/User_group), на котором написано `FA`.
+Участников программы Featured Artists, имеющих аккаунт в osu!, можно узнать по бирюзовому [титулу](/wiki/Community/User_title) "Featured Artist", а также по [значку группы](/wiki/People/User_groups), на котором написано `FA`.
 
 Актуальный список пользователей — всегда на странице группы: [Featured Artist](https://osu.ppy.sh/groups/35). Полный список самих исполнителей можно найти тут: [листинг Featured Artist](https://osu.ppy.sh/beatmaps/artists).
 
 | Пользователь | Исполнитель |
 | :-- | :-- |
+| ::{ flag=US }:: [\_Xyris\_](https://osu.ppy.sh/users/11246193) | [Xyris](https://osu.ppy.sh/beatmaps/artists/433) |
+| ::{ flag=GB }:: [633397](https://osu.ppy.sh/users/11392390) | [633397](https://osu.ppy.sh/beatmaps/artists/419) |
 | ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
+| ::{ flag=US }:: [Absolute Zero](https://osu.ppy.sh/users/4847256) | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ::{ flag=AU }:: [aquellex](https://osu.ppy.sh/users/3137790) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
@@ -67,6 +70,7 @@ outdated_since: 9614c00afb2d756879c172ff071d00e16959bbec
 | ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
+| ::{ flag=CA }:: [exyl_sounds](https://osu.ppy.sh/users/16759928) | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) |
 | ::{ flag=GR }:: [Geoxor](https://osu.ppy.sh/users/8112146) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
 | ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (участник) |

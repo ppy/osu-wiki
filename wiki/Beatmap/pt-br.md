@@ -93,7 +93,7 @@ Jogadores de osu! entre todos os modos de jogo usam beatmaps para [subir de rank
 - Ranking por país composto por jogadores de uma mesma bandeira;
 - Ranking de amigos que mostra a posição de um jogador em relação a seus amigos.
 
-O top 500 em cada dificuldade tem [replays](/wiki/Gameplay/Replay), que podem ser assistidos online ou salvos para exibição posterior em uma tabela de classificação local.
+O top 1000 em cada dificuldade tem [replays](/wiki/Gameplay/Replay), que podem ser assistidos online ou salvos para exibição posterior em uma tabela de classificação local.
 
 ### Charts e Spotlights
 

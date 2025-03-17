@@ -2,7 +2,7 @@
 
 *Main page: [Help centre](/wiki/Help_centre)*
 
-A tournament ban prevents a player from being involved in officially supported tournaments in any capacity. This includes playing and staffing or any other kind of assistance.
+A tournament ban prevents a player from playing in official or officially supported tournaments. It also limits to what extent a player can staff or otherwise offer assistance in these tournaments.
 
 Tournament bans are very rarely handed out on their own, but generally speaking almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
 
@@ -14,7 +14,7 @@ Any severe violation of the [community rules](/wiki/Rules) that takes place duri
 
 As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (swastika, etc.) using cursor smoke in streamed matches.
 
-All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/The_Team/Account_support_team).
+All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/Account_support_team).
 
 ## What causes someone to receive an indefinite tournament ban? {id=why-permanent}
 
@@ -38,11 +38,13 @@ Indefinite tournament bans may be appealed after at least **two years** (24 mont
 
 Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside writing an appeal should be expected for any earnest chance of success.
 
-In rare situations, the [account support team](/wiki/People/The_Team/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
+In rare situations, the [account support team](/wiki/People/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
 
 ## What can I do while tournament-banned? {id=while-banned}
 
 You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organising such events.
+
+You may still staff in officially supported tournaments by streaming, commentating, or designing graphics at the host's discretion. If you wish to help with other tasks, the host of the tournament you wish to help in MUST request an exemption in their initial request for support. Depending on the reason and severity of the infringement, and with your history in mind, the [account support team](/wiki/People/Account_support_team) may then allow this.
 
 Information about your tournament ban status may be provided to tournament organisers upon request, whether they are benefitting from official support or not.
 
@@ -50,6 +52,9 @@ Information about your tournament ban status may be provided to tournament organ
 
 | Tournament ban reason | Duration | Notes |
 | :-- | :-- | :-- |
+| Community rules violation within a tournament | 1 month or more | May be longer at the account support team's discretion |
+| Disrespecting staff or wasting time | 1 month or more |  |
+| Enabling another player's multi-accounting or cheating during a tournament | 6 months or more |  |
 | Player misconduct during an officially supported tournament | 1-2 years |  |
 | Returning under standard appeal terms | 1-2 years | May be longer at the account support team's discretion |
 | Multi-accounting or account sharing during an officially supported tournament | Indefinite | Will also cause a restriction |

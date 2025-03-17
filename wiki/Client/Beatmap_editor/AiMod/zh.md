@@ -129,8 +129,8 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 | 消息 | 解释 | 解决方案 | 注意 |
 | :-- | :-- | :-- | :-- |
 | [堆叠判定值 (Stack leniency)](/wiki/Beatmap/Stack_leniency) 高于 0.9 或低于 0.3。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中高级 (Advanced) 标签页下的 `Stack Leniency` 滑块对应值小于 3 或大于 9。 | 将 `Stack Leniency` 值设定为 3 到 9 之间。 | 如果有意这样使用堆叠判定值，则可忽略此警告。 |
-| 艺术家名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Artist` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria#元数据)为 `Romanised Artist` 字段填写罗马音艺术家名。 |  |
-| 标题名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Title` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria#元数据)为 `Romanised Title` 字段填写罗马音标题名。 |  |
+| 艺术家名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Artist` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria/Metadata)为 `Romanised Artist` 字段填写罗马音艺术家名。 |  |
+| 标题名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Title` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria/Metadata)为 `Romanised Title` 字段填写罗马音标题名。 |  |
 | osu!mania 模式不允许使用倒计时 (countdown)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Enable countdown` 选项。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
 | osu!mania 模式不允许使用黑边 (letterbox)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Letterbox during breaks` 选项。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
 | 太鼓模式不允许使用倒计时 (countdown)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Enable countdown` 选项。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。尽管游戏中存在此警告， osu!taiko 也不支持倒计时，但 AiMod 不会显示此警告。 |

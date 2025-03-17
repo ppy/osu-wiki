@@ -659,7 +659,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 ### 资格赛介绍
 
 1. 资格赛阶段中，每个选手需要游玩 8 张由图池管理员定制的谱面组成的图池。
-2. 资格赛图池包含8张谱面，均应用 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 规则，谱面类型分别为:
+2. 资格赛图池包含8张谱面，均应用 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(free-mod)) 规则，谱面类型分别为:
    - Rice: 3 张
    - LN: 2 张
    - Hybrid: 2 张
@@ -751,7 +751,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
    - 常规赛第三轮和第四轮使用图池 2
    - 十六强赛和四分之一决赛使用图池 3
    - 半决赛和决赛使用图池 4
-2. 每轮图池的所有谱面都是在[FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod))条件下游玩。
+2. 每轮图池的所有谱面都是在[FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(free-mod))条件下游玩。
 3. 每轮图池的数量如下:
    - 资格赛: 8 张
    - 图池 1 & 图池 2: 15 张

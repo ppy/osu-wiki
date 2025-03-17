@@ -7,7 +7,7 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 - [Community-Discord-Server](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [osu! Discord-Server](/wiki/Community/osu!_Discord_server)
+- [osu! Discord-Server](/wiki/Community/Discord_servers#offiziell)
 - [Offline-Organisationen](/wiki/Community/Organisations)
 
 ## Projekte
@@ -24,6 +24,11 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 
 - [osu! Community Meetings](/wiki/Community/osu!_community_meetings)
 - [osu! Talk-Event](/wiki/Community/osu!_Talk_Event)
+
+## Medien
+
+- [Für osu! produzierte Musik](/wiki/Community/Bespoke_music)
+- [Manga](/wiki/Community/Manga)
 - [Videoserien](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)

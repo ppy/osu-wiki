@@ -1,9 +1,9 @@
 # Redacción
 
 *Para los estándares de formato, véase: [Criterios de estilo para artículos/Formato](../Formatting)*\
-*Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
+*Aviso: Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
 
-Este artículo se refiere a los estándares de escritura del español. Consulte la versión en inglés de esta página para conocer los estándares de escritura de los artículos en inglés.
+Este artículo se refiere a los estándares de escritura del español. Consulta la versión en inglés de esta página para conocer los estándares de escritura de los artículos en inglés.
 
 Todos los artículos en español deben usar español simple.
 
@@ -36,7 +36,7 @@ Para ambos registros, se deben seguir todas las reglas de esta parte del criteri
 Los nombres de los artículos, cuando están escritos en un párrafo, no deben escribirse con mayúscula, a menos que sea un enlace que apunta al artículo o sea un nombre propio (por ejemplo, BanchoBot). Lo siguiente es un ejemplo:
 
 ```markdown
-Si desea obtener más información sobre el chat, consulte [Consola de chat](/wiki/Client/Interface/Chat_console).
+Si quieres obtener más información sobre el chat, consulta [Consola de chat](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Modificadores del juego
@@ -60,7 +60,7 @@ Los modificadores del juego deben tener la palabra `mod` después del nombre del
 - `Target Practice` o `TP`
 - `Spun Out` o `SO`
 - `1K`, `2K`, `3K`, `4K`, `5K`, `6K`, `7K`, `8K` y `9K`
-  - Si se refiere a los mods de teclas colectivamente, utilice `xK`.
+  - Si se refiere a los mods de teclas colectivamente, usa `xK`.
 - `Co-op` o `CO`
 - `Random` o `RD`
 - `Mirror` o `MR`
@@ -71,7 +71,7 @@ Los modificadores del juego deben tener la palabra `mod` después del nombre del
 
 ---
 
-Estos modificadores del juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
+Estos modificadores del juego ya no están siendo usados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
 
 - `Fade Out`
 - `No Video`
@@ -80,7 +80,7 @@ Estos modificadores del juego ya no están siendo utilizados por osu!; sin embar
 
 ---
 
-Al escribir modificadores del juego para artículos de torneos, deben usar mayúsculas (omita el espacio y mantenga las mayúsculas como se ve arriba).
+Al escribir modificadores del juego para artículos de torneos, deben usar mayúsculas (omite el espacio y mantén las mayúsculas como se ve arriba).
 
 ### Elementos del juego
 
@@ -146,7 +146,7 @@ El formato de hora se debe hacer usando el siguiente formato:
 HH:MM ZONA HORARIA
 ```
 
-La hora se escribe en formato de 24 horas y cualquier dígito individual debe tener un prefijo cero. La zona horaria debe escribirse inmediatamente después de la hora y debe estar en UTC+0 para eventos globales o en la zona horaria del evento para eventos más pequeños. Utilice `UTC` en lugar de `GMT`.
+La hora se escribe en formato de 24 horas y cualquier dígito individual debe tener un prefijo cero. La zona horaria debe escribirse inmediatamente después de la hora y debe estar en UTC+0 para eventos globales o en la zona horaria del evento para eventos más pequeños. Usa `UTC` en lugar de `GMT`.
 
 Malos ejemplos:
 
@@ -185,7 +185,7 @@ Buen ejemplo:
 
 ## osu!
 
-Al mencionar el juego en sí o cualquiera de los proyectos o términos relacionados, siga las [pautas de identidad de la marca](/wiki/Brand_identity_guidelines#osu!). Usa nombres propios de los modos de juego, como `osu!taiko`, excepto cuando se encuentre en un contexto histórico.
+Al mencionar el juego en sí o cualquiera de los proyectos o términos relacionados, sigue las [pautas de identidad de la marca](/wiki/Brand_identity_guidelines#osu!). Usa nombres propios de los modos de juego, como `osu!taiko`, excepto cuando se encuentre en un contexto histórico.
 
 ### Títulos de usuario
 
@@ -196,7 +196,7 @@ Los títulos de usuario que incluyen `osu!` como parte del nombre del título de
 
 ### osu! en una frase
 
-- `osu!` no debe terminar una oración. Si es así, use un punto (`.`) o un signo de interrogación para obtener `osu!.` o `osu!?`.
+- `osu!` no debe terminar una oración. Si es así, usa un punto (`.`) o un signo de interrogación para obtener `osu!.` u `osu!?`.
 - `osu!` no debe ir seguido de un signo de exclamación (es decir, `osu!!`), reescribe la oración si es necesario.
 
 ## Terminología
@@ -205,7 +205,7 @@ Estas palabras deben escribirse de la siguiente manera (los espacios deben coinc
 
 - `círculo de aproximación`
 - `modo de juego` (o `modo`)
-- `modificador de juego` (o `mod`)
+- `modificador del juego` (o `mod`)
 - `juego`
 - `hit burst`
 - `círculo`
@@ -229,16 +229,16 @@ Algunas palabras tienen variantes. Se debe usar su ortografía preferida y es la
 
 Estas palabras deben escribirse de la siguiente manera (los espacios deben coincidir):
 
-- `NoMods`, `NoMod`, o `NM`
-- `FreeMods`, `FreeMod`, o `FM`
-- `Tiebreaker`
+- `No Mod` o `NM`
+- `Free Mod` o `FM`
+- `Desempate`
 
 ## Abreviaturas, acrónimos e iniciales
 
 Las abreviaturas, acrónimos e iniciales deben tener su significado escrito en su primera aparición. Otras ocurrencias son opcionales, pero se realizan solo cuando es necesario. Lo siguiente es un ejemplo:
 
 ```markdown
-El mod NC (Nightcore) es similar al mod DT (Double Time) porque tanto NC como DT aumentan la velocidad de la música en un 50%. Sin embargo, NC cambiará el tono de la música y agregará un clap y un finish al ritmo.
+El mod NC (Nightcore) es similar al mod DT (Double Time) porque tanto NC como DT aumentan la velocidad de la música en un 50 %. Sin embargo, NC cambiará el tono de la música y agregará un clap y un finish al ritmo.
 ```
 
 Las abreviaturas, acrónimos e iniciales deben escribirse con mayúscula, salvo excepción. Los siguientes son ejemplos:
@@ -253,7 +253,7 @@ Las abreviaturas, acrónimos e iniciales deben escribirse con mayúscula, salvo 
 Las abreviaturas, acrónimos e inicialismos no deben ser pluralizados. Lo siguiente es un ejemplo:
 
 ```markdown
-Evite:  Los BNs pueden nominar tu beatmap.
+Evita:    Los BNs pueden nominar tu beatmap.
 
 Prefiere: Los Beatmap Nominators pueden nominar tu beatmap.
 ```
@@ -262,7 +262,7 @@ Prefiere: Los Beatmap Nominators pueden nominar tu beatmap.
 
 `jugador`, `usuario`, `skinner`, `storyboarder` y `creador` deben usarse cuando se hace referencia al lector u otra persona. `ellos`, `su` y `sus` pueden usarse cuando sea necesario.
 
-`tu` debe ser evitado. No se debe usar `yo`. `nosotros`, `él` y `ella` no deben usarse (ver arriba para otros términos).
+Se debe evitar el uso de `tú` y `tu`. No se debe usar `yo`. No se debe usar `nosotros`, `él` y `ella` (consulta arriba para otros términos).
 
 ---
 
@@ -274,7 +274,7 @@ Los artículos deben preferir usar una gramática y sintaxis española más simp
 
 ### Contracciones
 
-No se deben utilizar las contracciones.
+No se deben usar contracciones.
 
 Los [artículos con registros informales](#registro-del-lenguaje) pueden usar contracciones; sin embargo, el uso debe ser constante a lo largo de todo el artículo.
 
@@ -294,11 +294,11 @@ Se debe usar la coma en serie, también conocida como coma de Oxford o Harvard.
 
 ### Raya
 
-Consulte el [artículo sobre las rayas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/raya). Al puntuar una oración, use rayas (`—`), no signos menos (`−`). No se deben usar guiones (`‑`) en lugar de rayas.
+Consulta el [artículo sobre las rayas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/raya). Al puntuar una oración, usa rayas (`—`), no signos menos (`−`). No se deben usar guiones (`‑`) en lugar de rayas.
 
 ### Citas
 
-Consulte el [artículo sobre las comillas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/comillas#3):
+Consulta el [artículo sobre las comillas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/comillas#3):
 
 Del «Diccionario panhispánico de dudas»:
 
@@ -308,16 +308,16 @@ Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatiza
 
 ### Cita en bloque
 
-Al citar texto de alguien, especifique la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#citas-en-bloque) con una raya (`—`). Si la cita original es de una fuente que no está en español, especifíquela entre paréntesis.
+Al citar texto de alguien, especifica la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#citas-en-bloque) con una raya (`—`). Si la cita original es de una fuente que no está en español, especifíquela entre paréntesis.
 
 ```markdown
-> pls disfrutar juego
+> pls disfruta el juego
 
 —rrtyui (traducido del {idioma})
 ```
 
-En general, la fuente de la cita debe especificarse por encima de ella. Consulte la [sección anterior](#citas) para ver un ejemplo. Cuando se cita un artículo escrito o de otro tipo, y no necesariamente a una persona específica, no es necesario especificar el autor debajo de la cita.
+En general, la fuente de la cita debe especificarse por encima de ella. Consulta la [sección anterior](#citas) para ver un ejemplo. Cuando se cita un artículo escrito o de otro tipo, y no necesariamente a una persona específica, no es necesario especificar el autor debajo de la cita.
 
 ## Pronunciación
 
-La pronunciación escrita debe utilizar el [Alfabeto Fonético Internacional](https://es.wikipedia.org/wiki/Transcripción_fonética_del_español_con_el_Alfabeto_Fonético_Internacional).
+La pronunciación escrita debe usar el [Alfabeto Fonético Internacional](https://es.wikipedia.org/wiki/Transcripción_fonética_del_español_con_el_Alfabeto_Fonético_Internacional).

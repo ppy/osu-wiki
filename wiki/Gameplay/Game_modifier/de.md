@@ -18,6 +18,7 @@ tags:
 
 # Spielmodifikationen
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Spielmodifikationen (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
 *Für andere Bedeutungen, siehe [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
 
 ![Modauswahl](img/mod-selection-screen-DE.jpg "Vergleich der Modauswahl zwischen den Spielmodi osu! (oben links), osu!taiko (oben rechts), osu!catch (unten links) und osu!mania (unten rechts)")
@@ -75,13 +76,13 @@ Neben jeder der unten aufgeführten Modifikation werden die Symbole für die kom
 
 ### Verwandte Begriffe
 
-#### NoMod
+#### No Mod
 
-In [Turnierspielen](/wiki/Tournaments) bezieht sich **NoMod** (***NM***) darauf, keine Mods zu nutzen. Bei vielen Turnieren müssen einige Mods standardmäßig als Teil der Regeln oder des Formats verwendet werden, wie z. B. [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) oder [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), die eine Ausnahme zu diesem Konzept darstellen.
+In [Turnierspielen](/wiki/Tournaments) bezieht sich **No Mod** (***NM***) darauf, keine Mods zu nutzen. Bei vielen Turnieren müssen einige Mods standardmäßig als Teil der Regeln oder des Formats verwendet werden, wie z. B. [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) oder [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), die eine Ausnahme zu diesem Konzept darstellen.
 
-#### FreeMod
+#### Free Mod
 
-In [Turnierspielen](/wiki/Tournaments) bezieht sich **FreeMod** (***FM***) darauf, dass die Mods oder Modkombinationen freigewählt werden können. Einige Turniere sehen ebenfalls Regeln vor, die zusätzliche Kriterien bestimmen, wie z. B. welche Mods erlaubt sind und in welchen Kombinationen oder ob es erlaubt ist, keine Mods zu nutzen, wenn FreeMod festgelegt ist.
+In [Turnierspielen](/wiki/Tournaments) bezieht sich **Free Mod** (***FM***) darauf, dass die Mods oder Modkombinationen freigewählt werden können. Einige Turniere sehen ebenfalls Regeln vor, die zusätzliche Kriterien bestimmen, wie z. B. welche Mods erlaubt sind und in welchen Kombinationen oder ob es erlaubt ist, keine Mods zu nutzen, wenn Free Mod festgelegt ist.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

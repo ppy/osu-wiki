@@ -6,7 +6,6 @@ tags:
   - genre
   - langage
   - métadonnées
-no_native_review: true
 ---
 
 # Genre et langue
@@ -21,16 +20,16 @@ Le genre et la langue n'ont aucune fonction dans le jeu, mais seront disponibles
 
 ![Les filtres disponibles sur la liste des beatmaps](img/beatmap-listing-FR.png?1)
 
-La [liste des beatmap](https://osu.ppy.sh/beatmapsets) peut être filtrée en fonction du genre et de la langue dans le menu déroulant `Plus de critères de recherche`.
+La [liste des beatmaps](https://osu.ppy.sh/beatmapsets) peut être filtrée en fonction du genre et de la langue dans le menu déroulant `Plus de critères de recherche`.
 
 ## Changer le genre et la langue d'une beatmap
 
-Le genre et la langue peuvent être modifiés sur le site web en cliquant sur l'icône en forme de crayon lorsque l'on survole les détails d'une beatmap. La possibilité de le faire est déterminée par les [groupes d'utilisateurs](/wiki/People/User_group) de l'utilisateur et la [catégorie](/wiki/Beatmap/Category#catégories-actuelles) de la beatmap :
+Le genre et la langue peuvent être modifiés sur le site web en cliquant sur l'icône en forme de crayon lorsque l'on survole les détails d'une beatmap. La possibilité de le faire est déterminée par les [groupes](/wiki/People/User_group) de l'utilisateur et la [catégorie](/wiki/Beatmap/Category#catégories-actuelles) de la beatmap :
 
-- Les propriétaires de mapsets sont autorisés lorsque la beatmap est dans les catégories [WIP](/wiki/Beatmap/Category#wip-and-pending), [En attente](/wiki/Beatmap/Category#wip-and-pending), ou [Cimetière](/wiki/Beatmap/Category#graveyard), et qu'elle n'a pas de [nominations](/wiki/Beatmap_ranking_procedure#nominations).
-- Les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) sont autorisés lorsque la beatmap est dans les catégories [qualifié](/wiki/Beatmap/Category#qualified), WIP, ou En attente.
-- Les membres du [Project Loved Team](/wiki/People/Project_Loved_Team) sont autorisés lorsque la beatmap est dans la catégorie [Loved](/wiki/Beatmap/Category#loved).
-- Les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) et de la [Global Moderation Team](/wiki/People/Global_Moderation_Team) sont autorisés pour toutes les catégories.
+- Les propriétaires de mapsets peuvent les modifier lorsque la beatmap est dans les catégories [WIP](/wiki/Beatmap/Category#wip-and-pending), [En attente](/wiki/Beatmap/Category#wip-and-pending), ou [Cimetière](/wiki/Beatmap/Category#graveyard), et qu'elle n'a pas de [nominations](/wiki/Beatmap_ranking_procedure#nominations).
+- Les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) peuvent les modifier lorsque la beatmap est dans les catégories [qualifié](/wiki/Beatmap/Category#qualified), WIP, ou En attente.
+- Les membres du [Project Loved Team](/wiki/People/Project_Loved_Team) peuvent les modifier lorsque la beatmap est dans la catégorie [Loved](/wiki/Beatmap/Category#loved).
+- Les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) et de la [Global Moderation Team](/wiki/People/Global_Moderation_Team) peuvent les modifier dans toutes les catégories.
 
 Une beatmap ne peut pas être [nominée](/wiki/Beatmap_ranking_procedure#nominations) si elle a le genre ou la langue `Non spécifié`.
 
@@ -38,7 +37,7 @@ Une beatmap ne peut pas être [nominée](/wiki/Beatmap_ranking_procedure#nominat
 
 | Genre | Caractéristiques des musiques applicables |
 | :-- | :-- |
-| Non spécifié | Aucune musique n'est applicable. Ce genre est un substitut jusqu'à ce qu'un genre approprié soit défini. |
+| Non spécifié | Aucune musique n'est valable. Ce genre est un substitut jusqu'à ce qu'un genre approprié soit défini. |
 | Jeux vidéo | Réalisé pour ou rendu populaire par un jeu vidéo. Ce terme est également utilisé pour les arrangements et les remixes de ces musiques. |
 | Anime | Réalisé pour ou rendu populaire par un anime ou un média similaire. |
 | Rock | Principalement axé sur les guitares, la batterie et la basse, typiquement "construit sur une base de rythmes syncopés simples" et caractérisé par "des performances en direct et un accent mis sur des thèmes sérieux et progressifs" ([*Musique rock* sur Wikipédia](https://fr.wikipedia.org/wiki/Rock#Caract%C3%A9ristiques)). |

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # .osr（文件格式）
 
 **.osr** 是一种用于存储 osu! 回放信息的文件格式。只有这个回放文件所指定的谱面存在于 "Songs" 文件夹中，才可以正常播放回放。
@@ -76,7 +80,7 @@
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | 总是和 DT 模组一起开启：512 + 64 = 576 |
+| Nightcore | 512 (9) | 总是和 DT 模组一起开启：512 + 64 = 576，取代未使用的 Taiko 模组 |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |

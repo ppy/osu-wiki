@@ -217,8 +217,8 @@ Manche Wörter haben Varianten. Ihre bevorzugte Schreibweise ist wie folgt:
 
 Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen):
 
-- `NoMods`, `NoMod` oder `NM`
-- `FreeMods`, `FreeMod` oder `FM`
+- `No Mod` oder `NM`
+- `Free Mod` oder `FM`
 - `Tiebreaker`
 
 ### Übersetzungen für häufige Begriffe

@@ -284,7 +284,7 @@ Saturday, 4 September 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **eternum**  ::{ flag=RO }:: | **7** | 4 | ::{ flag=RO }:: \_AfterWind | [#1](https://osu.ppy.sh/community/matches/90384246) |
+| **eternum** ::{ flag=RO }:: | **7** | 4 | ::{ flag=RO }:: \_AfterWind | [#1](https://osu.ppy.sh/community/matches/90384246) |
 | cristi2708 ::{ flag=RO }:: | 1 | **7** | ::{ flag=RO }:: **L9 ELOVATOR** | [#1](https://osu.ppy.sh/community/matches/90391055) |
 
 Sunday, 5 September 2021:
@@ -500,7 +500,7 @@ Monday, 2 August 2021:
 ### Mappools
 
 1. There will be separate mappools for each round. Their difficulty will increase after each week of the knockout stage, while the qualifiers mappool will have a balanced difficulty, relative to the overall difficulty of the bracket stage mappools.
-2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), ForceMod, and a Tiebreaker. Only exception is the qualifier stage which will not feature ForceMod or Tiebreaker maps.
+2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), ForceMod, and a Tiebreaker. Only exception is the qualifier stage which will not feature ForceMod or Tiebreaker maps.
 3. Mod rules:
    - ForceMod: Both players must choose at least one of the Hidden, HardRock, Flashlight or EZ mods, or any of their valid combinations.
    - Tiebreaker: both players can, but are not forced to choose at least one of the Hidden, HardRock, Flashlight, EZ mods, or any of their valid combinations. This map cannot be picked by the players and will only be used as the decisive map whenever in a knockout stage match two players are tied with one point left to play.

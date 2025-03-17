@@ -4,7 +4,7 @@
 
 관리자는 보통 GitHub의 [문제 보고](https://github.com/ppy/osu-wiki/issues)를 확인하며, 기여자가 신청한 Pull Request를 검토합니다. 다른 기여자들과는 다르게 관리자는 Pull Request를 수정할 수 있으며, 문서를 해당 위키 문서의 `master` 브랜치에 추가시키고, 변화된 부분을 공개하는 역할을 담당합니다.
 
-만약 당신이 위키에 기여하시는 데 도움이 필요하거나 검토가 필요하시다면, [osu! 디스코드 서버](/wiki/Community/osu!_Discord_server)에 있는 `#osu-wiki` 채널에 메시지를 보내주세요. 그러면 관리자, 또는 다른 기여자분들께서 답변해드리실 거예요. (모든 기여자분은 영어를 사용합니다. 그러니 되도록 영어를 사용해 주세요.)
+만약 당신이 위키에 기여하시는 데 도움이 필요하거나 검토가 필요하시다면, [osu! 디스코드 서버](/wiki/Community/Discord_servers#official)에 있는 `#osu-wiki` 채널에 메시지를 보내주세요. 그러면 관리자, 또는 다른 기여자분들께서 답변해드리실 거예요. (모든 기여자분은 영어를 사용합니다. 그러니 되도록 영어를 사용해 주세요.)
 
 ## 위키 관리자
 
@@ -13,7 +13,7 @@
 | osu! 계정 | GitHub 계정 | 활동 상태 | 추가 언어 사용 여부 |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | 활동 중이 아님 |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **활동 중** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | 활동 중이 아님 |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **활동 중** | 아랍어 |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | 활동 중이 아님 |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | 활동 중이 아님 | 스페인어 |

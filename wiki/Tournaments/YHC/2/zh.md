@@ -298,7 +298,7 @@ tags:
 ### 图池
 
 1. 一个阶段只会有一个图池。
-2. 每个图池都拥有固定的 4 个模组池：[No Mod](/wiki/Gameplay/Game_modifier#无模组-(nomod))、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Double Time](/wiki/Gameplay/Game_modifier/Double_Time)、[FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)).
+2. 每个图池都拥有固定的 4 个模组池：[No Mod](/wiki/Gameplay/Game_modifier#无模组-(no-mod))、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Double Time](/wiki/Gameplay/Game_modifier/Double_Time)、[FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(free-mod)).
 3. 图池所含的赛图数量：
    - 小组赛 (Round 1) 和淘汰赛第一轮 (Round 2)：14 张谱面：6 HD、2 NM、2 DT、3 FM、1 TB
    - 淘汰赛第二轮 (Round 3)：16 张谱面：7 HD、2 NM、3 DT、3 FM、1 TB

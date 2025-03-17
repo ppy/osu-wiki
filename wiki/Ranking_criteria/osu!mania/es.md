@@ -2,13 +2,13 @@
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ## Glosario
 
-### Nombre de las dificultades
+### Nombres de las dificultades
 
-*Artículo principal: [Nombramiento de dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
+*Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -18,7 +18,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 
 ### Términos comunes
 
-- **BPM**: Tempo de una canción medido en pulsos por minuto.
+- **BPM**: Tempo de una canción medido en pulsaciones por minuto.
 - **Columna**: Líneas verticales del [campo de juego](/wiki/Game_mode/osu!mania#campo-de-juego) donde se colocan las notas. Ten en cuenta que las [marcas de tiempo del editor](/wiki/Modding/Timestamp) se refieren a las columnas por su posición indexada a cero, comenzando por la izquierda.
 - **Modo de teclas**: El número de columnas presentes en una dificultad.
 - **Estilo de juego**: La [combinación de teclas](/wiki/Game_mode/osu!mania#controles) o posición de manos intencionada por un mapper para jugar una dificultad.
@@ -26,7 +26,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
   - Ejemplos de estilos de juego estándar: 4K, 7K, 10K
   - Ejemplos de estilos de juego no estándar: 7K+1, 10K2S, 14K DP
 - **Estilo de juego N+1**: Un tipo específico de estilo de juego donde la columna más a la izquierda se asigna independientemente del resto de las columnas, que de otro modo forman un estilo de juego estándar.
-- **Keysounding**: Hitsounding usando muestras extremadamente similares o directamente de la canción en sus respectivos lugares. Este método de hitsounding normalmente proporciona poca retroalimentación al jugador.
+- **Keysounding**: Hitsounding usando muestras extremadamente similares o directamente de la canción en sus respectivos lugares. Este método de hitsounding normalmente proporciona poco apoyo al jugador.
 - **Velocidad del slider**: La velocidad a la que se mueven las notas/líneas del compás en el campo de juego. La velocidad base del slider (1,0x) se basa en la velocidad de desplazamiento del usuario, y cambios adicionales se pueden hacer a través de los puntos de tiempo no heredados (verdes).
 - **Velocidad del slider a largo plazo**: Un cambio de velocidad del slider que dura más de 4 pulsos.
 - **Frase musical**: Unidad independiente de métrica musical que suele tener 4 compases de longitud.
@@ -55,11 +55,11 @@ Consulta la [guía de mapping de osu!mania](/wiki/Guides/osu!mania_mapping_guide
 
 ## General
 
-Reglas y pautas generales se aplican a todos los tipos de dificultades de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM)
+Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Reglas
 
-- **El mod `Auto` debe ser capaz de alcanzar la puntuación máxima (1 000 000) en todas las dificultades.**
+- **El mod `Auto` debe ser capaz de alcanzar la puntuación máxima (1 000 000) en todas las dificultades.**
 - **No pueden colocarse dos notas en una misma columna con la misma marca de tiempo.**
 - **Ninguna columna puede quedar vacía.** Si quieres usar menos teclas, cambia el número de teclas en Song Setup.
 - **No puede haber más de 6 notas pulsadas en un momento dado en dificultades Insane o inferiores.** El uso de más de 6 notas también debe seguir un intervalo razonable hasta la siguiente dificultad inferior. Esta regla no se aplica a los finales de las notas largas, ya que se sueltan, no se pulsan.
@@ -69,9 +69,9 @@ Reglas y pautas generales se aplican a todos los tipos de dificultades de osu!ma
 - **Cada [estilo de juego no estándar](#términos-comunes) presente en un beatmap debe indicarse en las etiquetas del beatmap.**
 - **Las dificultades que usen un [estilo de juego N+1](#términos-comunes) deben activar la opción `Use special style (N+1 style) for mania` en la pestaña `Advanced` de la ventana `Song Setup`. El beatmap también debe incluir la etiqueta «N+1».** A efectos de esta regla, solo los estilos de juego con un cantidad de teclas inferior a 10 pueden considerarse «N+1».[^n-plus-1]
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cualquier dificultad es...**
-  - **... inferior a 2:30**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Normal o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 4 dificultades.
-  - **... entre 2:30 y 3:15**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Hard o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 3 dificultades.
-  - **... entre 3:15 y 4:00**, each [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Insane o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 2 dificultades.
+  - **... inferior a 2:00**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Normal o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 4 dificultades.
+  - **... entre 2:00 y 2:45**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Hard o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 3 dificultades.
+  - **... entre 2:45 y 3:30**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Insane o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 2 dificultades.
 
 ### Pautas
 
@@ -83,9 +83,9 @@ Reglas y pautas generales se aplican a todos los tipos de dificultades de osu!ma
 - **Evita usar hitsounds muestreados en el storyboard con un volumen similar al de los hitsounds en las notas.** Dado que los hitsounds en el storyboard pueden sobrecargar y distorsionar la retroalimentación de audio de los objetos en el beatmap, debe darse prioridad a la colocación de los hitsounds en una nota. Sin embargo, las muestras en el storyboard pueden usarse cuando los keysounds se extraen directamente de una canción y cuando las dificultades bajas tienen muy pocas notas para soportar los hitsounds necesarios.
 - **No uses keysounds sin el soporte de un hitnormal.** Si los hitsounds se mezclan perfectamente con la canción, la retroalimentación al golpear las notas es mínima. Sin embargo, cuando se usan keysounds extraídos directamente de una canción para sustituir el audio de la misma, no necesitan soporte de un hitnormal.
 - **Evita usar el mismo hitsound para múltiples notas en un chord.** Esto provoca que la retroalimentación sea más fuerte de lo necesario. Esto también se aplica a los hitsounds activos y a los hitsounds del storyboard usados en la misma marca de tiempo.
-- **Los cambios de tiempo deben tener una velocidad de desplazamiento unificada ajustando la velocidad del slider.** Esto se hace normalizando la velocidad de desplazamiento de todas las secciones de tiempo a la más usada en el beatmap. El número se muestra entre paréntesis después del rango de BPM en la selección de canción, p. ej. `BPM: 60-160 (130)`. Ten en cuenta que esta pauta no afecta a la posibilidad de añadir cambios de velocidad de los sliders, que se usan para crear efectos de SV.
+- **Los cambios de tiempo deben tener una velocidad de desplazamiento unificada ajustando la velocidad del slider.** Esto se hace normalizando la velocidad de desplazamiento de todas las secciones de tiempo a la más usada en el beatmap. El número se muestra entre paréntesis después del rango de BPM en la selección de canción, p. ej. `BPM: 60-160 (130)`. Ten en cuenta que esta pauta no afecta a la posibilidad de añadir cambios de velocidad de los sliders, que se usan para crear efectos de SV.
 - **Los cambios de velocidad del slider deben seguir la intensidad general de la canción.**
-- **Los cambios de velocidad del slider deben ajustarse a la estructura de compás de la canción.** Si la estructura de la canción usa una métrica derecha, se debe usar 1/4, 1/8, 1/16. Si la canción usa la métrica de swing, se debe usar 1/6 o 1/12. Si la canción tiene un pulso en una posición diferente a la recomendada, el ajuste a un pulso real siempre tiene prioridad.
+- **Los cambios de velocidad del slider deben ajustarse a la estructura de compás de la canción.** Si la canción usa un compás cuaternario, se debe usar 1/4, 1/8, 1/16. Si la canción usa un compás ternario, se debe usar 1/6 o 1/12. Si la canción tiene un pulso en una posición diferente a la recomendada, el ajuste a un ritmo adecuado siempre tendrá prioridad.
 - **Evita el spam de segmentos cortos de tiempo kiai.** Hacerlo puede distraer y afectar negativamente a la jugabilidad.
 - **Las pausas solo deben usarse cuando una sección de la música es extremadamente tranquila o silenciosa.** En las dificultades más bajas, especialmente en las canciones con un BPM más alto, se pueden usar pausas para evitar partes de la canción que no sean razonables para los nuevos jugadores.
 

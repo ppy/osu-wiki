@@ -1,4 +1,6 @@
 ---
+tags:
+  - TC
 no_native_review: true
 outdated_translation: true
 outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
@@ -10,7 +12,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 他們的任務包括：
 
-- 管理[賽事回報表單](https://pif.ephemeral.ink/tournament-reports)的回報
+- 管理[賽事回報表單](https://tcomm.hivie.tn/reports/create)的回報
 - 對錦標賽進行觀察，並依個案向[帳號支援團隊](/wiki/People/Account_support_team)提出建議
 - 定期審查[官方賽事支援](/wiki/Tournaments/Official_support)頁面，在必要時進行修訂
 
@@ -31,6 +33,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)

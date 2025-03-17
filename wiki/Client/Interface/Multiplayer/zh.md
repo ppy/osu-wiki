@@ -97,7 +97,7 @@ needs_cleanup: true
 
 ![](img/multi-match-header.jpg "头栏例图")
 
-头栏左上角的文字会指出玩家的身份（房主或普通玩家）；中间部分有个玩家框，显示与[表现分](/wiki/Performance_points/Total_performance_points)、[整体准确率](/wiki/Gameplay/Accuracy)、[等级](/wiki/Gameplay/Score/Total_score#level)、[排名](/wiki/Ranking#performance-points-ranking)以及所选[游戏模式](/wiki/Game_mode)相关的信息；右侧还有一个按钮，用来暂停目前正在播放的歌曲。
+头栏左上角的文字会指出玩家的身份（房主或普通玩家）；中间部分有个玩家框，显示与[表现分](/wiki/Performance_points/Total_performance_points)、[整体准确率](/wiki/Gameplay/Accuracy)、[等级](/wiki/Gameplay/Score/Total_score#等级)、[排名](/wiki/Ranking#performance-points-ranking)以及所选[游戏模式](/wiki/Game_mode)相关的信息；右侧还有一个按钮，用来暂停目前正在播放的歌曲。
 
 ### 当前玩家列表
 

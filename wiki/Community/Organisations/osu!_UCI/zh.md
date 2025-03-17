@@ -1,4 +1,5 @@
 ---
+outdated: true
 tags:
   - 加利福尼亚州
   - 大学

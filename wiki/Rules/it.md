@@ -1,3 +1,8 @@
+---
+outdated_since: 218cb353a5cb04575555aa5d0c33fd5e5de209d7
+outdated_translation: true
+---
+
 # Regole
 
 Queste regole sono la base da cui attingiamo per aiutare a mantenere la community di osu! un posto divertente e accogliente per tutti.
@@ -5,7 +10,7 @@ Queste regole sono la base da cui attingiamo per aiutare a mantenere la communit
 ## Regole della community
 
 1. **Ogni giocatore può avere solo *UN* account, sempre.** Il *primo* account che fai durante la registrazione dell'account è il tuo unico e solo account osu!, dal momento della sua creazione e per sempre. Questo account sei TU. Non è nessun altro - non tuo fratello, tua madre, tua sorella, il tuo amico - sei TU. Non condividere il tuo account con nessun altro. Non puoi crearne uno nuovo se ne perdi l'accesso. Tienilo al sicuro.
-2. **Gioca correttamente.** Utilizzare programmi di terze parti di qualsiasi tipo per ottenere qualsiasi tipo di vantaggio non va bene. Ciò include cose come programmi macro, programmi di assistenza alla mira, modifiche ai tuoi record salvati e così via. Se un programma sta facendo qualcosa per aiutarti nel gioco a fare qualcosa che dovresti fare da solo, non va bene!
+2. **Gioca correttamente.** Utilizzare programmi di terze parti di qualsiasi tipo per ottenere qualsiasi tipo di vantaggio non va bene. Ciò include cose come programmi di assistenza alla mira, modifiche alla scala temporale e così via. Programmi macro, associazioni di tasti, o hardware in cui un'azione fisica (ad esempio premere un tasto della tastiera) non corrisponde alla stessa azione in gioco sono analogamente proibiti.[^macros] Se un programma sta facendo qualcosa per aiutarti nel gioco a fare qualcosa che dovresti fare da solo, non va bene!
 3. **Sii buono l'uno con l'altro.** Le molestie o altri antagonismi non hanno posto nella community di osu!. Siamo qui per cliccare cerchi, battere tamburi, raccogliere frutta e colpire fino a diciotto tasti contemporaneamente, non per darci fastidio ed offenderci l'uno con l'altro.
 4. **Non essere un cretino.** Se in un qualsiasi momento ti stai chiedendo se stai infrangendo questa regola, probabilmente è così.
 5. **Siamo una community di tutte le età.** Ciò significa che i contenuti 18+/[NSFW](https://it.wikipedia.org/wiki/NSFW) come l'uso di droghe ed argomenti di natura sessuale non sono i benvenuti qui.
@@ -51,17 +56,21 @@ Se ti ritrovi nella parte sbagliata delle regole della comunità, accadranno cos
 
 Queste cose brutte possono includere (*ma non sono limitate a*):
 
-- La rimozione della tua capacità di chattare nel gioco per un periodo di tempo (noto come [silenzio](/wiki/Silence))
+- La rimozione della tua capacità di chattare nel gioco per un periodo di tempo (noto come [silenzio](/wiki/Help_centre/Silences))
 - La rimozione di qualsiasi contenuto illegale dalla tua pagina utente, profilo o beatmap caricati
 - La perdita del privilegio di modificare o alterare la tua pagina utente o i dettagli del profilo
 - La perdita del privilegio di giocare o qualificarsi nei tornei ospitati ufficialmente
 
-Venir [Silenziato](/wiki/Silence) e altre violazioni **automaticamente** aumentano in durata quasi esponenziale con ogni violazione. I moderatori non controllano il periodo di tempo in cui sei messo a tacere per un reato - i recidivi si ritroveranno chiusi fuori dal gioco per periodi di tempo sempre più lunghi.
+Venir [Silenziato](/wiki/Help_centre/Silences) e altre violazioni **automaticamente** aumentano in durata quasi esponenziale con ogni violazione. I moderatori non controllano il periodo di tempo in cui sei messo a tacere per un reato - i recidivi si ritroveranno chiusi fuori dal gioco per periodi di tempo sempre più lunghi.
 
-Alcuni reati hanno una durata minima (in genere 42 ore o più) se sono particolarmente severi, sebbene siano quasi esclusivamente riservati a gravi infrazioni, come la condivisione di contenuti grafici o molestie incessanti di altri utenti.
+Alcuni reati hanno una durata minima (in genere 43 ore o più) se sono particolarmente severi, sebbene siano quasi esclusivamente riservati a gravi infrazioni, come la condivisione di contenuti grafici o molestie incessanti di altri utenti.
 
 Se dopo diverse infrazioni continui a violare le regole, il tuo account potrebbe essere [permanentemente e irrevocabilmente ristretto](/wiki/Help_centre/Account_restrictions).
 
 Gli account ristretti non possono giocare online, inviare punteggi, chattare con altri utenti e sono a tutti gli effetti "banditi" dall'interazione con la comunità. La restrizione per la violazione delle regole della comunità può essere rimossa solo dopo aver fatto ricorso allo staff di supporto dopo il trascorrimento di 3 mesi ([si applicano più condizioni](/wiki/Help_centre/Account_restrictions#reasons)).
 
 I reati gravi che vanno ben oltre la portata delle nostre regole e nella giurisdizione dei contenuti illegali secondo la common law internazionale comporteranno la chiusura immediata dell'account. Ciò si applica quasi esclusivamente a reati estremamente grafici o altrimenti aberranti, come la distribuzione di materiale pedopornografico o altro materiale di abuso.
+
+## Note
+
+[^macros]: Assegnare altri tasti a K1 o K2 è consentito, purché premendo un tasto specifico si esegua una pressione sul tasto di gioco assegnato e rilasciando lo stesso tasto si esegua un rilascio sullo stesso tasto di gioco assegnato. Non è consentito assegnare una pressione a un rilascio, né far sì che un tasto esegua più di una coppia di pressione/rilascio.

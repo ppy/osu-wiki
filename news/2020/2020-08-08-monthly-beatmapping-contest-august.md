@@ -6,7 +6,7 @@ date: 2020-08-08 11:00:00 +0000
 
 Curious how your circle placing prowess holds up? With August comes yet another heated beatmapping competition!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The Monthly Beatmapping Contest (*MBC*) undergoes frequent changes, so check out the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) if you need to catch up.
 

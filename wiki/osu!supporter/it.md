@@ -2,11 +2,13 @@
 tags:
   - supporter tag
   - osu!supporter tag
+outdated_since: 53463c9d5a611e5d8b38f68b00f48b7983225576
+outdated_translation: true
 ---
 
 # osu!supporter
 
-![Immagine promozionale di osu!supporter](img/supporter-eyecatch.jpg)
+[![Immagine promozionale di osu!supporter](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (o il **tag osu!supporter**) è un titolo temporaneo conferito ai giocatori che supportano osu! tramite donazioni monetarie volontarie per aiutarne lo sviluppo. I supporter ricevono una serie di benefici estetici e pratici, la maggior parte dei quali sono attivi solo quando il titolo è presente. Le funzionalità extra di osu!supporter non danno alcun vantaggio nel gioco, nelle prestazioni o nei punteggi e non lo faranno mai.
 
@@ -17,11 +19,11 @@ Il tag osu!supporter può essere ottenuto dalla sua [pagina del negozio](https:/
 ### Emblema a cuore
 
 ::: Infobox
-![](img/userpage.png?1 "Profilo con osu!supporter")
+![](img/userpage.png?20241103 "Profilo con osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "Carta utente con osu!supporter")
+![](img/usercard-IT.png?20241022 "Carta utente con osu!supporter")
 :::
 
 I supporter ottengono una emblema con dei cuori, che può essere trovato accanto al loro nome utente sul sito web. La quantità di cuori dipende dalla durata dell'osu!supporter che l'utente ha acquisito o ricevuto in totale<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -55,7 +57,16 @@ I supporter possono personalizzare ulteriormente il loro profilo impostando un'i
 - Premere l'icona a forma di matita nell'angolo in basso a destra del posto riservato alla copertina.
 - Selezionare una nuova copertina tra alcune opzioni predefinite o caricare un'immagine personalizzata (le sue dimensioni dovrebbero essere 2400x640).
 
-Una volta che l'osu!supporter scade, la copertina rimarrà, ma non potrà essere modificata.
+Alla scadenza dell'osu!supporter, la copertina rimarrà, ma non potrà essere modificata.
+
+### Colore del profilo
+
+Come per le copertine, i supporter possono modificare il colore del proprio profilo:
+
+- Premi sull'icona a matita nell'angolo della copertina in basso a destra.
+- Modificare il colore del profilo altera quello di quasi tutti i componenti della pagina, inclusi il banner, i pulsanti, i collegamenti, e il testo.
+
+Alla scadenza dell'osu!supporter, il colore personalizzato rimarrà, ma potrà essere solamente ripristinato a quello predefinito.
 
 ### Un cambio nome utente gratuito
 

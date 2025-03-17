@@ -79,4 +79,17 @@ Five (5) songs were selected from the Featured Artist library. These songs were 
 | [Omoi](https://osu.ppy.sh/beatmaps/artists/104) - Ohne Herz | 3:26 | 210 | [.osz](https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz) |
 | [MuryokuP](https://osu.ppy.sh/beatmaps/artists/120) - My Savior | 2:49 | 190 | [.osz](https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.osz) |
 | [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244) - Ziqqurat | 3:52 | 163 | [.osz](https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.osz) |
-| [Rohi](https://osu.ppy.sh/beatmaps/artists/82) - Hitotsu no Chikai yo, Eien no Uta to Nare | 3:39 | 225 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
+| [Rohi](https://osu.ppy.sh/beatmaps/artists/82) - Hitotsu no Chikai yo, Eien no Uta to Nare | 2:35 | 130 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
+
+## Results
+
+| Rank | Mapper | Anonymised map name | Raw score (600) | Standardised score |
+| :-: | :-- | :-- | :-- | :-- |
+| #1 | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | grew forth | 478 | **6.7** |
+| #2 | [Pho](https://osu.ppy.sh/users/3624692) | near student | 476 | **6.1** |
+| #3 | [Rorupan L9](https://osu.ppy.sh/users/9471638) | heading save | 458 | **5.2** |
+| Honorable Mention | [AndAda](https://osu.ppy.sh/users/10574844) | old hang | 458 | **4.7** |
+
+Get the maps and see detailed scores and judge comments for all the entries [here](https://mappersguild.com/contests/results?contest=647aee2825010a34c8badd15).
+
+Results were livestreamed on the [VAT Twitch Channel](https://www.twitch.tv/vocaloidappreciationteam), along with judge commentary, Judge Favorites, and more.

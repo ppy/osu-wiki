@@ -22,7 +22,7 @@ acronym = OWC
 
 Verändere die Datei `tournament.cfg` nicht, während osu! läuft. Schließe osu! und editiere oder füge die gewünschten Optionen zu den oberen Zeilen hinzu:
 
-- `TeamSize`: Die Anzahl der Spieler pro Team. Der Client wird sich mit 1 bis 8 Fenstern pro Team öffnen, abhängig von diesem Wert. Der maximale Wert ist aufgrund von Bandbreitenbegrenzung bei [Bancho](/wiki/Bancho_(server)) auf 8 angesetzt, dies kann aber temporär für zuschauende Nutzer durch eine Anfrage unter [tournaments@ppy.sh](mailto:tournaments@ppy.sh) erhöht werden.
+- `TeamSize`: Die Anzahl der Spieler pro Team.
 - `ClientNameSize`: Die Größe der Spielernamen.
 - `privateserver`: Lasse dies unberührt.
 - `acronym`: Eine Abkürzung für das Turnier. Dies hat Auswirkungen auf die erforderliche Namensgebung für die Turnierräume, weitere Informationen findest du im [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).

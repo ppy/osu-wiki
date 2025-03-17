@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Règles
 
 Ces règles sont les bases à partir de laquelle nous contribuons à faire de la communauté d'osu! un endroit amusant et accueillant pour tous.
@@ -5,7 +9,7 @@ Ces règles sont les bases à partir de laquelle nous contribuons à faire de la
 ## Règles communautaires
 
 1. **Le premier compte que vous créez lors de l'inscription est votre seul et unique compte osu! dès le moment de sa création, et pour toujours.** Ce compte, c'est VOUS. Ce n'est personne d'autre - ni votre frère, ni votre mère, ni votre sœur, ni votre ami - c'est VOUS. Ne partagez pas votre compte avec quelqu'un d'autre. Vous ne pourrez pas en créer un nouveau si vous en perdez l'accès. Gardez-le en sécurité.
-2. **Jouez fair-play.** L'utilisation d'utilitaires tiers de quelque nature que ce soit pour obtenir un avantage quelconque n'est pas acceptable. Cela inclut des programmes de macro, les programmes d'aide à la visée, la modification de l'échelle de temps, et ainsi de suite. Si un programme fait quelque chose pour vous aider à jouer alors que vous devriez le faire vous-même, ce n'est pas acceptable !
+2. **Jouez loyalement.** L'utilisation d'utilitaires tiers, quels qu'ils soient, pour obtenir un avantage quelconque n'est pas acceptable. Cela inclut les programmes d'aide à la visée, les modifications de l'échelle de temps, etc. Les macros, les combinaisons de touches ou le matériel où une action physique (par exemple, appuyer sur une touche) ne correspond pas à la même action dans le jeu sont également interdits.[^macros] Si un programme fait quelque chose pour vous aider à jouer que vous devriez faire vous-même, ce n'est pas acceptable !
 3. **Soyez bons les uns envers les autres.** Le harcèlement ou tout autre antagonisme n'a pas sa place au sein de la communauté d'osu!. Nous sommes ici pour cliquer sur des cercles, battre des tambours, attraper des fruits et taper sur dix-huit touches à la fois, pas pour être des connards les uns envers les autres.
 4. **Ne soyez pas un idiot.** Si, à un moment donné, vous ne savez pas si vous enfreignez cette règle, c'est probablement le cas.
 5. **Nous sommes une communauté pour tous les âges.** Cela signifie que les contenus 18+/[NSFW](https://fr.wikipedia.org/wiki/Not_safe_for_work) tels que l'utilisation de drogues ou les sujets de nature sexuelle ne sont pas les bienvenus ici.
@@ -51,17 +55,21 @@ Si vous vous trouvez du mauvais côté de nos règles communautaires, de mauvais
 
 Ces mauvaises choses peuvent inclure (*mais ne sont pas limitées à*) :
 
-- La suppression de votre capacité à discuter en jeu pendant une certaine période (appelée [silence](/wiki/Silence)).
+- La suppression de votre capacité à discuter en jeu pendant une certaine période (appelée [silence](/wiki/Help_centre/Silences)).
 - Le retrait de tout contenu illicite de votre page d'utilisateur, de votre profil ou des beatmaps téléchargées.
 - La perte du privilège d'éditer ou de modifier votre page d'utilisateur ou les détails de votre profil.
 - La perte du privilège de jouer ou de se qualifier dans les tournois organisés officiellement.
 
-Les [silences](/wiki/Silence) et autres infractions augmentent **automatiquement** leur durée de manière quasi exponentielle à chaque infraction. Les modérateurs ne contrôlent pas la durée du silence qui vous est imposé pour une infraction. Les récidivistes se verront exclus du jeu pour des périodes de plus en plus longues.
+Les [silences](/wiki/Help_centre/Silences) et autres infractions augmentent **automatiquement** leur durée de manière quasi exponentielle à chaque infraction. Les modérateurs ne contrôlent pas la durée du silence qui vous est imposé pour une infraction. Les récidivistes se verront exclus du jeu pour des périodes de plus en plus longues.
 
-Certaines infractions sont assorties d'une durée minimale (généralement 42 heures ou plus) si elles sont particulièrement graves, mais elles sont presque exclusivement réservées aux infractions graves, telles que le partage de contenu graphique ou le harcèlement impénitent d'autres utilisateurs.
+Certaines infractions sont assorties d'une durée minimale (généralement 43 heures ou plus) si elles sont particulièrement graves, mais elles sont presque exclusivement réservées aux infractions graves, telles que le partage de contenu graphique ou le harcèlement impénitent d'autres utilisateurs.
 
 Si, après plusieurs infractions, vous continuez à enfreindre les règles, votre compte peut être [définitivement et irrévocablement restreint](/wiki/Help_centre/Account_restrictions).
 
 Les comptes soumis à des restrictions ne peuvent pas jouer en ligne, mettre en ligne des scores, discuter avec d'autres utilisateurs et sont, à toutes fins utiles, "interdits" d'interaction avec la communauté. Les restrictions pour violation des règles de la communauté ne peuvent être supprimées que sur appel auprès de l'équipe d'assistance après 3 mois ([d'autres conditions peuvent s'appliquer](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Les infractions graves qui vont bien au-delà du champ d'application de nos règles et qui relèvent du contenu illégal au sens du droit international commun entraîneront la fermeture immédiate du compte. Cela s'applique presque exclusivement aux infractions extrêmement graphiques ou autrement odieuses, telles que la distribution de pornographie infantile ou d'autres matériels d'abus.
+
+## Notes
+
+[^macros]: Il est permis de relier des touches à K1 ou K2, à condition que l'appui sur une touche spécifique entraîne un appui sur la touche de jeu liée, et que le relâchement de la même touche entraîne un relâchement sur la touche de jeu liée. Lier une pression à un relâchement, ou faire en sorte qu'une touche exécute plus d'une paire pression/relâchement, n'est pas autorisé.

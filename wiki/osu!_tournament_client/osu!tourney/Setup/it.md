@@ -4,6 +4,7 @@
 *Nota: Un [osu!supporter tag](/wiki/osu!supporter) attivo è necessario per usare il client osu!tourney.*
 
 Si consiglia di utilizzare una **nuova installazione di osu!**. Questo perché il database delle canzoni potrebbe corrompersi. È possibile avere più installazioni di osu!, basta tenerle in cartelle separate.
+
 Per farlo, copia `osu!.exe` in una cartella vuota ed eseguilo. Verrà creata una nuova installazione di osu!. Questa è l'unica installazione che deve essere modificata da qui in poi.
 
 Apri osu! e accedi, selezionando le caselle "Ricorda nome utente" e "Ricorda password".
@@ -21,7 +22,7 @@ acronym = OWC
 
 Non modificare il file `tournament.cfg` mentre osu! è in esecuzione. Chiudi osu! e modifica o aggiungi alle righe precedenti le opzioni desiderate:
 
-- `TeamSize`: Il numero di giocatori per squadra. Il client aprirà 1–8 finestre per squadra a seconda di questo valore. Il valore massimo è 8 a causa dei limiti di connessione di [Bancho](/wiki/Bancho_(server)), ma può essere temporaneamente aumentato per l'utente spettatore contattando [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- `TeamSize`: Il numero di giocatori per squadra.
 - `ClientNameSize`: La dimensione dei nomi dei giocatori.
 - `privateserver`: Lascia questo valore inalterato.
 - `acronym`: Un'abbreviazione per il torneo. Questo influisce sulla denominazione richiesta per le stanze dei tornei, controlla la [guida uso multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) per maggiori informazioni.

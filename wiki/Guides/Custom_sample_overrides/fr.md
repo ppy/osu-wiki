@@ -47,6 +47,7 @@ Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous
 
 - `spinnerspin` (ce son est décalé en hauteur au fur et à mesure que le spinner augmente. Il passe de ~500hz à 80000hz alors que l'échantillon original est de 44100hz.)
 - `spinnerbonus` (ding)
+- `spinnerbonus-max` ([Lazer](/wiki/Client/Release_stream/Lazer) uniquement)
 
 ## Remarques
 

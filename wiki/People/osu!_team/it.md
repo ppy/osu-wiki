@@ -1,6 +1,4 @@
 ---
-outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
-outdated_translation: true
 tags:
   - osu! staff
   - osu!staff
@@ -8,6 +6,8 @@ tags:
   - osu! team
   - staff
   - team osu!
+outdated_translation: true
+outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 ---
 
 # osu! team
@@ -24,9 +24,9 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderatore](/wiki/People/Global_Moderation_Team), supporto tecnico |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | Sviluppatore di osu! |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Manutentore del progetto e della community, ricercatore degli [Artisti in primo piano](/wiki/People/Featured_Artists) |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Leader del Design, osservatore residente di Creative Cloud |
+| ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Leader del Design, osservatore residente di Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Sviluppatore di osu! |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Capo del [NAT](/wiki/People/Nomination_Assessment_Team), gestore di [Project Loved](/wiki/Community/Project_Loved), gestore di [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Governante Generale, capo del [NAT](/wiki/People/Nomination_Assessment_Team), gestore di [Project Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizzatore e amministratore della [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Ricercatore degli [Artisti in Primo Piano](/wiki/People/Featured_Artists), segretario della [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Sviluppatore di osu!, supporto tecnico |
@@ -35,17 +35,18 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Consigliere della scena Modding e mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Sviluppatore osu!web, [Artista in Primo Piano](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Sviluppatore osu!web |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderatore](/wiki/People/Global_Moderation_Team), consigliere della scena Modding e mapping |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Moderatore](/wiki/People/Global_Moderation_Team), consigliere della scena Modding e mapping |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Gestore del [canale YouTube di osu!](https://www.youtube.com/@osugame), organizzatore della [Gilda dei Mapper](/wiki/Community/Mappers_Guild), ricercatore degli [Artisti in Primo Piano](/wiki/People/Featured_Artists) |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Capo del [NAT](/wiki/People/Nomination_Assessment_Team) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Consigliere della scena Modding e mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderatore](/wiki/People/Global_Moderation_Team), [manutentore della wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Governante Generale |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Sviluppatore di osu!, amante di osu!mania, insetticida per bug |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Sviluppatore di osu! |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Sviluppatore dell'infrastruttura di osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Governante Generale, supporto dei tornei |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Governante Generale, scopatore |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Capo del [GMT](/wiki/People/Global_Moderation_Team), gestore di [Beatmap Spotlights](/wiki/Beatmap_Spotlights), segretario di Hivie |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Capo del [GMT](/wiki/People/Global_Moderation_Team), gestore di [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Manutentore della wiki](/wiki/People/osu!_wiki_maintainers), Editore delle news |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Specie in via di estinzione |
 
