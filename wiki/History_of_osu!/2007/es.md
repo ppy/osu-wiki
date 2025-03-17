@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 27ab7c703108c7b0b5f066700718dcce34d68524
+---
+
 # Historia de osu! de 2007
 
 Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](https://osu.ppy.sh/users/5530) por ayudar a reunir el contenido de 2007/2008.
@@ -20,7 +25,7 @@ A finales de julio, el sistema de menú fue cambiado para añadir un poco de est
 
 ![](img/2007-07_05.jpg "El editor")
 
-![](img/2007-07_06.jpg "Selección de canciones para el modo editor")
+![](img/2007-07_06.jpg "Selección de canciones")
 
 ![](img/2007-07_07.jpg "Creación de sliders en el editor")
 
@@ -35,8 +40,6 @@ El menú principal fue actualizado con un nuevo diseño, y el editor recibió un
 ![](img/2007-08_02.jpg "Evolución de la explosión de golpeo")
 
 La jugabilidad se vio mejorada con el debut del [fuego de combo](/wiki/Gameplay/Combo_fire), la barra de [vida](/wiki/Gameplay/Health), rastro del cursor, y sliders más atractivos. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
-
-![](img/2007-08_03.jpg "Selección de canciones para el modo editor")
 
 ![](img/2007-08_04.jpg "Juego de prueba")
 
