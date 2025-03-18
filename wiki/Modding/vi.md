@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Modding
 
 *Đối với các mục đích sử dụng khác, xem [Mod (định hướng)](/wiki/Disambiguation/Mod).*
