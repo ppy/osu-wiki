@@ -136,6 +136,7 @@ Winners of previous osu!mania World Cups with the **Former osu!mania Champion** 
 
 Most official mapping contests offer the **Elite Mapper** title through [contest points](/wiki/Contests/Contest_points). Older contests rewarded the title as a first-place prize.
 
+- ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
 - ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
@@ -148,8 +149,10 @@ Most official mapping contests offer the **Elite Mapper** title through [contest
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612)
 - ::{ flag=TW }:: [Firce777](https://osu.ppy.sh/users/274072)
+- ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551)
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
+- ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
 - ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378)
@@ -190,19 +193,18 @@ Most official mapping contests offer the **Elite Mapper** title through [contest
 
 Since 2020, members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
 
-- ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)[^elite-note]
-- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
-- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
-- ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
-- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)[^elite-note]
-- ::{ flag=KR }:: [SecxcscX](https://osu.ppy.sh/users/13543418)
-- ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
-- ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127)
+- ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684)
+- ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)[^elite-note]
+- ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243)
+- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)[^elite-note]
+- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)[^elite-note]
+- ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
+- ::{ flag=KR }:: [Liz Triangle](https://osu.ppy.sh/users/2688581)[^elite-note]
+- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)[^elite-note]
+- ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)
+- ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)
+- ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405)
 
 ## Aspire mapping contest winners
 
@@ -340,7 +342,7 @@ These users were awarded their respective titles for miscellanous reasons.
 ## Notes
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: winning the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) system.
-[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) were awarded with the **Elite Nominator II** title instead for having been named as Elite Nominators for two years in a row.
+[^elite-note]: ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=KR }:: [Liz Triangle](https://osu.ppy.sh/users/2688581), and ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) were awarded with the **Elite Nominator II** title instead for having been named as Elite Nominators for two years in a row.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II: Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest.
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) was awarded with the **Elite Storyboarder II** title instead for having [already received the title](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) due to outstanding contributions to the storyboarding scene, as well as having won the [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).
