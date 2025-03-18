@@ -1,6 +1,6 @@
 # .osr (file format)
 
-**.osr** is a file format containing information about a specific [replay](/wiki/Gameplay/Replay). In order for it to be able to be opened in-game, the [beatmap](/wiki/Beatmap) tied to the file is required to be present.
+**.osr** is a file format for describing osu! [replays](/wiki/Gameplay/Replay). An `.osr` file can be played only if the game has the exact [beatmap](/wiki/Beatmap) for which the replay was recorded.
 
 ## Data Types
 
