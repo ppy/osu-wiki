@@ -11,7 +11,7 @@ outdated_translation: true
 
 Их обязанности включают в себя:
 
-- Проверка [турнирных репортов](https://pif.ephemeral.ink/tournament-reports);
+- Проверка [турнирных репортов](https://tcomm.hivie.tn/reports/create);
 - Наблюдение за турнирной сценой и периодическое сотрудничество со [службой поддержки](/wiki/People/Account_support_team);
 - При необходимости — обновление статьи про [официальную поддержку турниров](/wiki/Tournaments/Official_support).
 

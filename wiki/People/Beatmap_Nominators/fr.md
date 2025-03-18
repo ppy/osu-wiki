@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 32b8cbe53f7b9a5ee6408f6e905d6b5f7557bb7c
 no_native_review: true
 tags:
   - BN
@@ -9,7 +11,7 @@ tags:
 
 *Voir également : [Règlement du Beatmap Nominator](Rules), [Attentes pour les Beatmap Nominator](Expectations), [Informations générales pour les Beatmap Nominator](General_Information), et [Devenir un Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Les **Beatmap Nominators** (***BN***) sont un groupe en charge de la [nomination des beatmaps](/wiki/Beatmap_ranking_procedure). Ils se distinguent par leur titre d'utilisateur violet et leur badge [groupe d'utilisateurs](/wiki/People/User_group) qui indique `BN`.
+Les **Beatmap Nominators** (***BN***) sont un groupe en charge de la [nomination des beatmaps](/wiki/Beatmap_ranking_procedure). Ils se distinguent par leur titre d'utilisateur violet et leur badge [groupe d'utilisateurs](/wiki/People/User_groups) qui indique `BN`.
 
 ## Rôles et responsabilités
 
@@ -45,7 +47,7 @@ Les Beatmap Nominators bénéficient des avantages suivants :
 - **Badge d'ancienneté** : Un [badge de profil](/wiki/Community/Profile_badge) qui affiche le nombre d'années d'appartenance au BN.
   ![1 an badge BN](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "1 an badge BN") ![2 ans badge BN](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "2 ans badge BN") ![3 ans badge BN](https://assets.ppy.sh/profile-badges/BN3y.png "3 ans badge BN") ![4 ans badge BN](https://assets.ppy.sh/profile-badges/BN4y.png "4 ans badge BN") ![5 ans badge BN](https://assets.ppy.sh/profile-badges/BN5y.png "5 ans badge BN") ![6 ans badge BN](https://assets.ppy.sh/profile-badges/BN6y.png "6 ans badge BN") ![7 ans badge BN](https://assets.ppy.sh/profile-badges/BN7y.png "7 ans badge BN") ![8 ans badge BN](https://assets.ppy.sh/profile-badges/BN8y.png "8 ans badge BN") ![9 ans badge BN](https://assets.ppy.sh/profile-badges/BN9y.png "9 ans badge BN") ![10 ans badge BN](https://assets.ppy.sh/profile-badges/BN10y.png "10 ans badge BN")
 - **Badge du nombre de [nomination](/wiki/Beatmap_ranking_procedure#nominations)** : Un badge de profil attribué lorsque certaines étapes du nombre de nominations sont franchies.
-  ![Badge pour 200 nominations réalisé](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Badge pour 200 nominations réalisé") ![Badge pour 400 nominations réalisé](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Badge pour 400 nominations réalisé") ![Badge pour 600 nominations réalisé](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Badge pour 600 nominations réalisé") ![Badge pour 800 nominations réalisé](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Badge pour 800 nominations réalisé") ![Badge pour 1000 nominations réalisé](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Badge pour 1000 nominations réalisé") ![Badge pour 1500 nominations réalisé](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Badge pour 1500 nominations réalisé") ![Badge pour 2000 nominations réalisé](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Badge pour 2000 nominations réalisé")
+  ![Badge pour 100 nominations réalisé](https://assets.ppy.sh/profile-badges/100_noms.png "Badge pour 100 nominations réalisé") ![Badge pour 200 nominations réalisé](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Badge pour 200 nominations réalisé") ![Badge pour 400 nominations réalisé](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Badge pour 400 nominations réalisé") ![Badge pour 600 nominations réalisé](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Badge pour 600 nominations réalisé") ![Badge pour 800 nominations réalisé](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Badge pour 800 nominations réalisé") ![Badge pour 1000 nominations réalisé](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Badge pour 1000 nominations réalisé") ![Badge pour 1500 nominations réalisé](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Badge pour 1500 nominations réalisé") ![Badge pour 2000 nominations réalisé](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Badge pour 2000 nominations réalisé")
 - **Éligibilité au rang de [nominateur d'élite](/wiki/People/Elite_Nominators)** : Les Beatmap Nominators qui réalisent des performances exceptionnelles dans leur métier peuvent se voir décerner chaque année le [titre d'utilisateur](/wiki/Community/User_title) Nominateur d'élite.
 
 ## Membres de l'équipe
@@ -74,6 +76,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finnois |
 | ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
 | ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Portugais |
+| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Coréen |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Coréen |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, chinois |
@@ -81,11 +84,11 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugais, espagnol |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Coréen |
 | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Espagnol |
+| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Portugais |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Russe |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thaï |
 | ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | Polonais |
 | ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | Coréen |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chinois |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Filipino |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Allemand, espagnol, français |
@@ -93,6 +96,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312) |  |
 | ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
 | ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Portugais |
+| ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinois, un peu de français |
 | ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) | Allemand |
@@ -100,24 +104,20 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) |  |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Coréen, japonais, chinois |
 | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |  |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Coréen |
 | ::{ flag=BR }:: [Malphs](https://osu.ppy.sh/users/9234078) | Portugais |
 | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | Afrikaans |
 | ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
 | ::{ flag=CN }:: [MeAqua tete](https://osu.ppy.sh/users/5645691) | Chinois |
 | ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | Espagnol |
 | ::{ flag=TW }:: [MianYa](https://osu.ppy.sh/users/1844862) | Chinois |
-| ::{ flag=HK }:: [Mihato Kano](https://osu.ppy.sh/users/9633734) | Chinois |
-| ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Indonésien, chinois |
 | ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734) | Chinois |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinois |
-| ::{ flag=AU }:: [Nadeshiko](https://osu.ppy.sh/users/3558897) |  |
-| ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinois |
 | ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) |  |
 | ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768) | Portugais |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Français |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, chinois |
 | ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | Filipino |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Chinois |
 | ::{ flag=JP }:: [Reioli](https://osu.ppy.sh/users/8200707) | Japonais |
@@ -140,7 +140,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituanien |
 | ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931) | Japonais |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Japonais |
-| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Russe |
 | ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
 | ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Italien |
 
@@ -159,23 +158,20 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | Néerlandais |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamien |
 | ::{ flag=PR }:: [Default Guy](https://osu.ppy.sh/users/7058457) | Espagnol |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japonais |
 | ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391) |  |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Allemand |
-| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Chinois, cantonais |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonais, chinois |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Chinois, cantonais, japonais |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinois |
 | ::{ flag=US }:: [Nostril](https://osu.ppy.sh/users/11479122) |  |
-| ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | Serbe |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, serbe, japonais |
-| ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) | Français, chinois |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japonais |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Russe |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | Coréen |
 | ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) | Espagnol |
 | ::{ flag=TW }:: [WTHBRO](https://osu.ppy.sh/users/8957119) | Chinois |
+| ::{ flag=JP }:: [Yutsu-](https://osu.ppy.sh/users/16320311) | Japonais |
 | ::{ flag=DE }:: [Zhuosh](https://osu.ppy.sh/users/11056763) | Chinois, allemand, japonais, cantonais |
 
 #### osu!catch
@@ -192,9 +188,9 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | Espagnol |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonésien |
 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Russe |
+| ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
 | ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) |  |
-| ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
 
@@ -212,6 +208,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) |  |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | Chinois, allemand |
 | ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756) | Filipino |
+| ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | Danois |
 | ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196) | Malais |
 | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | Coréen |
@@ -234,7 +231,8 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Néerlandais |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Coréen |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Galicien, italien, japonais, espagnol, portugais |
-| ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Indonésien |
+| ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Italien |
+| ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) |  |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonésien |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Coréen |
@@ -254,7 +252,23 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
-| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Coréen |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italien |
+| ::{ flag=UA }:: [aishiteiru-](https://osu.ppy.sh/users/10566388) |  |
+| ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |  |
+| ::{ flag=RU }:: [Djulus](https://osu.ppy.sh/users/4960893) | Russe |
+| ::{ flag=ID }:: [fedora](https://osu.ppy.sh/users/11016828) | Indonésien |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnois |
+| ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Chinois |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) |  |
+| ::{ flag=DE }:: [jamesjan3](https://osu.ppy.sh/users/6260705) |  |
+| ::{ flag=US }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Chinois |
+| ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) | Turc |
+| ::{ flag=US }:: [Kataryn](https://osu.ppy.sh/users/19044162) |  |
+| ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340) |  |
+| ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Chinois |
+| ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | Chinois |
+| ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finnois, japonais |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Hongrois |
 
 #### osu!taiko
 
@@ -266,7 +280,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
-| ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
 | ::{ flag=CN }:: [sxy62146214](https://osu.ppy.sh/users/8386591) | Chinois |
 
 #### osu!mania

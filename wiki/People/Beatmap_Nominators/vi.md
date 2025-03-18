@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 32b8cbe53f7b9a5ee6408f6e905d6b5f7557bb7c
 no_native_review_since: 303f8823b527327f34a55f39074ed308da98e4b3 Avariation
 tags:
   - BN
@@ -9,7 +11,7 @@ tags:
 
 *Đọc thêm: [Quy tắc của Đề cử viên](Rules), [Tiêu chuẩn riêng dành cho Đề cử viên](Expectations), [Thông tin chung dành cho Đề cử viên](General_Information), và [Trở thành một Đề cử viên](Becoming_a_Beatmap_Nominator)*
 
-**Đội ngũ Đề cử viên** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_group) có đề tên `BN`.
+**Đội ngũ Đề cử viên** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `BN`.
 
 ## Vai trò và trách nhiệm của Đề cử viên
 
@@ -43,7 +45,7 @@ Thành viên mới của Đội ngũ Đề cử viên sẽ được kèm cặp b
 - **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
   ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/BN3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/BN4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/BN5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/BN6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/BN7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/BN8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/BN9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/BN10y.png "Huy hiệu 10 năm")
 - **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số lần đề cử nhất định.
-  ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
+  ![100 đề cử](https://assets.ppy.sh/profile-badges/100_noms.png "100 đề cử") ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
 - **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những Đề cử viên làm tốt vai trò của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
 
 ## Danh sách thành viên
@@ -72,6 +74,7 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Tiếng Phần Lan |
 | ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
 | ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Tiếng Bồ Đào Nha |
+| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Tiếng Hàn |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Tiếng Hàn |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Tiếng Quảng Đông, Tiếng Trung |
@@ -79,11 +82,11 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tiếng Bồ Đào Nha, Tiếng Tây Ban Nha |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Tiếng Hàn |
 | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Tiếng Tây Ban Nha |
+| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Tiếng Bồ Đào Nha |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Tiếng Nga |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tiếng Thái |
 | ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | Tiếng Ba Lan |
 | ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | Tiếng Hàn |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tiếng Trung |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Tiếng Trung |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Tiếng Philippines |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Tiếng Đức, Tiếng Tây Ban Nha, Tiếng Pháp |
@@ -91,6 +94,7 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312) |  |
 | ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
 | ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Tiếng Bồ Đào Nha |
+| ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Tiếng Trung, một chút Tiếng Pháp |
 | ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) | Tiếng Đức |
@@ -98,24 +102,20 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) |  |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Tiếng Hàn, Tiếng Nhật, Tiếng Trung |
 | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |  |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Tiếng Hàn |
 | ::{ flag=BR }:: [Malphs](https://osu.ppy.sh/users/9234078) | Tiếng Bồ Đào Nha |
 | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | Tiếng Afrikaans |
 | ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
 | ::{ flag=CN }:: [MeAqua tete](https://osu.ppy.sh/users/5645691) | Tiếng Trung |
 | ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | Tiếng Tây Ban Nha |
 | ::{ flag=TW }:: [MianYa](https://osu.ppy.sh/users/1844862) | Tiếng Trung |
-| ::{ flag=HK }:: [Mihato Kano](https://osu.ppy.sh/users/9633734) | Tiếng Trung |
-| ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Tiếng Indonesia, Tiếng Trung |
 | ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734) | Tiếng Trung |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Tiếng Trung |
-| ::{ flag=AU }:: [Nadeshiko](https://osu.ppy.sh/users/3558897) |  |
-| ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Tiếng Trung |
 | ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) |  |
 | ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768) | Tiếng Bồ Đào Nha |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Tiếng Pháp |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Tiếng Quảng Đông, Tiếng Trung |
 | ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | Tiếng Philippines |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Tiếng Trung |
 | ::{ flag=JP }:: [Reioli](https://osu.ppy.sh/users/8200707) | Tiếng Nhật |
@@ -138,7 +138,6 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Tiếng Litva |
 | ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931) | Tiếng Nhật |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Tiếng Nhật |
-| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Tiếng Nga |
 | ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
 | ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Tiếng Italy |
 
@@ -157,23 +156,20 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | Tiếng Hà Lan |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Tiếng Việt |
 | ::{ flag=PR }:: [Default Guy](https://osu.ppy.sh/users/7058457) | Tiếng Tây Ban Nha |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Tiếng Nhật |
 | ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391) |  |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Tiếng Đức |
-| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Tiếng Trung, Tiếng Quảng Đông |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Tiếng Quảng Đông, Tiếng Trung |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Tiếng Trung, Tiếng Quảng Đông, Tiếng Nhật |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Tiếng Trung |
 | ::{ flag=US }:: [Nostril](https://osu.ppy.sh/users/11479122) |  |
-| ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | Tiếng Serbia |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Tiếng Đức, Tiếng Serbia, Tiếng Nhật |
-| ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) | Tiếng Pháp, Tiếng Trung |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Tiếng Nhật |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Tiếng Nga |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | Tiếng Hàn |
 | ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) | Tiếng Tây Ban Nha |
 | ::{ flag=TW }:: [WTHBRO](https://osu.ppy.sh/users/8957119) | Tiếng Trung |
+| ::{ flag=JP }:: [Yutsu-](https://osu.ppy.sh/users/16320311) | Tiếng Nhật |
 | ::{ flag=DE }:: [Zhuosh](https://osu.ppy.sh/users/11056763) | Tiếng Trung, Tiếng Đức, Tiếng Nhật, Tiếng Quảng Đông |
 
 #### osu!catch
@@ -190,9 +186,9 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | Tiếng Tây Ban Nha |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Tiếng Indonesia |
 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Tiếng Nga |
+| ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
 | ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) |  |
-| ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
 
@@ -210,6 +206,7 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) |  |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | Tiếng Trung, Tiếng Đức |
 | ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756) | Tiếng Philippines |
+| ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | Tiếng Đan Mạch |
 | ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196) | Tiếng Mã Lai |
 | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | Tiếng Hàn |
@@ -232,7 +229,8 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Tiếng Hà Lan |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Tiếng Hàn |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Tiếng Galician, Tiếng Italy, Tiếng Nhật, Tiếng Tây Ban Nha, Tiếng Bồ Đào Nha |
-| ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Tiếng Indonesia |
+| ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Tiếng Italy |
+| ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) |  |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Tiếng Indonesia |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Tiếng Hàn |
@@ -252,7 +250,23 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
-| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Tiếng Hàn |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Tiếng Italy |
+| ::{ flag=UA }:: [aishiteiru-](https://osu.ppy.sh/users/10566388) |  |
+| ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |  |
+| ::{ flag=RU }:: [Djulus](https://osu.ppy.sh/users/4960893) | Tiếng Nga |
+| ::{ flag=ID }:: [fedora](https://osu.ppy.sh/users/11016828) | Tiếng Indonesia |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Tiếng Phần Lan |
+| ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Tiếng Trung |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) |  |
+| ::{ flag=DE }:: [jamesjan3](https://osu.ppy.sh/users/6260705) |  |
+| ::{ flag=US }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Tiếng Trung |
+| ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) | Tiếng Thổ Nhĩ Kỳ |
+| ::{ flag=US }:: [Kataryn](https://osu.ppy.sh/users/19044162) |  |
+| ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340) |  |
+| ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Tiếng Trung |
+| ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | Tiếng Trung |
+| ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Tiếng Phần Lan, Tiếng Nhật |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Tiếng Hungary |
 
 #### osu!taiko
 
@@ -264,7 +278,6 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
-| ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
 | ::{ flag=CN }:: [sxy62146214](https://osu.ppy.sh/users/8386591) | Tiếng Trung |
 
 #### osu!mania

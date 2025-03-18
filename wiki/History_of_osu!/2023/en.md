@@ -75,7 +75,7 @@ In parallel to this year's last update, the osu! team wanted more people to try 
 - osu!catch's grading in osu!(lazer) was changed to match the grading of osu!(stable) to simplify obtaining high accuracy values.
 - Slider mechanics were adjusted to make fast sliders more lenient.[^lazer-12-18]
 
-2024's [Winter Fanart Contest](https://osu.ppy.sh/home/news/2023-11-07-winter-fanart-contest) ran under the theme "osu! mascots enjoying a seasonal feast". Due to this broad theme, the participants had a lot of freedom and creativity for designs. All finalists obtained three months of osu!supporter, while the top 3 winners received a custom [profile badge](/wiki/Community/Profile_badge) on top.[^winter-fanart]
+2023's [Winter Fanart Contest](https://osu.ppy.sh/home/news/2023-11-07-winter-fanart-contest) ran under the theme "osu! mascots enjoying a seasonal feast". Due to this broad theme, the participants had a lot of freedom and creativity for designs. All finalists obtained three months of osu!supporter, while the top 3 winners received a custom [profile badge](/wiki/Community/Profile_badge) on top.[^winter-fanart]
 
 Similar to the other [release streams](/wiki/Client/Release_stream), osu!(lazer)'s user count became viewable on the website.[^lazer-user-count]
 
@@ -114,7 +114,7 @@ Similar to the other [release streams](/wiki/Client/Release_stream), osu!(lazer)
 
 [^contributors]: [News post by osu! team (2023-11-19) "Community Contributors: 2022 & 2023"](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
 
-[^feedback]: [Forum thread by peppy (2023-12-18) "osu!(lazer) 2023.1218.0 release feedback "](https://osu.ppy.sh/community/forums/topics/1858702?n=1)
+[^feedback]: [Forum thread by peppy (2023-12-18) "osu!(lazer) 2023.1218.0 release feedback"](https://osu.ppy.sh/community/forums/topics/1858702?n=1)
 [^lazer-12-18]: [News post by Walavouchey (2023-12-18) "osu!(lazer) Updates & Preparing For Ranked Play"](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play)
 [^winter-fanart]: [News post by Ephemeral (2023-12-07) "Winter 2023 Fanart Contest Results"](https://osu.ppy.sh/home/news/2023-12-07-winter-fanart-contest-results)
-[^lazer-user-count]: [Tweet by peppy (2023-12-15)](https://twitter.com/ppy/status/1735606671031091389)
+[^lazer-user-count]: [Tweet by @ppy (2023-12-15)](https://twitter.com/ppy/status/1735606671031091389)

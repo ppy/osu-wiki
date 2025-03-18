@@ -95,19 +95,19 @@ Several teams made history by participating in the osu! World Cup Qualifiers for
 
 ::{#dada-and-chiv}::
 
-![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/chiv-and-dada-banner.png)
+![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/chiv-and-dada.png)
 
 Mappooling for the biggest tournament of the year is not an easy feat, especially for a stage as crucial as the Qualifiers. Below you will find an interview with [chiv](https://osu.ppy.sh/users/6701656) and [Dada](https://osu.ppy.sh/users/9119507), members of the osu! World Cup mappooling selector team. They are in charge of mappooling the entire tournament, but we will delve into the specifics of pooling for the Qualifiers.
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 What are the challenges of map pooling for Qualifiers, considering that these pools set the bar for the minimum difficulty threshold that will be present across the tournament?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9119507" style="background-image: url('/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/avatar-dada.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9119507" style="background-image: url('/wiki/shared/avatars/dada.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/9119507">Dada</a></p>
 
@@ -123,13 +123,13 @@ Furthermore, some skill sets are basically incompatible with either the other ni
 
 Doing all of that while managing a full-custom qualifier pool, which means we have limited control of how difficult maps are in relation to each other, and how much the niche we want them to fill is actually expressed to begin with, means that it's all a pretty difficult endeavor. I think we ended up doing a decent job of it, though.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 How does the map pooling team determine difficulty of Qualifiers map pools, and has there been an exponential increase in difficulty over the past few years?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/avatar-chiv.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/avatars/chiv.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 

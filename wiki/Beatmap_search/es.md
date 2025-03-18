@@ -72,9 +72,11 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `star`, `stars` | [Clasificación por estrellas](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Tempo de la canción](/wiki/Music_theory/Tempo) |
 | `length` | [Duración](/wiki/Beatmap/Play_time) en segundos |
+| `circles` | Número de círculos en el beatmap |
+| `sliders` | Número de sliders en el beatmap |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
-| `created` | Fecha de creación del beatmap |
+| `created` | Fecha de creación/subida del beatmap |
 | `updated` | Fecha de la última actualización del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
 
@@ -98,6 +100,8 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `lastplayed` | Tiempo desde la última vez que se jugó un beatmap. Acepta un formato de `#y#M#d#h#m#s`, para años, meses, días, horas, minutos y segundos respectivamente. Por ejemplo, `2d5s` significa «2 días y 5 segundos». |
 | `played` | Si se ha jugado o no un beatmap. El valor puede ser `yes`, `true` o `1` para beatmaps jugados, o `no`, `false` o `0` para beatmaps no jugados. |
 | `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
+| `submitted` | Fecha de creación/subida del beatmap |
+| `ranked` | Fecha de clasificación/aprobación del beatmap |
 
 ## Búsquedas de ejemplo
 
@@ -145,7 +149,7 @@ status=r,l
 
 ## Referencias
 
-[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/58514a67d1f38e9842045615993252a8810fd50b/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [Código fuente de osu!(lazer)](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [true]: /wiki/shared/true.png

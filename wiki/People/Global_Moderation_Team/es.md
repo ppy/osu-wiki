@@ -13,7 +13,7 @@ tags:
 
 *Véase también: [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
-El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario de color verde cítrico, su insignia del [grupo de usuarios](/wiki/People/User_group) que dice `GMT` y su nombre de usuario rojo en el juego.
+El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario de color verde cítrico, su insignia del [grupo de usuarios](/wiki/People/User_groups) que dice `GMT` y su nombre de usuario rojo en el juego.
 
 **Todos los moderadores globales juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
@@ -41,7 +41,7 @@ Los factores más importantes a considerar son la conducta, la actividad, la com
 1. Demostrar buena conducta siendo cortés y tratando a los demás usuarios con respeto. Mantener su cuenta libre de silencios o problemas serios es esencial.
 2. Demostrar actividad en el juego participando en el chat y/o los foros. [Reportar cualquier mala conducta](/wiki/Reporting_bad_behaviour) y problemas a través del sistema de reportes. Responder preguntas y ayudar a otros con problemas.
 3. Tener una comprensión adecuada de [las reglas](/wiki/Rules) y cómo se aplican. Es importante saber qué es aceptable dentro de osu! y lo que no es.
-4. Sea paciente. El GMT no agrega espontáneamente miembros que han estado ayudando durante solo unos días. Se necesita tiempo para que el GMT evalúe a alguien⁠: su personalidad, en qué puede ayudar, su actividad, etc.
+4. Sé paciente. El GMT no agrega espontáneamente miembros que han estado ayudando durante solo unos días. Se necesita tiempo para que el GMT evalúe a alguien⁠: su personalidad, en qué puede ayudar, su actividad, etc.
 
 Por lo general, el equipo observará a las personas durante varias semanas o meses para asegurarse de que sean una valiosa incorporación al equipo. Por favor sé paciente y no te excedas. Siéntete libre de preguntarle a cualquier persona del GMT sobre cualquier pregunta relacionada con las reglas, reportar a los usuarios y cualquier otro problema.
 
@@ -62,7 +62,7 @@ Los moderadores globales reciben los siguientes beneficios:
 
 ## Salida del equipo
 
-Una vez que un moderador global decide abandonar el equipo, se le pueden otorgar las siguientes recompensas según las circunstancias:
+Una vez que un moderador global decide abandonar el equipo de forma amistosa, se le pueden otorgar las siguientes recompensas según las circunstancias:
 
 - **Título de usuario [osu! Alumni](/wiki/People/osu!_Alumni)**: este se otorga a miembros que formaron parte del equipo durante al menos 1 año, o que hayan realizado contribuciones significativas dentro del equipo durante un período de tiempo más corto.
 - **osu!supporter**: Los miembros reciben una etiqueta de osu!supporter que dura el doble del tiempo que pasaron en el GMT, bajo las mismas condiciones que el estado de osu! Alumni.

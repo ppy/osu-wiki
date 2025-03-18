@@ -6,7 +6,7 @@ date: 2024-10-28 11:16:34 +0000
 
 The time for change is finally here!
 
-![](/wiki/shared/news/banners/pp-sr-pippi.jpg?2)
+![](/wiki/shared/news/banners/pp-sr-pippi.jpg)
 
 There are changes to all game modes this time around in an effort to improve the difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 
@@ -36,7 +36,7 @@ That said, if you play, your **total PP** will still immediately be updated.
 
 If we didn't do this, users would see their rank jump all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
-### 🏃 Reprocess performance values of all scores (3 - 10 days, ~30% completed)
+### ✅ Reprocess performance values of all scores (Completed 2024-11-05)
 
 We now need to reprocess all 3,734,343,198 scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!stable and osu!lazer). This is the most time-consuming part of the deploy process.
 
@@ -44,17 +44,17 @@ During this period, scores in "best performance" may look to be out of order or 
 
 In previous runs, we did this process starting on highest ranked users and working outwards, but this time around we're trying a different approach in order to more efficiently run the process. Even so, it's going to take a while.
 
-### 🏃 Reprocess total PP values for all users (12 hours)
+### ✅ Re-run SR and PP calculation for osu!taiko (Completed 2024-11-06)
 
-This is running daily in the background to try and keep users aligned. It will continue to be run in the background until the process has finished.
+There were some issues picked up on by the community which have since been fixed at an algorithm level. We need to re-run things for osu!taiko as a result.
 
-### ⏳ Re-enabling of global rank history updates
+### ✅ Reprocess total PP values for all users (Completed 2024-11-06)
 
-Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
+A final run of this will be performed today. All user total PP values are final now.
 
-### ⏳ Reindexing (2 - 3 days)
+### ✅ Reindexing (Completed 2024-11-08)
 
-This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
+This will fix scores being out of order on profiles under "best performance", and in some rare cases not being displayed at all.
 
 ## osu!
 
@@ -143,15 +143,19 @@ Since the [last update to osu!taiko star rating 2 years ago](https://osu.ppy.sh/
 
 The previous system made to assess the stamina requirement for maps assumed two fingers per colour, leading to some impressive plays by players like [Ney](https://osu.ppy.sh/users/5991961) on [Mind Vortex - Alive](https://osu.ppy.sh/scores/1873110816) and others on [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774#taiko/28065) becoming notorious for yielding high-pp scores.
 
-The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) introduces variable finger counts for stamina assessment. Mono-colour patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts.
+The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) introduces variable finger counts for stamina assessment. Patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts.
 
-Additionally, convert-specific nerfs have been removed from difficulty calculations to ensure that converts are weighted fairly against mode-specific maps. The changes to finger count availability also ensure that play styles using varying amounts of fingers per colour are fairly represented.
+To further combat maps where TL-tapping is most effective, a change by [Natelytle](https://osu.ppy.sh/users/17607667) introduces a new penalty factor that shows how much of a map's difficulty comes purely from mono-colour patterns. For example, *StrangeProgram* has a factor of 99%, meaning 99% of its challenge is due to high-BPM mono patterns.
 
-### Changes to the HDFL bonus in the accuracy component of performance calculation
+**In response to negative feedback regarding the removal of convert-specific nerfs, they have been reinstated.**
 
-On the performance points side, a change by [-Lawtron-](https://osu.ppy.sh/users/11475208) addresses the bonus applied to memorisation mods on shorter maps. The length of the map will no longer affect the base multiplier in the accuracy component of the performance points system. However, the cap for HDFL (Hidden + Flashlight) bonuses has been increased to 1.1x for qualifying plays.
+### Balancing changes to performance calculation
+
+On the performance points side, a change by [-Lawtron-](https://osu.ppy.sh/users/11475208) addresses the bonus applied to memorisation mods on shorter maps. The length of the map will no longer affect the base multiplier in the accuracy component of the performance points system. However, the cap for HDFL (Hidden + Flashlight) bonuses has been increased to 1.1x for qualifying plays. 
 
 Previously, a map with just one object could receive the same bonus as a map with 1,000 objects when using HDFL, which led to disproportionate rewards for shorter, simpler maps.
+
+In addition to these changes, a harsher penalty has been applied to the Easy mod in order to further its impact on difficulty pp. Alongside statistical accuracy (explained below), maps played with Easy will reflect their difficulty reduction more significantly.
 
 ### Adjusted accuracy scaling
 

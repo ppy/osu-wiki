@@ -11,6 +11,8 @@ tags:
   - demande de beatmaps
   - client de recherche
   - recherche sur le web
+outdated_translation: true
+outdated_since: 905340ee700a7e6885a56dffdced959df02686f1
 ---
 
 # Recherche des beatmaps

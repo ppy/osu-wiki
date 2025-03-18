@@ -7,6 +7,8 @@ tags:
   - game modifier
   - 더블 타임
 no_native_review: true
+outdated_translation: true
+outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # 더블 타임 (모드)

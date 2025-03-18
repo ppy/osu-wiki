@@ -6,6 +6,8 @@ tags:
   - tienda
   - mercancía
   - legado
+outdated_translation: true
+outdated_since: 3bb0891de5dccd2d637a3fef7257e0826d9be962
 ---
 
 # Productos anteriores de la osu!store
@@ -16,7 +18,7 @@ Este artículo enumera varios productos que estuvieron disponibles en la [osu!st
 
 ![osu! goods en la portada de la tienda CafePress](img/osu-goods.png)
 
-Los **osu! goods** eran una colección de productos oficiales de la marca osu! vendidos a través del minorista en línea [CafePress](https://en.wikipedia.org/wiki/CafePress) de 2009 a 2012. Todos los productos fueron impresos y producidos por CafePress, y una parte de las ventas se destinó a [apoyar el desarrollo del juego](https://osu.ppy.sh/store/listing).
+Los **osu! goods** eran una colección de productos oficiales de la marca osu! vendidos a través del minorista en línea [CafePress](https://en.wikipedia.org/wiki/CafePress) de 2009 a 2012. Todos los productos que estaban disponibles para su compra fueron impresos y producidos por CafePress, y una parte de las ventas se destinó a [apoyar el desarrollo del juego](https://osu.ppy.sh/store/listing).
 
 La colección presentaba una variedad de productos como:
 
@@ -74,7 +76,7 @@ La colección presentaba una variedad de productos como:
 *Véase también: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*\
 *Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
 
-La **osu!tablet** era una tableta gráfica oficial de la marca osu! fabricada en colaboración con la empresa de electrónica [HUION](https://www.huion.com/). Fue diseñada por ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) y se lanzó como una alternativa económica para aquellos que simplemente querían comprar una tableta gráfica para jugar a osu!.
+La **osu!tablet** era una tableta gráfica oficial de la marca osu! fabricada en colaboración con la empresa de electrónica [HUION](https://www.huion.com/). Fue diseñada por ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) y se lanzó como una alternativa económica para aquellos que querían comprar una tableta gráfica simplemente para jugar a osu!.
 
 El producto tuvo dos versiones: la original «[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)», que se fabricó por primera vez en 2013, y la actualizada [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) en 2016 antes de dejar de comercializarse en 2017 citando [un cambio en el enfoque de desarrollo](https://twitter.com/ppy/status/846190076853870592).
 

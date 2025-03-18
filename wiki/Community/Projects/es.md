@@ -205,10 +205,12 @@ Herramientas y/o servicios creados por la comunidad de osu!. No dudes en añadir
   - [Sitio web](https://osu.sayobot.cn/)
 - [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156) — Otro espejo de beatmaps.
 
-### Proyectos para usar en el sitio web
+### Proyectos relacionados con el sitio web
 
 - [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) — Una extensión del navegador para calcular pp.
   - [GitHub](https://github.com/oamaok/ezpp)
+- osu! news scheduler — calendario con fechas aproximadas de la programación de las nuevas noticias en la página frontal del sitio web de osu!.
+  - [Sitio web](https://osunews.untone.uk/)
 - [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) — Un generador de firmas de estado con diseño de osu! next.
   - [GitHub](https://github.com/Lemmmy/osusig)
 - [osu!Post](https://osu.ppy.sh/community/forums/topics/164486) — Estado en tiempo real de osu! para tus firmas.

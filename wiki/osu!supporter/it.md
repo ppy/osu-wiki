@@ -2,11 +2,13 @@
 tags:
   - supporter tag
   - osu!supporter tag
+outdated_since: 53463c9d5a611e5d8b38f68b00f48b7983225576
+outdated_translation: true
 ---
 
 # osu!supporter
 
-![Immagine promozionale di osu!supporter](img/supporter-eyecatch.jpg)
+[![Immagine promozionale di osu!supporter](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (o il **tag osu!supporter**) è un titolo temporaneo conferito ai giocatori che supportano osu! tramite donazioni monetarie volontarie per aiutarne lo sviluppo. I supporter ricevono una serie di benefici estetici e pratici, la maggior parte dei quali sono attivi solo quando il titolo è presente. Le funzionalità extra di osu!supporter non danno alcun vantaggio nel gioco, nelle prestazioni o nei punteggi e non lo faranno mai.
 
@@ -17,11 +19,11 @@ Il tag osu!supporter può essere ottenuto dalla sua [pagina del negozio](https:/
 ### Emblema a cuore
 
 ::: Infobox
-![](img/userpage.png?1 "Profilo con osu!supporter")
+![](img/userpage.png?20241103 "Profilo con osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "Carta utente con osu!supporter")
+![](img/usercard-IT.png?20241022 "Carta utente con osu!supporter")
 :::
 
 I supporter ottengono una emblema con dei cuori, che può essere trovato accanto al loro nome utente sul sito web. La quantità di cuori dipende dalla durata dell'osu!supporter che l'utente ha acquisito o ricevuto in totale<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:

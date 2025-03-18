@@ -11,7 +11,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 Mereka bertanggung jawab untuk:
 
-- Menindaklanjuti laporan-laporan yang diterima dari [formulir pelaporan turnamen](https://pif.ephemeral.ink/tournament-reports)
+- Menindaklanjuti laporan-laporan yang diterima dari [formulir pelaporan turnamen](https://tcomm.hivie.tn/reports/create)
 - Mengawasi berbagai perkembangan yang terjadi di dalam ranah turnamen secara umum dan memberi saran kepada [account support team](/wiki/People/Account_support_team) seputar tindakan apa-apa saja yang sebaiknya diambil dalam tiap-tiap kasus pelanggaran yang terjadi
 - Memperbaharui informasi yang terdapat pada laman wiki [Official tournament support](/wiki/Tournaments/Official_support) secara berkala
 
