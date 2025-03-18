@@ -2,6 +2,8 @@
 tags:
   - NAT
   - equipo de evaluación de nominaciones
+outdated_translation: true
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
 ---
 
 # Nomination Assessment Team
@@ -10,7 +12,7 @@ tags:
 
 El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) y garantiza que el lado del beatmapping de osu! se mantenga funcional.
 
-Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia del [grupo de usuarios](/wiki/People/User_group) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en los beatmaps, como los [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
+Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia del [grupo de usuarios](/wiki/People/User_groups) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en los beatmaps, como los [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
 
 **Todos los miembros del Nomination Assessment Team juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
@@ -68,7 +70,7 @@ Los miembros del NAT reciben los siguientes beneficios:
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que lleva en el NAT.
   ![Insignia de 1 año en el NAT](https://assets.ppy.sh/profile-badges/NAT1y.png "Insignia de 1 año en el NAT") ![Insignia de 2 años en el NAT](https://assets.ppy.sh/profile-badges/NAT2y.png "Insignia de 2 años en el NAT") ![Insignia de 3 años en el NAT](https://assets.ppy.sh/profile-badges/NAT3y.png "Insignia de 3 años en el NAT") ![Insignia de 4 años en el NAT](https://assets.ppy.sh/profile-badges/NAT4y.png "Insignia de 4 años en el NAT") ![Insignia de 5 años en el NAT](https://assets.ppy.sh/profile-badges/NAT5y.png "Insignia de 5 años en el NAT") ![Insignia de 6 años en el NAT](https://assets.ppy.sh/profile-badges/NAT6y.png "Insignia de 6 años en el NAT") ![Insignia de 7 años en el NAT](https://assets.ppy.sh/profile-badges/NAT7y.png "Insignia de 7 años en el NAT") ![Insignia de 8 años en el NAT](https://assets.ppy.sh/profile-badges/NAT8y.png "Insignia de 8 años en el NAT") ![Insignia de 9 años en el NAT](https://assets.ppy.sh/profile-badges/NAT9y.png "Insignia de 9 años en el NAT") ![Insignia de 10 años en el NAT](https://assets.ppy.sh/profile-badges/NAT10y.png "Insignia de 10 años en el NAT")
 - **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominations)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
-  ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
+  ![Insignia de 100 nominaciones](https://assets.ppy.sh/profile-badges/100_noms.png "Insignia de 100 nominaciones") ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
 - **Elegibilidad para [Elite Nominator](/wiki/People/Elite_Nominators)**: Los miembros del NAT que se desempeñen excepcionalmente como nominadores son elegibles para recibir el estatus anual de Nominador Elite.
 
 ## Promoción al NAT
@@ -89,7 +91,7 @@ Antes de realizar dicha adición, se comprueba la validez de la misma con el res
 
 ## Salida del NAT
 
-Una vez que un miembro del NAT decide dejar el equipo, se le pueden otorgar los siguientes beneficios según las circunstancias:
+Una vez que un miembro del NAT decide dejar el equipo de forma amistosa, se le pueden otorgar los siguientes beneficios según las circunstancias:
 
 - **Título de usuario [osu! Alumni](/wiki/People/osu!_Alumni)**: Se otorga a miembros que formaron parte del equipo durante al menos 1 año, o que hayan realizado contribuciones significativas dentro del equipo durante un período de tiempo más corto.
 - **osu!supporter**: Los miembros recibirán una etiqueta osu!supporter que durará el doble del tiempo que pasaron en el NAT, con las mismas condiciones que los osu! Alumni.

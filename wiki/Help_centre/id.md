@@ -14,7 +14,7 @@ tags:
 
 # Pusat bantuan
 
-Mengalami masalah dengan sesuatu? Kami siap untuk membantumu! Pada halaman ini, kamu dapat menemukan berbagai solusi dari rangkaian masalah yang umum dijumpai. Apabila masalahmu tidak terliput di sini atau terus menjadi-jadi seiring waktunya, kirimkan email kepada kami pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [forum Help](https://osu.ppy.sh/community/forums/5).
+Mengalami masalah dengan sesuatu? Kami siap untuk membantumu! Pada halaman ini, kamu dapat menemukan solusi dari berbagai masalah yang umum dijumpai. Apabila masalahmu tidak terliput di sini atau terus menjadi-jadi seiring waktunya, kirimkan email kepada kami pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [forum Help](https://osu.ppy.sh/community/forums/5).
 
 ## Bagian {id=sections}
 
@@ -23,10 +23,11 @@ Silakan pilih bagian pusat bantuan yang paling menggambarkan masalahmu untuk men
 | Bagian | Topik yang terlingkup |
 | :-- | :-- |
 | [Akun](/wiki/Help_centre/Account) | osu!supporter, entri masuk dan pemulihan akses, perubahan nama pengguna, data profil |
-| [Restriction](/wiki/Help_centre/Account_restrictions) | Segala hal seputar pembatasan akun (*account restriction*): garis besar, proses banding, alasan umum, masa tenggang |
+| [Pembatasan akun](/wiki/Help_centre/Account_restrictions) | Segala hal seputar pembatasan akun (*account restriction*): garis besar, proses banding, alasan umum, masa tenggang |
 | [Beatmapping dan editor](/wiki/Help_centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
 | [Klien](/wiki/Help_centre/Client) | *Bug* dan *crash*, permainan, koneksi, kinerja |
 | [Instalasi dan pendaftaran](/wiki/Help_centre/Installation_and_registration) | Mengunduh permainan, membuat akun |
+| [Silence](/wiki/Help_centre/Silences) | Segala hal seputar pembungkaman (*silence*): garis besar, proses banding, alasan umum |
 | [osu!store](/wiki/Help_centre/Store) | Cendera mata |
 | [Larangan turnamen](/wiki/Help_centre/Tournament_bans) | Segala hal seputar larangan turnamen (*tournament ban*): garis besar, alasan umum, masa tenggang |
 | [Beralih ke lazer](/wiki/Help_centre/Upgrading_to_lazer) | Proses migrasi menuju [versi osu! utama yang akan datang](/wiki/Client/Release_stream/Lazer) |

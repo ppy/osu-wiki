@@ -22,7 +22,7 @@ Le 18 juin 2014, [peppy](https://osu.ppy.sh/users/2) a annoncé que les limitati
 
 ## Août
 
-Le 21 août 2014, un [newspost](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) a été publié pour annoncer une nouvelle restructuration de la [Beatmap Appreciation Team (BAT)](/wiki//Modding/Beatmap_Appreciation_Team), qui détaillait la séparation de l'équipe initiale en une Beatmap Appreciation Team et une [Quality Assurance Team (QAT)](/wiki//Modding/Quality_Assurance_Team).[^bat]
+Le 21 août 2014, un [newspost](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) a été publié pour annoncer une nouvelle restructuration de la [Beatmap Appreciation Team (BAT)](/wiki/Modding/Beatmap_Appreciation_Team), qui détaillait la séparation de l'équipe initiale en une Beatmap Appreciation Team et une [Quality Assurance Team (QAT)](/wiki/Modding/Quality_Assurance_Team).[^bat]
 
 ## Octobre
 

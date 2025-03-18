@@ -6,9 +6,15 @@ tags:
 
 # Beatmap Nominators
 
-*Véase también: [Reglas para los Beatmap Nominators](Rules), [Expectativas de los Beatmap Nominators](Expectations), [Información general para los Beatmap Nominators](General_Information) y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_groups) que dice `BN`.
 
-Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_group) que dice `BN`.
+## Artículos relacionados
+
+- [Reglas para los Beatmap Nominators](Rules)
+- [Expectativas de los Beatmap Nominators](Expectations)
+- [Información general para los Beatmap Nominators](General_Information)
+- [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)
+- [Eventos de Beatmap Nominators](/wiki/Community/Beatmap_Nominator_events)
 
 ## Roles y responsabilidades
 
@@ -42,7 +48,7 @@ Los Beatmap Nominators reciben los siguientes beneficios:
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que han sido BN.
   ![Insignia de BN de 1 año](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "Insignia de BN de 1 año") ![Insignia de BN de 2 años](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "Insignia de BN de 2 años") ![Insignia de BN de 3 años](https://assets.ppy.sh/profile-badges/BN3y.png "Insignia de BN de 3 años") ![4 Insignia de BN de 4 años](https://assets.ppy.sh/profile-badges/BN4y.png "Insignia de BN de 4 años") ![Insignia de BN de 5 años](https://assets.ppy.sh/profile-badges/BN5y.png "Insignia de BN de 5 años") ![Insignia de BN de 6 años](https://assets.ppy.sh/profile-badges/BN6y.png "Insignia de BN de 6 años") ![Insignia de BN de 7 años](https://assets.ppy.sh/profile-badges/BN7y.png "Insignia de BN de 7 años") ![Insignia de BN de 8 años](https://assets.ppy.sh/profile-badges/BN8y.png "Insignia de BN de 8 años") ![Insignia de BN de 9 años](https://assets.ppy.sh/profile-badges/BN9y.png "Insignia de BN de 9 años") ![Insignia de BN de 10 años](https://assets.ppy.sh/profile-badges/BN10y.png "Insignia de BN de 10 años")
 - **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominations)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
-  ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
+  ![Insignia de 100 nominaciones](https://assets.ppy.sh/profile-badges/100_noms.png "Insignia de 100 nominaciones") ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
 - **Elegibilidad para [Elite Nominator](/wiki/People/Elite_Nominators)**: Los Beatmap Nominators que se desempeñen excepcionalmente en su oficio son elegibles para recibir el [título de usuario](/wiki/Community/User_title) Elite Nominator.
 
 ## Miembros del equipo
