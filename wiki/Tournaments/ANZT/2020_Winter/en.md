@@ -1,50 +1,51 @@
-# Aus/NZ osu!standard Tournament 7 - Summer
+# Aus/NZ osu!standard Tournament 7 - Winter
 
-![ANZT 7S logo](img/logo.png)
+![ANZT 7W logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 7 - Summer** (***ANZT 7S***) was a 1v1 double-elimination osu! tournament with a Swiss format group stage hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) and ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054). It was the ninth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 7 - Winter** (***ANZT 7W***) was a 1v1 double-elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) and ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634). It was the tenth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2019-12-22/2020-01-16 |
-| Player Screening | 2020-01-16/2020-01-31 |
-| Group stage | 2020-01-31/2020-03-01 |
-| Round of 32 | 2020-03-06/2020-03-08 |
-| Round of 16 | 2020-03-13/2020-03-15 |
-| Quarterfinals | 2020-03-20/2020-02-22 |
-| Semifinals | 2020-03-27/2020-03-29 |
-| Finals week 1 | 2020-04-03/2020-04-05 |
-| Finals week 2 | 2020-04-10/2020-04-12 |
+| Registration phase | 2020-06-12/2020-06-28 |
+| Player Screening | 2020-06-28/2020-07-05 |
+| Qualifiers | 2020-07-10/2020-07-12 |
+| Round of 64 | 2020-07-17/2020-07-19 |
+| Round of 32 | 2020-07-24/2020-07-26 |
+| Round of 16 | 2020-07-31/2020-08-02 |
+| Quarterfinals | 2020-08-07/2020-08-09 |
+| Semifinals | 2020-08-14/2020-08-16 |
+| Finals week 1 | 2020-08-21/2020-08-23 |
+| Finals week 2 | 2020-08-28/2020-08-30 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $170 AUD, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $90 AUD |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $50 AUD |
 
-![](img/badge.png "ANZT 7S winner badge")
+![](img/badge.png "ANZT 7W winner badge")
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
-| Commentator | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=AU }:: [jordanlr7](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Prosal](https://osu.ppy.sh/users/6654455), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [Maxibon](https://osu.ppy.sh/users/7042924), ::{ flag=AU }:: [Chal](https://osu.ppy.sh/users/4261853), ::{ flag=AU }:: [Tonka Truck](https://osu.ppy.sh/users/8570559) |
-| Streamer | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [Pewdekz](https://osu.ppy.sh/users/5754859), ::{ flag=AU }:: [ill onion](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [jordanlr7](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Maxibon](https://osu.ppy.sh/users/7042924) |
-| Referee | ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118), ::{ flag=AU }:: [loler123903](https://osu.ppy.sh/users/8034438), ::{ flag=AU }:: [ill onion](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Astellis](https://osu.ppy.sh/users/8369780), ::{ flag=VN }:: [steve04](https://osu.ppy.sh/users/10852911), ::{ flag=AU }:: [Soulskyeflare](https://osu.ppy.sh/users/8264319), ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945), ::{ flag=AU }:: [Maxibon](https://osu.ppy.sh/users/7042924), ::{ flag=CA }:: [Sansnaka](https://osu.ppy.sh/users/5543535) |
-| Mappool selector | ::{ flag=JP }:: [ShirohaMyMommy](https://osu.ppy.sh/users/1603923), ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511), ::{ flag=AU }:: [Shiroha](https://osu.ppy.sh/users/3068044), ::{ flag=NZ }:: [phophicles](https://osu.ppy.sh/users/9373724) |
+| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
+| Commentator | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [Pepsi Max](https://osu.ppy.sh/users/7785655), ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=AU }:: [Prosal](https://osu.ppy.sh/users/6654455), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [Raphii](https://osu.ppy.sh/users/5126976) |
+| Streamer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859) |
+| Referee | ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=HK }:: [Cindergoat](https://osu.ppy.sh/users/10168682), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=NZ }:: [- Abby -](https://osu.ppy.sh/users/7740118), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=AU }:: [Astellis](https://osu.ppy.sh/users/8369780), ::{ flag=AU }:: [Soulskyeflare](https://osu.ppy.sh/users/8264319) |
+| Mappool selector | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=NZ }:: [SanaeB](https://osu.ppy.sh/users/9373724), ::{ flag=SG }:: [woahsia](https://osu.ppy.sh/users/195946), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351) |
 | Designer | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1007139)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1086888)
 - [Livestream](https://www.twitch.tv/osuanzt)
-- [Challonge](https://anzttournaments.challonge.com/anzt7s)
-- **[Main sheet](https://docs.google.com/spreadsheets/d/1969n6MJHDTxsjNchoMVZLVCEsbmhztDneEMBwIgMOBA)**
+- [Challonge](https://anzttournaments.challonge.com/ANZT7W)
+- **[Main sheet](https://docs.google.com/spreadsheets/d/1wHU7-e7JTzz6aa8SZK6koNbfX02b0d9AOapp50_ENAk)**
 
 ## Podium
 
@@ -52,9 +53,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) |
 
 All individual match results can be found on the spreadsheet linked above.
 
@@ -363,8 +364,17 @@ All individual match results can be found on the spreadsheet linked above.
 - If a problem occurs where rules are not clear, questions can be directed to staff members. The staff has final say regarding these situations.
 - Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
 - Reschedules must be agreed on by both players, and proof must be provided.
-- All reschedules must be done at least 2 hours before the scheduled match time.
+- All reschedules must be done at least 30 minutes before the scheduled match time.
 - All matches and reschedules will/must be scheduled for Friday, Saturday or Sunday.
+
+### Qualifiers:
+
+- A number of scheduled lobbies will be announced. Players may sign up to a lobby of their choice.
+- Players who can not make a scheduled lobby can request another lobby be hosted at a different time.
+- Players who fail to play the qualifiers by the Tuesday of that week will be disqualified.
+- Referees will create the lobby and invite players 10 minutes before the designated match time.
+- Each lobby will play through the qualifiers mappool once and record your score for each map.
+- Qualifiers will be played with No Fail on.
 
 ### Match rules
 
@@ -372,21 +382,20 @@ All individual match results can be found on the spreadsheet linked above.
 - Players have up to ten minutes after their designated start time to move into the lobby. Failure to show will result in a forfeit.
 - If both players are absent, the match may not be rescheduled.
 - If a referee is not present, the match will be rescheduled.
-- If a player disconnects within the first 30 seconds of a map, it will be aborted and replayed. Any disconnects afterwards will be a forfeit of that map.
-- Disconnects may only occur once per match per player. It will count as a forfeit after the first time.
+- Matches will be played with No Fail on.
+- If a player disconnects within the first quarter of a map, the map will be aborted and replayed. Any further disconnects during the match will result in a forfeit of that map.
 - Highest `!roll` has first warmup and the choice of either 1ˢᵗ ban and 1ˢᵗ pick or 2ⁿᵈ ban and 2ⁿᵈ pick.
-- Each player is allowed one ban. From best of 11, each player is allowed two bans, however, both bans cannot be of the same mod pool. Players may ban multiple No Mod maps. Players will alternate ban picks.
-- Each player is allowed one warmup. Warmups must not be longer than 5 minutes, must not be in any ANZT7S mappool and must be submitted.
-- One player may not pick from the same mod pool twice in a row (HD/HR/DT). This does not apply to No Mod.
-- Failed scores **DO** count. If both players fail, the point goes to the higher failed score.
-- If the match ends in a tie, players will play the tiebreaker. The tiebreaker will be played with Free Mod enabled. Players may choose to use No Mod.
+- Each player is allowed one ban. From best of 11, each player is allowed two bans. Players will alternate ban picks. There are no restrictions on which maps can be banned.
+- Each player is allowed one warmup. Warmups must not be longer than 5 minutes, must not be in the current mappool and must be submitted.
+- If players tie scores on a map, neither player gets a point and the match continues as normal.
+- If the match ends in a tie, players will play the tiebreaker. Each player must play with any of No Mod/HD/HR/HDHR.
 
 ### Winning conditions
 
 | Rounds | Condition |
 | --: | :-- |
-| Group stage | Win four maps (Best-of-7) |
-| Round of 32 | Win five maps (Best-of-9) |
+| Round of 64 | Win four maps (Best-of-7) |
+| Round of 32 | Win four maps (Best-of-7) |
 | Round of 16 | Win five maps (Best-of-9) |
 | Quarterfinals | Win six maps (Best-of-11) |
 | Semifinals | Win six maps (Best-of-11) |
