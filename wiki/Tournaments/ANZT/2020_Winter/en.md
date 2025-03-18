@@ -302,7 +302,7 @@ All individual match results can be found on the spreadsheet linked above.
 - All reschedules must be done at least 30 minutes before the scheduled match time.
 - All matches and reschedules will/must be scheduled for Friday, Saturday or Sunday.
 
-### Qualifiers:
+### Qualifiers
 
 - A number of scheduled lobbies will be announced. Players may sign up to a lobby of their choice.
 - Players who can not make a scheduled lobby can request another lobby be hosted at a different time.
