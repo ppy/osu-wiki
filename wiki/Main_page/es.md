@@ -102,7 +102,7 @@ Iniciativas: [Torneos](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap
 
 [Proyectos](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Reuniones con la comunidad](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly)
 
-Multimedia: [Música hecha a medida](/wiki/Community/Bespoke_music) • [Mangas](/wiki/Community/Manga) • [Serie de vídeos](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+Multimedia: [Música hecha a medida](/wiki/Community/Bespoke_music) • [Mangas](/wiki/Community/Manga) • [Series de vídeos](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
