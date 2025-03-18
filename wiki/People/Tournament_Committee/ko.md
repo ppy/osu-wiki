@@ -19,7 +19,7 @@ tags:
 또한, 토너먼트 위원회는 계정 지원팀과 별개로 다음과 같은 역할을 수행합니다:
 
 - [공식적인 토너먼트 지원](/wiki/Tournaments/Official_support) 위키 페이지의 수정이 필요한지 정기적으로 검토합니다.
-- [토너먼트 보고 양식](https://pif.ephemeral.ink/tournament-reports)에 들어온 신고를 조사합니다.
+- [토너먼트 보고 양식](https://tcomm.hivie.tn/reports/create)에 들어온 신고를 조사합니다.
 - 공식 지원을 요청한 토너먼트가 종료한 뒤, 해당 기준을 충족했는지 확인합니다.
 - osu! 뉴스 팀에게 토너먼트의 [뉴스 게시물 지원](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support)의 허가 여부에 대하여 조언합니다.
 - 공식 지원 기준 변경과 지원을 요청한 토너먼트 상태와 관련하여 플레이어와의 소통을 유지합니다.
@@ -61,7 +61,7 @@ tags:
 
 검토 과정을 통과할 경우, 배정된 멤버는 배지 수여 자격이 있음을 표시하며 계정 지원팀이 나중에 우승자의 프로필에 배지를 적용할 것입니다. 통과하지 못할 경우 토너먼트 호스트에게 어떤 변경 사항이 필요한지 계정 지원팀에게 조언할 수 있습니다. 만약 변경이 불가능한 사안인 경우 토너먼트 위원회는 공식 지원 철회 여부 대한 투표를 실시합니다.
 
-공식 지원 기준을 위반한 토너먼트는 [토너먼트 보고 양식](https://pif.ephemeral.ink/tournament-reports)을 통해 신고할 수 있습니다. 지원을 요청한 토너먼트가 종료된 경우, 조치가 가능한 신고가 있는 경우 토너먼트 위원회는 다음과 같은 조치를 취하게 됩니다:
+공식 지원 기준을 위반한 토너먼트는 [토너먼트 보고 양식](https://tcomm.hivie.tn/reports/create)을 통해 신고할 수 있습니다. 지원을 요청한 토너먼트가 종료된 경우, 조치가 가능한 신고가 있는 경우 토너먼트 위원회는 다음과 같은 조치를 취하게 됩니다:
 
 - 신고에 제기된 문제가 공식 지원 기준을 위반하는지 확인합니다.
 - 조치가 필요한 정도로 심각한 경우, 신고에 자세하게 설명된 사안을 조사한 뒤 사안의 유효성을 확인하고 추가 정보를 수집합니다.
@@ -148,17 +148,22 @@ tags:
 
 ## 토너먼트 위원회 멤버
 
-- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
+- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
+- ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
+- ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
+- ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317)
 
 ## 콘테스트 위원회 멤버
 
@@ -169,6 +174,7 @@ tags:
 
 ## Alumni
 
+- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
