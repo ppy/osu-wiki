@@ -1,9 +1,9 @@
 ---
-outdated_translation: true
-outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - NAT
   - equipo de evaluación de nominaciones
+outdated_translation: true
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
 ---
 
 # Nomination Assessment Team
@@ -91,7 +91,7 @@ Antes de realizar dicha adición, se comprueba la validez de la misma con el res
 
 ## Salida del NAT
 
-Una vez que un miembro del NAT decide dejar el equipo, se le pueden otorgar los siguientes beneficios según las circunstancias:
+Una vez que un miembro del NAT decide dejar el equipo de forma amistosa, se le pueden otorgar los siguientes beneficios según las circunstancias:
 
 - **Título de usuario [osu! Alumni](/wiki/People/osu!_Alumni)**: Se otorga a miembros que formaron parte del equipo durante al menos 1 año, o que hayan realizado contribuciones significativas dentro del equipo durante un período de tiempo más corto.
 - **osu!supporter**: Los miembros recibirán una etiqueta osu!supporter que durará el doble del tiempo que pasaron en el NAT, con las mismas condiciones que los osu! Alumni.
