@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0b3cb1ef20719a9fc83159fade69fdb7cb0825e3
----
-
 # Reglas para los Beatmap Nominators
 
 Las reglas enumeradas aquí afectan a lo que los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) pueden y no pueden hacer cuando nominan beatmaps, así como marcan la conducta general que se espera de ellos. Estas reglas son el resultado de una discusión interna del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) y han tenido en cuenta los comentarios de los Beatmap Nominators sobre su propuesta.
@@ -23,27 +18,18 @@ Una conducta contraria a estas expectativas será motivo de expulsión a discrec
 
 ## Actividad
 
-- **Se deben cumplir los requisitos de actividad para tus respectivos modos de juego.** La actividad de los últimos 90 días se comprobará el primer día de cada mes y durante las evaluaciones periódicas de los BN, teniendo en cuenta las situaciones de ausencia comunicadas.
-  - **Si no se alcanzan los 60 días de nominaciones en un periodo de 90 días, se procederá a la expulsión cuando se compruebe la actividad.** Por ejemplo, un BN de osu! con menos de 6 nominaciones en un periodo de 90 días será expulsado.
-  - **El incumplimiento de los requisitos de 90 días con más de 60 días de nominaciones dará lugar a una advertencia de actividad.**
-  - Cuando se te advierta de tu actividad, deberás cumplir los requisitos mínimos de actividad para tus respectivos modos de juego en el transcurso de un mes.
-  - No cumplir con el mínimo requerido cuando se ha sido advertido por ello previamente puede suponer la expulsión de los Beatmap Nominators.
-- Se espera que los Beatmap Nominators se mantengan por debajo de un número máximo de nominaciones en cualquier periodo de 90 días, teniendo cada modo su propio límite de nominaciones. Superar esta cantidad dará lugar a una advertencia, seguida de una expulsión si no gestionan su actividad en consecuencia.
-  - osu!, osu!catch, osu!mania: 75 nominaciones.
-  - osu!taiko: 100 nominaciones.
-- Se espera que los Beatmap Nominators que regresan en buenos términos alcancen los requisitos mínimos de actividad de su modo en los primeros 30 días desde su reincorporación. Permanecer inactivo durante este periodo de tiempo puede dar lugar a una advertencia o a una expulsión, que se evaluará caso por caso.
+La actividad de los Beatmap Nominators se mide a través de las nominaciones,[^multi-key-mode] y se evalúa durante las evaluaciones periódicas de los BN, que tienen lugar cada 90 días aproximadamente.
 
-### Requisitos
+- Los Beatmap Nominators deben nominar al menos **6** beatmaps durante un periodo de 90 días.
+  - Se dará una advertencia de actividad cuando se incumpla esta regla.
+  - Estar por debajo de **4** nominaciones supondrá siempre la expulsión de los Beatmap Nominators.
+- Los Beatmap Nominators híbridos deben nominar al menos **3** beatmaps por modo de juego que dominen durante un periodo de 90 días.
+  - Se dará una advertencia de actividad en el modo de juego correspondiente cuando se incumpla esta regla.
+  - Estar por debajo de **2** nominaciones en un determinado modo de juego supondrá siempre la expulsión de los Beatmap Nominators de dicho modo de juego.
+- Cuando se te advierta de tu actividad, los requisitos mínimos de actividad deben cumplirse al cabo de 30 días.
+- No cumplir con el mínimo requerido cuando se ha sido advertido por ello en un periodo de 1 año supondrá la expulsión de los Beatmap Nominators.
 
-La actividad de los Beatmap Nominators se mide principalmente por las nominaciones. El restablecimiento de los beatmaps se tiene en cuenta, pero en menor medida, y no tiene una proporción establecida en comparación con las nominaciones.
-
-Cada modo tiene su propio mínimo requerido de actividad mensual.
-
-| Modo de juego | Requisito |
-| :-- | :-- |
-| osu!, osu!taiko | 3 nominaciones |
-| osu!catch, osu!mania[^multi-key-mode] | 2 nominaciones |
-| Híbrido | 3 nominaciones, con al menos 1 por modo de juego dominante |
+Cuando se haya creado la evaluación de un Beatmap Nominator y aún tenga que cumplir sus requisitos mínimos de actividad, recibirá un recordatorio a través del [bot del NAT](https://osu.ppy.sh/users/6616586) y tendrá **7** días para cumplir su cuota.
 
 ## Nominaciones
 

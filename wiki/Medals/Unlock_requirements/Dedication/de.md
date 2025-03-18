@@ -35,3 +35,11 @@
 | 400.000 Keys | Treffe insgesamt 400.000 Tasten in osu!mania. | Four hundred thousand and still not even close. |
 | 4.000.000 Keys | Treffe insgesamt 4.000.000 Tasten in osu!mania. | Is this the end of the rainbow? |
 | 40.000.000 Keys | Treffe insgesamt 40.000.000 Tasten in osu!mania. | When someone asks which keys you play, the answer is now 'yes'. |
+
+## Tägliche Herausforderung
+
+| Medaillenname | Anforderung | Beschreibung |
+| :-- | :-- | :-- |
+| Daily Sprout | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) einmal. | Ready for anything. |
+| Weekly Sapling | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) 7 Mal hintereinander. | Circadian rhythm calibrated. |
+| Monthly Shrub | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) 30 Mal hintereinander. | In for the grind. |

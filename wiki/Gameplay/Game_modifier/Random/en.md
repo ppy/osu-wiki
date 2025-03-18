@@ -11,6 +11,7 @@ tags:
 
 ![RD mod icon](/wiki/shared/mods/RD.png "Random (RD) mod icon")
 
+*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Random (lazer mod)](/wiki/Gameplay/Game_modifier/Random_(lazer))*\
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## About

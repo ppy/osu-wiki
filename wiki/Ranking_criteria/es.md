@@ -1,25 +1,9 @@
----
-outdated_translation: true
-outdated_since: 40eac2ffc88cfc52c5dd2bb6574fb2f70a4ec3e6
----
-
 # Criterios de clasificación
 
 Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
 - **Las reglas no deben romperse bajo ninguna circunstancia.**
 - **Las pautas pueden ignorarse y romperse en circunstancias excepcionales.** Al hacerlo, el mapper debe proporcionar una explicación adecuada, ya sea por adelantado o cuando se le solicite durante el proceso de modding.
-
-## Cómo proponer cambios
-
-Los cambios en cualquier parte de los criterios de clasificación se proponen a través del [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).
-
-1. **Crea una propuesta en el [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).** Intenta ser lo más detallado posible al explicar tu idea y el impacto del cambio.
-2. **Llega a un consenso.** Si crees que estás en ese punto, ponte en contacto con un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) para ver si tu propuesta puede implementarse. Hasta cierto punto, el NAT puede actuar como árbitro en casos contenciosos, pero es probable que las propuestas que no cuenten con un consenso general no se aprueben.
-3. **Crea una solicitud de cambios en el repositorio de la osu! wiki en GitHub.** Por lo general, esto lo hace un miembro del NAT que participa en la finalización de la discusión.
-4. **Espera la aprobación de [peppy](https://osu.ppy.sh/users/2).**
-
-Los cambios que no alteren el significado o la intención de los criterios de clasificación, como las mejoras ortográficas, gramaticales o de organización, pueden no necesitar una propuesta en el foro. Sin embargo, es recomendable que consultes con los miembros más experimentados de la comunidad si los cambios son útiles y bienvenidos.
 
 ## Índice
 
@@ -48,6 +32,17 @@ Cada [modo de juego](/wiki/Game_mode) tiene criterios de clasificación específ
 - **[osu!taiko](osu!taiko)**
 - **[osu!catch](osu!catch)**
 - **[osu!mania](osu!mania)**
+
+## Cómo proponer cambios
+
+Los cambios en cualquier parte de los criterios de clasificación se proponen a través del [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).
+
+1. **Crea una propuesta en el [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).** Intenta ser lo más detallado posible al explicar tu idea y el impacto del cambio.
+2. **Llega a un consenso.** Si crees que estás en ese punto, ponte en contacto con un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) para ver si tu propuesta puede implementarse. Hasta cierto punto, el NAT puede actuar como árbitro en casos contenciosos, pero es probable que las propuestas que no cuenten con un consenso general no se aprueben.
+3. **Crea una solicitud de cambios en el repositorio de la osu! wiki en GitHub.** Por lo general, esto lo hace un miembro del NAT que participa en la finalización de la discusión.
+4. **Espera la aprobación de [peppy](https://osu.ppy.sh/users/2).**
+
+Los cambios que no alteren el significado o la intención de los criterios de clasificación, como las mejoras ortográficas, gramaticales o de organización, pueden no necesitar una propuesta en el foro. Sin embargo, es recomendable que consultes con los miembros más experimentados de la comunidad si los cambios son útiles y bienvenidos.
 
 ## Herramientas
 
@@ -97,7 +92,6 @@ Importante entender antes de usar:
   - La dificultad más alta de cada modo de juego.
   - Las dificultades más altas de cada modo de juego con un nivel de dificultad similar, aplicándose solo a las dificultades Insane y Extra (por ejemplo, las dificultades Insane de un conjunto ENHIIII o las dificultades Extra de un conjunto ENHIIXXX).
 - **Los nombres de dificultad personalizados de un beatmap deben seguir un tema o patrón común relacionado con la canción o dificultad y no deben ser tergiversados.** Un nombre de dificultad es engañoso si implica un nivel de dificultad diferente (por ejemplo, nombrar una dificultad «Expert» como «Normal»).
-- **El nombre de una dificultad no debe consistir únicamente de uno o más nombres de usuario.** Las palabras que sean nombres de usuario son aceptables en los nombres de las dificultades siempre que estén relacionadas con la canción.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) no puede indicar posesión en el nombre de una dificultad.** (por ejemplo, Beatmap Host's Insane). Las únicas excepciones son los conflictos causados por el beatmapping de varias canciones con los mismos metadatos y las [dificultades colaborativas](/wiki/Beatmap/Beatmap_collaborations). Las [dificultades de invitado](/wiki/Beatmap/Guest_difficulty), sin embargo, pueden indicar posesión con el nombre de usuario o apodo de sus creadores.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) debe haber mapeado igual o más dificultades que cualquier creador de [dificultades de invitado](/wiki/Beatmap/Guest_difficulty).** Esto se hace para dar crédito a quien lo merece. Las [dificultades colaborativas](/wiki/Beatmap/Beatmap_collaborations) solo se consideran dificultades parciales, y el [tiempo de drenaje](/wiki/Beatmap/Drain_time) se usará para determinar la cantidad de contribución cuando un invitado haya mapeado significativamente más que el anfitrión.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) y los creadores de [dificultades de invitado](/wiki/Beatmap/Guest_difficulty) pueden hacer cambios en sus respectivas dificultades como deseen.** En caso de desacuerdo entre ambos, el anfitrión del beatmap deberá eliminar la contribución del invitado si así lo solicita. Si no se puede contactar con el creador de una dificultad de invitado durante un mes, se asumirá que está de acuerdo con cualquier cambio.
@@ -134,8 +128,8 @@ Importante entender antes de usar:
 ### Reglas
 
 - **El archivo de audio de un beatmap debe...**
-  - **... usar el formato de archivo `.mp3` u `.ogg`.**
-  - **... tener una tasa de bits media no superior a 192 kbps para archivos `.mp3`, o 208 kbps para archivos `.ogg`.**
+  - **... estar codificado en MP3 (`.mp3`) u [Ogg Vorbis](https://es.wikipedia.org/wiki/Vorbis) (`.ogg`).**
+  - **... tener una tasa de bits media no superior a 192 kbps para archivos MP3, o 208 kbps para archivos Ogg Vorbis.**
   - **... tener una tasa de bits media no inferior a 128 kbps**, si existe tal fuente. En caso contrario, usa la calidad más alta disponible.
   - **... no ser codificado a partir de una tasa de bits inferior.**
 - **Un beatmap solo puede contener un archivo de canción usado por todas las dificultades.** No se admiten varios archivos de canciones dentro de un mismo beatmap, lo que provocaría un comportamiento inesperado con los tiempos de previsualización, los metadatos, etc.
@@ -143,7 +137,7 @@ Importante entender antes de usar:
   - **Los beatmaps de osu!mania no requieren de adiciones de hitsounds.**[^normal-vs-addition] Esto es para permitir una mayor accesibilidad a los mappers de osu!mania de diferentes tipos. Sigue siendo muy recomendable usar adiciones de hitsounds para mejorar la sensación de tus beatmaps.
 - **Todas las partes de los objetos en las que se haga clic deben tener al menos un hitsound...**
   - **... que tenga un impacto claro, cuyo pico no se retrase más de 5 milisegundos.** `normal-hitfinish.wav` de la skin por defecto está exento de esto.
-  - **... usa el formato de archivo `.wav` u `.ogg`.** Los `.mp3` no deberían usarse aquí, ya que tiene un retraso inherente.
+  - **... que use el formato de archivo WAV (`.wav`) u Ogg Vorbis (`.ogg`) sin comprimir.** Los MP3 no deberían usarse aquí, ya que tienen un retraso inherente.
   - Esto garantiza una respuesta audible instantánea al hacer clic en los objetos, sincronizándose con la canción de forma que los jugadores puedan determinar lo pronto o tarde que están haciendo clic. osu!mania está exento de esto debido a sus objetos concurrentes.
 - **Los hitsounds deben ser audibles.** Su propósito es proporcionar feedback, por lo que los hitsounds con un volumen extremadamente bajo o las muestras que se mezclan con las muestras las muestras de una canción son inaceptables. Los modos de juego específicos incluyen excepciones a esta regla en sus respectivos criterios de clasificación.
 - **Los puntos de previsualización deben establecerse y ser consistentes entre todas las dificultades de un beatmap.** Esto se usa tanto para el menú de selección de canciones como para la vista previa en línea.
@@ -159,7 +153,7 @@ Importante entender antes de usar:
 - **Las [compilaciones de canciones](/wiki/Beatmap/Song_compilation) u otras pistas tipo popurrí deben mezclarse limpiamente con transiciones adecuadas, y no deben incluir pausas bruscas ni fundidos largos entre diferentes canciones.** Las canciones usadas para la compilación deben ser similares en cuanto a calidad de audio, volumen y duración. Esto es para garantizar que las compilaciones ofrezcan la misma experiencia de juego que otros beatmaps. Las transiciones cruzadas son aceptables, pero deben usarse con moderación y, por lo general, no deben durar más de 5 segundos. Las transiciones con el mismo ritmo y bien planificadas son siempre una mejor opción que el fundido cruzado.
 - **La combinación de 2 canciones deben estar claramente y estrechamente relacionadas.** Ejemplos de esto incluye, pero no se limita a, que sean iteraciones de la misma serie de canciones, que estén relacionadas en letra o motivos, que sean similares en tono y/o género, etc.
 - **Las canciones cortadas deben mantener la impresión general y la intensidad de la canción completa.** Los cortes que cambien la estructura de la canción completa (como excluir o reorganizar la introducción/verso/estribillo/outro de una canción) pueden dar lugar a una representación errónea de la misma y, a menudo, provocar experiencias de jugabilidad insatisfactorias. Esto no se aplica a los cortes oficiales ni a las recreaciones de cortes oficiales.
-- **Los [sonidos de juego](/wiki/Skinning/Sounds#sonidos-dentro-de-un-beatmap), excluyendo los [hitsounds activos](/wiki/Beatmapping/Hitsound#hitsound-activo) deben usar los formatos de archivo `.mp3` u `.ogg`.** Estos archivos suelen tener duraciones largas y los archivos `.wav` son innecesariamente grandes en comparación, sin embargo `.wav` se debe usar cuando resulta en un tamaño de archivo más pequeño.
+- **Los [sonidos de juego](/wiki/Skinning/Sounds#sonidos-dentro-de-un-beatmap), excluyendo los [hitsounds activos](/wiki/Beatmapping/Hitsound#hitsound-activo) deberían usar el formato de archivo MP3 (`.mp3`) u Ogg Vorbis (`.ogg`).** Estos archivos suelen tener una duración larga y los archivos WAV (`.wav`) sin comprimir son innecesariamente grandes en comparación; sin embargo, se debería usar WAV sin comprimir cuando resulte en un tamaño de archivo menor.
 - **Evita sustituir el hit finish en los conjuntos de muestra soft/normal por muestras de hitsounds personalizados de uso frecuente.** Usar estos finishes para representar la caja/bombo o la melodía de una canción puede sonar odioso para cualquiera que desactive los hitsounds del beatmap. Se recomienda sustituir los hit whistles/claps porque esas muestras se usan más a menudo.
 
 ## Vídeo y fondo

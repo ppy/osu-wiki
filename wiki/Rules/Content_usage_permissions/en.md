@@ -32,7 +32,7 @@ While music is frequently copyright-restricted, sound effects used for custom hi
 
 This section details which artists are willing to allow use of their audio works in osu!, and under what conditions (where appropriate).
 
-All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) are approved for use in the creation of osu! beatmaps. Tracks from a Featured Artist that do not appear in their listing are *not* licensed, and additional permissions may be required to use them.
+All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) are licensed and approved for use in the creation of osu! beatmaps, regardless of any blanket disapprovals in these lists. Tracks from a Featured Artist that do not appear in their listing are *not* licensed, and additional permissions may be required to use them.
 
 #### Allowed
 
@@ -301,7 +301,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
-|  | PanPanPanic | ![][true] |
+|  | [PanPanPanic](https://www.youtube.com/channel/UCGrEYs4BHutJSqE5fR8WY1g) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
@@ -392,7 +392,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
-|  | veexie | ![][true] |
+|  | [VEEXIE](https://www.youtube.com/@veexie/videos) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |
@@ -422,12 +422,15 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 #### Allowed, with exceptions
 
+This section was last updated on March 7, 2025.
+
 | Artist |  | Status | Notes |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or [Bandcamp](https://a-hisa.bandcamp.com/). |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Do not use the track titled "execution_program". |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |

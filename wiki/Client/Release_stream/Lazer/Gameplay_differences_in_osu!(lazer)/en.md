@@ -17,7 +17,7 @@ Instead of pausing gameplay while filling up the health bar, health is restored 
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
-### All game modes except osu!catch use the same grading system
+### Differences in grading systems
 
 In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:
 
