@@ -6,6 +6,8 @@ tags:
   - osu! team
   - staff
   - team osu!
+outdated_translation: true
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
 ---
 
 # osu!-Team
