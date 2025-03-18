@@ -94,11 +94,11 @@ The 3 Digit World Cup 2025 is run by various community members.
 
 ## Match schedule: Grand Finals
 
-### Sunday, March 16
+### Sunday, March 23
 
 | Red Team | Blue Team | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | Mar 16 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) |  |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | Mar 23 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) |  |
 
 ## Mappools
 
@@ -274,7 +274,13 @@ Saturday, 15 March 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/117486446) |  |
+| **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/117486446) | [#1](https://www.youtube.com/watch?v=gjVsVFJvn5o) |
+
+Sunday, 16 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| United States ::{ flag=US }:: | 1 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/117495377) | [#1](https://www.youtube.com/watch?v=PjAs9o0a9PI) |
 
 ### Finals
 
