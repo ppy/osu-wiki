@@ -7,7 +7,7 @@ tags:
 
 # 토너먼트 위원회
 
-**토너먼트 위원회**는 토너먼트 현장에서 확실하게 숙련된 주최자와 헬퍼로 구성된 위원회입니다. 급속도로 성장하는 토너먼트 현장에 대응하기 위하여 이는 2021년 7월 22일 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 `#tournaments` 채널에서 처음 공개되었습니다.
+**토너먼트 위원회**는 토너먼트 현장에서 확실하게 숙련된 주최자와 헬퍼로 구성된 위원회입니다. 토너먼트 위원회 멤버들은 주황색 유저 타이틀과 `TC`배지로 표시된 [유저 그룹](/wiki/People/User_groups)으로 구별되어 있으며, 급속도로 성장하는 토너먼트 현장에 대응하기 위하여 이는 2021년 7월 22일 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 `#tournaments` 채널에서 처음 공개되었습니다.
 
 토너먼트 위원회의 책임 중에는 다음 사항과 관련하여 [계정 지원팀](/wiki/People/Account_support_team)에게 조언하는 것을 포함합니다:
 
@@ -146,7 +146,11 @@ tags:
 - **임기 배지**: 위원회에 참가한 기간을 1년부터 10년까지 표시해 주는 [프로필 배지](/wiki/Community/Profile_badge)입니다.
   ![토너먼트 위원회 1년 배지](https://assets.ppy.sh/profile-badges/tcomm-1y.png "토너먼트 위원회 1년 배지") ![토너먼트 위원회 2년 배지](https://assets.ppy.sh/profile-badges/tcomm-2y.png "토너먼트 위원회 2년 배지") ![토너먼트 위원회 3년 배지](https://assets.ppy.sh/profile-badges/tcomm-3y.png "토너먼트 위원회 3년 배지") ![토너먼트 위원회 4년 배지](https://assets.ppy.sh/profile-badges/tcomm-4y.png "토너먼트 위원회 4년 배지") ![토너먼트 위원회 5년 배지](https://assets.ppy.sh/profile-badges/tcomm-5y.png "토너먼트 위원회 5년 배지") ![토너먼트 위원회 6년 배지](https://assets.ppy.sh/profile-badges/tcomm-6y.png "토너먼트 위원회 6년 배지") ![토너먼트 위원회 7년 배지](https://assets.ppy.sh/profile-badges/tcomm-7y.png "토너먼트 위원회 7년 배지") ![토너먼트 위원회 8년 배지](https://assets.ppy.sh/profile-badges/tcomm-8y.png "토너먼트 위원회 8년 배지") ![토너먼트 위원회 9년 배지](https://assets.ppy.sh/profile-badges/tcomm-9y.png "토너먼트 위원회 9년 배지") ![토너먼트 위원회 10년 배지](https://assets.ppy.sh/profile-badges/tcomm-10y.png "토너먼트 위원회 10년 배지")
 
-## 토너먼트 위원회 멤버
+## 위원회 멤버
+
+현재 위원회 멤버 목록은 [토너먼트 위원회 그룹 페이지](https://osu.ppy.sh/groups/50)에서 볼 수 있습니다.
+
+### 토너먼트 위원회
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
@@ -165,14 +169,14 @@ tags:
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
 - ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317)
 
-## 콘테스트 위원회 멤버
+### 콘테스트 위원회
 
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
 
-## Alumni
+### Alumni
 
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
