@@ -4,7 +4,7 @@ no_native_review: true
 
 # .osr (format berkas)
 
-**.osr** merupakan format berkas yang mengandung informasi seputar [tayangan ulang](/wiki/Gameplay/Replay) osu! tertentu. Agar berkas ini dapat dibuka di dalam permainan, [beatmap](/wiki/Beatmap) yang terhubung dengan berkas ini harus dimiliki oleh osu! di dalam folder "Songs".
+**.osr** merupakan format berkas yang menguraikan rincian [tayangan ulang](/wiki/Gameplay/Replay) osu! tertentu. Berkas `.osr` hanya akan dapat diputar apabila klien permainan memiliki [beatmap](/wiki/Beatmap) yang digunakan untuk merekam berkas ini secara persis.
 
 ## Jenis data
 
@@ -62,7 +62,7 @@ Pada saat didekompresi, sisa data ini akan mengeluarkan teks yang berisikan berb
 | y | Float | Koordinat sumbu-y kursor dari 0 - 384 |
 | z | Integer | Kombinasi bit dari tuts keyboard/tombol mouse yang ditekan (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke 16) (K1 selalu digunakan bersamaan dengan M1; K2 selalu digunakan bersamaan dengan M2; 1+4=5, 2+8=10) |
 
-Pada tayangan ulang yang dicatatkan pada osu! versi `20130319` atau yang lebih baru, nomor benih acak (*RNG seed*) 32-bit yang digunakan pada skor akan dienkodekan ke dalam frame tayangan ulang tambahan di akhir stream LZMA dengan format `-12345|0|0|nomor benih`.
+Pada tayangan ulang yang direkam pada osu! versi `20130319` atau yang lebih baru, nomor benih acak (*RNG seed*) 32-bit yang digunakan pada skor akan dienkodekan ke dalam frame tayangan ulang tambahan di akhir stream LZMA dengan format `-12345|0|0|nomor benih`.
 
 ## Mod
 
