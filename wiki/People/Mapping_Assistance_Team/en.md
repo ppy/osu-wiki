@@ -24,9 +24,9 @@ Following a gradual convergence of experience and responsibility between the two
 
 ## References
 
-[^1]:  [Forum post announcing the creation of the MAT.](https://osu.ppy.sh/community/forums/topics/21856?n=1)
-[^2]:  [Forum post announcing the addition of the new members.](https://osu.ppy.sh/community/forums/topics/25314?n=1)
-[^3]:  [Forum post announcing the discontinuation of proto-bubbles for MATs.](https://osu.ppy.sh/community/forums/topics/28143?n=57)
-[^4]:  [Forum post discussing the state of the MAT.](https://osu.ppy.sh/community/forums/topics/36277?n=1)
-[^5]:  [Forum post announcing that MATs are able to bubble maps.](https://osu.ppy.sh/community/forums/topics/38405?n=1)
-[^6]:  [Forum post announcing the end of the MAT.](https://osu.ppy.sh/community/forums/topics/129165?n=1)
+[^1]:  [Forum thread by Pasonia (2009-12-27) "Introducing the Mapping Assistance Team!"](https://osu.ppy.sh/community/forums/topics/21856?n=1)
+[^2]:  [Forum thread by Ephemeral (2010-02-26) "Round 1 of the NewMAT: Results"](https://osu.ppy.sh/community/forums/topics/25314?n=1)
+[^3]:  [Forum post by Ephemeral (2010-04-13) in "MATs are pretty useless."](https://osu.ppy.sh/community/forums/posts/379198)
+[^4]:  [Forum thread by ztrot (2010-08-28) "MAT Wake Up Call!"](https://osu.ppy.sh/community/forums/topics/36277?n=1)
+[^5]:  [Forum thread by peppy (2010-10-04) "MAT members can now bubble beatmaps"](https://osu.ppy.sh/community/forums/topics/38405?n=1)
+[^6]:  [Forum thread by Ephemeral (2013-04-23) "The end of the MAT"](https://osu.ppy.sh/community/forums/topics/129165?n=1)
