@@ -2,8 +2,6 @@
 tags:
   - pp committee
   - comité de pp
-outdated_translation: true
-outdated_since: 6aafc526068a3b650c6a7ec10c3dd133d13afdce
 ---
 
 # Comité de puntos de rendimiento
@@ -13,21 +11,28 @@ El **comité de puntos de rendimiento** es un panel de jugadores y desarrollador
 Las responsabilidades del comité de puntos de rendimiento incluyen:
 
 - Organizar el desarrollo y ayudar a los contribuidores
-- Revisar y desarrollar cambios en los algoritmos de cálculo de las dificultades
+- Revisar y desarrollar cambios en los algoritmos de cálculo de las dificultades, garantizando la satisfacción de la comunidad
 - Decidir qué cambios se implementarán y se usarán en el juego
-- Ayudar a redactar las noticias sobre los cambios recién implementados
+- Ayudar a los [mantenedores de puntos de rendimiento](#mantenedores-de-puntos-de-rendimiento) a redactar las noticias sobre los cambios recién implementados
 
 ## Flujo de trabajo
 
-Cuando se propone un nuevo cambio en el cálculo de las dificultades en [GitHub](https://github.com/ppy/osu), se solicita a los miembros del comité de puntos de rendimiento responsables del [modo de juego](/wiki/Game_mode) correspondiente que lo revisen. Luego, esos miembros del comité revisan y prueban la propuesta y escriben sus comentarios en dicha página de GitHub. Si el comité decide aprobar los cambios, la propuesta pasará a los [desarrolladores de osu!](/wiki/People/Developers) para la revisión final del código antes de que se fusione en el juego.
-
-Los desarrolladores de osu! se encargarán de preparar las propuestas fusionadas para que se implementen por lotes. Una implementación recalcula las calificaciones por estrellas de todos los beatmaps y los puntos de rendimiento de todas las puntuaciones de los usuarios. El comité de puntos de rendimiento ayuda a redactar la noticia que acompaña a cada implementación.
+Cuando se propone un nuevo cambio en el cálculo de las dificultades en [GitHub](https://github.com/ppy/osu), se solicita a los miembros del comité de puntos de rendimiento responsables del [modo de juego](/wiki/Game_mode) correspondiente que lo revisen. Luego, esos miembros del comité revisan y prueban la propuesta y escriben sus comentarios en dicha página de GitHub. Si el comité decide aprobar los cambios, la propuesta pasará a los mantenedores de puntos de rendimiento para una revisión final antes de que se fusione en el juego.
 
 ## Comunicación
 
 El comité de puntos de rendimiento opera principalmente en el [servidor de Discord Performance Points](https://discord.gg/aqPCnXu), aunque algunos modos de juego también cuentan con [servidores independientes](/wiki/Community/Discord_servers#servidores-relacionados-con-el-desarrollo-de-la-comunidad). El comité también tiene una cuenta de [Twitter](https://x.com/pp_committee) que se usa para anuncios oficiales y noticias relacionadas con el cálculo de las dificultades.
 
-## Miembros
+## Mantenedores de puntos de rendimiento
+
+Los mantenedores son elegidos personalmente por los desarrolladores de osu! y están formados por personas con mucha experiencia en la organización de los puntos de rendimiento. Se encargan de escribir noticias, fusionar lotes de cambios en la rama [`pp-dev`](https://github.com/ppy/osu/tree/pp-dev) en el [repositorio osu!](https://github.com/ppy/osu) y dar el visto bueno final a todos los cambios de PP.
+
+| Perfil de osu! | Perfil de GitHub |
+| :-- | :-- |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
+
+## Miembros del comité
 
 Los miembros del comité son elegidos cuidadosamente por los desarrolladores de osu! y/u otros miembros del comité y están formados por personas con mucha experiencia trabajando en el sistema del cálculo de las dificultades.
 
@@ -57,7 +62,6 @@ El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encue
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1 de mayo de 2022 |
 | ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/22194163) | [Babysnakes101](https://github.com/BabySnakes101) | 1 de diciembre de 2024 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 de septiembre de 2023 |
-| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | [kadenbruh](https://github.com/kadenbruh) | 1 de diciembre de 2024 |
 | ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) | 1 de diciembre de 2024 |
 
 #### Miembros anteriores
@@ -68,6 +72,7 @@ El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encue
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1 de mayo de 2022 | 31 de octubre de 2024 |
 | ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | 25 de julio de 2023 | 19 de noviembre de 2024 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 1 de mayo de 2022 | 24 de noviembre de 2024 |
+| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | 1 de diciembre de 2024 | 6 de enero de 2025 |
 
 ### osu!catch
 
@@ -77,9 +82,14 @@ El comité de osu!catch se formó el 14 de octubre de 2023.
 | :-- | :-- | :-- |
 | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 de octubre de 2023 |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) | 14 de octubre de 2023 |
-| ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | [Sorceress-osu](https://github.com/Sorceress-osu) | 14 de octubre de 2023 |
-| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | [Zoggoth](https://github.com/Zoggoth) | 14 de octubre de 2023 |
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 de octubre de 2023 |
+
+#### Miembros anteriores
+
+| Perfil de osu! | Fecha de ingreso | Fecha de salida |
+| :-- | :-- | :-- |
+| ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | 14 de octubre de 2023 | 11 de diciembre de 2024 |
+| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | 14 de octubre de 2023 | 11 de diciembre de 2024 |
 
 ### osu!mania
 
