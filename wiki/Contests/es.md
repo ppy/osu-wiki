@@ -156,7 +156,7 @@ En su lanzamiento, el concurso fue nombrado «Best of», ya que la premisa inici
 
 **Fan Art Contest** es un concurso de dibujo donde los artistas participantes de la comunidad son desafiados a crear el mejor fan art para osu! involucrando a [las mascotas de osu!](/wiki/Mascots) a través de varios temas y conceptos artísticos.
 
-| Concurso núm. | Título | Tema | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |  |
+| Concurso núm. | Título | Tema | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/community/forums/topics/198551) | osu! Monthly Fanart Contest #1 | pippi, la mascota de osu! | ::{ flag=PH }:: [kunny](https://osu.ppy.sh/users/3931585) | ::{ flag=MY }:: [DumplingYumYum](https://osu.ppy.sh/users/1715930) | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | [#1](https://osu.ppy.sh/community/forums/topics/210503) |
 | [#2](https://osu.ppy.sh/community/forums/topics/206852) | osu! Monthly Fanart Contest #2 | osu! alrededor del mundo | ::{ flag=ID }:: [TapponNANA](https://osu.ppy.sh/users/2496203) | ::{ flag=PH }:: [hews](https://osu.ppy.sh/users/1715930) | ::{ flag=US }:: [gendo0032](https://osu.ppy.sh/users/3191089) | [#1](https://osu.ppy.sh/home/news/2014-07-04-second-official-osu-fanart-contest-results) |
