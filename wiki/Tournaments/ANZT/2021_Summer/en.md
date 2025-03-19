@@ -1,50 +1,53 @@
-# Aus/NZ osu!standard Tournament 7 - Winter
+# Aus/NZ osu!standard Tournament 8 - Summer
 
-![ANZT 7W logo](img/logo.png)
+![ANZT 8S logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 7 - Winter** (***ANZT 7W***) was a 1v1 double-elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) and ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634). It was the tenth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 8 - Summer** (***ANZT 8S***) was a 1v1 double-elimination osu! tournament with a two week, round robin group stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) and ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634). It was the eleventh instalment of the Aus/NZ tourneys.
+
+ANZT 8S was the first tournament in the ANZT series to feature automatic qualification for players of the previous iteration; [ANZT 7W](../2020_Winter/). This allowed the top 16 players from [ANZT 7W](../2020_Winter/) to skip the group stage.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-06-12/2020-06-28 |
-| Player Screening | 2020-06-28/2020-07-05 |
-| Qualifiers | 2020-07-10/2020-07-12 |
-| Round of 64 | 2020-07-17/2020-07-19 |
-| Round of 32 | 2020-07-24/2020-07-26 |
-| Round of 16 | 2020-07-31/2020-08-02 |
-| Quarterfinals | 2020-08-07/2020-08-09 |
-| Semifinals | 2020-08-14/2020-08-16 |
-| Finals week 1 | 2020-08-21/2020-08-23 |
-| Finals week 2 | 2020-08-28/2020-08-30 |
+| Registration phase | 2020-12-18/2021-01-08 |
+| Player Screening | 2021-01-08/2021-01-12 |
+| Groups | 2021-01-22/2021-01-31 |
+| Round of 32 | 2021-02-05/2021-02-07 |
+| Round of 16 | 2021-02-12/2021-02-14 |
+| Quarterfinals | 2021-02-19/2021-02-21 |
+| Semifinals | 2021-02-26/2021-02-28 |
+| Finals week 1 | 2021-03-05/2021-03-07 |
+| Finals week 2 | 2021-03-12/2021-03-14 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $170 AUD, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $90 AUD |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $50 AUD |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $104 AUD, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $63 AUD |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $42 AUD |
 
-![](img/badge.png "ANZT 7W winner badge")
+![](img/badge.png "ANZT 8S winner badge")
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
-| Commentator | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [Pepsi Max](https://osu.ppy.sh/users/7785655), ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=AU }:: [Prosal](https://osu.ppy.sh/users/6654455), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [Raphii](https://osu.ppy.sh/users/5126976) |
-| Streamer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859) |
-| Referee | ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=HK }:: [Cindergoat](https://osu.ppy.sh/users/10168682), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=NZ }:: [- Abby -](https://osu.ppy.sh/users/7740118), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=AU }:: [Astellis](https://osu.ppy.sh/users/8369780), ::{ flag=AU }:: [Soulskyeflare](https://osu.ppy.sh/users/8264319) |
-| Mappool selector | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=NZ }:: [SanaeB](https://osu.ppy.sh/users/9373724), ::{ flag=SG }:: [woahsia](https://osu.ppy.sh/users/195946), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351) |
+| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
+| Commentator | ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Pepsi Max](https://osu.ppy.sh/users/7785655), ::{ flag=AU }:: [DJ Rinickulous](https://osu.ppy.sh/users/4999984), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [zzzbored](https://osu.ppy.sh/users/3222676), ::{ flag=AU }:: [Arbusion](https://osu.ppy.sh/users/11469447), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Raphii](https://osu.ppy.sh/users/5126976) |
+| Streamer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859), ::{ flag=AU }:: [Snowpoint](https://osu.ppy.sh/users/9383377), ::{ flag=AU }:: [zzzbored](https://osu.ppy.sh/users/3222676), ::{ flag=US }:: [Xpekade](https://osu.ppy.sh/users/10775293), ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938) |
+| Referee | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [DJ Rinickulous](https://osu.ppy.sh/users/4999984), ::{ flag=AU }:: [Apsychos](https://osu.ppy.sh/users/13748308), ::{ flag=US }:: [Xpekade](https://osu.ppy.sh/users/10775293), ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180), ::{ flag=US }:: [[K]](https://osu.ppy.sh/users/16551387), ::{ flag=NZ }:: [- Abby -](https://osu.ppy.sh/users/7740118), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=GB }:: [SSScotty](https://osu.ppy.sh/users/10319851), ::{ flag=AU }:: [unicornlover](https://osu.ppy.sh/users/13179722) |
+| Head pooler | ::{ flag=AU }:: [DJ Rinickulous](https://osu.ppy.sh/users/4999984) |
+| Mappool selector | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=AU }:: [DJ Rinickulous](https://osu.ppy.sh/users/4999984), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=AU }:: [Maxibon](https://osu.ppy.sh/users/7042924), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| Pool tester | ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609) |
 | Designer | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1086888)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1204722)
 - [Livestream](https://www.twitch.tv/osuanzt)
-- [Challonge](https://anzttournaments.challonge.com/ANZT7W)
+- [Challonge](https://anzttournaments.challonge.com/ANZT8S)
 - **[Main sheet](https://docs.google.com/spreadsheets/d/1wHU7-e7JTzz6aa8SZK6koNbfX02b0d9AOapp50_ENAk)**
 
 ## Podium
@@ -302,15 +305,6 @@ All individual match results can be found on the spreadsheet linked above.
 - All reschedules must be done at least 30 minutes before the scheduled match time.
 - All matches and reschedules will/must be scheduled for Friday, Saturday or Sunday.
 
-### Qualifiers
-
-- A number of scheduled lobbies will be announced. Players may sign up to a lobby of their choice.
-- Players who can not make a scheduled lobby can request another lobby be hosted at a different time.
-- Players who fail to play the qualifiers by the Tuesday of that week will be disqualified.
-- Referees will create the lobby and invite players 10 minutes before the designated match time.
-- Each lobby will play through the qualifiers mappool once and record your score for each map.
-- Qualifiers will be played with No Fail on.
-
 ### Match rules
 
 - Referees will create the lobby and invite players 10 minutes before the designated match time.
@@ -329,8 +323,8 @@ All individual match results can be found on the spreadsheet linked above.
 
 | Rounds | Condition |
 | --: | :-- |
-| Round of 64 | Win four maps (Best-of-7) |
-| Round of 32 | Win four maps (Best-of-7) |
+| Groups | Win four maps (Best-of-7) |
+| Round of 32 | Win five maps (Best-of-9) |
 | Round of 16 | Win five maps (Best-of-9) |
 | Quarterfinals | Win six maps (Best-of-11) |
 | Semifinals | Win six maps (Best-of-11) |
