@@ -29,6 +29,6 @@ tags:
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Визнання бітмап, які найбільше любить спільнота |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (Probationary)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | Номінатор Бітмап на випробуванні, який очікує позитивної оцінки, щоб підтвердити свою присутність у команді як повноправного члена. |
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy | Зарезервована для [peppy](/wiki/People/peppy), творця osu! |
-| 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Творці музики, які співпрацюють з osu! |
+| 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artists](/wiki/People/Featured_Artists) | Творці музики, які співпрацюють з osu! |
 | 47 |  | Announce | Користувачі з правом відправляти [оголошення в чаті](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Відповідальні за вибір високоякісних бітмап для [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
