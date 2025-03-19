@@ -1,8 +1,8 @@
 ---
-outdated_since: 6116038f573d130ce31be263162ff71d45b0b441
+layout: main_page
 ---
 
-<!-- Не добавляйте никаких пустых строк внутри этого div. -->
+<!-- Не добавляйте пустые строки в этот div. -->
 
 <div class="wiki-main-page__blurb">
 Добро пожаловать в osu! wiki, обширную и общедоступную базу знаний по бесплатной ритм-игре osu!
@@ -50,7 +50,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Разделы: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
-Компоненты: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Шаг временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню редактора карты](/wiki/Client/Beatmap_editor/Menu) • [Загрузка SB](/wiki/Client/Beatmap_editor/SB_load) • [Таймлайны](/wiki/Client/Beatmap_editor/Timelines)
+Компоненты: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Шаг временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню редактора карт](/wiki/Client/Beatmap_editor/Menu) • [Нагрузка от сториборда](/wiki/Client/Beatmap_editor/SB_load) • [Таймлайны](/wiki/Client/Beatmap_editor/Timelines)
 
 Занятия: [Маппинг](/wiki/Beatmapping) • [Техники маппинга](/wiki/Beatmapping/Mapping_techniques) • [Сторибординг](/wiki/Storyboard) • [Скиннинг](/wiki/Skinning)
 
@@ -63,7 +63,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Публикация карт](/wiki/Beatmapping/Beatmap_submission) • [Моддинг](/wiki/Modding) • [Процедура ранкинга](/wiki/Beatmap_ranking_procedure) • [Гильдия мапперов](/wiki/Community/Mappers_Guild) • [Проект Loved](/wiki/Community/Project_Loved)
 
-[Критерии ранкинга](/wiki/Ranking_criteria): [Метадата](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Критерии ранкинга](/wiki/Ranking_criteria): [Метаданные](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -74,7 +74,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Правила](/wiki/Rules) • [Нормы поведения](/wiki/Rules/Contributor_code_of_conduct) • [Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Медиа: [Рекомендации для медиа](/wiki/Rules/Content_usage_permissions) • [Процедура оценки медиа](/wiki/Rules/Content_voting_process) • [Откровенное содержимое](/wiki/Rules/Explicit_content) • [Правила для песен](/wiki/Rules/Song_content_rules) • [Критерии визуального содержания](/wiki/Rules/Visual_content_considerations)
+Медиа: [Использование медиа](/wiki/Rules/Content_usage_permissions) • [Процедура оценки медиа](/wiki/Rules/Content_voting_process) • [Откровенное содержимое](/wiki/Rules/Explicit_content) • [Правила для песен](/wiki/Rules/Song_content_rules) • [Критерии визуального содержания](/wiki/Rules/Visual_content_considerations)
 
 [Правовые документы](/wiki/Legal): [Пользовательское соглашение](/wiki/Legal/Terms) • [Политика конфиденциальности](/wiki/Legal/Privacy) • [Защита авторских прав (DMCA)](/wiki/Legal/Copyright) • [Лицензирование музыки](/wiki/Legal/Music_licensing)
 
@@ -98,13 +98,13 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Социальное взаимодействие — одна из самых сильных сторон osu!, вдохновляющая игроков по всему миру. Изучите программы и конкурсы, наладьте контакт с другими людьми или помогите организовать новое масштабное событие!
 
-Места для общения: [Форум](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord-серверы](/wiki/Community/Discord_servers)
+Места для общения: [Форум](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Дискорд-сервера](/wiki/Community/Discord_servers)
 
 Активности: [Турниры](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Конкурсы](/wiki/Contests) • [Программа менторства](/wiki/Community/Community_Mentorship_Program)
 
-[Проекты](/wiki/Community/Projects): [Гильдия мапперов](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Собрания сообщества osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Проекты](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Встречи сообщества osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
-Медиа: [Музыка на заказ (osu!originals)](/wiki/Community/Bespoke_music) • [Манга](/wiki/Community/Manga) • [Серии видеороликов](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Обновления osu!lazer (lazer updates)](/wiki/Community/Video_series/lazer_updates)
+Медиа: [Музыка на заказ (osu! originals)](/wiki/Community/Bespoke_music) • [Манга](/wiki/Community/Manga) • [Серии видеороликов](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Обновления osu!lazer](/wiki/Community/Video_series/lazer_updates)
 
 Организации: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -126,7 +126,7 @@ osu! бы не было без многих пользователей, учас
 
 О том, как работать с osu! или поучаствовать в разработке.
 
-[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Discord-сервер osu!](/wiki/Community/Discord_servers#official)
+[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
