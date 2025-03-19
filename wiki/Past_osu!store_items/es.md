@@ -6,8 +6,6 @@ tags:
   - tienda
   - mercancía
   - legado
-outdated_translation: true
-outdated_since: 3bb0891de5dccd2d637a3fef7257e0826d9be962
 ---
 
 # Productos anteriores de la osu!store
@@ -18,7 +16,7 @@ Este artículo enumera varios productos que estuvieron disponibles en la [osu!st
 
 ![osu! goods en la portada de la tienda CafePress](img/osu-goods.png)
 
-Los **osu! goods** eran una colección de productos oficiales de la marca osu! vendidos a través del minorista en línea [CafePress](https://en.wikipedia.org/wiki/CafePress) de 2009 a 2012. Todos los productos que estaban disponibles para su compra fueron impresos y producidos por CafePress, y una parte de las ventas se destinó a [apoyar el desarrollo del juego](https://osu.ppy.sh/store/listing).
+Los **osu! goods** eran una colección de productos oficiales de la marca osu! vendidos a través del minorista en línea [CafePress](https://en.wikipedia.org/wiki/CafePress) de 2009 a 2012. Todos los productos de esta colección fueron impresos y producidos por CafePress, y una parte de las ventas se destinó a [apoyar el desarrollo del juego](https://osu.ppy.sh/store/listing).
 
 La colección presentaba una variedad de productos como:
 
@@ -78,7 +76,7 @@ La colección presentaba una variedad de productos como:
 
 La **osu!tablet** era una tableta gráfica oficial de la marca osu! fabricada en colaboración con la empresa de electrónica [HUION](https://www.huion.com/). Fue diseñada por ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) y se lanzó como una alternativa económica para aquellos que querían comprar una tableta gráfica simplemente para jugar a osu!.
 
-El producto tuvo dos versiones: la original «[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)», que se fabricó por primera vez en 2013, y la actualizada [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) en 2016 antes de dejar de comercializarse en 2017 citando [un cambio en el enfoque de desarrollo](https://twitter.com/ppy/status/846190076853870592).
+El producto tuvo dos versiones: la original «[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)», que salió a la venta por primera vez en 2013, y la actualizada [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) en 2016 antes de dejar de comercializarse en 2017 citando [un cambio en el enfoque de desarrollo](https://twitter.com/ppy/status/846190076853870592).
 
 ## Planos para crear beatmaps de osu!
 
@@ -108,7 +106,7 @@ El producto se vendió por primera vez en 2015 antes de dejar de comercializarse
 *Para leer la noticia, véase: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*\
 *Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
 
-El **osu!go** era una robusta memoria USB precargada con el cliente de osu! en su interior. Presumía de una velocidad de transferencia cercana a la de las SSD y se diseñó para los jugadores que querían jugar a osu! en cualquier lugar (de ahí su nombre).
+El **osu!go** era una robusta memoria USB precargada con el cliente de osu!. Presumía de una velocidad de transferencia cercana a la de las SSD y se diseñó para los jugadores que querían jugar a osu! en cualquier lugar (de ahí su nombre).
 
 El producto se vendió en 2016 junto con la osu!mug.
 
@@ -124,6 +122,8 @@ La **osu!mug** era un vaso multiusos de edición especial adornado con ilustraci
 
 ![Peluches de edición limitada de osu!](img/osu-limited-edition-plushie.jpg)
 
-*Para leer la noticia, véase: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)*
+*Para leer las noticias, véase: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies) y [osu! cookie and pippi plushies are back for round 2!](https://osu.ppy.sh/home/news/2024-11-28-another-batch-of-osu-plushies)*
 
 Los **peluches de edición limitada de osu!** eran un trío de muñecos de peluche con [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator) y la [osu! cookie](/wiki/Client/Interface/Cookie). El producto se vendió a principios de 2023 a través de pedidos anticipados y se realizó en colaboración con la plataforma de financiación colectiva [Makeship](https://www.makeship.com/).
+
+Debido a la demanda popular, en noviembre de 2024 se puso a la venta por tiempo limitado un segundo lote de peluches que incluían a [pippi](https://www.makeship.com/products/pippi-2-0-plushie) y a la [osu!cookie](https://www.makeship.com/products/osu-cookie-2-0-plushie).
