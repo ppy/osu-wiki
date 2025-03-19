@@ -30,7 +30,7 @@ tags:
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artists](/wiki/People/Featured_Artists) | Музыкальные исполнители, сотрудничающие с osu! |
 | 47 |  | Announcement[^private] | Пользователи с правами на отправку [объявлений](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Кураторы Beatmap Spotlight](/wiki/People/Beatmap_Spotlight_Curators) | Отбирают высококачественные карты для [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| 50 | [![TC](/wiki/shared/group/TC.png)](https://osu.ppy.sh/groups/50) | [Турнирный комитет](/wiki/People/Tournament_Committee) | Помогают обеспечивать [турниры](/wiki/Tournaments) и [контесты](/wiki/Contests) одинаково справедливыми и весёлыми для всех |
+| 50 | [![TC](/wiki/shared/group/TC.png)](https://osu.ppy.sh/groups/50) | [Турнирный комитет](/wiki/People/Tournament_Committee) | Помогают обеспечивать [турниры](/wiki/Tournaments) и [конкурсы](/wiki/Contests) одинаково справедливыми и весёлыми для всех |
 
 ## Примечания
 
