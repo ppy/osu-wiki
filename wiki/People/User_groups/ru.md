@@ -22,7 +22,7 @@ tags:
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Известные своим вкладом люди, решившие уйти со своей должности |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Команда технической поддержки](/wiki/People/Technical_Support_Team) | Оказывают помощь и поддержку |
 | 26 |  | Турнирный персонал[^private] | Пользователи с правами на использование [команд управления турниром](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) |
-| 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Номинаторы](/wiki/People/Beatmap_Nominators) | Пользователи, демонстрирующие исключительную преданность [процессу ранкинга](/wiki/Beatmap_ranking_procedure) |
+| 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Номинаторы](/wiki/People/Beatmap_Nominators) | Пользователи, демонстрирующие исключительную преданность процессу ранкинга |
 | 29 | ![BOT](/wiki/shared/group/BOT.png) | [Бот-аккаунты](/wiki/Bot_account)[^private] | Специальные аккаунты, управляемые автоматизированными службами вместо реальных людей |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Команда Project Loved](/wiki/People/Project_Loved_Team) | Помогают картам, которые *нравятся* комьюнити стать [любимыми](https://osu.ppy.sh/wiki/ru/Beatmap/Category#loved) |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Номинаторы (стажёры)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | Номинаторы на испытательном сроке, ожидающие вступления в ряды полноправных номинаторов. |
@@ -30,7 +30,7 @@ tags:
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artists](/wiki/People/Featured_Artists) | Музыкальные исполнители, сотрудничающие с osu! |
 | 47 |  | Announcement[^private] | Пользователи с правами на отправку [объявлений](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Кураторы Beatmap Spotlight](/wiki/People/Beatmap_Spotlight_Curators) | Отбирают высококачественные карты для [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| 50 | [![TC](/wiki/shared/group/TC.png)](https://osu.ppy.sh/groups/50) | [Турнирный комитет](/wiki/People/Tournament_Committee) | Помогают обеспечивать [турниры](/wiki/Tournaments) и [контесты](/wiki/Contests) справедливыми и весёлыми для всех |
+| 50 | [![TC](/wiki/shared/group/TC.png)](https://osu.ppy.sh/groups/50) | [Турнирный комитет](/wiki/People/Tournament_Committee) | Помогают обеспечивать [турниры](/wiki/Tournaments) и [контесты](/wiki/Contests) одинаково справедливыми и весёлыми для всех |
 
 ## Примечания
 
