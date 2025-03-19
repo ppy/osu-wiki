@@ -1,6 +1,6 @@
 # .osr (formato de archivo)
 
-**.osr** es un formato de archivo para la descripción de las [repeticiones](/wiki/Gameplay/Replay) de osu!. Un archivo `.osr` solo se puede reproducir si el juego tiene el [beatmap](/wiki/Beatmap) exacto para el que se guardó la repetición.
+**.osr** es un formato de archivo para la descripción de las [repeticiones](/wiki/Gameplay/Replay) de osu!. Un archivo `.osr` solo se puede reproducir si el juego tiene el mismo [beatmap](/wiki/Beatmap) para el que se guardó la repetición.
 
 ## Tipos de datos
 
