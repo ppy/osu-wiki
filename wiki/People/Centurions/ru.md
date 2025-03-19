@@ -9,7 +9,7 @@
 
 ## Список центурионов
 
-| Игрок | 1-ая ранкнутая карта | 100-ая ранкнутая карта | Наборы карт центуриона                                                                                                                 |
+| Игрок | 1-ая ранкнутая карта | 100-ая ранкнутая карта | Наборы карт центуриона |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | [2018-10-20](https://osu.ppy.sh/beatmapsets/833454) | [2024-10-02](https://osu.ppy.sh/beatmapsets/2215696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM23) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [2019-11-06](https://osu.ppy.sh/beatmapsets/1057765) | [2023-08-23](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
