@@ -4,7 +4,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 
 ## Beatmap Challenge Packs
 
-|  | Medalla | Primera persona en desbloquearla | Fecha en la que fue desbloqueada (UTC) |
+|  | Medalla | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-- | :-- |
 | ![](/wiki/shared/medals/all-packs-camellia-2.png) | Camellia II | ::{ flag=BR }:: [Murin](https://osu.ppy.sh/users/13771539) | 10 de noviembre de 2020 (07:03:10) |
 | ![](/wiki/shared/medals/all-packs-mappersguild-07.png) | Mappers' Guild Pack VII | ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | 20 de noviembre de 2020 (07:15:51) |
@@ -16,7 +16,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 
 ## Beatmap Packs
 
-|  | Medalla | Primera persona en desbloquearla | Fecha en la que fue desbloqueada (UTC) |
+|  | Medalla | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-- | :-- |
 | ![](/wiki/shared/medals/all-packs-gamer-1.png) | Video Game Pack vol.1 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 18 de agosto de 2008 (20:38:10) |
 | ![](/wiki/shared/medals/all-packs-rhythm-1.png) | Rhythm Game Pack vol.1 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 18 de agosto de 2008 (20:18:43) |
@@ -96,7 +96,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 
 ## Beatmap Spotlights
 
-|  | Medalla | Primera persona en desbloquearla | Fecha en la que fue desbloqueada (UTC) |
+|  | Medalla | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-- | :-- |
 | ![](/wiki/shared/medals/spotlight-2017-01.png) | January/February 2017 Spotlight | ::{ flag=KR }:: [SHK](https://osu.ppy.sh/users/2660111) | 21 de septiembre de 2017 (18:22:43) |
 | ![](/wiki/shared/medals/spotlight-2017-03.png) | March 2017 Spotlight | ::{ flag=JP }:: [athl0n](https://osu.ppy.sh/users/6174987) | 21 de septiembre de 2017 (12:13:08) |
@@ -123,7 +123,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 
 ## Hush-Hush (Expert)
 
-|  | Medalla | Primera persona en desbloquearla | Fecha en la que fue desbloqueada (UTC) |
+|  | Medalla | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-- | :-- |
 | ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17 de agosto de 2016 (09:56:45) |
 | ![](/wiki/shared/medals/all-secret-ftb.png) | Feel The Burn | ::{ flag=IT }:: [MrBoh](https://osu.ppy.sh/users/7717296) | 17 de agosto de 2016 (11:26:13) |
@@ -189,7 +189,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 
 ## Hush-Hush
 
-|  | Medalla | Primera persona en desbloquearla | Fecha en la que fue desbloqueada (UTC) |
+|  | Medalla | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-- | :-- |
 | ![](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | ::{ flag=AR }:: [Pokefanrichie](https://osu.ppy.sh/users/16629) | 11 de agosto de 2008 (12:47:24) |
 | ![](/wiki/shared/medals/all-secret-rank-s.png) | S-Ranker | ::{ flag=MY }:: [Kenieth](https://osu.ppy.sh/users/60101) | 19 de enero de 2009 (16:14:31) |
@@ -260,7 +260,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 
 ## Mod Introduction
 
-|  | Medalla | Primera persona en desbloquearla | Fecha en la que fue desbloqueada (UTC) |
+|  | Medalla | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-- | :-- |
 | ![](/wiki/shared/medals/all-intro-suddendeath.png) | Finality | ::{ flag=NZ }:: [Raynor-poi](https://osu.ppy.sh/users/8729000) | 22 de julio de 2016 (23:34:22) |
 | ![](/wiki/shared/medals/all-intro-perfect.png) | Perfectionist | ::{ flag=NZ }:: [Raynor-poi](https://osu.ppy.sh/users/8729000) | 22 de julio de 2016 (23:34:22) |
@@ -278,7 +278,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 
 ## Skill & Decication
 
-|  | Medalla | Primera persona en desbloquearla | Fecha en la que fue desbloqueada (UTC) |
+|  | Medalla | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-- | :-- |
 | ![](/wiki/shared/medals/osu-combo-500.png) | 500 Combo | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 de agosto de 2008 (23:08:56) |
 | ![](/wiki/shared/medals/osu-combo-750.png) | 750 Combo | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 de agosto de 2008 (23:08:56) |
@@ -384,7 +384,7 @@ Estas estadísticas se anunciaron por primera vez al público a través de [una 
 
 A continuación, se enumeran varios hitos notables relacionados con el desbloqueo las medallas por primera vez:
 
-|  | Medalla | Hito | Primera persona en desbloquearla | Fecha en la que fue desbloqueada (UTC) |
+|  | Medalla | Hito | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-: | :-- | :-- |
 | ![](/wiki/shared/medals/osu-combo-500.png) | 500 Combo | Primera medalla desbloqueada de osu! | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 de agosto de 2008 (23:08:56) |
 | ![](/wiki/shared/medals/taiko-hits-30000.png) | 30,000 Drum Hits | Primera medalla desbloqueada de osu!taiko | ::{ flag=FR }:: [Makimoke](https://osu.ppy.sh/users/169796) | 9 de abril de 2012 (06:37:30) |
