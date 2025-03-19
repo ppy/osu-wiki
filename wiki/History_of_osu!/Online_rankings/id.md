@@ -1,7 +1,5 @@
 ---
 outdated: true
-outdated_translation: true
-outdated_since: eae7a9574d5077afccdbe79f15c46855c0151cbb
 tags:
   - sejarah
   - papan peringkat
