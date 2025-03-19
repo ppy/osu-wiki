@@ -1,7 +1,4 @@
 ---
-outdated: true
-outdated_translation: true
-outdated_since: eae7a9574d5077afccdbe79f15c46855c0151cbb
 tags:
   - history
   - leaderboard
@@ -32,7 +29,7 @@ Mit Stand vom 19. Juni 2024 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.
 
 ## ![][osu!catch] osu!catch
 
-Mit Stand vom 21. Juli 2024 ist ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+Mit Stand vom 2. November 2024 ist ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
