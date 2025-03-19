@@ -30,7 +30,7 @@ A partir del 19 de junio de 2024, en la [clasificación de rendimiento de osu!ta
 
 ## ![][osu!catch] osu!catch
 
-A partir del 21 de julio de 2024, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance) el jugador en el puesto #1 es ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
+A partir del 2 de noviembre de 2024, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance) el jugador en el puesto #1 es ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
 
 ## ![][osu!mania] osu!mania
 
