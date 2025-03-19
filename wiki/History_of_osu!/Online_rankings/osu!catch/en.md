@@ -89,7 +89,6 @@ Because of this, this list only includes players who have reached rank #1 on the
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | *2024-11-02* | Present | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
 
-
 ## Number of reigns
 
 The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 19 March 2025).
