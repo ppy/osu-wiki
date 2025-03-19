@@ -22,7 +22,7 @@ Banyak pemain telah memegang peringkat #1 di setiap mode permainan dengan sistem
 
 ## ![][osu!] osu!
 
-*Halaman utama: [osu!](osu!)*
+*Halaman utama: [Sejarah peringkat osu!](osu!)*
 
 Mulai 3 Agustus 2024, di [peringkat *performance* osu!](https://osu.ppy.sh/rankings/osu/performance) pemain peringkat #1 adalah ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
