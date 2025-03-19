@@ -24,7 +24,7 @@ Because of this, this list only includes players who have reached rank #1 on the
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | *2018-04-14* | *2019-04-06* | [\[1\]](https://web.archive.org/web/20180414205044/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 2018-04-14 | *2019-04-06* | [\[1\]](https://web.archive.org/web/20180414205044/https://osu.ppy.sh/rankings/fruits/performance) |
 
 ## 2019
 
@@ -32,8 +32,8 @@ Because of this, this list only includes players who have reached rank #1 on the
 | --: | :-- | :-- | :-- |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | *2018-04-14* | 2019-04-06 | [\[1\]](https://web.archive.org/web/20180414205044/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2019-04-06 | 2019-08-09 | [\[1\]](https://web.archive.org/web/20190406161641/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 2019-08-09 | 2019-08-18 | [\[1\]](https://www.reddit.com/r/osugame/comments/co0ruo/after_2_years_224hyperw7_has_reclaimed_rank_1_on/) [\[2\]](https://web.archive.org/web/20190810115254/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | *2019-08-18* | *2020-02-04* | [\[1\]](https://web.archive.org/web/20190818051437/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/4158549) | 2019-08-09 | 2019-08-18 | [\[1\]](https://www.reddit.com/r/osugame/comments/co0ruo/after_2_years_224hyperw7_has_reclaimed_rank_1_on/) [\[2\]](https://web.archive.org/web/20190810115254/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2019-08-18 | *2020-02-04* | [\[1\]](https://web.archive.org/web/20190818051437/https://osu.ppy.sh/rankings/fruits/performance) |
 
 ## 2020
 
@@ -41,7 +41,7 @@ Because of this, this list only includes players who have reached rank #1 on the
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | *2019-08-18* | 2020-02-04 | [\[1\]](https://web.archive.org/web/20190818051437/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 2020-02-04 | 2020-05-14 | [\[1\]](https://web.archive.org/web/20200204173040/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | *2020-05-14* | *2021-01-12* | [\[1\]](https://web.archive.org/web/20200514200624/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2020-05-14 | *2021-01-12* | [\[1\]](https://web.archive.org/web/20200514200624/https://osu.ppy.sh/rankings/fruits/performance) |
 
 ## 2021
 
@@ -49,10 +49,22 @@ Because of this, this list only includes players who have reached rank #1 on the
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | *2020-05-14* | 2021-01-12 | [\[1\]](https://web.archive.org/web/20200514200624/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 2021-01-12 | 2021-04-14 | [\[1\]](https://web.archive.org/web/20210112170723/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 2021-04-14 | 2021-04-22 | [\[1\]](https://web.archive.org/web/20210414210651/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/4158549) | 2021-04-14 | 2021-04-22 | [\[1\]](https://web.archive.org/web/20210414210651/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 2021-04-22 | 2021-04-27 | [\[1\]](https://web.archive.org/web/20210422102910/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 2021-04-27 | 2021-04-29 | [\[1\]](https://web.archive.org/web/20210427172037/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/4158549) | 2021-04-27 | 2021-04-29 | [\[1\]](https://web.archive.org/web/20210427172037/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 2021-04-29 | 2021-05-05 | [\[1\]](https://web.archive.org/web/20210429090335/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: [YesMyDarknesss (*CTB Rushia1*)](https://osu.ppy.sh/users/4158549) | 2021-05-05 | *2024-07-21* | [\[1\]](https://web.archive.org/web/20230308031543/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) [\[2\]](https://web.archive.org/web/20210608065616/https://osu.ppy.sh/users/4158549) [\[3\]](https://web.archive.org/web/20210505073934/https://osu.ppy.sh/rankings/fruits/performance) |
+
+## 2022
+
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | *2021-05-05* | *2024-07-21* | [\[1\]](https://web.archive.org/web/20230308031543/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) [\[2\]](https://web.archive.org/web/20210608065616/https://osu.ppy.sh/users/4158549) [\[3\]](https://web.archive.org/web/20210505073934/https://osu.ppy.sh/rankings/fruits/performance) |
+
+## 2023
+
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | *2021-05-05* | *2024-07-21* | [\[1\]](https://web.archive.org/web/20230308031543/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) [\[2\]](https://web.archive.org/web/20210608065616/https://osu.ppy.sh/users/4158549) [\[3\]](https://web.archive.org/web/20210505073934/https://osu.ppy.sh/rankings/fruits/performance) |
 
 ## 2024
@@ -60,37 +72,55 @@ Because of this, this list only includes players who have reached rank #1 on the
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | *2021-05-05* | 2024-07-21 | [\[1\]](https://web.archive.org/web/20230308031543/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) [\[2\]](https://web.archive.org/web/20210608065616/https://osu.ppy.sh/users/4158549) [\[3\]](https://web.archive.org/web/20210505073934/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-07-21 | Present | [\[1\]](https://web.archive.org/web/20240725205207/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) [\[2\]](https://www.reddit.com/r/osugame/comments/1e8hne0/motion_is_now_1_in_ctb_passing_yesmydarknesss/) [\[3\]](https://twitter.com/MotionCTB/status/1814940760183349353) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-07-21 | 2024-08-27 | [\[1\]](https://web.archive.org/web/20240725205207/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) [\[2\]](https://www.reddit.com/r/osugame/comments/1e8hne0/motion_is_now_1_in_ctb_passing_yesmydarknesss/) [\[3\]](https://twitter.com/MotionCTB/status/1814940760183349353) |
+| ::{ flag=KR }:: [qwhj79 (*OYG*)](https://osu.ppy.sh/users/7547506) | 2024-08-27 | 2024-08-29 | [\[1\]](https://web.archive.org/web/20240827062303/https://osu.ppy.sh/rankings/fruits/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1f29wsf/osucatch_oyg_is_now_1_surpassing_motion/) [\[3\]](https://twitter.com/qwhj10270218/status/1828309054982365272) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-08-29 | 2024-09-19 | [\[1\]](https://www.reddit.com/r/osugame/comments/1f3pn02/osucatch_motion_is_once_again_1/) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2024-09-19 | 2024-09-19 | [\[1\]](https://www.reddit.com/r/osugame/comments/1fkl7zv/qwhj79_oyg_has_obtained_1_global_in_osucatch_by/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-09-19 | 2024-09-30 | [\[1\]](https://www.reddit.com/r/osugame/comments/1fkldkq/motion_has_obtained_1_global_in_osucatch_after_15/) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2024-09-30 | 2024-09-30 | [\[1\]](https://www.reddit.com/r/osugame/comments/1fsw3vl/qwhj79_oyg_is_1_again_in_osucatch_please_save_me/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-09-30 | 2024-10-07 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ft3ibb/motion_is_1_again_in_osucatch_while_breaking_the/) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2024-10-07 | 2024-10-11 | [\[1\]](https://www.reddit.com/r/osugame/comments/1fy5o4g/osucatch_qwhj79_kaneko_chiharu_illness_lilin/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-10-11 | 2024-11-02 | [\[1\]](https://www.reddit.com/r/osugame/comments/1g1bmn4/osucatch_motion_camellia_ghost_2020_halloween_vip/) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2024-11-02 | *Present* | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
+
+## 2025
+
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | *2024-11-02* | Present | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
+
 
 ## Number of reigns
 
-The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 11 August 2024).
+The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 19 March 2025).
 
 | Player | Reigns |
 | --: | :-: |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 8 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 5 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 4 |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 4 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 1 |
 
 ## Longest combined reigns
 
 *Note: The current rank #1 reign is excluded.*
 
-The following is a list of the total number of days that a player has held the rank #1 spot (as of 11 August 2024).
+The following is a list of the total number of days that a player has held the rank #1 spot (as of 19 March 2025).
 
 | Player | Length (days) |
 | --: | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 1192 |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 538 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 636 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 357 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 203 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
 
 ## Longest individual reigns
 
 *Note: Only reigns over 100 days are included. The current rank #1 reign is excluded.*
 
-The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 11 August 2024).
+The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 19 March 2025).
 
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |
