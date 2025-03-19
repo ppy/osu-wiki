@@ -1,4 +1,6 @@
 ---
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
+outdated_translation: true
 no_native_review: true
 tags:
   - osu! staff
@@ -39,7 +41,7 @@ Les personnes listées ci-dessous constituent le cœur de **l'osu! team** et son
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Conseiller en modding et mapping de scènes |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Développeur de l'osu!web, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Développeur de l'osu!web |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Modérateur](/wiki/People/Global_Moderation_Team), conseiller en modding et mapping de scènes |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Modérateur](/wiki/People/Global_Moderation_Team), conseiller en modding et mapping de scènes |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Hôte de la [chaîne YouTube osu!](https://www.youtube.com/@osugame), organisateur de la [Mappers' Guild](/wiki/Community/Mappers_Guild), soutien au projet [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Conseiller en modding et mapping de scènes |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Modérateur](/wiki/People/Global_Moderation_Team), [mainteneur du wiki](/wiki/People/osu!_wiki_maintainers) |
