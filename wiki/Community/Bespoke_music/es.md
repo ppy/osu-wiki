@@ -284,7 +284,6 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=u6IAK7EwUk8 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ptar124&query=%22Ad%20infinitum%20%7Eein%20sof%7E%22 "osu! original") | Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum \~ein sof\~ | [#1](https://osu.ppy.sh/beatmapsets/2159337) | Mapa de desempate de los cuartos de final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/yuunimoosic/frozenblood "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=8EJP0j_Jvs8 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Yuuni&query=%22Frozen%20Blood%22 "osu! original") | Yuuni - Frozen Blood | [#1](https://osu.ppy.sh/beatmapsets/2152052) | Mapa de desempate de los dieciseisavos de final |
 
-
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025)
 
 | Enlaces |  | Canción | Beatmap | Notas |
