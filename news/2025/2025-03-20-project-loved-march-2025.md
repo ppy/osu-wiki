@@ -322,7 +322,7 @@ The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/user
 
 [![](/wiki/shared/news/2025-03-20-project-loved-march-2025/1943788.jpg)](https://osu.ppy.sh/community/forums/topics/2056022)
 
-[IDK - Porno (Saint Punk Remix) (Nightcore Ver.)](https://osu.ppy.sh/beatmapsets/1943788#mania) by [Orca-](https://osu.ppy.sh/users/7958845)\
+[IDK - [REDACTED] (Saint Punk Remix) (Nightcore Ver.)](https://osu.ppy.sh/beatmapsets/1943788#mania) by [Orca-](https://osu.ppy.sh/users/7958845)\
 175 BPM, 2:18 | 3.75★, 3.75★\
 *description written by [Paturages](https://osu.ppy.sh/users/1375479)*
 
