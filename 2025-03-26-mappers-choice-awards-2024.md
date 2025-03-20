@@ -1,3 +1,9 @@
+---
+layout: post
+title: Mapper's Choice Awards 2024
+date: 2025-03-26 01:30:00 +0000
+---
+
 Get ready to cast your votes and crown the champions of last year’s best Ranked maps in the **Mapper’s Choice Awards**! This is your chance to decide who takes the top spot—don’t miss out!  
 
 ![](link for banner)  
