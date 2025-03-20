@@ -12,7 +12,7 @@ tags:
 
 # Música hecha a medida
 
-Este artículo enumera las canciones creadas específicamente para (o lanzadas por primera vez en) osu! u otros eventos relacionados con osu, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists).
+Este artículo enumera las canciones creadas específicamente para (o lanzadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists).
 
 Si bien no todas estas canciones tienen licencia oficial y están incluidas en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1), las canciones que sí la tienen se llaman «osu! originals», y se distinguen por la etiqueta ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! original") en las páginas de sus respectivos artistas (![osu! original](/wiki/shared/link/original.png "osu! original") en este artículo). Están autorizadas para su uso en osu! bajo términos no exclusivos según la [política de licenciamiento de música de osu!](/wiki/Legal/Music_licensing).
 
