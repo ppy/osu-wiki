@@ -215,6 +215,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 | Girlfriend ASMR | Chodan | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3922&p3=3920&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
 | Girls Band Cry | Retirados y Peligrosos | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3910&p3=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
 | Girlfriend ASMR | Retirados y Peligrosos | [Mar 23 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T210000&p1=1440&p2=3922&p3=3920&p4=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
+
 ## Mappools
 
 ### Finals
