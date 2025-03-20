@@ -10,7 +10,7 @@ tags:
 
 ![MCNC 2024 logo](img/logo.jpg)
 
-The **osu!mania 4K Chinese National Cup 2024** (***MCNC 4K 2024***) was a country-based osu!mania 4K tournament hosted by the \[Crz\]Team. It was the 5th instalment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2024** (***MCNC 4K 2024***) was a country-based osu!mania 4K tournament hosted by the \[Crz\]Team. It was the 6th instalment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [Normal1zer vs. Broken Nerdz - DESTRUCTION 3,2,1 (AlexDunk) \[:CONSTRUCTIONSITE_COLLAB: (w/ Mafufu & sherweifa)\]](https://osu.ppy.sh/beatmapsets/2230209#mania/4732634)
   2. [Pixel Terror - Magma (\[GB\]Mafufu) \[Rising slowly \[SV nerfed\]\]](https://osu.ppy.sh/beatmapsets/2230213#mania/4732646)
-- Difficulty
+- Difficult
   1. [The Ghost of 3.13 - Forgotten (\[Crz\]Flandre) \[Shoegazer & Zyph's Collab 1.4x (350bpm)\]](https://osu.ppy.sh/beatmaps/4732745)
 - Tiebreaker
   1. **[SAMString - ChroNaXiE ([Crz]xz1z1z) \[Singularity\]](https://osu.ppy.sh/beatmapsets/2230263#mania/4732863)**
@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [Akira Complex - MANTIS (Arcaea Ultra-Bloodrush VIP) feat. kiraku (Orca-) \[tomorrow comes from the ashes of yesterday\]](https://osu.ppy.sh/beatmaps/4250275)
   2. [xarva - easymotion (mightyxd) \[zero2snow's Estimate (edit) 1.1x\]](https://osu.ppy.sh/beatmaps/4235788)
-- Difficulty
+- Difficult
   1. [StudioEIM - Crescent Moon Island (Shoegazer) \[Kuro 1.1x (189bpm)\]](https://osu.ppy.sh/beatmaps/3090570)
 - Tiebreaker
   1. **[Kou! - Frost Walker ([Crz]xz1z1z) \[Kaleido\]](https://osu.ppy.sh/beatmapsets/2226164#mania/4722381)**
@@ -235,7 +235,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [ZxNX as "Delaina" - End Me (Phukiir) \[CHOKE\]](https://osu.ppy.sh/beatmapsets/2055294#mania/4294644)
   2. [SlipGate - Chronon ([Crz]Crysarlene) \[Sleep\]](https://osu.ppy.sh/beatmapsets/988436#mania/2067666)
-- Difficulty
+- Difficult
   1. [HIMEHINA - Utakatayo Ikanaide ([Crz]Flandre) \[frolica's Frothiness \[15\] OD8\]](https://osu.ppy.sh/beatmapsets/2222985#mania/4713772)
 - Tiebreaker
   1. **[Xeudo Code - TERRAFORGE (gzdongsheng) \[EVOLUTION\]](https://osu.ppy.sh/beatmapsets/2222971#mania/4713750)**
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [Mylta - DAWN (Cut Ver.) (AlexDunk) \[:another_you_u:\]](https://osu.ppy.sh/beatmapsets/2218570#mania/4702611)
   2. [James Landino - Reaction feat. Slyleaf (Paturages) \[Instinct\]](https://osu.ppy.sh/beatmapsets/1454184#mania/2989461)
-- Difficulty
+- Difficult
   1. [t+pazolite with siromaru - Chambarising ([Crz]Flandre) \[Evening's Challenge 1.1x Edit (176bpm)\]](https://osu.ppy.sh/beatmapsets/2218572#mania/4702615)
 - Tiebreaker
   1. **[TWC Sound Team "Xuru Stasis Rasufim" - Kaze no Denwa" ([Crz]Alleyne) \[Alleyne x Lott x sunnyxxy // Phantasmic Signal\]](https://osu.ppy.sh/beatmapsets/2218577#mania/4702631)**
@@ -289,7 +289,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [DOT96 - MAKE IT FUNKY NOW (RuleBlazing) \[Funny (edit)\]](https://osu.ppy.sh/b/3189234)
   2. [Soba - Utopia (Tidek) \[Paradise\]](https://osu.ppy.sh/b/2382593)
-- Difficulty
+- Difficult
   1. [Fantom - Connect 1986 (Night Bunny 7) \[[Lv.9001] IcyWorld's Challenge\]](https://osu.ppy.sh/b/2486497)
 - Tiebreaker
   1. **[NormalM feat. Echo - Resonance of Viscerharma (AelSan) \[Echo of Resonance\]](https://osu.ppy.sh/b/4691301)**
@@ -314,7 +314,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [Tanger - FireStarter (H1Pur) \[Strike A Match\]](https://osu.ppy.sh/beatmapsets/1823962#mania/3742642)
   2. [TSUNKU - Batting Show Perfect Version (Daikyi) \[Batter Up!\]](https://osu.ppy.sh/beatmapsets/418097#mania/905136)
-- Difficulty
+- Difficult
   1. [Kabocha - EgO (Shoegazer) \[Transference 1.15x (271bpm)\]](https://osu.ppy.sh/beatmapsets/1667855#mania/3760854)
 - Tiebreaker
   1. **[Lulickma & Loctek - 21st ([Crz]Alleyne) \[wewewe\]](https://osu.ppy.sh/beatmapsets/2210104#mania/4681334)**
@@ -339,7 +339,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [ARM vs uno - Shoujo Satori no Satorittaa (UselessPlayer) \[Where is Komeiji Satori's Setu\]](https://osu.ppy.sh/beatmapsets/2206350#mania/4671327)
   2. [guna - Yukidsuki-yashou ([Crz]xz1z1z) \[SV\]](https://osu.ppy.sh/beatmapsets/2206241#mania/4671101)
-- Difficulty
+- Difficult
   1. [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Timebomb 1.05x (148bpm)\]](https://osu.ppy.sh/beatmapsets/659039#mania/1395854)
 - Tiebreaker
   1. **[MOMOIRO CLOVER Z - SARABA, Itoshiki Kanashimitachi yo (YuEast 2018) \[Goodbye, I'm a demon\]](https://osu.ppy.sh/beatmapsets/2206233#mania/4671082)**
@@ -657,7 +657,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Tournament registration
 
 1. There is no rank range for this tournament: players from all skill levels are free to participate.
-2. This tournament is for Chinese players only, including players from territories of mainland China, Taiwan, Hong Kong, and Macau. Please note that this tournament has nothing to do with politics and views about the territories of China. Only players with the flags of the aforementioned territories are eligible for playing.
+2. This tournament is for Chinese players only, including players from territories of mainland China, Taiwan, Hong Kong, and Macau. Only players with the flags of the aforementioned territories are eligible for playing.
 3. To be eligible to play, one must:
    - Not have been banned/majorly restricted from the MCNC.
    - Pass a background check by osu! staff and the tournament staff.
