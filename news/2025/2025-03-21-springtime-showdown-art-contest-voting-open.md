@@ -20,7 +20,7 @@ without further ado, it's about time for *you* to digest these stunning entries 
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/contests/242/spring2025-voting.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
