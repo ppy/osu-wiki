@@ -8,7 +8,7 @@ The clash between the art warriors has been fierce, and it's now *your* turn to 
 
 ![](/wiki/shared/news/2025-03-21-springtime-showdown-art-voting/banner.jpg)
 
-With a total of **77** entrants, this iteration has been a whirlwind of creativity and color, hence why we're equipping each and every one of you with **15** votes to decide the champions of this magical showdown.
+With a total of **78** entrants, this iteration has been a whirlwind of creativity and color, hence why we're equipping each and every one of you with **15** votes to decide the champions of this magical showdown.
 
 This time, there has been a distinct lack of dotted osu! cookies in the submissions, and we want to thank you for that (except for the one person who submitted the template itself as an entry. You will be hearing from our lawyers soon).
 
