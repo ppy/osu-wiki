@@ -36,7 +36,7 @@ If you’re eligible, head over to the [**Mapper’s Choice Awards 2024**](https
 
 ### **Schedule**  
 
-| Event | Date (UTC) |  
+| Event | Date (UTC) |
 | --: | :-- |  
 | **Nomination phase** | 2025-03-26 – 2025-03-31 00:00 |  
 | **Voting phase** | 2025-04-03 – 2025-04-08 00:00 |  
