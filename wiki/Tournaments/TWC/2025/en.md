@@ -107,25 +107,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=NZ }:: New Zealand | [Mar 22 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T080000&p1=1440&p2=166&p3=264) | [osulive](https://twitch.tv/osulive) |
-| Philippines ::{ flag=PH }:: | ::{ flag=NL }:: Netherlands | [Mar 22 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T110000&p1=1440&p2=145&p3=16) | [osulive](https://twitch.tv/osulive) |
-| Japan ::{ flag=JP }:: | ::{ flag=BG }:: Bulgaria | [Mar 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T120000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
-| Australia ::{ flag=AU }:: | ::{ flag=CH }:: Switzerland | [Mar 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T130000&p1=1440&p2=57&p3=270) | [osulive](https://twitch.tv/osulive) |
+| Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Mar 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T120000&p1=1440&p2=101&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
+| Japan ::{ flag=JP }:: | ::{ flag=BG }:: Bulgaria | [Mar 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T130000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
 | Singapore ::{ flag=SG }:: | ::{ flag=IT }:: Italy | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=236&p3=215) | [osulive](https://twitch.tv/osulive) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=108&p3=102) | [osulive_2](https://twitch.tv/osulive_2) |
+| Philippines ::{ flag=PH }:: | ::{ flag=NL }:: Netherlands | [Mar 22 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T143000&p1=1440&p2=145&p3=16) | [osulive](https://twitch.tv/osulive) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=PE }:: Peru | [Mar 22 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T150000&p1=1440&p2=241&p3=131) | [osulive](https://twitch.tv/osulive) |
-| Türkiye ::{ flag=TR }:: | ::{ flag=SK }:: Slovakia | [Mar 22 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T160000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| Türkiye ::{ flag=TR }:: | ::{ flag=SK }:: Slovakia | [Mar 22 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T170000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 23 March 2025
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Malaysia ::{ flag=MY }:: | ::{ flag=MX }:: Mexico | [Mar 23 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T020000&p1=1440&p2=122&p3=155) | [osulive](https://twitch.tv/osulive) |
-| South Korea ::{ flag=KR }:: | ::{ flag=CO }:: Colombia | [Mar 23 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T040000&p1=1440&p2=235&p3=41) | [osulive](https://twitch.tv/osulive) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Mar 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T080000&p1=1440&p2=108&p3=102) | [osulive](https://twitch.tv/osulive) |
-| Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Mar 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T110000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) |
-| China ::{ flag=CN }:: | ::{ flag=BR }:: Brazil | [Mar 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T120000&p1=1440&p2=33&p3=45) | [osulive](https://twitch.tv/osulive) |
-| Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=AR }:: Argentina | [Mar 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T170000&p1=1440&p2=232&p3=51) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CA }:: Canada | [Mar 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T180000&p1=1440&p2=136&p3=188) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=AR }:: Argentina | [Mar 23 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T000000&p1=1440&p2=232&p3=51) | [osulive](https://twitch.tv/osulive) |
+| China ::{ flag=CN }:: | ::{ flag=BR }:: Brazil | [Mar 23 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T020000&p1=1440&p2=33&p3=45) | [osulive](https://twitch.tv/osulive) |
+| South Korea ::{ flag=KR }:: | ::{ flag=CO }:: Colombia | [Mar 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T030000&p1=1440&p2=235&p3=41) | [osulive](https://twitch.tv/osulive) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=MX }:: Mexico | [Mar 23 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T040000&p1=1440&p2=122&p3=155) | [osulive](https://twitch.tv/osulive) |
+| Australia ::{ flag=AU }:: | ::{ flag=CH }:: Switzerland | [Mar 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T100000&p1=1440&p2=57&p3=270) | [osulive](https://twitch.tv/osulive) |
+| Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Mar 23 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T140000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=CA }:: Canada | [Mar 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T170000&p1=1440&p2=136&p3=188) | [osulive](https://twitch.tv/osulive) |
 | United States ::{ flag=US }:: | ::{ flag=PT }:: Portugal | [Mar 23 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T183000&p1=1440&p2=263&p3=133) | [osulive](https://twitch.tv/osulive) |
 | Round of 16 | mappool showcase | [Mar 23 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
