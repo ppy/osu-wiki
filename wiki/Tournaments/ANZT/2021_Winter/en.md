@@ -2,7 +2,7 @@
 
 ![ANZT 8W logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 8 - Winter** (***ANZT 8W***) was a 1v1 double-elimination osu! tournament with a two week, round robin group stage for Australian and New Zealand players hosted by ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) and ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634). It was the twelfth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 8 - Winter** (***ANZT 8W***) was a 1v1 double-elimination osu! tournament with a two week, double elimination group stage for Australian and New Zealand players hosted by ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) and ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634). It was the twelfth instalment of the Aus/NZ tourneys.
 
 ANZT 8W continued the automatic qualifications introduced in [ANZT 8S](../2021_Summer/), allowing the top 16 players players from [ANZT 8S](../2021_Summer/) to skip the group stage.
 
