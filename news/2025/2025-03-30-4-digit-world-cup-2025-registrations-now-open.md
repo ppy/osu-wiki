@@ -36,6 +36,6 @@ To register, simply head over to the **registration page** (pending link) to con
 
 All countries with at least 5 eligible registrants will have one player designated as the captain by the organisers. The captain is then responsible for selecting and submitting a roster of 5–8 players to represent their country in the tournament. Countries with more than 8 candidates are encouraged to host tryouts for their team to aid in selecting the best players.
 
-Joining the official [Discord server](https://discord.com/invite/uQarcRtB3u) of 4WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. Be sure to also check out the [forum thread](pending link) or the [wiki article](/wiki/Tournaments/4WC/2025) for more information and rules. Come along for the ride!
+Joining the official [Discord server](https://discord.com/invite/uQarcRtB3u) of 4WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. Be sure to also check out the forum thread (pending link) or the [wiki article](/wiki/Tournaments/4WC/2025) for more information and rules. Come along for the ride!
 
 —shdewz
