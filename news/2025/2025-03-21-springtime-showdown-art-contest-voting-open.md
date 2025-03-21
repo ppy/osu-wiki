@@ -8,15 +8,19 @@ The clash between the art warriors has been fierce, and it's now *your* turn to 
 
 ![](/wiki/shared/news/2025-02-28-springtime-showdown-art-contest/banner.jpg)
 
-With a total of **78** entrants, this iteration has been a whirlwind of creativity and color, hence why we're equipping each and every one of you with **15** votes to decide the champions of this magical showdown.
+With a total of **78** entrants, this iteration has been a whirlwind of creativity and colour, hence why we're equipping each and every one of you with **10** votes to decide the champions of this magical showdown.
 
-This time, there has been a distinct lack of dotted osu! cookies in the submissions, and we want to thank you for that (except for the one person who submitted the template itself as an entry. You will be hearing from our lawyers soon).
+This time, there has been a distinct lack of dotted osu! cookies in the submissions, and we want to thank you for that. (Except for the one person who submitted the template itself as an entry. You will be hearing from our lawyers soon.)
 
-According to our research, @wala insert a segue to the graph
+Instead, we got an *incredible variety* of interpretations for the stated theme of **competition**. The few example concepts [presented in the announcement](https://osu.ppy.sh/home/news/2025-02-28-springtime-showdown-art-contest) were expanded beyond our imagination, with not *just* osu! tournaments and esports considered, but brawls, fighting games, various outdoor sports, singing, bake-offs as well as drawing contests (including some meta ones about this very contest!), all with unique osu! spins put on top! We're extremely impressed.
 
-insert graph here
+Also, we heard from many artists that they started on their artwork very late. If that sounds worrying, please rest assured that it's completely normal! As we all know, productivity is inversely proportional to the time left until the deadline:
 
-without further ado, it's about time for *you* to digest these stunning entries under the tunes of *insert metadata here*:
+[](/wiki/shared/news/2025-03-21-springtime-showdown-art-voting/graph.png)
+
+Indeed, only a week ago, about a *quarter* of all entries were submitted, which turned into *half* of them just half a week later.
+
+We can call that enough digression for now. It's about time for *you* to digest these stunning works of art under the tunes of [Xyris - FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030):
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -33,7 +37,7 @@ Before we move on to the voting stage, let's remind our contestants of the prize
 - The top 3 will receive bespoke **profile badges** made from their own creations.
 - The top 3 will also be featured as [**limited-time default profile banners**](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations), with the ones from last round rotating out.
 
-As always, thanks to all participants who've dedicated their time and effort into creating and submitting an entry — without you, we wouldn't be here!
+And as always, thanks to all participants who've dedicated their time and effort into creating and submitting an entry — without you, we wouldn't be here!
 
 That's all for now, GLHF!
 
