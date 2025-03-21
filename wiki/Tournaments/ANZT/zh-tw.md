@@ -16,8 +16,8 @@ no_native_review: true
 - [Aus/NZ osu!standard Tournament 6 - Winter](2019_Winter)
 - [Aus/NZ osu!standard Tournament 7 - Summer](2020_Summer)
 - [Aus/NZ osu!standard Tournament 7 - Winter](2020_Winter)
-- Aus/NZ osu!standard Tournament 8 - Summer
-- Aus/NZ osu!standard Tournament 8 - Winter
+- [Aus/NZ osu!standard Tournament 8 - Summer](2021_Summer)
+- [Aus/NZ osu!standard Tournament 8 - Winter](2021_Winter)
 - Aus/NZ osu!standard Tournament 9 - Summer
 - Aus/NZ osu!standard Tournament 9 - Winter
 - Aus/NZ osu!standard Tournament 10 - Summer
