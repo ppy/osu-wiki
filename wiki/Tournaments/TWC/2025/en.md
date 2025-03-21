@@ -56,6 +56,7 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2041167)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/49)
 - [Challonge bracket](https://challonge.com/TWC2025)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/166) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -107,7 +108,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=NZ }:: New Zealand | [Mar 22 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T080000&p1=1440&p2=166&p3=264) | [osulive](https://twitch.tv/osulive) |
-| Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Mar 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T120000&p1=1440&p2=101&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
+| Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Mar 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T120000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) |
 | Japan ::{ flag=JP }:: | ::{ flag=BG }:: Bulgaria | [Mar 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T130000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
 | Singapore ::{ flag=SG }:: | ::{ flag=IT }:: Italy | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=236&p3=215) | [osulive](https://twitch.tv/osulive) |
 | Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=108&p3=102) | [osulive_2](https://twitch.tv/osulive_2) |
