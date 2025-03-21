@@ -14,7 +14,7 @@ tags:
 
 ## History
 
-The following is a table that shows all of the cookies used all throughout the history of osu!. These have been put here for archival purposes.
+The following is a table that shows all of the cookies used throughout the history of osu! for archival purposes.
 
 | Cookie | Years used | Notes |
 | :-: | :-: | :-- |
