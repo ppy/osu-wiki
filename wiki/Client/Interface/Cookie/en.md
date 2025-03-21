@@ -18,7 +18,7 @@ The following is a table that shows all of the cookies used all throughout the h
 
 | Cookie | Years used | Notes |
 | :-: | :-: | :-- |
-|*missing*|2007 - 2011|Uses *Verdana*.|
+| *missing* | 2007 - 2011 | Uses *Verdana*. |
 |![2011 - 2014](img/logo2.jpg)|2011 - 2014|Uses *Verdana*, slightly similar to 2007-2011 logo.|
 |*missing*|2014 - 2016|Uses *Aller*.|
 |![2016 - present](img/logo4.jpg)|2016 - present|Uses *Aller*, slightly similar to 2014-2016 logo.|
