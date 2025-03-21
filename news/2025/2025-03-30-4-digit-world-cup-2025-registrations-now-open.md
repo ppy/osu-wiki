@@ -8,7 +8,7 @@ Attention all 4 digit osu! players — the 4 Digit World Cup is back for another
 
 ![](/wiki/Tournaments/4WC/2025/img/banner.png)
 
-The **[4 Digit World Cup]** (pending forum link), or 4WC for short, has been the longest-running x-digit world cup tournament ever since its first iteration in 2018. A highlight of the year for players within the 4 digit (#1,000–9,999) rank range and with a rich history of seasoned veterans fighting it out against strong newcomers, many look forward to what each new iteration has to offer.
+The **4 Digit World Cup** (pending forum link), or 4WC for short, has been the longest-running x-digit world cup tournament ever since its first iteration in 2018. A highlight of the year for players within the 4 digit (#1,000–9,999) rank range and with a rich history of seasoned veterans fighting it out against strong newcomers, many look forward to what each new iteration has to offer.
 
 [Last year](https://osu.ppy.sh/home/news/2024-06-24-4-digit-world-cup-2024-concludes) broke records again with 58 teams competing for the crown. The reigning champions ::{ flag=US }:: United States proved their worth with a conclusive 7–3 win against returning finalist ::{ flag=CA }:: Canada, claiming the first back-to-back titles in 4WC history. The old guard of ::{ flag=CN }:: China rounded out the podium at 3rd place, bringing them back to the top after a 7–8th finish in the previous year.
 
