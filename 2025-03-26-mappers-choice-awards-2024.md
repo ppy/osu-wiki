@@ -6,7 +6,7 @@ date: 2025-03-26 01:30:00 +0000
 
 ### Get Ready to Cast Your Vote in the Mapper’s Choice Awards 2024!  
 
-It’s time to step up, vote, and crown last year’s best Ranked maps in the **Mapper’s Choice Awards (MCA)!** *This is your chance to decide who takes the top spot—don’t miss out!*  
+It’s time to step up, vote, and crown last year’s best ranked beatmaps in the **Mapper’s Choice Awards (MCA)!** *This is your chance to decide who takes the top spot—don’t miss out!*  
 
 ![](link for banner)  
 
@@ -18,7 +18,7 @@ For those unfamiliar with the event, the **Mapper’s Choice Awards** (*MCA*) is
 
 ## Mapper’s Choice Awards 2024  
 
-If you **ranked a beatmap, guest difficulty, or storyboard in 2024**, you’re eligible to help the community recognize the most outstanding maps of the year!  
+If you **ranked a beatmap, guest difficulty, or storyboard in 2024**, you’re eligible to help the community recognise the most outstanding beatmaps of the year!  
 
 ### **Key Changes for 2024**  
 - The number of voting categories has been **reduced**.  
@@ -38,10 +38,10 @@ If you’re eligible, head over to the [**Mapper’s Choice Awards 2024**](https
 
 | Event | Date (UTC) |
 | --: | :-- |  
-| **Nomination phase** | 2025-03-26 – 2025-03-31 00:00 |  
-| **Voting phase** | 2025-04-03 – 2025-04-08 00:00 |  
-| **Results stream** (on the [Corsace Twitch channel](https://www.twitch.tv/corsace)) | 2025-04-14 |  
-| **Final results** (on the [Corsace website](https://mca.corsace.io/2024/)) | 2025-04-15 |  
+| **Nomination phase** | 2025-03-26 – 2025-03-31 00:00 |
+| **Voting phase** | 2025-04-03 – 2025-04-08 00:00 |
+| **Results stream** [Corsace Twitch channel](https://www.twitch.tv/corsace) | 2025-04-14 |
+| **Final results** [Corsace website](https://mca.corsace.io/2024/) | 2025-04-15 |
 
 ---
 
@@ -59,8 +59,8 @@ MCA 2024 features exciting rewards for the winners of each category:
 
 ### **A Year in Mapping (AYIM) Update**  
 
-Unfortunately, **A Year in Mapping (AYIM)** will not be hosted this year. *As the main organizers have stepped away from the project, it will no longer be supported.* We want to extend our **heartfelt gratitude** to those who contributed over the years, making AYIM a cherished part of the community.  
+Unfortunately, **A Year in Mapping (AYIM)** will not be hosted this year. *As the main organisers have stepped away from the project, it will no longer be supported.* We want to extend our **heartfelt gratitude** to those who contributed over the years, making AYIM a cherished part of the community.  
 
 Now that you’re caught up on all the details, it’s time for the most important part—**nominating and voting!** [**Visit the website to get started!**](https://mca.corsace.io/2024/)  
 
-—Maxus, momoyo  
+—Maxus & momoyo  
