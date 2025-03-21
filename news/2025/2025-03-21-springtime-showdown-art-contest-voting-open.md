@@ -6,7 +6,7 @@ date: 2025-03-21 18:00:00 +0000
 
 The clash between the art warriors has been fierce, and it's now *your* turn to crown the victors.
 
-![](/wiki/shared/news/2025-03-21-springtime-showdown-art-voting/banner.jpg)
+![](/wiki/shared/news/2025-02-28-springtime-showdown-art-contest/banner.jpg)
 
 With a total of **78** entrants, this iteration has been a whirlwind of creativity and color, hence why we're equipping each and every one of you with **15** votes to decide the champions of this magical showdown.
 
