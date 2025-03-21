@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Springtime Showdown Art Contest: Voting Open"
-date: 2025-03-21 18:00:00 +0000
+date: 2025-03-21 16:00:00 +0000
 ---
 
 The clash between the art warriors has been fierce, and it's now *your* turn to crown the victors.
