@@ -1,6 +1,6 @@
 # .osr (formato de archivo)
 
-**.osr** es un formato de archivo que contiene información sobre una repetición de osu!. Para usarlo, se necesita el beatmap especificado por el archivo en la carpeta «Songs».
+**.osr** es un formato de archivo para la descripción de las [repeticiones](/wiki/Gameplay/Replay) de osu!. Un archivo `.osr` solo se puede reproducir si el juego tiene el mismo [beatmap](/wiki/Beatmap) para el que se guardó la repetición.
 
 ## Tipos de datos
 
@@ -19,16 +19,16 @@ Los desplazamientos de bytes no se incluyen en esta tabla debido a los valores d
 
 | Tipo de dato | Descripción |
 | :-- | :-- |
-| Byte | Modo de juego de la repetición (0 = osu! Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania) |
+| Byte | Modo de juego de la repetición (0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
 | Entero | Versión del juego cuando se creó la repetición (por ejemplo, 20131216) |
-| Cadena | HashMD5 del beatmap de osu! |
+| Cadena | HashMD5 del beatmap |
 | Cadena | Nombre del jugador |
-| Cadena | Hash MD5 de la repetición de osu! (incluye ciertas propiedades de la repetición). |
+| Cadena | Hash MD5 de la repetición (incluye ciertas propiedades de la repetición) |
 | Short | Número de 300s |
-| Short | Número de 100s en standard, 150s en Taiko, 100s en CTB, 100s en mania |
-| Short | Número de 50s en standard, frutas pequeñas en CTB, 50s en mania |
-| Short | Número de Gekis en standard, Max 300s en mania |
-| Short | Número de Katus en standard, 200s en mania |
+| Short | Número de 100s en osu!, 150s en osu!taiko, 100s en osu!catch, 100s en osu!mania |
+| Short | Número de 50s en osu!, frutas pequeñas en osu!catch, 50s en osu!mania |
+| Short | Número de Gekis en osu!, Max 300s en osu!mania |
+| Short | Número de Katus en osu!, 200s en osu!mania |
 | Short | Número de fallos |
 | Entero | Puntuación total mostrada en el informe de la puntuación |
 | Short | Mayor combo mostrado en el informe de la puntuación |
