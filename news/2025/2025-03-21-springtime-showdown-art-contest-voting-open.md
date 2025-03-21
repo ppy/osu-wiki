@@ -12,7 +12,9 @@ With a total of **78** entrants, this iteration has been a whirlwind of creativi
 
 This time, there has been a distinct lack of dotted osu! cookies in the submissions, and we want to thank you for that. (Except for the one person who submitted the template itself as an entry. You will be hearing from our lawyers soon.)
 
-Instead, we got an *incredible variety* of interpretations for the stated theme of **competition**. The few example concepts [presented in the announcement](https://osu.ppy.sh/home/news/2025-02-28-springtime-showdown-art-contest) were expanded beyond our imagination, with not *just* osu! tournaments and esports considered, but brawls, fighting games, various outdoor sports, singing, bake-offs as well as drawing contests (including some meta ones about this very contest!), all with unique osu! spins put on top! We're extremely impressed.
+Instead, we got an *incredible variety* of interpretations for the stated theme of **competition**. The few example concepts [presented in the announcement](https://osu.ppy.sh/home/news/2025-02-28-springtime-showdown-art-contest) were expanded beyond our imagination, with not *just* osu! tournaments and esports considered, but brawls, fighting games, various outdoor sports, singing, bake-offs as well as drawing contests (including some meta ones about this very contest!), all with unique osu! spins put on top!
+
+We're extremely impressed, but you'll of course be the judge of which artworks nailed the theme the best.
 
 Also, we heard from many artists that they started on their artwork very late. If that sounds worrying, please rest assured that it's completely normal! As we all know, productivity is inversely proportional to the time left until the deadline:
 
