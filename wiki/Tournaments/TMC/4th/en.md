@@ -203,18 +203,18 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 | Team A | Team B | Match time | Stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Chodan | Retirados y Peligrosos | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=3911&p3=3917) | *TBD* | [^losers-bracket] |
+| Chodan | Retirados y Peligrosos | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=3911&p3=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
 
 ### Sunday, 23 March 2025
 
 | Team A | Team B | Match time | Stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Gravity Coil | Mahjong Soul Official | [Mar 23 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T040000&p1=1440&p2=3920&p3=3909&p4=3911&p5=3910) | *TBD* | [^winners-bracket] |
-| Girlfriend ASMR | Girls Band Cry | [Mar 23 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T060000&p1=1440&p2=3922&p3=3920&p4=3910) | *TBD* | [^losers-bracket] |
-| Girls Band Cry | Chodan | [Mar 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T130000&p1=1440&p2=3910&p3=3911) | *TBD* | [^potential-match] |
-| Girlfriend ASMR | Chodan | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3922&p3=3920&p4=3911) | *TBD* | [^potential-match] |
-| Girls Band Cry | Retirados y Peligrosos | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3910&p3=3917) | *TBD* | [^potential-match] |
-| Girlfriend ASMR | Retirados y Peligrosos | [Mar 23 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T210000&p1=1440&p2=3922&p3=3920&p4=3917) | *TBD* | [^potential-match] |
+| Girlfriend ASMR | Girls Band Cry | [Mar 23 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T050000&p1=1440&p2=3922&p3=3920&p4=3910) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
+| Gravity Coil | Mahjong Soul Official | [Mar 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T100000&p1=1440&p2=3920&p3=3909&p4=3911&p5=3910) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
+| Girls Band Cry | Chodan | [Mar 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T130000&p1=1440&p2=3910&p3=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
+| Girlfriend ASMR | Chodan | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3922&p3=3920&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
+| Girls Band Cry | Retirados y Peligrosos | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3910&p3=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
+| Girlfriend ASMR | Retirados y Peligrosos | [Mar 23 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T210000&p1=1440&p2=3922&p3=3920&p4=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
 
 ## Mappools
 
