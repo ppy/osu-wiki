@@ -23,4 +23,4 @@ The following is a table that shows all of the cookies used throughout the histo
 | *missing* | 2014 - 2016 | Uses *Aller*. |
 | ![2016 - present](img/logo4.jpg) | 2016 - present | Uses *Aller* |
 | ![January 2024 - May 2024](img/logo5.jpg) | January 2024 - May 2024 | Uses *Torus*, only used shortly due to criticism. |
-| ![May 2024 - present](img/logo6.jpg) | May 2024 - present | Uses *Torus*, used in [Upgrading_to_lazer](/wiki/Help_centre/Upgrading_to_lazer) |
+| ![May 2024 - present](img/logo6.jpg) | May 2024 - present | Uses *Torus*, used in [osu!(lazer)](/wiki/Help_centre/Upgrading_to_lazer) |
