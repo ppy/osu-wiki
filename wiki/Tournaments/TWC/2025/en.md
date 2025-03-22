@@ -56,6 +56,8 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2041167)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/49)
 - [Challonge bracket](https://challonge.com/TWC2025)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/166) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1449)
 
 ## Participants
 
@@ -101,19 +103,6 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bcaab51028b74dee27c483e54fc7f251).
 
 ## Match schedule: Round of 32
-
-### Saturday, 22 March 2025
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=NZ }:: New Zealand | [Mar 22 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T080000&p1=1440&p2=166&p3=264) | [osulive](https://twitch.tv/osulive) |
-| Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Mar 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T120000&p1=1440&p2=101&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
-| Japan ::{ flag=JP }:: | ::{ flag=BG }:: Bulgaria | [Mar 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T130000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
-| Singapore ::{ flag=SG }:: | ::{ flag=IT }:: Italy | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=236&p3=215) | [osulive](https://twitch.tv/osulive) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=108&p3=102) | [osulive_2](https://twitch.tv/osulive_2) |
-| Philippines ::{ flag=PH }:: | ::{ flag=NL }:: Netherlands | [Mar 22 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T143000&p1=1440&p2=145&p3=16) | [osulive](https://twitch.tv/osulive) |
-| Taiwan ::{ flag=TW }:: | ::{ flag=PE }:: Peru | [Mar 22 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T150000&p1=1440&p2=241&p3=131) | [osulive](https://twitch.tv/osulive) |
-| Türkiye ::{ flag=TR }:: | ::{ flag=SK }:: Slovakia | [Mar 22 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T170000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 23 March 2025
 
@@ -176,6 +165,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
   1. [t+pazolite - Chartreuse Green (Raphalge) \[Creature Feature featuring The Creature\]](https://osu.ppy.sh/beatmapsets/2336500#taiko/5016026)
 
 ## Match results
+
+### Round of 32
+
+Saturday, 22 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/117554905) | [#1](https://www.twitch.tv/videos/2412195327) |
+| **Finland** ::{ flag=FI }:: | **5** | 3 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/117556344) | [#1](https://www.twitch.tv/videos/2412282707) |
+| **Japan** ::{ flag=JP }:: | **5** | -1 | ::{ flag=BG }:: Bulgaria | *[win by default](https://osu.ppy.sh/community/matches/117556886)* |  |
+| **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/117557520) | [#1](https://www.twitch.tv/videos/2412351319) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 3 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/117557518) | [#1](https://www.twitch.tv/videos/2412419831) |
+| Philippines ::{ flag=PH }:: | 1 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/117557909) | [#1](https://www.twitch.tv/videos/2412351319?t=0h34m55s) |
+| **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/117558292) | [#1](https://www.twitch.tv/videos/2412419830) |
+| **Türkiye** ::{ flag=TR }:: | **5** | 0 | ::{ flag=SK }:: Slovakia | [#1](https://osu.ppy.sh/community/matches/117559795) | [#1](https://www.twitch.tv/videos/2412477559) |
 
 ### Qualifiers
 
