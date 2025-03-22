@@ -1,3 +1,8 @@
+---
+outdated_since: 61dd52416759292db6ff082d769c5bae62422ed6
+outdated_translation: true
+---
+
 # Criterios de clasificación
 
 Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
