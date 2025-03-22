@@ -1,3 +1,8 @@
+---
+outdated_since: 61dd52416759292db6ff082d769c5bae62422ed6
+outdated_translation: true
+---
+
 # 谱面上架标准 (RC)
 
 这篇文章列出了[谱面](/wiki/Beatmap)在通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)时必须遵守的规定和准则。

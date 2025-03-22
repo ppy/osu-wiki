@@ -130,8 +130,9 @@ Important to understand before using:
 - **The audio file of a beatmap must...**
   - **...be encoded in MP3 (`.mp3`) or [Ogg Vorbis](https://en.wikipedia.org/wiki/Vorbis) (`.ogg`).**
   - **...have an average bit rate no greater than 192 kbps for MP3 files, or 208 kbps for Ogg Vorbis files.**
+  - **...have a sampling rate no larger than 48 kHz.**
   - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
-  - **...not be encoded upwards from a lower bitrate.**
+  - **...not be encoded upwards from a lower bitrate or sampling rate.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
 - **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.[^normal-vs-addition]
   - **osu!mania beatmaps do not require hitsound additions.**[^normal-vs-addition] This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to use hitsound additions to improve the feel of your beatmaps.
