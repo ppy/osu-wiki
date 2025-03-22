@@ -95,7 +95,11 @@ It's fair to say that, despite not receiving formal recognition up until now, Bl
 
 [![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/iredi.jpg)](https://osu.ppy.sh/users/8005579)
 
-Originally hailing from the osu! mapping scene, [iRedi](https://osu.ppy.sh/users/8005579) took the osu!taiko Beatmap Nominators by a storm from the moment he joined back in December 2023. Ever since,
+Originally hailing from the osu! mapping scene, [iRedi](https://osu.ppy.sh/users/8005579) took the osu!taiko Beatmap Nominators by a storm from the moment he joined back in December 2023. Ever since, he's been a super consistent force to be reckoned with, and his performance over the past year is a testament to that.
+
+Having over 160 nominations in 2024, iRedi's performance has been stellar to say the least. He maintained a very consistent level of quantity; peaking over 80 nominations in 3 months at one point, paired with a solid level of quality, too.
+
+With only a total of 17 resets (and only 3 of them being notable), iRedi's performance has been nothing short of excellent, hence why we're more than proud to bestow him with the Elite Nominator accolade!
 
 ### osu!catch
 
