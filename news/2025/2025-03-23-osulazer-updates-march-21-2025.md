@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "osu!(lazer) Updates: March 23, 2025"
+title: "osu!(lazer) Updates: March 21, 2025"
 date: 2025-03-23 18:30:00 +0000
 ---
 
 A new osu!(lazer) update is delivered by a soft spring breeze.
 
-![](/wiki/shared/news/2025-03-23-osulazer-updates-march-23-2025/banner.jpg)
+![](/wiki/shared/news/2025-03-23-osulazer-updates-march-21-2025/banner.jpg)
 
 Mother Nature is slowly rolling out the new Spring 2025 update, featuring warmer weather, more sun, and more greenery all across the board! Despite all of graphical and weather updates, the osu! developers still made time to focus and drop an update of their own for the osu!community.
 
