@@ -18,6 +18,13 @@ Mother Nature is slowly rolling out the new Spring 2025 update, featuring warmer
 
 - **The "discard unsaved changes" operation has been added to the editor.** Sometimes those new changes you've made just don't work out.
 - **The Kiai/star sound effect has now been added and made skinnable.** The new sound effect can be heard on the osu!argon skins, and you can use `fountain-shoot.wav` to place a sound of your own!
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-03-23-kiai-sfx.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 - **Editor grid spacing can now be set up to 256 pixels.** Hate the editor grid? You can now get rid of it entirely.
 - **Right-click-for-new-combo and right-click-delete combinations have been added back in object placement mode.** Deleting objects has never been so easy.
 
@@ -26,6 +33,13 @@ Mother Nature is slowly rolling out the new Spring 2025 update, featuring warmer
 - **Beatmap information is now shown in the window title when playing or editing a beatmap.** This might go unnoticed by the majority, but those who do notice it will appreciate it.
 - **Freestyle multiplayer results screen now shows the correct beatmap details for all users.** Previously it showed the same beatmap for everyone, regardless of game mode selected.
 - **Minor design adjustments have been made for mobile gameplay.** The osu!mania mobile layout can now be customised, and a fix was rolled out for osu!taiko since the playfield was more zoomed-in than needed, causing less objects to be seen at once.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-03-23-mania-mobile-2.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 - **The difficulty attributes in mod select are now properly highlighted for all applicable mods.** On some mods (Hard Rock being an example), the updated difficulty attributes such as OD (overall difficulty) and AR (approach rate) were not properly updated up until this update.
 
 ### Other
@@ -33,6 +47,13 @@ Mother Nature is slowly rolling out the new Spring 2025 update, featuring warmer
 - **Minor design adjustments have been made to the leaderboards and multiplayer lounge.** The scale of rooms in multiplayer lounge has been lowered, and the leaderboard was adjusted slightly, although a major redesign of the whole song select screen is slated for next release.
 - **The taskbar will now flash when a multiplayer game starts.** This is a life-saver for those who constantly tab out of the game.
 - **Beatmap user tags have been added, along with the ability to vote on them after completing a play.** With the shutdown of [apollodw](https://osu.ppy.sh/users/9558549)'s [OMDB](https://omdb.nyahh.net/), the various tags have been ported over to the game itself, and anyone who sets a play over a certain threshold will be able to vote on the tags.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-03-23-user-tags.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 - **The tip pressure threshold option has been added in the tablet settings.** This can both serve as a utility for niche play styles, or it might give a dying tablet some extra life span.
 - **Team beatmap leaderboards have been added.** You can now compete exclusively with your osu teammates!
 - **More functionality has been added upon right-clicking a user in the chat window.** You can now right-click on anyone in chat to spectate them, or invite them to your multiplayer room.
