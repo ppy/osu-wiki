@@ -25,7 +25,7 @@ Durch [Modding](/wiki/Modding) erhält man konstruktive Kritik für eine Beatmap
 
 Die Qualitätsstandards für die Ranked-Kategorie sind hoch, beim Modding müssen also viele Punkte beachtet werden. Manchmal kann es auch passieren, dass Beatmaps komplett neu gemacht werden müssen.
 
-Bevor die Beatmap für das Ranking nominiert wird, müssen mindestens 5 verschiedene Nutzer der Beatmap einen [Hype](/wiki/Beatmap/Hype) vergeben.
+Bevor die Beatmap für das Ranking nominiert wird, müssen mindestens 5 verschiedene Nutzer einen [Hype](/wiki/Beatmap/Hype) vergeben.
 
 ## Nominierungen {id=nominations}
 
@@ -33,11 +33,11 @@ Bevor die Beatmap für das Ranking nominiert wird, müssen mindestens 5 verschie
 ![](img/nomination-progress-beatmapset1857663.png "Der Rankingstatus einer Beatmap auf der Diskussionsseite, wobei der Hype-Train und die Nominierungsleiste zum Teil gefüllt sind.")
 :::
 
-Eine **Nominierung** ist eine Bestätigung, dass eine Beatmap [gerankt](/wiki/Beatmap/Category#ranked) werden soll. Beatmaps, die eine angemessene Qualität aufweisen, erhalten nach einer Überprüfung eine solche Nominierung von Nutzern, die diese Nominierungen vergeben dürfen. Als Mindestanforderung gilt, dass Beatmaps den [Ranking-Kriterien](/wiki/Ranking_criteria) entsprechen müssen und 5 oder mehr [Hypes](/wiki/Beatmap/Hype) haben.
+Eine **Nominierung** ist eine Bestätigung, dass eine Beatmap [gerankt](/wiki/Beatmap/Category#ranked) werden soll. Beatmaps können nominiert werden, wenn die nominierenden Nutzer ihre Qualität für angemessen halten. Als Mindestanforderung gilt, dass Beatmaps den [Ranking-Kriterien](/wiki/Ranking_criteria) entsprechen müssen und 5 oder mehr [Hypes](/wiki/Beatmap/Hype) haben.
 
 Nominierungen werden oft von [Beatmap-Nominatoren](/wiki/People/Beatmap_Nominators) (*BN*), einer Gruppe erfahrener Modder, vergeben. Mitglieder des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) (*NAT*) dürfen Beatmaps auch nominieren, jedoch ist das nicht ihre Hauptaufgabe.
 
-Es wird empfohlen, Meinungen einzuholen bevor man BN nach Nominierungen fragt, allerdings sind 5 Hypes die einzige Voraussetzung.
+Es wird empfohlen, Feedback durch Modding einzuholen bevor man BN nach Nominierungen fragt, allerdings sind 5 Hypes die einzige Voraussetzung.
 
 ## Qualifizierung
 
@@ -49,9 +49,9 @@ Diese Beatmap-Kategorie wurde eingeführt, damit ein größerer Teil der osu!-Co
 
 Eine Zurücksetzung der Nominierungen stellt sicher, dass Modder, Beatmap-Nominatoren und NAT-Mitglieder die aktuelle Version einer Beatmap überprüfen, bevor diese in die Ranking-Warteschlange gelangt.
 
-Nominierungen können zurückgesetzt werden, wenn eine Beatmap von ihrem Ersteller modifiziert wird oder ein BN bzw. ein NAT-Mitglied ein Problem in der Beatmap findet. Beatmaps können auch vom [globalen Moderationsteam](/wiki/People/Global_Moderation_Team) zurückgesetzt werden, wenn dort unangemessene Inhalte vorhanden sind. Sobald die Nominierungen bei einer qualifizierten Beatmap zurückgesetzt werden, wird die Beatmap disqualifiziert und aus der Ranking-Warteschlange entfernt.
+Nominierungen können zurückgesetzt werden, wenn eine Beatmap von ihrem Ersteller modifiziert wird oder ein BN bzw. ein NAT-Mitglied ein Problem in der Beatmap findet. Beatmaps können auch vom [globalen Moderationsteam](/wiki/People/Global_Moderation_Team) zurückgesetzt werden, wenn dort unangemessene Inhalte vorhanden sind. Falls die Nominierungen bei einer qualifizierten Beatmap zurückgesetzt werden, wird die Beatmap disqualifiziert und aus der Ranking-Warteschlange entfernt.
 
-Beatmap-Nominatoren und NAT-Mitglieder können fallweise [ihren Einspruch einlegen](/wiki/People/Beatmap_Nominators/Beatmap_Veto), wenn sie glauben, dass Beatmaps Qualitätsstandards unabhängig von den Ranking-Kriterien nicht einhalten.
+Beatmap-Nominatoren und NAT-Mitglieder können in Einzelfällen ein [Veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) aussprechen, wenn sie glauben, dass eine Beatmap Qualitätsprobleme aufweist, die unabhängig von den Ranking-Kriterien sind.
 
 ## Ranked
 
