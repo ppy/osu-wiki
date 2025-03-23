@@ -615,7 +615,7 @@ Players will be instructed to do a `!roll` command by the referee that is overse
 
 After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the following two conditions is satisfied:
 
-- One player has achieved enough wins in such a way that the other player cannot successfully win the round.
+- One player has achieved enough points to win the match. See the above mentioned [win conditions](#round-overview).
   - The winning player moves onto the next match.
   - If the match was in the winner's bracket or during the first round, the losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
 - Both players are at match point at the same time.
