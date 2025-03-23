@@ -135,7 +135,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 4K
 
-#### Grand Finals
+#### Grand finals
 
 - Rice
   1. [Luze - Love Song [Black Dorna] (Valedict) [Heartfelt 1.05x (365bpm)]](https://osu.ppy.sh/beatmapsets/1796541#mania/3682631)
@@ -268,7 +268,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 7K
 
-#### Grand Finals
+#### Grand finals
 
 - Rice
   1. [ZUN - Phantasm Machine ~ Phantom Factory (spoonguy) [1.1x]](https://osu.ppy.sh/beatmapsets/1280519#mania/2659951)
@@ -390,7 +390,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 4K
 
-#### Grand Finals
+#### Grand finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -448,7 +448,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 7K
 
-#### Grand Finals
+#### Grand finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -506,19 +506,19 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-### Tournament Organization
+### Tournament organization
 
-#### Gamemode and Introduction
+#### Gamemode and introduction
 
 As the tournament name implies, this is an osu!mania tournament set up as a national championship for the Philippine osu!mania community. This tournament accommodates both 4K and 7K as separate tournaments.
 
-#### General Eligibility Rules
+#### General eligibility rules
 
 Players who currently have (or had at some point since account creation) the Philippine flag on their profile or players who do not have the Philippine flag on their profiles but **can present a proof of their Philippine citizenship** to the staff are the only ones allowed to join the tournament.
 
 Staff members who are **[not referees, mappool selectors, hosts, nor are part of any managing role](/wiki/Tournaments/Official_support#staff)** are permitted to join the tournament.
 
-#### Round Overview
+#### Round overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
 
@@ -533,7 +533,7 @@ With the exception of the qualification stage (which does not have a winning con
 
 Mods that are allowed to be used in matches, if the player opts to use them, are Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, all maps will be played with ScoreV2.
 
-#### Qualification Process
+#### Qualification process
 
 All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. The maximum number of players who can advance to the bracket stage is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
 
@@ -558,9 +558,9 @@ Regardless of the number of entrants and eliminations, the qualification process
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the losers bracket at the start of Quarterfinals week or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
-#### Match Protocol
+#### Match protocol
 
 Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 
@@ -589,7 +589,7 @@ Reschedules will only be considered if both players agree to a time, this needs 
 - PHNM2023 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
 - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players, although a player may also skip their warm-up upon notification to the referee. All warm-up songs must be osu!mania 4K or 7K specific notecharts, depending on the division, and must be no longer than 3 minutes.
 
@@ -603,7 +603,7 @@ Warm-up songs will be on Free Mod, which allows for any special modifications th
 
 Players who opt to play a warm-up chart before the match proper must submit their warm-up links no more than 15 minutes before the scheduled start of the match. Players who fail to do so will not be allowed to set a warm-up chart.
 
-#### Bans, Protects, Rolls, and Song Selections
+#### Bans, protects, rolls, and song selections
 
 With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Similar to the qualification stage, mods that are allowed to be used in matches, if the player opts to use them, are Hidden, Flashlight, Fade In, Mirror, and No Fail.
 
