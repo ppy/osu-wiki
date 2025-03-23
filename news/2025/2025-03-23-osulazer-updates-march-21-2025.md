@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: March 21, 2025"
-date: 2025-03-23 18:30:00 +0000
+date: 2025-03-23 19:00:00 +0000
 ---
 
 A new osu!(lazer) update is delivered by a soft spring breeze.
