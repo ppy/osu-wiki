@@ -18,7 +18,7 @@
   - 头衔会持续到下一批次优秀提名者的选举。如果玩家卸任提名者，将取消头衔
   - 如果玩家连续被评为优秀提名者，则头衔等级会逐年递增 1
 - 一个特别的优秀提名者[主页奖牌](/wiki/Community/Profile_badge)
-  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "优秀提名者奖牌") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II 奖牌")
+  ![优秀提名者奖牌](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "优秀提名者奖牌") ![优秀提名者 II 奖牌](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II 奖牌") ![优秀提名者 III 奖牌](https://assets.ppy.sh/profile-badges/elite-nominator-3.png "优秀提名者 III 奖牌")
 
 ## 2019
 
@@ -129,7 +129,7 @@
 
 *关于新闻帖，请参见： [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
 
-| Name | Game mode |
+| 名称 | 游戏模式 |
 | :-- | :-- |
 | ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) | osu! |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | osu! |
