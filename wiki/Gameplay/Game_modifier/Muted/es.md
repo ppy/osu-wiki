@@ -37,7 +37,7 @@ El mod **Muted** reduce el volumen de la música y de los [hitsounds](/wiki/Beat
 - **Iniciar silenciado** (desactivado de forma predeterminada): Invierte el efecto del mod. El volumen empezará silenciado y aumentará con el combo. Si se activa esta opción, el valor mínimo de la opción *Volumen final según el combo* será 1 en lugar de 0.
 - **Activar metrónomo** (activado de forma predeterminada): Añade el ritmo de un metrónomo que se hace más fuerte a medida que la música se hace más silenciosa.
 - **Volumen final según el combo** (0-500, 100 de forma predeterminada): El combo en el que se alcanzará el volumen final. Si se establece en 0 y la opción *Iniciar silenciado* está desactivada, el volumen siempre estará silenciado.
-- **Silenciar   hitsounds** (activado de forma predeterminada): Hace que el mod afecte al volumen de los hitsounds y al volumen de la música.
+- **Silenciar hitsounds** (activado de forma predeterminada): Hace que el mod afecte al volumen de los hitsounds y al volumen de la música.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
