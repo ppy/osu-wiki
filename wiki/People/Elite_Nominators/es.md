@@ -42,7 +42,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 *Para la publicación de la noticia, véase: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
-| Name | Game mode |
+| Nombre | Modo de juego |
 | :-- | :-- |
 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097) | osu! |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
@@ -127,7 +127,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 *Para la publicación de la noticia, véase: [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
 
-| Name | Game mode |
+| Nombre | Modo de juego |
 | :-- | :-- |
 | ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) | osu! |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | osu! |
