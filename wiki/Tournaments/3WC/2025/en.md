@@ -8,7 +8,7 @@ tags:
 
 ![3WC 2025 banner](img/banner.jpg)
 
-The **3 Digit World Cup 2025** (***3WC2025***) was a 3v3, double-elimination, country-based osu! tournament hosted by ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) and ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899). It was the seventh instalment of the 3 Digit World Cup.
+The **3 Digit World Cup 2025** (***3WC2025***) was a 3v3, double-elimination, country-based osu! tournament hosted by ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) and ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264). It was the seventh instalment of the 3 Digit World Cup.
 
 ## Tournament schedule
 
