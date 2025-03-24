@@ -44,7 +44,7 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=SE }:: **[Nurend](https://osu.ppy.sh/users/9905079)**, ::{ flag=SE }:: **[Raphalge](https://osu.ppy.sh/users/3918650)**, ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417) |
 | Mappool playtester | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=BR }:: [Foxeru](https://osu.ppy.sh/users/7479684), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=BR }:: [miwoo](https://osu.ppy.sh/users/12630336), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=US }:: [Shyguy](https://osu.ppy.sh/users/178038) |
-| Mapper | ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=IT }:: [D 3](https://osu.ppy.sh/users/7807444), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=TW }:: [K a y o k o](https://osu.ppy.sh/users/17664300), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=BR }:: [Skid](https://osu.ppy.sh/users/3044264), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), *more TBA* |
+| Mapper | ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=IT }:: [D 3](https://osu.ppy.sh/users/7807444), ::{ flag=DE }:: [DarkVortex](https://osu.ppy.sh/users/1940325), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=TW }:: [K a y o k o](https://osu.ppy.sh/users/17664300), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=BR }:: [Skid](https://osu.ppy.sh/users/3044264), ::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), *more TBA* |
 | Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Bronzecrank](https://osu.ppy.sh/users/14173115), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548), ::{ flag=US }:: [ETHN](https://osu.ppy.sh/users/9536977), ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
@@ -56,6 +56,8 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2041167)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/49)
 - [Challonge bracket](https://challonge.com/TWC2025)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/166) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1449)
 
 ## Participants
 
@@ -100,36 +102,62 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bcaab51028b74dee27c483e54fc7f251).
 
-## Match schedule: Round of 32
+## Match schedule: Round of 16
 
-### Saturday, 22 March 2025
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=NZ }:: New Zealand | [Mar 22 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T080000&p1=1440&p2=166&p3=264) | [osulive](https://twitch.tv/osulive) |
-| Philippines ::{ flag=PH }:: | ::{ flag=NL }:: Netherlands | [Mar 22 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T110000&p1=1440&p2=145&p3=16) | [osulive](https://twitch.tv/osulive) |
-| Japan ::{ flag=JP }:: | ::{ flag=BG }:: Bulgaria | [Mar 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T120000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
-| Australia ::{ flag=AU }:: | ::{ flag=CH }:: Switzerland | [Mar 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T130000&p1=1440&p2=57&p3=270) | [osulive](https://twitch.tv/osulive) |
-| Singapore ::{ flag=SG }:: | ::{ flag=IT }:: Italy | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=236&p3=215) | [osulive](https://twitch.tv/osulive) |
-| Taiwan ::{ flag=TW }:: | ::{ flag=PE }:: Peru | [Mar 22 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T150000&p1=1440&p2=241&p3=131) | [osulive](https://twitch.tv/osulive) |
-| Türkiye ::{ flag=TR }:: | ::{ flag=SK }:: Slovakia | [Mar 22 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T160000&p1=1440) | [osulive](https://twitch.tv/osulive) |
-
-### Sunday, 23 March 2025
+### Saturday, 29 March 2025
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Malaysia ::{ flag=MY }:: | ::{ flag=MX }:: Mexico | [Mar 23 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T020000&p1=1440&p2=122&p3=155) | [osulive](https://twitch.tv/osulive) |
-| South Korea ::{ flag=KR }:: | ::{ flag=CO }:: Colombia | [Mar 23 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T040000&p1=1440&p2=235&p3=41) | [osulive](https://twitch.tv/osulive) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Mar 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T080000&p1=1440&p2=108&p3=102) | [osulive](https://twitch.tv/osulive) |
-| Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Mar 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T110000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) |
-| China ::{ flag=CN }:: | ::{ flag=BR }:: Brazil | [Mar 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T120000&p1=1440&p2=33&p3=45) | [osulive](https://twitch.tv/osulive) |
-| Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=AR }:: Argentina | [Mar 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T170000&p1=1440&p2=232&p3=51) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CA }:: Canada | [Mar 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T180000&p1=1440&p2=136&p3=188) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=PT }:: Portugal | [Mar 23 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T183000&p1=1440&p2=263&p3=133) | [osulive](https://twitch.tv/osulive) |
-| Round of 16 | mappool showcase | [Mar 23 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| Australia ::{ flag=AU }:: | ::{ flag=MY }:: Malaysia | [Mar 29 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T080000&p1=1440&p2=57&p3=122) | [osulive](https://twitch.tv/osulive) |
+| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Mar 29 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T090000&p1=1440&p2=235&p3=95) | [osulive](https://twitch.tv/osulive) |
+| Bulgaria ::{ flag=BG }:: | ::{ flag=PH }:: Philippines | [Mar 29 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T100000&p1=1440&p3=145) | [osulive](https://twitch.tv/osulive) |
+| Italy ::{ flag=IT }:: | ::{ flag=HK }:: Hong Kong | [Mar 29 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T110000&p1=1440&p2=215&p3=102) | [osulive](https://twitch.tv/osulive) |
+| China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Mar 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T120000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Mar 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T180000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=RU }:: Russian Federation | [Mar 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T180000&p1=1440&p2=232&p3=166) | [osulive_2](https://twitch.tv/osulive_2) |
+| Peru ::{ flag=PE }:: | ::{ flag=SK }:: Slovakia | [Mar 29 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T190000&p1=1440&p2=131) | [osulive](https://twitch.tv/osulive) |
+| Switzerland ::{ flag=CH }:: | ::{ flag=MX }:: Mexico | [Mar 29 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T200000&p1=1440&p2=270&p3=155) | [osulive](https://twitch.tv/osulive) |
+
+### Sunday, 30 March 2025
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Argentina ::{ flag=AR }:: | ::{ flag=NZ }:: New Zealand | [Mar 30 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T010000&p1=1440&p2=51&p3=264) | [osulive](https://twitch.tv/osulive) |
+| Singapore ::{ flag=SG }:: | ::{ flag=ID }:: Indonesia | [Mar 30 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T060000&p1=1440&p2=236&p3=108) | [osulive](https://twitch.tv/osulive) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=TR }:: Türkiye | [Mar 30 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T100000&p1=1440&p2=241) | [osulive](https://twitch.tv/osulive) |
+| Japan ::{ flag=JP }:: | ::{ flag=NL }:: Netherlands | [Mar 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T110000&p1=1440&p2=248&p3=16) | [osulive](https://twitch.tv/osulive) |
+| Portugal ::{ flag=PT }:: | ::{ flag=FR }:: France | [Mar 30 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T130000&p1=1440&p2=133&p3=195) | [osulive](https://twitch.tv/osulive) |
+| Colombia ::{ flag=CO }:: | ::{ flag=PL }:: Poland | [Mar 30 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T180000&p1=1440&p2=41&p3=262) | [osulive](https://twitch.tv/osulive) |
+| Brazil ::{ flag=BR }:: | ::{ flag=CA }:: Canada | [Mar 30 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T190000&p1=1440&p2=45&p3=188) | [osulive](https://twitch.tv/osulive) |
+| Quarterfinals | mappool showcase | [Mar 30 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T193000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (68 MB)](https://packs.ppy.sh/P279%20-%20osu!taiko%20World%20Cup%202025%3A%20Round%20of%2016.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2413482477?t=0h16m21s)
+
+- No Mod
+  1. [Slax - Body to the Drum (ler1211, Waribashi) \[Taiko to the Beat\]](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)
+  2. [nagiha - VALDeS (Nwolf) \[Donkey Kong\]](https://osu.ppy.sh/beatmapsets/2343727#taiko/5038204)
+  3. [96-glass - Scooter Braza (paz08) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1732086#taiko/4489836)
+  4. [Eliminate - Elevator (Sped Up Ver.) (Nifty) \[Freefall\]](https://osu.ppy.sh/beatmapsets/2010161#taiko/4182581)
+  5. [FRASER EDWARDS - The Heist (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2343737#taiko/5038222)
+- Hidden
+  1. [xaev - the life of an aspiring script kiddie (HiroK) \[eae\]](https://osu.ppy.sh/beatmapsets/2343735#taiko/5038220)
+  2. [haunt - song about love (Jayceko) \[foxeru's inner oni\]](https://osu.ppy.sh/beatmapsets/2203014#taiko/4701577)
+- Hard Rock
+  1. [seatrus - Diossido di Carbonio (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2068608#taiko/4328190)
+  2. [EVO - Kholod (skolodojko) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2155566#taiko/4713800)
+- Double Time
+  1. [MK feat. Myui - Spooky Q (Aiery) \[Spooky Qni \[TWC Ver\]\]](https://osu.ppy.sh/beatmapsets/2285507#taiko/5038245)
+  2. [minimum electric design - miscalc (Ideal) \[A dream with you.\]](https://osu.ppy.sh/beatmapsets/2322699#taiko/4977029)
+- Free Mod
+  1. [Zekk - Trinity Force (Waribashi) \[Biginning (Edit)\]](https://osu.ppy.sh/beatmapsets/2048882#taiko/4277827)
+  2. [reysa - sometimes it's just a little sad to say goodbye (ikin5050) \[hey whats up hello\]](https://osu.ppy.sh/beatmapsets/2343768#taiko/5038285)
+- Tiebreaker
+  1. **[yax03 - 17 yo silly EDM artist from Japan vs. the World (dtn) \[Electronic Dance Music\]](https://osu.ppy.sh/beatmapsets/2249855#taiko/4784566)**
 
 ### Round of 32
 
@@ -176,6 +204,36 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
   1. [t+pazolite - Chartreuse Green (Raphalge) \[Creature Feature featuring The Creature\]](https://osu.ppy.sh/beatmapsets/2336500#taiko/5016026)
 
 ## Match results
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1u4fBx6S7HqQmmZLxm7aIPrgWAKUTYOmHwy_QHBc8UGM?rm=minimal).
+
+Saturday, 22 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/117554905) | [#1](https://www.twitch.tv/videos/2412195327) |
+| **Finland** ::{ flag=FI }:: | **5** | 3 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/117556344) | [#1](https://www.twitch.tv/videos/2412282707) |
+| **Japan** ::{ flag=JP }:: | **5** | -1 | ::{ flag=BG }:: Bulgaria | *[win by default](https://osu.ppy.sh/community/matches/117556886)* |  |
+| **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/117557520) | [#1](https://www.twitch.tv/videos/2412351319) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 3 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/117557518) | [#1](https://www.twitch.tv/videos/2412419831) |
+| Philippines ::{ flag=PH }:: | 1 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/117557909) | [#1](https://www.twitch.tv/videos/2412351319?t=0h34m55s) |
+| **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/117558292) | [#1](https://www.twitch.tv/videos/2412419830) |
+| **Türkiye** ::{ flag=TR }:: | **5** | 0 | ::{ flag=SK }:: Slovakia | [#1](https://osu.ppy.sh/community/matches/117559795) | [#1](https://www.twitch.tv/videos/2412477559) |
+
+Sunday, 23 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/117564477) | [#1](https://www.twitch.tv/videos/2412825582) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/117565463) | [#1](https://www.twitch.tv/videos/2412923251?t=0h5m7s) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/117565830) | [#1](https://www.twitch.tv/videos/2412923251?t=1h5m6s) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/117566261) | [#1](https://www.twitch.tv/videos/2412923251?t=2h5m5s) |
+| **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=CH }:: Switzerland | [#1](https://osu.ppy.sh/community/matches/117568351) | [#1](https://www.twitch.tv/videos/2413156892?t=0h4m55s) |
+| Poland ::{ flag=PL }:: | 2 | **5** | ::{ flag=VN }:: **Vietnam** | [#1](https://osu.ppy.sh/community/matches/117570281) | [#1](https://www.twitch.tv/videos/2413275301?t=0h5m28s) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/117572200) | [#1](https://www.twitch.tv/videos/2413404270?t=0h4m33s) |
+| **United States** ::{ flag=US }:: | **5** | -1 | ::{ flag=PT }:: Portugal | *[win by default](https://osu.ppy.sh/community/matches/117573322)* |  |
 
 ### Qualifiers
 
