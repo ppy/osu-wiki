@@ -25,7 +25,7 @@ If you **ranked a beatmap, guest difficulty, or storyboard in 2024**, you're eli
 
 As always, MCA consists of three stages: **nomination, voting, and results.** Check the schedule below for key dates and deadlines!
 
-- **Nomination:** *Eligible users can submit any beatmaps, storyboards, or users from 2024 they believe deserve recognition.*
+- **Nomination:** *Eligible users can submit any beatmaps, storyboards, or users from 2024 they believe deserve recognition. Nominated beatmaps will be eligible to enter the next stage.*
 - **Voting:** *Eligible users vote on the nominated submissions.*
 - **Results:** *Winners are determined by voting, with a livestream revealing the podium finishers in each category.*
 
