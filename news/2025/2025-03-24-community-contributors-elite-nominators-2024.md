@@ -8,7 +8,7 @@ It's about time we take part in our yearly tradition of recognising our top Beat
 
 ![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/banner.jpg)
 
-If you need a refresher, the [Elite Nominator](/wiki/People/Elite_Nominators) award is an acknowledgement given to [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) members who've went above and beyond the call towards keeping our beloved Ranked section as vital and vibrant as it can be, whether it's via beatmap modding and nomination, quality assurance, or any other remarkable contributions towards the community.
+If you need a refresher, the [Elite Nominator](/wiki/People/Elite_Nominators) award is an acknowledgement given to [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) members who've gone above and beyond the call towards keeping our beloved Ranked section as vital and vibrant as it can be, whether it's via beatmap modding and nomination, quality assurance, or any other remarkable contributions towards the community.
 
 This year, we're introducing a *third* tier to the Elite Nominator award. Yes, you heard that right, a few individuals have demonstrated such a high level of dedication and commitment across a total of 3 years, and we simply couldn't ignore them.
 
@@ -43,7 +43,7 @@ Consistently performing at such a level while managing the NAT workload during t
 
 [Ascended](https://osu.ppy.sh/users/4564285) truly *ascended* through the BN ranks this past year, with an impressive 188 nominations done across many varieties of maps and mappers, all while getting confused with Ascendance (no relation) daily by people who either don't know any better, or otherwise decidedly know better but decide to tease him anyway. Through it all, he accounted for the second most nominations in the mode, as well as having no severe resets throughout the year, maintaining a fairly clean record — which is extremely impressive considering the level of activity he maintained.
 
-Being a great example of how much a BN can contribute while still taking great care to avoid mistakes, Ascendan-... Ascended is truly worthy of the Elite Nominator title. Congratulations!
+Being a great example of how much a BN can contribute while still taking great care to avoid mistakes, Ascendan— Ascended is truly worthy of the Elite Nominator title. Congratulations!
 
 [![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/gorou.jpg)](https://osu.ppy.sh/users/12157130)
 
@@ -59,7 +59,7 @@ Lasse's all-round performance that we simply couldn't ignore has earned him the 
 
 [![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/mattay.jpg)](https://osu.ppy.sh/users/9748303)
 
-Joining the Beatmap Nominators as a new addition in late April, [Mattay](https://osu.ppy.sh/users/9748303) immediately got to work proving that while he may be new to the team, his vast knowledge and keen eye for quality across a wide spectrum of mapping styles and song genres rivals that of many far more experienced BNs.
+Joining the Beatmap Nominators as a new addition in late April, [Mattay](https://osu.ppy.sh/users/9748303) immediately got to work proving that while he may be new to the team, his vast knowledge and keen eye for quality across a wide spectrum of mapping styles and song genres rival that of many far more experienced BNs.
 
 His skill and dedication are reflected in his performance, as across 79 nominations during the year, not a single one of them received a notable reset. Such a perfect record with almost double the nominations of the average BN is already very impressive on its own, but when you also consider that Mattay achieved this as a newcomer in only 2/3 of the year while promoting a great variety of maps, it further highlights his extraordinary ability as a BN and cements his place as an Elite Nominator through and through.
 
@@ -75,19 +75,19 @@ Such contributions cannot be ignored, thus earning him the Elite Nominator title
 
 An immense positive outlier, statistics-wise, [NeKroMan4ik](https://osu.ppy.sh/users/11387664) has earned his Elite Nominator badge by having **no** notable resets out of a whopping 132 unique nominations during the year, with a great degree of variety, as over 85% of these were given to mappers whom he had not nominated before. That means he was in the top echelons of both nomination quality (notable resets per nomination) as well as quantity (total nominations), something that is truly rare in today's system.
 
-Through his commitment to nomination quality, caution, and thoroughness, all while he represented the NAT with all the additional responsibilities that come with that, NeKro's case for the Elite Nominator title is too great to be ignored, earning him a well-deserved badge and title!
+Through his commitment to nomination quality, caution, and thoroughness, all while filling a role in the NAT with all of its additional responsibilities, NeKro's case for the Elite Nominator title is too great to be ignored, earning him a well-deserved badge and title!
 
 ### osu!taiko
 
 [![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/gt.jpg)](https://osu.ppy.sh/users/8301957)
 
-Spawning into the Beatmap Nominators through the experimental Trial BN program in late 2023, [_gt](https://osu.ppy.sh/users/8301957) has shown us nothing short of excellent performance ever since then. While he is well-known as a gimmick and SV mapper, he is also equally proficient on the modding side of things, and his performance over the past year serves as proof of that. With over 160 nominations under his name in 2024, he has consistently maintained a high standard, with only one notable reset. He did this while also promoting a wide variety of map types in his nominations, from simple J-pop songs to complex 9* maps, all without compromising the quality of his mods.
+Spawning into the Beatmap Nominators through the experimental Trial BN program in late 2023, [_gt](https://osu.ppy.sh/users/8301957) has shown us nothing short of excellent performance ever since then. While he is well known as a gimmick and SV mapper, he is also equally proficient on the modding side of things, and his performance over the past year serves as proof of that. With over 160 nominations under his name in 2024, he has consistently maintained a high standard, with only one notable reset. He did this while also promoting a wide variety of map types in his nominations, from simple J-pop songs to complex 9* maps, all without compromising the quality of his mods.
 
 Besides his work as a BN, he continually provides custom maps to tournaments as well as hosting one of his own as well as joining Project Loved as a Loved Captain, all while balancing his high nomination activity. We think his work ethic is truly commendable, and his commitment to the game mode has really shined through — it is only fitting to present him with the title of Elite Nominator for his efforts!
 
 [![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/blackbn.jpg)](https://osu.ppy.sh/users/6291741)
 
-Ever since joining back in July 2021, [BlackBN](https://osu.ppy.sh/users/6291741) has had one of the most exceptional runs in BN history. By showing their dedication, paired with a deep love for the game mode and its community, he nominated an impressive 174 in 2024 maps just in osu!taiko alone — even while still being a core member of the osu!catch Beatmap Nominators! On top of having a remarkably low reset count and stellar modding activity, this performance isn't something neither you or we want to miss out on!
+Ever since joining back in July 2021, [BlackBN](https://osu.ppy.sh/users/6291741) has had one of the most exceptional runs in BN history. By showing their dedication, paired with a deep love for the game mode and its community, he nominated an impressive amount of 174 in 2024 maps just in osu!taiko alone — even while still being a core member of the osu!catch Beatmap Nominators! On top of having a remarkably low reset count and stellar modding activity, this performance isn't something neither you or we want to miss out on!
 
 Besides his commitment to nominating beatmaps, BlackBN has inspired many users to follow his tracks. His time and effort mentoring aspiring nominators has left a lasting impression, leading to several of his mentees to follow suit to become integral parts of both the current and former osu!taiko BN roster.
 
@@ -123,29 +123,31 @@ It is easy to underestimate the amount of work they've poured into the game, and
 
 [gzdongsheng](https://osu.ppy.sh/users/8660315) has proven himself not just once or twice, but three times — a remarkable achievement that highlights his worthiness for this year's Elite title once again.
 
-With an outstanding number of 73 unique nominations, accompanied by numerous complex and challenging charts, it is evident that gzdongsheng has conducted an in-depth analysis on each of his nominations. He has demonstrated a deep understanding of the nuances involved and has been able to suggest improvements to ensure the highest level of quality on many of the maps they've been involved in. He embodies a remarkable enthusiasm for the community, continually dedicating themselves to a wide array of impactful initiatives.
+With an outstanding number of 73 unique nominations, accompanied by numerous complex and challenging charts, it is evident that gzdongsheng has conducted an in-depth analysis on each of his nominations. He has demonstrated a deep understanding of the nuances involved and has been able to suggest improvements to ensure the highest level of quality on many of the maps they've been involved in. He embodies a remarkable enthusiasm for the community, continually dedicating himself to a wide array of impactful initiatives.
 
-gzdongsheng has done an outstanding job this year, continuing their excellent work from the previous two years. Their remarkable achievements stand as a shining example for others to admire and aspire to, making them deserving of this year's Elite title.
+gzdongsheng has done an outstanding job this year, continuing their excellent work from the previous two years. Their remarkable achievements stand as a shining example for others to admire and aspire towards, making them deserving of this year's Elite title.
 
 [![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/maxus.jpg)](https://osu.ppy.sh/users/4335785)
 
 On top of being active in many projects across the mania community, [Maxus](https://osu.ppy.sh/users/4335785) has proven himself to be one of the top nominators for yet another year.
 
-With an astonishing 138 nominations in a year, "Variety" is one of the keywords that best summarise his amazing work during 2024. Not only across different keymodes and playstyles, but also among different mappers and communities, we can see his name in nearly all types of maps imaginable. Of course, quality checks were never missed, as evidenced by only having 2 notable resets in a year. Aside from nominations, it's also worth mentioning his contributions to many different projects in the osu!mania scene, which has had a positive impact on the whole community. Balancing work between community projects and beatmap nominations has never been an easy task after all.
+With an astonishing 138 nominations in a year, "variety" is one of the keywords that best summarise his amazing work during 2024. Not only across different key modes and play styles, but also among different mappers and communities, we can see his name in nearly all types of maps imaginable. Of course, quality checks were never missed, as evidenced by only having 2 notable resets in a year. Aside from nominations, it's also worth mentioning his contributions to many different projects in the osu!mania scene, which has had a positive impact on the whole community. Balancing work between community projects and beatmap nominations has never been an easy task after all.
 
 We have seen a lot of great work from Maxus in 2024, and it's more than enough for him to win the Elite Nominator title once again!
 
 [![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/monoseul.jpg)](https://osu.ppy.sh/users/16010604)
 
-[Monoseul](https://osu.ppy.sh/users/16010604) has consistently excelled as a Beatmap Nominator for 2 years in a row, earning his well-deserved Elite Nominator II title!
-This year, he made an impressive 105 nominations while delivering the top-quality modding we have come to expect from them. He has also played a crucial role in the high-level 4K scene, whether it's through his own nominations or through quality assurance. This feat demands advanced expertise and a great deal of patience — qualities Monoseul clearly excelled at.
-He also hasn't failed to promote variety with his nominations, spanning many different mappers, genres, keymodes, and mapping styles. With two consecutive years of outstanding contributions, Monoseul has firmly established himself as an Elite Beatmap Nominator!
+[Monoseul](https://osu.ppy.sh/users/16010604) has consistently excelled as a Beatmap Nominator for 2 years in a row, earning him his well-deserved Elite Nominator II title!
+
+This year, he made an impressive 105 nominations while delivering the top-quality modding we have come to expect from him. He has also played a crucial role in the high-level 4K scene, whether it's through his own nominations or through quality assurance. This feat demands advanced expertise and a great deal of patience — qualities Monoseul clearly excelled at.
+
+He also hasn't failed to promote variety with his nominations, spanning many different mappers, genres, key modes, and mapping styles. With two consecutive years of outstanding contributions, Monoseul has firmly established himself as an Elite Beatmap Nominator!
 
 [![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/seiran.jpg)](https://osu.ppy.sh/users/14351534)
 
-One of last year's exemplary figures in the mapping and modding community was none other than [Seiran-](https://osu.ppy.sh/users/14351534), well-known for his mapping expertise. The example they've set through his outstanding contribution and nomination efforts within the community was hard for us to ignore!
+One of last year's exemplary figures in the mapping and modding community was none other than [Seiran-](https://osu.ppy.sh/users/14351534), well known for his mapping expertise. The example they've set through his outstanding contribution and nomination efforts within the community was hard for us to ignore!
 
-With 68 nominations and only 3 notable disqualifications, Seiran- has showcased a diverse range of nominations and song variety while maintaining a balance between different types of mappers and mapping styles. As a prominent figure in the community, he has made several key contributions including providing extensive mentorship in areas such as mapping and modding. His mentorship spans both through official and unofficial means, and has guided several individuals who have gone on to become Beatmap Nominators themselves.
+With 68 nominations and only 3 notable disqualifications, Seiran- has showcased a diverse range of nominations and song variety while maintaining a balance between different types of mappers and mapping styles. As a prominent figure in the community, he has made several key contributions that include providing extensive mentorship in areas such as mapping and modding. His mentorship spans both dedicated mentorship programs and other direct tutorage, having guided several individuals to become Beatmap Nominators themselves.
 
 Seiran-'s consistent performance throughout the year has solidified his place among the elite. He serves as a great example of the positive impact one can have, inspiring others and spreading their influence throughout the community.
 
@@ -153,6 +155,6 @@ Seiran-'s consistent performance throughout the year has solidified his place am
 
 As usual, many thanks to the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) as a whole for helping decide the recipients and writing out their descriptions. The astute among you may notice that some recipients are themselves NAT members, but rest assured that all recognitions are team decisions by the other members.
 
-That should be all for now, stay tuned for a *different* kind of contributor news very soon!
+That should be all for now. Stay tuned for more contributor news soon!
 
 —the osu! team
