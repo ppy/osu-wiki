@@ -196,7 +196,7 @@ Since GMT [usergroup page](https://osu.ppy.sh/groups/4) refers to NAT as their s
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-We’d whoop their butts any day of the week. If we were to just put the leaders one up against another, put me against Hivie and I’d KO him without breaking a sweat.
+We’d whoop their butts any day of the week. If we were to just put the leaders one up against another, put me against [Hivie](https://osu.ppy.sh/users/14102976) and I’d KO him without breaking a sweat.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -250,7 +250,7 @@ Are there any specific misconceptions about the GMT's responsibilities or author
 
 Once in a while, you can come across the statements that the Global Moderation Team is responsible for handling account restrictions, silence appeals, or account-related inquiries in general. As a matter of fact though, this belongs to the [account support team](/wiki/People/Account_support_team) set of tasks.
 
-If you are facing any issues with your account, please contact the article above and direct your concerns to one of the outlined inboxes.
+If you are facing any issues with your account, please consult the article above and direct your concerns to one of the outlined inboxes.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
