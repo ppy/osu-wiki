@@ -199,12 +199,6 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ## Match schedule: Finals
 
-### Saturday, 22 March 2025
-
-| Team A | Team B | Match time | Stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Chodan | Retirados y Peligrosos | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=3911&p3=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
-
 ### Sunday, 23 March 2025
 
 | Team A | Team B | Match time | Stream |  |
@@ -213,8 +207,6 @@ The Touhou Project Mania Cup 4th is run by various community members.
 | Gravity Coil | Mahjong Soul Official | [Mar 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T100000&p1=1440&p2=3920&p3=3909&p4=3911&p5=3910) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
 | Girls Band Cry | Chodan | [Mar 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T130000&p1=1440&p2=3910&p3=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
 | Girlfriend ASMR | Chodan | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3922&p3=3920&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
-| Girls Band Cry | Retirados y Peligrosos | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3910&p3=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
-| Girlfriend ASMR | Retirados y Peligrosos | [Mar 23 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T210000&p1=1440&p2=3922&p3=3920&p4=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
 
 ## Mappools
 
@@ -397,6 +389,14 @@ The Touhou Project Mania Cup 4th is run by various community members.
 6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan) \[Stage 6\: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
 
 ## Match results
+
+### Finals
+
+Saturday, 22 March 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Chodan** | **7** | 3 | Retirados y Peligrosos | [#1](https://osu.ppy.sh/community/matches/117557860) | [#1](https://www.youtube.com/watch?v=awt3FwYCL5U&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes) |
 
 ### Semifinals
 
