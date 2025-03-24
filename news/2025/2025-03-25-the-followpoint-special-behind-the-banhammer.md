@@ -58,7 +58,7 @@ Hello, for starters let's do a question about history! In the past GMT were call
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3227533">Kobold84</a></p>
 
-At one point Admins had the same usergroup (https://osu.ppy.sh/groups/4) we have now, but that was from before I even heard of the game. Some curious users could refer to this page (https://web.archive.org/web/20120904074341/https://osu.ppy.sh/wiki/GMT) but this group didn't really have anything to do with the GMT. As for the term itself, "Administrators" must have been used only because of the phpBB default user title for users with the admin control panel.
+At one point Admins had the same usergroup (<https://osu.ppy.sh/groups/4>) we have now, but that was from before I even heard of the game. Some curious users could refer to this page (<https://web.archive.org/web/20120904074341/https://osu.ppy.sh/wiki/GMT>) but this group didn't really have anything to do with the GMT. As for the term itself, "Administrators" must have been used only because of the phpBB default user title for users with the admin control panel.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/avatar-MegaMix.jpg')"></a>
 
@@ -178,7 +178,7 @@ It happens sometimes, a reaction to something sparks a discussion and we then cl
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Are GMTs taking part in updating rules at https://osu.ppy.sh/wiki/en/Rules, for example, can a normal GMT member start a discussion about changing some rule to make it more clear?
+Are GMTs taking part in updating rules on [this wiki page](/wiki/Rules), for example, can a normal GMT member start a discussion about changing some rule to make it more clear?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3227533" style="background-image: url('/wiki/shared/avatars/avatar-Kobold84.jpg')"></a>
 
@@ -202,7 +202,7 @@ We’d whoop their butts any day of the week. If we were to just put the leaders
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Why do some channels listed on [wiki page about GMT](/wiki/en/People/Global_Moderation_Team#grouped-by-languages-moderated) not have any moderators assigned? Is it because said channels aren't very active, or does the team just not have anyone speaking this language?
+Why do some channels listed on [wiki page about GMT](/wiki/People/Global_Moderation_Team#grouped-by-languages-moderated) not have any moderators assigned? Is it because said channels aren't very active, or does the team just not have anyone speaking this language?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/avatar-0x84f.jpg')"></a>
 
