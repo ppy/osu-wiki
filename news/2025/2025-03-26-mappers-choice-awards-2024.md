@@ -20,6 +20,7 @@ For those unfamiliar with the event, the **Mapper's Choice Awards** (*MCA*) is a
 If you **ranked a beatmap, guest difficulty, or storyboard in 2024**, you're eligible to help the community recognise the most outstanding beatmaps of the year!
 
 ### Key Changes for 2024
+
 - The number of voting categories has been **reduced**.
 - [osu!supporter](/wiki/osu!supporter) rewards will now be granted **only** for the **Grand Award** categories.
 
@@ -48,11 +49,11 @@ If you're eligible, head over to the [**Mapper's Choice Awards 2024** website](h
 
 MCA 2024 features exciting rewards for the winners of each category:  
 
-- **osu!supporter**  
-  - Grand Award winners: **4 months**  
-- **Badges**  
-  - Special badges for **Grand Award** category winners.  
-  - Generic badges for **regular category** winners. 
+- **osu!supporter**
+  - Grand Award winners: **4 months**
+- **Badges**
+  - Special badges for **Grand Award** category winners.
+  - Generic badges for **regular category** winners.
 
 ---
 
@@ -60,6 +61,6 @@ MCA 2024 features exciting rewards for the winners of each category:
 
 As we look back on 2024, the countless memories left behind in the community remain fresh in our minds. Now, an even deeper dive into the data and stats behind 2024's mapping trends awaits you in **A Year In Mapping (AYIM) 2024**!
 As always, **A Year in Mapping** serves as the mapping community's annual report, presenting [the most comprehensive and exciting stats of 2024](https://lookerstudio.google.com/u/0/reporting/aa599b20-f74b-4699-9e69-504f542de5aa/page/hj1uB?s=vvKt9IOmetM). Want to know how many ranked maps and mappers each mode had? Or perhaps which songs and artists made the biggest impact on the community this year? It’s all inside AYIM — take a look for yourself!
-Now that you're caught up on all the details, it's time for the most important part — **nominating and voting!** [**Visit the website to get started!**](https://mca.corsace.io/2024/)  
+Now that you're caught up on all the details, it's time for the most important part — **nominating and voting!** [**Visit the website to get started!**](https://mca.corsace.io/2024/)
 
-—Maxus & momoyo  
+—Maxus & momoyo
