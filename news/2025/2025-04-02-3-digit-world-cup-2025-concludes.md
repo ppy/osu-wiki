@@ -30,6 +30,14 @@ summary
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=deEmC2CaYIE" frameborder="0" allowfullscreen></iframe>
 </div>
 
+Germany and the United Kingdom faced off in the losers bracket of the Finals stage for their last chance to guarantee a spot in the top 4. The United Kingdom were until this point making a strong push through the losers bracket after a loss to the Unites States in Quarterfinals, whereas Germany were fresh off a tough loss the previous week to the top seed in South Korea.
+
+Germany started off strong, taking a break point on the United Kingdom's first pick of [NM1](https://osu.ppy.sh/beatmapsets/2332976#osu/5006403), before scoring a dominant win on their own pick of [DT1](https://osu.ppy.sh/beatmapsets/2205966#osu/4670486). Down by two points, the UK fought back with a strong score of 370,362 from ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872) to take a point on [HD2](https://osu.ppy.sh/beatmapsets/2333230#osu/5006948). As both teams settled into the match, they would continue to trade points. Each team found decisive wins on their own picks, with standout performances including ::{ flag=DE }:: [Fleh](https://osu.ppy.sh/users/7780605)'s 828,773 HR choke on [FM1](https://osu.ppy.sh/beatmapsets/1257525#osu/3036752) and ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471)'s 631,174 HR score on [FM4](https://osu.ppy.sh/beatmapsets/1492550#osu/3169730).
+
+Down 4–3, the United Kingdom finally had a chance to get their break point back on [DT2](https://osu.ppy.sh/beatmapsets/1276352#osu/2789103). ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659) and ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) dominated the pick for their own sides with scores of 897,607 and 958,166 respectively, but despite the latter winning the 1v1 standoff, Germany managed an overall slightly better team performance, winning the map by 65,087 points. This would signal a turning point in the match as each pick from here on out would develop into a closely fought battle. After winning [HD1](https://osu.ppy.sh/beatmapsets/1569794#osu/3205628) decisively, the United Kingdom wouldn't miss their second chance at a break point as they stole [HR3](https://osu.ppy.sh/beatmapsets/2062538#osu/4314556) from the hands of Germany by 90,934 points.
+
+With the mappool quickly shrinking down, the United Kingdom hedged their bets on [HR2](https://osu.ppy.sh/beatmapsets/2074570#osu/4342484), where in an incredibly close pick, Germany came back at the very end to secure the map by 29,184 points. Now on match point, Germany opted into the pure aim [HR1](https://osu.ppy.sh/beatmapsets/878167#osu/1836680) for their last pick, and held on by 118,259 points to win the match 7–5 and secure themselves the spot in the top 4.
+
 ### Grand Finals: ::{ flag=US }:: United States vs. ::{ flag=KR }:: South Korea
 
 <div align="center" class="osu-md__paragraph">
@@ -291,4 +299,4 @@ This iteration of the 3 Digit World Cup would not have been possible without the
 
 Thank you to everyone involved from staff, to players, to spectators. See you all again in 2026!
 
-—shdewz, nik, this1neguy
+—shdewz, nik, this1neguy, I-Flame
