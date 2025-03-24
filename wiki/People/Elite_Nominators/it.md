@@ -16,7 +16,7 @@ A partire dal [7 febbraio 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 - Il [titolo utente](/wiki/Community/User_title) "Elite Nominator", che dura per 1 anno fino alla successiva ondata di Elite Nominator o quando l'utente lascia i Beatmap Nominators. Nel caso in cui un utente ottenga nuovamente il titolo per anni consecutivi, il titolo aumenta di 1 ("Elite Nominator II", ecc.).
 - Un [badge del profilo](/wiki/Community/Profile_badge) da Elite Nominator, che è permanente.
-  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Badge da Elite Nominator") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Badge da Elite Nominator II")
+  ![Badge da Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Badge da Elite Nominator") ![Badge da Elite Nominator II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Badge da Elite Nominator II") ![Badge da Elite Nominator III](https://assets.ppy.sh/profile-badges/elite-nominator-3.png "Badge da Elite Nominator III")
 
 ## Lista degli Elite Nominators
 
@@ -129,7 +129,7 @@ A partire dal [7 febbraio 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 *Per vedere la notizia, consulta: [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
 
-| Name | Game mode |
+| Nome | Modalità di Gioco |
 | :-- | :-- |
 | ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) | osu! |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | osu! |
