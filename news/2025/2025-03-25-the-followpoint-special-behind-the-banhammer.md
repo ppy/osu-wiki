@@ -9,7 +9,7 @@ Ever wanted to get some insight into how Global Moderation Team works? Then now 
 
 ![](/wiki/shared/news/2025-03-25-the-followpoint-special-behind-the-banhammer/banner.jpg)
 
-Welcome, strangers and returning readers! Like you've already read in the title and the short intro, this The Followpoint post will be an unusual one, talking about a team inside osu! instead of an individual person. [Global Moderation Team](/wiki/People/Global_Moderation_Team) (usually referred to as GMT) is one of the essential and oldest osu! teams, consisting of community members who mainly focus on player moderation. Its [wiki article](/wiki/People/Global_Moderation_Team) explains things really well, so you should give it a read if you haven't yet!
+Welcome, strangers and returning readers! Like you've already read in the title and the short intro, this post of The Followpoint will be an unusual one, talking about a team inside osu! instead of an individual person. [Global Moderation Team](/wiki/People/Global_Moderation_Team) (usually referred to as GMT) is one of the essential and oldest osu! teams, consisting of community members who mainly focus on player moderation. Its [wiki article](/wiki/People/Global_Moderation_Team) explains things really well, so you should give it a read if you haven't yet!
 
 But just who did we interview for this post, because we are an interview series, right? Well, for today's news post we interviewed **all 3 current leaders** of the Global Moderation Team: [0x84f](https://osu.ppy.sh/users/7944724), [Kobold84](https://osu.ppy.sh/users/3227533) and [Venix](https://osu.ppy.sh/users/5999631)! Though I must warn you, please don't expect this interview to be all serious and reveal every secret or something, we tried to make this interview and questions interesting while also remaining silly a little bit. 🙃
 
@@ -281,7 +281,7 @@ And lastly, what is your favorite GMT out of context quote?
 ---
 
 I'd like to thank all Global Moderation Team members for everything they do for osu! and their efforts to make chats a nicer place! I know that sometimes it doesn't seem like it, but they are really trying their best, so please don't let some bad apples from the past make you think all GMTs are like this, I know some of them myself and they are amazing people. <3
-And of course thank you 0x84f, Kobold84 and Venix for agreeing to this interview and answering my questions, I'm really glad I was given this opportunity to show a wider audience a bit more of what GMT really is!
+And of course thank you 0x84f, Kobold84 and Venix for agreeing to this interview and answering my questions, I'm really glad I was given this opportunity to show a wider audience a bit more of what the GMT really is!
 
 Now I'll say a few words about The Followpoint itself. After our [last interview](https://osu.ppy.sh/home/news/2024-12-05-the-followpoint-hivie-the-man-of-many-things) things slowed down due to a lot of things happening in our lifes, but now as we recover — things should get back to normal. Anyway, I really hope you enjoyed this special interview, and thank you for reading it!
 
