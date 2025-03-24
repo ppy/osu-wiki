@@ -124,3 +124,27 @@
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | osu!mania |
 | ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | osu!mania |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | osu!mania |
+
+### 2024
+
+*关于新闻帖，请参见： [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
+
+| Name | Game mode |
+| :-- | :-- |
+| ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) | osu! |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | osu! |
+| ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) | osu! |
+| ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) | osu! |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
+| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | osu! |
+| ::{ flag=SK }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | osu! |
+| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | osu!taiko |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko |
+| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | osu!taiko |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | osu!catch |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | osu!mania |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | osu!mania |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | osu!mania |

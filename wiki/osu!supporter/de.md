@@ -4,8 +4,6 @@ tags:
   - supporter tag
   - osu!supporter tag
   - Unterstützung
-outdated_since: 53463c9d5a611e5d8b38f68b00f48b7983225576
-outdated_translation: true
 ---
 
 # osu!supporter
@@ -99,6 +97,7 @@ osu! bietet eine Lockerung der Grenzwerte für verschiedene Online-Features für
 | Wert | Normales Limit | osu!supporter-Limit |
 | :-- | :-: | :-: |
 | [Ausstehende Beatmaps](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(gerankte Beatmaps, 4)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
+| Teamgröße | 8 | `8 + 4 * Teammitglieder mit osu!supporter`, bis maximal **256** |
 | Online-Beatmap-Favoriten | 100 | 1000 |
 | Anzahl der Freunde | 500 | 1000 |
 
