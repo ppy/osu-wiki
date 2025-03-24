@@ -114,6 +114,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 | Italy ::{ flag=IT }:: | ::{ flag=HK }:: Hong Kong | [Mar 29 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T110000&p1=1440&p2=215&p3=102) | [osulive](https://twitch.tv/osulive) |
 | China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Mar 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T120000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) |
 | United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Mar 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T180000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=RU }:: Russian Federation | [Mar 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T180000&p1=1440&p2=232&p3=166) | [osulive_2](https://twitch.tv/osulive_2) |
 | Peru ::{ flag=PE }:: | ::{ flag=SK }:: Slovakia | [Mar 29 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T190000&p1=1440&p2=131) | [osulive](https://twitch.tv/osulive) |
 | Switzerland ::{ flag=CH }:: | ::{ flag=MX }:: Mexico | [Mar 29 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T200000&p1=1440&p2=270&p3=155) | [osulive](https://twitch.tv/osulive) |
 
@@ -126,20 +127,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 | Taiwan ::{ flag=TW }:: | ::{ flag=TR }:: Türkiye | [Mar 30 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T100000&p1=1440&p2=241) | [osulive](https://twitch.tv/osulive) |
 | Japan ::{ flag=JP }:: | ::{ flag=NL }:: Netherlands | [Mar 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T110000&p1=1440&p2=248&p3=16) | [osulive](https://twitch.tv/osulive) |
 | Portugal ::{ flag=PT }:: | ::{ flag=FR }:: France | [Mar 30 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T130000&p1=1440&p2=133&p3=195) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=RU }:: Russian Federation | [Mar 30 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T170000&p1=1440&p2=232&p3=166) | [osulive](https://twitch.tv/osulive) |
 | Colombia ::{ flag=CO }:: | ::{ flag=PL }:: Poland | [Mar 30 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T180000&p1=1440&p2=41&p3=262) | [osulive](https://twitch.tv/osulive) |
 | Brazil ::{ flag=BR }:: | ::{ flag=CA }:: Canada | [Mar 30 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T190000&p1=1440&p2=45&p3=188) | [osulive](https://twitch.tv/osulive) |
-| Quarterfinals | mappool showcase | [Mar 30 (Sun) 19:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T193000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| Quarterfinals | mappool showcase | [Mar 30 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T193000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
 ### Round of 16
 
-**[Download the mappack here (68 MB, *temporary link*)](https://leoflt.com/s/twc2025-ro16-mappack)**\
+**[Download the mappack here (68 MB)](https://packs.ppy.sh/P279%20-%20osu!taiko%20World%20Cup%202025%3A%20Round%20of%2016.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2413482477?t=0h16m21s)
 
 - No Mod
-  1. [Slax - Body to the Drum (ler1211, Waribashi) \[Taiko to the Beat\] *(temporary link)*](https://leoflt.com/s/8xO79)
+  1. [Slax - Body to the Drum (ler1211, Waribashi) \[Taiko to the Beat\]](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)
   2. [nagiha - VALDeS (Nwolf) \[Donkey Kong\]](https://osu.ppy.sh/beatmapsets/2343727#taiko/5038204)
   3. [96-glass - Scooter Braza (paz08) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1732086#taiko/4489836)
   4. [Eliminate - Elevator (Sped Up Ver.) (Nifty) \[Freefall\]](https://osu.ppy.sh/beatmapsets/2010161#taiko/4182581)
@@ -154,8 +154,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
   1. [MK feat. Myui - Spooky Q (Aiery) \[Spooky Qni \[TWC Ver\]\]](https://osu.ppy.sh/beatmapsets/2285507#taiko/5038245)
   2. [minimum electric design - miscalc (Ideal) \[A dream with you.\]](https://osu.ppy.sh/beatmapsets/2322699#taiko/4977029)
 - Free Mod
-  1. [Zekk - Trinity Force (Waribashi) \[Biginning (Edit)\] *(temporary link)*](https://leoflt.com/s/YGINA)
-  2. [reysa - sometimes it's just a little sad to say goodbye (ikin5050) \[hey whats up hello\] *(temporary link)*](https://leoflt.com/s/ZI37m)
+  1. [Zekk - Trinity Force (Waribashi) \[Biginning (Edit)\]](https://osu.ppy.sh/beatmapsets/2048882#taiko/4277827)
+  2. [reysa - sometimes it's just a little sad to say goodbye (ikin5050) \[hey whats up hello\]](https://osu.ppy.sh/beatmapsets/2343768#taiko/5038285)
 - Tiebreaker
   1. **[yax03 - 17 yo silly EDM artist from Japan vs. the World (dtn) \[Electronic Dance Music\]](https://osu.ppy.sh/beatmapsets/2249855#taiko/4784566)**
 
@@ -206,6 +206,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 ## Match results
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1u4fBx6S7HqQmmZLxm7aIPrgWAKUTYOmHwy_QHBc8UGM?rm=minimal).
 
 Saturday, 22 March 2025:
 
