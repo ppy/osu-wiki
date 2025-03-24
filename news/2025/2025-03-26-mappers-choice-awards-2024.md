@@ -4,8 +4,7 @@ title: Mapper's Choice Awards 2024
 date: 2025-03-26 01:30:00 +0000
 ---
 
-
-It's time to step up, vote, and crown last year's best ranked beatmaps in the **Mapper's Choice Awards (MCA)!** *This is your chance to decide who takes the top spot — don’t miss out!*
+It's time to step up, vote, and crown last year's best ranked beatmaps in the **Mapper's Choice Awards (MCA)!** *This is your chance to vote for the community's stars of 2024—don’t miss out!*
 
 ![](link for banner)
 
@@ -17,7 +16,7 @@ For those unfamiliar with the event, the **Mapper's Choice Awards** (*MCA*) is a
 
 ## Mapper’s Choice Awards 2024
 
-If you **ranked a beatmap, guest difficulty, or storyboard in 2024**, you're eligible to help the community recognise the most outstanding beatmaps of the year!
+If you **ranked a beatmap, guest difficulty, or storyboard in 2024**, you're eligible to help the community recognise the most outstanding beatmaps and users of the year!
 
 ### Key Changes for 2024
 
