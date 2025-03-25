@@ -4,7 +4,7 @@ This article lists places on [Reddit](https://reddit.com) where users are able t
 
 ## Community
 
-These subreddits are driven by the community, each with their own focus on different topics surrounding gameplay aspects, mapping, and skinning.
+These subreddits are driven by the community, each with their own focus on different topics like gameplay aspects, mapping, and skinning.
 
 | Avatar | Name | Description |
 | :-: | :-: | :-- |
