@@ -48,6 +48,8 @@ From that point on, the teams fought back and forth, neither giving an inch with
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=w-uiBSqM0s0" frameborder="0" allowfullscreen></iframe>
 </div>
 
+pending recap
+
 ### Finals: ::{ flag=DE }:: Germany vs. ::{ flag=GB }:: United Kingdom
 
 <div align="center" class="osu-md__paragraph">
@@ -61,6 +63,24 @@ Germany started off strong, taking a break point on the United Kingdom's first p
 Down 4–3, the United Kingdom finally had a chance to get their break point back on [DT2](https://osu.ppy.sh/beatmapsets/1276352#osu/2789103). ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659) and ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) dominated the pick for their own sides with scores of 897,607 and 958,166 respectively, but despite the latter winning the 1v1 standoff, Germany managed an overall slightly better team performance, winning the map by 65,087 points. This would signal a turning point in the match as each pick from here on out would develop into a closely fought battle. After winning [HD1](https://osu.ppy.sh/beatmapsets/1569794#osu/3205628) decisively, the United Kingdom wouldn't miss their second chance at a break point as they stole [HR3](https://osu.ppy.sh/beatmapsets/2062538#osu/4314556) from the hands of Germany by 90,934 points.
 
 With the mappool quickly shrinking down, the United Kingdom hedged their bets on [HR2](https://osu.ppy.sh/beatmapsets/2074570#osu/4342484), where in an incredibly close pick, Germany came back at the very end to secure the map by 29,184 points. Now on match point, Germany opted into the pure aim [HR1](https://osu.ppy.sh/beatmapsets/878167#osu/1836680) for their last pick, and held on by 118,259 points to win the match 7–5 and secure themselves the spot in the top 4.
+
+### Finals: ::{ flag=PL }:: Poland vs. ::{ flag=PH }:: Philippines
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=b7gfbGQUtNc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+With the podium looming over the remaining teams, it seemed like all of them were out for blood. With the United Kingdom's shocking exit the day before, a lot of questions were being asked about the match between Poland and the Philippines, and whether it would amount to the same level.
+
+And they would not disappoint. Poland would be down two players for the match, giving the Philippines a massive opportunity to contest on picks that a full Polish roster may have handily taken home. Despite the disadvantage, Poland opened the match strong, led by a 750,508 score from ::{ flag=PL }:: [Tartis](https://osu.ppy.sh/users/9513980) on [DT2](https://osu.ppy.sh/beatmapsets/1276352#osu/2789103) to put themselves on the board 1–0. Both teams would then keep capitalising on their strengths, until the Philippines would slip up at 3–2 on their [NM4](https://osu.ppy.sh/beatmapsets/2333309#osu/5007132) pick, where a gigantic score of 618,379 from ::{ flag=PL }:: [Kosiarek](https://osu.ppy.sh/users/9086565) singlehandedly ensured the break point for Poland.
+
+Looking to carry through with the sudden burst in momentum and to consolidate the break point, Poland would choose [FM3](https://osu.ppy.sh/beatmapsets/1884924#osu/3880952) as the next battleground. With an overall better team performance to secure the point, Poland was now in a commanding 5–2 lead and the match was starting to look bleak for the Philippines. Not distraught by the deficit, the Philippines would opt for what worked before, trying their luck on [HR2](https://osu.ppy.sh/beatmapsets/2074570#osu/4342484). Both teams started brilliantly, and the closely fought battle would keep going as neither side was ready to give an inch, until finally a full reset from Poland allowed the uncontested combos from ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703) and ::{ flag=PH }:: [Icarussy](https://osu.ppy.sh/users/19526828) to secure the pick for the Philippines.
+
+Not wanting to be outdone, Poland would return to tapping with a win on [FM1](https://osu.ppy.sh/beatmapsets/1257525#osu/3036752), putting themselves at match point with four chances to close out the match. Now cornered and with Poland breathing down their neck, the Philippines pick [DT1](https://osu.ppy.sh/beatmapsets/2205966#osu/4670486) as their first gambit. With a full combo from ::{ flag=PH }:: [LordGabriel](https://osu.ppy.sh/users/9227895) and nearly another from ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995), they would take the point with an enormous score lead of over 1 million.
+
+With one pick remaining for each team, Poland, now eager to end it on their own, would keep the tapping train running with [NM2](https://osu.ppy.sh/beatmaps/1617731). The pick went on as close as it could have, with all six players holding over a thousand combo halfway through, until a double break from the Philippines gave Poland a huge opportunity to run away with the match. But the door would not stay open for long, with a full reset from Poland now putting the fate in the hands of ::{ flag=PH }:: [LordGabriel](https://osu.ppy.sh/users/9227895)'s full combo. But as with everything in this pick, the advantage would be short lived, resulting in neither team having the edge with no combos on the board. The Philippines would eventually hold the slightest lead for the rest of the map, surviving by a mere 11,473 points by the end.
+
+Now heading into the last pick of the match, the Philippines had only one map in mind. The precision-testing [HR3](https://osu.ppy.sh/beatmapsets/2062538#osu/4314556) was the obvious choice after winning the other Hard Rock picks previously. After some back and forth following a strong start from both teams, it looked like Poland was able to stabilise themselves. But as the map was ramping down, the misses began raining from the sky for Poland, and by the skin of their teeth, by 3,370 points, the Philippines bring the match to tiebreaker. After taking a break during HR3, ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703) would enter back into the lobby and show everyone what the Philippines are made of with a gigantic 1,511 combo, leading the team to victory with a final score of 592,094, finishing off the comeback of the tournament.
 
 ## osu! originals
 
