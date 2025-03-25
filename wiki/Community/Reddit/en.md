@@ -9,8 +9,8 @@ These subreddits are driven by the community, each with their own focus on diffe
 | Avatar | Name | Description |
 | :-: | :-: | :-- |
 | ![osugame avatar](img/osugame.png) | [/r/osugame](https://reddit.com/r/osugame) | **/r/osugame** is currently the largest multi-mode forum open for general discussions and score showcases. |
-| *None* | [/r/osumania](https://reddit.com/r/osumania) | **/r/osumania** offers a safe space specifically intended for the [osu!mania](/wiki/Game_mode/osu!mania) game mode. |
-| *None* | [/r/osumapping](https://reddit.com/r/osumapping) | **/r/osumapping** serves as a platform all around mapping. |
+|  | [/r/osumania](https://reddit.com/r/osumania) | **/r/osumania** offers a safe space specifically intended for the [osu!mania](/wiki/Game_mode/osu!mania) game mode. |
+|  | [/r/osumapping](https://reddit.com/r/osumapping) | **/r/osumapping** serves as a platform all around mapping. |
 | ![osuskins avatar](img/osuskins.png) | [/r/osuskins](https://reddit.com/r/osuskins) | **/r/osuskins** allows users to ask for general skinning support, exchange design choices as well as request help for finding specific skins. |
 
 ## Personal
