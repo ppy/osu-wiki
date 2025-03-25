@@ -46,7 +46,7 @@ If you're eligible, head over to the [**Mapper's Choice Awards 2024** website](h
 
 ### Rewards
 
-MCA 2024 features exciting rewards for the winners of each category:  
+MCA 2024 features exciting rewards for the winners of each category:
 
 - **osu!supporter**
   - Grand Award winners: **4 months**
