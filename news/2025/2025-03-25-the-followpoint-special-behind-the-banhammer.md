@@ -84,13 +84,13 @@ What are the key differences between a regular GMT member and a leader of the te
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-When it comes to day-to-day things, leaders aren’t dissimilar from other members of the team, however we have additional tasks and duties to perform.
+When it comes to day-to-day things, leaders aren't dissimilar from other members of the team, however we have additional tasks and duties to perform.
 
-We not only perform moderation tasks ourselves, but also work to facilitate and moderate internal discussions on various matters, whether it’d be ideas on improving the team, a current process, or a contentious matter within the community.
+We not only perform moderation tasks ourselves, but also work to facilitate and moderate internal discussions on various matters, whether it'd be ideas on improving the team, a current process, or a contentious matter within the community.
 
 We make ourselves available to every member for any issue that they might have, and are ready to talk to them and make sure their voices are heard.
 
-There’s a little bit of "admin work" involved as well, mostly relating to the intake and departure of team members, making sure that people aren’t completely inactive, but that’s small compared to everything else.
+There's a little bit of "admin work" involved as well, mostly relating to the intake and departure of team members, making sure that people aren't completely inactive, but that's small compared to everything else.
 
 At the end of day, regardless if a member is a leader or not, we are all just trying to make sure the game is safe for everyone, actively host and participate in community projects and events, and deeply care for this game and its community. The leaders are just there to make sure everything is running smoothly in every way possible.
 
@@ -142,13 +142,13 @@ While many players are aware of the weekly osu!dev catch-up meetings on the offi
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-As of this year we have quarterly GMT meetings, and there’s a couple of things we have to solidify before even scheduling a meeting.
+As of this year we have quarterly GMT meetings, and there's a couple of things we have to solidify before even scheduling a meeting.
 
 A month or so before the meeting, the leaders along with team members create an agenda where the team collectively decides which topics we need to discuss. The agenda remains open and editable up until the meeting itself.
 
-A few weeks before the meeting we establish a date and time that fits the most people, since there’s around 70 members in different timezones, and when the time comes, we go through all of the topics, take meeting notes, and either conclude discussions, or figure out next steps.
+A few weeks before the meeting we establish a date and time that fits the most people, since there's around 70 members in different timezones, and when the time comes, we go through all of the topics, take meeting notes, and either conclude discussions, or figure out next steps.
 
-The GMT leaders will then work on the next steps, and make sure everything’s followed up on.
+The GMT leaders will then work on the next steps, and make sure everything's followed up on.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -196,7 +196,7 @@ Since the GMT [user group page](https://osu.ppy.sh/groups/4) refers to the NAT a
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-We’d whoop their butts any day of the week. If we were to just put the leaders one up against another, put me against [Hivie](https://osu.ppy.sh/users/14102976) and I’d KO him without breaking a sweat.
+We'd whoop their butts any day of the week. If we were to just put the leaders one up against another, put me against [Hivie](https://osu.ppy.sh/users/14102976) and I'd KO him without breaking a sweat.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -208,7 +208,7 @@ Why do some channels listed on [wiki page about GMT](/wiki/People/Global_Moderat
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-It can be either of those two, or both. I’d say the more common scenario we have is that we have members that speak the language, but the chat just isn’t active. There are some exceedingly rare cases where some channels need moderation without active moderators, but we are actively working on closing those gaps.
+It can be either of those two, or both. I'd say the more common scenario we have is that we have members that speak the language, but the chat just isn't active. There are some exceedingly rare cases where some channels need moderation without active moderators, but we are actively working on closing those gaps.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
