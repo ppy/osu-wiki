@@ -117,7 +117,7 @@ outdated_translation: true
 | 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: 香港 | ::{ flag=CN }:: 中国 | ::{ flag=ID }:: 印度尼西亚 |
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
 | 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=BR }:: 巴西 |
-| [3 Digit World Cup 2025](3WC/2025) | 2024-12-28 | 2025-03-16 | *TBD* | *TBD* | *TBD* |
+| [3 Digit World Cup 2025](3WC/2025) | 2024-12-28 | 2025-03-16 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 |
 
 #### Aetherian's Summer Singles
 
