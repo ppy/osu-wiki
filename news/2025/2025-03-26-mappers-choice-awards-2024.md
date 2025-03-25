@@ -6,7 +6,7 @@ date: 2025-03-26 01:30:00 +0000
 
 It's time to step up, vote, and crown last year's best ranked beatmaps in the **Mapper's Choice Awards (MCA)!** *This is your chance to vote for the community's stars of 2024—don’t miss out!*
 
-![](link for banner)
+![](/wiki/shared/news/2025-03-26-mappers-choice-awards-2024/banner.jpg)
 
 For those unfamiliar with the event, the **Mapper's Choice Awards** (*MCA*) is a **community-hosted competition** where mappers nominate and vote for the best maps and mappers across various categories, celebrating mapping excellence in all its forms.
 
