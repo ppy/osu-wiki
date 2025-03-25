@@ -12,12 +12,12 @@ Skinning ist eine der Hauptfunktionen von osu! und ermöglicht Spielern den Stan
 
 Die Liste der Skinelemente ist in diese Kategorien aufgeteilt:
 
-- [Interface-Skinning](/wiki/Skinning/Interface)
+- [Audio-Skinning](/wiki/Skinning/Sounds)
+- [Skinning der Benutzeroberfläche](/wiki/Skinning/Interface)
 - [osu!-Skinning](/wiki/Skinning/osu!)
 - [osu!taiko-Skinning](/wiki/Skinning/osu!taiko)
 - [osu!catch-Skinning](/wiki/Skinning/osu!catch)
 - [osu!mania-Skinning](/wiki/Skinning/osu!mania)
-- [Sounds-Skinning](/wiki/Skinning/Sounds)
 
 ## Siehe auch
 
