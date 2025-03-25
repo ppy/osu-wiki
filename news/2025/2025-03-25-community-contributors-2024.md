@@ -14,7 +14,9 @@ Let's get started!
 
 [![](/wiki/shared/news/2025-03-25-community-contributors-2024/0x84f.jpg)](https://osu.ppy.sh/users/7944724)
 
-May be *news* to you, but certainly not to them! Without [0x84f](https://osu.ppy.sh/users/7944724), the news section we know today would probably not be as packed full of awesome articles as we currently have. A commodity so ubiquitous yet so demanding given the massive time investment and effort it requires. If that was not enough, 0x84f's contributions to the game span well beyond news alone! Their efforts as part of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) have not gone unnoticed, currently leading the team alongside their peers. Suffice to say, despite their relatively short tenure, they have added considerable value to the game. And worry not, for they have no plans to retire any time soon~!
+May be *news* to you, but certainly not to them! Without [0x84f](https://osu.ppy.sh/users/7944724), the news section we know today would probably not be as packed full of awesome articles as we currently have. A commodity so ubiquitous yet so demanding given the massive time investment and effort it requires.
+
+If that was not enough, 0x84f's contributions to the game span well beyond news alone! Their efforts as part of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) have not gone unnoticed, currently leading the team alongside their peers. Suffice to say, despite their relatively short tenure, they have added considerable value to the game. And worry not, for they have no plans to retire any time soon~!
 
 [![](/wiki/shared/news/2025-03-25-community-contributors-2024/Sakura006.jpg)](https://osu.ppy.sh/users/10365024)
 
@@ -24,13 +26,17 @@ Together with a whole team of designers, illustrators, VFX artists and storyboar
 
 [![](/wiki/shared/news/2025-03-25-community-contributors-2024/Ascendance.jpg)](https://osu.ppy.sh/users/2931883)
 
-Ever since the days of old in 2016, Lord [Ascendance](https://osu.ppy.sh/users/2931883) of House Yoshi has been growing and expanding his reach all throughout the osu!catch modding and mapping scene. He inevitably grew into an absolute behemoth in the lands of osu!catch, becoming a name that is synonymous with the game mode. On the community side, he took the reins of various projects. He is responsible for the creation of the [osu!catch Modding & Mapping Hub](https://discord.com/invite/ZuxFc4q), leading the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), as well as hosting the [osu!catch Mapping World Cup](https://osu.ppy.sh/community/forums/topics/1596151?n=1) for 3 widely successful iterations. Finally, to round it all off, he won nearly every mapping related award from 2017–19, serving as an inspirational figure for nearly everyone in the catch mapping scene.
+Ever since the days of old in 2016, Lord [Ascendance](https://osu.ppy.sh/users/2931883) of House Yoshi has been growing and expanding his reach all throughout the osu!catch modding and mapping scene. He inevitably grew into an absolute behemoth in the lands of osu!catch, becoming a name that is synonymous with the game mode.
+
+On the community side, he took the reins of various projects. He is responsible for the creation of the [osu!catch Modding & Mapping Hub](https://discord.com/invite/ZuxFc4q), leading the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), as well as hosting the [osu!catch Mapping World Cup](https://osu.ppy.sh/community/forums/topics/1596151?n=1) for 3 widely successful iterations. Finally, to round it all off, he won nearly every mapping related award from 2017–19, serving as an inspirational figure for nearly everyone in the catch mapping scene.
 
 Ascendance is a figure that is to be respected, with a set of skills to strive for. If you have been around the catch community, his contributions are ones that can absolutely not be ignored. Even to this day, some years past his peak activity, he is still hailed as one of the greats of his mode.
 
 [![](/wiki/shared/news/2025-03-25-community-contributors-2024/Greaper.jpg)](https://osu.ppy.sh/users/2369776)
 
-Many men, from peasant to lord, tell the tale of [Greaper](https://osu.ppy.sh/users/2369776). They say he's one of the greatest smithies this side of the Four Kingdoms. Greaper solves problems. When his men shudder at the thought of entering battle unarmed, he crafts them the finest blades. His most notable pieces to date are the [osu! Nomination Planner](https://bnplanner.greaper.net/), allowing osu!catch Nominators to better organise which maps they're going to push up to the Ranked section, and the [osu!catch Mapset Verifier plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch), adding support for integral osu!catch-specific issues to be caught in the program. He's done all this while consistently holding his position as [NAT](/wiki/People/Nomination_Assessment_Team) member for five years and counting. This tale is not over yet, and who's to say what armaments he may create to push his people to the upper echelon of society.
+Many men, from peasant to lord, tell the tale of [Greaper](https://osu.ppy.sh/users/2369776). They say he's one of the greatest smithies this side of the Four Kingdoms. Greaper solves problems. When his men shudder at the thought of entering battle unarmed, he crafts them the finest blades.
+
+His most notable pieces to date are the [osu! Nomination Planner](https://bnplanner.greaper.net/), allowing osu!catch Nominators to better organise which maps they're going to push up to the Ranked section, and the [osu!catch Mapset Verifier plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch), adding support for integral osu!catch-specific issues to be caught in the program. He's done all this while consistently holding his position as [NAT](/wiki/People/Nomination_Assessment_Team) member for five years and counting. This tale is not over yet, and who's to say what armaments he may create to push his people to the upper echelon of society.
 
 [![](/wiki/shared/news/2025-03-25-community-contributors-2024/Maxus.jpg)](https://osu.ppy.sh/users/4335785)
 
