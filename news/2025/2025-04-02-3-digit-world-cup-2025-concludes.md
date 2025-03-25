@@ -62,6 +62,10 @@ Down 4–3, the United Kingdom finally had a chance to get their break point bac
 
 With the mappool quickly shrinking down, the United Kingdom hedged their bets on [HR2](https://osu.ppy.sh/beatmapsets/2074570#osu/4342484), where in an incredibly close pick, Germany came back at the very end to secure the map by 29,184 points. Now on match point, Germany opted into the pure aim [HR1](https://osu.ppy.sh/beatmapsets/878167#osu/1836680) for their last pick, and held on by 118,259 points to win the match 7–5 and secure themselves the spot in the top 4.
 
+## osu! originals
+
+pending
+
 ## Interviews
 
 <style>
@@ -99,7 +103,7 @@ With the mappool quickly shrinking down, the United Kingdom hedged their bets on
 
 ![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/interview-ethantrix.png)
 
-[EthantrixV3](https://osu.ppy.sh/users/10634348) (a.k.a. EthantrixV2) was a member of second place team United States.
+[EthantrixV3](https://osu.ppy.sh/users/10634348) (a.k.a. EthantrixV2) has been on the rise for the past year or so, joining the United States in this year's 3WC for a second place finish.
 
 <div class="news-chat-quote__text-container">
 
@@ -131,7 +135,7 @@ Despite falling short of the 4WC team last year, you earned a spot in 3WC and ma
 
 Every time I got benched from a roster last year I used it as fuel to improve — not even for my own sake; I just wanted to make anybody who thought I wasn't good enough to be put on the team look like a fool. My good old friend, buddy washingtonian pal [conradmittn](https://osu.ppy.sh/users/8208289) said once that the USA hatefarmed me into becoming a threat after being put on the back burner for 4WC, EZWC, and OWC in 2024. Without those rejections, I think I'd be far from the player I am now.
 
-And Listen... I ain't mean to toot my own horn... But just between you and me and everyone in the world reading this: I shoulda been on in 4WC... AND EZWC... AAAAAAAAAAAND OWC!
+And listen... I ain't mean to toot my own horn... But just between you and me and everyone in the world reading this: I shoulda been on in 4WC... AND EZWC... AAAAAAAAAAAND OWC!
 
 You'll never see me on the bench again... GET USED TO IT!!!
 
@@ -177,7 +181,13 @@ Do you have any tips or words of encouragement to other up-and-coming tournament
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10634348">EthantrixV3</a></p>
 
-pending answer
+I think 1v1 tournaments (or other formats that force you to constantly be in) are AWESOME for pushing tournament improvement, even if you don't make it far. I love team tournaments, but being forced to swap skillsets on a dime, and being responsible for your own scores is something I don't get to experience with a team. I also found that practicing and being responsible for your picking strategy also builds tournament sense fast. Knowing when to pick maps, what scores you can get, when to lock in on certain patterns, etc.
+
+Controlling tournament nerves is something you can only grow by just playing more tournaments. I found thinking about outperforming my opponent in the map was something that only added to my nerves, however. I tell myself in map once in a while if I catch my mind wandering to only focus on my own game and putting up points, rather than doing better than the opponent.
+
+Sometimes I see people who show interest in tournaments but don't play them for some reason. Maybe they think they can't compete with the deranker boogeymen, or they won't join a tournament until they're good enough at some skillset. I think these sorts of reasons focus more on solely winning a tournament rather than for the experience and growth that comes from failing tournaments. If you're at all interested in tournaments I say: MAKE THE JUMP AT LEAST ONCE!!!
+
+Also be nice to poolers (and all tournament staff), they do good work!
 
 </div>
 
