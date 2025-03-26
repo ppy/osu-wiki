@@ -125,7 +125,7 @@ The 4 Digit World Cup 2025 is run by various community members.
   - Should a team have too many players in the lobby, the scores from their 4 worst-performing players will be counted.
 - For Free Mod picks, at least **3 players per team will have to choose a mod**. Mods allowed are Hidden (HD), Hard Rock (HR) and Easy (EZ).
   - Teams must have at least **one player with HR** and **one player with HD or EZ**. Mod combinations are accepted; however, HDHR counts as HR for this mod requirement.
-  - Scores with EZ will be multiplied by 1.75 for a maximum score of 875,000.
+  - Scores with EZ will have a different multiplier on every Free Mod pick. These multipliers will be specified on the mappool spreadsheet.
 - Players are allowed to, but not required to, use mods on the tiebreaker.
 - The winner of a map is determined by whichever team's four scores add up to a higher number.
 - Using No Fail is enforced on every map.
