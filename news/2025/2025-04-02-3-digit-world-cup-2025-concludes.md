@@ -327,7 +327,7 @@ cool STATS
 
 ---
 
-This iteration of the 3 Digit World Cup would not have been possible without the contributions of 76 individuals and the 147 players who joined in.
+This iteration of the 3 Digit World Cup would not have been possible without the contributions of 79 individuals and the 147 players who joined in.
 
 ![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/credits.png)
 
