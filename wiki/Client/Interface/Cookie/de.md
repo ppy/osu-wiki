@@ -1,6 +1,7 @@
 ---
 stub: true
-outdated: true
+outdated_translation: true
+outdated_since: b5863d59e55e03a31810a8ea71c83b3849b8c4d4
 tags:
   - logo
 ---
