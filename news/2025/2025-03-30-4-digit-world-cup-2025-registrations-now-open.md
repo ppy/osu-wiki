@@ -12,6 +12,8 @@ The **4 Digit World Cup** (pending forum link), or 4WC for short, has been the l
 
 [Last year](https://osu.ppy.sh/home/news/2024-06-24-4-digit-world-cup-2024-concludes) broke records again with 58 teams competing for the crown. The reigning champions ::{ flag=US }:: United States proved their worth with a conclusive 7–3 win against returning finalist ::{ flag=CA }:: Canada, claiming the first back-to-back titles in 4WC history. The old guard of ::{ flag=CN }:: China rounded out the podium at 3rd place, bringing them back to the top after a 7–8th finish in the previous year.
 
+To spice up the competition, we're shifting the difficulty of the mappools down a gear this time in order to make the tournament more accessible for a wider range of players.
+
 ## Tournament schedule
 
 | Event | Dates |
