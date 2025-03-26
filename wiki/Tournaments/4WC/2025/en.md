@@ -87,7 +87,7 @@ The 4 Digit World Cup 2025 is run by various community members.
 
 ### Registration
 
-- All participants must register for the tournament by connecting their osu! and Discord accounts via the [**registration form**](LINK).
+- All participants must register for the tournament by connecting their osu! and Discord accounts via the [**registration page**](https://osu.ppy.sh/oauth/authorize?client_id=21966&redirect_uri=https://script.google.com/macros/s/AKfycbyvyWQC-FzgG_ijZFCpDrdWqdtvwPC3OoccYTI4jZHPml5Gtc6QpH5ZJn9tnRbFnTDgDA/exec&response_type=code&scope=identify&state=%7B%22step%22%3A%22osu%22%7D).
 - The captain for each country will be **selected by the tournament organisers** at the end of registrations.
 - After registrations close, each captain will be sent the list of eligible players for their country. The player lists sent to captains are final and contain all eligible signups.
 - If a country has more than 8 eligible players, they are **recommended to organise tryouts**. If a team has 8 or fewer signups their team will be locked as is. They are, however, free to change their captain or remove a player within the team submission phase.

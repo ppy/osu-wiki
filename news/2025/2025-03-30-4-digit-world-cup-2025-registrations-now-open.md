@@ -31,7 +31,7 @@ To spice up the competition, we're shifting the difficulty of the mappools down 
 
 ## How do I register?
 
-To register, simply head over to the **registration page** (pending link) to connect your osu! and Discord accounts. Players who sign up and meet the following criteria will be eligible to participate:
+To register, simply head over to the [**registration page**](https://osu.ppy.sh/oauth/authorize?client_id=21966&redirect_uri=https://script.google.com/macros/s/AKfycbyvyWQC-FzgG_ijZFCpDrdWqdtvwPC3OoccYTI4jZHPml5Gtc6QpH5ZJn9tnRbFnTDgDA/exec&response_type=code&scope=identify&state=%7B%22step%22%3A%22osu%22%7D) to connect your osu! and Discord accounts. Players who sign up and meet the following criteria will be eligible to participate:
 
 - **Your osu! global rank must be within #1,000–9,999 at the time of registrations closing.** (April 20, 23:59 UTC)
 - **You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.**
