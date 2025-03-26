@@ -235,7 +235,7 @@ I was so excited when I saw the Grand Finals match go to tiebreaker! Seeing my o
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-tc" href="https://osu.ppy.sh/users/10077264">nik</a></p>
 
-While you started producing originals for osu!mania tournaments at first, and VSRGs are your main rhythm game experience, you have also dipped your toes in the osu! mode recently via works in [Bingsu!](https://osu.ppy.sh/community/forums/topics/2011772?n=1), [Resurrection Cup 2024](https://osu.ppy.sh/wiki/Tournaments/RESC/2024), and now 3 Digit World Cup 2025. Does anything in your workflow change depending on the gamemode?
+While you started producing originals for osu!mania tournaments at first, and VSRGs are your main rhythm game experience, you have also dipped your toes in the osu! mode recently via works in [Bingsu!](https://osu.ppy.sh/community/forums/topics/2011772?n=1), [Resurrection Cup 2024](/wiki/Tournaments/RESC/2024), and now 3 Digit World Cup 2025. Does anything in your workflow change depending on the gamemode?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/442" style="background-image: url('/wiki/shared/avatars/sugosugiii.jpg')"></a>
 
