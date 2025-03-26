@@ -23,11 +23,11 @@ Read on for a detailed summary of the Grand Finals and [other close matches furt
 ## Grand Finals recap
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=PjAs9o0a9PI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/PjAs9o0a9PI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=ETBqWoZm-wQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ETBqWoZm-wQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Those who followed 3WC closely throughout this year's iteration expected a close grand final. The United States and South Korea were the obvious top two teams this year throughout, and while the U.S. won their matchup in the winners' final 7–4, it seemed inevitable that they would contest a closely-fought Grand Final.
@@ -45,7 +45,7 @@ From that point on, the teams fought back and forth, neither giving an inch with
 ### Quarterfinals: ::{ flag=AT }:: Austria-Hungary vs. ::{ flag=FI }:: Finland
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=w-uiBSqM0s0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/w-uiBSqM0s0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 pending recap
@@ -53,7 +53,7 @@ pending recap
 ### Finals: ::{ flag=DE }:: Germany vs. ::{ flag=GB }:: United Kingdom
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=deEmC2CaYIE" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/deEmC2CaYIE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Germany and the United Kingdom faced off in the losers bracket of the Finals stage for their last chance to guarantee a spot in the top 4. The United Kingdom were until this point making a strong push through the losers bracket after a loss to the Unites States in Quarterfinals, whereas Germany were fresh off a tough loss the previous week to the top seed in South Korea.
@@ -67,7 +67,7 @@ With the mappool quickly shrinking down, the United Kingdom hedged their bets on
 ### Finals: ::{ flag=PL }:: Poland vs. ::{ flag=PH }:: Philippines
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=b7gfbGQUtNc" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/b7gfbGQUtNc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 With the podium looming over the remaining teams, it seemed like all of them were out for blood. With the United Kingdom's shocking exit the day before, a lot of questions were being asked about the match between Poland and the Philippines, and whether it would amount to the same level.
