@@ -52,9 +52,9 @@ MCA 2024 features exciting rewards for the winners of each category:
 
 ### A Year in Mapping update
 
-As we look back on 2024, the countless memories left behind in the community remain fresh in our minds. Now, an even deeper dive into the data and stats behind 2024's mapping trends awaits you in **A Year In Mapping (AYIM) 2024**!
+As we look back on 2024, the countless memories left behind in the community remain fresh in our minds. Now, an even deeper dive into the data and stats behind 2024's mapping trends awaits you in **A Year In Mapping (AYIM) 2024**! Previous MCA AYIM has decided to not continue their service, and after some discussion, we decided to use external source to help us resume AYIM! [YamYA](https://osu.ppy.sh/users/4470854) has been hosting their own iteration of AYIM for the past couple of years. And as such, we've decided to promote their work and all credit goes to them.
 
-As always, **A Year in Mapping** serves as the mapping community's annual report, presenting [the most comprehensive and exciting stats of 2024](https://lookerstudio.google.com/u/0/reporting/aa599b20-f74b-4699-9e69-504f542de5aa/page/hj1uB?s=vvKt9IOmetM). Want to know how many Ranked maps and mappers each mode had? Or perhaps which songs and artists made the biggest impact on the community this year? It's all inside AYIM — take a look for yourself!
+For those who don't know, **A Year in Mapping** serves as the mapping community's annual report, presenting the most comprehensive and exciting stats of 2024 Want to know how many Ranked maps and mappers each mode had? Or perhaps which songs and artists made the biggest impact on the community this year? It's all inside AYIM — [click here to view the most comprehensive and exciting stats of 2024!](https://lookerstudio.google.com/u/0/reporting/aa599b20-f74b-4699-9e69-504f542de5aa/page/hj1uB?s=vvKt9IOmetM) Want to know how many Ranked maps and mappers each mode had? Or perhaps which songs and artists made the biggest impact on the community this year? It's all inside AYIM — take a look for yourself!
 
 ---
 
