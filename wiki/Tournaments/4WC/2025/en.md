@@ -66,7 +66,7 @@ The 4 Digit World Cup 2025 is run by various community members.
 - The tournament will be played in **ScoreV2**.
 - Teams will be seeded by Qualifier results.
 - Qualifiers will be done by playing through a 12-map pool once. Four players from a team will be in for each map.
-- The Qualifiers mappool will consist of 5 No Mod, 2 Hidden, 2 Hard Rock and 3 Double Time picks.
+- The Qualifiers mappool will consist of 5 No Mod, 2 Hidden, 2 Hard Rock, and 3 Double Time picks.
 - The **top 32** teams from Qualifiers will advance to a **double-elimination bracket**.
 - Grand Finals will feature a **bracket reset** if the team coming from the losers' bracket wins the first match.
 - Players outside the rank range are allowed to register. However, if they are not strictly within the rank range by the time registrations close, their registration will be removed.
@@ -87,7 +87,7 @@ The 4 Digit World Cup 2025 is run by various community members.
 
 ### Registration
 
-- All participants must register for the tournament by connecting their osu! and Discord accounts via the **registration form** (pending url).
+- All participants must register for the tournament by connecting their osu! and Discord accounts via the [**registration form**](LINK).
 - The captain for each country will be **selected by the tournament organisers** at the end of registrations.
 - After registrations close, each captain will be sent the list of eligible players for their country. The player lists sent to captains are final and contain all eligible signups.
 - If a country has more than 8 eligible players, they are **recommended to organise tryouts**. If a team has 8 or fewer signups their team will be locked as is. They are, however, free to change their captain or remove a player within the team submission phase.
