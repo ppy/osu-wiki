@@ -121,7 +121,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 3 Digit World Cup 2022 | 20/02/2022 | 08/05/2022 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: Chine | ::{ flag=ID }:: Indonésie |
 | 3 Digit World Cup 2023 | 17/02/2023 | 30/04/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis |
 | 3 Digit World Cup 2024 | 25/12/2023 | 10/03/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=BR }:: Brésil |
-| [3 Digit World Cup 2025](3WC/2025) | 28/12/2024 | 16/03/2025 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [3 Digit World Cup 2025](3WC/2025) | 28/12/2024 | 16/03/2025 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne |
 
 #### 4 Digit World Cup
 
@@ -171,7 +171,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Aus/NZ osu!standard Tournament 10 - Winter | 23/07/2023 | 18/09/2023 | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) |
 | Aus/NZ osu!standard Tournament 11 - Summer | 27/01/2024 | 11/03/2024 | santa deniers | jelqmaxxers | ASecretDozer |
 | Aus/NZ osu!standard Tournament 11 - Winter | 15/07/2024 | 08/09/2024 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
-| Aus/NZ osu!standard Tournament 12 - Summer | 25/01/2025 | 23/03/2025 | *TBD* | *TBD* | *TBD* |
+| Aus/NZ osu!standard Tournament 12 - Summer | 25/01/2025 | 23/03/2025 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
 
 #### BubblyQT
 
