@@ -261,7 +261,7 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Outstanding contributions to moderation affairs, team leadership and news coverage |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Outstanding contribution to moderation affairs, team leadership and news coverage |
 | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Outstanding coordination of osu! music and art production |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Outstanding contribution to the osu!catch community and mapping scene |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Outstanding contribution to the osu!catch community and integral tool development |
