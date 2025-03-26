@@ -144,5 +144,5 @@ The 4 Digit World Cup 2025 is run by various community members.
   - Suspected misuse of this rule may lead to disqualification.
 - Every map will be played with a **roster of 4 players**. Players can be freely swapped between maps.
 - Qualifier scores will be kept private until all teams have played in order to prevent seed manipulation.
-- The top 32 qualifying teams will advance to a double elimination bracket.
-  - Cumulative z-score, scaled to 0–100, will be used to seed the teams.
+- The top 32 qualifying teams will advance to a double-elimination bracket.
+  - Cumulative Z-score, scaled to 0–100, will be used to seed the teams.
