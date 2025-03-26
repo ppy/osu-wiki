@@ -14,9 +14,9 @@ This year's iteration of 3 Digit World Cup is over! Join us to find out what wen
 
 ![](/wiki/Tournaments/3WC/2025/img/podium.jpg)
 
-Congratulations to ::{ flag=KR }:: South Korea for their third title in a row, the ::{ flag=US }:: United States for showing up to an intense and unforgettable Grand Finals match, and to ::{ flag=DE }:: Germany for their first-ever podium finish in 3WC.
+Congratulations to ::{ flag=KR }:: South Korea for their third title in a row, the ::{ flag=US }:: United States for showing up to an intense and unforgettable Grand Finals match, and ::{ flag=DE }:: Germany for their first-ever podium finish in 3WC.
 
-Coming into the tournament, the top 2 looking like it does was inevitable; but no one could have predicted exactly which way it would swing. The tug of war between the two behemoths was closer than it has ever been, with both teams going neck and neck throughout, from Qualifiers all the way to the very last pick of the tournament, the bracket reset tiebreaker, culminating in what was hands down the best that the 3 Digit World Cup has ever been.
+Coming into the tournament, it was inevitable what the top 2 would look like; but no one could have predicted exactly which way it would swing. The tug of war between these two behemoths was closer than it has ever been, with both teams going neck and neck throughout, from Qualifiers all the way to the very last pick of the tournament, the bracket reset tiebreaker, culminating in what was hands down the best that the 3 Digit World Cup has ever been.
 
 Read on for a detailed summary of the Grand Finals and [other close matches further below](#match-highlights).
 
