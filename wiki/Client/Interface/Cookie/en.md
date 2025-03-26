@@ -2,7 +2,6 @@
 stub: true
 tags:
   - logo
-no_native_review: true
 ---
 
 # Cookie
