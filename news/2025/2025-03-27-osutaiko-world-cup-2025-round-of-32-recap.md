@@ -21,7 +21,7 @@ With the first weekend of the osu!taiko World Cup 2025 now in the books, it's ab
 **[Download the mappool here! (79 MB)](https://packs.ppy.sh/P278%20-%20osu!taiko%20World%20Cup%202025%3A%20Round%20of%2032.zip?1742166328)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2407576662?time=1h23m30s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2407576662&time=1h23m30s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 osu!taiko and metal music go together like bread and butter, so it's only right that we start off TWC's [osu! originals](/wiki/Community/Bespoke_music) streak with an epic Tiebreaker that's sure to get your blood pumping.
@@ -89,7 +89,7 @@ Needless to say, a very intense match for both teams and the viewers & casters o
 **[View the match information here!](https://osu.ppy.sh/community/matches/117570281)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2413275301?t=0h5m28s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2413275301&time=0h5m28s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 One of the closer matches of this week, Vietnam (#13) and Poland (#16) have definitely held their own in this match.
