@@ -27,7 +27,7 @@ Ein Klick auf die Abzeichen führt zu den jeweiligen Gruppenlisten, während die
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Anerkennen der Beatmaps, die die Community am meisten liebt |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (auf Probe)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | BNs in der Probezeit, die auf eine positive Rückmeldung warten, dass sie als vollwertiges Mitglied im Team aufgenommen werden |
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy[^private] | Reserviert für [peppy](/wiki/People/peppy), dem Ersteller von osu! |
-| 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artists](/wiki/People/Featured_Artists) | Musiker, die sich mit osu! zusammengetan haben |
+| 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Musiker, die sich mit osu! zusammengetan haben |
 | 47 |  | Ankündigungen[^private] | Benutzer mit der Berechtigung, [Ankündigungsnachrichten](/wiki/Announcement_messages) senden zu können |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Verantwortlich für das Auswählen hochqualitativer Beatmaps für die [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | 50 | [![TC](/wiki/shared/group/TC.png)](https://osu.ppy.sh/groups/50) | [Turnierkomitee](/wiki/People/Tournament_Committee) | Helfen dabei, dass [Turniere](/wiki/Tournaments) und [Wettbewerbe](/wiki/Contests) für alle fair und spaßig bleiben |

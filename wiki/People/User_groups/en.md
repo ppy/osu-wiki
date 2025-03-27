@@ -25,7 +25,7 @@ Clicking the badges will lead to the respective group listings, while the names 
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (Probationary)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | Probationary BN that await a positive evaluation to confirm their presence in the team as a full member. |
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy[^private] | Reserved for [peppy](/wiki/People/peppy), the creator of osu! |
-| 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artists](/wiki/People/Featured_Artists) | Musical creators who have partnered with osu! |
+| 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Musical creators who have partnered with osu! |
 | 47 |  | Announce[^private] | Users with permission to send [announcement chat messages](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Responsible for selecting high-quality maps for the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | 50 | [![TC](/wiki/shared/group/TC.png)](https://osu.ppy.sh/groups/50) | [Tournament Committee](/wiki/People/Tournament_Committee) | Helping ensure the [tournament](/wiki/Tournaments) and [contest](/wiki/Contests) scenes remain fair and fun for all |
