@@ -69,7 +69,7 @@ While results are quite one-sided, we've still managed to scout a couple interes
 **[View the match information here!](https://osu.ppy.sh/community/matches/117556344)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2412282707&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2412282707&time=0h6m34s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 One of the first matches we saw this weekend was between Finland (#14) and France (#19). Starting off strong into the tournament with a match of this caliber was definitely intense to watch, as both teams fought for their spot in the winner's bracket.
