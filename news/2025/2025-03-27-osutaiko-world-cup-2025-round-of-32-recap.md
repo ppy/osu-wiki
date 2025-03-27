@@ -36,6 +36,8 @@ osu!taiko and metal music go together like bread and butter, so it's only right 
     </audio>
 </div>
 
+And it doesn't stop there... After [Fraser Edwards](https://osu.ppy.sh/beatmaps/artists/339) themselves joined the reveal live on [Twitch](https://www.twitch.tv/osulive), they posted a sneak peek of their brand new music video that features this song on their [Twitter](https://x.com/Fraser_Edwards/status/1900556340335886355). Definitely something to look forward to when it finally releases.
+
 ## Round of 32 results
 
 We've tallied up the scores, and let's roll the drumrolls...
@@ -74,11 +76,11 @@ While results are quite one-sided, we've still managed to scout a couple interes
 
 One of the first matches we saw this weekend was between Finland (#14) and France (#19). Starting off strong into the tournament with a match of this caliber was definitely intense to watch, as both teams fought for their spot in the winner's bracket.
 
-After a very confident looking start from the Finnish team on the French team's pick [femtanyl - ATTACKING VERTICAL](https://osu.ppy.sh/beatmapsets/2340354#taiko/5028107) (NM5), their own pick [namigroove, Kotonoha Akane&Aoi - Mugen Dara Dara Gandhara (feat. Kotonoha Akane&Aoi)](https://osu.ppy.sh/beatmapsets/2340368#taiko/5028132) (FM2) and then another pick by France, which earned them a breakpoint on [Hiiragi Magnetite - TETORIS](https://osu.ppy.sh/beatmapsets/2277268#taiko/4874450), the French team finally picked up the pace and tried their best to get on the board. With success!
+After a very confident looking start from the Finnish team on the French team's pick [femtanyl - ATTACKING VERTICAL](https://osu.ppy.sh/beatmapsets/2340354#taiko/5028107) (NM5), their own pick [namigroove, Kotonoha Akane&Aoi - Mugen Dara Dara Gandhara (feat. Kotonoha Akane&Aoi)](https://osu.ppy.sh/beatmapsets/2340368#taiko/5028132) (FM2) and then another pick by France, which earned them a breakpoint on [Hiiragi Magnetite - TETORIS](https://osu.ppy.sh/beatmapsets/2277268#taiko/4874450) (HD2), the French team finally picked up the pace and tried their best to get on the board. With success!
 
 On [MetaHumanBoi - Speed Bomb](https://osu.ppy.sh/beatmapsets/2340349#taiko/5028101) (NM3), the speed map of the pool, both ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982)'s and ::{ flag=FR }:: [Nethen](https://osu.ppy.sh/users/14034809)'s efforts to full combo the map with high accuracy paid off, getting them their first point. Things seemed brighter for France from here on out, as they also secured their second point on their next pick [METAROOM - ICON KILLER](https://osu.ppy.sh/beatmapsets/2340351#taiko/5028104) (NM2).
 
-Finland reacted fast, picked their next map [Tokiwa - Syuou Sange](https://osu.ppy.sh/beatmapsets/2340359#taiko/5028114) (HR1) and won the accuracy battle which got them their fourth point. Now at match point and victory ever so close, France had one last chance to prove themselves. They had to act, which they did. A quick pick of [t+pazolite with Kabocha - Elder Dragon Legend](https://osu.ppy.sh/beatmapsets/2113078#taiko/4436620) earned the French team their third point, putting more pressure on Finland.
+Finland reacted fast, picked their next map [Tokiwa - Syuou Sange](https://osu.ppy.sh/beatmapsets/2340359#taiko/5028114) (HR1) and won the accuracy battle which got them their fourth point. Now at match point and victory ever so close, France had one last chance to prove themselves. They had to act, which they did. A quick pick of [t+pazolite with Kabocha - Elder Dragon Legend](https://osu.ppy.sh/beatmapsets/2113078#taiko/4436620) (NM1) earned the French team their third point, putting more pressure on Finland.
 
 Confidently, Finland went with [Nishino Kana - Darling](https://osu.ppy.sh/beatmapsets/2288836#taiko/4884307) (DT2), and after many score switches between both teams and 6 full combos on the board, players ::{ flag=FI }:: [BFKB113PBK](https://osu.ppy.sh/users/13613362), ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473), and ::{ flag=FI }:: [GamersDecision](https://osu.ppy.sh/users/19975342) carried their team to victory, by winning the accuracy battle once again!
 
@@ -94,7 +96,7 @@ Needless to say, a very intense match for both teams and the viewers and casters
 
 One of the closer matches of this week, Vietnam (#18) and Poland (#15) have definitely held their own in this match.
 
-Vietnam had a very strong start, scoring themselves a 4–0 lead before Poland could even get on the board with solid sweeps on [Nishino Kana - Darling](https://osu.ppy.sh/beatmapsets/2288836#taiko/4884307) (DT2) [Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - HARD-COREMATA (HVS VER.)](https://osu.ppy.sh/beatmapsets/2193212#taiko/4672708) (HR2), [Sound Souler - Eternalism 3](https://osu.ppy.sh/beatmapsets/2340352#taiko/5028105) (HD1), and [MetaHumanBoi - Speed Bomb (Yasuho)](https://osu.ppy.sh/beatmapsets/2340349#taiko/5028101) (NM3).
+Vietnam had a very strong start, scoring themselves a 4–0 lead before Poland could even get on the board with solid sweeps on [Nishino Kana - Darling](https://osu.ppy.sh/beatmapsets/2288836#taiko/4884307) (DT2) [Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - HARD-COREMATA (HVS VER.)](https://osu.ppy.sh/beatmapsets/2193212#taiko/4672708) (HR2), [Sound Souler - Eternalism 3](https://osu.ppy.sh/beatmapsets/2340352#taiko/5028105) (HD1), and [MetaHumanBoi - Speed Bomb](https://osu.ppy.sh/beatmapsets/2340349#taiko/5028101) (NM3).
 
 However, we cannot deny that Poland have held their own during the NM3 match, holding on to a very close lead which has unfortunately been lost in the end. Despite them FCing the map alongside ::{ flag=PL }:: [bernard351](https://osu.ppy.sh/users/9511518) dropping a very impressive SS, it was not enough to go against Vietnam's wrath.
 
