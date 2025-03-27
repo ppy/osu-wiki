@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2025: Round of 32 Recap"
-date: 2025-03-27 14:00:00 +0000
+date: 2025-03-28 10:00:00 +0000
 ---
 
 The yearly showdown of the best osu!taiko players from around the world is officially underway! Tune in to catch up on all the happenings of the first weekend of the tournament.
@@ -28,7 +28,7 @@ osu!taiko and metal music go together like bread and butter, so it's only right 
 
 [**Click here to watch the showcase video!**](https://youtu.be/kFf8RcuEV8k)
 
-[![](/wiki/shared/news/2025-03-27-osutaiko-world-cup-2025-round-of-32-recap/Poseidons_Rage.jpg)](https://osu.ppy.sh/beatmapsets/2340367#taiko/5028131)
+[![](/wiki/shared/news/2025-03-28-osutaiko-world-cup-2025-round-of-32-recap/Poseidons_Rage.jpg)](https://osu.ppy.sh/beatmapsets/2340367#taiko/5028131)
 
 <div class="osu-md__paragraph">
     <audio controls>
