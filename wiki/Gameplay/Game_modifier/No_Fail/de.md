@@ -7,14 +7,13 @@ tags:
   - game modifier
   - Spielmodifikation
 no_native_review: true
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # No Fail (Mod)
 
 ![NF Modsymbol](/wiki/shared/mods/NF.png "No Fail (NF) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [No Fail (lazer-Mod)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht

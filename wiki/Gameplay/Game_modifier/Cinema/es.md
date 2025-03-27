@@ -7,34 +7,33 @@ tags:
   - game modifier
   - modificador de juego
   - modificador del juego
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Cinema (mod)
 
 ![Icono del mod CM](/wiki/shared/mods/CM.png "Icono del mod Cinema (CM)")
 
-*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
+*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Cinema (mod de lazer)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Cinematografía](https://es.wikipedia.org/wiki/Cinematografía).*
 
-## Acerca de
+## Resumen
 
 - Abreviatura: CM
 - Tipo: Especial
-- Multiplicador de puntuación: 1.00x
-- Tecla de acceso directo predeterminada: `V` `V` o `Shift` + `V` (o mantén presionado `Ctrl` + `Shift` al seleccionar un [beatmap](/wiki/Beatmap))
+- Multiplicador de puntuación: 1,00x
+- Tecla de acceso directo predeterminada: `V` `V` o `Mayús` + `V` (o mantén presionado `Ctrl` + `Mayús` al seleccionar un [beatmap](/wiki/Beatmap))
 - Modos de juego compatibles: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Descripción
 
-*Nota: Activar el mod Cinema resultará en una partida sin clasificar.*
+*Nota: Activar el mod Cinema resultará en una jugada no clasificada.*
 
-El mod **Cinema** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo permitir a los jugadores simplemente relajarse y ver el vídeo o los storyboards de un beatmap sin la aparición de ningún [objeto](/wiki/Gameplay/Hit_object). Esto resultará en una partida usando el mod [Auto](/wiki/Gameplay/Game_modifier/Auto), pero **solo se mostrarán el fondo y el storyboard**.
+El mod **Cinema** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo permitir a los jugadores simplemente relajarse y ver el vídeo o los storyboards de un beatmap sin la aparición de ningún [objeto](/wiki/Gameplay/Hit_object). Esto resultará en una jugada usando el mod [Auto](/wiki/Gameplay/Game_modifier/Auto), pero **solo se mostrarán el fondo y el storyboard**.
 
-Debido a que el mod Cinema es una variación del mod Auto, los hitsounds causados por los objetos aún se escucharán. Aunque los elementos de la repetición y la pantalla de resultados se desactivarán junto con la atenuación del fondo configurada en 0 %.
+Debido a que el mod Cinema es una variación del mod Auto, los hitsounds causados por los objetos se seguirán escuchando. Aunque los elementos de la repetición y la pantalla de resultados se desactivarán junto con la atenuación del fondo establecida en 0 %.
 
-![Jugabilidad de Auto contra Cinema](/wiki/Gameplay/Game_modifier/Cinema/img/CM-comparison.jpg "Comparación del mod Auto (izquierda) contra el mod Cinema (derecha)")
+![Comparación de la jugabilidad de Auto y Cinema](/wiki/Gameplay/Game_modifier/Cinema/img/CM-comparison.jpg "Comparación del mod Auto (izquierda) con el mod Cinema (derecha)")
 
 Este mod tiene el mismo efecto en todos los modos de juego.
 

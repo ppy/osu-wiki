@@ -4,14 +4,16 @@ tags:
   - hit objects
   - objetos
   - golpeo
-outdated_since: b8c04d75ee4f7a06b738c1fdbb36fe5ff0559ef7
-outdated_translation: true
 ---
 
-# Círculo
+# Círculos
 
-Los *círculos* son [objetos](/wiki/Gameplay/Hit_object) circulares de colores presentes tanto en los [beatmaps](/wiki/Beatmap) de [osu!](/wiki/Game_mode/osu!) como en los de [osu!taiko](/wiki/Game_mode/osu!taiko). Su apariencia varía entre cada modo de juego, pero generalmente requerirá que un jugador haga clic o toque el círculo al mismo tiempo que el ritmo para ganar [puntuación](/wiki/Gameplay/Score) en función de cuán [precisos](/wiki/Gameplay/Accuracy) fueron (p.ej. si hacían clic demasiado pronto, sus puntos se reducirían). Tocar los círculos da un pequeño impulso a la [barra de salud](/wiki/Client/Interface/Health_bar), junto con un mayor impulso al final de un [combo](/wiki/Beatmapping/Combo).
+Los *círculos* son un tipo de [objeto](/wiki/Gameplay/Hit_object) circulares y coloreados presentes tanto en los [beatmaps](/wiki/Beatmap) de [osu!](/wiki/Game_mode/osu!) como en los de [osu!taiko](/wiki/Game_mode/osu!taiko). Son elementos centrales del juego, que requieren que los jugadores los pulsen al ritmo de la música para [conseguir](/wiki/Gameplay/Score) puntuación. Al pulsar los círculos con más [precisión](/wiki/Gameplay/Accuracy) se obtiene más puntuación, así como un pequeño aumento en la [barra de salud](/wiki/Gameplay/Health) y uno mayor al final de un [combo](/wiki/Beatmapping/Combo).
 
-En osu!, aparecen círculos con un número en la parte superior; mostrando su lugar en un combo. Los círculos también se delimitan con [círculos de aproximación](/wiki/Gameplay/Hit_object/Approach_circle), que se encogen a su alrededor. Una vez que el círculo de aproximación se superpone al círculo, el jugador debe hacer clic o tocar el círculo para ganar puntos.
+## Personalización
 
-En osu!taiko, los círculos aparecen de derecha a izquierda como notas rojas o azules (Don o Katu). A medida que los círculos se acercan y se alinean con el círculo de [juicio](/wiki/Gameplay/Judgement) blanco, se deben presionar las teclas correctas para obtener la puntuación.
+Los círculos son personalizables mediante [skins](/wiki/Skin), lo que permite a los jugadores modificar su aspecto.
+
+Los círculos están numerados para indicar su orden en un combo. Cada círculo está rodeado por un [círculo de aproximación](/wiki/Gameplay/Hit_object/Approach_circle) que se encoge a su alrededor. Una vez que el círculo de aproximación se superpone al círculo, el jugador debe hacer clic o pulsar el círculo para ganar puntuación. Fallar esta acción reduce la puntuación dependiendo de la distancia a la que se haya realizado la pulsación, lo que puede romper el combo y reducir la salud del jugador.
+
+![Círculos](/wiki/shared/osu_hitcircles.jpg "Círculos de osu!")

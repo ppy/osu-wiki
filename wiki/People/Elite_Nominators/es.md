@@ -16,7 +16,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 - El [título de usuario](/wiki/Community/User_title) «Elite Nominator», que dura 1 año hasta la próxima ola de Elite Nominators o cuando el usuario abandona los Beatmap Nominators. En caso de que a un usuario se le otorgue el título nuevamente por años consecutivos, el título se incrementa en 1 («Elite Nominator II», etc.).
 - Una [insignia de perfil](/wiki/Community/Profile_badge) Elite Nominator, que es permanente.
-  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Insignia de Elite Nominator") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Insignia de Elite Nominator II")
+  ![Insignia de Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Insignia de Elite Nominator") ![Insignia de Elite Nominator II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Insignia de Elite Nominator II") ![Insignia de Elite Nominator III](https://assets.ppy.sh/profile-badges/elite-nominator-3.png "Insignia de Elite Nominator III")
 
 ## Lista de Elite Nominators
 
@@ -42,7 +42,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 *Para la publicación de la noticia, véase: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
-| Name | Game mode |
+| Nombre | Modo de juego |
 | :-- | :-- |
 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097) | osu! |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
@@ -122,3 +122,27 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | osu!mania |
 | ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | osu!mania |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | osu!mania |
+
+### 2024
+
+*Para la publicación de la noticia, véase: [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
+
+| Nombre | Modo de juego |
+| :-- | :-- |
+| ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) | osu! |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | osu! |
+| ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) | osu! |
+| ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) | osu! |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
+| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | osu! |
+| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | osu!taiko |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko |
+| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | osu!taiko |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | osu!catch |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | osu!mania |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | osu!mania |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | osu!mania |
