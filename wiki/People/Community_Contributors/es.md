@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 776e337b5ed79c751285d76678634b6f0291ce1d
----
-
 # Contribuidores de la comunidad
 
 ::: Infobox
@@ -180,7 +175,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) | Excelente contribución a la osu! World Cup |
 | ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992) | Excelente contribución a la escena de torneos de osu!mania |
 | ::{ flag=DE }:: [Junihuhn](https://osu.ppy.sh/users/4182339) | Excelente contribución a las osu! World Cups y escena de torneos |
-| ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941) | Excelente contribución a la escena de torneos osu!catch |
+| ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941) | Excelente contribución a la escena de torneos de osu!catch |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Excelente contribución a la moderación de la comunidad |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Excelente e inquebrantable contribución al soporte y asistencia del jugador |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Excelente e inquebrantable contribución al soporte y asistencia del jugador |
@@ -211,7 +206,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 | Usuario | Contribuciones |
 | :-- | :-- |
-| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Excelente contribución a la escena de torneos de la comunidad osu!taiko |
+| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Excelente contribución a la escena de torneos de la comunidad de osu!taiko |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Excelente contribución al desarrollo de osu!(lazer) |
 | ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Excelente contribución al desarrollo de osu!(lazer) y osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Excelente contribución al desarrollo de puntos de rendimiento de osu! y mantenimiento |
@@ -255,6 +250,29 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
+
+### 2024
+
+#### Marzo
+
+*Para la publicación de la noticia, véase: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+
+| Usuario | Contribuciones |
+| :-- | :-- |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Excelente contribución a los asuntos de moderación, liderazgo del equipo y cobertura de noticias |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Excelente trabajo de coordinación de la producción musical y artística de osu! |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Excelente contribución a la comunidad de osu!catch y a la escena de mapping |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Excelente contribución a la comunidad de osu!catch y al desarrollo integral de herramientas |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Excelente contribución a la escena de modding y mapping de osu!mania |
+| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Excelente contribución a la escena de torneos y mapping de osu!mania |
+| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Excelente contribución al desarrollo de los puntos de rendimiento mediante herramientas integrales ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Excelente contribución al desarrollo de los puntos de rendimiento y al mantenimiento de osu!(stable) |
+| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Excelente contribución en la unión de la comunidad en los eventos [r/place](https://www.reddit.com/r/place/) de Reddit |
+| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Excelente contribución en la documentación de repeticiones de la comunidad y al desarrollo de herramientas |
+| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
+| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([osuplus](https://github.com/limjeck/osuplus)) |
+| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([owo! bot](https://owo-bot.xyz/)) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([Bathbot](https://github.com/MaxOhn/Bathbot])) |
 
 ## Historia
 
