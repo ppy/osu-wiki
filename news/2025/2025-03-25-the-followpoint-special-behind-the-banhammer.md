@@ -74,6 +74,8 @@ IRC shenanigans. Due to the chat system the stable client is integrated with, al
 
 As with many things, this is fixed in lazer.
 
+> peppy clarification: It actually has nothing to do with IRC, and more to do with there originally only being one moderator team. peppy wishes it was still this way rather than there being 10 different teams.
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
@@ -136,7 +138,7 @@ Speaking of which, how many "Slowpokes" are there currently?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-While many players are aware of the weekly osu!dev catch-up meetings on the official server, little is known about the internal discussions or processes within the GMT itself. So, can you tell us how your team meetings typically work?
+While many players are aware of the bi-weekly osu!dev catch-up meetings on the official server, little is known about the internal discussions or processes within the GMT itself. So, can you tell us how your team meetings typically work?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 
