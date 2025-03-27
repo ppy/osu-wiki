@@ -26,7 +26,7 @@ With the first weekend of the osu!taiko World Cup 2025 now in the books, it's ab
 
 osu!taiko and metal music go together like bread and butter, so it's only right that we start off TWC's [osu! originals](/wiki/Community/Bespoke_music) streak with an epic Tiebreaker that's sure to get your blood pumping.
 
-[**Click here to watch the showcase video!**](ttps://youtu.be/kFf8RcuEV8k)
+[**Click here to watch the showcase video!**](https://youtu.be/kFf8RcuEV8k)
 
 [![](/wiki/shared/news/2025-03-27-osutaiko-world-cup-2025-round-of-32-recap/Poseidons_Rage.jpg)](https://osu.ppy.sh/beatmapsets/2340367#taiko/5028131)
 
