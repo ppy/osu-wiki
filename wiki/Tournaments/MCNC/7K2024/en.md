@@ -533,7 +533,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
    - Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the "best of" system, e.g. if scoreline is 4–4 and the match is best of 9, the tiebreaker shall be played.
 4. Match scheduling will be handled by the tournament management.
 5. If no referees are available at match time, the match will be postponed.
-6. Failed players' scores will be considered losses, even if they are higher than the opponent.
+6. Failed players' scores will be considered losses, even if they are higher than these of their opponent.
    - Reviving and surviving during a beatmap is considered as passing it.
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
