@@ -92,7 +92,7 @@ Needless to say, a very intense match for both teams and the viewers and casters
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2413275301&time=0h5m28s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-One of the closer matches of this week, Vietnam (#13) and Poland (#16) have definitely held their own in this match.
+One of the closer matches of this week, Vietnam (#18) and Poland (#15) have definitely held their own in this match.
 
 Vietnam had a very strong start, scoring themselves a 4–0 lead before Poland could even get on the board with solid sweeps on [Nishino Kana - Darling](https://osu.ppy.sh/beatmapsets/2288836#taiko/4884307) (DT2) [Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - HARD-COREMATA (HVS VER.)](https://osu.ppy.sh/beatmapsets/2193212#taiko/4672708) (HR2), [Sound Souler - Eternalism 3](https://osu.ppy.sh/beatmapsets/2340352#taiko/5028105) (HD1), and [MetaHumanBoi - Speed Bomb (Yasuho)](https://osu.ppy.sh/beatmapsets/2340349#taiko/5028101) (NM3).
 
