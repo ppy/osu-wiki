@@ -1,15 +1,15 @@
 # Центурионы
 
-Центурионы (англ. *centurions*) - это пользователи, достигшие рубежа в создании **ста** (или более) [ранкнутых](/wiki/Beatmap/Category#ranked) [карт](/wiki/Beatmap). Начиная с [11 июля 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), их стремление помочь сделать osu! ещё круче отмечается:
+Центурионы (англ. *centurions*) - это пользователи, преодолевшие порог в **сто** (или более) [ранкнутых](/wiki/Beatmap/Category#ranked) [карт](/wiki/Beatmap). Начиная с [11 июля 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), их стремление сделать osu! ещё круче отмечается:
 
-- [Набором карт](/wiki/Beatmap/Packs) центуриона: за каждые 100 ранкнутых карт, мапперу предоставляется возможность выбрать 10 карт для включения их в набор карт, который будет доступен для скачивания в [тематической категории](https://osu.ppy.sh/beatmaps/packs?type=theme) [сборок карт](https://osu.ppy.sh/beatmaps/packs).
-- Специальным [значком профиля](/wiki/Community/Profile_badge) центуриона.
+- [Наборами карт](/wiki/Beatmap/Packs): за каждые 100 ранкнутых карт мапперу предоставляется возможность выбрать 10 из них для публикации в [тематической категории](https://osu.ppy.sh/beatmaps/packs?type=theme) [наборов карт](https://osu.ppy.sh/beatmaps/packs).
+- Специальным [значком профиля](/wiki/Community/Profile_badge).
 
 ![Значок центуриона](img/centurion.png "Значок центуриона (100+ ранкнутых карт)")
 
 ## Список центурионов
 
-| Игрок | 1-ая ранкнутая карта | 100-ая ранкнутая карта | Наборы карт центуриона |
+| Игрок | 1-ая ранкнутая карта | 100-ая ранкнутая карта | Наборы карт |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | [2018-10-20](https://osu.ppy.sh/beatmapsets/833454) | [2024-10-02](https://osu.ppy.sh/beatmapsets/2215696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM23) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [2019-11-06](https://osu.ppy.sh/beatmapsets/1057765) | [2023-08-23](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
@@ -41,5 +41,5 @@
 
 ## Интересные факты
 
-- Первым пользователем достигшим рубежа в 100 ранкнутых карт стал ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), 4 августа 2010.
-- Среди всех центурионов, в среднем, уходит **4.8 года** (около 1735 дней) на создание 100 ранкнутых карт.<!--Статистика взята из https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->
+- Первым пользователем, набравшим 100 ранкнутых карт, 4 августа 2010 г. стал ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363).
+- В среднем на создание и ранкинг 100 карт у центурионов уходит **4.8 лет** (около 1735 дней).<!--Статистика взята из https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->
