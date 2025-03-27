@@ -1,3 +1,8 @@
+---
+outdated_since: 08ec68cdf5e4e9a1ca014207ca40c0277395528e
+outdated_translation: true
+---
+
 # Système de jugement d'osu!taiko
 
 ## Jugements
