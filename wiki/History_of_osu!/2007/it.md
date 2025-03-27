@@ -1,3 +1,8 @@
+---
+outdated_since: 27ab7c703108c7b0b5f066700718dcce34d68524
+outdated_translation: true
+---
+
 # Storia di osu! 2007
 
 Quelli che seguono sono alcuni degli eventi più importanti della storia di osu! sin dal suo inizio. Ringraziamenti speciali a [Sinistro](https://osu.ppy.sh/users/5530) per aver contributo nella compilazione dei contenuti del 2007/2008.
