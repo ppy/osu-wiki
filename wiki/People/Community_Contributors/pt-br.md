@@ -1,5 +1,6 @@
 ---
 outdated_translation: true
+outdated_since: 776e337b5ed79c751285d76678634b6f0291ce1d
 ---
 
 # Colaboradores da Comunidade
