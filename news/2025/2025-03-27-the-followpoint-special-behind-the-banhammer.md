@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The Followpoint Special: Behind the Banhammer"
-date: 2025-03-25 17:00:00 +0000
+date: 2025-03-27 17:00:00 +0000
 series: The Followpoint
 ---
 
 Ever wanted to get some insight into how Global Moderation Team works? Then now is your chance as we've interviewed the GMT leaders themselves, so come and have a look at our (sometimes silly) questions!
 
-![](/wiki/shared/news/2025-03-25-the-followpoint-special-behind-the-banhammer/banner.jpg)
+![](/wiki/shared/news/2025-03-27-the-followpoint-special-behind-the-banhammer/banner.jpg)
 
 Welcome, strangers and returning readers! Like you've already read in the title and the short intro, this post of The Followpoint will be an unusual one, talking about a team inside osu! instead of an individual person. The [Global Moderation Team](/wiki/People/Global_Moderation_Team) (usually referred to as GMT) is one of the essential and oldest osu! teams, consisting of community members who mainly focus on player moderation. Its [wiki article](/wiki/People/Global_Moderation_Team) explains things really well, so you should give it a read if you haven't yet!
 
@@ -46,7 +46,7 @@ And now with the small introductions done, let's get to the interview!
 
 <div class="news-chat-quote__text-container">
 
-![](/wiki/shared/news/2025-03-25-the-followpoint-special-behind-the-banhammer/leaders.png)
+![](/wiki/shared/news/2025-03-27-the-followpoint-special-behind-the-banhammer/leaders.png)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
