@@ -10,7 +10,7 @@ tags:
 
 ![MCLT 4K 2025 banner](img/banner.jpg)
 
-The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) is a 1v1, double-elimination, Chilean-only open rank osu! tournament hosted by ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) and ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085). It is the first instalment of the osu!mania 4K Chilean National Cup.
+The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) was a 1v1, double-elimination, Chilean-only open rank osu! tournament hosted by ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) and ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085). It was the first instalment of the osu!mania 4K Chilean National Cup.
 
 ## Tournament schedule
 
@@ -33,16 +33,18 @@ The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) is a 1v1, do
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter, profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 months of osu!supporter, profile banner |
 
+![](img/badge-1st.png "MCLT 4K 2025 winner badge") 
+
 ## Organisation
 
-The osu!mania 4K Chilean National Cup 2025 is run by various community members.
+The osu!mania 4K Chilean National Cup 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085) |
 | Mappool selector | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439) |
 | Mappool scouter | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
-| Mappool playtester | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439), ::{ flag=CL }:: [[LS]bambi fnf](https://osu.ppy.sh/users/20360332), ::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=BR }:: [fefedk](https://osu.ppy.sh/users/18943504), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626), ::{ flag=AR }:: [-hakitsu](https://osu.ppy.sh/users/25300387), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=KR }:: [[GB]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009), ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) |
+| Mappool playtester | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439), ::{ flag=CL }:: [[LS]bambi fnf](https://osu.ppy.sh/users/20360332), ::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=BR }:: [fefedk](https://osu.ppy.sh/users/18943504), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626), ::{ flag=AR }:: [-hakitsu](https://osu.ppy.sh/users/25300387), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=KR }:: [[GB]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/26473894), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009), ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) |
 | Mapper | ::{ flag=BR }:: [Davix150](https://osu.ppy.sh/users/26512810), ::{ flag=NZ }:: [Div](https://osu.ppy.sh/users/3751116), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CL }:: [H4chyk0](https://osu.ppy.sh/users/17397748), ::{ flag=BR }:: [nayeonie bunny](https://osu.ppy.sh/users/15187174), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=PE }:: [Miaurichesu](https://osu.ppy.sh/users/10055648), ::{ flag=CL }:: [NikoSek](https://osu.ppy.sh/users/4088977), ::{ flag=KR }:: [[GB]Oceanus](https://osu.ppy.sh/users/9164100), ::{ flag=CN }:: [[GB]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=US }:: [Smokydoh](https://osu.ppy.sh/users/20169884), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797) |
 | Streamer | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698) |
 | Commentator | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [-Ryu-](https://osu.ppy.sh/users/8440939), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626), ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808) |
@@ -57,6 +59,7 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 - [Livestream](https://www.twitch.tv/mclt_osu)
 - [Challonge bracket](https://challonge.com/es/mclt4k2025)
 - [Discord server](https://discord.gg/aSTBgHBpSN)
+- [VOD collection (YouTube)](https://www.youtube.com/@MCLT4K)
 
 ## Participants
 
@@ -87,26 +90,15 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 | 23 | ::{ flag=CL }:: [YeaaBoiii](https://osu.ppy.sh/users/14630452) |
 | 24 | ::{ flag=CL }:: [labotx](https://osu.ppy.sh/users/12434346) |
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, March 01
-
-| Red Player | Blue Player | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| b3njvv2 ::{ flag=CL }:: | ::{ flag=CL }:: Ogata Kanna | Mar 01 (Sat) 18:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^losers-bracket] |
-
-### Sunday, March 02
-
-| Red Player | Blue Player | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Anterex ::{ flag=CL }:: | ::{ flag=CL }:: b3njvv2 | Mar 02 (Sun) 20:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^grand-finals] |
-| Anterex ::{ flag=CL }:: | ::{ flag=CL }:: Ogata Kanna | Mar 02 (Sun) 20:00 CLST | [mclt_osu](https://twitch.tv/mclt_osu) | [^grand-finals] |
+![](img/mclt-podium.jpg "MCLT 4K 2025 podium")
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (209 MB)](https://drive.usercontent.google.com/download?id=1N0kiPalXmwbn7ABcv21cpjWeW_h97qNx&export=download&authuser=0)**
+**[Download the mappack here! (204 MB)](https://drive.usercontent.google.com/download?id=1N0kiPalXmwbn7ABcv21cpjWeW_h97qNx&export=download&authuser=0)**
 
 - Rice
   1. [Yuaru - Asu no Yozora Shoukaihan (Miaurichesu) [melancholy 1.05x]](https://osu.ppy.sh/beatmapsets/2329282#mania/4994677)
@@ -241,6 +233,22 @@ The osu!mania 4K Chilean National Cup 2025 is run by various community members.
 
 ## Match results
 
+Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/15afg8Fbu8G_hfQ6OKf5zYPtRkDLnJNf3NvoZn-LGj8s).
+
+### Grand Finals
+
+Saturday, 1 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **b3njvv2** ::{ flag=CL }:: | **7** | 2 | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117348510) | [#1](https://www.twitch.tv/videos/2394611266) |
+
+Sunday, 2 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Anterex** ::{ flag=CL }:: | **7** | 4 | ::{ flag=CL }:: b3njvv2 | [#1](https://osu.ppy.sh/community/matches/117360960) | [#1](https://www.twitch.tv/videos/2395541285) |
+
 ### Finals
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1sdBSTCFOd8dz-m2BjbqKU2sBu-1rUWjsD7hbDRfUBrg).
@@ -269,7 +277,7 @@ Saturday, 15 February 2025:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **b3njvv2** ::{ flag=CL }:: | **6** | 4 | ::{ flag=CL }:: Ogata Kanna | [#1](https://osu.ppy.sh/community/matches/117188342) | [#1](https://www.twitch.tv/videos/2382390641) |
 | **Hikikomori** ::{ flag=CL }:: | **6** | 5 | ::{ flag=CL }:: yukataa | [#1](https://osu.ppy.sh/community/matches/117190863) |  |
-| Best Sanallite ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: **NikitodeuS** | [#1](https://osu.ppy.sh/community/matches/117108449) | [#1](https://www.twitch.tv/videos/2382390372) |
+| Best Sanallite ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: **NikitodeuS** | [#1](https://osu.ppy.sh/community/matches/117191514) | [#1](https://www.twitch.tv/videos/2382390372) |
 | Jeanne Da Rin ::{ flag=CL }:: | 4 | **6** | ::{ flag=CL }:: **Horuszed** | [#1](https://osu.ppy.sh/community/matches/117192708) | [#1](https://www.twitch.tv/videos/2382390103) |
 
 Sunday, 16 February 2025:
@@ -308,11 +316,11 @@ Sunday, 9 February 2025:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **kuraaaFangirl** ::{ flag=CL }:: | **6** | 1 | ::{ flag=CL }:: Shiny Sylveon | [#1](https://osu.ppy.sh/community/matches/117121756) | [#1](https://www.twitch.tv/videos/2377226956) |
 
-## Round of 16
+### Round of 16
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1J5OpwDH6j5fTULnw9V1hEV9wwzoKgnDaQx_V6vYBV94).
 
-Saturday, 15 February 2025:
+Saturday, 1 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -322,7 +330,7 @@ Saturday, 15 February 2025:
 | **Ogata Kanna** ::{ flag=CL }:: | **5** | 2 | ::{ flag=CL }:: TheTrixdo_YT | [#1](https://osu.ppy.sh/community/matches/117029124) | [#1](https://www.twitch.tv/videos/2370163235) |
 | **Anterex** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CL }:: [REG]Levels | [#1](https://osu.ppy.sh/community/matches/117031119) | [#1](https://www.twitch.tv/videos/2370163448) |
 
-Sunday, 16 February 2025:
+Sunday, 2 February 2025:
 
 | Player A |  |  | Player B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -371,11 +379,10 @@ The final standings for the Qualifier stage can be found in the following [sprea
 4. To participate in the tournament, player **must** join [this Discord server](https://discord.gg/aSTBgHBpSN) after registration.
 5. This tournament is a 1v1 double-elimination competition for the osu!mania game mode (4K variant).
 6. Beatmap scoring is based on ScoreV2.
-7. No tournament staff, except designers, streamers, and commentators, may participate as players.
-8. Players must adhere to the [osu! community rules](/wiki/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
-9. Players are allowed to adjust visual settings to alter background opacity or disable beatmap elements, such as storyboards and skins.
-10. Skin elements must not be used to alter key gameplay mechanics inappropriately.
-11. The tournament hosts reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+7. Players must adhere to the [osu! community rules](/wiki/Rules) at all times. Any violation of these rules may result in expulsion at the discretion of the tournament hosts.
+8. Players are allowed to adjust visual settings to alter background opacity or disable beatmap elements, such as storyboards and skins.
+9. Skin elements must not be used to alter key gameplay mechanics inappropriately.
+10. The tournament hosts reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Mappool information
 
@@ -435,7 +442,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Extra
 
-[^grand-finals]: Grand Finals — final matchup depends on the losers' bracket Grand Finals match.
-[^losers-bracket]: Losers' bracket Grand Finals bracket match.
 [^qualifiers-seeding]: Average rank between the 5 maps played during the Qualifiers stage.
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two Players have the same average rank in their Qualifiers result.

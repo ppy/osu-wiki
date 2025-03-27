@@ -78,9 +78,11 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=GR }:: [Geoxor](https://osu.ppy.sh/users/8112146) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
 | ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (member of) |
+| ::{ flag=LV }:: [hikota](https://osu.ppy.sh/users/12946286) | [hikota](https://osu.ppy.sh/beatmaps/artists/463) |
 | ::{ flag=US }:: [hornshoes](https://osu.ppy.sh/users/4057967) | [Strelitzia](https://osu.ppy.sh/beatmaps/artists/421) (member of) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
+| ::{ flag=US }:: [Kardashevband](https://osu.ppy.sh/users/33736126) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) (member of) |
 | ::{ flag=ES }:: [KeybladeMaster](https://osu.ppy.sh/users/5926683) | [xiiiac13](https://osu.ppy.sh/beatmaps/artists/423) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |

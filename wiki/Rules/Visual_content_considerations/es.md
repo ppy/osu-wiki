@@ -2,8 +2,6 @@
 tags:
   - vcc
   - ccv
-outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Consideraciones de contenido visual
@@ -56,13 +54,19 @@ En determinadas circunstancias, pueden aplicarse algunas excepciones para el uso
 
 *Véase: [Proceso de votación de contenido](/wiki/Rules/Content_voting_process).*
 
-Las imágenes que se usan en cualquier parte del sitio fuera de un beatmap (avatares, portadas de perfiles, páginas de usuario, etc.) **no** están sujetas al procedimiento de votación que se explica a continuación y pueden eliminarse en cualquier momento a discreción del Global Moderation Team.
+Las imágenes que se usan en cualquier parte del sitio fuera de un beatmap (avatares, portadas de perfiles, páginas de usuario, etc.) **no** están sujetas al procedimiento de votación que se explica a continuación y pueden eliminarse en cualquier momento a discreción del [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
 
 Si no estás seguro acerca de una imagen que se incluirá en un beatmap de alguna manera, **envía una solicitud a través de [la página de envíos de reportes de los Beatmap Nominators](https://bn.mappersguild.com/reports).** La imagen será sometida a votación que deberá ser aprobada por una mayoría considerable, o será automáticamente denegada.
 
 **El resultado de cualquier votación es definitivo**, a menos que la imagen se altere significativamente en un intento de resolver cualquier elemento potencialmente problemático que surja durante la discusión.
 
 En todo momento, [el osu! team](/wiki/People/osu!_team) se reserva el derecho de declarar unilateralmente cualquier contenido válido o inválido a su discreción, independientemente de cualquier votación previa realizada al respecto.
+
+## ¿Qué pasa si mi imagen no es aceptable?
+
+Cualquier imagen, vídeo o contenido visual que el GMT considere inapropiado será retirado del sitio web. Además, el usuario que subió ese contenido visual puede ser [silenciado](/wiki/Help_centre/Silences) durante 43 horas dependiendo de la gravedad de la infracción y del historial relevante del usuario.
+
+Por lo general, no se impondrán silencios por contenido visual inapropiado en los beatmaps, siempre y cuando el contenido visual no sea gravemente inapropiado y el usuario elimine el contenido infractor en un plazo razonable.
 
 ## Notas
 
