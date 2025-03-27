@@ -16,7 +16,7 @@
 
 - [Титулом](/wiki/Community/User_title) "Elite Nominator", который остаётся на 1 год до следующей волны отбора элитных номинаторов или до тех пор, пока пользователь не уйдёт из номинаторов. Если пользователь получает титул повторно на протяжении нескольких лет подряд, его уровень увеличивается на 1 ("Elite Nominator II" и т.д.)
 - [Значком профиля](/wiki/Community/Profile_badge) элитного номинатора, остающимся навсегда
-  ![Значок "Elite Nominator"](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Значок \"Elite Nominator\"") ![Значок "Elite Nominator II"](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Значок \"Elite Nominator II\"")
+  ![Значок "Elite Nominator"](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Значок \"Elite Nominator\"") ![Значок "Elite Nominator II"](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Значок \"Elite Nominator II\"") ![Значок "Elite Nominator III"](https://assets.ppy.sh/profile-badges/elite-nominator-3.png "Значок \"Elite Nominator III\"")
 
 ## Список элитных номинаторов
 
@@ -24,7 +24,7 @@
 
 *См. новость: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
-| Ник | Режим |
+| Ник | Режим игры |
 | :-- | :-- |
 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097) | osu! |
 | ::{ flag=US }:: [Cheri](https://osu.ppy.sh/users/5226970) | osu! |
@@ -42,7 +42,7 @@
 
 *См. новость: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
-| Ник | Режим |
+| Ник | Режим игры |
 | :-- | :-- |
 | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097) | osu! |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
@@ -60,7 +60,7 @@
 
 *См. новость: [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
 
-| Ник | Режим |
+| Ник | Режим игры |
 | :-- | :-- |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | osu! |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | osu! |
@@ -83,7 +83,7 @@
 
 *См. новость: [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
 
-| Ник | Режим |
+| Ник | Режим игры |
 | :-- | :-- |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | osu! |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | osu! |
@@ -104,7 +104,7 @@
 
 *См. новость: [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
 
-| Ник | Режим |
+| Ник | Режим игры |
 | :-- | :-- |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | osu! |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | osu! |
@@ -122,3 +122,27 @@
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | osu!mania |
 | ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | osu!mania |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | osu!mania |
+
+### 2024
+
+*См. новость: [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
+
+| Ник | Режим игры |
+| :-- | :-- |
+| ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) | osu! |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | osu! |
+| ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) | osu! |
+| ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) | osu! |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
+| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | osu! |
+| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | osu!taiko |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko |
+| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | osu!taiko |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | osu!catch |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | osu!mania |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | osu!mania |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | osu!mania |
