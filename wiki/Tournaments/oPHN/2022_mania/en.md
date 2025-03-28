@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools (osu!mania 4K)
 
-### Grand finals
+### Grand Finals
 
 - Rice
   1. [NicDroid - Lumpiang Shanghai Deluxe (Arccat) [Chili Sauce 1.1x (165bpm)]](https://osu.ppy.sh/beatmapsets/1756891#mania/3595381)
@@ -311,7 +311,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools (osu!mania 7K)
 
-### Grand finals
+### Grand Finals
 
 - Rice
   1. [Shiraishi - Moon Gate (lenpai) [Kawawa's [BMS wawather LV.22] @ 182]](https://osu.ppy.sh/beatmapsets/1804630#mania/3700624)
@@ -451,7 +451,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match Results (osu!mania 4K)
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -538,7 +538,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results (osu!mania 7K)
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |

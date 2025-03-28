@@ -20,7 +20,7 @@ The **osu! Philippines Nationals 2023 (osu!catch)** (***PHNC 2023***) is a one-o
 | Quarterfinals | 2023-11-18/2023-11-19 |
 | Semifinals | 2023-11-25/2023-11-26 |
 | Finals | 2023-12-02/2023-12-03 |
-| Grand finals | 2023-12-09/2023-12-10 |
+| Grand Finals | 2023-12-09/2023-12-10 |
 
 ## Prizes
 
@@ -78,7 +78,7 @@ The osu! Philippines Nationals 2023 - osu!catch is ran by various community memb
 | Quarterfinals | 9 | 4 | 2 | 2 | 2 | 1 |
 | Semifinals | 11 | 4 | 3 | 3 | 3 | 1 |
 | Finals | 11 | 4 | 3 | 3 | 3 | 1 |
-| Grand finals | 13 | 5 | 3 | 3 | 3 | 1 |
+| Grand Finals | 13 | 5 | 3 | 3 | 3 | 1 |
 
 ### Match rules
 

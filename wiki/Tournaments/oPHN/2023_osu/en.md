@@ -420,7 +420,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament format
 
-The tournament format was 1v1, double-elimination tournament. Players play through qualifiers, and the top 32 players will proceed to the Round of 32. 
+The tournament format was 1v1, double-elimination tournament. Players play through qualifiers, and the top 32 players will proceed to the Round of 32.
 
 Players get 1 ban on RO32 and RO16 and 2 bans on quarterfinals onwards. All matches are played with Score v2 and NF, head-to-head mode.
 
@@ -436,13 +436,13 @@ Note: The star ratings listed below are the range of  star ratings per round.
 | Quarterfinals | 11 | 5 | 4 | 4 | 4 | 1 | 5.2*-6.6* |
 | Semifinals | 11 | 5 | 4 | 4 | 4 | 1 | 5.5*-6.8* |
 | Finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.8*-7.1* |
-| Grand finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.9*-7.3* |
+| Grand Finals | 13 | 6 | 4 | 4 | 4 | 1 | 5.9*-7.3* |
 
 ### Tournament Rules
 
 - All schedules in the tournament are default to Philippine Standard Time (+8 UTC).
 - Reschedules can only be done anytime before 24 hours of the match unless there is an emergency.
-- A player will be given ten (10) minutes of grace period after the match time to enter the lobby. Failure to join after the grace period ends will result in a forfeit and the opposing player will be awarded with a **win by default**. 
+- A player will be given ten (10) minutes of grace period after the match time to enter the lobby. Failure to join after the grace period ends will result in a forfeit and the opposing player will be awarded with a **win by default**.
 - If both players did not show up after the grace period, the higher seed will be awarded with a **win by default** and will proceed to the next round.
 - Banning two maps from the same mod category is not allowed.
 - Any player who displays unsportsmanlike behavior will receive a warning/disqualification.
@@ -458,11 +458,11 @@ Note: The star ratings listed below are the range of  star ratings per round.
 
 ### Match Procedure
 
-- Referees will notify and invite both players into the lobby before the designated schedule. 
+- Referees will notify and invite both players into the lobby before the designated schedule.
 - There will be no warmups.
 - Players will “!roll” and the winner decides between first pick, second ban or second pick, first ban.
 - Players will have **120 seconds** to ban a map. Passing this time limit loses the ban opportunity. (Still gets the chance to do the 2nd ban on the later stages)
 - Players will have **120 seconds** to pick a map. Passing this time limit gives the pick to the other player.
-- In case of disconnection **within 30 seconds of a map**, an abort may be issued by the referee for a replay. 
+- In case of disconnection **within 30 seconds of a map**, an abort may be issued by the referee for a replay.
 - In case of disconnection but a **player has submitted a local score**, the player can send the replay/local score to the referee for verification.
 - Mods are allowed in Tiebreaker (HD, HR, FL, EZ only).

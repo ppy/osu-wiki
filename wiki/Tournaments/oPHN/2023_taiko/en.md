@@ -89,7 +89,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappool
 
-### Grand finals
+### Grand Finals
 
 - No Mod
   1. [Iyowa feat. KAFU - Kyu-kurarin (Sebola) [Anxiety]](https://osu.ppy.sh/beatmapsets/1814819#taiko/3722965)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 - Hard Rock
   1. [Dz'Xa - Izumi 7983 (Cut Ver.) ([Zeth]) [ulko's Oni]](https://osu.ppy.sh/beatmapsets/1884874#taiko/3997507)
   2. [Ardolf - Eternally Onward (Fynbi) [Oni (PHNT ver.)]](https://osu.ppy.sh/beatmapsets/2028157#taiko/4257440)
-- Double Time        
+- Double Time
   1. [Virtual Self - Key (Faputa) [Oni]](https://osu.ppy.sh/beatmapsets/1137185#taiko/2387047)
   2. [petit fleurs - mirafle** (taiko_ryuki) [Oni]](https://osu.ppy.sh/beatmapsets/1136679#taiko/2373847)
 - Freemod
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -308,7 +308,7 @@ This competition has come to an end and resulted in the following podium:
 | Quarterfinals | 11 | 5 | 2 | 2 | 2 | 3 | 1 |
 | Semifinals | 11 | 5 | 2 | 2 | 2 | 3 | 1 |
 | Finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
-| Grand finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
+| Grand Finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
 
 ### Qualifiers regulations
 
