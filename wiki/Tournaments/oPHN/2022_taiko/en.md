@@ -86,7 +86,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand finals
+### Grand Finals
 
 - No Mod
   1. [Mr.Asyu - Haunted Dance (KTYN) [Inner Oni]](https://osu.ppy.sh/beatmapsets/1339043#taiko/2774057)
@@ -224,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -294,7 +294,6 @@ This competition has come to an end and resulted in the following podium:
   - Double Time can be played as Nightcore if all players in the lobby agree to it.
   - Force Mod will be played either with Hidden, Hard Rock, or Hidden + Hard Rock.
   - Tiebreaker will be played with No Mod and will be only played in case of a tie.
-
 - The win condition and mappool size per stage are as follows:
 
 | Round stage | Best of | NM | HD | HR | DT | FM | TB |

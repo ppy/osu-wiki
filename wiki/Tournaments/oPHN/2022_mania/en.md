@@ -21,8 +21,8 @@ The **osu! Philippines Nationals 2022 - osu!mania 4K/7K** (***PHNM 2022***) was 
 | Round of 16 | 2022-06-18/2022-06-19 |
 | Quarterfinals | 2022-06-25/2022-06-26 |
 | Semifinals | 2022-07-02/2022-07-03 |
-| Finals week 1 | 2022-07-09/2022-07-10 |
-| Finals week 2 | 2022-07-16/2022-07-17 |
+| Finals | 2022-07-09/2022-07-10 |
+| Grand Finals | 2022-07-16/2022-07-17 |
 
 ## Prizes
 
@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools (osu!mania 4K)
 
-### Grand finals
+### Grand Finals
 
 - Rice
   1. [NicDroid - Lumpiang Shanghai Deluxe (Arccat) [Chili Sauce 1.1x (165bpm)]](https://osu.ppy.sh/beatmapsets/1756891#mania/3595381)
@@ -311,7 +311,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools (osu!mania 7K)
 
-### Grand finals
+### Grand Finals
 
 - Rice
   1. [Shiraishi - Moon Gate (lenpai) [Kawawa's [BMS wawather LV.22] @ 182]](https://osu.ppy.sh/beatmapsets/1804630#mania/3700624)
@@ -451,7 +451,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match Results (osu!mania 4K)
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -538,7 +538,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results (osu!mania 7K)
 
-### Grand finals
+### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -640,13 +640,14 @@ Players who currently have (or had at some point since account creation) the Phi
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
 
-- Qualification stage: 6 song mappool, no winning condition, no tiebreaker song
-- Group stage: 10 song mappool, best of 7 (first to 4), one tiebreaker song
-- Round of 16: 12 song mappool, best of 9 (first to 5), one tiebreaker song
-- Quarterfinals: 14 song mappool, best of 11 (first to 6), one tiebreaker song
-- Semifinals, Finals Weeks 1 and 2: 16 song mappool, best of 13 (first to 7), one tiebreaker song
-
-The tournament is played 1 player versus 1 player
+| Stage | Format | Mappool size |
+| :-- | :-- | :-- |
+| Group stage | Best of 7 | 10 FM, 1 TB |
+| Round of 16 | Best of 9 | 12 FM, 1 TB |
+| Quarterfinals | Best of 11 | 14 FM, 1 TB |
+| Semifinals | Best of 13 | 16 FM, 1 TB |
+| Finals | Best of 13 | 16 FM, 1 TB |
+| Grand Finals | Best of 13 | 16 FM, 1 TB |
 
 Mods that are allowed to be used in matches, if the player opts to use them, are, Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, ScoreV2 is implemented.
 
@@ -761,7 +762,7 @@ After the bans and rolls have concluded, the player with the winning roll instru
 
 - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - The winning player moves onto the next match.
-  - During the Group Stage, the losing player will be directed by the stipulations outlined in Section 1.5 of this ruleset.
+  - During the Group Stage, the losing player will be directed by the stipulations outlined in the [group stage](#group-stage) section of this ruleset.
 - Both players are at match point at the same time.
   - Both players will play the song designated as the tiebreaker.
   - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the player in the tournament.
@@ -778,7 +779,7 @@ Maps with a player disconnection that occurs within the first 30 seconds, or 25%
 
 Matches will have a two disconnection limit; on the third disconnection, a point will be handed immediately to the player still active in the multiplayer room.
 
-A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the 10 minute grace period mentioned in Section 2.1 (Protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
+A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the 10 minute grace period mentioned in the [match protocol](#match-protocol) section will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 
 Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 

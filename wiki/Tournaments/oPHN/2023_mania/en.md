@@ -135,7 +135,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 4K
 
-#### Grand finals
+#### Grand Finals
 
 - Rice
   1. [Luze - Love Song [Black Dorna] (Valedict) [Heartfelt 1.05x (365bpm)]](https://osu.ppy.sh/beatmapsets/1796541#mania/3682631)
@@ -170,12 +170,12 @@ This competition has come to an end and resulted in the following podium:
   5. [onumi - REGRET PART TWO (Shoegazer) [DISCONNECT 1.2x (288bpm)]](https://osu.ppy.sh/beatmapsets/1473890#mania/3552220)
   6. [h. - RZURCTN (gay short cat) [RSURGNC 1.05x]](https://osu.ppy.sh/beatmapsets/1994491#mania/4144923)
   7. [Prismatica Material - CHAOTIC CRIMSON OF PANDORA (arccat) [Challenge - 1.05x (162bpm)]](https://osu.ppy.sh/beatmapsets/1771341#mania/3626220)
-- Long Note 
+- Long Note
   1. [Function Phantom - Algebra (juankristal) [Logaritmo Natural 1.1x]](https://osu.ppy.sh/beatmapsets/1568619#mania/4185745)
   2. [DRIVE. - SO GRAND. (DannyPX) [EDITED [1.05x Rate]]](https://osu.ppy.sh/beatmapsets/1889155#mania/3890768)
   3. [Memme feat. M2U - Sky of the Ocean (Logan636) [Logan x HowToPlayLN's Troposphere x1.15]](https://osu.ppy.sh/beatmapsets/1876041#mania/3860743)
   4. [Camellia - Spin Eternally (FelixSpade) [LN Master]](https://osu.ppy.sh/beatmapsets/1855284#mania/4086966)
-- Hybrid  
+- Hybrid
   1. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (stupud man) [DIVINE PUNISHMENT 1.1x]](https://osu.ppy.sh/beatmapsets/1849062#mania/3798336)
   2. [Taiko de Time Travel 2765 / Camellia - The Future of the TAIKO DRUM (Lott) [Symphony of Unintelligible Dissonance 1.1x]](https://osu.ppy.sh/beatmapsets/2008759#mania/4178727)
   3. [cybermiso - corps-sans-organes (Extended ver.) (Abraxos) [living on; not getting better]](https://osu.ppy.sh/beatmapsets/1764892#mania/3635060)
@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
   1. [The Flashbulb - Mellann (Logan636) [Suffocation x1.1]](https://osu.ppy.sh/beatmapsets/1871430#mania/3850598)
   2. [BlueWind x UN1C0DE - Defended - Counterattack - (Lott) [Alien Invasion]](https://osu.ppy.sh/beatmapsets/1910856#mania/4158013)
   3. [AAAA Chazuke - Myosotis no Hanataba ([Crz]FolAH1217) [Forget Me LNot]](https://osu.ppy.sh/beatmapsets/1852973#mania/3807365)
-- Hybrid  
+- Hybrid
   1. [seatrus - ILLEGAL LEGACY (Ricizus) [Insane]](https://osu.ppy.sh/beatmapsets/1927403#mania/3980137)
   2. [O C T U R A HACHI OTO RA  @2088Official - C U R E ([Crz]hinako1804) [Artificial/Association/Attention x1.1]](https://osu.ppy.sh/beatmapsets/1820032#mania/4096677)
   3. [Culprate & Joe Ford - Gaucho (cut) (BringoBrango) [Gotcha]](https://osu.ppy.sh/beatmapsets/1328388#mania/2751773)
@@ -268,7 +268,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 7K
 
-#### Grand finals
+#### Grand Finals
 
 - Rice
   1. [ZUN - Phantasm Machine ~ Phantom Factory (spoonguy) [1.1x]](https://osu.ppy.sh/beatmapsets/1280519#mania/2659951)
@@ -390,7 +390,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 4K
 
-#### Grand finals
+#### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -448,7 +448,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 7K
 
-#### Grand finals
+#### Grand Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -506,7 +506,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-### Tournament organization
+### Tournament organisation
 
 #### Gamemode and introduction
 
@@ -543,7 +543,7 @@ The qualification round will have a 6-song mappool that widely varies in skillse
 
 All players will have two chances at each qualifier notechart, in which the highest of the two runs on each qualifier notechart will be used to calculate your final score.
 
-Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match.
+Players will be organised into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match.
 
 Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 
@@ -617,7 +617,7 @@ After the bans and rolls have concluded, the player with the winning roll instru
 
 - One player has achieved enough points to win the match. See the above mentioned [win conditions](#round-overview).
   - The winning player moves onto the next match.
-  - If the match was in the winner's bracket or during the first round, the losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+  - If the match was in the winner's bracket or during the first round, the losing player falls to the losers bracket. If a player loses in the loser's bracket, they are eliminated from the tournament.
 - Both players are at match point at the same time.
   - Both players will play the song designated as the tiebreaker.
   - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
