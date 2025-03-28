@@ -21,8 +21,8 @@ The **osu! Philippines Nationals 2022 - osu!mania 4K/7K** (***PHNM 2022***) was 
 | Round of 16 | 2022-06-18/2022-06-19 |
 | Quarterfinals | 2022-06-25/2022-06-26 |
 | Semifinals | 2022-07-02/2022-07-03 |
-| Finals week 1 | 2022-07-09/2022-07-10 |
-| Finals week 2 | 2022-07-16/2022-07-17 |
+| Finals | 2022-07-09/2022-07-10 |
+| Grand Finals | 2022-07-16/2022-07-17 |
 
 ## Prizes
 
@@ -640,13 +640,14 @@ Players who currently have (or had at some point since account creation) the Phi
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
 
-- Qualification stage: 6 song mappool, no winning condition, no tiebreaker song
-- Group stage: 10 song mappool, best of 7 (first to 4), one tiebreaker song
-- Round of 16: 12 song mappool, best of 9 (first to 5), one tiebreaker song
-- Quarterfinals: 14 song mappool, best of 11 (first to 6), one tiebreaker song
-- Semifinals, Finals Weeks 1 and 2: 16 song mappool, best of 13 (first to 7), one tiebreaker song
-
-The tournament is played 1 player versus 1 player
+| Stage | Format | Mappool size |
+| :-- | :-- | :-- |
+| Group stage | Best of 7 | 10 FM, 1 TB |
+| Round of 16 | Best of 9 | 12 FM, 1 TB |
+| Quarterfinals | Best of 11 | 14 FM, 1 TB |
+| Semifinals | Best of 13 | 16 FM, 1 TB |
+| Finals | Best of 13 | 16 FM, 1 TB |
+| Grand Finals | Best of 13 | 16 FM, 1 TB |
 
 Mods that are allowed to be used in matches, if the player opts to use them, are, Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, ScoreV2 is implemented.
 
