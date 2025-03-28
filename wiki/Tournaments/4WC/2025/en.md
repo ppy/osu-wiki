@@ -52,6 +52,8 @@ The 4 Digit World Cup 2025 is run by various community members.
 
 ## Links
 
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1_DWIlcFu985vNeNzSspWqjeJHva0X04fSNZA_2B0YPA)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2059343?n=1)
 - [Livestream](https://twitch.tv/4wcb)
 - [Challonge bracket](https://challonge.com/4WC2025)
 - [Discord server](https://discord.com/invite/uQarcRtB3u)
