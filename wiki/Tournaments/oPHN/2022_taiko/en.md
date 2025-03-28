@@ -294,7 +294,6 @@ This competition has come to an end and resulted in the following podium:
   - Double Time can be played as Nightcore if all players in the lobby agree to it.
   - Force Mod will be played either with Hidden, Hard Rock, or Hidden + Hard Rock.
   - Tiebreaker will be played with No Mod and will be only played in case of a tie.
-
 - The win condition and mappool size per stage are as follows:
 
 | Round stage | Best of | NM | HD | HR | DT | FM | TB |
