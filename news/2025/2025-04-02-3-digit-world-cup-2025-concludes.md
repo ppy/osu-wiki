@@ -94,7 +94,13 @@ Now heading into the last pick of the match, the Philippines had only one map in
 
 ## osu! originals
 
-pending
+This year's iteration saw 3WC delve into the production of osu! originals for the first time. With the assistance of Featured Arists [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [SiLiS](https://osu.ppy.sh/beatmaps/artists/434), and [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442), as well as mapper and composer [XenjeS](https://osu.ppy.sh/users/10166905), we are proud to present 4 brand-new additions to osu!'s catalogue.
+
+You can find the original difficulties played in the tournament by clicking on the banners below, as well as full sets for [AZENINE](pending) and [Night Sky Solitude](pending)!
+
+(pending audio)
+
+### Grand Finals
 
 ## Interviews
 
