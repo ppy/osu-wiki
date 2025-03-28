@@ -75,8 +75,9 @@ The 4 Digit World Cup 2025 is run by various community members.
 - After registrations close, players are allowed to leave the rank range.
 - Match schedules and other events will be displayed in **UTC time**.
 - Matches can be rescheduled if both teams agree to a time and communicate it to the tournament organisers **before Thursday 23:59 UTC** of the week the match is to take place on.
+  - Reschedule discussions are recommended to be carried out within threads in the scheduling channel to allow for faster intervention by the tournament organisers in the case of any disputes.
 - Staff members, with the exception of streamers and commentators, are not allowed to play in the tournament.
-- The tournament organisers reserve the right to modify the rules at any moment.
+- The tournament organisers reserve the right to modify the rules at any moment as they see fit.
   - Any changes to the rules will be clearly communicated to the players.
 
 ### Conduct
