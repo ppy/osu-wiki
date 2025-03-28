@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5f7ace462919260cdd997244c190771bb68ff0c2
+---
+
 # Comunidad
 
 Esta página enumera las formas en que las personas de todo osu! pueden ponerse en contacto entre sí. Si estás buscando oportunidades de contribución, pero no sabes por dónde empezar, asegúrate de leer [¡Cómo puedes ayudar!](/wiki/Community/How_you_can_help!)
