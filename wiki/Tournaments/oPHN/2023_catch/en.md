@@ -56,12 +56,12 @@ The osu! Philippines Nationals 2023 - osu!catch is ran by various community memb
 
 ### General rules
 
-- Score V2 will be used.
-- NoFail will be enforced regardless of the mod being used per map.
+- ScoreV2 will be used.
+- No Fail will be enforced regardless of the mod being used per map.
 
 ### Qualifier stage
 
-- There will be 5 maps, consisting of 2 NoMod, 1 Hidden, 1 HardRock and 1 DoubleTime.
+- There will be 5 maps, consisting of 2 No Mod, 1 Hidden, 1 Hard Rock and 1 Double Time.
 - Players will be scheduled to a multiplayer room according to their availability.
 - Each player will get 2 attempts at each map, only the best attempt for each map will count.
 - Each map will have its own leaderboard, and each player's overall seed will be determined by the average of these ranks.
