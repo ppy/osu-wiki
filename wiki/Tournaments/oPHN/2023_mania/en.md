@@ -617,7 +617,7 @@ After the bans and rolls have concluded, the player with the winning roll instru
 
 - One player has achieved enough points to win the match. See the above mentioned [win conditions](#round-overview).
   - The winning player moves onto the next match.
-  - If the match was in the winner's bracket or during the first round, the losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+  - If the match was in the winner's bracket or during the first round, the losing player falls to the losers bracket. If a player loses in the loser's bracket, they are eliminated from the tournament.
 - Both players are at match point at the same time.
   - Both players will play the song designated as the tiebreaker.
   - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.

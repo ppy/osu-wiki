@@ -312,14 +312,14 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers regulations
 
-1. Players must sign up to one of the Qualifier lobbies provided by the hosts. Instructions will be announced after the Qualifiers mappool showcase. Players may request a special lobby if needed, as long as a referee is available at the requested time. A player that doesn’t pick a time slot before Thursday 23:59 will be disqualified.
+1. Players must sign up to one of the Qualifier lobbies provided by the hosts. Instructions will be announced after the Qualifiers mappool showcase. Players may request a special lobby if needed, as long as a referee is available at the requested time. A player that doesn't pick a time slot before Thursday 23:59 will be disqualified.
 2. There will be no warmups in any Qualifier lobby. The mappool will be played twice during a lobby, and will be played in the following order: NM1, NM2, NM3, HD1, HR1 ,DT1, FM1. A 5-minute break will be offered between the first and second run of the mappool, which can be skipped if all players in the lobby are ready. A player may skip certain maps during their second run if they so desire.
-3. The player’s highest score for each map will be used for seeding. Players will be ordered by overall rank, which is computed by taking the average of their rankings on each map. In case of a tie, the sum of the top scores of the tied players are taken into account instead. Sharing of scores before the results showcase is discouraged.
+3. The player's highest score for each map will be used for seeding. Players will be ordered by overall rank, which is computed by taking the average of their rankings on each map. In case of a tie, the sum of the top scores of the tied players are taken into account instead. Sharing of scores before the results showcase is discouraged.
 4. The number of players that will advance to the next stage will depend on the total number of participants.
 
 ### Match regulations
 
-1. Each player is allowed (but not required) to have a warm-up with length below 3:00. Players may request to use Double Time if the map length is slightly above the restriction. The players must give the map link to their referee 10 minutes before their match. Otherwise, the player’s warm-up is skipped.
+1. Each player is allowed (but not required) to have a warm-up with length below 3:00. Players may request to use Double Time if the map length is slightly above the restriction. The players must give the map link to their referee 10 minutes before their match. Otherwise, the player's warm-up is skipped.
 2. The assigned referee will create a private multiplayer lobby 15 minutes in advance. They will be notifying and sending invites to players near match time. The match can be postponed up to 10 minutes.
 3. Win by default, or WBD, is considered a win without losses in favor of the present player. If a player is absent, the other player may either reschedule the match or take the WBD. If both players are absent, both players may either reschedule the match or the higher-seeded player will take the WBD.
 4. Rolls will decide the ban and pick order for each player. The player with the highest roll bans second and picks first while the player with the lowest roll bans first and picks second. Each player must name their bans and picks within 2 minutes. Otherwise, their bans and picks will be decided by a roll.
