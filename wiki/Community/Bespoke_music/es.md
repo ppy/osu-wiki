@@ -1294,12 +1294,6 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/gts-orchestra-team-wie-der "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r_oHmD-iy3M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2nJbymPLN98Hwx44DGzX3S "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/wie-der-bambus-steht-starr-in-der-stille-der-dunkelheit "Bandcamp") |  | GTS Orchestra Team - Wie der Bambus steht, starr in der Stille der Dunkelheit[^fa] |  | Música del tráiler |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/uchphppii24c/crevasse-hoar "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r9A5q7dyga0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2xloLqcF9O0vVeagpgMDn8 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://nullspecification.bandcamp.com/track/crevasse-hoar "Bandcamp") |  | Null Specification - Crevasse Hoar | [#1](https://osu.ppy.sh/beatmapsets/1952276) | Mapa de desempate de las finales |
 
-#### ![](/wiki/shared/mode/taiko.png) [Touhou Mania Cup 3rd](https://osu.ppy.sh/community/forums/topics/1751979)
-
-| Enlaces |  | Canción | Beatmap | Notas |
-| --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/supa7onyz/thmc3-gftb-noma-nadeshiko-sanzu-no-kawa-ninngyou-gekijyou "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Supa7onyz&query=%22Sanzu%20no%20Kawa%20Ninngyou%20Gekijyou%22 "osu! original") | Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou | [#1](https://osu.ppy.sh/beatmapsets/2016006) | Mapa de desempate de la gran final |
-
 #### ![](/wiki/shared/mode/taiko.png) [Vietnam osu!taiko Tournament 3](https://osu.ppy.sh/community/forums/topics/1778852)
 
 | Enlaces |  | Canción | Beatmap | Notas |
@@ -1633,6 +1627,12 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/2kyphos "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/4IwcH5hM5P3QrzEgRLwyvZ "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/2kyphos "Bandcamp") |  | Sydosys - 2KYPHOS[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2291127) | Mapa de desempate de la gran final |
 |  |  | Terminal 11 - Arthralgia | [#1](https://osu.ppy.sh/beatmapsets/2291128) | RC3 de la gran final |
 |  |  | Toromaru - Synapse[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2284773#mania/4873073) | LN1 de las semifinales |
+
+#### ![](/wiki/shared/mode/mania.png) [Touhou Mania Cup 3rd](https://osu.ppy.sh/community/forums/topics/1751979)
+
+| Enlaces |  | Canción | Beatmap | Notas |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/supa7onyz/thmc3-gftb-noma-nadeshiko-sanzu-no-kawa-ninngyou-gekijyou "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Supa7onyz&query=%22Sanzu%20no%20Kawa%20Ninngyou%20Gekijyou%22 "osu! original") | Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou | [#1](https://osu.ppy.sh/beatmapsets/2016006) | Mapa de desempate de la gran final |
 
 #### ![](/wiki/shared/mode/mania.png) [Vietnamese National Mania Championship 2023 - Oblitus Requiem](https://osu.ppy.sh/community/forums/topics/1779599)
 
