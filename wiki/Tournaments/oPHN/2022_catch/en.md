@@ -62,7 +62,7 @@ The osu! Philippines Nationals 2022 - osu!catch was run by various community mem
 - ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653)
 - ::{ flag=PH }:: [Laqure](https://osu.ppy.sh/users/1642435)
 - ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865)
-- ::{ flag=UK }:: [arwab](https://osu.ppy.sh/users/16496103)
+- ::{ flag=GB }:: [arwab](https://osu.ppy.sh/users/16496103)
 - ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544)
 - ::{ flag=PH }:: [Puro and Colin](https://osu.ppy.sh/users/14391949)
 - ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693)
@@ -76,7 +76,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | :{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) |
 
 ## Mappool
