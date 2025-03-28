@@ -761,7 +761,7 @@ After the bans and rolls have concluded, the player with the winning roll instru
 
 - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - The winning player moves onto the next match.
-  - During the Group Stage, the losing player will be directed by the stipulations outlined in Section 1.5 of this ruleset.
+  - During the Group Stage, the losing player will be directed by the stipulations outlined in the [group stage](#group-stage) section of this ruleset.
 - Both players are at match point at the same time.
   - Both players will play the song designated as the tiebreaker.
   - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the player in the tournament.
@@ -778,7 +778,7 @@ Maps with a player disconnection that occurs within the first 30 seconds, or 25%
 
 Matches will have a two disconnection limit; on the third disconnection, a point will be handed immediately to the player still active in the multiplayer room.
 
-A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the 10 minute grace period mentioned in Section 2.1 (Protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
+A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the 10 minute grace period mentioned in the [match protocol](#match-protocol) section will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 
 Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
