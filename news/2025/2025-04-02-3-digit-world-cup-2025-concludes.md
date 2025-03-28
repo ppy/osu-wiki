@@ -48,7 +48,17 @@ From that point on, the teams fought back and forth, neither giving an inch with
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/w-uiBSqM0s0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-pending recap
+Coming into the first round of the losers' bracket, Austria-Hungary and Finland were both eager to avoid being eliminated without a single match win. Finland, with a near-95% equity on the Pick'em and a stronger qualifying performance, was more than equipped to take on the 4-player merged roster of Austria-Hungary.
+
+But right off the bat, Austria-Hungary would show that they did not come to mess around, with ::{ flag=HU }:: [defii](https://osu.ppy.sh/users/8698024)'s full combo on [DT1](https://osu.ppy.sh/beatmapsets/1866176#osu/3838647) securing them the first point of the match. The match would continue with both teams taking their own picks fairly comfortably, until at 2–2 the [HD1](https://osu.ppy.sh/beatmapsets/2268520#osu/4831196) pick of Austria-Hungary would backfire, giving the first first break point of the match to Finland with a slim margin of 78,006 points. Now ready to capitalise on the advantage and consolidate the break point, Finland would opt for [NM2](https://osu.ppy.sh/beatmapsets/2325281#osu/4984190) and dismantle the opponents with the largest score lead seen so far in the match, led by a full combo from ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251).
+
+Set back to 2–4, Austria-Hungary would have to try something new. They decide to strike back with the reading-focused [NM1](https://osu.ppy.sh/beatmapsets/1770758#osu/3624869), where Finland was no match for the full combo of ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131), resulting in a score lead of nearly the magnitude of the previous pick. Finland would follow up by taking their own pick of [NM3](https://osu.ppy.sh/beatmapsets/1235834#osu/2569027), putting them at match point at 5–3.
+
+Now with one life left, Austria-Hungary would play into the gamble of [FM2](https://osu.ppy.sh/beatmapsets/364574#osu/800237). The pick would start in their favor, until a triple break halfway through would give Finland a massive opportunity to close out the match. But just as it was looking all clear, the last of Finland's bigger combos would fall, giving Austria-Hungary barely enough time to pull the score lead back by a margin of just 22,852 points.
+
+With the last pick of the match remaining, Finland would stick with what had worked before, going for [https://osu.ppy.sh/beatmapsets/624607#osu/1316417] to capitalise off of their tapping. But however stronger their potential might have been, the consistency on the side of Austria-Hungary would hold strong, with a standout score of 768,670 from ::{ flag=HU }:: [defii](https://osu.ppy.sh/users/8698024) helping the team grab the break point and bring the match to tiebreaker.
+
+The [tiebreaker](https://osu.ppy.sh/beatmapsets/1626172#osu/3320026) would start off with neither team holding a big advantage, until a full reset towards the halfway point gave Austria-Hungary a 60,000 point lead with their players holding just a bit longer. This lead would persist on and even grow, with ::{ flag=HU }:: [defii](https://osu.ppy.sh/users/8698024) stepping up again with a gigantic 2,257 combo at the end of the map for a score of 582,451 to secure the map and finish the comeback upset.
 
 ### Finals: ::{ flag=DE }:: Germany vs. ::{ flag=GB }:: United Kingdom
 
