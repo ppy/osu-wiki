@@ -28,6 +28,8 @@ The **osu! Philippines Nationals 2023 (osu!catch)** (***PHNC 2023***) is a one-o
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.png "osu! Philippines Nationals 2023 - osu!catch winner badge")
+
 ## Organisation
 
 The osu! Philippines Nationals 2023 - osu!catch is ran by various community members.
