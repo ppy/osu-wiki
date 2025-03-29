@@ -29,7 +29,7 @@ The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!ma
 | Quarterfinals | 2025-03-07/2025-03-09 |
 | Semifinals | 2025-03-14/2025-03-16 |
 | Finals | 2025-03-21/2025-03-23 |
-| Grand Finals | 2025-03-28/2025-03-30 |
+| Grand Finals | 2025-03-28/2025-04-06 |
 
 ## Prizes
 
@@ -197,24 +197,22 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 <!--## Podium-->
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, 22 March 2025
-
-| Team A | Team B | Match time | Stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Chodan | Retirados y Peligrosos | [Mar 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250322T140000&p1=1440&p2=3911&p3=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
-
-### Sunday, 23 March 2025
+### Saturday, 05 April 2025
 
 | Team A | Team B | Match time | Stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Girlfriend ASMR | Girls Band Cry | [Mar 23 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T050000&p1=1440&p2=3922&p3=3920&p4=3910) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
-| Gravity Coil | Mahjong Soul Official | [Mar 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T100000&p1=1440&p2=3920&p3=3909&p4=3911&p5=3910) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
-| Girls Band Cry | Chodan | [Mar 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T130000&p1=1440&p2=3910&p3=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
-| Girlfriend ASMR | Chodan | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3922&p3=3920&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
-| Girls Band Cry | Retirados y Peligrosos | [Mar 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T150000&p1=1440&p2=3910&p3=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
-| Girlfriend ASMR | Retirados y Peligrosos | [Mar 23 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250323T210000&p1=1440&p2=3922&p3=3920&p4=3917) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^potential-match] |
+| Girlfriend ASMR | Gravity Coil | [Apr 05 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250405T040000&p1=1440&p2=3922&p3=3920&p4=3909&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-grand-finals] |
+
+### Sunday, 06 April 2025
+
+| Team A | Team B | Match time | Stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| Mahjong Soul Official | Girlfriend ASMR | [Apr 06 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T040000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^grand-finals] |
+| Girlfriend ASMR | Mahjong Soul Official | [Apr 06 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^bracket-reset] |
+| Mahjong Soul Official | Gravity Coil | [Apr 06 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T100000&p1=1440&p2=3909&p3=3910&p4=3920&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^grand-finals] |
+| Gravity Coil | Mahjong Soul Official | [Apr 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T120000&p1=1440&p2=3909&p3=3910&p4=3920&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^bracket-reset] |
 
 ## Mappools
 
@@ -397,6 +395,24 @@ The Touhou Project Mania Cup 4th is run by various community members.
 6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan) \[Stage 6\: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
 
 ## Match results
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TtP_e_msAag8sS7YnKfiiV0jUvLcwofw_yMQGT1Hjmw/).
+
+Saturday, 22 March 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Chodan** | **7** | 3 | Retirados y Peligrosos | [#1](https://osu.ppy.sh/community/matches/117557860) | [#1](https://www.youtube.com/watch?v=awt3FwYCL5U&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1ieXaYsEMd) |
+
+Sunday, 23 March 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Girlfriend ASMR** | **7** | 2 | Girls Band Cry | [#1](https://osu.ppy.sh/community/matches/117566675) | [#1](https://www.youtube.com/watch?v=63ltmoWxC1Y&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1BtXaYbE36) |
+| Gravity Coil | 5 | **7** | **Mahjong Soul Official** | [#1](https://osu.ppy.sh/community/matches/117568314) | [#1](https://www.youtube.com/watch?v=NbuOA893Cmk&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1JzokYiEK2) |
+| **Girlfriend ASMR** | **7** | 5 | Chodan | [#1](https://osu.ppy.sh/community/matches/117570977) | [#1](https://www.youtube.com/watch?v=SjIHoFPAQlQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1A8okYkEZu) |
 
 ### Semifinals
 
@@ -847,7 +863,7 @@ The weights for the Qualifiers are as follows:
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches 
+[^losers-grand-finals]: Losers bracket Grand Finals match
+[^grand-finals]: Grand Finals — final matchup depends on the Losers bracket Grand Finals match
+[^bracket-reset]: Grand Final Bracket Reset match — final matchup depends on the Losers bracket Grand Finals & Grand Final match
 [^qualifiers-seeding]: Used as the main seeding method

@@ -1165,7 +1165,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/myukke/red-screen-of-lifefor-egts-2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=SHH3h2lCBxg "YouTube") |  | MYUKKE. - Red Screen of Life[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2329036) | Round of 16 HR1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-721414606/daybreak "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=MygwuZxuRZc "YouTube") |  | N\_dog feat. Kyoyama Sail - Daybreak | [#1](https://osu.ppy.sh/beatmapsets/2340153) | Finals NM3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/normalmusiccc/91aa81d4-7c64-45f9-a381-d7a5bf4da189 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=69BhTb615Pc "YouTube") |  | NormalM - Zeus [GOD OF THUNDER] | [#1](https://osu.ppy.sh/beatmapsets/2333004) | Quarterfinals NM3 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/egts2025-nymphae-sylvae-feat-ia-flower "SoundCloud") [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/egts2025-nymphae-sylvae-feat-ia-flower "SoundCloud") |  | ptar124 feat. IA, flower & SEKAI - nymphae silvae[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2340091) | Finals NM1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/egts2025-nymphae-sylvae-feat-ia-flower "SoundCloud") |  | ptar124 feat. IA, flower & SEKAI - nymphae silvae[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2340091) | Finals NM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rinya-p/siegfried "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=qud9YeyMDSQ "YouTube") |  | RINYA - Siegfried | [#1](https://osu.ppy.sh/beatmapsets/2336555) | Semifinals NM6 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/linearfeedback "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=c5zD6Mpst8M "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roer.bandcamp.com/track/linear-feedback "Bandcamp") |  | roer & Abstract 64 - Linear Feedback | [#1](https://osu.ppy.sh/beatmapsets/2336550) | Semifinals NM3 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=e9k7x2Z2mD8 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roundwavecrusher.bandcamp.com/album/disintegrate-egts2025 "Bandcamp") |  | Round Wave Crusher - Disintegrate | [#1](https://osu.ppy.sh/beatmapsets/2333023) | Quarterfinals HR2 |
@@ -1290,12 +1290,6 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/gts-orchestra-team-wie-der "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r_oHmD-iy3M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2nJbymPLN98Hwx44DGzX3S "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/wie-der-bambus-steht-starr-in-der-stille-der-dunkelheit "Bandcamp") |  | GTS Orchestra Team - Wie der Bambus steht, starr in der Stille der Dunkelheit[^fa] |  | Trailer music |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/uchphppii24c/crevasse-hoar "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r9A5q7dyga0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2xloLqcF9O0vVeagpgMDn8 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://nullspecification.bandcamp.com/track/crevasse-hoar "Bandcamp") |  | Null Specification - Crevasse Hoar | [#1](https://osu.ppy.sh/beatmapsets/1952276) | Finals tiebreaker |
-
-#### ![](/wiki/shared/mode/taiko.png) [Touhou Mania Cup 3rd](https://osu.ppy.sh/community/forums/topics/1751979)
-
-| Links |  | Song | Beatmap | Notes |
-| --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/supa7onyz/thmc3-gftb-noma-nadeshiko-sanzu-no-kawa-ninngyou-gekijyou "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Supa7onyz&query=%22Sanzu%20no%20Kawa%20Ninngyou%20Gekijyou%22 "osu! original") | Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou | [#1](https://osu.ppy.sh/beatmapsets/2016006) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Vietnam osu!taiko Tournament 3](https://osu.ppy.sh/community/forums/topics/1778852)
 
@@ -1630,6 +1624,12 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/2kyphos "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/4IwcH5hM5P3QrzEgRLwyvZ "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/2kyphos "Bandcamp") |  | Sydosys - 2KYPHOS[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2291127) | Grand Finals tiebreaker |
 |  |  | Terminal 11 - Arthralgia | [#1](https://osu.ppy.sh/beatmapsets/2291128) | Grand Finals RC3 |
 |  |  | Toromaru - Synapse[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2284773#mania/4873073) | Semifinals LN1 |
+
+#### ![](/wiki/shared/mode/mania.png) [Touhou Mania Cup 3rd](https://osu.ppy.sh/community/forums/topics/1751979)
+
+| Links |  | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/supa7onyz/thmc3-gftb-noma-nadeshiko-sanzu-no-kawa-ninngyou-gekijyou "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Supa7onyz&query=%22Sanzu%20no%20Kawa%20Ninngyou%20Gekijyou%22 "osu! original") | Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou | [#1](https://osu.ppy.sh/beatmapsets/2016006) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [Vietnamese National Mania Championship 2023 - Oblitus Requiem](https://osu.ppy.sh/community/forums/topics/1779599)
 
