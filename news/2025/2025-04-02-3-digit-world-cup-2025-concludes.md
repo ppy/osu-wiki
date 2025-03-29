@@ -56,7 +56,7 @@ Set back to 2–4, Austria-Hungary would have to try something new. They decide 
 
 Now with one life left, Austria-Hungary would play into the gamble of [FM2](https://osu.ppy.sh/beatmapsets/364574#osu/800237). The pick would start in their favor, until a triple break halfway through would give Finland a massive opportunity to close out the match. But just as it was looking all clear, the last of Finland's bigger combos would fall, giving Austria-Hungary barely enough time to pull the score lead back by a margin of just 22,852 points.
 
-With the last pick of the match remaining, Finland would stick with what had worked before, going for [https://osu.ppy.sh/beatmapsets/624607#osu/1316417] to capitalise off of their tapping. But however stronger their potential might have been, the consistency on the side of Austria-Hungary would hold strong, with a standout score of 768,670 from ::{ flag=HU }:: [defii](https://osu.ppy.sh/users/8698024) helping the team grab the break point and bring the match to tiebreaker.
+With the last pick of the match remaining, Finland would stick with what had worked before, going for [DT2](https://osu.ppy.sh/beatmapsets/624607#osu/1316417) to capitalise off of their tapping. But however stronger their potential might have been, the consistency on the side of Austria-Hungary would hold strong, with a standout score of 768,670 from ::{ flag=HU }:: [defii](https://osu.ppy.sh/users/8698024) helping the team grab the break point and bring the match to tiebreaker.
 
 The [tiebreaker](https://osu.ppy.sh/beatmapsets/1626172#osu/3320026) would start off with neither team holding a big advantage, until a full reset towards the halfway point gave Austria-Hungary a 60,000 point lead with their players holding just a bit longer. This lead would persist on and even grow, with ::{ flag=HU }:: [defii](https://osu.ppy.sh/users/8698024) stepping up again with a gigantic 2,257 combo at the end of the map for a score of 582,451 to secure the map and finish the comeback upset.
 
@@ -98,7 +98,7 @@ This year's iteration saw 3WC delve into the production of osu! originals for th
 
 You can find the original difficulties played in the tournament by clicking on the banners below, as well as full sets for [AZENINE](pending) and [Night Sky Solitude](pending)!
 
-(pending audio)
+pending audio
 
 ### Grand Finals
 
