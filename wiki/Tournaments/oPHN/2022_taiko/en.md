@@ -30,6 +30,8 @@ The **osu! Philippines Nationals 2022 - osu!taiko** (***PHNT 2022***) was a one-
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,200 Philippine pesos |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 900 Philippine pesos |
 
+![](img/badge.png "osu! Philippines Nationals 2022 - osu!taiko winner badge")
+
 ## Organisation
 
 The osu! Philippines Nationals 2022 - osu!taiko was run by various community members.

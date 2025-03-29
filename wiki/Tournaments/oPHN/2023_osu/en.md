@@ -31,6 +31,8 @@ The **osu! Philippines Nationals 2023 - osu!** (***PHNS 2023***) was a one-on-on
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month osu!supporter |
 
+![](img/badge.png "osu! Philippines Nationals 2023 - osu! winner badge")
+
 ## Organisation
 
 The osu! Philippines Nationals 2023 - osu! was run by various community members.

@@ -28,6 +28,8 @@ The **osu! Philippines Nationals 2023 - osu!taiko** (***PHNT 2023***) was a one-
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.png "osu! Philippines Nationals 2023 - osu!taiko winner badge")
+
 ## Organisation
 
 The osu! Philippines Nationals 2023 - osu!taiko was run by various community members.
