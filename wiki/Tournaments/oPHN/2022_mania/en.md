@@ -30,6 +30,10 @@ The **osu! Philippines Nationals 2022 - osu!mania 4K/7K** (***PHNM 2022***) was 
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge-4K.png "osu! Philippines Nationals 2022 - osu!mania 4K winner badge")
+
+![](img/badge-7K.png "osu! Philippines Nationals 2022 - osu!mania 7K winner badge")
+
 ## Organisation
 
 The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various community members.
