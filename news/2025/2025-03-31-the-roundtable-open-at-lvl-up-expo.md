@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Roundtable Open @ LVL UP EXPO"
+title: The Roundtable Open @ LVL UP EXPO
 date: 2025-03-31 20:00:00 +0000
 ---
 
