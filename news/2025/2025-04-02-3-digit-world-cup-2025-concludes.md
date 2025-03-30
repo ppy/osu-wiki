@@ -94,13 +94,37 @@ Now heading into the last pick of the match, the Philippines had only one map in
 
 ## osu! originals
 
-This year's iteration saw 3WC delve into the production of osu! originals for the first time. With the assistance of Featured Arists [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [SiLiS](https://osu.ppy.sh/beatmaps/artists/434), and [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442), as well as mapper and composer [XenjeS](https://osu.ppy.sh/users/10166905), we are proud to present 4 brand-new additions to osu!'s catalogue.
+This year's iteration saw 3WC delve into the production of [osu! originals](https://osu.ppy.sh/wiki/en/Community/Bespoke_music) for the first time. With the assistance of Featured Arists [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [SiLiS](https://osu.ppy.sh/beatmaps/artists/434), and [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442), as well as mapper and composer [XenjeS](https://osu.ppy.sh/users/10166905), we are proud to present 4 brand-new additions to osu!'s catalogue.
 
-You can find the original difficulties played in the tournament by clicking on the banners below, as well as full sets for [AZENINE](pending) and [Night Sky Solitude](pending)!
+You can find the original difficulties played in the tournament by clicking the banners, while the full sets for [AZENINE](pending) and [Night Sky Solitude](pending) will be managed in a separate set. If you are interested in mapping any of the songs yourself, you can already find the pre-timed osz's on 3WC 2025's album in the [community music FA listing](pending)!
+
+### Finals
+
+[![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/night-sky-solitude-banner.jpg)](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943)
 
 pending audio
 
+[XenjeS](https://osu.ppy.sh/users/10166905) makes his appearance with the first osu! original in 3WC with his classic hard trance style in [Night Sky Solitude](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943), simultaneously making his breakthrough out of the Ukranian tournament sphere and his debut in the Featured Artist listing. What better mapper to pair with the track than [nooj](https://osu.ppy.sh/users/8271086), creating a perfect test of aim and tapping control.
+
+[![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/azenine-banner.jpg)](https://osu.ppy.sh/beatmapsets/2333230#osu/5006948)
+
+pending audio
+
+Despite being only in the Finals stage, perceived by some players as the hardest map of the tournament is [AZENINE](https://osu.ppy.sh/beatmapsets/2333230#osu/5006948), a crazy collaboration between [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) and [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442)  featuring vocals from [Eili](https://x.com/frenlize). Mapper [Bazuso](https://osu.ppy.sh/users/11726139) did not hold back, featuring some very challenging streams and sliders, tested with Hidden in the tournament as the cherry on top.
+
 ### Grand Finals
+
+[![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/rotted-as-the-queen-of-the-rats-banner.jpg)](https://osu.ppy.sh/beatmapsets/2337064#osu/5017759)
+
+pending audio
+
+Another newer face to the osu!standard scene, osu!mania savant and established osu! World Cup artist [Akiri](https://osu.ppy.sh/beatmaps/artists/401) shows up with [ROTTED AS THE QUEEN OF THE RATS](https://osu.ppy.sh/beatmapsets/2337064#osu/5017759), acting as a lore continuation of [Soul Seeker](https://osu.ppy.sh/beatmapsets/2307396#fruits/4934875) from [Polish Catch Tournament 2024](https://osu.ppy.sh/community/forums/topics/2004054). This genre-switching, yet consistently thematic song acted as a mechanics focused tech map in the No Mod pool, mapped by none other than [xLolicore-](https://osu.ppy.sh/users/4525153).
+
+[![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/zyphoranth-quixalune-banner.jpg)](https://osu.ppy.sh/beatmapsets/2337098#osu/5017830)
+
+pending audio
+
+Of course we cannot forget to round things off with our very own original Grand Finals tiebreaker. [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442) makes her second appearance of the tournament with this insane 6 minute solo project of [Zyphorath Quixalune](https://osu.ppy.sh/beatmapsets/2337098#osu/5017830). Already established as THE tiebreaker mapper duo, [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) conjoured this amazing final experience that saw South Korea and the United States duke it out on as the very final map of the tournament!
 
 ## Interviews
 
@@ -336,10 +360,6 @@ Many people have varying thoughts about what a "good" or a "fun" mappool can be.
 That being said, it's important in my opinion to always voice your own thoughts in certain cases. If I heavily disagree with a specific pick being used, I should make it my priority after testing it to make it known to the hosts/mappoolers in order for it to be considered for swapping. Not being well versed in the mapping aspect of the game but more so the playing side also helps me empathize with the participating players more, however, sometimes we all make mistakes and I might have a miscalculation over the difficulty of some maps due to that. To conclude, I feel that playtesting is just as important as mappooling itself but communication is always key, and having multiple testplayers could considerably help with quality assurance.
 
 </div>
-
-## Statistics
-
-cool STATS
 
 ---
 
