@@ -34,9 +34,9 @@ The event is **3 days**, lasting from **April 25th to April 27th**. A valid badg
 
 | Date | Day | Hours |
 | --: | :-- | :-- |
-| April 25 | Friday | 12:00PM to 8:00PM |
-| April 26 | Saturday | 11:00AM to 8:00PM |
-| April 27 | Sunday | 11:00AM to 6:00PM |
+| April 25 | Friday | 12:00 PM to 8:00 PM |
+| April 26 | Saturday | 11:00 AM to 8:00 PM |
+| April 27 | Sunday | 11:00 AM to 6:00 PM |
 
 ## What are the tournament prizes?
 
@@ -79,7 +79,7 @@ Mappools for both divisions will be revealed during the event!
 | Stage | Day | Notes |
 | --: | :-- | :-- |
 | **Registration** | Before qualifiers finish | [Register here](https://www.start.gg/tournament/the-roundtable-x-lvlup-expo-division-2/details) or at the event! This division is intended for semi-casual players who want to experience osu! in a competitive setting. |
-| **Qualifiers** | Saturday | Qualifiers lobbies run hourly. After checking in on-site, you'll be assigned to a qualifiers lobby. Top 16 players from qualifiers will move onto the bracket stage. |
+| **Qualifiers** | Saturday | Qualifier lobbies run hourly. After checking in on-site, you'll be assigned to a qualifier lobby. The top 16 players from the qualifiers will move onto the bracket stage. |
 | **Round of 16** | Sunday | Best of 7, 1 ban |
 | **Quarterfinals** | Sunday | Best of 9, 1 ban |
 | **Semifinals** | Sunday | Best of 9, 1 ban |
@@ -88,7 +88,7 @@ Mappools for both divisions will be revealed during the event!
 
 ## Can I help out?
 
-If your dream is to wrangle osu! players to their designated PCs, you can [apply to be a volunteer for the tournament here!](https://x.com/TheRoundtableLA/status/1900661907608268990) If accepted, you'll receive a 3-day volunteer badge at no cost.
+If your dream is to wrangle osu! players to their designated PCs, you can [apply to be a volunteer for the tournament here!](https://docs.google.com/forms/d/e/1FAIpQLSex7f1YZfbUQbmR8gdb7_7dy-rNFk0Tz7Y6o7s04V7h7S0ooQ/viewform) If accepted, you'll receive a 3-day volunteer badge at no cost.
 
 ---
 
