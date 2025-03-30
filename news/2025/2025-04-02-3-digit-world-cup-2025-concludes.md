@@ -369,4 +369,4 @@ This iteration of the 3 Digit World Cup would not have been possible without the
 
 Thank you to everyone involved from staff, to players, to spectators. See you all again in 2026!
 
-—shdewz, nik, this1neguy, I-Flame
+—shdewz, nik, this1neguy, I-Flame, Damarsh
