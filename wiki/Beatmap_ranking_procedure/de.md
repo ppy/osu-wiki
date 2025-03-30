@@ -23,7 +23,7 @@ Der Ersteller einer Beatmap kann seine Einsendungen als `Work in Progress` oder 
 
 Durch [Modding](/wiki/Modding) erhält man konstruktive Kritik für eine Beatmap und kann so die Qualität der Beatmap steigern. Üblicherweise veröffentlichen Nutzer ihr Feedback auf der [Diskussionsseite](/wiki/Beatmap_discussion) einer Beatmap oder reden mit dem Ersteller direkt über Probleme.
 
-Die Qualitätsstandards für die Ranked-Kategorie sind hoch, beim Modding müssen also viele Punkte beachtet werden. Manchmal kann es auch passieren, dass Beatmaps komplett neu gemacht werden müssen.
+Die Qualitätsstandards für die Ranked-Kategorie sind hoch, beim Modding müssen also viele Punkte beachtet werden. Für die Erstellung qualitativ hochwertiger Beatmaps ist viel Erfahrung notwendig. Unerfahrene Beatmap-Ersteller müssen ihre Beatmaps potentiell an vielen Stellen überarbeiten. Manchmal kann es auch passieren, dass Beatmaps komplett neu gemacht werden müssen.
 
 Bevor die Beatmap für das Ranking nominiert wird, müssen mindestens 5 verschiedene Nutzer einen [Hype](/wiki/Beatmap/Hype) vergeben.
 
