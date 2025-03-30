@@ -92,7 +92,7 @@ If your dream is to wrangle osu! players to their designated PCs, you can [apply
 
 ---
 
-Mark your calendars: **April 25th** to **April 27th** are the dates for the first iteration of **The Roundtable Open**. Grab your tickets from [LVL UP EXPO's website](https://lvlupexpo.com/) with code `OSULVLUP25` for $10 off a 3-day badge.
+Mark your calendars: **April 25th** to **April 27th** are the dates for the first iteration of **The Roundtable Open**. Grab your tickets from [LVL UP EXPO's website](https://lvlupexpo.com/).
 
 We'll see you there!
 
