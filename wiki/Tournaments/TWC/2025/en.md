@@ -497,7 +497,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Late reschedule requests will not be accepted under any circumstances, unless adequate reasoning is provided.
 6. Captains are responsible for their team's availability.
 
-
 ## Notes
 
 [^winners-bracket]: Winners bracket match
