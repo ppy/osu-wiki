@@ -50,9 +50,9 @@ In *osu!catch* fallen Früchte verschiedener Sorten vom oberen Bildschirmrand he
 
 ![Gameplay von osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania-Gameplay")
 
-## Andere Spielmodi
+## Benutzerdefinierte Spielmodi
 
-Mit `.dll`-Dateien kann man in osu!(lazer) weitere Spielmodi (auch genannt Rulesets) manuell installieren. Durch sie hat man neue Möglichkeiten, das Spiel und seine Beatmaps zu spielen. Eigene Spielmodi, ähnlich wie die Hauptspielmodi, sind oft von anderen Rhythmusspielen inspiriert.
+Mit `.dll`-Dateien kann man in osu!(lazer) weitere Spielmodi (auch genannt Rulesets) manuell installieren. Durch sie hat man neue Möglichkeiten, das Spiel und seine Beatmaps zu spielen. Benutzerdefinierte Spielmodi, ähnlich wie die Hauptspielmodi, sind oft von anderen Rhythmusspielen inspiriert.
 
 Eine vollständige Liste aller benutzerdefinierten Spielmodi kann [dieser GitHub-Diskussion](https://github.com/ppy/osu/discussions/13096) entnommen werden.
 
