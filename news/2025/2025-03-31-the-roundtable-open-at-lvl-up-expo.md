@@ -66,7 +66,7 @@ Mappools for both divisions will be revealed during the event!
 | Stage | Day | Notes |
 | --: | :-- | :-- |
 | **Registration** | Before qualifiers finish | [Register here](https://www.start.gg/tournament/the-roundtable-x-lvlup-expo-division-1/details) or at the event! This division is intended for the most competitive players. |
-| **Qualifiers** | Friday | Qualifiers lobbies run hourly. After checking in on-site, you'll be assigned to a qualifiers lobby. Top 32 players from qualifiers will move onto the bracket stage. |
+| **Qualifiers** | Friday | Qualifier lobbies run hourly. After checking in on-site, you'll be assigned to a qualifier lobby. The top 32 players from the qualifiers will move onto the bracket stage. |
 | **Round of 32** | Saturday | Best of 7, 1 ban |
 | **Round of 16** | Saturday | Best of 7, 1 ban |
 | **Quarterfinals** | Saturday | Best of 9, 1 ban |
