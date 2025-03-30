@@ -117,7 +117,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 | Japan ::{ flag=JP }:: | ::{ flag=NL }:: Netherlands | [Mar 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T140000&p1=1440&p2=248&p3=16) | [osulive](https://twitch.tv/osulive) |
 | Bulgaria ::{ flag=BG }:: | ::{ flag=PH }:: Philippines | [Mar 30 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T150000&p1=1440&p3=145) | [osulive](https://twitch.tv/osulive) |
 | Peru ::{ flag=PE }:: | ::{ flag=SK }:: Slovakia | [Mar 30 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T160000&p1=1440&p2=131) | [osulive](https://twitch.tv/osulive) |
-| Colombia ::{ flag=CO }:: | ::{ flag=PL }:: Poland | [Mar 30 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T190000&p1=1440&p2=41&p3=262) | [osulive_2](https://twitch.tv/osulive_2) |
+| Colombia ::{ flag=CO }:: | ::{ flag=PL }:: Poland | [Mar 30 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T190000&p1=1440&p2=41&p3=262) | [osulive](https://twitch.tv/osulive) |
 | Quarterfinals | mappool showcase | [Mar 30 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T193000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
