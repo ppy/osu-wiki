@@ -105,22 +105,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ## Match schedule: Round of 16
 
-### Saturday, 29 March 2025
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Singapore ::{ flag=SG }:: | ::{ flag=ID }:: Indonesia | [Mar 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T140000&p1=1440&p2=236&p3=108) | [osulive](https://twitch.tv/osulive) |
-| Taiwan ::{ flag=TW }:: | ::{ flag=TR }:: Türkiye | [Mar 29 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T150000&p1=1440&p2=241) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Mar 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T180000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=RU }:: Russian Federation | [Mar 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T180000&p1=1440&p2=232&p3=166) | [osulive_2](https://twitch.tv/osulive_2) |
-| Switzerland ::{ flag=CH }:: | ::{ flag=MX }:: Mexico | [Mar 29 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250329T200000&p1=1440&p2=270&p3=155) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 30 March 2025
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Brazil ::{ flag=BR }:: | ::{ flag=CA }:: Canada | [Mar 30 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T010000&p1=1440&p2=45&p3=188) | [osulive_2](https://twitch.tv/osulive_2) |
-| Argentina ::{ flag=AR }:: | ::{ flag=NZ }:: New Zealand | [Mar 30 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T010000&p1=1440&p2=51&p3=264) | [osulive](https://twitch.tv/osulive) |
 | Australia ::{ flag=AU }:: | ::{ flag=MY }:: Malaysia | [Mar 30 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T040000&p1=1440&p2=57&p3=122) | [osulive](https://twitch.tv/osulive) |
 | Italy ::{ flag=IT }:: | ::{ flag=HK }:: Hong Kong | [Mar 30 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T100000&p1=1440&p2=215&p3=102) | [osulive](https://twitch.tv/osulive) |
 | China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Mar 30 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250330T120000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) |
@@ -205,6 +193,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
   1. [t+pazolite - Chartreuse Green (Raphalge) \[Creature Feature featuring The Creature\]](https://osu.ppy.sh/beatmapsets/2336500#taiko/5016026)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 29 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/117630578) | [#1](https://www.twitch.tv/videos/2418474085) |
+| **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/117631271) | [#1](https://www.twitch.tv/videos/2418474085?t=1h4m51s) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/117633323) | [#1](https://www.twitch.tv/videos/2418649263) |
+| **Chile** ::{ flag=CL }:: | **5** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/117633311) | [#1](https://www.twitch.tv/videos/2418738466) |
+| **Switzerland** ::{ flag=CH }:: | **5** | 1 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/117634901) | [#1](https://www.twitch.tv/videos/2418755391?t=0h5m9s) |
+
+Sunday, 30 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Brazil ::{ flag=BR }:: | 0 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/117637863) | [#1](https://www.twitch.tv/videos/2419035884) |
+| Argentina ::{ flag=AR }:: | 0 | **5** | ::{ flag=NZ }:: **New Zealand** | [#1](https://osu.ppy.sh/community/matches/117637815) | [#1](https://www.twitch.tv/videos/2418998450) |
 
 ### Round of 32
 
