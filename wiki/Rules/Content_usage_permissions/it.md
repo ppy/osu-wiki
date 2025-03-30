@@ -425,6 +425,7 @@ Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https:
 | Artist |  | Status | Notes |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contattare prima del caricamento. Raggiungibile tramite [email](mailto:hisaweb_info@yahoo.co.jp) o [Bandcamp](https://a-hisa.bandcamp.com/). |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
@@ -440,7 +441,6 @@ Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https:
 | Artist | Status |
 | :-- | :-- |
 | 40mP | ![][false] |
-| ak+q | ![][false] |
 | DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |
