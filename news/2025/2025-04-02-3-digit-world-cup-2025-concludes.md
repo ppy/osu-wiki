@@ -96,7 +96,7 @@ Now heading into the last pick of the match, the Philippines had only one map in
 
 This year's iteration saw 3WC delve into the production of [osu! originals](https://osu.ppy.sh/wiki/Community/Bespoke_music) for the first time. With the assistance of Featured Arists [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [SiLiS](https://osu.ppy.sh/beatmaps/artists/434), and [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442), as well as mapper and composer [XenjeS](https://osu.ppy.sh/users/10166905), we are proud to present 4 brand-new additions to osu!'s catalogue.
 
-You can find the original difficulties played in the tournament by clicking the banners, while the full sets for [AZENINE](pending) and [Night Sky Solitude](pending) will be managed in a separate set. If you are interested in mapping any of the songs yourself, you can already find the pre-timed osz's on 3WC 2025's album in the [community music FA listing](pending)!
+You can find the original difficulties played in the tournament by clicking the banners, while the full sets for [AZENINE](pending) and [Night Sky Solitude](pending) will be managed in a separate set. If you are interested in mapping any of the songs yourself, you can already find the pre-timed .osz files on 3WC 2025's album in the [community music FA listing](https://osu.ppy.sh/beatmaps/artists/462#album-2239)!
 
 ### Finals
 
