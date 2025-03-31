@@ -653,7 +653,7 @@ With the exception of the qualification stage (which does not have a winning con
 | Finals | Best of 13 | 16 FM, 1 TB |
 | Grand Finals | Best of 13 | 16 FM, 1 TB |
 
-Mods that are allowed to be used in matches, if the player opts to use them, are, Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, ScoreV2 is implemented.
+Mods that are allowed to be used in matches, if the player opts to use them, are Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, ScoreV2 is implemented.
 
 #### Qualification process
 
@@ -791,4 +791,4 @@ Situations with two player disconnections will be executed similarly to two miss
 
 Players that are caught abusing and/or bending the rules to their advantage are tantamount to disqualification from the tournament without appeal. More grave cases may also mean disqualification from participation from further osu! Philippines tournaments.
 
-*Ruleset is adapted from [SOFT 6](/wiki/Tournaments/SOFT/6) and previous osu! PH tournaments.*
+*The ruleset is adapted from [SOFT 6](/wiki/Tournaments/SOFT/6) and previous osu! PH tournaments.*

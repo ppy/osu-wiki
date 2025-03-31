@@ -518,7 +518,7 @@ As the tournament name implies, this is an osu!mania tournament set up as a nati
 
 #### General eligibility rules
 
-Players who currently have (or had at some point since account creation) the Philippine flag on their profile or players who do not have the Philippine flag on their profiles but **can present a proof of their Philippine citizenship** to the staff are the only ones allowed to join the tournament.
+Players who currently have (or had at some point since account creation) the Philippine flag on their profile, or players who do not have the Philippine flag on their profiles, but **can present a proof of their Philippine citizenship** to the staff, are the only ones allowed to join the tournament.
 
 Staff members who are **[not referees, mappool selectors, hosts, nor are part of any managing role](/wiki/Tournaments/Official_support#staff)** are permitted to join the tournament.
 
@@ -641,4 +641,4 @@ A two minute timer will be placed on a disconnected player when the song played 
 
 Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-*Ruleset is adapted from [SOFT 6](/wiki/Tournaments/SOFT/6) and previous osu! PH tournaments.*
+*The ruleset is adapted from [SOFT 6](/wiki/Tournaments/SOFT/6) and previous osu! PH tournaments.*
