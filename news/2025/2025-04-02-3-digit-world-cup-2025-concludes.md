@@ -102,13 +102,21 @@ You can find the original difficulties played in the tournament by clicking the 
 
 [![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/night-sky-solitude-banner.jpg)](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943)
 
-pending audio
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/462/3%20Digit%20World%20Cup%202025/XenjeS%20-%20Night%20Sky%20Solitude.mp3">
+    </audio>
+</div>
 
 [XenjeS](https://osu.ppy.sh/users/10166905) makes his appearance with the first osu! original in 3WC with his classic hard trance style in [Night Sky Solitude](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943), simultaneously making his breakthrough out of the Ukranian tournament sphere and his debut in the Featured Artist listing. What better mapper to pair with the track than [nooj](https://osu.ppy.sh/users/8271086), creating a perfect test of aim and tapping control.
 
 [![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/azenine-banner.jpg)](https://osu.ppy.sh/beatmapsets/2333230#osu/5006948)
 
-pending audio
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/462/3%20Digit%20World%20Cup%202025/SiLiS%20vs%20sugosugiii%20feat.%20Eili%20-%20AZENINE.mp3">
+    </audio>
+</div>
 
 Despite being only in the Finals stage, perceived by some players as the hardest map of the tournament is [AZENINE](https://osu.ppy.sh/beatmapsets/2333230#osu/5006948), a crazy collaboration between [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) and [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442)  featuring vocals from [Eili](https://x.com/frenlize). Mapper [Bazuso](https://osu.ppy.sh/users/11726139) did not hold back, featuring some very challenging streams and sliders, tested with Hidden in the tournament as the cherry on top.
 
@@ -116,13 +124,21 @@ Despite being only in the Finals stage, perceived by some players as the hardest
 
 [![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/rotted-as-the-queen-of-the-rats-banner.jpg)](https://osu.ppy.sh/beatmapsets/2337064#osu/5017759)
 
-pending audio
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/462/3%20Digit%20World%20Cup%202025/Akiri%20-%20ROTTED%20AS%20THE%20QUEEN%20OF%20THE%20RATS.mp3">
+    </audio>
+</div>
 
 Another newer face to the osu!standard scene, osu!mania savant and established osu! World Cup artist [Akiri](https://osu.ppy.sh/beatmaps/artists/401) shows up with [ROTTED AS THE QUEEN OF THE RATS](https://osu.ppy.sh/beatmapsets/2337064#osu/5017759), acting as a lore continuation of [Soul Seeker](https://osu.ppy.sh/beatmapsets/2307396#fruits/4934875) from [Polish Catch Tournament 2024](https://osu.ppy.sh/community/forums/topics/2004054). This genre-switching, yet consistently thematic song acted as a mechanics focused tech map in the No Mod pool, mapped by none other than [xLolicore-](https://osu.ppy.sh/users/4525153).
 
 [![](/wiki/shared/news/2025-04-02-3-digit-world-cup-2025-concludes/zyphoranth-quixalune-banner.jpg)](https://osu.ppy.sh/beatmapsets/2337098#osu/5017830)
 
-pending audio
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/462/3%20Digit%20World%20Cup%202025/sugosugiii%20-%20Zyphorath%20Quixalune.mp3">
+    </audio>
+</div>
 
 Of course we cannot forget to round things off with our very own original Grand Finals tiebreaker. [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442) makes her second appearance of the tournament with this insane 6 minute solo project of [Zyphorath Quixalune](https://osu.ppy.sh/beatmapsets/2337098#osu/5017830). Already established as THE tiebreaker mapper duo, [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) conjoured this amazing final experience that saw South Korea and the United States duke it out on as the very final map of the tournament!
 
