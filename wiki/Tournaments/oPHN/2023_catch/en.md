@@ -20,13 +20,15 @@ The **osu! Philippines Nationals 2023 (osu!catch)** (***PHNC 2023***) is a one-o
 | Quarterfinals | 2023-11-18/2023-11-19 |
 | Semifinals | 2023-11-25/2023-11-26 |
 | Finals | 2023-12-02/2023-12-03 |
-| Grand finals | 2023-12-09/2023-12-10 |
+| Grand Finals | 2023-12-09/2023-12-10 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+
+![](img/badge.png "osu! Philippines Nationals 2023 - osu!catch winner badge")
 
 ## Organisation
 
@@ -56,12 +58,12 @@ The osu! Philippines Nationals 2023 - osu!catch is ran by various community memb
 
 ### General rules
 
-- Score V2 will be used.
-- NoFail will be enforced regardless of the mod being used per map.
+- ScoreV2 will be used.
+- No Fail will be enforced regardless of the mod being used per map.
 
 ### Qualifier stage
 
-- There will be 5 maps, consisting of 2 NoMod, 1 Hidden, 1 HardRock and 1 DoubleTime.
+- There will be 5 maps, consisting of 2 No Mod, 1 Hidden, 1 Hard Rock and 1 Double Time.
 - Players will be scheduled to a multiplayer room according to their availability.
 - Each player will get 2 attempts at each map, only the best attempt for each map will count.
 - Each map will have its own leaderboard, and each player's overall seed will be determined by the average of these ranks.
@@ -78,7 +80,7 @@ The osu! Philippines Nationals 2023 - osu!catch is ran by various community memb
 | Quarterfinals | 9 | 4 | 2 | 2 | 2 | 1 |
 | Semifinals | 11 | 4 | 3 | 3 | 3 | 1 |
 | Finals | 11 | 4 | 3 | 3 | 3 | 1 |
-| Grand finals | 13 | 5 | 3 | 3 | 3 | 1 |
+| Grand Finals | 13 | 5 | 3 | 3 | 3 | 1 |
 
 ### Match rules
 
