@@ -78,6 +78,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | GMT |
 | ::{ flag=US }:: [EiJi](https://osu.ppy.sh/users/2024) | BAT |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) | NAT |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | NAT |
 | ::{ flag=CO }:: [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | Moderador del chat, GMT |
 | ::{ flag=FI }:: [ethox](https://osu.ppy.sh/users/441380) | Moderador del chat |
 | ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -207,7 +208,6 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Gestor de torneos |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!dev |

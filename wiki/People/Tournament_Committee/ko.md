@@ -1,6 +1,4 @@
 ---
-outdated_since: b37ff19ef3e17565b07306a78c9aef1029181f71
-outdated_translation: true
 tags:
   - TC
   - Contest Committee
@@ -9,7 +7,7 @@ tags:
 
 # 토너먼트 위원회
 
-**토너먼트 위원회**는 토너먼트 현장에서 확실하게 숙련된 주최자와 헬퍼로 구성된 위원회입니다. 급속도로 성장하는 토너먼트 현장에 대응하기 위하여 이는 2021년 7월 22일 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 `#tournaments` 채널에서 처음 공개되었습니다.
+**토너먼트 위원회**는 토너먼트 현장에서 확실하게 숙련된 주최자와 헬퍼로 구성된 위원회로, 주황색 유저 타이틀과 `TC`배지로 표시된 [유저 그룹](/wiki/People/User_groups)으로 구별됩니다. 급속도로 성장하는 토너먼트 현장에 대응하기 위하여 이는 2021년 7월 22일 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 `#tournaments` 채널에서 처음 공개되었습니다.
 
 토너먼트 위원회의 책임 중에는 다음 사항과 관련하여 [계정 지원팀](/wiki/People/Account_support_team)에게 조언하는 것을 포함합니다:
 
@@ -61,14 +59,14 @@ tags:
 - 최신상태의 모든 스태프 및 플레이어 목록이 있어야 합니다.
 - 배지가 관련된 [디자인 기준](/wiki/Tournaments/Official_support#profile-badges)을 충족해야 합니다.
 
-검토 과정을 통과할 경우, 배정된 멤버는 배지 수여 자격이 있음을 표시하며 계정 지원팀이 나중에 우승자의 프로필에 배지를 적용할 것입니다. 통과하지 못할 경우 토너먼트 호스트에게 어떤 변경 사항이 필요한지 계정 지원팀에게 조언할 수 있습니다. 만약 변경이 불가능한 사안인 경우 토너먼트 위원회는 공식 지원 철회 여부 대한 익명 투표를 실시합니다.
+검토 과정을 통과할 경우, 배정된 멤버는 배지 수여 자격이 있음을 표시하며 계정 지원팀이 나중에 우승자의 프로필에 배지를 적용할 것입니다. 통과하지 못할 경우 토너먼트 호스트에게 어떤 변경 사항이 필요한지 계정 지원팀에게 조언할 수 있습니다. 만약 변경이 불가능한 사안인 경우 토너먼트 위원회는 공식 지원 철회 여부 대한 투표를 실시합니다.
 
 공식 지원 기준을 위반한 토너먼트는 [토너먼트 보고 양식](https://tcomm.hivie.tn/reports/create)을 통해 신고할 수 있습니다. 지원을 요청한 토너먼트가 종료된 경우, 조치가 가능한 신고가 있는 경우 토너먼트 위원회는 다음과 같은 조치를 취하게 됩니다:
 
 - 신고에 제기된 문제가 공식 지원 기준을 위반하는지 확인합니다.
 - 조치가 필요한 정도로 심각한 경우, 신고에 자세하게 설명된 사안을 조사한 뒤 사안의 유효성을 확인하고 추가 정보를 수집합니다.
 - 해당 사안의 당사자(예: 토너먼트 호스트)에게 연락하여 신고에 자세하게 설명된 사안에 대한 추가 정보를 얻습니다.
-- 조사가 끝난 이후, 토너먼트 위원회는 해당 사안에 관련한 처벌을 고려한 후 익명 투표를 통하여 처벌 여부와 처벌의 강도를 결정합니다.
+- 조사가 끝난 이후, 토너먼트 위원회는 해당 사안에 관련한 처벌을 고려한 후 투표를 통하여 처벌 여부와 처벌의 강도를 결정합니다.
 
 ### 뉴스 게시물
 
@@ -78,7 +76,7 @@ tags:
 
 ### 상위 3팀에 대한 배지 지원
 
-토너먼트 호스트가 자신의 토너먼트가 가능한 최고 수준의 품질과 구성을 달성했다고 생각하는 경우, 토너먼트의 결승 진출자 3명의 모두가 배지를 받을 수 있도록 요청할 수 있습니다. 호스트가 이러한 상을 받기를 요청하는 경우, 할당된 멤버는 토론을 위해 나머지 위원회 멤버에게도 알리고 토론하여 익명투표를 진행합니다.
+토너먼트 호스트가 자신의 토너먼트가 가능한 최고 수준의 품질과 구성을 달성했다고 생각하는 경우, 토너먼트의 결승 진출자 3명의 모두가 배지를 받을 수 있도록 요청할 수 있습니다. 호스트가 이러한 상을 받기를 요청하는 경우, 할당된 멤버는 토론을 위해 나머지 위원회 멤버에게도 알리고 토론하여 투표를 진행합니다.
 
 ### 공개적인 소통
 
@@ -97,11 +95,13 @@ tags:
 - 18세 이상일 것
 - 계정 위반 사항에 대한 확인을 통과할 것
 
-예비 멤버가 이메일을 통해 신청하던 기존 멤버가 제안하던 절차는 동일합니다. 위원회는 후보자에 대한 심도 있는 논의를 진행하며 토너먼트 현장에서의 활동, 위상, 커뮤니티 기여, 위원회에 어떤 도움이 될지에 대하여 특별한 관심을 집중합니다. 논의 후, 해당 후보자를 위원회의 멤버로 추가할지에 대한 여부를 익명 투표를 하여 결정하게 됩니다.
+예비 멤버가 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)로 이메일을 보내 신청하면, 토너먼트 위원회가 후보자에 대한 심도 있는 논의를 진행하며 토너먼트 현장에서의 활동, 위상, 커뮤니티 기여, 위원회에 어떤 도움이 될지에 대하여 특별한 관심을 집중합니다. 논의 후, 해당 후보자를 위원회의 멤버로 추가할지에 대한 여부를 투표하여 결정하게 됩니다.
+
+충분한 찬성표를 모으지 못한 지원자는 거부되며, 지원에 대한 답변이 온 날로부터 6개월간 지원이 제한됩니다. 지원한 날로부터 적어도 2주내로 응답을 받게 됩니다.
 
 ### 투표
 
-토너먼트 위원회는 중요한 결정을 내릴 때, 익명 투표를 자주 활용합니다. 일반적인 용도는 위에 나열되어 있지만 완전히 포괄적이지는 않습니다. 모든 투표는 엄격하게 참여할 것이 요구되며, 투표 마감일까지 위원회의 멤버 75% 이상이 참여하지 않을 경우 투표를 24시간 연장합니다. 또한 조치를 취하기 위해서는 투표에서 과반의 인원(적어도 50%)이 찬성해야 합니다. 대부분의 주제에 대한 투표에는 동일한 요구 사항을 가지지만 아래 나열된 주제에 대해서는 일부 차이가 있습니다.
+토너먼트 위원회는 중요한 결정을 내릴 때, 투표를 자주 활용합니다. 일반적인 용도는 위에 나열되어 있지만 완전히 포괄적이지는 않습니다. 모든 투표는 엄격하게 참여할 것이 요구되며, 투표 마감일까지 위원회의 멤버 75% 이상이 참여하지 않을 경우 투표를 24시간 연장합니다. 또한 조치를 취하기 위해서는 투표에서 과반의 인원(적어도 50%)이 찬성해야 합니다. 대부분의 주제에 대한 투표에는 동일한 요구 사항을 가지지만 아래 나열된 주제에 대해서는 일부 차이가 있습니다.
 
 | 투표 사안 | 최소 기간(일) | 가결 기준 |
 | :-- | --: | --: |
@@ -146,34 +146,44 @@ tags:
 - **임기 배지**: 위원회에 참가한 기간을 1년부터 10년까지 표시해 주는 [프로필 배지](/wiki/Community/Profile_badge)입니다.
   ![토너먼트 위원회 1년 배지](https://assets.ppy.sh/profile-badges/tcomm-1y.png "토너먼트 위원회 1년 배지") ![토너먼트 위원회 2년 배지](https://assets.ppy.sh/profile-badges/tcomm-2y.png "토너먼트 위원회 2년 배지") ![토너먼트 위원회 3년 배지](https://assets.ppy.sh/profile-badges/tcomm-3y.png "토너먼트 위원회 3년 배지") ![토너먼트 위원회 4년 배지](https://assets.ppy.sh/profile-badges/tcomm-4y.png "토너먼트 위원회 4년 배지") ![토너먼트 위원회 5년 배지](https://assets.ppy.sh/profile-badges/tcomm-5y.png "토너먼트 위원회 5년 배지") ![토너먼트 위원회 6년 배지](https://assets.ppy.sh/profile-badges/tcomm-6y.png "토너먼트 위원회 6년 배지") ![토너먼트 위원회 7년 배지](https://assets.ppy.sh/profile-badges/tcomm-7y.png "토너먼트 위원회 7년 배지") ![토너먼트 위원회 8년 배지](https://assets.ppy.sh/profile-badges/tcomm-8y.png "토너먼트 위원회 8년 배지") ![토너먼트 위원회 9년 배지](https://assets.ppy.sh/profile-badges/tcomm-9y.png "토너먼트 위원회 9년 배지") ![토너먼트 위원회 10년 배지](https://assets.ppy.sh/profile-badges/tcomm-10y.png "토너먼트 위원회 10년 배지")
 
-## 토너먼트 위원회 멤버
+## 위원회 멤버
 
-- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
+모든 [토너먼트 위원회](https://osu.ppy.sh/groups/50) 멤버 목록을 해당 그룹 페이지에서 확인할 수 잇습니다.
+
+### 토너먼트 위원회
+
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
+- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
+- ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
+- ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
-- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
+- ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317)
 
-## 콘테스트 위원회 멤버
+### 콘테스트 위원회
 
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
 
-## Alumni
+### Alumni
 
+- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
+- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

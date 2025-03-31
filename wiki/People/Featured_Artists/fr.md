@@ -70,6 +70,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=DE }:: [Darkney](https://osu.ppy.sh/users/14700596) | [Darkney](https://osu.ppy.sh/beatmaps/artists/290) |
 | ::{ flag=US }:: [debisco](https://osu.ppy.sh/users/34345683) | [DeBisco](https://osu.ppy.sh/beatmaps/artists/422) |
+| ::{ flag=CA }:: [direk](https://osu.ppy.sh/users/17000575) | [SEVEN LIVES](https://osu.ppy.sh/beatmaps/artists/461) |
 | ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | [Doomsday](https://osu.ppy.sh/beatmaps/artists/425) |
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
@@ -78,9 +79,11 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=GR }:: [Geoxor](https://osu.ppy.sh/users/8112146) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
 | ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), (membre de) [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
+| ::{ flag=LV }:: [hikota](https://osu.ppy.sh/users/12946286) | [hikota](https://osu.ppy.sh/beatmaps/artists/463) |
 | ::{ flag=US }:: [hornshoes](https://osu.ppy.sh/users/4057967) | [Strelitzia](https://osu.ppy.sh/beatmaps/artists/421) (membre de) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
+| ::{ flag=US }:: [Kardashevband](https://osu.ppy.sh/users/33736126) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) (membre de) |
 | ::{ flag=ES }:: [KeybladeMaster](https://osu.ppy.sh/users/5926683) | [xiiiac13](https://osu.ppy.sh/beatmaps/artists/423) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |

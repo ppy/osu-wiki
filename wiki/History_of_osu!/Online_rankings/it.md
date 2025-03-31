@@ -26,7 +26,7 @@ Al 19 giugno 2024, nella [classifica delle performance di osu!taiko](https://osu
 
 ## ![][osu!catch] osu!catch
 
-Al 21 luglio 2024, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
+Al 2 novembre 2024, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
 
 ## ![][osu!mania] osu!mania
 

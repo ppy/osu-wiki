@@ -1,3 +1,8 @@
+---
+outdated_since: 61dd52416759292db6ff082d769c5bae62422ed6
+outdated_translation: true
+---
+
 # 谱面上架标准 (RC)
 
 这篇文章列出了[谱面](/wiki/Beatmap)在通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)时必须遵守的规定和准则。
@@ -142,7 +147,7 @@
 - **音效必须能让玩家听到。** 音效的作用是提供足够反馈，因此，音量极低或者与歌曲音色极其相似的音效都是不能使用的。对于不同游戏模式的例外情况，请参阅不同游戏模式特定的谱面上架标准。
 - **谱面的预览时间点必须一致。** 预览点将会在游戏的歌曲选择菜单和网页的在线歌曲试听中使用。
 - **音效长度至少为 25 毫秒。** 长度更短的文件不能播放出声音。
-- **若需要使用完全静音的音效，则必须使用[这个 44 字节文件](https://up.ppy.sh/files/blank.wav)。** 其他音效文件可能会过大，并且不能使用 0 字节大小的音效文件。
+- **若需要使用完全静音的音效，则必须使用[这个 44 字节文件](https://assets.ppy.sh/media/blank.wav)。** 其他音效文件可能会过大，并且不能使用 0 字节大小的音效文件。
 - **[故事板音效](/wiki/Beatmapping/Hitsound#storyboarded-hitsound)不能替换[主动打击音效](/wiki/Beatmapping/Hitsound#active-hitsound)。** 这会给玩家不准确的反馈。在某些特殊情况下，可以但不鼓励使用故事板音效。osu!mania 可忽略此条规定。
 
 ### 准则
