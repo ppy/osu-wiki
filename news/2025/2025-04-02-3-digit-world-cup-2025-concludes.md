@@ -215,7 +215,7 @@ Despite falling short of the 4WC team last year, you earned a spot in 3WC and ma
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10634348">EthantrixV3</a></p>
 
-Every time I got benched from a roster last year I used it as fuel to improve — not even for my own sake; I just wanted to make anybody who thought I wasn't good enough to be put on the team look like a fool. My good old friend, buddy washingtonian pal [conradmittn](https://osu.ppy.sh/users/8208289) said once that the USA hatefarmed me into becoming a threat after being put on the back burner for 4WC, EZWC, and OWC in 2024. Without those rejections, I think I'd be far from the player I am now.
+Every time I got benched from a roster last year I used it as fuel to improve — not even for my own sake; I just wanted to make anybody who thought I wasn't good enough to be put on the team look like a fool. My good old friend, buddy Washingtonian pal [conradmittn](https://osu.ppy.sh/users/8208289) said once that the USA hatefarmed me into becoming a threat after being put on the back burner for 4WC, EZWC, and OWC in 2024. Without those rejections, I think I'd be far from the player I am now.
 
 And listen... I ain't mean to toot my own horn... But just between you and me and everyone in the world reading this: I shoulda been on in 4WC... AND EZWC... AAAAAAAAAAAND OWC!
 
