@@ -29,7 +29,7 @@ The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!ma
 | Quarterfinals | 2025-03-07/2025-03-09 |
 | Semifinals | 2025-03-14/2025-03-16 |
 | Finals | 2025-03-21/2025-03-23 |
-| Grand Finals | 2025-03-28/2025-03-30 |
+| Grand Finals | 2025-03-28/2025-04-06 |
 
 ## Prizes
 
@@ -72,6 +72,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
   - [Round of 16](https://www.twitch.tv/collections/Edj5-4BmJxj1nQ)
   - [Quarterfinals](https://www.twitch.tv/collections/txoutiFOKRhxbQ)
   - [Semifinals](https://www.twitch.tv/collections/M8vf-QHSKxjtTA)
+  - [Finals](https://www.twitch.tv/collections/72gZqZ-sLRhN6A)
 
 ## Participants
 
@@ -196,18 +197,54 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 <!--## Podium-->
 
-## Match schedule: Semifinals
+## Match schedule: Grand Finals
 
-### Sunday, 16 March 2025
+### Saturday, 05 April 2025
 
 | Team A | Team B | Match time | Stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Gravity Coil | Chodan | [Mar 16 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T040000&p1=1440&p2=3920&p3=3909&p4=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
-| \:bucket\:\:1217god\:\:scream\: | Girls Band Cry | [Mar 16 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T050000&p1=1440&p2=3910) | [THMC4 youtube](https://www.youtube.com/@thmcofficial9961)[^potential-place] | [^losers-bracket] |
-| Mahjong Soul Official | Girlfriend ASMR | [Mar 16 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^winners-bracket] |
-| Retirados y Peligrosos | Benny Goodman | [Mar 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250316T140000&p1=1440&p2=3917&p3=3903&p4=3909&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-bracket] |
+| Girlfriend ASMR | Gravity Coil | [Apr 05 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250405T040000&p1=1440&p2=3922&p3=3920&p4=3909&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-grand-finals] |
+
+### Sunday, 06 April 2025
+
+| Team A | Team B | Match time | Stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| Mahjong Soul Official | Girlfriend ASMR | [Apr 06 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T040000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^grand-finals] |
+| Girlfriend ASMR | Mahjong Soul Official | [Apr 06 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^bracket-reset] |
+| Mahjong Soul Official | Gravity Coil | [Apr 06 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T100000&p1=1440&p2=3909&p3=3910&p4=3920&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^grand-finals] |
+| Gravity Coil | Mahjong Soul Official | [Apr 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T120000&p1=1440&p2=3909&p3=3910&p4=3920&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^bracket-reset] |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (236 MB)](https://drive.google.com/file/d/155uwQ4-_siNtXb0HvSeS2UDi3AWTE3O2/)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=BJwF8EMJtj4&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV19iXuY9EYa/)
+
+- Rice
+  1. [EastNewSound feat. Chata - Sound of Carnation (\[GS\]hina) \[Echo (THMC4 Edit)\]](https://osu.ppy.sh/beatmapsets/2340245#mania/5027483)
+  2. [Halozy - Don't let you down (YuEast 2018) \[drive up! (cut)\]](https://osu.ppy.sh/beatmapsets/2340499#mania/5028421)
+  3. [DJKurara - Crazy Aliens (\[GS\]hina) \[Chimera (Edit)\]](https://osu.ppy.sh/beatmapsets/2340241#mania/5027469)
+  4. [MONO - Fantasmagoria (\[GB\]Oceanus) \[Phangasm 1.05x (163bpm)\]](https://osu.ppy.sh/beatmapsets/2340227#mania/5027429)
+  5. [NJK Record - Search for the butterfly (Alptraum) \[edit 1.15x (184bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2340381#mania/5028154)
+  6. [miso-nicomi records - Heavenly Net Breaking World (KimMui) \[0.95x\]](https://osu.ppy.sh/beatmapsets/2340507#mania/5029862)
+  7. [chocofan - Flandol (YuEast 2018, 0DZ0) \[Rising Flan!\]](https://osu.ppy.sh/beatmapsets/2340523#mania/5028483)
+- Rice (Extreme)
+  1. [Litchee - Fleur De Neige (ImperialTrinity) \[Nacreous Iridescence 1.05x\]](https://osu.ppy.sh/beatmapsets/2340193#mania/5027235)
+- Hybrid
+  1. [Kobaryo - Destructive Little Sister (\[GB\]Reisen) \[CS' Catastrophic\]](https://osu.ppy.sh/beatmapsets/2340182#mania/5027189)
+  2. [ZUN - Voyage 1969 (Ycloki) \[Oneiric Odyssey (edit)\]](https://osu.ppy.sh/beatmapsets/2340562#mania/5028572)
+  3. [NormalM - Karakasa Scramble (Saemitsu) \[Tsukumogami\]](https://osu.ppy.sh/beatmapsets/2340242#mania/5027474)
+- Long Note
+  1. [TAMAONSEN - Tairin no Soul (\[GB\]Reisen) \[Timing no Soul\]](https://osu.ppy.sh/beatmapsets/2340183#mania/5027190)
+  2. [P\*Light feat. mow\*2 - Homeneko Sensation (Long Ver.) (Xu seventeen) \[Super Nyeeco(216bpm)\]](https://osu.ppy.sh/beatmapsets/2340544#mania/5028532)
+  3. [Demetori - Native Faith \~ Memory of a Free Festival (Castella) \[Phantasm (cut)\]](https://osu.ppy.sh/beatmapsets/2340470#mania/5028373)
+  4. [Takamachi Walk - A Desire to Disappear (ImperialTrinity) \[Forget Me Not (cut)\]](https://osu.ppy.sh/beatmapsets/2340196#mania/5027260)
+- Long Note (Extreme)
+  1. [Demetori - Last Remote \~ Type A Personality (Castella) \[Requiem of Koishi od7\]](https://osu.ppy.sh/beatmapsets/2048331#mania/4276650)
+- Tiebreaker
+  1. **[Kurokotei - Scattered Faith (cherrychou, \[GB\]Reisen, Ycloki, YuEast 2018, AelSan, \[GS\]hina, Alptraum, ERA trooperr) \[#2025 Most Unbelievable TB#\]](https://osu.ppy.sh/beatmapsets/2340498#mania/5028420)**
 
 ### Semifinals
 
@@ -222,7 +259,8 @@ The Touhou Project Mania Cup 4th is run by various community members.
   4. [SmileDemon - Doomtempo (\[GB\]Azukisan) \[DoomLotus 150bpm edit\]](https://osu.ppy.sh/beatmapsets/2337108#mania/5017844)
   5. [SOUND HOLIC feat. Nana Takahashi - No Life Queen (elexire) \[cut\]](https://osu.ppy.sh/beatmapsets/2176951#mania/4597090)
   6. [Uten-Kekkoh - SYOUZYOSAKUSOUTYU (Nicknem\_) \[Egoist (THMC edit)\]](https://osu.ppy.sh/beatmapsets/2337473#mania/5018946)
-  7. [Xenon - 63HiiraossHuikgoeH53 (cut ver.) (ScoliosisET) \[Gensokyo Daydream 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/2337459#mania/5018927)
+- Rice (Extreme)
+  1. [Xenon - 63HiiraossHuikgoeH53 (cut ver.) (ScoliosisET) \[Gensokyo Daydream 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/2337459#mania/5018927)
 - Hybrid
   1. [S.S.H. - Genshi no Yoru \~ Ghostly Eyes (\[GB\]Reisen, Xu seventeen) \[Ei Yoru no Mukui. // co. Xu seventeen 1.05x\]](https://osu.ppy.sh/beatmapsets/2337121#mania/5017868)
   2. [Spacelectro feat. setsunann - Luv the world \[DJ Raisei Remix\] (Cut Ver.) (gzdongsheng) \[Phantom\]](https://osu.ppy.sh/beatmapsets/2337373#mania/5018650)
@@ -231,7 +269,8 @@ The Touhou Project Mania Cup 4th is run by various community members.
   1. [BUTAOTOME - Mesen (\[GB\]Reisen) \[roslaunch ittsui\_no\_kamikemono touhou.launch\]](https://osu.ppy.sh/beatmapsets/2337122#mania/5017870)
   2. [Sawawa - Taketori Hishou \~Lunatic Princess (MyZterioN-) \[nisemono 1.05x\]](https://osu.ppy.sh/beatmapsets/2337199#mania/5018089)
   3. [dBu - Majotachi no Butoukai \~ Magus (Castella) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/2337323#mania/5018527)
-  4. [ALiCE'S EMOTiON - Ghostly Parapara Ship (Hardcore Edit) (V1do-) \[Let's enjoy the Parapara Night! (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/2337396#mania/5018706)
+- Long Note (Extreme)
+  1. [ALiCE'S EMOTiON - Ghostly Parapara Ship (Hardcore Edit) (V1do-) \[Let's enjoy the Parapara Night! (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/2337396#mania/5018706)
 - Tiebreaker
   1. **[HAGISOPH - Beyond the Millennium (Blue\_Potion, V1do-) \[Lunatic Eternity (w/ Blue\_Potion)\]](https://osu.ppy.sh/beatmapsets/2337397#mania/5018707)**
 
@@ -292,7 +331,8 @@ The Touhou Project Mania Cup 4th is run by various community members.
 ### Round of 32
 
 **[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1Bhg8Jd9zVSsKXutnsJY3we2shktkKHJR/)**\
-[View the showcase VOD here](https://www.youtube.com/watch?v=nANJIH8VJvA&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)
+[View the showcase VOD here](https://www.youtube.com/watch?v=nANJIH8VJvA&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1b7QaYGEQP)
 
 - Rice
   1. [senya - Yozakura ni Kimi wo Kakushite (Xzzj) \[1.05 cut edited by YuEast 2018\]](https://osu.ppy.sh/beatmapsets/1844571#mania/4983634)
@@ -356,16 +396,45 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 ## Match results
 
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TtP_e_msAag8sS7YnKfiiV0jUvLcwofw_yMQGT1Hjmw/).
+
+Saturday, 22 March 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Chodan** | **7** | 3 | Retirados y Peligrosos | [#1](https://osu.ppy.sh/community/matches/117557860) | [#1](https://www.youtube.com/watch?v=awt3FwYCL5U&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1ieXaYsEMd) |
+
+Sunday, 23 March 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Girlfriend ASMR** | **7** | 2 | Girls Band Cry | [#1](https://osu.ppy.sh/community/matches/117566675) | [#1](https://www.youtube.com/watch?v=63ltmoWxC1Y&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1BtXaYbE36) |
+| Gravity Coil | 5 | **7** | **Mahjong Soul Official** | [#1](https://osu.ppy.sh/community/matches/117568314) | [#1](https://www.youtube.com/watch?v=NbuOA893Cmk&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1JzokYiEK2) |
+| **Girlfriend ASMR** | **7** | 5 | Chodan | [#1](https://osu.ppy.sh/community/matches/117570977) | [#1](https://www.youtube.com/watch?v=SjIHoFPAQlQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1A8okYkEZu) |
+
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1kYc9QmF0v8g7YegL5ODZr4U143UUnsWQ2f5t_8bojec/).
 
 Saturday, 15 March 2025:
 
 | Team A |  |  | Team B | Match Link | VOD Link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| cucumbers | 4 | **6** | **\:bucket\:\:1217god\:\:scream\:** | [#1](https://osu.ppy.sh/community/matches/117484887) | [#1](https://www.youtube.com/watch?v=6PMG1bj-L30&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes) |
-| 有点弱，， | 4 | **6** | **Girls Band Cry** | [#1](https://osu.ppy.sh/community/matches/117485256) |  |
-| vivid/stasis | 1 | **6** | **Retirados y Peligrosos** | [#1](https://osu.ppy.sh/community/matches/117486421) | [#1](https://www.youtube.com/watch?v=IyAO0r9jgkw&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes) |
-| Mr Beajek's winter ARC | 4 | **6** | **Benny Goodman** | [#1](https://osu.ppy.sh/community/matches/117487177) | [#1](https://www.youtube.com/watch?v=vpC1dKG2t2A&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes) |
+| cucumbers | 4 | **6** | **\:bucket\:\:1217god\:\:scream\:** | [#1](https://osu.ppy.sh/community/matches/117484887) | [#1](https://www.youtube.com/watch?v=6PMG1bj-L30&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1iZQbY7ECQ) |
+| 有点弱，， | 4 | **6** | **Girls Band Cry** | [#1](https://osu.ppy.sh/community/matches/117485256) | [#1](https://www.youtube.com/watch?v=OBI0eSlD5bE&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1stQaYvENc) |
+| vivid/stasis | 1 | **6** | **Retirados y Peligrosos** | [#1](https://osu.ppy.sh/community/matches/117486421) | [#1](https://www.youtube.com/watch?v=IyAO0r9jgkw&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1Z6QaY4EQC) |
+| Mr Beajek's winter ARC | 4 | **6** | **Benny Goodman** | [#1](https://osu.ppy.sh/community/matches/117487177) | [#1](https://www.youtube.com/watch?v=vpC1dKG2t2A&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1L2QaYpEwa) |
+
+Sunday, 16 March 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Gravity Coil** | **6** | 1 | Chodan | [#1](https://osu.ppy.sh/community/matches/117495395) | [#1](https://www.youtube.com/watch?v=tBQbAXpuzzU&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV18LQaYCEgr) |
+| \:bucket\:\:1217god\:\:scream\: | 4 | **6** | **Girls Band Cry** | [#1](https://osu.ppy.sh/community/matches/117495760) | [#1](https://www.youtube.com/watch?v=ZroqJjklQW0&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1neQaYhEfA) |
+| **Mahjong Soul Official** | **6** | 2 | Girlfriend ASMR | [#1](https://osu.ppy.sh/community/matches/117496074) | [#1](https://www.youtube.com/watch?v=bXa_8XV0-Rk&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1GDQaYSEY2) |
+| **Retirados y Peligrosos** | **6** | 5 | Benny Goodman | [#1](https://osu.ppy.sh/community/matches/117499434) | [#1](https://www.youtube.com/watch?v=rUU5GHy2fiQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1q3QBY6EjW) |
 
 ### Quarterfinals
 
@@ -794,7 +863,7 @@ The weights for the Qualifiers are as follows:
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-place]: Will still be streamed on official Twitch channel if no overlaps happen
+[^losers-grand-finals]: Losers bracket Grand Finals match
+[^grand-finals]: Grand Finals — final matchup depends on the Losers bracket Grand Finals match
+[^bracket-reset]: Grand Final Bracket Reset match — final matchup depends on the Losers bracket Grand Finals & Grand Final match
 [^qualifiers-seeding]: Used as the main seeding method

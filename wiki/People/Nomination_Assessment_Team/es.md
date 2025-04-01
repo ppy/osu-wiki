@@ -6,7 +6,7 @@ tags:
 
 # Nomination Assessment Team
 
-*Véase también: [Evaluaciones de Beatmap Nominator](Evaluations)*
+*Véase también: [Evaluaciones de los Beatmap Nominators](Evaluations)*
 
 El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) y garantiza que el lado del beatmapping de osu! se mantenga funcional.
 
@@ -100,6 +100,7 @@ Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
+- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
@@ -110,7 +111,7 @@ Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 
 A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). El líder del NAT tiene la responsabilidad de ambas categorías, la de evaluación y la de estructural, por lo que puede supervisar y participar en todos los aspectos del NAT.
 
-El líder actual del NAT es ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
+Los líderes actuales del NAT son ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
 
 ### Responsabilidades
 
@@ -136,7 +137,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Sueco |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
@@ -188,12 +188,12 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Liderazgo del NAT |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
 | Usuario | Tarea |
 | :-- | :-- |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Representante interno del NAT en el modo de juego osu![^internal-representatives] |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Representante interno del NAT en el modo de juego osu![^internal-representatives], procesamiento del impacto[^impact-rating] de los restablecimientos de las nominaciones en el modo de juego osu! |

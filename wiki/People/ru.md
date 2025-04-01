@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
----
-
 # Команды и личности
 
 Заглавная статья о различных пользователях и группах.
@@ -15,15 +10,16 @@ outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
 - [Выдающиеся участники сообщества](Community_Contributors)
 - [Команда osu!](osu!_team)
 - [Команда Project Loved](Project_Loved_Team)
-- [Команда глобальных модераторов](Global_Moderation_Team)
+- [Команда глобальной модерации](Global_Moderation_Team)
 - [Команда оценки номинаций](Nomination_Assessment_Team)
-- [Команда технической поддержки](Support_Team)
+- [Команда технической поддержки](Technical_Support_Team)
 - [Комитет по очкам производительности](Performance_Points_Committee)
-- [Комитет по турнирам](Tournament_Committee)
+- [Комплишионисты](Completionists)
 - [Кураторы Beatmap Spotlight](Beatmap_Spotlight_Curators)
-- [Номинаторы карт](Beatmap_Nominators)
+- [Номинаторы](Beatmap_Nominators)
 - [Разработчики](Developers)
 - [Служба поддержки](Account_support_team)
+- [Турнирный комитет](Tournament_Committee)
 - [Центурионы](Centurions)
 - [Элитные номинаторы](Elite_Nominators)
 
