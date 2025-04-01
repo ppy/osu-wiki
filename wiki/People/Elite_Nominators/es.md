@@ -135,7 +135,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 | ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) | osu! |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
 | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | osu! |
-| ::{ flag=SK }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | osu! |
 | ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | osu!taiko |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko |
