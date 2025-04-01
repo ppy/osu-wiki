@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Springtime Showdown Art Contest: Results"
-date: 2025-04-01 17:00:00 +0000
+date: 2025-04-01 12:00:00 +0000
 ---
 
 With tournament season in full swing, there's no better time to unveil the finalists of the latest fanart showdown!
