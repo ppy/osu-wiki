@@ -107,7 +107,7 @@ Thank you everyone who submitted an entry to this contest! Without you, there wo
 
 If you don't see your favourite entry above, feel free to [download a zip file containing all entries of the Springtime Showdown Art Contest here](https://assets.ppy.sh/contests/242/SpringtimeShowdownFanartSubmissions.zip)! If you have [osu!supporter](/wiki/osu!supporter), you can drag and drop any image into the game's main menu to set it as the background.
 
-On the other hand, *anyone* will now able to select the top 3 entries as [limited-time default profile banners](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations) until the end of the next art contest. And as always, the full results and voting numbers are viewable on the [contest page](https://osu.ppy.sh/community/contests/242).
+On the other hand, *anyone* will now able to select the top 4 entries (we decided 3 wasn't enough this time) as [limited-time default profile banners](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations) until the end of the next art contest. And as always, the full results and voting numbers are viewable on the [contest page](https://osu.ppy.sh/community/contests/242).
 
 See you next time!
 
