@@ -15,7 +15,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **Your map must be possible to SS.** This means it must be possible to catch absolutely all [fruits](/wiki/Gameplay/Hit_object/Fruit), [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and [droplets](/wiki/Gameplay/Hit_object/Juice_stream#droplet).
 - **Each beatmap must use at least two different custom [combo colours](/wiki/Beatmapping/Combo_colour) unless the default skin is forced.**
   - The combo colours must not blend with the beatmap's background, storyboard or video in any case.
-- **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
+- **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for catching [fruits](/wiki/Gameplay/Hit_object/Fruit) is minimal.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty cannot be harder than a Salad, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
   - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Platter, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
@@ -27,7 +27,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **All [fruits](/wiki/Gameplay/Hit_object/Fruit) should represent a sound existing in the music.** This is usually a distinct sound, but can also represent a continuous sound with an indistinguishable start or end.
 - **The last [fruit](/wiki/Gameplay/Hit_object/Fruit) of a [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** For example, if the song is using a straight beat, 1/4, 1/8 or 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used.
 - **[Dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used when the destination of the dash or hyperdash is located near the left or right border of the playfield.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield (x:16 on the left and x:496 on the right).
-- **Ensure [combos](/wiki/Beatmapping/Combo) do not reach unreasonable lengths.** This is to ensure the player’s view is not obstructed.
+- **Ensure [combos](/wiki/Beatmapping/Combo) do not reach unreasonable lengths.** This is to ensure the player’s view is not obstructed by the [fruits](/wiki/Gameplay/Hit_object/Fruit) stacked on the plate.
 - **[Overall difficulty](/wiki/Beatmap/Overall_difficulty) should have the same value as the [Approach rate](/wiki/Beatmap/Approach_rate).** This is just a standardised value, as Overall difficulty only affects the maximum score of a difficulty with [scoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch).
   - If a difficulty uses a lower Approach rate than one or more difficulties in the difficulty level below it, then the Overall difficulty should be equal to that of the highest Overall difficulty value in the previous difficulty level.
 - **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should be set according to the song.** For example if your song contains a section that uses 1/3 rhythms only, using tick rate 2 would not be fitting for the entire beatmap.
@@ -132,7 +132,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **Strong [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used.**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) may be used in conjunction with [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.**
 - **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 12 [fruits](/wiki/Gameplay/Hit_object/Fruit).**
@@ -180,7 +179,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Guidelines
 
-- **[Edge dashes](/wiki/Gameplay/Edge_dash) may be used with caution for a maximum of three consecutive objects, and should not be used after [hyperdashes](/wiki/Gameplay/Hyperdash).**
+- **[Edge dashes](/wiki/Gameplay/Edge_dash) should not be used after [hyperdashes](/wiki/Gameplay/Hyperdash).**
 
 #### Difficulty setting guidelines
 
