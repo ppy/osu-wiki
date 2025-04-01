@@ -29,11 +29,11 @@ Những hành vi không thể chấp nhận bao gồm:
 - Các lãnh đạo cộng đồng chịu trách nhiệm làm rõ và thực thi các tiêu chuẩn của chúng tôi về hành vi chấp nhận được và sẽ thực hiện các biện pháp khắc phục phù hợp và công bằng đối với bất kỳ hành vi nào mà họ cho là không phù hợp, đe dọa, xúc phạm hoặc có hại.
 - Các lãnh đạo cộng đồng có quyền và trách nhiệm xóa, chỉnh sửa hoặc từ chối các đóng góp khác không phù hợp với Bộ Quy Tắc Ứng Xử này, và sẽ thông báo lý do cho các quyết định kiểm duyệt khi thích hợp.
 
-## Phạm vi
+## Phạm vi áp dụng
 
 Bộ quy tắc ứng xử này áp dụng trong tất cả các không gian cộng đồng, và cũng áp dụng khi một cá nhân là đại diện chính thức cho cộng đồng tại các không gian công cộng. Các ví dụ về việc đại diện cho cộng đồng của chúng tôi bao gồm sử dụng địa chỉ email chính thức, đăng bài qua tài khoản mạng xã hội chính thức, hoặc đóng vai trò là đại diện được chỉ định tại một sự kiện trực tuyến hoặc ngoại tuyến.
 
-## Thực thi
+## Thực thi quy định
 
 Các trường hợp hành vi lạm dụng, quấy rối hoặc hành vi không thể chấp nhận được bởi bất kỳ cộng tác viên tình nguyện nào có thể được báo cáo tới đội ngũ chống lạm dụng qua email tại [abuse@ppy.sh](mailto:abuse@ppy.sh).
 
