@@ -19,7 +19,7 @@ Ví dụ những hành vi góp phần tạo nên một môi trường tích cự
 Những hành vi không thể chấp nhận bao gồm:
 
 - Sử dụng ngôn ngữ hoặc hình ảnh mang tính tình dục, cũng như bất kỳ hình thức chú ý hoặc tiếp cận mang tính tình dục.
-- Troll, lăng mạ hoặc đưa ra những bình luận mang tính xúc phạm, công kích cá nhân hoặc chính trị.
+- Trêu chọc, lăng mạ hoặc đưa ra những bình luận mang tính xúc phạm, công kích cá nhân hoặc chính trị.
 - Quấy rối công khai hoặc riêng tư.
 - Công khai thông tin cá nhân của người khác, chẳng hạn như địa chỉ nhà hoặc email, mà không có sự cho phép rõ ràng của họ.
 - Các hành vi khác có thể bị coi là không phù hợp trong môi trường chuyên nghiệp.
