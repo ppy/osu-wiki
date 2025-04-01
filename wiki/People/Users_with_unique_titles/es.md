@@ -1,6 +1,6 @@
 # Usuarios con títulos únicos
 
-Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/People/User_group), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones. La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
+Los títulos de usuario normalmente se asocian con los [grupos de usuarios](/wiki/People/User_group), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones. La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
 
 ## Campeones actuales de la World Cup
 
@@ -193,18 +193,22 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 
 Desde 2020, los miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deje el equipo.
 
-- ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684)
-- ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)[^elite-note]
-- ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)[^elite-note]
+- ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)[^elite-note]
+- ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
+- ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
+- ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285)
+- ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741)
+- ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090)
+- ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130)
 - ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)[^elite-note]
-- ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
-- ::{ flag=KR }:: [Liz Triangle](https://osu.ppy.sh/users/2688581)[^elite-note]
-- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)[^elite-note]
-- ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)
-- ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)
-- ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405)
+- ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+- ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303)
+- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)[^elite-note]
+- ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)[^elite-note]
+- ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534)
+- ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598)
 
 ## Ganadores de los concursos Aspire mapping
 
@@ -336,7 +340,7 @@ Estos usuarios recibieron sus respectivos títulos por diversas razones.
 ## Notas
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) recibió el título **Elite Mapper II** en su lugar por haber obtenido con éxito el título Elite Mapper a través de dos medios diferentes: ganando el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) y superando el umbral de 6 puntos en el nuevo sistema de [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
-[^elite-note]: ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=KR }:: [Liz Triangle](https://osu.ppy.sh/users/2688581), y ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) recibieron el título **Elite Nominator II** en su lugar por haber sido nombrados Elite Nominators durante dos años seguidos.
+[^elite-note]: ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604), y ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) recibieron el título de **Elite Nominator II** por haber sido nombrados Elite Nominators durante dos años en total. ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) recibió el título de **Elite Nominator III** por haber sido nombrado Elite Nominator durante tres años en total.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) recibió el título **Elite Mapper II: Aspirant** por haber ganado tanto [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) como [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) recibió el título **osu!mixer II** por haber ganado tanto [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) como el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) recibió el título **Elite Storyboarder II** por haber [recibido el título](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) debido a sus destacadas contribuciones a la escena del storyboarding, además de haber ganado el concurso [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).

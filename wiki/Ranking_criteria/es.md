@@ -143,7 +143,7 @@ Importante entender antes de usar:
 - **Los hitsounds deben ser audibles.** Su propósito es proporcionar feedback, por lo que los hitsounds con un volumen extremadamente bajo o las muestras que se mezclan con las muestras las muestras de una canción son inaceptables. Los modos de juego específicos incluyen excepciones a esta regla en sus respectivos criterios de clasificación.
 - **Los puntos de previsualización deben establecerse y ser consistentes entre todas las dificultades de un beatmap.** Esto se usa tanto para el menú de selección de canciones como para la vista previa en línea.
 - **Cada archivo de hitsound debe tener una duración mínima de 25 ms.** Los archivos más cortos pueden hacer que no se reproduzca ningún sonido en el juego.
-- **Los archivos de sonido completamente en silencio deben usar [este archivo de 44 bytes](https://up.ppy.sh/files/blank.wav).** Otros archivos tienen tamaños innecesariamente grandes y los archivos de 0 bytes no funcionan.
+- **Los archivos de sonido completamente en silencio deben usar [este archivo de 44 bytes](https://assets.ppy.sh/media/blank.wav).** Otros archivos tienen tamaños innecesariamente grandes y los archivos de 0 bytes no funcionan.
 - **Los [hitsounds del storyboard](/wiki/Beatmapping/Hitsound#storyboards-con-hitsounds) no pueden ser usados como sustituto de los [hitsounds activos](/wiki/Beatmapping/Hitsound#hitsound-activo).** Estos proporcionan un feedback inexacto al jugador. Los hitsounds del storyboard en otras situaciones son aceptables, pero se desaconsejan. osu!mania está exento de esta norma.
 
 ### Pautas
