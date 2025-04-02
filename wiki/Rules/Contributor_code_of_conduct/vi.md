@@ -1,6 +1,6 @@
 # Bộ quy tắc ứng xử của cộng tác viên
 
-## Cam Kết Của Chúng Tôi
+## Cam Kết của chúng tôi
 
 Chúng tôi với tư cách là thành viên, người đóng góp và các lãnh đạo cam kết làm nên một môi trường tham gia trong cộng đồng không có quấy rối dưới bất kỳ hình thức nào cho tất cả mọi người, không phân biệt tuổi tác, kích thước cơ thể, khuyết tật (dù hiển thị hay không), dân tộc, đặc điểm giới tính, bản dạng và biểu hiện giới, mức độ kinh nghiệm, trình độ học vấn, tình trạng kinh tế - xã hội, quốc tịch, ngoại hình, chủng tộc, tôn giáo, hay bản sắc và xu hướng tình dục.
 
