@@ -35,7 +35,7 @@ The **Perfect** mod automatically restarts the [beatmap](/wiki/Beatmap) if you a
 
 ## Customisation
 
-![Perfect customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/PF.jpg)
+![Perfect customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/PF.png)
 
 - **Restart on fail** (default enabled): Restart the map after the [health bar](/wiki/Client/Interface/Health_bar) hits the bottom. *Enabling this option doesn't make the mod unrankable.*
 
