@@ -119,4 +119,4 @@ Thank you for reading this far! The next matches are happening this weekend on t
 
 See you next week!
 
-—Walavouchey, Raphalge, Nurend
+—Walavouchey, Raphalge, Nurend, Yasuho
