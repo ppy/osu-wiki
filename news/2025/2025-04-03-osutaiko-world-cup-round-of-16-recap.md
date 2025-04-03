@@ -109,9 +109,9 @@ Chile took the game to match point with an impressive 123,577-point win on [Elim
 
 ## Score highlights
 
-One score stood out the most this weekend, which is now being highlighted to be remembered right here:
+One score stood out this weekend enough to be put on a tall pedestal, which should probably be obvious if you read the previous section:
 
-- The previously mentioned "extra mile" that the Chilean team needed, was ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522/taiko)'s score on [yax03 - 17 yo silly EDM artist from Japan vs. the World](https://osu.ppy.sh/beatmapsets/2249855#taiko/4784566) (TB). Taking the challenge to a next level they showed everyone, why Chile deserves the win. Masterclass gameplay and only 4x100 with the HD mod later, chibamasu ended up with a full-combo and a stunning score of 1,061,305.
+- ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522/taiko)'s FC on [yax03 - 17 yo silly EDM artist from Japan vs. the World](https://osu.ppy.sh/beatmapsets/2249855#taiko/4784566) (TB). It needs to be restated: going the extra mile and taking the challenge to the next level, they showed everyone why Chile deserved the win. Masterful HD gameplay and only four 100s later, chibamasu ended up with a full combo and a stunning score of 1,061,305.
 
 ---
 
