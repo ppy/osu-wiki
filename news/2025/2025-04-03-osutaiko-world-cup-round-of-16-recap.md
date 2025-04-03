@@ -6,7 +6,7 @@ date: 2025-04-03 21:00:00 +0000
 
 World-class drum bashing continues with a flurry of knock-outs. Read on to catch the latest standings before this weekend's matches!
 
-![](/wiki/Tournaments/TWC/2025/img/twc2025-banner.jpg)
+![](/wiki/shared/news/2025-04-03-osutaiko-world-cup-2025-round-of-16-recap/banner.jpg)
 
 The first elimination round has been played, which means we'll be saying goodbye to few valiant teams. Much like the previous round, the skill gap between teams is still fairly large, resulting in many one-sided victories. Still, we have a few exciting matches that we'd be foolish to miss the chance to retell.
 
@@ -28,7 +28,7 @@ Slamming the bass is the mode of operation for this week's [osu! original](/wiki
 
 Click the banner below to check out the map, or [**click here to watch the showcase video**](https://www.youtube.com/watch?v=h-FCevfpe2k)!
 
-[![](/wiki/shared/news/2025-03-28-osutaiko-world-cup-2025-round-of-16-recap/Body_to_the_Drum.jpg)](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)
+[![](/wiki/shared/news/2025-04-03-osutaiko-world-cup-2025-round-of-16-recap/Body_to_the_Drum.jpg)](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)
 
 <div class="osu-md__paragraph">
     <audio controls>
