@@ -35,7 +35,7 @@ The **Accuracy Challenge** mod allows you to set a minimum accuracy that you can
 
 ## Customisation
 
-![Accuracy Challenge customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.jpg)
+![Accuracy Challenge customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
 - **Minimum accuracy** (60%-99%, default 90%): Trigger a failure if your accuracy goes below this value.
 - **Accuracy mode** (default: Maximum achievable): The mode of accuracy that will trigger failure.
