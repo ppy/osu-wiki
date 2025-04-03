@@ -107,6 +107,12 @@ Chile took the game to match point with an impressive 123,577-point win on [Elim
     </video>
 </div>
 
+## Score highlights
+
+One score stood out the most this weekend, which is now being highlighted to be remembered right here:
+
+- The previously mentioned "extra mile" that the Chilean team needed, was ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522/taiko)'s score on [yax03 - 17 yo silly EDM artist from Japan vs. the World](https://osu.ppy.sh/beatmapsets/2249855#taiko/4784566) (TB). Taking the challenge to a next level they showed everyone, why Chile deserves the win. Masterclass gameplay and only 4x100 with the HD mod later, chibamasu ended up with a full-combo and a stunning score of 1,061,305.
+
 ---
 
 Thank you for reading this far! The next matches are happening this weekend on the [osulive Twitch channel](https://www.twitch.tv/osulive), and you can use the schedules on the [TWC 2025 wiki page](/wiki/Tournaments/TWC/2025) to plan your watch parties.
