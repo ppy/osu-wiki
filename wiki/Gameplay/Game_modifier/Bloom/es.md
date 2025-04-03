@@ -20,7 +20,7 @@ tags:
 | Acrónimo | BM |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 1.00x |
+| Multiplicador de puntuación | 1,00x |
 | Estado | No clasificado |
 | Mods incompatibles | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
 
@@ -35,6 +35,6 @@ El mod **Bloom** hace que el cursor aumente de tamaño progresivamente a medida 
 ![Opciones de personalización del mod Bloom en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BM.png)
 
 - **Tamaño máximo según el combo** (5-100, 50 de forma predeterminada): El número del combo en el que el cursor alcanzará su tamaño máximo.
-- **Multiplicador de tamaño final** (5.0-15.0, 10.0 de forma predeterminada): El multiplicador aplicado al tamaño del cursor cuando se alcanza el máximo del combo.
+- **Multiplicador de tamaño final** (5,0-15,0, 10,0 de forma predeterminada): El multiplicador aplicado al tamaño del cursor cuando se alcanza el máximo del combo.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
