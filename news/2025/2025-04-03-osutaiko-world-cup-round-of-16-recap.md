@@ -8,7 +8,7 @@ World-class drum bashing continues with a flurry of knock-outs. Read on to catch
 
 ![](/wiki/shared/news/2025-04-03-osutaiko-world-cup-2025-round-of-16-recap/banner.jpg)
 
-The first elimination round has been played, which means we'll be saying goodbye to few valiant teams. Much like the previous round, the skill gap between teams is still fairly large, resulting in many one-sided victories. Still, we have a few exciting matches that we'd be foolish to miss the chance to retell.
+The first elimination round has been played, which means we'll be saying goodbye to a few of our valiant teams. Much like the previous round, the skill gap between teams is still fairly large, resulting in many one-sided victories. Still, we have a few exciting matches that we'd be foolish to miss the chance to retell.
 
 ## Mappool showcase
 
