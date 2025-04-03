@@ -32,7 +32,7 @@ The **Muted** mod reduces music and [hitsound](/wiki/Beatmapping/Hitsound) volum
 
 ## Customisation
 
-![Muted customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.jpg)
+![Muted customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.png)
 
 - **Start muted** (default disabled): Reverses the effect of the mod. Volume will start muted, and increase with combo. If this setting is enabled, the *Final volume at combo* setting's minimum value is 1 instead of 0.
 - **Enable metronome** (default enabled): Adds a metronome beat that gets louder as the music gets quieter.
