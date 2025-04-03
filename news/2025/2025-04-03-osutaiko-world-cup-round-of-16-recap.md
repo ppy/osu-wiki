@@ -4,11 +4,11 @@ title: "osu!taiko World Cup 2025: Round of 16 Recap"
 date: 2025-04-03 18:00:00 +0000
 ---
 
-<!--The yearly showdown of the best osu!taiko players from around the world is officially underway! Tune in to catch up on all the happenings of the first weekend of the tournament. -->
+World-class drum bashing continues with a flurry of knock-outs. Read on to catch the latest standings before this weekend's matches!
 
 ![](/wiki/Tournaments/TWC/2025/img/twc2025-banner.jpg)
 
-<!--With the first weekend of the osu!taiko World Cup 2025 now in the books, it's about time we take a look back at how the action unfolded and see how the teams fared. But first, let's examine the grounds they clashed on.-->
+The first elimination round has been played, which means we'll be saying goodbye to few valiant teams. Much like the previous round, the skill gap between teams is still fairly large, resulting in many one-sided victories. Still, we have a few exciting matches that we'd be foolish to miss the chance to retell.
 
 ## Mappool showcase
 
@@ -18,15 +18,15 @@ date: 2025-04-03 18:00:00 +0000
     }
 </style>
 
-**[Download the mappool here! (79 MB)](LINK)**
+**[Download the mappool here! (79 MB)](https://packs.ppy.sh/P279%20-%20osu%21taiko%20World%20Cup%202025%3A%20Round%20of%2016.zip?1742848576)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=ID&time=1h23m30s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2413482477&time=0h16m21s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-<!-- osu!taiko and metal music go together like bread and butter, so it's only right that we start off TWC's [osu! originals](/wiki/Community/Bespoke_music) streak with an epic tiebreaker that's sure to get your blood pumping. -->
+Slamming the bass is the mode of operation for this week's [osu! original](/wiki/Community/Bespoke_music) by Slax, which is as much of a head-bop as it is a comfy NM1.
 
-[**Click here to watch the showcase video!**](LINK)
+Click the banner below to check out the map, or [**click here to watch the showcase video**](https://www.youtube.com/watch?v=h-FCevfpe2k)!
 
 [![](/wiki/shared/news/2025-03-28-osutaiko-world-cup-2025-round-of-16-recap/Body_to_the_Drum.jpg)](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)
 
@@ -36,11 +36,9 @@ date: 2025-04-03 18:00:00 +0000
     </audio>
 </div>
 
-<!-- And it doesn't stop there... after [Fraser Edwards](https://osu.ppy.sh/beatmaps/artists/339) themselves joined the reveal live on [Twitch](https://www.twitch.tv/osulive), they posted a [sneak peek of their brand-new music video](https://x.com/Fraser_Edwards/status/1900556340335886355) featuring this song on their Twitter. Definitely something to look forward to when it finally releases. -->
-
 ## Round of 16 results
 
-<!-- We've tallied up the scores, and let's roll the drumrolls... -->
+The Round of 16 had, surprisingly enough, 16 matches. Here are their outcomes all laid out:
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
@@ -61,7 +59,7 @@ date: 2025-04-03 18:00:00 +0000
 | Peru ::{ flag=PE }:: | 0 | **5** | ::{ flag=SK }:: **Slovakia** |
 | Colombia ::{ flag=CO }:: | 1 | **5** | ::{ flag=PL }:: **Poland** |
 
-<!-- While results are quite one-sided, we've still managed to scout a couple interesting matches to cover! -->
+This has been another weekend where the stronger teams have mostly stomped out the competition. Unfortunately for the losers' bracket teams, that also means we'll have to bid ::{ flag=AR }:: Argentina, ::{ flag=BR }:: Brazil, ::{ flag=BG }:: Bulgaria, ::{ flag=CO }:: Colombia, ::{ flag=IT }:: Italy, ::{ flag=MX }:: Mexico, ::{ flag=PE }:: Peru and ::{ flag=PT }:: Portugal farewell from the osu!taiko World Cup 2025.
 
 ## Match highlights
 
@@ -91,25 +89,25 @@ Now the United Kingdom's pick, they chose this week's osu! original, [Slax - Bod
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2418738466&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The idea of a "core player" is something that many will be familiar with, both players and viewers alike. Household names like [goheegy](https://osu.ppy.sh/users/8057655/taiko) from the United Kingdom or [frukoyurdakul](https://osu.ppy.sh/users/7612550) from Turkey are spearheads that people might base their match predictions on. For Chile, you might consider their team captain, [Ulqui](https://osu.ppy.sh/users/1263669), to be that core player. But what happens when they're not around? This weekend we saw the meeting of the captainless Chile (#6) and the Russian Federation (#11). A match where 90.9% of pick'em voters had their hopes on Chile, perhaps unaware of their missing player.
+The idea of a "core player" is something that many will be familiar with, both players and viewers alike. Household names like [goheegy](https://osu.ppy.sh/users/8057655/taiko) from the United Kingdom or [frukoyurdakul](https://osu.ppy.sh/users/7612550) from Türkiye are spearheads that people might base their match predictions on. For Chile, you might consider their team captain, [Ulqui](https://osu.ppy.sh/users/1263669), to be that core player. But what happens when they're not around? This weekend we saw the meeting of the captainless Chile (#6) and the Russian Federation (#11). A match where 90.9% of pick'em voters had their hopes on Chile, perhaps unaware of their missing player.
 
-The Chilean team immediately showed everyone that their core remains strong regardless of their roster with three fantastic full combos on their first pick, [haunt - song about love](https://osu.ppy.sh/beatmapsets?q=artist%3D%22%22haunt%22%22) (HD2). However, the Russian team was quick to prove that they too are a force to be reckoned with, claiming their own point on [nagiha - VALDeS](https://osu.ppy.sh/beatmapsets/2343727#taiko/5038204) (NM2).
+The Chilean team immediately showed everyone that their core remains strong regardless of their roster with three fantastic full combos on their first pick, [haunt - song about love](https://osu.ppy.sh/beatmapsets/2203014#taiko/4701577) (HD2). However, the Russian team was quick to prove that they too are a force to be reckoned with, claiming their own point on [nagiha - VALDeS](https://osu.ppy.sh/beatmapsets/2343727#taiko/5038204) (NM2).
 
-The Chileans showed off their mod prowess with a full team's worth of HDHR scores on [reysa - sometimes it's just a little sad to say goodbye](https://osu.ppy.sh/beatmapsets/2343727#taiko/5038204) (FM2). Although the Russian team full-comboed, all three only used HR, allowing Chile to secure their second point.
+The Chileans showed off their mod prowess with a full team's worth of HDHR scores on [reysa - sometimes it's just a little sad to say goodbye](https://osu.ppy.sh/beatmapsets/2343768#taiko/5038285) (FM2). Although the Russian team full-comboed the map, all three only used HR, allowing Chile to secure their second point.
 
-The teams kept trading points—Russia claimed [minimum electric design - miscalc](https://osu.ppy.sh/beatmapsets?q=artist%3D%22%22minimum%20electric%20design%22%22) (DT2), Chile repeated their three-way HDHR victory on [Zekk - Trinity Force](https://osu.ppy.sh/beatmapsets/2048882#taiko/4277827) (FM1) and Russia fired back with three identical scores on [seatrus - Diossido di Carbonio](https://osu.ppy.sh/beatmapsets?q=title%3D%22%22Diossido%20di%20Carbonio%22%22) (HR1). It's definitely worth checking out.
+The teams kept trading points — Russia claimed [minimum electric design - miscalc](https://osu.ppy.sh/beatmapsets/2322699#taiko/4977029) (DT2), Chile repeated their three-way HDHR victory on [Zekk - Trinity Force](https://osu.ppy.sh/beatmapsets/2048882#taiko/4277827) (FM1) and Russia fired back with three identical scores on [seatrus - Diossido di Carbonio](https://osu.ppy.sh/beatmapsets/2068608#taiko/4328190) (HR1). It's definitely worth checking out.
 
-Chile took the game to match point with an impressive 123,577-point win on [Eliminate - Elevator (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/2010161#taiko/4182581) (NM4)... But there's a reason this match made it to the recap—one of them being Russia's incredible last-point clutch, a mere 3,002 points on [EVO - Kholod](https://osu.ppy.sh/beatmapsets/2155566#taiko/4713800) (HR2), bringing them to the first tiebreaker of the tournament, where all six performed impeccably—but one player went the extra mile, securing Chile's victory:
+Chile took the game to match point with an impressive 123,577-point win on [Eliminate - Elevator (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/2010161#taiko/4182581) (NM4)... but there's a reason this match made it to the recap — one of them being Russia's incredible last-point clutch of a mere 3,002 points on [EVO - Kholod](https://osu.ppy.sh/beatmapsets/2155566#taiko/4713800) (HR2) bringing them to the first tiebreaker of the tournament, where all six performed impeccably — but one player went the extra mile, securing Chile's victory:
 
-## Score highlights
-
-We do have one phenomenal score to highlight:
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-04-03-cl-ru-tiebreaker.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ---
 
-That should be all for this week! The osu!taiko World Cup 2025 will be back this weekend with the Round of 16, so make sure to tune in on the [osulive Twitch channel](https://www.twitch.tv/osulive) to catch all the action!
-
-Want to follow along with the happenings of the World Cup live? Check out [TWC 2025 wiki page](/wiki/Tournaments/TWC/2025) for all the match schedules.
+Thank you for reading this far! The next matches are happening this weekend on the [osulive Twitch channel](https://www.twitch.tv/osulive), and you can use the schedules on the [TWC 2025 wiki page](/wiki/Tournaments/TWC/2025) to plan your watch parties.
 
 See you next week!
 
