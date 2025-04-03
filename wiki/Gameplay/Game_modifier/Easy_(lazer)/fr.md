@@ -26,7 +26,7 @@ tags:
 | Type | Réduction de la difficulté |
 | Touche de raccourci par défaut | `A` (`Q` sur un clavier QWERTY) |
 | Modes de jeu | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicateur de score | 0.50x |
+| Multiplicateur de score | 0,50x |
 | Statut | Classé |
 | Mods incompatibles ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | Mods incompatibles ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
