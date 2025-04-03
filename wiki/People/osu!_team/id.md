@@ -10,6 +10,8 @@ tags:
   - tim osu!
   - staf
 no_native_review: true
+outdated_translation: true
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
 ---
 
 # Tim osu!

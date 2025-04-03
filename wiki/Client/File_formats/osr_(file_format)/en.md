@@ -1,6 +1,6 @@
 # .osr (file format)
 
-**.osr** is a file format containing information about an osu! replay. To use it, the beatmap specified by the file is required in "Songs" folder.
+**.osr** is a file format for describing osu! [replays](/wiki/Gameplay/Replay). An `.osr` file can be played only if the game has the exact [beatmap](/wiki/Beatmap) for which the replay was recorded.
 
 ## Data Types
 
@@ -19,16 +19,16 @@ Byte offsets are not included in this table due to variable length values.
 
 | Data Type | Description |
 | :-- | :-- |
-| Byte | Game mode of the replay (0 = osu! Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania) |
+| Byte | Game mode of the replay (0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
 | Integer | Version of the game when the replay was created (ex. 20131216) |
-| String | osu! beatmap MD5 hash |
+| String | Beatmap MD5 hash |
 | String | Player name |
-| String | osu! replay MD5 hash (includes certain properties of the replay) |
+| String | Replay MD5 hash (includes certain properties of the replay) |
 | Short | Number of 300s |
-| Short | Number of 100s in standard, 150s in Taiko, 100s in CTB, 100s in mania |
-| Short | Number of 50s in standard, small fruit in CTB, 50s in mania |
-| Short | Number of Gekis in standard, Max 300s in mania |
-| Short | Number of Katus in standard, 200s in mania |
+| Short | Number of 100s in osu!, 150s in osu!taiko, 100s in osu!catch, 100s in osu!mania |
+| Short | Number of 50s in osu!, small fruit in osu!catch, 50s in osu!mania |
+| Short | Number of Gekis in osu!, Max 300s in osu!mania |
+| Short | Number of Katus in osu!, 200s in osu!mania |
 | Short | Number of misses |
 | Integer | Total score displayed on the score report |
 | Short | Greatest combo displayed on the score report |

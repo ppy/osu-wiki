@@ -1,3 +1,3 @@
-# .osk (format file)
+# .osk (format berkas)
 
-**.osk** adalah file arsip yang berisi folder [skin osu!](/wiki/Skinning).
+**.osk** adalah berkas arsip yang mengandung folder [skin osu!](/wiki/Skinning).

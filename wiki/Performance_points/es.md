@@ -1,33 +1,8 @@
----
-outdated_since: 6764d34c29c0eac7037a091e314d7376d1829d9d
-outdated_translation: true
----
-
 # Puntos de rendimiento
 
 Los **puntos de rendimiento** (o **pp** para abreviar) son una forma de clasificación que pretende ser más contextualmente relevante para la progresión de un jugador en osu!.
 
 Su objetivo es cambiar el enfoque de la progresión de la habilidad, pasando de la cantidad de tiempo jugado a una representación real de la habilidad del jugador. Esto se logra mediante el cálculo de una puntuación única que se basa en la dificultad de un beatmap y el rendimiento de un jugador en ese [beatmap](/wiki/Beatmap).
-
-## Historia
-
-La primera implementación inicial de dicha puntuación se reveló al público durante el mes de abril de 2012 y se conocía únicamente como el misterioso proyecto *'???'*, el enigmático sistema recibió finalmente su nombre completo más adelante en el mes.
-
-Conocido a partir de entonces como «pp» (abreviatura de «puntos de rendimiento»), este nuevo sistema pretendía cambiar el estándar anterior de rendimiento de los jugadores, pasando de la simple [puntuación](/wiki/Gameplay/Score) total a algo que reflejara con precisión la habilidad. El nuevo sistema fue muy bien acogido por los jugadores de la época.
-
-Varios meses después de su revelación, la versión 20120722-24 de osu! implementó oficialmente el sistema para reemplazar por completo el antiguo sistema de puntuación [clasificada](/wiki/Beatmap/Category#ranked), calculando las nuevas puntuaciones cada 30 minutos. Poco tiempo después, en agosto del mismo año, se mejoró el sistema para que se actualizara en tiempo real.
-
-El sistema siguió existiendo en esta condición durante más de un año de servicio hasta que [Tom94](https://osu.ppy.sh/users/1857058), el creador de la fórmula de puntuación *osu!tp*, se unió al [osu! team](/wiki/People/osu!_team) e implementó su diseño en el sistema. El sistema resultante se llamó *ppv2*, y empezó a funcionar el 27 de enero de 2014, por lo que el antiguo sistema pasó a llamarse *[ppv1](/wiki/Performance_points/ppv1)*.
-
-El 16 de enero de 2021, se realizaron cambios en el sistema ppv2 que tenían como objetivo otorgar pp con mayor precisión a aspectos más difíciles de los mapas. Estos cambios se realizaron en gran parte gracias a la ayuda de varios miembros individuales de la comunidad, como [Xexxar](https://osu.ppy.sh/users/2773526) y [StanR](https://osu.ppy.sh/users/7217455). Los cambios específicos introducidos se detallan en la [noticia correspondiente](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). De forma muy resumida, los principales puntos de interés de la actualización fueron los siguientes:
-
-- Introducir un factor de escala para la ganancia adicional de pp de los mapas con una velocidad de aproximación de 11 según la longitud de un beatmap
-- Introducir un factor de escala para la pérdida de pp afectado por el mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) según el número de fallos en una jugada
-- Introducir un factor de escala para la pérdida de pp afectado por el mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) según el número de spinners en un beatmap
-- Ajustar la tasa de pérdida de pp de los fallos a ser más indulgente en los mapas más largos con mayor combo
-- Penalizar las jugadas de menor [precisión](/wiki/Gameplay/Accuracy) con menos obtención de pp
-
-El ppv2 está actualmente en servicio activo, con actualizaciones en forma de noticias publicadas por el [comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) cada vez que se implementan nuevos cambios.
 
 ## Calculación
 
@@ -96,7 +71,7 @@ Ten en cuenta los siguientes consejos:
 - Juega con eficacia y averigua qué estilo de juego se adapta mejor a ti.
 - Concéntrate en conseguir un puñado de puntuaciones excepcionales en lugar de «farmear» cientas de puntuaciones apenas aceptables.
 - Intenta mejorar tu precisión. Incluso un 1 % marca una gran diferencia.
-- Intenta conseguir combos más altos. Los combos completos (FC) o las puntuaciones [SS](/wiki/Gameplay/Grade) dan cantidades tremendas de puntuación.
+- Intenta conseguir combos más altos. Los [combos completos](/wiki/Gameplay/Full_combo) o las puntuaciones [SS](/wiki/Gameplay/Grade) dan cantidades tremendas de puntuación.
 
 ### ¿Por qué no he ganado toda la cantidad de pp de un mapa que he jugado?
 
@@ -106,13 +81,13 @@ Puedes obtener más información sobre el sistema de ponderación [arriba](#sist
 
 ### ¿Cuánta bonificación de pp recibiré por tener puntuaciones en mapas clasificados?
 
-**Se otorga una bonificación de hasta 416,6667 pp por establecer puntuaciones. Esto se consigue con aproximadamente 3640 puntuaciones, pero se puede conseguir 416 de esta bonificación teniendo solo 1285 puntuaciones.**
+**Se otorga una bonificación de hasta 413,894 pp por establecer 1000 puntuaciones.**
 
-Puedes calcular el valor exacto de esta bonificación siguiendo [esta fórmula](https://www.desmos.com/calculator/y5vy4vmxng), donde `N` es el número de mapas clasificados con una puntuación establecida:
+Puedes calcular el valor exacto de esta bonificación siguiendo [esta fórmula](https://www.desmos.com/calculator/ll2foxmgp3), donde `N` es el número de mapas clasificados con una puntuación establecida:
 
-`416,6667 * (1 - 0,995 ^ N)`
+`416,6667 * (1 - 0,995 ^ min(N, 1000))`
 
-El número promedio de resultados necesarios para alcanzar la mitad de esta bonificación es de aproximadamente 209 puntuaciones. Como puedes ver, la cantidad de puntuaciones requeridas se dispara hacia el extremo superior del espectro.
+El número promedio de resultados necesarios para alcanzar la mitad de esta bonificación es de aproximadamente 134 puntuaciones, lo que significa que la bonificación de pp aumenta rápidamente en las primeras etapas hasta llegar a las 1000 puntuaciones y lentamente después.
 
 #### ¿La ponderación es la razón por la que ya no recibo pp al jugar mapas fáciles?
 
@@ -120,11 +95,11 @@ El número promedio de resultados necesarios para alcanzar la mitad de esta boni
 
 Sin embargo, en ese momento, habrás obtenido puntuaciones más impresionantes, lo que significa que tu pp será más alto en general, ya que las puntuaciones más altas que hayas obtenido superarán a las más antiguas.
 
-### ¿Por qué he perdido pp por conseguir una nueva puntuación?
+### ¿Por qué he perdido pp por establecer una nueva puntuación?
 
-**En ocasiones, puedes perder pp por conseguir una puntuación con un combo más alto pero con peor precisión, o por jugar con mods y conseguir una peor precisión en general.**
+**El algoritmo de pp se actualiza ocasionalmente y las puntuaciones se recalculan para reflejar los nuevos cambios, que pueden hacerse visibles como una disminución o un aumento repentino del total de pp cuando se establece una puntuación durante ese proceso.**
 
-La puntuación total sigue siendo importante para la clasificación de cada mapa, y esto puede dar lugar a circunstancias inusuales en las que una puntuación total más alta con menor precisión o uso de mods produzca un resultado «mejor» que al final te haga perder pp.
+Las actualizaciones de los sistemas de puntos de rendimiento van acompañadas de anuncios en el juego y en el sitio web, que contienen más información sobre el proceso de recálculo y los cambios en sí.
 
 ### Algunos mods otorgan mucho/poco pp. ¿A qué se debe?
 
@@ -133,3 +108,39 @@ La puntuación total sigue siendo importante para la clasificación de cada mapa
 Ningún sistema es completamente perfecto, y los totales de los puntos de rendimiento variarán según los mapas y ciertas combinaciones de mods, incluso cuando la dificultad subjetiva de esas jugadas sea inferior a la de un mapa más difícil.
 
 En general, el actual sistema de los puntos de rendimiento se ha diseñado para ser lo más justo posible dentro de las limitaciones de su modelo.
+
+## Historia
+
+La implementación inicial de los puntos de rendimiento se reveló al público en abril de 2012 y se conocía solo como el misterioso proyecto *"???"*.
+
+Con el nombre completo revelado en el transcurso del mes, este nuevo sistema pretendía cambiar el estándar anterior de rendimiento de los jugadores, pasando de la simple [puntuación](/wiki/Gameplay/Score) total a algo que reflejara con precisión la habilidad. El nuevo sistema fue muy bien recibido por los jugadores de la época.
+
+Varios meses después de su revelación, la versión 20120722-24 de osu! implementó oficialmente el sistema para reemplazar por completo el antiguo sistema de puntuación [clasificada](/wiki/Beatmap/Category#ranked), calculando las nuevas puntuaciones cada 30 minutos. Poco tiempo después, en agosto del mismo año, se mejoró el sistema para que se actualizara en tiempo real.
+
+El sistema siguió existiendo en esta condición durante más de un año de servicio hasta que [Tom94](https://osu.ppy.sh/users/1857058), el creador de la fórmula de puntuación *osu!tp*, se unió al [osu! team](/wiki/People/osu!_team) e implementó su diseño en el sistema. El sistema resultante se llamó *ppv2*, y empezó a funcionar el 27 de enero de 2014, por lo que el antiguo sistema pasó a llamarse *[ppv1](/wiki/Performance_points/ppv1)*.
+
+El 16 de enero de 2021, se realizaron cambios en el sistema ppv2 que tenían como objetivo otorgar pp con mayor precisión a aspectos más difíciles de los mapas. Estos cambios se realizaron en gran parte gracias a la ayuda de varios miembros individuales de la comunidad, como [Xexxar](https://osu.ppy.sh/users/2773526) y [StanR](https://osu.ppy.sh/users/7217455). Los cambios específicos introducidos se detallan en la [noticia correspondiente](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). De forma muy resumida, los principales puntos de interés de la actualización fueron los siguientes:
+
+- Introducir un factor de escala para la ganancia adicional de pp de los mapas con una velocidad de aproximación de 11 según la longitud de un beatmap
+- Introducir un factor de escala para la pérdida de pp afectado por el mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) según el número de fallos en una jugada
+- Introducir un factor de escala para la pérdida de pp afectado por el mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) según el número de spinners en un beatmap
+- Ajustar la tasa de pérdida de pp de los fallos a ser más indulgente en los mapas más largos con mayor combo
+- Penalizar las jugadas de menor [precisión](/wiki/Gameplay/Accuracy) con menos obtención de pp
+
+El 28 de octubre de 2024, se implementaron más cambios. Los detalles concretos de los cambios realizados se detallan en la [noticia correspondiente](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates). Los principales puntos de interés de la actualización fueron los siguientes:
+
+- osu!
+  - Eliminar el escalado del combo
+  - Mejorar la complejidad del ritmo
+  - Ajustar la puntería en beatmaps rápidos
+  - Los sliders ahora contribuirían a la precisión para las puntuaciones que usen la precisión de las cabezas de los sliders
+- osu!taiko
+  - Considerar el «TL-tapping» en el componente de resistencia de la calificación por estrellas
+  - Ajustar la bonificación de [Hidden](/wiki/Gameplay/Game_modifier/Hidden) y [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) en el componente de precisión del cálculo de pp
+  - Ajustar el escalado de precisión
+- osu!catch
+  - Introducir un factor de escalado a la pérdida de pp afectada por el mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) basado en el número de fallos en una jugada
+- osu!mania
+  - Ajustar la escala de valores de las LN para solucionar los mapas de LN que otorgaban demasiado pp
+
+El ppv2 está actualmente en servicio activo, con actualizaciones en forma de noticias publicadas por el [comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) cada vez que se implementan nuevos cambios.
