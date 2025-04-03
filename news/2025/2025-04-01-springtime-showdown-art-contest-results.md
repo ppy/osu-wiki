@@ -44,7 +44,7 @@ LeeNarie, unlike Triantafyllia, did leave a cookie template on the artwork. Whoo
 
 [![](https://assets.ppy.sh/contests/242/banners/Son%20Goku.jpg)](https://assets.ppy.sh/contests/242/winners/Son%20Goku.png)
 
-Chirou showed pippi the ropes of osu!taiko in [**Son Goku**](https://osu.ppy.sh/users/14991975)'s dim yet cozy arcade, yielding a picture worth **610** impressions from drum admirers.
+Chirou showed pippi the ropes of *Taiko no Tatsujin* in [**Son Goku**](https://osu.ppy.sh/users/14991975)'s dim yet cozy arcade, yielding a picture worth **610** impressions from drum admirers.
 
 [![](https://assets.ppy.sh/contests/242/banners/SuperSSun.jpg)](https://assets.ppy.sh/contests/242/winners/SuperSSun.png)
 
