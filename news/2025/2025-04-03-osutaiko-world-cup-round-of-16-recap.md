@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2025: Round of 16 Recap"
-date: 2025-04-03 18:00:00 +0000
+date: 2025-04-03 21:00:00 +0000
 ---
 
 World-class drum bashing continues with a flurry of knock-outs. Read on to catch the latest standings before this weekend's matches!
