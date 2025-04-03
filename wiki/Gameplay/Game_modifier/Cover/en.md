@@ -34,7 +34,7 @@ The **Cover** mod hides a part of the playfield similar to [Fade In](/wiki/Gamep
 
 ## Customisation
 
-![Cover customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CO.jpg)
+![Cover customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CO.png)
 
 - **Coverage** (0,2-0,8, default 0,5): The proportion of playfield height that notes will be hidden for.
 - **Direction** (default: Along scroll): The direction on which the cover is applied.
