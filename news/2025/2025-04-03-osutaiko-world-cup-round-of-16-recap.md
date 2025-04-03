@@ -61,6 +61,8 @@ The Round of 16 had, surprisingly enough, 16 matches. Here are their outcomes al
 
 This has been another weekend where the stronger teams have mostly stomped out the competition. Unfortunately for the losers' bracket teams, that also means we'll have to bid ::{ flag=AR }:: Argentina, ::{ flag=BR }:: Brazil, ::{ flag=BG }:: Bulgaria, ::{ flag=CO }:: Colombia, ::{ flag=IT }:: Italy, ::{ flag=MX }:: Mexico, ::{ flag=PE }:: Peru and ::{ flag=PT }:: Portugal farewell from the osu!taiko World Cup 2025.
 
+As a quick note, the "-1" in the results means that the opponent won by default, in this case because not enough team members were available to play.
+
 ## Match highlights
 
 ### ::{ flag=CN }:: China vs. ::{ flag=GB }:: United Kingdom
