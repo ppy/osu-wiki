@@ -22,7 +22,7 @@
 
 在 8 月 2 日，所有的用户们都获得了一次改名字的机会。如果想要改名字，用户们必须至少拥有一次 osu!supporter 的标签，无论是自己购买的还是别人赠送的。[^name-change]
 
-聊天命令 [`!report`](/wiki/BanchoBot#报告) 被加入到了 [Bancho](/wiki/BanchoBot) 中，使得当某些人在聊天中聊了不该聊的事情的时候，用户们可以对其向管理员进行举报。[^bancho-report]
+聊天命令 [`!report`](/wiki/BanchoBot#举报) 被加入到了 [Bancho](/wiki/BanchoBot) 中，使得当某些人在聊天中聊了不该聊的事情的时候，用户们可以对其向管理员进行举报。[^bancho-report]
 
 [nardii](https://osu.ppy.sh/users/1017) 给了 peppy 他们的 [X](https://x.com) 账号 [@osugame](https://X.com/osugame) 用于常规的 osu! 新闻发布至今。[^twitter-osugame]
 
