@@ -6,7 +6,7 @@ Esta guía explica cómo modear un [beatmap](/wiki/Beatmap) en [osu!mania](/wiki
 
 ## ¿Por dónde empezar?
 
-*Si ya estás familiarizado con la página de modding y con lo que hace cada botón, puedes pasar directamente a la sección [¡Empecemos el modding!](#¡empecemos-el-modding!).*
+*Si ya estás familiarizado con la página de modding y con lo que hace cada botón, puedes pasar directamente a la sección [¡Empecemos a modear!](#¡empecemos-a-modear!).*
 
 Para empezar a modear un mapa, elige un beatmap del [listado de beatmaps pendientes](https://osu.ppy.sh/beatmapsets?m=3&s=pending) o pregunta a cualquier mapper de osu!mania si tiene algo que quiera clasificar, y cuando estés en la página del beatmap, haz clic en `Discusión`. Se abrirá la página de discusión, donde se realiza el proceso de modding.
 
@@ -60,7 +60,7 @@ Cuando una publicación se marca como **problema** es para cambios que son neces
 
 Puedes visitar el artículo [discusión de beatmaps](/wiki/Beatmap_discussion) para más detalles.
 
-## ¡Empecemos el modding!
+## ¡Empecemos a modear!
 
 Para empezar a modear, abre la dificultad de un beatmap en el editor. A continuación, elige **la misma** dificultad en el menú desplegable de la página de discusión del beatmap, para asegurarte de que las publicaciones vayan a la dificultad correcta.
 
