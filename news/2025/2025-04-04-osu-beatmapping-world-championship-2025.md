@@ -10,7 +10,7 @@ After a long hiatus, the **osu! Beatmapping World Championship (o!bwc)** is back
 
 [o!bwc](/wiki/Contests/oBWC) is an international beatmapping contest that gathers beatmappers worldwide to showcase their creativity, expertise, and passion for mapping. Participants form teams representing their home country and compete to advance through the qualifiers and intense clash rounds.
 
-This year, o!bwc will be hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) with the help of ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) during clash rounds. Whether you're a seasoned mapper or a rising talent, we invite you to team up and take part in this beatmapping event! Join the [o!bwc Discord](https://discord.com/invite/QGzz3n655u) for more information, or just register for the contest [here](LINK).
+This year, o!bwc will be hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) with the help of ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) during clash rounds. Whether you're a seasoned mapper or a rising talent, we invite you to team up and take part in this beatmapping event! Join the [o!bwc Discord](https://discord.com/invite/QGzz3n655u) and visit the forum thread for more information, or just register for the contest [here](LINK).
 
 ## General information and rules
 
@@ -29,20 +29,21 @@ This year, o!bwc will be hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/u
 
 - o!bwc is a team-based beatmapping contest.
 - Each team consists of 4–6 members, with one member being their captain.
-- The captain is responsible for organising and managing their team, as well as communicating with the hosts.
+- The captain is responsible for organising and managing their team, submitting their entries, as well as communicating with the hosts.
 - All team members must share the same country flag.
 
-### Beatmapping
+### Beatmapping and Submission
 
 - This contest is for the osu! mode only.
-- You must declare the contributions of your team members by providing a list of sections mapper by each individual mapper.
+- Captain is responsible for submission on behalf their team.
+- The contributions of team members must be declared, for example, a list of sections mapped by each individual mapper.
   - Members that lack sufficient contribution may be ineligible to receive awards, or disqualified from the contest.
-- Your submission must be an `.osz` file exported from the osu! in-game editor.
-- You must submit at the designated submission site (available once submissions are open).
-- Your submission should comply with the [ranking criteria](/wiki/Ranking_criteria) when applicable.
-- Your submission should not contain information that reveals the identity of your team.
+- Submission must be an `.osz` file exported from the osu! in-game editor.
+- Submission must be at the designated submission site (available once submissions are open).
+- Submission should comply with the [ranking criteria](/wiki/Ranking_criteria) when applicable.
+- Submission should not contain information that reveals the identity of your team.
 - Do not upload or share your submission with others beyond your team before the results announcement.
-- You are allowed to use custom hitsounds and custom combo colours. However, you are not allowed to add backgrounds, videos, or storyboards.
+- Custom hitsounds and custom combo colours are allowed. However, backgrounds, videos, or storyboards are not allowed.
 - Do not modify metadata such as Artist, Title, and Tags in the provided template.
 
 ## Judging
@@ -62,7 +63,7 @@ This year, o!bwc will be hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/u
 
 #### Clash rounds
 
-- *Clash rounds* are voting based. Each round consists of head-to-head matchups between two teams.
+- Clash rounds are voting based. Each round consists of head-to-head matchups between two teams.
 - Each judge has one vote for each matchup and they must vote for one team out of the two. The team with the highest number of votes will pass this round and the other will be eliminated.
 
 ## Song selection
