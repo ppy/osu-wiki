@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: lexycat"
-date: 2025-04-05 21:00:00 +0000
+date: 2025-04-05 23:00:00 +0000
 ---
 
 **lexycat** crawls out from the depths of the early 2000s internet landscape and into our Featured Artist library!
