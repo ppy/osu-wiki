@@ -82,6 +82,7 @@ The schedule is subject to change according to the progress of the contest.
 - Each team consists of 4–6 members, with one member being their captain.
 - The captain is responsible for organising and managing their team, submitting their entries, as well as communicating with the hosts.
 - All team members must share the same country flag.
+- At minimum, the captain should join the [Discord server](https://discord.com/invite/QGzz3n655u) and keep up with updates to the contest. Other team members and spectators are encouraged to do the same.
 
 ### Beatmapping and submission
 
@@ -117,4 +118,4 @@ The schedule is subject to change according to the progress of the contest.
 
 ### Song selection
 
-- The songs and templates to map will be announced at the beginning of each round.
+- The songs and templates to map will be announced at the beginning of each round through the [Discord server](https://discord.com/invite/QGzz3n655u).

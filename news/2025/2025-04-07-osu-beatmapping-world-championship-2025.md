@@ -48,6 +48,8 @@ At the beginning of each round, a new song will be announced for teams to showca
 
 Teams consist of 4–6 members and represent their country, meaning every member must share the same country flag.
 
+The captain should join the contest's [Discord server](https://discord.com/invite/QGzz3n655u) to keep up with updates and announcements. Others are free to do that too!
+
 ## Beatmapping and submission
 
 The contributions of team members must be declared, for example, with a list of sections mapped by each individual mapper.
