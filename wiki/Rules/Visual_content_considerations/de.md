@@ -20,9 +20,9 @@ Um das Wohlergehen der Community sicherzustellen, gilt die Community-Regel Nr. 5
 
 Alle Bilder sollten neutral und objektiv beurteilt werden, ohne Berücksichtigung anderer vorliegender Fälle. Entscheide auf der Grundlage dessen, was du siehst.
 
-Bitte habe auch Verständnis, dass wir eine globale, multikulturelle Community mit sehr unterschiedlichen Gedanken, Meinungen und Werten sind bezogen auf was erlaubt ist und was nicht.
+Bitte habe auch Verständnis, dass wir eine globale, multikulturelle Community mit sehr unterschiedlichen Gedanken und Werten sind. Jeder wird eine andere Meinung zu bestimmten Themen haben.
 
-Versuche im Zweifel, dich an die gemeinsamen Wertvorstellungen anzupassen, die von dem größten Teil der osu!-Community im Allgemeinen geteilt werden.
+Versuche im Zweifelsfall, dich an die gemeinsamen Wertvorstellungen anzupassen, die von dem größten Teil der osu!-Community im Allgemeinen geteilt werden.
 
 ## Kriterien
 
@@ -31,9 +31,9 @@ Bilder oder visuelle Elemente, die eines der folgenden Dinge enthalten, sind **n
 - **sexueller Inhalt, der Minderjährige enthält oder auf diese ausgerichtet ist**
 - **exzessive Gewalt, Blut, Zerstückelung, Enthauptung oder Verstümmelung**
 - **erhebliche sexuelle Anspielungen**
-- **sexuelles Imponiergehabe oder Aufforderung**
+- **anzügliches Posieren oder Aufforderung zu sexuellen Taten**
 - **erotischer Inhalt oder grafische Abbildungen von Sexualität**
-- **Beispiele von Drogenkonsum, Vorbereitung oder Identifikation mit illegaler Drogensubkultur**[^drug-nature]
+- **Beispiele von Drogenkonsum, die Vorbereitung dazu oder die Identifikation mit illegaler Drogensubkultur**[^drug-nature]
 - **Darstellungen von absichtlich hetzerischen politischen, kulturellen, religiösen oder sozialen Inhalten**
 - **Bilder, die suizidales oder selbstverletzendes Verhalten darstellen, einschließlich der Vorbereitung oder bevorstehende Versuche**
 
