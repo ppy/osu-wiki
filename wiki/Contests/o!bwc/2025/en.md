@@ -76,9 +76,9 @@ The schedule is subject to change according to the progress of the contest.
   - Clash rounds consist of tight time head-to-head matches between two teams. The winners will proceed into the next round.
   - Clash rounds run on a single-elimination bracket.
 
-### Teams
+### Teams and registration
 
-- o!bwc is a team-based beatmapping contest.
+- o!bwc is a team-based beatmapping contest. Mappers should [register through this form](https://docs.google.com/forms/d/1EWv2p489J7cokkjhQw0g0fGP-DXwtb7MBzS1V9omOJE/viewform?edit_requested=true).
 - Each team consists of 4–6 members, with one member being their captain.
 - The captain is responsible for organising and managing their team, submitting their entries, as well as communicating with the hosts.
 - All team members must share the same country flag.
