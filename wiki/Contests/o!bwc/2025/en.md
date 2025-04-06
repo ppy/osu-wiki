@@ -97,13 +97,11 @@ The schedule is subject to change according to the progress of the contest.
 - Custom hitsounds and custom combo colours are allowed. However, backgrounds, videos, or storyboards are not allowed.
 - Do not modify metadata such as Artist, Title, and Tags in the provided template.
 
-## Judging
+### Judging criteria
 
 - It is mandatory for judges to give comments and reasons behind their scores.
 - Submissions are anonymous to judges.
 - There will be two panels of judges, one for the *qualifier round*, and the other for the *clash rounds*.
-
-### Judging criteria
 
 #### Qualifier round
 
@@ -117,6 +115,6 @@ The schedule is subject to change according to the progress of the contest.
 - Clash rounds are based on a voting system. Each round consists of head-to-head matchups between two teams.
 - Each judge has one vote for each matchup and they must vote for one team out of the two. The team with the highest number of votes will pass this round and the other will be eliminated.
 
-## Song selection
+### Song selection
 
 - The songs and templates to map will be announced at the beginning of each round.
