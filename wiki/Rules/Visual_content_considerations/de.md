@@ -46,7 +46,7 @@ Bilder oder visuelle Elemente, die die folgenden Beispiele enthalten, können al
 - leichte bis moderate Darstellungen von Gewalt (kleine Mengen an Blut, unkritische oder oberflächliche Verletzungen)
 - künstlerische Nacktheit (im Kontext von klassischen Kunstwerken oder mit diesem Element verbundene Arbeit, wie zum Beispiel Albumcover mit leichter Nacktheit darauf)
 - milde Romanzen, Flirten oder intime Zuneigung (Knuddeln, Umarmen, Küssen ohne sexuelle Konnotationen, Händchenhalten usw.)
-- Badeanzüge in angemessener Gestaltung (Standardbademode mit genereller Bedeckung, einem gewöhnlichen Bikini)
+- Badeanzüge in angemessener Gestaltung (Standardbademode mit genereller Bedeckung, ein gewöhnlicher Bikini)
 
 In bestimmten Umständen können einige Ausnahmen für künstlerische Verwendungen von aufwändigen Inhalten gelten, wie zum Beispiel Storyboards oder maßgeschneiderter (d. h. speziell erstellter) Videoinhalt. Dies muss direkt vom Support-Team bewilligt werden. Alle Interessierten können das Team via [support@ppy.sh](mailto:support@ppy.sh) kontaktieren.
 
@@ -58,13 +58,13 @@ Bilder, die auf der Webseite außerhalb einer Beatmap benutzt werden (Avatare, P
 
 Wenn du dir über ein Bild unsicher bist, das in einer Beatmap vorhanden sein soll, **erstelle bitte eine Anfrage via [der Einreichungsseite von Beatmap-Nominatoren für Meldungen](https://bn.mappersguild.com/reports).** Das Bild wird zur Abstimmung gestellt und muss von einer eindeutigen Mehrheit angenommen werden oder wird automatisch verweigert.
 
-**Das Ergebnis einer Wahl ist final**, es sei denn, das Bild wird signifikant verändert im Versuch, alle potenziell problematischen Elemente, die während der Diskussion angesprochen wurden, zu überarbeiten.
+**Das Ergebnis einer Wahl ist endgültig**, es sei denn, das Bild wird signifikant verändert, um alle potenziell problematischen Elemente, die während der Diskussion angesprochen wurden, zu überarbeiten.
 
 Zu jeder Zeit behält sich [das osu!-Team](/wiki/People/osu!_team) in ihrem Ermessen das Recht vor, einseitig jeden Inhalt als entweder zugelassen oder nicht zugelassen zu deklarieren, unabhängig von vorherigen Wahlen bezogen auf das Thema.
 
-## Was, wenn mein Bild nicht in Ordnung ist?
+## Was passiert, wenn mein Bild nicht in Ordnung ist?
 
-Alle Bilder, Videos oder visuellen Inhalte, die das GMT als unangemessen einstuft, werden von der Webseite entfernt. Des Weiteren erhält der Nutzer, der die visuellen Inhalte hochlud, möglicherweise eine [Stummschaltung](/wiki/Help_centre/Silences) für 43 Stunden, abhängig von der Schwere des Verstoßes und dem früheren Verhalten des Nutzers.
+Alle Bilder, Videos oder visuellen Inhalte, die das GMT als unangemessen einstuft, werden von der Webseite entfernt. Des Weiteren kann der Nutzer, der den Inhalt hochgeladen hat, möglicherweise eine [Stummschaltung](/wiki/Help_centre/Silences) für 43 Stunden erhalten, abhängig von der Schwere des Verstoßes und dem früheren Verhalten des Nutzers.
 
 Für unangemessene visuelle Inhalte in Beatmaps werden Stummschaltungen in der Regel nicht ausgehändigt, solange der visuelle Inhalt nicht völlig unangebracht ist und der Nutzer den entsprechenden Inhalt nach kurzer Zeit entfernt.
 
