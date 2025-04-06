@@ -30,7 +30,7 @@ Con el modificador de juego [xK](/wiki/Gameplay/Game_modifier/xK), los jugadores
 
 Con el modificador de juego [Co-Op](/wiki/Gameplay/Game_modifier/Co-op), el escenario se dividirá en dos, usará el esquema de control de Co-Op, y permitirá a los jugadores jugar de 2 a un total de 18 teclas con una reducción del multiplicador de puntuación. Ten en cuenta que, si bien el número preestablecido de teclas no se duplicará en los beatmaps específicos de osu!mania, se dividirá el escenario en dos (el jugador de la izquierda de la pantalla tendrá prioridad si el número de teclas es impar), se usará el esquema de control de Co-Op y no se reducirá el multiplicador de puntuación.
 
-#### Speed Change
+#### Cambios de velocidad
 
 ![El valor del cambio de velocidad se encuentra arriba a la derecha](img/Mania_SC-ES.jpg "El valor del cambio de velocidad se encuentra arriba a la derecha")
 
