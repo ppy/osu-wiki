@@ -12,7 +12,7 @@ Das beinhaltet:
 
 - eingereichte Beatmaps, **sogar die, die mit [explizit](/wiki/Rules/Explicit_content) markiert wurden**
 - Profildetails (Avatare, Titelbilder)
-- jeder andere Anhang oder Hyperlink (Forenbeiträge, Kommentare, Beiträge zu Beatmap-Diskussionen)
+- andere Anhänge oder Hyperlinks (Forenbeiträge, Kommentare, Beiträge zu Beatmap-Diskussionen)
 
 Um das Wohlergehen der Community sicherzustellen, gilt die Community-Regel Nr. 5 für alles, was gemeinhin als "fragwürdig" angesehen werden kann.
 
