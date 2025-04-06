@@ -14,7 +14,6 @@ tags:
 
 | Event | Dates |
 | --: | :-- |
-| Announcement | April 4 |
 | Registration | April 4 – April 18 |
 | **Qualifier Round** |  |
 | Beatmapping | April 18 – May 3 |
