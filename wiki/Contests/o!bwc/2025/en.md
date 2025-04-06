@@ -44,12 +44,11 @@ The schedule is subject to change according to the progress of the contest.
 
 | Role | Members |
 | --: | :-- |
-| **Hosts** | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370) ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) |
-| **Helpers** |  |
+| Hosts | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370) ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) |
 | GFX | ::{ flag=CN }:: [Ttmnzk](https://osu.ppy.sh/users/2495509) |
 | Commentators | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |
-| **Judges (qualifier round)** | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370) ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) |
-| **Judges (clash rounds)** | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) ::{ flag=KR }:: [Liz Triangle](https://osu.ppy.sh/users/2688581) ::{ flag=BR }:: [Mismagius](https://osu.ppy.sh/users/19048) ::{ flag=ID }:: [Scub](https://osu.ppy.sh/users/8972308) ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783) |
+| Judges (qualifier round) | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370) ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) |
+| Judges (clash rounds) | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) ::{ flag=KR }:: [Liz Triangle](https://osu.ppy.sh/users/2688581) ::{ flag=BR }:: [Mismagius](https://osu.ppy.sh/users/19048) ::{ flag=ID }:: [Scub](https://osu.ppy.sh/users/8972308) ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783) |
 
 - ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370) and ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) will help as hosts for the clash rounds after judging during the *qualifier round*.
 
