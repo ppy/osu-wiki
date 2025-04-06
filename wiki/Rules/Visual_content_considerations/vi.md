@@ -1,4 +1,5 @@
 # Những cân nhắc về nội dung trực quan
+
 Theo [Quy tắc Cộng đồng số 5](/wiki/Rules#community-rules), tất cả nội dung hình ảnh được gửi hoặc tải lên osu! phải được xem là phù hợp với một trò chơi dành cho mọi lứa tuổi.
 
 Điều này bao gồm:
