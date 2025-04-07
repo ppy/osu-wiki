@@ -1,295 +1,383 @@
 ---
+no_native_review: true
 tags:
   - game client
   - klien permainan
-no_native_review: true
-outdated_translation: true
-outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
 ---
 
-# Beralih ke lazer
+# Meningkatkan ke lazer
 
-*Catatan: Kami masih menyeimbangkan berbagai aspek permainan yang ada. Oleh karenanya, **skor yang tercatat pada lazer saat ini masih belum bersifat permanen**.*
+osu!(lazer) merupakan versi rilis utama osu! yang akan datang. Versi ini merupakan hasil jerih payah tim kami selama beberapa tahun di belakang layar untuk menghadirkan kembali osu! yang selama ini kita kenal.
 
-osu!(lazer) merupakan versi rilis utama osu! yang akan datang. Versi ini merupakan hasil jerih payah tim kami selama bertahun-tahun untuk meremajakan ulang osu! yang selama ini kita kenal.
+Lazer dikembangkan dengan tujuan akhir untuk dapat dirilis sebagai pembaruan yang akan sepenuhnya menggantikan osu! versi stable yang ada saat ini, walaupun untuk mencapai tujuan ini masih ada beberapa hal yang harus dikerjakan. Pada akhirnya, **para pemainlah** yang akan menentukan kapan waktu yang tepat untuk merilis pembaruan ini, dan kami akan terus mendukung osu! versi stable hingga seluruh pengguna telah berpindah ke lazer.
 
-Pada saatnya nanti, apabila semuanya telah siap, osu!(lazer) akan dirilis sebagai pembaruan khusus yang menggantikan versi osu! yang saat ini digunakan. Pembaruan ini hanya akan diluncurkan apabila waktunya dirasa telah tepat oleh **para pemain**, dan versi osu! sebelumnya akan tetap didukung hingga sebagian besar pemain telah beralih ke osu!(lazer).
-
-"lazer" sendiri merupakan nama sementara yang nantinya tidak akan lagi digunakan setelah lazer beralih fungsi menjadi versi rilis utama. Agar tidak berbelit-belit, pada artikel ini osu!(lazer) akan disebut sebagai "lazer" dan osu!(stable) akan disebut sebagai "stable".
+"lazer" sendiri merupakan kode sandi yang nantinya tidak akan lagi digunakan setelah lazer beralih fungsi menjadi versi rilis utama. Untuk memudahkan, dokumen ini ke depannya akan menyebut osu!(lazer) sebagai "lazer" dan osu!(stable) sebagai "stable".
 
 ## Perbandingan fitur
 
-Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** dengan stable. Harap diperhatikan bahwa segala sesuatunya yang tertera di bawah ini dapat berubah sewaktu-waktu seiring dengan pengembangan lazer ke depannya.
+*Untuk daftar perbandingan seputar mekanika permainan, lihat: [Perbedaan permainan di osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+
+Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **yang ada saat ini** dengan stable. Mohon diperhatikan bahwa daftar ini tidak bersifat tetap — tujuan akhir dari pengembangan lazer adalah untuk menerapkan seluruh fitur yang diinginkan oleh pemain seiring waktunya.
 
 ### Kompatibilitas dan performa
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Dukungan untuk Windows 8.0 atau lebih rendah | ![Ya][true] | ![Tidak][false] |
+| Dukungan untuk Windows 8.0 dan lebih rendah | ![Ya][true] | ![Tidak][false] |
 | Dukungan untuk macOS / Linux | ![Parsial][partial][^wine] | ![Ya][true] |
-| Dukungan DirectX / Vulkan | ![Parsial][partial][^compatibility-mode] | ![Tidak][false][^coming-soon] |
+| Dukungan DirectX / Metal | ![Parsial][partial][^compatibility-mode] | ![Ya][true] |
 | Dukungan untuk perangkat mobile | ![Tidak][false] | ![Ya][true] |
-| Arsitektur multi-thread | ![Tidak][false] | ![Ya][true] |
-| Pemutaran video dengan akselerasi hardware | ![Tidak][false] | ![Ya][true] |
-| Skala antarmuka | ![Tidak][false] | ![Ya][true] |
+| Arsitektur mulithread | ![Tidak][false] | ![Ya][true] |
+| Pemutaran video yang diakselerasi oleh hardware | ![Tidak][false] | ![Ya][true] |
+| Penyesuaian skala UI | ![Tidak][false] | ![Ya][true] |
 | Ruleset (mode permainan) khusus | ![Tidak][false] | ![Parsial][partial][^dll] |
-| Sistem penyimpanan berkas tunggal | ![Tidak][false] | ![Ya][true][^share-files] |
-| Pengaturan area tablet | ![Tidak][false] | ![Ya][true] |
+| Penyimpanan berkas yang tidak saling tumpang tindih | ![Tidak][false] | ![Ya][true][^share-files] |
+| Penyesuaian area tablet | ![Tidak][false] | ![Ya][true] |
+| Dukungan untuk berbagai rasio aspek | ![Tidak][false] | ![Ya][true] |
 
-### Antarmuka dan skinning
+### UI dan skin
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
 | Dukungan skin | ![Ya][true] | ![Parsial][partial][^gameplay-only] |
-| Pengelompokan lagu berdasarkan mode dan kategori tertentu | ![Ya][true] | ![Tidak][false] |
-| Pengaturan skin / tampilan antarmuka secara langsung dari dalam permainan | ![Tidak][false] | ![Ya][true] |
+| Pengelompokan lagu berdasarkan kategori tertentu | ![Ya][true] | ![Tidak][false] |
+| Penyuntingan tata letak skin / UI dari dalam permainan | ![Tidak][false] | ![Ya][true] |
+| Komponen skin yang dinamis dan mudah disesuaikan | ![Tidak][false] | ![Ya][true] |
 
-### Permainan dan skinning
+### Antarmuka
+
+| Fitur | stable | lazer |
+| :-- | :-- | :-- |
+| Tampilan storyboard pada menu utama | ![Tidak][false] | ![Ya][true][^supporter] |
+| Pilihan untuk menyembunyikan tingkat kesulitan | ![Tidak][false] | ![Ya][true] |
+| Pedoman pengaturan dasar | ![Tidak][false] | ![Ya][true] |
+| Penghapusan lunak (*soft deletion*) | ![Tidak][false] | ![Ya][true][^soft-deletion] |
+| Pengaturan yang dapat dirubah secara instan di dalam permainan | ![Tidak][false] | ![Ya][true] |
+
+### Permainan
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
 | Tampilan performance point yang akurat | ![Parsial][partial][^online] | ![Ya][true] |
-| Mod pengatur kesulitan | ![Tidak][false] | ![Ya][true][^difficulty-adjust] |
+| Penyesuaian tingkat kesulitan | ![Tidak][false] | ![Ya][true][^difficulty-adjust] |
 | Preset mod | ![Tidak][false] | ![Ya][true] |
-| Pengaturan khusus per mod | ![Tidak][false] | ![Ya][true] |
-| Mod "fun" baru | ![Tidak][false] | ![Ya][true] |
-| Normalisasi warna kombo[^normalisation] | ![Tidak][false] | ![Ya][true] |
-| Tombol untuk memunculkan HUD secara kilat | ![Tidak][false] | ![Ya][true][^hold-for-hud] |
-| Kalibrasi offset | ![Parsial][partial][^offset-calibration-stable] | ![Ya][true][^offset-calibration-lazer] |
-| Jalur slider yang meluruh ketika dimainkan | ![Tidak][false] | ![Ya][true][^can-disable] |
-| Mekanisme "note lock" yang tidak merugikan pemain | ![Tidak][false] | ![Ya][true][^note-lock] |
-| Sistem pewarnaan not osu!mania yang berdasar pada waktu | ![Tidak][false] | ![Ya][true] |
+| Pengaturan per mod | ![Tidak][false] | ![Ya][true] |
+| Mod "hiburan" baru | ![Tidak][false] | ![Ya][true] |
+| Tidakrmalisasi warna kombo[^normalisation] | ![Tidak][false] | ![Ya][true] |
+| Tampilan jemala (HUD) yang dapat dimunculkan dengan menahan tombol | ![Tidak][false] | ![Ya][true][^hold-for-hud] |
+| Kalibrasi offset per beatmap | ![Parsial][partial][^offset-calibration-stable] | ![Ya][true][^offset-calibration-lazer] |
+| Slider yang ikut berkelok pada saat dimainkan | ![Tidak][false] | ![Ya][true][^can-disable] |
+| Sistem "note lock" yang ramah pemain | ![Tidak][false] | ![Ya][true][^note-lock] |
+| Warna not osu! dan osu!mania yang berdasar pada waktu | ![Tidak][false] | ![Ya][true] |
+| Pencarian momen tayangan ulang | ![Tidak][false] | ![Ya][true] |
+| Komentar beatmap yang bergulir ala situs [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Ya][true] | ![Tidak][false] |
 
 ### Sistem online
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Submisi skor | ![Ya][true] | ![Ya][true] |
+| Pengiriman skor | ![Ya][true] | ![Ya][true] |
 | Papan peringkat beatmap | ![Ya][true] | ![Ya][true] |
 | Statistik profil | ![Ya][true] | ![Ya][true] |
-| Medali | ![Ya][true] | ![Parsial][partial] |
+| Medali | ![Ya][true] | ![Parsial][partial][^medals-lazer] |
 | Performance point | ![Ya][true] | ![Ya][true] |
 | Percakapan yang berlangsung secara real-time | ![Parsial][partial][^stable-chat] | ![Ya][true] |
-| Akses kilat ke laman wiki / berita / riwayat pembaruan / peringkat | ![Tidak][false] | ![Ya][true][^online-content] |
-| Akses kilat ke laman profil pengguna | ![Tidak][false] | ![Ya][true] |
-| Akses kilat ke laman daftar beatmap | ![Parsial][partial][^direct-supporter] | ![Ya][true] |
-| Ukuran ruang multiplayer yang tidak terbatas | ![Tidak][false][^multi-room-max] | ![Ya][true] |
-| Mode spectate untuk pertandingan multiplayer | ![Tidak][false] | ![Ya][true] |
+| Halaman wiki / berita / riwayat perubahan / peringkat | ![Tidak][false] | ![Ya][true][^online-content] |
+| Profil pengguna | ![Tidak][false] | ![Ya][true] |
+| Daftar beatmap | ![Parsial][partial][^direct-supporter] | ![Ya][true] |
+| Ruangan multiplayer tanpa batas ukuran | ![Tidak][false][^multi-room-max] | ![Ya][true] |
+| Ruangan multiplayer yang dapat ditonton | ![Tidak][false] | ![Ya][true] |
 | Waktu hitungan mundur | ![Parsial][partial][^countdown-timers-stable] | ![Ya][true][^countdown-timers-lazer] |
-| Mode antrian | ![Tidak][false] | ![Ya][true][^queue-modes] |
+| Antrean beatmap | ![Tidak][false] | ![Ya][true][^queue-modes] |
+| Pertandingan multiplayer mode freestyle | ![Tidak][false] | ![Ya][true][^freestyle] |
 | Perintah multiplayer | ![Ya][true] | ![Tidak][false] |
-| Mode tag co-op | ![Ya][true] | ![Tidak][false] |
-| Playlist (papan peringkat yang disusun oleh pengguna) | ![Tidak][false] | ![Ya][true] |
+| Pertandingan multiplayer mode tag co-op | ![Ya][true] | ![Tidak][false] |
+| Playlist (papan peringkat yang dikurasi pengguna) | ![Tidak][false] | ![Ya][true] |
 | Memperbarui beatmap ke versi terbaru secara online | ![Parsial][partial][^map-only] | ![Ya][true][^all-files] |
 
 ### Editor
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
+| Editor osu! | ![Ya][true] | ![Ya][true] |
 | Editor osu!taiko | ![Tidak][false] | ![Ya][true] |
 | Editor osu!catch | ![Tidak][false] | ![Ya][true] |
 | Editor osu!mania | ![Ya][true] | ![Ya][true] |
-| Akses ke tingkat kesulitan lain sebagai bahan rujukan | ![Ya][true] | ![Tidak][false] |
-| Pengaturan SV / volume per objek | ![Tidak][false] | ![Ya][true] |
-| Rotasi pattern | ![Ya][true] | ![Parsial][partial][^editor-precise-rotation] |
-| Perubahan ukuran pattern | ![Tidak][false] | ![Ya][true] |
-| Submisi beatmap | ![Ya][true] | ![Tidak][false] |
+| Membuka tingkat kesulitan lain sebagai bahan rujukan | ![Ya][true] | ![Tidak][false] |
+| Kecepatan slider / volume per objek | ![Tidak][false] | ![Ya][true] |
+| Jenis kurva slider per masing-masing segmen | ![Tidak][false] | ![Ya][true] |
+| Pemisahan dan penggabungan slider | ![Tidak][false] | ![Ya][true] |
+| Rotasi pola | ![Ya][true] | ![Ya][true] |
+| Perubahan ukuran pola | ![Tidak][false] | ![Ya][true] |
+| Submisi beatmap | ![Ya][true] | ![Ya][true] |
 | Editor storyboard | ![Ya][true] | ![Tidak][false] |
 | Kompatibilitas silang | ![Ya][true] | ![Parsial][partial][^incompatibilities] |
 
 ## Beralih ke lazer
 
-Apakah ini pertama kalinya kamu mencoba lazer? Apabila ya, selamat datang di lazer!
+Apakah kamu akhirnya memutuskan untuk mencoba lazer? Mantap!
 
-Kamu dapat memperoleh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu). Ke depannya, kamu akan dapat beralih ke lazer dari dalam permainan (melalui pilihan `Versi rilis` yang terdapat pada menu pengaturan) serta mengunduh lazer dari situs web osu! secara langsung.
+Kamu dapat mengunduh lazer [di sini](https://osu.ppy.sh/home/download). Ke depannya, kamu akan dapat beralih ke lazer dari stable secara langsung melalui pilihan `Versi rilis` yang terdapat pada menu pengaturan.
 
-## Pertanyaan yang sering diajukan
+## Pertanyaan umum (FAQ)
 
-### Proses migrasi
+### Migrasi
 
-#### Apakah stable akan dipensiunkan? Apakah saya akan diharuskan untuk berpindah?
+#### Apakah stable akan dipensiunkan? Apakah saya akan diharuskan untuk beralih?
 
-Stable tidak akan dipensiunkan selama masih ramai akan peminat. Setidak-tidaknya, stable masih akan tetap didukung hingga beberapa tahun setelah lazer dirilis.
+Stable akan tetap dikelola selama masih digunakan oleh pengguna. Setidak-tidaknya, stable masih akan tetap didukung hingga beberapa tahun setelah lazer didaulat sebagai versi rilis utama.
 
 #### Apakah saya dapat mengimpor seluruh data saya dari stable ke lazer?
 
-Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. Kamu **belum dapat mengimpor pengaturan dari stable ke lazer**, sehingga kamu harus kembali mengatur ulang segala pengaturan yang kamu gunakan dari awal.
+Saat ini, beatmap, skin, skor, tayangan ulang, dan koleksi sudah dapat diimpor ke lazer. Perlu diperhatikan bahwa **pengaturan yang ada belum dapat diimpor**, sehingga kamu akan perlu untuk mengatur ulang segala sesuatunya dari awal.
 
-#### Apabila saya mengimpor beatmap yang saya miliki ke lazer, apakah ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda?
+#### Apabila saya mengimpor beatmap saya ke lazer, apakah ruang penyimpanan yang terpakai akan berlipat ganda?
 
-Apabila lazer dan stable terinstal pada drive yang sama, kamu tidak perlu khawatir karena osu! menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) untuk menghemat ruang penyimpanan yang tersedia.
+Apabila lazer dan stable terpasang pada drive yang sama, osu! akan menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#dengan-*hard-link*) untuk mencegah terpakainya ruang penyimpanan tambahan.
 
-Apabila tidak, ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda.
+Apabila tidak, ruang penyimpanan yang digunakan akan berlipat ganda.
 
 #### Apabila saya menghapus lazer, apakah instalasi stable saya akan rusak?
 
 Tidak.
 
-#### Apabila saya menghapus stable, apakah konten lazer yang saya impor dari stable akan rusak?
+#### Apabila saya menghapus stable, apakah konten lazer yang diimpor dari stable akan rusak?
 
 Tidak.
 
-#### Apabila saya menginstal lazer, apakah saya dapat kembali ke stable?
+#### Apabila saya memasang lazer, apakah saya akan dapat kembali ke stable?
 
-Ya, karena lazer berjalan secara terpisah dari stable. Selama kamu tidak menghapus instalasi stable yang telah ada sebelumnya, kamu akan dapat memainkan keduanya.
+Ya, karena lazer selalu akan terpasang secara terpisah dari stable. Selama kamu tidak menghapus salah satu instalasi ini, keduanya akan tetap dapat diakses secara mandiri.
 
 #### Apakah saya dapat mengimpor data dari lazer ke stable?
 
-Tidak. Fitur ini tidak akan didukung.
+Tidak, dan hal ini tidak akan didukung.
 
-Meskipun demikian, kamu dapat mengimpor skor dan beatmap dari lazer menuju stable satu per satu secara manual.
+Meskipun demikian, untuk saat ini, skor dan beatmap yang ada dapat diekspor dari lazer dan diimpro ke stable secara satu per satu.
 
-### Permainan dan skor
+### Permainan dan penilaian
 
-#### Apabila saya mencetak skor pada lazer, apakah skor yang saya cetak akan muncul pada laman profil saya?
+#### Apabila saya mencetak skor di lazer, apakah skor ini akan muncul pada profil saya?
 
-Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun belum akan muncul pada kolom "Performa Terbaik".
+Ya, namun skor ini tidak akan muncul pada kolom "Performa Terbaik" apabila kamu tidak mengaktifkan pengaturan "Mode lazer" pada situs web osu!.
 
-#### Apakah saya akan memperoleh pp dari skor yang saya cetak pada lazer?
+Selain itu, skor ini juga belum akan muncul pada kolom "Peringkat Pertama" terlepas dari peringkat yang diraih.
 
-Skor yang dicetak pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini tidak akan diikutsertakan ke dalam perhitungan pp kamu secara keseluruhan.
+#### Apabila saya mencetak skor di lazer, apakah skor ini akan memberikan performance point?
 
-#### Apakah lazer menggunakan sistem ScoreV2?
+Ya.
 
-Lazer menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam pengembangan, dan kami masih menerima segala masukan terkait dengan penerapan sistem ini baik itu dalam permainan solo, playlist, multiplayer, ataupun yang lainnya.
+#### Apakah lazer menggunakan ScoreV2?
+
+Lazer menggunakan sistem penilaian yang didasarkan pada ScoreV2 dengan beberapa penyesuaian.
 
 <!-- lint ignore no-heading-punctuation -->
 
-#### Saya rindu dengan model skor yang lama, dan saya ingin kembali melihat skor saya menembus puluhan bahkan ratusan juta dengan sangat cepat!
+#### Saya lebih menyukai tampilan skor klasik, di mana skor yang ada dapat menjadi sangat besar.
 
-Kamu dapat mengatur pilihan `Mode tampilan skor` ke `Klasik` untuk mengaktifkan model skor yang "eksplosif" seperti pada stable. Walaupun tidak persis sama, model ini memiliki perilaku yang serupa dengan stable dan akan muncul di berbagai tempat sekalinya diaktifkan.
+Kamu dapat mengubah tampilan `Mode tampilan skor` kamu ke `Klasik` untuk memperoleh kembali tampilan skor yang melimpah ruah ini! Tampilan skor ini tidak akan sama persis dengan tampilan skor pada stable, namun kamu akan tetap dapat merasakan nuansa perhitungan skor klasik di mana pun itu.
 
-#### Apabila saya mencetak skor pada lazer, apakah skor tersebut akan tetap ada selama-lamanya?
+Selain itu, papan peringkat skor global juga menggunakan tampilan skor klasik.
 
-Kami **tidak menjamin bahwa skor yang ada pada lazer saat ini akan tetap ada selama-lamanya**. Apabila dirasa perlu, kami dapat sewaktu-waktu mengatur ulang seluruh skor yang ada pada lazer untuk menyeimbangkan permainan.
+#### Apabila saya mencetak skor di lazer, apakah skor ini akan tetap ada untuk selama-lamanya?
 
-#### Apakah skor yang saya cetak pada stable nantinya juga akan muncul pada lazer?
+Walaupun kami akan selalu berusaha untuk mempertahankan sebanyak mungkin skor yang ada, kami **tidak menjamin bahwa skor ini akan tetap ada untuk selama-lamanya**. Kami dapat menghapus rangkaian skor tertentu kapan saja untuk menjaga keseimbangan permainan, semisal apabila terdapat mekanisme permainan yang dieksploitasi atau tindakan curang.
 
-Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, seluruh skor akan muncul pada papan peringkat lazer.
+#### Apakah skor yang dicetak pada stable akan muncul pada lazer?
 
-#### Apakah skor dari seluruh mod akan ditampilkan pada papan peringkat lazer?
+Ya.
 
-Untuk saat ini, skor dari seluruh mod akan ditampilkan pada papan peringkat lazer. Apakah seluruh mod nantinya akan memberikan performance point (dan apabila ya, seberapa besar bonus atau penalti yang akan diberikan kepada masing-masing mod) saat ini masih dipertimbangkan.
+#### Apakah skor yang dicetak pada lazer akan muncul pada stable?
 
-#### Saya tidak menyukai mekanisme permainan yang ada saat ini. Apakah saya dapat bermain dengan mekanisme permainan yang stable miliki?
+Tidak untuk saat ini.
 
-Kamu dapat mengaktifkan mod "classic" untuk memperoleh pengalaman bermain yang serupa dengan stable. Pastikan juga kamu memeriksa berbagai pengaturan yang dimiliki oleh mod ini, karena dengan ini kamu dapat menentukan sendiri mekanisme permainan stable mana saja yang ingin kamu hadirkan kembali.
+#### Apakah seluruh mod akan berstatus Ranked?
+
+Papan peringkat lazer menampilkan skor dengan seluruh kombinasi mod.
+
+Meskipun demikian, hanya rangkaian mod berikut yang akan dapat memberikan performance point untuk saat ini:
+
+- Pengurang kesulitan
+  - Easy
+  - Tidak Fail
+  - Half Time (hanya 0.75x, penggunaan `Sesuaikan pitch` diizinkan)
+  - Daycore (hanya 0.75x)
+- Peningkat kesulitan
+  - Hard Rock (untuk mode selain osu!mania)
+  - Sudden Death (Penggunaan `Mulai ulang map pada saat gagal` diizinkan)
+  - Perfect (Penggunaan `Mulai ulang map pada saat gagal` diizinkan)
+  - Hidden
+  - Nightcore (hanya 1.5x)
+  - Double Time (hanya 1.5x, penggunaan `Sesuaikan pitch` diizinkan)
+  - Flashlight
+  - Blinds
+  - Accuracy Challenge
+- Konversi (khusus osu!mania)
+  - Mirror
+  - Four Keys
+  - Five Keys
+  - Six Keys
+  - Seven Keys
+  - Eight Keys
+  - Nine Keys
+- Hiburan
+  - Muted
+  - Tidak Scope
+- Automasi (khusus osu!)
+  - Spun Out
+- Sistem
+  - Touch Device
+
+Kecuali disebutkan di atas, seluruh mod harus dimainkan dalam pengaturan bawaannya untuk dapat memberikan performance point.
+
+#### Saya tidak menyukai mekanisme permainan yang baru. Apakah saya dapat memulihkan mekanisme permainan yang lama seperti pada stable?
+
+Cobalah untuk menerapkan mod "Classic", yang akan memulihkan sebagian besar mekanisme permainan lama yang sudah kamu kenal. Pastikan juga untuk menjajal berbagai pengaturan yang ditawarkan oleh mod Classic ini, karena pengaturan ini akan memungkinkan kamu untuk menyesuaikan pengalaman bermainmu lebih jauh dan memahami perubahan apa saja yang sedang berlaku (berhubung segala sesuatunya tercakup pada pengaturan ini).
 
 ### Skinning dan UI
 
-#### Terdapat aspek permainan tertentu yang berperilaku berbeda dengan stable, dan saya tidak menyukainya!
+#### Terdapat sesuatu yang berperilaku berbeda dengan stable dan saya tidak menyukai hal ini!
 
-Jalankan panduan pengaturan dasar dan tuju bagian `Perilaku`. Di sini, kamu akan melihat daftar berbagai aspek permainan yang perilaku bawaannya telah berubah antara stable dan lazer. Kamu dapat mengatur agar segala sesuatunya berperilaku seperti stable hanya dengan sekali klik.
+Silakan jalankan pedoman pengaturan dasar (yang dapat kamu temukan pada bagian atas menu pengaturan) dan tuju layar `Perilaku`. Di sini, kamu akan dapat menemukan berbagai pengaturan umum yang perilaku bawaannya telah berubah antara stable dan lazer. Kamu juga dapat menemukan tombol yang dapat kamu tekan untuk menerapkan seluruh pengaturan lama ini sebagai langkah awal kamu dalam bermain lazer.
 
-#### Apakah skin lama saya akan dapat digunakan pada layar pemilihan lagu dan hasil permainan?
+#### Apakah suatu hari nanti skin versi lama akan dapat berfungsi sebagaimana mestinya pada layar pemilihan lagu dan hasil permainan?
 
-Kami akan mengupayakan agar skin lama yang kamu miliki dapat digunakan pada lazer tanpa menghalangi kegunaan berbagai fitur baru yang tersedia. Dukungan untuk hal ini akan hadir di masa yang akan datang.
+Kami akan berusaha sebisa mungkin untuk membuat skin versi lama dapat kembali berfungsi sebagaimana mestinya tanpa berbenturan dengan berbagai fitur baru yang telah ada. Dukungan untuk hal ini akan hadir di kemudian hari.
 
-#### Apakah saya dapat menggunakan kursor milik skin saya pada layar menu?
+#### Apakah saya dapat turut menggunakan skin kursor saya pada layar menu?
 
-Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyaknya permintaan yang telah kami terima, kami kemungkinan juga akan kembali menghadirkan fitur ini di masa yang akan datang.
+Kami kemungkinan akan menghadirkan kembali fitur ini ke depannya atas banyaknya permintaan yang kami terima.
 
 ### Performa
 
 #### Mengapa saya tidak dapat menjalankan lazer tanpa batasan FPS?
 
-Setelah melewati ambang batas tertentu, FPS yang berlebihan hanya akan menghambur-hamburkan sumber daya yang ada. Untuk mencegah hal ini, lazer dirancang sedemikian rupa agar jeda input yang timbul dapat diminimalisir tanpa harus menggunakan FPS yang teramat tinggi.
+Tidak ada alasan bagi lazer untuk berjalan secara berlebihan di atas ambang tertentu. Lazer menggunakan berbagai teknologi mutakhir untuk memastikan jeda input yang rendah tanpa harus menggunakan FPS yang tinggi, yang ke depannya akan terus disempurnakan seiring dengan beberapa peningkatan yang masih menunggu untuk diterapkan.
 
-Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang digunakan. Oleh karenanya, lazer membatasi FPS yang ada hanya pada 1000 FPS.
+Lazer mengambil input pada frekuensi 1000 Hz terlepas dari batasan FPS yang digunakan. Oleh karenanya, pengaturan FPS pada lazer juga akan dibatasi pada 1000 FPS.
 
-Apabila kamu ingin merasakan sendiri perbedaan jeda input yang ada antara berbagai FPS, kamu dapat menjalankan program "Latency Certifier" yang terdapat pada menu pengaturan.
+Apabila kamu ingin tahu bagaimana hal ini memengaruhi jeda input yang ada dan ingin menguji kejelian matamu. silakan jalankan "penguji latensi" yang terdapat pada bagian bawah menu pengaturan.
 
-Kamu juga dapat membaca [dokumen teknis ini](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) yang menjelaskan mengapa dan atas dasar apa kami memasang batasan FPS pada lazer.
+Kamu juga dapat membaca [dokumen teknis ini](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) yang menjelaskan arah haluan kami serta alasan di balik kami mengambil keputusan ini.
 
-#### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
+#### Apabila input yang ada hanya diambil pada frekuensi 1000 Hz, bagaimana dengan mouse gaming 8000 Hz saya?
 
-Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, walaupun perbedaan yang ada tidak akan terasa. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi inputmu pada 1000 Hz.
+Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, walaupun hal ini telah terbukti tidak berpengaruh terhadap performa yang ada. Frekuensi input yang sangat tinggi dapat menyebabkan masalah yang tidak diinginkan, dan kami menyarankan kamu untuk membatasi perangkatmu ke 1000 Hz demi menjaga kestabilan sistem.
 
-#### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
+#### Saya merasa lazer bekerja lebih buruk daripada stable. Apa penyebabnya?
 
-Walaupun secara umum lazer memiliki performa yang lebih baik dari stable, terdapat beberapa konfigurasi hardware tertentu yang belum memungkinkan lazer untuk berjalan secara optimal. Dalam waktu dekat, kami berencana untuk memecahkan masalah ini dengan menghadirkan dukungan API DirectX (atau yang dikenal pada stable dengan istilah "compatibility mode") dan Vulkan pada lazer. Kedua API ini memiliki dukungan lintas hardware yang lebih baik dibanding OpenGL dan dapat meningkatkan performa lazer pada hardware dengan chipset Intel yang terintegrasi.
+Walaupun pada sebagian besar hardware modern kami melihat performa lazer lebih baik daripada stable, sayangnya pengecualian akan selalu ada karena masing-masing pengguna memiliki konfigurasi hardware yang berbeda-beda. Dalam waktu dekat, kami berencana untuk mendukung DirectX (atau yang dikenal sebagai "mode kompatibilitas" di stable) dan Vulkan, yang keduanya memiliki dukungan driver yang lebih baik daripada OpenGL pada seluruh hardware yang ada. Setelah dukungan ini diterapkan, performa lazer pada hardware seperti chipset Intel yang terintegrasi akan dapat meningkat tajam.
 
 ### Memberikan tanggapan
 
-#### Fitur yang selama ini sering saya gunakan belum ada di lazer! / Saya tidak menyukai perubahan yang ada! / Saya menemukan bug. Ke mana saya harus melapor?
+#### Fitur yang sering saya gunakan hilang! / Terdapat sesuatu yang berubah, dan saya tidak menyukainya. / Saya menemukan sebuah bug. Bagaimana saya harus melapor?
 
-Telusuri apakah masalahmu telah dilaporkan sebelumnya oleh pengguna lain melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [kolom diskusi](https://github.com/ppy/osu/discussions) yang terdapat pada repositori GitHub osu!. Apabila kamu tidak menemukan laporan yang sesuai, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
+Kami kemungkinan besar telah sadar akan masalahmu dan sedang melacak hal ini untuk dapat diperbaiki ke depannya! Silakan telusuri apakah masalahmu telah dibahas pada [pelacak masalah](https://github.com/ppy/osu/issues) dan [halaman diskusi](https://github.com/ppy/osu/discussions) proyek kami. Apabila kamu tidak dapat menemukan utas yang sesuai, silakan [buka topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
-Dalam melapor, harap diingat bahwa tim kami dapat melacak hingga beribu-ribu masalah setiap waktunya, dan masalah yang telah menjangkiti banyak pengguna pada umumnya akan lebih diutamakan.
+Dalam melapor, mohon diingat bahwa tim kami dapat melacak hingga beribu-ribu masalah setiap waktunya, dan masalah yang telah berdampak kepada banyak pengguna pada umumnya akan lebih diutamakan.
 
 ### Lainnya
 
-#### Mengapa "lazer" dinamakan demikian?
+#### Mengapa lazer disebut sebagai "lazer"?
 
-Karena "cutting-edge" tidak dirasa cukup "tajam".
+Apa yang lebih tajam dari "cutting-edge"?
 
-#### Mengapa butuh waktu yang sangat lama sebelum lazer dapat menggantikan stable sebagai versi rilis utama?
+#### Mengapa butuh waktu yang sangat lama bagi lazer untuk dapat menjadi "versi rilis utama"?
 
-Di balik kesederhanaannya, osu! tidak akan dapat berjalan tanpa dukungan berbagai fitur dan sistem yang harus ditulis ulang untuk lazer. Proses ini memakan waktu yang tidak sebentar, dan walaupun lazer saat ini telah dapat digunakan, pengembangan lazer masih jauh dari kata rampung.
+Walaupun osu! sekilas terlihat seperti permainan yang sederhana, dalam kenyataannya terdapat beratus-ratus fitur dan sistem yang menopang kegiatan pengguna seiring waktunya. Tergantung dari kepada siapa kamu bertanya, lazer dapat dipandang sebagai versi osu! yang sudah dapat dimainkan sejak dulu atau bahkan yang masih jauh dari kata rampung.
 
-Hal lainnya yang menjadi bahan pertimbangan kami adalah kompatibilitas beatmap. Sebagai permainan yang membebaskan para penggunanya untuk berkarya, osu! saat ini memiliki beraneka ragam beatmap yang sebagian di antaranya dirancang secara tidak umum. Sebelum kami merilis lazer, kami ingin memastikan bahwa seluruh beatmap yang ada dapat dimainkan di lazer tanpa masalah.
+Bidang lainnya yang cukup menguras banyak daya adalah pelestarian sejarah — kami harus memastikan bahwa seluruh beatmap yang ada akan dapat berperilaku sebagaimana mestinya, termasuk beatmap yang dirancang dengan teknik yang pada awalnya tidak kami rencanakan (*edge case*). Ekosistem osu! merupakan ekosistem yang dinamis, dan pengguna kami telah banyak berkarya untuk mendorong osu! melampaui batasnya. Oleh karenanya, kami ingin berusaha sebaik mungkin untuk mendukung dan meneruskan semangat ini ke depannya.
 
-Terakhir, tidak seperti stable, kami juga ingin memastikan agar kode program lazer dapat terus digunakan ke depannya. Dengan merancang ulang kode yang ada, kami dapat menghadirkan berbagai fitur modern yang ke depannya akan meliputi komponen UI baru, metode skinning baru, sistem multiplayer baru, dan kemampuan untuk memainkan beatmap pada berbagai ruleset (mode permainan) baru.
+Terakhir, tidak seperti pada stable, kami juga ingin memastikan agar basis kode kami dapat terus berguna ke depannya. Kami merancang lazer sedemikian rupa agar kami dapat memperkenalkan berbagai fitur baru tanpa harus menunggu lama. Nantikan berbagai komponen UI baru, metode skinning baru, sistem multiplayer baru, serta kemampuan untuk memainkan beatmap pada berbagai mode permainan (atau yang dikenal di lazer sebagai ruleset) baru dari kami!
 
-#### Apa yang akan dilakukan oleh tim osu! setelah lazer dirilis?
+#### Selanjutnya apa?
 
-Kami akan terus menyempurnakan osu! serta menghadirkan berbagai fitur yang telah banyak diminta secara cepat dan tanggap. Apabila kamu sebelumnya belum pernah mengikuti siklus pengembangan osu!, bersiaplah untuk dihadapkan dengan berbagai kejutan.
+Kami akan terus menyempurnakan osu! serta menghadirkan berbagai fitur yang telah banyak diminta secara cepat dan tanggap. Apabila kamu baru saja bergabung dengan kami dan belum pernah merasakan sendiri seberapa kencangnya pengembangan osu!, bersiaplah untuk terkejut.
 
-#### Bagaimana caranya untuk mengakses folder lagu saya?
+#### Bagaimana cara saya mengakses folder lagu saya?
 
-Lazer tidak memiliki folder lagu seperti pada stable! Kami merancang lazer sedemikian rupa agar beatmap yang ada dapat dimuat ulang tanpa harus menekan `F5` (karena beatmap tidak akan pernah rusak) dan agar ruang hard disk yang digunakan dapat dikurangi hingga 20-40%. Kamu dapat membaca penjelasan lebih lanjut seputar teknologi penyimpanan berkas yang kami gunakan [pada tautan berikut](/wiki/Client/Release_stream/Lazer/File_storage).
+Lazer tidak memiliki folder lagu! Ketiadaan folder lagu ini memungkinkan kami untuk melakukan berbagai hal yang canggih, seperti tidak lagi mengharuskan pemain untuk menekan `F5` pada layar pemilihan lagu untuk memuat ulang beatmap (karena seluruh beatmap akan selalu berada dalam kondisi yang baik) serta mengurangi ruang penyimpanan yang digunakan oleh beatmap sebanyak 20–40%. Kamu dapat membaca lebih lanjut seputar cara lazer menyimpan berkas [pada artikel ini](/wiki/Client/Release_stream/Lazer/File_storage).
 
-Apabila kamu ingin menyunting konten tertentu pada beatmap, mohon gunakan editor. Ke depannya, editor lazer akan dapat digunakan untuk mengakses isi folder beatmap secara langsung dari dalam permainan.
+Apabila kamu perlu untuk mengubah sesuatu pada beatmap, silakan gunakan editor. Ke depannya, kami akan memperkenalkan mode baru pada editor yang memungkinkan kamu untuk mengakses folder beatmap secara sementara untuk disunting secara eksternal. Hal ini akan memungkinkan kamu untuk menggunakan perangkat dari luar pada proses pembuatan beatmap kamu.
 
-#### Berhubung "osu!direct" kini tersedia bagi seluruh pemain, apakah para supporter akan mendapatkan keuntungan baru?
+#### Berhubung "osu!direct" kini telah tersedia bagi seluruh pengguna, apakah para supporter akan memperoleh berbagai keuntungan baru?
 
-Untuk saat ini, terdapat beberapa filter pada laman daftar beatmap yang masih hanya dapat diakses oleh pemilik supporter.
+Terdapat sebagian filter pada halaman daftar beatmap yang untuk saat ini masih hanya dapat digunakan oleh para supporter.
 
-Di samping itu, keuntungan berikut juga telah tersedia untuk dinikmati:
+Selain itu, terdapat juga beberapa keuntungan tambahan yang sudah dapat dinikmati oleh para supporter:
 
-- Para supporter dapat membuat playlist dengan jangka waktu yang lebih panjang
+- Para supporter dapat membuat playlist dengan durasi yang lebih lama.
+- Para supporter dapat memutar storyboard bawaan beatmap pada menu utama.
 
-Kami tentunya ingin menghadirkan berbagai keuntungan lainnya di masa yang akan datang, namun sayangnya untuk saat ini fokus kami masih harus tertuju kepada pengembangan lazer itu sendiri. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung pengembangan ini!
+Kami tentunya ingin memperkenalkan berbagai keuntungan baru ke depannya, namun untuk saat ini fokus kami masih tertuju pada kesetaraan fitur antara lazer dan stable. Oleh karenanya, mohon niatkan pembalian tag supportermu untuk... mendukung pengembangan permainan ini!
 
-#### Apabila saya berbuat curang pada lazer, apakah saya akan dihukum?
+#### Apabila saya berbuat curang di lazer, apakah saya akan di-ban?
 
 Ya.
 
-#### Apabila saya menemukan pemain yang berbuat curang pada lazer, bagaimana caranya bagi saya untuk melapor?
+#### Apabila saya menemukan pemain yang berbuat curang di lazer, bagaimana caranya saya harus melapor?
 
-Laporkan mereka melalui fitur pengiriman laporan sebagaimana pada umumnya.
+Laporkan mereka sebagaimana kamu melaporkan kecurangan pada umumnya.
 
-#### Di mana saya dapat membeli item permainan tertentu?
+#### Di mana saya dapat membeli koin atau item permainan tertentu?
 
-osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang permainan lainnya.
+Kamu mungkin sedang memikirkan permainan lainnya.
 
-### Catatan
+## Catatan
 
-[^wine]: Dengan menggunakan wine.
-[^compatibility-mode]: Dukungan DirectX via mode kompatibilitas.
-[^coming-soon]: Akan segera hadir.
+[^wine]: Menggunakan Wine.
+
+[^compatibility-mode]: DirectX via mode kompatibilitas.
+
 [^dll]: Secara manual melalui berkas `.dll`.
-[^share-files]: Beatmap dan skin akan saling berbagi berkas dan menghemat penggunaan ruang hard disk.
-[^gameplay-only]: Hanya dalam permainan.
-[^online]: Melalui data yang diterima secara online.
-[^normalisation]: Pilihan untuk menetralkan warna kombo bawaan beatmap pada tingkat kecerahan tertentu.
-[^hold-for-hud]: Tahan `Ctrl` untuk menampilkan manu HUD yang tersembunyi.
-[^offset-calibration-stable]: Dapat diatur secara manual melalui kombinasi tombol tertentu.
-[^offset-calibration-lazer]: Pada saat memulai ulang beatmap, kamu dapat menyesuaikan offset berdasarkan permainan terakhirmu.
+
+[^share-files]: Beatmap dan skin akan saling berbagi berkas dan menghemat ruang penyimpanan.
+
+[^gameplay-only]: Terbatas hanya pada permainan.
+
+[^online]: Melalui pengambilan data secara online.
+
+[^normalisation]: Pengaturan ini akan menormalisir warna kombo bawaan beatmap ke tingkat kecerahan yang sama.
+
+[^hold-for-hud]: Tahan `Ctrl` untuk menampilkan HUD secara sementara pada saat HUD ini sedang disembunyikan
+
+[^offset-calibration-stable]: Dapat diubah secara manual melalui pengaturan tombol.
+
+[^offset-calibration-lazer]: Pada saat memulai ulang beatmap, kamu dapat mengatur offset yang digunakan berdasarkan permainan terakhirmu.
+
 [^can-disable]: Dapat dinonaktifkan.
-[^note-lock]: Note lock masih ada di lazer, namun tidak lagi merugikan pemain seperti pada stable.
-[^online-content]: Hampir seluruh konten online yang ada dapat diakses dari dalam permainan.
-[^direct-supporter]: Khusus pemilik osu!supporter melalui fitur osu!direct.
-[^multi-room-max]: Terbatas hanya pada 16 pemain.
-[^map-only]: Hanya terbatas pada berkas beatmap.
+
+[^note-lock]: Masih ada, namun tidak akan mengganggu permainan.
+
+[^online-content]: Akses langsung ke hampir seluruh konten online dari dalam permainan.
+
+[^direct-supporter]: Melalui osu!direct, khusus osu!supporter.
+
+[^supporter]: Khusus osu!supporter.
+
+[^soft-deletion]: Beatmap dan data lain yang telah dihapus akan dapat dipulihkan dari menu pengaturan. Segala sesuatunya baru akan terhapus secara permanen setelah permainan dimulai ulang.
+
+[^multi-room-max]: Maksimal 16 pemain.
+
+[^map-only]: Khusus beatmap.
+
 [^all-files]: Seluruh berkas.
-[^editor-precise-rotation]: Pemutaran dengan sudut yang presisi saat ini belum didukung.
-[^incompatibilities]: Fitur editor tertentu dapat menyebabkan beatmap untuk tidak muncul sebagaimana mestinya ketika dimainkan di stable. Hal ini akan segera diperbaiki.
-[^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk terkirim.
-[^countdown-timers-stable]: Waktu hitungan mundur hanya dapat diatur melalui perintah khusus, dan permainan multiplayer tidak dapat dimulai secara otomatis.
-[^countdown-timers-lazer]: Permainan multiplayer dapat dimulai secara otomatis dengan waktu hitungan mundur yang dapat diatur melalui menu antarmuka yang tersedia.
-[^queue-modes]: Aktifkan mode ini agar masing-masing pemain dapat saling mengantrikan beatmap pada ruang multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
-[^difficulty-adjust]: Nilai CS/AR/OD/HP beatmap dapat diubah secara langsung dari layar pemilihan lagu.
+
+[^incompatibilities]: Fitur editor tertentu akan membuat beatmap tidak dapat dimainkan sebagaimana mestinya pada stable — hal ini akan diperbaiki di kemudian hari.
+
+[^stable-chat]: Pesan yang ada dapat membutuhkan hingga 15 detik untuk sampai.
+
+[^countdown-timers-stable]: Hitungan mundur dapat dipasang dengan menggunakan perintah khusus, di mana hitungan mundur ini tidak memulai pertandingan secara otomatis.
+
+[^countdown-timers-lazer]: Hitungan mundur dapat dipasang melalui UI di dalam permainan untuk memulai pertandingan secara otomatis.
+
+[^queue-modes]: Aktifkan untuk mengizinkan siapa saja yang berada di dalam lobi untuk mengantrekan beatmap pilihan mereka, seperti halnya pada permainan "host rotate".
+
+[^freestyle]: Aktifkan pada layar pemilihan lagu untuk mengizinkan seluruh pemain untuk memilih tingkat kesulitan secara bebas pada beatmap yang sedang dimainkan.
+
+[^difficulty-adjust]: Nilai CS/AR/OD/HP beatmap dapat diubah secara langsung pada layar pemilihan lagu melalui mod Difficulty Adjust.
+
+[^medals-lazer]: Sebagian [medali Hush-Hush](/wiki/Medals#hush-hush) masih belum dapat dibuka.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

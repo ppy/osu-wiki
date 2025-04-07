@@ -422,12 +422,16 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 
 #### Artistas permitidos, con excepciones
 
+Esta sección se actualizó por última vez el 30 de marzo de 2025.
+
 | Artista |  | Estado | Notas |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contactar antes de subir. Se le puede contactar por [correo electrónico](mailto:hisaweb_info@yahoo.co.jp) o [Bandcamp](https://a-hisa.bandcamp.com/). |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | No usar la pista titulada «execution_program». |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
@@ -439,7 +443,6 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 | Artista | Estado |
 | :-- | :-- |
 | 40mP | ![][false] |
-| ak+q | ![][false] |
 | DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |

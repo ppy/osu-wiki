@@ -19,7 +19,7 @@ The Tournament Committee's responsibilities include advising the [account suppor
 Additionally, the Tournament Committee performs the following roles independent of the account support team:
 
 - Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for necessary revisions.
-- Investigating reports from the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
+- Investigating reports from the [tournament reports form](https://tcomm.hivie.tn/reports/create).
 - Checking whether concluded tournaments requesting official support meet its criteria.
 - Advising the osu! news team on whether to grant [news post support](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) for tournaments.
 - Maintaining communications with the general playerbase regarding changes to official support criteria and the status of all tournaments that have requested official support.
@@ -61,7 +61,7 @@ Once a tournament has concluded and has requested a badge prize, two random memb
 
 Assigned members will indicate tournaments that pass the review process as eligible for badges. The account support team will apply the badges at a later time to the winners' profiles. If a tournament fails the review process, the reviewing members may advise the account support team on what changes need to be communicated to the tournament hosts. If these changes are not possible after the tournament's conclusion, the Tournament Committee will hold a vote on whether to withdraw official support.
 
-Tournaments may be reported for violations of official support criteria via the [tournament reports form](https://pif.ephemeral.ink/tournament-reports). For concluded tournaments that have sent a support email, the Tournament Committee will take the following course of action if there are actionable reports:
+Tournaments may be reported for violations of official support criteria via the [tournament reports form](https://tcomm.hivie.tn/reports/create). For concluded tournaments that have sent a support email, the Tournament Committee will take the following course of action if there are actionable reports:
 
 - Determine if the issues brought up in the reports break any of the official support criteria.
 - If they are severe enough to warrant action, investigate the events detailed in the reports to ensure their validity and gather additional context.
@@ -155,16 +155,23 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
+- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
+- ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
+- ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
+- ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317)
 
 ### Contest Committee
 
+- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)

@@ -422,12 +422,16 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 
 #### Erlaubt, mit Ausnahmen
 
+Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
+
 | Künstler |  | Status | Bemerkungen |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Vor dem Hochladen kontaktieren. Kann über [E-Mail](mailto:hisaweb_info@yahoo.co.jp) oder [Bandcamp](https://a-hisa.bandcamp.com/) erreicht werden. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Die Verwendung des Songs "execution_program" ist nicht gestattet. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
@@ -439,7 +443,6 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 | Künstler | Status |
 | :-- | :-- |
 | 40mP | ![][false] |
-| ak+q | ![][false] |
 | DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |

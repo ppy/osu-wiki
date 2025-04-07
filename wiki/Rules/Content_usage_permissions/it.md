@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 5de39c08cf37e2889ecbc77213994fb7137417e2
----
-
 # Autorizzazioni per l'utilizzo di contenuti
 
 osu! è incentrato sulla possibilità di creare e condividere liberamente le proprie creazioni. È importante assicurarsi che siano stati acquisiti i permessi necessari per utilizzare il lavoro di altri creatori nelle nuove creazioni e che tutto il lavoro sia attribuito correttamente.
@@ -37,7 +32,7 @@ Mentre la musica è spesso soggetta a copyright, gli effetti sonori utilizzati p
 
 Questa sezione indica quali artisti sono disposti a consentire l'uso delle loro opere audio all'interno di osu! e a quali condizioni (se del caso).
 
-Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https://osu.ppy.sh/beatmaps/artists) sono approvate per l'uso nella creazione di beatmap di osu!. I brani di un artista in primo piano che non fanno parte nell'elenco sono *senza* licenza e per il loro utilizzo potrebbero essere necessarie ulteriori autorizzazioni.
+Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https://osu.ppy.sh/beatmaps/artists) sono autorizzate e approvate per l'uso nella creazione di beatmap di osu!. I brani di un artista in primo piano che non fanno parte nell'elenco sono *senza* licenza e per il loro utilizzo potrebbero essere necessarie ulteriori autorizzazioni.
 
 #### Autorizzati
 
@@ -306,7 +301,7 @@ Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https:
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
-|  | PanPanPanic | ![][true] |
+|  | [PanPanPanic](https://www.youtube.com/channel/UCGrEYs4BHutJSqE5fR8WY1g) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
@@ -397,7 +392,7 @@ Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https:
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
-|  | veexie | ![][true] |
+|  | [VEEXIE](https://www.youtube.com/@veexie/videos) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |
@@ -430,9 +425,11 @@ Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https:
 | Artist |  | Status | Notes |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contattare prima del caricamento. Raggiungibile tramite [email](mailto:hisaweb_info@yahoo.co.jp) o [Bandcamp](https://a-hisa.bandcamp.com/). |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Non usare la traccia chiamata "execution_program". |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Non è possibile utilizzare le tracce non presenti nella lista degli Artisti in Primo Piano. |
@@ -444,7 +441,6 @@ Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https:
 | Artist | Status |
 | :-- | :-- |
 | 40mP | ![][false] |
-| ak+q | ![][false] |
 | DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |

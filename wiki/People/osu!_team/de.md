@@ -7,7 +7,7 @@ tags:
   - staff
   - team osu!
 outdated_translation: true
-outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
 ---
 
 # osu!-Team
@@ -39,6 +39,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Moderator des [osu! YouTube-Kanals](https://www.youtube.com/@osugame), [Mappers' Guild](/wiki/Community/Mappers_Guild) Organisator, [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Berater für die Modding- und Mapping-Szene |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Designkoordinator für World Cups |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Allgemeiner Hausmeister |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu!-Entwickler, osu!mania-Liebhaber, Fehlerbeseitiger |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu!-Entwickler |
