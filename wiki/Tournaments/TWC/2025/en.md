@@ -134,19 +134,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ### Semifinals
 
-**[Download the mappack here (113 MB)](https://leoflt.com/s/twc2025-semifinals-mappack)**\
+**[Download the mappack here (113 MB)](https://packs.ppy.sh/P281%20-%20osu!taiko%20World%20Cup%202025%3A%20Semifinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2425712130?t=2h4m42s)
 
 - No Mod
   1. [isonosuke - Baka Tsuushin (feat. Chis-A) (Skidooskei) \[Terminally Online\]](https://osu.ppy.sh/beatmapsets/1998016#taiko/4152878)
-  2. [P4koo - Hyperlight. (feat. Tsuyuri Karin) (Raphalge) \[Inner Oni\] *(temporary link)*](https://leoflt.com/s/4kE0O)
+  2. [P4koo - Hyperlight. (feat. Tsuyuri Karin) (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2351019#taiko/5059246)
   3. [WyvernP - White Devil (Alchyr) \[-\]](https://osu.ppy.sh/beatmapsets/2194042#taiko/4641645)
   4. [aoi08 - j9fqo80fdgcr (roufou) \[just what the doctor ordered, more dariacore\]](https://osu.ppy.sh/beatmapsets/2350992#taiko/5059144)
-  5. [Quarkee - HYPER PSY2K (Zetera) \[COSMIC RAY BITFLIP\] *(temporary link)*](https://leoflt.com/s/JlCPX)
+  5. [Quarkee - HYPER PSY2K (Zetera) \[COSMIC RAY BITFLIP\]](https://osu.ppy.sh/beatmapsets/2351106#taiko/5059418)
   6. [tv room - Know It All (Raphalge) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/2149103#taiko/4527330)
 - Hidden
   1. [cluli - they besties (D 3) \[Relae\]](https://osu.ppy.sh/beatmapsets/2350993#taiko/5059153)
-  2. [The Ghost Of 3.13 - Forgotten (ndrrr) \[poggatura\] *(temporary link)*](https://leoflt.com/s/Y0c49)
+  2. [The Ghost Of 3.13 - Forgotten (ndrrr) \[poggatura\]](https://osu.ppy.sh/beatmapsets/2351057#taiko/5059325)
 - Hard Rock
   1. [Kaitendaentai - Aether (ikin5050) \[Ritual Oni\]](https://osu.ppy.sh/beatmapsets/2351002#taiko/5059170)
   2. [tn-shi - Annihilation in F# Minor (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2351018#taiko/5059245)
@@ -157,7 +157,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
   1. [Rabbit House & Evin a'k - optimal solution (Irone OSU) \[inequality\]](https://osu.ppy.sh/beatmapsets/2321605#taiko/4973868)
   2. [Tonari no Niwa wa Aoi (NIWASHI+Aoi) - Polacro (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2140365#taiko/4504718)
 - Tiebreaker
-  1. **[Sydosys - Partition (tasuke912) \[Finem\] *(temporary link)*](https://leoflt.com/s/nitRj)**
+  1. **[Sydosys - Partition (tasuke912) \[Finem\]](https://osu.ppy.sh/beatmapsets/2351137#taiko/5059512)**
 
 ### Quarterfinals
 
@@ -259,6 +259,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 ## Match results
 
 ### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1HYP2llOprad492cK_JaKEV9B79wMk1OYN8c8xSpa2xI?rm=minimal).
 
 Saturday, 5 April 2025:
 
