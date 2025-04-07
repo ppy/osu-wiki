@@ -16,22 +16,22 @@ This year's iteration will be hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy
 
 | Event | Dates |
 | --: | :-- |
-| Registration | April 7 – April 21 |
+| Registration | April 7 – April 26 |
 | **Qualifier Round** |  |
-| Beatmapping | April 21 – May 6 |
-| Judging | May 6 – May 27 |
+| Beatmapping | April 26 – May 10 |
+| Judging | May 10 – May 31 |
 | **Round of 16** |  |
-| Beatmapping | May 27 – June 10 |
-| Judging | June 10 – June 24 |
+| Beatmapping | May 31 – June 14 |
+| Judging | June 14 – June 28 |
 | **Quarterfinals** |  |
-| Beatmapping | June 24 – July 8 |
-| Judging | July 8 – July 15 |
+| Beatmapping | June 28 – July 12 |
+| Judging | July 12 – July 19 |
 | **Semifinals** |  |
-| Beatmapping | July 15 – July 29 |
-| Judging | July 29 – August 5 |
+| Beatmapping | July 19 – August 2 |
+| Judging | August 2 – August 9 |
 | **Finals** |  |
-| Beatmapping | August 5 – August 9 |
-| Judging | August 19 – August 26 |
+| Beatmapping | August 9 – August 23 |
+| Judging | August 23 – August 30 |
 
 The schedule is subject to change according to the progress of the contest.
 
