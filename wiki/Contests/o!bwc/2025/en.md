@@ -53,7 +53,7 @@ The schedule is subject to change according to the progress of the contest.
 
 ## Links
 
-- **[Registration form](https://docs.google.com/forms/d/1EWv2p489J7cokkjhQw0g0fGP-DXwtb7MBzS1V9omOJE/viewform?edit_requested=true)**
+- **[Registration form](https://form-auth.ppy.sh/form/2025-bwc-registrations)**
 - [Announcement news post](https://osu.ppy.sh/home/news/2025-04-07-osu-beatmapping-world-championship-2025)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2060957?n=1)
 - [Contest listing](https://osu.ppy.sh/community/contests/243)
@@ -78,7 +78,7 @@ The schedule is subject to change according to the progress of the contest.
 
 ### Teams and registration
 
-- o!bwc is a team-based beatmapping contest. Mappers should [register through this form](https://docs.google.com/forms/d/1EWv2p489J7cokkjhQw0g0fGP-DXwtb7MBzS1V9omOJE/viewform?edit_requested=true).
+- o!bwc is a team-based beatmapping contest. Mappers should [register through this form](https://form-auth.ppy.sh/form/2025-bwc-registrations).
 - Each team consists of 4–6 members, with one member being their captain.
 - The captain is responsible for organising and managing their team, submitting their entries, as well as communicating with the hosts.
 - All team members must share the same country flag.
