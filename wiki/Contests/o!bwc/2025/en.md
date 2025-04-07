@@ -31,7 +31,7 @@ tags:
 | Beatmapping | August 9 – August 23 |
 | Judging | August 23 – August 30 |
 
-The schedule is subject to change according to the progress of the contest.
+The schedule is subject to change according to the progress of the contest. Results will be livestreamed on the [osubwc Twitch channel](https://www.twitch.tv/osubwc/).
 
 ## Prizes and awards
 
@@ -58,6 +58,8 @@ The schedule is subject to change according to the progress of the contest.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2060957?n=1)
 - [Contest listing](https://osu.ppy.sh/community/contests/243)
 - [Discord server](https://discord.com/invite/QGzz3n655u)
+- [Twitch livestream](https://www.twitch.tv/osubwc/)
+- [Twitter account](https://twitter.com/osubwc)
 
 ## Participants
 
