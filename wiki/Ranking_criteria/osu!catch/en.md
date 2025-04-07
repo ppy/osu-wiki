@@ -24,13 +24,13 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 
 #### Guidelines
 
-- **All [fruits](/wiki/Gameplay/Hit_object/Fruit) should represent a sound existing in the music.** This is usually a distinct sound, but can also represent a continuous sound with an indistinguishable start or end.
+- **All [fruits](/wiki/Gameplay/Hit_object/Fruit) should represent a sound existing in the music.** This is usually a distinct sound but can also represent a continuous sound with an indistinguishable start or end.
 - **The last [fruit](/wiki/Gameplay/Hit_object/Fruit) of a [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** For example, if the song is using a straight beat, 1/4, 1/8 or 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used.
 - **[Dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used when the destination of the dash or hyperdash is located near the left or right border of the playfield.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield (x:16 on the left and x:496 on the right).
-- **Ensure [combos](/wiki/Beatmapping/Combo) do not reach unreasonable lengths.** This is to ensure the player’s view is not obstructed by the [fruits](/wiki/Gameplay/Hit_object/Fruit) stacked on the plate.
+- **[Combos](/wiki/Beatmapping/Combo) should not reach unreasonable lengths.** This ensures the player’s view is not obstructed by the [fruits](/wiki/Gameplay/Hit_object/Fruit) stacked on the plate.
 - **[Overall difficulty](/wiki/Beatmap/Overall_difficulty) should have the same value as the [Approach rate](/wiki/Beatmap/Approach_rate).** This is just a standardised value, as Overall difficulty only affects the maximum score of a difficulty with [scoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch).
-  - If a difficulty uses a lower Approach rate than one or more difficulties in the difficulty level below it, then the Overall difficulty should be equal to that of the highest Overall difficulty value in the previous difficulty level.
-- **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should be set according to the song.** For example if your song contains a section that uses 1/3 rhythms only, using tick rate 2 would not be fitting for the entire beatmap.
+  - Suppose a difficulty uses a lower Approach rate than one or more difficulties at the difficulty level below it. In that case, the Overall difficulty should be equal to that of the highest Overall difficulty value at the previous difficulty level.
+- **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should be set according to the song.** For example, if your song contains a section that uses 1/3 rhythms only, tick rate 2 would not fit the entire beatmap.
 - **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~50 luminosity or lower.** Dark colours impact the readability of [fruits](/wiki/Gameplay/Hit_object/Fruit) with low background dim.
 - **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~220 luminosity or higher if [Kiai time](/wiki/Gameplay/Kiai_time) is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
 
@@ -39,7 +39,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 #### Rules
 
 - **Custom catchers must be included in v2 skin format.** The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch).
-- **Custom [fruits](/wiki/Skinning/osu!catch#fruits) must include all necessary elements and be coloured in a scale of grey colours.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). It is recommended to use transparent elements for the overlays.
+- **Custom [fruits](/wiki/Skinning/osu!catch#fruits) must include all necessary elements and be coloured in a scale of grey colours.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). It is recommended that transparent elements are used for the overlays.
 - **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay.
   - [Fruits](/wiki/Skinning/osu!catch#fruits) must be 128x128 pixels.
   - [Drops](/wiki/Skinning/osu!catch#fruits) must be 82x103 pixels.
@@ -47,7 +47,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
+Difficulty-specific rules and guidelines only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Difficulty names
 
@@ -118,7 +118,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) must have at least a 125 ms gap between their two objects.**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) cannot be used on individual [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the slider path.
+- **[Hyperdashes](/wiki/Gameplay/Hyperdash) cannot be used on individual [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions.** The accuracy and control required are unreasonable at this level and can create a situation where the player potentially fails to read the slider path.
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) of a different beat snap must not be used between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).** For example, a 1/2 hyperdash must not be followed by a 1/4 hyperdash.
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with any other [dashes](/wiki/Gameplay/Dash) or hyperdashes.**
@@ -149,7 +149,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) and [dashes](/wiki/Gameplay/Dash) must have at least a 62 ms gap between their two objects.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times within a slider.** The slider path must be simple and easy-to-follow.
+- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times within a slider.** The slider path must be simple and easy to follow.
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with any other hyperdashes.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used within a slider.**
 - **At least 125 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start and end of [bananas](/wiki/Gameplay/Hit_object/Banana).**
@@ -158,7 +158,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) should not be used on individual [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and/or slider repetitions.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 hyperdash must not be followed by a 1/2 hyperdash.
-- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be used in conjunction with higher-snapped [dashes](/wiki/Gameplay/Dash).** If used, those cannot involve [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) and the dash must be used before the hyperdash.
+- **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be used in conjunction with higher-snapped [dashes](/wiki/Gameplay/Dash).** If used, those cannot involve [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow), and the dash must be used before the hyperdash.
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) [dashes](/wiki/Gameplay/Dash).**
 - **[Edge dashes](/wiki/Gameplay/Edge_dash) should not be used in conjunction with other [dashes](/wiki/Gameplay/Dash) or [hyperdashes](/wiki/Gameplay/Hyperdash).**
 - **[Spinner traps](/wiki/Gameplay/Spinner_trap) should not be used.**
