@@ -85,7 +85,6 @@ Submissions will be judged according to the following criteria:
 
 Please check the [wiki article](/wiki/Contests/o!bwc/2025) for more detailed rules! You can join the [Discord server](https://discord.com/invite/QGzz3n655u) or follow [@osubwc on Twitter](https://twitter.com/osubwc) for updates.
 
-
 After reading all that, you know what to do. Get ready to show off your mapping skills and represent your country in **o!bwc 2025**. Good luck!
 
 —momoyo, Chaoslitz, Lince Cosmico, seros, Mafumafu
