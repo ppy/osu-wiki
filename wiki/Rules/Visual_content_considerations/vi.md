@@ -61,6 +61,7 @@ Vào bất kỳ thời điểm nào, [đội ngũ osu!](/wiki/People/osu!_team) 
 Bất kỳ hình ảnh, video, hoặc nội dung trực quan nào mà GMT cho là không phù hợp sẽ bị xóa khỏi trang web. Ngoài ra, người dùng đã tải lên nội dung trực quan đó có thể bị [im lặng](/wiki/Help_centre/Silences) trong 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm vi phạm và lịch sử có liên quan của người dùng.
 
 Đối với nội dung trực quan không phù hợp trên các beatmap, lệnh im lặng thường sẽ không được áp dụng, miễn là nội dung hình ảnh không quá nghiêm trọng và người dùng đã loại bỏ nội dung vi phạm trong một khoảng thời gian hợp lý.
+
 ## Ghi chú
 
 [^drug-nature]: Điều này có thể có ngoại lệ tùy thuộc vào tính chất của chất ma túy, cách dùng và tiểu văn hóa của nó, tính đặt biệt trong các trường hợp của chất ma túy đang trải qua sự phi hình sự hóa nhanh chóng trên toàn cầu và quy định như đối với cần sa. Việc yêu cầu ngoại lệ cụ thể cho quy tắc này nên được thực hiện bằng cách liên hệ với [đội ngũ hỗ trợ](/wiki/People/Account_support_team) qua [support@ppy.sh](mailto:support@ppy.sh).
