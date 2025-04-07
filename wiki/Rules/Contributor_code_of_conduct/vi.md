@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Bộ quy tắc ứng xử của cộng tác viên
 
 ## Cam kết của chúng tôi
