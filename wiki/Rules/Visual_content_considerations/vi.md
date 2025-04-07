@@ -42,7 +42,7 @@ Các hình ảnh hoặc yếu tố trực quan chứa ví dụ về những đi�
 - lãng mạn, tán tỉnh hoặc tình cảm thân mật nhẹ nhàng (ôm, ôm nhau, hôn mà không mang hàm ý tình dục, nắm tay, v.v.)
 - đồ bơi có thiết kế hợp lý (đồ bơi tiêu chuẩn với độ che phủ tổng quát, bikini thông thường)
 
-Trong một số trường hợp nhất định, có thể có ngoại lệ đối với việc sử dụng nghệ thuật của nội dung đòi hỏi công sức cao, chẳng hạn như bảng phân cảnh hoặc nội dung video tùy chỉnh (tức là được tạo ra đặc biệt), điều này phải được cấp quyền trực tiếp từ đội ngũ hỗ trợ. Những ai quan tâm có thể liên hệ trực tiếp với họ qua [support@ppy.sh](mailto:support@ppy.sh).
+Trong một số trường hợp nhất định, có thể có một số ngoại lệ đối với việc sử dụng nghệ thuật của nội dung đòi hỏi nhiều công sức, chẳng hạn như storyboards hoặc nội dung video được làm riêng (ví dụ: được tạo ra đặc biệt), điều này phải được cấp trực tiếp từ đội ngũ hỗ trợ. Những ai quan tâm có thể liên hệ trực tiếp với họ qua [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Nhận đánh giá hình ảnh của bạn
 
@@ -50,18 +50,17 @@ Xem thêm tại: [Quá trình bỏ phiếu nội dung](/wiki/Rules/Content_votin
 
 Các hình ảnh được sử dụng ở bất kỳ đâu trên trang web ngoài beatmap (ảnh đại diện, ảnh bìa hồ sơ, trang người dùng, v.v.) không phải tuân theo quy trình bỏ phiếu được giải thích dưới đây và có thể bị xóa bất cứ lúc nào theo quyết định của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) (GMT).
 
-Nếu bạn không chắc chắn về một hình ảnh sẽ được đưa vào beatmap theo bất kỳ cách nào, vui lòng gửi yêu cầu qua trang [báo cáo đề cử beatmap](https://bn.mappersguild.com/reports). Hình ảnh đó sẽ được đưa ra bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, nếu không sẽ bị từ chối tự động.
+Nếu bạn không chắc chắn về một hình ảnh sẽ được đưa vào beatmap theo bất kỳ cách nào, vui lòng gửi yêu cầu qua [trang gửi báo cáo cho người đề cử beatmap](https://bn.mappersguild.com/reports). Hình ảnh đó sẽ được nâng lên thành một cuộc bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ bị từ chối tự động.
 
-Kết quả của bất kỳ cuộc bỏ phiếu nào là kết quả cuối cùng, trừ khi hình ảnh bị thay đổi đáng kể để giải quyết các yếu tố có thể gây vấn đề được nêu ra trong thảo luận.
+Kết quả của bất kỳ cuộc bỏ phiếu nào là kết quả cuối cùng, trừ khi hình ảnh bị thay đổi đáng kể để cố gắng giải quyết bất kỳ các yếu tố có thể gây vấn đề được nêu ra trong thảo luận.
 
 Vào bất kỳ thời điểm nào, [đội ngũ osu!](/wiki/People/osu!_team) có quyền đơn phương tuyên bố bất kỳ nội dung nào là hợp lệ hoặc không hợp lệ theo quyết định của họ, bất chấp bất kỳ cuộc bỏ phiếu trước đó về vấn đề này.
 
 ## Điều gì xảy ra nếu hình ảnh của tôi không ổn?
 
-Bất kỳ hình ảnh, video, hoặc nội dung trực quan nào mà GMT cho là không phù hợp sẽ bị xóa khỏi trang web. Ngoài ra, người dùng đã tải lên nội dung trực quan đó có thể bị [im lặng](/wiki/Help_centre/Silences) trong 43 giờ tùy vào mức độ nghiêm trọng của vi phạm và lịch sử liên quan của người dùng.
+Bất kỳ hình ảnh, video, hoặc nội dung trực quan nào mà GMT cho là không phù hợp sẽ bị xóa khỏi trang web. Ngoài ra, người dùng đã tải lên nội dung trực quan đó có thể bị [im lặng](/wiki/Help_centre/Silences) trong 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm vi phạm và lịch sử có liên quan của người dùng.
 
-Đối với nội dung trực quan không phù hợp trên các beatmap, người dùng sẽ thường không bị im lặng miễn là nội dung trực quan không quá nghiêm trọng và người dùng đã loại bỏ nội dung vi phạm trong một khoảng thời gian hợp lý.
-
+Đối với nội dung trực quan không phù hợp trên các beatmap, lệnh im lặng thường sẽ không được áp dụng, miễn là nội dung hình ảnh không quá nghiêm trọng và người dùng đã loại bỏ nội dung vi phạm trong một khoảng thời gian hợp lý.
 ## Ghi chú
 
-[^drug-nature]: Điều này có thể có ngoại lệ tùy thuộc vào bản chất của chất ma túy, cách sử dụng và văn hóa ngầm của nó, đặc biệt là trong các trường hợp các chất ma túy đang trải qua quá trình phi hình sự hóa và quản lý nhanh chóng trên toàn cầu như cần sa. Việc yêu cầu ngoại lệ cụ thể cho quy tắc này nên được thực hiện bằng cách liên hệ với [đội ngũ hỗ trợ](/wiki/People/Account_support_team) qua [support@ppy.sh](mailto:support@ppy.sh).
+[^drug-nature]: Điều này có thể có ngoại lệ tùy thuộc vào tính chất của chất ma túy, cách dùng và tiểu văn hóa của nó, tính đặt biệt trong các trường hợp của chất ma túy đang trải qua sự phi hình sự hóa nhanh chóng trên toàn cầu và quy định như đối với cần sa. Việc yêu cầu ngoại lệ cụ thể cho quy tắc này nên được thực hiện bằng cách liên hệ với [đội ngũ hỗ trợ](/wiki/People/Account_support_team) qua [support@ppy.sh](mailto:support@ppy.sh).
