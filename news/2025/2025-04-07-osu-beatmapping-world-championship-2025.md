@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! Beatmapping World Championship 2025
-date: 2025-04-07 23:59:59 +0000
+date: 2025-04-07 15:00:00 +0000
 ---
 
 After a long hiatus, the **osu! Beatmapping World Championship (o!bwc)** is back!
