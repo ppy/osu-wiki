@@ -74,7 +74,6 @@ So far, we used to run a voting between players and Beatmap Spotlight Curators, 
 Starting today, we'd like to split the Beatmap of the Season in two:
 
 1. The Beatmap of the Season will be selected by Beatmap Spotlight Curators will be announced alongside a season's launch in Playlist A. This makes the Beatmap of the Season a highlight for the most outstanding recent beatmapping creation (according to the curators), serving as an award and so-called spotlight for both the beatmap and its author.
-
 2. The *players' favourite* voting will still be hosted at the end of each season, including all of the beatmaps selected for the season.
 
 The creator of both highlighted maps will receive 3 months of osu!supporter, which is the same as it used to be in the past.
@@ -159,7 +158,6 @@ Are you ready to take on the flying notes on your screen? Make sure to check out
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/DE7LoK-SVTg" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 - [Namitape feat. Kaai Yuki - Mirareru Mirror (clockbite) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1925206#taiko/3975035), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
 - [MisomyL - Ring ! Run ! Nyan!! (iRedi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/2226501#taiko/4723182), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
