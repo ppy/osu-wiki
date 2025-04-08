@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2015
 
-![OWC 2015 logo](img/logo.jpg)
+![Logo de la OWC 2015](img/logo.jpg)
 
 La **osu! World Cup 2015** (***OWC 2015***) fue un torneo por países organizado por el [osu! team](/wiki/People/osu!_team). Fue la sexta edición de la osu! World Cup.
 
@@ -409,7 +409,7 @@ Domingo, 8 de noviembre de 2015:
 ### Reglas del torneo
 
 1. La osu! World Cup es un torneo por equipos de 4 contra 4 por países
-2. La puntuación del mapa se basa en una nueva métrica, llamada Score V2. **[¡Lee más sobre esto!](https://osu.ppy.sh/community/forums/topics/375428)**
+2. Las puntuaciones de los mapas se basan en una nueva métrica, llamada Score V2. **[¡Lee más sobre esto!](https://osu.ppy.sh/community/forums/topics/375428)**
 3. Los beatmaps para cada ronda serán anunciados por los selectores de los mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
    - Un beatmap será asignado como mapa de desempate. Este beatmap solo podrá ser jugado en caso de empate.
 4. El cronograma de los partidos será establecido por los administradores del torneo (consulta más abajo).
@@ -420,7 +420,7 @@ Domingo, 8 de noviembre de 2015:
 8. Si el beatmap termina en un empate, el juego será anulado.
 9. Si uno de los jugadores se desconecta, son tratados como si hubieran fallado el beatmap.
    - Las desconexiones dentro de los 30 segundos posteriores al inicio del mapa se pueden volver a jugar. Esto queda a discreción del árbitro.
-10. Los mapas no pueden ser reusados en un mismo partido a menos que el beatmap haya sido anulado.
+10. Los mapas no pueden ser reusados en un mismo partido, a menos que el beatmap haya sido anulado.
 11. Si menos de 4 jugadores asisten, el tiempo máximo que se podrá posponer el partido será de 10 minutos.
 12. Está permitido el intercambio de jugadores durante un partido.
 13. El lag no es un razón válida para anular un beatmap.
@@ -429,10 +429,10 @@ Domingo, 8 de noviembre de 2015:
 16. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y de los administradores del torneo. Las decisiones consideradas definitivas no deben ser objetadas.
 17. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir mapas de calentamiento inapropiados (consulta más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
 18. El chat de las salas multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a las salas multijugador.
-    - Romper las reglas del chat da como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
+    - Romper las reglas del chat dará como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
 19. En la fase de grupos, se considerará 'victoria por defecto' la victoria por 4:0, +1,0 de diferencia de puntos.
-20. Los incidentes inesperados son manejados por los administradores del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias dadas. Esto queda a su discreción.
-21. Las sanciones por violar las reglas del torneo pueden ser:
+20. Los incidentes inesperados serán manejados por los administradores del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias dadas. Esto queda a su discreción.
+21. Las sanciones por incumplir las reglas del torneo pueden ser:
     - Exclusión de jugadores específicos para un mapa
     - Exclusión de jugadores específicos por el resto del partido
     - Declarar el partido como perdido por defecto
@@ -444,15 +444,15 @@ Domingo, 8 de noviembre de 2015:
 
 1. Cada usuario interesado en formar parte del equipo de su país se registra individualmente.
    - Los administradores del torneo crearán una lista de posibles candidatos para el equipo de un país.
-   - Los administradores del torneo declaran a un candidato capitán del equipo de su país, aunque de forma temporal.
+   - Los administradores del torneo declararán a un candidato como capitán para la selección de su país, aunque de forma temporal.
    - El capitán declarado puede formar su equipo a partir de la lista de candidatos de su país.
 2. Para asegurar registros válidos y serios, cada usuario registrado será controlado por los administradores del torneo.
    - Cada usuario registrado será asignado a la lista de candidatos de su país respectivo.
-   - Para ser aceptado con éxito en la lista, debe asegurarse de que su clasificación de rendimiento global de osu! está por encima de #5000.
-   - Para ser aceptado con éxito en la lista, debe asegurarse de no haber violado ninguna de las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
+   - Para ser aceptado con éxito en la lista, debes asegurarte de que tu clasificación de rendimiento global de osu! esté por encima de #5000.
+   - Para ser aceptado con éxito en la lista, debes asegurarte de no haber infringido ninguna de las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
 3. Todos los equipos formados con éxito serán publicados después de la fase de registro.
 4. Los jugadores rechazados pueden apelar esta decisión a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
-5. Los selectores de los mapas no pueden participar como jugadores en este torneo.
+5. Los selectores de mapas no pueden participar como jugadores en este torneo.
 
 ### Instrucciones de las fases
 
@@ -460,7 +460,7 @@ Domingo, 8 de noviembre de 2015:
 2. Todos los equipos de cada grupo se enfrentarán entre sí.
 3. La clasificación de cada grupo se determina ordenando los resultados del rendimiento de cada equipo según la siguiente prioridad:
    - Mayoría de partidos ganados.
-   - Tener más alto `{(el número de mapas ganados) - (el número de mapas perdidos)}`.
+   - Tener `{(el número de mapas ganados) - (el número de mapas perdidos)}` más alto.
    - Mayoría de mapas ganados.
    - Tener la `∑{(diferencia de puntuación total) / (máxima puntuación)}` más alta.
    - Ganador de la revancha.
@@ -477,10 +477,10 @@ Domingo, 8 de noviembre de 2015:
 | Finales semana 2 | P, Q |
 
 7. **Condiciones de victoria:**
-   - En la fase de grupos, debes ganar 4 mapas para ganar un partido. (Al mejor de 7)
-   - En los octavos de final y los cuartos de final, debes ganar 5 mapas para ganar un partido. (Al mejor de 9)
-   - En las semifinales y las finales: semana 1, necesitas ganar 6 mapas para ganar un partido. (Al mejor de 11)
-   - En las finales: semana 2, necesitas ganar 7 mapas para ganar el partido. (Al mejor de 13)
+   - En la fase de grupos, los equipos deben ganar 4 mapas para ganar un partido. (Al mejor de 7)
+   - En los octavos de final y los cuartos de final, los equipos deben ganar 5 mapas para ganar un partido. (Al mejor de 9)
+   - En las semifinales y las finales: semana 1, los equipos deben ganar 6 mapas para ganar un partido. (Al mejor de 11)
+   - En las finales: semana 2, los equipos deben ganar 7 mapas para ganar el partido. (Al mejor de 13)
 
 ### Instrucciones de los partidos
 
@@ -488,10 +488,10 @@ Domingo, 8 de noviembre de 2015:
    - La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score V2'. El nombre de la sala debe ser «OWC 2015: TeamBlue vs TeamRed» (**esto puede cambiar en algún momento posterior**)
    - El equipo mencionado primero en el nombre de la sala debe ser el equipo azul, el equipo mencionado en segundo lugar en el nombre de la sala debe ser el equipo rojo.
 2. Los jugadores son libres de seleccionar dos beatmaps de calentamiento. Está prohibido usar beatmaps con contenido cuestionable. Esto incluye blasfemias, desnudez, violencia u otro contenido NSFW en los elementos visuales o la canción, independientemente de su idioma.
-3. Cada capitán puede prohibir que se seleccionen dos beatmaps de la mappool. Estos beatmaps no pueden ser elegidos por ningún equipo en todo el partido.
+3. Cada capitán puede prohibir que se seleccionen dos beatmaps del mappool. Estos beatmaps no pueden ser elegidos por ningún equipo en todo el partido.
    - Siempre se deben usar ambos vetos.
-4. La selección de mapas alternará entre cada capitán seleccionando un beatmap de la mappool.
-5. Cada capitán deberá usar `!roll` una vez en `#multijugador`.
+4. La selección de los mapas alternará entre cada capitán seleccionando un beatmap del mappool.
+5. Cada capitán deberá usar `!roll` una vez en `#multiplayer`.
    - El ganador del `!roll` eligirá el primer beatmap del partido.
    - El perdedor del `!roll` baneará dos beatmaps.
 6. Los capitanes pueden elegir libremente de cualquier bracket.
@@ -501,7 +501,7 @@ Domingo, 8 de noviembre de 2015:
 ### Instrucciones de la mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los octavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales.
-   - Las finales de la semana 1 y las finales de la semana 2 usan la misma mappool.
+   - Las finales de la semana 1 y las finales de la semana 2 usan el mismo mappool.
 2. Cada mappool consiste de 5 brackets: NoMod, HardRock, Hidden, DoubleTime y FreeMod
 3. Cada mappool consta de 19 mapas en total.
 4. Cada mappool tiene un mapa de desempate.
@@ -522,5 +522,5 @@ Domingo, 8 de noviembre de 2015:
 3. Todas las fases de doble eliminación se llevarán a cabo el sábado o el domingo, UTC+0.
 4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de cada fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
    - En las fases de cuartos de final y posteriores: Por favor, si crees que no podrás estar disponible en un horario específico de la semana siguiente, informále a los administradores del torneo antes del domingo. Intentaremos cumplir tu petición, pero no podemos prometer nada.
-5. La reprogramación después de la publicación del Programa en la wiki no se puede realizar bajo ninguna circunstancia.
+5. Las reprogramaciones después de la publicación del cronograma en la wiki no se pueden realizar bajo ninguna circunstancia.
 6. Los capitanes son responsables de la disponibilidad de sus equipos. El tamaño de los equipos es grande para garantizar que cada equipo pueda aportar al menos cuatro jugadores para cada partido. Si los equipos no pueden proporcionar cuatro jugadores para un partido, el partido se considerará perdido.
