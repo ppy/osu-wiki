@@ -14,17 +14,17 @@ Even though the playlists are up and running already, we invite you to read on f
 
 ## A lengthy history lesson
 
-Heading into 2024, right after the conclusion of the Autumn 2023 season, the Beatmap Spotlights project was halted by the developement team, due to an osu!(lazer) scoring rollout and infrastructure changes related to that.
+Heading into 2024, right after the conclusion of the Autumn 2023 season, the Beatmap Spotlights project was halted by the development team, due to an osu!(lazer) scoring rollout and infrastructure changes related to that.
 
-Some time passed, and alongside the [introduction of Daily Challenges](https://osu.ppy.sh/home/news/2024-07-25-introducing-daily-challenges) in July 2024, internal discussions arose about how the projects would coexist in the future. After some team-wide deliberations, it was decided that they would both focus on different matters, and aim for a varying playerbase.
+Some time passed, and alongside the [introduction of Daily Challenges](https://osu.ppy.sh/home/news/2024-07-25-introducing-daily-challenges) in July 2024, internal discussions arose about how the projects would coexist in the future. After some team-wide deliberations, it was decided that they would both focus on different matters, and aim for a varying player base.
 
 With that, the Beatmap Spotlights could run again. However, before that happens, various parts of Spotlights infrastructure would need to see some change.
 
-Back in September 2024 then, meetings were held and plans were drawn, and as a result the [Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) were met with a relatively simple announcement: the new goal was to stop using spreadsheets and scripts to run the Beatmap Spotlights, for sake of both smoother internal workflows, and enchanced player experience.
+Back in September 2024 then, meetings were held and plans were drawn, and as a result the [Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) were met with a relatively simple announcement: the new goal was to stop using spreadsheets and scripts to run the Beatmap Spotlights, for sake of both smoother internal workflows, and enhanced player experience.
 
 The idea was to create a new, unified system for curating the beatmaps directly on the website, along with brand-new infrastructure to handle it, including live-updating rankings and seasonal divisions, extending on [previously implemented seasons backend](https://github.com/ppy/osu-web/pull/9725).
 
-While the idea was simple, it wouldn't be easy. At this point, intense work was ahead of every person involved in Beatmap Spoltights project. Since we are finally here, it means we succeeded, and so we are excited to announce major changes influencing every single inch of Beatmap Spotlights workflows.
+While the idea was simple, it wouldn't be easy. At this point, intense work was ahead of every person involved in Beatmap Spotlights project. Since we are finally here, it means we succeeded, and so we are excited to announce major changes influencing every single inch of Beatmap Spotlights workflows.
 
 Can't wait to hear what changed during the over-a-year-long pause? Be sure to read on below!
 
@@ -74,7 +74,7 @@ So far, we used to run a voting between players and Beatmap Spotlight Curators, 
 Starting today, we'd like to split the Beatmap of the Season in two:
 
 1. The Beatmap of the Season will be selected by Beatmap Spotlight Curators will be announced alongside a season's launch in Playlist A. This makes the Beatmap of the Season a highlight for the most outstanding recent beatmapping creation (according to the curators), serving as an award and so-called spotlight for both the beatmap and its author.
-2. The *players' favourite* voting will still be hosted at the end of each season, including all of the beatmaps selected for the season.
+2. The *players' favourite* voting will still be hosted at the end of each season, including all the beatmaps selected for the season.
 
 The creator of both highlighted maps will receive 3 months of osu!supporter, which is the same as it used to be in the past.
 
@@ -116,7 +116,7 @@ The preview videos for each of the playlists were provided by [Noffy](https://os
 
 Let a wave of nostalgia run through you, as Djulus' Insane on Luscent's mapset of the 2-decade-old song *Lia - Tori no Uta* has been chosen as the map of the season!
 
-Featured as the opening theme in Studio Key's visual novel and later adapted anime *AIR* back in the 2000s, the song has gained substancial popularity within the anime community, so much so it's still being mapped to this day!
+Featured as the opening theme in Studio Key's visual novel and later adapted anime *AIR* back in the 2000s, the song has gained substantial popularity within the anime community, so much so it's still being mapped to this day!
 
 Of course, the map mirrors the nostalgic factor of the song as well, with the heavy usage of simple slider shapes, and the clean consistent distance of individual patterns, both reflective of past mapping conventions and limitations. The map also takes advantage of the slow nature of the song to create an interesting experience, having some spaced flowy patterns that fit perfectly with its low BPM — really makes you feel like you're soaring through the skies like a bird.
 
@@ -212,9 +212,9 @@ Behold: what you see here is a masterpiece. How often do you see a full marathon
 
 Critical_Star has been well known in the entire osu!mania community for his expertise in mapping and ranking 7K charts countless times. However, this mapset is undoubtedly THE best grand set that he has produced throughout his mapping career.
 
-Charting a Ludicin song is usually a complex task due to the tiebreaker-style songs with a lot of genres combined, especially in 7K. The chart offers many pattern variations that represent both the fast and slow pace of the music, with well thought-out long note placements, hybrid combinations with tech aspects of rice and chordstreams that emphasize the music and contrast between every section. The beauty of the storyboard and keysound also complement that extremely well.
+Charting a Ludicin song is usually a complex task due to the tiebreaker-style songs with a lot of genres combined, especially in 7K. The chart offers many pattern variations that represent both the fast and slow pace of the music, with well-thought-out long note placements, hybrid combinations with tech aspects of rice and chordstreams that emphasize the music and contrast between every section. The beauty of the storyboard and keysound also complement that extremely well.
 
-Without a doubt, this boss chart deserves its place as the top spotlight pick and we are confident that it will bring you along for the best of experiences and most most rewarding of rides!
+Without a doubt, this boss chart deserves its place as the top spotlight pick, and we are confident that it will bring you along for the best of experiences and most rewarding of rides!
 
 #### Playlist A
 
