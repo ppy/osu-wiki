@@ -256,6 +256,29 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 
+### 2024
+
+#### März
+
+*Für den Newsbeitrag, siehe: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+
+| Benutzer | Beiträge |
+| :-- | :-- |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Herausragende Beiträge zu Moderationsangelegenheiten, zur Teamführung und Berichterstattung |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Ausgezeichnete Koordinierung der Erstellung von Musik und Kunst für osu! |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Herausragende Beiträge zur Community und Mappingszene von osu!catch |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Herausragende Beiträge zur osu!catch-Community und zur Entwicklung zentraler Tools |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Herausragende Beiträge zur Modding- und Mappingszene von osu!mania |
+| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Herausragende Beiträge zur Turnier- und Mappingszene von osu!mania |
+| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Herausragende Beiträge zur Entwicklung der Performance-Punkte durch zentrale Tools ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Herausragende Beiträge zur Entwicklung der Performance-Punkte und zur Wartung von osu!(stable) |
+| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Herausragende Beiträge durch das Vereinen der Community auf Reddit während den [r/place](https://www.reddit.com/r/place/)-Events |
+| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Herausragende Beiträge zur Community durch die Entwicklung und Dokumentation von Replay-Tools |
+| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
+| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([osuplus](https://github.com/limjeck/osuplus)) |
+| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([owo! bot](https://owo-bot.xyz/)) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([Bathbot](https://github.com/MaxOhn/Bathbot])) |
+
 ## Geschichte
 
 Im Februar 2018 wurde das alte Contributor-Abzeichen von ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) von ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) neu gestaltet, da es nicht zum Farbschema der neuen Webseite passte.[^redesign-reasons]
