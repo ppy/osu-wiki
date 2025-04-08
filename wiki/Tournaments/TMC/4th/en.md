@@ -36,8 +36,10 @@ The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!ma
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | *TBD*, profile badge (pending) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBD* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBD* |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBD*, profile badge (pending) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBD*, profile badge (pending) |
+
+![](img/thmc4-badge-1st.png "MWC 4K 2024 winner badge") ![](img/thmc4-badge-2nd.png "MWC 4K 2024 2nd-place badge") ![](img/thmc4-badge-3rd.png "MWC 4K 2024 3rd-place badge")
 
 ## Organisation
 
@@ -195,26 +197,41 @@ The Touhou Project Mania Cup 4th is run by various community members.
 | **Group O** | Benny Goodman | ball itchers | una familia de 10 | WE HATE FEMBOYS@!!!!! |
 | **Group P** | Girls Band Cry | Fish⁴ | rip king von | copium inhalers |
 
-<!--## Podium-->
+## Podium
 
-## Match schedule: Grand Finals
-
-### Saturday, 05 April 2025
-
-| Team A | Team B | Match time | Stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Girlfriend ASMR | Gravity Coil | [Apr 05 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250405T040000&p1=1440&p2=3922&p3=3920&p4=3909&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^losers-grand-finals] |
-
-### Sunday, 06 April 2025
-
-| Team A | Team B | Match time | Stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Mahjong Soul Official | Girlfriend ASMR | [Apr 06 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T040000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^grand-finals] |
-| Girlfriend ASMR | Mahjong Soul Official | [Apr 06 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T060000&p1=1440&p2=3909&p3=3910&p4=3922&p5=3920) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^bracket-reset] |
-| Mahjong Soul Official | Gravity Coil | [Apr 06 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T100000&p1=1440&p2=3909&p3=3910&p4=3920&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^grand-finals] |
-| Gravity Coil | Mahjong Soul Official | [Apr 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250406T120000&p1=1440&p2=3909&p3=3910&p4=3920&p5=3911) | [THMC4 twitch](https://www.twitch.tv/touhoumaniacup_official/) | [^bracket-reset] |
+![](img/thmc4-podium.jpg "THMC4 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (193 MB)](https://drive.google.com/file/d/1R3N2wbpOJvo660JF0b6uO5ZSVH0a4Lv4/)**\
+[View the showcase VOD here](https://youtu.be/6DawOk_cl5I&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
+[View the showcase VOD (Chinese commentary) here](https://youtu.be/XBMgm_3cV5I)
+
+- Rice
+  1. [BUTAOTOME - Imanarabe (ScoliosisET) \[Satort 1.05x (184bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2347645#mania/5050754)
+  2. [UNDEAD CORPORATION - Flowering Night Fever (Miaurichesu, Yuiesta) \[PSYCHOBREAK\]](https://osu.ppy.sh/beatmapsets/2347963#mania/5050622)
+  3. [Xenoglossy - Suigetsu Kyouka Koubou Issen (\[GS\]hina) \[Mirage 1.2x (276bpm)\]](https://osu.ppy.sh/beatmapsets/2347694#mania/5049719)
+  4. [pocotan - ClownTanz (Cut Ver.) (AutotelicBrown) \[ClownJacks 1.05x (168bpm)\]](https://osu.ppy.sh/beatmapsets/2347700#mania/5049743)
+  5. [UNDEAD CORPORATION - Bloodthirsty Nightmare Lullaby (epic man 2) \[Phantom Of The Opera\]](https://osu.ppy.sh/beatmapsets/2347709#mania/5049753)
+  6. [IOSYS - Bow Down, You Ignorant Fools! - The Princess' Insane All Night Hourai Live - (0DZ0) \[Kaguya-sama\]](https://osu.ppy.sh/beatmapsets/2347713#mania/5049765)
+  7. [IOSYS - RE\:Usatei (Yuiesta) \[Usa / 1.05\]](https://osu.ppy.sh/beatmapsets/2347687#mania/5049704)
+- Rice (Extreme)
+  1. [Unlucky Morpheus - Danzai wa Amaneku Ningen no Moto ni (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/2347862#mania/5050235)
+- Hybrid
+  1. [Diao Ye Zong feat. Meramipop - Unprivileged Access (Cut Ver.) (V1do-) \[Withering...\]](https://osu.ppy.sh/beatmapsets/2347719#mania/5049791)
+  2. [beatMARIO - Saishuu Kichiku Imouto Flandre-S (Camellia Remix) (-mint-) \[Calamity at the Scarlet Mansion\]](https://osu.ppy.sh/beatmapsets/2342737#mania/5058169)
+  3. [Rolling Contact - Falling Fireworks (\[Crz\]FolAH1217) \[.BURST\]](https://osu.ppy.sh/beatmapsets/2347730#mania/5049829)
+- Long Note
+  1. [Meramipop feat. Studio "Syrup Comfiture" - Zillion Lights (Yuiesta) \[Stellar\]](https://osu.ppy.sh/beatmapsets/2347686#mania/5049702)
+  2. [katagiri - Buta Musou (Yuiesta) \[THMC Musou / 1.1\]](https://osu.ppy.sh/beatmapsets/2347688#mania/5049706)
+  3. [Kommisar - Native Faith (Chiptune ver.) (\[GB\]Reisen, Yuiesta) \[LN YOUNGER\]](https://osu.ppy.sh/beatmapsets/2347671#mania/5049677)
+  4. [FELT - Lies in Reality (Yuiesta, Micleak) \[Look straight at everything you see.\]](https://osu.ppy.sh/beatmapsets/2347692#mania/5049714)
+- Long Note (Extreme)
+  1. [Laur - Absolute Queen (\[Crz\]Crysarlene) \[Absolute Maker (Extended Ver.)\]](https://osu.ppy.sh/beatmapsets/2347811#mania/5050088)
+- Tiebreaker
+  1. **[sugosugiii & THE BEAT WIZARD - Between Collapse and Rebuild\: A Scarlet Tale of Chaos and Hope (ImperialTrinity, gzdongsheng, Koyori Chan, AelSan, V1do-, \[GS\]hina, Alptraum) \[Interweaving Phantasm\]](https://osu.ppy.sh/beatmapsets/2347752#mania/5049881)**
 
 ### Finals
 
@@ -395,6 +412,23 @@ The Touhou Project Mania Cup 4th is run by various community members.
 6. [IneSim - HOLOGRAPHIC XHERRY BLOSSOM (Sped Up Ver.) (AelSan) \[Stage 6\: Color\]](https://osu.ppy.sh/beatmapsets/2310386#mania/4942617)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here]().
+
+Saturday, 5 April 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Girlfriend ASMR | 5 | **7** | **Gravity Coil** | [#1](https://osu.ppy.sh/community/matches/117696729) | [#1](https://www.youtube.com/watch?v=UjLZ4xFvnoQ&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1aSRzY5EY4) |
+
+Sunday, 6 April 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Mahjong Soul Official** | **7** | 6 | Gravity Coil | [#1](https://osu.ppy.sh/community/matches/117709010) | [#1](https://www.youtube.com/watch?v=XfOLUyeHvVM&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1FSRmY7Ev6) |
+
 
 ### Finals
 
