@@ -35,7 +35,7 @@ tags:
 *For the osu!stable version of this article, see: [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Flashlight** mod fully limits the player's view of the playfield except for a specific area lit by a flashlight. The more combo you build, the smaller the illuminated area gets until it reaches a limit depending on the [game mode](/wiki/Game_mode).
+The **Flashlight** mod restricts visibility of the playfield to a small illuminated area, as if viewed through a flashlight. As the player's combo increases, this visible area progressively shrinks until it reaches a minimum size, which varies depending on the [game mode](/wiki/Game_mode).
 
 ## Customisation
 
