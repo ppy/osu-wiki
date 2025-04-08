@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2013
 
-![OWC 2013 logo](img/logo.jpg)
+![Logo de la OWC 2013](img/logo.jpg)
 
 La **osu! World Cup 2013** (***OWC 2013***) fue un torneo organizado por el [osu! team](/wiki/People/osu!_team). Fue la cuarta edición de la osu! World Cup.
 
@@ -407,18 +407,18 @@ Domingo, 10 de noviembre de 2013:
 ### Reglas del torneo
 
 1. La osu! World Cup es un torneo por equipos de 4 contra 4 por países.
-2. Los mapas para cada ronda serán anunciados por los selectores de los mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
+2. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
    - Un mapa será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate.
    - También habrá un bracket de [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod.
 3. El cronograma de los partidos será establecido por los administradores del torneo (consulta más abajo).
 4. Si no hay personal o árbitro disponible, el partido será pospuesto.
 5. Las puntuaciones de los jugadores que revivan se sumarán a la puntuación total.
 6. Está permitido usar las opciones de la [configuración visual](/wiki/Client/Interface/Visual_settings)
-7. Si el partido termina en un empate, el partido será anulada.
+7. Si un juego termina en un empate, será anulado.
 8. Si uno de los jugadores se desconecta, el partido será anulado. Esto puede suceder hasta dos veces. Después de superar los dos intentos, los jugadores desconectados son tratados como si se hubieran ido por su cuenta.
-9. Los mapas no pueden ser reusados en un mismo partido a menos que el partido haya sido anulado.
+9. Los mapas no pueden ser reusados en un mismo partido, a menos que un juego haya sido anulado.
    - Si se determina que el servidor es demasiado inestable para continuar el partido, los administradores del torneo pospondrán el partido.
-10. Si menos de 4 jugadores asisten, el partido podrá ser pospuesto máximo 15 minutos.
+10. Si menos de 4 jugadores asisten, el tiempo máximo que se podrá posponer el partido será de 15 minutos.
 11. Está permitido el intercambio de jugadores durante un partido.
     - Solo se puede cambiar un jugador por mapa.
 12. El lag no es un razón válida para anular un mapa.
@@ -432,11 +432,11 @@ Domingo, 10 de noviembre de 2013:
    - El tamaño máximo de los equipos es de 8 jugadores.
    - Debes especificar a un capitán que representará al equipo.
 2. Cada equipo representa a una nación. Debes formar un equipo con jugadores del mismo país.
-3. Para inscripciones de equipos, [completa este formulario](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Luego, verifica tu registro [enviando un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) titulado «OWC Registration»
-   - Los capitanes pueden modificar su equipo [notificándoselo al administrador](https://osu.ppy.sh/home/messages/users/71366).
+3. Para inscribirte en un equipo, [completa este formulario](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Luego, verifica tu registro [enviando un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) titulado «OWC Registration»
+   - Los capitanes pueden modificar su equipo [notificándoselo a los administradores](https://osu.ppy.sh/home/messages/users/71366).
 4. Cualquier registro y cambio será revisado por los administradores del torneo antes de ser aceptado y añadido a la lista de participantes.
 5. La cantidad total de equipos es de 32. Por orden de llegada.
-6. Los selectores de los mapas no pueden participar como jugadores en este torneo.
+6. Los selectores de mapas no pueden participar como jugadores en este torneo.
 
 ### Instrucciones de las fases
 
@@ -451,19 +451,19 @@ Domingo, 10 de noviembre de 2013:
 4. Los dos mejores equipos de cada grupo pasarán a las fases eliminatorias.
 5. Las siguientes fases son las fases eliminatorias. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor es eliminado del torneo.
 6. **Condiciones de victoria:**
-   - En la fase de grupos, debes ganar 4 mapas para ganar un partido. (Al mejor de 7)
-   - En los octavos de final y los cuartos de final, debes ganar 5 mapas para ganar un partido. (Al mejor de 9)
-   - En semifinales y finales, necesitas ganar 6 mapas para ganar un partido. (Al mejor de 11)
+   - En la fase de grupos, los equipos deben ganar 4 mapas para ganar un partido. (Al mejor de 7)
+   - En los octavos de final y los cuartos de final, los equipos deben ganar 5 mapas para ganar un partido. (Al mejor de 9)
+   - En las semifinales y finales, los equipos deben ganar 6 mapas para ganar un partido. (Al mejor de 11)
 
 ### Instrucciones de los partidos
 
 1. Un árbitro creará una sala multijugador con 30 minutos de antelación. Los jugadores deben reunirse durante este periodo.
-   - La sala estará cerrada. La contraseña y la invitación a la sala multijugador será enviada a los dos capitanes lo antes posible.
+   - La sala estará cerrada. La contraseña y la invitación a la sala multijugador se enviarán a los dos capitanes lo antes posible.
    - La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score'. El nombre de la sala debe ser «osu! World Cup 2013: TeamBlue vs TeamRed»
    - El equipo mencionado primero en el nombre de la sala debe ser el equipo azul, el equipo mencionado en segundo lugar en el nombre de la sala debe ser el equipo rojo.
 2. El árbitro se incorporará a la sala externamente. El árbitro observará el partido a través de un cliente multiespectador.
 3. Los jugadores son libres de seleccionar un mapa de calentamiento.
-4. La selección de mapas alternará entre cada capitán seleccionando un mapa de la mappool. Cada capitán deberá usar `!roll` una vez en `#multijugador` para determinar qué equipo seleccionará primero.
+4. La selección de los mapas alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán deberá usar `!roll` una vez en `#multiplayer` para determinar qué equipo seleccionará primero.
    - Los capitanes pueden seleccionar mapas fuera del bracket NoMod libremente.
    - La selección fuera de los brackets especificados con mods es limitada. Cada capitán solo podrá seleccionar un mapa de cada bracket con restricción de mods durante el partido.
      - En la fase eliminatoria, la selección fuera del bracket FreeMod es ilimitada.
@@ -472,7 +472,7 @@ Domingo, 10 de noviembre de 2013:
 5. Cada capitán debe guardar el resultado de cada juego con una captura de pantalla. Los árbitros le recordarán a cada capitán que haga esto.
 6. Los resultados se publicarán en una hoja de cálculo estadística.
 
-### Instrucciones de la mappool
+### Instrucciones del mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los octavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales.
 2. Cada mappool consiste de 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod
@@ -495,5 +495,5 @@ Domingo, 10 de noviembre de 2013:
 2. En la fase de grupos, los primeros partidos se disputarán el viernes (8 de noviembre), el segundo el sábado (9 de noviembre), el tercero el domingo (10 de noviembre)
    - Los partidos de la fase de grupos pueden coincidir
 3. Todas las fases eliminatorias se llevarán a cabo el sábado o el domingo (consulta el calendario del torneo).
-4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de cada fase (p. ej., el 3 de noviembre para la fase de grupos). Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
+4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de cada fase (por ejemplo, el 3 de noviembre para la fase de grupos). Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
 5. Los capitanes son responsables de la disponibilidad de sus equipos. El tamaño de los equipos es grande para garantizar que cada equipo pueda aportar al menos cuatro jugadores para cada partido. Si los equipos no pueden proporcionar cuatro jugadores para un partido, el partido se considerará perdido.
