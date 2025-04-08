@@ -40,7 +40,7 @@ The **Accuracy Challenge** mod allows the player to set a minimum accuracy that 
 - **Minimum accuracy** (60%-99%, default 90%): Trigger a failure if your accuracy goes below this value.
 - **Accuracy mode** (default: Maximum achievable): The mode of accuracy that will trigger failure.
   - **Maximum achievable**: Fail if you can’t achieve an accuracy higher than the value when the map ends.
-  - **Standard**: Fail if the accuracy strictly goes below the value.
+  - **Standard**: Fail if the accuracy goes strictly below the value.
 - Restart on fail (default disabled): Restart the map after the accuracy goes below the minimum value indicated.
 
 *Changing any of the options here doesn't make the mod unrankable.*
