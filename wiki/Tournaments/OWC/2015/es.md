@@ -410,7 +410,7 @@ Domingo, 8 de noviembre de 2015:
 
 1. La osu! World Cup es un torneo por equipos de 4 contra 4 por países
 2. Las puntuaciones de los mapas se basan en una nueva métrica, llamada Score V2. **[¡Lee más sobre esto!](https://osu.ppy.sh/community/forums/topics/375428)**
-3. Los beatmaps para cada ronda serán anunciados por los selectores de los mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
+3. Los beatmaps para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
    - Un beatmap será asignado como mapa de desempate. Este beatmap solo podrá ser jugado en caso de empate.
 4. El cronograma de los partidos será establecido por los administradores del torneo (consulta más abajo).
 5. Si no hay personal o árbitro disponible, el partido será pospuesto.
