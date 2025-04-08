@@ -30,7 +30,7 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Blinds** mod covers the entire screen with [shoji doors](https://en.wikipedia.org/wiki/Shoji) without the possibility to see the objects behind. The more successive misses you get, the more the doors open. In contrast, building a combo will have the opposite effect.
+The **Blinds** mod covers the entire screen with [shoji doors](https://en.wikipedia.org/wiki/Shoji) without the possibility to see the objects behind. The more successive misses the player gets, the more the doors open. Building up a combo will have the opposite effect.
 
 **This mod can't be customised through Customisation.**
 
