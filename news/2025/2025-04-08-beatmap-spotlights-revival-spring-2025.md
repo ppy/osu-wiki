@@ -85,7 +85,7 @@ The curators' pick for the current Beatmap of the Season can be found further be
 
 To participate in the Beatmap Spotlights, go grab yourself the latest version of the osu!(lazer) client from [this download page](https://osu.ppy.sh/home/download).
 
-Once you're done installing and logging into your account, head on over to the `playlists` tab in the `play` section and find the Spotlights lobbies, denoted by a little pink bar. You can also toggle the filter to show only the Spotlight playlists in the top-right corner.
+Once you're done installing and logging into your account, head on over to the `playlists` tab in the `play` section and find the Spotlights lobbies, denoted by a little green bar. You can also toggle the filter to show only the Spotlight playlists in the top-right corner.
 
 Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — and it'll be whatever game mode you played last on osu!(lazer) by default.
 
