@@ -32,7 +32,7 @@ tags:
 *For the osu!stable version of this article, see: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Sudden Death** mod triggers a failure if you miss an object from any [beatmap](/wiki/Beatmap). Missing a note, a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick) and a [spinner](/wiki/Gameplay/Hit_object/Spinner) will make you fail, however missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) and not holding through an empty slider path won't trigger the effect as long as the combo has not been broken.
+The **Sudden Death** mod triggers a failure on missing any object from a [beatmap](/wiki/Beatmap). Missing a note, a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick) and a [spinner](/wiki/Gameplay/Hit_object/Spinner) will make the player fail, however, missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) or not holding through an empty slider path won't trigger the effect, as long as the combo has not been broken.
 
 ## Customisation
 
