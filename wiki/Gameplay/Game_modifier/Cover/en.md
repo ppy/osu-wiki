@@ -36,9 +36,9 @@ The **Cover** mod hides a part of the playfield similarly to [Fade In](/wiki/Gam
 
 ![Cover customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CO.png)
 
-- **Coverage** (0.2-0.8, default 0.5): The proportion of playfield height that notes will be hidden for.
+- **Coverage** (0.2-0.8, default 0.5): The proportion of playfield height for which notes will be hidden.
 - **Direction** (default: Along scroll): The direction on which the cover is applied.
   - **Along scroll**: Cover the playfield from above.
-  - **Against scroll**: Cover the notes from below.
+  - **Against scroll**: Cover the playfield from below.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
