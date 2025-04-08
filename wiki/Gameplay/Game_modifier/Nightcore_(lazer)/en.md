@@ -32,7 +32,7 @@ tags:
 *For the osu!stable version of this article, see: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Nightcore** mod behaves exactly like [Double Time](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) when it comes to speed change and difficulty settings modification. It only highers the audio frequency by 150% without the possibility of adjusting the pitch through customisation.
+The **Nightcore** mod behaves exactly as [Double Time](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) regarding speed changes and difficulty adjustments. However, it specifically increases the audio frequency by 150% without offering the pitch adjustment options available in customization settings.
 
 ## Customisation
 
