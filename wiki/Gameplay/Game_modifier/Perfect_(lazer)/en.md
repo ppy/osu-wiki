@@ -31,7 +31,7 @@ tags:
 *For the osu!stable version of this article, see: [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Perfect** mod automatically restarts the [beatmap](/wiki/Beatmap) if you are no longer getting an SS grade. This includes missing a note, a [spinner](/wiki/Gameplay/Hit_object/Spinner), a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick), a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail), and getting something other than a GREAT from any object. 
+The **Perfect** mod automatically restarts the [beatmap](/wiki/Beatmap) if the player no longer can get an SS grade. This includes missing a note, a [spinner](/wiki/Gameplay/Hit_object/Spinner), a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick), a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail), or getting something other than a GREAT from any object. 
 
 ## Customisation
 
