@@ -36,7 +36,7 @@ To kick things off, we'd like to introduce you to brand-new Beatmap Spotlights i
 
 The seasonal scoring is now calculated live, every time you submit a score. Alongside that, the Spotlights season pages now include a full seasonal leaderboard, with dynamically updating division tiers.
 
-Want to see this in action? Submit a playlist score and look up your name on designated game mode leaderboard!
+Want to see this in action? Submit a playlist score and look up your name in the designated game mode leaderboard!
 
 - [osu!](https://osu.ppy.sh/seasons/42)
 - [osu!taiko](https://osu.ppy.sh/seasons/43)
@@ -57,7 +57,7 @@ When hovered, detailed statistics will be displayed, including seasonal score an
 
 While not as radical, the other branches of the project came to see some changes just as well.
 
-### Improved playlists system
+### Improved playlist system
 
 Back in the [August 2023](https://osu.ppy.sh/home/news/2023-10-23-beatmap-spotlights-season-10-autumn-2023) season, we announced the end of playlist gimmicks, which were starting to be used in some previous seasons.
 
@@ -71,7 +71,7 @@ Extending on Playlist A reformulations, as described above, we'd like to introdu
 
 So far, we used to run a voting between players and Beatmap Spotlight Curators, asking both groups for their favourite Beatmap included in the season.
 
-Starting today, we'd like to split the Beatmap of the Season into two:
+Starting today, we'd like to split the Beatmap of the Season in two:
 
 1. The Beatmap of the Season will be selected by Beatmap Spotlight Curators will be announced alongside a season's launch in Playlist A. This makes the Beatmap of the Season a highlight for the most outstanding recent beatmapping creation (according to the curators), serving as an award and so-called spotlight for both the beatmap and its author.
 
@@ -92,15 +92,15 @@ Changing game modes is as simple as clicking one of the four mode icons at the t
 ## Season schedule
 
 | Event | Time |
-| :-- | :-- |
-| Season Start | Apr 8, 2025 |
+| --: | :-- |
+| Season start | Apr 8, 2025 |
 | Playlist A | Apr 8 - Apr 22, 2025 |
 | Playlist B | Apr 22 - May 6, 2025 |
 | Playlist C | May 6 - May 20, 2025 |
 | Playlist A | May 20 - May 27, 2025 |
 | Playlist B | May 27 - Jun 3, 2025 |
 | Playlist C | Jun 3 - Jun 10, 2025 |
-| Season Conclusion | Jun 10, 2025 |
+| Season conclusion | Jun 10, 2025 |
 
 ## Spring Season 2025 first playlists & Beatmap of the Season {id=playlists}
 
@@ -246,7 +246,7 @@ Are you an experienced beatmapper? An outstanding player? An exceptional mappool
 
 [**Click here to apply!**](https://forms.gle/MjGxXe8C3hY2vUHy9)
 
-## New communication and announcements system
+## New communication and announcement system
 
 As of today, communications about Beatmap Spotlights will be moved to the [osu! Discord server](https://discord.com/invite/ppy) entirely.
 
