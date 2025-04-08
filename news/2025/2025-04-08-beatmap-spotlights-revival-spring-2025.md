@@ -12,7 +12,7 @@ It's been some time since we last met here indeed... let's examine what happened
 
 Even though the playlists are up and running already, we invite you to read on for the story about the new Beatmap Spotlights infrastructure, and the path that led us to this very day below!
 
-## A lengthy history lession
+## A lengthy history lesson
 
 Heading into 2024, right after the conclusion of the Autumn 2023 season, the Beatmap Spotlights project was halted by the developement team, due to an osu!(lazer) scoring rollout and infrastructure changes related to that.
 
