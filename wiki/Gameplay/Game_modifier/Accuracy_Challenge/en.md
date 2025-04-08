@@ -31,7 +31,7 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Accuracy Challenge** mod allows you to set a minimum accuracy that you can't exceed to avoid a failure.
+The **Accuracy Challenge** mod allows the player to set a minimum accuracy that they must maintain to avoid a failure.
 
 ## Customisation
 
