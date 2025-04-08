@@ -6,7 +6,7 @@ date: 2025-04-13 21:00:00 +0000
 
 You've reached the end of the line. A new realm of music is here.
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/470/header.jpg)
 
 **Terminal 11** is a longstanding icon in the experimental music field, producing avant-garde tunes since 1999. With a sound perfectly catering to osu!taiko and osu!mania players seeking the maximalist rhythmic complexity, **Terminal 11** has become a staple of the Loved category in both modes.
 
@@ -14,7 +14,7 @@ You've reached the end of the line. A new realm of music is here.
 
 Take a peek:
 
-### [Terminal 11 - Echoes](LINK)
+### [Terminal 11 - Echoes](https://assets.ppy.sh/artists/470/Echoes/Terminal%2011%20-%20Echoes.osz)
 
 This year's osu!taiko World Cup gave some love to **Terminal 11** too! Earlier today, [Echoes](LINK) (mapped by [USER](LINK)) was showcased as part of the Finals mappool!
 
@@ -22,24 +22,24 @@ This year's osu!taiko World Cup gave some love to **Terminal 11** too! Earlier t
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LINK" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### [Terminal 11 - Fury](LINK)
+### [Terminal 11 - Fury](https://assets.ppy.sh/artists/470/Self%20Exorcism/Terminal%2011%20-%20Fury.osz)
 
 Check out [this Loved map](https://osu.ppy.sh/beatmapsets/1632108) hosted by [Pizza69](https://osu.ppy.sh/users/25285704)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/470/Self%20Exorcism/Terminal%2011%20-%20Fury.mp3">
 </audio>
 
-### [Terminal 11 - We're Just Taking It Back](LINK)
+### [Terminal 11 - We're Just Taking It Back](https://assets.ppy.sh/artists/470/Tracing%20Structures/Terminal%2011%20-%20We%27re%20Just%20Taking%20It%20Back.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/470/Tracing%20Structures/Terminal%2011%20-%20We%27re%20Just%20Taking%20It%20Back.mp3">
 </audio>
 
-### [Terminal 11 - Hectic Icidentals](LINK)
+### [Terminal 11 - Hectic Icidentals](https://assets.ppy.sh/artists/470/Suffocating%20Repetition/Terminal%2011%20-%20Hectic%20Icidentals.osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/470/Suffocating%20Repetition/Terminal%2011%20-%20Hectic%20Icidentals.mp3">
 </audio>
 
 ---
