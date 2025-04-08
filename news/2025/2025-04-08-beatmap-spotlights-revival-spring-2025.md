@@ -4,13 +4,13 @@ title: "Beatmap Spotlights Revival: Spring 2025"
 date: 2025-04-08 22:00:00 +0000
 ---
 
-Haven't heard this name for a while? Check out on major Beatmap Spotlights reformulations that led to this very day! Are you interested in helping out with the project? This time, we are also seeking fresh blood to ensure project running smoothly for seasons to come!
+Haven't heard this name for a while? Check out all the major changes to Beatmap Spotlights! Are you interested in helping out with the project? This time, we are also seeking fresh blood to ensure the project can run smoothly for many seasons to come!
 
 ![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/banner.jpg)
 
 It's been some time since we last met here indeed... let's examine what happened in the meantime, since there surely is a lot to cover.
 
-Read on for the story about new Beatmap Spotlights infrastructure, and the path that lead us to this very day below!
+Even though the playlists are up and running already, we invite you to read on for the story about the new Beatmap Spotlights infrastructure, and the path that led us to this very day below!
 
 ## A lengthy history lession
 
