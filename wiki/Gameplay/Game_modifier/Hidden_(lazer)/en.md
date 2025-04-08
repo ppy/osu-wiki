@@ -42,7 +42,7 @@ The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Appr
 
 ![Hidden customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HD.png)
 
-- **Only fade approach circles** (default disabled): Make the approach circles invisible without applying the fade effect on notes.
+- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on notes.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
