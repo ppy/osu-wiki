@@ -24,7 +24,7 @@ Ten en cuenta que el juicio de un beatmap se determina automáticamente.
 
 #### Beatmaps específicos de osu! y diferencias en la conversión a osu!mania
 
-Cuando se convierte un beatmap con un modo no específico, el rango de teclas predeterminado debería ser de entre 4 y 7 teclas.
+Al convertir un beatmap que sea de otro modo de juego, el rango de teclas predeterminado será de entre 4 y 7 teclas.
 
 Con el modificador de juego [xK](/wiki/Gameplay/Game_modifier/xK), los jugadores pueden establecer manualmente el número de teclas de 1 a un total de 9 teclas con una reducción del multiplicador de puntuación. Sin embargo, el modificador de juego no funcionará con beatmaps específicos de osu!mania.
 
@@ -36,13 +36,13 @@ Con el modificador de juego [Co-Op](/wiki/Gameplay/Game_modifier/Co-op), el esce
 
 Puedes **cambiar la velocidad de desplazamiento de las notas** presionando `Ctrl` (o `Mayús`) con `+` (más rápido) / `-` (más lento).
 
-El límite más bajo es 1 y el más alto 40.
+El límite más bajo es de 1 y el más alto de 40.
 
 ##### Escalado de BPM y velocidad de desplazamiento fija
 
 ![Un cambio de velocidad puede hacer una diferencia dependiendo de la densidad del beatmap](img/Mania_SCDifference.png "Un cambio de velocidad puede hacer una diferencia dependiendo de la densidad del beatmap")
 
-El **escalado de BPM** es el antiguo sistema de escalado predeterminado que se usa actualmente, el cual escala la velocidad de desplazamiento según el BPM actual. Hay una diferencia en la velocidad de desplazamiento entre 100BPM (se desplaza más lento) y 200BPM (se desplaza más rápido) con el mismo escalado de velocidad.
+El **escalado de BPM** es el antiguo sistema de escalado predeterminado que se usa actualmente, el cual escala la velocidad de desplazamiento según el BPM actual. Hay una diferencia en la velocidad de desplazamiento entre 100 BPM (se desplaza más lento) y 200 BPM (se desplaza más rápido) con el mismo escalado de velocidad.
 
 ![Activa la velocidad de desplazamiento fija desactivando `Modifica la velocidad de desplazamiento de osu!mania con los BPM`](img/Mania_Scale-ES.png "Activa la velocidad de desplazamiento fija desactivando `Modifica la velocidad de desplazamiento de osu!mania con los BPM` en la barra lateral de opciones")
 
@@ -101,7 +101,7 @@ La configuración actual predeterminada de las teclas está basada en un estilo 
 *Solía haber* dos estilos diferentes de asignaciones de teclas, *simétrico* y *de izquierda a derecha*:
 
 - El estilo *simétrico* mimetiza el posicionamiento de los botones de *DJMAX*, en el cual la tecla central es la `Barra espaciadora` para simular la sensación de pisar el pedal similar a la versión arcade. La tecla central coincide con la columna central (solo números de teclas impares) y la otra columna coincide con las teclas de su lugar correspondiente.
-- *Left to Right* style mimics the button placement of *Beatmania IIDX*, where the first column matches to the *key1*, then the second column matches the *key2* and so on.
+- El estilo *de izquierda a derecha* imita el posicionamiento de los botones de *Beatmania IIDX*, donde la primera columna coincide con la *tecla1*, luego la segunda con la *tecla2* y así sucesivamente. 
   - Sin embargo, se eliminó la opción de elegir entre estos dos y el estilo actual se basa en el estilo «simétrico». Por razones de legado, el estilo «de izquierda a derecha» se mantiene aquí.
 
 Asignación de teclas *simétrico* (para el estilo *DJMAX*)
@@ -111,7 +111,7 @@ Asignación de teclas *simétrico* (para el estilo *DJMAX*)
 - Para el botón *central*: `Barra espaciadora` (K5). \[solo para números de teclas impares\]
 - Para el botón *especial*: `Mayús izquierdo` \[usando el estilo especial\] y `Ctrl izquierdo` para \[alternar la asignación\]
 
-| Teclas | L | C | R |
+| Teclas | I | C | D |
 | :-: | :-- | :-: | --: |
 | 1K | - | K5 |  |
 | 2K | K4 | - | K6 |
@@ -119,12 +119,12 @@ Asignación de teclas *simétrico* (para el estilo *DJMAX*)
 | 4K | K3, K4 | - | K6, K7 |
 | 5K | K3, K4 | K5 | K6, K7 |
 | 6K | K2, K3, K4 | - | K6, K7, K8 |
-| 6K(L) | **S1**, K3, K4 | K5 | K6, K7 |
-| 6K(R) | K3, K4 | K5 | K6, K7, **S1** |
+| 6K(I) | **S1**, K3, K4 | K5 | K6, K7 |
+| 6K(D) | K3, K4 | K5 | K6, K7, **S1** |
 | 7K | K2, K3, K4 | K5 | K6, K7, K8 |
 | 8K | K1, K2, K3, K4 | - | K6, K7, K8, K9 |
-| 8K(L) | **S1**, K2, K3, K4 | K5 | K6, K7, K8 |
-| 8K(R) | K2, K3, K4 | K5 | K6, K7, K8, **S1** |
+| 8K(I) | **S1**, K2, K3, K4 | K5 | K6, K7, K8 |
+| 8K(D) | K2, K3, K4 | K5 | K6, K7, K8, **S1** |
 | 9K | K1, K2, K3, K4 | K5 | K6, K7, K8, K9 |
 
 Asignación de teclas de *izquierda a derecha* (para el estilo *Beatmania IIDX*)
@@ -139,8 +139,8 @@ Asignación de teclas de *izquierda a derecha* (para el estilo *Beatmania IIDX*)
 | 6K | K1, K2, K3, K4, K5, K6 |
 | 7K | K1, K2, K3, K4, K5, K6, K7 |
 | 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
-| 8K(L) | **S1**, K1, K2, K3, K4, K5, K6, K7 |
-| 8K(R) | K1, K2, K3, K4, K5, K6, K7, **S1** |
+| 8K(I) | **S1**, K1, K2, K3, K4, K5, K6, K7 |
+| 8K(D) | K1, K2, K3, K4, K5, K6, K7, **S1** |
 
 - Nota: Consulta la imagen según el estilo usado.
 
@@ -167,15 +167,15 @@ Asignación *simétrica* para el segundo conjunto de teclas.
 | 4K Co-op | K3, K4 | - | K6, K7 | B3, B4 | - | B6, B7 |
 | 5K Co-op | K3, K4 | K5 | K6, K7 | B3, B4 | B5 | B6, B7 |
 | 6K Co-op | K2, K3, K4 | - | K6, K7, K8 | B2, B3, B4 | - | B6, B7, B8 |
-| 6K(L) Co-op | **S1**, K3, K4 | K5 | K6, K7 | B3, B4 | B5 | B6, B7, **X1** |
-| 6K(R) Co-op | K3, K4 | K5 | K6, K7, **S1** | **X1**, B3, B4 | B5 | B6, B7 |
+| 6K(I) Co-op | **S1**, K3, K4 | K5 | K6, K7 | B3, B4 | B5 | B6, B7, **X1** |
+| 6K(D) Co-op | K3, K4 | K5 | K6, K7, **S1** | **X1**, B3, B4 | B5 | B6, B7 |
 | 7K Co-op | K2, K3, K4 | K5 | K6, K7, K8 | B2, B3, B4 | B5 | B6, B7, B8 |
 | 8K Co-op | K1, K2, K3, K4 | - | K6, K7, K8, K9 | B1, B2, B3, B4 | - | B6, B7, B8, B9 |
-| 8K(L) Co-op | **S1**, K2, K3, K4 | K5 | K6, K7, K8 | B2, B3, B4 | B5 | B6, B7, B8, **X1** |
-| 8K(R) Co-op | K2, K3, K4 | K5 | K6, K7, K8, **S1** | **X1**, B2, B3, B4 | B5 | B6, B7, B8 |
+| 8K(I) Co-op | **S1**, K2, K3, K4 | K5 | K6, K7, K8 | B2, B3, B4 | B5 | B6, B7, B8, **X1** |
+| 8K(D) Co-op | K2, K3, K4 | K5 | K6, K7, K8, **S1** | **X1**, B2, B3, B4 | B5 | B6, B7, B8 |
 | 9K Co-op | K1, K2, K3, K4 | K5 | K6, K7, K8, K9 | B1, B2, B3, B4 | B5 | B6, B7, B8, B9 |
 
-**La tabla siguiente solo se aplica a los beatmaps específicos de osu!mania. Solo se mencionan los números impares del xK. Consulta la primera tabla para los números pares de xK específicos (para los específicos de 4K, consulta los de 2K Co-op y así sucesivamente).**
+**La siguiente tabla solo se aplica a los beatmaps específicos de osu!mania. Solo se mencionan los números impares del xK. Consulta la primera tabla para los números pares de xK específicos (para los específicos de 4K, consulta los de 2K Co-op y así sucesivamente).**
 
 | Teclas | PL | PC | PR | SL | SC | SR |
 | :-: | :-- | :-: | --: | :-- | :-: | --: |
@@ -193,10 +193,10 @@ Las [puntuaciones en osu!mania](/wiki/Gameplay/Score/ScoreV1/osu!mania) tienen u
 
 Además, las puntuaciones también tienen los siguientes componentes:
 
-- La [precisión](/wiki/Gameplay/Accuracy#osu!mania) depende del juicio y muestra la precisión de los golpes. Las pulsaciones tardías o tempranas de las teclas, así como los fallos, disminuyen la precisión global.
+- La [precisión](/wiki/Gameplay/Accuracy#osu!mania) depende del juicio y muestra la precisión de los golpes. Las pulsaciones tardías o tempranas de las teclas, así como los fallos, disminuyen la precisión general.
 - El [combo](/wiki/Gameplay/Combo_(score_multiplier)) muestra cuántos objetos fueron golpeados consecutivamente. No tiene ningún efecto en la puntuación total y puede [romperse](/wiki/Gameplay/Judgement/Combobreak) si fallas.
 
-Después de completar un beatmap, a la puntuación se le asigna un [grado](/wiki/Gameplay/Grade#osu!mania), una breve evaluación de la precisión en forma de una sola letra. Una SS dorada o plateada significa un 100% de precisión.
+Después de completar un beatmap, a la puntuación se le asigna un [grado](/wiki/Gameplay/Grade#osu!mania), una breve evaluación de la precisión en forma de una sola letra. Una SS dorada o plateada significa un 100 % de precisión.
 
 ## Skinning
 
@@ -220,7 +220,7 @@ Activa el botón `Co-op mode` para forzar el modificador de juego *Co-Op* al jug
 
 ### Jugabilidad
 
-- Si el número de teclas es el mismo después de usar el modificador xK o Co-Op, no se reducirá la puntuación.
+- Si el número de teclas es el mismo después de usar el mod xK o Co-Op, no se reducirá la puntuación.
   - Por ejemplo, para un beatmap de 4K, usar los mods 2K y Co-Op no supondrá ninguna reducción en la puntuación.
   - Asimismo, para un beatmap de 5K, usar el mod 5K tampoco supondrá ninguna reducción en la puntuación.
   - Usar el mod xK o Co-Op en un beatmap específico de osu!mania tampoco supondrá ninguna reducción en la puntuación.
@@ -231,8 +231,8 @@ Activa el botón `Co-op mode` para forzar el modificador de juego *Co-Op* al jug
 
 ![Logo de osu!mania en los modos especiales](img/Mania_logo.png "Logo de osu!mania en los modos especiales")
 
-- osu!mania se lanzó el [08 de octubre de 2012 (8/10/2012), en su mayor parte gracias a woc2006](https://osu.ppy.sh/community/forums/posts/1825880).
-- El antiguo editor de osu!mania *solía* requerir que el mapper colocara círculos/sliders en el campo de juego de osu!, donde luego se transcribían en el escenario como notas adecuadas según la posición colocada y los objetos usados.
+- osu!mania se lanzó el [8 de octubre de 2012 (8/10/2012), en su mayor parte gracias a woc2006](https://osu.ppy.sh/community/forums/posts/1825880).
+- El antiguo editor de osu!mania *solía* requerir que el mapper colocara círculos/sliders en el campo de juego de osu!, donde luego se transcribían en el escenario como notas adecuadas según la posición y los objetos usados.
 - El primer beatmap de osu!mania en ser clasificado fue [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/beatmapsets/63089).
 
 ## Referencias
