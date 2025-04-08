@@ -30,7 +30,7 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Cover** mod hides a part of the playfield similar to [Fade In](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) and [Hidden](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) but with the possibility of customising its size.
+The **Cover** mod hides a part of the playfield similarly to [Fade In](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) and [Hidden](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) but with the possibility of customising the size of obscured area.
 
 ## Customisation
 
