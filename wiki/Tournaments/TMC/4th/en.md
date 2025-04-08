@@ -431,7 +431,6 @@ Sunday, 6 April 2025:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Mahjong Soul Official** | **7** | 6 | Gravity Coil | [#1](https://osu.ppy.sh/community/matches/117709010) | [#1](https://www.youtube.com/watch?v=XfOLUyeHvVM&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes), [#2](https://www.bilibili.com/video/BV1FSRmY7Ev6) |
 
-
 ### Finals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TtP_e_msAag8sS7YnKfiiV0jUvLcwofw_yMQGT1Hjmw/).
@@ -899,7 +898,4 @@ The weights for the Qualifiers are as follows:
 
 ## Notes
 
-[^losers-grand-finals]: Losers bracket Grand Finals match
-[^grand-finals]: Grand Finals — final matchup depends on the Losers bracket Grand Finals match
-[^bracket-reset]: Grand Final Bracket Reset match — final matchup depends on the Losers bracket Grand Finals & Grand Final match
 [^qualifiers-seeding]: Used as the main seeding method
