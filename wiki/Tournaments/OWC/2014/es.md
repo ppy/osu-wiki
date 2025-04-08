@@ -494,8 +494,8 @@ Domingo, 9 de noviembre de 2014:
 7. El bracket de FreeMod tendrá FreeMod activado. Cada jugador individual puede elegir Hidden, HardRock, Flashlight o ningún mod.
 8. Los jugadores pueden seleccionar más de un mod.
 9. Al jugar un mapa de FreeMod, al menos 2 jugadores de cada equipo deben tener un mod activado como mínimo.
-10. El desempate se jugará bajo las condiciones de FreeMod.
-11. Al jugar el desempate, nadie necesita tener un mod activado.
+10. El mapa de desempate se jugará bajo las condiciones de FreeMod.
+11. Al jugar el mapa de desempate, nadie necesita tener un mod activado.
 12. El tamaño del bracket de NoMod será de 6 en todas las fases.
 13. El tamaño de los brackets con mods específicos será de 3 en todas las fases.
 
