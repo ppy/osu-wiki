@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2014
 
-![OWC 2014 logo](img/logo.png)
+![Logo de la OWC 2014](img/logo.png)
 
 La **osu! World Cup 2014** (***OWC 2014***) fue un torneo por países organizado por el [osu! team](/wiki/People/osu!_team). Fue la quinta edición de la osu! World Cup.
 
@@ -111,7 +111,7 @@ Esta competición ha llegado a su fin y ha dado como resultado el siguiente podi
 
 ## Mappools
 
-**Esta mappool se jugó durante la semana 1 y la semana 2 de las finales.**
+**Este mappool se jugó durante la semana 1 y la semana 2 de las finales.**
 
 ### Finales
 
@@ -405,7 +405,7 @@ Domingo, 9 de noviembre de 2014:
 ### Reglas del torneo
 
 1. La osu! World Cup es un torneo por equipos de 4 contra 4 por países
-2. Los mapas para cada ronda serán anunciados por los selectores de los mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
+2. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
    - Un beatmap será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate.
 3. El cronograma de los partidos será establecido por los administradores del torneo (consulta más abajo).
 4. Si no hay personal o árbitro disponible, el partido será pospuesto.
@@ -414,13 +414,13 @@ Domingo, 9 de noviembre de 2014:
 6. Está permitido usar las opciones de la [configuración visual](/wiki/Client/Interface/Visual_settings)
 7. Si el beatmap termina en un empate, el juego será anulado.
 8. Si uno de los jugadores se desconecta, son tratados como si hubieran fallado el beatmap.
-9. Los beatmaps no pueden ser reusados en un mismo partido a menos que el beatmap haya sido anulado.
+9. Los beatmaps no pueden ser reusados en un mismo partido, a menos que el beatmap haya sido anulado.
 10. Si menos de 4 jugadores asisten, el tiempo máximo que se podrá posponer el partido será de 10 minutos.
 11. Está permitido el intercambio de jugadores durante un partido.
     - Solo se puede cambiar un jugador por beatmap.
 12. El lag no es un razón válida para anular un beatmap.
 13. En la fase de grupos, se considerará 'victoria por defecto' la victoria por 4:0, +2,5 de diferencia de puntos.
-14. Los incidentes inesperados están a cargo de los administradores del torneo.
+14. Los incidentes inesperados estarán a cargo de los administradores del torneo.
 15. Se dará a conocer cualquier modificación de estas reglas.
 
 ### Registro del torneo
@@ -431,15 +431,15 @@ Domingo, 9 de noviembre de 2014:
 4. No diferenciamos entre jugadores principales y jugadores suplentes.
 5. Cada equipo representa a una nación. Debes formar un equipo con jugadores del mismo país y, por lo tanto, con las mismas banderas en los perfiles de usuario.
 6. Para las inscripciones de los equipos, [completa este formulario](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Luego, verifica tu registro [enviando un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) titulado «OWC Registration»
-   - Los capitanes pueden modificar su equipo [notificándoselo al administrador](https://osu.ppy.sh/home/messages/users/71366).
-   - Recibirás una respuesta de confirmación en caso de que tu registro haya llegado con éxito. Tu registro está en pendiente hasta entonces.
+   - Los capitanes pueden modificar su equipo [notificándoselo a los administradores](https://osu.ppy.sh/home/messages/users/71366).
+   - Recibirás una respuesta de confirmación en caso de que tu registro haya llegado con éxito. Tu registro estará pendiente hasta entonces.
 7. Para garantizar registros válidos y serios, cualquier registro y cambio será verificado por los administradores del torneo.
 8. Los administradores del torneo pueden rechazar registros debido a las habilidades de juego insuficientes de un jugador.
 9. Los administradores del juego pueden rechazar registros debido a [la violación de los términos de servicio](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)
 10. La cantidad total de equipos es de 32.
 11. Todos los equipos registrados con éxito se publicarán después de la fase de registro.
     - Los capitanes serán notificados en caso de que su plantilla haya sido aceptada o rechazada.
-12. Los selectores de los mapas no pueden participar como jugadores en este torneo.
+12. Los selectores de mapas no pueden participar como jugadores en este torneo.
 
 ### Instrucciones de las fases
 
@@ -464,26 +464,26 @@ Domingo, 9 de noviembre de 2014:
 | Finales semana 2 | P, Q |
 
 12. **Condiciones de victoria:**
-    - En la fase de grupos, debes ganar 4 mapas para ganar un partido. (Al mejor de 7)
-    - En los octavos de final y los cuartos de final, debes ganar 5 mapas para ganar un partido. (Al mejor de 9)
-    - En semifinales y finales, necesitas ganar 6 mapas para ganar un partido. (Al mejor de 11)
+    - En la fase de grupos, los equipos deben ganar 4 mapas para ganar un partido. (Al mejor de 7)
+    - En los octavos de final y los cuartos de final, los equipos deben ganar 5 mapas para ganar un partido. (Al mejor de 9)
+    - En las semifinales y finales, los equipos deben ganar 6 mapas para ganar un partido. (Al mejor de 11)
 
 ### Instrucciones de los partidos
 
 1. Un árbitro creará una sala multijugador con 15 minutos de antelación. Los jugadores deben reunirse durante este periodo.
-2. La sala estará cerrada. La contraseña y la invitación a la partida multijugador se enviarán a los dos capitanes lo antes posible.
+2. La sala estará cerrada. La contraseña y la invitación a la sala multijugador se enviarán a los dos capitanes lo antes posible.
 3. La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score'. El nombre de la sala debe ser «OWC 2014: TeamBlue vs TeamRed»
 4. El equipo mencionado primero en el nombre de la sala debe ser el equipo azul, el equipo mencionado en segundo lugar en el nombre de la sala debe ser el equipo rojo.
 5. Los jugadores son libres de seleccionar dos beatmaps de calentamiento. Está prohibido usar beatmaps con contenido cuestionable.
-6. Cada capitán puede prohibir que se seleccionen dos beatmaps de la mappool. Estos mapas no pueden ser elegidos por ningún equipo en todo el partido.
+6. Cada capitán puede prohibir que se seleccionen dos beatmaps del mappool. Estos mapas no pueden ser elegidos por ningún equipo en todo el partido.
 7. Siempre se deben usar ambos vetos.
 8. Cada capitán deberá usar `!roll` para determinar quién empezará el veto de los dos beatmaps. El otro capitán no puede vetar los mismos beatmaps y debe elegir otro beatmap en caso de coincidir.
-9. La selección de mapas alternará entre cada capitán seleccionando un beatmap de la mappool. Cada capitán deberá usar `!roll` una vez en `#multijugador` para determinar qué equipo seleccionará primero.
+9. La selección de los mapas alternará entre cada capitán seleccionando un beatmap del mappool. Cada capitán deberá usar `!roll` una vez en `#multiplayer` para determinar qué equipo seleccionará primero.
 10. Los capitanes pueden elegir libremente de cualquier bracket.
 11. En caso de empate, se debe jugar el mapa de desempate.
 12. Los resultados se publicarán a través de la wiki y a través del sitio web de estadísticas.
 
-### Instrucciones de la mappool
+### Instrucciones del mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los octavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales.
 2. Cada mappool consiste de 5 brackets: NoMod, HardRock, Hidden, DoubleTime y FreeMod
