@@ -35,7 +35,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Gestaltung der [Achievements](/wiki/Medals). |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Entwickler und Aufrechthaltung des [AIBat](https://osu.ppy.sh/community/forums/topics/55305), dem bekanntesten Drittanbietertool für Beatmap-Modding, das heute von den meisten Benutzern in der Community verwendet wird. |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Ausgezeichnete Arbeit im Testen von Features und bei der Fehlerbehebung sowie Entwicklung verschiedener Funktionen für Mapper und Modder. |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organisieren vieler offizieller Turniere (unter anderem dem [OWC](/wiki/Tournaments/OWC))). |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organisierung vieler offizieller Turniere (unter anderem des [OWC](/wiki/Tournaments/OWC)). |
 | ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Wahnsinnige Moderationserfolge (entspricht etwa 6 Mitarbeitern) und fast alleinige Moderation von `#osu` während der Spitzenzeiten (9k+ Nutzer). |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Entwicklung und Pflege von [osu!stats](https://osustats.ppy.sh/) und einer Reihe nützlicher Werkzeuge für Beatmapping, Modding und allgemeines Spielen. |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Herausragende Leistungen beim Testen von Bugfixes/Features und bei der Bearbeitung von Support-Anfragen der Benutzer. |
