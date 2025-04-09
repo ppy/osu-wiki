@@ -22,7 +22,7 @@ With that, Beatmap Spotlights could run again. However, before that could happen
 
 The idea was to create a new, unified system for curating the beatmaps directly on the website, along with brand-new infrastructure to handle it, including live-updating rankings and seasonal divisions, extending on [previously implemented seasons backend](https://github.com/ppy/osu-web/pull/9725).
 
-While the idea was simple, it wouldn't be easy. At this point, intense work was ahead of every person involved in Beatmap Spoltights project. Since we are finally here, it means the goals set ahead of us were successfully achieved, and so we are excited to announce major changes influencing every single inch of Beatmap Spotlights workflows.
+While the idea was simple, it wouldn't be easy. At this point, intense work was ahead of every person involved in Beatmap Spotlights project. Since we are finally here, it means the goals set ahead of us were successfully achieved, and so we are excited to announce major changes influencing every single inch of Beatmap Spotlights workflows.
 
 Can't wait to hear what changed during the over-a-year-long pause? Be sure to read on below!
 
