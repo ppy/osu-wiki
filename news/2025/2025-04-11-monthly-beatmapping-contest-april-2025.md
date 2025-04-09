@@ -89,9 +89,14 @@ If you're confused about how these work, ask for clarification in the comments, 
 
 #### osu!catch
 
-When life gives you lemons, you're probably playing an osu!catch map.
+The fundamental feature of osu!catch maps is movement laterally on the playfield. So, of course, we're going to restrict that.
 
-WORDS
+This month's limitation:
+
+- **Objects must be placed only on the left (`x:0` to `x:256`) or the right side (`x:256` to `x:512`) of the playfield.**
+- **You can alternate which side of the playfield your objects are on every 4, 8, or 16 measures of music.**
+
+Take a look at [this map](https://osu.ppy.sh/beatmapsets/44807) or [this map](https://osu.ppy.sh/beatmapsets/694200#osu/1468735) for an idea of how this could work!
 
 #### osu!mania
 
