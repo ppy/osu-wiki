@@ -8,7 +8,7 @@ Haven't heard this name for a while? Check out all the major changes to Beatmap 
 
 ![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/banner.jpg)
 
-It's been some time since we last met here indeed... let's examine what happened in the meantime, since there surely is a lot to cover.
+It's been some time since we last met here indeed... let's examine what happened in the meantime, since there's certainly a lot to cover.
 
 Even though the playlists are already up and running, we invite you to read on for the story about the new Beatmap Spotlights infrastructure, and the path that led us back to where we are today!
 
