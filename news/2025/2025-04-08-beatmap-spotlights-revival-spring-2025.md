@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Revival: Spring 2025"
-date: 2025-04-08 23:00:00 +0000
+date: 2025-04-09 01:00:00 +0000
 ---
 
 Haven't heard this name for a while? Check out all the major changes to Beatmap Spotlights! This time, we are also seeking fresh blood to ensure the project can run smoothly for many seasons to come!
@@ -90,14 +90,14 @@ Changing game modes is as simple as clicking one of the four mode icons at the t
 
 | Event | Time |
 | --: | :-- |
-| Season start | Apr 8, 2025 |
-| Playlist A | Apr 8 - Apr 22, 2025 |
-| Playlist B | Apr 22 - May 6, 2025 |
-| Playlist C | May 6 - May 20, 2025 |
-| Playlist A | May 20 - May 27, 2025 |
-| Playlist B | May 27 - Jun 3, 2025 |
-| Playlist C | Jun 3 - Jun 10, 2025 |
-| Season conclusion | Jun 10, 2025 |
+| Season start | Apr 9, 2025 |
+| Playlist A | Apr 9 - Apr 23, 2025 |
+| Playlist B | Apr 23 - May 7, 2025 |
+| Playlist C | May 7 - May 21, 2025 |
+| Playlist A | May 21 - May 28, 2025 |
+| Playlist B | May 28 - Jun 4, 2025 |
+| Playlist C | Jun 4 - Jun 11, 2025 |
+| Season conclusion | Jun 11, 2025 |
 
 ## Spring Season 2025 first playlists & Beatmap of the Season {id=playlists}
 
