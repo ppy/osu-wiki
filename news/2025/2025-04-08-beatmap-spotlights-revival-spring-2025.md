@@ -4,27 +4,25 @@ title: "Beatmap Spotlights Revival: Spring 2025"
 date: 2025-04-08 23:00:00 +0000
 ---
 
-Haven't heard this name for a while? Check out all the major changes to Beatmap Spotlights! Are you interested in helping out with the project? This time, we are also seeking fresh blood to ensure the project can run smoothly for many seasons to come!
+Haven't heard this name for a while? Check out all the major changes to Beatmap Spotlights! This time, we are also seeking fresh blood to ensure the project can run smoothly for many seasons to come!
 
 ![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/banner.jpg)
 
 It's been some time since we last met here indeed... let's examine what happened in the meantime, since there surely is a lot to cover.
 
-Even though the playlists are up and running already, we invite you to read on for the story about the new Beatmap Spotlights infrastructure, and the path that led us to this very day below!
+Even though the playlists are already up and running, we invite you to read on for the story about the new Beatmap Spotlights infrastructure, and the path that led us back to where we are today!
 
 ## A lengthy history lesson
 
 Heading into 2024, right after the conclusion of the Autumn 2023 season, the Beatmap Spotlights project was halted by the development team, due to an osu!(lazer) scoring rollout and infrastructure changes related to that.
 
-Some time passed, and alongside the [introduction of Daily Challenges](https://osu.ppy.sh/home/news/2024-07-25-introducing-daily-challenges) in July 2024, internal discussions arose about how the projects would coexist in the future. After some team-wide deliberations, it was decided that they would both focus on different matters, and aim for a varying player base.
+Some time passed, and alongside the introduction of [Daily Challenge](https://osu.ppy.sh/home/news/2024-07-25-introducing-daily-challenges) in July 2024, discussions began about how they would coexist in the future. After some deliberation, it was decided that both projects would focus on different matters, and aim for a varying player base.
 
-With that, the Beatmap Spotlights could run again. However, before that happens, various parts of Spotlights infrastructure would need to see some change.
-
-Back in September 2024 then, meetings were held and plans were drawn, and as a result the [Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) were met with a relatively simple announcement: the new goal was to stop using spreadsheets and scripts to run the Beatmap Spotlights, for sake of both smoother internal workflows, and enhanced player experience.
+With that, Beatmap Spotlights could run again. However, before that could happen, various parts of Spotlights infrastructure would need to see some change.
 
 The idea was to create a new, unified system for curating the beatmaps directly on the website, along with brand-new infrastructure to handle it, including live-updating rankings and seasonal divisions, extending on [previously implemented seasons backend](https://github.com/ppy/osu-web/pull/9725).
 
-While the idea was simple, it wouldn't be easy. At this point, intense work was ahead of every person involved in Beatmap Spotlights project. Since we are finally here, it means we succeeded, and so we are excited to announce major changes influencing every single inch of Beatmap Spotlights workflows.
+While the idea was simple, it wouldn't be easy. At this point, intense work was ahead of every person involved in Beatmap Spoltights project. Since we are finally here, it means the goals set ahead of us were successfully achieved, and so we are excited to announce major changes influencing every single inch of Beatmap Spotlights workflows.
 
 Can't wait to hear what changed during the over-a-year-long pause? Be sure to read on below!
 
@@ -34,9 +32,9 @@ To kick things off, we'd like to introduce you to brand-new Beatmap Spotlights i
 
 ### Live seasonal score calculation & leaderboards
 
-The seasonal scoring is now calculated live, every time you submit a score. Alongside that, the Spotlights season pages now include a full seasonal leaderboard, with dynamically updating division tiers.
+The seasonal scoring is now calculated every time you submit a score. Alongside that, the Spotlights season pages now include a full seasonal leaderboard, with dynamically updating division tiers.
 
-Want to see this in action? Submit a playlist score and look up your name in the designated game mode leaderboard!
+Want to see this in action? Submit a score in one of the playlists below and look up your name!
 
 - [osu!](https://osu.ppy.sh/seasons/42)
 - [osu!taiko](https://osu.ppy.sh/seasons/43)
@@ -45,46 +43,46 @@ Want to see this in action? Submit a playlist score and look up your name in the
 
 ### User profile seasonal division display
 
-That being said, your division and seasonal rank placement won't be visible in the season listing only. As of now, we are introducing a seasonal statistics display on user profiles!
+That said, your division and seasonal rank placement won't be visible in the season listing only. As of now, we are introducing a seasonal statistics display on user profiles!
 
 ![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/division-profile.jpg)
 
-When hovered, detailed statistics will be displayed, including seasonal score and rank.
+When hovered, detailed statistics will be displayed, including your seasonal score and rank.
 
 ![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/division-details.jpg)
 
 ## Project-level changes
 
-While not as radical, the other branches of the project came to see some changes just as well.
+The other branches of the project came to see some changes just as well.
 
 ### Improved playlist system
 
-Back in the [August 2023](https://osu.ppy.sh/home/news/2023-10-23-beatmap-spotlights-season-10-autumn-2023) season, we announced the end of playlist gimmicks, which were starting to be used in some previous seasons.
+Back in the [August 2023](https://osu.ppy.sh/home/news/2023-10-23-beatmap-spotlights-season-10-autumn-2023) season, we announced the end of playlist gimmicks, which were being used in previous seasons.
 
-While we don't foresee the gimmicks coming back due to various limitations, we still wanted to have the first playlist of each season be more distinct and one of a kind.
+While we don't foresee the gimmicks coming back due to various limitations, we still wanted to have the first playlist of each season be more distinct.
 
-Therefore, from now on, **the Playlist A of each Beatmap Spotlights season will contain only recent beatmaps**. This is to both let players discover modern beatmapping gems, and to return to an older mode of operation for the Beatmap Spotlights: highlighting and rewarding fresh mapping masterpieces.
+From now on, **Playlist A of each Beatmap Spotlights season will contain only recent beatmaps**. This is to let players discover modern gems, and to return to an older mode of operation for the Beatmap Spotlights: highlighting and rewarding fresh mapping masterpieces.
 
 ### Changes to Beatmap of the Season
 
 Extending on Playlist A reformulations, as described above, we'd like to introduce tweaks to the *Beatmap of the Season* awards.
 
-So far, we used to run a voting between players and Beatmap Spotlight Curators, asking both groups for their favourite Beatmap included in the season.
+We used to run a voting between players and Beatmap Spotlight Curators, asking both groups for their favourite Beatmap included in the season.
 
 Starting today, we'd like to split the Beatmap of the Season in two:
 
-1. The Beatmap of the Season will be selected by Beatmap Spotlight Curators will be announced alongside a season's launch in Playlist A. This makes the Beatmap of the Season a highlight for the most outstanding recent beatmapping creation (according to the curators), serving as an award and so-called spotlight for both the beatmap and its author.
+1. The Beatmap of the Season will be selected by Beatmap Spotlight Curators and will be announced alongside a season's launch in Playlist A. This makes the Beatmap of the Season a highlight for the most outstanding recent beatmapping creation (according to the curators), serving as an award and so-called spotlight for both the beatmap and its author.
 2. The *players' favourite* voting will still be hosted at the end of each season, including all the beatmaps selected for the season.
 
-The creator of both highlighted maps will receive 3 months of osu!supporter, which is the same as it used to be in the past.
+The creator of both highlighted maps will receive 3 months of osu!supporter.
 
-The curators' pick for the current Beatmap of the Season can be found further below in the [playlist listing](#playlists).
+The curators' pick for the current Beatmap of the Season can be found in the [playlist listing](#playlists).
 
 ## How do I participate in Beatmap Spotlights League? {id=how-to-participate}
 
-To participate in the Beatmap Spotlights, go grab yourself the latest version of the osu!(lazer) client from [this download page](https://osu.ppy.sh/home/download).
+To participate in Beatmap Spotlights, grab yourself the latest version of the [osu!(lazer) client] (https://osu.ppy.sh/home/download).
 
-Once you're done installing and logging into your account, head on over to the `playlists` tab in the `play` section and find the Spotlights lobbies, denoted by a little green bar. You can also toggle the filter to show only the Spotlight playlists in the top-right corner.
+Once you're done installing and logging into your account, head over to the `playlists` tab in the `play` section and find the Beatmap Spotlights lobbies, denoted by a little green bar. You can also toggle the filter to show only the Beatmap Spotlight playlists in the top-right corner.
 
 Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — and it'll be whatever game mode you played last on osu!(lazer) by default.
 
@@ -103,7 +101,7 @@ Changing game modes is as simple as clicking one of the four mode icons at the t
 
 ## Spring Season 2025 first playlists & Beatmap of the Season {id=playlists}
 
-The preview videos for each of the playlists were provided by [Noffy](https://osu.ppy.sh/users/1541323), thanks for your efforts!
+The preview videos for each of the playlists were provided by [Noffy](https://osu.ppy.sh/users/1541323).
 
 ### ![](/wiki/shared/mode/osu.png) osu! (led by [Lefafel](https://osu.ppy.sh/users/2295850))
 
@@ -236,34 +234,32 @@ Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/
 
 ## Beatmap Spotlight Curator applications
 
-None of this would be possible without our [curators](https://osu.ppy.sh/groups/48)' hard work and efforts.
+None of this would be possible without our [Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48)' hard work and efforts.
 
-That being said, we are looking towards expanding the team further in order to make picking the beatmaps more deliberate and effective.
+That being said, we are looking to expand the team in order to streamline the beatmap selection process.
 
-Are you an experienced beatmapper? An outstanding player? An exceptional mappooler? A mix of each? Now is your time to shine! You can find the application form below, but be sure to fill it in before <!-- deadline --> if you'd like to join the ranks of the Beatmap Spotlights Curators, putting a brick in the project's years-long history!
+Are you an experienced beatmapper, player, tournament mappooler, or a combination? Now is your time to shine! You can find the application form below, be sure to fill it in before **April 20, 2025** if you'd like to join the ranks of the Beatmap Spotlight Curators!
 
 [**Click here to apply!**](https://forms.gle/MjGxXe8C3hY2vUHy9)
 
-## New communication and announcement system
+## Communication and announcements
 
-As of today, communications about Beatmap Spotlights will be moved to the [osu! Discord server](https://discord.com/invite/ppy) entirely.
+As of today, communications for Beatmap Spotlights will be moved to the [osu! Discord server](https://discord.com/invite/ppy) entirely, and `#osu-spotlights` is the place to talk about everything related to Beatmap Spotlights.
 
-`#osu-spotlights` is your room to talk about everything related to Beatmap Spotlights.
-
-You can also now opt in for news about seasons, playlists and all sorts of general announcements regarding the project by assigning yourself a ping role in `#welcome` channel.
+You can also now opt-in to receive updates about seasons, playlists, and general announcements by assigning yourself the appropriate ping role in the `#welcome` channel.
 
 ## The future
 
 That surely was a lengthy news post. It definitely marks the start of a new era for the Beatmap Spotlights project.
 
-What do you want for the next season? What needs to be fixed? What are your opinions on the current system? Be sure to let us know in the comments or sparkle a talk in the dedicated Spotligths osu! Discord channel.
+Be sure to let us know of any questions you have, ideas for next season, fixes, or opinions on our systems in the dedicated Beatmap Spotlights osu! Discord channel.
 
-We do hope you enjoy the brand-new implementations, and of course, we do hope that you stay with us for a long while.
+We hope you enjoy these changes, and look forward to what comes next!
 
 Now go ahead and set some scores, see you in the playlist lobbies!
 
 ---
 
-Join us over at the [osu! Discord server](https://discord.com/invite/ppy) and assign yourself to a pingable role to keep up with changes and announcements. You can also find out more about the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu! wiki.
+Find out more about the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu! wiki.
 
 —Venix
