@@ -7,24 +7,23 @@ tags:
   - game modifier
   - modificador de juego
   - modificador del juego
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Flashlight (mod)
 
 ![Icono del mod FL](/wiki/shared/mods/FL.png "Icono del mod Flashlight (FL)")
 
-*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
+*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Flashlight (mod de lazer)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer))*\
+*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden).*
 
-## Acerca de
+## Resumen
 
 - Abreviatura: FL
 - Tipo: Aumento de dificultad
 - Multiplicador de puntuación:
-  - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.12x
-  - ![][osu!mania]: 1.00x
+  - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1,12x
+  - ![][osu!mania]: 1,00x
 - Tecla de acceso directo predeterminada: `G`
 - Descripción: `Reduce el área de visión.`
 - Modos de juego compatibles: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -41,7 +40,7 @@ El área visible se hará más pequeña con un combo de 100x y nuevamente con un
 
 Todo esto se suma a un efecto que parece como si una linterna virtual estuviera iluminando el cursor del jugador:
 
-![Jugabilidad de FL en osu!](/wiki/Gameplay/Game_modifier/Flashlight/img/FL-comparison-osu.jpg "Comparación entre una partida con el mod Flashlight activado en combo 13x (arriba centro), combo 100x (abajo a la izquierda) y combo 200x (abajo a la derecha)")
+![Jugabilidad de FL en osu!](/wiki/Gameplay/Game_modifier/Flashlight/img/FL-comparison-osu.jpg "Comparación entre una jugada con el mod Flashlight activado en un combo de 13x (arriba centro), un combo de 100x (abajo a la izquierda) y un combo de 200x (abajo a la derecha)")
 
 Cabe señalar que cuando se combina con el mod Hidden, el área visible de la «linterna» apenas importa: con una visión limitada, los objetos pueden desvanecerse mientras el cursor no está enfocado en el punto de aparición del objeto.
 
@@ -61,7 +60,7 @@ En [osu!catch](/wiki/Game_mode/osu!catch), el comportamiento del mod Flashlight 
 
 ![Jugabilidad de FL en catch](/wiki/Gameplay/Game_modifier/Flashlight/img/FL-catch.jpg "Jugabilidad de osu!catch con el mod Flashlight activado")
 
-Cuando se combina con el mod Hidden, las frutas son momentáneamente visibles si el receptor está *directamente debajo* de las frutas. Es decir, hasta que el jugador alcanza el combo 100x, momento en el que las frutas se vuelven completamente invisibles cuando las frutas alcanzan el área visible. Al igual que osu! y osu!taiko, esto también requiere la memorización completa del beatmap.
+Cuando se combina con el mod Hidden, las frutas son momentáneamente visibles si el catcher está *directamente debajo* de las frutas. Es decir, hasta que el jugador alcanza el combo 100x, momento en el que las frutas se vuelven completamente invisibles cuando las frutas alcanzan el área visible. Al igual que osu! y osu!taiko, esto también requiere la memorización completa del beatmap.
 
 ### osu!mania
 
@@ -72,7 +71,7 @@ En [osu!mania](/wiki/Game_mode/osu!mania), el área visible está restringida a 
 ## Curiosidades
 
 - Si se pasa un beatmap con un grado S o SS con el mod Flashlight activado, el beatmap otorgará la variante plateada del grado en su lugar.
-- El mod Flashlight fue originalmente objeto de una gran controversia con respecto a la implementación en 2010 por ser el mod más fácil de jaquear; posteriormente obligando a que el mod no se clasificara hasta que se implementara un parche para cubrir la brecha de implementación del mod Flashlight.
+- El mod Flashlight fue originalmente objeto de una gran controversia con respecto a la implementación en 2010 por ser el mod más fácil de vulnerar y poder hacer trampa con él; lo que obligó a desclasificarlo hasta que se implementara un parche para cubrir la brecha de implementación del mod Flashlight.
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
 

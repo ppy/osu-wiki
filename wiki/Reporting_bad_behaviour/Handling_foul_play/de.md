@@ -1,8 +1,3 @@
----
-outdated_since: a7829a7972d112aa1bc8799dd865ef3b5e80a630
-outdated_translation: true
----
-
 # Umgang mit Betrug
 
 ## Warum ist mein Account eingeschränkt?
@@ -35,12 +30,11 @@ Das Support-Team liefert keine "Beweise" für Einschränkungen, aber alle werden
 
 ## Ich werde ein Video produzieren, um meine Unschuld zu beweisen!
 
-Sorry, aber dein Account wurde eingeschränkt. Das Support-Team ist sich bereits sicher, dass du schummelst. Ein Video wird hier nicht helfen, da diese auch bearbeitet sein können.
+Sorry, aber dein Account wurde eingeschränkt. Das Support-Team ist sich bereits sicher, dass du schummelst. Ein Video wird hier nicht helfen, da diese bearbeitet sein können.
 
 ## Ich habe jemanden gefunden, der definitiv schummelt. Das erkenne ich an seinem Replay/Score! Was sollte ich tun?
 
-Bleib gelassen und **diskutiere seine Spiele nicht im öffentlichen Chat**. Gib ihm keine unrechtmäßige Aufmerksamkeit oder frage andere, ihn beim Spielen zuzusehen.
-Du solltest den Benutzer melden und ihn nirgendwo erwähnen. Es gibt drei Wege, das zu tun.
+Bleib gelassen und **diskutiere seine Spiele nicht im öffentlichen Chat**. Gib ihm keine unrechtmäßige Aufmerksamkeit oder frage andere, ihn beim Spielen zuzusehen. Du solltest den Benutzer melden und ihn nirgendwo erwähnen. Es gibt drei Wege, das zu tun.
 
 ### Benutzerprofil
 
@@ -75,7 +69,7 @@ Peripheriegeräte wie Tablets und Touchscreens sind okay. Alles, was die benöti
 
 ## Wie kann ich Beschwerde gegen meine Einschränkung einlegen?
 
-Warte drei Monate nach der letzten eingesetzten Einschränkung vor dem Einlegen einer Beschwerde. Adressiere deine E-Mails zu [accounts@ppy.sh](mailto:accounts@ppy.sh) und benutze den Betreff `Restriction Appeal: <Benutzername>`
+Warte mindestens drei Monate nach der letzten aktiven Einschränkung vor dem Einlegen einer Beschwerde.[^restriction-length] Adressiere deine E-Mails an [accounts@ppy.sh](mailto:accounts@ppy.sh) und benutze den Betreff `Restriction Appeal: <Benutzername>`.
 
 Das Support-Team erwartet, dass Nutzer ihre vergangenen Verstöße auflisten und Gründe nennen, warum sie das nicht mehr in Zukunft machen werden.
 
@@ -85,6 +79,10 @@ Das Support-Team erwartet, dass Nutzer ihre vergangenen Verstöße auflisten und
 
 Wenn du gegen die Regeln verstoßen hast und dies bereinigen möchtest, wende dich bitte an [accounts@ppy.sh](mailto:accounts@ppy.sh) und erkläre, was du getan hast. Ehrlichkeit wird sehr wertgeschätzt und das wird wahrscheinlich nicht in einer permanenten Strafe enden.
 
-## Wie kann ich verhindern, dass mein Account auf stumm geschaltet oder eingeschränkt wird?
+## Wie kann ich verhindern, dass mein Account stumm geschaltet oder eingeschränkt wird?
 
-Lies die [Regeln](/wiki/Rules) sorgfältig durch und befolge sie.
+Lies die [Regeln](/wiki/Rules) sorgfältig durch und befolge sie. Wenn du dir unsicher bist, ob etwas gegen die Regeln verstößt, frag ein Mitglied des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team). Wenn du nicht weißt, wen du fragen kannst, dann [wende dich an diese Person](https://osu.ppy.sh/users/5999631).
+
+## Anmerkungen
+
+[^restriction-length]: Die Zeit, die du vor dem Einreichen einer Beschwerde warten musst, ist abhängig vom Grund der Einschränkung. Wenn du dir unsicher bist, wann deine Einschränkung aufgehoben wird, schreibe eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh). Siehe [Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions) für weitere Details.
