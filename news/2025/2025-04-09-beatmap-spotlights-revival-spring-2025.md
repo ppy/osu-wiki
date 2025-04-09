@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Beatmap Spotlights Revival: Spring 2025"
-date: 2025-04-09 01:00:00 +0000
+date: 2025-04-09 01:30:00 +0000
 ---
 
 Haven't heard this name for a while? Check out all the major changes to Beatmap Spotlights! This time, we are also seeking fresh blood to ensure the project can run smoothly for many seasons to come!
 
-![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/banner.jpg)
+![](/wiki/shared/news/2025-04-9-beatmap-spotlights-revival-spring-2025/banner.jpg)
 
 It's been some time since we last met here indeed... Let's examine what happened in the meantime, since there's certainly a lot to cover.
 
@@ -45,11 +45,11 @@ Want to see this in action? Submit a score in one of the playlists below and loo
 
 Your division and seasonal rank placement won't be visible in the season listing only. As of now, we are introducing a seasonal statistics display on user profiles!
 
-![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/division-profile.jpg)
+![](/wiki/shared/news/2025-04-9-beatmap-spotlights-revival-spring-2025/division-profile.jpg)
 
 When hovered, detailed statistics will be displayed, including your seasonal score and rank.
 
-![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/division-details.jpg)
+![](/wiki/shared/news/2025-04-9-beatmap-spotlights-revival-spring-2025/division-details.jpg)
 
 ## Project-level changes
 
@@ -107,7 +107,7 @@ The preview videos for each of the playlists were provided by [Noffy](https://os
 
 #### Beatmap of the Season
 
-[![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/4535239.jpg)](https://osu.ppy.sh/beatmapsets/1836970#osu/4535239)
+[![](/wiki/shared/news/2025-04-9-beatmap-spotlights-revival-spring-2025/4535239.jpg)](https://osu.ppy.sh/beatmapsets/1836970#osu/4535239)
 
 **[Lia - Tori no Uta (Luscent) \[Djulus' Insane\]](https://osu.ppy.sh/beatmapsets/1836970#osu/4535239)**, created by [Djulus](https://osu.ppy.sh/users/4960893)\
 *primarily suggested and described by [KnightC0re](https://osu.ppy.sh/users/7894340)*
@@ -140,7 +140,7 @@ Whether you're a seasoned anime enjoyer, a casual player looking for something s
 
 #### Beatmap of the Season
 
-[![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/4752728.jpg)](https://osu.ppy.sh/beatmapsets/2229183#taiko/4752728)
+[![](/wiki/shared/news/2025-04-9-beatmap-spotlights-revival-spring-2025/4752728.jpg)](https://osu.ppy.sh/beatmapsets/2229183#taiko/4752728)
 
 **[Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (Cychloryn) \[Lemonade\]](https://osu.ppy.sh/beatmapsets/2229183#taiko/4752728)**, created by [Cychloryn](https://osu.ppy.sh/users/6921736)\
 *primarily suggested and described by [Boaz](https://osu.ppy.sh/users/13302996)*
@@ -171,7 +171,7 @@ Are you ready to take on the flying notes on your screen? Make sure to check out
 
 #### Beatmap of the Season
 
-[![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/4691506.jpg)](https://osu.ppy.sh/beatmapsets/2191164#fruits/4691506)
+[![](/wiki/shared/news/2025-04-9-beatmap-spotlights-revival-spring-2025/4691506.jpg)](https://osu.ppy.sh/beatmapsets/2191164#fruits/4691506)
 
 **[ABSOLUTE CASTAWAY - step by step (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/2191164#fruits/4691506)**, created by [Deif](https://osu.ppy.sh/users/318565)\
 *primarily suggested by [sularis](https://osu.ppy.sh/users/14571181)*\
@@ -201,7 +201,7 @@ Being tasked with mapping for such an event can really kick-start motivations to
 
 #### Beatmap of the Season
 
-[![](/wiki/shared/news/2025-04-08-beatmap-spotlights-revival-spring-2025/4404687.jpg)](https://osu.ppy.sh/beatmapsets/2099753#mania/4404687)
+[![](/wiki/shared/news/2025-04-9-beatmap-spotlights-revival-spring-2025/4404687.jpg)](https://osu.ppy.sh/beatmapsets/2099753#mania/4404687)
 
 **[Ludicin - Everlasting Eternity (Critical\_Star) \[\[7K\] Timeless\]](https://osu.ppy.sh/beatmapsets/2099753#mania/4404687)**, created by [Critical\_Star](https://osu.ppy.sh/users/3793196)\
 *primarily suggested and described by [Maxus](https://osu.ppy.sh/users/4335785)*
