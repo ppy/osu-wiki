@@ -80,7 +80,7 @@ The curators' pick for the current Beatmap of the Season can be found in the [pl
 
 ## How do I participate in Beatmap Spotlights League? {id=how-to-participate}
 
-To participate in Beatmap Spotlights, grab yourself the latest version of the [osu!(lazer) client] (https://osu.ppy.sh/home/download).
+To participate in Beatmap Spotlights, grab yourself the latest version of the [osu!(lazer) client](https://osu.ppy.sh/home/download).
 
 Once you're done installing and logging into your account, head over to the `playlists` tab in the `play` section and find the Beatmap Spotlights lobbies, denoted by a little green bar. You can also toggle the filter to show only the Beatmap Spotlight playlists in the top-right corner.
 
