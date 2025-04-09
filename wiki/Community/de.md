@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5f7ace462919260cdd997244c190771bb68ff0c2
+---
+
 # Community
 
 Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community auf, miteinander in Kontakt zu treten. Wenn du nach Beteiligungsmöglichkeiten Ausschau hältst, aber nicht weißt, womit du anfangen sollst, lies unbedingt [Wie du helfen kannst!](/wiki/Community/How_you_can_help!).
