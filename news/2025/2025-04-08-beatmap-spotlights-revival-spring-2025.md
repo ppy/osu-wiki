@@ -250,11 +250,9 @@ You can also now opt-in to receive updates about seasons, playlists, and general
 
 ## The future
 
-That surely was a lengthy news post. It definitely marks the start of a new era for the Beatmap Spotlights project.
+This marks the start of a new era for the Beatmap Spotlights project, we hope you enjoy these changes, and look forward to what comes next!
 
 Be sure to let us know of any questions you have, ideas for next season, fixes, or opinions on our systems in the dedicated Beatmap Spotlights osu! Discord channel.
-
-We hope you enjoy these changes, and look forward to what comes next!
 
 Now go ahead and set some scores, see you in the playlist lobbies!
 
