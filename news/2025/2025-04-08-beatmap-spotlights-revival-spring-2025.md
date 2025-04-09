@@ -14,7 +14,7 @@ Even though the playlists are already up and running, we invite you to read on f
 
 ## A lengthy history lesson
 
-Heading into 2024, right after the conclusion of the Autumn 2023 season, the Beatmap Spotlights project was halted by the development team, due to an osu!(lazer) scoring rollout and infrastructure changes related to that.
+Heading into 2024, right after the conclusion of the Autumn 2023 season, the Beatmap Spotlights project was stopped for time being, due to an osu!(lazer) scoring rollout and infrastructure changes related to that.
 
 Some time passed, and alongside the introduction of [Daily Challenge](https://osu.ppy.sh/home/news/2024-07-25-introducing-daily-challenges) in July 2024, discussions began about how they would coexist in the future. After some deliberation, it was decided that both projects would focus on different matters, and aim for a varying player base.
 
