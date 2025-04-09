@@ -230,7 +230,7 @@ Without a doubt, this boss chart deserves its place as the top spotlight pick, a
 - [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches) (Rio1-) \[\[6K\] Relentless\]](https://osu.ppy.sh/beatmapsets/2211806#mania/4685601), suggested by [Antalf](https://osu.ppy.sh/users/8793773)
 - [Ludicin - Everlasting Eternity (Critical\_Star) \[\[7K\] Timeless\]](https://osu.ppy.sh/beatmapsets/2099753#mania/4404687), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
 
-Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights) as we open the playlist lobbies, so stay tuned!
+Playlist B and C will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights) as we open the playlist lobbies, so stay tuned!
 
 ## Beatmap Spotlight Curator applications
 
