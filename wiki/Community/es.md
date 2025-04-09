@@ -9,6 +9,7 @@ Esta página enumera las formas en que las personas de todo osu! pueden ponerse 
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [Servidor oficial de Discord de osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
 - [Organizaciones fuera de línea](/wiki/Community/Organisations)
+- [Reddit](/wiki/Community/Reddit)
 
 ## Proyectos
 
