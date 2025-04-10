@@ -109,24 +109,24 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Singapore ::{ flag=SG }:: | ::{ flag=RU }:: Russian Federation | [Apr 12 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250412T100000&p1=1440&p2=236&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Apr 12 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250412T120000&p1=1440&p2=33&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=GB }:: United Kingdom | [Apr 12 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250412T140000&p1=1440&p2=122&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=CL }:: Chile | [Apr 12 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250412T150000&p1=1440&p2=235&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=TR }:: Türkiye | [Apr 12 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250412T180000&p1=1440&p2=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Singapore ::{ flag=SG }:: | ::{ flag=RU }:: Russian Federation | [Apr 12 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250412T140000&p1=1440&p2=236&p3=166) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=TR }:: Türkiye | [Apr 12 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250412T170000&p1=1440&p2=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 13 April 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
+| South Korea ::{ flag=KR }:: | ::{ flag=CL }:: Chile | [Apr 13 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T030000&p1=1440&p2=235&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Apr 13 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T040000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Türkiye ::{ flag=TR }:: | ::{ flag=CN }:: China | [Apr 13 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T040000&p1=1440&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 13 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T100000&p1=1440&p2=248&p3=241) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=MY }:: Malaysia | [Apr 13 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T120000&p1=1440&p2=236&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Singapore ::{ flag=SG }:: | ::{ flag=GB }:: United Kingdom | [Apr 13 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T120000&p1=1440&p2=236&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Apr 13 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T120000&p1=1440&p2=166&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=GB }:: United Kingdom | [Apr 13 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T120000&p1=1440&p2=166&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=FR }:: France | [Apr 13 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T180000&p1=1440&p2=263&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Singapore ::{ flag=SG }:: | ::{ flag=MY }:: Malaysia | [Apr 13 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T140000&p1=1440&p2=236&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Singapore ::{ flag=SG }:: | ::{ flag=GB }:: United Kingdom | [Apr 13 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T140000&p1=1440&p2=236&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Apr 13 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T150000&p1=1440&p2=166&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=GB }:: United Kingdom | [Apr 13 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T160000&p1=1440&p2=166&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=FR }:: France | [Apr 13 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T170000&p1=1440&p2=263&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Türkiye ::{ flag=TR }:: | ::{ flag=FR }:: France | [Apr 13 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T180000&p1=1440&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Finals | mappool showcase | [Apr 13 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250413T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
