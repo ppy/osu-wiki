@@ -9,7 +9,7 @@ stub: true
 
 ![](img/jack.png "A jack in the traditional sense of the word.")
 
-## 짦은 연타
+## 짧은 연타
 
 따닥이라고도 불리는 **짧은 연타**는 2개의 노트만을 가지며 연타 중에서 가장 덜 힘든 형태입니다.
 
