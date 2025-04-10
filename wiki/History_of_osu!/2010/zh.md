@@ -6,9 +6,9 @@ stub : true
 
 ## 一月
 
-在珀斯的 [Wai-con](https://zh.wikipedia.org/wiki/Wai-Con) 漫展上出现了一台 osu!arcade 也就是一个完整的运行着一个触屏版本的 osu! 的街机机器。尽管根据某些人的意见，在这台机子上玩太久会导致手指酸痛，但这台包含着自制硬件和内置触控屏的原型机仍然被整个社区所接受。[^wai-con]
+在珀斯的 [Wai-con](https://zh.wikipedia.org/wiki/Wai-Con) 漫展上出现了一台 osu!arcade 也就是一个完整的运行着一个触屏版本的 osu! 的街机机台。尽管根据某些人的意见，在这台机子上玩太久会导致手指酸痛，但这台包含着自制硬件和内置触控屏的原型机仍然被整个社区所接受。[^wai-con]
 
-![一台显示着 osu! 的主菜单的触屏机器](img/osu!arcade.jpg "在 2010 年的 Wai-con 展会上展出的 osu!arcade 机器")
+![一台显示着 osu! 的主菜单的机台](img/osu!arcade.jpg "在 2010 年的 Wai-con 展会上展出的 osu!arcade 机器")
 
 ## 三月
 
