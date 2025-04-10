@@ -19,14 +19,14 @@ stub: true
 
 ## 점프스트림
 
-**점프스트림(Jumpstream)**&#8203;은 [점프](/wiki/Beatmap/Pattern/osu!mania/Chord#jump)를 포함하는 스트림입니다. 보통 스트림 자체는 1/4 스냅이고 점프는 더 높은 스냅에 위치합니다. 4 키 osu!maina에서 가장 흔한 스트림 패턴입니다
+**점프스트림(Jumpstream)**&#8203;은 [점프](/wiki/Beatmap/Pattern/osu!mania/Chord#점프)를 포함하는 스트림입니다. 보통 스트림 자체는 1/4 스냅이고 점프는 더 높은 스냅에 위치합니다. 4 키 osu!maina에서 가장 흔한 스트림 패턴입니다
 
 ![](img/jumpstream.png)
  이 용어는 주로 4 키 osu!maina에 사용됩니다.
 
 ## 핸드스트림
 
-**핸드스트림(Handstream)**&#8203;은 [핸드](/wiki/Beatmap/Pattern/osu!mania/Chord#hand)를 포함하는 스트림이고 점프도 또한 포함할 수 있습니다. 점프스트림처럼 스트림 자체는 1/4 스냅에 있고 점프는 더 높은 스냅에 위치합니다.
+**핸드스트림(Handstream)**&#8203;은 [핸드](/wiki/Beatmap/Pattern/osu!mania/Chord#핸드드)를 포함하는 스트림이고 점프도 또한 포함할 수 있습니다. 점프스트림처럼 스트림 자체는 1/4 스냅에 있고 점프는 더 높은 스냅에 위치합니다.
 
 ![](img/handstream.png)
 
@@ -34,7 +34,7 @@ stub: true
 
 ## 쿼드스트림
 
-**쿼드스트림(Quadstream)**&#8203;은 4 키 osu!maina에서만 사용되는 용어입니다. 이전에 두 스트림 종류와 비슷하게, 다른 더 작은 동시치기와 더불어 쿼드의 사용을 포함하는 스트림입니다. 4 키 osu!maina에서 쿼드스트림에서 쿼드는 쿼드 전의 노트 또는 후의 노트와 함께 [짧은 연타](/wiki/Beatmap/Pattern/osu!mania/Jack#minijack)를 생성합니다.
+**쿼드스트림(Quadstream)**&#8203;은 4 키 osu!maina에서만 사용되는 용어입니다. 이전에 두 스트림 종류와 비슷하게, 다른 더 작은 동시치기와 더불어 쿼드의 사용을 포함하는 스트림입니다. 4 키 osu!maina에서 쿼드스트림에서 쿼드는 쿼드 전의 노트 또는 후의 노트와 함께 [짧은 연타](/wiki/Beatmap/Pattern/osu!mania/Jack#짧은-연타)를 생성합니다.
 
 ![](img/quadstream.png)
 

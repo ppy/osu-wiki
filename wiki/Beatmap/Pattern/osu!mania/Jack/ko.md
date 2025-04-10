@@ -17,12 +17,12 @@ stub: true
 
 ## 축연타
 
-**축연타**는 4 또는 그 이상의 노트를 가지는 더 힘든 연타의 형태입니다. 일반적으로 다른 패턴과 분리되어 있습니다. 이 용어는 같은 [점프](/wiki/Beatmap/Pattern/osu!mania/Chord#jump)나 [핸드](/wiki/Beatmap/Pattern/osu!mania/Chord#hand)가 연속적으로 반복될 때도 사용될 수 있습니다.
+**축연타**는 4 또는 그 이상의 노트를 가지는 더 힘든 연타의 형태입니다. 일반적으로 다른 패턴과 분리되어 있습니다. 이 용어는 같은 [점프](/wiki/Beatmap/Pattern/osu!mania/Chord#점프)나 [핸드](/wiki/Beatmap/Pattern/osu!mania/Chord#점프)가 연속적으로 반복될 때도 사용될 수 있습니다.
 
 ![](img/longjack.png)
 
 ## 코드잭
 
-가치오시(ガチ押し)라고도 불리는 **코드잭(chordJack)**&#8203;은 [동시치기](/wiki/Beatmap/Pattern/osu!mania/Chord)와 함께 여러 연타의 형태가 섞인 것을 뜻합니다. 이 용어는 일반적으로 [쿼드스트림](/wiki/Beatmap/Pattern/osu!mania/Stream#quadstream) 보다 더 밀도가 높은 패턴만을 가르킵니다. 따라서 더 많은 동시치기 사용 빈도가 나타납니다.
+가치오시(ガチ押し)라고도 불리는 **코드잭(chordJack)**&#8203;은 [동시치기](/wiki/Beatmap/Pattern/osu!mania/Chord#동시치기)와 함께 여러 연타의 형태가 섞인 것을 뜻합니다. 이 용어는 일반적으로 [쿼드스트림](/wiki/Beatmap/Pattern/osu!mania/Stream#쿼드스트림) 보다 더 밀도가 높은 패턴만을 가르킵니다. 따라서 더 많은 동시치기 사용 빈도가 나타납니다.
 
 ![](img/chordjack.png)
