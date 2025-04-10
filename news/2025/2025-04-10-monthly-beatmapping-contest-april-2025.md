@@ -25,7 +25,7 @@ The **top 5 maps** from each mode are showcased in osu!(lazer)'s [Featured Artis
 
 ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplcatch.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplmania.png)
 
-The playlists will be open for **2 weeks**!
+Starting soon, the playlists will be open for **2 weeks**!
 
 ### osu!catch results
 
@@ -36,7 +36,7 @@ This contest required all maps to use **equal difficulty settings**. [See the fu
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | Winner | [Sadu](https://osu.ppy.sh/users/16301262) | [Annabel - glimmer](https://osu.ppy.sh/beatmapsets/2352099) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [Jemzuu](https://osu.ppy.sh/users/7890134) | [SONG](LINK) | - | +1 (7 total) |
+| Runner-up | [Jemzuu](https://osu.ppy.sh/users/7890134) | [Ester - Abandoned Planet](https://drive.google.com/file/d/1T8rJRDILP8EwGB2mCqKYSthr_H55LKlW/view?usp=sharing) | - | +1 (7 total) |
 
 #### Top submissions
 
