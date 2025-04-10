@@ -6,7 +6,7 @@ date: 2025-04-10 23:30:00 +0000
 
 Raise your drumsticks and catch up on what went down in the previous week of this years biggest osu!taiko tournament!
 
-![](/wiki/shared/news/2025-04-11-osutaiko-world-cup-quarterfinals-recap/banner.jpg)
+![](/wiki/shared/news/2025-04-10-osutaiko-world-cup-quarterfinals-recap/banner.jpg)
 
 More intense clashes between ever so determined players fighting to bring the trophy home. Unfortunately, not every team was able to withstand the pressure and we had to say a farewell to some courageous teams. The quarterfinals is where the skill gap usually starts to tighten and by simply giving this a read, you'll find out exactly how this played out last week!
 
@@ -26,7 +26,7 @@ More intense clashes between ever so determined players fighting to bring the tr
 
 This weeks [osu! original](/wiki/Community/Bespoke_music) roster has been a blast! Totaling **three** new tracks that spice up this mappool with freshly baked songs from our featured artists. Marmelade butcher, AQUASINE & Supire have worked hard on those following songs to gurantee an exciting-sounding Quarterfinals experience. Enjoy!
 
-[![](/wiki/shared/news/2025-04-11-osutaiko-world-cup-quarterfinals-recap/Virtual_Futural.jpg)](https://osu.ppy.sh/beatmapsets/2347292#taiko/5048649)
+[![](/wiki/shared/news/2025-04-10-osutaiko-world-cup-quarterfinals-recap/Virtual_Futural.jpg)](https://osu.ppy.sh/beatmapsets/2347292#taiko/5048649)
 
 Click the banner below to check out the map, or [**click here to watch the showcase video**](https://www.youtube.com/watch?v=eku7oQZDc4U)!
 
@@ -36,7 +36,7 @@ Click the banner below to check out the map, or [**click here to watch the showc
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-04-11-osutaiko-world-cup-quarterfinals-recap/you_wouldnt_download_a_bird.jpg)](https://osu.ppy.sh/beatmapsets/2347271#taiko/5048585)
+[![](/wiki/shared/news/2025-04-10-osutaiko-world-cup-quarterfinals-recap/you_wouldnt_download_a_bird.jpg)](https://osu.ppy.sh/beatmapsets/2347271#taiko/5048585)
 
 Click the banner below to check out the map, or [**click here to watch the showcase video**](https://www.youtube.com/watch?v=u19t_uAb-VQ)!
 
@@ -46,7 +46,7 @@ Click the banner below to check out the map, or [**click here to watch the showc
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-04-11-osutaiko-world-cup-quarterfinals-recap/Dead_Aire.jpg)](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624)
+[![](/wiki/shared/news/2025-04-10-osutaiko-world-cup-quarterfinals-recap/Dead_Aire.jpg)](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624)
 
 Click the banner below to check out the map, or [**click here to watch the showcase video**](https://www.youtube.com/watch?v=ySo9rugl4OY)!
 
@@ -55,7 +55,6 @@ Click the banner below to check out the map, or [**click here to watch the showc
         <source src="https://assets.ppy.sh/artists/373/Songs/Supire_-_Dead_Aire.mp3">
     </audio>
 </div>
-
 
 ## Quarterfinals results
 
