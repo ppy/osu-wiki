@@ -1,0 +1,27 @@
+---
+stub: true
+tags:
+  - patterns
+---
+
+# 패턴
+
+**패턴**은 [비트맵](/wiki/Beatmap)에 있는 작은 집단의[히트 오브젝트](/wiki/Gameplay/Hit_object) 들이 의미 있게 배치된걸 뜻합니다.
+
+## 일반적인 패턴 종류
+
+<!-- TODO: add more -->
+
+### osu!
+
+- [Jump](osu!/Jump)
+- [Stream](osu!/Stream)
+
+### osu!mania
+
+- [동시치기](osu!mania/Chord)
+- [스트림](osu!mania/Stream)
+- [잭](osu!mania/Jack)
+- [축노트](osu!mania/Anchor)
+- [트릴](osu!mania/Trill)
+- [롱노트](osu!mania/Hold_note)
