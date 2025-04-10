@@ -85,7 +85,7 @@ This month's contest is open to **osu!catch** and **osu!mania** mappers.
 
 A *limitation* is our fancy word for a contest gimmick. We do these to keep maps for this contest fresh and (hopefully) interesting to map!
 
-If you're confused about how these work, ask for clarification in the comments, or send a message to [Morusya](https://osu.ppy.sh/community/chat?sendto=13681464) (for osu!) or [RandomeLoL](https://osu.ppy.sh/community/chat?sendto=7080063) (for osu!mania).
+If you're confused about how these work, ask for clarification in the comments, or send a message to [Morusya](https://osu.ppy.sh/community/chat?sendto=13681464) (for osu!catch) or [RandomeLoL](https://osu.ppy.sh/community/chat?sendto=7080063) (for osu!mania).
 
 #### osu!catch
 
