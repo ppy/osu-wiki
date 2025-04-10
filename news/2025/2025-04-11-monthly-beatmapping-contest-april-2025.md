@@ -100,7 +100,15 @@ Take a look at [this map](https://osu.ppy.sh/beatmapsets/44807) or [this map](ht
 
 #### osu!mania
 
-WORDS
+You might have heard that the osu!mania 7K World Cup ended in February. You were wrong. It's happening *right now*, and you're part of the mappooling team!
+
+For this month's contest, design a **7K map** with a style that fits a **round and category (a.k.a. "slot") from [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).** Keep these in mind:
+
+- **Mappers must choose a *round* between "Round of 32" and "Finals".** No Grand Finals tier maps, sorry.
+- **Mappers must choose a beatmap *category* used in the World Cup.** All categories are okay, excluding "dense chordstream" (RC2), "fast chordstream" (RC6), and "chordjack" (RC3).
+- **Submissions must have the round and category in their tags.** This allows judges to contextualise what they're judging!
+
+To top things off, this month's judges are seasoned 7K mappoolers and mappers!
 
 ### Songs
 
@@ -126,10 +134,15 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 ## Rules
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - **osu!catch:** XXXXXXXXXXXXXXXX
-  - **osu!mania:** XXXXXXXXXXXXXXXX
+  - **osu!catch:** 
+    - Objects must be placed only on the left (`x:0` to `x:256`) or the right side (`x:256` to `x:512`) of the playfield.
+    - You can alternate which side of the playfield your objects are on every 4, 8, or 16 measures of music.
+  - **osu!mania:**
+    - **Submissions must be 7K.**
+    - **Map must be themed around a *round* between "Round of 32" and "Finals" from [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).**
+    - **Map must be themed around a *category* (a.k.a. "slot") used [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).** All categories are okay, excluding "dense chordstream" (RC2), "fast chordstream" (RC6), and "chordjack" (RC3).
+    - **Submissions must have the round and category in their tags.**
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
-- **osu!mania submissions must be in 4K or 7K.**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).** For osu!'s limitation, follow this in the most ambiguous way possible.
