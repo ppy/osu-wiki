@@ -23,6 +23,6 @@ stub: true
 
 ## 코드잭
 
-가치오시(ガチ押し)라고도 불리는 **코드잭(ChordJacks)**은 [동시치기](/wiki/Beatmap/Pattern/osu!mania/Chord)와 함께 여러 연타의 형태가 섞인 것을 뜻합니다. 이 용어는 일반적으로 [쿼드스트림](/wiki/Beatmap/Pattern/osu!mania/Stream#quadstream) 보다 더 밀도가 높은 패턴만을 가르킵니다. 따라서 더 많은 동시치기 사용 빈도가 나타납니다.
+가치오시(ガチ押し)라고도 불리는 **코드잭(ChordJacks)**&#8203;은 [동시치기](/wiki/Beatmap/Pattern/osu!mania/Chord)와 함께 여러 연타의 형태가 섞인 것을 뜻합니다. 이 용어는 일반적으로 [쿼드스트림](/wiki/Beatmap/Pattern/osu!mania/Stream#quadstream) 보다 더 밀도가 높은 패턴만을 가르킵니다. 따라서 더 많은 동시치기 사용 빈도가 나타납니다.
 
 ![](img/chordjack.png)
