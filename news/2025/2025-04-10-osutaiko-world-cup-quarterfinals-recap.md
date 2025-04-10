@@ -99,7 +99,7 @@ Having stirred the pot, the two teams began trading points: Australia winning [M
 
 While they remained tied at this point, Australia proved their dominance in reading skill with back-to-back wins on [yuha - Nou#m7 (feat. KAFU)](https://osu.ppy.sh/beatmapsets/2190945#taiko/4634009) (HD2) and [AQUASINE - you wouldn’t download a bird.](https://osu.ppy.sh/beatmapsets/2347271#taiko/5048585) (NM4)... but France did the same on the more finicky [Caravan Palace - City Cook](https://osu.ppy.sh/beatmapsets/2147535#taiko/4523594) (DT1) and [Schwank - BPM](https://osu.ppy.sh/beatmapsets/2347031#taiko/5047553) (FM2)! At this point, the counting connoisseurs among the viewers knew it was time for yet another tiebreaker.
 
-[Supire - Dead Aire](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624) rolled in to raise the tension, and despite an incredible Hidden performance from ::{ flag=AU }:: Jaye, Team France proved to be the bigger fish. Three sets of scores over nine-hundred-thousand bringing them a well-deserved victory.
+[Supire - Dead Aire](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624) (TB) rolled in to raise the tension, and despite an incredible Hidden performance from ::{ flag=AU }:: Jaye, Team France proved to be the bigger fish. Three sets of scores over nine-hundred-thousand bringing them a well-deserved victory.
 
 ### ::{ flag=SG }:: Singapore vs. ::{ flag=TW }:: Taiwan
 
@@ -109,7 +109,15 @@ While they remained tied at this point, Australia proved their dominance in read
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=1h6m16s&video=2424643241" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-placeholder
+One of the most intense matches so far, Singapore vs. Taiwan has surely kept viewers on their toes all the way through.
+
+Singapore held some solid momentum at the very start through [Yunosuke - Ziqqurat (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2347287#taiko/5048627) (NM6) and the majority of [yuha - Nou#m7 (feat. KAFU)](https://osu.ppy.sh/beatmapsets/2190945#taiko/4634009) (HD2). However, with one slip-up in the ending section of HD2, Taiwan jumped on the opportunity instantly and chipped away the score difference slowly but steadily, until it came to the **last second of the map**. Yes, you heard that right, Taiwan managed to clutch up the lead at exactly the last second, cementing the fact that they won’t be going down easy in this match.
+
+After a very intense accuracy battle and 6 FCs on [Mono. - skip&step](https://osu.ppy.sh/beatmapsets/2069452#taiko/4330009) (HR1) players headed onto the next pick, [DARK_GENE - GREEN MAMMALS (hyper mix)](https://osu.ppy.sh/beatmapsets/2347276#taiko/5048593) (FM1) where all 6 players decided that it’s time for a full HDHR lobby. Despite the uphill battle against Team Taiwan’s combo, Team Singapore was able to secure the point just by hitting the notes more accurately. 
+
+Only a couple of picks and intense neck in neck battles later, the unbelievable happens. Once again, Team Taiwan won [Pmarusama. - Tokimeki Broker](https://osu.ppy.sh/beatmapsets/2189313#taiko/4630501) after ::{ flag=SG }:: Prehistoria found an unfortunate miss on one of the last patterns in the map. Score lead quickly jumped over to the side of the Taiwanese team within the last few seconds of the map and brought another very fierce match to tiebreaker.
+
+After both teams used their well deserved 2-minute timeout to take a breather, everything came down to one last map. With [Supire - Dead Aire](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624) (TB) already playing in the background, the players knew they only had one last chance to come out on top. One player, namely ::{ flag=TW }:: HarryAda was brave enough to go into this tiebreaker with the Hidden mod enabled. This kept the score lead ever so slightly on the side of the Taiwanese team. Despite ::{ flag=SG }:: Blerargh’s high accuracy of 99.57%, Team Taiwan was able to pull through with the previously mentioned Hidden score multiplier, supported by ::{ flag=TW }:: HiGreeks’ combo of 2,349. It was just not enough for Team Singapore.
 
 ### ::{ flag=US }:: United States vs. ::{ flag=CL }:: Chile
 
@@ -131,12 +139,15 @@ Once again, [Supire - Dead Aire](https://osu.ppy.sh/beatmapsets/2347284#taiko/50
 
 ## Score highlights
 
-placeholder
+With a few really good scores this last weekend, a couple of them definitely stood out from the rest, which we by no means want to withhold from you!
+
+- ::{ flag=CL }:: ulko's stunning sliver SS on [yuha - Nou#m7 (feat. KAFU)](https://osu.ppy.sh/beatmapsets/2190945#taiko/4634009) (HD2) in their match against the United States, despite not winning the map, makes this one of the scariest threats to Team South Korea, as they will be facing Chile in this weekends Semifinals.
+- Not one, not two, but **three** players have shown, that even 39-second long streams is nothing they are afraid of. After 3:20 minutes of intense stream baking, ::{ flag=KR }:: Peaceful, ::{ flag=KR }:: Rosemarie and ::{ flag=US }:: SilverTyrant have hit all the notes with perfect accuracy on [CBR - Love Maker!!](https://osu.ppy.sh/beatmapsets/2347267#taiko/5048581) (NM5).
 
 ---
 
 We will be back for more next week but before that you should keep a close watch on [osulive Twitch channel](https://www.twitch.tv/osulive) to make sure you don't miss out on the next couple of exciting matches this upcoming semifinals weekend. Additionally, check out the schedules on the [TWC 2025 wiki page](/wiki/Tournaments/TWC/2025) and plan your weekend accordingly to not miss any of the action.
 
-See you soon!
+See you again soon!
 
 —Yasuho, Hivie, Raphalge, Teezel
