@@ -102,9 +102,9 @@ Take a look at [this map](https://osu.ppy.sh/beatmapsets/44807) or [this map](ht
 
 You might have heard that the osu!mania 7K World Cup ended in February. You were wrong. It's happening *right now*, and you're part of the mappooling team!
 
-For this month's contest, design a **7K map** with a style that fits a **round and category (a.k.a. "slot") from [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).** Keep these in mind:
+For this month's contest, design a **7K map** with a style that fits a **round and category (a.k.a. "slot") from [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K)**. Keep these in mind:
 
-- **Mappers must choose a *round* between "Round of 32" and "Finals".** No Grand Finals tier maps, sorry.
+- **Mappers must choose a *round* between "Round of 32" and "Finals".** No Grand Finals–tier maps, sorry.
 - **Mappers must choose a beatmap *category* used in the World Cup.** All categories are okay, excluding "dense chordstream" (RC2), "fast chordstream" (RC6), and "chordjack" (RC3).
 - **Submissions must have the round and category in their tags.** This allows judges to contextualise what they're judging!
 
