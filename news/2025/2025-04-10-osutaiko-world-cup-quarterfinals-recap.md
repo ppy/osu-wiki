@@ -79,7 +79,7 @@ Here are all the outcomes laid out:
 
 Switching things up to a Best of 13 format, the Quarterfinals had some very close matches for some teams. Interestingly enough: Every time the tiebreaker was played, the lower seeded team came out as the victor. Not all of them were able to pull through and come out on top however, so the following teams were unfortunately eliminated in the Quarterfinals: ::{ flag=PH }:: Philippines, ::{ flag=CH }:: Switzerland, ::{ flag=HK }:: Hong Kong, ::{ flag=VN }:: Vietnam, ::{ flag=PL }:: Poland, ::{ flag=CA }:: Canada, ::{ flag=AU }:: Australia, ::{ flag=NL }:: Netherlands, ::{ flag=FI }:: Finland, ::{ flag=SK }:: Slovakia, ::{ flag=ID }:: Indonesia & ::{ flag=NZ }:: New Zealand.
 
-Check out detailed statistics for this round [here](docs.google.com/spreadsheets/d/1HYP2llOprad492cK_JaKEV9B79wMk1OYN8c8xSpa2xIl).
+Check out detailed statistics for this round [here](https://docs.google.com/spreadsheets/d/1HYP2llOprad492cK_JaKEV9B79wMk1OYN8c8xSpa2xI).
 
 ## Match highlights
 
