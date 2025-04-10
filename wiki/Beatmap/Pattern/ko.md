@@ -6,7 +6,7 @@ tags:
 
 # 패턴
 
-**패턴**은 [비트맵](/wiki/Beatmap)에 있는 작은 집단의[히트 오브젝트](/wiki/Gameplay/Hit_object) 들이 의미 있게 배치된 것을 뜻합니다.
+**패턴**은 [비트맵](/wiki/Beatmap)에 있는 작은 집단의 [히트 오브젝트](/wiki/Gameplay/Hit_object) 들이 의미 있게 배치된 것을 뜻합니다.
 
 ## 일반적인 패턴 종류
 
