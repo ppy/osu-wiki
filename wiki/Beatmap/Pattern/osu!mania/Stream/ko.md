@@ -18,7 +18,7 @@ stub: true
 
 ## 점프스트림
 
-**점프스트림(Jumpstream)**&#8203;은 [점프](/wiki/Beatmap/Pattern/osu!mania/Chord#점프)를 포함하는 스트림입니다. 보통 스트림 자체는 1/4 스냅이고 점프는 더 높은 스냅에 위치합니다. 4 키 osu!maina에서 가장 흔한 스트림 패턴입니다
+**점프스트림**은 [점프](/wiki/Beatmap/Pattern/osu!mania/Chord#점프)를 포함하는 스트림입니다. 보통 스트림 자체는 1/4 스냅이고 점프는 더 높은 스냅에 위치합니다. 4키 osu!maina에서 가장 흔한 스트림 패턴입니다
 
 ![](img/jumpstream.png)
 이 용어는 주로 4키 osu!maina에 사용됩니다.
