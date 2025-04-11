@@ -22,7 +22,7 @@ Thường mất vài ngày để bộ phận hỗ trợ trả lời email. Nếu
 
 Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến tài khoản mà bạn không thể kiểm soát. Vui lòng nhớ cung cấp đầy đủ thông tin vấn đề của bạn càng tốt và gửi email từ địa chỉ liên kết với tài khoản osu! của bạn.
 
-### [accounts@ppy.sh](mailto:accounts@ppy.sh) 
+## [accounts@ppy.sh](mailto:accounts@ppy.sh) 
 
 - [Kháng cáo các hạn chế được áp dụng cho tài khoản của bạn](/wiki/Help_centre/Account_restrictions), bao gồm:
  - Các im lặng;
@@ -40,7 +40,7 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
 *Lưu ý: Để báo cáo một trường hợp hành vi sai trái nghiêm trọng hoặc lạm dụng tình dục từ bất kỳ người dùng nào, bao gồm cả người điều hành, vui lòng tham khảo mục [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Lo ngại về hành vi sai trái của một người điều hành.
-- Lo ngại về việc một người điều hành vi phạm [Quy tắc ứng xử của người đóng góp](/wiki/Rules/Contributor_code_of_conduct).
+- Lo ngại về việc một người điều hành vi phạm [Quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct).
 - [Vấn đề thanh toán](/wiki/Help_centre/Account#supporter) cho các đơn hàng từ [osu!store](https://osu.ppy.sh/store/listing).
 - Vấn đề kỹ thuật không thể hoặc chưa được giải quyết trên [diễn đàn hỗ trợ](https://osu.ppy.sh/community/forums/5), chẳng hạn như [vấn đề kết nối](/wiki/Help_centre/Client#online-features).
 
