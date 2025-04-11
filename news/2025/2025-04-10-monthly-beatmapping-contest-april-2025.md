@@ -105,10 +105,12 @@ You might have heard that the osu!mania 7K World Cup ended in February. You were
 For this month's contest, design a **7K map** with a style that fits a **round and category (a.k.a. "slot") from [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K)**. Keep these in mind:
 
 - **Mappers must choose a *round* between "Round of 32" and "Finals".** No Grand Finals–tier maps, sorry.
-- **Mappers must choose a beatmap *category* used in the World Cup.** All categories are okay, excluding "dense chordstream" (RC2), "fast chordstream" (RC6), and "chordjack" (RC3).
+- **Mappers must choose a beatmap *category* used in the World Cup.** All categories are okay, excluding "fast chordstream" (RC6) and "chordjack" (RC3).
 - **Submissions must have the round and category in their tags.** This allows judges to contextualise what they're judging!
 
 To top things off, this month's judges are seasoned 7K mappoolers and mappers!
+
+Additionally, we'll extraordinarily be collaborating with the [7K GLOBAL](NEW_FORUM_LINK) community. The best submission from each slot — as determined by the judges — will be pooled into the 7K GLOBAL event, and their mappers will be eligible for extra rewards!
 
 ### Songs
 
