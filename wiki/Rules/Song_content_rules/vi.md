@@ -17,7 +17,7 @@ Với một loạt các thể loại nhạc khác nhau có sẵn, hầu hết c�
 
 Vì lợi ích của việc giữ gìn một trò chơi về nhịp điệu hoàn toàn về nhịp điệu và vì tuân theo với [Quy tắc cộng đồng](/wiki/Rules#nội-quy-cộng-đồng) #3, nội dung bị xem là quá chính trị bởi chính quyền là không được phép.
 
-Chúng tôi không tuân theo một cực chính trị cụ thể nào - osu! là nơi hoàn toàn phi chính trị và chúng tôi muốn để mọi người yêu thích bản thân họ, chứ không phải bắt đầu mâu thuẫn hoặc cãi vã về chính trị.
+Chúng tôi không tuân theo một cực chính trị cụ thể nào - osu! là nơi hoàn toàn phi chính trị và chúng tôi muốn để mọi người tận hưởng, chứ không phải bắt đầu mâu thuẫn hoặc cãi vã về chính trị.
 
 ## Điều gì xảy ra nếu bản nhạc của tôi không ổn?
 
