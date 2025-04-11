@@ -110,7 +110,7 @@ For this month's contest, design a **7K map** with a style that fits a **round a
 
 To top things off, this month's judges are seasoned 7K mappoolers and mappers!
 
-Additionally, we'll extraordinarily be collaborating with the [7K GLOBAL](NEW_FORUM_LINK) community. The best submission from each slot — as determined by the judges — will be pooled into the 7K GLOBAL event, and their mappers will be eligible for extra rewards!
+Additionally, we'll extraordinarily be collaborating with the [7K GLOBAL](https://osu.ppy.sh/community/forums/topics/2065328?n=1) community. The best submission from each slot — as determined by the judges — will be pooled into the 7K GLOBAL event, and their mappers will be eligible for extra rewards!
 
 ### Songs
 
