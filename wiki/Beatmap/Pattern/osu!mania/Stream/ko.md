@@ -10,7 +10,7 @@ stub: true
 
 ![](img/stream.png "This image shows a specific type of stream known as a roll.")
 
-**롤(roll)**&#8203;은 노트들이 순차적으로 모든 행을 지나는 일반적인 스트림 종류입니다.
+**롤**은 노트들이 순차적으로 모든 열을 지나는 일반적인 스트림 종류입니다.
 
 한박자 보다 더 빠른 간격으로 나오는 스트림을 일반적으로 **폭타**라고 합니다. 보통 1/4간격 보다 좁은 간격을 가집니다.
 
