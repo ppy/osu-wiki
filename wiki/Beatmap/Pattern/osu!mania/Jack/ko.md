@@ -17,7 +17,7 @@ stub: true
 
 ## 축연타
 
-**축연타**는 4 또는 그 이상의 노트를 가지는 더 힘든 연타의 형태입니다. 일반적으로 다른 패턴과 분리되어 있습니다. 이 용어는 같은 [점프](/wiki/Beatmap/Pattern/osu!mania/Chord#점프)나 [핸드](/wiki/Beatmap/Pattern/osu!mania/Chord#점프)가 연속적으로 반복될 때도 사용될 수 있습니다.
+**축연타**는 4개 이상의 노트를 가지는 더 힘든 연타의 형태입니다. 일반적으로 다른 패턴과 분리되어 있습니다. 이 용어는 같은 [점프](/wiki/Beatmap/Pattern/osu!mania/Chord#점프)나 [핸드](/wiki/Beatmap/Pattern/osu!mania/Chord#핸드)가 연속적으로 반복될 때도 사용될 수 있습니다.
 
 ![](img/longjack.png)
 
