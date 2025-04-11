@@ -53,4 +53,4 @@ stub: true
 
 ![](img/bracket.png)
 
-이 용어는 4 키가 아닌 osu!maina 키 모드에서만 사용됩니다.
+이 용어는 4키가 아닌 osu!maina 키 모드에서만 사용됩니다.
