@@ -9,7 +9,7 @@ stub: true
 
 ![](img/ln.png)
 
-**릴리스(release)**&#8203;는 홀드 노트 끝을 뜻합니다. 다른 말로 키가 놓아져야 하는 부분입니다. [osu!mania 판정 시스템](/wiki/Gameplay/Judgement/osu!mania)에 놓는 타임잉이 포함되기 때문에 많은 중요도를 가지고 있습니다.
+**릴리스**는 홀드 노트 끝을 뜻합니다. 다른 말로 키가 놓아져야 하는 부분입니다. [osu!mania 판정 시스템](/wiki/Gameplay/Judgement/osu!mania)에 놓는 타이밍이 포함되기 때문에 많은 중요도를 가지고 있습니다.
 
 ## 쉴드
 
