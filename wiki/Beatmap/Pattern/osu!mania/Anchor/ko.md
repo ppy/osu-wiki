@@ -8,4 +8,4 @@ stub: true
 
 ![](img/anchor-within-jumpstreams.png "점프스트림 내의 앵커는 파란색으로 강조되어 있습니다.")
 
-![](img/anchor-within-chordjacks.png "Anchor within chordjacks, highlighted in blue.")
+![](img/anchor-within-chordjacks.png "코드잭 내의 앵커는 파란색으로 강조되어 있습니다.")
