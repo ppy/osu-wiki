@@ -29,7 +29,7 @@ stub: true
 
 ![](img/handstream.png)
 
-이 용어는 주로 4 키 osu!maina에 사용됩니다.
+이 용어는 주로 4키 osu!maina에 사용됩니다.
 
 ## 쿼드스트림
 
