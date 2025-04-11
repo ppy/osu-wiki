@@ -13,7 +13,7 @@ stub: true
 
 ## 쉴드
 
-**쉴드(shield)**&#8203;는 같은 행에서 홀드 노트 이전에 연속적으로 한 노트가 위치하였을때 발생합니다.[짧은 연타](/wiki/Beatmap/Pattern/osu!mania/Jack#짧은-연타)와 매우 비슷하게 플레이 됩니다.
+**쉴드**는 같은 열에서 홀드 노트 이전에 연속적으로 한 노트가 위치하였을때 발생합니다. [짧은 연타](/wiki/Beatmap/Pattern/osu!mania/Jack#짧은-연타)와 매우 비슷하게 플레이 됩니다.
 
 ![](img/shield.png)
 
