@@ -25,7 +25,7 @@ stub: true
 
 ## 핸드스트림
 
-**핸드스트림(Handstream)**&#8203;은 [핸드](/wiki/Beatmap/Pattern/osu!mania/Chord#핸드)를 포함하는 스트림이고 점프도 또한 포함할 수 있습니다. 점프스트림처럼 스트림 자체는 1/4 스냅에 있고 점프는 더 높은 스냅에 위치합니다.
+**핸드스트림**은 [핸드](/wiki/Beatmap/Pattern/osu!mania/Chord#핸드)를 포함하는 스트림이며, 점프도 포함할 수 있습니다. 점프스트림처럼 스트림 자체는 1/4 스냅에 있지만 점프는 더 높은 스냅에 위치합니다.
 
 ![](img/handstream.png)
 
