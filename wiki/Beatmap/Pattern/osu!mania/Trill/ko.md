@@ -20,7 +20,7 @@ stub: true
 
 ![](img/jumptrill.png)
 
-다른 종류 **스플릿 트릴(split trill)**&#8203;은 각각의 동시키기를 두 손으로 치는것을 요구합니다.
+다른 종류 **스플릿 트릴**은 각각의 동시키기를 두 손으로 치는것을 요구합니다.
 
 ![](img/splittrill.png)
 
