@@ -15,7 +15,7 @@ tags:
 ### osu!
 
 - [점프](osu!/Jump)
-- [Stream](osu!/Stream)
+- [스트림](osu!/Stream)
 
 ### osu!mania
 
