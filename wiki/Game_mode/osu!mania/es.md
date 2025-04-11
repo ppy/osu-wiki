@@ -22,7 +22,7 @@ Por ejemplo, *4K↓* significa que se jugará con cuatro (4) teclas con un juici
 
 Ten en cuenta que el juicio de un beatmap se determina automáticamente.
 
-#### Beatmaps específicos de osu! y diferencias en la conversión a osu!mania
+#### Diferencias entre los beatmaps específicos de osu!mania y los convertidos desde otros modos de juego
 
 Al convertir un beatmap que sea de otro modo de juego, el rango de teclas predeterminado será de entre 4 y 7 teclas.
 
@@ -101,7 +101,7 @@ La configuración actual predeterminada de las teclas está basada en un estilo 
 *Solía haber* dos estilos diferentes de asignaciones de teclas, *simétrico* y *de izquierda a derecha*:
 
 - El estilo *simétrico* mimetiza el posicionamiento de los botones de *DJMAX*, en el cual la tecla central es la `Barra espaciadora` para simular la sensación de pisar el pedal similar a la versión arcade. La tecla central coincide con la columna central (solo números de teclas impares) y la otra columna coincide con las teclas de su lugar correspondiente.
-- El estilo *de izquierda a derecha* imita el posicionamiento de los botones de *Beatmania IIDX*, donde la primera columna coincide con la *tecla1*, luego la segunda con la *tecla2* y así sucesivamente. 
+- El estilo *de izquierda a derecha* imita el posicionamiento de los botones de *Beatmania IIDX*, donde la primera columna coincide con la *tecla1*, luego la segunda con la *tecla2* y así sucesivamente.
   - Sin embargo, se eliminó la opción de elegir entre estos dos y el estilo actual se basa en el estilo «simétrico». Por razones de legado, el estilo «de izquierda a derecha» se mantiene aquí.
 
 Asignación de teclas *simétrico* (para el estilo *DJMAX*)
