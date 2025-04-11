@@ -5,6 +5,7 @@ stub: true
 # 연타
 
 잭이라고도 불리는 **연타**는 일반적으로 같은 열에 세 개 이상의 노트가 있는 것을 뜻합니다. 연타는 보통 1/4 또는 그 이상의 간격으로 스냅 되어 있으며, [앵커](/wiki/Beatmap/Pattern/osu!mania/Anchor)와 다르게 전반적으로 더 적은 노트 수를 가지고 있습니다. 잭은 종종 음악에서 연속적으로 반복되는 소리를 표현합니다.
+
 잭을 칠 때 요구되는 움직임이 잭 해머와 비슷하여서 잭이라고 불립니다.
 
 ![](img/jack.png "A jack in the traditional sense of the word.")
