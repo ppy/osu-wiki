@@ -18,7 +18,7 @@ Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đ
 
 Như một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ hoặc viết các từ ngữ miệt thị/lời lẽ xúc phạm (như swastika, v.v.) bằng khói con trỏ trong các trận đấu phát trực tiếp.
 
-Tất cả người dùng quay lại trò chơi sau khi bị hạn chế theo điều kiện kháng cáo tiêu chuẩn đều kèm theo một [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons). Điều này có thể được kéo dài tùy chọn theo quyết định của [tài khoản hỗ trợ nhóm](/wiki/People/Account_support_team).
+Tất cả người dùng quay lại trò chơi sau khi bị hạn chế theo điều kiện kháng cáo tiêu chuẩn đều kèm theo một [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons). Điều này có thể được kéo dài tùy chọn theo quyết định của [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team).
 
 ## Điều gì gây ra khiến ai đó nhận được cấm thi đấu vô thời hạn?
 
@@ -28,7 +28,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 
 - Như đã nêu ở trên, bất kỳ việc sử dụng công cụ gian lận của bên thứ ba hoặc tiện ích nào để giành lợi thế
 - Sử dụng nhiều tài khoản để tham gia giải đấu
-- Cố gắng để trốn tránh lệnh cấm hay vi phạm bằng cách sử dụng tài khoản khác
+- Cố gắng để trốn tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác
 - Chia sẻ tài khoản trong suốt/trong lúc tham gia một giải đấu hỗ trợ chính thức
 - Kết hợp để thu thập hoặc theo cách khác để sử dụng thông tin riêng tư nhằm giành được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
 - Lạm dụng các vị trí tin cậy để đạt được hoặc mang lại lợi thế ( sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
