@@ -45,25 +45,24 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ## Adding Beatmaps
 
-**Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
+*Note: Make sure the device can connect to the Internet (either by Wi-Fi or 3G/4G).*
 
 - Open osu!stream.
-- Press the osu! symbol and it should be directed to the main menu (or tutorial if first time)
+- Press the osu! symbol to go to the main menu (or tutorial if playing for the first time)
 - Press the "Store" bar
   - Alternatively, head to "Play" and press "Download more songs!"
 - Select a desired pack.
 
 ## What is the difference?
 
-- **Playable on any iOS devices only.** (for now)
 - Beatmaps are made from scratch.
 - No account needed to download the song packs.
-- Can integrate osu!stream with a Twitter account.
-- High score may be sent anonymously to the site under the name of "Guest" (requires Internet connection).
+- osu!stream can be integrated with a Twitter account on iOS.
+- High scores may be submitted anonymously under the name of "Guest" (requires an internet connection).
 - The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play. \[Bottom(Long)\]
 - **Average Timing** is given at the grade page.
 - Old records and replays cannot be saved.
-- Cannot change skin nor can apply any mods (yet).
+- The default skin cannot be changed and mods are not available (yet).
 - Easter Eggs can be found but there is no Achievement page...
 
 ### New gameplay system
