@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: dcd2a38fb52e9427609446990b0219aa37128dc7
+---
+
 # Información general para los Beatmap Nominators
 
 ¿Eres un [Beatmap Nominator](/wiki/People/Beatmap_Nominators) *(BN)* o estás interesado en convertirte en uno? Si es así, ¡has venido al lugar adecuado! En este artículo encontrarás toda la información general que necesitas saber como un nuevo Beatmap Nominator.
