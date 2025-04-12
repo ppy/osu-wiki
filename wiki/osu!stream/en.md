@@ -313,12 +313,14 @@ The following will not increase or reset the score multiplier:
 
 **Normal grades**
 
-- SS = 100% accuracy
-- S = Over 90% accuracy
-- A = Over 80% accuracy
-- B = Over 70% accuracy
-- C = Over 60% accuracy
-- D = Anything else.
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% accuracy |
+| S | Over 90% accuracy |
+| A | Over 80% accuracy |
+| B | Over 70% accuracy |
+| C | Over 60% accuracy |
+| D | Anything else |
 
 ### Life meter
 
