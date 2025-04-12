@@ -254,13 +254,13 @@ Additionally, each slider start, end, and repeat tick awards 30 points and each 
 
 ### Hit circle judgement
 
-**Hit-circles**
+#### Hit-circles
 
 - A 300, 100 or 50 is awarded from a normal hit circle depending on the tap accuracy.
 - A miss is given if a hit circle was tapped too early or not tapped at all.
   - If tapped on it really, really early, the object will shake instead. Nothing will happen technically except visually telling that it was tapped too early.
 
-**Hold-circle**
+#### Hold-circle
 
 - The judgement of the hold circle depends on the initial tap and the hold time before exploding.
   - 300 if done perfectly.
@@ -269,7 +269,7 @@ Additionally, each slider start, end, and repeat tick awards 30 points and each 
   - 30 for every explosion.
   - Multiplier resets if the circles were not hold properly and Miss for not holding at all.
 
-**Sliders**
+#### Sliders
 
 - **The judgement for sliders depends on the accuracy of the initial tap**.
 - Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
@@ -279,7 +279,7 @@ Additionally, each slider start, end, and repeat tick awards 30 points and each 
 - **Clicking a slider way too early** does not incur a miss, but **will reset the score multiplier to 0**.
 - A miss if the slider was not held at all.
 
-**Spinner**
+#### Spinner
 
 - For a spinner, a 300, 100 or 50 depending on the number of spins done compared to the length of the spinner.
 - A miss if unable to fill the meter shown on both sides of the spinner.
