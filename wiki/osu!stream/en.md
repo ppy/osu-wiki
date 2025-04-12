@@ -22,24 +22,24 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ![](img/Os-Devices.jpg "osu!stream in iOS devices")
 
-### iOS App Store method (suggested)
+### App Store method (suggested)
 
-**Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
+*Note: Make sure the device can connect to the Internet (either by Wi-Fi or 3G/4G).*
 
-- Go to "App Store" from the iOS device
+- Go to "App Store" from the iOS device or "Play Store" on Android.
 - Search for osu!stream
 - Press and install osu!stream
-  - If prompted to key-in the Apple ID and the password, please do so.
-- osu!stream can be played after the download and auto-installation is completed.
-  - It is suggested to read the [Adding Beatmaps](#adding-beatmaps) section too to get the latest free songs pack. The current download contains only 2 songs.
+  - If prompted to type in any account details, please do so.
+- osu!stream can be played after the download and installation is completed.
+- It is recommended to read the [Adding Beatmaps](#adding-beatmaps) section too to get the latest free songs pack. The current download contains only 2 songs.
 
-### USB method
+### USB method (iOS-only)
 
-**Device must have [iTunes](https://www.apple.com/itunes/) installed.**
+*Notice: For this method, [iTunes](https://www.apple.com/itunes/) must be installed.*
 
-- Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
-  - If requested for Apple ID, key-in the Apple ID and the password.
-- Plug-in the iOS device to the device (that has osu!stream).
+- Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
+  - If requested for Apple ID, type in the Apple ID and the password.
+- Plug-in the iOS device to the device on which osu!stream is installed.
 - Transfer the osu!stream files using iTunes.
 - Unplug the iOS device and osu!stream can be played.
 
