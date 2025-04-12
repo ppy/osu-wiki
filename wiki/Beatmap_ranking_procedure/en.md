@@ -38,7 +38,7 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 ## Qualification
 
-Beatmaps that receive two nominations per each available game mode are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
+Beatmaps that receive two nominations for the primary game mode are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category.[^hybrid-sets] Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
 
@@ -55,3 +55,7 @@ Members of the BN and NAT occasionally [veto](/wiki/People/Beatmap_Nominators/Be
 Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have [score leaderboards](/wiki/Ranking) and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.
+
+## Annotations
+
+[^hybrid-sets]: For beatmaps with difficulties across multiple game modes, the main game mode is the mode with the most difficulties in total or–if the amount is the same–by the creator. Non-primary game modes require only one nomination by a full BN.
