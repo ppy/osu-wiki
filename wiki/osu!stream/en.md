@@ -90,8 +90,6 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ![](img/Os-HC.jpg "Hold circle 1")
 
----
-
 ![](img/Os-HC2.jpg "Hold circle 2")
 
 - Hold circle requires the player to hold the circle until the circle "explodes".
@@ -101,23 +99,13 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ### New Modes to replace the difficulty
 
----
-
 ![](img/Os-PlayEasy.png "Easy")
-
----
 
 ![](img/Os-PlayNormal.png "Normal")
 
----
-
 ![](img/Os-PlayHard.png "Hard")
 
----
-
 ![](img/Os-PlayExpert.jpg "Expert")
-
----
 
 #### Easy mode
 
@@ -143,23 +131,13 @@ Do note the player **must score at least A (>80% accuracy) rank in this mode in 
 
 The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 
----
-
 ![](img/Os-SU.png "Stream Up!")
-
----
 
 ![](img/Os-SD.png "Stream Down!")
 
----
-
 ![](img/Os-Zero1.png "Critical health")
 
----
-
 ![](img/Os-Zero2.png "Game Over")
-
----
 
 #### Expert mode
 
@@ -173,55 +151,29 @@ The background colour is Purple and the lights will darken depending on current 
 
 ## Interface
 
----
-
 ![](img/Os-MM.png "Main Menu")
-
----
 
 ![](img/Os-SL.jpg "Song list")
 
----
-
 ![](img/Os-Store.jpg "Store screen")
-
----
 
 ![](img/Os-DS.png "Selecting style menu")
 
----
-
 ![](img/Os-SI.png "Song Information")
-
----
 
 ![](img/Os-PlayExpert.jpg "Expert")
 
----
-
 ![](img/Os-Pause.png "Pause menu")
-
----
 
 ![](img/Os-FM.png "Failed menu")
 
----
-
 ![](img/Os-SC.png "Stage cleared!")
-
----
 
 ![](img/Os-Grade.jpg "Grade screen")
 
----
-
 ![](img/Os-O1.png "Option screen 1")
 
----
-
 ![](img/Os-O2.png "Option screen 2")
-
----
 
 ## Scoring
 
