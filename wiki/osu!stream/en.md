@@ -22,9 +22,9 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ![](img/Os-Devices.jpg "osu!stream in iOS devices")
 
-### App Store method (suggested)
+### App Store method (recommended)
 
-*Note: Make sure the device can connect to the Internet (either by Wi-Fi or 3G/4G).*
+*Note: Make sure the device can connect to the Internet (either by Wi-Fi or mobile data).*
 
 - Go to "App Store" from the iOS device or "Play Store" on Android.
 - Search for osu!stream
@@ -33,7 +33,7 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 - osu!stream can be played after the download and installation is completed.
 - It is recommended to read the [Adding Beatmaps](#adding-beatmaps) section too to get the latest free songs pack. The current download contains only 2 songs.
 
-### USB method (iOS-only)
+### USB method (legacy, iOS-only)
 
 *Notice: For this method, [iTunes](https://www.apple.com/itunes/) must be installed.*
 
@@ -45,7 +45,7 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ## Adding Beatmaps
 
-*Note: Make sure the device can connect to the Internet (either by Wi-Fi or 3G/4G).*
+*Note: Make sure the device can connect to the Internet (either by Wi-Fi or mobile data).*
 
 - Open osu!stream.
 - Press the osu! symbol to go to the main menu (or tutorial if playing for the first time)
@@ -59,10 +59,10 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 - No account needed to download the song packs.
 - osu!stream can be integrated with a Twitter account on iOS.
 - High scores may be submitted anonymously under the name of "Guest" (requires an internet connection).
-- The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play. \[Bottom(Long)\]
+- The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play.
 - **Average Timing** is given at the grade page.
 - Old records and replays cannot be saved.
-- The default skin cannot be changed and mods are not available (yet).
+- The default skin cannot be changed and mods are not available.
 - Easter Eggs can be found but there is no Achievement page...
 
 ### New gameplay system
