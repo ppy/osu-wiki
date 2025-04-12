@@ -243,6 +243,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ## Match results
 
+### Semifinals
+
+Saturday, 12 April 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/117769305) | [#1](https://www.twitch.tv/videos/2430801121?t=0h4m46s) |
+| Malaysia ::{ flag=MY }:: | 3 | **6** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/117770524) | [#1](https://www.twitch.tv/videos/2430871681?t=0h6m52s) |
+| **Singapore** ::{ flag=SG }:: | **6** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/117770492) | [#1](https://www.twitch.tv/videos/2430927466) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/117772651) | [#1](https://www.twitch.tv/videos/2425207564?t=0h4m42s) |
+
 ### Quarterfinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1HYP2llOprad492cK_JaKEV9B79wMk1OYN8c8xSpa2xI?rm=minimal).
