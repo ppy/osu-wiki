@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Terminal 11"
-date: 2025-04-13 21:00:00 +0000
+date: 2025-04-13 15:30:00 +0000
 ---
 
 You've reached the end of the line. A new realm of music is here.
@@ -16,10 +16,10 @@ Take a peek:
 
 ### [Terminal 11 - Echoes](https://assets.ppy.sh/artists/470/Echoes/Terminal%2011%20-%20Echoes.osz)
 
-This year's osu!taiko World Cup gave some love to **Terminal 11** too! Earlier today, [Echoes](LINK) (mapped by [USER](LINK)) was showcased as part of the Finals mappool!
+This year's osu!taiko World Cup gave some love to **Terminal 11** too! Earlier today, [Echoes](https://osu.ppy.sh/beatmapsets/2354615) (mapped by [Xay](https://osu.ppy.sh/users/961417)) was showcased as part of the Finals mappool!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LINK" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/P0vgkkz0DTs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### [Terminal 11 - Fury](https://assets.ppy.sh/artists/470/Self%20Exorcism/Terminal%2011%20-%20Fury.osz)
