@@ -10,7 +10,7 @@ You've reached the end of the line. A new realm of music is here.
 
 **Terminal 11** is a longstanding icon in the experimental music field, producing avant-garde tunes since 1999. With a sound perfectly catering to osu!taiko and osu!mania players seeking the maximalist rhythmic complexity, **Terminal 11** has become a staple of the Loved category in both modes.
 
-**8** unorthodox tracks have made their way to [**Terminal 11**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/470). Given your mapping input, they'll make their way to the Ranked beatmaps listing too.
+**8** unorthodox tracks have made their way to [**Terminal 11**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/470). Given your mapping input, they'll make their way to the Ranked beatmap listing too.
 
 Take a peek:
 
