@@ -4,7 +4,7 @@ osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requ
 
 ## Song selection
 
-To access the osu!catch game mode press `Ctrl` + `3` at the same time, or use the the `Mode` button and select `osu!catch` in osu!(stable) or click the ![](/wiki/shared/mode/catch.png) icon on the top of the screen for osu!(lazer).
+To access the osu!catch game mode press `Ctrl` + `3` at the same time, use the the `Mode` button and select `osu!catch` in osu!(stable) or click the ![](/wiki/shared/mode/catch.png) icon on the top of the screen for osu!(lazer).
 
 To download more beatmaps for osu!catch, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `beatmap listing` button 
 
@@ -15,9 +15,9 @@ To download more beatmaps for osu!catch, head to the [beatmap listing](https://o
 In osu!catch, the player is supposed to catch falling fruits by controlling a **catcher** (also known as a "platter") to the rhythm of the music. By default the keys to control the catchers movements are:
 
 - the left `<-` and right `->` or `Z` and `X` keys to move the catcher left and right respectively.
-- Press and hold the left `Shift` key or the left mouse button to activate a *dash* state which is recognisable by it making the platter *glow brightly* and leaving an afterimage while moving. Moving while in the dash state is **twice as fast** than normal.  
+- Press and hold the left `Shift` key or the left mouse button to activate a *dash* state which is recognisable by it making the platter *glow brightly* and leaving an afterimage while moving. Moving while in the dash state is **twice as fast** compared to regular movement.  
 
-The placement of the mouse cursor *does not* affect gameplay unless [Relax](/wiki/Gameplay/Game_modifier/Relax) mod is enabled, which makes the platter directly follow the cursor. 
+The placement of the mouse cursor *does not* affect gameplay unless the [relax](/wiki/Gameplay/Game_modifier/Relax) mod is enabled, which makes the platter directly follow the cursor. 
 
 ## Hit objects
 
@@ -47,7 +47,7 @@ Small droplets give 10 points each and do not affect combo, while large droplets
 
 While a **banana shower** is active, large bananas will pour from the sky and shrink down. Catching bananas (or missing them) does not affect combo, but if caught they reward 1,100 score each and regenerate a portion of the players missing health. Each banana will always reward 1,100 score regardless of mod and combo multiplier.  
 
-Notably, [Auto](/wiki/Gameplay/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail, even if it is not possible in normal gameplay.
+Notably, the [auto](/wiki/Gameplay/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail, even if it is not possible in normal gameplay.
 
 ## Hyperfruits
 
@@ -74,7 +74,7 @@ In osu!(lazer), each of the settings can be altered to the user's preferences us
 
 ## Play styles
 
-*Main page: [Play Style page under osu!catch](/wiki/Gameplay/Play_style#osu!catch).*
+*Main page: [play style page under osu!catch](/wiki/Gameplay/Play_style#osu!catch).*
 
 ## Scoring
 
@@ -84,20 +84,20 @@ In osu!(lazer), each of the settings can be altered to the user's preferences us
 - [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. In osu!catch, combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by missing a large fruit or a drop, which also decreases [health](/wiki/Gameplay/Health).
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!catch) shows how many objects were caught in total. Small droplets decrease accuracy when missed, but do not break combo.
 
-After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!catch), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of missed objects.
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!catch) - a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of missed objects.
 
 ## Skinning
 
-*Refer to [Skinning page of osu!catch](/wiki/Skinning/osu!catch) for full information.*
+*Main page: [skinning page of osu!catch](/wiki/Skinning/osu!catch)*
 
 ## Beatmapping
 
 ### osu! conversion notes
 
-- Horizontal-axis placement determines the falling point of the fruits(hit circle) or fruit trails(slider).
+- Horizontal-axis placement determines the falling point of the fruits(hit circle) or juice streams(slider).
 - The appearance is based on the timing set to clear it, as usual.
-- Speed of fruit trail is similar to slider ball speed.
-- Spinner creates a banana rain.
+- Speed of fruit trails is similar to slider ball speed.
+- Spinners creates banana showers.
 
 **Note:** Hyperfruits are automatically generated.
 
@@ -105,17 +105,16 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 ### Gameplay
 
-- [Auto](/wiki/Gameplay/Game_modifier/Auto) will *always* collect all the bananas.
-- If `Hit-error` was enabled, it will always use `Colour`.
+- [Auto](/wiki/Gameplay/Game_modifier/Auto) mod will *always* collect all the bananas and the player name will be shown as *"osu!salad"*.
+- If `Hit-error` is enabled, it will always use `Colour` setting.
 - The catcher can be moved around during any break.
-- The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
-- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) until 2014, which was replaced by current catcher and mascot, [Yuzu](/wiki/Mascots#yuzu).
-- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be *salad!*.
+- The catcher has a miss animation, much like osu!taiko pippidon's miss animation.
+- The first default catcher was a chibified version of Ryuuta Ippongi (from [the ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)). He was replaced in 2014 by current default catcher and mascot, [Yuzu](/wiki/Mascots#yuzu).
 
 ### History
 
 ![osu!catch logo in the Special Modes](/wiki/shared/Ctb_logo.jpg "Catch the Beat logo in Special Mode")
 
-- Until 10 April 2012 (2012-04-10), osu!catch maps could not be ranked or be included in ranked maps. However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines. These guidelines are very much a work in progress, but as more osu!catch maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu! guidelines.
-- The first ranked beatmap which contains at least one osu!catch difficulty is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch guest difficulty mapped by Uran](https://osu.ppy.sh/beatmapsets/13676).
-- The first ranked osu!catch-only beatmap is [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485).
+- Until april 10th 2012 (2012-04-10), osu!catch maps could not be ranked or be included in ranked maps. However, this is no longer the case and mappers may make and rank osu!catch-specific difficulties and mapsets, provided they follow the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21catch).
+- The first ranked beatmap which contains at least one osu!catch difficulty is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) ](https://osu.ppy.sh/beatmapsets/13676), with the mapset being hosted by ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) and the osu!catch guest difficulty mapped by ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302).
+- The first ranked osu!catch-only beatmap is [Rita - Hajimari no Toki ](https://osu.ppy.sh/beatmapsets/91485) which is hosted and made by - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565).
