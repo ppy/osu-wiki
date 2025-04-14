@@ -409,7 +409,7 @@ Domingo, 9 de noviembre de 2014:
    - Un beatmap será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate.
 3. El cronograma de los partidos será establecido por los administradores del torneo (consulta más abajo).
 4. Si no hay personal o árbitro disponible, el partido será pospuesto.
-5. La puntuaciones fallidas de un jugador no se suma a la puntuación del equipo.
+5. La puntuaciones fallidas de un jugador no se sumarán a la puntuación del equipo.
    - Revivir y sobrevivir durante un mapa se considera como pasarlo.
 6. Está permitido usar las opciones de la [configuración visual](/wiki/Client/Interface/Visual_settings)
 7. Si el beatmap termina en un empate, el juego será anulado.
