@@ -414,7 +414,7 @@ Domingo, 8 de noviembre de 2015:
    - Un beatmap será asignado como mapa de desempate. Este beatmap solo podrá ser jugado en caso de empate.
 4. El cronograma de los partidos será establecido por los administradores del torneo (consulta más abajo).
 5. Si no hay personal o árbitro disponible, el partido será pospuesto.
-6. Las puntuaciones fallidas de un jugador no se suman a la puntuación del equipo.
+6. Las puntuaciones fallidas de un jugador no se sumarán a la puntuación del equipo.
    - Revivir y sobrevivir durante un mapa se considera como pasarlo.
 7. Está permitido usar las opciones de la [configuración visual](/wiki/Client/Interface/Visual_settings).
 8. Si el beatmap termina en un empate, el juego será anulado.
@@ -442,7 +442,7 @@ Domingo, 8 de noviembre de 2015:
 
 ### Registro del torneo
 
-1. Cada usuario interesado en formar parte del equipo de su país se registra individualmente.
+1. Cada usuario interesado en formar parte del equipo de su país debe registrarse individualmente.
    - Los administradores del torneo crearán una lista de posibles candidatos para el equipo de un país.
    - Los administradores del torneo declararán a un candidato como capitán para la selección de su país, aunque de forma temporal.
    - El capitán declarado puede formar su equipo a partir de la lista de candidatos de su país.
@@ -498,7 +498,7 @@ Domingo, 8 de noviembre de 2015:
    - En caso de empate, se debe jugar el mapa de desempate.
 7. Los resultados se publicarán a través del sitio web de estadísticas.
 
-### Instrucciones de la mappool
+### Instrucciones del mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los octavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales.
    - Las finales de la semana 1 y las finales de la semana 2 usan el mismo mappool.
