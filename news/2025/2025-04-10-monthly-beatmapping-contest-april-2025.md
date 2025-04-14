@@ -142,7 +142,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
   - **osu!mania:**
     - **Submissions must be 7K.**
     - **Map must be themed around a *round* between "Round of 32" and "Finals" from [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).**
-    - **Map must be themed around a *category* (a.k.a. "slot") used [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).** All categories are okay, excluding "dense chordstream" (RC2), "fast chordstream" (RC6), and "chordjack" (RC3).
+    - **Map must be themed around a *category* (a.k.a. "slot") used [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).** All categories are okay, excluding "fast chordstream" (RC6) and "chordjack" (RC3).
     - **Submissions must have the round and category in their tags.**
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
