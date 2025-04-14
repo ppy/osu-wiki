@@ -127,6 +127,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ### Finals
 
+**[Download the mappack here (78 MB)](https://packs.ppy.sh/P282%20-%20osu!taiko%20World%20Cup%202025%3A%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2431800861?t=1h28m34s)
 
 - No Mod
@@ -135,7 +136,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
   3. [Saitama Saisyu Heiki - Providence (Zetera) \[Exceed\]](https://osu.ppy.sh/beatmapsets/2354611#taiko/5069512)
   4. [Amanogawa Converter - Never play me (ZTH) \[Fool\]](https://osu.ppy.sh/beatmapsets/2354618#taiko/5069528)
   5. [Spire of Lazarus - Big Hat Logan (Xay) \[t\]](https://osu.ppy.sh/beatmapsets/2354620#taiko/5069531)
-  6. *Ludicin - Signal (Skid) \[No Loser\] (link pending)*
+  6. [Ludicin - Signal (Skid) \[No Loser\]](https://osu.ppy.sh/beatmapsets/2354876#taiko/5070177)
   7. [hugepulse - Kaitei Gensou Toshi (\_Rise) \[Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1955875#taiko/5069532)
 - Hidden
   1. [TOMOYU & Supire feat. RIHINA - greenREgeneration (shoucan91) \[oyasuminasai.\]](https://osu.ppy.sh/beatmapsets/2354626#taiko/5069549)
@@ -144,7 +145,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
   1. [KERO - Color Printer (SimplySynthy) \[Personal Computer\]](https://osu.ppy.sh/beatmapsets/2167213#taiko/4572334)
   2. [BilliumMoto - Sentinel (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2354654#taiko/5069626)
 - Double Time
-  1. *KNOWER - Time Traveler (Foxeru) \[glorp backwards!\] (link pending)*
+  1. [KNOWER - Time Traveler (Foxeru) \[glorp backwards!\]](https://osu.ppy.sh/beatmapsets/2354840#taiko/5070071)
   2. [BAND-MAID - Choose me (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2259400#taiko/4808229)
 - Free Mod
   1. [Umeboshi Chazuke - Galaxy in Toybox (maziari1105) \[The Chipstyle World\]](https://osu.ppy.sh/beatmapsets/559156#taiko/1182564)
