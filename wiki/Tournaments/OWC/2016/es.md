@@ -396,7 +396,7 @@ Domingo, 13 de noviembre de 2016:
    - Un mapa será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate.
 4. El cronograma de los partidos será establecido por los administradores del torneo. Las regulaciones específicas se pueden encontrar en la parte inferior.
 5. Si no hay personal o árbitro disponible, el partido será pospuesto.
-6. Las puntuaciones fallidas de un jugador no se suman a la puntuación del equipo.
+6. Las puntuaciones fallidas de un jugador no se sumarán a la puntuación del equipo.
    - Revivir y sobrevivir durante un mapa se considera como pasarlo.
 7. Está permitido usar las opciones de la [configuración visual](/wiki/Client/Interface/Visual_settings).
 8. Si el beatmap termina en un empate, el juego será anulado.
