@@ -22,23 +22,19 @@ The duration of a hit object that stays visible on the screen (without mods) ran
 See the infographic and formulas below for an overview:
 
 ```
-                                       X = hit/collect
-             p r e e m p t             ↓
-├───────────────────────┬──────────────┤
-0%       fade_in          100% opacity
+               p r e e m p t             X = hit/collect
+0%                        66%            ↓
+├──────────────────────────┬─────────────┤
+         fade_in            full opacity
 ```
 
 The hit object starts fading in at `X - preempt` with:
 
-- AR < 5: `preempt = 1200ms + 600ms * (5 - AR) / 5`
+- AR < 5: `preempt = 120ms * (15 - AR)`
 - AR = 5: `preempt = 1200ms`
-- AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
+- AR > 5: `preempt = 150ms * (13 - AR)`
 
-The amount of time it takes for the hit object to completely fade in is also reliant on the approach rate:
-
-- AR < 5: `fade_in = 800ms + 400ms * (5 - AR) / 5`
-- AR = 5: `fade_in = 800ms`
-- AR > 5: `fade_in = 800ms - 500ms * (AR - 5) / 5`
+Hit object competely fade in at 2/3 of preempt time. 
 
 ### Table comparison
 
