@@ -37,8 +37,8 @@ The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!ma
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, profile badge (pending) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, profile badge (pending) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag, profile badge (pending) |
-| 4th-6th place | $10 USD |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, profile badge (pending) |
+| 4th–6th place | $10 USD |
 
 ![](img/thmc4-badge-1st.png "THMC4 winner badge") ![](img/thmc4-badge-2nd.png "THMC4 2nd-place badge") ![](img/thmc4-badge-3rd.png "THMC4 3rd-place badge")
 
