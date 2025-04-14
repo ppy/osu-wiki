@@ -4,7 +4,7 @@ osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requ
 
 ## Song selection
 
-To access the osu!catch game mode press `Ctrl` + `3` at the same time, use the the `Mode` button and select `osu!catch` in osu!(stable) or click the ![](/wiki/shared/mode/catch.png) icon on the top of the screen for osu!(lazer).
+To access the osu!catch game mode press `Ctrl` + `3` at the same time, use the the `Mode` button and select `osu!catch` in osu!(stable), or click the ![](/wiki/shared/mode/catch.png) icon on the top of the screen for osu!(lazer).
 
 To download more beatmaps for osu!catch, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `beatmap listing` button 
 
@@ -15,7 +15,7 @@ To download more beatmaps for osu!catch, head to the [beatmap listing](https://o
 In osu!catch, the player is supposed to catch falling fruits by controlling a **catcher** (also known as a "platter") to the rhythm of the music. By default the keys to control the catchers movements are:
 
 - the left `<-` and right `->` or `Z` and `X` keys to move the catcher left and right respectively.
-- Press and hold the left `Shift` key or the left mouse button to activate a *dash* state which is recognisable by it making the platter *glow brightly* and leaving an afterimage while moving. Moving while in the dash state is **twice as fast** compared to regular movement.  
+- Press and hold the left `Shift` key or the left mouse button to activate a *dash* state which is recognizable by it making the platter *glow brightly* and leaving an afterimage while moving. Moving while in the dash state is **twice as fast** compared to regular movement.  
 
 The placement of the mouse cursor *does not* affect gameplay unless the [relax](/wiki/Gameplay/Game_modifier/Relax) mod is enabled, which makes the platter directly follow the cursor. 
 
@@ -29,15 +29,15 @@ osu!catch has 3 main [hit objects](/wiki/gameplay/Hit_object) the player interac
 
 ### Fruits
 
-![An image of fruits](/wiki/shared/Catch_fruits.jpg "fruits from osu!catch ")
+![An image of fruits](/wiki/shared/Catch_fruits.jpg "fruits from osu!catch")
 
 **Fruits** are the simplest object type in osu!catch. All the user is required to do is move the catcher under the fruit so it will fall on to the plate rather than over it.
 
-Collected fruits will always give a `GREAT` judgement, rewarding 300 points each and increment combo by 1. 
+Collected fruits will always give a `GREAT` judgement, rewarding 300 points each and incrementing combo by 1.
 
 ### Juice streams 
 
-A typical **juice stream** will contains two fruits at its start and end. Between the start and the end there will also be a path made out of small and large droplets, with the large droplets acting as slider ticks. Juice streams, similarly to sliders, can be reversed.
+A typical **juice stream** contains two fruits at its start and end. Between the start and the end there will also be a path made out of small and large droplets, with the large droplets acting as slider ticks. Juice streams, similarly to sliders, can be reversed.
 
 Small droplets give 10 points each and do not affect combo, while large droplets give 30 points each and increase the combo by 1 if caught. Unlike small droplets, missing a large droplet resets the combo.
 
@@ -61,7 +61,7 @@ Hyperfruits can be recognised by a signature red colour surrounding the hyperfru
 
 ## Difficulty settings
 
-osu!catch has 3 difficulty settings which each affecting the gameplay differently:
+osu!catch has 3 difficulty settings with each affecting the gameplay differently:
 
 - [Circle size](/wiki/Beatmap/Circle_size)
 - [HP drain](/wiki/Beatmap/HP_drain_rate)
@@ -74,7 +74,7 @@ In osu!(lazer), each of the settings can be altered to the user's preferences us
 
 ## Play styles
 
-*Main page: [play style page under osu!catch](/wiki/Gameplay/Play_style#osu!catch).*
+*Main page: [Play style § osu!catch](/wiki/Gameplay/Play_style#osu!catch).*
 
 ## Scoring
 
@@ -88,16 +88,16 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 ## Skinning
 
-*Main page: [skinning page of osu!catch](/wiki/Skinning/osu!catch)*
+*Main page: [Skinning/osu!catch](/wiki/Skinning/osu!catch)*
 
 ## Beatmapping
 
 ### osu! conversion notes
 
-- Horizontal-axis placement determines the falling point of the fruits(hit circle) or juice streams(slider).
+- Horizontal-axis placement determines the falling point of the fruits (hit circle) or juice streams (slider).
 - The appearance is based on the timing set to clear it, as usual.
 - Speed of fruit trails is similar to slider ball speed.
-- Spinners creates banana showers.
+- Spinners create banana showers.
 
 **Note:** Hyperfruits are automatically generated.
 
@@ -115,6 +115,6 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 ![osu!catch logo in the Special Modes](/wiki/shared/Ctb_logo.jpg "Catch the Beat logo in Special Mode")
 
-- Until april 10th 2012 (2012-04-10), osu!catch maps could not be ranked or be included in ranked maps. However, this is no longer the case and mappers may make and rank osu!catch-specific difficulties and mapsets, provided they follow the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21catch).
-- The first ranked beatmap which contains at least one osu!catch difficulty is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) ](https://osu.ppy.sh/beatmapsets/13676), with the mapset being hosted by ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) and the osu!catch guest difficulty mapped by ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302).
-- The first ranked osu!catch-only beatmap is [Rita - Hajimari no Toki ](https://osu.ppy.sh/beatmapsets/91485) which is hosted and made by - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565).
+- Until April 10th 2012, osu!catch maps could not be ranked or be included in ranked maps. However, this is no longer the case and mappers may make and rank osu!catch-specific difficulties and mapsets, provided they follow the [ranking criteria](/wiki/Ranking_criteria/osu!catch).
+- The first ranked beatmap which contains at least one osu!catch difficulty is [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676), with the mapset being hosted by ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) and the osu!catch guest difficulty mapped by ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302).
+- The first ranked osu!catch-only beatmap is [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485) which is hosted and made by - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565).
