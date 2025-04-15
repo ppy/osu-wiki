@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "The Followpoint: Azer, the Statistics-Breaking Magician"
+title: "The Followpoint: Azer, the Tournament Titan"
 date: 2025-04-15 17:00:00 +0000
 series: The Followpoint
 ---
 
-You hear that? That's a sound of a new interview with someone who's a renowned player AND a World Cup organiser too — Azer!
+You hear that? That's a sound of a new interview — this time with a renowned player and World Cup organiser, Azer!
 
 ![](/wiki/shared/news/2025-04-15-the-followpoint-azer-the-statistics-breaking-magician/banner.jpg)
 
-~~Azer isn't so great? Are you kidding me? When was the last time you saw a player with such aim ability and movement with a tablet? Alex puts the game on another level, and we will be blessed if we ever see a player with his skill and passion for the game again. Cookiezi breaks records. Rafis breaks records. Azer breaks the rules. You can keep your statistics. I prefer the magic.~~
-
-On a serious note though, [Azer](https://osu.ppy.sh/users/2155578) is someone you have likely heard of if you are interested in osu! World Cups, and especially if you are an older player. He's contributed a lot to the tournament scene, earning multiple [badges](/wiki/Community/Profile_badge) in his time playing. He has also contributed heavily to the osu! World Cups, ranging from pooling to organising the entire thing! Not to mention that he also received a [Community Contributor badge](/wiki/People/Community_Contributors) for his dedicated work!
+[Azer](https://osu.ppy.sh/users/2155578) is someone you have likely heard of if you are interested in osu! World Cups, and especially if you are an older player. He's contributed a lot to the tournament scene, earning multiple [badges](/wiki/Community/Profile_badge) in his time playing. He has also contributed heavily to the osu! World Cups, ranging from pooling to organising the entire thing! Not to mention that he also received a [Community Contributor badge](/wiki/People/Community_Contributors) for his dedicated work!
 
 And now we have a chance to learn more about his path in osu!, so without further ado — let's get to reading!
 
@@ -122,7 +120,9 @@ My motivation mostly lies in my desire to give back and to contribute to what ma
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-When was the last time you saw a player with such aim ability and movement with a tablet? XD
+What are your thoughts on the "Azer isn't so great?" copypasta?
+
+> Azer isn't so great? Are you kidding me? When was the last time you saw a player with such aim ability and movement with a tablet? Alex puts the game on another level, and we will be blessed if we ever see a player with his skill and passion for the game again. Cookiezi breaks records. Rafis breaks records. Azer breaks the rules. You can keep your statistics. I prefer the magic.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
@@ -180,7 +180,7 @@ I think when it comes to staffing roles like that, the most important thing is j
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-In your opinion, what's the current state of the tournament scene? Anything that you think can be improved, or everything seems fine?
+From your perspective, how would you describe the state of the tournament scene? Anything that you think can be improved, or everything seems fine?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
@@ -218,7 +218,7 @@ This one requires some context, but I felt like I had to include this moment as 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Did we kick a kid? :tf:
+[Did we kick a kid?](https://osu.ppy.sh/beatmaps/artists/200) :tf:
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
@@ -260,7 +260,7 @@ If osu! ever introduced a new, 5th game mode, what do you think it should be? Wh
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
 
-Considering that all the osu! modes take inspiration from other existing games, I feel like they all cover most of what's possible on PC hardware, so it's hard to say. If there's one thing that could be possible, it could be more of a visually focused experience like Geometry Dash or Groove Coaster, maybe?  Outside of that, I think that most other interesting experiences require specific inputs that aren't really possible or intuitive on mouse/keyboard, so I doubt they would ever be attempted.
+Considering that all the osu! modes take inspiration from other existing games, I feel like they all cover most of what's possible on PC hardware, so it's hard to say. If there's one thing that could be possible, it could be more of a visually focused experience like Geometry Dash or Groove Coaster, maybe? Outside of that, I think that most other interesting experiences require specific inputs that aren't really possible or intuitive on mouse/keyboard, so I doubt they would ever be attempted.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -294,9 +294,9 @@ A game like this has the tendency to give a big spotlight on people in very form
 
 As Azer said, thank you for reading, and I hope you enjoyed this interview!
 
-By the way, speaking of enjoyment, we'd like to ask you for some feedback on The Followpoint news posts 👀
-Is there anything you think we could improve? Or maybe there's something specific that you like A LOT? Feel free to tell us!
-We try to learn and improve our posts every time, so any feedback is much appreciated!
+By the way, speaking of enjoyment, we'd like to ask you for some feedback on The Followpoint news posts. 👀
+
+Is there anything you think we could improve? Or maybe there's something specific that you like A LOT? Feel free to tell us! We try to learn and improve our posts every time, so any feedback is much appreciated!
 
 Lastly, keep an eye on the news feed around the end of April, as our next interview will hopefully come out around that time. 
 
