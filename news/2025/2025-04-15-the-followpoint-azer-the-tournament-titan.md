@@ -5,7 +5,7 @@ date: 2025-04-15 17:00:00 +0000
 series: The Followpoint
 ---
 
-You hear that? That's the sound of a new interview — this time with a renowned player and World Cup organiser, Azer!
+You hear that? That's the sound of a new interview — this time with renowned player and World Cup organiser, Azer!
 
 ![](/wiki/shared/news/2025-04-15-the-followpoint-azer-the-tournament-titan/banner.jpg)
 
