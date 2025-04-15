@@ -7,7 +7,7 @@ series: The Followpoint
 
 You hear that? That's a sound of a new interview — this time with a renowned player and World Cup organiser, Azer!
 
-![](/wiki/shared/news/2025-04-15-the-followpoint-azer-the-statistics-breaking-magician/banner.jpg)
+![](/wiki/shared/news/2025-04-15-the-followpoint-azer-the-tournament-titan/banner.jpg)
 
 [Azer](https://osu.ppy.sh/users/2155578) is someone you have likely heard of if you are interested in osu! World Cups, and especially if you are an older player. He's contributed a lot to the tournament scene, earning multiple [badges](/wiki/Community/Profile_badge) in his time playing. He has also contributed heavily to the osu! World Cups, ranging from pooling to organising the entire thing! Not to mention that he also received a [Community Contributor badge](/wiki/People/Community_Contributors) for his dedicated work!
 
