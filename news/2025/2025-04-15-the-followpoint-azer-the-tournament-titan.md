@@ -202,17 +202,30 @@ Many know you as a World Cup organiser, but you've actually participated and won
 
 It's pretty hard to pick one after playing for this long, but I can cut it down to 3 that mean a lot to me!
 
-[OWC 2015 vs Taiwan: United Tiebreaker](https://www.youtube.com/watch?v=YGOxH7j8YwA)
+**OWC 2015 vs Taiwan: United Tiebreaker**
 
 In the quarterfinals, we had [a really close match](https://osu.ppy.sh/community/matches/20423117) going up against Taiwan, when legendary players like [hvick225](https://osu.ppy.sh/users/50265) and [Rucker](https://osu.ppy.sh/users/147515) were pretty much playing at their peak. As it progressed, it became clear that it was gonna go to tiebreaker, and people were really excited, knowing that the tiebreaker was United. This being the same year as that score was set, it was extremely nerve wracking seeing that everyone was obviously looking at me to perform. I remember I was so locked in for this, I literally took the few minutes I had to prepare to meditate… It ended up being worth it and I was able to compose myself just enough to FC it to win the match.
 
-[OWC 2017 vs Germany: Oriental Blossom](https://www.youtube.com/watch?v=pll8GQvpUUk)
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YGOxH7j8YwA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+**OWC 2017 vs Germany: Oriental Blossom**
 
 During this year of OWC, I was really making a name for myself being one of the most prominent players of tech/gimmick picks. The week prior, I [SS'd sewing machine](https://youtu.be/Y7DsOtMKfaI?si=z8uV1yWkSg1iseW0&t=3931) against Austria and proved that these types of maps were really dangerous to play against us. A week later, it was picked against germany and despite that team being astronomically favored to win against us (this is the only map we won lol), it felt great to do it again and showing that it wasn't a fluke the first time!
 
-[OWC 2018 vs Australia: First pick strategy](https://youtu.be/xGXobUU6wdY?si=yQjhdUfAI4AxqPUi&t=592) (This video has corrupt audio near the end of the first map, sorry!)
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/pll8GQvpUUk" frameborder="0" allowfullscreen></iframe>
+</div>
+
+**OWC 2018 vs Australia: First pick strategy**
 
 This one requires some context, but I felt like I had to include this moment as a captain and not as a player. We had a really tough matchup against team Australia, who this year (and ever since) was arguably the strongest speed/DT roster of the entire tournament. We knew for SURE that they would win the 2 remaining picks of that type we could not ban out, so instead of letting that happen, I came up with the idea of grabbing the first pick and preying on tournament nerves being at their highest on match start. This was 100% lost in normal conditions and everyone in my team knew this. We essentially stole one of their best picks and forced them to play it at the worst possible conditions, while the rest of our team just had fun **assuming that the pick would be lost**. As it turns out, when you play with no nerves with the expectation of losing, you end up playing pretty well, so we somehow won that pick due to this strategy. It was extremely crucial in the match and took us to tiebreaker, which we also ended up winning. This is definitely still the best tournament strategy I came up with to this day!
+
+(This video has corrupt audio near the end of the first map, sorry!)
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xGXobUU6wdY?t=592" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
