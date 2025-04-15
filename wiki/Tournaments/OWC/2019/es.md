@@ -8,7 +8,7 @@ tags:
 
 ![Logo de la OWC 2019](img/logo.jpg)
 
-La **osu! World Cup 2019** (***OWC 2019***) fue un torneo por países organizado por el [osu! team]](/wiki/People/osu!_team). Fue la décima edición de la osu! World Cup.
+La **osu! World Cup 2019** (***OWC 2019***) fue un torneo por países organizado por el [osu! team](/wiki/People/osu!_team). Fue la décima edición de la osu! World Cup.
 
 ## Calendario del torneo
 
@@ -452,8 +452,8 @@ Domingo, 17 de noviembre de 2019:
 17. El chat de las salas multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules).
     - Romper las reglas del chat dará como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
 18. **El método de agrupación se revelará después de que todos los equipos hayan jugado sus rondas clasificatorias.**
-19. Los incidentes inesperados son manejados por los administradores del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias dadas. Esto queda a su discreción.
-20. Las sanciones por violar las reglas del torneo pueden ser:
+19. Los incidentes inesperados serán manejados por los administradores del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias dadas. Esto queda a su discreción.
+20. Las sanciones por incumplir las reglas del torneo pueden ser:
     - Exclusión de jugadores específicos para un beatmap
     - Exclusión de jugadores específicos por el resto del partido
     - Declarar el partido como perdido por defecto
@@ -534,9 +534,9 @@ Domingo, 17 de noviembre de 2019:
 2. Los partidos de las clasificatorias se llevarán a cabo en franjas horarias específicas propuestas por el personal del torneo. Cada equipo es libre de elegir la franja horaria en la que quiere jugar.
    - **Un equipo que no elija una franja horaria antes del viernes 8 de noviembre se considerará descalificado.**
 3. Todas las fases de doble eliminación se llevarán a cabo el sábado o el domingo, UTC+0.
-4. La programación estará a cargo de los administradores del torneo. Los horarios se publicarán el domingo anterior a los primeros partidos de la fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
-   - En los cuartos de final y las fases posteriores, los capitanes de los equipos pueden informar a los administradores del torneo si creen que su equipo no podrá estar disponible en un horario específico de la siguiente semana. Las actualizaciones de horarios se otorgarán en la medida de las capacidades de los administradores.
-5. **Solo se considerarán reprogramaciones si ambos equipos acuerdan una hora al menos 48 horas antes del primer partido en esa fase en particular.**
-6. **Las reprogramaciones solo pueden ser solicitadas por un capitán de equipo.**
+4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de la fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
+   - En los cuartos de final y las fases posteriores, los capitanes de los equipos pueden informar a los administradores del torneo si creen que su equipo no podrá estar disponible en un horario específico de la siguiente semana. Las actualizaciones de los horarios se otorgarán en la medida de las capacidades de los administradores.
+5. **Solo se considerarán las reprogramaciones si ambos equipos acuerdan una hora al menos 48 horas antes del primer partido en esa fase en particular.**
+6. **Las reprogramaciones solo pueden ser solicitadas por el capitán del equipo.**
    - **No solicites una reprogramación, a menos que sea absolutamente necesario. El personal del torneo tiene derecho a rechazar la solicitud.**
 7. Los capitanes son responsables de la disponibilidad de sus equipos. El tamaño de los equipos es grande para garantizar que cada equipo pueda proporcionar al menos cuatro jugadores para cada partido. Si los equipos no pueden proporcionar cuatro jugadores para un partido, el partido se considerará perdido.
