@@ -1,10 +1,10 @@
-# osu! wiki 维护者列表
+# osu! wiki 维护者
 
-维护者会定期查看[议题追踪页](https://github.com/ppy/osu-wiki/issues)并审核贡献者的 Pull Request。与其他贡献者不同，维护者能够编辑 Pull Request 并合并至储存库的 `master` 分支中，使其能够正式上线。
+维护者会定期查看[议题追踪页](https://github.com/ppy/osu-wiki/issues)并审核贡献者的拉取请求 (Pull Request)。与其他贡献者不同，维护者能够编辑拉取请求，并将其合并至储存库的 `master` 分支中，使其能够正式上线。
 
-如果您在编辑时需要协助、或是您的 Pull Request 需要审核，请前往[osu! Discord 服务器](/wiki/Community/Discord_servers#official)的 `#osu-wiki` 频道发送消息，维护者或其他贡献者将会回复（请用英文撰写）。
+如果您在编辑时需要协助、或是您的 Pull Request 需要审核，请前往 [osu! Discord 服务器](/wiki/Community/Discord_servers#official)的 `#osu-wiki` 频道发送消息，维护者或其他贡献者将会回复（请用英文撰写）。
 
-## Wiki 团队
+## Wiki 维护者
 
 | osu! 个人档案 | GitHub 个人档案 | 状态 | 其他语言 |
 | :-- | :-- | :-- | :-- |
@@ -22,12 +22,12 @@
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | 不活跃 | 法语 |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **活跃** | 俄语 |
 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | 不活跃 | 波兰语 |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **活跃** | 芬兰语, 瑞典语 |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **活跃** | 芬兰语、瑞典语 |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | 不活跃 | 西班牙语 |
 
-## 新闻团队
+## 新闻维护者
 
-所有网站上的[新闻](https://osu.ppy.sh/home/news)的管理者、编辑、和批准者。
+网站上所有[新闻](https://osu.ppy.sh/home/news)的管理者、编辑和批准者。
 
 | osu! 个人档案 | GitHub 个人档案 |
 | :-- | :-- |
