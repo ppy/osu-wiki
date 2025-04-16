@@ -14,7 +14,7 @@ La **osu! World Cup 2015** (***OWC 2015***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 1/10/2015 - 18/10/2015 |
+| Fase de registro | 1/10/2015 - 18/10/2015 |
 | Sorteos | 1/11/2015 (14:00 UTC) |
 | Fase de grupos | 7/11/2015 - 8/11/2015 |
 | Octavos de final | 15/11/2015 |
