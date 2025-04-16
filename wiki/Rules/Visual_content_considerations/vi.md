@@ -38,7 +38,7 @@ Ngoài ra, các hình ảnh hoặc yếu tố trực quan có thể bị đánh 
 Các hình ảnh hoặc yếu tố trực quan chứa ví dụ về những điều sau đây có thể được xem là chấp nhận được:
 
 - Mô tả bạo lực mức độ nhẹ đến vừa phải (một lượng máu nhỏ, vết thương không nghiêm trọng hoặc chỉ tổn thương ngoài da)
-- Cảnh khỏa thân trong tác phẩm nghệ thuật (trong bối cảnh tác phẩm nghệ thuật cổ điển, hoặc tác phẩm liên quan đến yếu tố đó, chẳng hạn như bìa album art có sự hiện diện của ảnh khỏa thân nhẹ)
+- Cảnh khỏa thân trong tác phẩm nghệ thuật (trong bối cảnh tác phẩm nghệ thuật cổ điển, hoặc tác phẩm liên quan đến yếu tố đó, chẳng hạn như bìa album có sự hiện diện của ảnh khỏa thân nhẹ)
 - Lãng mạn, tán tỉnh hoặc tình cảm thân mật nhẹ nhàng (ôm, ôm nhau, hôn mà không mang hàm ý tình dục, nắm tay, v.v.)
 - Đồ bơi có thiết kế hợp lý (đồ bơi tiêu chuẩn với độ che phủ tổng quát, bikini thông thường)
 
