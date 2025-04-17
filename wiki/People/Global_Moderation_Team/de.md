@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - GMT
   - moderator
@@ -62,7 +60,7 @@ Globale Moderatoren erhalten die folgenden Vorteile:
 
 ## Ausscheiden aus dem Team
 
-Entscheidet sich ein globaler Moderator dazu, das Team zu verlassen, kann er je nach Umstand die folgenden Belohnungen erhalten:
+Entscheidet sich ein globaler Moderator dazu, das Team im Guten zu verlassen, kann er je nach Umstand die folgenden Belohnungen erhalten:
 
 - **Nutzertitel [osu! Alumni](/wiki/People/osu!_Alumni)**: Dieser Titel wird an Mitglieder verliehen, die mindestens 1 Jahr lang Teil des Teams waren oder über einen kürzeren Zeitraum bedeutende Beiträge innerhalb des Teams geleistet haben.
 - **osu!supporter**: Mitglieder erhalten ein osu!supporter-Tag, das doppelt so lange gilt wie ihre Zeit im GMT. Dabei gelten dieselben Bedingungen, die für den osu!-Alumni-Titel gelten.

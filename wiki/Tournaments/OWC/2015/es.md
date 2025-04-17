@@ -2,20 +2,19 @@
 tags:
   - OWC 2015
   - OWC2015
-no_native_review: true
 ---
 
 # osu! World Cup 2015
 
-![OWC 2015 logo](img/logo.jpg)
+![Logo de la OWC 2015](img/logo.jpg)
 
-La **osu! World Cup 2015** (***OWC 2015***) fue un torneo por países organizado por el [equipo de osu!](/wiki/People/osu!_team). Fue la sexta entrega de la osu! World Cup.
+La **osu! World Cup 2015** (***OWC 2015***) fue un torneo por países organizado por el [osu! team](/wiki/People/osu!_team). Fue la sexta edición de la osu! World Cup.
 
 ## Calendario del torneo
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 1/10/2015 - 18/10/2015 |
+| Fase de registro | 1/10/2015 - 18/10/2015 |
 | Sorteos | 1/11/2015 (14:00 UTC) |
 | Fase de grupos | 7/11/2015 - 8/11/2015 |
 | Octavos de final | 15/11/2015 |
@@ -28,9 +27,9 @@ La **osu! World Cup 2015** (***OWC 2015***) fue un torneo por países organizado
 
 | Posición | Premio(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") | 50% del pozo de premios recaudado, insignia única para el perfil, título de usuario de "osu! Champion" |
-| ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | 38% del pozo de premios recaudado, insignia única para el perfil |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | 12% del pozo de premios recaudado, insignia única para el perfil |
+| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | 50 % del pozo de premios recaudado, una insignia única para el perfil, título de usuario «osu! Champion» |
+| ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | 38 % del pozo de premios recaudado, una insignia única para el perfil |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | 12 % del pozo de premios recaudado, una insignia única para el perfil |
 
 ![](img/badge.jpg "Insignia de ganador de la OWC 2015") ![](img/badge2.jpg "Insignia de 2do lugar de la OWC 2015") ![](img/badge3.jpg "Insignia de 3er lugar de la OWC 2015")
 
@@ -40,17 +39,17 @@ La osu! World Cup 2015 estuvo a cargo de varios miembros de la comunidad.
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Gerente | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
-| Selección de mapas | ::{ flag=FR }:: [Cherry Blossom](https://osu.ppy.sh/users/1156742), ::{ flag=HK }:: [Skystar](https://osu.ppy.sh/users/873961), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
+| Administrador | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Selector de mapas | ::{ flag=FR }:: [Cherry Blossom](https://osu.ppy.sh/users/1156742), ::{ flag=HK }:: [Skystar](https://osu.ppy.sh/users/873961), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | Streamer | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
-| Comentaristas | ::{ flag=US }:: [Chippy](https://osu.ppy.sh/users/2314115), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=GB }:: [Raiku](https://osu.ppy.sh/users/1525538), ::{ flag=US }:: [rfandomization](https://osu.ppy.sh/users/3716999), ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
-| Estadísticas | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
+| Comentarista | ::{ flag=US }:: [Chippy](https://osu.ppy.sh/users/2314115), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=GB }:: [Raiku](https://osu.ppy.sh/users/1525538), ::{ flag=US }:: [rfandomization](https://osu.ppy.sh/users/3716999), ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
+| Estadístico | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
-## Links
+## Enlaces
 
 - [Hilo de discusión](https://osu.ppy.sh/community/forums/posts/4550383)
 - [Transmisión en vivo](https://www.twitch.tv/osulive)
-- **[Descripción general de las estadísticas de la fase de grupos](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
+- **[Resumen estadístico de la fase de grupos](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ## Participantes
 
@@ -79,7 +78,7 @@ La osu! World Cup 2015 estuvo a cargo de varios miembros de la comunidad.
 | ::{ flag=PH }:: | **Filipinas** | **[Takane Enomoto](https://osu.ppy.sh/users/1208491)**, [ededed028](https://osu.ppy.sh/users/3932796), [Gio](https://osu.ppy.sh/users/1795827), [konawiki](https://osu.ppy.sh/users/4003979), [KouNue](https://osu.ppy.sh/users/4180036), [Marika](https://osu.ppy.sh/users/1679638), [---Mikoto](https://osu.ppy.sh/users/2911062), [-Ryo](https://osu.ppy.sh/users/3113141) |
 | ::{ flag=PL }:: | **Polonia** | **[Wilchq](https://osu.ppy.sh/users/2021758)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [fartownik](https://osu.ppy.sh/users/56917), [Lucid Astray](https://osu.ppy.sh/users/1773225), [r0ck](https://osu.ppy.sh/users/1549620), [Rafis](https://osu.ppy.sh/users/2558286), [SpajdeR](https://osu.ppy.sh/users/3446664), [WubWoofWolf](https://osu.ppy.sh/users/39828) |
 | ::{ flag=PT }:: | **Portugal** | **[kek](https://osu.ppy.sh/users/2148013)**, [AA00AA](https://osu.ppy.sh/users/2928612), [Mizuru](https://osu.ppy.sh/users/4495871), [Osama](https://osu.ppy.sh/users/799218), [PedroLipton](https://osu.ppy.sh/users/3272012), [Zenden](https://osu.ppy.sh/users/3070694) |
-| ::{ flag=RU }:: | **Rusia** | **[talala](https://osu.ppy.sh/users/1389663)**, [\_index](https://osu.ppy.sh/users/652457), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Red\_Pixel](https://osu.ppy.sh/users/4170932), [Shiawase](https://osu.ppy.sh/users/989489), [SoMad](https://osu.ppy.sh/users/637168), [xantic](https://osu.ppy.sh/users/1897386) |
+| ::{ flag=RU }:: | **Federación de Rusia** | **[talala](https://osu.ppy.sh/users/1389663)**, [\_index](https://osu.ppy.sh/users/652457), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Red\_Pixel](https://osu.ppy.sh/users/4170932), [Shiawase](https://osu.ppy.sh/users/989489), [SoMad](https://osu.ppy.sh/users/637168), [xantic](https://osu.ppy.sh/users/1897386) |
 | ::{ flag=SG }:: | **Singapur** | **[plaatinum](https://osu.ppy.sh/users/3385566)**, [Clyine](https://osu.ppy.sh/users/1275211), [GSBlank](https://osu.ppy.sh/users/2312106 ), [jcjc](https://osu.ppy.sh/users/1200275), [-LeeP-](https://osu.ppy.sh/users/1143744), [oneplusone](https://osu.ppy.sh/users/1843447), [Rtyzen](https://osu.ppy.sh/users/2439822), [Tatch](https://osu.ppy.sh/users/2390650) |
 | ::{ flag=KR }:: | **Corea del Sur** | **[Neta](https://osu.ppy.sh/users/832084)**, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [\[Chiyo\]](https://osu.ppy.sh/users/2000416), [Cinia Pacifica](https://osu.ppy.sh/users/1414625), [Enon](https://osu.ppy.sh/users/2043401), [eoehd1ek](https://osu.ppy.sh/users/3938876), [Gomo Pslvarh](https://osu.ppy.sh/users/1206417), [Meltina](https://osu.ppy.sh/users/946990) |
 | ::{ flag=SE }:: | **Suecia** | **[Xytox](https://osu.ppy.sh/users/2229274)**, [AntoN](https://osu.ppy.sh/users/2538562), [Bubba](https://osu.ppy.sh/users/2330524), [IVo one](https://osu.ppy.sh/users/3623465), [Sebbe](https://osu.ppy.sh/users/3181965), [Slizzer](https://osu.ppy.sh/users/809983), [SnickarN](https://osu.ppy.sh/users/3258429), [Xiniox](https://osu.ppy.sh/users/5233691) |
@@ -98,11 +97,11 @@ La osu! World Cup 2015 estuvo a cargo de varios miembros de la comunidad.
 | **C** | ::{ flag=PL }:: Polonia | ::{ flag=CA }:: Canadá | ::{ flag=LV }:: Letonia | ::{ flag=UA }:: Ucrania |
 | **D** | ::{ flag=CN }:: China | ::{ flag=GB }:: Reino Unido | ::{ flag=JP }:: Japón | ::{ flag=PH }:: Filipinas |
 | **E** | ::{ flag=KR }:: Corea del Sur | ::{ flag=FI }:: Finlandia | ::{ flag=AR }:: Argentina | ::{ flag=NZ }:: Nueva Zelanda |
-| **F** | ::{ flag=RU }:: Rusia | ::{ flag=BR }:: Brasil | ::{ flag=NO }:: Noruega | ::{ flag=GR }:: Grecia |
+| **F** | ::{ flag=RU }:: Federación de Rusia | ::{ flag=BR }:: Brasil | ::{ flag=NO }:: Noruega | ::{ flag=GR }:: Grecia |
 | **G** | ::{ flag=DE }:: Alemania | ::{ flag=NL }:: Países Bajos | ::{ flag=TH }:: Tailandia | ::{ flag=SG }:: Singapur |
 | **H** | ::{ flag=TW }:: Taiwán | ::{ flag=AT }:: Austria | ::{ flag=SE }:: Suecia | ::{ flag=PT }:: Portugal |
 
-![](img/bracket.jpg "OWC 2015 bracket")
+![](img/bracket.jpg "Brackets de la OWC 2015")
 
 ## Podio
 
@@ -112,7 +111,7 @@ La osu! World Cup 2015 estuvo a cargo de varios miembros de la comunidad.
 
 ### Finales
 
-**Este mappool se jugó durante la semana 1 y la semana 2 de las Finales.**
+**Este mappool se jugó durante la semana 1 y la semana 2 de las finales.**
 
 **[¡Descarga el paquete de mapas aquí! (206 MB)](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
 
@@ -262,13 +261,13 @@ La osu! World Cup 2015 estuvo a cargo de varios miembros de la comunidad.
 - Desempate
   1. **[Sawai Miku - Colorful. (Asterisk DnB Remix) (Amamiya Yuko) \[Megumi\]](https://osu.ppy.sh/beatmapsets/299454#osu/722224)**
 
-## Resultados de las partidas
+## Resultados de los partidos
 
 ### Finales semana 2
 
 Domingo, 13 de diciembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | China ::{ flag=CN }:: | 2 | **7** | ::{ flag=US }:: **Estados Unidos** | [#1](https://osu.ppy.sh/community/matches/20910697) |
 | **Estados Unidos** ::{ flag=US }:: | **7** | 6 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/20912739) |
@@ -277,7 +276,7 @@ Domingo, 13 de diciembre de 2015:
 
 Sábado, 5 de diciembre de 2015
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Estados Unidos ::{ flag=US }:: | 3 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/20711754) |
 | Hong Kong ::{ flag=HK }:: | 0 | **6** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/20713615) |
@@ -286,7 +285,7 @@ Sábado, 5 de diciembre de 2015
 
 Domingo, 6 de diciembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Estados Unidos** ::{ flag=US }:: | **6** | 3 | ::{ flag=PL }:: Polonia | [#1](https://osu.ppy.sh/community/matches/20762171) |
 
@@ -294,7 +293,7 @@ Domingo, 6 de diciembre de 2015:
 
 Sábado, 28 de noviembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Estados Unidos** ::{ flag=US }:: | **6** | 2 | ::{ flag=KR }:: Corea del Sur | [#1](https://osu.ppy.sh/community/matches/20553676) |
 | Tailandia ::{ flag=TH }:: | 2 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20555273) |
@@ -306,7 +305,7 @@ Sábado, 28 de noviembre de 2015:
 
 Domingo, 29 de noviembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Austria ::{ flag=AT }:: | 4 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20591359) |
 
@@ -314,13 +313,13 @@ Domingo, 29 de noviembre de 2015:
 
 Sábado, 21 de noviembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Estados Unidos** ::{ flag=US }:: | **5** | 2 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/20411352) |
 
 Domingo, 22 de noviembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Taiwán ::{ flag=TW }:: | 4 | **5** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/20423117) |
 | Hong Kong ::{ flag=HK }:: | 2 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/20424826) |
@@ -334,7 +333,7 @@ Domingo, 22 de noviembre de 2015:
 
 Domingo, 15 de noviembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Estados Unidos** ::{ flag=US }:: | **5** | 4 | ::{ flag=TW }:: Taiwán | [#1](https://osu.ppy.sh/community/matches/20269690) |
 | Finlandia ::{ flag=FI }:: | 0 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/20273790) |
@@ -349,7 +348,7 @@ Domingo, 15 de noviembre de 2015:
 
 Sábado, 7 de noviembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Austria** ::{ flag=AT }:: | **4** | 1 | ::{ flag=TW }:: Taiwán | [#1](https://osu.ppy.sh/community/matches/20091839) |
 | Nueva Zelanda ::{ flag=NZ }:: | 3 | **4** | ::{ flag=FI }:: **Finlandia** | [#1](https://osu.ppy.sh/community/matches/20091841) |
@@ -364,7 +363,7 @@ Sábado, 7 de noviembre de 2015:
 | Singapur ::{ flag=SG }:: | 3 | **4** | ::{ flag=TH }:: **Tailandia** | [#1](https://osu.ppy.sh/community/matches/20095460) |
 | Filipinas ::{ flag=PH }:: | 0 | **4** | ::{ flag=GB }:: **Reino Unido** | [#1](https://osu.ppy.sh/community/matches/20095461) |
 | Argentina ::{ flag=AR }:: | 0 | **4** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/20095462) |
-| Grecia ::{ flag=GR }:: | 0 | **4** | ::{ flag=RU }:: **Rusia** | [#1](https://osu.ppy.sh/community/matches/20105876) |
+| Grecia ::{ flag=GR }:: | 0 | **4** | ::{ flag=RU }:: **Federación de Rusia** | [#1](https://osu.ppy.sh/community/matches/20105876) |
 | Canadá ::{ flag=CA }:: | 0 | **4** | ::{ flag=PL }:: **Polonia** | [#1](https://osu.ppy.sh/community/matches/20105877) |
 | Portugal ::{ flag=PT }:: | 1 | **4** | ::{ flag=AT }:: **Austria** | [#1](https://osu.ppy.sh/community/matches/20105878) |
 | **Ucrania** ::{ flag=UA }:: | **4** | 1 | ::{ flag=LV }:: Letonia | [#1](https://osu.ppy.sh/community/matches/20107684) |
@@ -374,7 +373,7 @@ Sábado, 7 de noviembre de 2015:
 
 Domingo, 8 de noviembre de 2015:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Nueva Zelanda** ::{ flag=NZ }:: | **4** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/20115243) |
 | México ::{ flag=MX }:: | 1 | **4** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/20114985) |
@@ -395,11 +394,11 @@ Domingo, 8 de noviembre de 2015:
 | **Portugal** ::{ flag=PT }:: | **4** | 3 | ::{ flag=SE }:: Suecia | [#1](https://osu.ppy.sh/community/matches/20129484) |
 | Italia ::{ flag=IT }:: | 2 | **4** | ::{ flag=FR }:: **Francia** | [#1](https://osu.ppy.sh/community/matches/20133656) |
 | Grecia ::{ flag=GR }:: | 0 | **4** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/20133657) |
-| **Noruega** ::{ flag=NO }:: | **4** | 2 | ::{ flag=RU }:: Rusia | [#1](https://osu.ppy.sh/community/matches/20133658) |
+| **Noruega** ::{ flag=NO }:: | **4** | 2 | ::{ flag=RU }:: Federación de Rusia | [#1](https://osu.ppy.sh/community/matches/20133658) |
 | Países Bajos ::{ flag=NL }:: | 0 | **4** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/20135079) |
 | Letonia ::{ flag=LV }:: | 1 | **4** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/20135084) |
 | Italia ::{ flag=IT }:: | 3 | **4** | ::{ flag=LT }:: **Lituania** | [#1](https://osu.ppy.sh/community/matches/20136741) |
-| **Brasil** ::{ flag=BR }:: | **4** | 3 | ::{ flag=RU }:: Rusia | [#1](https://osu.ppy.sh/community/matches/20136742) |
+| **Brasil** ::{ flag=BR }:: | **4** | 3 | ::{ flag=RU }:: Federación de Rusia | [#1](https://osu.ppy.sh/community/matches/20136742) |
 | Grecia ::{ flag=GR }:: | 0 | **4** | ::{ flag=NO }:: **Noruega** | [#1](https://osu.ppy.sh/community/matches/20136743) |
 | México ::{ flag=MX }:: | 0 | **4** | ::{ flag=US }:: **Estados Unidos** | [#1](https://osu.ppy.sh/community/matches/20138453) |
 | Ucrania ::{ flag=UA }:: | 1 | **4** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/20138457) |
@@ -409,67 +408,67 @@ Domingo, 8 de noviembre de 2015:
 
 ### Reglas del torneo
 
-1. La osu! World Cup es un torneo por países en equipos de 4v4
-2. La puntuación del mapa se basa en una nueva métrica, llamada Score V2. **[¡Lea más sobre esto!](https://osu.ppy.sh/community/forums/topics/375428)**
-3. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el Domingo antes de que tengan lugar las partidas reales. Solo estos se utilizarán durante las respectivas partidas.
-   - Un mapa será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate.
-4. El cronograma de partidas será establecido por el Gerente del torneo (veáse más adelante).
-5. Si no hay ningún staff o árbitro disponible, la partida será pospuesta.
-6. Las puntuaciones fallidas de un jugador no se suman a la puntuación del equipo.
+1. La osu! World Cup es un torneo por equipos de 4 contra 4 por países
+2. Las puntuaciones de los mapas se basan en una nueva métrica, llamada Score V2. **[¡Lee más sobre esto!](https://osu.ppy.sh/community/forums/topics/375428)**
+3. Los beatmaps para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
+   - Un beatmap será asignado como mapa de desempate. Este beatmap solo podrá ser jugado en caso de empate.
+4. El cronograma de los partidos será establecido por los administradores del torneo (consulta más abajo).
+5. Si no hay personal o árbitro disponible, el partido será pospuesto.
+6. Las puntuaciones fallidas de un jugador no se sumarán a la puntuación del equipo.
    - Revivir y sobrevivir durante un mapa se considera como pasarlo.
-7. Está permitido usar las opciones de [Configuración Visual](/wiki/Client/Interface/Visual_settings).
-8. Si el mapa termina en un empate, el juego será anulado.
-9. Si uno de los jugadores se desconecta, son tratados como si hubieran fallado el mapa.
-   - Las desconexiones dentro de los 30 segundos posteriores al inicio del mapa se pueden volver a emparejar. Esto queda a discreción del árbitro.
-10. Los mapas no pueden ser reutilizados en una misma partida a menos que la partida haya sido anulada
-11. Si menos de 4 jugadores asisten, el partido podrá ser pospuesto máximo 10 minutos.
-12. Está permitido el intercambio de jugadores durante una partida.
-13. El lag no es un razón válida para anular un mapa.
-14. Se supone que todos los jugadores deben mantener el juego fluido y sin demoras. Los retrasos excesivos en las partidas provenientes del lado del jugador pueden ser sancionados con penalizaciones.
-15. Si un jugador se desconecta entre los mapas y el equipo no puede proporcionar un intercambio, el partido puede retrasarse 10 minutos como máximo.
-16. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y del Gerente del torneo. Las decisiones etiquetadas como finales no deben ser objetadas.
-17. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir mapas de calentamiento inapropiados (ver más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
-18. Las salas de chat multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a las salas de chat multijugador.
-    - Romper las reglas del chat da como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
-19. En la Fase de Grupos, 'Ganar por default' será considerado como ganar por 4:0, +1.0 diferencia de puntajes.
-20. Los incidentes inesperados son manejados por el Gerente del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias dadas. Esto queda a su discreción.
-21. Las sanciones por violar las reglas del torneo pueden ser:
+7. Está permitido usar las opciones de la [configuración visual](/wiki/Client/Interface/Visual_settings).
+8. Si el beatmap termina en un empate, el juego será anulado.
+9. Si uno de los jugadores se desconecta, son tratados como si hubieran fallado el beatmap.
+   - Las desconexiones dentro de los 30 segundos posteriores al inicio del mapa se pueden volver a jugar. Esto queda a discreción del árbitro.
+10. Los mapas no pueden ser reusados en un mismo partido, a menos que el beatmap haya sido anulado.
+11. Si menos de 4 jugadores asisten, el tiempo máximo que se podrá posponer el partido será de 10 minutos.
+12. Está permitido el intercambio de jugadores durante un partido.
+13. El lag no es un razón válida para anular un beatmap.
+14. Se supone que todos los jugadores deben mantener el juego fluido y sin demoras. Los retrasos excesivos en los partidos provenientes del lado del jugador pueden ser sancionados con penalizaciones.
+15. Si un jugador se desconecta entre los beatmaps y el equipo no puede proporcionar un reemplazo, el partido podrá retrasarse 10 minutos como máximo.
+16. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y de los administradores del torneo. Las decisiones consideradas definitivas no deben ser objetadas.
+17. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir mapas de calentamiento inapropiados (consulta más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
+18. El chat de las salas multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a las salas multijugador.
+    - Romper las reglas del chat dará como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
+19. En la fase de grupos, se considerará 'victoria por defecto' la victoria por 4:0, +1,0 de diferencia de puntos.
+20. Los incidentes inesperados serán manejados por los administradores del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias dadas. Esto queda a su discreción.
+21. Las sanciones por incumplir las reglas del torneo pueden ser:
     - Exclusión de jugadores específicos para un mapa
-    - Exclusión de jugadores específicos por el resto de la partida
+    - Exclusión de jugadores específicos por el resto del partido
     - Declarar el partido como perdido por defecto
     - Descalificación de todo el torneo
     - Descalificación de los torneos oficiales actuales y futuros hasta que se apele
-22. Se dará a conocer cualquier modificación a estas reglas.
+22. Se dará a conocer cualquier modificación de estas reglas.
 
 ### Registro del torneo
 
-1. Cada usuario interesado en formar parte del equipo de su país se registra individualmente.
-   - El Gerente del torneo creará una lista de posibles candidatos para el equipo de un país.
-   - El Gerente del torneo declara un candidato a capitán de la selección del país, aunque de forma temporal.
+1. Cada usuario interesado en formar parte del equipo de su país debe registrarse individualmente.
+   - Los administradores del torneo crearán una lista de posibles candidatos para el equipo de un país.
+   - Los administradores del torneo declararán a un candidato como capitán para la selección de su país, aunque de forma temporal.
    - El capitán declarado puede formar su equipo a partir de la lista de candidatos de su país.
-2. Para asegurar registros válidos y serios, cada usuario registrado será controlado por el Gerente del torneo.
+2. Para asegurar registros válidos y serios, cada usuario registrado será controlado por los administradores del torneo.
    - Cada usuario registrado será asignado a la lista de candidatos de su país respectivo.
-   - Para ser aceptado con éxito en la lista, debe asegurarse de que su clasificación de rendimiento global de osu! está por encima de #5000.
-   - Para ser aceptado con éxito en la lista, debe asegurarse de no haber violado ninguna de las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
-3. Todos los equipos formados con éxito serán publicados después de la Fase de Registro.
+   - Para ser aceptado con éxito en la lista, debes asegurarte de que tu clasificación de rendimiento global de osu! esté por encima de #5000.
+   - Para ser aceptado con éxito en la lista, debes asegurarte de no haber infringido ninguna de las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
+3. Todos los equipos formados con éxito serán publicados después de la fase de registro.
 4. Los jugadores rechazados pueden apelar esta decisión a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 5. Los selectores de mapas no pueden participar como jugadores en este torneo.
 
 ### Instrucciones de las fases
 
-1. En la primera fase (Fase de grupos), los equipos se dividirán en 8 grupos de 4 equipos.
+1. En la primera fase (fase de grupos), los equipos se dividirán en 8 grupos de 4 equipos.
 2. Todos los equipos de cada grupo se enfrentarán entre sí.
-3. Las clasificaciones de cada grupo se determinan clasificando los resultados del desempeño de cada equipo en la siguiente prioridad:
-   - Mayoría de partidas ganadas.
-   - Tener más alto `{(el número de mapas ganados) - (el número de mapas perdidos)}`.
+3. La clasificación de cada grupo se determina ordenando los resultados del rendimiento de cada equipo según la siguiente prioridad:
+   - Mayoría de partidos ganados.
+   - Tener `{(el número de mapas ganados) - (el número de mapas perdidos)}` más alto.
    - Mayoría de mapas ganados.
-   - Tener más alto `∑{(diferencia de puntuación total) / (máxima puntuación)}`.
+   - Tener la `∑{(diferencia de puntuación total) / (máxima puntuación)}` más alta.
    - Ganador de la revancha.
-4. Los dos mejores equipos de cada grupo pasarán a las Fases de doble eliminación.
-5. Las siguientes fases son Fases de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket perdedor.
+4. Los dos mejores equipos de cada grupo pasarán a las fases de doble eliminación.
+5. Las siguientes fases son fases de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket perdedor.
 6. Según [esta](/wiki/shared/stages-visual.png) imagen, las fases se dividen de la siguiente manera:
 
-| Fase | ID de la partida |
+| Fase | ID del partido |
 | :-- | :-- |
 | Octavos de final | A, B, C, D, E, F, G, H |
 | Cuartos de final | I, J, K, L & R, S, T, U |
@@ -478,50 +477,50 @@ Domingo, 8 de noviembre de 2015:
 | Finales semana 2 | P, Q |
 
 7. **Condiciones de victoria:**
-   - En la fase de grupos, debes ganar 4 mapas para ganar una partida. (Mejor de 7)
-   - En los octavos de final y los cuartos de final, debes ganar 5 mapas para ganar una partida. (Mejor de 9)
-   - En Semifinales y Finales: Semana 1, necesitas ganar 6 mapas para ganar una partida. (Mejor de 11)
-   - En Finales: Semana 2, necesitas ganar 7 mapas para ganar la partida. (Mejor de 13)
+   - En la fase de grupos, los equipos deben ganar 4 mapas para ganar un partido. (Al mejor de 7)
+   - En los octavos de final y los cuartos de final, los equipos deben ganar 5 mapas para ganar un partido. (Al mejor de 9)
+   - En las semifinales y las finales: semana 1, los equipos deben ganar 6 mapas para ganar un partido. (Al mejor de 11)
+   - En las finales: semana 2, los equipos deben ganar 7 mapas para ganar el partido. (Al mejor de 13)
 
-### Instrucciones de la partida
+### Instrucciones de los partidos
 
-1. Un árbitro creará una sala multijugador con 15 minutos de antelación. Los jugadores deben reunirse durante este período.
-   - La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score V2'. El nombre de la sala debe ser "OWC 2015: TeamBlue vs TeamRed" (**esto puede cambiar en algún momento posterior**)
+1. Un árbitro creará una sala multijugador con 15 minutos de antelación. Los jugadores deben reunirse durante este periodo.
+   - La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score V2'. El nombre de la sala debe ser «OWC 2015: TeamBlue vs TeamRed» (**esto puede cambiar en algún momento posterior**)
    - El equipo mencionado primero en el nombre de la sala debe ser el equipo azul, el equipo mencionado en segundo lugar en el nombre de la sala debe ser el equipo rojo.
-2. Los jugadores son libres de seleccionar dos mapas de calentamiento. Está prohibido usar mapas con contenido cuestionable. Esto incluye blasfemias, desnudez, violencia u otro contenido NSFW en los elementos visuales o la canción, independientemente de su idioma.
-3. Cada capitán puede banear dos mapas para seleccionar del mappool. Estos mapas no pueden ser elegidos por ningún equipo en toda la partida.
-   - Siempre se deben utilizar ambos vetos.
-4. La selección de mapas alternará entre cada capitán seleccionando un mapa del mappool.
-5. Cada capitán debe usar `!roll` una vez en `#multijugador`.
-   - El ganador del `!roll` elige el primer mapa de la partida.
-   - El perdedor del `!roll` banea dos mapas.
+2. Los jugadores son libres de seleccionar dos beatmaps de calentamiento. Está prohibido usar beatmaps con contenido cuestionable. Esto incluye blasfemias, desnudez, violencia u otro contenido NSFW en los elementos visuales o la canción, independientemente de su idioma.
+3. Cada capitán puede prohibir que se seleccionen dos beatmaps del mappool. Estos beatmaps no pueden ser elegidos por ningún equipo en todo el partido.
+   - Siempre se deben usar ambos vetos.
+4. La selección de los mapas alternará entre cada capitán seleccionando un beatmap del mappool.
+5. Cada capitán deberá usar `!roll` una vez en `#multiplayer`.
+   - El ganador del `!roll` eligirá el primer beatmap del partido.
+   - El perdedor del `!roll` baneará dos beatmaps.
 6. Los capitanes pueden elegir libremente de cualquier bracket.
    - En caso de empate, se debe jugar el mapa de desempate.
-7. Los resultados se publicarán a través del sitio web de Estadísticas.
+7. Los resultados se publicarán a través del sitio web de estadísticas.
 
-### Instrucciones del Mappool
+### Instrucciones del mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los octavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales.
    - Las finales de la semana 1 y las finales de la semana 2 usan el mismo mappool.
 2. Cada mappool consiste de 5 brackets: NoMod, HardRock, Hidden, DoubleTime y FreeMod
 3. Cada mappool consta de 19 mapas en total.
-4. Cada mappool tiene un desempate.
+4. Cada mappool tiene un mapa de desempate.
 5. El bracket de NoMod se jugará sin ningún mod activado
 6. Los brackets de Hidden, HardRock y DoubleTime se jugarán con los respectivos mods activados.
 7. El bracket de FreeMod tendrá FreeMod activado. Cada jugador individual puede elegir Hidden, HardRock o ningún mod.
    - Los jugadores pueden seleccionar más de un mod.
    - Al jugar un mapa de FreeMod, al menos 2 jugadores de cada equipo deben tener un mod activado como mínimo.
-8. El desempate se jugará bajo las condiciones de FreeMod.
-   - Al jugar el desempate, nadie necesita tener un mod activado.
+8. El mapa de desempate se jugará bajo las condiciones de FreeMod.
+   - Al jugar el mapa de desempate, nadie necesita tener un mod activado.
 9. El tamaño del bracket de NoMod será de 6 en todas las fases.
-10. El tamaño de los brackets con mods especificados será de 3 en todas las fases.
+10. El tamaño de los brackets con mods específicos será de 3 en todas las fases.
 
-### Instrucciones de programación
+### Instrucciones de la programación
 
 1. Cada fase se llevará a cabo en **un solo fin de semana**
-2. Las partidas de la fase de grupos pueden coincidir.
-3. Todas las Fases de doble eliminación se llevarán a cabo el sábado o el domingo, UTC+0.
-4. La programación estará a cargo del Gerente del torneo. Los horarios se publicarán el domingo anterior a las primeras partidas de la fase real. El Gerente del torneo intentará crear el horario para respetar la zona horaria del participante.
-   - En las fases de cuartos de final y posteriores: informe al Gerente del torneo antes del domingo si espera que un horario específico no esté disponible la semana siguiente. Los deseos se intentan cumplir, lamentablemente no se pueden hacer promesas.
-5. La reprogramación después de la publicación del Programa en la wiki no se puede realizar bajo ninguna circunstancia.
-6. Los capitanes son responsables de la disponibilidad de sus equipos. El mayor tamaño del equipo existe para garantizar que cada equipo pueda proporcionar al menos cuatro jugadores para cada partida. Si los equipos no pueden proporcionar cuatro jugadores para una partida, la partida se considerará perdida.
+2. Los partidos de la fase de grupos pueden coincidir.
+3. Todas las fases de doble eliminación se llevarán a cabo el sábado o el domingo, UTC+0.
+4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de cada fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
+   - En las fases de cuartos de final y posteriores: Por favor, si crees que no podrás estar disponible en un horario específico de la semana siguiente, informále a los administradores del torneo antes del domingo. Intentaremos cumplir tu petición, pero no podemos prometer nada.
+5. Las reprogramaciones después de la publicación del cronograma en la wiki no se pueden realizar bajo ninguna circunstancia.
+6. Los capitanes son responsables de la disponibilidad de sus equipos. El tamaño de los equipos es grande para garantizar que cada equipo pueda aportar al menos cuatro jugadores para cada partido. Si los equipos no pueden proporcionar cuatro jugadores para un partido, el partido se considerará perdido.
