@@ -110,7 +110,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Taiwan ::{ flag=TW }:: | ::{ flag=CN }:: China | [Apr 19 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250419T120000&p1=1440&p2=241&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Apr 19 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250419T170000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Apr 19 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250419T133000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 20 April 2025
 
@@ -121,8 +121,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 20 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250420T120000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=TW }:: Taiwan | [Apr 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250420T140000&p1=1440&p2=136&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Apr 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250420T140000&p1=1440&p2=136&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Grand Finals | mappool showcase | [Apr 27 (Sun) 15:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250427T153000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Grand Finals | mappool showcase | [Apr 27 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250427T153000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
+## Notes
+
+[^winners-bracket]: Winners bracket match
+[^losers-bracket]: Losers bracket match
+[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
+[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 ## Mappools
 
 ### Finals
