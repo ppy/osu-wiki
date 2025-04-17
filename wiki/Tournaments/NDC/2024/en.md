@@ -8,7 +8,7 @@ tags:
 
 ![NDC banner](img/banner.jpg)
 
-The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) and ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619). It is the third instalment of the National Dutch Championship.
+The **National Dutch Championship 2024** (***NDC 2024***) was a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) and ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619). It was the third instalment of the National Dutch Championship.
 
 ## Tournament schedule
 
@@ -27,45 +27,50 @@ The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimi
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €550,- |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €275,- |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | €110,- |
-| *4th place* | €55,- |
-| *5th & 6th place* | €33,- |
-| *7th & 8th place* | €22,- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €800,- |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €400,- |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | €160,- |
+| *4th place* | €80,- |
+| *5th & 6th place* | €48,- |
+| *7th & 8th place* | €32,- |
 
-*Prizes may be increased if more donations come in*
+The prizepool was sponsored by both the organisation and community members:
 
-<!-- ![](img/badge.png "NDC 2024 winner badge") -->
+- ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €750,-
+- ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779): €500,-
+- ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €250,-
+- ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €100,-
+
+![](img/badge.jpg "NDC 2024 winner badge")
 
 ## Organisation
 
-The National Dutch Championship 2024 is run by various community members.
+The National Dutch Championship 2024 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organisation | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
-| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266), ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=TR }:: [Ryukishi](https://osu.ppy.sh/users/9045874), ::{ flag=NL }:: [nijlpaard](https://osu.ppy.sh/users/30921375) |
-| Mapper | ::{ flag=NL }:: [Castagne](https://osu.ppy.sh/users/12270596), ::{ flag=NL }:: [taku](https://osu.ppy.sh/users/684433), ::{ flag=NL }:: [CMeFly](https://osu.ppy.sh/users/12195391), ::{ flag=NL }:: [Vivyanne](https://osu.ppy.sh/users/3789276) |
-| Playtester | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [dyl](https://osu.ppy.sh/users/9507985), ::{ flag=NL }:: [Quinten](https://osu.ppy.sh/users/5101306), ::{ flag=BE }:: [Hanori](https://osu.ppy.sh/users/7078544), ::{ flag=NL }:: [Seleen](https://osu.ppy.sh/users/9362168), ::{ flag=NL }:: [CMeFly](https://osu.ppy.sh/users/12195391), ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471), ::{ flag=NO }:: [Melvr](https://osu.ppy.sh/users/9211924), ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703), ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706), ::{ flag=NL }:: [AngelNamirin](https://osu.ppy.sh/users/6145220) |
-| Referee | ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [DeathByDarwin](https://osu.ppy.sh/users/9087777), ::{ flag=NL }:: [Kapsalon](https://osu.ppy.sh/users/6941124), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=NL }:: [KayoNar](https://osu.ppy.sh/users/6960689), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [Marslam](https://osu.ppy.sh/users/16814497), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [JustChe](https://osu.ppy.sh/users/18229204) |
-| Streamer | ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [DeathByDarwin](https://osu.ppy.sh/users/9087777), ::{ flag=NL }:: [Amarillo](https://osu.ppy.sh/users/6632587), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
-| Commentator | ::{ flag=NL }:: [Kut](https://osu.ppy.sh/users/3859899), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [Telegy](https://osu.ppy.sh/users/16322001), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [pregnant](https://osu.ppy.sh/users/15413621), ::{ flag=NL }:: [OldEclipse](https://osu.ppy.sh/users/5174602), ::{ flag=NL }:: [AngelNamirin](https://osu.ppy.sh/users/6145220), ::{ flag=BE }:: [5joshi](https://osu.ppy.sh/users/4279650), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
+| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=TR }:: [Ryukishi](https://osu.ppy.sh/users/9045874), ::{ flag=NL }:: [nijlpaard](https://osu.ppy.sh/users/30921375), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932) |
+| Mapper | ::{ flag=NL }:: [Castagne](https://osu.ppy.sh/users/12270596), ::{ flag=NL }:: [taku](https://osu.ppy.sh/users/684433), ::{ flag=NL }:: [CMeFly](https://osu.ppy.sh/users/12195391), ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596), ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [Boppin](https://osu.ppy.sh/users/3275468), ::{ flag=NL }:: [Mijn Aim Zuigt](https://osu.ppy.sh/users/4587487), ::{ flag=NO }:: [BarkingMadDog](https://osu.ppy.sh/users/3475189), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579) |
+| Playtester | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Quinten](https://osu.ppy.sh/users/5101306), ::{ flag=BE }:: [Hanori](https://osu.ppy.sh/users/7078544), ::{ flag=NL }:: [Seleen](https://osu.ppy.sh/users/9362168), ::{ flag=NL }:: [CMeFly](https://osu.ppy.sh/users/12195391), ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471), ::{ flag=NO }:: [Melvr](https://osu.ppy.sh/users/9211924), ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703), ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706), ::{ flag=NL }:: [AngelNamirin](https://osu.ppy.sh/users/6145220), ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=BE }:: [5joshi](https://osu.ppy.sh/users/4279650), ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701), ::{ flag=BE }:: [hexi](https://osu.ppy.sh/users/10760701), ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720), ::{ flag=NL }:: [TurtleSenpaii](https://osu.ppy.sh/users/12241010), ::{ flag=FI }:: [mxu](https://osu.ppy.sh/users/18687807) |
+| Referee | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Kapsalon](https://osu.ppy.sh/users/6941124), ::{ flag=NL }:: [KayoNar](https://osu.ppy.sh/users/6960689), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [Marslam](https://osu.ppy.sh/users/16814497), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [JustChe](https://osu.ppy.sh/users/18229204), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932), ::{ flag=NL }:: [DeathByDarwin](https://osu.ppy.sh/users/9087777) |
+| Streamer | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Amarillo](https://osu.ppy.sh/users/6632587), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
+| Commentator | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [Telegy](https://osu.ppy.sh/users/16322001), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [cozyin](https://osu.ppy.sh/users/12200180), ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931), ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220), ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) |
 | Designer | ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323) |
-
-*This list may be updated during the tournament*
 
 ## Links
 
 - [Website](https://tourney.huismetbenen.nl/25)
 - [Forum post](https://osu.ppy.sh/community/forums/topics/1959133?n=1)
-- [Livestream](https://www.twitch.tv/NDC_osu)
+- [Livestream A](https://twitch.tv/NDC_osu)
+- [Livestream B](https://twitch.tv/NDC_osu2)
+- [Livestream C](https://twitch.tv/NDC_osu3)
 
 ## Participants
 
 | Seed | Player | Global rank | Country rank |
 | :-: | :-- | :-: | :-: |
-| 1 | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) | #748 | #10 |
+| 1 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | #748 | #10 |
 | 2 | ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831) | #15964 | #194 |
 | 3 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #53 | #1 |
 | 4 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #2143 | #28 |
@@ -116,7 +121,127 @@ The National Dutch Championship 2024 is run by various community members.
 | 49 | ::{ flag=NL }:: [KawaiiSniperBoy](https://osu.ppy.sh/users/20524617) | #143847 | #1647 |
 | 50 | ::{ flag=NL }:: [Aimy](https://osu.ppy.sh/users/20348925) | #95883 | #1139 |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+![](img/podium.jpg "NDC 2024 results")
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/gf)**
+
+- Nomod
+  1. [t+pazolite - Bad Boy's missa (DoKito) [DoKo]](https://osu.ppy.sh/beatmapsets/408820#osu/887621)
+  2. [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) [Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - Original]](https://osu.ppy.sh/beatmapsets/1312054#osu/2719283)
+  3. [Seastar - Made out of Fire (Mijn Aim Zuigt) [The flame that burns]](https://osu.ppy.sh/beatmapsets/2261386#osu/4813193)
+  4. [Silentroom - Nhelv (Halgoh) [Disruption of Ataraxia]](https://osu.ppy.sh/beatmapsets/2049001#osu/4278109)
+  5. [Vaenus - Lazorbeamz (fnql) [Beamed]](https://osu.ppy.sh/beatmapsets/1973894#osu/4096455)
+  6. [Cansol - Train of Thought (Mouse_) [Derailment]](https://osu.ppy.sh/beatmapsets/2171475#osu/4586623)
+  7. [METAROOM - SPIKEY BOI (JeZag) [MUSH (THE FINALE)]](https://osu.ppy.sh/beatmapsets/1888434#osu/3889200)
+- Hidden
+  1. [paraoka feat. haru*nya - Tyranny (melon boy) [KACHOW]](https://osu.ppy.sh/beatmapsets/1976812#osu/4103526)
+  2. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) [Phantasm]](https://osu.ppy.sh/beatmapsets/1889104#osu/3890682)
+  3. [Takahashi Yoko - Zankoku na Tenshi no These (aishiteiru-) [EvilNekit's climbed into a fucking robot]](https://osu.ppy.sh/beatmapsets/2196064#osu/4646927)
+  4. [seatrus - Querasis (Realazy) [Polaris]](https://osu.ppy.sh/beatmapsets/1850936#osu/3802335)
+- Hard Rock
+  1. [bbno$ & Rich Brian - edamame (Nijika Ijichi) [low-hanging fruit]](https://osu.ppy.sh/beatmapsets/1589180#osu/4009923)
+  2. [Michael Jackson - Smooth Criminal (ConsumerOfLean) [Crescendo]](https://osu.ppy.sh/beatmapsets/1297771#osu/2692157)
+  3. [BilliumMoto - Stained Satin (CMeFly) [Heart of the Cards]](https://osu.ppy.sh/beatmapsets/2261255#osu/4812849)
+  4. [Halozy - Genryuu Kaiko (Hollow Wings) [Higan Torrent]](https://osu.ppy.sh/beatmapsets/180138#osu/433005)
+- Double Time
+  1. [YUKIYANAGI - Thousand Lights (ZcortezZ) [Forgive me]](https://osu.ppy.sh/beatmapsets/1107784#osu/2315263)
+  2. [dj TAKA - True Blue (Monstrata) [Halcyon]](https://osu.ppy.sh/beatmapsets/418922#osu/907479)
+  3. [goreshit - o'er the flood (grumd) [The Flood Beneath]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)
+  4. [Warak - Slow Motion (feat. DongGeyoung) (NeonLights) [DeviousPanda's Expert]](https://osu.ppy.sh/beatmapsets/1014716#osu/2155904)
+- Tiebreaker
+  1. **[Kou! - ZiWEiYUAN (taku) [The Majestic Celestial Formation of the Emperor's Realm]](https://osu.ppy.sh/beatmapsets/2258496#osu/4805902)**
+
+### Finals
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/f)**
+
+- Nomod
+  1. [t+pazolite - Elder Dragon Legend (PaRaDogi) [Dogistyle]](https://osu.ppy.sh/beatmapsets/2257935#osu/4804514)
+  2. [Brymir - Pantheon of Forsaken Gods (LMT) [Hideous Divinity]](https://osu.ppy.sh/beatmapsets/1633210#osu/3333669)
+  3. [Machine Girl - Infinite Potentiality (Cut Ver.) (rnuxk) [extraordinaire]](https://osu.ppy.sh/beatmapsets/1719598#osu/3514241)
+  4. [tn-shi - Synthesis. (iljaaz) [Synthesis.impetus(Corsace)]](https://osu.ppy.sh/beatmapsets/2238746#osu/4757386)
+  5. [goreshit - slavik goblins (xidorn) [THE LAST]](https://osu.ppy.sh/beatmapsets/1550497#osu/3168378)
+  6. [tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) [hidden extra.]](https://osu.ppy.sh/beatmapsets/1594769#osu/3257371)
+  7. [aran - Graces of Heaven (Mattay) [Biblically Accurate Beatmap]](https://osu.ppy.sh/beatmapsets/2063140#osu/4314996)
+- Hidden
+  1. [Nanawo Akari - Higher's High (Garden) [Counterattack]](https://osu.ppy.sh/beatmapsets/1846714#osu/3793495)
+  2. [KOTOKO - Princess Bride! -Redecorate version- (happy30) [HD2]](https://osu.ppy.sh/beatmapsets/2257946#osu/4804555)
+  3. [Ali B vs Tatsh & NAOKI - Rampeneren in de Rooie Streek (Castagne) [Waar is Ali?]](https://osu.ppy.sh/beatmapsets/2257931#osu/4804492)
+  4. [USAO - Dynamite (Camellia's MACHO TNT REMIX) (Slaked) [KABOOM]](https://osu.ppy.sh/beatmapsets/836053#osu/1762037)
+- Hard Rock
+  1. [Zips - Heisei Sayonara Bye Bye (Dailycare) [Implacable]](https://osu.ppy.sh/beatmapsets/1957026#osu/4054802)
+  2. [Magnetude - Signals (Firebool) [1 GHz]](https://osu.ppy.sh/beatmapsets/850972#osu/1891907)
+  3. [factal - Flux (Sharu) [liquid]](https://osu.ppy.sh/beatmapsets/1190470#osu/2480417)
+  4. [Toromaru - Wasteland (bob) [Fallout]](https://osu.ppy.sh/beatmapsets/2191802#osu/4636252)
+- Double Time
+  1. [Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia (Mir) [Sin]](https://osu.ppy.sh/beatmapsets/1852680#osu/3806796)
+  2. [Dimrain47 - Operation: Evolution (Dada) [Salvation: Solution]](https://osu.ppy.sh/beatmapsets/1581301#osu/3228972)
+  3. [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) [Lunatic]](https://osu.ppy.sh/beatmapsets/58951#osu/176960)
+  4. [Sangatsu no Phantasia - Pastel Rain (deetz) [Extra]](https://osu.ppy.sh/beatmapsets/1060431#osu/2220287)
+- Tiebreaker
+  1. **[FELT - Lost / Lies in Reality (Mir) [Forsaken]](https://osu.ppy.sh/beatmapsets/2258024#osu/4804751)**
+
+### Semifinals
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/sf)**
+
+- No Mod
+  1. [Powerwolf - Sermon of Swords (piroshki) [Pilgrims of Dark]](https://osu.ppy.sh/beatmapsets/2085330#osu/4368595)
+  2. [blobdash - BLEED (OKSY) [Pain Is Weakness Leaving The Body >.<]](https://osu.ppy.sh/beatmapsets/2207093#osu/4673458)
+  3. [ZAQ - Dance In The Game (Airiesu) [seros x alevi's Gospel of Lies]](https://osu.ppy.sh/beatmapsets/1817884#osu/3879086)
+  4. [Noisia & IMANU - Shift (Mir) [Spectrum]](https://osu.ppy.sh/beatmapsets/1781878#osu/3649036)
+  5. [DragonForce - The Game (Nattu) [Legend]](https://osu.ppy.sh/beatmapsets/514176#osu/1172150)
+  6. [Alice Schach and the Magic Orchestra - NEW GAME (anna apple) [$#i%! I HATE THIS &#$%*@?$ GAME!!!]](https://osu.ppy.sh/beatmapsets/1769487#osu/3622269)
+- Hidden
+  1. [Halozy - Sentimental Skyscraper (Hollow Wings) [Myouren Hijiri]](https://osu.ppy.sh/beatmapsets/100348#osu/412288)
+  2. [Renard - Banned Forever (Blue Dragon) [Lesjuh]](https://osu.ppy.sh/beatmapsets/16349#osu/64266)
+  3. [Aoi - Quartzshaper (mintIceCream_) [Feiri's Extra]](https://osu.ppy.sh/beatmapsets/2091789#osu/4414921)
+- Hard Rock
+  1. [Team Nekokan - Can't Defeat Airman (Blue Dragon) [Holy Shit! It's Airman!!]](https://osu.ppy.sh/beatmapsets/24313#osu/104229)
+  2. [Bruno Mars, Anderson .Paak, Silk Sonic - Fly As Me (flake) [The Flake and Luminiscental Experience]](https://osu.ppy.sh/beatmapsets/2044929#osu/4268241)
+  3. [succducc - me & u (Cubby) [whale (tourney ver.)]](https://osu.ppy.sh/beatmapsets/2247234#osu/4778266)
+- Double Time
+  1. [Ado - New Genesis (Yogurtt) [THE ONE PIECE IS REAL]](https://osu.ppy.sh/beatmapsets/1830890#osu/3758092)
+  2. [yuikonnu - Kono Fuzaketa Subarashiki Sekai wa, Boku no Tame ni Aru (Athanasia-) [Insane]](https://osu.ppy.sh/beatmapsets/1297930#osu/3228570)
+  3. [Pendulum - Hold Your Colour (GRR SNARL GROWL) [Hold Your Growlr]](https://osu.ppy.sh/beatmapsets/1834500#osu/3766173)
+  4. [Halozy - Crystal Snow (itay) [Frigid Birth]](https://osu.ppy.sh/beatmapsets/2227686#osu/4726069)
+- Tiebreaker
+  1. **[CROSS VEIN - Eternal Dream (pedeko) [Destiny]](https://osu.ppy.sh/beatmapsets/1936297#osu/4002050)**
+
+### Quarterfinals
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/qf)**
+
+- No Mod
+  1. [Panda Eyes & Teminite - Highscore (Fort) [Game Over]](https://osu.ppy.sh/beatmapsets/332532#osu/736215)
+  2. [Sabaton - Twilight Of The Thunder God (Mazzerin) [Ragnarok awaits]](https://osu.ppy.sh/beatmapsets/1616046#osu/3299406)
+  3. [Sara Wakui - Escape (feat. mimiko) (oatm) [Entropy]](https://osu.ppy.sh/beatmapsets/2009101#osu/4179715)
+  4. [Eagle - Hypersonik (Ascended) [zhuxiaoyan's Ultra]](https://osu.ppy.sh/beatmapsets/1834293#osu/3783723)
+  5. [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Kite) [Extreme]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
+  6. [Smile.dk - Hummingbird (Castagne) [Love]](https://osu.ppy.sh/beatmapsets/2250749#osu/4786718)
+- Hidden
+  1. [Byakko - Kachoufuusetsu (allein) [Elvis' Extra]](https://osu.ppy.sh/beatmapsets/2132895#osu/4486792)
+  2. [ShinRa-Bansho - Subarashiki Hani World (Kurashina Asuka) [Sentience]](https://osu.ppy.sh/beatmapsets/1558276#osu/3183124)
+  3. [TERRASPEX - AMAZING BREAK (Monstrata) [DESPAIR]](https://osu.ppy.sh/beatmapsets/571835#osu/1211828)
+- Hard Rock
+  1. [the peggies - Neverland (Meg) [Extra]](https://osu.ppy.sh/beatmapsets/776015#osu/1630565)
+  2. [Eisyo-kobu - Oriental Blossom (Crystal) [yf's Expert]](https://osu.ppy.sh/beatmapsets/586889#osu/1242793)
+  3. [Boom Kitty & Ubi - Tokyo Takedown (Pisapou) [Destruction]](https://osu.ppy.sh/beatmapsets/1737667#osu/3551578)
+- Double Time
+  1. [fuku_wa - Shinzou Cascade (melon boy) [Very Cool]](https://osu.ppy.sh/beatmapsets/1876208#osu/3861051)
+  2. [ZUN - Fuujin Shoujo (sstari) [Lunatic]](https://osu.ppy.sh/beatmapsets/2176254#osu/4595545)
+  3. [Deadlock - A New Era (ItsWinter) [Heatwave's Insane]](https://osu.ppy.sh/beatmapsets/1227180#osu/2702508)
+  4. [Arizona Zervas - ROXANNE (wafer) [Akari's Inner]](https://osu.ppy.sh/beatmapsets/1930291#osu/4006827)
+- Tiebreaker
+  1. **[Thank You Scientist - The Amateur Arsonist's Handbook (Fisky) [Poisonous Emotions]](https://osu.ppy.sh/beatmapsets/1443356#osu/2968949)**
 
 ### Round of 16
 
@@ -184,6 +309,122 @@ The National Dutch Championship 2024 is run by various community members.
   2. [frederic - Junkie (elicz1) [XLT's Insane]](https://osu.ppy.sh/beatmapsets/2078299#osu/4387718)
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 13 October 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Aheo** ::{ flag=NL }:: | **7** | 2 | ::{ flag=NL }:: chillington 15 | [#1](https://osu.ppy.sh/community/matches/115841978) |
+
+Saturday, 12 October 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| LUCIANO ::{ flag=NL }:: | 5 | **7** | ::{ flag=NL }:: **chillington 15** | [#1](https://osu.ppy.sh/community/matches/115823278) |
+
+### Finals
+
+Sunday, 6 October 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **chillington 15** ::{ flag=NL }:: | **7** | 1 | ::{ flag=NL }:: Dolter | [#1](https://osu.ppy.sh/community/matches/115759887) |
+| **Dolter** ::{ flag=NL }:: | **7** | 3 | ::{ flag=NL }:: PotjeNutella | [#1](https://osu.ppy.sh/community/matches/115758897) |
+| **chillington 15** ::{ flag=NL }:: | **7** | 1 | ::{ flag=NL }:: Katie Djeestar | [#1](https://osu.ppy.sh/community/matches/115757960) |
+
+Saturday, 5 October 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Aheo** ::{ flag=NL }:: | **7** | 1 | ::{ flag=NL }:: LUCIANO | [#1](https://osu.ppy.sh/community/matches/115745022) |
+
+### Semifinals
+
+Sunday, 29 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Heavymetal4life ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **PotjeNutella** | [#1](https://osu.ppy.sh/community/matches/115681046) |
+| chillington 15 ::{ flag=NL }:: | 3 | **6** | ::{ flag=NL }:: **LUCIANO** | [#1](https://osu.ppy.sh/community/matches/115680265) |
+
+Saturday, 28 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| FietsAapje ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **PotjeNutella** | [#1](https://osu.ppy.sh/community/matches/115666614) |
+| **Aheo** ::{ flag=NL }:: | **6** | 0 | ::{ flag=NL }:: Dolter | [#1](https://osu.ppy.sh/community/matches/115665742) |
+| wessel_osu2 ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **Katie Djeestar** | [#1](https://osu.ppy.sh/community/matches/115665065) |
+| **wessel_osu2** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: Nederland | [#1](https://osu.ppy.sh/community/matches/115663974) |
+| **Heavymetal4life** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: Alphan | *win by default* |
+| **Katie Djeestar** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: heyronii | [#1](https://osu.ppy.sh/community/matches/115660606) |
+
+### Quarterfinals
+
+Sunday, 22 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **PotjeNutella** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: SecretlyShiro | *win by default* |
+| **LUCIANO** ::{ flag=NL }:: | **6** | 0 | ::{ flag=NL }:: Heavymetal4life | [#1](https://osu.ppy.sh/community/matches/115597178) |
+| wessel_osu2 ::{ flag=NL }:: | 3 | **6** | ::{ flag=NL }:: **Dolter** | [#1](https://osu.ppy.sh/community/matches/115595419) |
+| FietsAapje ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **chillington 15** | [#1](https://osu.ppy.sh/community/matches/115595425) |
+| **Nederland** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: Goose King | [#1](https://osu.ppy.sh/community/matches/115593764) |
+| **PotjeNutella** ::{ flag=NL }:: | **6** | 4 | ::{ flag=NL }:: TheCoolJfp | [#1](https://osu.ppy.sh/community/matches/115592067) |
+| **Aheo** ::{ flag=NL }:: | **6** | 0 | ::{ flag=NL }:: Katie Djeestar | [#1](https://osu.ppy.sh/community/matches/115591193) |
+
+Saturday, 21 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Nederland** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: wooz | [#1](https://osu.ppy.sh/community/matches/115581847) |
+| draconia ::{ flag=NL }:: | -1 | **0** | ::{ flag=NL }:: **WeederBoss0** | *win by default* |
+| **heyronii** ::{ flag=NL }:: | **6** | 2 | ::{ flag=NL }:: WeederBoss0 | [#1](https://osu.ppy.sh/community/matches/115576663) |
+| **Goose King** ::{ flag=NL }:: | **6** | 5 | ::{ flag=NL }:: Damnjelly | [#1](https://osu.ppy.sh/community/matches/115575708) |
+| Wittepoes ::{ flag=NL }:: | 4 | **6** | ::{ flag=NL }:: **Alphan** | [#1](https://osu.ppy.sh/community/matches/115574875) |
+| **heyronii** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: faze-dank | *win by default* |
+
+Friday, 20 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **SecretlyShiro** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: UnveiledGolem | [#1](https://osu.ppy.sh/community/matches/115567540) |
+| **Alphan** ::{ flag=NL }:: | **6** | 2 | ::{ flag=NL }:: cozyin | [#1](https://osu.ppy.sh/community/matches/115565827) |
+| **Wittepoes** ::{ flag=NL }:: | **6** | 5 | ::{ flag=NL }:: sofuraabu | [#1](https://osu.ppy.sh/community/matches/115562480) |
+
+### Round of 16
+
+Sunday, 15 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Trehaloses ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **faze-dank** | [#1](https://osu.ppy.sh/community/matches/115510826) |
+| heyronii ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **chillington 15** | [#1](https://osu.ppy.sh/community/matches/115510852) |
+| Nederland ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **Heavymetal4life** | [#1](https://osu.ppy.sh/community/matches/115509904) |
+| **LUCIANO** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Goose King | [#1](https://osu.ppy.sh/community/matches/115509880) |
+| oetluller ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **sofuraabu** | [#1](https://osu.ppy.sh/community/matches/115509376) |
+| Stogdy ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **cozyin** | [#1](https://osu.ppy.sh/community/matches/115508962) |
+| GeKa_Z ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **wooz** | [#1](https://osu.ppy.sh/community/matches/115508921) |
+| **Katie Djeestar** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: PotjeNutella | [#1](https://osu.ppy.sh/community/matches/115506225) |
+| **Aheo** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: SecretlyShiro | [#1](https://osu.ppy.sh/community/matches/115503691) |
+
+Saturday, 14 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| draconia ::{ flag=NL }:: | -1 | **0** | ::{ flag=NL }:: **FietsAapje** | *win by default* |
+| **TheCoolJfp** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: pregnant | *win by default* |
+| DJJDJ516 ::{ flag=NL }:: | 0 | **5** | ::{ flag=NL }:: **WeederBoss0** | [#1](https://osu.ppy.sh/community/matches/115490222) |
+| **Damnjelly** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: darknessofUwU | *win by default* |
+| **wessel_osu2** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Alphan | [#1](https://osu.ppy.sh/community/matches/115487587) |
+
+Friday, 13 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **UnveiledGolem** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: permiss | [#1](https://osu.ppy.sh/community/matches/115477504) |
+| **Dolter** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Wittepoes | [#1](https://osu.ppy.sh/community/matches/115473467) |
 
 ### Round of 32
 
@@ -274,7 +515,7 @@ Friday, 6 September 2024:
 
 1. Mappools are released on the Monday night prior to the match weekend.
 2. The mappool structure is as follows:
-   - Qualifiers: 4 NM / 2 HD / 2 HR/ 2 DT
+   - Qualifiers: 4 NM / 2 HD / 2 HR / 2 DT
    - Round of 32: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
    - Round of 16: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
    - Quarterfinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11

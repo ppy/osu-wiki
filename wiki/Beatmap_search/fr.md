@@ -12,7 +12,7 @@ tags:
   - client de recherche
   - recherche sur le web
 outdated_translation: true
-outdated_since: 2524e524a0eac80212c345f45d4cd96ee3a06f5c
+outdated_since: 905340ee700a7e6885a56dffdced959df02686f1
 ---
 
 # Recherche des beatmaps
@@ -24,7 +24,7 @@ Par défaut, tout texte saisi à [l'écran de sélection des musiques](/wiki/Cli
 Les champs de métadonnées des beatmap peuvent être comparés à des valeurs spécifiques pour un filtrage plus précis, à l'aide des opérateurs suivants :
 
 | Comparaison | osu!web | osu!(stable) | osu!(lazer) | Description |
-| :-: | :-- | :-- | :-- | :-- |
+| :-: | :- :| :-: | :-: | :-- |
 | `=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Égale à |
 | `==` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Égale à |
 | `:` | ![Oui][vrai] | ![Non][faux] | ![Oui][vrai] | Égale à |
@@ -39,7 +39,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 *Remarque : les filtres ne fonctionnent qu'à l'écran de sélection des musiques, alors [qu'osu!direct](/wiki/osu!supporter#osu!direct) prend en charge la recherche en texte intégral uniquement.*
 
 | Filtre | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Nom de l'artiste |
 | `creator` | Nom du créateur des difficultés |
 | `title` | Nom de la musique |
@@ -62,7 +62,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 ## Site web[^filtres-sites-web]
 
 | Filtre | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Nom de l'artiste |
 | `title` | Nom de la musique |
 | `source` | Le support, tel qu'un jeu vidéo, un film, une série ou un événement, d'où provient la musique ou auquel elle est le mieux associée. |
@@ -85,7 +85,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 ## Client (lazer)[^filtres-lazer]
 
 | Filtre | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Nom de l'artiste |
 | `title` | Nom de la musique |
 | `creator` | Nom du créateur des difficultés |
@@ -99,7 +99,8 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 | `length` | [Le temps de jeu](/wiki/Beatmap/Play_time) en secondes |
 | `key`, `keys` | Nombre de touches (osu!mania et beatmaps convertis uniquement) |
 | `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. |
-| `played`, `lastplayed` | Temps écoulé depuis la dernière lecture. Accepte le format `#y#M#d#h#m#s`, pour les années, les mois, les jours, les heures, les minutes et les secondes respectivement. Par exemple, `2d5s` signifie "2 jours et 5 secondes". |
+| `lastplayed` | Temps écoulé depuis la dernière lecture. Accepte le format `#y#M#d#h#m#s`, pour les années, les mois, les jours, les heures, les minutes et les secondes respectivement. Par exemple, `2d5s` signifie "2 jours et 5 secondes". |
+| `played` | L'état de la beatmap. La valeur peut être `yes`, `true`, ou `1` pour les beatmaps joués, ou `no`, `false`, ou `0` pour les beatmaps non joués. |
 | `divisor` | Le dénominateur du [diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Exemples de requêtes
@@ -131,7 +132,7 @@ ranked>=2010-08 ranked<2010-11 creator=Natteke
 (Lazer) Trouvez les difficultés d'une beatmap qui ont été jouées il y a moins de 2 mois et 5 heures :
 
 ```
-played<2M5h
+lastplayed<2M5h
 ```
 
 (Lazer) Trouver les difficultés de la beatmap qui n'ont pas été jouées au cours de l'année écoulée :
@@ -149,7 +150,7 @@ status=r,l
 ## Références
 
 [^filtres-sites-web]: [Code source osu!web](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^filtres-lazer]: [Code source osu!(lazer)](https://github.com/ppy/osu/blob/ae9a2661ace43a96a4fbf26072ed3efd0dc0ba54/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^filtres-lazer]: [Code source osu!(lazer)](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [vrai]: /wiki/shared/true.png
 [faux]: /wiki/shared/false.png

@@ -253,6 +253,29 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
 
+### 2024
+
+#### March
+
+*For the news post, see: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Outstanding contribution to moderation affairs, team leadership and news coverage |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Outstanding coordination of osu! music and art production |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Outstanding contribution to the osu!catch community and mapping scene |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Outstanding contribution to the osu!catch community and integral tool development |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Outstanding contribution to the osu!mania modding and mapping scene |
+| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Outstanding contribution to the osu!mania tournament and mapping scene |
+| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Outstanding contribution to performance points development via integral tooling ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Outstanding contribution to perfomance points development and osu!(stable) maintainance |
+| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Outstanding contribution in uniting the community on Reddit [r/place](https://www.reddit.com/r/place/) events |
+| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Outstanding contribution to the community replay documentation and tooling development |
+| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Outstanding contribution to the community via tooling development ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
+| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Outstanding contribution to the community via tooling development ([osuplus](https://github.com/limjeck/osuplus)) |
+| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Outstanding contribution to the community via tooling development ([owo! bot](https://owo-bot.xyz/)) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Outstanding contribution to the community via tooling development ([Bathbot](https://github.com/MaxOhn/Bathbot])) |
+
 ## History
 
 During February 2018, the old contributor badge by ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) was redesigned by ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) due to not matching the new website's colour scheme.[^redesign-reasons]

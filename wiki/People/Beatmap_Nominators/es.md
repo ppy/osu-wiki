@@ -6,9 +6,15 @@ tags:
 
 # Beatmap Nominators
 
-*Véase también: [Reglas para los Beatmap Nominators](Rules), [Expectativas de los Beatmap Nominators](Expectations), [Información general de los Beatmap Nominators](General_Information) y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_groups) que dice `BN`.
 
-Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Se distinguen por su título de usuario morado y su insignia de [grupo de usuarios](/wiki/People/User_group) que dice `BN`.
+## Artículos relacionados
+
+- [Reglas para los Beatmap Nominators](Rules)
+- [Expectativas de los Beatmap Nominators](Expectations)
+- [Información general para los Beatmap Nominators](General_Information)
+- [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)
+- [Eventos de Beatmap Nominators](/wiki/Community/Beatmap_Nominator_events)
 
 ## Roles y responsabilidades
 
@@ -26,9 +32,9 @@ Aproximadamente cada tres meses, el [Nomination Assessment Team](/wiki/People/No
 
 ### Beatmap Nominators provisionales
 
-El período de prueba se usa para monitorear más de cerca a los nuevos Beatmap Nominators. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
+El periodo de prueba se usa para monitorear más de cerca a los nuevos Beatmap Nominators. La función principal de los Beatmap Nominators provisionales es establecer una base como Beatmap Nominator a través de la promoción exclusiva de beatmaps en el proceso de clasificación. Al menos un nominador completo debe estar involucrado en el proceso de clasificación para cada modo de juego de un beatmap, por lo que los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los Beatmap Nominators provisionales son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de cumplir con el doble de sus [requisitos de actividad](/wiki/People/Beatmap_Nominators/Rules#requisitos) o después de un mes de haber sido puestos ahí, lo que suceda primero.
+Los Beatmap Nominators provisionales deben tener al menos **3** beatmaps nominados que hayan sido clasificados. Son [evaluados](/wiki/People/Nomination_Assessment_Team/Evaluations) después de un mes, y la evaluación puede ocurrir antes si tienen **6** nominaciones clasificadas a principios de mes.
 
 A los nuevos miembros de los Beatmap Nominators se les asignará un compañero del NAT con el que podrán ponerse en contacto directamente en caso de preguntas u orientación. Después de su primera evaluación, serán promovidos a Beatmap Nominators completos luego de una evaluación positiva, o serán retirados de los Beatmap Nominators.
 
@@ -42,14 +48,14 @@ Los Beatmap Nominators reciben los siguientes beneficios:
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que han sido BN.
   ![Insignia de BN de 1 año](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "Insignia de BN de 1 año") ![Insignia de BN de 2 años](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "Insignia de BN de 2 años") ![Insignia de BN de 3 años](https://assets.ppy.sh/profile-badges/BN3y.png "Insignia de BN de 3 años") ![4 Insignia de BN de 4 años](https://assets.ppy.sh/profile-badges/BN4y.png "Insignia de BN de 4 años") ![Insignia de BN de 5 años](https://assets.ppy.sh/profile-badges/BN5y.png "Insignia de BN de 5 años") ![Insignia de BN de 6 años](https://assets.ppy.sh/profile-badges/BN6y.png "Insignia de BN de 6 años") ![Insignia de BN de 7 años](https://assets.ppy.sh/profile-badges/BN7y.png "Insignia de BN de 7 años") ![Insignia de BN de 8 años](https://assets.ppy.sh/profile-badges/BN8y.png "Insignia de BN de 8 años") ![Insignia de BN de 9 años](https://assets.ppy.sh/profile-badges/BN9y.png "Insignia de BN de 9 años") ![Insignia de BN de 10 años](https://assets.ppy.sh/profile-badges/BN10y.png "Insignia de BN de 10 años")
 - **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominations)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
-  ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
+  ![Insignia de 100 nominaciones](https://assets.ppy.sh/profile-badges/100_noms.png "Insignia de 100 nominaciones") ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
 - **Elegibilidad para [Elite Nominator](/wiki/People/Elite_Nominators)**: Los Beatmap Nominators que se desempeñen excepcionalmente en su oficio son elegibles para recibir el [título de usuario](/wiki/Community/User_title) Elite Nominator.
 
 ## Miembros del equipo
 
 Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
 
-Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominators hablan inglés en adición a los idiomas listados debajo a menos que se especifique otra cosa.*
+Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominators hablan inglés además de los idiomas indicados a continuación, a menos que se indique lo contrario.*
 
 ### Beatmap Nominators completos
 
@@ -59,7 +65,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | :-- | :-- |
 | ::{ flag=KZ }:: [-Hitomi](https://osu.ppy.sh/users/15583987) |  |
 | ::{ flag=BY }:: [-Mikan](https://osu.ppy.sh/users/9063995) | Bielorruso |
-| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
+| ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Finés |
 | ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) |  |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
@@ -71,6 +77,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finés |
 | ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
 | ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Portugués |
+| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Coreano |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino |
@@ -78,51 +85,45 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués, español |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Coreano |
 | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Español |
+| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Portugués |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Ruso |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tailandés |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | Polaco |
 | ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | Coreano |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chino |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Filipino |
-| ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Alemán, español, francés |
 | ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) |  |
 | ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312) |  |
 | ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
-| ::{ flag=US }:: [Howard W](https://osu.ppy.sh/users/8165181) |  |
 | ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Portugués |
+| ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chino, algo de francés |
+| ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) | Alemán |
 | ::{ flag=HK }:: [KennethBBG](https://osu.ppy.sh/users/13032817) | Cantonés, chino |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) |  |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Coreano, japonés, chino |
 | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |  |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ::{ flag=BR }:: [Malphs](https://osu.ppy.sh/users/9234078) | Portugués |
 | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | Afrikáans |
 | ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
 | ::{ flag=CN }:: [MeAqua tete](https://osu.ppy.sh/users/5645691) | Chino |
 | ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | Español |
 | ::{ flag=TW }:: [MianYa](https://osu.ppy.sh/users/1844862) | Chino |
-| ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Indonesio, chino |
 | ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734) | Chino |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chino |
-| ::{ flag=AU }:: [Nadeshiko](https://osu.ppy.sh/users/3558897) |  |
-| ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |
-| ::{ flag=HK }:: [Natsume Shizuku](https://osu.ppy.sh/users/9633734) | Chino |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chino |
+| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) |  |
 | ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768) | Portugués |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ::{ flag=US }:: [No Dap](https://osu.ppy.sh/users/3044645) | Coreano |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francés |
-| ::{ flag=CA }:: [OxT](https://osu.ppy.sh/users/19656568) |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino |
 | ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | Filipino |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Chino |
 | ::{ flag=JP }:: [Reioli](https://osu.ppy.sh/users/8200707) | Japonés |
-| ::{ flag=PR }:: [Renumi](https://osu.ppy.sh/users/1721120) | Español |
 | ::{ flag=CA }:: [Resona](https://osu.ppy.sh/users/3124248) | Japonés |
+| ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |  |
 | ::{ flag=KR }:: [Riana](https://osu.ppy.sh/users/1997633) |  |
 | ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992) | Estonio |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chino |
@@ -131,7 +132,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | Japonés |
 | ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Cantonés, chino |
 | ::{ flag=BR }:: [Shiyun](https://osu.ppy.sh/users/3947634) | Portugués |
-| ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Ruso |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) | Serbio |
@@ -141,10 +141,8 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
 | ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931) | Japonés |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Japonés |
-| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Ruso |
 | ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
 | ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Italiano |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco |
 
 #### osu!taiko
 
@@ -160,21 +158,21 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, chino |
 | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | Neerlandés |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
+| ::{ flag=PR }:: [Default Guy](https://osu.ppy.sh/users/7058457) | Español |
 | ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391) |  |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
-| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Chino, cantonés |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonés, chino |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Chino, cantonés, japonés |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chino |
 | ::{ flag=US }:: [Nostril](https://osu.ppy.sh/users/11479122) |  |
-| ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | Serbio |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemán, serbio, japonés |
-| ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) | Francés, chino |
+| ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japonés |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Ruso |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | Coreano |
 | ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) | Español |
 | ::{ flag=TW }:: [WTHBRO](https://osu.ppy.sh/users/8957119) | Chino |
+| ::{ flag=JP }:: [Yutsu-](https://osu.ppy.sh/users/16320311) | Japonés |
 | ::{ flag=DE }:: [Zhuosh](https://osu.ppy.sh/users/11056763) | Chino, alemán, japonés, cantonés |
 
 #### osu!catch
@@ -191,8 +189,9 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | Español |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonesio |
 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Ruso |
+| ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
-| ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
+| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) |  |
 
 #### osu!mania
 
@@ -212,6 +211,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756) | Filipino |
 | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | Danés |
 | ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196) | Malayo |
+| ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | Coreano |
 | ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) | Chino |
 | ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616) | Chino |
@@ -219,17 +219,21 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Italiano |
 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Chino |
+| ::{ flag=CN }:: [Hoshimegu Mio](https://osu.ppy.sh/users/17753835) | Chino |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=ID }:: [Ihram](https://osu.ppy.sh/users/9908055) | Indonesio, malayo |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesio, malayo, japonés |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonés, chino |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) |  |
 | ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Alemán |
+| ::{ flag=ID }:: [Mirsaaa](https://osu.ppy.sh/users/15328093) | Indonesio |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | Español |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Neerlandés |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Coreano |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Gallego, italiano, japonés, español, portugués |
-| ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Indonesio |
+| ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Italiano |
+| ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) |  |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonesio |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Coreano |
@@ -241,7 +245,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |  |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | Indonesio |
-| ::{ flag=CN }:: [YyottaCat](https://osu.ppy.sh/users/17753835) | Chino |
 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) | Chino |
 
 ### Beatmap Nominators provisionales
@@ -250,28 +253,46 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
-| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
-| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) |  |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italiano |
+| ::{ flag=UA }:: [aishiteiru-](https://osu.ppy.sh/users/10566388) |  |
+| ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |  |
+| ::{ flag=RU }:: [Djulus](https://osu.ppy.sh/users/4960893) | Ruso |
+| ::{ flag=ID }:: [fedora](https://osu.ppy.sh/users/11016828) | Indonesio |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finés |
+| ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Chino |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) |  |
+| ::{ flag=DE }:: [jamesjan3](https://osu.ppy.sh/users/6260705) |  |
+| ::{ flag=US }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Chino |
+| ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) | Turco |
+| ::{ flag=US }:: [Kataryn](https://osu.ppy.sh/users/19044162) |  |
+| ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340) |  |
+| ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Chino |
+| ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | Chino |
+| ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finés, japonés |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Húngaro |
 
 #### osu!taiko
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=PR }:: [Default Guy](https://osu.ppy.sh/users/7058457) | Español |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japonés |
+| ::{ flag=BR }:: [Doug](https://osu.ppy.sh/users/13806900) | Portugués, español |
 
 #### osu!catch
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
-| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) |  |
+| ::{ flag=CN }:: [sxy62146214](https://osu.ppy.sh/users/8386591) | Chino |
 
 #### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ::{ flag=CN }:: [7912](https://osu.ppy.sh/users/14875348) | Chino |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español |
+| ::{ flag=ID }:: [Pyra-san](https://osu.ppy.sh/users/31126430) |  |
+| ::{ flag=US }:: [snomi](https://osu.ppy.sh/users/14410101) |  |
+| ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) | Chino |
+| ::{ flag=TW }:: [Usagi_](https://osu.ppy.sh/users/16046205) | Chino |
 
 ## Historia
 

@@ -14,6 +14,7 @@ tags:
 
 ![RL 模组图标](/wiki/shared/mods/RL.png "Relax (RL) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Relax（lazer 模组）](/wiki/Gameplay/Game_modifier/Relax_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于

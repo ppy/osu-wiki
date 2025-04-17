@@ -9,26 +9,31 @@ This page lists ways for people from all around osu! to get in touch with each o
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [osu! Discord server](/wiki/Community/Discord_servers#official)
 - [Offline organisations](/wiki/Community/Organisations)
+- [Reddit](/wiki/Community/Reddit)
 
 ## Projects
 
 *See also: [List of all projects](/wiki/Community/Projects)*
 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
-- [Manga](/wiki/Community/Manga)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
 - [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
-- [Video series](/wiki/Community/Video_series)
-  - [osu!academy](/wiki/Community/Video_series/osu!academy)
-  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
-  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## Initiatives
 
 - [osu! community meetings](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
+
+## Media
+
+- [Bespoke music](/wiki/Community/Bespoke_music)
+- [Manga](/wiki/Community/Manga)
+- [Video series](/wiki/Community/Video_series)
+  - [osu!academy](/wiki/Community/Video_series/osu!academy)
+  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
+  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## See also
 

@@ -7,7 +7,7 @@ no_native_review: true
 
 # Combo complet
 
-Le **combo complet** (ou *FC* en abrégé) est un terme utilisé pour décrire un joueur obtenant le maximum possible de [combo](/wiki/Beatmapping/Combo) sur une [beatmap](/wiki/Beatmap). Les combos complets sont obtenus en passant une beatmap sans aucun miss, [sliderbreaks](/wiki/Gameplay/Judgement/Slider_break), ou [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail).
+Le **combo complet** (ou *Full Combo* en abrégé, *FC*) est un terme utilisé pour décrire un joueur obtenant le maximum possible de [combo](/wiki/Beatmapping/Combo) sur une [beatmap](/wiki/Beatmap). Les combos complets sont réalisés lorsqu'un joueur termine une beatmap sans aucun miss, [sliderbreaks](/wiki/Gameplay/Judgement/Slider_break), ou [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail).
 
 Les scores qui ont perdu le combo uniquement via les fins de slider tombées sont largement considérés par la communauté comme des combos complets. Cela diffère de l'affichage du client et du site web.
 

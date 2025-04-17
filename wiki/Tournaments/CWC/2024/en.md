@@ -584,11 +584,12 @@ The final standings for the Qualifier stage can be found in the following [sprea
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
-   - The exact formula that will be used for all teams (and for each map) is `Final Score = Team Score / MAX Score`, where:
-     - `Final Score` is the percentage awarded to the current team
-     - `Team Score` is the score the current team achieved on the current map
-     - `MAX Score` is the highest score achieved for the current map
+9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1), and every other team will be awarded a percentage of that top score. The individual map percentages will be added together to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1.
+   - The exact formula that will be used for all teams (and for each map) is `Map percentage = Team score / MAX score`, where:
+     - `Map percentage` is the percentage awarded to the current team
+     - `Team score` is the score the current team achieved on the current map
+     - `MAX score` is the highest score achieved for the current map
+   - The final team score to be sorted is defined as `Final score = SUM(Map percentage)`, i.e. the sum of each map's `Map percentage`.
 10. Only the top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
@@ -646,7 +647,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
    - **A team that does not pick a time slot by May 16, 2024 (23:59 UTC) will be considered disqualified.**
 3. All bracket stage matches will be held between Saturday 00:00 and Sunday 19:00 UTC.
    - Other times may be available upon request, consult with the tournament managers for more information.
