@@ -105,10 +105,12 @@ You might have heard that the osu!mania 7K World Cup ended in February. You were
 For this month's contest, design a **7K map** with a style that fits a **round and category (a.k.a. "slot") from [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K)**. Keep these in mind:
 
 - **Mappers must choose a *round* between "Round of 32" and "Finals".** No Grand Finals–tier maps, sorry.
-- **Mappers must choose a beatmap *category* used in the World Cup.** All categories are okay, excluding "dense chordstream" (RC2), "fast chordstream" (RC6), and "chordjack" (RC3).
+- **Mappers must choose a beatmap *category* used in the World Cup.** All categories are okay, excluding "fast chordstream" (RC6) and "chordjack" (RC3).
 - **Submissions must have the round and category in their tags.** This allows judges to contextualise what they're judging!
 
 To top things off, this month's judges are seasoned 7K mappoolers and mappers!
+
+Additionally, we're collaborating with the [7K GLOBAL](https://osu.ppy.sh/community/forums/topics/2065328?n=1) community this time. The best submission from each slot — as determined by the judges — will be pooled into the 7K GLOBAL event, and their mappers will be eligible for extra rewards!
 
 ### Songs
 
@@ -140,7 +142,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
   - **osu!mania:**
     - **Submissions must be 7K.**
     - **Map must be themed around a *round* between "Round of 32" and "Finals" from [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).**
-    - **Map must be themed around a *category* (a.k.a. "slot") used [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).** All categories are okay, excluding "dense chordstream" (RC2), "fast chordstream" (RC6), and "chordjack" (RC3).
+    - **Map must be themed around a *category* (a.k.a. "slot") used [the latest osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K).** All categories are okay, excluding "fast chordstream" (RC6) and "chordjack" (RC3).
     - **Submissions must have the round and category in their tags.**
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**

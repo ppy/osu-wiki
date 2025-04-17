@@ -72,7 +72,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 - Press and hold the `leftShift` (D) key with one of the arrow keys will make the catcher *dash* in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
   - Alternatively, press and hold the Left Click (D) button on the mouse to trigger the dash.
 
-The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Gameplay/Game_modifier/Relax) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
+The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Gameplay/Game_modifier/Relax) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play will be unrankable when Relax mod is enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
 ## Scoring
 
