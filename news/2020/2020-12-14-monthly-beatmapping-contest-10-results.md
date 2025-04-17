@@ -6,7 +6,7 @@ date: 2020-12-14 20:30:00 +0000
 
 Results of the year's final mapping contest are in! See who's on top and what we have planned for next year!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 With 10 months of consecutive contests, the [**Monthly Beatmapping Contest** (***MBC***)](/wiki/Contests/Monthly_Beatmapping_Contest) has had a solid run since its relaunch in 2020. We'll be taking a break for now while mappers focus on [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love), a special remixing + mapping + storyboarding contest! If you're still itching to compete, you know what to do.
 

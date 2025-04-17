@@ -21,7 +21,7 @@ Les protections pour tablettes se présentent souvent sous une forme presque ide
 
 ## Bricolage ou fabrication
 
-De nombreux messages de forums qui demandent où acheter ou fabriquer des protection de tablettes mentionnent souvent à quel point il est facile d'en créer une. Les protection de tablettes de bricolage courantes utilisent une variété de matériaux que l'on peut trouver à la maison ou en magasin pour un prix relativement bas. En revanche, les protection de tablettes fabriquées utilisent souvent des matériaux spécialisés pour réduire l'usure des plumes et durer plus longtemps.
+De nombreux messages de forums qui demandent où acheter ou fabriquer des protection de tablettes mentionnent souvent à quel point il est facile d'en créer une. Les protection de tablettes de bricolage courantes utilisent une variété de matériaux que l'on peut trouver à la maison ou en magasin pour un prix relativement bas. En revanche, les protection pour tablettes fabriquées utilisent souvent des matériaux spécialisés pour réduire l'usure des plumes et durer plus longtemps.
 
 ### Bricolage
 
@@ -36,4 +36,4 @@ Les protection de tablettes de bricolage courantes utilisent souvent un ou plusi
 
 ### Fabrication
 
-Les protection de tablettes fabriquées ou achetées en magasin sont souvent faites de matériaux plus spécialisés qui ne peuvent pas être facilement trouvés ou façonnés/créés dans la plupart des ménages. Les magasins et distributeurs en ligne sont des distributeurs populaires de ce type de protections. Elles auront souvent une texture brillante, mate ou similaire aux protections d'écran de smartphone.
+Les protection de tablettes fabriquées ou achetées en magasin sont souvent fabriquées avec des matériaux plus spécialisés qui ne peuvent pas être facilement trouvés ou façonnés dans la plupart des ménages. Les magasins et distributeurs en ligne sont des fournisseurs populaires de ce type de protections, qui présentent souvent une texture brillante, mate ou similaire à celle des protections d'écran pour smartphone.

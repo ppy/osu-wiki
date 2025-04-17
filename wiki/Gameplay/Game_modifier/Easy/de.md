@@ -12,7 +12,8 @@ tags:
 
 ![EZ Modsymbol](/wiki/shared/mods/EZ.png "Easy (EZ) Modsymbol")
 
-*Für andere Bedeutungen, siehe [Easy (Begriffsabgrenzung)](/wiki/Disambiguation/Easy).*\
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Easy (lazer-Mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
+*Für andere Bedeutungen, siehe [Easy (Begriffsabgrenzung)](/wiki/Disambiguation/Easy)*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht

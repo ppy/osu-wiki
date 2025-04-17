@@ -6,7 +6,7 @@ date: 2021-06-25 18:30:00 +0000
 
 Two competitors rise above the rest in last month's Monthly Beatmapping Contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Need a refresher on the **Monthly Beatmapping Contest** (***MBC***)? The [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) explains just about everything you'd need to know.
 

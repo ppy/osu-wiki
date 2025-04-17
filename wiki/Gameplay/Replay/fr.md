@@ -13,7 +13,7 @@ Tant que le fichier local avec pour extension `.osr` est disponible avec la bonn
 
 Pour relancer un replay, restez appuyé sur un des boutons par défaut (`` ` ``/`~`) (qui peuvent être changés dans les [options dans la catégorie Clavier](/wiki/Client/Options#clavier) ; avec le bouton `Configurer les touches` -> **Quick Retry (hold briefly)**) ou en appuyant sur `Ctrl`+`R` pendant un court instant.
 L'écran devrait s'assombrir et un son sera joué lorsque le quick retry sera effectué.
-Relâcher trop tôt fera échouer le quick retry.
+Relâcher trop tôt entraînera l'échec du quick retry.
 
 Il est toujours possible d'accéder à la [console de tchat](/wiki/Client/Interface/Chat_console) (`F8`)/[console de tchat étendue](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue) (`F9`) .
 Appuyez sur `Tab` pour cacher/afficher le classement actuellement sélectionné.
@@ -145,10 +145,10 @@ Il est impossible d'essayer de redémarrer la beatmap pour la rejouer directemen
 
 Il ne fonctionne actuellement en `Solo` que lorsque l'écran de game over est affiché.
 
-Voir un replay échoué ne fonctionnera pas avec les mods [No Fail(NF)](/wiki/Gameplay/Game_modifier/No_Fail), [Relax(RL)](/wiki/Gameplay/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Gameplay/Game_modifier/Autopilot) puisqu'il est impossible d'échouer.
+Voir un replay d'une partie échouée ne fonctionnera pas avec les mods [No Fail(NF)](/wiki/Gameplay/Game_modifier/No_Fail), [Relax(RL)](/wiki/Gameplay/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Gameplay/Game_modifier/Autopilot) puisqu'il est impossible d'échouer.
 Utiliser le mod [Perfect(PF)](/wiki/Gameplay/Game_modifier/Perfect) effectuera automatiquement un quick retry au lieu d'afficher un écran de game over.
 
-S'il y avait une chaîne de retry, celle-ci sera perdue une fois avoir lancé le replay échoué.
+S'il y avait une chaîne de retry, celle-ci sera perdue une fois avoir lancé le replay d'une partie échouée.
 
 ### Multi
 

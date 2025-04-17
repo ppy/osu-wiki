@@ -44,25 +44,25 @@ Read on to learn more about Predominador and their thoughts on some aspects of t
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Hi Predominador, thanks for joining us today! Just like in our other interviews, could you please introduce yourself for those who might not know you?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 Hello! I am Predominador, from Brazil. I am an SS farmer in osu!catch, who recently reached 100k SS ranks! Besides SS, I also like to try to get some first places in songs I like (or any other good placement), and from time to time to try to get new medals, too! Since a decade ago, I have been adventuring myself in all game modes, and like to play all of them, but currently I am mostly playing only osu!catch! My favorite mods are HD and FL.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 How did you learn about osu! and was your first impression of it?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -72,13 +72,13 @@ By the way, the image below is basically the exact post I found about osu!. I tr
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/osu_post_screenshot.jpg)
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Out of all game modes osu! has to offer, why did you choose osu!catch?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -86,13 +86,13 @@ I ended up getting closer to osu!catch than other modes because I started to hav
 
 Anyways, even though I am playing mostly osu!catch currently, I already played quite a lot all other game modes too! Now I am playing them from time to time, but eventually I want to start playing them more often again. I'm interested in improving more in each one, not just as a general challenge, but also to have skill enough to try to get some mode-exclusive medals, hehe :p
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Who or what was your main inspiration to keep playing and improve at osu!catch?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -100,13 +100,13 @@ This is the classic answer for many players, but [ExGon](https://osu.ppy.sh/user
 
 Also, more related to SS now, my main inspiration is [syu](https://osu.ppy.sh/users/2400918)! Since way before I was hard grinding to 100k SS, I've seen his pace being VERY consistent, this during months, with some rare days-off, while I was struggling to keep my own pace, with days farming a lot and in the next day(s) farming much less. But seeing him doing his best also inspired me to do my best, even through inconsistency! He is really a legend, very good player in many aspects too, and I am willing to see him reaching 100k in a soon future!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 What made you decide to push for grinding SS ranks? How did you find motivation to reach such an impressive number as 100,000 SS ranks as a result?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -118,37 +118,37 @@ I'll be honest, my motivation to go this far is a bit unclear even to me. Maybe 
 
 To keep it brief, I basically prioritized longer and harder maps when I felt up to the grind, so I would have enough easy and/or short maps to play when I wasn’t performing well or was unmotivated for some reason. Even though I still had moments of stress, I think this balance was crucial to avoid getting too overwhelmed, exhausted, or ending up with only hard/long maps left to play. The main point was to keep pushing for as long as possible, doing the best I could.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 While grinding for SS ranks, did you have any struggles, and how did you manage to overcome them?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 For sure yeah. There were many days that I was either not really motivated, or feeling tired. As I mentioned before, one main thing I did was to save those easier/shorter maps to days I feel not grinding much. There were many days that was really tough, even doing this little "strategy". So, in this case, I just tried to stick to some minimum quantity I should get in the day, to guarantee some progress. In the past, it used to be 25 SS, but at some point in this year I increased it to 50 SS or even higher when I was reaching the goal. Of course, there were days that I couldn't even get the minimum, but I just accepted that and tried to compensate in some other day I was feeling stronger to grind!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Ok, and what about highlights? Did this journey have any standout moments that you'll always remember?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 Hmm I feel there are many moments I could say, but let me think... when I reached 25,000, it's exactly when I started to REALLY believe I could reach 50k, since I was halfway through, so it's very memorable for me. And of course, when I was reaching 50,000 and 100,000 SS. When I was going for 50k, it was very tough, because I didn't really planned very well the final maps, and was needing to search for anything I could SS more easily. This made me get very exhausted in that day. Due that, for 100k SS I prepared much better, saving many short Normal diffs to play in the final 1000 SS, and that made the final section much faster and less exhaustive!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 How did you feel after finally reaching this goal? Did you maybe celebrate it in any particular way?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -158,13 +158,13 @@ About celebration, kinda. It didn't happen the way I planned, though. I was plan
 
 When I was getting closer, it was very late night already. And I didn't want to let it to the "next day" (it was already September 25th) because, fun fact, it was also my birthday (and this really wasn't planned, in my expectations I was supposed to reach it at most around day 10 of September)! So, even my friends said to finish it, then when I wake up again I could just rest and celebrate! They followed me in the most part of the journey, though. Not just in that day, some of them follow my progress since years, and I am very grateful for that :D
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Is there any advice that you would give to other players who want to reach some long-term goal, for example specific number of SS ranks, just like you?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -176,13 +176,13 @@ If you're going for "lower quantities" (but that's still a lot) like classic 10,
 
 But in any case, keep in mind that your "journey" through a long-term goal is really important, and will also take long time anyways. So make sure to avoid stressing too often over it and, in case of osu!, to have as much fun as possible. I think the most important in long-term goals is to at least have a minimum discipline to keep making progress. Don't even need to set something to do literally everyday, it can be every 3 days, or every week. And, I am not gonna lie, I procrastinated A LOT, but I kept trying to do the minimum everyday, and still reached where I am. Constancy is the word.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Now that you've reached 100,000 SS ranks, are you considering going for full completion in osu!catch?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -190,13 +190,13 @@ Unfortunately, I don't have plans to go for full completion. I got exhausted eno
 
 BUT I have plans in going for osu!catch (only exclusive maps) completionist. It's much less maps, and feels more realistic to me. Not too soon, though. That's something for later!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Following up on the previous question, what are your thoughts on the current state of completionist badge?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -204,25 +204,25 @@ I think that the badges are really cool, it needs to be updated more frequently,
 
 But related to that, same as what to happens in [this page](/wiki/People/Completionists), I feel it would be cool to have some page in the wiki that register players that grind other things and reach specific marks too, and when. As for example SS and Ranked Score, which are some of other things that many usually grind nowadays. Who already reached 50k SS in osu!catch and WHEN did they reach it? and in osu!? osu!taiko? osu!mania? I feel those things are important not only to keep history registered, but to all players who grind other things also get recognized by their efforts too, which is usually underestimated and underappreciated.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 As an osu!catch player, what are your thoughts on lazer?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 I didn't play that much osu!catch in lazer, but I used to play in lazer to play Beatmap Spotlights, and I saw it getting better and better over time. It feels good to play now, even though I still suffer some spike lags if I don't close everything else. But this is also probably because my PC is very very old ;c
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 What other games besides osu! have you played the most? Do you think any of them helped you improve at osu!catch?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -232,13 +232,13 @@ Now, if talking about rhythm games, when younger I used to play a lot of Guitar 
 
 Lastly, I played and play a lot of Genshin Impact, Honkai: Star Rail, and Zenless Zone Zero. Recently I returned to play Geoguessr too, and I'm quite addicted to it. Sadly, I don't feel those helped me to improve in osu! at all... XD but it's making me relax and rest more.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 What plays, be they yours or someone else's, do you find the most impressive? If you had to pick a play of your own, which ones are you really proud of?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -254,13 +254,13 @@ Now, about the score I am really proud I did, I will for sure mention [Yousei Te
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/kyouki_chinden.jpg)
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 If you could choose any osu! player, who would you want to meet IRL the most, and why?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -268,13 +268,13 @@ Wow, I'll be honest that this question is the hardest one for me! I am very shy,
 
 Anyways, I feel there are many players that would be interesting to meet IRL, I think it one obvious one would be ExGon, because I really admire him and is by far my biggest inspiration to this day! A less obvious one that I'd like to meet one day (and maybe a unexpected one, since he's not from osu!catch world) is [BTMC](https://osu.ppy.sh/users/3171691), since from time to time I enjoy watching his livestreams and YouTube videos and he's a great osu! player. He seems to be really fun! But in both cases, I would barely have the courage to even ask for a photo...
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Are you planning on setting new achievements in the future, and if so, what would you like to achieve?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
@@ -282,13 +282,13 @@ For now, I have 2 concrete plans: to reach 101k SS, because it means reach 100k 
 
 After that, I will probably return to try to get some medals I still don't have, osu!catch exclusive maps completionist, and also improve my skill not only in osu!catch, but other game modes too. Other specific goals I will think more about in the future!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 Finally, do you have anything else that you’d like to mention?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/avatars/Predominador.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 

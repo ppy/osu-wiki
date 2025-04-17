@@ -23,6 +23,7 @@ no_native_review: true
 
 ![1K Modsymbol](/wiki/shared/mods/1K.png "1K Modsymbol") ![2K Modsymbol](/wiki/shared/mods/2K.png "2K Modsymbol") ![3K Modsymbol](/wiki/shared/mods/3K.png "3K Modsymbol") ![4K Modsymbol](/wiki/shared/mods/4K.png "4K Modsymbol") ![5K Modsymbol](/wiki/shared/mods/5K.png "5K Modsymbol") ![6K Modsymbol](/wiki/shared/mods/6K.png "6K Modsymbol") ![7K Modsymbol](/wiki/shared/mods/7K.png "7K Modsymbol") ![8K Modsymbol](/wiki/shared/mods/8K.png "8K Modsymbol") ![9K Modsymbol](/wiki/shared/mods/9K.png "9K Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Key-Mods (lazer-Mod)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht

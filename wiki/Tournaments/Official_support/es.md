@@ -15,7 +15,7 @@ tags:
 
 El [osu! team](/wiki/People/osu!_team) dirige un programa en el que puede optar por proporcionar un soporte extra a los torneos organizados por la comunidad que cumplan una serie de criterios y expectativas, según su criterio.
 
-Este artículo se actualizó por última vez el 17 de agosto de 2024. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Este artículo se actualizó por última vez el 2 de marzo de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Beneficios
 
@@ -31,15 +31,16 @@ Los torneos con soporte oficial tienen acceso a:
 Los torneos organizados por la comunidad que cumplan con los siguientes criterios estrictos podrán ser elegibles para recibir soporte:
 
 - La serie de torneos no debe realizarse más de dos veces al año.
-- El torneo debe funcionar como mínimo con un formato de octavos de final con doble eliminación.
+- El torneo debe tener como mínimo un formato de doble eliminación en octavos de final o de eliminación directa en dieciseisavos de final.
+  - Los torneos LAN deben tener como mínimo un formato de doble eliminación en cuartos de final o de eliminación directa en octavos de final.
   - También pueden usarse formatos más grandes, como las fases de grupos y los brackets suizos, siempre y cuando empiecen con al menos 16 equipos y, si se da el caso y se empieza con solo 16 equipos, que después se pase a un bracket de doble eliminación.
   - Los torneos que tengan un formato draft podrán funcionar con un bracket de doble eliminación de octavos de final, siempre y cuando el torneo cumpla los siguientes criterios adicionales:
     - El torneo es de rango abierto.
     - El tamaño de los equipos es de 8 o más jugadores.
     - Nota: En los torneos con múltiples divisiones, esta regla se aplica solo a una división de rango abierto.
   - Podrán permitirse escalas y formatos alternativos a discreción del comité del torneo. Los organizadores deben ponerse en contacto a través del correo electrónico [tournaments@ppy.sh](mailto:tournaments@ppy.sh) si desean recibir soporte para un formato o tamaño no tradicional para los torneos.
-- Los hilos del foro asociados con el torneo (incluidos los hilos de cualquier evento preliminar) **DEBEN** contener un enlace claramente visible en un tamaño de letra normal al [formulario de reportes de torneos](https://pif.ephemeral.ink/tournament-reports) como último contenido del mensaje original.
-  - `https://pif.ephemeral.ink/tournament-reports`
+- Los hilos del foro asociados con el torneo (incluidos los hilos de cualquier evento preliminar) **DEBEN** contener un enlace claramente visible en un tamaño de letra normal al [formulario de reportes de torneos](https://tcomm.hivie.tn/reports/create) como último contenido del mensaje original.
+  - `https://tcomm.hivie.tn/reports/create`
   - Este formulario de reportes es supervisado por el [comité de torneos](/wiki/People/Tournament_Committee). Animamos a todos los usuarios, tanto jugadores como personal, a usar este formulario cuando sea necesario. Cualquier incumplimiento de las [expectativas](#expectativas), [otros procedimientos](#otros-procedimientos) o los requisitos de [elegibilidad](#elegibilidad) debe dar lugar a un reporte.
 - El torneo debe respetar las siguientes reglas de uso de contenido:
   - Queda estrictamente prohibido el uso de cualquier beatmap que tenga un aviso de DMCA de cualquier forma.
@@ -51,6 +52,14 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
   - osu!catch: 5000
   - osu!mania: 40 000
   - Esto no se aplica a los torneos de rango abierto.
+- Los organizadores del torneo no recopilarán, permitirán el envío ni usarán ningún tipo de información personal[^personal-information] de los participantes por ningún motivo fuera de estas excepciones definidas.
+  - Los organizadores del torneo podrán recopilar y usar las direcciones de correo electrónico por cualquier motivo, siempre que sea necesario para el funcionamiento del torneo.
+  - La información personal puede solicitarse en caso necesario para cumplir obligaciones legales, financieras o fiscales y para llevar a cabo la entrega de premios monetarios o físicos.
+  - El osu! team podrá autorizar otras excepciones a esta regla, siempre y cuando el organizador del torneo proporcione una justificación detallada a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh) mucho antes de que se recopile dicha información.
+- En los casos en que se recopile **cualquier** tipo de información personal de los participantes por cualquier motivo, los organizadores del torneo deberán incluir una política de privacidad en la publicación del torneo en el foro y/o en la página de la wiki en la que se detalle lo siguiente:
+  - Cualquier usuario, organización u otra entidad que pueda ver esta información.
+  - Cómo se almacenará y procesará la información.
+  - Para qué se usará la información.
 - El torneo debe cumplir todas las [expectativas](#expectativas) de los torneos con soporte oficial.
   - Todos los torneos organizados como eventos preliminares a una competición principal deben cumplir las mismas [expectativas](#expectativas) que los torneos independientes.
 
@@ -89,9 +98,8 @@ Además, todo el material promocional o cualquier servicio asociado a un torneo 
 
 - Todos los participantes deberán ser examinados por el equipo de soporte de cuentas antes de que comiencen los partidos.[^play-commence] Consulta el [proceso de selección](#proceso-de-selección) para más detalles.
 - Si un usuario cumple los criterios de inscripción (si los hay) y no es [filtrado](#filtrado-y-agrupación-de-los-jugadores-registrados) por otros procedimientos, el torneo no deberá impedir la participación de aquellos que pasen la selección sin que se presenten públicamente amplias pruebas en su contra y sin la aprobación del equipo de soporte de cuentas.
-  - Esto incluye impedir que jueguen los usuarios a los que se percibe como «sandbagging». Si a un organizador le preocupa que la presencia de dichos jugadores afecte a la integridad competitiva de su torneo, puede plantear el problema al [comité de torneos](/wiki/People/Tournament_Committee) usando el [formulario de reportes](https://pif.ephemeral.ink/tournament-reports) para que lo revisen individualmente.
-- Un árbitro especializado deberá estar presente durante cada partido, o estar disponible para ser convocado con un retraso mínimo (2-5 minutos) si se ha concedido el permiso correspondiente para el uso de software automatizado y se está usando como asistencia. Los jugadores no pueden ser los árbitros.
-  - El uso de bots está permitido en los partidos de la fase de clasificación, siempre y cuando estén supervisado por un miembro del personal.
+  - Esto incluye impedir que jueguen los usuarios a los que se percibe como «sandbagging». Si a un organizador le preocupa que la presencia de dichos jugadores afecte a la integridad competitiva de su torneo, puede plantear el problema al [comité de torneos](/wiki/People/Tournament_Committee) usando el [formulario de reportes](https://tcomm.hivie.tn/reports/create) para que lo revisen individualmente.
+- Un árbitro especializado deberá estar presente durante cada partido, o estar disponible para ser convocado con un retraso mínimo (2-5 minutos) si se ha concedido el permiso correspondiente para el uso de [software automatizado](#arbitraje-automatizado) y se está usando como asistencia. Los jugadores no pueden ser los árbitros.
 - Todos los partidos de un mismo grupo o fase de clasificación deben tener un formato uniforme. Por ejemplo, en un torneo con una fase de clasificación y un bracket de doble eliminación, todos los partidos del bracket deben jugarse de forma sincrónica o asincrónica, pero no ambas.
 - Todas las partidas multijugador relevantes para el torneo deben crearse con el comando `!mp make`, para que no caduquen. Los resultados deben registrarse y ponerse a disposición del público en la publicación original del foro del torneo o en una fuente externa enlazada en la publicación del foro en un formato claro y accesible.
 - Todos los cambios en las reglas deben comunicarse claramente a todos los participantes. Estos deberán cumplir las expectativas indicadas [más arriba](#torneos).
@@ -100,7 +108,10 @@ Una vez concluido el torneo, los organizadores deberán enviar la siguiente info
 
 - Una lista de los premiados con las insignias (es decir, los ganadores del torneo).
 - Una insignia con un diseño adecuado ([más información en la sección correspondiente](#insignias-de-perfil)).
-- Un enlace al historial de partidos de tu torneo en el catálogo público.
+- Enlaces a la página del torneo en la wiki, al sitio web y/o a las hojas de cálculo de acceso público:
+  - El historial de partidos del torneo con enlaces a todos los partidos, incluidas las clasificatorias cuando sea necesario.
+  - Los mappools del torneo.
+  - Los resultados de las clasificatorias del torneo, cuando sea necesario.
 
 ### Programas
 
@@ -117,8 +128,10 @@ El filtrado de los jugadores registrados, que no debe confundirse con el [proces
 
 Además de las expectativas para los programas mencionados anteriormente, las herramientas o sistemas usados para filtrar las inscripciones o agrupar a los jugadores también deben cumplir las siguientes prácticas:
 
-- Si se usa un conjunto de datos, debe estar actualizado, a disposición del público y descargable. La documentación debe explicar cómo recrear el conjunto de datos y reproducir los resultados con él, incluyendo el código cuando sea necesario.
+- Si se usa un conjunto de datos de partidas multijugador de osu!, puntuaciones de jugadores o cualquier otra cosa, los archivos deben estar a disposición del público, ser descargables, tener fecha y hora, y que el archivo más reciente no tenga más de 30 días de antigüedad. Los archivos deben estar disponibles durante al menos 6 meses. La documentación debe explicar cómo recrear el conjunto de datos y reproducir los resultados con él, incluyendo el código cuando sea necesario.
+  - Los torneos que usen dichas herramientas deberán revelar las fechas en las que formaron a los cabezas de serie y/o filtraron a los jugadores usando estas herramientas.
 - Cuando se realicen las clasificatorias, la fórmula o método usado para determinar los cabezas de serie debe incluirse en el reglamento del torneo.
+  - Los métodos más usados y las matemáticas que los sustentan se pueden encontrar en el artículo [Métodos comunes para la distribución de los cabezas de serie en los torneos](/wiki/Tournaments/Common_seeding_methods) de la wiki.
 
 Un tercero debería poder obtener los mismos resultados sin necesidad de información adicional. Está estrictamente prohibido filtrar manualmente a los jugadores o ajustar sus semillas.
 
@@ -145,15 +158,17 @@ En cuanto a las funciones del personal, se aplican las siguientes reglas:
 
 Se espera que los usuarios con un veto activo para participar en torneos revelen su estado de veto a cualquier torneo con soporte oficial en el que pretendan ayudar. Pueden ser incluidos como streamers, comentaristas o diseñadores gráficos a discreción del organizador, pero recomendamos una cuidadosa consideración de tales elecciones, ya que dichos individuos ya han infringido las reglas una vez (o más). No podrán desempeñar ninguna otra función del personal A MENOS QUE el organizador solicite una exención para ellos al enviar su solicitud inicial de soporte. El equipo de soporte de cuentas las evaluará caso por caso teniendo en cuenta el historial del usuario.
 
-A discreción del equipo de soporte, los miembros del personal cuya conducta provoque directamente que un torneo pierda su soporte oficial no podrán desempeñar las mismas funciones ni ser organizadores o administradores de otro torneo con insignia durante al menos 4 meses. En caso de que se aplique este tiempo de espera a un usuario, se le informará directamente a través del [equipo del torneo](mailto:tournaments@ppy.sh).
+A discreción del equipo de soporte, los miembros del personal cuya conducta provoque directamente que un torneo pierda su soporte oficial no podrán desempeñar las mismas funciones ni ser organizadores o administradores de otro torneo con soporte oficial durante al menos 4 meses. En caso de que se aplique un veto para participar como parte del personal en los torneos a un usuario, se le informará directamente a través del [equipo del torneo](mailto:tournaments@ppy.sh).
 
-Una lista de todo el personal del torneo debe estar a la vista del público en un lugar de fácil acceso. Esta lista puede estar incluida en la publicación del torneo en el foro, en una página de la wiki, en un sitio web o en una hoja de cálculo.
+Una lista de todo el personal del torneo debe estar a la vista del público en un lugar de fácil acceso. Esta lista puede estar incluida en la publicación del torneo en el foro, en una página de la wiki, en un sitio web o en una hoja de cálculo. Si hay varias listas del personal, todas deben estar actualizadas y sincronizadas entre sí.
+
+A discreción del equipo de soporte, los organizadores que cometan errores graves que infrinjan las normas de elegibilidad o las expectativas del soporte oficial podrán ser sancionados con un veto para ser anfitriones. Los vetos como anfitrión se pueden usar en lugar de retirar el soporte oficial cuando un torneo, de otro modo, no sería elegible para el soporte mientras se mantiene la integridad competitiva. Mientras un usuario se encuentre bajo un veto como anfitrión, no podrá ser organizador principal ni administrador de ningún torneo con soporte oficial. Sin embargo, pueden desempeñar otras funciones que no impliquen la organización.
 
 ### Jugadores
 
 Se espera que los participantes en los torneos con soporte oficial cumplan las [reglas de la comunidad de osu!](/wiki/Rules) en todo momento, independientemente de su rango, logros u otras hazañas. También se espera de ellos que traten con respeto a todos los voluntarios que participen en la organización de un torneo y que no intenten deliberadamente hacerles perder el tiempo o complicar excesivamente la realización de un torneo con sus acciones.
 
-Además, se espera que los jugadores hayan *participado razonablemente* en un torneo determinado para poder optar a los premios que pueda otorgar; no basta con clasificarse como miembro de un equipo ganador.
+Además, se espera que los jugadores hayan participado en un torneo determinado para poder optar a los premios que pueda otorgar; no basta con clasificarse como miembro de un equipo ganador. Debido a que existen contribuciones intangibles a los equipos que los jugadores suelen hacer sin jugar mapas, solo a los jugadores que *no jueguen ningún mapa* durante el transcurso de un torneo se les podrá negar el premio de la insignia.
 
 A discreción del equipo de soporte de cuentas, los jugadores infractores pueden recibir [vetos](/wiki/Help_centre/Tournament_bans) temporales o indefinidos dependiendo de la gravedad de su conducta. Los infractores reincidentes pueden arriesgarse a recibir un veto por tiempo indefinido o una restricción.
 
@@ -190,7 +205,7 @@ Solo los jugadores que participen en el torneo **o** que serían probables susti
 
 ### Insignias de perfil
 
-Los torneos con soporte oficial que cumplan las [expectativas anteriores](#expectativas) podrán solicitar premios en forma de insignias de perfil una vez finalizados. Los premios en forma de insignias de perfil deben solicitarse como máximo dos meses después de la finalización del torneo. **Las insignias no se aprobarán hasta después de la conclusión del torneo.**
+Los torneos con soporte oficial que cumplan las [expectativas anteriores](#expectativas) podrán solicitar premios en forma de insignias de perfil una vez finalizados. Recomendamos encarecidamente solicitar los premios de las insignias de perfil lo antes posible una vez finalizado el torneo, ya que esto beneficiará al [proceso de revisión](/wiki/People/Tournament_Committee#revisión-de-los-torneos). **Las insignias no se aprobarán hasta después de la conclusión del torneo.**
 
 Las imágenes de las insignias de perfil deben cumplir los siguientes estándares:
 
@@ -206,6 +221,8 @@ Las imágenes de las insignias de perfil deben cumplir los siguientes estándare
 Consulta los siguientes diseños de insignias aprobadas:
 
 ![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
+
+Usa [esta herramienta de visualización de insignias](https://tcomm.hivie.tn/assets-previewer?tab=badges) para comprobar que tu insignia cumple los estándares mencionados.
 
 Las imágenes de las insignias que no cumplan estos estándares serán rechazadas con un motivo dado, y en algunos casos se te podrá pedir que rediseñes completamente tu insignia. Esto es bastante poco frecuente, pero debe tenerse en cuenta.
 
@@ -260,6 +277,8 @@ Consulta los siguientes diseños de banners aceptables:
 
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
 
+Usa [esta herramienta de visualización de banners](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) para comprobar cómo se vería el banner dentro del juego.
+
 Por favor, no envíes un banner para el menú principal con tu solicitud original; se te preguntará y se te indicará esta sección si estás autorizado a hacer uso de uno.
 
 #### Noticias
@@ -293,3 +312,4 @@ Inundar el juego de insignias de perfil disminuye el prestigio del premio para t
 ## Notas
 
 [^play-commence]: Los partidos «comienzan» una vez que se han determinado los cabezas de serie o los grupos. Por lo tanto, las clasificatorias pueden quedar exentas de esto.
+[^personal-information]: La información personal se define como cualquier información que pueda usarse para identificar, contactar o localizar a un individuo específico, ya sea directa o indirectamente. Esto incluye, pero no se limita a, direcciones de correo electrónico, documentos de identidad y pasaportes.

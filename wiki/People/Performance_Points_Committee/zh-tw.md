@@ -14,5 +14,29 @@ tags:
 
 ## 成員
 
+### osu!
+
 - ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455)
 - ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329)
+
+### osu!taiko
+
+- ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208)
+- ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
+- ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667)
+- ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501)
+
+### osu!catch
+
+- ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877)
+- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
+- ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190)
+- ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946)
+- ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722)
+
+### osu!mania
+
+- ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891)
+- ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881)
+- ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180)
+- ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379)
