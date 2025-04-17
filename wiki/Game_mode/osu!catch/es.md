@@ -86,7 +86,7 @@ Después de completar un beatmap, a la puntuación se le asigna un [grado](/wiki
 
 ## Beatmapping
 
-### Notas de conversión de osu!catch
+### Notas de conversión de osu!
 
 - La ubicación horizontal del eje determina el punto de caída de las frutas (círculo) o el final de la corriente de jugo (slider).
 - La apariencia se basa en el tiempo establecido para completarlo, como es habitual.

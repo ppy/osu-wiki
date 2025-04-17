@@ -6,7 +6,7 @@ date: 2024-05-10 07:00:00 +0000
 
 Today marks the start of a new contest, plus two new additions to osu!'s *Elite Mappers*!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is a beatmapping contest that happens every month. We reserve creativity for mapping, not titles.
 

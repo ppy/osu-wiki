@@ -1,4 +1,6 @@
 ---
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
+outdated_translation: true
 no_native_review: true
 tags:
   - osu! staff
@@ -12,8 +14,6 @@ tags:
   - personnel
   - team d'osu!
   - équipe d'osu!
-outdated_translation: true
-outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 ---
 
 # osu! team
@@ -41,10 +41,11 @@ Les personnes listées ci-dessous constituent le cœur de **l'osu! team** et son
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Conseiller en modding et mapping de scènes |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Développeur de l'osu!web, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Développeur de l'osu!web |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Modérateur](/wiki/People/Global_Moderation_Team), conseiller en modding et mapping de scènes |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Modérateur](/wiki/People/Global_Moderation_Team), conseiller en modding et mapping de scènes |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Hôte de la [chaîne YouTube osu!](https://www.youtube.com/@osugame), organisateur de la [Mappers' Guild](/wiki/Community/Mappers_Guild), soutien au projet [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Conseiller en modding et mapping de scènes |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Modérateur](/wiki/People/Global_Moderation_Team), [mainteneur du wiki](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinateur de la conception de la World Cup |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Intendant général |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Développeur d'osu!, amoureux d'osu!mania, chasseur de bugs |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Développeur d'osu! |

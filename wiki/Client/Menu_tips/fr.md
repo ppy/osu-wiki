@@ -11,7 +11,7 @@ tags:
   - conseils
 ---
 
-<!-- Pour les traducteurs : pour traduire cette page, sélectionnez la langue correspondante dans stable et ouvrez `Localisation/fr.txt` dans votre dossier d'installation d'osu!. Les clés de traduction commençant par MenuTip_ et EditorTip_ contiennent les astuces traduites correspondantes. Les astuces de lazer ne sont pas encore localisées, mais il est possible de les traduire ici tout en notant qu'elles n'ont pas de traduction dans le jeu. -->
+<!-- Pour les traducteurs : pour traduire cette page, sélectionnez la langue correspondante dans stable et ouvrez `Localisation/fr.txt` dans votre dossier d'installation d'osu!. Les clés de traduction commençant par MenuTip_ et EditorTip_ contiennent les astuces traduites correspondantes. Les astuces de lazer sont accessibles sur Crowdin: https://crowdin.com/editor/osu-web/656/en-fr -->
 
 # Conseils sur les menus
 
@@ -94,7 +94,7 @@ Ces conseils apparaissent dans [l'éditeur de beatmap](/wiki/Client/Beatmap_edit
 
 ## osu!(lazer)
 
-Ces conseils apparaissent en bas du menu principal de [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Notez qu'elles ne sont cependant pas encore traduites dans le jeu, donc uniquement disponibles en anglais.
+Ces conseils apparaissent en bas du menu principal de [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 - Appuyez sur `Ctrl` + `T` n'importe où dans le jeu pour basculer la barre d'outils !
 - Appuyez sur `Ctrl` + `O` n'importe où dans le jeu pour accéder aux options !
@@ -124,6 +124,7 @@ Ces conseils apparaissent en bas du menu principal de [osu!(lazer)](/wiki/Client
 - Lorsque vous regardez un replay, appuyez sur `Ctrl` + `H` pour basculer les paramètres du replay !
 - Vous pouvez facilement copier les mods des scores sur un leaderboard en faisant un clic droit dessus !
 - `Ctrl` + `Enter` à la sélection de la musique lancera une beatmap en mode autoplay !
+- "Lazer" n'est pas un vrai mot, l'orthographe correcte pour la lumière brillante est "laser".
 
 ## Voir également
 

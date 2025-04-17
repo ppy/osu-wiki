@@ -18,6 +18,7 @@ tags:
 
 ![AT 模组图标](/wiki/shared/mods/AT.png "Auto (AT) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Autoplay（lazer 模组）](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *请勿与 [Autopilot（模组）](/wiki/Gameplay/Game_modifier/Autopilot)混淆。*
 

@@ -59,7 +59,7 @@ Here's what the [Rewind](https://osu.ppy.sh/community/forums/topics/1451845)-ins
 
 ---
 
-Did reading all of this pique your interest for osu!(lazer)? [Download it here](https://osu.ppy.sh/home/download) and give it a try! Already have osu!(lazer) and want to check out all the juicy details from this update? View out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/) here.
+Did reading all of this pique your interest for osu!(lazer)? [Download it here](https://osu.ppy.sh/home/download) and give it a try! Already have osu!(lazer) and want to check out all the juicy details from this update? View out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.906.1) here.
 
 See ya next time!
 
