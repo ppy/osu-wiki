@@ -9,6 +9,7 @@ This page lists ways for people from all around osu! to get in touch with each o
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [osu! Discord server](/wiki/Community/Discord_servers#official)
 - [Offline organisations](/wiki/Community/Organisations)
+- [Reddit](/wiki/Community/Reddit)
 
 ## Projects
 
