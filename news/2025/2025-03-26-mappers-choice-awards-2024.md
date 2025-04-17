@@ -35,8 +35,8 @@ If you're eligible, head over to the [**Mapper's Choice Awards 2024** website](h
 | --: | :-- |
 | **Nomination phase** | 2025-03-26 – 2025-03-31 (00:00) |
 | **Voting phase** | 2025-04-03 – 2025-04-08 (00:00) |
-| **Results stream** | 2025-04-14 |
-| **Final results** | 2025-04-15 |
+| **Results stream** | 2025-04-19 |
+| **Final results** | 2025-04-20 |
 
  View the results stream on the [Corsace Twitch channel](https://www.twitch.tv/corsace) and the final results on the [Corsace website](https://mca.corsace.io/2024/)!
 
