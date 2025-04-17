@@ -14,6 +14,7 @@ Essa página lista formas de entrar em contato com pessoas de todo osu!. Se voc�
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [Servidor oficial do osu! do discord](/wiki/Community/Discord_servers#official)
 - [Organizações offline](/wiki/Community/Organisations)
+- [Reddit](/wiki/Community/Reddit)
 
 ## Projetos
 
