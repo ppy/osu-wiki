@@ -8,7 +8,7 @@ tags:
 
 # osu!supporter
 
-![osu!supporter Werbebild](img/supporter-eyecatch-DE.jpg)
+[![osu!supporter Werbebild](img/supporter-eyecatch-DE.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (oder das ***osu!supporter-Tag***) ist ein zeitlich begrenzter Titel, der Spielern verliehen wird, die osu! durch eine freiwillige Geldspende unterstützen, um das Spiel zu fördern. Unterstützer erhalten eine handvoll kosmetischer und technischer Vorteile, von denen die meisten nur aktiv sind, wenn der Titel vorhanden ist. Die zusätzlichen Funktionen von osu!supporter geben keinen Vorsprung im Gameplay, in der Leistung oder dem Erreichen von Scores und werden es auch nie.
 
@@ -19,11 +19,11 @@ Das osu!supporter-Tag kann über die [osu!supporter-Seite des Stores](https://os
 ### Herzabzeichen
 
 ::: Infobox
-![](img/userpage.png?1 "Profil mit osu!supporter")
+![](img/userpage.png?20241103 "Profil mit osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard-DE.png "Benutzerkarte mit osu!supporter")
+![](img/usercard-DE.png?20241022 "Benutzerkarte mit osu!supporter")
 :::
 
 Unterstützer bekommen ein Abzeichen mit Herzen darauf, das auf der Webseite normalerweise neben ihrem Benutzernamen angezeigt wird. Die Anzahl der Herzen hängt ab von der Dauer von osu!supporter, die der Nutzer insgesamt erworben oder erhalten hat:
@@ -97,6 +97,7 @@ osu! bietet eine Lockerung der Grenzwerte für verschiedene Online-Features für
 | Wert | Normales Limit | osu!supporter-Limit |
 | :-- | :-: | :-: |
 | [Ausstehende Beatmaps](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(gerankte Beatmaps, 4)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
+| Teamgröße | 8 | `8 + 4 * Teammitglieder mit osu!supporter`, bis maximal **256** |
 | Online-Beatmap-Favoriten | 100 | 1000 |
 | Anzahl der Freunde | 500 | 1000 |
 

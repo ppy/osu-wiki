@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 07c7296194a7c0c670ba308154321a42d49740c8
 no_native_review: true
 tags:
   - OWC
@@ -524,7 +526,7 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
    - Los capitanes pueden excluirse a sí mismos de la lista del equipo.
    - Los capitanes pueden realizar y coordinar "pruebas", pruebas para medir la aptitud de los jugadores, en sus propios términos.
    - Los capitanes pueden elegir, con la aprobación del Gerente del torneo, en cualquier momento, delegar su función a otros posibles miembros del equipo. Una vez otorgada, solo el nuevo capitán podrá ceder la capitanía a otro jugador.
-3. Para garantizar registros válidos, el [equipo de soporte de la cuenta](/wiki/People/Account_support_team) verificará manualmente a cada posible participante, de manera similar a la [proyección del torneo](/wiki/Tournaments/Official_support#tournament-screening) que se ofrece a los torneos comunitarios.
+3. Para garantizar registros válidos, el [equipo de soporte de la cuenta](/wiki/People/Account_support_team) verificará manualmente a cada posible participante, de manera similar a la [proyección del torneo](/wiki/Tournaments/Official_support#proceso-de-selección) que se ofrece a los torneos comunitarios.
    - Cada usuario registrado será asignado a la lista de candidatos de su país respectivo.
    - Para ser aceptado con éxito en la lista, los jugadores deben estar ubicados en el puesto #5000 o superior en el rendimiento global de osu!, y no haber violado ninguna de las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
 4. Todos los equipos formados con éxito serán publicados después de la Fase de Registro.

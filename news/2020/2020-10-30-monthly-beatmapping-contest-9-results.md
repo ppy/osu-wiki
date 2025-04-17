@@ -6,7 +6,7 @@ date: 2020-10-31 00:45:00 +0000
 
 Don't think it's possible to make a map where each object overlaps another? osu!'s newest Elite Mapper wants to have a word with you.
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Results for September's **Monthly Beatmapping Contest** (***MBC***) are here! If you're unsure of how any of this works, be sure to read the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 

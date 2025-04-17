@@ -8,7 +8,7 @@ tags:
 
 ![osu! Malaysia Tournament X banner](img/banner.jpg)
 
-The **osu! Malaysia Tournament X** (OMT X) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594). The tournament was open to all players from Malaysia with a global rank of #99,999 or higher in the osu! game mode. It is the tenth iteration of the osu! Malaysia Tournament.
+The **osu! Malaysia Tournament X** (OMT X) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594). The tournament was open to all players from Malaysia with a global rank of #99,999 or higher in the osu! game mode. It was the tenth iteration of the osu! Malaysia Tournament.
 
 ## Tournament schedule
 
@@ -36,7 +36,7 @@ The **osu! Malaysia Tournament X** (OMT X) is a double-elimination 1v1 osu! tour
 
 ## Organisation
 
-The osu! Malaysia Tournament X is run by various osu! community members from Malaysia and beyond.
+The osu! Malaysia Tournament X was run by various osu! community members from Malaysia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -45,12 +45,11 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 | Mappool selector | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=VN }:: [realshin](https://osu.ppy.sh/users/8006029), ::{ flag=HK }:: [maxbireo](https://osu.ppy.sh/users/4682646) |
 | Custom mapper | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023), ::{ flag=MY }:: [\[ -Elaina- \]](https://osu.ppy.sh/users/13893348), ::{ flag=MY }:: [Banner](https://osu.ppy.sh/users/14290988), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=MY }:: [anjay](https://osu.ppy.sh/users/15553329), ::{ flag=MY }:: [Stick2Glue](https://osu.ppy.sh/users/6928574), ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315), ::{ flag=MY }:: [\[ Fiz \]](https://osu.ppy.sh/users/6928574) |
 | Custom map quality assurance | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
-| Playtester | *to be announced* |
-| Streamer | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=AU }:: [dGeist](https://osu.ppy.sh/users/7262064) |
-| Commentator | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Referee | ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293) |
+| Streamer | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=AU }:: [dGeist](https://osu.ppy.sh/users/7262064) |
+| Commentator | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940), ::{ flag=MY }:: [lous](https://osu.ppy.sh/users/6231292), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
+| Referee | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293) |
 | Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=AU }:: [Merami Kitten](https://osu.ppy.sh/users/11523326) |
-| Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
+| Spreadsheet manager | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
 | Character illustrator | ::{ flag=MY }:: [guwichiee](https://osu.ppy.sh/users/12170475), ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
@@ -94,6 +93,10 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 22 | ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374) | -4.48 |
 | 23 | ::{ flag=MY }:: [Atomium](https://osu.ppy.sh/users/19186968) | -4.77 |
 | 24 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | -4.84 |
+
+## Podium
+
+![](img/podium.jpg "OMT X podium")
 
 ## Mappools
 
@@ -287,6 +290,21 @@ The complete list of player registrations can be found [here](https://docs.googl
   3. [Tsukuyomi - Moonlight at midday (Seros) \[Setu's Insane\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3185210)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 12 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Rampax](https://osu.ppy.sh/users/13626098)** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/12999285) | [#1](https://osu.ppy.sh/community/matches/115836997) |
+
+Sunday, 13 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | [wuhua](https://osu.ppy.sh/users/2932510) ::{ flag=MY }:: | 4 | **7** | ::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115838167) |
+| Grand Final (bracket reset) | [Rampax](https://osu.ppy.sh/users/13626098) ::{ flag=MY }:: | 4 | **7** | ::{ flag=MY }:: **[wuhua](https://osu.ppy.sh/users/2932510)** | [#1](https://osu.ppy.sh/community/matches/115839526) |
 
 ### Finals (week 1)
 

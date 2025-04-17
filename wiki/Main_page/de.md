@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 6116038f573d130ce31be263162ff71d45b0b441
 ---
 
 <div class="wiki-main-page__blurb">
@@ -39,14 +37,14 @@ Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen vo
 
 [Spielmodi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) • [Hit-Objekte](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaillen](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) • [Hit-Objekte](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaillen](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # [Beatmap-Editor](/wiki/Client/Beatmap_editor)
 
-Alle Beatmaps in osu! werden von kreativen Teilnehmern seiner aktiven Community erstellt. Wolltest du schon immer deine Lieblingsmusik mit anderen teilen, hast aber nie gewusst wie? Mache dich vertraut mit dem eingebauten Editor und den Möglichkeiten, die dieser bietet.
+Alle Beatmaps in osu! werden von kreativen Köpfen aus der aktiven Community erstellt. Wolltest du schon immer deine Lieblingsmusik mit anderen teilen, hast aber nie gewusst wie? Mache dich vertraut mit dem eingebauten Editor und den Möglichkeiten, die dieser bietet.
 
 Abschnitte: [Komposition](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song-Setup](/wiki/Client/Beatmap_editor/Song_setup)
 
@@ -61,16 +59,16 @@ Komponenten: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Taktteiler](/wiki/C
 
 Ranking ist der Prozess, eine Beatmap auf einer Rangliste darzustellen und die Beatmap so populär werden zu lassen. Entdecke, wie man die Chancen erhöht, eine Beatmap erfolgreich durch den Bewertungsprozess zu bringen; sowie Qualitätskontrolle innerhalb des Prozesses.
 
-[Einreichen](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) • [Mapper-Gilde](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Beatmaps veröffentlichen](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) • [Mapper-Gilde](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking-Kriterien](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Ranking-Kriterien](/wiki/Ranking_criteria): [Metadaten](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Regeln und Jura
 
-Lies über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizenzierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
+Lies über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizenzierung und Medienrichtlinien bis hin zu Chat- und Forenregeln.
 
 [Regeln](/wiki/Rules) • [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) • [Verhaltenskodex für das Modding und Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
@@ -87,7 +85,7 @@ Antworten zu häufig gestellten Fragen und Lösungen zu alltäglichen Problemen 
 
 [Hilfecenter](/wiki/Help_centre) • [Problemlösung bei der Leistung](/wiki/Performance_troubleshooting) • [Account Support Team](/wiki/People/Account_support_team) • [Hilfeforum](https://osu.ppy.sh/forum/5)
 
-Profilbeschränkungen: [Silence](/wiki/Silence) • [Kontorestriktionen](/wiki/Help_centre/Account_restrictions)
+Profilbeschränkungen: [Silences](/wiki/Help_centre/Silences) • [Kontorestriktionen](/wiki/Help_centre/Account_restrictions) • [Turniersperren](/wiki/Help_centre/Tournament_bans)
 
 Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) • [Melde schlechtes Verhalten](/wiki/Reporting_bad_behaviour) • [Melde Missbrauch](/wiki/Reporting_bad_behaviour/Abuse) • [Melde Betrug](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -100,9 +98,11 @@ Eine aktive Community ist eines der Dinge, die osu! voranbringen. Entdecke die A
 
 Orte: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord-Server](/wiki/Community/Discord_servers)
 
-[Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
+Initiativen: [Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 
-[Projekte](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Projekte](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly)
+
+Medien: [Für osu! produzierte Musik](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Videoserien](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer-Updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -113,9 +113,9 @@ Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entwicklung, Wartung und im Community-Management tätig sind. Ihrer Mühen, Zeit und Hingabe ist es zu verdanken, dass das Spiel weiterentwickelt wird.
 
-[osu!-Team](/wiki/People/osu!_team) • [Entwickler](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
+[osu!-Team](/wiki/People/osu!_team) • [Entwickler](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Technisches Support-Team](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Benutzergruppe](/wiki/People/User_group) • [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) • [Betreuer des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)
+[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Benutzergruppe](/wiki/People/User_group) • [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) • [Betreuer des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

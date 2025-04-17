@@ -35,15 +35,17 @@ Los **Modding & Mapping Hubs** son servidores de Discord de la comunidad diseña
 
 |  | Nombre | Propietario | Descripción |
 | :-: | :-- | :-- | :-- |
-| [![](img/osu!taiko-Modding-&-Mapping-Hub.png)](https://discord.com/invite/yRjvvyZ) | [osu!taiko Modding & Mapping Hub](https://discord.com/invite/yRjvvyZ) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | El **osu!taiko Modding & Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos sobre mapping y modding de osu!taiko. |
-| [![](img/osu!catch-Modding-and-Mapping-Hub.png)](https://discord.com/invite/ZuxFc4q) | [osu!catch Modding and Mapping Hub](https://discord.com/invite/ZuxFc4q) | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | El **osu!catch Modding and Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos sobre mapping y modding de osu!catch. |
-| [![](img/osu!mania-Mapping-&-Modding-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Mapping & Modding Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | El **osu!mania Mapping & Modding Hub** ofrece canales para discusiones, recursos y anuncios de eventos sobre mapping y modding de osu!mania. |
+| [![](img/osu!-Modding-&-Mapping-Hub.png)](https://discord.gg/gw5EtzgEXf) | [osu! Modding & Mapping Hub](https://discord.gg/gw5EtzgEXf) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | El **osu! Modding & Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!. |
+| [![](img/osu!taiko-Modding-&-Mapping-Hub.png)](https://discord.com/invite/yRjvvyZ) | [osu!taiko Modding & Mapping Hub](https://discord.com/invite/yRjvvyZ) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | El **osu!taiko Modding & Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!taiko. |
+| [![](img/osu!catch-Modding-and-Mapping-Hub.png)](https://discord.com/invite/ZuxFc4q) | [osu!catch Modding and Mapping Hub](https://discord.com/invite/ZuxFc4q) | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | El **osu!catch Modding and Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!catch. |
+| [![](img/osu!mania-Mapping-&-Modding-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Mapping & Modding Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | El **osu!mania Mapping & Modding Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!mania. |
 
 Además de los servidores de los modos de juego, existen otros servidores de la comunidad para facilitar la comunicación entre mappers, modders y otros usuarios.
 
 |  | Nombre | Propietario | Descripción |
 | :-: | :-- | :-- | :-- |
 | [![](img/Mapset-Management-Server.png)](https://discord.com/invite/TCDSjhb6yS) | [Mapset Management Server](https://discord.com/invite/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | El **Mapset Management Server** ofrece un lugar para crear y buscar solicitudes de [mods](/wiki/Modding), [dificultades de invitados](/wiki/Beatmap/Guest_difficulty), y [colaboraciones](/wiki/Beatmap/Beatmap_collaborations) en un entorno casual. |
+| [![](img/Mentorship.png)](https://discord.com/invite/Ft2FtXmBgx) | [Mentorship](https://discord.com/invite/Ft2FtXmBgx) | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | El servidor **Mentorship** gestiona el [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program), dando clases por temporadas para enseñar y aprender a [mapear](/wiki/Beatmapping) y a [modear](/wiki/Modding) para todos los modos de juego. |
 
 ## Servidores relacionados con los torneos
 
@@ -53,6 +55,7 @@ Estos servidores tienen como objetivo proporcionar a los usuarios todo lo relaci
 | :-: | :-- | :-- | :-- |
 | [![](img/osu!-Tournament-Hub.png)](https://discord.com/invite/bvhajDC) | [osu! Tournament Hub](https://discord.com/invite/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) | El **osu! Tournament Hub** ofrece recursos en torno a la organización de torneos y canales para anunciar nuevos torneos y reclutar personal en todos los modos de juego y regiones. |
 | [![](img/osu!mania-Tourney-Central.png)](https://discord.com/invite/WnMcrUnGV5) | [osu!mania Tourney Central](https://discord.com/invite/WnMcrUnGV5) | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | **osu!mania Tourney Central** se centra en los recursos y el reclutamiento de personal para los torneos de osu!mania. |
+| [![](img/poolingcore.png)](https://discord.com/invite/gpEbCBE7Jg) | [poolingcore](https://discord.com/invite/gpEbCBE7Jg) | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) | **poolingcore** ofrece recursos en torno al mappooling y el mapping de torneos, principalmente para el modo de juego osu!. El servidor organiza ocasionalmente juegos y concursos relacionados con el mappooling, lo que permite a los anfitriones de torneos verificados reclutar mappoolers y mappers activos para sus torneos. |
 
 ## Servidores relacionados con el Project Loved
 

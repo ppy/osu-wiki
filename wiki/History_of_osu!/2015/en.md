@@ -47,7 +47,7 @@ The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu
 
 Implementation of the username change system in the osu!store was set live on 16 June 2015, although full functionality of the system was not available until 18 June 2015. The changes made it so that players had to pay $4 USD for their first name change, after which the price would double with each succeeding purchase with a cap at $100 USD; however, if a user bought an [osu!supporter tag](https://osu.ppy.sh/home/support), then their first change would be free. [^ppy-blog-june-04][^ppy-blog-june-16][^ppy-blog-june-17][^ppy-blog-june-18]
 
-The ability to see what a replay would look like without [mods](/wiki/Gameplay/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time), and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) togglable.[^ppy-blog-june-23]
+The ability to see what a replay would look like without [mods](/wiki/Gameplay/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time), and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) toggleable.[^ppy-blog-june-23]
 
 ## July
 
@@ -65,7 +65,7 @@ The Chat Moderators were officially merged into the Global Moderation Team (GMT)
 
 The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being introduced during frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise exactly how much frame render latency a user was experiencing.[^ppy-blog-sep-mwr][^osu-weekly-29]
 
-On 26 September 2015, [cYsmix](http://cysmix.com/) became one of the first official osu! artists. This partnership entailed the creation of three tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks were as follows:
+On 26 September 2015, [cYsmix](http://cysmix.com/) became one of the first official osu! artists. This partnership entailed the creation of three tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned three tracks were as follows:
 
 - ["Manic"](https://soundcloud.com/olemlanglie/cysmix-manic-osu)
 - ["House with Legs"](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu)

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 0a99c6f443cd7e0fe8160cb1fc182f01354bd3c8
+outdated_translation: true
 ---
 
 # Discord-Server
@@ -48,6 +50,7 @@ Neben den Spielmodiservern existieren andere Communityserver, um die Kommunikati
 |  | Name | Eigentümer | Beschreibung |
 | :-: | :-- | :-- | :-- |
 | [![](img/Mapset-Management-Server.png)](https://discord.com/invite/TCDSjhb6yS) | [Mapset Management Server](https://discord.com/invite/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | Der **Mapset Management Server** stellt Orte zur Verfügung, um Anfragen für [Mods](/wiki/Modding), [Gast-Schwierigkeiten](/wiki/Beatmap/Guest_difficulty) sowie [Kollaborationen](/wiki/Beatmap/Beatmap_collaborations) zu erstellen und zu durchstöbern. |
+| [![](img/Mentorship.png)](https://discord.com/invite/Ft2FtXmBgx) | [Mentorship](https://discord.com/invite/Ft2FtXmBgx) | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Der **Mentorship** Server verwaltet das [Community-Mentorenprogramm](/wiki/Community/Community_Mentorship_Program), bei dem in allen Spielmodi saisonale Kurse zum Lernen von [Mapping](/wiki/Beatmapping) und [Modding](/wiki/Modding) angeboten werden. |
 
 ## Turniere
 
@@ -57,6 +60,7 @@ Diese Server versuchen, den Nutzern alles rund um [Turniere](/wiki/Tournaments) 
 | :-: | :-- | :-- | :-- |
 | [![](img/osu!-Tournament-Hub.png)](https://discord.com/invite/bvhajDC) | [osu! Tournament Hub](https://discord.com/invite/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) | Der **osu! Tournament Hub** bietet Infomaterial über die Organisation von Turnieren sowie Kanäle zur Werbung neuer Turniere und Personalausschreibungen in allen Spielmodi und Regionen. |
 | [![](img/osu!mania-Tourney-Central.png)](https://discord.com/invite/WnMcrUnGV5) | [osu!mania Tourney Central](https://discord.com/invite/WnMcrUnGV5) | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | **osu!mania Tourney Central** fokussiert sich auf Ressourcen und Personalausschreibungen für Turniere im osu!mania-Spielmodus. |
+| [![](img/poolingcore.png)](https://discord.com/invite/gpEbCBE7Jg) | [poolingcore](https://discord.com/invite/gpEbCBE7Jg) | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) | **poolingcore** stellt Infomaterial rund um Turnier-Mappooling sowie Mapping vorwiegend im osu!-Spielmodus bereit. Auf dem Server werden gelegentlich Spiele und Wettbewerbe zum Thema Mappooling abgehalten. Des Weiteren können verifizierte Veranstalter aktive Mappooler und Mapper für ihr Turnier finden. |
 
 ## Project Loved
 

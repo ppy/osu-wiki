@@ -1,3 +1,8 @@
+---
+outdated_since: 3b36d38ae903933c6efab9e00637c7c3d3f6fe8a
+outdated_translation: true
+---
+
 # ModdingとMappingにおける行動規範
 
 **ModdingとMappingにおける行動規範**とは、osu!の[Mapping](/wiki/Beatmapping)と[Modding](/wiki/Modding)のエコシステム全体に適用されるルールとガイドラインからなる行動規範のことで、[コミュニティルール](/wiki/Rules)と[ランキング基準](/wiki/Ranking_criteria)の延長線上にあります。スレッドでのMappingとModdingの議論が、建設的かつ前向きで生産的な環境で行われるようにするため、全員が同じ規範を保つ必要があります。ModdingとMappingのエコシステムに参加する以上は、当規範に従わなければなりません。これらの規則を破ると[アカウントにペナルティが課される](/wiki/Silence)可能性があります。

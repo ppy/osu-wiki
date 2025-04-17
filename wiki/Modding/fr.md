@@ -27,7 +27,7 @@ Pour modder une beatmap, commencez par télécharger la version la plus récente
 
 Lorsque vous rencontrez un problème, sélectionnez tous les objets pertinents, puis utilisez le raccourci de copie (`Ctrl` + `C`) pour copier leurs informations d'horodatage en tant que texte. Sur la discussion d'une beatmap, collez (`Ctrl` + `V`) les horodatages applicables et vos commentaires. L'onglet `Chronologie` est utilisé pour les problèmes concernant des parties spécifiques d'une beatmap, l'onglet `Général (cette difficulté)` est utilisé pour les commentaires sur de plus grandes sections d'une beatmap, et l'onglet `Général (Toutes les difficultés)` est utilisé pour les problèmes applicables à toutes les difficultés d'une beatmap.
 
-Tous les messages de mods doivent traiter de la nature du problème, de sa raison d'être et de la manière de le résoudre. Voir le [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#créer-un-mod-post) pour plus de détails sur la mise en forme des messages de mod.
+Tous les messages de mods doivent traiter de la nature du problème, de sa raison d'être et de la manière de le résoudre. Voir le [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) pour plus de détails sur la mise en forme des messages de mod.
 
 Les mappeurs fournissent régulièrement des [kudosu](/wiki/Modding/Kudosu) aux messages des moddeurs qu'ils considèrent comme utiles en cliquant sur le bouton de vote "like". Cette statistique est enregistrée sur le profil de l'utilisateur et est référencée lors de la demande d'adhésion aux [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 

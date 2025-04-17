@@ -27,7 +27,7 @@ Para modear un beatmap, empieza descargando la versión más reciente y abriendo
 
 Cuando te encuentres con un problema, selecciona todos los objetos relevantes, luego usa el atajo de copiar (`Ctrl` + `C`) para copiar la información de la línea de tiempo como texto. En la discusión del beatmap, pega (`Ctrl` + `V`) la información de la línea de tiempo y tus comentarios. La pestaña `Línea de tiempo` se usa para problemas relacionados con partes específicas de un beatmap, la pestaña `General (nombre de la dificultad)` se usa para comentarios sobre secciones más grandes de un beatmap, y la pestaña `General (Todas las dificultades)` se usa para problemas aplicables a todas las dificultades de un beatmap.
 
-Todos las publicaciones de mods deben indicar cuál es el problema, por qué es un problema y cómo solucionarlo. Consulta el [código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#cómo-hacer-una-publicación-de-un-mod) para obtener más información sobre el formato de las publicaciones de mods.
+Todos las publicaciones de mods deben indicar cuál es el problema, por qué es un problema y cómo solucionarlo. Consulta el [código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) para obtener más información sobre el formato de las publicaciones de mods.
 
 Los mappers suelen dar [kudosu](/wiki/Modding/Kudosu) a los mods que consideren útiles haciendo clic en el icono de *pulgar hacia arriba*. Esta estadística se rastrea en el perfil del usuario y se usa como referencia al solicitar el ingreso a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 

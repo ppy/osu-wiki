@@ -6,7 +6,7 @@ date: 2024-03-23 18:00:00 +0000
 
 The results are in! If you're an osu!taiko or osu!catch mapper, check out the winners from the previous contest, plus the launch of a new contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 One month after its last iteration, the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) makes a not-so-surprising return!
 
