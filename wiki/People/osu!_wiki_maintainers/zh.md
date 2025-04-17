@@ -1,6 +1,6 @@
 # osu! wiki 维护者
 
-**osu! wiki 维护者** 通过osu! wiki的[GitHub项目库](https://github.com/ppy/osu-wiki)来维护[osu! wiki](/wiki/osu!_wiki)。
+**osu! wiki 维护者** 通过 [GitHub 项目仓库](https://github.com/ppy/osu-wiki)来维护 [osu! wiki](/wiki/osu!_wiki)。
 
 维护者会定期查看[议题追踪页](https://github.com/ppy/osu-wiki/issues)并审核贡献者的拉取请求 (Pull Request)。与其他贡献者不同，维护者能够编辑拉取请求，并将其合并至储存库的 `master` 分支中，使其能够正式上线。
 
