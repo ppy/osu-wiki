@@ -44,7 +44,7 @@ The following are maintainers who, on top of their regular maintenance responsib
 
 ## Past maintainers
 
-The following are maintainers who are no longer listed as part of the [wiki team](https://github.com/orgs/ppy/teams/wiki/members). This also includes maintainers of [the MediaWiki setup](wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)), which hosted the osu! wiki prior to its migration to GitHub.
+The following are maintainers who are no longer listed as part of the [wiki team](https://github.com/orgs/ppy/teams/wiki/members). This also includes maintainers of [the MediaWiki setup](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)), which hosted the osu! wiki prior to its migration to GitHub.
 
 - ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
