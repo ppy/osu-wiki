@@ -6,7 +6,7 @@ date: 2020-04-21 09:00:00 +0000
 
 Check out the winning submissions from the third monthly beatmapping contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The **Monthly Beatmapping Contest** (***MBC***) has been running strong since the start of the year! Take a peek at the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) for information on anything and everything MBC-related.
 

@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2023 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #12 (2023)** (***OIT 2023***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It was the thirteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #13 (2023)** (***OIT 2023***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It was the thirteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The osu! Indonesia Tournament #13 (2023) offered an initial prize pool of 3,000,
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the accumulated prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner |
 
 ![](img/badge.png "OIT 2023 winner badge")
 
@@ -410,7 +410,7 @@ Sunday, 2 July 2023:
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total amount of Z-Score across all eleven Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
 6. 16 players with the **highest Z-Sum value** will advance to the knock-out stages.
-   - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+   - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total raw score will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
