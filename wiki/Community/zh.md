@@ -14,6 +14,7 @@ outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
 - [互联网中继聊天](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
 - [线下组织](/wiki/Community/Organisations)
+- [Reddit](/wiki/Community/Reddit)
 
 ## 项目
 
