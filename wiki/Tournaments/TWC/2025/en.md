@@ -110,7 +110,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Taiwan ::{ flag=TW }:: | ::{ flag=CN }:: China | [Apr 19 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250419T120000&p1=1440&p2=241&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Apr 19 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250419T170000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Apr 19 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250419T133000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 20 April 2025
 
