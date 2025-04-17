@@ -1,3 +1,8 @@
+---
+outdated_since: 0ffdd3209f4cbab2e8b050f5eb1201ddd9f4c660
+outdated_translation: true
+---
+
 # osu! wiki 维护者
 
 **osu! wiki 维护者** 通过 [GitHub 项目仓库](https://github.com/ppy/osu-wiki)来维护 [osu! wiki](/wiki/osu!_wiki)。
