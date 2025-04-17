@@ -125,12 +125,13 @@ Les points de concours ont été utilisés pour les concours suivants :
 | Utilisateur | Points | Concours |
 | :-- | :-- | :-- |
 | ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=PH }:: [**Jemzuu**](https://osu.ppy.sh/users/7890134) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
+| ::{ flag=PH }:: [**Jemzuu**](https://osu.ppy.sh/users/7890134) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=PH }:: [-Rusty](https://osu.ppy.sh/users/16355636) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=EE }:: [Sadu](https://osu.ppy.sh/users/16301262) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -142,13 +143,13 @@ Les points de concours ont été utilisés pour les concours suivants :
 
 | Utilisateur | Points | Concours |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
+| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [wolfyou](https://osu.ppy.sh/users/12565254) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
