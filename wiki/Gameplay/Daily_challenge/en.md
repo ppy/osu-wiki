@@ -2,7 +2,7 @@
 
 The **daily challenge** is a multiplayer mode in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) where players are able to build up a streak by passing consecutive daily beatmaps with an increasing difficulty that resets every 7 days.
 
-Beatmaps in the challenge are curated by a panel of contributors and are mainly set to [Featured Artist](/wiki/People/Featured_Artists) tracks. On certain days, the beatmaps may come with a mod forced onto users, requiring them to pass the beatmap with the selected mod.
+Beatmaps in the challenge are curated by a panel of contributors and are mainly set to [Featured Artist](/wiki/People/Featured_Artists) tracks. On certain days, these beatmaps may come with a mod forced onto users, requiring them to pass the beatmap with the selected mod.
 
 ## Game menu
 
