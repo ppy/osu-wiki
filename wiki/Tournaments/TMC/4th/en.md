@@ -35,11 +35,12 @@ The **Touhou Project Mania Cup 4th** (***THMC 4th***) is a team-based 2v2 osu!ma
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | *TBD*, profile badge (pending) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBD*, profile badge (pending) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBD*, profile badge (pending) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, profile badge (pending) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, profile badge (pending) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, profile badge (pending) |
+| 4th–6th place | $10 USD |
 
-![](img/thmc4-badge-1st.png "MWC 4K 2024 winner badge") ![](img/thmc4-badge-2nd.png "MWC 4K 2024 2nd-place badge") ![](img/thmc4-badge-3rd.png "MWC 4K 2024 3rd-place badge")
+![](img/thmc4-badge-1st.png "THMC4 winner badge") ![](img/thmc4-badge-2nd.png "THMC4 2nd-place badge") ![](img/thmc4-badge-3rd.png "THMC4 3rd-place badge")
 
 ## Organisation
 
@@ -168,7 +169,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 | **WE LUV かめりあ** | ::{ flag=RO }:: [Mich\_](https://osu.ppy.sh/users/11784492), ::{ flag=RO }:: [Bei](https://osu.ppy.sh/users/14039549), ::{ flag=RO }:: [Kiirbo](https://osu.ppy.sh/users/14985143), ::{ flag=IT }:: [Kenza](https://osu.ppy.sh/users/33611159) |
 | **we washed** | ::{ flag=NL }:: [onto199](https://osu.ppy.sh/users/18951819), ::{ flag=MX }:: [6od](https://osu.ppy.sh/users/9699842) |
 | **Xinghui** | ::{ flag=US }:: [Patchy\_K](https://osu.ppy.sh/users/17540082), ::{ flag=US }:: [Kaiyune](https://osu.ppy.sh/users/34592110) |
-| **γ HEBO3MOӜHO** | ::{ flag=KG }:: [Omagari Hare](https://osu.ppy.sh/users/15591024), ::{ flag=RU }:: [Omega\_A](https://osu.ppy.sh/users/18133675), ::{ flag=RU }:: [Dominus1539](https://osu.ppy.sh/users/32745213), ::{ flag=RU }:: [33675880](https://osu.ppy.sh/users/33675880) |
+| **γ HEBO3MOӜHO** | ::{ flag=KZ }:: [Omagari Hare](https://osu.ppy.sh/users/15591024), ::{ flag=RU }:: [Omega\_A](https://osu.ppy.sh/users/18133675), ::{ flag=RU }:: [Dominus1539](https://osu.ppy.sh/users/32745213), ::{ flag=RU }:: [33675880](https://osu.ppy.sh/users/33675880) |
 | **大图书馆** | ::{ flag=CN }:: [Ibaraki hoshika](https://osu.ppy.sh/users/29278807), ::{ flag=CN }:: [Cuccurry](https://osu.ppy.sh/users/31747350) |
 | **古老的元神** | ::{ flag=ES }:: [\[AR\]lv3plane](https://osu.ppy.sh/users/15964029), ::{ flag=CN }:: [-KoiKokoro-](https://osu.ppy.sh/users/17037854), ::{ flag=CN }:: [Aevli26](https://osu.ppy.sh/users/25520572), ::{ flag=CN }:: [USMAYO](https://osu.ppy.sh/users/25822690) |
 | **古明地三鲜与八云紫的狂想四重奏** | ::{ flag=CN }:: [\[Crz\]rebellion](https://osu.ppy.sh/users/15625432), ::{ flag=CN }:: [WingsOfRain](https://osu.ppy.sh/users/27029245), ::{ flag=CN }:: [ruler](https://osu.ppy.sh/users/31497468), ::{ flag=JP }:: [Chen-Yakumo](https://osu.ppy.sh/users/32922855) |
@@ -209,7 +210,7 @@ The Touhou Project Mania Cup 4th is run by various community members.
 
 **[Download the mappack here! (193 MB)](https://drive.google.com/file/d/1R3N2wbpOJvo660JF0b6uO5ZSVH0a4Lv4/)**\
 [View the showcase VOD here](https://youtu.be/6DawOk_cl5I&list=PLbDr4Al5SsJMaU6tI4IAElMBAjA6ezLes)\
-[View the showcase VOD (Chinese commentary) here](https://youtu.be/XBMgm_3cV5I)
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV17uo5YpE9A/)
 
 - Rice
   1. [BUTAOTOME - Imanarabe (ScoliosisET) \[Satort 1.05x (184bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2347645#mania/5050754)
