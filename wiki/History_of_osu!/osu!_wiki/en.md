@@ -108,9 +108,9 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### June
 
-- **2012-06-01:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) implemented the [osu! wiki overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), allowing the wiki to be accessed directly from inside the osu!(lazer) client.
+- **2021-06-01:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) implemented the [osu! wiki overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), allowing certain pages of the wiki to be accessed directly from inside the osu!(lazer) client.
 
-| Date | Description |
-| :-- | :-- |
-| 2021-08-08 | Gallery support [was implemented](https://github.com/ppy/osu-web/pull/8126). Now, images from one article can be viewed at once in a gallery. |
-| 2021-08-12 | Support for footnotes [was integrated](https://github.com/ppy/osu-web/pull/8125). This allows to add links to notes and references for placing them in a specific section at the end of each article. |
+#### August
+
+- **2021-08-08:** [Gallery support](https://github.com/ppy/osu-web/pull/8126) was implemented to the wiki, allowing for images from an article to be seen all at once in a gallery-style view.
+- **2021-08-12:** [Footnotes](https://github.com/ppy/osu-web/pull/8125) were integrated to the wiki, allowing for links to notes to be placed in a specific section at the end of an article.
