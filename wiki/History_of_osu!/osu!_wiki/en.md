@@ -89,9 +89,13 @@ This article details all the major events in the **history of the osu! wiki** fr
 - **2017-05-22:** The [osu!news archive](https://osunews.tumblr.com/), which was previously hosted in tumblr, were migrated over to the osu! wiki.
 - **2017-05-30:** [Page redirection](https://github.com/ppy/osu-web/pull/1144) was implemented on the wiki.
 
+#### June
+
+- **Unknown date:** ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) was given a special write-access to the osu! wiki repository.
+- **Unknown date:** [Search functionality](https://github.com/ppy/osu-web/pull/2331) was added into the wiki.
+
 | Date | Description |
 | :-- | :-- |
-| 2017-06 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) is promoted with write-access for the osu-wiki repository. Search service on osu!web for the osu! wiki is implemented. |
 | 2018-02-07 | Article tagging support [was implemented](https://github.com/ppy/osu-web/pull/2331) to allow better search results for wiki articles. |
 | 2018–2021 | *Undocumented* |
 | 2021-05-12 | [First implementation](https://github.com/ppy/osu-web/pull/7546) of infoboxes that may add additional information to articles. |
