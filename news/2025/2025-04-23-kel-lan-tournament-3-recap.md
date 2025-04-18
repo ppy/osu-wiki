@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEL LAN Tournament 3 Recap"
+title: KEL LAN Tournament 3 Recap
 date: 2025-04-23 12:00:00 +0000
 ---
 
