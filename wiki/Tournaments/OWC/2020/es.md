@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - OWC
   - OWC2020
@@ -7,15 +6,15 @@ tags:
 
 # osu! World Cup 2020
 
-![OWC 2020 logo](/wiki/shared/news/banners/OWC_2020_banner.jpg)
+![Logo de la OWC 2020](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-La **osu! World Cup 2020** (***OWC 2020***) fue un torneo por países organizado por el [equipo de osu!](/wiki/People/osu!_team). Fue la 11ª entrega de la osu! World Cup
+La **osu! World Cup 2020** (***OWC 2020***) fue un torneo por países organizado por el [osu! team](/wiki/People/osu!_team). Fue la undécima edición de la osu! World Cup.
 
 ## Calendario del torneo
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 24/9/2020 - 8/10/2020 |
+| Fase de registro | 24/9/2020 - 8/10/2020 |
 | Exhibición de la fase de clasificación | 17/10/2020 (14:00 UTC+0) |
 | Fase de clasificación | 24/10/2020 - 25/10/2020 |
 | Dieciseisavos de final | 31/10/2020 - 1/11/2020 |
@@ -27,35 +26,35 @@ La **osu! World Cup 2020** (***OWC 2020***) fue un torneo por países organizado
 
 ## Premios
 
-¡La osu! World Cup 2020 ofreció un pozo de premios en efectivo de $5,000 y mercancía de edición limitada!
+¡La osu! World Cup 2020 ofreció un pozo de premios de 5000 dólares y mercancía de edición limitada!
 
 | Posición | Premio(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") | 50% del premio acumulado, mercancía exclusiva de una sola tira, insignia para el perfil, título de usuario "osu! Champion" por un año |
-| ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | 36% del premio acumulado, mercancía exclusiva de una sola tira, insignia para el perfil |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | 14% del premio acumulado, mercancía exclusiva de una sola tira, insignia para el perfil |
+| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | 50 % del pozo de premios, mercancía exclusiva, una insignia para el perfil, título de usuario «osu! Champion» por un año |
+| ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | 36 % del pozo de premios, mercancía exclusiva, una insignia para el perfil |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | 14 % del pozo de premios, mercancía exclusiva, una insignia para el perfil |
 
 ![](img/badge.png "Insignia de ganador de la OWC 2020") ![](img/badge2.png "Insignia de 2do lugar de la OWC 2020") ![](img/badge3.png "Insignia de 3er lugar de la OWC 2020")
 
 ## Organización
 
-La osu! World Cup 2020 estuvo a cargo del equipo de osu! y varios miembros de la comunidad.
+La osu! World Cup 2020 estuvo a cargo del osu! team y varios miembros de la comunidad.
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Gerente | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Selección de mapas | ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943) |
-| Tester del Mappool | ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=MA }:: [FGSky](https://osu.ppy.sh/users/2094566), ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [Skill](https://osu.ppy.sh/users/7802027), ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
-| Comentaristas | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) |
+| Administrador | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Selector de mapas | ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943) |
+| Probador del mappool | ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=MA }:: [FGSky](https://osu.ppy.sh/users/2094566), ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [Skill](https://osu.ppy.sh/users/7802027), ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
+| Comentarista | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Árbitro | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=AU }:: [ill onion](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Estadísticas | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Estadístico | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
 
-## Links
+## Enlaces
 
 - [Hilo de discusión](https://osu.ppy.sh/community/forums/topics/1150567)
 - [Transmisión en vivo](https://www.twitch.tv/osulive)
 - [Challonge de los brackets](https://challonge.com/OWC_2020)
-- [Página de selección](https://pickem.hwc.hr/tournaments/47) alojada por ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Página de Pick'ems](https://pickem.hwc.hr/tournaments/47) alojada por ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Hoja de estadísticas](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml)**
 
 ## Participantes
@@ -94,8 +93,8 @@ La osu! World Cup 2020 estuvo a cargo del equipo de osu! y varios miembros de la
 | ::{ flag=PH }:: | **Filipinas** | **[zonelouise](https://osu.ppy.sh/users/1492995)**, [Senjuro](https://osu.ppy.sh/users/3003839), [xidorn](https://osu.ppy.sh/users/7904667), [elki](https://osu.ppy.sh/users/8136525), [hyeok2044](https://osu.ppy.sh/users/8472976), [Thorfinn](https://osu.ppy.sh/users/9756249), [Rammu](https://osu.ppy.sh/users/10652837), [Xyloz](https://osu.ppy.sh/users/12040280) |
 | ::{ flag=PL }:: | **Polonia** | **[WubWoofWolf](https://osu.ppy.sh/users/39828)**, [Mastasz](https://osu.ppy.sh/users/1876565), [MAREK MARUCHA](https://osu.ppy.sh/users/2395405), [Rafis](https://osu.ppy.sh/users/2558286), [twoj stary](https://osu.ppy.sh/users/3543130), [Aldrouch](https://osu.ppy.sh/users/5575135), [Bartek22830](https://osu.ppy.sh/users/6404027), [TWOJA STARA](https://osu.ppy.sh/users/8170186) |
 | ::{ flag=PT }:: | **Portugal** | **[King Lizard](https://osu.ppy.sh/users/7817891)**, [dat boi waffle](https://osu.ppy.sh/users/4215381), [Legendz](https://osu.ppy.sh/users/4333312), [Mizuru](https://osu.ppy.sh/users/4495871), [\[ Larssen \]](https://osu.ppy.sh/users/5784075), [rc4322](https://osu.ppy.sh/users/7772622), [MakiDonalds](https://osu.ppy.sh/users/11610772), [FrancisEdits](https://osu.ppy.sh/users/11655630) |
-| ::{ flag=RO }:: | **Rumania** | **[badeu](https://osu.ppy.sh/users/1473890)**, [\_AfterWind](https://osu.ppy.sh/users/2086138), [Chiu](https://osu.ppy.sh/users/3148900), [eternum](https://osu.ppy.sh/users/4581069), [Maxim Bogdan](https://osu.ppy.sh/users/5035707), [cristi2708](https://osu.ppy.sh/users/7552300), [roliy](https://osu.ppy.sh/users/9578404), [LuchiBuchi](https://osu.ppy.sh/users/10897656) |
-| ::{ flag=RU }:: | **Rusia** | **[Okinotori](https://osu.ppy.sh/users/4346274)**, [talala](https://osu.ppy.sh/users/1389663), [Red\_Pixel](https://osu.ppy.sh/users/4170932), [Alumetri](https://osu.ppy.sh/users/5371497), [MrFuture](https://osu.ppy.sh/users/5724445), [Gasha](https://osu.ppy.sh/users/7192129), [-Din-](https://osu.ppy.sh/users/7972980), [Envy\_ss](https://osu.ppy.sh/users/8386483) |
+| ::{ flag=RO }:: | **Rumanía** | **[badeu](https://osu.ppy.sh/users/1473890)**, [\_AfterWind](https://osu.ppy.sh/users/2086138), [Chiu](https://osu.ppy.sh/users/3148900), [eternum](https://osu.ppy.sh/users/4581069), [Maxim Bogdan](https://osu.ppy.sh/users/5035707), [cristi2708](https://osu.ppy.sh/users/7552300), [roliy](https://osu.ppy.sh/users/9578404), [LuchiBuchi](https://osu.ppy.sh/users/10897656) |
+| ::{ flag=RU }:: | **Federación de Rusia** | **[Okinotori](https://osu.ppy.sh/users/4346274)**, [talala](https://osu.ppy.sh/users/1389663), [Red\_Pixel](https://osu.ppy.sh/users/4170932), [Alumetri](https://osu.ppy.sh/users/5371497), [MrFuture](https://osu.ppy.sh/users/5724445), [Gasha](https://osu.ppy.sh/users/7192129), [-Din-](https://osu.ppy.sh/users/7972980), [Envy\_ss](https://osu.ppy.sh/users/8386483) |
 | ::{ flag=SG }:: | **Singapur** | **[k\_1tty](https://osu.ppy.sh/users/5407620)**, [GSBlank](https://osu.ppy.sh/users/2312106), [Rtyzen](https://osu.ppy.sh/users/2439822), [LanJay](https://osu.ppy.sh/users/5210595), [Demonical](https://osu.ppy.sh/users/5447609), [Loslite](https://osu.ppy.sh/users/6398160), [\[-Lockon-\]](https://osu.ppy.sh/users/6726331), [megumic](https://osu.ppy.sh/users/7537133) |
 | ::{ flag=SK }:: | **Eslovaquia** | **[Tikef](https://osu.ppy.sh/users/9149213)**, [PeteX](https://osu.ppy.sh/users/1285945), [MarGenDo](https://osu.ppy.sh/users/3340086), [Hranolka](https://osu.ppy.sh/users/6149947), [-YoYo-](https://osu.ppy.sh/users/6158076), [PemiX](https://osu.ppy.sh/users/6974470), [Ezreal156](https://osu.ppy.sh/users/7358639), [SneakY NickY](https://osu.ppy.sh/users/8847379) |
 | ::{ flag=KR }:: | **Corea del Sur** | **[Karuna](https://osu.ppy.sh/users/8775024)**, [Ponytail](https://osu.ppy.sh/users/1516650), [Nelitoru](https://osu.ppy.sh/users/2511839), [Nopekjk](https://osu.ppy.sh/users/4585186), [Zeisen-](https://osu.ppy.sh/users/7892320), [FlyingTuna](https://osu.ppy.sh/users/9224078), [\[RyuTell\]](https://osu.ppy.sh/users/9397144), [\[Karcher\]](https://osu.ppy.sh/users/11443437) |
@@ -298,31 +297,31 @@ La osu! World Cup 2020 estuvo a cargo del equipo de osu! y varios miembros de la
   1. [ginkiha feat. TEA - Hare (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/1280205#osu/2659374)
   2. [Cranky - Puppe (yaspo) \[Heavy\]](https://osu.ppy.sh/beatmapsets/1280198#osu/2659360)
 
-## Resultados de las partidas
+## Resultados de los partidos
 
 ### Gran Final
 
-Las estadísticas de la Gran Final se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal).
+Las estadísticas de la gran Final se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal).
 
 Sábado, 5 de diciembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Canadá ::{ flag=CA }:: | 0 | **7** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/71028303) |
 
 Domingo, 6 de diciembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Estados Unidos** ::{ flag=US }:: | **7** | 6 | ::{ flag=DE }:: Alemania | [#1](https://osu.ppy.sh/community/matches/71094276) |
 
 ### Finales
 
-Las estadísticas de las Finales se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal).
+Las estadísticas de las finales se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal).
 
 Sábado, 28 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Alemania** ::{ flag=DE }:: | **7** | 3 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/70607012) |
 | **Japón** ::{ flag=JP }:: | **7** | 6 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/70615882) |
@@ -330,45 +329,45 @@ Sábado, 28 de noviembre de 2020:
 
 Domingo, 29 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Japón ::{ flag=JP }:: | 5 | **7** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/70672537) |
 
 ### Semifinales
 
-Las estadísticas de las Semifinales se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal).
+Las estadísticas de las semifinales se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal).
 
 Sábado, 21 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ::{ flag=HK }:: | 0 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/70209883) |
 | China ::{ flag=CN }:: | 5 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/70213695) |
-| **Corea del Sur** ::{ flag=KR }:: | **6** | 1 | ::{ flag=RU }:: Rusia | [#1](https://osu.ppy.sh/community/matches/70216160) |
+| **Corea del Sur** ::{ flag=KR }:: | **6** | 1 | ::{ flag=RU }:: Federación de Rusia | [#1](https://osu.ppy.sh/community/matches/70216160) |
 | **Brasil** ::{ flag=BR }:: | **6** | 5 | ::{ flag=TW }:: Taiwán | [#1](https://osu.ppy.sh/community/matches/70220193) |
 | **Canadá** ::{ flag=CA }:: | **6** | 3 | ::{ flag=JP }:: Japón | [#1](https://osu.ppy.sh/community/matches/70228660) |
 | **Estados Unidos** ::{ flag=US }:: | **6** | 0 | ::{ flag=DE }:: Alemania | [#1](https://osu.ppy.sh/community/matches/70236028) |
 
 Domingo, 22 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia ::{ flag=ID }:: | 1 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/70270667) |
 | Corea del Sur ::{ flag=KR }:: | 0 | **6** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/70279413) |
 
 ### Cuartos de final
 
-Las estadísticas de los Cuartos de final se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal).
+Las estadísticas de los cuartos de final se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal).
 
 Sábado, 14 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=IT }:: Italia | [#1](https://osu.ppy.sh/community/matches/69818788) |
-| Rumania ::{ flag=RO }:: | 4 | **6** | ::{ flag=SG }:: **Singapur** | [#1](https://osu.ppy.sh/community/matches/69820364) |
+| Rumanía ::{ flag=RO }:: | 4 | **6** | ::{ flag=SG }:: **Singapur** | [#1](https://osu.ppy.sh/community/matches/69820364) |
 | **Reino Unido** ::{ flag=GB }:: | **6** | 0 | ::{ flag=PH }:: Filipinas | [#1](https://osu.ppy.sh/community/matches/69823389) |
 | **Indonesia** ::{ flag=ID }:: | **6** | 3 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/69827164) |
-| **Rusia** ::{ flag=RU }:: | **6** | 3 | ::{ flag=MY }:: Malasia | [#1](https://osu.ppy.sh/community/matches/69827447) |
+| **Federación de Rusia** ::{ flag=RU }:: | **6** | 3 | ::{ flag=MY }:: Malasia | [#1](https://osu.ppy.sh/community/matches/69827447) |
 | **Francia** ::{ flag=FR }:: | **6** | 2 | ::{ flag=SE }:: Suecia | [#1](https://osu.ppy.sh/community/matches/69831548) |
 | **Taiwán** ::{ flag=TW }:: | **6** | 4 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/69833714) |
 | **Polonia** ::{ flag=PL }:: | **6** | 3 | ::{ flag=FI }:: Finlandia | [#1](https://osu.ppy.sh/community/matches/69842272) |
@@ -376,7 +375,7 @@ Sábado, 14 de noviembre de 2020:
 
 Domingo, 15 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Canadá** ::{ flag=CA }:: | **6** | 2 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/69868194) |
 | **Australia** ::{ flag=AU }:: | **6** | 1 | ::{ flag=SG }:: Singapur | [#1](https://osu.ppy.sh/community/matches/69878384) |
@@ -384,28 +383,28 @@ Domingo, 15 de noviembre de 2020:
 | China ::{ flag=CN }:: | 1 | **6** | ::{ flag=JP }:: **Japón** | [#1](https://osu.ppy.sh/community/matches/69885050) |
 | Reino Unido ::{ flag=GB }:: | 4 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/69884934) |
 | Francia ::{ flag=FR }:: | 3 | **6** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/69887968) |
-| **Rusia** ::{ flag=RU }:: | **6** | 2 | ::{ flag=PL }:: Polonia | [#1](https://osu.ppy.sh/community/matches/69891597) |
+| **Federación de Rusia** ::{ flag=RU }:: | **6** | 2 | ::{ flag=PL }:: Polonia | [#1](https://osu.ppy.sh/community/matches/69891597) |
 
 ### Octavos de final
 
-Las estadísticas de los Octavos de final se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal).
+Las estadísticas de los octavos de final se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal).
 
 Sábado, 7 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Corea del Sur** ::{ flag=KR }:: | **5** | 2 | ::{ flag=GB }:: Reino Unido | [#1](https://osu.ppy.sh/community/matches/69440920) |
-| Rusia ::{ flag=RU }:: | 0 | **5** | ::{ flag=JP }:: **Japón** | [#1](https://osu.ppy.sh/community/matches/69443152) |
+| Federación de Rusia ::{ flag=RU }:: | 0 | **5** | ::{ flag=JP }:: **Japón** | [#1](https://osu.ppy.sh/community/matches/69443152) |
 | **Filipinas** ::{ flag=PH }:: | **5** | 1 | ::{ flag=NL }:: Países Bajos | [#1](https://osu.ppy.sh/community/matches/69443155) |
 | Ucrania ::{ flag=UA }:: | 1 | **5** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/69451875) |
 | **Canadá** ::{ flag=CA }:: | **5** | 4 | ::{ flag=TW }:: Taiwán | [#1](https://osu.ppy.sh/community/matches/69454898) |
 | Estonia ::{ flag=EE }:: | 2 | **5** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/69458436) |
-| **Estados Unidos** ::{ flag=US }:: | **5** | 1 | ::{ flag=RO }:: Rumania | [#1](https://osu.ppy.sh/community/matches/69461948) |
+| **Estados Unidos** ::{ flag=US }:: | **5** | 1 | ::{ flag=RO }:: Rumanía | [#1](https://osu.ppy.sh/community/matches/69461948) |
 | Israel ::{ flag=IL }:: | 3 | **5** | ::{ flag=FI }:: **Finlandia** | [#1](https://osu.ppy.sh/community/matches/69462590) |
 
 Domingo, 8 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ::{ flag=AU }:: | 3 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/69483825) |
 | México ::{ flag=MX }:: | 0 | **5** | ::{ flag=SG }:: **Singapur** | [#1](https://osu.ppy.sh/community/matches/69488231) |
@@ -418,11 +417,11 @@ Domingo, 8 de noviembre de 2020:
 
 ### Dieciseisavos de final
 
-Las estadísticas de los Dieciseisavos de final se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal).
+Las estadísticas de los dieciseisavos de final se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal).
 
 Sábado, 31 de octubre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Canadá** ::{ flag=CA }:: | **5** | 0 | ::{ flag=PH }:: Filipinas | [#1](https://osu.ppy.sh/community/matches/69063884) |
 | **Corea del Sur** ::{ flag=KR }:: | **5** | 4 | ::{ flag=UA }:: Ucrania | [#1](https://osu.ppy.sh/community/matches/69076593) |
@@ -433,137 +432,137 @@ Sábado, 31 de octubre de 2020:
 | **Japón** ::{ flag=JP }:: | **5** | 1 | ::{ flag=SG }:: Singapur | [#1](https://osu.ppy.sh/community/matches/69082852) |
 | **Polonia** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/69085337) |
 | **Francia** ::{ flag=FR }:: | **5** | 1 | ::{ flag=EE }:: Estonia | [#1](https://osu.ppy.sh/community/matches/69088199) |
-| **Rusia** ::{ flag=RU }:: | **5** | 0 | ::{ flag=MX }:: México | [#1](https://osu.ppy.sh/community/matches/69090928) |
+| **Federación de Rusia** ::{ flag=RU }:: | **5** | 0 | ::{ flag=MX }:: México | [#1](https://osu.ppy.sh/community/matches/69090928) |
 | **Brasil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=FI }:: Finlandia | [#1](https://osu.ppy.sh/community/matches/69093855) |
 
 Domingo, 1 de noviembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Estados Unidos** ::{ flag=US }:: | **5** | 1 | ::{ flag=MY }:: Malasia | [#1](https://osu.ppy.sh/community/matches/69116338) |
 | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=IT }:: Italia | [#1](https://osu.ppy.sh/community/matches/69136884) |
 | **Reino Unido** ::{ flag=GB }:: | **5** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/69136893) |
-| **Rumania** ::{ flag=RO }:: | **5** | 4 | ::{ flag=NO }:: Noruega | [#1](https://osu.ppy.sh/community/matches/69141778) |
+| **Rumanía** ::{ flag=RO }:: | **5** | 4 | ::{ flag=NO }:: Noruega | [#1](https://osu.ppy.sh/community/matches/69141778) |
 | **Alemania** ::{ flag=DE }:: | **5** | 0 | ::{ flag=TR }:: Turquía | [#1](https://osu.ppy.sh/community/matches/69146008) |
 
-### Clasificatorios
+### Clasificatorias
 
-Las estadísticas de los Clasificatorios se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal).
+Las estadísticas de las clasificatorias se pueden encontrar en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal).
 
 ## Reglamento
 
 ### Reglas del torneo
 
 1. La osu! World Cup es un torneo por países, jugado en el modo de juego osu!.
-   - Si bien esta competencia está planificada como una configuración de 4 contra 4, esto podría cambiar según la cantidad de registros entrantes.
-2. La puntuación del mapa se basa en Score V2.
-3. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar las partidas reales. Solo estos se utilizarán durante las respectivas partidas.
-   - Un mapa será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate. **La única excepción a esto es el pool de Clasificatorios.**
-4. El cronograma de partidas será establecido por el Gerente del torneo (vea las [Instrucciones de programación](#instrucciones-de-programación)).
-5. Si no hay ningún staff o árbitro disponible, la partida será pospuesta.
-6. Se permite el uso de la configuración visual para alterar la atenuación del fondo o deshabilitar elementos del mapa, como storyboards y skins.
-7. Si el mapa termina en un empate, el mapa será anulado y se volverá a jugar.
-8. Si un jugador se desconecta, sus puntuaciones no se contarán para el total de su equipo.
-   - Las desconexiones dentro de los 30 segundos o el 25 % de la duración del mapa (lo que ocurra primero) después del inicio del mapa pueden abortarse y/o volver a emparejarse. Esto queda a discreción del árbitro.
-9. Los mapas no pueden ser reutilizados en una misma partida a menos que el mapa haya sido anulado.
-10. Si asisten menos jugadores del mínimo requerido, el partido podrá ser pospuesto máximo 10 minutos.
-11. Se permite el intercambio de jugadores durante una partida sin limitaciones.
-    - **Si se requiere una revancha de un mapa, no se permite el intercambio de jugadores. A discreción del árbitro, se puede hacer una excepción si la lista anterior no está disponible para jugar.**
-12. El lag no es un razón válida para anular un mapa.
-13. Se supone que todos los jugadores deben hacer que el partido se desarrolle con fluidez y sin demoras. Se pueden aplicar sanciones a los jugadores si causan retrasos excesivos en las partidas.
-14. Si un jugador se desconecta entre los mapas y el equipo no puede proporcionar un reemplazo, el partido puede retrasarse 10 minutos como máximo.
-15. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y del Gerente del torneo. Las decisiones etiquetadas como finales no deben ser objetadas.
+   - Si bien esta competición está planeada como una modalidad de 4 contra 4, esto podría cambiar dependiendo de la cantidad de registros que se reciban.
+2. Las puntuaciones de los mapas se basan en Score V2.
+3. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
+   - Un beatmap será asignado como mapa de desempate. Este beatmap solo podrá ser jugado en caso de empate. **La única excepción a esto es el mappool de las clasificatorias.**
+4. El cronograma de los partidos será establecido por los administradores del torneo (consulta las [instrucciones de la programación](#instrucciones-de-la-programación)).
+5. Si no hay personal o árbitro disponible, el partido será pospuesto.
+6. Se permite el uso de la configuración visual para alterar la atenuación del fondo o deshabilitar elementos del beatmap, como storyboards y skins.
+7. Si el beatmap termina en un empate, el mapa será anulado y se volverá a jugar.
+8. Si un jugador se desconecta, su puntuación no se contará para el total de su equipo.
+   - Las desconexiones dentro de los 30 segundos o el 25 % de la duración del beatmap (lo que ocurra primero) después del inicio del beatmap pueden abortarse y/o volver a jugarse. Esto queda a discreción del árbitro.
+9. Los beatmaps no pueden ser reusados en un mismo partido, a menos que el mapa haya sido anulado.
+10. Si asisten menos jugadores del mínimo requerido, el tiempo máximo que se podrá posponer el partido será de 10 minutos.
+11. El intercambio de jugadores durante un partido está permitido sin limitaciones.
+    - **Si se requiere la revancha de un mapa, no se permite el intercambio de jugadores. A discreción del árbitro, se puede hacer una excepción si el equipo anterior no está disponible para jugar.**
+12. El lag no es un razón válida para anular un beatmap.
+13. Se supone que todos los jugadores deben hacer que el partido se desarrolle con fluidez y sin demoras. Se pueden aplicar sanciones a los jugadores si causan retrasos excesivos en los partidos.
+14. Si un jugador se desconecta entre los mapas y el equipo no puede proporcionar un reemplazo, el partido podrá retrasarse 10 minutos como máximo.
+15. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y de los administradores del torneo. Las decisiones consideradas definitivas no deben ser objetadas.
 16. Está estrictamente prohibido interrumpir el partido con juego sucio, insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
-17. Las salas de chat multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules).
-    - Romper las reglas del chat da como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
-18. **El método de clasificación se revelará después de que todos los equipos hayan jugado sus rondas clasificatorias.**
-19. Los incidentes inesperados son manejados por el Gerente del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias. Esto queda a su discreción.
-20. Las sanciones por violar las reglas del torneo pueden ser:
-    - Exclusión de jugadores específicos para un mapa
-    - Exclusión de jugadores específicos por el resto de la partida
+17. El chat de las salas multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules).
+    - Romper las reglas del chat dará como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
+18. **El método de agrupación se revelará después de que todos los equipos hayan jugado sus rondas clasificatorias.**
+19. Los incidentes inesperados serán manejados por los administradores del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias. Esto queda a su discreción.
+20. Las sanciones por incumplir las reglas del torneo pueden ser:
+    - Exclusión de jugadores específicos para un beatmap
+    - Exclusión de jugadores específicos por el resto del partido
     - Declarar el partido como perdido por defecto
     - Descalificación de todo el torneo
     - Descalificación de los torneos oficiales actuales y futuros hasta que se apele
-    - Se dará a conocer cualquier modificación a estas reglas.
+    - Se dará a conocer cualquier modificación de estas reglas.
 
 ### Registro del torneo
 
-1. Cada usuario interesado en formar parte del equipo de su país se registra individualmente.
-   - El Gerente del torneo creará una lista de posibles candidatos para el equipo de un país.
-   - El Gerente del torneo declara un candidato a capitán de la selección del país, aunque de forma temporal.
+1. Cada usuario interesado en formar parte del equipo de su país debe registrarse individualmente.
+   - Los administradores del torneo crearán una lista de posibles candidatos para el equipo de un país.
+   - Los administradores del torneo declararán a un candidato como capitán para la selección de su país, aunque de forma temporal.
    - El capitán declarado puede formar su equipo a partir de la lista de candidatos de su país.
-2. Para asegurar registros válidos y serios, cada usuario registrado será controlado por el Gerente del torneo.
+2. Para asegurar registros válidos y serios, cada usuario registrado será controlado por los administradores del torneo.
    - Cada usuario registrado será asignado a la lista de candidatos de su país respectivo.
-   - Para ser aceptado con éxito en la lista, debe asegurarse de que su clasificación de rendimiento global de osu! está por encima de #5000.
-   - Para ser aceptado con éxito en la lista, debe asegurarse de no haber violado ninguna de las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
-3. Todos los equipos formados con éxito serán publicados después de la Fase de Registro.
+   - Para ser aceptado con éxito en la lista, la clasificación de rendimiento global de osu! de un jugador debe estar por encima de #5000.
+   - Para ser aceptado con éxito en la lista, un jugador no debe haber infringido las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
+3. Todos los equipos formados con éxito serán publicados después de la fase de registro.
    - **Un equipo debe tener al menos 6 jugadores registrados para tener la oportunidad de jugar la fase de clasificación.**
    - **Los 32 mejores cabezas de serie clasificarán a los dieciseisavos de final.**
 4. Los selectores de mapas no pueden participar como jugadores en este torneo.
 
 ### Instrucciones de las fases
 
-1. En la fase de clasificación, todos los equipos jugarán un pool específico diseñado por los selectores de mapas.
-2. El pool contendrá 4 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time). No habrá desempate para esta fase.
-3. El pool de clasificación contiene 10 mapas. Habrá 4 mapas bajo el bracket de NoMod y 2 mapas para los otros brackets de mods.
-4. Los equipos tendrán que jugar el mappool dos veces en un momento designado. Su mejor puntuación combinada se utilizará para la clasificación.
+1. En la fase de clasificación, todos los equipos jugarán un mappool específico diseñado por los selectores de mapas.
+2. El mappool contendrá 4 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time). No habrá mapa de desempate para esta fase.
+3. El mappool de las clasificatorias contiene 10 mapas. Habrá 4 mapas en el bracket de NoMod y 2 mapas para los otros brackets de mods.
+4. Los equipos tendrán que jugar el mappool dos veces en un momento designado. Su mejor puntuación combinada se usará para la agrupación de los equipos.
 5. El mappool se jugará en el orden indicado anteriormente.
 6. Cada equipo debe tener 4 jugadores para cada mapa. Se pueden intercambiar libremente después de concluir un mapa.
-7. Habrá un descanso de 5 minutos entre la primera y la segunda reproducción del mappool.
-8. Todos los equipos jugarán sus eliminatorias en salas separadas. *Sugerimos a los equipos que no difundan ni compartan sus resultados para evitar la manipulación de semillas*.
+7. Habrá un descanso de 5 minutos entre la primera y la segunda partida del mappool.
+8. Todos los equipos jugarán sus clasificatorias en salas separadas. *Sugerimos a los equipos que no difundan ni compartan sus resultados para evitar la manipulación de semillas*.
 9. Los 32 mejores equipos avanzarán a los dieciseisavos de final.
-10. Después de los Clasificatorios, se jugarán fases de Doble Eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket perdedor.
-11. Los equipos en el bracket de perdedores deben jugar 2 partidas cada fin de semana a partir de los cuartos de final.
+10. Después de las clasificatorias, se jugarán fases de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket perdedor.
+11. Los equipos en el bracket de perdedores deben jugar 2 partidos cada fin de semana a partir de los cuartos de final.
 
 #### Condiciones de victoria
 
 - Los dieciseisavos de final y los octavos de final serán al mejor de 9 (el primer equipo en conseguir 5 victorias).
-- Los Cuartos de Final y Semifinales serán al mejor de 11 (el primer equipo en conseguir 6 victorias).
-- Las Finales y Gran Final serán al mejor de 13 (el primer equipo en conseguir 7 victorias).
+- Los cuartos de final y semifinales serán al mejor de 11 (el primer equipo en conseguir 6 victorias).
+- Las finales y gran final serán al mejor de 13 (el primer equipo en conseguir 7 victorias).
 
-### Instrucciones de la partida
+### Instrucciones de los partidos
 
-1. Un árbitro creará una sala multijugador con 15 minutos de antelación. Los jugadores deben reunirse durante este período.
-   - La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score V2'. El nombre de la sala debe ser "OWC 2020: (TeamRed) vs (TeamBlue)".
+1. Un árbitro creará una sala multijugador con 15 minutos de antelación. Los jugadores deben reunirse durante este periodo.
+   - La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score V2'. El nombre de la sala debe ser «OWC 2020: (TeamRed) vs (TeamBlue)».
    - El equipo mencionado primero en el nombre de la sala debe ser el equipo rojo, el equipo mencionado en segundo lugar en el nombre de la sala debe ser el equipo azul.
-2. Cada capitán puede banear **un mapa** para seleccionar del mappool en los dieciseisavos de final y octavos de final. Estos mapas no pueden ser elegidos por ningún equipo en toda la partida.
-   - **A partir de Cuartos de Final, el número de baneos aumenta a dos. Sin embargo, cada equipo no puede banear más de un mapa de cualquier bracket de mods (excluyendo NoMod).**
-3. La selección de mapas alternará entre cada capitán seleccionando un mapa del mappool.
-4. Cada capitán debe usar `!roll` una vez en `#multijugador`.
+2. Cada capitán puede prohibir que se seleccione **un beatmap** del mappool en los dieciseisavos de final y octavos de final. Estos beatmaps no pueden ser elegidos por ningún equipo en todo el partido.
+   - **A partir de los cuartos de final, el número de baneos aumenta a dos. Sin embargo, cada equipo no puede banear más de un mapa de cualquier bracket de mods (excluyendo NoMod).**
+3. La selección de los mapas alternará entre cada capitán seleccionando un mapa del mappool.
+4. Cada capitán debe usar `!roll` una vez en `#multiplayer`.
    - El capitán con el roll más alto decide qué equipo **elige** primero.
    - El capitán con el roll más bajo decide qué equipo **banea** primero.
    - **A partir de los cuartos de final, el equipo que banee primero baneará un mapa, luego el otro equipo baneará dos mapas y finalmente el primer equipo hará su baneo final.**
-5. Los equipos tendrán 2 minutos para elegir un mapa y 2 minutos para prepararse.
+5. Los equipos tendrán 2 minutos para elegir un beatmap y 2 minutos para prepararse.
    - En caso de que un equipo tarde más de 2 minutos en elegir un mapa, recibirán una advertencia del árbitro, en ocurrencias posteriores, el árbitro elegirá un mapa aleatorio disponible para elegir del mappool usando `!roll X`, donde X es el número de mapas disponibles para elegir en el mappool.
-   - Cada equipo recibirá un "tiempo muerto táctico" de **dos minutos**, que se puede utilizar en cualquier momento durante la selección de su equipo, **una vez por partida**. *El tiempo muerto táctico es opcional y no se requiere su uso*.
+   - Cada equipo recibirá un «tiempo muerto táctico» de **dos minutos**, que se puede usar en cualquier momento durante la selección de mapas de su equipo, **una vez por partido**. *El tiempo muerto táctico es opcional y no se requiere su uso*.
 6. Los resultados de la fase de clasificación se publicarán a través de una hoja de estadísticas.
 
-### Instrucciones del Mappool
+### Instrucciones del mappool
 
 1. Habrá un nuevo mappool para cada fase.
 2. Cada mappool consiste de 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod.
 3. Cada mappool tiene un tamaño específico dependiendo de la fase.
-   - **Los mappools de dieciseisavos de final y octavos de final tendrán 5 mapas NoMod, 3 mapas DoubleTime y 2 mapas para cada uno de los brackets de mods restantes.**
-   - **Los mappools de Cuartos de final, Semifinales, Finales y Gran final tendrán 6 mapas NoMod, 4 mapas DoubleTime y 3 mapas para cada uno de los brackets de mods restantes.**
-4. Cada mappool tiene un desempate.
+   - **Los mappools de los dieciseisavos de final y octavos de final tendrán 5 mapas NoMod, 3 mapas DoubleTime y 2 mapas para cada uno de los brackets de mods restantes.**
+   - **Los mappools de los cuartos de final, semifinales, finales y gran final tendrán 6 mapas NoMod, 4 mapas DoubleTime y 3 mapas para cada uno de los brackets de mods restantes.**
+4. Cada mappool tiene un mapa de desempate.
 5. **El mod NoFail será forzado en cada mapa.**
 6. El bracket de NoMod se jugará sin ningún mod activado (aparte de NoFail).
 7. Los brackets de Hidden, HardRock y DoubleTime se jugarán con los respectivos mods activados por todos los jugadores.
-8. El bracket de FreeMod tendrá Mods libres activado.
+8. El bracket de FreeMod tendrá mods libres activado.
    - Las posibles opciones de mods son: Hidden, HardRock y Hidden+HardRock.
    - **Al jugar un mapa de FreeMod, debe haber un jugador con Hidden y un jugador con HardRock o Hidden+HardRock. Para los jugadores restantes, habilitar mods es opcional.**
-9. El desempate se jugará bajo las condiciones de FreeMod.
-   - Al jugar el desempate, no hay requisitos de mods.
+9. El mapa de desempate se jugará bajo las condiciones de FreeMod.
+   - Al jugar el mapa de desempate, no hay requisitos de mods.
 
-### Instrucciones de programación
+### Instrucciones de la programación
 
 1. Cada fase se llevará a cabo en **un solo fin de semana**.
-2. Las partidas de las Clasificatorias se llevarán a cabo en franjas horarias específicas propuestas por el personal del torneo. Cada equipo es libre de elegir la franja horaria en la que quiere jugar.
-   - **Un equipo que no elija un horario para el viernes 23 de octubre se considerará descalificado.**
-3. Todos las fases de Brackets se llevarán a cabo entre el sábado a las 0:00 y el domingo a las 23:59 UTC+0.
-4. La programación estará a cargo del Gerente del torneo. Los horarios se publicarán el domingo anterior a las primeras partidas de la fase. El Gerente del torneo intentará crear el horario para respetar la zona horaria del participante.
-   - En los cuartos de final y las fases posteriores, los capitanes de los equipos pueden informar al Gerente del torneo si esperan que un horario específico no esté disponible en la semana siguiente. Las actualizaciones de horarios se otorgarán en la medida de las capacidades del gerente.
-5. **Solo se considerarán reprogramaciones si ambos equipos acuerdan una hora, esto debe hacerse y notificarse al personal del torneo antes del miércoles a las 23:59 UTC+0 en esa semana en particular cuando se lleva a cabo su partida.**
-6. **Las reprogramaciones solo pueden ser solicitadas por un capitán de equipo.**
-   - **No solicite una reprogramación a menos que sea absolutamente necesario. El personal del torneo tiene derecho a rechazar la solicitud.**
-7. Los capitanes son responsables de la disponibilidad de sus equipos. El mayor tamaño del equipo existe para garantizar que cada equipo pueda proporcionar al menos cuatro jugadores para cada partida. Si los equipos no pueden proporcionar cuatro jugadores para una partida, la partida se considerará perdida.
+2. Los partidos de las clasificatorias se llevarán a cabo en franjas horarias específicas propuestas por el personal del torneo. Cada equipo es libre de elegir la franja horaria en la que quiere jugar.
+   - **Los equipos que no elijan una franja horaria antes del viernes 23 de octubre se considerarán descalificados.**
+3. Todos las fases de los brackets se llevarán a cabo entre el sábado a las 0:00 y el domingo a las 23:59 UTC+0.
+4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de la fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
+   - En los cuartos de final y las fases posteriores, los capitanes de los equipos pueden informar a los administradores del torneo si creen que su equipo no podrá estar disponible en un horario específico de la siguiente semana. Las actualizaciones de horarios se otorgarán en la medida de las capacidades de los administradores.
+5. **Solo se considerarán las reprogramaciones si ambos equipos acuerdan una hora, esto debe hacerse y notificarse al personal del torneo antes del miércoles a las 23:59 UTC+0 en esa semana en particular cuando se lleva a cabo su partido.**
+6. **Las reprogramaciones solo pueden ser solicitadas por el capitán del equipo.**
+   - **No solicites una reprogramación, a menos que sea absolutamente necesario. El personal del torneo tiene derecho a rechazar la solicitud.**
+7. Los capitanes son responsables de la disponibilidad de sus equipos. El tamaño de los equipos es grande para garantizar que cada equipo pueda proporcionar al menos cuatro jugadores para cada partido. Si los equipos no pueden proporcionar cuatro jugadores para un partido, el partido se considerará perdido.
