@@ -459,7 +459,7 @@ Las estadísticas de las clasificatorias se pueden encontrar en [esta hoja de c�
 3. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
    - Un beatmap será asignado como mapa de desempate. Este beatmap solo podrá ser jugado en caso de empate. **La única excepción a esto es el mappool de las clasificatorias.**
 4. El cronograma de los partidos será establecido por los administradores del torneo (consulta las [instrucciones de la programación](#instrucciones-de-la-programación)).
-5. Si no personal o árbitro disponible, el partido será pospuesto.
+5. Si no hay personal o árbitro disponible, el partido será pospuesto.
 6. Se permite el uso de la configuración visual para alterar la atenuación del fondo o deshabilitar elementos del beatmap, como storyboards y skins.
 7. Si el beatmap termina en un empate, el mapa será anulado y se volverá a jugar.
 8. Si un jugador se desconecta, su puntuación no se contará para el total de su equipo.
@@ -477,7 +477,7 @@ Las estadísticas de las clasificatorias se pueden encontrar en [esta hoja de c�
     - Romper las reglas del chat dará como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
 18. **El método de agrupación se revelará después de que todos los equipos hayan jugado sus rondas clasificatorias.**
 19. Los incidentes inesperados serán manejados por los administradores del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias. Esto queda a su discreción.
-20. Las sanciones por violar las reglas del torneo pueden ser:
+20. Las sanciones por incumplir las reglas del torneo pueden ser:
     - Exclusión de jugadores específicos para un beatmap
     - Exclusión de jugadores específicos por el resto del partido
     - Declarar el partido como perdido por defecto
@@ -554,15 +554,15 @@ Las estadísticas de las clasificatorias se pueden encontrar en [esta hoja de c�
 9. El mapa de desempate se jugará bajo las condiciones de FreeMod.
    - Al jugar el mapa de desempate, no hay requisitos de mods.
 
-### Instrucciones de programación
+### Instrucciones de la programación
 
 1. Cada fase se llevará a cabo en **un solo fin de semana**.
 2. Los partidos de las clasificatorias se llevarán a cabo en franjas horarias específicas propuestas por el personal del torneo. Cada equipo es libre de elegir la franja horaria en la que quiere jugar.
    - **Los equipos que no elijan una franja horaria antes del viernes 23 de octubre se considerarán descalificados.**
 3. Todos las fases de los brackets se llevarán a cabo entre el sábado a las 0:00 y el domingo a las 23:59 UTC+0.
-4. La programación estará a cargo de los administradores del torneo. Los horarios se publicarán el domingo anterior a los primeros partidos de la fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
+4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de la fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
    - En los cuartos de final y las fases posteriores, los capitanes de los equipos pueden informar a los administradores del torneo si creen que su equipo no podrá estar disponible en un horario específico de la siguiente semana. Las actualizaciones de horarios se otorgarán en la medida de las capacidades de los administradores.
 5. **Solo se considerarán las reprogramaciones si ambos equipos acuerdan una hora, esto debe hacerse y notificarse al personal del torneo antes del miércoles a las 23:59 UTC+0 en esa semana en particular cuando se lleva a cabo su partido.**
-6. **Las reprogramaciones solo pueden ser solicitadas por un capitán de equipo.**
+6. **Las reprogramaciones solo pueden ser solicitadas por el capitán del equipo.**
    - **No solicites una reprogramación, a menos que sea absolutamente necesario. El personal del torneo tiene derecho a rechazar la solicitud.**
 7. Los capitanes son responsables de la disponibilidad de sus equipos. El tamaño de los equipos es grande para garantizar que cada equipo pueda proporcionar al menos cuatro jugadores para cada partido. Si los equipos no pueden proporcionar cuatro jugadores para un partido, el partido se considerará perdido.
