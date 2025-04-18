@@ -112,5 +112,5 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### August
 
-- **2021-08-08:** [Gallery support](https://github.com/ppy/osu-web/pull/8126) was implemented to the wiki, allowing for images from an article to be seen all at once in a gallery-style view.
-- **2021-08-12:** [Footnotes](https://github.com/ppy/osu-web/pull/8125) were integrated to the wiki, allowing for links to notes to be placed in a specific section at the end of an article.
+- **2021-08-08:** [Gallery support](https://github.com/ppy/osu-web/pull/8126) was added to the wiki.
+- **2021-08-12:** [Footnotes](https://github.com/ppy/osu-web/pull/8125) were added to the wiki.
