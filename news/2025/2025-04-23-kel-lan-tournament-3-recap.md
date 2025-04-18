@@ -88,7 +88,7 @@ This amazing showdown was one of the two very last matches in the Semifinals, wi
 
 At the beginning it seemed as if this was going to be the first tiebreaker of the Semifinals, with both players trading points, the closest map being [JYOCHO - Kirei na Sankaku, Asahi Ningen](https://osu.ppy.sh/beatmapsets/2108761#osu/4446255) (NM3) with only a 2,000 point difference in ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650)'s favour.
 
-[Rafis](https://osu.ppy.sh/users/2558286) had built up a slight lead in the first half, but started to lose momentum in the latter half, only winning 1 out of the 5 maps played in the latter half. This gave ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) an opportunity to seize victory, which they ended up doing with a score of 6–4.
+::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286) had built up a slight lead in the first half, but started to lose momentum in the latter half, only winning 1 out of the 5 maps played in the latter half. This gave ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) an opportunity to seize victory, which they ended up doing with a score of 6–4.
 
 ### ::{ flag=PL }:: milosz vs. ::{ flag=NO }:: NINERIK (Grandfinals)
 
