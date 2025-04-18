@@ -56,7 +56,7 @@ Right after the match between ::{ flag=PL }:: [Michni](https://osu.ppy.sh/users/
 
 The cast kicks off at 2–3, with the players fighting it out at [LV.4 - Burning Star](https://osu.ppy.sh/beatmapsets/2095154#osu/4412694) (NM5), eventually leading to ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706) winning the break point. After they failed to secure an early victory with a miniscule 35,000 point difference, the two would face off on the Quarterfinals tiebreaker — [Umeboshi Chazuke - AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546).
 
-In the end, ::{flag=DE}:: [ZeitFrost](https://osu.ppy.sh/users/11234706) showed dominance on the tiebreaker, and managed to slip into the Semifinals by the skin of their teeth with the final scoreline of 5–4.
+In the end, ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706) showed dominance on the tiebreaker, and managed to slip into the Semifinals by the skin of their teeth with the final scoreline of 5–4.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
