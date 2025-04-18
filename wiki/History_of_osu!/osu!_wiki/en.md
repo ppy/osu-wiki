@@ -61,11 +61,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### June
 
-- **Unknown date:** The osu! wiki running on MediaWiki was officially decommissioned. The links to the old wiki were now made to redirect to the new osu! wiki running in GitHub. [A snapshot of the old wiki without the MediaWiki functionality can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page).
-
-| Date, Time | Description |
-| :-- | :-- |
-| 2017-06 | The osu! wiki running on MediaWiki is officially deprecated. The link now points to the new osu!web interface using the osu! wiki resources made in the GitHub repository. [A temporary backup of the osu! wiki without the MediaWiki functionality can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page). |
+- **Unknown date:** The osu! wiki running on MediaWiki was officially decommissioned. The links to the old wiki were now made to redirect to the new GitHub-based wiki. [A snapshot of the old wiki without the MediaWiki functionalities can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page).
 
 ## GitHub repository (2016 - present)
 
