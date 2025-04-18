@@ -2,9 +2,9 @@
 
 Este artículo enumera las comunidades de [Reddit](https://reddit.com) donde los usuarios pueden interactuar con osu! y su comunidad.
 
-## Comunidades gestionadas por la la comunidad de osu!
+## Comunidades gestionadas por la comunidad de osu!
 
-Estas comunidades son gestionadas por la comunidad de osu!, cada una con su propio enfoque en diferentes temas como aspectos del juego, mapping y skinning.
+Estas comunidades son gestionadas por la comunidad de osu!, cada una con su propio enfoque en diferentes temas, como aspectos del juego, mapping y skinning.
 
 | Avatar | Nombre | Descripción |
 | :-: | :-: | :-- |
