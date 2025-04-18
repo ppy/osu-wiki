@@ -75,11 +75,16 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### September
 
-- **2016-09-02:** ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) and ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) finished porting all the legacy osu! wiki contents from MediaWiki to the repository.
+- **2016-09-02:** ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) and ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) finished porting most the legacy osu! wiki contents from MediaWiki to the repository, leaving only the images and certain syntax errors due to the differences between MediaWiki's [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext) and GitHub's [Markdown](https://en.wikipedia.org/wiki/Markdown) language.
+
+### 2017
+
+#### January
+
+
 
 | Date | Description |
 | :-- | :-- |
-| 2016-09 | Most of the pages except the images are moved to the repository, with unsolved syntax-translation errors stemming from language differences between Markdown and MediaWiki. |
 | 2017-01 | osu!web support of the osu! wiki done by ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883). |
 | 2017-01-05 | The osu! wiki project suggested by ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). |
 | 2017-01-26 | The osu! wiki got mentioned on peppy's blog. |
