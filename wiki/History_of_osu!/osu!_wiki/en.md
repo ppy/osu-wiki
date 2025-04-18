@@ -81,13 +81,11 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### January
 
-
+- **2017-01-26:** ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) talked about the backend of the osu! wiki in [a development blog post](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting).
+- **Unknown date:** ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) finished the osu!web support of the osu! wiki.
 
 | Date | Description |
 | :-- | :-- |
-| 2017-01 | osu!web support of the osu! wiki done by ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883). |
-| 2017-01-05 | The osu! wiki project suggested by ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). |
-| 2017-01-26 | The osu! wiki got mentioned on peppy's blog. |
 | 2017-05-22 | The [osu!news archive is now stored on the osu! wiki](https://github.com/ppy/osu-wiki/pull/252) (in text form only). |
 | 2017-05-30 | Page redirection [is finally implemented](https://github.com/ppy/osu-web/pull/1144) in the osu! wiki. |
 | 2017-06 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) is promoted with write-access for the osu-wiki repository. Search service on osu!web for the osu! wiki is implemented. |
