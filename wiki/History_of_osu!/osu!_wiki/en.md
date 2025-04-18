@@ -86,7 +86,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### May
 
-- **2017-05-22:** The [osu!news archive](https://osunews.tumblr.com/), which was previously hosted in Tumblr, was migrated over to the osu! wiki.
+- **2017-05-22:** The [osu!news archive](https://osunews.tumblr.com/), which was previously hosted on Tumblr, was migrated over to the osu! wiki.
 - **2017-05-30:** [Page redirection](https://github.com/ppy/osu-web/pull/1144) was added to the wiki.
 
 #### June
