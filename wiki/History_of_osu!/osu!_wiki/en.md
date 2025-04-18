@@ -23,7 +23,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 ## GitHub repository (2016 - present)
 
-![](img/ow_MW.jpg "Partial screenshot of the main page of the current osu! wiki, taken on 2025-04-17")
+![](img/ow_MW.jpg "Partial screenshot of the current iteration of the osu! wiki, taken on 2025-04-17")
 
 | Date | Description |
 | :-- | :-- |
