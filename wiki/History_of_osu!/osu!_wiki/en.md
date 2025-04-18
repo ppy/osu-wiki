@@ -1,6 +1,6 @@
 # History of the osu! wiki
 
-This article details all the major events in the **history of the osu! wiki**, tracing its journey from the early MediaWiki days to its present-day form.
+This article details all the major events in the **history of the osu! wiki** from the MediaWiki era all the way through the present day.
 
 <!--The documentation for the years 2018 to 2021 is missing.-->
 
