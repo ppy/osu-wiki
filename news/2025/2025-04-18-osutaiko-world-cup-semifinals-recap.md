@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2025: Semifinals Recap"
-date: 2025-04-18 20:00:00 +0000
+date: 2025-04-18 20:15:00 +0000
 ---
 
 Intensity increases as we move further towards the pinnacle of this year's osu!taiko World Cup!
