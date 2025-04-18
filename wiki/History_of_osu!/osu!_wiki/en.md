@@ -108,7 +108,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### June
 
-- **2012-06-01:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) implemented the [osu! wiki overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), allowing the wiki to be directly accessed from inside the osu!(lazer) client.
+- **2012-06-01:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) implemented the [osu! wiki overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), allowing the wiki to be accessed directly from inside the osu!(lazer) client.
 
 | Date | Description |
 | :-- | :-- |
