@@ -1,6 +1,6 @@
 # History of the osu! wiki
 
-This article details all the major events in the **history of the osu! wiki**, ranging from the MediaWiki era all the way to the present day.
+This article details all the major events in the **history of the osu! wiki**, from its humble beginnings during the MediaWiki era all the way to the present day.
 
 <!--The documentation for the years 2018 to 2021 is missing.-->
 
@@ -22,6 +22,8 @@ This article details all the major events in the **history of the osu! wiki**, r
 | 2017-06 | The osu! wiki running on MediaWiki is officially deprecated. The link now points to the new osu!web interface using the osu! wiki resources made in the GitHub repository. [A temporary backup of the osu! wiki without the MediaWiki functionality can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page). |
 
 ## GitHub repository (2016 - present)
+
+![](img/ow_MW.jpg "Full page screenshot of the osu! wiki in MediaWiki, taken on 2017-02-17")
 
 | Date | Description |
 | :-- | :-- |
