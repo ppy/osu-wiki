@@ -14,7 +14,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### December
 
-- **2011-12-05:** The barebones of the osu! wiki was first put into place, with ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) making the first edits.
+- **2011-12-05:** The barebones of the osu! wiki was put into place, with ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) making the first edits.
 - **2011-12-06:** The osu! wiki [went live to the public](https://osu.ppy.sh/community/forums/topics/68525).
 
 ### 2012
@@ -55,13 +55,13 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### August
 
-- **2016-08-30:** The su! wiki running on MediaWiki began to be deprecated in favour of the GitHub repository version, although it would stay accessible until the GitHub version was ready to be deployed with all the pages and images ported.
+- **2016-08-30:** The osu! wiki running on MediaWiki began to be deprecated in favour of the GitHub repository version, although it would stay accessible until the GitHub version was ready to be deployed with all the pages and images ported.
 
 ### 2017
 
 #### June
 
-- **Unknown date:** 
+- **Unknown date:** The osu! wiki running on MediaWiki was officially decommissioned. The links to the old wiki were now made to redirect to the new osu! wiki running in GitHub. [A snapshot of the old wiki without the MediaWiki functionality can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page).
 
 | Date, Time | Description |
 | :-- | :-- |
