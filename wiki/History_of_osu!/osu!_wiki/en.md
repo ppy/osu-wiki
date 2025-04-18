@@ -71,13 +71,14 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### August
 
-- **2016-08-26:** | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [created the osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
+- **2016-08-26:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [created the osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
 
 #### September
 
+- **2016-09-02:** ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) and ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) finished porting all the legacy osu! wiki contents from MediaWiki to the repository.
+
 | Date | Description |
 | :-- | :-- |
-| 2016-08-26 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [created the osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e). ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) and ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) ported the MediaWiki content to the repository in a week. |
 | 2016-09 | Most of the pages except the images are moved to the repository, with unsolved syntax-translation errors stemming from language differences between Markdown and MediaWiki. |
 | 2017-01 | osu!web support of the osu! wiki done by ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883). |
 | 2017-01-05 | The osu! wiki project suggested by ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). |
