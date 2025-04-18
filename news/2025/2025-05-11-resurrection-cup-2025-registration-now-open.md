@@ -10,12 +10,6 @@ The renaissance is upon us with Resurrection Cup returning for a 2025 iteration 
 
 **[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1919672?n=1)**, or ResCup for short, is an annual open-rank Team Vs tournament featuring teams of up to 5 players each, bringing a breath of fresh air to the top-tier competitive tournament scene.
 
-![](/wiki/shared/news/2025-05-11-resurrection-cup-2025-registrations-now-open/originals.jpg)
-![](/wiki/shared/news/2025-05-11-resurrection-cup-2025-registrations-now-open/changes.jpg)
-![](/wiki/shared/news/2025-05-11-resurrection-cup-2025-registrations-now-open/registrations.jpg)
-![](/wiki/shared/news/2025-05-11-resurrection-cup-2025-registrations-now-open/schedule.jpg)
-![](/wiki/shared/news/2025-05-11-resurrection-cup-2025-registrations-now-open/changes.jpg)
-
 ## Original music and original maps
 
 Every year, we release many customs — both songs and maps, intending to create unique challenges for the players competing in the tournament. You may want to watch the following video, showcasing our notable original songs from the 2023 iteration, and expect an even higher quality of production in this year's iteration.
