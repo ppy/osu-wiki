@@ -29,7 +29,7 @@ Además, hay 3 botones más abajo en la página:
 
 ![](img/status-ES.png)
 
-- **¡Hypear este mapa!:** Los hypes se usan como forma de promocionar los mapas y señalar el interés por ver el mapa clasificado. Los hypes son necesarios para que un beatmap pase a estar clasificado, ya que antes de que un Beatmap Nominator pueda nominar un beatmap, este debe alcanzar al menos 5 hypes. Cada usuario solo puede hypear un beatmap una vez, y los hypeos se reparten cada 7 días, hasta un máximo de 10 hypeos.
+- **¡Hypear este mapa!:** Los hypes se usan como forma de promocionar los mapas y señalar el interés por ver el mapa clasificado. Los hypes son necesarios para que un beatmap pase a estar calificado, ya que antes de que un Beatmap Nominator pueda nominar un beatmap, este debe alcanzar al menos 5 hypes. Cada usuario solo puede hypear un beatmap una vez, y los hypeos se reparten cada 7 días, hasta un máximo de 10 hypeos.
 - **Ver/Dejar de ver:** Ver un mapa hará que aparezcan notificaciones cada vez que ocurra algo en la discusión del beatmap. Si ya sigues una discusión de un beatmap, también puedes dejar de seguirla pulsando de nuevo el botón.
 - **Página del mapa:** Vuelve a la página de información y resultados del beatmap.
 
@@ -80,7 +80,7 @@ Recopilar todos los problemas importantes que plantea AiMod en **General (Esta d
 
 Después de comprobar AiMod, **comprueba la temporización** del beatmap. Una temporización correcta es obligatoria para que un beatmap se clasifique, y también lo es para la jugabilidad en general.
 
-Para comprobar que un beatmap esté correctamente temporizado, comprueba primero si el BPM es correcto. En la mayoría de los casos no es un problema, pero conviene comprobarlo. La mejor forma de comprobarlo es verificando si los pulsos de la canción coinciden constantemente con una línea de compás blanca y no se adelantan o retrasan. Aumentar el volumen de los hitsounds y reducir la velocidad de reproducción del mapa puede ayudar. Si los pulsos de la canción se adelantan, reduce el bpm; si se retrasan, aumenta el bpm hasta que coincidan.
+Para comprobar que un beatmap esté correctamente temporizado, comprueba primero si el BPM es correcto. En la mayoría de los casos no es un problema, pero conviene comprobarlo. La mejor forma de comprobarlo es verificando si los pulsos de la canción coinciden constantemente con una línea de compás blanca y no se adelantan o retrasan. Aumentar el volumen de los hitsounds y reducir la velocidad de reproducción del mapa puede ayudar. Si los pulsos de la canción se adelantan, reduce el BPM; si se retrasan, aumenta el BPM hasta que coincidan.
 
 A continuación, comprueba la compensación. La mayoría de los problemas de temporización se producen al ajustar la compensación. Una compensación incorrecta durante más de 5 ms no se puede clasificar, por lo que es importante asegurarse de que es exacta. Esto se hace asegurándose de que el pulso principal de la canción se alinee exactamente con la línea blanca principal, y aumentando la compensación si la canción se adelanta, o disminuyéndola si se retrasa.
 
@@ -94,9 +94,9 @@ Normalmente se omite debido al esfuerzo que requiere encontrar **fuentes oficial
 
 Aunque esta parte puede omitirse, puede ser de gran ayuda para el mapper y los BNs si se comprueban los metadatos y se hace una publicación al respecto. Incluso cuando los metadatos ya son correctos, publicar buenas fuentes de confirmación también ayuda.
 
-### Pantalla song setup
+### Ventana song setup
 
-Mientras estamos en la pantalla **Song Setup**, vamos a recorrer las otras pestañas.
+Mientras estamos en la ventana **Song Setup**, vamos a recorrer las otras pestañas.
 
 En la pestaña **Difficulty**, comprueba si el OD/HP para el beatmap siguen las **pautas oficiales** de los criterios de clasificación. Ten en cuenta que las pautas deben seguirse; de lo contrario, el mapper debe explicar por qué ha elegido algo diferente. ¡Señala un problema si el OD/HP no siguen los criterios de clasificación!
 
@@ -106,7 +106,7 @@ Las pestañas de **Audio** y **Colours** no son tan importantes como modder.
 
 Pasando a la pestaña **Design**. Esta pestaña solo es importante si el beatmap tiene un storyboard. Si el mapa lo tiene, asegúrate de que la opción **Widescreen Support** esté marcada. Si el storyboard tiene muchas luces parpadeantes, también es necesario tener activado **Display Epilepsy Warning**, para que cada vez que un usuario juegue el mapa, vea primero esta advertencia.
 
-La última pestaña es **Advanced Section**. Esta pestaña tampoco es importante como modder.
+La última pestaña es **Advanced**. Esta pestaña tampoco es importante como modder.
 
 ### Modding para la distribución de dificultades
 
@@ -118,7 +118,7 @@ La mejor forma de empezar a juzgar la distribución de un beatmap es entrando en
 
 A continuación, se muestra un ejemplo de comparación de dos dificultades en la distribución:
 
-Se está revisando una dificultad **Easy** de un beatmap de 180 BPM. La dificultad Easy consiste principalmente en patrones 1/1 con patrones 1/2 de vez en cuando y uso raro de jumps.
+Se está revisando una dificultad **Easy** de un beatmap de 180 BPM. La dificultad Easy consiste principalmente en patrones de 1/1 con patrones de 1/2 de vez en cuando y uso raro de jumps.
 
 En la dificultad **Normal**, hay varios patrones de 1/4 con una longitud de 5 notas. Estos se encuentran alrededor de las partes que se mapearon en un patrón simple de 1/1 en la dificultad Easy.
 
