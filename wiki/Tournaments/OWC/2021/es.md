@@ -491,9 +491,9 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
     - Archivos de repetición de la jugada, tomados directamente de la pestaña «Ranking local» del cliente del jugador afectado (las marcas de tiempo deben coincidir exactamente con la hora a la que tuvo lugar la partida, tal y como se ve en el enlace de la sala multijugador).
     - Capturas de pantalla de otros jugadores tomadas directamente en el juego que muestran la puntuación del jugador afectado.
       - Las capturas de pantalla de la pantalla de resultados deben mostrar claramente la puntuación del jugador afectado. Este es el método preferido.
-      - Se pueden aceptar capturas de pantalla tomadas en el juego en el momento de la desconexión. Ten en cuenta que este método no proporciona una representación uno a uno de la puntuación de ese jugador. No se recomienda el uso de este método y puede ser denegado a discreción del árbitro si la información proporcionada no es suficiente para identificar al jugador/puntuación.
+      - Se pueden aceptar capturas de pantalla tomadas en el juego en el momento de la desconexión. Ten en cuenta que este método no proporciona una representación exacta de la puntuación de ese jugador. No se recomienda el uso de este método y puede ser denegado a discreción del árbitro si la información proporcionada no es suficiente para identificar al jugador/puntuación.
       - Todas las capturas de pantalla **DEBEN** tomarse usando el propio juego, es decir, deben estar alojadas en el dominio `https://osu.ppy.sh/`. Cualquier otra forma de captura de pantalla será denegada.
-    - Las puntuaciones de los jugadores pueden derivarse de la transmisión oficial como último recurso, en los casos en que se transmite la partida.
+    - Las puntuaciones de los jugadores pueden derivarse de la transmisión oficial como último recurso, en los casos en que se transmita el partido.
 11. Si menos de la cantidad mínima requerida de jugadores están presentes a la hora del partido, el tiempo máximo que se podrá posponer el partido será de 10 minutos. Si después de este periodo todavía no hay suficientes jugadores para ninguno de los equipos, se declarará como *victoria por defecto* para el lado con la mayor cantidad de miembros presentes.
     - La cantidad mínima de jugadores requeridos se considera como la cantidad de jugadores necesarios para jugar un beatmap sin lugares vacantes en la sala (es decir, 4 participantes deben estar presentes para que comience el partido).
 12. Si un jugador se desconecta entre los mapas y el equipo no puede proporcionar un reemplazo, el partido podrá retrasarse hasta 10 minutos como máximo (limitado a una vez por equipo, por partido).
@@ -504,7 +504,7 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
 17. Todos los jugadores y el personal deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y de los administradores del torneo. Las decisiones consideradas definitivas no deben ser objetadas.
 18. El chat de las salas multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a los chats de las salas multijugador.
     - Romper las reglas del chat puede resultar en un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben intercambiarse mientras dure el castigo.
-19. Las sanciones por violar las reglas del torneo incluyen, pero no se limitan a:
+19. Las sanciones por incumplir las reglas del torneo incluyen, pero no se limitan a:
     - Exclusión de jugadores específicos para un beatmap.
     - Exclusión de jugadores específicos por el resto del partido.
     - Declarar el partido como perdido o como una victoria por defecto para el otro equipo.
@@ -521,7 +521,7 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
 2. El capitán declarado formará entonces su equipo a partir de la lista de candidatos de su país.
    - Se espera que los capitanes elijan a los miembros del equipo con honestidad y buena voluntad, con el objetivo de formar el equipo más fuerte posible.
    - Los capitanes pueden excluirse a sí mismos de la lista del equipo.
-   - Los capitanes están autorizados a realizar y coordinar «pruebas para evaluar la aptitud de los jugadores» en sus propios términos.
+   - Los capitanes están autorizados a realizar y coordinar «pruebas» para evaluar la aptitud de los jugadores en sus propios términos.
    - En cualquier momento, los capitanes pueden optar, con la aprobación de los administradores del torneo, delegar su función a otros posibles miembros del equipo. Una vez otorgada, solo el nuevo capitán podrá asignar la capitanía a otro jugador.
 3. Para garantizar registros válidos, el [equipo de soporte de cuentas](/wiki/People/Account_support_team) verificará manualmente a cada posible participante, de manera similar al [proceso de selección](/wiki/Tournaments/Official_support#proceso-de-selección) que se ofrece a los torneos de la comunidad.
    - Cada usuario registrado será asignado a la lista de candidatos de su país respectivo.
@@ -553,8 +553,8 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
 ### Instrucciones de las fases
 
 1. Después de las clasificatorias, se jugará un bracket de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket perdedor.
-2. Los equipos en el bracket de perdedores deben jugar 2 partidos cada fin de semana a partir de los cuartos de final.
-3. Los equipos que pierden una partida en el bracket de perdedores son eliminados del torneo.
+2. Los equipos en el bracket de perdedores deberán jugar 2 partidos cada fin de semana a partir de los cuartos de final.
+3. Los equipos que pierdan un partido en el bracket de perdedores serán eliminados del torneo.
 
 ### Condiciones de victoria
 
@@ -579,7 +579,7 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
    - Para la primera ocurrencia:
      - El equipo recibirá una advertencia verbal del árbitro
    - En ocurrencias posteriores:
-     - Para un temporizador de selección: se elegirá un mapa aleatorio del mappool usando !roll X, donde X es el número de mapas que no fueron elegidos ni baneados, excluyendo el mapa de desempate.
+     - Para un temporizador de selección: se elegirá un mapa aleatorio del mappool usando `!roll X`, donde X es el número de mapas que no fueron elegidos ni baneados, excluyendo el mapa de desempate.
      - Para un temporizador de preparación: el árbitro emitirá el comando `!mp start 10`, independientemente de cuántos jugadores de cada equipo estén presentes en la sala, usando `!mp kick` en cualquier jugador adicional para cada equipo, comenzando desde la parte superior (es decir, la primera combinación de jugadores válida para cada equipo se verá obligada a jugar el mapa seleccionado). Los resultados de dichos juegos deben tomarse tal cual.
    - Los infractores reincidentes pueden recibir más sanciones por parte de los administradores del torneo.
    - Cada equipo recibirá un «tiempo muerto táctico» de dos minutos, que se usará como tiempo adicional para elegir o banear un beatmap. *El tiempo muerto táctico es opcional*.
@@ -607,10 +607,10 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
 2. Las partidas de las clasificatorias se llevarán a cabo en franjas horarias específicas propuestas por el personal del torneo. Cada equipo es libre de elegir la franja horaria en la que quiere jugar.
    - **Los equipos que no elijan una franja horaria antes del viernes 15 de octubre se considerarán descalificados.**
 3. Todos las fases de los brackets se llevarán a cabo entre el sábado a las 0:00 y el domingo a las 23:59 UTC+0.
-4. La programación estará a cargo de los administradores del torneo. Los horarios se publicarán el domingo anterior a los primeros partidos de la fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
+4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de la fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
    - En los cuartos de final y las fases posteriores, los capitanes de los equipos pueden informar a los administradores del torneo si creen que su equipo no podrá estar disponible en un horario específico de la siguiente semana. Las actualizaciones de horarios se otorgarán en la medida de las capacidades de los administradores.
-5. **Solo se considerarán reprogramaciones si ambos equipos acuerdan una hora y lo comunican a los administradores del torneo, antes del miércoles 23:59 UTC+0 de la semana en que se jugará el partido.**
-   - Las reprogramaciones solo pueden ser solicitadas por un capitán de equipo.
+5. **Solo se considerarán las reprogramaciones si ambos equipos acuerdan una hora y lo comunican a los administradores del torneo, antes del miércoles 23:59 UTC+0 de la semana en que se jugará el partido.**
+   - Las reprogramaciones solo pueden ser solicitadas por el capitán del equipo.
    - Los partidos no se pueden programar para ninguna hora posterior al **domingo a las 19:00 UTC+0** de la semana en la que se van a jugar.
    - **No solicites una reprogramación, a menos que sea absolutamente necesario. Los administradores del torneo se reservan el derecho de rechazar cualquier solicitud de reprogramación.**
 6. Los capitanes son responsables de la disponibilidad de su equipo. Cualquier percance resultante de la falta de transparencia de un equipo se resolverá internamente, los administradores del torneo no intervendrán.
