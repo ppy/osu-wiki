@@ -125,4 +125,4 @@ Thank you for reading! Go head over to the [osulive Twitch channel](https://www.
 
 See you next week!
 
-—Yasuho, Teezel
+—Yasuho & Teezel
