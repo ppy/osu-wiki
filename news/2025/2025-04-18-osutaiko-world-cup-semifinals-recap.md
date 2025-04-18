@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2025: Semifinals Recap"
-date: 2025-04-17 23:00:00 +0000
+date: 2025-04-18 20:00:00 +0000
 ---
 
 Intensity increases as we move further towards the pinnacle of this year's osu!taiko World Cup!
 
-![](/wiki/shared/news/2025-04-17-osutaiko-world-cup-semifinals-recap/banner.jpg)
+![](/wiki/shared/news/2025-04-18-osutaiko-world-cup-semifinals-recap/banner.jpg)
 
 The pressure was merciless in last week's Semifinals. Rising tempo and intensity with each and every matchup was guaranteed. With the skill gap narrowing down even more and with every player making their way through some the mappool's hardest challenges, we are delivering last weekend's highlights right to your doorstep!
 
@@ -24,13 +24,13 @@ The pressure was merciless in last week's Semifinals. Rising tempo and intensity
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=2h4m42s&video=2425712130" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Quarterfinals mappool table](/wiki/shared/news/2025-04-17-osutaiko-world-cup-semifinals-recap/mappool.png)
+![Quarterfinals mappool table](/wiki/shared/news/2025-04-18-osutaiko-world-cup-semifinals-recap/mappool.png)
 
 Another week, another set of new [osu! original](/wiki/Community/Bespoke_music) releases straight out of the oven for you to enjoy! [Quarkee](https://osu.ppy.sh/beatmaps/artists/469), [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364) and [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) made sure to provide you with the amazing sound you're used to in the World Cups, and therefore created music that is as well a head bop as it is a challenge for every player.
 
 Once again, please click the banners below to check out the maps, and watch the showcase videos of [**Quarkee - HYPER PSY2K**](https://youtu.be/weT8Qamif6k), [**kaitendaentai - Aether**](https://youtu.be/B-ofBhou9c8) and [**Sydosys - Partition**](https://youtu.be/vMBw0lws1KA). Enjoy!
 
-[![](/wiki/shared/news/2025-04-17-osutaiko-world-cup-semifinals-recap/hyper_psy2k.jpg)](https://osu.ppy.sh/beatmapsets/2351106#taiko/5059418)
+[![](/wiki/shared/news/2025-04-18-osutaiko-world-cup-semifinals-recap/hyper_psy2k.jpg)](https://osu.ppy.sh/beatmapsets/2351106#taiko/5059418)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -38,7 +38,7 @@ Once again, please click the banners below to check out the maps, and watch the 
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-04-17-osutaiko-world-cup-semifinals-recap/aether.png)](https://osu.ppy.sh/beatmapsets/2351002#taiko/5059170)
+[![](/wiki/shared/news/2025-04-18-osutaiko-world-cup-semifinals-recap/aether.png)](https://osu.ppy.sh/beatmapsets/2351002#taiko/5059170)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -46,7 +46,7 @@ Once again, please click the banners below to check out the maps, and watch the 
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-04-17-osutaiko-world-cup-semifinals-recap/Partition.jpg)](https://osu.ppy.sh/beatmapsets/2351137#taiko/5059512)
+[![](/wiki/shared/news/2025-04-18-osutaiko-world-cup-semifinals-recap/Partition.jpg)](https://osu.ppy.sh/beatmapsets/2351137#taiko/5059512)
 
 <div class="osu-md__paragraph">
     <audio controls>
