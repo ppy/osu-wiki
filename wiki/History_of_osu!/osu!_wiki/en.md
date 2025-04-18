@@ -100,6 +100,10 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 - **2018-02-07:** [Support for article tags](https://github.com/ppy/osu-web/pull/2331) was added to the wiki to allow for better search results.
 
+### 2021
+
+#### May
+
 | Date | Description |
 | :-- | :-- |
 | 2021-05-12 | [First implementation](https://github.com/ppy/osu-web/pull/7546) of infoboxes that may add additional information to articles. |
