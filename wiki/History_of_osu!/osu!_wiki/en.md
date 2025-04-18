@@ -81,8 +81,8 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### January
 
-- **2017-01-26:** ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) talked about the backend of the osu! wiki in [a development blog post](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting).
-- **Unknown date:** ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) finished the osu!web support of the osu! wiki.
+- **2017-01-26:** ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) talked about the upcoming integration of the GitHub repository with the osu! website itself in [a development blog post](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting).
+- **Unknown date:** ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) finished the backend support of the new osu! wiki, allowing .
 
 | Date | Description |
 | :-- | :-- |
