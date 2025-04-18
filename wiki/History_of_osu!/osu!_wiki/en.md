@@ -1,6 +1,6 @@
 # History of the osu! wiki
 
-This article details all the major events in the **history of the osu! wiki** from the MediaWiki era all the way through the present day.
+This article details all the major events in the **history of the osu! wiki** from the MediaWiki era  through the present day.
 
 <!--The documentation for the years 2018 to 2021 is missing.-->
 
@@ -23,7 +23,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 ## GitHub repository (2016 - present)
 
-![](img/ow_MW.jpg "Full page screenshot of the osu! wiki in MediaWiki, taken on 2017-02-17")
+![](img/ow_MW.jpg "Partial screenshot of the main page of the current osu! wiki, taken on 2025-04-17")
 
 | Date | Description |
 | :-- | :-- |
