@@ -2,7 +2,7 @@
 
 *See also: [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)*
 
-This article details all the major events in the **history of the osu! wiki** from the MediaWiki era  through the present day.
+This article details all the major events in the **history of the osu! wiki** from the MediaWiki era to the present day.
 
 <!--The documentation for the years 2018 to 2021 is missing.-->
 
