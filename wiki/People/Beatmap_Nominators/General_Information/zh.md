@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: dcd2a38fb52e9427609446990b0219aa37128dc7
+---
+
 # 谱面审核成员须知
 
 想要成为或者已经成为[谱面审核成员 (*BN*)](/wiki/People/Beatmap_Nominators) 了吗？你来对地方了！本文包含成为新 BN 所需要了解的信息。

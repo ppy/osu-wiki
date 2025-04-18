@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: dcd2a38fb52e9427609446990b0219aa37128dc7
 ---
 
 # Sejarah mapping dan modding

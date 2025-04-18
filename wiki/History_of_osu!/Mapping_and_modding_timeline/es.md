@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: dcd2a38fb52e9427609446990b0219aa37128dc7
+---
+
 # Cronología de mapping y modding
 
 Los sistemas de mapping y modding están mejorando constantemente. La **cronología de mapping y modding** tiene como objetivo documentar los cambios más grandes del sistema y servir como una herramienta de referencia cuando los usuarios están incorporando nuevos cambios.
