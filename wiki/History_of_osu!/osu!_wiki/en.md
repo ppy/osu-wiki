@@ -1,10 +1,8 @@
----
-needs_cleanup: true
----
-
-<!--Check writing style and dates. Also, the documentation for the years 2018 to 2021 is missing-->
-
 # History of the osu! wiki
+
+This article details all the major events in the **history of the osu! wiki**, 
+
+<!--The documentation for the years 2018 to 2021 is missing.-->
 
 ## MediaWiki (2011 - 2017)
 
