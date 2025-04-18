@@ -40,14 +40,21 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### December
 
-- **Unknown date:** The osu! wiki received major translation updates from other languages.
+- **Unknown date:** The osu! wiki received an influx of contributors who did article translations to their native languages.
 - **Unknown date:** ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)'s position as an admin was replaced by ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005).
+
+### 2016
+
+#### February
+
+- **2016-02-22:** ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) and ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) were added to the osu! wiki's Mediawiki admins.
+
+#### April
+
+- **2016-04-01:** ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) was added to the osu! wiki's Mediawiki admins.
 
 | Date, Time | Description |
 | :-- | :-- |
-| 2015 | The osu! wiki received major translation updates from other languages. ::{ flag=PL }:: [[Dellirium]](https://osu.ppy.sh/users/519032) has been replaced by ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) as one of the admins of the osu! wiki. |
-| 2016-02-22 | The osu! wiki now has 8 admins (::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) and ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) are added). |
-| 2016-04-01 | One more admin joined the osu! wiki (::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)). |
 | 2016-08-30 | The osu! wiki running on MediaWiki is being deprecated in favour of the GitHub repository version. The current osu! wiki will stay until the GitHub version is ready to be deployed with all the pages and images ported. |
 | 2017-06 | The osu! wiki running on MediaWiki is officially deprecated. The link now points to the new osu!web interface using the osu! wiki resources made in the GitHub repository. [A temporary backup of the osu! wiki without the MediaWiki functionality can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page). |
 
