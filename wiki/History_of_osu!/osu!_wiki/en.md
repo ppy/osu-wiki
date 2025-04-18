@@ -67,6 +67,14 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 ![](img/ow_MW.jpg "Partial screenshot of the main page of the current osu! wiki, taken on 2025-04-17")
 
+### 2016
+
+#### August
+
+- **2016-08-26:** | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [created the osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
+
+#### September
+
 | Date | Description |
 | :-- | :-- |
 | 2016-08-26 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [created the osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e). ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) and ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) ported the MediaWiki content to the repository in a week. |
