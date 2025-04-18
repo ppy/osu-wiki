@@ -206,13 +206,13 @@ Además, cada inicio, final y repetición de un slider otorga 30 puntos y cada g
 
 ### Juicios de los objetos
 
-#### **Círculos**
+#### Círculos
 
 - Se otorga un 300, 100 o 50 de un círculo normal dependiendo de la precisión del golpe.
 - Se produce un fallo si un círculo fue pulsado demasiado pronto o no fue pulsado en absoluto.
   - Si se pulsa sobre él muy, muy pronto, el objeto temblará en su lugar. Técnicamente, no pasará nada, a menos que visualmente se sepa que fue pulsado demasiado pronto.
 
-#### **Círculos mantenidos**
+#### Círculos mantenidos
 
 - El juicio de los círculos mantenidos depende de la pulsación inicial y del tiempo que se mantengan antes de explotar.
   - 300 si se hace perfectamente.
@@ -221,7 +221,7 @@ Además, cada inicio, final y repetición de un slider otorga 30 puntos y cada g
   - 30 por cada explosión.
   - El multiplicador se reinicia si los círculos no se mantienen correctamente y se otorga un Miss si no se mantienen en absoluto.
 
-#### **Sliders**
+#### Sliders
 
 - **El juicio de los sliders depende de la precisión de la pulsación inicial**.
 - Los sliders constan de marcas, que incluyen los puntos iniciales, finales y de repetición del mismo.
@@ -231,7 +231,7 @@ Además, cada inicio, final y repetición de un slider otorga 30 puntos y cada g
 - **Hacer clic en un slider demasiado pronto** no provocará un fallo, pero **restablecerá el multiplicador de puntuación a 0**.
 - Un fallo si el slider no se mantuvo en absoluto.
 
-#### **Spinners**
+#### Spinners
 
 - Para un spinner, un 300, 100 o 50 dependiendo del número de giros realizados en comparación con la duración del spinner.
 - Un fallo si no puede llenar el medidor que se muestra en ambos lados del spinner.
