@@ -2,7 +2,7 @@
 
 *See also: [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)*
 
-This article details all the major events in the **history of the osu! wiki** from the MediaWiki era to the present day.
+This article details all the major events in the **history of the osu! wiki** from the MediaWiki era through the present day.
 
 <!--The documentation for the years 2018 to 2021 is missing.-->
 
@@ -29,9 +29,19 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 - **2013-01-27:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) integrated the osu! wiki with the [main site design](https://osu.ppy.sh/community/forums/posts/2082803).
 
+### 2014
+
+#### December
+
+- **Unknown date:** The osu! wiki became a true information centre of osu! after core pages such the [osu! team](/wiki/People/osu!_team) and the [Rules](/wiki/Rules) were migrated over to the wiki.
+- **Unknown date:** ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) and ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) were added to the osu! wiki's Mediawiki admins.
+
+### 2015
+
+#### December
+
 | Date, Time | Description |
 | :-- | :-- |
-| 2014 | The osu! wiki becomes an actual information centre of osu!, replacing most of the web copies such as [osu! team](/wiki/People/osu!_team) and [Rules](/wiki/Rules). Also, the osu! wiki now has 5 admins (::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) and ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) are added). |
 | 2015 | The osu! wiki received major translation updates from other languages. ::{ flag=PL }:: [[Dellirium]](https://osu.ppy.sh/users/519032) has been replaced by ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) as one of the admins of the osu! wiki. |
 | 2016-02-22 | The osu! wiki now has 8 admins (::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) and ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) are added). |
 | 2016-04-01 | One more admin joined the osu! wiki (::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)). |
