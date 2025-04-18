@@ -40,6 +40,9 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### December
 
+- **Unknown date:** The osu! wiki received major translation updates from other languages.
+- **Unknown date:** ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)'s position as an admin was replaced by ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005).
+
 | Date, Time | Description |
 | :-- | :-- |
 | 2015 | The osu! wiki received major translation updates from other languages. ::{ flag=PL }:: [[Dellirium]](https://osu.ppy.sh/users/519032) has been replaced by ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) as one of the admins of the osu! wiki. |
