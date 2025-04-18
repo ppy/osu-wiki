@@ -1,5 +1,7 @@
 # History of the osu! wiki
 
+*See also: [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)*
+
 This article details all the major events in the **history of the osu! wiki** from the MediaWiki era  through the present day.
 
 <!--The documentation for the years 2018 to 2021 is missing.-->
@@ -8,10 +10,21 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 ![](img/ow_MW.jpg "Full page screenshot of the osu! wiki in MediaWiki, taken on 2017-02-17")
 
+### 2021
+
+#### December
+
+- **2011-12-05:** The barebones of the osu! wiki was first put into place, with ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) making the first edits.
+- **2011-12-06:** The osu! wiki [went live to the public](https://osu.ppy.sh/community/forums/topics/68525).
+
+### 2012
+
+#### November
+
+- **Unknown date:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) and ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) were added to the osu! wiki
+
 | Date, Time | Description |
 | :-- | :-- |
-| 2011-12-05 (08:13 UTC) | First edit of the osu! wiki by ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). |
-| 2011-12-06 | [osu! wiki is now live!](https://osu.ppy.sh/community/forums/topics/68525). |
 | 2012-11 | The osu! wiki now has 3 admins (::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) and ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) are added). Previously, only ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was the admin. |
 | 2013-01-27 (06:12 UTC) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) integrated the osu! wiki with the main site design. [Link to peppy's post](https://osu.ppy.sh/community/forums/posts/2082803). |
 | 2014 | The osu! wiki becomes an actual information centre of osu!, replacing most of the web copies such as [osu! team](/wiki/People/osu!_team) and [Rules](/wiki/Rules). Also, the osu! wiki now has 5 admins (::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) and ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) are added). |
