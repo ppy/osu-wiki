@@ -53,9 +53,18 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 - **2016-04-01:** ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) was added to the osu! wiki's Mediawiki admins.
 
+#### August
+
+- **2016-08-30:** The su! wiki running on MediaWiki began to be deprecated in favour of the GitHub repository version, although it would stay accessible until the GitHub version was ready to be deployed with all the pages and images ported.
+
+### 2017
+
+#### June
+
+- **Unknown date:** 
+
 | Date, Time | Description |
 | :-- | :-- |
-| 2016-08-30 | The osu! wiki running on MediaWiki is being deprecated in favour of the GitHub repository version. The current osu! wiki will stay until the GitHub version is ready to be deployed with all the pages and images ported. |
 | 2017-06 | The osu! wiki running on MediaWiki is officially deprecated. The link now points to the new osu!web interface using the osu! wiki resources made in the GitHub repository. [A temporary backup of the osu! wiki without the MediaWiki functionality can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page). |
 
 ## GitHub repository (2016 - present)
