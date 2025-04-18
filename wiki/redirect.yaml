@@ -2157,3 +2157,10 @@ osu!_originals: Community/Bespoke_music
 
 # Renamed in #12800
 people/user_group: People/User_groups
+
+# Moved in #13111
+contests/obwc: Contests/o!bwc
+contests/obwc/1: Contests/o!bwc/1
+contests/obwc/2: Contests/o!bwc/2
+contests/obwc/3: Contests/o!bwc/3
+contests/o!bwc/2025: Contests/o!bwc/4

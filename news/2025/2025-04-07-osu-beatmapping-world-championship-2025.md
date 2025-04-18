@@ -6,7 +6,7 @@ date: 2025-04-07 15:00:00 +0000
 
 After a long hiatus, the **osu! Beatmapping World Championship (o!bwc)** is back!
 
-![](/wiki/Contests/o!bwc/2025/img/banner.jpg)
+![](/wiki/Contests/o!bwc/4/img/banner.jpg)
 
 [o!bwc](/wiki/Contests/o!bwc/2025) is an international beatmapping contest that gathers beatmappers worldwide to showcase their creativity, expertise, and passion for mapping. Participants form teams representing their home country and compete to advance through the qualifiers and intense clash rounds.
 
