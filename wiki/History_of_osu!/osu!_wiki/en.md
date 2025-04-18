@@ -87,17 +87,21 @@ This article details all the major events in the **history of the osu! wiki** fr
 #### May
 
 - **2017-05-22:** The [osu!news archive](https://osunews.tumblr.com/), which was previously hosted in tumblr, were migrated over to the osu! wiki.
-- **2017-05-30:** [Page redirection](https://github.com/ppy/osu-web/pull/1144) was implemented on the wiki.
+- **2017-05-30:** [Page redirection](https://github.com/ppy/osu-web/pull/1144) was implemented to the wiki.
 
 #### June
 
 - **Unknown date:** ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) was given a special write-access to the osu! wiki repository.
-- **Unknown date:** [Search functionality](https://github.com/ppy/osu-web/pull/2331) was added into the wiki.
+- **Unknown date:** [Search functionality](https://github.com/ppy/osu-web/pull/2331) was added to the wiki.
+
+### 2018
+
+#### February
+
+- **2018-02-07:** [Support for article tags](https://github.com/ppy/osu-web/pull/2331) was added to the wiki to allow for better search results.
 
 | Date | Description |
 | :-- | :-- |
-| 2018-02-07 | Article tagging support [was implemented](https://github.com/ppy/osu-web/pull/2331) to allow better search results for wiki articles. |
-| 2018–2021 | *Undocumented* |
 | 2021-05-12 | [First implementation](https://github.com/ppy/osu-web/pull/7546) of infoboxes that may add additional information to articles. |
 | 2021-06-01 | Basic implementation of the osu! wiki in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) [was added](https://github.com/ppy/osu/pull/12950) (English only). |
 | 2021-08-08 | Gallery support [was implemented](https://github.com/ppy/osu-web/pull/8126). Now, images from one article can be viewed at once in a gallery. |
