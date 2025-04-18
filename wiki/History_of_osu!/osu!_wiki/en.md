@@ -21,12 +21,16 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### November
 
-- **Unknown date:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) and ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) were added to the osu! wiki
+- **Unknown date:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) and ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) were added to the osu! wiki's Mediawiki admins.
+
+### 2013
+
+#### January
+
+- **2013-01-27:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) integrated the osu! wiki with the [main site design](https://osu.ppy.sh/community/forums/posts/2082803).
 
 | Date, Time | Description |
 | :-- | :-- |
-| 2012-11 | The osu! wiki now has 3 admins (::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) and ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) are added). Previously, only ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was the admin. |
-| 2013-01-27 (06:12 UTC) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) integrated the osu! wiki with the main site design. [Link to peppy's post](https://osu.ppy.sh/community/forums/posts/2082803). |
 | 2014 | The osu! wiki becomes an actual information centre of osu!, replacing most of the web copies such as [osu! team](/wiki/People/osu!_team) and [Rules](/wiki/Rules). Also, the osu! wiki now has 5 admins (::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) and ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) are added). |
 | 2015 | The osu! wiki received major translation updates from other languages. ::{ flag=PL }:: [[Dellirium]](https://osu.ppy.sh/users/519032) has been replaced by ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) as one of the admins of the osu! wiki. |
 | 2016-02-22 | The osu! wiki now has 8 admins (::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) and ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) are added). |
