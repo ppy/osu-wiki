@@ -16,7 +16,7 @@ Inspired by the likes of [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), [
 
 ### [Naikou - Final Call](https://assets.ppy.sh/artists/471/Final%20Call/Naikou%20-%20Final%20Call.osz)
 
-**Naikou**'s most recent addition to the tournament scene is the grand finals tiebreaker for *5 Digit World Cup*: [Final Call](https://osu.ppy.sh/beatmapsets/2351118) mapped by [v0x](https://osu.ppy.sh/users/18128385), [Gordon](https://osu.ppy.sh/users/7856835), [subahibi](https://osu.ppy.sh/users/10627594), and [Kyairie](https://osu.ppy.sh/users/10910405)! Check out the fancy beatmap showcase video below.
+**Naikou**'s most recent addition to the tournament scene is the Grand Finals tiebreaker for *5 Digit World Cup*: [Final Call](https://osu.ppy.sh/beatmapsets/2351118) mapped by [v0x](https://osu.ppy.sh/users/18128385), [Gordon](https://osu.ppy.sh/users/7856835), [subahibi](https://osu.ppy.sh/users/10627594), and [Kyairie](https://osu.ppy.sh/users/10910405)! Check out the fancy beatmap showcase video below.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/DX3gPJS_jCI" frameborder="0" allowfullscreen></iframe>
