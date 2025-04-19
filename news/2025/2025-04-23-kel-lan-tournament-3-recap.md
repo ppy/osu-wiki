@@ -132,6 +132,8 @@ Some fun was had after-the-fact, with ::{ flag=PL }:: [Graf](https://osu.ppy.sh/
 
 Thank you to everyone who played, staffed, attended, and cheered the players on, both in-person and online! On a personal note, I'd also like to thank the hosts — [flapczek](https://osu.ppy.sh/users/8210988) and [myksmyks](https://osu.ppy.sh/users/6840526) — for letting [Walavouchey](https://osu.ppy.sh/users/5773079) and myself in behind the scenes, and allowing us to run around with a phone taking photos and videos of everything. This has been a great experience, and it would not have been the same without their kindness and support.
 
+Next to that, thank you do [Daria Maria](https://osu.ppy.sh/users/10806219) for letting me use their photos that they took during the event. If you are interested in their full KEL3 album, you can check it out [here](https://drive.google.com/drive/folders/1qS9Sut7_hds0MJOsJNekDxpPFOBX8Z2I)!
+
 It's always great to see the osu! community come together and plan amazing events, I can only hope we see more high-quality LANs just like this, and hopefully even have more news posts with IRL coverage.
 
 —0x84f
