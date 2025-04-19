@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! 2010 大事记
 
 ## 一月
