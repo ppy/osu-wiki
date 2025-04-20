@@ -155,7 +155,6 @@ The \[Distortion fix (no autofail debug)\] difficulty is *not* being nominated f
 
 (Do you know what I love more than gimmicks? Puzzles, I really love Puzzles!)
 
-
 This month's *Gameplay Gimmicks* pick is special. And- well, it's more than just a gimmick map..\
 I'll be honest. Um- It's more than just a map for that matter..\
 [Nhelv](https://osu.ppy.sh/beatmapsets/2159609#osu) is a beautifully stunning and visual and gameplay experience. It's able to throw all sorts of awe-inspiring aspire-esque puzzles your way,\
