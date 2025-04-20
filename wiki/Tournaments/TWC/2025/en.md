@@ -124,6 +124,33 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ### Finals
 
+[View the showcase VOD here](https://www.twitch.tv/videos/2438038870?t=0h4m39s)
+
+- No Mod
+  1. [RINYA - Kyokugen BON Odori (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2358187#taiko/5080570)
+  2. *HYKARVS - No matter What (rubies87) \[Inner Oni\] (pending upload)*
+  3. [yoho - Ocean's Legacy (uone) \[Poseidon\]](https://osu.ppy.sh/beatmapsets/2358194#taiko/5080581)
+  4. [7\_7 - No Overdose (Raphalge) \[Taiko\]](https://osu.ppy.sh/beatmapsets/2358206#taiko/5080603)
+  5. [BENEATH THE MASSACRE - Rise of the Fearmonger (Greenshell) \[The Monstrosity\]](https://osu.ppy.sh/beatmapsets/2358240#taiko/5080708)
+  6. [96-glass - Contradiction (Asagi Mutsuki) \[Truth Without Coherence\]](https://osu.ppy.sh/beatmapsets/2358205#taiko/5080602)
+  7. *Frums - PROFESS1ON (Paraxia) \[PLEA\] (pending upload)*
+- Hidden
+  1. [tosho\_aTe - Shizume Chiku Zensen (Raphalge) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2268539#taiko/4831238)
+  2. [muyu - Feel Winter (feat. Jo of Anna) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2300573#taiko/4916274)
+- Hard Rock
+  1. [Null Specification - Kisara is beside you (Cut Ver.) (roufou) \[Chaos Oni\]](https://osu.ppy.sh/beatmapsets/2358218#taiko/5080634)
+  2. [KEMOMIMI EDM SQUAD - XDUBSTEPX (maguro869) \[Superior Collab\]](https://osu.ppy.sh/beatmapsets/1125612#taiko/2351867)
+- Double Time
+  1. [AVTechNO!xTreow - DYE/Re:flection+ (Michiru) \[In:ner+Oni\]](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290)
+  2. [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
+- Free Mod
+  1. [rusino - Debug Drug (frz) \[4E 65 76 65 72 20 67 69 76 65 20 75 70 21\]](https://osu.ppy.sh/beatmapsets/2358248#taiko/5080742)
+  2. [Jane Remover - Psychoboost ft danny brown (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/2358227#taiko/5080666)
+- Tiebreaker
+  1. **[TWC Sound Team "Strike Back Squad" - BUZZ CUTZ (Raphalge, Nurend, nananass, uone, layxa) \[Null\]](https://osu.ppy.sh/beatmapsets/2358247#taiko/5080724)**
+
+### Finals
+
 **[Download the mappack here (78 MB)](https://packs.ppy.sh/P282%20-%20osu!taiko%20World%20Cup%202025%3A%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2431800861?t=1h28m34s)
 
