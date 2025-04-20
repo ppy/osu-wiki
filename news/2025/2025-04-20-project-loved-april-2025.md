@@ -92,7 +92,7 @@ On this month of *Outstanding Oldies*, we have a map being nominated by someone 
 
 You may remember this map if you are an extreme veteran, playing back in the ages of "totally accurate" star rating and ppv1... Or maybe, you may remember this map continuously showing up as FM2 in your tournament mappools.
 
-Regardless, [bAd Companyz]( https://osu.ppy.sh/beatmapsets/92234#osu) is one of [caren_sk]( https://osu.ppy.sh/users/542498)'s (also known as CRN) most classic underground gems! This set provides three difficulties, with each one altering the map's difficulty settings more and more, and providing a challenge for many.
+Regardless, [bAd Companyz](https://osu.ppy.sh/beatmapsets/92234#osu) is one of [caren_sk](https://osu.ppy.sh/users/542498)'s (also known as CRN) most classic underground gems! This set provides three difficulties, with each one altering the map's difficulty settings more and more, and providing a challenge for many.
 
 Make sure to vote YES on this map's Loved poll for the month, you won't want to miss it.
 
