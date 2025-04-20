@@ -132,7 +132,7 @@ Be sure to check this map out and vote yes if you want to see this enter the Lov
 
 POV: You're a 4-digit tournament player in the year 2020:
 
-\[code\]\
+```
 7:50 AM | Wake up (sorry you're west coast NA buddy, time to wake up for 15 UTC)\
 7:55 AM | Log on to your PC\
 8:00 AM | Join the multi lobby (after 20 bancho attempts)\
@@ -140,7 +140,7 @@ POV: You're a 4-digit tournament player in the year 2020:
 8:20 AM | Play HR1, \[Function Phantom - Neuronecia [Ethereal\]](https://osu.ppy.sh/beatmapsets/186911#osu/541990) (man who is balancing this pool)\
 8:45 AM | Congrats, you've made it to tiebreaker! Enjoy \[USAO - Chrono Diver -PENDULUMs- [Tempus\]](https://osu.ppy.sh/beatmapsets/414448#osu/925161)\
 8:51 AM | Log off and go back to bed (just kidding you have 4 more matches on a beautiful Saturday)\
-\[/code\]
+```
 
 For those who remember the golden days of [Maid Bot](https://osu.ppy.sh/users/16173747), you'll get it. For those who don't: this month's *Ranked Rejects* pick is your chance to find out! [seros](https://osu.ppy.sh/users/10562853) finally lands in the Loved section with [Feryquitous - Arcahv](https://osu.ppy.sh/beatmapsets/1340339#osu/2930403), a stunning modern take on the beloved light-tech genre. A fusion of skills like awkward aim, slider control, cutstreams, and density reading will put your [Skystar](https://osu.ppy.sh/users/873961) homework to the test if you dare to take on this map.
 
@@ -304,11 +304,11 @@ Eager to give this map its deserved Loved status? Don't hesitate! Head over and 
 160 BPM, 3:00 | 4.37★\
 *description written by [K a y o k o](https://osu.ppy.sh/users/17664300)*
 
-If there was one gimmick map that would define my early osu!taiko days, [Michael Stiefel - Rhythm Jump Studio Rift](https://osu.ppy.sh/beatmapsets/1380482#taiko/5063731) by [Cookie_Tree](https://osu.ppy.sh/users/502722) is definitely the one that comes to mind. If you've been hanging around in taiko community discussions, or have played in osu! Taiko Collegiate League 2022, you've definitely seen this map before.
+If there was one gimmick map that would define my early osu!taiko days, [Michael Stiefel - Rhythm Jump Studio Rift](https://osu.ppy.sh/beatmapsets/1380482#taiko/5063731) by [Cookie_Tree](https://osu.ppy.sh/users/502722) is definitely the one that comes to mind. If you've been hanging around in taiko community discussions, or have played in the *osu! Taiko Collegiate League 2022*, you've definitely seen this map before.
 
-This goofy little track from known platform game **A Hat in Time** captures the essence of time ticking down, and the metronome gives players hints of nervousness throughout the map. However, once you've gotten the hang of the gimmick this map is insanely fun to play! [Cookie_Tree](https://osu.ppy.sh/users/502722), with their SV maneuvering prowess shown in their previous loved maps, uses flying Don finishers and slow-ahh Kat finishers as metronomes to guide (or distract) you throughout the song. As these finisher patterns never change you may think it's not that big of a roadblock, but the different patterns that accompany them will keep changing so try not to get lost in the sauce!
+This goofy little track from known platform game **A Hat in Time** captures the essence of time ticking down, and the metronome gives players hints of nervousness throughout the map. However, once you've gotten the hang of the gimmick, this map is insanely fun to play! [Cookie_Tree](https://osu.ppy.sh/users/502722), with their SV maneuvering prowess shown in their previous Loved maps, uses flying Don finishers and very slow Kat finishers as metronomes to guide (or distract) you throughout the song. As these finisher patterns never change you may think it's not that big of a roadblock, but the different patterns that accompany them will keep changing so try not to get lost in the sauce!
 
-Already conquered the previous map in this month's Loved article? Or simply want to challenge yourself against others to some metronom-ing fun? Please consider voting 'Yes' to give this map the Loved status it is worthy of and share it with your gimmick-loving friends!
+Already conquered the previous map in this month's Loved article? Or simply want to challenge yourself against others to some metronome-ing fun? Please consider voting "Yes" to give this map the Loved status it is worthy of and share it with your gimmick-loving friends!
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/974667.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -316,7 +316,7 @@ Already conquered the previous map in this month's Loved article? Or simply want
 200 BPM, 3:13 | 6.44★\
 *description written by [\_gt](https://osu.ppy.sh/users/8301957)*
 
-Making an appearance in the Loved section once again is [katacheh](https://osu.ppy.sh/users/6651672), but not for the usual fanfare of barlines and gimmick notes — instead, it's a hitsound map!
+Making an appearance in the Loved section once again is [katacheh](https://osu.ppy.sh/users/6651672), but not for the usual fanfare of bar lines and gimmick notes — instead, it's a hitsound map!
 
 osu!taiko is unique, in that hitsounds affect the coloring of notes, and hence gameplay. This additional hassle makes hitsound maps far and few between in this mode.
 
@@ -328,9 +328,9 @@ In all, this makes [t+pazolite feat. Nanahira - Niesonae](https://osu.ppy.sh/bea
 128 BPM, 4:02 | 6.05★\
 *description written by [Horiiizon](https://osu.ppy.sh/users/8071438)*
 
-[Camellia - JDM (Jungle Dance Music)](https://osu.ppy.sh/beatmapsets/911589#taiko/1902900) mapped by [Nishizumi](https://osu.ppy.sh/users/2496768) is a technical map from 2019. On the surface, JDM may not seem too difficult to some in reading due to the map being 6★, 128 BPM and 6 years old, however those that recognise JDM will recognise it for its usage in Taiko World Cup 2019 Finals Week 2 as a **Double Time** map!
+[Camellia - JDM (Jungle Dance Music)](https://osu.ppy.sh/beatmapsets/911589#taiko/1902900) mapped by [Nishizumi](https://osu.ppy.sh/users/2496768) is a technical map from 2019. On the surface, JDM may not seem too difficult to some in reading due to the map being 6★, 128 BPM and 6 years old, but those who recognise JDM will recognise it for its usage in [osu!taiko World Cup 2019 Finals week 2](/wiki/Tournaments/TWC/2019#finals-week-2) as a **Double Time** map!
 
-Nomodding this map is a low BPM tech challenge due to the variety of 1/4, 1/8 and especially 1/6 snapping, with 1/6 showing up as conventional 4 note patterns, doublets and entire streams at points, most notably at the end of the map where 1/8 is also mixed in! Playing this as how it was in TWC is no joke, with the 1/6 being 288 BPM and the 1/8 bursts being 384 BPM. This turns a low BPM tech map into a battle of keeping up with the speed and constant rhythmic changes!
+No-modding this map is a low-BPM tech challenge due to the variety of 1/4, 1/8 and especially 1/6 snapping, with 1/6 showing up as conventional 4-note patterns, doublets and entire streams at points, most notably at the end of the map where 1/8 is also mixed in! Playing this as how it was in TWC is no joke, with the 1/6 being 288 BPM and the 1/8 bursts being 384 BPM. This turns a low-BPM tech map into a battle of keeping up with the speed and constant rhythmic changes!
 
 Regardless of if you feel like playing the map as it was made or rivaling the scores from TWC 2019, Enjoy! ┗(＾0＾)┓┗(＾0＾)┓┗(＾0＾)┓
 
@@ -354,13 +354,13 @@ The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users
 260 BPM, 16:55 | 11.20★\
 *description written by [coolkid](https://osu.ppy.sh/users/7620002)*
 
-ExileLord in CTB is quite common amongst the Loved section and is known for its devastating difficulty and, at times, extreme length. Soulless 4 did precisely that, followed by Soulless 3, which was shorter in length but similar in difficulty. What if it was more challenging in both ways?
+ExileLord in CTB is quite common amongst the Loved section and is known for songs mapped at devastating difficulty and, at times, extreme length. *Soulless* 4 did precisely that, followed by *Soulless 3*, which was shorter in length but similar in difficulty. What if it was more challenging in both ways?
 
-Welcome, [Soulless 5](https://osu.ppy.sh/beatmapsets/1168401#fruits).\
-This beatmap is lengthier than Soulless 4 by almost 5 minutes extra, coming in with over 10,000 combo, pushing the scorev1 integer limit to its MAXIMUM, with over 1.4 trillion score for an FC.\
-On top of this, this map features patterns that some could argue are more challenging than Soulless 4's patterning in terms of difficulty spikes but more manageable gameplay for slower sections.
+Welcome, [Soulless 5](https://osu.ppy.sh/beatmapsets/1168401#fruits). This beatmap is lengthier than *Soulless 4* by almost 5 minutes extra, coming in at over 10,000 combo, pushing the Score V1 integer limit to its MAXIMUM, with over 1.4 trillion score for an FC.
 
-Still, this map features many resemblances with Soulless 4's patterning, including double stacks, hyperwalks, and some reading tests scattered throughout with gimmicky patterning. Give it a try. This map's length and combo count already make it insane.
+On top of this, this map features patterns that some could argue are more challenging than *Soulless 4*'s patterning in terms of difficulty spikes, but are more manageable for slower sections.
+
+Still, this map features many resemblances to *Soulless 4*'s patterning, including double stacks, hyperwalks, and some reading tests scattered throughout with gimmicky patterning. Give it a try. This map's length and combo count already make it insane.
 
 This one is waiting for you, ExGon.
 
@@ -372,7 +372,7 @@ This one is waiting for you, ExGon.
 
 If you've ever played multiplayer matches, then there is a good chance you've played this map before as it is a very popular pick for a lot of players (even more so when it was still new). Now, this map is turning almost 9 years old, and it is still a very well-known map in the community.
 
-Unlike other [DakkyChan](https://osu.ppy.sh/users/2107017) maps, this one isn't crazy difficult: it doesn't have hyperwalks or other gimmicks you usually see in his maps. This is mapped in an older mapping style and focuses more on high SV patterns and difficult jumps, sometimes getting close to being edge dashes. In between, you also have some stream patterns and wiggle patterns, making this map heavily varied in terms of style. While it is significantly easier than other DakkyChan maps, it still requires a high amount of consistency to do well, as some of the patterns can end your combo if you read them too late or your positioning isn't perfect.
+Unlike other [DakkyChan](https://osu.ppy.sh/users/2107017) maps, this one isn't crazy difficult — it doesn't have hyperwalks or other gimmicks you usually see in his maps. This is mapped in an older mapping style and focuses more on high-SV patterns and difficult jumps, sometimes getting close to being edge dashes. In between, you also have some stream and wiggle patterns, making the map heavily varied in style. While it is significantly easier than other DakkyChan maps, it still requires a high amount of consistency to do well on, as some of the patterns can end your combo if you read them too late or your positioning isn't perfect.
 
 This is an amazing map that deserves to finally get a leaderboard for people to compete on. I encourage anyone that doesn't know this map yet to give it a try!
 
@@ -382,9 +382,9 @@ This is an amazing map that deserves to finally get a leaderboard for people to 
 300 BPM, 1:33 | 8.29★, 9.76★\
 *description written by [coolkid](https://osu.ppy.sh/users/7620002)*
 
-[Enjuxx](https://osu.ppy.sh/users/10727985) is a staple within the community regarding gimmick maps with fair and reasonable gameplay. [silly 300 BPM thing](https://osu.ppy.sh/beatmapsets/1731773#fruits/3539780) is a map mainly composed of precision and fast, unrelenting snaps, hence... 300 BPM...
+[Enjuxx](https://osu.ppy.sh/users/10727985) is a staple within the community regarding gimmick maps with fair and reasonable gameplay. [silly 300 BPM thing](https://osu.ppy.sh/beatmapsets/1731773#fruits/3539780) is a map mainly composed of precise and fast, unrelenting snaps. Hence... 300 BPM...
 
-The gameplay for this map is nice overall; you can hold dash for almost the entire map, like most 300 BPM maps. This map also features relatively high-quality HS for a map that was not meant to be ranked in the first place, so the effort put into this map is undoubtedly there; give it a try!
+The gameplay for this map is nice overall: you can hold dash for almost the entire map, like most 300 BPM maps. This map also features relatively high-quality hitsounds for a map that was not meant to be ranked in the first place, so the effort put into this map is undoubtedly there. Give it a try!
 
 ## osu!mania
 
@@ -408,11 +408,11 @@ The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/user
 
 There's a first for everything.
 
-[lovely_hyahya's](https://osu.ppy.sh/users/10318380) [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) includes a quite uncommon feature: invisible long notes! They are however well telegraphed and you should see them coming, along with their very prominent musical representation. Speaking of musical representation, I don't think there's any need to introduce [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) anymore: a song of many implementations across all modes, even being featured in last month's Loved voting with [another 7K set](https://osu.ppy.sh/beatmapsets/1130083)!
+[lovely_hyahya](https://osu.ppy.sh/users/10318380)'s [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) includes a quite uncommon feature: invisible long notes! They are however well telegraphed and you should see them coming, along with their very prominent musical representation. Speaking of musical representation, I don't think there's any need to introduce [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) anymore — a song of many implementations across all modes, even being featured in last month's Loved voting with [another 7K set](https://osu.ppy.sh/beatmapsets/1130083)!
 
-Outside of those invisible LNs, [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) defines itself as a fairly reading and SV focused. The syncopation inherent to the song makes rhythm complexity higher than average, and some of the polyrhythmic structures will definitely challenge the unprepared. It definitely requires a bit of practice to get this map down correctly.
+Outside of those invisible LNs, [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) defines itself as focused a fair bit on reading and SV. The syncopation inherent to the song makes rhythm complexity higher than the average, and some of the polyrhythmic structures will definitely challenge the unprepared. It certainly requires a bit of practice to get this map down correctly.
 
-When it rains, it pours, so you're getting a lot of [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691). But it doesn't have to be a bad thing, you can make it good by voting in the attached thread!
+When it rains, it pours, so you're getting a lot of [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691). But it doesn't have to be a bad thing, since you can make it good by voting in the attached thread!
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1411397.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -420,9 +420,9 @@ When it rains, it pours, so you're getting a lot of [Shuu no Hazama](https://osu
 170 – 238 BPM, 3:26 | 4.09★, 4.43★, 4.77★, 5.11★, 5.45★\
 *description written by [SunApple](https://osu.ppy.sh/users/11817622)*
 
-Welcome back [Xingyue](https://osu.ppy.sh/users/9614083) to Loved it always is nice to have these more comfortable charts to have a chance in the spotlight, and I can only think of a few maps more comfortable than the jumpstreams that are present in [Discommunication Alien](https://osu.ppy.sh/beatmapsets/1411397#mania/2909745).
+Welcome back [Xingyue](https://osu.ppy.sh/users/9614083) to Loved, it always is nice to see these more comfortable charts get a chance in the spotlight, and I can only think of a few maps more comfortable than the jumpstreams that are present in [Discommunication Alien](https://osu.ppy.sh/beatmapsets/1411397#mania/2909745).
 
-I don't know about other people, but I vividly remember playing this map over and over again because of how satisfying it was to see myself slowly improving my speed, and I would often use this as a baseline for the speed that I could play at a time. Looking back on it now, I don't know if it was the best way to improve or the best indication of how good I was, but what I do know is that this map is just so fun that it doesn't matter. The patterning present isn't anything too complicated, but that is part of why I believe that it is so great. Going all the way up to around 240 BPM jumpstream, it isn't necessarily the fastest in the world, but it is a great way to practice your consistency since it is very balanced throughout.
+I don't know about other people, but I vividly remember playing this map over and over again because of how satisfying it was to see myself slowly improving my speed, and I would often use this as a baseline for the speed that I could play at a time. Looking back on it now, I don't know if it was the best way to improve or the best indication of how good I was, but what I do know is that this map is just so fun that it doesn't matter. The patterning present isn't anything too complicated, but that is part of why I believe it is so great. Going all the way up to around 240 BPM jumpstreams, it isn't necessarily the fastest in the world, but it is a great way to practice your consistency since it is very balanced throughout.
 
 I feel like many osu! players have struggled with talking to people at least once in their lives, and I feel like this song represents it pretty well (even though it is one of the most popular VTubers singing it). So, if you want to feel less like an alien, be sure to give your opinion by voting on this map!
 
@@ -434,11 +434,11 @@ I feel like many osu! players have struggled with talking to people at least onc
 
 It's really cool to see [Ena](https://osu.ppy.sh/users/13799949) back in the Project Loved scene, as they present: [Odo](https://osu.ppy.sh/beatmapsets/1585559#mania/3843786)!
 
-To me, [Ena](https://osu.ppy.sh/users/13799949)'s charts represent a lot of what the challenges of chordjack charts present to you. A great example would be how this chart in specific requires a lot of control, stamina, and reading ability. While it starts off with some streams, it immediately throws you with many chordjacks that could really startle you if you don't pay attention. Control is an essential part of this chart because of the different transitions that are here, wherein you have to go from jumps, hands, and even quads all around the chart. Not to mention, there's also different sets of jumptrills in different areas of this chart, which could easily also decrease your stamina.
+To me, [Ena](https://osu.ppy.sh/users/13799949)'s charts represent a lot of what the challenges of chordjack charts present to you. A great example would be how this chart in specific requires a lot of control, stamina, and reading ability. While it starts off with some streams, it immediately throws you many chordjacks that could be really startling if you don't pay attention. Control is an essential part of this chart because of the different transitions that are here, wherein you have to switch between jumps, hands, and even quads all around the chart. Not to mention, there are also different sets of jumptrills in different areas of this chart, which could also easily decrease your stamina.
 
-Speaking of which, this chart is 3 minutes and 21 seconds long, and with very few breaks, this could really be a daunting task to be consistent on. With already a difficult challenge on control and stamina, your reading will definitely be affected as well. Honestly, this chart has so many interesting parts all around, and I'm sure everyone is looking forward to see what the top scores in this chart are! Oh, and let's not forget, if you think 1.0x is too easy, there are rates up to 1.4x on this chart.
+Speaking of which, this chart is 3 minutes and 21 seconds long, and with only a few breaks, it could really be a daunting task to be consistent on. With an already difficult challenge of control and stamina, your reading will definitely be affected as well. Honestly, this chart has so many interesting parts, and I'm sure everyone is looking forward to see what the top leaderboard scores will be! Oh, and let's not forget, if you think 1.0x is too easy, there are rates up to 1.4x on this chart.
 
-Are you looking forward to more stamina-draining chordjack charts in the future? Then I say that it's about time this gets onto Project Loved with your vote!
+Are you looking forward to more stamina-draining chordjack charts in the future? Then I say that it's about time this gets into Project Loved with your vote!
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/521804.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -448,7 +448,7 @@ Are you looking forward to more stamina-draining chordjack charts in the future?
 
 Y'know, I question to myself quite often on why [\_Y u r i\_](https://osu.ppy.sh/users/8463274) makes so many full spreads, yet never makes any attempt to rank them. Perhaps it's just a true sign of someone who enjoys charting for the fun of it? Regardless, we're giving them another shot at making it to the Loved section with their chart of [King for a Day](https://osu.ppy.sh/beatmapsets/521804#mania/1108291)!
 
-Dating all the way back to 2016, this classic set has a style that's all too similar to what you'd see in this day and age, containing much of the drum focus you'd see in a rock chart during that time, and today as well! The approach to this song is definitely a factor in the massive popularity it has, as the full spread appeals to many players, including those just starting out, and those who've got experience. Of course, the song itself is a factor as well, considering the popularity behind it.
+Dating all the way back to 2016, this classic set has a style that's all too similar to what you'd see in this day and age, containing much of the drum focus you'd see in a rock chart during that time, and today as well! The approach to this song is definitely a factor in the massive popularity it has, as the full spread appeals to many players, including those just starting out and those who've got the experience. Of course, the song itself is a factor as well, considering the popularity behind it.
 
 To all those who've enjoyed this set, you can now give it the leaderboard it's long deserved by voting in the thread!
 
@@ -460,9 +460,9 @@ To all those who've enjoyed this set, you can now give it the leaderboard it's l
 
 [Ska](https://osu.ppy.sh/users/10313023) has many, many possible charts that could be going up for Loved at the moment. However, it's very apparent that [Still Into You](https://osu.ppy.sh/beatmapsets/1709535#mania/3493274) was the most anticipated to go up next.
 
-In typical Ska fashion, you can expect a dump that's nothing from what you'd consider normal. Though, it can be argued that this is one of his more straightforward-esque type of charts, containing a heavy amount of 1/4 jacks intertwined with single streams of varying snaps. This approach sounds rather unorthodox, but you'd find it shocking at just how well it captures the music, as it manages to find seamless ways to transition between said jacks and streams.
+In typical Ska fashion, you can expect a dump that's nothing from what you'd consider normal. However, it can be argued that this is one of his more straightforward-esque of charts, containing a heavy amount of 1/4 jacks intertwined with single streams of varying snaps. This approach sounds rather unorthodox, but you'd find it shocking just how well it captures the music, as it manages to find seamless ways to transition between said jacks and streams.
 
-As usual, there's uprates for those who don't think this is enough of a challenge on the base rate.
+As usual, there are uprates for those who don't think this is enough of a challenge on the base rate.
 
 Are you still into this chart? If so, you're encouraged to give it your support!
 
@@ -474,13 +474,13 @@ Are you still into this chart? If so, you're encouraged to give it your support!
 
 I met [juankristal](https://osu.ppy.sh/users/443656) in real life several times in my lifetime, all of which revolved around instances of [cavoeboy's osu! event](https://cavoeboy.com/). I will always remember that one train trip where he unfortunately missed his chance with a lovely German girl we met on the way. If that girl happens to read this description, I don't even think she would know what I'm talking about.
 
-In any case, there's not really any need to introduce the legend that is juankristal. But in case you're new enough to the osu!mania community, juankristal has been one of the longest standing figures of the osu! community, with many contributions to the tournament scene both as a player and as a mapper, including the really early days of MWC ([think 2015](/wiki/Tournaments/MWC/2015)). I say as a tournament contributor, if anyone were to ask to bring up one single name among the many long note pioneers that have existed within the history of osu!mania... Well, juankristal would be the one name that people would converge to.
+In any case, there's not really any need to introduce the legend that is juankristal. But in case you're new enough to the osu!mania community, juankristal has been one of the longest-standing figures of the osu! community, with many contributions to the tournament scene both as a player and as a mapper, including the really early days of MWC ([think 2015](/wiki/Tournaments/MWC/2015)). I say as a tournament contributor, if anyone were to ask to bring up one single name among the many long note pioneers that have existed within the history of osu!mania... Well, juankristal would be the one name that people would converge to.
 
-*No.39* is yet another entry to Juan's infamous *timing hell* series. What does "timing hell" even mean? Okay, so the textbook definition of a "timing hell" mostly revolves around fast coordination, also featuring a lot of staggered shields and minijacks that make it really difficult to last throughout all of the map. Timing hells are often really stamina and focus draining, especially when high scores are paramount to a tournament victory, and *No.39* was in fact concocted for [MWC 2022 grand finals](/wiki/Tournaments/MWC/2022_4K#grand-finals). It is definitely not the easiest of the timing hell series, and it packs a punch even for seasoned players.
+*No.39* is yet another entry to Juan's infamous *timing hell* series. What does "timing hell" even mean? Okay, so the textbook definition of a "timing hell" mostly revolves around fast coordination, also featuring a lot of staggered shields and minijacks that make it really difficult to last throughout all of the map. Timing hells are often really draining for stamina and focus, especially when high scores are paramount to a tournament victory, and *No.39* was in fact concocted for the [MWC 2022 Grand Finals](/wiki/Tournaments/MWC/2022_4K#grand-finals). It is definitely not the easiest of the timing hell series, and it packs a punch even for seasoned players.
 
-Now that we're done with the textbook definition, here's the *actual* backstory behind the "timing hell" nomenclature, well, allegedly, as I'm kind of paraphrasing a story that I've been told secondhand. When juankristal was mapping his first timing hells, he had a bit of trouble on properly timing the map. If I recall correctly, even after a fair amount of help had been gathered to time this map, there were *still* timing issues that occurred during the mapping process, which in turn provoked the quite humorous label of "timing hell" on what otherwise was pretty much idiomatic mapping by juankristal, as he's always had (and still has) a very unique and recognizable style of LN mapping.
+Now that we're done with the textbook definition, here's the *actual* backstory behind the "timing hell" nomenclature. Well, allegedly, as I'm kind of paraphrasing a story that I've been told second-hand. When juankristal was mapping his first timing hells, he had a bit of trouble on properly timing the map. If I recall correctly, even after a fair amount of help had been gathered to time this map, there were *still* timing issues that occurred during the mapping process, which in turn provoked the quite humorous label of "timing hell" on what otherwise was pretty much idiomatic mapping by juankristal, as he's always had (and still has) a very unique and recognizable style of LN mapping.
 
-Ask us about more tournament fire camp stories in the thread after you drop your vote for this Loved entry. Or maybe ask us on whichever common Discord server instead. We're pretty much deep within retirement centers at this point.
+Ask us about more tournament fire camp stories in the thread after you drop your vote for this Loved entry. Or maybe ask us on whichever common Discord server suits you instead. We're pretty much deep within retirement centers at this point.
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1974683.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -488,11 +488,11 @@ Ask us about more tournament fire camp stories in the thread after you drop your
 166 BPM, 3:30 | 2.53★ – 9.75★\
 *description written by [Maxus](https://osu.ppy.sh/users/4335785)*
 
-[YOASOBI - Idol](https://osu.ppy.sh/beatmapsets/1974683#mania/4106766) Makes Its Loved Section Debut!
+**[YOASOBI - Idol](https://osu.ppy.sh/beatmapsets/1974683#mania/4106766) Makes Its Loved Section Debut!**
 
-By now, everyone must be familiar with this wildly popular song that took the ranked section by storm. For the first time ever, [YOASOBI - Idol](  https://osu.ppy.sh/beatmapsets/1974683#mania/4100532) arrives in the Loved section, featuring a wide variety of keymodes for the community to enjoy—courtesy of [eZmmR]( https://osu.ppy.sh/users/8647138) and their talented guest difficulty creators!
+By now, everyone must be familiar with this wildly popular song that took the Ranked section by storm. For the first time ever, [YOASOBI - Idol](  https://osu.ppy.sh/beatmapsets/1974683#mania/4100532) arrives in the Loved section, featuring a wide variety of key modes for the community to enjoy — courtesy of [eZmmR]( https://osu.ppy.sh/users/8647138) and their talented guest difficulty creators!
 
-Map Features 19 unique difficulties spanning 4K to 7K, plus a special 10K bonus challenge alongside with diverse range of mapping styles, offering a fresh and colorful experience for players of all preferences.
+The map features 19 unique difficulties spanning 4K to 7K, plus a special 10K bonus challenge alongside a diverse range of mapping styles, offering a fresh and colorful experience for players of all preferences.
 
 Whether you're seeking a fun challenge or simply want to appreciate this iconic song in a new light, don't miss out! If you enjoy the map, be sure to cast a positive vote and support the mappers' hard work!
 
@@ -502,11 +502,10 @@ Whether you're seeking a fun challenge or simply want to appreciate this iconic 
 210 BPM, 2:05 | 6.27★, 8.84★, 11.39★\
 *description written by [taba2](https://osu.ppy.sh/users/7850508)*
 
-If I remember correctly, it's been a while since we've introduced you to a challenging high difficulty map in LN.\
-This time, we're introducing [HAVOX](https://osu.ppy.sh/beatmapsets/653504#mania/1385278) by [LostCool](https://osu.ppy.sh/users/766374) for those who want to challenge the limits of their LN skills!
+If I remember correctly, it's been a while since we've introduced you to a challenging high-difficulty LN map. This time, we're introducing [HAVOX](https://osu.ppy.sh/beatmapsets/653504#mania/1385278) by [LostCool](https://osu.ppy.sh/users/766374) for those who want to challenge the limits of their LN skills!
 
-How do we describe this map... a classic boss map?\
-It's a barrage of tricky patterns at a fast BPM, which makes the map deserving of that label.\
+How do we describe this map... a classic boss map? It's a barrage of tricky patterns at a fast BPM, which makes the map deserving of that label.
+
 Dense LN streams, lots of grace notes, and mash-type fast staircases form the tricky patterns that are unique to LostCool, creating a difficulty level worthy of this magnificent song and challenging many players.
 
 If you're up for such a challenge, make your voice heard by voting!
@@ -517,7 +516,7 @@ If you're up for such a challenge, make your voice heard by voting!
 155 – 192 BPM, 2:08 | 9.26★, 10.05★\
 *description written by [Carpihat](https://osu.ppy.sh/users/10085090)*
 
-This month we're going to nominate this map by 2 ETs, [Kim_GodSSI](https://osu.ppy.sh/users/2218047) and [Jinjin](https://osu.ppy.sh/users/3360737). The map's style is based around releases, which require your abilities on LN releases and tricky patterns. Your reading ability and finger coordination are tested as well. If the 155 BPM diff is a piece of cake for you, then you could try the top diff, which is sped up from 155 BPM to 192 BPM and featured in the 4th stage of [7K LN Zenith Dan](https://osu.ppy.sh/beatmapsets/1220647#mania/2764028). Anyway, good luck on challenging this!
+This month we're going to nominate this map by 2 ETs, [Kim_GodSSI](https://osu.ppy.sh/users/2218047) and [Jinjin](https://osu.ppy.sh/users/3360737). The map's style is based around releases, requiring that you bring your abilities on LN releases and tricky patterns to the table. Your reading ability and finger coordination are tested as well. If the 155 BPM diff is a piece of cake for you, then you could try the top diff, which is sped up from 155 BPM to 192 BPM and was featured in the 4th stage of the [7K LN Zenith Dan](https://osu.ppy.sh/beatmapsets/1220647#mania/2764028). Anyway, good luck on challenging this!
 
 ---
 
