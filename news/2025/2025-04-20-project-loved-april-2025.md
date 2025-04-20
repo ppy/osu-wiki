@@ -28,7 +28,7 @@ In more fitting news for the season, we are opening applications for osu!catch c
 
 [![osu!catch captain application banner](/wiki/shared/news/banners/project-loved/apply-catch.png)](https://forms.gle/jpZG2NFFrKoFGbbn8)
 
-At last here's the picks, but don't forget, we host [osu!(lazer)](https://osu.ppy.sh/wiki/en/Client/Release_stream/Lazer) playlists for fighting to the top of the leaderboard with the newly nominated maps! If you earn yourself the top spot of any respective playlist, you earn yourself a month of [supporter](https://osu.ppy.sh/home/support)!
+At last here's the picks, but don't forget, we host [osu!(lazer)](/wiki/Client/Release_stream/Lazer) playlists for fighting to the top of the leaderboard with the newly nominated maps! If you earn yourself the top spot of any respective playlist, you earn yourself a month of [supporter](https://osu.ppy.sh/home/support)!
 
 ### Navigation
 
@@ -136,7 +136,7 @@ POV: You're a 4-digit tournament player in the year 2020:
 7:50 AM | Wake up (sorry you're west coast NA buddy, time to wake up for 15 UTC)\
 7:55 AM | Log on to your PC\
 8:00 AM | Join the multi lobby (after 20 bancho attempts)\
-8:05 AM | Play HD1, \[Feryquitous feat. Aitsuki Nakuru - Kairikou [Skystar's Irregular\]](https://osu.ppy.sh/b/1723257)\
+8:05 AM | Play HD1, \[Feryquitous feat. Aitsuki Nakuru - Kairikou [Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)\
 8:20 AM | Play HR1, \[Function Phantom - Neuronecia [Ethereal\]](https://osu.ppy.sh/beatmapsets/186911#osu/541990) (man who is balancing this pool)\
 8:45 AM | Congrats, you've made it to tiebreaker! Enjoy \[USAO - Chrono Diver -PENDULUMs- [Tempus\]](https://osu.ppy.sh/beatmapsets/414448#osu/925161)\
 8:51 AM | Log off and go back to bed (just kidding you have 4 more matches on a beautiful Saturday)\
