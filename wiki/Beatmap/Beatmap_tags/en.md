@@ -55,7 +55,7 @@ The tables below list all user tags grouped by category, including the game mode
 | gimmick/2B | Includes gameplay elements with two or more objects placed simultaneously. The term originates from a Chinese transliteration of 'idiot'. | *all* |
 | gimmick/barlines | A map that makes use of barlines to enhance visuals or replace notes. | osu!taiko |
 | gimmick/circle only | Restricts object choice to circles only. | osu! |
-| gimmick/delay | Maps that feature high snap streams based on the song's delayed sound effect.  | osu!mania |
+| gimmick/delay | Maps that feature high snap streams based on the song's delayed sound effect. | osu!mania |
 | gimmick/dodge the beat | A map where the player needs to avoid every object. | osu!catch |
 | gimmick/LN inverse | Maps that feature long note holds that emphasize constant holds and releases in quick succession. Most distinct feature of Inverse is the "negative spaces" in the patterning. | osu!mania |
 | gimmick/long sliders | A map that uses sliders for an extended period of time, having regular gameplay around catching juice drops and droplets instead of fruits. | osu!catch |
@@ -160,7 +160,7 @@ The tables below list all user tags grouped by category, including the game mode
 | style/jumpstream | Stream with a mix of 2-note sized chords | osu!mania |
 | style/LN coordination | Maps which require holding multiple long notes simultaneously while hitting other patterns. | osu!mania |
 | style/LN density | Maps that feature dense long note streams without breaks. | osu!mania |
-| style/LN mixed  | Maps that make use of multiple long note patterning styles. | osu!mania |
+| style/LN mixed | Maps that make use of multiple long note patterning styles. | osu!mania |
 | style/LN release | Maps that make use of different long note holds ending. | osu!mania |
 | style/longjack | Maps that feature long chains of consecutive notes on the same column. | osu!mania |
 | style/messy | Visually chaotic and intentionally disorganised patterns, often involving many overlaps and unequal visual spacing between objects. | osu! |
