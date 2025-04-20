@@ -155,19 +155,25 @@ The \[Distortion fix (no autofail debug)\] difficulty is *not* being nominated f
 
 (Do you know what I love more than gimmicks? Puzzles, I really love Puzzles!)
 
-This month's *Gameplay Gimmicks* pick is special. And— well, it's more than just a gimmick map... I'll be honest. It's more than just a map for that matter...
+This month's *Gameplay Gimmicks* pick is special. And- well, it's more than just a gimmick map..\
+I'll be honest. Um- It's more than just a map for that matter..\
+[Nhelv](https://osu.ppy.sh/beatmapsets/2159609#osu) is a beautifully stunning and visual and gameplay experience. It's able to throw all sorts of awe-inspiring aspire-esque puzzles your way,\
+and I'll just let this O.P map's one-thousand-sixty-six objects speak for themselves,\
+because Wow- [pw384](https://osu.ppy.sh/users/1343783) really is a **"Visioneer"** of technical-mapping..
 
-[Nhelv](https://osu.ppy.sh/beatmapsets/2159609#osu) is a beautifully stunning visual and gameplay experience. It's able to throw all sorts of awe-inspiring aspire-esque puzzles your way, and I'll just let this O.P. map's one-thousand-and-sixty-six objects speak for themselves, because wow— [pw384](https://osu.ppy.sh/users/1343783) really is a **"Visioneer"** of technical mapping.
+Uh- If you wanna know a fun fact.. well-\
+This map is physically FC-able, so good luck to all you aspire-grinders 🔥\
+I'm excited to see your scores... #aspire-grinders
 
-Uh— if you wanna know a fun fact... well, this map is physically FC-able, so good luck to all you aspire-grinders (🔥). I'm excited to see your scores... #aspire-grinders
-
-Anyways, um— Voting **"ZFT"** for this map in April's Loved polls is key to making sure this map ends up in the Loved category. So be sure to do so...
+Anyways, um-\
+Voting **"ZFT"** for this map in April's Loved polls is key to making sure this map ends up in the Loved category.\
+So be sure to do so..
 
 ..--- ----- ..--- .....
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1988958.jpg)](https://osu.ppy.sh/community/forums/topics/2069038)
 
-[Yuno Miles - Indiana Jones](https://osu.ppy.sh/beatmapsets/1988958#osu) by [sytho](https://osu.ppy.sh/users/4175698)\
+[Yuno Miles - Indiana Jones](https://osu.ppy.sh/beatmapsets/1988958#osu) by [sytho](https://osu.ppy.sh/users/4175698), [chidodou](https://osu.ppy.sh/users/13868581), and [The Cosmic Chef](https://osu.ppy.sh/users/23354688)\
 181 BPM, 0:53 | 2.33★, 3.66★, 4.72★, 6.74★\
 *description written by [bailie](https://osu.ppy.sh/users/7537133)*
 
