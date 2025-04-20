@@ -122,7 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ## Mappools
 
-### Finals
+### Grand Finals
 
 [View the showcase VOD here](https://www.twitch.tv/videos/2438038870?t=0h4m39s)
 
