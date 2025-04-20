@@ -28,7 +28,7 @@ In more fitting news for the season, we are opening applications for osu!catch c
 
 [![osu!catch captain application banner](/wiki/shared/news/banners/project-loved/apply-catch.png)](https://forms.gle/jpZG2NFFrKoFGbbn8)
 
-At last here's the picks, but don't forget, we host [osu!(lazer)](wiki/Client/Release_stream/Lazer) playlists for fighting to the top of the leaderboard with the newly nominated maps! If you earn yourself the top spot of any respective playlist, you earn yourself a month of [supporter](https://osu.ppy.sh/home/support)!
+At last here's the picks, but don't forget, we host [osu!(lazer)](/wiki/Client/Release_stream/Lazer) playlists for fighting to the top of the leaderboard with the newly nominated maps! If you earn yourself the top spot of any respective playlist, you earn yourself a month of [supporter](https://osu.ppy.sh/home/support)!
 
 ### Navigation
 
