@@ -133,13 +133,13 @@ Be sure to check this map out and vote yes if you want to see this enter the Lov
 POV: You're a 4-digit tournament player in the year 2020:
 
 ```
-7:50 AM | Wake up (sorry you're west coast NA buddy, time to wake up for 15 UTC)\
-7:55 AM | Log on to your PC\
-8:00 AM | Join the multi lobby (after 20 bancho attempts)\
-8:05 AM | Play HD1, \[Feryquitous feat. Aitsuki Nakuru - Kairikou [Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)\
-8:20 AM | Play HR1, \[Function Phantom - Neuronecia [Ethereal\]](https://osu.ppy.sh/beatmapsets/186911#osu/541990) (man who is balancing this pool)\
-8:45 AM | Congrats, you've made it to tiebreaker! Enjoy \[USAO - Chrono Diver -PENDULUMs- [Tempus\]](https://osu.ppy.sh/beatmapsets/414448#osu/925161)\
-8:51 AM | Log off and go back to bed (just kidding you have 4 more matches on a beautiful Saturday)\
+7:50 AM | Wake up (sorry you're west coast NA buddy, time to wake up for 15 UTC)
+7:55 AM | Log on to your PC
+8:00 AM | Join the multi lobby (after 20 bancho attempts)
+8:05 AM | Play HD1, Feryquitous feat. Aitsuki Nakuru - Kairikou [Skystar's Irregular]
+8:20 AM | Play HR1, Function Phantom - Neuronecia [Ethereal] (man who is balancing this pool)
+8:45 AM | Congrats, you've made it to tiebreaker! Enjoy USAO - Chrono Diver -PENDULUMs- [Tempus]
+8:51 AM | Log off and go back to bed (just kidding you have 4 more matches on a beautiful Saturday)
 ```
 
 For those who remember the golden days of [Maid Bot](https://osu.ppy.sh/users/16173747), you'll get it. For those who don't: this month's *Ranked Rejects* pick is your chance to find out! [seros](https://osu.ppy.sh/users/10562853) finally lands in the Loved section with [Feryquitous - Arcahv](https://osu.ppy.sh/beatmapsets/1340339#osu/2930403), a stunning modern take on the beloved light-tech genre. A fusion of skills like awkward aim, slider control, cutstreams, and density reading will put your [Skystar](https://osu.ppy.sh/users/873961) homework to the test if you dare to take on this map.
