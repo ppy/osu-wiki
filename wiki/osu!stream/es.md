@@ -24,7 +24,7 @@ En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalment
 
 ### Método de la App Store (recomendado)
 
-*Nota: Asegúrate de que el dispositivo puede conectarse a internet (por Wi-Fi o datos móviles).*
+*Nota: Asegúrate de que el dispositivo pueda conectarse a internet (por Wi-Fi o datos móviles).*
 
 - Entra a la «App Store» desde el dispositivo iOS o a la «Play Store» en Android
 - Busca osu!stream
@@ -45,7 +45,7 @@ En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalment
 
 ## Cómo añadir beatmaps
 
-**Nota: Asegúrate de que el dispositivo puede conectarse a internet (por Wi-Fi o datos móviles).**
+**Nota: Asegúrate de que el dispositivo pueda conectarse a internet (por Wi-Fi o datos móviles).**
 
 - Abre osu!stream.
 - Pulsa el símbolo de osu! para ir al menú principal (o al tutorial si es la primera vez que juegas)
@@ -62,7 +62,7 @@ En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalment
 - El marcador circular se sustituye y se desplaza a la parte inferior con una pequeña línea de borde que se colorea dependiendo de la precisión de la jugada.
 - Las **pulsaciones promedio** se indican en la pantalla de resultados.
 - Las puntuaciones y las repeticiones antiguas no se pueden guardar.
-- La skin predeterminada no se puede cambiar y no hay mods disponibles.
+- No se puede cambiar la skin predeterminada y no hay mods disponibles.
 - Se pueden encontrar huevos de Pascua, pero no hay página de logros...
 
 ### Nuevo sistema de jugabilidad
