@@ -110,6 +110,8 @@ What caused you to start mapping in osu!catch? Was there any particular reason o
 
 When I first started mapping, osu!catch specific maps used to be unrankable. I mostly tried mapping just for fun, and received some positive feedback from other players. There was an old forum for every osu!catch players and I used to share my very first maps [there](https://osu.ppy.sh/community/forums/topics/21061?n=3561).
 
+![](/wiki/shared/news/2025-04-30-the-followpoint-spectator-the-osu-catch-mapping-pioneer/forum_post.jpg)
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17745759" style="background-image: url('/wiki/shared/avatars/-Isla-.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17745759">-Isla-</a></p>
@@ -120,7 +122,7 @@ As someone who's been mapping for a very long time, do you have any tips or advi
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/702598">Spectator</a></p>
 
-If you're new to osu!catch mapping, I'd recommend using the osu!lazer editor — it's a lot more intuitive than stable. As for mapping itself, I'll just quote my favorite line from [Jemzuu](https://osu.ppy.sh/users/7890134): "Just let your creativity flow. You don't have to be good at mapping to enjoy it, you might enjoy it first and improve along the way."
+If you're new to osu!catch mapping, I'd recommend using the osu!lazer editor — it's a lot more intuitive than stable. As for mapping itself, I'll just quote my favorite line from [Jemzuu](https://osu.ppy.sh/users/7890134): "Just let your creativity flow." You don't have to be good at mapping to enjoy it, you might enjoy it first and improve along the way.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17745759" style="background-image: url('/wiki/shared/avatars/-Isla-.jpg')"></a>
 
@@ -225,6 +227,8 @@ I've mostly shifted to mapping, not just because I don't have enough time to gri
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
 You have one specific score, [disinteGration by RINYA.G \[Collapse of the World Machine\] +HDHR](https://osu.ppy.sh/scores/1956830227), pinned in your profile. Is there any story behind this or some other reason it's pinned?
+
+![](/wiki/shared/news/2025-04-30-the-followpoint-spectator-the-osu-catch-mapping-pioneer/score.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/702598" style="background-image: url('/wiki/shared/avatars/Spectator.jpg')"></a>
 
