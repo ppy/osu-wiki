@@ -2,27 +2,27 @@
 
 *Not to be confused with [TAG difficulties](/wiki/Beatmap/TAG_beatmaps).*
 
-Keywords can be added to beatmaps to make searching for them more convenient. There are two types of tags, each with their own purpose.
+**Beatmap tags** are keywords that can be added to beatmaps to make searching for them more convenient. There are two types of tags, each with their own purpose.
 
 ## Mapper tags
 
 *For rules regarding mapper tags, see: [Ranking criteria/Metadata § Tags](/wiki/Ranking_criteria/Metadata#tags)*
 
-**Mapper tags** can be used to include useful background information about a beatmap or song, e.g. the album name or the medium for which the song was produced for.
+**Mapper tags** are tags that describe useful background information about a beatmap or a song, e.g. the name of the album or the medium for which the song was produced for. As the name suggests, these tags are added by the beatmap host during the [ranking process](/wiki/Beatmap_ranking_procedure).
 
-When entering metadata in the [song setup window](/wiki/Client/Beatmap_editor/Song_setup), a beatmap host is able to choose custom keywords by separating them with spaces. Should a keyword itself contain spaces, they must be replaced with an underscore (`_`).
+When entering a beatmap's metadata in the [song setup window](/wiki/Client/Beatmap_editor/Song_setup), the beatmap host is able to add custom keywords to the `Tags` field by separating them with spaces. Keywords that consist of two or more words may be written with the spaces between them replaced with an underscore (`_`) to allow for a more efficient beatmap search.
 
-The keywords can be set as a filter in [song select](/wiki/Client/Interface#song-select) as well as the [beatmap listing](https://osu.ppy.sh/beatmapsets) via full-text search.
+These keywords can then be set as a filter in [song select](/wiki/Client/Interface#song-select) as well as the [beatmap listing](https://osu.ppy.sh/beatmapsets) via full-text search.
 
 ## User tags
 
 *Note: This feature is not available in osu!(stable).*
 
-**User tags** are keywords describing specific characteristics of a beatmap, such as patterns or required skill sets. After achieving at least a C [grade](/wiki/Gameplay/Grade) on a beatmap, users are able to select and vote for user tags in the result screen in osu!(lazer). Upon receiving at least 10 upvotes, the respective user tag will be displayed in the beatmap information page.
+**User tags** are tags that describe specific characteristics of a beatmap, such as its patterns or required skill sets. After achieving at least a C [grade](/wiki/Gameplay/Grade) on a beatmap, users are able to select and vote for user tags in the result screen in osu!(lazer). Upon receiving at least 10 upvotes, the respective user tag will be displayed in the beatmap information page.
 
 To filter beatmaps containing certain user tags, click them in the beatmap information page, or type in `tag="{name}"` where `{name}` is the name of any tag listed below.
 
-The tables below list all user tags grouped by category, including the game modes they are available in.
+The tables below list all user tags grouped by category as well as the game modes they are applicable in.
 
 ### Aim
 
