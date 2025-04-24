@@ -1,3 +1,8 @@
+---
+outdated_since: 0ffdd3209f4cbab2e8b050f5eb1201ddd9f4c660
+outdated_translation: true
+---
+
 # Администраторы osu! wiki
 
 **Администраторы** — группа людей, работающих над проектом osu! wiki, содержимое которого живёт в [репозитории на GitHub](https://github.com/ppy/osu-wiki).

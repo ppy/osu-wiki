@@ -42,7 +42,7 @@ The event is **3 days**, lasting from **April 25th to April 27th**. A valid badg
 
 If the pressure of playing on an unfamiliar setup wasn't enough, the stakes in this tournament will ensure your hands are drenched in sweat.
 
-![prizes image](/wiki/shared/news/2025-03-31-the-roundtable-open-at-lvl-up-expo/prizepool.jpg)
+![prizes image](/wiki/shared/news/2025-03-31-the-roundtable-open-at-lvl-up-expo/prizepool_2.jpg)
 
 ## How does the tournament work?
 
@@ -53,7 +53,7 @@ The tournament is split into divisions based on skill level:
 - **Division 1** is for the most competitive players. [Register for division 1 here](https://www.start.gg/tournament/the-roundtable-x-lvlup-expo-division-1/details) or in-person!
 - **Division 2** is for relatively new players. [Register for division 2 here](https://www.start.gg/tournament/the-roundtable-x-lvlup-expo-division-2/details) or in-person!
 
-**You can (and should!) register for both divisions,** but if you qualify for division 1, you won't be able to participate in division 2.
+**You can (and should!) register for both divisions,** but if you make it to the top 16 of division 1, you won't be able to participate in division 2.
 
 For the most up-to-date tournament info, it's worth monitoring [The Roundtable Open's Discord server](https://discord.com/invite/XqFDJhe922).
 

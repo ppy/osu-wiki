@@ -2,7 +2,7 @@
 
 El **desafío diario** es un modo multijugador de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) en el que los jugadores pueden acumular una racha al pasar beatmaps diarios consecutivos con una dificultad creciente, la cual se reinicia cada 7 días.
 
-Cada beatmap se selecciona manualmente de la lista de [artistas destacados](/wiki/People/Featured_Artists), y a veces los mapas vienen con un mod que se obliga a usar a los usuarios, lo que requiere que pasen el mapa con el mod seleccionado.
+Los beatmaps del desafío diario son seleccionados por un grupo de contribuidores y se componen principalmente de temas de los [artistas destacados](/wiki/People/Featured_Artists). En ciertas ocasiones, estos beatmaps pueden venir con un mod impuesto a los usuarios, lo que les obliga a pasar el beatmap con el mod seleccionado.
 
 ## Menú de juego
 
