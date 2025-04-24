@@ -4,7 +4,7 @@ title: "osu!taiko World Cup 2025: Finals Recap"
 date: 2025-04-24 20:15:00 +0000
 ---
 
-The last remaining teams approached the summit. One final step to the ultimate battle.
+The last remaining teams approached the summit. One final step to the ultimate battle!
 
 ![](/wiki/shared/news/2025-04-24-osutaiko-world-cup-finals-recap/banner.jpg)
 
@@ -74,6 +74,13 @@ After staving off a huge second half comeback to take Chile's second pick of [co
 Now up by a score of 3-4, Taiwan seemingly found an extra gear that Chile couldn't quite seem to match. Two full combos on [Spire of Lazarus - Big Hat Logan](https://osu.ppy.sh/beatmapsets/2354620#taiko/5069531) (NM5) with an unreal 3x100 from ::{ flag=TW }:: [HarryAda](https://osu.ppy.sh/users/12892087), three scores with one combined miss on the highly stressful [Amanogawa Converter - Never play me](https://osu.ppy.sh/beatmapsets/2354618#taiko/5069528) (NM4) for one more break point, and one tightly contested, high-accuracy battle on [Rahatt - Gunoi Chop](https://osu.ppy.sh/beatmapsets/2354610#taiko/5069511) (NM1) later, team Taiwan had done it.
 
 With a huge 7-3 win over a terrifying opponent in Chile, who still deserve huge congratulations for their best finish ever at 4th place, Taiwan came out on top of the brutal Finals lower bracket, advancing to the Grand Finals.
+
+## Score highlights
+
+In a later stage like the Finals, there is no avoiding scores that seem absoultely inhumane to a spectator. For players that have never played osu!taiko themselves, and even for players that are longstanding members of the community, some of those scores are incomprehensible.
+
+- One of those scores last weekend, was the unreal double S score from ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196) on the very experimental and difficult NM2 pick, [Terminal 11 - Echoes](https://osu.ppy.sh/beatmapsets/2354615#taiko/5069524). The Japanese player has outscored every other player in their match against South Korea with zero 100s and outstanding gameplay throughout our brand new osu! original.
+- It takes a lot of confidence and practice to pick any mod on an antimod pick. But to go all the way picking **two** mods on it and scoring a full combo on said pick, deserves a mention in this list. This is exactly what ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) and ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) did. Both of these players have not missed a single note throughout [cosMo@Bousou-P feat. HARU - LowSpeed Fake Lyric](https://osu.ppy.sh/beatmapsets/2354609#taiko/5069510) (FM2) and thanks to the godlike accuracy of 99.60% on ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027)'s side, South Korea won the pick.
 
 ---
 
