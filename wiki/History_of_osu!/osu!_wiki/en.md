@@ -21,7 +21,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### November
 
-- **Unknown date:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) and ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) were added to the osu! wiki's Mediawiki admins.
+- **2012-11-29:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) and ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) were [added](https://osu.ppy.sh/community/forums/posts/1944044) to the osu! wiki's Mediawiki admins.
 
 ### 2013
 
@@ -61,7 +61,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### June
 
-- **Unknown date:** The osu! wiki running on MediaWiki was officially decommissioned. The links to the old wiki were now made to redirect to the new GitHub-based wiki. [A snapshot of the old wiki without the MediaWiki functionalities can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page).
+- **2017-06-26:** The osu! wiki running on MediaWiki was [officially decommissioned](https://discord.com/channels/188630481301012481/218677502141399041/328851556453711872). The links to the old wiki were now made to redirect to the new GitHub-based wiki. [A snapshot of the old wiki without the MediaWiki functionalities can be found here](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page).
 
 ## GitHub repository (2016 - present)
 
