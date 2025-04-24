@@ -15,7 +15,7 @@ La **velocidad de aproximación** (***AR***) es una configuración de dificultad
 
 Los valores de AR varían de 0 a 10. Las tasas de aproximación más altas significan que los objetos se mostrarán durante un período de tiempo más corto, lo que le dará menos tiempo al jugador para reaccionar. Por otro lado, las tasas de aproximación más bajas permiten más tiempo de reacción, pero pueden resultar en una cantidad abrumadora de objetos que aparecen en la pantalla a la vez.
 
-En [osu!taiko](/wiki/Game_mode/osu!taiko) y [osu!mania](/wiki/Game_mode/osu!mania), la configuración de la velocidad de aproximación no tiene efecto. La velocidad de desplazamiento en ambos modos está controlada por la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), que depende de los [BPM](/wiki/Music_theory/Tempo) y del multiplicador de la velocidad del slider. Además, en osu!mania puede ser personalizada [por el propio jugador](/wiki/Game_mode/osu!mania#cambio-de-velocidad).
+En [osu!taiko](/wiki/Game_mode/osu!taiko) y [osu!mania](/wiki/Game_mode/osu!mania), la configuración de la velocidad de aproximación no tiene efecto. La velocidad de desplazamiento en ambos modos está controlada por la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), que depende de los [BPM](/wiki/Music_theory/Tempo) y del multiplicador de la velocidad del slider. Además, en osu!mania puede ser personalizada [por el propio jugador](/wiki/Game_mode/osu!mania#cambios-de-velocidad).
 
 ## Temporización de la animación
 
