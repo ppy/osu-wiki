@@ -208,7 +208,7 @@ The tables below list all user tags grouped by category as well as the game mode
 
 ## Trivia
 
-- The initial release of the user tags on 21 March 2025 was inspired from the [OMDB](https://omdb.nyahh.net/) project which had the similar goal of providing a user-curated tag system for beatmaps. Originally developed by ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549), the project was retired on 1 March 2025 due to personal reasons.
+- The initial release of the user tags on 21 March 2025 was inspired from the [OMDB](https://omdb.nyahh.net/) project which had the similar goal of providing a user-curated tag system for beatmaps. Originally developed by ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549), the project was retired on 1 March 2025 [due to personal reasons](https://x.com/bunnygirltwink/status/1892328084893815059).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
