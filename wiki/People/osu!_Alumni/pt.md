@@ -19,7 +19,7 @@ outdated_translation: true
 | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | BAT |
 | ::{ flag=RU }:: [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
 | ::{ flag=CA }:: [An64fan](https://osu.ppy.sh/users/38836) | BAT |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | GMT |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | BAT, GMT |
 | ::{ flag=IT }:: [Armin](https://osu.ppy.sh/users/105902) | BAT |
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | QAT |
 | ::{ flag=CN }:: [Atrue](https://osu.ppy.sh/users/1758523) | GMT |
