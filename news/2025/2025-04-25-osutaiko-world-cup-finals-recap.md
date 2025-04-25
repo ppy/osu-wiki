@@ -26,7 +26,7 @@ The stage is now set for the Grand Finals. Read along to find out how we got her
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=1h28m34s&video=2431800861" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Semifinals mappool table](/wiki/shared/news/2025-04-25-osutaiko-world-cup-finals-recap/mappool.png)
+![Finals mappool table](/wiki/shared/news/2025-04-25-osutaiko-world-cup-finals-recap/mappool.png)
 
 Alongside the [newly announced Featured Artist](https://osu.ppy.sh/home/news/2025-04-13-new-featured-artist-terminal-11), we were treated to a brand-new [osu! original](/wiki/Community/Bespoke_music) for this year's osu!taiko World Cup! [Terminal 11](https://osu.ppy.sh/beatmaps/artists/470) delivered **Echoes** which resonated throughout the Finals.
 
