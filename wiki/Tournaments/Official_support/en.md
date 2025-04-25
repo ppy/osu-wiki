@@ -34,7 +34,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
     - The tournament is open rank.
     - The team size is 8 or more.
     - Note: In tournaments with multiple divisions, this rule applies to only one open-rank division.
-  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
+  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should [submit a ticket via the website](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://tcomm.hivie.tn/reports/create) as the very last content of the original post.
   - `https://tcomm.hivie.tn/reports/create`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
