@@ -20,7 +20,7 @@ These keywords can then be set as a filter in [song select](/wiki/Client/Interfa
 
 **User tags** are tags that describe specific characteristics of a beatmap, such as its patterns or required skill sets. After achieving at least a C [grade](/wiki/Gameplay/Grade) on a beatmap, users are able to select and vote for user tags in the result screen in osu!(lazer). Upon receiving at least 10 upvotes, the respective user tag will be displayed in the beatmap information page.
 
-To filter beatmaps containing certain user tags, click them in the beatmap information page, or type in `tag="{name}"` where `{name}` is the name of any tag listed below.
+To filter for beatmaps with certain user tags, click on the corresponsing tag in the beatmap information page, or type in `tag="{name}"` in the beatmap listing where `{name}` is the name of any tag listed below.
 
 The tables below list all user tags grouped by category as well as the game modes they are applicable in.
 
