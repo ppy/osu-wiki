@@ -134,7 +134,6 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Natsu - Regression (Regou) \[X\]](https://osu.ppy.sh/beatmapsets/1771677#osu/3649428)**
 
-
 ### Semifinals
 
 - NoMod
@@ -161,7 +160,6 @@ This competition has come to an end and resulted in the following podium:
   4. [Koji Kondo - Ground Theme (Gust) \[45872\]](https://osu.ppy.sh/beatmapsets/1643826#osu/3355391)
 - Tiebreaker
   1. **[goreshit - burn this moment into the retina of my eye (grumd) \[extra\]](https://osu.ppy.sh/beatmapsets/359890#osu/791274)**
-
 
 ### Quarterfinals
 
@@ -190,7 +188,6 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Shpongle - Dr. Vinklestein Says (piroshki) \[Entheogen\]](https://osu.ppy.sh/beatmapsets/1750091#osu/3580348)**
 
-
 ### Round of 16
 
 - NoMod
@@ -213,7 +210,6 @@ This competition has come to an end and resulted in the following podium:
   3. [sumiisan - EMIYA -Time alter- (xbopost) \[Insane\]](https://osu.ppy.sh/beatmapsets/1105097#osu/2309576)
 - Tiebreaker
   1. **[Chata - enn (EvilElvis) \[Starry Sky of Small Desires\]](https://osu.ppy.sh/beatmapsets/406217#osu/882812)**
-
 
 ### Round of 32
 
@@ -439,7 +435,7 @@ Top 10 qualification results:
 | *7th place* | ::{ flag=GB }:: [reshamen](https://osu.ppy.sh/users/17706086) | 6,863,861 |
 | *8th place* | ::{ flag=GB }:: [idealnettles](https://osu.ppy.sh/users/4010354) | 6,454,921 |
 | *9th place* | ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917) | 6,351,398 |
-| *10th place* |  ::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614) | 6,163,163 |
+| *10th place* | ::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614) | 6,163,163 |
 
 ## Ruleset
 
