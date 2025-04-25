@@ -33,7 +33,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - Tournaments that feature a draft or auction format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
     - The tournament is open rank.
     - The team size is 8 or more.
-    - Note: In tournaments with multiple divisions, this rule applies to only one open-rank division.
+    - Note: In global or continent-based draft and auction tournaments, this rule applies to a maximum of 2 open-rank divisions. For smaller-scale tournaments, this rule applies to only 1 open-rank division.
   - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should [submit a ticket via the website](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://tcomm.hivie.tn/reports/create) as the very last content of the original post.
   - `https://tcomm.hivie.tn/reports/create`
