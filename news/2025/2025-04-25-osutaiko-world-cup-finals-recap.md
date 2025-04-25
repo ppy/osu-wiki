@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2025: Finals Recap"
-date: 2025-04-24 20:15:00 +0000
+date: 2025-04-25 12:30:00 +0000
 ---
 
 The last remaining teams approached the summit. One final step to the ultimate battle!
 
-![](/wiki/shared/news/2025-04-24-osutaiko-world-cup-finals-recap/banner.jpg)
+![](/wiki/shared/news/2025-04-25-osutaiko-world-cup-finals-recap/banner.jpg)
 
 With only one stage left, every matchup was a high-stakes clash, with players conquering some of the most brutal maps of the tournament so far. The skill cap climbed even higher as teams fought for their place in the top four. Relentless pressure and the Grand Finals within reach, the few players that were left did everything they could to save their spot on the podium.
 
@@ -26,13 +26,13 @@ The stage is now set for the Grand Finals. Read along to find out how we got her
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=2h4m42s&video=2425712130" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Quarterfinals mappool table](/wiki/shared/news/2025-04-24-osutaiko-world-cup-finals-recap/mappool.png)
+![Quarterfinals mappool table](/wiki/shared/news/2025-04-25-osutaiko-world-cup-finals-recap/mappool.png)
 
 Alongside the [newly announced Featured Artist](https://osu.ppy.sh/home/news/2025-04-13-new-featured-artist-terminal-11), we were treated to a brand-new [osu! original](/wiki/Community/Bespoke_music) for this year's osu!taiko World Cup! [Terminal 11](https://osu.ppy.sh/beatmaps/artists/470) delivered **Echoes** which resonated throughout the Finals.
 
 Please click the banner below to check out the map, and watch the showcase video of [**Terminal 11 - Echoes**](https://youtu.be/P0vgkkz0DTs). Enjoy!
 
-[![](/wiki/shared/news/2025-04-24-osutaiko-world-cup-finals-recap/echoes.jpg)](https://osu.ppy.sh/beatmapsets/2354615#taiko/5069524)
+[![](/wiki/shared/news/2025-04-25-osutaiko-world-cup-finals-recap/echoes.jpg)](https://osu.ppy.sh/beatmapsets/2354615#taiko/5069524)
 
 <div class="osu-md__paragraph">
     <audio controls>
