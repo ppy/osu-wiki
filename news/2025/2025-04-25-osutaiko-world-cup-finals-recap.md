@@ -51,7 +51,7 @@ Here are all the outcomes laid out:
 | Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TW }:: **Taiwan** |
 | **Japan** ::{ flag=JP }:: | **7** | 2 | ::{ flag=KR }:: South Korea |
 
-We unfortunately had to see a few teams leave the tournament once again, but we want to take a moment to thank the following teams for participating and congratulate them for getting this far: ::{ flag=RU }:: Russia, ::{ flag=MY }:: Malaysia, ::{ flag=FR }:: France, ::{ flag=TR }:: Türkiye, ::{ flag=US }:: United States and ::{ flag=SG }:: Singapore.
+We unfortunately had to see three teams leave the tournament once again, but we want to take a moment to thank ::{ flag=CL }:: Chile, ::{ flag=GB }:: United Kingdom and ::{ flag=CN }:: China for participating and congratulate them for getting this far!
 
 Another week, another set of statistics for you to check out. [This week's statistics spreadsheet](https://docs.google.com/spreadsheets/d/1cIzLO8If8qgSQ6vf8vEeVBDdHO6XTyZLEtNtqqHdXF8) holds all the information you'd ever want to know!
 
