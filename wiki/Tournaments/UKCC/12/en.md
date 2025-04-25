@@ -52,10 +52,10 @@ The UK Community Cup 12 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1728291)
-- [Discord](https://discord.gg/EtsU7Cw)
+- [Discord server](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Rules and information document](https://docs.google.com/document/d/19cAB_QOHAUBSySA4UXHcagjj3UrAxLU7w4g_nVlG4q4/edit?usp=sharing)
-- [Main Spreadsheet](https://docs.google.com/spreadsheets/d/1Yeh9CVc8fCDQmSnJfA9dXQaIFTds50cOdMDjENdL19A/edit?usp=sharing)
+- [Main spreadsheet](https://docs.google.com/spreadsheets/d/1Yeh9CVc8fCDQmSnJfA9dXQaIFTds50cOdMDjENdL19A/edit?usp=sharing)
 
 ## Participants
 
