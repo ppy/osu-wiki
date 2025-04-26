@@ -92,7 +92,7 @@ Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) �
 </div>
 <div class="wiki-main-page-panel">
 
-# Community und Projekte
+# [Community](/wiki/Community) und [Projekte](/wiki/Community/Projects)
 
 Eine aktive Community ist eines der Dinge, die osu! voranbringen. Entdecke die Aktivitäten und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
 
