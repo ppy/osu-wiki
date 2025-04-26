@@ -50,7 +50,7 @@ Kamu dapat tetap bermain pada turnamen komunitas yang tidak didukung secara resm
 
 Kamu juga dapat berperan sebagai penyiar, komentator, atau desainer grafis dalam turnamen yang didukung secara resmi apabila kamu diizinkan oleh host turnamen yang bersangkutan. Apabila kamu ingin membantu dalam hal lainnya, host turnamen ini HARUS meminta pengecualian khusus dalam permohonan dukungan turnamen mereka. [Tim dukungan akun](/wiki/People/Account_support_team) kemudian akan dapat mengabulkan permintaan ini dengan menimbang alasan pelanggaranmu serta rekam jejak akunmu.
 
-Apabila diminta, informasi seputar status larangan turnamenmu dapat diberikan kepada panitia turnamen yang kamu ikuti, terlepas dari apakah turnamen ini didukung secara resmi ataupun tidak.
+Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat diberikan kepada panitia turnamen yang kamu ikuti, terlepas dari apakah turnamen ini didukung secara resmi ataupun tidak.
 
 ## Alasan larangan turnamen umum beserta durasinya {id=reasons}
 
