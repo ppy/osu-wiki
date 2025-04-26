@@ -2,7 +2,7 @@
 
 ## Daftar format berkas
 
-| Format berkas | Tipe MIME | Penggunaan |
+| Format berkas | Jenis MIME | Penggunaan |
 | :-- | :-- | :-- |
 | [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | Arsip beatmap osu! |
 | [.osk](/wiki/Client/File_formats/osk_(file_format)) | `x-osu-skin-archive` | Arsip skin osu! |
@@ -12,7 +12,7 @@
 
 ## Membuat berkas .osz dan .osk
 
-`.osz` dan `.osk` merupakan berkas arsip yang masing-masing memuat data beatmap dan skin. Konten yang terkandung di dalam kedua berkas ini akan secara otomatis diekstrak oleh osu! pada saat berkas dibuka:
+`.osz` dan `.osk` merupakan berkas arsip yang masing-masingnya memuat data beatmap dan skin. Konten yang ada di dalam kedua berkas ini akan secara otomatis diekstrak oleh osu! pada saat dibuka:
 
 - Berkas `.osz` akan diekstrak ke folder `Songs`
 - Berkas `.osk` akan diesktrak ke folder `Skins`
