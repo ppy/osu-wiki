@@ -104,7 +104,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Проекты](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Встречи сообщества osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
-Медиа: [Музыка на заказ (osu! originals)](/wiki/Community/Bespoke_music) • [Манга](/wiki/Community/Manga) • [Серии видеороликов](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Обновления osu!(lazer)](/wiki/Community/Video_series/lazer_updates)
+Медиа: [Музыка на заказ](/wiki/Community/Bespoke_music) • [Манга](/wiki/Community/Manga) • [Серии видеороликов](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Обновления osu!(lazer)](/wiki/Community/Video_series/lazer_updates)
 
 Организации: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
