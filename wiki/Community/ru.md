@@ -31,7 +31,7 @@
 ## Медиа
 
 - [Манга](/wiki/Community/Manga)
-- [Музыка на заказ (osu! originals)](/wiki/Community/Bespoke_music)
+- [Музыка на заказ](/wiki/Community/Bespoke_music)
 - [Серии видеороликов](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
