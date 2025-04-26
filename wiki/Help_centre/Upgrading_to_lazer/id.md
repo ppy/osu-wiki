@@ -11,7 +11,7 @@ osu!(lazer) merupakan versi rilis utama osu! yang akan datang. Versi ini merupak
 
 Walaupun untuk saat ini masih ada beberapa hal yang harus dikerjakan, lazer dikembangkan dengan tujuan akhir untuk dirilis sebagai pembaruan yang akan sepenuhnya menggantikan osu! versi stable. Pada akhirnya, **para pemainlah** yang akan menentukan kapan waktu yang tepat untuk merilis pembaruan ini, dan kami akan terus mendukung osu! versi stable hingga para pengguna telah berpindah ke lazer.
 
-"lazer" sendiri merupakan nama sandi yang nantinya tidak akan lagi digunakan setelah osu!(lazer) beralih fungsi menjadi versi rilis utama. Untuk memudahkan, dokumen ini ke depannya akan menyebut osu!(lazer) sebagai "lazer" dan osu!(stable) sebagai "stable".
+"lazer" sendiri merupakan nama sandi yang nantinya tidak lagi akan digunakan setelah osu!(lazer) beralih fungsi menjadi versi rilis utama. Untuk memudahkan, dokumen ini ke depannya akan menyebut osu!(lazer) sebagai "lazer" dan osu!(stable) sebagai "stable".
 
 ## Perbandingan fitur
 
@@ -296,7 +296,7 @@ Kami akan terus menyempurnakan osu! serta menghadirkan berbagai fitur yang banya
 
 #### Bagaimana cara saya mengakses folder lagu saya?
 
-Lazer tidak memiliki folder lagu! Tidak adanya folder lagu ini memungkinkan kami untuk melakukan berbagai hal yang canggih, seperti tidak lagi mengharuskan pemain untuk menekan `F5` pada layar pemilihan lagu untuk memuat ulang beatmap (karena seluruh beatmap akan selalu berada dalam kondisi yang baik) serta mengurangi ruang penyimpanan yang digunakan oleh beatmap sebanyak 20–40%. Kamu dapat membaca lebih lanjut seputar cara lazer menyimpan berkas [pada artikel ini](/wiki/Client/Release_stream/Lazer/File_storage).
+Lazer tidak memiliki folder lagu! Ketiadaan folder lagu ini memungkinkan kami untuk melakukan berbagai hal yang canggih, seperti tidak lagi mengharuskan pemain untuk menekan `F5` pada layar pemilihan lagu untuk memuat ulang beatmap (karena seluruh beatmap akan selalu berada dalam kondisi yang baik) serta mengurangi ruang penyimpanan yang digunakan oleh beatmap sebanyak 20–40%. Kamu dapat membaca lebih lanjut seputar cara lazer menyimpan berkas [pada artikel ini](/wiki/Client/Release_stream/Lazer/File_storage).
 
 Apabila kamu perlu untuk mengubah sesuatu pada beatmap, silakan gunakan editor. Ke depannya, kami akan memperkenalkan mode baru pada editor yang memungkinkan kamu untuk mengakses folder beatmap secara sementara untuk disunting secara eksternal. Hal ini akan memungkinkan kamu untuk menggunakan perangkat dari luar pada proses pembuatan beatmap kamu.
 
