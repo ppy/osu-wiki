@@ -296,6 +296,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1F8cuson-Xnt_tc8Pg0x7lhzWw-mF0FDvzcfzJDdzr20?rm=minimal).
+
 Saturday, 26 April 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
