@@ -1,6 +1,6 @@
 # .osr (file format)
 
-**.osr** is a file format introduced in early 2008 for describing osu! [replays](/wiki/Gameplay/Replay). An `.osr` file can be played only if the game has the exact [beatmap](/wiki/Beatmap) for which the replay was recorded.
+**.osr** is a file format introduced in March 2008 for describing osu! [replays](/wiki/Gameplay/Replay). An `.osr` file can be played only if the game has the exact [beatmap](/wiki/Beatmap) for which the replay was recorded.
 
 ## Data Types
 
@@ -48,8 +48,8 @@ Byte offsets are not included in this table due to variable length values.
 | Mod | Stored information |
 | :-- | :-- |
 | Target Practice | Total accuracy of all hits. Divide this by the number of targets in the map to find the accuracy displayed in-game. |
-| Nightcore | Re-uses the ID of the Taiko mod, which was present in 2008 versions before Taiko became a game mode. It was unused between late 2008 and 2012. |
-| Touch Device | Re-uses the ID of the No Video mod that was introduced in 2007. In 2017, the ID was used again for Touch Device |
+| Nightcore | Re-uses the ID of the [Taiko mod](https://osu.ppy.sh/wiki/en/History_of_osu!/2008), which got added in May 2008 before Taiko became a separate game mode. It was unused between late 2008 and 2012. |
+| Touch Device | Re-uses the ID of the [No Video mod](https://osu.ppy.sh/wiki/en/History_of_osu!/2007) that was introduced in November 2007. In late 2017, the ID was used again for Touch Device. |
 
 The remaining data contains information about mouse movement and key presses in an [LZMA](https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm) stream.
 
