@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2025** (***TWC 2025***) was a country-based osu!taiko 
 
 ## Prizes
 
-The osu!taiko World Cup 2025 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!taiko World Cup 2025 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
