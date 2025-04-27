@@ -15,7 +15,7 @@
 
 ## Format
 
-The file format has mostly stayed mostly the same since early 2009 with the exception of score ID. Latest osu!stable client can read replays made on version `20121008` and higher.
+The file format has mostly stayed mostly the same since early 2009, with the exception of score ID. The latest osu!stable client can read replays made on version `20121008` and higher.
 
 Byte offsets are not included in this table due to variable length values.
 
