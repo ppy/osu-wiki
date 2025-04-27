@@ -19,16 +19,16 @@ Este conjunto de **criterios de clasificación de osu!taiko** establece [reglas 
 ### Jugabilidad
 
 - **Don/Nota roja:** Una nota que se puede pulsar con cualquiera de las teclas del tambor central (teclas predeterminadas `X`, `C`).
-- **Kat/Nota azul:** Una nota que puede ser pulsada con cualquiera de las teclas del borde del tambor (teclas predeterminadas `Z`, `V`).
-- **Big don/Nota roja grande/Nota finalizadora:** Una nota que puede pulsarse con las dos teclas del tambor central al mismo tiempo para conseguir una puntuación extra.
-- **Big kat/Nota azul grande/Nota finalizadora:** Una nota que puede pulsarse con las dos teclas del borde del tambor al mismo tiempo para obtener una puntuación extra.
+- **Kat/Nota azul:** Una nota que se puede pulsar con cualquiera de las teclas del borde del tambor (teclas predeterminadas `Z`, `V`).
+- **Don grande/Nota roja grande/Nota finalizadora:** Una nota que se puede pulsar con las dos teclas del tambor central al mismo tiempo para conseguir una puntuación extra.
+- **Kat grande/Nota azul grande/Nota finalizadora:** Una nota que se puede pulsar con las dos teclas del borde del tambor al mismo tiempo para obtener una puntuación extra.
 - **BPM:** Acrónimo de «pulsaciones por minuto» usado para determinar el tempo de una canción.
 - **Slider/Redoble de tambor:** Una barra amarilla con marcas en su interior que se pulsan con cualquiera de las teclas asignadas. Estas marcas suelen estar ajustadas a 1/4 correspondientes al BPM de la canción. Si el BPM es inferior a 125, el ajuste cambiará a 1/8. Si el BPM es superior a 250, cambiará a 1/2. Si la tasa de marcas de los sliders está establecida en 3, las marcas de los sliders se ajustarán a 1/3.
 - **Spinner:** Un elemento redondo que requiere que el jugador alterne entre golpear el Don/Kat un número determinado de veces, que se muestra en el centro del spinner. Este número depende de la dificultad general del mapa y de la duración del spinner.
 - **Línea de compás:** Línea que aparece en el campo de juego y determina el inicio de un compás.
 - **Overlap:** Una nota que cubre parcial o totalmente otras notas en el campo de juego.
 - **Descanso:** Un periodo de tiempo sin notas usado específicamente para permitir al jugador descansar sus manos y prepararse para los siguientes patrones.
-- **Stream:** Círculos consecutivos agrupados. Normalmente se ajustan a un pulso de 1/4.
+- **Stream:** Círculos consecutivos agrupados. Normalmente se ajustan a un ritmo de 1/4.
 - **Snapping:** Marca de la línea de tiempo donde se coloca un objeto.
 - **Snapping variable:** Una combinación de múltiples formas diferentes de ajustar las notas en un corto espacio de tiempo debido a la naturaleza fluctuante de la canción en ese momento.
 - **Velocidad de los sliders:** Velocidad a la que se mueven horizontalmente las notas/redobles de tambor/spinners/líneas de compás de derecha a izquierda por el campo de juego. La velocidad base de los sliders se puede controlar en el panel de la temporización y se pueden realizar cambios adicionales a través de los puntos de tiempo heredados (verdes).
@@ -65,7 +65,7 @@ Las pautas pueden ignorarse en **circunstancias excepcionales**. Estas circunsta
 - **Evita cubrir partes esenciales del fondo con el campo de juego de taiko.**
 - **Si se usan cambios en la velocidad de los sliders, deben coincidir con los cambios en el ritmo de la canción.** Eso significa no acelerar las partes tranquilas ni ralentizar las partes rápidas de una canción.
 - **Evita usar cambios uniformes en la velocidad de los sliders en secciones que incluyan un snapping variable.** Hacerlo afecta a la legibilidad de estos snaps, así que mantén la variación lo suficientemente baja como para evitar que se superpongan.
-- **Evita los cambios bruscos en la velocidad de los sliders dentro de patrones que ya se superponen (por ejemplo, streams de 1/4).** En estos casos se deben usar cambios suaves en la velocidad de los sliders para garantizar que los patrones sigan siendo legibles.
+- **Evita los cambios bruscos en la velocidad de los sliders dentro de los patrones que ya se superponen (por ejemplo, streams de 1/4).** En estos casos se deben usar cambios suaves en la velocidad de los sliders para garantizar que los patrones sigan siendo legibles.
 - **Deben evitarse las superposiciones sustanciales para que el color de cada nota siga siendo fácilmente legible y no suponga una molestia visual innecesaria.** La superposición solo debe hacerse si el ritmo de la canción o el ajuste de las notas en ese punto pueden justificarlo.
 - **Evita los ritmos que no sean en absoluto predecibles.** El ritmo puede hacerse intuitivo mediante el uso de intervalos de tiempo coherentes que sirvan de puente entre los diferentes snappings o mediante los descansos.
 - **El kiai time solo debe usarse para el coro o las partes destacadas de una canción.** Los destellos del kiai/kiais cortos no se recomiendan por varias razones: perturban la experiencia de juego, especialmente para los usuarios con ordenadores de gama baja, y pueden causar problemas a los usuarios epilépticos.
@@ -74,7 +74,7 @@ Las pautas pueden ignorarse en **circunstancias excepcionales**. Estas circunsta
 - **Evita seguir varias [capas](/wiki/Music_theory/Layer) de la canción si no está claro qué ritmo se está priorizando.** Los jugadores deben ser capaces de distinguir qué parte de la canción se está siguiendo.
 - **Usa spinners con volumen bajo o silenciosos solo cuando sea adecuado para una sección de la canción con volumen bajo.** En la mayoría de los demás casos, se recomienda encarecidamente contar con sonidos audibles en los spinners.
 - **Las canciones con un BPM variable pueden usar frecuentes cambios en la velocidad de los sliders para mantener constante la velocidad de desplazamiento a la que se mueven las notas.** De este modo, los intervalos de tiempo entre las notas serán fácilmente predecibles y se mejorará la experiencia de juego al evitar las superposiciones debidas a los cambios del BPM.
-- **Evita obstruir visualmente las notas en el campo de juego con spinners activos.** Los spinners cubren la mayor parte de la pantalla, por lo que terminarlos demasiado cerca de las próximas notas puede provocar problemas de lectura. Por lo general, tener 1/2 de distancia entre un spinner y la nota siguiente resuelve esto.
+- **Evita obstruir visualmente las notas en el campo de juego con spinners activos.** Los spinners cubren la mayor parte de la pantalla, por lo que terminarlos demasiado cerca de las próximas notas puede provocar problemas de lectura. Por lo general, tener 1/2 de distancia entre un spinner y la siguiente nota resuelve esto.
 - **Si se usan hitsounds personalizados, deben estar relacionados con el sonido del tambor.** Los tonos más fuertes/graves deben ponerse como Don y los más débiles/agudos como Kat.
 
 ## Dificultades específicas
@@ -86,13 +86,13 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 #### Reglas
 
 - **Si se usa un patrón de 1/2, los patrones deben seguir siendo simples e ir seguidos de una pausa entre las notas.** Los cambios de color o las notas finalizadoras no deben usarse en los patrones como si lo fueran. Para las canciones que siguen un ritmo de swing, este límite es de 1/3.
-- **Las notas deben estar separadas por al menos 1/2 de pulso.** Cualquier cosa más rápida es demasiado compleja para los jugadores principiantes. En cambio, para las canciones que siguen un ritmo de swing, este límite es de 1/3.
+- **Las notas deben estar separadas por al menos 1/2 pulso.** Cualquier cosa más rápida es demasiado compleja para los jugadores principiantes. En cambio, para las canciones que siguen un ritmo de swing, este límite es de 1/3.
 
 #### Pautas
 
 - **Los patrones de 1/1 no deben tener más de siete notas.** Todo lo que sea más largo es probable que resulte demasiado agotador para los jugadores principiantes. Los patrones de este tipo deben ir seguidos de una pausa entre las notas.
 - **El snapping principal debe consistir principalmente en 2/1, 4/1 o ritmos más lentos.** En ocasiones, es aceptable usar ritmos de 1/1.
-- **Debe haber al menos 1/2 de distancia entre un spinner y la nota siguiente.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
+- **Debe haber al menos 1/2 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
 - **Al menos se debe insertar una pausa de 3/1 o más entre las notas después de un mapeo continuo de 32/1 a 36/1.** Usar pausas entre las notas con menos frecuencia es aceptable si el ritmo de la música hace que las pausas entre las notas sean poco intuitivas o si la parte mapeada continuamente es en general más permisiva para el jugador.
 - **Los cambios en la velocidad de los sliders deben usarse con precaución.** Los cambios solo deben producirse en secciones con ritmos diferentes y la velocidad de los sliders no debe variar drásticamente.
 
@@ -117,7 +117,7 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 - **Los patrones de 1/3 no deben tener más de dos notas.** Todo lo que sea más largo depende mucho de la situación y suele ser demasiado complejo para los nuevos jugadores. Estos patrones deben ir seguidos de una pausa entre las notas de 2/1, y los patrones que son de 1/2 o más rápidos deben evitarse durante esta pausa.
 - **Los patrones de 1/2 no deben tener más de siete notas.** Todo lo que sea más largo es probable que resulte demasiado agotador para los jugadores principiantes.
 - **El snapping principal debe consistir principalmente en ritmos de 1/1, 2/1 o más lentos.** En ocasiones, es aceptable usar ritmos de 1/2.
-- **Debe haber al menos 1/2 de distancia entre un spinner y la nota siguiente.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
+- **Debe haber al menos 1/2 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
 - **Al menos se debe insertar una pausa de 2/1 o más entre las notas después de un mapeo continuo de 32/1 a 36/1.** Usar pausas entre las notas con menos frecuencia es aceptable si el ritmo de la música hace que las pausas entre las notas sean poco intuitivas o si la parte mapeada continuamente es en general más permisiva para el jugador.
 - **Los cambios en la velocidad de los sliders deben usarse con precaución.** Los cambios solo deben producirse en secciones con ritmos diferentes y la velocidad de los sliders no debe variar drásticamente.
 
@@ -140,9 +140,9 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 
 #### Pautas
 
-- **Los patrones de 1/6 no deben ser más largos de cuatro notas en un BPM moderado a bajo (alrededor de 140 BPM).** Todo lo que sea más largo es muy situacional y normalmente demasiado complejo. Los patrones de este tipo deben ir seguidos de una pausa entre las notas y deben evitarse a un BPM más rápido.
+- **Los patrones de 1/6 no deben tener más de cuatro notas en un BPM moderado a bajo (alrededor de 140 BPM).** Todo lo que sea más largo es muy situacional y normalmente demasiado complejo. Los patrones de este tipo deben ir seguidos de una pausa entre las notas y deben evitarse a un BPM más rápido.
 - **El snapping principal debe consistir principalmente en 1/2, 1/1 o ritmos más lentos.** En ocasiones, es aceptable usar ritmos de 1/4.
-- **Debe haber al menos 1/2 de distancia entre un spinner y la nota siguiente.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
+- **Debe haber al menos 1/2 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
 - **Al menos se debe insertar una pausa de 3/2 o más entre las notas después de un mapeo continuo de 16/1 a 20/1.** Usar al menos 3 pausas consecutivas entre las notas que sean de 1/1 es un buen reemplazo si el ritmo de la música hace que las pausas sean poco intuitivas o si la parte mapeada continuamente es en general más permisiva para el jugador.
 - **Manipular la velocidad de los sliders está permitido**, pero la velocidad de los sliders solo debe cambiarse para las secciones de la música con ritmos diferentes y no debe ser drásticamente variable.
 - **Los patrones de 1/4 con uno o más cambios de color deben usarse con moderación.** Deben evitarse junto con otros patrones de esta naturaleza porque el público objetivo de este nivel de dificultad no está acostumbrado a los patrones de esta complejidad.
@@ -166,7 +166,7 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 - **Los patrones de 1/8 no deben tener más de dos notas.** Todo lo que sea más largo es muy situacional y normalmente demasiado complejo. Los patrones de este tipo deben ir seguidos de una pausa entre las notas.
 - **Los patrones de 1/4 no deben tener más de nueve notas.** Todo lo que sea más largo es probable que resulte demasiado agotador para el público objetivo de este nivel de dificultad.
 - **El snapping principal debe consistir principalmente en ritmos de 1/2 y ocasionalmente de 1/1.** Los ritmos de 1/4 pueden usarse con más frecuencia en este nivel de dificultad.
-- **Debe haber al menos 1/4 de distancia entre un spinner y la nota siguiente.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
+- **Debe haber al menos 1/4 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
 - **Al menos se debe insertar una pausa de 1/1 o más entre las notas después de un mapeo continuo de 16/1 a 20/1.** Los jugadores pueden agotarse demasiado si no hay suficientes pausas entre las notas o si estas son demasiado cortas.
 - **Los patrones de 1/4 de más de cinco notas deben evitar los cambios de color complicados.** Los patrones más largos con tal complejidad serían demasiado exigentes para el público objetivo de este nivel de dificultad.
 
@@ -180,7 +180,7 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 #### Pautas
 
 - **El snapping principal debe consistir principalmente en ritmos de 1/2 y 1/4.** Los ritmos de 1/4 pueden usarse con mucha frecuencia en este nivel de dificultad.
-- **Debe haber al menos 1/4 de distancia entre un spinner y la nota siguiente.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
+- **Debe haber al menos 1/4 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
 
 #### Pautas para la configuración de la dificultad
 
