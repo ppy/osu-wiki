@@ -31,18 +31,17 @@ tags:
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
-| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) |
-| ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) |
-| ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | [vunyunt](https://github.com/vunyunt) |
+| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) |
+| ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) |
+| ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) |
 
 ### osu!catch
 
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
 | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) |
+| ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) |
-| ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | [Sorceress-osu](https://github.com/Sorceress-osu) |
-| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | [Zoggoth](https://github.com/Zoggoth) |
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) |
 
 ### osu!mania
