@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KEL LAN Tournament 3 Recap
-date: 2025-04-29 12:00:00 +0000
+date: 2025-04-29 10:00:00 +0000
 ---
 
 The third edition of the KEL Tournament has concluded! Join us for the tournament recap, with coverage done directly from the LAN!
