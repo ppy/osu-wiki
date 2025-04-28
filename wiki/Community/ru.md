@@ -1,6 +1,6 @@
 # Сообщество
 
-На этой странице перечислены способы, с помощью которых игроки в osu! могут связаться друг с другом. Если вы ищете возможности внести свой вклад, но не знаете, с чего начать, обязательно прочтите статью [Чем помочь osu!](/wiki/Community/How_you_can_help!)
+На этой странице перечислены способы, с помощью которых игроки в osu! могут взаимодействовать друг с другом. Если вы хотите как-нибудь помочь osu!, но не знаете, с чего начать, обязательно прочтите статью [Чем помочь osu!](/wiki/Community/How_you_can_help!).
 
 ## Места для общения
 
@@ -26,7 +26,7 @@
 - [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
 - [Встречи сообщества osu!](/wiki/Community/osu!_community_meetings)
-- [События номинаторов](/wiki/Community/Beatmap_Nominator_events)
+- [Ивенты среди номинаторов](/wiki/Community/Beatmap_Nominator_events)
 
 ## Медиа
 
