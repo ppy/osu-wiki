@@ -4,11 +4,12 @@ Esta página enumera las formas en que las personas de todo osu! pueden ponerse 
 
 ## Lugares
 
+- [Servidor oficial de Discord de osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
 - [Servidores de Discord de la comunidad](/wiki/Community/Discord_servers)
 - [Foro](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [Servidor oficial de Discord de osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
 - [Organizaciones fuera de línea](/wiki/Community/Organisations)
+- [Reddit](/wiki/Community/Reddit)
 
 ## Proyectos
 
@@ -22,6 +23,8 @@ Esta página enumera las formas en que las personas de todo osu! pueden ponerse 
 
 ## Iniciativas
 
+- [Eventos de los Beatmap Nominators](/wiki/Community/Beatmap_Nominator_events)
+- [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event)
 - [Reuniones con la comunidad](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
 
@@ -30,6 +33,7 @@ Esta página enumera las formas en que las personas de todo osu! pueden ponerse 
 - [Música hecha a medida](/wiki/Community/Bespoke_music)
 - [Mangas](/wiki/Community/Manga)
 - [Series de vídeos](/wiki/Community/Video_series)
+  - [lazer updates](/wiki/Community/Video_series/lazer_updates)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
   - [osu!talk](/wiki/Community/Video_series/osu!talk)

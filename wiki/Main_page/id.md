@@ -15,7 +15,7 @@ Selamat datang di osu! wiki, basis pengetahuan open-source yang mengandung berba
 
 Berbagai artikel dan panduan penting yang akan membantu kamu untuk mendalami osu!. Apabila kamu menemui masalah atau merasa ragu akan hal tertentu, jangan sungkan untuk mengunjungi [forum Help](https://osu.ppy.sh/forum/5).
 
-[Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
+[Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat bantuan](/wiki/Help_centre)
 
 [Konsol chat](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Panduan](/wiki/Guides) • [Glosarium](/wiki/Sitemap)
 
@@ -24,7 +24,7 @@ Berbagai artikel dan panduan penting yang akan membantu kamu untuk mendalami osu
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali seluk-beluk permainan ini lebih jauh, mulai dari pengaturan dan pilihan kustomisasi yang tersedia hingga ragam format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali seluk-beluk permainan ini lebih jauh, mulai dari pengaturan dan pilihan kustomisasi yang tersedia hingga format berkas yang osu! gunakan.
 
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol pintasan](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
@@ -94,7 +94,7 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
 </div>
 <div class="wiki-main-page-panel">
 
-# Komunitas dan proyek
+# [Komunitas](/wiki/Community) dan [proyek](/wiki/Community/Projects)
 
 Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas dan kontes yang berlangsung, jalinlah hubungan dengan pengguna lain, atau jadilah bagian dari event besar selanjutnya!
 

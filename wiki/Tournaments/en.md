@@ -46,6 +46,7 @@ Official tournaments organised by the osu! team.
 | [osu!taiko World Cup 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=ID }:: Indonesia |
 | [osu!taiko World Cup 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Germany |
 | [osu!taiko World Cup 2024](TWC/2024) | 2024-03-16 | 2024-04-28 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: United Kingdom | ::{ flag=US }:: United States |
+| [osu!taiko World Cup 2025](TWC/2025) | 2025-03-15 | 2025-04-27 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=TW }:: Taiwan |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -956,7 +957,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 2021-12-20 | 2022-03-20 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 | [Touhou Project Mania Cup 3rd](TMC/3rd) | 2023-04-17 | 2023-07-16 | Bloxy cola | Winx Club | Mew's Bodyguards |
-| [Touhou Project Mania Cup 4th](TMC/4th) | 2024-12-22 | 2025-03-30 | *TBD* | *TBD* | *TBD* |
+| [Touhou Project Mania Cup 4th](TMC/4th) | 2024-12-22 | 2025-04-06 | Mahjong Soul Official | Gravity Coil | Girlfriend ASMR |
 
 ### Multimode
 
