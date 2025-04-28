@@ -25,7 +25,7 @@ Untungnya, tidak sulit bagi kamu untuk ikut membantu menjaga keamanan ini. Berik
 
 ## Bantu anggota komunitas lainnya
 
-Apabila kamu menemui seseorang yang mengalami masalah dengan permainan mereka, berikanlah bantuanmu! Baik itu masalah seputar driver, beatmap, atau permainan — apabila kamu tahu solusinya, kamu dapat membantu mereka untuk menyelesaikan masalah yang ada.
+Apabila kamu menemui pengguna lain yang mengalami masalah dengan permainan mereka, berikanlah bantuanmu! Baik itu masalah seputar driver, beatmap, atau permainan — apabila kamu tahu solusinya, kamu dapat membantu mereka untuk menyelesaikan masalah yang ada.
 
 <!-- TODO: add ways to help outside of forums -->
 
@@ -39,7 +39,7 @@ Berikut merupakan bagaimana kamu dapat mulai membantu pengguna lain pada forum:
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
 - Baca topik yang tersemat pada forum untuk mempelajari peraturan masing-masing sub-forum dan segala informasi berguna yang terkandung di dalamnya.
 - Gunakan tombol `Tandai forum ini sebagai telah dibaca` yang terdapat pada bagian atas forum.
-- Ikuti segala utas baru yang muncul dan bantu jawab pertanyaan yang diajukan ketika kamu bisa membantu — kamu dapat menggunakan ikon belum dibaca (*unread*) untuk memastikan kamu tetap terkini.
+- Ikuti segala utas baru dan bantu jawab pertanyaan yang muncul ketika kamu bisa membantu — kamu dapat menggunakan ikon belum dibaca (*unread*) untuk memastikan kamu tetap terkini.
 - Baca berbagai [panduan yang tersedia](/wiki/Guides) untuk mengasah pengetahuan osu! kamu. Apabila kamu tidak puas dengan panduan yang telah ada, kamu dapat menambahkan kontribusimu sendiri ke dalam panduan ini!
 
 ## Bantu periksa/berikan mod pada beatmap!
@@ -48,7 +48,7 @@ osu! memiliki tim peninjau khusus ([Beatmap Nominator](/wiki/People/Beatmap_Nomi
 
 - Telusuri atau cari artis atau lagu yang kamu suka dan/atau yang ingin kamu bantu periksa pada [daftar beatmap Pending](https://osu.ppy.sh/beatmapsets?s=pending).
 - Mainkan beatmap yang sedang berstatus [*Pending* atau *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) dan tinggalkan tanggapanmu pada halaman diskusi beatmap.
-- Pelajari [panduan modding](/wiki/Modding) dan [kriteria ranking](/wiki/Ranking_criteria) untuk mengetahui prinsip dasar modding dan hal-hal apa saja yang membuat suatu beatmap layak untuk di-rank.
+- Pelajari [panduan modding](/wiki/Modding) dan [kriteria ranking](/wiki/Ranking_criteria) untuk mengetahui prinsip dasar modding dan hal-hal apa saja yang menjadikan suatu beatmap layak untuk di-rank.
 - Bergabunglah ke kanal percakapan `#mapping` dan `#modreqs` di chat dan ikuti atau jadilah bagian dari percakapan yang berlangsung.
 - Apabila kamu memiliki waktu dan ketekunan, buatlah [antrian modding](https://osu.ppy.sh/community/forums/60) (*modding queue*) untuk memberi tempat bagi mapper lain untuk meminta mod kepadamu.
 
