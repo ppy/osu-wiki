@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KEL LAN Tournament 3 Recap
-date: 2025-04-23 12:00:00 +0000
+date: 2025-04-29 12:00:00 +0000
 ---
 
 The third edition of the KEL Tournament has concluded! Join us for the tournament recap, with coverage done directly from the LAN!
@@ -12,23 +12,29 @@ After the tournament's qualifiers concluded in December of last year, [21 differ
 
 All of this culminated in an exciting weekend in Gdańsk, Poland, where from Feb 8th–Feb 9th the community gathered, met their favourite players and content creators, and got the chance to witness top-tier gameplay live in the Kinguin Esports Lounge!
 
+If you are interested in checking out a video recap of this event, check out [Walavouchey](https://osu.ppy.sh/users/5773079)'s video below!
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dA__XuJHNS0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Day 1
 
 The tournament officially kicked off on Saturday 8th at 12:00 UTC with Round of 32, but players showed up early to get familiar with the space, get their gear set up, and prepare for the upcoming matches. The players were all situated in separate LAN rooms where anyone could walk in while they were warming up, but could also be closed off in order to allow players to concentrate on their matches.
 
-![](/wiki/shared/news/2025-04-23-kel-lan-tournament-3-recap/lan-room-1.jpg)
+![](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/lan-room-1.jpg)
 
 While all that was happening, the production staff were getting ready to start the first stream of the weekend. Various camera setups for the audience and LAN rooms, the main stage audio and video, and the entire stream setup were all getting final touches after yesterday's preparations.
 
 While major preparation already took place yesterday, there were issues here and there that kept cropping up, so the staff were on their feet the entire day making sure that all the players got a fair chance at playing without any technical difficulties, and that the stream ran smoothly.
 
-![](/wiki/shared/news/2025-04-23-kel-lan-tournament-3-recap/crowd-cam.jpg)
+![](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/crowd-cam.jpg)
 
-![](/wiki/shared/news/2025-04-23-kel-lan-tournament-3-recap/stream-setup.jpg)
+![](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/stream-setup.jpg)
 
 Once everything was set up, the stream was started, and the Round of 32 commenced without any... major issues.
 
-![](/wiki/shared/news/2025-04-23-kel-lan-tournament-3-recap/obs-crash.jpg)
+![](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/obs-crash.jpg)
 
 The goal for the first day was to have all matches between Round of 32 and Quarterfinals played out, which required immense effort on all sides to achieve. As for the matches themselves, the first part of the tournament was unremarkable in terms of matches, as most of them played out very one-sided, with a couple of exceptions.
 
@@ -114,19 +120,19 @@ It would all culminate in a final showdown on [Camellia feat. Nanahira - Touryou
 
 After all was said and done, no one was able to conquer the final boss, and ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) would be crowned the victor.
 
-![](/wiki/shared/news/2025-04-23-kel-lan-tournament-3-recap/podium.jpg)
+![](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/podium.jpg)
 
 After dominating the bracket in its entirety (with ::{ flag=UA }:: [RafPGio](https://osu.ppy.sh/users/13705417) being the only player to take more than 1 point from them, winning 3 points total), they would beat ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) in a convincing fashion, with a final score of 7–1.
 
 A group photo was taken with all the attendees, staff and players, and that marked the end of the stream, and the 3rd edition of KEL.
 
-![](/wiki/shared/news/2025-04-23-kel-lan-tournament-3-recap/group-photo.jpg)
+![](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/group-photo.jpg)
 
 Some fun was had after the fact, with ::{ flag=PL }:: [Graf](https://osu.ppy.sh/users/4448391) and ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286) facing ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828) and ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) in a 2v2 on nostalgic osu! maps, using insanely unhinged skins that covered the entire playfield. To add to the insanity, one player was aiming, and the other tapping!
 
-![](/wiki/shared/news/2025-04-23-kel-lan-tournament-3-recap/rafis-and-graf.jpg)
+![](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/rafis-and-graf.jpg)
 
-![](/wiki/shared/news/2025-04-23-kel-lan-tournament-3-recap/www-and-bartek.jpg)
+![](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/www-and-bartek.jpg)
 
 ---
 
