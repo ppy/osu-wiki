@@ -50,7 +50,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!. Las 
 
 ## Dificultades específicas
 
-Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de dificultad para el que se indican y, por lo tanto, *no se aplican a **todas** las dificultades de osu!*. Las reglas y pautas relacionadas con el ritmo se aplican a los beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalar el BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
+Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de dificultad para el que se indican y, por lo tanto, *no se aplican a **todas** las dificultades de osu!*. Las reglas y pautas relacionadas con el ritmo se aplican a los beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Nombres de las dificultades
 
