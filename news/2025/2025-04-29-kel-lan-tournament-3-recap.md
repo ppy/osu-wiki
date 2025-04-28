@@ -66,7 +66,7 @@ In the end, ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706) showe
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/6Fqv7anZ.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-04-29-kosiarek-vs-ninerik.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -112,7 +112,7 @@ It would all culminate in a final showdown on [Camellia feat. Nanahira - Touryou
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/5rSWRNIT.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-04-29-milosz-vs-ninerik.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
