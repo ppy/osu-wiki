@@ -21,7 +21,7 @@ tags:
 
 ### osu!taiko
 
-- ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208)
+- ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208)
 - ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728)
 - ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163)
 - ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982)

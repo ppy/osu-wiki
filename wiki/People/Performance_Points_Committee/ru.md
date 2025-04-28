@@ -30,7 +30,7 @@ tags:
 
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
-| ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
+| ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
 | ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) |
 | ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) |
