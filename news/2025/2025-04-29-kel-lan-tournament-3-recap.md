@@ -96,7 +96,7 @@ At the beginning when both players traded points, it seemed as if this was going
 
 ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286) had built up a slight lead in the first half, but started to lose momentum, and only won 1 of the 5 last maps. This gave ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) an opportunity to seize victory, which they ended up doing with a score of 6–4.
 
-### ::{ flag=PL }:: milosz vs. ::{ flag=NO }:: NINERIK (Grandfinals)
+### ::{ flag=PL }:: milosz vs. ::{ flag=NO }:: NINERIK (Grand Finals)
 
 [View the match information here!](https://osu.ppy.sh/community/matches/117119436)
 
