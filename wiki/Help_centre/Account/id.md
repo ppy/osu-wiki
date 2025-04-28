@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - profile
   - issue
@@ -14,123 +15,119 @@ tags:
   - profil
   - isu
   - pencurian
-  - pembatasan akun
+  - pembatasan
   - bendera
-  - piranti
+  - perangkat
   - nama pengguna
   - penghapusan
-outdated_translation: true
-outdated_since: 56ef96e783e017921593b286c0d744de40c16168
 ---
 
 # Akun
 
-*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
+*Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap simak artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
+Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di bawah ini untuk mencari tahu apakah terdapat solusi atas masalahmu.
 
 ## Supporter {id=supporter}
 
-### Saya merasa telah membayar sesuai dengan biaya yang ditagihkan, namun supporter tag yang saya pesan belum saya terima! {id=missing-supporter}
+### Saya telah membayar untuk tag supporter saya, namun saya masih belum menerima tag ini! {id=missing-supporter}
 
-**Dalam kasus-kasus tertentu, biro-biro pembayaran *online* (semisal PayPal atau Xsolla) terkadang membutuhkan waktu yang lebih untuk dapat memproses transaksi yang kamu lakukan.**
+**Tergantung dari layanan pembayaran yang kamu gunakan (PayPal atau Xsolla), kamu mungkin akan menemui sedikit jeda dengan pembayaranmu sebelum pembayaran ini sampai ke kami.**
 
-Pada umumnya, transaksi kamu akan terproses secara otomatis dan supporter tag yang kamu pesan akan dapat kamu terima dalam kurun waktu beberapa jam.
+Pada umumnya, masalah ini akan terselesaikan dengan sendirinya dalam beberapa jam, dan sistem kami akan menerapkan tag ini secara otomatis ke dalam akunmu setelahnya.
 
-Apabila kamu belum menerima supporter tag yang kamu pesan setelah 24 jam, harap hubungi kami melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh).
+Apabila 24 jam telah berlalu dan kamu masih juga belum menerima tag supporter yang kamu pesan, silakan kirimkan email ke alamat [support@ppy.sh](mailto:support@ppy.sh) dan beri tahu kami seputar masalahmu.
 
-Pastikan kamu melampirkan bukti-bukti pembayaran yang terkait (semisal ID transaksi PayPal atau resi digital Xsolla) dalam email yang hendak kamu kirim - bukti-bukti pembayaran ini akan sangat membantu kami dalam menangani masalahmu!
+Pastikan untuk menyertakan segala resi yang kamu terima dalam proses ini (ID transaksi PayPal, bukti pembayaran Xsolla, dll.) — resi ini akan sangat membantu kami dalam menelusuri apa yang terjadi dengan pembayaranmu!
 
-## Pembatasan akun (account restriction) {id=restriction}
+## Pembatasan akun {id=restriction}
 
-### Apa yang dimaksud dengan pembatasan akun (account restriction) dan “akun yang di-restrict”? {id=what-is-restriction}
+### Apa itu mode "restricted"? {id=what-is-restriction}
 
-**Pembatasan akun (*account restriction*) merupakan salah satu bentuk hukuman yang utamanya dijatuhkan kepada para pengguna yang telah melakukan pelanggaran berat terhadap peraturan yang berlaku. Para pengguna yang akunnya di-*restrict* hanya dapat berinteraksi dengan sangat terbatas dengan pengguna-pengguna lainnya, di mana mereka tidak dapat mengobrol, bermain *multiplayer*, ataupun mencetak skor secara *online*.**
+**Pengguna dengan akun yang dibatasi (*restricted*) akan dilarang untuk dapat berinteraksi dengan komunitas dalam segala artian, baik itu secara sementara maupun permanen — yang di antaranya meliputi mengobrol, bermain *multiplayer*, dan mencetak skor pada papan peringkat.**
 
-Apabila kamu tidak yakin mengapa akunmu di-*restrict*, kamu dapat meminta penjelasan kepada tim layanan dukungan kami.
+Apabila akunmu telah dibatasi, kamu akan dapat mengetahui alasannya setelah kamu berbicara dengan tim layanan dukungan kami.
 
-Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki. Dalam situasi di mana kamu telah terbukti melanggar, kamu harus menunggu setidaknya tiga (3) bulan terhitung dari tanggal pelanggaran terakhir yang kamu lakukan sebelum banding yang kamu ajukan dapat kami terima.
+Dalam situasi di mana kami benar-benar yakin bahwa kamu terlibat dalam tindak kecurangan atau penyalahgunaan, kami akan meminta kamu untuk menunggu selama **tiga (3) bulan** terhitung dari tanggal pelanggaran terakhirmu sebelum kami dapat mempertimbangkan banding yang kamu ajukan.
 
-Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_centre/Account_restrictions)* untuk informasi lebih lanjut mengenai sistem pembatasan akun dan proses banding yang berlaku.
+Silakan rujuk halaman [Pembatasan akun](/wiki/Help_centre/Account_restrictions) untuk informasi lebih lanjut seputar pembatasan ini dan proses banding yang berlaku.
 
 ## Larangan turnamen {id=tournament-bans}
 
 ### Apa itu larangan turnamen? {id=what-is-tournament-ban}
 
-Larangan turnamen merupakan larangan pada pemain untuk dapat berpartisipasi pada seluruh turnamen resmi.
+Sesuai dengan namanya, larangan turnamen (*tournament ban*) merupakan larangan bagi pengguna untuk dapat berpartisipasi dalam seluruh turnamen yang didukung secara resmi.
 
-Seorang pengguna dapat dikenakan larangan turnamen jika pengguna secara sengaja melanggar peraturan komunitas osu! selama bermain dalam turnamen, tergantung dari tingkat pelanggarannya. Sebagai contoh perilaku buruk tersebut yaitu mencoba untuk mendapatkan keuntungan yang tidak adil pada turnamen resmi, berperilaku kasar pada semua pihak yang terlibat dalam turnamen, atau secara sengaja melakukan tindakan yang mengganggu jalannya turnamen.
+Silakan rujuk halaman [Larangan turnamen](/wiki/Help_centre/Tournament_bans) untuk informasi lebih lanjut seputar topik ini.
 
-Secara umum, larangan turnamen memiliki durasi dari 3 bulan hingga lebih dari setahun. Bahkan larangan dapat bersifat permanen. Meskipun demikian, semua larangan turnamen bersifat **final** dan tidak dapat diajukan banding seperti pembatasan akun.
+## Entri masuk {id=sign-in}
 
-## Proses login {id=sign-in}
+### Saya tidak ingat nama pengguna dan kata sandi saya! {id=lost-access}
 
-### Saya tidak ingat nama pengguna dan kata sandi milik saya! {id=lost-access}
+**Apabila kamu masih memiliki akses ke alamat email yang kamu gunakan untuk mendaftar, silakan gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk mengklaim kembali akunmu secara otomatis.**
 
-**Apabila kamu masih memiliki akses ke alamat email yang kamu gunakan untuk mendaftar, harap ikuti instruksi-instruksi yang tertera pada [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset) untuk dapat memulihkan akunmu.**
+Apabila hal ini tidak membantumu (atau apabila kamu tidak lagi memiliki akses ke alamat email pendaftaranmu), silakan kirimkan email ke [tim layanan dukungan kami](mailto:accounts@ppy.sh) dengan informasi yang selengkap-lengkapnya untuk membantu kami mengenali dirimu sebagai pemilik akun yang bersangkutan.
 
-Apabila kamu sudah tidak dapat mengakses alamat email yang bersangkutan karena satu dan lain hal, harap [kirimkan email kepada tim layanan dukungan kami](mailto:accounts@ppy.sh) yang berisikan informasi selengkap-lengkapnya seputar akun yang kamu miliki.
+Beberapa contoh informasi yang baik untuk dicantumkan pada email ini meliputi antara lain:
 
-Berikut merupakan beberapa contoh informasi yang dapat membantu kami dalam memulihkan akunmu:
+- Alamat email yang kamu gunakan untuk mendaftar, atau alamat email lain mana pun yang pernah terhubung dengan akunmu sejak pertama kali didaftarkan
+- Resi pembelian tag osu!supporter atau item lainnya dari osu!store
+- Tanggal terakhir di mana kamu ingat kamu masih dapat mengakses akunmu secara normal
+- Segala informasi pengenal lainnya yang kamu yakini dapat berguna (kecuali skor dan tayangan ulang, karena kedua hal ini tidak akan dapat banyak membantu kami!)
 
-- Alamat email yang kamu gunakan pertama kali untuk mendaftarkan akunmu (serta alamat-alamat email lainnya yang berhubungan)
-- Bukti-bukti pembelian osu!supporter tag (atau barang-barang lainnya dari osu!store) yang kamu miliki
-- Tanggal terakhir kamu mengakses akunmu
-- Informasi-informasi lainnya yang kamu rasa dapat membantu (kecuali skor dan *replay*)
+### Akun saya telah dicuri! {id=account-theft}
 
-### Akun saya telah dicuri oleh pihak lain! {id=account-theft}
+**Coba gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memeriksa apakah alamat email akunmu masih valid.**
 
-**Harap periksa apakah kamu mampu untuk mengatur ulang kata sandi milikmu melalui [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset).**
+Apabila cara ini berhasil, kamu akan dapat mengatur ulang kata sandimu tanpa bantuan dari staf layanan dukungan.
 
-Apabila kamu mampu, ikuti instruksi-instruksi yang tertera pada laman yang bersangkutan untuk dapat memulihkan akunmu sepenuhnya.
+Apabila hal ini tidak membantumu, silakan kirimkan kami tiket layanan dukungan (*support ticket*) sesegera mungkin ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan sebanyak-banyaknya informasi pengenal yang dapat membantu kami mengenali dirimu sebagai pemilik akun yang bersangkutan.
 
-Sebaliknya, apabila kamu tidak mampu, harap segera hubungi layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan mencantumkan informasi selengkap-lengkapnya seputar akun yang kamu miliki.
+Kamu akan sangat terbantu apabila kamu mengirimkan email dari alamat email pendaftaranmu, serta apabila kamu mencantumkan sebanyak-banyaknya informasi yang hanya dapat diketahui oleh kamu selaku pemilik akun.
 
-Kami sangat menyarankan kamu untuk menghubungi kami melalui alamat email yang kamu pertama kali gunakan untuk mendaftarkan akunmu. Di samping itu, kami juga akan sangat terbantu apabila kamu dapat menyertakan informasi seputar hal-hal yang sekiranya hanya dapat diketahui olehmu dan tim kami.
+Mohon untuk tidak melampirkan data tayangan ulang atau skor di dalam tiketmu — kami tidak dapat menggunakan kedua hal ini untuk memverifikasi kepemilikan akunmu.
 
-Harap untuk tidak menyertakan informasi seputar skor-skor dan *replay-replay* yang pernah kamu torehkan - informasi-informasi demikian pada umumnya sangat rawan dipalsukan dan tidak dapat kami gunakan sebagai bukti yang kuat untuk memulihkan akunmu.
+### Apa arti dari pesan 'Bancho authentication error' yang terus-menerus saya terima? {id=authentication-error}
 
-### Mengapa saya terus-menerus mendapatkan pesan 'Bancho authentication error'? {id=authentication-error}
-
-**Pesan tersebut pada umumnya muncul akibat terdapatnya suatu masalah jaringan yang membuat klien osu! milikmu tidak dapat terhubung ke server yang kami miliki.**
+**Pesan ini pada umumnya menandakan bahwa terdapat masalah jaringan antara kamu dan server kami.**
 
 Terdapat beberapa hal yang dapat kamu coba untuk menyelesaikan masalah ini:
 
-#### Apakah kamu sudah memasukkan kata sandi milikmu dengan benar? {id=authentication-wrong-password}
+#### Apakah kamu telah kamu memasukkan kata sandimu dengan benar? {id=authentication-wrong-password}
 
-Apabila kamu melupakan kata sandimu, kamu dapat mengatur kata sandi baru pada [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset).
+Apabila kamu telah lupa kata sandimu, kamu dapat menggunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memulihkan akses menuju akunmu.
 
-#### Apakah kamu sedang berada di dalam suatu proxy server atau jaringan VPN? {id=authentication-vpn}
+#### Apakah kamu sedang menggunakan server proxy atau VPN? {id=authentication-vpn}
 
-**Cobalah untuk keluar dari *proxy server* atau jaringan VPN yang sedang kamu gunakan.**
+**Menonaktifkan hal ini sebelum mencoba untuk menghubungkan ulang kemungkinan besar akan menyelesaikan masalahmu.**
 
-Sepengetahuan kami, terdapat beberapa penyedia jasa layanan *proxy server* dan jaringan VPN yang koneksinya tidak kompatibel dengan osu! karena satu dan lain hal.
+Layanan VPN dan server proxy tertentu tidak dapat bekerja dengan osu! karena satu dan lain hal.
 
-### Saya telah mencoba solusi-solusi di atas, namun saya masih mendapatkan pesan error yang sama! {id=authentication-unknown-cause}
+### Saya masih menerima pesan kesalahan ini! {id=authentication-unknown-cause}
 
-**Harap kirimi kami berkas `network.log` milikmu agar kami dapat membantumu lebih lanjut.**
+**Kami akan memerlukan berkas `network.log` darimu untuk mencari tahu apa yang terjadi apabila kedua solusi di atas tidak membantu.**
 
-Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/Help_centre#log-files).
+Untuk informasi lebih lanjut seputar cara memperoleh berkas `network.log` ini untuk dikirimkan kepada kami, lihat [Pusat bantuan § Berkas log](/wiki/Help_centre#log-files).
 
-Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (*Internet Service Provider*/ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
+Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia layanan internet (ISP) kamu untuk menanyakan seputar masalah ini. ISP tertentu dikenal memiliki kendala dalam menghubungkan diri mereka ke osu!, yang pada umumnya disebabkan oleh pemetaan rute jaringan (*routing*) yang buruk.
 
-### Saya mendapatkan pesan dari situs web osu! yang memperingatkan bahwa saya telah terlalu banyak melakukan percobaan login yang tidak valid! {id=sign-in-throttling}
+### Situs web osu! memberi tahu saya bahwa saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
 
-**Jangan panik. Hal ini merupakan tindakan preventif yang kami ambil untuk menghindari hal-hal yang tidak diinginkan. Cobalah untuk *login* kembali setelah 10-20 menit.**
+**Hal ini merupakan langkah perlindungan sementara yang diambil oleh sistem kami setelah upaya masuk yang berulang kali gagal ke dalam akunmu. Cobalah untuk masuk kembali setelah 10-20 menit.**
 
-Apabila kamu menemui pesan ini, harap bersabar sebelum kamu mencoba untuk *login* kembali.
+Apabila hal ini terjadi kepadamu, cukup tunggu sejenak dan coba untuk masuk kembali di kemudian waktu.
 
-Pada umumnya, pesan ini akan hilang dengan sendirinya setelah beberapa menit. Apabila kamu masih ragu, kamu dapat menunggu hingga setidaknya satu atau dua jam agar lebih yakin.
+Selambat-lambatnya, peringatan ini akan berakhir setelah beberapa jam, di mana kamu akan dapat masuk kembali ke akunmu setelahnya.
 
-### Saya tidak menerima email apapun dari osu!/Saya tidak ingat alamat email saya! {id=email-issues}
+### Saya tidak menerima email apa pun dari osu!/Saya lupa alamat email saya! {id=email-issues}
 
-**Periksa apakah terdapat kekeliruan pada alamat email yang terhubung dengan akunmu.**
+**Ada kemungkinan alamat email milik akunmu saat ini sedang bermasalah.**
 
-Apabila kamu dapat mengakses akunmu, kunjungi [laman pengaturan akun berikut](https://osu.ppy.sh/home/account/edit) dan periksa apakah alamat email yang tertera pada kolom Email sudah benar adanya. Apabila terdapat kekeliruan, perbaiki kesalahan tersebut dan klik `perbarui` setelahnya.
+Apabila kamu masih ingat alamat email yang terhubung ke akunmu, atau apabila kamu setidaknya masih merasa ingat, cobalah untuk mengunjungi bagian Email pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit) untuk mengubah alamat emailmu. Isi seluruh kolom yang diperlukan dan klik `Perbarui` setelah kamu selesai.
 
-Apabila kamu tidak dapat mengakses akunmu karena satu dan lain hal, atau apabila kamu sudah tidak ingat lagi alamat email yang pertama kali kamu gunakan untuk mendaftarkan akunmu, harap hubungi kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). Harap sertakan informasi-informasi yang sekiranya dapat kami gunakan untuk memulihkan akunmu, seperti nama penggunamu, *screenshot* yang membuktikan bahwa kamu pernah menggunakan akun yang bersangkutan, bukti-bukti pembelian supporter tag yang kamu miliki, dan lain sebagainya.
+Apabila kamu telah kehilangan kata sandi akunmu dan tidak menerima email pengaturan ulang kata sandi mana pun, atau apabila kamu benar-benar sudah tidak ingat alamat email yang kamu gunakan, silakan hubungi kami pada [accounts@ppy.sh](mailto:accounts@ppy.sh). Segala informasi yang kamu miliki seputar akunmu (nama penggunamu, tangkapan layar mana pun yang menampilkan kamu sedang terhubung masuk ke klien permainan, rekaman transaksi osu!store atau pembayaran supporter, dll.) akan sangat membantumu di sini!
 
-Di samping itu, berdasarkan pengalaman kami, terdapat layanan-layanan penyedia email tertentu yang tidak dapat menerima email dari osu! karena satu dan lain hal. Apabila kamu menggunakan alamat email yang berasal dari salah satu layanan penyedia email berikut, harap hubungi kami dengan menggunakan alamat email yang berbeda dan kami akan mengatur ulang alamat email akunmu setelahnya:
+Terakhir, kami juga mengetahui bahwa terdapat beberapa layanan email yang menolak email otomatis dari kami. Apabila kamu menggunakan salah satu layanan email di bawah ini, silakan hubungi kami melalui email dan kami akan mengubah alamat email kamu untukmu:
 
 - `att.net`
 - `bellsouth.net`
@@ -140,103 +137,113 @@ Di samping itu, berdasarkan pengalaman kami, terdapat layanan-layanan penyedia e
 - `sbcglobal.net`
 - `t-online.de`
 
-## Penggantian nama pengguna {id=name-changes}
+## Perubahan nama {id=name-changes}
 
-### Apakah saya dapat mengganti nama pengguna yang saya miliki? {id=change-username}
+### Apakah saya dapat mengubah nama pengguna milik akun saya? {id=change-username}
 
-**Tentu saja kamu bisa!**
+**Tentu saja bisa!**
 
-Apabila sebelumnya kamu pernah memiliki [supporter tag](https://osu.ppy.sh/home/support), kamu memiliki **satu kesempatan** untuk dapat mengubah nama penggunamu secara cuma-cuma melalui [laman osu!store berikut](https://osu.ppy.sh/store/products/32).
+Apabila kamu sudah pernah membeli (atau dihadiahkan) [tag supporter](https://osu.ppy.sh/home/support), kamu akan dapat mengubah nama penggunamu **sebanyak satu kali** secara cuma-cuma. Perubahan nama pengguna ini dapat diklaim pada halaman [osu!store](https://osu.ppy.sh/store/products/32).
 
-Apabila setelahnya kamu ingin [kembali mengganti nama penggunamu](https://osu.ppy.sh/store/products/32), kamu harus membayar sejumlah uang yang jumlahnya semakin meningkat seiring waktu mulai dari $8 USD untuk penggantian nama kedua, $16 USD untuk penggantian nama ketiga, dan seterusnya hingga maksimal $100 USD. Skema ini sendiri kami terapkan untuk mencegah terdapatnya pihak-pihak yang menyalahgunakan layanan penggantian nama ini dengan itikad yang tidak baik.
+Setelahnya, kamu akan dapat membeli [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) untuk mengubah nama penggunamu lebih lanjut kapan pun yang kamu mau. Meskipun demikian, setiap perubahan yang kamu beli akan menjadi semakin mahal seiring waktunya — perubahan kedua kamu akan dikenakan biaya $8 USD, perubahan ketiga $16 USD, dan seterusnya hingga batas $100 USD. Kami menerapkan hal ini demi mencegah orang-orang menyalahgunakan sistem ini untuk mengubah nama pengguna mereka secara terus-menerus dengan cepat.
 
-Harap diingat bahwa nama pengguna yang hendak kamu pilih harus sesuai dengan [Peraturan Komunitas](/wiki/Rules#peraturan-komunitas) yang berlaku, di mana nama yang bersangkutan tidak boleh mengandung unsur-unsur yang ofensif, provokatif, ataupun menghina dari segi apapun. Di samping itu, kami juga tidak membenarkan penggunaan nama yang ditujukan untuk meniru tokoh-tokoh masyarakat (baik itu artis, politisi, ataupun yang lainnya); apabila kamu tidak patuh, kami berhak untuk mengembalikan nama penggunamu seperti sedia kala.
+Mohon diperhatikan bahwa seluruh nama pengguna yang dipilih harus tunduk terhadap [peraturan komunitas](/wiki/Rules#peraturan-komunitas), dalam artian nama ini tidak boleh bersifat menyinggung, provokatif, atau menghasut pengguna lain dalam maksud apa pun. Di samping itu, nama pengguna yang meniru atau menggunakan identitas tokoh publik terkemuka (seperti artis, politisi, dll.) juga tidak diizinkan dan akan digulirkan balik secara paksa pada saat kami menemukan nama ini.
 
-Apabila kamu hanya ingin mengoreksi hal-hal seperti penggunaan huruf besar/kecil atau salah ketik (*typo*) yang ada, kamu dapat menghubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Proses koreksi ini tidak dipungut biaya, namun kamu **HARUS** menghubungi kami melalui email. Harap untuk tidak menggunakan layanan ini secara berlebihan!
+Apabila kamu hanya ingin sedikit mengubah penggunaan huruf kapital atau tata bahasa/ejaan pada namamu, kamu dapat mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta perubahan ini secara cuma-cuma. Kami tidak akan menagihmu untuk perubahan nama yang demikian, namun kamu **HARUS** meminta perubahan ini melalui email dukungan. Mohon diperhatikan bahwa kami hanya akan mengabulkan permintaan ini hingga beberapa kali, jadi pastikan kamu benar-benar menginginkan perubahan ini!
 
-### Apakah saya dapat mengambil nama pengguna yang sebelumnya telah dipakai oleh pengguna lain? {id=take-existing-username}
+### Apakah saya dapat mengambil nama pengguna milik pemain lain? {id=take-existing-username}
 
-**Ya, namun dengan syarat dan ketentuan tertentu.**
+**Ya, namun hanya dalam situasi tertentu.**
 
-Apabila pemilik dari nama pengguna yang hendak kamu ambil tidak tercatat memiliki riwayat permainan apapun dan tidak pernah melakukan *login* dalam kurun waktu setidaknya 6 bulan ke belakang, maka kamu dapat mengambil nama pengguna yang bersangkutan melalui [laman penggantian nama pengguna](https://osu.ppy.sh/store/products/32) seperti biasa.
+Apabila seorang pemain telah tidak terhubung masuk ke osu! selama sekurang-kurangnya 6 bulan dan tidak pernah bermain sama sekali, nama pengguna mereka akan dapat diambil melalui halaman [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) dengan harga yang sesuai dengan harga perubahan nama pengguna pada umumnya.
 
-Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
+Di sisi lain, apabila pengguna ini tercatat **pernah bermain** dalam mode permainan mana pun, waktu yang dibutuhkan untuk dapat mengambil nama pengguna ini akan bertambah mengikuti [fungsi non-linier berikut](https://www.desmos.com/calculator/b89siyv9j8). Hal ini diberlakukan demi mencegah orang-orang untuk dapat mencuri nama pengguna milik pemain yang masih aktif atau baru saja pensiun.
 
-### Apakah saya dapat mengambil kembali nama pengguna saya yang terdahulu? {id=revert-username}
+Di samping itu, nama pengguna milik pemain yang telah memiliki [beatmap Ranked](/wiki/Beatmap/Category#ranked) atau [lencana profil](/wiki/Community/Profile_badge) juga tidak dapat diambil.
 
-**Ya, namun dengan syarat dan ketentuan tertentu.**
+### Apakah saya dapat mengurungkan perubahan nama ini atau kembali ke nama lama saya? {id=revert-username}
 
-Kami membuka layanan pengembalian nama pengguna secara cuma-cuma pada alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
+**Ya, namun hanya dalam situasi tertentu.**
 
-Penggantian-penggantian nama lainnya harus dilakukan melalui [laman osu!store berikut](https://osu.ppy.sh/store/products/32) seperti biasa.
+Kami menerima permintaan untuk mengembalikan nama pengguna ke nama yang paling terakhir dipakai tanpa dipungut biaya. Cukup hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan ajukan permintaan agar namamu dapat dikembalikan.
 
-Kami hanya akan mengabulkan permintaan pengembalian nama sebanyak satu kali per penggunanya, jadi pastikan sebelumnya kamu telah benar-benar yakin dengan keputusanmu!
+Pengembalian ke nama lainnya selain dari yang paling terakhir harus [dibeli dari osu!store](https://osu.ppy.sh/store/products/32).
 
-### Nama pengguna yang baru saja saya ambil tiba-tiba dikembalikan seperti sedia kala! {id=why-username-reverted}
+Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan kamu telah memikirkan keputusan ini secara matang sebelumnya!
 
-**Kami hanya mengembalikan nama-nama pengguna yang kami anggap tidak pantas.**
+### Nama pengguna saya telah dikembalikan ke nama sebelumnya! {id=why-username-reverted}
 
-Apabila nama penggunamu tiba-tiba dikembalikan seperti sedia kala, besar kemungkinan nama pengguna yang kamu gunakan mengandung unsur-unsur yang kami anggap ofensif, provokatif, atau jatuh ke ranah penghinaan. Apabila kamu mengganti nama penggunamu dengan membeli produk yang bersangkutan di osu!store, tim layanan dukungan kami akan memberikanmu kesempatan untuk memilih nama pengguna baru yang lebih pantas.
+**Kami hanya memaksakan pengembalian nama pengguna bagi nama yang kami anggap tidak pantas atau melecehkan.**
 
-Di sisi lain, apabila kamu mengganti nama penggunamu dengan cara lain (semisal dengan memanfaatkan bonus yang kamu dapat ketika kamu membeli supporter tag), tim layanan dukungan kami tidak akan memberikanmu kesempatan untuk memilih nama pengguna baru.
+Apabila kamu menemukan bahwa nama pengguna baru kamu telah dikembalikan, mungkin saja nama pengguna barumu bersifat melecehkan, tidak pantas, atau menyinggung. Kami tidak akan menganulir pengembalian ini dalam situasi apa pun bahkan apabila diminta, namun apabila kamu membeli perubahan nama ini melalui osu!store, kami akan menawarkan satu kali kesempatan bagimu untuk memilih nama pengguna yang baru.
 
-### Apakah saya dapat meminta agar laman profil osu! saya tidak menampilkan nama-nama pengguna yang pernah saya gunakan sebelumnya? {id=hide-username-history}
+Apabila perubahan ini dilangsungkan dengan menggunakan perubahan nama gratis dari pembelian tag supporter, kami tidak akan menawarkan kesempatan ini.
 
-**Ya, namun dengan syarat dan ketentuan tertentu.**
+### Apakah saya dapat menghapus nama pengguna saya terdahulu/riwayat nama pengguna saya? {id=hide-username-history}
 
-Pada umumnya, riwayat nama-nama pengguna yang pernah kamu gunakan akan dapat terlihat pada laman profil osu! milikmu. Apabila kamu berkeberatan akan hal ini dengan alasan privasi (semisal karena nama aslimu tercantum di salah satunya) ataupun alasan-alasan lainnya, harap hubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
+**Dalam situasi tertentu.**
 
-## Masalah-masalah lainnya {id=other}
+Halaman profil kamu akan selalu menampilkan riwayat nama pengguna yang pernah kamu gunakan. Meskipun demikian, kami dapat menghapus nama-nama tertentu yang dapat mendatangkan masalah bagimu. Apabila salah satu nama ini membahayakan privasimu (mis. karena nama ini mengandung nama aslimu) atau dapat membuat privasimu berada dalam bahaya (melalui situs web lain), hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta agar nama ini dihapus.
 
-### Bendera yang tertera pada laman profil osu! saya tidak benar! {id=wrong-flag}
+## Masalah lainnya {id=other}
 
-**Mohon maaf, namun kami tidak dapat mengubah benderamu.**
+### Apakah saya dapat mengubah bendera/negara yang terdapat pada profil akun saya? {id=wrong-flag}
 
-Pada saat kamu pertama kali membuat akun, sistem kami akan secara otomatis memasangkan bendera yang sesuai dengan lokasi pendaftaranmu pada akun milikmu.
+**Ya, dalam situasi tertentu.**
 
-Sebelumnya, kami membuka layanan penggantian bendera kepada para pengguna yang ingin mengubah benderanya dengan catatan mereka memiliki dokumen-dokumen kependudukan yang terkait. Meskipun demikian, karena dalam prakteknya layanan ini telah banyak disalahgunakan, kami memutuskan untuk tidak lagi melanjutkan layanan ini.
+Apabila kamu telah terhubung ke osu! dari negara yang berbeda dengan negara akunmu dalam jangka waktu yang lama, kamu akan diberikan pilihan untuk mengubah negara akunmu pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit).
 
-Harap dimengerti bahwa untuk saat ini kami tidak dapat mengubah benderamu dengan alasan apapun, terlepas dari apakah kamu (atau seseorang yang kamu tahu) sebelumnya pernah menggunakan layanan ini ataupun tidak.
+### Apakah saya dapat membuat lebih dari satu akun? {id=no-multiaccounting}
 
-### Apakah saya dapat memiliki lebih dari satu akun? {id=no-multiaccounting}
+**Sayangnya kamu tidak bisa.**
 
-**Mohon maaf, namun kamu tidak dibenarkan untuk memiliki lebih dari satu akun.**
+Apabila kami mengizinkan semua orang untuk membuat dan bermain pada lebih dari satu akun, papan peringkat Ranked yang ada akan menjadi hampir tidak bernilai!
 
-Apabila kami memperbolehkan para pemain untuk dapat membuat akun sebanyak-banyaknya, maka sistem papan peringkat (*leaderboard*) yang kami miliki akan menjadi tidak berarti!
+Fenomena ini banyak dijumpai pada permainan lain dengan istilah "smurf" — yaitu akun dengan jam terbang yang rendah yang memenuh-menuhi papan peringkat dan mencegah pengguna lain untuk dapat bermain secara kompetitif.
 
-Dalam dunia *gaming*, praktek demikian dikenal dengan istilah “*smurfing*” - situasi di mana para pemain yang berpengalaman dengan sengaja membuat akun-akun baru dan berpura-pura menjadi pemain yang masih polos untuk memperoleh keuntungan-keuntungan tertentu.
+Di osu!, kami sangat menentang pengguna yang memiliki banyak akun, dan kami menegakkan peraturan satu akun per pengguna kami dengan sangat ketat. Kamu hanya dapat bermain dengan akun pertama yang kamu daftarkan tanpa ada kata kecuali!
 
-Oleh karenanya, sejak awal osu! telah menerapkan peraturan di mana masing-masing pengguna hanya dapat memiliki satu akun tanpa terkecuali. Akun yang pertama kali kamu daftarkan adalah akunmu satu-satunya!
+Apabila kamu saat ini memiliki lebih dari satu akun, silakan hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meluruskan situasi ini.
 
-Apabila kamu telah terlanjur memiliki lebih dari satu akun, harap hubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
-
-### Apakah saya dapat menghapus riwayat akun saya dan memulai kembali segala sesuatunya dari nol? {id=statistics-reset}
+### Apakah saya dapat memulai ulang segala sesuatunya dari awal atau menghapus statistik akun saya? {id=statistics-reset}
 
 **Tidak untuk saat ini.**
 
-Kami tengah mempertimbangkan untuk membuka layanan pemutihan skor (*score reset*) melalui osu!store, namun untuk saat ini kami tidak dapat menghapus riwayat akunmu sepenuhnya.
+Kami saat ini tengah mempertimbangkan pembelian pengaturan ulang skor ("'*score reset*") bagi para pemain garis keras yang benar-benar hanya mengincar kesempurnaan, namun untuk saat ini, kami tidak dapat menghapus statistik akunmu.
 
-Hal ini bukan berarti kamu dibenarkan untuk membuat akun baru! Sebagaimana yang tertera pada laman [Peraturan](/wiki/Rules#peraturan-komunitas), masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali.
+Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini! Memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas), dan kami tidak akan segan untuk menonaktifkan akun baru mana pun yang ditemukan oleh tim kami.
 
 ### Apakah saya dapat menghapus akun saya? {id=account-deletion}
 
-*Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*\
-*Perhatian: Akun yang sudah terhapus tidak dapat dikembalikan!*
+*Untuk informasi lebih lanjut seputar penghapusan akun, lihat: [Kebijakan privasi osu! § Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*\
+*Catatan: Penghapusan akun bersifat permanen dan tidak dapat diurungkan!*
 
-Ya, kamu dapat menghapus akunmu dengan menghubungi kami melalui alamat email [privacy@ppy.sh](mailto:privacy@ppy.sh). Harap diingat bahwa akun yang telah dihapus **tidak dapat dikembalikan dengan alasan apapun**. Di samping itu, setelah akunmu dihapus, kamu tidak dibenarkan untuk membuat akun baru karena masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali sesuai dengan [peraturan yang berlaku](/wiki/Rules#peraturan-komunitas).
+Ya, setiap pengguna dapat meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, segala sesuatunya tidak akan dapat dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu dapat membuat akun baru, karena memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas). Dengan menghapus akunmu, kamu tidak akan lagi dapat menggunakan fitur *online* osu! mana pun juga.
 
-### Apakah saya dapat bermain osu! pada komputer yang sebelumnya pernah digunakan oleh pengguna lain? {id=shared-pc}
+### Saya tidak lagi ingin bermain, namun saya tidak ingin akun saya dihapus! {id=account-lock}
 
-**Ya, tentu saja kamu bisa. Kamu juga dapat bermain osu! di warnet ataupun *game center* sesuka hatimu tanpa harus khawatir.**
+Setiap pengguna dapat meminta akun mereka untuk **dikunci** dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Setelah akun ini dikunci, kata sandi milik akun kemudian akan diacak dan alamat email yang ada juga akan dikosongkan, yang mengunci pengguna tersebut dari akun mereka. Demi mencegah penyalahgunaan, terdapat masa tenggang selama satu minggu sebelum kunci ini dapat dibuka kembali.
 
-**Selama kamu hanya menggunakan akun milikmu**, kamu bebas untuk bermain osu! di mana saja!
+Akun yang dikunci akan tetap dapat dilihat secara publik tanpa ada informasi apa pun dalam profilnya yang menunjukkan bahwa akun ini telah dikunci.
 
-Meskipun demikian, apabila kamu bermain osu! di fasilitas umum, kami sangat menyarankanmu untuk senantiasa berhati-hati akan ancaman pencurian data dan lain sebagainya dari pihak-pihak yang tidak bertanggung jawab.
+Untuk membuka kunci akun ini kembali, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dari alamat email yang sama yang menyatakan bahwa kamu ingin untuk membuka kunci akunmu.
 
-### Apakah saya dapat mengetahui beatmap-beatmap apa saja yang pernah saya unduh dan mainkan? {id=all-played-beatmaps}
+*Fitur ini tidak dibuat untuk disalahgunakan.* Penguncian akun seyogyanya menjadi solusi terakhir bagi para pemain yang tidak ingin meninggalkan osu! untuk selama-lamanya, namun memerlukan waktu untuk menjauh dari osu! karena alasan yang jelas.
 
-**Kamu dapat melihat daftar beatmap yang pernah kamu mainkan pada situs web osu!.**
+Kamu dapat mengunci dirimu sendiri dengan cara mengubah alamat email dan kata sandimu ke kumpulan kata atau angka acak yang tidak akan pernah dapat kamu ingat, dan lalu keluar dari akunmu. Hal ini sama adanya dengan proses penguncian di atas. Setelah kamu siap untuk kembali ke komunitas, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) yang berisi permintaan pengaturan ulang kata sandi. Pastikan kamu menggunakan alamat email yang sebelumnya pernah digunakan oleh akunmu.
 
-**Apabila kamu memiliki supporter tag yang aktif**, kamu dapat mengetahui beatmap-beatmap apa saja yang pernah kamu mainkan pada [laman daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan cara membuka menu `Pilihan Pencarian Lebih Lanjut` dan memilih pilihan `Pernah Dimainkan` yang ada pada kolom Riwayat Permainan. Apabila kamu tidak ingin repot, [klik tautan ini](https://osu.ppy.sh/beatmapsets?played=played).
+### Apakah saya dapat bermain pada komputer yang pernah digunakan oleh pengguna lain sebelumnya untuk bermain osu!? {id=shared-pc}
 
-Sayangnya, kami tidak menyimpan data beatmap-beatmap apa saja yang pernah kamu unduh seiring waktunya. Kamu harus menerka-nerka sendiri beatmap-beatmap apa saja yang sekiranya pernah kamu unduh pada tempo hari.
+**Ya, tentu saja. Hal ini meliputi PC yang digunakan secara bersama, seperti yang terdapat pada warnet atau *game center*.**
+
+**Selama kamu hanya bermain dengan akun milikmu sendiri**, kamu dapat bermain osu! dari mana saja!
+
+Apabila kamu bermain dari fasilitas umum, pastikan kamu menjaga keamanan akunmu dengan seksama. Komputer yang digunakan secara bersama pada umumnya sering dijadikan target ancaman oleh perangkat lunak berbahaya.
+
+### Apakah saya dapat memperoleh daftar seluruh map yang pernah saya mainkan atau unduh? {id=all-played-beatmaps}
+
+**Kamu dapat melihat seluruh map yang pernah kamu mainkan pada situs web osu!.**
+
+**Apabila kamu memiliki tag supporter yang aktif**, kamu dapat melihat seluruh map yang memiliki skormu dengan mengunjungi [halaman daftar beatmap](https://osu.ppy.sh/beatmapsets), mengeklik `Pilihan Pencarian Lebih Lanjut`, dan memilih filter `Riwayat Permainan`. Sebagai alternatif, kamu dapat mengakses filter ini secara langsung dengan [mengeklik tautan ini](https://osu.ppy.sh/beatmapsets?played=played).
+
+Sayangnya, kami tidak mencatat beatmap mana saja yang pernah diunduh oleh pengguna. Sekurang-kurangnya, kamu dapat memanfaatkan filter di atas untuk memulihkan beatmap yang pernah kamu mainkan.

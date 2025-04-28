@@ -1,3 +1,8 @@
+---
+outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
+outdated_translation: true
+---
+
 # osu! Alumni
 
 Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se ne sono andati. Quando avremo le risorse ereggeremo una statua per ciascun membro nella piazza della città.
@@ -24,7 +29,7 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=RU }:: [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
 | ::{ flag=AU }:: [Aloda](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=CA }:: [An64fan](https://osu.ppy.sh/users/38836) | BAT |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | GMT |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | BAT, GMT |
 | ::{ flag=GB }:: [aRiskOfRain](https://osu.ppy.sh/users/123790) | BAT |
 | ::{ flag=IT }:: [Armin](https://osu.ppy.sh/users/105902) | BAT |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | QAT, NAT |
@@ -49,6 +54,7 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | GMT, QAT |
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | LVD |
 | ::{ flag=DE }:: [Clobohne](https://osu.ppy.sh/users/499343) | GMT |
 | ::{ flag=TR }:: [Coldrod](https://osu.ppy.sh/users/9065991) | GMT |
 | ::{ flag=CN }:: [Colin Hou](https://osu.ppy.sh/users/196614) | BAT |

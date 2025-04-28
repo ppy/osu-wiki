@@ -22,7 +22,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=RU }:: [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
 | ::{ flag=AU }:: [Aloda](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=CA }:: [An64fan](https://osu.ppy.sh/users/38836) | BAT |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | GMT |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | BAT, GMT |
 | ::{ flag=GB }:: [aRiskOfRain](https://osu.ppy.sh/users/123790) | BAT |
 | ::{ flag=IT }:: [Armin](https://osu.ppy.sh/users/105902) | BAT |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | QAT, NAT |
@@ -47,6 +47,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | GMT, QAT |
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | LVD |
 | ::{ flag=DE }:: [Clobohne](https://osu.ppy.sh/users/499343) | GMT |
 | ::{ flag=TR }:: [Coldrod](https://osu.ppy.sh/users/9065991) | GMT |
 | ::{ flag=CN }:: [Colin Hou](https://osu.ppy.sh/users/196614) | BAT |
@@ -77,6 +78,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | GMT |
 | ::{ flag=US }:: [EiJi](https://osu.ppy.sh/users/2024) | BAT |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) | NAT |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | NAT |
 | ::{ flag=CO }:: [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | Chat-Moderator, GMT |
 | ::{ flag=FI }:: [ethox](https://osu.ppy.sh/users/441380) | Chat-Moderator |
 | ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -206,7 +208,6 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Verwaltung von Turnieren |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!dev |

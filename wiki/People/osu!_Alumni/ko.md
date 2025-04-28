@@ -26,7 +26,7 @@ outdated_translation: true
 | ::{ flag=RU }:: [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
 | ::{ flag=AU }:: [Aloda](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=CA }:: [An64fan](https://osu.ppy.sh/users/38836) | BAT |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | GMT |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | BAT, GMT |
 | ::{ flag=GB }:: [aRiskOfRain](https://osu.ppy.sh/users/123790) | BAT |
 | ::{ flag=IT }:: [Armin](https://osu.ppy.sh/users/105902) | BAT |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | QAT, NAT |
@@ -51,6 +51,7 @@ outdated_translation: true
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | GMT, QAT |
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | LVD |
 | ::{ flag=DE }:: [Clobohne](https://osu.ppy.sh/users/499343) | GMT |
 | ::{ flag=TR }:: [Coldrod](https://osu.ppy.sh/users/9065991) | GMT |
 | ::{ flag=CN }:: [Colin Hou](https://osu.ppy.sh/users/196614) | BAT |

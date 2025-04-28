@@ -11,7 +11,7 @@ tags:
 
 *Siehe auch: [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
 
-Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, besteht aus Mitgliedern der osu!-Community, die in erster Linie für die Moderation von Spielern sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_group) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
+Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, besteht aus Mitgliedern der osu!-Community, die in erster Linie für die Moderation von Spielern sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_groups) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
 
 **Alle globalen Moderatoren müssen sich neben den [Community-Richtlinien](/wiki/Rules) auch an den [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) halten.**
 
@@ -19,7 +19,7 @@ Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Admi
 
 ## Rollen und Verantwortlichkeiten
 
-*Siehe auch: [Melden von schlechtem Verhalten](/wiki/Reporting_bad_behaviour)*
+*Siehe auch: [Schlechtes Verhalten melden](/wiki/Reporting_bad_behaviour)*
 
 Das globale Moderationsteam ist für das Wohlergehen des Chats und Forums zuständig und kümmert sich um reibungslose Interaktionen innerhalb der Community. Das GMT kann bei allen Fragen zu Moderationsthemen angesprochen werden. Dazu gehören beispielsweise:
 
@@ -60,7 +60,7 @@ Globale Moderatoren erhalten die folgenden Vorteile:
 
 ## Ausscheiden aus dem Team
 
-Entscheidet sich ein globaler Moderator dazu, das Team zu verlassen, kann er je nach Umstand die folgenden Belohnungen erhalten:
+Entscheidet sich ein globaler Moderator dazu, das Team im Guten zu verlassen, kann er je nach Umstand die folgenden Belohnungen erhalten:
 
 - **Nutzertitel [osu! Alumni](/wiki/People/osu!_Alumni)**: Dieser Titel wird an Mitglieder verliehen, die mindestens 1 Jahr lang Teil des Teams waren oder über einen kürzeren Zeitraum bedeutende Beiträge innerhalb des Teams geleistet haben.
 - **osu!supporter**: Mitglieder erhalten ein osu!supporter-Tag, das doppelt so lange gilt wie ihre Zeit im GMT. Dabei gelten dieselben Bedingungen, die für den osu!-Alumni-Titel gelten.
