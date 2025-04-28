@@ -25,7 +25,7 @@ Untungnya, tidak sulit bagi kamu untuk ikut membantu menjaga keamanan ini. Berik
 
 ## Bantu anggota komunitas lainnya
 
-Apabila kamu menemui pengguna lain yang mengalami masalah dengan permainan mereka, berikanlah bantuanmu! Baik itu masalah seputar driver, beatmap, atau permainan — apabila kamu tahu solusinya, kamu dapat membantu mereka untuk menyelesaikan masalah yang ada.
+Apabila kamu menemui pengguna lain yang mengalami masalah dengan permainan mereka, berikanlah bantuanmu! Baik itu masalah seputar driver, beatmap, atau permainan — apabila kamu tahu solusinya, kamu dapat membantu mereka untuk menyelesaikan masalah yang mereka alami.
 
 <!-- TODO: add ways to help outside of forums -->
 
@@ -47,7 +47,7 @@ Berikut merupakan bagaimana kamu dapat mulai membantu pengguna lain pada forum:
 osu! memiliki tim peninjau khusus ([Beatmap Nominator](/wiki/People/Beatmap_Nominators)) yang memeriksa apakah [beatmap](/wiki/Beatmap) yang diunggah telah siap untuk di-rank dan dimainkan oleh semua. Meskipun demikian, hal ini tidak berarti bahwa kamu tidak dapat ikut berkontribusi pada proses ini:
 
 - Telusuri atau cari artis atau lagu yang kamu suka dan/atau yang ingin kamu bantu periksa pada [daftar beatmap Pending](https://osu.ppy.sh/beatmapsets?s=pending).
-- Mainkan beatmap yang sedang berstatus [*Pending* atau *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) dan tinggalkan tanggapanmu pada halaman diskusi beatmap.
+- Mainkan beatmap yang sedang berstatus [*Pending* atau *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) dan berikan tanggapanmu pada halaman diskusi beatmap.
 - Pelajari [panduan modding](/wiki/Modding) dan [kriteria ranking](/wiki/Ranking_criteria) untuk mengetahui prinsip dasar modding dan hal-hal apa saja yang menjadikan suatu beatmap layak untuk di-rank.
 - Bergabunglah ke kanal percakapan `#mapping` dan `#modreqs` di chat dan ikuti atau jadilah bagian dari percakapan yang berlangsung.
 - Apabila kamu memiliki waktu dan ketekunan, buatlah [antrian modding](https://osu.ppy.sh/community/forums/60) (*modding queue*) untuk memberi tempat bagi mapper lain untuk meminta mod kepadamu.
