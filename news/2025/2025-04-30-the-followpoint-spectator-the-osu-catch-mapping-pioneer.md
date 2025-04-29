@@ -236,7 +236,7 @@ You have one specific score, [disinteGration by RINYA.G \[Collapse of the World 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/702598">Spectator</a></p>
 
-I was in a Discord voice chat, randomly trying maps with mods, and somehow FC'd it first try. I thought it's pretty unique to not have my top pp score as illness lilin, so I decided to pin it.
+I was in a Discord voice chat, randomly trying maps with mods, and somehow FC'd it first try. I thought it's pretty unique to not have my top pp score as [iLLness LiLin](https://osu.ppy.sh/beatmapsets/777109#fruits), so I decided to pin it.
 
 ---
 
