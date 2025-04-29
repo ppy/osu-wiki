@@ -14,7 +14,7 @@ Làm theo các bước sau để khôi phục osu! về cài đặt mặc địn
 
 1. Mở osu! trong khi giữ phím `Shift` trên bàn phím của bạn.
 2. Tiếp tục giữ phím `Shift` cho đến khi bạn thấy hộp thoại khôi phục osu!.
-3. Khi `hộp thoại cấu hình osu!` mở ra, nhấn nút đặt lại cài đặt.
+3. Khi `osu! configuration` mở ra, nhấn nút `reset settings`.
 4. Nếu bạn vẫn không thành công, mở lại hộp thoại và nhấn `repair osu!`.
 
 ### osu! đã bị treo khi tôi ấn vào một liên kết hoặc map multiplayer
@@ -61,7 +61,7 @@ Bạn cũng có thể thử ép buộc trò chơi cập nhật.
 **Điều này có thể được thay đổi qua menu tùy chọn trong trò chơi.**
 
 1. Mở osu!
-2. Nhấn vào nút `cài đặt` trên menu chính, hoặc ấn phím Ctrl + O
+2. Nhấn vào nút `Options` trên menu chính, hoặc ấn phím `Ctrl + O`
 3. Gõ `release` vào ô tìm kiếm nhanh để chuyển thẳng đến tùy chọn.
 4. Đảm bảo rằng menu thả xuống hiển thị `Stable (Latest)` để nhận phiên bản ổn định mới nhất của trò chơi.
 
@@ -70,7 +70,7 @@ Bạn cũng có thể thử ép buộc trò chơi cập nhật.
 Bạn có thể bắt buộc game cập nhật thông qua phần cài đặt trong menu.
 
 1. Mở osu!
-2. Nhấn vào nút `cài đặt` trên menu chính, hoặc ấn tổ hợp phím Ctrl + O
+2. Nhấn vào nút `cài đặt` trên menu chính, hoặc ấn tổ hợp phím `Ctrl + O`
 3. Nhập `update`  vào ô tìm kiếm nhanh để nhảy thẳng đến tùy chọn.
 4. Nhấn vào nút `Run osu! updater`
 
@@ -95,33 +95,33 @@ Xem [chủ đề này]() trên Microsoft Answers để biết thêm một số l
 
 Hãy chắc chắn rằng bạn không đang nhóm các beatmap của mình theo bất kỳ tiêu chí phân loại nào ở góc trên bên phải của màn hình (tức là "grouping" phải được đặt là "no grouping").
 
-Nếu bạn vừa tải một beatmap, bạn có thể thử làm mới danh sách beatmap của mình bằng cách nhấn F5 ở màn hình chọn bài.
+Nếu bạn vừa tải một beatmap, bạn có thể thử làm mới danh sách beatmap của mình bằng cách nhấn `F5` ở màn hình chọn bài.
 
 Hãy chắc chắn rằng bạn không đang giới hạn những beatmap được hiển thị trong tùy chọn trò chơi.
 
 Để kiểm tra hoặc thay đổi những beatmap nào được hiển thị trong menu chọn bài, hãy làm theo các bước sau:
 
 1. Mở osu!.
-2. Nhấp vào nút Options trên menu chính, hoặc nhấn Ctrl + O.
-3. Nhập song select vào ô tìm kiếm nhanh để nhảy thẳng đến tùy chọn.
-4. Đảm bảo Display beatmaps from được đặt thành 0 sao, và lên đến được đặt thành 10+ stars.
+2. Nhấp vào nút `Options` trên menu chính, hoặc nhấn `Ctrl + O`.
+3. Nhập `song select` vào ô tìm kiếm nhanh để nhảy thẳng đến tùy chọn.
+4. Đảm bảo `hiển thị beatmap từ` được đặt thành 0 sao, và `lên đến` được đặt thành 10+ stars.
 
-![](img/difficulty-display.png "Correct values of the Display Beatmaps setting")
+![](img/difficulty-display.png "Giá trị đúng đối với cài đặt hiển thị Beatmap")
 
-Nếu không có phương pháp nào trong số này hiệu quả, như biện pháp cuối cùng bạn có thể thử buộc cơ sở dữ liệu beatmap của mình được tạo lại. Lưu ý rằng điều này sẽ đánh dấu tất cả các map của bạn là “chưa chơi”, nên việc tìm kiếm và nhóm map theo các lựa chọn phân loại dựa trên ngày chơi sẽ không còn hoạt động nữa.
+Nếu không có phương pháp nào trong số này hiệu quả, như biện pháp cuối cùng bạn có thể thử buộc cơ sở dữ liệu beatmap của mình được tạo lại. **Lưu ý rằng điều này sẽ đánh dấu tất cả các map của bạn là “chưa chơi”, nên việc tìm kiếm và nhóm map theo các lựa chọn phân loại dựa trên ngày chơi sẽ không còn hoạt động nữa.**
 
 Để ép buộc cơ sở dữ liệu beatmap của bạn được tái tạo một cách an toàn, hãy làm theo các bước sau:
 
 1. ở osu!.
-2. Nhấp vào nút Options trên menu chính, hoặc nhấn Ctrl + O.
-3. Nhấp Open osu! folder.
+2. Nhấp vào nút `Options` trên menu chính, hoặc nhấn `Ctrl` + `O`.
+3. Nhấp `mở thư mục chứa osu!`.
 4. Đóng osu!.
-5. Tìm file osu!.db trong thư mục vừa mở.
-6. Nhấp chuột phải vào file đó, chọn Rename.
-7. Đổi tên file theo ý bạn (chỉ cần không đặt lại là “osu!”), rồi nhấn Enter.
+5. Tìm tệp `osu!.db` trong vị trí thư mục bạn vừa mở.
+6. Nhấp chuột phải vào file đó, sau đó chọn `Rename`.
+7. Đổi tên file theo ý bạn (chỉ cần không đặt lại là “osu!”), rồi nhấn `Enter`.
 8. Khởi động lại osu!.
 
-Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên bản Stable 20210519.3 (ngày 19-05-2021). Nếu bạn vẫn gặp lỗi, vui lòng cho chúng tôi biết.
+Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên bản [Stable 20210519.3]() ngày 19-05-2021. Nếu bạn vẫn gặp lỗi, vui lòng [cho chúng tôi biết]().
 
 ### Danh sách bài hát của tôi cứ tự cuộn!
 
@@ -129,24 +129,25 @@ Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên b�
 
 Những vấn đề này cũng có thể do các ứng dụng giả lập hoặc thay đổi phím tắt, chẳng hạn như Xpadder hoặc X-Mouse Button Control. Nếu bạn đang dùng những ứng dụng này cho game khác, hãy vô hiệu hóa chúng.
 
-Hiện tượng cũng có thể xuất phát từ bàn phím số (numpad), vì các phím này có thể được dùng để cuộn danh sách chọn bài. Nhấn phím NumLock để tắt numpad, sau đó nhấn 9, 8, 3 hoặc 2 trên numpad để khắc phục.
+Hiện tượng cũng có thể xuất phát từ bàn phím số (numpad), vì các phím này có thể được dùng để cuộn danh sách chọn bài. Nhấn phím `NumLock` để vô hiệu hóa numpad và sau đó nhấn `9`, `8`, `3` hoặc `2` trên numpad để khắc phục.
 
 Bạn cũng nên kiểm tra xem có phím nào trên thiết bị ngoại vi bị kẹt hoặc hỏng không.
 
 ### Tôi đã tải một gói beatmap, nhưng osu! luôn cố “sửa chữa” file đó!
+
 Bạn cần giải nén gói này vào thư mục Songs.
 
-Hầu hết các gói beatmap ở định dạng .rar, tức là một kho lưu trữ nén chứa các file beatmap. Bạn hãy dùng phần mềm giải nén yêu thích (chúng tôi khuyên dùng 7-Zip) để trích xuất toàn bộ các file trong gói vào thư mục Songs trước.
+Hầu hết các gói beatmap ở định dạng `.rar`, tức là một kho lưu trữ nén chứa các tệp beatmap. Bạn hãy dùng phần mềm giải nén yêu thích (chúng tôi khuyên dùng [7-Zip]()) để trích xuất toàn bộ các file trong gói vào thư mục "Songs" của bạn trước.
 
-Khi tất cả các file .osz từ gói lưu trữ đã nằm trong thư mục Songs, nhấn F5 ở màn hình chọn bài sẽ làm mới bộ nhớ đệm beatmap và tải các bài hát mới vào game.
+Khi tất cả các tệp `.osz` từ gói lưu trữ đã nằm trong thư mục `Songs`, nhấn `F5` ở màn hình chọn bài sẽ làm mới bộ nhớ đệm beatmap và tải các bài hát mới vào game.
 
 ## Lối chơi
 
 ### Bộ đếm combo, bảng điểm hoặc hiển thị độ chính xác của tôi bị mất!
 
-Nhấn Shift + Tab trong khi đang chơi sẽ bật/tắt HUD trong game và cho phép bạn hiển thị lại các thành phần này.
+Nhấn `Shift + Tab` trong khi đang chơi sẽ bật/tắt HUD trong game và cho phép bạn hiển thị lại các thành phần này.
 
-Nếu bạn đã thay đổi phím tắt để bật/tắt bảng điểm, thao tác này sẽ không hoạt động. Bạn có thể kiểm tra tổ hợp phím đang được thiết lập ở Options → Change keyboard bindings → In-Game → Toggle Scoreboard. Sau đó, hãy thay thế phím Tab bằng phím bạn đã chọn (ví dụ: Shift + V).
+Nếu bạn đã thay đổi phím tắt để bật/tắt bảng điểm, thao tác này sẽ không hoạt động. Bạn có thể kiểm tra tổ hợp phím đang được thiết lập ở `Options` → `Change keyboard bindings` → `In-Game` → `Toggle Scoreboard`. Sau đó, hãy thay thế phím `Tab` bằng phím bạn đã chọn (ví dụ: `Shift` + `V`).
 
 ### Điểm số cục bộ của tôi bị mất! 
 
@@ -156,11 +157,9 @@ Có một vài lý do có thể dẫn đến tình trạng này. Hãy đọc ti�
 
 Việc cài lại client game sẽ tự động xóa tất cả điểm số cục bộ của bạn.
 
-Rất tiếc, những điểm số này đã mất.
+Rất tiếc, những điểm số này đã mất,Tuy nhiên — những điểm số bạn đã nộp trực tuyến vẫn còn — chỉ cần tải lại bất kỳ bài hát nào bạn đã chơi trước đó, và điểm số của bạn sẽ xuất hiện lại.
 
-Tuy nhiên, những điểm số bạn đã nộp trực tuyến vẫn còn — chỉ cần tải lại bất kỳ bài hát nào bạn đã chơi trước đó, và điểm số của bạn sẽ xuất hiện lại.
-
-Mẹo hữu ích: nếu bạn là osu!supporter, bạn có thể sử dụng bộ lọc Ranked (Played) trong bảng osu!direct trong game hoặc qua trang danh sách beatmap để tìm bất kỳ map nào bạn đã đạt điểm trong quá khứ.
+Mẹo hữu ích: nếu bạn là osu!supporter, bạn có thể sử dụng bộ lọc `Ranked (Played)` trong bảng osu!direct trong game hoặc qua `trang danh sách nghe beatmap` để tìm bất kỳ map nào bạn đã đạt điểm trong quá khứ.
 
 ### Bạn có đang chọn đúng chế độ game không?
 
@@ -168,7 +167,7 @@ Chơi ở chế độ game khác (osu!taiko, osu!catch hoặc osu!mania) sẽ l�
 
 Một nguyên nhân phổ biến của vấn đề này là khi bạn chơi map của chế độ game khác, khiến chế độ chọn bài tự động sử dụng điểm số của chế độ đó cho đến khi bạn chuyển lại chế độ cũ.
 
-Bạn có thể thay đổi chế độ game bằng cách nhấp vào nút Mode ở góc dưới bên trái màn hình trong màn hình chọn bài, rồi chọn chế độ phù hợp mà bạn muốn xem điểm số của mình.
+Bạn có thể thay đổi chế độ game bằng cách nhấp vào nút `Mode` ở góc dưới bên trái màn hình trong màn hình chọn bài, rồi chọn chế độ phù hợp mà bạn muốn xem điểm số của mình.
 
 ### Bạn có vừa tải về một số lượng lớn map không? (ví dụ: gói beatmap hoặc bundle)
 
@@ -178,24 +177,25 @@ Chơi game hoặc làm việc khác sẽ giúp client bắt kịp tiến độ t
 
 ### Cái vệt trắng hay đường khói đằng sau con trỏ của tôi là gì?
 
-Đây là một tính năng đặc biệt gọi là smoke, cho phép bạn vẽ nguệch ngoạc lên màn hình chơi để giải trí. Bất cứ ai đang spectate bạn cũng sẽ thấy những gì bạn vẽ.
+**Đây là một tính năng đặc biệt gọi là *smoke*, cho phép bạn vẽ nguệch ngoạc lên màn hình chơi để giải trí. Bất cứ ai đang theo dõi bạn cũng sẽ thấy những gì bạn vẽ.**
 
-Phím tắt mặc định cho tính năng này là C, và nó sẽ hoạt động miễn bạn giữ phím này. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục osu! của hộp thoại Change keyboard bindings.
+Phím tắt mặc định cho tính năng này là `C`, và nó sẽ hoạt động miễn bạn giữ phím này. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục `osu!` của hộp thoại `Change keyboard bindings`.
 
 ### Làm sao để lưu lại bản replay cho điểm số tôi vừa đạt được?
-Vào màn hình kết quả sau khi chơi bằng cách nhấp vào điểm số trong bảng điểm cục bộ của bạn, sau đó nhấn F2.
 
-Lệnh này sẽ lưu bản replay mới của bạn thành file .osr trong thư mục Replays nằm trong thư mục cài đặt osu! mặc định.
+Vào màn hình kết quả sau khi chơi bằng cách nhấp vào điểm số trong bảng điểm cục bộ của bạn, sau đó nhấn `F2`.
 
-Bên cạnh đó, osu! cũng tự động lưu tất cả replay sau khi bạn hoàn thành bài hát vào thư mục ẩn /Data/r/ bên trong thư mục cài đặt osu!.
+Lệnh này sẽ lưu bản replay mới của bạn thành file `.osr` trong thư mục Replays nằm trong thư mục cài đặt osu! mặc định.
+
+Bên cạnh đó, osu! cũng tự động lưu tất cả replay sau khi bạn hoàn thành bài hát vào thư mục ẩn `/Data/r/` bên trong thư mục cài đặt osu!.
 
 Lưu ý: nếu không có replay nào được lưu cho điểm số đó, bạn sẽ không thể lấy lại replay bằng cách này.
 
 ### osu! đang thông báo rằng phiên bản client của bạn quá cũ!
 
-Đã đến lúc nâng cấp! Những phiên bản rất cũ của game sẽ không được phép gửi điểm mới, vì vậy bạn cần buộc cập nhật bằng cách vào Options → General → Run osu! updater.
+Đã đến lúc nâng cấp! Những phiên bản rất cũ của game sẽ không được phép gửi điểm mới, vì vậy bạn cần buộc cập nhật bằng cách vào `Options` → `General` → `chạy cập nhật osu!`.
 
-Nếu cách này không hiệu quả, bạn có thể đóng osu! và khởi động lại osu!.exe trong khi giữ phím Shift. Điều này sẽ cung cấp cho bạn một số tùy chọn nâng cấp và sửa chữa, trong đó có cập nhật game lên phiên bản mới nhất.
+Nếu cách này không hiệu quả, bạn có thể đóng osu! và khởi động lại osu!.exe trong khi giữ phím `Shift`. Điều này sẽ cung cấp cho bạn một số tùy chọn nâng cấp và sửa chữa, trong đó có cập nhật game lên phiên bản mới nhất.
 
 ### Bảng điểm của tôi không được gửi!
 
@@ -211,7 +211,7 @@ Nếu cách này không hiệu quả, bạn có thể đóng osu! và khởi đ�
 
 Một số tường lửa hoặc phần mềm anti-virus có thể chặn osu! không cho phép truy cập Internet, điều này sẽ ngăn việc gửi điểm.
 
-Hãy kiểm tra phần mềm của bạn để đảm bảo rằng osu!.exe trong thư mục bạn cài đặt game có thể truy cập Internet.
+Hãy kiểm tra phần mềm của bạn để đảm bảo rằng `osu!.exe` trong thư mục bạn cài đặt game có thể truy cập Internet.
 
 ### Bạn có đang chạy quá nhiều chương trình nền không?
 
@@ -227,8 +227,7 @@ Trong menu chọn bài, hãy kiểm tra góc trên bên trái màn hình để x
 
 ![](img/correct-map-status.png "This is what it should look like")
 
-Chơi với bảng xếp hạng toàn cầu thay vì bảng xếp hạng cục bộ có thể giúp ngăn chặn vấn đề này theo từng map.
-Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "Một số beatmap của tôi bị mất!" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
+Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng địa phương có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!]()" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
 
 ### Máy chủ gửi điểm có đang hoạt động không?
 
@@ -253,20 +252,21 @@ Mỗi cấu hình phần cứng có một Universal Offset riêng, xác định 
 Giá trị mặc định hoạt động tốt với hầu hết mọi người, nhưng nếu bạn thấy nó không phù hợp với mình, bạn có thể thay đổi nó theo các bước sau:
 
 1. Mở osu!.
-2. Nhấn nút Options trong menu chính, hoặc nhấn Ctrl + O.
-3. Gõ "offset" vào thanh tìm kiếm nhanh. Điều này sẽ đưa bạn đến Universal Offset hiện tại mà client của bạn đang sử dụng.
-4. Sử dụng thanh trượt để điều chỉnh Universal Offset của bạn. Ngoài ra, bạn có thể thử sử dụng công cụ hướng dẫn Offset để giúp bạn thực hiện quá trình này.
-5. Nếu vẫn không giúp được, bạn có thể thử cập nhật driver card âm thanh hoặc driver âm thanh của bo mạch chủ.
+2. Nhấn nút `Options` trong menu chính, hoặc nhấn `Ctrl + O`.
+3. Gõ `offset` vào thanh tìm kiếm nhanh. Điều này sẽ đưa bạn đến Universal Offset hiện tại mà client của bạn đang sử dụng.
+4. Sử dụng thanh trượt để điều chỉnh Universal Offset của bạn. Ngoài ra, bạn có thể thử sử dụng công cụ [offset wizard]() để giúp bạn thực hiện quá trình này.
+
+Nếu vẫn không giúp được, bạn có thể thử cập nhật driver card âm thanh hoặc driver âm thanh của bo mạch chủ.
 
 ### Game của tôi bị lỗi đồ họa, như kiểu bị xé hình!
 
-Điều này do một hiệu ứng gọi là screen tearing và có thể được khắc phục bằng cách đặt tuỳ chọn Frame limiter trong game thành VSync.
+Điều này do một hiệu ứng gọi là [screen tearing]() và có thể được khắc phục bằng cách đặt tuỳ chọn `Frame limiter` trong game thành `VSync`.
 
 Đây là một hiệu ứng vô hại (mặc dù nhìn khá xấu!) xảy ra vì tốc độ làm mới của game không đồng bộ với tốc độ làm mới của màn hình.
 
 Bạn cũng có thể thử chơi ở chế độ Windowed hoặc Borderless, điều này sẽ sử dụng VSync của hệ điều hành thay vào đó.
 
-Tuy nhiên, việc bật VSync hoặc chơi ở chế độ Windowed hoặc Borderless có thể gây một chút độ trễ đầu vào. Đối với hầu hết mọi người, điều này sẽ không gây ra vấn đề đáng kể.
+Tuy nhiên, việc bật VSync hoặc chơi ở chế độ `cửa sổ` hoặc `không viền` có thể gây một chút độ trễ đầu vào. Đối với hầu hết mọi người, điều này sẽ không gây ra vấn đề đáng kể.
 
 Các card đồ họa NVidia mới hơn có một tuỳ chọn toàn cục trong NVidia Control Panel để thiết lập tần số làm mới toàn cục thành một cài đặt gọi là 'Fast', điều này cũng sẽ khắc phục được vấn đề này.
 
@@ -279,17 +279,18 @@ Hãy đảm bảo rằng osu! có thể truy cập internet một cách bình th
 Dưới đây là một vài cách để cho phép ứng dụng truy cập internet qua một số phần mềm chống virus phổ biến:
 
 ### Cho phép một chương trình qua Windows Firewall
+
 Trên hầu hết các hệ điều hành Windows, Windows Firewall sẽ là phần mềm tường lửa mặc định.
 
 Để đảm bảo osu! có thể truy cập internet, bạn cần cho phép nó giao tiếp qua Windows Firewall. Dưới đây là cách kiểm tra và thêm osu! vào danh sách các chương trình được phép:
 
 1. Mở menu Start.
-2. Gõ allow an app vào thanh tìm kiếm trong menu Start.
-3. Bạn sẽ thấy một kết quả có tên Allow an app through Windows Firewall trong Control Panel. Nhấn vào đó.
-4. Một bảng điều khiển với danh sách các ứng dụng và hai ô kiểm bên cạnh chúng sẽ mở ra. Nhấn vào bất kỳ ứng dụng nào, sau đó nhấn phím o. Danh sách sẽ cuộn xuống các ứng dụng bắt đầu bằng chữ 'o'.
-5. Tìm osu! hoặc osu!.exe.
-6. Nếu không có cái nào, nhấn vào Allow another app ở dưới cùng của bảng điều khiển và tìm thư mục cài đặt osu!, sau đó chọn osu!.exe.
-7. Đảm bảo cả hai ô kiểm Private và Public đều được đánh dấu. Nhấn OK để lưu cài đặt và thử lại.
+2. Gõ `allow an app` vào thanh tìm kiếm trong menu Start.
+3. Bạn sẽ thấy một kết quả có tên `Allow an app through Windows Firewall` trong `Control Panel`. Nhấn vào đó.
+4. Một bảng điều khiển với danh sách các ứng dụng và hai ô kiểm bên cạnh chúng sẽ mở ra. Nhấn vào bất kỳ ứng dụng nào, sau đó nhấn phím `o`. Danh sách sẽ cuộn xuống các ứng dụng bắt đầu bằng chữ 'o'.
+5. Tìm `osu!` hoặc `osu!.exe`.
+6. Nếu không có cái nào, nhấn vào `Allow another app` ở dưới cùng của bảng điều khiển và tìm thư mục cài đặt osu!, sau đó chọn `osu!.exe`.
+7. Đảm bảo cả hai ô kiểm `Private` và `Public` đều được đánh dấu. Nhấn OK để lưu cài đặt của bạn và thử lại.
 
 ### Cho phép một chương trình qua Tường lửa AVG
 
@@ -307,11 +308,11 @@ Vui lòng tham khảo bài viết chính thức trong cơ sở tri thức của 
 
 Chúng tôi cần thêm thông tin từ bạn để giải quyết vấn đề này.
 
-Nếu bạn vẫn gặp sự cố khi kết nối tới máy chủ của chúng tôi, vui lòng gửi yêu cầu hỗ trợ qua email tới accounts@ppy.sh. Những thông tin sau sẽ giúp chúng tôi xử lý nhanh chóng:
+Nếu bạn vẫn gặp sự cố khi kết nối tới máy chủ của chúng tôi, vui lòng gửi yêu cầu hỗ trợ qua email tới [accounts@ppy.sh](mailto:accounts@ppy.sh). Những thông tin sau sẽ giúp chúng tôi xử lý nhanh chóng:
 
-Nhật ký kết quả lệnh tracert đến các máy chủ cho.ppy.sh, osu.ppy.sh và m1.ppy.sh (xem hướng dẫn bên dưới)
+Nhật ký kết quả lệnh `tracert` đến các máy chủ `cho.ppy.sh`, `osu.ppy.sh` và `m1.ppy.sh` (xem hướng dẫn bên dưới)
 
-File network.log trong thư mục Logs của thư mục cài đặt osu!
+File `network.log` trong thư mục `Logs` của thư mục cài đặt osu!
 
 ### Chạy lệnh "trace route" để khắc phục sự cố kết nối
 
@@ -429,6 +430,7 @@ Raw input buộc trò chơi sử dụng một phương thức tiếp cận trự
 4. Nhấp vào tùy chọn Raw input để bật nó.
 
 ### Tôi đang chơi bằng tablet và con trỏ cảm thấy quá chậm!
+
 Bạn có thể khắc phục vấn đề này bằng cách thiết lập một khu vực hoạt động (tablet area) nhỏ hơn cho thiết bị của mình.
 
 Trên hầu hết tablet Wacom, việc này được thực hiện trong tab Mapping của ứng dụng Wacom Tablet Properties.
