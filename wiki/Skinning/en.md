@@ -22,7 +22,7 @@ Skin elements are split up into several categories as follows:
 ## See also
 
 - [skin.ini](/wiki/Skinning/skin.ini)
-- [Skinning history](/wiki/Skinning/History) - a list of legacy skinning elements that are no longer in use
+- [Skinning history](/wiki/Skinning/History) - a list of legacy skin elements that are no longer in use
 - [Compendium](https://osu.ppy.sh/community/forums/topics/686664) - a list of completed skins
 - [Skinning FAQ](/wiki/Skinning/FAQ)
 - [Guides and important threads](/wiki/Skinning/Guides_and_important_threads)

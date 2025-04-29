@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 905eedb0f005b03cb61535b8203b92b0eba8711f
+---
+
 # Skinning
 
 Skinning ist eine der Hauptfunktionen von osu! und ermöglicht Spielern den Standard-Skin ihren eigenen Wünschen entsprechend anzupassen oder ihre eigenen Skins zu erstellen! Deshalb gibt es Skins in allen Formen und Farben: sei es spaßeshalber, mit Fokus auf professioneller Spielbarkeit, Minimalismus oder nahezu unspielbar.
