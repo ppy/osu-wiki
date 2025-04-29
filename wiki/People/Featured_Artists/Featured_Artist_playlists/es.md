@@ -1,6 +1,8 @@
 ---
 tags:
   - FA
+outdated_translation: true
+outdated_since: 3463d7a2bee4d37e6bac67aaf53bda9524d676e6
 ---
 
 # Listas de juego de artistas destacados
