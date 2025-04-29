@@ -288,6 +288,12 @@ For full playlist details, see the [multiplayer room listing](https://osu.ppy.sh
 - Only applicable to osu! and osu!mania game modes
 - Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard)
 
+### January/February 2025
+
+- Top 5 osu!catch and osu!mania beatmaps from [their respective Monthly Beatmapping Contests](https://osu.ppy.sh/home/news/2025-04-10-monthly-beatmapping-contest-april-2025)
+- Only applicable to osu!catch and osu!mania game modes
+- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard)
+
 ## Notes
 
 [^previous-prize]: User earned profile badge prior to cumulative leaderboard in June 2023
