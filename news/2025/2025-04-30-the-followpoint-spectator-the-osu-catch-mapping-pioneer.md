@@ -9,7 +9,7 @@ Have you ever looked at osu! interviews and thought to yourself: "Hey, aren't th
 
 ![](/wiki/shared/news/2025-04-30-the-followpoint-spectator-the-osu-catch-mapping-pioneer/banner.jpg)
 
-You know how there are players, mappers and [Beatmap Nominators](/wiki/People/Beatmap_Nominators), right? And it's not exactly common for one to do two, or even all three of these activities, but [Spectator](https://osu.ppy.sh/users/702598) is exactly this kind of person! While being a top player [peaking at rank #2](https://web.archive.org/web/20120701011805/http://osu.ppy.sh:80/p/pp/?m=2) and winning multiple [osu!catch World Cups](/wiki/Tournaments/CWC), he's also a mapper with many works of his in both [Ranked](/wiki/Beatmap/Category#ranked) and [Loved](/wiki/Beatmap/Category#loved) categories. He's also a Beatmap Nominator, and not just a regular one, but an [Elite Nominator](/wiki/People/Elite_Nominators) with 145 beatmaps pushed to Ranked in 2024!
+You know how there are players, mappers and [Beatmap Nominators](/wiki/People/Beatmap_Nominators), right? And it's not exactly common for one to do two, or even all three of these activities, but [Spectator](https://osu.ppy.sh/users/702598) is exactly this kind of person! While being a top player [peaking at rank #2](https://web.archive.org/web/20120701011805/http://osu.ppy.sh:80/p/pp/?m=2) and winning multiple [osu!catch World Cups](/wiki/Tournaments/CWC), he's also a mapper with many works of his in both [Ranked](/wiki/Beatmap/Category#ranked) and [Loved](/wiki/Beatmap/Category#loved) categories. He's also a Beatmap Nominator, and not just a regular one, but an [Elite Nominator](/wiki/People/Elite_Nominators) with 145 beatmaps pushed to Ranked in 2024! And in addition to all this, Spectator is also a part of the [Global Moderation Team](/wiki/People/Global_Moderation_Team/)!
 
 Now that you have an idea how big of a community figure Spectator is for osu!catch, let's get to hear what insights he has to bring! This time, [-Isla-](https://osu.ppy.sh/users/17745759) is joining in with questions as well.
 
@@ -58,7 +58,7 @@ Hi Spectator! Let's begin with the usual, how would you introduce yourself to th
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/702598">Spectator</a></p>
 
-Hello everyone, I'm Spectator. I've been playing osu!, mainly in the osu!catch mode for almost 15 years. I used to focus on playing, but these days I'm probably more known as a mapper. I also nominate maps as a Beatmap Nominator and help moderate the osu!catch community as a [Global Moderator](/wiki/People/Global_Moderation_Team).
+Hello everyone, I'm Spectator. I've been playing osu!, mainly in the osu!catch mode for almost 15 years. I used to focus on playing, but these days I'm probably more known as a mapper. I also nominate maps as a Beatmap Nominator and help moderate the osu!catch community as a Global Moderator.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17745759" style="background-image: url('/wiki/shared/avatars/-Isla-.jpg')"></a>
 
@@ -104,7 +104,7 @@ Due to a DDoS attack, we had to replay the match without a stream, and it was on
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17745759">-Isla-</a></p>
 
-What caused you to start mapping in osu!catch? Was there any particular reason or a person that motivated you?
+Okay, now let's move on to mapping. What caused you to start mapping in osu!catch? Was there any particular reason or a person that motivated you?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/702598" style="background-image: url('/wiki/shared/avatars/Spectator.jpg')"></a>
 
@@ -206,7 +206,7 @@ What brought me back to being a Beatmap Nominator was wanting to see more variet
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Both as a top player and as a mapper, what are your thoughts on implementing osu!'s performance point [combo scaling removal](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates#combo-scaling-removal) ("CSR") to osu!catch? Would that be a bad or a good thing, and why?
+For this section, let's talk more about playing part of the game. Both as a top player and as a mapper, what are your thoughts on implementing osu!'s performance point [combo scaling removal](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates#combo-scaling-removal) ("CSR") to osu!catch? Would that be a bad or a good thing, and why?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/702598" style="background-image: url('/wiki/shared/avatars/Spectator.jpg')"></a>
 
@@ -246,7 +246,7 @@ I was in a Discord voice chat, randomly trying maps with mods, and somehow FC'd 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Are there some goals in osu! that you are still planning to achieve? Either in general or mapping specifically.
+Before we get to the end of this interview, let me ask you a few more questions. Are there some goals in osu! that you are still planning to achieve? Either in general or mapping specifically.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/702598" style="background-image: url('/wiki/shared/avatars/Spectator.jpg')"></a>
 
