@@ -1,6 +1,6 @@
 # Client
 
-Trang chín: [Trung tâm trợ giúp]()
+Trang chín: [Trung tâm trợ giúp](/wiki/Help_centre)
 
 Bạn đang gặp một vài sự cố với client của game? Hãy tìm xem liệu vấn đề của bạn có nằm trong số những vấn đề phổ biến mà người dùng của chúng tôi đang mắc phải ở đây.
 
@@ -293,15 +293,19 @@ Trên hầu hết các hệ điều hành Windows, Windows Firewall sẽ là ph�
 7. Đảm bảo cả hai ô kiểm Private và Public đều được đánh dấu. Nhấn OK để lưu cài đặt và thử lại.
 
 ### Cho phép một chương trình qua Tường lửa AVG
+
 Vui lòng tham khảo bài viết chính thức trong cơ sở tri thức của AVG để biết hướng dẫn chi tiết về cách thực hiện điều này.
 
 ### Cho phép một chương trình qua Kaspersky Internet Security
+
 Vui lòng tham khảo bài viết hướng dẫn chính thức của Kaspersky về cách thêm ứng dụng vào Khu vực Tin cậy (Trusted Zone).
 
 ### Cho phép một chương trình qua McAfee
+
 Vui lòng tham khảo bài viết chính thức trong cơ sở tri thức của McAfee về chủ đề này.
 
 ### Tôi đã thêm osu! vào tường lửa nhưng vẫn không thể kết nối được với trò chơi!
+
 Chúng tôi cần thêm thông tin từ bạn để giải quyết vấn đề này.
 
 Nếu bạn vẫn gặp sự cố khi kết nối tới máy chủ của chúng tôi, vui lòng gửi yêu cầu hỗ trợ qua email tới accounts@ppy.sh. Những thông tin sau sẽ giúp chúng tôi xử lý nhanh chóng:
@@ -452,33 +456,39 @@ Virus, spyware, malware hoặc các phần mềm không mong muốn khác có th
 Giữ cho máy tính của bạn sạch sẽ và an toàn, bạn có thể nhận thấy hiệu năng được cải thiện. Hãy thử chạy phần mềm quét virus để phát hiện và loại bỏ những mối nguy hại.
 
 ### Máy tính của bạn bao nhiêu tuổi rồi?
+
 Những máy tính quá cũ, đặc biệt là sử dụng chip đồ họa tích hợp Intel đời rất cũ, có thể không đủ mạnh để chạy osu! một cách mượt mà, kể cả khi để ở thiết lập thấp nhất.
 
 Cách duy nhất để xử lý vấn đề này là nâng cấp máy tính của bạn!
 
 ### Driver của bạn có được cập nhật không?
+
 Driver cũ có thể gây ra các vấn đề hiệu năng nghiêm trọng. Hãy đảm bảo rằng bạn luôn cập nhật tất cả driver cho các thiết bị của mình nếu có thể.
 
 Driver của card đồ họa đặc biệt quan trọng đối với osu!, cũng như driver của card âm thanh.
 
 ### Bạn có đang sử dụng một bộ chia USB để kết nối nhiều thiết bị USB vào máy tính qua một cổng không?
+
 Việc kết nối quá nhiều thiết bị vào cùng một cổng thông qua bộ chia có thể gây ra độ trễ đầu vào (input lag) — khó phát hiện nhưng có thể ảnh hưởng nghiêm trọng đến trải nghiệm chơi game của bạn.
 
 Một cách đơn giản để kiểm tra là thử rút bộ chia USB ra trong giây lát. Nếu tình trạng lag biến mất, bạn đã tìm ra nguyên nhân rồi đấy!
 
-### Bạn có đang chạy osu! ở chế độ cửa sổ hoặc borderless không?
-Cả hai chế độ này đều gây ra độ trễ đầu vào khá đáng kể. Chế độ toàn màn hình (Fullscreen) là tối ưu nhất để có trải nghiệm chơi game mượt mà nhất.
+### Bạn có đang chạy osu! ở chế độ cửa sổ hoặc chế độ borderless không?
 
-Trò chơi của bạn có bị đứng hình trong một khoảnh khắc ngắn không?
-Đôi khi, các tiến trình nền hoặc ứng dụng khác trên máy tính có thể gửi các yêu cầu lớn về tài nguyên cùng lúc, khiến máy bạn xử lý không kịp.
+**Cả hai chế độ này đều gây ra độ trễ đầu vào khá đáng kể. Chế độ toàn màn hình (Fullscreen) là tối ưu nhất để có trải nghiệm chơi game mượt mà nhất.**
+
+### Trò chơi của bạn có bị đứng hình trong một khoảnh khắc ngắn không?
+
+**Đôi khi, các tiến trình nền hoặc ứng dụng khác trên máy tính của bạn có thể gửi những yêu cầu tài nguyên lớn cùng lúc, khiến máy của bạn gặp khó khăn trong việc xử lý.**
 
 Thông thường, vấn đề này sẽ biến mất sau khi bạn đóng mọi thứ không cần thiết trước khi chơi osu!. Phần mềm torrent là thủ phạm phổ biến, đặc biệt nếu nó dùng chung ổ đĩa với nơi cài osu!.
 
-Trò chơi có được cập nhật gần đây không?
-Đôi khi sau khi cập nhật, client có thể gặp trục trặc mà không rõ lý do.
+### Trò chơi có được cập nhật gần đây không?
+
+**Đôi khi sau khi cập nhật, client có thể gặp trục trặc mà không rõ lý do.**
 
 Nếu bạn có nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho bản cập nhật. osu! có thể đang xử lý lại các beatmap để tính độ khó.
 
 Nếu vẫn không cải thiện, khởi động lại máy có thể giúp.
 
-Nếu bạn vẫn gặp giật lag hoặc đứng hình trong khi chơi, hãy xem hướng dẫn khắc phục hiệu suất để tìm thêm nguyên nhân và cách xử lý.
+**Nếu bạn vẫn gặp giật lag hoặc đứng hình trong khi chơi, hãy xem [hướng dẫn khắc phục hiệu suất](/wiki/Performance_troubleshooting) để tìm thêm nguyên nhân và cách xử lý.**
