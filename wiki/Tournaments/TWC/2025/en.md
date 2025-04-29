@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2025 banner](img/twc2025-banner.jpg)
 
-The **osu!taiko World Cup 2025** (***TWC 2025***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the fifteenth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2025** (***TWC 2025***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fifteenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2025** (***TWC 2025***) is a country-based osu!taiko t
 
 ## Prizes
 
-The osu!taiko World Cup 2025 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!taiko World Cup 2025 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,20 +35,24 @@ The osu!taiko World Cup 2025 offers a $2,000 cash prize pool and limited-edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/twc2025-badge-1st.png "TWC 2025 winner badge") ![](img/twc2025-badge-2nd.png "TWC 2025 2nd-place badge") ![](img/twc2025-badge-3rd.png "TWC 2025 3rd-place badge")
+
 ## Organisation
 
-The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!taiko World Cup 2025 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=SE }:: **[Nurend](https://osu.ppy.sh/users/9905079)**, ::{ flag=SE }:: **[Raphalge](https://osu.ppy.sh/users/3918650)**, ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417) |
 | Mappool playtester | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=BR }:: [Foxeru](https://osu.ppy.sh/users/7479684), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=BR }:: [miwoo](https://osu.ppy.sh/users/12630336), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=US }:: [Shyguy](https://osu.ppy.sh/users/178038) |
-| Mapper | ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=IT }:: [D 3](https://osu.ppy.sh/users/7807444), ::{ flag=DE }:: [DarkVortex](https://osu.ppy.sh/users/1940325), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=BR }:: [Foxeru](https://osu.ppy.sh/users/7479684), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=US }:: [Jayceko](https://osu.ppy.sh/users/19951350), ::{ flag=TW }:: [K a y o k o](https://osu.ppy.sh/users/17664300), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=IT }:: [Quorum](https://osu.ppy.sh/users/5200775), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=CN }:: [shoucan91](https://osu.ppy.sh/users/9383908), ::{ flag=BR }:: [Skid](https://osu.ppy.sh/users/3044264), ::{ flag=GB }:: [Skidooskei](https://osu.ppy.sh/users/10079029), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719), ::{ flag=US }:: [Wadsy](https://osu.ppy.sh/users/2598555), ::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737), ::{ flag=KR }:: [ZTH](https://osu.ppy.sh/users/5258461), *more TBA* |
+| Mapper | ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=MY }:: [Asagi Mutsuki](https://osu.ppy.sh/users/2403621), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=IT }:: [D 3](https://osu.ppy.sh/users/7807444), ::{ flag=DE }:: [DarkVortex](https://osu.ppy.sh/users/1940325), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=BR }:: [Foxeru](https://osu.ppy.sh/users/7479684), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=US }:: [Jayceko](https://osu.ppy.sh/users/19951350), ::{ flag=TW }:: [K a y o k o](https://osu.ppy.sh/users/17664300), ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=JP }:: [nananass](https://osu.ppy.sh/users/7231722), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=IT }:: [Quorum](https://osu.ppy.sh/users/5200775), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=CN }:: [shoucan91](https://osu.ppy.sh/users/9383908), ::{ flag=BR }:: [Skid](https://osu.ppy.sh/users/3044264), ::{ flag=GB }:: [Skidooskei](https://osu.ppy.sh/users/10079029), ::{ flag=US }:: [SolaEclipse](https://osu.ppy.sh/users/6621158), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719), ::{ flag=US }:: [Wadsy](https://osu.ppy.sh/users/2598555), ::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737), ::{ flag=KR }:: [ZTH](https://osu.ppy.sh/users/5258461) |
 | Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Bronzecrank](https://osu.ppy.sh/users/14173115), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548), ::{ flag=US }:: [ETHN](https://osu.ppy.sh/users/9536977), ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
+| News team | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
+| Musician | [7_7](https://osu.ppy.sh/beatmaps/artists/356), [96-glass](https://soundcloud.com/96-glass), [A?](https://osu.ppy.sh/beatmaps/artists/173), [A2](https://soundcloud.com/a2two), [akimalo](https://x.com/Akimalody), [AQUASINE](https://osu.ppy.sh/beatmaps/artists/467), [Chinatsu](https://soundcloud.com/loudnessfirst), [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204), [Fraser Edwards](https://osu.ppy.sh/beatmaps/artists/339), [fuluca](https://soundcloud.com/fuluca), [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364), [maezawa](https://soundcloud.com/maezawa-lab), [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220), [negimiso](https://soundcloud.com/negimiso), [Rahatt](https://soundcloud.com/rahatt_bc), [Quarkee](https://osu.ppy.sh/beatmaps/artists/469), [Slax](https://osu.ppy.sh/beatmaps/artists/465), [Sar7](https://soundcloud.com/sar_seven), [Supire](https://osu.ppy.sh/beatmaps/artists/373), [Sydosys](https://osu.ppy.sh/beatmaps/artists/392), [Terminal 11](https://osu.ppy.sh/beatmaps/artists/470) |
 
 ## Links
 
@@ -58,7 +62,6 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/49)
 - [Challonge bracket](https://challonge.com/TWC2025)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/166) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1449)
 
 ## Participants
 
@@ -103,27 +106,39 @@ The osu!taiko World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) a
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bcaab51028b74dee27c483e54fc7f251).
 
-## Match schedule: Finals
+## Podium
 
-### Saturday, 19 April 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Taiwan ::{ flag=TW }:: | ::{ flag=CN }:: China | [Apr 19 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250419T120000&p1=1440&p2=241&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Apr 19 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250419T170000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### Sunday, 20 April 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=TW }:: Taiwan | [Apr 20 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250420T030000&p1=1440&p2=232&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [Apr 20 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250420T030000&p1=1440&p2=232&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 20 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250420T120000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=TW }:: Taiwan | [Apr 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250420T140000&p1=1440&p2=136&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Apr 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250420T140000&p1=1440&p2=136&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Grand Finals | mappool showcase | [Apr 27 (Sun) 15:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250427T153000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+![](img/twc2025-podium.jpg "TWC 2025 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (173 MB)](https://packs.ppy.sh/P283%20-%20osu!taiko%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2438038870?t=0h4m39s)
+
+- No Mod
+  1. [RINYA - Kyokugen BON Odori (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2358187#taiko/5080570)
+  2. [HYKARVS - No matter What (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2358328#taiko/5080882)
+  3. [yoho - Ocean's Legacy (uone) \[Poseidon\]](https://osu.ppy.sh/beatmapsets/2358194#taiko/5080581)
+  4. [7\_7 - No Overdose (Raphalge) \[Taiko\]](https://osu.ppy.sh/beatmapsets/2358206#taiko/5080603)
+  5. [BENEATH THE MASSACRE - Rise of the Fearmonger (Greenshell) \[The Monstrosity\]](https://osu.ppy.sh/beatmapsets/2358240#taiko/5080708)
+  6. [96-glass - Contradiction (Asagi Mutsuki) \[Truth Without Coherence\]](https://osu.ppy.sh/beatmapsets/2358205#taiko/5080602)
+  7. [Frums - PROFESS1ON (Paraxia) \[PLEA\]](https://osu.ppy.sh/beatmapsets/2325283#taiko/4984192)
+- Hidden
+  1. [tosho\_aTe - Shizume Chiku Zensen (Raphalge) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2268539#taiko/4831238)
+  2. [muyu - Feel Winter (feat. Jo of Anna) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2300573#taiko/4916274)
+- Hard Rock
+  1. [Null Specification - Kisara is beside you (Cut Ver.) (roufou) \[Chaos Oni\]](https://osu.ppy.sh/beatmapsets/2358218#taiko/5080634)
+  2. [KEMOMIMI EDM SQUAD - XDUBSTEPX (maguro869) \[Superior Collab\]](https://osu.ppy.sh/beatmapsets/1125612#taiko/2351867)
+- Double Time
+  1. [AVTechNO!xTreow - DYE/Re:flection+ (Michiru) \[In:ner+Oni\]](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290)
+  2. [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
+- Free Mod
+  1. [rusino - Debug Drug (frz) \[4E 65 76 65 72 20 67 69 76 65 20 75 70 21\]](https://osu.ppy.sh/beatmapsets/2358248#taiko/5080742)
+  2. [Jane Remover - Psychoboost ft danny brown (Backfire, SolaEclipse, Wadsy) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/2358227#taiko/5080666)
+- Tiebreaker
+  1. **[TWC Sound Team "Strike Back Squad" - BUZZ CUTZ (Raphalge, Nurend, nananass, uone, layxa) \[Null\]](https://osu.ppy.sh/beatmapsets/2358247#taiko/5080724)**
 
 ### Finals
 
@@ -278,6 +293,40 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/bca
   1. [t+pazolite - Chartreuse Green (Raphalge) \[Creature Feature featuring The Creature\]](https://osu.ppy.sh/beatmapsets/2336500#taiko/5016026)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1F8cuson-Xnt_tc8Pg0x7lhzWw-mF0FDvzcfzJDdzr20?rm=minimal).
+
+Saturday, 26 April 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/117909342) | [#1](https://www.twitch.tv/videos/2443087414?t=0h4m44s) |
+
+Sunday, 27 April 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/117921527) | [#1](https://www.twitch.tv/videos/2444004606?t=0h4m8s) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1cIzLO8If8qgSQ6vf8vEeVBDdHO6XTyZLEtNtqqHdXF8?rm=minimal).
+
+Saturday, 19 April 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Taiwan** ::{ flag=TW }:: | **7** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/117840628) | [#1](https://www.twitch.tv/videos/2437027792?t=0h4m46s) |
+| **Chile** ::{ flag=CL }:: | **7** | 3 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/117841444) | [#1](https://www.twitch.tv/videos/2437027792?t=1h35m00s) |
+
+Sunday, 20 April 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/117849019) | [#1](https://www.twitch.tv/videos/2437676743?t=0h3m35s) |
+| **Japan** ::{ flag=JP }:: | **7** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/117852316) | [#1](https://www.twitch.tv/videos/2437915520?t=0h4m45s) |
 
 ### Semifinals
 
@@ -585,9 +634,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
-[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum. For this statistic the Hidden, Hard Rock, and Double Time bracket scores are normalised (but Free Mod is not).

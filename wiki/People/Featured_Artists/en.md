@@ -53,6 +53,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | User | Artist |
 | :-- | :-- |
 | ::{ flag=US }:: [\_Xyris\_](https://osu.ppy.sh/users/11246193) | [Xyris](https://osu.ppy.sh/beatmaps/artists/433) |
+| ::{ flag=PH }:: [1zm8](https://osu.ppy.sh/users/17679636) | [1zm8](https://osu.ppy.sh/beatmaps/artists/474) |
 | ::{ flag=GB }:: [633397](https://osu.ppy.sh/users/11392390) | [633397](https://osu.ppy.sh/beatmaps/artists/419) |
 | ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
@@ -94,6 +95,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
+| ::{ flag=FI }:: [naikou_i_guess](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/472) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
 | ::{ flag=JP }:: [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
