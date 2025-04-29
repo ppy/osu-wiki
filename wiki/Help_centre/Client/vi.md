@@ -17,7 +17,7 @@ Làm theo các bước sau để khôi phục osu! về cài đặt mặc địn
 3. Khi `hộp thoại cấu hình osu!` mở ra, nhấn nút đặt lại cài đặt.
 4. Nếu bạn vẫn không thành công, mở lại hộp thoại và nhấn `repair osu!`.
 
-### osu! đã bị treo khi tôi ấn vào một liên kết hoặc map multiplayer.
+### osu! đã bị treo khi tôi ấn vào một liên kết hoặc map multiplayer
 
 Hãy đảm bảo rằng bạn không chạy osu! ở chế độ tương thích với Windows, và cũng chắc chắn rằng bạn đã xác định trình duyệt web mặc định trong cài đặt hệ thống của mình.
 
@@ -171,11 +171,13 @@ Một nguyên nhân phổ biến của vấn đề này là khi bạn chơi map 
 Bạn có thể thay đổi chế độ game bằng cách nhấp vào nút Mode ở góc dưới bên trái màn hình trong màn hình chọn bài, rồi chọn chế độ phù hợp mà bạn muốn xem điểm số của mình.
 
 ### Bạn có vừa tải về một số lượng lớn map không? (ví dụ: gói beatmap hoặc bundle)
+
 Điểm số đôi khi sẽ mất một chút thời gian để tải từ máy chủ game nếu bạn đã tải nhiều map mới cùng lúc.
 
 Chơi game hoặc làm việc khác sẽ giúp client bắt kịp tiến độ trong nền.
 
 ### Cái vệt trắng hay đường khói đằng sau con trỏ của tôi là gì?
+
 Đây là một tính năng đặc biệt gọi là smoke, cho phép bạn vẽ nguệch ngoạc lên màn hình chơi để giải trí. Bất cứ ai đang spectate bạn cũng sẽ thấy những gì bạn vẽ.
 
 Phím tắt mặc định cho tính năng này là C, và nó sẽ hoạt động miễn bạn giữ phím này. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục osu! của hộp thoại Change keyboard bindings.
@@ -196,7 +198,8 @@ Lưu ý: nếu không có replay nào được lưu cho điểm số đó, bạn
 Nếu cách này không hiệu quả, bạn có thể đóng osu! và khởi động lại osu!.exe trong khi giữ phím Shift. Điều này sẽ cung cấp cho bạn một số tùy chọn nâng cấp và sửa chữa, trong đó có cập nhật game lên phiên bản mới nhất.
 
 ### Bảng điểm của tôi không được gửi!
-Ồ không! Có vài lý do khiến điều này xảy ra. Hãy cùng xem nhé:
+
+Ồ thật không may! Có vài lý do khiến điều này xảy ra. Hãy cùng xem nhé:
 
 ### Bạn có kết nối Internet khi chơi không?
 
@@ -250,13 +253,9 @@ Mỗi cấu hình phần cứng có một Universal Offset riêng, xác định 
 Giá trị mặc định hoạt động tốt với hầu hết mọi người, nhưng nếu bạn thấy nó không phù hợp với mình, bạn có thể thay đổi nó theo các bước sau:
 
 1. Mở osu!.
-
 2. Nhấn nút Options trong menu chính, hoặc nhấn Ctrl + O.
-
 3. Gõ "offset" vào thanh tìm kiếm nhanh. Điều này sẽ đưa bạn đến Universal Offset hiện tại mà client của bạn đang sử dụng.
-
 4. Sử dụng thanh trượt để điều chỉnh Universal Offset của bạn. Ngoài ra, bạn có thể thử sử dụng công cụ hướng dẫn Offset để giúp bạn thực hiện quá trình này.
-
 5. Nếu vẫn không giúp được, bạn có thể thử cập nhật driver card âm thanh hoặc driver âm thanh của bo mạch chủ.
 
 ### Game của tôi bị lỗi đồ họa, như kiểu bị xé hình!
@@ -336,7 +335,7 @@ Hãy kiểm tra trang trạng thái máy chủ osu! để xem có vấn đề n�
 
 Lỗi này cũng có thể xảy ra nếu bạn đang sử dụng kết nối internet chia sẻ, proxy, hoặc VPN.
 
-Hãy thử sử dụng proxy hoặc nhà cung cấp VPN khác — nếu vẫn không được, hãy gửi phiếu hỗ trợ qua email đến accounts@ppy.sh.
+Hãy thử sử dụng proxy hoặc nhà cung cấp VPN khác — nếu vẫn không được, hãy gửi phiếu hỗ trợ qua email đến [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 Nếu bạn không sử dụng bất kỳ thứ nào kể trên, bạn cần gửi phiếu hỗ trợ, vì có thể kết nối của bạn đã bị đưa vào danh sách chặn một cách nhầm lẫn.
 
@@ -390,7 +389,7 @@ Ngoài ra, bạn cũng có thể thử tháo bớt các thiết bị ngoại vi 
 
 ### Nó vẫn tiếp tục xảy ra
 
-Nếu vẫn xảy ra vấn đề, bạn hãy gửi một yêu cầu hỗ trợ đến accounts@ppy.sh với thông tin chi tiết về sự cố — bao gồm thông số kỹ thuật của máy tính, mẫu máy (nếu có), và bất kỳ thông tin nào khác mà bạn nghĩ sẽ giúp chúng tôi xác định nguyên nhân của vấn đề.
+Nếu vẫn xảy ra vấn đề, bạn hãy gửi một yêu cầu hỗ trợ đến [accounts@ppy.sh](mailto:accounts@ppy.sh) với thông tin chi tiết về sự cố — bao gồm thông số kỹ thuật của máy tính, mẫu máy (nếu có), và bất kỳ thông tin nào khác mà bạn nghĩ sẽ giúp chúng tôi xác định nguyên nhân của vấn đề.
 
 ### Tôi không thể giữ nhiều phím cùng lúc khi chơi osu!mania
 
@@ -426,7 +425,7 @@ Raw input buộc trò chơi sử dụng một phương thức tiếp cận trự
 
 1. Mở osu!.
 2. Nhấp vào nút Options trên menu chính, hoặc nhấn Ctrl + O.
-3. Gõ raw vào ô tìm kiếm nhanh (quick-search) để nhảy tới tùy chọn.
+3. Gõ raw vào ô tìm kiếm nhanh để nhảy tới tùy chọn.
 4. Nhấp vào tùy chọn Raw input để bật nó.
 
 ### Tôi đang chơi bằng tablet và con trỏ cảm thấy quá chậm!
