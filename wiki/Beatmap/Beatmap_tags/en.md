@@ -2,7 +2,7 @@
 
 *Not to be confused with [TAG difficulties](/wiki/Beatmap/TAG_beatmaps).*
 
-**Beatmap tags** are keywords that can be added to beatmaps to make searching for them more convenient. There are two types of tags, each with their own purpose.
+**Beatmap tags** are keywords that can be added to beatmaps to make [searching](/wiki/Beatmap_search) for them more convenient. There are two types of tags, each with their own purpose.
 
 ## Mapper tags
 
