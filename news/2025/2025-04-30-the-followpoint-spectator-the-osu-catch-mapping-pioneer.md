@@ -64,7 +64,7 @@ Hello everyone, I'm Spectator. I've been playing osu!, mainly in the osu!catch m
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17745759">-Isla-</a></p>
 
-How did you find osu! and what was your impression of it?
+How did you find osu!, and what was your impression of it?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/702598" style="background-image: url('/wiki/shared/avatars/Spectator.jpg')"></a>
 
@@ -94,7 +94,9 @@ Is there a specific memory from osu! that stands out to you? If so, which one?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/702598">Spectator</a></p>
 
-There are a lot of great memories, but the most memorable one for me was the Grand Finals match of the [osu! Catch The Beat World Cup 2014](/wiki/Tournaments/CWC/2014). Our opponent was Germany, a team full of outstanding players like [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676), and [DeathXHunter](https://osu.ppy.sh/users/405326). Due to a DDoS attack, we had to replay the match without a stream, and it was one of the most nerve-wracking moments of my osu! tournament career. But somehow, I performed better in the rematch and managed to win the World Cup for the first time. Even to this day, those three players from Germany remain some of my best rivals in the game, and I'll always be grateful to them for the unforgettable memories.
+There are a lot of great memories, but the most memorable one for me was the Grand Finals match of the [osu! Catch The Beat World Cup 2014](/wiki/Tournaments/CWC/2014). Our opponent was Germany, a team full of outstanding players like [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676), and [DeathXHunter](https://osu.ppy.sh/users/405326).
+
+Due to a DDoS attack, we had to replay the match without a stream, and it was one of the most nerve-wracking moments of my osu! tournament career. But somehow, I performed better in the rematch and managed to win the World Cup for the first time. Even to this day, those three players from Germany remain some of my best rivals in the game, and I'll always be grateful to them for the unforgettable memories.
 
 ---
 
