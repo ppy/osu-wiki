@@ -45,7 +45,7 @@ The tables below list all user tags grouped by category as well as the game mode
 
 | Tag name | Description | Game mode |
 | :-- | :-- | :-- |
-| geometric/grid snap | Objects are placed along a square grid, typically using osu!'s in-built grid snap feature. | ![][osu!] |
+| geometric/grid snap | Objects are placed along a square grid, typically using osu!'s built-in grid snap feature. | ![][osu!] |
 | geometric/hexgrid | Objects are placed along a hexagonal grid. | ![][osu!] |
 
 ### Gimmick
