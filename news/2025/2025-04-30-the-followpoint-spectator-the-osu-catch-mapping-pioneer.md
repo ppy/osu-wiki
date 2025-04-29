@@ -5,13 +5,13 @@ date: 2025-04-30 09:00:00 +0000
 series: The Followpoint
 ---
 
-Have you ever looked at osu! interviews and thought to yourself: "Hey, aren't there too little mapper interviews"? Well, today is your lucky day, as we are interviewing Spectator, one of the oldest osu!catch mappers out there!
+Have you ever looked at osu! interviews and thought to yourself: "Hey, aren't there too few mapper interviews?" Well, today is your lucky day, as we are interviewing Spectator, one of the oldest osu!catch mappers out there!
 
 ![](/wiki/shared/news/2025-04-30-the-followpoint-spectator-the-osu-catch-mapping-pioneer/banner.jpg)
 
-You know how there are players, mappers and [Beatmap Nominators](/wiki/People/Beatmap_Nominators), right? And it's not exactly common for one to do two, or even all three of these activities, but [Spectator](https://osu.ppy.sh/users/702598) is exactly this kind of person! While being a top player [peaking at rank #2](https://web.archive.org/web/20120701011805/http://osu.ppy.sh:80/p/pp/?m=2) and winning multiple [osu!catch World Cups](/wiki/Tournaments/CWC), he's also a mapper with many maps and difficulties of his in both [Ranked](/wiki/Beatmap/Category#ranked) and [Loved](/wiki/Beatmap/Category#loved) categories, and of course a Beatmap Nominator, and not a regular one, he's an [Elite Nominator](/wiki/People/Elite_Nominators), personally nominating 145 beatmaps in 2024!
+You know how there are players, mappers and [Beatmap Nominators](/wiki/People/Beatmap_Nominators), right? And it's not exactly common for one to do two, or even all three of these activities, but [Spectator](https://osu.ppy.sh/users/702598) is exactly this kind of person! While being a top player [peaking at rank #2](https://web.archive.org/web/20120701011805/http://osu.ppy.sh:80/p/pp/?m=2) and winning multiple [osu!catch World Cups](/wiki/Tournaments/CWC), he's also a mapper with many works of his in both [Ranked](/wiki/Beatmap/Category#ranked) and [Loved](/wiki/Beatmap/Category#loved) categories. He's also a Beatmap Nominator, and not just a regular one, but an [Elite Nominator](/wiki/People/Elite_Nominators) with 145 beatmaps pushed to Ranked in 2024!
 
-So now that you have an idea how big of community figure Spectator is for osu!catch — let's get to the interview [me](https://osu.ppy.sh/users/18152711) and [-Isla-](https://osu.ppy.sh/users/17745759) conducted with him!
+Now that you have an idea how big of a community figure Spectator is for osu!catch, let's get to hear what insights he has to bring! This time, [-Isla-](https://osu.ppy.sh/users/17745759) is joining in with questions as well.
 
 ---
  
@@ -108,7 +108,7 @@ What caused you to start mapping in osu!catch? Was there any particular reason o
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/702598">Spectator</a></p>
 
-When I first started mapping, osu!catch specific maps used to be unrankable. I mostly tried mapping just for fun, and received some positive feedback from other players. There was an old forum for every osu!catch players and I used to share my very first maps [there](https://osu.ppy.sh/community/forums/topics/21061?n=3561).
+When I first started mapping, osu!catch specific maps used to be unrankable. I mostly tried mapping just for fun, and received some positive feedback from other players. There was an old forum for every osu!catch player and I used to share my very first maps [there](https://osu.ppy.sh/community/forums/topics/21061?n=3561).
 
 ![](/wiki/shared/news/2025-04-30-the-followpoint-spectator-the-osu-catch-mapping-pioneer/forum_post.jpg)
 
@@ -116,7 +116,7 @@ When I first started mapping, osu!catch specific maps used to be unrankable. I m
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17745759">-Isla-</a></p>
 
-As someone who's been mapping for a very long time, do you have any tips or advices on how would somebody comfortably and efficiently get into mapping without any previous experience or knowledge of how to map?
+As someone who's been mapping for a very long time, do you have any tips or advice on how somebody would comfortably and efficiently get into mapping without any previous experience or knowledge?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/702598" style="background-image: url('/wiki/shared/avatars/Spectator.jpg')"></a>
 
@@ -204,7 +204,7 @@ What brought me back to being a Beatmap Nominator was wanting to see more variet
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-Both as a top player and as a mapper, what are your thoughts on adding CSR to osu!catch? Would that be a bad or a good thing, and why?
+Both as a top player and as a mapper, what are your thoughts on implementing osu!'s performance point [combo scaling removal](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates#combo-scaling-removal) ("CSR") to osu!catch? Would that be a bad or a good thing, and why?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/702598" style="background-image: url('/wiki/shared/avatars/Spectator.jpg')"></a>
 
