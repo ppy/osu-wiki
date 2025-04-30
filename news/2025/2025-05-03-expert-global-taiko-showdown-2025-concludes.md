@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expert Global Taiko Showdown 2025 Concludes
-date: 2025-04-27 12:00:00 +0000
+date: 2025-05-03 12:00:00 +0000
 ---
 
 After two months of some of the highest level tournament matches osu!taiko has ever seen, the final chapter of EGTS has come to a conclusion! Please join us to see what went down in the most ambitious osu!taiko tournament yet.
@@ -10,7 +10,7 @@ Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked 
 
 ## Summary
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Podium.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Podium.png)
 
 Massive applauses to our podium finishers, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) and ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), for creating such an unforgettable final week!
 
@@ -110,7 +110,11 @@ Nothing really announced this to be such a close match, although ::{ flag=JP }::
 
 This clip right below summarizes very well how stressful matches in EGTS are to watch, honestly.
 
-[ADD CLIP AS EMBED]
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-supesan-vs-mbiscuit.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 
 ### Quarterfinals: ::{ flag=KR }:: Peaceful vs. ::{ flag=JP }:: kanten_07
@@ -124,17 +128,29 @@ This is probably now known as one of the biggest upsets in the entire tournament
 
 However, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) was prepared to prove us wrong, in every way conceivable. The first 4 picks went as planned for both players, each of them won their respective picks, getting to 2-2. But then, ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) picks [HD1, parallel skydive](https://osu.ppy.sh/beatmapsets/2332962#taiko/5006346), and this was the start of the most unexpected run, as he would get 10xmisses on it, whereas ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) just went and FC'd it. Despite kanten being known as a No Mod player mainly, he went and stole away a point on a slow SV Hidden map, against the best reading player in the game. But after that, we instead went for 3 picks in a row, where neither player could even win their own pick, especially with [Fortuna for Tuna](https://osu.ppy.sh/beatmapsets/2333012#taiko/5006460) being won by Peaceful with a 112 points difference.
 
-[CLIP #1 GOES HERE]
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-peaceful-vs-kanten_07-1.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 Back to a tie again, with 4-4. With each player having one pick left, they manage to both win their respective picks, although it was by 5,429 and 2,567 points respectively, with the last one being especially impressive to look back on...
 
-[CLIP #2 GOES HERE]
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-peaceful-vs-kanten_07-2.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 Tiebreaker reached. 5-5. No other way out of this than by going through a gruesome gauntlet that is [Atomic Disassembler](https://osu.ppy.sh/beatmapsets/2332724#taiko/5005638). The first half was quite trivial for both players, with both players being separated by 6x100 by the time the second half starts, and somehow, still being at that 6x100 difference by the time one of the slowest SV section ends. The song then goes into a break down, where ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) opens up the misses with 3 in a row, but ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) trades them back with 15 in a row. Everything seemed hopeless at this point, even with 4 additional misses from ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027), bringing him to 7 misses, but now, it's time for the final drop, with both players hitting more than half of it, but with the very last section coming up...
 
 There are no words for what ended up happening.
-
-[CLIP #3 GOES HERE]
+ 
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-peaceful-vs-kanten_07-3.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) wins with one of the most decisive ways a tiebreaker could be, with a 3,775 points difference, and advances to the Semifinals in the Winner's Bracket that way.
 
@@ -148,7 +164,11 @@ We're now in the first round of Semifinals for the Loser's Bracket, with a legen
 
 Now, how could this match between such juggernauts of osu!taiko go? Picks for both players were pretty unsurprising, with ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) choosing the reading aspect of the mappool, with [FM3](https://osu.ppy.sh/beatmapsets/2336583#taiko/5016186), [HR2](https://osu.ppy.sh/beatmapsets/2336561#taiko/5016142), [HD1](https://osu.ppy.sh/beatmapsets/2336375#taiko/5015685), [FM1](https://osu.ppy.sh/beatmapsets/2336556#taiko/5016129), [NM4](https://osu.ppy.sh/beatmapsets/2336545#taiko/5016102), and [NM6](https://osu.ppy.sh/beatmapsets/2336555#taiko/5016128), as a mechanics-oriented final pick. For ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196), we ended up with [NM1](https://osu.ppy.sh/beatmapsets/2336548#taiko/5016113), [NM3](https://osu.ppy.sh/beatmapsets/2336550#taiko/5016115), [NM5](https://osu.ppy.sh/beatmapsets/2336559#taiko/5016136), [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688), [NM2](https://osu.ppy.sh/beatmapsets/2336557#taiko/5016130), and [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689) all being picked. This entire match went as according for the first 4 picks, but ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) then lost on HD1, losing the slow Hidden reading for the second match in a row, and giving ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196) the first break point in this match. Sadly for him though, this would not be the last break point in the match, as ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) ended up retaliating, by first winning [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688) in dominating fashion by FC'ing it, and getting to 4-4, and finally, winning [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689) in one of the most impressive break points to happen, with a 483 points difference, to win the whole match.
 
-[EMBED CLIP HERE]
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-peaceful-vs-_kan2.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ### Grand Finals: ::{ flag=JP }:: Maimaing vs. ::{ flag=JP }:: kanten_07
 
@@ -162,19 +182,23 @@ With everyone knowing both players were really good, everyone was expecting this
 
 However, this time around, despite the very similar scoreline, with a 6-7 for , the story of the match was very different, with both players truly showing they were ready, and both players ended up winning their 6 respective picks, which is an absurd sight to have.
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-1.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-1.png)
 
 With no choice but to play one of the longest and brutal tiebreakers in osu!taiko history to get a chance to continue playing in this tournament, both players would be starting the final map in this match.
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-2.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-2.png)
 
 However, with the first quarter of the map done, it started looking hopeless, as ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) was already 23,145 points ahead, with ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) being 31 misses behind, this seemed like a done deal, especially with none of the song's hard parts having come up yet.
 
 And yet....
 
-[CLIP EMBED HERE]
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-maimaing-vs-kanten_07.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-3.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-3.png)
 
 Whatever it was that happened in his mind to hit all of this, this was the turning point of the map, as ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) took the lead from that point, and never looked back, to win with a jaw-dropping 7,627 points difference. This whole Grand Finals is truly a once-in-a-lifetime experience to enjoy, so make sure to check both matches out.
 
@@ -187,7 +211,7 @@ Whatever it was that happened in his mind to hit all of this, this was the turni
     }
 </style>
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Art.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Art.png)
 
 EGTS, and GTS as a whole, has already been known for its immense contribution to original songs releases in the osu! sphere, having released **73** songs in its existence, prior to EGTS 2025's release.
 
@@ -199,33 +223,50 @@ We will be highlighting our biggest non-Tiebreaker track in this article as well
 
 ### Round of 64
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO64.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO64.png)
 
-audio too? idk
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-void-elevator.mp3">
+    </audio>
+</div>
 
 [blobdash](https://osu.ppy.sh/users/8337877) makes his return to GTS in grand fashion, with "[VOID ELEVATOR](https://soundcloud.com/blobdash/void-elevator)", returning after his three songs provided to [EGTS 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022), and having become a reliable part of GTS since then, having participated in [RGTS 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/RGTS_2022) to compose its Grand Finals Tiebreaker, as well as having composed the Main Mappool NM1 for [COEGTS 2023](https://osu.ppy.sh/wiki/en/Tournaments/GTS/COEGTS_2023), and having been the BGM artist for the story sections in [EGTS 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022) and [COEGTS 2023](https://osu.ppy.sh/wiki/en/Tournaments/GTS/COEGTS_2023), as well as becoming the Mastering Engineer for [BespokE : GTS 2023](https://gratiaproductions.bandcamp.com/album/bespoke-gts-2023). With a track that has waited 2 years to be able to release, he has still managed to make one of the most impressive tracks to start off the first round of EGTS 2025 with, and the map provided by [Gamelan4](https://osu.ppy.sh/users/2140739) and [Shinsekai-](https://osu.ppy.sh/users/2140739) has helped players ease into the high level of gameplay that EGTS is shooting for very well.
 
 ### Round of 32
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO32.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO32.png)
 
-audio too? idk
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-conviction.mp3">
+    </audio>
+</div>
 
 We then moved on to quite a different style for this tiebreaker, being a more rock/speedcore-focused song, rhythms changing all over the board, and one professional grade type of song, despite the composer, [trailmix37](https://soundcloud.com/trailmix38), being completely unknown to begin with, having 52 subscribers on SoundCloud, not a single osu! map submitted for any of his 4 past songs, but if you were to play this without knowing any of this context? You would not notice it whatsoever. Mappers [davidminh0111](https://osu.ppy.sh/users/2140739) and [SolaEclipse](https://osu.ppy.sh/users/2140739) did not hold back whatsoever after hearing this song, with some of these sections able to trip you up, no matter the mod that was chosen, and you can see this even in the matches that attempted this map.
 
 ### Round of 16
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO16.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO16.png)
 
-audio too? idk
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-the-great-revelation-by-mother-brain.mp3">
+    </audio>
+</div>
+
 
 Oh, did I say the past song changed styles? Okay, maybe this one does too. To quite an absurd amount. A massive departure from the melancholic hype that the two songs before possessed, and this one is just shooting to be a massive bomb, being a 5 minutes Frenchcore track by [Mothtek](https://soundcloud.com/mothtek), one of the more prolific artists in the Japanese Hardtek scene, and with the song being named "[The Great Revelation By Mother Brain](https://soundcloud.com/mothtek/mothtek-the-great-revelation-by-mother-brainegts2025-round-of-16-tiebreaker)", and at some point, you start to ask yourself, when does it stop? The answer is never. Mappers [Ideal](https://osu.ppy.sh/users/3869519) and [Raphalge](https://osu.ppy.sh/users/3918650) tried to reel this insane song in a bit, by making it a bit easier in terms of pure mechanics compared to the Round of 32, as it instead aims to be played with mods by the players left, but even then, it is a struggle for sure.
 
 ### Quarterfinals
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Song_Banners_QF.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_QF.png)
 
-audio too? idk
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-atomic-disassembler.mp3">
+    </audio>
+</div>
 
 [Atomic Disassembler.](https://soundcloud.com/yusuke-7328/atomic-disassembler)
 
@@ -233,32 +274,44 @@ This title summarizes the goal behind this song pretty well. The tiebreaker for 
 
 ### Semifinals
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Song_Banners_SF.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_SF.png)
 
-audio too? idk
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-white-tiger.mp3">
+    </audio>
+</div>      
 
 Where do we even start with this song. With a song mainly based on Oriental vibes, [Xyris](https://soundcloud.com/itsxyris), being no stranger to the osu! tournament scene, having provided songs to the [osu!mania 7K World Cup 2025](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2025_7K), and [Resurrection Cup](https://osu.ppy.sh/wiki/sv/Tournaments/RESC/2024), where he has also notably been in charge of Quality Assurance for Song Production, he definitely understood the assignemnt here as well, and throws out crazy mixes of Speedcore and Dubstep, to make for some of the most challenging bursts, and mappers [Briesmas](https://osu.ppy.sh/users/2865172) and [MTNTWarz](https://osu.ppy.sh/users/2865172), heavily accompanied by head mappoolers [4sbet1](https://osu.ppy.sh/users/11563671) and [Raphalge](https://osu.ppy.sh/users/3918650) have created one of the most daunting maps in this tournament for sure, and this map shows it as well, by being the second-highest tiebreaker by SR, being higher than the Finals Tiebreaker.
 
 ### Finals
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Song_Banners_F.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_F.png)
 
-audio too? idk
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-justice-rectifier.mp3">
+    </audio>
+</div>    
 
 And now that we're on it, let's talk about this Finals Tiebreaker, "[Justice Rectifier](https://soundcloud.com/foodbot/justice-rectifier)" by [Foodbot](https://soundcloud.com/foodbot), [Type R](https://soundcloud.com/hiimtype_r) and [SDMNE](https://soundcloud.com/sdmne), with two brand-new artists to GTS this year, as well as SDMNE, coming back from his regular GTS appearances in EGTS 2021 and 2022, as well as MGTS and COEGTS 2023. This whole song was quite the challenge to even finalize for everyone involved, with this being born out of another song being cancelled last minute, hence being made from December 2nd 2024, and composition being officially finalized on March 9th 2025, exactly 7 days before release. However, nothing here shows any corners being cut, with one of the most melodic songs in our late stage, and being an incredible mix of genres, between Hardcore Techno, Gabber, as well as Hi-Tech. And with the map made by one of the best mappers trio possible with [tasuke912](https://osu.ppy.sh/users/2774767), [uone](https://osu.ppy.sh/users/532171910), and [kei821](https://osu.ppy.sh/users/5846289), it did not disappoint, despite having been forced to be made in three total days, making up for an amazing experience overall, to prepare for the Grand Finals Tiebreaker.
 
 ### Grand Finals
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Song_Banners_GFHR2.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_GFHR2.png)
 
-audio too? idk
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/egts-2025-absolute-disorder.mp3   ">
+    </audio>
+</div>    
 
 This is the only non-tiebreaker song to be discussed here, but with good reason to do so.
 Our Grand Finals Hard Rock 2 pick, "[AbsoluTe disoRdeR](https://soundcloud.com/abs_dsr/absolute-disorder)" by [Acute Disarray](https://soundcloud.com/abs_dsr) (Now revealed to be an unit of [AiSS](https://www.youtube.com/channel/UCySx3jmK0bjwiwix_EoKm4w) participating for Orzmic, [rN](https://soundcloud.com/rurinn) participating for Phigros, [takehirotei](https://soundcloud.com/takehirotei) participating for GTS, [Riya](https://soundcloud.com/riyaelectronic) participating for A Dance of Fire and Ice), was an original song released for EGTS 2025, but also as a 4-way collaboration, with three of the rhythm games we collaborated with throughout EGTS, being [Phigros](https://x.com/Phigros_PGS), [Orzmic](https://x.com/orzmic) and [A Dance of Fire and Ice](https://7thbe.at/), with the song releasing on all of the following games as well. The sheer scale this collaboration is on is definitely absurd, and the map made by [Hivie](https://osu.ppy.sh/users/14102976) for it definitely follows it, on top of that song being a very defining pick for both Grand Finals matches this week. Due to the special aspect of it, it's a song that is not planned to be allowed to be mapped freely, but a full spread on all gamemodes is planned to be made for this song. Do give it time.
 
 ---
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/Song_Banners_GFTB.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_GFTB.png)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/S_00DzXfNNI" frameborder="0" allowfullscreen></iframe>
@@ -295,7 +348,7 @@ The final product speaks for itself, so I will let you enjoy it.
     }
 </style>
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/interview_kanten.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_kanten.png)
 
 [kanten_07](https://osu.ppy.sh/users/11680357) has been 2nd place finish of this year's EGTS, also having one of the most surprising bracket runs in the entire tournament, forcing the closest Grand Finals in EGTS history.
 
@@ -340,7 +393,7 @@ The two people that surprised me with their performance were Grape_Tea and chiba
 </div>
 
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/interview_4sbet1.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_4sbet1.png)
 
 [4sbet1](https://osu.ppy.sh/users/11563671) was one of the head mappoolers for this year's EGTS, having helped tremendously in terms of improving communication with Japanese users as well as having worked upon a huge part of the general mappooling work with [ekumea1123](https://osu.ppy.sh/users/9119501), especially for later stages.
 
@@ -383,7 +436,7 @@ To be honest, ekumea1123 did more work than I did, and I also received a tremend
 
 </div>
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/interview_foodbot.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_foodbot.png)
 
 A brand-new addition from this year's GTS releases, [Foodbot](https://osu.ppy.sh/users/35127759) has been one of the most active composers in EGTS, working on **4** different song projects for this tournament alone, having been a part of the [Finals No Mod 4](https://osu.ppy.sh/beatmapsets/2340046#taiko/5026842) with the Spaceport Sound Team, also having made the [Finals Tiebreaker](https://osu.ppy.sh/beatmapsets/2340085#taiko/5026904), *Justice Rectifier*, with [Type R](https://soundcloud.com/hiimtype_r) and [SDMNE](https://soundcloud.com/sdmne), [deadline chasers, the Grand Finals No Mod 4](https://osu.ppy.sh/beatmapsets/2343520#taiko/5037773) with [Kyotsugyon](https://soundcloud.com/kyotsugyon), as well as having been part of the [Grand Finals Tiebreaker](https://osu.ppy.sh/beatmapsets/2343549#taiko/5037847).
 
@@ -434,7 +487,7 @@ In the end, it almost feels like I'm making a song for a music label, and it's a
 
 </div>
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/interview_zeth.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_zeth.png)
 
 [Z419](https://osu.ppy.sh/users/9912966) (a.k.a. Zeth) has been the main designer for this final edition of EGTS, being in charge of making the most appealing designs possible for everything that was not an original song in this tournament.
 
@@ -470,7 +523,7 @@ Creativity-wise, it was sometimes challenging because having to come up with a n
 
 </div>
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/interview_hedge.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_hedge.png)
 
 [overdahedge2015](https://osu.ppy.sh/users/9864847) has been a force to be reckoned with in tournament staffing over the years, having been a playtester for numerous taiko tournaments, and EGTS was no stranger to this, as he was the head playtester for this tournament as well.
 
@@ -554,7 +607,9 @@ the most ambitious community endeavour in osu!taiko
 
 This final iteration of the Expert Global Taiko Showdown would not have been possible without the contributions of our 157 staff members and the 157 players who joined in and played our Qualifiers. 
 
-![](/wiki/shared/news/2025-04-27-expert-global-taiko-showdown-2025-concludes/signatures.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/signatures.png)
+
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Credits.png)
 
 Thank you to everyone involved from staff, to players, to spectators. See you in the last few GTS tournaments we have left until August!
 
