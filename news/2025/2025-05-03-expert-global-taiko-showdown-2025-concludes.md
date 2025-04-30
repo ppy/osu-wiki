@@ -116,7 +116,6 @@ This clip right below summarizes very well how stressful matches in EGTS are to 
     </video>
 </div>
 
-
 ### Quarterfinals: ::{ flag=KR }:: Peaceful vs. ::{ flag=JP }:: kanten_07
 
 <div align="center" class="osu-md__paragraph">
@@ -202,7 +201,6 @@ And yet....
 
 Whatever it was that happened in his mind to hit all of this, this was the turning point of the map, as ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) took the lead from that point, and never looked back, to win with a jaw-dropping 7,627 points difference. This whole Grand Finals is truly a once-in-a-lifetime experience to enjoy, so make sure to check both matches out.
 
-
 ## Original songs 
 
 <style>
@@ -254,7 +252,6 @@ We then moved on to quite a different style for this tiebreaker, being a more ro
         <source src="https://assets.ppy.sh/media/news/egts-2025-the-great-revelation-by-mother-brain.mp3">
     </audio>
 </div>
-
 
 Oh, did I say the past song changed styles? Okay, maybe this one does too. To quite an absurd amount. A massive departure from the melancholic hype that the two songs before possessed, and this one is just shooting to be a massive bomb, being a 5 minutes Frenchcore track by [Mothtek](https://soundcloud.com/mothtek), one of the more prolific artists in the Japanese Hardtek scene, and with the song being named "[The Great Revelation By Mother Brain](https://soundcloud.com/mothtek/mothtek-the-great-revelation-by-mother-brainegts2025-round-of-16-tiebreaker)", and at some point, you start to ask yourself, when does it stop? The answer is never. Mappers [Ideal](https://osu.ppy.sh/users/3869519) and [Raphalge](https://osu.ppy.sh/users/3918650) tried to reel this insane song in a bit, by making it a bit easier in terms of pure mechanics compared to the Round of 32, as it instead aims to be played with mods by the players left, but even then, it is a struggle for sure.
 
@@ -387,11 +384,9 @@ From Friday until just before the matches, we didn't practice all that much, but
 The two people that surprised me with their performance were Grape_Tea and chibamasu;
 
 - Grape_Tea really surprised me by SSing every map in the Qualifiers, and with their overwhelming consistency in the map pools every week.
-
 - I played against chibamasu in Round of 32, and I was impressed when they FC'd every FM map with HDHR and when they SS'd the NM5 map. Their HD skill and overall consistency really surprised me. Their HD2 play at the All-Star Showcase was impressive as well.
 
 </div>
-
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_4sbet1.png)
 
@@ -564,7 +559,6 @@ As someone that's pooling for RGTS right now, it's unreal and honestly, a bit de
 As a player, I think current pool structure is honestly great! I think being too picky makes pooling hellish, and as long as polyrhythm HR1s stay away from me it's all okay in my book.
 
 </div>
-
 
 As a final way to wrap up this whole article, we thought there would be only one way to ask our staff members to finish the very last EGTS edition, so here it is:
 
