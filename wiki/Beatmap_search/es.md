@@ -149,7 +149,7 @@ lastplayed>1y
 status=r,l
 ```
 
-(Lazer, sitio web) Encuentra beatmaps que tengan la etiqueta «J-pop» puesta por mapper, así como la etiqueta «meta/custom skin» puesta por los usuarios:
+(Lazer, sitio web) Encuentra beatmaps que tengan la etiqueta «J-pop» puesta por el mapper, así como la etiqueta «meta/custom skin» puesta por los usuarios:
 
 ```
 j-pop tag="meta/custom skin"
