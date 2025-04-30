@@ -94,7 +94,7 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
 </div>
 <div class="wiki-main-page-panel">
 
-# Komunitas dan proyek
+# [Komunitas](/wiki/Community) dan [proyek](/wiki/Community/Projects)
 
 Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas dan kontes yang berlangsung, jalinlah hubungan dengan pengguna lain, atau jadilah bagian dari event besar selanjutnya!
 
