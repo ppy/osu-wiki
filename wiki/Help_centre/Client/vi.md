@@ -84,16 +84,16 @@ Nếu bạn thấy lỗi này khi cố gắng mở osu! hoặc trình cập nh�
 
 Dưới đây là một bộ sưu tập các phông chữ phổ biến được sử dụng trong các phiên bản Windows khác nhau và trên toàn web, có thể giúp bạn:
 
-- [Microsoft core web fonts]() (especially Arial, Times New Roman, Trebuchet MS, và Verdana)
-- [Tahoma]()
-- [Windows Live Essentials]() (Segoe UI)
-- [Microsoft JhengHei]() (微軟正黑體) (Traditional Chinese UI font)
+- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, và Verdana)
+- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
+- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Traditional Chinese UI font)
 
-Xem [chủ đề này]() trên Microsoft Answers để biết thêm một số lời khuyên chi tiết và các lựa chọn khác để lấy lại chúng.
+Xem [chủ đề này](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) trên Microsoft Answers để biết thêm một số lời khuyên chi tiết và các lựa chọn khác để lấy lại chúng.
 
 ### Một số beatmap của tôi bị thiếu! {id=missing-beatmaps}
 
-Hãy chắc chắn rằng bạn không đang nhóm các beatmap của mình theo bất kỳ tiêu chí phân loại nào ở góc trên bên phải của màn hình (tức là "grouping" phải được đặt là "no grouping").
+Hãy chắc chắn rằng bạn không đang nhóm các beatmap của mình theo bất kỳ tiêu chí phân loại nào ở góc trên bên phải của màn hình (tức là phần "group" phải được đặt là "không sắp xếp").
 
 Nếu bạn vừa tải một beatmap, bạn có thể thử làm mới danh sách beatmap của mình bằng cách nhấn `F5` ở màn hình chọn bài.
 
@@ -121,7 +121,7 @@ Nếu không có phương pháp nào trong số này hiệu quả, như biện p
 7. Đổi tên file theo ý bạn (chỉ cần không đặt lại là “osu!”), rồi nhấn `Enter`.
 8. Khởi động lại osu!.
 
-Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên bản [Stable 20210519.3]() ngày 19-05-2021. Nếu bạn vẫn gặp lỗi, vui lòng [cho chúng tôi biết]().
+Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên bản [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) ngày 19-05-2021. Nếu bạn vẫn gặp lỗi, vui lòng [cho chúng tôi biết](https://github.com/ppy/osu-stable-issues/issues).
 
 ### Danh sách bài hát của tôi cứ tự cuộn! {id=songs-list-scrolling}
 
@@ -179,7 +179,7 @@ Chơi game hoặc làm việc khác sẽ giúp client bắt kịp tiến độ t
 
 **Đây là một tính năng đặc biệt gọi là *smoke*, cho phép bạn vẽ nguệch ngoạc lên màn hình chơi để giải trí. Bất cứ ai đang theo dõi bạn cũng sẽ thấy những gì bạn vẽ.**
 
-Phím tắt mặc định cho tính năng này là `C`, và nó sẽ hoạt động miễn bạn giữ phím này. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục `osu!` của hộp thoại `Change keyboard bindings`.
+Phím tắt mặc định cho tính năng này là `C`, và nó sẽ hoạt động miễn bạn giữ phím này. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục `osu!` của hộp thoại `cài đặt phím`.
 
 ### Làm sao để lưu lại bản replay cho điểm số tôi vừa đạt được? {id=save-replay}
 
@@ -233,7 +233,7 @@ Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng đị
 
 **Câu trả lời gần như luôn là có, nhưng bạn có thể kiểm tra [trạng thái máy chủ osu!]() hoặc [Twitter @osustatus]() để chắc chắn mọi thứ đang hoạt động trơn tru ở phía chúng tôi.**
 
-Nếu máy chủ đang offline, đừng đóng osu! cho đến khi chúng tôi sửa lỗi và máy chủ được khôi phục, vì game sẽ thử gửi điểm của bạn lại trong vòng một giờ trước khi bỏ cuộc.
+Nếu máy chủ đang ngoại tuyến, đừng đóng osu! cho đến khi chúng tôi sửa lỗi và máy chủ được khôi phục, vì game sẽ thử gửi điểm của bạn lại trong vòng một giờ trước khi bỏ cuộc.
 
 ### Bạn có thể tải lên điểm số tôi đã đạt được với tôi? {id=upload-replay}
 
@@ -260,7 +260,7 @@ Nếu vẫn không giúp được, bạn có thể thử cập nhật driver car
 
 ### Game của tôi bị lỗi đồ họa, như kiểu bị xé hình! {id=screen-tearing}
 
-**Điều này do một hiệu ứng gọi là [screen tearing]() và có thể được khắc phục bằng cách đặt tuỳ chọn `Frame limiter` trong game thành `VSync`.**
+**Điều này do một hiệu ứng gọi là [xé màn hình](https://en.wikipedia.org/wiki/Screen_tearing) và có thể được khắc phục bằng cách đặt tuỳ chọn `Frame limiter` trong game thành `VSync`.**
 
 Đây là một hiệu ứng vô hại (mặc dù nhìn khá xấu!) xảy ra vì tốc độ làm mới của game không đồng bộ với tốc độ làm mới của màn hình.
 
@@ -298,7 +298,7 @@ Vui lòng tham khảo bài viết chính thức trong cơ sở tri thức của 
 
 #### Cho phép một chương trình qua Kaspersky Internet Security {id=firewall-whitelist-kaspersky}
 
-Vui lòng tham khảo bài viết hướng dẫn chính thức của Kaspersky về cách thêm ứng dụng vào Khu vực Tin cậy (Trusted Zone).
+Vui lòng tham khảo bài viết [hướng dẫn tính năng chính thức](https://support.kaspersky.com/15163#block2) của Kaspersky về cách thêm ứng dụng vào khu vực Tin cậy (Trusted Zone).
 
 #### Cho phép một chương trình qua McAfee {id=firewall-whitelist-mcafee}
 
@@ -320,7 +320,7 @@ File `network.log` trong thư mục `Logs` của thư mục cài đặt osu!
 
 Bạn có thể thực hiện trace route bằng cách mở Command Prompt và chạy lệnh `tracert`.
 
-Để mở Command Prompt, nhấn và giữ phím `Windows` rồi nhấn phím `R`, sau đó gõ `cmd` và bấm `OK`. Để biết thêm thông tin, hãy xem bài viết trong [cơ sở kiến thức tính năng của Windows]().
+Để mở Command Prompt, nhấn và giữ phím `Windows` rồi nhấn phím `R`, sau đó gõ `cmd` và bấm `OK`. Để biết thêm thông tin, hãy xem bài viết trong [cơ sở kiến thức tính năng của Windows](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
 
 Bạn có thể gõ lệnh trace route trong cửa sổ dòng lệnh. Ví dụ, lệnh `tracert cho.ppy.sh` sẽ theo dõi quá trình máy tính của bạn kết nối đến máy chủ trò chơi qua Internet. Quá trình này có thể mất một chút thời gian, đôi khi hơn một phút tùy theo kết nối của bạn.
 
@@ -332,7 +332,7 @@ Chúng tôi cần kết quả từ lệnh trace route đối với các máy ch�
 
 **Máy chủ có thể đang gặp sự cố.**
 
-Hãy kiểm tra trang [trạng thái máy chủ osu!]() để xem có vấn đề nào đang diễn ra không.
+Hãy kiểm tra trang [trạng thái máy chủ osu!](https://status.ppy.sh/ "osu! server status") để xem có vấn đề nào đang diễn ra không.
 
 **Lỗi này cũng có thể xảy ra nếu bạn đang sử dụng kết nối internet chia sẻ, proxy, hoặc VPN.** 
 
@@ -354,7 +354,7 @@ Tor hoặc các mạng liên quan đến Tor relay phần lớn sẽ không th�
 
 Nếu máy tính của bạn đang quá nhiệt khi chơi osu!, đây là một số cách giúp giảm nhiệt độ máy tính:
 
-Cách đơn giản nhất là thay đổi cài đặt giới hạn khung hình (frame limiter):
+Cách đơn giản nhất là thay đổi cài đặt giới hạn khung hình:
 
 Mở osu!.
 
