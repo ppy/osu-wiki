@@ -398,7 +398,7 @@ The two people that surprised me with their performance were [Grape_Tea](https:/
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6177263">Kasumi-sama</a></p>
 
-Despite being a top player for years, this mappooling experience has been your first ever on an international tournament. Coming in with such a big amount of restrictions, with the mappool being fully custom-mapped, involving a lot of original songs to balance into it as well, how did it feel organis   ing all of this?
+Despite being a top player for years, this mappooling experience has been your first ever on an international tournament. Coming in with such a big amount of restrictions, with the mappool being fully custom-mapped, involving a lot of original songs to balance into it as well, how did it feel organising all of this?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11563671" style="background-image: url('/wiki/shared/avatars/4sbet1.jpg')"></a>
 
