@@ -38,7 +38,9 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 ## Qualification
 
-Beatmaps that receive two nominations per each available game mode are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
+Beatmaps that receive two nominations per each available game mode are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_points). When a beatmap stays in Qualified for at least 7 days without any open [Problems or Suggestions](/wiki/Modding#types-of-mod-posts), the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
+
+If a beatmap is disqualified, its ranked timer will be reset to 7 days if either new difficulties are added or if the beatmap is qualified with different Beatmap Nominators. Additionally, for every week a beatmap stays disqualified, the timer will increase by 1 day, up to a maximum of 14 days.
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
 
@@ -60,4 +62,4 @@ Ranked beatmaps are only unranked under exceptional circumstances when issues ar
 
 ## Notes
 
-[^main-game-mode]: A beatmap's game mode is considered its "main" if it contains the most difficulties. In the event the amount of difficulties is the same between two modes, the main game mode will be the one with the most difficulties mapped by the beatmap's host. If both of those conditions are met, then main game mode will be the one which gets nominated first.
+[^main-game-mode]: A beatmap's game mode is considered its "main" if it contains the most difficulties. In the event the amount of difficulties is the same between 2+ modes, the main game mode will be the one with the most difficulties mapped by the beatmap's host. If both of those conditions are met, then main game mode will be the one which gets nominated first. 
