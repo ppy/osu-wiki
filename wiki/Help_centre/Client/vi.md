@@ -129,13 +129,13 @@ Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên b�
 
 Những vấn đề này cũng có thể do các ứng dụng giả lập hoặc thay đổi phím tắt, chẳng hạn như Xpadder hoặc X-Mouse Button Control. Nếu bạn đang dùng những ứng dụng này cho game khác, hãy vô hiệu hóa chúng.
 
-Hiện tượng cũng có thể xuất phát từ bàn phím số (numpad), vì các phím này có thể được dùng để cuộn danh sách chọn bài. Nhấn phím `NumLock` để vô hiệu hóa numpad và sau đó nhấn `9`, `8`, `3` hoặc `2` trên numpad để khắc phục.
+Hiện tượng cũng có thể xuất phát từ bàn phím số, vì các phím này có thể được dùng để cuộn danh sách chọn bài. Nhấn phím `NumLock` để vô hiệu hóa bàn phím số và sau đó nhấn `9`, `8`, `3` hoặc `2` trên bàn phím số để khắc phục.
 
 Bạn cũng nên kiểm tra xem có phím nào trên thiết bị ngoại vi bị kẹt hoặc hỏng không.
 
 ### Tôi đã tải một gói beatmap, nhưng osu! luôn cố “sửa chữa” file đó! {id=beatmap-pack-extraction}
 
-Bạn cần giải nén gói này vào thư mục Songs.
+**Bạn cần giải nén gói này vào thư mục Songs.**
 
 Hầu hết các gói beatmap ở định dạng `.rar`, tức là một kho lưu trữ nén chứa các tệp beatmap. Bạn hãy dùng phần mềm giải nén yêu thích (chúng tôi khuyên dùng [7-Zip]()) để trích xuất toàn bộ các file trong gói vào thư mục "Songs" của bạn trước.
 
@@ -223,11 +223,11 @@ Hãy thử đóng các chương trình thừa trước khi chơi osu! nếu bạ
 
 **Đôi khi trạng thái của các beatmap có thể bị sai, điều này khiến cho điểm số bạn đạt được không thể gửi đi.**
 
-Trong menu chọn bài, hãy kiểm tra góc trên bên trái màn hình để xem có biểu tượng nhỏ nào không (ví dụ, một beatmap đã được xếp hạng sẽ hiển thị biểu tượng mũi tên màu xanh lam ở góc trên bên trái). Nếu beatmap của bạn không hiển thị bất kỳ biểu tượng nào, hoặc hiển thị biểu tượng sai, thì điểm số của bạn không thể gửi đi.
+Trong menu chọn bài, hãy kiểm tra góc trên bên trái màn hình để xem có biểu tượng nhỏ nào không (ví dụ, một beatmap đã được xếp hạng sẽ hiển thị biểu tượng mũi tên màu xanh lam ở góc trên bên trái). Nếu beatmap của bạn không hiển thị bất kỳ biểu tượng nào, hoặc biểu tượng hiển thị sai thì điểm số của bạn cũng không thể được gửi đi.
 
-![](img/correct-map-status.png "This is what it should look like")
+![](img/correct-map-status.png "Đây là những gì nó sẽ trông như thế nào")
 
-Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng địa phương có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!]()" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
+Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng địa phương có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!](#missing-beatmaps)" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
 
 #### Máy chủ gửi điểm có đang hoạt động không? {id=no-submission-servers}
 
@@ -254,7 +254,7 @@ Giá trị mặc định hoạt động tốt với hầu hết mọi người, 
 1. Mở osu!.
 2. Nhấn nút `Options` trong menu chính, hoặc nhấn `Ctrl + O`.
 3. Gõ `offset` vào thanh tìm kiếm nhanh. Điều này sẽ đưa bạn đến Universal Offset hiện tại mà client của bạn đang sử dụng.
-4. Sử dụng thanh trượt để điều chỉnh Universal Offset của bạn. Ngoài ra, bạn có thể thử sử dụng công cụ [offset wizard]() để giúp bạn thực hiện quá trình này.
+4. Sử dụng thanh trượt để điều chỉnh Universal Offset của bạn. Ngoài ra, bạn có thể thử sử dụng công cụ [offset wizard](/wiki/Client/Options/Offset_Wizard) để giúp bạn thực hiện quá trình này.
 
 Nếu vẫn không giúp được, bạn có thể thử cập nhật driver card âm thanh hoặc driver âm thanh của bo mạch chủ.
 
@@ -312,7 +312,7 @@ Nếu bạn vẫn gặp sự cố khi kết nối tới máy chủ của chúng 
 
 Nhật ký kết quả lệnh `tracert` đến các máy chủ `cho.ppy.sh`, `osu.ppy.sh` và `m1.ppy.sh` (xem hướng dẫn bên dưới)
 
-File `network.log` trong thư mục `Logs` của thư mục cài đặt osu!
+Tệp `network.log` trong thư mục `Logs` của thư mục cài đặt osu!
 
 #### Chạy lệnh "trace route" để khắc phục sự cố kết nối {id=traceroute}
 
@@ -398,7 +398,7 @@ Ghosting là một vấn đề khá phức tạp, nhưng đơn giản là sự c
 
 Hầu hết các bàn phím mới sẽ cho phép giữ tối đa **6** phím cùng lúc, mặc dù là ở các tổ hợp ngẫu nhiên.
 
-Bạn có thể kiểm tra giới hạn ghosting của bàn phím bằng cách sử dụng công cụ [Anti-Ghosting của drakeirving]().
+Bạn có thể kiểm tra giới hạn ghosting của bàn phím bằng cách sử dụng công cụ [Anti-Ghosting của drakeirving](https://drakeirving.github.io/MultiKeyDisplay).
 
 Mặc dù Tiêu chí Xếp hạng cho osu!mania cố gắng giảm bớt vấn đề ghosting bằng cách không cho phép hơn 6 nốt được kích hoạt cùng một lúc, bạn có thể gặp phải vấn đề này nếu bàn phím của bạn đã cũ.
 
@@ -429,11 +429,11 @@ Chúng tôi cũng khuyên bạn nên đảm bảo rằng các thiết bị ngo�
 
 ### Tôi đang chơi bằng tablet và con trỏ cảm thấy quá chậm! {id=slow-cursor}
 
-**Bạn có thể khắc phục vấn đề này bằng cách thiết lập một khu vực hoạt động (tablet area) nhỏ hơn cho thiết bị của mình.**
+**Bạn có thể giải quyết vấn đề này bằng cách thiết lập một khu vực bảng vẽ nhỏ hơn cho thiết bị của mình.**
 
 Trên hầu hết tablet Wacom, việc này được thực hiện trong tab `Mapping` của ứng dụng `Wacom Tablet Properties`.
 
-![Wacom Tablet Properties screen showing Mapping options](img/tablet-area.png "Interface for changing tablet area on Wacom devices")
+![Wacom Tablet Properties screen showing Mapping options](img/tablet-area.png "Giao diện thay đổi vùng bảng trên thiết bị Wacom")
 
 Bạn sẽ cần tham khảo hướng dẫn từ nhà sản xuất tablet của bạn để biết cách thiết lập vùng hoạt động (tablet area) cho thiết bị cụ thể.
 
