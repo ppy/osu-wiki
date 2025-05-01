@@ -42,7 +42,7 @@ Beatmaps that receive two nominations per each available game mode are moved to 
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
 
-Hybrid beatmaps — that is, beatmaps that contain multiple game modes — require two nominations on its main game mode, and only one nomination for each of its other modes before moving to the Qualified category. Hybrid Beatmap Nominators who nominate these sets will affect the progress for all game modes they belong to.
+Hybrid beatmaps — that is, beatmaps that contain multiple game modes — require two nominations on its main game mode[^main-game-mode], and only one nomination for each of its other modes before moving to the Qualified category. Hybrid Beatmap Nominators who nominate these sets will affect the progress for all game modes they belong to.
 
 ## Nomination resets
 
@@ -57,3 +57,7 @@ Members of the BN and NAT occasionally [veto](/wiki/People/Beatmap_Nominators/Be
 Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have [score leaderboards](/wiki/Ranking) and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.
+
+## Notes
+
+[^main-game-mode]: A beatmap's game mode is considered its "main" if it contains the most difficulties. In the event the amount of difficulties is the same between two modes, the main game mode will be the one with the most difficulties mapped by the beatmap's host. If both of those conditions are met, then main game mode will be the one which gets nominated first.
