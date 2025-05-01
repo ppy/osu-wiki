@@ -43,8 +43,8 @@ In the final quarter, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680
 
 For the first and only time in the history of EGTS, players and viewers alike would be treated to a true world premiere: a genuine Grand Finals tiebreaker; an 11-minute gauntlet at the end of a nerve-wracking one-hour match to decide whether ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) would be crowned the final EGTS champion, or whether he would have to prove himself all over again.
 Just two minutes in, the trajectory of the tiebreaker was set with ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) breaking combo while kanten_07 kept the FC well through the first third of the entire map.
-::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) managed to build a substantial lead over ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) who kep finding misses over and over, resetting his combo and letting his opponent pull ahead without a worry.
-By the end, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) won with a 47.159 score difference, which is monumental given the sheer length of the tiebreaker, and reset the bracket.
+::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) managed to build a substantial lead over ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) who kept finding misses over and over, resetting his combo and letting his opponent pull ahead without a worry.
+By the end, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) won with a 47,159 score difference, which is monumental given the sheer length of the tiebreaker, and reset the bracket.
 
 Both players were given a desperately needed 10-minute break.
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) had just accomplished a feat like no other in the history of EGTS and proved that he was a worthy challenger to the one person who everyone believed could run away with an easy win in Grand Finals.
@@ -55,7 +55,7 @@ The Bracket Reset saw both players starting the same way they did in their previ
 That doesn't mean that their opening picks were easy wins.
 In the first match, both players went with HD on FM3 which saw ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) getting one of the biggest leads nearing 170k score.
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) however decided to switch things up in the Bracket Reset and opted for HR instead.
-::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) ended up winning regardless with a near perfect score of 1.042m, but the insanity of ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s FC given the insane reading and accuracy requirement with HR slapped on top of FM2 can simply not be overstated. 
+::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) ended up winning regardless with a near perfect score of 1,042m, but the insanity of ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s FC given the insane reading and accuracy requirement with HR slapped on top of FM2 can simply not be overstated. 
 Both continued to not give away any of their own picks, but it was apparent that something had changed in ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073)'s mind.
 It showed in his 2x100 FC on FM1 with HD to rectify his 3x100 1 miss play from the previous match, his narrow loss on DT2 despite cutting his 100 count in half and his SS on HD2 until its final ten seconds.
 However, everyone began to worry that all of this might not have been enough as the scoreline was still tied at 5-5.
@@ -179,7 +179,7 @@ Here we were, the final match deciding who would face off against ::{ flag=JP }:
 
 With everyone knowing both players were really good, everyone was expecting this match to be extremely close as it was, especially as it was a revenge match from Semifinals, where ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) came out on top, winning 7-5. 
 
-However, this time around, despite the very similar scoreline, with a 6-7 for , the story of the match was very different, with both players truly showing they were ready, and both players ended up winning their 6 respective picks, which is an absurd sight to have.
+However, this time around, despite the very similar scoreline, with a 6-7 for ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357), the story of the match was very different, with both players truly showing they were ready, and both players ended up winning their 6 respective picks, which is an absurd sight to have.
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-1.png)
 
@@ -381,10 +381,10 @@ By Wednesday, we had made enough notes of most of the maps, and on Thursday, we 
 
 From Friday until just before the matches, we didn't practice all that much, but played the maps as if we were playing a real match, checked if there were any weak parts or habits to note, and if there were, we simply tried to correct them.
 
-The two people that surprised me with their performance were Grape_Tea and chibamasu;
+The two people that surprised me with their performance were [Grape_Tea](https://osu.ppy.sh/users/9540073) and [chibamasu](https://osu.ppy.sh/users/16067522);
 
-- Grape_Tea really surprised me by SSing every map in the Qualifiers, and with their overwhelming consistency in the map pools every week.
-- I played against chibamasu in Round of 32, and I was impressed when they FC'd every FM map with HDHR and when they SS'd the NM5 map. Their HD skill and overall consistency really surprised me. Their HD2 play at the All-Star Showcase was impressive as well.
+- [Grape_Tea](https://osu.ppy.sh/users/9540073) really surprised me by SSing every map in the Qualifiers, and with their overwhelming consistency in the map pools every week.
+- I played against [chibamasu](https://osu.ppy.sh/users/16067522) in Round of 32, and I was impressed when they FC'd every FM map with HDHR and when they SS'd the NM5 map. Their HD skill and overall consistency really surprised me. Their HD2 play at the All-Star Showcase was impressive as well.
 
 </div>
 
@@ -398,7 +398,7 @@ The two people that surprised me with their performance were Grape_Tea and chiba
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6177263">Kasumi-sama</a></p>
 
-Despite being a top player for years, this mappooling experience has been your first ever on an international tournament. Coming in with such a big amount of restrictions, with the mappool being fully custom-mapped, involving a lot of original songs to balance into it as well, how did it feel organizing all of this?
+Despite being a top player for years, this mappooling experience has been your first ever on an international tournament. Coming in with such a big amount of restrictions, with the mappool being fully custom-mapped, involving a lot of original songs to balance into it as well, how did it feel organis   ing all of this?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11563671" style="background-image: url('/wiki/shared/avatars/4sbet1.jpg')"></a>
 
@@ -441,7 +441,7 @@ A brand-new addition from this year's GTS releases, [Foodbot](https://osu.ppy.sh
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6177263">Kasumi-sama</a></p>
 
-You were one of the composers that participated in the most original songs released in EGTS, having been involved in 4 of them. With all of these having been collaborations, how did it feel having to tackle all of these vastly different organizations, and what have you felt was the biggest challenge while working on this tournament?
+You were one of the composers that participated in the most original songs released in EGTS, having been involved in 4 of them. With all of these having been collaborations, how did it feel having to tackle all of these vastly different organisations, and what have you felt was the biggest challenge while working on this tournament?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/35127759" style="background-image: url('/wiki/shared/avatars/Foodbot.jpg')"></a>
 
@@ -510,7 +510,7 @@ How was the working environment like in the tournament, especially in the design
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9912966">Z419</a></p>
 
-Most of the originals are done with lots of coordination between the staff and the various Illustrators/Designers/VFX artists so it is pretty well managed and organized, though the deadline chasing was definitely something that May Have Taken A Toll on some of us so it is stressful to say the least LOL.
+Most of the originals are done with lots of coordination between the staff and the various Illustrators/Designers/VFX artists so it is pretty well managed and organised, though the deadline chasing was definitely something that May Have Taken A Toll on some of us so it is stressful to say the least LOL.
 
 About the designers' channel... yeah. The world probably needs to see the design channel and all the dumb things that happened on there (which by the way is renamed to #anything-but-design so feel free to make of that what you will), but having a group of designers that so frequently banter and talk about dumb things in the channel during the making of EGTS helped a lot in managing the stress and many of us have bonded because of this and have had even more chances to work together outside of the tournament since then.
 
