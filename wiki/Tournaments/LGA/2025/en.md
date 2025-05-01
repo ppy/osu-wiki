@@ -12,20 +12,16 @@ tags:
 
 ![LGA 2025 banner](img/lga2025-banner.jpg)
 
-The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the second instalment of the LGA series.
+The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the second instalment of the Lazer Grand Arena series.
 
 ## Tournament schedule
 
 | Event | Timestamp |
-| --: | :-- i
+| --: | :-- |
 | Qualifier and tournament format showcase | 2025-05-04 (17:00 UTC) |
-| Qualifier stage | 2025-05-04 (19:00 UTC)/2025-05-11 (19:00) |
+| Qualifier stage | 2025-05-04 (19:00 UTC) – 2025-05-11 (19:00 UTC) |
 | Bracket stage (single elimination) | 2025-05-18/2025-05-19 |
-| Top 8 (double elimination) | 2025-05-25/2025-052025-05-26 |
-
-## Prizes
-
-*TBA*
+| Top 8 (double elimination) | 2025-05-25/2025-05-26 |
 
 ## Organisation
 
@@ -34,11 +30,12 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084) |
-| Mappool playtester | ::{ flag=PL }:: [\-Sylvari](https://osu.ppy.sh/users/3493804), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856) |
+| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186) |
+| Mappool quality assurance | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |
+| Mappool playtester | ::{ flag=PA }:: [AR9](https://osu.ppy.sh/users/5136821), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dwagon](https://osu.ppy.sh/users/9975427), ::{ flag=PL }:: [Eirra](https://osu.ppy.sh/users/3493804), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856), ::{ flag=US }:: [wr8th](https://osu.ppy.sh/users/20276851) |
 | Mapper | *TBA* |
 | Commentator | *TBA* |
-| Referee |  ::{ flag=IN }:: [-Space](https://osu.ppy.sh/users/7720204), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
@@ -85,7 +82,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 ### Tournament registration
 
 1. Every user interested in playing will be be required to sign up by playing in the official Qualifier playlist. Completing every map of the playlist is *required* to be considered for seeding.
-2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+2. To ensure valid registrations, every qualifying participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the tournament, players are required to not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. Participants will be briefed on further steps via an announcement message on the website.
 4. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
    - The tournament managers must ensure that such staff members do not have access to priviledged information, e.g. Qualifiers score information, mappool information before the mappool showcase, etc. They are to be treated as regular players whenever possible.
@@ -100,11 +97,11 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
    - Hard Rock: 2 beatmaps
    - Double Time: 3 beatmaps
    - Lazer Mod: 1 beatmap
-4. Players will participate in an osu!(lazer) playlist lobby, which can be completed anywhere from Sunday, May 4 19:00 UTC to Sunday, May 11 19:00 UTC.
+4. Players will participate in an osu!(lazer) playlist lobby, which can be completed anywhere from **Sunday, May 4 19:00 UTC** to **Sunday, May 11 19:00 UTC**.
    - The playlist to be played is titled `Lazer Grand Arena 2025 - Qualifiers`, hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
    - *Notice: the playlist **closes** on May 11, 19:00 UTC, at which point no new scores will be allowed. No exceptions will be made.*
 5. Players will have **18 tries** to use across the **12 playlist entries**, with no restrictions on the order of play or amount of tries per individual item.
-  - To be eligible for seeding, every player must submit *at least* one score for every beatmap listed.
+  - To be eligible for seeding, every player must submit ***at least*** one score for every beatmap listed.
 6. Only the player's best attempt (i.e. highest score) will be used for every beatmap listed.
 7. The lowest score across the 12 beatmaps will be removed from each player's seeding calculations.
 8. The seeding method used for Qualifiers will be %MAX — the highest score for each map will receive 100% of the points, and every other player will be awarded a percentage of that top score.

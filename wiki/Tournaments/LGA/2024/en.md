@@ -12,7 +12,7 @@ tags:
 
 ![LGA 2024 banner](img/lga2024-banner.jpg)
 
-The **Lazer Grand Arena** (***LGA***) was an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team).
+The **Lazer Grand Arena** (***LGA***) was an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the first instalment of the Lazer Grand Arena series.
 
 ## Tournament schedule
 
