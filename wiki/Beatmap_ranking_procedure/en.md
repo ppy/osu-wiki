@@ -27,7 +27,7 @@ Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Beat
 ## Nominations {id=nominations}
 
 ::: Infobox
-![](img/nomination-progress-beatmapset1857663.png "Beatmap ranking status displayed on the discussion page, with hype and nomination progress bars partially filled.")
+![](img/nomination-progress-beatmapset2293010.jpg "Beatmap ranking status displayed on the discussion page, with a filled hype progress bar.")
 :::
 
 A **nomination** is a vote of approval, which indicates a beatmap's readiness to become [ranked](/wiki/Beatmap/Category#ranked). It is given to completed beatmaps of sufficient quality, as judged by the nominating user. As a minimum requirement, these beatmaps must follow the [ranking criteria](/wiki/Ranking_criteria) and have 5 or more [hypes](/wiki/Beatmap/Hype).
@@ -41,6 +41,8 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 Beatmaps that receive two nominations per each available game mode are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
+
+Hybrid beatmaps — that is, beatmaps that contain multiple game modes — require two nominations on its main game mode, and only one nomination for each of its other modes before moving to the Qualified category. Hybrid Beatmap Nominators who nominate these sets will affect the progress for all game modes they belong to.
 
 ## Nomination resets
 
