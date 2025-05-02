@@ -35,7 +35,7 @@ Walaupun terdapat banyak beatmap Unranked yang memenuhi kriteria ini, hanya sedi
 
 ### Memperbarui beatmap sebelum Loved
 
-Dalam sebagian kasus, beatmap yang melanggar persyaratan Loved tertentu dapat dinominasikan selama mapper yang bersangkutan dapat memperbarui beatmap ini sebelum diangkat ke Loved. Sebagai contoh, beatmap dengan gambar latar yang tidak senonoh dapat dinominasikan ke Loved selama gambar latar ini dihapus atau diganti. Pada umumnya, salah satu kontributor aktif Project Loved akan mengirimkan postingan pada [halaman diskusi beatmap](/wiki/Beatmap_discussion) apabila terdapat sesuatu yang perlu diubah.
+Dalam sebagian kasus, beatmap yang melanggar persyaratan Loved tertentu dapat dinominasikan selama mapper yang bersangkutan dapat memperbarui beatmap ini sebelum diangkat ke Loved. Sebagai contoh, beatmap dengan gambar latar yang tidak patut dapat dinominasikan ke Loved selama gambar latar ini dihapus atau diganti. Pada umumnya, salah satu kontributor aktif Project Loved akan mengirimkan postingan pada [halaman diskusi beatmap](/wiki/Beatmap_discussion) apabila terdapat sesuatu yang perlu diubah.
 
 Selain itu, para kontributor Project Loved juga sering kalinya dapat mengajukan berbagai saran teknis, seperti perbaikan kualitas audio, [timing](/wiki/Beatmapping/Timing), atau [penulisan metadata sebagaimana yang disarankan oleh kriteria ranking](/wiki/Ranking_criteria/Metadata). Saran ini tidak wajib diterapkan, namun sangat disarankan untuk diikuti.
 
