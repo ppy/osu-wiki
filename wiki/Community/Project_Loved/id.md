@@ -56,7 +56,7 @@ Setiap bulannya, beatmap Loved dipilih berdasarkan 9 kategori berikut untuk mema
 | Ranked Rejects | Beatmap yang memenuhi kriteria ranking dengan persebaran tingkat kesulitan (*spread*) yang lengkap, namun tidak pernah mencapai Ranked. |
 | Gameplay Gimmicks | Beatmap dengan gimik permainan yang tidak lazim, seperti storyboard atau map Aspire. |
 | Meme Monstrosities | Beatmap yang populer akan kontennya yang jenaka atau yang berfokus pada subkultur komunitas lokal tertentu. |
-| Second Shots | Beatmap yang ditolak pada pemungutan suara Loved terdahulu dan diberikan kesempatan kedua. |
+| Second Shots | Beatmap yang sebelumnya pernah ditolak pada pemungutan suara Loved dan diberikan kesempatan kedua. |
 | Chill Champions | Beatmap yang cocok untuk dimainkan secara santai tanpa tingkat kesulitan di atas 5 bintang. |
 
 Selain itu, terdapat juga hingga tiga beatmap *wildcard* yang dapat dipilih dari kategori mana pun, yang menambah jumlah beatmap ini menjadi 12 beatmap per bulannya.
