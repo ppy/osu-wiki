@@ -35,7 +35,7 @@ This is where we've had most changes from last year. The bracket starts as singl
 
 ![](/wiki/shared/news/2025-05-02-the-lazer-grand-arena-returns/breakdown.jpg)
 
-In this new format, players take turns in both banning and picking maps, much like a regular tournament. We've also added protects — maps which can't be banned by either player, and can may only be picked by the player who protected them.
+In this new format, players take turns in both banning and picking maps, much like a regular tournament. We've also added protects — maps which can't be banned by either player, and may only be picked by the player who protected them.
 
 The cumulative scoring aspect is kept in the way of a "set" of two maps, one picked by each player (following the AB-BA order), that is, the first pick for each set will alternate between both players until the match is decided.
 
