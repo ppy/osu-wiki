@@ -231,7 +231,7 @@ Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng đị
 
 #### Máy chủ gửi điểm có đang hoạt động không? {id=no-submission-servers}
 
-**Câu trả lời gần như luôn là có, nhưng bạn có thể kiểm tra [trạng thái máy chủ osu!]() hoặc [Twitter @osustatus]() để chắc chắn mọi thứ đang hoạt động trơn tru ở phía chúng tôi.**
+**Câu trả lời gần như luôn là có, nhưng bạn có thể kiểm tra [trạng thái máy chủ osu!](https://status.ppy.sh) hoặc qua [Twitter @osustatus](https://twitter.com/osustatus) để chắc chắn mọi thứ đang hoạt động trơn tru ở phía chúng tôi.**
 
 Nếu máy chủ đang ngoại tuyến, đừng đóng osu! cho đến khi chúng tôi sửa lỗi và máy chủ được khôi phục, vì game sẽ thử gửi điểm của bạn lại trong vòng một giờ trước khi bỏ cuộc.
 
