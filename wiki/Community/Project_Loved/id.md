@@ -45,7 +45,7 @@ Beatmap mode osu! yang ingin diangkat ke Loved akan ditempatkan pada salah satu 
 
 #### Kategorisasi
 
-Setiap bulannya, beatmap Loved dipilih berdasarkan 9 kategori berikut dengan tujuan untuk memastikan keberagaman beatmap dari para kapten. Sistem kategori ini pertama kali diterapkan pada bulan Februari 2023.
+Setiap bulannya, beatmap Loved dipilih berdasarkan 9 kategori berikut untuk memastikan agar beatmap yang diangkat oleh para kapten selalu beragam antar satu sama lain. Sistem kategori ini pertama kali diterapkan pada bulan Februari 2023.
 
 | Kategori | Penjelasan |
 | :-: | :-- |
@@ -53,7 +53,7 @@ Setiap bulannya, beatmap Loved dipilih berdasarkan 9 kategori berikut dengan tuj
 | Outstanding Oldies | Beatmap yang diunggah pada paruh pertama usia osu!. |
 | Small Spectacles | Beatmap dengan playcount kurang dari 5000 yang dinilai luar biasa oleh para kapten. |
 | Daredevil Difficulties | Beatmap yang dikenal akan tingkat kesuliannya yang ekstrem, yang dinominasikan dengan tujuan untuk memacu kompetisi antar para pemain papan atas. |
-| Ranked Rejects | Beatmap yang memenuhi kriteria ranking dengan persebaran tingkat kesulitan (_spread_) yang lengkap, namun tidak pernah mencapai Ranked. |
+| Ranked Rejects | Beatmap yang memenuhi kriteria ranking dengan persebaran tingkat kesulitan (*spread*) yang lengkap, namun tidak pernah mencapai Ranked. |
 | Gameplay Gimmicks | Beatmap dengan gimik permainan yang tidak lazim, seperti storyboard atau map Aspire. |
 | Meme Monstrosities | Beatmap yang populer akan kontennya yang jenaka atau yang berfokus pada subkultur komunitas lokal tertentu. |
 | Second Shots | Beatmap yang ditolak pada pemungutan suara Loved terdahulu dan diberikan kesempatan kedua. |
@@ -80,11 +80,11 @@ Untuk pertanyaan lebih lanjut seputar apa-apa saja yang tergolong ke masing-masi
 - **Seluruh peraturan dan pedoman kriteria ranking yang tidak secara gamblang disebut sebagai peraturan pada halaman ini akan tetap berlaku sebagai pedoman untuk Loved.** Pedoman ini akan ditegakkan secara kasus per kasus dalam prosesnya, dan mapper yang terlibat akan dihubungi apabila terdapat hal yang perlu diubah pada beatmap mereka. Sebagai catatan, beatmap Loved tidak diharuskan untuk memiliki spread yang lengkap kecuali untuk kategori *Ranked Rejects*.
 - **Metadata beatmap harus ditulis seakurat mungkin.** Beatmap yang dinominasikan akan melewati proses pengecekan metadata akhir oleh anggota komunitas yang ahli dalam hal ini. Metadata yang benar akan membuat beatmap ini lebih mudah untuk dicari. Apabila kamu merasa ragu, silakan hubungi salah satu kapten Loved.
 - **Timing point induk (*uninherited timing point*) yang digunakan harus selalu sama pada seluruh tingkat kesulitan.** Pedoman ini dapat diabaikan untuk gimik tertentu yang melibatkan perubahan BPM, perubahan slider velocity, atau faktor lainnya yang tidak relevan di setiap tingkat kesulitan.
-- **Seluruh tingkat kesulitan harus di-map secara tuntas.** Hal ini berarti segala sesuatunya harus mencakup awal hingga akhir lagu, terlepas dari intro, outro, atau bagian tertentu yang tidak dapat di-map. Sebagai contoh, pada lagu yang berdurasi 5 menit, apabila tingkat kesulitan Extra dan Hard memiliki panjang 4 menit 30 detik, tingkat kesulitan Insane yang ada tidak boleh di-map hanya 1 menit. Apabila seluruh tingkat kesulitan ini tidak menggunakan bagian lagu tertentu dalam jumlah yang besar, berkas lagu yang digunakan harus dipotong menyesuaikan bagian yang di-map.
+- **Seluruh tingkat kesulitan harus di-map secara tuntas.** Hal ini berarti segala sesuatunya harus meliputi awal hingga akhir lagu, terlepas dari intro, outro, atau bagian tertentu yang tidak dapat di-map. Sebagai contoh, pada lagu yang berdurasi 5 menit, apabila tingkat kesulitan Extra dan Hard memiliki panjang 4 menit 30 detik, tingkat kesulitan Insane yang ada tidak boleh di-map hanya 1 menit. Apabila beatmap ini tidak menggunakan bagian lagu tertentu pada seluruh tingkat kesulitannya, berkas lagu yang digunakan harus dipotong menyesuaikan bagian yang di-map.
 
 #### Prioritas nominasi
 
-Para kapten tidak memiliki peraturan khusus yang mengatur beatmap mana saja yang harus mereka nominasikan, namun pada umumnya beatmap yang dipilih ini merupakan beatmap yang telah dikenali dan dihargai secara luas oleh komunitas (sesuai dengan arti nama "Loved" itu sendiri). Terkadang, beatmap tertentu dapat lebih diutamakan apabila beatmap ini jauh lebih tua dari beatmap lainnya atau mengusung gaya mapping yang unik dan berkualitas.
+Para kapten tidak memiliki peraturan khusus yang mengatur beatmap mana saja yang harus mereka nominasikan, namun pada umumnya beatmap yang dipilih merupakan beatmap yang telah dikenal dan dihargai secara luas oleh komunitas (sesuai dengan arti nama "Loved" itu sendiri). Terkadang, beatmap tertentu dapat lebih diutamakan apabila beatmap ini jauh lebih tua dari beatmap lainnya atau mengusung gaya mapping yang unik dan berkualitas.
 
 ## Informasi lebih lanjut
 
