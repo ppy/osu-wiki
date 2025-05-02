@@ -8,7 +8,7 @@ The Lazer Grand Arena is back for its 2025 edition, with a new format and stream
 
 ![](/wiki/Tournaments/LGA/2025/img/lga2025-banner.jpg)
 
-Building on community feedback, this year's LGA retains the defining elements from the last iteration like cumulative scoring and the qualifier playlist, while also giving players more space to strategize with their picks and bans, as well as a new Lazer Mod mod category, with unique gimmicks tied to the new lazer mods!
+Building on community feedback, this year's LGA retains the defining elements from the last iteration like cumulative scoring and the qualifier playlist, while also giving players more space to strategise with their picks and bans. There is also a new Lazer Mod mod category, with unique gimmicks tied to the new lazer mods!
 
 ## Tournament schedule
 
@@ -25,21 +25,21 @@ Catch the full tournament format breakdown and qualifier mappool reveal live on 
 
 ## Registration / Qualifier stage
 
-No sign-up required–**just play!**
+No sign-up required — **just play!**
 
-To participate, simply play in the official playlist starting **Sunday, May 4 at 19:00 UTC**. You'll have **one week** to complete the **12 playlist maps**, with a total of **18 tries** to use as you see fit, the only requirements to participate are to play **every map at least once**, and to not have violated any of the [osu! community rules](/wiki/Rules) in the past 12 months. The **top 32** players will advance to the bracket stage.
+To participate, simply play in the official playlist starting **Sunday, May 4 at 19:00 UTC**. You'll have **one week** to complete the **12 playlist maps**, with a total of **18 tries** to use as you see fit. The only requirements to participate are to play **every map at least once**, and to not have violated any of the [osu! community rules](/wiki/Rules) in the past 12 months. The **top 32** players will advance to the bracket stage.
 
 ## Bracket stage
 
-This is where we've had most changes from last year. The bracket starts as single elimination, transitioning to double elimination at the **top 8** (Quarterfinals), offering more matches between the top contenders. Tiebreakers are no longer sightreads, but still are **osu! originals** make just for the event.
+This is where we've had most changes from last year. The bracket starts as single elimination, transitioning to double elimination at the **top 8** (Quarterfinals), offering more matches between the top contenders. Tiebreakers are no longer sightreads, but still are **osu! originals** made just for the event.
 
 ![](/wiki/shared/news/2025-05-02-the-lazer-grand-arena-returns/breakdown.jpg)
 
-In this new format, players take turns in both banning and picking maps, much like a regular tournament. We've also added protects – maps which can't be banned by either player, and can may only be picked by the player who protected them.
+In this new format, players take turns in both banning and picking maps, much like a regular tournament. We've also added protects — maps which can't be banned by either player, and can may only be picked by the player who protected them.
 
 The cumulative scoring aspect is kept in the way of a "set" of two maps, one picked by each player (following the AB-BA order), that is, the first pick for each set will alternate between both players until the match is decided.
 
-In a set, **the scores for the two maps are added for both players, and highest score wins one point**. The first player to score 3 points wins the match (best of 5 sets). If the score reaches 2-2, the final set becomes a 3-map showdown, ending with an osu! original.
+In a set, **the scores for the two maps are added for both players, and highest score wins one point**. The first player to score 3 points wins the match (best of 5 sets). If the score reaches 2–2, the final set becomes a 3-map showdown, ending with an osu! original.
 
 ---
 
