@@ -21,7 +21,7 @@ Building on community feedback, this year's LGA retains the defining elements fr
 
 ## Tournament format showcase
 
-Catch the full tournament format breakdown and qualifier mappool reveal live on the [osulive Twitch channel](https://twitch.tv/osulive) this **Sunday, May 4 at 17:00 UTC**.
+Catch the full tournament format breakdown and qualifier mappool reveal live on the [osulive Twitch channel](https://twitch.tv/osulive) this **Sunday, May 4 at 15:00 UTC**.
 
 ## Registration / Qualifier stage
 
