@@ -14,7 +14,7 @@ Building on community feedback, this year's LGA retains the defining elements fr
 
 | Event | Timestamp |
 | --: | :-- |
-| Qualifier and tournament format showcase | 2025-05-04 (18:00 UTC) |
+| Qualifier and tournament format showcase | 2025-05-04 (15:00 UTC) |
 | Qualifier stage | 2025-05-04 (19:00 UTC) – 2025-05-11 (19:00 UTC) |
 | Bracket stage (single elimination) | 2025-05-18 & 2025-05-19 |
 | Top 8 (double elimination) | 2025-05-25 & 2025-05-26 |
