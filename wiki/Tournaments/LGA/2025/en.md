@@ -101,11 +101,10 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
    - The playlist to be played is titled `Lazer Grand Arena 2025 - Qualifiers`, hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
    - *Notice: the playlist **closes** on May 11, 19:00 UTC, at which point no new scores will be allowed. No exceptions will be made.*
 5. Players will have **18 tries** to use across the **12 playlist entries**, with no restrictions on the order of play or amount of tries per individual item.
-  - To be eligible for seeding, every player must submit ***at least*** one score for every beatmap listed.
+   - To be eligible for seeding, every player must submit ***at least*** one score for every beatmap listed.
 6. Only the player's best attempt (i.e. highest score) will be used for every beatmap listed.
 7. The lowest score across the 12 beatmaps will be removed from each player's seeding calculations.
-8. The seeding method used for Qualifiers will be %MAX — the highest score for each map will receive 100% of the points, and every other player will be awarded a percentage of that top score.
-The exact formula that will be used for all players (and for each map) is `Final Score = Player Score / MAX Score`, where:
+8. The seeding method used for Qualifiers will be %MAX — the highest score for each map will receive 100% of the points, and every other player will be awarded a percentage of that top score. The exact formula that will be used for all players (and for each map) is `Final Score = Player Score / MAX Score`, where:
    - `Final Score` is the percentage awarded to the current player
    - `Player Score` is the score the current player achieved on the current map
    - `MAX Score` is the highest score achieved for the current map
@@ -116,11 +115,11 @@ The exact formula that will be used for all players (and for each map) is `Final
 1. Matches for this stage of the tournament will have players play maps in sets of two, with the cumulative score across both maps determining the winner of the set. The first player to score to 3 wins the match (best of 5). In the event of a 2-2 tie, the last set will also feature an osu! original pick, to be played after the regular set picks.
 2. The draft order will be composed of a ban/protect phase and a pick/play phase.
 3. The ban/protect phase will start with the lower seeded player banning one map, followed by the higher seeded player banning one map. Afterwards, the lower seeded player will protect one map, followed by the higher seeded player protecting one map. Lastly, the lower seeded player will once again ban a map, followed by the higher seeded player banning a final map.
-2. After the ban/protect phase, players will take turns picking maps from the available pool, following the ABBA order, starting with the higher seedeed player.
-3. Following the Qualifiers, the bracket stage will have two phases (one per weekend):
+4. After the ban/protect phase, players will take turns picking maps from the available pool, following the ABBA order, starting with the higher seedeed player.
+5. The bracket stage will have two phases (one per weekend):
    - For the first weekend, a single-elimination bracket will be played from the Round of 32 up until the Quarterfinals.
    - For the second weekend, a double-elimination bracket will be played, from the Semifinals up until the Grand Finals.
-4. All matches for each weekend will utilise the same mappool.
+6. All matches for each weekend will utilise the same mappool.
    - Each pool will feature 15 maps, organised as such:
      - No Mod: 4 beatmaps
      - Hidden: 3 beatmaps
