@@ -84,16 +84,6 @@ We would like to take a moment and thank each and every team and player for play
 
 ## Grand Finals recap
 
-### ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan
-
-**[View the match information here!](https://osu.ppy.sh/community/matches/117909342)**
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h4m44s&video=2443087414" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
-</div>
-
-placeholder if this even happens
-
 ### ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea
 
 **[View the match information here!](https://osu.ppy.sh/community/matches/117921527)**
@@ -102,7 +92,21 @@ placeholder if this even happens
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h4m8s&video=2444004606" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-placeholder
+At the end of the line, the Sunday of TWC 2025's Grand Finals weekend brought us one of the highest-level taiko tournament matches ever. Don't let the 7–0 scoreline and a twelfth straight championship for Japan fool you, this was no victory parade and Korea brought their A-game with a team that presented the strongest contender to the throne in many years.
+
+Winning the roll, Japan picked [HYKARVS - No matter What](https://osu.ppy.sh/beatmapsets/2358328#taiko/5080882) (NM2), but got an early scare, as Korea's lower accuracy barely offset their lower misscount and Japan held their first pick by a tight margin of 6,523! This turned out to be the first close call of many, with Korea's choice of [rusino - Debug Drug](https://osu.ppy.sh/beatmapsets/2358248#taiko/5080742) (FM1) also going to Japan by 10,004 score, with both teams taking incredible risks using 5 mods each on the brutal freemod.
+
+Now 2–0 up, Japan seemed to hit their stride, winning [96-glass - Contradiction](https://osu.ppy.sh/beatmapsets/2358205#taiko/5080602) (NM6) by 85,892 thanks in part to ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196)'s mind-blowing 99.88% full combo, and breaking Korea again despite their reading prowess on [Jane Remover - Psychoboost ft danny brown](https://osu.ppy.sh/beatmapsets/2358227#taiko/5080666) (FM2) by another not-so-narrow margin. However, just when everyone thought the procession was starting, Japan picked [AVTechNO!xTreow - DYE/Re:flection+](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290) (DT1).
+
+Japan have always been considered the strongest Double Time team, even more so than other mod brackets, on account of their sheer accuracy, especially in the later rounds when other teams start to struggle, but after all these years they seemed to find an equal in a Korean team that mounted a last–second comeback, only to fall within an agonizing 501 score of a break point and a foot back in the matchup. If anyone thought Japan were truly safe in this matchup, this point proved them wrong.
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/osulive/clip/StormySaltyButterLeeroyJenkins-1W6NabOgg90bg6bK" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Rather than get nervous from the sheer closeness of so many picks, however, Japan proceeded to take Korea's next pick of [tosho_aTe - Shizume Chiku Zensen](https://osu.ppy.sh/beatmapsets/2268539#taiko/4831238) (HD1) and wipe the floor with it, a relatively relaxing 145-thousand-point victory headed by ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073): the Japanese captain, known for being the best slow Hidden player in the world, overcame all nerves and all difficulty to flex the rare Grand Finals SS rank, achieving the maximum possible score on Korea’s final pick. In what's become a pattern now, Japan proceeded to pick a mechanics-based map in [CyoucyoP feat.Hatsune Miku - End of the World](https://osu.ppy.sh/beatmapsets/215476#taiko/506018) (DT2), and win, closing out their 12th straight TWC victory in a sweep... by 5,158 points, with Korea closing the lead to triple digits for a brief moment in the final seconds.
+
+There's a lot to be said about this match that the final score alone would never tell; although Japan won 7–0, many spectators remarked that it could very well have been 3–4 or even 2–5 in Korea's favour after 7 maps, and it's not hard to see where that idea comes from with the knife-edge so many picks were balanced on. South Korea's performance this year was truly something special, and they should be commended as such, but at the end of it all, tournaments are won by the team with the higher scores, and even if the gaps were far smaller than usual, that team in 2025 was still Japan.
 
 ## Score highlights recap
 
@@ -237,7 +241,51 @@ Additionally, please also check out the **showcase videos** of the Grand Final's
 
 ## Statistics
 
-Let's go through sone very interesting stats that we've compiled:
+Let's go through some very interesting stats that we've compiled over the course of the tournament:
+
+### Most valuable players
+
+| # | Player | MVPs | played | MVP rate |
+| :--: | :------ | :-- | :-- | :-- |
+| #1 | ::{ flag=KR }:: Peaceful | ★ 26 | 47 / 48  (98%) | 55% |
+| #2 | ::{ flag=SG }:: Blerargh | ★ 22 | 40 / 42  (95%) | 55% |
+| #3 | ::{ flag=CL }:: ulko | ★ 21 | 40 / 52  (77%) | 53% |
+| #4 | ::{ flag=NZ }:: Zed0x | ★ 20 | 29 / 29  (100%) | 69% |
+| #5 | ::{ flag=SK }:: nevqr | ★ 15 | 26 / 26  (100%) | 58% |
+
+### Top team win rates
+
+| # | Team | Winrate | W-L | MVPs |
+| :--: | :------ | :--: | :--: | :-- |
+| #1 | ::{ flag=JP }:: Japan | 92% | 36-3 | ★ 31 |
+| #2 | ::{ flag=GB }:: United Kingdom | 65% | 47-25 | ★ 23 |
+| #3 | ::{ flag=KR }:: South Korea | 65% | 31-17 | ★ 36 |
+| #4 | ::{ flag=RU }:: Russian Federation | 65% | 31-17 | ★ 21 |
+| #5 | ::{ flag=TR }:: Türkiye | 64% | 23-13 | ★ 9 |
+
+### Grand Finals closest maps
+
+| # | Match | Pick | Score diff | pick by | won by |
+| :--: | :------ | :--: | :--: | :--: | :--: |
+| #1 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | DT1 | 501 | ::{ flag=JP }:: | ::{ flag=JP }:: |
+| #2 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | NM1 | 3,933 | ::{ flag=TW }:: | ::{ flag=TW }:: |
+| #3 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | DT2 | 5,158 | ::{ flag=JP }:: | ::{ flag=JP }:: |
+| #4 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | NM2 | 6,523 | ::{ flag=KR }:: | ::{ flag=JP }:: |
+| #5 |::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | FM1 | 10,004 | ::{ flag=KR }:: | ::{ flag=JP }:: |
+
+### Grand Finals largest score differences
+
+| # | Match | Pick | Score diff | pick by | won by |
+| :--: | :------ | :--: | :--: | :--: | :--: |
+| #1 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | NM5 | 724,122 | ::{ flag=KR }:: | ::{ flag=KR }:: |
+| #2 | ::{ flag=KR }:: South Korea  vs. ::{ flag=TW }:: Taiwan  | DT2 | 521,781 | ::{ flag=KR }:: | ::{ flag=KR }:: |
+| #3 | ::{ flag=KR }:: South Korea  vs. ::{ flag=TW }:: Taiwan  | HR2 | 493,053 | ::{ flag=KR }:: | ::{ flag=KR }:: |
+| #4 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | NM4 | 244,054 | ::{ flag=TW }:: | ::{ flag=KR }:: |
+| #5 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | DT1 | 187,443 | ::{ flag=KR }:: | ::{ flag=KR }:: |
+
+---
+
+More in-depth statistics for every round can be found in the [stats folder](https://drive.google.com/drive/folders/1fJ-THh-jFeWDsU4-zbZB0XdFf8lMg9zC) and for further information, check out the general [information spreadsheet](https://docs.google.com/spreadsheets/d/1ZREEsDy6HICTCTtp1_czfxpDjVKJraP3qXKVhc1aZHk).
 
 ## Interviews
 
@@ -360,9 +408,61 @@ placeholder for interview intro
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
 
+Hello, congratulations on placing 4th in this year’s TWC! How do you feel about your team’s performance overall?
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16067522" style="background-image: url('/wiki/shared/avatars/chibamasu.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/16067522">chibamasu</a></p>
+
+I'm really happy. I think the team did a great job throughout the whole tournament. They were amazing, and I'm super proud of them.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+
+What key factors helped your team place so high this year?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16067522" style="background-image: url('/wiki/shared/avatars/chibamasu.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/16067522">chibamasu</a></p>
+
+I’d say the most important thing was our communication. We always supported each other and kept a really good vibe in the team. We also put a lot of effort into the tournament, practicing hard and planning each match wisely.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+
+Many would agree you stood out as an outstanding player this TWC. How did you and your team practice for the matches?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16067522" style="background-image: url('/wiki/shared/avatars/chibamasu.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/16067522">chibamasu</a></p>
+
+I practiced almost every day, every map, for hours. Since I’m not studying this year, I was able to fully focus on TWC. My teammates also practiced a lot and helped by looking for the other teams' weaknesses so we could make better picks. It was a really good experience overall.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+
+In the match against the Russian Federation, you pulled off a jaw-dropping score on the tiebreaker to secure Chile’s victory. How did you and your team react in that moment?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16067522" style="background-image: url('/wiki/shared/avatars/chibamasu.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/16067522">chibamasu</a></p>
+
+We were all incredibly hyped after that win. My team was screaming like crazy. The match was super close, Russia played out of their minds that day, and we were missing our carry, ulko. I had already FC'd that map multiple times before with HD and HR, but never like that. I knew it was all on me, and losing that match would've been really tough for all of us, so I just locked in and went for it.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+
+Next year, there’s talk that TWC might switch to a 2v2 format. What would this change mean for Chile, and do you see yourself participating again?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16067522" style="background-image: url('/wiki/shared/avatars/chibamasu.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/16067522">chibamasu</a></p>
+
+If TWC switches to a 2v2 format, I think it will be even more competitive, especially for countries like Turkey, Singapore, and others. There would be more surprises. For Chile, I think it would actually be really great, so yeah, if that happens, I'll probably be back next year.
 
 </div>
 
