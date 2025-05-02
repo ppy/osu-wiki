@@ -6,9 +6,9 @@
 
 Suatu beatmap dapat diangkat ke Loved dengan melalui proses nominasi dan pemungutan suara.
 
-Setiap bulannya, para anggota tim Project Loved yang disebut sebagai **kapten** akan menominasikan sejumlah beatmap untuk diangkat ke Loved pada mode permainannya masing-masing. Beatmap yang diangkat ini hampir selalu berasal dari submisi yang datang dari komunitas osu!.
+Setiap bulannya, para anggota tim Project Loved yang disebut sebagai **kapten** akan menominasikan sejumlah beatmap untuk diangkat ke Loved pada mode permainannya masing-masing. Beatmap yang diangkat ini hampir selalu berasal dari submisi yang masuk dari komunitas.
 
-Untuk mengirimkan beatmap untuk diangkat ke Loved, silakan kunjungi [halaman submisi beatmap](https://loved.sh/submit) pada situs web Project Loved dan isi formulir yang tersedia. Beatmap ini akan kemudian dapat dilihat pada daftar submisi Loved beserta dengan berbagai beatmap lainnya yang telah dikirimkan. Berikut merupakan daftar submisi saat ini untuk masing-masing mode permainan:
+Untuk mengirimkan beatmap untuk diangkat ke Loved, silakan kunjungi [halaman submisi beatmap](https://loved.sh/submit) pada situs web Project Loved dan isi formulir yang tersedia. Beatmap ini akan kemudian muncul pada daftar submisi Loved beserta dengan beatmap lainnya yang telah dikirimkan. Berikut merupakan daftar submisi saat ini untuk masing-masing mode permainan:
 
 - [Daftar submisi osu!](https://loved.sh/submissions/osu)
 - [Daftar submisi osu!taiko](https://loved.sh/submissions/taiko)
@@ -17,16 +17,16 @@ Untuk mengirimkan beatmap untuk diangkat ke Loved, silakan kunjungi [halaman sub
 
 Beatmap yang telah dinominasikan oleh kapten akan lalu dikirimkan ke [forum Project Loved](https://osu.ppy.sh/community/forums/120), di mana para anggota komunitas akan dapat memberikan suara mereka terkait apakah beatmap ini layak berada di Loved atau tidak. Beatmap yang meraih 80% suara "Ya" pada masa akhir pemungutan suara mereka akan kemudian dipindahkan ke Loved.
 
-Pembuat beatmap yang sudah di-Loved juga dapat meminta agar beatmap mereka dilepas dari Loved dengan menghubungi anggota [tim Project Loved](https://osu.ppy.sh/groups/31) atau dengan mengirimkan pesan pada kanal `#osu-loved` di [server Discord osu!](https://discord.gg/ppy). Proses pelepasan ini akan memakan waktu hingga paling lama 1 minggu, dan pembuat beatmap yang bersangkutan akan menerima kabar lebih lanjut pada saat beatmap mereka telah dilepas.
+Pemilik beatmap yang telah di-Loved juga dapat meminta agar beatmap mereka dilepas dari Loved dengan menghubungi anggota [tim Project Loved](https://osu.ppy.sh/groups/31) atau dengan mengirimkan pesan pada kanal `#osu-loved` di [server Discord osu!](https://discord.gg/ppy). Proses pelepasan ini akan memakan waktu hingga paling lama 1 minggu, dan pembuat beatmap yang bersangkutan akan menerima kabar lebih lanjut pada saat beatmap mereka telah dilepas.
 
 ## Persyaratan
 
 Agar suatu beatmap dapat dinominasikan ke Loved, terdapat beberapa persyaratan yang sangat minimal yang harus dipenuhi oleh beatmap ini. Masing-masing mode permainan memiliki kriterianya tersendiri untuk menentukan nominasi dan prioritas beatmap yang dipilih, namun setiap beatmap yang dipilih ini akan selalu harus:
 
-- Tunduk pada [peraturan submisi beatmap](/wiki/Rules#beatmap-submission-rules)
+- Tunduk pada [peraturan pengunggahan beatmap](/wiki/Rules#peraturan-pengunggahan-beatmap)
 - Tidak berada pada kategori [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), atau [Qualified](/wiki/Beatmap/Category#qualified)
 - Disetujui oleh pembuatnya untuk dapat diangkat ke Loved
-  - Apabila terdapat mapper tamu yang tidak menyetujui bagian mereka untuk diangkat ke Loved, bagian mereka akan dikecualikan dari Loved sebagaimana layaknya. Dalam kasus tertentu, seperti pada map [collabs](/wiki/Beatmap/Beatmap_collaborations), hal ini dapat membuat seluruh beatmap tidak memenuhi syarat untuk diangkat ke Loved.
+  - Apabila terdapat mapper tamu yang tidak menyetujui bagian mereka untuk diangkat ke Loved, bagian mereka akan dikecualikan dari Loved sebagaimana wajarnya. Dalam kasus tertentu, seperti pada map [collab](/wiki/Beatmap/Beatmap_collaborations), hal ini dapat membuat beatmap ini tidak dapat diangkat ke Loved sama sekali.
 - Tidak dibuat oleh pengguna yang [akunnya sedang dibatasi](/wiki/Help_centre/Account_restrictions)
 - Memiliki setidaknya satu tingkat kesulitan yang dapat diselesaikan
 - Memiliki [drain time](/wiki/Beatmap/Drain_time) setidaknya 20 detik pada setiap tingkat kesulitan yang dinominasikan
@@ -35,13 +35,13 @@ Walaupun terdapat banyak beatmap Unranked yang memenuhi kriteria ini, hanya sedi
 
 ### Memperbarui beatmap sebelum Loved
 
-Dalam sebagian kasus, beatmap yang melanggar persyaratan Loved tertentu dapat dinominasikan selama mapper yang bersangkutan dapat memperbarui beatmap ini sebelum diangkat ke Loved. Sebagai contoh, beatmap dengan gambar latar yang tidak pantas dapat dinominasikan ke Loved selama gambar latar ini dihapus atau diganti. Pada umumnya, salah satu kontributor aktif Project Loved akan mengirimkan postingan pada [halaman diskusi beatmap](/wiki/Beatmap_discussion) apabila terdapat sesuatu yang perlu diubah.
+Dalam sebagian kasus, beatmap yang melanggar persyaratan Loved tertentu dapat dinominasikan selama mapper yang bersangkutan dapat memperbarui beatmap ini sebelum diangkat ke Loved. Sebagai contoh, beatmap dengan gambar latar yang tidak senonoh dapat dinominasikan ke Loved selama gambar latar ini dihapus atau diganti. Pada umumnya, salah satu kontributor aktif Project Loved akan mengirimkan postingan pada [halaman diskusi beatmap](/wiki/Beatmap_discussion) apabila terdapat sesuatu yang perlu diubah.
 
-Selain itu, para kontributor Project Loved juga sering kalinya juga akan mengajukan berbagai saran teknis, seperti perbaikan kualitas audio, [timing](/wiki/Beatmapping/Timing), atau [penulisan metadata sebagaimana yang disarankan oleh kriteria ranking](/wiki/Ranking_criteria/Metadata). Saran ini tidak wajib diterapkan, namun sangat disarankan untuk diikuti.
+Selain itu, para kontributor Project Loved juga sering kalinya dapat mengajukan berbagai saran teknis, seperti perbaikan kualitas audio, [timing](/wiki/Beatmapping/Timing), atau [penulisan metadata sebagaimana yang disarankan oleh kriteria ranking](/wiki/Ranking_criteria/Metadata). Saran ini tidak wajib diterapkan, namun sangat disarankan untuk diikuti.
 
 ### Kriteria spesifik osu!
 
-Beatmap mode osu! yang ingin diangkat ke Loved akan mengikuti kategori serta harus tunduk pada peraturan dan pedoman di bawah ini. Peraturan ini mirip dengan [kriteria ranking](/wiki/Ranking_criteria), namun telah disesuaikan untuk mengikuti alur proses Project Loved yang lebih lengang.
+Beatmap mode osu! yang ingin diangkat ke Loved akan ditempatkan pada salah satu kategori serta akan harus tunduk pada peraturan dan pedoman di bawah ini. Peraturan ini mirip dengan [kriteria ranking](/wiki/Ranking_criteria), namun telah disesuaikan untuk mengikuti alur proses Project Loved yang lebih lengang.
 
 #### Kategorisasi
 
@@ -75,16 +75,16 @@ Untuk pertanyaan lebih lanjut seputar apa-apa saja yang tergolong ke masing-masi
 
 #### Pedoman
 
-**Panduan yang ada dapat dilanggar dalam situasi istimewa tertentu.** Pelanggaran ini dapat dibenarkan apabila disertai dengan penjelasan seputar mengapa panduan ini telah dilanggar, dan mengapa mengikuti panduan ini justru akan menurunkan kualitas beatmap secara umum.
+**Pedoman dapat dilanggar dalam situasi istimewa tertentu.** Pelanggaran ini dapat dibenarkan apabila disertai dengan penjelasan seputar mengapa pedoman ini telah dilanggar, dan mengapa mengikuti pedoman ini justru akan menurunkan kualitas beatmap secara umum.
 
 - **Seluruh peraturan dan pedoman kriteria ranking yang tidak secara gamblang disebut sebagai peraturan pada halaman ini akan tetap berlaku sebagai pedoman untuk Loved.** Pedoman ini akan ditegakkan secara kasus per kasus dalam prosesnya, dan mapper yang terlibat akan dihubungi apabila terdapat hal yang perlu diubah pada beatmap mereka. Sebagai catatan, beatmap Loved tidak diharuskan untuk memiliki spread yang lengkap kecuali untuk kategori *Ranked Rejects*.
-- **Metadata beatmap harus ditulis seakurat mungkin.** Beatmap yang dinominasikan untuk pemungutan suara Loved akan melewati proses pengecekan metadata akhir oleh para anggota komunitas yang ahli dalam hal ini. Metadata yang benar akan membuat beatmap ini lebih mudah untuk dicari. Apabila kamu merasa ragu, silakan hubungi salah satu kapten Loved.
+- **Metadata beatmap harus ditulis seakurat mungkin.** Beatmap yang dinominasikan akan melewati proses pengecekan metadata akhir oleh anggota komunitas yang ahli dalam hal ini. Metadata yang benar akan membuat beatmap ini lebih mudah untuk dicari. Apabila kamu merasa ragu, silakan hubungi salah satu kapten Loved.
 - **Timing point induk (*uninherited timing point*) yang digunakan harus selalu sama pada seluruh tingkat kesulitan.** Pedoman ini dapat diabaikan untuk gimik tertentu yang melibatkan perubahan BPM, perubahan slider velocity, atau faktor lainnya yang tidak relevan di setiap tingkat kesulitan.
 - **Seluruh tingkat kesulitan harus di-map secara tuntas.** Hal ini berarti segala sesuatunya harus mencakup awal hingga akhir lagu, terlepas dari intro, outro, atau bagian tertentu yang tidak dapat di-map. Sebagai contoh, pada lagu yang berdurasi 5 menit, apabila tingkat kesulitan Extra dan Hard memiliki panjang 4 menit 30 detik, tingkat kesulitan Insane yang ada tidak boleh di-map hanya 1 menit. Apabila seluruh tingkat kesulitan ini tidak menggunakan bagian lagu tertentu dalam jumlah yang besar, berkas lagu yang digunakan harus dipotong menyesuaikan bagian yang di-map.
 
 #### Prioritas nominasi
 
-Para kapten tidak memiliki peraturan khusus yang mengatur beatmap mana saja yang harus mereka nominasikan, namun pada umumnya beatmap yang dipilih merupakan beatmap yang telah dikenali dan dihargai oleh seisi komunitas (sebagaimana arti nama "Loved" itu sendiri). Terkadang, beatmap tertentu dapat lebih diutamakan apabila beatmap ini jauh lebih tua dari beatmap lainnya atau mengusung gaya mapping yang unik dan berkualitas.
+Para kapten tidak memiliki peraturan khusus yang mengatur beatmap mana saja yang harus mereka nominasikan, namun pada umumnya beatmap yang dipilih ini merupakan beatmap yang telah dikenali dan dihargai secara luas oleh komunitas (sesuai dengan arti nama "Loved" itu sendiri). Terkadang, beatmap tertentu dapat lebih diutamakan apabila beatmap ini jauh lebih tua dari beatmap lainnya atau mengusung gaya mapping yang unik dan berkualitas.
 
 ## Informasi lebih lanjut
 
