@@ -4,7 +4,6 @@ title: Expert Global Taiko Showdown 2025 Concludes
 date: 2025-05-03 12:00:00 +0000
 ---
 
-
 After two months of some of the highest level tournament matches osu!taiko has ever seen, the final chapter of EGTS has come to a conclusion! Please join us to see what went down in the most ambitious osu!taiko tournament yet.
 
 Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked tournaments this game has ever seen. With 157 players, 157 staff members and a whopping **37** original songs made by **49** individual composers, this year's tournament is without a doubt, the best one ever since the creation of the GTS series, breaking every precedent boundaries that have ever existed. The last 2 months saw what is possibly some of the fiercest matches the competitive osu!taiko scene has seen yet, certainly fits the nickname this tournament has earned itself: "Arena of the Gods".
@@ -80,7 +79,6 @@ Both continued to not give away any of their own picks, but it was apparent that
 
 It showed in his 2x100 FC on FM1 with HD to rectify his 3x100 1 miss play from the previous match, his narrow loss on DT2 despite cutting his 100 count in half and his SS on HD2 until its final ten seconds.
 However, everyone began to worry that all of this might not have been enough as the scoreline was still tied at 5-5.
-
 
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s final pick was HR2 which he handily won in the previous match.
 
