@@ -5,7 +5,6 @@ date: 2025-05-03 12:00:00 +0000
 ---
 
 
-
 After two months of some of the highest level tournament matches osu!taiko has ever seen, the final chapter of EGTS has come to a conclusion! Please join us to see what went down in the most ambitious osu!taiko tournament yet.
 
 Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked tournaments this game has ever seen. With 157 players, 157 staff members and a whopping **37** original songs made by **49** individual composers, this year's tournament is without a doubt, the best one ever since the creation of the GTS series, breaking every precedent boundaries that have ever existed. The last 2 months saw what is possibly some of the fiercest matches the competitive osu!taiko scene has seen yet, certainly fits the nickname this tournament has earned itself: "Arena of the Gods".
