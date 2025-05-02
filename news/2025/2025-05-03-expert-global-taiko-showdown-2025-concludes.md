@@ -4,14 +4,15 @@ title: Expert Global Taiko Showdown 2025 Concludes
 date: 2025-05-03 12:00:00 +0000
 ---
 
+
+
 After two months of some of the highest level tournament matches osu!taiko has ever seen, the final chapter of EGTS has come to a conclusion! Please join us to see what went down in the most ambitious osu!taiko tournament yet.
 
 Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked tournaments this game has ever seen. With 157 players, 157 staff members and a whopping **37** original songs made by **49** individual composers, this year's tournament is without a doubt, the best one ever since the creation of the GTS series, breaking every precedent boundaries that have ever existed. The last 2 months saw what is possibly some of the fiercest matches the competitive osu!taiko scene has seen yet, certainly fits the nickname this tournament has earned itself: "Arena of the Gods".
 
-## Summary
-
 ![](/wiki/shared/news/2025-01-05-egts-2025-registrations-now-open/banner.jpg)
 
+## Summary
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Podium.png)
 
@@ -30,56 +31,75 @@ Read on for a detailed rundown of the Grand Finals and [other highlights from th
 Those familiar with EGTS will know that the Grand Finals matchup always used to be fairly one-sided due to the skill disparity between top-seeded players.
 In 2020, ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) went up against ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) who sought to flip the script after being knocked into the lower bracket in semifinals. 
 uone proceeded to sweep janitore into a bracket reset and finished the job by defeating him 7-2.
+
 In 2021, ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501) and ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) gave us the closest Grand Finals scoreline thus far with Seren58 resetting the bracket with a 3-7 victory, followed by a 7-4. 
+
 This was not enough for ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) though, who came back in 2022 to defeat ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) with a crushing 7-1 victory.
 
-
 History seemed to repeat itself as ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) pulled ahead with a 5-2 scoreline against ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357).
+
 With ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) picking HD2 and being one of the best, if not the best, HD player in all of osu!taiko, most people watching were ready to congratulate him for his remarkable run in this year's EGTS.
 The accuracy was stacked against ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357), but he managed to hold onto the FC while ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found catastrophic misses in the final ten seconds of HD2 and giving the point, to the shock of everyone, to ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357).
+
 It was a shimmer of hope that ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) proceeded to carry through the entire match in astonishing fashion: winning four points back to back with razor-thin score differences, but also one monumental 90k lead over ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) on HR2.
 
-
 All of a sudden, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) was one point away from resetting the bracket and ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073)'s final pick was between one of two incredibly painful maps: NM5, a chaotic polyrhythmic experience, and DT1, a speedy accuracy nightmare.
+
 His choice fell upon NM5, but no one could've anticipated the back-and-forth that ensued.
+
 Both players held on strong until the halfway point when they broke their FCs.
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) pulled ahead by having fewer misses, but dropped another miss seconds later giving ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) time to build combo and slowly move the score difference back into his advantage.
+
 In the final quarter, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) dropped another miss, giving a 20k point lead over to ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), but just as the song drew to a close, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found another big set of misses, decimating his point lead, but not enough to give it away to kanten_07.
 
-
 For the first and only time in the history of EGTS, players and viewers alike would be treated to a true world premiere: a genuine Grand Finals tiebreaker; an 11-minute gauntlet at the end of a nerve-wracking one-hour match to decide whether ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) would be crowned the final EGTS champion, or whether he would have to prove himself all over again.
+
 Just two minutes in, the trajectory of the tiebreaker was set with ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) breaking combo while kanten_07 kept the FC well through the first third of the entire map.
+
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) managed to build a substantial lead over ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) who kept finding misses over and over, resetting his combo and letting his opponent pull ahead without a worry.
+
 By the end, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) won with a 47,159 score difference, which is monumental given the sheer length of the tiebreaker, and reset the bracket.
 
-
 Both players were given a desperately needed 10-minute break.
-::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) had just accomplished a feat like no other in the history of EGTS and proved that he was a worthy challenger to the one person who everyone believed could run away with an easy win in Grand Finals.
-::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) had dropped only three points in total in his Winners Bracket run of EGTS 2025 before Grand Finals and was just confronted with the very real possibility that his reign might come to an abrupt end.
-Neither were willing to give up however and continued to prove that both were just as keen to show that they were deserving of the champion title.
 
+::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) had just accomplished a feat like no other in the history of EGTS and proved that he was a worthy challenger to the one person who everyone believed could run away with an easy win in Grand Finals.
+
+::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) had dropped only three points in total in his Winners Bracket run of EGTS 2025 before Grand Finals and was just confronted with the very real possibility that his reign might come to an abrupt end.
+
+Neither were willing to give up however and continued to prove that both were just as keen to show that they were deserving of the champion title.
 
 The Bracket Reset saw both players starting the same way they did in their previous match: by asserting their personal strengths over their opponent.
 That doesn't mean that their opening picks were easy wins.
+
 In the first match, both players went with HD on FM3 which saw ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) getting one of the biggest leads nearing 170k score.
+
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) however decided to switch things up in the Bracket Reset and opted for HR instead.
+
 ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) ended up winning regardless with a near perfect score of 1,042m, but the insanity of ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s FC given the insane reading and accuracy requirement with HR slapped on top of FM2 can simply not be overstated. 
+
 Both continued to not give away any of their own picks, but it was apparent that something had changed in ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073)'s mind.
+
 It showed in his 2x100 FC on FM1 with HD to rectify his 3x100 1 miss play from the previous match, his narrow loss on DT2 despite cutting his 100 count in half and his SS on HD2 until its final ten seconds.
 However, everyone began to worry that all of this might not have been enough as the scoreline was still tied at 5-5.
 
 
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s final pick was HR2 which he handily won in the previous match.
+
 The smell of another potential tiebreaker lingered in the air.
+
 Both players started out the same way with ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) trying to keep accuracy high and ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) trying to keep his combo high to punish any of his opponent's misses.
+
 However, to everyone's surprise, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) wanted none of that.
+
 Despite some narrow misses at the start and at the end of HR2, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) didn't drop a single time, reducing his miss count from 73 to 7 and getting tantalizingly close to 99% accuracy, leaving ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) in the dust and securing himself the first breakpoint of the Bracket Reset.
+
 With a 5-6 lead, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) doubled down and picked HR1; a pick which he, too, previously lost against ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357).
 By adding insult to injury on the home stretch, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) finished with an FC, replicating his opponent's feat from the previous match with much better accuracy to boot and denying his chance at another tiebreaker.
 
-
 In the end, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), the tournament favorite since the very beginning won, but absolutely no one could've anticipated what it took him to get there in the end. 
+
 The Grand Finals of EGTS 2025, much like the entire tournament itself, was a spectacle second to none.
+
 To have two of the game mode's most prolific players push each other to a tiebreaker nearly twice is a historic moment that none of the hundreds of people watching live are sure to forget any time soon.
 
 ## Match highlights
