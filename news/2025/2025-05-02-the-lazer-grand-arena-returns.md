@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lazer Grand Arena Returns
-date: 2025-05-02 12:00:00 +0000
+date: 2025-05-02 15:00:00 +0000
 ---
 
 The Lazer Grand Arena is back for its 2025 edition, with a new format and streamlined entry! 
