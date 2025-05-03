@@ -247,11 +247,11 @@ Let's go through some very interesting stats that we've compiled over the course
 
 | # | Player | MVPs | played | MVP rate |
 | :-: | :-- | :-- | :-- | :-- |
-| #1 | ::{ flag=KR }:: Peaceful | ★ 26 | 47 / 48  (98%) | 55% |
-| #2 | ::{ flag=SG }:: Blerargh | ★ 22 | 40 / 42  (95%) | 55% |
-| #3 | ::{ flag=CL }:: ulko | ★ 21 | 40 / 52  (77%) | 53% |
-| #4 | ::{ flag=NZ }:: Zed0x | ★ 20 | 29 / 29  (100%) | 69% |
-| #5 | ::{ flag=SK }:: nevqr | ★ 15 | 26 / 26  (100%) | 58% |
+| #1 | ::{ flag=KR }:: Peaceful | ★ 26 | 47 / 48 (98%) | 55% |
+| #2 | ::{ flag=SG }:: Blerargh | ★ 22 | 40 / 42 (95%) | 55% |
+| #3 | ::{ flag=CL }:: ulko | ★ 21 | 40 / 52 (77%) | 53% |
+| #4 | ::{ flag=NZ }:: Zed0x | ★ 20 | 29 / 29 (100%) | 69% |
+| #5 | ::{ flag=SK }:: nevqr | ★ 15 | 26 / 26 (100%) | 58% |
 
 ### Top team win rates
 
@@ -267,21 +267,21 @@ Let's go through some very interesting stats that we've compiled over the course
 
 | # | Match | Pick | Score diff | pick by | won by |
 | :-: | :-- | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | DT1 | 501 | ::{ flag=JP }:: | ::{ flag=JP }:: |
-| #2 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | NM1 | 3,933 | ::{ flag=TW }:: | ::{ flag=TW }:: |
-| #3 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | DT2 | 5,158 | ::{ flag=JP }:: | ::{ flag=JP }:: |
-| #4 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | NM2 | 6,523 | ::{ flag=KR }:: | ::{ flag=JP }:: |
-| #5 |::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | FM1 | 10,004 | ::{ flag=KR }:: | ::{ flag=JP }:: |
+| #1 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | DT1 | 501 | ::{ flag=JP }:: | ::{ flag=JP }:: |
+| #2 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | NM1 | 3,933 | ::{ flag=TW }:: | ::{ flag=TW }:: |
+| #3 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | DT2 | 5,158 | ::{ flag=JP }:: | ::{ flag=JP }:: |
+| #4 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | NM2 | 6,523 | ::{ flag=KR }:: | ::{ flag=JP }:: |
+| #5 |::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | FM1 | 10,004 | ::{ flag=KR }:: | ::{ flag=JP }:: |
 
 ### Grand Finals largest score differences
 
 | # | Match | Pick | Score diff | pick by | won by |
 | :-: | :-- | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | NM5 | 724,122 | ::{ flag=KR }:: | ::{ flag=KR }:: |
-| #2 | ::{ flag=KR }:: South Korea  vs. ::{ flag=TW }:: Taiwan  | DT2 | 521,781 | ::{ flag=KR }:: | ::{ flag=KR }:: |
-| #3 | ::{ flag=KR }:: South Korea  vs. ::{ flag=TW }:: Taiwan  | HR2 | 493,053 | ::{ flag=KR }:: | ::{ flag=KR }:: |
-| #4 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | NM4 | 244,054 | ::{ flag=TW }:: | ::{ flag=KR }:: |
-| #5 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | DT1 | 187,443 | ::{ flag=KR }:: | ::{ flag=KR }:: |
+| #1 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | NM5 | 724,122 | ::{ flag=KR }:: | ::{ flag=KR }:: |
+| #2 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | DT2 | 521,781 | ::{ flag=KR }:: | ::{ flag=KR }:: |
+| #3 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | HR2 | 493,053 | ::{ flag=KR }:: | ::{ flag=KR }:: |
+| #4 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | NM4 | 244,054 | ::{ flag=TW }:: | ::{ flag=KR }:: |
+| #5 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | DT1 | 187,443 | ::{ flag=KR }:: | ::{ flag=KR }:: |
 
 ---
 
