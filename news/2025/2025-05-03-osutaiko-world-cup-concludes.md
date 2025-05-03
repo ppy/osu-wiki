@@ -8,7 +8,7 @@ The champion has ascended to the throne once again!
 
 ![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/banner.jpg)
 
-After the thrilling conlusion of the osu!taiko World Cup 2025, only three teams stood victorious on the podium. The top teams fought until the end, and one team shined in their own light. Despite a short-lived final showdown, the intense battles spellbound everyone.
+After the thrilling conlusion of the osu!taiko World Cup 2025, only three teams stood victorious on the podium. The top teams fought until the end, and one team shined in their own light. Despite a short-lived final showdown, the intense battles left everyone spellbound.
 
 Read on, as we revisit remarkable highlights, hear interesting insights, relive epic songs and more. All of those things combined made this osu!taiko World Cup so spectacular!
 
@@ -16,7 +16,7 @@ Read on, as we revisit remarkable highlights, hear interesting insights, relive 
 
 ![Podium](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/podium.jpg)
 
-Congratulations to ::{ flag=JP }:: Japan for securing the number one spot once again! A dominating 7–0 against the very strong, well-performing roster of ::{ flag=KR }::, who finished in 2nd place, left everyone speechless. And also shoutouts to ::{ flag=TW }:: for securing the very well deserved 3rd place.
+Congratulations to ::{ flag=JP }:: Japan for securing the number one spot once again! A dominating 7–0 against the very strong, well-performing roster of ::{ flag=KR }:: South Korea, which finished in 2nd place, leaving everyone speechless. Also, shoutouts to ::{ flag=TW }:: Taiwan for securing the very well-deserved 3rd place.
 
 Read and watch the [detailed match summaries further below](#grand-finals-recap)!
 
@@ -63,11 +63,11 @@ Meet ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), a longstandin
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-tournament-committee" href="https://osu.ppy.sh/users/3918650">Raphalge</a></p>
 
-Pooling for official tournaments is not much different from smaller community endeavours. The biggest difference is the format; a country-locked 3vs3 format is very uncommon for Taiko. It makes difficulty balancing a bigger challenge since you need to keep top players engaged without completely stonewalling the weakest links. However, with how competitive a lot of matches ended up being, I'd say things turned out quite nicely!
+Pooling for official tournaments is not much different from smaller community endeavours. The biggest difference is the format; a country-locked 3vs3 format is very uncommon for osu!taiko. It makes difficulty balancing a bigger challenge since you need to keep top players engaged without completely stonewalling the weakest links. However, with how competitive a lot of matches ended up being, I'd say things turned out quite nicely!
 
 As for osu! originals, spitballing ideas with composers is always a ton of fun! Especially when things immediately click. Quarkee's HYPER PSY2K for example was just a simple 2-step process of "hey quarkee do you wanna make a fast psytrance thing?" -> "yeah sounds cool" and then receiving an absolute banger a month later. I think we put people on pedestals too often, because I've found that the most grounded exchanges often yield the best results.
 
-Building on that, I'd like to tell future mappoolers to not think they're unqualified or overthink things. You will mess up, you will feel like an idiot and you will take mappool feedback too personally. It's proof that you care about the product and people having a good time, and it's only through failures that we gain experience and grow stronger. Don't be afraid to throw your dart at the board—even if it ends up breaking something.
+Building on that, I'd like to tell future mappoolers to not think they're unqualified or overthink things. You will mess up, you will feel like an idiot and you will take mappool feedback too personally. It's proof that you care about the product and people having a good time, and it's only through failures that we gain experience and grow stronger. Don't be afraid to throw your dart at the board — even if it ends up breaking something.
 
 </div>
 
@@ -98,15 +98,15 @@ Winning the roll, Japan picked [HYKARVS - No matter What](https://osu.ppy.sh/bea
 
 Now 2–0 up, Japan seemed to hit their stride, winning [96-glass - Contradiction](https://osu.ppy.sh/beatmapsets/2358205#taiko/5080602) (NM6) by 85,892 thanks in part to ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196)'s mind-blowing 99.88% full combo, and breaking Korea again despite their reading prowess on [Jane Remover - Psychoboost ft danny brown](https://osu.ppy.sh/beatmapsets/2358227#taiko/5080666) (FM2) by another not-so-narrow margin. However, just when everyone thought the procession was starting, Japan picked [AVTechNO!xTreow - DYE/Re:flection+](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290) (DT1).
 
-Japan have always been considered the strongest Double Time team, even more so than other mod brackets, on account of their sheer accuracy, especially in the later rounds when other teams start to struggle, but after all these years they seemed to find an equal in a Korean team that mounted a last–second comeback, only to fall within an agonizing 501 score of a break point and a foot back in the matchup. If anyone thought Japan were truly safe in this matchup, this point proved them wrong.
+Japan has always been considered the strongest Double Time team, even more so than similar contenders for other mod brackets, on account of their sheer accuracy, especially in the later rounds when other teams start to struggle. After all these years, they've seemed to find an equal in a Korean team that mounted a last-second comeback, only to fall within an agonising 501 score of a break point. If anyone thought Japan was truly safe in this matchup, this point proved them wrong.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h35m38s&video=2444004606" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Rather than get nervous from the sheer closeness of so many picks, however, Japan proceeded to take Korea's next pick of [tosho_aTe - Shizume Chiku Zensen](https://osu.ppy.sh/beatmapsets/2268539#taiko/4831238) (HD1) and wipe the floor with it, a relatively relaxing 145-thousand-point victory headed by ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073): the Japanese captain, known for being the best slow Hidden player in the world, overcame all nerves and all difficulty to flex the rare Grand Finals SS rank, achieving the maximum possible score on Korea’s final pick. In what's become a pattern now, Japan proceeded to pick a mechanics-based map in [CyoucyoP feat.Hatsune Miku - End of the World](https://osu.ppy.sh/beatmapsets/215476#taiko/506018) (DT2), and win, closing out their 12th straight TWC victory in a sweep... by 5,158 points, with Korea closing the lead to triple digits for a brief moment in the final seconds.
+Rather than get nervous from the sheer closeness of so many picks, however, Japan proceeded to take Korea's next pick of [tosho_aTe - Shizume Chiku Zensen](https://osu.ppy.sh/beatmapsets/2268539#taiko/4831238) (HD1) and wipe the floor with it, a relatively relaxing 145-thousand-point victory headed by ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073). The Japanese captain, known for being the best slow Hidden player in the world, overcame all nerves and all difficulty to flex the rare Grand Finals SS rank, achieving the maximum possible score on South Korea’s final pick. In what's become a pattern now, Japan proceeded to pick a mechanics-based map in [CyoucyoP feat.Hatsune Miku - End of the World](https://osu.ppy.sh/beatmapsets/215476#taiko/506018) (DT2), and win, closing out their 12th straight TWC victory in a sweep... by 5,158 points, with Korea closing the lead to triple digits for a brief moment in the final seconds.
 
-There's a lot to be said about this match that the final score alone would never tell; although Japan won 7–0, many spectators remarked that it could very well have been 3–4 or even 2–5 in Korea's favour after 7 maps, and it's not hard to see where that idea comes from with the knife-edge so many picks were balanced on. South Korea's performance this year was truly something special, and they should be commended as such, but at the end of it all, tournaments are won by the team with the higher scores, and even if the gaps were far smaller than usual, that team in 2025 was still Japan.
+There's a lot to be said about this match that the final score alone would never tell: although Japan won 7–0, many spectators remarked that it could very well have been 3–4 or even 2–5 in South Korea's favour after 7 maps, and it's not hard to see where that idea comes from with the knife-edge so many picks were balanced on. South Korea's performance this year was truly something special, and they should be commended as such, but at the end of it all, tournaments are won by the team with the higher scores, and even if the gaps were far smaller than usual, that team in 2025 was still Japan.
 
 ## Score highlights recap
 
@@ -133,9 +133,9 @@ If you missed out on any of the weeks, or you want to revisit all matches that h
     }
 </style>
 
-Alongside the high production value and the intense entertainment in-game, the 2025 osu!taiko World Cup featured **11** brand new [osu! originals](/wiki/Community/Bespoke_music). A wide variety of genres were covered and we are glad to see the featured artists listing fill up even further with catchy songs and tunes. Also very big shoutouts to the graphic designers and illustrators, that made the experience of those songs even better with high-quality backgrounds, storyboards and everything in between.
+Alongside the high production value and the intense entertainment in-game, the 2025 osu!taiko World Cup featured **11** brand-new [osu! originals](/wiki/Community/Bespoke_music). A wide variety of genres were covered and we are glad to see the Featured Artist listing fill up even further with catchy songs and tunes. Also very big shoutouts to the graphic designers and illustrators, who made the experience of those songs even better with high-quality backgrounds, storyboards and everything in between.
 
-Check out all the new originals below by listening to the previews, and check out the beatmaps themselves by clicking on their songs banners.
+Check out all the new originals below by listening to the previews, and check out the beatmaps themselves by clicking on their song banners.
 
 ### Round of 32
 
@@ -237,7 +237,7 @@ Check out all the new originals below by listening to the previews, and check ou
     </audio>
 </div>
 
-Additionally, please also check out the **showcase videos** of the Grand Final's osu! originals: [yoho - Ocean's Legacy](https://youtu.be/Pb8ePbT0ANc) & [TWC Sound Team "Strike Back Squad" - BUZZ CUTZ](https://youtu.be/K2PMCl3YWHU), made with <3 by our design team!
+Additionally, please also check out the **showcase videos** of the Grand Final's osu! originals: [yoho - Ocean's Legacy](https://youtu.be/Pb8ePbT0ANc) and [TWC Sound Team "Strike Back Squad" - BUZZ CUTZ](https://youtu.be/K2PMCl3YWHU), made with <3 by our design team!
 
 ## Statistics
 
@@ -336,7 +336,7 @@ placeholder for interview intro
 
 ![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/Coppertine.png)
 
-For TWC 2025, [Coppertine](https://osu.ppy.sh/users/7279762) was responsible for the storyboard creation of the Grand Finals tiebreaker BUZZ CUTZ, which stands as the longest osu! original ever featured in World Cups. Her previous contributions span across multiple World Cups, including the storyboard for Operation: Zenithfall in OWC 2024.
+For TWC 2025, [Coppertine](https://osu.ppy.sh/users/7279762) was responsible for the storyboard creation of the Grand Finals tiebreaker BUZZ CUTZ, which stands as the longest osu! original ever featured in World Cups. Her previous contributions span across multiple World Cups, including the storyboard for *Operation: Zenithfall* in OWC 2024.
 
 ---
 
@@ -352,7 +352,7 @@ Many in the storyboarding and mapping scene are familiar with your work, but for
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7279762">Coppertine</a></p>
 
-Yo! I am Coppertine, I have been a storyboarder since 2016 and have made various storyboards over the time. People may know of me as the storyboarder of [wafer's](https://osu.ppy.sh/users/9416836) infamous map [Uncanny long arms](https://osu.ppy.sh/beatmapsets/2094154#osu/4390731). I have also worked along side [Enkrypton](https://osu.ppy.sh/users/5178122) for CWC 2024's Grand Finals NM2 pick of [WangleLine's](https://osu.ppy.sh/beatmaps/artists/427) [Journey to the rabbit moon base](https://osu.ppy.sh/beatmapsets/2202809#fruits/5042330) , and the OWC 2024 Grand Finals Tiebreaker pick of [Camellia's](https://osu.ppy.sh/beatmaps/artists/31) [Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796) along side Enkrypton, [VenerableNyanta](https://osu.ppy.sh/users/12243368) and [Noffy](https://osu.ppy.sh/users/1541323).
+Yo! I am Coppertine, I have been a storyboarder since 2016 and have made various storyboards over the time. People may know of me as the storyboarder of [wafer](https://osu.ppy.sh/users/9416836)'s infamous map [Uncanny long arms](https://osu.ppy.sh/beatmapsets/2094154#osu/4390731). I have also worked alongside [Enkrypton](https://osu.ppy.sh/users/5178122) for CWC 2024's Grand Finals NM2 pick of [WangleLine](https://osu.ppy.sh/beatmaps/artists/427)'s [Journey to the rabbit moon base](https://osu.ppy.sh/beatmapsets/2202809#fruits/5042330), and the OWC 2024 Grand Finals tiebreaker pick of [Camellia](https://osu.ppy.sh/beatmaps/artists/31)'s [Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796) alongside Enkrypton, [VenerableNyanta](https://osu.ppy.sh/users/12243368) and [Noffy](https://osu.ppy.sh/users/1541323).
 
 I normally create with [storybrew](https://github.com/Damnae/storybrew/), a C# based storyboard creation tool from the wonderful [Damnae](https://osu.ppy.sh/users/989377), to enhance the experience of the beatmap whilst ensuring my storyboard creations can be enjoyed by many with a focus on storytelling and atmospheric styles in mind.
 
@@ -360,19 +360,19 @@ I normally create with [storybrew](https://github.com/Damnae/storybrew/), a C# b
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
-This year’s TWC featured the longest osu! original ever created in World Cups, with an impressive 10-minute tiebreaker track. While this presented a unique creative opportunity, it also introduced significant challenges for storyboard creation. How did you and the rest of the design team approach the visual progression across the video and storyboard? Were there any ideas that worked particularly well, or others that had to be revised or dropped along the way?
+This year's TWC featured the longest osu! original ever created in World Cups, with an impressive 10-minute tiebreaker track. While this presented a unique creative opportunity, it also introduced significant challenges for storyboard creation. How did you and the rest of the design team approach the visual progression across the video and storyboard? Were there any ideas that worked particularly well, or others that had to be revised or dropped along the way?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7279762" style="background-image: url('/wiki/shared/avatars/coppertine.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7279762">Coppertine</a></p>
 
-Gaining a sense of the visual process for this project wasn't easy. Especially with an extremely niche genre at an ultra long duration. Something that was done before, even in a tiebreaker context, but dariacore was one of those genres unexplored for almost all storyboarders even today.
+Gaining a sense of the visual process for this project wasn't easy, especially with an extremely niche genre at an ultra long duration. It's something that's been done before, even in a tiebreaker context, but dariacore was one of those genres unexplored by almost all storyboarders even today.
 
-Even with that in mind, we were pretty quick to gain tones of ideas, in fact, my first ever idea when I checked out the song was that I wanted some form of a black and white strobing effect within the song. Other than that, we essentially went off with the brief of a simple male character with a blue themed storyboard about self-identity and music creation.
+Even with that in mind, we were pretty quick to gain tonnes of ideas. In fact, my first ever idea when I checked out the song was that I wanted some form of a black and white strobing effect within the song. Other than that, we essentially went off with the brief of a simple male character with a blue themed storyboard about self-identity and music creation.
 
 First thing we did was a simple VC call where the team brainstormed ideas and an overall storyline for the visual side of the song. We started with the character design of Tatsuma, where [Celestial](https://osu.ppy.sh/users/9108428) and [Hiro](https://osu.ppy.sh/users/15251809) drew multiple sketches. Those sketches were further refined in the following weeks. At the same time, [Kuroise](https://osu.ppy.sh/users/14547127) started off by writing story beats for each section of the storyboard.
 
-As the illustrations were being produced, [Iyouka](https://osu.ppy.sh/users/7138499) worked on lyrics text overlay for [CrewK’s](https://osu.ppy.sh/users/11488604) cyan abstract like animation that [Sakura006](https://osu.ppy.sh/users/10365024) composited all together in a 3D LED screen style video for the intro. Luckily, I created a little effect that acted like the LED backlights that helped compliment the video and allowed others to use the video at full resolution on their own beatmaps.
+As the illustrations were being produced, [Iyouka](https://osu.ppy.sh/users/7138499) worked on a lyrics text overlay for [CrewK](https://osu.ppy.sh/users/11488604)'s cyan abstract-like animation that [Sakura006](https://osu.ppy.sh/users/10365024) composited all together in a 3D LED screen style video for the intro. Luckily, I created a little effect that acted like the LED backlights that helped compliment the video and allowed others to use the video at full resolution on their own beatmaps.
 
 Throughout development of the storyboard, a lot of scenes were revised. For example, one major section that had to be toned down a lot was what I internally call the "[flashing section (Epilepsy Warning)](https://www.youtube.com/watch?v=4K-ruOYQTss)". Found 8 and a half minutes in, it was an extremely simple scene with Tatsuma and the background both flashing through 4 different states with overlay segments throughout. However, upon initial feedback, the frame rate had to be lowered in half and was given a aqua colour tint to make the scene a lot less harmful to the eyes.
 
@@ -380,15 +380,15 @@ Throughout development of the storyboard, a lot of scenes were revised. For exam
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
-It’s great to have you back for another Grand Finals tiebreaker project, following your work on Camellia’s Operation: Zenithfall for OWC 2024. What many might not know is that you were responsible for revising the Zenithfall storyboard prior to its ranking, a process that spanned over a month of ongoing effort. In contrast, the storyboard for this year’s TWC reached Qualified status just two hours after submission, which was a surprising turnaround. What changes did you and your team make this time to optimize storyboard creation?
+It's great to have you back for another Grand Finals tiebreaker project, following your work on Camellia's *Operation: Zenithfall* for OWC 2024. What many might not know is that you were responsible for revising the Zenithfall storyboard prior to its ranking, a process that spanned over a month of ongoing effort. In contrast, the storyboard for this year’s TWC reached Qualified status just two hours after submission, which was a surprising turnaround. What changes did you and your team make this time to optimise storyboard creation?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7279762" style="background-image: url('/wiki/shared/avatars/coppertine.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7279762">Coppertine</a></p>
 
-I'd say that of the biggest changes we had from Operation: Zenithfall to BUZZ CUTZ was how everyone was focused on storyline, not just for the video but the video and entire storyboard combined. From artists illustrating Tatsuma in various situations to Kuroise and I being in voice call day and night working on the storyboard, the productivity has vastly improved throughout the project.
+I'd say that of the biggest changes we had from *Operation: Zenithfall* to *BUZZ CUTZ* was how everyone was focused on storyline, not just for the video but the video and entire storyboard combined. From artists illustrating Tatsuma in various situations to Kuroise and me being in voice call day and night working on the storyboard, the productivity has vastly improved throughout the project.
 
-Another big step-up we have done is storyboard optimization. Instead of using the full resolution assets, we cropped and reduced the file size for each of our assets. While the initial version of the Operation: Zenithfall storyboard had an enormous file size upon showcase, we have been able to have the BUZZ CUTZ storyboard in a rankable state before upload.
+Another big step-up we have done is storyboard optimization. Instead of using the full resolution assets, we cropped and reduced the file size for each of our assets. While the initial version of the *Operation: Zenithfall* storyboard had an enormous file size upon showcase, we have been able to have the *BUZZ CUTZ* storyboard in a rankable state before upload.
 
 Altogether, I felt that we as a team have made designs that is both cohesive and enjoyable just a couple days before reveal. I myself am proud of our creation and am happy to see people like Tatsuma as well as we do!
 
@@ -408,7 +408,7 @@ Altogether, I felt that we as a team have made designs that is both cohesive and
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
 
-Hello, congratulations on placing 4th in this year’s TWC! How do you feel about your team’s performance overall?
+Hello, congratulations on placing 4th in this year's TWC! How do you feel about your team’s performance overall?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16067522" style="background-image: url('/wiki/shared/avatars/chibamasu.jpg')"></a>
 
@@ -426,7 +426,7 @@ What key factors helped your team place so high this year?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/16067522">chibamasu</a></p>
 
-I’d say the most important thing was our communication. We always supported each other and kept a really good vibe in the team. We also put a lot of effort into the tournament, practicing hard and planning each match wisely.
+I'd say the most important thing was our communication. We always supported each other and kept a really good vibe in the team. We also put a lot of effort into the tournament, practicing hard and planning each match wisely.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
 
@@ -438,13 +438,13 @@ Many would agree you stood out as an outstanding player this TWC. How did you an
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/16067522">chibamasu</a></p>
 
-I practiced almost every day, every map, for hours. Since I’m not studying this year, I was able to fully focus on TWC. My teammates also practiced a lot and helped by looking for the other teams' weaknesses so we could make better picks. It was a really good experience overall.
+I practiced almost every day, every map, for hours. Since I'm not studying this year, I was able to fully focus on TWC. My teammates also practiced a lot and helped by looking for the other teams' weaknesses so we could make better picks. It was a really good experience overall.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
 
-In the match against the Russian Federation, you pulled off a jaw-dropping score on the tiebreaker to secure Chile’s victory. How did you and your team react in that moment?
+In the match against the Russian Federation, you pulled off a jaw-dropping score on the tiebreaker to secure Chile's victory. How did you and your team react in that moment?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16067522" style="background-image: url('/wiki/shared/avatars/chibamasu.jpg')"></a>
 
@@ -456,7 +456,7 @@ We were all incredibly hyped after that win. My team was screaming like crazy. T
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
 
-Next year, there’s talk that TWC might switch to a 2v2 format. What would this change mean for Chile, and do you see yourself participating again?
+Next year, there's talk that TWC might switch to a 2v2 format. What would this change mean for Chile, and do you see yourself participating again?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16067522" style="background-image: url('/wiki/shared/avatars/chibamasu.jpg')"></a>
 
