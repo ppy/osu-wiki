@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup 2025 Concludes"
+title: 'osu!taiko World Cup 2025 Concludes'
 date: 2025-05-03 12:30:00 +0000
 ---
 
@@ -133,7 +133,7 @@ If you missed out on any of the weeks, or you want to revisit all matches that h
     }
 </style>
 
-Alongside the high production value and the intense entertainment in-game, the 2025 osu!taiko World Cup featured **11** brand new [osu! originals](https://osu.ppy.sh/wiki/en/Community/Bespoke_music). A wide variety of genres were covered and we are glad to see the featured artists listing fill up even further with catchy songs and tunes. Also very big shoutouts to the graphic designers and illustrators, that made the experience of those songs even better with high-quality backgrounds, storyboards and everything in between.
+Alongside the high production value and the intense entertainment in-game, the 2025 osu!taiko World Cup featured **11** brand new [osu! originals](/wiki/Community/Bespoke_music). A wide variety of genres were covered and we are glad to see the featured artists listing fill up even further with catchy songs and tunes. Also very big shoutouts to the graphic designers and illustrators, that made the experience of those songs even better with high-quality backgrounds, storyboards and everything in between.
 
 Check out all the new originals below by listening to the previews, and check out the beatmaps themselves by clicking on their songs banners.
 
@@ -246,7 +246,7 @@ Let's go through some very interesting stats that we've compiled over the course
 ### Most valuable players
 
 | # | Player | MVPs | played | MVP rate |
-| :--: | :------ | :-- | :-- | :-- |
+| :--: | :-- | :-- | :-- | :-- |
 | #1 | ::{ flag=KR }:: Peaceful | ★ 26 | 47 / 48  (98%) | 55% |
 | #2 | ::{ flag=SG }:: Blerargh | ★ 22 | 40 / 42  (95%) | 55% |
 | #3 | ::{ flag=CL }:: ulko | ★ 21 | 40 / 52  (77%) | 53% |
@@ -256,7 +256,7 @@ Let's go through some very interesting stats that we've compiled over the course
 ### Top team win rates
 
 | # | Team | Winrate | W-L | MVPs |
-| :--: | :------ | :--: | :--: | :-- |
+| :--: | :-- | :--: | :--: | :-- |
 | #1 | ::{ flag=JP }:: Japan | 92% | 36-3 | ★ 31 |
 | #2 | ::{ flag=GB }:: United Kingdom | 65% | 47-25 | ★ 23 |
 | #3 | ::{ flag=KR }:: South Korea | 65% | 31-17 | ★ 36 |
@@ -266,7 +266,7 @@ Let's go through some very interesting stats that we've compiled over the course
 ### Grand Finals closest maps
 
 | # | Match | Pick | Score diff | pick by | won by |
-| :--: | :------ | :--: | :--: | :--: | :--: |
+| :--: | :-- | :--: | :--: | :--: | :--: |
 | #1 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | DT1 | 501 | ::{ flag=JP }:: | ::{ flag=JP }:: |
 | #2 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | NM1 | 3,933 | ::{ flag=TW }:: | ::{ flag=TW }:: |
 | #3 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea  | DT2 | 5,158 | ::{ flag=JP }:: | ::{ flag=JP }:: |
@@ -276,7 +276,7 @@ Let's go through some very interesting stats that we've compiled over the course
 ### Grand Finals largest score differences
 
 | # | Match | Pick | Score diff | pick by | won by |
-| :--: | :------ | :--: | :--: | :--: | :--: |
+| :--: | :-- | :--: | :--: | :--: | :--: |
 | #1 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan  | NM5 | 724,122 | ::{ flag=KR }:: | ::{ flag=KR }:: |
 | #2 | ::{ flag=KR }:: South Korea  vs. ::{ flag=TW }:: Taiwan  | DT2 | 521,781 | ::{ flag=KR }:: | ::{ flag=KR }:: |
 | #3 | ::{ flag=KR }:: South Korea  vs. ::{ flag=TW }:: Taiwan  | HR2 | 493,053 | ::{ flag=KR }:: | ::{ flag=KR }:: |
