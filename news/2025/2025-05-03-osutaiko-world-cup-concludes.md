@@ -98,7 +98,7 @@ Winning the roll, Japan picked [HYKARVS - No matter What](https://osu.ppy.sh/bea
 
 Now 2–0 up, Japan seemed to hit their stride, winning [96-glass - Contradiction](https://osu.ppy.sh/beatmapsets/2358205#taiko/5080602) (NM6) by 85,892 thanks in part to ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196)'s mind-blowing 99.88% full combo, and breaking Korea again despite their reading prowess on [Jane Remover - Psychoboost ft danny brown](https://osu.ppy.sh/beatmapsets/2358227#taiko/5080666) (FM2) by another not-so-narrow margin. However, just when everyone thought the procession was starting, Japan picked [AVTechNO!xTreow - DYE/Re:flection+](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290) (DT1).
 
-Japan has always been considered the strongest Double Time team, even more so than similar contenders for other mod brackets, on account of their sheer accuracy, especially in the later rounds when other teams start to struggle. After all these years, they've seemed to find an equal in a Korean team that mounted a last-second comeback, only to fall within an agonising 501 score of a break point. If anyone thought Japan was truly safe in this matchup, this point proved them wrong.
+Japan has always been considered the strongest Double Time team, even more so than similar contenders for other mod brackets, on account of their sheer accuracy, especially in the later rounds when other teams start to struggle. After all these years, they've seemed to find an equal in a Korean team that mounted a last-second comeback, only to fall within an agonising 501 score of a break point. If anyone thought Japan was truly safe in this matchup, this point proved them wrong. The very end of this map was especially nerve-wracking:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h35m38s&video=2444004606" frameborder="0" allowfullscreen></iframe>
@@ -273,16 +273,6 @@ Let's go through some very interesting stats that we've compiled over the course
 | #4 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | NM2 | 6,523 | ::{ flag=KR }:: | ::{ flag=JP }:: |
 | #5 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | FM1 | 10,004 | ::{ flag=KR }:: | ::{ flag=JP }:: |
 
-### Grand Finals largest score differences
-
-| # | Match | Pick | Score diff | pick by | won by |
-| :-: | :-- | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | NM5 | 724,122 | ::{ flag=KR }:: | ::{ flag=KR }:: |
-| #2 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | DT2 | 521,781 | ::{ flag=KR }:: | ::{ flag=KR }:: |
-| #3 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | HR2 | 493,053 | ::{ flag=KR }:: | ::{ flag=KR }:: |
-| #4 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | NM4 | 244,054 | ::{ flag=TW }:: | ::{ flag=KR }:: |
-| #5 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | DT1 | 187,443 | ::{ flag=KR }:: | ::{ flag=KR }:: |
-
 ---
 
 More in-depth statistics for every round can be found in the [stats folder](https://drive.google.com/drive/folders/1fJ-THh-jFeWDsU4-zbZB0XdFf8lMg9zC) and for further information, check out the general [information spreadsheet](https://docs.google.com/spreadsheets/d/1ZREEsDy6HICTCTtp1_czfxpDjVKJraP3qXKVhc1aZHk).
@@ -329,7 +319,9 @@ placeholder for interview intro
 ---
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/twc-2025-interview-fraser-edwards.mp4" frameborder="0" allowfullscreen></iframe>
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/twc-2025-interview-fraser-edwards.mp4" type="video/mp4" preload="none">
+    </video>
 </div>
 
 ::{#coppertine}::
