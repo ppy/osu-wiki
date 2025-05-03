@@ -14,4 +14,4 @@ tags:
 
 ## Diskualifikasi dan kualifikasi ulang
 
-Pada saat suatu beatmap [didiskualifikasi](/wiki/Beatmap_ranking_procedure#nomination-resets), lama waktu yang telah dihabiskan oleh beatmap ini di dalam antrean ranking akan disimpan. Apabila beatmap ini kemudian dikualifikasikan ulang (*re-qualified*), beatmap ini akan memasuki antrean pada posisi di mana seolah-olah mereka telah mengantre selama  waktu ini. Kemampuan untuk "melewati" antrean ini dibatasi hingga 6 hari untuk memastikan agar seluruh beatmap akan selalu berada di Qualified selama setidaknya satu hari penuh.
+Pada saat suatu beatmap [didiskualifikasi](/wiki/Beatmap_ranking_procedure#nomination-resets), lama waktu yang telah dihabiskan oleh beatmap ini di dalam antrean ranking akan disimpan. Apabila beatmap ini kemudian dikualifikasikan ulang (*re-qualified*), beatmap ini akan memasuki antrean pada posisi di mana seolah-olah mereka telah mengantre selama waktu ini. Kemampuan untuk "melewati" antrean ini dibatasi hingga 6 hari untuk memastikan agar seluruh beatmap akan selalu berada di Qualified selama setidaknya satu hari penuh.
