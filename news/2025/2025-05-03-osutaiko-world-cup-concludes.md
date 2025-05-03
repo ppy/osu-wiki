@@ -246,7 +246,7 @@ Let's go through some very interesting stats that we've compiled over the course
 ### Most valuable players
 
 | # | Player | MVPs | played | MVP rate |
-| :-: | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-- | :-- | :-: |
 | #1 | ::{ flag=KR }:: Peaceful | ★ 26 | 47 / 48 (98%) | 55% |
 | #2 | ::{ flag=SG }:: Blerargh | ★ 22 | 40 / 42 (95%) | 55% |
 | #3 | ::{ flag=CL }:: ulko | ★ 21 | 40 / 52 (77%) | 53% |
@@ -314,7 +314,9 @@ More in-depth statistics for every round can be found in the [stats folder](http
 
 ![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/Fraser-Edwards.png)
 
-placeholder for interview intro
+[Fraser Edwards](https://osu.ppy.sh/beatmaps/artists/339) released *Poseidon's Rage* in collaboration with the osu! team for the osu!taiko World Cup, appearing as the [Round of 32 tiebreaker beatmap](https://osu.ppy.sh/beatmapsets/2340367#taiko/5044262).
+
+We invited him to discuss a bit about the song, himself and his music over dinner.
 
 ---
 
@@ -322,6 +324,12 @@ placeholder for interview intro
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/media/news/twc-2025-interview-fraser-edwards.mp4" type="video/mp4" preload="none">
     </video>
+</div>
+
+Fraser and friends also released a music video for the song filmed in a nuclear bunker in Scotland. You can check that out below.
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/w8dFhZvaPa4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ::{#coppertine}::
