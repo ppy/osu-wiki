@@ -14,6 +14,8 @@ tags:
   - ранг
   - ранк
   - рейтинг
+outdated_translation: true
+outdated_since: dcd2a38fb52e9427609446990b0219aa37128dc7
 ---
 
 # Процедура ранкинга

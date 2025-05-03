@@ -595,3 +595,9 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - This batch of evaluators included 12 users.
 - **2022-07-04:** An osu!mania Beatmap Nominator was retroactively added to the [2021 Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators#osu!mania) after an internal discussion within the Nomination Assessment Team.
 - **2022-07-14:** osu!taiko has also added 2 Beatmap Nominators to the evaluators trial, mimicking osu!'s ongoing trial.
+
+## 2024
+
+### May
+
+- **2024-05-31**: The number of nominations on hybrid sets required for getting a beatmapset qualified, was changed from 2 nominations per each available game mode to 2 nomations on the primary game mode, and 1 nomination for each subsidiary one. The game mode containing the most difficulties in total or–if the amount is the same–by the creator is considered the primary game mode.
