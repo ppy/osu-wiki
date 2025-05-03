@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'osu!taiko World Cup 2025 Concludes'
+title: osu!taiko World Cup 2025 Concludes
 date: 2025-05-03 12:30:00 +0000
 ---
 
@@ -271,7 +271,7 @@ Let's go through some very interesting stats that we've compiled over the course
 | #2 | ::{ flag=KR }:: South Korea vs. ::{ flag=TW }:: Taiwan | NM1 | 3,933 | ::{ flag=TW }:: | ::{ flag=TW }:: |
 | #3 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | DT2 | 5,158 | ::{ flag=JP }:: | ::{ flag=JP }:: |
 | #4 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | NM2 | 6,523 | ::{ flag=KR }:: | ::{ flag=JP }:: |
-| #5 |::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | FM1 | 10,004 | ::{ flag=KR }:: | ::{ flag=JP }:: |
+| #5 | ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea | FM1 | 10,004 | ::{ flag=KR }:: | ::{ flag=JP }:: |
 
 ### Grand Finals largest score differences
 
