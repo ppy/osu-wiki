@@ -398,7 +398,7 @@ Altogether, I felt that we as a team have made designs that is both cohesive and
 
 ![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/chibamasu.png)
 
-placeholder for interview intro
+[chibamasu](https://osu.ppy.sh/users/16067522) was a member of Team Chile, which placed 4th in this year's osu!taiko World Cup alongside their teammates.
 
 ---
 
