@@ -10,7 +10,7 @@ From a regular in osu!'s [bespoke music](/wiki/Community/Bespoke_music) world to
 
 When [**Krimek** joined our Featured Artist library](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek) two years ago, they had just debuted their first album. Since then, **Krimek** has been knee deep in music production, shooting out two new albums and a ton of single-track releases with vocal features from names throughout the DTM scene! On top of that, **Krimek**'s music has been a spotlight in countless tournaments, so some of these tracks might be *very* familiar!
 
-A grand total of **19** new songs (and their pre-timed `.osz` files) have been added to [**Krimek**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/371). Scout out every track with this **NEW** tag to see what's... uh... new:
+A grand total of **20** new songs (and their pre-timed `.osz` files) have been added to [**Krimek**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/371). Scout out every track with this **NEW** tag to see what's... uh... new:
 
 ![](/wiki/shared/news/2025-05-04-featured-artist-track-updates-krimek/new-krimek.png)
 
