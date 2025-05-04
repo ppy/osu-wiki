@@ -8,7 +8,7 @@ tags:
   - lazer grand arena
 ---
 
-# Lazer Grand Arena
+# Lazer Grand Arena 2024
 
 ![LGA 2024 banner](img/lga2024-banner.jpg)
 
