@@ -32,7 +32,7 @@ osu! 网站中加入了一些新的功能，例如仅限 [osu!supporter](/wiki/o
 
 ## 十二月
 
-osu! wiki 上线，允许用户们往里头丢跟 osu! 相关的各种信息。[^wiki1] [^wiki2]
+osu! wiki 的上线使得用户们可以添加各种跟 osu! 相关的信息。[^wiki1] [^wiki2]
 
 ## 引用
 
