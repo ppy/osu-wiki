@@ -23,7 +23,7 @@ As always, for more details pertaining to the tournament, please refer to the **
 
 ## Tournament format showcase
 
-Catch the full tournament format breakdown and qualifier mappool reveal live on the [osulive Twitch channel](https://twitch.tv/osulive) this **Sunday, May 4 at 15:00 UTC**. You can also [watch the showcase VOD here](https://www.twitch.tv/videos/2450171405).
+Catch the full tournament format breakdown and qualifier mappool reveal live on the [osulive Twitch channel](https://twitch.tv/osulive) this **Sunday, May 4 at 15:00 UTC**. You can also [watch the showcase VOD here](https://www.youtube.com/watch?v=52W_cvU-ajU).
 
 ## Registration / Qualifier stage
 

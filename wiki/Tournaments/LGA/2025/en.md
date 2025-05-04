@@ -57,7 +57,7 @@ Notice: the playlist closes on **Sunday, May 11 19:00 UTC.**
 ### Qualifiers
 
 **[Download the mappack here (114 MB)](https://packs.ppy.sh/P284%20-%20Lazer%20Grand%20Arena%202025%3A%20Qualifiers.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2450171405)
+[View the showcase VOD here](https://www.youtube.com/watch?v=52W_cvU-ajU)
 
 - No Mod
   1. [Wagakki Band - Kagerou Days (-Kirigiri) \[Heaven\]](https://osu.ppy.sh/beatmapsets/1865260#osu/3836604)
