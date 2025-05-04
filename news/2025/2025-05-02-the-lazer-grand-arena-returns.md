@@ -29,7 +29,6 @@ Catch the full tournament format breakdown and qualifier mappool reveal live on 
 
 No sign-up required — **just play!**. You can find the playlist in-game by searching for "[Lazer Grand Arena 2025 - Qualifiers](https://osu.ppy.sh/multiplayer/rooms/1338320)" (hosted by [LeoFLT](https://osu.ppy.sh/users/3668779)).
 
-
 To participate, simply play in the official playlist starting **Sunday, May 4 at 19:00 UTC**. You'll have **one week** to complete the **12 playlist maps**, with a total of **18 tries** to use as you see fit. The only requirements to participate are to play **every map at least once**, and to not have violated any of the [osu! community rules](/wiki/Rules) in the past 12 months. The **top 32** players will advance to the bracket stage.
 
 ## Bracket stage
