@@ -6,9 +6,9 @@ A **judgement**, or **hit result**, is the outcome of interacting with a [hit ob
 
 | Image | Name | [Hit value](/wiki/Gameplay/Score/ScoreV1/osu!taiko) | [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) | Max hit error (ms) |
 | :-: | :-: | --: | --: | :-- |
-| ![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png) | GREAT | 300 | 100% | `50 - 3 × OD` |
-| ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png) | OK | 150 | 50% | `120 - 8 × OD` if OD ≤ 5, and `110 - 6 × OD` if OD ≥ 5 |
-| ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png) | MISS | 0 | 0% | `135 - 8 × OD` if OD ≤ 5, and `120 - 5 × OD` if OD ≥ 5 |
+| <img src="/wiki/shared/judgement/osu!taiko/taiko-hit300g.png" alt="GREAT" style="width:50px; height:auto;"> <img src="/wiki/shared/judgement/osu!taiko/taiko-hit300.png" alt="GREAT" style="width:50px; height:auto;">| GREAT | 300 | 100% | `50 - 3 × OD` |
+| <img src="/wiki/shared/judgement/osu!taiko/taiko-hit100k.png" alt="OK" style="width:50px; height:auto;"> <img src="/wiki/shared/judgement/osu!taiko/taiko-hit100.png" alt="OK" style="width:50px; height:auto;"> | OK | 150 | 50% | `120 - 8 × OD` if OD ≤ 5, and `110 - 6 × OD` if OD ≥ 5 |
+| <img src="/wiki/shared/judgement/osu!taiko/taiko-hit0.png" alt="MISS" style="width:50px; height:auto;"> | MISS | 0 | 0% | `135 - 8 × OD` if OD ≤ 5, and `120 - 5 × OD` if OD ≥ 5 |
 
 Comparison of the hit window length for different OD values:
 
