@@ -1,12 +1,12 @@
 ---
 layout: post
 title: osu!taiko World Cup 2025 Concludes
-date: 2025-05-04 13:00:00 +0000
+date: 2025-05-04 14:00:00 +0000
 ---
 
 The champion has ascended to the throne once again!
 
-![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/banner.jpg)
+![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/banner.jpg)
 
 After the thrilling conlusion of the osu!taiko World Cup 2025, only three teams stood victorious on the podium. The top teams fought until the end, and one team shined in their own light. Despite a short-lived final showdown, the intense battles left everyone spellbound.
 
@@ -14,7 +14,7 @@ Read on, as we revisit remarkable highlights, hear interesting insights, relive 
 
 ## Summary
 
-![Podium](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/podium.jpg)
+![Podium](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/podium.jpg)
 
 Congratulations to ::{ flag=JP }:: Japan for securing the number one spot once again! A dominating 7–0 against the very strong, well-performing roster of ::{ flag=KR }:: South Korea, which finished in 2nd place, leaving everyone speechless. Also, shoutouts to ::{ flag=TW }:: Taiwan for securing the very well-deserved 3rd place.
 
@@ -28,7 +28,7 @@ Read and watch the [detailed match summaries further below](#grand-finals-recap)
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h4m39s&video=2438038870" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Finals mappool table](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/mappool.png)
+![Finals mappool table](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/mappool.png)
 
 We would like to thank the mappool selectors for their hard work this year. Together with the mappers and playtesters, they worked on the best possible quality for everyone. This doesn't only include choosing maps, but also mapping them and giving specifications to our amazing artists this year.
 
@@ -221,7 +221,7 @@ Check out all the new originals below by listening to the previews, and check ou
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/oceanslegacy.jpg)](https://osu.ppy.sh/beatmapsets/2358194#taiko/5080581)
+[![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/oceanslegacy.jpg)](https://osu.ppy.sh/beatmapsets/2358194#taiko/5080581)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -229,7 +229,7 @@ Check out all the new originals below by listening to the previews, and check ou
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/buzzcutz.jpg)](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722)
+[![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/buzzcutz.jpg)](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -312,7 +312,7 @@ More in-depth statistics for every round can be found in the [stats folder](http
 
 ::{#fraser-edwards}::
 
-![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/Fraser-Edwards.png)
+![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/Fraser-Edwards.png)
 
 [Fraser Edwards](https://osu.ppy.sh/beatmaps/artists/339) released *Poseidon's Rage* in collaboration with the osu! team for the osu!taiko World Cup, appearing as the [Round of 32 tiebreaker beatmap](https://osu.ppy.sh/beatmapsets/2340367#taiko/5044262).
 
@@ -332,7 +332,7 @@ Fraser and friends also released a music video for the song filmed in a nuclear 
 
 ::{#coppertine}::
 
-![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/Coppertine.png)
+![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/Coppertine.png)
 
 For TWC 2025, [Coppertine](https://osu.ppy.sh/users/7279762) was responsible for the storyboard creation of the Grand Finals tiebreaker BUZZ CUTZ, which stands as the longest osu! original ever featured in World Cups. Her previous contributions span across multiple World Cups, including the storyboard for *Operation: Zenithfall* in OWC 2024.
 
@@ -394,7 +394,7 @@ Altogether, I felt that we as a team have made designs that is both cohesive and
 
 ::{#chibamasu}::
 
-![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/chibamasu.png)
+![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/chibamasu.png)
 
 [chibamasu](https://osu.ppy.sh/users/16067522) was a member of Team Chile, which placed 4th in this year's osu!taiko World Cup alongside their teammates.
 
@@ -470,7 +470,7 @@ If TWC switches to a 2v2 format, I think it will be even more competitive, espec
 
 The osu!taiko World Cup wouldn't have been so great without **94** individual contributors across the board, along **199** players that who participated in the tournament.
 
-![](/wiki/shared/news/2025-05-03-osutaiko-world-cup-concludes/twc25-credits.png)
+![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/twc25-credits.png)
 
 We want to thank **you**, the contributors, players, viewers and everyone else who joined us for this spectacular osu!taiko World Cup 2025. And you don't even have to wait for long, as the osu! Lazer Grand Arena is right around the corner. Stay tuned and we hope to see you there!
 
