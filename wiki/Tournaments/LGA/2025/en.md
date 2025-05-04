@@ -41,8 +41,8 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ## Links
 
+- **[Play now (playlist link)](https://osu.ppy.sh/multiplayer/rooms/1338320)**
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1dc3O3hHW-pPBh8j316iUkCjcVLBF-P4rckhsbFu3jmk)**
-- [Play now (playlist link)](https://osu.ppy.sh/multiplayer/rooms/1338320)
 - [Tournament discussion/feedback thread](https://osu.ppy.sh/community/forums/topics/2075057)
 - [Livestream](https://www.twitch.tv/osulive)
 
