@@ -318,8 +318,6 @@ More in-depth statistics for every round can be found in the [stats folder](http
 
 We invited him to discuss a bit about the song, himself and his music over dinner.
 
----
-
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/media/news/twc-2025-interview-fraser-edwards.mp4" type="video/mp4" preload="none">
