@@ -36,7 +36,7 @@ La visibilidad también se restablece temporalmente durante los [descansos](/wik
 
 ## Personalización
 
-![Opciones de personalización del mod No Scope en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.jpg)
+![Opciones de personalización del mod No Scope en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.png)
 
 - **Ocultar según el combo** (0-50, 10 de forma predeterminada): El combo en el que el cursor o el catcher se ocultarán completamente. Si se establece en 0, solo será visible durante los descansos.
 

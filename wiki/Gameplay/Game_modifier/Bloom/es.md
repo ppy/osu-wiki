@@ -32,7 +32,7 @@ El mod **Bloom** hace que el cursor aumente de tamaño progresivamente a medida 
 
 ## Personalización
 
-![Opciones de personalización del mod Bloom en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BM.jpg)
+![Opciones de personalización del mod Bloom en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BM.png)
 
 - **Tamaño máximo según el combo** (5-100, 50 de forma predeterminada): El número del combo en el que el cursor alcanzará su tamaño máximo.
 - **Multiplicador de tamaño final** (5,0-15,0, 10,0 de forma predeterminada): El multiplicador aplicado al tamaño del cursor cuando se alcanza el máximo del combo.
