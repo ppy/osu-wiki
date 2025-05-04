@@ -12,7 +12,7 @@ tags:
 
 ![LGA 2025 banner](img/lga2025-banner.jpg)
 
-The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the second instalment of the Lazer Grand Arena series.
+The **Lazer Grand Arena 2025** (***LGA 2025***) is an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the second instalment of the Lazer Grand Arena series.
 
 ## Tournament schedule
 
@@ -33,14 +33,49 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186) |
 | Mappool quality assurance | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |
 | Mappool playtester | ::{ flag=PA }:: [AR9](https://osu.ppy.sh/users/5136821), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dwagon](https://osu.ppy.sh/users/9975427), ::{ flag=PL }:: [Eirra](https://osu.ppy.sh/users/3493804), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856), ::{ flag=US }:: [wr8th](https://osu.ppy.sh/users/20276851) |
-| Mapper | *TBA* |
-| Commentator | *TBA* |
+| Mapper | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), *more TBA* |
+| Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I\-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) |
 
 ## Links
 
+- **[Play now (playlist link)](https://osu.ppy.sh/multiplayer/rooms/1338320)**
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/136cY3PUT6fyS3gfmr9-UZjk9wxgjD9D_BYT89kVhO98?rm=minimal)**
+- [Tournament discussion/feedback thread](https://osu.ppy.sh/community/forums/topics/2075057)
 - [Livestream](https://www.twitch.tv/osulive)
+
+## Qualifier playlist
+
+To play the Qualifier playlist, search in-game for the following playlist: `Lazer Grand Arena 2025 - Qualifiers` [(link)](https://osu.ppy.sh/multiplayer/rooms/1338320) hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
+
+Notice: the playlist closes on **Sunday, May 11 19:00 UTC.**
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (114 MB)](https://packs.ppy.sh/P284%20-%20Lazer%20Grand%20Arena%202025%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=52W_cvU-ajU)
+
+- No Mod
+  1. [Wagakki Band - Kagerou Days (-Kirigiri) \[Heaven\]](https://osu.ppy.sh/beatmapsets/1865260#osu/3836604)
+  2. [Aether Realm - Swampwitch (iamtickrate) \[Wrath of the Witch\]](https://osu.ppy.sh/beatmapsets/1556131#osu/3178933)
+  3. [ZUTOMAYO - TAIDADA (Petal) \[RESONATION\]](https://osu.ppy.sh/beatmapsets/2270896#osu/4836943)
+  4. [onumi - ZERO-SEVEN (Cappu) \[SAVE SATOKO\]](https://osu.ppy.sh/beatmapsets/2206892#osu/4673006)
+- Hidden
+  1. [Mindless Self Indulgence - Lights Out (Nymphe) \[nothing ever happens\]](https://osu.ppy.sh/beatmapsets/2365351#osu/5100547)
+  2. [Atos feat. Tachibana Kanon - Byoutou no Negai (Garden) \[Wish\]](https://osu.ppy.sh/beatmapsets/2160067#osu/4554752)
+- Hard Rock
+  1. [Lie and a Chameleon - JOHN DOE (Stompy\_) \[Surgis x flake's Extreme\]](https://osu.ppy.sh/beatmapsets/2189522#osu/4630929)
+  2. [-45 - Millarca (228) \[Suffering\]](https://osu.ppy.sh/beatmapsets/1978407#osu/4107350)
+- Double Time (variable speed bultiplier)
+  1. (1.30x) [Shoji Meguro - Kimi no Kioku (Aethral Remix) (Akali) \[Remembrance\]](https://osu.ppy.sh/beatmapsets/490662#osu/1045757)
+  2. (1.30x) [Awake - Supernova (Niva) \[Extra\]](https://osu.ppy.sh/beatmapsets/2365648#osu/5101419)
+  3. (1.20x) [PUP - Mabu (Hobbes2) \[Extreme\]](https://osu.ppy.sh/beatmapsets/762836#osu/1603957)
+- Lazer Mod ([Bubbles](/wiki/Gameplay/Game_modifier/Bubbles) + [Approach Different](/wiki/Gameplay/Game_modifier/Approach_Different))
+  1. [Carpool Tunnel - Afterlight (\_Epreus) \[Insane\]](https://osu.ppy.sh/beatmapsets/1001546#osu/2162331)
 
 ## Ruleset
 
