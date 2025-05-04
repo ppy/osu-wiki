@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: Krimek"
-date: 2025-05-04 18:00:00 +0000
+date: 2025-05-04 21:00:00 +0000
 ---
 
-From a regular in osu!'s [bespoke music](/wiki/Community/Bespoke_music) world to one of osu!'s Featured Artists, **Krimek** returns with a new batch of tracks!
+From a regular in osu!'s [music production scene](/wiki/Community/Bespoke_music) to one of osu!'s Featured Artists, **Krimek** returns with a new batch of tracks!
 
 ![](https://assets.ppy.sh/artists/371/header.jpg)
 
@@ -64,7 +64,7 @@ And here's [a map from Resurrection Cup 2023](https://osu.ppy.sh/beatmapsets/202
 
 ---
 
-If you're waiting for a sign before you start mapping, this is it. More specifically, every **NEW** tag beside songs on [**Krimek**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/371) is your sign. Pick one out and circle placing instead of circle clicking for a change.
+If you're waiting for a sign before you start mapping, this is it. More specifically, every **NEW** tag beside songs on [**Krimek**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/371) is your sign. Pick one out and start circle-placing instead of circle-clicking for a change.
 
 Alternatively, you can wait until next weekend to start mapping songs from whichever musician we announce as our newest Featured Artist!
 
