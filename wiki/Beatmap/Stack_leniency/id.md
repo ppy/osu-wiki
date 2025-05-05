@@ -20,7 +20,7 @@ tags:
 
 **Stack leniency** merupakan parameter [beatmap](/wiki/Beatmap) yang mengatur pembentukan [stack](/wiki/Beatmapping/Mapping_techniques/Stack) otomatis (*automatic stack*) antar [circle](/wiki/Gameplay/Hit_object/Hit_circle) dan [slider](/wiki/Gameplay/Hit_object/Slider) pada mode permainan [osu!](/wiki/Game_mode/osu!). Stack leniency yang lebih rendah akan mempersempit waktu bagi [objek permainan](/wiki/Gameplay/Hit_object) yang tertumpuk untuk dapat dianggap sebagai satu stack; sebaliknya, stack leniency yang lebih tinggi akan mengelompokkan objek yang waktunya lebih berjauhan sebagai satu stack.
 
-Stack leniency dapat disesuaikan dari tab `Advanced` pada bagian [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) di [editor](/wiki/Client/Beatmap_editor). Walaupun nilai stack leniency yang ada editor berkisar dari `0` hingga `10`, variabel ini menggunakan rentang `0.0`–`1.0` pada parameter `StackLeniency` di dalam [berkas `.osu`](/wiki/Client/File_formats/osu_\(file_format\)).
+Stack leniency dapat disesuaikan dari tab `Advanced` pada bagian [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) di [editor](/wiki/Client/Beatmap_editor). Walaupun nilai stack leniency yang ada editor berkisar dari `0` hingga `10`, variabel ini menggunakan rentang `0.0`–`1.0` pada parameter `StackLeniency` di dalam [berkas `.osu`](/wiki/Client/File_formats/osu_(file_format)).
 
 ## Perilaku
 
