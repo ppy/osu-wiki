@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expert Global Taiko Showdown 2025 Concludes
-date: 2025-05-03 12:00:00 +0000
+date: 2025-05-06 12:00:00 +0000
 ---
 
 After two months of some of the highest levels of tournament matches osu!taiko has ever seen, the final chapter of EGTS has come to a conclusion! Please join us to see what went down in the most ambitious osu!taiko tournament yet.
@@ -12,7 +12,7 @@ Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked 
 
 ## Navigation
 
-This is a long article, so feel free to jump around:
+This is a long article, so feel free to skip around:
 
 - [Summary](#summary)
 - [Grand Finals recap](#grand-finals-recap)
@@ -33,7 +33,7 @@ This is a long article, so feel free to jump around:
 
 ## Summary
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/podium.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/podium.png)
 
 Massive applauses to our podium finishers, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) and ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), for creating such an unforgettable final week!
 
@@ -203,11 +203,11 @@ Everyone was expecting this match to be extremely close, especially as it was a 
 
 However, this time around, the story of the match was very different, with both players winning their 6 respective picks. An absurd sight to behold.
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-1.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-1.png)
 
 With no choice but to play one of the longest and brutal tiebreakers in osu!taiko history, both players vied for the chance to aim even higher in this tournament.
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-2.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-2.png)
 
 However, with the first quarter of the map done, it started looking hopeless, as ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) was already 23,145 points ahead. With ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) being 31 misses behind, this seemed like a done deal, especially with none of the song's hard parts having come up yet.
 
@@ -219,7 +219,7 @@ And yet...
     </video>
 </div>
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-3.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-3.png)
 
 Whatever it was that happened in his mind to hit all of this, this was the turning point of the map, as ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) took the lead and never looked back, winning by a jaw-dropping 7,627 points.
 
@@ -231,7 +231,7 @@ Whatever it was that happened in his mind to hit all of this, this was the turni
     }
 </style>
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/art.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/art.png)
 
 EGTS, and GTS as a whole, has already been known for its immense contribution to original song releases in the osu! sphere, having released **73** songs in its existence, prior to EGTS 2025's release.
 
@@ -243,7 +243,7 @@ Clicking the song banners will take you to the respective beatmaps. We will be h
 
 ### Round of 64
 
-[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-void-elevator.png)](https://osu.ppy.sh/beatmapsets/2321390)
+[![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/banner-void-elevator.png)](https://osu.ppy.sh/beatmapsets/2321390)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -262,7 +262,7 @@ With a track that has waited 2 years to be able to release, he has still managed
 
 ### Round of 32
 
-[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-conviction.png)](https://osu.ppy.sh/beatmapsets/2325087)
+[![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/banner-conviction.png)](https://osu.ppy.sh/beatmapsets/2325087)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -276,7 +276,7 @@ Mappers [davidminh0111](https://osu.ppy.sh/users/2140739) and [SolaEclipse](http
 
 ### Round of 16
 
-[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-the-great-revelation-by-mother-brain.png)](https://osu.ppy.sh/beatmapsets/2329073)
+[![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/banner-the-great-revelation-by-mother-brain.png)](https://osu.ppy.sh/beatmapsets/2329073)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -292,7 +292,7 @@ Mappers [Ideal](https://osu.ppy.sh/users/3869519) and [Raphalge](https://osu.ppy
 
 ### Quarterfinals
 
-[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-atomic-disassembler.png)](https://osu.ppy.sh/beatmapsets/2332724)
+[![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/banner-atomic-disassembler.png)](https://osu.ppy.sh/beatmapsets/2332724)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -308,7 +308,7 @@ The map by [My Angel Seia](https://osu.ppy.sh/users/17797595) has absolutely not
 
 ### Semifinals
 
-[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-white-tiger.png)](https://osu.ppy.sh/beatmapsets/2336579#taiko/5016172)
+[![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/banner-white-tiger.png)](https://osu.ppy.sh/beatmapsets/2336579#taiko/5016172)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -322,7 +322,7 @@ In conjunction, mappers [Briesmas](https://osu.ppy.sh/users/2865172) and [MTNTWa
 
 ### Finals
 
-[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-justice-rectifier.png)](https://osu.ppy.sh/beatmapsets/2340085)
+[![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/banner-justice-rectifier.png)](https://osu.ppy.sh/beatmapsets/2340085)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -338,7 +338,7 @@ With a map by [tasuke912](https://osu.ppy.sh/users/2774767), [uone](https://osu.
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-absolute-disorder.png)](https://osu.ppy.sh/beatmapsets/2343534)
+[![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/banner-absolute-disorder.png)](https://osu.ppy.sh/beatmapsets/2343534)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -395,7 +395,7 @@ You'll find the [map here](https://osu.ppy.sh/beatmapsets/2343549) if you dare c
 
 ::{#kanten_07}::
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-kanten.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/interview-kanten.png)
 
 [kanten_07](https://osu.ppy.sh/users/11680357) finished at 2nd place for this year's EGTS with one of the most surprising bracket runs in the entire tournament, forcing the closest Grand Finals in EGTS history.
 
@@ -440,7 +440,7 @@ The two people that surprised me with their performance were [Grape_Tea](https:/
 
 ::{#4sbet1}::
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-4sbet1.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/interview-4sbet1.png)
 
 [4sbet1](https://osu.ppy.sh/users/11563671) was one of the head mappoolers for this year's EGTS, having helped tremendously in terms of improving communication with Japanese users, as well as having worked on a huge part of the general mappooling with [ekumea1123](https://osu.ppy.sh/users/9119501), especially for later stages.
 
@@ -486,7 +486,7 @@ To be honest, ekumea1123 did more work than I did, and I also received a tremend
 
 ::{#foodbot}::
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-foodbot.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/interview-foodbot.png)
 
 A brand-new addition from this year's GTS releases, [Foodbot](https://osu.ppy.sh/users/35127759) has been one of the most active composers in EGTS, working on **4** different song projects for this tournament alone. They took part in creating the [Finals NM4](https://osu.ppy.sh/beatmapsets/2340046#taiko/5026842) with the Spaceport Sound Team; the [Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2340085#taiko/5026904), *Justice Rectifier*, with [Type R](https://soundcloud.com/hiimtype_r) and [SDMNE](https://soundcloud.com/sdmne); [the Grand Finals No Mod 4](https://osu.ppy.sh/beatmapsets/2343520#taiko/5037773), *deadline chasers*, with [Kyotsugyon](https://soundcloud.com/kyotsugyon); and last but not least the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2343549#taiko/5037847) megacollab.
 
@@ -539,7 +539,7 @@ In the end, it almost feels like I'm making a song for a music label, and it's a
 
 ::{#zeth}::
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-zeth.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/interview-zeth.png)
 
 [Z419](https://osu.ppy.sh/users/9912966) (a.k.a. Zeth) has been the main designer for this final edition of EGTS, being in charge of making the most appealing designs possible for everything that was not an original song.
 
@@ -577,7 +577,7 @@ Creativity-wise, it was sometimes challenging because having to come up with a n
 
 ::{#overdahedge2015}::
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-hedge.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/interview-hedge.png)
 
 [overdahedge2015](https://osu.ppy.sh/users/9864847) has been a force to be reckoned with in tournament staffing over the years, taking on playtesting for numerous osu!taiko tournaments. EGTS was no stranger to this, as he was the head playtester for this tournament as well.
 
@@ -662,9 +662,9 @@ the most ambitious community endeavour in osu!taiko
 
 This final iteration of the Expert Global Taiko Showdown would not have been possible without the contributions of our 157 staff members and the 157 players who joined in and played our Qualifiers.
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/signatures.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/signatures.png)
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/credits.png)
+![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/credits.png)
 
 Thank you to everyone involved from staff to players and spectators. See you in the last few GTS tournaments we have left until August!
 
