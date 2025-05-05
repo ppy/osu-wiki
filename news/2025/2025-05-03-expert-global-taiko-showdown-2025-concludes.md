@@ -37,7 +37,7 @@ This is a long article, so feel free to jump around:
 
 Massive applauses to our podium finishers, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) and ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), for creating such an unforgettable final week!
 
-Since the start, we saw every top player from around the world returning, fighting neck and neck with perseverance to get as far as possible. Everyone had predictions on who would come out on top, but certainly no one expected it to come as close as it had been. From a PERFECT, FULL SS of the qualifiers (yes this actually happened), to the close battles in the brackets, all the way until the Grand Finals week, where we witnessed the 11-minute-long TB being played twice, and a bracket reset!
+Since the start, we saw every top player from around the world returning, fighting neck and neck with perseverance to get as far as possible. Everyone had predictions on who would come out on top, but certainly no one expected it to come as close as it had been. From a PERFECT, FULL SS of the qualifiers (yes this actually happened), to the close battles in the brackets, all the way until the Grand Finals week, where we witnessed the 11-minute-long tiebreaker being played twice, and a bracket reset!
 
 Read on for a detailed rundown of the Grand Finals and [other highlights from this tournament](#match-highlights) below.
 
@@ -99,8 +99,6 @@ Let's start off these more "miscellaneous" match highlights, with one of, if not
 
 The outcome was all but predictable in ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) and ::{ flag=CL }:: [Teruyama](https://osu.ppy.sh/users/9057823)'s first-round match. Despite the major differences in global ranks — applerss at #3 and Teruyama at #128 — and their seeding in EGTS (28th and 37th, respectively), the match was incredibly close. Every single map played on the players' respective picks was decided by a margin of less than 20,000 points, highlighting just how evenly matched they were. Both competitors showcased impressive skill, making it one of the most intense matches of the round.
 
-The full story of this thrilling match cannot be contained in the amounts of paragraph we can make with the amount of content to talk about here, so by all means, go and check out the VOD of this match, as well as the other matches involved if you have not seen EGTS matches before this. You will not be disappointed whatsoever.
-
 ### Round of 32: ::{ flag=JP }:: hz404 vs. ::{ flag=JP }:: Shamirin_mzk
 
 <div align="center" class="osu-md__paragraph">
@@ -109,11 +107,11 @@ The full story of this thrilling match cannot be contained in the amounts of par
 
 Round of 32 then started, and what a lineup of players to start off with. ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043), ranked at #14, winning the 2023 edition of [Squad Global Taiko Showdown](https://osu.ppy.sh/community/forums/topics/1703263) and finishing 3rd in [Project Prism](https://osu.ppy.sh/community/forums/topics/1909279), facing off against ::{ flag=JP }:: [Shamirin_mzk](https://osu.ppy.sh/users/11325757), ranked at #42, winning the 2021 [Continental Global Taiko Showdown](/wiki/Tournaments/GTS/CGTS_2021) tournament, as well as [TWC 2024](/wiki/Tournaments/TWC/2024) with the Japanese team.
 
-With both players having both significant achievements on both the solo leaderboards and tournaments, the match was bound to be exciting. And exciting it was, with the third map, [(The) * Red Room](https://osu.ppy.sh/beatmapsets/2325015#taiko/4983573) ending with a 1,382 points difference, giving the win to ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043), for his first point in this match, as ::{ flag=JP }:: [Shamirin_mzk](https://osu.ppy.sh/users/11325757) was leading by 2 points at this point.
+With both players having both significant achievements on both the solo leaderboards and tournaments, the match was bound to be exciting. And exciting it was, with the third map, [(The) * Red Room](https://osu.ppy.sh/beatmapsets/2325015#taiko/4983573) ending with a 1,382-point difference, giving the win to ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043), for his first point in this match, as ::{ flag=JP }:: [Shamirin_mzk](https://osu.ppy.sh/users/11325757) was leading by 2 points at this point.
 
-Somehow this was "only" the third lowest point difference, with [Luminosity](https://osu.ppy.sh/beatmapsets/2325073#taiko/4983703) being a 1,325 points difference, getting ::{ flag=JP }:: [Shamirin_mzk](https://osu.ppy.sh/users/11325757) to tie up, with a scoreline of 4–4 after this win. And now, the biggest points difference in this match was on the final map being played before the tiebreaker, being [Taffy](https://osu.ppy.sh/beatmapsets/2324286#taiko/4981586), finishing with an absurd **57** points difference, which is probably one of the lowest non-tie score differences we've seen in this EGTS.
+Somehow this was "only" the third lowest score difference. ::{ flag=JP }:: [Shamirin_mzk](https://osu.ppy.sh/users/11325757) scraped the match to a 4–4 tie on [Luminosity](https://osu.ppy.sh/beatmapsets/2325073#taiko/4983703) by 1,325 points, and just before the tiebreaker, the match got *even closer* on [Taffy](https://osu.ppy.sh/beatmapsets/2324286#taiko/4981586) with an absurd **57** points bringing both players to match point.
 
-And for the tiebreaker's result, well, how about you go check it out on the VOD itself? You won't be disappointed.
+As for the tiebreaker's result, well, how about you go check it out on the VOD itself? You won't be disappointed.
 
 ### Round of 16: ::{ flag=JP }:: supesan vs. ::{ flag=US }:: mBiscuit
 
@@ -121,13 +119,13 @@ And for the tiebreaker's result, well, how about you go check it out on the VOD 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ta-RvWKRi64" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Now, for a departure from top players facing off in extra early rounds, for Round of 16's highlight, we will be talking about a match-up of two very underrated players, between ::{ flag=JP }:: [supesan](https://osu.ppy.sh/users/14623658), who, despite his #185 rank in osu!taiko's pp ranking, seeded #8 through our Qualifiers, and ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174), who achieved a very respectable seed #46 considering his pp-based rank, being #411.
+Now, for a departure from top players facing off in extra early rounds, for Round of 16's highlight, we will be talking about a match-up of two very underrated players. This match is between ::{ flag=JP }:: [supesan](https://osu.ppy.sh/users/14623658), who, despite being #185 on osu!taiko's performance point ranking, seeded #8 through our Qualifiers, and ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174), who achieved a very respectable seed of #46 considering his pp-based rank, being #411.
 
-Nothing really announced this to be such a close match, although ::{ flag=JP }:: [supesan](https://osu.ppy.sh/users/14623658) definitely has a higher skillcap thanks to his rank, ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174) is possibly one of the best players in terms of reading and gimmick abilities, and this match showcased all of this in the most perfect ways possible.
+Nothing really announced this to be such a close match. Although ::{ flag=JP }:: [supesan](https://osu.ppy.sh/users/14623658) definitely has a higher skill cap thanks to his rank, ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174) is possibly one of the best players in terms of reading and gimmick abilities, and this match showcased all of this in the most perfect ways possible.
 
-Between ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174) winning on [HD1](https://osu.ppy.sh/beatmapsets/2328983#taiko/4994070), [FM1](https://osu.ppy.sh/beatmapsets/2328977#taiko/4994051), [FM2](https://osu.ppy.sh/beatmapsets/2329063#taiko/4994258), [FM3](https://osu.ppy.sh/beatmapsets/2329068#taiko/4994266), [NM4](https://osu.ppy.sh/beatmapsets/2329039#taiko/4994216), with all of these being reading-based outside of FM1, which is a consistency pick, and NM4, being the gimmick pick for the round, and ::{ flag=JP }:: [supesan](https://osu.ppy.sh/users/14623658) winning on [NM3](https://osu.ppy.sh/beatmapsets/2329033#taiko/4994202), [DT2](https://osu.ppy.sh/beatmapsets/2329049#taiko/4994233), [NM2](https://osu.ppy.sh/beatmapsets/2329034#taiko/4994203), [NM5](https://osu.ppy.sh/beatmapsets/2328994#taiko/4994086), [HR1](https://osu.ppy.sh/beatmapsets/2329036#taiko/4994210), and the [Tiebreaker](https://osu.ppy.sh/beatmapsets/2329073#taiko/4994275), all of these being some of the more mechanics-focused picks in this pool, this match made for one of the most interesting contrasts to look at for such a close match.
+Between ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174) winning on [HD1](https://osu.ppy.sh/beatmapsets/2328983#taiko/4994070), [FM1](https://osu.ppy.sh/beatmapsets/2328977#taiko/4994051), [FM2](https://osu.ppy.sh/beatmapsets/2329063#taiko/4994258), [FM3](https://osu.ppy.sh/beatmapsets/2329068#taiko/4994266), [NM4](https://osu.ppy.sh/beatmapsets/2329039#taiko/4994216), a mix of reading, consistency and gimmick picks, and ::{ flag=JP }:: [supesan](https://osu.ppy.sh/users/14623658) winning on [NM3](https://osu.ppy.sh/beatmapsets/2329033#taiko/4994202), [DT2](https://osu.ppy.sh/beatmapsets/2329049#taiko/4994233), [NM2](https://osu.ppy.sh/beatmapsets/2329034#taiko/4994203), [NM5](https://osu.ppy.sh/beatmapsets/2328994#taiko/4994086), [HR1](https://osu.ppy.sh/beatmapsets/2329036#taiko/4994210), and the [tiebreaker](https://osu.ppy.sh/beatmapsets/2329073#taiko/4994275), the more mechanics-focused picks in this pool, this match made for one of the most interesting contrasts to look at for such a close match.
 
-This clip right below summarizes very well how stressful matches in EGTS are to watch, honestly.
+This clip right below summarises very well how stressful matches in EGTS are to watch, honestly.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -141,9 +139,11 @@ This clip right below summarizes very well how stressful matches in EGTS are to 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/k3TCnlziD6g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Now we're in for the late stage of EGTS. This is probably now known as one of the biggest upsets in the entire tournament, knowing how good ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) has always been at this level of tournament performance, and it reflected in the pick'ems, with 90.5% of votes predicting a winner going his way.
+Now we're in for the late stage of EGTS. This is probably now known as one of the biggest upsets in the entire tournament, knowing how good ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) has always been at this level of tournament performance, and it reflected in the pick'ems, with 90.5% of votes predicting the win going his way.
 
-However, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) was prepared to prove us wrong, in every way conceivable. The first 4 picks went as planned for both players, each of them won their respective picks, getting to 2–2. But then, ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) picked [HD1, parallel skydive](https://osu.ppy.sh/beatmapsets/2332962#taiko/5006346), and this was the start of the most unexpected run, as he would get 10 misses on it, whereas ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) just went and FC'd it. Despite kanten being known as a No Mod player mainly, he went and stole away a point on a slow SV Hidden map against the best reading player in the game. After that, the match went on for 3 picks in a row, where neither player could even win their own pick, especially with [Fortuna for Tuna](https://osu.ppy.sh/beatmapsets/2333012#taiko/5006460) being won by Peaceful with a 112 points difference.
+However, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) was prepared to prove us wrong, in every way conceivable. The first 4 picks went as planned for both players, each of them winning their respective picks for a tied match. But then, ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) picked [HD1, *parallel skydive*](https://osu.ppy.sh/beatmapsets/2332962#taiko/5006346), and this was the start of the most unexpected run, as he would get 10 misses, whereas ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) just went and FC'd it. Despite being known as a No Mod player mainly, he went and stole away a point on a slow SV HD map against the best reading player in the game.
+
+After that, the match went on for 3 picks in a row, where neither player could even win their own pick, especially with [Fortuna for Tuna](https://osu.ppy.sh/beatmapsets/2333012#taiko/5006460) being won by ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) with a 112-point difference.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -151,7 +151,7 @@ However, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) was prep
     </video>
 </div>
 
-Back to a tie again, with 4–4. With each player having one pick left, they manage to both win their respective picks, although it was by 5,429 and 2,567 points respectively, with the last one being especially impressive to look back on...
+Back to a tie again at 4–4. With each player having one pick left, they manage to both win their respective picks, although it was by 5,429 and 2,567 points respectively, with the last one being especially impressive to look back on...
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -159,7 +159,9 @@ Back to a tie again, with 4–4. With each player having one pick left, they man
     </video>
 </div>
 
-Tiebreaker reached. 5–5. No other way out of this than by going through a gruesome gauntlet that is [Atomic Disassembler](https://osu.ppy.sh/beatmapsets/2332724#taiko/5005638). The first half was quite trivial for both players, with them being separated by 6x100 by the time the second half started, and somehow, still being at that difference by the time the slowest SV section ended. The song then went into a break-down, and the misses started coming in, with ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) missing 3 in a row, and ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) trading them back with 15 in a row. Everything seemed hopeless at this point, even with 4 additional misses from ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027), but then the very last section came up...
+Tiebreaker reached. 5–5. No other way out of this than by going through the gruesome gauntlet that is [Atomic Disassembler](https://osu.ppy.sh/beatmapsets/2332724#taiko/5005638). The first half was quite trivial for both players, scores separated by 6x100 by the time the second half started, and somehow, still maintaining the same score difference by the time the slowest SV section ended.
+
+By the time of the song's breakdown section, the misses started coming in. ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) missed 3 in a row, and ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) traded them back with 15 in a row. Everything seemed hopeless at this point, even with 4 additional misses from ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027), but then the very last section came up...
 
 There are no words for what ended up happening.
 
@@ -169,7 +171,7 @@ There are no words for what ended up happening.
     </video>
 </div>
 
-::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) won with one of the most decisive ways a tiebreaker could be, a slim 3,775 points difference, and advanced to the Semifinals in the winner's bracket that way.
+::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) won with one of the most decisive ways a tiebreaker could end, by a slim 3,775 points, and advanced to the Semifinals in the winners' bracket.
 
 ### Semifinals: ::{ flag=KR }:: Peaceful vs. ::{ flag=JP }:: _Kan2
 
@@ -177,9 +179,11 @@ There are no words for what ended up happening.
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/f4r-YGyv7k4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-We're now in the first round of Semifinals for the loser's bracket, with a legendary line-up of players to say the least, with ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) on one side, being known as one of the best tournament players in the game, with 4 different TWC podium finishes, and being the current [Project Prism champion](https://osu.ppy.sh/community/forums/topics/1909279). On the other side, we have ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196), having one of the highest skill caps for a tournament player, despite not playing in tournaments, showcased with his 2x miss on [TremENDouS](https://osu.ppy.sh/beatmapsets/1632807#taiko/3332914), EGTS 2021's Grand Finals Tiebreaker, being unmatched to this day, and being the only player that has won both Squad Global Taiko Showdowns to ever happen, in 2021, and 2023.
+We're now in the first round of Semifinals for the losers' bracket with a legendary line-up of players to say the least. On one side we have ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027), current [Project Prism champion](https://osu.ppy.sh/community/forums/topics/1909279) and 4-time TWC podium finisher. On the other side we have ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196), having one of the highest skill caps for a tournament player despite not playing in tournaments, showcased with his unmatched 2-miss score on [TremENDouS](https://osu.ppy.sh/beatmapsets/1632807#taiko/3332914), EGTS 2021's Grand Finals tiebreaker, and being the only player that has won both Squad Global Taiko Showdowns of 2021 and 2023.
 
-Now, how could this match between such juggernauts of osu!taiko go? Picks for both players were pretty unsurprising, with ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) choosing the reading aspect of the mappool, with [FM3](https://osu.ppy.sh/beatmapsets/2336583#taiko/5016186), [HR2](https://osu.ppy.sh/beatmapsets/2336561#taiko/5016142), [HD1](https://osu.ppy.sh/beatmapsets/2336375#taiko/5015685), [FM1](https://osu.ppy.sh/beatmapsets/2336556#taiko/5016129), [NM4](https://osu.ppy.sh/beatmapsets/2336545#taiko/5016102), and [NM6](https://osu.ppy.sh/beatmapsets/2336555#taiko/5016128), as a mechanics-oriented final pick. For ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196), we ended up with [NM1](https://osu.ppy.sh/beatmapsets/2336548#taiko/5016113), [NM3](https://osu.ppy.sh/beatmapsets/2336550#taiko/5016115), [NM5](https://osu.ppy.sh/beatmapsets/2336559#taiko/5016136), [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688), [NM2](https://osu.ppy.sh/beatmapsets/2336557#taiko/5016130), and [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689) all being picked. This entire match went as according for the first 4 picks, but ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) then lost on HD1, losing the slow Hidden reading for the second match in a row, and giving ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196) the first break point in this match. Sadly for him though, this would not be the last break point in the match, as ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) ended up retaliating, by first winning [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688) in dominating fashion by FC'ing it, and getting to 4-4, and finally, winning [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689) in one of the most impressive break points to happen, with a 483 points difference, to win the whole match.
+Now, how could this match between such juggernauts of osu!taiko go? Picks for both players were pretty unsurprising, with ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) choosing the reading aspect of the mappool, with [FM3](https://osu.ppy.sh/beatmapsets/2336583#taiko/5016186), [HR2](https://osu.ppy.sh/beatmapsets/2336561#taiko/5016142), [HD1](https://osu.ppy.sh/beatmapsets/2336375#taiko/5015685), [FM1](https://osu.ppy.sh/beatmapsets/2336556#taiko/5016129), [NM4](https://osu.ppy.sh/beatmapsets/2336545#taiko/5016102), and [NM6](https://osu.ppy.sh/beatmapsets/2336555#taiko/5016128), as a mechanics-oriented final pick. For ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196), we ended up with [NM1](https://osu.ppy.sh/beatmapsets/2336548#taiko/5016113), [NM3](https://osu.ppy.sh/beatmapsets/2336550#taiko/5016115), [NM5](https://osu.ppy.sh/beatmapsets/2336559#taiko/5016136), [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688), [NM2](https://osu.ppy.sh/beatmapsets/2336557#taiko/5016130), and [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689). This entire match went according to plan for the first 4 picks, but ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) then lost on HD1, losing the slow HD reading map for the second match in a row, and giving ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196) the first break point of the match.
+
+Sadly for him, this would not be the last break point, as ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) ended up retaliating by first winning [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688) in dominating fashion (an FC), then tying up the match, and finally, winning [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689) in one of the most impressive break points to happen, with just 483 points to decide the whole match.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -195,19 +199,19 @@ Now, how could this match between such juggernauts of osu!taiko go? Picks for bo
 
 Here we were, the final match deciding who would face off against ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), in the Grand Finals of EGTS 2025 the following day.
 
-With everyone knowing both players were really good, everyone was expecting this match to be extremely close as it was, especially as it was a revenge match from Semifinals, where ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) came out on top, winning 7–5.
+Everyone was expecting this match to be extremely close, especially as it was a revenge match from Semifinals, where ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) came out on top at 7–5.
 
-However, this time around, despite the very similar scoreline, and with a 6–7 for ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357), the story of the match was very different, with both players truly showing they were ready, and both players ended up winning their 6 respective picks, which is an absurd sight to behold.
+However, this time around, the story of the match was very different, with both players winning their 6 respective picks. An absurd sight to behold.
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-1.png)
 
-With no choice but to play one of the longest and brutal tiebreakers in osu!taiko history to get a chance to continue playing in this tournament, both players started the final map in this match.
+With no choice but to play one of the longest and brutal tiebreakers in osu!taiko history, both players vied for the chance to aim even higher in this tournament.
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-2.png)
 
 However, with the first quarter of the map done, it started looking hopeless, as ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) was already 23,145 points ahead. With ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) being 31 misses behind, this seemed like a done deal, especially with none of the song's hard parts having come up yet.
 
-And yet....
+And yet...
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -217,7 +221,7 @@ And yet....
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-3.png)
 
-Whatever it was that happened in his mind to hit all of this, this was the turning point of the map, as ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) took the lead from that point, and never looked back, winning with a jaw-dropping 7,627 points difference. This whole Grand Finals is truly a once-in-a-lifetime experience to enjoy, so make sure to check both matches out.
+Whatever it was that happened in his mind to hit all of this, this was the turning point of the map, as ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) took the lead and never looked back, winning by a jaw-dropping 7,627 points.
 
 ## Original songs
 
@@ -229,13 +233,13 @@ Whatever it was that happened in his mind to hit all of this, this was the turni
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/art.png)
 
-EGTS, and GTS as a whole, has already been known for its immense contribution to original songs releases in the osu! sphere, having released **73** songs in its existence, prior to EGTS 2025's release.
+EGTS, and GTS as a whole, has already been known for its immense contribution to original song releases in the osu! sphere, having released **73** songs in its existence, prior to EGTS 2025's release.
 
-Due to that, we think there were a lot of expectations on how many we would be releasing, especially with [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023), which was holding the record for the tournament with the most original songs attached to it, being 29.
+Due to that, we think there were a lot of expectations on how many there would be, especially with [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023) including 29 bespoke songs, the most for any single tournament.
 
-This record was not beaten to this day, or well, until EGTS 2025 finalized, with us having released a grand total of **37 original songs** for this tournament. You can find all of these songs on the [Bespoke osu! music wiki article](/wiki/Community/Bespoke_music#community-run-tournament-releases) for quick access, under the "Expert Global Taiko Showdown 2025" section.
+That record has stood unbeaten to this day, or well, until EGTS 2025 was finalised, with a grand total of **37 original songs** released for this tournament. [You can find all of them on the wiki.](/wiki/Community/Bespoke_music#expert-global-taiko-showdown)
 
-We will be highlighting our biggest non-Tiebreaker track in this article as well, along with showcasing all tiebreakers as well.
+Clicking the song banners will take you to the respective beatmaps. We will be highlighting just the tiebreakers in this article, as well as a very special collaboration track.
 
 ### Round of 64
 
