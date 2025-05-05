@@ -12,7 +12,7 @@ Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked 
 
 ## Summary
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Podium.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/podium.png)
 
 Massive applauses to our podium finishers, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) and ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), for creating such an unforgettable final week!
 
@@ -239,7 +239,7 @@ Whatever it was that happened in his mind to hit all of this, this was the turni
     }
 </style>
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Art.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/art.png)
 
 EGTS, and GTS as a whole, has already been known for its immense contribution to original songs releases in the osu! sphere, having released **73** songs in its existence, prior to EGTS 2025's release.
 
@@ -251,7 +251,7 @@ We will be highlighting our biggest non-Tiebreaker track in this article as well
 
 ### Round of 64
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO64.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-void-elevator.png)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -263,7 +263,7 @@ We will be highlighting our biggest non-Tiebreaker track in this article as well
 
 ### Round of 32
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO32.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-conviction.png)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -275,7 +275,7 @@ We then moved on to quite a different style for this tiebreaker, being a more ro
 
 ### Round of 16
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_RO16.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-the-great-revelation-by-mother-brain.png)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -287,7 +287,7 @@ Oh, did I say the past song changed styles? Okay, maybe this one does too. To qu
 
 ### Quarterfinals
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_QF.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-atomic-disassembler.png)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -301,7 +301,7 @@ This title summarizes the goal behind this song pretty well. The tiebreaker for 
 
 ### Semifinals
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_SF.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-white-tiger.png)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -313,7 +313,7 @@ Where do we even start with this song. With a song mainly based on Oriental vibe
 
 ### Finals
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_F.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-justice-rectifier.png)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -325,7 +325,7 @@ And now that we're on it, let's talk about this Finals Tiebreaker, "[Justice Rec
 
 ### Grand Finals
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_GFHR2.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-absolute-disorder.png)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -338,7 +338,7 @@ Our Grand Finals Hard Rock 2 pick, "[AbsoluTe disoRdeR](https://soundcloud.com/a
 
 ---
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Song_Banners_GFTB.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-chaos-in-conclusion.png)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/S_00DzXfNNI" frameborder="0" allowfullscreen></iframe>
@@ -375,7 +375,7 @@ The final product speaks for itself, so I will let you enjoy it.
     }
 </style>
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_kanten.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-kanten.png)
 
 [kanten_07](https://osu.ppy.sh/users/11680357) has been 2nd place finish of this year's EGTS, also having one of the most surprising bracket runs in the entire tournament, forcing the closest Grand Finals in EGTS history.
 
@@ -418,7 +418,7 @@ The two people that surprised me with their performance were [Grape_Tea](https:/
 
 </div>
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_4sbet1.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-4sbet1.png)
 
 [4sbet1](https://osu.ppy.sh/users/11563671) was one of the head mappoolers for this year's EGTS, having helped tremendously in terms of improving communication with Japanese users as well as having worked upon a huge part of the general mappooling work with [ekumea1123](https://osu.ppy.sh/users/9119501), especially for later stages.
 
@@ -461,7 +461,7 @@ To be honest, ekumea1123 did more work than I did, and I also received a tremend
 
 </div>
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_foodbot.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-foodbot.png)
 
 A brand-new addition from this year's GTS releases, [Foodbot](https://osu.ppy.sh/users/35127759) has been one of the most active composers in EGTS, working on **4** different song projects for this tournament alone, having been a part of the [Finals No Mod 4](https://osu.ppy.sh/beatmapsets/2340046#taiko/5026842) with the Spaceport Sound Team, also having made the [Finals Tiebreaker](https://osu.ppy.sh/beatmapsets/2340085#taiko/5026904), *Justice Rectifier*, with [Type R](https://soundcloud.com/hiimtype_r) and [SDMNE](https://soundcloud.com/sdmne), [deadline chasers, the Grand Finals No Mod 4](https://osu.ppy.sh/beatmapsets/2343520#taiko/5037773) with [Kyotsugyon](https://soundcloud.com/kyotsugyon), as well as having been part of the [Grand Finals Tiebreaker](https://osu.ppy.sh/beatmapsets/2343549#taiko/5037847).
 
@@ -512,7 +512,7 @@ In the end, it almost feels like I'm making a song for a music label, and it's a
 
 </div>
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_zeth.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-zeth.png)
 
 [Z419](https://osu.ppy.sh/users/9912966) (a.k.a. Zeth) has been the main designer for this final edition of EGTS, being in charge of making the most appealing designs possible for everything that was not an original song in this tournament.
 
@@ -548,7 +548,7 @@ Creativity-wise, it was sometimes challenging because having to come up with a n
 
 </div>
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview_hedge.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-hedge.png)
 
 [overdahedge2015](https://osu.ppy.sh/users/9864847) has been a force to be reckoned with in tournament staffing over the years, having been a playtester for numerous taiko tournaments, and EGTS was no stranger to this, as he was the head playtester for this tournament as well.
 
@@ -633,7 +633,7 @@ This final iteration of the Expert Global Taiko Showdown would not have been pos
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/signatures.png)
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/Credits.png)
+![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/credits.png)
 
 Thank you to everyone involved from staff, to players, to spectators. See you in the last few GTS tournaments we have left until August!
 
