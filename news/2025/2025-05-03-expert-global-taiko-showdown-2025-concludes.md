@@ -37,7 +37,7 @@ This is a long article, so feel free to jump around:
 
 Massive applauses to our podium finishers, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) and ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), for creating such an unforgettable final week!
 
-Since the start, we saw every top player from around the world returning, fighting neck and neck with perseverance to get as far as possible. Everyone had predictions on who would come out on top, but certainly no one expected it to come as close as it had been. From a PERFECT, FULL SS of the qualifiers (yes this actually happened), to the close battles in the brackets, all the way until the Grand Finals week, where we witnessed the 11-minute-long tiebreaker being played twice, and a bracket reset!
+Since the start, we saw every top player from around the world returning, fighting neck and neck with perseverance to get as far as possible. Everyone had predictions on who would come out on top, but certainly no one expected it to come as close as it had been. From a PERFECT, FULL SS of the Qualifiers (yes this actually happened), to the close battles in the brackets, all the way until the Grand Finals week, where we witnessed the 11-minute-long tiebreaker being played twice, and a bracket reset!
 
 Read on for a detailed rundown of the Grand Finals and [other highlights from this tournament](#match-highlights) below.
 
@@ -251,7 +251,14 @@ Clicking the song banners will take you to the respective beatmaps. We will be h
     </audio>
 </div>
 
-[blobdash](https://osu.ppy.sh/users/8337877) makes his return to GTS in grand fashion, with "[VOID ELEVATOR](https://soundcloud.com/blobdash/void-elevator)", returning after his three songs provided to [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022), and having become a reliable part of GTS since then, having participated in [RGTS 2022](/wiki/Tournaments/GTS/RGTS_2022) to compose its Grand Finals Tiebreaker, as well as having composed the Main Mappool NM1 for [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023), and having been the BGM artist for the story sections in [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) and [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023), as well as becoming the Mastering Engineer for [BespokE : GTS 2023](https://gratiaproductions.bandcamp.com/album/bespoke-gts-2023). With a track that has waited 2 years to be able to release, he has still managed to make one of the most impressive tracks to start off the first round of EGTS 2025 with, and the map provided by [Gamelan4](https://osu.ppy.sh/users/2140739) and [Shinsekai-](https://osu.ppy.sh/users/2140739) has helped players ease into the high level of gameplay that EGTS is shooting for very well.
+[blobdash](https://osu.ppy.sh/users/8337877) makes his return to GTS in grand fashion, with [VOID ELEVATOR](https://soundcloud.com/blobdash/void-elevator), returning after his three songs provided to [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022). He's become a reliable part of GTS since then with many recurring contributions:
+
+- The Grand Finals tiebreaker for [RGTS 2022](/wiki/Tournaments/GTS/RGTS_2022)
+- The main mappool's NM1 for [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023)
+- BGM for the story sections in [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) and [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023)
+- Mastering Engineer for our [BespokE : GTS 2023](https://gratiaproductions.bandcamp.com/album/bespoke-gts-2023) album.
+
+With a track that has waited 2 years to be able to release, he has still managed to make one of the most impressive tracks to start off the first round of EGTS 2025 with, and the map provided by [Gamelan4](https://osu.ppy.sh/users/2140739) and [Shinsekai-](https://osu.ppy.sh/users/2140739) has helped players ease into the high level of gameplay that EGTS is shooting for very well.
 
 ### Round of 32
 
@@ -263,7 +270,9 @@ Clicking the song banners will take you to the respective beatmaps. We will be h
     </audio>
 </div>
 
-We then moved on to quite a different style for this tiebreaker, being a more rock/speedcore-focused song, rhythms changing all over the board, and one professional grade type of song, despite the composer, [trailmix37](https://soundcloud.com/trailmix38), being completely unknown to begin with, having 52 subscribers on SoundCloud, not a single osu! map submitted for any of his 4 past songs, but if you were to play this without knowing any of this context? You would not notice it whatsoever. Mappers [davidminh0111](https://osu.ppy.sh/users/2140739) and [SolaEclipse](https://osu.ppy.sh/users/2140739) did not hold back whatsoever after hearing this song, with some of these sections able to trip you up, no matter the mod that was chosen, and you can see this even in the matches that attempted this map.
+We then moved on to quite a different style for this tiebreaker, being a more rock/speedcore-focused song, rhythms changing all over the board. This was a song of professional grade, despite the composer, [trailmix37](https://soundcloud.com/trailmix38), being completely unknown with just 52 subscribers on SoundCloud and not a single osu! map submitted for any of his 4 past songs. That said, if you were to play this without knowing any of this context? You would not notice it whatsoever.
+
+Mappers [davidminh0111](https://osu.ppy.sh/users/2140739) and [SolaEclipse](https://osu.ppy.sh/users/2140739) did not hold back after hearing this song, with some of these sections vying to trip you up no matter which mod you choose, and you can see this even in the matches where players attempted this map.
 
 ### Round of 16
 
@@ -275,7 +284,11 @@ We then moved on to quite a different style for this tiebreaker, being a more ro
     </audio>
 </div>
 
-Oh, did I say the past song changed styles? Okay, maybe this one does too. To quite an absurd amount. A massive departure from the melancholic hype that the two songs before possessed, and this one is just shooting to be a massive bomb, being a 5 minutes Frenchcore track by [Mothtek](https://soundcloud.com/mothtek), one of the more prolific artists in the Japanese Hardtek scene, and with the song being named "[The Great Revelation By Mother Brain](https://soundcloud.com/mothtek/mothtek-the-great-revelation-by-mother-brainegts2025-round-of-16-tiebreaker)", and at some point, you start to ask yourself, when does it stop? The answer is never. Mappers [Ideal](https://osu.ppy.sh/users/3869519) and [Raphalge](https://osu.ppy.sh/users/3918650) tried to reel this insane song in a bit, by making it a bit easier in terms of pure mechanics compared to the Round of 32, as it instead aims to be played with mods by the players left, but even then, it is a struggle for sure.
+This one is just shooting to be a massive bomb. Welcome to 5 minutes of Frenchcore by [Mothtek](https://soundcloud.com/mothtek).
+
+A massive departure from the melancholic hype that the two prior songs possessed. A song by one of the more prolific artists in the Japanese hardtek scene. A song named "[The Great Revelation By Mother Brain](https://soundcloud.com/mothtek/mothtek-the-great-revelation-by-mother-brainegts2025-round-of-16-tiebreaker)". When does it stop? The answer is never (figuratively).
+
+Mappers [Ideal](https://osu.ppy.sh/users/3869519) and [Raphalge](https://osu.ppy.sh/users/3918650) tried to reel this insane song in a bit by toning down the mechanical difficulty compared to the Round of 32, as it instead aims to be played with mods by the players left, but even then, it is a struggle for sure.
 
 ### Quarterfinals
 
@@ -289,7 +302,9 @@ Oh, did I say the past song changed styles? Okay, maybe this one does too. To qu
 
 [Atomic Disassembler.](https://soundcloud.com/yusuke-7328/atomic-disassembler)
 
-This title summarizes the goal behind this song pretty well. The tiebreaker for this year's Quarterfinals by [CS4W](https://soundcloud.com/yusuke-7328) has arrived, being a Gothic Hardcore song, mixed with Hi-tech and Drum & Bass elements, for one of the most insane mixes of genres I've ever seen, and the map by [My Angel Seia](https://osu.ppy.sh/users/17797595) has absolutely nothing angelic about it. The easy parts are when 220BPM streams are mapped at the normal SV, but whenever you see a single SV slowdown in this map, the only answer is to run, frankly.
+This title summarises the goal behind this song pretty well. The tiebreaker for this year's Quarterfinals by [CS4W](https://soundcloud.com/yusuke-7328) is a Gothic Hardcore song mixed with Hi-tech and Drum & Bass elements, an insane mixes of genres to be sure.
+
+The map by [My Angel Seia](https://osu.ppy.sh/users/17797595) has absolutely nothing angelic about it. The easy parts are when 220 BPM streams are mapped at the normal SV, but whenever you see a single SV slowdown in this map, the only answer is to run, frankly.
 
 ### Semifinals
 
@@ -301,7 +316,9 @@ This title summarizes the goal behind this song pretty well. The tiebreaker for 
     </audio>
 </div>
 
-Where do we even start with this song. With a song mainly based on Oriental vibes, [Xyris](https://soundcloud.com/itsxyris), being no stranger to the osu! tournament scene, having provided songs to the [osu!mania 7K World Cup 2025](/wiki/Tournaments/MWC/2025_7K), and [Resurrection Cup](/wiki/Tournaments/RESC/2024), where he has also notably been in charge of Quality Assurance for Song Production, he definitely understood the assignemnt here as well, and throws out crazy mixes of Speedcore and Dubstep, to make for some of the most challenging bursts, and mappers [Briesmas](https://osu.ppy.sh/users/2865172) and [MTNTWarz](https://osu.ppy.sh/users/2865172), heavily accompanied by head mappoolers [4sbet1](https://osu.ppy.sh/users/11563671) and [Raphalge](https://osu.ppy.sh/users/3918650) have created one of the most daunting maps in this tournament for sure, and this map shows it as well, by being the second-highest tiebreaker by SR, being higher than the Finals Tiebreaker.
+[Xyris](https://soundcloud.com/itsxyris), being no stranger to the osu! tournament scene, definitely understood the assignemnt here as well. He throws out crazy mixes of Speedcore and Dubstep to make for some of the most challenging bursts.
+
+In conjunction, mappers [Briesmas](https://osu.ppy.sh/users/2865172) and [MTNTWarz](https://osu.ppy.sh/users/2865172), heavily accompanied by head mappoolers [4sbet1](https://osu.ppy.sh/users/11563671) and [Raphalge](https://osu.ppy.sh/users/3918650), have created one of the most daunting maps in this tournament for sure, having the second-highest star rating among this tournament's tiebreakers.
 
 ### Finals
 
@@ -313,7 +330,11 @@ Where do we even start with this song. With a song mainly based on Oriental vibe
     </audio>
 </div>
 
-And now that we're on it, let's talk about this Finals Tiebreaker, "[Justice Rectifier](https://soundcloud.com/foodbot/justice-rectifier)" by [Foodbot](https://soundcloud.com/foodbot), [Type R](https://soundcloud.com/hiimtype_r) and [SDMNE](https://soundcloud.com/sdmne), with two brand-new artists to GTS this year, as well as SDMNE, coming back from his regular GTS appearances in EGTS 2021 and 2022, as well as MGTS and COEGTS 2023. This whole song was quite the challenge to even finalize for everyone involved, with this being born out of another song being cancelled last minute, hence being made from December 2nd 2024, and composition being officially finalized on March 9th 2025, exactly 7 days before release. However, nothing here shows any corners being cut, with one of the most melodic songs in our late stage, and being an incredible mix of genres, between Hardcore Techno, Gabber, as well as Hi-Tech. And with the map made by one of the best mappers trio possible with [tasuke912](https://osu.ppy.sh/users/2774767), [uone](https://osu.ppy.sh/users/532171910), and [kei821](https://osu.ppy.sh/users/5846289), it did not disappoint, despite having been forced to be made in three total days, making up for an amazing experience overall, to prepare for the Grand Finals Tiebreaker.
+[Foodbot](https://soundcloud.com/foodbot) and [Type R](https://soundcloud.com/hiimtype_r), two brand-new artists to GTS this year, joined the GTS regular [SDMNE](https://soundcloud.com/sdmne) to create [Justice Rectifier](https://soundcloud.com/foodbot/justice-rectifier).
+
+This whole song was quite the challenge to even finalise for everyone involved, being born out of another song that was cancelled last-minute, hence the production period of 2 December 2024 to 9 March 2025, finishing exactly 7 days before release. However, nothing here shows any corners being cut. This is one of the most melodic songs in our late stage, mixing hardcore techno, gabber, as well as hi-tech.
+
+With a map by [tasuke912](https://osu.ppy.sh/users/2774767), [uone](https://osu.ppy.sh/users/532171910), and [kei821](https://osu.ppy.sh/users/5846289), who were forced to complete it in a total of three days, it did not disappoint and made for an amazing experience overall.
 
 ### Grand Finals
 
@@ -326,21 +347,26 @@ And now that we're on it, let's talk about this Finals Tiebreaker, "[Justice Rec
 </div>
 
 This is the only non-tiebreaker song to be discussed here, but with good reason to do so.
-Our Grand Finals Hard Rock 2 pick, "[AbsoluTe disoRdeR](https://soundcloud.com/abs_dsr/absolute-disorder)" by [Acute Disarray](https://soundcloud.com/abs_dsr) (Now revealed to be an unit of [AiSS](https://www.youtube.com/channel/UCySx3jmK0bjwiwix_EoKm4w) participating for Orzmic, [rN](https://soundcloud.com/rurinn) participating for Phigros, [takehirotei](https://soundcloud.com/takehirotei) participating for GTS, [Riya](https://soundcloud.com/riyaelectronic) participating for A Dance of Fire and Ice), was an original song released for EGTS 2025, but also as a 4-way collaboration, with three of the rhythm games we collaborated with throughout EGTS, being [Phigros](https://x.com/Phigros_PGS), [Orzmic](https://x.com/orzmic) and [A Dance of Fire and Ice](https://7thbe.at/), with the song releasing on all of the following games as well. The sheer scale this collaboration is on is definitely absurd, and the map made by [Hivie](https://osu.ppy.sh/users/14102976) for it definitely follows it, on top of that song being a very defining pick for both Grand Finals matches this week. Due to the special aspect of it, it's a song that is not planned to be allowed to be mapped freely, but a full spread on all gamemodes is planned to be made for this song. Do give it time.
+
+Our Grand Finals HR2 pick, [Acute Disarray - AbsoluTe disoRdeR](https://soundcloud.com/abs_dsr/absolute-disorder), was an original song released for EGTS 2025, but also a 4-way collaboration with three of the rhythm games we've worked with throughout EGTS.
+
+[Acute Disarray](https://soundcloud.com/abs_dsr), a unit of [AiSS](https://www.youtube.com/channel/UCySx3jmK0bjwiwix_EoKm4w) participating for [Orzmic](https://twitter.com/orzmic), [rN](https://soundcloud.com/rurinn) participating for [Phigros](https://twitter.com/Phigros_PGS), [takehirotei](https://soundcloud.com/takehirotei) participating for GTS and [Riya](https://soundcloud.com/riyaelectronic) participating for [A Dance of Fire and Ice](https://7thbe.at/), released the song on each respective game.
+
+The sheer scale this collaboration is on is definitely absurd, and the map made by [Hivie](https://osu.ppy.sh/users/14102976) for it definitely follows it through, ending up as a defining pick for both Grand Finals matches.
+
+Due to the special collaboration aspect of the song, we ask others not to map it, but to instead wait for a full spread on all game modes that we have planned. Do give it time.
 
 ---
-
-[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-chaos-in-conclusion.png)](https://osu.ppy.sh/beatmapsets/2343549)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/S_00DzXfNNI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And the final song of EGTS 2025, that truly speaks for itself, being our Grand Finals Tiebreaker: [《wr/d.:colliders》~Chaos in Conclusion~](https://soundcloud.com/blobdash/wrld-colliders) by the GTS Sound Team.
-A completely absurd collaboration on all levels, involving **20** composers, **35** mappers, and **15** designers, on an 11-minutes long brutal song, with a full music video on top of it.
-The final product speaks for itself, so I will let you enjoy it.
+The final song of EGTS 2025, the Grand Finals tiebreaker, truly speaks for itself: [《wr/d.:colliders》\~Chaos in Conclusion\~](https://soundcloud.com/blobdash/wrld-colliders) by the GTS Sound Team.
 
----
+This song involved **20** composers, **35** mappers, and **15** designers to create **11 minutes** of song, beatmap *and* a full **music video** top top it off.
+
+You'll find the [map here](https://osu.ppy.sh/beatmapsets/2343549) if you dare challenge it, but you can also enjoy the full experience in the video above.
 
 ## Interviews
 
@@ -371,7 +397,7 @@ The final product speaks for itself, so I will let you enjoy it.
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-kanten.png)
 
-[kanten_07](https://osu.ppy.sh/users/11680357) has been 2nd place finish of this year's EGTS, also having one of the most surprising bracket runs in the entire tournament, forcing the closest Grand Finals in EGTS history.
+[kanten_07](https://osu.ppy.sh/users/11680357) finished at 2nd place for this year's EGTS with one of the most surprising bracket runs in the entire tournament, forcing the closest Grand Finals in EGTS history.
 
 <div class="news-chat-quote__text-container">
 
@@ -386,8 +412,8 @@ You've had the most impressive run in this year's EGTS, with a lot of upsets to 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11680357">kanten_07</a></p>
 
 Thank you! Personally, I was more surprised than happy when I won Quarterfinals against Peaceful and the first round of Grand Finals against Grape_Tea. To be honest, it didn't really set in that I had won.
-Shortly after, the realization set in that I had actually won, and I was very happy.
-I hung out with other players after winning and reflected on the positives and negatives of the game.
+
+Shortly after, the realisation set in that I had actually won, and I was very happy. I hung out with other players after winning and reflected on the positives and negatives of the game.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6177263" style="background-image: url('/wiki/shared/avatars/Kasumi-sama.jpg')"></a>
 
@@ -399,16 +425,16 @@ Are there any other players in the tournament that surprised you with their perf
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11680357">kanten_07</a></p>
 
-In the tournament, we essentially had the same practice schedule every week; on Monday and Tuesday, we would figure out the map trends, the order of picks and bans for most of them, and which maps would increase our chances of winning.
+In the tournament, we essentially had the same practice schedule every week: on Monday and Tuesday, we would figure out the map trends, the order of picks and bans for most of them, and which maps would increase our chances of winning.
 
 By Wednesday, we had made enough notes of most of the maps, and on Thursday, we fixed finger placements and color pattern recognition in order to make those notes consistent with a real performance.
 
 From Friday until just before the matches, we didn't practice all that much, but played the maps as if we were playing a real match, checked if there were any weak parts or habits to note, and if there were, we simply tried to correct them.
 
-The two people that surprised me with their performance were [Grape_Tea](https://osu.ppy.sh/users/9540073) and [chibamasu](https://osu.ppy.sh/users/16067522);
+The two people that surprised me with their performance were [Grape_Tea](https://osu.ppy.sh/users/9540073) and [chibamasu](https://osu.ppy.sh/users/16067522):
 
 - [Grape_Tea](https://osu.ppy.sh/users/9540073) really surprised me by SSing every map in the Qualifiers, and with their overwhelming consistency in the map pools every week.
-- I played against [chibamasu](https://osu.ppy.sh/users/16067522) in Round of 32, and I was impressed when they FC'd every FM map with HDHR and when they SS'd the NM5 map. Their HD skill and overall consistency really surprised me. Their HD2 play at the All-Star Showcase was impressive as well.
+- I played against [chibamasu](https://osu.ppy.sh/users/16067522) in the Round of 32, and I was impressed when they FC'd every FM map with HDHR and when they SS'd the NM5 map. Their HD skill and overall consistency really surprised me. Their HD2 play at the All-Star Showcase was impressive as well.
 
 </div>
 
@@ -416,7 +442,7 @@ The two people that surprised me with their performance were [Grape_Tea](https:/
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-4sbet1.png)
 
-[4sbet1](https://osu.ppy.sh/users/11563671) was one of the head mappoolers for this year's EGTS, having helped tremendously in terms of improving communication with Japanese users as well as having worked upon a huge part of the general mappooling work with [ekumea1123](https://osu.ppy.sh/users/9119501), especially for later stages.
+[4sbet1](https://osu.ppy.sh/users/11563671) was one of the head mappoolers for this year's EGTS, having helped tremendously in terms of improving communication with Japanese users, as well as having worked on a huge part of the general mappooling with [ekumea1123](https://osu.ppy.sh/users/9119501), especially for later stages.
 
 <div class="news-chat-quote__text-container">
 
@@ -431,17 +457,18 @@ Despite being a top player for years, this mappooling experience has been your f
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11563671">4sbet1</a></p>
 
 To be honest, I thought it was a really interesting challenge!
-At the same time, I felt a lot of pressure—considering the obligation to keep so many amazing custom / collab songs confidential until the end, and the responsibility to provide maps that live up to their difficulty and quality...
 
-Also, in order to use each custom / collab song in the most optimal way, it was necessary to analyze the elements of each song and each slot in every round and assign them appropriately. The process of trial and error, rearranging the slots to find the right balance, felt like solving a puzzle—it was genuinely fun.
+At the same time, I felt a lot of pressure — considering the obligation to keep so many amazing custom/collab songs confidential until the end, and the responsibility to provide maps that live up to their difficulty and quality...
 
-(By the way, I’m not a top player… I was already an old man two years ago!)
+Also, in order to use each custom/collab song in the most optimal way, it was necessary to analyze the elements of each song and each slot in every round and assign them appropriately. The process of trial and error, rearranging the slots to find the right balance, felt like solving a puzzle — it was genuinely fun.
+
+(By the way, I'm not a top player... I was already an old man two years ago!)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6177263" style="background-image: url('/wiki/shared/avatars/Kasumi-sama.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6177263">Kasumi-sama</a></p>
 
-This edition of EGTS has been the first one to involve so many Japanese users in the mapping and playtesting team, thanks to your efforts and ekumea1123's effort. How was the ambience like in such a staffing team, that had two very different languages being spoken, as well as vastly different cultures over the game.
+This edition of EGTS has been the first one to involve so many Japanese users in the mapping and playtesting team, thanks to your and ekumea1123's effort. How was the ambience like in such a staffing team, that had two very different languages being spoken, as well as vastly different cultures over the game?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11563671" style="background-image: url('/wiki/shared/avatars/4sbet1.jpg')"></a>
 
@@ -450,10 +477,10 @@ This edition of EGTS has been the first one to involve so many Japanese users in
 When I first became a Head Pooler, I never expected that people from around the world and the Japanese community would come to build such a warm and close relationship.
 
 For Japanese Taiko players, who are usually part of a relatively closed-off community, EGTS2025 has undoubtedly been a powerful and positive influence!
-This outcome was made possible thanks to the GTS community members, who opened their hearts and reached out to us!
-We Japanese need to learn from this kind of open-mindedness as well.
 
-To be honest, ekumea1123 did more work than I did, and I also received a tremendous amount of help from Briesmas, goheegy, and Raphalge. Please don’t forget about them either.
+This outcome was made possible thanks to the GTS community members, who opened their hearts and reached out to us! We Japanese need to learn from this kind of open-mindedness as well.
+
+To be honest, ekumea1123 did more work than I did, and I also received a tremendous amount of help from [Briesmas](https://osu.ppy.sh/users/2865172), [goheegy](https://osu.ppy.sh/users/8057655), and [Raphalge](https://osu.ppy.sh/users/3918650). Please don't forget about them either.
 
 </div>
 
@@ -461,7 +488,7 @@ To be honest, ekumea1123 did more work than I did, and I also received a tremend
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-foodbot.png)
 
-A brand-new addition from this year's GTS releases, [Foodbot](https://osu.ppy.sh/users/35127759) has been one of the most active composers in EGTS, working on **4** different song projects for this tournament alone, having been a part of the [Finals No Mod 4](https://osu.ppy.sh/beatmapsets/2340046#taiko/5026842) with the Spaceport Sound Team, also having made the [Finals Tiebreaker](https://osu.ppy.sh/beatmapsets/2340085#taiko/5026904), *Justice Rectifier*, with [Type R](https://soundcloud.com/hiimtype_r) and [SDMNE](https://soundcloud.com/sdmne), [deadline chasers, the Grand Finals No Mod 4](https://osu.ppy.sh/beatmapsets/2343520#taiko/5037773) with [Kyotsugyon](https://soundcloud.com/kyotsugyon), as well as having been part of the [Grand Finals Tiebreaker](https://osu.ppy.sh/beatmapsets/2343549#taiko/5037847).
+A brand-new addition from this year's GTS releases, [Foodbot](https://osu.ppy.sh/users/35127759) has been one of the most active composers in EGTS, working on **4** different song projects for this tournament alone. They took part in creating the [Finals NM4](https://osu.ppy.sh/beatmapsets/2340046#taiko/5026842) with the Spaceport Sound Team; the [Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2340085#taiko/5026904), *Justice Rectifier*, with [Type R](https://soundcloud.com/hiimtype_r) and [SDMNE](https://soundcloud.com/sdmne); [the Grand Finals No Mod 4](https://osu.ppy.sh/beatmapsets/2343520#taiko/5037773), *deadline chasers*, with [Kyotsugyon](https://soundcloud.com/kyotsugyon); and last but not least the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2343549#taiko/5037847) megacollab.
 
 <div class="news-chat-quote__text-container">
 
@@ -469,7 +496,7 @@ A brand-new addition from this year's GTS releases, [Foodbot](https://osu.ppy.sh
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6177263">Kasumi-sama</a></p>
 
-You were one of the composers that participated in the most original songs released in EGTS, having been involved in 4 of them. With all of these having been collaborations, how did it feel having to tackle all of these vastly different organisations, and what have you felt was the biggest challenge while working on this tournament?
+You were one of the composers that participated in the most original song released in EGTS, having been involved in 4 of them. With all of these having been collaborations, how did it feel having to tackle all of these vastly different organisations, and what have you felt was the biggest challenge while working on this tournament?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/35127759" style="background-image: url('/wiki/shared/avatars/Foodbot.jpg')"></a>
 
@@ -487,7 +514,7 @@ So, um. there you go. LOL. Speed.
 I didn't even know of the name 'splittercore' before EGTS 2025, i just thought of super-fast speedcore overlayed with dubstep drums to make it hit harder than it normally would.
 Some people also say I'm "on crack". I promise you that's not the case.
 
-Justice Rectifier is another layer of hell. I've never made any tiebreaker songs before, and looking back, I somewhat wish I didn't make it as slow as 170BPM as a starting point. But it definitely gives it its own vibe for a tiebreaker.
+Justice Rectifier is another layer of hell. I've never made any tiebreaker songs before, and looking back, I somewhat wish I didn't make it as slow as 170 BPM as a starting point. But it definitely gives it its own vibe for a tiebreaker.
 When asked by the hosts to transition to a 200+ BPM section, I was hesitant on what to make. They shared some references that would fit the theme, and what I think what I ended up making was super unique. Although some people mistook it for Type R's part, I can't blame them. I would've thought the same.
 
 I'm planning to detail more of the music-making process for Justice Rectifier on youtube at some point. Hopefully by the time this newspost is published I would be able to finish it in time.
@@ -496,7 +523,7 @@ I'm planning to detail more of the music-making process for Justice Rectifier on
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6177263">Kasumi-sama</a></p>
 
-You were already involved in osu! in the past, having provided songs to VNMC2024, as well as the osu! Collegiate League. While having worked for two different gamemodes already, was working on a song for an osu!taiko tournament any different, and what were the things you were mainly paying attention to while composing, compared to usual?
+You were already involved in osu! in the past, having provided songs to VNMC2024, as well as the osu! Collegiate League. While having worked for two different game modes already, was working on a song for an osu!taiko tournament any different, and what were the things you were mainly paying attention to while composing, compared to usual?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/35127759" style="background-image: url('/wiki/shared/avatars/Foodbot.jpg')"></a>
 
@@ -514,7 +541,7 @@ In the end, it almost feels like I'm making a song for a music label, and it's a
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-zeth.png)
 
-[Z419](https://osu.ppy.sh/users/9912966) (a.k.a. Zeth) has been the main designer for this final edition of EGTS, being in charge of making the most appealing designs possible for everything that was not an original song in this tournament.
+[Z419](https://osu.ppy.sh/users/9912966) (a.k.a. Zeth) has been the main designer for this final edition of EGTS, being in charge of making the most appealing designs possible for everything that was not an original song.
 
 <div class="news-chat-quote__text-container">
 
@@ -542,9 +569,9 @@ How was the working environment like in the tournament, especially in the design
 
 Most of the originals are done with lots of coordination between the staff and the various Illustrators/Designers/VFX artists so it is pretty well managed and organised, though the deadline chasing was definitely something that May Have Taken A Toll on some of us so it is stressful to say the least LOL.
 
-About the designers' channel... yeah. The world probably needs to see the design channel and all the dumb things that happened on there (which by the way is renamed to #anything-but-design so feel free to make of that what you will), but having a group of designers that so frequently banter and talk about dumb things in the channel during the making of EGTS helped a lot in managing the stress and many of us have bonded because of this and have had even more chances to work together outside of the tournament since then.
+About the designers' channel... yeah. The world probably needs to see the design channel and all the dumb things that happened on there (which by the way is renamed to `#anything-but-design` so feel free to make of that what you will), but having a group of designers that so frequently banter and talk about dumb things in the channel during the making of EGTS helped a lot in managing the stress and many of us have bonded because of this and have had even more chances to work together outside of the tournament since then.
 
-Creativity-wise, it was sometimes challenging because having to come up with a new design (especially when some of us are taking more songs than others) for each song while trying to make it unique amongst each other is a difficult thing to do, but the designers usually will share a lot of inspirations from other people's art and design which helped making it easier for me to find a starting point when starting to work on it. The collaborations between the designers and/or illustrators also have gave birth to many creative new art from the combination between 2 (sometimes very distinctly different) styles of work, which is very refreshing to do.
+Creativity-wise, it was sometimes challenging because having to come up with a new design (especially when some of us are taking more songs than others) for each song while trying to make it unique amongst each other is a difficult thing to do, but the designers usually will share a lot of inspirations from other people's art and design which helped making it easier for me to find a starting point when starting to work on it. The collaborations between the designers and/or illustrators also have given birth to many creative new art from the combination between 2 (sometimes very distinctly different) styles of work, which is very refreshing to do.
 
 </div>
 
@@ -552,7 +579,7 @@ Creativity-wise, it was sometimes challenging because having to come up with a n
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-hedge.png)
 
-[overdahedge2015](https://osu.ppy.sh/users/9864847) has been a force to be reckoned with in tournament staffing over the years, having been a playtester for numerous taiko tournaments, and EGTS was no stranger to this, as he was the head playtester for this tournament as well.
+[overdahedge2015](https://osu.ppy.sh/users/9864847) has been a force to be reckoned with in tournament staffing over the years, taking on playtesting for numerous osu!taiko tournaments. EGTS was no stranger to this, as he was the head playtester for this tournament as well.
 
 <div class="news-chat-quote__text-container">
 
@@ -588,9 +615,11 @@ As a staff member, I want to say there's a reasonable future where all mappools 
 
 As someone that's pooling for RGTS right now, it's unreal and honestly, a bit demotivating, the amount of times I have thought "oh this map would be great", then looked in the source field and saw that the song's from another rhythm game, but we're still making it work, with the help of a good but not EGTS-level amount of custom mappers.
 
-As a player, I think current pool structure is honestly great! I think being too picky makes pooling hellish, and as long as polyrhythm HR1s stay away from me it's all okay in my book.
+As a player, I think the current pool structure is honestly great! I think being too picky makes pooling hellish, and as long as polyrhythm HR1s stay away from me it's all okay in my book.
 
 </div>
+
+---
 
 As a final way to wrap up this whole article, we thought there would be only one way to ask our staff members to finish the very last EGTS edition, so here it is:
 
@@ -637,6 +666,6 @@ This final iteration of the Expert Global Taiko Showdown would not have been pos
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/credits.png)
 
-Thank you to everyone involved from staff, to players, to spectators. See you in the last few GTS tournaments we have left until August!
+Thank you to everyone involved from staff to players and spectators. See you in the last few GTS tournaments we have left until August!
 
 —Kasumi-sama, Joogs, --Glitchy--
