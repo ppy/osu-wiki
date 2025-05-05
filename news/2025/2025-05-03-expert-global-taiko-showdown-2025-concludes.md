@@ -243,7 +243,7 @@ Clicking the song banners will take you to the respective beatmaps. We will be h
 
 ### Round of 64
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-void-elevator.png)
+[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-void-elevator.png)](https://osu.ppy.sh/beatmapsets/2321390)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -255,7 +255,7 @@ Clicking the song banners will take you to the respective beatmaps. We will be h
 
 ### Round of 32
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-conviction.png)
+[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-conviction.png)](https://osu.ppy.sh/beatmapsets/2325087)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -267,7 +267,7 @@ We then moved on to quite a different style for this tiebreaker, being a more ro
 
 ### Round of 16
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-the-great-revelation-by-mother-brain.png)
+[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-the-great-revelation-by-mother-brain.png)](https://osu.ppy.sh/beatmapsets/2329073)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -279,7 +279,7 @@ Oh, did I say the past song changed styles? Okay, maybe this one does too. To qu
 
 ### Quarterfinals
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-atomic-disassembler.png)
+[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-atomic-disassembler.png)](https://osu.ppy.sh/beatmapsets/2332724)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -293,7 +293,7 @@ This title summarizes the goal behind this song pretty well. The tiebreaker for 
 
 ### Semifinals
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-white-tiger.png)
+[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-white-tiger.png)](https://osu.ppy.sh/beatmapsets/2336579#taiko/5016172)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -305,7 +305,7 @@ Where do we even start with this song. With a song mainly based on Oriental vibe
 
 ### Finals
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-justice-rectifier.png)
+[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-justice-rectifier.png)](https://osu.ppy.sh/beatmapsets/2340085)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -317,7 +317,7 @@ And now that we're on it, let's talk about this Finals Tiebreaker, "[Justice Rec
 
 ### Grand Finals
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-absolute-disorder.png)
+[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-absolute-disorder.png)](https://osu.ppy.sh/beatmapsets/2343534)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -330,7 +330,7 @@ Our Grand Finals Hard Rock 2 pick, "[AbsoluTe disoRdeR](https://soundcloud.com/a
 
 ---
 
-![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-chaos-in-conclusion.png)
+[![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/banner-chaos-in-conclusion.png)](https://osu.ppy.sh/beatmapsets/2343549)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/S_00DzXfNNI" frameborder="0" allowfullscreen></iframe>
