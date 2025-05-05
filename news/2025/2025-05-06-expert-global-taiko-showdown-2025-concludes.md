@@ -67,7 +67,7 @@ Both players were given a desperately needed 10-minute break, as the bracket was
 
 The new match started yet again with a show of force in their own picks, yet the advantages didn't make for easy wins. Neither player willing to give up, both continued to flaunt their ambitions at the champion title.
 
-For example, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found a 1.042 *million* HD score on FM3 to win the point, yet it would be impossible to overstate ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s FC with **HR** on his opponents reading- and accuracy-heavy pick.
+For example, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found a 1.042 *million* HD score on FM3 to win the point, yet it would be impossible to overstate ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s FC with **HR** on his opponents reading and accuracy-heavy pick.
 
 Both continued to not give away any of their own picks, but it was apparent that something had changed in ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073)'s mind. A 2x100 HD FC on FM1, a *halving* of his previous 100 miss count on DT2 (albeit still losing the pick), and his **near SS** on HD2 showed the audience just what kind of determination he had brought to the match that he wasn't willing to give up on.
 
@@ -284,7 +284,7 @@ Mappers [davidminh0111](https://osu.ppy.sh/users/2140739) and [SolaEclipse](http
     </audio>
 </div>
 
-This one is just shooting to be a massive bomb. Welcome to 5 minutes of Frenchcore by [Mothtek](https://soundcloud.com/mothtek).
+This one is just shooting to be a massive bomb. Welcome to 5 minutes of frenchcore by [Mothtek](https://soundcloud.com/mothtek).
 
 A massive departure from the melancholic hype that the two prior songs possessed. A song by one of the more prolific artists in the Japanese hardtek scene. A song named "[The Great Revelation By Mother Brain](https://soundcloud.com/mothtek/mothtek-the-great-revelation-by-mother-brainegts2025-round-of-16-tiebreaker)". When does it stop? The answer is never (figuratively).
 
@@ -302,7 +302,7 @@ Mappers [Ideal](https://osu.ppy.sh/users/3869519) and [Raphalge](https://osu.ppy
 
 [Atomic Disassembler.](https://soundcloud.com/yusuke-7328/atomic-disassembler)
 
-This title summarises the goal behind this song pretty well. The tiebreaker for this year's Quarterfinals by [CS4W](https://soundcloud.com/yusuke-7328) is a Gothic Hardcore song mixed with Hi-tech and Drum & Bass elements, an insane mixes of genres to be sure.
+This title summarises the goal behind this song pretty well. The tiebreaker for this year's Quarterfinals by [CS4W](https://soundcloud.com/yusuke-7328) is a Gothic Hardcore song mixed with Hi-tech and Drum & Bass elements, an insane mix of genres to be sure.
 
 The map by [My Angel Seia](https://osu.ppy.sh/users/17797595) has absolutely nothing angelic about it. The easy parts are when 220 BPM streams are mapped at the normal SV, but whenever you see a single SV slowdown in this map, the only answer is to run, frankly.
 
@@ -316,7 +316,7 @@ The map by [My Angel Seia](https://osu.ppy.sh/users/17797595) has absolutely not
     </audio>
 </div>
 
-[Xyris](https://soundcloud.com/itsxyris), being no stranger to the osu! tournament scene, definitely understood the assignemnt here as well. He throws out crazy mixes of Speedcore and Dubstep to make for some of the most challenging bursts.
+[Xyris](https://soundcloud.com/itsxyris), being no stranger to the osu! tournament scene, definitely understood the assignment here as well. He throws out crazy mixes of speedcore and dubstep to make for some of the most challenging bursts.
 
 In conjunction, mappers [Briesmas](https://osu.ppy.sh/users/2865172) and [MTNTWarz](https://osu.ppy.sh/users/2865172), heavily accompanied by head mappoolers [4sbet1](https://osu.ppy.sh/users/11563671) and [Raphalge](https://osu.ppy.sh/users/3918650), have created one of the most daunting maps in this tournament for sure, having the second-highest star rating among this tournament's tiebreakers.
 
@@ -352,7 +352,7 @@ Our Grand Finals HR2 pick, [Acute Disarray - AbsoluTe disoRdeR](https://soundclo
 
 [Acute Disarray](https://soundcloud.com/abs_dsr), a unit of [AiSS](https://www.youtube.com/channel/UCySx3jmK0bjwiwix_EoKm4w) participating for [Orzmic](https://twitter.com/orzmic), [rN](https://soundcloud.com/rurinn) participating for [Phigros](https://twitter.com/Phigros_PGS), [takehirotei](https://soundcloud.com/takehirotei) participating for GTS and [Riya](https://soundcloud.com/riyaelectronic) participating for [A Dance of Fire and Ice](https://7thbe.at/), released the song on each respective game.
 
-The sheer scale this collaboration is on is definitely absurd, and the map made by [Hivie](https://osu.ppy.sh/users/14102976) for it definitely follows it through, ending up as a defining pick for both Grand Finals matches.
+The sheer scale of this collaboration is definitely absurd, and the map made by [Hivie](https://osu.ppy.sh/users/14102976) for it definitely follows it through, ending up as a defining pick for both Grand Finals matches.
 
 Due to the special collaboration aspect of the song, we ask others not to map it, but to instead wait for a full spread on all game modes that we have planned. Do give it time.
 
