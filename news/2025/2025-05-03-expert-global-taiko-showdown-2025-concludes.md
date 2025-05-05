@@ -10,6 +10,27 @@ After two months of some of the highest levels of tournament matches osu!taiko h
 
 Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked tournaments this game has ever seen. With 157 players, 157 staff members and a whopping **37** original songs made by **49** individual composers, this year's tournament is without a doubt the best one ever since the creation of the GTS series, breaking every precedent and boundary that has ever existed in order to live up to the moniker of "Arena of the Gods".
 
+## Navigation
+
+This is a long article, so feel free to jump around:
+
+- [Summary](#summary)
+- [Grand Finals recap](#grand-finals-recap)
+- [Match highlights](#match-highlights)
+  - [Round of 64: applerss vs. Teruyama](#round-of-64:-applerss-vs.-teruyama)
+  - [Round of 32: hz404 vs. Shamirin_mzk](#round-of-32:-hz404-vs.-shamirin_mzk)
+  - [Round of 16: supesan vs. mBiscuit](#round-of-16:-supesan-vs.-mbiscuit)
+  - [Quarterfinals: Peaceful vs. kanten_07](#quarterfinals:-peaceful-vs.-kanten_07)
+  - [Semifinals: Peaceful vs. _Kan2](#semifinals:-peaceful-vs.-_kan2)
+  - [Grand Finals: Maimaing vs. kanten_07](#grand-finals:-maimaing-vs.-kanten_07)
+- [Original songs](#original-songs)
+- [Interviews](#interviews)
+  - [kanten_07](#kanten_07)
+  - [4sbet1](#4sbet1)
+  - [foodbot](#foodbot)
+  - [zeth](#zeth)
+  - [overdahedge2015](#overdahedge2015)
+
 ## Summary
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/podium.png)
@@ -342,6 +363,8 @@ The final product speaks for itself, so I will let you enjoy it.
     }
 </style>
 
+::{#kanten_07}::
+
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-kanten.png)
 
 [kanten_07](https://osu.ppy.sh/users/11680357) has been 2nd place finish of this year's EGTS, also having one of the most surprising bracket runs in the entire tournament, forcing the closest Grand Finals in EGTS history.
@@ -385,6 +408,8 @@ The two people that surprised me with their performance were [Grape_Tea](https:/
 
 </div>
 
+::{#4sbet1}::
+
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-4sbet1.png)
 
 [4sbet1](https://osu.ppy.sh/users/11563671) was one of the head mappoolers for this year's EGTS, having helped tremendously in terms of improving communication with Japanese users as well as having worked upon a huge part of the general mappooling work with [ekumea1123](https://osu.ppy.sh/users/9119501), especially for later stages.
@@ -427,6 +452,8 @@ We Japanese need to learn from this kind of open-mindedness as well.
 To be honest, ekumea1123 did more work than I did, and I also received a tremendous amount of help from Briesmas, goheegy, and Raphalge. Please don’t forget about them either.
 
 </div>
+
+::{#foodbot}::
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-foodbot.png)
 
@@ -479,6 +506,8 @@ In the end, it almost feels like I'm making a song for a music label, and it's a
 
 </div>
 
+::{#zeth}::
+
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-zeth.png)
 
 [Z419](https://osu.ppy.sh/users/9912966) (a.k.a. Zeth) has been the main designer for this final edition of EGTS, being in charge of making the most appealing designs possible for everything that was not an original song in this tournament.
@@ -514,6 +543,8 @@ About the designers' channel... yeah. The world probably needs to see the design
 Creativity-wise, it was sometimes challenging because having to come up with a new design (especially when some of us are taking more songs than others) for each song while trying to make it unique amongst each other is a difficult thing to do, but the designers usually will share a lot of inspirations from other people's art and design which helped making it easier for me to find a starting point when starting to work on it. The collaborations between the designers and/or illustrators also have gave birth to many creative new art from the combination between 2 (sometimes very distinctly different) styles of work, which is very refreshing to do.
 
 </div>
+
+::{#overdahedge2015}::
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/interview-hedge.png)
 
