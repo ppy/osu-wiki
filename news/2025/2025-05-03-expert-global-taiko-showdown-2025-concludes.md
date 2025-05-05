@@ -4,11 +4,11 @@ title: Expert Global Taiko Showdown 2025 Concludes
 date: 2025-05-03 12:00:00 +0000
 ---
 
-After two months of some of the highest level tournament matches osu!taiko has ever seen, the final chapter of EGTS has come to a conclusion! Please join us to see what went down in the most ambitious osu!taiko tournament yet.
+After two months of some of the highest levels of tournament matches osu!taiko has ever seen, the final chapter of EGTS has come to a conclusion! Please join us to see what went down in the most ambitious osu!taiko tournament yet.
 
 ![](/wiki/shared/news/2025-01-05-egts-2025-registrations-now-open/banner.jpg)
 
-Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked tournaments this game has ever seen. With 157 players, 157 staff members and a whopping **37** original songs made by **49** individual composers, this year's tournament is without a doubt, the best one ever since the creation of the GTS series, breaking every precedent boundaries that have ever existed. The last 2 months saw what is possibly some of the fiercest matches the competitive osu!taiko scene has seen yet, certainly fits the nickname this tournament has earned itself: "Arena of the Gods".
+Expert Global Taiko Showdown 2025 was certainly one of, if not the most stacked tournaments this game has ever seen. With 157 players, 157 staff members and a whopping **37** original songs made by **49** individual composers, this year's tournament is without a doubt the best one ever since the creation of the GTS series, breaking every precedent and boundary that has ever existed in order to live up to the moniker of "Arena of the Gods".
 
 ## Summary
 
@@ -210,7 +210,7 @@ Whatever it was that happened in his mind to hit all of this, this was the turni
 
 EGTS, and GTS as a whole, has already been known for its immense contribution to original songs releases in the osu! sphere, having released **73** songs in its existence, prior to EGTS 2025's release.
 
-Due to that, we think there were a lot of expectations on how many we would be releasing, especially with [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023), which was holding the record for the tournament with the most original songs attached to it, being 29. 
+Due to that, we think there were a lot of expectations on how many we would be releasing, especially with [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023), which was holding the record for the tournament with the most original songs attached to it, being 29.
 
 This record was not beaten to this day, or well, until EGTS 2025 finalized, with us having released a grand total of **37 original songs** for this tournament. You can find all of these songs on the [Bespoke osu! music wiki article](/wiki/Community/Bespoke_music#community-run-tournament-releases) for quick access, under the "Expert Global Taiko Showdown 2025" section.
 
@@ -274,7 +274,7 @@ This title summarizes the goal behind this song pretty well. The tiebreaker for 
     <audio controls>
         <source src="https://assets.ppy.sh/media/news/egts-2025-white-tiger.mp3">
     </audio>
-</div>      
+</div>
 
 Where do we even start with this song. With a song mainly based on Oriental vibes, [Xyris](https://soundcloud.com/itsxyris), being no stranger to the osu! tournament scene, having provided songs to the [osu!mania 7K World Cup 2025](/wiki/Tournaments/MWC/2025_7K), and [Resurrection Cup](/wiki/Tournaments/RESC/2024), where he has also notably been in charge of Quality Assurance for Song Production, he definitely understood the assignemnt here as well, and throws out crazy mixes of Speedcore and Dubstep, to make for some of the most challenging bursts, and mappers [Briesmas](https://osu.ppy.sh/users/2865172) and [MTNTWarz](https://osu.ppy.sh/users/2865172), heavily accompanied by head mappoolers [4sbet1](https://osu.ppy.sh/users/11563671) and [Raphalge](https://osu.ppy.sh/users/3918650) have created one of the most daunting maps in this tournament for sure, and this map shows it as well, by being the second-highest tiebreaker by SR, being higher than the Finals Tiebreaker.
 
@@ -286,7 +286,7 @@ Where do we even start with this song. With a song mainly based on Oriental vibe
     <audio controls>
         <source src="https://assets.ppy.sh/media/news/egts-2025-justice-rectifier.mp3">
     </audio>
-</div>    
+</div>
 
 And now that we're on it, let's talk about this Finals Tiebreaker, "[Justice Rectifier](https://soundcloud.com/foodbot/justice-rectifier)" by [Foodbot](https://soundcloud.com/foodbot), [Type R](https://soundcloud.com/hiimtype_r) and [SDMNE](https://soundcloud.com/sdmne), with two brand-new artists to GTS this year, as well as SDMNE, coming back from his regular GTS appearances in EGTS 2021 and 2022, as well as MGTS and COEGTS 2023. This whole song was quite the challenge to even finalize for everyone involved, with this being born out of another song being cancelled last minute, hence being made from December 2nd 2024, and composition being officially finalized on March 9th 2025, exactly 7 days before release. However, nothing here shows any corners being cut, with one of the most melodic songs in our late stage, and being an incredible mix of genres, between Hardcore Techno, Gabber, as well as Hi-Tech. And with the map made by one of the best mappers trio possible with [tasuke912](https://osu.ppy.sh/users/2774767), [uone](https://osu.ppy.sh/users/532171910), and [kei821](https://osu.ppy.sh/users/5846289), it did not disappoint, despite having been forced to be made in three total days, making up for an amazing experience overall, to prepare for the Grand Finals Tiebreaker.
 
@@ -296,9 +296,9 @@ And now that we're on it, let's talk about this Finals Tiebreaker, "[Justice Rec
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/media/news/egts-2025-absolute-disorder.mp3   ">
+        <source src="https://assets.ppy.sh/media/news/egts-2025-absolute-disorder.mp3">
     </audio>
-</div>    
+</div>
 
 This is the only non-tiebreaker song to be discussed here, but with good reason to do so.
 Our Grand Finals Hard Rock 2 pick, "[AbsoluTe disoRdeR](https://soundcloud.com/abs_dsr/absolute-disorder)" by [Acute Disarray](https://soundcloud.com/abs_dsr) (Now revealed to be an unit of [AiSS](https://www.youtube.com/channel/UCySx3jmK0bjwiwix_EoKm4w) participating for Orzmic, [rN](https://soundcloud.com/rurinn) participating for Phigros, [takehirotei](https://soundcloud.com/takehirotei) participating for GTS, [Riya](https://soundcloud.com/riyaelectronic) participating for A Dance of Fire and Ice), was an original song released for EGTS 2025, but also as a 4-way collaboration, with three of the rhythm games we collaborated with throughout EGTS, being [Phigros](https://x.com/Phigros_PGS), [Orzmic](https://x.com/orzmic) and [A Dance of Fire and Ice](https://7thbe.at/), with the song releasing on all of the following games as well. The sheer scale this collaboration is on is definitely absurd, and the map made by [Hivie](https://osu.ppy.sh/users/14102976) for it definitely follows it, on top of that song being a very defining pick for both Grand Finals matches this week. Due to the special aspect of it, it's a song that is not planned to be allowed to be mapped freely, but a full spread on all gamemodes is planned to be made for this song. Do give it time.
@@ -311,7 +311,7 @@ Our Grand Finals Hard Rock 2 pick, "[AbsoluTe disoRdeR](https://soundcloud.com/a
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/S_00DzXfNNI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And the final song of EGTS 2025, that truly speaks for itself, being our Grand Finals Tiebreaker: [《wr/d.:colliders》~Chaos in Conclusion~](https://soundcloud.com/blobdash/wrld-colliders) by the GTS Sound Team. 
+And the final song of EGTS 2025, that truly speaks for itself, being our Grand Finals Tiebreaker: [《wr/d.:colliders》~Chaos in Conclusion~](https://soundcloud.com/blobdash/wrld-colliders) by the GTS Sound Team.
 A completely absurd collaboration on all levels, involving **20** composers, **35** mappers, and **15** designers, on an 11-minutes long brutal song, with a full music video on top of it.
 The final product speaks for itself, so I will let you enjoy it.
 
@@ -531,9 +531,9 @@ While having been the main playtester for this tournament, having playtested hal
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9864847">overdahedge2015</a></p>
 
-I wouldn't even say this is necessarily hard, more so just tricky, and being in a smaller pool of testers definitely doesn't help. 
+I wouldn't even say this is necessarily hard, more so just tricky, and being in a smaller pool of testers definitely doesn't help.
 
-To perfectly account for your own personal biases, you'd also need to know your exact skillset, as in, how good you are at X compared to Y for just about every relation between two skills, and getting most of the way there isn't too hard if you have some self-awareness but everyone whiffs on it sometimes: I called grand finals HR1 "too easy" but it was still getting misses out of the podium players even without buffs that I was hoping for, but I was wrong! 
+To perfectly account for your own personal biases, you'd also need to know your exact skillset, as in, how good you are at X compared to Y for just about every relation between two skills, and getting most of the way there isn't too hard if you have some self-awareness but everyone whiffs on it sometimes: I called grand finals HR1 "too easy" but it was still getting misses out of the podium players even without buffs that I was hoping for, but I was wrong!
 
 To be fair, I was never there for the sake of testing the late rounds, and I have to thank miyagishima, kitafuma, and Seren for carrying me on that front, but the same idea can happen in any given round really. A handful of opinions is so much nicer to work with than one, and for a while I really did feel like the only playtester doing anything, but in EGTS' case the head poolers were all top players and all did a ton of work for the tourney, so they thankfully had their own judgment to work with.
 
@@ -549,7 +549,7 @@ After your experiences in tournaments, how do you think the tournament scene sho
 
 I sort of have two answers to this.
 
-As a staff member, I want to say there's a reasonable future where all mappools use only fully licensed music and can still be great, but while it's getting easier every month i think it's still very hard to execute when you don't have the sheer manpower a tourney like EGTS has. 
+As a staff member, I want to say there's a reasonable future where all mappools use only fully licensed music and can still be great, but while it's getting easier every month i think it's still very hard to execute when you don't have the sheer manpower a tourney like EGTS has.
 
 As someone that's pooling for RGTS right now, it's unreal and honestly, a bit demotivating, the amount of times I have thought "oh this map would be great", then looked in the source field and saw that the song's from another rhythm game, but we're still making it work, with the help of a good but not EGTS-level amount of custom mappers.
 
@@ -590,13 +590,13 @@ also Absolute Cinema
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9864847">overdahedge2015</a></p>
 
-the most ambitious community endeavour in osu!taiko 
+the most ambitious community endeavour in osu!taiko
 
 </div>
 
 ---
 
-This final iteration of the Expert Global Taiko Showdown would not have been possible without the contributions of our 157 staff members and the 157 players who joined in and played our Qualifiers. 
+This final iteration of the Expert Global Taiko Showdown would not have been possible without the contributions of our 157 staff members and the 157 players who joined in and played our Qualifiers.
 
 ![](/wiki/shared/news/2025-05-03-expert-global-taiko-showdown-2025-concludes/signatures.png)
 
