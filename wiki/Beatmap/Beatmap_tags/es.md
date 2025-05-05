@@ -28,18 +28,18 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 
 | Nombre de la etiqueta | Descripción | Modo de juego |
 | :-- | :-- | :-- |
-| aim/aim control | Mapas con patrones con cambios de velocidad o dirección que van fuertemente en contra del patrón de movimiento natural del jugador. | ![][osu!] |
-| aim/flow aim | Mapas con patrones con movimiento del cursor totalmente continuo, normalmente debido a una combinación de ángulos anchos y poco tiempo entre los objetos. | ![][osu!] |
+| aim/aim control | Mapas que usan patrones con cambios de velocidad o dirección que van fuertemente en contra del patrón de movimiento natural del jugador. | ![][osu!] |
+| aim/flow aim | Mapas que usan patrones con movimiento del cursor totalmente continuo, normalmente debido a una combinación de ángulos anchos y poco tiempo entre los objetos. | ![][osu!] |
 | aim/jump aim | Mapas que se centran principalmente en los jumps, es decir, círculos separados entre sí que requieren que el jugador se mueva hacia ellos, reduzca la velocidad para pulsarlos y luego acelere para moverse hacia el siguiente objeto. | ![][osu!] |
-| aim/linear aim | Mapas con patrones, por lo general jumps, que requieren que el jugador se mueva continuamente en línea recta o casi recta. | ![][osu!] |
+| aim/linear aim | Mapas que usan patrones, por lo general jumps, que requieren que el jugador se mueva continuamente en línea recta o casi recta. | ![][osu!] |
 | aim/precision | Término coloquial para referirse a los mapas que requieren movimientos finos y precisos para apuntar correctamente. Normalmente se refiere a los mapas con un tamaño mayor que 6 o más en los círculos. | ![][osu!] |
 | aim/precision | Término coloquial para referirse a los mapas que requieren movimientos finos y precisos para atrapar frutas. Normalmente se refiere a los mapas con un tamaño mayor que 6 o más en los círculos. | ![][osu!catch] |
-| aim/sharp aim | Mapas con patrones con un uso intensivo del movimiento de ángulos cerrados, ya sea entre círculos o en sliders. | ![][osu!] |
+| aim/sharp aim | Mapas que usan patrones con un uso intensivo del movimiento de ángulos cerrados, ya sea entre círculos o en sliders. | ![][osu!] |
 | aim/spaced jumps | Mapas que se centran mucho en los jumps con mucho espaciado. | ![][osu!] |
 | aim/squares | Mapas que se centran mucho en los jumps que siguen patrones cuadrados. | ![][osu!] |
 | aim/stamina | Mapas que ponen a prueba la habilidad del jugador para apuntar con jumps espaciados durante largos periodos de tiempo. | ![][osu!] |
 | aim/triangles | Mapas que se centran principalmente en los jumps que siguen patrones triangulares. | ![][osu!] |
-| aim/wide aim | Mapas con patrones, por lo general jumps, con gran uso del movimiento con ángulos muy abiertos. | ![][osu!] |
+| aim/wide aim | Mapas que usan patrones, por lo general jumps, con gran uso del movimiento con ángulos muy abiertos. | ![][osu!] |
 
 ### Mapas con estilo geométrico
 
@@ -55,7 +55,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | gimmick/2B | Mapas que incluyen elementos de juego con dos o más objetos colocados simultáneamente. El término procede de una transcripción china de «tonto». | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | gimmick/barlines | Mapas que usan líneas de compás para mejorar la visualización o reemplazar las notas. | ![][osu!taiko] |
 | gimmick/circle only | Mapas con solo círculos. | ![][osu!] |
-| gimmick/delay | Mapas que presentan streams de un snap alto basados en el efecto de sonido retardado de la canción. | ![][osu!mania] |
+| gimmick/delay | Mapas que incluyen streams de un snap alto basados en el efecto de sonido retardado de la canción. | ![][osu!mania] |
 | gimmick/dodge the beat | Mapas en el que el jugador debe evitar todos los objetos. | ![][osu!catch] |
 | gimmick/LN inverse | Mapas con notas largas que enfatizan las pulsaciones y liberaciones constantes en rápida sucesión. La característica más distintiva de Inverse son los «espacios negativos» en los patrones. | ![][osu!mania] |
 | gimmick/long sliders | Mapas que usan sliders durante un largo periodo de tiempo, teniendo una jugabilidad regular centrada en atrapar gotas y gotitas en lugar de frutas. | ![][osu!catch] |
@@ -66,7 +66,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | gimmick/reversed | Mapas que usa patrones invertidos de forma regularmente consecutiva. | ![][osu!taiko] |
 | gimmick/slider only | Mapas con solo sliders. | ![][osu!] |
 | gimmick/spinner-heavy | Mapas con un uso intensivo de spinners. | ![][osu!catch] |
-| gimmick/storyboard | Mapas que incluyen un storyboard que cambia la forma en que se juega el mapa, por lo general cambiando los elementos visuales de un mapa mediante el uso de elementos del storyboard en lugar de mostrar los objetos del mapa. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| gimmick/storyboard | Mapas que incluyen un storyboard que cambia la forma en que se juega el mapa, por lo general cambiando los elementos visuales de un mapa mediante el uso de los elementos del storyboard en lugar de mostrar los objetos del mapa. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | gimmick/video | Mapas con patrones que hacen referencia al vídeo de fondo incluido. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | gimmick/yellow notes | Mapas en los que se usan con frecuencia sliders extremadamente cortos para simular notas fantasma. | ![][osu!taiko] |
 
@@ -84,7 +84,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | meta/mega marathon | Mapas con un tiempo de drenaje de más de 10 minutos. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | meta/multi-song | Mapas que contienen varias canciones dentro del audio. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | meta/time signatures | Mapas donde el audio contiene muchos cambios de compás o usa un compás poco común. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| meta/variable timing | Mapas que contienen múltiples puntos de tiempo, normalmente necesarios para canciones no grabadas con metrónomo. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| meta/variable timing | Mapas que contienen múltiples puntos de tiempo, normalmente necesarios para canciones no grabadas con un metrónomo. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 
 ### Mapas con patrones complejos de leer
 
@@ -149,17 +149,17 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | style/convert | Mapas que imitan los mapas convertidos desde osu!. | ![][osu!taiko] |
 | style/convert | Mapas que imitan los mapas convertidos desde osu!, donde la estructura y las distancias son irregulares. | ![][osu!catch] |
 | style/distance snapped | Mapas que usan la función de ajuste de distancia integrada en osu! en casi todo el mapa. | ![][osu!] |
-| style/double bpm | Mapas que juegan al doble de velocidad de lo que indica el BPM. | ![][osu!taiko] |
+| style/double bpm | Mapas que se juegan al doble de velocidad de lo que indica el BPM. | ![][osu!taiko] |
 | style/dump | Mapas que usan grupos de objetos centrándose más en la extensión e intensidad de los sonidos, en contraste con el uso de notas individuales para seguir con precisión el ritmo de cada sonido. | ![][osu!mania] |
 | style/finisher-heavy | Mapas que incluyen finalizadores usados de forma poco convencional o en grandes cantidades. | ![][osu!taiko] |
 | style/freeform | Mapas que usan un enfoque desenfrenado y suelto de la estructura visual. | ![][osu!] |
 | style/generic hybrid | Mapas que incluyen la combinación de patrones de rice sencillos y notas largas. | ![][osu!mania] |
 | style/geometric | Mapas que incorporan formas geométricas en su diseño visual. | ![][osu!] |
-| style/handstream | Mapas con streams con una mezcla de chords de 3 notas | ![][osu!mania] |
+| style/handstream | Mapas que incluyen streams con una mezcla de chords de 3 notas | ![][osu!mania] |
 | style/iNiS-style | Mapas con un estilo originario de los juegos originales de DS, reconocibles por su énfasis en el ritmo vocal, la velocidad constante de los sliders y los patrones anclados a la rejilla fácilmente comprensibles. | ![][osu!] |
-| style/jumpstream | Mapas con streams con una mezcla de chords de 2 notas. | ![][osu!mania] |
+| style/jumpstream | Mapas que incluyen streams con una mezcla de chords de 2 notas. | ![][osu!mania] |
 | style/LN coordination | Mapas que requieren mantener varias notas largas simultáneamente mientras se pulsan otros patrones. | ![][osu!mania] |
-| style/LN density | Mapas que incluyen flujos densos de notas largas sin pausas. | ![][osu!mania] |
+| style/LN density | Mapas que incluyen streams densos de notas largas sin pausas. | ![][osu!mania] |
 | style/LN mixed | Mapas que usan varios estilos de patrones de notas largas. | ![][osu!mania] |
 | style/LN release | Mapas que hacen uso de diferentes finales de las notas largas. | ![][osu!mania] |
 | style/longjack | Mapas que incluyen largas cadenas de notas consecutivas en la misma columna. | ![][osu!mania] |
