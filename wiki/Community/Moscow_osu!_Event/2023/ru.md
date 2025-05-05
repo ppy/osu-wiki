@@ -26,8 +26,8 @@ tags:
 MOE 2023 проводилось с помощью различных участников [сообщества](wiki/Community) osu!  
 | Позиция | Пользователь(-и) |
 | :-- | :-- |
- Организатор | ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
- Разработчик | ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
+Организатор | ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
+Разработчик | ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
 Графика | ::{ flag=RU }:: [vr_virtux](https://osu.ppy.sh/users/11531550), ::{ flag=RU }:: [Arhella](https://osu.ppy.sh/users/4411044), ::{ flag=RU }:: [-database-](https://osu.ppy.sh/users/4411044) |
 Технический специалист | ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/u/10079847), ::{ flag=RU }:: [InditaiX](https://osu.ppy.sh/users/8303943) | 
 Медиа-сопровождение | ::{ flag=RU }:: [InditaiX](https://osu.ppy.sh/users/8303943), ::{ flag=RU }:: [Kyori](https://osu.ppy.sh/users/6660546), ::{ flag=RU }:: [excel error](https://osu.ppy.sh/users/12464535) |

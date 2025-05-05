@@ -22,7 +22,7 @@ tags:
 - [Публикация на Reddit с групповой фотографией участников](https://www.reddit.com/r/osugame/comments/1ehkgva/moscow_osu_event_2024_july_2628/)
 
 ## Организаторы
-MOE 2023 проводилось с помощью различных участников [сообщества](wiki/Community) osu!  
+MOE 2024 проводилось с помощью различных участников [сообщества](wiki/Community) osu!  
 | Позиция | Пользователь(-и) |
 | :-- | :-- |
 | Организатор | ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/u/10079847), ::{ flag=RU }:: [InditaiX](https://osu.ppy.sh/users/8303943) |
