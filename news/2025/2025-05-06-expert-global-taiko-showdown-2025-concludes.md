@@ -49,11 +49,11 @@ Read on for a detailed rundown of the Grand Finals and [other highlights from th
 
 Those familiar with EGTS will know that the Grand Finals matchup always used to be fairly one-sided due to the skill disparity between top-seeded players:
 
-- In 2020, ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) went up against ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) who sought to flip the script after being knocked into the lower bracket in Semifinals. uone proceeded to sweep janitore into a bracket reset and finished the job by defeating him 7-2.
-- In 2021, ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501) and ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) gave us the closest Grand Finals scoreline thus far with Seren58 resetting the bracket with a 3-7 victory, followed by a 7-4.
-- In 2022, ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) came back in 2022 to defeat ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) with a crushing 7-1 victory.
+- In 2020, ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) went up against ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) who sought to flip the script after being knocked into the lower bracket in Semifinals. uone proceeded to sweep janitore into a bracket reset and finished the job by defeating him 7–2.
+- In 2021, ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501) and ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) gave us the closest Grand Finals scoreline thus far with Seren58 resetting the bracket with a 3–7 victory, followed by a 7–4.
+- In 2022, ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) came back in 2022 to defeat ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) with a crushing 7–1 victory.
 
-History seemed to repeat itself as ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) pulled ahead with a 5-2 scoreline against ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357), and most were expecting one of the best HD player of osu!taiko to win the next pick of HD2. Yet, miraculously, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found catastrophic misses in the final ten seconds which swayed the point, to the shock of everyone, to ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s bitterly held FC.
+History seemed to repeat itself as ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) pulled ahead with a 5–2 scoreline against ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357), and most were expecting one of the best HD player of osu!taiko to win the next pick of HD2. Yet, miraculously, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found catastrophic misses in the final ten seconds which swayed the point, to the shock of everyone, to ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s bitterly held FC.
 
 Three more consecutive points were tipped towards ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) with mostly razor-thin margins, save for a commendable 90k lead on HR2. At this point, all of a sudden, he was one point away from resetting the bracket.
 
@@ -77,11 +77,11 @@ Both continued to not give away any of their own picks, but it was apparent that
     </video>
 </div>
 
-However, everyone began to worry that all of this might not have been enough, as the scoreline was still tied at 5-5. The smell of another potential tiebreaker lingered in the air.
+However, everyone began to worry that all of this might not have been enough, as the scoreline was still tied at 5–5. The smell of another potential tiebreaker lingered in the air.
 
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s final pick was HR2, one which he had handily won in the previous match. However, despite some narrow misses at the start and at the end of this pick, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) didn't waver once, reducing his miss count from 73 to 7 and getting tantalisingly close to 99% accuracy, leaving ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) in the dust and securing himself the first break point of the bracket reset.
 
-With a 5-6 lead, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) doubled down and picked HR1 — a pick which where, again, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) had won previously. By adding insult to injury on the home stretch, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) finished with an FC, replicating his opponent's feat from the previous match with much better accuracy to boot and denying his chance at another tiebreaker.
+With a 5–6 lead, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) doubled down and picked HR1 — a pick which where, again, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) had won previously. By adding insult to injury on the home stretch, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) finished with an FC, replicating his opponent's feat from the previous match with much better accuracy to boot and denying his chance at another tiebreaker.
 
 ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), the favourite to win since the very beginning, became the final EGTS champion, but absolutely no one could've anticipated what it took him to get there in the end.
 
@@ -364,7 +364,7 @@ Due to the special collaboration aspect of the song, we ask others not to map it
 
 The final song of EGTS 2025, the Grand Finals tiebreaker, truly speaks for itself: [《wr/d.:colliders》\~Chaos in Conclusion\~](https://soundcloud.com/blobdash/wrld-colliders) by the GTS Sound Team.
 
-This song involved **20** composers, **35** mappers, and **15** designers to create **11 minutes** of song, beatmap *and* a full **music video** top top it off.
+This song involved **20** composers, **35** mappers, and **15** designers to create **11 minutes** of song, beatmap *and* a full **music video** to top it off.
 
 You'll find the [map here](https://osu.ppy.sh/beatmapsets/2343549) if you dare challenge it, but you can also enjoy the full experience in the video above.
 
@@ -504,17 +504,20 @@ You were one of the composers that participated in the most original song releas
 
 It was interesting. I honestly think since most of them are in context of a collaboration, it's not as much work as I'd imagine. For 'deadline chasers', Kyotsugyon was handling most of the composition and arrangement (I did most of the hitech stuff though), and I barely lifted a finger for 'Strive;'.
 
-《wr/d.:colliders》... it's a weird story. I had listened to Kry's part beforehand, and thought "Oh, he wants someone to make This kind of drop." ...but I never really loved making that kind of drop, so wanted to make something that people will least expect but still sound very good.
-Like I said in wrldcollider's youtube comment: "I took Kry's buildup, threw it, and violently crushed it to the ground."
-(Please note that I don't hate Kry.exe at all. I respect him a lot.)
+《wr/d.:colliders》... it's a weird story. I had listened to Kry's part beforehand, and thought "Oh, he wants someone to make This kind of drop." ...but I never really loved making that kind of drop, so I wanted to make something that people will least expect but still sound very good.
+
+Like I said in wrldcollider's youtube comment: "I took Kry's buildup, threw it, and violently crushed it to the ground." (Please note that I don't hate Kry.exe at all. I respect him a lot.)
+
 I was also asked by the host like this:
 "speed"
 "please"
-So, um. there you go. LOL. Speed.
-I didn't even know of the name 'splittercore' before EGTS 2025, i just thought of super-fast speedcore overlayed with dubstep drums to make it hit harder than it normally would.
+
+So, um. there you go. LOL. Speed. I didn't even know of the name 'splittercore' before EGTS 2025, i just thought of super-fast speedcore overlayed with dubstep drums to make it hit harder than it normally would.
+
 Some people also say I'm "on crack". I promise you that's not the case.
 
 Justice Rectifier is another layer of hell. I've never made any tiebreaker songs before, and looking back, I somewhat wish I didn't make it as slow as 170 BPM as a starting point. But it definitely gives it its own vibe for a tiebreaker.
+
 When asked by the hosts to transition to a 200+ BPM section, I was hesitant on what to make. They shared some references that would fit the theme, and what I think what I ended up making was super unique. Although some people mistook it for Type R's part, I can't blame them. I would've thought the same.
 
 I'm planning to detail more of the music-making process for Justice Rectifier on youtube at some point. Hopefully by the time this newspost is published I would be able to finish it in time.
@@ -523,7 +526,7 @@ I'm planning to detail more of the music-making process for Justice Rectifier on
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6177263">Kasumi-sama</a></p>
 
-You were already involved in osu! in the past, having provided songs to VNMC2024, as well as the osu! Collegiate League. While having worked for two different game modes already, was working on a song for an osu!taiko tournament any different, and what were the things you were mainly paying attention to while composing, compared to usual?
+You were already involved in osu! in the past, having provided songs to [VNMC 2024](https://osu.ppy.sh/community/forums/topics/1933172), as well as the [osu!Collegiate League](https://osu.ppy.sh/community/forums/topics/1974503). While having worked for two different game modes already, was working on a song for an osu!taiko tournament any different, and what were the things you were mainly paying attention to while composing, compared to usual?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/35127759" style="background-image: url('/wiki/shared/avatars/Foodbot.jpg')"></a>
 
@@ -532,7 +535,9 @@ You were already involved in osu! in the past, having provided songs to VNMC2024
 I was provided references for each slots. I was also given regular feedback by mappoolers so the composition fits more in a osu!taiko setting, and that was definitely the BIGGEST difference compared to other tournaments where I had only recieved "make whatever you want" prompts.
 
 I wasn't really paying attention to anything other than composing based on the references I've been given, but I always take the feedbacks in mind, because in the end I'm making this song for a tournament, and I got to make it fit somehow.
+
 Also because of the feedback, I get a better understanding of osu!taiko patterns in charting.
+
 In the end, it almost feels like I'm making a song for a music label, and it's an incredibly refreshing experience.
 
 </div>
