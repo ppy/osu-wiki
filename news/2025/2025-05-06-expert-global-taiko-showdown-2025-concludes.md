@@ -50,10 +50,10 @@ Read on for a detailed rundown of the Grand Finals and [other highlights from th
 Those familiar with EGTS will know that the Grand Finals matchup always used to be fairly one-sided due to the skill disparity between top-seeded players:
 
 - In 2020, ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) went up against ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) who sought to flip the script after being knocked into the lower bracket in Semifinals. uone proceeded to sweep janitore into a bracket reset and finished the job by defeating him 7–2.
-- In 2021, ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501) and ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) gave us the closest Grand Finals scoreline thus far with Seren58 resetting the bracket with a 3–7 victory, followed by a 7–4.
-- In 2022, ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) came back in 2022 to defeat ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) with a crushing 7–1 victory.
+- In 2021, ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501) and ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) gave us the closest Grand Finals scoreline thus far with ekumea1123 resetting the bracket with a 3–7 victory, followed by a 7–4.
+- In 2022, ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) came back to defeat ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) with a crushing 7–1 victory.
 
-History seemed to repeat itself as ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) pulled ahead with a 5–2 scoreline against ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357), and most were expecting one of the best HD player of osu!taiko to win the next pick of HD2. Yet, miraculously, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found catastrophic misses in the final ten seconds which swayed the point, to the shock of everyone, to ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s bitterly held FC.
+History seemed to repeat itself as ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) pulled ahead with a 5–2 scoreline against ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357), and most were expecting one of the best HD player in osu!taiko to win the next pick of HD2. Yet, miraculously, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found catastrophic misses in the final ten seconds which swayed the point, to the shock of everyone, to ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s bitterly held FC.
 
 Three more consecutive points were tipped towards ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) with mostly razor-thin margins, save for a commendable 90k lead on HR2. At this point, all of a sudden, he was one point away from resetting the bracket.
 
@@ -67,7 +67,7 @@ Both players were given a desperately needed 10-minute break, as the bracket was
 
 The new match started yet again with a show of force in their own picks, yet the advantages didn't make for easy wins. Neither player willing to give up, both continued to flaunt their ambitions at the champion title.
 
-For example, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found a 1.042 *million* HD score on FM3 to win the point, yet it would be impossible to overstate ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s FC with **HR** on his opponents reading and accuracy-heavy pick.
+For example, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) found a *1.042 million* HD score on FM3 to win the point, yet it would be impossible to overstate ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s FC with **HR** on his opponent's reading and accuracy-heavy pick.
 
 Both continued to not give away any of their own picks, but it was apparent that something had changed in ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073)'s mind. A 2x100 HD FC on FM1, a *halving* of his previous 100 miss count on DT2 (albeit still losing the pick), and his **near SS** on HD2 showed the audience just what kind of determination he had brought to the match that he wasn't willing to give up on.
 
@@ -81,7 +81,7 @@ However, everyone began to worry that all of this might not have been enough, as
 
 ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357)'s final pick was HR2, one which he had handily won in the previous match. However, despite some narrow misses at the start and at the end of this pick, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) didn't waver once, reducing his miss count from 73 to 7 and getting tantalisingly close to 99% accuracy, leaving ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) in the dust and securing himself the first break point of the bracket reset.
 
-With a 5–6 lead, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) doubled down and picked HR1 — a pick which where, again, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) had won previously. By adding insult to injury on the home stretch, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) finished with an FC, replicating his opponent's feat from the previous match with much better accuracy to boot and denying his chance at another tiebreaker.
+With a 5–6 lead, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) doubled down and picked HR1 — a pick which, again, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) had won previously. By adding insult to injury on the home stretch, ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) finished with an FC, replicating his opponent's feat from the previous match with much better accuracy to boot and denying his chance at another tiebreaker.
 
 ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), the favourite to win since the very beginning, became the final EGTS champion, but absolutely no one could've anticipated what it took him to get there in the end.
 
@@ -125,7 +125,7 @@ Nothing really announced this to be such a close match. Although ::{ flag=JP }::
 
 Between ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174) winning on [HD1](https://osu.ppy.sh/beatmapsets/2328983#taiko/4994070), [FM1](https://osu.ppy.sh/beatmapsets/2328977#taiko/4994051), [FM2](https://osu.ppy.sh/beatmapsets/2329063#taiko/4994258), [FM3](https://osu.ppy.sh/beatmapsets/2329068#taiko/4994266), [NM4](https://osu.ppy.sh/beatmapsets/2329039#taiko/4994216), a mix of reading, consistency and gimmick picks, and ::{ flag=JP }:: [supesan](https://osu.ppy.sh/users/14623658) winning on [NM3](https://osu.ppy.sh/beatmapsets/2329033#taiko/4994202), [DT2](https://osu.ppy.sh/beatmapsets/2329049#taiko/4994233), [NM2](https://osu.ppy.sh/beatmapsets/2329034#taiko/4994203), [NM5](https://osu.ppy.sh/beatmapsets/2328994#taiko/4994086), [HR1](https://osu.ppy.sh/beatmapsets/2329036#taiko/4994210), and the [tiebreaker](https://osu.ppy.sh/beatmapsets/2329073#taiko/4994275), the more mechanics-focused picks in this pool, this match made for one of the most interesting contrasts to look at for such a close match.
 
-This clip right below summarises very well how stressful matches in EGTS are to watch, honestly.
+This clip right below summarises very well how stressful matches in EGTS are to watch.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -139,7 +139,7 @@ This clip right below summarises very well how stressful matches in EGTS are to 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/k3TCnlziD6g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Now we're in for the late stage of EGTS. This is probably now known as one of the biggest upsets in the entire tournament, knowing how good ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) has always been at this level of tournament performance, and it reflected in the pick'ems, with 90.5% of votes predicting the win going his way.
+Now we're into the late stage of EGTS. This is probably now known as one of the biggest upsets in the entire tournament, knowing how good ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) has always been at this level of tournament performance, and it reflected in the pick'ems, with 90.5% of votes predicting the win going his way.
 
 However, ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) was prepared to prove us wrong, in every way conceivable. The first 4 picks went as planned for both players, each of them winning their respective picks for a tied match. But then, ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) picked [HD1, *parallel skydive*](https://osu.ppy.sh/beatmapsets/2332962#taiko/5006346), and this was the start of the most unexpected run, as he would get 10 misses, whereas ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) just went and FC'd it. Despite being known as a No Mod player mainly, he went and stole away a point on a slow SV HD map against the best reading player in the game.
 
@@ -171,7 +171,7 @@ There are no words for what ended up happening.
     </video>
 </div>
 
-::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) won with one of the most decisive ways a tiebreaker could end, by a slim 3,775 points, and advanced to the Semifinals in the winners' bracket.
+::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) won in one of the most exciting ways a tiebreaker could end, namely by a slim 3,775 points, and advanced to the Semifinals in the winners' bracket.
 
 ### Semifinals: ::{ flag=KR }:: Peaceful vs. ::{ flag=JP }:: _Kan2
 
@@ -201,7 +201,7 @@ Here we were, the final match deciding who would face off against ::{ flag=JP }:
 
 Everyone was expecting this match to be extremely close, especially as it was a revenge match from Semifinals, where ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) came out on top at 7–5.
 
-However, this time around, the story of the match was very different, with both players winning their 6 respective picks. An absurd sight to behold.
+However, this time around, the story of the match was very different, with each player winning their 6 respective picks. An absurd sight to behold.
 
 ![](/wiki/shared/news/2025-05-06-expert-global-taiko-showdown-2025-concludes/maimaing-vs-kanten_07-1.png)
 
@@ -237,7 +237,7 @@ EGTS, and GTS as a whole, has already been known for its immense contribution to
 
 Due to that, we think there were a lot of expectations on how many there would be, especially with [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023) including 29 bespoke songs, the most for any single tournament.
 
-That record has stood unbeaten to this day, or well, until EGTS 2025 was finalised, with a grand total of **37 original songs** released for this tournament. [You can find all of them on the wiki.](/wiki/Community/Bespoke_music#expert-global-taiko-showdown)
+That record stood unbeaten to this day, or well, until EGTS 2025 was finalised, with a grand total of **37 original songs** released for this tournament. [You can find all of them on the wiki.](/wiki/Community/Bespoke_music#expert-global-taiko-showdown)
 
 Clicking the song banners will take you to the respective beatmaps. We will be highlighting just the tiebreakers in this article, as well as a very special collaboration track.
 
@@ -600,9 +600,9 @@ While having been the main playtester for this tournament, having playtested hal
 
 I wouldn't even say this is necessarily hard, more so just tricky, and being in a smaller pool of testers definitely doesn't help.
 
-To perfectly account for your own personal biases, you'd also need to know your exact skillset, as in, how good you are at X compared to Y for just about every relation between two skills, and getting most of the way there isn't too hard if you have some self-awareness but everyone whiffs on it sometimes: I called grand finals HR1 "too easy" but it was still getting misses out of the podium players even without buffs that I was hoping for, but I was wrong!
+To perfectly account for your own personal biases, you'd also need to know your exact skillset, as in, how good you are at X compared to Y for just about every relation between two skills, and getting most of the way there isn't too hard if you have some self-awareness but everyone whiffs on it sometimes: I called grand finals HR1 "too easy" but it was still getting misses out of the podium players even without buffs that I was hoping for!
 
-To be fair, I was never there for the sake of testing the late rounds, and I have to thank miyagishima, kitafuma, and Seren for carrying me on that front, but the same idea can happen in any given round really. A handful of opinions is so much nicer to work with than one, and for a while I really did feel like the only playtester doing anything, but in EGTS' case the head poolers were all top players and all did a ton of work for the tourney, so they thankfully had their own judgment to work with.
+To be fair, I was never there for the sake of testing the late rounds, and I have to thank [miyagishima](https://osu.ppy.sh/users/8027517), [kitafuma](https://osu.ppy.sh/users/8987606), and [Seren58](https://osu.ppy.sh/users/15252950) for carrying me on that front, but the same idea can happen in any given round really. A handful of opinions is so much nicer to work with than one, and for a while I really did feel like the only playtester doing anything, but in EGTS' case the head poolers were all top players and all did a ton of work for the tourney, so they thankfully had their own judgment to work with.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6177263" style="background-image: url('/wiki/shared/avatars/Kasumi-sama.jpg')"></a>
 
@@ -618,7 +618,7 @@ I sort of have two answers to this.
 
 As a staff member, I want to say there's a reasonable future where all mappools use only fully licensed music and can still be great, but while it's getting easier every month i think it's still very hard to execute when you don't have the sheer manpower a tourney like EGTS has.
 
-As someone that's pooling for RGTS right now, it's unreal and honestly, a bit demotivating, the amount of times I have thought "oh this map would be great", then looked in the source field and saw that the song's from another rhythm game, but we're still making it work, with the help of a good but not EGTS-level amount of custom mappers.
+As someone that's pooling for RGTS right now, it's unreal, and honestly a bit demotivating, the amount of times I have thought "oh this map would be great", then looked in the source field and saw that the song's from another rhythm game, but we're still making it work, with the help of a good but not EGTS-level amount of custom mappers.
 
 As a player, I think the current pool structure is honestly great! I think being too picky makes pooling hellish, and as long as polyrhythm HR1s stay away from me it's all okay in my book.
 
