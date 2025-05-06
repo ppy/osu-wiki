@@ -183,7 +183,7 @@ We're now in the first round of Semifinals for the losers' bracket with a legend
 
 Now, how could this match between such juggernauts of osu!taiko go? Picks for both players were pretty unsurprising, with ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) choosing the reading aspect of the mappool, with [FM3](https://osu.ppy.sh/beatmapsets/2336583#taiko/5016186), [HR2](https://osu.ppy.sh/beatmapsets/2336561#taiko/5016142), [HD1](https://osu.ppy.sh/beatmapsets/2336375#taiko/5015685), [FM1](https://osu.ppy.sh/beatmapsets/2336556#taiko/5016129), [NM4](https://osu.ppy.sh/beatmapsets/2336545#taiko/5016102), and [NM6](https://osu.ppy.sh/beatmapsets/2336555#taiko/5016128), as a mechanics-oriented final pick. For ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196), we ended up with [NM1](https://osu.ppy.sh/beatmapsets/2336548#taiko/5016113), [NM3](https://osu.ppy.sh/beatmapsets/2336550#taiko/5016115), [NM5](https://osu.ppy.sh/beatmapsets/2336559#taiko/5016136), [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688), [NM2](https://osu.ppy.sh/beatmapsets/2336557#taiko/5016130), and [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689). This entire match went according to plan for the first 4 picks, but ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) then lost on HD1, losing the slow HD reading map for the second match in a row, and giving ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196) the first break point of the match.
 
-Sadly for him, this would not be the last break point, as ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) ended up retaliating by first winning [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688) in dominating fashion (an FC), then tying up the match, and finally, winning [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689) in one of the most impressive break points to happen, with just 483 points to decide the whole match.
+Sadly for him, this would not be the last break point, as ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) ended up retaliating by first winning [HR1](https://osu.ppy.sh/beatmapsets/2336376#taiko/5015688) in dominating fashion (an FC), then tying up the match, and finally, winning [DT2](https://osu.ppy.sh/beatmapsets/2336377#taiko/5015689) in one of the most impressive break points imaginable, with just 483 points to decide the whole match.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -304,7 +304,7 @@ Mappers [Ideal](https://osu.ppy.sh/users/3869519) and [Raphalge](https://osu.ppy
 
 This title summarises the goal behind this song pretty well. The tiebreaker for this year's Quarterfinals by [CS4W](https://soundcloud.com/yusuke-7328) is a Gothic Hardcore song mixed with Hi-tech and Drum & Bass elements, an insane mix of genres to be sure.
 
-The map by [My Angel Seia](https://osu.ppy.sh/users/17797595) has absolutely nothing angelic about it. The easy parts are when 220 BPM streams are mapped at the normal SV, but whenever you see a single SV slowdown in this map, the only answer is to run, frankly.
+The map by [My Angel Seia](https://osu.ppy.sh/users/17797595) has absolutely nothing angelic about it. The easy parts are when 220 BPM streams are mapped at the normal SV, but whenever you see an SV slowdown in this map, the only answer is to run, frankly.
 
 ### Semifinals
 
