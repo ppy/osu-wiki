@@ -71,7 +71,7 @@ Notice: the playlist closes on **Sunday, May 11 19:00 UTC.**
 - Hard Rock
   1. [Lie and a Chameleon - JOHN DOE (Stompy\_) \[Surgis x flake's Extreme\]](https://osu.ppy.sh/beatmapsets/2189522#osu/4630929)
   2. [-45 - Millarca (228) \[Suffering\]](https://osu.ppy.sh/beatmapsets/1978407#osu/4107350)
-- Double Time (variable speed bultiplier)
+- Double Time (variable speed multiplier)
   1. (1.30x) [Shoji Meguro - Kimi no Kioku (Aethral Remix) (Akali) \[Remembrance\]](https://osu.ppy.sh/beatmapsets/490662#osu/1045757)
   2. (1.30x) [Awake - Supernova (Niva) \[Extra\]](https://osu.ppy.sh/beatmapsets/2365648#osu/5101419)
   3. (1.20x) [PUP - Mabu (Hobbes2) \[Extreme\]](https://osu.ppy.sh/beatmapsets/762836#osu/1603957)
