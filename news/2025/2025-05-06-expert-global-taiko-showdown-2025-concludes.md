@@ -350,7 +350,7 @@ This is the only non-tiebreaker song to be discussed here, but with good reason 
 
 Our Grand Finals HR2 pick, [Acute Disarray - AbsoluTe disoRdeR](https://soundcloud.com/abs_dsr/absolute-disorder), was an original song released for EGTS 2025, but also a 4-way collaboration with three of the rhythm games we've worked with throughout EGTS.
 
-[Acute Disarray](https://soundcloud.com/abs_dsr), a unit of [AiSS](https://www.youtube.com/channel/UCySx3jmK0bjwiwix_EoKm4w) participating for [Orzmic](https://twitter.com/orzmic), [rN](https://soundcloud.com/rurinn) participating for [Phigros](https://twitter.com/Phigros_PGS), [takehirotei](https://soundcloud.com/takehirotei) participating for GTS and [Riya](https://soundcloud.com/riyaelectronic) participating for [A Dance of Fire and Ice](https://7thbe.at/), released the song on each respective game.
+[Acute Disarray](https://soundcloud.com/abs_dsr), a unit of [AiSS](https://www.youtube.com/channel/UCySx3jmK0bjwiwix_EoKm4w) participating for [Orzmic](https://twitter.com/orzmic), [rN](https://soundcloud.com/rurinn) participating for [Phigros](https://twitter.com/Phigros_PGS), [takehirotei](https://soundcloud.com/takehirotei) participating for GTS and [Riya](https://soundcloud.com/riyaelectronic) participating for [A Dance of Fire and Ice](https://7thbe.at/), have now released the song on each respective game.
 
 The sheer scale of this collaboration is definitely absurd, and the map made by [Hivie](https://osu.ppy.sh/users/14102976) for it definitely follows it through, ending up as a defining pick for both Grand Finals matches.
 
