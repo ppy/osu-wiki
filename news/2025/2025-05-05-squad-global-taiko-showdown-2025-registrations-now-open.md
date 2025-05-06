@@ -8,11 +8,11 @@ We invite you to challenge the world in a 3v3 drum-smashing showdown — get rea
 
 ![](/wiki/shared/news/2025-05-05-squad-global-taiko-showdown-2025-registrations-now-open/banner.jpg)
 
-The [Squad Global Taiko Showdown](https://osu.ppy.sh/community/forums/topics/2075637) has been osu!taiko's premiere team tournament, in terms of offering a tournament where all players are entirely free to choose their teammates, for a 3v3 tournament with teams from **3 to 6** players!
+The [Squad Global Taiko Showdown](https://osu.ppy.sh/community/forums/topics/2075637) has been at the forefront of osu!taiko team tournament scene, offering a 3v3 format where players are entirely free to choose their teammates!
 
-Regarding the tournament's bracket format, there are no changes from the past year. This is planned to be a **32 teams** tournament in a **double-elimination bracket.** 
+Regarding the tournament's bracket format, there are no changes from the past year. This is planned to be a **double-elimination bracket** of **32 teams** with **3 to 6 players**.
 
-Mappool-wise, all songs used in the tournament will either come **from the Featured Artist listing**, or are **used with permission from the artist**.
+Mappool-wise, all songs used in the tournament will either come **from the Featured Artist listing**, or be **used with permission from the artist**.
 
 The tournament's detailed schedule and all relevant info for participating can be found below.
 
@@ -41,6 +41,6 @@ As long as you have done everything above, you will be instantly noted on the we
 
 *Notice: Registrations will be screened by osu! staff during the screening phase. In order to participate, you must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
-***Registration attempts after this deadline will not be accepted whatsoever. You have two weeks to think about whether you want to participate in this or not. No hesitation allowed, because this is your last chance ever.***
+***Registration attempts after this deadline will not be accepted whatsoever. Again, this is the final iteration of SGTS, so there will only be two weeks to consider participation.***
 
-—GTS Admin Team
+—the GTS Admin Team
