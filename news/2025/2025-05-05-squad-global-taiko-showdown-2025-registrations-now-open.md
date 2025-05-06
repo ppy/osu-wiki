@@ -4,7 +4,7 @@ title: "Squad Global Taiko Showdown 2025: Registrations Now Open!"
 date: 2025-05-06 12:00:00 +0000
 ---
 
-Calling all drum smashers once again — after two years of inactivity, the Squad Global Taiko Showdown is now back for its third and final edition!
+We invite you to challenge the world in a 3v3 drum-smashing showdown — get ready for SGTS 2025, its third and final iteration!
 
 ![](/wiki/shared/news/2025-05-05-squad-global-taiko-showdown-2025-registrations-now-open/banner.jpg)
 
