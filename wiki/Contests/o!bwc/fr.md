@@ -7,3 +7,4 @@ Page d'index pour l'ensemble de la série osu! Beatmapping World Championship se
 - [osu! Mapping World Cup #1](1)
 - [osu! Beatmapping World Championship 2020](2)
 - [osu! Beatmapping World Championship 2021](3)
+- [osu! Beatmapping World Championship 2025](2025)
