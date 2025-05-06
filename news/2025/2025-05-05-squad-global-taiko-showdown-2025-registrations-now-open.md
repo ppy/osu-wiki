@@ -8,7 +8,7 @@ Calling all drum smashers once again — after two years of inactivity, the Squa
 
 ![](/wiki/shared/news/2025-05-05-squad-global-taiko-showdown-2025-registrations-now-open/banner.jpg)
 
-The [Squad Global Taiko Showdown](https://osu.ppy.sh/community/forums/topics/2075637) has been osu!taiko's premier teamtournament, in terms of offering a tournament where all players are entirely free to choose their teammates, for a 3v3 tournament with teams from **3 to 6** players!
+The [Squad Global Taiko Showdown](https://osu.ppy.sh/community/forums/topics/2075637) has been osu!taiko's premiere team tournament, in terms of offering a tournament where all players are entirely free to choose their teammates, for a 3v3 tournament with teams from **3 to 6** players!
 
 Regarding the tournament's bracket format, there are no changes from the past year. This is planned to be a **32 teams** tournament in a **double-elimination bracket.** 
 
