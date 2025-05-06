@@ -20,16 +20,16 @@ The tournament's detailed schedule and all relevant info for participating can b
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | May 05 (00:00 UTC) – May 18 (23:59 UTC) |
-| Screening phase | May 18 (00:00 UTC) – Jun 01 (23:59 UTC) |
-| Qualifier showcase | Jun 02 (15:00 UTC) |
-| Qualifier stage | Jun 07 & Jun 08 |
-| Round of 32 | Jun 14 & Jun 15 |
-| Round of 16 | Jun 21 & Jun 22 |
-| Quarterfinals | Jun 28 & Jun 29 |
-| Semifinals | Jul 5 & Jul 6 |
-| Finals | Jul 12 & Jul 13 |
-| Grand Finals | Jul 19 & Jul 20 |
+| Registration phase | May 5 (00:00 UTC) – May 18 (23:59 UTC) |
+| Screening phase | May 18 (00:00 UTC) – June 01 (23:59 UTC) |
+| Qualifier showcase | June 2 (15:00 UTC) |
+| Qualifier stage | June 7 & June 8 |
+| Round of 32 | June 14 & June 15 |
+| Round of 16 | June 21 & June 22 |
+| Quarterfinals | June 28 & June 29 |
+| Semifinals | July 5 & July 6 |
+| Finals | July 12 & July 13 |
+| Grand Finals | July 19 & July 20 |
 
 ## How do I register?
 
