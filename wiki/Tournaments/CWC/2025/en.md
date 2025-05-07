@@ -15,7 +15,7 @@ The **osu!catch World Cup 2025** (***CWC 2025***) is a country-based osu!catch t
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2025-05-08/2025-05-22 (23:59 UTC) |
+| Registration phase | 2025-05-08 (00:00 UTC)/2025-05-22 (23:59 UTC) |
 | Qualifier showcase | 2025-06-01 (14:00 UTC) |
 | Qualifier stage | 2025-06-07/2025-05-08 |
 | Round of 32 | 2025-06-14/2025-06-15 |
@@ -27,7 +27,7 @@ The **osu!catch World Cup 2025** (***CWC 2025***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2025 is a $2,000 cash prize pool and limited-edition merch.
+The osu!catch World Cup 2025 offers a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -51,9 +51,9 @@ The osu!catch World Cup 2025 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1911198)
+- **[Sign up here](https://osu.ppy.sh/community/tournaments/50)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Tournament listing](https://osu.ppy.sh/community/tournaments/50)
 
 ## Ruleset
 
