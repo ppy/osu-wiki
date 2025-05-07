@@ -18,8 +18,8 @@ As always, for more details pertaining to the tournament, please refer to the **
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | May 8 (00:00 UTC) — May 22 (23:59 UTC) |
-| Qualifier showcase | June 01 (14:00 UTC) |
-| Qualifier stage | June 07 & 05-08 |
+| Qualifier showcase | June 1 (14:00 UTC) |
+| Qualifier stage | June 7 & June 8 |
 | Round of 32 | June 14 & June 15 |
 | Round of 16 | June 21 & June 22 |
 | Quarterfinals | June 28 & June 29 |
