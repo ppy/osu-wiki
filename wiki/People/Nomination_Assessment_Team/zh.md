@@ -200,7 +200,7 @@ NAT 领导人的职责是：
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 开发 [BN 管理网站](https://bn.mappersguild.com) 和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! NAT 内部代表[^internal-representatives]，推行关于 osu! 提名重置的影响评分 (impact ratings)[^impact-rating] |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 推行关于 osu! 提名重置的影响评分 (impact ratings)[^impact-rating] |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
