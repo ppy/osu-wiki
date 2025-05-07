@@ -11,49 +11,49 @@ outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
 
 每年，[官方世界杯](/wiki/Tournaments#官方世界杯)的获胜者都会被授予 **osu!/osu!taiko/osu!catch/osu!mania Champion** 头衔。这个头衔的有效时间将会持续到来年同名世界杯举办。
 
-拥有 **osu! Champion** 头衔的 [OWC 2023](/wiki/Tournaments/OWC/2023) 冠军：
+拥有 **osu! Champion** 头衔的 [OWC 2024](/wiki/Tournaments/OWC/2024) 冠军：
 
-- ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
-- ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270)
-- ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296)
-- ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211)
-- ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150)
-- ::{ flag=US }:: [WindowLife](https://osu.ppy.sh/users/4108547)
-- ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257)
+- ::{ flag=KR }:: [\[Karcher\]](https://osu.ppy.sh/users/11443437)
+- ::{ flag=KR }:: [Allegrissimo](https://osu.ppy.sh/users/9052194)
+- ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)
+- ::{ flag=KR }:: [hyeok2044](https://osu.ppy.sh/users/8472976)
+- ::{ flag=KR }:: [Doomsday fanboy](https://osu.ppy.sh/users/4511522)
+- ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078)
+- ::{ flag=KR }:: [fragranceofpage](https://osu.ppy.sh/users/11399348)
+- ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450)
 
-拥有 **osu!taiko Champion** 头衔的 [TWC 2023](/wiki/Tournaments/TWC/2023) 冠军：
+拥有 **osu!taiko Champion** 头衔的 [TWC 2024](/wiki/Tournaments/TWC/2024) 冠军：
 
-- ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501)
+- ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311)
 - ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073)
 - ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357)
-- ::{ flag=JP }:: [kotohira\_06](https://osu.ppy.sh/users/22444525)
-- ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562)
-- ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950)
+- ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
+- ::{ flag=JP }:: [Nekomusya7563](https://osu.ppy.sh/users/1382717)
+- ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757)
 
-拥有 **osu!catch Champion** 头衔的 [CWC 2023](/wiki/Tournaments/CWC/2023) 冠军：
+拥有 **osu!catch Champion** 头衔的 [CWC 2024](/wiki/Tournaments/CWC/2024) 冠军：
 
-- ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057)
-- ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951)
-- ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506)
-- ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
-- ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)
-- ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549)
+- ::{ flag=US }:: [Colin](https://osu.ppy.sh/users/5502521)
+- ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006)
+- ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149)
+- ::{ flag=US }:: [rostld](https://osu.ppy.sh/users/4365562)
+- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
+- ::{ flag=US }:: [Trent](https://osu.ppy.sh/users/3438241)
 
-拥有 **osu!mania 4K Champion** 头衔的 [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) 冠军：
+拥有 **osu!mania 4K Champion** 头衔的 [MWC 4K 2024](/wiki/Tournaments/MWC/2024_4K) 冠军：
 
-- ::{ flag=US }:: [\[LS\]Dev](https://osu.ppy.sh/users/16407268)
-- ::{ flag=US }:: [cafesito](https://osu.ppy.sh/users/7794488)
+- ::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620)
 - ::{ flag=US }:: [Hello\_Son](https://osu.ppy.sh/users/17308009)
 - ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)
 - ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)
+- ::{ flag=US }:: [Reshiram](https://osu.ppy.sh/users/7794488)
 - ::{ flag=US }:: [TristanJacob11](https://osu.ppy.sh/users/11817838)
 
-拥有 **osu!mania 7K Champion** 头衔的 [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K) 冠军：
+拥有 **osu!mania 7K Champion** 头衔的 [MWC 7K 2025](/wiki/Tournaments/MWC/2025_7K) 冠军：
 
+- ::{ flag=KR }:: [Crusher](https://osu.ppy.sh/users/7304158)
 - ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406)
-- ::{ flag=KR }:: [HanJaeHun](https://osu.ppy.sh/users/2402586)
-- ::{ flag=KR }:: [OutLast](https://osu.ppy.sh/users/5402803)
+- ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649)
 - ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)
 
 ## 历届世界杯冠军头衔获得者
@@ -77,6 +77,7 @@ outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
 | [OWC 2021](/wiki/Tournaments/OWC/2021) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
 | [OWC 2022](/wiki/Tournaments/OWC/2022) | Former osu! Champion: 2022 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848), ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
+| [OWC 2023](/wiki/Tournaments/OWC/2023) | Former osu! Champion: 2023 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150), ::{ flage=US }:: [hotdog4000](https://osu.ppy.sh/users/4108547), ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257) |
 
 拥有 **Former osu!taiko Champion** 头衔，在之前 osu!taiko 世界杯获胜的冠军：
 
@@ -94,6 +95,7 @@ outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) |
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
 | [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742), ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
+| [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950), ::{ flag=JP }:: [kotohira_06](https://osu.ppy.sh/users/22444525), ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562) |
 
 拥有 **Former osu!catch Champion** 头衔，在之前 osu!catch 世界杯获胜的冠军：
 
@@ -110,6 +112,7 @@ outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
 | [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |
 | [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304) |
 | [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) |
+| [CWC 2023](/wiki/Tournaments/CWC/2023) | Former osu!catch Champion: 2023 | ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951), ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506), ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520), ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) |
 
 拥有 **Former osu!mania Champion** 头衔，在之前 osu!mania 世界杯获胜的冠军：
 
@@ -131,12 +134,16 @@ outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
 | [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697) |
 | [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
 | [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) | Former osu!mania 7K Champion: 2023 | ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405), ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664), ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011), ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) |
+| [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) | Former osu!mania 4K Champion: 2023 | ::{ flag=US }:: [ERA Dev](https://osu.ppy.sh/users/16407268) |
+| [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K) | Former osu!mania 7K Champion: 2024 | ::{ flag=KR }:: [HanJaeHun](https://osu.ppy.sh/users/2402586), ::{ flag=KR }:: [OutLast](https://osu.ppy.sh/users/5402803) |
 
 ### 官方作图竞赛冠军
 
-大多数官方作图比赛都将 **Elite Mapper** 作为冠军头衔。
+大多数官方作图比赛会通过[竞赛得分](/wiki/Contests/Contest_points)来选出最出色的谱师并赋予 **Elite Mapper**。比较古老的官方作图比赛会将其作为冠军头衔。
 
+- ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -147,8 +154,10 @@ outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612)
 - ::{ flag=TW }:: [Firce777](https://osu.ppy.sh/users/274072)
+- ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551)
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
+- ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
 - ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378)
@@ -175,6 +184,8 @@ outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
@@ -189,19 +200,22 @@ outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
 
 自 2020 年以来，[谱面提名成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员如果在一年内，在谱面上架方面做出卓越贡献，将会获得 **Elite Nominator** 头衔。头衔将会在玩家被评定时颁发，展示持续一年或持续到玩家离开提名团队。
 
-- ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)[^elite-note]
-- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
-- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
-- ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
-- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)[^elite-note]
-- ::{ flag=KR }:: [SecxcscX](https://osu.ppy.sh/users/13543418)
-- ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
-- ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127)
+- ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)[^elite-note]
+- ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
+- ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
+- ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285)
+- ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741)
+- ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090)
+- ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130)
+- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)[^elite-note]
+- ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+- ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303)
+- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)[^elite-note]
+- ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)[^elite-note]
+- ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534)
+- ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598)
 
 ### Aspire 作图竞赛冠军
 
@@ -288,6 +302,7 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [第一个解锁 *The Girl in the Forest* 奖章的玩家](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | [第一个解锁 *Internment* 奖章的玩家](https://twitter.com/osugame/status/1696007320663359800) |
 | ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | 在 [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) 中获取了不可战胜的理论最大分数，占据了排行榜 #1 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Limit Breaker | [Exceeded the 16-bit integer size limit of 32,767 for the performance points counter on osu!(stable)](https://osu.ppy.sh/home/changelog/stable40/20250306.2) |
 
 ### 贡献者
 
@@ -334,7 +349,7 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 ## 备注
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) 成功地通过两种不同的方式获得 **Elite Mapper** 头衔从而被授予 **Elite Mapper II** 头衔：在 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 大赛中获胜，以及在新的[作图月赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest) 系统中获得了 6 分以上。
-[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 和 ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) 因为连续两年获得了优秀提名者，所以头衔变更为**Elite Nominator II**。
+[^elite-note]: [^elite-note]: ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)、::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)、::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) 因为连续 2 年获得了优秀提名者，所以头衔变更为 **Elite Nominator II**。::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) 因为连续 3 年获得了优秀提名者，所以头衔变更为 **Elite Nominator III**。
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) 因为在[作图月赛 (MBC) #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) 和[作图月赛 (MBC): Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results)中两次获胜，从而获得了 **Elite Mapper II: Aspirant** 头衔。
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) 因为在 [osu!remix 竞赛 #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) 和 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 竞赛中两次获胜，从而获得了**osu!mixer II** 头衔。
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) 由于在故事板设计中做出卓越贡献，[已经获得了头衔](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)，又在[三角作图竞赛](/wiki/Contests/triangles_Beatmapping_Contest) 中获胜，从而获得了**Elite Storyboarder II** 头衔。
