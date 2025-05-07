@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
----
-
 # 升级到 lazer
 
 osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕后工作的结晶，并且，我们重构了游戏。
@@ -87,6 +82,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 多人游戏观赛 | ![不支持][false] | ![支持][true] |
 | 倒计时器 | ![部分支持][partial][^countdown-timers-stable] | ![支持][true][^countdown-timers-lazer] |
 | 队列模式 | ![不支持][false] | ![支持][true][^queue-modes] |
+| 多人自由模式 | ![不支持][false] | ![支持][true][^freestyle] |
 | 多人游戏指令 | ![支持][true] | ![不支持][false] |
 | 合作模式 (Tag co-op) | ![支持][true] | ![不支持][false] |
 | 课题模式 (玩家策划的排行榜) | ![不支持][false] | ![支持][true] |
@@ -345,7 +341,8 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^stable-chat]: 通常需要 15 秒来接收新消息。
 [^countdown-timers-stable]: 使用指令来倒计时。对局不会自动开始。
 [^countdown-timers-lazer]: 在游戏内用户界面 (UI) 设置倒计时，对局会自动开始。
-[^queue-modes]: 开启它，允许房内按队列选择谱面。即“房主轮换”(host rotate)。
+[^queue-modes]: 开启它，即可允许房内按队列选择谱面。也称作“房主轮换”(host rotate)。
+[^freestyle]: 开启它，即可允许房内所有玩家进入歌曲选择界面，并选择当前谱面的任意难度或游戏模式。
 [^difficulty-adjust]: 直接在歌曲选择界面使用难度调整 (Difficulty Adjust) 模组，来更改谱面的 CS/AR/OD/HP。
 [^medals-lazer]: 部分[隐藏 (Hush-Hush) 奖章](/wiki/Medals#隐藏)还无法获取。
 
