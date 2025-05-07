@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: f55c53278e0141286b7f026d3848c5386f832f33
 tags:
   - NAT
   - 审核评估
@@ -91,7 +89,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 
 ## 离开审核评估团队 (NAT)
 
-如果 NAT 成员选择离开团队，他们将根据以下情况获得特权：
+如果审核评估团队成员在未发生纠纷的情况下选择卸任，他们将根据以下情况获得特权：
 
 - **[osu! 名人堂](/wiki/People/osu!_Alumni) 玩家头衔**：授予给在团队中至少任职 1 年，或是在短时间内为团队做出重大贡献的成员。
 - **osu! 支持者**：如果团队成员获得了名人堂头衔，他们也将获得 2 倍任职时长的 osu! 支持者标签。
@@ -111,7 +109,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 
 截至 2023 年 3 月，NAT 已经决定重新采用之前在[质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team) 时期使用的[领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)概念。NAT 领导人肩负有评估和顾问双重责任，因此他们可以监督并参与 NAT 的各项事务。
 
-目前的 NAT 领导人是：::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+目前的 NAT 领导人是：::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 和 ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)。
 
 ### 职责
 
@@ -140,13 +138,15 @@ NAT 领导人的职责是：
 | :-- | :-- |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 俄语 |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | 瑞典语 |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 
@@ -154,10 +154,10 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 汉语 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语, 法语, 一些意大利语 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | 一些德语 |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一些法语 |
 
 #### osu!catch
@@ -167,6 +167,7 @@ NAT 领导人的职责是：
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
@@ -174,7 +175,6 @@ NAT 领导人的职责是：
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 |
-| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | 土耳其语 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 |
 | ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语, 法语 |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 加泰罗尼亚语，西班牙语 |
@@ -186,10 +186,10 @@ NAT 领导人的职责是：
 | 名字 | 职责 |
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文件 |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | 开发内部工具 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 维护谱面上架标准 (RC) |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 维护谱面上架标准 (RC) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 开发 [BN 管理网站](https://bn.mappersguild.com) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
 
 以下 NAT 成员主要负责评估分类的事项，但也会参与组织分类的事项：
 
@@ -198,7 +198,9 @@ NAT 领导人的职责是：
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 处理内容举报 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 开发[提名规划师 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 开发 [BN 管理网站](https://bn.mappersguild.com) 和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck) |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! NAT 内部代表[^internal-representatives]，推行关于 osu! 提名重置的影响评分 (impact ratings)[^impact-rating |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 推行关于 osu! 提名重置的影响评分 (impact ratings)[^impact-rating] |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck |
 
 ---
 
@@ -206,4 +208,5 @@ NAT 领导人的职责是：
 
 ## 备注
 
+[^internal-representatives]: 内部代表协助 NAT 领导，监督每个游戏模式的活跃度要求，并在团队内推动事务发展。
 [^impact-rating]: 这一过程的内容为：检查每一次提名重置，并为其分配一个“轻微”、“注意”、“严重”标签，以供未来的评估参考。
