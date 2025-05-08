@@ -53,7 +53,7 @@ Estos nombres de dificultad son los más usados para cada modo de juego.
 
 ## Nombramiento de dificultades de otros juegos
 
-Los mapas de canciones procedentes de otros juegos de ritmo suelen tomar prestado el esquema de nombramiento de dificultades de esos juegos. El uso de estos nombres de dificultad es aceptable para cualquier canción. Algunos de los esquemas de nombramiento más comunes usados en osu! se enumeran a continuación:
+Los mapas de canciones procedentes de otros juegos de suelen tomar prestado el esquema de nombramiento de dificultades de esos juegos. El uso de estos nombres de dificultad es aceptable para cualquier canción. Algunos de los esquemas de nombramiento más comunes usados en osu! se enumeran a continuación:
 
 ### Beatmania IIDX
 

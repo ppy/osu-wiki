@@ -49,7 +49,7 @@ Dessa svårighetsgradnamn är de mest använda för varje spelläge.
 
 ## Svårighetsgradnamngivning från andra spel
 
-Mapsets av låtar som härstammar från andra rytmspel lånar ofta spelets svårighetsgradnamnschema. Användning av dessa svårighetsgradnamn är acceptabel för alla låtar. Några av de vanliga namngivningssystemen som tog sig till osu! listas här:
+Mapsets av låtar som härstammar från andra spel lånar ofta spelets svårighetsgradnamnschema. Användning av dessa svårighetsgradnamn är acceptabel för alla låtar. Några av de vanliga namngivningssystemen som tog sig till osu! listas här:
 
 ### Beatmania IIDX
 
