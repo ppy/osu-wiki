@@ -179,7 +179,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (91 MB)](https://drive.google.com/file/d/1jx6MHwSo7L2JDdpSgf8zTy3cGt0NLoKc/view)**\
 [Watch the showcase VOD here!](https://www.youtube.com/watch?v=SjNkzGL41Zc)\
-[Watch the Gulano Cup 5 credits here!](https://www.youtube.com/watch?v=QrLgh7Hv3jY)
+[Watch the Gulano Cup #5 credits here!](https://www.youtube.com/watch?v=QrLgh7Hv3jY)
 
 - Rice
   1. [AXiS as EQUiON - Protogene (Cut Ver.) (FelixSpade) [DOMiNANCE]](https://osu.ppy.sh/beatmapsets/2292615#mania/4895261)
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1KdGgBp5RC5DY7U35M0tdBc-v9sVqGuvN/view)**\
 [Watch the showcase VOD here!](https://www.youtube.com/watch?v=PVX-SyFqXVc)\
-[Watch the Gulano Cup 5 slander here!](https://www.youtube.com/watch?v=p0KmP7AO-Yo)
+[Watch the Gulano Cup #5 slander here!](https://www.youtube.com/watch?v=p0KmP7AO-Yo)
 
 - Rice
   1. [ReeK - The Everlasting Calamity That Shifts The Time - Space Continuum... (Eclipse-) [DISTORTED (edit)]](https://osu.ppy.sh/beatmapsets/2320029#mania/4969969)

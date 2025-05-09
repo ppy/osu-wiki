@@ -179,7 +179,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 
 **[Unduh mappack babak ini di sini! (91 MB)](https://drive.google.com/file/d/1jx6MHwSo7L2JDdpSgf8zTy3cGt0NLoKc/view)**\
 [Tonton VOD showcase di sini!](https://www.youtube.com/watch?v=SjNkzGL41Zc)\
-[Tonton Gulano Cup 5 credits di sini!](https://www.youtube.com/watch?v=QrLgh7Hv3jY)
+[Tonton Gulano Cup #5 credits di sini!](https://www.youtube.com/watch?v=QrLgh7Hv3jY)
 
 - Rice
   1. [AXiS as EQUiON - Protogene (Cut Ver.) (FelixSpade) [DOMiNANCE]](https://osu.ppy.sh/beatmapsets/2292615#mania/4895261)
@@ -207,7 +207,7 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 
 **[Unduh mappack babak ini di sini! (86 MB)](https://drive.google.com/file/d/1KdGgBp5RC5DY7U35M0tdBc-v9sVqGuvN/view)**\
 [Tonton VOD showcase di sini!](https://www.youtube.com/watch?v=PVX-SyFqXVc)\
-[Tonton Gulano Cup 5 slander di sini!](https://www.youtube.com/watch?v=p0KmP7AO-Yo)
+[Tonton Gulano Cup #5 slander di sini!](https://www.youtube.com/watch?v=p0KmP7AO-Yo)
 
 - Rice
   1. [ReeK - The Everlasting Calamity That Shifts The Time - Space Continuum... (Eclipse-) [DISTORTED (edit)]](https://osu.ppy.sh/beatmapsets/2320029#mania/4969969)
