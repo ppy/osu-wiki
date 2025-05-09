@@ -55,10 +55,10 @@ Le panel osu!taiko a été créé le 1er mai 2022 en réponse à [une enquête c
 
 | Profil osu! | Profil GitHub | Date d'adhésion |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1er mai 2022 |
-| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) | 1er mai 2022 |
-| ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) | 25 juillet 2023 |
+| ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1er mai 2022 |
+| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) | 1er décembre 2024 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 septembre 2023 |
+| ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) | 1er décembre 2024 |
 
 #### Previous members
 
@@ -66,6 +66,9 @@ Le panel osu!taiko a été créé le 1er mai 2022 en réponse à [une enquête c
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | 1er mai 2022 | 17 septembre 2023 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1er mai 2022 | 31 octobre 2024 |
+| ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | 25 juillet 2023 | 19 novembre 2024 |
+| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 1er mai 2022 | 24 novembre 2024 |
+| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | 1er décembre 2024 | 6 janvier 2025 |
 
 ### osu!catch
 
@@ -74,9 +77,8 @@ Le panel osu!catch a été constitué le 14 octobre 2023.
 | Profil osu! | Profil GitHub | Date d'adhésion |
 | :-- | :-- | :-- |
 | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 octobre 2023 |
+| ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) | 23 avril 2025 |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) | 14 octobre 2023 |
-| ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | [Sorceress-osu](https://github.com/Sorceress-osu) | 14 octobre 2023 |
-| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | [Zoggoth](https://github.com/Zoggoth) | 14 octobre 2023 |
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 octobre 2023 |
 
 ### osu!mania

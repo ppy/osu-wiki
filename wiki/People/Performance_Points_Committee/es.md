@@ -59,8 +59,8 @@ El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encue
 
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1 de mayo de 2022 |
-| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/22194163) | [Babysnakes101](https://github.com/BabySnakes101) | 1 de diciembre de 2024 |
+| ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1 de mayo de 2022 |
+| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) | 1 de diciembre de 2024 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 de septiembre de 2023 |
 | ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) | 1 de diciembre de 2024 |
 
@@ -81,6 +81,7 @@ El comité de osu!catch se formó el 14 de octubre de 2023.
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
 | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 de octubre de 2023 |
+| ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) | 23 de abril de 2025 |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) | 14 de octubre de 2023 |
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 de octubre de 2023 |
 
