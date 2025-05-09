@@ -1,6 +1,6 @@
 # Client
 
-Trang chín: [Trung tâm trợ giúp](/wiki/Help_centre)
+Trang chính: [Trung tâm trợ giúp](/wiki/Help_centre)
 
 Bạn đang gặp một vài sự cố với client của game? Hãy tìm xem liệu vấn đề của bạn có nằm trong số những vấn đề phổ biến mà người dùng của chúng tôi đang mắc phải ở đây.
 
@@ -8,24 +8,24 @@ Bạn đang gặp một vài sự cố với client của game? Hãy tìm xem li
 
 ### Tôi đã thay đổi cài đặt của mình, và bây giờ tôi không thể bắt đầu osu! hoặc bị treo game {id=incorrect-settings}
 
-**Đặt lại osu! về cài đặt mặc định sẽ khắc phục vấn đề này trong hầu hết các trường hợp.**
+**Đặt lại osu! trở về cài đặt mặc định sẽ khắc phục vấn đề này trong hầu hết các trường hợp.**
 
 Làm theo các bước sau để khôi phục osu! về cài đặt mặc định:
 
-1. Mở osu! trong khi giữ phím `Shift` trên bàn phím của bạn.
+1. Mở osu! trong khi nhấn giữ phím `Shift` trên bàn phím của bạn.
 2. Tiếp tục giữ phím `Shift` cho đến khi bạn thấy hộp thoại khôi phục osu!.
-3. Khi `osu! configuration` mở ra, nhấn nút `reset settings`.
-4. Nếu bạn vẫn không thành công, mở lại hộp thoại và nhấn `repair osu!`.
+3. Khi `osu! configuration (thiết lập osu!)` mở ra, nhấn nút `reset settings (khôi phục cài đặt)`.
+4. Nếu bạn thử rồi mà vẫn không thành công, mở lại hộp thoại và nhấn `repair osu! (sửa chữa osu!)`.
 
 ### osu! đã bị treo khi tôi ấn vào một liên kết hoặc map multiplayer {id=broken-links}
 
-Hãy đảm bảo rằng bạn không chạy osu! ở chế độ tương thích với Windows, và cũng chắc chắn rằng bạn đã xác định trình duyệt web mặc định trong cài đặt hệ thống của mình.
+**Hãy đảm bảo rằng bạn không chạy osu! ở chế độ tương thích với Windows, và cũng chắc chắn rằng bạn đã xác định trình duyệt web mặc định trong cài đặt hệ thống của mình.**
 
-Vấn đề này đôi khi xảy ra do sự tương tác với chế độ tương thích, và cũng có thể do game không tìm thấy trình duyệt mặc định để mở liên kết trang web.
+Vấn đề này đôi khi xảy ra do sự tương tác với chế độ tương thích, và cũng có thể đơn giản do game không tìm thấy trình duyệt mặc định để mở liên kết trang web.
 
 #### Game của bạn có đang chạy dưới chế độ tương thích với Windows không? {id=windows-compatibility}
 
-Để kiểm tra hoặc thay đổi xem game của bạn có đang chạy trong chế độ tương thích với Windows hay không, hãy thử các bước sau:
+Để kiểm tra hoặc thay đổi nếu game của bạn đang chạy trong chế độ tương thích dưới Windows hay không, hãy thử các bước sau:
 
 1. Mở thư mục installation osu! và tìm tệp `osu!.exe`.
 2. Nhấp chuột phải vào `osu!.exe` và chọn `Properties` từ menu thả xuống. 
@@ -82,7 +82,7 @@ Bạn đã xóa hoặc mất các phông chữ hệ thống quan trọng đi kè
 
 Nếu bạn thấy lỗi này khi cố gắng mở osu! hoặc trình cập nhật của nó, điều đó có nghĩa là bạn đã xóa hoặc mất các phông chữ hệ thống quan trọng đi kèm với Windows. Những phông chữ này được sử dụng trên toàn bộ hệ điều hành Windows, vì vậy bạn có thể gặp phải các vấn đề khác, như phông chữ sai, thiếu văn bản và các ứng dụng khác bị sự cố trên toàn bộ Windows.
 
-Dưới đây là một bộ sưu tập các phông chữ phổ biến được sử dụng trong các phiên bản Windows khác nhau và trên toàn web, có thể giúp bạn:
+Dưới đây là một bộ sưu tập các phông chữ phổ biến được sử dụng trong các phiên bản Windows khác nhau và trên toàn web, có thể giúp bạn lấy lại:
 
 - [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, và Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
@@ -137,7 +137,7 @@ Bạn cũng nên kiểm tra xem có phím nào trên thiết bị ngoại vi b�
 
 **Bạn cần giải nén gói này vào thư mục Songs.**
 
-Hầu hết các gói beatmap ở định dạng `.rar`, tức là một kho lưu trữ nén chứa các tệp beatmap. Bạn hãy dùng phần mềm giải nén yêu thích (chúng tôi khuyên dùng [7-Zip]()) để trích xuất toàn bộ các file trong gói vào thư mục "Songs" của bạn trước.
+Hầu hết các gói beatmap đều định dạng tệp bị nén `.rar`, tức là một kho lưu trữ nén chứa các tệp beatmap. Bạn sẽ cần phải giải nén chúng thông qua sử dụng phần mềm giải nén tệp (chúng tôi khuyên dùng [7-Zip](https://7-zip.org)) đến thư mục 'songs' của bạn trước tiên.
 
 Khi tất cả các tệp `.osz` từ gói lưu trữ đã nằm trong thư mục `Songs`, nhấn `F5` ở màn hình chọn bài sẽ làm mới bộ nhớ đệm beatmap và tải các bài hát mới vào game.
 
@@ -147,7 +147,7 @@ Khi tất cả các tệp `.osz` từ gói lưu trữ đã nằm trong thư mụ
 
 Nhấn `Shift` + `Tab` trong khi đang chơi sẽ bật/tắt HUD trong game và cho phép bạn hiển thị lại các thành phần này.
 
-Nếu bạn đã thay đổi phím tắt để bật/tắt bảng điểm, thao tác này sẽ không hoạt động. Bạn có thể kiểm tra tổ hợp phím đang được thiết lập ở `Options` → `Change keyboard bindings` → `In-Game` → `Toggle Scoreboard`. Sau đó, hãy thay thế phím `Tab` bằng phím bạn đã chọn (ví dụ: `Shift` + `V`).
+Nếu bạn đã thay đổi phím tắt để bật/tắt bảng điểm, thao tác này sẽ không hoạt động. Bạn có thể kiểm tra tổ hợp phím đang được thiết lập ở `Options` → `Cài đặt phím` → `In-Game` → `Toggle Scoreboard`. Sau đó, hãy thay thế phím `Tab` bằng phím bạn đã chọn (ví dụ: `Shift` + `V`).
 
 ### Điểm số cá nhân của tôi bị mất! {id=no-scores}
 
@@ -159,7 +159,7 @@ Có một vài lý do có thể dẫn đến tình trạng này. Hãy đọc ti�
 
 Rất tiếc, những điểm số này đã mất,Tuy nhiên — những điểm số bạn đã nộp trực tuyến vẫn còn — chỉ cần tải lại bất kỳ bài hát nào bạn đã chơi trước đó, và điểm số của bạn sẽ xuất hiện lại.
 
-Mẹo hữu ích: nếu bạn là osu!supporter, bạn có thể sử dụng bộ lọc `Ranked (Played)` trong bảng osu!direct trong game hoặc qua `trang danh sách nghe beatmap` để tìm bất kỳ map nào bạn đã đạt điểm trong quá khứ.
+Mẹo hữu ích: nếu bạn là osu!supporter, bạn có thể sử dụng bộ lọc `Ranked (Đã chơi)` trong bảng osu!direct trong game hoặc qua `trang danh sách nghe beatmap` để tìm bất kỳ map nào bạn đã đạt điểm trong quá khứ.
 
 #### Bạn có đang chọn đúng chế độ game không? {id=no-scores-game-mode}
 
@@ -179,7 +179,7 @@ Chơi game hoặc làm việc khác sẽ giúp client bắt kịp tiến độ t
 
 **Đây là một tính năng đặc biệt gọi là *smoke*, cho phép bạn vẽ nguệch ngoạc lên màn hình chơi để giải trí. Bất cứ ai đang theo dõi bạn cũng sẽ thấy những gì bạn vẽ.**
 
-Phím tắt mặc định cho tính năng này là `C`, và nó sẽ hoạt động miễn bạn giữ phím này. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục `osu!` của hộp thoại `cài đặt phím`.
+Phím tắt mặc định cho tính năng này là `C` và nó sẽ hoạt động khi bạn giữ phím này. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục Options của `osu!` ở hộp thoại `cài đặt phím`.
 
 ### Làm sao để lưu lại bản replay cho điểm số tôi vừa đạt được? {id=save-replay}
 
@@ -225,7 +225,7 @@ Hãy thử đóng các chương trình thừa trước khi chơi osu! nếu bạ
 
 Trong menu chọn bài, hãy kiểm tra góc trên bên trái màn hình để xem có biểu tượng nhỏ nào không (ví dụ, một beatmap đã được xếp hạng sẽ hiển thị biểu tượng mũi tên màu xanh lam ở góc trên bên trái). Nếu beatmap của bạn không hiển thị bất kỳ biểu tượng nào, hoặc biểu tượng hiển thị sai thì điểm số của bạn cũng không thể được gửi đi.
 
-![](img/correct-map-status.png "Đây là những gì nó sẽ trông như thế nào")
+![](img/correct-map-status.png "Đây là những gì và nó sẽ trông như thế nào")
 
 Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng địa phương có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!](#missing-beatmaps)" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
 
@@ -243,30 +243,30 @@ Nếu bạn bị từ chối điểm số vì lý do kỹ thuật hoặc lý do 
 
 ### Các nốt nhạc có vẻ bị lệch hoặc không đúng thời gian với nhạc! {id=offsync-notes}
 
-**Điều này có thể do phần mềm xử lý âm thanh đang chạy trên máy của bạn, chẳng hạn như *Razer Surround Audio*. Nó cũng có thể là do `Universal Offset` của bạn bị cài đặt sai.**
+**Điều này có thể do phần mềm xử lý âm thanh đang chạy trên máy của bạn, chẳng hạn như *Razer Surround Audio*. Nó cũng có thể là do `độ trễ` của bạn bị cài đặt sai.**
 
-Hãy thử đóng bất kỳ chương trình phụ nào có thể thay đổi hoặc ảnh hưởng đến âm thanh phát ra từ máy tính của bạn. Nếu điều này không giúp được, bạn có thể thử điều chỉnh lại `Universal Offset` của mình.
+Hãy thử đóng bất kỳ chương trình phụ nào có thể thay đổi hoặc ảnh hưởng đến âm thanh phát ra từ máy tính của bạn. Nếu điều này không giúp được, bạn có thể thử điều chỉnh lại `độ trễ` của mình.
 
-Mỗi cấu hình phần cứng có một `Universal Offset` riêng, xác định liệu bạn có nghe âm thanh của game hơi trễ hay hơi sớm.
+Mỗi cấu hình phần cứng có một `độ trễ` riêng, xác định liệu bạn có nghe âm thanh của game hơi trễ hay hơi sớm.
 
 Giá trị mặc định hoạt động tốt với hầu hết mọi người, nhưng nếu bạn thấy nó không phù hợp với mình, bạn có thể thay đổi nó theo các bước sau:
 
 1. Mở osu!.
 2. Nhấn nút `Options` trong menu chính, hoặc nhấn `Ctrl + O`.
-3. Gõ `offset` vào thanh tìm kiếm nhanh. Điều này sẽ đưa bạn đến Universal Offset hiện tại mà client của bạn đang sử dụng.
-4. Sử dụng thanh trượt để điều chỉnh Universal Offset của bạn. Ngoài ra, bạn có thể thử sử dụng công cụ [offset wizard](/wiki/Client/Options/Offset_Wizard) để giúp bạn thực hiện quá trình này.
+3. Gõ `offset` vào thanh tìm kiếm nhanh. Điều này sẽ đưa bạn đến độ trễ hiện tại mà client của bạn đang sử dụng.
+4. Sử dụng thanh trượt để điều chỉnh độ trễ phù hợp với nhịp thanh trượt của bạn. Ngoài ra, bạn có thể thử sử dụng [offset wizard](/wiki/Client/Options/Offset_Wizard) để giúp bạn thực hiện quá trình này.
 
-Nếu vẫn không giúp được, bạn có thể thử cập nhật driver card âm thanh hoặc driver âm thanh của bo mạch chủ.
+Nếu điều này vẫn không giúp được, bạn có thể thử cập nhật card âm thanh hoặc drivers audio của bo mạch chủ.
 
 ### Game của tôi bị lỗi đồ họa, như kiểu bị xé hình! {id=screen-tearing}
 
-**Điều này do một hiệu ứng gọi là [xé màn hình](https://en.wikipedia.org/wiki/Screen_tearing) và có thể được khắc phục bằng cách đặt tuỳ chọn `Frame limiter` trong game thành `VSync`.**
+**Điều này do một hiệu ứng gọi là [xé màn hình](https://en.wikipedia.org/wiki/Screen_tearing) và có thể được khắc phục bằng cách đặt lại phần tuỳ chọn `Frame limiter` trong game thành `VSync`.**
 
 Đây là một hiệu ứng vô hại (mặc dù nhìn khá xấu!) xảy ra vì tốc độ làm mới của game không đồng bộ với tốc độ làm mới của màn hình.
 
-Bạn cũng có thể thử chơi ở chế độ Windowed hoặc Borderless, điều này sẽ sử dụng VSync của hệ điều hành thay vào đó.
+Bạn cũng có thể thử chơi ở chế độ cửa sổ hoặc không viền, điều này sẽ sử dụng VSync gốc thay thế của hệ thống đang vận hành.
 
-Tuy nhiên, việc bật VSync hoặc chơi ở chế độ `cửa sổ` hoặc `không viền` có thể gây một chút độ trễ đầu vào. Đối với hầu hết mọi người, điều này sẽ không gây ra vấn đề đáng kể.
+Tuy nhiên, việc bật VSync hoặc chơi ở chế độ `cửa sổ` hoặc `không viền` sẽ gây ra một *chút* độ trễ đầu vào. Đối với hầu hết mọi người, điều này sẽ không gây ra vấn đề đáng kể.
 
 Các card đồ họa NVidia mới hơn có một tuỳ chọn toàn cục trong NVidia Control Panel để thiết lập tần số làm mới toàn cục thành một cài đặt gọi là 'Fast', điều này cũng sẽ khắc phục được vấn đề này.
 
@@ -332,7 +332,7 @@ Chúng tôi cần kết quả từ lệnh trace route đối với các máy ch�
 
 **Máy chủ có thể đang gặp sự cố.**
 
-Hãy kiểm tra trang [trạng thái máy chủ osu!](https://status.ppy.sh/ "osu! server status") để xem có vấn đề nào đang diễn ra không.
+Hãy kiểm tra trang [trạng thái máy chủ osu!](https://status.ppy.sh/ "trạng thái máy chủ osu!") để xem có vấn đề nào đang diễn ra không.
 
 **Lỗi này cũng có thể xảy ra nếu bạn đang sử dụng kết nối internet chia sẻ, proxy, hoặc VPN.** 
 
@@ -433,11 +433,11 @@ Chúng tôi cũng khuyên bạn nên đảm bảo rằng các thiết bị ngo�
 
 Trên hầu hết tablet Wacom, việc này được thực hiện trong tab `Mapping` của ứng dụng `Wacom Tablet Properties`.
 
-![Wacom Tablet Properties screen showing Mapping options](img/tablet-area.png "Giao diện thay đổi vùng bảng trên thiết bị Wacom")
+![Màn hình Thuộc tính Bảng Vẽ Wacom hiển thị các tùy chọn thiết lập bút và tương tác bảng vẽ](img/tablet-area.png "Giao diện thay đổi vùng bảng trên thiết bị Wacom")
 
-Bạn sẽ cần tham khảo hướng dẫn từ nhà sản xuất tablet của bạn để biết cách thiết lập vùng hoạt động (tablet area) cho thiết bị cụ thể.
+Bạn sẽ cần tham khảo hướng dẫn từ nhà sản xuất tablet của bạn để biết cách thiết lập vùng hoạt động cho thiết bị cụ thể.
 
-Tất cả các tablet chính hãng osu! đều hỗ trợ raw input theo mặc định, và bạn có thể dễ dàng điều chỉnh độ nhạy ngay lập tức bằng cách bật tùy chọn raw input trong game và sử dụng thanh trượt độ nhạy chuột.
+Tất cả các tablet chính hãng osu! đều hỗ trợ raw input theo mặc định, và bạn có thể dễ dàng điều chỉnh độ nhạy ngay lập tức bằng cách bật tùy chọn raw input trong game và sử dụng thanh trượt tăng hoặc giảm trong phần `độ nhạy chuột`.
 
 ### Tôi đang gặp hiện tượng giật lag hoặc giật hình khi chơi! {id=lag-spikes}
 
@@ -447,19 +447,19 @@ Tất cả các tablet chính hãng osu! đều hỗ trợ raw input theo mặc 
 
 **Một số tiến trình nền có thể cạnh tranh tài nguyên với osu! và làm cho trải nghiệm chơi rất khó chịu.**
 
-Hãy thử đóng bớt những chương trình không cần thiết khi đang chơi game/hoặc đóng hết chúng đi.
+Hãy thử đóng bớt những chương trình bạn cảm thấy không cần thiết khi đang chơi game/hoặc đóng hết chúng đi.
 
 #### Máy tính của bạn có được bảo mật không? {id=lag-infected-pc}
 
-**Virus, spyware, malware hoặc các phần mềm không mong muốn khác có thể gây ra vấn đề hiệu năng nghiêm trọng ngay cả trên những máy cấu hình cao.**
+**Virus, phần mềm gián điệp, chương trình độc hại hoặc các phần mềm không mong muốn khác có thể gây ra vấn đề hiệu năng nghiêm trọng với những máy cấu hình cao.**
 
-Giữ cho máy tính của bạn sạch sẽ và an toàn, bạn có thể nhận thấy hiệu năng được cải thiện. Hãy thử chạy phần mềm quét virus để phát hiện và loại bỏ những mối nguy hại.
+Giữ cho máy tính của bạn sạch sẽ và an toàn và bạn có thể nhận thấy hiệu năng được cải thiện. Hãy thử chạy phần mềm quét virus trên máy tính của bạn để phát hiện và loại bỏ những mối nguy hại.
 
 #### Máy tính của bạn bao nhiêu tuổi rồi? {id=lag-old-pc}
 
-**Những máy tính quá cũ, đặc biệt là sử dụng chip đồ họa tích hợp Intel đời rất cũ, có thể không đủ mạnh để chạy osu! một cách mượt mà, kể cả khi để ở thiết lập thấp nhất.**
+**Các trình điều khiển cũ có thể gây ra những vấn đề nghiêm trọng về hiệu suất. Hãy đảm bảo rằng bạn luôn cập nhật tất cả các trình điều khiển bất cứ khi nào có thể.**
 
-Cách duy nhất để xử lý vấn đề này là nâng cấp máy tính của bạn!
+Trình điều khiển card đồ họa đặc biệt quan trọng đối với osu!, cũng như trình điều khiển card âm thanh.
 
 #### Driver của bạn có được cập nhật không? {id=lag-old-driver}
 
