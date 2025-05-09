@@ -14,3 +14,4 @@ Index page for all of the UK Community Cup series.
 - [UK Community Cup X](X)
 - [UK Community Cup 10](10)
 - [UK Community Cup 11](11)
+- [UK Community Cup 12](12)
