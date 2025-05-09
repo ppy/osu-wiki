@@ -41,7 +41,7 @@ The osu!catch World Cup 2025 offers a $2,000 prize pool along with limited-editi
 
 Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is May 22, 23:59 UTC. Make sure to submit yours before then!**
 
-*Notice: you may only participate if your position in the osu!taiko global ranking is #5,000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
+*Notice: you may only participate if your position in the osu!catch global ranking is #5,000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
