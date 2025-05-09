@@ -10,8 +10,6 @@ tags:
   - 工作人员
   - osu!团队
   - osu! 团队
-outdated_translation: true
-outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 ---
 
 # 团队
@@ -41,8 +39,9 @@ outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者 |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [管理员](/wiki/People/Global_Moderation_Team)，摸图和作图领域顾问 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube 频道](https://www.youtube.com/@osugame)主，[谱师工会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者，精选艺术家募集者 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 摸图和作图领域顾问 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导，摸图和作图领域顾问 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [管理员](/wiki/People/Global_Moderation_Team)，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | 世界杯设计协调员 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 秩序维护员 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者，osu!mania 社区喜爱评估者，bug 杀手（测试工程师） |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! 开发者 |
