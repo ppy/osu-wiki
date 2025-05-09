@@ -179,7 +179,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (91 MB)](https://drive.google.com/file/d/1jx6MHwSo7L2JDdpSgf8zTy3cGt0NLoKc/view)**\
 [Watch the showcase VOD here!](https://www.youtube.com/watch?v=SjNkzGL41Zc)\
-[Watch the Gulano Cup #5 credits here!](https://www.youtube.com/watch?v=QrLgh7Hv3jY)
+[Watch the Gulano Cup #5 credit roll here!](https://www.youtube.com/watch?v=QrLgh7Hv3jY)
 
 - Rice
   1. [AXiS as EQUiON - Protogene (Cut Ver.) (FelixSpade) [DOMiNANCE]](https://osu.ppy.sh/beatmapsets/2292615#mania/4895261)
