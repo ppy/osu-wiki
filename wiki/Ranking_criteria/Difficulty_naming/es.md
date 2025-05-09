@@ -1,8 +1,8 @@
-+ ---
-+ outdated_translation: true
-+ outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
-+ ---
-+
+---
+outdated_translation: true
+outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
+---
+
 # Nombramiento de las dificultades
 
 El objetivo del nombramiento de las dificultades es informar a los jugadores de lo difícil que es un mapa. En este artículo se enumeran los usos comunes, así como otras alternativas que se han ido recopilando a lo largo de los años. Sin embargo, siempre que el conjunto de los nombres de las dificultades sean descriptivos e indiquen claramente la progresión de la dificultad, puedes usar cualquier tipo de esquema que quieras.
