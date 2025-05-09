@@ -188,7 +188,7 @@ The osu!catch World Cup 2025 is run by various community members.
    - The player using Hard Rock may choose to use Hidden and Hard Rock or just Hard Rock.
 9. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
-10. The tiebreaker will be played under FreeMod conditions, but players are exempt from the mod requirement.
+10. The tiebreaker will be played under Free Mod conditions, but players are exempt from the mod requirement.
 
 ### Scheduling instructions
 
