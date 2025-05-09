@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2025: Registrations Now Open!"
-date: 2025-05-08 00:00:00 +0000
+date: 2025-05-09 12:00:00 +0000
 ---
 
 Calling out all fruit catchers for the 2025 osu!catch World Cup!
@@ -10,14 +10,14 @@ Calling out all fruit catchers for the 2025 osu!catch World Cup!
 
 There are no major changes planned for this year's CWC, as we're focusing on improving the player experience on our very familiar 3v3 double-elimination format.
 
-As always, for more details pertaining to the tournament, please refer to the **[osu!catch World Cup 2025 wiki article](/wiki/Tournaments/CWC/2025)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+As always, for more details pertaining to the tournament, please refer to the **[osu!catch World Cup 2025 wiki article](/wiki/Tournaments/CWC/2025)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2076961)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | May 8 (00:00 UTC) — May 22 (23:59 UTC) |
+| Registration phase | May 9 (12:00 UTC) — May 22 (23:59 UTC) |
 | Qualifier showcase | June 1 (14:00 UTC) |
 | Qualifier stage | June 7 & June 8 |
 | Round of 32 | June 14 & June 15 |
@@ -29,7 +29,7 @@ As always, for more details pertaining to the tournament, please refer to the **
 
 ## Prizes
 
-The osu!catch World Cup 2025 offers a $2,000 prize pool, along with limited-edition merch!
+The osu!catch World Cup 2025 offers a $2,000 prize pool along with limited-edition merch!
 
 - **1st:** 50% of the prize pool, single-run merch, profile badge, **osu!catch Champion** user title for one year
 - **2nd:** 30% of the prize pool, single-run merch, profile badge

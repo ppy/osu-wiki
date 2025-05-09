@@ -52,7 +52,7 @@ The osu!catch World Cup 2025 is run by various community members.
 ## Links
 
 - **[Sign up here](https://osu.ppy.sh/community/tournaments/50)**
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2076961)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset
