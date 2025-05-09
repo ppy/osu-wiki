@@ -12,7 +12,6 @@ There are no major changes planned for this year's CWC, as we're focusing on imp
 
 As always, for more details pertaining to the tournament, please refer to the **[osu!catch World Cup 2025 wiki article](/wiki/Tournaments/CWC/2025)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2076961)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
-
 ## Tournament schedule
 
 | Event | Timestamp |
