@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Squad Global Taiko Showdown 2025: Registrations Now Open!"
-date: 2025-05-06 12:00:00 +0000
+date: 2025-05-09 21:00:00 +0000
 ---
 
 We invite you to challenge the world in a 3v3 drum-smashing showdown — get ready for SGTS 2025, its third and final iteration!
 
-![](/wiki/shared/news/2025-05-05-squad-global-taiko-showdown-2025-registrations-now-open/banner.jpg)
+![](/wiki/shared/news/2025-05-09-squad-global-taiko-showdown-2025-registrations-now-open/banner.jpg)
 
 The [Squad Global Taiko Showdown](https://osu.ppy.sh/community/forums/topics/2075637) has been at the forefront of osu!taiko team tournament scene, offering a 3v3 format where players are entirely free to choose their teammates!
 
