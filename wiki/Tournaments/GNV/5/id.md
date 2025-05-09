@@ -22,7 +22,7 @@ tags:
 | Babak 64 Besar | 2025-01-08/2025-01-13 |
 | Babak 32 Besar | 2025-01-15/2025-01-20 |
 | Babak 16 Besar | 2025-01-22/2025-01-27 |
-| Perempat Final | 2025-01-26/2025-02-03 |
+| Perempat Final | 2025-01-29/2025-02-03 |
 | Semifinal | 2025-02-05/2025-02-10 |
 | Final | 2025-02-12/2025-02-17 |
 | Grand Final | 2025-02-19/2025-02-24 |
@@ -44,14 +44,14 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 | :-- | :-- |
 | Penyelenggara | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
 | Pengurus | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [AsanagiYori](https://osu.ppy.sh/users/17223636), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Pemilih map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Pembuat map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[-SVzzZ-]](https://osu.ppy.sh/users/26574578), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Sarahkuai](https://osu.ppy.sh/users/5246861), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Who_is_Marpang](https://osu.ppy.sh/users/24787752) |
-| Penguji map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [[ReyZ]](https://osu.ppy.sh/users/16768803), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
+| Pemilih map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
+| Pembuat map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[-SVzzZ-]](https://osu.ppy.sh/users/26574578), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Sarahkuai](https://osu.ppy.sh/users/5246861), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Who_is_Marpang](https://osu.ppy.sh/users/24787752) |
+| Penguji map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
 | Penyiar | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Hookseye](https://osu.ppy.sh/users/19030920), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) |
 | Wasit | ::{ flag=ID }:: [[ Friz ]](https://osu.ppy.sh/users/9382787), ::{ flag=ID }:: [[ Raiid ]](https://osu.ppy.sh/users/20037405), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [exvius](https://osu.ppy.sh/users/15822192), ::{ flag=ID }:: [FerryAnanda](https://osu.ppy.sh/users/20788796), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [My Angel Satori](https://osu.ppy.sh/users/15522414), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
 | Komentator | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
-| Desainer | ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [AuristelaVlyn](https://osu.ppy.sh/users/26772932), ::{ flag=ID }:: chaji[^komisi] ([Instagram](https://www.instagram.com/chaji_8736/)), ::{ flag=ID }:: EnZore[^komisi] ([Facebook](https://www.facebook.com/enjor.s/)), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [vexule-](https://osu.ppy.sh/users/18215071) |
-| Programmer | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272) |
+| Desainer | ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [AuristelaVlyn](https://osu.ppy.sh/users/26772932), ::{ flag=ID }:: chaji[^komisi] ([Instagram](https://www.instagram.com/chaji_8736/)), ::{ flag=ID }:: EnZore[^komisi] ([Facebook](https://www.facebook.com/enjor.s/)), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [vexule-](https://osu.ppy.sh/users/18215071) |
+| Programmer | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) |
 | Komposer | ::{ flag=ID }:: Altair Aquila[^komisi] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^komisi] ([YouTube](https://www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^komisi] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^komisi] ([SoundCloud](https://soundcloud.com/typemars)) |
 | Pengelola spreadsheet | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
 | Statistisi | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
@@ -113,6 +113,7 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 | #5401 | ::{ flag=ID }:: [MrFlinxy](https://osu.ppy.sh/users/4681744) |
 | #5442 | ::{ flag=ID }:: [syamisu-](https://osu.ppy.sh/users/23484954) |
 | #5535 | ::{ flag=ID }:: [ImOyZo](https://osu.ppy.sh/users/14875989) |
+| #5583 | ::{ flag=ID }:: [Dogethedoge25](https://osu.ppy.sh/users/15597315) |
 | #5609 | ::{ flag=ID }:: [-Nandakai-](https://osu.ppy.sh/users/31299157) |
 | #5851 | ::{ flag=ID }:: [tentrempm](https://osu.ppy.sh/users/8346342) |
 | #6177 | ::{ flag=ID }:: [Catzu](https://osu.ppy.sh/users/11330898) |
@@ -158,7 +159,6 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 | #53810 | ::{ flag=ID }:: [RealTBNRKenny](https://osu.ppy.sh/users/17731576) |
 | #109156 | ::{ flag=ID }:: [anteiku7](https://osu.ppy.sh/users/7013247) |
 | #123939 | ::{ flag=ID }:: [vivol](https://osu.ppy.sh/users/31408326) |
-| #12341933 | ::{ flag=ID }:: [Dogethedoge25](https://osu.ppy.sh/users/15597315) |
 
 ## Podium
 
@@ -178,7 +178,8 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 ### Grand Final
 
 **[Unduh mappack babak ini di sini! (91 MB)](https://drive.google.com/file/d/1jx6MHwSo7L2JDdpSgf8zTy3cGt0NLoKc/view)**\
-[Tonton VOD showcase di sini!](https://www.youtube.com/watch?v=SjNkzGL41Zc)
+[Tonton VOD showcase di sini!](https://www.youtube.com/watch?v=SjNkzGL41Zc)\
+[Tonton Gulano Cup 5 credits di sini!](https://www.youtube.com/watch?v=QrLgh7Hv3jY)
 
 - Rice
   1. [AXiS as EQUiON - Protogene (Cut Ver.) (FelixSpade) [DOMiNANCE]](https://osu.ppy.sh/beatmapsets/2292615#mania/4895261)
@@ -200,12 +201,13 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
   1. [Tokyo Machine - BLEEP BLOOP ([-SVzzZ-]) [POWER COGS]](https://osu.ppy.sh/beatmapsets/2325533#mania/4984847)
   2. [ISOKNOCK feat. Bantu - ENERGY (Ainer) [amfilinyaenaji debeslaintekontollomi]](https://osu.ppy.sh/beatmapsets/2325529#mania/4984835)
 - Tiebreaker
-  1. **[morethanahalf & typeMARS - Kemilau Fana feat. Altair Aquila & Mariela Riona (Revv-, -Yubi-, [-SVzzZ-], Aikiyo Fuuka, Ainer, Angki, Antipole, danar, eZmmR, FelixSpade, Fyl, Ilham, Kada-, nayuu, Onta_Bekasi, Raakcon, Reihynn, Reyi, Sarahkuai, Syadow-, Syadow-, Virtue- & Who_is_Marpang) [Menuliskan Takdir di Atas Abu Keraguan]](https://osu.ppy.sh/beatmapsets/2325708#mania/5008074)**
+  1. **[morethanahalf & typeMARS - Kemilau Fana feat. Altair Aquila & Mariela Riona (Revv-, -Yubi-, [-SVzzZ-], Aikiyo Fuuka, Ainer, Angki, Antipole, danar, eZmmR, FelixSpade, Fyl, Ilham, Kada-, nayuu, Onta_Bekasi, Raakcon, Reihynn, Reyi, Sarahkuai, Syadow-, Virtue- & Who_is_Marpang) [Menuliskan Takdir di Atas Abu Keraguan]](https://osu.ppy.sh/beatmapsets/2325708#mania/5008074)**
 
 ### Final
 
 **[Unduh mappack babak ini di sini! (86 MB)](https://drive.google.com/file/d/1KdGgBp5RC5DY7U35M0tdBc-v9sVqGuvN/view)**\
-[Tonton VOD showcase di sini!](https://www.youtube.com/watch?v=PVX-SyFqXVc)
+[Tonton VOD showcase di sini!](https://www.youtube.com/watch?v=PVX-SyFqXVc)\
+[Tonton Gulano Cup 5 slander di sini!](https://www.youtube.com/watch?v=p0KmP7AO-Yo)
 
 - Rice
   1. [ReeK - The Everlasting Calamity That Shifts The Time - Space Continuum... (Eclipse-) [DISTORTED (edit)]](https://osu.ppy.sh/beatmapsets/2320029#mania/4969969)
@@ -641,7 +643,7 @@ Sabtu, 22 Februari 2025:
 | Bracket | Pemain 1 |  |  | Pemain 2 | Tautan pertandingan | Tautan VOD |  |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- | :-- |
 | SHOW | GENG MOTOR | 4 | **5** | **GENG MAFIA** | [#1](https://osu.ppy.sh/community/matches/117263740) | [#1](https://www.youtube.com/watch?v=w1MtoVGTplI) | Showmatch wildcard (staf lawan pemain) |
-| Cond | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/community/matches/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) |  |
+| Upper | **lisachandra** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [LS]Robi | [#1](https://osu.ppy.sh/community/matches/117265369) | [#1](https://www.youtube.com/watch?v=-vzY7mR6bPE) |  |
 
 ### Final
 
