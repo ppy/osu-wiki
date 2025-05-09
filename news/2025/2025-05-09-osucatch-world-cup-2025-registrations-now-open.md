@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2025: Registrations Now Open!"
-date: 2025-05-09 12:00:00 +0000
+date: 2025-05-09 15:00:00 +0000
 ---
 
 Calling out all fruit catchers for the 2025 osu!catch World Cup!
