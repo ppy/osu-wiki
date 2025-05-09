@@ -47,7 +47,7 @@ Nama-nama tingkat kesulitan ini paling umum digunakan untuk setiap mode permaina
 
 ## Skema penamaan tingkat kesulitan dari game lain
 
-Mapset yang memiliki lagu yang berasal dari game lain sering kali menggunakan skema penamaan tingkat kesulitan game tersebut. Penggunaan nama tingkat kesulitan ini dapat diterima untuk lagu apa pun. Beberapa skema penamaan umum yang masuk ke dalam osu! terdaftar di sini:
+Mapset yang memiliki lagu yang berasal dari game ritme lain sering kali menggunakan skema penamaan tingkat kesulitan game tersebut. Penggunaan nama tingkat kesulitan ini dapat diterima untuk lagu apa pun. Beberapa skema penamaan umum yang masuk ke dalam osu! terdaftar di sini:
 
 ### Beatmania IIDX
 

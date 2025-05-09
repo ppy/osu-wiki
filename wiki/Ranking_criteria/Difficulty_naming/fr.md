@@ -1,6 +1,9 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
 ---
+
 
 # Noms des difficultés
 
@@ -57,7 +60,7 @@ Ces noms de difficultés sont les plus couramment utilisés pour chaque mode de 
 
 ## Noms des difficultés provenant d'autres jeux
 
-Les mapsets des musiques issues d'autres jeux de empruntent souvent le système de dénomination des difficultés de ces jeux. L'utilisation de ces noms de difficultés est acceptable pour n'importe quelle musique. Certains des schémas de noms courants qui ont fait leur chemin dans osu! sont listés ici :
+Les mapsets des musiques issues d'autres jeux de rythme empruntent souvent le système de dénomination des difficultés de ces jeux. L'utilisation de ces noms de difficultés est acceptable pour n'importe quelle musique. Certains des schémas de noms courants qui ont fait leur chemin dans osu! sont listés ici :
 
 ### Beatmania IIDX
 
