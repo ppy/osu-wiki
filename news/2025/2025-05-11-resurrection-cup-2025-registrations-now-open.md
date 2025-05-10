@@ -14,13 +14,13 @@ The renaissance is upon us with Resurrection Cup returning for a 2025 iteration 
 
 Over the past couple years, we have had the joy of sharing 40 originals with you. You can expect that trend to continue this year as well since, after the Qualifiers have finished, we will be releasing multiple original songs in every single mappool. If you thought last year was good, you bet we are going to surpass expectations this year as well, so be sure to tune in.
 
-If you haven't seen it yet, here is a crossfade of the upcoming *Wishes for Tomorrow* album which will include 22 of them!
+22 of last year's songs will also later be released as part of an album. To get a feeling of what this tournament has to offer sound-wise, here's a sample:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/uA8mW0SXhxg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Cannot get enough of Resurrection cup? Make sure to check out the [maps and songs in question](/wiki/osu!_originals#resurrection-cup-2024).
+Can't get enough of Resurrection cup? Make sure to check out the [maps and songs in question](/wiki/osu!_originals#resurrection-cup-2024).
 
 ## What's new?
 
@@ -50,9 +50,9 @@ You can head over to the [website](https://rescup.xyz/) to find out more details
 To register, head over to the [website](https://rescup.xyz/) to connect your osu! and Discord account, as well as setting up your team! Before registering, please make sure that:
 
 - You have not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.
-- You have joined the [ResCup25 official Discord server](https://discord.com/invite/UNzyfgGfeu).
+- You have joined the [ResCup25 Discord server](https://discord.com/invite/UNzyfgGfeu).
 
-On top of that, you are required to sign up with a team of at least 3 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.gg/UNzyfgGfeu) should be where you are heading first before signing up!
+On top of that, you are required to sign up with a team of at least 3 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.com/invite/UNzyfgGfeu) should be where you are heading first before signing up!
 
 We also encourage spectators to join the [ResCup Discord server](https://discord.com/invite/UNzyfgGfeu) in order to keep up with all important announcements and livestream notifications. For more information, check out the [forum post](https://osu.ppy.sh/community/forums/topics/2076778), [wiki page](/wiki/Tournaments/RESC/2025), and the [tournament website](https://rescup.corsace.io/). We hope to see you around, either as a player or spectator!
 

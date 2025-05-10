@@ -76,7 +76,7 @@ tags:
 2. 32 teams will qualify for the bracket stage, chosen through Qualifier Stage.
 3. All maps will be played with No Fail enabled, in addition to the appropriate mods.
 4. All matches must take place between Friday 23:59 UTC and Sunday 23:59 UTC.
-5. Reschedules must be submitted before Thursdays at 23:59 UTC during the week a round is to take place. Teams can reschedule by using the `/matchup_reschedule` command in the Discord. Exceptions are made on a case-by-case basis.
+5. Reschedules must be submitted before Thursdays at 23:59 UTC during the week a round is to take place. Teams can reschedule by using the `/matchup_reschedule` command in the Discord server. Exceptions are made on a case-by-case basis.
 6. Staff are prohibited from playing in the tournament with the exception of streamers, commentators, and GFX artists.
 
 ### Registration
@@ -104,13 +104,13 @@ tags:
 
 1. Teams shall have their own lobby freely scheduled by themselves on the [website](https://rescup.xyz/), and run by the [Corsace bot](https://osu.ppy.sh/users/29191632).
 2. Last lobby for Qualifiers round cannot start after June 1st 15:00 UTC.
-3. If a team doesn't show up to their scheduled Qualifiers lobby, they may play in any other lobby.
+3. If a team does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
 4. Each map will be played in order as they are shown on the mappool sheet. There will be one playthrough of the pool.
 5. 90 second timers are used for teams to swap members and ready up.
 6. Teams complete registration by playing qualifiers.
 7. Rosters are locked after play. Changes are not allowed under any circumstance.
 8. Due to this process, teams with players who are screened out will be disqualified from the tournament.
-9. Top 32 seeded teams using z-sum, scaled between 0 and 100, will proceed to Bracket Stage.
+9. Top 32 seeded teams using Z-sum, scaled between 0 and 100, will proceed to Bracket Stage.
 
 ### Bracket stage procedure
 
@@ -137,8 +137,8 @@ tags:
 
 ### Disconnections
 
-1. In the event of a disconnection, an abort/replay may be called if it occurred within the first 30 seconds of the map. Other than that, common sense will be applied. If proof exists of the disconnected player's score, it can be used. If it is at all ambiguous, the player’s score is considered void.
-2. Disconnections are considered to be unexpected, game-breaking events out of a player’s control (i.e. keyboard/tablet/mouse malfunction, system failure, internet disconnect, etc). Offset, background dim, leaderboard presence, etc. ARE NOT considered valid reasons to call for an abort/replay as players should fix these on their own.
+1. In the event of a disconnection, an abort/replay may be called if it occurred within the first 30 seconds of the map. Other than that, common sense will be applied. If proof exists of the disconnected player's score, it can be used. If it is at all ambiguous, the player's score is considered void.
+2. Disconnections are considered to be unexpected, game-breaking events out of a player's control (i.e. keyboard/tablet/mouse malfunction, system failure, internet disconnect, etc). Offset, background dim, leaderboard presence, etc. ARE NOT considered valid reasons to call for an abort/replay as players should fix these on their own.
 
 ### Stage and mappool information
 
@@ -152,9 +152,9 @@ tags:
 | Finals | 13 | 2 | 8.1★ | 5 | 3 | 3 | 4 | 4 | 1 |
 | Grandfinals | 13 | 2 | 8.5★ | 5 | 3 | 3 | 4 | 4 | 1 |
 
-### Freemod rules
+### Free Mod rules
 
-1. Free Mod Rules: Allowed mods are HD, HR, FL and EZ (1.75x). Each team must have at least one player with HD only and one player with HR only
+1. The allowed mods are HD, HR, FL and EZ (1.75x). Each team must have at least one player with HD only and one player with HR only
 2. Tiebreakers are played with Free Mod enabled, however, do not require players to use a mod
 
 ## Notes
