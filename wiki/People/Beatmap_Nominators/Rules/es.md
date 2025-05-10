@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0999c552fd724a67b184a82f76e8de60ad86790f
----
-
 # Reglas para los Beatmap Nominators
 
 Las reglas enumeradas aquí afectan a lo que los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) pueden y no pueden hacer cuando nominan beatmaps, así como marcan la conducta general que se espera de ellos. Estas reglas son el resultado de una discusión interna del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) y han tenido en cuenta los comentarios de los Beatmap Nominators sobre su propuesta.
@@ -69,7 +64,7 @@ Cuando se haya creado la evaluación de un Beatmap Nominator y aún tenga que cu
 Consulta la página de [veto de los beatmaps](/wiki/People/Beatmap_Nominators/Beatmap_Veto) para obtener información completa sobre el proceso de un veto.
 
 - **No vetes beatmaps de los modos de juego para los que no estás debidamente autorizado.** No puedes nominarlos, por lo que bloquear una nominación sin la posibilidad de volver a nominar el beatmap no tiene sentido. Esto no se aplica a los vetos relativos al audio, los fondos u otro contenido que no esté directamente relacionado con el modo de juego del beatmap.
-- **Puedes vetar un beatmap publicando los problemas que crees que deben solucionarse antes de alcanzar el estado de clasificación en la sección correspondiente de la discusión del modding** Esto restablecerá cualquier nominación que haya recibido el beatmap y, por lo tanto, evitará que continúe con la clasificación. Los demás nominadores no podrán volver a nominarlo hasta que se retire el veto. La publicación del veto debe incluir un problema y un razonamiento claro para detener el proceso de clasificación del beatmap. Debes participar en la discusión resultante e intentar llegar a un acuerdo mutuo.
+- **Puedes vetar un beatmap publicando los problemas que crees que deben solucionarse antes de alcanzar el estado clasificado en forma de problemas o sugerencias en la sección correspondiente de la discusión de modding** Esto impedirá que el beatmap avance hacia la clasificación. Un beatmap calificado puede ser vetado usando una sugerencia con el fin de mantener el mapa calificado durante la discusión. La publicación del veto debe incluir un problema y un razonamiento claro para detener el proceso de clasificación del beatmap. Debes participar en la discusión resultante e intentar llegar a un acuerdo mutuo.
 - **No vetes mapas no clasificables.** Los mapas no clasificables implican que ningún otro nominador debe nominarlo y que el mapper no tiene más remedio que arreglarlo, del mismo modo que funciona un veto mantenido.
 - **No nomines beatmaps vetados.** El veto de un beatmap debe ser retirado antes de su renominación, lo cual puede ocurrir si el nominador del veto decide retirarlo tras una discusión satisfactoria o cambios apropiados en el beatmap, o si el mapper o el nominador del veto solicitan una mediación y el jurado decide que el veto es innecesario o inválido.
 
