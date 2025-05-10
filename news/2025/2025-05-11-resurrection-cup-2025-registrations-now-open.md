@@ -26,7 +26,7 @@ Cannot get enough of Resurrection cup? Make sure to check out the [maps and song
 
 While Resurrection Cup mostly remains the same as what you are used to, we are changing things up a tiny bit. This year, instead of 4v4, Resurrection Cup will feature a 3v3 format with teams of up to 5 players! Furthermore, all players in a team are required to be from the same geographic region. More on that on our [wiki page](/wiki/Tournaments/RESC/2025)!
 
-As to be expected from us, we have a lot of suprises up our sleeves this time around as well. With a legion of new mappers and artists joining our ranks, we are sure to bring you countless memorable original songs and many, many custom beatmaps designed and fine-tuned by experienced mappers, mappoolers and playtesters.
+As to be expected from us, we have a lot of surprises up our sleeves this time around as well. With a legion of new mappers and artists joining our ranks, we are sure to bring you countless memorable original songs and many, many custom beatmaps designed and fine-tuned by experienced mappers, mappoolers and playtesters.
 
 You can head over to either the [wiki](/wiki/Tournaments/RESC/2025) or the [website](https://rescup.corsace.io/) to find out more details about the overall mappool structure as well as other relevant rules.
 
@@ -47,13 +47,13 @@ You can head over to either the [wiki](/wiki/Tournaments/RESC/2025) or the [webs
 
 ## How do I register?
 
-To register, head over to the [registration page](??????) to connect your osu! and Discord account. As well as setting up your team! Before registering, please make sure that:
+To register, head over to the [website](https://rescup.corsace.io/) to connect your osu! and Discord account, as well as setting up your team! Before registering, please make sure that:
 
 - You have not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.
 - You have joined the [ResCup25 official Discord server](https://discord.com/invite/UNzyfgGfeu).
 
 On top of that, you are required to sign up with a team of at least 3 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.gg/UNzyfgGfeu) should be where you are heading first before signing up!
 
-We also encourage spectators to join the [ResCup Discord server](https://discord.com/invite/UNzyfgGfeu) in order to keep up with all important announcements and livestream notifications. For more information, check out the [forum post](https://osu.ppy.sh/community/forums/topics/2076778) and the [tournament website](https://rescup.corsace.io/). We hope to see you around, either as a player or spectator!
+We also encourage spectators to join the [ResCup Discord server](https://discord.com/invite/UNzyfgGfeu) in order to keep up with all important announcements and livestream notifications. For more information, check out the [forum post](https://osu.ppy.sh/community/forums/topics/2076778), [wiki page](/wiki/Tournaments/RESC/2025), and the [tournament website](https://rescup.corsace.io/). We hope to see you around, either as a player or spectator!
 
 —Phreel & Hoaq
