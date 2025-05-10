@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resurrection Cup 2025: Registrations Now Open!"
-date: 2025-05-11 12:00:00 +0000
+date: 2025-05-11 00:00:00 +0000
 ---
 
 The renaissance is upon us with Resurrection Cup returning for a 2025 iteration — with more bangers, more customs and a large focus on competitivity!
