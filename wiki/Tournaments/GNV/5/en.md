@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1KdGgBp5RC5DY7U35M0tdBc-v9sVqGuvN/view)**\
 [Watch the showcase VOD here!](https://www.youtube.com/watch?v=PVX-SyFqXVc)\
-[Watch the Gulano Cup #5 slander here!](https://www.youtube.com/watch?v=p0KmP7AO-Yo)
+[Watch the Gulano Cup #5 slander video here!](https://www.youtube.com/watch?v=p0KmP7AO-Yo)
 
 - Rice
   1. [ReeK - The Everlasting Calamity That Shifts The Time - Space Continuum... (Eclipse-) [DISTORTED (edit)]](https://osu.ppy.sh/beatmapsets/2320029#mania/4969969)
