@@ -34,10 +34,10 @@ You can head over to either the [wiki](/wiki/Tournaments/RESC/2025) or the [webs
 
 | Event | Dates |
 | --: | :-- |
-| Registration phase | May 11 – May 31 (23:59 UTC) |
-| Screening phase | May 31 – June 7 |
-| Qualifier showcase | June 8 (17:00 UTC) |
-| Qualifier stage | June 13 – June 15 |
+| Registration phase | May 11 – June 7 (23:59 UTC) |
+| Qualifier showcase | May 18 (17:00 UTC) |
+| Qualifier stage | May 18 – June 7 |
+| Screening phase | June 7 – June 14 |
 | Round of 32 | June 20 – June 22 |
 | Round of 16 | June 27 – June 29 |
 | Quarterfinals | July 4 – July 6 |

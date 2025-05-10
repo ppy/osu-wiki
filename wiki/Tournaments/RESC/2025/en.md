@@ -17,10 +17,10 @@ tags:
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2025-05-11/2025-05-31 |
-| Screening phase | 2025-05-31/2025-06-07 |
-| Qualifiers showcase | 2025-06-08 |
-| Qualifiers | 2025-06-13/2025-06-15 |
+| Registration phase | 2025-05-11/2025-06-07 |
+| Qualifiers showcase | 2025-05-18 |
+| Qualifiers | 2025-05-18/2025-06-07 |
+| Screening phase | 2025-06-07/2025-06-14 |
 | Round of 32 | 2025-06-20/2025-06-22 |
 | Round of 16 | 2025-06-27/2025-06-29 |
 | Quarterfinals | 2025-07-04/2025-07-06 |
