@@ -30,7 +30,7 @@ Vấn đề này đôi khi xảy ra do sự tương tác với chế độ tươ
 1. Mở thư mục installation osu! và tìm tệp `osu!.exe`.
 2. Nhấp chuột phải vào `osu!.exe` và chọn `Properties` từ menu thả xuống. 
 3. Chuyển đến tab `Tương thích (Compatibility)`.
-4. Tìm một ô đánh dấu có tên `Chạy chương trình này ở chế độ tương thích (Run this program in compatibility mode)` trong phần `Chế độ tương thích' (Compatibility mode)`.
+4. Tìm một ô đánh dấu có tên `Chạy chương trình này ở chế độ tương thích` trong phần `Chế độ tương thích' (Compatibility mode)`.
 5. Nếu ô này được chọn, hãy nhấp vào nó một lần nữa để tắt chức năng này.
 6. Nếu game của bạn đang mở, hãy đóng client và mở lại game.
 
