@@ -32,8 +32,8 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 40% of the prize pool, unique profile badge (pending), 6 months osu!supporter, Wooting UwU, exclusive profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 35% of the prize pool, 4 months osu!supporter, exclusive profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 40% of the prize pool, unique profile badge (pending), 6 months of osu!supporter, Wooting UwU, exclusive profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 35% of the prize pool, 4 months of osu!supporter, exclusive profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 25% of the prize pool, exclusive profile banner |
 | "4th place" | Exclusive profile banner |
 

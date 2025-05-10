@@ -8,7 +8,7 @@ The renaissance is upon us with Resurrection Cup returning for a 2025 iteration 
 
 ![](/wiki/Tournaments/RESC/2025/img/banner.jpg)
 
-[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/20767782), or ResCup for short, is an annual open-rank Team Vs tournament that attempts to bring a breath of fresh air to the top-tier competitive tournament scene.
+[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/20767782), or ResCup for short, is an annual open-rank Team VS tournament that attempts to bring a breath of fresh air to the top-tier competitive tournament scene.
 
 ## Original music and original maps
 
