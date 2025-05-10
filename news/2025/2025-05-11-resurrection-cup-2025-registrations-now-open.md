@@ -24,11 +24,11 @@ Cannot get enough of Resurrection cup? Make sure to check out the [maps and song
 
 ## What's new?
 
-While Resurrection Cup mostly remains the same as what you are used to, we are changing things up a tiny bit. This year, instead of 4v4, Resurrection Cup will feature a 3v3 format with teams of up to 5 players! Furthermore, all players in a team are required to be from the same geographic region. More on that on our [wiki page](/wiki/Tournaments/RESC/2025)!
+While Resurrection Cup mostly remains the same as what you are used to, we are changing things up a tiny bit. This year, instead of 4v4, Resurrection Cup will feature a 3v3 format with teams of up to 5 players! Furthermore, all players in a team are required to be from the same geographic region. More on that on our [website](https://rescup.corsace.io/)!
 
 As to be expected from us, we have a lot of surprises up our sleeves this time around as well. With a legion of new mappers and artists joining our ranks, we are sure to bring you countless memorable original songs and many, many custom beatmaps designed and fine-tuned by experienced mappers, mappoolers and playtesters.
 
-You can head over to either the [wiki](/wiki/Tournaments/RESC/2025) or the [website](https://rescup.corsace.io/) to find out more details about the overall mappool structure as well as other relevant rules.
+You can head over to the [website](https://rescup.corsace.io/) to find out more details about the overall mappool structure as well as other relevant rules.
 
 ## Tournament schedule
 
