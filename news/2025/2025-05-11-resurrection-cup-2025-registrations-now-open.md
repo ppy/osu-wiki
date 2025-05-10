@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Resurrection Cup 2025: Registrations Now Open!"
-date: 2024-05-11 12:00:00 +0000
+date: 2025-05-11 12:00:00 +0000
 ---
 
 The renaissance is upon us with Resurrection Cup returning for a 2025 iteration — with more bangers, more customs and a large focus on competitivity!
 
 ![](/wiki/shared/news/2025-05-11-resurrection-cup-2025-registrations-now-open/banner.jpg)
 
-**[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/20767782)**, or ResCup for short, is an annual open-rank Team Vs tournament that attempts to bring a breath of fresh air to the top-tier competitive tournament scene.
+[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/20767782), or ResCup for short, is an annual open-rank Team Vs tournament that attempts to bring a breath of fresh air to the top-tier competitive tournament scene.
 
 ## Original music and original maps
 
@@ -20,7 +20,7 @@ If you haven't seen it yet, here is a crossfade of the upcoming *Wishes for Tomo
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/uA8mW0SXhxg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Cannot get enough of Resurrection cup? Make sure to check out the [maps and songs in question](/wiki/osu!_originals#resurrection-cup-2024).
+Cannot get enough of Resurrection cup? Make sure to check out the **[maps and songs in question](/wiki/osu!_originals#resurrection-cup-2024)**.
 
 ## What's new?
 
@@ -28,7 +28,7 @@ While Resurrection Cup mostly remains the same as what you are used to, we are c
 
 As to be expected from us, we have a lot of suprises up our sleeves this time around as well. With a legion of new mappers and artists joining our ranks, we are sure to bring you countless memorable original songs and many, many custom beatmaps designed and fine-tuned by experienced mappers, mappoolers and playtesters.
 
-You can head over to either the **[wiki](/wiki/Tournaments/RESC/2025)** or the **[website](https://rescup.corsace.io/)** to find out more details about the overall mappool structure as well as other relevant rules.
+You can head over to either the [wiki](/wiki/Tournaments/RESC/2025) or the [website](https://rescup.corsace.io/) to find out more details about the overall mappool structure as well as other relevant rules.
 
 ## Tournament schedule
 
@@ -47,10 +47,10 @@ You can head over to either the **[wiki](/wiki/Tournaments/RESC/2025)** or the *
 
 ## How do I register?
 
-To register, head over to the **[registration page](??????)** to connect your osu! and Discord account. As well as setting up your team! Before registering, please make sure that:
+To register, head over to the [registration page](??????) to connect your osu! and Discord account. As well as setting up your team! Before registering, please make sure that:
 
-- You have not have violated the **[osu! community rules](/wiki/Rules)** within the past 12 months.
-- You have joined the **[ResCup25 official Discord server](https://discord.com/invite/UNzyfgGfeu)**.
+- You have not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.
+- You have joined the [ResCup25 official Discord server](https://discord.com/invite/UNzyfgGfeu).
 
 On top of that, you are required to sign up with a team of at least 3 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.gg/UNzyfgGfeu) should be where you are heading first before signing up!
 
