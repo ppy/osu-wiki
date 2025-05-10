@@ -9,7 +9,7 @@ tags:
 
 # Resurrection Cup 2025
 
-![Resurrection Cup 2025](img/banner.jpg)
+![Resurrection Cup 2025](/wiki/shared/news/2025-05-11-resurrection-cup-2025-registrations-now-open/banner.jpg)
 
 **Resurrection Cup 2025** is a 4v4, double-elimination osu! tournament hosted by ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110) and ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512). It is the fourth instalment in the Resurrection Cup series. Resurrection Cup 2025 also introduced a new Resurrection Cup mascot, Regulus.
 
