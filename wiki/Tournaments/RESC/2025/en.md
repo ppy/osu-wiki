@@ -94,10 +94,10 @@ tags:
 8. The Americas includes North America, South America, and any island nations, territories, or other dominions east of the International dateline and west of North and South America.
 9. EMEA includes Europe, Africa, and the Middle East.
 10. All countries listed in the Middle East region may only play for EMEA teams despite some of these countries being included in the list of Asian countries.
-   - Kazakhstan is listed as part of Europe but may only play for AAO due to its timezone and the majority of the country being in Asia.
-   - AAO includes Asia, and most of Oceania.
-   - Hawaii, the Cook Islands, and French Polynesia are excluded from AAO as they are all east of the international dateline and thus fall under the Americas.
-   - Georgia, Armenia, and Azerbaijan are part of EMEA rather than AAO as they fall west of the Caspian Sea and have timezones closer to EMEA than AAO.
+    - Kazakhstan is listed as part of Europe but may only play for AAO due to its timezone and the majority of the country being in Asia.
+    - AAO includes Asia, and most of Oceania.
+    - Hawaii, the Cook Islands, and French Polynesia are excluded from AAO as they are all east of the international dateline and thus fall under the Americas.
+    - Georgia, Armenia, and Azerbaijan are part of EMEA rather than AAO as they fall west of the Caspian Sea and have timezones closer to EMEA than AAO.
 11. Players from Russia may register for teams from either EMEA or AAO, but they will be scheduled according to the overall team region.
 
 ### Qualifier procedure
@@ -128,12 +128,12 @@ tags:
    - Ban order is ABAB, with all bans happening at the start of the match.
 10. Teams have 90 seconds to declare picks and bans.
 11. If a team takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
-   - First occurrence: A 30-second extension is given along with a verbal warning.
-   - On subsequent occurrences: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool.
+    - First occurrence: A 30-second extension is given along with a verbal warning.
+    - On subsequent occurrences: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool.
 12. Teams have 90 seconds to swap teammates and lock in their roster.
 13. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
-   - First occurrence: A 15-second extension is given along with a verbal warning.
-   - On subsequent occurrences: the referee will issue the `!mp start 10` command.
+    - First occurrence: A 15-second extension is given along with a verbal warning.
+    - On subsequent occurrences: the referee will issue the `!mp start 10` command.
 
 ### Disconnections
 
