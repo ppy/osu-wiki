@@ -32,7 +32,7 @@ tags:
 
 *Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Memiliki masalah dengan klien permainanmu? Temukan apakah masalahmu termasuk ke dalam daftar masalah yang paling umum dijumpai oleh para pengguna kami.
+Memiliki masalah dengan klien permainanmu? Cari tahu apakah masalahmu termasuk ke dalam daftar masalah yang paling umum dijumpai oleh para pengguna kami di bawah ini.
 
 ## Bug & crash {id=crash}
 
@@ -47,7 +47,7 @@ Ikuti langkah-langkah berikut untuk mengatur ulang osu! ke pengaturan bawaan:
 3. Pada saat menu `osu! configuration dialog` ini terbuka, klik tombol `reset settings`.
 4. Apabila masalahmu belum teratasi, buka menu dialog ini kembali dan klik `repair osu!`.
 
-### osu! saya tidak merespon pada saat saya mengeklik tautan atau map multiplayer! {id=broken-links}
+### osu! saya tidak merespons pada saat saya mengeklik tautan atau map multiplayer! {id=broken-links}
 
 **Pastikan bahwa kamu tidak sedang menjalankan osu! pada mode kompatibilitas Windows dan kamu memiliki browser bawaan yang terpasang pada pengaturan sistemmu.**
 
@@ -66,7 +66,7 @@ Untuk memeriksa apakah permainanmu sedang berjalan pada mode kompatibilitas Wind
 
 #### Apakah kamu memiliki browser bawaan yang terpasang? {id=default-browser}
 
-**Dalam hampir seluruh kasus, sebagian besar instalasi Windows sudah akan memiliki browser bawaan yang terpasang.**
+**Dalam hampir seluruh kasus, instalasi Windows sudah akan memiliki browser bawaan yang terpasang.**
 
 Untuk memeriksa hal ini, ikuti langkah-langkah berikut (pada Windows 8 atau lebih tinggi):
 
@@ -104,11 +104,11 @@ Kamu juga dapat memaksa osu! untuk memperbarui dirinya sendiri.
 3. Ketik `update` pada bilah pencarian untuk langsung menuju pengaturan yang terkait.
 4. Klik tombol `Jalankan updater osu!`.
 
-Kamu juga dapat memaksa pembaruan ini dengan membuat berkas `help.txt` pada folder tempat kamu memasang osu!. Berkas ini tidak perlu untuk diisi dengan hal apa pun; selama berkas ini ada, osu! akan memaksakan pembaruan pada saat selanjutnya diluncurkan.
+Kamu juga dapat memaksa pembaruan ini dengan membuat berkas `help.txt` pada folder tempat kamu memasang osu!. Berkas ini tidak perlu untuk diisi dengan hal apa pun; selama berkas ini ada, osu! akan memaksa untuk memperbarui diri pada saat selanjutnya diluncurkan.
 
 ### Saya menemui kesalahan seputar "gaya font" ("font styles") pada saat saya mencoba untuk membuka permainan! {id=no-default-fonts}
 
-**Kamu kemungkinan telah menghapus atau kehilangan berbagai jenis tulisan sistem penting yang terpasang dengan instalasi Windows. **
+**Kamu kemungkinan telah menghapus atau kehilangan berbagai jenis tulisan sistem penting yang terpasang dengan instalasi Windows.**
 
 Apabila kamu menemui kesalahan ini pada saat kamu mencoba untuk membuka osu! atau program pembarunya, hal ini berarti bahwa kamu telah menghapus atau kehilangan berbagai jenis tulisan sistem penting yang datang bersama Windows. Jenis tulisan ini digunakan di hampir seluruh sistem operasi Windows, dan oleh karenanya kamu akan dapat menemui berbagai masalah seperti tampilan huruf yang salah, teks yang hilang, dan aplikasi yang crash akibat font yang hilang ini.
 
@@ -138,7 +138,7 @@ Untuk memeriksa atau mengubah beatmap apa saja yang ditampilkan pada layar pemil
 
 ![](img/difficulty-display.png "Nilai pengaturan Tampilkan Beatmap yang tepat")
 
-Apabila seluruh metode ini tidak membantu, sebagai pilihan terakhir, kamu dapat mencoba memaksa basis data beatmap kamu untuk direka ulang. **Mohon diperhatikan bahwa hal ini akan menandai seluruh beatmap yang kamu miliki sebagai "belum dimainkan", sehingga pencarian dan pengelompokan beatmap berdasarkan tanggal permainan terakhir tidak akan lagi dapat dilangsungkan.**
+Apabila seluruh metode ini tidak membantu, kamu dapat memaksakan agar basis data beatmap kamu direka ulang sebagai jalan terakhir. **Mohon diperhatikan bahwa hal ini akan menandai seluruh beatmap yang kamu miliki sebagai "belum dimainkan", sehingga pencarian dan pengelompokan beatmap berdasarkan tanggal permainan terakhir tidak akan lagi dapat dilangsungkan.**
 
 Untuk memaksa agar basis data beatmap kamu direka ulang secara aman, ikuti langkah-langkah berikut:
 
@@ -179,7 +179,7 @@ Setelah seluruh berkas `.osz` dari arsip ini terekstrak ke folder `Songs`, tekan
 
 Apabila kamu sebelumnya telah mengubah kombinasi tombol yang digunakan untuk memunculkan papan peringkat, solusi ini tidak akan membantumu. Kamu dapat memeriksa kombinasi tombol yang terhubung dengan tindakan ini melalui `Options` -> `Konfigurasi tombol` -> `Permainan` -> `Tampilkan Papan Peringkat`. Setelahnya, kamu akan dapat mengubah kombinasi tombol ini ke kombinasi yang berbeda, seperti `Shift` + `V`.
 
-### Skor lokal saya hilang! id=no-scores}
+### Skor lokal saya hilang! {id=no-scores}
 
 Terdapat beberapa alasan mengapa hal ini bisa terjadi.
 
@@ -290,9 +290,9 @@ Kebanyakan orang tidak akan perlu untuk mengubah nilai offset bawaan mereka, nam
 
 Apabila hal ini masih tidak membantu, kamu dapat memperbarui driver kartu suara atau motherboard kamu.
 
-### Permainan saya terlihat bermasalah, seolah-olah tampilan pada layar saya robek! {id=screen-tearing}
+### Permainan saya terlihat bermasalah, seolah-olah layar saya robek! {id=screen-tearing}
 
-**Hal ini disebabkan oleh efek yang dikenal sebagai [*screen tearing*](https://en.wikipedia.org/wiki/Screen_tearing) dan dapat diperbaiki dengan mengatur batasan FPS permainan ke `VSync`.**
+**Hal ini disebabkan oleh efek yang dikenal sebagai [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) dan dapat diperbaiki dengan mengatur batasan FPS permainan ke `VSync`.**
 
 Efek ini merupakan sesuatu yang sama sekali tidak berbahaya (walaupun terlihat buruk!) dan disebabkan oleh frekuensi gambar (*refresh rate*) permainan yang tidak sinkron dengan frekuensi monitormu.
 
