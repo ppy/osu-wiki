@@ -166,6 +166,6 @@ Resets related to beatmap files almost never have a severity above 0, as they us
 
 ## History
 
-- SEV ratings were introduced in 20 May 2020 and were publicly visible.
-- In 16 December 2023, SEV ratings were deprecated in favor if a simpler impact system that assigned a "minor", "notable" or "severe" label to each reset.
-- The SEV rating system was reintroduced on 19 April 2025 following concerns about impact ratings being too vague. However, it was not made public again given its main purpose is to serve as internal documentation.
+- SEV ratings were introduced in 20 May 2020 and were publicly visible.<!-- internal reference: https://discord.com/channels/316154420591067136/316586967171203075/712448434770018424 -->
+- In 16 December 2023, SEV ratings were deprecated in favor if a simpler impact system that assigned a "minor", "notable" or "severe" label to each reset.<!-- internal reference: https://discord.com/channels/90072389919997952/299846395031060480/1184280021448273930 -->
+- The SEV rating system was reintroduced on 19 April 2025<!-- internal reference: https://discord.com/channels/90072389919997952/299846395031060480/1363112346272272484 --> following concerns about impact ratings being too vague. However, it was not made public again given its main purpose is to serve as internal documentation.
