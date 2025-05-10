@@ -20,7 +20,7 @@ If you haven't seen it yet, here is a crossfade of the upcoming *Wishes for Tomo
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/uA8mW0SXhxg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Cannot get enough of Resurrection cup? Make sure to check out the **[maps and songs in question](/wiki/osu!_originals#resurrection-cup-2024)**.
+Cannot get enough of Resurrection cup? Make sure to check out the [maps and songs in question](/wiki/osu!_originals#resurrection-cup-2024).
 
 ## What's new?
 
