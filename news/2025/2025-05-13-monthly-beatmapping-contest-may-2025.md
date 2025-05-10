@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: May 2025"
-date: 2025-05-10 20:00:00 +0000
+date: 2025-05-13 00:00:00 +0000
 ---
 
 Within the editor's 512×384 grid exists infinite mapping choices. See how your circles fare against the crowd in this month's contest, or play the top maps from the previous iteration!
@@ -39,8 +39,8 @@ This contest's restriction: **all sliders must be straight lines**. Due to highe
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [phyr](https://osu.ppy.sh/beatmapsets/2365980) | [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/2365980) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (6 total) |
-| Runner-up | [fowwo](https://osu.ppy.sh/users/4547551) | [Akiri - Oracle](LINK) | - | - | +1 (8 total) |
+| Winner | [phyr](https://osu.ppy.sh/users/13181574) | [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/2365980) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (6 total) |
+| Runner-up | [fowwo](https://osu.ppy.sh/users/4547551) | [Akiri - Oracle](https://osu.ppy.sh/beatmapsets/2367563) | - | - | +1 (8 total) |
 | [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [-YeLing-](https://osu.ppy.sh/users/14726718) | [Aethoro - Deertracks](LINK) | - | - | +1 (1 total) |
 
 #### Top submissions
@@ -62,7 +62,7 @@ This contest was themed around **finishers**. [See the full results here!](https
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | Winner | [Alchyr](https://osu.ppy.sh/users/4993032) | [Akiri - Symphony Of The Lost Souls](https://osu.ppy.sh/beatmapsets/2365975) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (4 total) |
-| Runner-up | [tasuke912](https://osu.ppy.sh/users/13026904) | [Chroma - Destroy, Destroy, Destroy The Happy End](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +1 (4 total) |
+| Runner-up | [tasuke912](https://osu.ppy.sh/users/2774767) | [Chroma - Destroy, Destroy, Destroy The Happy End](https://osu.ppy.sh/beatmapsets/2367066) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +1 (4 total) |
 
 #### Top submissions
 
@@ -100,7 +100,7 @@ According to the [ancient mapping lore](/wiki/Beatmapping/Mapping_techniques/Bas
 
 This month's limitation: **all objects within a combo must have equal spacing.**
 
-![](/wiki/shared/news/2025-05-10-monthly-beatmapping-contest-may-2025/combos.jpg)
+![](/wiki/shared/news/2025-05-13-monthly-beatmapping-contest-may-2025/combos.jpg)
 
 For the pedants out there, "spacing" is based on pixel distance between objects ([this thing in osu!(lazer)](/wiki/shared/news/2025-05-10-monthly-beatmapping-contest-may-2025/lazer.png)), *not* distance spacing multiplier ([this thing in osu!(stable)](/wiki/shared/news/2025-05-10-monthly-beatmapping-contest-may-2025/stable.png)). The latter can be manipulated with slider velocity, which would defeat the point of this limitation!
 
@@ -108,7 +108,11 @@ There's a lot of room for confusion in this concept, so if you have any question
 
 #### osu!taiko
 
-AAAAAAAAA
+While Kats and Dons are the foundations of osu!taiko maps, they don't have to be.
+
+This month's contest is themed around the lesser-used objects: **create a map focused on spinners and sliders**!
+
+More specifically, your goal should be to incorporate spinners and sliders in a way that feels natural. You can (and should) use mainly Kats and Dons still, but with extra attention paid towards other object types!
 
 ### Songs
 
@@ -133,9 +137,9 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 ## Rules
 
-- **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - **osu!:** 
-  - **osu!taiko:** 
+- **Submissions must follow the month's beatmapping [limitation/theme](#limitation):**
+  - **osu!:** all objects within a combo must have equal spacing
+  - **osu!taiko:** design a map themed around spinners and sliders
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
@@ -151,6 +155,6 @@ If you're reading this, it means you're not creating your map. Change that:
 - [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
 - [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
 
-You have until **June 1st** to submit!
+You have until **June 3rd** to submit!
 
 —pishifat, Hivie
