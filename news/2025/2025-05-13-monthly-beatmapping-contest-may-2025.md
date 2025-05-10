@@ -12,8 +12,8 @@ Let's face it. The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapp
 
 This month's contest is for **osu!** and **osu!taiko** mappers. If you want to map for another mode, the next contest is only a month away.
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/246)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/247)
 
 This article covers results from the last contest, plus criteria for this contest. Skip around with these links:
 
@@ -76,8 +76,8 @@ Send some appreciation to [BlackBN](https://osu.ppy.sh/users/6291741), [arcpotat
 
 This month's contest is open to **osu!** and **osu!taiko** mappers.
 
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/246)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/247)
 
 ## Timeline
 
@@ -152,8 +152,8 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 If you're reading this, it means you're not creating your map. Change that:
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/246)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/247)
 
 You have until **June 3rd** to submit!
 
