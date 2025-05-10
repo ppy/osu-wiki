@@ -60,7 +60,7 @@ tags:
 
 ## Links
 
-- [Website](https://rescup.corsace.io/)
+- [Website](https://rescup.xyz/)
 - [Announcement post](https://osu.ppy.sh/home/news/2025-05-11-resurrection-cup-2025-registrations-now-open)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2076778)
 - [Discord server](https://discord.gg/UNzyfgGfeu)
@@ -81,7 +81,7 @@ tags:
 
 ### Registration
 
-1. Registrations will be done on the [website](https://rescup.corsace.io/).
+1. Registrations will be done on the [website](https://rescup.xyz/).
 2. The minimum team size is 3 members, and the maximum team size is 5 members.
 3. Team names may consist of 3 to 20 characters with acronyms of 2 to 4 letters along with a team photo.
 4. Inappropriate pictures, names, and/or acronyms are subject to change at the discretion of administration.
@@ -102,7 +102,7 @@ tags:
 
 ### Qualifier procedure
 
-1. Teams shall have their own lobby freely scheduled by themselves on the [website](https://rescup.corsace.io/), and run by the [Corsace bot](https://osu.ppy.sh/users/29191632).
+1. Teams shall have their own lobby freely scheduled by themselves on the [website](https://rescup.xyz/), and run by the [Corsace bot](https://osu.ppy.sh/users/29191632).
 2. Last lobby for Qualifiers round cannot start after June 1st 15:00 UTC.
 3. If a team doesn't show up to their scheduled Qualifiers lobby, they may play in any other lobby.
 4. Each map will be played in order as they are shown on the mappool sheet. There will be one playthrough of the pool.
