@@ -72,7 +72,7 @@ Bạn có thể bắt buộc game cập nhật thông qua phần cài đặt tro
 1. Mở osu!
 2. Nhấn vào nút `options` trên menu chính, hoặc ấn tổ hợp phím `Ctrl + O`
 3. Nhập `update`  vào ô tìm kiếm nhanh để nhảy thẳng đến tùy chọn.
-4. Nhấn vào nút `Run osu! updater`
+4. Nhấn vào nút `chạy cập nhật osu!`
 
 Bạn cũng có thể ép buộc trò chơi cập nhật bằng cách tạo một tệp `help.txt` trong thư mục cài đặt của osu!. Tệp này không cần chứa nội dung gì; nó chỉ cần tồn tại, và trò chơi sẽ tự động ép buộc cập nhật mỗi khi chạy lần tiếp theo.
 
@@ -110,7 +110,7 @@ Hãy chắc chắn rằng bạn không đang giới hạn những beatmap đư�
 
 Nếu không có phương pháp nào trong số này hiệu quả, như biện pháp cuối cùng bạn có thể thử buộc cơ sở dữ liệu beatmap của mình được tạo lại. **Lưu ý rằng điều này sẽ đánh dấu tất cả các map của bạn là “chưa chơi”, nên việc tìm kiếm và nhóm map theo các lựa chọn phân loại dựa trên ngày chơi sẽ không còn hoạt động nữa.**
 
-Để ép buộc cơ sở dữ liệu beatmap của bạn được tái tạo một cách an toàn, hãy làm theo các bước sau:
+Để ép buộc cơ sở dữ liệu beatmap của bạn được tạo lại một cách an toàn, hãy làm theo các bước sau:
 
 1. ở osu!.
 2. Nhấp vào nút `Options` trên menu chính, hoặc nhấn `Ctrl` + `O`.
@@ -118,10 +118,10 @@ Nếu không có phương pháp nào trong số này hiệu quả, như biện p
 4. Đóng osu!.
 5. Tìm tệp `osu!.db` trong vị trí thư mục bạn vừa mở.
 6. Nhấp chuột phải vào file đó, sau đó chọn `Rename`.
-7. Đổi tên file theo ý bạn (chỉ cần không đặt lại là “osu!”), rồi nhấn `Enter`.
+7. Đổi tên file theo ý bạn muốn, tên gì cũng được, miễn là nó không được đặt tên là "osu!", rồi nhấn `Enter`.
 8. Khởi động lại osu!.
 
-Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên bản [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) ngày 19-05-2021. Nếu bạn vẫn gặp lỗi, vui lòng [cho chúng tôi biết](https://github.com/ppy/osu-stable-issues/issues).
+*Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên bản [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) ngày 19-05-2021. Nếu bạn vẫn gặp lỗi, vui lòng [cho chúng tôi biết](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### Danh sách bài hát của tôi cứ tự cuộn! {id=songs-list-scrolling}
 
@@ -129,11 +129,11 @@ Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên b�
 
 Những vấn đề này cũng có thể do các ứng dụng giả lập hoặc thay đổi phím tắt, chẳng hạn như Xpadder hoặc X-Mouse Button Control. Nếu bạn đang dùng những ứng dụng này cho game khác, hãy vô hiệu hóa chúng.
 
-Hiện tượng cũng có thể xuất phát từ bàn phím số, vì các phím này có thể được dùng để cuộn danh sách chọn bài. Nhấn phím `NumLock` để vô hiệu hóa bàn phím số và sau đó nhấn `9`, `8`, `3` hoặc `2` trên bàn phím số để khắc phục.
+Hiện tượng cũng có thể xuất phát từ bàn phím số, vì các phím này có thể được dùng để cuộn danh sách chọn bài. Nhấn phím `NumLock` để vô hiệu hóa bàn phím số và sau đó nhấn `9`, `8`, `3` hoặc `2` trên bàn phím số để khắc phục vấn đề.
 
 Bạn cũng nên kiểm tra xem có phím nào trên thiết bị ngoại vi bị kẹt hoặc hỏng không.
 
-### Tôi đã tải một gói beatmap, nhưng osu! luôn cố “sửa chữa” file đó! {id=beatmap-pack-extraction}
+### Tôi đã tải một gói beatmap nhưng osu! luôn cố “sửa chữa” file đó! {id=beatmap-pack-extraction}
 
 **Bạn cần giải nén gói này vào thư mục Songs.**
 
@@ -193,7 +193,7 @@ Lưu ý: nếu không có replay nào được lưu cho điểm số đó, bạn
 
 ### osu! đang thông báo rằng phiên bản client của bạn quá cũ! {id=old-client}
 
-Đã đến lúc nâng cấp! Những phiên bản rất cũ của game sẽ không được phép gửi điểm mới, vì vậy bạn cần buộc cập nhật bằng cách vào `Options` → `General` → `chạy cập nhật osu!`.
+Đã đến lúc bạn nên cập nhật trò chơi! những phiên bản rất cũ của game sẽ không được phép gửi điểm mới, vì vậy bạn cần buộc cập nhật bằng cách vào `Options` → `General` → `chạy cập nhật osu!`.
 
 Nếu cách này không hiệu quả, bạn có thể đóng osu! và khởi động lại osu!.exe trong khi giữ phím `Shift`. Điều này sẽ cung cấp cho bạn một số tùy chọn nâng cấp và sửa chữa, trong đó có cập nhật game lên phiên bản mới nhất.
 
@@ -402,13 +402,13 @@ Bạn có thể kiểm tra giới hạn ghosting của bàn phím bằng cách s
 
 Mặc dù Tiêu chí Xếp hạng cho osu!mania cố gắng giảm bớt vấn đề ghosting bằng cách không cho phép hơn 6 nốt được kích hoạt cùng một lúc, bạn có thể gặp phải vấn đề này nếu bàn phím của bạn đã cũ.
 
-Giải pháp duy nhất thực sự là mua một bàn phím có thể hỗ trợ nhiều lần nhấn phím cùng lúc. Bạn có thể tìm kiếm tính năng gọi là *n-key rollover* (hoặc *NKRO*). Các bàn phím NKRO không gặp vấn đề ghosting trong hầu hết các trường hợp, nhưng giá thường sẽ khá đắt.
+Giải pháp duy nhất thực sự là mua một bàn phím có thể hỗ trợ nhiều lần nhấn phím cùng lúc. Bạn có thể tìm kiếm tính năng gọi là *n-key rollover* (hoặc *NKRO*). Bàn phím NKRO hầu như không gặp vấn đề với hiện tượng ghosting, nhưng giá thường sẽ khá đắt.
 
 ### Con trỏ của tôi bị loạn mỗi khi tôi cố gắng chơi osu! {id=crazy-cursor}
 
 **Nguyên nhân phổ biến nhất của việc này là do bạn để độ nhạy chuột trong game quá cao.**
 
-Chuyển động giật cục, không ổn định là ví dụ rõ ràng cho vấn đề này, đặc biệt nếu bạn đang sử dụng bảng vẽ (tablet).
+Chuyển động giật cục, di chuyển bất thường là ví dụ rõ ràng cho vấn đề này, đặc biệt nếu bạn đang sử dụng bảng vẽ (tablet).
 
 Thiết lập độ nhạy trong game về mức 1.0x (mặc định) sẽ khắc phục được trong hầu hết các trường hợp, nhưng có thể khiến con trỏ của bạn cảm thấy chậm chạp. Chúng tôi khuyên bạn nên bật `raw input` trong tùy chọn game và sử dụng trình điều khiển (driver) của thiết bị ngoại vi bạn dùng để điều chỉnh độ nhạy.
 
@@ -457,9 +457,9 @@ Giữ cho máy tính của bạn sạch sẽ và an toàn và bạn có thể nh
 
 #### Máy tính của bạn bao nhiêu tuổi rồi? {id=lag-old-pc}
 
-**Các trình điều khiển cũ có thể gây ra những vấn đề nghiêm trọng về hiệu suất. Hãy đảm bảo rằng bạn luôn cập nhật tất cả các trình điều khiển bất cứ khi nào có thể.**
+**Những máy tính rất cũ sử dụng các chipset đồ họa tích hợp Intel đời còn cũ hơn có thể không đủ mạnh để chạy osu!, ngay cả ở thiết lập thấp nhất.**
 
-Trình điều khiển card đồ họa đặc biệt quan trọng đối với osu!, cũng như trình điều khiển card âm thanh.
+Cách duy nhất để giải quyết vấn đề này là nâng cấp máy tính của bạn!
 
 #### Driver của bạn có được cập nhật không? {id=lag-old-driver}
 
@@ -469,7 +469,7 @@ Driver của card đồ họa đặc biệt quan trọng đối với osu!, cũn
 
 #### Bạn có đang sử dụng một bộ chia USB để kết nối nhiều thiết bị USB vào máy tính qua một cổng không? {id=lag-faulty-usb}
 
-Việc kết nối quá nhiều thiết bị vào cùng một cổng thông qua bộ chia có thể gây ra độ trễ đầu vào (input lag) — khó phát hiện nhưng có thể ảnh hưởng nghiêm trọng đến trải nghiệm chơi game của bạn.
+Việc kết nối quá nhiều thiết bị vào cùng một cổng thông qua bộ chia có thể gây ra độ trễ đầu vào — khó phát hiện nhưng có thể ảnh hưởng nghiêm trọng đến trải nghiệm chơi game của bạn.
 
 Một cách đơn giản để kiểm tra là thử rút bộ chia USB ra trong giây lát. Nếu tình trạng lag biến mất, bạn đã tìm ra nguyên nhân rồi đấy!
 
@@ -477,17 +477,17 @@ Một cách đơn giản để kiểm tra là thử rút bộ chia USB ra trong 
 
 **Cả chế độ cửa sổ lẫn chế độ không viền đều gây ra *độ trễ đầu vào đáng kể*. Toàn màn hình (fullscreen) là tối ưu nhất để có trải nghiệm chơi game mượt mà nhất.**
 
-#### Trò chơi của bạn có bị đứng hình trong một khoảnh khắc ngắn không? {id=lag-background-process}
+#### Trò chơi của bạn có bị đứng hình chỉ trong chốc lát không? {id=lag-background-process}
 
-**Đôi khi, các tiến trình nền hoặc ứng dụng khác trên máy tính của bạn có thể gửi những yêu cầu tài nguyên lớn cùng lúc, khiến máy của bạn gặp khó khăn trong việc xử lý.**
+**Đôi khi các tiến trình nền hoặc ứng dụng khác trên máy tính của bạn có thể gửi những yêu cầu tài nguyên lớn cùng lúc, khiến máy của bạn gặp khó khăn trong việc xử lý.**
 
-Thông thường, vấn đề này sẽ biến mất sau khi bạn đóng mọi thứ không cần thiết trước khi chơi osu!. Phần mềm torrent là thủ phạm phổ biến, đặc biệt nếu nó dùng chung ổ đĩa với nơi cài osu!.
+Thông thường vấn đề này sẽ biến mất sau khi bạn đóng mọi thứ không cần thiết trước khi chơi osu!. Phần mềm torrent là thủ phạm phổ biến, đặc biệt nếu nó dùng chung ổ đĩa với nơi cài osu!.
 
 #### Trò chơi có được cập nhật gần đây không? {id=lag-after-update}
 
 **Đôi khi sau khi cập nhật, client có thể gặp trục trặc mà không rõ lý do.**
 
-Nếu bạn có nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho bản cập nhật. osu! có thể đang xử lý lại các beatmap để tính độ khó.
+Nếu bạn có rất nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho bản cập nhật gây lag. Trình osu! có thể đang xử lý lại các map của bạn để tính toán độ khó.
 
 Nếu vẫn không cải thiện, khởi động lại máy có thể giúp.
 
