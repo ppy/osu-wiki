@@ -16,7 +16,7 @@ Check everything out:
 
 ### [Xeven - Degaciation](https://assets.ppy.sh/artists/475/Songs/Xeven%20-%20Deglaciation.osz)
 
-Try out [the map revealed earlier today for Lazer Grand Arena](LINK) created by [Mysty](https://osu.ppy.sh/users/10210657)!
+Try out [the map revealed earlier today for Lazer Grand Arena](https://osu.ppy.sh/beatmapsets/2369583) created by [Mysty](https://osu.ppy.sh/users/10210657)!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/XrbUrb5iGgs" frameborder="0" allowfullscreen></iframe>
