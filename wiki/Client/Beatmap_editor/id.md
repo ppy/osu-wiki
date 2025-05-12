@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Editor beatmap
 
 <!-- TODO: needs to be revisited when the articles under Beatmap editor no longer match what's written here -->
