@@ -178,7 +178,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Normal1zer vs. Broken Nerdz - DESTRUCTION 3,2,1 (AlexDunk) \[:CONSTRUCTIONSITE_COLLAB: (w/ Mafufu & sherweifa)\]](https://osu.ppy.sh/beatmapsets/2230209#mania/4732634)
   2. [Pixel Terror - Magma (\[GB\]Mafufu) \[Rising slowly \[SV nerfed\]\]](https://osu.ppy.sh/beatmapsets/2230213#mania/4732646)
 - Difficult
-  1. [The Ghost of 3.13 - Forgotten (\[Crz\]Flandre) \[Shoegazer & Zyph's Collab 1.4x (350bpm)\]](https://osu.ppy.sh/beatmaps/4732745)
+  1. [The Ghost of 3.13 - Forgotten (\[Crz\]Flandre) \[Shoegazer & Zyph's Collab 1.4x (350bpm)\]](https://osu.ppy.sh/beatmapsets/2230245#mania/4732745)
 - Tiebreaker
   1. **[SAMString - ChroNaXiE ([Crz]xz1z1z) \[Singularity\]](https://osu.ppy.sh/beatmapsets/2230263#mania/4732863)**
 
@@ -204,10 +204,10 @@ This competition has come to an end and resulted in the following podium:
   3. [Shiron - GEOMETRIA (Hylotl) \[Riemannian (Edit) 1.05x (267bpm) OD7\]](https://osu.ppy.sh/beatmapsets/2102909#mania/4412131)
   4. [Supa7onyz pers. 5-let - Unsynchronized Rhythms (Polytetral) \[Chaotically Unsynced\]](https://osu.ppy.sh/beatmapsets/1893947#mania/3902894)
 - SV
-  1. [Akira Complex - MANTIS (Arcaea Ultra-Bloodrush VIP) feat. kiraku (Orca-) \[tomorrow comes from the ashes of yesterday\]](https://osu.ppy.sh/beatmaps/4250275)
-  2. [xarva - easymotion (mightyxd) \[zero2snow's Estimate (edit) 1.1x\]](https://osu.ppy.sh/beatmaps/4235788)
+  1. [Akira Complex - MANTIS (Arcaea Ultra-Bloodrush VIP) feat. kiraku (Orca-) \[tomorrow comes from the ashes of yesterday\]](https://osu.ppy.sh/beatmapsets/2037828#mania/4250275)
+  2. [xarva - easymotion (mightyxd) \[zero2snow's Estimate (edit) 1.1x\]](https://osu.ppy.sh/beatmapsets/2032145#mania/4235788)
 - Difficult
-  1. [StudioEIM - Crescent Moon Island (Shoegazer) \[Kuro 1.1x (189bpm)\]](https://osu.ppy.sh/beatmaps/3090570)
+  1. [StudioEIM - Crescent Moon Island (Shoegazer) \[Kuro 1.1x (189bpm)\]](https://osu.ppy.sh/beatmapsets/547451#mania/3090570)
 - Tiebreaker
   1. **[Kou! - Frost Walker ([Crz]xz1z1z) \[Kaleido\]](https://osu.ppy.sh/beatmapsets/2226164#mania/4722381)**
 
@@ -359,7 +359,7 @@ This competition has come to an end and resulted in the following podium:
   2. [PSYQUI - Eyes on me feat. Such (HowToPlayLN) \[Stage 4: Focused\]](https://osu.ppy.sh/beatmapsets/1196939#mania/2493320)
 - Long Note
   3. [Jay Chou - Dao Xiang (YuEast 2018) \[Dongdong's Bringing Back Your Memories\]](https://osu.ppy.sh/beatmapsets/2202550#mania/4661715)
-  4.  [awfuless - Temptation ([Crz]Alleyne) \[Yuuwaku\]](https://osu.ppy.sh/beatmapsets/2202552#mania/4661717)
+  4. [awfuless - Temptation ([Crz]Alleyne) \[Yuuwaku\]](https://osu.ppy.sh/beatmapsets/2202552#mania/4661717)
 - SV
   1. [Cartoons - Witch Doctor (Cut Ver.) (UselessPlayer) \[51522\]](https://osu.ppy.sh/beatmapsets/2202561#mania/4661747)
 - Tiebreaker
