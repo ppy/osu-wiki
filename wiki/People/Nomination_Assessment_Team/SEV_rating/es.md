@@ -163,7 +163,7 @@ Los restablecimientos relacionados con los archivos de los beatmaps casi nunca t
   - Mala colocación de los hitsounds, por ejemplo, palmas, cajas o platillos injustificados en cada pulso o similares
 - **1/1:** (6 %)
   - Objetos activos silenciados
- 
+
 ## Historia
 
 - Las calificaciones SEV se introdujeron el 20 de mayo de 2020 y se hicieron públicas.
