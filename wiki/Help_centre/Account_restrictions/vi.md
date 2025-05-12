@@ -1,6 +1,5 @@
 ---
-outdated_since: a7829a7972d112aa1bc8799dd865ef3b5e80a630
-outdated_translation: true
+no_native_review: true
 ---
 
 # Hạn chế tài khoản
@@ -76,9 +75,9 @@ Nếu chúng tôi quyết định cho bạn quay lại, chúng tôi sẽ yêu c�
 - **Bạn không nên liên đới với các tài khoản khác** bao gồm chơi ở các máy tính dùng chung (như quán net, ...).
 - **Bất cứ vi phạm nghiêm trọng nào xảy ra sẽ khiến bạn bị hạn chế ngay lập tức**. Điều này bao gồm việc bị im lặng lâu.
 
-Người chơi trở lại theo tiêu chuẩn cộng đồng cũng sẽ bị cấm tham gia các giải đấu chính thức và các giải có huy hiệu, bất kể dưới vai trò là người chơi hay là thành viên của ban tổ chức giải. Thời hạn cấm là 1 năm nhân với số lần bạn đã vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai thì sẽ là 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
+Người chơi trở lại theo tiêu chuẩn cộng đồng cũng sẽ bị cấm tham gia các [giải đấu chính thức và các giải có huy hiệu](/wiki/Help_centre/Tournament_bans), bất kể dưới vai trò là người chơi hay là thành viên của ban tổ chức giải. Thời hạn cấm là 1 năm nhân với số lần bạn đã vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai thì sẽ là 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
 
-**Gian lận hoặc chia sẻ tài khoản khi đang tham gia giải đấu chính thức hay giải có huy hiệu sẽ khiến người chơi bị cấm vĩnh viễn khỏi mọi giải đấu trong tương lai.** Bạn không thể xin khiếu nại (email của bạn sẽ bị bỏ qua nếu bạn cố gửi) và lệnh cấm sẽ không thể được gỡ bỏ, hay giảm nhẹ với bất cứ lý do nào.
+**Gian lận hoặc chia sẻ tài khoản khi đang tham gia giải đấu chính thức hay giải có huy hiệu sẽ khiến người chơi bị cấm vô thời hạn khỏi mọi giải đấu trong tương lai.** Lệnh cấm này chỉ có thể kháng cáo sau hai năm và chỉ được phê duyệt nếu người dùng đã có nỗ lực đáng kể trong việc cải thiện qua các giải đấu cộng đồng.
 
 Một vài người chơi có thể bị hạn chế lại khi họ bắt đầu chơi lại sau khi khiếu nại được chấp nhận. Đây chỉ là một quy trình tự động và sẽ thường được gỡ trong 24 tiếng. Đừng ngần ngại hỏi trên twitter [@osusupport](https://twitter.com/osusupport) hoặc gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) nếu điều này xảy ra với bạn!
 
