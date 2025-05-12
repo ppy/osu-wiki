@@ -6,14 +6,15 @@
 
 - **[Primary metadata sources](/wiki/Beatmap/Primary_metadata_source) must be used as reference.** You may modify metadata from primary sources only in ways allowed or required by the Ranking Criteria. If no primary sources are available, use what is most recognisable.
 - **All difficulties in a beatmap set must have identical `Title`, `Artist`, `Tag`, `Source`, and `BeatmapSetID` fields.**
-- **`Artist` or `Title` fields over 81 characters must be shortened.** <!-- Note: this rule can be dropped with no replacement if lazer allows for more flexible metadata uploads -->
+- **`Artist` or `Title` fields over 81 characters must be shortened.** <!-- this rule matches a technical limitation of BSS and can be removed if the issue is fixed -->
   - Start by dropping additional markers.
+    - When a long artist field uses `CV` formatting[^character-voice-actor], shorten it by dropping character names and listing out only the `Voice Actor` names.
   - If not sufficient, truncate the field and indicate this by using `...` in a sensible place.
   - Omitted information must be added to tags.
 - **The `Tags` field must be shortened if it is longer than 1000 characters.** <!-- This needs to be adjusted if this limit changes or is removed. -->
   - Start by dropping optional tags.
   - Keep required tags such as usernames as much as possible.
-  - For the rest, prioritize the tags that are most relevant for search. 
+  - For the rest, prioritize the tags that are most relevant for search.
 
 ### Guidelines
 
@@ -25,7 +26,7 @@
   - `Triangles` can be either `Triangles` or `triangles`
 - **When multiple metadata options are available:**
   - Aim to match Ranked beatmaps. Follow what is most recent and common, then verify that metadata is correct and fix as needed.
-    - Artist names should be consistent as well, as long as they are not intentionally using different aliases. 
+    - Artist names should be consistent as well, as long as they are not intentionally using different aliases.
   - Official romanisations/translations are preferred for romanised fields, so long as they are easily found and commonly recognised.
   - In case of conflicting options, a discussion should be held to determine what would be the best option.
 
@@ -40,28 +41,30 @@
 ### Rules
 
 - **Symbols used to group part of a title or artist must include surrounding spaces.** For example, `Song★Title★` becomes `Song ★Title★`.
+
 - **The following Unicode Symbol subsets should have leading and trailing spaces when they can be romanised:**
   - [Supplemental Arrows-A](https://en.wikipedia.org/wiki/Supplemental_Arrows-A), [Supplemental Arrows-B](https://en.wikipedia.org/wiki/Supplemental_Arrows-B), [Miscellaneous Symbols and Arrows](https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)
   - [Dingbats](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block))
   - [Miscellaneous Symbols](https://en.wikipedia.org/wiki/Miscellaneous_Symbols)
-  
+
   This does not apply if the artist purposefully uses symbols in ways that do not suggest spaces. For example, `。✰302？ionwan2go✰。` would be `.*302?ionwan2go*.` and not `. * 302 ? ionwan2go * .`. Other character sets are handled on a case-by-case basis.
+
 - **In romanised fields, special symbols must be changed to their nearest ASCII printable equivalent or removed.** Special characters other than the ones below are to be changed or dropped on a case-by-case basis. When multiple options exist, the one used for romanisation depends on context.
 
-| Symbol | Recommended Romanisation |
-| :-- | :-- |
-| `★ ☆ ⚝ ✪ ✻`, and similar shapes | `*` |
-| `♥ ♡` and similar hearts | `<3` |
-| `「 」『 』` | `""` |
-| `…` | `...` |
-| `。` | `.` |
-| `→` and similar arrows | `->` or `-->` |
-| `←` and similar arrows | `<-` or `<--` |
-| `《》` | `< >`, `<< >>`, or `""` |
-| `【】` | `""`, `()` or `[]` |
-| `≠` | `=/=` or `!=` |
-| `・` | `.`, `,` or ` ` |
-| `×` | `x` |
+  | Symbol | Recommended Romanisation |
+  | :-- | :-- |
+  | `★ ☆ ⚝ ✪ ✻`, and similar shapes | `*` |
+  | `♥ ♡` and similar hearts | `<3` |
+  | `「 」『 』` | `""` |
+  | `…` | `...` |
+  | `。` | `.` |
+  | `→` and similar arrows | `->` or `-->` |
+  | `←` and similar arrows | `<-` or `<--` |
+  | `《》` | `< >`, `<< >>`, or `""` |
+  | `【】` | `""`, `()` or `[]` |
+  | `≠` | `=/=` or `!=` |
+  | `・` | `.`, `,` or ` ` |
+  | `×` | `x` |
 
 ## Artist
 
@@ -73,9 +76,9 @@ These points also apply for any artist credits present in the title field.
 - **Use a trailing space for markers such as `vs.`, `feat.`, `CV:`, etc. when marking artists.** If a word comes before the marker, a leading space must also be used.
 - **Commas must have a trailing space**, unless intentionally stylised otherwise.
 
-### Marker rules
+#### Rules: Markers
 
-When the entire field is uppercase or lowercase, markers may use alternative casing to match the rest of the field. 
+When the entire field is uppercase or lowercase, markers may use alternative casing to match the rest of the field.
 
 - `vs.`
   - Any form of `vs`, `versus`, `Vs`, etc. indicating collaboration between artists must be written as `vs.`.
@@ -92,15 +95,15 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - `Circle Name`
   - `Well-known Member involved in the song`
   - `Circle Name feat. Circle Member/External Contributor/Singer`
-  
+
   External contributors to single songs are usually listed in the credits and other circle members that are specifically listed for the song should remain included. Whether or not a member is well-known enough to be the sole artist is determined on a case-by-case basis.
 
 ### Allowances
 
-- **When multiple artists are involved in a track without clear formatting, use an allowance below to combine them into one artist field:**
+- **When multiple artists are involved in a track without clear formatting, you may use an allowance below to combine them into one artist field:**
   - `Composer(s) feat. Singer(s)`
   - **Artists may be simply listed with `,`, `&`, `x`, `/`, etc. in between each artist.**
-  - **If the combined artist is too long and no official group name is available, a descriptive artist label may be used in the artist fields instead.** For example, `pippi (CV: pippi osu!), Yuzu (CV: Yuzu osu!), Mocha (CV: Mocha osu!), Mani (CV: Mani osu!) & Mari (CV: Mari osu!)` would be changed to `osu! cast`. If nothing fits, use `Various Artists` instead.
+  - **If the combined artist is too long and no official group name is available, a descriptive artist label may be used in the artist fields instead.** For example, `pippi, Mocha, Yuzu, Mani & Mari, Aiko, Alisa, Chirou, Taikonator, HitCircle, Fruit, Tama`  would be changed to `osu! cast`. If nothing fits, use `Various Artists` instead.
 - **When a character's voice actor is credited as the singer of a song sung in-character, the `Character (CV: Voice Actor)` format may be used.**
 
 ## Title
@@ -118,7 +121,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 
 - **Unofficial versions that match an official version in terms of content, order, and length are considered official and must add the appropriate marker. This only applies if the audio is nearly indistinguishable from the official version.**
 
-##### Markers you must add when appropriate
+##### Rules: Markers you must add when appropriate
 
 - **Songs without a version marker that fit one of the marker categories below must add the corresponding one at the end.**
 - **Songs with version markers must have them fully replaced with the standard marker from the list below.**
@@ -128,29 +131,30 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - Use when the song is a cut version that is not considered official.
   - This marker can be dropped if your cut is a full loop from a looping track, such as video game or movie background music.
 - `(Extended Edit)`
-  - Use when the song is an unofficial extended version.
+  - Use when the song is an unofficial extended version[^audio-rc-note].
 - `(Sped Up Ver.)`, `(Nightcore Mix)`
   - Use when the song has been edited to a higher tempo.
-  - Only songs that also increase the pitch of the audio can use `(Nightcore Mix)`. Otherwise, use `(Sped Up Ver.)`. 
+  - Only songs that also increase the pitch of the audio can use `(Nightcore Mix)`. Otherwise, use `(Sped Up Ver.)`.
 - **Combined Markers**
   - If the edit is sped up *and* cut, use `(Sped Up & Cut Ver.)` or `(Nightcore & Cut Ver.)`.
   - Other combined markers can be used after a discussion is held to discuss their necessity.
 
-##### Markers that you must standardise, but not always add
+##### Rules: Markers that you must standardise, but not always add
 
-- **If there are similar markers in a song's title, replace them with the relevant marker from the list below.** 
-- **If there are no markers, you can only add them when there are multiple versions of a song to indicate the correct version.**
+- **If there are similar markers in a song's title, replace them with the relevant marker from the list below.**
+- **If there are no markers, add one to the shorter version when there are multiple versions of a song with identical original metadata. Use the most appropriate option from the list below.** This is to help indicate the correct version.
+- **Do not add these markers if a track is the only known version of a song.**
 - `(Short Ver.)`
-  - Usually used to signal that a longer version actually exists. Use this when there is an existing length marker such as `-Short Ver-`, `Short Ver.`, `~Short Version~`. This does not apply to `Movie` or `Game Ver.` markers.
+  - Used to mark the shorter version when both long and short versions of a song exist. Examples to replace include: `-Short Ver-`, `Short`, `~Short Version~`.
 - `(Game Ver.)`
-  - Use this marker when there is an existing marker such as `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` for tracks used in games.
+  - Used to mark game versions of songs. Examples to replace include: `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` for tracks used in games.
 - `(Movie Ver.)`
-  - Use this when there's an existing marker like `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
+  - Used to mark movie versions of songs. Examples to replace include: `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
 
 #### Guidelines
 
 - `(#### Ver.)`
-  - When song titles already have a length / version marker not covered above, it should be changed to a descriptive `(#### Ver.)` marker using title case[^title-case]. For example: 
+  - When song titles already have a length / version marker not covered above, it should be changed to a descriptive `(#### Ver.)` marker using title case[^title-case]. For example:
     - `(Extended Version)` -> `(Extended Ver.)`
     - `(Long)` -> `(Long Ver.)`
   - Exceptions would be for when the length / version marker is so stylised it is considered part of the title, such as `Pippiquest (Pippi x Mocha Romantic Movie Remix Edition)`
@@ -159,7 +163,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 
 - **Alternative casing for markers may be used if the rest of the song title is stylised to fit the formatting.**
 - **Live performances may add a special marker, such as `(Live Ver.)`.** Descriptive markers like `(2020 Tour Live Ver.)` can also be used.
-- **Marker additions may be ignored or a custom marker may be used on a case-by-case basis if the standard markers are misleading.** Hold a discussion to determine the marker in this case and post the result publicly. 
+- **Marker additions may be ignored or a custom marker may be used on a case-by-case basis if the standard markers are misleading.** Hold a discussion to determine the marker in this case and post the result publicly.
 
 ## Source
 
@@ -191,7 +195,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 - **Tags must include the following items when applicable:**
   - **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders.**
   - **`Featured Artist`, if the track is listed in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).** You must not use the tag if the song is not in the featured artist catalogue.
-  - **At least one song genre and one language tag.** 
+  - **At least one song genre and one language tag.**
     - For instrumental tracks, `instrumental` is the language tag.
     - For tracks in artificially created languages add `conlang` to tags and use the conlang's name as the language tag.
     - If the lyrics in the song have no meaning, the language tag is not required.
@@ -216,15 +220,14 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 
 ## Romanisation
 
-This section covers what to do when romanising metadata yourself. If you use an official translation or romanisation, you must use it as-is in the romanised fields instead.
-
 ### Rules
 
+- **Any romanisation rules, guidelines and allowances only apply when you romanise metadata yourself. If you use an official translation or romanisation, you must use it as-is in the romanised fields instead.**
 - **Artist names must be romanised in the order they are printed in the unicode field.**
 - **Loan words must use the source language's spelling when romanised.**
 - **When the song uses repeat words in the title or artist where one is unicode, and the other is a romanisation, the romanised field must use the romanisation only and remove the duplicate word.** `ソレイユ -Soleil-` would become just `Soleil` and `ピポピポ -People People-` would become `People People`.
 
-### Language and Writing-system Romanisation Rules
+### Rules: Language and writing system romanisation
 
 - **Japanese**
   - Use the [Modified Hepburn system](https://en.wikipedia.org/wiki/Hepburn_romanization#Features)
@@ -252,7 +255,7 @@ This section covers what to do when romanising metadata yourself. If you use an 
 - **Finnish**
   - `ö` to `o`, `ä` to `a`
 - **German**
-  - `ü` to `ue`, `ö` to `oe`, `ä` to `ae`, and `ß` to `ss`. 
+  - `ü` to `ue`, `ö` to `oe`, `ä` to `ae`, and `ß` to `ss`.
 - **Stylised Characters**
   - Special characters used as a stylistic replacement of roman characters should be changed based off of context, such as spelling an intended word. The song `βiοs` would become `Bios`, even though the greek letter `β` is read as `v`.
 - **Other languages or systems not covered**
@@ -262,5 +265,8 @@ This section covers what to do when romanising metadata yourself. If you use an 
 
 - **When romanising languages without spaces, a space may be romanised as a comma when the space is used to clearly separate items.**
 
+## Notes
+
 [^title-case]: Capitalise all major words and leave conjunctions such as `and`, `to`, `or` as well as articles like `the`, `a`, `an` lowercase.
-[^character-voice-actor]: `CV (Character Voice)` is used when song is sung in character by the character's voice actor. `VO (Voice Over)` is used when a song is sung in character by someone other than the character's voice actor.
+[^character-voice-actor]: `CV` (*character voice*) is used when song is sung in character by the character's voice actor. `VO` (*voice over*) is used when a song is sung in character by someone other than the character's voice actor.
+[^audio-rc-note]: When dealing with user-made extended edits and song compilations, the [general audio ranking criteria](/wiki/Ranking_criteria#guidelines.2) applies.

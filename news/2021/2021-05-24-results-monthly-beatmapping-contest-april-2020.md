@@ -6,7 +6,7 @@ date: 2021-05-24 19:00:00 +0000
 
 See what osu!'s coolest mappers have conjured up and say hello to our newest Elite Mapper!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 What's the **Monthly Beatmapping Contest** (***MBC***), you ask? Insanely creative minds here at osu! gave the MBC its name because it's a mapping contest that runs monthly. See the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) for all the details!
 

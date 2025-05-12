@@ -8,7 +8,7 @@ tags:
 
 ![Catch the Beat Indonesia Cup Open 2024 logo](img/logo.png)
 
-The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), and ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157). Despite its name, the tournament is open to all players from Asia and Oceania with a global rank of #100,000 or higher in the osu!catch game mode. It is the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
+The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), and ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157). Despite its name, the tournament was open to all players from Asia and Oceania with a global rank of #100,000 or higher in the osu!catch game mode. It was the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
 
 ## Tournament schedule
 
@@ -21,32 +21,34 @@ The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) is a double-eli
 | Round of 16 | 2024-07-22/2024-07-28 |
 | Quarterfinals | 2024-07-29/2024-08-04 |
 | Semifinals | 2024-08-04/2024-08-11 |
-| Finals (week 1) | 2024-08-12/2024-08-18 |
-| Finals (week 2) | 2024-08-19/2024-08-25 |
+| Finals (week 1) | 2024-08-12/2024-08-25 |
+| Finals (week 2) | 2024-08-26/2024-09-01 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, *more to be announced* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *To be announced* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *To be announced* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $40 USD or 18 months of osu! supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $20 USD or 8 months of osu! supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $10 USD or 2 months of osu! supporter |
+
+![](img/badge.png "CICO 2024 winner badge")
 
 ## Organisation
 
-The Catch the Beat Indonesia Cup Open 2024 is run by various osu! community members from Indonesia and beyond.
+The Catch the Beat Indonesia Cup Open 2024 was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157) |
-| Mappool selector | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228) |
-| Custom mapper | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Zyzyx](https://osu.ppy.sh/users/2888013), ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689), ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=GB }:: [BIG H ZONDA KIT](https://osu.ppy.sh/users/16352736), ::{ flag=RU }:: [Morusya](https://osu.ppy.sh/users/13681464), ::{ flag=PL }:: [Malai](https://osu.ppy.sh/users/4863096), ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=MX }:: [Cowboy](https://osu.ppy.sh/users/1237535), ::{ flag=US }:: [Zileni](https://osu.ppy.sh/users/23525574), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=MX }:: [MILK_16](https://osu.ppy.sh/users/9137627) |
-| Custom map quality assurance | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) |
-| Playtester | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=ID }:: [Funtastic](https://osu.ppy.sh/users/3555626), ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=NO }:: [Yunami](https://osu.ppy.sh/users/12217903), ::{ flag=CL }:: [Thaemine](https://osu.ppy.sh/users/32442896), ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) |
-| Streamer | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768) |
-| Commentator | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=SG }:: [NoBudgetGuy](https://osu.ppy.sh/users/28498328), ::{ flag=PH }:: [-Steven08-](https://osu.ppy.sh/users/13654885), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) |
-| Referee | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [MushReen](https://osu.ppy.sh/users/10129901), ::{ flag=ID }:: [Juragan_Piscok1](https://osu.ppy.sh/users/15507280), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681) |
-| Graphic designer | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Mappool selector | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
+| Custom mapper | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Zyzyx](https://osu.ppy.sh/users/2888013), ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689), ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=GB }:: [BIG H ZONDA KIT](https://osu.ppy.sh/users/16352736), ::{ flag=RU }:: [Morusya](https://osu.ppy.sh/users/13681464), ::{ flag=PL }:: [Malai](https://osu.ppy.sh/users/4863096), ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=MX }:: [Cowboy](https://osu.ppy.sh/users/1237535), ::{ flag=US }:: [Zileni](https://osu.ppy.sh/users/23525574), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=MX }:: [MILK_16](https://osu.ppy.sh/users/9137627) |
+| Custom map quality assurance | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) |
+| Playtester | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=ID }:: [Funtastic](https://osu.ppy.sh/users/3555626), ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=NO }:: [Yunami](https://osu.ppy.sh/users/12217903), ::{ flag=CL }:: [Thaemine](https://osu.ppy.sh/users/32442896), ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) |
+| Streamer | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768) |
+| Commentator | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=SG }:: [NoBudgetGuy](https://osu.ppy.sh/users/28498328), ::{ flag=PH }:: [-Steven08-](https://osu.ppy.sh/users/13654885), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768) |
+| Referee | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [MushReen](https://osu.ppy.sh/users/10129901), ::{ flag=ID }:: [Juragan_Piscok1](https://osu.ppy.sh/users/15507280), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768) |
+| Graphic designer | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: kanata. [(↗)](https://twitter.com/kanata_workss), ::{ flag=US }:: showtime [(↗)](https://twitter.com/Sh0wtimeDTM) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
@@ -98,9 +100,44 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 31 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | 31.30 |
 | 32 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 31.40 |
 
+## Podium
+
+![](img/podium.png "CICO 2024 podium")
+
 ## Mappools
 
+### Finals (week 2)
+
+**[Download the mappack here! (173 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1277692769711947807)**
+
+- No Mod
+  1. [UNDEAD CORPORATION - The Empress (Daletto) \[Daletto & Rustyy's Ripples of 495 Years\]](https://osu.ppy.sh/beatmapsets/2239310#fruits/4758753)
+  2. [USAO - Blows Up Everything (Zyzyx) \[2056\]](https://osu.ppy.sh/beatmapsets/2239584#fruits/4759580)
+  3. [MisoilePunch -Forever- - Bloomin' (Secre) \[Massacre\]](https://osu.ppy.sh/beatmapsets/2239435#fruits/4759059)
+  4. [Lord Snow - Aranea Ienith (BIG H ZONDA KIT) \[clamamus pro nihilo\]](https://osu.ppy.sh/beatmapsets/2239387#fruits/4758973)
+  5. [Iwami Takeshi - anoko dokonoko (melon boy) \[WOAHZA\]](https://osu.ppy.sh/beatmapsets/2051777#fruits/4284780)
+- Hidden
+  1. [Kyutatsuki - \_alc.yone (Zyzyx) \[Zyx vs. Zvenx's \_syn.thesis\]](https://osu.ppy.sh/beatmapsets/2239576#fruits/4759557)
+  2. [Coconami - e3\_footkore (Sololiquy) \[Special\]](https://osu.ppy.sh/beatmapsets/2239327#fruits/4758798)
+  3. [toby fox - Hopes and Dreams (Lightin) \[But It Refused\]](https://osu.ppy.sh/beatmapsets/2116013#fruits/4443679)
+- Hard Rock
+  1. [Synestia, Disembodied Tyrant - I, The Devourer (Daletto) \[Gut and Maim\]](https://osu.ppy.sh/beatmapsets/2239329#fruits/4758813)
+  2. [Feryquitous - Estahv (BIG H ZONDA KIT) \[Colloquial (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2239386#fruits/4758970)
+  3. [Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO - Tokugawa Cup Noodle Kinshirei (Cubby) \[Tonkotsu\]](https://osu.ppy.sh/beatmapsets/1763088#fruits/3608681)
+- Double Time
+  1. [Yosuke\@KG feat. Aitsuki Nakuru - INFINITE DAYS (Dika312) \[SUNSHINE\]](https://osu.ppy.sh/beatmapsets/2239334#fruits/4758826)
+  2. [Alistair Lindsay - Galaxy Trooper (ExGon) \[Cosmic Craggs (derandomized)\]](https://osu.ppy.sh/beatmapsets/2239345#fruits/4758873)
+  3. [Cita Citata - Goyang Dumang (Nightcore Mix) (Zvenx) \[Goyangan Zvenx & Ayukawa\]](https://osu.ppy.sh/beatmapsets/2239339#fruits/4758853)
+  4. [Isekaijoucho - Replica (Live Ver.) (Raijodo) \[tkfkdgo (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2239354#fruits/4758884)
+- Easy
+  1. [Rick Astley - Never Gonna Give You Up (Des9) \[Haven't You Heard? I Rickrolled You\]](https://osu.ppy.sh/beatmapsets/2239346#fruits/4758875)
+  2. [MisomyL - Amnehilesie (Realazy) \[descente aux enfers\]](https://osu.ppy.sh/beatmapsets/1703921#fruits/3481620)
+- Tiebreaker
+  1. **[Rukadesu & 5KiLOBYTE - Bootes Void (Mochi -) \[MZZR // \<Mazzerine Exploration\>\]](https://osu.ppy.sh/beatmapsets/2239341#fruits/4758862)**
+
 ### Finals (week 1)
+
+**[Download the mappack here! (164 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1272568440510484520)**
 
 - No Mod
   1. [cosMo\@Bousou-P - Hatsune Miku no Shoushitsu -Real And Repeat- (Sololiquy) \[UNINSTALL\]](https://osu.ppy.sh/beatmapsets/2230758#fruits/4734261)
@@ -129,6 +166,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Semifinals
 
+**[Download the mappack here! (207 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1270027457084391505)**
+
 - No Mod
   1. [Passcode - It's You (Zvenx) \[Traverse Beyond the Sea\]](https://osu.ppy.sh/beatmapsets/2226730#fruits/4723733)
   2. [Memme - Pandemonium (GiGas) \[Zileni's Master\]](https://osu.ppy.sh/beatmapsets/2152059#fruits/4538677)
@@ -147,12 +186,14 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   2. [Ricky Martin - Livin' La Vida Loca (Zvenx) \[get shrekt!!\]](https://osu.ppy.sh/beatmapsets/2226732#fruits/4723735)
   3. [zts - the executioner (big snag) \[itay's insane\]](https://osu.ppy.sh/beatmapsets/2155765#fruits/4590821)
 - Easy
-  1. [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2054777)
+  1. [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2227220#fruits/4724904)
   2. [Rise Against - Injection (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmapsets/214092#fruits/646390)
 - Tiebreaker
   1. **[polysha - Endverse (MILK_16) \[Des9 & MILK\_16's Final Annihilation\]](https://osu.ppy.sh/beatmapsets/2226698#fruits/4723636)**
 
 ### Quarterfinals
+
+**[Download the mappack here! (146 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1268193477435592821)**
 
 - No Mod
   1. [-LostFairy- - Gates of Hades (Zileni) \[Zileni & Zonda's Flames of Judgement\]](https://osu.ppy.sh/beatmapsets/2223446#fruits/4714874)
@@ -179,10 +220,12 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Round of 16
 
+**[Download the mappack here! (114 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1264944048628826112)**
+
 - No Mod
   1. [Hyadain - Hyadain's Jojo Yujo (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2219094#fruits/4703760)
-  2. [DOT96 - MAKE IT FUNKY NOW (Cipse) \[FUNKY jef\]](https://osu.ppy.sh/beatmapsets/2154994#fruits/4541955)
-  3. [Pegboard Nerds - Try This (Des9) \[Shocking Wave\]](https://osu.ppy.sh/beatmapsets/2219177#fruits/4703906)
+  2. [Pegboard Nerds - Try This (Des9) \[Shocking Wave\]](https://osu.ppy.sh/beatmapsets/2219177#fruits/4703906)  
+  3. [DOT96 - MAKE IT FUNKY NOW (Cipse) \[FUNKY jef\]](https://osu.ppy.sh/beatmapsets/2154994#fruits/4541955)
   4. [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#fruits/1572141)
 - Hidden
   1. [QUEEN BEE - Mephisto (-Miya) \[CICO 2024 RO16 HD1\]](https://osu.ppy.sh/beatmapsets/2219188#fruits/4703924)
@@ -202,6 +245,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. **[Diao Ye Zong feat. Meramipop - Saifu 'Kamiasobi no Uta' (Morusya) \[Frog\]](https://osu.ppy.sh/beatmapsets/2218881#fruits/4703316)**
 
 ### Round of 32
+
+**[Download the mappack here! (98 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1262423028445220977)**
 
 - No Mod
   1. [JKT48 - Bersepeda Berdua (Cut Ver.) (Madoka Ayukawa) \[Gowes\]](https://osu.ppy.sh/beatmapsets/2214898#fruits/4692984)
@@ -227,6 +272,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Qualifiers
 
+**[Download the mappack here! (59 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1259536166164893816)**
+
 - No Mod
   1. [Yousei Teikoku - Hades: The rise (-Miya) \[CICO2024 QLF NM1\]](https://osu.ppy.sh/beatmapsets/2210040#fruits/4681178)
   2. [Fractal Dreamers - Whispers from a Distant Star (MILK_16) \[CICO NM 2 QL VER\]](https://osu.ppy.sh/beatmapsets/2210045#fruits/4681185)
@@ -244,6 +291,42 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#fruits/3539717)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 31 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/115309494) |
+
+Sunday, 1 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | [DoDoEbi](https://osu.ppy.sh/users/1177233) ::{ flag=TW }:: | 4 | **7** | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/115324254) |
+| Grand Final (bracket reset) | **[Nekuro](https://osu.ppy.sh/users/4741164)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/115325088) |
+
+### Finals (week 1)
+
+Sunday, 18 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **7** | 3 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/115131157) |
+| Lower | [Shimoe Koharu](https://osu.ppy.sh/users/2145160) ::{ flag=TW }:: | 0 | **7** | ::{ flag=CN }:: **[Nene Sakura](https://osu.ppy.sh/users/6701104)** | *win by default* |
+
+Monday, 19 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Nene Sakura](https://osu.ppy.sh/users/6701104) ::{ flag=CN }:: | 4 | **7** | ::{ flag=RU }:: **[Kimitakari](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/115143422) |
+
+Sunday, 25 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **7** | 0 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | *win by default* |
 
 ### Semifinals
 

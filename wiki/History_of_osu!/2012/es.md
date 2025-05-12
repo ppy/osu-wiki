@@ -1,4 +1,4 @@
-# Historia de osu! 2012
+# Historia de osu! de 2012
 
 ## Septiembre
 

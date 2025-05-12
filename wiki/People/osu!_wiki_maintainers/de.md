@@ -1,10 +1,15 @@
+---
+outdated_since: 0ffdd3209f4cbab2e8b050f5eb1201ddd9f4c660
+outdated_translation: true
+---
+
 # Betreuer des osu!-Wikis
 
 Die **Leiter des osu!-Wikis** pflegen das [osu!-Wiki](/wiki/osu!_wiki) über sein [GitHub-Repository](https://github.com/ppy/osu-wiki).
 
 Die Betreuer schauen regelmäßig in den [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) und überprüfen Änderungsvorschläge (Pull-Requests) von Mitwirkenden. Im Gegensatz zu anderen Beteiligten können sie Vorschläge bearbeiten und diese mit dem `master`-Branch des Repositorys zusammenführen, wodurch die Änderungen veröffentlicht werden.
 
-Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Antrag überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch können.
+Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Antrag überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch können.
 
 ## Wiki-Betreuer
 

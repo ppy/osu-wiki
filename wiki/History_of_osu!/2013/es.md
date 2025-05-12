@@ -1,4 +1,4 @@
-# Historia de osu! 2013
+# Historia de osu! de 2013
 
 ## Enero
 

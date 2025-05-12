@@ -13,7 +13,7 @@ tags:
 
 Los desarrolladores de osu! mantienen el juego y el sitio web funcionando corrigiendo errores y añadiendo nuevas funcionalidades. La mayoría de ellos son empleados de ppy Pty Ltd, la empresa propietaria de osu!. Forman la mayor parte del [osu! team](/wiki/People/osu!_team).
 
-Los desarrolladores de osu! se pueden reconocer por sus títulos de usuario rosados «osu!dev» u «osu!team», y su insignia de [grupo de usuarios](/wiki/People/User_group) que dice `DEV`.
+Los desarrolladores de osu! se pueden reconocer por sus títulos de usuario rosados «osu!dev» u «osu!team», y su insignia de [grupo de usuarios](/wiki/People/User_groups) que dice `DEV`.
 
 ## Miembros del equipo
 
@@ -42,7 +42,7 @@ El desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](https://osu.p
 
 ### Diseñadores
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Gerentes de la comunidad
 

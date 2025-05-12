@@ -18,17 +18,13 @@ So we expanded.
 
 ## [circle clicker deskmat](https://osu.ppy.sh/store/products/1347)
 
-***This design is sold out already! You'll be able to purchase it again in roughly 1-2 weeks. See the [@osugame Twitter](https://twitter.com/osugame) for current status, or hit this button on the [store page](https://osu.ppy.sh/store/products/1347):***
-
-![](/wiki/shared/news/2024-08-17-osu-deskmats/stock.png)
-
 This cursor dance through the ~~fool moon~~ night sky is a simple homage to the osu! player's daily routine: clicking circles at mach speed atop a 100% dimmed background.
 
 [![](/wiki/shared/news/2024-08-17-osu-deskmats/splash.jpg)](https://osu.ppy.sh/store/products/1347)
 
 Doubling the width of our previous deskmat, this titan is guaranteed to hold your mouse, keyboard, tablet, and at least 19 pippi plushies.
 
-[![](/wiki/shared/news/2024-08-17-osu-deskmats/stats.jpg)](https://osu.ppy.sh/store/products/1347)
+[![](/wiki/shared/news/2024-08-17-osu-deskmats/stats.jpg?1)](https://osu.ppy.sh/store/products/1347)
 
 And most importantly, it looks really cool.
 
