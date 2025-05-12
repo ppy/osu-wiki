@@ -125,7 +125,7 @@ After installing FFmpeg, open a terminal, then use one of the below commands.
 To encode in the MP3 format, paste the following command into your terminal and change these values as needed:
 
 ```
-ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
+ffmpeg -i input -c:a libmp3lame -b:a 192k -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it in double quotes (`"`)
@@ -138,7 +138,7 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 To encode in the OGG (Vorbis) format, paste the following command into your terminal and change these values as needed:
 
 ```
-ffmpeg -i input -c:a libvorbis -q:a 5 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
+ffmpeg -i input -c:a libvorbis -q:a 6 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it in double quotes (`"`)
