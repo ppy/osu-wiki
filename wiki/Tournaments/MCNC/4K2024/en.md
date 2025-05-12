@@ -272,27 +272,27 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (235 MB)](https://drive.google.com/file/d/1P-jIyESjG0HseZUYpOGgeQqIsGEV48KT/view?usp=sharing)**
 
 - Rice
-  1. [KORDHELL - LAND OF FIRE (YuEast 2018) \[:fire: x1.05\]](https://osu.ppy.sh/b/4691305)
-  2. [DJ SHARPNEL - SHIND BAD (Shoegazer) \[Nagisa 1.2x (237bpm)\]](https://osu.ppy.sh/b/3266283)
-  3. [Dance with the Dead - Venom (Cut Ver.) (OxalicAcid) \[Corruped (140bpm)\]](https://osu.ppy.sh/b/4605212)
-  4. [Shin Sakiura feat. AAAMYYY - NIGHT RUNNING (7_7 bootleg) (ICECAKE) \[NSV\]](https://osu.ppy.sh/b/4635678)
-  5. [Outsider - Hero (feat. LMNOP) (Shoegazer) \[Vengeance 1.15x (147bpm)\]](https://osu.ppy.sh/b/3760857)
-  6. [Virtual Riot - Shindeiru (lemonguy) \[Edit\]](https://osu.ppy.sh/b/2968850)
+  1. [KORDHELL - LAND OF FIRE (YuEast 2018) \[:fire: x1.05\]](https://osu.ppy.sh/beatmapsets/2214178#mania/4691305)
+  2. [DJ SHARPNEL - SHIND BAD (Shoegazer) \[Nagisa 1.2x (237bpm)\]](https://osu.ppy.sh/beatmapsets/1386270#mania/3266283)
+  3. [Dance with the Dead - Venom (Cut Ver.) (OxalicAcid) \[Corruped (140bpm)\]](https://osu.ppy.sh/beatmapsets/2180181#mania/4605212)
+  4. [Shin Sakiura feat. AAAMYYY - NIGHT RUNNING (7_7 bootleg) (ICECAKE) \[NSV\]](https://osu.ppy.sh/beatmapsets/2191547#mania/4635678)
+  5. [Outsider - Hero (feat. LMNOP) (Shoegazer) \[Vengeance 1.15x (147bpm)\]](https://osu.ppy.sh/beatmapsets/1758838#mania/3760857)
+  6. [Virtual Riot - Shindeiru (lemonguy) \[Edit\]](https://osu.ppy.sh/beatmapsets/866120#mania/2968850)
 - Hybrid
-  1. [Under Mebius feat. Aitsuki Nakuru (YUKIYANAGI Remix) ([Crz]xz1z1z) \[Hidden & xz's Hatsukoi\]](https://osu.ppy.sh/b/4691325)
-  2. [Polyphia - The Audacity (feat. Anomalie) (Nicknem_) \[Boldness 1.1x (176bpm)\]](https://osu.ppy.sh/b/4691329)
-  3. [Aire - Railroad (ATH_1gr) \[220\]](https://osu.ppy.sh/b/4674162)
+  1. [Under Mebius feat. Aitsuki Nakuru (YUKIYANAGI Remix) ([Crz]xz1z1z) \[Hidden & xz's Hatsukoi\]](https://osu.ppy.sh/beatmapsets/2214190#mania/4691325)
+  2. [Polyphia - The Audacity (feat. Anomalie) (Nicknem_) \[Boldness 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/2214193#mania/4711821)
+  3. [Aire - Railroad (ATH_1gr) \[220\]](https://osu.ppy.sh/beatmapsets/2166241#mania/4674162)
 - Long Note
-  1. [150P - Yonchoume no Himitsuya san ([GB]sherweifa) \[Sore to Sore\]](https://osu.ppy.sh/b/4691309)
-  2. [beatMARIO - Help me, ERINNNNNN!! (Cut Ver.) (AelSan) \[( ' w') o * Erin! Erin! ( ' w') o * Erin! Erin!\]](https://osu.ppy.sh/b/4691274)
-  3. [Frums - VIS::CRACKED ([Crz]Crysarlene) \[Extra\]](https://osu.ppy.sh/b/3271022)
+  1. [150P - Yonchoume no Himitsuya san ([GB]sherweifa) \[Sore to Sore\]](https://osu.ppy.sh/beatmapsets/2214179#mania/4691309)
+  2. [beatMARIO - Help me, ERINNNNNN!! (Cut Ver.) (AelSan) \[( ' w') o * Erin! Erin! ( ' w') o * Erin! Erin!\]](https://osu.ppy.sh/beatmapsets/2214166#mania/4691274)
+  3. [Frums - VIS::CRACKED ([Crz]Crysarlene) \[Extra\]](https://osu.ppy.sh/beatmapsets/1561114#mania/3271022)
 - SV
-  1. [DOT96 - MAKE IT FUNKY NOW (RuleBlazing) \[Funny (edit)\]](https://osu.ppy.sh/b/3189234)
-  2. [Soba - Utopia (Tidek) \[Paradise\]](https://osu.ppy.sh/b/2382593)
+  1. [DOT96 - MAKE IT FUNKY NOW (RuleBlazing) \[Funny (edit)\]](https://osu.ppy.sh/beatmapsets/1181310#mania/3189234)
+  2. [Soba - Utopia (Tidek) \[Paradise\]](https://osu.ppy.sh/beatmapsets/1140672#mania/2382593)
 - Difficult
-  1. [Fantom - Connect 1986 (Night Bunny 7) \[[Lv.9001] IcyWorld's Challenge\]](https://osu.ppy.sh/b/2486497)
+  1. [Fantom - Connect 1986 (Night Bunny 7) \[[Lv.9001] IcyWorld's Challenge\]](https://osu.ppy.sh/beatmapsets/592631#mania/2486497)
 - Tiebreaker
-  1. **[NormalM feat. Echo - Resonance of Viscerharma (AelSan) \[Echo of Resonance\]](https://osu.ppy.sh/b/4691301)**
+  1. **[NormalM feat. Echo - Resonance of Viscerharma (AelSan) \[Echo of Resonance\]](https://osu.ppy.sh/beatmapsets/2214176#mania/4691301)**
 
 ### Round of 32
 
