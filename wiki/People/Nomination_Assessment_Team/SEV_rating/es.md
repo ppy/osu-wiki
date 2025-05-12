@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 30adfc34244017104c315372f4c66246fde1b92e
+---
+
 # Calificación SEV
 
 El SEV es un sistema de calificación usado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) para determinar la relevancia del [restablecimiento de una nominación](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) para las evaluaciones de las nominaciones de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), proporcionando transparencia y consistencia. Este sistema de calificación se divide en dos valores y se muestra como *obviedad/severidad*. Ambos valores varían entre 0 y 2, lo que lo convierte en un sistema fácil de entender y rápido de usar.
