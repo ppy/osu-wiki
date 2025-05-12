@@ -31,7 +31,7 @@ Submit your plays any time within the next **2 weeks**!
 
 ### osu! results
 
-This contest's restriction: **all sliders must be straight lines**. Due to higher-than-usual submission count, this contest started with [screening](https://osu.ppy.sh/wiki/en/Contests/Monthly_Beatmapping_Contest#screening) before moving to the [judging phase](https://osu.ppy.sh/wiki/en/Contests/Monthly_Beatmapping_Contest#judging).
+This contest's restriction: **all sliders must be straight lines**. Due to higher-than-usual submission count, this contest started with [screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening) before moving to the [judging phase](/wiki/Contests/Monthly_Beatmapping_Contest#judging).
 
 [See the full results here!](https://mappersguild.com/contests/results?contest=67b3b11e2e2770551f4fb92b)
 
