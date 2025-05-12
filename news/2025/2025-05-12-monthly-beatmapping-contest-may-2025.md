@@ -41,7 +41,7 @@ This contest's restriction: **all sliders must be straight lines**. Due to highe
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Winner | [phyr](https://osu.ppy.sh/users/13181574) | [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/2365980) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (6 total) |
 | Runner-up | [fowwo](https://osu.ppy.sh/users/4547551) | [Akiri - Oracle](https://osu.ppy.sh/beatmapsets/2367563) | - | - | +1 (8 total) |
-| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [-YeLing-](https://osu.ppy.sh/users/14726718) | [Aethoro - Deertracks](LINK) | - | - | +1 (1 total) |
+| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [-YeLing-](https://osu.ppy.sh/users/14726718) | Aethoro - Deertracks | - | - | +1 (1 total) |
 
 #### Top submissions
 
