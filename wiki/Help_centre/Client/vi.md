@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Client
 
 Trang chính: [Trung tâm trợ giúp](/wiki/Help_centre)
