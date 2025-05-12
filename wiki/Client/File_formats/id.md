@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Format berkas osu!
 
 ## Daftar format berkas
