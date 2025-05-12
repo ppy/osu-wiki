@@ -14,6 +14,7 @@ tags:
   - tenggang penumpukan
   - toleransi penumpukan
   - stacking otomatis
+no_native_review: true
 ---
 
 # Stack leniency
