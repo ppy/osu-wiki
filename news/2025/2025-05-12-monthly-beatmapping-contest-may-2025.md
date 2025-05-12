@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: May 2025"
-date: 2025-05-12 21:15:00 +0000
+date: 2025-05-12 21:30:00 +0000
 ---
 
 Within the editor's 512×384 grid exists infinite mapping choices. See how your circles fare against the crowd in this month's contest, or play the top maps from the previous iteration!
