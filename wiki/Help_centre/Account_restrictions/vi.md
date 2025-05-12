@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Hạn chế tài khoản
 
 *Bài viết chính: [Trung tâm trợ giúp](/wiki/Help_centre)*
