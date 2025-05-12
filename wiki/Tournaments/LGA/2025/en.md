@@ -345,7 +345,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 4. After the ban/protect phase, players will take turns picking maps from the available pool, following the ABBA order, starting with the higher seedeed player.
 5. The bracket stage will have two phases (one per weekend):
    - For the first weekend, a single-elimination bracket will be played from the Round of 32 up until the Quarterfinals.
-   - For the second weekend, a double-elimination bracket will be played, from the Semifinals up until the Grand Finals.
+   - For the second weekend, a double-elimination bracket will be played, from Quarterfinals up until the Grand Finals.
 6. All matches for each weekend will utilise the same mappool.
    - Each pool will feature 15 maps, organised as such:
      - No Mod: 4 beatmaps
