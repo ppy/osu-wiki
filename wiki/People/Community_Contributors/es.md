@@ -272,7 +272,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
 | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([osuplus](https://github.com/limjeck/osuplus)) |
 | ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([owo! bot](https://owo-bot.xyz/)) |
-| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([Bathbot](https://github.com/MaxOhn/Bathbot])) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
 
 ## Historia
 
