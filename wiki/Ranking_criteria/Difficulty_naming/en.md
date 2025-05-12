@@ -53,7 +53,7 @@ These difficulty names are the most commonly used for each game mode.
 
 ## Difficulty naming schemes from other games
 
-Mapsets of songs that originated from other rhythm games often borrow that game's difficulty naming scheme. Usage of these difficulty names is acceptable for any song. Some of the common naming schemes that made their way into osu! are listed here:
+Mapsets of songs that originated from other games often borrow that game's difficulty naming scheme. Usage of these difficulty names is acceptable for any song. Some of the common naming schemes that made their way into osu! are listed here:
 
 ### Beatmania IIDX
 
