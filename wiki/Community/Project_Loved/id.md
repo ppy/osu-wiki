@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Project Loved
 
 **Project Loved** merupakan platform pemungutan suara yang mempromosikan beatmap ke kategori [Loved](/wiki/Beatmap/Category#loved). Proyek ini sebagian besarnya dijalankan oleh [tim Project Loved](/wiki/People/Project_Loved_Team).
