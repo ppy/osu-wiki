@@ -69,9 +69,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | 14 | RO32 | [LUNAISTABBY](https://osu.ppy.sh/users/4673649) ::{ flag=US }:: | ::{ flag=PL }:: [eniu](https://osu.ppy.sh/users/5472693) | [May 17 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250517T200000&p1=1440) | *TBD* | [^winners-bracket] |
 | 10 | RO32 | [alfiu](https://osu.ppy.sh/users/17724014) ::{ flag=CL }:: | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [May 17 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250517T210000&p1=1440) | *TBD* | [^winners-bracket] |
 
-## Match schedule: Round of 16
-
-
 ### Sunday, 18 May 2025
 
 | ID | Round | Team A | Team B | Match time | Twitch stream | Depends on matches |
