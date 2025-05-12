@@ -1,6 +1,6 @@
 # Beatmap veto
 
-The *beatmap veto* allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the [Ranked](/wiki/Beatmap/Category#ranked) section. Seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with [Qualification](/wiki/Beatmap_ranking_procedure#qualification) is one of their main responsibilities.
+The *beatmap veto* allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from ranking if they feel there are significant issues regarding beatmap quality which make it unfit for the [Ranked](/wiki/Beatmap/Category#ranked) section. Seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with [Qualification](/wiki/Beatmap_ranking_procedure#qualification) is one of their main responsibilities.
 
 Any Beatmap Nominator may place a beatmap veto, provided they are formally qualified for the game mode(s) in question, as stated in the [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules). Each beatmap veto must be discussed by both parties — the mapper as well as the Nominator placing the beatmap veto — in an attempt to reach an agreed compromise.
 
@@ -10,8 +10,7 @@ In cases where discussion does not take place or is inconclusive, and either the
 
 As a Beatmap Nominator, you can veto a beatmap in one of three ways:
 
-- In the case of nominated beatmaps, resetting its nominations.
-- In the case of qualified beatmaps, disqualifying it.
+- In the case of nominated or qualified beatmaps, posting a suggestion stamp.
 - In the case of pending beatmaps, posting a problem stamp.
 
 In all cases, the beatmap veto should be stated as such, and should be accompanied by a detailed explanation as to why you believe the beatmap in question should not be considered for Qualification. A proper discussion which attempts to reach a mutual agreement by both sides of the argument must then follow.
@@ -30,7 +29,7 @@ During mediation, Beatmap Nominators and members of the NAT for the game mode(s)
 
 Any decision made by participants must be accompanied by a reason for making the decision. Should a member be unable to participate, their vote will be considered abstained.
 
-For a veto point to be upheld, a 70% majority of votes must agree with what is stated. If this threshold is not reached, the veto point may be dismissed.
+For a veto point to be upheld, a 60% majority of votes must agree with what is stated. If this threshold is not reached, the veto point may be dismissed.
 
 ## How to proceed after mediation
 

@@ -272,7 +272,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
 | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([osuplus](https://github.com/limjeck/osuplus)) |
 | ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([owo! bot](https://owo-bot.xyz/)) |
-| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([Bathbot](https://github.com/MaxOhn/Bathbot])) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
 
 ## Geschichte
 
