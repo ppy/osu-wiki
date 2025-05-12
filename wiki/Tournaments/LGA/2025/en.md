@@ -165,7 +165,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1OR01k8dPK5n01LzxrM1lpZLetKx9Kb-2yx42EQvhMwA?rm=minimal).\
 [View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2456368092?t=0h4m54s).
 
-| Seed | Country | %MAX[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| Seed | Country | %MAX[^qualifiers-seeding] | Avg. score[^qualifiers-tiebreaker] |
 | :-: | :-- | --: | --: |
 | #1 | MALISZEWSKI | 10.229 | 887,430 |
 | #2 | mrekk | 10.081 | 872,481 |
