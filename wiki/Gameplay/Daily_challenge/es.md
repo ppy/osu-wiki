@@ -11,7 +11,7 @@ Desde el menú principal, se puede acceder al menú del desafío diario con los 
 1. Haz clic en el botón `jugar` o presiona `P`.
 2. Haz clic en el botón `desafío diario` o presiona `D`.
 
-![](img/daily-challenge-menu.png "Captura de pantalla del menú del desafío diario del 7 de noviembre de 2024.") 
+![](img/daily-challenge-menu.png "Captura de pantalla del menú del desafío diario del 7 de noviembre de 2024.")
 
 Al entrar, el usuario se encuentra con una introducción que muestra el beatmap que tiene que pasar, y los mods con los que tiene que pasarlo.
 
@@ -43,9 +43,9 @@ El proyecto está organizado por ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/user
 - ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
-- ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
+- ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
 
 ## Curiosidades
 
