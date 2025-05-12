@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: May 2025"
-date: 2025-05-12 21:15:00 +0000
+date: 2025-05-12 21:30:00 +0000
 ---
 
 Within the editor's 512×384 grid exists infinite mapping choices. See how your circles fare against the crowd in this month's contest, or play the top maps from the previous iteration!
@@ -31,7 +31,7 @@ Submit your plays any time within the next **2 weeks**!
 
 ### osu! results
 
-This contest's restriction: **all sliders must be straight lines**. Due to higher-than-usual submission count, this contest started with [screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening) before moving to the [judging phase](/wiki/Contests/Monthly_Beatmapping_Contest#judging).
+This contest's restriction: **all sliders must be straight lines**. Due to a higher-than-usual submission count, this contest started with [screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening) before moving to the [judging phase](/wiki/Contests/Monthly_Beatmapping_Contest#judging).
 
 [See the full results here!](https://mappersguild.com/contests/results?contest=67b3b11e2e2770551f4fb92b)
 
@@ -96,7 +96,7 @@ If you're confused about how these work, ask for clarification in the comments, 
 
 #### osu!
 
-According to the [ancient mapping lore](/wiki/Beatmapping/Mapping_techniques/Basics#jumps), mappers in ye olde days would sometimes use *new combos* to indicate *jumps*. In the current mapping climate, jumps are used everywhere, so that concept has been thrown out the window... but the MBC is here to bring it back!
+According to the [ancient mapping lore](/wiki/Beatmapping/Mapping_techniques/Basics#jumps), mappers in ye olden days would sometimes use *new combos* to indicate *jumps*. In the current mapping climate, jumps are used everywhere, so that concept has been thrown out the window... but the MBC is here to bring it back!
 
 This month's limitation: **all objects within a combo must have equal spacing.**
 
