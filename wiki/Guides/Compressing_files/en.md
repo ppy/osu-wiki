@@ -89,7 +89,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -vf scale=-1:720 -an -sn -
 
 Generally, OGG (Vorbis) results in better quality than MP3 for a given bit rate.
 
-**The [ranking criteria](/wiki/Ranking_criteria#audio) specifies that average bit rate must be between 192kbps and 128kbps.** As a reference, [Featured Artists](/wiki/People/Featured_Artists) songs included in the beatmap templates are encoded with a constant bit rate of 192kbps.
+**The [ranking criteria](/wiki/Ranking_criteria#audio) specifies that average bit rate must be between 192kbps and 128kbps for MP3 format, and between 208kbps and 128kbps for OGG (Vorbis) format.** As a reference, [Featured Artists](/wiki/People/Featured_Artists) songs included in the beatmap templates are encoded to MP3 with a constant bit rate of 192kbps.
 
 ### Using Audacity
 
@@ -106,8 +106,8 @@ To begin, download and install [Audacity](https://www.audacityteam.org/), then f
 ![Export as MP3](img/exportmenu-audacity.png "Export as MP3")
 
 3. Change the export options to compress your file, depending on selected format:
-   - For MP3, use `Preset` and select the quality of `Medium, 145-185 kbps`
-   - For OGG (Vorbis), keep the `Quality` slider at `5`, which is the default value
+   - For MP3, change the bit rate mode to `Constant` and select the quality of `192 kbps`
+   - For OGG (Vorbis), adjust the `Quality` slider to `6`, which sets the average bit rate to 192 kbps
 4. Select the output location and click `Save`, and a new dialog will appear for you to enter audio metadata.
 
 ![Export settings](img/exportsettings-audacity.png "Export settings")
@@ -130,7 +130,7 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it in double quotes (`"`)
 - `-c:a libmp3lame`: Specify that the audio should be encoded using the LAME MP3 encoder
-- `-q:a 4`: Use the same variable bit rate range as in the Audacity example, **where a lower number means higher bit rate**. If you want constant bit rate, you would instead use for instance `-b:a 128k` for a constant 128kbps bit rate
+- `-b:a 192k`: Set the bit rate to a constant 192kbps. If you want variable bit rate, you would instead use for instance `-q:a 2` for average 192 kbps (the lower number means higher bit rate)
 - `-vn -sn`: Remove video and subtitles if present
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present
 - `output.mp3`: Your output file. If the file name contains spaces, wrap it in double quotes (`"`)
@@ -143,7 +143,7 @@ ffmpeg -i input -c:a libvorbis -q:a 5 -vn -sn -map_metadata -1 -map_chapters -1 
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it in double quotes (`"`)
 - `-c:a libvorbis`: Specify that the audio should be encoded using the libvorbis encoder
-- `-q:a 5`: Use the same variable bit rate range as in the Audacity example, **where a higher number means higher bit rate**. If you want constant bit rate, you would instead use for instance `-b:a 128k` for a constant 128kbps bit rate
+- `-q:a 6`: Use the same variable bit rate range as in the Audacity example (where a higher number means higher bit rate). If you want constant bit rate, you would instead use for instance `-b:a 192k` for a constant 192kbps bit rate
 - `-vn -sn`: Remove video and subtitles if present
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present
 - `output.ogg`: Your output file. If the file name contains spaces, wrap it in double quotes (`"`)
