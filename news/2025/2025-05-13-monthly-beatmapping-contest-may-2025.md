@@ -102,7 +102,7 @@ This month's limitation: **all objects within a combo must have equal spacing.**
 
 ![](/wiki/shared/news/2025-05-13-monthly-beatmapping-contest-may-2025/combos.jpg)
 
-For the pedants out there, "spacing" is based on pixel distance between objects ([this thing in osu!(lazer)](/wiki/shared/news/2025-05-10-monthly-beatmapping-contest-may-2025/lazer.png)), *not* distance spacing multiplier ([this thing in osu!(stable)](/wiki/shared/news/2025-05-10-monthly-beatmapping-contest-may-2025/stable.png)). The latter can be manipulated with slider velocity, which would defeat the point of this limitation!
+For the pedants out there, "spacing" is based on pixel distance between objects ([this thing in osu!(lazer)](/wiki/shared/news/2025-05-13-monthly-beatmapping-contest-may-2025/lazer.png)), *not* distance spacing multiplier ([this thing in osu!(stable)](/wiki/shared/news/2025-05-13-monthly-beatmapping-contest-may-2025/stable.png)). The latter can be manipulated with slider velocity, which would defeat the point of this limitation!
 
 There's a lot of room for confusion in this concept, so if you have any questions, this news article's comments section is a good place to ask (or [here](https://osu.ppy.sh/community/chat?sendto=3178418) if you want some privacy).
 
