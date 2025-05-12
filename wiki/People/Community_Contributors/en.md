@@ -274,7 +274,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Outstanding contribution to the community via tooling development ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
 | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Outstanding contribution to the community via tooling development ([osuplus](https://github.com/limjeck/osuplus)) |
 | ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Outstanding contribution to the community via tooling development ([owo! bot](https://owo-bot.xyz/)) |
-| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Outstanding contribution to the community via tooling development ([Bathbot](https://github.com/MaxOhn/Bathbot])) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Outstanding contribution to the community via tooling development ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
 
 ## History
 
