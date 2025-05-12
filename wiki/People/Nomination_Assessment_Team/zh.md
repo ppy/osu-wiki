@@ -6,7 +6,7 @@ tags:
 
 # 审核评估团队 (NAT)
 
-*参见：[BN 评估](Evaluations)*
+*参见：[BN 评估](Evaluations)*, [SEV 分数](SEV_rating)
 
 **审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
 
@@ -39,8 +39,8 @@ tags:
 - **管理**：处理玩家举报，评估谱面审核成员 (BN) 的不良行为，以及处理和审查谱面内容。这部分工作通常由审核评估团队 (NAT) 和全局管理团队 (GMT) 合作完成。
 - **杂项处理**：包括但不限于：
  - 推进[谱面否决 (Veto)](/wiki/People/Beatmap_Nominators/Beatmap_Veto)。
- - 维护[谱面管理子论坛](https://osu.ppy.sh/community/forums/115)。
- - 判决提名重置的影响[^impact-rating]。
+ - 维护[谱面上架标准 (RC)](https://osu.ppy.sh/community/forums/87) 和[谱面管理](https://osu.ppy.sh/community/forums/115)子论坛。
+ - 判决提名重置的[严重程度](SEV_rating)。
 
 负责这一类别的 NAT 成员，需要确保 BN 和作图摸图社区的其他成员之间保持良好的沟通，互相之间接受对方的意见。此外，顾问还负责维护与作图和摸图相关的一切运行所需的组件。顾问通常由经验丰富的 NAT 成员组成，他们更常关注作图和摸图相关的管理事务。
 
@@ -98,10 +98,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 拥有内部访问权限的前 NAT 成员有：
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
@@ -140,12 +137,9 @@ NAT 领导人的职责是：
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | 瑞典语 |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
@@ -164,10 +158,10 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
@@ -186,7 +180,7 @@ NAT 领导人的职责是：
 | 名字 | 职责 |
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文件 |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织者 |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 维护谱面上架标准 (RC) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 开发 [BN 管理网站](https://bn.mappersguild.com) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
@@ -198,15 +192,8 @@ NAT 领导人的职责是：
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 处理内容举报 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 开发[提名规划师 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 开发 [BN 管理网站](https://bn.mappersguild.com) 和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! NAT 内部代表[^internal-representatives]，推行关于 osu! 提名重置的影响评分 (impact ratings)[^impact-rating] |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 推行关于 osu! 提名重置的影响评分 (impact ratings)[^impact-rating] |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
-此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 这个机器人是 NAT 的代言人，NAT 使用此账号而非玩家账号发布消息。它可以用于回应评估结果、模拟评估、调解、报告和内容审查，以及其他杂项事务。
-
-## 备注
-
-[^internal-representatives]: 内部代表协助 NAT 领导，监督每个游戏模式的活跃度要求，并在团队内推动事务发展。
-[^impact-rating]: 这一过程的内容为：检查每一次提名重置，并为其分配一个“轻微”、“注意”、“严重”标签，以供未来的评估参考。
+此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 这个机器人是 NAT 的代言人，NAT 使用此账号而不是其他玩家账号来发布消息。它可以用于 NAT 回应评估结果、模拟评估、调解、报告和内容审查，以及处理其他杂项事务。
