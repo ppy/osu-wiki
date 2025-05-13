@@ -76,8 +76,8 @@ Send some appreciation to [BlackBN](https://osu.ppy.sh/users/6291741), [arcpotat
 
 This month's contest is open to **osu!** and **osu!taiko** mappers.
 
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/246)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/247)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/246)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/247)
 
 ## Timeline
 
