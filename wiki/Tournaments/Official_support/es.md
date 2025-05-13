@@ -15,7 +15,7 @@ tags:
 
 El [osu! team](/wiki/People/osu!_team) dirige un programa en el que puede optar por proporcionar un soporte extra a los torneos organizados por la comunidad que cumplan una serie de criterios y expectativas, según su criterio.
 
-Este artículo se actualizó por última vez el 1 de mayo de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Este artículo se actualizó por última vez el 13 de mayo de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Beneficios
 
@@ -50,7 +50,8 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
   - osu!: 100 000
   - osu!taiko: 10 000
   - osu!catch: 5000
-  - osu!mania: 40 000
+  - osu!mania 4K: 40 000
+  - osu!mania 7K: 5000
   - Esto no se aplica a los torneos de rango abierto.
 - Los organizadores del torneo no recopilarán, permitirán el envío ni usarán ningún tipo de información personal[^personal-information] de los participantes por ningún motivo fuera de estas excepciones definidas.
   - Los organizadores del torneo podrán recopilar y usar las direcciones de correo electrónico por cualquier motivo, siempre que sea necesario para el funcionamiento del torneo.
