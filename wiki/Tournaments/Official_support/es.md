@@ -50,7 +50,8 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
   - osu!: 100 000
   - osu!taiko: 10 000
   - osu!catch: 5000
-  - osu!mania: 40 000
+  - osu!mania 4K: 40 000
+  - osu!mania 7K: 5000
   - Esto no se aplica a los torneos de rango abierto.
 - Los organizadores del torneo no recopilarán, permitirán el envío ni usarán ningún tipo de información personal[^personal-information] de los participantes por ningún motivo fuera de estas excepciones definidas.
   - Los organizadores del torneo podrán recopilar y usar las direcciones de correo electrónico por cualquier motivo, siempre que sea necesario para el funcionamiento del torneo.
