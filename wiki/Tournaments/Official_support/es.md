@@ -15,7 +15,7 @@ tags:
 
 El [osu! team](/wiki/People/osu!_team) dirige un programa en el que puede optar por proporcionar un soporte extra a los torneos organizados por la comunidad que cumplan una serie de criterios y expectativas, según su criterio.
 
-Este artículo se actualizó por última vez el 1 de mayo de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Este artículo se actualizó por última vez el 13 de mayo de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Beneficios
 
