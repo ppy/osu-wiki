@@ -60,5 +60,5 @@ Ranked beatmaps are only unranked under exceptional circumstances when issues ar
 
 ## Notes
 
-[^main-game-mode]: A beatmap's game mode is considered its "main" if it contains the most difficulties. In the event the amount of difficulties is the same between 2+ modes, the main game mode will be the one with the most difficulties mapped by the beatmap's host. If both of those conditions are met, then the main game mode will be the one which gets nominated first.
+[^main-game-mode]: A beatmap's game mode is considered its "main" if it contains the most difficulties. In the event the amount of difficulties is the same between 2+ modes, the main game mode will be the one with the most difficulties mapped by the beatmap's host. If neither of those conditions are met, then the main game mode will be the one which gets nominated first.
 [^hybrid-sets]: For beatmaps with difficulties across multiple game modes, two nominations are needed for the main game mode and one is required for each subsidiary one.
