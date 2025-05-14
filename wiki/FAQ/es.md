@@ -14,7 +14,7 @@ Se pueden ver los círculos de juego en la pantalla inferior y la historia en la
 
 *Explicación completa: [osu!](/wiki/Game_mode/osu!)*
 
-Si bien es posible que la mayoría de los jugadores no tengan una pantalla táctil a su disposición, el juego se creó para que se pudiera jugar con un ratón normal, así como con cualquier variación creativa del uso de dispositivos de entrada. Puedes encontrar diferentes estilos de juego en la página de [estilos de juego](/wiki/Gameplay/Play_style). Hay algunas canciones que sobrepasarán los límites del ratón normal y del jugador, pero todos los beatmaps (clasificados y aprobados) han sido probados y (la mayoría pueden ser) pasables usando solo un ratón.
+Si bien es posible que la mayoría de los jugadores no tengan una pantalla táctil a su disposición, el juego se creó para que se pudiera jugar con un ratón normal, así como con cualquier variación creativa del uso de dispositivos de entrada. Puedes encontrar diferentes estilos de juego en la página de [estilos de juego](/wiki/Gameplay/Play_style). Hay algunas canciones que sobrepasarán los límites del ratón normal y del jugador, pero todos los beatmaps (clasificados y aprobados) han sido probados y (la mayoría) pueden ser pasables usando solo un ratón.
 
 #### Conceptos básicos de la jugabilidad
 
@@ -36,7 +36,7 @@ Estas son algunas de las habilidades vitales para convertirse en un *maestro del
 
 ![Círculos](/wiki/shared/osu_hitcircles.jpg "Círculos de osu!")
 
-Un fino círculo de aproximación de color similar en el exterior del círculo de impacto se reducirá con el tiempo. Pulsa sobre la nota en el punto exacto en que toca el borde blanco del círculo. Después de pulsar el círculo, aparecerá una explosión que mostrará la puntuación y los cambios de salud dependiendo de la sincronización de la pulsación con el ritmo. El círculo desaparecerá después de la explosión de la puntuación.
+Un fino anillo de color similar, situado en el exterior del círculo, se reducirá con el tiempo. Pulsa sobre la nota en el punto exacto en el que el anillo toque el borde blanco del círculo. Después de pulsar el círculo, aparecerá una explosión que mostrará la puntuación y los cambios de salud dependiendo de la sincronización de la pulsación con el ritmo. El círculo desaparecerá después de la explosión de la puntuación.
 
 Para comprender el encanto oculto de los círculos, no confíes solo en la percepción; siente los latidos y el ritmo del beatmap. Ayudará a hacer malabares con algunos de los patrones de círculos visualmente complejos que se encuentran en dificultades posteriores.
 
@@ -46,17 +46,17 @@ Para comprender el encanto oculto de los círculos, no confíes solo en la perce
 
 Primero, pulsa sobre él en el momento adecuado; sin embargo, la cosa no acaba ahí. Una bola comenzará a moverse por el camino. Mantén pulsado el botón del ratón/teclado (o mantén el lápiz sobre la tableta) y sigue la bola dentro del grueso círculo naranja que la rodea mientras se mueve. El círculo exterior naranja, llamado círculo de seguimiento, aparecerá si se sujeta la bola del slider, pero desaparecerá cuando se suelte.
 
-A veces, como se ve en la captura de pantalla anterior, la pelota puede invertir su dirección y el jugador debe seguirla hasta el principio del camino o viceversa. La señal visual es una flecha invertida en el círculo final/inicial del camino.
+A veces, como se ve en la captura de pantalla anterior, la bola puede invertir su dirección y el jugador debe seguirla hasta el principio del camino o viceversa. La señal visual es una flecha inversa en el círculo final/inicial del camino.
 
 ##### Spinners
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "Un spinner de osu!")
 
-Mantén pulsado el botón del ratón/teclado (o el lápiz sobre la tableta). A continuación, usa el ratón (o el lápiz) y haz girar el spinner en un movimiento circular (en cualquier dirección) hasta que el círculo del spinner crezca completamente hacia fuera. Un aviso de *Clear* aparecerá para indicar que el spinner se ha completado. Si el spinner se ha completado antes de tiempo, sigue girando para conseguir la bonificación de puntuación y recuperar algo de salud.
+Mantén pulsado el botón del ratón/teclado (o el lápiz sobre la tableta). A continuación, usa el ratón (o el lápiz) y haz girar el spinner en un movimiento circular (en cualquier dirección) hasta que el círculo del spinner crezca completamente hacia fuera. Un aviso de *Clear* aparecerá para indicar que el spinner se ha completado. Si el spinner se ha completado antes de tiempo, sigue girando para conseguir una bonificación de puntuación y recuperar algo de salud.
 
-El círculo blanco exterior muestra el tiempo que queda para completar el spinner. Este círculo se volverá rojo para indicar que el tiempo está a punto de agotarse. Los beatmaps más antiguos, que usan la *versión 1,0 para las skins*, tendrán un medidor para indicar lo cerca que estás de completar el spinner.
+El círculo blanco exterior muestra el tiempo que queda para completar el spinner. Este círculo se volverá rojo para indicar que el tiempo está a punto de agotarse. Los beatmaps más antiguos, que usan la *versión 1.0 para las skins*, tendrán un medidor para indicar lo cerca que estás de completar el spinner.
 
-El pequeño cuadro situado debajo del spinner muestra las rotaciones por minuto. El número dentro de ese cuadro se refiere al número de rotaciones posibles, si se continúa haciendo girar el spinner a esa velocidad durante un minuto. Si se suelta el botón del ratón/teclado (o el lápiz no toca la tableta) al principio del giro, el spinner dejará de leer dicho giro.
+El pequeño cuadro situado debajo del spinner muestra las rotaciones por minuto. El número dentro de ese cuadro se refiere al número de rotaciones posibles, si se continúa haciendo girar el spinner a esa velocidad durante un minuto. Si se suelta el botón del ratón/teclado (o el lápiz deja de tocar la tableta) al principio del giro, el spinner dejará de leer dicho giro.
 
 En la *DS*, esta es una buena forma de rayar la pantalla táctil (o el protector de pantalla), especialmente en las dificultades más altas. En osu!, los spinners se fueron ajustando para que no resulten tan molestos de completar. El número máximo de rotaciones por minuto que se puede conseguir es 477, que es también la velocidad a la que gira el mod [Auto](/wiki/Gameplay/Game_modifier/Auto), mientras que el mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) gira más despacio, a 287 giros por minuto.
 
@@ -66,7 +66,7 @@ En la *DS*, esta es una buena forma de rayar la pantalla táctil (o el protector
 
 La barra superior izquierda es la barra de salud, que disminuirá a un ritmo constante (dependiendo de los ajustes de dificultad del beatmap), pero que puede rellenarse pulsando notas en el momento adecuado o haciendo girar el spinner. Un golpe perfectamente sincronizado (un 300 o Geki) recuperará más salud que un golpe mal sincronizado (50). Un fallo total restará un buen trozo de salud de la barra de salud.
 
-A la derecha de la barra de salud está la puntuación total. Debajo está la precisión. El círculo al lado de la precisión (y debajo de la puntuación) es un indicador de la duración del beatmap. El número de la parte inferior izquierda es el contador del combo/multiplicador de puntuación.
+A la derecha de la barra de salud está la puntuación total. Debajo está la precisión. El círculo a la izquierda de la precisión (y debajo de la puntuación) es un indicador de la duración del beatmap. El número de la parte inferior izquierda es el contador del combo/multiplicador de puntuación.
 
 #### Controles
 
@@ -98,7 +98,7 @@ Haz clic en el botón `Mode` para **abrir una lista de los modos de juego dispon
 
 ![Interfaz de osu!taiko](/wiki/shared/taiko-gameplay.jpg "Interfaz de juego de osu!taiko")
 
-*[Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin)* es un juego de ritmo de tambor taiko creado por *Namco* (ahora Namco Bandai). El juego consiste en simular que se toca el tambor taiko al ritmo de la música. En osu!, los beatmaps pueden jugarse con el estilo de *Taiko no Tatsujin* mediante el uso del modo de juego de osu!taiko.
+*[Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin)* es un juego de ritmo de tambor taiko creado por *Namco* (ahora Bandai Namco). El juego consiste en simular que se toca el tambor taiko al ritmo de la música. En osu!, los beatmaps pueden jugarse con el estilo de *Taiko no Tatsujin* mediante el uso del modo de juego de osu!taiko.
 
 #### Explicación básica
 
