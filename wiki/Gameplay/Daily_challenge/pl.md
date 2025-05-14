@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 484cdf4e21c5aa17ab9cf097c57b413162d948a8
 no_native_review: true
 ---
 
@@ -15,7 +17,7 @@ Z menu głownego, menu wyzwań dziennych można uzyskać poprzez wykonanie poni�
 1. Kliknij przycisk `graj` lub kliknij `P` na klawiaturze.
 2. Kliknij przycisk `wyzwanie dnia` lub kliknij `D` na klawiaturze.
 
-![](img/daily-challenge-menu.png "Zrzut ekranu menu wyzwań dnia z dnia 7 listopada, 2024.") 
+![](img/daily-challenge-menu.png "Zrzut ekranu menu wyzwań dnia z dnia 7 listopada, 2024.")
 
 Na wejście, użytkownik jest prezentowany wprowadzeniem pokazujące beatmapę, którą użytkownik musi przejść, oraz mody z którymi musi ją przejść.
 
@@ -46,9 +48,9 @@ Passy są wyświetlane na profilach użytkownika z innymi kolorami zależnie od 
 
 Projekt jest organizowany przez ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). Poniżej przedstawieni członkowie społeczności zajmują się wybieraniem beatmap:
 
+- ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
 - ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)

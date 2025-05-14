@@ -4,7 +4,7 @@ The **osu! wiki maintainers** maintain the [osu! wiki](/wiki/osu!_wiki) via its 
 
 The maintainers regularly look after the [issue tracker](https://github.com/ppy/osu-wiki/issues) and review pull requests (edit requests) from contributors. Contrary to other contributors, they can edit pull requests and merge them into the `master` branch of the repository, effectively making the changes public.
 
-If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu! Discord server](/wiki/Community/Discord_servers#official) and a maintainer or another contributor will reply back (all maintainers know English).
+If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu! Discord server](/wiki/Community/Discord_servers#official) and a maintainer or another contributor will reply back (all maintainers speak English).
 
 ## Wiki maintainers
 
@@ -19,6 +19,7 @@ If you need help with making a contribution or want a review on your pull reques
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactive | Spanish |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Inactive | German |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inactive |  |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | [Nivalyx](https://github.com/Nivalyx) | **Active** | Indonesian |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inactive | German |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Active** | Japanese |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Inactive |  |
@@ -31,7 +32,7 @@ If you need help with making a contribution or want a review on your pull reques
 
 ## News maintainers
 
-Curators, editors, and approvers of all [news posts](https://osu.ppy.sh/home/news) that appear on the website.
+The following are maintainers who, on top of their regular maintenance responsibilities, also curate, edit, and approve all the [news posts](https://osu.ppy.sh/home/news) that appear on the website.
 
 | osu! profile | GitHub profile |
 | :-- | :-- |
@@ -43,9 +44,9 @@ Curators, editors, and approvers of all [news posts](https://osu.ppy.sh/home/new
 
 ## Past maintainers
 
-This list includes maintainers of the MediaWiki setup, which the osu! wiki [used to have](/wiki/History_of_osu!/osu!_wiki):
+The following are maintainers who are no longer listed as part of the [wiki team](https://github.com/orgs/ppy/teams/wiki/members). This also includes maintainers of [the MediaWiki setup](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)), which hosted the osu! wiki prior to its migration to GitHub.
 
-- ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
+- ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
 - ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)
 - ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)
