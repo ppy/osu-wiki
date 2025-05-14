@@ -14,7 +14,7 @@ Se pueden ver los círculos de juego en la pantalla inferior y la historia en la
 
 *Explicación completa: [osu!](/wiki/Game_mode/osu!)*
 
-Si bien es posible que la mayoría de los jugadores no tengan una pantalla táctil a su disposición, el juego se creó para que se pudiera jugar con un ratón normal, así como con cualquier variación creativa del uso de dispositivos de entrada. Puedes encontrar diferentes estilos de juego en la página de [estilos de juego](/wiki/Gameplay/Play_style). Hay algunas canciones que sobrepasarán los límites del ratón normal y del jugador, pero todos los beatmaps (clasificados y aprobados) han sido probados y (la mayoría) pueden ser pasables usando solo un ratón.
+Si bien es posible que la mayoría de los jugadores no tengan una pantalla táctil a su disposición, el juego se creó para que se pudiera jugar con un ratón normal, así como con cualquier variación creativa del uso de dispositivos de entrada. Puedes encontrar diferentes estilos de juego en el artículo sobre los [estilos de juego](/wiki/Gameplay/Play_style). Hay algunas canciones que sobrepasarán los límites del ratón normal y del jugador, pero todos los beatmaps (clasificados y aprobados) han sido probados y (la mayoría) pueden ser pasables usando solo un ratón.
 
 #### Conceptos básicos de la jugabilidad
 
@@ -180,7 +180,7 @@ En lugar de pulsar círculos al ritmo de la música, tienes que mover al catcher
 
 El nivel de zoom del campo de juego está basado en la configuración del CS (tamaño del círculo), donde un valor más bajo del CS indica un mayor nivel de zoom y menos espacio disponible, mientras que un valor más alto de CS implica un menor nivel de zoom y más espacio de movimiento.
 
-El catcher puede moverse de izquierda a derecha, mientras que las frutas caen de arriba hacia abajo. Sin embargo, el catcher no puede moverse más allá de las paredes izquierda y derecha del campo de juego.
+El catcher puede moverse de izquierda a derecha, mientras que las frutas caen de arriba hacia abajo. Sin embargo, el catcher no puede moverse más allá de las paredes de la izquierda y la derecha del campo de juego.
 
 Todas las frutas permanecerán en el plato hasta que termine su combo, momento en el cual las frutas rebotarán fuera del plato. El momento y el lugar en que caigan en el plato no importan; ya sea una puntuación completa por atrapar con éxito o fallar.
 
