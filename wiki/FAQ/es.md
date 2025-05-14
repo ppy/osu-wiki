@@ -217,7 +217,7 @@ Recolectar la hiperfruta mejorará el dash del catcher a un *hiperdash* (lo sufi
 #### Controles del catcher
 
 - De forma predeterminada, las teclas de flecha izquierda `<-`(I) y derecha `->`(D) mueven al catcher.
-- Presionar y mantener la tecla `Mayús izq` (D) con una de las teclas de flecha hará que el catcher haga un *dash* en esa dirección a velocidad x2.0 (indicado con un **brillo** del catcher).
+- Presionar y mantener la tecla `Mayús izq` (D) con una de las teclas de flecha hará que el catcher haga un *dash* en esa dirección a velocidad x2,0 (indicado con un **brillo** del catcher).
   - Como alternativa, mantén pulsado el botón izquierdo (D) del ratón para activar el dash.
 
 La ubicación del cursor en el juego no es relevante durante una partida normal. Si se activa el mod [Relax](/wiki/Gameplay/Game_modifier/Relax), el control del catcher será asumido por el cursor en el juego. Sin embargo, el juego no otorgará una clasificación cuando el mod Relax esté activado (pues esto anula el desafío principal de osu!catch: la velocidad de captura fija y el control del plato de captura).
