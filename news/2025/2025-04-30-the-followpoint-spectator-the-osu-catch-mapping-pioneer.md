@@ -126,7 +126,7 @@ As someone who's been mapping for a very long time, do you have any tips or advi
 
 If you're new to osu!catch mapping, I'd recommend using the osu!lazer editor — it's a lot more intuitive than stable. As for mapping itself, I'll just quote my favorite line from [Jemzuu](https://osu.ppy.sh/users/7890134): "Just let your creativity flow." You don't have to be good at mapping to enjoy it, you might enjoy it first and improve along the way.
 
-For more mapping tips from expert mappers, I recommend joining the [osu!catch Mapping and Modding Hub](https://discord.gg/aK8hZDkT) Discord server. There are plenty of people there who are willing to help and give feedback on your maps, so never hesitate to ask questions!
+For more mapping tips from expert mappers, I recommend joining the [osu!catch Modding and Mapping Hub](https://discord.com/invite/ZuxFc4q) Discord server. There are plenty of people there who are willing to help and give feedback on your maps, so never hesitate to ask questions!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17745759" style="background-image: url('/wiki/shared/avatars/-Isla-.jpg')"></a>
 

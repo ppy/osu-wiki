@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on May 1, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on May 13, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -46,7 +46,8 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
-  - osu!mania: 40,000
+  - osu!mania 4K: 40,000
+  - osu!mania 7K: 5,000
   - This does not apply to open rank tournaments.
 - The tournament organisers do not collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions.
   - Email addresses may be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
