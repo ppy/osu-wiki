@@ -1,6 +1,6 @@
 # Calificación SEV
 
-El SEV es un sistema de calificación interno usado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) para determinar la relevancia del [restablecimiento de una nominación](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) para las evaluaciones de las nominaciones de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Este sistema de calificación se divide en dos valores y se muestra como *obviedad/severidad*. La *obviedad* varía de 0 a 2 y la *severidad* de 0 a 3, lo que lo convierte en un sistema rápido de usar.
+El SEV es un sistema de calificación interno usado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) para determinar la relevancia del [restablecimiento de una nominación](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) para las evaluaciones de las nominaciones de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Este sistema de calificación se divide en dos valores que se muestran como *obviedad/severidad*. La *obviedad* varía de 0 a 2 y la *severidad* de 0 a 3, lo que lo convierte en un sistema rápido de usar.
 
 Las calificaciones SEV solo son visibles para los miembros del NAT, dado que solo sirven como documentación interna y referencia para las evaluaciones de los BN responsables de las nominaciones.
 
