@@ -38,7 +38,7 @@ Estas son algunas de las habilidades vitales para convertirse en un *maestro del
 
 Un fino anillo de color similar, situado en el exterior del círculo, se reducirá con el tiempo. Pulsa sobre la nota en el punto exacto en el que el anillo toque el borde blanco del círculo. Después de pulsar el círculo, aparecerá una explosión que mostrará la puntuación y los cambios de salud dependiendo de la sincronización de la pulsación con el ritmo. El círculo desaparecerá después de la explosión de la puntuación.
 
-Para comprender el encanto oculto de los círculos, no confíes solo en la percepción; siente los latidos y el ritmo del beatmap. Ayudará a hacer malabares con algunos de los patrones de círculos visualmente complejos que se encuentran en dificultades posteriores.
+Para comprender el encanto oculto de los círculos, no confíes solo en la percepción; siente el ritmo del beatmap. Te ayudará a hacer malabares con algunos de los patrones de círculos visualmente complejos que se encuentran en dificultades posteriores.
 
 ##### Sliders
 
@@ -127,7 +127,7 @@ Ten en cuenta que el drenaje de salud está desactivado en osu!taiko, por lo que
 
 Cada nota de taiko (o notas, para abreviar) aparecerá como un círculo rojo o azul pálido. Esos círculos de colores se llaman Don (notas rojas) y Katu (notas azules), respectivamente.
 
-Si es una nota roja pequeña, pulsa el botón unido a la parte interior del tambor de taiko o golpea la zona plana grande (centro) del *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. Si la nota es un círculo **GRANDE**, pulsa o golpea ambos tambores, el interior o el exterior, según el color de la nota, para obtener el doble de puntos (un solo golpe correcto dará un solo punto).
+Si es una nota roja pequeña, pulsa el botón unido a la parte interior del tambor de taiko o golpea la zona plana grande (centro) del *TaTaCon*. Si se trata de una nota azul pequeña, pulsa el botón unido al aro exterior del tambor de taiko o golpea los laterales del *TaTaCon*. Si la nota es un círculo **GRANDE**, pulsa o golpea ambos tambores, el interior o el exterior, según el color de la nota, para obtener el doble de puntos (un solo golpe correcto dará un solo punto).
 
 Las notas deben pulsarse o golpearse en el pequeño círculo blanco situado junto al tambor. Si se pulsa el color equivocado, o los colores rojo y azul al mismo tiempo, se considerará que se ha fallado.
 
