@@ -10,4 +10,4 @@ Index page for all of the osu!mania Chinese National Cup series.
 - [osu!mania 7K Chinese National Cup 2023](7K2023)
 - [osu!mania 4K Chinese National Cup 2023](4K2023)
 - [osu!mania 7K Chinese National Cup 2024](7K2024)
-- [osu!mania 4K Chinese National Cup 2024](4k2024)
+- [osu!mania 4K Chinese National Cup 2024](4K2024)
