@@ -369,7 +369,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (34 MB)](https://drive.google.com/file/d/1rvK0aZpvsCKJe1pLhn02iuqH2jtywPD7/view?usp=sharing)**
 
-- FreeMod
+- Free Mod
   1. [A-39 - Memories of the Heart (feat. Hatsune Miku) (Cut Ver.) ([GB]Mafufu) [Stage 1: Humanity]](https://osu.ppy.sh/beatmapsets/2198029#mania/4651408)
   2. [Aphex Twin - Bucephalus Bouncing Ball (Cut Ver.) (Lott) [Conundrum]](https://osu.ppy.sh/beatmapsets/2198005#mania/4651348)
   3. [Toromaru - Ebb Tide ([Crz]xz1z1z) [Stage 3: Eastward]](https://osu.ppy.sh/beatmapsets/2198027#mania/4651402)
@@ -670,7 +670,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 
 1. There will be no warmups during the Qualifiers.
 2. In the Qualifiers, all players will play a specific pool designed by the mappool selectors.
-3. The Qualifier pool contains 8 maps, all of which will use FreeMod rules.
+3. The Qualifier pool contains 8 maps, all of which will use Free Mod rules.
 4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding. If players wish, they can the mappool only once.
 5. The mappool will be played in the order the maps are listed.
 6. There will be an optional 5-minute break in between the first and second playthrough of the mappool.
@@ -714,7 +714,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 1. In the Qualifiers, players' seeding will be determined based on the weighted average of their scores on each map.
 2. In the Play-off 1, players need to win 4 maps to win a match (best of 7).
 3. In the Play-off 2 and Round of 32, players need to win 5 maps to win a match (best of 9).
-4. In the Roudd of 16 and Quarterfinals, players need to win 6 maps to win a match (best of 11).
+4. In the Round of 16 and Quarterfinals, players need to win 6 maps to win a match (best of 11).
 5. In the Semifinals, Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
 ### Match instructions
@@ -735,7 +735,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Mappool instructions
 
 1. There will be one mappool for each stage.
-2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage which will all be played under Free Mod conditions. This means that there is a unique Free Mod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Play-off 1: 11 beatmaps
@@ -744,7 +744,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
    - Semifinals, Finals, and Grand Finals: 18 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
-6. The tiebreaker will be played under FreeMod conditions.
+6. The tiebreaker will be played under Free Mod conditions.
 
 ### Scheduling instructions
 
