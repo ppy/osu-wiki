@@ -38,7 +38,7 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 ## Qualification
 
-Beatmaps that receive two nominations for the primary game mode are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category[^hybrid-sets]. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_points). When a beatmap stays in Qualified for at least 7 days without any open [Problems or Suggestions](/wiki/Modding#types-of-mod-posts), the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
+Beatmaps that receive two nominations for the main game mode[^main-game-mode] are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category[^hybrid-sets]. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_points). When a beatmap stays in Qualified for at least 7 days without any open [Problems or Suggestions](/wiki/Modding#types-of-mod-posts), the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
 
 If a beatmap is disqualified, its ranked timer will be reset to 7 days if either new difficulties are added or if the beatmap is qualified again without any of the two original Beatmap Nominators. Additionally, for every week a beatmap stays disqualified, the timer will increase by 1 day, up to a maximum of 14 days.
 
@@ -60,4 +60,5 @@ Ranked beatmaps are only unranked under exceptional circumstances when issues ar
 
 ## Notes
 
-[^hybrid-sets]: For beatmaps with difficulties across multiple game modes, the main game mode is the mode with the most difficulties in total or — if the amount is the same — by the host. Non-primary game modes require only one nomination by a full BN. Hybrid Beatmap Nominators who nominate these sets will increase the progress for all game modes they belong to.
+[^main-game-mode]: A beatmap's game mode is considered its "main" if it contains the most difficulties. In the event the amount of difficulties is the same between 2+ modes, the main game mode will be the one with the most difficulties mapped by the beatmap's host. If both of those conditions are met, then the main game mode will be the one which gets nominated first.
+[^hybrid-sets]: For beatmaps with difficulties across multiple game modes, two nominations are needed for the main game mode and one is required for each subsidiary one.
