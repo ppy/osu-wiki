@@ -18,7 +18,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 ![nominate button](img/nominate.png)
 
-**This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 [Hype](/wiki/Beatmap/Hype) and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations[^hybrid-sets], it will be [Qualified](/wiki/Beatmap/Category#qualified) and enter the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue).
+**This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 [Hype](/wiki/Beatmap/Hype) and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations (or more if it's a [hybrid set](/wiki/Beatmap_ranking_procedure#notes)), it will be [Qualified](/wiki/Beatmap/Category#qualified) and enter the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue).
 
 ### Disqualify or reset nomination
 
@@ -54,7 +54,3 @@ Any BN can contribute to the moderation of songs and images by either submitting
 ### Mock Evaluations
 
 Full BNs may be assigned at random to do mock evaluations on BN Applications alongside the NAT's real ones. They can choose to opt out of this at any time, and doing assigned evaluations is not required. Mock evaluations are primarily used as information for the NAT to evaluate future NAT candidates, though details presented in mock evaluations may be added to applicant feedback on occasion or serve as tiebreakers if the NAT cannot come to a conclusion on their own.
-
-## Notes
-
-[^hybrid-sets]: For beatmaps with difficulties across multiple game modes, two nominations are needed for the primary game mode and one is required for each subsidiary one, where the main game mode contains the most difficulties in total, or–if the amount is the same–by the creator.
