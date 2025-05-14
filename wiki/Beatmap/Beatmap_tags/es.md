@@ -20,7 +20,7 @@ Estas palabras clave se pueden establecer como filtro en el [selector de cancion
 
 Las **etiquetas de los usuarios** son etiquetas que describen características específicas de un beatmap, como sus patrones o el tipo de habilidad requerido. Después de conseguir al menos una C de [grado](/wiki/Gameplay/Grade) en un beatmap, los usuarios pueden seleccionar y votar por las etiquetas en la pantalla de resultados de osu!(lazer). Al recibir al menos 10 votos a favor, la etiqueta correspondiente se mostrará en la página de información del beatmap.
 
-Para filtrar los beatmaps con determinadas etiquetas de los usuarios, haz clic en la etiqueta correspondiente en la página de información del beatmap, o escribe `tag=«{nombre}»` en el listado de beatmaps, donde `{nombre}` es el nombre de cualquier etiqueta de la lista que aparece a continuación.
+Para filtrar los beatmaps con determinadas etiquetas de los usuarios, haz clic en la etiqueta correspondiente en la página de información del beatmap, o escribe `tag="{nombre}"` en el listado de beatmaps, donde `{nombre}` es el nombre de cualquier etiqueta de la lista que aparece a continuación.
 
 Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por categorías, así como los modos de juego en los que son aplicables.
 
