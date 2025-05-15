@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: May 2025"
-date: 2025-05-15 16:00:00 +0000
+date: 2025-05-15 17:00:00 +0000
 series: Project Loved
 ---
 
@@ -42,6 +42,12 @@ Let's cut the chit-chat, and get into the picks!
 The osu! Loved candidates were chosen by [bailie](https://osu.ppy.sh/users/7537133), [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [choke enough](https://osu.ppy.sh/users/1629553), [Mismagius](https://osu.ppy.sh/users/19048), [momoyo](https://osu.ppy.sh/users/12469536), and [Skill](https://osu.ppy.sh/users/7802027)!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR44%20-%20Project%20Loved:%20May%202025%20(osu!).zip)**
+
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2025/2025-05-osu.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
 
 ---
 
@@ -224,6 +230,12 @@ The osu!taiko Loved candidates were chosen by [\_gt](https://osu.ppy.sh/users/83
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR43%20-%20Project%20Loved:%20May%202025%20(osu!taiko).zip)**
 
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2025/2025-05-taiko.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1352124.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -356,6 +368,12 @@ The osu!catch Loved candidates were chosen by [Dahcreeper](https://osu.ppy.sh/us
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR42%20-%20Project%20Loved:%20May%202025%20(osu!catch).zip)**
 
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2025/2025-05-catch.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1464062.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -389,6 +407,12 @@ Coming from [CWC 2022](/wiki/Tournaments/CWC/2022) as the Qualifiers DT1, this m
 The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/users/10085090), [elexire](https://osu.ppy.sh/users/9206093), [Maxus](https://osu.ppy.sh/users/4335785), [Paturages](https://osu.ppy.sh/users/1375479), [Silhoueska Elze](https://osu.ppy.sh/users/11517895), [SunApple](https://osu.ppy.sh/users/11817622), [taba2](https://osu.ppy.sh/users/7850508), and [Yuiesta](https://osu.ppy.sh/users/13953619)!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR41%20-%20Project%20Loved:%20May%202025%20(osu!mania).zip)**
+
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2025/2025-05-mania.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
 
 ---
 
