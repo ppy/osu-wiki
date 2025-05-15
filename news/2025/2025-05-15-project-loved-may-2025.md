@@ -26,7 +26,7 @@ As for Project Loved news, this month we are saying goodbye to two osu! captains
 
 As for the osu!catch side of the community, [Wesley](https://osu.ppy.sh/users/2407265) is putting up their coat and letting the "new kids on the block" take over. As one of the longest standing members with **6 years** under their belt, their last action before leaving the team was assisting the team with the recently announced captain applications we announced last month. Speaking of the applications, the captains are still deliberating, and will have the results ready as soon as possible.
 
-Do you *love* Project Loved, like a lot? We've got good news for you, you can play all of this month's picks on [osu!(lazer)](https://osu.ppy.sh/wiki/en/Client/Release_stream/Lazer) and compete with all of your friends and rivals for the top spot on each mode's leaderboard! If you manage to clinch yourself the first place in any mode's leaderboard, you will earn yourself a month of sweet [supporter](https://osu.ppy.sh/home/support).
+Do you *love* Project Loved, like a lot? We've got good news for you, you can play all of this month's picks on [osu!(lazer)](/wiki/Client/Release_stream/Lazer) and compete with all of your friends and rivals for the top spot on each mode's leaderboard! If you manage to clinch yourself the first place in any mode's leaderboard, you will earn yourself a month of sweet [supporter](https://osu.ppy.sh/home/support).
 
 Let's cut the chit-chat, and get into the picks!
 
@@ -181,7 +181,7 @@ Right! What are you waiting for, soldier? Vote for the map now! This one's worth
 *description written by [chiv](https://osu.ppy.sh/users/6701656)*
 
 Dude who are these poolers man. @rojo @dada @fceazy can we please pick a new NM4 I can't believe you guys are using True Novel aga-\
-Wait... this isn't `#mappool-feedback`...
+Wait... this isn't \[c\]#mappool-feedback\[/c\]...
 
 This month's second Wildcard pick brings us a fan-favourite: [Yunosuke feat. okaki - True Novel](https://osu.ppy.sh/beatmapsets/1823086#osu/3740872), crafted by the familiar duo [nooj](https://osu.ppy.sh/users/8271086) and [Weoweet](https://osu.ppy.sh/users/16861790). Time to run it through the NM4 checklist and see if this map really lives up to the hype.
 
@@ -212,7 +212,7 @@ The third *Wildcard* for this month is [AtHeoN](https://osu.ppy.sh/users/1770367
 
 nao power metal? That exists...? Well... Yes, now you know.
 
-After nearly 9 years, we're bringing this back from the grave and giving it a chance here in Project Loved. If you like classic DragonForce-esque CS5 stream maps from \~2015, like [Defenders](https://osu.ppy.sh/beatmapsets/323059#osu/718156), [Operation Ground and Pound](https://osu.ppy.sh/beatmapsets/324171#osu/720314) or [Cry Thunder](https://osu.ppy.sh/beatmapsets/316050#osu/704360), this is the perfect map for you. At 7.08★ and 5:30 drain time with no breaks, this map will be perfect to test your stamina, consistency and precision. Just like those old DragonForce maps, there are plenty of streams and even cut streams to catch you off guard, and just like mentioned earlier, CS5 makes this much more difficult.
+After nearly 9 years, we're bringing this back from the grave and giving it a chance here in Project Loved. If you like classic DragonForce-esque CS 5 stream maps from \~2015, like [Defenders](https://osu.ppy.sh/beatmapsets/323059#osu/718156), [Operation Ground and Pound](https://osu.ppy.sh/beatmapsets/324171#osu/720314) or [Cry Thunder](https://osu.ppy.sh/beatmapsets/316050#osu/704360), this is the perfect map for you. At 7.08★ and 5:30 drain time with no breaks, this map will be perfect to test your stamina, consistency and precision. Just like those old DragonForce maps, there are plenty of streams and even cut streams to catch you off guard, and just like mentioned earlier, CS 5 makes this much more difficult.
 
 I have to bring out the classics for this one.
 
@@ -260,9 +260,9 @@ All tech fans assemble!!!! Because this month's Project Loved nominations have e
 
 [Genius(Yonosuke Remix)](https://osu.ppy.sh/beatmapsets/1996134#taiko/4148533) by [Shamirin_mzk](https://osu.ppy.sh/users/11325757), a mapper who you may know from their extremely creative gimmick maps, is a map which you can safely call a tech player's dream come true. This relatively low bpm track has a ton of variety, making room for Shamirin to channel their inner creativity. From 1/8 and 1/6 bursts to swing doublets and finisher sections.
 
-This map was also featured in the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024) as the quarterfinals challenge nomod pick!
+This map was also featured in the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024) as the Quarterfinals challenge No Mod pick!
 
-Are you ready to conquer this map's low-sv sections with hidden or the high-sv technical burst sections with Hard Rock? Or maybe you'll just stick to No Mod...
+Are you ready to conquer this map's low-SV sections with Hidden or the high-SV technical burst sections with Hard Rock? Or maybe you'll just stick to No Mod...
 
 Anyway, this map can be enjoyable however you like, and if you'd like to see it Loved make sure to cast your vote this month!
 
