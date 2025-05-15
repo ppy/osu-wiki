@@ -16,11 +16,11 @@ Với mục tiêu giữ mọi thứ càng sạch càng tốt, Quy tắc Cộng �
 
 ## Những điều quan trọng cần cân nhắc
 
-Tất cả các bức ảnh nên được đánh giá dựa trên chính chúng, mà không tính đến bất kỳ trường hợp nào trước đó, quyết định dựa trên những gì bạn thấy.
+Tất cả các bức ảnh nên được đánh giá dựa trên chính chúng mà không tính đến bất kỳ trường hợp nào trước đó, quyết định dựa trên những gì bạn thấy và cảm nhận.
 
-Xin vui lòng hiểu rằng chúng ta là một cộng đồng toàn cầu, đa văn hóa với những suy nghĩ rất khác nhau, các ý kiến và giá trị khác nhau về chủ đề những gì được phép và không được phép.
+Xin vui lòng hiểu rằng chúng ta là một cộng đồng toàn cầu, đa văn hóa với những suy nghĩ rất khác nhau, với các ý kiến và giá trị khác nhau về chủ đề những gì được phép và không được phép.
 
-Khi có sự nghi ngờ, hãy cố gắng điều chỉnh để phù hợp với các giá trị chung được chia sẻ bởi phần lớn cộng đồng osu! nói chung.
+Khi bạn không chắc chắn, hãy cố gắng điều chỉnh để phù hợp với các giá trị chung được chia sẻ bởi phần lớn cộng đồng osu! nói chung.
 
 ## Tiêu chí 
 
@@ -35,14 +35,14 @@ Các hình ảnh hoặc yếu tố trực quan bao gồm bất kỳ điều gì 
 - **Mô tả về chính trị, văn hóa, tôn giáo hoặc nội dung xã hội cố ý gây kích động**
 - **Hình ảnh mô tả hành vi tự tử hoặc tự làm tổn thương bản thân, bao gồm cả việc chuẩn bị hoặc những nỗ lực tự tử sắp xảy ra**
 
-Ngoài ra, các hình ảnh hoặc yếu tố trực quan có thể bị đánh giá hợp lý là có chất lượng kém (dù là về chất lượng hình ảnh khách quan hay về cách bố trí/tạo hình chủ quan) cũng có thể bị ngừng sử dụng trong beatmap trong những trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào có liên quan.
+Ngoài ra, các hình ảnh hoặc yếu tố trực quan có thể bị đánh giá hợp lý là có chất lượng kém (dù là về chất lượng hình ảnh khách quan hay về cách bố trí/tạo hình chủ quan) cũng có thể bị ngừng sử dụng trong beatmap trong những trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào có trong nội dung.
 
-## Các nội dung ngoại lệ
+## Nội dung ngoại lệ
 
 Các hình ảnh hoặc yếu tố trực quan chứa ví dụ về những điều sau đây có thể được xem là chấp nhận được:
 
 - Mô tả bạo lực mức độ nhẹ đến vừa phải (một lượng máu nhỏ, vết thương không nghiêm trọng hoặc chỉ tổn thương ngoài da)
-- Cảnh khỏa thân trong tác phẩm nghệ thuật (trong bối cảnh tác phẩm nghệ thuật cổ điển, hoặc tác phẩm liên quan đến yếu tố đó, chẳng hạn như bìa album có sự hiện diện của ảnh khỏa thân nhẹ)
+- Nghệ thuật khỏa thân (trong bối cảnh tác phẩm nghệ thuật cổ điển, hoặc tác phẩm liên quan đến yếu tố đó, chẳng hạn như bìa album có sự xuất hiện của ảnh khỏa thân nhỏ)
 - Lãng mạn, tán tỉnh hoặc tình cảm thân mật nhẹ nhàng (ôm, ôm nhau, hôn mà không mang hàm ý tình dục, nắm tay, v.v.)
 - Đồ bơi có thiết kế hợp lý (đồ bơi tiêu chuẩn với độ che phủ tổng quát, bikini thông thường)
 
