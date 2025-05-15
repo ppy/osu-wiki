@@ -16,7 +16,7 @@ Với mục tiêu giữ mọi thứ càng sạch càng tốt, Quy tắc Cộng �
 
 ## Những điều quan trọng cần cân nhắc
 
-Tất cả các bức ảnh nên được đánh giá dựa trên chính chúng mà không tính đến bất kỳ trường hợp nào trước đó, quyết định dựa trên những gì bạn thấy và cảm nhận.
+Tất cả các bức ảnh nên được đánh giá dựa trên chính chúng mà không tính đến bất kỳ trường hợp nào trước đó, quyết định dựa trên những gì bạn thấy.
 
 Xin vui lòng hiểu rằng chúng ta là một cộng đồng toàn cầu, đa văn hóa với những suy nghĩ rất khác nhau, với các ý kiến và giá trị khác nhau về chủ đề những gì được phép và không được phép.
 
