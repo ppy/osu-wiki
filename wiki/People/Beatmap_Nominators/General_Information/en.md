@@ -18,7 +18,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 ![nominate button](img/nominate.png)
 
-**This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 [Hype](/wiki/Beatmap/Hype) and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations, it will be [Qualified](/wiki/Beatmap/Category#qualified) and enter the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue).
+**This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 [Hype](/wiki/Beatmap/Hype) and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations (or more if it's a [hybrid set](/wiki/Beatmap_ranking_procedure#notes)), it will be [Qualified](/wiki/Beatmap/Category#qualified) and enter the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue).
 
 ### Disqualify or reset nomination
 

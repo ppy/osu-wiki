@@ -382,7 +382,6 @@ Saturday, 11 November 2023:
 | **Adri** ::{ flag=FR }:: | **4** | 0 | ::{ flag=US }:: Jakson | *win by default* |
 | **Sparky** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: cyger | [#1](https://osu.ppy.sh/community/matches/111263102) |
 | **\[LS\]Ham** ::{ flag=US }:: | **4** | 0 | ::{ flag=MX }:: happergamer | [#1](https://osu.ppy.sh/community/matches/111265946) |
-| Backfire ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **ForestMastr** | [#1](https://osu.ppy.sh/community/matches/111269318) |
 
 Sunday, 12 November 2023:
 
@@ -391,6 +390,7 @@ Sunday, 12 November 2023:
 | **Grape_Tea** ::{ flag=JP }:: | **4** | 0 | ::{ flag=AR }:: APRL03 | [#1](https://osu.ppy.sh/community/matches/111267577) |
 | **Maimaing** ::{ flag=JP }:: | **4** | 2 | ::{ flag=CA }:: DimplesRMe | [#1](https://osu.ppy.sh/community/matches/111268746) |
 | **hz404** ::{ flag=JP }:: | **4** | 0 | ::{ flag=PH }:: DaMeMeThEiFxD | [#1](https://osu.ppy.sh/community/matches/111269273) |
+| Backfire ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **ForestMastr** | [#1](https://osu.ppy.sh/community/matches/111269318) |
 | **D3kuu** ::{ flag=IT }:: | **4** | 1 | ::{ flag=DE }:: ERA Sirbeyy | [#1](https://osu.ppy.sh/community/matches/111274175) |
 | **XK2238** ::{ flag=ID }:: | **4** | 2 | ::{ flag=US }:: Delta386 | [#1](https://osu.ppy.sh/community/matches/111275258) |
 | **SillyFangirl** ::{ flag=BR }:: | **4** | 0 | ::{ flag=GB }:: --Dragon-- | [#1](https://osu.ppy.sh/community/matches/111276044) |

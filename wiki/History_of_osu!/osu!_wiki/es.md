@@ -8,10 +8,10 @@
 | :-- | :-- |
 | 5/12/2011 | Primera edición de la osu! wiki por ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). |
 | 16/12/2011 | [La osu! wiki ya está abierta al público](https://osu.ppy.sh/community/forums/topics/68525). |
-| 11/2012 | La osu! wiki ahora tiene 3 administradores (se suman ::{ flag=PL }:: [[Dellirium]](https://osu.ppy.sh/users/519032) y ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392)). Antes, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) era el único administrador. |
+| 11/2012 | La osu! wiki ahora tiene 3 administradores (se suman ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) y ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392)). Antes, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) era el único administrador. |
 | 27/1/2013 (06:12 UTC) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) integró la osu! wiki con el diseño del sitio web oficial. [Enlace a la publicación de peppy](https://osu.ppy.sh/community/forums/posts/2082803). |
 | 2014 | La osu! wiki se convierte oficialmente en un centro de información, reemplazando las versiones web de [osu! team](/wiki/People/osu!_team) y [Reglas](/wiki/Rules). También, ahora la osu! wiki tiene 5 administradores (se suman ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) y ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)). |
-| 2015 | La osu! wiki fue traducida a otros idiomas. ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) reemplazó a ::{ flag=PL }:: [[Dellirium]](https://osu.ppy.sh/users/519032) como uno de los administradores de la osu! wiki. |
+| 2015 | La osu! wiki fue traducida a otros idiomas. ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) reemplazó a ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) como uno de los administradores de la osu! wiki. |
 | 22/2/2016 | La osu! wiki ahora tiene 8 administradores (se suman ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) y ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)). |
 | 1/4/2016 | Se unió otro administrador a la osu! wiki (::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)). |
 | 30/8/2016 | La osu! wiki que se ejecuta en MediaWiki está obsoleta en favor de la versión del repositorio de GitHub. La osu! wiki actual permanecerá hasta que la versión de GitHub esté lista para implementarse con todas las páginas e imágenes portadas. |

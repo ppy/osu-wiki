@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e64b60d701b97ee73b4fc0917b3e7d8da216f55d
+---
+
 # osu!stream
 
 *Pour la liste des musiques incluses dans le jeu, voir : [Liste des musiques d'osu!stream](/wiki/osu!stream/Song_List)*

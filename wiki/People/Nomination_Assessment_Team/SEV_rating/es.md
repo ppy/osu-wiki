@@ -1,6 +1,8 @@
 # Calificación SEV
 
-El SEV es un sistema de calificación usado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) para determinar la relevancia del [restablecimiento de una nominación](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) para las evaluaciones de las nominaciones de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), proporcionando transparencia y consistencia. Este sistema de calificación se divide en dos valores y se muestra como *obviedad/severidad*. Ambos valores varían entre 0 y 2, lo que lo convierte en un sistema fácil de entender y rápido de usar.
+El SEV es un sistema de calificación interno usado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) para determinar la relevancia del [restablecimiento de una nominación](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) para las evaluaciones de las nominaciones de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Este sistema de calificación se divide en dos valores que se muestran como *obviedad/severidad*. La *obviedad* varía de 0 a 2 y la *severidad* de 0 a 3, lo que lo convierte en un sistema rápido de usar.
+
+Las calificaciones SEV solo son visibles para los miembros del NAT, dado que solo sirven como documentación interna y referencia para las evaluaciones de los BN responsables de las nominaciones.
 
 ## Obviedad y severidad
 
@@ -21,6 +23,7 @@ La **severidad** se refiere a la repercusión del problema en el juego.
 | 0 | Insignificante | No afecta o apenas afecta a la jugabilidad. |
 | 1 | A tener en cuenta | Tiene un impacto negativo en la jugabilidad, pero no significativo. |
 | 2 | Defecto de diseño moderado | Perjudica a la jugabilidad hasta el punto de que también es perceptible para un usuario común, por ejemplo, un gran jump en una dificultad baja. En la práctica, a menudo se trata de una combinación de múltiples razones notables, como ser demasiado difícil de leer y un pico de dificultad injustificado. |
+| 3 | Defecto de diseño grave | Perjudica a la jugabilidad hasta el punto de que se considera que rompe el juego, por ejemplo, objetos colocados simultáneamente. |
 
 A continuación, se ofrecen ejemplos de calificaciones SEV y cómo las interpretan a grandes rasgos los evaluadores:
 
@@ -33,7 +36,8 @@ A continuación, se ofrecen ejemplos de calificaciones SEV y cómo las interpret
 | 1/2 | A menudo significa que muchas cosas han ido mal, pero todas requieren experiencia para detectarlas fácilmente. |
 | 2/0 | Se ha pasado por alto algún problema evidente en la configuración del mapa, como los metadatos. |
 | 2/1 | Se ha pasado por alto algún problema evidente en la jugabilidad del mapa, como la ausencia de los hitsounds. |
-| 2/2 | Se pasó por alto un problema tan severo que es difícil no detectarlo, como son los objetos que se pulsan simultáneamente. |
+| 2/2 | Se pasó por alto un problema severo que afecta a la mayor parte del mapa, como un gran jump en una dificultad baja. |
+| 2/3 | Se pasó por alto un problema tan severo que es difícil no detectarlo, como objetos colocados simultáneamente. |
 
 ## Uso
 
@@ -159,3 +163,9 @@ Los restablecimientos relacionados con los archivos de los beatmaps casi nunca t
   - Mala colocación de los hitsounds, por ejemplo, palmas, cajas o platillos injustificados en cada pulso o similares
 - **1/1:** (6 %)
   - Objetos activos silenciados
+
+## Historia
+
+- Las calificaciones SEV se introdujeron el 20 de mayo de 2020 y se hicieron públicas.
+- El 16 de diciembre de 2023, las calificaciones SEV quedaron obsoletas en favor de un sistema de impacto más sencillo que asignaba una etiqueta de «leve», «notable» o «severo» a cada restablecimiento.
+- El sistema de calificación SEV se reintrodujo el 19 de abril de 2025 tras la preocupación existente por la excesiva falta de precisión en las calificaciones de impacto. Sin embargo, no se volvió a hacer público, dado que su principal objetivo es servir de documentación interna.
