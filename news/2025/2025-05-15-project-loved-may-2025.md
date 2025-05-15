@@ -349,11 +349,11 @@ Good luck and Enjoy!
 240 BPM, 6:43 | 5.42★ – 10.24★\
 *description written by [nevqr](https://osu.ppy.sh/users/14269506)*
 
-\[code\]\
-TheFalek: !roll twierdza\
-BanchoBot: TheFalek rolls 98 point(s)\
-Twierdza: Świat do reszty oszalał...\
-\[/code\]
+```
+TheFalek: !roll twierdza
+BanchoBot: TheFalek rolls 98 point(s)
+Twierdza: Świat do reszty oszalał...
+```
 
 Anyway, you ever wonder what happens when you mix a game from the 2000s and a broken pp farm map? I did, and you're about to find out.
 
