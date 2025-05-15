@@ -180,8 +180,9 @@ Right! What are you waiting for, soldier? Vote for the map now! This one's worth
 175 BPM, 3:13 | 6.20★\
 *description written by [chiv](https://osu.ppy.sh/users/6701656)*
 
-Dude who are these poolers man. @rojo @dada @fceazy can we please pick a new NM4 I can't believe you guys are using True Novel aga-\
-Wait... this isn't \[c\]#mappool-feedback\[/c\]...
+Dude who are these poolers man. @rojo @dada @fceazy can we please pick a new NM4 I can't believe you guys are using True Novel aga—
+
+Wait... this isn't `#mappool-feedback`...
 
 This month's second Wildcard pick brings us a fan-favourite: [Yunosuke feat. okaki - True Novel](https://osu.ppy.sh/beatmapsets/1823086#osu/3740872), crafted by the familiar duo [nooj](https://osu.ppy.sh/users/8271086) and [Weoweet](https://osu.ppy.sh/users/16861790). Time to run it through the NM4 checklist and see if this map really lives up to the hype.
 
