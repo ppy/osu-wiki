@@ -158,7 +158,7 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 #### osu!catch
 
-| Name | Ngôn ngữ được sử dụng |
+| Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
@@ -167,9 +167,9 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 #### osu!mania
 
-| Name | Ngôn ngữ được sử dụng |
+| Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Tiếng việt |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
 | ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
@@ -197,7 +197,7 @@ Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, n
 
 ---
 
-Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) sẽ làm đại diện cho NAT để gửi thông báo mà không cần một người dùng nhất định. Tài khoản có thể được sử dụng để gửi các bài đánh giá, tổ chức các đợt đánh giá thử, phân giải (trong trường hợp có khiếu nại về việc từ chối đề cử beatmap), báo cáo, kiểm tra, đánh gi
+Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) sẽ làm đại diện cho NAT để gửi thông báo mà không cần một người dùng nhất định. Tài khoản có thể được sử dụng để gửi các bài đánh giá, tổ chức các đợt đánh giá thử, phân giải (trong trường hợp có khiếu nại về việc từ chối đề cử beatmap), báo cáo, kiểm tra, đánh giá nội dung và các mục đích khác.
 
 ## Ghi chú
 
