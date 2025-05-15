@@ -6,13 +6,13 @@ no_native_review: true
 
 osu! memiliki komunitas dinamis yang terdiri dari orang-orang dari seluruh dunia. Siapa pun juga dapat menjadi bagian dari komunitas ini dengan caranya masing-masing!
 
-Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan untuk membantu komunitas:
+Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan untuk membantu komunitas ini:
 
 ## Bantu wiki kami
 
-[osu! wiki](https://github.com/ppy/osu-wiki) merupakan basis pengetahuan resmi kami yang mengandung segala sesuatunya tentang osu!. Oleh karenanya, osu! wiki selalu mencari lebih banyak kontributor untuk membantu wiki ini tetap mutakhir dengan berbagai pengetahuan atau terjemahan baru.
+[osu! wiki](https://github.com/ppy/osu-wiki) merupakan basis pengetahuan resmi kami yang mencatat segala sesuatunya tentang osu!. Oleh karenanya, osu! wiki selalu mencari lebih banyak kontributor untuk membantu wiki ini agar tetap mutakhir dengan berbagai informasi atau terjemahan baru.
 
-Apabila ini adalah pertama kalinya kamu di osu! wiki, kamu dapat membaca lebih lanjut seputar wiki ini pada halaman [Panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
+Apabila kamu baru di osu! wiki, kamu dapat membaca lebih lanjut seputar wiki ini pada halaman [Panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
 ## Bantu jaga osu! tetap ramah dan aman
 
@@ -25,7 +25,7 @@ Untungnya, tidak sulit bagi kamu untuk ikut membantu menjaga keamanan ini. Berik
 
 ## Bantu anggota komunitas lainnya
 
-Apabila kamu menemui pengguna lain yang mengalami masalah dengan permainan mereka, berikanlah bantuanmu! Baik itu masalah seputar driver, beatmap, atau permainan — apabila kamu tahu solusinya, kamu dapat membantu mereka untuk menyelesaikan masalah yang mereka alami.
+Apabila kamu menemui pengguna lain yang mengalami masalah dengan permainan mereka, berikanlah bantuanmu! Baik itu masalah seputar driver, beatmap, atau permainan — apabila kamu tahu solusinya, kamu dapat membantu mereka untuk menyelesaikan masalah yang ada.
 
 <!-- TODO: add ways to help outside of forums -->
 
