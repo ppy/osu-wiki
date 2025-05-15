@@ -125,7 +125,7 @@ N (Nattu): Consolidator, has Ability to make Impossible Jump and slider streams 
 NB (NemeBen / Nemesis and AsaBen): Destroyer, 2 Heads but one body, has ability to make single kill in one miss\
 T (Tankuwi): Overpowered Tank alien, has ability to kill you in one second
 
-\_>\_>LOVED VOTE<<\
+\>\>LOVED VOTE<<\
 INITIATE!\
 VOTE \[YES\] FOR CONFIRM MISSION.\
 WE ARE AWAITING YOU . . .\
