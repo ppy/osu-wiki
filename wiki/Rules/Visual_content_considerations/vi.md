@@ -46,7 +46,7 @@ Các hình ảnh hoặc yếu tố trực quan chứa ví dụ về những đi�
 - Lãng mạn, tán tỉnh hoặc tình cảm thân mật nhẹ nhàng (ôm, ôm nhau, hôn mà không mang hàm ý tình dục, nắm tay, v.v.)
 - Đồ bơi có thiết kế hợp lý (đồ bơi tiêu chuẩn với độ che phủ tổng quát, bikini thông thường)
 
-Trong một số trường hợp nhất định, có thể có một số ngoại lệ đối với việc sử dụng nghệ thuật của nội dung đòi hỏi nhiều công sức, chẳng hạn như storyboards hoặc nội dung video được làm riêng (ví dụ: được tạo ra đặc biệt), điều này phải được cấp trực tiếp từ đội ngũ hỗ trợ. Những ai quan tâm có thể liên hệ trực tiếp với họ qua [support@ppy.sh](mailto:support@ppy.sh).
+Trong một số trường hợp nhất định, có thể có một số ngoại lệ đối với việc sử dụng nghệ thuật của nội dung đòi hỏi nhiều công sức, chẳng hạn như storyboards hoặc nội dung video được làm riêng (ví dụ: được tạo ra đặc biệt), điều này phải được cấp phép trực tiếp từ đội ngũ hỗ trợ. Những ai quan tâm có thể liên hệ trực tiếp với họ qua [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Nhận đánh giá hình ảnh của bạn
 
