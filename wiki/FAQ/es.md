@@ -437,7 +437,7 @@ Desde el icono de *Controles* en la barra lateral de *opciones* como se muestra 
 
 *Explicación completa: [Repetición](/wiki/Gameplay/Replay)*
 
-Después de fallar un beatmap, presiona la tecla `F1` para volver a reproducir la jugada fallida en ese momento. La repetición termina cuando la pantalla se oscurece, con un logotipo de osu en el centro, en lugar de la pantalla de fin del juego. Para volver a ver la repetición, mantén presionada la tecla predeterminada grave/tilde (\`/~) (se puede cambiar en la barra lateral de opciones; dentro de *Atajos del teclado* aparece como **Quick Retry (hold briefly)**) o `Ctrl` + `R` durante un rato.
+Después de fallar un beatmap, presiona la tecla `F1` para volver a reproducir la jugada fallida en ese momento. La repetición termina cuando la pantalla se oscurece, con un logotipo de osu! en el centro, en lugar de la pantalla de fin del juego. Para volver a ver la repetición, mantén presionada la tecla `Ñ` (se puede cambiar en la barra lateral de opciones; dentro de *Atajos del teclado* aparece como **Quick Retry (hold briefly)**) o presiona `Ctrl` + `R` durante un rato.
 
 Debido a que la pantalla de las repeticiones no es estándar, usa la tecla `Esc` para volver al selector de canciones. Volver a jugar (es decir, jugar de verdad) el beatmap en este estado no es posible. Solo funciona en el modo Solo cuando aparece la pantalla de fin del juego. Desde el 24 de agosto de 2020, los jugadores pueden guardar las repeticiones fallidas presionando la tecla `F2` mientras están en la pantalla de muerte.
 
