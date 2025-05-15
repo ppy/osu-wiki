@@ -125,7 +125,7 @@ N (Nattu): Consolidator, has Ability to make Impossible Jump and slider streams 
 NB (NemeBen / Nemesis and AsaBen): Destroyer, 2 Heads but one body, has ability to make single kill in one miss\
 T (Tankuwi): Overpowered Tank alien, has ability to kill you in one second
 
->>LOVED VOTE<<\
+\_>\_>LOVED VOTE<<\
 INITIATE!\
 VOTE \[YES\] FOR CONFIRM MISSION.\
 WE ARE AWAITING YOU . . .\
@@ -284,11 +284,11 @@ Being the first nass map passed by several players, giving it a leaderboard soun
 300 BPM, 2:44 | 7.94★\
 *description written by [Eriha](https://osu.ppy.sh/users/16320311)*
 
-This month, I present a map by [ekumea1123](https://osu.ppy.sh/users/9119501), who made significant contributions as a staff member during this year's EGTS2025!
+This month, I present a map by [ekumea1123](https://osu.ppy.sh/users/9119501), who made significant contributions as a staff member during this year's [EGTS 2025](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes)!
 
 [CUN7 - my love for you will begin after i kill you](https://osu.ppy.sh/beatmapsets/1692985#taiko/3459492) is the speed map picked for NM2 at the SGTS2022 Finals, a fast-moving map that matches the atmosphere of the breakcore!!
 
-Can you hit 2000 objects in about 3 minutes? If you can pass this map with mods on... It's too scary ;^;
+Can you hit 2,000 objects in about 3 minutes? If you can pass this map with mods on... It's too scary ;^;
 
 *your love for [ekumea1123](https://osu.ppy.sh/users/9119501) will begin after you vote this... vote... now...*
 
@@ -348,15 +348,15 @@ Good luck and Enjoy!
 240 BPM, 6:43 | 5.42★ – 10.24★\
 *description written by [nevqr](https://osu.ppy.sh/users/14269506)*
 
-TheFalek: !roll twierdza
-
-BanchoBot: TheFalek rolls 98 point(s)
-
-Twierdza: Świat do reszty oszalał...
+\[code\]\
+TheFalek: !roll twierdza\
+BanchoBot: TheFalek rolls 98 point(s)\
+Twierdza: Świat do reszty oszalał...\
+\[/code\]
 
 Anyway, you ever wonder what happens when you mix a game from the 2000s and a broken pp farm map? I did, and you're about to find out.
 
-[twierdza 98](https://osu.ppy.sh/beatmapsets/2111334#taiko) is a mash-up of everyone's beloved Sandstorm and everyone's hated [navi 98](https://osu.ppy.sh/beatmapsets/1856862#taiko), with a touch of an absolute classic — Stronghold: Crusader. This remix is also very special due to it being made by the mapset host himself — [knibblet](https://osu.ppy.sh/users/6922240)!
+[twierdza 98](https://osu.ppy.sh/beatmapsets/2111334#taiko) is a mash-up of everyone's beloved *Sandstorm* and everyone's hated [navi 98](https://osu.ppy.sh/beatmapsets/1856862#taiko), with a touch of an absolute classic — *Stronghold: Crusader*. This remix is also very special due to it being made by the mapset host himself — [knibblet](https://osu.ppy.sh/users/6922240)!
 
 Exhibiting a total of 12 taiko difficulties ranging from 5 to 10 stars, you're bound to find a difficulty tailored perfectly to your skill level. Most of the mappers are also part of the [#1 Sigma Team](https://osu.ppy.sh/teams/4112), and as far as gameplay gimmicks go, they got you covered. Streams? Finishers? SV? You name it! This set has it all.
 
@@ -382,7 +382,7 @@ The osu!catch Loved candidates were chosen by [Dahcreeper](https://osu.ppy.sh/us
 213 BPM, 2:34 | 6.27★\
 *description written by [Dahcreeper](https://osu.ppy.sh/users/6926006)*
 
-[Greaper](https://osu.ppy.sh/users/2369776) entering the Loved section for the first time with his map of [USAO's *Cthugha*](https://osu.ppy.sh/beatmapsets/1464062#fruits/3007246)! This was featured in the osu! Catch World Cup 2021 Semifinals as NM2. Generally it is a comfortable flow map with some tricky stacks here and there.
+[Greaper](https://osu.ppy.sh/users/2369776) entering the Loved section for the first time with his map of [USAO's *Cthugha*](https://osu.ppy.sh/beatmapsets/1464062#fruits/3007246)! This was featured in the [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021#semifinals) Semifinals as NM2. Generally it is a comfortable flow map with some tricky stacks here and there.
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/2170847.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -391,7 +391,10 @@ The osu!catch Loved candidates were chosen by [Dahcreeper](https://osu.ppy.sh/us
 The \[delete after download\] difficulty is *not* being nominated for Loved.\
 *description written by [Dahcreeper](https://osu.ppy.sh/users/6926006)*
 
-Another Dan is joining the Loved section, but you might be confused about why. We already have Emiru's version, though? Well, the reasoning is because this one follows a completely different format and focuses on different skillsets! In Rocma's version here, to clear each difficulty, you need to get a 96%! Sounds pretty forgiving, right? Nope! Every dan increases difficulty a lot more than the previous dan version, so if you were 10th dan in Emiru's version, you won't be even close to 10th dan in this version. Lastly, each map is split into the following four skillsets: Jumps (overall skills on wide spacing or consecutive dashes), Tech (unorthodox flows or complicated snaps which are giving unconventional experience), Speed (rapid movements or reading skill on high density snaps) and finally Consistency (stamina on continuous patterns which force unceasing movements).\
+Another Dan is joining the Loved section, but you might be confused about why. We already have Emiru's version, though? Well, the reasoning is because this one follows a completely different format and focuses on different skillsets! In Rocma's version here, to clear each difficulty, you need to get a 96%! Sounds pretty forgiving, right? Nope! Every dan increases difficulty a lot more than the previous dan version, so if you were 10th dan in Emiru's version, you won't be even close to 10th dan in this version.
+
+Lastly, each map is split into the following four skillsets: jumps (overall skills on wide spacing or consecutive dashes), tech (unorthodox flows or complicated snaps which are giving unconventional experience), speed (rapid movements or reading skill on high density snaps) and finally consistency (stamina on continuous patterns which force unceasing movements).
+
 Good luck to everyone!
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1763686.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -429,7 +432,7 @@ The man. The myth. The legend. It is time for my all-time saviour to come onto t
 
 To start things off, I think awdse22 might be unconventionally one of the best SV players the world has ever seen. That unique skillset within an already unique skillset grants them a very particular vision when translated into a mapping canvas. [fffff](https://osu.ppy.sh/beatmapsets/2130598#mania/4480870) does a pretty good job of showcasing why that's the case.
 
-Featured in the [4 Digit osu!mania World Cup 2024 Semifinals stage](/wiki/Tournaments/4DM/2024), fffff is essentially a crash course in pattern telegraphing: what you have to play on the fake stops is teased by the patterning before it, and it's pretty easy to grasp the concept of the map at a glance. However, the execution will require you to tune your brain differently, and that's where the magic of SV lies.
+Featured in the [4 Digit osu!mania World Cup 2024 Semifinals stage](/wiki/Tournaments/4DM/2024), *fffff* is essentially a crash course in pattern telegraphing: what you have to play on the fake stops is teased by the patterning before it, and it's pretty easy to grasp the concept of the map at a glance. However, the execution will require you to tune your brain differently, and that's where the magic of SV lies.
 
 Are you ready to fffffinally bring this fffffile to the Loved roster? Fffffire away!
 
@@ -447,7 +450,7 @@ There are a few break sections here and there, but consistency is key throughout
 
 It's no surprise that this chart at 1.05x rate was featured in the [osu!mania 4K World Cup 2023 edition for the Round of 16 mappool](/wiki/Tournaments/MWC/2023_4K#round-of-16). Speaking of which, rates up to 1.2x exist, and I'm very sure that many players would love to see how they stack up against the rest of the world.
 
-Do you want to see more charts like this in Loved? As someone from the Philippines, seeing songs like this from my country being charted is quite a surprise! Nevertheless, if you really like speed charts and Filipino songs, then this chart is definitely for you to vote 'Yes' on in Project Loved!
+Do you want to see more charts like this in Loved? As someone from the Philippines, seeing songs like this from my country being charted is quite a surprise! Nevertheless, if you really like speed charts and Filipino songs, then this chart is definitely for you to vote "Yes" on in Project Loved!
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1614851.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -457,7 +460,7 @@ Do you want to see more charts like this in Loved? As someone from the Philippin
 
 [Eclipse-](https://osu.ppy.sh/users/8493070) has been in the tournament scene for a good while, making diligent and clean contributions to various tournaments, especially in regards to managing and hosting the Polish national ones. Granted, this is *not* a tournament mapset that we are featuring this month, but I think those contributions are still worth mentioning, as this map is their Loved premiere after all.
 
-[Attack of the Killer Queen](https://osu.ppy.sh/beatmapsets/1614851#mania) is exactly what it says on the tin (well, in the mapset description). Coming from the Deltarune OST, clocking in at 144 BPM at 1.0x, the mapset provides two approaches: a "speedjack" and a "dense chordjack" one. It has everything to provide to a large range of skill levels, with rates starting at 0.95x for "Bosom", the speedjack version, and 0.85x for "Perish", the dense chordjack version. Tune yourself to your preference, and jam away!
+[Attack of the Killer Queen](https://osu.ppy.sh/beatmapsets/1614851#mania) is exactly what it says on the tin (well, in the mapset description). Coming from the *Deltarune* OST, clocking in at 144 BPM at 1.0x, the mapset provides two approaches: a "speedjack" and a "dense chordjack" one. It has everything to provide to a large range of skill levels, with rates starting at 0.95x for "Bosom", the speedjack version, and 0.85x for "Perish", the dense chordjack version. Tune yourself to your preference, and jam away!
 
 [Eclipse-](https://osu.ppy.sh/users/8493070)'s approach of mapping in general is really clean, rationalized and structured, so we hope you appreciate this set as much as we do through putting a positive vote in the thread!
 
@@ -469,7 +472,7 @@ Do you want to see more charts like this in Loved? As someone from the Philippin
 
 You know who [Shoegazer](https://osu.ppy.sh/users/2520707) is. There's no need to introduce, them, but it should be stated that a nomination from them is long overdue, and as such, we're introducing [Brainfog](https://osu.ppy.sh/beatmapsets/1438983#mania/3028407) as their 20th nomination.
 
-I'll keep it short; this chart is satisfying. Very satisfying. There are two noticeable approaches within the song, with the main sections consisting of 1/6 bursts alongside some doubles where they feel the most important, and all sections outside said streams/bursts utilizing a more minijack-heavy approach, only using 1/4 notes.
+I'll keep it short: this chart is satisfying. Very satisfying. There are two noticeable approaches within the song, with the main sections consisting of 1/6 bursts alongside some doubles where they feel the most important, and all sections outside said streams/bursts utilizing a more minijack-heavy approach, only using 1/4 notes.
 
 While this chart is just outright fun, it also had a notable tournament use, as [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) used it in the Round of 16 pool on 1.2x rate.
 
@@ -504,7 +507,7 @@ I think this chart really encompasses the essence of what a good tiebreaker is, 
 
 It's been [7 years](https://www.youtube.com/watch?v=qcnygxZoyaQ) since *Flamingo* has been brought into the rhythm gaming scene. At first glance, a pretty innocent, cute and catchy song. This song however, developed sort of a cult following at the time, which fuelled the Clone Hero meme scene quite a bit. From a cursory search, it seems to have made it into TikTok in 2019 somehow. In any case, *Flamingo* is a song that has historically cemented itself as a cult classic, first across rhythm game enthusiasts, then into the mainstream.
 
-It's no surprise that the virus has spread into other rhythm games. [Mipha-](https://osu.ppy.sh/users/5767941), also one of my fellow passive Clone Hero enjoyers, pulls a good amount of inspiration from that scene, at least in terms of vibe. I can't really say long note oriented charts existed in a substantial way in Clone Hero until [somewhat recently](https://www.youtube.com/watch?v=eNxUwiR71dQ), but the vibe of the song lends itself to be drawn into tricky LN releases for sure.
+It's no surprise that the virus has spread into other rhythm games. [Mipha-](https://osu.ppy.sh/users/5767941), also one of my fellow passive Clone Hero enjoyers, pulls a good amount of inspiration from that scene, at least in terms of vibe. I can't really say long note oriented charts existed in a substantial way in *Clone Hero* until [somewhat recently](https://www.youtube.com/watch?v=eNxUwiR71dQ), but the vibe of the song lends itself to be drawn into tricky LN releases for sure.
 
 Anything low BPM involving LNs requires increased amounts of coordination and control, and star rating aficionados may find themselves at a loss of understanding as to how hard it is to handle compared to maps with a higher note density. Even in the 2025 context, *Flamingo* features brain-scratching patterns and releases that demand utmost focus and mastery in order to manage full accuracy.
 
@@ -524,12 +527,9 @@ Many cool songs with compelling rhythms have entered our view during the World C
 180 BPM, 2:24 | 2.17★ – 6.97★\
 *description written by [taba2](https://osu.ppy.sh/users/7850508)*
 
-This month, we've got a nice, clean, hybrid spread mapset.\
-[JuHaa](https://osu.ppy.sh/users/15526127) returns to the Loved section after a long absence with [Final Flash Flight](https://osu.ppy.sh/beatmapsets/1715665#mania/3505719)!
+This month, we've got a nice, clean, hybrid spread mapset. [JuHaa](https://osu.ppy.sh/users/15526127) returns to the Loved section after a long absence with [Final Flash Flight](https://osu.ppy.sh/beatmapsets/1715665#mania/3505719)!
 
-This mapset has a full spread and the smooth, flowing hybrid notes and simple expressions that JuHaa is known for.\
-The variety of patterns combined with the different moods of the song will keep you from getting bored.\
-We think this map deserves to be Loved and enjoyed by everyone, from beginners to intermediate players.
+This mapset has a full spread and the smooth, flowing hybrid notes and simple expressions that JuHaa is known for. The variety of patterns combined with the different moods of the song will keep you from getting bored. We think this map deserves to be Loved and enjoyed by everyone, from beginners to intermediate players.
 
 Make sure to cast your vote and show your support for it!
 
@@ -542,11 +542,11 @@ The \[Marathon - Delete me pls\] difficulty is *not* being nominated for Loved.\
 
 The K-Pop Pack is Back with an Even Bigger Sequel!
 
-If you thought [the first pack](https://osu.ppy.sh/beatmapsets/1397200#mania/2883476) was great, just wait until you try [xNett](https://osu.ppy.sh/users/4998501)'s [second K-Pop map collection](https://osu.ppy.sh/beatmapsets/1646395#mania/3360543)! This massive new pack expands on everything that made the original special, now featuring an even wider variety of difficulties and artists to give players more ways to enjoy their favourite K-Pop beats.
+If you thought [the first pack](https://osu.ppy.sh/beatmapsets/1397200#mania/2883476) was great, just wait until you try [xNett](https://osu.ppy.sh/users/4998501)'s [second K-pop map collection](https://osu.ppy.sh/beatmapsets/1646395#mania/3360543)! This massive new pack expands on everything that made the original special, now featuring an even wider variety of difficulties and artists to give players more ways to enjoy their favourite K-pop beats.
 
-The pack offers something for everyone, starting with approachable Insane-level maps and scaling all the way up to brutally challenging Long Note patterns that will test your skills to the limit. You'll encounter all sorts of creative patterning, including some spicy SV changes to keep you on your toes. What makes this collection truly special is how it naturally guides players through progressively tougher challenges, helping you improve your skills step by step as you work through each map.
+The pack offers something for everyone, starting with approachable Insane-level maps and scaling all the way up to brutally challenging long note patterns that will test your skills to the limit. You'll encounter all sorts of creative patterning, including some spicy SV changes to keep you on your toes. What makes this collection truly special is how it naturally guides players through progressively tougher challenges, helping you improve your skills step by step as you work through each map.
 
-After seven months of dedicated work, xNett has created something truly remarkable with this pack. We're excited to present it for the Loved section and hope you'll show your support by casting a positive vote if you enjoy what you play. Whether you're looking to push your skills or just enjoy some fantastic K-Pop maps, this collection has you covered — dive in and experience it for yourself today!
+After seven months of dedicated work, xNett has created something truly remarkable with this pack. We're excited to present it for the Loved section and hope you'll show your support by casting a positive vote if you enjoy what you play. Whether you're looking to push your skills or just enjoy some fantastic K-pop maps, this collection has you covered — dive in and experience it for yourself today!
 
 ---
 
