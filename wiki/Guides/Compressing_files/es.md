@@ -1,3 +1,8 @@
+---
+outdated_since: 7c0233d7bed62ea34b54f50cc108b9ee9f4c839b
+outdated_translation: true
+---
+
 # Compresión de archivos
 
 Cada beatmap tiene un [límite para el tamaño de archivo](/wiki/Beatmapping/Beatmap_submission#limitaciones) dictado por su longitud total, y cualquier contenido de [vídeo](/wiki/Ranking_criteria#vídeo-y-fondo) y [audio](/wiki/Ranking_criteria#audio) debe cumplir los requisitos de formato, resolución y tasa de bits.
