@@ -51,7 +51,7 @@ The osu! Loved candidates were chosen by [bailie](https://osu.ppy.sh/users/75371
 
 ---
 
-[![](/wiki/shared/news/2025-05-15-project-loved-may-2025/877016.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-05-15-project-loved-may-2025/877016.jpg)](https://osu.ppy.sh/community/forums/topics/2079431)
 
 [kensuke ushio - Ping Pong Phase](https://osu.ppy.sh/beatmapsets/877016#osu) by [-NeBu-](https://osu.ppy.sh/users/4099626)\
 244 BPM, 0:32 | 8.65★\
@@ -69,7 +69,7 @@ You prepare to receive and lob.\
 
 (Vote for this beatmap if you want to see it *'lob'*ed too!)
 
-[![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1483447.jpg)](https://osu.ppy.sh/community/forums/topics/2079431)
+[![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1483447.jpg)](https://osu.ppy.sh/community/forums/topics/2079430)
 
 [30 Seconds to Mars - Bury Me GAMMA](https://osu.ppy.sh/beatmapsets/1483447#osu) by [beaver](https://osu.ppy.sh/users/14719475)\
 183 – 301.95 BPM, 3:51 | 5.81★ – 10.00★\
@@ -81,7 +81,7 @@ If you're familiar with the other multi-BPM tapping maps we have in loved like [
 
 If you think this map should enter a Loved state, cast your vote now!
 
-[![](/wiki/shared/news/2025-05-15-project-loved-may-2025/419015.jpg)](https://osu.ppy.sh/community/forums/topics/2079430)
+[![](/wiki/shared/news/2025-05-15-project-loved-may-2025/419015.jpg)](https://osu.ppy.sh/community/forums/topics/2079429)
 
 [League of Legends - Piercing Light (Mako Remix)](https://osu.ppy.sh/beatmapsets/419015#osu) by [Diasios](https://osu.ppy.sh/users/25999), [-Nya-](https://osu.ppy.sh/users/1293097), and [Cyllinus](https://osu.ppy.sh/users/2413420)\
 125 BPM, 2:41 | 1.60★ – 6.01★\
