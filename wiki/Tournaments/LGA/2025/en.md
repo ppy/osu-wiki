@@ -71,7 +71,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ### Sunday, 18 May 2025
 
-| ID | Round | Team A | Team B | Match time | Twitch stream |  |
+| ID | Round | Team A | Team B | Match time | Twitch stream | Depends on matches |
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
 | 18c | RO16 | [Juan Dario](https://osu.ppy.sh/users/16529875) ::{ flag=CA }:: | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [May 18 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T010000&p1=1440) | *TBD* | depends on: 3, 4[^potential-match] |
 | 20b | RO16 | [ASecretBox](https://osu.ppy.sh/users/7341183) ::{ flag=AU }:: | ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058) | [May 18 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T030000&p1=1440) | *TBD* | depends on: 7, 8[^potential-match] |
