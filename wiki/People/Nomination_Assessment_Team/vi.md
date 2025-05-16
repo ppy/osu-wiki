@@ -134,33 +134,33 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
+| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Thụy Điển |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Trung quốc |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Trung quốc |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Tiếng nga |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Tiếng pháp, Tây Ban Nha |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Rumani |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Tiếng nga |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 
 #### osu!taiko
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Some German |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Trung quốc |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Tiếng ả rập, Tiếng đức |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | tiếng Bồ Đào Nha |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Một ít tiếng Đức |
+| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Tiếng Đức, một chút tiếng Pháp |
 
 #### osu!catch
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Tiếng Tây Ban Nha, tiếng Đức |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | tiếng Hà Lan |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 
 #### osu!mania
@@ -168,10 +168,10 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Tiếng việt |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Trung quốc |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | In-đô-nê-xi-a |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Tiếng ả rập, tiếng pháp |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Tây Ban Nha |
 
 ### Bộ phận tổ chức
 
@@ -179,11 +179,11 @@ Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý các cuộc thảo luận, công việc và tài liệu nội bộ |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tổ chức cố vấn BN |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Duy trì tiêu chí Xếp hạng |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Phát triển [Trang web quản lý BN](https://bn.mappersguild.com) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Lãnh đạo NAT |
 
 Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, nhưng đồng thời có đóng góp vào mảng tổ chức:
 
