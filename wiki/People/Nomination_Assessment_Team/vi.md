@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: f55c53278e0141286b7f026d3848c5386f832f33
 no_native_review_since: fa001f3f10bcb5261f1ba2cf35469327f89ddfd6 Avariation
 tags:
   - NAT
@@ -8,7 +6,7 @@ tags:
 
 # Đội ngũ Đánh giá Đề cử
 
-*Xem thêm: [Đánh giá Đề cử viên](Evaluations)*
+*Xem thêm: [Đánh giá Đề cử viên](Evaluations), [Đánh giá mức độ nghiêm trọng](SEV_rating)*
 
 **Đội ngũ Đánh giá Đề cử** (***NAT***) là những người quản lý các [Đề cử viên](/wiki/People/Beatmap_Nominators) (*BN*) và đảm bảo những lĩnh vực liên quan đến beatmap trong osu! hoạt động bình thường.
 
@@ -41,8 +39,8 @@ Thành viên NAT nằm trong bộ phận tổ chức sẽ không phụ trách m�
 - **Công tác điều hành**: Xử lý các báo cáo từ người dùng và đánh giá hành vi không đúng mực từ các Đề cử viên, cũng như xử lý các bài đánh giá về nội dung beatmap. Đây la nhiệm vụ chung của cả NAT và GMT.
 - **Công tác bảo trì chung**: Bao gồm nhưng không giới hạn ở những việc sau:
   - Xử lý [các yêu cầu từ chối đề cử](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
-  - Duy trì [diễn đàn Quản lý Beatmap](https://osu.ppy.sh/community/forums/115).
-  - Đánh giá mức độ ảnh hưởng của những đợt đặt lại đề cử.[^đánh-giá-mức-độ]
+  - Duy trì [Tiêu chí xếp hạng](https://osu.ppy.sh/community/forums/87) và [diễn đàn Quản lý Beatmap](https://osu.ppy.sh/community/forums/115).
+  - Đánh giá [mức độ ảnh hưởng](SEV_rating) của những đợt đặt lại đề cử.[^đánh-giá-mức-độ]
 
 Thành viên NAT chủ yếu xử lý ở bộ phận này sẽ đảm bảo rằng các Đề cử viên và những thành viên khác trong cộng đồng mapping/modding được cung cấp đầy đủ thông tin và ý kiến của họ được lắng nghe, đồng thời việc duy trì các thành phần thiết yếu để giữ mọi thứ trong lĩnh vực mapping/modding hoạt động bình thường. Những người thuộc bộ phận này là những người đánh giá nhiều kinh nghiệm muốn tập trung vào mảng quản lý thuộc lĩnh vực mapping/modding.
 
@@ -191,9 +189,9 @@ Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, n
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Công cụ lên kế hoạch đề cử](https://bnplanner.greaper.net/beatmaps) và [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch)  |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ban lãnh đạo NAT, phát triển [Trang quản lý BN](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Xử lý báo cáo nội dung, phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
