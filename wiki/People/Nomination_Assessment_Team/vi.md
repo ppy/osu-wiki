@@ -126,7 +126,7 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 *Lưu ý: Tất cả các thành viên của NAT  đều nói tiếng Anh ngoài những ngôn ngữ được liệt kê dưới đây, trừ khi có ghi chú khác.*
 
-[Trang thành viên của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/groups/7) liệt kê tất cả những thành viên trong nhóm. Ngoài những lĩnh vực được nhắc đến dưới đây, toàn bộ thành viên NAT đều đảm nhận công việc [rà soát lại nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+[Trang thành viên của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/groups/7) liệt kê tất cả những thành viên trong nhóm. Ngoài những lĩnh vực được nhắc đến dưới đây, toàn bộ thành viên NAT đều đảm nhận công việc [rà soát lại nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#Nhận-đánh-giá-hình-ảnh-của-bạn).
 
 ### Bộ phận đánh giá
 
