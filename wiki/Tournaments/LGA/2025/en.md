@@ -45,6 +45,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Tournament discussion/feedback thread](https://osu.ppy.sh/community/forums/topics/2075057)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/172) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/LGA25)
 
 ## Match schedule: Week 1
 
