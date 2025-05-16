@@ -16,6 +16,7 @@ Playtesters will be responsible for playing and providing feedback on a variety 
 
 Please note that if you are accepted into the team, *you will not be eligible to participate as a player in the tournament*.
 
+## Sign up
 
 To sign up, follow [this link](https://docs.google.com/forms/d/1wDI_ovic6IZQNZXlkKh2vIsTXylQo-kyIVLgekXolb0/viewform).
 
