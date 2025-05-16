@@ -10,9 +10,9 @@ The osu!mania 7K Mappooling team is looking for mappers and playtesters for the 
 
 ## Roles
 
-Mappers will be responsible for creating beatmaps, often tailor-made and featuring yet-to-be-released [osu! originals](/wiki/osu!_originals), based on specifications provided by each mode's mappooling team. As a mapper, you will be expected to incorporate feedback from mappoolers, playtesters, and map modders in an iterative process to refine the map until it is ready to be revealed to players.
+Mappers will be responsible for creating beatmaps, often tailor-made and featuring yet-to-be-released [osu! originals](/wiki/osu!_originals), based on specifications provided by the mappoolers team. As a mapper, you will be expected to incorporate feedback from mappoolers, playtesters, and map modders in an iterative process to refine the map until it is ready to be revealed to players.
 
-Playtesters will be responsible for playing and providing feedback on a variety of beatmaps, as requested by the mappooling team. Your role will involve evaluating factors such as difficulty, suitability for specific slots, and skill representation, among other criteria. While workflows may vary between teams, playtesters are generally expected to have considerable skill in their respective game mode.
+Playtesters will be responsible for playing and providing feedback on a variety of beatmaps, as requested by the mappooling team. Your role will involve evaluating factors such as difficulty, suitability for specific slots, and skill representation, among other criteria. While workflows may vary depending on your skill set, playtesters are generally expected to have considerable skill in their respective game mode.
 
 Please note that if you are accepted into the team, *you will not be eligible to participate as a player in the tournament*.
 
