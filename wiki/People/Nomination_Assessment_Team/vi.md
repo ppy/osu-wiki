@@ -189,7 +189,7 @@ Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, n
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Công cụ lên kế hoạch đề cử](https://bnplanner.greaper.net/beatmaps) và [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch)  |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Công cụ lên kế hoạch đề cử](https://bnplanner.greaper.net/beatmaps) và [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ban lãnh đạo NAT, phát triển [Trang quản lý BN](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Xử lý báo cáo nội dung, phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
 
