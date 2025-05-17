@@ -89,7 +89,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -vf scale=-1:720 -an -sn -
 
 En general, OGG (Vorbis) ofrece una mejor calidad que MP3 para una tasa de bits determinada.
 
-**Los [criterios de clasificación](/wiki/Ranking_criteria#audio) especifican que la tasa de bits media debe estar entre 192kbps y 128kbps para el formato MP3, y entre 208kbps y 128kbps para el formato OGG (Vorbis).** Como referencia, las canciones de los [artistas destacados](/wiki/People/Featured_Artists) incluidas en las plantillas están codificadas en MP3 con una tasa de bits constante de 192kbps.
+**Los [criterios de clasificación](/wiki/Ranking_criteria#audio) especifican que la tasa de bits media debe estar entre 192 kbps y 128 kbps para el formato MP3, y entre 208 kbps y 128 kbps para el formato OGG (Vorbis).** Como referencia, las canciones de los [artistas destacados](/wiki/People/Featured_Artists) incluidas en las plantillas están codificadas en MP3 con una tasa de bits constante de 192 kbps.
 
 ### Usar Audacity
 
@@ -141,7 +141,7 @@ ffmpeg -i input -c:a libvorbis -q:a 6 -vn -sn -map_metadata -1 -map_chapters -1 
 
 - `-i input`: Tu archivo fuente. Si el nombre del archivo contiene espacios, ponlo entre comillas dobles (`"`)
 - `-c:a libvorbis`: Especifica que el audio debe codificarse usando el codificador libvorbis
-- `-q:a 6`: Usa el mismo rango de tasa de bits variable que en el ejemplo de Audacity (donde un número más alto significa una mayor tasa de bits). Si quieres una tasa de bits constante, usa, por ejemplo, `-b:a 192k` para una tasa constante de 192kbps
+- `-q:a 6`: Usa el mismo rango de tasa de bits variable que en el ejemplo de Audacity (donde un número más alto significa una mayor tasa de bits). Si quieres una tasa de bits constante, usa, por ejemplo, `-b:a 192k` para una tasa constante de 192 kbps
 - `-vn -sn`: Elimina el vídeo y los subtítulos si están presentes
 - `-map_metadata -1 -map_chapters -1`: Elimina los metadatos y los capítulos si están presentes
 - `output.ogg`: Tu archivo de salida. Si el nombre del archivo contiene espacios, ponlo entre comillas dobles (`"`)
