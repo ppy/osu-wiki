@@ -4,13 +4,13 @@ title: "New Featured Artist: Kyutatsuki"
 date: 2025-05-17 22:30:00 +0000
 ---
 
-Soundwaves from another dimension have been transported directly to our Featured Artist library!
+Sound waves from another dimension have been transported directly to our Featured Artist library!
 
 ![](https://assets.ppy.sh/artists/476/header.jpg)
 
-**Kyutatsuki** first found their way into osu! through community tournaments, especially catching the attention of osu!mania players. That recognition is what led to **Kyutatsuki**'s involvement in the osu!mania 4K World Cup 2024 Grand Finals tiebreaker: [Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784), so it was only a matter of time before **Kyutatsuki** joined our Featurerd Artists!
+**Kyutatsuki** first found their way into osu! through community tournaments, especially catching the attention of osu!mania players. That recognition is what led to **Kyutatsuki**'s involvement in the osu!mania 4K World Cup 2024 Grand Finals tiebreaker, [Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784), so it was only a matter of time before **Kyutatsuki** joined our Featurerd Artists!
 
-**5** tracks are officially part of [**Kyutatsuki**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/476), paired with pre-timed beatmap templates. Map one of them. Or map all of them. We'll leave you to it.
+**5** tracks are officially part of [**Kyutatsuki**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/476), paired with pre-timed beatmap templates. Map one of them, or map all of them. We'll leave you to it.
 
 Experience what the self-proclaimed *Sound Shaper from Another Dimension* has to offer:
 
