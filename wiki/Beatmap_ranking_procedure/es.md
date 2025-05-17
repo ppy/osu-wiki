@@ -32,7 +32,7 @@ Antes de enviarse para la clasificación, los beatmaps deben recibir mensajes de
 ## Nominaciones {id=nominations}
 
 ::: Infobox
-![](img/nomination-progress-beatmapset2293010-ES.png "El estado de nominación del beatmap se muestra en la página de discusión, con una barra de hype llena.")
+![](img/nomination-progress-beatmapset2293010-ES.png "El estado de nominación del beatmap se muestra en la página de discusión cuando la barra de hype está llena.")
 :::
 
 Una **nominación** es un voto de aprobación, lo que indica que un beatmap está listo para [clasificarse](/wiki/Beatmap/Category#ranked). Se otorga a los beatmaps completos de calidad suficiente, a juicio del usuario nominador. Como requisito mínimo, estos beatmaps deben seguir los [criterios de clasificación](/wiki/Ranking_criteria) y tener 5 o más [hypes](/wiki/Beatmap/Hype).
@@ -53,7 +53,7 @@ Esta categoría de beatmaps existe para dar a los beatmaps una mayor exposición
 
 Los restablecimientos de nominaciones aseguran que los modders, los BN y miembros del NAT verifiquen la versión más reciente de un beatmap antes de que ingrese a la cola de clasificación.
 
-Las nominaciones se pueden restablecer cuando el creador actualiza su beatmap, o cuando un miembro de los BN o el NAT encuentra un problema en un beatmap nominado. Las nominaciones también pueden ser restablecidas por miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) cuando el motivo tenga que ver con contenido inapropiado. Si se califica un beatmap cuando sus nominaciones están restablecidas, será descalificado y eliminado de la cola de clasificación.
+Las nominaciones se pueden restablecer cuando el creador actualiza su beatmap, o cuando un miembro de los BN o el NAT encuentra un problema en un beatmap nominado. Las nominaciones también pueden ser restablecidas por los miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) cuando el motivo tenga que ver con contenido inapropiado. Si se califica un beatmap cuando sus nominaciones están restablecidas, será descalificado y eliminado de la cola de clasificación.
 
 Los miembros de los BN y el NAT a veces [vetan](/wiki/People/Beatmap_Nominators/Beatmap_Veto) beatmaps que creen que presentan problemas de calidad que no están relacionados con los criterios de clasificación.
 
