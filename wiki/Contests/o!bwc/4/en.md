@@ -14,22 +14,23 @@ tags:
 
 | Event | Dates |
 | --: | :-- |
-| Registration | April 7 – April 26 |
+| Announcement | April 7 |
+| Registration | April 7 – May 11 |
 | **Qualifier Round** |  |
-| Beatmapping | April 26 – May 10 |
-| Judging | May 10 – May 31 |
+| Beatmapping | May 12 – May 26 |
+| Judging | May 26 – June 16 |
 | **Round of 16** |  |
-| Beatmapping | May 31 – June 14 |
-| Judging | June 14 – June 28 |
+| Beatmapping | June 16 – June 30 |
+| Judging | June 30 – July 14 |
 | **Quarterfinals** |  |
-| Beatmapping | June 28 – July 12 |
-| Judging | July 12 – July 19 |
+| Beatmapping | July 14 – July 28 |
+| Judging | July 28 – August 4 |
 | **Semifinals** |  |
-| Beatmapping | July 19 – August 2 |
-| Judging | August 2 – August 9 |
+| Beatmapping | August 4 – August 18 |
+| Judging | August 18 – August 25 |
 | **Finals** |  |
-| Beatmapping | August 9 – August 23 |
-| Judging | August 23 – August 30 |
+| Beatmapping | August 25 – September 8 |
+| Judging | September 8 – September 15 |
 
 The schedule is subject to change according to the progress of the contest. Results will be livestreamed on the [osubwc Twitch channel](https://www.twitch.tv/osubwc/).
 
