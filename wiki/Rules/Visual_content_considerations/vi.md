@@ -20,7 +20,7 @@ Tất cả các bức ảnh nên được đánh giá dựa trên chính chúng 
 
 Xin vui lòng hiểu rằng chúng ta là một cộng đồng toàn cầu, đa văn hóa với những suy nghĩ rất khác nhau, với các ý kiến và giá trị khác nhau về chủ đề những gì được phép và không được phép.
 
-Khi bạn không chắc chắn, hãy cố gắng điều chỉnh để phù hợp với các giá trị chung được chia sẻ bởi phần lớn cộng đồng osu! nói chung.
+Khi bạn không chắc chắn về điều gì đó, hãy cố gắng điều chỉnh để phù hợp với các giá trị chung được chia sẻ bởi phần lớn cộng đồng osu! nói chung.
 
 ## Tiêu chí 
 
