@@ -344,6 +344,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 2. The osu! original pick is to be played under FreeMod conditions. **The only mods allowed for this purpose are any combination of No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), and [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)**.  
 3. The draft order will be composed of a ban/protect phase and a pick/play phase.
 4. The ban/protect phase will start with the lower seeded player banning one map, followed by the higher seeded player banning one map. Afterwards, the lower seeded player will protect one map, followed by the higher seeded player protecting one map. Lastly, the lower seeded player will once again ban a map, followed by the higher seeded player banning a final map.
+   - Protected maps may only be picked by the player who protected them, and may not be banned.
 5. After the ban/protect phase, players will take turns picking maps from the available pool, following the ABBA order, starting with the higher seedeed player.
 6. The bracket stage will have two phases (one per weekend):
    - For the first weekend, a single-elimination bracket will be played from the Round of 32 up until the Quarterfinals.
