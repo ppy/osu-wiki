@@ -47,12 +47,11 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/172) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/LGA25)
 
-
 ## Match schedule: Week 1
 
 ### Sunday, 18 May 2025
 
-| ID | Round | Team A | Team B | Match time | Twitch stream |  |
+| ID | Round | Team A | Team B | Match time | Twitch stream | Depends on matches |
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
 | 9 | RO32 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=NO }:: [nanolini](https://osu.ppy.sh/users/12353810) | [May 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T110000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 20a | RO16 | [ASecretBox](https://osu.ppy.sh/users/7341183) ::{ flag=AU }:: | ::{ flag=NZ }:: [Emilbus](https://osu.ppy.sh/users/11141578) | [May 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T120000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
@@ -65,6 +64,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | 21c | RO16 | [nanolini](https://osu.ppy.sh/users/12353810) ::{ flag=NO }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T180000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 23b | RO16 | [Lexu3S](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | ::{ flag=PL }:: [eniu](https://osu.ppy.sh/users/5472693) | [May 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 |  |  | Week 2 | Mappool showcase | [May 18 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
+
 ## Mappools
 
 ### Week 1
