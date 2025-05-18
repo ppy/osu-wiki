@@ -26,7 +26,7 @@ Một người dùng có một im lặng đang hoạt động không thể làm 
 ![](img/silence-ingame.png "Cảnh báo im lặng trong trò chuyện")
 :::
 
-Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đã bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí của ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
+Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đều bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí của ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
 
 ## Thời lượng
 
@@ -46,7 +46,7 @@ Một số các lý do phổ biến tại sao người dùng nhận được im 
 - **Gửi thư rác hoặc làm tràn ngập trò chuyện**: không cần giải thích thêm
 - **Lạm dụng chữ in hoa**: trò chuyện bằng tất cả các chữ cái in hoa
 - **Hành vi/cuộc trò chuyện không phù hợp**: Trò chuyện công cộng không phải là một nơi dành cho các thảo luận nội dung không phù hợp với mọi lứa tuổi hoặc đối với các chủ đề gây kích động.
-- **Phân biết chủng tộc**: phân biệt đối xử hoặc căm ghét dựa trên chủng tộc, tôn giáo, giới tính và những thứ tương tự.
+- **Phân biệt chủng tộc**: phân biệt đối xử hoặc căm ghét dựa trên chủng tộc, tôn giáo, giới tính và những thứ tương tự.
 - **Quảng cáo** – Khuyến mãi sản phẩm hoặc dịch vụ, điều này bao gồm các liên kết mời tham gia Discord và các liên kết phát trực tuyến khác như Twitch và YouTube.
 - **Nội dung không mong muốn**: Các trang web chứa nội dung vi phạm bản quyền, nội dung gây hoảng sợ, giới thiệu và các thứ tương tự
 
