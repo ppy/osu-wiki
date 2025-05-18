@@ -4,13 +4,13 @@ title: "Mapper's Choice Awards 2024: Results"
 date: 2025-05-18 20:30:00 +0000
 ---
 
-The mappers have chosen! Let's comb through the results of this year's iteration of the Mapper's Choice Awards!
+After much anticipation, the community has spoken! Join us as we unveil the winners of this year’s Mapper’s Choice Awards.
 
 ![](/wiki/shared/news/2025-03-26-mappers-choice-awards-2024/banner.jpg)
 
-In case you aren't up to date with the happenings of the mapping scene, the Mappers' Choice Awards (or *MCA*, as it is most known) is a community-hosted event where mappers nominate and vote on maps and mappers for various categories in order to celebrate mapping excellence in all shapes and forms. And at last, we get to commemorate the best of this year in categories of each game mode (plus storyboarding)!
+In case you’ve missed the latest buzz in the mapping community, the Mappers' Choice Awards (MCA)is an entirely community-run event where mappers nominate and vote for exceptional maps and creators in a variety of categories. This year, we’re thrilled to finally recognize the absolute best in every game mode (plus storyboarding)!
 
-While we'll only be covering the Grand Award podiums in this post, [all category rankings can be found in the MCA website](https://mca.corsace.io/2024/results), so make sure to not miss out on the full results there!
+This post will showcase the Grand Award winners, but [every category’s results can be found on the official MCA](https://mca.corsace.io/2024/results) site—don’t skip the full breakdown!
 
 ## Rewards
 
@@ -98,8 +98,8 @@ Due to comparatively low participation this year, the amount of badge awards has
 
 ---
 
-Special thanks to [kaetwo](https://osu.ppy.sh/users/1997719) for the amazing design work per usual! Again, make sure to check out the [full results in the MCA website](https://mca.corsace.io/2024/results).
+A huge thank you to [kaetwo](https://osu.ppy.sh/users/1997719) for crafting these stunning banners and assisting with badge and stream designs. Don’t forget to explore the [full results on the MCA website](https://mca.corsace.io/2024/results).
 
-To all who've participated in this year's iteration, we dearly thank you for your time. We hope you've enjoyed the event, and see you again in the next MCA!
+To everyone who participated this year: Thank you for being part of MCA 2024. We hope you loved every moment, and we can’t wait to welcome you back next time!
 
 —Maxus & momoyo
