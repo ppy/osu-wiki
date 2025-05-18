@@ -33,11 +33,12 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186) |
 | Mappool quality assurance | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |
 | Mappool playtester | ::{ flag=PA }:: [AR9](https://osu.ppy.sh/users/5136821), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dwagon](https://osu.ppy.sh/users/9975427), ::{ flag=PL }:: [Eirra](https://osu.ppy.sh/users/3493804), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856), ::{ flag=US }:: [wr8th](https://osu.ppy.sh/users/20276851) |
-| Mapper | ::{ flag=PH }:: [\_xyliac](https://osu.ppy.sh/users/7989480), ::{ flag=AR }:: [\-Links](https://osu.ppy.sh/users/10804237), ::{ flag=FI }:: [bob](https://osu.ppy.sh/users/5346261), ::{ flag=SG }:: [Ixcors](https://osu.ppy.sh/users/11194087), ::{ flag=CL }:: [Mysty](https://osu.ppy.sh/users/10210657), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266), ::{ flag=BR }:: [vetoed](https://osu.ppy.sh/users/10909373), ::{ flag=US }:: [Weoweet](https://osu.ppy.sh/users/16861790), *more TBA* |
+| Mapper | ::{ flag=PH }:: [\_xyliac](https://osu.ppy.sh/users/7989480), ::{ flag=AR }:: [\-Links](https://osu.ppy.sh/users/10804237), ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539), ::{ flag=FI }:: [bob](https://osu.ppy.sh/users/5346261), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [defiance](https://osu.ppy.sh/users/6816873), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=SG }:: [Ixcors](https://osu.ppy.sh/users/11194087), ::{ flag=AU }:: [Kyairie](https://osu.ppy.sh/users/10910405), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=CL }:: [Mysty](https://osu.ppy.sh/users/10210657), ::{ flag=IT }:: [Nemis](https://osu.ppy.sh/users/1635091), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266), ::{ flag=BR }:: [vetoed](https://osu.ppy.sh/users/10909373), ::{ flag=US }:: [Weoweet](https://osu.ppy.sh/users/16861790) |
 | Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I\-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 | Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) |
+| Musicician | [JinoBeats](https://x.com/JinoBeats), [Xeven](https://osu.ppy.sh/beatmaps/artists/475) |
 
 ## Links
 
@@ -47,25 +48,34 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/172) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/LGA25)
 
-## Match schedule: Week 1
-
-### Sunday, 18 May 2025
-
-| ID | Round | Team A | Team B | Match time | Twitch stream | Depends on matches |
-| :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 9 | RO32 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=NO }:: [nanolini](https://osu.ppy.sh/users/12353810) | [May 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T110000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 20a | RO16 | [ASecretBox](https://osu.ppy.sh/users/7341183) ::{ flag=AU }:: | ::{ flag=NZ }:: [Emilbus](https://osu.ppy.sh/users/11141578) | [May 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T120000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 24b | RO16 | [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | ::{ flag=PL }:: [Kosiarek](https://osu.ppy.sh/users/9086565) | [May 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T120000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
-| 18a | RO16 | [nnamoe](https://osu.ppy.sh/users/11215030) ::{ flag=SM }:: | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [May 18 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 19a | RO16 | [FlyingTuna](https://osu.ppy.sh/users/9224078) ::{ flag=KR }:: | ::{ flag=DE }:: [SERBIATRUCKER13](https://osu.ppy.sh/users/15339747) | [May 18 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 21a | RO16 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 18 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T140000&p1=1440) |  | depends on: 9[^potential-match] |
-| 17a | RO16 | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231) | [May 18 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T170000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
-| 22 | RO16 | [Riot](https://osu.ppy.sh/users/4256461) ::{ flag=MX }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 18 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 21c | RO16 | [nanolini](https://osu.ppy.sh/users/12353810) ::{ flag=NO }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T180000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 23b | RO16 | [Lexu3S](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | ::{ flag=PL }:: [eniu](https://osu.ppy.sh/users/5472693) | [May 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-|  |  | Week 2 | Mappool showcase | [May 18 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250518T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
-
 ## Mappools
+
+### Week 2
+
+**[Download the mappack here (114 MB)](https://packs.ppy.sh/P286%20-%20Lazer%20Grand%20Arena%202025%3A%20Week%202.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2456368092?t=0h44m30s)
+
+- No Mod
+  1. [Falcom Sound Team jdk - GENS D'ARMES (jonathanlfj) \[CONQUEROR\]](https://osu.ppy.sh/beatmapsets/1078344#osu/2256387)
+  2. [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) \[Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - Original\]](https://osu.ppy.sh/beatmapsets/1312054#osu/2719283)
+  3. [Akiyama Uni - Yuuga ni Sakase, Sumizome no Sakura \~ Border of Life (Suicune3) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2373321#osu/5124786)
+  4. [Project-G - Chronokinesia (Xykrome) (Cut Ver.) (nooj) \[nooj x feiri Zhonya's Hourglass\]](https://osu.ppy.sh/beatmapsets/2135377#osu/4493247)
+- Hidden
+  1. [Magdalena Bay - Death & Romance (defiance) \[Echo\]](https://osu.ppy.sh/beatmapsets/2373327#osu/5124803)
+  2. [Sum 41 - Fat Lip (fieryrage) \[don't count on me\]](https://osu.ppy.sh/beatmapsets/2373328#osu/5124804)
+  3. [Shogo Nomura - egoist (Megafan, Mysty) \[colbab\]](https://osu.ppy.sh/beatmapsets/2373325#osu/5124793)
+- Hard Rock
+  1. [MikitoP feat. Rib - Tsukiakari (BronyCA) \[Moonlight \[MRC EDIT\]\]](https://osu.ppy.sh/beatmapsets/1645291#osu/3358433)
+  2. [Sparxe - Switcheroo (nik) \[Trickster (LGA Edit)\]](https://osu.ppy.sh/beatmapsets/2373335#osu/5124834)
+  3. [Masayoshi Oishi - L'oN (AirinCat) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/2373334#osu/5124833)
+- Double Time
+  1. (1.50x) [UPLIFT SPICE - Pandora no Hako (Dada) \[\]\]](https://osu.ppy.sh/beatmapsets/2373268#osu/5124534)
+  2. (1.30x) [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](https://osu.ppy.sh/beatmapsets/48979#osu/151229)
+  3. (1.35x) [ELECTROCUTICA - Dependence Intension (Mirash) \[existence discontinuously\]](https://osu.ppy.sh/beatmapsets/1550481#osu/3168353)
+- Lazer Mod
+  1. ([Depth](/wiki/Gameplay/Game_modifier/Freeze_Frame)) [callasoiled - Altitude Remix (dectopia) \[Outer Space\]](https://osu.ppy.sh/beatmapsets/1621249#osu/3310130)
+- Original
+  1. **[Jouxl Eterna (JinoBeats) - Resonance of Ice Stalactites (netnesanya, kyairie) \[Netnekyai's Crystallisation\]](https://osu.ppy.sh/beatmapsets/2373140#osu/5124199)**
 
 ### Week 1
 
@@ -140,6 +150,19 @@ Saturday, 17 May 2025:
 | RO32 | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: [rinse](https://osu.ppy.sh/users/11962818) | [#1](https://osu.ppy.sh/multiplayer/rooms/1365937) | [#1](https://www.twitch.tv/videos/2461409635?t=0h6m35s) |
 | RO32 | [LUNAISTABBY](https://osu.ppy.sh/users/4673649) ::{ flag=US }:: | 2 | **3** | ::{ flag=PL }:: **[eniu](https://osu.ppy.sh/users/5472693)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1365937) | [#1](https://www.twitch.tv/videos/2461409635?t=0h6m35s) |
 | RO32 | **[alfiu](https://osu.ppy.sh/users/17724014)** ::{ flag=CL }:: | **3** | 2 | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [#1](https://osu.ppy.sh/multiplayer/rooms/1366079) | [#1](https://www.twitch.tv/videos/2461209887?t=5h8m40s) |
+
+Sunday, 18 May 2025:
+
+| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| RO16 | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231) | [#1](https://osu.ppy.sh/multiplayer/rooms/1368095) | [#1](https://www.twitch.tv/videos/2462159940?t=1h5m43s) |
+| RO16 | [nnamoe](https://osu.ppy.sh/users/11215030) ::{ flag=SM }:: | 1 | **3** | ::{ flag=US }:: **[tekkito](https://osu.ppy.sh/users/7075211)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1367689) | [#1](https://www.twitch.tv/videos/2462034092?t=1h4m24s) |
+| RO16 | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** ::{ flag=KR }:: | **3** | 1 | ::{ flag=DE }:: [SERBIATRUCKER13](https://osu.ppy.sh/users/15339747) | [#1](https://osu.ppy.sh/multiplayer/rooms/1367557) | [#1](https://www.twitch.tv/videos/2462034092?t=0h4m27s) |
+| RO16 | **[ASecretBox](https://osu.ppy.sh/users/7341183)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=NZ }:: [Emilbus](https://osu.ppy.sh/users/11141578) | [#1](https://osu.ppy.sh/multiplayer/rooms/1367562) | [#1](https://www.twitch.tv/videos/2462034176?t=0h4m15s) |
+| RO16 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [#1](https://osu.ppy.sh/multiplayer/rooms/1367580) |  |
+| RO16 | [Riot](https://osu.ppy.sh/users/4256461) ::{ flag=MX }:: | 0 | **3** | ::{ flag=CA }:: **[Zylice](https://osu.ppy.sh/users/5033077)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1367960) | [#1](https://www.twitch.tv/videos/2462159940?t=0h5m38s) |
+| RO16 | **[Lexu3S](https://osu.ppy.sh/users/11552867)** ::{ flag=RU }:: | **3** | 2 | ::{ flag=PL }:: [eniu](https://osu.ppy.sh/users/5472693) | [#1](https://osu.ppy.sh/multiplayer/rooms/1368105) | [#1](https://www.twitch.tv/videos/2462298024) |
+| RO16 | **[aknzx](https://osu.ppy.sh/users/9938943)** ::{ flag=AU }:: | **3** | 1 | ::{ flag=PL }:: [Kosiarek](https://osu.ppy.sh/users/9086565) | [#1](https://osu.ppy.sh/multiplayer/rooms/1367302) | [#1](https://www.twitch.tv/videos/2461935882?t=1h5m11s) |
 
 ### Qualifiers
 
