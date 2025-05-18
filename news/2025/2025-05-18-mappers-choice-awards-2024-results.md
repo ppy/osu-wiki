@@ -14,13 +14,15 @@ While we'll only be covering the Grand Award podiums in this post, [all category
 
 ## Rewards
 
-Before we dive into the results, here's a quick refresher on what awards we're offering this year:
+The winners presented here will find themselves with the following rewards:
 
 - **osu!supporter**
   - Grand Award winners: 4 months
 - **Badges**
   - Winners of the Grand categories will be awarded special badges each.
   - 2nd and 3rd place of the Grand categories will be awarded a top 3 badge.
+
+Due to comparatively low participation this year, the amount of badge awards has been reduced to only Grand category winners.
 
 ## Navigation
 
@@ -32,9 +34,9 @@ Before we dive into the results, here's a quick refresher on what awards we're o
 
 ## osu!
 
-![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-map-header.png)
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-map-1.png)](https://osu.ppy.sh/beatmapsets/2007289)
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-map-2.png)](https://osu.ppy.sh/beatmapsets/2058976)
+![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-map-header.png)\
+[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-map-1.png)](https://osu.ppy.sh/beatmapsets/2007289)\
+[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-map-2.png)](https://osu.ppy.sh/beatmapsets/2058976)\
 [![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-map-3.png)](https://osu.ppy.sh/beatmapsets/414448)
 
 ![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-user-header.png)
@@ -100,4 +102,4 @@ Special thanks to [kaetwo](https://osu.ppy.sh/users/1997719) for the amazing des
 
 To all who've participated in this year's iteration, we dearly thank you for your time. We hope you've enjoyed the event, and see you again in the next MCA!
 
-—Maxus & Momoyo
+—Maxus & momoyo
