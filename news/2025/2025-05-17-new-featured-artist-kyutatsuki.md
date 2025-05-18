@@ -16,7 +16,7 @@ Experience what the self-proclaimed *Sound Shaper from Another Dimension* has to
 
 ### [Kyutatsuki - Dimension Wars](https://assets.ppy.sh/artists/476/Dimension%20Wars/Kyutatsuki%20-%20Dimension%20Wars.osz)
 
-Try [the map from the preview below](https://osu.ppy.sh/beatmapsets/2097269) by [gzdongsheng](https://osu.ppy.sh/users/8660315) or a [shorter cut version](https://osu.ppy.sh/beatmapsets/2029816) hosted by [Polarin](https://osu.ppy.sh/users/15104680)!
+Try out [the map from the preview below](https://osu.ppy.sh/beatmapsets/2097269) by [gzdongsheng](https://osu.ppy.sh/users/8660315) or a [shorter cut version](https://osu.ppy.sh/beatmapsets/2029816) hosted by [Polarin](https://osu.ppy.sh/users/15104680)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -34,7 +34,7 @@ Play through [this map](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996) fr
 
 ### [Kyutatsuki - SOUND ARCHITECT](https://assets.ppy.sh/artists/476/Songs/Kyutatsuki%20-%20SOUND%20ARCHITECT.osz)
 
-And if you're still up for more challenge, try [this 8.78☆ tiebreaker map](https://osu.ppy.sh/beatmapsets/2180470) from [Corsace Closed 2024](https://osu.ppy.sh/beatmaps/artists/381) by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) or [this 8.56☆ osu!catch map](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132) by [GiGas](https://osu.ppy.sh/users/7300747) and [Jemzuu](https://osu.ppy.sh/users/7890134)!
+And if you're still up for more challenge, come across [this 8.78☆ tiebreaker map](https://osu.ppy.sh/beatmapsets/2180470) from [Corsace Closed 2024](https://osu.ppy.sh/beatmaps/artists/381) by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) or [this 8.56☆ osu!catch map](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132) by [GiGas](https://osu.ppy.sh/users/7300747) and [Jemzuu](https://osu.ppy.sh/users/7890134)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/476/Songs/Kyutatsuki%20-%20SOUND%20ARCHITECT.mp3">
