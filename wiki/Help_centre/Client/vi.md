@@ -491,8 +491,8 @@ Thông thường vấn đề này sẽ biến mất sau khi bạn đóng mọi t
 
 **Đôi khi sau khi cập nhật, client có thể gặp trục trặc mà không rõ lý do.**
 
-Nếu bạn có rất nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho bản cập nhật gây lag. Trình osu! có thể đang xử lý lại các map của bạn để tính toán độ khó.
+Nếu bạn dang có rất nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho gây lag vì bản cập nhật . Trình osu! có thể đang xử lý lại các map của bạn để tính toán độ khó.
 
-Nếu vẫn không cải thiện, khởi động lại máy có thể giúp.
+Nếu vẫn không cải thiện, khởi động lại máy có thể giúp một phần.
 
 **Nếu bạn vẫn gặp giật lag hoặc đứng hình trong khi chơi, hãy xem [hướng dẫn khắc phục hiệu suất](/wiki/Performance_troubleshooting) để tìm thêm nguyên nhân và cách xử lý.**
