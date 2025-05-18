@@ -92,12 +92,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | 37d | LF | Winner of 32 | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | *TBD* |  |
 | 38 | GF | Winner of 36 | Winner of 37 | [May 25 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T150000&p1=1440) | *TBD* |  |
 
-## Notes
-
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding matches
-
 ## Mappools
 
 ### Week 2
@@ -452,7 +446,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ## Notes
 
 [^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX sum
