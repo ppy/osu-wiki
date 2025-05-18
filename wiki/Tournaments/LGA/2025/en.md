@@ -402,5 +402,3 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX sum
-[^winners-bracket]: Winners bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding RO32 bracket matches
