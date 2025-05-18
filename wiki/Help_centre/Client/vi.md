@@ -231,7 +231,7 @@ Trong menu chọn bài, hãy kiểm tra góc trên bên trái màn hình để x
 
 ![](img/correct-map-status.png "Đây là những gì và nó sẽ trông như thế nào")
 
-Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng địa phương có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!](#missing-beatmaps)" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
+Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng cá nhân có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!](#missing-beatmaps)" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
 
 #### Máy chủ gửi điểm có đang hoạt động không? {id=no-submission-servers}
 
