@@ -8,7 +8,7 @@ Sound waves from another dimension have been transported directly to our Feature
 
 ![](https://assets.ppy.sh/artists/476/header.jpg)
 
-**Kyutatsuki** first found their way into osu! through community tournaments, especially catching the attention of osu!mania players. That recognition is what led to **Kyutatsuki**'s involvement in the osu!mania 4K World Cup 2024 Grand Finals tiebreaker, [Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784), so it was only a matter of time before **Kyutatsuki** joined our Featured Artists!
+**Kyutatsuki** first found their way into osu! through community tournaments, especially catching the attention of osu!mania players. That recognition is what led to **Kyutatsuki**'s involvement in the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K) Grand Finals tiebreaker, [Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784), so it was only a matter of time before **Kyutatsuki** joined our Featured Artists!
 
 **5** tracks are officially part of [**Kyutatsuki**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/476), paired with pre-timed beatmap templates. Map one of them, or map all of them. We'll leave you to it.
 
@@ -34,7 +34,7 @@ Play through [this map](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996) fr
 
 ### [Kyutatsuki - SOUND ARCHITECT](https://assets.ppy.sh/artists/476/Songs/Kyutatsuki%20-%20SOUND%20ARCHITECT.osz)
 
-And if you're still up for more challenge, try [this 8\* tiebreaker map](https://osu.ppy.sh/beatmapsets/2180470) from [Corsace Closed 2024](https://osu.ppy.sh/beatmaps/artists/381) by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) or this [osu!catch map](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132) by [GiGas](https://osu.ppy.sh/users/7300747) and [Jemzuu](https://osu.ppy.sh/users/7890134)!
+And if you're still up for more challenge, come across [this 8.78☆ tiebreaker map](https://osu.ppy.sh/beatmapsets/2180470) from [Corsace Closed 2024](https://osu.ppy.sh/beatmaps/artists/381) by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) or [this 8.56☆ osu!catch map](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132) by [GiGas](https://osu.ppy.sh/users/7300747) and [Jemzuu](https://osu.ppy.sh/users/7890134)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/476/Songs/Kyutatsuki%20-%20SOUND%20ARCHITECT.mp3">
