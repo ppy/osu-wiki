@@ -17,7 +17,7 @@ The **osu!catch World Cup 2025** (***CWC 2025***) is a country-based osu!catch t
 | --: | :-- |
 | Registration phase | 2025-05-09 (12:00 UTC)/2025-05-22 (23:59 UTC) |
 | Qualifier showcase | 2025-06-01 (14:00 UTC) |
-| Qualifier stage | 2025-06-07/2025-05-08 |
+| Qualifier stage | 2025-06-07/2025-06-08 |
 | Round of 32 | 2025-06-14/2025-06-15 |
 | Round of 16 | 2025-06-21/2025-06-22 |
 | Quarterfinals | 2025-06-28/2025-06-29 |
