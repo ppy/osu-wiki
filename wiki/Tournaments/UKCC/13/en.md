@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 13
 
-![UKCC12 banner](img/banner.jpg)
+![UKCC13 banner](img/banner.jpg)
 
 The **UK Community Cup 13** (***UKCC13***) is a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [baz](https://osu.ppy.sh/users/4422329) and ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568). It is the fourteenth instalment of the UK Community Cup series and the series' eighth 1v1 competition.
 
