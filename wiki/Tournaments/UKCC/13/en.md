@@ -18,7 +18,7 @@ The **UK Community Cup 13** (***UKCC13***) is a British 1v1 double-elimination o
 | Registration phase | 2025-05-19(20:00UTC)/2025-06-07 (23:59 UTC) |
 | Qualifiers mappool release | 2025-06-08 |
 | Qualifiers stage | 2025-06-14/2025-06-15 |
-| Round of 48 & 32 | 2025-06-20/2025-03-23 |
+| Round of 48 & 32 | 2025-06-20/2025-06-23 |
 | Round of 16 | 2025-06-26/2025-06-27 |
 | Quarterfinals | 2025-07-05/2025-07-06 |
 | Semifinals | 2025-07-12/2025-07-13 |
