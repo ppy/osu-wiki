@@ -507,6 +507,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [UK Community Cup 10](UKCC/10) | 11/9/2021 | 31/10/2021 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 23/1/2022 | 3/4/2022 | Luciano Fan Club | denial piano | The |
 | [UK Community Cup 12](UKCC/12) | 18/3/2023 | 30/4//2023 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896 ) |
+| [UK Community Cup 13](UKCC/13) | 8/6/2025 | 27/7/2025 | *tbd* | *tbd* | *tbd* |
 
 #### Ulat Bulu Cup
 
