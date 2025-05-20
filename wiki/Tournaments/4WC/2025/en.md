@@ -252,7 +252,7 @@ Sunday, 18 May 2025
 | **Germany** ::{ flag=DE }:: | **5** | 3 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/118131443) | [#1](https://www.youtube.com/watch?v=hH_jTefPqQY) |
 | Brazil ::{ flag=BR }:: | 2 | **5** | ::{ flag=NO }:: **Norway** | [#1](https://osu.ppy.sh/community/matches/118132125) | [#1](https://www.youtube.com/watch?v=W9_K7MwVcHw) |
 | **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/118132062) | [#1](https://www.youtube.com/watch?v=ylBHVBRpr3M) |
-| **Canada** ::{ flag=CA }:: | **5** | -1 | ::{ flag=SA }:: Saudi Arabia | win by default | |
+| **Canada** ::{ flag=CA }:: | **5** | -1 | ::{ flag=SA }:: Saudi Arabia | win by default |  |
 
 ### Qualifiers
 
