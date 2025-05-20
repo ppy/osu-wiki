@@ -58,8 +58,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
 | 25 | QF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [May 21 (Wed) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250521T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
-## Match schedule: Week 2
-
 ### Thursday, 22 May 2025
 
 | ID | Round | Team A | Team B | Match time | Twitch stream |  |
