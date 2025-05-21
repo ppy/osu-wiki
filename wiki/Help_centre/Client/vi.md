@@ -78,9 +78,9 @@ Bạn có thể bắt buộc game cập nhật thông qua phần cài đặt tro
 3. Nhập `update`  vào ô tìm kiếm nhanh để nhảy thẳng đến tùy chọn.
 4. Nhấn vào nút `chạy cập nhật osu!`
 
-Bạn cũng có thể ép buộc trò chơi cập nhật bằng cách tạo một tệp `help.txt` trong thư mục cài đặt của osu!. Tệp này không cần chứa nội dung gì; nó chỉ cần tồn tại, và trò chơi sẽ tự động ép buộc cập nhật mỗi khi chạy lần tiếp theo.
+Bạn cũng có thể ép buộc trò chơi cập nhật bằng cách tạo một tệp `help.txt` trong thư mục cài đặt của osu!. Tệp này không cần chứa nội dung gì, nó chỉ cần tồn tại và trò chơi sẽ tự động ép buộc cập nhật mỗi khi chạy lần tiếp theo.
 
-### Tôi gặp phải lỗi về "kiểu chữ" Khi tôi cố gắng mở trò chơi! {id=no-default-fonts}
+### Tôi gặp phải lỗi về "kiểu chữ" khi tôi cố gắng mở trò chơi! {id=no-default-fonts}
 
 Bạn đã xóa hoặc mất các phông chữ hệ thống quan trọng đi kèm với cài đặt Windows cơ bản. Đây có thể không phải là vấn đề duy nhất mà bạn đang gặp phải!
 
@@ -161,7 +161,7 @@ Có một vài lý do có thể dẫn đến tình trạng này. Hãy đọc ti�
 
 **Việc cài lại client trò chơi sẽ tự động xóa tất cả điểm số cục bộ của bạn.**
 
-Rất tiếc, những điểm số này đã mất, — mặc dù những điểm số bạn đã nộp trực tuyến vẫn còn— chỉ cần tải lại bất kỳ bài hát nào bạn đã chơi trước đó, và điểm số của bạn sẽ xuất hiện lại.
+Rất tiếc rằng những điểm số này đã mất, —mặc dù những điểm số bạn đã nộp trực tuyến vẫn còn— chỉ cần tải lại bất kỳ bài hát nào bạn đã chơi trước đó, và điểm số của bạn sẽ xuất hiện lại.
 
 Mẹo hữu ích: nếu bạn là osu!supporter, bạn có thể sử dụng bộ lọc `Ranked (Đã chơi)` trong bảng osu!direct trong game hoặc qua `trang danh sách nghe beatmap` để tìm bất kỳ map nào bạn đã đạt điểm trong quá khứ.
 
@@ -380,15 +380,15 @@ Bạn cũng có thể muốn tìm hiểu về các tiện ích cho phép bạn �
 
 Để xác định nguyên nhân, chúng tôi khuyên bạn nên sử dụng phần mềm giám sát nhiệt độ GPU/CPU và theo dõi trong khi chơi osu! ở chế độ nền. Một chương trình tốt để sử dụng cho việc này là Speccy.
 
-Nếu bạn thấy nhiệt độ GPU hoặc CPU vượt quá 90°C hoặc 194°F, thì máy tính của bạn đang chạy rất nóng và tiệm cận ngưỡng tự động tắt máy của hầu hết hệ thống.
+Nếu bạn thấy nhiệt độ GPU hoặc CPU vượt quá 90°C hoặc 194°F, thì máy tính của bạn đang chạy rất nóng và tiệm cận ngưỡng tự động tắt máy của hầu hết các hệ thống.
 
 ### Máy tính của tôi không quá nóng, nhưng trò chơi vẫn khiến máy tính của tôi khởi động lại! {id=reboot-faulty-device}
 
-Nguyên nhân phổ biến nhất dẫn đến việc máy bị khởi động lại do quá nhiệt là do vấn đề với card âm thanh, tiếp theo là thiết bị ngoại vi bị lỗi được gắn vào máy tính của bạn.
+**Nguyên nhân phổ biến nhất gây ra việc khởi động lại đột ngột sau sự cố quá nhiệt là do lỗi card âm thanh, tiếp theo là các thiết bị ngoại vi bị hỏng kết nối với máy tính của bạn.**
 
 Trình điều khiển (driver) cũ của card âm thanh hoặc phần mềm liên quan có thể gây ra sự cố với osu!, nhưng điều này không xảy ra với hầu hết người dùng. Hãy thử cập nhật driver card âm thanh hoặc driver bo mạch chủ của bạn.
 
-Bạn cũng có thể thử tháo bớt các thiết bị ngoại vi được kết nối qua cổng USB, đặc biệt nếu chúng có liên quan đến âm thanh. Tai nghe hoặc card âm thanh USB đôi khi có thể gây lỗi nếu bản thân thiết bị hoặc cổng cắm bắt đầu gặp trục trặc.
+Bạn cũng có thể thử tháo bớt các thiết bị ngoại vi được kết nối qua cổng USB máy tính của bạn, đặc biệt nếu chúng có liên quan đến âm thanh. Tai nghe hoặc card âm thanh USB đôi khi có thể gây lỗi nếu bản thân thiết bị hoặc cổng cắm bắt đầu gặp trục trặc.
 
 ### Nó vẫn tiếp tục xảy ra {id=reboot-nothing-helps}
 
@@ -449,7 +449,7 @@ Tất cả các tablet chính hãng osu! đều hỗ trợ raw input theo mặc 
 
 #### Bạn có mở nhiều chương trình cùng lúc khi chơi osu! không? {id=lag-too-many-programs}
 
-**Một số tiến trình nền có thể cạnh tranh tài nguyên với osu! và làm cho trải nghiệm chơi rất khó chịu.**
+**Một số chương trình chạy trong nền có thể gây cạnh tranh tài nguyên với osu! và làm cho trải nghiệm chơi rất khó chịu.**
 
 Hãy thử đóng bớt những chương trình bạn cảm thấy không cần thiết khi đang chơi game/hoặc đóng hết chúng đi.
 
@@ -479,7 +479,7 @@ Một cách đơn giản để kiểm tra là thử rút bộ chia USB ra trong 
 
 #### Bạn có đang chạy osu! ở chế độ cửa sổ hoặc chế độ không viền không?  {id=lag-windowed}
 
-**Cả chế độ cửa sổ lẫn chế độ không viền đều gây ra *độ trễ đầu vào đáng kể*. Toàn màn hình (fullscreen) là tối ưu nhất để có trải nghiệm chơi game mượt mà nhất.**
+**Cả chế độ cửa sổ lẫn chế độ không viền đều gây ra *độ trễ đầu vào đáng kể*. Toàn màn hình (fullscreen) là tối ưu nhất để có trải nghiệm chơi game mượt mà.**
 
 #### Trò chơi của bạn có bị đứng hình chỉ trong chốc lát không? {id=lag-background-process}
 
