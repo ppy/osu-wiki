@@ -6,7 +6,7 @@ tags:
 
 # 审核评估团队 (NAT)
 
-*参见：[BN 评估](Evaluations)*, [SEV 分数](SEV_rating)
+*参见：[BN 评估](Evaluations), [SEV 分数](SEV_rating)*
 
 **审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
 
