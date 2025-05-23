@@ -129,7 +129,7 @@ Nếu không có phương pháp nào trong số này hiệu quả, như biện p
 
 ### Danh sách bài hát của tôi cứ tự cuộn! {id=songs-list-scrolling}
 
-***Thông thường điều này xảy ra do một thiết bị nhập liệu bị lỗi đang kết nối với máy tính của bạn. Hãy thử rút bất kỳ tay cầm hay joystick nào ra.**
+**Thông thường điều này xảy ra do một thiết bị nhập liệu bị lỗi đang kết nối với máy tính của bạn. Hãy thử rút bất kỳ tay cầm hay joystick nào ra.**
 
 Những vấn đề này cũng có thể do các ứng dụng giả lập hoặc thay đổi phím tắt, chẳng hạn như Xpadder hoặc X-Mouse Button Control. Nếu bạn đang dùng những ứng dụng này cho game khác, hãy vô hiệu hóa chúng.
 
@@ -187,7 +187,7 @@ Phím tắt mặc định cho tính năng này là `C` và nó sẽ hoạt độ
 
 ### Làm sao để lưu lại bản replay cho điểm số tôi vừa đạt được? {id=save-replay}
 
-**Vào màn hình kết quả sau khi chơi bằng cách nhấp vào điểm số trong bảng điểm cục bộ của bạn, sau đó nhấn `F2`.**
+**Vào màn hình kết quả sau khi chơi bằng cách nhấp vào điểm số trong bảng điểm cá nhân của bạn, sau đó nhấn `F2`.**
 
 Lệnh này sẽ lưu bản replay mới của bạn thành file `.osr` trong thư mục Replays nằm trong thư mục cài đặt osu! mặc định.
 
@@ -342,7 +342,7 @@ Hãy kiểm tra trang [trạng thái máy chủ osu!](https://status.ppy.sh/ "tr
 
 Hãy thử sử dụng proxy hoặc nhà cung cấp VPN khác — nếu vẫn không được, hãy gửi phiếu hỗ trợ qua email đến [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-Nếu bạn không sử dụng bất kỳ thứ nào kể trên, bạn cần gửi phiếu hỗ trợ, vì có thể kết nối của bạn đã bị đưa vào danh sách chặn một cách nhầm lẫn.
+Nếu bạn không sử dụng bất kỳ thứ nào kể trên, bạn cần gửi phiếu hỗ trợ vì có thể kết nối của bạn đã bị đưa vào danh sách chặn do nhầm lẫn.
 
 Tor hoặc các mạng liên quan đến Tor relay phần lớn sẽ không thể kết nối với máy chủ trò chơi. Dù chúng tôi không phản đối hay ủng hộ việc sử dụng Tor, nhưng chính sách này được áp dụng để tránh các hành vi xấu có thể lợi dụng Tor.
 
@@ -396,7 +396,7 @@ Nếu vẫn xảy ra vấn đề, bạn hãy gửi một yêu cầu hỗ trợ �
 
 ### Tôi không thể giữ nhiều phím cùng lúc khi chơi osu!mania {id=keyboard-ghosting}
 
-**Điều này do một vấn đề phần cứng phổ biến trên hầu hết các bàn phím gọi là *ghosting*.**.
+**Điều này do một vấn đề phần cứng phổ biến trên hầu hết các bàn phím gọi là *ghosting*.**
 
 Ghosting là một vấn đề khá phức tạp, nhưng đơn giản là sự cố xảy ra do cách bàn phím của bạn được thiết kế, khiến nó không thể gửi tín hiệu từ hơn một vài phím cùng lúc từ một số khu vực nhất định trên bàn phím.
 
