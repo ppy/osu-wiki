@@ -52,11 +52,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 *Notice: The schedule for Saturday and Sunday is tentative and subject to change based on the availability of the players.*
 
-
-## Match schedule: Week 2
-
-*Notice: The schedule for Saturday and Sunday is tentative and subject to change based on the availability of the players.*
-
 ### Saturday, 24 May 2025
 
 | ID | Round | Team A | Team B | Match time | Twitch stream |  |
