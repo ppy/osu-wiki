@@ -145,6 +145,8 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - Lazer Mod
   1. ([Bubbles](/wiki/Gameplay/Game_modifier/Bubbles) + [Approach Different](/wiki/Gameplay/Game_modifier/Approach_Different)) [Carpool Tunnel - Afterlight (\_Epreus) \[Insane\]](https://osu.ppy.sh/beatmapsets/1001546#osu/2162331)
 
+## Match results
+
 ### Week 2
 
 Wednesday, 21 May 2025:
