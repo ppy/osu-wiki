@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: The Musical Ghost"
-date: 2025-05-24 21:00:00 +0000
+date: 2025-05-24 22:00:00 +0000
 ---
 
 Even an intangible apparition can create vibrations worth adding to our Featured Artist collection.
