@@ -97,7 +97,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
   2. (1.30x) [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](https://osu.ppy.sh/beatmapsets/48979#osu/151229)
   3. (1.35x) [ELECTROCUTICA - Dependence Intension (Mirash) \[existence discontinuously\]](https://osu.ppy.sh/beatmapsets/1550481#osu/3168353)
 - Lazer Mod
-  1. ([Depth](/wiki/Gameplay/Game_modifier/Freeze_Frame)) [callasoiled - Altitude Remix (dectopia) \[Outer Space\]](https://osu.ppy.sh/beatmapsets/1621249#osu/3310130)
+  1. ([Depth](/wiki/Gameplay/Game_modifier/Depth)) [callasoiled - Altitude Remix (dectopia) \[Outer Space\]](https://osu.ppy.sh/beatmapsets/1621249#osu/3310130)
 - Original
   1. **[Jouxl Eterna (JinoBeats) - Resonance of Ice Stalactites (netnesanya, kyairie) \[Netnekyai's Crystallisation\]](https://osu.ppy.sh/beatmapsets/2373140#osu/5124199)**
 
