@@ -8,7 +8,7 @@ Even an intangible apparition can create vibrations worth adding to our Featured
 
 ![](https://assets.ppy.sh/artists/478/header.jpg)
 
-**The Musical Ghost** has been producing his own brand of electro-swing tunes within the walls of his bedroom since 2016! Originally featured in Pump It Up with the track *Lohxia*, **The Musical Ghost** is familiar with what it takes to create solid rhythm game tracks — many of which are now officially part of osu!.
+**The Musical Ghost** has been producing his own brand of electro-swing tunes within the walls of his bedroom since 2016! Originally featured in *Pump It Up* with the track *Lohxia*, **The Musical Ghost** is familiar with what it takes to create solid rhythm game tracks — many of which are now officially part of osu!.
 
 More specifically, **8** tracks are on [**The Musical Ghost**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/478), each timed in advance for you and *only* you. If you share these `.osz`s with anyone else, you might become a ghost too.
 
