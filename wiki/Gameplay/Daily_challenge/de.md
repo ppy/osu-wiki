@@ -15,7 +15,7 @@ Das Menü für die tägliche Herausforderung kann vom Hauptmenü aus folgenderma
 
 Beim Öffnen der täglichen Herausforderung wird ein Intro angezeigt, das die abzuschließende Beatmap sowie die vorgegebenen Mods präsentiert.
 
-Nachdem das Intro endet können Nutzer die Daten der Herausforderung für den jeweiligen Tag einsehen. Die linke Seite stellt verschiedene Informationen zu den Punkteständen bereit, wie beispielsweise die Gesamtzahl der abgeschlossenen Durchläufe und die kumulierte Gesamtpunktzahl. In der Mitte zeigt eine Rangliste die Highscores von Spielern an. Nutzer können sich im Chat auf der rechte Seite über die tägliche Herausforderung austauschen.
+Nachdem das Intro endet, können Nutzer die Daten der Herausforderung für den jeweiligen Tag einsehen. Die linke Seite stellt verschiedene Informationen zu den Punkteständen bereit, wie beispielsweise die Gesamtzahl der abgeschlossenen Durchläufe und die kumulierte Gesamtpunktzahl. In der Mitte zeigt eine Rangliste die Highscores von Spielern an. Nutzer können sich im Chat auf der rechten Seite über die tägliche Herausforderung austauschen.
 
 ## Schwierigkeitsbereich für Beatmaps
 
@@ -55,6 +55,6 @@ Das Projekt wird von ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 
 ![](img/yt-comment.jpg "YouTube-Kommentar von waxxx14, der ein \"cup of the day\"-Format vorgeschlagen hatte")
 :::
 
-- Die Idee für die tägliche Herausforderung kam von waxxx14, der ein "cup of the day"-Format wie in [TrackMania](https://de.wikipedia.org/wiki/TrackMania) vorgeschlagen hatte. Der Beitrag wurde unter dem lazer-Entwicklungsvideo ["deciding what to do with lazer"](https://www.youtube.com/watch?v=xUSxEjQQ1UI) veröffentlicht.
+- Die Idee für die tägliche Herausforderung kam von waxxx14, der ein "cup of the day"-Format wie in [TrackMania](https://de.wikipedia.org/wiki/TrackMania) vorgeschlagen hat. Der Beitrag wurde unter dem lazer-Entwicklungsvideo ["deciding what to do with lazer"](https://www.youtube.com/watch?v=xUSxEjQQ1UI) veröffentlicht.
 - Die tägliche Herausforderung wurde am 25. Juli 2024 in osu!(lazer) in der Version [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0) ausschließlich für den [osu!-Spielmodus](/wiki/Game_mode/osu!) hinzugefügt.
-- In der ersten Veröffentlichung konnten Nutzer keine Mods auswählen (zusätzlich zu den vorgegebenen). Die Gesamtzahl der abgeschlossenen Durchläufe und die kumulierte Gesamtpunktzahl wurden ebenfalls in einem späteren Update implementiert.
+- Anfangs konnten Nutzer nur genau die Mods verwenden, die in der jeweiligen Herausforderung festgelegt waren. Die Gesamtzahl der abgeschlossenen Durchläufe und die kumulierte Gesamtpunktzahl wurden ebenfalls in einem späteren Update implementiert.
