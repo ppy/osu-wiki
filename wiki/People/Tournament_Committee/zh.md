@@ -6,13 +6,11 @@ tags:
   - 赛事
   - 竞赛
   - 锦标赛
-outdated_translation: true
-outdated_since: 89722a56c74c20810e1fa8b375de1042def7971e
 ---
 
 # 锦标赛委员会
 
-**锦标赛委员会** (TC) 是一个由经验丰富、熟练的锦标赛组织者和裁判组成的小组。该小组于 2021 年 7 月 22 日首次通过 [osu! Discord 服务器](https://discord.com/invite/ppy)中的 `#tournaments` 频道向公众宣告，以应对 osu! 快速增长的社区锦标赛场景。
+**锦标赛委员会** (TC) 是一个由经验丰富、熟练的锦标赛组织者和裁判组成的小组。可以通过橙色的玩家头衔和写着 `TC` 的[用户组](/wiki/People/User_groups)徽章认出他们。该小组于 2021 年 7 月 22 日首次通过 [osu! Discord 服务器](https://discord.com/invite/ppy)中的 `#tournaments` 频道向公众宣告，以应对 osu! 快速增长的社区锦标赛场景。
 
 锦标赛委员会的的职责包括帮助[账户支持团队](/wiki/People/Account_support_team)完成以下工作：
 
