@@ -38,7 +38,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 | Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) |
-| Musicician | [JinoBeats](https://x.com/JinoBeats), [Xeven](https://osu.ppy.sh/beatmaps/artists/475) |
+| Musician | [JinoBeats](https://x.com/JinoBeats), [Xeven](https://osu.ppy.sh/beatmaps/artists/475) |
 
 ## Links
 
@@ -46,51 +46,25 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Tournament discussion/feedback thread](https://osu.ppy.sh/community/forums/topics/2075057)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/172) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Challonge bracket](https://challonge.com/LGA25)
+- [Challonge bracket](https://challonge.com/LGA2025)
 
 ## Match schedule: Week 2
 
-### Saturday, 24 May 2025
-
-| ID | Round | Team A | Team B | Match time | Twitch stream |  |
-| :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 26 | QF | [FlyingTuna](https://osu.ppy.sh/users/9224078) ::{ flag=KR }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 24 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T030000&p1=1440) | *TBD* | [^winners-bracket] |
-| 28 | QF | [Lexu3S](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 24 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T100000&p1=1440) | *TBD* | [^winners-bracket] |
-| 25 | QF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [May 24 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T140000&p1=1440) | *TBD* | [^winners-bracket] |
-| 27 | QF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 24 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T140000&p1=1440) | *TBD* | [^winners-bracket] |
-| 30a | QF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=RU }:: [Lexu3S](https://osu.ppy.sh/users/11552867) | [May 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T150000&p1=1440) | *TBD* | depends on: 27, 28[^potential-match] |
-| 30c | QF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T150000&p1=1440) | *TBD* | depends on: 27, 28[^potential-match] |
-| 31a | SF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [May 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T150000&p1=1440) | *TBD* | depends on: 25, 26[^potential-match] |
-| 31c | SF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T150000&p1=1440) | *TBD* | depends on: 25, 26[^potential-match] |
-| 32a | SF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=RU }:: [Lexu3S](https://osu.ppy.sh/users/11552867) | [May 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T150000&p1=1440) | *TBD* | depends on: 27, 28[^potential-match] |
-| 32c | SF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T150000&p1=1440) | *TBD* | depends on: 27, 28[^potential-match] |
-| 29a | QF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [May 24 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T170000&p1=1440) | *TBD* | depends on: 25, 26[^potential-match] |
-| 29c | QF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 24 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T170000&p1=1440) | *TBD* | depends on: 25, 26[^potential-match] |
-| 30b | QF | [Zylice](https://osu.ppy.sh/users/5033077) ::{ flag=CA }:: | ::{ flag=RU }:: [Lexu3S](https://osu.ppy.sh/users/11552867) | [May 24 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T180000&p1=1440) | *TBD* | depends on: 27, 28[^potential-match] |
-| 32b | SF | [Zylice](https://osu.ppy.sh/users/5033077) ::{ flag=CA }:: | ::{ flag=RU }:: [Lexu3S](https://osu.ppy.sh/users/11552867) | [May 24 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250524T180000&p1=1440) | *TBD* | depends on: 27, 28[^potential-match] |
+*Notice: The schedule is tentative and subject to change based on the availability of the players.*
 
 ### Sunday, 25 May 2025
 
-| ID | Round | Team A | Team B | Match time | Twitch stream |  |
+| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 29b | QF | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [May 25 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T020000&p1=1440) | *TBD* | depends on: 25, 26[^potential-match] |
-| 29d | QF | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 25 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T020000&p1=1440) | *TBD* | depends on: 25, 26[^potential-match] |
-| 30d | QF | [Zylice](https://osu.ppy.sh/users/5033077) ::{ flag=CA }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 25 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T020000&p1=1440) | *TBD* | depends on: 27, 28[^potential-match] |
-| 31b | SF | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [May 25 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T020000&p1=1440) | *TBD* | depends on: 25, 26[^potential-match] |
-| 31d | SF | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 25 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T020000&p1=1440) | *TBD* | depends on: 25, 26[^potential-match] |
-| 32d | SF | [Zylice](https://osu.ppy.sh/users/5033077) ::{ flag=CA }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 25 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T020000&p1=1440) | *TBD* | depends on: 27, 28[^potential-match] |
-| 33 | SF | Loser of 31 | Winner of 30 | [May 25 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T100000&p1=1440) | *TBD* | [^losers-bracket] |
-| 34 | SF | Loser of 32 | Winner of 29 | [May 25 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T100000&p1=1440) | *TBD* | [^losers-bracket] |
-| 35a | F | Loser of 31 | Loser of 32 | [May 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T120000&p1=1440) | *TBD* | depends on: 33, 34[^potential-match] |
-| 35b | F | Winner of 30 | Loser of 32 | [May 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T120000&p1=1440) | *TBD* | depends on: 33, 34[^potential-match] |
-| 35c | F | Loser of 31 | Winner of 29 | [May 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T120000&p1=1440) | *TBD* | depends on: 33, 34[^potential-match] |
-| 35d | F | Winner of 30 | Winner of 29 | [May 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T120000&p1=1440) | *TBD* | depends on: 33, 34[^potential-match] |
-| 36 | F | Winner of 31 | Winner of 32 | [May 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T130000&p1=1440) | *TBD* | [^winners-bracket] |
-| 37a | LF | Winner of 31 | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | *TBD* | depends on: 36, 35[^potential-match] |
-| 37b | LF | Winner of 32 | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | *TBD* | depends on: 36, 35[^potential-match] |
-| 37c | LF | Winner of 31 | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | *TBD* | depends on: 36, 35[^potential-match] |
-| 37d | LF | Winner of 32 | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | *TBD* | depends on: 36, 35[^potential-match] |
-| 38 | GF | Winner of 36 | Winner of 37 | [May 25 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T150000&p1=1440) | *TBD* | [^winners-bracket] |
+| 33 | LR2 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [May 25 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T100000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 35a | LR3 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T120000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 33, 34[^potential-match] |
+| 35b | LR3 | [FlyingTuna](https://osu.ppy.sh/users/9224078) ::{ flag=KR }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T120000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 33, 34[^potential-match] |
+| 36 | F | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 37a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
+| 37b | LF | Winner of 35 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
+| 37c | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
+| 37d | LF | Winner of 35 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
+| 38 | GF | Winner of 36 | Winner of 37 | [May 25 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
 ## Mappools
 
@@ -117,7 +91,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
   2. (1.30x) [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](https://osu.ppy.sh/beatmapsets/48979#osu/151229)
   3. (1.35x) [ELECTROCUTICA - Dependence Intension (Mirash) \[existence discontinuously\]](https://osu.ppy.sh/beatmapsets/1550481#osu/3168353)
 - Lazer Mod
-  1. ([Depth](/wiki/Gameplay/Game_modifier/Freeze_Frame)) [callasoiled - Altitude Remix (dectopia) \[Outer Space\]](https://osu.ppy.sh/beatmapsets/1621249#osu/3310130)
+  1. ([Depth](/wiki/Gameplay/Game_modifier/Depth)) [callasoiled - Altitude Remix (dectopia) \[Outer Space\]](https://osu.ppy.sh/beatmapsets/1621249#osu/3310130)
 - Original
   1. **[Jouxl Eterna (JinoBeats) - Resonance of Ice Stalactites (netnesanya, kyairie) \[Netnekyai's Crystallisation\]](https://osu.ppy.sh/beatmapsets/2373140#osu/5124199)**
 
@@ -173,11 +147,44 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ## Match results
 
+### Week 2
+
+Wednesday, 21 May 2025:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| QF | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [#1](https://osu.ppy.sh/multiplayer/rooms/1374325) | [#1](https://www.twitch.tv/videos/2464791551?t=0h4m7s) |
+
+Thursday, 22 May 2025:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| QF | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** ::{ flag=KR }:: | **3** | 1 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [#1](https://osu.ppy.sh/multiplayer/rooms/1375373) | [#1](https://www.twitch.tv/videos/2465313605?t=0h4m47s) |
+
+Friday, 23 May 2025:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| QF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | 2 | **3** | ::{ flag=CA }:: **[Zylice](https://osu.ppy.sh/users/5033077)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1376863) | [#1](https://www.twitch.tv/videos/2465902753?t=0h4m38s) |
+| QF | [Lexu3S](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | 1 | **3** | ::{ flag=AU }:: **[aknzx](https://osu.ppy.sh/users/9938943)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1377693) | [#1](https://www.twitch.tv/videos/2466222700?t=0h4m50s) |
+
+Saturday, 24 May 2025:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| LR1 | **[ASecretBox](https://osu.ppy.sh/users/7341183)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [#1](https://osu.ppy.sh/multiplayer/rooms/1379178) | [#1](https://www.twitch.tv/videos/2466762236?t=0h4m56s) |
+| SF | [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | 0 | **3** | ::{ flag=CA }:: **[Zylice](https://osu.ppy.sh/users/5033077)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1379254) | [#1](https://www.twitch.tv/videos/2466762236?t=1h5m0s) |
+| LR2 | **[ASecretBox](https://osu.ppy.sh/users/7341183)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [#1](https://osu.ppy.sh/multiplayer/rooms/1379334) | [#1](https://www.twitch.tv/videos/2466762236?t=2h4m57s) |
+| LR1 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=RU }:: [Lexu3S](https://osu.ppy.sh/users/11552867) | [#1](https://osu.ppy.sh/multiplayer/rooms/1380145) | [#1](https://www.twitch.tv/videos/2467125549?t=0h5m11s) |
+| SF | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [#1](https://osu.ppy.sh/multiplayer/rooms/1380255) | [#1](https://www.twitch.tv/videos/2467125549?t=1h4m37s) |
+
 ### Week 1
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Erb5JlSWdy0dGFHdbw0rXrTZYbEKIv-ICTBM8HruuZ4?rm=minimal).
 
 Saturday, 17 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | RO32 | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** ::{ flag=KR }:: | **3** | 0 | ::{ flag=US }:: [synchromic](https://osu.ppy.sh/users/14201221) | [#1](https://osu.ppy.sh/multiplayer/rooms/1364116) | [#1](https://www.twitch.tv/videos/2460815628?t=0h4m38s) |
 | RO32 | **[aknzx](https://osu.ppy.sh/users/9938943)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) | [#1](https://osu.ppy.sh/multiplayer/rooms/1364219) | [#1](https://www.twitch.tv/videos/2460815628?t=1h4m13s) |
@@ -197,7 +204,7 @@ Saturday, 17 May 2025:
 
 Sunday, 18 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | RO32 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=NO }:: [nanolini](https://osu.ppy.sh/users/12353810) | [#1](https://osu.ppy.sh/multiplayer/rooms/1367207) | [#1](https://www.twitch.tv/videos/2461935882?t=0h4m54s) |
 | RO16 | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231) | [#1](https://osu.ppy.sh/multiplayer/rooms/1368095) | [#1](https://www.twitch.tv/videos/2462159940?t=1h5m43s) |
