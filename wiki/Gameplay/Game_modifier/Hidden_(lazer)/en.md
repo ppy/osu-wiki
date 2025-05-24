@@ -14,10 +14,10 @@ tags:
 
 ![Hidden mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png)
 
-*![][osu!]: Play with no approach circles and fading circles/sliders.*\
-*![][osu!taiko]: Beats fade out before you hit them!*\
-*![][osu!catch]: Play with fading fruits.*\
-*![][osu!mania]: Keys fade out before you hit them!*
+*![][osu!] Play with no approach circles and fading circles/sliders.*\
+*![][osu!taiko] Beats fade out before you hit them!*\
+*![][osu!catch] Play with fading fruits.*\
+*![][osu!mania] Keys fade out before you hit them!*
 
 |  |  |
 | :-- | :-- |
@@ -36,7 +36,13 @@ tags:
 *For the osu!stable version of this article, see: [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) and makes the [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) fade out after appearing on the screen.
+
+## Customisation
+
+![Hidden customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HD.png)
+
+- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on notes.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
