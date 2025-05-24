@@ -167,7 +167,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | 37d | LF | Winner of 35 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
 | 38 | GF | Winner of 36 | Winner of 37 | [May 25 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
-
 ### Week 2
 
 Wednesday, 21 May 2025:
