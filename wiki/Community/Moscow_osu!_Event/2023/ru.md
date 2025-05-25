@@ -20,7 +20,7 @@ tags:
 - [Discord-сервер](https://discord.gg/EJh4qW6JWz)
 - [Обсуждение](https://osu.ppy.sh/community/forums/topics/1778473)
 - [Записи трансляции мероприятия (YouTube-плейлист)](https://www.youtube.com/playlist?list=PLOkaDdbVuNyZ4PoDHpsCakj_O1-C5hP7W)
-- [Публикация на Reddit с групповой фотографией участников](https://www.reddit.com/r/osugame/comments/15fgwc5/moscow_osu_event_2023_july_2930/)
+
 
 ## Организаторы
 MOE 2023 проводилось с помощью различных участников [сообщества](wiki/Community) osu!  
@@ -39,6 +39,8 @@ MOE 2023 проводилось с помощью различных участ�
 Комментатор | ::{ flag=BY }:: [durashcka](https://osu.ppy.sh/users/4608215), ::{ flag=RU }:: [Kargondz](https://osu.ppy.sh/users/9919528), ::{ flag=RU }:: [Nennerce](https://osu.ppy.sh/users/16873960), ::{ flag=RU }:: [Prade](https://osu.ppy.sh/users/9318565), ::{ flag=RU }:: [MrFuture](https://osu.ppy.sh/users/5724445), ::{ flag=RU }:: [qqseekq](https://osu.ppy.sh/scores/4775817262) | 
 Вспомогательный персонал | ::{ flag=RU }:: [3mplify](https://osu.ppy.sh/users/5688171), ::{ flag=RU }:: [AnyProblems](https://osu.ppy.sh/users/14521043), ::{ flag=RU }:: [Ezaact](https://osu.ppy.sh/users/7398762), ::{ flag=RU }:: [micke259](https://osu.ppy.sh/users/9417967), ::{ flag=RU }:: [Mihu1lio](https://osu.ppy.sh/users/10248474), ::{ flag=RU }:: [Yolixer](https://osu.ppy.sh/users/13954882), ::{ flag=RU }:: [Twiggykun](https://osu.ppy.sh/users/9126943), ::{ flag=LV }:: [zoomqg](https://osu.ppy.sh/users/10765028), ::{ flag=RU }:: [-Fila-](https://osu.ppy.sh/users/8979058), ::{ flag=RU }:: [KeRLi_](https://osu.ppy.sh/users/5902629), ::{ flag=RU }:: [System_error](https://osu.ppy.sh/users/9249873), ::{ flag=RU }:: [1337](https://osu.ppy.sh/users/167013) |
 
+![Group photo](img/group_2023.jpg)
+Групповая фотография участников мероприятия ([Reddit](https://www.reddit.com/r/osugame/comments/15fgwc5/moscow_osu_event_2023_july_2930/))
 
 ## Расписание
 
