@@ -55,7 +55,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ### Saturday, 31 May 2025
 
-| ID | Round | Team A | Team B | Match time | Twitch stream |  |
+| ID | Round | High seed| Low seed | Match time | Twitch stream |  |
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
 | 36 | F | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-finals] |
 | 37a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
@@ -183,13 +183,13 @@ Saturday, 24 May 2025:
 
 Wednesday, 21 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | QF | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [#1](https://osu.ppy.sh/multiplayer/rooms/1374325) | [#1](https://www.twitch.tv/videos/2464791551?t=0h4m7s) |
 
 Thursday, 22 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | QF | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** ::{ flag=KR }:: | **3** | 1 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [#1](https://osu.ppy.sh/multiplayer/rooms/1375373) | [#1](https://www.twitch.tv/videos/2465313605?t=0h4m47s) |
 
@@ -199,7 +199,7 @@ Thursday, 22 May 2025:
 
 Friday, 23 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | QF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | 2 | **3** | ::{ flag=CA }:: **[Zylice](https://osu.ppy.sh/users/5033077)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1376863) | [#1](https://www.twitch.tv/videos/2465902753?t=0h4m38s) |
 | QF | [Lexu3S](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | 1 | **3** | ::{ flag=AU }:: **[aknzx](https://osu.ppy.sh/users/9938943)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1377693) | [#1](https://www.twitch.tv/videos/2466222700?t=0h4m50s) |
@@ -208,7 +208,7 @@ Friday, 23 May 2025:
 
 Saturday, 24 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | LR1 | **[ASecretBox](https://osu.ppy.sh/users/7341183)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [#1](https://osu.ppy.sh/multiplayer/rooms/1379178) | [#1](https://www.twitch.tv/videos/2466762236?t=0h4m56s) |
 | LR1 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=RU }:: [Lexu3S](https://osu.ppy.sh/users/11552867) | [#1](https://osu.ppy.sh/multiplayer/rooms/1380145) | [#1](https://www.twitch.tv/videos/2467125549?t=0h5m11s) |
@@ -218,7 +218,7 @@ Saturday, 24 May 2025:
 
 Sunday, 25 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | LR2 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 2 | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [#1](https://osu.ppy.sh/multiplayer/rooms/1382174) | [#1](https://www.twitch.tv/videos/2467904057?t=0h4m55s) |
 | LR3 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [#1](https://osu.ppy.sh/multiplayer/rooms/1382384) | [#1](https://www.twitch.tv/videos/2467904057?t=2h5m4s) |
@@ -229,7 +229,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, 17 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | RO32 | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** ::{ flag=KR }:: | **3** | 0 | ::{ flag=US }:: [synchromic](https://osu.ppy.sh/users/14201221) | [#1](https://osu.ppy.sh/multiplayer/rooms/1364116) | [#1](https://youtu.be/Pux_RC4P8Ik?si=S1yVFIZwkF9z-zbd&t=276) |
 | RO32 | **[aknzx](https://osu.ppy.sh/users/9938943)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) | [#1](https://osu.ppy.sh/multiplayer/rooms/1364219) | [#1](https://youtu.be/Pux_RC4P8Ik?list=PLIYfYZCsR-6GbBNYQUJwUOkweHnF10QfK&t=3860) |
@@ -249,7 +249,7 @@ Saturday, 17 May 2025:
 
 Sunday, 18 May 2025:
 
-| Stage | Red Player |  |  | Blue Player | Match link | VOD link |
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | RO32 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=NO }:: [nanolini](https://osu.ppy.sh/users/12353810) | [#1](https://osu.ppy.sh/multiplayer/rooms/1367207) | [#1](https://youtu.be/eSPa3jMFcKs?list=PLIYfYZCsR-6GbBNYQUJwUOkweHnF10QfK&t=10922) |
 | RO16 | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231) | [#1](https://osu.ppy.sh/multiplayer/rooms/1368095) | [#1](https://youtu.be/qpd2DPddsKs?list=PLIYfYZCsR-6GbBNYQUJwUOkweHnF10QfK&t=18112) |
@@ -471,7 +471,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Match procedures
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Ruleset: "osu!"` and `Game type: "Team Vs"`. The room name must follow the pattern of `LGA2025: ({Red Player}) VS ({Blue Player})`. The player mentioned first in the room name must be the red player, and the player mentioned second in the room name must be the blue player.
+   - The room settings are `Ruleset: "osu!"` and `Game type: "Team Vs"`. The room name must follow the pattern of `LGA2025: ({High seed}) VS ({Low seed})`. The player mentioned first in the room name must be the High seed, and the player mentioned second in the room name must be the Low seed.
 2. Each player will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. The tactical timeout may not be called on the opposing player's pick or ban phase.
 3. Players will be allowed 2 minutes for each pick/ban phase (as described on the [bracket stage instructions](#bracket-stage-information) section), and an additional 2 minutes to press the `Ready` button on their client before play commences. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
