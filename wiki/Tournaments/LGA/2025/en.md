@@ -55,7 +55,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ### Saturday, 31 May 2025
 
-| ID | Round | High seed| Low seed | Match time | Twitch stream |  |
+| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
 | 36 | F | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-finals] |
 | 37a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
@@ -63,7 +63,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | 37c | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
 | 37d | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
 | 38 | GF | Winner of 36 | Winner of 37 | [May 31 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
-
 
 ## Mappools
 
@@ -166,45 +165,6 @@ Friday, 23 May 2025:
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | QF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | 2 | **3** | ::{ flag=CA }:: **[Zylice](https://osu.ppy.sh/users/5033077)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1376863) | [#1](https://www.twitch.tv/videos/2465902753?t=0h4m38s) |
 | QF | [Lexu3S](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | 1 | **3** | ::{ flag=AU }:: **[aknzx](https://osu.ppy.sh/users/9938943)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1377693) | [#1](https://www.twitch.tv/videos/2466222700?t=0h4m50s) |
-
-Saturday, 24 May 2025:
-
-| Stage | High seed |  |  | Low seed | Match link | VOD link |
-| :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| LR1 | **[ASecretBox](https://osu.ppy.sh/users/7341183)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [#1](https://osu.ppy.sh/multiplayer/rooms/1379178) | [#1](https://www.twitch.tv/videos/2466762236?t=0h4m56s) |
-| SF | [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | 0 | **3** | ::{ flag=CA }:: **[Zylice](https://osu.ppy.sh/users/5033077)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1379254) | [#1](https://www.twitch.tv/videos/2466762236?t=1h5m0s) |
-| LR2 | **[ASecretBox](https://osu.ppy.sh/users/7341183)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [#1](https://osu.ppy.sh/multiplayer/rooms/1379334) | [#1](https://www.twitch.tv/videos/2466762236?t=2h4m57s) |
-| LR1 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=RU }:: [Lexu3S](https://osu.ppy.sh/users/11552867) | [#1](https://osu.ppy.sh/multiplayer/rooms/1380145) | [#1](https://www.twitch.tv/videos/2467125549?t=0h5m11s) |
-| SF | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [#1](https://osu.ppy.sh/multiplayer/rooms/1380255) | [#1](https://www.twitch.tv/videos/2467125549?t=1h4m37s) |
-
-## Match results
-
-### Week 2
-
-Wednesday, 21 May 2025:
-
-| Stage | High seed |  |  | Low seed | Match link | VOD link |
-| :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| QF | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211) | [#1](https://osu.ppy.sh/multiplayer/rooms/1374325) | [#1](https://www.twitch.tv/videos/2464791551?t=0h4m7s) |
-
-Thursday, 22 May 2025:
-
-| Stage | High seed |  |  | Low seed | Match link | VOD link |
-| :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| QF | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** ::{ flag=KR }:: | **3** | 1 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [#1](https://osu.ppy.sh/multiplayer/rooms/1375373) | [#1](https://www.twitch.tv/videos/2465313605?t=0h4m47s) |
-
-## Match results
-
-### Week 2
-
-Friday, 23 May 2025:
-
-| Stage | High seed |  |  | Low seed | Match link | VOD link |
-| :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| QF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | 2 | **3** | ::{ flag=CA }:: **[Zylice](https://osu.ppy.sh/users/5033077)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1376863) | [#1](https://www.twitch.tv/videos/2465902753?t=0h4m38s) |
-| QF | [Lexu3S](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | 1 | **3** | ::{ flag=AU }:: **[aknzx](https://osu.ppy.sh/users/9938943)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1377693) | [#1](https://www.twitch.tv/videos/2466222700?t=0h4m50s) |
-
-### Week 2
 
 Saturday, 24 May 2025:
 
