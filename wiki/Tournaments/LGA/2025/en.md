@@ -22,7 +22,7 @@ The **Lazer Grand Arena 2025** (***LGA 2025***) is an osu!(lazer) tournament hos
 | Qualifier stage | 2025-05-04 (19:00 UTC) – 2025-05-11 (19:00 UTC) |
 | Bracket stage (single elimination) | 2025-05-17/2025-05-18 |
 | Top 8 (double elimination) | 2025-05-24/2025-05-25 |
-| Top 3 | 2025-05-31/2025-06-01 |
+| Top 3 | 2025-05-30/2025-05-31 |
 
 ## Organisation
 
@@ -49,30 +49,28 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/172) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/LGA2025)
 
-## Match schedule: Week 2
+## Match schedule: Week 3
 
 *Notice: The schedule is tentative and subject to change based on the availability of the players.*
 
-### Sunday, 25 May 2025
+### Saturday, 31 May 2025
 
-| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
+| ID | Round | Team A | Team B | Match time | Twitch stream |  |
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 33 | LR2 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [May 25 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T100000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 35a | LR3 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T120000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 33, 34[^potential-match] |
-| 35b | LR3 | [FlyingTuna](https://osu.ppy.sh/users/9224078) ::{ flag=KR }:: | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [May 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T120000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 33, 34[^potential-match] |
-| 36 | F | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 37a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
-| 37b | LF | Winner of 35 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
-| 37c | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | Winner of 35 | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
-| 37d | LF | Winner of 35 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 36, 35[^potential-match] |
-| 38 | GF | Winner of 36 | Winner of 37 | [May 25 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250525T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 36 | F | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-finals] |
+| 37a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
+| 37b | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
+| 37c | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
+| 37d | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
+| 38 | GF | Winner of 36 | Winner of 37 | [May 31 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+
 
 ## Mappools
 
 ### Week 2
 
 **[Download the mappack here (114 MB)](https://packs.ppy.sh/P286%20-%20Lazer%20Grand%20Arena%202025%3A%20Week%202.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2456368092?t=0h44m30s)
+[View the showcase VOD here](https://youtu.be/qpd2DPddsKs?list=PLIYfYZCsR-6GbBNYQUJwUOkweHnF10QfK&t=23293)
 
 - No Mod
   1. [Falcom Sound Team jdk - GENS D'ARMES (jonathanlfj) \[CONQUEROR\]](https://osu.ppy.sh/beatmapsets/1078344#osu/2256387)
@@ -99,7 +97,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 ### Week 1
 
 **[Download the mappack here (104 MB)](https://packs.ppy.sh/P285%20-%20Lazer%20Grand%20Arena%202025%3A%20Week%201.zip?1747460209)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2456368092?t=0h44m30s)
+[View the showcase VOD here](https://youtu.be/3Q3VXkmWa7c?list=PLIYfYZCsR-6GbBNYQUJwUOkweHnF10QfK&t=2670)
 
 - No Mod
   1. [Nanahoshi Kangengakudan - FREEDMAN (-Links) \[Imitadores de la Libertad\]](https://osu.ppy.sh/beatmapsets/2369572#osu/5112574)
@@ -126,7 +124,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 ### Qualifiers
 
 **[Download the mappack here (114 MB)](https://packs.ppy.sh/P284%20-%20Lazer%20Grand%20Arena%202025%3A%20Qualifiers.zip?1747006157)**\
-[View the showcase VOD here](https://www.youtube.com/watch?v=52W_cvU-ajU)
+[View the showcase VOD here](https://youtu.be/52W_cvU-ajU?list=PLIYfYZCsR-6GbBNYQUJwUOkweHnF10QfK)
 
 - No Mod
   1. [Wagakki Band - Kagerou Days (-Kirigiri) \[Heaven\]](https://osu.ppy.sh/beatmapsets/1865260#osu/3836604)
@@ -499,7 +497,8 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding matches
+[^winners-finals]: Winners bracket Finals match
+[^losers-finals]: Losers bracket Finals match — final matchup depends on the results of the preceding Winners bracket Finals match
+[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding Losers bracket Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX sum

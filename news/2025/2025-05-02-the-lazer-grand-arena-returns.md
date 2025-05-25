@@ -20,7 +20,7 @@ As always, for more details pertaining to the tournament, please refer to the **
 | Qualifier stage | May 4 (19:00 UTC) – May 11 (19:00 UTC) |
 | Bracket stage (single elimination) | May 17 & May 18 |
 | Top 8 (double elimination) | May 24 & May 25 |
-| Top 3 | May 31 & June 1 |
+| Top 3 | May 30 & May 31 |
 
 ## Tournament format showcase
 
