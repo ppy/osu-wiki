@@ -483,7 +483,7 @@ Một cách đơn giản để kiểm tra là thử rút bộ chia USB ra trong 
 
 #### Trò chơi của bạn có bị đứng hình chỉ trong chốc lát không? {id=lag-background-process}
 
-**Đôi khi các tiến trình nền hoặc ứng dụng khác trên máy tính của bạn có thể gửi những yêu cầu tài nguyên lớn cùng lúc, khiến máy của bạn gặp khó khăn trong việc xử lý.**
+**Đôi khi các chương trình chạy dưới nền hoặc ứng dụng khác trên máy tính của bạn có thể gửi những yêu cầu tài nguyên lớn cùng lúc, khiến máy của bạn gặp khó khăn trong việc xử lý.**
 
 Thông thường vấn đề này sẽ biến mất sau khi bạn đóng mọi thứ không cần thiết trước khi chơi osu!. Phần mềm torrent là thủ phạm phổ biến, đặc biệt nếu nó dùng chung ổ đĩa với nơi cài osu!.
 
