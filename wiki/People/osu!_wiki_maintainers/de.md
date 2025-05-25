@@ -42,7 +42,7 @@ Neben ihren Verwaltungsaufgaben überprüfen und editieren einige Verantwortlich
 
 ## Ehemalige Betreuer
 
-Diese Liste enthält Verantwortliche, die nicht mehr als Teil des [Wikiteams](https://github.com/orgs/ppy/teams/wiki/members) aufgeführt werden. Dazu gehören auch Administratoren des [MediaWiki-Portals](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)), über das das osu!-Wiki vor dem Wechsel zu GitHub bereitgestellt wurde.
+Diese Liste enthält Verantwortliche, die nicht mehr als Teil des [Wikiteams](https://github.com/orgs/ppy/teams/wiki/members) aufgeführt werden. Dazu gehören auch Administratoren des [MediaWiki-Portals](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011-bis-2017)), über das das osu!-Wiki vor dem Wechsel zu GitHub bereitgestellt wurde.
 
 - ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
