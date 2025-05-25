@@ -8,7 +8,7 @@ tags:
 
 ![MOE 2023 logo](img/logo.png)
 
-**Moscow osu! Event 2023** (***MOE 2023***) is the first iteration of the osu! festival, held on July 29 and 30, 2023 at **Phystechpark, Moscow, Russian Federation**, gathering more than 250 people offline.
+**Moscow osu! Event 2023** (***MOE 2023***) is the first iteration of the osu! festival, held on July 29-30, 2023 at **Phystechpark, Moscow, Russian Federation**, gathering more than 250 people offline.
 
 ## Links
 
