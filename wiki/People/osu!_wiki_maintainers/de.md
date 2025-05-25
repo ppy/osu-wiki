@@ -1,15 +1,10 @@
----
-outdated_since: 0ffdd3209f4cbab2e8b050f5eb1201ddd9f4c660
-outdated_translation: true
----
-
 # Betreuer des osu!-Wikis
 
 Die **Leiter des osu!-Wikis** pflegen das [osu!-Wiki](/wiki/osu!_wiki) über sein [GitHub-Repository](https://github.com/ppy/osu-wiki).
 
 Die Betreuer schauen regelmäßig in den [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) und überprüfen Änderungsvorschläge (Pull-Requests) von Mitwirkenden. Im Gegensatz zu anderen Beteiligten können sie Vorschläge bearbeiten und diese mit dem `master`-Branch des Repositorys zusammenführen, wodurch die Änderungen veröffentlicht werden.
 
-Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Antrag überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch können.
+Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Antrag überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch sprechen.
 
 ## Wiki-Betreuer
 
@@ -22,6 +17,7 @@ Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass 
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inaktiv | Spanisch |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Inaktiv | Deutsch |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inaktiv |  |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | [Nivalyx](https://github.com/Nivalyx) | **Active** | Indonesisch |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inaktiv | Deutsch |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Aktiv** | Japanisch |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Inaktiv |  |
@@ -34,7 +30,7 @@ Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass 
 
 ## Verantwortliche für Neuigkeiten
 
-Kuratoren, Redakteure und Prüfer für alle [News-Beiträge](https://osu.ppy.sh/home/news), die auf der Webseite erscheinen.
+Neben ihren Verwaltungsaufgaben überprüfen und editieren einige Verantwortliche auch alle [News-Beiträge](https://osu.ppy.sh/home/news), die auf der Webseite erscheinen.
 
 | osu!-Profil | GitHub-Profil |
 | :-- | :-- |
@@ -44,11 +40,11 @@ Kuratoren, Redakteure und Prüfer für alle [News-Beiträge](https://osu.ppy.sh/
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) |
 
-## Frühere Betreuer
+## Ehemalige Betreuer
 
-Diese Liste enthält Verantwortliche des MediaWiki-Portals, das das osu!-Wiki [früher hatte](/wiki/History_of_osu!/osu!_wiki):
+Diese Liste enthält Verantwortliche, die nicht mehr als Teil des [Wikiteams](https://github.com/orgs/ppy/teams/wiki/members) aufgeführt werden. Dazu gehören auch Administratoren des [MediaWiki-Portals](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)), über das das osu!-Wiki vor dem Wechsel zu GitHub bereitgestellt wurde.
 
-- ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
+- ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
 - ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)
 - ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)
