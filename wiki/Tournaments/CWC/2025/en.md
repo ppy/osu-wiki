@@ -51,9 +51,62 @@ The osu!catch World Cup 2025 is run by various community members.
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/50)**
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2076961)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2076961)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/50)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[-Story-](https://osu.ppy.sh/users/8172283)** |
+| ::{ flag=AU }:: | **Australia** | **[chickennando](https://osu.ppy.sh/users/5818665)** |
+| ::{ flag=BE }:: | **Belgium** | **[ElSkeffe](https://osu.ppy.sh/users/6283136)** |
+| ::{ flag=BR }:: | **Brazil** | **[Konohana Lucia](https://osu.ppy.sh/users/8642224)** |
+| ::{ flag=BG }:: | **Bulgaria** | **[Dekyoura](https://osu.ppy.sh/users/11156215)** |
+| ::{ flag=CA }:: | **Canada** | **[Katsuragi](https://osu.ppy.sh/users/3616480)** |
+| ::{ flag=CL }:: | **Chile** | **[Lechu FAQ 35P](https://osu.ppy.sh/users/2872000)** |
+| ::{ flag=CN }:: | **China** | **[Cyphos](https://osu.ppy.sh/users/9740698)** |
+| ::{ flag=CO }:: | **Colombia** | **[Zyonii](https://osu.ppy.sh/users/9519851)** |
+| ::{ flag=DK }:: | **Denmark** | **[Captain](https://osu.ppy.sh/users/2563435)** |
+| ::{ flag=EE }:: | **Estonia** | **[TuuGamer](https://osu.ppy.sh/users/17458994)** |
+| ::{ flag=FI }:: | **Finland** | **[YERTI](https://osu.ppy.sh/users/1490757)** |
+| ::{ flag=FR }:: | **France** | **[Electr0o](https://osu.ppy.sh/users/9484428)** |
+| ::{ flag=DE }:: | **Germany** | **[Marvmallow](https://osu.ppy.sh/users/8403032)** |
+| ::{ flag=GR }:: | **Greece** | **[\[Romanos\]](https://osu.ppy.sh/users/4682813)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[my angel auto](https://osu.ppy.sh/users/29503627)** |
+| ::{ flag=IS }:: | **Iceland** | **[Ash Ketchum](https://osu.ppy.sh/users/7297777)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Zvenx](https://osu.ppy.sh/users/14613788)** |
+| ::{ flag=IL }:: | **Israel** | **[gal1](https://osu.ppy.sh/users/9424481)** |
+| ::{ flag=IT }:: | **Italy** | **[ArMa79](https://osu.ppy.sh/users/4982799)** |
+| ::{ flag=JP }:: | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)** |
+| ::{ flag=LV }:: | **Latvia** | **[AnApple7](https://osu.ppy.sh/users/12567935)** |
+| ::{ flag=LT }:: | **Lithuania** | **[nenoriu](https://osu.ppy.sh/users/6385052)** |
+| ::{ flag=MY }:: | **Malaysia** | **[Moeruattack](https://osu.ppy.sh/users/4480237)** |
+| ::{ flag=MX }:: | **Mexico** | **[Firu](https://osu.ppy.sh/users/10516547)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Kasumizawa-Miyu](https://osu.ppy.sh/users/24345309)** |
+| ::{ flag=NO }:: | **Norway** | **[CyCeph](https://osu.ppy.sh/users/4586304)** |
+| ::{ flag=PE }:: | **Peru** | **[islux](https://osu.ppy.sh/users/5477873)** |
+| ::{ flag=PH }:: | **Philippines** | **[-Isla-](https://osu.ppy.sh/users/17745759)** |
+| ::{ flag=PL }:: | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)** |
+| ::{ flag=PT }:: | **Portugal** | **[AfonsoMPt](https://osu.ppy.sh/users/13294871)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[Nelly](https://osu.ppy.sh/users/4741164)** |
+| ::{ flag=SG }:: | **Singapore** | **[He Ang CTB](https://osu.ppy.sh/users/2451381)** |
+| ::{ flag=KR }:: | **South Korea** | **[\[0v0\]](https://osu.ppy.sh/users/12904746)** |
+| ::{ flag=ES }:: | **Spain** | **[Sprint-](https://osu.ppy.sh/users/13845399)** |
+| ::{ flag=SE }:: | **Sweden** | **[Aceon](https://osu.ppy.sh/users/4452911)** |
+| ::{ flag=CH }:: | **Switzerland** | **[TaikoWorldCup](https://osu.ppy.sh/users/11296097)** |
+| ::{ flag=TW }:: | **Taiwan** | **[eauikk](https://osu.ppy.sh/users/1177233)** |
+| ::{ flag=TH }:: | **Thailand** | **[N3Marry](https://osu.ppy.sh/users/13222425)** |
+| ::{ flag=TR }:: | **Türkiye** | **[lorem ipsum](https://osu.ppy.sh/users/17130789)** |
+| ::{ flag=UA }:: | **Ukraine** | **[MegaMix](https://osu.ppy.sh/users/18152711)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)** |
+| ::{ flag=US }:: | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)** |
+| ::{ flag=VN }:: | **Vietnam** | **[Stardust Prism](https://osu.ppy.sh/users/8525921)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, May 31 23:59 UTC**. This list was last updated on **May 26**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a8df801dc4c99f192694621928b231).
 
 ## Ruleset
 
