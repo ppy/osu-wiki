@@ -266,6 +266,36 @@ The 4 Digit World Cup 2025 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Detailed statistics for the Round of 16 can be found [here](https://docs.google.com/spreadsheets/d/11XWQrEzcfp7rAEs3pRBSxjiW9_cjylwPeV3pbgvWfaY?rm=minimal).
+
+Saturday, 24 May 2025
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **5** | 3 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/118183231) | [#1](https://www.youtube.com/watch?v=axS3b4hctlM) |
+| **Sweden** ::{ flag=SE }:: | **5** | 4 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/118184865) | [#1](https://www.youtube.com/watch?v=FICLRADLgTk) |
+| Malaysia ::{ flag=MY }:: | 2 | **5** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/118184827) | [#1](https://www.youtube.com/watch?v=ST6OpaYjOgc) |
+| Taiwan ::{ flag=TW }:: | 4 | **5** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/118185529) | [#1](https://www.youtube.com/watch?v=YgNtKdelYUI) |
+| Japan ::{ flag=JP }:: | 1 | **5** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/118185561) | [#1](https://www.youtube.com/watch?v=uSuFggyni60) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/118186347) | [#1](https://www.youtube.com/watch?v=eF4wvSp-dC8) |
+| Colombia ::{ flag=CO }:: | 1 | **5** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/118186126) | [#1](https://www.youtube.com/watch?v=vgVZ1CmUs4A) |
+| Argentina ::{ flag=AR }:: | 4 | **5** | ::{ flag=TR }:: **Türkiye** | [#1](https://osu.ppy.sh/community/matches/118187507) | [#1](https://www.youtube.com/watch?v=dAfLMsU9c8w) |
+
+Sunday, 25 May 2025
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Saudi Arabia** ::{ flag=SA }:: | **5** | 4 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/118196083) | [#1](https://www.youtube.com/watch?v=RMhjF6ezlh8) |
+| Austria ::{ flag=AT }:: | 1 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/118196013) | [#1](https://www.youtube.com/watch?v=xOR139AoWRM) |
+| **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/118197253) | [#1](https://www.youtube.com/watch?v=Bv8RwDvavvc) |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/118198170) | [#1](https://www.youtube.com/watch?v=JovYvHUx7Ok) |
+| Kazakhstan ::{ flag=KZ }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/118198461) | [#1](https://www.youtube.com/watch?v=-1joEAdK7Ho) |
+| **Poland** ::{ flag=PL }:: | **5** | 2 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/118199408) | [#1](https://www.youtube.com/watch?v=qFWKaMUE6t0) |
+| Norway ::{ flag=NO }:: | 4 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/118199688) | [#1](https://www.youtube.com/watch?v=BDHj64KhaeU) |
+| Brazil ::{ flag=BR }:: | 1 | **5** | ::{ flag=UA }:: **Ukraine** | [#1](https://osu.ppy.sh/community/matches/118200955) | [#1](https://www.youtube.com/watch?v=YdSyKzx_3Jc) |
+
 ### Round of 32
 
 Detailed statistics for the Round of 32 can be found [here](https://docs.google.com/spreadsheets/d/1EQ3SINNB_kGwx7CThq_jzWRAkVWOaTqwC-IPYOQa6e0?rm=minimal).
