@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4726aee80ebfa659ad7552ec1a6db04c51331c75
+---
+
 # Reportar abuso
 
 ## No sé si debería reportar esto o no

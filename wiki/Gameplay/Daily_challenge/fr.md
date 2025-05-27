@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 484cdf4e21c5aa17ab9cf097c57b413162d948a8
+---
+
 # Défi du jour
 
 Le **défi du jour** est un mode multijoueur de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) où les joueurs peuvent accumuler une série en réussissant à passer des [beatmaps](/wiki/Beatmap) quotidiennement. La difficulté augmente de jour en jour et se réinitialise toutes les semaines.

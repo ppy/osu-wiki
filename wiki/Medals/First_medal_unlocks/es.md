@@ -181,7 +181,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/all-secret-hybrid.png) | Hybrid Hyperion | ::{ flag=MX }:: [Agamalpa](https://osu.ppy.sh/users/15420662) | 31 de diciembre de 2023 (04:25:09) |
 | ![](/wiki/shared/medals/all-secret-divinationbreak.png) | Divination Break | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 31 de diciembre de 2023 (21:27:24) |
 | ![](/wiki/shared/medals/all-secret-unwilted.png) | Unwilted | ::{ flag=ID }:: [-Minz-](https://osu.ppy.sh/users/20578672) | 1 de enero de 2024 (14:06:48) |
-| ![](/wiki/shared/medals/all-secret-pioneer.png) | Pioneer | - | - |
+| ![](/wiki/shared/medals/all-secret-pioneer.png) | Pioneer | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 13 de abril de 2025 (06:11:57) |
 | ![](/wiki/shared/medals/osu-secret-overcooked.png) | Overcooked? | ::{ flag=CL }:: [GalaxyGaming](https://osu.ppy.sh/users/4587526) | 25 de diciembre de 2024 (05:29:27) |
 | ![](/wiki/shared/medals/taiko-secret-stargazer.png) | Stargazer | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 18 de enero de 2025 (16:09:11) |
 | ![](/wiki/shared/medals/osu-secret-candescence.png) | Candescence | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 25 de diciembre de 2024 (04:44:36) |

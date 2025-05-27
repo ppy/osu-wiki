@@ -1,6 +1,6 @@
 # Veto de un beatmap
 
-El *veto de un beatmap* le permite a un [Beatmap Nominator](/wiki/People/Beatmap_Nominators) impedir que un beatmap sea calificado si considera que hay problemas significativos relacionados con la calidad del beatmap que lo hacen inadecuado para la [clasificación](/wiki/Beatmap/Category#ranked). Una de sus principales responsabilidades es tratar de aclarar cualquier problema de calidad que, en su opinión, deba resolverse antes de que el mapa pueda proceder a la [calificación](/wiki/Beatmap_ranking_procedure#calificación).
+El *veto de un beatmap* le permite a un [Beatmap Nominator](/wiki/People/Beatmap_Nominators) impedir que un beatmap sea clasificado si considera que hay problemas significativos relacionados con la calidad del beatmap que lo hacen inadecuado para la [clasificación](/wiki/Beatmap/Category#ranked). Una de sus principales responsabilidades es tratar de aclarar cualquier problema de calidad que, en su opinión, deba resolverse antes de que el mapa pueda proceder a la [calificación](/wiki/Beatmap_ranking_procedure#calificación).
 
 Cualquier Beatmap Nominator puede vetar un beatmap, siempre que esté formalmente calificado para el modo o modos de juego en cuestión, tal y como se indica en las [reglas para los Beatmap Nominators](/wiki/People/Beatmap_Nominators/Rules). Cada veto de un beatmap debe ser discutido por ambas partes (tanto el mapper como el nominador que vetó el beatmap) para intentar llegar a un acuerdo.
 
@@ -10,8 +10,7 @@ En los casos en que la discusión no tenga lugar o no sea concluyente, y tanto e
 
 Como Beatmap Nominator, puedes vetar un beatmap de tres maneras:
 
-- En el caso de beatmaps nominados, restableciendo sus nominaciones.
-- En el caso de beatmaps calificados, descalificándolos.
+- En el caso de beatmaps nominados o calificados, publicando una sugerencia.
 - En el caso de beatmaps pendientes, publicando un problema.
 
 En todos los casos, el veto de un beatmap debe indicarse como tal, e ir acompañado de una explicación detallada de por qué crees que el beatmap en cuestión no debe tenerse en cuenta para la calificación. A continuación, debe producirse una discusión adecuada en la que ambas partes intenten llegar a un acuerdo mutuo.
@@ -30,7 +29,7 @@ Durante la mediación, los Beatmap Nominators y los miembros del NAT del modo o 
 
 Cualquier decisión tomada por los participantes debe ir acompañada de una razón para tomar la decisión. Si algún miembro no pudiera participar, su voto se considerará abstenido.
 
-Para que un punto de un veto se mantenga, una mayoría del 70 % de los votos debe estar de acuerdo con lo que se señala. Si no se alcanza este valor mínimo, el punto del veto puede ser retirado.
+Para que un punto de un veto se mantenga, una mayoría del 60 % de los votos debe estar de acuerdo con lo que se señala. Si no se alcanza este valor mínimo, el punto del veto puede ser retirado.
 
 ## Cómo proceder después de la mediación
 

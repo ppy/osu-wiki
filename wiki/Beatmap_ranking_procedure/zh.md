@@ -11,6 +11,8 @@ tags:
   - 飞图
   - 提名
   - 上架
+outdated_since: 3139de4953a023c1fa4d36c863bec1da90a88853
+outdated_translation: true
 ---
 
 # 谱面审核流程
