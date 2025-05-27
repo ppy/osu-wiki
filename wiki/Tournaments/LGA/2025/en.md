@@ -57,12 +57,12 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 | ID | Round | High seed | Low seed | Match time | Twitch stream |  |
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 36 | F | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-finals] |
-| 37a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-| 37b | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-| 37c | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-| 37d | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-| 38 | GF | Winner of 36 | Winner of 37 | [May 31 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| 36 | F | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T110000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-finals] |
+| 37a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T123000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
+| 37b | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T123000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
+| 37c | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T123000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
+| 37d | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T123000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
+| 38 | GF | Winner of 36 | Winner of 37 | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
 
