@@ -102,8 +102,6 @@ Important to understand before using:
 - **Difficulty names should not be misleading.**  
   - **Descriptive difficulty names should have a relation to the song.** When adding other terms such as `Tragic Love` to a difficulty name, it should relate to the song.
   - **When combining multiple usernames into a single collaborator name for a [guest difficulty](/wiki/Beatmap/Guest_difficulty), make sure the name remains comprehensible.** For example `Mamayucha` being a [collaboration difficulty](/wiki/Beatmap/Beatmap_collaborations) between `Mani`, `Mari`, `Yuzu` and `Mocha` loses many of the collaborators' features and listing their full usernames. Replacing the collaborative username with `Collab` or a descriptor like `osu! Mascots' Expert` may be clearer.
-  - **The host should not include difficulties such as `Host's Insane`.** Conflicts caused by mapping multiple songs with the same metadata and collaborative difficulties are exempt from this.
-  - **If it is unclear, a discussion should be held to come to a consensus on whether the difficulty name can be used or should be changed.**
 - **Usernames indicating possession of a [guest difficulty](/wiki/Beatmap/Guest_difficulty) should be consistent between multiple beatmaps.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
 - **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission) and problems for certain users when appearing in chat.
 
