@@ -98,8 +98,8 @@ On December 21, osu! had received new features and changes, with the most notabl
 
 1. widescreen support
 2. a loading screen when entering a beatmap
-4. the `Fun Spoiler` settings were replaced with the new [Visual Settings](/wiki/Client/Interface/Visual_settings) menu, which was placed at the bottom of the screen
-5. [No Video](/wiki/Gameplay/Game_modifier/No_video) mod was moved to the visual settings menu.
+3. the `Fun Spoiler` settings were replaced with the new [Visual Settings](/wiki/Client/Interface/Visual_settings) menu, which was placed at the bottom of the screen
+4. [No Video](/wiki/Gameplay/Game_modifier/No_video) mod was moved to the visual settings menu.
 
 The widescreen support, despite being functional, caused some images and videos to look weird (the head of a character not being visible as well as missing or partly hidden text) because the top and bottom were cropped. [Storyboards](/wiki/Storyboard) did not support widescreen at the time, instead, letterboxes or black bars would appear on the sides which caused them to look cramped. This created an issue for Catch the Beat[^catch] as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also did not function properly (some images did not stay in the playing area, but instead, extended out to the black bars).[^stable-b1221]
 
