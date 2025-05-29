@@ -36,7 +36,7 @@ osu! and its community celebrated osu!'s 5th birthday on September 17, 2012. Dur
 
 ![](img/2012-10_01.jpg "osu!mania logo")
 
-On October 8, the Vertical Scrolling Rhythm Game (VSRG) [osu!mania](/wiki/Game_mode/osu!mania) implemented by ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) was released to the public.[^stable-b1008] The community voiced mixed opinions on the new game mode. Some players gave praise over the effort done while others criticised the score judgement for being too strict in comparison to O2JAM, a rhythm game with similar gameplay mechanics. For some players the update felt too rushed, as ranking, submitting osu!mania beatmaps, difficulty modification and gameplay were not polished enough or completed. A few players had issues updating their osu! client due to the enormous size of the update (around 20 MB). Most of these issues had been resolved in November with a lot of feedback from the community. Nevertheless, many users wanted to try out the new game mode<!--TODO: data on how many exactly?-->.
+On October 8, the Vertical Scrolling Rhythm Game (VSRG) [osu!mania](/wiki/Game_mode/osu!mania) implemented by ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) was released to the public.[^stable-b1008] The community voiced mixed opinions on the new game mode. Some players gave praise over the effort done while others criticised the score [judgement](/wiki/Gameplay/Judgement/osu!mania) for being too strict in comparison to O2JAM, a rhythm game with similar gameplay mechanics. For some players the update felt too rushed, as ranking, submitting osu!mania beatmaps, difficulty modification and gameplay were not polished enough or completed. A few players had issues updating their osu! client due to the enormous size of the update (around 20 MB). Most of these issues had been resolved in November with a lot of feedback from the community. Nevertheless, many users wanted to try out the new game mode<!--TODO: data on how many exactly?-->.
 
 ::: Infobox
 
@@ -44,7 +44,7 @@ On October 8, the Vertical Scrolling Rhythm Game (VSRG) [osu!mania](/wiki/Game_m
 
 :::
 
-For players who entered Multi's lobby before updating to the b20121008 build, there was a bug causing a comical appearance of osu!mania named as "3" without the game mode icon. Players were not able to play in the room without applying the update.
+For players who entered the [multiplayer](/wiki/Client/Interface/Multiplayer) lobby before updating to the b20121008 build, there was a bug causing a comical appearance of osu!mania named as "3" without the game mode icon. Players were not able to play in the room without applying the update.
 
 ::: Infobox
 
@@ -77,9 +77,9 @@ Lastly, a few long-term performance issues were resolved that had caused occasio
 
 The osu!mania ranking system had been finalised and all scores were reset one last time on November 13.[^mania-ranking]
 
-In the update on November 22, localisations provided by voluntary contributors in the [osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) were added to osu!, making the game available in several languages. On top of this, a `Quick Join` button was added to the [multiplayer](/wiki/Client/Interface/Multiplayer) lobby, enabling players to randomly join a room<!--no caution to the player's abilities regarding difficulty?-->.[^stable-b1122]
+In the update on November 22, localisations provided by voluntary contributors in the [osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) were added to osu!, making the game available in several languages. On top of this, a `Quick Join` button was added to the multiplayer lobby, enabling players to randomly join a room<!--no caution to the player's abilities regarding difficulty?-->.[^stable-b1122]
 
-Google Translate was added to the osu! website on November 8 as an optional feature, where users became able to choose a language and the website would be automatically translated<!--data on how long this was available?, lots of bugs and translation issues-->.[^website-translation]
+[Google Translate](https://en.wikipedia.org/wiki/Google_Translate) was added to the osu! website on November 8 as an optional feature, where users became able to choose a language and the website would be automatically translated<!--data on how long this was available?, lots of bugs and translation issues-->.[^website-translation]
 
 A new section was added to the screenshot page displaying a selection of popular images that were uploaded when pressing `Shift`+ `F12` in-game.[^week-in-osu-2]
 
