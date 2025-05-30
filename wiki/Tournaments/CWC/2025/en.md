@@ -57,7 +57,7 @@ The osu!catch World Cup 2025 is run by various community members.
 
 ## Participants
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, May 31 23:59 UTC**. This list was last updated on **May 28**.
+Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, May 31 23:59 UTC**. This list was last updated on **May 30**.
 
 ## Participants
 
