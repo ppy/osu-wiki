@@ -59,8 +59,6 @@ The osu!catch World Cup 2025 is run by various community members.
 
 Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, May 31 23:59 UTC**. This list was last updated on **May 30**.
 
-## Participants
-
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[-Story-](https://osu.ppy.sh/users/8172283)**, [SirGonzaxz](https://osu.ppy.sh/users/17309439), [VelperK](https://osu.ppy.sh/users/348467), [Naarkz](https://osu.ppy.sh/users/19490380), [\[225\]SirAlex](https://osu.ppy.sh/users/17738253), [\[225\]Zeus](https://osu.ppy.sh/users/8329151) |
