@@ -108,7 +108,7 @@ BN 申请者需要提交他们在过去 6 个月内，在 3 张谱面（分属�
 
 在 7 天不活跃后，反馈聊天将自动锁定。
 
-![反馈聊天](img/feedback-chat.png "The feedback chat interface")
+![反馈聊天](img/feedback-chat.png "反馈聊天界面")
 
 ## 冷却期
 
