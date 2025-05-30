@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 342bb3f3b7dafa4a7d4871e36ceba76c93ad4775
 no_native_review: true
 ---
 
@@ -8,7 +6,7 @@ no_native_review: true
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
 
-Eine Turniersperre verbietet es einem Spieler in jeder Weise an einem offiziell unterstütztem Turnier teilzunehmen. Das beinhaltet das Spielen und Mitwirken oder jede andere Form von Unterstützung.
+Eine Turniersperre verbietet es einem Spieler an offiziellen oder offiziell unterstützten Turnieren teilzunehmen. Inwieweit ein Spieler bei der Turnierorganisation mithelfen oder sich anderweitig bei diesen Turnieren einbringen kann, wird dadurch ebenfalls eingeschränkt.
 
 Turniersperren werden sehr selten ausgehändigt, aber im Allgemeinen unterliegen alle Spieler, die im Rahmen einer Standardbeschwerde für eine [Einschränkung des Accounts](/wiki/Help_centre/Account_restrictions) zurückkehren, einer Sperre von mindestens einem Jahr.
 
@@ -49,6 +47,8 @@ In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_sup
 ## Was kann ich tun, während ich von Turnieren gesperrt bin? {id=while-banned}
 
 Du darfst weiter in Turnieren von der Community spielen, die keine offizielle Unterstützung anfordern oder eine Überprüfung benötigen, was im Ermessen der Veranstalter dieser Events liegt.
+
+Du darfst möglicherweise nach Ermessen des Turnierleiters noch bei offiziell unterstützten Turnieren beim Streaming, der Kommentierung oder dem Grafikdesign unterstützen. Wenn du bei anderen Aufgaben helfen möchtest, MUSS der Turnierleiter eine Ausnahme im ursprünglichen Unterstützungsantrag beantragen. Abhängig von der Schwere und dem Grund des Verstoßes sowie deinem früheren Verhalten erlaubt das [Account-Support-Team](/wiki/People/Account_support_team) dies möglicherweise.
 
 Informationen über den Status deiner Turniersperre können Turnierveranstaltern auf Anfrage bereitgestellt werden, unabhängig davon, ob sie von der offiziellen Unterstützung profitieren oder nicht.
 
