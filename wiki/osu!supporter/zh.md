@@ -8,8 +8,6 @@ tags:
   - 支持者
   - 支持者标签
   - 撒泼特
-outdated_since: 53463c9d5a611e5d8b38f68b00f48b7983225576
-outdated_translation: true
 ---
 
 <!--The strings on the website on line 154 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
@@ -104,7 +102,8 @@ osu! 为支持者们放宽各种在线功能的限额：
 
 | 功能 | 普通玩家限额 | 支持者限额 |
 | :-- | :-: | :-: |
-| [待定谱面](/wiki/Beatmap/Category#wip-and-pending | `4 + min(自己的上架谱面数量, 4)`最多 **8** 张[^pending-beatmaps-ref] | `8 + min(自己的上架谱面数量, 12)`最多 **20** 张[^pending-beatmaps-ref] |
+| [待定谱面](/wiki/Beatmap/Category#wip-and-pending | `4 + min(自己的上架谱面数量, 4)` 最多 **8** 张[^pending-beatmaps-ref] | `8 + min(自己的上架谱面数量, 12)` 最多 **20** 张[^pending-beatmaps-ref] |
+| 战队队员数量 | 8 | `8 + 4 * 战队中的支持者队员数量` 最多 **256** 人 |
 | 在线收藏的谱面 | 100 | 1000 |
 | 好友数量 | 500 | 1000 |
 
