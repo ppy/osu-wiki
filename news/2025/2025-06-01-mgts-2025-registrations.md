@@ -22,25 +22,37 @@ This wouldn't be a GTS event without entirely original songs and beatmaps to acc
 
 Check them all out below:
 
-### (artist) - ILLUSORYPROGRAM97
-
 ![](/wiki/shared/news/2025-06-01-mgts-2025-registrations/illusoryprogram97.png)
+
+| Song | [Kyotsugyon](https://soundcloud.com/kyotsugyon) & [Sh0wtime](https://soundcloud.com/sh0wtimelol) - ILLUSORYPROGRAM97 |
+| :-- | :-- |
+| **Length** | 5:10 |
+| **BPM** | 149–198 (198) |
+| **Note** | Tiebreaker style |
 
 <audio controls>
     <source src="https://assets.ppy.sh/media/news/mgts-2025-illusoryprogram97.mp3">
 </audio>
 
-### (artist) - axis::BREAK
+![](/wiki/shared/news/2025-06-01-mgts-2025-registrations/axisbreak.jpg)
 
-![](/wiki/shared/news/2025-06-01-mgts-2025-registrations/axis-break.png)
+| Song | [X](https://soundcloud.com/foodbot)/[Y](https://soundcloud.com/mrcool909090)/[Z](https://soundcloud.com/mrcool909090) - axis::BREAK |
+| :-- | :-- |
+| **Length** | 2:52 |
+| **BPM** | 202 |
+| **Note** | Consistency pick |
 
 <audio controls>
-    <source src="https://assets.ppy.sh/media/news/mgts-2025-axis-break.mp3">
+    <source src="https://assets.ppy.sh/media/news/mgts-2025-axisbreak.mp3">
 </audio>
 
-### (artist) - Hatching
-
 ![](/wiki/shared/news/2025-06-01-mgts-2025-registrations/hatching.png)
+
+| Song | [Faxyne](https://soundcloud.com/faxyne) vs. [blobdash](https://soundcloud.com/blobdash) - Hatching |
+| :-- | :-- |
+| **Length** | 2:38 |
+| **BPM** | 200 |
+| **Note** | Tech pick |
 
 <audio controls>
     <source src="https://assets.ppy.sh/media/news/mgts-2025-hatching.mp3">
@@ -58,8 +70,8 @@ Your next step will be to form a team with 2 to 3 members, and have the captain 
 
 Once that's done, download one of the two beatmap templates below to start mapping:
 
-- [Beatmap template 1: ILLUSORYPROGRAM97 + axis::BREAK](LINK)
-- [Beatmap template 2: ILLUSORYPROGRAM97 + Hatching](LINK)
+- [Beatmap template 1: ILLUSORYPROGRAM97 + axis::BREAK](https://assets.ppy.sh/media/news/MGTS%202025%20Template%201.osz)
+- [Beatmap template 2: ILLUSORYPROGRAM97 + Hatching](https://assets.ppy.sh/media/news/MGTS%202025%20Template%202.osz)
 
 Make sure to update the beatmap creator's name to your team's captain's name in order to have a valid submission.
 
