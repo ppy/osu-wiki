@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Featured Artist: UNTONE Sound Group"
-date: 2025-05-24 19:00:00 +0000
+date: 2025-05-31 19:00:00 +0000
 ---
 
-We bring in new Featured Artists every week, but it's rare to add **100+** tracks in one go. That's what we're doing today with **UNTONE Sound Group**!
+We bring in new Featured Artists every week, but it's rare to add **150+** tracks in one go. That's what we're doing today with **UNTONE Sound Group**!
 
 ![](/wiki/shared/news/2025-05-31-new-featured-artist-untone-sound-group/untone-tone-fury-banner.jpg)
 
