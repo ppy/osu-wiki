@@ -65,7 +65,7 @@
 | [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай |
 | [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=IT }:: Италия |
 | [osu!catch World Cup 2024](CWC/2024) | 2024-04-18 | 2024-06-30 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PL }:: Польша |
-| [osu!catch World Cup 2025](CWC/2025) | 2025-05-08 | 2024-07-20 | *TBD* | *TBD* | *TBD* |
+| [osu!catch World Cup 2025](CWC/2025) | 2025-05-08 | 2024-07-20 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -354,11 +354,11 @@
 | [Romanian osu! Cup 2022](o!RT/2022) | 2022-06-03 | 2022-09-04 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
 | [osu! Romania Summer Tournament 2023](o!RT/2023) | 2023-06-01 | 2023-08-28 | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351) | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
 
-#### osu! Сингапур-Индонезия-Малайзия Tournament
+#### osu! Singapore-Indonesia-Malaysia Tournament
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Сингапур-Индонезия-Малайзия Tournament](OSIM/1) | 2020-03-21 | 2020-05-17 | somaymalaycapcay | adventure timers | we will 操你妈 |
+| [osu! Singapore-Indonesia-Malaysia Tournament](OSIM/1) | 2020-03-21 | 2020-05-17 | somaymalaycapcay | adventure timers | we will 操你妈 |
 
 #### osu! South East Asia Tournament
 
@@ -626,7 +626,7 @@
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Project Prism 2024](Project_Prism/2024) | 2024-05-11 | 2024-06-30 | *TBD* | *TBD* | *TBD* |
+| [Project Prism 2024](Project_Prism/2024) | 2024-05-11 | 2024-06-30 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
 #### Taiko Convert Tournament
 
