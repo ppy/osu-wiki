@@ -33,14 +33,15 @@ Coordinates are specified with positive values for `X` going to the **right**, p
 
 ### Layers
 
-All storyboard sprites are placed below the skin and [hit objects](/wiki/Gameplay/Hit_object). So, even the "highest" (Foreground) layer in the storyboard will always be behind the HP bar, the circles/sliders/spinners, the cursor, etc.
+All storyboard sprites are placed below the [hit objects](/wiki/Gameplay/Hit_object) except Overlay, which is still placed below the skin. So, even the "highest" (Overlay) layer in the storyboard will always be above circles/sliders/spinners but will always be behind the HP bar, the cursor, etc.
 
-These are the four storyboard layers, in increasing order of priority:
+These are the five storyboard layers, in increasing order of priority:
 
 - Background
 - Fail (only displayed if the player is in the "Fail state", see [Game State](#game-state) below)
 - Pass (only displayed if the player is in the "Pass state", see [Game State](#game-state) below)
 - Foreground
+- Overlay (displayed above gameplay, use with caution)
 
 Note that the "Fail" and "Pass" layers are never on-screen simultaneously, unlike in the design tab.
 
