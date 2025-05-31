@@ -1,6 +1,6 @@
 # .osr (file format)
 
-**.osr** is a file format for describing osu! [replays](/wiki/Gameplay/Replay). An `.osr` file can be played only if the game has the exact [beatmap](/wiki/Beatmap) for which the replay was recorded.
+**.osr** is a file format introduced in March 2008 for describing osu! [replays](/wiki/Gameplay/Replay). An `.osr` file can be played only if the game has the exact [beatmap](/wiki/Beatmap) for which the replay was recorded.
 
 ## Data Types
 
@@ -14,6 +14,8 @@
 | String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [UTF-8](https://en.wikipedia.org/wiki/UTF-8) |
 
 ## Format
+
+The file format has mostly stayed mostly the same since early 2009, with the exception of score ID. The latest osu!stable client can read replays made on version `20121008` and higher.
 
 Byte offsets are not included in this table due to variable length values.
 
@@ -38,7 +40,7 @@ Byte offsets are not included in this table due to variable length values.
 | Long | Time stamp ([Windows ticks](https://learn.microsoft.com/en-us/dotnet/api/system.datetime.ticks)) |
 | Integer | Length in bytes of compressed replay data |
 | Byte Array | Compressed replay data |
-| Long | Online Score ID |
+| Long/Integer | Online Score ID. Not present on versions below `20121008`. Integer on versions below `20140721`. Long otherwise. |
 | Double | Additional mod information. Only present if [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) is enabled. |
 
 **Additional mod information:**
@@ -46,6 +48,8 @@ Byte offsets are not included in this table due to variable length values.
 | Mod | Stored information |
 | :-- | :-- |
 | Target Practice | Total accuracy of all hits. Divide this by the number of targets in the map to find the accuracy displayed in-game. |
+| Nightcore | Re-uses the ID of the [Taiko mod](https://osu.ppy.sh/wiki/en/History_of_osu!/2008), which got added in May 2008 before Taiko became a separate game mode. It was unused between late 2008 and 2012. |
+| Touch Device | Re-uses the ID of the [No Video mod](https://osu.ppy.sh/wiki/en/History_of_osu!/2007) that was introduced in November 2007. In late 2017, the ID was used again for Touch Device. |
 
 The remaining data contains information about mouse movement and key presses in an [LZMA](https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm) stream.
 
