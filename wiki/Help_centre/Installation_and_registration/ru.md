@@ -15,7 +15,7 @@ tags:
 
 ## Установка {id=installation}
 
-*Основная страница: [Установка](/wiki/Client/Installation)*
+*Основная страница: [Скачивание](/wiki/Client/Installation)*
 
 ### Как установить osu!? {id=download}
 
