@@ -45,6 +45,7 @@ The top 3 teams will be awarded with the following prizes:
 - [Main website](https://gtsosu.com/2025/mgts/home)
 - [Contest news article](https://osu.ppy.sh/news/2025-06-01-mgts-2025-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/248)
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/2086331)
 - [Discord server](https://discord.com/invite/3mGC3HB)
 - [Twitch channel](https://www.twitch.tv/gtsosu)
 
