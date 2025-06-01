@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mapping Global Taiko Showdown 2025: Registrations Open!"
-date: 2025-06-01 14:00:00 +0000
+date: 2025-06-01 16:00:00 +0000
 ---
 
 Grab a friend or two and join us for one last dance in GTS' endeavour in the osu!taiko mapping scene!
@@ -58,24 +58,24 @@ Check them all out below:
     <source src="https://assets.ppy.sh/media/news/mgts-2025-hatching.mp3">
 </audio>
 
+## Rules
+
+Everything about the contest's rules, procedures, and judging criteria can be found in both the [contest's website](https://gtsosu.com/2025/mgts/home) and its [osu! wiki page](/wiki/Contests/MGTS/2025) — please make sure you and your team go through them thouroughly in order to make sure you end up with a valid submission!
+
 ## How do I participate?
 
 First of all, joining the [Discord server](https://discord.com/invite/3mGC3HB) is mandatory for participation, because all important announcements will be communicated there.
 
-Second, read the [contest's rules](https://gtsosu.com/2025/mgts/home) carefully in order to understand the exact details of the contest's rules and procedures.
-
 Your next step will be to form a team with 2 to 3 members, and have the captain [register the team in the GTS website](https://gtsosu.com/2025/mgts/home).
-
-<MENTION REGISTRATION DEADLINE>
 
 Once that's done, download one of the two beatmap templates below to start mapping:
 
 - [Beatmap template 1: ILLUSORYPROGRAM97 + axis::BREAK](https://assets.ppy.sh/media/news/MGTS%202025%20Template%201.osz)
 - [Beatmap template 2: ILLUSORYPROGRAM97 + Hatching](https://assets.ppy.sh/media/news/MGTS%202025%20Template%202.osz)
 
-Make sure to update the beatmap creator's name to your team's captain's name in order to have a valid submission.
+Make sure to update the beatmap creator's name to **your team's captain's name** in order to have a valid submission.
 
-After you're done mapping, have your team's captain head over to the [submission page](LINK) to submit your entry.
+After you're done mapping, have **your team's captain** head over to the [submission page](https://osu.ppy.sh/community/contests/248) to submit your entry. However, don't be too slow about it because you have **29 days** before the submissions deadline!
 
 If you're having any issues with the registration process, please don't hesitate to [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976)!
 
@@ -101,6 +101,6 @@ The top 3 teams that reign supreme will be awarded with the following prizes:
 
 ---
 
-outro
+Got all of that? Good. Your next task is to lock in with your team and start cooking your best beatmap creation up to date.
 
-—Hivie & Walavouchey
+—Hivie
