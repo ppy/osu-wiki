@@ -8,7 +8,7 @@ Want to help shape the maps behind osu!’s biggest stage? Now's your chance —
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
-Hot on the heels of the breathtaking [Lazer Grand Arena](https://osu.ppy.sh/wiki/en/Tournaments/LGA/2025), the osu! World Cup mappooling team is already hard at work, shifting gears into full motion for the next OWC season. Today, we are looking for **mappers** and **playtesters**, two essential roles that have played a vital part in the tournament's continued success over the years.
+Hot on the heels of the breathtaking [Lazer Grand Arena](/wiki/Tournaments/LGA/2025), the osu! World Cup mappooling team is already hard at work, shifting gears into full motion for the next OWC season. Today, we are looking for **mappers** and **playtesters**, two essential roles that have played a vital part in the tournament's continued success over the years.
 
 In case you've been living under a rock for the past decade, the **osu! World Cup** is our annual country-based tournament, organised by the osu! team in collaboration with many community members. Held since 2011, it's widely regarded as the pinnacle of competitive osu!, bringing together the world's top players and countries to compete at the highest level — the perfect way to close out the year for both participants and spectators alike.
 
