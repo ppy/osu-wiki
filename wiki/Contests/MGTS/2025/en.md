@@ -43,7 +43,7 @@ The top 3 teams will be awarded with the following prizes:
 ## Links
 
 - [Main website](https://gtsosu.com/2025/mgts/home)
-- [Contest news article](https://osu.ppy.sh/news/2025-06-01-mgts-2025-registrations)
+- [Announcement news post](https://osu.ppy.sh/news/2025-06-01-mgts-2025-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/248)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/2086331)
 - [Discord server](https://discord.com/invite/3mGC3HB)
@@ -91,7 +91,7 @@ Every team must start off by downloading one of the two provided templates:
 
 - In order to prepare a valid submission, you need to start mapping via one of the two provided templates.
 - Upon downloading the template and loading it in osu!, **you must change the beatmap creator's name to your team's captain's name in the metadata in order to have a valid submission**.
-- The captain will need to submit the \`.osz\` file through the [osu! contest listing](https://osu.ppy.sh/community/contests/248).
+- The captain will need to submit the `.osz` file through the [osu! contest listing](https://osu.ppy.sh/community/contests/248).
   - If any one other than the captain submits the entry, the entry will be disqualified.
 
 If you're having any issues with the registration/submission process, please don't hesitate to [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976)!

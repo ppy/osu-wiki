@@ -73,9 +73,9 @@ Once that's done, download one of the two beatmap templates below to start mappi
 - [Beatmap template 1: ILLUSORYPROGRAM97 + axis\:\:BREAK](https://assets.ppy.sh/media/news/MGTS%202025%20Template%201.osz)
 - [Beatmap template 2: ILLUSORYPROGRAM97 + Hatching](https://assets.ppy.sh/media/news/MGTS%202025%20Template%202.osz)
 
-Make sure to update the beatmap creator's name to **your team's captain's name** in order to have a valid submission.
+Make sure to update the beatmap creator's name to **your team captain's name** in order to have a valid submission.
 
-After you're done mapping, have **your team's captain** head over to the [submission page](https://osu.ppy.sh/community/contests/248) to submit your entry. However, don't be too slow about it because you have **29 days** before the submission deadline!
+After you're done mapping, have **your team captain** head over to the [submission page](https://osu.ppy.sh/community/contests/248) to submit your entry. However, don't be too slow about it because you have **29 days** before the submission deadline!
 
 If you're having any issues with the registration process, please don't hesitate to [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976)!
 
@@ -90,7 +90,7 @@ If you're having any issues with the registration process, please don't hesitate
 
 The schedule may be subject to change depending on how the contest progresses — we'll be sure to announce any changes in the [Discord server](https://discord.com/invite/3mGC3HB).
 
-Don't forget to tune in to the [Twitch channel](https://www.twitch.tv/gtsosu) for the results live stream!
+Don't forget to tune in to the [Twitch channel](https://www.twitch.tv/gtsosu) for the results livestream!
 
 ## Prizes
 
