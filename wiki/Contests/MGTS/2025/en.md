@@ -74,7 +74,7 @@ Every team must start off by downloading one of the two provided templates:
 - **Submissions will not be accepted after the deadlines.** No exceptions.
 - Participants must have read this ruleset **entirely** (and we will assume you did so throughout the contest).
 - Any team that hasn't followed the **team creation process** and the **entry submission process** properly **will** risk disqualification.
-- **All participants must collaborate on all songs.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating team as a whole. We want to avoid pure carry situations amongst teams. Collaboration does not include anything other than mapping.
+- **All participants must collaborate on every song in their entry.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating team as a whole. We want to avoid pure carry situations amongst teams. Collaboration does not include anything other than mapping.
 - Any rule changes or unexpected occurrences will be announced in the Discord server.
 
 ### Registration and team creation
@@ -100,11 +100,11 @@ If you're having any issues with the registration/submission process, please don
 
 Total score will consist of the (standardized) combined scores of the 2 maps. Each map will be judged with the following criteria:
 
-- **Structure (10 Points):** Points will be assigned based on how well the map is internally designed (consistency, concept introduction, etc.).
-- **Relevance (10 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
-- **Creativity (10 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
-- **Judge's Impression (5 Points):** Points will be assigned based on what the judge thinks about your entry.
-- **Ranking Criteria (5 Points):** Points will be assigned based on how well the map abides by the ranking criteria.
+- **Structure (20 Points):** Points will be assigned based on how well the map is internally designed (consistency, concept introduction, etc.).
+- **Relevance (20 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
+- **Creativity (20 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
+- **Judge's Impression (10 Points):** Points will be assigned based on what the judge thinks about your entry.
+- **Ranking Criteria (10 Points):** Points will be assigned based on how well the map abides by the ranking criteria.
 
 ## Notes
 
