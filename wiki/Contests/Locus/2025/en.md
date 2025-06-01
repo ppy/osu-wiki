@@ -12,13 +12,13 @@ Submissions to this contest include the following elements:
 
 ## Schedule
 
-| Event | Date |
+| Event | Date (UTC) |
 | --: | :-- |
 | Teaser #1 submission | 1 April 2025 |
 | Teaser #2 submission | 1 May 2025 |
-| Entry submission deadline | 1 June 2025 |
-| Community voting period | June 2025 |
-| Results stream | Early July 2025 |
+| Entry submission deadline | 30 June 2025 (12:00) |
+| Community voting period | July 2025 |
+| Results stream | Early August 2025 |
 
 ## Prizes
 
@@ -48,6 +48,8 @@ Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) 
 - [Registration form](https://form-auth.ppy.sh/form/2025-locus-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/238)
 - [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
+- [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
+- [Contest update #2](https://osu.ppy.sh/home/news/2025-06-02-locus-2025-update-2)
 - [Nexus](https://mappersguild.com/locus)
 
 ## Teams
@@ -94,9 +96,18 @@ Teams must be registered in order to submit an entry. Teams are allowed to choos
 
 ### Submission
 
-The details of how to submit entries will be announced later.
+**Visit the [contest page](https://osu.ppy.sh/community/contests/238) and drop your submission as a `.osz` file.** The deadline is 30 June 2025 (12:00 UTC).
 
-Teams should follow the `#osu-locus` channel in the [osu! Discord server](https://discord.com/invite/ppy) for updates.
+Before submitting, please check the following:
+
+- Ensure that you have successfully registered a team, and that all your team members have confirmed their intent as well (if you have not received an explicit email confirming this, then this has not been done).
+  - **Your submission will be ignored if you have not successfully registered a team.**
+- Please read the [rules](#rules) thoroughly to check that your entry abides by all of them, especially the ones relating to spread and anonymity.
+- It is preferable that the team captain submits. Only one person from each team needs to submit (to prevent any ambiguity or confusion, please do not submit duplicates).
+- Do not submit your entry via BSS.
+- As an optional precaution, please reply to the existing email thread to let us know that you have submitted your entry.
+
+During the week after the submission deadline, entries will be checked to ensure all rules are followed. **Any required changes will be communicated via email.**
 
 ### Nexus
 
