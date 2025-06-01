@@ -69,11 +69,11 @@ Every team must start off by downloading one of the two provided templates:
 ### Contest rules
 
 - This contest is an **osu!taiko single-round team-based contest** with teams of **2 players minimum**, and **3 players maximum**.
-- **All submissions should abide by the [Ranking Criteria](/wiki//Ranking_Criteria).** Mistakes happen and may affect judging, but submissions that cannot be ranked without major changes will be disqualified. (It's allowed to ignore spread rules for the sake of this contest.)
+- **All submissions should abide by the [Ranking Criteria](/wiki//Ranking_Criteria).** Mistakes happen and may affect judging, but submissions that cannot be ranked without major changes will be disqualified. (It is allowed to ignore spread rules for the sake of this contest.)
 - **Submissions must NOT be uploaded/shared with others before judging and results are announced.** Sharing entries publicly by any means before the results are announced will result in a disqualification, no questions asked.
 - **Submissions will not be accepted after the deadlines.** No exceptions.
 - Participants must have read this ruleset **entirely** (and we will assume you did so throughout the contest).
-- Any team that hasn't followed the **team creation process** and the **entry submission process** properly **will** risk disqualification.
+- Any team that has not followed the **team creation process** and the **entry submission process** properly **will** risk disqualification.
 - **All participants must collaborate on every song in their entry.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating team as a whole. We want to avoid pure carry situations amongst teams. Collaboration does not include anything other than mapping.
 - Any rule changes or unexpected occurrences will be announced in the Discord server.
 
@@ -85,16 +85,16 @@ Every team must start off by downloading one of the two provided templates:
 - To sign up, the captain will need to register your entire team via the `register` button on the [contest's website page](https://gtsosu.com/2025/mgts/home).
   - The person in the first slot is the captain. This will be filled in automatically with the player who is registering, hence why the captain needs to be the one registering.
   - You must add a custom team name.
-  - You can add a custom flag, a link to an image of size 70x47. This isn't mandatory, but leaving this blank means the country flag of the team captain is taken as your team's flag.
+  - You can add a custom flag, a link to an image of size 70x47. This is not mandatory, but leaving this blank means the country flag of the team captain is taken as your team's flag.
 
 ### Submission process
 
 - In order to prepare a valid submission, you need to start mapping via one of the two provided templates.
-- Upon downloading the template and loading it in osu!, **you must change the beatmap creator's name to your team's captain's name in the metadata in order to have a valid submission**.
+- Upon downloading the template and loading it in osu!, **you must change the beatmap creator's name to your team captain's name in the metadata in order to have a valid submission**.
 - The captain will need to submit the `.osz` file through the [osu! contest listing](https://osu.ppy.sh/community/contests/248).
   - If any one other than the captain submits the entry, the entry will be disqualified.
 
-If you're having any issues with the registration/submission process, please don't hesitate to [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976)!
+If you are having any issues with the registration/submission process, please do not hesitate to [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976)!
 
 ### Judging criteria
 
