@@ -69,7 +69,7 @@ Every team must start off by downloading one of the two provided templates:
 ### Contest rules
 
 - This contest is an **osu!taiko single-round team-based contest** with teams of **2 players minimum**, and **3 players maximum**.
-- **All submissions should abide by the [Ranking Criteria](https://osu.ppy.sh/wiki/en/Ranking_Criteria).** Mistakes happen and may affect judging, but submissions that cannot be ranked without major changes will be disqualified. (It's allowed to ignore spread rules for the sake of this contest.)
+- **All submissions should abide by the [Ranking Criteria](/wiki//Ranking_Criteria).** Mistakes happen and may affect judging, but submissions that cannot be ranked without major changes will be disqualified. (It's allowed to ignore spread rules for the sake of this contest.)
 - **Submissions must NOT be uploaded/shared with others before judging and results are announced.** Sharing entries publicly by any means before the results are announced will result in a disqualification, no questions asked.
 - **Submissions will not be accepted after the deadlines.** No exceptions.
 - Participants must have read this ruleset **entirely** (and we will assume you did so throughout the contest).
