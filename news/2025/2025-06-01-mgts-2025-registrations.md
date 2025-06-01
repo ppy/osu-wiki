@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mapping Global Taiko Showdown 2025: Registrations Open!"
-date: 2025-06-01 16:00:00 +0000
+date: 2025-06-01 23:00:00 +0000
 ---
 
 Grab a friend or two and join us for one last dance in GTS' endeavour in the osu!taiko mapping scene!
