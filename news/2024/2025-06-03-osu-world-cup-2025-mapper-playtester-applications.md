@@ -10,7 +10,7 @@ Want to help shape the maps behind osu!’s biggest stage? Now's your chance —
 
 Hot on the heels of the breathtaking [Lazer Grand Arena](/wiki/Tournaments/LGA/2025), the osu! World Cup mappooling team is already hard at work, shifting gears into full motion for the next OWC season. Today, we are looking for **mappers** and **playtesters**, two essential roles that have played a vital part in the tournament's continued success over the years.
 
-In case you've been living under a rock for the past decade, the **osu! World Cup** is our annual country-based tournament, organised by the osu! team in collaboration with many community members. Held since 2011, it's widely regarded as the pinnacle of competitive osu!, bringing together the world's top players and countries to compete at the highest level — the perfect way to close out the year for both participants and spectators alike.
+In case you've been living under a rock for the past decade, the [osu! World Cup](/wiki/Tournaments/OWC) is our annual country-based tournament, organised by the osu! team in collaboration with many community members. Held since 2011, it's widely regarded as the pinnacle of competitive osu!, bringing together the world's top players and countries to compete at the highest level — the perfect way to close out the year for both participants and spectators alike.
 
 If you wish to help in the creation of standout projects like [Lies playing Truth](https://www.youtube.com/watch?v=v5ZaTeibemI), [AJITAMA Adventure OST](https://www.youtube.com/watch?v=UJwkUiu5Bbo), [Operation: Zenithfall](https://www.youtube.com/watch?v=r459I7A-Rds), and many others, let us know via one of the forms below:
 
