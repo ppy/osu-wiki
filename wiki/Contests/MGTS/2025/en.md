@@ -79,7 +79,7 @@ Every team must start off by downloading one of the two provided templates:
 
 ### Registration and team creation
 
-- In order to participate you need to need to be in a team of **2 to 3 players** of your choosing. There is no limit to who you can have on your team, with exception to the contest's staff members and people who are already on another team.
+- In order to participate you need to be in a team of **2 to 3 players** of your choosing. There is no limit to who you can have on your team, with exception to the contest's staff members and people who are already on another team.
 - One member of the team will need to be the captain. This should be decided before you sign up.
 - The captain is going to be the one to submit the entry through the [osu! contest listing](https://osu.ppy.sh/community/contests/248).
 - To sign up, the captain will need to register your entire team via the `register` button on the [contest's website page](https://gtsosu.com/2025/mgts/home).
