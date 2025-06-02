@@ -1017,6 +1017,6 @@
 - [Список стран, участвовавших в турнирах osu!](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (Клиент, используемый для трансляции турнира)
 
-[GCrown]: /wiki/shared/crown-gold.png "1st place"
-[SCrown]: /wiki/shared/crown-silver.png "2nd place"
-[BCrown]: /wiki/shared/crown-bronze.png "3rd place"
+[GCrown]: /wiki/shared/crown-gold.png "1 место"
+[SCrown]: /wiki/shared/crown-silver.png "2 место"
+[BCrown]: /wiki/shared/crown-bronze.png "3 место"
