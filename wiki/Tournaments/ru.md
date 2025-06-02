@@ -233,7 +233,7 @@
 | #Game_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ::{ flag=FR }:: [NerO](https://osu.ppy.sh/users/1545031) | ::{ flag=FR }:: [-raizen-](https://osu.ppy.sh/users/3872987) | ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683) |
 | [Game_Osu Tourney Winter/Spring Edition](GO/3) | 2019-03-16 | 2019-05-06 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315) |
 
-#### Great Сингапур Tournament
+#### Great Singapore Tournament
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -252,7 +252,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Hidden Only Tournament](HOT/1) | 2020-05-15 | 2020-07-04 | :rooGya: | Pocket Galaxy | Phrygian Friends |
 
-#### Индонезияn Draft Cup
+#### Indonesian Draft Cup
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -327,7 +327,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
 
-#### osu! Индонезия Tournament
+#### osu! Indonesia Tournament
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -337,7 +337,7 @@
 | [osu! Индонезия Tournament #13 (2023)](OIT/2023) | 2023-06-19 | 2023-07-30 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 | [osu! Индонезия Tournament #14 (2024)](OIT/2024) | 2024-09-23 | 2024-11-03 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 
-#### osu! Малайзия Tournament
+#### osu! Malasiya Tournament
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -721,7 +721,7 @@
 | [Catch the Beat Индонезия Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
 | [Catch the Beat Индонезия Cup Open 2024](CIC/Open_2024) | 2024-07-08 | 2024-09-01 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
 
-#### Индонезия Convert Cup
+#### Indonesia Convert Cup
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -881,7 +881,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania Flashlight 4K Tournament](FL4T/1) | 2021-02-06 | 2021-03-21 | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) | ::{ flag=PH }:: [- l e j -](https://osu.ppy.sh/users/6413944) |
 
-#### osu!mania Индонезия Cup
+#### osu!mania Indonesia Cup
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -895,7 +895,7 @@
 | [osu!mania LN Tournament 2](o!mLN/2) | 2020-06-13 | 2020-08-02 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) | ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923) |
 | [osu!mania LN Tournament 3](o!mLN/3) | 2022-10-15 | 2022-12-04 | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) | ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971) |
 
-#### osu!mania Малайзия Tournament
+#### osu!mania Malaysia Tournament
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -998,13 +998,13 @@
 | [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 | [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
 
-#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Филлипины Holiday Friendlies 2018
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Filippines Holiday Friendlies 2018
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!Филлипины Holiday Friendlies 2018](oPHF/2018) | 2018-11-03 | 2018-12-16 | ::{ flag=KR }:: [Stereo](https://osu.ppy.sh/users/1499137) (osu!), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (osu!taiko), ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) (osu!catch), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550) (osu!mania 4K), ::{ flag=PH }:: [Nikana](https://osu.ppy.sh/users/4345491) (osu!mania 7K) | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) (osu!), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) (osu!taiko), ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) (osu!catch), ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463) (osu!mania 4K), ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267) (osu!mania 7K) | ::{ flag=PH }:: [ededed028](https://osu.ppy.sh/users/3932796) (osu!), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) (osu!), ::{ flag=PH }:: [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) (osu!taiko), ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006) (osu!catch), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) (osu!mania 4K), ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489) (osu!mania 7K) |
 
-#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Филлипины Summer Tournament
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Filipinnes Summer Tournament
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
