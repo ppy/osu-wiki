@@ -641,10 +641,10 @@
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ::{ flag=JP }:: Япония | ::{ flag=CL }:: Чили | ::{ flag=TW }:: Тайвань  |
-| Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Тайвань  | ::{ flag=FR }:: Франция | ::{ flag=JP }:: Япония  |
+| Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ::{ flag=JP }:: Япония | ::{ flag=CL }:: Чили | ::{ flag=TW }:: Тайвань A |
+| Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Тайвань  | ::{ flag=FR }:: Франция | ::{ flag=JP }:: Япония A |
 | Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ::{ flag=JP }:: [abeno](https://osu.ppy.sh/users/6565148) | ::{ flag=TW }:: [S  n d](https://osu.ppy.sh/users/676578) | ::{ flag=CA }:: [Fudgyking](https://osu.ppy.sh/users/3802922) |
-| Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ::{ flag=JP }:: Япония  | ::{ flag=TW }:: Тайвань  | ::{ flag=JP }:: Япония |
+| Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ::{ flag=JP }:: Япония A | ::{ flag=TW }:: Тайвань A | ::{ flag=JP }:: Япония |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: [_yu68](https://osu.ppy.sh/users/6170507) | ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko LMS: Shift Cup](T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E  M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
