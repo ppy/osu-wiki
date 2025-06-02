@@ -35,8 +35,8 @@
 | [Taiko World Cup 2011](TWC/2011) | 2011-03-12 | 2011-04-29 | ::{ flag=TW }:: Тайвань | ::{ flag=JP }:: Япония | ::{ flag=CN }:: Китай |
 | [Taiko World Cup 2012](TWC/2012) | 2012-02-11 | 2012-04-01 | ::{ flag=JP }:: Япония A | ::{ flag=HK }:: Гонконг A | ::{ flag=JP }:: Япония B |
 | [Taiko World Cup #3](TWC/3) | 2012-09-22 | 2013-03-24 | ::{ flag=TW }:: Тайвань A | ::{ flag=HK }:: Гонконг A | ::{ flag=JP }:: Япония A |
-| [osu! Taiko World Cup 2014](TWC/2014) | 2014-01-16 | 2014-03-09 | ::{ flag=JP }:: Япония | ::{ flag=HK }:: Гонконг | ::{ flag=FR }:: France |
-| [osu! Taiko World Cup 2015](TWC/2015) | 2015-01-12 | 2015-03-15 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=FR }:: France |
+| [osu! Taiko World Cup 2014](TWC/2014) | 2014-01-16 | 2014-03-09 | ::{ flag=JP }:: Япония | ::{ flag=HK }:: Гонконг | ::{ flag=FR }:: Франция |
+| [osu! Taiko World Cup 2015](TWC/2015) | 2015-01-12 | 2015-03-15 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=FR }:: Франция |
 | [osu!taiko World Cup 2016](TWC/2016) | 2016-02-09 | 2016-04-24 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=CA }:: Канада |
 | [osu!taiko World Cup 2017](TWC/2017) | 2017-02-07 | 2017-04-16 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=HK }:: Гонконг |
 | [osu!taiko World Cup 2018](TWC/2018) | 2018-04-07 | 2018-05-13 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=CA }:: Канада |
@@ -642,7 +642,7 @@
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ::{ flag=JP }:: Япония | ::{ flag=CL }:: Чили | ::{ flag=TW }:: Тайвань A |
-| Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Тайвань A | ::{ flag=FR }:: France | ::{ flag=JP }:: Япония A |
+| Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Тайвань A | ::{ flag=FR }:: Франция | ::{ flag=JP }:: Япония A |
 | Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ::{ flag=JP }:: [abeno](https://osu.ppy.sh/users/6565148) | ::{ flag=TW }:: [S a n d](https://osu.ppy.sh/users/676578) | ::{ flag=CA }:: [Fudgyking](https://osu.ppy.sh/users/3802922) |
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ::{ flag=JP }:: Япония A | ::{ flag=TW }:: Тайвань A | ::{ flag=JP }:: Япония D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: [_yu68](https://osu.ppy.sh/users/6170507) | ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
