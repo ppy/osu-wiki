@@ -598,12 +598,12 @@
 | [Intermediate Global Taiko Showdown 2019](GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты A | ::{ flag=CL }:: Чили |
 | [Advanced Global Taiko Showdown 2019](GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ::{ flag=JP }:: Япония | ::{ flag=CA }:: Канада | ::{ flag=RU }:: Российская Федерация A |
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451) |
-| [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Asia (Global), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) (Asia), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) (Europe), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) (North America), ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) (Oceania/SEA), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) (South America) | Europe (Global), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) (Asia), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europe), ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) (North America), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) (Oceania/SEA), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) (South America) | North America (Global), ::{ flag=JP }:: [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asia), ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) (Europe), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) (North America), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (Oceania/SEA), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857) (South America) |
+| [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Asia (Global), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) (Азия), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) (Europe), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) (North America), ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) (Oceania/SEA), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) (South America) | Europe (Global), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) (Asia), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europe), ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) (North America), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) (Oceania/SEA), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) (South America) | North America (Global), ::{ flag=JP }:: [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asia), ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) (Europe), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) (North America), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (Oceania/SEA), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857) (South America) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) | ::{ flag=JP }:: [nananass](https://osu.ppy.sh/users/7231722) |
 | [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ::{ flag=US }:: Соединённые Штаты A | ::{ flag=JP }:: Япония A | ::{ flag=SG }:: Сингапур |
 | [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ::{ flag=SG }:: Сингапур | ::{ flag=CN }:: Китай A | ::{ flag=JP }:: Япония A |
-| [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 2020-12-05 | 2021-02-07 | ::{ flag=HK }:: Гонконг | ::{ flag=CA }:: Канада | ::{ flag=RO }:: Romania |
-| [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 2021-02-06 | 2021-04-17 | Asia | Europe | North America |
+| [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 2020-12-05 | 2021-02-07 | ::{ flag=HK }:: Гонконг | ::{ flag=CA }:: Канада | ::{ flag=RO }:: Румыния |
+| [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 2021-02-06 | 2021-04-17 | Азия | Европа | Северная Америка |
 | [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 2021-05-15 | 2021-06-27 | ::{ flag=US }:: Соединённые Штаты A | ::{ flag=SG }:: Сингапур A | ::{ flag=MY }:: Малайзия A |
 | [Rising Global Taiko Showdown 2021](GTS/RGTS_2021) | 2021-06-12 | 2021-07-25 | ::{ flag=KR }:: Южная Корея | ::{ flag=HK }:: Гонконг | ::{ flag=CN }:: Китай A |
 | [Intermediate Global Taiko Showdown 2021](GTS/IGTS_2021) | 2021-07-24 | 2021-09-05 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай | ::{ flag=SG }:: Сингапур |
@@ -677,7 +677,7 @@
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [4 Digit Catch World Cup 2021](4CWC/2021) | 2021-10-02 | 2021-11-14 | ::{ flag=ID }:: Индонезия | ::{ flag=DE }:: Германия | ::{ flag=SE }:: Швеция |
-| [4 Digit Catch World Cup 2022](4CWC/2022) | 2022-07-30 | 2022-09-11 | ::{ flag=MX }:: Mexico | ::{ flag=US }:: Соединённые Штаты | ::{ flag=SG }:: Сингапур |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 2022-07-30 | 2022-09-11 | ::{ flag=MX }:: Мексика | ::{ flag=US }:: Соединённые Штаты | ::{ flag=SG }:: Сингапур |
 
 #### Catch French Beginner
 
@@ -768,9 +768,9 @@
 | [4 Digit osu!mania World Cup](4DM/1) | 2019-06-07 | 2019-07-27 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PH }:: Филлипины |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PH }:: Филлипины |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ::{ flag=PH }:: Филлипины | ::{ flag=MY }:: Малайзия | ::{ flag=BR }:: Бразилия |
-| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | ::{ flag=FR }:: France | ::{ flag=TH }:: Тайланд | ::{ flag=PE }:: Peru |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | ::{ flag=FR }:: Франция | ::{ flag=TH }:: Тайланд | ::{ flag=PE }:: Перу |
 | [4 Digit osu!mania World Cup 2023](4DM/2023) | 2023-01-14 | 2023-03-04 | ::{ flag=CN }:: Китай | ::{ flag=SG }:: Сингапур | ::{ flag=CA }:: Канада |
-| [4 Digit osu!mania World Cup 2024](4DM/2024) | 2024-01-13 | 2024-02-25 | ::{ flag=VN }:: Vietnam | ::{ flag=US }:: Соединённые Штаты | ::{ flag=TW }:: Тайвань |
+| [4 Digit osu!mania World Cup 2024](4DM/2024) | 2024-01-13 | 2024-02-25 | ::{ flag=VN }:: Вьетнам | ::{ flag=US }:: Соединённые Штаты | ::{ flag=TW }:: Тайвань |
 
 #### 6K Autumn Showdown Tournament
 
@@ -833,8 +833,8 @@
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Jaye's One Key Event](JOKE/1) | 2020-07-11 | 2020-08-23 | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) | ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) | ::{ flag=BR }:: [Brasil](https://osu.ppy.sh/users/3949268) |
-| [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 2021-11-06 | 2021-12-19 | ::{ flag=US }:: [[LS]Ham](https://osu.ppy.sh/users/17523947) | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) | ::{ flag=BR }:: [Brasil](https://osu.ppy.sh/users/3949268) |
+| [Jaye's One Key Event](JOKE/1) | 2020-07-11 | 2020-08-23 | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) | ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) | ::{ flag=BR }:: [Бразилия](https://osu.ppy.sh/users/3949268) |
+| [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 2021-11-06 | 2021-12-19 | ::{ flag=US }:: [[LS]Ham](https://osu.ppy.sh/users/17523947) | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) | ::{ flag=BR }:: [Бразилия](https://osu.ppy.sh/users/3949268) |
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 2024-05-04 | 2024-06-16 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Соединённое Королевство | ::{ flag=AU }:: Австралия-A |
 
