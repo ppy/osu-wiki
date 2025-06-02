@@ -600,19 +600,19 @@
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451) |
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Азия (Глобальный), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) (Азия), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) (Европа), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) (Северная Америка), ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) (Океания/Юго-Восточная Азия), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) (Южная Америка) | Европа (Глобальный), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) (Азия), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) (Европа), ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) (Северная Америка), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) (Океания/Юго-Восточная Азия), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) (Южная Америка) | Северная Америка (Глобальный), ::{ flag=JP }:: [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Азия), ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) (Европа), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) (Северная Америка), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (Океания/Юго-Восточная Азия), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857) (Южная Америка) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) | ::{ flag=JP }:: [nananass](https://osu.ppy.sh/users/7231722) |
-| [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ::{ flag=US }:: Соединённые Штаты  | ::{ flag=JP }:: Япония  | ::{ flag=SG }:: Сингапур |
-| [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ::{ flag=SG }:: Сингапур | ::{ flag=CN }:: Китай  | ::{ flag=JP }:: Япония  |
+| [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ::{ flag=US }:: Соединённые Штаты A | ::{ flag=JP }:: Япония A | ::{ flag=SG }:: Сингапур |
+| [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ::{ flag=SG }:: Сингапур | ::{ flag=CN }:: Китай A | ::{ flag=JP }:: Япония A |
 | [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 2020-12-05 | 2021-02-07 | ::{ flag=HK }:: Гонконг | ::{ flag=CA }:: Канада | ::{ flag=RO }:: Румыния |
 | [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 2021-02-06 | 2021-04-17 | Азия | Европа | Северная Америка |
-| [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 2021-05-15 | 2021-06-27 | ::{ flag=US }:: Соединённые Штаты  | ::{ flag=SG }:: Сингапур  | ::{ flag=MY }:: Малайзия  |
-| [Rising Global Taiko Showdown 2021](GTS/RGTS_2021) | 2021-06-12 | 2021-07-25 | ::{ flag=KR }:: Южная Корея | ::{ flag=HK }:: Гонконг | ::{ flag=CN }:: Китай  |
+| [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 2021-05-15 | 2021-06-27 | ::{ flag=US }:: Соединённые Штаты A | ::{ flag=SG }:: Сингапур A | ::{ flag=MY }:: Малайзия A |
+| [Rising Global Taiko Showdown 2021](GTS/RGTS_2021) | 2021-06-12 | 2021-07-25 | ::{ flag=KR }:: Южная Корея | ::{ flag=HK }:: Гонконг | ::{ flag=CN }:: Китай A |
 | [Intermediate Global Taiko Showdown 2021](GTS/IGTS_2021) | 2021-07-24 | 2021-09-05 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай | ::{ flag=SG }:: Сингапур |
 | [Expert Global Taiko Showdown 2021](GTS/EGTS_2021) | 2021-10-02 | 2021-11-28 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501) | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 2022-01-08 | 2022-02-20 | おまかせ | Ham | 皇-SUMERAGI- |
-| [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: Япония  | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты  |
-| [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: Малайзия | ::{ flag=CN }:: Китай  | ::{ flag=KR }:: Южная Корея |
+| [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: Япония A | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты A |
+| [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: Малайзия | ::{ flag=CN }:: Китай A | ::{ flag=KR }:: Южная Корея |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
-| [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 2022-10-10 | 2022-12-18 | ::{ flag=JP }:: Япония | ::{ flag=CN }:: Китай | ::{ flag=DE }:: Германия  |
+| [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 2022-10-10 | 2022-12-18 | ::{ flag=JP }:: Япония | ::{ flag=CN }:: Китай | ::{ flag=DE }:: Германия A |
 | [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818) |
 
 #### North & South American Taiko Tournament
@@ -642,7 +642,7 @@
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ::{ flag=JP }:: Япония | ::{ flag=CL }:: Чили | ::{ flag=TW }:: Тайвань A |
-| Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Тайвань  | ::{ flag=FR }:: Франция | ::{ flag=JP }:: Япония A |
+| Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Тайвань A | ::{ flag=FR }:: Франция | ::{ flag=JP }:: Япония A |
 | Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ::{ flag=JP }:: [abeno](https://osu.ppy.sh/users/6565148) | ::{ flag=TW }:: [S  n d](https://osu.ppy.sh/users/676578) | ::{ flag=CA }:: [Fudgyking](https://osu.ppy.sh/users/3802922) |
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ::{ flag=JP }:: Япония A | ::{ flag=TW }:: Тайвань A | ::{ flag=JP }:: Япония |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: [_yu68](https://osu.ppy.sh/users/6170507) | ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
