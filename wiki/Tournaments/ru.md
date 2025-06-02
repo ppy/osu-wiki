@@ -33,8 +33,8 @@
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Taiko World Cup 2011](TWC/2011) | 2011-03-12 | 2011-04-29 | ::{ flag=TW }:: Тайвань | ::{ flag=JP }:: Япония | ::{ flag=CN }:: Китай |
-| [Taiko World Cup 2012](TWC/2012) | 2012-02-11 | 2012-04-01 | ::{ flag=JP }:: Япония  | ::{ flag=HK }:: Гонконг  | ::{ flag=JP }:: Япония  |
-| [Taiko World Cup #3](TWC/3) | 2012-09-22 | 2013-03-24 | ::{ flag=TW }:: Тайвань  | ::{ flag=HK }:: Гонконг  | ::{ flag=JP }:: Япония  |
+| [Taiko World Cup 2012](TWC/2012) | 2012-02-11 | 2012-04-01 | ::{ flag=JP }:: Япония A | ::{ flag=HK }:: Гонконг A | ::{ flag=JP }:: Япония B |
+| [Taiko World Cup #3](TWC/3) | 2012-09-22 | 2013-03-24 | ::{ flag=TW }:: Тайвань A | ::{ flag=HK }:: Гонконг A | ::{ flag=JP }:: Япония A |
 | [osu! Taiko World Cup 2014](TWC/2014) | 2014-01-16 | 2014-03-09 | ::{ flag=JP }:: Япония | ::{ flag=HK }:: Гонконг | ::{ flag=FR }:: Франция |
 | [osu! Taiko World Cup 2015](TWC/2015) | 2015-01-12 | 2015-03-15 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=FR }:: Франция |
 | [osu!taiko World Cup 2016](TWC/2016) | 2016-02-09 | 2016-04-24 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=CA }:: Канада |
@@ -537,7 +537,7 @@
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream |  la verga | Rtzero x Rtzer0 |
+| [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
 
 #### Yuyuko's Hidden Cup
 
@@ -595,8 +595,8 @@
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Intermediate Global Taiko Showdown 2018](GTS/IGTS_2018) | 2018-08-04 | 2018-09-16 | ::{ flag=MY }:: Малайзия | ::{ flag=NL }:: Нидерланды | ::{ flag=US }:: Соединённые Штаты |
-| [Intermediate Global Taiko Showdown 2019](GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты  | ::{ flag=CL }:: Чили |
-| [Advanced Global Taiko Showdown 2019](GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ::{ flag=JP }:: Япония | ::{ flag=CA }:: Канада | ::{ flag=RU }:: Российская Федерация  |
+| [Intermediate Global Taiko Showdown 2019](GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты A | ::{ flag=CL }:: Чили |
+| [Advanced Global Taiko Showdown 2019](GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ::{ flag=JP }:: Япония | ::{ flag=CA }:: Канада | ::{ flag=RU }:: Российская Федерация A |
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451) |
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Азия (Глобальный), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) (Азия), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) (Европа), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) (Северная Америка), ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) (Океания/Юго-Восточная Азия), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) (Южная Америка) | Европа (Глобальный), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) (Азия), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) (Европа), ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) (Северная Америка), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) (Океания/Юго-Восточная Азия), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) (Южная Америка) | Северная Америка (Глобальный), ::{ flag=JP }:: [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Азия), ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) (Европа), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) (Северная Америка), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (Океания/Юго-Восточная Азия), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857) (Южная Америка) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) | ::{ flag=JP }:: [nananass](https://osu.ppy.sh/users/7231722) |
@@ -849,7 +849,7 @@
 
 | Название | Начало | Конец | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Novice Mania Cup 3rd](MXB/3) | 2019-04-05 | 2019-06-16 | ::{ flag=CN }:: [ M D](https://osu.ppy.sh/users/5321112) | ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674) | ::{ flag=CN }:: [Yutto007](https://osu.ppy.sh/users/10269172) |
+| [Novice Mania Cup 3rd](MXB/3) | 2019-04-05 | 2019-06-16 | ::{ flag=CN }:: [A M D](https://osu.ppy.sh/users/5321112) | ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674) | ::{ flag=CN }:: [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 #### Mistrzostwa Polski (Polish Championship)
 
