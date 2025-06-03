@@ -49,7 +49,7 @@ Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) 
 - [Contest listing](https://osu.ppy.sh/community/contests/238)
 - [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
 - [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
-- [Contest update #2](https://osu.ppy.sh/home/news/2025-06-02-locus-2025-update-2)
+- [Contest update #2](https://osu.ppy.sh/home/news/2025-06-03-locus-2025-update-2)
 - [Nexus](https://mappersguild.com/locus)
 
 ## Teams
