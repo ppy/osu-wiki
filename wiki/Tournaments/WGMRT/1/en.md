@@ -6,7 +6,7 @@ tags:
 
 # We Go March! retot's Tournament
 
-![We Go March! retot's Tournament banner](img/banner.jpg)
+![We Go March! retot's Tournament banner](img/banner.png)
 
 The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3v3 osu! tournament hosted by ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877). The tournament was held following a [draft format](https://en.wikipedia.org/wiki/Draft_(sports)) and was open to all osu! players from Indonesia within the #1,000 - #50,000 rank range at the time of registration. It was the first iteration of the tournament series.
 
@@ -47,7 +47,7 @@ The We Go March! retot's Tournament was run by various osu! community members fr
 | Playtester and replayer | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) |
 | Streamer | ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Lunasia](https://osu.ppy.sh/users/3484548) |
 | Commentator | ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314) |
-| Referee | ::{ flag=ID }:: [Lunasia](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Jucky](https://osu.ppy.sh/users/18332687), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Skylineok](https://osu.ppy.sh/users/15985798), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) | |
+| Referee | ::{ flag=ID }:: [Lunasia](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Jucky](https://osu.ppy.sh/users/18332687), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Skylineok](https://osu.ppy.sh/users/15985798), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) |
 | Graphic designer | ::{ flag=ID }:: [Jucky](https://osu.ppy.sh/users/18332687), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [jonjot](https://osu.ppy.sh/users/2084869) |
 | Forum writer | ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657) |
 | Spreadsheet manager | ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465) |
@@ -308,7 +308,7 @@ Sunday, 18 January 2025:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | #PEGAONTOP | 5 | **8** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/118128299) |
-| Lower | **5 Melon 1 Korean** | **8** | 6 | apa aja lah bebeas | [#1](https://osu.ppy.sh/community/matches/118128494) |
+| Lower | **5 Melon 1 Korean** | **8** | 6 | apa aja lah bebas | [#1](https://osu.ppy.sh/community/matches/118128494) |
 
 ### Semifinals
 
