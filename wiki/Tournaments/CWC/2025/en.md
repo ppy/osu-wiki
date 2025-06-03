@@ -43,17 +43,20 @@ The osu!catch World Cup 2025 is run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=CA }:: **[wwwww](https://osu.ppy.sh/users/8434466)**, ::{ flag=CA }:: **[Yoshi\_green](https://osu.ppy.sh/users/1035891)**, ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284),::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |
-| Mappool playtester | *TBA* |
-| Commentator | *TBA* |
+| Mappool playtester | ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=HK }:: [fua](https://osu.ppy.sh/users/21138904), ::{ flag=ID }:: [Haruka Akane](https://osu.ppy.sh/users/1272422), ::{ flag=US }:: [Indy](https://osu.ppy.sh/users/12467500), ::{ flag=VE }:: [Jack Frost](https://osu.ppy.sh/users/6492475), ::{ flag=BR }:: [Laqeramaline](https://osu.ppy.sh/users/4533507), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=US }:: [Trent](https://osu.ppy.sh/users/3438241), ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228) |
+| Mapper | ::{ flag=PH }:: [\-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284), ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528), ::{ flag=US }:: [Zileni](https://osu.ppy.sh/users/23525574), *more TBA* |
+| Commentator | ::{ flag=IS }:: [Ash Ketchum](https://osu.ppy.sh/users/7297777), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=FR }:: [Realmaas](https://osu.ppy.sh/users/6567640), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=SE }:: [Wonder Stella](https://osu.ppy.sh/users/1352257), ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 
 ## Links
 
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1qm8pCDN4Bear-hnJCzIcyBJKHjnCo_D6062vysjIJmw?rm=minimal)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2076961)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/50)
+- [Challonge bracket](https://challonge.com/CWC2025)
 
 ## Participants
 
@@ -105,6 +108,27 @@ The osu!catch World Cup 2025 is run by various community members.
 | ::{ flag=VN }:: | **Vietnam** | **[Stardust Prism](https://osu.ppy.sh/users/8525921)**, [ARL](https://osu.ppy.sh/users/15778330), [mothernature](https://osu.ppy.sh/users/6403418), [NamSPro](https://osu.ppy.sh/users/11387006), [Shu](https://osu.ppy.sh/users/4744615) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a8df801dc4c99f192694621928b231).
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (91 MB)](https://packs.ppy.sh/P287%20-%20osu!catch%20World%20Cup%202025%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2474330124?t=0h4m55s)
+
+- No Mod
+  1. [Minstrel - today is the day (Bunnrei) \[June 1 (feat. Spec)\]](https://osu.ppy.sh/beatmapsets/2380696#fruits/5146241)
+  2. [Kou! - RE\_generate:fractal (-Rustyy) \[RE\_cursive\]](https://osu.ppy.sh/beatmapsets/2380706#fruits/5146313)
+  3. [Kairiki bear feat. Hatsune Miku - Mellomelloid (autofanboy) \[Bias (CWC Edit)\]](https://osu.ppy.sh/beatmapsets/2380698#fruits/5146247)
+- Hidden
+  1. [Jhariah - RISK, RISK, RISK! (Crowley) \[KEEP GAMBLING!\]](https://osu.ppy.sh/beatmapsets/2380705#fruits/5146310)
+  2. [xi - Ten'imuhou (Cut Ver.) (F D Flourite) \[Elegance\]](https://osu.ppy.sh/beatmapsets/2380708#fruits/5146316)
+- Hard Rock
+  1. [Powerwolf - Christ & Combat (Ascendance) \[Ascendance & Daletto's Crusade\]](https://osu.ppy.sh/beatmapsets/2380961#fruits/5147069)
+  2. [Gram vs. DJ Genki - XIchedelic Nova Trinity (Du5t) \[Resonance\]](https://osu.ppy.sh/beatmapsets/2380795#fruits/5146560)
+- Double Time
+  1. [Natsume Itsuki - Mayday (Verti) \[Rain\]](https://osu.ppy.sh/beatmapsets/2380715#fruits/5146341)
+  2. [siqlo - Vantablack (autofanboy) \[Subtlety\]](https://osu.ppy.sh/beatmapsets/2380716#fruits/5146343)
 
 ## Ruleset
 
