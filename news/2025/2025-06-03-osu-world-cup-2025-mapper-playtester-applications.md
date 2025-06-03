@@ -4,7 +4,7 @@ title: osu! World Cup 2025 Mapper and Playtester Applications
 date: 2025-06-03 00:00:00 +0000
 ---
 
-Want to help shape the maps behind osu!’s biggest stage? Now's your chance — sign-ups for mappers and playtesters are now open!
+Want to help shape the maps behind osu!'s biggest stage? Now's your chance — sign-ups for mappers and playtesters are now open!
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
@@ -18,8 +18,7 @@ If you wish to help in the creation of standout projects like [Lies playing Trut
 
 **[Click here to apply as a playtester](https://leoflt.com/forms/owc2025-testing-apps)**
 
-*Please note: If accepted into either role, you will no longer be eligible to participate as a player in the tournament.\
-Both forms require authentication via your osu! account for identification purposes.*
+*Please note: If accepted into either role, you will no longer be eligible to participate as a player in the tournament. Both forms require authentication via your osu! account for identification purposes.*
 
 The World Cup team will forever be grateful for your future contributions to the project!
 
