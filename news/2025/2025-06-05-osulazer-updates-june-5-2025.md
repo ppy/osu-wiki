@@ -25,7 +25,7 @@ You may have noticed osu!(lazer)-related news and YouTube uploads easing up — 
 </div>
 
 - **The leaderboard is now a skinnable element.** While it's not "fully skinnable" yet, this means you can manipulate its placement and size via the skin editor under the ruleset "HUD" layer.
-- **Add non-skinnable position indicator to multiplayer player.** Next to the leaderboard update, the position indicator has made its grand return as well! Worry not, you can still hide it with the `Tab` key, but it will always show during breaks.
+- **A non-skinnable position indicator has been added to multiplayer.** Next to the leaderboard update, the position indicator has made its grand return as well! Worry not, you can still hide it with the `Tab` key, but it will always show during breaks.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
