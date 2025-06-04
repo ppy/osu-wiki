@@ -452,7 +452,7 @@ Sunday, 13 April 2025:
 
 1. Based on the screening results, the tournament management will pick 8 players at random from the list of accepted players to act as team captains.
    - In order to avoid teams potentially having to deal with the disadvantage of being captained by a player whose skill level is not on par with the tournament's threshold, the captains will always be picked from the list's Top 48 players ranking-wise.
-2. During the drafting phase, team captains will then have to pick five other players to complete their team from the pool of remaining players following the [snaking draft method](https://en.wiktionary.org/wiki/snake_draft) (1st -> 2nd -> 3rd -> 4th -> 5th -> 6th -> 6th -> 5th -> 4th -> (...)).
+2. During the drafting phase, team captains will then have to pick five other players to complete their team from the pool of remaining players following the [snaking draft method](https://en.wiktionary.org/wiki/snake_draft) (1st -> 2nd -> 3rd -> 4th -> 5th -> 6th -> 7th -> 8th -> 8th -> 7th -> 6th -> (...)).
 3. Teams are required to submit a team name to the tournament management within one week of the drafting phase. 
    - While there are no restrictions as to what team names may and may not be used, teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
 4. Players who are not picked to be in any team at the end of the drafting phase are eliminated from the tournament by default.
