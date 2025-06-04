@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! World Cup 2025 Mapper and Playtester Applications
-date: 2025-06-04 00:00:00 +0000
+date: 2025-06-04 01:00:00 +0000
 ---
 
 Want to help shape the maps behind osu!'s biggest stage? Now's your chance — sign-ups for mappers and playtesters are now open!
