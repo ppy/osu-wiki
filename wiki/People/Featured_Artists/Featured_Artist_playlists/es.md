@@ -300,7 +300,7 @@ Para obtener detalles completos de las listas de juego, consulta el [listado de 
 - Solo aplicable a los modos de juego osu!catch y osu!mania
 - Premios según la [clasificación acumulativa](#clasificación-acumulativa)
 
-### Mayo de 2023
+### Mayo de 2025
 
 - Los 5 mejores beatmaps de osu!catch y osu!mania de sus respectivos concursos de Monthly Beatmapping ([osu!](https://osu.ppy.sh/home/news/2025-02-17-monthly-beatmapping-contest-february-2025), [osu!taiko](https://osu.ppy.sh/home/news/2025-01-23-monthly-beatmapping-contest-january-2025))
 - Solo aplicable a los modos de juego osu! y osu!taiko
