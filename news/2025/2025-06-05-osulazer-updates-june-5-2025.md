@@ -25,9 +25,13 @@ You may have noticed osu!(lazer)-related news and YouTube uploads easing up — 
 </div>
 
 - **The leaderboard is now a skinnable element.** While it's not "fully skinnable" yet, this means you can manipulate its placement and size via the skin editor under the ruleset "HUD" layer.
-- **Add non-skinnable position indicator to multiplayer player.** With the update to the leaderboard, [peppy](https://osu.ppy.sh/users/2) wanted to make sure that players are still aware that they are in a multiplayer match, which is why the position indicator is now added to the game. Worry not, you can still hide it with the `Tab` key, but it will always show during breaks.
+- **Add non-skinnable position indicator to multiplayer player.** Next to the leaderboard update, the position indicator has made its grand return as well! Worry not, you can still hide it with the `Tab` key, but it will always show during breaks.
 
-![](/wiki/shared/news/2025-06-05-osulazer-updates-june-5-2025/multi-position-indicator.gif)
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-06-05-multiplayer-rank-indicator.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 - **Mods and freemod can now be used in conjunction with freestyle.** This means that the host can force mods onto the entire lobby, with players still being able to choose to additional mods (for example Hidden on top of forced Double Time for the lobby), and still get to pick any difficulty from the chosen beatmapset.
 - **A new mod has been added to osu!taiko.** The Simplified Rhythm mod is exactly what it says on the tin, it turns challenging rhythms such as 1/8 and 1/6 patterns into 1/4 and 1/3 rhythms into 1/2, all based on the player's preference via the mod's settings.
