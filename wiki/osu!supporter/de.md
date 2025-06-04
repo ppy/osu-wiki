@@ -72,7 +72,7 @@ Sobald osu!supporter ausläuft, bleibt die Farbwahl erhalten, kann aber nur zum 
 
 *Anmerkung: Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).*
 
-Mit osu!supporter darf der Benutzername gemäß den [üblichen Bedingungen](/wiki/Help_centre/Account#name-changes) beim ersten Mal kostenlos geändert werden.
+Mit osu!supporter darf der Benutzername gemäß den [geltenden Bedingungen](/wiki/Help_centre/Account#name-changes) beim ersten Mal kostenlos geändert werden.
 
 ### osu!direct
 
