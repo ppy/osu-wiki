@@ -14,26 +14,13 @@ You might have noticed that the rate at which news and YouTube videos has slowed
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Editor
-
-- **The BSS process now has cool new sound effects.** After a complaint was made by a community member, [nekodex](https://osu.ppy.sh/users/102) cooked up brand new satisfying sounds that accompany you through the beatmap submission process.
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/fj08ycEc.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
-
-- **Distance snapping can no longer be used to place objects outside of playfield bounds.** The daredevils amongst the mapping community will need to find another way to no-clip out of bounds.
-- **Various editor crash fixes and improved logging and errors for BSS.** If you are a fellow nerd, you can check the [full changelog]() for the specific details.
-
 ### Gameplay
 
 - **The new song select is here for public testing.** To see the new design, simply input the simple *secret code* of... holding the "solo" button for a second before releasing. Very secretive, we know.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/1ckv311S.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-06-05-song-select-v2.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -44,22 +31,35 @@ You might have noticed that the rate at which news and YouTube videos has slowed
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/hdhWRCTU.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-06-05-simplified-rhythm.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
 - **Partial slider body transparency has been added to "argon" skins.** After some player complaints this has been manually added in by peppy, however in the future this will be configurable in-game on a skin-to-skin basis.
 
-![](https://2127.s-ul.eu/FiA9WsNn.png)
+![](/wiki/shared/news/2025-06-05-osulazer-updates-june-5-2025/argon-transparency.png)
 
 - **The "Require perfect hits" option has been added for the Mania Perfect mod.** For all the *true* perfectionists out there.
+
+### Editor
+
+- **The BSS process now has cool new sound effects.** After a complaint was made by a community member, [nekodex](https://osu.ppy.sh/users/102) cooked up brand new satisfying sounds that accompany you through the beatmap submission process.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-06-05-bss-sound-effect.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+- **Distance snapping can no longer be used to place objects outside of playfield bounds.** The daredevils amongst the mapping community will need to find another way to no-clip out of bounds.
+- **Various editor crash fixes and improved logging and errors for BSS.** If you are a fellow nerd, you can check the [full changelog]() for the specific details.
 
 ### Other
 
 - **A new "Tachyon" release stream has been added.** This is the equivalent of the "cutting edge" release stream from osu!(stable), but on osu!(lazer). With "Tachyon", you will be able to play on all pre-release versions of the game, and the devs are recommending you give it a try if you have been experiencing stutters on osu!(lazer).
 - **Plays with non-default mod configurations are now clearly displayed.** This means if a user set a score with Double Time, but edited the rate to something other than 1.5x, a new cog icon will appear on the top left of the mod icon. Hovering over the mod icon also gives more specific details.
 
-![](https://2127.s-ul.eu/giWfsz3p.png)
+![](/wiki/shared/news/2025-06-05-osulazer-updates-june-5-2025/non-default-mod-config.png)
 
 - **You can now join multiplayer/playlist rooms from links.** If a link is shared on either in-game chat or anywhere outside the game, clicking on it now automatically makes you join.
 - **Replay playback issues have mostly been resolved.** If you are someone who's looking through replays on osu!(lazer), you should notice a huge different with this release.
@@ -67,6 +67,8 @@ You might have noticed that the rate at which news and YouTube videos has slowed
 
 ---
 
-outro
+We know a lot of you held back from trying osu!(lazer) due to not being happy with song select, or because the performance wasn't what you expected. If you belong in that crowd, now is the perfect time to [give it a whirl](https://osu.ppy.sh/home/download) and let the devs know what you think!
+
+As always, you can refer to the [changelog]() to get the full scoop on all the minor changes that weren't mentioned either on YouTube, or in the news post. See ya next time!
 
 —0x84f, Walavouchey
