@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: June 5, 2025"
-date: 2025-03-23 19:00:00 +0000
+date: 2025-06-05 12:00:00 +0000
 ---
 
 Experts say this might be THE osu!(lazer) update of all time.
@@ -23,10 +23,6 @@ You might have noticed that the rate at which news and YouTube videos has slowed
         <source src="https://2127.s-ul.eu/fj08ycEc.mp4" type="video/mp4" preload="none">
     </video>
 </div>
-
-- Improve appearance of new combo toggle / combo colour control when contracted (ppy/osu#32946)
-
-![]()
 
 - **Distance snapping can no longer be used to place objects outside of playfield bounds.** The daredevils amongst the mapping community will need to find another way to no-clip out of bounds.
 - **Various editor crash fixes and improved logging and errors for BSS.** If you are a fellow nerd, you can check the [full changelog]() for the specific details.
