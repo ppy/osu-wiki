@@ -8,7 +8,7 @@ Experts say this might be THE osu!(lazer) update of all time.
 
 ![](/wiki/shared/news/2025-06-05-osulazer-updates-june-5-2025/banner.jpg)
 
-You might have noticed that the rate at which news and YouTube videos has slowed down a bit, however the devs have not slowed down one bit, with several smaller updates being pushed out in April. That being said, this update is major, and we're excited to showcase it to you.
+You may have noticed osu!(lazer)-related news and YouTube uploads easing up — but don’t be fooled, the devs haven’t let off the gas for a moment. Alongside several smaller updates being pushed out in April, we're excited to showcase this major update!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
@@ -16,7 +16,7 @@ You might have noticed that the rate at which news and YouTube videos has slowed
 
 ### Gameplay
 
-- **The new song select is here for public testing.** To see the new design, simply input the simple *secret code* of... holding the "solo" button for a second before releasing. Very secretive, we know.
+- **The new song select is here for public testing!** To see the new design, simply input the simple *secret code* of... holding the "solo" button for a second before releasing. Very secretive, we know 🕵️.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -24,10 +24,10 @@ You might have noticed that the rate at which news and YouTube videos has slowed
     </video>
 </div>
 
-- **The leaderboard is now a skinnable element.** While it's not "skinnable" yet, this means you can manipulate its placement and size via the skin editor under the ruleset "HUD" layer.
+- **The leaderboard is now a skinnable element.** While it's not "fully skinnable" yet, this means you can manipulate its placement and size via the skin editor under the ruleset "HUD" layer.
 - **Add non-skinnable position indicator to multiplayer player.** With the update to the leaderboard, [peppy](https://osu.ppy.sh/users/2) wanted to make sure that players are still aware that they are in a multiplayer match, which is why the position indicator is now added to the game. Worry not, you can still hide it with the `Tab` key, but it will always show up during breaks.
 - **Mods and freemod can now be used in conjunction with freestyle.** This means that the host can force mods onto the entire lobby, with players still being able to choose to additional mods (for example Hidden on top of forced Double Time for the lobby), and still get to pick any difficulty from the chosen beatmapset.
-- **A new mod has been to osu!taiko.** The Simplified Rhythm mod is exactly what it says on the tin, it turns complicated rhythms such as 1/8 and 1/6 patterns into 1/4, 1/3 rhythms into 1/2, and allows for further modifications via mod settings.
+- **A new mod has been added to osu!taiko.** The Simplified Rhythm mod is exactly what it says on the tin, it turns challenging rhythms such as 1/8 and 1/6 patterns into 1/4 and 1/3 rhythms into 1/2, all based on the player's preference via the mod's settings.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -39,7 +39,7 @@ You might have noticed that the rate at which news and YouTube videos has slowed
 
 ![](/wiki/shared/news/2025-06-05-osulazer-updates-june-5-2025/argon-transparency.png)
 
-- **The "Require perfect hits" option has been added for the Mania Perfect mod.** For all the *true* perfectionists out there.
+- **The "Require perfect hits" option has been added for the osu!mania Perfect mod.** For all the *true* perfectionists out there.
 
 ### Editor
 
@@ -62,7 +62,7 @@ You might have noticed that the rate at which news and YouTube videos has slowed
 ![](/wiki/shared/news/2025-06-05-osulazer-updates-june-5-2025/non-default-mod-config.png)
 
 - **You can now join multiplayer/playlist rooms from links.** If a link is shared on either in-game chat or anywhere outside the game, clicking on it now automatically makes you join.
-- **Replay playback issues have mostly been resolved.** If you are someone who's looking through replays on osu!(lazer), you should notice a huge different with this release.
+- **Replay playback issues have mostly been resolved.** You'll notice that watching and seeking through replays should feel much better now.
 - **You can now block users directly within osu!(lazer).** Right-clicking on a user anywhere within the game will now present a "block" option, should you ever need to use it.
 
 ---
