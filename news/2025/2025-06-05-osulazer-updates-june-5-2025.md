@@ -76,6 +76,6 @@ You may have noticed osu!(lazer)-related news and YouTube uploads easing up — 
 
 We know a lot of you held back from trying osu!(lazer) due to not being happy with song select, or because the performance wasn't what you expected. If you belong in that crowd, now is the perfect time to [give it a whirl](https://osu.ppy.sh/home/download) and let the devs know what you think!
 
-As always, you can refer to the [changelog](https://osu.ppy.sh/home/changelog/lazer/2025.605.1) to get the full scoop on all the minor changes that weren't mentioned either on YouTube, or in the news post. See ya next time!
+As always, you can refer to the [changelog](https://osu.ppy.sh/home/changelog/lazer/2025.605.1) to get the full scoop on all the minor changes that weren't mentioned either on YouTube, or in this news post. See ya next time!
 
 —0x84f, Walavouchey
