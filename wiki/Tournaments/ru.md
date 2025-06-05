@@ -969,7 +969,7 @@
 | [Touhou Project Mania Cup 3rd](TMC/3rd) | 17.04.2023 | 16.07.2023 | Bloxy cola | Winx Club | Mew's Bodyguards |
 | [Touhou Project Mania Cup 4th](TMC/4th) | 22.12.2024 | 06.04.2025 | Mahjong Soul Official | Gravity Coil | Girlfriend ASMR |
 
-### Multimode
+### Турниры в нескольких режимах
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
