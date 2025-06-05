@@ -11,7 +11,7 @@ Experts say this might be THE osu!(lazer) update of all time.
 You may have noticed osu!(lazer)-related news and YouTube uploads easing up — but don’t be fooled, the devs haven’t let off the gas for a moment. Alongside several smaller updates being pushed out in April, we're excited to showcase this major update!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/H_a5Cqv7Tok" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Gameplay
@@ -59,7 +59,7 @@ You may have noticed osu!(lazer)-related news and YouTube uploads easing up — 
 </div>
 
 - **Distance snapping can no longer be used to place objects outside of playfield bounds.** The daredevils amongst the mapping community will need to find another way to no-clip out of bounds.
-- **Various editor crash fixes and improved logging and errors for BSS.** If you are a fellow nerd, you can check the [full changelog]() for the specific details.
+- **Various editor crash fixes and improved logging and errors for BSS.** If you are a fellow nerd, you can check the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2025.605.1) for the specific details.
 
 ### Other
 
@@ -76,6 +76,6 @@ You may have noticed osu!(lazer)-related news and YouTube uploads easing up — 
 
 We know a lot of you held back from trying osu!(lazer) due to not being happy with song select, or because the performance wasn't what you expected. If you belong in that crowd, now is the perfect time to [give it a whirl](https://osu.ppy.sh/home/download) and let the devs know what you think!
 
-As always, you can refer to the [changelog]() to get the full scoop on all the minor changes that weren't mentioned either on YouTube, or in the news post. See ya next time!
+As always, you can refer to the [changelog](https://osu.ppy.sh/home/changelog/lazer/2025.605.1) to get the full scoop on all the minor changes that weren't mentioned either on YouTube, or in the news post. See ya next time!
 
 —0x84f, Walavouchey
