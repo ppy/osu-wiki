@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 ### Qualifier procedure
 
 1. Players choose their lobby from the spreadsheet. They can participate in a lobby that has at least one empty slot.
-    - Players notify hosts on the discord channel about their chosen lobby using a pinned prompt.
+   - Players notify hosts on the discord channel about their chosen lobby using a pinned prompt.
 2. Last lobby for Qualifiers round cannot start after December 18th.
 3. If a team does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
 4. Each map will be played in order as they are shown on the mappool sheet. There will be one playthrough of the pool.
