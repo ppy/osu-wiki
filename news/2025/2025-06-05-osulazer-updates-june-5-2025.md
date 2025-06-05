@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: June 5, 2025"
-date: 2025-06-05 12:00:00 +0000
+date: 2025-06-05 09:00:00 +0000
 ---
 
 Experts say this might be THE osu!(lazer) update of all time.
