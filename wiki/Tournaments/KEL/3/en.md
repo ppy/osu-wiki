@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifier procedure
 
-1. Players choose their lobby from the spreadsheet. They can participate in a lobby that has at least one empty slot. 
+1. Players choose their lobby from the spreadsheet. They can participate in a lobby that has at least one empty slot.
     - Players notify hosts on the discord channel about their chosen lobby using a pinned prompt.
 2. Last lobby for Qualifiers round cannot start after December 18th.
 3. If a team does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
@@ -222,12 +222,12 @@ This competition has come to an end and resulted in the following podium:
    - Ban order is ABBA, with all bans happening at the start of the match.
 6. Players have 90 seconds to declare picks and bans.
 7. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
-    - First occurrence: A 30-second extension is given along with a verbal warning.
-    - On subsequent occurrences: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool.
+   - First occurrence: A 30-second extension is given along with a verbal warning.
+   - On subsequent occurrences: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool.
 8. Players have 90 seconds to swap teammates and lock in their roster.
 9. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
-    - First occurrence: A 15-second extension is given along with a verbal warning.
-    - On subsequent occurrences: the referee will issue the `!mp start 10` command.
+   - First occurrence: A 15-second extension is given along with a verbal warning.
+   - On subsequent occurrences: the referee will issue the `!mp start 10` command.
 10. Players got one timeout of 2 minutes per match, both players and the referee, must be in agreement about extending a timeout or having another timeout.
 
 ### Disconnections
