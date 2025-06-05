@@ -345,7 +345,7 @@ You're likely thinking of another game.
 [^freestyle]: Turn on in song select to allow players to select any difficulty of the current beatmap.
 [^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
 [^medals-lazer]: Some [Hush-Hush medals](/wiki/Medals#hush-hush) are not yet obtainable.
-[^medals-stable]: Certain medals are Lazer exclusive.
+[^medals-stable]: Certain medals are lazer-exclusive.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
