@@ -33,7 +33,7 @@ You may have noticed osu!(lazer)-related news and YouTube uploads easing up — 
     </video>
 </div>
 
-- **Mods and freemod can now be used in conjunction with freestyle.** This means that the host can force mods onto the entire lobby, with players still being able to choose to additional mods (for example Hidden on top of forced Double Time for the lobby), and still get to pick any difficulty from the chosen beatmapset.
+- **Mods and freemod can now be used in conjunction with freestyle.** This means that the host can force mods onto the entire lobby, with players still being able to choose additional mods (for example Hidden on top of forced Double Time for the lobby), and still get to pick any difficulty from the chosen beatmapset.
 - **A new mod has been added to osu!taiko.** The Simplified Rhythm mod is exactly what it says on the tin, it turns challenging rhythms such as 1/8 and 1/6 patterns into 1/4 and 1/3 rhythms into 1/2, all based on the player's preference via the mod's settings.
 
 <div align="center" class="osu-md__paragraph">
