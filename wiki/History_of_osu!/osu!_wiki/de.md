@@ -8,10 +8,10 @@
 | :-- | :-- |
 | 05.12.2011 (08:13 UTC) | Erste Bearbeitung des osu!-Wikis von ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). |
 | 06.12.2011 | [Das osu!-Wiki ist jetzt live!](https://osu.ppy.sh/community/forums/topics/68525). |
-| November 2012 | Das osu!-Wiki hat jetzt 3 Admins (::{ flag=PL }:: [[Dellirium]](https://osu.ppy.sh/users/519032) und ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) wurden hinzugefügt). Vorher war nur ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) der Admin. |
+| November 2012 | Das osu!-Wiki hat jetzt 3 Admins (::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) und ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) wurden hinzugefügt). Vorher war nur ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) der Admin. |
 | 27.01.2013 (06:12 UTC) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) integrierte das osu!-Wiki in die Hauptseite. [Link zu peppys Beitrag](https://osu.ppy.sh/community/forums/posts/2082803). |
 | 2014 | Das osu!-Wiki wird zu einem Informationszentrum für osu!, wobei die meisten der Webkopien wie [osu!-Team](/wiki/People/osu!_team) und [Regeln](/wiki/Rules) ersetzt werden. Auch hat das osu!-Wiki jetzt 5 Admins (::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) und ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) werden hinzugefügt). |
-| 2015 | Das osu!-Wiki erhielt wichtige Aktualisierungen der Übersetzungen in andere Sprachen. ::{ flag=PL }:: [[Dellirium]](https://osu.ppy.sh/users/519032) wurde durch ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) als einer der Admins des osu!-Wikis ersetzt. |
+| 2015 | Das osu!-Wiki erhielt wichtige Aktualisierungen der Übersetzungen in andere Sprachen. ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) wurde durch ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) als einer der Admins des osu!-Wikis ersetzt. |
 | 22.02.2016 | Das osu!-Wiki hat jetzt 8 Admins (::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) und ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) werden hinzugefügt). |
 | 01.04.2016 | Ein weiterer Admin trat dem osu!-Wiki bei (::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)). |
 | 30.08.2016 | Das osu!-Wiki, das auf MediaWiki läuft, wird gegen das GitHub-Repository ausgetauscht. Das aktuelle osu!-Wiki wird solange bleiben, bis die GitHub-Version mit allen Seiten bereit zum Einsatz ist und alle Bilder portiert wurden. |
