@@ -1,32 +1,32 @@
 # Турниры
 
-Данный раздел, посвящен турнирам по игре osu!. Турниры имеют свой специальный форум, который можно найти [по этой ссылке](https://osu.ppy.sh/community/forums/55).
+Данный раздел посвящён турнирам по osu!. Организация и проведение турниров также обсуждаются в [отдельном форуме](https://osu.ppy.sh/community/forums/55).
 
-Пожалуйста, посетите официальную страницу с турнирами: ["Оффициальная турнирная поддержка"](/wiki/Tournaments/Official_support), для получения подробной информации о том, как запросить официальную поддержку вашего турнира (бейджи, процесс отбора и т. д.).
+О том, как получить официальную поддержку турнира (бейджи, скрининг кандидатов и т. д.), см. [Официальная поддержка турниров](/wiki/Tournaments/Official_support).
 
 ## Официальные мировые турниры
 
-Официальные турниры организованы командой osu!.
+Турниры, организованные командой osu!.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
 | Название | Начало | Конец | ![Золотая корона][GCrown] | ![Серебряная корона][SCrown] | ![Бронзовая корона][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! World Cup #1](OWC/1) | 31.01.2011 | 08.04.2011 | ::{ flag=TW }:: Тайвань | ::{ flag=NL }:: Нидерланды | ::{ flag=KR }:: Южная Корея |
-| [osu! World Cup #2](OWC/2) | 28.10.2011 | 24.03.2012 | ::{ flag=KR }:: Южная Корея | ::{ flag=JP }:: Япония | ::{ flag=BR }:: Бразилия |
-| [osu! World Cup #3](OWC/3) | 25.10.2012 | 20.01.2013 | ::{ flag=KR }:: Южная Корея | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань |
-| [osu! World Cup 2013](OWC/2013) | 15.10.2013 | 08.12.2013 | ::{ flag=KR }:: Южная Корея | ::{ flag=TW }:: Тайвань | ::{ flag=PL }:: Польша |
+| [osu! World Cup #1](OWC/1) | 31.01.2011 | 08.04.2011 | ::{ flag=TW }:: Тайвань | ::{ flag=NL }:: Нидерланды | ::{ flag=KR }:: Республика Корея |
+| [osu! World Cup #2](OWC/2) | 28.10.2011 | 24.03.2012 | ::{ flag=KR }:: Республика Корея | ::{ flag=JP }:: Япония | ::{ flag=BR }:: Бразилия |
+| [osu! World Cup #3](OWC/3) | 25.10.2012 | 20.01.2013 | ::{ flag=KR }:: Республика Корея | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань |
+| [osu! World Cup 2013](OWC/2013) | 15.10.2013 | 08.12.2013 | ::{ flag=KR }:: Республика Корея | ::{ flag=TW }:: Тайвань | ::{ flag=PL }:: Польша |
 | [osu! World Cup 2014](OWC/2014) | 02.10.2014 | 14.12.2014 | ::{ flag=JP }:: Япония | ::{ flag=PL }:: Польша | ::{ flag=DE }:: Германия |
 | [osu! World Cup 2015](OWC/2015) | 01.10.2015 | 13.12.2015 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай | ::{ flag=PL }:: Польша |
-| [osu! World Cup 2016](OWC/2016) | 02.10.2016 | 18.12.2016 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай | ::{ flag=KR }:: Южная Корея |
-| [osu! World Cup 2017](OWC/2017) | 13.10.2017 | 17.12.2017 | ::{ flag=PL }:: Польша | ::{ flag=US }:: Соединённые Штаты | ::{ flag=GB }:: Соединённое Королевство |
-| [osu! World Cup 2018](OWC/2018) | 10.11.2018 | 16.12.2018 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=GB }:: Соединённое Королевство | ::{ flag=DE }:: Германия |
-| [osu! World Cup 2019](OWC/2019) | 09.11.2019 | 22.12.2019 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Южная Корея | ::{ flag=GB }:: Соединённое Королевство |
+| [osu! World Cup 2016](OWC/2016) | 02.10.2016 | 18.12.2016 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай | ::{ flag=KR }:: Республика Корея |
+| [osu! World Cup 2017](OWC/2017) | 13.10.2017 | 17.12.2017 | ::{ flag=PL }:: Польша | ::{ flag=US }:: Соединённые Штаты | ::{ flag=GB }:: Великобритания |
+| [osu! World Cup 2018](OWC/2018) | 10.11.2018 | 16.12.2018 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=GB }:: Великобритания | ::{ flag=DE }:: Германия |
+| [osu! World Cup 2019](OWC/2019) | 09.11.2019 | 22.12.2019 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=GB }:: Великобритания |
 | [osu! World Cup 2020](OWC/2020) | 24.10.2020 | 06.12.2020 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=DE }:: Германия | ::{ flag=CA }:: Канада |
-| [osu! World Cup 2021](OWC/2021) | 09.10.2021 | 28.11.2021 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=DE }:: Германия | ::{ flag=KR }:: Южная Корея |
-| [osu! World Cup 2022](OWC/2022) | 15.10.2022 | 27.11.2022 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Южная Корея | ::{ flag=DE }:: Германия |
-| [osu! World Cup 2023](OWC/2023) | 21.10.2023 | 03.12.2023 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Южная Корея | ::{ flag=AU }:: Австралия |
-| [osu! World Cup 2024](OWC/2024) | 26.10.2024 | 08.12.2024 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AU }:: Австралия |
+| [osu! World Cup 2021](OWC/2021) | 09.10.2021 | 28.11.2021 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=DE }:: Германия | ::{ flag=KR }:: Республика Корея |
+| [osu! World Cup 2022](OWC/2022) | 15.10.2022 | 27.11.2022 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=DE }:: Германия |
+| [osu! World Cup 2023](OWC/2023) | 21.10.2023 | 03.12.2023 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=AU }:: Австралия |
+| [osu! World Cup 2024](OWC/2024) | 26.10.2024 | 08.12.2024 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AU }:: Австралия |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -40,13 +40,13 @@
 | [osu!taiko World Cup 2016](TWC/2016) | 09.02.2016 | 24.04.2016 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=CA }:: Канада |
 | [osu!taiko World Cup 2017](TWC/2017) | 07.02.2017 | 16.04.2017 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=HK }:: Гонконг |
 | [osu!taiko World Cup 2018](TWC/2018) | 07.04.2018 | 13.05.2018 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=CA }:: Канада |
-| [osu!taiko World Cup 2019](TWC/2019) | 20.04.2019 | 26.05.2019 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=KR }:: Южная Корея |
-| [osu!taiko World Cup 2020](TWC/2020) | 07.03.2020 | 12.04.2020 | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Южная Корея | ::{ flag=GB }:: Соединённое Королевство |
-| [osu!taiko World Cup 2021](TWC/2021) | 06.03.2021 | 11.04.2021 | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Южная Корея | ::{ flag=BR }:: Бразилия |
-| [osu!taiko World Cup 2022](TWC/2022) | 12.03.2022 | 24.04.2022 | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Южная Корея | ::{ flag=ID }:: Индонезия |
+| [osu!taiko World Cup 2019](TWC/2019) | 20.04.2019 | 26.05.2019 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=KR }:: Республика Корея |
+| [osu!taiko World Cup 2020](TWC/2020) | 07.03.2020 | 12.04.2020 | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Республика Корея | ::{ flag=GB }:: Великобритания |
+| [osu!taiko World Cup 2021](TWC/2021) | 06.03.2021 | 11.04.2021 | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Республика Корея | ::{ flag=BR }:: Бразилия |
+| [osu!taiko World Cup 2022](TWC/2022) | 12.03.2022 | 24.04.2022 | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Республика Корея | ::{ flag=ID }:: Индонезия |
 | [osu!taiko World Cup 2023](TWC/2023) | 18.03.2023 | 30.04.2023 | ::{ flag=JP }:: Япония | ::{ flag=TW }:: Тайвань | ::{ flag=DE }:: Германия |
-| [osu!taiko World Cup 2024](TWC/2024) | 16.03.2024 | 28.04.2024 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Соединённое Королевство | ::{ flag=US }:: Соединённые Штаты |
-| [osu!taiko World Cup 2025](TWC/2025) | 15.03.2025 | 27.04.2025 | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Южная Корея | ::{ flag=TW }:: Тайвань |
+| [osu!taiko World Cup 2024](TWC/2024) | 16.03.2024 | 28.04.2024 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Великобритания | ::{ flag=US }:: Соединённые Штаты |
+| [osu!taiko World Cup 2025](TWC/2025) | 15.03.2025 | 27.04.2025 | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Республика Корея | ::{ flag=TW }:: Тайвань |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -54,16 +54,16 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Catch the Beat World Cup](CWC/1) | 05.11.2011 | 02.05.2012 | ::{ flag=CN }:: Китай | ::{ flag=TW }:: half manual player team | ::{ flag=CL }:: Чили |
 | [Catch the Beat World Cup 2013](CWC/2013) | 15.01.2013 | 10.03.2013 | ::{ flag=CL }:: Чили | ::{ flag=TW }:: Тайвань | ::{ flag=AR }:: Аргентина/Колумбия |
-| [osu! Catch the Beat World Cup 2014](CWC/2014) | 11.04.2014 | 15.06.2014 | ::{ flag=KR }:: Южная Корея | ::{ flag=DE }:: Германия | ::{ flag=SE }:: Швеция |
-| [osu!ctb World Cup 2015](CWC/2015) | 02.04.2015 | 14.06.2015 | ::{ flag=KR }:: Южная Корея | ::{ flag=CN }:: Китай | ::{ flag=DE }:: Германия |
+| [osu! Catch the Beat World Cup 2014](CWC/2014) | 11.04.2014 | 15.06.2014 | ::{ flag=KR }:: Республика Корея | ::{ flag=DE }:: Германия | ::{ flag=SE }:: Швеция |
+| [osu!ctb World Cup 2015](CWC/2015) | 02.04.2015 | 14.06.2015 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=DE }:: Германия |
 | [osu!catch World Cup 2016](CWC/2016) | 12.04.2016 | 26.06.2016 | ::{ flag=CN }:: Китай | ::{ flag=ID }:: Индонезия | ::{ flag=DE }:: Германия |
-| [osu!catch World Cup 2017](CWC/2017) | 03.05.2017 | 09.07.2017 | ::{ flag=KR }:: Южная Корея | ::{ flag=CN }:: Китай | ::{ flag=ID }:: Индонезия |
+| [osu!catch World Cup 2017](CWC/2017) | 03.05.2017 | 09.07.2017 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=ID }:: Индонезия |
 | [osu!catch World Cup 2018](CWC/2018) | 09.06.2018 | 15.07.2018 | ::{ flag=CN }:: Китай | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CL }:: Чили |
-| [osu!catch World Cup 2019](CWC/2019) | 29.06.2019 | 04.08.2019 | ::{ flag=KR }:: Южная Корея | ::{ flag=CN }:: Китай | ::{ flag=CL }:: Чили |
-| [osu!catch World Cup 2020](CWC/2020) | 09.05.2020 | 14.06.2020 | ::{ flag=KR }:: Южная Корея | ::{ flag=CN }:: Китай | ::{ flag=US }:: Соединённые Штаты |
-| [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ::{ flag=KR }:: Южная Корея | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты |
-| [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай |
-| [osu!catch World Cup 2023](CWC/2023) | 13.05.2023 | 25.06.2023 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=IT }:: Италия |
+| [osu!catch World Cup 2019](CWC/2019) | 29.06.2019 | 04.08.2019 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=CL }:: Чили |
+| [osu!catch World Cup 2020](CWC/2020) | 09.05.2020 | 14.06.2020 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=US }:: Соединённые Штаты |
+| [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ::{ flag=KR }:: Республика Корея | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты |
+| [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай |
+| [osu!catch World Cup 2023](CWC/2023) | 13.05.2023 | 25.06.2023 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=IT }:: Италия |
 | [osu!catch World Cup 2024](CWC/2024) | 18.04.2024 | 30.06.2024 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PL }:: Польша |
 | [osu!catch World Cup 2025](CWC/2025) | 08.05.2025 | 20.07.2024 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
@@ -71,30 +71,30 @@
 
 | Название | Начало | Конец | ![Золотая корона][GCrown] | ![Серебряная корона][SCrown] | ![Бронзовая корона][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!mania World Cup 2014](MWC/2014) (4K) | 01.07.2014 | 14.09.2014 | ::{ flag=KR }:: Южная Корея | ::{ flag=PH }:: Филлипины | ::{ flag=MY }:: Малайзия |
-| [osu!mania World Cup 2014](MWC/2014) (7K) | 01.07.2014 | 14.09.2014 | ::{ flag=KR }:: Южная Корея | ::{ flag=TH }:: Тайланд | ::{ flag=MY }:: Малайзия |
-| [osu!mania 4K World Cup 2015](MWC/2015) | 13.07.2015 | 27.09.2015 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Соединённое Королевство |
-| [osu!mania 7K World Cup 2016](MWC/2016_7K) | 01.12.2015 | 14.02.2016 | ::{ flag=CN }:: Китай | ::{ flag=KR }:: Южная Корея | ::{ flag=MY }:: Малайзия |
-| [osu!mania 4K World Cup 2016](MWC/2016_4K) | 28.06.2016 | 11.09.2016 | ::{ flag=KR }:: Южная Корея | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты |
-| [osu!mania 7K World Cup 2017](MWC/2017_7K) | 12.12.2016 | 12.02.2017 | ::{ flag=KR }:: Южная Корея | ::{ flag=CN }:: Китай | ::{ flag=ID }:: Индонезия |
-| [osu!mania 4K World Cup 2017](MWC/2017_4K) | 10.07.2017 | 17.09.2017 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
-| [osu!mania 7K World Cup 2018](MWC/2018_7K) | 10.02.2018 | 18.03.2018 | ::{ flag=KR }:: Южная Корея | ::{ flag=MY }:: Малайзия | ::{ flag=CN }:: Китай |
-| [osu!mania 4K World Cup 2018](MWC/2018_4K) | 01.09.2018 | 07.10.2018 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
-| [osu!mania 7K World Cup 2019](MWC/2019_7K) | 09.02.2019 | 17.03.2019 | ::{ flag=KR }:: Южная Корея | ::{ flag=PH }:: Филлипины | ::{ flag=CN }:: Китай |
-| [osu!mania 4K World Cup 2019](MWC/2019_4K) | 21.09.2019 | 27.10.2019 | ::{ flag=KR }:: Южная Корея | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты |
-| [osu!mania 4K World Cup 2020](MWC/2020_4K) | 15.08.2020 | 20.09.2020 | ::{ flag=BR }:: Бразилия | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Южная Корея |
+| [osu!mania World Cup 2014](MWC/2014) (4K) | 01.07.2014 | 14.09.2014 | ::{ flag=KR }:: Республика Корея | ::{ flag=PH }:: Филлипины | ::{ flag=MY }:: Малайзия |
+| [osu!mania World Cup 2014](MWC/2014) (7K) | 01.07.2014 | 14.09.2014 | ::{ flag=KR }:: Республика Корея | ::{ flag=TH }:: Тайланд | ::{ flag=MY }:: Малайзия |
+| [osu!mania 4K World Cup 2015](MWC/2015) | 13.07.2015 | 27.09.2015 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Великобритания |
+| [osu!mania 7K World Cup 2016](MWC/2016_7K) | 01.12.2015 | 14.02.2016 | ::{ flag=CN }:: Китай | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия |
+| [osu!mania 4K World Cup 2016](MWC/2016_4K) | 28.06.2016 | 11.09.2016 | ::{ flag=KR }:: Республика Корея | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты |
+| [osu!mania 7K World Cup 2017](MWC/2017_7K) | 12.12.2016 | 12.02.2017 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=ID }:: Индонезия |
+| [osu!mania 4K World Cup 2017](MWC/2017_4K) | 10.07.2017 | 17.09.2017 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
+| [osu!mania 7K World Cup 2018](MWC/2018_7K) | 10.02.2018 | 18.03.2018 | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия | ::{ flag=CN }:: Китай |
+| [osu!mania 4K World Cup 2018](MWC/2018_4K) | 01.09.2018 | 07.10.2018 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
+| [osu!mania 7K World Cup 2019](MWC/2019_7K) | 09.02.2019 | 17.03.2019 | ::{ flag=KR }:: Республика Корея | ::{ flag=PH }:: Филлипины | ::{ flag=CN }:: Китай |
+| [osu!mania 4K World Cup 2019](MWC/2019_4K) | 21.09.2019 | 27.10.2019 | ::{ flag=KR }:: Республика Корея | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты |
+| [osu!mania 4K World Cup 2020](MWC/2020_4K) | 15.08.2020 | 20.09.2020 | ::{ flag=BR }:: Бразилия | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Республика Корея |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 31.07.2021 | 19.09.2021 | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты | ::{ flag=MY }:: Малайзия |
-| [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16.12.2021 | 20.02.2022 | ::{ flag=KR }:: Южная Корея | ::{ flag=CN }:: Китай | ::{ flag=MY }:: Малайзия |
-| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 | ::{ flag=KR }:: Южная Корея | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты |
-| [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15.12.2022 | 18.02.2023 | ::{ flag=PH }:: Филлипины | ::{ flag=KR }:: Южная Корея | ::{ flag=MY }:: Малайзия |
-| [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13.07.2023 | 24.09.2023 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Южная Корея | ::{ flag=ID }:: Индонезия |
-| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15.12.2023 | 25.02.2024 | ::{ flag=KR }:: Южная Корея | ::{ flag=MY }:: Малайзия | ::{ flag=PH }:: Филлипины |
+| [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16.12.2021 | 20.02.2022 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=MY }:: Малайзия |
+| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 | ::{ flag=KR }:: Республика Корея | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты |
+| [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15.12.2022 | 18.02.2023 | ::{ flag=PH }:: Филлипины | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия |
+| [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13.07.2023 | 24.09.2023 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=ID }:: Индонезия |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15.12.2023 | 25.02.2024 | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия | ::{ flag=PH }:: Филлипины |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18.07.2024 | 29.09.2024 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай | ::{ flag=TH }:: Тайланд |
-| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | ::{ flag=KR }:: Южная Корея | ::{ flag=CN }:: Китай | ::{ flag=PH }:: Филлипины |
+| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=PH }:: Филлипины |
 
-## Сообщество
+## Неофициальные турниры
 
-Неофициальные турниры/соревнования, организуемые сообществом.
+Турниры и соревнования, организуемые сообществом.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -113,21 +113,21 @@
 
 | Название | Начало | Конец | ![Золотая корона][GCrown] | ![Серебряная корона][SCrown] | ![Бронзовая корона][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 3 Digit World Cup | 15.03.2019 | 26.05.2019 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=RU }:: Российская Федерация |
+| 3 Digit World Cup | 15.03.2019 | 26.05.2019 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=RU }:: Россия |
 | 3 Digit World Cup 2020 | 16.03.2020 | 31.05.2020 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия | ::{ flag=TW }:: Тайвань |
 | [3 Digit World Cup 2021](3WC/2021) | 24.02.2021 | 09.05.2021 | ::{ flag=TW }:: Тайвань | ::{ flag=PL }:: Польша | ::{ flag=US }:: Соединённые Штаты |
 | 3 Digit World Cup 2022 | 20.02.2022 | 08.05.2022 | ::{ flag=HK }:: Гонконг | ::{ flag=CN }:: Китай | ::{ flag=ID }:: Индонезия |
-| 3 Digit World Cup 2023 | 17.02.2023 | 30.04.2023 | ::{ flag=KR }:: Южная Корея | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты |
-| 3 Digit World Cup 2024 | 25.12.2023 | 10.03.2024 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
-| [3 Digit World Cup 2025](3WC/2025) | 28.12.2024 | 16.03.2025 | ::{ flag=KR }:: Южная Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=DE }:: Германия |
+| 3 Digit World Cup 2023 | 17.02.2023 | 30.04.2023 | ::{ flag=KR }:: Республика Корея | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты |
+| 3 Digit World Cup 2024 | 25.12.2023 | 10.03.2024 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
+| [3 Digit World Cup 2025](3WC/2025) | 28.12.2024 | 16.03.2025 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=DE }:: Германия |
 
 #### 4 Digit World Cup
 
 | Название | Начало | Конец | ![Золотая корона][GCrown] | ![Серебряная корона][SCrown] | ![Бронзовая корона][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 4 Digit World Cup | 26.07.2018 | 21.10.2018 | ::{ flag=NL }:: Нидерланды | ::{ flag=RU }:: Российская Федерация | ::{ flag=HK }:: Гонконг |
-| 4 Digit World Cup 2019 | 24.05.2019 | 25.08.2019 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=GB }:: Соединённое Королевство | ::{ flag=RU }:: Российская Федерация |
-| 4 Digit World Cup 2020 | 28.06.2020 | 28.09.2020 | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты | ::{ flag=RU }:: Российская Федерация |
+| 4 Digit World Cup | 26.07.2018 | 21.10.2018 | ::{ flag=NL }:: Нидерланды | ::{ flag=RU }:: Россия | ::{ flag=HK }:: Гонконг |
+| 4 Digit World Cup 2019 | 24.05.2019 | 25.08.2019 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=GB }:: Великобритания | ::{ flag=RU }:: Россия |
+| 4 Digit World Cup 2020 | 28.06.2020 | 28.09.2020 | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты | ::{ flag=RU }:: Россия |
 | 4 Digit World Cup 2022 | 05.12.2021 | 06.03.2022 | ::{ flag=CN }:: Китай | ::{ flag=SG }:: Сингапур | ::{ flag=CA }:: Канада |
 | 4 Digit World Cup 2023 | 07.05.2023 | 23.07.2023 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CA }:: Канада | ::{ flag=TH }:: Тайланд |
 | [4 Digit World Cup 2024](4WC/2024) | 04.05.2024 | 16.06.2024 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CA }:: Канада | ::{ flag=CN }:: Китай |
@@ -196,7 +196,7 @@
 
 | Название | Начало | Конец | ![Золотая корона][GCrown] | ![Серебряная корона][SCrown] | ![Бронзовая корона][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Coffee Hispanic Tournament](CH/CHT_1) | 17.01.2020 | 17.02.2020 | Соединённые Штаты | Noveno Gaston | hallo y caspi |
+| [Coffee Hispanic Tournament](CH/CHT_1) | 17.01.2020 | 17.02.2020 | United States | Noveno Gaston | hallo y caspi |
 | [Coffee Hispanic Showdown](CH/CHS_1) | 06.08.2020 | 13.09.2020 | yotambien | carlos | catJAM |
 | [Coffee Hispanic: Mocha](CH/CHM_1) | 10.08.2021 | 10.10.2021 | ::{ flag=PE }:: [Arnold24x24](https://osu.ppy.sh/users/2291265) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) |
 
@@ -290,7 +290,7 @@
 
 | Название | Начало | Конец | ![Золотая корона][GCrown] | ![Серебряная корона][SCrown] | ![Бронзовая корона][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Old Map Fantasy World Cup](OMF/WC) | 14.08.2021 | 03.10.2021 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Южная Корея | ::{ flag=PL }:: Польша |
+| [Old Map Fantasy World Cup](OMF/WC) | 14.08.2021 | 03.10.2021 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=PL }:: Польша |
 
 #### osu! Amateur Solo Индонезия Showdown
 
@@ -553,7 +553,7 @@
 
 | Название | Начало | Конец | ![Золотая корона][GCrown] | ![Серебряная корона][SCrown] | ![Бронзовая корона][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [3 Digit Taiko World Cup](3TWC/1) | 09.01.2021 | 21.02.2021 | ::{ flag=CN }:: Китай | ::{ flag=KR }:: Южная Корея | ::{ flag=MY }:: Малайзия |
+| [3 Digit Taiko World Cup](3TWC/1) | 09.01.2021 | 21.02.2021 | ::{ flag=CN }:: Китай | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия |
 
 #### Asian-Oceanian Taiko Showdown
 
@@ -596,7 +596,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Intermediate Global Taiko Showdown 2018](GTS/IGTS_2018) | 04.08.2018 | 16.09.2018 | ::{ flag=MY }:: Малайзия | ::{ flag=NL }:: Нидерланды | ::{ flag=US }:: Соединённые Штаты |
 | [Intermediate Global Taiko Showdown 2019](GTS/IGTS_2019) | 08.06.2019 | 14.07.2019 | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты A | ::{ flag=CL }:: Чили |
-| [Advanced Global Taiko Showdown 2019](GTS/AGTS_2019) | 10.08.2019 | 14.09.2019 | ::{ flag=JP }:: Япония | ::{ flag=CA }:: Канада | ::{ flag=RU }:: Российская Федерация A |
+| [Advanced Global Taiko Showdown 2019](GTS/AGTS_2019) | 10.08.2019 | 14.09.2019 | ::{ flag=JP }:: Япония | ::{ flag=CA }:: Канада | ::{ flag=RU }:: Россия A |
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 28.09.2019 | 13.10.2019 | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451) |
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 02.11.2019 | 02.02.2020 | Азия (Глобальный), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) (Азия), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) (Европа), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) (Северная Америка), ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) (Океания/Юго-Восточная Азия), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) (Южная Америка) | Европа (Глобальный), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) (Азия), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) (Европа), ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) (Северная Америка), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) (Океания/Юго-Восточная Азия), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) (Южная Америка) | Северная Америка (Глобальный), ::{ flag=JP }:: [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Азия), ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) (Европа), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) (Северная Америка), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (Океания/Юго-Восточная Азия), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857) (Южная Америка) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 05.30.2020 | 18.07.2020 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) | ::{ flag=JP }:: [nananass](https://osu.ppy.sh/users/7231722) |
@@ -605,12 +605,12 @@
 | [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 05.12.2020 | 07.02.2021 | ::{ flag=HK }:: Гонконг | ::{ flag=CA }:: Канада | ::{ flag=RO }:: Румыния |
 | [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 06.02.2021 | 17.04.2021 | Азия | Европа | Северная Америка |
 | [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 15.05.2021 | 27.06.2021 | ::{ flag=US }:: Соединённые Штаты A | ::{ flag=SG }:: Сингапур A | ::{ flag=MY }:: Малайзия A |
-| [Rising Global Taiko Showdown 2021](GTS/RGTS_2021) | 12.06.2021 | 25.07.2021 | ::{ flag=KR }:: Южная Корея | ::{ flag=HK }:: Гонконг | ::{ flag=CN }:: Китай A |
+| [Rising Global Taiko Showdown 2021](GTS/RGTS_2021) | 12.06.2021 | 25.07.2021 | ::{ flag=KR }:: Республика Корея | ::{ flag=HK }:: Гонконг | ::{ flag=CN }:: Китай A |
 | [Intermediate Global Taiko Showdown 2021](GTS/IGTS_2021) | 24.07.2021 | 05.09.2021 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай | ::{ flag=SG }:: Сингапур |
 | [Expert Global Taiko Showdown 2021](GTS/EGTS_2021) | 02.10.2021 | 28.11.2021 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501) | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 08.01.2022 | 20.02.2022 | おまかせ | Ham | 皇-SUMERAGI- |
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ::{ flag=JP }:: Япония A | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты A |
-| [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28.05.2022 | 10.07.2022 | ::{ flag=MY }:: Малайзия | ::{ flag=CN }:: Китай A | ::{ flag=KR }:: Южная Корея |
+| [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28.05.2022 | 10.07.2022 | ::{ flag=MY }:: Малайзия | ::{ flag=CN }:: Китай A | ::{ flag=KR }:: Республика Корея |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 11.08.2022 | 09.10.2022 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
 | [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 10.10.2022 | 18.12.2022 | ::{ flag=JP }:: Япония | ::{ flag=CN }:: Китай | ::{ flag=DE }:: Германия A |
 | [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 01.08.2023 | 02.08.2023 | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818) |
@@ -836,7 +836,7 @@
 | [Jaye's One Key Event](JOKE/1) | 11.07.2020 | 23.08.2020 | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) | ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) | ::{ flag=BR }:: [Бразилия](https://osu.ppy.sh/users/3949268) |
 | [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 06.11.2021 | 19.12.2021 | ::{ flag=US }:: [[LS]Ham](https://osu.ppy.sh/users/17523947) | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) | ::{ flag=BR }:: [Бразилия](https://osu.ppy.sh/users/3949268) |
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 28.10.2023 | 17.12.2023 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
-| [One Key World Cup 2024](JOKE/1KWC_2024) | 04.05.2024 | 16.06.2024 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Соединённое Королевство | ::{ flag=AU }:: Австралия- |
+| [One Key World Cup 2024](JOKE/1KWC_2024) | 04.05.2024 | 16.06.2024 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Великобритания | ::{ flag=AU }:: Австралия- |
 
 #### Mania Beginner's Showdown
 
@@ -1015,7 +1015,7 @@
 ## См. также
 
 - [Список стран, участвовавших в турнирах osu!](Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (Клиент, используемый для трансляции турнира)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (клиент для трансляции турниров)
 
 [GCrown]: /wiki/shared/crown-gold.png "1 место"
 [SCrown]: /wiki/shared/crown-silver.png "2 место"
