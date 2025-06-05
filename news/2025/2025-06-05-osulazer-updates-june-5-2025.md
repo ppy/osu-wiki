@@ -8,7 +8,7 @@ Experts say this might be THE osu!(lazer) update of all time.
 
 ![](/wiki/shared/news/2025-06-05-osulazer-updates-june-5-2025/banner.jpg)
 
-You may have noticed osu!(lazer)-related news and YouTube uploads easing up — but don’t be fooled, the devs haven’t let off the gas for a moment. Alongside several smaller updates being pushed out in April, we're excited to showcase this major update!
+You may have noticed osu!(lazer)-related news and YouTube uploads easing up — but don't be fooled, the devs haven’t let off the gas for a moment. Alongside several smaller updates being pushed out in April, we're excited to showcase this major update!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/H_a5Cqv7Tok" frameborder="0" allowfullscreen></iframe>
@@ -63,7 +63,7 @@ You may have noticed osu!(lazer)-related news and YouTube uploads easing up — 
 
 ### Other
 
-- **A new "Tachyon" release stream has been added.** This is the equivalent of the "cutting edge" release stream from osu!(stable), but on osu!(lazer). With "Tachyon", you will be able to play on all pre-release versions of the game, and the devs are recommending you give it a try if you have been experiencing stutters on osu!(lazer).
+- **A new "Tachyon" release stream has been added.** This is the equivalent of the "cutting edge" release stream from osu!(stable), but on osu!(lazer). With "Tachyon", you will be able to play on pre-release versions of the game, and the devs are recommending you give the current one a try if you have been experiencing stutters on the "lazer" release stream.
 - **Plays with non-default mod configurations are now clearly displayed.** This means if a user set a score with the Classic mod, but disabled the "classic note lock" option, a new cog icon will appear on the top left of the mod icon. Hovering over the mod icon also gives more specific details.
 
 ![](/wiki/shared/news/2025-06-05-osulazer-updates-june-5-2025/non-default-mod-config.png)
