@@ -1,4 +1,6 @@
 ---
+outdated_since: b9df3013ed6661bb01dfbf1f499b46b680dab3e4
+outdated_translation: true
 no_native_review: true
 tags:
   - game client
