@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 7c0233d7bed62ea34b54f50cc108b9ee9f4c839b
+outdated_translation: true
 ---
 
 # Compression des fichiers
