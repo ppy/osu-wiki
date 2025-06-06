@@ -33,7 +33,14 @@ tags:
 *For the osu!stable version of this article, see: [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Double Time** mod increases the BPM of any beatmap by 150% as well as decreasing the length of the song by 33%. It also increases the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) or both at once according to the [game mode](/wiki/Game_mode).
+
+## Customisation
+
+![Double Time customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DT.png)
+
+- **Speed increase** (1.01x-2.00x, default: 1.50x): The speed at which the map is played.
+- **Adjust pitch** (default: disabled): Changes the audio frequency depending on the chosen speed. *Enabling this option doesn't make the mod unrankable.* (playing with the default speed will have the same audio effect as [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)))
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -34,7 +34,7 @@ The **Daycore** mod behaves exactly like [Half Time](/wiki/Gameplay/Game_modifie
 
 ## Customisation
 
-![Daycore customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DC.jpg)
+![Daycore customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DC.png)
 
 - **Speed decrease** (0.50x–0.99x, default 0.75x): The speed at which the map is played.
 
