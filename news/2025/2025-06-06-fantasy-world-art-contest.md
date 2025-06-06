@@ -37,7 +37,7 @@ A selection of the top-voted finalists will be **featured on the main menu** and
 
 ## Rules
 
-- **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu client should it win, and to use it in promotional material for both the game (osu!) and the contest (Springtime Showdown Art Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it's your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it.
+- **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu client should it win, and to use it in promotional material for both the game (osu!) and the contest (Fantasy World Art Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it's your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it.
 - **All entries MUST follow the contest theme and contain AT LEAST one of the osu! official or community mascots.** Otherwise, it's not an osu! contest, is it?
 - **All entries MUST be suitable for all-ages viewing.** Everyone from all age brackets deserve to enjoy our mascots, after all.
 - **SUBMIT ONLY YOUR OWN WORK. REDRAWING AND COMPOSITE WORKS ARE NOT ALLOWED.** Plagiarism sucks. Don't do it. Someone in the comments will call you out for it as has happened every other time someone's tried and they're going to do more damage to your reputation than us removing your entry from the voting will do. Use only your own work — brushes and the like are fine, but that's it! Don't redraw or trace someone else's work.
