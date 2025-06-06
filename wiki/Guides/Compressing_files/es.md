@@ -89,7 +89,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -vf scale=-1:720 -an -sn -
 
 En general, OGG (Vorbis) ofrece una mejor calidad que MP3 para una tasa de bits determinada.
 
-**Los [criterios de clasificación](/wiki/Ranking_criteria#audio) especifican que la tasa de bits media debe estar entre 192kbps y 128kbps.** Como referencia, las canciones de los [artistas destacados](/wiki/People/Featured_Artists) incluidas en las plantillas están codificadas con una tasa de bits constante de 192kbps.
+**Los [criterios de clasificación](/wiki/Ranking_criteria#audio) especifican que la tasa de bits media debe estar entre 192 kbps y 128 kbps para el formato MP3, y entre 208 kbps y 128 kbps para el formato OGG (Vorbis).** Como referencia, las canciones de los [artistas destacados](/wiki/People/Featured_Artists) incluidas en las plantillas están codificadas en MP3 con una tasa de bits constante de 192 kbps.
 
 ### Usar Audacity
 
@@ -106,8 +106,8 @@ Para empezar, descarga e instala [Audacity](https://www.audacityteam.org/), lueg
 ![Exportar como MP3](img/exportmenu-audacity-ES.png "Exportar como MP3")
 
 3. Cambia las opciones de exportación para comprimir tu archivo, dependiendo del formato seleccionado:
-   - Para MP3, usa `Valor predefinido` y selecciona `Medio, 145-185 kbps` para la calidad
-   - Para OGG (Vorbis), mantén el control deslizante de `Calidad` en `5`, que es el valor predeterminado
+   - Para MP3, cambia el modo de velocidad de bits a `Constante` y selecciona la calidad de `192 kbps`
+   - Para OGG (Vorbis), ajusta el control deslizante de `Calidad` a `6`, que fija la tasa de bits media en 192 kbps
 4. Selecciona la ubicación de destino y haz clic en `Guardar`. En la esquina inferior izquierda puedes introducir los metadatos del archivo de audio.
 
 ![Menú de los metadatos](img/metadatamenu-audacity-ES.png "Menú de los metadatos")
@@ -123,12 +123,12 @@ Después de instalar FFmpeg, abre un terminal y usa uno de los siguientes comand
 Para codificar en formato MP3, pega el siguiente comando en tu terminal y cambia estos valores según sea necesario:
 
 ```
-ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
+ffmpeg -i input -c:a libmp3lame -b:a 192k -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
 ```
 
 - `-i input`: Tu archivo fuente. Si el nombre del archivo contiene espacios, ponlo entre comillas dobles (`"`)
 - `-c:a libmp3lame`: Especifica que el audio debe codificarse usando el codificador LAME MP3
-- `-q:a 4`: Usa el mismo rango de tasa de bits variable que en el ejemplo de Audacity, **donde un número menor significa una mayor tasa de bits**. Si quieres una tasa de bits constante, usa, por ejemplo, `-b:a 128k` para una tasa constante de 128kbps
+- `-b:a 192k`: Establece la tasa de bits en 192 kbps constantes. Si quieres una tasa de bits variable, usa `-q:a 2` para una media de 192 kbps (un número más bajo significa una tasa de bits más alta)
 - `-vn -sn`: Elimina el vídeo y los subtítulos si están presentes
 - `-map_metadata -1 -map_chapters -1`: Elimina los metadatos y los capítulos si están presentes
 - `output.mp3`: Tu archivo de salida. Si el nombre del archivo contiene espacios, ponlo entre comillas dobles (`"`)
@@ -136,12 +136,12 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 Para codificar en formato OGG (Vorbis), pega el siguiente comando en tu terminal y cambia estos valores según sea necesario:
 
 ```
-ffmpeg -i input -c:a libvorbis -q:a 5 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
+ffmpeg -i input -c:a libvorbis -q:a 6 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
 ```
 
 - `-i input`: Tu archivo fuente. Si el nombre del archivo contiene espacios, ponlo entre comillas dobles (`"`)
 - `-c:a libvorbis`: Especifica que el audio debe codificarse usando el codificador libvorbis
-- `-q:a 5`: Usa el mismo rango de tasa de bits variable que en el ejemplo de Audacity, **donde un número más alto significa una mayor tasa de bits**. Si quieres una tasa de bits constante, usa, por ejemplo, `-b:a 128k` para una tasa constante de 128kbps
+- `-q:a 6`: Usa el mismo rango de tasa de bits variable que en el ejemplo de Audacity (donde un número más alto significa una mayor tasa de bits). Si quieres una tasa de bits constante, usa, por ejemplo, `-b:a 192k` para una tasa constante de 192 kbps
 - `-vn -sn`: Elimina el vídeo y los subtítulos si están presentes
 - `-map_metadata -1 -map_chapters -1`: Elimina los metadatos y los capítulos si están presentes
 - `output.ogg`: Tu archivo de salida. Si el nombre del archivo contiene espacios, ponlo entre comillas dobles (`"`)

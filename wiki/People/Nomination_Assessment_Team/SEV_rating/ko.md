@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 30adfc34244017104c315372f4c66246fde1b92e
+---
+
 # SEV 등급
 
 SEV는 [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) (*NAT*)에서 [노미네이션 초기화](/wiki/Beatmap_ranking_procedure#노미네이션-초기화)가 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators)(*BN*)의 평가와 얼마나 관련이 있는지 조사하기 위해 사용하는 측정 시스템으로, 투명성과 일관성을 모두 제공합니다. 이 측정은 두 가지의 값으로 나뉘어지며, *명확성/심각성*로 표시됩니다. 두 값은 0에서 2 사이의 범위로 정해지며, 직관적이고 사용하기 편한 시스템이라고 할 수 있습니다.
