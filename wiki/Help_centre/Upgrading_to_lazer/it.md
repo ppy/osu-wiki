@@ -1,3 +1,8 @@
+---
+outdated_since: b9df3013ed6661bb01dfbf1f499b46b680dab3e4
+outdated_translation: true
+---
+
 # Aggiornare a lazer
 
 osu!(lazer) è il prossimo grande aggiornamento al client di osu!. È il frutto di diversi anni di lavoro dietro le quinte per reimplementare osu!.
