@@ -60,11 +60,13 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Çince, Malayca, Kantonca, biraz Japonca | Mapping/modding topluluk moderasyonu |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | İtalyanca | Mapping/modding topluluk moderasyonu |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sırpça | Team leadership, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Felemenkçe, biraz Almanca | General moderation |
+| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | Çince | Sohbet moderasyonu, forum moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | Fransızca | Sohbet moderasyonu, forum moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Turnuva yönetimi |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Çince, Malayca | Sohbet moderasyonu |
@@ -89,6 +91,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Rusça | Sohbet moderasyonu |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Fince, biraz İsveççe | Sohbet moderasyonu |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portekizce, İspanyolca | Sohbet moderasyonu, turnuva yönetimi |
+| ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072) | İspanyolca | Sohbet moderasyonu |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Mapping/modding topluluk moderasyonu |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Almanca | Sohbet moderasyonu, forum moderasyonu |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonca, Çince | Turnuva yönetimi |
@@ -101,7 +104,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca | Sohbet moderasyonu |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Almanca, Sırpça | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Almanca | General moderation |
+| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca | Sohbet moderasyonu, forum moderasyonu |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korece, Japonca | Sohbet moderasyonu |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayca | Sohbet moderasyonu |
@@ -117,7 +120,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Endonezce, biraz Vietnamca | Sohbet moderasyonu, forum moderasyonu |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Çince | Sohbet moderasyonu |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korece | Mapping/modding topluluk moderasyonu |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Macarca | Sohbet moderasyonu |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça | Forum moderasyonu |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Fince | Sohbet moderasyonu |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Forum moderasyonu, sohbet moderasyonu |
@@ -125,9 +127,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Filipince | Sohbet moderasyonu |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tayca | Sohbet moderasyonu |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca | Teknik destek |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Felemenkçe | Sohbet moderasyonu |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Lehçe | Team leadership, sohbet moderasyonu, mapping/modding topluluk moderasyonu |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | İspanyolca | Sohbet moderasyonu |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Endonezce | Sohbet moderasyonu |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |

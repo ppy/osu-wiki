@@ -61,11 +61,13 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Tionghoa, Melayu, Kanton, sedikit Jepang | Moderasi komunitas mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Jerman | Moderasi chat |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italia | Moderasi komunitas mapping/modding |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbia | Team leadership, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderasi forum |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderasi chat, moderasi komunitas mapping/modding, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Belanda, sedikit Jerman | General moderation |
+| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | Tionghoa | Moderasi chat, moderasi forum, moderasi komunitas mapping/modding |
 | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | Perancis | Moderasi chat, moderasi forum, moderasi komunitas mapping/modding |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manajemen turnamen[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Tionghoa, Melayu | Moderasi chat |
@@ -90,6 +92,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Rusia | Moderasi chat |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Suomi, sedikit Swedia | Moderasi chat |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugis, Spanyol | Moderasi chat, manajemen turnamen |
+| ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072) | Spanyol | Moderasi chat |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Jerman | Moderasi komunitas mapping/modding |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Jerman | Moderasi chat, moderasi forum |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kanton, Tionghoa | Manajemen turnamen |
@@ -102,7 +105,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Perancis | Moderasi chat |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Jerman, Serbia | Moderasi chat, moderasi komunitas mapping/modding |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Jerman | General moderation |
+| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | Perancis | Moderasi chat, moderasi forum |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kanton, Tionghoa | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korea, Jepang | Moderasi chat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Melayu | Moderasi chat |
@@ -118,7 +121,6 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesia, sedikit Vietnam | Moderasi chat, moderasi forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Tionghoa | Moderasi chat |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korea | Moderasi komunitas mapping/modding |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Hungaria | Moderasi chat |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Jerman, Serbia | Moderasi forum |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Suomi | Moderasi chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderasi forum, moderasi chat |
@@ -126,9 +128,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Moderasi chat |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Thai | Moderasi chat |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol | Dukungan teknis |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Belanda | Moderasi chat |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polski | Team leadership, moderasi chat, moderasi komunitas mapping/modding |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Moderasi chat |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesia | Moderasi chat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polski | Moderasi chat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi chat |
