@@ -57,6 +57,6 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 Got all that? Time to lock in and head over to the [Fantasy World Art Contest listing](https://osu.ppy.sh/community/contests/249) as soon as you finish up your entry and drop it there. You may reupload your entry as many times as you need for any adjustments, but you've got **20 days** to do so before the doors close off forever (26 June 2025, 18:00 UTC), so don't brood over which line to re-colour for too long!
 
-Good luck with your quest, traveler!
+Good luck with your quest, traveller!
 
 —Hivie, RandomeLoL, & Walavouchey
