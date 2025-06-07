@@ -25,7 +25,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 #### Guidelines
 
 - **All [fruits](/wiki/Gameplay/Hit_object/Fruit) should represent a sound existing in the music.** This is usually a distinct sound but can also represent a continuous sound with an indistinguishable start or end.
-- **The last [fruit](/wiki/Gameplay/Hit_object/Fruit) of a [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** For example, if the song is using a straight beat, 1/4, 1/8 or 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used.
+- **The last [fruit](/wiki/Gameplay/Hit_object/Fruit) of a [slider](/wiki/Gameplay/Hit_object/Juice_stream) should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** For example, if the song is using a straight beat, 1/4, 1/8 or 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used.
 - **[Dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used when the destination of the dash or hyperdash is located near the left or right border of the playfield.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield (x:16 on the left and x:496 on the right).
 - **[Combos](/wiki/Beatmapping/Combo) should not reach unreasonable lengths.** This ensures the player’s view is not obstructed by the [fruits](/wiki/Gameplay/Hit_object/Fruit) stacked on the plate.
 - **[Overall difficulty](/wiki/Beatmap/Overall_difficulty) should have the same value as the [Approach rate](/wiki/Beatmap/Approach_rate).** This is just a standardised value, as Overall difficulty only affects the maximum score of a difficulty with [scoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch).
@@ -74,7 +74,7 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 #### Rules
 
 - **[Dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) of any kind are disallowed.**
-- **At least 250 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start and end of [bananas](/wiki/Gameplay/Hit_object/Banana).**
+- **At least 250 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start and end of [spinners](/wiki/Gameplay/Hit_object/Banana).**
 
 #### Guidelines
 
@@ -96,7 +96,7 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 - **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit) and [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop).**
 - **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must always be followed by a [walk](/wiki/Gameplay/Walk).**
 - **[Edge dashes](/wiki/Gameplay/Edge_dash) must not be used.**
-- **At least 250 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start and end of [bananas](/wiki/Gameplay/Hit_object/Banana).**
+- **At least 250 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start and end of [spinners](/wiki/Gameplay/Hit_object/Banana).**
 
 #### Guidelines
 
@@ -126,8 +126,8 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 - **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than four times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
 - **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) can be used up to two times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit), provided there isn't a direction change between them.**
 - **[Edge dashes](/wiki/Gameplay/Edge_dash) must not be used.**
-- **At least 125 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start of [bananas](/wiki/Gameplay/Hit_object/Banana).**
-- **At least 250 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the end of [bananas](/wiki/Gameplay/Hit_object/Banana).**
+- **At least 125 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start of [spinners](/wiki/Gameplay/Hit_object/Banana).**
+- **At least 250 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the end of [spinners](/wiki/Gameplay/Hit_object/Banana).**
 
 #### Guidelines
 
@@ -152,7 +152,7 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times within a slider.** The slider path must be simple and easy to follow.
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used in conjunction with any other hyperdashes.**
 - **[Hyperdashes](/wiki/Gameplay/Hyperdash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must not be used within a slider.**
-- **At least 125 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start and end of [bananas](/wiki/Gameplay/Hit_object/Banana).**
+- **At least 125 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start and end of [spinners](/wiki/Gameplay/Hit_object/Banana).**
 
 #### Guidelines
 
@@ -174,8 +174,8 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 
 #### Rules
 
-- **At least 62 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start of [bananas](/wiki/Gameplay/Hit_object/Banana).**
-- **At least 125 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the end of [bananas](/wiki/Gameplay/Hit_object/Banana).**
+- **At least 62 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the start of [spinners](/wiki/Gameplay/Hit_object/Banana).**
+- **At least 125 ms must be left between [fruits](/wiki/Gameplay/Hit_object/Fruit) and the end of [spinners](/wiki/Gameplay/Hit_object/Banana).**
 
 #### Guidelines
 
