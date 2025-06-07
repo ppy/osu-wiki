@@ -48,7 +48,7 @@ Die `ich!`-Seite könnte ein guter Platz sein für:
 
 - Banner, Kollaborationen und Infographiken, um das Profil aufzuhübschen
 - Einige Absätze oder Einträge, die Einblicke in das Leben des Spielers gewähren
-- Ein Schaufenster der beliebtesten Beatmaps, Mapper oder alles andere, das als wichtig erachtet wird
+- Eine Vorstellung der beliebtesten Beatmaps, Mapper oder alles andere, das als wichtig erachtet wird
 
 ### Profilbanner
 
@@ -72,7 +72,7 @@ Sobald osu!supporter ausläuft, bleibt die Farbwahl erhalten, kann aber nur zum 
 
 *Anmerkung: Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).*
 
-osu!supporter zu bekommen ist verbunden mit der Fähigkeit, den Benutzernamen beim ersten Mal kostenlos zu ändern, unter den [üblichen Bedingungen](/wiki/Help_centre/Account#name-changes).
+Mit osu!supporter darf der Benutzername gemäß den [geltenden Bedingungen](/wiki/Help_centre/Account#name-changes) beim ersten Mal kostenlos geändert werden.
 
 ### osu!direct
 
@@ -122,7 +122,7 @@ Für mehr Details, siehe [Skinning/Benutzeroberfläche § Hauptmenü](/wiki/Skin
 ![](img/beatmap-search-DE.png "Beatmap-Suchseite auf der Webseite, mit zwei neuen Filtern am unteren Ende")
 :::
 
-Unterstützer haben Zugang zu einem erweiterten Satz von [Beatmap-Suchfiltern](https://osu.ppy.sh/beatmapsets):
+Unterstützer haben Zugang zu weiteren [Beatmap-Suchfiltern](https://osu.ppy.sh/beatmapsets):
 
 - Beatmaps, die gespielt (oder nicht gespielt) wurden
 - Beatmaps, auf denen ein Score mit einer bestimmten [Note](/wiki/Gameplay/Grade) erreicht wurde
@@ -157,7 +157,7 @@ Der Empfänger wird nicht darüber informiert, wer ihm das Tag gab, aber beim Ve
 
 ### Bestätigung
 
-Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sektion `Neulich` im Profil sowohl des Schenkenden als auch des Beschenkten:
+Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sektion `Neulich` im Profil sowohl des Schenkenden als auch des Beschenkten auf:
 
 - `{Benutzername} hat osu! unterstützt - vielen Dank für deine Großzügigkeit!`, wenn es das erste Mal ist, dass der Nutzer osu!supporter erhält oder es einer anderen Person schenkt.
 - `{Benutzername} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Nutzer bereits vorher osu!supporter war oder osu!supporter verschenkt hat.
