@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: c1185e9b37c8a140323d91e11fdaf9e4b27e0464
----
-
 # 内容使用规范
 
 osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作品。因此，玩家需要确保自己已经被授权，标明这些作品的归属，才能在新的创作中，使用其他任何创作者的作品。
@@ -427,12 +422,16 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 
 #### 部分允许，有例外
 
+这一段最后更新于 2025 年 3 月 30 日。
+
 | 艺术家 |  | 可用状态 | 备注 |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | 在上传前请先通过 [email](mailto:hisaweb_info@yahoo.co.jp) 或 [Bandcamp](https://a-hisa.bandcamp.com/) 联系。 |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | 请勿使用含有 "execution_program" 标识的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
@@ -444,7 +443,6 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | 艺术家 | 可用状态 |
 | :-- | :-- |
 | 40mP | ![][false] |
-| ak+q | ![][false] |
 | DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |

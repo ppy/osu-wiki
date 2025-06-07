@@ -1,6 +1,6 @@
 ---
+outdated_since: b9df3013ed6661bb01dfbf1f499b46b680dab3e4
 outdated_translation: true
-outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
 ---
 
 # Aggiornare a lazer
@@ -87,6 +87,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Spettatore multiplayer | ![No][false] | ![Sì][true] |
 | Conto alla rovescia | ![Parziale][partial][^countdown-timers-stable] | ![Sì][true][^countdown-timers-lazer] |
 | Modalità di code | ![No][false] | ![Sì][true][^queue-modes] |
+| Multiplayer freestyle | ![No][false] | ![Yes][true][^freestyle] |
 | Comandi multiplayer | ![Sì][true] | ![No][false] |
 | Tag co-op | ![Sì][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Sì][true] |
@@ -346,6 +347,7 @@ Probabilmente stai pensando ad un altro gioco.
 [^countdown-timers-stable]: Impostare un conto alla rovescia usando un comando, senza avvio automatico.
 [^countdown-timers-lazer]: Imposta un conto alla rovescia dall'interfaccia utente del gioco per avviare automaticamente la partita.
 [^queue-modes]: Attiva per consentire a chiunque in una lobby di mettere in coda nuove beatmap, anche detto "host rotate".
+[^freestyle]: Attivabile nella selezione canzone per permettere ai giocatori di selezionare qualunque difficoltà della mappa attuale.
 [^difficulty-adjust]: Cambiare CS/AR/OD/HP di una beatmap direttamente dalla song select tramite la mod Difficulty Adjust.
 [^medals-lazer]: Alcune [medaglie Hush-Hush](/wiki/Medals#hush-hush) non sono ancora ottenibili.
 

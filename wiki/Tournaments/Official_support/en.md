@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on March 02, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on May 13, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -30,11 +30,11 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament must operate on a Round of 16 double-elimination or a Round of 32 single-elimination format at a minimum.
   - LAN tournaments must operate on a Round of 8 double-elimination or a Round of 16 single-elimination format at a minimum.
   - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
-  - Tournaments that feature a draft format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
+  - Tournaments that feature a draft or auction format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
     - The tournament is open rank.
     - The team size is 8 or more.
-    - Note: In tournaments with multiple divisions, this rule applies to only one open-rank division.
-  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
+    - Note: In global or continent-based draft and auction tournaments, this rule applies to a maximum of 2 open-rank divisions. For smaller-scale tournaments, this rule applies to only 1 open-rank division.
+  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should [submit a ticket](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://tcomm.hivie.tn/reports/create) as the very last content of the original post.
   - `https://tcomm.hivie.tn/reports/create`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
@@ -46,7 +46,8 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
-  - osu!mania: 40,000
+  - osu!mania 4K: 40,000
+  - osu!mania 7K: 5,000
   - This does not apply to open rank tournaments.
 - The tournament organisers do not collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions.
   - Email addresses may be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.

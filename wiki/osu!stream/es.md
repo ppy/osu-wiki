@@ -22,48 +22,47 @@ En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalment
 
 ![](img/Os-Devices.jpg "osu!stream en dispositivos iOS")
 
-### Método de la App Store de iOS (recomendado)
+### Método de la App Store (recomendado)
 
-**Asegúrate de que el dispositivo iOS pueda conectarse a internet (por Wi-Fi o 3G/4G).**
+*Nota: Asegúrate de que el dispositivo pueda conectarse a internet (por Wi-Fi o datos móviles).*
 
-- Entra en la «App Store» desde el dispositivo iOS
+- Entra a la «App Store» desde el dispositivo iOS o a la «Play Store» en Android
 - Busca osu!stream
 - Pulsa e instala osu!stream
-  - Si se te pide que introduzcas tu ID de Apple y tu contraseña, hazlo.
-- osu!stream puede ejecutarse una vez finalizada la descarga y la autoinstalación.
+  - Si se te pide que introduzcas los datos de tu cuenta, hazlo.
+- osu!stream puede ejecutarse una vez finalizada la descarga y la instalación.
   - Te recomendamos leer también la sección sobre [cómo añadir beatmaps](#cómo-añadir-beatmaps) para obtener el paquete de canciones gratuitas más reciente. La descarga actual solo contiene 2 canciones
 
-### Método por USB
+### Método por USB (legado, solo para iOS)
 
-**El dispositivo debe tener instalado [iTunes](https://www.apple.com/itunes/).**
+**Aviso: Para este método, [iTunes](https://www.apple.com/itunes/) debe estar instalado.**
 
 - Entra en [este enlace y descárgalo](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
   - Si se te solicita el ID de Apple, introduce el ID de Apple y la contraseña.
-- Conecta el dispositivo iOS al dispositivo que tenga osu!stream.
+- Conecta el dispositivo iOS al dispositivo en el que está instalado osu!stream.
 - Transfiere los archivos de osu!stream usando iTunes.
 - Desenchufa el dispositivo iOS y osu!stream podrá ejecutarse.
 
 ## Cómo añadir beatmaps
 
-**Asegúrate de que el dispositivo iOS pueda conectarse a internet (por Wi-Fi o 3G/4G).**
+**Nota: Asegúrate de que el dispositivo pueda conectarse a internet (por Wi-Fi o datos móviles).**
 
 - Abre osu!stream.
-- Pulsa el símbolo de osu! y debería dirigirte al menú principal (o al tutorial si es la primera vez)
+- Pulsa el símbolo de osu! para ir al menú principal (o al tutorial si es la primera vez que juegas)
 - Pulsa la barra «Store»
   - También puedes ir a «Play» y pulsar «Download more songs!»
 - Selecciona el paquete que desees.
 
 ## ¿Cuál es la diferencia?
 
-- **Solo se puede jugar en dispositivos iOS.** (por ahora)
 - Los beatmaps se hacen desde cero.
 - No se necesita una cuenta para descargar los paquetes de canciones.
-- Puedes integrar osu!stream con una cuenta de Twitter.
-- Las puntuaciones pueden enviarse de forma anónima al sitio web bajo el nombre de «Guest» (requiere conexión a internet).
+- osu!stream puede integrarse con una cuenta de Twitter en iOS.
+- Las puntuaciones pueden enviarse de forma anónima bajo el nombre de «Guest» (requiere conexión a internet).
 - El marcador circular se sustituye y se desplaza a la parte inferior con una pequeña línea de borde que se colorea dependiendo de la precisión de la jugada.
 - Las **pulsaciones promedio** se indican en la pantalla de resultados.
 - Las puntuaciones y las repeticiones antiguas no se pueden guardar.
-- No se puede cambiar la skin ni aplicar mods (por ahora).
+- No se puede cambiar la skin predeterminada y no hay mods disponibles.
 - Se pueden encontrar huevos de Pascua, pero no hay página de logros...
 
 ### Nuevo sistema de jugabilidad
@@ -91,8 +90,6 @@ En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalment
 
 ![](img/Os-HC.jpg "Círculo mantenido 1")
 
----
-
 ![](img/Os-HC2.jpg "Círculo mantenido 2")
 
 - Los círculos mantenidos requieren que el jugador mantenga los círculos hasta que estos «exploten».
@@ -102,23 +99,13 @@ En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalment
 
 ### Nuevos modos para cambiar la dificultad
 
----
-
 ![](img/Os-PlayEasy.png "Easy")
-
----
 
 ![](img/Os-PlayNormal.png "Normal")
 
----
-
 ![](img/Os-PlayHard.png "Hard")
 
----
-
 ![](img/Os-PlayExpert.jpg "Expert")
-
----
 
 #### Modo Easy
 
@@ -144,23 +131,13 @@ Ten en cuenta que el jugador **debe conseguir al menos un grado A (>80 % de pr
 
 El color del fondo es verde (Easy), azul (Normal) y rosa (Hard).
 
----
-
 ![](img/Os-SU.png "Stream Up!")
-
----
 
 ![](img/Os-SD.png "Stream Down!")
 
----
-
 ![](img/Os-Zero1.png "Salud en estado crítico")
 
----
-
 ![](img/Os-Zero2.png "Fin del juego")
-
----
 
 #### Modo Expert
 
@@ -174,55 +151,29 @@ El color del fondo es púrpura y las luces se oscurecerán dependiendo de la HP 
 
 ## Interfaz
 
----
-
 ![](img/Os-MM.png "Menú principal")
-
----
 
 ![](img/Os-SL.jpg "Lista de canciones")
 
----
-
 ![](img/Os-Store.jpg "Pantalla de la tienda")
-
----
 
 ![](img/Os-DS.png "Menú para la selección de estilos")
 
----
-
 ![](img/Os-SI.png "Información de la canción")
-
----
 
 ![](img/Os-PlayExpert.jpg "Un mapa en modo Expert")
 
----
-
 ![](img/Os-Pause.png "Menú de pausa")
-
----
 
 ![](img/Os-FM.png "Menú de muerte")
 
----
-
 ![](img/Os-SC.png "¡Nivel completado!")
-
----
 
 ![](img/Os-Grade.jpg "Pantalla de resultados")
 
----
-
 ![](img/Os-O1.png "Pantalla de opciones 1")
 
----
-
 ![](img/Os-O2.png "Pantalla de opciones 2")
-
----
 
 ## Sistema de puntuación
 
@@ -255,13 +206,13 @@ Además, cada inicio, final y repetición de un slider otorga 30 puntos y cada g
 
 ### Juicios de los objetos
 
-**Círculos**
+#### Círculos
 
 - Se otorga un 300, 100 o 50 de un círculo normal dependiendo de la precisión del golpe.
 - Se produce un fallo si un círculo fue pulsado demasiado pronto o no fue pulsado en absoluto.
   - Si se pulsa sobre él muy, muy pronto, el objeto temblará en su lugar. Técnicamente, no pasará nada, a menos que visualmente se sepa que fue pulsado demasiado pronto.
 
-**Círculos mantenidos**
+#### Círculos mantenidos
 
 - El juicio de los círculos mantenidos depende de la pulsación inicial y del tiempo que se mantengan antes de explotar.
   - 300 si se hace perfectamente.
@@ -270,7 +221,7 @@ Además, cada inicio, final y repetición de un slider otorga 30 puntos y cada g
   - 30 por cada explosión.
   - El multiplicador se reinicia si los círculos no se mantienen correctamente y se otorga un Miss si no se mantienen en absoluto.
 
-**Sliders**
+#### Sliders
 
 - **El juicio de los sliders depende de la precisión de la pulsación inicial**.
 - Los sliders constan de marcas, que incluyen los puntos iniciales, finales y de repetición del mismo.
@@ -280,7 +231,7 @@ Además, cada inicio, final y repetición de un slider otorga 30 puntos y cada g
 - **Hacer clic en un slider demasiado pronto** no provocará un fallo, pero **restablecerá el multiplicador de puntuación a 0**.
 - Un fallo si el slider no se mantuvo en absoluto.
 
-**Spinners**
+#### Spinners
 
 - Para un spinner, un 300, 100 o 50 dependiendo del número de giros realizados en comparación con la duración del spinner.
 - Un fallo si no puede llenar el medidor que se muestra en ambos lados del spinner.
@@ -314,12 +265,14 @@ Lo siguiente no aumentará ni restablecerá el multiplicador de la puntuación:
 
 **Grados normales**
 
-- SS = 100 % de precisión
-- S = Más del 90 % de precisión
-- A = Más del 80 % de precisión
-- B = Más del 70 % de precisión
-- C = Más del 60 % de precisión
-- D = Todo lo demás.
+| Grado | Condición |
+| :-: | :-- |
+| SS | 100 % de precisión |
+| S | Más del 90 % de precisión |
+| A | Más del 80 % de precisión |
+| B | Más del 70 % de precisión |
+| C | Más del 60 % de precisión |
+| D | Todo lo demás |
 
 ### Medidor de vida
 
