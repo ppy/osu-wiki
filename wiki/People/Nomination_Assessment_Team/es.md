@@ -132,8 +132,9 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Sueco |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tailandés |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finés |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |

@@ -82,11 +82,13 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinois, malais, cantonais, un peu de japonais | Modération de la communauté modding/mapping |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Allemand | Modération du tchat |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italien | Modération de la communauté modding/mapping |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbe | Direction d'équipe, modération générale |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Modération du forum |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Modération du tchat, modération de la communauté modding/mapping, modération générale |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Néerlandais, un peu de allemand | Modération générale |
+| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | Chinois | Modération du tchat, modération du forum, modération de la communauté modding/mapping |
 | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | Français | Modération du tchat, modération du forum, modération de la communauté modding/mapping |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manager des tournois[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinois, malais | Modération du tchat |
@@ -111,6 +113,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russe | Modération du tchat |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Finnois, un peu de suédois | Modération du tchat |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugais, espagnol | Modération du tchat, manager des tournois |
+| ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072) | Espagnol | Modération du tchat |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Allemand | Modération de la communauté modding/mapping |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Allemand | Modération du tchat, modération du forum |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonais, chinois | Manager des tournois[^task-mangomizer] |
@@ -123,7 +126,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Français | Modération du tchat |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, serbe | Modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Allemand | Modération générale |
+| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | Français | Modération du tchat, modération du forum |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, chinois | Modération générale |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coréen, japonais | Modération du tchat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malais | Modération du tchat |
@@ -139,7 +142,6 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonésien, un peu de vietnamien | Modération du tchat, modération du forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du tchat |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coréen | Modération de la communauté modding/mapping |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Hongrois | Modération du tchat |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Allemand, serbe | Modération du forum |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnois | Modération du tchat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Modération du forum, modération du tchat |
@@ -147,9 +149,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Modération du tchat |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Thaï | Modération du tchat |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol | Support technique |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Néerlandais | Modération du tchat |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polonais | Direction d'équipe, modération du tchat, modération de la communauté modding/mapping |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Espagnol | Modération du tchat |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonésien | Modération du tchat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polonais | Modération du tchat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Modération du tchat |
