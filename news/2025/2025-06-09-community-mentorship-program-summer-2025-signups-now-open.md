@@ -63,7 +63,7 @@ You can find more information on these mentors in their [detailed overview](http
 | Mentor     | Timezone |
 | :-- | :-- |
 | ::{ flag=DE }:: [Broadsword](https://osu.ppy.sh/users/11357694) | UTC+2    |
-| ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/6485263)       | UTC+2    |
+| ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689)       | UTC+2    |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1_bMj04v4kUhdBd_JS6yiex9pBSFcxh_Uunn--n7Ugt8/edit) and apply to them [here](https://forms.gle/unAie67mgosQK6vE7).
 
@@ -85,15 +85,15 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879)     | osu!      | UTC-8    |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410)   | osu!      | UTC-7    |
 | ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | osu!      | UTC-4    |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/6485263)       | osu!      | UTC+2    |
-| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/6485263)    | osu!      | UTC+3    |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)        | osu!      | UTC+2    |
+| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)    | osu!      | UTC+3    |
 | ::{ flag=TH }:: [Electoz](osu.ppy.sh/users/6485263)    | osu!      | UTC+7    |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/6485263)  | osu!catch | UTC+9    |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598)  | osu!catch | UTC+9    |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)      | osu!mania | UTC-4    |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534)    | osu!mania | UTC+8    |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418)   | osu!mania | UTC+9    |
-| ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/6485263)         | osu!taiko | UTC+2    |
-| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/6485263)  | osu!taiko | UTC+3    |
+| ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689)         | osu!taiko | UTC+2    |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226)  | osu!taiko | UTC+3    |
 
 For modding, each game mode has their separate overview: 
 - [osu! Mentors](https://docs.google.com/spreadsheets/d/1hXMTAFDdhjpQP72WyfDkjOnZECf6DO_Ba5sxjpowUKw/edit?gid=2064960339#gid=2064960339)
