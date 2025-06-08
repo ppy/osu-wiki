@@ -8,7 +8,7 @@ tags:
 
 ![MOE 2023 logo](img/logo.png)
 
-**Moscow osu! Event 2023** (***MOE 2023***) was the osu! festival, held on July 29-30, 2023 at **Phystechpark, Moscow, Russian Federation**, gathering more than 250 people offline, it was the first instalment of Moscow osu! Event.
+**Moscow osu! Event 2023** (***MOE 2023***) was the first instalment of Moscow osu! Event. It was held on July 29-30, 2023 at **Phystechpark, Moscow, Russian Federation**, gathering more than 250 people offline.
 
 ## Links
 
@@ -50,7 +50,7 @@ Group photo of attendees ([Reddit](https://www.reddit.com/r/osugame/comments/15f
 | :-- | :-- |
 | Opening speech. Event opening. | 11:00 - 12:00 |
 | Round of 16 matches: ::{ flag=RU }:: [temka na](https://osu.ppy.sh/users/10504596) vs. ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263); ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152) vs. ::{ flag=RU }:: [Orenburg](https://osu.ppy.sh/users/6215032) | 12:00 - 13:30 |
-| Panel discussion - Mapping | 13:30 - 14:30 |
+| Panel discussion: Mapping | 13:30 - 14:30 |
 | Round of 16 matches: ::{ flag=RU }:: [Arclyte](https://osu.ppy.sh/users/6585939) vs. ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285); ::{ flag=RU }:: [MrFuture](https://osu.ppy.sh/users/5724445) vs. ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) | 14:30 - 16:00 |
 | Game activity: osu! Arena | 16:00 - 16:30 |
 | Round of 16 matches: ::{ flag=RU }:: [DaHuJka](https://osu.ppy.sh/users/6830745) vs. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867); ::{ flag=RU }:: [SL1PER](https://osu.ppy.sh/users/10199538) vs. ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) | 16:30 - 18:00 |
@@ -65,7 +65,7 @@ Group photo of attendees ([Reddit](https://www.reddit.com/r/osugame/comments/15f
 | :-- | :-- |
 | Opening speech. Start of the second day. | 11:00 - 11:30 |
 | Quarterfinal matches: ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) vs. ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152); ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) vs. ::{ flag=RU }:: [Vitya1437](https://osu.ppy.sh/users/4346274) | 11:30 - 13:00 |
-| Panel discussion: osu! History | 13:00 - 14:00 |
+| Panel discussion: osu! history | 13:00 - 14:00 |
 | Quarterfinal matches: ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) vs. ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285); ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) vs. ::{ flag=RU }:: [-Din-](https://osu.ppy.sh/users/7972980) | 14:00 - 15:30 |
 | Game activity: osu! Quiz | 15:30 - 16:30 |
 | Semifinal matches: ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152) vs. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867); ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) vs. ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) | 16:30 - 18:00 |
