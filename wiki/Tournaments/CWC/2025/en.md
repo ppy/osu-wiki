@@ -191,7 +191,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1wlJknIoI8rvwVT0etL82u5u4kbJ-Ao05G3yLquCGm_E?rm=minimal).\
 [View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2480836532?t=0h4m13s)
 
-| Seed | Country | %MAX[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] | Lobby link |
+| Seed | Country | %MAX[^qualifiers-seeding] | Average score[^qualifiers-tiebreaker] | Lobby link |
 | :-: | :-- | --: | --: | --: |
 | #1 | ::{ flag=US }:: United States | 8.913 | 2,944,523 | [118335950](https://osu.ppy.sh/community/matches/118335950) |
 | #2 | ::{ flag=AR }:: Argentina | 8.870 | 2,929,324 | [118327218](https://osu.ppy.sh/community/matches/118327218) |
