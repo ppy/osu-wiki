@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4726aee80ebfa659ad7552ec1a6db04c51331c75
 ---
 
 # Báo cáo lạm dụng
@@ -74,7 +76,7 @@ Chúng tôi sẽ xem xét vấn đề ngay khi có thể.
 
 Gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) với tất cả thông tin bạn biết và càng nhiều bằng chứng càng tốt.
 
-Nếu bạn không có bằng chứng nhưng chỉ có câu chuyện hoặc tin đồn mà bạn tin là đủ nghiêm trọng để hành động, vui lòng gửi email cho chúng tôi bất kỳ. Chúng tôi rất nghiêm túc với những khiếu nại như thế này và sẽ xem xét kỹ lưỡng mọi báo cáo.
+Nếu bạn không có bằng chứng nhưng chỉ có câu chuyện hoặc tin đồn mà bạn tin là đủ nghiêm trọng để hành động, vui lòng gửi bất kỳ email nào đến cho chúng tôi. Chúng tôi rất nghiêm túc với những khiếu nại như thế này và sẽ xem xét kỹ lưỡng mọi báo cáo.
 
 ## Email của tôi đã bị bỏ qua!
 

@@ -53,7 +53,7 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 
 ## Benennung von Schwierigkeitsgraden von anderen Spielen
 
-Beatmapsets von Songs, die von anderen Rhythmusspielen stammen, übernehmen oft das Benennungsschema des Spiels. Die Verwendung dieser Namen ist für jeden Song akzeptabel. Einige der üblichen Benennungsschemata, die ihren Weg zu osu! gefunden haben, werden hier aufgelistet:
+Beatmapsets von Songs, die von anderen Spielen stammen, übernehmen oft das Benennungsschema des Spiels. Die Verwendung dieser Namen ist für jeden Song akzeptabel. Einige der üblichen Benennungsschemata, die ihren Weg zu osu! gefunden haben, werden hier aufgelistet:
 
 ### Beatmania IIDX
 

@@ -92,7 +92,7 @@ Haz tu parte: [Cómo y en qué ayudar](/wiki/Community/How_you_can_help!) • [R
 </div>
 <div class="wiki-main-page-panel">
 
-# Comunidad y proyectos
+# [Comunidad](/wiki/Community) y [proyectos](/wiki/Community/Projects)
 
 La interacción social es una de las principales cosas que impulsan a los jugadores de osu! en todo el mundo. ¡Explora las actividades y concursos, ponte en contacto con otros, o ayuda a organizar el próximo gran evento!
 
