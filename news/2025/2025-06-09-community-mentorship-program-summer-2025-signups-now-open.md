@@ -87,7 +87,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | osu!      | UTC-4    |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)        | osu!      | UTC+2    |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)    | osu!      | UTC+3    |
-| ::{ flag=TH }:: [Electoz](osu.ppy.sh/users/6485263)    | osu!      | UTC+7    |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263)    | osu!      | UTC+7    |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598)  | osu!catch | UTC+9    |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)      | osu!mania | UTC-4    |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534)    | osu!mania | UTC+8    |
