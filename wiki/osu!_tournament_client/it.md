@@ -15,7 +15,7 @@ Aprendo l'osu! tournament client, vedrai questa schermata di configurazione:
 ![osu! tournament client setup screen](img/setup-screen.png)
 
 - Assicurati che la `Current IPC source` corrisponda al percorso dell'istanza di osu!tourney che si intende utilizzare.
-- Accedi a osu!(lazer) cliccando su `Change sign-in`.
+- Accedi a osu!(lazer) cliccando su `Change Login`.
 - Imposta il set di regole corretto utilizzando il menu a discesa.
 - Modifica l'altezza in modo che corrisponda a `Height` impostata nel file `tournament.cfg` di osu!tourney.
 
@@ -59,10 +59,10 @@ Nota: il client decodifica i file video utilizzando la decodifica software, pert
 I file devono rispettare le seguenti specifiche:
 
 - Rapporto d'aspetto 16:9, ad esempio 1280x720 o 1920x1080
-- Estensione del file `mp4`, `m4v` o `avi
+- Estensione del file `mp4`, `m4v` o `avi`
 - Codec Video: H.264, Codec Audio: nessuno
 
-I file video devono essere collocati in `<il tuo torneo>/Video` e sono necessari nomi specifici per il corretto funzionamento.
+I file video devono essere collocati in `<il tuo torneo>/Videos` e sono necessari nomi specifici per il corretto funzionamento.
 
 | Scena | File |
 | :-- | :-- |
