@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: sugosugiii"
-date: 2025-06-07 18:00:00 +0000
+date: 2025-06-08 08:00:00 +0000
 ---
 
 Whether you're playing a new tournament or just scrolling through osu!'s [bespoke music list](/wiki/Community/Bespoke_music), you're probably more-than-familiar with **sugosugiii**, who's back with a new batch of music!
@@ -16,7 +16,7 @@ Throughout the last few months, **sugosugiii** released a new album, another EP,
 
 Check out [the listing](https://osu.ppy.sh/beatmaps/artists/442) and pay extra attention towards anything with this fancy **NEW** label:
 
-![](/wiki/shared/news/2025-06-07-featured-artist-track-updates-sugosugiii/new-sugosugiii.png)
+![](/wiki/shared/news/2025-06-08-featured-artist-track-updates-sugosugiii/new-sugosugiii.png)
 
 Not sure how to start your next map? These might give you some inspiration:
 
