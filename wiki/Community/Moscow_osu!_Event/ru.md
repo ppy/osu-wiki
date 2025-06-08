@@ -12,7 +12,7 @@
 
 :::
 
-**Moscow osu! Event** (**MOE**) — ежегодный фестиваль osu!, проводимый в России. Организаторами выступают ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/users/10079847) и ::{ flag=RU }:: [InditaiX](https://osu.ppy.sh/users/8303943). На мероприятии проводятся турниры по всем [игровым режимам](/wiki/Game_mode) для участников из СНГ-сообщества. Гостям доступны игровые компьютеры и BYOC-зона. Также работают тематические и сувенирные стенды.
+**Moscow osu! Event** (**MOE**) — ежегодный фестиваль osu!, проводимый в России. Организаторами выступают ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/users/10079847) и ::{ flag=RU }:: [InditaiX](https://osu.ppy.sh/users/8303943). На мероприятии проводятся турниры по всем [игровым режимам](/wiki/Game_mode) для участников из СНГ-сообщества. Гостям доступны игровые компьютеры и BYOC-зона[^byoc]. Также работают тематические и сувенирные стенды.
 
 ## Итерации
 
@@ -29,3 +29,7 @@
 Мероприятие получило поддержку среди различных спонсоров, предоставивших призы, оборудование и сувениры для участников и гостей. Так, например, производитель планшетов [Parblo](https://www.parblo.com/) предоставил возможность опробовать свои продукты в конкурсе рисунков, а на стенде [play-osu.ru](https://play-osu.ru) были доступны различные настольные игры и мини-турниры по мобильным ритм-играм, таким как [Arcaea](https://arcaea.lowiro.com/en) и [Project SEKAI: Colorful Stage](https://www.colorfulstage.com/).
 
 В 2023 году мероприятие посетило более 250 человек, а в 2024 году — уже 450. На MOE приезжают участники [сообщества osu!](/wiki/Community) со всей России и стран ближнего зарубежья.
+
+## Примечания
+
+[^byoc]: "Bring your own computer"
