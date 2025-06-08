@@ -160,10 +160,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
   2. [Mili - A Turtle's Heart (ZiRoX) \[Timid\]](https://osu.ppy.sh/beatmapsets/2384642#fruits/5156333)
   3. [Kinoshita - Norowareta Sei / Shukufuku Sareta Sei (the confusion) (yuinn) \[Rain on July 20th\]](https://osu.ppy.sh/beatmapsets/2384641#fruits/5156332)
 - Mixed Mod
-  1. [Function Phantom - Euclid (Ascendance) \[Spec's Overdose (CWC edit)\] *(temporary link)*](https://leoflt.com/s/TZEsa)
+  1. [Function Phantom - Euclid (autofanboy) \[Spec's Overdose (CWC edit)\]](https://osu.ppy.sh/beatmapsets/2384644#fruits/5156336)
   2. [O2i3 - Kato (autofanboy, Yoshi\_green) \[Yoshi & AFB's Feline Territory\]](https://osu.ppy.sh/beatmapsets/2384646#fruits/5156338)
 - Tiebreaker
-  1. **[DM DOKURO - No Hints Here! (Bunnrei) \[Yaheehy!\] *(temporary link)*](https://leoflt.com/s/lNPpg)**
+  1. **[DM DOKURO - No Hints Here! (Bunnrei) \[Yaheehy!\]](https://osu.ppy.sh/beatmapsets/2384656#fruits/5156354)**
 
 ### Qualifiers
 
