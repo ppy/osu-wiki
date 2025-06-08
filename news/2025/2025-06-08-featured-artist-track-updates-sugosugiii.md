@@ -6,7 +6,7 @@ date: 2025-06-08 08:00:00 +0000
 
 Whether you're playing a new tournament or just scrolling through osu!'s [bespoke music list](/wiki/Community/Bespoke_music), you're probably more-than-familiar with **sugosugiii**, who's back with a new batch of music!
 
-![](https://assets.ppy.sh/artists/371/header.jpg)
+![](https://assets.ppy.sh/artists/442/header.jpg)
 
 [**sugosugiii**](https://osu.ppy.sh/beatmaps/artists/442) has been one of osu!'s Featured Artists [for the last year](https://osu.ppy.sh/home/news/2024-10-20-new-featured-artist-sugosugiii). While some people might take a break after achieving their goals, **sugosugiii**'s music making momentum shows no signs of stopping.
 
