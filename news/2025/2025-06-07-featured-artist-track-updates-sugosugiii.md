@@ -28,7 +28,7 @@ Not sure how to start your next map? These might give you some inspiration:
 
 ### [sugosugiii - Zyphorath Quixalune](https://assets.ppy.sh/artists/442/Zyphorath%20Quixalune/sugosugiii%20-%20Zyphorath%20Quixalune.osz)
 
-Try out [the *3 Digit World Cup* Grand Finals Tiebreaker](https://osu.ppy.sh/beatmapsets/2337098) mapped by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654)!
+Try out [the *3 Digit World Cup* Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2337098) mapped by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Zyphorath%20Quixalune/sugosugiii%20-%20Zyphorath%20Quixalune.mp3">
@@ -36,7 +36,7 @@ Try out [the *3 Digit World Cup* Grand Finals Tiebreaker](https://osu.ppy.sh/bea
 
 ### [sugosugiii - Achromatism Entangle](https://assets.ppy.sh/artists/442/Achromatism%20Entangle/sugosugiii%20-%20Achromatism%20Entangle.osz)
 
-Or try [the Semifinals Tiebreaker from *VNMC2024*](https://osu.ppy.sh/beatmapsets/2226716) mapped by [Micleak](https://osu.ppy.sh/users/16140674), [Lott](https://osu.ppy.sh/users/13821222), [ERA Aracium](https://osu.ppy.sh/users/15882740), [V1do-](https://osu.ppy.sh/users/17527968), and [Polarin](https://osu.ppy.sh/users/15104680)!
+Or try [the Semifinals tiebreaker from *VNMC2024*](https://osu.ppy.sh/beatmapsets/2226716) mapped by [Micleak](https://osu.ppy.sh/users/16140674), [Lott](https://osu.ppy.sh/users/13821222), [ERA Aracium](https://osu.ppy.sh/users/15882740), [V1do-](https://osu.ppy.sh/users/17527968), and [Polarin](https://osu.ppy.sh/users/15104680)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Achromatism%20Entangle/sugosugiii%20-%20Achromatism%20Entangle.mp3">
