@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
----
-
 # osu! tournament client
 
 L'**osu! tournament client** è il client ufficiale che sovrappone a [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) scene e informazioni supplementari relative a un torneo di osu! durante una live stream.
@@ -71,11 +66,12 @@ I file video devono essere collocati in `<il tuo torneo>/Video` e sono necessari
 
 | Scena | File |
 | :-- | :-- |
-| Schedule | `schedule` |
-| TeamIntro | `teamintro` |
-| Seeding | `seeding` |
+| Calendario | `schedule` |
+| Introduzione delle squadre | `teamintro` |
+| Classificazione | `seeding` |
 | MapPool | `mappool` |
 | Gameplay | `gameplay` |
-| Win | `teamwin-red`, `teamwin-blue` |
-| Drawings | `main` |
-| Showcase | `showcase` |
+| Vittoria | `teamwin-red`, `teamwin-blue` |
+| Sorteggi | `main` |
+| Presentazione | `showcase` |
+| Tabellone del torneo | `ladder` |
