@@ -101,7 +101,7 @@ For modding, each game mode has their separate overview:
 - [osu!taiko Mentors](https://docs.google.com/spreadsheets/d/1cjhM_wRE-BmH5v1iVF_uP1Jp6uLNamS7aCnjAQmEQb4/edit?gid=2064960339#gid=2064960339)
 - [osu!catch Mentors](https://docs.google.com/spreadsheets/d/1Ac7_geRabvpRb60dxeLWYhIYzj9D_aDNzw2P8ZlhJ08/edit?gid=2064960339#gid=2064960339)
 
-You can apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwaUWRPZ_AeP_bMr3GNsWMy62MpVwHQfyPtQfeSxXw/viewform)
+You can apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwaUWRPZ_AeP_bMr3GNsWMy62MpVwHQfyPtQfeSxXw/viewform).
 
 ### Storyboarding
 
