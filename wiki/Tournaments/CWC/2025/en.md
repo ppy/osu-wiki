@@ -109,7 +109,61 @@ The osu!catch World Cup 2025 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a8df801dc4c99f192694621928b231).
 
+## Match schedule: Round of 32
+
+### Saturday, 14 June 2025
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Japan ::{ flag=JP }:: | ::{ flag=TR }:: Türkiye | [Jun 14 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T100000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
+| Germany ::{ flag=DE }:: | ::{ flag=SG }:: Singapore | [Jun 14 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T120000&p1=1440&p2=37&p3=236) | [osulive](https://twitch.tv/osulive) |
+| France ::{ flag=FR }:: | ::{ flag=DK }:: Denmark | [Jun 14 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T140000&p1=1440&p2=195&p3=69) | [osulive](https://twitch.tv/osulive) |
+| Italy ::{ flag=IT }:: | ::{ flag=IS }:: Iceland | [Jun 14 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T150000&p1=1440&p2=215) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=ES }:: Spain | [Jun 14 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T160000&p1=1440&p2=232&p3=141) | [osulive](https://twitch.tv/osulive) |
+| Sweden ::{ flag=SE }:: | ::{ flag=PE }:: Peru | [Jun 14 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T170000&p1=1440&p2=239&p3=131) | [osulive](https://twitch.tv/osulive) |
+
+### Sunday, 15 June 2025
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Canada ::{ flag=CA }:: | ::{ flag=TW }:: Taiwan | [Jun 15 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T040000&p1=1440&p2=188&p3=241) | [osulive](https://twitch.tv/osulive) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=AU }:: Australia | [Jun 15 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T100000&p1=1440&p2=136&p3=57) | [osulive](https://twitch.tv/osulive) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=VN }:: Vietnam | [Jun 15 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T110000&p1=1440&p2=108&p3=95) | [osulive](https://twitch.tv/osulive) |
+| Poland ::{ flag=PL }:: | ::{ flag=HK }:: Hong Kong | [Jun 15 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T120000&p1=1440&p2=262&p3=102) | [osulive](https://twitch.tv/osulive) |
+| Belgium ::{ flag=BE }:: | ::{ flag=CN }:: China | [Jun 15 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T130000&p1=1440&p2=48&p3=33) | [osulive](https://twitch.tv/osulive) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=NO }:: Norway | [Jun 15 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T140000&p1=1440&p2=166&p3=187) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Jun 15 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T150000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) |
+| Finland ::{ flag=FI }:: | ::{ flag=BR }:: Brazil | [Jun 15 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T160000&p1=1440&p2=101&p3=45) | [osulive](https://twitch.tv/osulive) |
+| Argentina ::{ flag=AR }:: | ::{ flag=IL }:: Israel | [Jun 15 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T170000&p1=1440&p2=51&p3=110) | [osulive](https://twitch.tv/osulive) |
+| Mexico ::{ flag=MX }:: | ::{ flag=CO }:: Colombia | [Jun 15 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T180000&p1=1440&p2=155&p3=41) | [osulive](https://twitch.tv/osulive) |
+| Round of 16 | mappool showcase | [Jun 15 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+
 ## Mappools
+
+### Round of 32
+
+[View the showcase VOD here](https://www.twitch.tv/videos/2480836532?t=1h4m23s)
+
+- No Mod
+  1. [ELFENSJoN - LUNATIC MIRAGE (4rcheR-) \[OVERDOSE (CWC VER.)\] *(temporary link)*](https://leoflt.com/s/YHnIz)
+  2. [WangleLine - Island of Orchids (Malai) \[Phantasmagoria\]](https://osu.ppy.sh/beatmapsets/2384624#fruits/5156307)
+  3. [rae - TRANQUILITY RESOLVE (Jack Frost) \[STAY CALM\]](https://osu.ppy.sh/beatmapsets/2384639#fruits/5156330)
+  4. [Ryokuoushoku Shakai - Hana ni Natte (autofanboy) \[captin's Extra (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2384633#fruits/5156317)
+- Hidden
+  1. [solfa feat. Chata - sing a song! (-Luminate) \[Delightful\]](https://osu.ppy.sh/beatmapsets/2384632#fruits/5156316)
+  2. [Falcom Sound Team jdk - Battle Junction -1209- (Des9, ZiRoX) \[Play Trails\]](https://osu.ppy.sh/beatmapsets/2384629#fruits/5156313)
+- Hard Rock
+  1. [Traktion - Mission ASCII (Yoshi\_green) \[10-year Operation\]](https://osu.ppy.sh/beatmapsets/2384631#fruits/5156315)
+  2. [Rish feat. Hatsune Miku - Uni (-Ken) \[Heartbeat\]](https://osu.ppy.sh/beatmapsets/2384635#fruits/5156323)
+- Double Time
+  1. [Nana Mizuki - Vitalization (-Hex-) \[Symphogear\] *(temporary link)*](https://leoflt.com/s/FOrmZ)
+  2. [Mili - A Turtle's Heart (ZiRoX) \[Timid\]](https://osu.ppy.sh/beatmapsets/2384642#fruits/5156333)
+  3. [Kinoshita - Norowareta Sei / Shukufuku Sareta Sei (the confusion) (yuinn) \[Rain on July 20th\]](https://osu.ppy.sh/beatmapsets/2384641#fruits/5156332)
+- Mixed Mod
+  1. [Function Phantom - Euclid (Ascendance) \[Spec's Overdose (CWC edit)\] *(temporary link)*](https://leoflt.com/s/TZEsa)
+  2. [O2i3 - Kato (autofanboy, Yoshi\_green) \[Yoshi & AFB's Feline Territory\]](https://osu.ppy.sh/beatmapsets/2384646#fruits/5156338)
+- Tiebreaker
+  1. **[DM DOKURO - No Hints Here! (Bunnrei) \[Yaheehy!\] *(temporary link)*](https://leoflt.com/s/lNPpg)**
 
 ### Qualifiers
 
@@ -129,6 +183,60 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 - Double Time
   1. [Natsume Itsuki - Mayday (Verti) \[Rain\]](https://osu.ppy.sh/beatmapsets/2380715#fruits/5146341)
   2. [siqlo - Vantablack (autofanboy) \[Subtlety\]](https://osu.ppy.sh/beatmapsets/2380716#fruits/5146343)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1wlJknIoI8rvwVT0etL82u5u4kbJ-Ao05G3yLquCGm_E?rm=minimal).\
+[View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2480836532?t=0h4m13s)
+
+| Seed | Country | %MAX[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] | Lobby link |
+| :-: | :-- | --: | --: | --: |
+| #1 | ::{ flag=US }:: United States | 8.913 | 2,944,523 | [118335950](https://osu.ppy.sh/community/matches/118335950) |
+| #2 | ::{ flag=AR }:: Argentina | 8.870 | 2,929,324 | [118327218](https://osu.ppy.sh/community/matches/118327218) |
+| #3 | ::{ flag=RU }:: Russian Federation | 8.775 | 2,899,185 | [118336534](https://osu.ppy.sh/community/matches/118336534) |
+| #4 | ::{ flag=IT }:: Italy | 8.729 | 2,883,918 | [118323642](https://osu.ppy.sh/community/matches/118323642) |
+| #5 | ::{ flag=FR }:: France | 8.693 | 2,872,035 | [118324303](https://osu.ppy.sh/community/matches/118324303) |
+| #6 | ::{ flag=FI }:: Finland | 8.680 | 2,867,769 | [118325613](https://osu.ppy.sh/community/matches/118325613) |
+| #7 | ::{ flag=ID }:: Indonesia | 8.563 | 2,828,816 | [118323681](https://osu.ppy.sh/community/matches/118323681) |
+| #8 | ::{ flag=JP }:: Japan | 8.555 | 2,826,377 | [118324310](https://osu.ppy.sh/community/matches/118324310) |
+| #9 | ::{ flag=CL }:: Chile | 8.528 | 2,817,155 | [118335863](https://osu.ppy.sh/community/matches/118335863) |
+| #10 | ::{ flag=PL }:: Poland | 8.495 | 2,807,132 | [118335802](https://osu.ppy.sh/community/matches/118335802) |
+| #11 | ::{ flag=GB }:: United Kingdom | 8.493 | 2,806,954 | [118336551](https://osu.ppy.sh/community/matches/118336551) |
+| #12 | ::{ flag=CA }:: Canada | 8.456 | 2,794,403 | [118339056](https://osu.ppy.sh/community/matches/118339056) |
+| #13 | ::{ flag=DE }:: Germany | 8.387 | 2,771,687 | [118323135](https://osu.ppy.sh/community/matches/118323135) |
+| #14 | ::{ flag=BE }:: Belgium | 8.314 | 2,748,771 | [118335856](https://osu.ppy.sh/community/matches/118335856) |
+| #15 | ::{ flag=MX }:: Mexico | 8.278 | 2,736,176 | [118338567](https://osu.ppy.sh/community/matches/118338567) |
+| #16 | ::{ flag=SE }:: Sweden | 8.277 | 2,733,927 | [118325561](https://osu.ppy.sh/community/matches/118325561) |
+| #17 | ::{ flag=PE }:: Peru | 8.268 | 2,731,898 | [118318823](https://osu.ppy.sh/community/matches/118318823) |
+| #18 | ::{ flag=CO }:: Colombia | 8.153 | 2,694,244 | [118329566](https://osu.ppy.sh/community/matches/118329566) |
+| #19 | ::{ flag=CN }:: China | 8.136 | 2,688,710 | [118335289](https://osu.ppy.sh/community/matches/118335289) |
+| #20 | ::{ flag=SG }:: Singapore | 8.119 | 2,682,967 | [118321594](https://osu.ppy.sh/community/matches/118321594) |
+| #21 | ::{ flag=TW }:: Taiwan | 8.056 | 2,662,360 | [118332862](https://osu.ppy.sh/community/matches/118332862) |
+| #22 | ::{ flag=AU }:: Australia | 8.046 | 2,659,598 | [118333810](https://osu.ppy.sh/community/matches/118333810) |
+| #23 | ::{ flag=HK }:: Hong Kong | 7.981 | 2,638,030 | [118337252](https://osu.ppy.sh/community/matches/118337252) |
+| #24 | ::{ flag=ES }:: Spain | 7.883 | 2,605,605 | [118337173](https://osu.ppy.sh/community/matches/118337173) |
+| #25 | ::{ flag=TR }:: Türkiye | 7.474 | 2,472,281 | [118337249](https://osu.ppy.sh/community/matches/118337249) |
+| #26 | ::{ flag=VN }:: Vietnam | 7.357 | 2,433,435 | [118335291](https://osu.ppy.sh/community/matches/118335291) |
+| #27 | ::{ flag=BR }:: Brazil | 7.309 | 2,416,011 | [118339060](https://osu.ppy.sh/community/matches/118339060) |
+| #28 | ::{ flag=DK }:: Denmark | 7.226 | 2,388,903 | [118304945](https://osu.ppy.sh/community/matches/118304945) |
+| #29 | ::{ flag=IS }:: Iceland | 7.022 | 2,320,289 | [118337813](https://osu.ppy.sh/community/matches/118337813) |
+| #30 | ::{ flag=NO }:: Norway | 6.946 | 2,296,701 | [118338478](https://osu.ppy.sh/community/matches/118338478) |
+| #31 | ::{ flag=IL }:: Israel | 6.841 | 2,265,459 | [118277943](https://osu.ppy.sh/community/matches/118277943) |
+| #32 | ::{ flag=KR }:: South Korea | 6.806 | 2,251,358 | [118323134](https://osu.ppy.sh/community/matches/118323134) |
+| #33 | ::{ flag=MY }:: Malaysia | 6.723 | 2,223,125 | [118336600](https://osu.ppy.sh/community/matches/118336600) |
+| #34 | ::{ flag=TH }:: Thailand | 6.683 | 2,208,851 | [118324301](https://osu.ppy.sh/community/matches/118324301) |
+| #35 | ::{ flag=NZ }:: New Zealand | 6.679 | 2,207,055 | [118333150](https://osu.ppy.sh/community/matches/118333150) |
+| #36 | ::{ flag=PH }:: Philippines | 6.650 | 2,198,435 | [118322229](https://osu.ppy.sh/community/matches/118322229) |
+| #37 | ::{ flag=GR }:: Greece | 6.568 | 2,172,238 | [118337846](https://osu.ppy.sh/community/matches/118337846) |
+| #38 | ::{ flag=EE }:: Estonia | 6.543 | 2,162,161 | [118325563](https://osu.ppy.sh/community/matches/118325563) |
+| #39 | ::{ flag=LV }:: Latvia | 6.118 | 2,020,681 | [118323132](https://osu.ppy.sh/community/matches/118323132) |
+| #40 | ::{ flag=PT }:: Portugal | 5.801 | 1,918,241 | [118338422](https://osu.ppy.sh/community/matches/118338422) |
+| #41 | ::{ flag=BG }:: Bulgaria | 5.682 | 1,877,037 | [118304926](https://osu.ppy.sh/community/matches/118304926) |
+| #42 | ::{ flag=LT }:: Lithuania | 5.083 | 1,683,334 | [118335290](https://osu.ppy.sh/community/matches/118335290) |
+| #43 | ::{ flag=CH }:: Switzerland | 2.949 | 973,730 | [118316196](https://osu.ppy.sh/community/matches/118316196) |
+| #44 | ::{ flag=UA }:: Ukraine | 2.788 | 920,132 | [118321357](https://osu.ppy.sh/community/matches/118321357) |
 
 ## Ruleset
 
@@ -279,3 +387,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for managing their team's availability.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
