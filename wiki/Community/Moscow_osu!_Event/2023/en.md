@@ -21,7 +21,9 @@ tags:
 - [Event stream recordings (YouTube playlist)](https://www.youtube.com/playlist?list=PLOkaDdbVuNyZ4PoDHpsCakj_O1-C5hP7W)
 
 ## Organisation
-MOE 2023 was run by various community members
+
+MOE 2023 was run by various community members:
+
 | Position | User(s) |
 | :-- | :-- |
 | Head staff | ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
@@ -43,41 +45,43 @@ Group photo of attendees ([Reddit](https://www.reddit.com/r/osugame/comments/15f
 ## Schedule
 
 ### Saturday, July 29, 2023
+
 | Event | Time (UTC+3) |
 | :-- | :-- |
 | Opening speech. Event opening. | 11:00 - 12:00 |
-| Round of 16 matches - ::{ flag=RU }:: [temka na](https://osu.ppy.sh/users/10504596) vs. ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263); ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152) vs. ::{ flag=RU }:: [Orenburg](https://osu.ppy.sh/users/6215032) | 12:00 - 13:30 |
+| Round of 16 matches: ::{ flag=RU }:: [temka na](https://osu.ppy.sh/users/10504596) vs. ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263); ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152) vs. ::{ flag=RU }:: [Orenburg](https://osu.ppy.sh/users/6215032) | 12:00 - 13:30 |
 | Panel discussion - Mapping | 13:30 - 14:30 |
-| Round of 16 matches - ::{ flag=RU }:: [Arclyte](https://osu.ppy.sh/users/6585939) vs. ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285); ::{ flag=RU }:: [MrFuture](https://osu.ppy.sh/users/5724445) vs. ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) | 14:30 - 16:00 |
-| Game activity - osu! Arena | 16:00 - 16:30 |
-| Round of 16 matches - ::{ flag=RU }:: [DaHuJka](https://osu.ppy.sh/users/6830745) vs. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867); ::{ flag=RU }:: [SL1PER](https://osu.ppy.sh/users/10199538) vs. ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) | 16:30 - 18:00 |
-| Panel discussion - Q&A for players | 18:00 - 18:30 |
-| Game activity - Neuro-osu! | 18:30 - 19:00 |
-| Round of 16 matches - ::{ flag=RU }:: [azaz08967565](https://osu.ppy.sh/users/8631281) vs. ::{ flag=RU }:: [Vitya1437](https://osu.ppy.sh/users/4346274); ::{ flag=RU }:: [talala](https://osu.ppy.sh/users/1389663) vs. ::{ flag=RU }:: [-Din-](https://osu.ppy.sh/users/7972980) | 19:00 - 20:30 |
+| Round of 16 matches: ::{ flag=RU }:: [Arclyte](https://osu.ppy.sh/users/6585939) vs. ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285); ::{ flag=RU }:: [MrFuture](https://osu.ppy.sh/users/5724445) vs. ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) | 14:30 - 16:00 |
+| Game activity: osu! Arena | 16:00 - 16:30 |
+| Round of 16 matches: ::{ flag=RU }:: [DaHuJka](https://osu.ppy.sh/users/6830745) vs. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867); ::{ flag=RU }:: [SL1PER](https://osu.ppy.sh/users/10199538) vs. ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) | 16:30 - 18:00 |
+| Panel discussion: Q&A for players | 18:00 - 18:30 |
+| Game activity: Neuro-osu! | 18:30 - 19:00 |
+| Round of 16 matches: ::{ flag=RU }:: [azaz08967565](https://osu.ppy.sh/users/8631281) vs. ::{ flag=RU }:: [Vitya1437](https://osu.ppy.sh/users/4346274); ::{ flag=RU }:: [talala](https://osu.ppy.sh/users/1389663) vs. ::{ flag=RU }:: [-Din-](https://osu.ppy.sh/users/7972980) | 19:00 - 20:30 |
 | Day wrap-up | 20:30 - 21:00 |
 
 ### Sunday, July 30, 2023
+
 | Event | Time (UTC+3) |
 | :-- | :-- |
 | Opening speech. Start of the second day. | 11:00 - 11:30 |
-| Quarterfinal matches - ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) vs. ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152); ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) vs. ::{ flag=RU }:: [Vitya1437](https://osu.ppy.sh/users/4346274)| 11:30 - 13:00 |
-| Panel discussion - osu! History | 13:00 - 14:00 |
-| Quarterfinal matches - ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) vs. ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285); ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) vs. ::{ flag=RU }:: [-Din-](https://osu.ppy.sh/users/7972980) | 14:00 - 15:30 |
-| Game activity - osu! Quiz | 15:30 - 16:30 |
-| Semifinal matches - ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152) vs. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867); ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) vs. ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) | 16:30 - 18:00 |
+| Quarterfinal matches: ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) vs. ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152); ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) vs. ::{ flag=RU }:: [Vitya1437](https://osu.ppy.sh/users/4346274)| 11:30 - 13:00 |
+| Panel discussion: osu! History | 13:00 - 14:00 |
+| Quarterfinal matches: ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) vs. ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285); ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) vs. ::{ flag=RU }:: [-Din-](https://osu.ppy.sh/users/7972980) | 14:00 - 15:30 |
+| Game activity: osu! Quiz | 15:30 - 16:30 |
+| Semifinal matches: ::{ flag=RU }:: [HandsomeMe](https://osu.ppy.sh/users/11376152) vs. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867); ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) vs. ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005) | 16:30 - 18:00 |
 | Announcements and video content viewing | 18:00 - 19:00 |
-| Final match - ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) vs. ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) | 19:00 - 20:00 |
+| Final match: ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) vs. ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332) | 19:00 - 20:00 |
 | Wrap-up, awarding of finalists, and festival closing | 20:00 - 21:00 |
 
 # Prizes
 
-The prize pool for the event was 30,000₽ RUB (≃ $326 USD)
+The prize pool for the event was 30,000₽ (≃ $326).
 
  | Placing | Prize(s) | 
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $130.35 USD (≃12,000₽ RUB) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $65.18 USD (≃6,000₽ RUB) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $32.59 USD (≃3,000₽ RUB) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $130.35 (≃12,000₽) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $65.18 (≃6,000₽) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $32.59 (≃3,000₽) |
 
 The rest of the prize pool was distributed among players who placed 5th-8th.
 

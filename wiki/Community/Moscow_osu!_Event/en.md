@@ -17,7 +17,7 @@
 ## Iterations
 
 - [MOE 2023](2023)
-- [MOE 2024](2024)
+- MOE 2024
 - MOE 2025
 
 ## History
@@ -28,4 +28,4 @@ Inspired by [cavoe's osu! event](wiki/Community/cavoe's_osu!_event), the #russia
 
 The event received support from various sponsors who provided prizes, equipment, and souvenirs for participants and guests. For example, the tablet manufacturer [Parblo](https://www.parblo.com/) gave attendees the opportunity to try their products in a drawing contest, and the [play-osu.ru](https://play-osu.ru) booth offered various board games and mini-tournaments for mobile rhythm games such as [Arcaea](https://arcaea.lowiro.com/en) and [Project SEKAI: Colorful Stage](https://www.colorfulstage.com/).
 
-In 2023, the event was attended by more than 250 people, and in 2024 — already 450. Participants from the [osu! community](wiki/Community) from all over Russia and neighboring countries come to MOE.
+In 2023, the event was attended by more than 250 people, and in 2024 already 450. Participants from the [osu! community](wiki/Community) from all over Russia and neighboring countries come to MOE.
