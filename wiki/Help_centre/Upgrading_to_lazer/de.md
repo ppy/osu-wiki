@@ -1,6 +1,4 @@
 ---
-outdated_since: b9df3013ed6661bb01dfbf1f499b46b680dab3e4
-outdated_translation: true
 no_native_review: true
 ---
 
@@ -78,7 +76,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Score-Einreichung | ![Ja][true] | ![Ja][true] |
 | Beatmap-Ranglisten | ![Ja][true] | ![Ja][true] |
 | Profilstatistiken | ![Ja][true] | ![Ja][true] |
-| Medaillen | ![Ja][true] | ![Teilweise][partial][^medals-lazer] |
+| Medaillen | ![Teilweise][partial][^medals-stable] | ![Teilweise][partial][^medals-lazer] |
 | Performance-Punkte | ![Ja][true] | ![Ja][true] |
 | Chat in Echtzeit | ![Teilweise][partial][^stable-chat] | ![Ja][true] |
 | Wiki / Neuigkeiten / Änderungsprotokoll / Ranglisten | ![Nein][false] | ![Ja][true][^online-content] |
@@ -351,6 +349,7 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^freestyle]: In diesem Mehrspielermodus können Spieler die Schwierigkeitsstufe der aktuellen Beatmap frei wählen.
 [^difficulty-adjust]: Ändere die Werte CS/AR/OD/HP einer Beatmap direkt in der Songauswahl über die Mod "Difficulty Adjust".
 [^medals-lazer]: Manche [Hush-Hush Medaillen](/wiki/Medals#hush-hush) sind noch nicht verfügbar.
+[^medals-stable]: Einige Medaillen sind nur in lazer verfügbar.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
