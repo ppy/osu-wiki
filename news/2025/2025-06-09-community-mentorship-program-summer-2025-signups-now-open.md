@@ -80,7 +80,7 @@ You can find more information on these mentors in their [detailed overview](http
 
 ### Modding
 
-| Mentor     | Game mode | Timezone |
+| Mentor | Game mode | Timezone |
 | :-- | :-- | :-- |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | osu! | UTC-8 |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | osu! | UTC-7 |
@@ -96,6 +96,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | osu!taiko | UTC+3 |
 
 For modding, each game mode has their separate overview: 
+
 - [osu! Mentors](https://docs.google.com/spreadsheets/d/1hXMTAFDdhjpQP72WyfDkjOnZECf6DO_Ba5sxjpowUKw/edit?gid=2064960339#gid=2064960339)
 - [osu!mania Mentors](https://docs.google.com/spreadsheets/d/1AcZHY7OylKGEgzgfryqLr9FOI6-oXdNqPT2Zistz3Yo/edit?gid=2064960339#gid=2064960339)
 - [osu!taiko Mentors](https://docs.google.com/spreadsheets/d/1cjhM_wRE-BmH5v1iVF_uP1Jp6uLNamS7aCnjAQmEQb4/edit?gid=2064960339#gid=2064960339)
