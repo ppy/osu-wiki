@@ -138,7 +138,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 | Finland ::{ flag=FI }:: | ::{ flag=BR }:: Brazil | [Jun 15 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T160000&p1=1440&p2=101&p3=45) | [osulive](https://twitch.tv/osulive) |
 | France ::{ flag=FR }:: | ::{ flag=DK }:: Denmark | [Jun 15 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T163000&p1=1440&p2=195&p3=69) | [osulive](https://twitch.tv/osulive) |
 | Mexico ::{ flag=MX }:: | ::{ flag=CO }:: Colombia | [Jun 15 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T180000&p1=1440&p2=155&p3=41) | [osulive](https://twitch.tv/osulive) |
-| Round of 16 | mappool showcase | [Jun 15 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| Round of 16 | mappool showcase | [Jun 15 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250615T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
