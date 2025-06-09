@@ -15,7 +15,8 @@ Over the course of a cycle, you'll have the opportunity to learn from your mento
 On the public side of things, [our Discord server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels, the guest difficulty job board and more! We also announce mapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [organisation team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing)!
 
 If you're interested in the program, please read the [forum post](https://osu.ppy.sh/community/forums/topics/2079752?n=1) for a full rundown on how to apply. 
-The mentee-signups are currently open, and close on the 16th of June! 
+
+The mentee signups are currently open, and close on the 16th of June! 
 
 ### osu! 
 
