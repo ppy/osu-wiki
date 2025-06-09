@@ -43,14 +43,14 @@ Zusätzlich sollten alle Werbematerialien oder andere Dienstleistungen, die im Z
 
 ### Weitere Erwartungen
 
-Obwohl die folgenden Erwartungen hauptsächlich für Turniere gelten, sollten Wettbewerbe diese trotzdem so gut wie möglich einhalten:
+Obwohl die folgenden Erwartungen hauptsächlich für Turniere gelten, sollten Wettbewerbe diese trotzdem so gut wie möglich erfüllen:
 
 - [Personal](/wiki/Tournaments/Official_support#personal)
 - [Spieler](/wiki/Tournaments/Official_support#spieler)
 
 ## Förderungsanspruch
 
-Wettbewerbe, die sich an die folgenden Kriterien halten, können eine Förderung mit **Profilabzeichen** bekommen:
+Wettbewerbe, die sich an die folgenden Kriterien halten, können eine offizielle Unterstützung mit **Profilabzeichen** bekommen:
 
 - **Der Wettbewerb muss eines dieser Kriterien erfüllen:**
   - Der Wettbewerb wird von einem erfahrenen Team aus versierten und vertrauenswürdigen Personen organisiert und durchgeführt. Ob dies zutrifft, darüber entscheidet das osu!-Team.
