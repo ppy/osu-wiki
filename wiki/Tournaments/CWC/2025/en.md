@@ -59,7 +59,7 @@ The osu!catch World Cup 2025 is run by various community members.
 - [Challonge bracket](https://challonge.com/CWC2025)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/177) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Support your country with a profile banner](https://osu.ppy.sh/store/products/1481)
-  
+
 ## Participants
 
 |  | Country | Members |
