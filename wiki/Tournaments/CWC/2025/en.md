@@ -142,10 +142,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ### Round of 32
 
+**[Download the mappack here (99 MB)](https://packs.ppy.sh/P288%20-%20osu!catch%20World%20Cup%202025%3A%20Round%20of%2032.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2480836532?t=1h4m23s)
 
 - No Mod
-  1. [ELFENSJoN - LUNATIC MIRAGE (4rcheR-) \[OVERDOSE (CWC VER.)\] *(temporary link)*](https://leoflt.com/s/YHnIz)
+  1. [ELFENSJoN - LUNATIC MIRAGE (4rcheR-) \[OVERDOSE (CWC VER.)\]](https://osu.ppy.sh/beatmapsets/2384696#fruits/5156436)
   2. [WangleLine - Island of Orchids (Malai) \[Phantasmagoria\]](https://osu.ppy.sh/beatmapsets/2384624#fruits/5156307)
   3. [rae - TRANQUILITY RESOLVE (Jack Frost) \[STAY CALM\]](https://osu.ppy.sh/beatmapsets/2384639#fruits/5156330)
   4. [Ryokuoushoku Shakai - Hana ni Natte (autofanboy) \[captin's Extra (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2384633#fruits/5156317)
@@ -156,7 +157,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
   1. [Traktion - Mission ASCII (Yoshi\_green) \[10-year Operation\]](https://osu.ppy.sh/beatmapsets/2384631#fruits/5156315)
   2. [Rish feat. Hatsune Miku - Uni (-Ken) \[Heartbeat\]](https://osu.ppy.sh/beatmapsets/2384635#fruits/5156323)
 - Double Time
-  1. [Nana Mizuki - Vitalization (-Hex-) \[Symphogear\] *(temporary link)*](https://leoflt.com/s/FOrmZ)
+  1. [Nana Mizuki - Vitalization (-Hex-) \[Symphogear\]](https://osu.ppy.sh/beatmapsets/2384668#fruits/5156387)
   2. [Mili - A Turtle's Heart (ZiRoX) \[Timid\]](https://osu.ppy.sh/beatmapsets/2384642#fruits/5156333)
   3. [Kinoshita - Norowareta Sei / Shukufuku Sareta Sei (the confusion) (yuinn) \[Rain on July 20th\]](https://osu.ppy.sh/beatmapsets/2384641#fruits/5156332)
 - Mixed Mod
