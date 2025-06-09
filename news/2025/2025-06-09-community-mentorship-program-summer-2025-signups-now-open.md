@@ -43,7 +43,7 @@ The mentee signups are currently open, and close on the 16th of June!
 | ::{ flag=KZ }:: [\-Hitomi](https://osu.ppy.sh/users/15583987) | UTC+5 |
 | ::{ flag=JP }:: [MochiA](https://osu.ppy.sh/users/9312734) | UTC+9 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1PrL5cXwU-EMIkUaRKPHbRsi-AUeicQhZZR2QkjVDevM/edit) and apply to them [here](https://forms.gle/j9tUAjMf47JoRCRK8). 
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1PrL5cXwU-EMIkUaRKPHbRsi-AUeicQhZZR2QkjVDevM/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSfs10qNps9y4DrTcUjZEc5u28bpqUdHXaxDrcUDWGhmufN9eA/viewform). 
 
 ### osu!mania 
 
@@ -57,31 +57,31 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | UTC+8 |
 | ::{ flag=KR }:: [Dreamwalker](https://osu.ppy.sh/users/8946550) | UTC+9 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1g2KhhmBqiqNAe2I2PJPicaSFtWPQ5sScRluC9oQzFGg/edit) and apply to them [here](https://forms.gle/5pwB9qqUsDc3kV6H9).
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1g2KhhmBqiqNAe2I2PJPicaSFtWPQ5sScRluC9oQzFGg/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSeVdfghHjpjOiGJ1rw167rOsuAczWgub0sYYX_wYCP1_kwrTw/viewform).
 
 ### osu!taiko
 
-| Mentor | Timezone |
+| Mentor | Time zone |
 | :-- | :-- |
 | ::{ flag=DE }:: [Broadsword](https://osu.ppy.sh/users/11357694) | UTC+2 |
 | ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | UTC+2 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1_bMj04v4kUhdBd_JS6yiex9pBSFcxh_Uunn--n7Ugt8/edit) and apply to them [here](https://forms.gle/unAie67mgosQK6vE7).
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1_bMj04v4kUhdBd_JS6yiex9pBSFcxh_Uunn--n7Ugt8/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSfb7Am7-lX0IzFNCCpY7gsACNzv9gcc_5KAEAK5wYVNiNFk4w/viewform).
 
 ### osu!catch
 
-| Mentor | Timezone |
+| Mentor | Time zone |
 | :-- | :-- |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | UTC-5 |
 | ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071) | UTC+2 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | UTC+2 |
 | ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | UTC+2 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/16J1nxWgHadycR2Qu232VufdcmHKPXWb6MFPixO-ehlg/edit) and apply to them [here](https://forms.gle/YrbXSstDdvBGGy2m7).
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/16J1nxWgHadycR2Qu232VufdcmHKPXWb6MFPixO-ehlg/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSdoi7VNJNfEv6V3aJ953255smnpBBqRX5XzUcOmACWeq3bG6Q/viewform).
 
 ### Modding
 
-| Mentor | Game mode | Timezone |
+| Mentor | Game mode | Time zone |
 | :-- | :-- | :-- |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | osu! | UTC-8 |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | osu! | UTC-7 |
@@ -114,10 +114,10 @@ You can apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwa
 | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) | UTC+2 |
 | ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) | UTC+8 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/18vLaEyRnsfc2hpUb53EpggRwY6Vg7PqTScbs2qI6otc/edit) and apply to them [here](https://forms.gle/5bh7XsZw4E5yX4QNA).
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/18vLaEyRnsfc2hpUb53EpggRwY6Vg7PqTScbs2qI6otc/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSewCsK_L1pTr2vAMYiLtQZIfRMjqYLuepsBJNwEIYFDBM0P1A/viewform).
 
 ---
 
-If you have further questions, don't hesitate to reach out to the [Organisation Team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing) or [join our Discord server!](https://discord.com/invite/Ft2FtXmBgx)
+If you have further questions, don't hesitate to reach out to the [organisation team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing) or [join our Discord server](https://discord.com/invite/Ft2FtXmBgx)!
 
 —the Mentorship Organisation Team
