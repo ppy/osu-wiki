@@ -19,7 +19,7 @@ The mentee-signups are currently open, and close on the 16th of June!
 
 ### osu! 
 
-| Mentor | Timezone |
+| Mentor | Time zone |
 | :-- | :-- |
 | ::{ flag=US }:: [IllusionB](https://osu.ppy.sh/users/13292488) | UTC-8 |
 | ::{ flag=US }:: [Wanpachi](https://osu.ppy.sh/users/12157130) | UTC-7 |
