@@ -6,7 +6,7 @@ date: 2025-06-13 12:00:00 +0000
 
 🌞 Summer is back, and so is the Summer Mapping Contest!
 
-![](BANNER IMAGE LINK)
+![]()
 
 The **Summer Mapping Contest** is an annual osu! beatmapping competition, with its purpose being to inspire mappers from around the world to unleash their creativity and challenge the boundaries of mapping through songs from the Featured Artist catalogue.
 
@@ -52,47 +52,47 @@ Your submission will be judged based on several criteria:
 
 Here are all the available tracks for this year's edition:
 
-- **Beach Bunny - Sports**
-  <audio controls>
-    <source src="https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.mp3">
-  </audio>
+**Beach Bunny - Sports**
+<audio controls>
+  <source src="https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.mp3">
+</audio>
 
-  [Download .osz template here](https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.osz)
+[Download .osz template here!](https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.osz)
 
-- **Ricky Montgomery - Cabo**
+**Ricky Montgomery - Cabo**
   <audio controls>
     <source src="https://assets.ppy.sh/artists/54/previews/1547.mp3">
   </audio>
 
-  [Download .osz template here](https://assets.ppy.sh/artists/54/osz/Ricky%20Montgomery%20-%20Cabo.osz)
+  [Download .osz template here!](https://assets.ppy.sh/artists/54/osz/Ricky%20Montgomery%20-%20Cabo.osz)
 
-- **YUC'e - Sunset Tea Cup**
-  <audio controls>
-    <source src="https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.mp3">
-  </audio>
+**YUC'e - Sunset Tea Cup**
+<audio controls>
+  <source src="https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.mp3">
+</audio>
 
-  [Download .osz template here](https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.osz)
+[Download .osz template here!](https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.osz)
 
-- **Cansol - Colourful Flavour**
-  <audio controls>
-    <source src="https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.mp3">
-  </audio>
+**Cansol - Colourful Flavour**
+<audio controls>
+  <source src="https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.mp3">
+</audio>
 
-  [Download .osz template here](https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.osz)
+[Download .osz template here!](https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.osz)
 
-- **Natsume Itsuki - Natsuiro Memory**
-  <audio controls>
-    <source src="https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.mp3">
-  </audio>
+**Natsume Itsuki - Natsuiro Memory**
+<audio controls>
+  <source src="https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.mp3">
+</audio>
 
-  [Download .osz template here](https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.osz)
+[Download .osz template here!](https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.osz)
 
-- **Empty Peperoncino - Ame ni Utaeba**
-  <audio controls>
-    <source src="https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.mp3">
-  </audio>
+**Empty Peperoncino - Ame ni Utaeba**
+<audio controls>
+  <source src="https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.mp3">
+</audio>
 
-  [Download template here](https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.osz)
+[Download .osz template here!](https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.osz)
 
 ### Rules
 
