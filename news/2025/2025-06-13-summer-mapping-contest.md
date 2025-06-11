@@ -10,7 +10,7 @@ date: 2025-06-13 12:00:00 +0000
 
 The **Summer Mapping Contest** is an annual osu! beatmapping competition, with its purpose being to inspire mappers from around the world to unleash their creativity and challenge the boundaries of mapping through songs from the Featured Artist catalogue.
 
-The first edition launched in 2024 and is hosted by [Stompy\_](https://osu.ppy.sh/users/16429579). You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371?).
+The first edition launched in 2024 and is hosted by [Stompy\_](https://osu.ppy.sh/users/16429579). You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371).
 
 For this year’s edition, we’ve expanded the tracklist with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
 
