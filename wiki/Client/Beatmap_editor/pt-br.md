@@ -41,4 +41,4 @@ Outros componentes do editor de beatmap incluem:
 - [Kiai time](/wiki/Gameplay/Kiai_time): Uma seção de timing especial que ajuda a enfatizar uma parte do beatmap
 - [Menu](Menu): Facilita a navegação no editor de beatmap
 - [SB load](SB_load): Um número usado para dizer o quão necessário é um storyboard
-- [Timelines](Timelines): Mostra as posições de hit objects, pausas e etc
+- [Timelines](Timelines): Exibe a posição dos hit objects, pausas e demais componentes
