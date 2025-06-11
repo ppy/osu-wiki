@@ -35,7 +35,7 @@ o editor de beatmap é separado em quatro principais seções em que podem ser a
 
 Outros componentes do editor de beatmap incluem:
 
-- [AiMod](AiMod): Um sistema automatizada que reporta problemas em um beatmap
+- [AiMod](AiMod): Um sistema automatizado que reporta problemas em um beatmap
 - [Beat snap divisor](Beat_snap_divisor): Determina como objetos se posiciona na timeline
 - [Distance snap](Distance_snap): Um multiplicador que determina o quão perto ou longe os hit objects são posicionados em relação aos outros
 - [Kiai time](/wiki/Gameplay/Kiai_time): Uma seção de timing especial que ajuda a enfatizar uma parte do beatmap
