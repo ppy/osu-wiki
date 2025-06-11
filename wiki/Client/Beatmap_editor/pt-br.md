@@ -21,7 +21,7 @@ o editor de beatmap é separado em quatro principais seções em que podem ser a
 
 ## Design
 
-[Design](/wiki/pt-br/Client/Beatmap_editor/Design) oferece uma maneira de criar [storyboards](/wiki/pt-br/Storyboard), os efeitos visuais que acompanham os beatmaps. Como storyboards geralmente tem efeitos complexos alertando sobre os usos de muitos comandos de storyboards, mappers podem usar o [storyboard scripting](/wiki/pt-br/Storyboard/Scripting) diretamente sem entrar na seção de design.
+[Design](/wiki/pt-br/Client/Beatmap_editor/Design) oferece uma maneira de criar [storyboards](/wiki/pt-br/Storyboard), os efeitos visuais que acompanham os beatmaps. Como os storyboards geralmente têm efeitos complexos que utilizam muitos comandos, mappers podem usar o [storyboard scripting](/wiki/pt-br/Storyboard/Scripting) diretamente sem entrar na seção de design.
 
 ## Timing
 
