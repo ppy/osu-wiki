@@ -33,7 +33,7 @@ o editor de beatmap é separado em quatro principais seções em que podem ser a
 
 ## Outros
 
-Outros componentes do editor do beatmap incluem:
+Outros componentes do editor de beatmap incluem:
 
 - [AiMod](AiMod): Um sistema automatizada que reporta problemas em um beatmap
 - [Beat snap divisor](Beat_snap_divisor): Determina como objetos se posiciona na timeline
