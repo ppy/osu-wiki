@@ -16,7 +16,7 @@ For this year’s edition, we’ve expanded the tracklist with a wider variety o
 
 ---
 
-### Schedule
+## Schedule
 
 this is a schedule
 
@@ -26,7 +26,7 @@ this is a schedule
 | Judging (2 months) | October 24 to December 23 |
 | Results (1 week) | December 30 |
 
-### Prizes
+## Prizes
 
 We've prepared some lovely prizes to congratulate those who impress our judges the most!
 
@@ -36,7 +36,7 @@ We've prepared some lovely prizes to congratulate those who impress our judges t
 | 2nd | 2 months of osu! supporter |
 | 3rd | 1 month of osu! supporter |
 
-### Judging
+## Judging
 
 Your submission will be judged based on several criteria:
 
@@ -48,11 +48,11 @@ Your submission will be judged based on several criteria:
 | Creativity (max 10 pts.) | Judged on the uniqueness and execution of interesting ideas in your map. |
 | Personal Impression (max 10 pts.) | Based on the personal opinions of each judge. |
 
-### Available Tracks
+## Available Tracks
 
 Here are all the available tracks for this year's edition:
 
-#### **Beach Bunny - Sports**
+### **Beach Bunny - Sports**
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.mp3">
@@ -60,7 +60,7 @@ Here are all the available tracks for this year's edition:
 
 [Download .osz template here!](https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.osz)
 
-#### **Ricky Montgomery - Cabo**
+### **Ricky Montgomery - Cabo**
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/54/previews/1547.mp3">
@@ -68,7 +68,7 @@ Here are all the available tracks for this year's edition:
 
 [Download .osz template here!](https://assets.ppy.sh/artists/54/osz/Ricky%20Montgomery%20-%20Cabo.osz)
 
-#### **YUC'e - Sunset Tea Cup**
+### **YUC'e - Sunset Tea Cup**
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.mp3">
@@ -76,7 +76,7 @@ Here are all the available tracks for this year's edition:
 
 [Download .osz template here!](https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.osz)
 
-#### **Cansol - Colourful Flavour**
+### **Cansol - Colourful Flavour**
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.mp3">
@@ -84,7 +84,7 @@ Here are all the available tracks for this year's edition:
 
 [Download .osz template here!](https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.osz)
 
-#### **Natsume Itsuki - Natsuiro Memory**
+### **Natsume Itsuki - Natsuiro Memory**
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.mp3">
@@ -92,7 +92,7 @@ Here are all the available tracks for this year's edition:
 
 [Download .osz template here!](https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.osz)
 
-#### **Empty Peperoncino - Ame ni Utaeba**
+### **Empty Peperoncino - Ame ni Utaeba**
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.mp3">
@@ -100,7 +100,7 @@ Here are all the available tracks for this year's edition:
 
 [Download .osz template here!](https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.osz)
 
-### Rules
+## Rules
 
 By participating in this contest, you agree to the following guidelines:
 
