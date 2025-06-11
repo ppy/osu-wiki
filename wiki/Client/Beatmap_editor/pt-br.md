@@ -39,6 +39,6 @@ Outros componentes do editor de beatmap incluem:
 - [Beat snap divisor](Beat_snap_divisor): Determina como objetos se posicionam na timeline
 - [Distance snap](Distance_snap): Um multiplicador que define a proximidade entre os hit objects
 - [Kiai time](/wiki/Gameplay/Kiai_time): Uma seção de timing especial que ajuda a enfatizar uma parte do beatmap
-- [Menu](Menu): Ajuda a navegação no editor de beatmap
+- [Menu](Menu): Facilita a navegação no editor de beatmap
 - [SB load](SB_load): Um número usado para dizer o quão necessário é um storyboard
 - [Timelines](Timelines): Mostra as posições de hit objects, pausas e etc
