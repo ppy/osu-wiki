@@ -8,29 +8,27 @@ date: 2025-06-13 12:00:00 +0000
 
 ![]()
 
-The **Summer Mapping Contest** is an annual osu! beatmapping competition, with its purpose being to inspire mappers from around the world to unleash their creativity and challenge the boundaries of mapping through songs from the Featured Artist catalogue.
+The **Summer Mapping Contest** is an annual osu! beatmapping competition, with its purpose being to inspire mappers from around the world to unleash their creativity and challenge the boundaries of mapping using songs from the Featured Artist catalogue.
 
 The first edition launched in 2024 and is hosted by [Stompy\_](https://osu.ppy.sh/users/16429579). You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371).
 
 For this year’s edition, we’ve expanded the tracklist with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
 
----
-
 ## Schedule
 
 | Event | Dates |
 | --: | :-- |
-| Beatmapping (1 month) | June 13 to July 12 (23:59 UTC) |
-| Judging (2 weeks) | July 13 to July 27 |
+| Beatmapping (1 month) | June 13 to July 13 (23:59 UTC) |
+| Judging (2 weeks) | July 14 to July 27 (23:59 UTC) |
 | Results | July 28 |
 
 ## Prizes
 
-We've prepared some lovely prizes to congratulate those who impress our judges the most!
+We've prepared some lovely prizes to reward those who impress our judges the most!
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | 3 months of osu! supporter, **Elite Mapper Points, profile badge** (pending) |
+| 1st | 3 months of osu! supporter, ***[Elite Mapper](/wiki/Contests/Contest_points)* contest points** (pending), **profile badge** (pending) |
 | 2nd | 2 months of osu! supporter |
 | 3rd | 1 month of osu! supporter |
 
@@ -111,6 +109,6 @@ By participating in this contest, you agree to the following guidelines:
 
 ---
 
-You are welcome to join our [Discord]() to receive news and updates throughout the length of the contest. For further information you can check out the [forum post]() and the [contest listing]().
+You are welcome to join our [Discord](https://discord.gg/CvVyEkhdQU) to receive news and updates throughout the length of the contest. For further information you can check out the [forum post](https://osu.ppy.sh/community/forums/topics/2091339) and the [contest listing]().
 
 —Stompy_
