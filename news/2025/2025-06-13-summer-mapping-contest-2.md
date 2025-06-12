@@ -30,9 +30,9 @@ We've prepared some lovely prizes to reward those who impress our judges the mos
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | 3 months of osu! supporter, **[contest points](/wiki/Contests/Contest_points)** (pending), **profile badge** (pending) |
-| 2nd | 2 months of osu! supporter |
-| 3rd | 1 month of osu! supporter |
+| 1st | 3 months of osu!supporter, **[contest points](/wiki/Contests/Contest_points)** (pending), **profile badge** (pending) |
+| 2nd | 2 months of osu!supporter |
+| 3rd | 1 month of osu!supporter |
 
 ## Judging
 
