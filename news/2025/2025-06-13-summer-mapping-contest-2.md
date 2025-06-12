@@ -4,7 +4,7 @@ title: "Summer Mapping Contest #2"
 date: 2025-06-13 12:00:00 +0000
 ---
 
-🌞 Summer is back, and so is the Summer Mapping Contest!
+Summer is back, and so is the Summer Mapping Contest! 🌞
 
 ![]()
 
@@ -12,7 +12,7 @@ The **Summer Mapping Contest** is an annual osu! beatmapping competition, with i
 
 The first edition launched in 2024 and was hosted by [Stompy\_](https://osu.ppy.sh/users/16429579). You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371).
 
-For this year’s edition, we’ve expanded the track list with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
+For this year's edition, we've expanded the track list with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
 
 ## Schedule
 
@@ -48,67 +48,67 @@ Your submission will be judged based on several criteria:
 
 Here are all the available tracks for this year's edition:
 
-### **Beach Bunny - Sports**
+### Beach Bunny - Sports
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.mp3">
 </audio>
 
-[Download .osz template here!](https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.osz)
+[Download the `.osz` template here!](https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.osz)
 
-### **Ricky Montgomery - Cabo**
+### Ricky Montgomery - Cabo
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/54/previews/1547.mp3">
 </audio>
 
-[Download .osz template here!](https://assets.ppy.sh/artists/54/osz/Ricky%20Montgomery%20-%20Cabo.osz)
+[Download the `.osz` template here!](https://assets.ppy.sh/artists/54/osz/Ricky%20Montgomery%20-%20Cabo.osz)
 
-### **YUC'e - Sunset Tea Cup**
+### YUC'e - Sunset Tea Cup
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.mp3">
 </audio>
 
-[Download .osz template here!](https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.osz)
+[Download the `.osz` template here!](https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.osz)
 
-### **Cansol - Colourful Flavor**
+### Cansol - Colourful Flavor
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.mp3">
 </audio>
 
-[Download .osz template here!](https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.osz)
+[Download the `.osz` template here!](https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.osz)
 
-### **Natsume Itsuki - Natsuiro Memory**
+### Natsume Itsuki - Natsuiro Memory
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.mp3">
 </audio>
 
-[Download .osz template here!](https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.osz)
+[Download the `.osz` template here!](https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.osz)
 
-### **Empty Peperoncino - Ame ni Utaeba**
+### Empty Peperoncino - Ame ni Utaeba
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.mp3">
 </audio>
 
-[Download .osz template here!](https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.osz)
+[Download the `.osz` template here!](https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.osz)
 
 ## Rules
 
-By participating in this contest, you agree to the following guidelines:
+By participating in this contest, you agree to the following rules:
 
-- All submissions must be mapped for the **osu!** game mode and will be anonymised upon submission.
+- All submissions must be mapped for the **osu!** game mode and will be anonymised upon submission (no need to do this yourself).
 - You must **not share your entry** anywhere until the contest has concluded.
-- The submitted contest entry must be a brand new beatmap with only one difficulty **made solely by you**. Collaborations with other mappers are not allowed.
-- Any **use of Artificial Intelligence (AI)** is not permitted.
-- Each contestant may only choose and submit **1 track** from the ones listed below, choose wisely.
+- The submitted contest entry must be a brand-new beatmap with only one difficulty **made solely by you**. Collaborations with other mappers are not allowed.
+- Any **use of artificial intelligence (AI)** is not permitted.
+- Each contestant may only choose and submit **1 track** from the ones listed above, choose wisely.
 - If any rules are broken, **your submission will be voided**, and you will be disqualified from the contest.
 
 ---
 
-You are welcome to join our [Discord](https://discord.gg/CvVyEkhdQU) to receive news and updates throughout the length of the contest. For further information you can check out the [forum post](https://osu.ppy.sh/community/forums/topics/2091339) and the [contest listing]().
+You are welcome to join our [Discord](https://discord.com/invite/CvVyEkhdQU) to receive news and updates throughout the duration of the contest. For further information you can check out the [forum post](https://osu.ppy.sh/community/forums/topics/2091339) and the [contest listing]().
 
 —Stompy_
