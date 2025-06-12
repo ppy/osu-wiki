@@ -10,7 +10,7 @@ date: 2025-06-13 12:00:00 +0000
 
 The **Summer Mapping Contest** is an annual osu! beatmapping competition, with its purpose being to inspire mappers from around the world to unleash their creativity and challenge the boundaries of mapping using songs from the Featured Artist catalogue.
 
-The first edition launched in 2024 and is hosted by [Stompy\_](https://osu.ppy.sh/users/16429579). You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371).
+The first edition launched in 2024 and was hosted by [Stompy\_](https://osu.ppy.sh/users/16429579). You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371).
 
 For this year’s edition, we’ve expanded the tracklist with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
 
@@ -72,7 +72,7 @@ Here are all the available tracks for this year's edition:
 
 [Download .osz template here!](https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.osz)
 
-### **Cansol - Colourful Flavour**
+### **Cansol - Colourful Flavor**
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.mp3">
@@ -102,7 +102,7 @@ By participating in this contest, you agree to the following guidelines:
 
 - All submissions must be mapped for the **osu!** game mode and will be anonymised upon submission.
 - You must **not share your entry** anywhere until the contest has concluded.
-- The submitted contest entry must be a beatmap with only one difficulty **made solely by you**. Collaborations with other mappers are not allowed.
+- The submitted contest entry must be a brand new beatmap with only one difficulty **made solely by you**. Collaborations with other mappers are not allowed.
 - Any **use of Artificial Intelligence (AI)** is not permitted.
 - Each contestant may only choose and submit **1 track** from the ones listed below, choose wisely.
 - If any rules are broken, **your submission will be voided**, and you will be disqualified from the contest.
