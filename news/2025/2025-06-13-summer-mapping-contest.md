@@ -18,13 +18,11 @@ For this year’s edition, we’ve expanded the tracklist with a wider variety o
 
 ## Schedule
 
-this is a schedule
-
 | Event | Dates |
 | --: | :-- |
-| Beatmapping (2 months) | August 25 to October 24 (15:59 UTC) |
-| Judging (2 months) | October 24 to December 23 |
-| Results (1 week) | December 30 |
+| Beatmapping (1 month) | June 13 to July 12 (23:59 UTC) |
+| Judging (2 weeks) | July 13 to July 27 |
+| Results | July 28 |
 
 ## Prizes
 
@@ -32,7 +30,7 @@ We've prepared some lovely prizes to congratulate those who impress our judges t
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | 3 months of osu! supporter, **profile badge** (pending) |
+| 1st | 3 months of osu! supporter, **Elite Mapper Points, profile badge** (pending) |
 | 2nd | 2 months of osu! supporter |
 | 3rd | 1 month of osu! supporter |
 
