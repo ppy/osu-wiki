@@ -74,7 +74,7 @@ Here are all the available tracks for this year's edition:
 
 [Download the `.osz` template here!](https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.osz)
 
-### Cansol - Colourful Flavor
+### Cansol - Colorful Flavor
 
 <audio controls>
   <source src="https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.mp3">
