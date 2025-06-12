@@ -12,7 +12,7 @@ The **Summer Mapping Contest** is an annual osu! beatmapping competition, with i
 
 The first edition launched in 2024 and was hosted by [Stompy\_](https://osu.ppy.sh/users/16429579). You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371).
 
-For this year’s edition, we’ve expanded the tracklist with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
+For this year’s edition, we’ve expanded the track list with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
 
 ## Schedule
 
