@@ -14,7 +14,7 @@ The first edition launched in 2024 and was hosted by [Stompy\_](https://osu.ppy.
 
 For this year's edition, we've expanded the track list with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
 
-If you're in a hurry to start mapping, the [submission box](LINK) is what you're looking for (but also read the [rules](#rules) first).
+If you're in a hurry to start mapping, the **[submission box](LINK)** is what you're looking for (but also read the [rules](#rules) first).
 
 ## Schedule
 
@@ -113,6 +113,6 @@ By participating in this contest, you agree to the following rules:
 
 You are welcome to join our [Discord](https://discord.com/invite/CvVyEkhdQU) to receive news and updates throughout the duration of the contest. There's also the [forum post](https://osu.ppy.sh/community/forums/topics/2091339) with all the info.
 
-When you're done, visit the [contest page](LINK) to submit your map!
+When you're done, visit the **[contest page](LINK)** to submit your map!
 
 —Stompy_
