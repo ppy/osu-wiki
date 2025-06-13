@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: June 2025"
-date: 2025-06-12 19:30:00 +0000
+date: 2025-06-13 17:30:00 +0000
 ---
 
 Keyboard smashers rejoice: osu!mania is getting the spotlight in this month's contest!
@@ -10,7 +10,7 @@ Keyboard smashers rejoice: osu!mania is getting the spotlight in this month's co
 
 The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is a mapping contest that runs every month and has *never* been delayed. Nope, never. Not once.
 
-...Anyway, this month's contest is for **osu!mania** mappers only! If you're looking for another mode, check back next month. If you're into osu!mania, peek into [the **osu!mania contest listing**](LINK) after reading through everything below.
+...Anyway, this month's contest is for **osu!mania** mappers only! If you're looking for another mode, check back next month. If you're into osu!mania, peek into [the **osu!mania contest listing**](https://osu.ppy.sh/community/contests/250) after reading through everything below.
 
 This article covers results from the last contest, plus criteria for this contest. Skip around with these links:
 
@@ -54,7 +54,7 @@ And of course, we can't forget the folks who helped judge this month's contest: 
 
 ## Contest listing
 
-[This month's contest is open to **osu!mania** mappers!](LINK)
+[This month's contest is open to **osu!mania** mappers!](https://osu.ppy.sh/community/contests/250)
 
 ## Timeline
 
@@ -115,7 +115,7 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 ---
 
-Here's what you're looking for: [the osu!mania contest listing](LINK).
+Here's what you're looking for: [the osu!mania contest listing](https://osu.ppy.sh/community/contests/250).
 
 Submit your map there by **July 3rd**!
 
