@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### General information
 
-1. All matches will be played with ScoreV2 in Head to Head mode.
+1. All matches will be played with ScoreV2 in Head-to-Head mode.
 2. Only 21 players will qualify for the bracket stage, chosen through Qualifier Stage.
 3. Special guests that are announced as a player will be seeded with their BWS rank, placing them above qualified players.
 4. All maps will be played with No Fail enabled, in addition to the appropriate mods.
