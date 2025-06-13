@@ -50,17 +50,6 @@ The ~~3rd~~ ~~4th~~ 5th time's the charm. After **5** podium placements in diffe
 
 Additionally, following our collaboration with [7K GLOBAL's bi-monthly event](https://osu.ppy.sh/community/forums/topics/2065328?n=1), we'd like to congratulate the following mappers for making it into the event's pool — including those who didn't make it into the contest itself!
 
-| Slot | User | Beatmap | Notes |
-| :-- | :-- | :-- | :-- |
-| RC1 | [taba2](https://osu.ppy.sh/users/7850508) | [BilliumMoto - Stained Satin](https://osu.ppy.sh/beatmapsets/2384840#mania/5156856) | Technical Accuracy |
-| RC2 | [_Ennill](https://osu.ppy.sh/users/12040572) | [Lime - Smiling](https://osu.ppy.sh/beatmapsets/2385976#mania/5160666) | Speed |
-| HB1 | [oct4](https://osu.ppy.sh/users/10303887) | [linear ring - lalabai call me](https://osu.ppy.sh/beatmapsets/2384834#mania/5156830) | Generic Hybrid |
-| LN1 | [Maxus](https://osu.ppy.sh/users/4335785) | [Mili - Vulnerability](https://osu.ppy.sh/beatmapsets/2130611#mania/4480897) | LN Coordination |
-| RC3 | [Rurvker](https://osu.ppy.sh/users/24526335) | [7_7 - ?_?](https://osu.ppy.sh/beatmapsets/2322222#mania/4975591) | Mixed Rice |
-| RC4 | [Ojisan-](https://osu.ppy.sh/users/11420405) | [ginkiha - EOS](LINK-TO-THE-1.025X-RATE) | Chordstream |
-| LN2 | [Hoshimegu Mio](https://osu.ppy.sh/users/17753835) | [Imy feat. Natsume Itsuki - Lies playing Truth](https://osu.ppy.sh/beatmapsets/2384811#mania/5156779) | LN Mixed |
-| HB2 | [tycrs](https://osu.ppy.sh/users/13026904) | [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2384801) | Mini TB Hybrid |
-
 And of course, we can't forget the folks who helped judge this month's contest: [ExNeko](https://osu.ppy.sh/users/7590894), [Maxus](https://osu.ppy.sh/users/4335785), [Tailsdk](https://osu.ppy.sh/users/6751666), [Blocko](https://osu.ppy.sh/users/4075092), and [_Kobii](https://osu.ppy.sh/users/6209713)!
 
 ## Contest listing
@@ -111,13 +100,13 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 ## Rules
 
-- **Submissions must follow the month's beatmapping [limitation/theme](#limitation):**
+- **Submissions must follow the month's beatmapping [limitation/theme](#limitation):** *aim to achieve the highest star rating possible.*
+  - **Submissions must be in 4K.**
   - **Submissions must not be impossible.** Maps are supposed to be reasonably challenging, but not unfairly so — they are supposed to be played after all!
   - **Long notes cannot make up more than 1/3 of the beatmap.** It wouldn't be a challenge if we were able to abuse staggered releases.
   - **Focus on making a good beatmap first and foremost.** This month's challenge is about optimising the map's star rating, but this should not come at the expense of the overall quality of the map.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
-- **Submissions must be in 4K.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).**
 - **Submissions must be solely made by you.** Collaborations are not allowed for this contest!
