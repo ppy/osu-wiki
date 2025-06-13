@@ -37,7 +37,7 @@ tags:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/7696512), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/12840110) |
+| Organizers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988) |
 | Production Team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [Nerfox](https://osu.ppy.sh/users/7976724), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [memli](https://osu.ppy.sh/users/4027614), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=PL }:: [ahamarcel](https://osu.ppy.sh/users/11483110) |
 | Mappoolers | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [H1ddenDagger](https://osu.ppy.sh/users/15676983), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | Mappers | ::{ flag=PH }:: [_xyliac](https://osu.ppy.sh/users/7989480), ::{ flag=AU }:: [Kyairie](https://osu.ppy.sh/users/10910405), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901) |
