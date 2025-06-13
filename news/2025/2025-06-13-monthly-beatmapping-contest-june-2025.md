@@ -14,7 +14,7 @@ The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*
 
 This article covers results from the last contest, plus criteria for this contest. Skip around with these links:
 
-- [Previous contest results](#osu!mania-results) (see [announcement news article](https://osu.ppy.sh/home/news/2025-04-10-monthly-beatmapping-contest-april-2025#osu!-mania))
+- [Previous contest results](#osu!mania-results) (see [announcement news article](https://osu.ppy.sh/home/news/2025-04-10-monthly-beatmapping-contest-april-2025#osu!mania))
 - [**Criteria for this month's MBC**](#contest-listing)
 
 ## Previous contest results
