@@ -48,7 +48,7 @@ The ~~3rd~~ ~~4th~~ 5th time's the charm. After **5** podium placements in diffe
 
 [tyrcs](https://osu.ppy.sh/users/13026904) deserves praise for winning too of course, but he's already won enough Monthly Beatmapping Contests to earn the *Elite Mapper* title months ago!
 
-Additionally, following our collaboration with [7K GLOBAL's bi-monthly event](https://osu.ppy.sh/community/forums/topics/2065328?n=1), we'd like to congratulate the following mappers for making it into the event's pool — including those who didn't make it into the contest itself!
+Additionally, following our collaboration with [7K GLOBAL's bi-monthly event](https://osu.ppy.sh/community/forums/topics/2065328?n=1), we'd like to congratulate the mappers who'll make it into the event's pool — including those who didn't make it into the contest itself! While we cannot announce the pool in advance, stay tuned in the forum post to discover the event's winners.
 
 And of course, we can't forget the folks who helped judge this month's contest: [ExNeko](https://osu.ppy.sh/users/7590894), [Maxus](https://osu.ppy.sh/users/4335785), [Tailsdk](https://osu.ppy.sh/users/6751666), [Blocko](https://osu.ppy.sh/users/4075092), and [_Kobii](https://osu.ppy.sh/users/6209713)!
 
