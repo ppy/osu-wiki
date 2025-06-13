@@ -14,7 +14,7 @@ The first edition launched in 2024 and was hosted by [Stompy\_](https://osu.ppy.
 
 For this year's edition, we've expanded the track list with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
 
-If you're in a hurry to start mapping, the **[submission box](LINK)** is what you're looking for (but also read the [rules](#rules) first).
+If you're in a hurry to start mapping, the **[submission box](https://osu.ppy.sh/community/contests/251)** is what you're looking for (but also read the [rules](#rules) first).
 
 ## Schedule
 
@@ -45,6 +45,15 @@ Your submission will be judged based on several criteria:
 | Song Representation (max 10 pts.) | Judged on how well your map represents the song, including intensity changes and emphasis on key moments. |
 | Creativity (max 10 pts.) | Judged on the uniqueness and execution of interesting ideas in your map. |
 | Personal Impression (max 10 pts.) | Based on the personal opinions of each judge. |
+
+### Judges
+
+- ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
+- ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+- ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280)
+- ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
+- ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986)
+- ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599)
 
 ## Available tracks
 
@@ -123,8 +132,8 @@ By participating in this contest, you agree to the following rules:
 
 ---
 
-You are welcome to join our [Discord](https://discord.com/invite/CvVyEkhdQU) to receive news and updates throughout the duration of the contest. There's also the [forum post](https://osu.ppy.sh/community/forums/topics/2091339) with all the info.
+You are welcome to join our [Discord server](https://discord.com/invite/CvVyEkhdQU) to receive news and updates throughout the duration of the contest. There's also the [forum post](https://osu.ppy.sh/community/forums/topics/2091339) with all the info.
 
-When you're done, visit the **[contest page](LINK)** to submit your map!
+When you're done, visit the **[contest page](https://osu.ppy.sh/community/contests/251)** to submit your map!
 
 —Stompy_
