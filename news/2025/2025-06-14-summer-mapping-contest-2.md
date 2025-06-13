@@ -52,49 +52,61 @@ Here are all the available tracks for this year's edition:
 
 ### Beach Bunny - Sports
 
-<audio controls>
-  <source src="https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.mp3">
-</audio>
+<div class="osu-md__paragraph">
+  <audio controls>
+    <source src="https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.mp3">
+  </audio>
+</div>
 
 [Download the `.osz` template here!](https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.osz)
 
 ### Ricky Montgomery - Cabo
 
-<audio controls>
-  <source src="https://assets.ppy.sh/artists/54/previews/1547.mp3">
-</audio>
+<div class="osu-md__paragraph">
+  <audio controls>
+    <source src="https://assets.ppy.sh/artists/54/previews/1547.mp3">
+  </audio>
+</div>
 
 [Download the `.osz` template here!](https://assets.ppy.sh/artists/54/osz/Ricky%20Montgomery%20-%20Cabo.osz)
 
 ### YUC'e - Sunset Tea Cup
 
-<audio controls>
-  <source src="https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.mp3">
-</audio>
+<div class="osu-md__paragraph">
+  <audio controls>
+    <source src="https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.mp3">
+  </audio>
+</div>
 
 [Download the `.osz` template here!](https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.osz)
 
 ### Cansol - Colorful Flavor
 
-<audio controls>
-  <source src="https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.mp3">
-</audio>
+<div class="osu-md__paragraph">
+  <audio controls>
+    <source src="https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.mp3">
+  </audio>
+</div>
 
 [Download the `.osz` template here!](https://assets.ppy.sh/artists/418/Diver_s%20City/Cansol%20-%20Colorful%20Flavor.osz)
 
 ### Natsume Itsuki - Natsuiro Memory
 
-<audio controls>
-  <source src="https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.mp3">
-</audio>
+<div class="osu-md__paragraph">
+  <audio controls>
+    <source src="https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.mp3">
+  </audio>
+</div>
 
 [Download the `.osz` template here!](https://assets.ppy.sh/artists/189/Vitamin%20Notes/Natsume%20Itsuki%20-%20Natsuiro%20Memory.osz)
 
 ### Empty Peperoncino - Ame ni Utaeba
 
-<audio controls>
-  <source src="https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.mp3">
-</audio>
+<div class="osu-md__paragraph">
+  <audio controls>
+    <source src="https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.mp3">
+  </audio>
+</div>
 
 [Download the `.osz` template here!](https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.osz)
 
