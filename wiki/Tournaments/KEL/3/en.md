@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
    - Players notify hosts on the discord channel about their chosen lobby using a pinned prompt.
 2. Last lobby for Qualifiers round cannot start after December 18th.
 3. If a team does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
-4. Each map will be played in order as they are shown on the mappool sheet. There will be one playthrough of the pool.
+4. Each map will be played in order as they are shown on the mappool sheet. There will be one play through of the pool.
 5. 90 second timers are used for players to ready up.
 6. Due to this process, teams with players who are screened out will be disqualified from the tournament.
 7. Top 28 players using avg sum of placements, will proceed to Bracket Stage.
