@@ -35,7 +35,7 @@ This contest came shortly after the conclusion of this year's [osu!mania 7K Worl
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [tycrs](https://osu.ppy.sh/users/13026904) | [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2384801) | - | - | +2 (9 total) |
+| Winner | [tyrcs](https://osu.ppy.sh/users/13026904) | [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2384801) | - | - | +2 (9 total) |
 | Runner-up | [oct4](https://osu.ppy.sh/users/10303887) | [linear ring - lalabai call me](https://osu.ppy.sh/beatmapsets/2384834) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +1 (6 total) |
 
 #### Top submissions
@@ -46,7 +46,7 @@ This contest came shortly after the conclusion of this year's [osu!mania 7K Worl
 
 The ~~3rd~~ ~~4th~~ 5th time's the charm. After **5** podium placements in different Monthly Beatmapping Contests, [oct4](https://osu.ppy.sh/users/10303887) has finally managed to join the ranks as one of osu!'s *Elite Mappers*.
 
-[tycrs](https://osu.ppy.sh/users/13026904) deserves praise for winning too of course, but he's already won enough Monthly Beatmapping Contests to earn the *Elite Mapper* title months ago!
+[tyrcs](https://osu.ppy.sh/users/13026904) deserves praise for winning too of course, but he's already won enough Monthly Beatmapping Contests to earn the *Elite Mapper* title months ago!
 
 Additionally, following our collaboration with [7K GLOBAL's bi-monthly event](https://osu.ppy.sh/community/forums/topics/2065328?n=1), we'd like to congratulate the following mappers for making it into the event's pool — including those who didn't make it into the contest itself!
 
