@@ -68,8 +68,8 @@ tags:
 | ::{ flag=UA }:: | **Ukraine** | [sharytory](https://osu.ppy.sh/users/16139008) |
 | ::{ flag=US }:: | **United States** | [im a fancy lad](https://osu.ppy.sh/users/4908650) |
 | ::{ flag=PL }:: | **Poland** | [eniu](https://osu.ppy.sh/users/5472693) |
-| ::{ flag=UK }:: | **United Kingdom** | [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ::{ flag=UK }:: | **United Kingdom** | [Mahmood](https://osu.ppy.sh/users/7627844) |
+| ::{ flag=GB }:: | **United Kingdom** | [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ::{ flag=GB }:: | **United Kingdom** | [Mahmood](https://osu.ppy.sh/users/7627844) |
 | ::{ flag=PL }:: | **Poland** | [milosz](https://osu.ppy.sh/users/13108233) |
 | ::{ flag=DE }:: | **Germany** | [ZeitFrost](https://osu.ppy.sh/users/11234706) |
 | ::{ flag=PL }:: | **Poland** | [gnahus](https://osu.ppy.sh/users/12779141) |
