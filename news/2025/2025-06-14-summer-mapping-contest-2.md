@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Mapping Contest #2"
-date: 2025-06-13 12:00:00 +0000
+date: 2025-06-14 00:00:00 +0000
 ---
 
 Summer is back, and so is the Summer Mapping Contest! 🌞
@@ -20,9 +20,9 @@ If you're in a hurry to start mapping, the **[submission box](LINK)** is what yo
 
 | Event | Dates |
 | --: | :-- |
-| Beatmapping (1 month) | June 13 to July 13 (23:59 UTC) |
-| Judging (2 weeks) | July 14 to July 27 (23:59 UTC) |
-| Results | July 28 |
+| Beatmapping (1 month) | June 14 to July 14 (23:59 UTC) |
+| Judging (2 weeks) | July 15 to July 28 (23:59 UTC) |
+| Results | July 29 |
 
 ## Prizes
 
