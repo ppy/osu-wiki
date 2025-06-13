@@ -6,7 +6,7 @@ date: 2025-06-14 00:00:00 +0000
 
 Summer is back, and so is the Summer Mapping Contest! 🌞
 
-![]()
+![](https://assets.ppy.sh/contests/251/banner.jpg)
 
 The **Summer Mapping Contest** is an annual osu! beatmapping competition, with its purpose being to inspire mappers from around the world to unleash their creativity and challenge the boundaries of mapping using songs from the Featured Artist catalogue.
 
