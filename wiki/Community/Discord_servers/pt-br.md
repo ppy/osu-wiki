@@ -60,6 +60,7 @@ Esses servidores fornecem tudo relacionado a [torneios](/wiki/Tournaments). Eles
 | :-: | :-- | :-- | :-- |
 | [![](img/osu!-Tournament-Hub.png)](https://discord.com/invite/bvhajDC) | [osu! Tournament Hub](https://discord.com/invite/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) | O **osu! Tournament Hub** oferece recursos sobre organização de torneios e canais para divulgar novos torneios e recrutamento de equipe em todos os modos e regiões. |
 | [![](img/osu!mania-Tourney-Central.png)](https://discord.com/invite/WnMcrUnGV5) | [osu!mania Tourney Central](https://discord.com/invite/WnMcrUnGV5) | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | O **osu!mania Tourney Central** foca em recursos e recrutamento de equipe para torneios no modo osu!mania. |
+| [![](img/poolingcore.png)](https://discord.com/invite/gpEbCBE7Jg) | [poolingcore](https://discord.com/invite/gpEbCBE7Jg) | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) | **poolingcore** oferece recursos sobre a mappool e mapping principalmente no modo de jogo osu!. O servidor oferece jogos e competições ocasionalmente relacionados a mappooling e permite que hosts verificados recrutem mappoolers e mappers ativos para os seus torneios. |
 
 ## Projeto Loved
 
