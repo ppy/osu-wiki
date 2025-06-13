@@ -80,7 +80,7 @@ tags:
 | ::{ flag=UA }:: | **Ukraine** | [RafGPio](https://osu.ppy.sh/users/13705417) |
 | ::{ flag=PL }:: | **Poland** | [Tutka](https://osu.ppy.sh/users/8170022) |
 | ::{ flag=PL }:: | **Poland** | [-BocheN-](https://osu.ppy.sh/users/18567604) |
-| ::{ flag=UK }:: | **United Kingdom** | [LilRaiN00](https://osu.ppy.sh/users/10903895) |
+| ::{ flag=GB }:: | **United Kingdom** | [LilRaiN00](https://osu.ppy.sh/users/10903895) |
 | ::{ flag=PL }:: | **Poland** | [bobiak](https://osu.ppy.sh/users/13003230) |
 | ::{ flag=PL }:: | **Poland** | [kacperniszon](https://osu.ppy.sh/users/4656634) |
 | ::{ flag=PL }:: | **Poland** | [Sowisty](https://osu.ppy.sh/users/6808620) |
