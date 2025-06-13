@@ -199,7 +199,7 @@ This competition has come to an end and resulted in the following podium:
 2. Only 21 players will qualify for the bracket stage, chosen through Qualifier Stage.
 3. Special guests that are announced as a player will be seeded with their BWS rank, placing them above qualified players.
 4. All maps will be played with No Fail enabled, in addition to the appropriate mods.
-5. Staff are prohibited from playing in the tournament with the exception of streamers, commentators, and GFX artists.
+5. Staff are prohibited from playing in the tournament except streamers, commentators, and GFX artists.
 
 ### Qualifier procedure
 
