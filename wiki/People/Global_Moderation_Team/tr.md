@@ -61,7 +61,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Çince, Malayca, Kantonca, biraz Japonca | Mapping/modding topluluk moderasyonu |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | İtalyanca | Mapping/modding topluluk moderasyonu |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | | Chat moderation |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Sohbet moderasyonu |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sırpça | Team leadership, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |

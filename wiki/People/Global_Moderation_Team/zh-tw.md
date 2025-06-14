@@ -63,7 +63,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 中文、馬來文、粵語、部分日文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 德文 | 聊天室管理員 |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | 義大利文 | 製圖/Mod 圖社群管理員 |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | | Chat moderation |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | 聊天室管理員 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄文 | 聊天室管理員 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞爾維亞文 | 團隊領袖、general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 論壇管理員 |

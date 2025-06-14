@@ -61,7 +61,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | จีน, มาเลย์, กวางตุ้ง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | เยอรมัน | ผู้ดูแลแชท |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | อิตาลี | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | | Chat moderation |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | ผู้ดูแลแชท |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | รัสเซีย | ผู้ดูแลแชท |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | เซอร์เบีย | Team leadership, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | ผู้ดูแลฟอรั่ม |

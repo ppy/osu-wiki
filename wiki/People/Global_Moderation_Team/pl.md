@@ -54,7 +54,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chiński, malajski, kantoński, japoński (częściowo) | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Niemiecki | Moderowanie czatu |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Włoski | Moderowanie społeczności twórców i moderów beatmap |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | | Chat moderation |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Moderowanie czatu |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rosyjski | Moderowanie czatu |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbski | Team leadership, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderowanie forum |
