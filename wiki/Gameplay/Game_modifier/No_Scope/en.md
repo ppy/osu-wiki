@@ -36,7 +36,7 @@ Visibility is also temporarily restored during [breaks](/wiki/Beatmap/Break).
 
 ## Customisation
 
-![No Scope customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.jpg)
+![No Scope customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.png)
 
 - **Hidden at combo** (0–50, default 10): The combo at which the cursor or catcher will be fully hidden. If set to 0, it will only be visible during breaks.
 
