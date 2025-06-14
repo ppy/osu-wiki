@@ -60,13 +60,16 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 | 名前 | その他の言語 | 注力分野 |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 中国語、マレー語、広東語、部分的な日本語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | ドイツ語 | チャットモデレーション |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | イタリア語 | Mapping/modding コミュニティ モデレーション |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | チャットモデレーション |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 中国語、マレー語、広東語、部分的な日本語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | ロシア語 | チャットモデレーション |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | セルビア語 | Team leadership、general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | フォーラムモデレーション |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | チャットモデレーション、mapping/modding コミュニティ モデレーション、general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | オランダ語、部分的なドイツ語 | General moderation |
+| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | 中国語 | チャットモデレーション、フォーラムモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | フランス語 | チャットモデレーション、フォーラムモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | トーナメント運営 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 中国語、マレー語 | チャットモデレーション |
@@ -91,6 +94,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | ロシア語 | チャットモデレーション |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | フィンランド語、部分的なスウェーデン語 | チャットモデレーション |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | ポルトガル語、スペイン語 | チャットモデレーション、トーナメント運営 |
+| ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072) | スペイン語 | チャットモデレーション |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | ドイツ語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | ドイツ語 | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 広東語、中国語 | トーナメント運営 |
@@ -103,7 +107,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | フランス語 | チャットモデレーション |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | ドイツ語、セルビア語 | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | General moderation |
+| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | フランス語 | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | マレー語 | チャットモデレーション |
@@ -119,7 +123,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | インドネシア語、部分的なベトナム語 | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 中国語 | チャットモデレーション |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韓国語 | Mapping/modding コミュニティ モデレーション |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | ハンガリー語 | チャットモデレーション |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | ドイツ語、セルビア語 | フォーラムモデレーション |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | フィンランド語 | チャットモデレーション |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | フォーラムモデレーション、チャットモデレーション |
@@ -127,9 +130,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | フィリピノ語 | チャットモデレーション |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | タイ語 | チャットモデレーション |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | スペイン語 | テクニカルサポート |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | オランダ語 | チャットモデレーション |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | ポーランド語 | Team leadership、チャットモデレーション、mapping/modding コミュニティ モデレーション |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | スペイン語 | チャットモデレーション |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | インドネシア語 | チャットモデレーション |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | ポーランド語 | チャットモデレーション |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | チャットモデレーション |
@@ -140,7 +141,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | チャンネル | サブフォーラム | モデレーター |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |

@@ -58,13 +58,16 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 | รายชื่อ | ภาษาที่ใช้ | ตำแหน่ง/หน้าที่ |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | จีน, มาเลย์, กวางตุ้ง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | เยอรมัน | ผู้ดูแลแชท |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | อิตาลี | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | ผู้ดูแลแชท |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | จีน, มาเลย์, กวางตุ้ง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | รัสเซีย | ผู้ดูแลแชท |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | เซอร์เบีย | Team leadership, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | ผู้ดูแลฟอรั่ม |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | ดัตช์, เยอรมัน บ้าง | General moderation |
+| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | จีน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | ฝรั่งเศส | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | ผู้บริหารทัวร์นาเมนต์ |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | จีน, มาเลย์ | ผู้ดูแลแชท |
@@ -89,6 +92,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | รัสเซีย | ผู้ดูแลแชท |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | ฟินแลนด์, สวีเดน บ้าง | ผู้ดูแลแชท |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | โปรตุเกส, สเปน | ผู้ดูแลแชท, ผู้บริหารทัวร์นาเมนต์ |
+| ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072) | สเปน | ผู้ดูแลแชท |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | เยอรมัน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | เยอรมัน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | กวางตุ้ง, จีน | ผู้บริหารทัวร์นาเมนต์ |
@@ -101,7 +105,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | ฝรั่งเศส | ผู้ดูแลแชท |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | เยอรมัน, เซอร์เบีย | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | General moderation |
+| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | ฝรั่งเศส | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | มาเลย์ | ผู้ดูแลแชท |
@@ -117,7 +121,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | อินโดนีเซีย, เวียดนาม บ้าง | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | จีน | ผู้ดูแลแชท |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | เกาหลี | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | ฮังการี | ผู้ดูแลแชท |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | เยอรมัน, เซอร์เบีย | ผู้ดูแลฟอรั่ม |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | ฟินแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | ผู้ดูแลฟอรั่ม, ผู้ดูแลแชท |
@@ -125,9 +128,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | ฟิลิปปินส์ | ผู้ดูแลแชท |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | ไทย | ผู้ดูแลแชท |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | สเปน | ผู้สนับสนุนทางเทคนิค |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | ดัตช์ | ผู้ดูแลแชท |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | โปแลนด์ | Team leadership, ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | สเปน | ผู้ดูแลแชท |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | อินโดนีเซีย | ผู้ดูแลแชท |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | โปแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | ผู้ดูแลแชท |
@@ -138,7 +139,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | รายชื่อภาษา | ตัวอักษร | รายชื่อบุคคล |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
