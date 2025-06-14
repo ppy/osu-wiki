@@ -1,8 +1,3 @@
----
-outdated_since: 1e9cf11032117d2e470e99cfa7c5857207a06786
-outdated_translation: true
----
-
 # Criterios de clasificación
 
 Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
@@ -97,7 +92,6 @@ Importante entender antes de usar:
   - La dificultad más alta de cada modo de juego.
   - Las dificultades más altas de cada modo de juego con un nivel de dificultad similar, aplicándose solo a las dificultades Insane y Extra (por ejemplo, las dificultades Insane de un conjunto ENHIIII o las dificultades Extra de un conjunto ENHIIXXX).
 - **Los nombres de dificultad personalizados de un beatmap deben seguir un tema o patrón común relacionado con la canción o dificultad y no deben ser tergiversados.** Un nombre de dificultad es engañoso si implica un nivel de dificultad diferente (por ejemplo, nombrar una dificultad «Expert» como «Normal»).
-- **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) no puede indicar posesión en el nombre de una dificultad.** (por ejemplo, Beatmap Host's Insane). Las únicas excepciones son los conflictos causados por el beatmapping de varias canciones con los mismos metadatos y las [dificultades colaborativas](/wiki/Beatmap/Beatmap_collaborations). Las [dificultades de invitado](/wiki/Beatmap/Guest_difficulty), sin embargo, pueden indicar posesión con el nombre de usuario o apodo de sus creadores.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) debe haber mapeado igual o más dificultades que cualquier creador de [dificultades de invitado](/wiki/Beatmap/Guest_difficulty).** Esto se hace para dar crédito a quien lo merece. Las [dificultades colaborativas](/wiki/Beatmap/Beatmap_collaborations) solo se consideran dificultades parciales, y el [tiempo de drenaje](/wiki/Beatmap/Drain_time) se usará para determinar la cantidad de contribución cuando un invitado haya mapeado significativamente más que el anfitrión.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) y los creadores de [dificultades de invitado](/wiki/Beatmap/Guest_difficulty) pueden hacer cambios en sus respectivas dificultades como deseen.** En caso de desacuerdo entre ambos, el anfitrión del beatmap deberá eliminar la contribución del invitado si así lo solicita. Si no se puede contactar con el creador de una dificultad de invitado durante un mes, se asumirá que está de acuerdo con cualquier cambio.
 - **Los beatmaps no pueden contener partes significativas de dificultades pertenecientes a otros usuarios sin su participación o permiso explícitos.**
@@ -105,8 +99,9 @@ Importante entender antes de usar:
 ### Pautas
 
 - **La dificultad más alta de un beatmap debe corresponder a la sensación general de la canción.** Las dificultades Easy/Normal pueden usarse como dificultad única de un beatmap si sus ritmos no están demasiado simplificados. En caso contrario, debe incluirse una dificultad Hard o superior.
-- **Evita las combinaciones incomprensibles de nombres de usuario para indicar la posesión de una [dificultad colaborativa](/wiki/Beatmap/Beatmap_collaborations).** Si no está claro de quienes son los nombres de usuario combinados, es recomendable simplificarlos.
-- **Evita los nombres de dificultad con elementos descriptivos que no estén claramente relacionados con el creador de una [dificultad de invitado](/wiki/Beatmap/Guest_difficulty) o con un nivel de dificultad.** (por ejemplo, Beatmap Creator's Tragic Love Extra).
+- **Los nombres de las dificultades no deben ser confusos.**  
+  - **Los nombres descriptivos de las dificultades deben tener relación con la canción.** Al añadir otros términos como `Tragic Love` al nombre de una dificultad, debe estar relacionado con la canción.
+  - **Al combinar varios nombres de usuario en un único nombre para una [dificultad de invitado](/wiki/Beatmap/Guest_difficulty), asegúrate de que el nombre siga siendo comprensible.** Por ejemplo, `Mamayucha` al ser una [dificultad colaborativa](/wiki/Beatmap/Beatmap_collaborations) entre `Mani`, `Mari`, `Yuzu` y `Mocha` pierde muchas de las características de los colaboradores en comparación con listar sus nombres de usuario completos. Reemplazar el nombre de usuario colectivo por `Collab` o un descriptor como `osu! Mascots' Expert` puede resultar más claro.
 - **Los nombres de usuario que indican la posesión de una [dificultad de invitado](/wiki/Beatmap/Guest_difficulty) deben ser consistentes entre varios beatmaps.** Los apodos diferentes para un usuario hacen que la interpretación de quién creó una dificultad sea ambigua o engañosa.
 - **Evita los caracteres unicode no alfanuméricos en el nombre de una dificultad.** Estos pueden causar errores con el [sistema de envío de beatmaps](/wiki/Beatmapping/Beatmap_submission) y problemas para ciertos usuarios cuando aparecen en el chat.
 
