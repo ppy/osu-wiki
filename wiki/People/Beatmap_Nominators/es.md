@@ -191,10 +191,10 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | Chino |
-| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | Ruso |
 | ::{ flag=RU }:: [- Lenkon](https://osu.ppy.sh/users/13894938) | Ruso |
 | ::{ flag=ID }:: [[-E S I A-]](https://osu.ppy.sh/users/5159715) | Indonesio |
+| ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | Chino |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | Ruso |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, chino |
 | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | Neerlandés |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |

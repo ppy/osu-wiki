@@ -192,10 +192,10 @@ BN 可获得以下特权：
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | 汉语 |
-| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | 俄语 |
 | ::{ flag=RU }:: [- Lenkon](https://osu.ppy.sh/users/13894938) | 俄语 |
 | ::{ flag=ID }:: [[-E S I A-]](https://osu.ppy.sh/users/5159715) | 印度尼西亚语 |
+| ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | 汉语 |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | 俄语 |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 粤语，汉语 |
 | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | 荷兰语 |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |

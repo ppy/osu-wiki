@@ -77,10 +77,10 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 
 | Tên | Các ngôn ngữ khác | Mảng phụ trách chính |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Tiếng Trung, Tiếng Mã Lai, Tiếng Quảng Đông, một chút Tiếng Nhật | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Tiếng Đức | Kiểm duyệt chat |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Tiếng Italy | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Kiểm duyệt chat |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Tiếng Trung, Tiếng Mã Lai, Tiếng Quảng Đông, một chút Tiếng Nhật | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Tiếng Nga | Kiểm duyệt chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Tiếng Serbia | Trưởng nhóm, kiểm duyệt chung |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Kiểm duyệt diễn đàn |

@@ -78,10 +78,10 @@ tags:
 
 | 名字 | 语言 | 专职范围 |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 汉语，马来语，粤语，一部分日语 | 作图摸图社群管理员 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天管理员 |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | 意大利语 | 作图摸图社群管理员 |
 | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | 聊天管理员 |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 汉语，马来语，粤语，一部分日语 | 作图摸图社群管理员 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天管理员 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞尔维亚语 | 团队领导，全局管理员 |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 论坛管理员 |

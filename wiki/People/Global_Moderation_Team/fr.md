@@ -80,10 +80,10 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 
 | Nom | Langues additionnelles | Domaine d'intervention |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinois, malais, cantonais, un peu de japonais | Modération de la communauté modding/mapping |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Allemand | Modération du tchat |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italien | Modération de la communauté modding/mapping |
 | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Modération du tchat |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinois, malais, cantonais, un peu de japonais | Modération de la communauté modding/mapping |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbe | Direction d'équipe, modération générale |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Modération du forum |

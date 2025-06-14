@@ -76,10 +76,10 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 | Name | Additional languages | Area of focus |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese, Malay, Cantonese, some Japanese | Mapping/modding community moderation |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat moderation |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italian | Mapping/modding community moderation |
 | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Chat moderation |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese, Malay, Cantonese, some Japanese | Mapping/modding community moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russian | Chat moderation |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbian | Team leadership, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderation |

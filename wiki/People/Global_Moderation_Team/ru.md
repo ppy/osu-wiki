@@ -80,10 +80,10 @@ tags:
 
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Китайский, малайский, кантонский, частично японский | Модерация маппинг-сообщества |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Немецкий | Модерация чата |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Итальянский | Модерация маппинг-сообщества |
 | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Модерация чата |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Китайский, малайский, кантонский, частично японский | Модерация маппинг-сообщества |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Сербский | Лидерство, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Модерация форума |
