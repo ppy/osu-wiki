@@ -57,7 +57,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 | Posición | Usuario |
 | :-: | :-- |
-| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar")  | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) |
+| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) |
 | ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) |
 | ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
 
