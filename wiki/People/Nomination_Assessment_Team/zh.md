@@ -133,45 +133,45 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 俄语 |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | 瑞典语 |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
+| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnish |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 
 #### osu!taiko
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 汉语 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语, 法语, 一些意大利语 |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | 一些德语 |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一些法语 |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Some German |
+| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
 #### osu!catch
 
 | 名字 | 语言 |
 | :-- | :-- |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 
 #### osu!mania
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语, 法语 |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 加泰罗尼亚语，西班牙语 |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
 
 ### 组织
 
@@ -179,20 +179,19 @@ NAT 领导人的职责是：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文件 |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织者 |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 维护谱面上架标准 (RC) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 开发 [BN 管理网站](https://bn.mappersguild.com) |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
 
 以下 NAT 成员主要负责评估分类的事项，但也会参与组织分类的事项：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 处理内容举报 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 开发[提名规划师 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 开发 [BN 管理网站](https://bn.mappersguild.com) 和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck) |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 
 ---
 
