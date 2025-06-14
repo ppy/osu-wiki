@@ -43,8 +43,8 @@ osu! wiki menyimpan artikel dalam folder yang berisikan teks asli (`en.md`) bese
 
 - Untuk menambahkan **terjemahan baru** bagi artikel yang sudah ada, klik kanan folder artikel ini dan buat berkas `.md` baru dengan nama berkas yang [sesuai dengan format nama yang didukung](/wiki/Article_styling_criteria/Formatting#locales).
 - Untuk menambahkan **artikel baru**, lakukan hal-hal berikut:
-   - Buat folder baru pada kategori artikel yang sesuai dengan nama folder yang mengikuti [konvensi penamaan berikut](/wiki/Article_styling_criteria/Formatting#folder-and-file-structure).  Apabila artikel ini tidak termasuk ke dalam kategori mana pun, buat folder baru untuk artikel ini pada direktori `/wiki/`.
-   - Tambahkan berkas `en.md` ini beserta dengan teks artikel ke folder yang baru dibuat.
+  - Buat folder baru pada kategori artikel yang sesuai dengan nama folder yang mengikuti [konvensi penamaan berikut](/wiki/Article_styling_criteria/Formatting#folder-and-file-structure).  Apabila artikel ini tidak termasuk ke dalam kategori mana pun, buat folder baru untuk artikel ini pada direktori `/wiki/`.
+  - Tambahkan berkas `en.md` ini beserta dengan teks artikel ke folder yang baru dibuat.
 
 ### Mengoperasikan berkas
 
