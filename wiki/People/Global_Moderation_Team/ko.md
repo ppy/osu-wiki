@@ -31,6 +31,7 @@ tags:
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 중국어, 말레이어, 광둥어, 약간의 일본어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 독일어 | 채팅 관리 |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | 이탈리아어 | 매핑/모딩 커뮤니티 관리 |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | | Chat moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 러시아어 | 채팅 관리 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 세르비아어 | 팀 리더, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 포럼 관리 |
@@ -108,7 +109,6 @@ tags:
 | 채널 | 서브 포럼 | 관리자 |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |

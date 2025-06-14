@@ -13,7 +13,6 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | Nom | Rôles antérieurs |
 | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | NAT |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Modérateur de tchat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | GMT |
 | ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707) | BAT |

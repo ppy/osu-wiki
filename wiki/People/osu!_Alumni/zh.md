@@ -16,7 +16,6 @@ tags:
 | 用户名 | 曾任职务 |
 | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | NAT |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | 聊天管理员 |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | GMT |
 | ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707) | BAT |

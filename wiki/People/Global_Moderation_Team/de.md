@@ -80,6 +80,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinesisch, Malaiisch, Kantonesisch, etwas Japanisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Deutsch | Chat-Moderation |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italienisch | Moderation der Mapping-/Modding-Community |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | | Chat moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russisch | Chat-Moderation |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbisch | Teamleitung, Allgemeine Moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum-Moderation |

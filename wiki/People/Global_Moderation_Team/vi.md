@@ -80,6 +80,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Tiếng Trung, Tiếng Mã Lai, Tiếng Quảng Đông, một chút Tiếng Nhật | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Tiếng Đức | Kiểm duyệt chat |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Tiếng Italy | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | | Chat moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Tiếng Nga | Kiểm duyệt chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Tiếng Serbia | Trưởng nhóm, kiểm duyệt chung |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Kiểm duyệt diễn đàn |
@@ -157,7 +158,6 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | Kênh chat | Diễn đàn | Kiểm duyệt viên |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |

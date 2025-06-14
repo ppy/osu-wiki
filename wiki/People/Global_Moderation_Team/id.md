@@ -62,6 +62,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Tionghoa, Melayu, Kanton, sedikit Jepang | Moderasi komunitas mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Jerman | Moderasi chat |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italia | Moderasi komunitas mapping/modding |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | | Chat moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbia | Team leadership, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderasi forum |
@@ -139,7 +140,6 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | Kanal percakapan | Sub-forum | Moderator |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
