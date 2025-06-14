@@ -130,7 +130,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Nekomata Master+ - squall (Reisen Udongein) [Muya's Another]](https://osu.ppy.sh/beatmapsets/127772#osu/335800)
   4. [KikuoHana - Nobore! Susume! Takai Tou (Karen) [Expert]](https://osu.ppy.sh/beatmapsets/528821#osu/1121504)
 - Tiebreaker
-  1. [nm-y vs. Kry.exe - Kaiju (Aerousea) [Primordial Disintegration Point]](https://osu.ppy.sh/beatmapsets/2284698#osu/4872864)
+  1. **[nm-y vs. Kry.exe - Kaiju (Aerousea) [Primordial Disintegration Point]](https://osu.ppy.sh/beatmapsets/2284698#osu/4872864)**
 
 ### Quarterfinals & Semifinals
 
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
   2. [SOUND HOLIC - break through the night (Net0) [Stage 6 ~ Tenkyuu Chimata]](https://osu.ppy.sh/beatmapsets/1513750#osu/3105221)
   3. [m108 - Shinku no Senkou (Leader) [Niva's Insane]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298595)
 - Tiebreaker
-  1. [Umeboshi Chazuke - AJITAMA Adventure OST (toybot) [Egg Quest]](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)
+  1. **[Umeboshi Chazuke - AJITAMA Adventure OST (toybot) [Egg Quest]](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)**
 
 ### Round of 32 & Round of 16
 
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
   2. [A-One feat. ayaponzu* - Justice Monster (Chizu-Kun) [Insane]](https://osu.ppy.sh/beatmapsets/1513750#osu/3105221)
   3. [kors k - SigSig (AJT) [Nisan's Insane]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298595)
 - Tiebreaker
-  1. [Down - Kizan (Down) [Slayer]](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)
+  1. **[Down - Kizan (Down) [Slayer]](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)**
 
 ### Qualifiers
 
