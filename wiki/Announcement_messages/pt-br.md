@@ -5,7 +5,6 @@ tags:
   - announce user group
   - anuncio
   - grupo de usuarios de anuncios
-no_native_review: true
 ---
 
 # Mensagens de Anúncio
@@ -22,7 +21,7 @@ Uma **mensagem de anúncio** é um tipo especial de mensagem cujo propósito é 
 
 ## Elegibilidade
 
-Enviar e responder a mensagens de anúncio através do site requer ser um membro da  [Equipe de Moderação Global](/wiki/People/Global_Moderation_Team), da [Equipe de Avaliação de Nomeações](/wiki/People/Nomination_Assessment_Team), ou do [grupo de usuários](/wiki/People/User_group) de anúncios. No entanto, apenas os membros do grupo de usuários de anúncios têm permissão para enviar anúncios de chat através da [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
+Para enviar e responder mensagens de anúncio no site, é necessário ser um membro da [Equipe de Moderação Global](/wiki/People/Global_Moderation_Team), da [Equipe de Avaliação de Nomeações](/wiki/People/Nomination_Assessment_Team), ou do [grupo de usuários](/wiki/People/User_group) de anúncios. No entanto, apenas os membros do grupo de usuários de anúncios têm permissão para enviar anúncios de chat utilizando a [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Fazendo uma requisição
 
