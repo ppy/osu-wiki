@@ -25,8 +25,8 @@ Walaupun seluruh menu editor dapat diakses dari tampilan antarmuka yang ada, car
 Setelah kamu membaca [Praktik kontribusi terbaik § Membuat perubahan](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits), buat branch baru untuk menyimpan perubahan yang kamu perbuat.
 
 1. Klik nama branch saat ini pada pojok kiri bawah layar, atau tekan `F1` dan ketik `branch`.
-  - Pilih `Create new branch...`, masukkan nama branch yang ingin dibuat ini, dan tekan `Enter`.
-  - Untuk membantu kamu mengingat pekerjaanmu, pilihlah nama yang bersifat deskriptif. Sebagai contoh, pada saat kamu menerjemahkan artikel [Beatmap Discussion](/wiki/Beatmap_discussion) ke Bahasa Jerman, kamu dapat menamai branch ini degnan nama `de-modding-v2`.
+   - Pilih `Create new branch...`, masukkan nama branch yang ingin dibuat ini, dan tekan `Enter`.
+   - Untuk membantu kamu mengingat pekerjaanmu, pilihlah nama yang bersifat deskriptif. Sebagai contoh, pada saat kamu menerjemahkan artikel [Beatmap Discussion](/wiki/Beatmap_discussion) ke Bahasa Jerman, kamu dapat menamai branch ini degnan nama `de-modding-v2`.
 2. Untuk kembali ke perubahanmu, pilih nama branch yang sesuai pada menu dropdown ini.
 
 ## Menyunting
@@ -43,8 +43,8 @@ osu! wiki menyimpan artikel dalam folder yang berisikan teks asli (`en.md`) bese
 
 - Untuk menambahkan **terjemahan baru** bagi artikel yang sudah ada, klik kanan folder artikel ini dan buat berkas `.md` baru dengan nama berkas yang [sesuai dengan format nama yang didukung](/wiki/Article_styling_criteria/Formatting#locales).
 - Untuk menambahkan **artikel baru**, lakukan hal-hal berikut:
-  - Buat folder baru pada kategori artikel yang sesuai dengan nama folder yang mengikuti [konvensi penamaan berikut](/wiki/Article_styling_criteria/Formatting#folder-and-file-structure).  Apabila artikel ini tidak termasuk ke dalam kategori mana pun, buat folder baru untuk artikel ini pada direktori `/wiki/`.
-  - Tambahkan berkas `en.md` ini beserta dengan teks artikel ke folder yang baru dibuat.
+   - Buat folder baru pada kategori artikel yang sesuai dengan nama folder yang mengikuti [konvensi penamaan berikut](/wiki/Article_styling_criteria/Formatting#folder-and-file-structure).  Apabila artikel ini tidak termasuk ke dalam kategori mana pun, buat folder baru untuk artikel ini pada direktori `/wiki/`.
+   - Tambahkan berkas `en.md` ini beserta dengan teks artikel ke folder yang baru dibuat.
 
 ### Mengoperasikan berkas
 
@@ -56,7 +56,7 @@ osu! wiki menyimpan artikel dalam folder yang berisikan teks asli (`en.md`) bese
 ## Meng-commit perubahan
 
 :::Infobox
-![](img/commit-and-push.gif "Commit dan push perubahan yang telah diperbuat untuk menyimpan perubahan ini secara permanen")
+![](img/commit-and-push.gif "Commit dan push perubahan yang telah diperbuat untuk menyimpan perubahan secara permanen")
 :::
 
 1. Buka tampilan source control (`Ctrl` + `Shift` + `G`).
