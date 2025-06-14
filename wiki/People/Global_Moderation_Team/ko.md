@@ -30,11 +30,13 @@ tags:
 | :-- | :-- | :-- |
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 중국어, 말레이어, 광둥어, 약간의 일본어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 독일어 | 채팅 관리 |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | 이탈리아어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 러시아어 | 채팅 관리 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 세르비아어 | 팀 리더, general moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 포럼 관리 |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 네덜란드어, 약간의 독일어 | General moderation |
+| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | 중국어 | 채팅 관리, 포럼 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | 프랑스어 | 채팅 관리, 포럼 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 토너먼트 관리 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 중국어, 말레이어 | 채팅 관리 |
@@ -59,6 +61,7 @@ tags:
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | 러시아어 | 채팅 관리 |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | 핀란드어, 약간의 스웨덴어 | 채팅 관리 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 포르투갈어, 스페인어 | 채팅 관리, 토너먼트 관리 |
+| ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072) | 스페인어 | 채팅 관리 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 독일어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | 독일어 | 채팅 관리, 포럼 관리 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 광둥어, 중국어 | 토너먼트 관리 |
@@ -71,7 +74,7 @@ tags:
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 프랑스어 | 채팅 관리 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 독일어, 세르비아어 | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 공식 팀 |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 독일어 | General moderation |
+| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | 프랑스어 | 채팅 관리, 포럼 관리 |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 광둥어, 중국어 | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 한국어, 일본어 | 채팅 관리 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 말레이어 | 채팅 관리 |
@@ -87,7 +90,6 @@ tags:
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 인도네시아어, 약간의 베트남어 | 채팅 관리, 포럼 관리 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 중국어 | 채팅 관리 |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 한국어 | 매핑/모딩 커뮤니티 관리 |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | 헝가리어 | 채팅 관리 |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 독일어, 세르비아어 | 포럼 관리 |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | 핀란드어 | 채팅 관리 |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | 포럼 관리, 채팅 관리 |
@@ -95,9 +97,7 @@ tags:
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | 필리핀어 | 채팅 관리 |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | 태국어 | 채팅 관리 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 스페인어 | 기술 지원 |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | 네덜란드어 | 채팅 관리 |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | 폴란드어 | 팀 리더, 채팅 관리, 매핑/모딩 커뮤니티 관리 |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 스페인어 | 채팅 관리 |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | 인도네시아어 | 채팅 관리 |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | 폴란드어 | 채팅 관리 |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | 채팅 관리 |
