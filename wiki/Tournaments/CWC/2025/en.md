@@ -113,18 +113,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ## Match schedule: Round of 32
 
-### Saturday, 14 June 2025
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Germany ::{ flag=DE }:: | ::{ flag=SG }:: Singapore | [Jun 14 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T120000&p1=1440&p2=37&p3=236) | [osulive](https://twitch.tv/osulive) |
-| Japan ::{ flag=JP }:: | ::{ flag=TR }:: Türkiye | [Jun 14 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T123000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=VN }:: Vietnam | [Jun 14 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T130000&p1=1440&p2=108&p3=95) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=ES }:: Spain | [Jun 14 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T160000&p1=1440&p2=232&p3=141) | [osulive](https://twitch.tv/osulive) |
-| Sweden ::{ flag=SE }:: | ::{ flag=PE }:: Peru | [Jun 14 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T170000&p1=1440&p2=239&p3=131) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=TW }:: Taiwan | [Jun 14 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T180000&p1=1440&p2=188&p3=241) | [osulive_2](https://twitch.tv/osulive_2) |
-| Argentina ::{ flag=AR }:: | ::{ flag=IL }:: Israel | [Jun 14 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250614T180000&p1=1440&p2=51&p3=110) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 15 June 2025
 
 | Team A | Team B | Match time | Twitch stream |
@@ -188,6 +176,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
   2. [siqlo - Vantablack (autofanboy) \[Subtlety\]](https://osu.ppy.sh/beatmapsets/2380716#fruits/5146343)
 
 ## Match results
+
+### Round of 32
+
+Saturday, 14 June 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Germany** ::{ flag=DE }:: | **5** | 4 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/118392467) | [#1](https://www.twitch.tv/videos/2485748756?t=0h0m33s) |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/118393084) | [#1](https://www.twitch.tv/videos/2485819636) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/118393064) | [#1](https://www.twitch.tv/videos/2485783939?t=0h0m56s) |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/118394799) | [#1](https://www.twitch.tv/videos/2485889954?t=0h5m18s) |
+| **Sweden** ::{ flag=SE }:: | **5** | 4 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/118395477) | [#1](https://www.twitch.tv/videos/2485889954?t=2h11m45s) |
+| **Canada** ::{ flag=CA }:: | **5** | 4 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/118396127) | [#1](https://www.twitch.tv/videos/2485889954?t=2h11m45s) |
+| **Argentina** ::{ flag=AR }:: | **5** | 0 | ::{ flag=IL }:: Israel | [#1](https://osu.ppy.sh/community/matches/118396055) | [#1](https://www.twitch.tv/videos/2486017756) |
 
 ### Qualifiers
 
