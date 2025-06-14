@@ -7,7 +7,7 @@
 
 ## Navigasi
 
-_Catatan: Untuk dapat bekerja dengan osu! wiki, **[fork repositori `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#editing-the-wiki) terlebih dahulu.**_
+*Catatan: Untuk dapat bekerja dengan osu! wiki, **[fork repositori `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#editing-the-wiki) terlebih dahulu.***
 
 Untuk membuka osu! wiki di editor, ubah URL repositori fork kamu dari `github.com` menjadi `github.dev`. Sebagai alternatif, buka fork kamu di GitHub dan tekan `.` (tanda titik).
 
@@ -33,7 +33,7 @@ Setelah kamu membaca [Praktik kontribusi terbaik § Membuat perubahan](/wiki/osu
 
 ### Berkas yang sudah ada
 
-1. Tekan `Ctrl` + `P` dan masukkan nama berkas yang ingin kamu buka, lalu tekan `Enter`. Nama ini dapat ditulis secara terpisah (_loose matching_): sebagai contoh, mengetik `nominators veto en` akan membuka `wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto/en.md`.
+1. Tekan `Ctrl` + `P` dan masukkan nama berkas yang ingin kamu buka, lalu tekan `Enter`. Nama ini dapat ditulis secara terpisah (*loose matching*): sebagai contoh, mengetik `nominators veto en` akan membuka `wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto/en.md`.
 2. Sunting berkas ini sebagaimana yang dibutuhkan. Perubahan yang belum di-commit akan **disimpan pada browser kamu**, dan kamu dapat mengakses kembali perubahan ini kapan saja apabila kamu menutup `github.dev`.
 3. Setelah kamu puas dengan artikel ini, [commit perubahan yang kamu perbuat](#committing-changes).
 
@@ -61,7 +61,7 @@ osu! wiki menyimpan artikel dalam folder yang berisikan teks asli (`en.md`) bese
 
 1. Buka tampilan source control (`Ctrl` + `Shift` + `G`).
 2. Klik tombol `+` pada rangkaian berkas yang ingin kamu simpan sebagai satu batch.
-3. Masukkan pesan commit kamu dalam Bahasa Inggris. **Gunakan pesan commit yang singkat dan padat**, karena pesan ini memungkinkan orang lain untuk mengetahui apa yang sedang kamu kerjakan.
+3. Masukkan pesan commit kamu dalam Bahasa Inggris. **Gunakan pesan commit yang singkat dan padat**, karena pesan ini akan memungkinkan orang lain untuk mengetahui apa yang kamu kerjakan.
 4. Tekan `Ctrl` + `Enter` atau klik tombol `✓` untuk mengirimkan commit ini dan mem-push perubahanmu.
 
 ## Langkah selanjutnya
