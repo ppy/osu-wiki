@@ -106,7 +106,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chinese |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) |  |
 | ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) |  |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | Spanish |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | German, Spanish, French |
 | ::{ flag=CN }:: [gust](https://osu.ppy.sh/users/1244312) |  |
 | ::{ flag=IT }:: [gygy](https://osu.ppy.sh/users/7201269) | Italian |
@@ -147,7 +147,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ::{ flag=BR }:: [Neto](https://osu.ppy.sh/users/5099768) | Portuguese |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) |  |
+| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) | Filipino, Japanese |
 | ::{ flag=TR }:: [ninore](https://osu.ppy.sh/users/16063282) |  |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
 | ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finnish, Japanese |
@@ -259,7 +259,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonesian |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanish |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chinese |
-| ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) |  |
+| ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) | Korean |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | Chinese, German |
 | ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756) | Filipino |
 | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | Danish |

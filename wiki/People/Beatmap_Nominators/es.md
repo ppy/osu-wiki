@@ -104,7 +104,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chino |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) |  |
 | ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) |  |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | Español |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Alemán, español, francés |
 | ::{ flag=CN }:: [gust](https://osu.ppy.sh/users/1244312) |  |
 | ::{ flag=IT }:: [gygy](https://osu.ppy.sh/users/7201269) | Italiano |
@@ -145,7 +145,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chino |
 | ::{ flag=BR }:: [Neto](https://osu.ppy.sh/users/5099768) | Portugués |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) |  |
+| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) | Filipino, japonés |
 | ::{ flag=TR }:: [ninore](https://osu.ppy.sh/users/16063282) |  |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francés |
 | ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finés, japonés |
@@ -257,7 +257,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonesio |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chino |
-| ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) |  |
+| ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) | Coreano |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | Chino, alemán |
 | ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756) | Filipino |
 | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | Danés |
