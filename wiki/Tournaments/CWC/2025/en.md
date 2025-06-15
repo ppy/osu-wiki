@@ -167,7 +167,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
   1. EmoCosine - Ready for Breakdown (Xinnoh) \[Overdose\] *(link pending)*
   2. 0 K - Voyager III (Deif) \[Interstellar Mission\] *(link pending)*
 - Tiebreaker
-  1. **Ne Obliviscaris - Painters of the Tempest (Part II) Triptych Lux (Cut ver.) (wwwww) \[Distempered Heaven\] *(link pending)***
+  1. **[Ne Obliviscaris - Painters of the Tempest (Part II): Triptych Lux (Cut ver.) (wwwww) \[Distempered Heaven\]](https://osu.ppy.sh/beatmapsets/2388223#fruits/5168189)**
 
 ### Round of 32
 
@@ -217,6 +217,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 ## Match results
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1pU0uX-VahJp5zig_tg_dudJ_b4LnHe_Q8irzdnMtFw8?rm=minimal).
 
 Saturday, 14 June 2025:
 
