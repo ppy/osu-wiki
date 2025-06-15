@@ -63,6 +63,7 @@ El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encue
 | ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) | 1 de diciembre de 2024 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 de septiembre de 2023 |
 | ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) | 1 de diciembre de 2024 |
+| ::{ flag=GB }:: [rloseise](https://osu.ppy.sh/users/6793778) | [buyaspacecube](https://github.com/buyaspacecube) | 15 de enero de 2025 |
 
 #### Miembros anteriores
 
