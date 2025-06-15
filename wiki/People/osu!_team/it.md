@@ -6,8 +6,6 @@ tags:
   - osu! team
   - staff
   - team osu!
-outdated_translation: true
-outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 ---
 
 # osu! team
@@ -37,8 +35,9 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Sviluppatore osu!web |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Moderatore](/wiki/People/Global_Moderation_Team), consigliere della scena Modding e mapping |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Gestore del [canale YouTube di osu!](https://www.youtube.com/@osugame), organizzatore della [Gilda dei Mapper](/wiki/Community/Mappers_Guild), ricercatore degli [Artisti in Primo Piano](/wiki/People/Featured_Artists) |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Consigliere della scena Modding e mapping |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Capo del [NAT](/wiki/People/Nomination_Assessment_Team), consigliere della scena Modding e mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderatore](/wiki/People/Global_Moderation_Team), [manutentore della wiki](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinatore del design della World Cup |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Governante Generale |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Sviluppatore di osu!, amante di osu!mania, insetticida per bug |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Sviluppatore di osu! |
