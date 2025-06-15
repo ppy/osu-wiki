@@ -1,7 +1,3 @@
----
-outdated_since: 0e4f0c847059bf3a4e350040939b18b193704bce
-outdated_translation: true
----
 # Skin
 
 Un **skin** est un ensemble d'images et de clips audio qui remplacent ceux utilisés par défaut sur osu!. Plusieurs joueurs utilisent les skins afin de permettre une expérience utilisateur plus personalisée. La plupart des éléments importants de l'interface utilisateur et des sons d'osu! peuvent être remplacés, ou [skinnés](/wiki/Skinning).
