@@ -43,7 +43,7 @@ tags:
 | Mappers | ::{ flag=PH }:: [_xyliac](https://osu.ppy.sh/users/7989480), ::{ flag=AU }:: [Kyairie](https://osu.ppy.sh/users/10910405), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901) |
 | Playtesters | ::{ flag=PL }:: [doman](https://osu.ppy.sh/users/4956099), ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=JP }:: [KonKonKinakoN](https://osu.ppy.sh/users/4733185), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400), ::{ flag=US }:: [WindowLife](https://osu.ppy.sh/users/4108547), ::{ flag=US }:: [wr8th](https://osu.ppy.sh/users/20276851), ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738), ::{ flag=DE }:: [Aaaaaaalex](https://osu.ppy.sh/users/10108853), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=US }:: [conradmittn](https://osu.ppy.sh/users/8208289), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251), ::{ flag=DE }:: [Mizeree](https://osu.ppy.sh/users/12309147), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=US }:: [stat lord](https://osu.ppy.sh/users/7844501), ::{ flag=US }:: [TrickyPugster](https://osu.ppy.sh/users/8082362) |
 | Referees | ::{ flag=CL }:: [Bastaku](https://osu.ppy.sh/users/14351782), ::{ flag=KR }:: [Discord](https://osu.ppy.sh/users/16194858), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [Ninja Mejster](https://osu.ppy.sh/users/15827776), ::{ flag=US }:: [radioactive329](https://osu.ppy.sh/users/9826994), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=RU }:: [-Hindeko](https://osu.ppy.sh/users/14220803), ::{ flag=PL }:: [czeczotka](https://osu.ppy.sh/users/14068656), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=US }:: [Neutromint](https://osu.ppy.sh/users/25602812), ::{ flag=PL }:: [Whiter](https://osu.ppy.sh/users/16460997), ::{ flag=PL }:: [Wojtulas](https://osu.ppy.sh/users/12975155) |
-| Commentators | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=UK }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=PL }:: [Graf](https://osu.ppy.sh/users/4448391), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241) |
+| Commentators | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=PL }:: [Graf](https://osu.ppy.sh/users/4448391), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241) |
 | Sheeter | ::{ flag=PL }:: [Baddi](https://osu.ppy.sh/users/10667507), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=US }:: [stat lord](https://osu.ppy.sh/users/7844501) |
 
 ## Links
@@ -135,23 +135,23 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals & Semifinals
 
 - No Mod
-  1. [paraoka feat. haru*nya - Tyranny (melon boy) [KACHOW]](https://osu.ppy.sh/beatmapsets/2093561#osu/4741770)
-  2. [xi - Fiat Lux (GYGY) [Lux Aeterna]](https://osu.ppy.sh/beatmapsets/1620087#osu/3307758)
-  3. [JYOCHO - Kirei na Sankaku, Asahi Ningen (blixys) [Raijodo's Special]](https://osu.ppy.sh/beatmapsets/2123794#osu/4463358)
-  4. [seatrus - ILLEGAL LEGACY (Halgoh) [Halgoh x Sharu]](https://osu.ppy.sh/beatmapsets/2073381#osu/4339847)
-  5. [LV.4 - Burning Star (ktgster) [squirrelp's Exoplanetary Extreme]](https://osu.ppy.sh/beatmapsets/1988634#osu/4516915)
+  1. [paraoka feat. haru*nya - Tyranny (melon boy) [KACHOW]](https://osu.ppy.sh/beatmapsets/1976812#osu/4103526)
+  2. [xi - Fiat Lux (GYGY) [Lux Aeterna]](https://osu.ppy.sh/beatmapsets/1565523#osu/3196815)
+  3. [JYOCHO - Kirei na Sankaku, Asahi Ningen (blixys) [Raijodo's Special]](https://osu.ppy.sh/beatmapsets/2108761#osu/4446255)
+  4. [seatrus - ILLEGAL LEGACY (Halgoh) [Halgoh x Sharu]](https://osu.ppy.sh/beatmapsets/1633224#osu/3333703)
+  5. [LV.4 - Burning Star (ktgster) [squirrelp's Exoplanetary Extreme]](https://osu.ppy.sh/beatmapsets/2095154#osu/4412694)
 - Hidden
-  1. [BUTAOTOME - Mesen (_xyliac) [UNFILTERED RAGE OF THE FUMOS]](https://osu.ppy.sh/beatmapsets/2107633#osu/4423183)
-  2. [nui - Mayday (vetoed) [Senseless]](https://osu.ppy.sh/beatmapsets/1516919#osu/3105402)
+  1. [BUTAOTOME - Mesen (_xyliac) [UNFILTERED RAGE OF THE FUMOS]](https://osu.ppy.sh/beatmapsets/2320689#osu/4971550)
+  2. [nui - Mayday (vetoed) [Senseless]](https://osu.ppy.sh/beatmapsets/2044442#osu/4267100)
 - Hard Rock
-  1. [takehirotei & SiLiS - WATAGASHI RUSH (netnesanya) [COTTON CANDY RUSH vs. Kyairie ( TT^TT;)]](https://osu.ppy.sh/beatmapsets/2276636#osu/4851845)
-  2. [MiddleIsland - Frailness (LMT) [Virtuoso]](https://osu.ppy.sh/beatmapsets/2285299#osu/4874635)
+  1. [takehirotei & SiLiS - WATAGASHI RUSH (netnesanya) [COTTON CANDY RUSH vs. Kyairie ( TT^TT;)]](https://osu.ppy.sh/beatmapsets/2320691#osu/4971553)
+  2. [MiddleIsland - Frailness (LMT) [Virtuoso]](https://osu.ppy.sh/beatmapsets/720978#osu/1522554)
 - Double Time
-  1. [V.W.P - Reincarnation (Share) [Crumbling World]](https://osu.ppy.sh/beatmapsets/2258440#osu/4807674)
-  2. [SOUND HOLIC - break through the night (Net0) [Stage 6 ~ Tenkyuu Chimata]](https://osu.ppy.sh/beatmapsets/1513750#osu/3105221)
-  3. [m108 - Shinku no Senkou (Leader) [Niva's Insane]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298595)
+  1. [V.W.P - Reincarnation (Share) [Crumbling World]](https://osu.ppy.sh/beatmapsets/1857779#osu/3818422)
+  2. [SOUND HOLIC - break through the night (Net0) [Stage 6 ~ Tenkyuu Chimata]](https://osu.ppy.sh/beatmapsets/2088553#osu/4376788)
+  3. [m108 - Shinku no Senkou (Leader) [Niva's Insane]](https://osu.ppy.sh/beatmapsets/1551011#osu/3169487)
 - Tiebreaker
-  1. **[Umeboshi Chazuke - AJITAMA Adventure OST (toybot) [Egg Quest]](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)**
+  1. **[Umeboshi Chazuke - AJITAMA Adventure OST (toybot) [Egg Quest]](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546)**
 
 ### Round of 32 & Round of 16
 
@@ -185,11 +185,11 @@ This competition has come to an end and resulted in the following podium:
   1. [UKRampage - Yumenoshima feat. mami (Gillstar) [Gill & Sharu's Dreamscape]](https://osu.ppy.sh/beatmapsets/1644513#osu/3356838)
   2. [Yasui Yousuke - YO-KAI Disco [MEIKAI ARRANGE VERSION] ([Keqing]) [aww shidd]](https://osu.ppy.sh/beatmapsets/1485831#osu/3046747)
 - Hard Rock
-  1. [Akatsuki Records - Treasure Cirno (Villdjack) [Stacked]](https://osu.ppy.sh/beatmapsets/2373198#osu/5124323)
-  2. [Hagall x 152Hz - In midst of time feat. towatari (Cut Ver.) (sorciere) [Exploring the Unknown]](https://osu.ppy.sh/beatmapsets/998415#osu/2088253)
+  1. [Akatsuki Records - Treasure Cirno (Villdjack) [Stacked]](https://osu.ppy.sh/beatmapsets/1498792#osu/3071745)
+  2. [Hagall x 152Hz - In midst of time feat. towatari (Cut Ver.) (sorciere) [Exploring the Unknown]](https://osu.ppy.sh/beatmapsets/1893886#osu/3902759)
 - Double Time
-  1. [Asakura Hinata - Yukitoki (Amateurre) [Gelidium]](https://osu.ppy.sh/beatmapsets/1034179#osu/2257469)
-  2. [Pendulum - Hold Your Colour (GRR SNARL GROWL) [Hold Your Growlr]](https://osu.ppy.sh/beatmapsets/2056846#osu/4880511)
+  1. [Asakura Hinata - Yukitoki (Amateurre) [Gelidium]](https://osu.ppy.sh/beatmapsets/1569543#osu/3205099)
+  2. [Pendulum - Hold Your Colour (GRR SNARL GROWL) [Hold Your Growlr]](https://osu.ppy.sh/beatmapsets/1834500#osu/3766173)
 
 ## Ruleset
 
@@ -206,11 +206,10 @@ This competition has come to an end and resulted in the following podium:
 1. Players choose their lobby from the spreadsheet. They can participate in a lobby that has at least one empty slot.
    - Players notify hosts on the discord channel about their chosen lobby using a pinned prompt.
 2. Last lobby for Qualifiers round cannot start after December 18th.
-3. If a team does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
+3. If a player does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
 4. Each map will be played in order as they are shown on the mappool sheet. There will be one play through of the pool.
 5. 90 second timers are used for players to ready up.
-6. Due to this process, teams with players who are screened out will be disqualified from the tournament.
-7. Top 28 players using avg sum of placements, will proceed to Bracket Stage.
+6. Top 21 players using avg sum of placements, will proceed to Bracket Stage.
 
 ### Bracket stage procedure
 
@@ -218,13 +217,13 @@ This competition has come to an end and resulted in the following podium:
 2. There are no restrictions on picks or bans.
 3. No Fail is enforced on all maps.
 4. Players will `!roll` in matches. The winner may choose between pick or ban order, and the other captain may choose the remaining order.
-5. Players have 1 ban in Round of 32 and Round of 16, and 2 bans throughout the rest of bracket stage.
+5. Players have 1 ban in Round of 32 & Round of 16, Quarterfinals & Semifinals and 2 bans throughout the rest of bracket stage.
    - Ban order is ABBA, with all bans happening at the start of the match.
-6. Players have 90 seconds to declare picks and bans.
+6. Players have 120 seconds to declare picks and bans.
 7. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
    - First occurrence: A 30-second extension is given along with a verbal warning.
    - On subsequent occurrences: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool.
-8. Players have 90 seconds to swap teammates and lock in their roster.
+8. Players have 90 seconds to ready up.
 9. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
    - First occurrence: A 15-second extension is given along with a verbal warning.
    - On subsequent occurrences: the referee will issue the `!mp start 10` command.
