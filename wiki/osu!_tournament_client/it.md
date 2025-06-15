@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
----
-
 # osu! tournament client
 
 L'**osu! tournament client** è il client ufficiale che sovrappone a [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) scene e informazioni supplementari relative a un torneo di osu! durante una live stream.
@@ -20,7 +15,7 @@ Aprendo l'osu! tournament client, vedrai questa schermata di configurazione:
 ![osu! tournament client setup screen](img/setup-screen.png)
 
 - Assicurati che la `Current IPC source` corrisponda al percorso dell'istanza di osu!tourney che si intende utilizzare.
-- Accedi a osu!(lazer) cliccando su `Change sign-in`.
+- Accedi a osu!(lazer) cliccando su `Change Login`.
 - Imposta il set di regole corretto utilizzando il menu a discesa.
 - Modifica l'altezza in modo che corrisponda a `Height` impostata nel file `tournament.cfg` di osu!tourney.
 
@@ -64,18 +59,19 @@ Nota: il client decodifica i file video utilizzando la decodifica software, pert
 I file devono rispettare le seguenti specifiche:
 
 - Rapporto d'aspetto 16:9, ad esempio 1280x720 o 1920x1080
-- Estensione del file `mp4`, `m4v` o `avi
+- Estensione del file `mp4`, `m4v` o `avi`
 - Codec Video: H.264, Codec Audio: nessuno
 
-I file video devono essere collocati in `<il tuo torneo>/Video` e sono necessari nomi specifici per il corretto funzionamento.
+I file video devono essere collocati in `<il tuo torneo>/Videos` e sono necessari nomi specifici per il corretto funzionamento.
 
 | Scena | File |
 | :-- | :-- |
-| Schedule | `schedule` |
-| TeamIntro | `teamintro` |
-| Seeding | `seeding` |
+| Calendario | `schedule` |
+| Introduzione delle squadre | `teamintro` |
+| Classificazione | `seeding` |
 | MapPool | `mappool` |
 | Gameplay | `gameplay` |
-| Win | `teamwin-red`, `teamwin-blue` |
-| Drawings | `main` |
-| Showcase | `showcase` |
+| Vittoria | `teamwin-red`, `teamwin-blue` |
+| Sorteggi | `main` |
+| Presentazione | `showcase` |
+| Tabellone del torneo | `ladder` |
