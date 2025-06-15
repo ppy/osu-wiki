@@ -255,17 +255,17 @@ Are you ready to confront this tech monster? Make sure to vote on the ongoing po
 183 BPM, 3:58 | 5.46★ – 11.81★\
 *description written by [nevqr](https://osu.ppy.sh/users/14269506)*
 
-```\
-Is it getting hot in here, or is it just me?\
+```
+Is it getting hot in here, or is it just me?
 ```
 
-*Project Loved — June.
+*Project Loved — June.*
 
-The temperature is scorching.
+*The temperature is scorching.*
 
-The blaze grows fiercer.
+*The blaze grows fiercer.*
 
-The heat is abnormal.*
+*The heat is abnormal.*
 
 **Begin mission KELT-9b.**
 
