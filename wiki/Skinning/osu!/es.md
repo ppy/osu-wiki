@@ -1,3 +1,8 @@
+---
+outdated_since: 0e4f0c847059bf3a4e350040939b18b193704bce
+outdated_translation: true
+---
+
 # Skinning de osu!
 
 ## Combo bursts
