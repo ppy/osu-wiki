@@ -2,7 +2,7 @@
 
 The **daily challenge** is a multiplayer mode in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) where players are able to build up a streak by passing consecutive daily beatmaps with an increasing difficulty that resets every 7 days.
 
-Every beatmap is handpicked from the [Featured Artist](/wiki/People/Featured_Artists) listing, and sometimes the maps come with a mod forced onto users, which requires them to pass the map with the selected mod.
+Beatmaps in the challenge are curated by a panel of contributors and are mainly set to [Featured Artist](/wiki/People/Featured_Artists) tracks. On certain days, these beatmaps may come with a mod forced onto users, requiring them to pass the beatmap with the selected mod.
 
 ## Game menu
 
@@ -11,9 +11,9 @@ From the main menu, the daily challenge menu can be accessed with the following 
 1. Click the `play` button or press `P`.
 2. Click the `daily challenge` button or press `D`.
 
-![](img/daily-challenge-menu.png "Screenshot of the daily challenge menu during November 7, 2024.") 
+![](img/daily-challenge-menu.png "Screenshot of the daily challenge menu during November 7, 2024.")
 
-On entering, the user is presented with an intro showing the beatmap the user has to pass, and the mods they have to pass it with.
+Upon entering, the user is presented with an intro showing the beatmap the user has to pass, and the mods they have to pass it with.
 
 After the intro ends, the user can view the data for today's challenge. The left side displays various score-related information like the total pass count and the cumulative total score. In the middle, a leaderboard shows the top scores achieved by players. Users are able to discuss the daily challenge in the chat on the right.
 
@@ -45,9 +45,9 @@ The project is organised by ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/141
 - ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
-- ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
+- ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
 
 ## Trivia
 
