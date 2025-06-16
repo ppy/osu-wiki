@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - GMT
   - moderator
@@ -61,7 +59,7 @@ Ai Moderatori Globali sono concessi i seguenti benefici:
 
 ## Uscita dal team
 
-Una volta che un Moderatore Globale sceglie di lasciare il team, gli possono essere concessi i seguenti premi a seconda delle circostanze:
+Una volta che un Moderatore Globale sceglie di lasciare il team in termini amichevoli, gli possono essere concessi i seguenti premi a seconda delle circostanze:
 
 - **Titolo utente [osu! Alumni](/wiki/People/osu!_Alumni)**: Questo è concesso ai membri che hanno fatto parte del team per almeno 1 anno o che hanno apportato contributi significativi all'interno del team durante un periodo più breve.
 - **osu!supporter**: Ai membri viene assegnato un tag osu!supporter che dura il doppio del tempo trascorso nel GMT, alle stesse condizioni del titolo osu! Alumni.
@@ -158,7 +156,6 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | Canali | Subforum | Moderatori |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
