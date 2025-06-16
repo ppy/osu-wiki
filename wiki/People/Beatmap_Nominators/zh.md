@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 32b8cbe53f7b9a5ee6408f6e905d6b5f7557bb7c
 tags:
   - BN
   - BNG
@@ -9,9 +7,15 @@ tags:
 
 # 谱面审核成员 (BN)
 
-*请参阅：[BN 规章制度](Rules)、[对 BN 的期望](Expectations)、[BN 须知](General_Information)、[成为 BN](Becoming_a_Beatmap_Nominator)*
-
 **谱面审核成员** 全称为 Beatmap Nominators (***BN***)，是负责[谱面审核流程](/wiki/Beatmap_ranking_procedure)的一群玩家。可以通过紫色的玩家头衔和写着 `BN` 的[用户组徽章](/wiki/People/User_groups)认出他们。
+
+## 相关文章
+
+- [BN 规章制度](Rules)
+- [对 BN 的期望](Expectations)
+- [BN 须知](General_Information)
+- [成为 BN](Becoming_a_Beatmap_Nominator)
+- [BN 活动](/wiki/Community/Beatmap_Nominator_events)
 
 ## 角色与职责
 
@@ -31,7 +35,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 设立见习期的目的，是用来帮助 NAT 关注新 BN 的行为。见习成员的主要职责是在实际推送谱面上架流程中打好作为 BN 的基本功。谱面若要上架 (Ranked)，则提名者中必须有至少一位正式成员。因此，见习成员不能提名已被其他相同游戏模式的见习成员提名过的谱面。
 
-当见习成员满足[活跃度要求](/wiki/People/Beatmap_Nominators/Rules#要求)的两倍标准，或是在见习期满一个月后（以最先满足的条件为准），会被[评估](/wiki/People/Nomination_Assessment_Team/Evaluations)。
+见习成员需要提名并上架至少 **3** 张谱面。在一个月后，他们会被[评估](/wiki/People/Nomination_Assessment_Team/Evaluations)。如果见习成员在一个月内提名并上架了超过 **6** 张谱面，则评估日期会提前。
 
 新加入的见习成员将会分配一个 NAT 导师，导师会鼓励他们，并且他们可以直接联系导师提问或得到指导。在第一次评估后，如果他们的提名顺利，行为合规，并且评估为良好，则他们将在评估结束后晋升为正式成员。反之，他们会被开除。
 
