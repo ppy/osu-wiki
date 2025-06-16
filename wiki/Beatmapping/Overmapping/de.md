@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Overmapping
 
 Beim Beatmapping beschreibt **Overmapping** eine Technik, bei der [Hit-Objekte](/wiki/Gameplay/Hit_object) bewusst so platziert werden, die verglichen mit dem Song (oder dem Rest der Beatmap) eine höhere Spielintensität erzeugt.
