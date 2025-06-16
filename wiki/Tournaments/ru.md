@@ -507,6 +507,7 @@
 | [UK Community Cup 10](UKCC/10) | 11.09.2021 | 31.10.2021 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 23.01.2022 | 03.04.2022 | Luciano Fan Club | denial piano | The |
 | [UK Community Cup 12](UKCC/12) | 18.03.2023 | 30.04.2023 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896 ) |
+| [UK Community Cup 13](UKCC/13) | 08.06.2025 | 27.07.2025 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
 #### Ulat Bulu Cup
 
