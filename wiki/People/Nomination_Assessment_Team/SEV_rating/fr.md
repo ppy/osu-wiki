@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 30adfc34244017104c315372f4c66246fde1b92e
+---
+
 # SEV rating
 
 Le SEV est un système de mesure utilisé par la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) pour évaluer la pertinence d'une [réinitialisation de nomination](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) par rapport aux évaluations des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), ce qui assure à la fois transparence et cohérence. Cette mesure est divisée en deux valeurs affichées sous le format *Évidence/Gravité*. Ces deux valeurs vont de 0 à 2, ce qui en fait un système simple à comprendre et rapide à utiliser.

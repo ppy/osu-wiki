@@ -1,8 +1,3 @@
----
-outdated_since: 08ec68cdf5e4e9a1ca014207ca40c0277395528e
-outdated_translation: true
----
-
 # osu!taiko 判定系统
 
 ## 判定
@@ -14,6 +9,14 @@ outdated_translation: true
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png) | GREAT | 300 | 100% | `50 - 3 × OD` |
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png) | OK | 150 | 50% | 当 OD ≤ 5 时为 `120 - 8 × OD`，OD ≥ 5 时为 `110 - 6 × OD` |
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png) | MISS | 0 | 0% | 当 OD ≤ 5 时为 `135 - 8 × OD`，OD ≥ 5 时为 `120 - 5 × OD` |
+
+不同的 OD 值对应的判定区间长度：
+
+| OD | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Great | 50 ms | 47 ms | 44 ms | 41 ms | 38 ms | 35 ms | 32 ms | 29 ms | 26 ms | 23 ms | 20 ms |
+| Ok | 120 ms | 112 ms | 104 ms | 96 ms | 88 ms | 80 ms | 74 ms | 68 ms | 62 ms | 56 ms | 50 ms |
+| Miss | 135 ms | 127 ms | 119 ms | 111 ms | 103 ms | 95 ms | 90 ms | 85 ms | 80 ms | 75 ms | 70 ms |
 
 打击区间取决于谱面的[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty)。当一次打击满足`打击误差 < 最大打击误差`，则认为此次打击在判定区间内，误差时间即为判定区间宽度的一半。而 MISS 的判定区间要求`打击误差 ≤ 最大打击误差`。<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/HitCircleTaiko.cs#L187, https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/HitCircleTaiko.cs#L151 -->
 
