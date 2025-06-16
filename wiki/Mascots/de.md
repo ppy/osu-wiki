@@ -86,7 +86,7 @@ Alisa wurde von ::{ flag=AE }:: [\[ Glitch \]](https://osu.ppy.sh/users/3781400)
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Chirou wurde von ::{ flag=US }:: [pyun](https://osu.ppy.sh/users/981534) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist sehr streng und anspruchsvoll, eine Perfektionistin und macht nicht gerne Fehler—vor allem nicht bei ihren Beats in osu!taiko. Aber hinter ihrer strengen Fassade kann sie, wenn man an ihren weichen Punkt kommt, auch flauschig und süß sein. Sie ist 14 Jahre alt und wurde am 25. Oktober mit der Blutgruppe AB geboren. Außerdem ist sie 1,80 m groß und wiegt 45 Kilogramm. Zu ihren Hobbys gehören das Trommeln, sich in ihrem Umhang warmzuhalten und Edelsteine oder Steine zu sammeln. Chirou hat einige Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
+Chirou wurde von ::{ flag=US }:: [pyun](https://osu.ppy.sh/users/981534) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist sehr streng und anspruchsvoll, eine Perfektionistin und macht nicht gerne Fehler — vor allem nicht bei ihren Beats in osu!taiko. Aber hinter ihrer strengen Fassade kann sie, wenn man an ihren weichen Punkt kommt, auch flauschig und süß sein. Sie ist 14 Jahre alt und wurde am 25. Oktober mit der Blutgruppe AB geboren. Außerdem ist sie 1,49 m groß und wiegt 45 Kilogramm. Zu ihren Hobbys gehören das Trommeln, sich in ihrem Umhang warmzuhalten und Edelsteine oder Steine zu sammeln. Chirou hat einige Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
 
 ### Taikonator
 

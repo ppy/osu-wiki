@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - GMT
   - moderator
@@ -43,7 +41,7 @@ Los factores más importantes a considerar son la conducta, la actividad, la com
 1. Demostrar buena conducta siendo cortés y tratando a los demás usuarios con respeto. Mantener su cuenta libre de silencios o problemas serios es esencial.
 2. Demostrar actividad en el juego participando en el chat y/o los foros. [Reportar cualquier mala conducta](/wiki/Reporting_bad_behaviour) y problemas a través del sistema de reportes. Responder preguntas y ayudar a otros con problemas.
 3. Tener una comprensión adecuada de [las reglas](/wiki/Rules) y cómo se aplican. Es importante saber qué es aceptable dentro de osu! y lo que no es.
-4. Sea paciente. El GMT no agrega espontáneamente miembros que han estado ayudando durante solo unos días. Se necesita tiempo para que el GMT evalúe a alguien⁠: su personalidad, en qué puede ayudar, su actividad, etc.
+4. Sé paciente. El GMT no agrega espontáneamente miembros que han estado ayudando durante solo unos días. Se necesita tiempo para que el GMT evalúe a alguien⁠: su personalidad, en qué puede ayudar, su actividad, etc.
 
 Por lo general, el equipo observará a las personas durante varias semanas o meses para asegurarse de que sean una valiosa incorporación al equipo. Por favor sé paciente y no te excedas. Siéntete libre de preguntarle a cualquier persona del GMT sobre cualquier pregunta relacionada con las reglas, reportar a los usuarios y cualquier otro problema.
 
@@ -64,7 +62,7 @@ Los moderadores globales reciben los siguientes beneficios:
 
 ## Salida del equipo
 
-Una vez que un moderador global decide abandonar el equipo, se le pueden otorgar las siguientes recompensas según las circunstancias:
+Una vez que un moderador global decide abandonar el equipo de forma amistosa, se le pueden otorgar las siguientes recompensas según las circunstancias:
 
 - **Título de usuario [osu! Alumni](/wiki/People/osu!_Alumni)**: este se otorga a miembros que formaron parte del equipo durante al menos 1 año, o que hayan realizado contribuciones significativas dentro del equipo durante un período de tiempo más corto.
 - **osu!supporter**: Los miembros reciben una etiqueta de osu!supporter que dura el doble del tiempo que pasaron en el GMT, bajo las mismas condiciones que el estado de osu! Alumni.
@@ -159,7 +157,6 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | Canal | Subforo | Moderadores |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |

@@ -92,7 +92,6 @@ Important to understand before using:
   - The highest difficulty of each game mode.
   - The highest difficulties of each game mode with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
 - **A beatmap's custom difficulty naming must follow a common theme or pattern related to the song or difficulty and must not be misrepresentative.** A difficulty name is misrepresentative if it implies a different difficulty level (e.g. naming an "Expert" difficulty as "Normal").
-- **A [beatmap host](/wiki/Beatmap/Beatmap_host) cannot indicate possession in a difficulty's name.** (e.g. Beatmap Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and [collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are the only exceptions. [Guest difficulties](/wiki/Beatmap/Guest_difficulty), however, may indicate possession with its creators' username or nickname.
 - **A [beatmap host](/wiki/Beatmap/Beatmap_host) must have beatmapped equal or more difficulties than any [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator.** This is to provide credit where credit is due. [Collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are only considered partial difficulties, and [drain time](/wiki/Beatmap/Drain_time) will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
 - **A [beatmap host](/wiki/Beatmap/Beatmap_host) and [guest difficulty](/wiki/Beatmap/Guest_difficulty) creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmap host must delete the guest contribution upon request. If a guest difficulty creator cannot be contacted for a month, they will be assumed to agree with any changes.
 - **Beatmaps cannot contain significant portions of difficulties belonging to other users without their explicit involvement or permission.**
@@ -100,8 +99,9 @@ Important to understand before using:
 ### Guidelines
 
 - **The highest difficulty of a beatmap should correspond to the general feel of the song.** Easy/Normal difficulties can be used as a lone difficulty of a beatmap if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
-- **Avoid incomprehensible username combinations to indicate possession of a [collaborative difficulty](/wiki/Beatmap/Beatmap_collaborations).** If it's unclear whose usernames are combined, simplification is recommended.
-- **Avoid difficulty names with descriptive elements not clearly related to a [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator or a level of difficulty.** (e.g. Beatmap Creator's Tragic Love Extra)
+- **Difficulty names should not be misleading.**  
+  - **Descriptive difficulty names should have a relation to the song.** When adding other terms such as `Tragic Love` to a difficulty name, it should relate to the song.
+  - **When combining multiple usernames into a single collaborator name for a [guest difficulty](/wiki/Beatmap/Guest_difficulty), make sure the name remains comprehensible.** For example `Mamayucha` being a [collaboration difficulty](/wiki/Beatmap/Beatmap_collaborations) between `Mani`, `Mari`, `Yuzu` and `Mocha` loses many of the collaborators' features compared to listing their full usernames. Replacing the collaborative username with `Collab` or a descriptor like `osu! Mascots' Expert` may be clearer.
 - **Usernames indicating possession of a [guest difficulty](/wiki/Beatmap/Guest_difficulty) should be consistent between multiple beatmaps.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
 - **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission) and problems for certain users when appearing in chat.
 
@@ -130,8 +130,9 @@ Important to understand before using:
 - **The audio file of a beatmap must...**
   - **...be encoded in MP3 (`.mp3`) or [Ogg Vorbis](https://en.wikipedia.org/wiki/Vorbis) (`.ogg`).**
   - **...have an average bit rate no greater than 192 kbps for MP3 files, or 208 kbps for Ogg Vorbis files.**
+  - **...have a sampling rate no larger than 48 kHz.**
   - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
-  - **...not be encoded upwards from a lower bitrate.**
+  - **...not be encoded upwards from a lower bitrate or sampling rate.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
 - **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.[^normal-vs-addition]
   - **osu!mania beatmaps do not require hitsound additions.**[^normal-vs-addition] This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to use hitsound additions to improve the feel of your beatmaps.
@@ -142,7 +143,7 @@ Important to understand before using:
 - **Hitsounds must be audible.** Their purpose is to provide feedback, so hitsounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criteria.
 - **Preview points must be set and consistent between all difficulties of a beatmap.** This is used for both the song selection menu and the online thumbnail preview.
 - **Every hitsound file must be at least 25ms long.** Shorter files can result in no sound being played in-game.
-- **Completely silent sound files must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily large file sizes, and 0-byte files do not function.
+- **Completely silent sound files must use [this 44-byte file](https://assets.ppy.sh/media/blank.wav).** Other files have unnecessarily large file sizes, and 0-byte files do not function.
 - **[Storyboarded hitsounds](/wiki/Beatmapping/Hitsound#storyboarded-hitsound) cannot be used as replacements for [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
 ### Guidelines

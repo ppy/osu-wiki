@@ -10,30 +10,59 @@ Submissions to this contest include the following elements:
 - A full beatmap spread on the osu! game mode that satisfies the ranking criteria.
 - Visual assets (e.g. background/storyboarding/video).
 
+## Schedule
+
+| Event | Date (UTC) |
+| --: | :-- |
+| Teaser #1 submission | 1 April 2025 |
+| Teaser #2 submission | 1 May 2025 |
+| Entry submission deadline | 30 June 2025 (12:00) |
+| Community voting period | July 2025 |
+| Results stream | Early August 2025 |
+
+## Prizes
+
+The top entries of the contest will earn equal prizes. The number of "top entries" will be influenced by the number of submissions in the contest.
+
+- The beatmap will be bundled as part of the default osu! installation as "recommended beatmaps" for at least 1 year.
+- Team members will receive a unique profile badge themed around their entry.
+- Team members will be awarded a *Locus* user title befitting of their role.
+
+For any complete entry that was submitted by the entry submission deadline, **team members will be awarded a profile badge if they are able to rank the set before the next iteration of the contest**.
+
+Finally, there is a wildcard prize. ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) will pick his favourite entry and that team will earn a separate mystery prize.
+
+## Organisation
+
+Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) alongside some prominent members of the community.
+
+| Position | Member(s) |
+| :-- | :-- |
+| Manager | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) |
+| Developers | ::{ flag=GB }:: [Komm](https://osu.ppy.sh/users/7671790), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
+| Graphic designers | ::{ flag=AU }:: [Adarin](https://osu.ppy.sh/users/118360), ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) |
+| General assistance | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+
 ## Links
 
 - [Registration form](https://form-auth.ppy.sh/form/2025-locus-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/238)
 - [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
+- [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
+- [Contest update #2](https://osu.ppy.sh/home/news/2025-06-03-locus-2025-update-2)
 - [Nexus](https://mappersguild.com/locus)
 
 ## Teams
 
 *To be announced.*
 
-## Schedule
+## Results
 
-| Event | Date |
-| --: | :-- |
-| Teaser #1 submission | 1 April 2025 |
-| Teaser #2 submission | 1 May 2025 |
-| Entry submission deadline | 1 June 2025 |
-| Community voting period | June 2025 |
-| Results stream | Early July 2025 |
+*To be announced.*
 
 ## Rules
 
-**Failure to abide by these rules will lead to immediate disqualification.**
+**Failure to abide by these rules MAY lead to immediate disqualification.**
 
 - Team composition
   - There can only be a maximum of 5 people per team.
@@ -44,7 +73,7 @@ Submissions to this contest include the following elements:
 - Teams must submit their entry as a `.osz` by the submission deadline. Do not upload your entry to the website via BSS — there will be a separate submission for this.
   - Song requirements
     - Must contain the original song in `.mp3` (192 kbps) or `.ogg` (208 kbps) format.
-    - Length of song must be between 1:30–3:00.
+    - DRAIN TIME SHOULD AIM TO be between 1:30–3:00. Length of song should be reasonably close to this.
     - No restrictions on genre, but must be suitable for all ages (ie. not explicit).
     - Composers must own all the usage rights to samples (so it can be licensed).
   - Spread
@@ -67,9 +96,18 @@ Teams must be registered in order to submit an entry. Teams are allowed to choos
 
 ### Submission
 
-The details of how to submit entries will be announced later.
+**Visit the [contest page](https://osu.ppy.sh/community/contests/238) and drop your submission as a `.osz` file.** The deadline is 30 June 2025 (12:00 UTC).
 
-Teams should follow the `#osu-locus` channel in the [osu! Discord server](https://discord.com/invite/ppy) for updates.
+Before submitting, please check the following:
+
+- Ensure that you have successfully registered a team, and that all your team members have confirmed their intent as well (if you have not received an explicit email confirming this, then this has not been done).
+  - **Your submission will be ignored if you have not successfully registered a team.**
+- Please read the [rules](#rules) thoroughly to check that your entry abides by all of them, especially the ones relating to spread and anonymity.
+- It is preferable that the team captain submits. Only one person from each team needs to submit (to prevent any ambiguity or confusion, please do not submit duplicates).
+- Do not submit your entry via BSS.
+- As an optional precaution, please reply to the existing email thread to let us know that you have submitted your entry.
+
+During the week after the submission deadline, entries will be checked to ensure all rules are followed. **Any required changes will be communicated via email.**
 
 ### Nexus
 
@@ -110,19 +148,3 @@ The osu! team reserves the right to deny any clip if deemed unsuitable for the e
 A Discord channel (`#osu-locus`) will be created on the [osu! server](https://discord.com/invite/ppy). Announcements will be posted there — it will be up to teams to ensure they are caught up with the latest updates, though we will endeavour to inform registered teams of any updates.
 
 For specific (private) enquiries or disputes, email [mangomizer@ppy.sh](mailto:mangomizer@ppy.sh).
-
-## Prizes
-
-The top entries of the contest will earn equal prizes. The number of "top entries" will be influenced by the number of submissions in the contest.
-
-- The beatmap will be bundled as part of the default osu! installation as "recommended beatmaps" for at least 1 year.
-- Team members will receive a unique profile badge themed around their entry.
-- Team members will be awarded a *Locus* user title befitting of their role.
-
-For any complete entry that was submitted by the entry submission deadline, **team members will be awarded a profile badge if they are able to rank the set before the next iteration of the contest**.
-
-Finally, there is a wildcard prize. peppy will pick his favourite entry and that team will earn a separate mystery prize.
-
-## Results
-
-*To be announced.*

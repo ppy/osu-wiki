@@ -1,6 +1,6 @@
 ---
+outdated_since: b9df3013ed6661bb01dfbf1f499b46b680dab3e4
 outdated_translation: true
-outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
 ---
 
 # Actualizar a lazer
@@ -87,6 +87,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Modo espectador en salas multijugador | ![No][false] | ![Sí][true] |
 | Temporizadores de cuenta regresiva | ![Parcial][partial][^countdown-timers-stable] | ![Sí][true][^countdown-timers-lazer] |
 | Modos de cola | ![No][false] | ![Sí][true][^queue-modes] |
+| Modo libre en el modo multijugador | ![No][false] | ![Sí][true][^freestyle] |
 | Comandos multijugador | ![Sí][true] | ![No][false] |
 | Tag cooperativo | ![Sí][true] | ![No][false] |
 | Listas de juego (tablas de clasificación seleccionadas por los usuarios) | ![No][false] | ![Sí][true] |
@@ -344,6 +345,7 @@ Probablemente estés pensando en otro juego.
 [^countdown-timers-stable]: Establece una cuenta regresiva usando un comando, sin inicio automático.
 [^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
 [^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «rotación del anfitrión».
+[^freestyle]: Activa la opción en el selector de canciones para permitir a los jugadores seleccionar cualquier dificultad del beatmap actual.
 [^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente en el selector de canciones mediante el mod Difficulty Adjust.
 [^medals-lazer]: Algunas [medallas Hush-Hush](/wiki/Medals#hush-hush) aún no se pueden conseguir.
 [^filo]: «Filo» es una de las traducciones de [cutting edge](/wiki/Client/Release_stream).

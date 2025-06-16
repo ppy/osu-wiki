@@ -5,7 +5,7 @@ tags:
 
 # Nomination Assessment Team
 
-*See also: [Beatmap Nominator evaluations](Evaluations)*
+*See also: [Beatmap Nominator evaluations](Evaluations), [SEV rating](SEV_rating)*
 
 The **Nomination Assessment Team** (***NAT***) is a team that moderates the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) and ensures the beatmapping side of osu! stays functional.
 
@@ -38,8 +38,8 @@ NAT members assigned to the structural category are not responsible for any spec
 - **Moderation**: Handling user reports and assessing inappropriate behaviour of Beatmap Nominators, as well as processing beatmap content reviews. This task is a joint effort between the NAT and the GMT.
 - **Miscellaneous maintenance**: Included but not limited to:
   - Processing [vetoes](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
-  - Maintaining the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115).
-  - Judging impact of nomination resets.[^impact-rating]
+  - Maintaining the [Ranking Criteria](https://osu.ppy.sh/community/forums/87) and the [Beatmap Management](https://osu.ppy.sh/community/forums/115) subforums.
+  - Judging the [severity](SEV_rating) of nomination resets.
 
 NAT members who are primarily handling this category make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Users belonging to this category are made up of experienced NAT members who prefer to focus on managerial matters regarding the mapping/modding scene.
 
@@ -97,11 +97,7 @@ Once an NAT member chooses to depart from the team under amicable terms, they ma
 Former NAT members who currently have internal access are:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
-- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
@@ -109,7 +105,7 @@ Former NAT members who currently have internal access are:
 
 As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). The NAT leader has the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
 
-The current NAT leader is ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
+The current NAT leaders are ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
 
 ### Responsibilities
 
@@ -137,15 +133,11 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages |
 | :-- | :-- |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
@@ -164,10 +156,10 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
@@ -186,26 +178,19 @@ The following NAT members are exclusively responsible for structural tasks, and 
 | User | Task |
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
 
 The following NAT members are primarily evaluators, but also contribute to structural tasks:
 
 | User | Task |
 | :-- | :-- |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | osu! NAT Internal Representative[^internal-representatives] |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! NAT Internal Representative[^internal-representatives], Processing impact ratings[^impact-rating] for osu! nomination resets |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Processing impact ratings[^impact-rating] for osu! nomination resets |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 
 ---
 
 In addition, the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing them to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.
-
-## Notes
-
-[^internal-representatives]: Internal Representatives assist the NAT leader in supervising their respective game mode via activity checks and getting things moving within the team.
-[^impact-rating]: This process involves checking each nomination reset and assigning it a "minor", "notable" or "severe" label for future reference in evaluations.
