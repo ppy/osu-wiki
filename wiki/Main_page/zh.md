@@ -92,7 +92,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 </div>
 <div class="wiki-main-page-panel">
 
-# 社区与公众项目
+# [社区](/wiki/Community)与[公众项目](/wiki/Community/Projects)
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
