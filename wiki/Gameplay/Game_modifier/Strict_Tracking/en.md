@@ -30,6 +30,8 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Strict Tracking** mod causes a miss every time the player isn't precisely following the [slider](/wiki/Gameplay/Hit_object/Slider) follow circle. This includes missing a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick), a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail), not holding through an empty slider path, and being outside of the follow circle for any amount of time.
+
+**This mod can't be customised through Customisation.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
