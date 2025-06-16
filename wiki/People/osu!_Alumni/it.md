@@ -1,8 +1,3 @@
----
-outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
-outdated_translation: true
----
-
 # osu! Alumni
 
 Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se ne sono andati. Quando avremo le risorse ereggeremo una statua per ciascun membro nella piazza della città.
@@ -85,6 +80,7 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | GMT |
 | ::{ flag=US }:: [EiJi](https://osu.ppy.sh/users/2024) | BAT |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) | NAT |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | NAT |
 | ::{ flag=CO }:: [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | Moderatore della Chat, GMT |
 | ::{ flag=FI }:: [ethox](https://osu.ppy.sh/users/441380) | Moderatore della Chat |
 | ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -214,7 +210,6 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Organizzazione tornei |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!dev |
