@@ -36,7 +36,7 @@ tags:
 *For the osu!stable version of this article, see: [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Hard Rock** mod aims to make the gameplay on any [beatmap](/wiki/Beatmap) harder by increasing the overall difficulty. It does that by raising the [circle size (CS)](/wiki/Beatmap/Circle_size) by 30%, the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [HP drain (HP)](/wiki/Beatmap/HP_drain_rate) and [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) by 40%, and more depending on the [game mode](/wiki/en/Game_mode) chosen.
+The **Hard Rock** mod aims to make the gameplay on any [beatmap](/wiki/Beatmap) harder by increasing the overall difficulty. It does that by raising the [circle size (CS)](/wiki/Beatmap/Circle_size) by 30%, the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [HP drain (HP)](/wiki/Beatmap/HP_drain_rate) and [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) by 40%, and more depending on the [game mode](/wiki/Game_mode) chosen.
 
 **This mod can't be customised through Customisation.**
 
