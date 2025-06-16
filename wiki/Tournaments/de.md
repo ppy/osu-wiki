@@ -46,6 +46,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!taiko World Cup 2022](TWC/2022) | 12.03.2022 | 24.04.2022 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=ID }:: Indonesien |
 | [osu!taiko World Cup 2023](TWC/2023) | 18.03.2023 | 30.04.2023 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Deutschland |
 | [osu!taiko World Cup 2024](TWC/2024) | 16.03.2024 | 28.04.2024 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: Vereinigtes Königreich | ::{ flag=US }:: Vereinigte Staaten |
+| [osu!taiko World Cup 2025](TWC/2025) | 15.03.2025 | 27.04.2025 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=TW }:: Taiwan |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -64,6 +65,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=CN }:: China |
 | [osu!catch World Cup 2023](CWC/2023) | 13.05.2023 | 25.06.2023 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=IT }:: Italien |
 | [osu!catch World Cup 2024](CWC/2024) | 18.05.2024 | 30.06.2024 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=AR }:: Argentinien | ::{ flag=PL }:: Polen |
+| [osu!catch World Cup 2025](CWC/2025) | 08.05.2025 | 20.07.2025 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -88,7 +90,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13.07.2023 | 24.09.2023 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=ID }:: Indonesien |
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15.12.2023 | 25.02.2024 | ::{ flag=KR }:: Südkorea | ::{ flag=MY }:: Malaysia | ::{ flag=PH }:: Philippinen |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18.07.2024 | 29.09.2024 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=CN }:: China | ::{ flag=TH }:: Thailand |
-| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China | ::{ flag=PH }:: Philippinen |
 
 ## Community
 
@@ -214,6 +216,14 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Donut Cup](Donut_Cup/1) | 27.05.2024 | 15.07.2024 | **crying right now** (::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872), ::{ flag=AU }:: [oslash](https://osu.ppy.sh/users/13228917), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=UA }:: [EPEMA](https://osu.ppy.sh/users/18781432), ::{ flag=UA }:: [SHADOW FREAK](https://osu.ppy.sh/users/7587763)) | **YOSHIMOBIL** (::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=LV }:: [solo drinking](https://osu.ppy.sh/users/21653406), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)) | **No title** (::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=PL }:: [szedis](https://osu.ppy.sh/users/14282987), ::{ flag=PL }:: [BMG\_](https://osu.ppy.sh/users/4981809), ::{ flag=PL }:: [hedayo](https://osu.ppy.sh/users/9323821), ::{ flag=UA }:: [KirbyTwister](https://osu.ppy.sh/users/7979597), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878)) |
+
+#### Finnish Duo Cup
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Finnish Duo Cup | 28.08.2021 | 18.07.2021 | **\:godmode\:** (::{ flag=FI }:: [Haadez](https://osu.ppy.sh/users/8925266), ::{ flag=PE }:: [Arnold24x24](https://osu.ppy.sh/users/2291265/osu)) | **\:grin\:** (::{ flag=FI }:: [Freezd](https://osu.ppy.sh/users/6524603[), ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001)) | **:^\)** (::{ flag=FI }:: [HENKSELI](https://osu.ppy.sh/users/7005392), ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553)) |
+| Finnish Duo Cup 2022 | 16.07.2022 | 21.08.2022 | **Dafonz** (::{ flag=FI }:: [Haadez](https://osu.ppy.sh/users/8925266), ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961)) | **carrot fields** (::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044)) | **nope** (::{ flag=FI }:: [kadzackzz](https://osu.ppy.sh/users/7005392), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437)) |
+| [Finnish Duo Cup 2025](FDC/2025) | 11.01.2025 | 23.02.2025 | **oddloop** (::{ flag=FI }:: [Kalanluu](https://osu.ppy.sh/users/2035254), ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961)) | **bunny party** (::{ flag=FI }:: [Eevert](https://osu.ppy.sh/users/12080544), ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)) | **terence** (::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880)) |
 
 #### Game_Osu Tourney
 
@@ -496,6 +506,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [UK Community Cup X](UKCC/X) | 06.02.2021 | 12.04.2021 | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [Voss](https://osu.ppy.sh/users/7657761) | ::{ flag=GB }:: [Kerantina](https://osu.ppy.sh/users/7516484) |
 | [UK Community Cup 10](UKCC/10) | 11.09.2021 | 31.10.2021 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 23.01.2022 | 03.04.2022 | Luciano Fan Club | denial piano | The |
+| [UK Community Cup 12](UKCC/12) | 18.03.2023 | 30.04.2023 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896 ) |
 
 #### Ulat Bulu Cup
 

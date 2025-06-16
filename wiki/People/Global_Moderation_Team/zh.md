@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - GMT
   - moderator
@@ -63,7 +61,7 @@ tags:
 
 ## 离开全局管理团队 (GMT)
 
-如果全局管理员选择卸任，他们将根据以下情况获得特权：
+如果全局管理员在未发生纠纷的情况下选择卸任，那么他们将根据以下情况获得特权：
 
 - **[osu! 名人堂](/wiki/People/osu!_Alumni) 玩家头衔**：授予给在团队中至少任职 1 年，或是在短时间内为团队做出重大贡献的成员。
 - **osu! 支持者**：与获得名人堂头衔的条件相同，他们将获得 2 倍任职于全局管理团队时长的 osu! 支持者标签。
@@ -160,7 +158,6 @@ tags:
 | 频道 | 子论坛 | 版主 |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |

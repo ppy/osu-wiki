@@ -6,19 +6,19 @@ no_native_review: true
 
 *Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
-Larangan turnamen (*tournament ban*) merupakan hukuman yang mencegah pemain untuk dapat bermain di dalam turnamen resmi atau yang didukung secara resmi. Hukuman ini juga membatasi sejauh mana pemain ini dapat membantu atau berpartisipasi sebagai staf dalam rangkaian turnamen ini.
+Larangan turnamen (*tournament ban*) merupakan hukuman yang mencegah pemain untuk bermain di dalam turnamen resmi atau yang didukung secara resmi. Hukuman ini juga membatasi sejauh mana pemain ini dapat membantu atau berpartisipasi sebagai staf dalam rangkaian turnamen ini.
 
-Larangan turnamen pada umumnya tidak dijatuhkan secara terpisah, namun secara garis besar pemain yang [pembatasan akunnya](/wiki/Help_centre/Account_restrictions) baru saja dicabut dengan ketentuan banding standar (*standard appeal term*) akan dihadapkan dengan larangan turnamen selama setidaknya satu tahun.
+Larangan turnamen biasanya tidak dijatuhkan secara terpisah, namun pada umumnya pemain yang [pembatasan akunnya](/wiki/Help_centre/Account_restrictions) baru saja dicabut dengan ketentuan banding standar (*standard appeal term*) akan dihadapkan dengan larangan turnamen selama setidaknya satu tahun.
 
-Berhubung permainan turnamen merupakan hal yang serius, seluruh hukuman larangan turnamen yang dijatuhkan akan ditegakkan secara tegas tanpa adanya kelonggaran lebih lanjut.
+Berhubung pertandingan turnamen merupakan hal yang serius, seluruh hukuman larangan turnamen akan ditegakkan secara tegas tanpa adanya kelonggaran lebih lanjut.
 
 ## Hal apa saja yang menyebabkan seseorang menerima larangan turnamen yang bersifat sementara? {id=why-temporary}
 
 Segala bentuk pelanggaran berat terhadap [peraturan komunitas](/wiki/Rules) yang terjadi di dalam [turnamen yang didukung secara resmi](/wiki/Tournaments/Official_support) pada umumnya akan berakibat pada larangan turnamen, bahkan apabila pelanggaran ini terjadi di luar lingkungan turnamen sekalipun.
 
-Mengacu pada kasus yang pernah terjadi, salah contoh perilaku yang dapat menyebabkan larangan ini adalah menggambar atau menulis simbol/ujaran kebencian (seperti logo swastika) dengan menggunakan asap kursor (*cursor smoke*) dalam pertandingan yang disiarkan secara langsung.
+Mengacu pada kasus yang pernah terjadi, salah satu contoh pelanggaran ini adalah menggambar atau menulis simbol/ujaran kebencian (seperti logo swastika) dengan menggunakan asap kursor (*cursor smoke*) pada pertandingan yang disiarkan secara langsung.
 
-Seluruh pengguna yang pembatasan akunnya baru saja dicabut dengan ketentuan banding standar juga akan dihadapkan dengan [larangan turnamen selama minimal 1 tahun](/wiki/Help_centre/Account_restrictions#reasons), yang dapat berlaku lebih sesuai dengan kebijaksanaan [tim dukungan akun](/wiki/People/Account_support_team).
+Pengguna yang pembatasan akunnya baru saja dicabut dengan ketentuan banding standar juga akan dihadapkan dengan [larangan turnamen selama minimal 1 tahun](/wiki/Help_centre/Account_restrictions#reasons), yang dapat berlaku lebih sesuai dengan kebijaksanaan [tim dukungan akun](/wiki/People/Account_support_team).
 
 ## Hal apa saja yang menyebabkan seseorang menerima larangan turnamen yang tidak terbatas waktu? {id=why-permanent}
 
@@ -48,9 +48,9 @@ Dalam kasus langka tertentu, [tim dukungan akun](/wiki/People/Account_support_te
 
 Kamu dapat tetap bermain pada turnamen komunitas yang tidak didukung secara resmi atau yang tidak melibatkan proses penyaringan peserta (*screening*) sesuai dengan kebijakan panitia masing-masing turnamen.
 
-Kamu juga dapat berperan sebagai penyiar, komentator, atau desainer grafis dalam turnamen yang didukung secara resmi apabila kamu diizinkan oleh host turnamen yang bersangkutan. Apabila kamu ingin membantu dalam kapasitas lainnya, host turnamen ini HARUS meminta pengecualian khusus dalam permohonan dukungan turnamen mereka. [Tim dukungan akun](/wiki/People/Account_support_team) kemudian akan dapat mengabulkan permintaan ini dengan menimbang alasan pelanggaranmu serta rekam jejak akunmu.
+Kamu juga dapat berperan sebagai penyiar, komentator, atau desainer grafis dalam turnamen yang didukung secara resmi apabila kamu diizinkan oleh host turnamen yang bersangkutan. Apabila kamu ingin membantu dalam hal lainnya, host turnamen ini HARUS meminta pengecualian khusus dalam permohonan dukungan turnamen mereka. [Tim dukungan akun](/wiki/People/Account_support_team) kemudian akan dapat mengabulkan permintaan ini dengan menimbang alasan pelanggaranmu serta rekam jejak akunmu.
 
-Apabila diminta, informasi seputar status larangan turnamenmu dapat diberikan kepada panitia turnamen yang kamu ikuti, terlepas dari apakah turnamen ini didukung secara resmi ataupun tidak.
+Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat diberikan kepada panitia turnamen yang kamu ikuti, terlepas dari apakah turnamen ini didukung secara resmi ataupun tidak.
 
 ## Alasan larangan turnamen umum beserta durasinya {id=reasons}
 
