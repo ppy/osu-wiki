@@ -4,7 +4,7 @@
 
 ![A screenshot of the editor's compose tab showing pishifat's Donor Song beatmap](img/compose.jpg)
 
-*Para atalhos do editor de beatmaps, vá em: [Referência de teclas de atalho](wiki/Client/Keyboard_shortcuts)*
+*Para atalhos do editor de beatmaps, vá em: [Referência de teclas de atalho](/wiki/Client/Keyboard_shortcuts)*
 
 O **editor de beatmap** é a interface gráfica dentro do jogo para a criação de [beatmaps](/wiki/Beatmap). [Beatmapping](/wiki/Beatmapping) é o ato de criar beatmaps para o osu!.
 
