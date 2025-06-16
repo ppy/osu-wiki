@@ -62,7 +62,7 @@ The UK Community Cup 13 is run by various community members.
 ### General
 
 - This tournament is a 1v1 double-elimination osu! tournament.
-- To participate, players must have their profile country as one of the following: ::{ flag=GB }:: United Kingdom, ::{ flag=IE }:: Ireland, ::{ flag=GG }:: Guernsey, ::{ flag=JE }:: Jersey or ::{ flag=IM }:: Isle of Man.
+- To participate, players must have their profile country as one of the following: ::{ flag=GB }:: United Kingdom, ::{ flag=IE }:: Ireland, ::{ flag=GG }:: Guernsey, ::{ flag=JE }:: Jersey, or ::{ flag=IM }:: Isle of Man.
 - Hosts, mappool selectors, and referees are not permitted to participate in the tournament.
 - Players will be seeded by the sum of normalised scores from a qualifier stage.
 - The top 48 players will progress onto a 48 player, double-elimination bracket.
@@ -79,7 +79,7 @@ The UK Community Cup 13 is run by various community members.
   - If the assigned referee is not present at the scheduled time, the hosts must be notified immediately via the UK Community Cup Discord server. 
   - Self-refereeing is not permitted.
 - To reschedule a match:
-  - A player must post a screenshot of both players agreeing to reschedule their match with a new time in #reschedules on the UK Community Cup Discord server. 
+  - A player must post a screenshot of both players agreeing to reschedule their match with a new time in `#reschedules` on the UK Community Cup Discord server. 
   - A host will confirm if the new time is acceptable, if not, the hosts will discuss with the affected players as to if a new time can be agreed.
   - If no rescheduling agreement can be reached between the players, the match will be scheduled to its original time. 
   - Reschedules are permitted up until 2 hours before the current time of the match. The opposing player holds the right to refuse a reschedule if requested less than 12 hours from the scheduled time.
@@ -105,30 +105,30 @@ The UK Community Cup 13 is run by various community members.
 - Each player may choose to play a warmup of their choosing.
   - Warmup maps must be a submitted beatmap, and have a length of less than or equal to 3 minutes.
   - Warmup maps must not have the explicit tag, should adhere to the tournament content usage rules and the osu! Community Guidelines.
-- When both players are in the lobby and ready, the referee will ask both players to !roll.
+- When both players are in the lobby and ready, the referee will ask both players to `!roll`.
   - The referee will ask the winner of the roll if they would like to choose between the Pick or Ban order.
   - The referee will then ask the winner of the roll if they would like to choose if they go first or second for the order they chose. 
   - The referee will then ask the loser of the roll if they would like to choose if they go first or second for the order the winner of the roll did not choose. 
   - The match will then proceed in the order determined by the player's choices.
 - Players have 90 seconds to ban a map. Failure to ban a map within this time limit results in a lost ban.
-  - The Tiebreaker cannot be banned.
+  - The tiebreaker cannot be banned.
 - Players have 90 seconds to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
-  - Players cannot pick the Tiebreaker. If the score is tied with each player one point off the required total to win the match, the Tiebreaker will be picked.
+  - Players cannot pick the tiebreaker. If the score is tied with each player one point off the required total to win the match, the Tiebreaker will be picked.
 - All picked maps are to be played with No Fail enabled.
-  - The Tiebreaker will be played under Freemod conditions, players may choose a combination of Hidden and/or Hard Rock, players are still required to use No Fail.
+  - The tiebreaker will be played under Free Mod conditions. Players may choose a combination of Hidden and/or Hard Rock, but are still required to use No Fail.
 - The referee cannot play during any stage of the match.
 - To win the match, a player needs to win a set number of maps.
   - In the Round of 48, 32 and 16, players must win 5 maps to win a match (Best of 9).
   - In the Quarterfinals and Semifinals, players must win 6 maps to win a match (Best of 11).
   - In the Finals and Grand Finals, players must win 7 maps to win a match (Best of 11).
     - To win the tournament, the player participating directly from the winners bracket is only required to win one match, the player participating from the losers bracket must win two matches consecutively.
-- The result of the match will be published on the match results spreadsheet and in #results on the UK Community Cup Discord server.
+- The result of the match will be published on the match results spreadsheet and in `#results` on the UK Community Cup Discord server.
 
 ### Mappool Information
 
 - Each stage will have its own mappool.
 - Mappools are to be released the Monday prior to the first matches of the stage.
 - Each mappool will consist of 4 brackets: No Mod, Hidden, Hard Rock, and Double Time.
-  - Mappools used in the Bracket Stage will also contain a Tiebreaker map.
+  - Mappools used in the bracket stage will also contain a tiebreaker map.
 - The Hidden, Hard Rock, and Double Time brackets will be played with the respective mods enabled for all players.
 - All maps will adhere to the content usage rules as outlined on the [official tournament support page](/wiki/Tournaments/Official_support).
