@@ -4,6 +4,8 @@ Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se
 
 La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca tutti i membri.
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 | Nome | Ruoli precedenti |
 | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | NAT |
