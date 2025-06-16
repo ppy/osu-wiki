@@ -68,6 +68,28 @@ tags:
 - [YouTube](https://www.youtube.com/channel/UCtdowLBk7An_UlvtTKrYl0w)
 - [Tournament bracket](https://challonge.com/RESC25)
 
+## Mappools
+
+### Qualifiers
+
+- No Mod
+  1. [USAO - Phalanx (Yumerios) [Frontline]](https://osu.ppy.sh/beatmapsets/2373050#osu/5123942)
+  2. [Hommarju Feat. R.cena - Chousai Kenbo Sengen (-Tynamo) [Tensai]](https://osu.ppy.sh/beatmapsets/2048763#osu/4277471)
+  3. [Cranky - Rave 2 Rave (Luscent) [luscent]](https://osu.ppy.sh/beatmapsets/1171058#osu/2442838)
+  4. [False Noise - Hyperlight (IntegerTempest) [Tesseract]](https://osu.ppy.sh/beatmapsets/2373150#osu/5124219)
+- Hidden
+  1. [Fujikawa Chiai - Gomi no Hi (a_Blue) [Nostalgia]](https://osu.ppy.sh/beatmapsets/1235121#osu/2567564)
+  2. [ParagonX9 - Chaoz Japan (AJT) [Disorder]](https://osu.ppy.sh/beatmapsets/1595646#osu/3259121)
+  3. [Hakushi Hasegawa - Doku (Halgoh) [Halgoh & Sharu's Symbiotic Torrent]](https://osu.ppy.sh/beatmapsets/1670363#osu/3411617)
+- Hard Rock
+  1. [LiSA - Shouted Serenade (Castiello) [Collab Extra]](https://osu.ppy.sh/beatmapsets/2373198#osu/5124323)
+  2. [Ax feat. Natsukawa Yoko - Sakimori Renka (Yusomi) [EX]](https://osu.ppy.sh/beatmapsets/998415#osu/2088253)
+  3. [hitorie - Nichijou to Chikyuu no Gakubuchi (wowaka x Hatsune Miku Edit) (flake) [take care.]](https://osu.ppy.sh/beatmapsets/1985060#osu/4122999)
+- Double Time
+  1. [Demetori - Yuuga ni Sakase, Sumizome no Sakura ~ The Harm of Coming into Existence (jonathanlfj) [Trustlfj's Lunatic]](https://osu.ppy.sh/beatmapsets/1034179#osu/2257469)
+  2. [cygnus - Anvilia (LMT) [Insane]](https://osu.ppy.sh/beatmapsets/2056846#osu/4880511)
+  3. [Rita - dorchadas (Delis) [Insane]](https://osu.ppy.sh/beatmapsets/580215#osu/1228510)
+
 ## Ruleset
 
 ### General information

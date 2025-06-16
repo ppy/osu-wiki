@@ -72,7 +72,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Score submission | ![Yes][true] | ![Yes][true] |
 | Beatmap leaderboards | ![Yes][true] | ![Yes][true] |
 | Profile statistics | ![Yes][true] | ![Yes][true] |
-| Medals | ![Yes][true] | ![Partial][partial][^medals-lazer] |
+| Medals | ![Partial][partial][^medals-stable] | ![Partial][partial][^medals-lazer] |
 | Performance points | ![Yes][true] | ![Yes][true] |
 | Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
 | Wiki / news / changelog / rankings | ![No][false] | ![Yes][true][^online-content] |
@@ -345,6 +345,7 @@ You're likely thinking of another game.
 [^freestyle]: Turn on in song select to allow players to select any difficulty of the current beatmap.
 [^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
 [^medals-lazer]: Some [Hush-Hush medals](/wiki/Medals#hush-hush) are not yet obtainable.
+[^medals-stable]: Certain medals are lazer-exclusive.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
