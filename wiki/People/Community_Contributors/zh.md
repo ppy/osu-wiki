@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 776e337b5ed79c751285d76678634b6f0291ce1d
----
-
 # 社区贡献者
 
 ::: Infobox
@@ -255,6 +250,29 @@ outdated_since: 776e337b5ed79c751285d76678634b6f0291ce1d
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | 在[谱师公会](/wiki/Community/Mappers_Guild)和精选艺术家展示视频中做出了卓越贡献 |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | 在[谱师公会](/wiki/Community/Mappers_Guild)和精选艺术家展示视频中做出了卓越贡献 |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | 在[谱师公会](/wiki/Community/Mappers_Guild)和精选艺术家展示视频中做出了卓越贡献 |
+
+### 2024
+
+#### 三月
+
+*参见新闻报道：[Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 在摸图事务、领导团队和新闻报道中做出了卓越贡献 |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | 在 osu! 音乐和艺术创作的合作流程中做出了卓越贡献 |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | 在 osu!catch 的社区和作图领域中做出了卓越贡献 |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 在 osu!catch 的社区和单独的小工具开发中做出了卓越贡献 |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 在 osu!mania 的摸图和作图领域中做出了卓越贡献 |
+| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | 在 osu!mania 的比赛和作图领域中做出了卓越贡献 |
+| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | 在表现分系统和单独的小工具开发中做出了卓越贡献 ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | 在表现分系统开发和 osu!(stable) 维护中做出了卓越贡献 |
+| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | 在 Reddit [r/place](https://www.reddit.com/r/place/) 活动中统领社区，做出了卓越贡献 |
+| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | 在社区回放文档和工具开发中做出了卓越贡献 |
+| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | 开发了小工具 ([osu-trainer](https://github.com/FunOrange/osu-trainer))，对社区做出了卓越贡献 |
+| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | 开发了小工具 ([osuplus](https://github.com/limjeck/osuplus))，对社区做出了卓越贡献 |
+| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | 开发了小工具 ([owo! bot](https://owo-bot.xyz/))，对社区做出了卓越贡献 |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | 开发了小工具 ([Bathbot](https://github.com/MaxOhn/Bathbot))，对社区做出了卓越贡献 |
 
 ## 历史
 

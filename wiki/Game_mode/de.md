@@ -1,25 +1,22 @@
----
-outdated_translation: true
-outdated_since: 422698dbf36efb2be8537ab4d319428032966405
----
-
 # Spielmodi
 
-osu! hat vier **Spielmodi** mit verschiedenen Mechaniken, die ursprünglich von anderen Rhythmusspielen inspiriert sind:
+osu! hat vier integrierte **Spielmodi** mit verschiedenen Mechaniken, die ursprünglich von anderen Rhythmusspielen inspiriert sind:
 
 - ![][osu!] [osu!](#osu!)
 - ![][osu!taiko] [osu!taiko](#osu!taiko)
 - ![][osu!catch] [osu!catch](#osu!catch)
 - ![][osu!mania] [osu!mania](#osu!mania)
 
-Um zwischen den Modi zu wechseln, klicke den Button `Mode` unten in der Songauswahl oder nutze diese Tastenkombinationen:
+Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` unten in der Songauswahl, in osu!(lazer) auf die Buttons am oberen linken Rand oder nutze diese Tastenkombinationen:
 
 - `Strg` + `1` für osu!
 - `Strg` + `2` für osu!taiko
 - `Strg` + `3` für osu!catch
 - `Strg` + `4` für osu!mania
 
-![Oberfläche für die Modusauswahl](/wiki/shared/Interface_mode.png "Oberfläche für die Modusauswahl")
+![Oberfläche für die Modusauswahl (stable)](/wiki/shared/Interface_mode.png "Oberfläche für die Modusauswahl in osu!(stable)")
+
+![Oberfläche für die Modusauswahl (lazer)](/wiki/shared/Interface_mode_lazer.png "Oberfläche für die Modusauswahl in osu!(lazer)")
 
 ## ![][osu!] osu!
 
@@ -52,6 +49,12 @@ In *osu!catch* fallen Früchte verschiedener Sorten vom oberen Bildschirmrand he
 *osu!mania* ist ein vertikal scrollender Rhythmusspielmodus (VSRG), der als Klavier-Simulator konzipiert wurde. Er wurde vor allem von [woc2006](https://osu.ppy.sh/users/1105845) [vorgestellt sowie implementiert](https://osu.ppy.sh/community/forums/topics/100751) und basiert auf einer Reihe Förderband-artiger Rhythmusspiele (nämlich [Dance Dance Revolution](https://de.wikipedia.org/wiki/Dance_Dance_Revolution) und [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Die Maskottchen von osu!mania sind die Zwillinge [Mani und Mari](/wiki/Mascots#mani-&-mari), die beide violettes und hellviolettes Haar haben.
 
 ![Gameplay von osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania-Gameplay")
+
+## Benutzerdefinierte Spielmodi
+
+Mit `.dll`-Dateien kann man in osu!(lazer) weitere Spielmodi (auch genannt Rulesets) manuell installieren. Durch sie hat man neue Möglichkeiten, das Spiel und seine Beatmaps zu spielen. Benutzerdefinierte Spielmodi, ähnlich wie die Hauptspielmodi, sind oft von anderen Rhythmusspielen inspiriert.
+
+Eine vollständige Liste aller benutzerdefinierten Spielmodi kann [dieser GitHub-Diskussion](https://github.com/ppy/osu/discussions/13096) entnommen werden.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
