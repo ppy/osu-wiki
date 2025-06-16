@@ -144,30 +144,31 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ### Round of 16
 
+**[Download the mappack here (140 MB)](https://packs.ppy.sh/P289%20-%20osu!catch%20World%20Cup%202025%3A%20Round%20of%2016.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2486718794?t=5h8m30s)
 
 - No Mod
   1. [Yousei Teikoku - Zetsubou plantation (-Luminate) \[Despair\]](https://osu.ppy.sh/beatmapsets/2388183#fruits/5168115)
   2. [XenjeS - Planetary Exclusion Zone (-Rustyy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2388185#fruits/5168126)
   3. [Tedjimo yomigY - Lorikeet (Liyac) \[Flutter (Ro16 NM3)\]](https://osu.ppy.sh/beatmapsets/2388187#fruits/5168130)
-  4. beatMARIO - Help me, ERINNNNNN!! (Cut Ver.) (autofanboy) \[Tasukete (CWC Ver.)\ *(link pending)*
+  4. [beatMARIO - Help me, ERINNNNNN!! (Cut Ver.) (autofanboy) \[Tasukete (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2388325#fruits/5168335)
 - Hidden
   1. [Kitazawa Kyouhei feat. Hatsune Miku - ONIRIC (Morusya) \[IT BLOOMED. IT BLOOMED. IT BLOOMED. IT BLOOMED.\]](https://osu.ppy.sh/beatmapsets/2388192#fruits/5168150)
   2. [Sheena Ringo - Yami ni Furu Ame (-Rustyy) \[Basking in the Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2388193#fruits/5168151)
-  3. Se-U-Ra - Tsui no Maihime (autofanboy) \[Harbinger\] *(link pending)*
+  3. [Se-U-Ra - Tsui no Maihime (autofanboy) \[Harbinger\]](https://osu.ppy.sh/beatmapsets/2388326#fruits/5168336)
 - Hard Rock
   1. [Camellia feat. STARLIVHT - LIVHT MY WAY (Bunnrei) \[Overload \[9.5\]\]](https://osu.ppy.sh/beatmapsets/2388200#fruits/5168160)
   2. [IAHN - Summer Vacation (Original Mix) (ZiRoX) \[Welcome to Otter Beach!\]](https://osu.ppy.sh/beatmapsets/2388201#fruits/5168161)
   3. [rejection - Reckless (osu! edit) (-Ken) \[Foolish Ambition\]](https://osu.ppy.sh/beatmapsets/2388197#fruits/5168156)
 - Double Time
-  1. Electro.muster feat. Rita - Dream Walker (Dapulezatos) \[DT\] *(link pending)*
+  1. [Electro.muster feat. Rita - Dream Walker (Dapulezatos) \[DT\]](https://osu.ppy.sh/beatmapsets/2388374#fruits/5168435)
   2. [MYLK - Bubblegum (Nosuri) \[Spearmint\]](https://osu.ppy.sh/beatmapsets/2388203#fruits/5168164)
   3. [Tedjimo yomigY vs. Morimori Atsushi - Illusion of Fixity (Greaper) \[Fractured Vision\]](https://osu.ppy.sh/beatmapsets/2388217#fruits/5168180)
 - Mixed Mod
-  1. EmoCosine - Ready for Breakdown (Xinnoh) \[Overdose\] *(link pending)*
-  2. 0 K - Voyager III (Deif) \[Interstellar Mission\] *(link pending)*
+  1. [EmoCosine - Ready for Breakdown (Xinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2388341#fruits/5168359)
+  2. [0 K - Voyager III (Deif) \[Interstellar Mission\]](https://osu.ppy.sh/beatmapsets/2388224#fruits/5168190)
 - Tiebreaker
-  1. **[Ne Obliviscaris - Painters of the Tempest (Part II): Triptych Lux (Cut ver.) (wwwww) \[Distempered Heaven\]](https://osu.ppy.sh/beatmapsets/2388223#fruits/5168189)**
+  1. **[Ne Obliviscaris - Painters of the Tempest (Part II): Triptych Lux (Cut Ver.) (wwwww) \[Distempered Heaven\]](https://osu.ppy.sh/beatmapsets/2388223#fruits/5168189)**
 
 ### Round of 32
 
