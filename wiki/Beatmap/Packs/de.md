@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Beatmap-Pakete
 
 **Beatmap-Pakete** sind komprimierte Archive, die [Beatmaps](/wiki/Beatmap) einer bestimmten Kategorie enthalten. Sie können in der [Auflistung für Beatmap-Pakete](https://osu.ppy.sh/beatmaps/packs) gefunden werden.
