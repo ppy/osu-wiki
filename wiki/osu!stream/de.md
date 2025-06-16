@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!stream
 
 *Für die Liste der im Spiel enthaltenen Songs, siehe: [Songliste von osu!stream](/wiki/osu!stream/Song_List)*
