@@ -8,7 +8,7 @@ Para acceder al modo de juego osu!catch presiona `Ctrl` + `3` al mismo tiempo, u
 
 Para descargar más beatmaps para osu!catch, dirígete al [listado de beatmaps](https://osu.ppy.sh/beatmapsets) en el sitio web de osu! o, desde osu!(lazer), presiona `Ctrl` + `B` o haz clic en el botón `lista de mapas`.
 
-![Botón de la lista de mapas de osu!(lazer)](/wiki/shared/lazer_beatmap_listing-ES.png)
+![Botón de la lista de mapas de osu!(lazer)](img/lazer_beatmap_listing-ES.png)
 
 ## Controles disponibles para el jugador
 
