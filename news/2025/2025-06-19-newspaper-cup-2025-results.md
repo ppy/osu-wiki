@@ -8,9 +8,11 @@ The longest-running annual beatmapping contest for novice mappers, the Newspaper
 
 ![](https://assets.ppy.sh/contests/236/banner.jpg)
 
-[NPC 2025 kicked off back in January.](https://osu.ppy.sh/home/news/2025-01-29-newspaper-cup-2025) It was originally a Chinese mapping contest to promote novice mappers, which had its first iteration in 2015. Through the past years, the Newspaper Cup has become a renowned contest for encouraging fresh bloods into mapping and finding new talents across the entire mapping community. This year, NPC has made a creative step that allows the participant to choose from any track they like from the [featured artist](https://osu.ppy.sh/beatmaps/artists) library. With a total of 79 entries across three tracks, it makes NPC 2025 one of, if not the most exciting, community mapping contests for new mappers ever!
+[NPC 2025 kicked off back in January.](https://osu.ppy.sh/home/news/2025-01-29-newspaper-cup-2025) It was originally a Chinese mapping contest to promote novice mappers, which had its first iteration in 2015. Throughout the past years, the Newspaper Cup has strived to encourage fresh bloods into mapping and find new talents across the entire mapping community.
 
-Today let's take a deeper look at the winning entries, and check out what the judges would like to comment about them!
+This year, participants were able to choose from any track they liked from the [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library. With a total of 79 entries across three tracks, the competition among new mappers has been *exciting*, to say the least.
+
+Today, let's take a deeper look at the winning entries, and check out what the judges would like to comment about them!
 
 ### 1st place: [Camellia - Dance with Silence](https://osu.ppy.sh/beatmapsets/2374180) (mapped by [PEALEERD_TAK](https://osu.ppy.sh/users/6214002))
 
@@ -96,8 +98,8 @@ A side note that -YeLing- participated and winned the screener's pick at the [Ma
 
 ---
 
-Excited about playing those amazing submissions? Head immediately to [the playlist](https://osu.ppy.sh/multiplayer/rooms/1381610) we have opened for you. For scoring details and judges' comments, please check [the contest listing](https://osu.ppy.sh/community/contests/236) for more results.
+Excited about playing those amazing submissions? Head immediately to [the playlist](https://osu.ppy.sh/multiplayer/rooms/1381610) we have opened for you. For scoring details and judges' comments, please check [the contest listing](https://osu.ppy.sh/community/contests/236) for all the info.
 
-Congratulations again to these amazing new mapping talents! We would like to thank all the participants, judges and everyone for their attention and contribution to NPC 2025. We sincerely hope to see you again the next year!
+Congratulations again to these amazing new mapping talents! We would like to thank all the participants, judges and everyone for their attention and contribution to NPC 2025. We sincerely hope to see you again next year!
 
 —Mafumafu, Fycho & Atrue
