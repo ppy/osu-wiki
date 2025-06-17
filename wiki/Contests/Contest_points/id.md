@@ -18,7 +18,7 @@ Untuk kontes beregu, poin yang diberikan per kontesnya akan ditinjau secara kasu
 
 ## Kontes terdahulu
 
-Poin kontes telah digunakan pada kontes-kontes berikut:
+Poin kontes telah digunakan pada rangkaian kontes berikut:
 
 - [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (MBC)
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) (o!tFAC)
