@@ -98,7 +98,7 @@ A side note that -YeLing- participated and winned the screener's pick at the [Ma
 
 ---
 
-Excited about playing those amazing submissions? Head immediately to [the playlist](https://osu.ppy.sh/multiplayer/rooms/1381610) we have opened for you. For scoring details and judges' comments, please check [the contest listing](https://osu.ppy.sh/community/contests/236) for all the info.
+Excited about playing those amazing submissions? Head immediately to [the playlist](https://osu.ppy.sh/multiplayer/rooms/1381610) we have opened for you (open until monday next week!). For scoring details and judges' comments, please check [the contest listing](https://osu.ppy.sh/community/contests/236) for all the info.
 
 Congratulations again to these amazing new mapping talents! We would like to thank all the participants, judges and everyone for their attention and contribution to NPC 2025. We sincerely hope to see you again next year!
 
