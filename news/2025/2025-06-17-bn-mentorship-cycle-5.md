@@ -50,7 +50,7 @@ Do note that the osu!taiko mentors may opt in to hold a joint class depending on
 
 [![Click here to apply for BN Mentorship!](/wiki/shared/news/banners/bn-mentorship/apply.png)](https://forms.gle/CGh6XqokfQX25m3j9)
 
-Make sure to strike that button while the iron is hot, as sign-ups will end on the **June 28th**. We hope to see you soon!
+Make sure to strike that button while the iron is hot, as sign-ups will end on **June 28th**. We hope to see you soon!
 
 Good luck!
 
