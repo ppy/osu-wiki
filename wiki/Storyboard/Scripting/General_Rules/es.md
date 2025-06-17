@@ -1,8 +1,3 @@
----
-outdated_since: 277576b145c1f9a5615aa61809d2ece9eb9001d9
-outdated_translation: true
----
-
 # Reglas generales del storyboarding
 
 ![Un ejemplo de las secuencias de comandos en un archivo .osb.](img/SBS_Base-ES.png "Un ejemplo de las secuencias de comandos en un archivo .osb.")
@@ -38,14 +33,15 @@ Las coordenadas se especifican con valores positivos para `X` que van hacia la *
 
 ### Capas
 
-Todos los sprites del storyboard se colocan debajo de la skin y los [objetos](/wiki/Gameplay/Hit_object). Por lo tanto, incluso la capa «más alta» (primer plano) en el storyboard siempre estará detrás de la barra de HP, los círculos/sliders/spinners, el cursor, etc.
+Todos los sprites del storyboard se colocan debajo de los [objetos](/wiki/Gameplay/Hit_object) excepto Overlay, que se sigue colocando debajo de la skin. Por lo tanto, incluso la capa «más alta» (Overlay) del storyboard siempre estará por encima de los objetos, pero detrás de la barra HP, el cursor, etc.
 
-Estas son las cuatro capas de un storyboard, en orden creciente de prioridad:
+Estas son las cinco capas de un storyboard, en orden creciente de prioridad:
 
 - Fondo
 - Fail (solo se muestra si el jugador está en el «estado Fail», consulta [estado de juego](#estado-de-juego) a continuación)
 - Pass (solo se muestra si el jugador está en el «estado Pass», consulta [estado de juego](#estado-de-juego) a continuación)
 - Primer plano
+- Overlay (se muestra sobre los objetos, usar con precaución)
 
 Ten en cuenta que las capas «Fail» y «Pass» nunca aparecen en la pantalla simultáneamente, a diferencia de lo que ocurre en la pestaña de diseño.
 
