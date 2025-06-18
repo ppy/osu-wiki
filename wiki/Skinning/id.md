@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skinning
 
 Skinning (atau pembuatan skin) merupakan salah satu fitur utama osu!. Fitur ini memungkinkan para pemain untuk mengembangkan skin buatan mereka sendiri berdasarkan elemen skin bawaan yang tersedia. Skin ini bisa bermacam-macam, mulai dari skin yang dibuat untuk bersenang-senang, tematik, profesional, atau bahkan yang mustahil untuk dimainkan sekalipun.
