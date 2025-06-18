@@ -38,6 +38,16 @@ tags:
 *Para la versión de osu!stable de este artículo, véase: [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight)*\
 *Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
+El mod **Flashlight** restringe la visibilidad del campo de juego a una pequeña zona iluminada, como si se viera a través de una linterna. A medida que aumenta el combo del jugador, esta área visible se reduce progresivamente hasta alcanzar un tamaño mínimo, que varía dependiendo del [modo de juego](/wiki/Game_mode).
+
+## Personalización
+
+![Opciones de personalización del mod Flashlight en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/FL.png)
+
+- **Follow delay** (120-1200, predeterminado: 120): Milisegundos hasta que la linterna alcance al cursor.
+- **Flashlight size** (0,5-2,0, predeterminado: 1,0): Multiplicador aplicado al tamaño predeterminado de la linterna.
+- **Change size based on combo** (predeterminado: activado): Disminuye el tamaño de la linterna a medida que aumenta el combo.
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
