@@ -33,37 +33,37 @@ ppv1 is rather infeasible without a lot of digging, little information is public
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ::{ flag=SK }:: [ExGon](https://osu.ppy.sh/users/214187) | 2014-07-08 | *2016-05-04* | [\[1\]](https://web.archive.org/web/20140708155258/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 2014-07-08 | *2016-05-04* | [\[1\]](https://web.archive.org/web/20140708155258/https://osu.ppy.sh/p/pp/?m=2) |
 
 ## 2015
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ::{ flag=SK }:: [ExGon](https://osu.ppy.sh/users/214187) | *2014-07-08* | *2016-05-04* | [\[1\]](https://web.archive.org/web/20140708155258/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | *2014-07-08* | *2016-05-04* | [\[1\]](https://web.archive.org/web/20140708155258/https://osu.ppy.sh/p/pp/?m=2) |
 
 ## 2016
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ::{ flag=SK }:: [ExGon](https://osu.ppy.sh/users/214187) | *2014-07-08* | 2016-05-04 | [\[1\]](https://web.archive.org/web/20140708155258/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=PH }:: [Dusk](https://osu.ppy.sh/users/533210) | 2016-05-04 | *2017-01-15* | [\[1\]](https://web.archive.org/web/20160504020501/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | *2014-07-08* | 2016-05-04 | [\[1\]](https://web.archive.org/web/20140708155258/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 2016-05-04 | *2017-01-15* | [\[1\]](https://web.archive.org/web/20160504020501/https://osu.ppy.sh/p/pp/?m=2) |
 
 ## 2017
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | *2016-05-04* | 2017-01-15 | [\[1\]](https://web.archive.org/web/20160504020501/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=PH }:: [YesMyDarkness](https://osu.ppy.sh/users/26654092) | 2017-01-15 | 2017-02-16 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/26654092) | 2017-01-15 | 2017-02-16 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 2017-02-16 | 2017-04-19 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=PH }:: [YesMyDarkness](https://osu.ppy.sh/users/26654092) | 2017-04-19 | 2017-06-17 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/26654092) | 2017-04-19 | 2017-06-17 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 2017-06-17 | 2017-08-20 | [\[1\]](https://web.archive.org/web/20170617144834/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=SK }:: [Motion](https://osu.ppy.sh/users/3885626) | 2017-08-20 | *2018-04-14* | [\[1\]](https://web.archive.org/web/20170820172043/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2017-08-20 | *2018-04-14* | [\[1\]](https://web.archive.org/web/20170820172043/https://osu.ppy.sh/p/pp/?m=2) |
 
 ## 2018
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ::{ flag=SK }:: [Motion](https://osu.ppy.sh/users/3885626) | *2017-08-20* | 2018-04-14 | [\[1\]](https://web.archive.org/web/20170820172043/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | *2017-08-20* | 2018-04-14 | [\[1\]](https://web.archive.org/web/20170820172043/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 2018-04-14 | *2019-04-06* | [\[1\]](https://web.archive.org/web/20180414205044/https://osu.ppy.sh/rankings/fruits/performance) |
 
 ## 2019
@@ -135,10 +135,12 @@ The following is a list of the total number of times a player has reached the ra
 
 | Player | Reigns |
 | --: | :-: |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 8 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 9 |
+| ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 6 |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 5 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
-| ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 4 |
+| ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 3 |
+| ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 1 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 1 |
 
 ## Longest combined reigns
@@ -149,8 +151,10 @@ The following is a list of the total number of days that a player has held the r
 
 | Player | Length (days) |
 | --: | :-: |
-| ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 1192 |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 636 |
+| ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 1283 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 873 |
+| ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 666 |
+| ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 382 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 357 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 203 |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
@@ -164,6 +168,8 @@ The following is a list of the longest consecutive days a player has held the ra
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 2021-06-07 | 2024-07-21 | 1173 |
+| ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 666 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 2018-04-14 | 2019-04-06 | 357 |
+| ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 256 |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2020-05-14 | 2021-01-12 | 243 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 2020-02-04 | 2020-05-14 | 100 |
