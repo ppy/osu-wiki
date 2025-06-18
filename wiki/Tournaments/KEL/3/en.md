@@ -204,11 +204,11 @@ This competition has come to an end and resulted in the following podium:
 ### Qualifier procedure
 
 1. Players choose their lobby from the spreadsheet. They can participate in a lobby that has at least one empty slot.
-   - Players notify hosts on the discord channel about their chosen lobby using a pinned prompt.
+   - Players notify hosts on the Discord channel about their chosen lobby using a pinned prompt.
 2. Last lobby for Qualifiers round cannot start after December 18th.
 3. If a player does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
 4. Each map will be played in order as they are shown on the mappool sheet. There will be one play through of the pool.
-5. 90 second timers are used for players to ready up.
+5. 90-second timers are used for players to ready up.
 6. Top 21 players using avg sum of placements, will proceed to Bracket Stage.
 
 ### Bracket stage procedure
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 9. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
    - First occurrence: A 15-second extension is given along with a verbal warning.
    - On subsequent occurrences: the referee will issue the `!mp start 10` command.
-10. Players got one timeout of 2 minutes per match, both players and the referee, must be in agreement about extending a timeout or having another timeout.
+10. Players get one timeout of 2 minutes per match. Both players and the referee must be in agreement when extending a timeout or having another timeout.
 
 ### Disconnections
 
