@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: d8739afa85dd24e508c6ed7b727ed56e82544aae
 stub: true
 tags:
   - FL
