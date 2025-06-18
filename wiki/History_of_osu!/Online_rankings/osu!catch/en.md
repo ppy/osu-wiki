@@ -168,8 +168,8 @@ The following is a list of the longest consecutive days a player has held the ra
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 2021-06-07 | 2024-07-21 | 1173 |
-| ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 666 |
+| ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 2014-07-08 | 2016-05-04 | 666 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 2018-04-14 | 2019-04-06 | 357 |
-| ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 256 |
+| ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 2016-05-04 | 2017-01-15 | 256 |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2020-05-14 | 2021-01-12 | 243 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 2020-02-04 | 2020-05-14 | 100 |
