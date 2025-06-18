@@ -12,7 +12,7 @@ The first iteration of [Capture The Achievement](https://cta.sheppsu.me/) receiv
 
 **Capture The Achievement 2** is an event where teams of 1-5 players compete to complete as many "achievements" as possible. Achievements are like medals: they have a completion requirement, sometimes hidden, sometimes challenging. The event will start with 10 achievements and a new one will release every 4 hours, totaling 100 achievements across 15 days. Then there's one extra day to do a final grind for points. You don't have to be active the entire event; you can simply play whenever.
 
-For specific details, please check the [CTA website](https://cta.sheppsu.me/). Join the [discord](https://discord.gg/kuE5mTZgqK) for announcements or if you have a specific question.
+For specific details, please check the [CTA website](https://cta.sheppsu.me/). Join the [Discord](https://discord.gg/kuE5mTZgqK) for announcements or if you have a specific question.
 
 ## Schedule
 
