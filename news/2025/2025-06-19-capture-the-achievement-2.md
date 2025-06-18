@@ -26,7 +26,7 @@ For specific details, please check the [CTA website](https://cta.sheppsu.me/). J
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | profile badge (pending) and 4 months of supporter per person |
+| 1st | profile badge (pending) and 4 months of supporter for each team member |
 | 2nd | 2 months of supporter per person |
 | 3rd | 1 month of supporter per person |
 
