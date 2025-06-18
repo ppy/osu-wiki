@@ -4,7 +4,7 @@ title: Capture The Achievement 2
 date: 2025-06-19 14:30:00 +0000
 ---
 
-Do you enjoy scavenger hunting? Competing for a badge? Using your random osu knowledge? Solving puzzles? Completing challenges? Playing with friends? Consider participating in Capture The Achievement 2!
+Do you enjoy scavenger hunting? Competing for a badge? Making use of your random osu! knowledge? Solving puzzles? Completing challenges? Playing with friends? If so, consider participating in Capture The Achievement 2!
 
 ![banner image](/wiki/shared/news/2025-06-19-capture-the-achievement-2/banner.jpg)
 
