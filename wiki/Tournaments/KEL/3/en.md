@@ -217,7 +217,7 @@ This competition has come to an end and resulted in the following podium:
 2. There are no restrictions on picks or bans.
 3. No Fail is enforced on all maps.
 4. Players will `!roll` in matches. The winner may choose between pick or ban order, and the other captain may choose the remaining order.
-5. Players have 1 ban in Round of 32 & Round of 16, Quarterfinals & Semifinals and 2 bans throughout the rest of bracket stage.
+5. Players have 1 ban from the Round of 32 to Semifinals and 2 bans throughout the rest of bracket stage.
    - Ban order is ABBA, with all bans happening at the start of the match.
 6. Players have 120 seconds to declare picks and bans.
 7. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
