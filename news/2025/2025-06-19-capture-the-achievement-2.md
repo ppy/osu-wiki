@@ -46,7 +46,7 @@ An achievement has a title, description, tags, and possibly one or more beatmaps
 
 ![Achievement example](/wiki/shared/news/2025-06-19-capture-the-achievement-2/example-1.png)
 
-The solution to this particular achievement is playing [Super Mario Bros Medley](https://osu.ppy.sh/beatmapsets/1281#osu/11517), a map that got both WubWoofWolf and Doomsday into osu, as explained by their comments under the map and a [video](https://www.youtube.com/watch?v=0T5F0Zzy6ps) on Doomsday's channel.
+The solution to this particular achievement is playing [Super Mario Bros Medley](https://osu.ppy.sh/beatmapsets/1281#osu/11517), a map that got both [WubWoofWolf](https://osu.ppy.sh/users/39828) and [Doomsday](https://osu.ppy.sh/users/18983) into osu!, as explained by their comments under the map and [this video](https://www.youtube.com/watch?v=0T5F0Zzy6ps) from Doomsday's YouTube channel.
 
 ![Completed achievement example](/wiki/shared/news/2025-06-19-capture-the-achievement-2/example-2.png)
 
