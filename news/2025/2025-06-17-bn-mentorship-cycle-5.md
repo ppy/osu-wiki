@@ -35,7 +35,7 @@ Do note that the osu!taiko mentors may opt in to hold a joint class depending on
 | :-- | :-- |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | UTC+8 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | UTC+1 |
-| ::{ flag=NL }:: [Spectator](https://osu.ppy.sh/users/702598) | UTC+9 |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | UTC+9 |
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania mentors
 
