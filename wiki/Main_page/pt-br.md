@@ -134,7 +134,7 @@ Interaja com o osu! através de outros programas e mídias, ou ajude-o crescer m
 
 Assim como quase tudo aqui, a wiki do osu! é escrita e mantida por voluntários. Sugira uma melhoria, reporte um problema, ou até mesmo escreva seu próprio artigo no [Repositório GitHub do osu! wiki](https://github.com/ppy/osu-wiki).
 
-[Histórico do osu!](/wiki/History_of_osu!) • [Histórico dos Rankings Online](/wiki/History_of_osu!/Online_rankings) • [Histórico da osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Linha do tempo de Mapeamento e Moderação](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Primeiro de Abril](/wiki/History_of_osu!/April_Fools)
+[História do osu!](/wiki/History_of_osu!) • [Histórico dos Rankings Online](/wiki/History_of_osu!/Online_rankings) • [Histórico da osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Linha do tempo de Mapeamento e Moderação](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Primeiro de Abril](/wiki/History_of_osu!/April_Fools)
 
 [Mapa do Site](/wiki/Sitemap) • [Guia de Contribuição](/wiki/osu!_wiki/Contribution_guide) • [Critério de estilo do artigo](/wiki/Article_styling_criteria) • [Critério do estilo de notícias](/wiki/News_styling_criteria)
 
