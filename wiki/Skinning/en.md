@@ -1,6 +1,6 @@
 # Skinning
 
-Skinning is one of the key features of osu!. It enables players to develop their own skin based on the default skinning elements provided by the game. These skins can vary from being for-fun, themed, professional, or be nigh impossible to play with.
+Skinning is one of the key features of osu! that allows players to restyle the game's interface based on provided default elements. User-made skins range from fun-themed to professional-looking designs, or may be deliberately challenging or nigh impossible to play with.
 
 ## Skinning sets
 
