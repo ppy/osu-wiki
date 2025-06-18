@@ -38,7 +38,7 @@ If you pass screening, you'll be able to participate.
 
 ## What if I can't find a team?
 
-No worries! Everyone who registers is a free-agent by default, meaning you'll be automatically assigned a random team when the event starts. You can also opt out of being a free-agent and play solo if that's your thing. 
+No worries! Everyone who registers is a free agent by default, meaning you'll be automatically assigned a random team when the event starts. You can also opt out of being a free agent and play solo if that's your thing. 
 
 ## What does an achievement look like?
 
