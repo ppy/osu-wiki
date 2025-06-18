@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f5a9ad2779ced27751be153b56ead8dffb97c705
+---
+
 # Historia de la osu! wiki
 
 ## MediaWiki (2011 - 2017)
