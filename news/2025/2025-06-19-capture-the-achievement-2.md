@@ -32,7 +32,7 @@ For specific details, please check the [CTA website](https://cta.sheppsu.me/). J
 
 ## How do I participate?
 
-Go to the [CTA website](https://cta.sheppsu.me/teams), login with osu, and hit the register button. Once registered, you can create a team, join one, or be a free agent. 
+Go to the [CTA website](https://cta.sheppsu.me/teams), login with osu!, and hit the register button. Once registered, you can create a team, join one, or be a free agent. 
 
 If you pass screening, you'll be able to participate.
 
