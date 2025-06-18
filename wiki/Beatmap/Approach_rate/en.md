@@ -30,9 +30,9 @@ See the infographic and formulas below for an overview:
 
 The hit object starts fading in at `X - preempt` with:
 
-- AR < 5: `preempt = 120ms * (15 - AR)`
+- AR < 5: `preempt = 1200ms + 120ms * (5 - AR)`
 - AR = 5: `preempt = 1200ms`
-- AR > 5: `preempt = 150ms * (13 - AR)`
+- AR > 5: `preempt = 1200ms - 150ms * (AR - 5)`
 
 Hit object competely fade in at 2/3 of preempt time. 
 
