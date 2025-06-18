@@ -12,7 +12,7 @@ The longest-running annual beatmapping contest for novice mappers, the Newspaper
 
 This year, participants were able to choose from any track they liked from the [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library. With a total of 79 entries across three tracks, the competition among new mappers has been *exciting*, to say the least.
 
-Today, let's take a deeper look at the winning entries, and check out what the judges would like to comment about them!
+Today, let's have a deeper look at the winning entries, and check out what the judges would like to comment about them!
 
 ### 1st place: [Camellia - Dance with Silence](https://osu.ppy.sh/beatmapsets/2374180) (mapped by [PEALEERD_TAK](https://osu.ppy.sh/users/6214002))
 
@@ -98,8 +98,8 @@ A side note that -YeLing- participated and winned the screener's pick at the [Ma
 
 ---
 
-Excited about playing those amazing submissions? Head immediately to [the playlist](https://osu.ppy.sh/multiplayer/rooms/1381610) we have opened for you (open until monday next week!). For scoring details and judges' comments, please check [the contest listing](https://osu.ppy.sh/community/contests/236) for all the info.
+Excited about playing those amazing submissions? Head immediately to [the playlist](https://osu.ppy.sh/multiplayer/rooms/1381610) we have opened for you (open until Monday next week!). For scoring details and judges' comments, please check [the contest listing](https://osu.ppy.sh/community/contests/236) for all the info.
 
-Congratulations again to these amazing new mapping talents! We would like to thank all the participants, judges and everyone for their attention and contribution to NPC 2025. We sincerely hope to see you again next year!
+Congratulations again to these amazing new mapping talents! We would like to thank all the participants, judges, and everyone for their attention and contribution to NPC 2025. We sincerely hope to see you again next year!
 
 —Mafumafu, Fycho & Atrue
