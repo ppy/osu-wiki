@@ -8,7 +8,7 @@ Bow before **1zm8**, the latest addition to our Featured Artists!
 
 ![](https://assets.ppy.sh/artists/474/header.jpg)
 
-Branching out from remixes to original work in 2013, electronic music producer **1zm8** has been designing his own unique sound inspired by extensive rhythm game experience and music game masterminds like *Laur*, *Team Grimoire*, [*t+pazolite*](https://osu.ppy.sh/beatmaps/artists/396), [*Morimori Atsushi*](https://osu.ppy.sh/beatmaps/artists/108), [*3R2*](https://osu.ppy.sh/beatmaps/artists/187), [*BlackY*](https://osu.ppy.sh/beatmaps/artists/150), and [*Yooh*](https://osu.ppy.sh/beatmaps/artists/218)!
+Branching out from remixes to original work in 2023, electronic music producer **1zm8** has been designing his own unique sound inspired by extensive rhythm game experience and music game masterminds like *Laur*, *Team Grimoire*, [*t+pazolite*](https://osu.ppy.sh/beatmaps/artists/396), [*Morimori Atsushi*](https://osu.ppy.sh/beatmaps/artists/108), [*3R2*](https://osu.ppy.sh/beatmaps/artists/187), [*BlackY*](https://osu.ppy.sh/beatmaps/artists/150), and [*Yooh*](https://osu.ppy.sh/beatmaps/artists/218)!
 
 Here on osu!, **9** tracks are part of [**1zm8**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/474), prepared with pre-timed `.osz` files. If you don't know what those are for yet, plop one in the editor to find out.
 
