@@ -6,7 +6,7 @@ date: 2025-06-19 14:30:00 +0000
 
 Do you enjoy scavenger hunting? Competing for a badge? Making use of your random osu! knowledge? Solving puzzles? Completing challenges? Playing with friends? If so, consider participating in Capture The Achievement 2!
 
-![banner image](/wiki/shared/news/2025-06-19-capture-the-achievement-2/banner.jpg)
+![](/wiki/shared/news/2025-06-19-capture-the-achievement-2/banner.jpg)
 
 The first iteration of [Capture The Achievement](https://cta.sheppsu.me/) received much positive feedback and helpful criticisms. We're now back with a second iteration that's bigger and better! You can check out teams and achievements related to the previous iteration [here](https://cta.sheppsu.me/iterations/1).
 
