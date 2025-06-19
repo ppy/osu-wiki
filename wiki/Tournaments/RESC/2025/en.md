@@ -244,7 +244,7 @@ Seeding results are calculated by ranking each team according to their Z-sum as 
 ### Free Mod rules
 
 1. The allowed mods are HD, HR, FL and EZ (1.75x). Each team must have at least one player with HD only and one player with HR only.
-2. Tiebreakers are played with Free Mod enabled, however, do not require players to use a mod. The third player cannot stay No Mod, they must pick an aforementioned mod or a combination of them.
+2. Tiebreakers are played with Free Mod enabled, however, do not require players to use a mod. The third player cannot stay No Mod — they must pick an aforementioned mod or a combination of them.
 
 ## Notes
 
