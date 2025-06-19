@@ -194,6 +194,6 @@ The results were as follows:
 | 31 | [Frums - HALL](https://osu.ppy.sh/beatmapsets/2055332) | **2799** | 1475 | 1324 |
 | 32 | [TWC Sound Team "Xurv Stasis Rasufim" - Kaze no Denwa](https://osu.ppy.sh/beatmapsets/2166504) | **2787** | 1322 | 1465 |
 | 33 | [katagiri - Kyuukou](https://osu.ppy.sh/beatmapsets/1939261) | **2752** | 1510 | 1242 |
-| 34 | [Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~](https://osu.ppy.sh/beatmapsets/2159337) | **2717** | 1309 | 1408 |
+| 34 | [Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum \~ein sof\~](https://osu.ppy.sh/beatmapsets/2159337) | **2717** | 1309 | 1408 |
 | 35 | [Yuuni - Frozen Blood](https://osu.ppy.sh/beatmapsets/2152052) | **2698** | 1304 | 1394 |
 | 36 | [TWC Sound Team "Zeroth Powers" - One One](https://osu.ppy.sh/beatmapsets/1422682) | **2621** | 1407 | 1214 |
