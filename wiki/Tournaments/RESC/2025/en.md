@@ -155,7 +155,7 @@ tags:
 
 ### Qualifiers
 
-Seeding results are calculated by ranking each team according to their Z-sum as defined [here](https://osu.ppy.sh/wiki/en/Tournaments/Common_seeding_methods#z-sum). The results of the Qualifiers can be found on [this website](https://rescup.xyz/qualifiers).
+Seeding results are calculated by ranking each team according to their Z-sum as defined [here](/wiki/Tournaments/Common_seeding_methods#z-sum). The results of the Qualifiers can be found on [this website](https://rescup.xyz/qualifiers).
 
 ## Ruleset
 
