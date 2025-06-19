@@ -12,14 +12,12 @@ Are you a new player who wants to find out what you can do in this game, or and 
 
 - **[MegaMix](https://osu.ppy.sh/users/18152711)**: Maintainer, Writer (Speedrunning)
 - **[Tomy](https://osu.ppy.sh/users/14889628)**: Writer (Medal Hunting)
-<!--
 - **[-Isla-](https://osu.ppy.sh/users/17745759)**: Writer (Completion)
 - **[Utiba](https://osu.ppy.sh/users/11354436)**: Writer (Unusual Devices)
-- **[Tanza](https://osu.ppy.sh/users/10379965)**: Banner Design
+- **[Tanza](https://osu.ppy.sh/users/10379965)**: Banner Design <!-- Tanza makes almost all newspost banners now, so I'm adding him here in advance -->
 - **[CyCeph](https://osu.ppy.sh/users/10379965)**: Additional Information (Completion)
 - **[EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048)**: Additional Information (Completion)
 - **[xasuma](https://osu.ppy.sh/users/3172980)**: Additional Information (Completion)
--->
 
 <!--
 Note for self: May want to come up with a better text for those who gave their answers to my questions for completion. Also do we want credits to be shown like this or as a table? 
@@ -31,6 +29,8 @@ Note for self: May want to come up with a better text for those who gave their a
 
 - **[Medal Hunting](#medal-hunting)**
 - **[Speedrunning](#speedrunning)**
+- **[Completion](#completion)**
+- **[Unusual Devices](#unusual-devices)** <!-- Do we maybe need a better title? Since it also mentions a keyboard, just with 4 keys instead of 2, so this title doesn't really work I think? -->
 
 ## [Medal Hunting](#navigation)
 
@@ -68,11 +68,71 @@ And of course such an event was noticed by multiple top players some of you know
 
 So yeah, there actually are multiple ways you could speedrun osu! as you can see, and interesting ones at that. If that sounds interesting to you just it does to me, I recommend you to actually try to speedrun some category from [osu!](https://www.speedrun.com/osu/) or [McOsu](https://www.speedrun.com/McOsu) leaderboard!
 
+## [Completion](#navigation)
+
+osu! completion may be one of the first things that come to mind when discussing an "unconventional playstyle," and that's understandable. It is a natural instinct to complete a game and experience it fully, but on osu!, it's a completely different story, with over an estimated 170k ranked beatmaps across all modes and more being ranked every day, it is a gargantuan task that requires an insane amount of time and dedication to be able to pull it off, who would be insane enough to go through all of that? Well, some people will, so let's take a deep dive into this playstyle, and look at what it takes to become a completionist.
+
+First, what is completion? Completion is usually defined as completing every ranked beatmap of a given game mode. Seems simple right? Well, not exactly. If this were the case, people could simply AFK after getting 10,000 points to submit the score. Due to this, most people's definition of completion generally includes an additional requirement that includes playing through each map in its entirety, or reaching a certain accuracy threshold as a way to disqualify AFK players from being considered completionists.
+
+Now that we have a general understanding of what completion is, why go for it? After all, why would someone go through finishing every beatmap when there is no real benefit? Well, maybe there is. There are many reasons why completionists set this goal in the first place.
+
+Some players are already score farmers and want a new challenge, something more mentally demanding than just grinding performance points. Others are inspired by former completionists. For many, it's a personal goal they've set for themselves, a way to test their endurance, commitment, and to get some shiny ranks. And sometimes, it's simply the satisfaction of finishing something monumental. They just want to complete it, no strings attached.
+
+To conclude, completion is not for the faint of heart. It requires hours and hours of dedication and mental resilience. If you are an aspiring completionist or already on your road to becoming one, good luck on your journey and we hope that you will make it through the finish line!
+
+> Note from MegaMix: As a bonus, we've also asked a few completionists some questions to see how they personally view this play style. You can view their answers [here](link_placeholder)! <!-- Should link to a file with all answers of each completionist we asked. Also may want to rewrite this note, I'm not sure. -->
+
+## [Unusual Devices](#navigation)
+
+Ever since osu! was released, 99% of the player base use a mouse or tablet to aim, and two fingers on the keyboard to click the circles. While there are some players who prefer playing on a touchscreen, mouse only with using the mouse buttons to click, or other devices, there are some players crazy enough to make obscure play styles that go beyond the norm that surprisingly work.
+
+If you've ever looked at the keystrokes on the right of your screen, you may notice that there's four keys on there. Two for your keyboard strokes, and two for your mouse strokes. Usually you would use one or the other, but how about using all four of them? One of the biggest advantages for using this play style is that you're able to get additional speed and stamina while pushing the boundaries of raw speed and technical tapping. While this might seem impossible to do as you need to use four of your fingers which can get pretty hard at times, some have been able to pull it off.
+
+Meet [120-cell](https://osu.ppy.sh/users/12571145), a top osu! player who uses all four keys who has pulled incredible plays with this play style. For example, they've managed to pull off a HDDT FC on [xi - over the top [uri's extra]](https://osu.ppy.sh/beatmapsets/2072719#osu/4343206), you can check out a liveplay of them down below!
+
+<div align="center" class="osu-md__paragraph">
+
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Q7b5fExTIbQ" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+However, they're just one of many people using this play style. There's an entire [team](https://osu.ppy.sh/teams/2657) dedicated to using four keys at once filled with many talented players, so go support them!
+
+If you thought that was crazy, how about playing osu! with your feet? No, this isn't a joke. Back in October 2020, osu! player and content creator [Kariyu](https://osu.ppy.sh/users/4733121) made a [Reddit post](https://www.reddit.com/r/osugame/comments/jfzodn/highest_star_140_foot_fc_world_record_2pp/) <!-- Utiba's note: Should we embed the Reddit video for this one? --> about getting an FC with just his feet. This became a trend in the osu! community to see who could set the best play with just only feet with many players such as [Kuvster](https://osu.ppy.sh/users/4896624) and [SmoreJoy](https://osu.ppy.sh/users/1431354) trying their best to one up each other to see who could set the highest star rating FC or highest PP play. Another player who brought wide spread attention to this trend was [Hugofrost](https://osu.ppy.sh/users/6896883), with him setting the new highest feet pp record of 15pp.
+
+<div align="center" class="osu-md__paragraph">
+
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Ms5Ro1hLaOo" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+However, one player saw this and decided "What if I used my feet to click to the circles?", and thus a player named [Toesu](https://osu.ppy.sh/users/4432408) (a.k.a. MrDinklepuss) made waves in the osu! community for his play style of using his feet to click the circles. Many people thought he wouldn't get far, but he was sure to prove them wrong. After using the play style for three and a half years, he currently has a top play of 859pp on [Victorius - Age of Tyranny [Revolt]](https://osu.ppy.sh/beatmapsets/2219231#osu/4704020). He has also uploaded a liveplay of this score, so make sure to check it out.
+
+<div align="center" class="osu-md__paragraph">
+
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/s8HtkZ50mS4" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+While it may just seem like he's doing it just to show off, his goal is to bring a new player base such as drummers or people with disabilities to the game. And he's clearly proven that you can 100% without a doubt play osu! with your feet without having any setbacks.
+
+There are countless other play styles with osu!, but it would get too long to mention every single one of them as there's too many to cover, so here's a few silly ones! [Mafham](https://osu.ppy.sh/users/3660531) is a player who likes to mess around with the game a lot with many different play styles, but one of his more famous ones has to be where he used a tennis ball as an aiming device to test out an absolute positioning mouse prototype. This would actually become a thing called the "Mablet" playstyle later on in the future!
+
+<div align="center" class="osu-md__paragraph">
+
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OGCTo7Lo_gc" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+Some players such as [cinnamon1213](https://osu.ppy.sh/users/24304363) would use a Steam Deck to play osu! as well thanks to the device having a little trackpad on the side.
+
+https://www.reddit.com/r/osugame/s/OCJqFDX2Wp
+<!-- Utiba's Note: Should we embed the Reddit video for this one? -->
+
+These players have definitely shown that you do not need a mouse, a tablet, or two of your fingers on your keyboard to play osu!, and that you can play with just about anything. Maybe today you should try using a device lying around in your home just for fun and see what crazy scores you can achieve!
+
 ---
 
 We sincerely hope you enjoyed our news post, and while there are more play styles we didn't mention, such as ranked elo lobbies or playing with specific mod combos, we also hope you've found something interesting to try yourself! Thanks for reading <3
 
-<!--
-Note for self: Don't forget to add other contributors.
--->
-—MegaMix, Tomy, etc.
+—MegaMix, Tomy, -Isla-, Utiba
