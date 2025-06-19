@@ -10,9 +10,9 @@ Do you enjoy scavenger hunting? Competing for a badge? Making use of your random
 
 The first iteration of [Capture The Achievement](https://cta.sheppsu.me/) received much positive feedback and helpful criticisms. We're now back with a second iteration that's bigger and better! You can check out teams and achievements related to the previous iteration [here](https://cta.sheppsu.me/iterations/1).
 
-**Capture The Achievement 2** is an event where teams of 1-5 players compete to complete as many "achievements" as possible. Achievements are like medals: they have a completion requirement, sometimes hidden, sometimes challenging. The event will start with 10 achievements and a new one will release every 4 hours, totaling 100 achievements across 15 days. Then there's one extra day to do a final grind for points. You don't have to be active the entire event; you can simply play whenever.
+**Capture The Achievement 2** is an event where teams of 1–5 players compete to complete as many "achievements" as possible. Achievements are like medals: they have a completion requirement, sometimes hidden, sometimes challenging. The event will start with 10 achievements and a new one will release every 4 hours, totalling 100 achievements across 15 days. Then there's one extra day to do a final grind for points. You don't have to be active the entire event — you can simply play whenever.
 
-For specific details, please check the [CTA website](https://cta.sheppsu.me/). Join the [Discord](https://discord.gg/kuE5mTZgqK) for announcements or if you have a specific question.
+For specific details, please check the [CTA website](https://cta.sheppsu.me/). Join the [Discord](https://discord.com/invite/kuE5mTZgqK) for announcements or if you have a specific question.
 
 ## Schedule
 
@@ -26,13 +26,13 @@ For specific details, please check the [CTA website](https://cta.sheppsu.me/). J
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | profile badge (pending) and 4 months of supporter for each team member |
-| 2nd | 2 months of supporter for each team member |
-| 3rd | 1 month of supporter for each team member |
+| 1st | Profile badge (pending) and 4 months of osu!supporter for each team member |
+| 2nd | 2 months of osu!supporter for each team member |
+| 3rd | 1 month of osu!supporter for each team member |
 
 ## How do I participate?
 
-Go to the [CTA website](https://cta.sheppsu.me/teams), login with osu!, and hit the register button. Once registered, you can create a team, join one, or be a free agent. 
+Go to the [CTA website](https://cta.sheppsu.me/teams), log in with osu!, and hit the register button. Once registered, you can create a team, join one, or be a free agent. 
 
 If you pass screening, you'll be able to participate.
 
@@ -66,7 +66,7 @@ Once the event starts, you'll see a progress bar and submission button. Clicking
 
 ![Completion progress and submission example](/wiki/shared/news/2025-06-19-capture-the-achievement-2/example-4.png)
 
-The server checks your recent scores in all modes and your user profile. The server also utilizes in-game chat for some achievements (marked with a "chat" tag), which can be completed without submitting.
+The server checks your recent scores in all modes and your user profile. The server also utilises private in-game chat channels for some achievements (marked with a "chat" tag), which can be completed without submitting.
 
 ---
 
