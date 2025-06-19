@@ -7,11 +7,6 @@ tags:
   - music
 ---
 
----
-outdated_since: 76a572faf13cc0edc1e1bfae1995e65c15791280
-outdated_translation: true
----
-
 # Bespoke music
 
 This article lists songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/People/Featured_Artists) announcements.
