@@ -66,7 +66,7 @@ Once the event starts, you'll see a progress bar and submission button. Clicking
 
 ![Completion progress and submission example](/wiki/shared/news/2025-06-19-capture-the-achievement-2/example-4.png)
 
-The server checks your recent scores in all modes (including failed ones) and your user profile. The server also utilizes in-game chat for some achievements (marked with a "chat" tag), which can be completed without submitting.
+The server checks your recent scores in all modes and your user profile. The server also utilizes in-game chat for some achievements (marked with a "chat" tag), which can be completed without submitting.
 
 ---
 
