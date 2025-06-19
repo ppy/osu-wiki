@@ -6,7 +6,7 @@ Users applying to the Beatmap Nominators were required to take a test through th
 
 ## Test structure
 
-There were 20 questions on the test, and applicants taking the test were expected to select all correct answers from a list of choices. Each question is worth 1 point, and incorrectly answering questions would not have awarded a user points, but it would not have resulted in points being deducted from the user's overall total.
+There were 20 questions on the test, and applicants taking the test were expected to select all correct answers from a list of choices. Each question is worth 1 point, and answering questions incorrectly would have awarded a user fewer points or no points, but it would not have resulted in points being deducted from the user's overall total.
 
 Test questions were pulled from a large pool of questions sorted by category. The following categories appeared in the test:
 
@@ -19,7 +19,7 @@ Test questions were pulled from a large pool of questions sorted by category. Th
 - [Audio RC](/wiki/Ranking_criteria#audio): 1 question
 - [Video and Background RC](/wiki/Ranking_criteria#video-and-background): 1 question
 - [Skinning RC](/wiki/Ranking_criteria#skinning): 1 question
-- [Storyboarding RC](/wiki/Ranking_criteria#storyboarding)
+- [Storyboarding RC](/wiki/Ranking_criteria#storyboarding): 3 questions
 - Mode-specific RC: 4 questions specific to the game mode applied to (osu!, osu!taiko, osu!catch, osu!mania)
 
 For osu! applications, a score below 12.5 would have resulted in a failed application. For other game modes, there was no threshold for passing or failing the BN test; however, it was generally accepted that a score above 15 is good, a score between 12.5 and 15 is mediocre, and any scores lower than 12.5 were concerning.
