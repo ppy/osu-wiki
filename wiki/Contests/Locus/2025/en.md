@@ -174,8 +174,8 @@ The results were as follows:
 | 11 | [seatrus - DiSANiMATE](https://osu.ppy.sh/beatmapsets/2137728) | **3079** | 1514 | 1565 |
 | 12 | [HyuN feat. Sennzai - Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284) | **3046** | 1546 | 1500 |
 | 13 | [Halv vs. kuro - Evreka](https://osu.ppy.sh/beatmapsets/2011570) | **3039** | 1517 | 1522 |
+| 14 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://osu.ppy.sh/beatmapsets/1880652) | **3036** | 1566 | 1470 |
 | 14 | [kanemiko & Kyutatsuki & Aoi - Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784) | **3036** | 1527 | 1509 |
-| 15 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://osu.ppy.sh/beatmapsets/1880652) | **3036** | 1566 | 1470 |
 | 16 | [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/1794214) | **3032** | 1613 | 1419 |
 | 17 | [seatrus - EXXTRA JUDGEMENT](https://osu.ppy.sh/beatmapsets/1889132) | **3030** | 1496 | 1534 |
 | 18 | [Akiri - Symphony Of The Lost Souls](https://osu.ppy.sh/beatmapsets/2130621) | **3029** | 1486 | 1543 |
