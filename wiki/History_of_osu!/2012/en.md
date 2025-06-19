@@ -1,106 +1,138 @@
 # History of osu! 2012
 
+## March
+
+A new feature was tested out which added an integrated [IRC](https://en.wikipedia.org/wiki/IRC) web chat to the osu! website.[^web-chat]
+
+## April
+
+::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) hosted an art contest for achievement graphics, in which users were required to design icons for various given standalone and beatmap pack titles. The users whose graphics were picked by peppy received 3 months of [osu!supporter](/wiki/osu!supporter) as a reward.[^achievements]
+
+![](img/achievement-submission.jpg "Exemplary icons submitted for the contest")
+
+## May
+
+A [live stream listing](https://osu.ppy.sh/community/livestreams) was added to the osu! website displaying users who were streaming osu! on [Twitch](https://en.wikipedia.org/wiki/Twitch_(service)) at the respective moment.[^live-stream-listing]
+
+## August
+
+osu! received an update featuring a SS [grade](/wiki/Gameplay/Grade) version of the [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_death) mod and game mode filters for the user list, among other things.[^stable-b0813]
+
+From 11 June to 1 July, participants in the [osu! 2012 T-shirt Design Contest](https://osu.ppy.sh/community/forums/topics/86971?n=1) were required to create artworks for t-shirts sold in the osu!store. Following the contest, a public voting was organised to determine the winning submissions. ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) won the 1st place with 324 votes. Prizes for the finalists included a t-shirt with the user's submission printed on it, a 20$ gift to freely spend on any available merchandise and varying amounts of osu!supporter.[^shirt-voting][^shirt-winner]
+
+![](img/shirt-contest.png "1st place entry by Ballance")
+
 ## September
+
+::: Infobox
 
 ![](img/2012-09_01.jpg "osu!'s main menu at the time")
 
-osu! and its community celebrated osu!'s 5th birthday on the 2012-09-17. During this time, all players were granted [osu!supporter](/wiki/osu!supporter) status for 24 hours, beginning at 2012-09-16 (18:00 UTC), which was osu!'s original release time in 2007. peppy had intended to distribute an early version of osu! in some form or another for the celebration, so players could experience osu! from an earlier time, where the roots of the program were. However, because of differing `.dll` file versions, peppy was unable to get it working. He has said he will get it working someday.
+:::
 
-Links:
-
-- [Five Years of osu! (Forum thread)](https://osu.ppy.sh/community/forums/topics/98349)
+osu! and its community celebrated osu!'s 5th birthday on September 17, 2012. During this time, all players were granted [osu!supporter](/wiki/osu!supporter) tags for 24 hours, beginning at 2012-09-16 (18:00 UTC), which was osu!'s original release time in 2007. peppy had intended to distribute an early version of osu! in some form or another for the celebration, so players were able to experience osu! from an earlier time, where the roots of the program were. However, because of differing `.dll` file versions, peppy was unable to get it working. He published it eventually a few months later in [April 2013](/wiki/History_of_osu!/2013#april).[^five-years]
 
 ## October
 
 ![](img/2012-10_01.jpg "osu!mania logo")
 
-![](img/2012-10_02.jpg "Per-object hitsounds as seen on the left of the editor")
+On October 8, the Vertical Scrolling Rhythm Game (VSRG) [osu!mania](/wiki/Game_mode/osu!mania) implemented by ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) was released to the public.[^stable-b1008] The community voiced mixed opinions on the new game mode. Some players gave praise over the effort done while others criticised the score [judgement](/wiki/Gameplay/Judgement/osu!mania) for being too strict in comparison to O2JAM, a rhythm game with similar gameplay mechanics. For some players the update felt too rushed, as ranking, submitting osu!mania beatmaps, difficulty modification and gameplay were not polished enough or completed. A few players had issues updating their osu! client due to the enormous size of the update (around 20 MB). Most of these issues had been resolved in November with a lot of feedback from the community. Nevertheless, many users wanted to try out the new game mode<!--TODO: data on how many exactly?-->.
 
-On 2012-10-08, osu!mania was finally released to the public build ([woc2006](https://osu.ppy.sh/users/1105845))! In addition to this:
-
-- Per-object hitsounds were added in the editor. ([mm201](https://osu.ppy.sh/users/30655))
-- Allow recovery from failing in [multiplayer](/wiki/Client/Interface/Multiplayer) by reaching full HP. (Exception if [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect](/wiki/Gameplay/Game_modifier/Perfect) mod was enabled)
-- Scrolling support to in-game online ranking list.
-- Fixes on [skin selector](/wiki/Client/Options#skin) to make it play more realistically.
-
-The main event of this update was osu!mania. Many player flood in osu! just to try and play the osu!mania mode. Some gave praise over the effort done while some question the score judgement being too strict and very off, in comparison to O2JAM. Issues were to be expected, as some players were unable to update their osu! client due to the enormous size of the update (~20MB would be a good guess). Some felt to complained that the update was too rushed, as ranking, submitting osu!mania beatmaps, difficulty modification and even gameplay was not completely polished or completed. Some issues were later resolved somewhere at November with enough feedback from general public opinion while some were still in process.
-
-Trivia: For players who entered Multi's lobby before updating to the b20121008 build, they may see a comical appearance of osu!mania named as "3" without the game mode icon (as seen below). You can't enter the room nevertheless without applying the update, let alone playing it.
+::: Infobox
 
 ![](img/2012-10_03.jpg "Entering Multi without the b20121008 build broke osu!mania")
 
-Links:
+:::
 
-- [osu! release (b20121008): osu!mania (Forum thread)](https://osu.ppy.sh/community/forums/posts/1825880)
+For players who entered the [multiplayer](/wiki/Client/Interface/Multiplayer) lobby before updating to the b20121008 build, there was a bug causing a comical appearance of osu!mania named as "3" without the game mode icon. Players were not able to play in the room without applying the update.
 
----
+::: Infobox
+
+![](img/2012-10_02.jpg "Per-object hitsounds as seen on the left of the editor")
+
+:::
+
+In addition to the new game mode, the following had been implemented in the update:
+
+- Per-object hitsounds were added in the editor, thanks to ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655).
+- Players became able to recover from failing in [multiplayer](/wiki/Client/Interface/Multiplayer) by reaching full HP (this was not the case if the [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect](/wiki/Gameplay/Game_modifier/Perfect) mod was enabled).
+- Scrolling support was added to the in-game online ranking list.
+- Improvements for the [skin selection](/wiki/Client/Options#skin) to make the preview play more realistically.
+
+::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) helped in setting up the new osu!store to offer the designs submitted in the [t-shirt design contest](https://osu.ppy.sh/community/forums/topics/94466?n=1) on high-quality t-shirts, with the eventual goal of expanding the product range to other items such as stickers<!--related to the wiki article "past osu! store items"?-->.[^osu-market]
+
+::: Infobox
 
 ![](img/2012-10_04.jpg "Background change as shown by peppy")
 
-On 2012-10-29, the background in the main menu could be changed if the user had osu!supporter status. In addition to this:
+:::
 
-- osu!mania ranking was in beta testing stage. Score were to be reset after a week.
-- Button status overlay.
-- Performance improvement.
+The osu! update on October 29 included a change for the main menu, allowing players with osu!supporter to customise the background image. Gameplay was not affected in any way by this pure visual alteration. osu!mania received its own ranking system which was highly anticipated by the community. To ensure no cheated scores made it into the ranking, there was a testing phase until November in which the leaderboard was reset several times.[^stable-b1029][^stable-b0904]
 
-A few notable changes to fix the previous update (osu!mania) and to give what the players really wanted, osu!mania ranking. As the osu!mania ranking system isn't completely tested for various aspects yet, the ranking would be reset each week or earlier to ensure no hacked scores were to be uploaded. The test lasted quite a while until the 2012-11-13 update (20121113b).
+Furthermore, when watching replays (or while spectating) in the osu! game mode, users became able to see what buttons the player pressed on the button status overlay. This overlay could also be activated while in singleplayer via the `Always show key overlay` setting in the [Options](/wiki/Client/Options#general.1) menu. It was placed at the top of the screen initially but later moved to the right of the screen to not obstruct the HP bar and potentially impact the player's focus.
 
-For supporters, they were given the luxury to set their image as osu! background rather than the usual background colour. Practically speaking, this does not affect anyone and it was more to a gimmick if anything. However, the background change requires you to be online to *actually work*, as osu! needs to verify your osu!supporter tag in order to work. Gameplay was not affected in any way.
-
-Button status overlay was considered a nice addition. Now, you can actually *see* how you/they handle your/their hit either by using the keyboard/mouse or repeatedly using that one button. By default, this would only work in osu! during a replay or spectating a play. You can manually make it to appear during gameplay at the [Options under Input Tab - General](/wiki/Client/Options#general.1) as "Always show key overlay". It was placed at the top of the screen initially but later switched to the right of the screen because it was obstructing the HP bar and player's concentration.
-
-Links:
-
-- [osu! Release (b20121029) (Forum thread)](https://osu.ppy.sh/community/forums/topics/103427)
+Lastly, a few long-term performance issues were resolved that had caused occasional game-freezes.
 
 ## November
 
-On 2012-11-13, **osu!mania ranking was now implemented with pp ranking**. To ensure that all of the scores weren't faked or cheated, the scores were reset one last time.
+The osu!mania ranking system had been finalised and all scores were reset one last time on November 13.[^mania-ranking]
 
-Links:
+In the update on November 22, localisations provided by voluntary contributors in the [osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) were added to osu!, making the game available in several languages. On top of this, a `Quick Join` button was added to the multiplayer lobby, enabling players to randomly join a room<!--no caution to the player's abilities regarding difficulty?-->.[^stable-b1122]
 
-- [osu!mania score reset (Forum thread)](https://osu.ppy.sh/community/forums/topics/105564)
+[Google Translate](https://en.wikipedia.org/wiki/Google_Translate) was added to the osu! website on November 8 as an optional feature, where users became able to choose a language and the website would be automatically translated<!--data on how long this was available?, lots of bugs and translation issues-->.[^website-translation]
 
----
+A new section was added to the screenshot page displaying a selection of popular images that were uploaded when pressing `Shift`+ `F12` in-game.[^week-in-osu-2]
 
-On 2012-11-22:
+<!-- Other:
 
-- Updated localisation. More languages were added.
-- Right-clicking non-current beatmap can allow the display beatmap option at song select without prior opening it with left-click.
-- DirectX improvement.
-- ([Multi](/wiki/Client/Interface/Multiplayer)) "Quick Join" button added.
+- Improve right-click behaviour at song select, allowing right-clicking non-current beatmap to still display options.
 - Fun Spoiler Settings was available during replay/spectating a player.
 
-Localisation from [osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) has been added. You can find the localisation at the [Options](/wiki/Client/Options) page in Graphics tab under "Languages".
-
-A "Quick Join" button was added to Multi's lobby where you randomly join a room based on the beatmap you have when pressed. Since you were randomly "forced" to enter a random room, it would not be surprising when the beatmap in question was in the difficulty setting you do not want (Insane difficulty usually or difficulty you can't handle well). Unless you find searching a room manually yourself was troublesome, you can use it as an option instead.
-
-Links:
-
-- [osu! Public Release (b20121122) (Forum thread)](https://osu.ppy.sh/community/forums/topics/106677)
+-->
 
 ## December
 
 ![](img/2012-12_01.png "Art by RBRat3")
 
-On 2012-12-21, osu! was given quite a major update. The most notable changes were:
+On December 21, osu! had received new features and changes, with the most notable ones being:
 
-1. Widescreen support
-2. Loading screen at the beginning of beatmaps
-3. More smoother song selection
-4. Fun Spoiler Settings was changed to [Visual Settings](/wiki/Client/Interface/Visual_settings) and placed at the bottom of the screen
-5. No Video mod was moved to Visual Settings
+1. widescreen support
+2. a loading screen when entering a beatmap
+3. the `Fun Spoiler` settings were replaced with the new [Visual Settings](/wiki/Client/Interface/Visual_settings) menu, which was placed at the bottom of the screen
+4. [No Video](/wiki/Gameplay/Game_modifier/No_video) mod was moved to the visual settings menu.
 
-Technical issues and bugs were expected. The widescreen support, despite being functional, caused some images and videos to look weird (head of a character not visible, missing or partly hidden text) as the top and bottom were cropped. [Storyboards](/wiki/Storyboard) currently don't support widescreen, instead, letterboxes or black bars appear on the sides which caused them to look cramped. This created an issue for [Catch the Beat](/wiki/Game_mode/osu!catch) as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also do not function properly (some images do not stay in the playing area, but instead, extend out to the black bars). These issues were currently known and were being fixed as solution to the issues were discussed and found.
+The widescreen support, despite being functional, caused some images and videos to look weird (the head of a character not being visible as well as missing or partly hidden text) because the top and bottom were cropped. [Storyboards](/wiki/Storyboard) did not support widescreen at the time, instead, letterboxes or black bars would appear on the sides which caused them to look cramped. This created an issue for Catch the Beat[^catch] as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also did not function properly (some images did not stay in the playing area, but instead, extended out to the black bars).[^stable-b1221]
 
-Links:
+After passing a beatmap once, users also became able to dim the background to 100% via the new visual settings menu.[^week-in-osu-6]
 
-- [osu! Public Release (b20121221) (Forum thread)](https://osu.ppy.sh/community/forums/topics/110459)
+On December 25, a new version of [Bancho](/wiki/Bancho_(server)) was released which reduced the amount of network traffic when connecting to the server. Being a special occasion, osu!direct was available for everyone for the day.[^stable-b1225]
 
----
+## References
 
-On 2012-12-25, it was a Merry Christmas for the ones who celebrate it. A new version of [bancho](/wiki/Bancho_(server)) was released which "reduces the amount of traffic sent when connecting. This means you should experience 95% faster connection times". Being a special occasion, osu!direct was turned on for everyone for the day.
+[^web-chat]: [Forum thread by peppy (2012-03-19) "New web-chat testing"](https://osu.ppy.sh/community/forums/topics/77845?n=1)
 
-Links:
+[^achievements]: [Forum thread by peppy (2012-04-12) "Achievement Graphics"](https://osu.ppy.sh/community/forums/topics/80448?n=1)
 
-- [Merry Christmas (bancho changes + free osu!direct) (Forum thread)](https://osu.ppy.sh/community/forums/posts/2005499)
+[^live-stream-listing]: [Forum thread by peppy (2012-05-23) "Live Streams listing"](https://osu.ppy.sh/community/forums/topics/84890?n=1)
+
+[^shirt-voting]: [Forum thread by ppy (2012-07-17) "osu! 2012 clothing design contest VOTING!"](https://osu.ppy.sh/community/forums/topics/91083?n=1)
+[^shirt-winner]: [Forum thread by Derekku (2012-08-14) "osu! 2012 Clothing Design Contest Winners!"](https://osu.ppy.sh/community/forums/topics/94466?n=1)
+
+[^stable-b0813]: [Forum thread by peppy (2012-08-13) "osu! Release (b20120813-14)"](https://osu.ppy.sh/community/forums/topics/94319?n=1)
+
+[^five-years]: [Forum thread by peppy (2012-09-16) "Five Years of osu!"](https://osu.ppy.sh/community/forums/topics/98349)
+[^stable-b0904]: [Forum thread by peppy (2012-09-04) "osu! Release (20120904/05)"](https://osu.ppy.sh/community/forums/topics/96949?n=1)
+
+[^stable-b1008]: [Forum thread by peppy (2012-10-08) "osu! release (b20121008): osu!mania"](https://osu.ppy.sh/community/forums/posts/1825880)
+[^osu-market]: [Forum thread by peppy (2012-10-20) "osu! market is open for business!"](https://osu.ppy.sh/community/forums/topics/102283?n=1)
+[^stable-b1029]: [Forum thread by peppy (2012-10-29) "osu! Release (b20121029)"](https://osu.ppy.sh/community/forums/topics/103427)
+
+[^website-translation]: [Forum thread by peppy (2012-11-08) "osu! website translation project"](https://osu.ppy.sh/community/forums/topics/104883?n=1)
+[^mania-ranking]: [Forum thread by peppy (2012-11-13) "osu!mania score reset"](https://osu.ppy.sh/community/forums/topics/105564)
+[^stable-b1122]: [Forum thread by peppy (2012-11-22) "osu! Public Release (b20121122)"](https://osu.ppy.sh/community/forums/topics/106677)
+[^week-in-osu-2]: [Blog post by peppy (2012-11-23) "This week in osu!"](https://blog.ppy.sh/post/36356913092/this-week-in-osu-2)
+
+[^catch]: At the time, the [osu!catch](/wiki/Game_mode/osu!catch) [game mode](/wiki/Game_mode) was called Catch the Beat.
+[^stable-b1221]: [Forum thread by peppy (2012-12-21) "osu! Public Release (b20121221)"](https://osu.ppy.sh/community/forums/topics/110459)
+[^week-in-osu-6]: [Blog post by peppy (2012-12-22) "This week in osu!"](https://blog.ppy.sh/post/38531298013/this-week-in-osu-6)
+[^stable-b1225]: [Forum thread by peppy (2012-12-25) "Merry Christmas (bancho changes + free osu!direct)"](https://osu.ppy.sh/community/forums/posts/2005499)
