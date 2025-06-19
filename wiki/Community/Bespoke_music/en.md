@@ -17,7 +17,7 @@ Conversely, all other songs in this list are not officially licensed by the game
 
 ## Statistics
 
-There is currently a total of **930** documented songs made within osu!.
+There is currently a total of **932** documented songs made within osu!.
 
 ![Graph of bespoke music over time](img/bespoke-music-over-time.png?20250508)
 
@@ -429,7 +429,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/akiwimoosic/rotted-as-the-queen-of-the "SoundCloud") |  | Akiri - ROTTED AS THE QUEEN OF THE RATS[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2337064) | Grand Finals NM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/silis-vs-sugosugiii-feat-eili-azenine "SoundCloud") |  | SiLiS vs sugosugiii feat. Eili - AZENINE[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2333230) | Finals HD2 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/zyphorath-quixalune "SoundCloud") |  | sugosugiii - Zyphorath Quixalune[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2337098) | Grand Finals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/zyphorath-quixalune "SoundCloud") |  | sugosugiii - Zyphorath Quixalune | [#1](https://osu.ppy.sh/beatmapsets/2337098) | Grand Finals tiebreaker |
 |  |  | XenjeS - Night Sky Solitude | [#1](https://osu.ppy.sh/beatmapsets/2333228) | Finals NM3 |
 
 #### ![](/wiki/shared/mode/osu.png) [5 Digit World Cup 2023](https://osu.ppy.sh/community/forums/topics/1699537)
@@ -456,7 +456,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/naikou_i_guess/final-call "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=sM4w4X51Vvw "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/18aHqDJeSjU6SNaub42yHM "Spotify") |  | Naikou - Final Call | [#1](https://osu.ppy.sh/beatmapsets/2351118) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/mainquest "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=L1p-y7Vnw6Y "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3i8h5vaRppB5QIRWWrb1xA "Spotify") |  | Redside - Mainquest[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2351091) | Grand Finals NM3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/marchtotheconstellations "SoundCloud") |  | SiLiS - March to the Constellations[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2343773) | Semifinals NM2 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/rightnow "SoundCloud") |  | sugosugii - rightnow\![^fa] | [#1](https://osu.ppy.sh/beatmapsets/2351121) | Grand Finals HR3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/rightnow "SoundCloud") |  | sugosugii - rightnow\! | [#1](https://osu.ppy.sh/beatmapsets/2351121) | Grand Finals HR3 |
 
 #### ![](/wiki/shared/mode/osu.png) [5 Digit-Faceoff](https://osu.ppy.sh/community/forums/topics/1895999)
 
@@ -545,7 +545,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/lovemeforeternity "SoundCloud") |  | sugosugiii as "Eldarion" - Love me for "Eternity"[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2310205) | Semifinals "Mango" pick |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/lovemeforeternity "SoundCloud") |  | sugosugiii as "Eldarion" - Love me for "Eternity" | [#1](https://osu.ppy.sh/beatmapsets/2310205) | Semifinals "Mango" pick |
 
 #### ![](/wiki/shared/mode/osu.png) [Charlie's Perfect Math Class](https://osu.ppy.sh/community/forums/topics/1570901)
 
@@ -1563,7 +1563,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/keisuteknon "SoundCloud") |  | SiLiS & sugosugiii - Keisuteknon (feat. InabaYap)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2222935) | Semifinals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/keisuteknon "SoundCloud") |  | SiLiS & sugosugiii - Keisuteknon (feat. InabaYap) | [#1](https://osu.ppy.sh/beatmapsets/2222935) | Semifinals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sparxenic/chaos-breaker "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=WSykocFr_qo "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sparxe.bandcamp.com/track/chaos-breaker "Bandcamp") |  | Sparxe - Chaos Breaker[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2230790) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/tomorrow-asia-suiji-cup-rhythmus-aquarum-bgm "SoundCloud") |  | takehirotei - Tomorrow[^fa] |  | Livestream BGM |
 
@@ -1751,7 +1751,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/re9gaxppy4iz/corrupted-guardian "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Z1Yt2IEI2TI "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://saladsavior.bandcamp.com/track/c-rr-pt-d-g-ardia-vnmc2024 "Bandcamp") |  | Salad Savior - Corrupted + GuardiaN | [#1](https://osu.ppy.sh/beatmapsets/2226561) | Semifinals HB2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/saint "SoundCloud") |  | SiLiS - SAINT[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2206849) | Qualifier Stage 2 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=gNwSE_wzEAA "YouTube") |  | spoonXYZ - Path of Light | [#1](https://osu.ppy.sh/beatmapsets/2239278) | Grand Finals LN5 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/achromatism-entangle "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lK7__THtXl0 "YouTube") |  | sugosugiii - Achromatism Entangle[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2226716) | Semifinals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/achromatism-entangle "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lK7__THtXl0 "YouTube") |  | sugosugiii - Achromatism Entangle | [#1](https://osu.ppy.sh/beatmapsets/2226716) | Semifinals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/supa7onyz/for-vnmc2024-supa7onyz-vs-broken-nerdz-transcend-energy-failure?si=fd35461b43db46a890781a04077572bf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing "SoundCloud") |  | Supa7onyz vs. Broken Nerdz - TRANSCEND ENERGY FAILURE[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2207056) | Qualifier Stage 4 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=3CSBXLN8KhU "YouTube") |  | THE BEAT WIZARD - THE MILLION &#@$#! QUESTION | [#1](https://osu.ppy.sh/beatmapsets/2222916) | Quarterfinals RC5 |
 |  |  | Tree Palm - Night Cruise | [#1](https://osu.ppy.sh/beatmapsets/2211278) | Round of 64 SV2 |
@@ -1874,6 +1874,13 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/subterranean-drift-sole-survivor "Bandcamp") |  | osu!mania SQUID GAME Sound Team - SUBTERRANEAN DRIFT \<\<Sole Survivor\>\>[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085172) | Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) [Newbie Mania Tournament](https://osu.ppy.sh/community/forums/topics/2050444?n=1)
+
+| Links |  | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kageminori/escape-from-your-childhood-world "SoundCloud") |  | kageminori - escape from your childhood world | [#1](https://osu.ppy.sh/beatmapsets/2377374) | Finals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/manu_gmr-22/cry-of-the-circuits-nmt-grand-finals-tiebreaker "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HeNIqll7JSQ "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SiLiS&query=%22Asagao%20Acid%20Square%22 "osu! original") | Sillot - Cry of the Circuits | [#1](https://osu.ppy.sh/beatmapsets/2381283) | Grand Finals tiebreaker |
 
 ### Official contest releases
 
