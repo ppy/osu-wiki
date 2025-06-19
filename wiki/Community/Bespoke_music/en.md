@@ -1,4 +1,9 @@
 ---
+outdated_since: 76a572faf13cc0edc1e1bfae1995e65c15791280
+outdated_translation: true
+---
+
+---
 tags:
   - osu! original
   - osu! originals
