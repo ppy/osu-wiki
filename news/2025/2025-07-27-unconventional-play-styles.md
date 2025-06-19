@@ -128,9 +128,8 @@ There are countless other play styles with osu!, but it would get too long to me
 
 </div>
 
-Some players such as [cinnamon1213](https://osu.ppy.sh/users/24304363) would use a Steam Deck to play osu! as well thanks to the device having a little trackpad on the side.
+Some players such as [cinnamon1213](https://osu.ppy.sh/users/24304363) would [use a Steam Deck to play osu!](https://www.reddit.com/r/osugame/s/OCJqFDX2Wp) as well thanks to the device having a little trackpad on the side.
 
-https://www.reddit.com/r/osugame/s/OCJqFDX2Wp
 <!-- Utiba's Note: Should we embed the Reddit video for this one? -->
 
 These players have definitely shown that you do not need a mouse, a tablet, or two of your fingers on your keyboard to play osu!, and that you can play with just about anything. Maybe today you should try using a device lying around in your home just for fun and see what crazy scores you can achieve!
