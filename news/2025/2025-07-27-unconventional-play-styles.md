@@ -20,7 +20,11 @@ Are you a new player who wants to find out what you can do in this game, or and 
 - **[xasuma](https://osu.ppy.sh/users/3172980)**: Additional Information (Completion)
 
 <!--
-Note for self: May want to come up with a better text for those who gave their answers to my questions for completion. Also do we want credits to be shown like this or as a table? 
+Note for self: May want to come up with a better text for those who gave their answers to my questions for completion.
+
+Also do we want credits to be shown like this or as a table? 
+
+And I'd like some opinions on if crediting like this is fine, and if it should be above the texts or below. I put it above because I wanted to let people know who wrote each section, but maybe there's a better way to show that?
 -->
 
 <br>Greetings, reader! Judging by the fact you are reading this right now - you are interested in learning more about different ways to play osu!, right? Great, because that's exactly what we will be doing today. So get ready and let's dive right into the play styles you might not have even considered before!
