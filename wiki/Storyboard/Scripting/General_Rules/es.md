@@ -33,7 +33,7 @@ Las coordenadas se especifican con valores positivos para `X` que van hacia la *
 
 ### Capas
 
-Todos los sprites del storyboard se colocan debajo de los [objetos](/wiki/Gameplay/Hit_object) excepto Overlay, que se sigue colocando debajo de la skin. Por lo tanto, incluso la capa «más alta» (Overlay) del storyboard siempre estará por encima de los objetos, pero detrás de la barra HP, el cursor, etc.
+Todos los sprites del storyboard se colocan debajo de los [objetos](/wiki/Gameplay/Hit_object) excepto Overlay, que se sigue colocando debajo de la skin. Por lo tanto, incluso la capa «más alta» (Overlay) del storyboard siempre estará por encima de los objetos, pero detrás de la barra de HP, el cursor, etc.
 
 Estas son las cinco capas de un storyboard, en orden creciente de prioridad:
 
