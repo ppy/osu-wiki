@@ -12,12 +12,6 @@ This osu!catch World Cup promises to be one for the ages, as many teams and play
 
 ## Mappool recap
 
-<style>
-    .osu-md--news .audio-player {
-        max-width: inherit;
-    }
-</style>
-
 **[Download the pool here! (99 MB)](https://osu.ppy.sh/beatmaps/packs/P288)**
 
 <div align="center" class="osu-md__paragraph">
