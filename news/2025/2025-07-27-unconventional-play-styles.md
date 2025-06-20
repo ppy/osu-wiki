@@ -56,13 +56,27 @@ If you wish to learn more about what was happening during this event, you can re
 
 When hearing "osu! speedruns" you may think: How can one even speedrun a game with no definite goal and many new beatmaps coming out daily? Well, you actually can, in multiple ways in fact!
 
-While there is no official and definite end goal, 8 years ago one of the osu! players created an [unofficial leaderboard on speedrun.com](https://www.speedrun.com/osu) for osu!, adding multiple categories to it, including a category that is still a default one to this day, "Full Combo". Like you guessed from the name, this category requires you to FC different amounts of maps (10/25/50/100) as fast as you can, with some additional rules, like all maps having to be ranked/approved or only being allowed to play 1 difficulty per beatmap. Doesn't seem like there's much room for improvement after the shortest maps are found, right? Surprisingly, that's not exactly true!
+While there is no official and definite end goal, 8 years ago one of the osu! players created an [unofficial leaderboard on speedrun.com](https://www.speedrun.com/osu) for osu!, adding multiple categories to it, including a category that is still a default one to this day, "Full Combo". Like you guessed from the name, this category requires you to FC different amounts of maps (10/25/50/100) as fast as you can, with some additional rules (and sub-categories), like all maps having to be ranked/approved or only being allowed to play 1 difficulty per beatmap. 
 
-Yes, current ranking criteria doesn't allow beatmaps shorter than 30 seconds, people found other opportunities to FC the maps faster than others, from literally learning how to switch between maps in the menu faster to finding how to use offset and **cropped MP3's** to their advantage. What do I mean by cropped MP3's? Well, what runners do is they cut the MP3 file right where the final spinner begins, making it end instantly when playing the map, without breaking your combo. So as you can see, there are some unique ways your time can be improved. 
+![full combo milestones screenshot](/wiki/shared/news/2025-07-27-unconventional-play-styles/full_combo_milestones.png)
+
+Doesn't seem like there's much room for improvement after the shortest maps are found, right? Surprisingly, that's not exactly true!
+
+Yes, current ranking criteria doesn't allow beatmaps shorter than 30 seconds, people found other opportunities to FC the maps faster than others, from literally learning how to switch between maps in the menu faster to finding how to use offset and **cropped MP3's** to their advantage. What do I mean by cropped MP3's? Well, what runners do is they cut the MP3 file right where the final spinner begins, making it end instantly when playing the map, without breaking your combo. So as you can see, there are some unique ways your time can be improved.
+
+<div align="center" class="osu-md__paragraph">
+
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7M1iIaJUCsw?t=27" frameborder="0" allowfullscreen></iframe>
+
+</div>
 
 But obviously that's not the only category there is! There are some more ways you could try speedrunning this game, from [FCing all beatmaps in one of the classic beatmap packs](https://www.speedrun.com/osu/levels), to trying to reach certain [performance points (pp)](/wiki/Performance_points) milestones in McOsu (an open source practice client developed by one of the osu! players, [McKay](https://osu.ppy.sh/users/3321909)) as fast as possible.
 
-Speaking of the latter, pp milestones was also one of the most popular categories on the leaderboard since the moment I created it. It was so popular in fact, that as of recently (01.06.2025) it has its own [McOsu leaderboard](https://www.speedrun.com/McOsu)! And while 100pp milestone is obviously the most popular one, because of it being the easiest and fastest to do (so fast in fact that the current world record is shorter than 10 seconds), there is another specific milestone I'd like to mention here, 7500pp.
+Speaking of the latter, pp milestones was also one of the most popular categories on the leaderboard since the moment I created it. It was so popular in fact, that as of recently (01.06.2025) it has its own [McOsu leaderboard](https://www.speedrun.com/McOsu)! 
+
+![mcosu milestones screenshot](/wiki/shared/news/2025-07-27-unconventional-play-styles/mcosu_milestones.png)
+
+And while 100pp milestone is obviously the most popular one, because of it being the easiest and fastest to do (so fast in fact that the current world record is shorter than 10 seconds), there is another specific milestone I'd like to mention here, 7500pp.
 
 Maybe this category doesn't seem that interesting to get a mention, after all it has way less speedruns submitted, and is second to highest milestone currently, and it was like that until one day a [certain player](https://osu.ppy.sh/users/10137731) decided to start and fund a speedrunning event on his own. So a bit later [this](https://twitter.com/osuallstars/status/1500116465277493274) Twitter post was created, and we as the leaderboard mods were contacted about the event, so we made a copy of said post on the website itself.
 
