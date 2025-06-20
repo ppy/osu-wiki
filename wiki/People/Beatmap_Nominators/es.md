@@ -232,8 +232,8 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071) | Alemán |
 | ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | Español |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polaco |
+| ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonesio |
 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Ruso |
-| ::{ flag=ID }:: [Ririmu](https://osu.ppy.sh/users/20424806) | Indonesio |
 | ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
 | ::{ flag=EE }:: [Sadu](https://osu.ppy.sh/users/16301262) | Estonio, francés |
 | ::{ flag=RU }:: [skill issue lol](https://osu.ppy.sh/users/12498861) | Ruso |

@@ -233,8 +233,8 @@ BN 可获得以下特权：
 | ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071) | 德语 |
 | ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | 西班牙语 |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | 波兰语 |
+| ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | 印度尼西亚语 |
 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
-| ::{ flag=ID }:: [Ririmu](https://osu.ppy.sh/users/20424806) | 印度尼西亚语 |
 | ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
 | ::{ flag=EE }:: [Sadu](https://osu.ppy.sh/users/16301262) | 爱沙尼亚语，法语 |
 | ::{ flag=RU }:: [skill issue lol](https://osu.ppy.sh/users/12498861) | 俄语 |
