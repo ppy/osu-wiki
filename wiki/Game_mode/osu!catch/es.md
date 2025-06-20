@@ -99,7 +99,7 @@ Después de completar un beatmap, a la puntuación se le asigna un [grado](/wiki
 - La velocidad de las corrientes de jugo es similar a la velocidad de las bolas del slider.
 - Los spinners crean una lluvia de plátanos.
 
-**Nota:**: Las hiperfrutas se generan automáticamente.
+**Nota:** Las hiperfrutas se generan automáticamente.
 
 ## Curiosidades
 
@@ -113,7 +113,7 @@ Después de completar un beatmap, a la puntuación se le asigna un [grado](/wiki
 
 ### Historia
 
-![Logo de osu!catch en el modo especial](/wiki/shared/Ctb_logo.jpg "Logo de Catch the Beat en modo especial")
+![Logo de osu!catch en el modo especial](/wiki/shared/Ctb_logo.jpg "Logo de Catch the Beat en el modo especial")
 
 - Hasta el 10 de abril de 2012, los mapas osu!catch no podían clasificarse ni incluirse en mapas clasificados. Sin embargo, este ya no es el caso y los mappers pueden hacer y clasificar dificultades y conjuntos de mapas específicos de osu!catch, siempre que sigan los [criterios de clasificación](/wiki/Ranking_criteria/osu!catch).
 - El primer beatmap clasificado que contenía al menos una dificultad de osu!catch fue [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676), con el conjunto de mapas alojado por ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) y la dificultad de invitado de osu!catch mapeada por ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302).
