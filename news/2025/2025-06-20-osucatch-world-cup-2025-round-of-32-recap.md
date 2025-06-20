@@ -30,7 +30,7 @@ As a novelty, a specific non-custom map was featured in the pool for the first t
 
 Another highlight of the pool was [No Hints Here!](https://osu.ppy.sh/beatmapsets/2384656#fruits/5156354) (TB) by [Bunnrei](https://osu.ppy.sh/users/829284), this week's tiebreaker. It's not often a song this chaotic is mapped, let alone chosen to be used as a World Cup tiebreaker, so it was quite a sight to behold. The song constantly switches between wildly different song genres, making it very difficult to get comfortable on, especially with the map reflecting the changes in genre shifts, featuring a ton of contrast between sections.
 
-Unfortunately, matches in the Round of 32 don't usually reach the tiebreaker, so we didn't get to — wait, what?
+Unfortunately, matches in the Round of 32 don't usually reach the tiebreaker, so we didn't get to— wait, what?
 
 ## Round of 32 summary
 
