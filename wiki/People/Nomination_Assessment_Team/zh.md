@@ -143,6 +143,7 @@ NAT 领导人的职责是：
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
 
 #### osu!taiko
 
@@ -181,7 +182,6 @@ NAT 领导人的职责是：
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
 
