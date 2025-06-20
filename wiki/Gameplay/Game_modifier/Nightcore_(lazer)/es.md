@@ -38,7 +38,7 @@ El mod **Nightcore** se comporta exactamente igual que [Double Time](/wiki/Gamep
 
 ![Opciones de personalización del mod Nightcore en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NC.png)
 
-- **Speed increase** (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se juega el mapa.
+- **Speed increase** (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se jugará el mapa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
