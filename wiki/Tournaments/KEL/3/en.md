@@ -50,6 +50,7 @@ tags:
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1BuhluTRgwDcNuDyf6s4el5jRYqgj5R3Q0I50LaWCw-8/edit?gid=818956709#gid=818956709)
 - [Announcement post](https://osu.ppy.sh/home/news/2024-11-18-kel-lan-tournament-3-signups-now-open)
+- [Recap post](https://osu.ppy.sh/home/news/2025-04-29-kel-lan-tournament-3-recap)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1987674)
 - [Discord server](https://discord.gg/TSgMXsaZRR)
 - [Livestream](https://www.twitch.tv/keltournaments)
