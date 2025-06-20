@@ -14,7 +14,7 @@ tags:
 
 ![Banner de la o!tfac](img/banner.jpg)
 
-La **osu!taiko Featured Artist Cup #3** (***o!tfac #3***) fue un concurso de mapping de osu!taiko en el que simplemente se pedía a los concursantes que mapearan una canción de uno de los [artistas destacados](https://osu.ppy.sh/beatmaps/artists) de osu!, esta vez con un pequeño cambio: **los mappers debían formar equipos de 2**.
+La **osu!taiko Featured Artist Cup #3** (***o!tfac #3***) fue un concurso de mapping de osu!taiko en el que simplemente se le pedía a los concursantes que mapearan una canción de uno de los [artistas destacados](https://osu.ppy.sh/beatmaps/artists) de osu!, esta vez con un pequeño cambio: **los mappers debían formar equipos de 2**.
 
 ## Cronograma del concurso
 
@@ -34,7 +34,7 @@ La osu!taiko Featured Artist Cup #3 fue organizada por varios miembros de la com
 | Anfitrión | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 | Diseñador | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) |
 | Juez | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Evaluador | ::{ flag=IT }:: [Arach](https://osu.ppy.sh/users/8512755), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) |
+| Seleccionador | ::{ flag=IT }:: [Arach](https://osu.ppy.sh/users/8512755), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) |
 
 ## Premios
 
