@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: d8739afa85dd24e508c6ed7b727ed56e82544aae
 stub: true
 tags:
   - SD
@@ -33,6 +31,17 @@ tags:
 
 *Para la versión de osu!stable de este artículo, véase: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*\
 *Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+El mod **Sudden Death** provoca que el jugador muera al fallar cualquier objeto de un [beatmap](/wiki/Beatmap). Fallar una nota, una [marca de un slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick) y un [spinner](/wiki/Gameplay/Hit_object/Spinner) hará que el jugador muera; sin embargo, fallar una [cola de un slider](/wiki/Gameplay/Hit_object/Slider/Slidertail) o no mantenerse dentro la trayectoria de un slider no provocará esto, siempre y cuando no se haya roto el combo. 
+
+## Personalización
+
+![Opciones de personalización del mod Sudden Death en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/SD.png)
+
+- **Also fail when missing a slider tail** (desactivado de forma predeterminada): Fallar una [cola de un slider](/wiki/Gameplay/Hit_object/Slider/Slidertail) provocará que el jugador muera.
+- **Restart on fail** (desactivado de forma predeterminada): Reinicia el mapa después de que la [barra de salud](/wiki/Client/Interface/Health_bar) llegue al mínimo.
+
+*Cambiar cualquiera de las opciones aquí no hace que el mod sea no clasificado.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
