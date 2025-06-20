@@ -41,7 +41,7 @@ El mod **Double Time** aumenta el BPM de cualquier beatmap en un 150 %, ademá
 
 ![Opciones de personalización del mod Double Time en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DT.png)
 
-- **Speed increase** (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se juega el mapa.
+- **Speed increase** (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se jugará el mapa.
 - **Adjust pitch** (predeterminado: desactivado): Cambia la frecuencia de audio dependiendo de la velocidad elegida. *Activar esta opción no hace que el mod sea no clasificado* (jugar con la velocidad predeterminada tendrá el mismo efecto de audio que [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)))
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
