@@ -6,7 +6,7 @@ Este artículo detalla los principales eventos de la **historia de la osu! wiki*
 
 ## MediaWiki (2011 - 2017)
 
-![](img/ow_MW.jpg "Captura de pantalla completa de la osu! wiki funcionando en MediaWiki, tomada en 17/2/2017")
+![](img/ow_MW.jpg "Captura de pantalla completa de la osu! wiki funcionando en MediaWiki, tomada el 17 de febrero de 2017")
 
 | Fecha | Descripción |
 | :-- | :-- |
