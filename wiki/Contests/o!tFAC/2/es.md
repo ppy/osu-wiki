@@ -14,7 +14,7 @@ tags:
 
 ![Logo de la o!tfac](img/logo.jpg)
 
-La **osu!taiko Featured Artist Cup: 2nd Edition** (***o!tfac #2***) fue un concurso de mapping de osu!taiko en el que simplemente se pedía a los concursantes que mapearan una canción de una lista específica de **44** [artistas destacados](https://osu.ppy.sh/beatmaps/artists) de osu!.
+La **osu!taiko Featured Artist Cup: 2nd Edition** (***o!tfac #2***) fue un concurso de mapping de osu!taiko en el que simplemente se le pedía a los concursantes que mapearan una canción de una lista específica de **44** [artistas destacados](https://osu.ppy.sh/beatmaps/artists) de osu!.
 
 ## Limitación especial
 
