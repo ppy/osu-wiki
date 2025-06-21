@@ -12,7 +12,7 @@ tags:
 
 ![LGA 2025 banner](img/lga2025-banner.jpg)
 
-The **Lazer Grand Arena 2025** (***LGA 2025***) is an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the second instalment of the Lazer Grand Arena series.
+The **Lazer Grand Arena 2025** (***LGA 2025***) was an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the second instalment of the Lazer Grand Arena series.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **Lazer Grand Arena 2025** (***LGA 2025***) is an osu!(lazer) tournament hos
 
 ## Organisation
 
-The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The Lazer Grand Arena was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
