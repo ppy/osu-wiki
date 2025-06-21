@@ -49,20 +49,11 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/172) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/LGA2025)
 
-## Match schedule: Week 3
+## Prizes
 
-*Notice: The schedule is tentative and subject to change based on the availability of the players.*
+The Lazer Grand Arena offered badges to the top 3 finalists.
 
-### Saturday, 31 May 2025
-
-| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
-| :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 36 | F | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T110000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-finals] |
-| 37a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T123000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-| 37b | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T123000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-| 37c | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | [May 31 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T123000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-| 37d | LF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 31 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T123000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-| 38 | GF | Winner of 36 | Winner of 37 | [May 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250531T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/lga2025-badge-1st.jpg "LGA 2025 winner badge") ![](img/lga2025-badge-2nd.jpg "LGA 2025 2nd place badge") ![](img/lga2025-badge-3rd.jpg "LGA 2025 3rd place badge")
 
 ## Mappools
 
@@ -182,6 +173,14 @@ Sunday, 25 May 2025:
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | LR2 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 2 | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | [#1](https://osu.ppy.sh/multiplayer/rooms/1382174) | [#1](https://www.twitch.tv/videos/2467904057?t=0h4m55s) |
 | LR3 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | [#1](https://osu.ppy.sh/multiplayer/rooms/1382384) | [#1](https://www.twitch.tv/videos/2467904057?t=2h5m4s) |
+
+Saturday, 31 May 2025:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| F | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 1 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [#1](https://osu.ppy.sh/multiplayer/rooms/1395145) | [#1](https://www.twitch.tv/videos/2473272376?t=0h4m43s) |
+| LF | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [#1](https://osu.ppy.sh/multiplayer/rooms/1395240) | [#1](https://www.twitch.tv/videos/2473272376?t=1h4m37s) |
+| GF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | 2 | **3** | ::{ flag=AU }:: **[mrekk](https://osu.ppy.sh/users/7562902)** | [#1](https://osu.ppy.sh/multiplayer/rooms/1395358) | [#1](https://www.twitch.tv/videos/2473272376?t=2h4m42s) |
 
 ### Week 1
 
@@ -457,8 +456,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^winners-finals]: Winners bracket Finals match
-[^losers-finals]: Losers bracket Finals match — final matchup depends on the results of the preceding Winners bracket Finals match
-[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding Losers bracket Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX sum
