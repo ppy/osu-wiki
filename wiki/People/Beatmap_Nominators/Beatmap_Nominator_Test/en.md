@@ -1,6 +1,6 @@
 # Beatmap Nominator Test
 
-The **Beatmap Nominator Test** was an examination used to aid evaluation of [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) applicants. It was deprecated in March 2024 with the introduction of a reformed application system.[^test_deprecated]
+The **Beatmap Nominator Test** was an examination used to aid evaluation of [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) applicants. It was deprecated in March 2024 with the introduction of a reformed application system.[^test-deprecated]
 
 Users applying to the Beatmap Nominators were required to take a test through the [Beatmap Nominator website](https://bn.mappersguild.com/). Once a user took the test, its results would be made visible to members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) and helped indicate a user's capability of joining the BN.
 
