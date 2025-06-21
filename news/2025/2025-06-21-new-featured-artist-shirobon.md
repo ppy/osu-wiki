@@ -8,7 +8,7 @@ The weekend is here, and with it comes a new Featured Artist!
 
 ![](https://assets.ppy.sh/artists/483/header.jpg)
 
-There are three quintessential elements of London: Big ben, the River Thames, and **Shirobon**.
+There are three quintessential elements of London: Big Ben, the River Thames, and **Shirobon**.
 
 Blending the sound of video game sound chips with Y2K dance music, **Shirobon**'s sound embodies 1990s and 2000s nostalgia in a way that hits harder than you can imagine. Luckily for you, imagination isn't necessary when you can listen to the tracks for yourself.
 
