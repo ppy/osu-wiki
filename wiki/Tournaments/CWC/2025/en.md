@@ -49,7 +49,7 @@ The osu!catch World Cup 2025 is run by various community members.
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| Musician |  [Symholic / Rina Komatsu](https://osu.ppy.sh/beatmaps/artists/130), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [XenjeS](https://linktr.ee/XenjeS), *more TBA* |
+| Musician | [Symholic / Rina Komatsu](https://osu.ppy.sh/beatmaps/artists/130), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [XenjeS](https://linktr.ee/XenjeS), *more TBA* |
 
 ## Links
 
@@ -157,12 +157,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ### Quarterfinals
 
+**[Download the mappack here (186 MB)]()**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2492992095?t=3h12m51s)
 
 - No Mod
   1. [Camellia feat. Nanahira - Shakunetsu Candle Master (Ririmu, Kukkai) \[Mochi & Kukkai's Burning Heart ! !\]](https://osu.ppy.sh/beatmapsets/2391746#fruits/5177625)
-  2. *t+pazolite - Chartreuse Green (Jemzuu, Yoshi\_green) \[Yoshuu's Radiant Vitality\] *(temporary link)*
-  3. *Vorso - Heliosphere (wwwww) \[Termination Shock\] (link pending)*
+  2. *t+pazolite - Chartreuse Green (Jemzuu, Yoshi\_green) \[Yoshuu's Radiant Vitality\] (link pending)*
+  3. [Vorso - Heliosphere (wwwww) \[Termination Shock\]](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897)
   4. [MYUKKE. - Unknown Amnasia (Phob) \[Aetsuki's Extra (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2391742#fruits/5177621)
 - Hidden
   1. *Caravan Palace - Lone Digger (Spectator) \[Overdose\] (link pending)*
@@ -170,14 +171,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
   3. [BilliumMoto - LINK\[INIT\] (Sololiquy) \[overdose+\]](https://osu.ppy.sh/beatmapsets/2391752#fruits/5177635)
 - Hard Rock
   1. [Nekrogoblikon - The Skin Thief (Du5t) \[Epidermal Epiphany\]](https://osu.ppy.sh/beatmapsets/2391789#fruits/5177759)
-  2. *Slam Bamboo - House on Fire (Jack Frost) \[You & Me\] (link pending)*
+  2. [Slam Bamboo - House on Fire (Jack Frost) \[You & Me\]](https://osu.ppy.sh/beatmapsets/2391847#fruits/5177925)
   3. [Rabbit House - Seculo Seculorum (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1599662#fruits/3276780)
 - Double Time
-  1. *SECONDWALL - Shizuka na Yoru ni (BlackBN) \[Someday... (CWC Ver.)\] (link pending)*
+  1. *SECONDWALL - Shizuka na Yoru ni (BlackBN) \[Someday... (CWC Ver.)\] *(link pending)*
   2. [Thaehan - Mega Man 2 Medley (Deif) \[Rain\]](https://osu.ppy.sh/beatmapsets/2391758#fruits/5177654)
   3. [seleP - Scarlet Rose (Des9) \[Thorns\]](https://osu.ppy.sh/beatmapsets/2391770#fruits/5177673)
 - Mixed Mod
-  1. *Culprate - Lightfold (wwwww) \[Opaque\] (link pending)*
+  1. [Culprate - Lightfold (wwwww) \[Opaque\]](https://osu.ppy.sh/beatmapsets/2391796#fruits/5177786)
   2. [Sobrem & NIWASHI - A fight in Tunisia (-Ken) \[A night in Carthage\]](https://osu.ppy.sh/beatmapsets/2391780#fruits/5177728)
 - Tiebreaker
   1. **[Symholic feat. Rina Komatsu - Veil of Ash (Yoshi\_green) \[Virulent Adoration\]](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767)**
@@ -265,8 +266,8 @@ Saturday, 21 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Iceland ::{ flag=IS }:: | 0 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/mp/118462137) | [#1](https://www.twitch.tv/videos/2492026179?t=0h4m48s) |
-| Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/mp/118462140) | [#1](https://www.twitch.tv/videos/2492058122) |
+| Iceland ::{ flag=IS }:: | 0 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches118462137) | [#1](https://www.twitch.tv/videos/2492026179?t=0h4m48s) |
+| Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches118462140) | [#1](https://www.twitch.tv/videos/2492058122) |
 | **Japan** ::{ flag=JP }:: | **6** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/118462718) | [#1](https://www.twitch.tv/videos/2492026179?t=1h5m11s) |
 | Israel ::{ flag=IL }:: | 0 | **6** | ::{ flag=MX }:: **Mexico** | [#1](https://osu.ppy.sh/community/matches/118464703) | [#1](https://www.twitch.tv/videos/2492191563?t=0h4m28s) |
 | **Argentina** ::{ flag=AR }:: | **6** | 1 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/118466813) | [#1](https://www.twitch.tv/videos/2492381700?t=0h4m53s) |
