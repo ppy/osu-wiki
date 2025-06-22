@@ -116,7 +116,7 @@ Obwohl Werbung und das Teilen der Ergebnisse deines Wettbewerbs über Newsbeitr�
   - Ein Newsbeitrag, der ankündigt, dass die Abstimmung eröffnet wurde (wenn die Gewinner durch eine öffentliche Abstimmung bestimmt werden).
   - Ein Newsbeitrag, der das **Endergebnis** bekanntgibt.
 - Die für das Verfassen der Beiträge verantwortlichen Personen sollten sich an die redaktionellen Standards halten, wie in [Kriterien für die Gestaltung von Neuigkeiten](/wiki/News_styling_criteria) beschrieben. Zusätzliche Newsbeiträge sind zurzeit nicht erlaubt.
-- Wenn dein Wettbewerb nur in einer bestimmten Region stattfindet, können Newsbeiträge nur dann veröffentlicht werden, wenn es sich um ein LAN-Event handelt (also eine Veranstaltung in Person).
+- Wenn dein Wettbewerb nur in einer bestimmten Region stattfindet, können Newsbeiträge nur dann veröffentlicht werden, wenn es sich um ein LAN-Event handelt (also ein persönliches Treffen).
 
 Anfragen für die Veröffentlichung von Neuigkeiten werden sowohl vom Wettbewerbskomitee als auch vom osu!-Newsteam überprüft.
 
