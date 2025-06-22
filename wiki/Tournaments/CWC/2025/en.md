@@ -157,7 +157,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ### Quarterfinals
 
-**[Download the mappack here (186 MB)]()**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2492992095?t=3h12m51s)
 
 - No Mod
