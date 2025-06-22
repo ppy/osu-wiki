@@ -45,7 +45,7 @@ Les personnes listées ci-dessous constituent le cœur de **l'osu! team** et son
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Hôte de la [chaîne YouTube osu!](https://www.youtube.com/@osugame), organisateur de la [Mappers' Guild](/wiki/Community/Mappers_Guild), soutien au projet [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Conseiller en modding et mapping de scènes |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Modérateur](/wiki/People/Global_Moderation_Team), [mainteneur du wiki](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinateur de la conception de la World Cup |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinateur de la conception de la [World Cup](/wiki/Tournaments#world-cups-officielles) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Intendant général |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Développeur d'osu!, amoureux d'osu!mania, chasseur de bugs |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Développeur d'osu! |
@@ -65,6 +65,7 @@ En plus de l'équipe principale d'osu!, il y a [beaucoup d'autres équipes de b�
 
 | Nom | Rôle |
 | :-- | :-- |
+| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Développeur de [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Intendant général et helper, artiste chibi |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Modérateur](/wiki/People/Global_Moderation_Team), conseiller communautaire |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Concepteur audio, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
@@ -90,9 +91,8 @@ En plus de l'équipe principale d'osu!, il y a [beaucoup d'autres équipes de b�
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, fabricant d'objets cool extraordinaire |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Concepteur et dessinateur original de [pippi](/wiki/Mascots#pippi) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Ancien gestionnaire et animateur de la communauté, Compte-rendu de réunion et contributeur à la FAQ |
-| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Développeur de [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Développeur osu! et des [points de performance](/wiki/Performance_points) |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Responsable du Project Loved, conseiller communautaire, soutien au projet Featured Artist |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Responsable du [Projet Loved](/wiki/Community/Project_Loved), conseiller communautaire, soutien au projet [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), conseiller en modding et mapping de scènes |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Intendant général, organisateur et administrateur de la [World Cup](/wiki/Tournaments#world-cups-officielles), [mainteneur du wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Développeur d'osu!, créateur d'osu!mania |
