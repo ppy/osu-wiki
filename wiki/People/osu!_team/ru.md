@@ -27,7 +27,7 @@ tags:
 | ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Дизайн-директор, мастер Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Разработчик osu! |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Смотритель за порядком, лидер [NAT](/wiki/People/Nomination_Assessment_Team), менеджер [Project Loved](/wiki/Community/Project_Loved) |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры)|
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Менеджер по связям с [Featured Artist](/wiki/People/Featured_Artists), секретарь [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Разработчик osu!, сотрудник технической поддержки |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Разработчик osu!web |
