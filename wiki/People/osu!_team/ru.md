@@ -18,8 +18,8 @@ tags:
 | :-- | :-- |
 | ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** | **Лидер проекта** |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Советник по вопросам моддинга и маппинга |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Организатор и администратор [международных турниров](/wiki/Tournaments#official-world-cups) |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Организатор и администратор [международных турниров](/wiki/Tournaments#official-world-cups) |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | [Модератор](/wiki/People/Global_Moderation_Team), сотрудник технической поддержки |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Модератор](/wiki/People/Global_Moderation_Team), сотрудник технической поддержки |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | Разработчик osu! |
@@ -27,8 +27,8 @@ tags:
 | ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Дизайн-директор, мастер Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Разработчик osu! |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Смотритель за порядком, лидер [NAT](/wiki/People/Nomination_Assessment_Team), менеджер [Project Loved](/wiki/Community/Project_Loved) |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Организатор и администратор [международных турниров](/wiki/Tournaments#official-world-cups)|
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Менеджер по связям с [Featured Artist](/wiki/People/Featured_Artists), секретарь [международных турниров](/wiki/Tournaments#official-world-cups) |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры)|
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Менеджер по связям с [Featured Artist](/wiki/People/Featured_Artists), секретарь [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Разработчик osu!, сотрудник технической поддержки |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Разработчик osu!web |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Смотритель за порядком, советник по вопросам модерации |
@@ -39,7 +39,7 @@ tags:
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Ведущий [YouTube-канала osu!](https://www.youtube.com/@osugame), организатор [Mappers' Guild](/wiki/Community/Mappers_Guild), менеджер по связям с [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Лидер [NAT](/wiki/People/Nomination_Assessment_Team), советник по вопросам моддинга и маппинга |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Модератор](/wiki/People/Global_Moderation_Team), [хранитель вики](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Координатор по дизайну [международных турниров](/wiki/Tournaments#official-world-cups) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Координатор по дизайну [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Смотритель за порядком |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Разработчик osu!, энтузиаст osu!mania, убийца багов |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Разработчик osu! |
@@ -64,7 +64,7 @@ tags:
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Модератор](/wiki/People/Global_Moderation_Team), советник по вопросам сообщества |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Аудио-дизайнер, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
-| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Организатор и администратор [международных турниров](/wiki/Tournaments#official-world-cups) |
+| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Смотритель за порядком, менеджер сообщества |
 | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Разработчик [сторибордов](/wiki/Storyboard) |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Разработчик osu!, автор интеграции IRC для внутриигрового чата, администратор сайта |
@@ -72,8 +72,8 @@ tags:
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu!, автор реализации osz2 и p2p-бэкенда osu! |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Бывший лидер [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) |
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Дизайнер самой первой версии сайта, хостер osu! в ранние дни |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор [международных турниров](/wiki/Tournaments#official-world-cups) |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор [международных турниров](/wiki/Tournaments#official-world-cups), бывший лидер [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders), менеджер сообщества |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры), бывший лидер [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders), менеджер сообщества |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Автор эпичных скинов, соавтор стандартного скина и иконок |
 | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Бывший лидер [NAT](/wiki/People/Nomination_Assessment_Team) |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, автор mm-слайдеров |
@@ -88,7 +88,7 @@ tags:
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы [pp](/wiki/Performance_points) |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Менеджер [Project Loved](/wiki/Community/Project_Loved), советник по вопросам сообщества, менеджер по связям с [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), советник по вопросам моддинга и маппинга |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, oрганизатор и администратор [международных турниров](/wiki/Tournaments#official-world-cups), [хранитель вики](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, oрганизатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры), [хранитель вики](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu! и автор режима osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Менеджер [osu!store](https://osu.ppy.sh/store/listing) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Профессор [osu!academy](/wiki/Community/Video_series/osu!academy), дизайнер персонажей и различных медиа |
