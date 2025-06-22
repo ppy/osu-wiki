@@ -24,7 +24,7 @@ Offiziell unterstützte Wettbewerbe haben bestimmte Vorteile:
 
 - **Profilabzeichen-Preise für Erstplatzierte.** Siehe dazu Designvorgaben für Profilabzeichen im Artikel [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support#profilabzeichen).
 - **Dem Nutzertitel *Elite Mapper* einen Schritt näherkommen.** Siehe [Wettbewerbspunkte](/wiki/Contests/Contest_points) für mehr Details.
-- **Potenzielle Erwägung eines Beitrags in den [Neuigkeiten](#newsbeiträge)**.
+- **Potentielle Erwägung eines Beitrags in den [Neuigkeiten](#newsbeiträge)**.
 
 ## Erwartungen
 
