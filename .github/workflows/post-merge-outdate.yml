@@ -65,8 +65,8 @@ jobs:
       #     DO_NOT_OUTDATE: wiki/{Article,Other_article,Yet_another_article}/es.md
       #     DO_NOT_OUTDATE: wiki/{Article,Other_article}/{es,jp}.md
       #
-      #     # Several rules on a line
-      #     DO_NOT_OUTDATE: wiki/Article, wiki/Other_article/es.md, wiki/*/ru.md
+      #     # Several rules on a line, separated by "+" (plus sign, spaces are optional)
+      #     DO_NOT_OUTDATE: wiki/Article + wiki/Other_article/es.md + wiki/*/ru.md
       - name: Process outdated articles
         id: process-articles
         env:
@@ -79,7 +79,7 @@ jobs:
           if [ -n "$PULL_REQUEST_BODY" ]; then
             while IFS= read -r line; do
               if [[ "$line" =~ DO_NOT_OUTDATE:[[:space:]]*(.+) ]]; then
-                IFS=',' read -ra items <<< "${BASH_REMATCH[1]}"
+                IFS='+' read -ra items <<< "${BASH_REMATCH[1]}"
                 for item in "${items[@]}"; do
                   item_clean=$( echo "$item" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' )
                   exclude_args+=( "--exclude=${item_clean}" )
