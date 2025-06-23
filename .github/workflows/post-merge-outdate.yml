@@ -17,6 +17,9 @@ jobs:
       contents: write
     
     steps:
+      # Because the action is triggered by pushes to `master` to cover both standalone and merge commits, and we need
+      # to fetch DO_NOT_OUTDATE rules from the PR's body, this is one way of doing it, because in case of push events,
+      # `github.event.pull_request` is `null` even if there was an associated PR.
       - name: Read pull request data
         uses: actions/github-script@v6
         id: read-pr-data
@@ -44,6 +47,25 @@ jobs:
       - name: Set up Python CI dependencies
         run: pip install git+https://github.com/TicClick/osu-wiki-tools.git@exclude-outdated-paths
 
+      # Read DO_NOT_OUTDATE rules, feed them to the tool, and commit and push the result.
+      # The following rules are supported, with the wiki/ prefix optionally omitted:
+      # 
+      #     # Individual articles
+      #     DO_NOT_OUTDATE: wiki/Path/To/Article/en.md
+      #
+      #     # All files inside a directory, including nested articles
+      #     DO_NOT_OUTDATE: wiki/Article
+      #     DO_NOT_OUTDATE: wiki/
+      #
+      #     # Fnmatch masks
+      #     DO_NOT_OUTDATE: wiki/*/es.md
+      #
+      #     # Paths with shell-style brace expansion
+      #     DO_NOT_OUTDATE: wiki/{Article,Other_article}/es.md
+      #     DO_NOT_OUTDATE: wiki/{Article,Other_article}/{es,jp}.md
+      #
+      #     # Several rules on a line
+      #     DO_NOT_OUTDATE: wiki/Article, wiki/Other_article/es.md, wiki/*/ru.md
       - name: Process outdated articles
         id: process-articles
         env:
