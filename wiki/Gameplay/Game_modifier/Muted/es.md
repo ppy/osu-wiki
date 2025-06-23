@@ -32,7 +32,7 @@ El mod **Muted** reduce el volumen de la música y de los [hitsounds](/wiki/Beat
 
 ## Personalización
 
-![Opciones de personalización del mod Muted en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.jpg)
+![Opciones de personalización del mod Muted en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.png)
 
 - **Iniciar silenciado** (desactivado de forma predeterminada): Invierte el efecto del mod. El volumen empezará silenciado y aumentará con el combo. Si se activa esta opción, el valor mínimo de la opción *Volumen final según el combo* será 1 en lugar de 0.
 - **Activar metrónomo** (activado de forma predeterminada): Añade el ritmo de un metrónomo que se hace más fuerte a medida que la música se hace más silenciosa.
