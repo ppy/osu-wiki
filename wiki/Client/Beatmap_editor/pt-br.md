@@ -17,7 +17,7 @@ o editor de beatmap é separado em quatro principais seções em que podem ser a
 
 ## Compose
 
-[Compose](/wiki/Client/Beatmap_editor/Compose) é onde todos os [hit objects](/wiki/Gameplay/Hit_object) e outos elementos relacionados a gameplay são criados. A maioria dos mappers usam a maior parte de seu tempo nessa seção do que nas outras por causa disso.
+[Compose](/wiki/Client/Beatmap_editor/Compose) é onde todos os [hit objects](/wiki/Gameplay/Hit_object) e outros elementos relacionados a gameplay são criados. A maioria dos mappers passam a maior parte de seu tempo nessa seção por causa disso.
 
 ## Design
 
