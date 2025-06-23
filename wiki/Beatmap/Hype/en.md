@@ -1,6 +1,7 @@
 ---
 tags:
   - train
+  - hype train
 ---
 
 # Hype
