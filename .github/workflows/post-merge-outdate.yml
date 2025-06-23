@@ -5,8 +5,8 @@ on:
     branches:
       - master
     paths:
-      - '**/en.md'
-      - '**/en.yaml'
+      - "**/en.md"
+      - "**/en.yaml"
 
 jobs:
   process-outdated-files:
@@ -15,7 +15,7 @@ jobs:
 
     permissions:
       contents: write
-    
+
     steps:
       # Because the action is triggered by pushes to `master` to cover both standalone and merge commits, and we need
       # to fetch DO_NOT_OUTDATE rules from the PR's body, this is one way of doing it, because in case of push events,
@@ -50,7 +50,7 @@ jobs:
 
       # Read DO_NOT_OUTDATE rules, feed them to the tool, and commit and push the result.
       # The following rules are supported, with the wiki/ prefix optionally omitted:
-      # 
+      #
       #     # Individual translations
       #     DO_NOT_OUTDATE: wiki/Path/To/Article/es.md
       #
@@ -75,7 +75,7 @@ jobs:
         run: |
           exclude_args=()
           exclude_list=""
-          
+
           if [ -n "$PULL_REQUEST_BODY" ]; then
             while IFS= read -r line; do
               if [[ "$line" =~ DO_NOT_OUTDATE:[[:space:]]*(.+) ]]; then
