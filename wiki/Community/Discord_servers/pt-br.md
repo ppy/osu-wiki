@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_since: aa04e5d6c85a0304d3a1661b85bd7f1dacd914ad
-outdated_translation: true
 ---
 
 # Servidores do Discord
@@ -41,6 +39,7 @@ Os **Hubs de Modding e Mapeamento** são servidores comunitários voltados para 
 
 |  | Nome | Dono | Descrição |
 | :-: | :-- | :-- | :-- |
+| [![](img/osu!-Modding-&-Mapping-Hub.png)](https://discord.gg/gw5EtzgEXf) | [osu! Modding & Mapping Hub](https://discord.gg/gw5EtzgEXf) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | O **osu! Modding & Mapping Hub** oferece discussões, recursos e anúncios de eventos sobre o mapeamento e modding no osu!. |
 | [![](img/osu!taiko-Modding-&-Mapping-Hub.png)](https://discord.com/invite/yRjvvyZ) | [osu!taiko Modding & Mapping Hub](https://discord.com/invite/yRjvvyZ) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | O **osu!taiko Modding & Mapping Hub** oferece discussões, recursos e anúncios de eventos sobre mapeamento e modding no osu!taiko. |
 | [![](img/osu!catch-Modding-and-Mapping-Hub.png)](https://discord.com/invite/ZuxFc4q) | [osu!catch Modding and Mapping Hub](https://discord.com/invite/ZuxFc4q) | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | O **osu!catch Modding and Mapping Hub** oferece discussões, recursos e anúncios de eventos sobre mapeamento e modding no osu!catch. |
 | [![](img/osu!mania-Mapping-&-Modding-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Mapping & Modding Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | O **osu!mania Mapping & Modding Hub** oferece discussões, recursos e anúncios de eventos sobre mapeamento e modding no osu!mania. |
@@ -60,6 +59,7 @@ Esses servidores fornecem tudo relacionado a [torneios](/wiki/Tournaments). Eles
 | :-: | :-- | :-- | :-- |
 | [![](img/osu!-Tournament-Hub.png)](https://discord.com/invite/bvhajDC) | [osu! Tournament Hub](https://discord.com/invite/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) | O **osu! Tournament Hub** oferece recursos sobre organização de torneios e canais para divulgar novos torneios e recrutamento de equipe em todos os modos e regiões. |
 | [![](img/osu!mania-Tourney-Central.png)](https://discord.com/invite/WnMcrUnGV5) | [osu!mania Tourney Central](https://discord.com/invite/WnMcrUnGV5) | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | O **osu!mania Tourney Central** foca em recursos e recrutamento de equipe para torneios no modo osu!mania. |
+| [![](img/poolingcore.png)](https://discord.com/invite/gpEbCBE7Jg) | [poolingcore](https://discord.com/invite/gpEbCBE7Jg) | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) | **poolingcore** oferece recursos sobre a mappool e mapping principalmente no modo de jogo osu!. O servidor oferece jogos e competições ocasionalmente relacionados a mappooling e permite que hosts verificados recrutem mappoolers e mappers ativos para os seus torneios. |
 
 ## Projeto Loved
 
