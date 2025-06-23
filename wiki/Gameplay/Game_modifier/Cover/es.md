@@ -30,4 +30,15 @@ tags:
 
 *Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
+El mod **Cover** oculta una parte del campo de juego de forma similar a [Fade In](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) y [Hidden](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) pero con la posibilidad de personalizar el tamaño del área oscurecida.
+
+## Personalización
+
+![Opciones de personalización del mod Cover en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CO.png)
+
+- **Coverage** (0,2-0,8, predeterminado 0,5): Proporción de la altura del campo de juego en la que se ocultarán las notas.
+- **Direction** (predeterminado: Along scroll): La dirección en la que se aplica la cobertura.
+  - **Along scroll**: Cubre el campo de juego desde arriba.
+  - **Against scroll**: Cubre el campo de juego desde abajo.
+
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
