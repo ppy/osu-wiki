@@ -20,6 +20,7 @@ jobs:
       # Because the action is triggered by pushes to `master` to cover both standalone and merge commits, and we need
       # to fetch DO_NOT_OUTDATE rules from the PR's body, this is one way of doing it, because in case of push events,
       # `github.event.pull_request` is `null` even if there was an associated PR.
+      # For data format, see: https://docs.github.com/en/rest/commits/commits#list-pull-requests-associated-with-a-commit
       - name: Read pull request data
         uses: actions/github-script@v6
         id: read-pr-data
@@ -50,18 +51,18 @@ jobs:
       # Read DO_NOT_OUTDATE rules, feed them to the tool, and commit and push the result.
       # The following rules are supported, with the wiki/ prefix optionally omitted:
       # 
-      #     # Individual articles
-      #     DO_NOT_OUTDATE: wiki/Path/To/Article/en.md
+      #     # Individual translations
+      #     DO_NOT_OUTDATE: wiki/Path/To/Article/es.md
       #
-      #     # All files inside a directory, including nested articles
+      #     # All translations of a single article, NOT including nested articles
       #     DO_NOT_OUTDATE: wiki/Article
-      #     DO_NOT_OUTDATE: wiki/
       #
       #     # Fnmatch masks
       #     DO_NOT_OUTDATE: wiki/*/es.md
+      #     DO_NOT_OUTDATE: *
       #
-      #     # Paths with shell-style brace expansion
-      #     DO_NOT_OUTDATE: wiki/{Article,Other_article}/es.md
+      #     # Several paths, separated by "," (comma, no space)
+      #     DO_NOT_OUTDATE: wiki/{Article,Other_article,Yet_another_article}/es.md
       #     DO_NOT_OUTDATE: wiki/{Article,Other_article}/{es,jp}.md
       #
       #     # Several rules on a line
