@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 905eedb0f005b03cb61535b8203b92b0eba8711f
+---
+
 # Skinning
 
 Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux joueurs de s'inspirer des éléments de skin originaux pour créer leur propre skin !. Les skins peuvent être amusants, à thème, PRO, ou il peut être pratiquement impossible de jouer avec.
