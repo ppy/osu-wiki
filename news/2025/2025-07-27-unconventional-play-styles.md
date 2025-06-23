@@ -116,7 +116,7 @@ Ever since osu! was released, 99% of the player base use a mouse or tablet to ai
 
 If you've ever looked at the keystrokes on the right of your screen, you may notice that there's four keys on there. Two for your keyboard strokes, and two for your mouse strokes. Usually you would use one or the other, but how about using all four of them? One of the biggest advantages for using this play style is that you're able to get additional speed and stamina while pushing the boundaries of raw speed and technical tapping. While this might seem impossible to do as you need to use four of your fingers which can get pretty hard at times, some have been able to pull it off.
 
-Meet [120-cell](https://osu.ppy.sh/users/12571145), a top osu! player who uses all four keys who has pulled incredible plays with this play style. For example, they've managed to pull off a HDDT FC on [xi - over the top [uri's extra]](https://osu.ppy.sh/beatmapsets/2072719#osu/4343206), you can check out a liveplay of them down below!
+Meet [120-cell](https://osu.ppy.sh/users/12571145), a top osu! player who uses all four keys who has pulled incredible plays with this play style. For example, they've managed to pull off a HDDT FC on [xi - over the top \[uri's extra\]](https://osu.ppy.sh/beatmapsets/2072719#osu/4343206), you can check out a liveplay of them down below!
 
 <div align="center" class="osu-md__paragraph">
 
@@ -134,7 +134,7 @@ If you thought that was crazy, how about playing osu! with your feet? No, this i
 
 </div>
 
-However, one player saw this and decided "What if I used my feet to click to the circles?", and thus a player named [Toesu](https://osu.ppy.sh/users/4432408) (a.k.a. MrDinklepuss) made waves in the osu! community for his play style of using his feet to click the circles. Many people thought he wouldn't get far, but he was sure to prove them wrong. After using the play style for three and a half years, he currently has a top play of 859pp on [Victorius - Age of Tyranny [Revolt]](https://osu.ppy.sh/beatmapsets/2219231#osu/4704020). He has also uploaded a liveplay of this score, so make sure to check it out.
+However, one player saw this and decided "What if I used my feet to click to the circles?", and thus a player named [Toesu](https://osu.ppy.sh/users/4432408) (a.k.a. MrDinklepuss) made waves in the osu! community for his play style of using his feet to click the circles. Many people thought he wouldn't get far, but he was sure to prove them wrong. After using the play style for three and a half years, he currently has a top play of 859pp on [Victorius - Age of Tyranny \[Revolt\]](https://osu.ppy.sh/beatmapsets/2219231#osu/4704020). He has also uploaded a liveplay of this score, so make sure to check it out.
 
 <div align="center" class="osu-md__paragraph">
 
