@@ -85,7 +85,7 @@ tags:
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, автор прикольных идей |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Автор концепта [pippi](/wiki/Mascots#pippi) и дизайнер артворков |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Менеджер и лидер коммьюнити в ранние годы, соавтор FAQ и регулярных встреч |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы [pp](/wiki/Performance_points) |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы [очков производительности](/wiki/Performance_points) |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Менеджер [Project Loved](/wiki/Community/Project_Loved), советник по вопросам сообщества, менеджер по связям с [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), советник по вопросам моддинга и маппинга |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, oрганизатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры), [хранитель вики](/wiki/People/osu!_wiki_maintainers) |
