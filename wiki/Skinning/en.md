@@ -1,28 +1,28 @@
 # Skinning
 
-Skinning is one of the key features of osu!. It enables players to derive from the original skinning elements to create their own! Skins can vary from being for-fun, themed, PRO, or be nigh impossible to play with.
+Skinning is one of the key features of osu! that allows players to restyle the game's interface based on provided default elements. User-made skins range from fun-themed to professional-looking designs, or may be deliberately challenging or nigh impossible to play with.
 
 ## Skinning sets
 
-*Main page: [Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
+*Main page: [Skin set list](/wiki/Ranking_criteria/Skin_set_list)*
 
-**For beatmaps only,** if your beatmap skin contains a single element from the listed sets in the Ranking Criteria, it must contain all of the other elements within said skinning set. This only applies to beatmap skins, but other skinners may want to consider those lists as well.
+**For beatmaps only,** if your beatmap skin contains a single element from the listed sets in the [ranking criteria](/wiki/Ranking_criteria), it must contain all of the other elements within said skinning set. This only applies to beatmap skins, but other skinners are advised to follow these lists as well to preserve the integrity of their skin.
 
-## Skin elements lists
+## Skin elements
 
-The list of skinning elements is split up into these categories:
+Skin elements are split up into several categories as follows:
 
-- [Skinning Interface](/wiki/Skinning/Interface)
-- [Skinning osu!](/wiki/Skinning/osu!)
-- [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
-- [Skinning osu!catch](/wiki/Skinning/osu!catch)
-- [Skinning osu!mania](/wiki/Skinning/osu!mania)
-- [Skinning Sounds](/wiki/Skinning/Sounds)
+- [osu! skinning](/wiki/Skinning/osu!)
+- [osu!taiko skinning](/wiki/Skinning/osu!taiko)
+- [osu!catch skinning](/wiki/Skinning/osu!catch)
+- [osu!mania skinning](/wiki/Skinning/osu!mania)
+- [Interface skinning](/wiki/Skinning/Interface)
+- [Skinnable sounds](/wiki/Skinning/Sounds)
 
 ## See also
 
 - [skin.ini](/wiki/Skinning/skin.ini)
-- [Skinning History](/wiki/Skinning/History) - a list of old skinning elements
+- [Skinning history](/wiki/Skinning/History) - a list of legacy skin elements that are no longer in use
 - [Compendium](https://osu.ppy.sh/community/forums/topics/686664) - a list of completed skins
 - [Skinning FAQ](/wiki/Skinning/FAQ)
 - [Guides and important threads](/wiki/Skinning/Guides_and_important_threads)

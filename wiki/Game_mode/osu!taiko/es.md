@@ -107,7 +107,7 @@ Después de completar un beatmap, a la puntuación se le asigna un [grado](/wiki
 
 La colocación de las notas no importa.
 
-### Notas de conversión de osu!
+### Notas convertidas desde el modo de juego osu!
 
 Cuando se produce una conversión de un mapa (jugando un mapa de osu! en el modo osu!taiko), los sliders muy cortos (normalmente menos de un pulso) se convierten automáticamente en notas rojas o azules, dependiendo del hitsound usado.
 
