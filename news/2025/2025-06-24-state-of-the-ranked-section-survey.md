@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "State of the Ranked section survey"
-date: 2025-06-22 12:00:00 +0000
+date: 2025-06-24 12:00:00 +0000
 ---
 
 Pollers wanted — help us pave the way forward for the future of the Ranked section!
