@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "State of the Ranked section survey"
+title: State of the Ranked section survey
 date: 2025-06-24 12:00:00 +0000
 ---
 
