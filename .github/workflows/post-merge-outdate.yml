@@ -46,7 +46,7 @@ jobs:
           python-version: "3.11"
 
       - name: Set up Python CI dependencies
-        run: pip install git+https://github.com/TicClick/osu-wiki-tools.git@exclude-outdated-paths
+        run: pip install -r requirements.txt
 
       # Read DO_NOT_OUTDATE rules, feed them to the tool, and commit and push the result.
       # The following rules are supported, with the wiki/ prefix optionally omitted:
