@@ -12,7 +12,7 @@ As the [Ranked](/wiki/Beatmap_ranking_procedure) section has quickly become the 
 
 The mapping landscape is constantly evolving, and knowing what most of the community wants at any given time is difficult. Answering these questions will take no more than 5 minutes and will be very helpful to us!
 
-[**If you want to get involved, please click this link to get started!**](https://forms.hivie.tn/form/2025-06-ranked-section-poll-public)
+[![](/wiki/shared/news/2025-06-25-survey-the-state-of-ranked/survey-banner.png)](https://forms.hivie.tn/form/2025-06-ranked-section-poll-public)
 
 Much like other surveys we've done in the past, we'll break down the results by area in the community: players, mappers, [Beatmap Nominators](/wiki/People/Beatmap_Nominators), and so on. This will help us compare and contrast between perspectives.
 
