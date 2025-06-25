@@ -123,49 +123,50 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 | Sweden ::{ flag=SE }:: | ::{ flag=AU }:: Australia | [Jun 28 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T100000&p1=1440&p2=239&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Germany ::{ flag=DE }:: | ::{ flag=HK }:: Hong Kong | [Jun 28 (Sat) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T113000&p1=1440&p2=37&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Belgium ::{ flag=BE }:: | ::{ flag=ES }:: Spain | [Jun 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T130000&p1=1440&p2=48&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=CO }:: Colombia | [Jun 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T130000&p1=1440&p2=108&p3=41) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Italy ::{ flag=IT }:: | ::{ flag=FR }:: France | [Jun 28 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T140000&p1=1440&p2=215&p3=195) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^winners-bracket] |
 | Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [Jun 28 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T150000&p1=1440&p2=232&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=PE }:: Peru | [Jun 28 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T163000&p1=1440&p2=136&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=MX }:: Mexico | [Jun 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T180000&p1=1440&p2=188&p3=155) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=PE }:: Peru | [Jun 28 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250628T190000&p1=1440&p2=136&p3=131) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^losers-bracket] |
 
 ### Sunday, 29 June 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=AU }:: Australia | [Jun 29 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T080000&p1=1440&p2=33&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=SE }:: Sweden | [Jun 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T100000&p1=1440&p2=33&p3=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=TW }:: Taiwan | [Jun 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T100000&p1=1440&p2=108&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Singapore ::{ flag=SG }:: | ::{ flag=TW }:: Taiwan | [Jun 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T100000&p1=1440&p2=236&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Italy ::{ flag=IT }:: | ::{ flag=FR }:: France | [Jun 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T120000&p1=1440&p2=215&p3=195) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=AU }:: Australia | [Jun 29 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T080000&p1=1440&p2=33&p3=57) | *TBD* | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=SE }:: Sweden | [Jun 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T100000&p1=1440&p2=33&p3=239) | *TBD* | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=TW }:: Taiwan | [Jun 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T100000&p1=1440&p2=108&p3=241) | *TBD* | [^potential-match] |
+| Singapore ::{ flag=SG }:: | ::{ flag=TW }:: Taiwan | [Jun 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T100000&p1=1440&p2=236&p3=241) | *TBD* | [^potential-match] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=FI }:: Finland | [Jun 29 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T133000&p1=1440&p2=166&p3=101) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Chile ::{ flag=CL }:: | ::{ flag=AU }:: Australia | [Jun 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T140000&p1=1440&p2=232&p3=57) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=CO }:: Colombia | [Jun 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T150000&p1=1440&p2=108&p3=41) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Jun 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T140000&p1=1440&p2=263&p3=248) | *TBD* | [^winners-bracket] |
 | Singapore ::{ flag=SG }:: | ::{ flag=CO }:: Colombia | [Jun 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T150000&p1=1440&p2=236&p3=41) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Jun 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T150000&p1=1440&p2=263&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Chile ::{ flag=CL }:: | ::{ flag=SE }:: Sweden | [Jun 29 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T160000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=HK }:: Hong Kong | [Jun 29 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T160000&p1=1440&p2=188&p3=102) | *TBD* | [^potential-match] |
 | Mexico ::{ flag=MX }:: | ::{ flag=HK }:: Hong Kong | [Jun 29 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T160000&p1=1440&p2=155&p3=102) | *TBD* | [^potential-match] |
 | Argentina ::{ flag=AR }:: | ::{ flag=PL }:: Poland | [Jun 29 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T163000&p1=1440&p2=51&p3=262) | *TBD* | [^winners-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=DE }:: Germany | [Jun 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T170000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Mexico ::{ flag=MX }:: | ::{ flag=DE }:: Germany | [Jun 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T170000&p1=1440&p2=155&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=SE }:: Sweden | [Jun 29 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T180000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=BE }:: Belgium | [Jun 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T190000&p1=1440&p2=136&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=BE }:: Belgium | [Jun 29 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T180000&p1=1440&p2=136&p3=48) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^potential-match] |
+| Peru ::{ flag=PE }:: | ::{ flag=BE }:: Belgium | [Jun 29 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T180000&p1=1440&p2=131&p3=48) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^potential-match] |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=ES }:: Spain | [Jun 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T190000&p1=1440&p2=136&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Peru ::{ flag=PE }:: | ::{ flag=BE }:: Belgium | [Jun 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T190000&p1=1440&p2=131&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Peru ::{ flag=PE }:: | ::{ flag=ES }:: Spain | [Jun 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T190000&p1=1440&p2=131&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Semifinals | mappool showcase | [Jun 29 (Sun) 20:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Semifinals | mappool showcase | [Jun 29 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
 ### Quarterfinals
 
+**[Download the mappack here (186 MB)](https://packs.ppy.sh/P290%20-%20osu!catch%20World%20Cup%202025%3A%20Quarterfinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2492992095?t=3h12m51s)
 
 - No Mod
   1. [Camellia feat. Nanahira - Shakunetsu Candle Master (Ririmu, Kukkai) \[Mochi & Kukkai's Burning Heart ! !\]](https://osu.ppy.sh/beatmapsets/2391746#fruits/5177625)
-  2. *t+pazolite - Chartreuse Green (Jemzuu, Yoshi\_green) \[Yoshuu's Radiant Vitality\] (link pending)*
+  2. [t+pazolite - Chartreuse Green (Jemzuu, Yoshi\_green) \[Yoshuu's Radiant Vitality\]](https://osu.ppy.sh/beatmapsets/2391936#fruits/5178141)
   3. [Vorso - Heliosphere (wwwww) \[Termination Shock\]](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897)
   4. [MYUKKE. - Unknown Amnasia (Phob) \[Aetsuki's Extra (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2391742#fruits/5177621)
 - Hidden
-  1. *Caravan Palace - Lone Digger (Spectator) \[Overdose\] (link pending)*
+  1. [Caravan Palace - Lone Digger (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2391931#fruits/5178116)
   2. [Mer - Hisui no Machi (Cut Ver.) (Phob) \[Liyac's Memory Fragment\]](https://osu.ppy.sh/beatmapsets/2391750#fruits/5177632)
   3. [BilliumMoto - LINK\[INIT\] (Sololiquy) \[overdose+\]](https://osu.ppy.sh/beatmapsets/2391752#fruits/5177635)
 - Hard Rock
@@ -173,7 +174,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
   2. [Slam Bamboo - House on Fire (Jack Frost) \[You & Me\]](https://osu.ppy.sh/beatmapsets/2391847#fruits/5177925)
   3. [Rabbit House - Seculo Seculorum (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1599662#fruits/3276780)
 - Double Time
-  1. *SECONDWALL - Shizuka na Yoru ni (BlackBN) \[Someday... (CWC Ver.)\] *(link pending)*
+  1. [SECONDWALL - Shizuka na Yoru ni (BlackBN) \[Someday... (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2393172#fruits/5181836)
   2. [Thaehan - Mega Man 2 Medley (Deif) \[Rain\]](https://osu.ppy.sh/beatmapsets/2391758#fruits/5177654)
   3. [seleP - Scarlet Rose (Des9) \[Thorns\]](https://osu.ppy.sh/beatmapsets/2391770#fruits/5177673)
 - Mixed Mod
