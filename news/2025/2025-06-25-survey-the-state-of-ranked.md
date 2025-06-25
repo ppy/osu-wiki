@@ -16,7 +16,7 @@ The mapping landscape is constantly evolving, and knowing what most of the commu
 
 Much like other surveys we've done in the past, we'll break down the results by area in the community: players, mappers, [Beatmap Nominators](/wiki/People/Beatmap_Nominators), and so on. This will help us compare and contrast between perspectives.
 
-The polls will be open for **x weeks**, and the results will be posted in a separate news post, alongside some initial impressions from the team.
+The polls will be open for **2 weeks**, and the results will be posted in a separate news post soon right after, alongside some initial impressions from the team.
 
 As always, we appreciate your feedback! Thank you for taking the time to participate in the poll, and we hope to put the newfound results to good use.
 
