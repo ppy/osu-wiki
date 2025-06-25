@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Survey: The State of Ranked
-date: 2025-06-24 12:00:00 +0000
+title: "Survey: The State of Ranked"
+date: 2025-06-25 12:00:00 +0000
 ---
 
 Opinions wanted — help us pave the way forward for the future of the Ranked beatmap section!
