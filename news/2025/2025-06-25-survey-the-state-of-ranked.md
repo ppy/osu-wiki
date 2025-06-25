@@ -6,7 +6,7 @@ date: 2025-06-25 12:00:00 +0000
 
 Opinions wanted — help us pave the way forward for the future of the Ranked beatmap section!
 
-![](/wiki/shared/news/banners/beatmap-management.jpg)
+![](/wiki/shared/news/banners/beatmap-management-v2.jpg)
 
 As the [Ranked](/wiki/Beatmap_ranking_procedure) section has quickly become the most varied (and active!) it has ever been over the last couple years, we would like to take a moment to ask you — the community — for your feelings on the section's current state. Admittedly, this is not a task we can tackle alone, so we want to understand your opinions on where we are and where to go moving forward.
 
