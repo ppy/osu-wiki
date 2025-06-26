@@ -12,6 +12,7 @@ jobs:
   process-outdated-files:
     name: Process outdated files after merge
     runs-on: ubuntu-latest
+    if: github.repository == ‘ppy/osu-wiki’
 
     permissions:
       contents: write
