@@ -38,4 +38,4 @@ The test had no time limit, and applicants were expected to read relevant wiki p
 
 ## References
 
-[^test-deprecated]: [Tweet by the NAT](https://x.com/osu_nat/status/1773573630519021732)
+[^test-deprecated]: [Tweet by the NAT (2024-03-29)](https://x.com/osu_nat/status/1773573630519021732)
