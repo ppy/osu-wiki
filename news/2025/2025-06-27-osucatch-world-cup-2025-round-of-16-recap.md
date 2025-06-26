@@ -163,6 +163,6 @@ Had a few things gone slightly differently, this match could have had a complete
 
 Another 8 teams will be eliminated next week, and some of the top teams will finally get to meet and offer us a show worth watching in the upcoming Quarterfinals. 
 
-Make sure to check out the [CWC wiki page](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2025) to see when your favourite teams are playing, to be able to tune in to the streams over at [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2) on time. See you there!
+Make sure to check out the [CWC wiki page](/wiki/Tournaments/CWC/2025) to see when your favourite teams are playing, to be able to tune in to the streams over at [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2) on time. See you there!
 
 —Realmaas
