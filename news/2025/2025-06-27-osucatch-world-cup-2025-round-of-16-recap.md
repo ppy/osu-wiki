@@ -68,7 +68,7 @@ And to round off this round's mappool, our very own CWC advisor and head mappool
 
 This past week featured this year's first [osu! original](/wiki/osu!_originals)! [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) made their CWC debut on [Planetary Exclusion Zone](https://osu.ppy.sh/beatmapsets/2388185#fruits/5168126), mapped by [-Rustyy](https://osu.ppy.sh/users/16355636) for the No Mod 2 slot. XenjeS' blood-pumping electronic style made for the perfect fit for this week's technical pick, only enhanced by the work from our illustrators and graphic designers. Check them out by either clicking on the banner right above, or checking out the showcase video below!
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bjGpEYODFuc" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -115,7 +115,7 @@ Tl;dr, its a sarcophagus that was sealing energy before the energy it was holdin
 
 This Round of 16 didn't feature as many close matches as the Round of 32, but it still had some interesting ones as well as a few surprises. Only eight teams remain undefeated in the winners' bracket, and nearly all of them are from the top 8 of Qualifier seedings, save for ::{ flag=PL }:: Poland at seed 10. 4 of them will drop out of it next week in the Quarterfinals, so be on the lookout for some elite play from these teams next weekend!
 
-We only had a single upset this round, just like last week, with ::{ flag=PL }:: Poland (#10) triumphing over Indonesia ::{ flag=ID }:: (#7) in a convincing performance that resulted in a 6–2 win for them. Poland has had quite the roster change this year, losing some of their core players who managed to reach the podium last year. However, thanks to the sizeable pool of new talents being fostered in the country, the new roster still manages to perform and stay competitive in this edition. How far will their run bring them this year? It is all still left to be decided in the next couple of weeks!
+We only had a single upset this round, just like last week, with ::{ flag=PL }:: Poland (#10) triumphing over ::{ flag=ID }:: Indonesia (#7) in a convincing performance that resulted in a 6–2 win for them. Poland has had quite the roster change this year, losing some of their core players who managed to reach the podium last year. However, thanks to the sizeable pool of new talents being fostered in the country, the new roster still manages to perform and stay competitive in this edition. How far will their run bring them this year? It is all still left to be decided in the next couple of weeks!
 
 So far the Qualifiers results are accurately predicting the outcomes of almost every match, but it's only a matter of time before things get shaken up, whether it is in the winners' or losers' bracket. With that being said, let's have a look at some highlight matches from this Round of 16!
 
