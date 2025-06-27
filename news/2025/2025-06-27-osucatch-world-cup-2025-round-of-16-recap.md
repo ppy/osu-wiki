@@ -21,7 +21,7 @@ This first elimination round marked the end of the journey for 8 teams. The stak
 **[Download the pool here! (140 MB)](https://osu.ppy.sh/beatmaps/packs/P289)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2486718794?t=5h8m30s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2486718794&t=5h8m30s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![](/wiki/shared/news/2025-06-27-osucatch-world-cup-2025-round-of-16-recap/cwc-2025-ro16-mappool.png)
