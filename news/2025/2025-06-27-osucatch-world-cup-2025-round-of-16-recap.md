@@ -24,7 +24,7 @@ This first elimination round marked the end of the journey for 8 teams. The stak
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2486718794&t=5h8m30s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-06-27-osucatch-world-cup-2025-round-of-16-recap/cwc-2025-ro16-mappool.png)
+![](/wiki/shared/news/2025-06-27-osucatch-world-cup-2025-round-of-16-recap/cwc-2025-ro16-mappool.png?1)
 
 This week's mappool was once again full of custom maps for players to sink their teeth into. Despite the rising difficulty, all maps ended up with at least one FC this round. It might not sound especially impressive for a Round of 16, but given how much harder mappools have got these past years, it really showcases how much the average level of play in CWC has improved. As a point of comparison, a lot of these maps could have easily fit into a Semifinals mappool no more than 5 years ago. Everyone is improving, and the picks are keeping up.
 
