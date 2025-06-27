@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2025: Round of 16 Recap"
-date: 2025-06-27 12:00:00 +0000
+date: 2025-06-27 21:30:00 +0000
 ---
 
 This year's Round of 16 is now behind us, and with it came the first of many eliminations to come.
