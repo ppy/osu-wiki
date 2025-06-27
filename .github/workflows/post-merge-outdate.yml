@@ -12,6 +12,7 @@ jobs:
   process-outdated-files:
     name: Process outdated files after merge
     runs-on: ubuntu-latest
+    if: github.repository == 'ppy/osu-wiki'
 
     permissions:
       contents: write
@@ -102,6 +103,10 @@ jobs:
               --base-commit "${{ github.sha }}~1" \
               --outdated-since ${{ github.sha }} \
               "${exclude_args[@]}"
+
+          if [ -z "$( git status -s )" ]; then
+            exit 0
+          fi
 
           if [ -n "$PULL_REQUEST_NUMBER" ]; then
             action_trigger="pull request #${PULL_REQUEST_NUMBER}"
