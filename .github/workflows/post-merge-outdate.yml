@@ -104,6 +104,10 @@ jobs:
               --outdated-since ${{ github.sha }} \
               "${exclude_args[@]}"
 
+          if [ -z "$( git status -s )" ]; then
+            exit 0
+          fi
+
           if [ -n "$PULL_REQUEST_NUMBER" ]; then
             action_trigger="pull request #${PULL_REQUEST_NUMBER}"
           else
