@@ -68,7 +68,7 @@ And to round off this round's mappool, our very own CWC advisor and head mappool
 
 This past week featured this year's first [osu! original](/wiki/osu!_originals)! [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) made their CWC debut on [Planetary Exclusion Zone](https://osu.ppy.sh/beatmapsets/2388185#fruits/5168126), mapped by [-Rustyy](https://osu.ppy.sh/users/16355636) for the Nomod 2 slot. Xenje's blood-pumping electronic style made for the perfect fit for this week's technical pick, only enhanced by the work from our illustrators and graphic designers. Check them out by either clicking on the banner right above or [**here to watch the showcase video**](https://youtu.be/bjGpEYODFuc)!
 
-While the spectators and players only get to see the finished results for every original, a lot goes on behind the scenes for every single one of them. For this one, our head mappooler [wwwww](https://osu.ppy.sh/users/8434466) gave us some insights on the process for naming the track and and working on its background art.
+While the spectators and players only get to see the finished results for every original, a lot goes on behind the scenes for every single one of them. For this one, our head mappooler [wwwww](https://osu.ppy.sh/users/8434466) gave us some insights on the process for naming the track and working on its background art.
 
 <div class="news-chat-quote__text-container">
 
@@ -76,9 +76,9 @@ While the spectators and players only get to see the finished results for every 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
-[XenjeS](https://osu.ppy.sh/beatmaps/artists/482) didn’t know what to name the track, and let in me and [Yoshi_green](https://osu.ppy.sh/users/1035891) on coming up with name idea’s. We sent him back a list, in which he decided on yoshi’s idea of “Planetary Exclusion Zone or P.E.Z.”
+[XenjeS](https://osu.ppy.sh/beatmaps/artists/482) didn't know what to name the track, and let in me and [Yoshi_green](https://osu.ppy.sh/users/1035891) on coming up with name idea's. We sent him back a list, in which he decided on yoshi's idea of “Planetary Exclusion Zone or P.E.Z.”
 
-When Xenjes was asked about design idea’s, he gave the following answer 
+When Xenjes was asked about design ideas, he gave the following answer:
 
 ”The most logical thing is to operate from the song name. the song name is Planetary Exclusion Zone so we need something in space and maybe something futuristic. It can be for example composition with astronaut in free space looking at star/pulsar/quasar that being covered with sarcophagus or other type of construction that supposed to seal the energy of that object. Or it can be a composition of a place that filled with all kind of dangerous space objects like pulsars, quasars and black holes so "Exlucsion Zone" in the song name would make sense.”
 
