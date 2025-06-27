@@ -6,7 +6,7 @@ date: 2025-06-27 12:00:00 +0000
 
 This year's Round of 16 is now behind us, and with it came the first of many eliminations to come.
 
-![](/wiki/shared/news/2025-06-27-osucatch-world-cup-2025-round-of-16-recap/banner.png)
+![](/wiki/shared/news/2025-06-27-osucatch-world-cup-2025-round-of-16-recap/banner.jpg)
 
 This first elimination round marked the end of the journey for 8 teams. The stakes are slowly rising as we progress in the bracket and approach the middle of the tournament, with a lot of action going on every week. Let's have a look at how things went!
 
