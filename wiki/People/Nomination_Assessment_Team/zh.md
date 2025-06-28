@@ -143,6 +143,7 @@ NAT 领导人的职责是：
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
 
 #### osu!taiko
 
@@ -181,7 +182,6 @@ NAT 领导人的职责是：
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文档 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织 |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 谱面上架标准 (RC) 维护 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN 管理网站](https://bn.mappersguild.com)开发 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
 
