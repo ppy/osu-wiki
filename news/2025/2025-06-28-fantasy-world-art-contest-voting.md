@@ -18,7 +18,7 @@ Feeling overwhelmed with the sheer amount of submissions? Don't worry, we've got
     </video>
 </div>
 
-[![Click here to vote in the Fantasy World Art Contest!](/wiki/shared/news/2025-06-27-fantasy-world-art-contest-voting/voting-banner.png)](https://osu.ppy.sh/community/contests/249)
+[![Click here to vote in the Fantasy World Art Contest!](/wiki/shared/news/2025-06-28-fantasy-world-art-contest-voting/voting-banner.png)](https://osu.ppy.sh/community/contests/249)
 
 As always, the following lineup of prizes will be up for grabs:
 
