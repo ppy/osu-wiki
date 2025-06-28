@@ -11,7 +11,6 @@ outdated_translation: true
 
 | Имя | Прошлая роль |
 | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | NAT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Модератор чата |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | GMT |
 | ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707) | BAT |
