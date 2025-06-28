@@ -64,6 +64,7 @@ The osu!taiko panel was formed on 1 May 2022 in response to [a community survey 
 | ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) | 1 December 2024 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 September 2023 |
 | ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) | 1 December 2024 |
+| ::{ flag=GB }:: [rloseise](https://osu.ppy.sh/users/6793778) | [buyaspacecube](https://github.com/buyaspacecube) | 15 January 2025 |
 
 #### Previous members
 

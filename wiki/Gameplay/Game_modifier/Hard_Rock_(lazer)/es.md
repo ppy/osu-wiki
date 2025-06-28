@@ -36,6 +36,10 @@ tags:
 *Para la versión de osu!stable de este artículo, véase: [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)*\
 *Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
+El mod **Hard Rock** pretende hacer más difícil el juego en cualquier [beatmap](/wiki/Beatmap) aumentando la dificultad en general. Lo hace aumentando el [tamaño de los círculos (CS)](/wiki/Beatmap/Circle_size) en un 30 %, la [velocidad de aproximación (AR)](/wiki/Beatmap/Approach_rate), el [drenaje de HP (HP)](/wiki/Beatmap/HP_drain_rate) y la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) en un 40 %, y más dependiendo del [modo de juego](/wiki/Game_mode) elegido.
+
+**Este mod no es personalizable.**
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

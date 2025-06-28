@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 905eedb0f005b03cb61535b8203b92b0eba8711f
+---
+
 # 皮肤
 
 皮肤是osu!中的一个主要特色。它能让玩家从默认皮肤中派生制作出自己的皮肤！皮肤可以是有趣的，主题化的，专业的，也可以是几乎无法游玩的。
