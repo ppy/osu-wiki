@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Editor GitHub berbasis web
 
 *Catatan: Artikel ini menggunakan kombinasi tombol Windows.*\
