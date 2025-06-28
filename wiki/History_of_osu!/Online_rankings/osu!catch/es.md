@@ -9,7 +9,7 @@ tags:
   - historia
   - tabla de clasificación
   - rango 1
-  - rango #1
+  - "rango #1"
   - clasificaciones
 ---
 
