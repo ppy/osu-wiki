@@ -39,7 +39,7 @@ Setelah kamu membaca [Praktik kontribusi terbaik § Membuat perubahan](/wiki/osu
 
 1. Tekan `Ctrl` + `P` dan masukkan nama berkas yang ingin kamu buka, lalu tekan `Enter`. Nama ini dapat ditulis secara terpisah (*loose matching*): sebagai contoh, mengetik `nominators veto en` akan membuka `wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto/en.md`.
 2. Sunting berkas ini sebagaimana yang dibutuhkan. Perubahan yang belum di-commit akan **disimpan pada browser kamu**, dan kamu dapat mengakses kembali perubahan ini kapan saja apabila kamu menutup `github.dev`.
-3. Setelah kamu puas dengan artikel ini, [commit perubahan yang kamu perbuat](#committing-changes).
+3. Setelah kamu puas dengan artikel ini, [commit perubahan yang kamu perbuat](#meng-commit-perubahan).
 
 ### Artikel atau terjemahan baru
 
