@@ -22,8 +22,8 @@ jobs:
       - uses: actions/create-github-app-token@v1
         id: app-token
         with:
-          app-id: 1  # TODO(TicClick): Replace with real ID.
-          private-key: ${{ secrets.GITHUB_APP_SECRET }}  # TODO(TicClick): Replace with real secret name.
+          app-id: 1475412
+          private-key: ${{ secrets.OUTDATER_APP_SECRET }}
 
       # Because the action is triggered by pushes to `master` to cover both standalone and merge commits, and we need
       # to fetch DO_NOT_OUTDATE rules from the PR's body, this is one way of doing it, because in case of push events,
