@@ -438,6 +438,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Resurrection Cup: Cataclysm Contest | 2022-11-04 | 2022-12-18 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
 | [Resurrection Cup 2023](RESC/2023) | 2023-06-16 | 2023-07-30 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 2024-06-14 | 2024-07-28 | kotomiler | fresh off the boat | Bobik |
+| [Resurrection Cup 2025](RESC/2025) | 2025-05-18 | 2025-07-27 | *TBD* | *TBD* | *TBD* |
 
 #### ROI PRO Tournament
 
@@ -507,6 +508,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | Luciano Fan Club | denial piano | The |
 | [UK Community Cup 12](UKCC/12) | 2023-03-18 | 2023-04-30 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896 ) |
+| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *tbd* | *tbd* | *tbd* |
 
 #### Ulat Bulu Cup
 
