@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Poin kontes
 
 **Poin kontes** merupakan poin yang diberikan sebagai hadiah dalam kontes mapping resmi. Poin ini pada umumnya digunakan untuk menentukan apakah seorang pengguna layak untuk memperoleh gelar *Elite Mapper*, yang diberikan kepada pengguna yang telah mengumpulkan **6 poin**.
