@@ -6,29 +6,39 @@ tags:
   - "rank #1"
   - rankings
   - top player
+  - ранкинг
+  - ранкинги
+  - история
+  - таблица
+  - таблицы
+  - рекорд
+  - рекорды
+  - топ 1
+  - топ
+  - ранг
 ---
 
-<!-- Замечание мейнтейнеров: Пожалуйста, обратитесь к исходному запросу pull request для получения дополнительной информации об источниках на https://github.com/ppy/osu-wiki/pull/4720. -->
+<!-- Для дополнительной информации об источниках см. https://github.com/ppy/osu-wiki/pull/4720. -->
 
-# История рангов osu!
+# История ранкинга osu!
 
-Ниже приведен список игроков, которые достигли ранга #1 в [глобальном рейтинге].(https://osu.ppy.sh/rankings/osu/performance) [osu!](/wiki/Game_mode/osu!).
+Ниже приведён игроков, которые достигли №1 в [глобальном рейтинге](https://osu.ppy.sh/rankings/osu/performance) [osu!](/wiki/Game_mode/osu!).
 
-На протяжении многих лет существовало три различных системы рейтинга игроков:
+На протяжении многих лет существовало три различных системы ранкинга игроков:
 
-- [Ranked Score](/wiki/Gameplay/Score/Ranked_score) (6 октября 2007 – 24 июля 2012)
+- [Ранкнутые очки](/wiki/Gameplay/Score/Ranked_score) (6 октября 2007 – 24 июля 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 июля 2012 – 27 января 2014)
-- [ppv2](/wiki/Performance_points) (27 января 2014 – по сегодняшнее время)
+- [ppv2](/wiki/Performance_points) (27 января 2014 – настоящее время)
 
-Поэтому в этот список попали только те игроки, которые заняли первое место в основной таблице лидеров, использовавшейся на тот момент. *Италицированные* даты и цифры означают, что соответствующий игрок продолжает оставаться обладателем звания №1 в osu! либо с предыдущего, либо со следующего года.
+По этой причине в список попали только игроки, занявшие первое место в системе, которая действовала в их период лидерства. Даты и числа, выделенные *курсивом*,означают, что игрок сохранял №1 с прошлого года, или продолжил удерживать позицию в следующем году.
 
-В то время как ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) считался обладателем ранга #1, но ни один источник не смог подтвердить это.
+Самым первым обладателем №1 считается ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), хотя источников, подтверждающих это, нет.
 
 ## 2007
 
-*Примечание: В период, когда использовался [Ranked Score](/wiki/Gameplay/Score/Ranked_score), обладатель звания #1 часто менялся, поэтому ранние списки могут быть менее точными. Подробную информацию можно найти в предполагаемой реконструкции глобальной таблицы лидеров Ranked Score, которая доступна [здесь].(https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+*Примечание: в период, когда использовались [ранкнутые очки](/wiki/Gameplay/Score/Ranked_score), №1 часто переходил из рук в руки, поэтому ранняя история может содержать ошибки и пробелы. Подробнее см. [приблизительную реконструкцию глобального рейтинга по ранкнутым очкам](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | 2007-10-06 | 2007-10-09 | [\[1\]](https://osu.ppy.sh/scores/osu/237) [\[2\]](https://web.archive.org/web/20071117154117/http://osu.ppy.sh/index.php?p=song&s=1) |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-09 | 2007-10-15 | [\[1\]](https://web.archive.org/web/20071011215722/http://osu.ppy.sh/index.php?p=player) |
@@ -45,7 +55,7 @@ tags:
 
 ## 2008
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | *2007-12-23* | 2008-09-06 | [\[1\]](https://web.archive.org/web/20071224062629/http://osu.ppy.sh/index.php?p=player) |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-06 | 2008-09-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) |
@@ -58,7 +68,7 @@ tags:
 
 ## 2009
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) | *2008-12-20* | 2009-03-05 | [\[1\]](https://osu.ppy.sh/community/forums/topics/8415) |
 | ::{ flag=PL }:: [Kubu (*kuburaczek*)](https://osu.ppy.sh/users/29130) | 2009-03-05 | 2009-03-06 | [\[1\]](https://osu.ppy.sh/community/forums/topics/10683) [\[2\]](https://osu.ppy.sh/community/forums/topics/2480?start=94840) |
@@ -89,7 +99,7 @@ tags:
 
 ## 2010
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=UY }:: [H1ko](https://osu.ppy.sh/users/58710) | *2009-12-29* | 2010-01-05 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing) |
 | ::{ flag=CN }:: [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2010-01-05 | 2010-01-11 | [\[1\]](https://imgur.com/XDtjwMz) |
@@ -106,7 +116,7 @@ tags:
 
 ## 2011
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | *2010-10-03* | 2011-01-20 | [\[1\]](https://imgur.com/VlP4LOb) [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps) [\[3\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps) |
 | ::{ flag=PL }:: [Kubu (*kuburaczek*)](https://osu.ppy.sh/users/29130) | 2011-01-20 | 2011-01-21 | [\[1\]](https://imgur.com/k4OT4bS) |
@@ -126,9 +136,9 @@ tags:
 
 ## 2012
 
-*Примечание: [ppv1](/wiki/Performance_points/ppv1) полностью заменил Ranked Score 24 июля 2012 года.*
+*Примечание: 24 июля 2012 года ранкинг по очкам был полностью заменён [ppv1](/wiki/Performance_points/ppv1).*
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=PL }:: [WubWoofWolf (*White Wolf*)](https://osu.ppy.sh/users/39828) | *2011-11-05* | 2012-04-20 | [\[1\]](https://web.archive.org/web/20111105110243/http://osu.ppy.sh/p/playerranking) |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-21 | [\[1\]](https://web.archive.org/web/20210104072637/http://geckogates.pristonworld.com/osu/gz_num1/) [\[2\]](https://osu.ppy.sh/community/forums/topics/77231?start=1474307) |
@@ -145,7 +155,7 @@ tags:
 
 ## 2013
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | *2012-11-30* | 2013-01-16 | [\[1\]](https://web.archive.org/web/20121130133544/https://osu.ppy.sh/p/pp) |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-01-16 | 2013-01-21 | [\[1\]](https://web.archive.org/web/20130116083919/https://osu.ppy.sh/p/pp) |
@@ -157,9 +167,9 @@ tags:
 
 ## 2014
 
-*Примечание: [ppv2](/wiki/Performance_points) был введен 27 января 2014 года.*
+*Примечание: 27 января 2014 года была введена система [ppv2](/wiki/Performance_points).*
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-11-24* | 2014-01-20 | [\[1\]](https://old.reddit.com/r/osugame/comments/1rctoz/wubwoofwolf_went_on_a_little_rampage/) |
 | *Vacant* | 2014-01-20 | 2014-01-27 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance) |
@@ -169,7 +179,7 @@ tags:
 
 ## 2015
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=TW }:: [hvick225](https://osu.ppy.sh/users/50265) | *2014-08-17* | 2015-02-06 | [\[1\]](https://web.archive.org/web/20140818131806/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://osu.ppy.sh/community/forums/topics/235678) [\[4\]](https://www.youtube.com/watch?v=4jW75bKPVP0) [\[5\]](https://osu.ppy.sh/scores/osu/1782720884) |
 | ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2015-02-06 | 2015-03-25 | [\[1\]](https://web.archive.org/web/20150206190712/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/wubwoofwolf) [\[3\]](https://web.archive.org/web/20210119081120/https://old.reddit.com/r/osugame/comments/2v0gqj/www_is_now_1/) |
@@ -183,7 +193,7 @@ tags:
 
 ## 2016
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=TW }:: [hvick225](https://osu.ppy.sh/users/50265) | *2015-12-31* | 2016-05-12 | [\[1\]](https://web.archive.org/web/20160101024536/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://web.archive.org/web/20210119083354/https://old.reddit.com/r/osugame/comments/3ywmnf/hvick_now_1_again/) [\[4\]](https://osu.ppy.sh/scores/osu/2038565115) |
 | ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286) | 2016-05-12 | 2016-06-25 | [\[1\]](https://web.archive.org/web/20160512164834/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://web.archive.org/web/20210119083633/https://old.reddit.com/r/osugame/comments/4j0q5l/rafis_submitted_a_score_got_1_global/) |
@@ -206,13 +216,13 @@ tags:
 
 ## 2017
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | *2016-10-23* | *2018-01-21* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://web.archive.org/web/20210119085711/https://old.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 
 ## 2018
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | *2016-10-23* | 2018-01-21 | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://web.archive.org/web/20210119085711/https://old.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 | ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286) | 2018-01-21 | 2018-04-15 | [\[1\]](https://web.archive.org/web/20180122113018/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://web.archive.org/web/20210119090225/https://old.reddit.com/r/osugame/comments/7s1i95/rafis_is_now_1_in_osustd/) [\[4\]](https://www.youtube.com/watch?v=M6SPs67ZPGw) |
@@ -232,7 +242,7 @@ tags:
 
 ## 2019
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=CL }:: [Mathi](https://osu.ppy.sh/users/5339515) | *2018-12-17* | 2019-01-12 | [\[1\]](https://web.archive.org/web/20181218083408/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://web.archive.org/web/20210119093241/https://old.reddit.com/r/osugame/comments/a6xerb/mathi_is_1_again/) [\[4\]](https://www.youtube.com/watch?v=PA3zCdb052c) |
 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315) | 2019-01-12 | 2019-02-11 | [\[1\]](https://web.archive.org/web/20190117233225/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke/) [\[3\]](https://web.archive.org/web/20210119093527/https://old.reddit.com/r/osugame/comments/af1x9g/idke_is_now_1_global_again_passing_mathi/) [\[4\]](https://www.youtube.com/watch?v=X3F2y-WQ3vM) |
@@ -257,42 +267,42 @@ tags:
 
 ## 2020
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | *2021-04-08* | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/whitecat/) [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0) |
 
 ## 2021
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | 2021-04-08 | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/whitecat/) [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0) |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | *2024-07-21* | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 
 ## 2022
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | *2024-07-21* | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 
 ## 2023
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | *2024-07-21* | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 
 ## 2024
 
-| Игрок | Из | По | Источник |
+| Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | 2024-07-21 | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 2024-07-21 | 2024-08-03 | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2024-08-03 | Present | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
 
-## Количество комбинаций
+## Число попаданий на первое место
 
-Ниже представлен список общего количества раз, когда игрок достигал места #1 в своей игре (по состоянию на 8 августа 2024 года).
+Ниже — общее число случаев, когда игрок попадал на первое место (по состоянию на 8 августа 2024 года).
 
-| Игрок | Комбинаций |
+| Игрок | Попадания |
 | --: | :-: |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 12 |
 | ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828) | 12 |
@@ -332,13 +342,13 @@ tags:
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 1 |
 | ::{ flag=JP }:: [zaru-d](https://osu.ppy.sh/users/79678) | 1 |
 
-## Самые продолжительные комбинации
+## Самое долгое пребывание на первом месте
 
-*Примечание: Текущая комбинация ранга #1 исключена.*
+*Примечание: список не учитывает текущего владельца №1.*
 
-Ниже приведен список общего количества дней, в течение которых игрок занимал место #1 (по состоянию на 8 августа 2024 года).
+Ниже — суммарное число дней, в течние которых игрок занимал первое место (по состоянию на 8 августа 2024 года).
 
-| Игрок | Продолжительность (дней) |
+| Игрок | Суммарное число дней |
 | --: | :-: |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1200 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 967 |
@@ -378,13 +388,13 @@ tags:
 | ::{ flag=CN }:: [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
 | ::{ flag=FI }:: [thelewa](https://osu.ppy.sh/users/475021) | 1 |
 
-## Самые продолжительные индивидуальные комбинации
+## Самое долгое пребывание подряд
 
-*Примечание: Включены только комбинации, длившиеся более 100 дней. Текущая комбинация ранга #1 исключена.*
+*Примечание: считаются только периоды дольше 100 дней. Текущий владелец №1 не учитывается.*
 
-Ниже приведен список самых продолжительных дней подряд, в течение которых игрок занимал место #1 (по состоянию на 8 августа 2024 года).
+Ниже — самые долгие периоды пребывания на первом месте (по состоянию на 8 августа 2024 года).
 
-| Игрок | Из | По | Продолжительность комбинаций (дней) |
+| Игрок | Начало | Конец | Самое долгое число дней |
 | --: | :-- | :-- | :-: |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | 2024-07-21 | 1200 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | 2021-04-08 | 550 |
