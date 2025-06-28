@@ -1,3 +1,8 @@
+---
+outdated_since: 3beefe4f5a50484b1a97ebdf019fd3581d4ca0c4
+outdated_translation: true
+---
+
 # .osr (Dateiformat)
 
 **.osr** ist ein Dateiformat mit Informationen über ein osu!-Replay. Für die Verwendung muss sich die zum Replay gehörende Beatmap im Ordner "Songs" befinden.
@@ -76,7 +81,7 @@ Dies wird auch in der Dokumentation der [osu!-API](https://github.com/ppy/osu-ap
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | Immer mit DT in Verwendung: 512 + 64 = 576 |
+| Nightcore | 512 (9) | Immer mit DT in Verwendung: 512 + 64 = 576. Ersetzt ungenutzte Taiko Mod. |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |

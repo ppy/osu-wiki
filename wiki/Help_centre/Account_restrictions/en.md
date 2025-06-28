@@ -9,7 +9,7 @@ When an account is restricted, it is unable to interact with the community until
 The following features are disabled for restricted accounts:
 
 - ability to enter official contests
-- ability to participate in and staff for officially supported tournaments
+- ability to participate in and staff for officially supported tournaments and contests
 - ability to participate in multiplayer rooms
 - in-game chat
 - private messaging
@@ -71,11 +71,11 @@ If we decide to let you return, we will require that you agree to some terms bef
 - **You should not associate with other accounts** including playing on shared computers.
 - **Any major misbehaviour will result in immediate restriction**. This includes major silences.
 
-Appeal returnees under the standard terms above are also banned from official and badged tournaments, both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
+Appeal returnees under the standard terms above are also [banned from official and badged tournaments](/wiki/Help_centre/Tournament_bans), both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
 
-**Cheating or account sharing during an official or badged tournament will lead to the user's permanent ban from any future ones.** This ban cannot be appealed (your email will be ignored if you attempt to) and will not be removed, reduced, or waived under any circumstances.
+**Cheating or account sharing during an official or badged tournament will lead to the user's indefinite ban from any future ones.** This ban can be appealed after two years, but will be granted only if the user has put significant effort into improving community tournaments.
 
-Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
+Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on Twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
 
 Some offences will lead to your account being rolled back upon unrestriction. They are meant to delete illegitimate scores that were submitted on your account **across all modes**, as well as unlocked medals and profile badges. **Playcount and playtime will not be modified.**
 
@@ -84,7 +84,7 @@ Some offences will lead to your account being rolled back upon unrestriction. Th
 There are several reasons why an appeal might be denied.
 
 - **It was sent too early.** If the cooldown for your account has not yet passed, your appeal will be denied. If you are unsure when you can actually appeal, please reply to our answer — we will give you the correct date.
-- **Your appeal was insufficient or incomplete.** If your appeal does not sufficiently cover the four points listed above, we will request that you write a more complete one. This **does not** necessarily reset the cooldown for your account and you are free to send your new appeal at any point in time! However, if you attempted lying or hiding major rule violations you committed (mainly multi-accounting or cheating), your appeal will be denied for being non-truthful, and your cooldown will be reset to at least **three months**. This is another chance for you to reflect on your actions and make sure you did not forget anything.
+- **Your appeal was insufficient or incomplete.** If your appeal does not sufficiently cover the four points listed above, we will request that you write a more complete one. This **does not** necessarily reset the cooldown for your account and you are free to send your new appeal at any point in time! However, if you attempted to lie or hide major rule violations you committed (mainly multi-accounting or cheating), your appeal will be denied for being non-truthful, and your cooldown will be reset to at least **three months**. This is another chance for you to reflect on your actions and make sure you did not forget anything.
 - **You have been evading or playing on other accounts.** Creating another account to be able to play online while your account is restricted is considered an attempt at evading the restriction and will reset your cooldown to at least **three months** from the date you created the account. If you attempt evading too many times, your appeal might be permanently denied. If you are still accessing or playing on your multi-accounts while restricted, your cooldown will also be reset. Remember that multi-accounting is against the [rules](/wiki/Rules) and you are expected to only play on your original account. If you are unsure which account counts as your original account, send us an email and we will let you know!
 - **You continued offending while restricted.** There is no reason to unrestrict someone who continues to break the rules even after having been restricted. If you do continue offending, the cooldown for your account will be reset to your last offence. In the case of extreme or continuous offences, your appeal might be permanently denied.
 - **Your history is too severe.** In cases of extreme offenders, or players who get restricted again after they have already been unrestricted on a successful appeal, we might simply state that your history is too severe to rejoin the game at the current time. Should this apply to you, we recommend waiting **a long time** before appealing again, and making sure you do not break any further rules in that time.
@@ -95,7 +95,7 @@ In most cases, each restriction on your account doubles the length of the next r
 
 For example, if you are restricted for cheating, return on appeal, then cheat again, you will be restricted for a minimum of 12 months (double the six months base) before we will review any kind of appeal from you. If you return after this and cheat once again, you will be restricted for a minimum of 24 months.
 
-As an additional note, it becomes progressively harder to return on any kind of appeal after your first offense, as we must consider your past actions and whether unrestricting you at all is worth the time and risk involved. Very few (if any) players successfully return to the community after their third restriction.
+As an additional note, it becomes progressively harder to return on any kind of appeal after your first offense, as we must consider your past actions and whether unrestricting you is worth the time and risk involved at all. Very few (if any) players successfully return to the community after their third restriction.
 
 ## My emails are being ignored / I don't think my appeal was handled fairly {id=appeal-review}
 

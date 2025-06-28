@@ -14,7 +14,7 @@ tags:
 
 ![Screenshot of Ephemeral's profile information](img/dev.png?1 "The \"osu!team\" title can be seen near the top of Ephemeral's profile.")
 
-A **user title** is a short label on a user's profile page set by the [osu! team](/wiki/People/osu!_team). Most titles indicate membership of a [user group](/wiki/People/User_group), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
+A **user title** is a short label on a user's profile page set by the [osu! team](/wiki/People/osu!_team). Most titles indicate membership of a [user group](/wiki/People/User_groups), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
 
 The colour of a user title is the same as the user's colour, which is also usually set by group membership. If the user has no colour set, the title is white.
 

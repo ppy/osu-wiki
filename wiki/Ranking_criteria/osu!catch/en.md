@@ -2,7 +2,7 @@
 
 ***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_criteria).***
 
-This set of **osu!catch ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria#general-terms) that [osu!catch](/wiki/Game_mode/osu!catch)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu!catch ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria) that [osu!catch](/wiki/Game_mode/osu!catch)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Overall
 
@@ -16,9 +16,9 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **Each beatmap must use at least two different custom [combo colours](/wiki/Beatmapping/Combo_colour) unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 - **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 2:30**, the lowest difficulty cannot be harder than a Salad.
-  - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Platter.
-  - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than a Rain.
+  - **...lower than 2:30**, the lowest difficulty cannot be harder than a Salad, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
+  - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Platter, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
+  - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than a Rain, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 #### Guidelines
@@ -194,3 +194,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 8 and 10.
 - [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 5 and 7.
 - [Circle Size](/wiki/Beatmap/Circle_size) should be between 3 and 6.
+
+## Notes
+
+[^proper-spread]: A "proper" spread *for difficulties Rain and harder* is defined as a spread with gaps in difficulty similar to those between lower [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) as specified in the [difficulty-specific criteria](#difficulty-specific).

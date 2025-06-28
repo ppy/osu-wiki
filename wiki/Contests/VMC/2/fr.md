@@ -3,8 +3,6 @@ no_native_review: true
 tags:
   - VMC2
   - VMC
-outdated_translation: true
-outdated_since: adc70356a0227be0dd4b80d704222bc10babd6fb
 ---
 
 # Vocaloid Mapping Contest 2
@@ -25,7 +23,7 @@ Cette deuxième édition du VMC a accueilli un nouvel Featured Artist de VOCALOI
 | Jugement | Du 08/03/2024 au 05/04/2024 |
 | Résultats livestream | 07/04/2024 @ 18:00 UTC |
 
-Les résultats sont diffusés en direct sur le [Compte Twitch *Vocaloid Appreciation Team*](https://www.twitch.tv/vocaloidappreciationteam) avec des commentaires. D'autres détails concernant le stream seront fournis dans cet article, dans le post de news, et dans le serveur Discord.
+Les résultats ont été diffusés en direct sur le [compte Twitch de la *Vocaloid Appreciation Team*](https://www.twitch.tv/vocaloidappreciationteam) avec des commentaires. Les enregistrements de tous les concours sont disponibles sur la [chaîne YouTube de la *Vocaloid Appreciation Team*](https://www.youtube.com/@VocaloidAppreciationTeam).
 
 ## Prix
 
@@ -90,6 +88,50 @@ Veillez à soutenir [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/399).
 | Devolution | Kagamine Rin | kuma(alfred) | 4:26 | 190 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Devolution.osz) |
 | 14 (Miku ver.) | Hatsune Miku | π | 4:55 | 128 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%2014.osz) |
 | sigh | Kagamine Rin | iroha(sasaki) | 4:08 | 148 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20sigh.osz) |
+
+## Résultats
+
+### osu!
+
+Les notes détaillées, les commentaires des juges et le classement final sont [disponibles sur le site web de la Mappers' Guild](https://mappersguild.com/contests/results?contest=65d91885b2923e167f79fd44).
+
+| Classement | Utilisateur | Musique (lien vers la map) | Badge |
+| :-: | :-- | :-- | :-- |
+| 1er | [Nuolong](https://osu.ppy.sh/users/4732455) | [14](https://osu.ppy.sh/beatmapsets/2163174#osu/4561966) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2ème | [yaspo](https://osu.ppy.sh/users/4945926) | [14](https://osu.ppy.sh/beatmapsets/2163127#osu/4561861) | - |
+| 3ème | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | [Devolution](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
+| 4ème | [celerih](https://osu.ppy.sh/users/4696296) | [Devolution](https://osu.ppy.sh/beatmapsets/2163113#osu/4561840) | - |
+| 5ème | [Nijika Ijichi](https://osu.ppy.sh/users/10964252) | [The Cuckoo Bird's Beautiful Youth](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
+
+### osu!taiko
+
+Les notes détaillées, les commentaires des juges et le classement final sont [disponibles sur le site web de la Mappers' Guild](https://mappersguild.com/contests/results?contest=65d91aedb2923e167f79fe92).
+
+| Classement | Utilisateur | Musique (lien vers la map) | Badge |
+| :-: | :-- | :-- | :-- |
+| 1er | [uone](https://osu.ppy.sh/users/5321719) | [Devolution](https://osu.ppy.sh/beatmapsets/2163119#taiko/4561851) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2ème | [Nifty](https://osu.ppy.sh/users/4956097) | [Devolution](https://osu.ppy.sh/beatmapsets/2163121#taiko/4561854) | - |
+| 3ème | [-Kazuha](https://osu.ppy.sh/users/29978316) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163126#taiko/4561860) | - |
+
+### osu!catch
+
+Les notes détaillées, les commentaires des juges et le classement final sont [disponibles sur le site web de la Mappers' Guild](https://mappersguild.com/contests/results?contest=65d91b13b2923e167f79feec).
+
+| Classement | Utilisateur | Musique (lien vers la map) | Badge |
+| :-: | :-- | :-- | :-- |
+| 1er | [Dika312](https://osu.ppy.sh/users/741613) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163162#fruits/4561933) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2ème | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
+| 3ème | [Cipse](https://osu.ppy.sh/users/7928880) | [The Cuckoo Bird's Beautiful Youth](https://drive.google.com/file/d/10zF8TYbqrbKRM1X_7K-ZaySIBAFulK2i/view?usp=sharing) | - |
+
+### osu!mania
+
+Les notes détaillées, les commentaires des juges et le classement final sont [disponibles sur le site web de la Mappers' Guild](https://mappersguild.com/contests/results?contest=65d91a82b2923e167f79fe20).
+
+| Classement | Utilisateur | Musique (lien vers la map) | Badge |
+| :-: | :-- | :-- | :-- |
+| 1er | [Micleak](https://osu.ppy.sh/users/16140674) | [Devolution](https://drive.google.com/file/d/19OKPV4Ahy3J96o66XZxczUw1XrC4x4uX/view?usp=drive_link) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2ème | [Vincy_02](https://osu.ppy.sh/users/13574613) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
+| 3ème | [TheMoonLoop](https://osu.ppy.sh/users/15628036) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
 
 ## Notes
 

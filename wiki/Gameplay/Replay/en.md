@@ -218,12 +218,12 @@ The `Options` sidebar cannot be reopened while playing or in results screen.
 
 ![](img/Replay_server.jpg "Left is downloading the server replay and right is the replay in question.")
 
-Server replays are reserved for the top 50 play in the `Global leaderboard` of a difficulty/beatmap.
+Server replays are reserved for the top 1000 plays in the `Global leaderboard` of a difficulty/beatmap.
 The replay will be saved server-side.
 It can be exported, or downloaded and watched immediately by request.
 
 When watching a server-side replay (excluding exported replays), the player of the replay's profile will receive an increment of one(1) in the "Replays Watched by Others" counter.
-If a new top 50 global record was added, the previous holder for \#50 position's server-side replay will be removed.
+If a new top 1000 global record was added, the previous holder for \#1000 position's server-side replay will be removed.
 
 To watch a server replay, an osu! account must be signed in and be connected to Bancho.
 At the *Song Selection* screen in `Solo`, switch the leaderboard to `Global leaderboard` and click on the preferred player at the leaderboard to watch the replay.

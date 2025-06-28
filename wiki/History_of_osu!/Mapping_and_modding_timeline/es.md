@@ -311,7 +311,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 - **22/5/2017:** El servidor de Discord de los Beatmap Nominators fue creado para las subdivisiones de BN.
   - Las subdivisiones se diseñaron como grupos focales de nominadores seleccionados al azar de ambos niveles dirigidos por un miembro del QAT.
   - La mayoría de los administradores del QAT cambiaron a este servidor a pesar de la resistencia de los superiores de osu!.
-- **23/5/2017:** El bot de Discord [Aiess](/wiki/Community/Projects#miscellaneous) fue creado por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817).
+- **23/5/2017:** El bot de Discord [Aiess](/wiki/Community/Projects#otros-proyectos) fue creado por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817).
   - Esto proporcionó una fuente de eventos relacionados con el mapping en servidores de Discord de osu!, comenzando con feeds de nominación y descalificación.
 
 ### Junio
@@ -351,7 +351,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 - **1/3/2018:** El QAT separó sus tareas en ramas: evaluación de BN, descalificaciones, metadatos, destacados, blog, criterios de clasificación y liderazgo general.
   - Los miembros del QAT podrían estar involucrados en múltiples ramas.
   - Esto tenía como objetivo dar un propósito a algunos miembros del QAT que sentían que no tenían roles específicos en la comunidad de mapping/modding. Este sentimiento fue en gran medida relevante porque el QAT ya tenía poca participación en el control de calidad.
-- **3/3/2018:** El canal de `#modding` se creó en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
+- **3/3/2018:** El canal de `#modding` se creó en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
   - Si bien su objetivo era alejar la discusión de mapping del servidor de Discord de los BN, este centro de discusión rara vez se usaba aparte de las reuniones programadas del QAT.
 - **24/3/2018:** El subforo Ranking Criteria se reabrió para debates públicos de propuestas y se suspendió el UBKRC.
   - El UBKRC se suspendió en ese momento porque se habían finalizado todas las subsecciones de los criterios de clasificación generales y de los modos de juego.
@@ -371,7 +371,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Junio
 
-- **21/6/2018:** Se creó la iniciativa del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance).
+- **21/6/2018:** Se creó la iniciativa del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#control-de-calidad).
   - Esto fue diseñado para garantizar que todos los beatmaps calificados fueran revisados por al menos 2 miembros de los BN o el QAT antes de su clasificación.
   - El programa fue administrado a través de Trello y automatizado por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) a través de Aiess.
   - Este cambio fue una de las razones principales por las que se cambió el nombre del QAT más tarde.
@@ -408,7 +408,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 - **1/3/2019:** El [Mappers' Guild](/wiki/Community/Mappers_Guild) pasó de la entrada basada en aplicaciones a la entrada automática para cualquier persona con 3 mapas clasificados.
   - Los beatmaps de [artistas destacados](/wiki/People/Featured_Artists) se crearon y clasificaron con mayor frecuencia.
-  - El canal `#mappers-guild` se creó en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
+  - El canal `#mappers-guild` se creó en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 - **13/3/2019:** Se eliminó la regla que exige que las nominaciones consecutivas se establezcan con al menos 24 horas de diferencia entre sí.
   - Esta regla fue una de las principales quejas de los mappers y Beatmap Nominators porque parecía que estaba haciendo perder el tiempo a todos innecesariamente. Si se encontraba un problema después de la primera nominación, el segundo nominador a menudo evitaba señalarlo para evitar una espera adicional de 24 horas.
   - Junto con este cambio, los Beatmap Nominators podrían vetar los beatmaps calificados. La regla existía originalmente porque los Beatmap Nominators necesitaban 24 horas para aplicar potencialmente vetos a los mapas con una nominación.
@@ -425,7 +425,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Agosto
 
-- **5/8/2019:** ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) lanzó la herramienta [Mapset Verifier](/wiki/Community/Projects#modding), que automatiza una parte importante de los procesos de verificación de los beatmaps para los Beatmap Nominators.
+- **5/8/2019:** ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) lanzó la herramienta [Mapset Verifier](/wiki/Community/Projects#proyectos-relacionados-con-el-modding), que automatiza una parte importante de los procesos de verificación de los beatmaps para los Beatmap Nominators.
 - **6/8/2019:** Los Beatmap Nominators pueden participar en las evaluaciones de aplicaciones para BN.
   - La opinión de los BN es visible para el NAT cuando intenta llegar a un consenso, aunque rara vez se usa para influir en una votación.
   - El NAT a menudo usa la opinión de los BN para ayudar a determinar los futuros miembros del NAT.
@@ -445,7 +445,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
   - Estas se planearon originalmente en el QAT Upheaval dos años antes.
 - **21/2/2020:** El liderazgo del NAT como concepto se suspendió cuando ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) renunció como líder del NAT.
   - Las tareas específicas de los líderes del NAT se delegaron a todo el equipo.
-- **24/2/2020:** El sistema del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) se transfirió de Trello al [sitio web de los Beatmap Nominators](https://bn.mappersguild.com/).
+- **24/2/2020:** El sistema del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#control-de-calidad) se transfirió de Trello al [sitio web de los Beatmap Nominators](https://bn.mappersguild.com/).
   - Este cambio se realizó para tener en cuenta la actividad del control de calidad en las evaluaciones para Beatmap Nominator.
 
 ### Abril
@@ -519,7 +519,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
   - Los miembros de la comunidad de mapping no estaban contentos con la falta de discusión pública detrás de este cambio y luego hicieron adaptaciones para cerrar las nuevas lagunas.
 - **18/9/2021:** Después de una pausa de una década, las reuniones de la comunidad de osu! regresaron en forma de chats de voz en vivo en el Discord de osu!. El primer tema principal abordado fue [inquietudes sobre los criterios de clasificación de osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), junto con otros problemas como la complejidad general de los criterios de clasificación, la participación con mappers más nuevos y más.
   - Los cambios en los criterios de clasificación de osu!mania se pusieron a discusión y, si se acuerdan, podrían entrar en vigor pronto.
-- **24/9/2021:** Los [Quality Assurance checks](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) ya no cuentan para la actividad de un Beatmap Nominator.
+- **24/9/2021:** Los [Quality Assurance checks](/wiki/People/Beatmap_Nominators/General_Information#control-de-calidad) ya no cuentan para la actividad de un Beatmap Nominator.
   - Esto se implementó porque parecía que algunos usuarios estaban usando esto como una escapatoria para evitar contribuir activamente como Beatmap Nominator.
   - Antes de este cambio, cada verificación de control de calidad se consideraba igual a 1/4 de una nominación.
 

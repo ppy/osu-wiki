@@ -13,6 +13,7 @@ no_native_review: true
 
 ![NF Modsymbol](/wiki/shared/mods/NF.png "No Fail (NF) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [No Fail (lazer-Mod)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht

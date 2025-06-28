@@ -10,7 +10,7 @@ L'onglet **song setup** est la quatrième section de [l'éditeur de beatmap](/wi
 
 ![](img/SS_General.jpg "Un exemple de difficultés avec les métadonnées complétées")
 
-La section `General` fournit des informations qui aident les joueurs non seulement à trouver la beatmap, mais aussi à en savoir un peu plus sur la musique elle-même. Les métadonnées spécifiées ici doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la musique et, si une beatmap passe par la [procédure de classement](/wiki/Beatmap_ranking_procedure), suivre les [critères de classement](/wiki/Ranking_criteria#métadonnées).
+La section `General` fournit des informations qui aident les joueurs non seulement à trouver la beatmap, mais aussi à en savoir un peu plus sur la musique elle-même. Les métadonnées spécifiées ici doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la musique et, si une beatmap passe par la [procédure de classement](/wiki/Beatmap_ranking_procedure), suivre les [critères de classement](/wiki/Ranking_criteria/Metadata).
 
 | Champ | Signification |
 | :-- | :-- |

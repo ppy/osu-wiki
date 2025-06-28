@@ -9,7 +9,7 @@ tags:
 
 The **osu! Talk Event** is an event organised by [osu! University](/wiki/Community/Discord_servers/osu!_University) where different people held talks about various topics. This was the first iteration of the event with the theme of "overcoming obstacles".
 
-Speakers held their talks in a Stage channel on the [osu! Discord server](/wiki/Community/osu!_Discord_server). During the event, thread channels were opened in the `#community-meetings` channel for discussion.
+Speakers held their talks in a Stage channel on the [osu! Discord server](/wiki/Community/Discord_servers#official). During the event, thread channels were opened in the `#community-meetings` channel for discussion.
 
 The talks were also livestreamed on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and recordings of each talk are available in [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity).
 
@@ -26,7 +26,7 @@ To participate as a speaker in a future iteration of the event, or recommend som
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1574152)
 - [Announcement news post](https://osu.ppy.sh/home/news/2022-05-19-osu-talk-event-overcoming-obstacles)
-- [osu! Discord server](/wiki/Community/osu!_Discord_server)
+- [osu! Discord server](/wiki/Community/Discord_servers#official)
 - [osu! University Discord server](https://discord.gg/QubdHdnBVg)
 - [osu! University's Twitch channel](https://twitch.tv/osuuniversity)
 - [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity)

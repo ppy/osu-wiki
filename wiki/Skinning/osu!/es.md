@@ -344,7 +344,7 @@ Notas:
 
 Notas:
 
-- Sustituye a `hitcircle.png` para el inicio del slider, si tiene un aspecto para la skin.
+- Sustituye a `hitcircle.png` para el final del slider, si tiene un aspecto para la skin.
 - Este elemento es el círculo para el final del slider.
 - Este elemento se desvanece antes de completarse y se expande cuando se completa.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está habilitado, aparecerá gradualmente antes de completarse y solo desaparecerá.
@@ -364,7 +364,7 @@ Notas:
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está habilitado, aparecerá gradualmente antes de completarse y solo desaparecerá.
 - Puede superponerse o no al número del combo; por defecto, siempre se superpone.
   - Para hacer que esté por debajo del número del combo, establece `HitCircleOverlayAboveNumber` en `0`.
-- Sustituye la imagen de `hitcircle.png` para el inicio del slider.
+- Sustituye la imagen de `hitcircleoverlay.png` para el final del slider.
 - Se necesita `sliderendcircle.png` para que funcione.
 - Debe ser un círculo.
 - Este elemento era animable en el pasado. Para obtener todos los detalles, consulta [Historia del skinning](/wiki/Skinning/History).
@@ -755,6 +755,28 @@ Notas:
 
 - `hit300.png` debe tener un aspecto.
 - Este elemento se usa para `hit300`, `hit300g` y `hit300k`.
+
+## Indicadores de fallo de los sliders (solo en Lazer)
+
+En la versión [Lazer](/wiki/Client/Release_stream/Lazer) del juego, se han añadido nuevos indicadores cuando se fallan partes de los sliders. Los siguientes elementos heredados se pueden usar para personalizar estos indicadores. Estos no tienen ningún efecto en osu!stable.
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| Versiones | Todas |
+| Animable | ![Sí][true] |
+| Personalizable para los beatmaps | ![Sí][true] |
+| Modo de mezcla | Normal |
+| Origen | Centro |
+| Tamaño SD sugerido | 16x16 |
+
+:::
+
+|  | Nombre del archivo | Descripción |
+| :-: | :-- | :-- |
+| ![](img/sliderendmiss.png "sliderendmiss@2x.png predeterminado") | `sliderendmiss.png` | Aparece cuando se falla un [sliderend](/wiki/Gameplay/Hit_object/Slider/Slidertail). |
+| ![](img/slidertickmiss.png "slidertickmiss@2x.png predeterminado") | `slidertickmiss.png` | Aparece cuando se falla una [marca](/wiki/Gameplay/Hit_object/Slider/Slider_tick). |
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

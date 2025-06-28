@@ -20,7 +20,7 @@ Let's check out previous month's results:
 
 Before we head straight to this month's picks, here are some news from the team:
 
-- [Eriha](https://osu.ppy.sh/users/16320311) will be retiring as an osu!taiko captain, and will be replaced by [-Roxy](https://osu.ppy.sh/users/11931563). Thank you, Eriha, for your contributions, and welcome back to Project Loved -Roxy!
+- [ler1211](https://osu.ppy.sh/users/19901680) will be retiring as an osu!taiko captain, and will be replaced by [-Roxy](https://osu.ppy.sh/users/11931563). Thank you, ler, for your contributions, and welcome back to Project Loved -Roxy!
 - Project Loved [beatmap packs are back](https://osu.ppy.sh/beatmaps/packs?type=loved)! Every month going forward you'll be able to find links for beatmap packs on top of all headings for different game modes, or you'll be able to find them in the full listing on the website under `beatmaps` -> `beatmap packs` -> `project loved`.
 
 ### Navigation

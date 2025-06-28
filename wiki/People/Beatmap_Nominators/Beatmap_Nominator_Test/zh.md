@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fa3387c9293eb8dd25ea9216e8f13fcd8a33c574
+---
+
 # BN 考试
 
 **BN 考试** 能帮助[审核评估团队 (*NAT*)](/wiki/People/Nomination_Assessment_Team) 成员评估想要申请加入[谱面审核团队 (*BN*)](/wiki/People/Beatmap_Nominators) 的玩家。
@@ -14,7 +19,7 @@
 - [摸图和作图的行为规范](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)：1 道题目
 - [谱面上架标准 (*RC*)](/wiki/Ranking_criteria#常规)：1 道题目
 - [难度分布标准 (Spread)](/wiki/Ranking_criteria#谱面)：1 道题目
-- [歌曲元数据标准 (Metadata)](/wiki/Ranking_criteria#元数据)：1 道题目
+- [歌曲元数据标准 (Metadata)](/wiki/Ranking_criteria/Metadata)：1 道题目
 - [歌曲时间轴标准 (Timing)](/wiki/Ranking_criteria#时间轴)：1 道题目
 - [音频标准](/wiki/Ranking_criteria#音频)：1 道题目
 - [背景图片和视频标准](/wiki/Ranking_criteria#视频和背景图片)：1 道题目

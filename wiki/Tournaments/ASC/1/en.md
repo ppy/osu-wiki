@@ -9,7 +9,7 @@ tags:
 
 > Let the rhythm of the waters decide your fortunes.
 
-The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147) and ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860). Each participant registered individually and was assigned to a random team. It is the first instalment of the Asia Suiji Cup, a successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
+The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) was a three-on-three asian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147) and ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860). Each participant registered individually and was assigned to a random team. It was the first instalment of the Asia Suiji Cup, a successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
 
 ## Tournament schedule
 
@@ -24,7 +24,7 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | Quarterfinals | 2024-07-27/2024-07-28 |
 | Semifinals | 2024-08-02/2024-08-04 |
 | Finals | 2024-08-10/2024-08-11 |
-| Grand Finals | 2024-08-17/2024-08-18 |
+| Grand Finals | 2024-08-24/2024-08-25 |
 
 ## Prizes
 
@@ -34,24 +34,24 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, user profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, user profile banner |
 
-Second place's osu!supporter tag is provided by ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922). Donations and all supports can be made through [ASC's Ko-fi page](https://ko-fi.com/asiasuijicup).
+Second place's osu!supporter tag was provided by ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922).
 
 ## Organisation
 
-The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
+The Asia Suiji Cup: Rhythmus Aquarum was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860) |
 | Consultant | ::{ flag=CA }:: [Shizunaa](https://osu.ppy.sh/users/7352655) |
 | Head mappooler | ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147) |
-| Mappool playtester | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=GB }:: [\[Crz\]Envy](https://osu.ppy.sh/users/11817815), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ES }:: [ERA Guldakh](https://osu.ppy.sh/users/8553078), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617), ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627), ::{ flag=TH }:: [ItzScep](https://osu.ppy.sh/users/18456257), ::{ flag=CA }:: [Robert6400](https://osu.ppy.sh/users/11467559), ::{ flag=NL }:: [Shoira](https://osu.ppy.sh/users/13377652) |
-| RC specialised mapper | ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=TH }:: [ItzScep](https://osu.ppy.sh/users/18456257), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ES }:: [Ska](https://osu.ppy.sh/users/10313023), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619), ::{ flag=KR }:: [Zia](https://osu.ppy.sh/users/7979303) |
-| LN specialised mapper | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=PH }:: [ERA arccat](https://osu.ppy.sh/users/4848294), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619) |
-| HB specialised mapper | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=US }:: [chxu](https://osu.ppy.sh/users/13712190), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=SG }:: [Japeynius](https://osu.ppy.sh/users/13993659), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517) |
-| SV specialised mapper | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=SG }:: [Claren](https://osu.ppy.sh/users/9362562), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402) |
+| Mappool playtester | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=GB }:: [\[Crz\]Envy](https://osu.ppy.sh/users/11817815), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ES }:: [ERA Guldakh](https://osu.ppy.sh/users/8553078), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627), ::{ flag=TH }:: [ItzScep](https://osu.ppy.sh/users/18456257), ::{ flag=CA }:: [Robert6400](https://osu.ppy.sh/users/11467559), ::{ flag=NL }:: [Shoira](https://osu.ppy.sh/users/13377652) |
+| Rice specialised mapper | ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=TH }:: [ItzScep](https://osu.ppy.sh/users/18456257), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ES }:: [Ska](https://osu.ppy.sh/users/10313023), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619), ::{ flag=KR }:: [Zia](https://osu.ppy.sh/users/7979303) |
+| Long Notes specialised mapper | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619) |
+| Hybrid specialised mapper | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=US }:: [chxu](https://osu.ppy.sh/users/13712190), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=SG }:: [Japeynius](https://osu.ppy.sh/users/13993659), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517) |
+| Slider Velocity specialised mapper | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=SG }:: [Claren](https://osu.ppy.sh/users/9362562), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402) |
 | Referee | ::{ flag=VN }:: [-\[SnowFlakes\]-](https://osu.ppy.sh/users/19207842), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }:: [cute tomboy](https://osu.ppy.sh/users/27209874), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [ERA trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=CA }:: [Shizunaa](https://osu.ppy.sh/users/7352655) |
-| Streamer | ::{ flag=VN }:: [- Fubukiii](https://osu.ppy.sh/users/9931217), ::{ flag=US }:: [Chupalika](https://osu.ppy.sh/users/1926383), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=MY }:: [Evirir](https://osu.ppy.sh/users/8126553), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856) |
+| Streamer | ::{ flag=VN }:: [- Fubukiii](https://osu.ppy.sh/users/9931217), ::{ flag=US }:: [Chupalika](https://osu.ppy.sh/users/1926383), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856) |
 | Commentator | ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=PH }:: [Lazereed](https://osu.ppy.sh/users/12894120), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=AU }:: [Orcanos](https://osu.ppy.sh/users/13762441), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174) |
 | Designer | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=DE }:: [ERA Aracium](https://osu.ppy.sh/users/15882740), ::{ flag=VN }:: [KitHoly](https://osu.ppy.sh/users/14083855), ::{ flag=CN }:: [lovely\_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=SG }:: [sugosugiii](https://twitter.com/Cascale2) |
 | Website developer | ::{ flag=VN }:: [longnguyen2004](https://osu.ppy.sh/users/3874031), ::{ flag=GB }:: [Pyro](https://github.com/ThevinSilva), ::{ flag=VN }:: [TvS SorAKuN](https://osu.ppy.sh/users/11115041) |
@@ -90,26 +90,57 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 | **Undertable sands** | ::{ flag=KR }:: **[Scitra](https://osu.ppy.sh/users/26140861)**, ::{ flag=KR }:: [-GazingSnow-](https://osu.ppy.sh/users/32408886), ::{ flag=VN }:: [\[LS\]Tokiyume](https://osu.ppy.sh/users/13219309), ::{ flag=PH }:: [Dyei](https://osu.ppy.sh/users/23643731), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=AU }:: [Jeroid](https://osu.ppy.sh/users/18481219) |
 | **Yuma fanboys** | ::{ flag=JP }:: **[Nikoro](https://osu.ppy.sh/users/25588443)**, ::{ flag=SG }:: [-Pafe-](https://osu.ppy.sh/users/19834488), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=ID }:: [iSxga](https://osu.ppy.sh/users/15801261), ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887), ::{ flag=QA }:: [YumaOs](https://osu.ppy.sh/users/13047982) |
 
+## Podium
+
+![](img/asc-podium.jpg "ASC podium")
+
 ## Mappools
+
+### Grand Finals
+
+- Rice
+  1. [BLOOD STAIN CHILD - Last Stardust (ItzScep) \[Into The Stardust\]](https://osu.ppy.sh/beatmapsets/2230705#mania/4734143)
+  2. [Smiley - Destiny GAMMA (Mipha-) \[Unravel 1.05x (276bpm\]](https://osu.ppy.sh/beatmapsets/1747908#mania/3575280)
+  3. [Yudare-P feat. Hatsune Miku - Iriya Iriya (\[GS\]hina) \[Liberty 1.15x (173bpm)\]](https://osu.ppy.sh/beatmapsets/2230753#mania/4734254)
+  4. [8284 - Central Nucleus (\[Crz\]Crysarlene) \[crysather \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1801649#mania/3694006)
+  5. [Sharks - Nereid (Guilhermeziat) \[Stage 7: Tsunami\]](https://osu.ppy.sh/beatmapsets/1788534#mania/3664441)
+  6. [buelow - Revolver (Sped Up Ver.) (Ska) \[hoyden\]](https://osu.ppy.sh/beatmapsets/2230683#mania/4734084)
+  7. [Camellia - Racemization (\[GS\]hina) \[Catalyst (ASC\_Edit\]](https://osu.ppy.sh/beatmapsets/2230761#mania/4734266)
+- Long Notes
+  1. [Miyashita Yuu x Hiiragi Kirai - Grain (ERA Imperial) \[LeoN is cuTE\]](https://osu.ppy.sh/beatmapsets/2230674#mania/4734062)
+  2. [Camellia - TEMPO KATANA (FelixSpade) \[LN Master // Kiku-ichimonji+\]](https://osu.ppy.sh/beatmapsets/2230099#mania/4732428)
+  3. [Getty - Revolt (MyZterioN-) \[tax on the duck\]](https://osu.ppy.sh/beatmapsets/2214321#mania/4691614)
+  4. [Culprate - Beast (Vorso Remix) (\[Crz\]Crysarlene) \[Excelsior \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2230642#mania/4733958)
+- Hybrid
+  1. [Xyris - Eviternity (ERA Imperial) \[Leischl\]](https://osu.ppy.sh/beatmapsets/2230676#mania/4734064)
+  2. [ChumuNote - BlueSunnyFish (feat. Twinfield) (chxu) \[ABOVE YOU\]](https://osu.ppy.sh/beatmapsets/2230516#mania/4733668)
+  3. [katagiri - Kyuukou (ERA Leon) \[Equilibrium (cut)\]](https://osu.ppy.sh/beatmapsets/2230716#mania/4734157)
+- Slider Velocity
+  1. [Ardolf - Varcolac (awdse22) \[Nocturnal\]](https://osu.ppy.sh/beatmapsets/2230756#mania/4734257)
+  2. [Chroma - I (Promachos) \[UNEXPECTED LOVE\]](https://osu.ppy.sh/beatmapsets/2230738#mania/4734213)
+- Tiebreaker
+  1. **[Sparxe - Chaos Breaker (Critical\_Star) \[Dark Awake\]](https://osu.ppy.sh/beatmapsets/2230790#mania/4734315)**
 
 ### Finals
 
-- RC
+- Rice
   1. [katagiri - 1680 Man Shoku ni Hikaru Gaming Kemomimi Loli (\[GS\]hina) \[Iridescent\]](https://osu.ppy.sh/beatmapsets/2226644#mania/4723498)
   2. [Noah - End to end (Zia) \[Sword\]](https://osu.ppy.sh/beatmapsets/2226643#mania/4723493)
   3. [SOUND HOLIC Vs. dj TAKA feat. YURiCa (Zia) \[Stealing\]](https://osu.ppy.sh/beatmapsets/2226656#mania/4723513)
   4. [Anegasaki Nei - ZENITHALIZE (Mipha-) \[MIPHATHER 1.05x (157bpm)\]](https://osu.ppy.sh/beatmapsets/1744633#mania/3676737)
   5. [False Noise - Space Angel (Disguise) \[im not that amiable\]](https://osu.ppy.sh/beatmapsets/2168810#mania/4576456)
-- LN
+  6. [Skrillex - RATATA (Double T Bootleg) (CrewK) \[fool\]](https://osu.ppy.sh/beatmapsets/2064463#mania/4318079)
+  7. [The Hair Kid - Pocari Freakz (JAKAZiD's Jet Sweat Radio Remix) (\[GB\]SuddenDeath) \[Celeb's 24 1.1x (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2160691#mania/4723521)
+- Long Notes
   1. [Jay Chou - Gong Gong with Headache (YuEast 2018) \[Less Pain\]](https://osu.ppy.sh/beatmapsets/2226647#mania/4723503)
   2. [katagiri - RAINBOW GIRL (katagiri Remix) \[x1.00\]](https://osu.ppy.sh/beatmapsets/2119804#mania/4453271)
   3. [Frums - 19ZZ (ERA Imperial) \[LN-J03\]](https://osu.ppy.sh/beatmapsets/2226646#mania/4723501)
   4. [Helblinde - A Reyvateil's Curse (FelixSpade) \[LN Prodigy // Shackles (cut)\]](https://osu.ppy.sh/beatmapsets/2226113#mania/4722254)
-- HB
+- Hybrid
   1. [meganeko - Feral (osu! edit) (\[GB\]Mafufu) \[Blue\_Potion's Meditation 1.0x\]](https://osu.ppy.sh/beatmapsets/2226626#mania/4723468)
   2. [roer & N\_dog - Moving on (TheFunk) \[From the past\]](https://osu.ppy.sh/beatmapsets/2226645#mania/4723500)
   3. [Rukadesu & SKiLOBYTE - ULTIMATE (TheFunk) \[Brawliseum (Nerf)\]](https://osu.ppy.sh/beatmapsets/2036462#mania/4246955)
-- SV
+- Slider Velocity
   1. [Katali - TeraVolt (awdse22) \[Voltage Overload\]](https://osu.ppy.sh/beatmapsets/2226666#mania/4723535)
   2. [linear ring - cache (NovaSagittarii) \[compulsory miss\]](https://osu.ppy.sh/beatmapsets/2226670#mania/4723547)
 - Tiebreaker
@@ -117,22 +148,22 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Semifinals
 
-- RC
+- Rice
   1. [YOHEDA - KAERU (CrewK) \[Frog Regrets\]](https://osu.ppy.sh/beatmapsets/1666553#mania/3463278)
   2. [cosMo@BousouP - Sekai no Owari ni Aimashou (MyZterioN-) \[The Last Hour (1.20x) ASC edit\]](https://osu.ppy.sh/beatmapsets/1493728#mania/4713605)
   3. [meganeko - nano love (Eclipse-) \[^\_^ \[1,05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1726149#mania/3528255)
   4. [M2U - Second Choice (Hylotl) \[Next-gen\]](https://osu.ppy.sh/beatmapsets/2216862#mania/4698068)
   5. [7\_7 feat. kasane vavzed - Yakou (TheFunk) \[Deliverance\]](https://osu.ppy.sh/beatmapsets/2222887#mania/4713590)
   6. [penoreri - Lancelot Flame of the Rebellion (Eclipse-) \[MAXIMUM \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2222714#mania/4713216)
-- LN
+- Long Notes
   1. [Hatsune Miku&Megurine Luka - Magnet (Yana Feiya) \[Attraction\]](https://osu.ppy.sh/beatmapsets/2222963#mania/4713731)
   2. [SAMString - Celestial Solace (ERA Leon) \[Tranquility 1.0 (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2067012#mania/4713584)
   3. [TJ.hangneil - Kamui (MyZterioN-) \[Ituren\]](https://osu.ppy.sh/beatmapsets/2222914#mania/4713634)
-- HB
+- Hybrid
   1. [Yuta Imai - NOT YOUR IDOL (Muses) \[:3\]](https://osu.ppy.sh/beatmapsets/2222918#mania/4713640)
   2. [lunaluxe - Electricity (ERA arccat) \[hidden truths.\]](https://osu.ppy.sh/beatmapsets/2222897#mania/4713606)
   3. [Ashrount - Animus (\[Crz\]FolAH1217) \[Evil\]](https://osu.ppy.sh/beatmapsets/2222896#mania/4713604)
-- SV
+- Slider Velocity
   1. [F Rabbeat feat. mustard - How To Make Game Song! (Claren) \[How To Make SV Map!\]](https://osu.ppy.sh/beatmapsets/2222922#mania/4713649)
   2. [A-39 & Suna P - Galaxy (feat. Hatsune Miku) (\[GB\]Mafufu) \[Embrace loneliness... [NSV]\]](https://osu.ppy.sh/beatmapsets/2222713#mania/4713210)
 - Tiebreaker
@@ -140,22 +171,22 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Quarterfinals
 
-- RC
+- Rice
   1. [beatMARIO - Sissou Ensemble (\[GS\]hina) \[Ancore\]](https://osu.ppy.sh/beatmapsets/2186534#mania/4622947)
   2. [Rin - Prism Magical (DJ SHARPNEL hardrave remix) (Couil) \[Magical 1.2x\]](https://osu.ppy.sh/beatmapsets/1245301#mania/2588519)
   3. [E-Type - Set The World On Fire (Sped Up Ver.) (Jole) \[this is fine\]](https://osu.ppy.sh/beatmapsets/1456779#mania/3435284)
   4. [Karafuru. Saunzu. Po\^to - Colorful Sounds Cutter (\[GS\]hina) \[Fragment (ASC\_Edit)\]](https://osu.ppy.sh/beatmapsets/2145954#mania/4703819)
   5. [MY FIRST STORY - 2 FACE (Logan636) \[CUT\]](https://osu.ppy.sh/beatmapsets/2182924#mania/4612615)
   6. [kanone vs. BlackY - Stardust:RAY (Eclipse-) \[MASTER\]](https://osu.ppy.sh/beatmapsets/2219192#mania/4703928)
-- LN
+- Long Notes
   1. [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix) (Logan636) \[Don't be afraid, daybreak has come.\]](https://osu.ppy.sh/beatmapsets/2219140#mania/4703847)
   2. [Eagle - Hypersonik (anatharax) \[Another 1.1x\]](https://osu.ppy.sh/beatmapsets/2219143#mania/4703852)
   3. [Ado - Buriki no Dance (Muses) \[Delusion\]](https://osu.ppy.sh/beatmapsets/2219141#mania/4703848)
-- HB
+- Hybrid
   1. [ZxNX - Fana (TheFunk) \[Penumbra\]](https://osu.ppy.sh/beatmapsets/2219128#mania/4703824)
   2. [Yak\_Won - Out Of The Blue (Yana Feiya) \[Out Of The BlueSky\]](https://osu.ppy.sh/beatmapsets/2196535#mania/4647926)
   3. [MEMODEMO X AQUASINE - Point and Click (AlexDunk) \[Confusion and 69.\]](https://osu.ppy.sh/beatmapsets/2219116#mania/4703808)
-- SV
+- Slider Velocity
   1. [Getty - Golyat (Paturages) \[Rolizier\]](https://osu.ppy.sh/beatmapsets/2219142#mania/4703850)
   2. [Yosk! - Cockroach Cooking (awdse22) \[UGHH EWWW BRWUEEEHGHGH \*cough cough\* \*vomit\*\]](https://osu.ppy.sh/beatmapsets/2219133#mania/4703832)
 - Tiebreaker
@@ -163,20 +194,20 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Round of 16
 
-- RC
+- Rice
   1. [aran - Gate One (Extended Mix) (Eclipse-) \[Master\]](https://osu.ppy.sh/beatmapsets/2214874#mania/4692947)
   2. [Aoi - guardina (FerdiXIA-) \[Awakening (Updated)\]](https://osu.ppy.sh/beatmapsets/2143333#mania/4596344)
   3. [Tobu & Syndec - Dusk (Radio Edit) (Cut Ver.) (Ainer) \[nightfall\]](https://osu.ppy.sh/beatmapsets/2198528#mania/4652614)
   4. [KARUT - JACKPOT 777 (Revv-) \[Gacor\]](https://osu.ppy.sh/beatmapsets/2214467#mania/4692135)
   5. [Hino Isuka vs. s-don - Glooorious!! (AutotelicBrown) \[Epic!!\]](https://osu.ppy.sh/beatmapsets/2214836#mania/4692876)
-- LN
+- Long Notes
   1. [Wanuka - Zecchou Sanka (anatharax) \[Captivation\]](https://osu.ppy.sh/beatmapsets/2214895#mania/4692980)
   2. [Gentle stick - Amphitryon (Yana Feiya) \[Torment\]](https://osu.ppy.sh/beatmapsets/2214830#mania/4692868)
   3. [Zenpaku - Blast+ (feat. DEMONDICE) (\[Crz\]FolAH1217) \[Mixed Thoughts\]](https://osu.ppy.sh/beatmapsets/2214869#mania/4692939)
-- HB
+- Hybrid
   1. [Hoshimachi Suisei - BIBBIDIBA (AelSan) \[\~ BIBIDI BOBBIDI BOOWA \~\]](https://osu.ppy.sh/beatmapsets/2214906#mania/4692998)
   2. [ZeRo-BaSs - RaVe UnLiMiTeD (chxu) \[MaxX 176\]](https://osu.ppy.sh/beatmapsets/2213782#mania/4690363)
-- SV
+- Slider Velocity
   1. [Ardolf - will u (RuleBlazing) \[cat sitting on the sv\]](https://osu.ppy.sh/beatmapsets/2214851#mania/4692902)
   2. [Syzy - i'm god edit (trying to make dariacore but failing really hard) (H1Pur) \[trying to make a tournament sv map but failing really hard\]](https://osu.ppy.sh/beatmapsets/2214916#mania/4693012)
 - Tiebreaker
@@ -184,20 +215,50 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Qualifiers
 
-- SV
+- Slider Velocity
   1. [P\*Light - SWAG!! (Orca-) \[Stage 1: WATCH OUT!!\]](https://osu.ppy.sh/beatmapsets/2206316#mania/4671278)
-- RC
+- Rice
   1. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
   2. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
   3. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
-- LN
+- Long Notes
   1. [CHON - Splash (anatharax) \[Stage 5: Spritz\]](https://osu.ppy.sh/beatmapsets/2206314#mania/4671275)
   2. [Getty vs. DJ DiA - DropZ-Line- (Toaph Daddy) \[Stage 6: Cataclysm\]](https://osu.ppy.sh/beatmapsets/2206317#mania/4671280)
-- HB
+- Hybrid
   1. [MYUKKE. - Inga WooHoo!!! (TheFunk) \[Stage 7: Unga Bunga\]](https://osu.ppy.sh/beatmapsets/2206320#mania/4671283)
   2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 24 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Noodle Soup | 4 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115213411) |
+
+Sunday, 25 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yuma fanboys** | **7** | 0 | Pixel 7 | [#1](https://osu.ppy.sh/community/matches/115228052) |
+
+### Finals
+
+Saturday, 10 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bocchi Soup** | **0** | -1 | LOTT'S TRAGIC HINDILOVE EXTRA | *win by default* |
+| **Yuma fanboys** | **7** | 1 | Noodle Soup | [#1](https://osu.ppy.sh/community/matches/115022632) |
+| skibidi's hybrid soup | 2 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115022641) |
+
+Sunday, 11 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Bocchi Soup | 4 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115036476) |
 
 ### Semifinals
 

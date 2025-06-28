@@ -2,7 +2,7 @@
 
 ***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_criteria).***
 
-This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria#general-terms) that [osu!mania](/wiki/Game_mode/osu!mania)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria) that [osu!mania](/wiki/Game_mode/osu!mania)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Glossary
 
@@ -69,9 +69,9 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Each non-[standard playstyle](#common-terms) present in a beatmap must be denoted in the beatmap's tags.**
 - **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.** For the purposes of this rule, only playstyles with key counts below 10 can be considered "N+1".[^n-plus-1]
 - **If the [drain time](/wiki/Beatmap/Drain_time) of any difficulty is...**
-  - **...lower than 2:30**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Normal or lower, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
-  - **...between 2:30 and 3:15**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Hard or lower, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
-  - **...between 3:15 and 4:00**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Insane or lower, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
+  - **...lower than 2:00**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Normal or lower, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
+  - **...between 2:00 and 2:45**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Hard or lower, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
+  - **...between 2:45 and 3:30**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Insane or lower, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
 
 ### Guidelines
 

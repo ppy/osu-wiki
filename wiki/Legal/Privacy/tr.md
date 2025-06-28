@@ -4,7 +4,7 @@ legal: true
 
 # osu! gizlilik politikası
 
-En son 16 Nisan 2021 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+En son 3 Eylül 2024 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 Bu politikaya ek olarak, lütfen [Hizmet Koşullarımızı](/wiki/Legal/Terms) okuyup anladığınızdan emin olun.
 
@@ -120,7 +120,7 @@ osu! hizmetleri 13 yaşından küçük çocuklar için uygun değildir. Eğer 13
 
 Selam, ben Dean (sıklıkla peppy olarak tanınırım) ve ben sizin veri sorumlunuzum. Eğer gizlilik endişeleriniz veya yasal haklarınızı kullanma talebiniz varsa, benimle aşağıdaki adres üzerinden iletişime geçmekten çekinmeyin.
 
-**E-posta**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 saat içinde yanıt garantili)
+**E-posta**: [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 **Posta Adresi**:
 

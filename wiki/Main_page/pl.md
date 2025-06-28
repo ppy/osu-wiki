@@ -59,7 +59,7 @@ Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Podzielnik beatu](/w
 
 # Społeczność
 
-[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Community/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!](/wiki/Community/osu!_Discord_server) • [Jak możesz pomóc?](/wiki/Community/How_you_can_help!) • [Słownik](/wiki/Sitemap)
+[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Community/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!](/wiki/Community/Discord_servers#official) • [Jak możesz pomóc?](/wiki/Community/How_you_can_help!) • [Słownik](/wiki/Sitemap)
 
 Organizacje: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

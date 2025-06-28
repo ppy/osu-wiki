@@ -2,7 +2,7 @@
 
 ***Notice: This document is an extension of the [general ranking criteria](/wiki/Ranking_criteria).***
 
-This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria#general-terms) that [osu!taiko](/wiki/Game_mode/osu!taiko)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria) that [osu!taiko](/wiki/Game_mode/osu!taiko)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Glossary
 
@@ -119,12 +119,11 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
 - **At least 1 rest moment that is 2/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
-- **Simple Slider velocity changes may be used.**
+- **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it should also follow these guidelines:
 
 - **1/2 patterns should not be longer than five notes.**
-- **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty setting guidelines
 

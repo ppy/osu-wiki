@@ -33,7 +33,7 @@ macOS 版本的 osu! 可能会出现轻微的显示问题，且游玩性能相�
 
 ## osu!(lazer)
 
-[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 是目前尚在开发中的下一代 osu! 游戏客户端。如果你不在乎[表现分](/wiki/Performance_points)的话，那么推荐你试试它。若要安装它，请参照如下步骤：
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 是目前尚在开发中的下一代 osu! 游戏客户端。若要安装它，请参照如下步骤：
 
 1. 访问[osu!(lazer) 下载页面](https://github.com/ppy/osu/releases/latest)，下载 `osu!.app.zip`，然后解压它。
 2. 双击 osu!，然后点击`打开`来打开它。

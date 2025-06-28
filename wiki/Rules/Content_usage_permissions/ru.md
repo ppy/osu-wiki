@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5de39c08cf37e2889ecbc77213994fb7137417e2
+---
+
 # Использование медиа
 
 osu! строится вокруг свободы творчества и возможности делиться им с другими. Тем не менее, перед этим необходимо получить у других людей разрешение на использование их работ, а также не забыть правильно указать их авторство.
@@ -301,6 +306,7 @@ osu! строится вокруг свободы творчества и воз
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
+|  | PanPanPanic | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
@@ -316,7 +322,6 @@ osu! строится вокруг свободы творчества и воз
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/194) | [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/300) | [Rezonate](https://osu.ppy.sh/beatmaps/artists/300) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/54) | [Ricky Montgomery](https://osu.ppy.sh/beatmaps/artists/54) | ![][true] |
@@ -392,6 +397,7 @@ osu! строится вокруг свободы творчества и воз
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
+|  | veexie | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |
@@ -428,6 +434,7 @@ osu! строится вокруг свободы творчества и воз
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в листинге Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в листинге Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в листинге Featured Artist. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в листинге Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в листинге Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Не используйте и не публикуйте треки, относящиеся к *Touhou*. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в листинге Featured Artist. |

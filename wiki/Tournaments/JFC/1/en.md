@@ -8,7 +8,7 @@ tags:
 
 ![Jogja Fun Cup banner](img/banner.jpg)
 
-The **Jogja Fun Cup** (***JFC***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) (on behalf of the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) community) in collaboration with the doujin circle [LUMiNOZ](https://luminoz.bandcamp.com/). The tournament is open to teams of Indonesian players with a global rank of #1,000 or lower. It is the first instalment of the Jogja Fun Cup.
+The **Jogja Fun Cup** (***JFC***) was a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) (on behalf of the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) community) in collaboration with the doujin circle [LUMiNOZ](https://luminoz.bandcamp.com/). The tournament was open to teams of Indonesian players with a global rank of #1,000 or lower. It was the first instalment of the Jogja Fun Cup.
 
 ## Tournament schedule
 
@@ -32,13 +32,13 @@ The **Jogja Fun Cup** (***JFC***) is a double-elimination 2v2 osu! tournament ho
 
 ## Organisation
 
-The Jogja Fun Cup is run by various osu! community members from Indonesia and beyond.
+The Jogja Fun Cup was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) |
-| Mappool selector | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=US }:: [Lifan Li](https://osu.ppy.sh/users/4050359) |
-| Playtester | *to be announced* |
+| Mappool selector | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=US }:: [Lifan Li](https://osu.ppy.sh/users/4050359) |
+| Replayer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008), ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=TH }:: [ChaiPhukChep](https://osu.ppy.sh/users/9723127), ::{ flag=HK }:: [Zoomeree](https://osu.ppy.sh/users/18802561), ::{ flag=KR }:: [HDDTHR](https://osu.ppy.sh/users/14709263), ::{ flag=JP }:: [R10sh1](https://osu.ppy.sh/users/17202789), ::{ flag=HK }:: [A21](https://osu.ppy.sh/users/11198996), ::{ flag=KR }:: [Allegrissimo](https://osu.ppy.sh/users/9052194), ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650), ::{ flag=HK }:: [Tommy315](https://osu.ppy.sh/users/10748631), ::{ flag=PL }:: [Mastasz](https://osu.ppy.sh/users/1876565), ::{ flag=US }:: [Woey](https://osu.ppy.sh/users/3792472), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603) |
 | Streamer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
 | Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [dhimas arya](https://osu.ppy.sh/users/7108145), ::{ flag=ID }:: [BeefyNoragami](https://osu.ppy.sh/users/11065629), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176), ::{ flag=HU }:: [Akko The Rock](https://osu.ppy.sh/users/9153879) |
@@ -73,6 +73,16 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 | Suikambing | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)**, ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) |
 | Tahu Sumedang | ::{ flag=ID }:: **[lucidators](https://osu.ppy.sh/users/10154981)**, ::{ flag=ID }:: [controlledHive](https://osu.ppy.sh/users/11182595), ::{ flag=ID }:: [Mank](https://osu.ppy.sh/users/18263974) |
 | YJJA | ::{ flag=ID }:: **[Xenoid](https://osu.ppy.sh/users/26993756)**, ::{ flag=ID }:: [kairazhel](https://osu.ppy.sh/users/32835998), ::{ flag=ID }:: [GranXso](https://osu.ppy.sh/users/32189812) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **BAKPIA KUKUS KILLER** (::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Bakpia Kukus** (::{ flag=ID }:: [beabadobee](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Ban HR2** (::{ flag=ID }:: [ruruichi](https://osu.ppy.sh/users/6717559), ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666)) |
 
 ## Mappools
 
@@ -230,6 +240,20 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
   2. [-45 - Millarca (Stick2Glue) \[Malice\]](https://osu.ppy.sh/beatmapsets/1833512#osu/3764144)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 10 August 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Bakpia Kukus** | **7** | 1 | Ban HR2 | [#1](https://osu.ppy.sh/community/matches/115022242) |
+
+Sunday, 11 August 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **BAKPIA KUKUS KILLER** | **7** | 1 | Bakpia Kukus | [#1](https://osu.ppy.sh/community/matches/115034749) |
 
 ### Finals (week 1)
 

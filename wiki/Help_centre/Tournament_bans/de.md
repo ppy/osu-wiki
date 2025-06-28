@@ -1,13 +1,12 @@
 ---
-outdated_translation: true
-outdated_since: 7d5c25409561f95b70f655de670ca1fa015f22fa
+no_native_review: true
 ---
 
 # Turniersperren
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
 
-Eine Turniersperre verbietet es einem Spieler in jeder Weise an einem offiziell unterstütztem Turnier teilzunehmen. Das beinhaltet das Spielen und Mitwirken oder jede andere Form von Unterstützung.
+Eine Turniersperre verbietet es einem Spieler an offiziellen oder offiziell unterstützten Turnieren teilzunehmen. Inwieweit ein Spieler bei der Turnierorganisation mithelfen oder sich anderweitig bei diesen Turnieren einbringen kann, wird dadurch ebenfalls eingeschränkt.
 
 Turniersperren werden sehr selten ausgehändigt, aber im Allgemeinen unterliegen alle Spieler, die im Rahmen einer Standardbeschwerde für eine [Einschränkung des Accounts](/wiki/Help_centre/Account_restrictions) zurückkehren, einer Sperre von mindestens einem Jahr.
 
@@ -49,12 +48,17 @@ In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_sup
 
 Du darfst weiter in Turnieren von der Community spielen, die keine offizielle Unterstützung anfordern oder eine Überprüfung benötigen, was im Ermessen der Veranstalter dieser Events liegt.
 
+Du darfst möglicherweise nach Ermessen des Turnierleiters noch bei offiziell unterstützten Turnieren beim Streaming, der Kommentierung oder dem Grafikdesign unterstützen. Wenn du bei anderen Aufgaben helfen möchtest, MUSS der Turnierleiter eine Ausnahme im ursprünglichen Unterstützungsantrag beantragen. Abhängig von der Schwere und dem Grund des Verstoßes sowie deinem früheren Verhalten erlaubt das [Account-Support-Team](/wiki/People/Account_support_team) dies möglicherweise.
+
 Informationen über den Status deiner Turniersperre können Turnierveranstaltern auf Anfrage bereitgestellt werden, unabhängig davon, ob sie von der offiziellen Unterstützung profitieren oder nicht.
 
 ## Häufige Gründe für Turniersperren und Zeiträume {id=reasons}
 
 | Grund der Turniersperre | Zeitraum | Bemerkungen |
 | :-- | :-- | :-- |
+| Verletzung der Community-Regeln innerhalb eines Turniers | 1 Monat oder mehr | Kann nach dem Ermessen des Account-Support-Teams möglicherweise auch länger sein |
+| Missachtung des Personals und Zeitverschwendung | 1 Monat oder mehr |  |
+| Multi-Accounting oder Betrug eines anderen Spielers während eines Turniers ermöglichen | 6 Monate oder mehr |  |
 | Fehlverhalten eines Spielers während eines offiziell unterstützten Turniers | 1 bis 2 Jahre |  |
 | Zurückkehren im Rahmen des üblichen Beschwerdeverfahrens | 1 bis 2 Jahre | Kann nach Ermessen des Account-Support-Teams länger sein |
 | Multi-Accounting oder Teilen des Accounts während eines offiziell unterstützten Turniers | Dauerhaft | Wird auch zu einer Einschränkung führen |

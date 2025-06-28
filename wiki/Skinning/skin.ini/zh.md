@@ -89,7 +89,7 @@
 **允许按类别自定义箭头的皮肤**
 
 - 添加了 `arrow-generic.png`、`arrow-warning.png` 和 `arrow-pause.png`。
-- 删除了 `play-warningarrow.png`。
+- 弃用了 `play-warningarrow.png` 而使用上述元素。
 
 ### 2.7
 
@@ -160,18 +160,19 @@ osu! 使用标题命令组织参数，看起来像这样：`[General]`。在 ski
 - `Name:`
   - 问题：此皮肤的文件名是什么？
   - 值：文本 *（皮肤名）*
-  - 默认值：*（空）*
+  - 默认值：*未知*
   - 备注：
-    - 目前还未用到此参数。
-    - osu! 客户端会参照皮肤文件夹的名字列出皮肤。
+    - 在导出皮肤后，文件名将会是 `<Name>.osk`。
+      - 在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，文件名将会是 `<Name> (<Author>).osk`。
+    - osu! 客户端会参照皮肤文件夹的名字列出皮肤，而不是这一选项所指定的文件名。
+      - 在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，皮肤选择器的选项格式通常为 `<Name> (<Author>)`，如果 `skin.ini` 中的名称与 `.osk` 文件中的名称不同，那么格式为 `<Name> [<.osk filename>] (<Author>)`。
 - `Author:`
   - 问题：此皮肤的作者是谁？
   - 值：文本 *（皮肤制作者）*
   - 默认值：*（空）*
   - 备注：
-    - 目前还未用到此参数。
-    - 用你的用户名填写此参数。
-      - 最好用你在论坛上的用户名。
+    - 在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，文件名将会是 `<Name> (<Author>).osk`。
+    - 在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，皮肤选择器的选项格式通常为 `<Name> (<Author>)`，如果 `skin.ini` 中的名称与 `.osk` 文件中的名称不同，那么格式为 `<Name> [<.osk filename>] (<Author>)`。
 - `Version:`
   - 问题：此皮肤的具体行为如何？
   - 值：[版本号](/wiki/Skinning/skin.ini#版本) 或 `latest`

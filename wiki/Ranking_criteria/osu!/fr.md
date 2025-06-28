@@ -1,12 +1,14 @@
 ---
 no_native_review_since: ae41434f319c2db2e6b33ddffa0419b663ff039e Doryan
+outdated_translation: true
+outdated_since: 25e83fbe85484e8e4a461e1e5f862e876479eb0b
 ---
 
 # Critères de classement d'osu!
 
 ***Remarque : Cet article est une extension des [critères généraux de classement](/wiki/Ranking_criteria).***
 
-Cet ensemble de **critères de classement d'osu!** définit les [règles et directives](/wiki/Ranking_criteria#termes-courants) que les [beatmaps](/wiki/Game_mode/osu!)spécifiques à [osu!](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cet ensemble de **critères de classement d'osu!** définit les [règles et directives](/wiki/Ranking_criteria) que les [beatmaps](/wiki/Game_mode/osu!)spécifiques à [osu!](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Global
 
@@ -95,9 +97,9 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 #### Directives sur les paramètres de difficultés
 
-- [L'Approach rate](/wiki/Beatmap/Approach_rate) doit être égale ou inférieure à 5.
+- [L'Approach rate](/wiki/Beatmap/Approach_rate) doit être inférieur ou égal à 5.
 - [L'Overall difficulty](/wiki/Beatmap/Overall_difficulty)/[L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 1 et 3.
-- Le [Circle size](/wiki/Beatmap/Circle_size) doit être égale ou inférieure à 4 or lower.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être inférieur ou égal à 4.
 
 ### ![](/wiki/shared/diff/normal-o.png?20211215) Normal
 
@@ -138,7 +140,7 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 
 - [L'Approach rate](/wiki/Beatmap/Approach_rate) doit être compris entre 4 et 6.
 - [L'Overall difficulty](/wiki/Beatmap/Overall_difficulty)/[L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 3 et 5.
-- Le [Circle size](/wiki/Beatmap/Circle_size) doit être égale ou inférieure à 5.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être inférieur ou égal à 5.
 
 ### ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 
@@ -165,7 +167,7 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 - [L'Approach rate](/wiki/Beatmap/Approach_rate) doit être compris entre 6 et 8.
 - [L'Overall difficulty](/wiki/Beatmap/Overall_difficulty) doit être compris entre 5 et 7.
 - [L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 4 et 6.
-- Le [Circle size](/wiki/Beatmap/Circle_size) doit être égale ou inférieure à 6.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être inférieur ou égal à 6.
 
 ### ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 
@@ -188,7 +190,7 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 - [L'Approach rate](/wiki/Beatmap/Approach_rate) doit être compris entre 7 et 9.3.
 - [L'Overall difficulty](/wiki/Beatmap/Overall_difficulty) doit être compris entre 7 et 9.
 - [L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 5 et 8.
-- Le [Circle size](/wiki/Beatmap/Circle_size) doit être égale ou inférieure à 7.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être inférieur ou égal à 7.
 
 ### ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
@@ -204,6 +206,6 @@ Si une difficulté Normal est requise et utilisée comme la *difficulté la plus
 
 #### Directives sur les paramètres de difficultés
 
-- [L'Approach rate](/wiki/Beatmap/Approach_rate)/[L'Overall difficulty](/wiki/Beatmap/Overall_difficulty) doit être égal ou supérieur à 8.
-- [L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être égal ou supérieur à 5.
-- Le [Circle size](/wiki/Beatmap/Circle_size) doit être égale ou inférieure à 7.
+- [L'Approach rate](/wiki/Beatmap/Approach_rate)/[L'Overall difficulty](/wiki/Beatmap/Overall_difficulty) doit être supérieur ou égal à 8.
+- [L'HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être supérieur ou égal à 5.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être inférieur ou égal à 7.

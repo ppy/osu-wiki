@@ -7,7 +7,7 @@ tags:
 
 # Beatmap ranking queue
 
-The **ranking queue** manages moving [beatmaps](/wiki/Beatmap) from [Qualified](/wiki/Beatmap/Category#qualified) to [Ranked](/wiki/Beatmap/Category#ranked). Every day, 10 beatmaps from each [game mode](/wiki/Game_mode) are able to move from Qualified to Ranked, as long as they have been in Qualified for at least 7 days. The time of day that beatmaps get ranked is random.
+The **ranking queue** manages moving [beatmaps](/wiki/Beatmap) from [Qualified](/wiki/Beatmap/Category#qualified) to [Ranked](/wiki/Beatmap/Category#ranked). Every day, 16 beatmaps from each [game mode](/wiki/Game_mode) are able to move from Qualified to Ranked, as long as they have been in Qualified for at least 7 days. The time of day that beatmaps get ranked is random.
 
 ## Disqualification and re-qualification
 

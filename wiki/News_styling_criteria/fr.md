@@ -1,8 +1,6 @@
 ---
 no_native_review: true
 no_native_review_since: 1bf5b747eb7cc330b7bed4195c7119e904282211 Doryan
-outdated_translation: true
-outdated_since: 810423a062ae5027a60675da09bb9be132b04229
 ---
 
 # Critères de style des news
@@ -104,7 +102,7 @@ Ces bannières apparaissent dans de nombreux rapports d'aspect différents à di
 
 ![Référence pour le ratio d'aspect des bannières des articles de news.](img/banner-sizes.png "Référence pour le ratio d'aspect des bannières des articles de news. Notez que les appareils mobiles peuvent se situer n'importe où à l'intérieur ou même légèrement en dehors des intervalles communs spécifiés ici.")
 
-Utilisez [cet outil de visualisation de la bannière](https://tanza.me/tools/osu-vis/) pour vérifier comment la bannière apparaîtra dans les différentes parties du site web.
+Utilisez [cet outil de visualisation de la bannière](https://tcomm.hivie.tn/assets-previewer?tab=news-banners) pour vérifier comment la bannière apparaîtra dans les différentes parties du site web.
 
 Les bannières doivent avoir une taille de base minimale de 1000x200px. Une version avec chaque dimension doublée doit être fournie si l'image source est assez grande pour la supporter (ce qui donne `banner.jpg` et `banner@2x.jpg`). Les images de bannières apparaissant dans plusieurs articles doivent être placées dans le répertoire [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
@@ -137,6 +135,7 @@ Vidéo intégrée dans YouTube :
 Ce qui suit s'applique à tous les médias dans les articles de news et comprend les raisons courantes des changements demandés ou des demandes de renseignements de l'équipe de news :
 
 - **Les ressources créées pour les articles de news doivent faire l'objet d'une autorisation et d'une licence.**
+- **Aucun placement de marque ou de sponsor n'est autorisé.** Ce n'est pas à osu! de leur fournir de la publicité.
 - **Notez les [directives relatives à l'identité de la marque](/wiki/Brand_identity_guidelines), notamment en ce qui concerne les noms des jeux et des modes de jeu.** Des termes comme "standard" ou "ctb" ne sont pas utilisés dans les contextes officiels.
   - Préférable : "osu!", "osu!taiko", "osu!catch", "osu!mania" (Notez également qu'il s'agit de l'ordre canonique lorsqu'ils sont présentés dans l'ordre.)
   - Acceptable : "osu!", "taiko", "catch", "mania"

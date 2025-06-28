@@ -4,7 +4,7 @@ legal: true
 
 # Kebijakan privasi osu!
 
-Terakhir diperbarui pada tanggal 16 April 2021. [Lihat riwayat kebijakan ini di sini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Terakhir diperbarui pada tanggal 3 September 2024. [Lihat riwayat kebijakan ini di sini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 Di samping kebijakan ini, pastikan juga untuk membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) kami.
 
@@ -120,7 +120,7 @@ Layanan osu! tidak dirancang bagi anak-anak yang berusia di bawah 13 tahun. Apab
 
 Hai, saya Dean (yang pada umumnya dikenal sebagai peppy) dan saya merupakan pengelola data Anda. Apabila Anda memiliki kekhawatiran seputar privasi atau ingin menggunakan hak hukum Anda, jangan sungkan untuk menghubungi saya secara langsung melalui alamat email di bawah ini.
 
-**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (Jaminan respons 24 jam)
+**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 **Alamat Pos**:
 

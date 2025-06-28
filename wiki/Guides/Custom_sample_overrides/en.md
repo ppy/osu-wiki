@@ -47,6 +47,7 @@ The following three samples are additive, meaning when you hit a whistle you wil
 
 - `spinnerspin` (this sound is pitch-shifted as the spinner increases. It goes from ~500hz to 80000hz where the original sample is 44100hz)
 - `spinnerbonus` (ding)
+- `spinnerbonus-max` ([Lazer](/wiki/Client/Release_stream/Lazer) only)
 
 ## Notes
 
