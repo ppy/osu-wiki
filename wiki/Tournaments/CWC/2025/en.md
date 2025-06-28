@@ -139,7 +139,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 | Chile ::{ flag=CL }:: | ::{ flag=SE }:: Sweden | [Jun 29 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T160000&p1=1440&p2=232&p3=239) | [osulive](https://twitch.tv/osulive) |
 | Canada ::{ flag=CA }:: | ::{ flag=DE }:: Germany | [Jun 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T170000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) |
 | Peru ::{ flag=PE }:: | ::{ flag=BE }:: Belgium | [Jun 29 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T180000&p1=1440&p2=131&p3=48) | [osulive](https://twitch.tv/osulive) |
-| Semifinals | mappool showcase | [Jun 29 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| Semifinals | mappool showcase | [Jun 29 (Sun) 20:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250629T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
@@ -528,4 +528,3 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
-[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
