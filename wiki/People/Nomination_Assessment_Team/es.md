@@ -178,18 +178,18 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 
 | Usuario | Tarea |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Organización del programa BN Mentorship |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Liderazgo del NAT |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
 | Usuario | Tarea |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Manejo de los reportes de contenido, desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 

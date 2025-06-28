@@ -180,18 +180,18 @@ NAT 领导人的职责是：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文件 |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织者 |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 开发 [BN 管理网站](https://bn.mappersguild.com) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
 
 以下 NAT 成员主要负责评估分类的事项，但也会参与组织分类的事项：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 开发[提名规划师 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hivie](https://osu.ppy.sh/users/14102976) | 开发 [BN 管理网站](https://bn.mappersguild.com) 和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
