@@ -1,8 +1,3 @@
----
-outdated_since: 0e4f0c847059bf3a4e350040939b18b193704bce
-outdated_translation: true
----
-
 # Skinning de osu!
 
 ## Combo bursts
@@ -349,7 +344,7 @@ Notas:
 
 Notas:
 
-- Sustituye a `hitcircle.png` para el inicio del slider, si tiene un aspecto para la skin.
+- Sustituye a `hitcircle.png` para el final del slider, si tiene un aspecto para la skin.
 - Este elemento es el círculo para el final del slider.
 - Este elemento se desvanece antes de completarse y se expande cuando se completa.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está habilitado, aparecerá gradualmente antes de completarse y solo desaparecerá.
@@ -369,7 +364,7 @@ Notas:
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está habilitado, aparecerá gradualmente antes de completarse y solo desaparecerá.
 - Puede superponerse o no al número del combo; por defecto, siempre se superpone.
   - Para hacer que esté por debajo del número del combo, establece `HitCircleOverlayAboveNumber` en `0`.
-- Sustituye la imagen de `hitcircle.png` para el inicio del slider.
+- Sustituye la imagen de `hitcircleoverlay.png` para el final del slider.
 - Se necesita `sliderendcircle.png` para que funcione.
 - Debe ser un círculo.
 - Este elemento era animable en el pasado. Para obtener todos los detalles, consulta [Historia del skinning](/wiki/Skinning/History).

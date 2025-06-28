@@ -21,7 +21,7 @@ tags:
 
 ![Ephemeral 的个人主页截图](img/dev.png?1 "在 Ephemeral 的主页上方可以看到 \"osu!team\" 头衔")
 
-**玩家头衔**（用户头衔）是由 [osu!team](/wiki/People/osu!_team) 设置在玩家个人主页上的小标签。大多数头衔指示了玩家所处的[玩家组](/wiki/People/User_group)身份。除此之外，还有一些[特殊头衔](/wiki/People/Users_with_unique_titles)，获得这些特殊头衔的玩家通常都做出过杰出的贡献或成就。
+**玩家头衔**（用户头衔）是由 [osu!team](/wiki/People/osu!_team) 设置在玩家个人主页上的小标签。大多数头衔指示了玩家所处的[玩家组](/wiki/People/User_groups)身份。除此之外，还有一些[特殊头衔](/wiki/People/Users_with_unique_titles)，获得这些特殊头衔的玩家通常都做出过杰出的贡献或成就。
 
 头衔的颜色通常会根据玩家所处的玩家组身份设置，并且会与玩家名的颜色一致。如果玩家所处的玩家组没有颜色设置，则默认为白色。
 

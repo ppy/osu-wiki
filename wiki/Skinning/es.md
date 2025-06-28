@@ -1,28 +1,28 @@
 # Skinning
 
-El skinning es una de las funciones clave de osu!. ¡Permite a los jugadores derivar de los elementos de skin originales y crear los suyos! Las skins pueden variar desde temática, PRO, ser casi imposibles de usar o simplemente por diversión.
+El skinning es una de las principales funciones de osu! que le permite a los jugadores rediseñar la interfaz del juego tomando como base los elementos predeterminados. Las skins creadas por los usuarios van desde diseños temáticos a diseños de aspecto profesional, o pueden ser deliberadamente desafiantes o casi imposibles de jugar con ellas.
 
 ## Conjuntos de skinning
 
 *Página principal: [Lista de conjuntos de skinning](/wiki/Ranking_criteria/Skin_set_list)*
 
-**Solo para beatmaps**, si tu skin de beatmap contiene un solo elemento de los conjuntos enumerados en los criterios de clasificación, debe contener todos los demás elementos dentro de dicho conjunto de skinning. Esto solo aplica a las skins de beatmaps, pero es posible que otros creadores de skins también deseen considerar esas listas.
+**Solo para beatmaps**, si tu skin para un beatmap contiene un solo elemento de los conjuntos enumerados en los [criterios de clasificación](/wiki/Ranking_criteria), debe contener todos los demás elementos dentro de dicho conjunto de skinning. Esto solo se aplica a las skins de los beatmaps, pero se aconseja a otros skinners que sigan también estas listas para preservar la integridad de su skin.
 
-## Listas de elementos para skins
+## Elementos para las skins
 
-La lista de elementos para skins está separada en las siguientes categorías:
+Los elementos para las skins se dividen en las siguientes categorías:
 
-- [Skinning de interfaz](/wiki/Skinning/Interface)
-- [Skinning de osu!](/wiki/Skinning/osu!)
-- [Skinning de osu!taiko](/wiki/Skinning/osu!taiko)
-- [Skinning de osu!catch](/wiki/Skinning/osu!catch)
-- [Skinning de osu!mania](/wiki/Skinning/osu!mania)
-- [Skinning de sonidos](/wiki/Skinning/Sounds)
+- [Elementos de osu!](/wiki/Skinning/osu!)
+- [Elementos de osu!taiko](/wiki/Skinning/osu!taiko)
+- [Elementos de osu!catch](/wiki/Skinning/osu!catch)
+- [Elementos de osu!mania](/wiki/Skinning/osu!mania)
+- [Elementos de la interfaz](/wiki/Skinning/Interface)
+- [Sonidos personalizables](/wiki/Skinning/Sounds)
 
 ## Véase también
 
 - [skin.ini](/wiki/Skinning/skin.ini)
-- [Historia de skinning](/wiki/Skinning/History) - una lista de elementos para skinning viejos
+- [Historia del skinning](/wiki/Skinning/History) - una lista de elementos antiguos para las skins que ya no se usan
 - [Compendio](https://osu.ppy.sh/community/forums/topics/686664) - una lista de skins completadas
-- [Preguntas frecuentes de skinning](/wiki/Skinning/FAQ)
+- [Preguntas frecuentes sobre el skinning](/wiki/Skinning/FAQ)
 - [Guías e hilos importantes](/wiki/Skinning/Guides_and_important_threads)
