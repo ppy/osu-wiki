@@ -4,7 +4,7 @@ no_native_review: true
 
 # Points de concours
 
-Les points de concours sont des points utilisés comme récompense dans les concours officiels de mapping. Ils sont principalement utilisés pour déterminer l'éligibilité d'un utilisateur à recevoir le titre de *Elite Mapper*, qui est décerné aux utilisateurs ayant atteint **6 points**.
+Les **points de concours** sont des points utilisés comme récompense dans les concours officiels de mapping. Ils sont principalement utilisés pour déterminer l'éligibilité d'un utilisateur à recevoir le titre de *Elite Mapper*, qui est décerné aux utilisateurs ayant atteint **6 points**.
 
 Les points de concours peuvent également être accordés en tant que bénéfice du [support officiel du concours de beatmap](/wiki/Contests/Official_support) sous [certaines circonstances](/wiki/Contests/Official_support#éligibilité).
 
@@ -144,9 +144,9 @@ Les points de concours ont été utilisés pour les concours suivants :
 
 | Utilisateur | Points | Concours |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
+| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (7), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
+| ::{ flag=AU }:: [**oct4**](https://osu.ppy.sh/users/10303887) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
