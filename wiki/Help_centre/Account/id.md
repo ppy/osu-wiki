@@ -93,7 +93,7 @@ Mohon untuk tidak melampirkan data tayangan ulang atau skor di dalam tiketmu —
 
 Terdapat beberapa hal yang dapat kamu coba untuk menyelesaikan masalah ini:
 
-#### Apakah kamu telah kamu memasukkan kata sandimu dengan benar? {id=authentication-wrong-password}
+#### Apakah kamu telah memasukkan kata sandimu dengan benar? {id=authentication-wrong-password}
 
 Apabila kamu telah lupa kata sandimu, kamu dapat menggunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memulihkan akses menuju akunmu.
 
@@ -101,11 +101,11 @@ Apabila kamu telah lupa kata sandimu, kamu dapat menggunakan [halaman pemulihan 
 
 **Menonaktifkan hal ini sebelum mencoba untuk menghubungkan ulang kemungkinan besar akan menyelesaikan masalahmu.**
 
-Layanan VPN dan server proxy tertentu tidak dapat bekerja dengan osu! karena satu dan lain hal.
+Layanan VPN dan server proxy tertentu tidak dapat terhubung ke osu! karena satu dan lain hal.
 
 ### Saya masih menerima pesan kesalahan ini! {id=authentication-unknown-cause}
 
-**Kami akan memerlukan berkas `network.log` darimu untuk mencari tahu apa yang terjadi apabila kedua solusi di atas tidak membantu.**
+**Kami akan membutuhkan berkas `network.log` darimu untuk mengetahui apa yang terjadi apabila kedua solusi di atas tidak membantu.**
 
 Untuk informasi lebih lanjut seputar cara memperoleh berkas `network.log` ini untuk dikirimkan kepada kami, lihat [Pusat bantuan § Berkas log](/wiki/Help_centre#log-files).
 

@@ -33,6 +33,20 @@ tags:
 
 *Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
+El mod **Accuracy Challenge** le permite al jugador establecer una precisión mínima que debe mantener para evitar morir.
+
+## Personalización
+
+![Opciones de personalización del mod Accuracy Challenge en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
+
+- **Minimum accuracy** (60 %-99 %, predeterminado: 90 %): El jugador fallará el mapa si la precisión es inferior a este valor.
+- **Accuracy mode** (predeterminado: Máxima alcanzable): El modo de precisión que provocará que el jugador falle el mapa. 
+  - **Máxima alcanzable**: El jugador muere si la precisión no supera este valor al finalizar el mapa.
+  - **Estándar**: El jugador muere si la precisión es estrictamente inferior al valor.
+- **Restart on fail** (predeterminado: desactivado): Reinicia el mapa cuando la precisión descienda por debajo del valor mínimo especificado.
+
+*Cambiar cualquiera de las opciones aquí no hace que el mod sea no clasificado.*
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
