@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COEGTS 2025: Registrations Now Open!"
-date: 2025-06-29 21:00:00 +0000
+date: 2025-06-30 09:00:00 +0000
 ---
 
 We invite you to witness the final GTS tournament IRL in the Netherlands!
@@ -16,7 +16,16 @@ Regarding the tournament's bracket format, there is a slight change from the pas
 
 As a special event as well this year, the **Qualifier results** will be showcased at COE itself, along with the **main mappool showcase**.
 
-The tournament's detailed schedule and all relevant info for participating can be found below.
+The tournament's detailed schedule and location info, along with all relevant info for participating can be found below.
+
+## Where is this being held?
+
+**COEGTS 2025** will take place in **'s-Hertogenbosch, Netherlands** and last for 3 days — July 31st to August 2nd!
+
+This tournament is part of the much larger **[cavoe's osu! event](https://cavoe.events/)**, held at the **[Brabanthallen](https://www.google.com/maps/place/Brabanthallen+'s-Hertogenbosch/@51.70108,5.2877284,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6ee65819003b5:0x91cdd97244523100!8m2!3d51.7010767!4d5.2903033!16s%2Fg%2F121gvb7r)** (Diezekade 2, 5222 AK 's-Hertogenbosch, Netherlands), happening for the whole week, from July 28th to August 3rd.
+
+**Do note that having a ticket to COE during July 31st to August 2nd is mandatory** to play in this tournament. Head over to the [event's website](https://cavoe.events) if you haven't bought years!
+ 
 
 ## Tournament schedule
 
