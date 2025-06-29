@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Ice"
-date: 2025-06-29 20:00:00 +0000
+date: 2025-06-29 23:00:00 +0000
 ---
 
 It's about time.
@@ -12,9 +12,9 @@ If you haven't heard of **Ice** by now, you might have never played a rhythm gam
 
 Games like *maimai*, *Chunithm*, and *DJMAX* have featured **Ice**'s tracks throughout the years, and **Ice** has also operated behind the curtains in rhythm games as the music director for Rayark Games (the studio who made *Cytus*, *VOEZ*, and *Deemo*) and NEX.
 
-Meanwhile on osu!,  **Ice** has had no shortage of involvement in the [bespoke music](/wiki/Community/Bespoke_music) scene. From tracks created for events in the [Global Taiko Showdown](/wiki/Tournaments/GTS) series to the osu! original *Nostalgia Sonatina Op.3* from [this year's osu!catch World Cup](/wiki/Tournaments/CWC/2025), **Ice**'s sound has likely penetrated your eardrums more times than you can count. If not, you're a lucky individual — you get to hear **Ice**'s iconic classical-electronic-infused style for the first time.
+Meanwhile on osu!, **Ice** has had no shortage of involvement in [osu!'s music scene](/wiki/Community/Bespoke_music). From tracks created for events in the [Global Taiko Showdown](/wiki/Tournaments/GTS) series to the osu! original *Nostalgia Sonatina Op.3* from [this year's osu!catch World Cup](/wiki/Tournaments/CWC/2025), **Ice**'s sound has likely penetrated your eardrums more times than you can count. If not, you're a lucky individual — you get to hear **Ice**'s iconic classical-electronic-infused style for the first time.
 
-Over **20** tunes are part of [**Ice**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/484), quite a few of which you're bound to recognize.
+Over **20** tunes are part of [**Ice**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/484), quite a few of which you're bound to recognise.
 
 This is just a taste of what **Ice** has to offer:
 
