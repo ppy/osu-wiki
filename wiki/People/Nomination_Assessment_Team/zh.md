@@ -143,7 +143,7 @@ NAT 领导人的职责是：
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 德语 |
 
 #### osu!taiko
 
