@@ -16,6 +16,8 @@ Regarding the tournament's bracket format, there is a slight change from the pas
 
 As a special event as well this year, the **Qualifier results** will be showcased at COE itself, along with the **main mappool showcase**.
 
+This tournament will **not be badged** due to its size, but there are physical prizes planned. They will be announced at a later date.
+
 The tournament's detailed schedule and location info, along with all relevant info for participating can be found below.
 
 ## Where is this being held?
@@ -26,7 +28,6 @@ This tournament is part of the much larger **[cavoe's osu! event](https://cavoe.
 
 **Do note that having a ticket to COE during July 31st to August 2nd is mandatory** to play in this tournament. Head over to the [event's website](https://cavoe.events) if you haven't bought years!
  
-
 ## Tournament schedule
 
 | Event | Timestamp (UTC) |
