@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Ice"
-date: 2025-06-21 20:00:00 +0000
+date: 2025-06-29 20:00:00 +0000
 ---
 
 It's about time.
