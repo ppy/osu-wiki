@@ -20,7 +20,7 @@ This is just a taste of what **Ice** has to offer:
 
 ### [Ice - Nostalgia Sonatina Op.3](https://assets.ppy.sh/artists/484/Songs/Ice%20-%20Nostalgia%20Sonatina%20Op.3.osz)
 
-Check out [the original song and map](LINK) hosted by [USER](LINK) and created for [2025's osu!catch World Cup](/wiki/Tournaments/CWC/2025)!
+Check out [Ascendance](https://osu.ppy.sh/users/2931883)'s set of the *original song* created for [2025's osu!catch World Cup](/wiki/Tournaments/CWC/2025) in video form below!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/RnZyDkWU7lU" frameborder="0" allowfullscreen></iframe>
