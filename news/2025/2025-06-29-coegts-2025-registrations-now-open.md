@@ -6,7 +6,7 @@ date: 2025-06-29 21:00:00 +0000
 
 We invite you to witness the final GTS tournament IRL in the Netherlands!
 
-![](/wiki/shared/news/2025-06-29-cavoes-osu-events-global-taiko-showdown-2025-registrations-now-open/banner.png)
+![](/wiki/shared/news/2025-06-29-coegts-2025-registrations-now-open/banner.png)
 
 The [cavoe's osu! event's Global Taiko Showdown](https://gratiaproductions.com/coegts/home) (COEGTS) showcased its strengths in providing some of the most interesting osu!taiko tournament action back in 2023. While being the first time the GTS series delved into the LAN scene, COEGTS also stands to this day as the only tournament in the game with, truly, **100% original content**.
 
