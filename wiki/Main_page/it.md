@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
+no_native_review: true
 layout: main_page
 ---
 
@@ -41,7 +40,7 @@ Tutto riguardo al cliccare cerchi, colpire tamburi, raccogliere frutta, e suonar
 
 [Modalità di gioco](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficoltà](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Punteggio](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaglie](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Difficoltà](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Mod (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Punteggio](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaglie](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -65,7 +64,7 @@ La classificazione è il processo di ottenere una classifica per una beatmap, ch
 
 [Consegna](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Procedura di classificazione](/wiki/Beatmap_ranking_procedure) • [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved)
 
-[Criteri di classificazione](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Criteri di classificazione](/wiki/Ranking_criteria): [Metadati](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -89,22 +88,24 @@ Le riposte a domande frequenti e le soluzioni per problemi comuni si trovano qui
 
 [Centro aiuto](/wiki/Help_centre) • [Risoluzione problemi di performance](/wiki/Performance_troubleshooting) • [Team di supporto account](/wiki/People/Account_support_team) • [Forum d'aiuto](https://osu.ppy.sh/forum/5)
 
-Restrizioni del profilo: [Silenziamento](/wiki/Silence) • [Restrizioni account](/wiki/Help_centre/Account_restrictions)
+Restrizioni del profilo: [Silenziamenti](/wiki/Help_centre/Silences) • [Restrizioni account](/wiki/Help_centre/Account_restrictions) • [Ban dai tornei](/wiki/Help_centre/Tournament_bans)
 
 Fai la tua parte: [Come e in cosa aiutare](/wiki/Community/How_you_can_help!) • [Segnala comportamenti scorretti](/wiki/Reporting_bad_behaviour) • [Segnala abuso](/wiki/Reporting_bad_behaviour/Abuse) • [Segnala i cheater](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Comunità e progetti
+# [Community](/wiki/Community) e [progetti](/wiki/Community/Projects)
 
 Le interazioni sociali sono una delle cose principali che alimentano i giocatori di osu! in tutto il mondo. Esplora le attività e i concorsi, entra in contatto con altri, o aiuta ad organizzare il prossimo grande evento!
 
 Posti: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Server Discord](/wiki/Community/Discord_servers)
 
-[Tornei](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concorsi](/wiki/Contests) • [Programma di mentorship della comunità](/wiki/Community/Community_Mentorship_Program)
+Iniziative: [Tornei](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concorsi](/wiki/Contests) • [Programma di mentorship della comunità](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved) • [Meeting della community di osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Progetti](/wiki/Community/Projects): [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amate](/wiki/Community/Project_Loved) • [Meeting della community di osu!](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly)
+
+Media: [Musica originale](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Serie di video](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organizzazioni: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
