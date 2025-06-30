@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COEGTS 2025: Registrations Now Open!"
-date: 2025-06-30 09:00:00 +0000
+date: 2025-06-30 20:00:00 +0000
 ---
 
 We invite you to witness the final GTS tournament IRL in the Netherlands!
