@@ -143,32 +143,33 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ### Semifinals
 
+**[Download the mappack here (140 MB)](https://packs.ppy.sh/P291%20-%20osu!catch%20World%20Cup%202025%3A%20Semifinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2499196622?t=4h6m5s)
 
 - No Mod
-  1. *youman feat. GUMI - R.I.P. (Zyzyx, Yoshi\_green) \[Yoshyx's Painful Memory\] (link pending)*
+  1. [youman feat. GUMI - R.I.P. (Zyzyx, Yoshi\_green) \[Yoshyx's Painful Memory\]](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524)
   2. [Jouxl Eterna (JinoBeats) - Resonance of Ice Stalactites (-Ken) \[Absolute Zero\]](https://osu.ppy.sh/beatmapsets/2395295#fruits/5188102)
   3. [USAO - Big Daddy (Cut ver.) (Cruwev) \[showdown\]](https://osu.ppy.sh/beatmapsets/2395283#fruits/5188079)
   4. [MetaHumanBoi - Solar Strike (Daycore) \[Cataclysm (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2343774#osu/5188108)
 - Hidden
-  1. [Marmalade butcher - SUTEGORO (Mniam) \[Alpha Tag Team\]](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955)
+  1. [Marmalade butcher - SUTEGORO (Mniam, Malai) \[Alpha Tag Team\]](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955)
   2. [O-LIFE.JP - Yakujinsama no Couple Dance (Phob) \[I'm not an Angel, Honey\]](https://osu.ppy.sh/beatmapsets/2395303#fruits/5188114)
   3. [COR!S - Xabon (ExGon) \[CWC 2025 Semifinals HD3\]](https://osu.ppy.sh/beatmapsets/2395292#fruits/5188099)
 - Hard Rock
-  1. *FRASER EDWARDS - The Haymaker (-Rustyy) \[Farmin'\] (link pending)*
+  1. [FRASER EDWARDS - The Haymaker (-Rustyy) \[Farmin'\]](https://osu.ppy.sh/beatmapsets/2395387#fruits/5188313)
   2. [cygnus - Sacred Connection (skill issue lol) \[534B4942494449544F494C455452495A5A\]](https://osu.ppy.sh/beatmapsets/2395286#fruits/5188085)
   3. [Xeven - Deglaciation (Zileni) \[Permafrost\]](https://osu.ppy.sh/beatmapsets/2395287#fruits/5188086)
 - Double Time
-  1. *Kano - Dear Brave (Ascendance) \[Resolute Love\] (link pending)*
+  1. [Kano - Dear Brave (Ascendance) \[Resolute Love\]](https://osu.ppy.sh/beatmapsets/2395333#fruits/5188189)
   2. [F-777 - Deadlocked (Yoshi\_green) \[It would seem we have reached an impasse.\]](https://osu.ppy.sh/beatmapsets/2395290#fruits/5188096)
   3. [xi - d e a t h  p i a n o \~for four pianos\~ (Kukkai) \[L I G H T O V E R D O S E\]](https://osu.ppy.sh/beatmapsets/2395291#fruits/5188098)
   4. [Creo - Idolize (Phob) \[Idealize\]](https://osu.ppy.sh/beatmapsets/2395304#fruits/5188115)
 - Mixed Mod
   1. [A-One - Side by Side (Bunnrei) \[Our Native Faith\]](https://osu.ppy.sh/beatmapsets/2395293#fruits/5188100)
-  2. *Zenpaku - Blast+ (feat. DEMONDICE) (autofanboy) \[Momentum+\] (link pending)*
-  3. *Ice - Nostalgia Sonatina Op.3 (Ascendance) \[Ascenzuu's Opus Memoria\] (link pending)*
+  2. [Zenpaku - Blast+ (feat. DEMONDICE) (autofanboy) \[Momentum+\]](https://osu.ppy.sh/beatmapsets/2395319#fruits/5188169)
+  3. [Ice - Nostalgia Sonatina Op.3 (Ascendance, Jemzuu) \[Ascenzuu's Opus Memoria\]](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192)
 - Tiebreaker
-  1. ***celtix - Necrotopia (Spectator, ExGon) \[ExSpec's Afterworld\] (link pending)***
+  1. **[celtix - Necrotopia (Spectator, ExGon) \[ExSpec's Afterworld\]](https://osu.ppy.sh/beatmapsets/2395391#fruits/5188321)**
 
 ### Quarterfinals
 
@@ -295,7 +296,7 @@ Sunday, 29 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Indonesia** ::{ flag=ID }:: | **6** | 4 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/118536756) | [#1](https://www.twitch.tv/videos/2499005113?t=0h4m49s) |
+| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/118536756) | [#1](https://www.twitch.tv/videos/2499005113?t=0h4m49s) |
 | Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/118538200) | [#1](https://www.twitch.tv/videos/2499104106?t=0h5m45s) |
 | **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/118538491) | [#1](https://www.twitch.tv/videos/2499104106?t=1h3m10s) |
 | **Argentina** ::{ flag=AR }:: | **6** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/118538470) | [#1](https://www.twitch.tv/videos/2499151053) |
