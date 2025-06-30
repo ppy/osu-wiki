@@ -8,7 +8,7 @@
 
 ![MOE logo](img/logo.png)
 
-[Сайт](https://moscowosu.events) • [Twitter](https://x.com/moscowosuevent) • [Telegram](https://t.me/moscowosuevent) • [VK](https://vk.com/moscowosuevent) • [Discord](https://discord.gg/EJh4qW6JWz)
+[Сайт](https://moscowosu.events) • [Twitter аккаунт](https://x.com/moscowosuevent) • [Telegram](https://t.me/moscowosuevent) • [VK](https://vk.com/moscowosuevent) • [Discord](https://discord.gg/EJh4qW6JWz)
 
 :::
 
