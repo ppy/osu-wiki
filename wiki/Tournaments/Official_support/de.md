@@ -31,11 +31,11 @@ Gefördert werden von der Community betriebene Turniere, die sich an die folgend
 - Das Turnier muss zumindest als Achtelfinale mit Doppeleliminierungsverfahren oder als Sechzehntelfinale mit Einzelausscheidung betrieben werden.
   - LAN-Turniere müssen mindestens als Viertelfinale mit Doppeleliminierung oder als Achtelfinale mit Einzelausscheidung betrieben werden.
   - Größere Formate, wie beispielsweise Gruppenphasen und das Schweizer System, dürfen eingesetzt werden, solange sie mit mindestens 16 Teams starten und, sofern zutreffend und wenn man nur mit 16 Teams startet, danach zu einem Doppeleliminierungsverfahren übergehen.
-  - Turniere mit einem Auswahl- oder Auktionsformat[^tournament-format] dürfen als Viertelfinale mit Doppeleliminierungsverfahren ausgetragen werden, sofern sie darüber hinaus die folgenden Anforderungen erfüllen:
+  - Turniere mit einem Draft- oder Auktionsformat[^tournament-format] dürfen als Viertelfinale mit Doppeleliminierungsverfahren ausgetragen werden, sofern sie darüber hinaus die folgenden Anforderungen erfüllen:
     - Das Turnier hat keine Beschränkung auf einen bestimmten Rangbereich.
     - Teams bestehen aus 8 und mehr Mitgliedern.
-    - Anmerkung: Bei globalen oder auf bestimmte Kontinente beschränkte Auswahl- und Auktionsturnieren gilt diese Regel für bis zu 2 rangoffene Einteilungen. Für kleinere Turniere gilt diese Regel nur für eine rangoffene Einteilung.
-  - Alternative Maßstäbe und Formate können nach alleinigem Ermessen des Turnierkomitees zugelassen werden. Die Turnierveranstalter sollten [ein Ticket erstellen](https://tcomm.hivie.tn/tickets/create) oder [tournaments@ppy.sh](mailto:tournaments@ppy.sh) kontaktieren, wenn sie eine Turnierunterstützung für ein nicht traditionelles Turnierformat oder eine nicht traditionelle Turniergröße beantragen.
+    - Anmerkung: Bei globalen oder auf bestimmte Kontinente beschränkte Draft- und Auktionsturnieren gilt diese Regel für bis zu 2 rangoffene Einteilungen. Für kleinere Turniere gilt diese Regel nur für eine rangoffene Einteilung.
+  - Alternative Maßstäbe und Formate können nach alleinigem Ermessen des Turnierkomitees zugelassen werden. Die Turnierveranstalter sollten im Voraus [ein Ticket erstellen](https://tcomm.hivie.tn/tickets/create) oder [tournaments@ppy.sh](mailto:tournaments@ppy.sh) kontaktieren, wenn sie eine Turnierunterstützung für ein nicht traditionelles Turnierformat oder eine nicht traditionelle Turniergröße beantragen möchten.
 - Die Forenbeiträge für das Turnier — damit sind auch Forenbeiträge für Vorveranstaltungen gemeint — **MÜSSEN** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://tcomm.hivie.tn/reports/create) als letzten Inhalt des originalen Beitrags haben.
   - `https://tcomm.hivie.tn/reports/create`
   - Über das Meldeformular eingegangene Meldungen werden vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir empfehlen allen Nutzern, Spieler wie Mitarbeiter gleichermaßen, das Formular bei Bedarf zu verwenden. Jegliche Verstöße gegen die [Erwartungen](#erwartungen), die [weiteren Prozesse](#weitere-prozesse) oder die [Zulassungsvoraussetzungen](#anspruch-auf-unterstützung) sollten gemeldet werden.
@@ -49,7 +49,7 @@ Gefördert werden von der Community betriebene Turniere, die sich an die folgend
   - osu!catch: 5.000
   - osu!mania 4K: 40.000
   - osu!mania 7K: 5.000
-  - Dies gilt nicht für Turniere mit offenem Rang.
+  - Dies gilt nur für Turniere mit Rangbeschränkung.
 - Außer für die festgelegten Ausnahmen untersagen die Turnierorganisatoren die Sammlung, die Nennung oder Verwendung personenbezogener Daten[^personal-information] von Teilnehmern für jegliche Zwecke.
   - E-Mail-Adressen dürfen möglicherweise von Turnierorganisatoren erfasst und verwendet werden, solange es für den Turnierbetrieb erforderlich ist.
   - Personenbezogene Daten dürfen möglicherweise gesammelt werden, um gesetzliche, finanzielle oder steuerrechtliche Verpflichtungen zu erfüllen sowie um die Vergabe von Geld- oder Sachpreisen zu ermöglichen.
@@ -309,6 +309,6 @@ Ja! Siehe [Offizielle Beatmapping-Wettbewerbsunterstützung](/wiki/Contests/Offi
 
 ## Anmerkungen
 
-[^tournament-format]: Beim Auswahlformat wählen die Mannschaftsführer abwechselnd die Spieler aus, die sie in ihrem Team haben möchten. Auktionsformat hingegen heißt, dass die Mannschaftsführer Gebote für die Spieler abgeben, wobei der Mannschaftsführer mit dem höchsten Gebot den jeweiligen Spieler für sich gewinnt.
+[^tournament-format]: Beim Draftformat wählen die Mannschaftsführer abwechselnd die Spieler aus, die sie in ihrem Team haben möchten. Auktionsformat hingegen heißt, dass die Mannschaftsführer Gebote für die Spieler abgeben, wobei der Mannschaftsführer mit dem höchsten Gebot den jeweiligen Spieler für sich gewinnt.
 [^play-commence]: Das Spiel "beginnt", sobald die Platzierungen feststehen. Daher können Qualifikationsspiele von dieser Regelung ausgenommen werden.
 [^personal-information]: Personenbezogene Daten sind Informationen, mit denen eine bestimmte Person direkt oder indirekt identifiziert, kontaktiert oder geortet werden kann. Dazu gehören unter anderem E-Mail-Adressen, Personalausweise und Reisepässe.
