@@ -26,7 +26,7 @@ The tournament's detailed schedule and location info, along with all relevant in
 
 This tournament is part of the much larger **[cavoe's osu! event](https://cavoe.events/)**, held at the **[Brabanthallen](https://www.google.com/maps/place/Brabanthallen+'s-Hertogenbosch/@51.70108,5.2877284,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6ee65819003b5:0x91cdd97244523100!8m2!3d51.7010767!4d5.2903033!16s%2Fg%2F121gvb7r)** (Diezekade 2, 5222 AK 's-Hertogenbosch, Netherlands), happening for the whole week, from July 28th to August 3rd.
 
-**Do note that having a ticket to COE during July 31st to August 2nd is mandatory** to play in this tournament. Head over to the [event's website](https://cavoe.events) if you haven't bought years!
+**Do note that having a ticket to COE during July 31st to August 2nd is mandatory** to play in this tournament. Head over to the [event's website](https://cavoe.events) for tickets if you're going!
  
 ## Tournament schedule
 
