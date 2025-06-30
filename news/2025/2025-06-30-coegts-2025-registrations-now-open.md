@@ -32,7 +32,7 @@ This tournament is part of the much larger **[cavoe's osu! event](https://cavoe.
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| Registration phase | June 29 (21:00) – July 13 (23:59) |
+| Registration phase | June 30 (20:00) – July 13 (23:59) |
 | Qualifier showcase | July 13 (15:00) |
 | Qualifier stage | July 14 to June 20 |
 | Qualifier results & main mappool showcase | July 28 (17:00) |
