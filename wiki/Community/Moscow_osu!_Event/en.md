@@ -24,8 +24,7 @@
 
 Until 2023, large-scale osu!-related events were rarely held in Russia. Usually, these were small community meetups of 10–20 people, but many were interested in more significant events.
 
-Inspired by [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event), the `
-*#russian osu cup tournament* teams and the [play-osu.ru](https://play-osu.ru) communities decided in 2023 to organise their own event in Moscow, primarily dedicated to the [osu! game mode](/wiki/Game_mode/osu!). In subsequent iterations, other modes were included as well.
+Inspired by [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event), the "#russian osu! cup" tournament teams and the [play-osu.ru](https://play-osu.ru) communities decided in 2023 to organise their own event in Moscow, primarily dedicated to the [osu! game mode](/wiki/Game_mode/osu!). In subsequent iterations, other modes were included as well.
 
 The event received support from various sponsors who provided prizes, equipment, and souvenirs for participants and guests. For example, the tablet manufacturer [Parblo](https://www.parblo.com/) gave attendees the opportunity to try their products in a drawing contest, and the [play-osu.ru](https://play-osu.ru) booth offered various board games and mini-tournaments for mobile rhythm games such as [Arcaea](https://en.wikipedia.org/wiki/Arcaea) and [Project SEKAI: Colorful Stage](https://en.wikipedia.org/wiki/Hatsune_Miku:_Colorful_Stage!).
 
