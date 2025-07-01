@@ -1740,7 +1740,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kageminori/escape-from-your-childhood-world "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=1NUfVQBYEBw "YouTube") |  | kageminori - escape from your childhood world | [#1](https://osu.ppy.sh/beatmapsets/2377374) | Finals tiebreaker |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/manu_gmr-22/cry-of-the-circuits-nmt-grand-finals-tiebreaker "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://youtu.be/9K-AFAtt8YE "YouTube") |  | Sillot - Cry of the Circuits | [#1](https://osu.ppy.sh/beatmapsets/2381283) | Grand Finals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/manu_gmr-22/cry-of-the-circuits-nmt-grand-finals-tiebreaker "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://youtu.be/9K-AFAtt8YE?si=m_YkY69ViqCfItm5&t=345 "YouTube") |  | Sillot - Cry of the Circuits | [#1](https://osu.ppy.sh/beatmapsets/2381283) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [Nicki's Friendly Tournament 2](https://osu.ppy.sh/community/forums/topics/1942342)
 
