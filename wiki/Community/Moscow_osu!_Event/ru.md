@@ -8,11 +8,11 @@
 
 ![MOE logo](img/logo.png)
 
-[Сайт](https://moscowosu.events) • [Twitter аккаунт](https://x.com/moscowosuevent) • [Telegram](https://t.me/moscowosuevent) • [VK](https://vk.com/moscowosuevent) • [Discord](https://discord.gg/EJh4qW6JWz)
+[Сайт](https://moscowosu.events) • [Твиттер](https://x.com/moscowosuevent) • [Телеграм](https://t.me/moscowosuevent) • [VK](https://vk.com/moscowosuevent) • [Дискорд](https://discord.gg/EJh4qW6JWz)
 
 :::
 
-**Moscow osu! Event** (**MOE**) — ежегодный фестиваль osu!, проводимый в России. Организаторами выступают ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/users/10079847) и ::{ flag=RU }:: [InditaiX](https://osu.ppy.sh/users/8303943). На мероприятии проводятся турниры по всем [игровым режимам](/wiki/Game_mode) для участников из СНГ-сообщества. Гостям доступны игровые компьютеры и BYOC ("Bring Your Own Computer") зона . Также работают тематические и сувенирные стенды.
+**Moscow osu! Event** (**MOE**) — ежегодный фестиваль osu!, проводимый в России. Организаторами выступают ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/users/10079847) и ::{ flag=RU }:: [InditaiX](https://osu.ppy.sh/users/8303943). На мероприятии проводятся турниры по всем [игровым режимам](/wiki/Game_mode) для участников из СНГ-сообщества. Гостям доступны игровые компьютеры и зона BYOC ("Bring Your Own Computer"). Также работают тематические и сувенирные стенды.
 
 ## Итерации
 

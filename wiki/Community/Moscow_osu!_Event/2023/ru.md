@@ -13,10 +13,10 @@ tags:
 ## Ссылки
 
 - **[Сайт](https://moscowosu.events)**
-- [Twitter аккаунт](https://x.com/moscowosuevent)
-- [Telegram](https://t.me/moscowosuevent)
+- [Твиттер](https://x.com/moscowosuevent)
+- [Телеграм](https://t.me/moscowosuevent)
 - [VK](https://vk.com/moscowosuevent)
-- [Discord](https://discord.gg/EJh4qW6JWz)
+- [Дискорд](https://discord.gg/EJh4qW6JWz)
 - [Обсуждение](https://osu.ppy.sh/community/forums/topics/1778473)
 - [Записи трансляции мероприятия (YouTube-плейлист)](https://www.youtube.com/playlist?list=PLOkaDdbVuNyZ4PoDHpsCakj_O1-C5hP7W)
 
