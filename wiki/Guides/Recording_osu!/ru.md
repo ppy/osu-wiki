@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 6b0b7a0efe898ad8e01529a1f413b5bbd7b73bb2
 ---
 
 # Как записать реплей в osu!
