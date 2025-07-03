@@ -128,7 +128,9 @@ The 4 Digit World Cup 2025 was run by various community members.
 
 ## Podium
 
-![](img/podium.png "4WC 2025 podium")
+This competition has come to an end and resulted in the following podium:
+
+![4WC 2025 podium](img/podium.png "4WC 2025 podium")
 
 ## Mappools
 
