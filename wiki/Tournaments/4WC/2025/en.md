@@ -35,6 +35,8 @@ The 4 Digit World Cup 2025 awarded winners with a [community-funded prize pool o
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, animated profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, animated profile banner |
 
+![](img/badge.png "4WC 2025 winner badge")
+
 ## Organisation
 
 The 4 Digit World Cup 2025 was run by various community members.
