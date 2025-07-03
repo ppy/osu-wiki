@@ -13,7 +13,7 @@ tags:
   - clasificaciones
 ---
 
-# Historial de la clasificaciones de osu!catch
+# Historial de las clasificaciones de osu!catch
 
 Lo siguiente es una lista de jugadores que son reconocidos por haber alcanzado el puesto #1 en la [clasificación global](https://osu.ppy.sh/rankings/fruits/performance) de [osu!catch](/wiki/Game_mode/osu!catch).
 
@@ -23,9 +23,9 @@ A lo largo de los años, se usaron tres sistemas diferentes para clasificar a lo
 - [ppv1](/wiki/Performance_points/ppv1) (24 de julio de 2012 - 27 de enero de 2014)
 - [ppv2](/wiki/Performance_points) (27 de enero de 2014 - presente)
 
-Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el puesto #1 en la tabla de clasificación principal que se usaba en ese momento. Las fechas y los números en *cursiva* indican que el jugador correspondiente continúa su reinado como número 1 de osu!catch, ya sea desde el año anterior o hasta el año siguiente.
+Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el puesto #1 en la tabla de clasificación principal que se usaba en ese momento. Las fechas y los números en *cursiva* indican que el jugador correspondiente continúa su reinado como puesto #1 de osu!catch, ya sea desde el año anterior o hasta el año siguiente.
 
-*Nota: osu!catch recibió un reinicio completo de la clasificación global el 7 de diciembre de 2008, por lo que las puntuaciones anteriores a esta fecha ya no están disponibles.*
+*Nota: osu!catch recibió un reinicio completo de la clasificación global el 7 de diciembre de 2008, por lo que las puntuaciones anteriores a esta fecha no están disponibles.*
 
 ## 2014
 
