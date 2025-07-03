@@ -126,6 +126,10 @@ The 4 Digit World Cup 2025 was run by various community members.
 | ::{ flag=US }:: | **United States** | **[BATBALL](https://osu.ppy.sh/users/15173952)**, [hotdog6000](https://osu.ppy.sh/users/9265990), [Tokii](https://osu.ppy.sh/users/9138046), [eddy](https://osu.ppy.sh/users/17917574), [LUNAISTABBY](https://osu.ppy.sh/users/4673649), [toybot](https://osu.ppy.sh/users/2848604), [Uzumaki](https://osu.ppy.sh/users/13310147), [Indiana](https://osu.ppy.sh/users/12967296) |
 | ::{ flag=VN }:: | **Vietnam** | **[Seamie](https://osu.ppy.sh/users/6225096)**, [smthelse](https://osu.ppy.sh/users/13238121), [tomatohung](https://osu.ppy.sh/users/9669947), [xewth](https://osu.ppy.sh/users/15565196), [realshin](https://osu.ppy.sh/users/8006029), [electrostrike](https://osu.ppy.sh/users/11538640), [Fayth](https://osu.ppy.sh/users/3318668), [Tuon](https://osu.ppy.sh/users/6673790) |
 
+## Podium
+
+![](img/podium.png "4WC 2025 podium")
+
 ## Mappools
 
 ### Grand Finals
