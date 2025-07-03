@@ -12,7 +12,7 @@ Se crearon rompecabezas de modding similares por diversión hasta 2015, cuando s
 
 La segunda prueba (creada por [Irreversible](https://osu.ppy.sh/users/1287964) y [Mao](https://osu.ppy.sh/users/2204515)), la tercera prueba (creada por Irreversible, Mao, y [Myxo](https://osu.ppy.sh/users/2202645)), y la cuarta prueba (creada por Irreversible y Mao) se diseñaron como distribuciones completas de beatmaps. Su objetivo era dar la impresión de estar modeando un beatmap real.
 
-Estas pruebas prácticas de modding se usaron para ayudar a determinar los nuevos Beatmap Nominators hasta 2017, cuando se dejaron de realizar debido a la preocupación por las trampas. Después de 2017, las nuevas incorporaciones a los BN se gestionaron mediante el juicio subjetivo del [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) y luego del NAT.
+Estas pruebas prácticas de modding se usaron para ayudar a determinar los nuevos Beatmap Nominators hasta 2017, cuando se dejaron de realizar debido a la preocupación por las trampas. Después de 2017, las nuevas incorporaciones a los BN se gestionaron mediante el juicio subjetivo del [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) y, posteriormente, del NAT.
 
 ## Estructura de la última prueba
 
