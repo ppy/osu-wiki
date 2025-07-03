@@ -1,20 +1,20 @@
 # How to record videos of osu!
 
-*See also: [Livestreaming osu!](/wiki/en/Guides/Livestreaming_osu!)*
+*See also: [Livestreaming osu!](/wiki/Guides/Livestreaming_osu!)*
 
 While there are countless ways to **record videos of osu!**, this guide will cover one of the simplest options using [OBS Studio](https://obsproject.com/).
 
 ## Settings
 
-### Auto-Configuration wizard
+### Auto-configuration wizard
 
-When you launch OBS Studio for the first time, the auto-configuration wizard will open. 
+When you launch OBS Studio for the first time, the auto-configuration wizard will open.
 
 On the `Usage Information` screen, choose `Optimize for recording, streaming is secondary` and click `Next`.
 
 ![Usage Information](img/recording_osu_1.png)
 
-On the `Video Settings` screen, set `Base (Canvas) Reesolution` to your monitor's native resolution, and set `FPS` to `60`. You can also use `Either 60 or 30, but prefer 60 when possible`, but if your computer struggles to maintain 60 FPS, you likely will struggle to record high quality osu! videos.
+On the `Video Settings` screen, set `Base (Canvas) Reesolution` to your monitor's native resolution, and set `FPS` to `60`. You can also use `Either 60 or 30, but prefer 60 when possible`, but if your computer struggles to maintain 60 FPS, you likely will struggle to record high-quality osu! videos.
 
 ![Video Settings](img/recording_osu_2.png)
 
@@ -30,15 +30,15 @@ Screen recording is a balance of performance and output quality. While this depe
 
 - `Video Encoder` has a big impact on performance and output quality. Experiment with these to see which works best for your setup.
 - `Bitrate` loosely equates to recording quality. Setting this number higher will make output quality higher and increase performance strain.
-- If your recording settings are more intense than your computer can handle, a warning will be shown in the bottom left of OBS Studio. In this case, you'll also likely be able to see lag during video playback.
+- If your recording settings are more intense than your computer can handle, a warning will be shown in the bottom left of OBS Studio. In this case, you will also likely be able to see lag during video playback.
 
-![Video Settings](img/recording_osu_3.png "As a point of reference, these are the settings used for videos on the osu! Youtube channel")
+![Video Settings](img/recording_osu_3.png "As a point of reference, these are the settings used for videos on the osu! YouTube channel")
 
 ## Recording
 
-On OBS Studio's main screen, you'll see a `Scenes` box and a `Sources` box. Any scene can be composed of multiple sources, but for the sake of this tutorial, only one source will be added: your osu! window.
+On OBS Studio's main screen, you will see a `Scenes` box and a `Sources` box. Any scene can be composed of multiple sources, but for the sake of this tutorial, only one source will be added: your osu! window.
 
-An empty scene is created by default. To add to the scene, click the `+` icon in the `Sources` section, then select `Game Capture`. You can also use `Display Capture`, but this can cause latency issues, so it's not recommended.
+An empty scene is created by default. To add to the scene, click the `+` icon in the `Sources` section, then select `Game Capture`. You can also use `Display Capture`, but this can cause latency issues, so it is not recommended.
 
 ![Scenes and Sources](img/recording_osu_4.png)
 
@@ -51,7 +51,7 @@ If you see a black box instead of osu! in the preview window, right click the `G
 
 ![OBS fully set up](img/recording_osu_5.png)
 
-If your goal is to only record osu! gameplay, you'll likely want to mute the `Mic/Aux` section of the `Audio Mixer` by clicking the sound icon.
+If your goal is to only record osu! gameplay, you likely want to mute the `Mic/Aux` section of the `Audio Mixer` by clicking the sound icon.
 
 ![OBS fully set up](img/recording_osu_6.png)
 
