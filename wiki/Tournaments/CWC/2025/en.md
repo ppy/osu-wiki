@@ -121,7 +121,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 | Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Jul 05 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T130000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=CA }:: Canada | [Jul 05 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T180000&p1=1440&p2=166&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | France ::{ flag=FR }:: | ::{ flag=PE }:: Peru | [Jul 05 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T200000&p1=1440&p2=195&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Semifinals | showmatch | []() | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 6 July 2025
 
