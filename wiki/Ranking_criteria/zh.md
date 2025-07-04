@@ -1,3 +1,7 @@
+---
+no_native_review_since: 87c9697adc8f512867e6ef82373580a61a39275d YumeMuzi
+---
+
 # 谱面上架标准 (RC)
 
 这篇文章列出了[谱面](/wiki/Beatmap)在通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)时必须遵守的规定和准则。
