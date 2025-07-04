@@ -1,6 +1,6 @@
 # Puntos de los concursos
 
-Los puntos de los concursos son puntos que se usan como recompensa en los concursos de mapping oficiales. Se usan principalmente para determinar la elegibilidad de un usuario para recibir el título de *Elite Mapper*, que se concede a los usuarios que han alcanzado **6 puntos**.
+Los **puntos de los concursos** son puntos que se usan como recompensa en los concursos de mapping oficiales. Se usan principalmente para determinar la elegibilidad de un usuario para recibir el título de *Elite Mapper*, que se concede a los usuarios que han alcanzado **6 puntos**.
 
 Los puntos de los concursos también pueden concederse como beneficio del [soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) bajo [ciertas circunstancias](/wiki/Contests/Official_support#elegibilidad).
 
