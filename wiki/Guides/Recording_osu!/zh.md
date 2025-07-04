@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 6b0b7a0efe898ad8e01529a1f413b5bbd7b73bb2
----
-
 # 如何录制 osu! 的视频
 
 [想要用 Virtualdub 替代 Sony Vegas 吗？点击这里！](https://osu.ppy.sh/community/forums/posts/252802)
