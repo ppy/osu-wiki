@@ -162,9 +162,11 @@ Would you mind telling us a bit about your experience/history on osu! making art
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/15851364">Creameries</a></p>
 
-I started making art for osu in 2020, in which I joined the Theme Park contest with the help of my older brother. After the results, I became interested in participatin in all of them. I actually remember telling my friends that I want to win the art contest so that I could be a part of the osu! team, but the more I saw the kind of illustration projects the more I felt a bit demotivated. Though my mind changed slightly when I participated in the Beach Episode, Halloween 2024 and A Place To Belong when a bunch of people came to me and said "Hey! Your art is good!". Some of them has been used for backgrounds, in which back in 2020, a friend of mine asked if I could draw a background for Stargazer, [in which I agreed](https://osu.ppy.sh/beatmapsets/1251737#osu/2601733). Still, I felt really hesitant on being someone's illustrator.
+I started making art for osu in 2020, in which I joined the Theme Park contest with the help of my older brother. After the results, I became interested in participatin in all of them. I actually remember telling my friends that I want to win the art contest so that I could be a part of the osu! team, but the more I saw the kind of illustration projects the more I felt a bit demotivated. Though my mind changed slightly when I participated in the Beach Episode, Halloween 2024 and A Place To Belong when a bunch of people came to me and said "Hey! Your art is good!". Some of them has been used for backgrounds, in which back in 2020, a friend of mine asked if I could draw a background for Stargazer, in which I agreed (https://osu.ppy.sh/beatmapsets/1251737#osu/2601733). Still, I felt really hesitant on being someone's illustrator.
 
 Most of my "contributions" in osu! has primarily been in the contests. Even my first skin was made for the Chromatic Aberration contest.
+
+Though in 2024, I was lucky enough to be picked as an illustrator for some tournaments, mainly Perrenial (Sydosys - Coriolis) Battle of The Box (What's Up? Pop) and Suiji Cup's Grandfinals Tiebreaker (Eureka)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
