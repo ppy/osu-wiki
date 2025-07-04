@@ -10,6 +10,8 @@ tags:
   - tabla de clasificación
   - rango 1
   - clasificaciones
+outdated_translation: true
+outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 ---
 
 # Historial de las clasificaciones en línea
