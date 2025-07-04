@@ -46,14 +46,6 @@ This week, it is not one but two [osu! originals](/wiki/osu!_originals) that mad
 
 The first one to be showcased was [Heliosphere](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897) by [Vorso](https://osu.ppy.sh/beatmaps/artists/303), slotted in as the No Mod 3. [wwwww](https://osu.ppy.sh/users/8434466) was unsurprisingly the one behind the map itself, his unorthodox style aligning perfectly with Vorso's hectic track. The result is an intense gimmick pick featuring high-density sections, tricky sliders, harsh snaps, and complex rhythms. Go play it, it's a blast.
 
-[![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/Symholic_Banner.jpg)](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767)
-
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/130/Songs/Symholic_feat._Rina_Komatsu_-_Veil_of_Ash.mp3">
-    </audio>
-</div>
-
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/1a8kmvlpSj4" frameborder="0" allowfullscreen></iframe>
 </div>
