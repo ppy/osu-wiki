@@ -111,11 +111,11 @@ Contributors are encouraged to fix broken links while updating articles. That sa
 
 *See also: [Article styling criteria/Formatting § Outdated translations](/wiki/Article_styling_criteria/Formatting#outdated-translations) and [Article styling criteria/Writing § Content parity](/wiki/Article_styling_criteria/Writing#content-parity)*
 
-Not marking translations as outdated after the merge may be done for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
+Translations do not need to be marked as outdated for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article. In these cases, the automatic step of marking translations as outdated can be bypassed.
 
 To do so, specify which files or articles should **not** be outdated by adding one or several instructions below to the description of a pull request, each on a separate line. The following formats are supported:
 
-| Format example | Meaning |
+| Instruction | Meaning |
 | :-- | :-- |
 | `DO_NOT_OUTDATE: wiki/Path/To/Article/es.md` | Skip one translation. |
 | `DO_NOT_OUTDATE: wiki/Article` | Skip all translations of `Article`. |

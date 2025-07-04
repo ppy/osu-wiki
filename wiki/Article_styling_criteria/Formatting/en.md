@@ -91,7 +91,7 @@ When outdating translations, they must also receive an `outdated_since` tag that
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
 ```
 
-This is done automatically after a change is merged. For skipping outdating some of the translations, see [osu! wiki maintenance § Outdated translations](/wiki/osu!_wiki/Maintenance#outdated-translations).
+These tags are added automatically after a change is merged, which can also be [bypassed for translations that do not need them](/wiki/osu!_wiki/Maintenance#outdated-translations).
 
 ### Tagging articles
 
