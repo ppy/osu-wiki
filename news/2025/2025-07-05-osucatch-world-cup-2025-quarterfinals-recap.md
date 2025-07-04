@@ -44,7 +44,7 @@ This week, not one but two [osu! originals](/wiki/osu!_originals) made their app
     </audio>
 </div>
 
-The first one to be showcased was [Heliosphere](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897) by [Vorso](https://osu.ppy.sh/beatmaps/artists/303), slotted in as the No Mod 3. [wwwww](https://osu.ppy.sh/users/8434466) was unsurprisingly the mapper behind it, his unorthodox style aligning perfectly with Vorso's hectic track. The result is an intense gimmick pick featuring high-density sections, tricky sliders, harsh snaps, and complex rhythms. Go play it—it's a blast.
+The first one to be showcased was [Heliosphere](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897) by [Vorso](https://osu.ppy.sh/beatmaps/artists/303), slotted in as the No Mod 3. [wwwww](https://osu.ppy.sh/users/8434466) was unsurprisingly the mapper behind it, his unorthodox style aligning perfectly with Vorso's hectic track. The result is an intense gimmick pick featuring high-density sections, tricky sliders, harsh snaps, and complex rhythms. Go play it — it's a blast.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/1a8kmvlpSj4" frameborder="0" allowfullscreen></iframe>
