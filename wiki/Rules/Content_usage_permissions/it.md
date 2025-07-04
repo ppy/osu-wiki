@@ -448,7 +448,7 @@ Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https:
 | Hatsuki Yura | ![][false] |
 | Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## Visuale

@@ -452,7 +452,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때는 창�
 | Hatsuki Yura | ![][false] |
 | Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## 시각물
