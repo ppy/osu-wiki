@@ -28,7 +28,7 @@ The stakes are ever higher as we now find ourselves in the midst of the tourname
 
 This week's mappool brought yet another challenging and loaded selection of custom maps, designed to push players to their limits. As usual, this round features contributions from several familar names in the mapping scene, each bringing their own styles and creativity to this stage of the tournament.
 
-The first map to be introduced was [Camellia feat. Nanahira - Shakunetsu Candle Master](https://osu.ppy.sh/beatmapsets/2391746#fruits/5177625) (NM1), mapped by a collaboration between [Mochi -](https://osu.ppy.sh/users/20424806) and [Kukkai](https://osu.ppy.sh/users/7811952). Serving as this round's consistency pick, it was the first map of the tournament to stand above 7 stars, setting the tone for what players could expect moving forward as we get to the later stages of the tournament. Another standout was [BilliumMoto - LINK[INIT]](https://osu.ppy.sh/beatmapsets/2391752#fruits/5177635) (HD3), being [sololiquy](https://osu.ppy.sh/users/4350087)'s first appearance this edition, delivering a high-AR Hidden challenge that focused on both precision and control. 
+The first map to be introduced was [Camellia feat. Nanahira - Shakunetsu Candle Master](https://osu.ppy.sh/beatmapsets/2391746#fruits/5177625) (NM1), mapped by a collaboration between [Mochi -](https://osu.ppy.sh/users/20424806) and [Kukkai](https://osu.ppy.sh/users/7811952). Serving as this round's consistency pick, it was the first map of the tournament to stand above 7 stars, setting the tone for what players could expect moving forward as we get to the later stages of the tournament. Another standout was [BilliumMoto - LINK[INIT]](https://osu.ppy.sh/beatmapsets/2391752#fruits/5177635) (HD3), being [sololiquy](https://osu.ppy.sh/users/4350087)'s first appearance this edition, delivering a high-AR Hidden challenge that focused on both precision and control.
 
 We also had a throwback to a previous edition with [Spectator](https://osu.ppy.sh/users/702598)'s [Lone Digger](https://osu.ppy.sh/beatmapsets/2391931#fruits/5178116), very similar to a previous map of his from CWC 2021, [Dragons](https://osu.ppy.sh/beatmapsets/1464027#fruits/3007191), but this time with Hidden. And once again, [wwwww](https://osu.ppy.sh/beatmapsets/2391796#fruits/5177786) was back with a classic Culprate map in [Lightfold](https://osu.ppy.sh/beatmapsets/2391796#fruits/5177786), being the first one this year compared to last year's three.
 
@@ -58,7 +58,7 @@ The first one to be showcased was [Heliosphere](https://osu.ppy.sh/beatmapsets/2
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/1a8kmvlpSj4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The biggest project of the week was for the tiebreaker, with [Symholic](https://osu.ppy.sh/beatmaps/artists/130) delivering us a five-and-a-half minutes long symphonic rock track in [Veil of Ash](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767), featuring Rina Komatsu. The map by [Yoshi_green](https://osu.ppy.sh/users/1035891) features fairly conventional patterning, but ends up as a very mechanically demanding marathon due to the intensity of the track. Many people were involved in this project, so check out the end result by clicking on the video above! 
+The biggest project of the week was for the tiebreaker, with [Symholic](https://osu.ppy.sh/beatmaps/artists/130) delivering us a five-and-a-half minutes long symphonic rock track in [Veil of Ash](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767), featuring Rina Komatsu. The map by [Yoshi_green](https://osu.ppy.sh/users/1035891) features fairly conventional patterning, but ends up as a very mechanically demanding marathon due to the intensity of the track. Many people were involved in this project, so check out the end result by clicking on the video above!
 
 ## Quarterfinals summary
 
@@ -118,11 +118,11 @@ This year, the Russian Federation (#3) and Finland (#6) are two teams with both 
 
 Following that logic, Finland would go for [DT3](https://osu.ppy.sh/beatmapsets/2391758#fruits/5177654) and [NM3](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897), with a very impressive SS from ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098) on the latter, and the Russian Federation would go for [HR2](https://osu.ppy.sh/beatmapsets/2391847#fruits/5177925), with each winning on their own picks. However, despite their performances, the Russian players would be met with their first obstacle of the match on [HR1](https://osu.ppy.sh/beatmapsets/2391789#fruits/5177759), losing their own consistency gamble against a very consistent Finland roster, with ::{ flag=FI }:: [Leinou](https://osu.ppy.sh/beatmapsets/2391789#fruits/5177759) securing the SS this time. The Russian Federation wanted to go for the raw mechanics and consistency, but their opponent was feeling just as good as them on these maps.
 
-The same happened after a successful [MM1](https://osu.ppy.sh/beatmapsets/2391780#fruits/5177728) pick from Finland, as the Russian Federation ended up losing on [NM1](https://osu.ppy.sh/beatmapsets/2391746#fruits/5177625) against a double FC from ::{ flag=FI }:: [JonZku](https://osu.ppy.sh/users/12740132) and ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098) once again, despite ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)'s own FC. The Russian Federation managed to claw back to 3—5 with strong performances on [DT3](https://osu.ppy.sh/beatmapsets/2391770#fruits/5177673) and [DT1](https://osu.ppy.sh/beatmapsets/2393172#fruits/5181836), but Finland only had to win one point to close out the match, which would happen on [HD3](https://osu.ppy.sh/beatmapsets/2391752#fruits/5177635). 
+The same happened after a successful [MM1](https://osu.ppy.sh/beatmapsets/2391780#fruits/5177728) pick from Finland, as the Russian Federation ended up losing on [NM1](https://osu.ppy.sh/beatmapsets/2391746#fruits/5177625) against a double FC from ::{ flag=FI }:: [JonZku](https://osu.ppy.sh/users/12740132) and ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098) once again, despite ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)'s own FC. The Russian Federation managed to claw back to 3—5 with strong performances on [DT3](https://osu.ppy.sh/beatmapsets/2391770#fruits/5177673) and [DT1](https://osu.ppy.sh/beatmapsets/2393172#fruits/5181836), but Finland only had to win one point to close out the match, which would happen on [HD3](https://osu.ppy.sh/beatmapsets/2391752#fruits/5177635).
 
 Despite solid performances from the Russian Federation, Finland managed to win thanks to their consistency and ability to perform on all mod pools, upsetting the third seed. They will continue their run in the winners' bracket, where even greater challenges await them, while the Russian Federation will have to fight to stay in the tournament in the losers' bracket.
 
-## Interview 
+## Artist interview
 
 <style>
     .news-chat-quote__avatar {
@@ -146,7 +146,15 @@ Despite solid performances from the Russian Federation, Finland managed to win t
         color: #FFFFFF;
     }
 
+    .news-chat-quote__colour-lvd {
+        color: #FFD1DC;
+    }
+
 </style>
+
+::{#creameries}::
+
+![Creameries' previous artwork](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/Creameries.png)
 
 This week, we got to ask a couple of questions to [Creameries](https://osu.ppy.sh/users/15851364), who worked as the illustrator for one of this week's [osu! originals](/wiki/osu!_originals), [Heliosphere](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897).
 
@@ -154,7 +162,7 @@ This week, we got to ask a couple of questions to [Creameries](https://osu.ppy.s
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Would you mind telling us a bit about your experience/history on osu! making art?
 
@@ -162,15 +170,17 @@ Would you mind telling us a bit about your experience/history on osu! making art
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/15851364">Creameries</a></p>
 
-I started making art for osu in 2020, in which I joined the Theme Park contest with the help of my older brother. After the results, I became interested in participatin in all of them. I actually remember telling my friends that I want to win the art contest so that I could be a part of the osu! team, but the more I saw the kind of illustration projects the more I felt a bit demotivated. Though my mind changed slightly when I participated in the Beach Episode, Halloween 2024 and A Place To Belong when a bunch of people came to me and said "Hey! Your art is good!". Some of them has been used for backgrounds, in which back in 2020, a friend of mine asked if I could draw a background for Stargazer, in which I agreed (https://osu.ppy.sh/beatmapsets/1251737#osu/2601733). Still, I felt really hesitant on being someone's illustrator.
+I started making art for osu in 2020, in which I joined the [Theme Park](https://osu.ppy.sh/community/contests/107) contest with the help of my older brother. After the results, I became interested in participating in all of them. I actually remember telling my friends that I want to win the art contest so that I could be a part of the osu! team, but the more I saw the kind of illustration projects the more I felt a bit demotivated. Though my mind changed slightly when I participated in the [Beach Episode](https://osu.ppy.sh/community/contests/179), [Autumn 2024](https://osu.ppy.sh/community/contests/221) and [A Place to Belong](https://osu.ppy.sh/community/contests/142) when a bunch of people came to me and said "Hey! Your art is good!". Some of them has been used for backgrounds, in which back in 2020, a friend of mine asked if I could draw a background for [Stargazer](https://osu.ppy.sh/beatmapsets/1251737#osu/2601733), in which I agreed. Still, I felt really hesitant on being someone's illustrator.
 
-Most of my "contributions" in osu! has primarily been in the contests. Even my first skin was made for the Chromatic Aberration contest.
+Most of my "contributions" in osu! has primarily been in the contests. Even my [first skin](https://osu.ppy.sh/community/forums/topics/1632482) was made for the [Chromatic Alteration](https://osu.ppy.sh/community/contests/148) contest.
 
-Though in 2024, I was lucky enough to be picked as an illustrator for some tournaments, mainly Perrenial (Sydosys - Coriolis) Battle of The Box (What's Up? Pop) and Suiji Cup's Grandfinals Tiebreaker (Eureka)
+Though in 2024, I was lucky enough to be picked as an illustrator for some tournaments, mainly [Perrenial](https://osu.ppy.sh/community/forums/topics/1924994) ([Sydosys - Coriolis](https://osu.ppy.sh/beatmapsets/2202795)) [Battle of The Box](https://osu.ppy.sh/community/forums/topics/1862856) ([What's Up? Pop](https://osu.ppy.sh/beatmapsets/2134391)) and [Suiji Cup](https://osu.ppy.sh/community/forums/topics/1907817)'s Grandfinals Tiebreaker ([Evreka](https://osu.ppy.sh/beatmapsets/2203192))
+
+![Creameries' previous artwork](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/Creameries-artwork.png)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/avatars/Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 What was it like working on the *Heliosphere* beatmap project, and how does it compare to your solo works or art collabs?
 
@@ -178,13 +188,13 @@ What was it like working on the *Heliosphere* beatmap project, and how does it c
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/15851364">Creameries</a></p>
 
-Working on Heliosphere as my first official osu! project was exhilarating. I was so excited, I wanted to give out my best. I actually talked about what I felt in my [Twitter](https://fxtwitter.com/Creameliux/status/1937387556251009377?t=jOLX5jVW_RYj5UTjd3YV0Q&s=19). The process is similar to my past projects, but with a bit of pressure since more eyes would be on it. It's kinda scary, but it was fun!
+Working on Heliosphere as my first official osu! project was exhilarating. I was so excited, I wanted to give out my best. I actually talked about what I felt in my [Twitter](https://twitter.com/Creameliux/status/1805461439257395364). The process is similar to my past projects, but with a bit of pressure since more eyes would be on it. It's kinda scary, but it was fun!
 
 </div>
 
 ---
 
-Only 12 teams remain in the upcoming Semifinals, which will see another 6 teams eliminated. We are approaching the endgame, and only the strongest competitors will be able to keep going. 
+Only 12 teams remain in the upcoming Semifinals, which will see another 6 teams eliminated. We are approaching the endgame, and only the strongest competitors will be able to keep going.
 
 Tons of exciting matches are on the way, so be sure to visit the [CWC wiki page](/wiki/Tournaments/CWC/2025) to keep track of the action happening over at [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2). See you there!
 
