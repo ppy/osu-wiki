@@ -21,7 +21,7 @@ The stakes are ever higher as we now find ourselves in the midst of the tourname
 **[Download the pool here! (186 MB)](https://osu.ppy.sh/beatmaps/packs/P290)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2499196622?t=4h6m5s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2492992095&t=3h12m51s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/cwc-2025-qf-mappool.png)
@@ -36,7 +36,7 @@ We also had a throwback to a previous edition with [Spectator](https://osu.ppy.s
 
 This week, it is not one but two [osu! originals](/wiki/osu!_originals) that made their appearance in the mappool!
 
-[![](/wiki/shared/news/2025-06-27-osucatch-world-cup-2025-round-of-16-recap/Heliosphere_banner.png)](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897)
+[![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/Heliosphere_banner.png)](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -46,7 +46,7 @@ This week, it is not one but two [osu! originals](/wiki/osu!_originals) that mad
 
 The first one to be showcased was [Heliosphere](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897) by [Vorso](https://osu.ppy.sh/beatmaps/artists/303), slotted in as the No Mod 3. [wwwww](https://osu.ppy.sh/users/8434466) was unsurprisingly the one behind the map itself, his unorthodox style aligning perfectly with Vorso's hectic track. The result is an intense gimmick pick featuring high-density sections, tricky sliders, harsh snaps, and complex rhythms. Go play it, it's a blast.
 
-[![](/wiki/shared/news/2025-06-27-osucatch-world-cup-2025-round-of-16-recap/banner.png)](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767)
+[![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/Symholic_banner.jpg)](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -148,10 +148,6 @@ Despite solid performances from the Russian Federation, Finland managed to win t
 
 </style>
 
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bjGpEYODFuc" frameborder="0" allowfullscreen></iframe>
-</div>
-
 This week, we got to ask a couple of questions to [Creameries](https://osu.ppy.sh/users/15851364), who worked as the illustrator for one of this week's [osu! originals](/wiki/osu!_originals), [Heliosphere](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897).
 
 <div class="news-chat-quote__text-container">
@@ -181,6 +177,8 @@ What was it like working on the *Heliosphere* beatmap project, and how does it c
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/15851364">Creameries</a></p>
 
 Working on Heliosphere as my first official osu! project was exhilarating. I was so excited, I wanted to give out my best. I actually talked about what I felt in my [Twitter](https://fxtwitter.com/Creameliux/status/1937387556251009377?t=jOLX5jVW_RYj5UTjd3YV0Q&s=19). The process is similar to my past projects, but with a bit of pressure since more eyes would be on it. It's kinda scary, but it was fun!
+
+</div>
 
 ---
 
