@@ -1,24 +1,28 @@
-# Contest points
+---
+no_native_review: true
+---
 
-**Contest points** are points that are used as a reward in official mapping contests. They are mainly used to determine the eligibility of a user to receive the *Elite Mapper* title, which is awarded to users who have reached **6 points**.
+# Poin kontes
 
-Contest points can also be granted as a benefit of [official beatmapping contest support](/wiki/Contests/Official_support) under [certain circumstances](/wiki/Contests/Official_support#eligibility).
+**Poin kontes** merupakan poin yang diberikan sebagai hadiah dalam kontes mapping resmi. Poin ini pada umumnya digunakan untuk menentukan apakah seorang pengguna layak untuk memperoleh gelar *Elite Mapper*, yang diberikan kepada pengguna yang telah mengumpulkan **6 poin**.
 
-## Points key
+Poin kontes juga dapat diperoleh dari kontes mapping yang [didukung secara resmi](/wiki/Contests/Official_support) dalam [situasi tertentu](/wiki/Contests/Official_support#eligibility).
 
-For solo contests, contest points are based on how many valid submissions are created. These are the general guidelines for point distribution, and exceptions may be granted on a case-by-case basis at the discretion of the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) when requesting official beatmapping contest support.
+## Rincian poin
 
-| # of submissions | 1st-place points | 2nd-place points | 3rd-place points |
+Untuk kontes individu, poin yang diberikan per kontesnya akan didasarkan pada jumlah submisi yang valid. Pemberian poin ini pada umumnya akan mengikuti pedoman berikut, di mana pengecualian dapat diberikan secara kasus per kasus oleh [Komite Kontes](/wiki/People/Tournament_Committee#contest-committee) pada saat mengajukan dukungan kontes resmi.
+
+| # submisi | Poin untuk juara pertama | Poin untuk juara kedua | Poin untuk juara ketiga |
 | :-- | :-- | :-- | :-- |
 | 10–19 | 1 | 0 | 0 |
 | 20–39 | 2 | 1 | 0 |
 | 40+ | 3 | 2 | 1 |
 
-For team contests, elite mapper points will be evaluated on a case-by-case basis depending on team sizes, creative requirements, and total valid submissions.
+Untuk kontes beregu, poin yang diberikan per kontesnya akan ditinjau secara kasus per kasus berdasarkan ukuran tim, persyaratan kreatif, dan jumlah submisi yang valid.
 
-## Previous contests
+## Kontes terdahulu
 
-Contest points have been used in the following contests:
+Poin kontes telah digunakan pada berbagai kontes berikut:
 
 - [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (MBC)
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) (o!tFAC)
@@ -28,11 +32,11 @@ Contest points have been used in the following contests:
 - [osu!taiko Mapping World Cup](/wiki/Contests/TMWC) (TMWC)
 - [Pending Cup 2024](/wiki/Contests/PDC/2024) (PDC 2024)
 
-## Leaderboard
+## Papan peringkat
 
 ### osu!
 
-| User | Points | Contests |
+| Pengguna | Poin | Kontes |
 | :-- | :-- | :-- |
 | ::{ flag=RU }:: [**xbopost**](https://osu.ppy.sh/users/6842421) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [**kuyusu**](https://osu.ppy.sh/users/11758667) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -88,7 +92,7 @@ Contest points have been used in the following contests:
 
 ### osu!taiko
 
-| User | Points | Contests |
+| Pengguna | Poin | Kontes |
 | :-- | :-- | :-- |
 | ::{ flag=JP }:: [**uone**](https://osu.ppy.sh/users/5321719) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [TMWC](/wiki/Contests/TMWC) (2), [VMC2](/wiki/Contests/VMC/2) (1) |
 | ::{ flag=JP }:: [**-Kazuha**](https://osu.ppy.sh/users/29978316) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [TMWC](/wiki/Contests/TMWC) (2) |
@@ -119,7 +123,7 @@ Contest points have been used in the following contests:
 
 ### osu!catch
 
-| User | Points | Contests |
+| Pengguna | Poin | Kontes |
 | :-- | :-- | :-- |
 | ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [**Jemzuu**](https://osu.ppy.sh/users/7890134) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
@@ -138,11 +142,11 @@ Contest points have been used in the following contests:
 
 ### osu!mania
 
-| User | Points | Contests |
+| Pengguna | Poin | Kontes |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (7), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
-| ::{ flag=AU }:: [**oct4**](https://osu.ppy.sh/users/10303887) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -160,8 +164,8 @@ Contest points have been used in the following contests:
 | ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
-## History
+## Sejarah
 
-Prior to October 2022, contest points were exclusive to the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and were named *MBC points*. With the introduction of the [osu!taiko Featured Artist Cup #3](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the points were renamed to *contest points* and have been repurposed to be used in other official mapping contests in order to provide a streamlined path to the *Elite Mapper* title.
+Sebelum bulan Oktober 2022, poin kontes merupakan sesuatu yang khusus digunakan pada [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) dengan nama *poin MBC*. Dengan hadirnya [osu!taiko Featured Artist Cup #3](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), poin ini kemudian dinamai ulang sebagai *poin kontes* dan juga ikut diberikan pada kontes mapping resmi lainnya demi menyediakan jalur yang lebih terstruktur ke gelar *Elite Mapper*.
 
-As of January 2023, contest point eligibility has been outlined based on the [points key](#points-key). Points earned prior to this change will not be adjusted.
+Per bulan Januari 2023, persyaratan untuk memperoleh kontes poin mulai ditetapkan secara baku sebagaimana yang tertera pada [rincian poin](#rincian-poin). Poin yang telah diperoleh sebelum persyaratan ini diterapkan tidak akan disesuaikan lebih lanjut.

@@ -450,7 +450,7 @@ Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
 | Hatsuki Yura | ![][false] |
 | Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## Visuell
