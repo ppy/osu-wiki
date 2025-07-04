@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!catch World Cup 2025: Quarterfinals Recap"
-date: 2025-08-04 00:00:00 +0000
+date: 2025-07-05 00:00:00 +0000
 ---
 
 With this year's Quarterfinals behind us, only the most resilient teams remain in their march for glory.
 
-![](/wiki/shared/news/2025-08-04-osucatch-world-cup-2025-quarterfinals-recap/banner.jpg)
+![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/banner.png)
 
 The stakes are ever higher as we now find ourselves in the midst of the tournament's most critical point. With tensions rising, the teams must rise even higher to meet the challenge. Read on to see how it all played out last weekend!
 
@@ -24,7 +24,7 @@ The stakes are ever higher as we now find ourselves in the midst of the tourname
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2499196622?t=4h6m5s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-08-04-osucatch-world-cup-2025-quarterfinals-recap/cwc-2025-qf-mappool.png)
+![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/cwc-2025-qf-mappool.png)
 
 This week's mappool brought yet another challenging and loaded selection of custom maps, designed to push players to their limits. As usual, this round features contributions from several familar names in the mapping scene, each bringing their own styles and creativity to this stage of the tournament.
 
@@ -40,7 +40,7 @@ This week, it is not one but two [osu! originals](/wiki/osu!_originals) that mad
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/303/Songs/Vorso - Heliosphere.mp3">
+        <source src="https://assets.ppy.sh/artists/303/Songs/Vorso_-_Heliosphere.mp3">
     </audio>
 </div>
 
@@ -50,7 +50,7 @@ The first one to be showcased was [Heliosphere](https://osu.ppy.sh/beatmapsets/2
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/130/Songs/Sympholic feat. Rina Komatsu - Veil of Ash.mp3">
+        <source src="https://assets.ppy.sh/artists/130/Songs/Symholic_feat._Rina_Komatsu_-_Veil_of_Ash.mp3">
     </audio>
 </div>
 
