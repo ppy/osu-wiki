@@ -146,7 +146,7 @@ Despite solid performances from the Russian Federation, Finland managed to win t
 
 ::{#creameries}::
 
-![Creameries' previous artwork](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/Creameries.png)
+![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/Creameries.png)
 
 This week, we got to ask a couple of questions to [Creameries](https://osu.ppy.sh/users/15851364), who worked as the illustrator for one of this week's [osu! originals](/wiki/osu!_originals), [Heliosphere](https://osu.ppy.sh/beatmapsets/2391836#fruits/5177897).
 
