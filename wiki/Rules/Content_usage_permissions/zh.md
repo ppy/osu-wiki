@@ -450,7 +450,7 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | Hatsuki Yura | ![][false] |
 | Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## 视觉内容

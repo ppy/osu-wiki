@@ -118,10 +118,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Jul 05 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T140000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Argentina ::{ flag=AR }:: | ::{ flag=FI }:: Finland | [Jul 05 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T153000&p1=1440&p2=51&p3=101) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Jul 05 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T170000&p1=1440&p2=262&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CA }:: Canada | [Jul 05 (Sat) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T183000&p1=1440&p2=166&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Jul 05 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T130000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=CA }:: Canada | [Jul 05 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T180000&p1=1440&p2=166&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | France ::{ flag=FR }:: | ::{ flag=PE }:: Peru | [Jul 05 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250705T200000&p1=1440&p2=195&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 6 July 2025
@@ -130,20 +128,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 | --: | :-- | :-- | :-: | :-: |
 | Peru ::{ flag=PE }:: | ::{ flag=JP }:: Japan | [Jul 06 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T040000&p1=1440&p2=131&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Peru ::{ flag=PE }:: | ::{ flag=ID }:: Indonesia | [Jul 06 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T040000&p1=1440&p2=131&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=JP }:: Japan | [Jul 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T120000&p1=1440&p2=195&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=ID }:: Indonesia | [Jul 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T120000&p1=1440&p2=195&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| France ::{ flag=FR }:: | ::{ flag=JP }:: Japan | [Jul 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T130000&p1=1440&p2=195&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| France ::{ flag=FR }:: | ::{ flag=ID }:: Indonesia | [Jul 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T130000&p1=1440&p2=195&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Jul 06 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T140000&p1=1440&p2=262&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=PL }:: Poland | [Jul 06 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T160000&p1=1440&p2=166&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Jul 06 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T160000&p1=1440&p2=166&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jul 06 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T160000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | [Jul 06 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T160000&p1=1440&p2=188&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=CL }:: Chile | [Jul 06 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T170000&p1=1440&p2=166&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jul 06 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T170000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Argentina ::{ flag=AR }:: | ::{ flag=FI }:: Finland | [Jul 06 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T170000&p1=1440&p2=51&p3=101) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=IT }:: Italy | [Jul 06 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T173000&p1=1440&p2=263&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Finals | mappool showcase | [Jul 06 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | [Jul 06 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T190000&p1=1440&p2=188&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Finals | mappool showcase | [Jul 06 (Sun) 20:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250706T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
 ### Semifinals
 
-**[Download the mappack here (140 MB)](https://packs.ppy.sh/P291%20-%20osu!catch%20World%20Cup%202025%3A%20Semifinals.zip)**\
+**[Download the mappack here (140 MB)](https://packs.ppy.sh/P291%20-%20osu!catch%20World%20Cup%202025%3A%20Semifinals.zip?1751329362)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2499196622?t=4h6m5s)
 
 - No Mod
