@@ -6,7 +6,7 @@ date: 2025-07-05 00:00:00 +0000
 
 With this year's Quarterfinals behind us, only the most resilient teams remain in their march for glory.
 
-![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/banner.png)
+![](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/banner.jpg)
 
 The stakes are ever higher as we now find ourselves in the midst of the tournament's most critical point. With tensions rising, the teams must rise even higher to meet the challenge. Read on to see how it all played out last weekend!
 
