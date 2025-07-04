@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8ee323b0fd1ecd20d5e0abf3671f0cb51de14b53
+---
+
 # L'histoire d'osu! en 2012
 
 ## Septembre
