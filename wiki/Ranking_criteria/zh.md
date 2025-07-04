@@ -1,6 +1,5 @@
 ---
-outdated_since: 1e9cf11032117d2e470e99cfa7c5857207a06786
-outdated_translation: true
+no_native_review_since: 87c9697adc8f512867e6ef82373580a61a39275d YumeMuzi
 ---
 
 # 谱面上架标准 (RC)
@@ -97,7 +96,6 @@ outdated_translation: true
   - 各个游戏模式内的最高难度。
   - 各个游戏模式内与最高难度相近的多个难度，可应用于 Insane 和 Extra 难度区间。（如 ENHIIII 中的 Insane 难度，或 ENHIIXXX 中的 Extra 难度）
 - **如果谱师使用了自定义的难度名称，则它必须符合与歌曲相关的主题或风格，且不得带有误导性。** 如果自定义的难度名表示了本属于其他难度区间的难度等级，则它是误导性的（比如将一个 "Expert" 难度命名为 "Normal"）。
-- **[谱面创建者](/wiki/Beatmap/Beatmap_host)的用户名不能出现在难度名称中。**（例如：Beatmap Host's Insane）。制作歌曲元数据相同，但含有多首歌曲的谱面，或在制作[合作谱面](/wiki/Beatmap/Beatmap_collaborations)时所出现的一些命名冲突的情况除外。参见：[客串难度](/wiki/Beatmap/Guest_difficulty)，一般需要客串难度的难度名内标识该难度谱师的用户名或昵称，以表示难度的归属。
 - **[谱面创建者](/wiki/Beatmap/Beatmap_host)制作的难度数量必须大于等于[客串难度](/wiki/Beatmap/Guest_difficulty)的数量。** 这保证谱面创建者应在制作谱面时贡献更大。[合作难度](/wiki/Beatmap/Beatmap_collaborations)只能占据谱面的一小部分，同时，在客串谱师明显比谱面创建者付出更多的时候，会凭借谱面的[掉血时间](/wiki/Beatmap/Drain_time)来衡量谱师们的贡献。
 - **[谱面创建者](/wiki/Beatmap/Beatmap_host)和[客串难度](/wiki/Beatmap/Guest_difficulty)谱师可以按照自己的想法修改各自的谱面。** 如果谱面的创建者和客串谱师意见不一致，谱面制作者必须提交请求才能删除客串谱面。如果在一个月内无法与客串谱师取得联系，将默认他们同意一切对客串难度的修改。
 - **不能使用属于其他谱师但没有明确参与，或未获得原谱师授权的难度来作为自己谱面的客串难度。**
@@ -105,9 +103,10 @@ outdated_translation: true
 ### 准则
 
 - **谱面的最高难度应符合大多数玩家对该歌曲的普遍印象。** 如果 Easy / Normal 难度的节奏没有被过度简化，则它们可以当做谱面的唯一难度。最高难度高于 Hard 时，应遵守此准则。
-- **避免使用难以理解的用户名组合词来表示参与制作[合作难度](/wiki/Beatmap/Beatmap_collaborations)的多位谱师。** 如果他人无法通过组合词来分辨多位谱师名，则应简化组合词。
-- **避免在难度名称中使用与[客串难度](/wiki/Beatmap/Guest_difficulty)谱师名称，或难度等级没有明确关联的描述词。** （例如：Beatmap Creator's Tragic Love Extra）
-- **[客串难度](/wiki/Beatmap/Guest_difficulty)中出现的用户名应在不同谱面中保持一致。** 若使用不同昵称来表示同一个用户则会导致模糊与误导。
+- **难度名不能误导玩家。**
+  - **描述性的难度名应与歌曲相关。** 如果要在难度名内添加类似于 `Tragic Love` 的形容词，那么它必须与歌曲相关。
+  - **如果要在[客串难度](/wiki/Beatmap/Guest_difficulty)内，将多个玩家名组合成单一玩家名作为难度制作者，那么这个组合名应该便于玩家理解。** 比如，如果将 `Mamayucha` 作为 `Mani`、`Mari`、`Yuzu`、`Mocha` 的[合作难度](/wiki/Beatmap/Beatmap_collaborations)名，由于它丢失了太多合作者的信息，此时使用 `Collab` 或是 `osu! Mascots' Expert` 才能让玩家更容易理解。
+- **[客串难度](/wiki/Beatmap/Guest_difficulty)中出现的玩家名应在不同谱面中保持一致。** 若使用不同昵称来表示同一个玩家，则会导致模糊与误导。
 - **避免在难度名称中使用除字母、数字外的 Unicode 字符。** 这可能会导致[谱面提交系统 (BSS)](/wiki/Beatmapping/Beatmap_submission) 出现故障，或者在聊天频道发送谱面跳转链接时发生错误。
 
 ## 时间轴
