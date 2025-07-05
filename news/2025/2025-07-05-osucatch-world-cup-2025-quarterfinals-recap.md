@@ -179,7 +179,7 @@ What was it like working on the *Heliosphere* beatmap project, and how does it c
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/15851364">Creameries</a></p>
 
-Working on Heliosphere as my first official osu! project was exhilarating. I was so excited, I wanted to give out my best. I actually talked about what I felt in my [Twitter](https://twitter.com/Creameliux/status/1805461439257395364). The process is similar to my past projects, but with a bit of pressure since more eyes would be on it. It's kinda scary, but it was fun!
+Working on Heliosphere as my first official osu! project was exhilarating. I was so excited, I wanted to give out my best. I actually talked about what I felt in my [Twitter](https://twitter.com/Creameliux/status/1937387556251009377). The process is similar to my past projects, but with a bit of pressure since more eyes would be on it. It's kinda scary, but it was fun!
 
 ![Heliosphere artwork](/wiki/shared/news/2025-07-05-osucatch-world-cup-2025-quarterfinals-recap/Heliosphere.jpg)
 
