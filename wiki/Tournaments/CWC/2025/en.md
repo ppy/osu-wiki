@@ -142,7 +142,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 - No Mod
   1. *Laur - Afflict (feat. Risa Yuzuki) (Ascendance, Bunnrei) \[Ascendance & Rei's Death Match\ (link pending)*
   2. [seatrus - morgenroete (Yoshi\_green) \[daybreak\]](https://osu.ppy.sh/beatmapsets/2398885#fruits/5199008)
-  3. [inabakumori - Relayouter (Iyowa Remix) (Mniam) \[An Elementary School Student Who Contains Love\]](https://osu.ppy.sh/beatmapsets/2398883#fruits/5199003)
+  3. [inabakumori - Relayouter (Iyowa Remix) (Mniam) \[temp\]](https://osu.ppy.sh/beatmapsets/2398883#fruits/5199003)
   4. *Marmalade Butcher - SYAKUNETSU (Phob) \[Incandescent (CWC Ver.)\] (link pending)*
 - Hidden
   1. [Penthouse - Sparklers (Crowley) \[— HAPPY TOGETHER\]](https://osu.ppy.sh/beatmapsets/2398887#fruits/5199012)
@@ -159,7 +159,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
   4. *Susumu Hirasawa - Amputee Gerbera (Jack Frost) \[A Place Where Dreams Drift Quietly Beneath the Blooming Gerberas]\ (Link pending)*
 - Mixed Mod
   1. [RYOQUCHA - Incandescent Particle Field (-Ken) \[Annihilation\]](https://osu.ppy.sh/beatmapsets/2398907#fruits/5199071)
-  2. *siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned (CWC Ver.)\] (link pending)*
+  2. [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2398941#fruits/5199115)
   3. *Akiri x II-L - QUADRANTIDS (Jemzuu) \[QUINTESSENCE\] (link pending)*
 - Tiebreaker
   1. ***Quarkee & Yuuni - Fabricated Exaltation (-Rustyy, Crowley) \[Rustyy & Crowley's Cat Flamethrower\] (link pending)***
