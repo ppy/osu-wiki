@@ -41,7 +41,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Pembawa acara [kanal YouTube osu!](https://www.youtube.com/@osugame), pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild), pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Ketua [NAT](/wiki/People/Nomination_Assessment_Team), penasihat bidang modding dan mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [pemelihara wiki](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Koordinator desain [World Cup](/wiki/Tournaments#official-world-cups) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Koordinator desain World Cup |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas bug |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Pengembang osu! |
@@ -61,7 +61,6 @@ Di samping itu, terdapat pula [berbagai tim sukarelawan lainnya](/wiki/People) y
 
 | Nama | Peran |
 | :-- | :-- |
-| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Pengembang [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Pengasuh dan asisten umum, artis chibi |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderator](/wiki/People/Global_Moderation_Team), penasihat bidang moderasi komunitas |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Penata suara, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
@@ -87,8 +86,9 @@ Di samping itu, terdapat pula [berbagai tim sukarelawan lainnya](/wiki/People) y
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok pencipta serba bisa |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Perancang konsep dan desain asli [pippi](/wiki/Mascots#pippi) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masa awal berdirinya osu!, kontributor program Meeting Minutes dan halaman FAQ |
+| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Pengembang [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem [performance point](/wiki/Performance_points) |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Manajer [Project Loved](/wiki/Community/Project_Loved), penasihat bidang moderasi komunitas, pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang moderasi komunitas, pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), penasihat bidang mapping dan modding |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups), [pembina wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu!, pencipta mode osu!mania |

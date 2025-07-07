@@ -41,7 +41,7 @@ tags:
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube 频道](https://www.youtube.com/@osugame)主，[谱师工会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者，精选艺术家募集者 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导，摸图和作图领域顾问 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [管理员](/wiki/People/Global_Moderation_Team)，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | [世界杯](/wiki/Tournaments#官方世界杯)设计协调员 |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | 世界杯设计协调员 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 秩序维护员 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者，osu!mania 社区喜爱评估者，bug 杀手（测试工程师） |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! 开发者 |
@@ -59,7 +59,6 @@ tags:
 
 | 名称 | 职责 |
 | :-- | :-- |
-| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) 设计者 |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 秩序维护员和援助者，萌版人物设计者。 |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [管理员](/wiki/People/Global_Moderation_Team)，社区顾问 |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | 音频设计者，[精选艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
@@ -85,8 +84,9 @@ tags:
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师，制作了很酷的素材 |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | 初代 [pippi](/wiki/Mascots#pippi) 概念设计和美术设计者。 |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | 早期的社区管理员和领头人，讨论记录与 FAQ 贡献者 |
+| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) 设计者 |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | osu! 和[表现分 (pp)](/wiki/Performance_points) 开发者 |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 社区[喜爱计划 (Project Loved)](/wiki/Community/Project_Loved) 组织者，社区顾问，[精选艺术家](/wiki/People/Featured_Artists)募集者 |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 社区喜爱计划 (Project Loved) 组织者，社区顾问，精选艺术家募集者 |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [精选艺术家](https://osu.ppy.sh/beatmaps/artists/22)，摸图和作图领域顾问 |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 秩序维护员，[世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | osu! 开发者，osu!mania 的创始人 |

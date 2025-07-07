@@ -24,7 +24,7 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Manutentore del progetto e della community, ricercatore degli [Artisti in primo piano](/wiki/People/Featured_Artists) |
 | ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Leader del Design, osservatore residente di Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Sviluppatore di osu! |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Governante Generale, capo del [NAT](/wiki/People/Nomination_Assessment_Team), gestore di [Progetto Amata](/wiki/Community/Project_Loved) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Governante Generale, capo del [NAT](/wiki/People/Nomination_Assessment_Team), gestore di [Project Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizzatore e amministratore della [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Ricercatore degli [Artisti in Primo Piano](/wiki/People/Featured_Artists), segretario della [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Sviluppatore di osu!, supporto tecnico |
@@ -37,7 +37,7 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Gestore del [canale YouTube di osu!](https://www.youtube.com/@osugame), organizzatore della [Gilda dei Mapper](/wiki/Community/Mappers_Guild), ricercatore degli [Artisti in Primo Piano](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Capo del [NAT](/wiki/People/Nomination_Assessment_Team), consigliere della scena Modding e mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderatore](/wiki/People/Global_Moderation_Team), [manutentore della wiki](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinatore del design della [World Cup](/wiki/Tournaments#official-world-cups) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinatore del design della World Cup |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Governante Generale |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Sviluppatore di osu!, amante di osu!mania, insetticida per bug |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Sviluppatore di osu! |
@@ -57,7 +57,6 @@ Oltre al team principale di osu!, ci sono [molti altri team di volontari](/wiki/
 
 | Nome | Ruolo |
 | :-- | :-- |
-| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Sviluppatore di [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Governante generale e aiutante, artista di chibi. |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderatore](/wiki/People/Global_Moderation_Team), consigliere della comunità |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Designer audio, [Artista in Primo Piano](https://osu.ppy.sh/beatmaps/artists/2) |
@@ -83,8 +82,9 @@ Oltre al team principale di osu!, ci sono [molti altri team di volontari](/wiki/
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, ragazzo che crea cose straordinarie |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Designer del concept originale di [pippi](/wiki/Mascots#pippi) e di opere d'arte |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Primo manager e leader della community, meeting minutes e collaboratore delle FAQ |
+| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Sviluppatore di [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Sviluppatore di osu! e dei [punti performance](/wiki/Performance_points) |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Manager del [Progetto Amata](/wiki/Community/Project_Loved), consigliere della community, ricercatore degli [Artisti in Primo Piano](/wiki/People/Featured_Artists) |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Manager del Progetto Amata, consigliere della community, ricercatore degli Artisti in Primo Piano |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Artista in Primo Piano](https://osu.ppy.sh/beatmaps/artists/22), consigliere della scena Modding e mapping |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Governante Generale, organizzatore e amministrazione della [World Cup](/wiki/Tournaments#official-world-cups), [manutentore della wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Sviluppatore di osu!, creatore di osu!mania |
