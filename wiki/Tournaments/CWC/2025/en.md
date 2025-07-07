@@ -137,32 +137,33 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ### Finals
 
+**[Download the mappack here (170 MB)](https://packs.ppy.sh/P292%20-%20osu!catch%20World%20Cup%202025%3A%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2505409718?t=1h41m47s)
 
 - No Mod
-  1. *Laur - Afflict (feat. Risa Yuzuki) (Ascendance, Bunnrei) \[Ascendance & Rei's Death Match\ (link pending)*
+  1. [Laur - Afflict (feat. Risa Yuzuki) (Ascendance, Bunnrei) \[Ascendance & Rei's Death Match\]](https://osu.ppy.sh/beatmapsets/2398958#fruits/5199148)
   2. [seatrus - morgenroete (Yoshi\_green) \[daybreak\]](https://osu.ppy.sh/beatmapsets/2398885#fruits/5199008)
-  3. [inabakumori - Relayouter (Iyowa Remix) (Mniam) \[temp\]](https://osu.ppy.sh/beatmapsets/2398883#fruits/5199003)
-  4. *Marmalade Butcher - SYAKUNETSU (Phob) \[Incandescent (CWC Ver.)\] (link pending)*
+  3. [inabakumori - Relayouter (Iyowa Remix) (Mniam) \[Affectionate Energy\]](https://osu.ppy.sh/beatmapsets/2398883#fruits/5199003)
+  4. [Marmalade Butcher - SYAKUNETSU (Phob) \[FlyingTuna's Incandescent (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2398973#fruits/5199190)
 - Hidden
   1. [Penthouse - Sparklers (Crowley) \[— HAPPY TOGETHER\]](https://osu.ppy.sh/beatmapsets/2398887#fruits/5199012)
   2. [CHON - Fluffy (Cruwev) \[nimbus\]](https://osu.ppy.sh/beatmapsets/2398903#fruits/5199063)
   3. [Culprate - Jalaana (osu! ver.) (wwwww) \[Ignite\]](https://osu.ppy.sh/beatmapsets/2398911#fruits/5199078)
 - Hard Rock
   1. [Ruby My Dear - Petit Poney (skill issue lol) \[Ce poney n'est pas si petit! (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2398893#fruits/5199030)
-  2. *NIWASHI - The Fascinating Cat's Eye (autofanboy) \[The Predator's Gaze (CWC Ver.)\] (link pending)*
+  2. [NIWASHI - The Fascinating Cat's Eye (autofanboy) \[The Predator's Gaze (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2399190#fruits/5199818)
   3. [Laur - Gears of Fate (Bunnrei) \[-01:00\]](https://osu.ppy.sh/beatmapsets/2398918#fruits/5199091)
 - Double Time
   1. [Amatsuki - Universe (Verti) \[Starlight's Embrace\]](https://osu.ppy.sh/beatmapsets/2398898#fruits/5199042)
   2. [Kenichiro Fukui - BLOODY BATTLE (ExGon) \[CWC 2025 Finals DT2\]](https://osu.ppy.sh/beatmapsets/2398904#fruits/5199064)
   3. [Ice - Parodia Sonatina Var.II (Yoshi\_green) \[Frozen Stream\]](https://osu.ppy.sh/beatmapsets/2398909#fruits/5199074)
-  4. *Susumu Hirasawa - Amputee Gerbera (Jack Frost) \[A Place Where Dreams Drift Quietly Beneath the Blooming Gerberas]\ (Link pending)*
+  4. [Susumu Hirasawa - Amputee Gerbera (Jack Frost) \[A Place Where Dreams Drift Quietly Beneath the Blooming Gerberas (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2399031#fruits/5199360)
 - Mixed Mod
   1. [RYOQUCHA - Incandescent Particle Field (-Ken) \[Annihilation\]](https://osu.ppy.sh/beatmapsets/2398907#fruits/5199071)
   2. [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2398941#fruits/5199115)
-  3. *Akiri x II-L - QUADRANTIDS (Jemzuu) \[QUINTESSENCE\] (link pending)*
+  3. [Akiri x II-L - QUADRANTIDS (Jemzuu) \[QUINTESSENCE\]](https://osu.ppy.sh/beatmapsets/2399039#fruits/5199376)
 - Tiebreaker
-  1. ***Quarkee & Yuuni - Fabricated Exaltation (-Rustyy, Crowley) \[Rustyy & Crowley's Cat Flamethrower\] (link pending)***
+  1. **[Quarkee & Yuuni - Fabricated Exaltation (-Rustyy, Crowley) \[Rustyy & Crowley's Cat Flamethrower\]](https://osu.ppy.sh/beatmapsets/2398993#fruits/5199258)**
 
 ### Semifinals
 
