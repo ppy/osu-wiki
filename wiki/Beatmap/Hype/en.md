@@ -20,4 +20,4 @@ In order to be eligible for [nomination](/wiki/Beatmap_ranking_procedure#nominat
 
 ## Limit
 
-Users start with 10 hypes which are consumed upon being used on beatmaps. Each used hype takes a week to become available again, essentially capping the number of hypes a single user can have at one time at 10.
+Users start with 10 hypes, and they are consumed when used on beatmaps. Each hype takes a week to become available again.
