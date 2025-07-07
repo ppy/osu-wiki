@@ -33,7 +33,7 @@ tags:
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Разработчик osu!web |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Смотритель за порядком, советник по вопросам модерации |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Советник по вопросам моддинга и маппинга |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Разработчик osu!web, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Разработчик osu!web, исполнитель из каталога [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Разработчик osu!web |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Модератор](/wiki/People/Global_Moderation_Team), советник по вопросам моддинга и маппинга |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Ведущий [YouTube-канала osu!](https://www.youtube.com/@osugame), организатор [Mappers' Guild](/wiki/Community/Mappers_Guild), менеджер по связям с [Featured Artist](/wiki/People/Featured_Artists) |
@@ -44,26 +44,25 @@ tags:
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Разработчик osu!, энтузиаст osu!mania, убийца багов |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Разработчик osu! |
 | ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Дизайнер |
-| ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Разработчик osu! infrastructure |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Смотритель за порядком, турнирный помощник |
-| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Смотритель за порядком, метельщик |
+| ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Администратор инфраструктуры osu! |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Смотритель за порядком, администратор турниров |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Смотритель за порядком, чистильщик |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Лидер [GMT](/wiki/People/Global_Moderation_Team), менеджер [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Хранитель вики](/wiki/People/osu!_wiki_maintainers), редактор новостей |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Вымирающий вид |
 
-Помимо всех этих людей, в osu! также есть [служба поддержки аккаунтов](/wiki/People/Account_support_team) приходит на помощь в сложных ситуациях и решает вопросы, связанные с игровыми аккаунтами.
+В osu! также есть [служба поддержки аккаунтов](/wiki/People/Account_support_team), которая приходит на помощь в сложных ситуациях.
 
-Кроме того существует [много других команд-волонтёров](/wiki/People), которые поддерживают работу игры.
+Помимо ключевой команды osu!, существует [много других волонтёрских команд](/wiki/People), которые поддерживают работу игры.
 
-## Неактивная часть команды
+## Неактивные участники
 
 | Имя | Роль |
 | :-- | :-- |
-| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Разработчик [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Смотритель за порядком, чиби-артист |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Модератор](/wiki/People/Global_Moderation_Team), советник по вопросам сообщества |
-| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Аудио-дизайнер, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Аудио-дизайнер, исполнитель из каталога [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!-художник |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Смотритель за порядком, менеджер сообщества |
 | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Разработчик [сторибордов](/wiki/Storyboard) |
@@ -74,7 +73,7 @@ tags:
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Дизайнер самой первой версии сайта, хостер osu! в ранние дни |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры) |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры), бывший лидер [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders), менеджер сообщества |
-| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Автор эпичных скинов, соавтор стандартного скина и иконок |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Автор эпичных скинов, соавтор стандартного скина и набора иконок |
 | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Бывший лидер [NAT](/wiki/People/Nomination_Assessment_Team) |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, автор mm-слайдеров |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Советник по вопросам моддинга и маппинга |
@@ -82,12 +81,13 @@ tags:
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Разработчик osu!, организатор [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Советник по вопросам модерации |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Дизайнер форума |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, автор прикольных идей |
-| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Автор концепта [pippi](/wiki/Mascots#pippi) и дизайнер артворков |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Менеджер и лидер коммьюнити в ранние годы, соавтор FAQ и регулярных встреч |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!-художник, автор прикольных идей |
+| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Автор концепта [pippi](/wiki/Mascots#pippi) и арт-дизайнер |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Лидер и менеджер сообщества в ранние годы, секретарь команды и соавтор FAQ |
+| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Разработчик [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы [очков производительности](/wiki/Performance_points) |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Менеджер [Project Loved](/wiki/Community/Project_Loved), советник по вопросам сообщества, менеджер по связям с [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), советник по вопросам моддинга и маппинга |
+| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Исполнитель из каталога [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), советник по вопросам моддинга и маппинга |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, oрганизатор и администратор [международных турниров](/wiki/Tournaments#официальные-мировые-турниры), [хранитель вики](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu! и автор режима osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Менеджер [osu!store](https://osu.ppy.sh/store/listing) |
