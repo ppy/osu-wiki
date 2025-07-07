@@ -1,5 +1,4 @@
-outdated_since: a8cc4d36239f194ed529a59a51038d554308731e
-outdated_translation: true
+no_native_review: true
 
 separator: ", "
 alumni:
@@ -9,14 +8,15 @@ alumni:
     chat: moderador de chat
     dev: osu!dev
     media: criador do osu!media
-    tournaments: torneios
     support: equipe de suporte
+    tournaments: torneios
 gmt:
   all_mods: todos os moderadores
   areas:
     beatmap: moderação de beatmap
     chat: moderação de chat
     forum: moderação de fórum
+    general: moderação geral
     team: presença oficial da equipe
     dev: desenvolvimento do osu!
     player: suporte ao jogador
@@ -24,9 +24,12 @@ gmt:
     tournaments: administração de torneios
     wiki: administração da wiki
     mapping: moderação da comunidade de mapping/modding
+    skinning: moderação da comunidade de skinning
+    leadership: liderança de equipe
 nat:
   subgroups:
-    advisor: orientador
-    evaluator: avaliador
+    structural: estrutural
+    evaluation: avaliação
+    leadership: liderança
 languages:
   partial: um pouco de <language>
