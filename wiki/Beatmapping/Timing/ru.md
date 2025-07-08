@@ -47,19 +47,19 @@
 
 Музыка, исполненная без метронома, может содержать самые разные артефакты тайминга, например, произвольные смены темпа или ноты, сыгранные не в ритм. Это может быть сделано как намеренно, ради музыкальной выразительности, так и из-за человеческого фактора. Подобные погрешности необходимо учитывать при тайминге, что может оказаться достаточно сложно — старайтесь не браться за такие песни, если у вас мало терпения или опыта в тайминге.
 
-For single- or multi-BPM songs performed with a metronome, small timing errors (e.g. a note played a few milliseconds early or late) may be ignored if the beatmap is still playable with simple timing. Alternatively, the audio file may be edited directly with a program like [Audacity](https://www.audacityteam.org/) to quantise notes and correct timing mistakes.
+Маленькие погрешности — например, расхождение в несколько миллисекунд, — можно не таймить, если песня записана под метроном и нормально играется и с более простым таймингом. Альтернативный подход заключается в редактировании аудио в программах типа [Audacity](https://www.audacityteam.org/), чтобы [квантизировать](https://ru.wikipedia.org/wiki/Квантайз) звуки (подвинуть их туда, где они должны быть согласно таймингу).
 
-Some songs require timing points that have a slightly shifted offset without changing BPM or time signature. These are usually caused by inaccurate quantisation or added/removed beats from a single measure.
+Иногда нужно добавить новый оффсет, не меняя темп, чтобы отметить сбившийся ритм песни. Это требуется, например, если аудио неровно склеено, и такт в месте склейки длится чуть больше или чуть меньше, чем надо, либо если композитор сам плохо справился с квантизацией нот.
 
-Lastly, a new timing point is required for time signature changes and metronome resets. For example, a regular rhythm may change to a waltz, making the measure not 4, but 3 beats long, or a new measure may start earlier than expected, which necessitates a new timing point to reset the metronome.
+Наконец, новый оффсет нужен при смене музыкального размера, либо при сбросе метронома: например, если песня переходит из обычного «квадратного» размера (4/4) в вальс (3/4), или если очередной такт начинается на одну или несколько долей раньше.
 
-## Community reception
+## Отношение к таймингу
 
-Timing is widely regarded as one of the hardest mapping skills to master, since it requires having a lot of patience and a good sense of rhythm. It is not uncommon to ask other mappers and [modders](/wiki/Modding) for help, either personally, or in public [chat](/wiki/Client/Interface/Chat_console) channels and [forums](/wiki/Community/Forum). One of the forum threads dedicated to the issue, "[Unable to find the BPM/offset of your map? Post here](https://osu.ppy.sh/community/forums/topics/13795)", contains more than 5,000 responses collected over 13 years.
+Тайминг считается одним из самых сложных для овладевания навыков, поскольку он требует развитого чувства ритма и большого запаса терпения. Как следствие, мапперы часто просят о тайминге других мапперов и [моддеров](/wiki/Modding) — лично, либо в общих [чатах](/wiki/Client/Interface/Chat_console) и [форумах](/wiki/Community/Forum), посвящённых моддингу. В одном из подобных тредов, "[Unable to find the BPM/offset of your map? Post here](https://osu.ppy.sh/community/forums/topics/13795)", за 13 лет скопилось более чем 5 тысяч постов.
 
-[The ranking criteria](/wiki/Ranking_criteria#timing) have a section dedicated to timing, which explains the respective rules for beatmaps [going for Ranked](/wiki/Beatmap_ranking_procedure).
+Таймингу посвящён [отдельный раздел критериев ранкинга](/wiki/Ranking_criteria#timing), где рассказываются требования к [картам, идущим на ранк](/wiki/Beatmap_ranking_procedure).
 
-## See also
+## См. также
 
-- *[osu!academy Episode 7-2 - Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w)*, an episode of the [osu!academy](/wiki/Community/Video_series/osu!academy) YouTube series
-- *[osu!mapping: timing](https://www.youtube.com/watch?v=xauZuMPgiQw)*, an episode of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series
+- *[osu!academy Episode 7-2 - Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w)*, выпуск Youtube-цикла [osu!academy](/wiki/Community/Video_series/osu!academy).
+- *[osu!mapping: timing](https://www.youtube.com/watch?v=xauZuMPgiQw)*, выпуск Youtube-цикла [osu!mapping](/wiki/Community/Video_series/osu!mapping).
