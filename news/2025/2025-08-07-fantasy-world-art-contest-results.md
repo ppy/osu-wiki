@@ -112,7 +112,7 @@ If you open the game now, you'll find all of the artworks shown above on the mai
 
 If you don't see your favourite entry, feel free to [download a zip file containing all entries of the Fantasy World Art Contest here](https://assets.ppy.sh/contests/249/FantasyWorldFanartSubmissions.zip)! If you have [osu!supporter](/wiki/osu!supporter), you can drag and drop any image into the game's main menu to set it as the background (by itself — it won't join the others in the rotation).
 
-Continuing the tradition started a year ago, [limited-time default profile banners](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations) of the **top 4 entries** will be available until the end of the next art contest (again, 3 were not enough... we're greedy sometimes). Lastly, check the [contest page](https://osu.ppy.sh/community/contests/242) for the full set of voting numbers.
+Continuing the tradition started a year ago, [limited-time default profile banners](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations) of the **top 4 entries** will be available until the end of the next art contest (again, 3 were not enough... we're greedy sometimes). Lastly, check the [contest page](https://osu.ppy.sh/community/contests/249) for the full set of voting numbers.
 
 See you next time!
 
