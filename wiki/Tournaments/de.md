@@ -438,6 +438,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Resurrection Cup: Cataclysm Contest | 04.11.2022 | 18.12.2022 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
 | [Resurrection Cup 2023](RESC/2023) | 16.06.2023 | 30.07.2023 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 14.06.2024 | 28.07.2024 | kotomiler | fresh off the boat | Bobik |
+| [Resurrection Cup 2025](RESC/2025) | 18.05.2025 | 27.07.2025 | *TBD* | *TBD* | *TBD* |
 
 #### ROI PRO Tournament
 
@@ -524,6 +525,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Vin-Tana Solo Showdown](VTSS/1) | 26.09.2021 | 28.11.2021 | ::{ flag=GB }:: [Sspannish](https://osu.ppy.sh/users/11418478) | ::{ flag=US }:: [Geag](https://osu.ppy.sh/users/16052525) | ::{ flag=JP }:: [skit\_3980](https://osu.ppy.sh/users/19514272) |
+
+#### We Go March! retot's Tournament
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [We Go March! retot's Tournament](WGMRT/1) | 07.04.2025 | 25.05.2025 | **最tua & 黒 se世界** (::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Crownest](https://osu.ppy.sh/users/18135280), ::{ flag=ID }:: [c4w](https://osu.ppy.sh/users/15815159)) | **#PEGAONTOP** (::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [ThatNOOBguy](https://osu.ppy.sh/users/11091594), ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [-Blue21-](https://osu.ppy.sh/users/12517079), ::{ flag=ID }:: [Worcester](https://osu.ppy.sh/users/24025848)) | **5 Melon 1 Korean** (::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227), ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510), ::{ flag=ID }:: [Kozakura-](https://osu.ppy.sh/users/4473506), ::{ flag=ID }:: [RockingSushi](https://osu.ppy.sh/users/19371191), ::{ flag=ID }:: [agato](https://osu.ppy.sh/users/28901730)) |
 
 #### Yaz's Summer Cup
 

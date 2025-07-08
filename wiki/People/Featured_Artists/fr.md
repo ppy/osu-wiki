@@ -117,6 +117,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | (fondateur de) [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
 | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) | [Sparxe](https://osu.ppy.sh/beatmaps/artists/398) |
+| ::{ flag=ID }:: [Stelar](https://osu.ppy.sh/users/15205070) | [Dispel](https://osu.ppy.sh/beatmaps/artists/486) |
 | ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952) | [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442) |
 | ::{ flag=US }:: [sxvnty](https://osu.ppy.sh/users/8111085) | [Xeven](https://osu.ppy.sh/beatmaps/artists/475) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fa3387c9293eb8dd25ea9216e8f13fcd8a33c574
+---
+
 # Prueba para convertirse en un Beatmap Nominator
 
 La **prueba para convertirse en un Beatmap Nominator** es una evaluación que se usa para ayudar a evaluar a los candidatos a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*).
