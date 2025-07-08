@@ -8,7 +8,7 @@ Our world has collided with another, with pippi and the gang taking charge in ex
 
 ![](/wiki/shared/news/2025-07-08-fantasy-world-art-contest-results/banner.jpg)
 
-In less imaginative terms, the winners of the latest art contest are ready to be presented. With the theme of "fantasy" [announced on June 6](https://osu.ppy.sh/home/news/2025-06-06-fantasy-world-art-contest), **132** artists spent the next 20 days putting pen to paper and tablet. Then, for 6 days after the voting phase [began on June 28](https://osu.ppy.sh/home/news/2025-06-28-fantasy-world-art-contest-voting), **1,594** of you a total of **19,464** votes to decide the winner!
+In less imaginative terms, the winners of the latest art contest are ready to be presented. With the theme of "another world" [announced on June 6](https://osu.ppy.sh/home/news/2025-06-06-fantasy-world-art-contest), **132** artists spent the next 20 days putting pen to paper and tablet. Then, for 6 days after the voting phase [began on June 28](https://osu.ppy.sh/home/news/2025-06-28-fantasy-world-art-contest-voting), **1,594** of you submitted a total of **19,464** votes to decide the winner!
 
 ## Finalists
 
