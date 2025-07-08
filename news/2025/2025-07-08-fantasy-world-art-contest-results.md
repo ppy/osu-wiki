@@ -82,7 +82,7 @@ Everyone got 15 votes to propose the next line-up of osu! main menu artwork, but
 
 [![](https://assets.ppy.sh/contests/249/banners/Maqmoon.jpg)](https://assets.ppy.sh/contests/249/winners/Maqmoon.jpg)
 
-Following your first successful quest, it's only natural to treat yourself with the hefty stash of osu!coins you acquired during your adventure. And what better way to spend it than on some awesome potions freshly brewed by Mocha herself!
+Following your first successful quest, you want to treat yourself with the hefty stash of osu!coins you acquired during your adventure. As it turns out, [**Maqmoon**](https://osu.ppy.sh/users/33452645) knows a place and recommends you to take a gander at some awesome potions freshly brewed by Mocha herself!
 
 [![](https://assets.ppy.sh/contests/249/banners/TESTER%20KIPUATKA.jpg)](https://assets.ppy.sh/contests/249/winners/TESTER%20KIPUATKA.png)
 
