@@ -4,13 +4,13 @@ no_native_review: true
 
 # Regler
 
-Disse regler er grundlaget for hvordan vi holder osu!-fællesskabet et sjovt og trygt sted for alle.
+Disse regler er grundlaget for, hvordan vi sikrer, at osu!-fællesskabet er et sjovt og trygt sted for alle.
 
 ## Fællesskabsregler
 
 1. **Hver spiller må have en, og kun *EN*, konto for evigt.** Den *første* konto du laver er din eneste osu! konto, fra dens oprettelse og fremefter. Denne konto er DIG. Det er ikke nogen andres - ikke din brors, din mors, din søsters eller din vens. Den er DIG. Del aldrig din konto med andre. Du får ikke lov til at lave en ny konto, hvis du mister adgangen til din første. Hold den sikker.
 2. **Spil fair.** Brug af tredjepartssoftware af enhver slags for at få en fordel er ikke tilladt. Dette inkluderer programmer såsom aim-assists, tidsskalamodificeringer, osv. Macroer, tastebindinger eller hardware, hvor en fysisk handling (f.x. at trykke en tast ned) ikke forårsager samme handling i spillet, er også forbudte.[^macros] Hvis et program hjælper dig med at gøre noget, som du burde gøre selv, er det ikke okay!
-3. **Vær god ved andre.** Chikane eller andre former for fjendtligheder har ingen plads i osu!-fællesskabet. Vi er her for at klikke cirker, slå på trommer, fange frugt og ramme op til atten taster på én gang - ikke for at være røvhuller overfor hinanden.
+3. **Vær god ved andre.** Chikane eller andre former for fjendtligheder har ingen plads i osu!-fællesskabet. Vi er her for at klikke cirkler, slå på trommer, fange frugt og ramme op til atten taster på én gang - ikke for at være røvhuller overfor hinanden.
 4. **Lad være med at være et fjols.** Hvis du på noget som helst tidspunkt er usikker på, om du bryder denne regel, bryder du den sandsynligvis.
 5. **Fællesskabet er for alle aldre.** Det betyder at 18+/[NSFW](https://da.wikipedia.org/wiki/NSFW) indhold, såsom brug af stoffer eller emner af seksuel natur, ikke er velkomne her.
 6. **Hold tonen ren.** osu! er ikke et sted for at date eller flirte. Brug af seksuelt sprog, billeder eller uønskede tilnærmelser mod andre medlemmer af fællesskabet er IKKE okay, hverken privat eller i offentligheden. Hvis du nogensinde føler dig utilpas eller krænket af måden, nogen snakker til dig, beder vi dig om at [anmelde det til os fortroligt](/wiki/Reporting_bad_behaviour/Abuse), så vi kan hjælpe dig (og muligvis forhindre, at andre bliver påvirket).
@@ -18,7 +18,7 @@ Disse regler er grundlaget for hvordan vi holder osu!-fællesskabet et sjovt og 
 
 ## Regler for spillets chat
 
-1. **Vær respektfuld og opmærksom på andre brugere i kanalen, og undgå at spamme chatten.** En person, der fylder halvdelen af skærmen er irriterende, så undgå det hvor muligt. Andre folk chatter også!
+1. **Vær respektfuld og opmærksom på andre brugere i kanalen, og undgå at spamme chatten.** En person, der fylder halvdelen af skærmen er irriterende, så undgå det, hvis du kan. Andre folk chatter også!
 2. **Lad moderatorerne håndtere problemer i chatten.** Du kan melde ting til dem med [`!report`-kommandoen](/wiki/Reporting_bad_behaviour), og så skal de nok sørge for resten.
 3. **Hvis nogen bliver silenced eller restricted, skal du lade dem være og ikke snakke om dem.** Deres sag involverer kun dem og spillets administratorer - ingen andre.
 4. **Frem fairplay og giv ikke opmærksomhed til snyderi eller giftige personer.** Sådanne personer eksisterer desværre, og hvis man giver dem opmærksomhed, kan man tilskynde dem til at fortsætte, eller i værste tilfælde inspirere andre til at gøre det samme. Anmeld dem i stedet vha. chat kommandoen `!report` eller knapperne på deres profil.
@@ -42,9 +42,9 @@ Disse regler er grundlaget for hvordan vi holder osu!-fællesskabet et sjovt og 
 
 *Note: Disse regler gælder **alle indsendte maps**, ikke kun dem, der er rangeret. For at se mere specifikke regler ift. rangerede beatmaps, se [Kriterier for rangering af beatmaps](/wiki/Ranking_criteria).*
 
-Disse regler gælder udelukkende for beatmaps, der indsendes per [Beatmapindsendelsessystemet](/wiki/Beatmapping/Beatmap_submission) i spillet. Disse tråde/diskussioner bliver oprettet af osu!-klienten, når et beatmap indsendes gennem [editoren](/wiki/Client/Beatmap_editor).
+Disse regler gælder udelukkende for beatmaps, der indsendes med [Beatmapindsendelsessystemet](/wiki/Beatmapping/Beatmap_submission) i spillet. Disse tråde/diskussioner bliver oprettet af osu!-klienten, når et beatmap indsendes gennem [editoren](/wiki/Client/Beatmap_editor).
 
-1. **Sørg for, at du har tilladelse til at bruge alt indhold, der er i dit beatmap.** Dette inkluderer sange, videoer, hitsounds, grafik og andet indhold, der ikke er dit eget. Hvis du er i tvivl om, hvor du kan finde indhold, der frit kan bruges, har vi et voksende bibliotek af sange tilgængeligt på [Featured Artist](https://osu.ppy.sh/beatmaps/artists)-siden, som alle er 100% licenseret til brug i osu!. Tjek [Reglerne om brug af indhold](/wiki/Rules/Content_usage_permissions) for mere information.
+1. **Sørg for, at du har tilladelse til at bruge alt indhold i dit beatmap.** Dette inkluderer sange, videoer, hitsounds, grafik og andet indhold, der ikke er dit eget. Hvis du er i tvivl om, hvor du kan finde indhold, der frit kan bruges, har vi et voksende bibliotek af sange tilgængeligt på [Featured Artist](https://osu.ppy.sh/beatmaps/artists)-siden, som alle er 100% licenseret til brug i osu!. Tjek [Reglerne om brug af indhold](/wiki/Rules/Content_usage_permissions) for mere information.
 2. **Hold dig til emnet i beatmapdiskussioner.** Disse tråde/diskussioner handler om det aktuelle beatmap og intet andet. Hvis du har et problem med noget, der ikke direkte vedrører beatmappet, kan du lave et opslag i det relevante forum.
 3. **Det er ikke tilladt at plagiere eller forsøge at stjæle andres kreationer.** Det er heller ikke tilladt at uploade eller bruge andres kreationer uden deres udtrykkelige tilladelse (inklusiv, men ikke begrænset til, skins og gæste-maps).
 4. **Følg [Reglerne for sangindhold](Song_Content_Rules) og [Overvejelserne om visuelt indhold](Visual_Content_Considerations).**
@@ -57,8 +57,8 @@ Disse konsekvenser kan inkludere (*men er ikke begrænset til*):
 
 - Tilbagetrækning af dine privilegier til at chatte i spillet for en stund (kendt som en [silence](/wiki/Help_centre/Silences)).
 - Fjernelse af alt indhold, der krænker retningslinjerne på din brugerside, profil eller blandt dine uploadede beatmaps.
-- Tabet af dit privilege til at ændre eller redigere din brugerside eller profil.
-- Tabet af dit privilege til at deltage i officielt hostede turneringer.
+- Tabet af dit privilegium til at ændre eller redigere din brugerside eller profil.
+- Tabet af dit privilegium til at deltage i officielt hostede turneringer.
 
 [Silences](/wiki/Help_centre/Silences) og andre straffe forøges **automatisk** i varighed (næsten eksponentielt) med hver overtrædelse. Moderatorer har ingen kontrol over, hvor længe du bliver silenced for en overtrædelse, så det nytter ikke noget at klage til dem. Brugere, der gentagne gange overtræder reglerne, vil miste deres privilegier i længere og længere perioder.
 
