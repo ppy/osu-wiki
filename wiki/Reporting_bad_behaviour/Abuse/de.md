@@ -48,7 +48,7 @@ Wende dich danach umgehend an die Administratoren des Servers, indem du nach jem
 
 Sollte dieser Missbrauch anhalten und sollten die Administratoren nichts dagegen unternehmen, [benachrichtige bitte das Discord Trust & Safety-Team, indem du einen Bericht schreibst](https://dis.gd/request).
 
-Wenn du außerdem den osu!-Benutzernamen der Person kennst, die dich belästigt, sende bitte eine E-Mail mit möglichst vielen Informationen an [abuse@ppy.sh](mailto:abuse@ppy.sh), und wir untersuchen es wenn möglich. Beachtet aber, dass wir nichts gegen Inhalte auf dritte Plattformen unternehmen können, also besteht keine Garantie, dass wir etwas dagegen tun, aber solche Fälle werden intern vermerkt.
+Wenn du außerdem den osu!-Benutzernamen der Person kennst, die dich belästigt, sende bitte eine E-Mail mit möglichst vielen Informationen an [abuse@ppy.sh](mailto:abuse@ppy.sh), und wir untersuchen es wenn möglich. Beachte, dass wir nichts gegen Inhalte auf Drittplattformen unternehmen können, also besteht keine Garantie, dass wir etwas dagegen tun, aber solche Fälle werden intern vermerkt.
 
 ### Auf einem Twitter, der mit dem Profil eines osu!-Benutzers verknüpft ist
 
@@ -58,7 +58,7 @@ Blockiere anschließend den betreffenden Benutzer oder schalte ihn stumm, indem 
 
 Sei dir bitte bewusst, dass die Person sehen wird, dass du sie blockiert hast, wenn sie sich dein Twitter-Profil ansieht. Falls du befürchtest, dass dies das Problem an anderer Stelle verschlimmert, schalte sie stattdessen stumm. Dadurch werden ihre Tweets aus deiner Timeline entfernt und du wirst keine weiteren Inhalte von ihr sehen, aber sie kann weiterhin alle von dir erstellten Tweets sehen und kommentieren.
 
-Wenn du außerdem den osu!-Benutzernamen der Person kennst, die dich belästigt, sende bitte eine E-Mail mit möglichst vielen Informationen an [abuse@ppy.sh](mailto:abuse@ppy.sh), und wir untersuchen es wenn möglich. Beachtet aber, dass wir nichts gegen Inhalte auf dritte Plattformen unternehmen können, also besteht keine Garantie, dass wir etwas dagegen tun, aber solche Fälle werden intern vermerkt.
+Wenn du außerdem den osu!-Benutzernamen der Person kennst, die dich belästigt, sende bitte eine E-Mail mit möglichst vielen Informationen an [abuse@ppy.sh](mailto:abuse@ppy.sh), und wir untersuchen es wenn möglich. Beachte, dass wir nichts gegen Inhalte auf Drittplattformen unternehmen können, also besteht keine Garantie, dass wir etwas dagegen tun, aber solche Fälle werden intern vermerkt.
 
 ## Ein Mitglied eines der Freiwilligenteams (NAT, GMT) nähert sich mir/spricht mit mir/benimmt sich mir gegenüber unangemessen!
 
