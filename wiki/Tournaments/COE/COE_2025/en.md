@@ -220,7 +220,7 @@ Participants will be sanctioned if they are violating or attempting to violate a
 - Faking or being misleading regarding their identity  
 - Misleading referees  
 - Not putting in any effort to win a match / Match fixing  
-- Not following the osu\! community guidelines  
+- Not following the osu! community guidelines  
 - Breaking any local laws  
 - Betting on any matches. This also applies to all staff  
 - Damaging any equipment that is not your own
