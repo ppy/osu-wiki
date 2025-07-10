@@ -8,7 +8,7 @@ The **COE 2025 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration and online qualifiers | 2025-07-07/2024-07-20 |
+| Registration and online qualifiers | 2025-07-07/2025-07-20 |
 | Qualifier results reveal & Finals mappool showcase | 2025-07-28 (15:30 UTC+2) |
 | Finals | 2025-07-31/2025-08-02 |
 
