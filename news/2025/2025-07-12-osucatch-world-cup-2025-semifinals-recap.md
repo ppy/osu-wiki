@@ -219,6 +219,6 @@ Yes. It was the first time I got to experience the tournament as a key player on
 
 We are now down to our last 6 teams, each one of them contending for a spot on the podium— save for the already guaranteed top 3 finishers, Argentina and the United States. Every match remaining is sure to be an amazing one, and the most intense rounds are about to start.
 
-As usual, the [CWC wiki page](/wiki/Tournaments/CWC/2025) will help you know when to tune in to [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2) to follow the action. Be sure to be there!
+As usual, the [CWC wiki page](/wiki/Tournaments/CWC/2025) will help you know when to tune in to [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2) to follow the action. Make sure to be there!
 
 —Realmaas, Walavouchey
