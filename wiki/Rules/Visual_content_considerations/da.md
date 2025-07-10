@@ -6,7 +6,7 @@ tags:
 
 # Overvejelser om visuelt indhold
 
-Ifølge [fællesskabsregel #5](/wiki/Rules#community-rules) skal alt visuelt indhold indsendt eller uploadet til osu! kunne anses som passende for et spil for alle aldre.
+Ifølge [fællesskabsregel #5](/wiki/Rules#fællesskabsregler) skal alt visuelt indhold indsendt eller uploadet til osu! kunne anses som passende for et spil for alle aldre.
 
 Dette inkluderer:
 
