@@ -211,7 +211,7 @@ The tournament management and referees have all rights to apply the rulebook in 
 
 Participants will be sanctioned if they are violating or attempting to violate any of the following rules:
 
-- Using insulting language and/or gestures. In game or in person  
+- Using insulting language and/or gestures. In-game or in person  
 - Gaining an unfair advantage through any means. Including but not limited to:  
   - Cheating software  
   - Information abuse  
