@@ -154,7 +154,7 @@ The gamemode being played is osu!standard, all matches will be played using scor
 
 During the qualifier, each participant will be given one attempt to set a high score on each map of the map pool. These attempts will be in matches scheduled beforehand.
 
-Each score will be used to determine the seeding. Seeding method used is `x=(y-AVERAGE(z))/STDEV.S(z)` where x is the point result for that map, y is the achieved score on map and z is all scores on map. All x's for a player are added up to form their final qualifier result.\
+Each score will be used to determine the seeding. Seeding method used is `x=(y-AVERAGE(z))/STDEV.S(z)` where x is the point result for that map, y is the achieved score on map and z is all scores on map. All x's for a player are added up to form their final qualifier result.
 The top 16 players will advance to the finals.
 
 #### 3.2 Match Procedure
