@@ -190,7 +190,7 @@ The loser of the roll will then be able to protect a map from the map pool from 
 Then the winner of the roll decides on the order of the bans OR the picks. The loser decides on the order of the other option.
 Afterwards the players will ban 2 maps each in the order chosen.
 
-The players then alternate picking the map. If they reach a tie after playing 8 maps (or 10 during Grand Final or the third place match), the tiebreaker will be picked automatically.\
+The players then alternate picking the map. If they reach a tie after playing 8 maps (or 10 during Grand Final or the third place match), the tiebreaker will be picked automatically.
 Between each map there is a short break of a few seconds during which the next map must be picked.
 
 Once any player reaches 5 map wins (or 6 map wins during Grand Final or the third place match), the match is over and the winner advances to the next match.
