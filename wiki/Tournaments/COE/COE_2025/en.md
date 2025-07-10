@@ -21,7 +21,7 @@ The COE 2025 1v1 tournament prizes are yet to be announced.
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | TBA |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | TBA |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | TBA |
-| "4th place" | TBA |
+| 4th place | TBA |
 | 5th-8th place | TBA |
 | 9th-16th place | TBA |
 
