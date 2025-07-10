@@ -25,6 +25,7 @@ This page lists ways for people from all around osu! to get in touch with each o
 
 - [Beatmap Nominator events](/wiki/Community/Beatmap_Nominator_events)
 - [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event)
+- [Moscow osu! Event](/wiki/Community/Moscow_osu!_Event)
 - [osu! community meetings](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
 

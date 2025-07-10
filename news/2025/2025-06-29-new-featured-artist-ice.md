@@ -52,7 +52,7 @@ Experience [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1068198) hoste
 
 ### [Ice - citanLu](https://assets.ppy.sh/artists/484/Shota%20Paradise/Ice%20-%20citanLu.osz)
 
-Try [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/470304) hosted by [Reba](https://osu.ppy.sh/users/3087654)!
+Try [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/470304) hosted by [Reba](https://osu.ppy.sh/users/3087654)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/484/Shota%20Paradise/Ice%20-%20citanLu.mp3">

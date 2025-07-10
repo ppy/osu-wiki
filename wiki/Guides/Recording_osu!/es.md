@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2c9fd01c55a5610c8b047b3bbf8683d414c02987
+---
+
 # Cómo grabar vídeos de osu!
 
 [¿Quieres usar Virtualdub en lugar de Sony Vegas? ¡Haz clic aquí](https://osu.ppy.sh/community/forums/posts/252802)

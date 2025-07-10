@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: f5a9ad2779ced27751be153b56ead8dffb97c705
+outdated_since: ede52e09b17e9c37acfcdbf6c3b0f18240afa66d
 ---
 
 # Geschichte des osu!-Wikis
