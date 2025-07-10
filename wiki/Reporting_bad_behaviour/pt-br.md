@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Denunciando mau comportamento
 
 O *osu!* conta com [uma equipe de moderadores](/wiki/People/Global_Moderation_Team) responsável por manter o jogo e seu ecossistema limpos e seguros. Se você notar comportamentos que quebram as regras ou qualquer tipo de conteúdo inadequado, denuncie utilizando um dos métodos descritos abaixo. Se sua denúncia não for tratada dentro de um tempo razoável, você também pode entrar em contato diretamente com um moderador que estiver online — mas faça isso apenas como último recurso.
