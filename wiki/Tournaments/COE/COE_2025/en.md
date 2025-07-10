@@ -88,7 +88,7 @@ TBA
 
 ## Ruleset
 
-### 1\. General Information
+### 1. General Information
 
 #### 1.1 Range of Validity
 
