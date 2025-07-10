@@ -161,7 +161,7 @@ The top 16 players will advance to the finals.
 
 The matches will start once the scheduled time is reached and a referee is present. 
 
-There will be no warm ups during the match. Players get to decide the order.\
+There will be no warm ups during the match. Players get to decide the order.
 A short break is given between each map, the exact duration is at the discretion of the referee.
 
 Rounds with disconnects within 30 seconds or 25% of the beatmap length, whichever happens first, can be replayed, at the discretion of the referee, as long as the problem was clearly communicated in time.
