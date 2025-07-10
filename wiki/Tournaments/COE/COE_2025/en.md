@@ -184,7 +184,7 @@ Participants may recheck and reconfigure their setup up to 15 minutes before the
 
 ##### 4.2.2 During the Match
 
-Once both players and a referee join the match, both players will begin by rolling either using a physical method or the \!roll command.
+Once both players and a referee join the match, both players will begin by rolling either using a physical method or the !roll command.
 
 The loser of the roll will then be able to protect a map from the map pool from being banned, followed by the winner of the roll doing the same.
 Then the winner of the roll decides on the order of the bans OR the picks. The loser decides on the order of the other option.
