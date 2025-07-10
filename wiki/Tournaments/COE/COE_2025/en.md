@@ -106,7 +106,7 @@ Players do not need to sign up prior to playing the qualifiers. Participating in
 
 Players will need to use both an osu! account and a Discord account during the tournament. No account changes can be made after playing the qualifier. 
 
-No member of the tournament organization may sign up for the tournament, with the exception of commentators.
+No member of the tournament organisation may sign up for the tournament, with the exception of commentators.
 
 ##### 1.2.2 Further details
 
