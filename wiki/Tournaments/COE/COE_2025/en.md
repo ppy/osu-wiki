@@ -170,7 +170,7 @@ Rounds with disconnects within 30 seconds or 25% of the beatmap length, whicheve
 
 #### 4.1 Format Overview
 
-The gamemode being played is osu!standard, all matches will be played using scoreV2.
+The gamemode being played is osu!standard, all matches will be played using ScoreV2.
 
 The finals consist of a single elimination bracket, with an additional match deciding the third place. All matches will be direct 1v1 best of 9 matches, except Grand Final and the third place match which will be best of 11.
 
