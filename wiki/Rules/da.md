@@ -25,7 +25,7 @@ Disse regler er grundlaget for, hvordan vi sikrer, at osu!-fællesskabet er et s
 5. **Hold chatten ren og passende for alle aldre. Det betyder, at NSFW emner skal undgås så meget som muligt.** NSFW emner er overhovedet ikke passende for et fællesskab, der inkluderer alle aldre. Gør hvad du vil i privatbeskeder (inden for rimelighedens grænser), men hold de offentlige kanaler rene.
 6. **Vær opmærksom på hvad du deler med andre, især hvis indholdet er potentielt stødende eller af grafisk natur.** Hvis du bliver nødt til at tænke dig om for at finde ud af, om det er tilladt at sende et link, er det sandsynligvis ikke okay. Undgå indhold med hurtigt blinkende lys, blod, overgrebsmateriale eller andet grafisk materiale.
 7. **Links bør kun henvise til relevante og lovlige hjemmesider.** Ulovlige streaming-hjemmesider (officielt licenserede sider såsom Animelab og Crunchyroll er OK) og alt relateret til "warez" eller piratkopieret software af alle former er ikke tilladt, og har ingen plads i chatten. Annoncering af Twitch-links for andre spil er okay, men KUN i `#videogames`.
-8. **Reklamér ikke for tredjeparts chatservere af enhver slags, især Discord og Teamspeak-servere/grupper.** osu! chatten handler først og fremmest om osu!, og ikke om at dele links til dine servere. Gør det via private beskeder, hvis du absolut skal.
+8. **Reklamér ikke for tredjepartschatservere af nogen slags, især Discord og Teamspeak-servere/grupper.** osu! chatten handler først og fremmest om osu!, og ikke om at dele links til dine servere. Gør det via private beskeder, hvis du absolut skal.
 9. **I sprog-specifikke kanaler skal det gældende sprog snakkes, hvis du deltager i diskussionen (Engelsk i `#english`, thailandsk i `#thai`, osv.).** I kanaler hvor der ikke eksplicit er skrevet, hvilket sprog der snakkes, er det altid engelsk. I `#lobby` og `#help` kanalerne kan alle sprog bruges. *[Moderatorer](/wiki/People/Global_Moderation_Team) behøver ikke at følge disse regler under udførelse af deres arbejde.*
 
 ## Forum-dækkende regler
@@ -35,12 +35,12 @@ Disse regler er grundlaget for, hvordan vi sikrer, at osu!-fællesskabet er et s
 3. **Vær produktiv med din kritik uden at ty til personlige angreb.** Kritik er fantastisk, når det er givet på den rigtige måde, men hvis du er nødt til at bruge personlige angreb for at få din pointe igennem, gør du det forkert, og du burde skamme dig.
 4. **Hold trådene på de relevante emner, og undgå at genoplive gamle emner, hvis diskussionen er død.** Hvis et emne har været dødt i adskillige år, er det ikke relevant længere, så lad det ligge. Lav et nyt opslag, eller brug søgefunktionen til at se, om nogen allerede har besvaret dit spørgsmål.
 5. **Hold din underskrift og avatar inden for rimelighedens grænser.** Hvis de er animerede, bør de ikke pulsere eller blinke overdrevent. Billederne skal også være i en filstørrelse, der er lille nok til, at brugere med langsommere forbindelser ikke kan føle deres tilstedeværelse på siden. Hold det under en halv megabyte (500 kilobyte) hvor det er muligt.
-6. **Lav ikke opslag med reklamer, henvisningslinks eller andet irriterende eller påtrængende indhold.** Ting såsom affiliate- eller henvisningslinks er måske sjove for den person der sender dem, men irriterer alle andre, så lad være. Autoloading eller automatisk afspilning af indhold/embeds falder også inden for denne regel.
+6. **Lav ikke opslag med reklamer, henvisningslinks eller andet irriterende eller påtrængende indhold.** Ting såsom affiliate- eller henvisningslinks er måske sjove for den person, der sender dem, men irriterer alle andre, så lad være. Autoloading eller automatisk afspilning af indhold/embeds falder også inden for denne regel.
 7. **Det er ikke tilladt at linke til applikationer eller værktøjer af usikker oprindelse.** Kort sagt, hvis der er nogen tvivl om, hvorvidt en applikation er lovlig, bør den ikke være på forummet.
 
 ## Regler for indsendte beatmaps
 
-*Note: Disse regler gælder **alle indsendte maps**, ikke kun dem, der er rangeret. For at se mere specifikke regler ift. rangerede beatmaps, se [Kriterier for rangering af beatmaps](/wiki/Ranking_criteria).*
+*Note: Disse regler gælder for **alle indsendte maps**, ikke kun dem, der er rangeret. For at se mere specifikke regler ift. rangerede beatmaps, se [Kriterierne for rangering af beatmaps](/wiki/Ranking_criteria).*
 
 Disse regler gælder udelukkende for beatmaps, der indsendes med [Beatmapindsendelsessystemet](/wiki/Beatmapping/Beatmap_submission) i spillet. Disse tråde/diskussioner bliver oprettet af osu!-klienten, når et beatmap indsendes gennem [editoren](/wiki/Client/Beatmap_editor).
 
@@ -66,7 +66,7 @@ Visse overtrædelser har en mindstestraf (oftest 43+ timer), hvis de er særligt
 
 Hvis du, efter flere overtrædelser, fortsætter med at bryde reglerne, kan din konto muligvis være permanent og uigenkaldeligt restricted.
 
-Restrictede brugere kan ikke spille online, sætte scores, chatte med andre brugere og er i alle henseender udelukket/"bannet" fra interaktion med resten af fællesskabet. En bruger, som er blevet restricted for overtrædelse af fællesskabsreglerne, kan kun få sin restriction fjernet efter anmodning til supportpersonalet, efter der er gået 3 måneder ([flere betingelser kan gælde](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
+Restrictede brugere kan ikke spille online, sætte scores eller chatte med andre brugere, og er i alle henseender udelukket/"bannet" fra interaktion med resten af fællesskabet. En bruger, som er blevet restricted for overtrædelse af fællesskabsreglerne, kan kun få sin restriction fjernet efter anmodning til supportpersonalet, efter der er gået 3 måneder ([flere betingelser kan gælde](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 Alvorlige overtrædelser, der går langt ud over grænserne for vores regler og ind i ulovligt territorie i henhold til almindelig international lovgivning, vil resultere i øjeblikkelig sletning af kontoen. Dette gælder næsten udelukkende for ekstremt grafiske eller på anden måde afskyelige overtrædelser, såsom distribution af børnepornografi eller andet overgrebsmateriale.
 
