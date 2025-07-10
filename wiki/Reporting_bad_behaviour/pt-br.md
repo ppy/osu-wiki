@@ -22,7 +22,7 @@ Para outros casos, siga as instruções abaixo.
 
 ![](img/report-command.jpg "Exemplo de uso do comando !report")
 
-Maus comportamentos no chat são as infrações mais comuns. Para denunciá-los, use o comando [`!report`](https://osu.ppy.sh/community/forums/topics/34843), de preferência no canal onde a infração ocorreu. Não se preocupe: se sua mensagem começar com `!report` seguido de um espaço, **ela será visível apenas para os moderadores**, e ninguém mais no chat. Se ainda estiver em dúvida, a função de denúncia pela [sobreposição no jogo](#in-game-overlay), mostrada abaixo, também está disponível.
+Maus comportamentos no chat são as infrações mais comuns. Para denunciá-los, use o comando [`!report`](https://osu.ppy.sh/community/forums/topics/34843), de preferência no canal onde a infração ocorreu. Não se preocupe: se sua mensagem começar com `!report` seguido de um espaço, **ela será visível apenas para os moderadores**, e ninguém mais no chat. Se ainda estiver em dúvida, a função de denúncia pela [sobreposição no jogo](#sobreposição-do-jogo), mostrada abaixo, também está disponível.
 
 A sintaxe do comando tem duas formas:
 
