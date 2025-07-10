@@ -1,6 +1,7 @@
 ---
 tags:
   - vcc
+no_native_review: true
 ---
 
 # Overvejelser om visuelt indhold
