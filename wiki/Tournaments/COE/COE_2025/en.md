@@ -187,7 +187,7 @@ Participants may recheck and reconfigure their setup up to 15 minutes before the
 Once both players and a referee join the match, both players will begin by rolling either using a physical method or the \!roll command.
 
 The loser of the roll will then be able to protect a map from the map pool from being banned, followed by the winner of the roll doing the same.\
-Then the winner of the roll decides on the order of the bans OR the picks. The loser decides on the order of the other option.\
+Then the winner of the roll decides on the order of the bans OR the picks. The loser decides on the order of the other option.
 Afterwards the players will ban 2 maps each in the order chosen.
 
 The players then alternate picking the map. If they reach a tie after playing 8 maps (or 10 during Grand Final or the third place match), the tiebreaker will be picked automatically.\
