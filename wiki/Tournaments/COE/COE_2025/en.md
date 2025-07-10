@@ -132,7 +132,7 @@ Stichting CAVOE EVENTS is not liable for any taxes or fees the participant may h
 
 Participants are not allowed to use custom skin elements to alter core gameplay elements or mechanics. Any modifications to the game not intended by the developer are also strictly forbidden.
 
-For qualifiers osu\! will be used. For the elimination matches osu\!lazer will be used.
+For qualifiers osu!(stable) will be used. For the elimination matches osu!(lazer) will be used.
 
 #### 2.2 Punctuality
 
