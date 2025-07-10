@@ -126,7 +126,7 @@ Stichting CAVOE EVENTS reserves the right to cancel any pending payment, if any 
 
 Stichting CAVOE EVENTS is not liable for any taxes or fees the participant may have to deduct from the prize.
 
-### 2\. Requirements
+### 2. Requirements
 
 #### 2.1 Game Requirements
 
