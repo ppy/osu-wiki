@@ -54,7 +54,7 @@ tags:
 
 По желанию первоначального автора работы любая её публикация, сделанная без согласия, может быть расценена как нарушение авторских прав. Чтобы обеспечить обеим сторонам честный процесс, об удалении можно попросить только через официальную жалобу.
 
-Пожалуйста, **не жалуйтесь** через [внутриигровую команду `!report`](/wiki/Reporting_bad_behaviour#in-game-chat) и [сайт osu!](/wiki/Reporting_bad_behaviour#website). Эти жалобы приходят членам [NAT](/wiki/People/Nomination_Assessment_Team) и [GMT](/wiki/People/Global_Moderation_Team), не имеющим права рассматривать юридические споры.
+Пожалуйста, **не жалуйтесь** через [внутриигровую команду `!report`](/wiki/Reporting_bad_behaviour#игровой-чат) и [сайт osu!](/wiki/Reporting_bad_behaviour#веб-сайт). Эти жалобы приходят членам [NAT](/wiki/People/Nomination_Assessment_Team) и [GMT](/wiki/People/Global_Moderation_Team), не имеющим права рассматривать юридические споры.
 
 ## Как удалить опубликованную карту? {id=delete-beatmap}
 
