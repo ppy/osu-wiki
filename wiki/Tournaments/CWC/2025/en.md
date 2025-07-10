@@ -126,12 +126,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
+| France ::{ flag=FR }:: | ::{ flag=IT }:: Italy | [Jul 13 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T140000&p1=1440&p2=195&p3=215) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Finland ::{ flag=FI }:: | ::{ flag=IT }:: Italy | [Jul 13 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T150000&p1=1440&p2=101&p3=215) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=IT }:: Italy | [Jul 13 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T150000&p1=1440&p2=195&p3=215) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Finland ::{ flag=FI }:: | ::{ flag=CL }:: Chile | [Jul 13 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T170000&p1=1440&p2=101&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=CL }:: Chile | [Jul 13 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T170000&p1=1440&p2=195&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=AR }:: Argentina | [Jul 13 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T183000&p1=1440&p2=263&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Grand Finals | mappool showcase | [Jul 13 (Sun) 20:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| United States ::{ flag=US }:: | ::{ flag=AR }:: Argentina | [Jul 13 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T170000&p1=1440&p2=263&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Grand Finals | mappool showcase | [Jul 13 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
