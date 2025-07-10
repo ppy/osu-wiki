@@ -120,7 +120,7 @@ The participants in the grand final and the winner of the match for third place 
 
 #### 1.3 Prize Money
 
-The prize money should ideally be paid out 90 days after the tournament has concluded, but may take as long as 180 days for the payment to be completed. If a participant has not provided any payment method to the tournament organization, the payment will be delayed until this is rectified.
+The prize money should ideally be paid out 90 days after the tournament has concluded, but may take as long as 180 days for the payment to be completed. If a participant has not provided any payment method to the tournament organisation, the payment will be delayed until this is rectified.
 
 Stichting CAVOE EVENTS reserves the right to cancel any pending payment, if any evidence of fraud or foul play has been discovered.
 
