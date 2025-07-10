@@ -104,7 +104,7 @@ Stichting CAVOE EVENTS reserves the right to modify this rulebook without notice
 
 Players do not need to sign up prior to playing the qualifiers. Participating in any qualifier match constitutes a sign up and thus binds the player to adhere to the [osu\! community rules](/wiki/Rules) in addition to this rulebook. Compliance will be screened by COE and osu\! staff.
 
-Players will need to use both an osu\! account and a Discord account during the tournament. No account changes can be made after playing the qualifier. 
+Players will need to use both an osu! account and a Discord account during the tournament. No account changes can be made after playing the qualifier. 
 
 No member of the tournament organization may sign up for the tournament, with the exception of commentators.
 
