@@ -199,7 +199,7 @@ Rounds with disconnects within 30 seconds or 25% of the beatmap length, whicheve
 
 Should a map end in a draw the beatmap will be replayed, before moving on to the next pick.
 
-### 5\. Code of Conduct
+### 5. Code of Conduct
 
 #### 5.1 Tournament Management
 
