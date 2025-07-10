@@ -166,7 +166,7 @@ A short break is given between each map, the exact duration is at the discretion
 
 Rounds with disconnects within 30 seconds or 25% of the beatmap length, whichever happens first, can be replayed, at the discretion of the referee, as long as the problem was clearly communicated in time.
 
-### 4\. Finals
+### 4. Finals
 
 #### 4.1 Format Overview
 
