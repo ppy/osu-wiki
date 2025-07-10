@@ -150,7 +150,7 @@ We reserve the right to inspect any equipment brought by participants and deny i
 
 #### 3.1 Format Overview
 
-The gamemode being played is osu\!standard, all matches will be played using scorev2.
+The gamemode being played is osu!standard, all matches will be played using scoreV2.
 
 During the qualifier, each participant will be given one attempt to set a high score on each map of the map pool. These attempts will be in matches scheduled beforehand.
 
