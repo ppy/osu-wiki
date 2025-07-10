@@ -62,7 +62,7 @@ It's Touhou Eurobeat time. Being a fairly uncommon genre in osu!catch, it was a 
 
 [Peargor](https://www.youtube.com/@Peargor/videos) made an appearance to work on the illustration for the song and [Noffy](https://osu.ppy.sh/users/1541323) worked on the storyboard, so go check out the map to get the full Side by Side experience.
 
-[![](/wiki/shared/news/2025-07-12-osucatch-world-cup-2025-semifinals-recap/Sonatina_Banner.jpg)](https://osu.ppy.sh/beatmapsets/2395293#fruits/5188100)
+[![](/wiki/shared/news/2025-07-12-osucatch-world-cup-2025-semifinals-recap/Sonatina_Banner.jpg)](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192)
 
 <div class="osu-md__paragraph">
     <audio controls>
