@@ -146,7 +146,7 @@ Participants will be given the chance before any LAN matches start to configure 
 
 We reserve the right to inspect any equipment brought by participants and deny it being used, if an attempt at foul play is suspected.
 
-### 3\. Qualifiers
+### 3. Qualifiers
 
 #### 3.1 Format Overview
 
