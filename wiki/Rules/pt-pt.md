@@ -64,7 +64,7 @@ Se depois de muitas infrações continuares a quebrar as regras, a tua conta pod
 
 Contas restritas não podem jogar online, enviar pontuações, conversar com outros utilizadores e são completamente "banidas" de qualquer interação com a comunidade. Restrição por violar uma regra da comunidade pode apenas ser removida por solicitação à equipa de suporte depois de 3 meses terem passado ([mais condições poderão ser aplicadas](/wiki/Help_centre/Account_restrictions#reasons)).
 
-Infrações extremamente graves que vão além das nossas regras da comunidade e que caem em jurisdição de conteúdo ilegal através de leis internacionais imediata da conta. Isto aplica-se quase que exclusivamente a conteúdo extremamente gráfico ou infrações abomináveis, tais como a distribuição de pornografia infantil ou outro material de abuso.
+Infrações extremamente graves que vão além das nossas regras da comunidade e que caem em jurisdição de conteúdo ilegal através de leis internacionais resultarão na terminação imediata da conta. Isto aplica-se quase exclusivamente a conteúdo extremamente gráfico ou infrações abomináveis, tais como a distribuição de pornografia infantil ou outro material de abuso.
 
 ## Notas
 
