@@ -119,19 +119,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Jul 12 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250712T150000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Italy ::{ flag=IT }:: | ::{ flag=CL }:: Chile | [Jul 12 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250712T170000&p1=1440&p2=215&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Finals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 13 July 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| France ::{ flag=FR }:: | ::{ flag=IT }:: Italy | [Jul 13 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T140000&p1=1440&p2=195&p3=215) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finland ::{ flag=FI }:: | ::{ flag=IT }:: Italy | [Jul 13 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T150000&p1=1440&p2=101&p3=215) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Finland ::{ flag=FI }:: | ::{ flag=CL }:: Chile | [Jul 13 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T170000&p1=1440&p2=101&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=CL }:: Chile | [Jul 13 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T170000&p1=1440&p2=195&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=AR }:: Argentina | [Jul 13 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T170000&p1=1440&p2=263&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Grand Finals | mappool showcase | [Jul 13 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| United States ::{ flag=US }:: | ::{ flag=AR }:: Argentina | [Jul 13 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T190000&p1=1440&p2=263&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Grand Finals | mappool showcase | [Jul 13 (Sun) 20:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250713T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
@@ -297,6 +293,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
   2. [siqlo - Vantablack (autofanboy) \[Subtlety\]](https://osu.ppy.sh/beatmapsets/2380716#fruits/5146343)
 
 ## Match results
+
+### Finals
+
+Saturday, 12 July 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Italy ::{ flag=IT }:: | -1 | **0** | ::{ flag=CL }:: **Chile** | *win by default* |  |
 
 ### Semifinals
 
@@ -615,7 +619,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
-[^showmatch]: Finals showmatch
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
