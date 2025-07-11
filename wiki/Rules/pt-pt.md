@@ -12,7 +12,7 @@ Estas regras são as que nós nos baseamos para a manter a comunidade do osu! um
 6. **Mantém-no limpo.** osu! não é o lugar para namorar ou engatar. Usar mídia/linguagem sexual ou assediar outros membros da comunidade em público ou privado NÃO é fixe. Se tu alguma vez te sentires descomfortável com a forma que alguém está a falar contigo, [avisa-nos anónimamente](/wiki/Reporting_bad_behaviour/Abuse) para que póssamos conseguir te ajudar (e possivélmente fazer com que outros não sejam afetados).
 7. **Onde as regras não prevalecem, o senso comum prevalecerá.** A administração tem o direito explícito de aplicar o seu julgamento onde acharem necessário.
 
-## In-game chat rules
+## Regras do chat no jogo
 
 1. **Sê respeitoso e atencioso com os outros jogadores no canal, e evita spamar** Uma pessoa a ocupar a metade do ecrã é irritante, então evita fazê-lo onde seja possível. Os outros também estão a tentar conversar!
 2. **Deixa os moderadores cuidar dos problemas no chat** Podes indicar-lhes coisas com [o comando`!report`](/wiki/Reporting_bad_behaviour) e eles cuidam do resto.
@@ -34,7 +34,7 @@ Estas regras são as que nós nos baseamos para a manter a comunidade do osu! um
 6. **Não publiques anúncios, links de referência ou outro tipo de conteúdo intrusivo ou irritante.** Coisas como links de afiliado ou de referência são divertidos para a pessoa que os publica e uma chatice para os outros, então não o faças. Conteúdo que carrega ou reproduz automáticamente também faz parte desta regra.
 7. **Partilhar links para aplicações ou serviços sem uma intenção clara não é permitido.** Resumindo, se existe alguma dúvida a ver com a legalidade dos serviços em questão, não é permitido publicá-los.
 
-## Beatmap submission rules
+## Regras de submissão de mapas
 
 *Nota: Estas regras aplicam-se a **todos os mapas submetidos**, não só os ranqueados. Para regras mais específicas a ver com mapas ranqueados, vê os [Critérios para Ranking](/wiki/Ranking_criteria).*
 
