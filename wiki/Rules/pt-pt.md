@@ -26,24 +26,24 @@ Estas regras são as que nós nos baseamos para a manter a comunidade do osu! um
 
 ## Regras dos fórums
 
-1. **Publica apenas conteúdo relevante, interessante ou a ver com tópicos envolventes** Fórums são, acima de tudo, sobre discussões, então certifica-te de que fazes um esforço para fazê-lo valer a pena para passar o tempo.
+1. **Publica apenas conteúdo relevante, interessante ou a ver com tópicos envolventes** Fórums são, acima de tudo, sobre discussões, então certifica-te de que fazes um esforço para não desperdiçar o tempo dos outros.
 2. **Mantém as tuas publicações apropriadas para pessoas de todas as idades** Conteúdo NSFW não é apropriado para uma comunidade para todas as idades, mas nada te para de discutir sobre estes tipos de coisas em mensagens privadas.
 3. **Sê produtivo com as tuas críticas sem teres de usar ataques pessoais.** Críticas são maravilhosas quando são dadas da forma correta, mas quando fazes ataques pessoais para provar um ponto, estás a dá-las de forma errada e deverias te sentir mal.
-4. **Mantém threads relevantes, e evita ressuscitar tópicos antigos se a conversa morreu.**Se um tópico morreu há anos, já não é relevante, então deixa-o desaparecer. Publica um novo, ou talvez procura se alguém já respondeu à tua pergunta.
+4. **Mantém threads relevantes, e evita ressuscitar tópicos antigos se a conversa morreu.** Se um tópico morreu há anos, já não é relevante, então deixa-o desaparecer. Publica um novo, ou talvez procura se alguém já respondeu à tua pergunta.
 5. **Mantém as tuas assinaturas e avatares razoáveis.** Se são animados, não devem se mover rápido ou piscar excessivamente. As imagens também devem ter um tamanho pequeno o suficiente para utilizadores com uma conexão mais lenta para não sentir a sua presença na página, idealmente menos de metade de um megabyte (500 kilobytes) onde possível.
-6. **Don't post advertisements, referral links or any other annoying or intrusive content. Não publiques anúncios, links de referência ou outro tipo de conteúdo intrusivo ou irritante.** Coisas como links de afiliado ou de referência são divertidos para a pessoa que os publica e uma chatice para os outros, então não o faças. Conteúdo que carrega ou reproduz automáticamente também faz parte desta regra.
+6. **Não publiques anúncios, links de referência ou outro tipo de conteúdo intrusivo ou irritante.** Coisas como links de afiliado ou de referência são divertidos para a pessoa que os publica e uma chatice para os outros, então não o faças. Conteúdo que carrega ou reproduz automáticamente também faz parte desta regra.
 7. **Partilhar links para aplicações ou serviços sem uma intenção clara não é permitido.** Resumindo, se existe alguma dúvida a ver com a legalidade dos serviços em questão, não é permitido publicá-los.
 
 ## Beatmap submission rules
 
-*Note: These rules apply to **all submitted maps**, not just Ranked ones. For more specific rules regarding Ranked beatmaps, see the [Ranking Criteria](/wiki/Ranking_criteria).*
+*Nota: Estas regras aplicam-se a **todos os mapas submetidos**, não só os ranqueados. Para regras mais específicas a ver com mapas ranqueados, vê os [Critérios para Ranking](/wiki/Ranking_criteria).*
 
-These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Client/Beatmap_editor).
+Estas regras aplicam-se estritamente aos mapas submetidos por meio do [Sistema de Submissão de Beatmaps](/wiki/Beatmapping/Beatmap_submission). Estes threads/discussões são criadas por meio do cliente do osu! quando um mapa é enviado através do [editor](/wiki/Client/Beatmap_editor).
 
-1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content Usage Guidelines](Content_Usage_Guidelines) for more information.
-2. **Stay on topic in [beatmap discussions](/wiki/Beatmap_discussion).** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
-3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
-4. **Follow the [Song Content Rules](Song_Content_Rules) and [Visual Content Considerations](Visual_Content_Considerations).**
+1. **Certifica-te de que tens permissão para usar qualquer conteúdo envolvido no teu mapa.** Isto inclui músicas, vídeos, hitsounds, gráficos, e qualquer outro tipo de conteúdo que não foi criado por ti. Se não sabes onde encontrar conteúdo que é grátis para usar, procura na nossa biblioteca de [artistas em destaque](https://osu.ppy.sh/beatmaps/artists) por músicas que são 100% licenciadas para uso no osu! e nas [Regras de Uso de Conteúdo](Content_Usage_Guidelines) para mais informação.
+2. **Mantém-te no assunto nas [Discussões de Beatmaps](/wiki/Beatmap_discussion).** Estas threads/discussões são sobre o mapa em questão, e mais nada. Se tens um problema com algo que não tem diretamente a ver com o mapa, publica-o no fórum apropriado.
+3. **Não copies ou tentes roubar o trabalho dos outros.** Também não envies ou uses o trabalho dos outros sem a permissão explícita da pessoa (incluindo, mas não limitado a, skins e dificuldades de convidados).
+4. **Segue as [Regras de Conteúdo de Música](Song_Content_Rules) e as [Considerações de Conteúdo Visual](Visual_Content_Considerations).**
 
 ## O que acontece se eu quebrar as regras?
 
