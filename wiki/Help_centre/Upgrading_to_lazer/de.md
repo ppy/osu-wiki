@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4a1a14df452fb0a43d34c5a90e4c93a18ff26f12
 ---
 
 # Umstellung auf lazer
