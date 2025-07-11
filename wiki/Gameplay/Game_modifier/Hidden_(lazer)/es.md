@@ -14,10 +14,10 @@ tags:
 
 ![Icono del mod Hidden](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png)
 
-*![][osu!]: Juega sin círculos de aproximación y con círculos/sliders que desaparecen.*\
-*![][osu!taiko]: ¡Las notas desaparecen antes de que las pulses!*\
-*![][osu!catch]: Juega con frutas que desaparecen.*\
-*![][osu!mania]: ¡Las notas desaparecen antes de que las pulses!*
+*![][osu!] Juega sin círculos de aproximación y con círculos/sliders que desaparecen.*\
+*![][osu!taiko] ¡Las notas desaparecen antes de que las pulses!*\
+*![][osu!catch] Juega con frutas que desaparecen.*\
+*![][osu!mania] ¡Las notas desaparecen antes de que las pulses!*
 
 |  |  |
 | :-- | :-- |
@@ -35,6 +35,14 @@ tags:
 
 *Para la versión de osu!stable de este artículo, véase: [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)*\
 *Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+El mod **Hidden** elimina los [círculos de aproximación](/wiki/Gameplay/Hit_object/Approach_circle) y hace que los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) se desvanezcan después de aparecer en la pantalla.
+
+## Personalización
+
+![Opciones de personalización del mod Hidden en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HD.png)
+
+- **Only fade approach circles** (predeterminado: desactivado): Hace invisibles los círculos de aproximación sin aplicar el efecto de desvanecimiento en las notas.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

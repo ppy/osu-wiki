@@ -24,6 +24,7 @@
 ## Активности
 
 - [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event)
+- [Moscow osu! Event](/wiki/Community/Moscow_osu!_Event)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
 - [Встречи сообщества osu!](/wiki/Community/osu!_community_meetings)
 - [Ивенты среди номинаторов](/wiki/Community/Beatmap_Nominator_events)
