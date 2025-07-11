@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!catch World Cup 2025: Semifinals Recap"
-date: 2025-07-12 12:00:00 +0000
+date: 2025-07-11 18:00:00 +0000
 ---
 
 We are now officially in the endgame. Only two weeks remain to decide who will be crowned the 2025 osu!catch champions, so make sure to catch up to what's been happening to avoid missing out on the exciting final stages!
 
-![](/wiki/shared/news/2025-07-12-osucatch-world-cup-2025-semifinals-recap/banner.png)
+![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/banner.png)
 
 Last weekend, 12 teams played in the Semifinals round, but in the end, only 6 remain. At this point in the tournament, every single team still competing is a top contender looking to reach the very last stage of the tournament — and for the most ambitious, even aspiring to win it all in the end. Let's take a look at all that happened in the past week.
 
@@ -24,7 +24,7 @@ Last weekend, 12 teams played in the Semifinals round, but in the end, only 6 re
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2499196622&t=4h6m5s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-07-12-osucatch-world-cup-2025-semifinals-recap/cwc-2025-sf-mappool.png)
+![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/cwc-2025-sf-mappool.png)
 
 The Semifinals mappool was one of the biggest step-ups in difficulty in the tournament so far. It makes sense given the remaining teams, giving us an introduction to late-tournament pools. It started right away with [R.I.P.](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524) (NM1), mapped by [Zyzyx](https://osu.ppy.sh/users/2888013) and [Yoshi_green](https://osu.ppy.sh/users/1035891), standing at a star rating of 7.95 and featuring intense and stamina-draining patterning for the full three and a half minutes. 
 
@@ -38,7 +38,7 @@ This round also featured the first [ExGon](https://osu.ppy.sh/users/214187) appe
 
 Two weeks ago, the first [osu! original](/wiki/osu!_originals) of the tournament was revealed. Last week, that number increased to two, and for this week... you guessed it: three originals are here!
 
-[![](/wiki/shared/news/2025-07-12-osucatch-world-cup-2025-semifinals-recap/SUTEGORO_Banner.png)](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955)
+[![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/SUTEGORO_Banner.png)](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -50,7 +50,7 @@ We started off strong with [SUTEGORO](https://osu.ppy.sh/beatmapsets/2395265#fru
 
 Also, be sure to check out the beautiful photography by [Amphy](https://osu.ppy.sh/users/10762223), edited by [hourius](https://osu.ppy.sh/users/12580298) used for the background art!
 
-[![](/wiki/shared/news/2025-07-12-osucatch-world-cup-2025-semifinals-recap/SidebySide_Banner.png)](https://osu.ppy.sh/beatmapsets/2395293#fruits/5188100)
+[![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/SidebySide_Banner.png)](https://osu.ppy.sh/beatmapsets/2395293#fruits/5188100)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -62,7 +62,7 @@ It's Touhou Eurobeat time. A fairly uncommon genre in osu!catch, it was a pleasa
 
 [Peargor](https://www.youtube.com/@Peargor/videos) made an appearance to work on the illustration for the song and [Noffy](https://osu.ppy.sh/users/1541323) worked on the storyboard, so go check out the map to get the full *Side by Side* experience.
 
-[![](/wiki/shared/news/2025-07-12-osucatch-world-cup-2025-semifinals-recap/Sonatina_Banner.jpg)](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192)
+[![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/Sonatina_Banner.jpg)](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192)
 
 <div class="osu-md__paragraph">
     <audio controls>
