@@ -14,7 +14,7 @@ On the `Usage Information` screen, choose `Optimize for recording, streaming is 
 
 ![Usage Information](img/recording_osu_1.png)
 
-On the `Video Settings` screen, set `Base (Canvas) Reesolution` to your monitor's native resolution, and set `FPS` to `60`. You can also use `Either 60 or 30, but prefer 60 when possible`, but if your computer struggles to maintain 60 FPS, you likely will struggle to record high-quality osu! videos.
+On the `Video Settings` screen, set `Base (Canvas) Resolution` to your monitor's native resolution, and set `FPS` to `60`. You can also use `Either 60 or 30, but prefer 60 when possible`, but if your computer struggles to maintain 60 FPS, you likely will struggle to record high-quality osu! videos.
 
 ![Video Settings](img/recording_osu_2.png)
 
@@ -29,7 +29,7 @@ In `Settings`, go to the `Output` tab on the left, change `Output Mode` from `Si
 Screen recording is a balance of performance and output quality. While this depends on your hardware, below are some things to consider:
 
 - `Video Encoder` has a big impact on performance and output quality. Experiment with these to see which works best for your setup.
-- `Bitrate` loosely equates to recording quality. Setting this number higher will make output quality higher and increase performance strain.
+- `Bitrate` loosely equates to recording quality. Setting this number higher will make the output quality higher, but will also increase your device's performance strain.
 - If your recording settings are more intense than your computer can handle, a warning will be shown in the bottom left of OBS Studio. In this case, you will also likely be able to see lag during video playback.
 
 ![Video Settings](img/recording_osu_3.png "As a point of reference, these are the settings used for videos on the osu! YouTube channel")
@@ -44,7 +44,7 @@ An empty scene is created by default. To add to the scene, click the `+` icon in
 
 In the `Create/Select Source` popup, select `Create new` and click `OK`. On the following screen titled `Properties for 'Game Capture'`:
 
-- If you run osu! fullscreen, set `Mode` to `Capture any fullscreen window`
+- If you run osu! fullscreen, set `Mode` to `Capture any fullscreen window`.
 - If you run osu! borderless or windowed, change `Mode` to `Capture specific window`, then open the game and find `[osu!.exe]: osu!` in the `Window` dropdown.
 
 If you see a black box instead of osu! in the preview window, right click the `Game Capture` source and try to adjust the window settings.
