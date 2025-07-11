@@ -9,14 +9,13 @@ tags:
   - модификатор
   - хд
   - хидден
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Hidden (мод)
 
 ![Значок мода HD](/wiki/shared/mods/HD.png "Значок мода Hidden (HD)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Hidden (мод lazer)](/wiki/Gameplay/Game_modifier/Hidden_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 *Эта статья — про мод, убирающий круги вокруг нот. О моде, снижающем область видимости, см. [Fade In (мод)](/wiki/Gameplay/Game_modifier/Fade_In). О моде, затемняющем игровое поле, см. [Flashlight (мод)](/wiki/Gameplay/Game_modifier/Flashlight).*
 

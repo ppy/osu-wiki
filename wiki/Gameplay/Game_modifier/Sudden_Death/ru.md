@@ -7,14 +7,13 @@ tags:
   - SD
   - мод
   - игровой модификатор
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Sudden Death (мод)
 
 ![Значок мода SD](/wiki/shared/mods/SD.png "Значок мода Sudden Death (SD)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Sudden Death (мод lazer)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 *См. также: [Perfect (мод)](/wiki/Gameplay/Game_modifier/Perfect)*
 

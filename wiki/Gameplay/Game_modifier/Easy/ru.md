@@ -9,14 +9,13 @@ tags:
   - модификатор
   - изи
   - изимод
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Easy (мод)
 
 ![Значок мода EZ](/wiki/shared/mods/EZ.png "Значок мода Easy (EZ)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Easy (мод lazer)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
 *У этого термина существуют и другие значения, см. [Easy (значения)](/wiki/Disambiguation/Easy).*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 

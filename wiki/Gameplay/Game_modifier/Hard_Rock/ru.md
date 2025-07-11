@@ -11,14 +11,13 @@ tags:
   - хардрок
   - хард рок
   - хард-рок
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Hard Rock (мод)
 
 ![Значок мода HR](/wiki/shared/mods/HR.png "Значок мода Hard Rock (HR)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Hard Rock (мод lazer)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

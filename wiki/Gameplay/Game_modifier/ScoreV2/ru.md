@@ -8,14 +8,14 @@ tags:
   - игровой модификатор
   - мод
   - скор в2
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
+  - св2
 ---
 
 # ScoreV2 (мод)
 
 ![Значок мода SV2](/wiki/shared/mods/SV2.png "Значок мода ScoreV2 (SV2)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Score V2 (мод lazer)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 *Не следует путать со [Score](/wiki/Gameplay/Score) или [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
 

@@ -14,14 +14,13 @@ tags:
   - фэйд-ин
   - фейд ин
   - фэйд ин
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Fade In (мод)
 
 ![Значок мода FI](/wiki/shared/mods/FI.png "Значок мода Fade In (FI)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Fade In (мод lazer)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 *Эта статья — про мод, снижающий область видимости. О моде, убирающем круги вокруг нот, см. [Hidden (мод)](/wiki/Gameplay/Game_modifier/Hidden). О моде, затемняющем игровое поле, см. [Flashlight (мод)](/wiki/Gameplay/Game_modifier/Flashlight).*
 

@@ -7,14 +7,13 @@ tags:
   - game modifier
   - мод
   - игровой модификатор
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # No Fail (мод)
 
 ![Значок мода (NF)](/wiki/shared/mods/NF.png "Значок мода No Fail (NF)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [No Fail (мод lazer)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

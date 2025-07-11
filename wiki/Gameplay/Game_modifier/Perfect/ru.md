@@ -9,14 +9,14 @@ tags:
   - мод
   - игровой модификатор
   - SS
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
+  - сс
 ---
 
 # Perfect (мод)
 
 ![Значок мода PF](/wiki/shared/mods/PF.png "Значок мода Perfect (PF)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Perfect (мод lazer)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 *См. также: [Sudden Death (мод)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 

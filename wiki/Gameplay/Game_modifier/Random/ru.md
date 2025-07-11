@@ -8,14 +8,13 @@ tags:
   - рандом
   - мод
   - игровой модификатор
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Random (мод)
 
 ![Значок мода RD](/wiki/shared/mods/RD.png "Значок мода Random (RD)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Random (мод lazer)](/wiki/Gameplay/Game_modifier/Random_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

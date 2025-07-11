@@ -9,14 +9,13 @@ tags:
   - миррор
   - мирор
   - зеркало
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Mirror (мод)
 
 ![Значок мода MR](/wiki/shared/mods/MR.png "Значок мода Mirror (MR)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Mirror (мод lazer)](/wiki/Gameplay/Game_modifier/Mirror_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
