@@ -11,11 +11,11 @@ tags:
   - авто спиннер
 ---
 
-# Spun Out (мод)
+# Spun Out
 
 ![Значок мода SO](/wiki/shared/mods/SO.png "Значок мода Spun Out (SO)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Spun Out (мод lazer)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Spun Out (lazer)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

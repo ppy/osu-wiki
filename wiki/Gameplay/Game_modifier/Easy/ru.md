@@ -11,11 +11,11 @@ tags:
   - изимод
 ---
 
-# Easy (мод)
+# Easy
 
 ![Значок мода EZ](/wiki/shared/mods/EZ.png "Значок мода Easy (EZ)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Easy (мод lazer)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Easy (lazer)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
 *У этого термина существуют и другие значения, см. [Easy (значения)](/wiki/Disambiguation/Easy).*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 

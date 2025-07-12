@@ -11,11 +11,11 @@ tags:
   - кинозал
 ---
 
-# Cinema (мод)
+# Cinema
 
 ![Значок мода CM](/wiki/shared/mods/CM.png "Значок мода Cinema (CM)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Cinema (мод lazer)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Cinema (lazer)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 *Не следует путать с [кинематографом](https://ru.wikipedia.org/wiki/Кинематограф).*
 
