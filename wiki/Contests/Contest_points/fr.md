@@ -4,7 +4,7 @@ no_native_review: true
 
 # Points de concours
 
-Les points de concours sont des points utilisés comme récompense dans les concours officiels de mapping. Ils sont principalement utilisés pour déterminer l'éligibilité d'un utilisateur à recevoir le titre de *Elite Mapper*, qui est décerné aux utilisateurs ayant atteint **6 points**.
+Les **points de concours** sont des points utilisés comme récompense dans les concours officiels de mapping. Ils sont principalement utilisés pour déterminer l'éligibilité d'un utilisateur à recevoir le titre de *Elite Mapper*, qui est décerné aux utilisateurs ayant atteint **6 points**.
 
 Les points de concours peuvent également être accordés en tant que bénéfice du [support officiel du concours de beatmap](/wiki/Contests/Official_support) sous [certaines circonstances](/wiki/Contests/Official_support#éligibilité).
 

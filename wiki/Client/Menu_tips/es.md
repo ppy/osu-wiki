@@ -8,6 +8,8 @@ tags:
   - consejos
   - pista
   - pistas
+outdated_translation: true
+outdated_since: e688068a42d44a2f45d9f1326d2b26ac768c7919
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656/en-es -->

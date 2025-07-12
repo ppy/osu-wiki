@@ -1,65 +1,58 @@
 # How to record videos of osu!
 
-[Want to use Virtualdub instead of Sony Vegas? Click here!](https://osu.ppy.sh/community/forums/posts/252802)
+*See also: [Livestreaming osu!](/wiki/Guides/Livestreaming_osu!)*
 
-Always wanted to make a video for YouTube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that. **Please note that there are more ways to do this, this is just my way.** [See result of this tutorial here (Watch in HD and fullscreen!)](https://youtube.com/watch?v=JRGhQh69geI).
+While there are countless ways to **record videos of osu!**, this guide will cover one of the simplest options using [OBS Studio](https://obsproject.com/).
 
-## Requirements
+## Settings
 
-- Recording software
-  - [OBS](https://obsproject.com/)
-  - [Fraps](https://fraps.com/)
-  - [Action!](https://actionrecorder.com/)
-  - [Bandicam](https://www.bandicam.com/)
-- Editing/Rendering software (Never ever use Windows Moviemaker, it will lower the quality of the video drastically!)
-  - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
-  - [Adobe Premier](https://www.adobe.com/products/premiere.html)
-  - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)
-  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+### Auto-configuration wizard
 
-### Configuring Fraps
+When you launch OBS Studio for the first time, the auto-configuration wizard will open.
 
-Open Fraps, and lets screw around with the settings.
+On the `Usage Information` screen, choose `Optimize for recording, streaming is secondary` and click `Next`.
 
-![Fraps](img/Recording_1.png "Fraps")
+![Usage Information](img/recording_osu_1.png)
 
-Make sure that:
+On the `Video Settings` screen, set `Base (Canvas) Reesolution` to your monitor's native resolution, and set `FPS` to `60`. You can also use `Either 60 or 30, but prefer 60 when possible`, but if your computer struggles to maintain 60 FPS, you likely will struggle to record high-quality osu! videos.
 
-- You make the Video Capture Hotkey a key that won't be in the way;
-- If you get a output video that has a jumpy framerate, that you limit the framerate to 30. If this isn't the case, just use 60 FPS;
-- If you get a output video that has a low framerate, that you record 'half-size'. The video will be the half of the resolution its recorded from (alternatively: you could run osu! in a lower resolution when recording);
-- You have enough free space left on your hard disk. If not, the video will end early when there isn't anymore space left to store;
-- No Cursor is checked
-- YOU RECORD SOUND! There is nothing worse then osu! videos with later added music.
+![Video Settings](img/recording_osu_2.png)
 
-## Recording your gameplay
+On the `Final Results` screen, OBS Studio will list automatically selected settings based on your computer's specs. Click `Apply Settings` to continue.
 
-Open osu! whilst Fraps is running. If everything goes right (and if you haven't disabled this feature), you'll see a yellow FPS counter in a corner of the screen.
+### Additional settings
 
-![osu! while running Fraps](img/Recording_2.png "osu! while running Fraps")
+By default, OBS Studio outputs `.mkv` files. While this is ideal if OBS unexpectedly crashes or you use separate audio channels, many video editing programs don't handle `.mkv` files, so changing output to `.mp4` is recommended.
 
-Now, go to the thing that you want to record. i.e: a replay of yourself getting a highscore! When you are at the part where you want to start the recording, press your Video Capture Hotkey. The FPS counter might drop and must turn red. You are now recording. Look for a minute if the FPS rate isn't changing allot. If so, try some of these tips listed above.
+In `Settings`, go to the `Output` tab on the left, change `Output Mode` from `Simple` to `Advanced`, then click the `Recording` tab on the top. From here, change `Recording Format` from `Matroska Video (.mkv)` to `MPEG-4 (.mp4)`.
 
-![osu! while recording with Fraps](img/Recording_3.png "osu! while recording with Fraps")
+Screen recording is a balance of performance and output quality. While this depends on your hardware, below are some things to consider:
 
-Press the Video Capture Hotkey again to stop recording.
+- `Video Encoder` has a big impact on performance and output quality. Experiment with these to see which works best for your setup.
+- `Bitrate` loosely equates to recording quality. Setting this number higher will make output quality higher and increase performance strain.
+- If your recording settings are more intense than your computer can handle, a warning will be shown in the bottom left of OBS Studio. In this case, you will also likely be able to see lag during video playback.
 
-## Editing your output video
+![Video Settings](img/recording_osu_3.png "As a point of reference, these are the settings used for videos on the osu! YouTube channel")
 
-Drag and drop the video on the timeline in Vegas. If there are multiple files, Vegas will add them to the end of the previous part automatically.
+## Recording
 
-![Editing video clip](img/Recording_4.png "Editing video clip")
+On OBS Studio's main screen, you will see a `Scenes` box and a `Sources` box. Any scene can be composed of multiple sources, but for the sake of this tutorial, only one source will be added: your osu! window.
 
-You can do some optional editing now.
+An empty scene is created by default. To add to the scene, click the `+` icon in the `Sources` section, then select `Game Capture`. You can also use `Display Capture`, but this can cause latency issues, so it is not recommended.
 
-## Rendering your video
+![Scenes and Sources](img/recording_osu_4.png)
 
-Now that you are done editing the video, go to 'File', then click 'Render As'. Use the following options (depending on your Vegas version):
+In the `Create/Select Source` popup, select `Create new` and click `OK`. On the following screen titled `Properties for 'Game Capture'`:
 
-![Rendering video clip](img/Recording_5.png "Rendering video clip")
+- If you run osu! fullscreen, set `Mode` to `Capture any fullscreen window`
+- If you run osu! borderless or windowed, change `Mode` to `Capture specific window`, then open the game and find `[osu!.exe]: osu!` in the `Window` dropdown.
 
-![Rendering video clip](img/Recording_6.png "Rendering video clip")
+If you see a black box instead of osu! in the preview window, right click the `Game Capture` source and try to adjust the window settings.
 
-Press the save button, and your video will be done in a couple of minutes. It's now ready for YouTube! Please note that it will take some time before the video will be available in high res on YouTube, be patient!
+![OBS fully set up](img/recording_osu_5.png)
 
-**Now, go make videos and spread osu!.** Guide done by [Remco32](https://osu.ppy.sh/users/9199), original thread [here](https://osu.ppy.sh/community/forums/topics/18112)
+If your goal is to only record osu! gameplay, you likely want to mute the `Mic/Aux` section of the `Audio Mixer` by clicking the sound icon.
+
+![OBS fully set up](img/recording_osu_6.png)
+
+OBS Studio's other default settings are adequate for recording osu! gameplay, so once this is done, OBS Studio should be ready to go!
