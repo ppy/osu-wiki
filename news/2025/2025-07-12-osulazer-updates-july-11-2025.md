@@ -20,6 +20,12 @@ As summer is reaching its peak, we're not sure who's cooking more — the Sun, o
 - **The automatic offset calibration has been improved.** The calibration will now take into account your previous valid play if the last play was too short to evaluate the offset.
 - **Hit windows have been adjusted to match osu!(stable).** Long story short, osu!(lazer) and osu!(stable) used to have different hit windows due to them not handling rounding the same way. This has now been aligned, which will aid with making sure viewing replays is on par with osu!(stable). If you are interested in the long story, check out [pishifat](https://osu.ppy.sh/users/3178418)'s explanation below.
 
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ### Song Select
 
 - **Song select V2 is now just song select.** No more using secret techniques to get access to the new song selection screen.
@@ -30,12 +36,26 @@ As summer is reaching its peak, we're not sure who's cooking more — the Sun, o
 ### Editor
 
 - Maintain scroll position relative to hovered drawable when editor toolbox expands (ppy/osu#33621)
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="" type="video/mp4" preload="none">
+    </video>
+</div>
+
 - always show kiai in the editor's bottom timeline (even super short ones) (ppy/osu#33850)
 - Fix lack of slider encode-decode stability due to truncating control point coordinates on decode (ppy/osu#33615)
 
 ### Skinning
 
 - **You can now edit skins externally.** The previously convoluted way of editing your favourite skins has now been upgraded to the same system osu!(stable) used. In the skin editor, go to `File`, select `Edit externally`, and open the folder where you change the skin elements.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="" type="video/mp4" preload="none">
+    </video>
+</div>
+
 - **You can now toggle leaderboard collapsing during gameplay.** This means you can either always have the full leaderboard visible at all times (names and all), or have it automatically collapse and only show profile pictures and leaderboard rank.
 
 ---
