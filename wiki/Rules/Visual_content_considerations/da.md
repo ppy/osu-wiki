@@ -66,8 +66,8 @@ Hvis du overhovedet er i tvivl om et billede, der skal inkluderes i et beatmap p
 
 Ethvert billede, video eller visuelt indhold, som GMTet mener er upassende, fjernes fra hjemmesiden. Derudover kan brugeren, der indsendte det fjernede indhold, blive [silenced](/wiki/Help_centre/Silences) i 43 timer, afhængig af indholdets grovhed og brugerens tidligere relevante opførsel.
 
-Silences bliver ikke brugt for upassende indhold på beatmaps, hvis indholdet ikke er grovt upassende og brugeren fjerner det upassende indhold indenfor rimelig kort tid.
+Silences bliver ikke anvendt for upassende indhold på beatmaps, hvis indholdet ikke er grovt upassende og brugeren fjerner det upassende indhold indenfor rimelig kort tid.
 
 ## Anmærkninger
 
-[^drug-nature]: Undtagelser kan gælde, afhængig af stoffets karakter, brug og subkultur, især i tilfælder af stoffer, der hurtigt bliver afkriminaliseret og reguleret, som marihuana. Anmodninger om specifikke undtagelser fra denne regel skal ske ved at kontakte [support-teamet](/wiki/People/Account_support_team) via [support@ppy.sh](mailto:support@ppy.sh).
+[^drug-nature]: Undtagelser kan gælde, afhængig af stoffets karakter, brug og subkultur, især i tilfælde af stoffer, der hurtigt bliver afkriminaliseret og reguleret, som marihuana. Anmodninger om specifikke undtagelser fra denne regel skal ske ved at kontakte [support-teamet](/wiki/People/Account_support_team) via [support@ppy.sh](mailto:support@ppy.sh).
