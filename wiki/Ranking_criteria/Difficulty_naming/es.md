@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 22c2be496f648366df460c3770493ea5aadd92e4
----
-
 # Nombramiento de las dificultades
 
 El objetivo del nombramiento de las dificultades es informar a los jugadores de lo difícil que es un mapa. En este artículo se enumeran los usos comunes, así como otras alternativas que se han ido recopilando a lo largo de los años. Sin embargo, siempre que el conjunto de los nombres de las dificultades sean descriptivos e indiquen claramente la progresión de la dificultad, puedes usar cualquier tipo de esquema que quieras.
@@ -138,6 +133,7 @@ Los mapas de canciones procedentes de otros juegos suelen tomar prestado el esqu
 #### SOUND VOLTEX EXCEED GEAR
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expert-o.png?20211215) ULTIMATE / ULT
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
 
 ### Arcaea
