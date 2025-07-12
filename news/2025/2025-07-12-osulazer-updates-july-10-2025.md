@@ -22,7 +22,7 @@ As summer is reaching its peak, we're not sure who's cooking more — the Sun, o
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-07-12-lazer-hit-window-change.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -30,12 +30,11 @@ As summer is reaching its peak, we're not sure who's cooking more — the Sun, o
 
 - **Song select V2 is now just song select.** No more using secret techniques to get access to the new song selection screen.
 - **Beatmap backgrounds can be revealed in song select now.** By long pressing the empty space in the middle of the song select screen, you can view the entire beatmap background.
-- **Various UX fixes have been made.** Including, but not limited to: the back button now being extended to the corner, the play (osu!) button not being actionable as soon as you exit mod select, and the song selection with arrow keys behaviour getting aligned with osu!(stable).
-- **Some UI improvements have also been made.** Namely, the background blur option has been re-added for song select, and the leaderboard hover tooltip has had its design improved to make more sense.
+- **Various UX fixes have been made.** Including, but not limited to: the back button now being extended to the corner, the play (osu!) button not being actionable as soon as you exit mod select, and the song selection with arrow keys behaviour getting aligned with osu!(stable). **Some UI improvements have also been made.** Namely, the background blur option has been re-added for song select, and the leaderboard hover tooltip has had its design improved to make more sense.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-07-12-song-select-v2-features.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -45,7 +44,7 @@ As summer is reaching its peak, we're not sure who's cooking more — the Sun, o
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-07-12-editor-sidebar-scroll-position.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -58,7 +57,7 @@ As summer is reaching its peak, we're not sure who's cooking more — the Sun, o
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2025-07-12-edit-skin-externally.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
