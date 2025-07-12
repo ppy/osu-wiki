@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "osu!(lazer) Updates: July 11, 2025"
-date: 2025-07-11 20:00:00 +0000
+title: "osu!(lazer) Updates: July 10, 2025"
+date: 2025-07-12 21:00:00 +0000
 ---
 
 The warm summer breeze, a nice cold drink, the sounds of the sea waves hitting the beach, and osu!(lazer) updates — truly a perfect combination these hot summer days.
 
-![](/wiki/shared/news/2025-07-12-osulazer-updates-july-11-2025/banner.jpg)
+![](/wiki/shared/news/2025-07-12-osulazer-updates-july-10-2025/banner.jpg)
 
 As summer is reaching its peak, we're not sure who's cooking more — the Sun, or the osu! development team. This time around the update is somewhat lighter than usual, and that's perfect considering that large, hearty meals are usually avoided during this period.
 
