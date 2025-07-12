@@ -33,6 +33,12 @@ As summer is reaching its peak, we're not sure who's cooking more — the Sun, o
 - **Various UX fixes have been made.** Including, but not limited to: the back button now being extended to the corner, the play (osu!) button not being actionable as soon as you exit mod select, and the song selection with arrow keys behaviour getting aligned with osu!(stable).
 - **Some UI improvements have also been made.** Namely, the background blur option has been re-added for song select, and the leaderboard hover tooltip has had its design improved to make more sense.
 
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ### Editor
 
 - Maintain scroll position relative to hovered drawable when editor toolbox expands (ppy/osu#33621)
