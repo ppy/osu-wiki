@@ -12,7 +12,7 @@ tags:
   - нет видео
 ---
 
-# No Video (мод)
+# No Video
 
 ![Значок мода NV](/wiki/shared/mods/NV.png "Значок мода No Video (NV)")
 

@@ -18,12 +18,11 @@ tags:
   - без модов
   - фримод
   - фри мод
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Игровой модификатор
 
+*Об списке модов в [lazer](/wiki/Client/Release_stream/Lazer) см. [Игровой модификатор (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
 *У этого термина существуют и другие значения, см. [Мод (значения)](/wiki/Disambiguation/Mod).*
 
 ![Экран выбора модов](img/mod-selection-screen.jpg "Сравнение экранов выбора модов в osu! (слева сверху), osu!taiko (справа сверху), osu!catch (слева снизу) и osu!mania (справа снизу)")

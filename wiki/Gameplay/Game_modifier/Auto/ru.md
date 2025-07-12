@@ -12,16 +12,15 @@ tags:
   - модификатор
   - авто
   - автоплей
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
-# Auto (мод)
+# Auto
 
 ![Значок мода AT](/wiki/shared/mods/AT.png "Значок мода Auto (AT)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Autoplay (lazer)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
-*Эта статья — про мод, всё делающий за игрока. Про мод, включающий только автонаведение, см. [Autopilot (мод)](/wiki/Gameplay/Game_modifier/Autopilot).*
+*Эта статья — про мод, всё делающий за игрока. Про мод, включающий только автонаведение, см. [Autopilot](/wiki/Gameplay/Game_modifier/Autopilot).*
 
 ## Краткая информация
 

@@ -11,14 +11,13 @@ tags:
   - рл
   - мод
   - игровой модификатор
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
-# Relax (мод)
+# Relax
 
 ![Значок мода RL](/wiki/shared/mods/RL.png "Значок мода Relax (RL)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Relax (lazer)](/wiki/Gameplay/Game_modifier/Relax_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
