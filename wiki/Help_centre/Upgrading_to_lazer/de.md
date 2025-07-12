@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 4a1a14df452fb0a43d34c5a90e4c93a18ff26f12
 ---
 
 # Umstellung auf lazer
@@ -39,7 +37,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Skin-Unterstützung | ![Ja][true] | ![Teilweise][partial][^gameplay-only] |
-| Gruppierungsmodi in der Songauswahl | ![Ja][true] | ![Nein][false] |
+| Gruppierungsmodi in der Songauswahl | ![Ja][true] | ![Ja][true] |
 | Skin im Spiel / Bearbeitung des UI-Layouts | ![Nein][false] | ![Ja][true] |
 | Dynamische, anpassbare Skinning-Komponenten | ![Nein][false] | ![Ja][true] |
 
@@ -110,7 +108,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Pattern-Skalierung | ![Nein][false] | ![Ja][true] |
 | Beatmap-Einreichung | ![Ja][true] | ![Ja][true] |
 | Storyboard-Editor | ![Ja][true] | ![Nein][false] |
-| Cross-Kompatibilität | ![Ja][true] | ![Teilweise][partial][^incompatibilities] |
+| Cross-Kompatibilität | ![Ja][true] | ![Ja][true] |
 
 ## lazer ausprobieren
 
@@ -343,7 +341,6 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^multi-room-max]: Maximal 16 Spieler.
 [^map-only]: Nur die Beatmap.
 [^all-files]: Alle Dateien.
-[^incompatibilities]: Einige Editor-Features führen zu einer inkorrekten Wiedergabe von Beatmaps in stable — wird bald behoben.
 [^stable-chat]: Es kann bis zu 15 Sekunden dauern, bis eine Nachricht ankommt.
 [^countdown-timers-stable]: Stelle einen Countdown mit einem Befehl ein, kein automatischer Start.
 [^countdown-timers-lazer]: Stelle einen Countdown in der Benutzeroberfläche ein, um das Match automatisch zu starten.
