@@ -8,11 +8,11 @@ Disse regler er grundlaget for, hvordan vi sikrer, at osu!-fællesskabet er et s
 
 ## Fællesskabsregler
 
-1. **Hver spiller må have en, og kun *EN*, konto for evigt.** Den *første* konto du laver er din eneste osu! konto, fra dens oprettelse og fremefter. Denne konto er DIG. Det er ikke nogen andres - ikke din brors, din mors, din søsters eller din vens. Den er DIG. Del aldrig din konto med andre. Du får ikke lov til at lave en ny konto, hvis du mister adgangen til din første. Hold den sikker.
+1. **Hver spiller må have en, og kun *EN*, konto for evigt.** Den *første* konto du laver er din eneste osu!-konto, fra dens oprettelse og fremefter. Denne konto er DIG. Det er ikke nogen andres - ikke din brors, din mors, din søsters eller din vens. Den er DIG. Del aldrig din konto med andre. Du får ikke lov til at lave en ny konto, hvis du mister adgangen til din første. Hold den sikker.
 2. **Spil fair.** Brug af tredjepartssoftware af enhver slags for at få en fordel er ikke tilladt. Dette inkluderer programmer såsom aim-assists, tidsskalamodificeringer, osv. Macroer, tastebindinger eller hardware, hvor en fysisk handling (f.x. at trykke en tast ned) ikke forårsager samme handling i spillet, er også forbudte.[^macros] Hvis et program hjælper dig med at gøre noget, som du burde gøre selv, er det ikke okay!
-3. **Vær god ved andre.** Chikane eller andre former for fjendtligheder har ingen plads i osu!-fællesskabet. Vi er her for at klikke cirkler, slå på trommer, fange frugt og ramme op til atten taster på én gang - ikke for at være røvhuller overfor hinanden.
+3. **Vær god ved andre.** Chikane eller andre former for fjendtlighed har ingen plads i osu!-fællesskabet. Vi er her for at klikke cirkler, slå på trommer, fange frugt og ramme op til atten taster på én gang - ikke for at være røvhuller overfor hinanden.
 4. **Lad være med at være et fjols.** Hvis du på noget som helst tidspunkt er usikker på, om du bryder denne regel, bryder du den sandsynligvis.
-5. **Fællesskabet er for alle aldre.** Det betyder at 18+/[NSFW](https://da.wikipedia.org/wiki/NSFW) indhold, såsom brug af stoffer eller emner af seksuel natur, ikke er velkomne her.
+5. **Fællesskabet er for alle aldre.** Det betyder, at 18+/[NSFW](https://da.wikipedia.org/wiki/NSFW) indhold, såsom brug af stoffer eller emner af seksuel natur, ikke er velkomment her.
 6. **Hold tonen ren.** osu! er ikke et sted for at date eller flirte. Brug af seksuelt sprog, billeder eller uønskede tilnærmelser mod andre medlemmer af fællesskabet er IKKE okay, hverken privat eller i offentligheden. Hvis du nogensinde føler dig utilpas eller krænket af måden, nogen snakker til dig, beder vi dig om at [anmelde det til os fortroligt](/wiki/Reporting_bad_behaviour/Abuse), så vi kan hjælpe dig (og muligvis forhindre, at andre bliver påvirket).
 7. **Hvis reglerne ikke holder, gør sund fornuft.** Administratorerne har udtrykkeligt ret til at anvende deres egen dømmeevne, som de finder det passende.
 
@@ -26,7 +26,7 @@ Disse regler er grundlaget for, hvordan vi sikrer, at osu!-fællesskabet er et s
 6. **Vær opmærksom på hvad du deler med andre, især hvis indholdet er potentielt stødende eller af grafisk natur.** Hvis du bliver nødt til at tænke dig om for at finde ud af, om det er tilladt at sende et link, er det sandsynligvis ikke okay. Undgå indhold med hurtigt blinkende lys, blod, overgrebsmateriale eller andet grafisk materiale.
 7. **Links bør kun henvise til relevante og lovlige hjemmesider.** Ulovlige streaming-hjemmesider (officielt licenserede sider såsom Animelab og Crunchyroll er OK) og alt relateret til "warez" eller piratkopieret software af alle former er ikke tilladt, og har ingen plads i chatten. Annoncering af Twitch-links for andre spil er okay, men KUN i `#videogames`.
 8. **Reklamér ikke for tredjepartschatservere af nogen slags, især Discord og Teamspeak-servere/grupper.** osu! chatten handler først og fremmest om osu!, og ikke om at dele links til dine servere. Gør det via private beskeder, hvis du absolut skal.
-9. **I sprog-specifikke kanaler skal det gældende sprog snakkes, hvis du deltager i diskussionen (Engelsk i `#english`, thailandsk i `#thai`, osv.).** I kanaler hvor der ikke eksplicit er skrevet, hvilket sprog der snakkes, er det altid engelsk. I `#lobby` og `#help` kanalerne kan alle sprog bruges. *[Moderatorer](/wiki/People/Global_Moderation_Team) behøver ikke at følge disse regler under udførelse af deres arbejde.*
+9. **I sprog-specifikke kanaler skal det gældende sprog snakkes, hvis du deltager i diskussionen (engelsk i `#english`, thailandsk i `#thai`, osv.).** I kanaler hvor der ikke eksplicit er skrevet, hvilket sprog der snakkes, er det altid engelsk. I `#lobby` og `#help` kanalerne kan alle sprog bruges. *[Moderatorer](/wiki/People/Global_Moderation_Team) behøver ikke at følge disse regler under udførelse af deres arbejde.*
 
 ## Forum-dækkende regler
 
@@ -34,9 +34,9 @@ Disse regler er grundlaget for, hvordan vi sikrer, at osu!-fællesskabet er et s
 2. **Hold dine opslag og svar passende for folk af alle aldre.** NSFW indhold er ikke passende for et fællsskab for alle aldre. Der er dog intet, der stopper dig fra at diskutere disse ting i privatbeskeder.
 3. **Vær produktiv med din kritik uden at ty til personlige angreb.** Kritik er fantastisk, når det er givet på den rigtige måde, men hvis du er nødt til at bruge personlige angreb for at få din pointe igennem, gør du det forkert, og du burde skamme dig.
 4. **Hold trådene på de relevante emner, og undgå at genoplive gamle emner, hvis diskussionen er død.** Hvis et emne har været dødt i adskillige år, er det ikke relevant længere, så lad det ligge. Lav et nyt opslag, eller brug søgefunktionen til at se, om nogen allerede har besvaret dit spørgsmål.
-5. **Hold din underskrift og avatar inden for rimelighedens grænser.** Hvis de er animerede, bør de ikke pulsere eller blinke overdrevent. Billederne skal også være i en filstørrelse, der er lille nok til, at brugere med langsommere forbindelser ikke kan føle deres tilstedeværelse på siden. Hold det under en halv megabyte (500 kilobyte) hvor det er muligt.
+5. **Hold din underskrift og avatar inden for rimelighedens grænser.** Hvis de er animerede, bør de ikke pulsere eller blinke overdrevent. Billederne skal også være i en filstørrelse, der er lille nok til, at brugere med langsommere forbindelser ikke kan føle deres tilstedeværelse på siden. Hold det under en halv megabyte (500 kilobyte), hvor det er muligt.
 6. **Lav ikke opslag med reklamer, henvisningslinks eller andet irriterende eller påtrængende indhold.** Ting såsom affiliate- eller henvisningslinks er måske sjove for den person, der sender dem, men irriterer alle andre, så lad være. Autoloading eller automatisk afspilning af indhold/embeds falder også inden for denne regel.
-7. **Det er ikke tilladt at linke til applikationer eller værktøjer af usikker oprindelse.** Kort sagt, hvis der er nogen tvivl om, hvorvidt en applikation er lovlig, bør den ikke være på forummet.
+7. **Det er ikke tilladt at linke til applikationer eller værktøjer af utydelig funktion.** Kort sagt, hvis der er nogen tvivl om, hvorvidt en applikation er lovlig, bør den ikke være på forummet.
 
 ## Regler for indsendte beatmaps
 
@@ -72,4 +72,4 @@ Alvorlige overtrædelser, der går langt ud over grænserne for vores regler og 
 
 ## Anmærkninger
 
-[^macros]: At binde taster til K1 eller K2 er okay, så længe et tryk på en fysisk tast udløser et tryk på den bundne tast i spillet, og at give slip af en fysisk tast giver slip af den bundne tast i spillet. Det er ikke tilladt at binde et tryk af en fysisk tast til at give slip af en spilletast eller at få en fysisk tast til at påvirke flere taster i spillet.
+[^macros]: At binde taster til K1 eller K2 er okay, så længe et tryk på en fysisk tast udløser et tryk på den bundne tast i spillet, og at give slip af en fysisk tast giver slip af den bundne tast i spillet. Det er ikke tilladt at binde et tryk af en fysisk tast til at give slip af en spilletast, eller at få en fysisk tast til at påvirke flere taster i spillet.
