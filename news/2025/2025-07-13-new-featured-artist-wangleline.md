@@ -8,7 +8,7 @@ If you haven't heard **WangleLine** yet, your day is about to get a lot better.
 
 ![](https://assets.ppy.sh/artists/427/header.jpg)
 
-German producer **WangleLine** is as prolific as it gets. With 14 albums created to date, plus tracks for the [osu!catch World Cup](/wiki/Tournaments/CWC), [Lazer Grand Arena](/wiki/Tournaments/LGA), and various [community tournaments](/wiki/Community/Bespoke_music), **WangleLine** has developed a style that perfeclty suits the needs of rhythm game players. (Given her background as both an [osu! player](https://osu.ppy.sh/users/7994819) and a game developer, that shouldn't be a surprise.)
+German producer **WangleLine** is as prolific as one can be. With 14 albums created to date, plus tracks for the [osu!catch World Cup](/wiki/Tournaments/CWC), [Lazer Grand Arena](/wiki/Tournaments/LGA), and various [community tournaments](/wiki/Community/Bespoke_music), **WangleLine** has developed a style that perfectly suits the needs of rhythm game players. (Given her background as both an [osu! player](https://osu.ppy.sh/users/7994819) and a game developer, that shouldn't be a surprise.)
 
 The latest addition to **WangleLine**'s ever-expansive discography is [Goodbye to Your Vicious Cycles](https://osu.ppy.sh/beatmapsets/2402735), the track produced specifically for [this year's osu!catch World Cup](/wiki/Tournaments/CWC/2025) which debuted in today's mappool showcase!
 
