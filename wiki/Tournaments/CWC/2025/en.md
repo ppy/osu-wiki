@@ -316,8 +316,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ## Match results
 
-## Match results
-
 ### Finals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1II7HsRwpFzY-3ljmwUTVLWipn4n7asdHd2gnpOhKjG4?rm=minimal).
