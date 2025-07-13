@@ -12,6 +12,8 @@ tags:
   - "peringkat #1"
   - peringkat
   - pemain teratas
+outdated_translation: true
+outdated_since: 8de140a6d10df750d648d93ff6490b93135a072b
 ---
 
 # Sejarah peringkat osu!

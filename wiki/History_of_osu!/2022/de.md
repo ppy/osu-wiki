@@ -84,7 +84,7 @@ osu!(lazer) erhielt ein weiteres Feature, das es ermöglicht, Modvoreinstellunge
 
 In den 15 Jahren seines Bestehens hat sich osu! zu einer kreativen Community mit vielen freiwilligen Mitwirkenden entwickelt. Im Zuge dieses Ereignisses organisierte das osu!-Team zum Jubiläum einen Kunstwettbewerb. Die Aufgabe war, Zeichnungen mit historischen Momenten der osu!-Maskottchen anzufertigen. Der erste, zweite und dritte Platz ging an [Dreamxiety](https://osu.ppy.sh/users/13103233), [illuminae2005](https://osu.ppy.sh/users/29866964) sowie [urgutz](https://osu.ppy.sh/users/11731553). Passend zu den Ergebnissen teilte peppy auch einige seiner persönlichen Favoriten.[^15-anniversary-results]
 
-Im Anschluss an den Wettbewerb gab es auf dem [osu! Discord-Server](/wiki/Community/osu!_Discord_server) eine Feier, auf der das osu!-Team zusammen mit Mitgliedern aus der Community Spiele spielte und über zufällige Themen sprach.[^15-celebration]
+Im Anschluss an den Wettbewerb gab es auf dem [osu! Discord-Server](/wiki/Community/Discord_servers#offiziell) eine Feier, auf der das osu!-Team zusammen mit Mitgliedern aus der Community Spiele spielte und über zufällige Themen sprach.[^15-celebration]
 
 Ein neuer Entwurf, vorgeschlagen von [flyte](https://osu.ppy.sh/users/3103765), wurde in Form des Skins "argon" implementiert, um den alten Skin "triangles" von 2017 zu ersetzen.[^argon] Das visuelle Aussehen jedes Spielmodus erhielt eine umfassende Überarbeitung, wodurch die Lesbarkeit und Klarheit verbessert wurden.
 

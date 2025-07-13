@@ -25,7 +25,7 @@ En el [procedimiento de clasificación de los beatmaps](/wiki/Beatmap_ranking_pr
 
 Las burbujas fueron introducidas por ::{ flag=AU }:: [peppy](/wiki/People/peppy) el 29 de octubre de 2007, para los «beatmaps que estén siendo considerados para el juego clasificado (dependiendo de la opinión de los moderadores)». Para los miembros del BAT, poner una burbuja en el icono de un hilo de un beatmap era una forma de indicar que el beatmap era de buena calidad y había seguido los [criterios de clasificación](/wiki/Ranking_criteria).
 
-El 3 de octubre de 2010, el MAT recibió los permisos para usar el icono de la burbuja, junto con el BAT. De este modo, las [proto-burbujas](/wiki/Modding/Proto-bubble) quedaron obsoletas, y desde entonces ambos equipos usaban principalmente burbujas normales.
+El 4 de octubre de 2010, el MAT recibió los permisos para usar el icono de la burbuja, junto con el BAT. De este modo, las [proto-burbujas](/wiki/Modding/Proto-bubble) quedaron obsoletas, y desde entonces ambos equipos usaban principalmente burbujas normales.
 
 Después de que el [sistema de discusiones de los beatmaps](/wiki/Beatmap_discussion) se implementara por completo y se convirtiera en la interfaz principal para el modding en noviembre de 2017, los controles de gestión de los beatmaps basados ​​en los foros se eliminaron gradualmente y las burbujas fueron naturalmente reemplazadas por nominaciones.
 

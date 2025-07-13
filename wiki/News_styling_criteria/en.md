@@ -97,7 +97,7 @@ These banners appear in many different aspect ratios in different places of the 
 
 ![News post banner aspect ratio reference](img/banner-sizes.png "News post banner aspect ratio reference. Note that mobile devices may fall anywhere within or even slightly outside the common ranges specified here.")
 
-Use [this banner visualisation tool](https://tanza.me/tools/osu-vis/) to check how the banner will appear in different parts of the website.
+Use [this banner visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=news-banners) to check how the banner will appear in different parts of the website.
 
 Banners should have a minimum 1000x200 px base size. A version with each dimension doubled should be provided if the source image is large enough to support it (resulting in `banner.jpg` and `banner@2x.jpg`). Banner images appearing in multiple news articles should be put in the [`wiki/shared/news/banners/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
@@ -110,7 +110,7 @@ The width of all embedded content frames must be set to 95% with the exception o
 Video embed hosted on `assets.ppy.sh`:
 
 ```html
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
@@ -120,7 +120,7 @@ Video embed hosted on `assets.ppy.sh`:
 Video embed hosted on YouTube:
 
 ```html
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
@@ -130,6 +130,7 @@ Video embed hosted on YouTube:
 The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
 
 - **Assets created for news posts should be cleared in terms of permissions and licensing.**
+- **No brand or sponsorship placements are allowed.** It is not on osu! to provide advertising for them.
 - **Note the [brand identity guidelines](/wiki/Brand_identity_guidelines), especially for the game and game mode names.** Terms like "standard" or "ctb" are not used in official contexts.
   - Preferred: "osu!", "osu!taiko", "osu!catch", "osu!mania" (also note that this is the canonical ordering whenever they're presented in sequence)
   - Acceptable: "osu!", "taiko", "catch", "mania"

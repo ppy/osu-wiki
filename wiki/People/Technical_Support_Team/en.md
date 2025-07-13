@@ -23,7 +23,8 @@ The [Technical Support Team group page](https://osu.ppy.sh/groups/22) lists all 
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | German |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polish |

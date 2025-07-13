@@ -23,7 +23,7 @@ Dans la [procédure de classement du beatmap](/wiki/Beatmap_ranking_procedure) m
 
 Les bubbles ont été introduites par ::{ flag=AU }:: [peppy](/wiki/People/peppy) le 29 octobre 2007, pour les "beatmaps qui sont considérés pour le jeu classé (en attendant les commentaires des modérateurs)". Le fait de transformer l'icône d'un fil de discussion d'une beatmap en une bubble était un moyen pour les membres de la BAT d'indiquer que la beatmap était de bonne qualité et qu'elle avait respecté les [critères de classement](/wiki/Ranking_criteria).
 
-Le 3 octobre 2010, la MAT a reçu l'autorisation d'utiliser l'icône de bubble, aux côtés de la BAT. Cela a essentiellement déprécié les [proto-bubbles](/wiki/Modding/Proto-bubble), et les deux équipes ont principalement utilisé des bubbles ordinaires depuis.
+Le 4 octobre 2010, la MAT a reçu l'autorisation d'utiliser l'icône de bubble, aux côtés de la BAT. Cela a essentiellement déprécié les [proto-bubbles](/wiki/Modding/Proto-bubble), et les deux équipes ont principalement utilisé des bubbles ordinaires depuis.
 
 Après la mise en place complète du [système de discussion d'une beatmap](/wiki/Beatmap_discussion), devenu l'interface principale pour le modding en novembre 2017, les contrôles de gestion des beatmap sur le forum ont été progressivement supprimés, les bubbles étant naturellement remplacées par les nominations.
 

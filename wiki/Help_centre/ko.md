@@ -5,6 +5,8 @@ tags:
   - problem
   - trouble
   - missing
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # 도움말 센터
@@ -22,7 +24,7 @@ tags:
 | [비트매핑 및 편집자](/wiki/Help_centre/Beatmapping) | 비트맵의 관리, 소유권, 슬롯 |
 | [클라이언트](/wiki/Help_centre/Client) | 버그 및 충돌, 게임 플레이, 연결, 성능 |
 | [설치 및 회원가입](/wiki/Help_centre/Installation_and_registration) | 게임 다운로드, 계정 만들기 |
-| [스토어](/wiki/Help_centre/Store) | 굿즈, osu!go, osu!keyboard, osu!tablet |
+| [스토어](/wiki/Help_centre/Store) | 굿즈 |
 | [토너먼트 밴](/wiki/Help_centre/Tournament_bans) | 토너먼트 밴에 관한 모든 것: 개요, 일반적인 이유 및 쿨다운 기간 |
 | [Lazer로 업그레이드](/wiki/Help_centre/Upgrading_to_lazer) | osu!의 [다음 주요 릴리즈](/wiki/Client/Release_stream/Lazer)로 마이그레이션 중입니다. |
 | [웹사이트](/wiki/Help_centre/Website) | 유저 차단, 서포트 팀과 연락, 웹사이트 외관 |

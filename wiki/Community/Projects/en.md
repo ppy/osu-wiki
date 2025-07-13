@@ -215,6 +215,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 - [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) — A browser extension for calculating pp.
   - [GitHub](https://github.com/oamaok/ezpp)
+- osu! news scheduler — osu! feed news posts approximate schedule calendar.
+  - [Website](https://osunews.untone.uk/)
 - [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) — A status signature generator with osu! next design.
   - [GitHub](https://github.com/Lemmmy/osusig)
 - [osu!Post](https://osu.ppy.sh/community/forums/topics/164486) — Live osu! status for your signatures.
@@ -269,6 +271,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/christopher-dG/gosubscribe)
 - [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) — Organise, listen, and look up songs outside of the game client.
   - [BitBucket](https://bitbucket.org/Dayanto/osu-music-library)
+- osu! BBCode Editor — A site which hosts a BBCode editor with realtime preview, designed for osu! userpages.
+  - [GitHub](https://github.com/NoelleTGS/osu-bbcode-editor) | [Website](https://noelletgs.github.io/osu-bbcode-editor/)
 - osu! matchmaking — quick and automated multiplayer matches
   - [Website](https://oma.hwc.hr/)
 - [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) — A mouse pointer movement wrapper for Leap.

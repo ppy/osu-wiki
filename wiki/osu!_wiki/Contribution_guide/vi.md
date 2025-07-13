@@ -4,7 +4,7 @@ Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Bài
 
 Người đóng góp mới không được kỳ vọng là đã làm quen với GitHub hoặc [git](https://git-scm.com/), bởi vì chúng là những công cụ chủ yếu dùng để chỉnh sửa dành cho các nhà phát triển. Đừng lo lắng nếu bạn không làm cái gì đó đúng ngay lần đầu tiên — một [người quản lý wiki](/wiki/People/osu!_wiki_maintainers) sẽ dẫn bạn theo một định hướng đúng hoặc sửa hộ bạn.
 
-Trong trường hợp bạn cần gợi ý hoặc lời khuyên ở bất cứ giai đoạn nào, đừng ngại ngùng hỏi trong kênh `#osu-wiki` của [osu! Discord server](/wiki/Community/osu!_Discord_server).
+Trong trường hợp bạn cần gợi ý hoặc lời khuyên ở bất cứ giai đoạn nào, đừng ngại ngùng hỏi trong kênh `#osu-wiki` của [osu! Discord server](/wiki/Community/Discord_servers#official).
 
 ## Nguyện vọng
 
@@ -50,7 +50,7 @@ Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó,
 Nếu không ai quan tâm sau vài ngày, hãy thử:
 
 - Hãy chắc chắn rằng bạn đã hoàn thiện xong mọi gợi ý — mọi người có thể đang đợi sự phản hồi của bạn.
-- Hỏi các người chỉnh sửa osu! wiki khác trong [osu! Discord server](/wiki/Community/osu!_Discord_server) (kênh `#osu-wiki`) hoặc trong bình luận GitHub.
+- Hỏi các người chỉnh sửa osu! wiki khác trong [osu! Discord server](/wiki/Community/Discord_servers#official) (kênh `#osu-wiki`) hoặc trong bình luận GitHub.
 - Để nhận giúp đỡ về dịch thuật, xem một số pull request đã được hợp nhất cho ngôn ngữ của bạn và kết nối với người đánh giá của họ và/hoặc tác giả ([ví dụ câu hỏi ở GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID])).
 - Xin bạn bè một cái nhìn nhanh!
 
@@ -58,6 +58,6 @@ Ngoài ra, osu! wiki repository còn có [kiểm tra tự động](/wiki/osu!_wi
 
 ## Hợp nhất
 
-Sự thay đổi của bạn sau cùng sẽ được kiểm tra bởi một trong [người quản lý wiki](/wiki/People/osu!_wiki_maintainers), thường sau những đánh giá của các cộng tác viên khác. Nếu không có gì xảy ra sau một khoảng thời gian, hỏi trong phần bình luận của pull request, hoặc trong kênh `#osu-wiki` của [osu! Discord server](/wiki/Community/osu!_Discord_server). Sự thay đổi của bạn sẽ xuất hiện trên osu! wiki không bao lâu sau sự hợp nhất (trong trường hợp đặc biệt, nó có thể tốn đến 5 tiếng).
+Sự thay đổi của bạn sau cùng sẽ được kiểm tra bởi một trong [người quản lý wiki](/wiki/People/osu!_wiki_maintainers), thường sau những đánh giá của các cộng tác viên khác. Nếu không có gì xảy ra sau một khoảng thời gian, hỏi trong phần bình luận của pull request, hoặc trong kênh `#osu-wiki` của [osu! Discord server](/wiki/Community/Discord_servers#official). Sự thay đổi của bạn sẽ xuất hiện trên osu! wiki không bao lâu sau sự hợp nhất (trong trường hợp đặc biệt, nó có thể tốn đến 5 tiếng).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

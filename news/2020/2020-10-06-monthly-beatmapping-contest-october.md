@@ -6,7 +6,7 @@ date: 2020-10-06 18:30:00 +0000
 
 Are you a slider art connoisseur? Participate in this month's slider-only mapping contest to *really* find out!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The Monthly Beatmapping Contest (*MBC*) is... well, a mapping contest that runs every month. Its formatting can change though, so check out the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 

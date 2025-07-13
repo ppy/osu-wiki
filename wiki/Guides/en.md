@@ -19,7 +19,6 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [osu!mania mapping guide](osu!mania_mapping_guide)
 - [Setting the offset on the correct beat](Setting_the_offset_on_the_correct_beat)
 - [Using custom hitsounds](Using_custom_hitsounds)
-- [Videos from YouTube](Videos_from_YouTube)
 - [Timing Songs with #/8 Signatures](Timing_songs_with_8-signatures)
 
 ## Modding

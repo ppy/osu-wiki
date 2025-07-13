@@ -18,6 +18,7 @@ tags:
 
 # Spielmodifikationen
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Spielmodifikationen (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
 *Für andere Bedeutungen, siehe [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
 
 ![Modauswahl](img/mod-selection-screen-DE.jpg "Vergleich der Modauswahl zwischen den Spielmodi osu! (oben links), osu!taiko (oben rechts), osu!catch (unten links) und osu!mania (unten rechts)")

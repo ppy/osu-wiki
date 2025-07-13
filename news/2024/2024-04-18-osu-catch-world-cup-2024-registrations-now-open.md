@@ -28,7 +28,7 @@ Refer to the **[osu!catch World Cup 2024 wiki article](/wiki/Tournaments/CWC/202
 
 ## Prizes
 
-The osu!catch World Cup 2024 offers a $2,000 prize pool, along with limited-edition merch!
+The osu!catch World Cup 2024 offers a $2,534.24 prize pool, along with limited-edition merch!
 
 - **1st:** 50% of the prize pool, single-run merch, profile badge, **osu!catch Champion** user title for one year
 - **2nd:** 30% of the prize pool, single-run merch, profile badge

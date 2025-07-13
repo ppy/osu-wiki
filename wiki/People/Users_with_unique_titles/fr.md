@@ -1,6 +1,7 @@
 ---
 outdated_translation: true
-outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
+outdated_since: 47eb8012cee643acc8130a6992aad6e4b54c0cac
+no_native_review: true
 ---
 
 # Utilisateurs avec des titres uniques
@@ -134,9 +135,10 @@ Les vainqueurs des précédentes World Cups osu!mania avec le titre d'utilisateu
 
 ## Gagnants du concours officiel de mapping
 
-La plupart des concours officiels de mapping offrent le titre de **Elite Mapper** comme premier prix.
+La plupart des concours officiels de mapping offrent le titre de **Elite Mapper** par le biais des [points de concours](/wiki/Contests/Contest_points). Les concours plus anciens récompensaient le titre en tant que premier prix.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -175,6 +177,8 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)

@@ -1,4 +1,6 @@
 ---
+outdated_since: b3cddefc3471a00ccbf55838d26bd1a28d6b3509
+outdated_translation: true
 tags:
   - pp committee
   - komite pp
@@ -20,7 +22,6 @@ Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
 | ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
 
@@ -28,10 +29,19 @@ Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
-| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) |
-| ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | [vunyunt](https://github.com/vunyunt) |
+| ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
+| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) |
+| ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) |
+| ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) |
+
+### osu!catch
+
+| Profil osu! | Profil GitHub |
+| :-- | :-- |
+| ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) |
+| ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) |
+| ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) |
 
 ### osu!mania
 

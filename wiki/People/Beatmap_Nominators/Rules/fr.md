@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0b3cb1ef20719a9fc83159fade69fdb7cb0825e3
 ---
 
 # Règles pour les Beatmap Nominators

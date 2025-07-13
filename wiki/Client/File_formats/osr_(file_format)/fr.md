@@ -1,3 +1,8 @@
+---
+outdated_since: 3beefe4f5a50484b1a97ebdf019fd3581d4ca0c4
+outdated_translation: true
+---
+
 # .osr (format de fichier)
 
 Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour l'utiliser, il suffit juste d'avoir la beatmap de ce replay dans le dossier Songs.
@@ -76,7 +81,7 @@ Comme décrit dans l'[API osu!](https://github.com/ppy/osu-api/wiki#mods)
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | Toujours utilisé avec DT : 512 + 64 = 576 |
+| Nightcore | 512 (9) | Toujours utilisé avec DT : 512 + 64 = 576. Remplace le mod Taiko inutilisé |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |

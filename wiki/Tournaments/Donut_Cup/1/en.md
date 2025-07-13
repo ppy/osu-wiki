@@ -8,7 +8,7 @@ tags:
 
 ![Donut Cup banner](img/banner.jpg)
 
-The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573) and ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243). The tournament is open to teams of osu! players within the #1,000 – #100,000 rank range after [badge-weighted seeding (BWS) calculations](/wiki/Tournaments/Badge-weighted_seeding). Although it is the first to be held under the Donut Cup name, the tournament is considered a spiritual successor to the previously held [Bamboo Cup](https://osu.ppy.sh/community/forums/topics/1274066) and [Crepe Cup](https://osu.ppy.sh/community/forums/topics/1538394).
+The **Donut Cup** was a double-elimination 3v3 osu! tournament hosted by ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573) and ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243). The tournament was open to teams of osu! players within the #1,000 – #100,000 rank range after [badge-weighted seeding (BWS) calculations](/wiki/Tournaments/Badge-weighted_seeding). Although it was the first to be held under the Donut Cup name, the tournament was regarded as a spiritual successor to the previously held [Bamboo Cup](https://osu.ppy.sh/community/forums/topics/1274066) and [Crepe Cup](https://osu.ppy.sh/community/forums/topics/1538394).
 
 ## Tournament schedule
 
@@ -28,24 +28,27 @@ The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=C
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly baked donuts (conditional according to feasibility of the delivery) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly baked donuts (conditional according to feasibility of the delivery), unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Custom-made profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Custom-made profile banner |
 
+![](img/badge.png "Donut Cup winner badge")
+
 ## Organisation
 
-The Donut Cup is run by various osu! community members from all over the world.
+The Donut Cup was run by various osu! community members from all over the world.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243) |
-| Mappool selector | ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=HK }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493), ::{ flag=US }:: [\_kola](https://osu.ppy.sh/users/12606578), ::{flag=AU}:: [Secured](https://osu.ppy.sh/users/14648196), ::{flag=US}:: [-Arko](https://osu.ppy.sh/users/8802914) |
-| Custom mapper | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=US }:: [mintIceCream\_](https://osu.ppy.sh/users/13221589), ::{ flag=AU }:: [itstaipeople](https://osu.ppy.sh/users/8395155), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=AU }:: [-Kirigiri](https://osu.ppy.sh/users/10816653), ::{ flag=PH }:: [Raburauza](https://osu.ppy.sh/users/8648178), ::{ flag=US }:: [IOException](https://osu.ppy.sh/users/2688103) |
-| Playtester and replayer | ::{ flag=KZ }:: [Ben\_Kir](https://osu.ppy.sh/users/13798649), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=US }:: [sleeping\_24-7](https://osu.ppy.sh/users/8112433), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166), ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473), ::{ flag=US }:: [Twilight](https://osu.ppy.sh/users/6327638), ::{ flag=DE }:: [Sai1kou](https://osu.ppy.sh/users/13319294), ::{ flag=US }:: [modeo](https://osu.ppy.sh/users/4580287), ::{ flag=CL }:: [Siiphs](https://osu.ppy.sh/users/11786864), ::{ flag=US }:: [mihari](https://osu.ppy.sh/users/5442251), ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=AU }:: [reitak](https://osu.ppy.sh/users/10302933), ::{ flag=US }:: [NoWifi](https://osu.ppy.sh/users/17841979), ::{ flag=US }:: [perfectfree](https://osu.ppy.sh/users/7712676), ::{ flag=US }:: [Meramipop](https://osu.ppy.sh/users/13540434), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) |
-| Streamer | ::{ flag=AU }:: [Alpama](https://osu.ppy.sh/users/10870989), ::{ flag=US }:: [affirmedcheese](https://osu.ppy.sh/users/21002718), ::{ flag=AU }:: [TheTopaz](https://osu.ppy.sh/users/7588992), ::{ flag=US }:: [rety](https://osu.ppy.sh/users/12201636), ::{ flag=US }:: [BlueCrystal004](https://osu.ppy.sh/users/4349974), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325) |
-| Commentator | ::{ flag=AU }:: [Alpama](https://osu.ppy.sh/users/10870989), ::{ flag=US }:: [affirmedcheese](https://osu.ppy.sh/users/21002718), ::{ flag=KZ }:: [Ben\_Kir](https://osu.ppy.sh/users/13798649), ::{ flag=GB }:: [Rosiee](https://osu.ppy.sh/users/31547675), ::{ flag=CA }:: [Sebina](https://osu.ppy.sh/users/33192260), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=DE }:: [Feroshi](https://osu.ppy.sh/users/17488247), ::{ flag=AU }:: [unicornlover](https://osu.ppy.sh/users/13179722), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=US }:: [Mommy](https://osu.ppy.sh/users/7943819) |
-| Referee | ::{ flag=AU }:: [Alpama](https://osu.ppy.sh/users/10870989), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=GB }:: [Rosiee](https://osu.ppy.sh/users/31547675), ::{ flag=CA }:: [Sebina](https://osu.ppy.sh/users/33192260), ::{ flag=CZ }:: [Dave Seville](https://osu.ppy.sh/users/22122799), ::{ flag=IT }:: [Akahito](https://osu.ppy.sh/users/9448341), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387), ::{ flag=US }:: [Feath3rblade](https://osu.ppy.sh/users/15229801), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }:: [-Risu-](https://osu.ppy.sh/users/7047218), ::{ flag=US }:: [fooders](https://osu.ppy.sh/users/7545218), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=US }:: [Celerycelerino](https://osu.ppy.sh/users/19173340) |
+| Mappool selector | ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=US }:: [\_kola](https://osu.ppy.sh/users/12606578), ::{ flag=AU }:: [Secured](https://osu.ppy.sh/users/14648196), ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914) |
+| Custom mapper | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=US }:: [mintIceCream\_](https://osu.ppy.sh/users/13221589), ::{ flag=AU }:: [itstaipeople](https://osu.ppy.sh/users/8395155), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=AU }:: [-Kirigiri](https://osu.ppy.sh/users/10816653), ::{ flag=PH }:: [Raburauza](https://osu.ppy.sh/users/8648178), ::{ flag=US }:: [IOException](https://osu.ppy.sh/users/2688103), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
+| Playtester and replayer | ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=US }:: [sleeping\_24-7](https://osu.ppy.sh/users/8112433), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166), ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473), ::{ flag=US }:: [Twilight](https://osu.ppy.sh/users/6327638), ::{ flag=US }:: [modeo](https://osu.ppy.sh/users/4580287), ::{ flag=CL }:: [Siiphs](https://osu.ppy.sh/users/11786864), ::{ flag=DE }:: [mihari](https://osu.ppy.sh/users/5442251), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [NoWifi](https://osu.ppy.sh/users/17841979), ::{ flag=US }:: [hr3](https://osu.ppy.sh/users/11962818)[^hr3-note] |
+| Streamer | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=AU }:: [TheTopaz](https://osu.ppy.sh/users/7588992), ::{ flag=US }:: [rety](https://osu.ppy.sh/users/12201636), ::{ flag=US }:: [BlueCrystal004](https://osu.ppy.sh/users/4349974), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/10408325) |
+| Commentator | ::{ flag=GB }:: [Rosiee](https://osu.ppy.sh/users/31547675), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=AU }:: [unicornlover](https://osu.ppy.sh/users/13179722), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=US }:: [Mommy](https://osu.ppy.sh/users/7943819) |
+| Referee | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=GB }:: [Rosiee](https://osu.ppy.sh/users/31547675), ::{ flag=CZ }:: [Dave Seville](https://osu.ppy.sh/users/22122799), ::{ flag=IT }:: [Akahito](https://osu.ppy.sh/users/9448341), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387), ::{ flag=US }:: [Feath3rblade](https://osu.ppy.sh/users/15229801), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }:: [-Risu-](https://osu.ppy.sh/users/7047218), ::{ flag=US }:: [fooders](https://osu.ppy.sh/users/7545218), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640) |
 | Graphic designer | ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308) |
+| Spreadsheet manager | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Special thanks | ::{ flag=US }:: [JeZag](https://osu.ppy.sh/users/3087506) |
 
@@ -131,7 +134,7 @@ The Donut Cup is run by various osu! community members from all over the world.
 | Thug Aim | ::{ flag=US }:: **[rety](https://osu.ppy.sh/users/12201636)**, ::{ flag=CA }:: [Celery](https://osu.ppy.sh/users/3909969), ::{ flag=US }:: [Thore](https://osu.ppy.sh/users/10451872), ::{ flag=US }:: [Crucival](https://osu.ppy.sh/users/2157578), ::{ flag=US }:: [Valorant](https://osu.ppy.sh/users/10918400), ::{ flag=US }:: [Salad](https://osu.ppy.sh/users/5584603) |
 | TITANIC HUBERT | ::{ flag=US }:: **[chia](https://osu.ppy.sh/users/16605757)**, ::{ flag=US }:: [Getti](https://osu.ppy.sh/users/14674958), ::{ flag=US }:: [Exert](https://osu.ppy.sh/users/17036260), ::{ flag=US }:: [seungwonape](https://osu.ppy.sh/users/16671740), ::{ flag=US }:: [dragontiger34](https://osu.ppy.sh/users/10562797), ::{ flag=MM }:: [Shadderisswag](https://osu.ppy.sh/users/19670444) |
 | UkkusiksalikGlazrz | ::{ flag=US }:: **[hotbread](https://osu.ppy.sh/users/21627415)**, ::{ flag=CA }:: [jykca](https://osu.ppy.sh/users/18357479), ::{ flag=US }:: [zfr](https://osu.ppy.sh/users/11536421), ::{ flag=US }:: [Sympli](https://osu.ppy.sh/users/8525223), ::{ flag=US }:: [Juicy-](https://osu.ppy.sh/users/13097638), ::{ flag=US }:: [Swizzy](https://osu.ppy.sh/users/12967587) |
-| Vivace Osu | ::{ flag=US }:: **[gilgamesh816](https://osu.ppy.sh/users/16386592)**, ::{ flag=US }:: [mjmroh](https://osu.ppy.sh/users/25479104), ::{ flag=US }:: [Blendra](https://osu.ppy.sh/users/3619583), ::{ flag=US }:: [KR Impulse](https://osu.ppy.sh/users/12248098), ::{ flag=US }:: [kendrekk lamar](https://osu.ppy.sh/users/11962818), ::{ flag=CA }:: [kaicenat](https://osu.ppy.sh/users/28071599) |
+| Vivace Osu | ::{ flag=US }:: **[gilgamesh816](https://osu.ppy.sh/users/16386592)**, ::{ flag=US }:: [mjmroh](https://osu.ppy.sh/users/25479104), ::{ flag=US }:: [Blendra](https://osu.ppy.sh/users/3619583), ::{ flag=US }:: [KR Impulse](https://osu.ppy.sh/users/12248098), ::{ flag=US }:: [hr3](https://osu.ppy.sh/users/11962818), ::{ flag=CA }:: [kaicenat](https://osu.ppy.sh/users/28071599) |
 | Wait I'm Floated | ::{ flag=US }:: **[DarWihn](https://osu.ppy.sh/users/10626955)**, ::{ flag=US }:: [OmegaOrigins](https://osu.ppy.sh/users/12566632), ::{ flag=SE }:: [Grippeh](https://osu.ppy.sh/users/11749569), ::{ flag=BR }:: [Lirumin](https://osu.ppy.sh/users/15274893), ::{ flag=US }:: [luvouva](https://osu.ppy.sh/users/8914929), ::{ flag=US }:: [mreow](https://osu.ppy.sh/users/12115298) |
 | water tribe | ::{ flag=US }:: **[Watr](https://osu.ppy.sh/users/6898948)**, ::{ flag=CA }:: [Bae Suzy](https://osu.ppy.sh/users/3898396), ::{ flag=NO }:: [Hundur](https://osu.ppy.sh/users/3145033), ::{ flag=CA }:: [DarkKarate](https://osu.ppy.sh/users/8666950), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=PA }:: [Ramon 2](https://osu.ppy.sh/users/11562243) |
 | whatever zebedee comes up with | ::{ flag=CA }:: **[ODVB](https://osu.ppy.sh/users/9307769)**, ::{ flag=CA }:: [yallasm](https://osu.ppy.sh/users/25899767), ::{ flag=CA }:: [teznin](https://osu.ppy.sh/users/13857674), ::{ flag=CA }:: [zebedee](https://osu.ppy.sh/users/10622808), ::{ flag=CA }:: [Greninja](https://osu.ppy.sh/users/8579186), ::{ flag=RU }:: [MiloTlink](https://osu.ppy.sh/users/10669817) |
@@ -142,6 +145,16 @@ The Donut Cup is run by various osu! community members from all over the world.
 | 我的哈基米观崩溃了 | ::{ flag=CN }:: **[\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832)**, ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [Aimseky](https://osu.ppy.sh/users/4464845), ::{ flag=CN }:: [WhiteCookies](https://osu.ppy.sh/users/13617153), ::{ flag=CN }:: [Reisen-Desu](https://osu.ppy.sh/users/19577872), ::{ flag=CN }:: [UselessPlayer](https://osu.ppy.sh/users/15030466) |
 | гойда | ::{ flag=RU }:: **[Brat1k](https://osu.ppy.sh/users/19256627)**, ::{ flag=RU }:: [-fes](https://osu.ppy.sh/users/21011325), ::{ flag=RU }:: [evtikhman](https://osu.ppy.sh/users/22240981), ::{ flag=RU }:: [\_kurechi](https://osu.ppy.sh/users/11144419), ::{ flag=RU }:: [Bobrik200Iq](https://osu.ppy.sh/users/16385977), ::{ flag=RU }:: [abku stupid](https://osu.ppy.sh/users/15919161) |
 | *\[redacted\]* | ::{ flag=PA }:: **[Sirny](https://osu.ppy.sh/users/18962732)**, ::{ flag=LV }:: [olivers31](https://osu.ppy.sh/users/10816682), ::{ flag=LV }:: [StellarOW](https://osu.ppy.sh/users/11342324), ::{ flag=LV }:: [TheBigDrop](https://osu.ppy.sh/users/10470806), ::{ flag=HR }:: [KarliXon](https://osu.ppy.sh/users/9283403), ::{ flag=US }:: [Flaminkko](https://osu.ppy.sh/users/11762288) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **crying right now** (::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872), ::{ flag=AU }:: [oslash](https://osu.ppy.sh/users/13228917), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=UA }:: [EPEMA](https://osu.ppy.sh/users/18781432), ::{ flag=UA }:: [SHADOW FREAK](https://osu.ppy.sh/users/7587763)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **YOSHIMOBIL** (::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=LV }:: [solo drinking](https://osu.ppy.sh/users/21653406), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **No title** (::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=PL }:: [szedis](https://osu.ppy.sh/users/14282987), ::{ flag=PL }:: [BMG\_](https://osu.ppy.sh/users/4981809), ::{ flag=PL }:: [hedayo](https://osu.ppy.sh/users/9323821), ::{ flag=UA }:: [KirbyTwister](https://osu.ppy.sh/users/7979597), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878)) |
 
 ## Mappools
 
@@ -278,12 +291,12 @@ The Donut Cup is run by various osu! community members from all over the world.
   2. [Se-U-Ra - Qlifact -another- (Nao Tomori) \[Icekalt's Extra\]](https://osu.ppy.sh/beatmapsets/1224699#osu/2577517)
   3. [LV.4 - Burning Star (ktgster) \[Serenhaide's Expert\]](https://osu.ppy.sh/beatmapsets/2095154#osu/4512510)
 - DoubleTime
-  1. [Itou Masumi - Yume no Naka no Watashi no Yume (RLC) \[Coda\]](https://osu.ppy.sh/beatmapsets/668664#fruits/1414553)
-  2. [FictionJunction - Yakusoku (Maot) \[Awaiting Promise\]](https://osu.ppy.sh/beatmapsets/1928050#fruits/3981702)
-  3. [EYE\_RH - The Red Coronation (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/1033460#fruits/2174643)
+  1. [Vaundy - Odoriko (Ducknorriss) \[Spinning\]](https://osu.ppy.sh/beatmapsets/1891267#osu/3896717)
+  2. [Ardolf - Split EX (KRZY) \[INSANE AR8.5 OD8\]](https://osu.ppy.sh/beatmapsets/2036394#osu/4246829)
+  3. [senya - Sono Kami no Dilemma ni (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/1871922#osu/3851545)
 - Free Mod
-  1. [Tsukimi Eiko (CV: 96neko) - Sakuranbo (Suzuaki\_Rin) \[Cherry\]](https://osu.ppy.sh/beatmapsets/1778030#fruits/3641404)
-  2. [James Landino & Akira Complex - Hydra (DreaM117er) \[dahkjdas's Extra\]](https://osu.ppy.sh/beatmapsets/1256865#fruits/3141593)
+  1. [Yousei Teikoku - Solitude (ShirohaMyMommy) \[sw\]](https://osu.ppy.sh/beatmapsets/1196246#osu/2491810)
+  2. [Tu Tu Wan - Wo Yao Jin Ke La (AJT) \[Aranel's Difficulty\]](https://osu.ppy.sh/beatmapsets/1726857#osu/3529582)
 - Tiebreaker
   1. **[Minami - Hollowness (Spy\_RO) \[Duplicity\]](https://osu.ppy.sh/beatmapsets/1611669#osu/3290536)**
 
@@ -332,13 +345,32 @@ The Donut Cup is run by various osu! community members from all over the world.
 
 ## Match results
 
+### Grand Finals[^stage-note-2]
+
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1q6CsZ5b3WHUTXUXfCpVdsJxgTDvz_Q2hRPdDbswgJFQ/edit).
+
+Friday, 12 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | No title | 1 | **7** | **crying right now** | [#1](https://osu.ppy.sh/community/matches/114644017) |
+
+Sunday, 14 July 2024, Grand Final:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | YOSHIMOBIL | 6 | **7** | **crying right now** | [#1](https://osu.ppy.sh/community/matches/114669424) |
+| Grand Final (bracket reset) | **crying right now** | **7** | 3 | YOSHIMOBIL | [#1](https://osu.ppy.sh/community/matches/114670678) |
+
 ### Finals[^stage-note-1]
+
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ryloSFoN2jOLlYQP9HH5IY5yyhDid9ppPaD3JZ0gWGI/edit?gid=1237373495#gid=1237373495).
 
 Saturday, 6 July 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **crying right now** | **7** | 4 | foreign talent | [#1](https://osu.ppy.sh/community/matches/114570048) |
+| Lower | **crying right now** | **7** | 4 | foreign talent | [#1](https://osu.ppy.sh/community/matches/114568757) |
 | Lower | **JustForFun** | **7** | 5 | gwk's team | [#1](https://osu.ppy.sh/community/matches/114570048) |
 
 Sunday, 7 July 2024:
@@ -349,6 +381,8 @@ Sunday, 7 July 2024:
 | Upper | No title | 3 | **7** | **YOSHIMOBIL** | [#1](https://osu.ppy.sh/community/matches/114584234) |
 
 ### Semifinals
+
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1lmZEZ5WxtXXi3F-cHqmo5wmc0LbbsJVKl7RY0y9HbRs/edit).
 
 Friday, 28 June 2024:
 
@@ -374,6 +408,8 @@ Sunday, 30 June 2024:
 | Upper | **No title** | **6** | 5 | JustForFun | [#1](https://osu.ppy.sh/community/matches/114498352) |
 
 ### Quarterfinals
+
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wzJ_7ElO5HUS4dabqdgew8KBVf73teBZ3bUjjHFy14g/edit?usp=sharing).
 
 Saturday, 22 June 2024:
 
@@ -403,6 +439,8 @@ Sunday, 23 June 2024:
 
 ### Round of 16
 
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Akpbk4pf7DSJ9U5k4H1fAxfE7fXg5hY2JTNYSsp8GSI/edit).
+
 Friday, 14 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
@@ -415,7 +453,7 @@ Saturday, 15 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **crickhard housewife** | **5** | 4 | miku couch | [#1](https://osu.ppy.sh/community/matches/114303887)) |
+| Lower | **crickhard housewife** | **5** | 4 | miku couch | [#1](https://osu.ppy.sh/community/matches/114303887) |
 | Upper | **Paper Factory** | **5** | 2 | Wait I'm Floated | [#1](https://osu.ppy.sh/community/matches/114303886) |
 | Upper | **JustForFun** | **5** | 3 | arujidonut | [#1](https://osu.ppy.sh/community/matches/114297392) |
 | Upper | **foreign talent** | **5** | 2 | groundhog fanclub | [#1](https://osu.ppy.sh/community/matches/114301591) |
@@ -435,6 +473,8 @@ Sunday, 16 June 2024:
 
 ### Round of 32
 
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1S-GSpDaCQiITVn0GrU8ygHDmA7YOr8aeIqh-X5xbgDI/edit?gid=1237373495#gid=1237373495).
+
 Friday, June 7 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
@@ -447,7 +487,7 @@ Saturday, 8 June 2024:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | water tribe | 4 | **5** | **wingstop** | [#1](https://osu.ppy.sh/community/matches/114209585) |
-| Upper | **No title** | **5** | 0 | Dönerbox A | [#1](https://osu.ppy.sh/community/matches/111538870) |
+| Upper | **No title** | **5** | 0 | Dönerbox A | [#1](https://osu.ppy.sh/community/matches/114208680) |
 | Upper | Dough Getters | 2 | **5** | **Bagel** | [#1](https://osu.ppy.sh/community/matches/114209207) |
 | Upper | **groundhog fanclub** | **5** | 1 | 5 goats and SakaIndy | [#1](https://osu.ppy.sh/community/matches/114208697) |
 | Upper | 13UTCDFLT=KIL | 0 | **5** | **Square Hector Berlioz** | [#1](https://osu.ppy.sh/community/matches/114210327) |
@@ -468,7 +508,7 @@ Sunday, 9 June 2024:
 
 ### Qualifiers
 
-Detailed information on the standings of the Qualifier stage can be found in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1lNW2V9w0c5-CmmlHpXKMJ7cpGd2A4skHFqIU2D9Ukgk/edit?usp=sharing).
+Detailed information on the standings of the Qualifier stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1lNW2V9w0c5-CmmlHpXKMJ7cpGd2A4skHFqIU2D9Ukgk/edit?usp=sharing).
 
 | Seed | Team name | Avg. rank |
 | :-: | :-- | --: |
@@ -582,6 +622,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 4. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 5. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 6. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
+   - Eliminated players are free to enlist as replay providers for the later stages of the tournament in accordance to the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
 
 ### Round-specific rules
 
@@ -591,9 +632,9 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 2. In the lobby, all teams will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
+5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmap.
 6. 32 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages.
-   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
+   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all ten Qualifier beatmaps.
    - If the teams are still tied on average score, teams will then be ordered based on the average ranking of their roster after BWS calculations.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
@@ -635,6 +676,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 ## Notes
 
+[^hr3-note]: ::{ flag=US }:: [hr3](https://osu.ppy.sh/users/11962818) was brought in as a replayer after their team's elimination from the tournament.
 [^stage-note-1]: Also referred to as the "Friend" stage throughout the tournament.
 [^stage-note-2]: Also referred to as the "Girlfriend" stage throughout the tournament.
 [^qual-note-1]: Average score across all ten Qualifier beatmaps: Square Hector Berlioz 1,655,815, Oregono State University 1,624,806.

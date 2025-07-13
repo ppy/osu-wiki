@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3f577df55f485a4d59d8c2b65c4f1acbc7c3c242
+---
+
 # Общая информация для номинаторов
 
 Вы — [номинатор](/wiki/People/Beatmap_Nominators), или хотите им стать? В этой статье даны все необходимые для номинаторов сведения.

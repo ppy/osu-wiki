@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Denunciare un abuso
 
 ## Non so se dovrei segnalarlo o meno
@@ -30,7 +34,7 @@ Se senti che queste osservazioni/avance erano altamente inappropriate o sei un u
 
 [Segnala il post](/wiki/Reporting_bad_behaviour#forum) al nostro [Team di Moderazione Globale](/wiki/People/Global_Moderation_Team) il prima possibile.
 
-In alternativa, clicca il nome utente di un qualsiasi utente GMT nella lista su quella pagina. Questo ti portera al suo profilo. Se non sei sicuro di chi cliccare, usa [invece questo link](https://osu.ppy.sh/users/102335).
+In alternativa, clicca il nome utente di un qualsiasi utente GMT nella lista su quella pagina. Questo ti portera al suo profilo. Se non sei sicuro di chi cliccare, usa [invece questo link](https://osu.ppy.sh/users/5999631).
 
 Clicca il pulsante con una busta dentro appena sotto la bandiera del paese dell'utente. Questo ti porterà alla schermata della chat.
 
@@ -48,7 +52,7 @@ Dopodiché, contatta subito gli amministratori del server cercando qualcuno in c
 
 Se questo abuso dovesse continuare e gli amministratori del server non fare nulla al riguardo, [per favore notifica il Discord Trust & Safety team compilando una segnalazione](https://dis.gd/request).
 
-In aggiunta, se conosci il nome utente di osu! della persona che ti da fastidio, per favore invia un'email ad [abuse@ppy.sh](mailto:abuse@ppy.sh) contenendo quante più informazioni possibili e sarà indagato tempestivamente.
+Se conosci il nome utente di osu! della persona che ti infastidisce, per favore invia un'email ad [abuse@ppy.sh](mailto:abuse@ppy.sh) contenendo quante più informazioni possibili e sarà indagato quando il tempo lo consente. Nota che non possiamo agire sui contenuti presenti su servizi di terze parti, perciò non possiamo garantire interventi, ma manterremo le informazioni in archivio.
 
 ### Su Twitter tramite un profilo di un giocatore di osu!
 
@@ -58,7 +62,7 @@ Dopodiché, blocca o silenzia l'utente in questione cliccando i tre puntini nel 
 
 Attenzione che la persona vedrà che è stato bloccata, a patto che controllino il tuo profilo Twitter. Se sei preoccupato che questo possa peggiorare il problema da qualche altra parte, silenziali invece. Questo rimuoverà i suoi tweet dalla tua timeline e ti impedirà di vedere suoi contenuti, ma gli sarà comunque possibile vedere e commentare su tutti i tuoi tweet.
 
-Se il tweet proviene da un account che è collegato al profilo di osu! di un utente tramite il nostro sito (apparirà sotto il suo avatar e la sua data di iscrizione affianco ad un'icona stilizzata di un uccello), per favore invia un'email a [abuse@ppy.sh](mailto:abuse@ppy.sh) contenente una copia del tweet in formato immagine o dovunque sia possibile, e ogni altra informazione che ti venga in mente.
+Se conosci il nome utente di osu! della persona che ti infastidisce, per favore invia un'email a [abuse@ppy.sh](mailto:abuse@ppy.sh) contenendo quante più informazioni possibili e sarà indagato quando il tempo lo consente. Nota che non possiamo agire sui contenuti presenti su servizi di terze parti, perciò non possiamo garantire interventi, ma manterremo le informazioni in archivio.
 
 ### Un membro di uno dei team di volontari (NAT, GMT) si sta approcciando/parlando/agendo su di me in modo inappropriato!
 

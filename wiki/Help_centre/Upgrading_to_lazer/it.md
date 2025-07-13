@@ -1,5 +1,5 @@
 ---
-outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
+outdated_since: cc8502f995615a9b23f80a2281fcfe40cb446a60
 outdated_translation: true
 ---
 
@@ -77,7 +77,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Ricezione del punteggio | ![Sì][true] | ![Sì][true] |
 | Classifiche per beatmap | ![Sì][true] | ![Sì][true] |
 | Statistiche del profilo | ![Sì][true] | ![Sì][true] |
-| Medaglie | ![Sì][true] | ![Parziale][partial] |
+| Medaglie | ![Sì][true] | ![Parziale][partial][^medals-lazer] |
 | Punti performance | ![Sì][true] | ![Sì][true] |
 | Chat in tempo reale | ![Parziale][partial][^stable-chat] | ![Sì][true] |
 | Wiki / news / changelog / classifiche | ![No][false] | ![Sì][true][^online-content] |
@@ -87,6 +87,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Spettatore multiplayer | ![No][false] | ![Sì][true] |
 | Conto alla rovescia | ![Parziale][partial][^countdown-timers-stable] | ![Sì][true][^countdown-timers-lazer] |
 | Modalità di code | ![No][false] | ![Sì][true][^queue-modes] |
+| Multiplayer freestyle | ![No][false] | ![Yes][true][^freestyle] |
 | Comandi multiplayer | ![Sì][true] | ![No][false] |
 | Tag co-op | ![Sì][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Sì][true] |
@@ -106,7 +107,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Divisione e fusione degli slider | ![No][false] | ![Yes][true] |
 | Rotazione dei pattern | ![Sì][true] | ![Sì][true] |
 | Ridimensionamento dei pattern | ![No][false] | ![Sì][true] |
-| Caricamento della beatmap | ![Sì][true] | ![No][false] |
+| Caricamento della beatmap | ![Sì][true] | ![Sì][true] |
 | Storyboard editor | ![Sì][true] | ![No][false] |
 | Compatibilità cross-client | ![Sì][true] | ![Parziale][partial][^incompatibilities] |
 
@@ -346,7 +347,9 @@ Probabilmente stai pensando ad un altro gioco.
 [^countdown-timers-stable]: Impostare un conto alla rovescia usando un comando, senza avvio automatico.
 [^countdown-timers-lazer]: Imposta un conto alla rovescia dall'interfaccia utente del gioco per avviare automaticamente la partita.
 [^queue-modes]: Attiva per consentire a chiunque in una lobby di mettere in coda nuove beatmap, anche detto "host rotate".
+[^freestyle]: Attivabile nella selezione canzone per permettere ai giocatori di selezionare qualunque difficoltà della mappa attuale.
 [^difficulty-adjust]: Cambiare CS/AR/OD/HP di una beatmap direttamente dalla song select tramite la mod Difficulty Adjust.
+[^medals-lazer]: Alcune [medaglie Hush-Hush](/wiki/Medals#hush-hush) non sono ancora ottenibili.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

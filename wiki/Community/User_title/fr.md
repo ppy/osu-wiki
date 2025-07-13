@@ -20,7 +20,7 @@ tags:
 
 ![Capture d'écran des informations du profil de Ephemeral](img/dev.png?1 "Le titre \"osu!team\" est visible en haut du profil de Ephemeral.")
 
-Un **titre d'utilisateur** est une courte étiquette sur la page de profil d'un utilisateur, définie par l'[équipe osu!](/wiki/People/osu!_team). La plupart des titres indiquent l'appartenance à un [groupe d'utilisateurs](/wiki/People/User_group), mais certains utilisateurs ont obtenu des [titres plus uniques](/wiki/People/Users_with_unique_titles) pour des réalisations ou des contributions spécifiques.
+Un **titre d'utilisateur** est une courte étiquette sur la page de profil d'un utilisateur, définie par l'[équipe osu!](/wiki/People/osu!_team). La plupart des titres indiquent l'appartenance à un [groupe d'utilisateurs](/wiki/People/User_groups), mais certains utilisateurs ont obtenu des [titres plus uniques](/wiki/People/Users_with_unique_titles) pour des réalisations ou des contributions spécifiques.
 
 La couleur du titre d'un utilisateur est la même que celle de l'utilisateur, qui est généralement définie par l'appartenance à un groupe. Si l'utilisateur n'a pas de couleur définie, le titre est blanc.
 

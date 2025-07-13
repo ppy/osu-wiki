@@ -33,7 +33,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Característica | stable | lazer |
 | :-- | :-- | :-- |
 | Soporte para skins | ![Sí][true] | ![Parcial][partial][^gameplay-only] |
-| Modos de agrupación en el selector de canciones | ![Sí][true] | ![No][false] |
+| Modos de agrupación en el selector de canciones | ![Sí][true] | ![Sí][true] |
 | Edición de skins / disposición de la IU integrada en el juego | ![No][false] | ![Sí][true] |
 | Componentes de skinning dinámicos y personalizables | ![No][false] | ![Sí][true] |
 
@@ -72,7 +72,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Envío de puntuaciones | ![Sí][true] | ![Sí][true] |
 | Tablas de clasificación de beatmaps | ![Sí][true] | ![Sí][true] |
 | Estadísticas de perfil | ![Sí][true] | ![Sí][true] |
-| Medallas | ![Sí][true] | ![Parcial][partial][^medals-lazer] |
+| Medallas | ![Parcial][partial][^medals-stable] | ![Parcial][partial][^medals-lazer] |
 | Puntos de rendimiento | ![Sí][true] | ![Sí][true] |
 | Chat en tiempo real | ![Parcial][partial][^stable-chat] | ![Sí][true] |
 | Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^online-content] |
@@ -82,6 +82,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Modo espectador en salas multijugador | ![No][false] | ![Sí][true] |
 | Temporizadores de cuenta regresiva | ![Parcial][partial][^countdown-timers-stable] | ![Sí][true][^countdown-timers-lazer] |
 | Modos de cola | ![No][false] | ![Sí][true][^queue-modes] |
+| Modo libre en el modo multijugador | ![No][false] | ![Sí][true][^freestyle] |
 | Comandos multijugador | ![Sí][true] | ![No][false] |
 | Tag cooperativo | ![Sí][true] | ![No][false] |
 | Listas de juego (tablas de clasificación seleccionadas por los usuarios) | ![No][false] | ![Sí][true] |
@@ -101,9 +102,9 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | División y fusión de sliders | ![No][false] | ![Sí][true] |
 | Rotación de patrón | ![Sí][true] | ![Sí][true] |
 | Cambio de tamaño de patrón | ![No][false] | ![Sí][true] |
-| Envío de beatmaps | ![Sí][true] | ![No][false] |
+| Envío de beatmaps | ![Sí][true] | ![Sí][true] |
 | Editor de storyboards | ![Sí][true] | ![No][false] |
-| Compatibilidad entre versiones | ![Sí][true] | ![Parcial][partial][^incompatibilities] |
+| Compatibilidad entre versiones | ![Sí][true] | ![Sí][true] |
 
 ## Cambiar a lazer
 
@@ -334,13 +335,14 @@ Probablemente estés pensando en otro juego.
 [^multi-room-max]: 16 jugadores máximo.
 [^map-only]: Solo el mapa.
 [^all-files]: Todos los archivos.
-[^incompatibilities]: Algunas características del editor causarán que el beatmap se reproduzca de manera incorrecta en stable; será arreglado pronto.
 [^stable-chat]: Los mensajes pueden tomar hasta 15 segundos en llegar.
 [^countdown-timers-stable]: Establece una cuenta regresiva usando un comando, sin inicio automático.
 [^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
 [^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «rotación del anfitrión».
+[^freestyle]: Activa la opción en el selector de canciones para permitir a los jugadores seleccionar cualquier dificultad del beatmap actual.
 [^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente en el selector de canciones mediante el mod Difficulty Adjust.
 [^medals-lazer]: Algunas [medallas Hush-Hush](/wiki/Medals#hush-hush) aún no se pueden conseguir.
+[^medals-stable]: Algunas medallas son exclusivas de lazer.
 [^filo]: «Filo» es una de las traducciones de [cutting edge](/wiki/Client/Release_stream).
 
 [true]: /wiki/shared/true.png

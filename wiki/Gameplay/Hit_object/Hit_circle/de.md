@@ -8,8 +8,12 @@ tags:
 
 # Hit-Circle
 
-*Hit-Circles* sind farbige, kreisförmige [Hit-Objekte](/wiki/Gameplay/Hit_object), die sowohl in [osu!](/wiki/Game_mode/osu!)- als auch in [osu!taiko](/wiki/Game_mode/osu!taiko)-[Beatmaps](/wiki/Beatmap) zu finden sind. Ihr Aussehen unterscheidet sich zwischen jedem Spielmodus, aber allgemein muss der Spieler den Hit-Circle im Takt des Beats anklicken/antippen, um [Score](/wiki/Gameplay/Score) zu verdienen, basierend darauf, wie [akkurat](/wiki/Gameplay/Accuracy) er war (beispielsweise, wenn er zu früh geklickt hat, werden seine Punkte reduziert). Das Tippen von Hit-Circles füllt die [Lebensleiste](/wiki/Client/Interface/Health_bar) ein wenig, zusammen mit einem größeren Gesundheitsgewinn am Ende einer [Combo](/wiki/Beatmapping/Combo).
+*Hit-Circles* sind farbige, kreisförmige [Hit-Objekte](/wiki/Gameplay/Hit_object), die sowohl in [osu!](/wiki/Game_mode/osu!)- als auch in [osu!taiko](/wiki/Game_mode/osu!taiko)-[Beatmaps](/wiki/Beatmap) zu finden sind. Sie gehören zur grundlegenden Spielmechanik und Spieler müssen Hit-Circles im Takt der Musik anklicken/antippen, um [Punkte](/wiki/Gameplay/Score) zu sammeln. Je [genauer](/wiki/Gameplay/Accuracy) Hit-Circles getroffen werden, desto mehr Punkte bekommt man. Des Weiteren füllt das Treffen von Hit-Circles die [Lebensleiste](/wiki/Client/Interface/Health_bar) ein wenig, zusammen mit einem größeren Gesundheitsgewinn am Ende einer [Combo](/wiki/Beatmapping/Combo).
 
-In osu! erscheinen Hit-Circles mit einer Nummer oben drauf. Damit wird die Position in einer Combo angezeigt. Hit-Circles sind mit [Approach-Circles](/wiki/Gameplay/Hit_object/Approach_circle) umrandet, die um sie herum schrumpfen. Sobald ein Approach-Circle den Hit-Circle überlappt, muss der Spieler auf den Hit-Circle klicken/tippen, um Score zu erlangen.
+## Anpassung und Skinning
 
-In osu!taiko tauchen Hit-Circles von rechts nach links entweder als rote oder als blaue Noten auf (Don oder Katu). So wie die Hit-Circles sich dem [Beurteilungskreis](/wiki/Gameplay/Judgement) annähern und mit diesem übereinstimmen, müssen die richtigen Tasten gedrückt werden, um Score zu verdienen.
+Spieler können das Aussehen von Hit-Circles mit [Skins](/wiki/Skin) anpassen. 
+
+Hit-Circles werden nummeriert, um ihre Position in einer Combo anzuzeigen. Jeder Hit-Circle ist von einem [Approach-Circle](/wiki/Gameplay/Hit_object/Approach_circle) umrandet, der um den Hit-Circle herum schrumpft. Sobald der Approach-Circle mit dem Hit-Circle überlappt, muss der Spieler auf den Hit-Circle klicken/tippen, um Punkte zu sammeln. Den richtigen Zeitpunkt zu verfehlen bedeutet, dass man weniger Punkte bekommt, abhängig davon wie weit entfernt der Treffer war. Ab einem gewissen Zeitpunkt bricht die Combo ab und der Spieler verliert an Gesundheit.
+
+![Hit-Circles](/wiki/shared/osu_hitcircles.jpg "Hit-Circles in osu!")

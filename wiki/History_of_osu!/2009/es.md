@@ -1,4 +1,4 @@
-# Historia de osu! 2009
+# Historia de osu! de 2009
 
 ## Enero
 

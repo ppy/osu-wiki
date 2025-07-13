@@ -2,7 +2,7 @@
 
 ***Notice: This document is an extension of the [general ranking criteria](/wiki/Ranking_criteria).***
 
-This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria#general-terms) that [osu!](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria) that [osu!](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Overall
 
@@ -28,7 +28,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Sliderends that do not represent a specific sound in the music should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a beat in a different position from what was recommended, snapping to an actual beat always takes priority.
 - **All circles and slider heads should be [snapped](/wiki/Beatmapping/Snapping) to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
 - **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should be set according to the song.** For example if your song contains a section that uses 1/3 rhythms only, using tick rate 2 would not be fitting for the entire beatmap. In such cases, tick rate 1 should be used.
-- **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
+- **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with high background dim and the other elements partially give up their functions as borders.
 - **Avoid using combo colours and custom slider track colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 - **Spinner ends, slider ends, and slider reverses should have hitsound feedback.** If these are used to represent a held sound and do not align with a distinct sound, having no feedback is acceptable.
 - **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hitsounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
@@ -127,7 +127,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Avoid more than three actively clicked 1/2 rhythms in a row.**
 - **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.
 - **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders.
-- **Objects making up actively clicked 1/2 rhythms should [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap) each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable.
+- **Objects making up actively clicked 1/2 rhythms should [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap) each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such as sliderends followed by a circle, are acceptable.
 - **Avoid [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) above 1.3.**
 
 #### Difficulty setting guidelines
@@ -191,7 +191,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
-  - The slider path is allowed to be ambiguous if the cursor can stay inside the slider's follow circle without any movement away from the slider head.
+  - Ambiguous slider paths are allowed if a 300 can be achieved on the slider without any movement away from the slider head.
 
 #### Guidelines
 

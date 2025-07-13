@@ -6,7 +6,7 @@ date: 2023-09-09 19:00:00 +0000
 
 This classic contest makes a comeback yet again! See if you have what it takes to take home the gold and make your way towards the coveted Elite Mapper title.
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Let's be honest: the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) isn't anything special — but that may be what makes it so valuable.
 

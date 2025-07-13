@@ -30,7 +30,7 @@ The support team will not provide any "proof" regarding restrictions, but all ar
 
 ## I'll make a video to prove my innocence!
 
-Sorry, but if you have been restricted, the support team is already sure you are cheating. A video will not help, because even these can be also doctored.
+Sorry, but if you have been restricted, the support team is already sure you are cheating. A video will not help, because even these can be doctored.
 
 ## I found someone who is definitely cheating. I can tell by their replay/score! What should I do?
 
@@ -41,13 +41,13 @@ You should report the user and not mention them anywhere. There are three ways t
 
 **This is the preferred way for reporting suspected foul play, as it provides the most information to the support team members.**
 
-On the user's profile, a `Report` button will appear when you click on the three dots next to the `Message` button. Write any information that can prove that the user is doing misbehaviour.
+On the user's profile, a `Report` button will appear when you click on the three dots next to the `Message` button. Write any information that can prove that the user is misbehaving.
 
 *Take note of the selected game mode before reporting.*
 
 ### Beatmap page
 
-This way of reporting is also as effective as using the profile page for voting, the reports go to the same endpoint.
+This way of reporting is as effective as using the profile page for reporting – the reports go to the same endpoint.
 
 In beatmap pages, you can report a user in the top leaderboards by clicking the `Report` button on the far right of their score.
 
@@ -70,7 +70,7 @@ Peripherals such as tablets and touchscreens are fine. Anything which decreases 
 
 ## How can I appeal my restriction?
 
-Wait three months after the latest issued restriction before appealing. Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Restriction Appeal: <username>`
+Wait at least three months after the latest issued restriction before appealing.[^restriction-length] Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject of `Restriction Appeal: <username>`
 
 The support team expects users to give a full history of their actions and give reasons why they won't be reoffending in the future.
 
@@ -82,4 +82,8 @@ If you've broken the rules and you'd like to come clean, please contact [account
 
 ## How can I avoid being silenced or restricted?
 
-Carefully read and follow the [rules](/wiki/Rules).
+Carefully read and follow the [rules](/wiki/Rules). If you're not sure whether something you want to do would break the rules, ask a member of the [Global Moderation Team](/wiki/People/Global_Moderation_Team). If you're not sure who to ask, [click here](https://osu.ppy.sh/users/5999631).
+
+## Notes
+
+[^restriction-length]: The length of time you will have to wait before appealing depends on the reason for the restriction. If you're not sure how long your restriction lasts, email [accounts@ppy.sh](mailto:accounts@ppy.sh). For more information, see [Account restrictions](/wiki/Help_centre/Account_restrictions).

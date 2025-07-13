@@ -117,7 +117,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 [osu! 團隊](/wiki/People/osu!_team) • [開發團隊](/wiki/People/Developers) • [特邀藝術家](/wiki/People/Featured_Artists) • [管理團隊 (Global Moderation Team)](/wiki/People/Global_Moderation_Team) • [支援團隊](/wiki/People/Support_Team) • [提名評估團隊 (Nomination Assessment Team)](/wiki/People/Nomination_Assessment_Team) • [圖譜提名者](/wiki/People/Beatmap_Nominators) • [osu! 名人堂](/wiki/People/osu!_Alumni) • [Project Loved 團隊](/wiki/People/Project_Loved_Team) • [圖譜聚光燈策劃者](/wiki/People/Beatmap_Spotlight_Curators)
 
-[社群貢獻者](/wiki/People/Community_Contributors) • [菁英提名者](/wiki/People/Elite_Nominators) • [玩家群組](/wiki/People/User_group) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles) • [百夫長](/wiki/People/Centurions) • [全通者](/wiki/People/Completionists) • [賽事委員會](/wiki/People/Tournament_Committee) • [表現分數 (PP) 委員會](/wiki/People/Performance_Points_Committee) • [osu! wiki 維護者](/wiki/People/osu!_wiki_maintainers)
+[社群貢獻者](/wiki/People/Community_Contributors) • [菁英提名者](/wiki/People/Elite_Nominators) • [玩家群組](/wiki/People/User_groups) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles) • [百夫長](/wiki/People/Centurions) • [全通者](/wiki/People/Completionists) • [賽事委員會](/wiki/People/Tournament_Committee) • [表現分數 (PP) 委員會](/wiki/People/Performance_Points_Committee) • [osu! wiki 維護者](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -126,7 +126,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 透過其他應用程式或媒體與 osu! 互動，或協助 osu! 進一步發展。
 
-[API](/wiki/osu!api) • [機器人帳號](/wiki/Bot_account) • [品牌辨識度準則](/wiki/Brand_identity_guidelines) • [osu! Discord 伺服器](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [機器人帳號](/wiki/Bot_account) • [品牌辨識度準則](/wiki/Brand_identity_guidelines) • [osu! Discord 伺服器](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

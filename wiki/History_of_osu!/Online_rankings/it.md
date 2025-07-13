@@ -6,6 +6,8 @@ tags:
   - "rank #1"
   - rankings
   - top player
+outdated_translation: true
+outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 ---
 
 # Cronologia delle classifiche online
@@ -16,21 +18,21 @@ Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con
 
 ## ![][osu!] osu!
 
-*Pagina principale: [osu!](osu!)*
+*Pagina principale: [Cronologia delle classifiche di osu!](osu!)*
 
-Al 19 luglio 2021, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Al 3 agosto 2024, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-Al 9 ottobre 2023, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
+Al 19 giugno 2024, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
 
 ## ![][osu!catch] osu!catch
 
-Al 7 giugno 2021, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
+Al 2 novembre 2024, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
 
 ## ![][osu!mania] osu!mania
 
-Al 13 aprile 2023, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+Al 31 dicembre 2024, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

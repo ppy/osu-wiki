@@ -16,7 +16,7 @@ tags:
 
 ::: Infobox
 
-![](img/lazer.png?2024-01-30 "The osu!(lazer) client logo.")
+![](img/lazer.png?2024-10-04 "The osu!(lazer) client logo.")
 
 [Download](https://osu.ppy.sh/home/download) • [Issue tracker](https://github.com/ppy/osu/issues) • [Discussions](https://github.com/ppy/osu/discussions)
 

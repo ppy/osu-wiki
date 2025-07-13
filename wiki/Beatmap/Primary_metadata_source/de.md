@@ -26,4 +26,4 @@ Eine **primäre Metadatenquelle** ist eine Quelle für die Felder `Artist`, `Tit
 
 Die Webseite eines Künstlers oder seines Labels, CD-Scans und offizielle Inhalte auf Webseiten wie Bandcamp, YouTube und SoundCloud werden als primäre Quellen für Beatmap-Metadaten akzeptiert. Drittanbieterwebseiten wie Wikis, Datenbanken (vndb, vgmdb usw.) und Musikdienste (Spotify, iTunes, Amazon usw.) geben die Intentionen des Künstlers nicht immer korrekt wieder und sollten nicht als Primärquelle verwendet werden.
 
-Beatmaps, die auf den [Ranked](/wiki/Beatmap/Category#ranked)-Status abzielen, müssen ihre Metadaten aus einer Primärquelle beziehen. In den [Ranking-Kriterien](/wiki/Ranking_criteria#metadata) werden weitere Regeln und Richtlinien zu Beatmap-Metadaten festgehalten.
+Beatmaps, die auf den [Ranked](/wiki/Beatmap/Category#ranked)-Status abzielen, müssen ihre Metadaten aus einer Primärquelle beziehen. In den [Ranking-Kriterien](/wiki/Ranking_criteria/Metadata) werden weitere Regeln und Richtlinien zu Beatmap-Metadaten festgehalten.

@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on June 2, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on May 13, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -27,19 +27,36 @@ Officially supported tournaments have access to:
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
 - The tournament series must run no more than two times per year.
-- The tournament must operate on a Round of 16 double-elimination format at a minimum.
+- The tournament must operate on a Round of 16 double-elimination or a Round of 32 single-elimination format at a minimum.
+  - LAN tournaments must operate on a Round of 8 double-elimination or a Round of 16 single-elimination format at a minimum.
   - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
-  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
-- The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
-  - `https://pif.ephemeral.ink/tournament-reports`
+  - Tournaments that feature a draft or auction format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
+    - The tournament is open rank.
+    - The team size is 8 or more.
+    - Note: In global or continent-based draft and auction tournaments, this rule applies to a maximum of 2 open-rank divisions. For smaller-scale tournaments, this rule applies to only 1 open-rank division.
+  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should [submit a ticket](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
+- The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://tcomm.hivie.tn/reports/create) as the very last content of the original post.
+  - `https://tcomm.hivie.tn/reports/create`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
-- The tournament must only use beatmaps of songs which are cleared in terms of [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions). Any usage of tracks which are explicitly disallowed will revoke a tournament's eligibility for support. See the [ranking criteria](/wiki/Ranking_criteria#rules) for details regarding exceptions for artists or tracks which are listed as disallowed.
+- The tournament must abide by the following content usage rules:
+  - Usage of any beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
+  - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) is strictly prohibited, except if they are **Ranked, Approved, or Loved**.
+    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion.
 - The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
-  - osu!mania: 40,000
+  - osu!mania 4K: 40,000
+  - osu!mania 7K: 5,000
   - This does not apply to open rank tournaments.
+- The tournament organisers do not collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions.
+  - Email addresses may be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
+  - Personal information may be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
+  - Other exceptions to this rule may be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
+- In cases where **any** personal information is collected from registrants for any reason, tournament organisers must include a privacy policy on the tournament's forum post and/or wiki page detailing the following:
+  - Any users, organisations, or other entities who can view this information.
+  - How the information will be stored and processed.
+  - What the information will be used for.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
   - Any tournaments held as preliminary events leading into a main competition must adhere to the same [expectations](#expectations) as standalone tournaments.
 
@@ -78,18 +95,20 @@ In addition, all promotional material or any services associated with a tourname
 
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
-  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
-- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for automated software has been granted and is being used for assistance. Players cannot "self-ref".
-  - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
+  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
+- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players may not "self-ref".
 - Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
 - All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
 
-Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
+Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh):
 
 - A list of applicable badge recipients (a.k.a. the winners of your tournament).
 - An appropriately designed badge ([see below](#profile-badges)).
-- A link to the publicly viewable catalogue of your tournament's match history.
+- Links to the tournament's wiki page, website and/or publicly viewable spreadsheet(s) with:
+  - The tournament's match history with links to all matches, including qualifiers where applicable.
+  - The tournament's mappools.
+  - The tournament's qualifier results, where applicable.
 
 ### Programs
 
@@ -106,8 +125,10 @@ Registrant filtering, not to be confused with [screening](#tournament-screening)
 
 In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
 
-- If a dataset is used, it must be up to date, publicly available and downloadable. Documentation must be provided explaining how to recreate the dataset and reproduce the results using it — including code where applicable.
+- If a dataset of osu! multiplayer matches, player scores, or otherwise is used, archives must be publicly available, downloadable, timestamped, and have the most recent archive be no more than 30 days out of date. Archives must remain available for at least 6 months. Documentation must be provided explaining how to reproduce the results using it — including code where applicable.
+  - Tournaments using such tools must disclose the dates at which they seed and/or filter players using these tools.
 - When doing qualifiers, the formula or method used to determine seeding must be included in the tournament's ruleset.
+  - The most commonly used seeding methods and the mathematics behind them can be found on the [Common seeding methods](/wiki/Tournaments/Common_seeding_methods) wiki page.
 
 A third party should be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
 
@@ -134,17 +155,19 @@ With regards to staff roles, the following rules apply:
 
 Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
-At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another badged tournament for at least 4 months. In the event this cooldown is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
+At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another officially-supported tournament for at least 4 months. In the event a staffing ban is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
-A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, website, or spreadsheet.
+At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a hosting ban. Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
+
+A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet. If there are multiple lists of staff, they must all be up to date and in sync with one another.
 
 ### Players
 
 Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
 
-Additionally, players are expected to have *reasonably participated* in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough.
+Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough. Because there are intangible contributions to teams that players often make without playing maps, only players who *do not play any maps at all* throughout the course of a tournament may be denied a badge prize.
 
-At the account support team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
+At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
 ## Other procedures
 
@@ -179,7 +202,7 @@ Only players who are participating in the tournament **or** would be likely subs
 
 ### Profile badges
 
-Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. Profile badge prizes must be requested at most two months after tournament completion. **Badges will never be approved until after the conclusion of the tournament.**
+Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. We highly recommend requesting profile badge prizes as soon as possible after tournament completion, as this will benefit the [review process](/wiki/People/Tournament_Committee#tournament-review). **Badges will never be approved until after the conclusion of the tournament.**
 
 Profile badge images must adhere to the following standards:
 
@@ -195,6 +218,8 @@ Profile badge images must adhere to the following standards:
 Please consult the following examples of approved badge designs:
 
 ![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
+
+Use [this badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to help you verify that your badge complies with the above standards.
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 
@@ -249,6 +274,8 @@ Please consult the following examples of acceptable banner designs:
 
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
 
+Use [this banner visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to check how the banner would look in-game.
+
 Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorised to make use of one.
 
 #### News posts
@@ -282,3 +309,4 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 ## Notes
 
 [^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
+[^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.

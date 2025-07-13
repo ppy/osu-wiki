@@ -24,7 +24,7 @@ Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/
 
 ## Einreichen
 
-*Hauptartikel: [Einreichen](/wiki/Beatmapping/Beatmap_submission)*
+*Hauptartikel: [Beatmaps veröffentlichen](/wiki/Beatmapping/Beatmap_submission)*
 
 Beatmap-Autoren können ihre Kreationen auf die öffentliche [Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets) [hochladen](/wiki/Beatmapping/Beatmap_submission). Auch wenn jede Schöpfung [einer einzelnen Person](/wiki/Beatmap/Beatmap_host) zugeschrieben wird, handelt es sich doch oft um eine gemeinschaftliche Arbeit: einige Schwierigkeitsgrade können von anderen Leuten innerhalb einer [Kollaboration](/wiki/Beatmap/Beatmap_collaborations) oder [separat](/wiki/Beatmap/Guest_difficulty) erstellt werden.
 

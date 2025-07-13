@@ -345,7 +345,7 @@ Notes:
 
 Notes:
 
-- Overrides `hitcircle.png` for the start of the slider, if skinned.
+- Overrides `hitcircle.png` for the end of the slider, if skinned.
 - This element is the hitcircle for the end of the slider.
 - This element fades in before completing and expands when completed.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
@@ -365,7 +365,7 @@ Notes:
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
-- Overrides the `hitcircle.png` image for the start of the slider.
+- Overrides the `hitcircleoverlay.png` image for the end of the slider.
 - `sliderendcircle.png` is required for this to work.
 - Should be a circle.
 - This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
@@ -756,6 +756,28 @@ Notes:
 
 - `hit300.png` must be skinned.
 - This element is used for `hit300`, `hit300g`, and `hit300k`.
+
+## Slider miss indicators (Lazer only)
+
+In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, new indicators were added when missing parts of sliders. The following legacy skin elements can be used to skin these. They have no effect in osu!stable<!-- TODO link somewhere -->.
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| Skin versions | All |
+| Animatable | ![Yes][true] |
+| Beatmap skinnable | ![Yes][true] |
+| Blend mode | Normal |
+| Origin | Centre |
+| Suggested SD size | 16x16 |
+
+:::
+
+|  | Filename | Description |
+| :-: | :-- | :-- |
+| ![](img/sliderendmiss.png "Default sliderendmiss@2x.png") | `sliderendmiss.png` | Displays when missing a [sliderend](/wiki/Gameplay/Hit_object/Slider/Slidertail). |
+| ![](img/slidertickmiss.png "Default slidertickmiss@2x.png") | `slidertickmiss.png` | Displays when missing a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick). |
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

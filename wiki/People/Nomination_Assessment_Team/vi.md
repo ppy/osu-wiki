@@ -1,6 +1,7 @@
 ---
-outdated_since: c4b50fcfc48b6af263e3dfa8b144c7b7122889f0
 outdated_translation: true
+outdated_since: f55c53278e0141286b7f026d3848c5386f832f33
+no_native_review_since: fa001f3f10bcb5261f1ba2cf35469327f89ddfd6 Avariation
 tags:
   - NAT
 ---
@@ -11,7 +12,7 @@ tags:
 
 **Đội ngũ Đánh giá Đề cử** (***NAT***) là những người quản lý các [Đề cử viên](/wiki/People/Beatmap_Nominators) (*BN*) và đảm bảo những lĩnh vực liên quan đến beatmap trong osu! hoạt động bình thường.
 
-Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, huy hiệu dành cho [nhóm người dùng](/wiki/People/User_group) có đề tên `NAT`, và tên người dùng hiện màu đỏ trong game. Họ có quyền quản lý toàn bộ website như [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) (*GMT*), và có khả năng [đề cử](/wiki/Beatmap_ranking_procedure#nominations) và [đặt lại đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets) của beatmap, giống như những [thành viên chính thức](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) của [Đội ngũ Đề cử viên](/wiki/People/Beatmap_Nominators) (*BNs*). Nhìn chung, những thành viên của NAT chính là những Đề cử viên với những chức năng, nhiệm vụ khác nhau. Vì thế, mọi [quy tắc](/wiki/People/Beatmap_Nominators/Rules) và [tiêu chuẩn riêng](/wiki/People/Beatmap_Nominators/Expectations) của Đề cử viên đều áp dụng cho thành viên của NAT với một số ngoại lệ nhất định để hoạt động.
+Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `NAT`, và tên người dùng hiện màu đỏ trong game. Họ có quyền quản lý toàn bộ website như [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) (*GMT*), và có khả năng [đề cử](/wiki/Beatmap_ranking_procedure#nominations) và [đặt lại đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets) của beatmap, giống như những [thành viên chính thức](/wiki/People/Beatmap_Nominators#đề-cử-viên-chính-thức) của [Đội ngũ Đề cử viên](/wiki/People/Beatmap_Nominators) (*BNs*). Nhìn chung, những thành viên của NAT chính là những Đề cử viên với những chức năng, nhiệm vụ khác nhau. Vì thế, mọi [quy tắc](/wiki/People/Beatmap_Nominators/Rules) và [tiêu chuẩn riêng](/wiki/People/Beatmap_Nominators/Expectations) của Đề cử viên đều áp dụng cho thành viên của NAT với một số ngoại lệ nhất định để hoạt động.
 
 **Tất cả thành viên của Đội ngũ Đánh giá Đề cử cam kết tuân thủ theo [Bộ quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct) bên cạnh [Quy tắc cộng đồng](/wiki/Rules).**
 
@@ -67,9 +68,9 @@ Thành viên NAT được hưởng những lợi ích sau:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Một thẻ osu!supporter có hiệu lực trong suốt khoảng thời gian làm thành viên của đội ngũ.
 - **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
-  ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
+  ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/NAT1y.png "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/NAT2y.png "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/NAT3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/NAT4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/NAT5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/NAT6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/NAT7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/NAT8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/NAT9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/NAT10y.png "Huy hiệu 10 năm")
 - **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số đề cử beatmap nhất định.
-  ![Huy hiệu 200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![Huy hiệu 400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![Huy hiệu 600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![Huy hiệu 800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![Huy hiệu 1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
+  ![100 đề cử](https://assets.ppy.sh/profile-badges/100_noms.png "100 đề cử") ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
 - **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những thành viên NAT làm tốt vai trò đề cử viên của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
 
 ## Đề bạt lên NAT
@@ -84,7 +85,9 @@ NAT luôn để mắt tới các ứng cử viên có triển vọng trong một
 
 Nếu thành viên hoặc cựu thành viên của NAT thể hiện khả năng xử lý tốt công việc ở mảng tổ chức (được liệt kê như trên) và những đóng góp của họ, kể cả ở hiện tại hay đã lên kế hoạch, vượt xa những gì họ làm trong vai trò đánh giá, họ có thể chọn chuyển sang bộ phận tổ chức. Việc này sẽ do trưởng nhóm NAT đánh giá và xử lý theo từng trường hợp cụ thể.
 
-Việc chuyển đổi sẽ được thảo luận lại với phần còn lại của NAT trước khi thực hiện, phòng trường hợp có sự phản đối. Nếu không có vấn đề nào phát sinh, thành viên liên quan sẽ tuân thủ theo tiêu chuẩn hoạt động khác nhau tùy theo trường hợp của họ. Nếu những đóng góp của họ sau này bị xem là mờ nhạt hoặc không cần thiết theo đánh giá của trưởng nhóm NAT thì họ sẽ được chuyển ra khỏi bộ phận này.
+Trong một số ít trường hợp, Đề cử viên cũng có thể được cân nhắc cho vị trí này tùy thuộc vào đóng góp của họ vào cộng đồng mapping/modding.
+
+Việc chuyển đổi sẽ được thảo luận với phần còn lại của NAT trước khi thực hiện, phòng trường hợp có sự phản đối. Nếu không có vấn đề nào phát sinh, thành viên liên quan sẽ tuân thủ theo tiêu chuẩn hoạt động khác nhau tùy theo trường hợp của họ. Nếu những đóng góp của họ sau này bị xem là mờ nhạt hoặc không cần thiết theo đánh giá của trưởng nhóm NAT thì họ sẽ được chuyển ra khỏi bộ phận này.
 
 ## Rời khỏi NAT
 
@@ -97,8 +100,11 @@ Khi một thành viên NAT quyết định rời đi, họ có thể nhận đư
 Cựu thành viên NAT hiện đang có quyền truy cập nội bộ bao gồm:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
+- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
+- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## Trưởng nhóm NAT
@@ -111,7 +117,7 @@ Trưởng nhóm NAT hiện tại là ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/
 
 Trưởng nhóm NAT phụ trách những việc sau:
 
-- **Quản lý hoạt động:** Liên tục theo dõi hoạt động của các thành viên khác trong NAT và xử lý những trường hợp ít hoạt động thông qua những đợt kiểm tra định kỳ hoặc qua những buổi phỏng vấn thôi việc trong trường hợp có vấn đề hoạt động liên quan đến một số thành viên nhất định.
+- **Quản lý hoạt động:** Liên tục theo dõi hoạt động của các thành viên khác trong NAT và xử lý những trường hợp ít hoạt động hoặc có vấn đề liên quan đến thái độ, hành vi thông qua những đợt kiểm tra định kỳ hoặc qua những buổi phỏng vấn thôi việc trong trường hợp có liên quan đến một số thành viên nhất định.
 - **Thông tin, liên lạc:**
   - Làm cầu nối giữa osu! team, NAT, và cộng đồng mapping, liên tục thông báo về bất kỳ thay đổi, lo ngại hay yêu cầu nào.
   - Vận động tham gia vào các cuộc thảo luận nội bộ lẫn bên ngoài bằng cách chủ động thu hút tất cả các bên vào tham gia, đồng thời tạo điều kiện cho các ý kiến, quan điểm khác nhau được kết hợp và tạo ra phương hướng hành động thiết thực.
@@ -152,21 +158,11 @@ Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý thảo luận, công việc và tài liệu nội bộ |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Bảo trì [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Quản lý Tiêu chuẩn Xếp hạng |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Phát triển [trang Quản lý Đề cử viên](https://bn.mappersguild.com) |
 
 Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, nhưng đồng thời có đóng góp vào mảng tổ chức:
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tổ chức Chương trình Cố vấn Đề cử viên (BN Mentorship Program) |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Xử lý báo cáo từ người dùng |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Xử lý báo cáo nội dung |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Nomination Planner](https://bnplanner.greaper.net/beatmaps) và [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Nhóm trưởng NAT, phát triển [trang Quản lý Đề cử viên](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 

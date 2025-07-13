@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-The full tournament ruleset can be found on the [Quickfire Showdown tournament handbook](https://cdn.discordapp.com/attachments/1032750089845866536/1107889405340958810/OPQS_2023_Handbook.pdf).
+The full tournament ruleset can be found on the [Quickfire Showdown tournament handbook](https://up.topec.nz/OPQS_2023_Handbook.pdf).
 
 ### Tournament format
 

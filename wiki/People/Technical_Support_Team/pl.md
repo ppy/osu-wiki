@@ -25,7 +25,9 @@ Lista wszystkich członków pomocy technicznej znajduje się na [stronie grupy](
 
 | Użytkownik | Języki |
 | :-- | :-- |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polski |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański |

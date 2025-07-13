@@ -43,3 +43,4 @@ Un effet secondaire de ce schéma de mise en page était que la hauteur par déf
 
 - Les deux premiers badges de profil ont été attribués à ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) et ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) le 6 septembre 2009, pour [avoir gagné *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
 - Les badges peuvent renvoyer à d'autres pages web pour plus de contexte, comme la page du forum d'un tournoi ou d'un article du wiki.
+- Les badges empêchent les autres de [prendre le nom d'utilisateur actuel ou passé du joueur](/wiki/Help_centre/Account#prendre-nom-d'utilisateur-existant).

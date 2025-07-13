@@ -22,6 +22,8 @@ El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mi
 
 La línea de tiempo se puede acercar y alejar con los botones `+`/`-` de la izquierda o, alternativamente, desplazándote con la tecla `Alt` mantenida. Las dos líneas blancas en el centro indican la marca de tiempo actual. Además, los objetos en la línea de tiempo se pueden seleccionar y mover con el botón izquierdo del ratón, o eliminarlos haciendo clic con el botón derecho.
 
+Haz clic y arrastra la cola de un slider a la derecha de la línea de tiempo para crear un [slider con repetidor](/wiki/Gameplay/Hit_object/Slider/Repeat_slider).
+
 ### Divisor de ritmo
 
 ![](img/beat-snap-divisor-ES.jpg "Divisor de ritmo")

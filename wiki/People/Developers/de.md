@@ -11,7 +11,7 @@ tags:
 
 Die Entwickler von osu! halten das Spiel und die Website durch das Beheben von Fehlern und das Hinzufügen neuer Funktionen am Laufen. Die meisten sind Angestellte von ppy Pty Ltd, dem Unternehmen, dem osu! gehört. Sie bilden den größten Teil des [osu!-Teams](/wiki/People/osu!_team).
 
-Die osu!-Entwickler können anhand des pinken Benutzertitels "osu!dev" oder "osu!team" und des [Gruppenabzeichens](/wiki/People/User_group), auf dem `DEV` steht, erkannt werden.
+Die osu!-Entwickler können anhand des pinken Benutzertitels "osu!dev" oder "osu!team" und des [Gruppenabzeichens](/wiki/People/User_groups), auf dem `DEV` steht, erkannt werden.
 
 ## Teammitglieder
 
@@ -21,26 +21,29 @@ Die Entwicklung von osu! wird von ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/u
 
 ### Entwickler des Spiel-Clients
 
-- ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
+- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+
+### Entwickler der Infrastruktur
+
+- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Entwickler der Webseite
 
 - ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
 - ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Designer
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Community-Manager
 
-- ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
 
@@ -57,20 +60,20 @@ Aktuell werden die Hauptprojekte von osu! auf GitHub gehostet und sind für jede
 *Für detaillierte Einblicke zu den Beiträgen zum osu!-Projekt, siehe: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
 
 - ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022)
+- ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
 - ::{ flag=BY }:: [EVAST](https://osu.ppy.sh/users/8195163)
-- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
-- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+- ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835)
 
 #### osu!framework
 
 *Für detaillierte Einblicke zu den Beiträgen zum osu!framework-Projekt, siehe: [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
 
-- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
+- ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
 - ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
 - ::{ flag=AU }:: [Samah](https://osu.ppy.sh/users/343490)
-- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
-- ::{ flag=RU }:: [TacoToucan](https://osu.ppy.sh/users/1326350)
+- ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305)
+- ::{ flag=RU }:: [TocoToucan](https://osu.ppy.sh/users/1326350)
 
 #### osu!web
 
@@ -78,9 +81,9 @@ Aktuell werden die Hauptprojekte von osu! auf GitHub gehostet und sind für jede
 
 - ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
 - ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349)
-- ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540)
 - ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384)
 - ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705)
+- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
 
 ## Ehemalige Mitwirkende
 
@@ -88,6 +91,6 @@ Unten werden Benutzer aufgelistet, die die laufende Entwicklungsarbeit verlassen
 
 | Benutzer | Rolle |
 | :-- | :-- |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Community-Manager |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Entwickler des Spiel-Clients |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Entwickler des Spiel-Clients |

@@ -239,7 +239,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-To make something appear in (span style="background:#CCCC00")this yellow colour(/span):
+To make something appear in yellow (`#cccc00`):
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240

@@ -18,7 +18,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 ![nominate button](img/nominate.png)
 
-**This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 [Hype](/wiki/Beatmap/Hype) and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations, it will be [Qualified](/wiki/Beatmap/Category#qualified) and enter the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue).
+**This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 [Hype](/wiki/Beatmap/Hype) and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations (or more if it's a [hybrid set](/wiki/Beatmap_ranking_procedure#notes)), it will be [Qualified](/wiki/Beatmap/Category#qualified) and enter the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue).
 
 ### Disqualify or reset nomination
 
@@ -41,7 +41,7 @@ In addition to being able to nominate beatmaps or reset their nominations, BNs h
 
 ### Veto mediation
 
-When a veto mediation is initiated, a randomly selected jury of BNs will be selected. If you are one of the selected members for a veto mediation, the NAT will send you a message with additional information on how to vote using the [BN Website](http://bn.mappersguild.com). If you are unable to participate, inform a NAT member so that a different BN can be chosen for the jury in your place.
+When a veto is sent to mediation, BNs and NAT members of the vetoed beatmap's mode will all be asked to submit individual votes on the issue. In the case of vetoes related to issues that are not mode-specific, all mode members will be asked to participate. The NAT will send you a message with additional information on how to vote using the [BN website](http://bn.mappersguild.com) when a veto mediation begins. At the end of mediation, all votes submitted will be compiled to determine a final upheld or dismissed consensus.
 
 ### Quality Assurance
 

@@ -49,15 +49,7 @@ The event took place on Saturday, 25 May, 2024 from 8:00 a.m. to 10:00 p.m. PDT.
 
 ## Prizes
 
-Prizes were/will be awarded to both osu! and osu!mania winners.
-
-| Placing | Prize |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending approval), Sanrio keychain |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Sanrio keychain |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Sanrio keychain |
-
-![](img/badge.png "IDOLS winner badge")
+The top 3 players in each of the osu! and osu!mania tournaments were awarded a Sanrio keychain.
 
 ## Organisation
 
@@ -66,7 +58,7 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 | Position | Member(s) |
 | :-- | :-- |
 | Referee | ::{ flag=US }:: [chmpchmp](https://osu.ppy.sh/users/7838099), ::{ flag=US }:: [Drowzy-](https://osu.ppy.sh/users/10970649), ::{ flag=US }:: [Yes1Yes1](https://osu.ppy.sh/users/12430265), ::{ flag=US }:: [blocta](https://osu.ppy.sh/users/31368411), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322), ::{ flag=US }:: [Science](https://osu.ppy.sh/users/5535233), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
-| osu! mappooler | ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [chmpchmp](https://osu.ppy.sh/users/7838099) |
+| osu! mappooler | ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839) |
 | osu!mania mappooler | ::{ flag=US }:: [blocta](https://osu.ppy.sh/users/31368411), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322) |
 | Commentator | ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322), ::{ flag=US }:: [Caboozled\_Pie](https://osu.ppy.sh/users/17652842) |
 | Graphic designer | ::{ flag=XX }:: APOLLY ([Twitter](https://twitter.com/ApollyonicWorks)) |
@@ -82,7 +74,11 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 
 ## Participants
 
-<!-- TODO photos -->
+![Photo of the event's attendees](img/photo-end.jpg "Attendees of IDOLS after the tournaments concluded")
+
+![Photo of the osu!mania players](img/photo-mania.jpg "osu!mania tournament participants earlier in the day")
+
+![Photo of people pointing toward a player's monitor](img/photo-pointing.jpg "\"When you see it.\"")
 
 ### osu!
 
