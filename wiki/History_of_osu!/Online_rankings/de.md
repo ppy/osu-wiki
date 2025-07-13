@@ -9,8 +9,6 @@ tags:
   - Geschichte
   - erster Rang
   - bester Spieler
-outdated_translation: true
-outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 ---
 
 # Geschichte der Online-Ranglisten
@@ -27,9 +25,11 @@ Mit Stand vom 3. August 2024 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/user
 
 ## ![][osu!taiko] osu!taiko
 
-Mit Stand vom 19. Juni 2024 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 1. März 2025 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
+
+*Hauptseite: [Geschichte der osu!catch-Rangliste](osu!catch)*
 
 Mit Stand vom 2. November 2024 ist ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
