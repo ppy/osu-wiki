@@ -10,8 +10,6 @@ tags:
   - tabla de clasificación
   - rango 1
   - clasificaciones
-outdated_translation: true
-outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 ---
 
 # Historial de las clasificaciones en línea
@@ -22,15 +20,17 @@ Numerosos jugadores han ocupado el puesto #1 en cada modo de juego en diferentes
 
 ## ![][osu!] osu!
 
-*Página principal: [osu!](osu!)*
+*Página principal: [Historial de las clasificaciones de osu!](osu!)*
 
 A partir del 3 de agosto de 2024, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance) el jugador en el puesto #1 es ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-A partir del 19 de junio de 2024, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) el jugador en el puesto #1 es ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+A partir del 27 de marzo de 2025, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
+
+*Página principal: [Historial de las clasificaciones de osu!catch](osu!catch)*
 
 A partir del 2 de noviembre de 2024, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance) el jugador en el puesto #1 es ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
 
