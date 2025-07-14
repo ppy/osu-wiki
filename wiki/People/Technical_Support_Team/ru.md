@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
----
-
 # Команда технической поддержки
 
 *Эта статья – о группе пользователей, помогающих на форумах. О службе поддержки, отвечающей на электронные письма по адресам `@ppy.sh`, см. [Служба поддержки](/wiki/People/Account_support_team).*
 
-**Команда технической поддержки** (англ. **Support Team Redux**) — группа пользователей, модерирующих следующие подфорумы: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (за исключением [Tournaments](https://osu.ppy.sh/community/forums/55) и [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5).
+**Команда технической поддержки** (ранее просто *команда техподдержки*, англ. **Support Team Redux**) — группа модераторов и разработчиков osu!, модерирующих подфорумы [Development](https://osu.ppy.sh/community/forums/2), [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5).
 
 ## Права и обязанности
 
@@ -20,15 +15,16 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 ## Состав команды
 
+*Примечание: все члены команды техподдержки, помимо упомянутых языков, знают английский, если не указано обратное.*
+
 Актуальный список — всегда на странице группы: [команда поддержки](https://osu.ppy.sh/groups/22).
 
-*Примечание: помимо этого, каждый член команды техподдержки знает английский язык, если не указано обратное.*
+<!-- ВНИМАНИЕ: если вы это читаете, не переводите статью вручную — см. https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
 | Имя | Языки |
 | :-- | :-- |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Немецкий |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Филиппинский |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Польский |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испанский |
