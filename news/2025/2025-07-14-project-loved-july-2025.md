@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: July 2025"
-date: 2025-07-14 17:40:00 +0000
+date: 2025-07-14 17:55:00 +0000
 series: Project Loved
 ---
 
@@ -483,7 +483,7 @@ The [Plain](https://osu.ppy.sh/beatmapsets/1101700#mania/2301548) difficulty foc
 
 See, this isn't just a matter of the entire chart being converted into LN, but it also incorporates multiple challenges that you can see in other LN skillsets. The start of the chart contains some LN coordination / LN release aspects, while giving you a hint of LN density later on. However, what makes this part really challenging is that there are so many parts that could easily make you unstable. Remember those split-trill and handstream patterns that exist in the [Plain](https://osu.ppy.sh/beatmapsets/1101700#mania/2301548) difficulty? That basically is the same in this one, only there are many more nuances, such as LN readability and LN accuracy, forcing you to be very sharp with how well you release your Long Notes.
 
-If you think that wasn't hard enough, there's a 1.2x difficulty as well, which has been used in tournaments such as the [osu!mania Long Note Tournament 2 Grand Finals](/wiki/Tournaments/o%21mLN/2#finals-week-2), and also [MWC 4K 2022 Finals (although an edited difficulty)](/wiki/Tournaments/MWC/2022_4K#finals).
+If you think that wasn't hard enough, there's a 1.2x difficulty as well, which has been used in tournaments such as the [osu!mania Long Note Tournament 2 Grand Finals](/wiki/Tournaments/o!mLN/2#finals-week-2), and also [MWC 4K 2022 Finals (although an edited difficulty)](/wiki/Tournaments/MWC/2022_4K#finals).
 
 [pieerre](https://osu.ppy.sh/users/9201507)'s charts are so fun to play, and I think here they've created a very difficult and interesting chart. If you think so as well, then don't be afraid to cast your vote for this chart, placing them in the Loved section for the first time!
 
