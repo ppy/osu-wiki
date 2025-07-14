@@ -1,6 +1,6 @@
 # Cómo grabar vídeos de osu!
 
-*Véase también: [Transmitir osu! en vivo](/wiki/Guías/Livestreaming_osu!)*
+*Véase también: [Transmitir osu! en vivo](/wiki/Guides/Livestreaming_osu!)*
 
 Si bien existen innumerables formas de **grabar vídeos de osu!**, esta guía cubrirá una de las opciones más sencillas usando [OBS Studio](https://obsproject.com/).
 
