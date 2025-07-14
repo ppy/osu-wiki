@@ -26,7 +26,7 @@ A partir del 3 de agosto de 2024, en la [clasificación de rendimiento de osu!](
 
 ## ![][osu!taiko] osu!taiko
 
-A partir del 27 de marzo de 2025, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+A partir del 1 de marzo de 2025, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
