@@ -221,3 +221,33 @@
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Выдающийся вклад в турнирную сцену osu! и OWC |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Выдающийся вклад в турнирную сцену osu! и OWC |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Выдающийся вклад в организацию ивентов osu! и турнирную сцену |
+
+### 2023
+
+#### Ноябрь
+
+*См. также новость: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+
+| Участник | Вклад |
+| :-- | :-- |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Невероятный, колоссальный вклад в сообщество в течение более чем десяти лет |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Выдающийся вклад в модерацию и [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Выдающийся вклад в модерацию и работу osu! wiki (вики-друг) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Выдающийся и революционный вклад в osu!taiko |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Исключительное лидерство в вопросах контроля карт |
+| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Выдающийся вклад в маппинг-сцену с помощью разработки ([osumod.com](https://osumod.com)) |
+| ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Выдающийся вклад в сцену оффлайн-турниров и рост сообщества в целом |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Выдающийся вклад в турнирную сцену и мировые турниры |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Выдающийся вклад в турнирную сцену и мировые турниры |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Выдающийся вклад в турнирную сцену и сообщество osu!taiko |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Выдающийся вклад в скиннинг-сообщество |
+| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Выдающийся вклад в модерирование сообщества |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Выдающийся вклад в графический дизайн в бесчисленных проектах по osu! |
+| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Выдающийся вклад в контроль качества карт |
+| ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Выдающийся вклад в osu!-ивенты в реальном мире |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
+| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
+
