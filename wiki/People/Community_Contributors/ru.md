@@ -12,7 +12,7 @@
 
 В отличие от титула [osu! Alumni](/wiki/People/osu!_Alumni), который получают ушедшие на покой члены различных команд osu!, значок выдающегося участника присваивается рядовым членам сообщества, взявшим на себя миссию по улучшению osu! и его экосистемы.
 
-Пользователи, зарегистрировавшиеся на заре развития osu!, получают значок в [оригинальном стиле](#history), а более новые пользователи — в более цветном.
+Пользователи, зарегистрировавшиеся на заре развития osu!, получают значок в [оригинальном стиле](#history), а более новые пользователи — в более красочном.
 
 ## Список
 
@@ -251,3 +251,39 @@
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
 
+### 2024
+
+#### Март
+
+*См. также новость: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+
+| Участник | Вклад |
+| :-- | :-- |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Выдающийся вклад в дела модерации, руководство командой и новостные репортажи |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Выдающийся вклад в выпуск музыки для osu! и арт-продакшн |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Выдающийся вклад в сообщество и маппинг-сцену osu!catch |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Выдающийся вклад в сообщество osu!catch и разработку прикладных программ |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Выдающийся вклад в маппинг- и моддинг-сцену osu!mania |
+| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Выдающийся вклад в турнирную сцену osu!mania и маппинг |
+| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Выдающийся вклад в разработку системы PP через сервисы ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Выдающийся вклад в разработку системы PP и поддержку osu!(stable) |
+| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Выдающийся вклад в объединение osu!-сообщества в сабреддите [r/place](https://www.reddit.com/r/place/) events |
+| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Выдающийся вклад в документирование и разработку инструментов для работы с реплеями |
+| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Выдающийся вклад в сообщшество через разработку прикладных программ ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
+| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Выдающийся вклад в сообщшество через разработку сервисов ([osuplus](https://github.com/limjeck/osuplus)) |
+| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Выдающийся вклад в сообщшество через разработку сервисов ([owo! bot](https://owo-bot.xyz/)) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Выдающийся вклад в сообщшество через разработку сервисов ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
+
+## История
+
+Первоначальный вариант значка, сделанный ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202), был перерисован ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) в феврале 2018 г., чтобы соответствовать новой цветовой схеме сайта.[^redesign-reasons]
+
+![Первая версия переделанного значка](img/design-change-1.png)
+
+После жалоб на отсутствие в значке души[^redesign-reasons] он был переделан ещё раз — уже 21 июля 2023 г. ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202), отвечавший за перерисовку, сделал две версии значка: более старые пользователи (номер профиля 4,000,000 и ниже) получили назад оригинальный дизайн, а более новые — более красочный.
+
+![Вторая версия переделанного значка](img/design-change-2.png)
+
+## Примечания
+
+[^redesign-reasons]: [Дискорд-сообщения Walavouchey и RBRat3, канал #osu-wiki сервера osu!dev, 12.08.2023](https://discord.com/channels/188630481301012481/218677502141399041/1139836832381673524)
