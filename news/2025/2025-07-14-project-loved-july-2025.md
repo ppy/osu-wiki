@@ -22,7 +22,7 @@ Many thanks for your votes in June! In case you missed them, you can view the re
 
 We do have some bittersweet news to share, and that's our lovely osu!taiko captain [Boaz](https://osu.ppy.sh/users/13302996) has departed from the team, please wish them a farewell!
 
-As we delve into this month's picks, remember that every month we have [osu!(lazer)](https://osu.ppy.sh/wiki/Client/Release_stream/Lazer) playlists for you to compete on featuring the newly nominated maps. Earn a top spot on any mode and earn yourself a month of [supporter](https://osu.ppy.sh/home/support)!
+As we delve into this month's picks, remember that every month we have [osu!(lazer)](/wiki/Client/Release_stream/Lazer) playlists for you to compete on featuring the newly nominated maps. Earn a top spot on any mode and earn yourself a month of [supporter](https://osu.ppy.sh/home/support)!
 
 ### Navigation
 
