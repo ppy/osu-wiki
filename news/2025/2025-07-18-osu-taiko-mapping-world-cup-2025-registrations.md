@@ -8,7 +8,9 @@ Da-don! After a successful launch last year the osu!taiko Mapping World Cup is b
 
 ![](/wiki/Contests/TMWC/2025/img/banner.png)
 
-The osu!taiko Mapping World Cup is a country-based, multi-stage osu!taiko mapping contest. Countries will battle it out over multiple rounds of mapping, completing specific challenges along the way, to decide what country is the undisputed best at producing osu!taiko beatmaps. Following feedback on last year's contest, this year's format will be less demanding in volume and provide with participating teams with more time to produce their maps. Specifics will be released when the contest starts but rest assured that this will be a blast!
+The osu!taiko Mapping World Cup is a country-based, multi-stage osu!taiko mapping contest. Countries will battle it out over multiple rounds of mapping, completing specific challenges along the way, to decide what country is the undisputed best at producing osu!taiko beatmaps.
+
+Following feedback on last year's contest, this year's format will be less demanding in volume and provide with participating teams with more time to produce their maps. Specifics will be released when the contest starts but rest assured that this will be a blast!
 
 Team sizes will range from 3 to 6 people, with the ability to have multiple teams per country depending on the amount of sign-ups. If there isn't a sufficient amount of people from a country to create a team, the registered participants will be combined with other participants from their geographical region in the same situation. The aim of this contest is to allow everyone to participate after all!
 
