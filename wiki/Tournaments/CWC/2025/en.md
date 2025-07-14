@@ -126,32 +126,33 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ### Grand Finals
 
+**[Download the mappack here (207 MB)](https://packs.ppy.sh/P293%20-%20osu!catch%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2511672807?t=0h14m36s)
 
 - No Mod
-  1. *Camellia - POWA OF DA WILDANES (Bunnrei) \[PRIMAL INSTINCT\] (link pending)*
+  1. [Camellia - POWA OF DA WILDANES (Bunnrei) \[PRIMAL INSTINCT\]](https://osu.ppy.sh/beatmapsets/2402793#fruits/5211154)
   2. [RINYA - Kyokugen BON Odori (-Rustyy) \[Limitless\]](https://osu.ppy.sh/beatmapsets/2402724#fruits/5210989)
-  3. *LV.4 - Angel dust (2016 Radio Mix) (Nidoking) \[Scatter (CWC Ver.)\] (link pending)*
-  4. *HyuN feat. Sennzai - Duplicity Shade (Cut Ver.) (Phob) \[Nevertary's The Glimpses of Light from a Piece of Broken Glass (CWC Ver.)\] (link pending)*
+  3. [LV.4 - Angel dust (2016 Radio Mix) (Nidoking) \[Scatter (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2402805#fruits/5211177)
+  4. [HyuN feat. Sennzai - Duplicity Shade (Cut Ver.) (Phob) \[Nevertary's The Glimpses of Light from a Piece of Broken Glass (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2403136#fruits/5211965)
 - Hidden
-  1. *Will Stetson - Live In Life (Des9) \[And leave the dying to the dead\] (link pending)*
+  1. [Will Stetson - Live In Life (Des9) \[And leave the dying to the dead?\]](https://osu.ppy.sh/beatmapsets/2402797#fruits/5211160)
   2. [Jhariah - FIRE4FUN (Cut Ver.) (Crowley) \[The Amateur Arsonist's Handbook (the arsonist is the cat)\]](https://osu.ppy.sh/beatmapsets/2402733#fruits/5211007)
   3. [WangleLine - Goodbye to Your Vicious Cycles (Phob, wwwww) \[phob & connor's deep fear\]](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009)
 - Hard Rock
   1. [Lorna Shore - Pain Remains I: Dancing Like Flames (Daletto) \[A world without you isn't meant for me...\]](https://osu.ppy.sh/beatmapsets/2402732#fruits/5211006)
   2. [Yomitan Akane - conc-r-eal (Mniam) \[un-r-eal\]](https://osu.ppy.sh/beatmapsets/2402748#fruits/5211044)
-  3. *Link0 & MoAE. & Connexio & RYOQUCHA - Ars (Zyzyx) \[Arc (cwc nerf)\] (link pending)*
+  3. [Link"0 & MoAE:. & Connexio & RYOQUCHA - Ars (Zyzyx) \[Arc (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/2402785#fruits/5211140)
 - Double Time
   1. [Mizuki Nana x T.M.Revolution - Kakumei Dualism (F D Flourite) \[Red x White\]](https://osu.ppy.sh/beatmapsets/2402758#fruits/5211086)
-  2. *ALEPH - IMPULSE (Jemzuu) \[CATALYST\] (link pending)*
+  2. [ALEPH - IMPULSE (Jemzuu) \[CATALYST\]](https://osu.ppy.sh/beatmapsets/2402809#fruits/5211184)
   3. [Twilight Force - Valley of the Vale (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2402762#fruits/5211092)
-  4. *seleP - MYS (ExGon) \[OVERDOSE\] (link pending)*
+  4. [seleP - MYS (ExGon) \[OVERDOSE\]](https://osu.ppy.sh/beatmapsets/2402781#fruits/5211124)
 - Mixed Mod
-  1. *Aoi - Welkius (Du5t) \[Blight\] (link pending)*
-  2. *Spiegel vs. Ice - Rapsodie fer za Cactuses ('v') (game edit) (-Ken) \[Mirage\] (link pending)*
-  3. *Krimek - HyperColor (Jack Frost) \[#FF0000\] (link pending)*
+  1. [Aoi - Welkius (Du5t) \[Blight\]](https://osu.ppy.sh/beatmapsets/2402923#fruits/5211451)
+  2. [Spiegel vs. Ice - Rapsodie fer za Cactuses (\*'v'\*) (game edit) (-Ken) \[Mirage\]](https://osu.ppy.sh/beatmapsets/2402779#fruits/5211119)
+  3. [Krimek - HyperColor (Jack Frost) \[#FF0000\]](https://osu.ppy.sh/beatmapsets/2402856#fruits/5211272)
 - Tiebreaker
-  1. ***[Yooh - Eternity (autofanboy, Bunnrei, -Ken, wwwww, Zyzyx) \[Endless Finale\] (link pending)***
+  1. **[Yooh - Eternity (autofanboy, Bunnrei, -Ken, wwwww, Zyzyx) \[Endless Finale\]](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146)**
 
 ### Finals
 
