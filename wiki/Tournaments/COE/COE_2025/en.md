@@ -224,4 +224,4 @@ Participants will be sanctioned if they are violating or attempting to violate a
 
 #### 5.3 Disqualification
 
-Breaking any of the rules outlined in this document may result in disqualification. Should a participant be disqualified they are not entitled to any prizes.
+Breaking any of the rules outlined in this document may result in disqualification. Should a participant be disqualified, they are not entitled to any prizes.
