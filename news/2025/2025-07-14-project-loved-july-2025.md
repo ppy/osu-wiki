@@ -9,7 +9,7 @@ As the scorching sun settles in, enjoy some refreshing Project Loved!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-Trying to stay cool this summer? Delve into these fresh new picks! "What's all this Loved nonsense?", you say? Project Loved hosts community voting polls every month to decide on beatmaps to be added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps chosen are lovingly selected by the [Loved captains](https://loved.sh/team) of their respective game modes from community suggestions. Each beatmap banner in this news post will direct you to the respective poll. Alternatively, you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote soon! More information can be found on the [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/).
+Trying to stay cool this summer? Delve into these fresh new picks! "What's all this Loved nonsense?", you say? Project Loved hosts community voting polls every month to decide on beatmaps to be added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps chosen are lovingly selected by the [Loved captains](https://loved.sh/team) of their respective game modes from community suggestions. Each beatmap banner in this news post will direct you to the respective poll. Alternatively, you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote soon! More information can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
 Would you like to spread some love too? Everyone in the osu! community has a say with Project Loved and can submit maps on our website for our captains to look at, please give it a go and let us know what you'd like to see next!
 
@@ -22,7 +22,7 @@ Many thanks for your votes in June! In case you missed them, you can view the re
 
 We do have some bittersweet news to share, and that's our lovely osu!taiko captain [Boaz](https://osu.ppy.sh/users/13302996) has departed from the team, please wish them a farewell!
 
-As we delve into this month's picks, remember that every month we have [osu!(lazer)](https://osu.ppy.sh/wiki/Client/Release_stream/Lazer) playlists for you to compete on featuring the newly nominated maps. Earn a top spot on any mode and earn yourself a month of [supporter](https://osu.ppy.sh/home/support)!
+As we delve into this month's picks, remember that every month we have [osu!(lazer)](/wiki/Client/Release_stream/Lazer) playlists for you to compete on featuring the newly nominated maps. Earn a top spot on any mode and earn yourself a month of [supporter](https://osu.ppy.sh/home/support)!
 
 ### Navigation
 
@@ -243,8 +243,7 @@ Okay, it's really hard for me to explain what this map is even about, but please
 Let me start off with a quote by [Felt7z](https://osu.ppy.sh/users/8089834) himself.
 
 > \
-"Time spent with cats is never wasted."
-
+> "Time spent with cats is never wasted."
 
 Felt also had another thing to say, but you're gonna need to check out [the map description](https://osu.ppy.sh/beatmapsets/813509#taiko) for that :D
 
@@ -531,14 +530,14 @@ You are likely very familiar with the renowned Strong 280. You may find it quite
 
 [Various Artists - xfpsb 6K Project Vocaloid Collection](https://osu.ppy.sh/beatmapsets/2375142#mania) by [YuzakiTsukasa](https://osu.ppy.sh/users/17158897), [\[GS\]hina](https://osu.ppy.sh/users/20040607), [AhoUsagi](https://osu.ppy.sh/users/9784248), [Benson\_](https://osu.ppy.sh/users/18471116), [Hylotl](https://osu.ppy.sh/users/18270260), and [tyrcs](https://osu.ppy.sh/users/13026904)\
 125 – 280 BPM, 4:50 | 4.01★ – 7.68★\
-The \[Delete [GLHF's 25\]] difficulty is *not* being nominated for Loved.\
+The \[Delete \[GLHF's 25\]\] difficulty is *not* being nominated for Loved.\
 *description written by [Carpihat](https://osu.ppy.sh/users/10085090)*
 
 It has been some time since we last nominated a 6K pack. I guess many 6K players may have been eagerly awaiting this! Therefore, this time we will be nominating a large 6K pack that integrates two packs (referred to as [A](https://osu.ppy.sh/beatmapsets/1621543) and [B](https://osu.ppy.sh/beatmapsets/1769031)). The difficulty ranges from Level 12 to Level 21. So, as long as you are a player with a certain level of skill in 6K, you will find enjoyable difficulties for yourself. If you enjoy 6K, please vote for the pack!
 
 ---
 
-Thank you as always for your support of Project Loved and we hope to see you back again next month! If you're still curious about the project, please take a look at our [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/). And if you have any questions you're itching to ask, join us in the [osu! Discord server](https://discord.com/invite/ppy)'s `#osu-loved` channel where we're happy to answer anything you're curious about!
+Thank you as always for your support of Project Loved and we hope to see you back again next month! If you're still curious about the project, please take a look at our [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). And if you have any questions you're itching to ask, join us in the [osu! Discord server](https://discord.com/invite/ppy)'s `#osu-loved` channel where we're happy to answer anything you're curious about!
 
 See you again very soon! <3
 
