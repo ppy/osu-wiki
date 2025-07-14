@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: July 2025"
-date: 2025-07-14 15:15:00 +0000
+date: 2025-07-14 17:40:00 +0000
 series: Project Loved
 ---
 
@@ -36,6 +36,12 @@ As we delve into this month's picks, remember that every month we have [osu!(laz
 The osu! Loved candidates were chosen by [bailie](https://osu.ppy.sh/users/7537133), [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [Lilian](https://osu.ppy.sh/users/8589120), [Mismagius](https://osu.ppy.sh/users/19048), [Plasma](https://osu.ppy.sh/users/10077431), and [Skill](https://osu.ppy.sh/users/7802027)!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR52%20-%20Project%20Loved:%20July%202025%20(osu!).zip)**
+
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2025/2025-07-osu.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
 
 ---
 
@@ -204,6 +210,12 @@ The osu!taiko Loved candidates were chosen by [\_gt](https://osu.ppy.sh/users/83
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR51%20-%20Project%20Loved:%20July%202025%20(osu!taiko).zip)**
 
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2025/2025-07-taiko.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/1961281.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -307,6 +319,12 @@ The osu!catch Loved candidates were chosen by [CTBWhiteCat](https://osu.ppy.sh/u
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR50%20-%20Project%20Loved:%20July%202025%20(osu!catch).zip)**
 
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2025/2025-07-catch.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/2265235.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -370,6 +388,12 @@ READY TO FIRE!**
 The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/users/10085090), [elexire](https://osu.ppy.sh/users/9206093), [Maxus](https://osu.ppy.sh/users/4335785), [Paturages](https://osu.ppy.sh/users/1375479), [SunApple](https://osu.ppy.sh/users/11817622), [taba2](https://osu.ppy.sh/users/7850508), and [Yuiesta](https://osu.ppy.sh/users/13953619)!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR49%20-%20Project%20Loved:%20July%202025%20(osu!mania).zip)**
+
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2025/2025-07-mania.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
 
 ---
 
