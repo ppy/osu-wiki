@@ -14,7 +14,7 @@ Do tính chất quan trọng của việc chơi các giải đấu, các lệnh 
 
 ## Điều gì gây ra khiến ai đó nhận lệnh cấm thi đấu tạm thời?
 
-Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đồng](/wiki/Rules) xảy ra trong suốt một [giải đấu hỗ trợ chính thức](/wiki/Tournaments/Official_support) cũng có thể gây ra lệnh cấm tham gia giải đấu, ngay cả khi hành vi đó thông thường chỉ bị xem là vi phạm ngoài phạm vi thi đấu cạnh tranh.
+Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đồng](/wiki/Rules) xảy ra trong suốt một [giải đấu hỗ trợ chính thức](/wiki/Tournaments/Official_support) cũng có thể gây ra lệnh cấm tham gia giải đấu, ngay cả khi hành vi đó thông thường chỉ bị xem là vi phạm ngoài phạm vi chơi giải đấu.
 
 Lấy một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ hoặc viết các từ ngữ miệt thị/lời lẽ xúc phạm (như swastika, v.v.) bằng khói con trỏ trong các trận đấu phát trực tiếp.
 
