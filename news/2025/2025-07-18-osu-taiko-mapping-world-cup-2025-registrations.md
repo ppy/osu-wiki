@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko Mapping World Cup 2025: Registrations Open!"
-date: 
+date: 2025-07-18 12:00:00 +0000
 ---
 
 Da-don! After a successful launch last year the osu!taiko Mapping World Cup is back, bigger and better than before!
@@ -33,8 +33,6 @@ The top 3 countries that reign supreme will be awarded with the following prizes
 - **1st place:** Cash prize, [contest points](/wiki/Contests/Contest_points), and a shiny profile badge.
 - **2nd place:** Cash prize and contest points.
 - **3rd place:** Cash prize and contest points.
-
-![TMWC 2024 badge](/wiki/Contests/TMWC/2024/img/badge.png)
 
 The amount of contest points awarded will be determined by the number of mappers participating in the contest, as detailed in the [contest points key](/wiki/Contests/Contest_points#points-key). The cash prize will, same as last year, be crowd-funded and a link will be available in the contest Discord for those who wish to support the contest.
 
