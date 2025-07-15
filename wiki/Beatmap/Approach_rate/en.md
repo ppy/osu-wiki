@@ -34,7 +34,7 @@ The hit object starts fading in at `X - preempt` with:
 - AR = 5: `preempt = 1200ms`
 - AR > 5: `preempt = 1200ms - 150ms * (AR - 5)`
 
-Hit object competely fade in at 2/3 of preempt time. 
+Hit object is at final (full) opacity at 2/3 of preempt time. 
 
 ### Table comparison
 
