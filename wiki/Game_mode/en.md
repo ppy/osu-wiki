@@ -56,11 +56,11 @@ In osu!(lazer), it's possible to manually install custom game modes (also called
 
 The full list of playable custom game modes can be found in [this GitHub discussion](https://github.com/ppy/osu/discussions/13096).
 
+## References
+
+[^rdm]: [YouTube video by peppy (2008-10-15) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-
-## References
-
-[^rdm]: [YouTube video by peppy (2008-10-15) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
