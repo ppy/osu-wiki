@@ -5,6 +5,8 @@ tags:
   - reading
   - velocidad de aproximación
   - lectura
+outdated_translation: true
+outdated_since: 0cba10a82a37c43b0eb79d44b66916ee06b30121
 ---
 
 # Velocidad de aproximación
