@@ -42,7 +42,7 @@ Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít 
 
 Mặc dù có thể kháng cáo lệnh cấm tham gia giải đấu vô thời hạn như đã đề cập ở trên, nhưng cần phải khẳng định nỗ lực đáng kể trong cộng đồng lớn ngoài việc viết đơn kháng cáo cần phải có để cơ hội thực sự thành công.
 
-Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) có thể xem xét các trường hợp cá nhân theo sự đánh giá của họ và gỡ bỏ hoặc áp dụng lại các hình phạt phù hợp để đảm bảo chúng vẫn nhất quán với các trường hợp tương tự trong quá khứ.
+Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) có thể xem xét các trường hợp cá nhân theo đánh giá của họ và quyết định gỡ bỏ hoặc áp dụng lại các hình phạt phù hợp để đảm bảo chúng vẫn nhất quán với các trường hợp tương tự trong quá khứ.
 
 ## Tôi có thể làm gì sau khi đã bị cấm thi đấu?
 
