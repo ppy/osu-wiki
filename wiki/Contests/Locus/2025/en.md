@@ -12,13 +12,15 @@ Submissions to this contest include the following elements:
 
 ## Schedule
 
-| Event | Date |
+| Event | Date (UTC) |
 | --: | :-- |
 | Teaser #1 submission | 1 April 2025 |
+| Trial voting start | 16 March 2025 |
 | Teaser #2 submission | 1 May 2025 |
-| Entry submission deadline | 1 June 2025 |
-| Community voting period | June 2025 |
-| Results stream | Early July 2025 |
+| Trial voting end | 16 May 2025 |
+| Entry submission deadline | 30 June 2025 (12:00) |
+| Community voting period | July 2025 |
+| Results stream | Early August 2025 |
 
 ## Prizes
 
@@ -48,6 +50,8 @@ Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) 
 - [Registration form](https://form-auth.ppy.sh/form/2025-locus-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/238)
 - [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
+- [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
+- [Contest update #2](https://osu.ppy.sh/home/news/2025-06-03-locus-2025-update-2)
 - [Nexus](https://mappersguild.com/locus)
 
 ## Teams
@@ -94,9 +98,18 @@ Teams must be registered in order to submit an entry. Teams are allowed to choos
 
 ### Submission
 
-The details of how to submit entries will be announced later.
+**Visit the [contest page](https://osu.ppy.sh/community/contests/238) and drop your submission as a `.osz` file.** The deadline is 30 June 2025 (12:00 UTC).
 
-Teams should follow the `#osu-locus` channel in the [osu! Discord server](https://discord.com/invite/ppy) for updates.
+Before submitting, please check the following:
+
+- Ensure that you have successfully registered a team, and that all your team members have confirmed their intent as well (if you have not received an explicit email confirming this, then this has not been done).
+  - **Your submission will be ignored if you have not successfully registered a team.**
+- Please read the [rules](#rules) thoroughly to check that your entry abides by all of them, especially the ones relating to spread and anonymity.
+- It is preferable that the team captain submits. Only one person from each team needs to submit (to prevent any ambiguity or confusion, please do not submit duplicates).
+- Do not submit your entry via BSS.
+- As an optional precaution, please reply to the existing email thread to let us know that you have submitted your entry.
+
+During the week after the submission deadline, entries will be checked to ensure all rules are followed. **Any required changes will be communicated via email.**
 
 ### Nexus
 
@@ -137,3 +150,50 @@ The osu! team reserves the right to deny any clip if deemed unsuitable for the e
 A Discord channel (`#osu-locus`) will be created on the [osu! server](https://discord.com/invite/ppy). Announcements will be posted there — it will be up to teams to ensure they are caught up with the latest updates, though we will endeavour to inform registered teams of any updates.
 
 For specific (private) enquiries or disputes, email [mangomizer@ppy.sh](mailto:mangomizer@ppy.sh).
+
+## Trial voting
+
+From 16 March to 7 May, a trial voting was conducted to allow people to familiarise themselves with the voting system.
+
+Users were asked "What was the best osu! original tiebreaker from the osu! World Cups?". 378 voters got 5 randomly selected beatmaps to rank across two categories, music and mapping, with the votes being fed into an Elo algorithm. Unlike the actual voting, the resulting leaderboard was visible live on the trial voting website crafted for the event. At the end, the results were calculated as an average of 1,000 random voting runs to account for bias in voting order.
+
+The results were as follows:
+
+| # | Entry | Overall Elo | Music Elo | Graphic Elo |
+| :-: | :-- | --: | --: | --: |
+| 1 | [Camellia - Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992) | **3389** | 1622 | 1767 |
+| 2 | [Ludicin - Lost Requiem](https://osu.ppy.sh/beatmapsets/2325151) | **3325** | 1630 | 1695 |
+| 3 | [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177) | **3272** | 1624 | 1648 |
+| 4 | [Imy feat. Natsume Itsuki - Lies playing Truth](https://osu.ppy.sh/beatmapsets/2271658) | **3230** | 1553 | 1677 |
+| 5 | [Yooh - RPG](https://osu.ppy.sh/beatmapsets/1633250) | **3211** | 1670 | 1541 |
+| 6 | [Umeboshi Chazuke - AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953) | **3202** | 1477 | 1725 |
+| 7 | [kanemiko - Ruin in Cascade](https://osu.ppy.sh/beatmapsets/2318032) | **3188** | 1549 | 1639 |
+| 8 | [Kou! - Frost Walker](https://osu.ppy.sh/beatmapsets/2202823) | **3166** | 1516 | 1650 |
+| 9 | [nm-y vs. Kry.exe - Kaiju](https://osu.ppy.sh/beatmapsets/2284698) | **3109** | 1529 | 1580 |
+| 10 | [Minstrel - today is the day](https://osu.ppy.sh/beatmapsets/2281434) | **3108** | 1466 | 1642 |
+| 11 | [seatrus - DiSANiMATE](https://osu.ppy.sh/beatmapsets/2137728) | **3079** | 1514 | 1565 |
+| 12 | [HyuN feat. Sennzai - Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284) | **3046** | 1546 | 1500 |
+| 13 | [Halv vs. kuro - Evreka](https://osu.ppy.sh/beatmapsets/2011570) | **3039** | 1517 | 1522 |
+| 14 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://osu.ppy.sh/beatmapsets/1880652) | **3036** | 1566 | 1470 |
+| 14 | [kanemiko & Kyutatsuki & Aoi - Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784) | **3036** | 1527 | 1509 |
+| 16 | [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/1794214) | **3032** | 1613 | 1419 |
+| 17 | [seatrus - EXXTRA JUDGEMENT](https://osu.ppy.sh/beatmapsets/1889132) | **3030** | 1496 | 1534 |
+| 18 | [Akiri - Symphony Of The Lost Souls](https://osu.ppy.sh/beatmapsets/2130621) | **3029** | 1486 | 1543 |
+| 19 | [SOOOO - illloved (osu! Edit)](https://osu.ppy.sh/beatmapsets/2195067) | **3019** | 1405 | 1614 |
+| 20 | [aa...hisuichazuke... - steganography](https://osu.ppy.sh/beatmapsets/1846639) | **3016** | 1604 | 1412 |
+| 21 | [Camellia - OOPARTS](https://osu.ppy.sh/beatmapsets/1312143) | **3003** | 1602 | 1401 |
+| 22 | [polysha - Endverse](https://osu.ppy.sh/beatmapsets/2088576) | **2994** | 1486 | 1508 |
+| 23 | [Cansol - Train of Thought](https://osu.ppy.sh/beatmapsets/2155531) | **2991** | 1452 | 1539 |
+| 24 | [Genkaku Aria feat. KOKOMI - Whiteout](https://osu.ppy.sh/beatmapsets/2278209) | **2975** | 1423 | 1552 |
+| 25 | [Camellia - Parallel Universe Shifter](https://osu.ppy.sh/beatmapsets/2062263) | **2920** | 1523 | 1397 |
+| 26 | [Quarkee & Yuuni - Fabricated Exaltation](https://osu.ppy.sh/beatmapsets/2169950) | **2871** | 1390 | 1481 |
+| 27 | [SUPER MWC KART - Purple Palace](https://osu.ppy.sh/beatmapsets/1569527) | **2847** | 1518 | 1329 |
+| 28 | [Gram - Sigrdrifa](https://osu.ppy.sh/beatmapsets/1981053) | **2846** | 1457 | 1389 |
+| 29 | [Frums - of Ambrosia](https://osu.ppy.sh/beatmapsets/1478486) | **2813** | 1491 | 1322 |
+| 30 | [onumi & Akira Complex - Ethereal Cyber Angel XV](https://osu.ppy.sh/beatmapsets/1744942) | **2800** | 1418 | 1382 |
+| 31 | [Frums - HALL](https://osu.ppy.sh/beatmapsets/2055332) | **2799** | 1475 | 1324 |
+| 32 | [TWC Sound Team "Xurv Stasis Rasufim" - Kaze no Denwa](https://osu.ppy.sh/beatmapsets/2166504) | **2787** | 1322 | 1465 |
+| 33 | [katagiri - Kyuukou](https://osu.ppy.sh/beatmapsets/1939261) | **2752** | 1510 | 1242 |
+| 34 | [Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum \~ein sof\~](https://osu.ppy.sh/beatmapsets/2159337) | **2717** | 1309 | 1408 |
+| 35 | [Yuuni - Frozen Blood](https://osu.ppy.sh/beatmapsets/2152052) | **2698** | 1304 | 1394 |
+| 36 | [TWC Sound Team "Zeroth Powers" - One One](https://osu.ppy.sh/beatmapsets/1422682) | **2621** | 1407 | 1214 |

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 50c5cd66c992ee2ff8b08bf8792a80f8fdd22d1b
 stub: true
 tags:
   - DC
