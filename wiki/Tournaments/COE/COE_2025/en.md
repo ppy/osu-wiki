@@ -2,7 +2,7 @@
 
 ![](img/banner.PNG)
 
-The **COE 2025 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event](/Community/cavoe's_osu!_event) 2025 (COE 2025) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the fifth instalment of the COE tournament series.
+The **COE 2025 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) 2025 (COE 2025) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the fifth instalment of the COE tournament series.
 
 ## Tournament schedule
 
