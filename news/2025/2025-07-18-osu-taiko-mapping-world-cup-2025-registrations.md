@@ -6,7 +6,7 @@ date:
 
 Da-don! After a successful launch last year the osu!taiko Mapping World Cup is back, bigger and better than before!
 
-![](/wiki/Contests/TMWC/2025/img/banner.png)
+![](/wiki/Contests/TMWC/2025/img/banner.jpg)
 
 The osu!taiko Mapping World Cup is a country-based, multi-stage osu!taiko mapping contest. Countries will battle it out over multiple rounds of mapping, completing specific challenges along the way, to decide what country is the undisputed best at producing osu!taiko beatmaps.
 
@@ -40,7 +40,7 @@ The amount of contest points awarded will be determined by the number of mappers
 
 ---
 
-Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server]().
+Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.gg/5ewzEEcUCB).
 
 Last year for the first iteration of TMWC we had a fantastic turnout and over 100 fantastic beatmaps produced. This year we are hoping to surpass last year's standards, so tell your friends and sign up today!
 
