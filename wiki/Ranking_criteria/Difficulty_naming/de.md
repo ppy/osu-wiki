@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
----
-
 # Benennung von Schwierigkeitsgraden
 
 Mit der Benennung von Schwierigkeitsstufen wird Spielern mitgeteilt, wie schwierig eine Beatmap ist. Dieser Artikel listet allgemeine Konventionen sowie andere Alternativen auf, die sich im Laufe der Jahre angesammelt haben. Solange die Namen der Schwierigkeitsstufen jedoch beschreibend sind und die Anforderungen klar angeben, darfst du jede beliebige Art von Schema verwenden.
@@ -58,7 +53,7 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 
 ## Benennung von Schwierigkeitsgraden von anderen Spielen
 
-Beatmapsets von Songs, die von anderen Rhythmusspielen stammen, übernehmen oft das Benennungsschema des Spiels. Die Verwendung dieser Namen ist für jeden Song akzeptabel. Einige der üblichen Benennungsschemata, die ihren Weg zu osu! gefunden haben, werden hier aufgelistet:
+Beatmapsets von Songs, die von anderen Spielen stammen, übernehmen oft das Benennungsschema des Spiels. Die Verwendung dieser Namen ist für jeden Song akzeptabel. Einige der üblichen Benennungsschemata, die ihren Weg zu osu! gefunden haben, werden hier aufgelistet:
 
 ### Beatmania IIDX
 
@@ -138,6 +133,7 @@ Beatmapsets von Songs, die von anderen Rhythmusspielen stammen, übernehmen oft 
 #### SOUND VOLTEX EXCEED GEAR
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expert-o.png?20211215) ULTIMATE / ULT
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
 
 ### Arcaea
