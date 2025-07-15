@@ -8,15 +8,15 @@ no_native_review: true
 
 Lệnh cấm thi đấu ngăn cản một người chơi từ việc tham gia các giải đấu chính thức hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi có thể tham gia vào công việc của nhân viên hoặc hỗ trợ các giải đấu này.
 
-Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả các người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu hình phạt có thời gian kéo ít nhất một năm.
+Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả các người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu lệnh cấm có thời gian kéo ít nhất một năm.
 
 Do tính chất quan trọng của việc chơi các giải đấu, các lệnh cấm giải đấu được xử lý rất nghiêm túc và sẽ không nhận được sự khoan nhượng như những hạn chế tài khoản thông thường có thể nhận được.
 
 ## Điều gì gây ra khiến ai đó nhận lệnh cấm thi đấu tạm thời?
 
-Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đồng](/wiki/Rules) xảy ra trong suốt một [giải đấu hỗ trợ chính thức](/wiki/Tournaments/Official_support) có thể gây ra lệnh cấm tham gia giải đấu, ngay cả khi hành động đó thường chỉ dẫn đến vi phạm bên ngoài môi trường thi đấu. 
+Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đồng](/wiki/Rules) xảy ra trong suốt một [giải đấu hỗ trợ chính thức](/wiki/Tournaments/Official_support) cũng có thể gây ra lệnh cấm tham gia giải đấu, ngay cả khi hành vi đó thông thường chỉ bị xem là vi phạm ngoài phạm vi thi đấu cạnh tranh.
 
-Như một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ hoặc viết các từ ngữ miệt thị/lời lẽ xúc phạm (như swastika, v.v.) bằng khói con trỏ trong các trận đấu phát trực tiếp.
+Lấy một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ hoặc viết các từ ngữ miệt thị/lời lẽ xúc phạm (như swastika, v.v.) bằng khói con trỏ trong các trận đấu phát trực tiếp.
 
 Tất cả người dùng quay lại trò chơi sau khi bị hạn chế theo điều kiện kháng cáo tiêu chuẩn đều kèm theo một [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons). Điều này có thể được kéo dài tùy chọn theo quyết định của [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team).
 
