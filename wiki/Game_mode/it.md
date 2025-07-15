@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: d685bfe83f7122680c9cd6f03302682063de11ce
 ---
 
 # Game mode
