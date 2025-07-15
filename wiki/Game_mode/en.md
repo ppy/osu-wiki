@@ -38,7 +38,7 @@ To switch between modes, click the `Mode` button at the bottom of the song selec
 
 *Main page: [osu!catch](osu!catch)*
 
-*osu!catch* is a game mode where players control a catcher character to collect fruits falling to the beat from the top of the screen. It is loosely based on the ["Catch It!!" minigame](https://www.youtube.com/watch?v=ZEgzSYiWBtM) in the early builds of [rdm/rhythm-it](https://nvyu.net/rdm/jp/), a [Beatmania](https://en.wikipedia.org/wiki/Beatmania) simulator for PC, which by itself is derived after the *EZ2CATCH* mode from the [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) arcade system. osu!catch's mascot is [Yuzu](/wiki/Mascots#yuzu), a blue-haired boy.
+*osu!catch* is a game mode where players control a catcher character to collect fruits falling to the beat from the top of the screen. It is loosely based on the "Catch It!!" minigame in the early builds of [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], a [Beatmania](https://en.wikipedia.org/wiki/Beatmania) simulator for PC, which by itself is derived after the *EZ2CATCH* mode from the [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) arcade system. osu!catch's mascot is [Yuzu](/wiki/Mascots#yuzu), a blue-haired boy.
 
 ![Gameplay of osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch gameplay")
 
@@ -60,3 +60,7 @@ The full list of playable custom game modes can be found in [this GitHub discuss
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
+
+## References
+
+[^rdm]: [YouTube video by peppy (2008-10-15) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
