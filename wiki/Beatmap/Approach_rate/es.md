@@ -5,8 +5,6 @@ tags:
   - reading
   - velocidad de aproximación
   - lectura
-outdated_translation: true
-outdated_since: 0cba10a82a37c43b0eb79d44b66916ee06b30121
 ---
 
 # Velocidad de aproximación
@@ -26,23 +24,19 @@ La duración de un objeto que permanece visible en la pantalla (sin mods) oscila
 Consulta la infografía y las fórmulas a continuación para obtener una descripción general:
 
 ```
-                                        X = golpe/recolectado
-             p r e e m p t              ↓
-├───────────────────────┬───────────────┤
-0%       aparición        100% opacidad
+               p r e e m p t                X = golpe/recolectado
+0%                        66%               ↓
+├──────────────────────────┬────────────────┤
+         aparición           opacidad total
 ```
 
-El objeto empezará a aparecer cuando `X - preemt` con:
+El objeto empezará a aparecer cuando `X - preempt` con:
 
-- AR < 5: `preemt = 1200ms + 600ms * (5 - AR) / 5`
-- AR = 5: `preemt = 1200ms`
-- AR > 5: `preemt = 1200ms - 750ms * (AR - 5) / 5`
+- AR < 5: `preempt = 1200ms + 120ms * (5 - AR)`
+- AR = 5: `preempt = 1200ms`
+- AR > 5: `preempt = 1200ms - 150ms * (AR - 5)`
 
-La cantidad de tiempo que tarda para que el objeto desaparezca por completo, también dependerá de la velocidad de aproximación:
-
-- AR < 5: `aparición = 800ms + 400ms * (5 - AR) / 5`
-- AR = 5: `aparición = 800ms`
-- AR > 5: `aparición = 800ms - 500ms * (AR - 5) / 5`
+El objeto alcanza la opacidad final (total) a los 2/3 del tiempo de espera.
 
 ### Tabla de comparación
 
