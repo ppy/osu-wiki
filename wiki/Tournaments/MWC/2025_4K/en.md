@@ -55,7 +55,7 @@ The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 
 - **[Sign up here](https://osu.ppy.sh/community/tournaments/51)**
 - [Livestream](https://www.twitch.tv/osulive)
-- [Discussion thread]({DISC_THREAD})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2105536)
 
 ## Ruleset
 
