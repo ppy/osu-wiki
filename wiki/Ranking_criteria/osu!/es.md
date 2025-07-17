@@ -1,8 +1,3 @@
----
-outdated_since: 3bd360e10b2bfe4568174ad98afebcfde0e50a88
-outdated_translation: true
----
-
 # Criterios de clasificación de osu!
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
