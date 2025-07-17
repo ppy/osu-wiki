@@ -48,7 +48,7 @@ This pool once again featured an [osu! original](/wiki/osu!_originals), making i
 
 Well-known within the osu! community for their eccentric breakcore tracks, [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) would make their first osu! original for this mappool, with [Petit Poney](https://osu.ppy.sh/beatmapsets/2398893#fruits/5199031). Mapped by [skill issue lol](https://osu.ppy.sh/users/12498861) as the Hard Rock 1 pick, it features many of the classic Ruby My Dear breaks and style switch-ups — all reflected within the map, resulting in a consistency test filled with tricky flows and abrupt accelerations. The poney might not be so small after all...
 
-## Semifinals summary
+## Finals summary
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
