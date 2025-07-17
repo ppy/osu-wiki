@@ -6,6 +6,7 @@ tags:
   - badged
   - Abzeichen
   - Mapping-Wettbewerb
+no_native_review: true
 ---
 
 # Offizielle Unterstützung für Mapping-Wettbewerbe
