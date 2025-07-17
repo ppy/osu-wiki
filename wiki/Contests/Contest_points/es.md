@@ -1,6 +1,6 @@
 # Puntos de los concursos
 
-Los puntos de los concursos son puntos que se usan como recompensa en los concursos de mapping oficiales. Se usan principalmente para determinar la elegibilidad de un usuario para recibir el título de *Elite Mapper*, que se concede a los usuarios que han alcanzado **6 puntos**.
+Los **puntos de los concursos** son puntos que se usan como recompensa en los concursos de mapping oficiales. Se usan principalmente para determinar la elegibilidad de un usuario para recibir el título de *Elite Mapper*, que se concede a los usuarios que han alcanzado **6 puntos**.
 
 Los puntos de los concursos también pueden concederse como beneficio del [soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) bajo [ciertas circunstancias](/wiki/Contests/Official_support#elegibilidad).
 
@@ -140,9 +140,9 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 
 | Usuario | Puntos | Concursos |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
+| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (7), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
+| ::{ flag=AU }:: [**oct4**](https://osu.ppy.sh/users/10303887) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |

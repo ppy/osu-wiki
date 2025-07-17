@@ -1,6 +1,6 @@
 # Contest points
 
-Contest points are points that are used as a reward in official mapping contests. They are mainly used to determine the eligibility of a user to receive the *Elite Mapper* title, which is awarded to users who have reached **6 points**.
+**Contest points** are points that are used as a reward in official mapping contests. They are mainly used to determine the eligibility of a user to receive the *Elite Mapper* title, which is awarded to users who have reached **6 points**.
 
 Contest points can also be granted as a benefit of [official beatmapping contest support](/wiki/Contests/Official_support) under [certain circumstances](/wiki/Contests/Official_support#eligibility).
 
@@ -140,9 +140,9 @@ Contest points have been used in the following contests:
 
 | User | Points | Contests |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
+| ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (7), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
+| ::{ flag=AU }:: [**oct4**](https://osu.ppy.sh/users/10303887) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |

@@ -40,7 +40,7 @@ Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **ya
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
 | Dukungan skin | ![Ya][true] | ![Parsial][partial][^gameplay-only] |
-| Pengelompokan lagu berdasarkan kategori tertentu | ![Ya][true] | ![Tidak][false] |
+| Pengelompokan lagu berdasarkan kategori tertentu | ![Ya][true] | ![Ya][true] |
 | Penyuntingan tata letak skin / UI dari dalam permainan | ![Tidak][false] | ![Ya][true] |
 | Komponen skin yang dinamis dan mudah disesuaikan | ![Tidak][false] | ![Ya][true] |
 
@@ -111,7 +111,7 @@ Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **ya
 | Perubahan ukuran pola | ![Tidak][false] | ![Ya][true] |
 | Submisi beatmap | ![Ya][true] | ![Ya][true] |
 | Editor storyboard | ![Ya][true] | ![Tidak][false] |
-| Kompatibilitas silang | ![Ya][true] | ![Parsial][partial][^incompatibilities] |
+| Kompatibilitas silang | ![Ya][true] | ![Ya][true] |
 
 ## Beralih ke lazer
 
@@ -362,8 +362,6 @@ Kamu mungkin sedang memikirkan permainan lainnya.
 [^map-only]: Khusus beatmap.
 
 [^all-files]: Seluruh berkas.
-
-[^incompatibilities]: Fitur editor tertentu akan membuat beatmap tidak dapat dimainkan sebagaimana mestinya pada stable — hal ini akan diperbaiki di kemudian hari.
 
 [^stable-chat]: Pesan yang ada dapat membutuhkan hingga 15 detik untuk sampai.
 

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 4783e764c4e6d760cabec64dcaea88e8ce9c6581
+outdated_translation: true
 ---
 
 # Règles générales pour le storyboarding
