@@ -16,7 +16,7 @@ The **osu!mania 4K World Cup 2025** (***MWC 4K 2025***) is a country-based osu!m
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2025-07-17 (00:00 UTC)/2025-07-31 (23:59 UTC) |
+| Registration phase | 2025-07-18 (00:00 UTC)/2025-07-31 (23:59 UTC) |
 | Qualifier showcase | 2025-08-10 |
 | Qualifier stage | 2025-08-16/2025-08-17 |
 | Round of 32 | 2025-08-23/2025-08-24 |
