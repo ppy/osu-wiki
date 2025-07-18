@@ -90,13 +90,13 @@ If you're confused about how these work, ask for clarification in the comments, 
 
 #### osu!taiko
 
-You might be accustomed to freely using slider velocity changes throughout your maps, but due to unforeseen circumstances in the slider velocity economy, rations are being put in place. 
+You might be accustomed to freely using slider velocity changes throughout your maps, but due to unforeseen circumstances in the slider velocity economy, rations are being put in place.
 
-This month's osu!taiko limitation: **the average of all slider velocities should be ~1.00x**
+This month's osu!taiko limitation: **the average of all slider velocities should be ~1.00x.**
 
 Calculating this manually would be really annoying, so you can use [this tool](https://mappersguild.com/contests/mbc) instead. Any map within an average slider velocity in the range of 0.95x and 1.05x is acceptable for this contest!
 
-Given this limitation is about balancing low and high slider velocities, you can expect a good score in the "limitation" judging category if your map uses slider velocities in interesting ways,as opposed to a map with a constant 1.00x slider velocity.
+Given this limitation is about balancing low and high slider velocities, you can expect a good score in the "limitation" judging category if your map uses slider velocities in interesting ways, as opposed to a map with a constant 1.00x slider velocity.
 
 #### osu!catch
 
@@ -127,8 +127,8 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 ## Rules
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - **osu!taiko:** the average of all slider velocities should be ~1.00x (use [this tool](https://mappersguild.com/contests/mbc) to check!)
-  - **osu!catch:** all hyperdashes must be placed on the same `x` coordinate throughout the map
+  - **osu!taiko:** the average of all slider velocities should be ~1.00x.
+  - **osu!catch:** all hyperdashes must be placed on the same `x` coordinate throughout the map.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
