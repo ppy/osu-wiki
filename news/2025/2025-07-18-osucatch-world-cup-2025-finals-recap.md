@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!catch World Cup 2025: Finals Recap"
-date: 2025-07-19 18:00:00 +0000
+date: 2025-07-18 18:00:00 +0000
 ---
 
 This past week marked the conclusion of a long-fought battle for the podium, with Argentina, the United States, and Finland making it through. One final round remains to decide who will be crowned the osu!catch World Cup champions.
 
-![](/wiki/shared/news/2025-07-19-osucatch-world-cup-2025-finals-recap/banner.png)
+![](/wiki/shared/news/2025-07-18-osucatch-world-cup-2025-finals-recap/banner.png)
 
 During the Finals round, six teams competed for a place among the final three. All had their sights set on the revered podium, but as is the nature of the competition, not all of them could reach it. Read on to find out how each team fought to keep their CWC dreams alive, ending in newfound hope for some, and crushed dreams for others.
 
@@ -24,7 +24,7 @@ During the Finals round, six teams competed for a place among the final three. A
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2505409718&t=1h41m47s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-07-19-osucatch-world-cup-2025-finals-recap/cwc-2025-f-mappool.png)
+![](/wiki/shared/news/2025-07-18-osucatch-world-cup-2025-finals-recap/cwc-2025-f-mappool.png)
 
 The No Mod 1 slot has often been mentioned in mappool recaps as a reliable indicator of the round's overall difficulty. Going well beyond last week's 8-star benchmark was something never before seen in the tournament's history, which made it all the more surprising when the first revealed map was [Ascendance](https://osu.ppy.sh/users/2931883) and [Bunnrei](https://osu.ppy.sh/users/829284)'s [Afflict (feat. Risa Yuzuki)](https://osu.ppy.sh/beatmapsets/2398958#fruits/5199148), standing at a star rating of 9.46. This level of difficulty had only one precedent: last year's Grand Finals tiebreaker, [Frost Walker](https://osu.ppy.sh/beatmapsets/2202823#fruits/4662299), which also had the same star rating.
 
@@ -38,7 +38,7 @@ Finally, an already existing and community favourite map in [Bunnrei](https://os
 
 This pool once again featured an [osu! original](/wiki/osu!_originals), making it the fourth week in a row to have one!
 
-[![](/wiki/shared/news/2025-07-19-osucatch-world-cup-2025-finals-recap/petitponey_banner.png)](https://osu.ppy.sh/beatmapsets/2398893#fruits/5199031)
+[![](/wiki/shared/news/2025-07-18-osucatch-world-cup-2025-finals-recap/petitponey_banner.png)](https://osu.ppy.sh/beatmapsets/2398893#fruits/5199031)
 
 <div class="osu-md__paragraph">
     <audio controls>
