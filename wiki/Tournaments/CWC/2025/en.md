@@ -7,7 +7,7 @@ tags:
 
 # osu!catch World Cup 2025
 
-![CWC 2025 banner](img/cwc2025-banner.jpg)
+![CWC 2025 banner](img/cwc2025-banner.jpg?1)
 
 The **osu!catch World Cup 2025** (***CWC 2025***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the fourteenth instalment of the osu!catch World Cup.
 
