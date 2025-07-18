@@ -91,6 +91,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15.12.2023 | 25.02.2024 | ::{ flag=KR }:: Südkorea | ::{ flag=MY }:: Malaysia | ::{ flag=PH }:: Philippinen |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18.07.2024 | 29.09.2024 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=CN }:: China | ::{ flag=TH }:: Thailand |
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China | ::{ flag=PH }:: Philippinen |
+| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17.07.2025 | 28.09.2025 | *TBD* | *TBD* | *TBD* |
 
 ## Community
 
