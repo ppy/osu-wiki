@@ -46,7 +46,7 @@ This pool once again featured an [osu! original](/wiki/osu!_originals), making i
     </audio>
 </div>
 
-Well-known within the osu! community for their eccentric breakcore tracks, [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) would make their first osu! original for this mappool, with [Petit Poney](https://osu.ppy.sh/beatmapsets/2398893#fruits/5199031). Mapped by [skill issue lol](https://osu.ppy.sh/users/12498861) as the Hard Rock 1 pick, it features many of the classic Ruby My Dear breaks and style switch-ups — all reflected within the map, resulting in a consistency test filled with tricky flows and abrupt accelerations. The poney might not be so small after all...
+Well-known within the osu! community for their eccentric breakcore tracks, [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) would make their first osu! original for this mappool, with [Petit Poney](https://osu.ppy.sh/beatmapsets/2398893#fruits/5199031). Mapped by [skill issue lol](https://osu.ppy.sh/users/12498861) as the Hard Rock 1 pick, it features many of the classic Ruby My Dear breaks and style switch-ups — all reflected within the map, resulting in a consistency test filled with tricky flows and abrupt accelerations. The pony might not be so small after all...
 
 ## Finals summary
 
@@ -59,7 +59,7 @@ Well-known within the osu! community for their eccentric breakcore tracks, [Ruby
 
 Unfortunately this round, Italy had to forfeit their losers' bracket match against Chile, resulting in their elimination. Three teams would be left to try and qualify for the next round through that bracket, namely Finland, France, and Chile. France would also end up eliminated in their first match of the week against Finland, leaving Finland and Chile to face off for a spot on the podium, with both teams looking to make history.
 
-Over in the winners' bracket was one of the most anticipated matchups of the tournament, as the two clear favourites, the number one and two seeds, the United States and Argentina — played for a guaranteed spot in the Grand Finals. Let's take a look at how both matches unfolded!
+Over in the winners' bracket was one of the most anticipated matchups of the tournament, as the two clear favourites, the number one and two seeds, the United States and Argentina — played for a guaranteed spot in the Grand Finals. Let's have a look at how both matches unfolded!
 
 ## Match highlights
 
@@ -72,7 +72,7 @@ Over in the winners' bracket was one of the most anticipated matchups of the tou
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h4m2s&video=2511496925" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The losers' bracket final saw Finland (#6) facing off against Chile (#9). In recent years, neither team had managed to break into the top three — Chile's last podium finish was in 2019, while Finland have never placed higher than fourth, dating all the way back to 2013. For both sides, this was the opportunity to prove their worth. Chile entered this year without several key players, and many doubted their ability to reach the later stages of the tournament after seeing their qualifiers performance. As for Finland, concerns about their ability to scale and play endgame pools were raised, which was what led to their elimination in this very round last year.
+The losers' bracket final saw Finland (#6) facing off against Chile (#9). In recent years, neither team had managed to break into the top three — Chile's last podium finish was in 2019, while Finland have never placed higher than fourth, dating all the way back to 2013. For both sides, this was the opportunity to prove their worth. Chile entered this year without several key players, and many doubted their ability to reach the later stages of the tournament after seeing their Qualifiers performance. As for Finland, concerns about their ability to scale and play endgame pools were raised, which was what led to their elimination in this very round last year.
 
 Coming into this match, it was very difficult to give a clear edge to either team. Throughout the tournament, Chile had focused on the Double Time, Mixed Mod and Hidden brackets, while Finland opted for the more gimmicky picks, as well as the Mixed Mod and control Double Time picks. Chile were favoured on maps such as [DT1](https://osu.ppy.sh/beatmapsets/2398898#fruits/5199042), which was promptly banned by Finland, who themselves saw their strongest weapon, [NM3](https://osu.ppy.sh/beatmapsets/2398883#fruits/5199003), banned by Chile. Most maps left would be very contested either way, and the teams knew it.
 
@@ -97,7 +97,7 @@ There it was — the duel of titans. For anyone following the osu!catch scene, i
 
 Argentina were the first to pick, with a dominant performance on [HD2](https://osu.ppy.sh/beatmapsets/2398903#fruits/5199063). The United States followed up with [HR2](https://osu.ppy.sh/beatmapsets/2399190#fruits/5199818), and also won comfortably. However, Argentina had the edge on the Hidden picks, so the United States would have to properly navigate their pick strategy to match them. The second picks worked out for both teams, being [NM2](https://osu.ppy.sh/beatmapsets/2398885#fruits/5199008) for Argentina, with ::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283) SS'ing it, and [MM3](https://osu.ppy.sh/beatmapsets/2399039#fruits/5199376) thanks to a No Mod SS from ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006).
 
-The United States would be the first to get a break point on [NM3](https://osu.ppy.sh/beatmapsets/2398883#fruits/5199003) with a strong 2 miss run from ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), but Argentina would fire right back at them by taking their [NM4](https://osu.ppy.sh/beatmapsets/2398973#fruits/5199190) pick, thanks to ::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283)'s 2 miss score. With a high potential to perform at any given time, both teams could realistically win their opponent's picks, and we were starting to see it. 
+The United States would be the first to get a break point on [NM3](https://osu.ppy.sh/beatmapsets/2398883#fruits/5199003) with a strong 2 miss run from ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), but Argentina would fire right back at them by taking their [NM4](https://osu.ppy.sh/beatmapsets/2398973#fruits/5199190) pick, thanks to ::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283)'s 2 miss score. With a high potential to perform at any given time, both teams could realistically win their opponent's picks, and we were starting to see it.
 
 Argentina opted for [HD3](https://osu.ppy.sh/beatmapsets/2398911#fruits/5199078) and won, but the [DT1](https://osu.ppy.sh/beatmapsets/2398898#fruits/5199042) pick from the United States would not end up working out, as ::{ flag=AR }:: [Naarkz](https://osu.ppy.sh/users/19490380) would manage to secure an FC to carry his team to another break point. But that break point would be matched by the United States, taking [HR3](https://osu.ppy.sh/beatmapsets/2398918#fruits/5199091).
 
