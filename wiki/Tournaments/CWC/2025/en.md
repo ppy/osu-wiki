@@ -114,13 +114,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ## Match schedule: Grand Finals
 
+### Saturday, 19 July 2025
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| Grand Finals | showmatch | [Jul 19 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250719T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+
 ### Sunday, 20 July 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Jul 20 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250720T160000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-| Argentina ::{ flag=AR }:: | ::{ flag=US }:: United States | [Jul 20 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250720T180000&p1=1440&p2=51&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
-| Argentina ::{ flag=AR }:: | ::{ flag=FI }:: Finland | [Jul 20 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250720T180000&p1=1440&p2=51&p3=101) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| Argentina ::{ flag=AR }:: | ::{ flag=US }:: United States | [Jul 20 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250720T170000&p1=1440&p2=51&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| Argentina ::{ flag=AR }:: | ::{ flag=FI }:: Finland | [Jul 20 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250720T180000&p1=1440&p2=51&p3=101) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
 
@@ -656,3 +662,4 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
 [^lb-grand-finals]: Losers bracket Grand Finals match
 [^grand-finals]: Grand Finals match
+[^showmatch]: Grand Fianls showmatch – All-star CWC players
