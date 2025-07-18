@@ -16,7 +16,7 @@ Se añadió una [lista de transmisiones en vivo](https://osu.ppy.sh/community/li
 
 ## Agosto
 
-osu! recibió una actualización que incluía una versión del [grado](/wiki/Gameplay/Grado) SS para el mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_death) y filtros de modos de juego para la lista de usuarios, entre otras cosas.[^stable-b0813]
+osu! recibió una actualización que incluía una versión del [grado](/wiki/Gameplay/Grade) SS para el mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_death) y filtros de modos de juego para la lista de usuarios, entre otras cosas.[^stable-b0813]
 
 Del 11 de junio al 1 de julio, los participantes en el [osu! 2012 T-shirt Design Contest](https://osu.ppy.sh/community/forums/topics/86971?n=1) tuvieron que crear ilustraciones para las camisetas que se vendían en la osu!store. Después del concurso, se organizó una votación pública para decidir a los ganadores. ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) ganó el 1er lugar con 324 votos. Entre los premios para los finalistas figuraban una camiseta con la ilustración del usuario impresa en ella, un regalo de 20 $ para gastar libremente en cualquier mercancía disponible y diversas cantidades de osu!supporter.[^shirt-voting][^shirt-winner]
 
@@ -30,7 +30,7 @@ Del 11 de junio al 1 de julio, los participantes en el [osu! 2012 T-shirt Design
 
 :::
 
-osu! y su comunidad celebraron el 5º cumpleaños de osu! el 17 de septiembre de 2012. Durante este tiempo, se otorgaron etiquetas de [osu!supporter](/wiki/osu!supporter) a todos los jugadores durante 24 horas, empezando el 16 de septiembre de 2012 (18:00 UTC), que fue la hora de lanzamiento original de osu! en 2007. peppy tenía la intención de distribuir una versión antigua de osu! de una forma u otra para la celebración, de modo que los jugadores pudieran experimentar osu! desde una época más antigua, donde estaban las raíces del programa. Sin embargo, debido a las diferentes versiones de los archivos `.dll`, peppy no pudo hacerla funcionar. La publicó finalmente unos meses después, en [abril de 2013](/wiki/History_of_osu!/2013#april).[^five-years]
+osu! y su comunidad celebraron el 5º cumpleaños de osu! el 17 de septiembre de 2012. Durante este tiempo, se otorgaron etiquetas de [osu!supporter](/wiki/osu!supporter) a todos los jugadores durante 24 horas, empezando el 16 de septiembre de 2012 (18:00 UTC), que fue la hora de lanzamiento original de osu! en 2007. peppy tenía la intención de distribuir una versión antigua de osu! de una forma u otra para la celebración, de modo que los jugadores pudieran experimentar osu! desde una época más antigua, donde estaban las raíces del programa. Sin embargo, debido a las diferentes versiones de los archivos `.dll`, peppy no pudo hacerla funcionar. La publicó finalmente unos meses después, en [abril de 2013](/wiki/History_of_osu!/2013#abril).[^five-years]
 
 ## Octubre
 
