@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: Summer 2025"
-date: 2025-07-19 21:00:00 +0000
+date: 2025-07-19 19:00:00 +0000
 ---
 
 If looking at the editor only makes you confused, you have your whole summer vacation to learn how to create maps. With over **70** new tracks to choose from, the song for your first map might be here!
@@ -38,7 +38,7 @@ When [**Aoi**](https://osu.ppy.sh/beatmaps/artists/183) created [Welkius](https:
 ### Aoi - Agapitos
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/183/Songs/Aoi_-_Agapitos.mp3" type="audio/mpeg">
 </audio>
 
 ## [Corsace](https://osu.ppy.sh/beatmaps/artists/381)
@@ -52,31 +52,31 @@ Each of the tournament's maps can be played here:
 ### [Kagetora. vs. ikaruga_nex - Gott der Apokalypse](https://osu.ppy.sh/beatmapsets/2226230) mapped by [Gordon](https://osu.ppy.sh/users/7856835) and [ajmosca](https://osu.ppy.sh/users/19884809)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/Kagetora.%20vs.%20ikaruga%27nex%20-%20Gott%20der%20Apokalypse.mp3" type="audio/mpeg">
 </audio>
 
 ### [Kurokotei x kanemiko - astranelique](https://osu.ppy.sh/beatmapsets/2234516) mapped by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/Kurokotei%20x%20kanemiko%20-%20astranelique.mp3" type="audio/mpeg">
 </audio>
 
 ### [Aethral - Lacrima Elegy](https://osu.ppy.sh/beatmapsets/2230360) mapped by [Aeril](https://osu.ppy.sh/users/4334976)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/Aethral%20-%20Lacrima%20Elegy.mp3" type="audio/mpeg">
 </audio>
 
 ### [orangentle - Chromatolight](https://osu.ppy.sh/beatmapsets/2238833) mapped by [Uberzolik](https://osu.ppy.sh/users/1314547)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/orangentle%20-%20Chromatolight.mp3" type="audio/mpeg">
 </audio>
 
 ### [N_dog - Cyclic Universe Theory](https://osu.ppy.sh/beatmapsets/2238742) mapped by [Mun](https://osu.ppy.sh/users/6699165) and [Zetera](https://osu.ppy.sh/users/587737)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/N%27dog%20-%20Cyclic%20Universe%20Theory.mp3" type="audio/mpeg">
 </audio>
 
 ## [cygnus](https://osu.ppy.sh/beatmaps/artists/359)
@@ -90,60 +90,60 @@ A few tracks are below, but the rest can be found on [**cygnus**'s Featured Arti
 ### cygnus - Lamentation
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/359/Lament/cygnus%20-%20Lamentation.mp3" type="audio/mpeg">
 </audio>
 
 ### cygnus - Angel Ring
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/359/Lament/cygnus%20-%20Angel%20Ring.mp3" type="audio/mpeg">
 </audio>
 
 ### cygnus - Iris sanguinea
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/359/Lament/cygnus%20-%20Iris%20sanguinea.mp3" type="audio/mpeg">
 </audio>
 
 ### cygnus - SunMalice
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/359/Lament/cygnus%20-%20SunMalice.mp3" type="audio/mpeg">
 </audio>
 
 ## [Good Kid](https://osu.ppy.sh/beatmaps/artists/240)
 
 [![](https://assets.ppy.sh/artists/240/header.jpg)](https://osu.ppy.sh/beatmaps/artists/240)
 
-If comments on [osu!'s changelog YouTube videos](LINK) are to be believed, a lot of people like [**Good Kid**](https://osu.ppy.sh/beatmaps/artists/240)'s music. We have 4 more tunes as of today:
+If comments on [osu!'s changelog YouTube videos](https://www.youtube.com/@osugame) are to be believed, a lot of people like [**Good Kid**](https://osu.ppy.sh/beatmaps/artists/240)'s music. We have 4 more tunes as of today:
 
 ### [Good Kid - Break](https://osu.ppy.sh/beatmapsets/2146620) mapped by [_ethan](https://osu.ppy.sh/users/16345483)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Break.mp3" type="audio/mpeg">
 </audio>
 
 ### [Good Kid - Dance Class](https://osu.ppy.sh/beatmapsets/2207794) mapped by [chr](https://osu.ppy.sh/users/3810322)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Dance_Class.mp3" type="audio/mpeg">
 </audio>
 
 ### [Good Kid - Premier Inn](https://osu.ppy.sh/beatmapsets/2238376) mapped by [Dino99](https://osu.ppy.sh/users/849555)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Premier_Inn.mp3" type="audio/mpeg">
 </audio>
 
 ### Good Kid - Summer
 
-There are tow maps for this one:
+There are two maps for this one:
 
 - [osu! map](https://osu.ppy.sh/beatmapsets/2185941) hosted by [boifrosty](https://osu.ppy.sh/users/12926684)
 - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2253116) hosted by [Akiri-](https://osu.ppy.sh/users/19587411)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Summer.mp3" type="audio/mpeg">
 </audio>
 
 ## [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267)
@@ -157,19 +157,19 @@ Listen through a few here, and the rest on [**JOYLESS**'s Featured Artist listin
 ### JOYLESS - Friends
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/267/Friends%20EP/JOYLESS%20-%20Friends.mp3" type="audio/mpeg">
 </audio>
 
 ### JOYLESS - Old Shoes
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/267/Friends%20EP/JOYLESS%20-%20Old%20Shoes.mp3" type="audio/mpeg">
 </audio>
 
 ### JOYLESS - Figure It Out
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/267/Figure%20It%20Out/JOYLESS%20-%20Figure%20It%20Out.mp3" type="audio/mpeg">
 </audio>
 
 ## [meganeko](https://osu.ppy.sh/beatmaps/artists/75)
@@ -187,19 +187,19 @@ Three maps are on the docket:
 - [4K osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1895713) hosted by [AutotelicBrown](https://osu.ppy.sh/users/4238941)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/75/Songs/meganeko_-_The_Cyber_Grind.mp3" type="audio/mpeg">
 </audio>
 
 ### meganeko - Moonlight Sonata 3rd movement
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/75/Songs/meganeko_-_Moonlight_Sonata_3rd_movement.mp3" type="audio/mpeg">
 </audio>
 
 ### meganeko - Sunset
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/75/Songs/meganeko_-_Sunset.mp3" type="audio/mpeg">
 </audio>
 
 ## [Pratanallis](https://osu.ppy.sh/beatmaps/artists/175)
@@ -211,7 +211,7 @@ Sometimes you just need one more track to round out a listing. That's why we pic
 ### [Pratanallis - Black Berserker](https://osu.ppy.sh/beatmapsets/2204750) mapped by [tacoyaki5](https://osu.ppy.sh/users/24168968)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/175/Songs/Pratanallis_feat._KOKOMI_-_Black_Berserker.mp3" type="audio/mpeg">
 </audio>
 
 ## [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194)
@@ -223,7 +223,7 @@ While most of you may recognize [**Release Hallucination**](https://osu.ppy.sh/b
 ### [Release Hallucination - ASTERIA](https://osu.ppy.sh/beatmapsets/2301277) mapped by [Aeril](https://osu.ppy.sh/users/4334976) and [FrenZ](https://osu.ppy.sh/users/9531903)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/194/Songs/Release_Hallucination_-_ASTERIA.mp3" type="audio/mpeg">
 </audio>
 
 ## [seatrus](https://osu.ppy.sh/beatmaps/artists/185)
@@ -235,25 +235,25 @@ osu! wouldn't be a rhythm game without music like what [**seatrus**](https://osu
 ### seatrus - cryptic worthy widgEt
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_cryptic_worthy_widgEt.mp3" type="audio/mpeg">
 </audio>
 
 ### seatrus - GRiXiZM
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_GRiXiZM.mp3" type="audio/mpeg">
 </audio>
 
 ### seatrus - Little World Adventure
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_Little_World_Adventure.mp3" type="audio/mpeg">
 </audio>
 
 ### seatrus - TEMP3ST
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_TEMP3ST.mp3" type="audio/mpeg">
 </audio>
 
 ## [Symholic](https://osu.ppy.sh/beatmaps/artists/130)
@@ -265,7 +265,7 @@ osu! wouldn't be a rhythm game without music like what [**seatrus**](https://osu
 ### [Symholic - Kimi ni Tewatashita Ichirin no Hana](https://osu.ppy.sh/beatmapsets/2212213) mapped by [dahkjdas](https://osu.ppy.sh/users/5062396)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/130/Ansrail%20(Symholic%2011th%20CD)/Symholic%20-%20Kimi%20ni%20Tewatashita%20Ichirin%20no%20Hana.mp3" type="audio/mpeg">
 </audio>
 
 ### Symholic - -----
@@ -273,7 +273,7 @@ osu! wouldn't be a rhythm game without music like what [**seatrus**](https://osu
 Yes, that's really the title.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/130/Ansrail%20(Symholic%2011th%20CD)/Symholic%20-%20-----.mp3" type="audio/mpeg">
 </audio>
 
 ## [Tenchio](https://osu.ppy.sh/beatmaps/artists/265)
@@ -287,25 +287,25 @@ Everything is on [**Tenchio**'s Featured Artist listing](https://osu.ppy.sh/beat
 ### Tenchio - Chinless behavior
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/265/Brain%20Emo/Tenchio%20-%20Chinless%20behavior.mp3" type="audio/mpeg">
 </audio>
 
 ### Tenchio - lights off
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/265/Brain%20Emo/Tenchio%20-%20lights%20off.mp3" type="audio/mpeg">
 </audio>
 
-### Tenchio - CHRISTMASROCK
+### Tenchio - CHRISTMAS*ROCK
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/265/CHRISTMAS%20ROCK/Tenchio%20-%20CHRISTMASROCK.mp3" type="audio/mpeg">
 </audio>
 
 ### Tenchio - DEATHGLOW
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/265/DEATHGLOW/Tenchio%20-%20DEATHGLOW.mp3" type="audio/mpeg">
 </audio>
 
 ## [Trina Lydia](https://osu.ppy.sh/beatmaps/artists/440)
@@ -317,7 +317,7 @@ One more artist to round things out: the one and only [**Trina Lydia**](https://
 ### [Trina Lydia - Late-Night Rocket Ride](https://osu.ppy.sh/beatmapsets/2377074) mapped by [Jaye](https://osu.ppy.sh/users/4841352)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/440/Late-Night%20Rocket%20Ride/Trina%20Lydia%20-%20Late-Night%20Rocket%20Ride.mp3" type="audio/mpeg">
 </audio>
 
 ---
