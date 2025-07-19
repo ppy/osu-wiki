@@ -190,7 +190,7 @@ Three maps are on the docket:
     <source src="https://assets.ppy.sh/artists/75/Songs/meganeko_-_The_Cyber_Grind.mp3" type="audio/mpeg">
 </audio>
 
-### meganeko - Moonlight Sonata 3rd movement
+### meganeko - Moonlight Sonata 3rd Movement
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/75/Songs/meganeko_-_Moonlight_Sonata_3rd_movement.mp3" type="audio/mpeg">
@@ -206,7 +206,7 @@ Three maps are on the docket:
 
 [![](https://assets.ppy.sh/artists/175/header.jpg)](https://osu.ppy.sh/beatmaps/artists/175)
 
-Sometimes you just need one more track to round out a listing. That's why we picked [**Pratnallis**](https://osu.ppy.sh/beatmaps/artists/175)'s *Black Berserker*.
+Sometimes you just need one more track to round out a listing. That's why we picked [**Pratanallis**](https://osu.ppy.sh/beatmaps/artists/175)'s *Black Berserker*.
 
 ### [Pratanallis - Black Berserker](https://osu.ppy.sh/beatmapsets/2204750) mapped by [tacoyaki5](https://osu.ppy.sh/users/24168968)
 
