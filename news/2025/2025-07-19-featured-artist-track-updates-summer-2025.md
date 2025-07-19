@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: Summer 2025"
-date: 2025-07-19 19:00:00 +0000
+date: 2025-07-19 20:00:00 +0000
 ---
 
 If looking at the editor only makes you confused, you have your whole summer vacation to learn how to create maps. With over **70** new tracks to choose from, the song for your first map might be here!
