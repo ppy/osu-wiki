@@ -38,7 +38,7 @@ Para cambiar entre los modos, haz clic en el botón `Mode` de la parte inferior 
 
 *Página principal: [osu!catch](osu!catch)*
 
-*osu!catch* es un modo de juego en el que los jugadores controlan a un catcher para recoger las frutas que caen al ritmo de la música desde la parte superior de la pantalla. Se basa ligeramente en el minijuego «Catch It!» de las primeras versiones de [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], un simulador de [Beatmania](https://es.wikipedia.org/wiki/Beatmania_(serie)) para PC, que a su vez deriva del modo *EZ2CATCH* del sistema arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). La mascota de osu!catch es [Yuzu](/wiki/Mascots#yuzu), un chico de pelo azul.
+*osu!catch* es un modo de juego en el que los jugadores controlan a un catcher para recoger las frutas que caen al ritmo de la música desde la parte superior de la pantalla. Se basa ligeramente en el minijuego «Catch It!» de las primeras versiones de [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], un simulador de [Beatmania](https://es.wikipedia.org/wiki/Beatmania_(serie)) para PC, que a su vez deriva del modo *EZ2CATCH* del sistema arcade [EZ2DJ](https://es.wikipedia.org/wiki/EZ2DJ). La mascota de osu!catch es [Yuzu](/wiki/Mascots#yuzu), un chico de pelo azul.
 
 ![Jugabilidad de osu!catch](/wiki/shared/catch-gameplay.jpg "Jugabilidad de osu!catch")
 
