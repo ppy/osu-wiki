@@ -218,7 +218,7 @@ Sometimes you just need one more track to round out a listing. That's why we pic
 
 [![](https://assets.ppy.sh/artists/194/header.jpg)](https://osu.ppy.sh/beatmaps/artists/194)
 
-While most of you may recognize [**Release Hallucination**](https://osu.ppy.sh/beatmaps/artists/194) for their original track *VANITAS* for *osu! World Cup 2023*, the band made another track for an osu! event one year later. *ASTERIA* from *Sidi's Winter Invitational* is officially part of osu!.
+While most of you may recognise [**Release Hallucination**](https://osu.ppy.sh/beatmaps/artists/194) for their original track *VANITAS* for the *osu! World Cup 2023*, the band made another track for an osu! event one year later. *ASTERIA* from *Sidi's Winter Invitational* is officially part of osu!.
 
 ### [Release Hallucination - ASTERIA](https://osu.ppy.sh/beatmapsets/2301277) mapped by [Aeril](https://osu.ppy.sh/users/4334976) and [FrenZ](https://osu.ppy.sh/users/9531903)
 
