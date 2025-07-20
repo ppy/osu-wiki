@@ -8,11 +8,11 @@ tags:
 
 ![contest banner](img/banner.jpg)
 
-The **osu!taiko Mapping World Cup 2025** (***TMWC 2025***) is a country-based, multi-stage osu!taiko mapping contest that aimed to crown which nation was the best at creating osu!taiko beatmaps.
+The **osu!taiko Mapping World Cup 2025** (***TMWC 2025***) is a country-based, multi-stage osu!taiko mapping contest that aims to crown which nation is the best at creating osu!taiko beatmaps.
 
 ## Schedule
 
-Registrations will open the 18th of July 2025. Each round consisted of a mapping phase and a judging phase.
+Registrations open 18 July 2025. Each round consists of a mapping phase and a judging phase.
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
@@ -34,7 +34,7 @@ Registrations will open the 18th of July 2025. Each round consisted of a mapping
 
 ## Organisation
 
-The osu!taiko Mapping World Cup 2024 was run by various community members.
+The osu!taiko Mapping World Cup 2025 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -69,7 +69,7 @@ The osu!taiko Mapping World Cup 2024 was run by various community members.
 - **At least three (3) mappers must collaborate per song.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating country. We want to avoid situations amongst teams where some members get ‘carried’. Collaboration does not include anything other than mapping (notes/scroll speed changes/volume changes), providing feedback does not count.
 - **A mapper on the winning team must participate in a minimum of 2 out of the 3 maps produced to receive their rewards for the contest.**
 - **Submissions will not be accepted after the deadlines set for each round.**
-- **Captains will be determined by the Organization Team and given a list of potential teammates to choose from.** If this person does not want to be captain, a replacement will be selected. The captains will be responsible for selecting their teammates. If more than 6 people sign up for a single country, more than one team may be fielded. In this case a captain will be delegated for each team.
+- **Captains will be determined by the organisation team and given a list of potential teammates to choose from.** If this person does not want to be captain, a replacement will be selected. The captains will be responsible for selecting their teammates. If more than 6 people sign up for a single country, more than one team may be fielded. In this case a captain will be delegated for each team.
 - **We expect everyone to conduct themselves with a sporting attitude and with integrity. Respect toward fellow competitors, judges and organisers is expected at all times. If you share your creations outside of your team channel before judging is complete, or attempt any form of leaking confidential information, you will be disqualified.**
 
 ### Judging criteria

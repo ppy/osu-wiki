@@ -22,7 +22,7 @@ Registrations are open from now until August 17th! To register, please fill out 
 
 If you have issues with submitting your registration through the form, please send [ikin5050](https://osu.ppy.sh/community/chat?sendto=4007649) or [Yasuho](https://osu.ppy.sh/community/chat?sendto=8458835) a message and they will sort things out for you.
 
-After registrations close, the [organisation team](/wiki/Contests/TMWC/2024#organisation) will review all submissions, appoint captains of each country, and provide them a list of potential teammates to organize. If this person does not want to be captain, a replacement will be selected. If more than 6 people sign up for a single country, more than one team may participate and a captain will be delegated for each team.
+After registrations close, the [organisation team](/wiki/Contests/TMWC/2024#organisation) will review all submissions, appoint captains of each country, and provide them a list of potential teammates to organise. If this person does not want to be captain, a replacement will be selected. If more than 6 people sign up for a single country, more than one team may participate and a captain will be delegated for each team.
 
 Do note that it's required for the team captains to be present in the Discord server to keep up with any announcements or changes related to the contest.
 
@@ -38,7 +38,7 @@ The amount of contest points awarded will be determined by the number of mappers
 
 ---
 
-Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.gg/5ewzEEcUCB).
+Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.com/invite/5ewzEEcUCB).
 
 Last year for the first iteration of TMWC we had a fantastic turnout and over 100 fantastic beatmaps produced. This year we are hoping to surpass last year's standards, so tell your friends and sign up today!
 
