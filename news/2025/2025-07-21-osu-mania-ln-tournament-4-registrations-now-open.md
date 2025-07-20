@@ -47,14 +47,14 @@ Whether it be the competition, prizes or the production itself, you will definit
 
 ## Prizes
 
-The prize pool for o!mLN4 will be split into 2 sections, the **tournament prize pool** and the **event prize pool**.
+The prize pool for o!mLN4 will be split into 2 sections, the **regular prize pool** and the **event prize pool**.
 
 The tournament prize pool will be awarded to the top 6 players in the tournament bracket:
 
-- **1st Place:** 40% of the tournament prize pool and an o!mLN4 Profile badge.
-- **2nd Place:** 25% of the tournament prize pool.
-- **3rd Place:** 20% of the tournament prize pool.
-- **4th - 6th Place:** 5% of the tournament prize pool each.
+- **1st Place:** 40% of the regular prize pool and an o!mLN4 Profile badge.
+- **2nd Place:** 25% of the regular prize pool.
+- **3rd Place:** 20% of the regular prize pool.
+- **4th - 6th Place:** 5% of the regular prize pool each.
 
 On the other hand, the event prize pool will be awarded to 3 winners whose tickets were selected during the lucky draw at the end of the tournament:
 
