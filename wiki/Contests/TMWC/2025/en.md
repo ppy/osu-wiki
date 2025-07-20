@@ -12,7 +12,7 @@ The **osu!taiko Mapping World Cup 2025** (***TMWC 2025***) is a country-based, m
 
 ## Schedule
 
-Registrations open 18 July 2025. Each round consists of a mapping phase and a judging phase.
+Registrations open 20 July 2025. Each round consists of a mapping phase and a judging phase.
 
 | Event | Timestamp (UTC) |
 | --: | :-- |

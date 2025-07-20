@@ -26,6 +26,18 @@ After registrations close, the [organisation team](/wiki/Contests/TMWC/2024#orga
 
 Do note that it's required for the team captains to be present in the Discord server to keep up with any announcements or changes related to the contest.
 
+## Schedule
+
+| Event | Timestamp (UTC) |
+| --: | :-- |
+| Round 1 mapping phase | 2025-08-23 until 2025-09-07 |
+| Round 1 Judging phase | 2025-09-07 until 2025-09-27 |
+| Round 2 mapping phase | 2025-09-27 until 2025-10-12 |
+| Round 2 Judging phase | 2025-10-12 until 2025-11-01 |
+| Round 3 mapping phase | 2025-11-01 until 2025-11-23 |
+| Round 3 Judging phase | 2025-1-23 until 2025-12-13 |
+| Final Results | 2025-12-13 |
+
 ## Prizes
 
 The top 3 countries that reign supreme will be awarded with the following prizes:
