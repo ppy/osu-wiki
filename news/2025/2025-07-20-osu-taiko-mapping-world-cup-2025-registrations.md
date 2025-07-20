@@ -34,7 +34,7 @@ Do note that it's required for the team captains to be present in the Discord se
 | Round 1 judging phase | September 7 until September 27 |
 | Round 2 mapping phase | September 27 until October 12 |
 | Round 2 judging phase | October 12 until November 1 |
-| Round 3 mapping phase | November 11 until November 23 |
+| Round 3 mapping phase | November 1 until November 23 |
 | Round 3 judging phase | November 23 until December 13 |
 | Final results | December 13 |
 
