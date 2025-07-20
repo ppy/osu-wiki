@@ -406,8 +406,8 @@ Saturday, 21 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Iceland ::{ flag=IS }:: | 0 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/mp/118462137) | [#1](https://youtu.be/_6IK6Y3asIU?t=9735) |
-| Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/mp/118462140) | [#1](https://youtu.be/_6IK6Y3asIU?t=19957) |
+| Iceland ::{ flag=IS }:: | 0 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/118462137) | [#1](https://youtu.be/_6IK6Y3asIU?t=9735) |
+| Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/118462140) | [#1](https://youtu.be/_6IK6Y3asIU?t=19957) |
 | **Japan** ::{ flag=JP }:: | **6** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/118462718) | [#1](https://youtu.be/_6IK6Y3asIU?t=13365) |
 | Israel ::{ flag=IL }:: | 0 | **6** | ::{ flag=MX }:: **Mexico** | [#1](https://osu.ppy.sh/community/matches/118464703) | [#1](https://youtu.be/_6IK6Y3asIU?t=17338) |
 | **Argentina** ::{ flag=AR }:: | **6** | 1 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/118466813) | [#1](https://youtu.be/_6IK6Y3asIU?t=290) |
