@@ -9,7 +9,7 @@ tags:
 
 ![CWC 2025 banner](img/cwc2025-banner.jpg?1)
 
-The **osu!catch World Cup 2025** (***CWC 2025***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the fourteenth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2025** (***CWC 2025***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fourteenth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!catch World Cup 2025** (***CWC 2025***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2025 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!catch World Cup 2025 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,9 +35,11 @@ The osu!catch World Cup 2025 offers a $2,000 cash prize pool and limited-edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/cwc2025-badge-1st.png "CWC 2025 winner badge") ![](img/cwc2025-badge-2nd.png "CWC 2025 2nd-place badge") ![](img/cwc2025-badge-3rd.png "CWC 2025 3rd-place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2025 is run by various community members.
+The osu!catch World Cup 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -59,7 +61,6 @@ The osu!catch World Cup 2025 is run by various community members.
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/50)
 - [Challonge bracket](https://challonge.com/CWC2025)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/177) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1481)
 
 ## Participants
 
@@ -110,30 +111,18 @@ The osu!catch World Cup 2025 is run by various community members.
 | ::{ flag=US }:: | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149), [Elux](https://osu.ppy.sh/users/12004983), [The 47th](https://osu.ppy.sh/users/4990320), [yeeeter](https://osu.ppy.sh/users/15274666) |
 | ::{ flag=VN }:: | **Vietnam** | **[Stardust Prism](https://osu.ppy.sh/users/8525921)**, [ARL](https://osu.ppy.sh/users/15778330), [mothernature](https://osu.ppy.sh/users/6403418), [NamSPro](https://osu.ppy.sh/users/11387006), [Shu](https://osu.ppy.sh/users/4744615) |
 
-The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a8df801dc4c99f192694621928b231).
+Captains are listed in **bold**.\The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a8df801dc4c99f192694621928b231).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 19 July 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Grand Finals | showmatch | [Jul 19 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250719T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-
-### Sunday, 20 July 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Jul 20 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250720T160000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-| Argentina ::{ flag=AR }:: | ::{ flag=US }:: United States | [Jul 20 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250720T170000&p1=1440&p2=51&p3=263) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
-| Argentina ::{ flag=AR }:: | ::{ flag=FI }:: Finland | [Jul 20 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250720T180000&p1=1440&p2=51&p3=101) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/cwc2025-podium.jpg "CWC 2025 podium")
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here (207 MB)](https://packs.ppy.sh/P293%20-%20osu!catch%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2511672807?t=0h14m36s)
+**[Download the mappack here (207 MB)](https://packs.ppy.sh/P293%20-%20osu!catch%20World%20Cup%202025%3A%20Grand%20Finals.zip?1752690501)**\
+[Watch the showcase VOD here](https://youtu.be/wXIoAfJTXRw?t=14884)
 
 - No Mod
   1. [Camellia - POWA OF DA WILDANES (Bunnrei) \[PRIMAL INSTINCT\]](https://osu.ppy.sh/beatmapsets/2402793#fruits/5211154)
@@ -163,7 +152,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 ### Finals
 
 **[Download the mappack here (170 MB)](https://packs.ppy.sh/P292%20-%20osu!catch%20World%20Cup%202025%3A%20Finals.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2505409718?t=1h41m47s)
+[Watch the showcase VOD here](https://youtu.be/94O5W9o9gFs?t=6108)
 
 - No Mod
   1. [Laur - Afflict (feat. Risa Yuzuki) (Ascendance, Bunnrei) \[Ascendance & Rei's Death Match\]](https://osu.ppy.sh/beatmapsets/2398958#fruits/5199148)
@@ -193,7 +182,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 ### Semifinals
 
 **[Download the mappack here (140 MB)](https://packs.ppy.sh/P291%20-%20osu!catch%20World%20Cup%202025%3A%20Semifinals.zip?1751329362)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2499196622?t=4h6m5s)
+[Watch the showcase VOD here](https://youtu.be/U-G10zJGyWs?t=14761)
 
 - No Mod
   1. [youman feat. GUMI - R.I.P. (Zyzyx, Yoshi\_green) \[Yoshyx's Painful Memory\]](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524)
@@ -223,7 +212,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 ### Quarterfinals
 
 **[Download the mappack here (186 MB)](https://packs.ppy.sh/P290%20-%20osu!catch%20World%20Cup%202025%3A%20Quarterfinals.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2492992095?t=3h12m51s)
+[Watch the showcase VOD here](https://youtu.be/WDa-if2dvhs?t=11572)
 
 - No Mod
   1. [Camellia feat. Nanahira - Shakunetsu Candle Master (Ririmu, Kukkai) \[Mochi & Kukkai's Burning Heart ! !\]](https://osu.ppy.sh/beatmapsets/2391746#fruits/5177625)
@@ -251,7 +240,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 ### Round of 16
 
 **[Download the mappack here (140 MB)](https://packs.ppy.sh/P289%20-%20osu!catch%20World%20Cup%202025%3A%20Round%20of%2016.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2486718794?t=5h8m30s)
+[Watch the showcase VOD here](https://youtu.be/IV3UINIJc3o?t=18511)
 
 - No Mod
   1. [Yousei Teikoku - Zetsubou plantation (-Luminate) \[Despair\]](https://osu.ppy.sh/beatmapsets/2388183#fruits/5168115)
@@ -279,7 +268,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 ### Round of 32
 
 **[Download the mappack here (99 MB)](https://packs.ppy.sh/P288%20-%20osu!catch%20World%20Cup%202025%3A%20Round%20of%2032.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2480836532?t=1h4m23s)
+[Watch the showcase VOD here](https://youtu.be/G7Q7mh9_QmM?t=6309)
 
 - No Mod
   1. [ELFENSJoN - LUNATIC MIRAGE (4rcheR-) \[OVERDOSE (CWC VER.)\]](https://osu.ppy.sh/beatmapsets/2384696#fruits/5156436)
@@ -305,7 +294,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 ### Qualifiers
 
 **[Download the mappack here (91 MB)](https://packs.ppy.sh/P287%20-%20osu!catch%20World%20Cup%202025%3A%20Qualifiers.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2474330124?t=0h4m55s)
+[Watch the showcase VOD here](https://youtu.be/G7Q7mh9_QmM?t=295)
 
 - No Mod
   1. [Minstrel - today is the day (Bunnrei) \[June 1 (feat. Spec)\]](https://osu.ppy.sh/beatmapsets/2380696#fruits/5146241)
@@ -323,6 +312,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 19 July 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| All-stars Red | 7 | 4 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/118721742) | [#1](https://www.twitch.tv/videos/2516734145?t=0h4m49s) |
+
+Sunday, 20 July 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/118732341) | [#1](https://www.twitch.tv/videos/2517677050?t=0h5m1s) |
+| **Argentina** ::{ flag=AR }:: | **7** | 2 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/118732915) | [#1](https://www.twitch.tv/videos/2517677050?t=1h5m4s) |
+
 ### Finals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1II7HsRwpFzY-3ljmwUTVLWipn4n7asdHd2gnpOhKjG4?rm=minimal).
@@ -331,38 +335,38 @@ Saturday, 12 July 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
+| **Finland** ::{ flag=FI }:: | **7** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/118656849) | [#1](https://youtu.be/wXIoAfJTXRw?t=206) |
 | Italy ::{ flag=IT }:: | -1 | **0** | ::{ flag=CL }:: **Chile** | *win by default* |  |
-| **Finland** ::{ flag=FI }:: | **7** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/118656849) | [#1](https://www.twitch.tv/videos/2510521456?t=0h3m36s) |
 
 Sunday, 13 July 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Finland** ::{ flag=FI }:: | **7** | 5 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/118667659) | [#1](https://www.twitch.tv/videos/2511496925?t=0h4m2s) |
-| United States ::{ flag=US }:: | 4 | **7** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/118668269) | [#1](https://www.twitch.tv/videos/2511614013) |
+| **Finland** ::{ flag=FI }:: | **7** | 5 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/118667659) | [#1](https://youtu.be/wXIoAfJTXRw?t=4166) |
+| United States ::{ flag=US }:: | 4 | **7** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/118668269) | [#1](https://youtu.be/wXIoAfJTXRw?t=9499) |
 
 ### Semifinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1LTVNb2ghq8Z6GE5kS85frEX-LxWFAd9fxvAROMCBy1o?rm=minimal)
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1LTVNb2ghq8Z6GE5kS85frEX-LxWFAd9fxvAROMCBy1o?rm=minimal).
 
 Saturday, 5 July 2025:
 
 | Team A |  |  | Team B | Match link | VOD link | Notes |
 | --: | :-: | :-: | :-- | :-- | :-- | :-- |
-| **Japan** ::{ flag=JP }:: | **7** | 4 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/118592278) | [#1](https://www.twitch.tv/videos/2504289576?t=0h4m40s) |  |
-| Staff Red | 7 | 7 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/118593430) | [#1](https://www.twitch.tv/videos/2504289576?t=2h5m10s) | Semifinals showmatch (CWC staff) |
-| Russian Federation ::{ flag=RU }:: | 4 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/118595017) | [#1](https://www.twitch.tv/videos/2504476727?t=0h9m24s) |  |
-| **France** ::{ flag=FR }:: | **7** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/118596045) | [#1](https://www.twitch.tv/videos/2504476727?t=2h9m19s) |  |
+| **Japan** ::{ flag=JP }:: | **7** | 4 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/118592278) | [#1](https://youtu.be/Rp9fL1dq_ys?t=280) |  |
+| Staff Red | 7 | 7 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/118593430) | [#1](https://youtu.be/Rp9fL1dq_ys?t=7510) | Semifinals showmatch (CWC staff) |
+| Russian Federation ::{ flag=RU }:: | 4 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/118595017) | [#1](https://youtu.be/Rp9fL1dq_ys?t=13827) |  |
+| **France** ::{ flag=FR }:: | **7** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/118596045) | [#1](https://youtu.be/Rp9fL1dq_ys?t=21028) |  |
 
 Sunday, 6 July 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **France** ::{ flag=FR }:: | **7** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/118601898) | [#1](https://www.twitch.tv/videos/2505159687?t=0h4m55s) |
-| Poland ::{ flag=PL }:: | 5 | **7** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/118602409) | [#1](https://www.twitch.tv/videos/2505159687?t=1h4m52s) |
-| **Argentina** ::{ flag=AR }:: | **7** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/118603987) | [#1](https://www.twitch.tv/videos/2505312398?t=0h5m1s) |
-| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/118604230) | [#1](https://www.twitch.tv/videos/2505406899) |
-| Canada ::{ flag=CA }:: | 1 | **7** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/118605042) | [#1](https://www.twitch.tv/videos/2505409718?t=0h6m58s) |
+| **France** ::{ flag=FR }:: | **7** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/118601898) | [#1](https://youtu.be/94O5W9o9gFs?t=10584) |
+| Poland ::{ flag=PL }:: | 5 | **7** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/118602409) | [#1](https://youtu.be/94O5W9o9gFs?t=14184) |
+| **Argentina** ::{ flag=AR }:: | **7** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/118603987) | [#1](https://youtu.be/Rp9fL1dq_ys?t=24379) |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/118604230) | [#1](https://youtu.be/94O5W9o9gFs?t=20328) |
+| Canada ::{ flag=CA }:: | 1 | **7** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/118605042) | [#1](https://youtu.be/94O5W9o9gFs?t=417) |
 
 ### Quarterfinals
 
@@ -372,27 +376,27 @@ Saturday, 28 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Colombia ::{ flag=CO }:: | 1 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/118524579) | [#1](https://www.twitch.tv/videos/2497910358?t=0h2m24s) |
-| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/118526215) | [#1](https://www.twitch.tv/videos/2498078516?t=0h4m44s) |
-| **Sweden** ::{ flag=SE }:: | **6** | 5 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/118526625) | [#1](https://www.twitch.tv/videos/2498078516?t=1h34m54s) |
-| **Belgium** ::{ flag=BE }:: | **6** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/118527911) | [#1](https://www.twitch.tv/videos/2498193185?t=0h2m37s) |
-| **Germany** ::{ flag=DE }:: | **6** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/118528391) | [#1](https://www.twitch.tv/videos/2498258377) |
-| **Italy** ::{ flag=IT }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/118528373) | [#1](https://www.twitch.tv/videos/2498193185?t=1h2m34s) |
-| **Chile** ::{ flag=CL }:: | **6** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/118528988) | [#1](https://www.twitch.tv/videos/2498193185?t=2h2m35s) |
-| **Canada** ::{ flag=CA }:: | **6** | 2 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/118530439) | [#1](https://www.twitch.tv/videos/2498368392?t=0h5m30s) |
-| United Kingdom ::{ flag=GB }:: | 2 | **6** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/118531170) | [#1](https://www.twitch.tv/videos/2498368392?t=1h35m29s) |
+| Colombia ::{ flag=CO }:: | 1 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/118524579) | [#1](https://youtu.be/gkK3C3fmjyE?t=147) |
+| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/118526215) | [#1](https://youtu.be/gkK3C3fmjyE?t=23468) |
+| **Sweden** ::{ flag=SE }:: | **6** | 5 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/118526625) | [#1](https://youtu.be/gkK3C3fmjyE?t=28872) |
+| **Belgium** ::{ flag=BE }:: | **6** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/118527911) | [#1](https://youtu.be/gkK3C3fmjyE?t=3121) |
+| **Germany** ::{ flag=DE }:: | **6** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/118528391) | [#1](https://youtu.be/gkK3C3fmjyE?t=6720) |
+| **Italy** ::{ flag=IT }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/118528373) | [#1](https://youtu.be/gkK3C3fmjyE?t=6720) |
+| **Chile** ::{ flag=CL }:: | **6** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/118528988) | [#1](https://youtu.be/gkK3C3fmjyE?t=10320) |
+| **Canada** ::{ flag=CA }:: | **6** | 2 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/118530439) | [#1](https://youtu.be/gkK3C3fmjyE?t=14462) |
+| United Kingdom ::{ flag=GB }:: | 2 | **6** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/118531170) | [#1](https://youtu.be/gkK3C3fmjyE?t=19860) |
 
 Sunday, 29 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/118536756) | [#1](https://www.twitch.tv/videos/2499005113?t=0h4m49s) |
-| Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/118538200) | [#1](https://www.twitch.tv/videos/2499104106?t=0h5m45s) |
+| **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/118536756) | [#1](https://youtu.be/U-G10zJGyWs?t=19602) |
+| Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/118538200) | [#1](https://youtu.be/U-G10zJGyWs?t=22674) |
 | **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/118538491) | [#1](https://www.twitch.tv/videos/2499104106?t=1h3m10s) |
-| **Argentina** ::{ flag=AR }:: | **6** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/118538470) | [#1](https://www.twitch.tv/videos/2499151053) |
-| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/118539528) | [#1](https://www.twitch.tv/videos/2499196622?t=0h5m52s) |
-| **Canada** ::{ flag=CA }:: | **6** | 4 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/118540024) | [#1](https://www.twitch.tv/videos/2499196622?t=1h5m57s) |
-| **Peru** ::{ flag=PE }:: | **6** | 3 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/118540582) | [#1](https://www.twitch.tv/videos/2499196622?t=2h21m41s) |
+| **Argentina** ::{ flag=AR }:: | **6** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/118538470) | [#1](https://youtu.be/U-G10zJGyWs?t=28091) |
+| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/118539528) | [#1](https://youtu.be/U-G10zJGyWs?t=351) |
+| **Canada** ::{ flag=CA }:: | **6** | 4 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/118540024) | [#1](https://youtu.be/U-G10zJGyWs?t=3958) |
+| **Peru** ::{ flag=PE }:: | **6** | 3 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/118540582) | [#1](https://youtu.be/U-G10zJGyWs?t=8508) |
 
 ### Round of 16
 
@@ -402,27 +406,27 @@ Saturday, 21 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Iceland ::{ flag=IS }:: | 0 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches118462137) | [#1](https://www.twitch.tv/videos/2492026179?t=0h4m48s) |
-| Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches118462140) | [#1](https://www.twitch.tv/videos/2492058122) |
-| **Japan** ::{ flag=JP }:: | **6** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/118462718) | [#1](https://www.twitch.tv/videos/2492026179?t=1h5m11s) |
-| Israel ::{ flag=IL }:: | 0 | **6** | ::{ flag=MX }:: **Mexico** | [#1](https://osu.ppy.sh/community/matches/118464703) | [#1](https://www.twitch.tv/videos/2492191563?t=0h4m28s) |
-| **Argentina** ::{ flag=AR }:: | **6** | 1 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/118466813) | [#1](https://www.twitch.tv/videos/2492381700?t=0h4m53s) |
+| Iceland ::{ flag=IS }:: | 0 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/mp/118462137) | [#1](https://youtu.be/_6IK6Y3asIU?t=9735) |
+| Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/mp/118462140) | [#1](https://youtu.be/_6IK6Y3asIU?t=19957) |
+| **Japan** ::{ flag=JP }:: | **6** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/118462718) | [#1](https://youtu.be/_6IK6Y3asIU?t=13365) |
+| Israel ::{ flag=IL }:: | 0 | **6** | ::{ flag=MX }:: **Mexico** | [#1](https://osu.ppy.sh/community/matches/118464703) | [#1](https://youtu.be/_6IK6Y3asIU?t=17338) |
+| **Argentina** ::{ flag=AR }:: | **6** | 1 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/118466813) | [#1](https://youtu.be/_6IK6Y3asIU?t=290) |
 
 Sunday, 22 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Brazil ::{ flag=BR }:: | 0 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/118468507) | [#1](https://www.twitch.tv/videos/2492558770?t=0h5m34s) |
-| South Korea ::{ flag=KR }:: | 0 | **6** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/118468871) | [#1](https://www.twitch.tv/videos/2492558770?t=1h5m22s) |
-| Türkiye ::{ flag=TR }:: | 2 | **6** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/118471430) | [#1](https://www.twitch.tv/videos/2492835831?t=0h9m44s) |
-| Indonesia ::{ flag=ID }:: | 2 | **6** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/118472187) | [#1](https://www.twitch.tv/videos/2492835831?t=1h39m45s) |
-| Denmark ::{ flag=DK }:: | 0 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/118472670) | [#1](https://www.twitch.tv/videos/2492947752) |
-| Vietnam ::{ flag=VN }:: | 3 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/118472713) | [#1](https://www.twitch.tv/videos/2492835831?t=2h39m40s) |
-| **Italy** ::{ flag=IT }:: | **6** | 0 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/118473257) | [#1](https://www.twitch.tv/videos/2492989201) |
-| **United States** ::{ flag=US }:: | **6** | 3 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/118473926) | [#1](https://www.twitch.tv/videos/2492992095?t=0h9m34s) |
-| **Russian Federation** ::{ flag=RU }:: | **6** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/118474531) | [#1](https://www.twitch.tv/videos/2493074358) |
-| **Finland** ::{ flag=FI }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/118474547) | [#1](https://www.twitch.tv/videos/2492992095?t=1h9m40s) |
-| **France** ::{ flag=FR }:: | **6** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/118474861) | [#1](https://www.twitch.tv/videos/2492992095?t=1h48m12s) |
+| Brazil ::{ flag=BR }:: | 0 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/118468507) | [#1](https://youtu.be/_6IK6Y3asIU?t=3286) |
+| South Korea ::{ flag=KR }:: | 0 | **6** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/118468871) | [#1](https://youtu.be/_6IK6Y3asIU?t=6908) |
+| Türkiye ::{ flag=TR }:: | 2 | **6** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/118471430) | [#1](https://youtu.be/_6IK6Y3asIU?t=23198) |
+| Indonesia ::{ flag=ID }:: | 2 | **6** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/118472187) | [#1](https://youtu.be/_6IK6Y3asIU?t=28601) |
+| Denmark ::{ flag=DK }:: | 0 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/118472670) | [#1](https://youtu.be/WDa-if2dvhs?t=15469) |
+| Vietnam ::{ flag=VN }:: | 3 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/118472713) | [#1](https://youtu.be/_6IK6Y3asIU?t=32218) |
+| **Italy** ::{ flag=IT }:: | **6** | 0 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/118473257) | [#1](https://youtu.be/WDa-if2dvhs?t=17775) |
+| **United States** ::{ flag=US }:: | **6** | 3 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/118473926) | [#1](https://youtu.be/WDa-if2dvhs?t=578) |
+| **Russian Federation** ::{ flag=RU }:: | **6** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/118474531) | [#1](https://youtu.be/WDa-if2dvhs?t=20022) |
+| **Finland** ::{ flag=FI }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/118474547) | [#1](https://youtu.be/WDa-if2dvhs?t=4182) |
+| **France** ::{ flag=FR }:: | **6** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/118474861) | [#1](https://youtu.be/WDa-if2dvhs?t=6489) |
 
 ### Round of 32
 
@@ -432,32 +436,32 @@ Saturday, 14 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Germany** ::{ flag=DE }:: | **5** | 4 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/118392467) | [#1](https://www.twitch.tv/videos/2485748756?t=0h0m33s) |
-| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/118393084) | [#1](https://www.twitch.tv/videos/2485819636) |
-| **Indonesia** ::{ flag=ID }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/118393064) | [#1](https://www.twitch.tv/videos/2485783939?t=0h0m56s) |
-| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/118394799) | [#1](https://www.twitch.tv/videos/2485889954?t=0h5m18s) |
-| **Sweden** ::{ flag=SE }:: | **5** | 4 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/118395477) | [#1](https://www.twitch.tv/videos/2485889954?t=2h11m45s) |
-| **Canada** ::{ flag=CA }:: | **5** | 4 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/118396127) | [#1](https://www.twitch.tv/videos/2485889954?t=2h11m45s) |
-| **Argentina** ::{ flag=AR }:: | **5** | 0 | ::{ flag=IL }:: Israel | [#1](https://osu.ppy.sh/community/matches/118396055) | [#1](https://www.twitch.tv/videos/2486017756) |
+| **Germany** ::{ flag=DE }:: | **5** | 4 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/118392467) | [#1](https://youtu.be/DBsHs7Od1os?t=11798) |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/118393084) | [#1](https://youtu.be/DBsHs7Od1os?t=19622) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/118393064) | [#1](https://youtu.be/DBsHs7Od1os?t=15575) |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/118394799) | [#1](https://youtu.be/DBsHs7Od1os?t=309) |
+| **Sweden** ::{ flag=SE }:: | **5** | 4 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/118395477) | [#1](https://youtu.be/DBsHs7Od1os?t=3909) |
+| **Canada** ::{ flag=CA }:: | **5** | 4 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/118396127) | [#1](https://youtu.be/DBsHs7Od1os?t=7859) |
+| **Argentina** ::{ flag=AR }:: | **5** | 0 | ::{ flag=IL }:: Israel | [#1](https://osu.ppy.sh/community/matches/118396055) | [#1](https://youtu.be/DBsHs7Od1os?t=17539) |
 
 Sunday, 15 June 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/118402693) | [#1](https://www.twitch.tv/videos/2486600408?t=0h5m37s) |
-| **Belgium** ::{ flag=BE }:: | **5** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/118403478) | [#1](https://www.twitch.tv/videos/2486650782?t=0h4m26s) |
-| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/118404610) | [#1](https://www.twitch.tv/videos/2486718794?t=0h4m28s) |
-| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/118405284) | [#1](https://www.twitch.tv/videos/2486718794?t=1h4m33s) |
-| **Italy** ::{ flag=IT }:: | **5** | 2 | ::{ flag=IS }:: Iceland | [#1](https://osu.ppy.sh/community/matches/118405895) | [#1](https://www.twitch.tv/videos/2486840146?t=0h37m41s) |
-| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/118405936) | [#1](https://www.twitch.tv/videos/2486840146) |
-| **Finland** ::{ flag=FI }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/118405845) | [#1](https://www.twitch.tv/videos/2486718794?t=2h4m30s) |
-| **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/118406208) | [#1](https://www.twitch.tv/videos/2486718794?t=2h36m7s) |
-| Mexico ::{ flag=MX }:: | 4 | **5** | ::{ flag=CO }:: **Colombia** | [#1](https://osu.ppy.sh/community/matches/118406737) | [#1](https://www.twitch.tv/videos/2486718794?t=3h34m31s) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/118402693) | [#1](https://youtu.be/IV3UINIJc3o?t=22476) |
+| **Belgium** ::{ flag=BE }:: | **5** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/118403478) | [#1](https://youtu.be/DBsHs7Od1os?t=21642) |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/118404610) | [#1](https://youtu.be/IV3UINIJc3o?t=273) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/118405284) | [#1](https://youtu.be/IV3UINIJc3o?t=3866) |
+| **Italy** ::{ flag=IT }:: | **5** | 2 | ::{ flag=IS }:: Iceland | [#1](https://osu.ppy.sh/community/matches/118405895) | [#1](https://youtu.be/IV3UINIJc3o?t=26813) |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/118405936) | [#1](https://youtu.be/IV3UINIJc3o?t=24585) |
+| **Finland** ::{ flag=FI }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/118405845) | [#1](https://youtu.be/IV3UINIJc3o?t=7479) |
+| **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/118406208) | [#1](https://youtu.be/IV3UINIJc3o?t=9368) |
+| Mexico ::{ flag=MX }:: | 4 | **5** | ::{ flag=CO }:: **Colombia** | [#1](https://osu.ppy.sh/community/matches/118406737) | [#1](https://youtu.be/IV3UINIJc3o?t=12864) |
 
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1wlJknIoI8rvwVT0etL82u5u4kbJ-Ao05G3yLquCGm_E?rm=minimal).\
-[View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2480836532?t=0h4m13s)
+[Watch the Qualifier seed reveal VOD here](https://youtu.be/G7Q7mh9_QmM?t=2694).
 
 | Seed | Country | %MAX[^qualifiers-seeding] | Average score[^qualifiers-tiebreaker] | Lobby link |
 | :-: | :-- | --: | --: | --: |
@@ -660,6 +664,3 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
-[^lb-grand-finals]: Losers bracket Grand Finals match
-[^grand-finals]: Grand Finals match
-[^showmatch]: Grand Finals showmatch – All-star CWC players
