@@ -18,7 +18,7 @@ If you want to read more about the rules, contest format, schedule, and judging 
 
 ## Registrations
 
-Registrations are open from now until August 17th! To register, please fill out [this form](https://forms.gle/8da1riW77rrTUd2R9), and join the contest's [Discord server](https://discord.com/invite/A33s9SU9Bt) to stay up to date with the latest news and announcements.
+Registrations are open from now until 00:00 (UTC) on August 17th! To register, please fill out [this form](https://forms.gle/poJrvrceL3E19bSE6), and join the contest's [Discord server](https://discord.com/invite/A33s9SU9Bt) to stay up to date with the latest news and announcements.
 
 If you have issues with submitting your registration through the form, please send [ikin5050](https://osu.ppy.sh/community/chat?sendto=4007649) or [Yasuho](https://osu.ppy.sh/community/chat?sendto=8458835) a message and they will sort things out for you.
 
@@ -30,13 +30,13 @@ Do note that it's required for the team captains to be present in the Discord se
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| Round 1 mapping phase | 2025-08-23 until 2025-09-07 |
-| Round 1 Judging phase | 2025-09-07 until 2025-09-27 |
-| Round 2 mapping phase | 2025-09-27 until 2025-10-12 |
-| Round 2 Judging phase | 2025-10-12 until 2025-11-01 |
-| Round 3 mapping phase | 2025-11-01 until 2025-11-23 |
-| Round 3 Judging phase | 2025-1-23 until 2025-12-13 |
-| Final Results | 2025-12-13 |
+| Round 1 mapping phase | August 23 until September 7 |
+| Round 1 judging phase | September 7 until September 27 |
+| Round 2 mapping phase | September 27 until October 12 |
+| Round 2 judging phase | October 12 until November 1 |
+| Round 3 mapping phase | November 11 until November 23 |
+| Round 3 judging phase | November 23 until December 13 |
+| Final results | December 13 |
 
 ## Prizes
 
@@ -50,7 +50,7 @@ The amount of contest points awarded will be determined by the number of mappers
 
 ---
 
-Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.com/invite/5ewzEEcUCB).
+Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2025), or you can ask questions in our [Discord server](https://discord.com/invite/5ewzEEcUCB).
 
 The first iteration of TMWC last year had a fantastic turnout and over 100 fantastic beatmaps produced. This year we are hoping to surpass those standards, so tell your friends and sign up today!
 

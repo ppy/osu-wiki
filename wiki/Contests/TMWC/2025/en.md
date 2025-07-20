@@ -16,13 +16,13 @@ Registrations open 20 July 2025. Each round consists of a mapping phase and a ju
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| Round 1 mapping phase | 2025-08-23 until 2025-09-07 |
-| Round 1 Judging phase | 2025-09-07 until 2025-09-27 |
-| Round 2 mapping phase | 2025-09-27 until 2025-10-12 |
-| Round 2 Judging phase | 2025-10-12 until 2025-11-01 |
-| Round 3 mapping phase | 2025-11-01 until 2025-11-23 |
-| Round 3 Judging phase | 2025-1-23 until 2025-12-13 |
-| Final Results | 2025-12-13 |
+| Round 1 mapping phase | 2025-08-23/2025-09-07 |
+| Round 1 judging phase | 2025-09-07/2025-09-27 |
+| Round 2 mapping phase | 2025-09-27/2025-10-12 |
+| Round 2 judging phase | 2025-10-12/2025-11-01 |
+| Round 3 mapping phase | 2025-11-01/2025-11-23 |
+| Round 3 judging phase | 2025-11-23/2025-12-13 |
+| Final results | 2025-12-13 |
 
 ## Prizes
 
@@ -44,8 +44,8 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 
 ## Links
 
-- [Contest news article](https://osu.ppy.sh/home/news/2025-07-20-osu-taiko-mapping-world-cup-2025-registrations)
-- [Contest forum post](https://osu.ppy.sh/community/forums/topics/2101898)
+- [Announcement news post](https://osu.ppy.sh/home/news/2025-07-20-osu-taiko-mapping-world-cup-2025-registrations)
+- [Forum post](https://osu.ppy.sh/community/forums/topics/2101898)
 - [Discord server](https://discord.com/invite/A33s9SU9Bt)
 - [**Registration form**](https://forms.gle/poJrvrceL3E19bSE6)
 
@@ -85,4 +85,4 @@ Scores will be reported as standardised scores.
 
 ## Notes
 
-[^cash-prize]: The cash prize pool was crowdfunded by the osu!taiko community.
+[^cash-prize]: The cash prize pool is crowdfunded by the osu!taiko community.
