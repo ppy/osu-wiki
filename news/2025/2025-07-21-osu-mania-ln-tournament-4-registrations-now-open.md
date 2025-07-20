@@ -9,7 +9,7 @@ Join us in the 4th installment of the osu!mania Long Note Tournament series — 
 ![](/wiki/shared/news/2025-07-21-osu-mania-ln-tournament-4-registrations-now-open/banner.jpg)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/NOJPfrxx9wI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The [osu!mania Long Note Tournament](/wiki/Tournaments/o!mLN/4) is more than what the title may initially suggest! It's an open-rank, free-for-all osu!mania 4K tournament series where all featured maps are predominantly made out of long notes (LN) — introducing long notes to competitive and casual players alike since 2019.
@@ -17,7 +17,7 @@ The [osu!mania Long Note Tournament](/wiki/Tournaments/o!mLN/4) is more than wha
 During our third iteration in 2022, we had the honor of hosting **164 registered players** duelling it out for the title of Best LN Player through a high-stakes, double elimination bracket, witnessing some of the greatest matchups known in the history of osu!mania 4K.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/r9MCInVDKFs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Thanks to the initiative of the mapping and production team, [o!mLN3](/wiki/Tournaments/o!mLN/3) also saw the creation of **56 custom maps** and **4 original songs**. If you would like to listen to our original music, be sure to check out [our osu!original listing.](/wiki/Community/Bespoke_music#community-run-tournament-releases)
@@ -26,11 +26,7 @@ Thanks to the initiative of the mapping and production team, [o!mLN3](/wiki/Tour
 
 This year, we open with a mysterious title, **Inverse World of Nouille**. We not only hope to bring top-tier rivalry between many of the stars of the tournament scene, but also step up massively in terms of overall production. From vast lineups of music to stunning illustrations, you can be sure of finding your favorite bowl of noodles among those we have to offer!
 
-Is the competition too tough for you, yet you don't want to miss on all the fun? No problem! To put our original tracks under the limelight as well as to encourage participation from both spectators and eliminated players alike, we will also be hosting **Ordeal In Illusion**. This event will be running in parallel to the tournament and will allow anyone to battle for the highest score on original songs.
-
-<!-- The paragraph below is somewhat of a mess. Too much exposure. Should make the explanation much, much briefer. Details should be saved for the forum post, wiki, or Discord server itself -->
-
-To participate in Ordeal In Illusion, players can simply register with their osu! account through a bot within the Discord server and await the release of originals every week. From the Round of 64 showcase, unlimited tries are provided to registered players to upload a replay of their best score on each newly released original to the same bot **before the next showcase**. Participants who set a score on an original before its corresponding leaderboard is frozen will receive **Tickets** based on their ranking on it, which gives a chance for them to be picked as 1 of 3 winners in a **Lucky Draw** taking place after the end of the tournament.
+Is the competition too tough for you, yet you don't want to miss on all the fun? No problem! To put our original tracks under the limelight as well as to encourage participation from both spectators and eliminated players alike, we will also be hosting **Ordeal In Illusion**. This event will be running in parallel to the tournament and will allow anyone to battle for the highest score on original songs. To participate in Ordeal In Illusion, you will need to authenticate your osu! account through a bot within our [Discord server](https://discord.gg/W6zs7mEjxY). You will then be able to compete for the highest scores on our original tracks released every week! Aside from bragging rights, all participants earn **Lucky Draw Tickets** based on their standing on each original beatmap's leader board, giving them a non-zero chance to win the Lucky Draw and take home part of the prize pool.
 
 Whether it be the competition, prizes or the production itself, you will definitely have your fill this year — it's all on the house!
 
@@ -51,19 +47,20 @@ Whether it be the competition, prizes or the production itself, you will definit
 
 ## Prizes
 
-The prize pool for o!mLN4 will be split into 2 sections, the **tournament prize pool** and the **event prize pool**.
+The prize pool for o!mLN4 will be split into 2 sections, the **regular prize pool** and the **event prize pool**.
 
-The tournament prize pool will be awarded to the top 3 players in the tournament bracket:
+The tournament prize pool will be awarded to the top 6 players in the tournament bracket:
 
-- **1st Place:** 50% of the tournament prize pool and an o!mLN4 Profile badge.
-- **2nd Place:** 30% of the tournament prize pool.
-- **3rd Place:** 20% of the tournament prize pool.
+- **1st Place:** 40% of the regular prize pool and an o!mLN4 Profile badge.
+- **2nd Place:** 25% of the regular prize pool.
+- **3rd Place:** 20% of the regular prize pool.
+- **4th - 6th Place:** 5% of the regular prize pool each.
 
 On the other hand, the event prize pool will be awarded to 3 winners whose tickets were selected during the lucky draw at the end of the tournament:
 
 - **Winners (3)**: 33% of the event prize pool each.
 
-The tournament prize pool starts at 240 USD, while the event prize pool starts from scratch. Community donations will contribute to both prize pools in the ratio 70/30 respectively.
+The tournament prize pool starts at 450 USD, while the event prize pool starts from 100 USD. Community donations will contribute to both prize pools in the ratio 70/30 respectively.
 
 ## How do I register?
 
