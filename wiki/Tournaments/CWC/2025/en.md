@@ -111,7 +111,7 @@ The osu!catch World Cup 2025 was run by various community members.
 | ::{ flag=US }:: | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149), [Elux](https://osu.ppy.sh/users/12004983), [The 47th](https://osu.ppy.sh/users/4990320), [yeeeter](https://osu.ppy.sh/users/15274666) |
 | ::{ flag=VN }:: | **Vietnam** | **[Stardust Prism](https://osu.ppy.sh/users/8525921)**, [ARL](https://osu.ppy.sh/users/15778330), [mothernature](https://osu.ppy.sh/users/6403418), [NamSPro](https://osu.ppy.sh/users/11387006), [Shu](https://osu.ppy.sh/users/4744615) |
 
-Captains are listed in **bold**.\The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a8df801dc4c99f192694621928b231).
+Captains are listed in **bold**. The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/19a8df801dc4c99f192694621928b231).
 
 ## Podium
 
