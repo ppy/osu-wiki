@@ -12,7 +12,7 @@ Join us in the 4th installment of the osu!mania Long Note Tournament series — 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/NOJPfrxx9wI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The [osu!mania Long Note Tournament](/wiki/Tournaments/o!mLN/4) is more than what the title may initially suggest! It's an open-rank, free-for-all osu!mania 4K tournament series where all featured maps are predominantly made out of long notes (LN) — introducing long notes to competitive and casual players alike since 2019.
+The [osu!mania Long Note Tournament](/wiki/Tournaments/o!mLN) is more than what the title may initially suggest! It's an open-rank, free-for-all osu!mania 4K tournament series where all featured maps are predominantly made out of long notes (LN) — introducing long notes to competitive and casual players alike since 2019.
 
 During our third iteration in 2022, we had the honor of hosting **164 registered players** duelling it out for the title of Best LN Player through a high-stakes, double elimination bracket, witnessing some of the greatest matchups known in the history of osu!mania 4K.
 
@@ -71,7 +71,7 @@ In order to participate in the tournament, do note that you will have to fulfill
 - You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.
 - You must not be under a tournament ban from participating in badged tournaments.
 
-If you are simply interested in partaking in **Ordeal In Illusion**, feel free to join the [o!mLN tournament Discord server](https://discord.gg/W6zs7mEjxY) and authenticate your osu! account with our tournament bot in `#ordeal-in-illusion` to get started. More details and rules regarding o!mLN4 can also be found on our [forum post](), [wiki page](/wiki/Tournaments/o!mLN/4) and [master sheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?pli=1&gid=557086685#gid=557086685). 
+If you are simply interested in partaking in **Ordeal In Illusion**, feel free to join the [o!mLN tournament Discord server](https://discord.gg/W6zs7mEjxY) and authenticate your osu! account with our tournament bot in `#ordeal-in-illusion` to get started. More details and rules regarding o!mLN4 can also be found on our [forum post](https://osu.ppy.sh/community/forums/topics/2107479?n=1), [wiki page](/wiki/Tournaments/o!mLN) and [master sheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?pli=1&gid=557086685#gid=557086685). 
 
 ## Where can I spectate?
 
