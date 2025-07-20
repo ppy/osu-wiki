@@ -14,7 +14,7 @@ Following feedback on last year's contest, this year's format will be less deman
 
 Team sizes will range from 3 to 6 people, with the ability to have multiple teams per country depending on the amount of sign-ups. If there isn't a sufficient amount of people from a country to create a team, the registered participants will be combined with other participants from their geographical region in the same situation. The aim of this contest is to allow everyone to participate after all!
 
-If you want to read more about the rules, contest format, schedule, and judging criteria, please check out this contest's [wiki page](/wiki/Contests/TMWC/2025) and [forum post](https://osu.ppy.sh/community/forums/topics/) for more information.
+If you want to read more about the rules, contest format, schedule, and judging criteria, please check out this contest's [wiki page](/wiki/Contests/TMWC/2025) and [forum post](https://osu.ppy.sh/community/forums/topics/2101898) for more information.
 
 ## Registrations
 
@@ -40,6 +40,6 @@ The amount of contest points awarded will be determined by the number of mappers
 
 Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.com/invite/5ewzEEcUCB).
 
-Last year for the first iteration of TMWC we had a fantastic turnout and over 100 fantastic beatmaps produced. This year we are hoping to surpass last year's standards, so tell your friends and sign up today!
+The first iteration of TMWC last year had a fantastic turnout and over 100 fantastic beatmaps produced. This year we are hoping to surpass those standards, so tell your friends and sign up today!
 
 —ikin5050 & Yasuho

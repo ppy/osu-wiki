@@ -16,13 +16,13 @@ Registrations open 18 July 2025. Each round consists of a mapping phase and a ju
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| Round 1 mapping phase | 2024-08-23 until 2024-09-07 |
-| Round 1 Judging phase | 2024-09-07 until 2024-09-27 |
-| Round 2 mapping phase | 2024-09-27 until 2024-10-12 |
-| Round 2 Judging phase | 2024-10-12 until 2024-11-01 |
-| Round 3 mapping phase | 2024-11-01 until 2024-11-23 |
-| Round 3 Judging phase | 2024-1-23 until 2024-12-13 |
-| Final Results | 2024-12-13 |
+| Round 1 mapping phase | 2025-08-23 until 2025-09-07 |
+| Round 1 Judging phase | 2025-09-07 until 2025-09-27 |
+| Round 2 mapping phase | 2025-09-27 until 2025-10-12 |
+| Round 2 Judging phase | 2025-10-12 until 2025-11-01 |
+| Round 3 mapping phase | 2025-11-01 until 2025-11-23 |
+| Round 3 Judging phase | 2025-1-23 until 2025-12-13 |
+| Final Results | 2025-12-13 |
 
 ## Prizes
 
@@ -40,11 +40,11 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 | :-- | :-- |
 | Host | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
 | Designers | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Judges | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=UK }:: [Skidooskei](https://osu.ppy.sh/users/10079029) |
+| Judges | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=GB }:: [Skidooskei](https://osu.ppy.sh/users/10079029) |
 
 ## Links
 
-- [Contest news article]()
+- [Contest news article](https://osu.ppy.sh/home/news/2025-07-20-osu-taiko-mapping-world-cup-2025-registrations)
 - [Contest forum post](https://osu.ppy.sh/community/forums/topics/2101898)
 - [Discord server](https://discord.com/invite/A33s9SU9Bt)
 - [**Registration form**](https://forms.gle/poJrvrceL3E19bSE6)
