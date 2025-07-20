@@ -68,7 +68,7 @@ The osu!taiko Mapping World Cup 2024 was run by various community members.
 - [Announcement news post](https://osu.ppy.sh/home/news/2024-05-17-osu-taiko-mapping-world-cup-2024-registrations)
 - [Forum post](https://osu.ppy.sh/community/forums/topics/1865674)
 - [Contest listing](https://osu.ppy.sh/community/contests/212)
-- [Discord server](https://discord.com/invite/A33s9SU9Bt)
+- [Discord server](https://discord.com/invite/5ewzEEcUCB)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1TJfreAbuk25zua2Zp5ncH1BA5QkhzEMpgkLhbal-Ri0/edit?usp=sharing)
 - [Results stream VOD](https://www.twitch.tv/videos/2280875462)
 

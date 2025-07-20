@@ -18,7 +18,7 @@ If you want to read more about the rules, contest format, schedule, and judging 
 
 ## Registrations
 
-Registrations are open from now until 00:00 (UTC) on August 17th! To register, please fill out [this form](https://forms.gle/poJrvrceL3E19bSE6), and join the contest's [Discord server](https://discord.com/invite/A33s9SU9Bt) to stay up to date with the latest news and announcements.
+Registrations are open from now until 00:00 (UTC) on August 17th! To register, please fill out [this form](https://forms.gle/poJrvrceL3E19bSE6), and join the contest's [Discord server](https://discord.com/invite/5ewzEEcUCB) to stay up to date with the latest news and announcements.
 
 If you have issues with submitting your registration through the form, please send [ikin5050](https://osu.ppy.sh/community/chat?sendto=4007649) or [Yasuho](https://osu.ppy.sh/community/chat?sendto=8458835) a message and they will sort things out for you.
 

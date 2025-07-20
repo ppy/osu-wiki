@@ -47,7 +47,7 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 - [Announcement news post](https://osu.ppy.sh/home/news/2025-07-20-osu-taiko-mapping-world-cup-2025-registrations)
 - [Forum post](https://osu.ppy.sh/community/forums/topics/2101898)
 - [Contest listing](https://osu.ppy.sh/community/contests/252)
-- [Discord server](https://discord.com/invite/A33s9SU9Bt)
+- [Discord server](https://discord.com/invite/5ewzEEcUCB)
 - [**Registration form**](https://forms.gle/poJrvrceL3E19bSE6)
 
 ## Ruleset
@@ -66,7 +66,7 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 - **The [osu! community rules](/wiki/Rules) are in place at all times during this contest.**
 - **The [osu!taiko ranking criteria](/wiki/Ranking_criteria/osu!taiko) and the [general ranking criteria](/wiki/Ranking_criteria) are in effect for this contest.** No submission may be intentionally unrankable. Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified.
 - **A team must consist of 3–6 players from the same country.** For countries that do not have enough members to participate, teams will be formed by the organisation team based on geographical location. Countries are defined as per the flag on user pages.
-- **At least one (1) team member must join the contest's [Discord server](https://discord.com/invite/A33s9SU9Bt)**
+- **At least one (1) team member must join the contest's [Discord server](https://discord.com/invite/5ewzEEcUCB)**
 - **At least three (3) mappers must collaborate per song.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating country. We want to avoid situations amongst teams where some members get ‘carried’. Collaboration does not include anything other than mapping (notes/scroll speed changes/volume changes), providing feedback does not count.
 - **A mapper on the winning team must participate in a minimum of 2 out of the 3 maps produced to receive their rewards for the contest.**
 - **Submissions will not be accepted after the deadlines set for each round.**
