@@ -16,9 +16,9 @@ Se añadió una [lista de transmisiones en vivo](https://osu.ppy.sh/community/li
 
 ## Agosto
 
-osu! recibió una actualización que incluía una versión del [grado](/wiki/Gameplay/Grade) SS para el mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_death) y filtros de modos de juego para la lista de usuarios, entre otras cosas.[^stable-b0813]
+osu! recibió una actualización que incluía una versión del [grado](/wiki/Gameplay/Grade) SS para el mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_death) y filtros para los modos de juego en la lista de usuarios, entre otras cosas.[^stable-b0813]
 
-Del 11 de junio al 1 de julio, los participantes en el [osu! 2012 T-shirt Design Contest](https://osu.ppy.sh/community/forums/topics/86971?n=1) tuvieron que crear ilustraciones para las camisetas que se vendían en la osu!store. Después del concurso, se organizó una votación pública para decidir a los ganadores. ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) ganó el 1er lugar con 324 votos. Entre los premios para los finalistas figuraban una camiseta con la ilustración del usuario impresa en ella, un regalo de 20 $ para gastar libremente en cualquier mercancía disponible y diversas cantidades de osu!supporter.[^shirt-voting][^shirt-winner]
+Del 11 de junio al 1 de julio, los participantes del [osu! 2012 T-shirt Design Contest](https://osu.ppy.sh/community/forums/topics/86971?n=1) tuvieron que crear ilustraciones para las camisetas que se vendían en la osu!store. Después del concurso, se organizó una votación pública para decidir a los ganadores. ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) ganó el 1er lugar con 324 votos. Entre los premios para los finalistas figuraban una camiseta con la ilustración del usuario impresa en ella, un regalo de 20 $ para gastar libremente en cualquier mercancía disponible y diversas cantidades de osu!supporter.[^shirt-voting][^shirt-winner]
 
 ![](img/shirt-contest.png "Ilustración ganadora del concurso hecha por Ballance1st")
 
@@ -92,7 +92,7 @@ El 21 de diciembre, osu! recibió nuevas funciones y cambios, entre los que dest
 1. Soporte para pantallas panorámicas.
 2. Una pantalla de carga al entrar a un beatmap.
 3. Los ajustes de `Fun Spoiler` se reemplazaron por el nuevo menú de la [configuración visual](/wiki/Client/Interface/Visual_settings), que se colocó en la parte inferior de la pantalla.
-4. El mod [No Video](/wiki/Gameplay/Game_modifier/No_video) se movió al menú de la configuración visual.
+4. El mod [No Video](/wiki/Gameplay/Game_modifier/No_video) se convirtió en una opción de la configuración visual.
 
 El soporte para pantallas panorámicas, a pesar de ser funcional, hacía que algunas imágenes y vídeos se vieran raros (no se veía la cabeza de un personaje y faltaba texto o estaba parcialmente oculto) porque la parte superior e inferior estaban recortadas. Los [storyboards](/wiki/Storyboard) no eran compatibles con las pantallas panorámicas en aquella época, sino que aparecían cuadros o barras negras a los lados que hacían que parecieran estrechas. Esto creaba un problema en Catch the Beat[^catch], ya que las frutas pasaban *por encima* de las barras negras, que se suponía que estaban en el límite cuando se usaba una pantalla panorámica. Algunos storyboards tampoco funcionaban correctamente (algunas imágenes no permanecían en el área de juego, sino que se extendían hasta las barras negras).[^stable-b1221]
 
