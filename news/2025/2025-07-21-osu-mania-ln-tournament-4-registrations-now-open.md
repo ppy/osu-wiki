@@ -60,7 +60,7 @@ On the other hand, the event prize pool will be awarded to 3 winners whose ticke
 
 - **Winners (3)**: 33% of the event prize pool each.
 
-The tournament prize pool starts at 450 USD, while the event prize pool starts from 100USD. Community donations will contribute to both prize pools in the ratio 70/30 respectively.
+The tournament prize pool starts at 450 USD, while the event prize pool starts from 100 USD. Community donations will contribute to both prize pools in the ratio 70/30 respectively.
 
 ## How do I register?
 
