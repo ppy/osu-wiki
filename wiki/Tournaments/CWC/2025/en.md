@@ -392,7 +392,7 @@ Sunday, 29 June 2025:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/118536756) | [#1](https://youtu.be/U-G10zJGyWs?t=19602) |
 | Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/118538200) | [#1](https://youtu.be/U-G10zJGyWs?t=22674) |
-| **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/118538491) | [#1](https://www.twitch.tv/videos/2499104106?t=1h3m10s) |
+| **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/118538491) | [#1](https://youtu.be/U-G10zJGyWs?t=26179) |
 | **Argentina** ::{ flag=AR }:: | **6** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/118538470) | [#1](https://youtu.be/U-G10zJGyWs?t=28091) |
 | **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/118539528) | [#1](https://youtu.be/U-G10zJGyWs?t=351) |
 | **Canada** ::{ flag=CA }:: | **6** | 4 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/118540024) | [#1](https://youtu.be/U-G10zJGyWs?t=3958) |
