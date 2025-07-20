@@ -318,14 +318,14 @@ Saturday, 19 July 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| All-stars Red | 7 | 4 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/118721742) | [#1](https://www.twitch.tv/videos/2516734145&t=0h4m49s) |
+| All-stars Red | 7 | 4 | All-stars Blue | [#1](https://osu.ppy.sh/community/matches/118721742) | [#1](https://www.twitch.tv/videos/2516734145?t=0h4m49s) |
 
 Sunday, 20 July 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **United States** ::{ flag=US }:: | **7** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/118732341) | [#1](https://www.twitch.tv/videos/2517677050&t=0h5m1s) |
-| **Argentina** ::{ flag=AR }:: | **7** | 2 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/118732915) | [#1](https://www.twitch.tv/videos/2517677050&t=1h5m4s) |
+| **United States** ::{ flag=US }:: | **7** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/118732341) | [#1](https://www.twitch.tv/videos/2517677050?t=0h5m1s) |
+| **Argentina** ::{ flag=AR }:: | **7** | 2 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/118732915) | [#1](https://www.twitch.tv/videos/2517677050?t=1h5m4s) |
 
 ### Finals
 
