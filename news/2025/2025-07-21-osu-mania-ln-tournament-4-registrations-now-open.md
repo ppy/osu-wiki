@@ -64,7 +64,7 @@ The tournament prize pool starts at 450 USD, while the event prize pool starts f
 
 ## How do I register?
 
-If you would like to **sign up for the tournament**, you simply have to fill our [player registration form](https://docs.google.com/forms/d/1218mYihBDuUrVf1n7EB69H1aMouFV_wRhDyL5Yja9WI/edit)!
+If you would like to **sign up for the tournament**, you simply have to fill our [player registration form](https://forms.gle/moE3sNem1HbmH28YA)!
 
 In order to participate in the tournament, do note that you will have to fulfill the following criteria:
 
@@ -75,7 +75,7 @@ If you are simply interested in partaking in **Ordeal In Illusion**, feel free t
 
 ## Where can I spectate?
 
-o!mLN4 will have an official [Twitch stream](https://www.twitch.tv/osumanialive), as well as a Chinese restream over at [bilibili (link TBC)](). Join us in witnessing exciting matchups between the best osu!mania LN players of our time!
+o!mLN4 will have an official [Twitch stream](https://www.twitch.tv/osumanialive). Make sure to join us in witnessing exciting matchups between the best osu!mania LN players of our time!
 
 Spectator or player, we hope to see you at the opening of o!mLN4: Inverse World of Nouille.
 
