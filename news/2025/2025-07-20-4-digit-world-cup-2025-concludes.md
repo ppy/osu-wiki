@@ -179,11 +179,11 @@ As for how we'd compare to other teams, right now it's hard to say. Most of the 
 
 </div>
 
-::{#godskin-noble}::
+::{#pezz}::
 
 ![](/wiki/shared/news/2025-07-20-4-digit-world-cup-2025-concludes/interview-banner-pezz.png)
 
-[Godskin Noble](https://osu.ppy.sh/users/10651106) (a.k.a. Pezz), after winning the [2023](https://osu.ppy.sh/community/forums/topics/1761090?n=1) and [2024](/wiki/Tournaments/4WC/2024) iterations of 4WC, turned to mappooling to continue his involvement with the series.
+[Pezz](https://osu.ppy.sh/users/10651106) (a.k.a. Godskin Noble), after winning the [2023](https://osu.ppy.sh/community/forums/topics/1761090?n=1) and [2024](/wiki/Tournaments/4WC/2024) iterations of 4WC, turned to mappooling to continue his involvement with the series.
 
 <div class="news-chat-quote__text-container">
 
@@ -195,7 +195,7 @@ While the US team has stayed mostly the same for the past 3 years of their domin
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10651106" style="background-image: url('/wiki/shared/avatars/Godskin_Noble.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10651106">Godskin Noble</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10651106">Pezz</a></p>
 
 While I'm no stranger to pooling, I've never been a part of a project that I had participated in the past. Going from playing two years in a row to pooling was a super interesting experience. It helped knowing almost everyone on the team prior, but joining the pooling team, more than anything, showed me how much people really care about the project. I always found myself peeping other staff channels to see what was going on and without fail saw passionate individuals who really cared about the project. From the "BWS poll incident" to Grands Finals, people kept their passion the entire way through, and that's not something you get in many other places.
 
@@ -209,7 +209,7 @@ How does mappooling for a world cup-style tournament, especially when accompanie
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10651106" style="background-image: url('/wiki/shared/avatars/Godskin_Noble.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10651106">Godskin Noble</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10651106">Pezz</a></p>
 
 Well, it really depends on the tournament. I think at this point I've been in just about every scenario you can imagine, from random tournaments with only a single pooler and playtester, to now 4WC with an extensive list of playtesters. I think the most significant thing you get in an environment like this is many different perspectives, and people who consistently show up week after week. With twenty plus playtesters, you're able to capture much better how the playerbase will actually react to certain maps, especially when compared to more "humble" tournaments.
 
@@ -223,7 +223,7 @@ Your inclusion to the pooling team coincided with a bit of an ideology shift in 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10651106" style="background-image: url('/wiki/shared/avatars/Godskin_Noble.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10651106">Godskin Noble</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10651106">Pezz</a></p>
 
 I think this iteration's pools compared to last felt more like "4WC". The previous two iterations I played in, at least to me, both felt like "3WC but for 4 digits". This iteration, however, felt a lot more fitting. I think both the lowering in difficulty and map selection went into this feeling, and I'm proud of what we ended up with. Everything just illuminated perfectly this time around. Shine on!
 
@@ -235,7 +235,7 @@ Do you have any advice for new faces looking to get into mappooling?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10651106" style="background-image: url('/wiki/shared/avatars/Godskin_Noble.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10651106">Godskin Noble</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10651106">Pezz</a></p>
 
 While I could answer this with so many different things, truthfully speaking I think the most important part for any new pooler is to enjoy doing it and be proud of what you create. I could tell you to look at the tools available, join [poolingcore](/wiki/Community/Discord_servers#tournaments), get a more experienced pooler to look over what you do, but none of that is as important as having fun and liking the pools you put out. Stay positive!
 
