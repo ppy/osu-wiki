@@ -63,8 +63,8 @@ Terdapat dua cara untuk menambahkan beatmap, yaitu dengan mengunduh melalui situ
 
 *Lihat juga: [Skinning](/wiki/Skinning)*
 
-1. Kunjungi [sub-forum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu gemari.
-2. Setelah kamu menemukan skin yang kamu inginkan, unduh skin tersebut.
+1. Kunjungi [forum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu gemari.
+2. Setelah kamu menemukan skin yang kamu inginkan, unduh skin ini.
 3. Tergantung pada bagaimana pembuat skin menyediakan berkas skin mereka, kamu mungkin perlu untuk melakukan hal yang berbeda.
    - Apabila berkas skin ini disediakan dalam format `.osk`:
      1. Buka berkas skin yang telah diunduh, atau tarik dan seret (*drag-and-drop*) berkas ini ke dalam layar osu!.

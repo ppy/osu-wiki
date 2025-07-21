@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 stub: true
 tags:
   - DS
@@ -12,15 +13,16 @@ tags:
   - Osu! Tatakae! Ouendan!
   - Osu Tatakae Ouendan
   - Ouendan
+  - permainan asli
 ---
 
-# Permainan-permainan iNiS
+# Permainan iNiS
 
 *Lihat juga: [osu! (disambiguasi)](/wiki/Disambiguation/osu!)*
 
-Nama "osu!" serta [mode permainan osu! itu sendiri](/wiki/Game_mode) berasal dari rangkaian *rhythm game* yang dikembangkan oleh **[iNiS](https://en.wikipedia.org/wiki/INiS)** untuk [Nintendo DS](https://id.wikipedia.org/wiki/Nintendo_DS) pada awal tahun 2000-an. Pada awal berdirinya osu!, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) mengembangkan osu! sebagai suatu simulator dan editor level untuk permainan-permainan iNiS. Berhubung para anggota komunitas osu! di kala itu pada umumnya juga merupakan penggemar permainan-permainan yang sama, desain [beatmap-beatmap](/wiki/Beatmap) yang ada pada saat itu juga sangat dipengaruhi oleh level-level yang dibuat oleh iNiS.
+Mode [osu!](/wiki/Game_mode/osu!) dan permainan osu! itu sendiri pada awalnya dirancang berdasarkan serial permainan ritme yang dikembangkan oleh **[iNiS](https://en.wikipedia.org/wiki/INiS_Corporation)** untuk [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS) di awal tahun 2000-an. Pada mulanya, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) membuat osu! untuk menjadi simulator dan editor level permainan iNiS, dan para anggota komunitas osu! di kala itu juga pada umumnya merupakan penggemar dari permainan ini. [Beatmap](/wiki/Beatmap) lawas yang ada di osu! sering kalinya sangat dipengaruhi oleh rancangan level iNiS.
 
-Permainan-permainan iNis ini antara lain meliputi:
+Permainan iNiS ini meliputi:
 
 - [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (*Ouendan*)
 - [Elite Beat Agents](#elite-beat-agents) (*EBA*)
@@ -28,6 +30,8 @@ Permainan-permainan iNis ini antara lain meliputi:
 
 ## Elite Beat Agents
 
-![](img/Elite-Beat-Agents.jpg "Desain kemasan untuk Elite Beat Agents")
+![](img/Elite-Beat-Agents.jpg "Gambar sampul Elite Beat Agents")
 
-***[Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents)*** merupakan sekuel dari **Osu! Tatakae! Ouendan!** yang dirilis pada tahun 2006 untuk pasar internasional. Beberapa karakter dari permainan ini pernah diangkat menjadi maskot-maskot resmi osu!, yang kenampakannya dapat dilihat pada elemen-elemen UI serta skin *default* yang digunakan pada masanya dahulu.
+***[Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents)*** merupakan sekuel *Osu! Tatakae! Ouendan!* versi Barat yang dirilis pada tahun 2006. Sebagian karakter dari permainan ini sempat digunakan sebagai maskot osu! pada berbagai gambar ilustrasi dan skin resmi.
+
+<!--TODO: Insert lots of links and sections for Ouendan games, talk about which game mechanics are old and new -->

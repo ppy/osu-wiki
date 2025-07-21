@@ -67,7 +67,7 @@ Here are all the available tracks for this year's edition:
   </audio>
 </div>
 
-[Download the `.osz` template here!](https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.osz)
+[Download the `.osz` template here!](https://assets.ppy.sh/artists/277/Sports/Beach_Bunny_-_Sports.osz)
 
 ### Ricky Montgomery - Cabo
 
