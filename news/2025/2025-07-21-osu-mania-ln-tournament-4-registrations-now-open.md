@@ -14,36 +14,38 @@ Join us in the 4th installment of the osu!mania Long Note Tournament series — 
 
 The [osu!mania Long Note Tournament](/wiki/Tournaments/o!mLN) is more than what the title may initially suggest! It's an open-rank, free-for-all osu!mania 4K tournament series where all featured maps are predominantly made out of long notes (LN) — introducing long notes to competitive and casual players alike since 2019.
 
-During our third iteration in 2022, we had the honor of hosting **164 registered players** duelling it out for the title of Best LN Player through a high-stakes, double elimination bracket, witnessing some of the greatest matchups known in the history of osu!mania 4K.
+During our third iteration in 2022, we had the honor of hosting **164 registered players** duelling it out for the title of *Best LN Player* through a high-stakes, double-elimination bracket, witnessing some of the greatest matchups known in the history of osu!mania 4K.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/r9MCInVDKFs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Thanks to the initiative of the mapping and production team, [o!mLN3](/wiki/Tournaments/o!mLN/3) also saw the creation of **56 custom maps** and **4 original songs**. If you would like to listen to our original music, be sure to check out [our osu!original listing.](/wiki/Community/Bespoke_music#community-run-tournament-releases)
+Thanks to the initiative of the mapping and production team, [o!mLN3](/wiki/Tournaments/o!mLN/3) also saw the creation of **56 custom maps** and **4 original songs**. If you would like to listen to our original music, be sure to check out the [full list on the wiki](/wiki/Community/Bespoke_music#osu!mania-ln-tournament-3).
 
 ## What's new this edition?
 
 This year, we open with a mysterious title, **Inverse World of Nouille**. We not only hope to bring top-tier rivalry between many of the stars of the tournament scene, but also step up massively in terms of overall production. From vast lineups of music to stunning illustrations, you can be sure of finding your favorite bowl of noodles among those we have to offer!
 
-Is the competition too tough for you, yet you don't want to miss on all the fun? No problem! To put our original tracks under the limelight as well as to encourage participation from both spectators and eliminated players alike, we will also be hosting **Ordeal In Illusion**. This event will be running in parallel to the tournament and will allow anyone to battle for the highest score on original songs. To participate in Ordeal In Illusion, you will need to authenticate your osu! account through a bot within our [Discord server](https://discord.gg/W6zs7mEjxY). You will then be able to compete for the highest scores on our original tracks released every week! Aside from bragging rights, all participants earn **Lucky Draw Tickets** based on their standing on each original beatmap's leader board, giving them a non-zero chance to win the Lucky Draw and take home part of the prize pool.
+Is the competition too tough for you, yet you don't want to miss on all the fun? No problem! To put our original tracks under the limelight as well as to encourage participation from both spectators and eliminated players alike, we will also be hosting **Ordeal In Illusion**. This is an event that will be running in parallel to the tournament and allow anyone to battle for the highest score on original songs.
+
+To participate in Ordeal In Illusion, you will need to authenticate your osu! account through a bot within our [Discord server](https://discord.com/invite/W6zs7mEjxY). You will then be able to compete for the highest scores on our original tracks released every week! Aside from bragging rights, all participants earn **Lucky Draw Tickets** based on their standing on each original beatmap's leaderboard, giving them a non-zero chance to win the Lucky Draw and take home part of the prize pool.
 
 Whether it be the competition, prizes or the production itself, you will definitely have your fill this year — it's all on the house!
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Dates |
 | --: | :-- |
-| Registration Phase | 21 July - 18 August 2025 (13:59 UTC) |
-| Qualifier Showcase | 7 September 2025 (14:00 UTC) |
-| Qualifiers | 8 September - 14 September 2025 |
-| Round of 64 | 15 September - 21 September 2025 |
-| Round of 32 | 22 September - 28 September 2025 |
-| Round of 16 | 29 September - 5 October 2025 |
-| Quarterfinals | 6 October - 12 October 2025 |
-| Semifinals | 13 October - 19 October 2025 |
-| Finals | 20 October - 26 October 2025 |
-| Grand Finals | 27 October - 2 November 2025 |
+| Registration phase | 21 July – 18 August (13:59 UTC) |
+| Qualifier showcase | 7 September (14:00 UTC) |
+| Qualifiers | 8 September – 14 September |
+| Round of 64 | 15 September – 21 September |
+| Round of 32 | 22 September – 28 September |
+| Round of 16 | 29 September – 5 October |
+| Quarterfinals | 6 October – 12 October |
+| Semifinals | 13 October – 19 October |
+| Finals | 20 October – 26 October |
+| Grand Finals | 27 October – 2 November |
 
 ## Prizes
 
@@ -51,7 +53,7 @@ The prize pool for o!mLN4 will be split into 2 sections, the **regular prize poo
 
 The tournament prize pool will be awarded to the top 6 players in the tournament bracket:
 
-- **1st Place:** 40% of the regular prize pool and an o!mLN4 Profile badge.
+- **1st Place:** 40% of the regular prize pool and an o!mLN4 profile badge.
 - **2nd Place:** 25% of the regular prize pool.
 - **3rd Place:** 20% of the regular prize pool.
 - **4th - 6th Place:** 5% of the regular prize pool each.
@@ -71,7 +73,7 @@ In order to participate in the tournament, do note that you will have to fulfill
 - You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.
 - You must not be under a tournament ban from participating in badged tournaments.
 
-If you are simply interested in partaking in **Ordeal In Illusion**, feel free to join the [o!mLN tournament Discord server](https://discord.gg/W6zs7mEjxY) and authenticate your osu! account with our tournament bot in `#ordeal-in-illusion` to get started. More details and rules regarding o!mLN4 can also be found on our [forum post](https://osu.ppy.sh/community/forums/topics/2107479?n=1), [wiki page](/wiki/Tournaments/o!mLN) and [master sheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?pli=1&gid=557086685#gid=557086685). 
+If you are simply interested in partaking in **Ordeal In Illusion**, feel free to join the [o!mLN tournament Discord server](https://discord.com/invite/W6zs7mEjxY) and authenticate your osu! account with our tournament bot in `#ordeal-in-illusion` to get started. More details and rules regarding o!mLN4 can also be found on our [forum post](https://osu.ppy.sh/community/forums/topics/2107479?n=1), wiki page (soon) and [information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?pli=1&gid=557086685#gid=557086685). 
 
 ## Where can I spectate?
 
