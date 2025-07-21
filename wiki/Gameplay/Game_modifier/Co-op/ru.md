@@ -15,7 +15,7 @@ tags:
   - игра с друзьями
 ---
 
-# Co-op (мод)
+# Co-op
 
 ![Значок мода Co-op](/wiki/shared/mods/CP.png "Значок мода Co-op (CO)")
 
