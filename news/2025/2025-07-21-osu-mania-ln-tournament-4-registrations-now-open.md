@@ -73,7 +73,7 @@ In order to participate in the tournament, do note that you will have to fulfill
 - You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.
 - You must not be under a tournament ban from participating in badged tournaments.
 
-If you are simply interested in partaking in **Ordeal In Illusion**, feel free to join the [o!mLN tournament Discord server](https://discord.com/invite/W6zs7mEjxY) and authenticate your osu! account with our tournament bot in `#ordeal-in-illusion` to get started. More details and rules regarding o!mLN4 can also be found on our [forum post](https://osu.ppy.sh/community/forums/topics/2107479?n=1), wiki page (soon) and [information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?pli=1&gid=557086685#gid=557086685). 
+If you are simply interested in partaking in **Ordeal In Illusion**, feel free to join the [o!mLN tournament Discord server](https://discord.com/invite/W6zs7mEjxY) and authenticate your osu! account with our tournament bot in `#ordeal-in-illusion` to get started. More details and rules regarding o!mLN4 can also be found on our [forum post](https://osu.ppy.sh/community/forums/topics/2107840?n=1), wiki page (soon) and [information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs). 
 
 ## Where can I spectate?
 
