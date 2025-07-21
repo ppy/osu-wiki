@@ -167,7 +167,7 @@ We had some silly misspicks and lowrolls against Canada, but we were confident w
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-tc" href="https://osu.ppy.sh/users/10000899">shdewz</a></p>
 
-Poland has been on an upward trend in 4WC. Do you think the potential inclusion of [BWS](https://osu.ppy.sh/wiki/en/Tournaments/Badge-weighted_seeding) in future iterations would affect your team better or worse than others?
+Poland has been on an upward trend in 4WC. Do you think the potential inclusion of [BWS](/wiki/Tournaments/Badge-weighted_seeding) in future iterations would affect your team better or worse than others?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14100781" style="background-image: url('/wiki/shared/avatars/hav.jpg')"></a>
 
