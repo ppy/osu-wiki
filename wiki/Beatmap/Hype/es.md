@@ -1,19 +1,23 @@
 ---
-stub: true
 tags:
   - train
   - tren
-outdated_translation: true
-outdated_since: cf85ad873ceff733e8c2c6a8987d64dca39b2c46
+  - tren del hype
 ---
 
 # Hype
 
-Cada [beatmap](/wiki/Beatmap) [pendiente](/wiki/Beatmap/Category#wip-and-pending) tiene un **tren del hype** que representa aproximadamente cuántas personas están interesadas en ver el mapa [clasificado](/wiki/Beatmap/Category#ranked). Los usuarios pueden publicar [discusiones de beatmaps](/wiki/Beatmap_discussion) especiales en la pestaña `General (Todas las dificultades)` con la opción `¡Hype!` para contribuir al tren del hype de un mapa.
+::: Infobox
+![](img/hypetrain-ES.png "Tren del hype visible en la página de información de un beatmap")
+:::
+
+En términos de beatmapping, un **hype** es una unidad que representa aproximadamente cuánta gente está interesada en que un beatmap en particular sea [clasificado](/wiki/Beatmap/Category#ranked). Los hypes se consiguen comentando en la [página de discusión](/wiki/Beatmap_discussion) de un beatmap con el botón `¡Hype!` y contribuyen al **tren del hype** del beatmap.
+
+Como los hypes son una parte activa del [proceso de clasificación](/wiki/Beatmap_ranking_procedure), solo se pueden conceder a beatmaps que estén en las categorías [Trabajo en progreso o pendientes](/wiki/Beatmap/Category#wip-and-pending).
 
 ## Requisito de clasificación
 
-Los beatmaps necesitan al menos 5 hypes (una barra completa del tren del hype) para ser elegibles para la [nominación](/wiki/Beatmap_ranking_procedure#nominations), un paso para clasificar el mapa.
+Con el propósito de ser elegible para la [nominación](/wiki/Beatmap_ranking_procedure#nominations), un beatmap necesita acumular al menos **5 hypes** (o una barra completa del tren del hype) de otros usuarios. Los hypes adicionales no contribuyen a la elegibilidad del beatmap, aunque ayudan a que el beatmap sea más visible en el [listado de beatmaps](https://osu.ppy.sh/beatmapsets) cuando se buscan beatmaps según su [estado de nominación](https://osu.ppy.sh/beatmapsets?sort=nominations_desc&s=pending).
 
 ## Límite
 
