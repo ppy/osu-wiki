@@ -16,12 +16,12 @@ tags:
   - фэйд аут
 ---
 
-# Fade Out (мод)
+# Fade Out
 
 ![Значок мода FO](/wiki/shared/mods/FO.png "Значок мода Fade Out (FO)")
 
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
-*Эта статья — про мод, скрыващий ноты перед нажатием. О моде, снижающем область видимости, см. [Fade In (мод)](/wiki/Gameplay/Game_modifier/Fade_In).О моде, убирающем круги вокруг нот, см. [Hidden (мод)](/wiki/Gameplay/Game_modifier/Hidden).*
+*Эта статья — про мод, скрыващий ноты перед нажатием. О моде, снижающем область видимости, см. [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).О моде, убирающем круги вокруг нот, см. [Hidden](/wiki/Gameplay/Game_modifier/Hidden).*
 
 ## Краткая информация
 

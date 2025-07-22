@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d685bfe83f7122680c9cd6f03302682063de11ce
+---
+
 # 游戏模式
 
 osu! 内置了**四个游戏模式**，分别有不同的玩法，均从其他音乐游戏中获得了灵感。
