@@ -8,7 +8,7 @@ Another iteration of the 4 Digit World Cup is behind us. Let's take a look at wh
 
 ![](/wiki/Tournaments/4WC/2025/img/banner.png)
 
-Eagles soaring, our first original song, and loads of intense matches — the 2025 iteration of 4WC has concluded, and with it we are closing a large chapter of the series' history. Let's have a rundown of what went down over the past couple of months in the most intense 4 digit osu! tournament.
+Eagles soaring through May and June, our first original song, and loads of intense matches — the 2025 iteration of 4WC has concluded, and with it we are closing a large chapter of the series' history. Let's have a rundown of what went down over the past couple of months in the most intense 4 digit osu! tournament.
 
 ## Summary
 
