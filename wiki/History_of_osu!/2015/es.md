@@ -141,7 +141,7 @@ Unos días después (19 de noviembre de 2015), peppy actualizó a los usuarios s
 [^osu-weekly-8]: [Publicación de noticia por Tasha (1/5/2015) «osu!weekly #8»](https://osu.ppy.sh/home/news/2015-05-01-osuweekly-8)
 [^realtime-bn-ranking]: [Hilo del foro por p3n (4/6/2015) «Realtime Beatmap Nominator Ranking»](https://osu.ppy.sh/community/forums/topics/334994)
 [^osu-weekly-14]: [Publicación de noticia por Tasha (13/6/2015) «osu!weekly #14»](https://osu.ppy.sh/home/news/2015-06-13-osuweekly-14)
-[^osu-weekly-9]: [Publicación de noticia por Tahsa (8/5/2015) «osu!weekly #9»](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
+[^osu-weekly-9]: [Publicación de noticia por Tasha (8/5/2015) «osu!weekly #9»](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 [^osu-news-welcome]: [Vídeo de YouTube por osu!news (8/5/2015) «Welcome to the osu!news»](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
 [^osu-weekly-12]: [Publicación de noticia por Tasha (30/5/2015) «osu!weekly 12»](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
 [^ppy-tweet-osu-keyboards]: [Tuit de @ppy (28/5/2015)](https://twitter.com/ppy/status/603797988742336512)

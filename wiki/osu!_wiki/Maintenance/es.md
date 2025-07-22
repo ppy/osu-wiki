@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
----
-
 # Mantenimiento de la osu! wiki
 
 *Véase también: [Guía de contribución de la osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
@@ -70,7 +65,7 @@ A modo de referencia, a continuación se muestra una tabla de todas las comproba
 | 2 | Markdown | [remark](https://github.com/remarkjs/remark) a través de [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Si la sintaxis de Markdown es correcta y consistente en artículos de la wiki y publicaciones de noticias. | Agrega `SKIP_REMARK` en cualquier lugar de la descripción de la solicitud de cambios. Para suprimir permanentemente un error específico, agrega `<!-- lint ignore rule-name -->` encima de la línea ofensiva, donde `rule-name` es la regla a ignorar. |
 | 3 | YAML | Comando `check-yaml` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si la sintaxis de YAML es correcta y coherente en el archivo [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) y en el [formato de serialización](/wiki/Article_styling_criteria/Formatting#formato-de-serialización). | Ninguno. |
 | 4 | Enlaces de la wiki rotos | Comando `check-links` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si los [enlaces de la wiki](/wiki/Article_styling_criteria/Formatting#enlaces-de-la-wiki) internos apuntan a un artículo real, una publicación de noticias (para enlaces de publicaciones de noticias) o una sección del mismo. | Agrega `SKIP_WIKILINK_CHECK` en cualquier lugar de la descripción de la solicitud de cambios. |
-| 5 | Traducciones obsoletas | Comando `check-outdated-articles` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Si las traducciones [se marcan como obsoletas](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas) correctamente al actualizar un artículo en inglés. | Agrega `SKIP_OUTDATED_CHECK` en cualquier lugar de la descripción de la solicitud de cambios. |
+| 5 | Traducciones obsoletas | La acción [«Post-merge outdate processing»](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/post-merge-outdate.yml) de GitHub | Después de la fusión, marca automáticamente las traducciones no editadas de los artículos en inglés [como obsoletas](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas). | Consulta la sección de [traducciones obsoletas](#traducciones-obsoletas). |
 
 ##### Regla de remark lint [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) de Markdown
 
@@ -108,11 +103,23 @@ Se alienta a los contribuidores a corregir los enlaces rotos mientras actualizan
 - Enlaces de sección a una traducción donde la sección no existe
 - Mover archivos (para enlaces ya rotos no como resultado de esto)
 
-##### Comprobación de traducción obsoleta
+##### Traducciones obsoletas
 
 *Véase también: [Criterios de estilo para artículos/Formato § Traducciones obsoletas](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas) y [Criterios de estilo para artículos/Redacción § Paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido)*
 
-Se puede omitir la comprobación de traducción obsoleta (y no marcar las traducciones como obsoletas) para modificaciones menores, ajustes gramaticales y similares, que no afectan al significado del artículo.
+No es necesario marcar las traducciones como obsoletas por pequeños cambios de redacción, ajustes gramaticales y similares que no afecten al significado del artículo. En estos casos, puede omitirse el paso automático de marcar las traducciones como obsoletas.
+
+Para ello, especifica qué archivos o artículos no deben **actualizarse** añadiendo una o varias de las siguientes instrucciones a la descripción de una solicitud de cambios, cada una en una línea distinta. Los siguientes formatos son compatibles:
+
+| Instrucción | Significado |
+| :-- | :-- |
+| `DO_NOT_OUTDATE: wiki/Path/To/Article/es.md` | Omite una traducción. |
+| `DO_NOT_OUTDATE: wiki/Article` | Omite todas las traducciones de `Artículo`. |
+| `DO_NOT_OUTDATE: wiki/*/es.md` | Omite todas las traducciones en español. |
+| `DO_NOT_OUTDATE: wiki/{Article,Other_article}/{es,jp}.md` | Omite las traducciones en español y japonés de `Artículo` y `Otro artículo`. |
+| `DO_NOT_OUTDATE: wiki/Article + wiki/Other_article/es.md` | Combina varias reglas en una sola línea. |
+
+El prefijo `wiki/` puede omitirse por comodidad.
 
 ### Desarrollo
 
