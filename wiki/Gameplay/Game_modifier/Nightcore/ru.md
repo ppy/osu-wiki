@@ -9,16 +9,15 @@ tags:
   - модификатор
   - нк
   - найткор
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
-# Nightcore (мод)
+# Nightcore
 
 ![Значок мода NC](/wiki/shared/mods/NC.png "Значок мода Nightcore (NC)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Nightcore (lazer)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))*\
 *Не стоит путать с [Nightcore (жанр музыки)](https://en.wikipedia.org/wiki/Nightcore).*\
-*См. также: [NC (значения)](/wiki/Disambiguation/NC), [Double Time (мод)](/wiki/Gameplay/Game_modifier/Double_Time)*\
+*См. также: [NC (значения)](/wiki/Disambiguation/NC), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

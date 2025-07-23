@@ -69,7 +69,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!catch World Cup 2022](CWC/2022) | 21/05/2022 | 03/07/2021 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine |
 | [osu!catch World Cup 2023](CWC/2023) | 13/05/2023 | 25/06/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=IT }:: Italie |
 | [osu!catch World Cup 2024](CWC/2024) | 18/05/2024 | 30/06/2024 | ::{ flag=US }:: États-Unis | ::{ flag=AR }:: Argentine | ::{ flag=PL }:: Pologne |
-| [osu!catch World Cup 2025](CWC/2025) | 08/05/2025 | 20/07/2025 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [osu!catch World Cup 2025](CWC/2025) | 08/05/2025 | 20/07/2025 | ::{ flag=AR }:: Argentine | ::{ flag=US }:: États-Unis | ::{ flag=FI }:: Finlande |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -95,6 +95,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/02/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie | ::{ flag=PH }:: Philippines |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/07/2024 | 29/09/2024 | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine | ::{ flag=TH }:: Thaïlande |
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12/12/2024 | 23/02/2025 | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine | ::{ flag=PH }:: Philippines |
+| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17/07/2025 | 28/09/2025 | *À déterminé* | *À déterminé* | *À déterminé* |
 
 ## Tournois communautaires
 
