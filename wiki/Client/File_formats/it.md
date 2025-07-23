@@ -2,7 +2,7 @@
 
 ## Elenco dei formati di file
 
-| Formato del file| Tipo MIME | Utilizzo |
+| Formato del file | Tipo MIME | Utilizzo |
 | :-- | :-- | :-- |
 | [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | Archivio delle beatmap di osu!  |
 | [.osk](/wiki/Client/File_formats/osk_(file_format)) | `x-osu-skin-archive` | Archivio delle skin di osu! |
