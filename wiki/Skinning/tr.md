@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: cd53f694f7e0e700e57857590002cd09e6a07e07
+---
+
 # Tema yapımı
 
 Tema yapımı osu!'nun olmazsa olmaz özelliklerinden biridir. Bu, oyuncuların orijinal tema yapma elementlerinden kendi temalarını oluşturmalarını sağlar! Temalar eğlencesine, konseptli, PRO, veya oynaması neredeyse imkansız olmaya kadar farklılık gösterebilir.

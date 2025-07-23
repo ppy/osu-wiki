@@ -40,7 +40,7 @@ Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **ya
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
 | Dukungan skin | ![Ya][true] | ![Parsial][partial][^gameplay-only] |
-| Pengelompokan lagu berdasarkan kategori tertentu | ![Ya][true] | ![Tidak][false] |
+| Pengelompokan lagu berdasarkan kategori tertentu | ![Ya][true] | ![Ya][true] |
 | Penyuntingan tata letak skin / UI dari dalam permainan | ![Tidak][false] | ![Ya][true] |
 | Komponen skin yang dinamis dan mudah disesuaikan | ![Tidak][false] | ![Ya][true] |
 
@@ -79,7 +79,7 @@ Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **ya
 | Pengiriman skor | ![Ya][true] | ![Ya][true] |
 | Papan peringkat beatmap | ![Ya][true] | ![Ya][true] |
 | Statistik profil | ![Ya][true] | ![Ya][true] |
-| Medali | ![Ya][true] | ![Parsial][partial][^medals-lazer] |
+| Medali | ![Parsial][partial][^medals-stable] | ![Parsial][partial][^medals-lazer] |
 | Performance point | ![Ya][true] | ![Ya][true] |
 | Percakapan yang berlangsung secara real-time | ![Parsial][partial][^stable-chat] | ![Ya][true] |
 | Halaman wiki / berita / riwayat perubahan / peringkat | ![Tidak][false] | ![Ya][true][^online-content] |
@@ -111,7 +111,7 @@ Berikut merupakan daftar perbandingan fitur selengkapnya antara versi lazer **ya
 | Perubahan ukuran pola | ![Tidak][false] | ![Ya][true] |
 | Submisi beatmap | ![Ya][true] | ![Ya][true] |
 | Editor storyboard | ![Ya][true] | ![Tidak][false] |
-| Kompatibilitas silang | ![Ya][true] | ![Parsial][partial][^incompatibilities] |
+| Kompatibilitas silang | ![Ya][true] | ![Ya][true] |
 
 ## Beralih ke lazer
 
@@ -355,15 +355,13 @@ Kamu mungkin sedang memikirkan permainan lainnya.
 
 [^supporter]: Khusus osu!supporter.
 
-[^soft-deletion]: Beatmap dan data lain yang telah dihapus akan dapat dipulihkan dari menu pengaturan. Segala sesuatunya baru akan terhapus secara permanen setelah permainan dimulai ulang.
+[^soft-deletion]: Beatmap dan data lainnya yang telah dihapus akan dapat dipulihkan dari menu pengaturan. Segala sesuatunya baru akan dihapus secara permanen setelah permainan dimulai ulang.
 
 [^multi-room-max]: Maksimal 16 pemain.
 
 [^map-only]: Khusus beatmap.
 
 [^all-files]: Seluruh berkas.
-
-[^incompatibilities]: Fitur editor tertentu akan membuat beatmap tidak dapat dimainkan sebagaimana mestinya pada stable — hal ini akan diperbaiki di kemudian hari.
 
 [^stable-chat]: Pesan yang ada dapat membutuhkan hingga 15 detik untuk sampai.
 
@@ -378,6 +376,8 @@ Kamu mungkin sedang memikirkan permainan lainnya.
 [^difficulty-adjust]: Nilai CS/AR/OD/HP beatmap dapat diubah secara langsung pada layar pemilihan lagu melalui mod Difficulty Adjust.
 
 [^medals-lazer]: Sebagian [medali Hush-Hush](/wiki/Medals#hush-hush) masih belum dapat dibuka.
+
+[^medals-stable]: Medali tertentu hanya tersedia secara eksklusif di lazer.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

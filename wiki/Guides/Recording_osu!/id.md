@@ -1,65 +1,62 @@
-# Cara merekam video bermain osu!
+---
+no_native_review: true
+---
 
-[Ingin menggunakan Virtualdub sebagai pengganti Sony Vegas? Klik di sini!](https://osu.ppy.sh/community/forums/posts/252802)
+# Cara merekam video osu!
 
-Kamu selalu ingin membuat video di Youtube mengenai osu!, tetapi tidak pernah menemukan cara terbaik untuk mewujudkannya? Di artikel ini saya akan menjelaskan bagaimana kamu dapat melakukannya. **Harap dicatat bahwa ada lebih banyak cara untuk melakukan ini, apa yang berada dalam artikel ini adalah cara saya.** [Lihat hasil dari tutorial ini di tautan berikut (Disarankan untuk menonton di kualitas HD dan layar penuh)](https://youtube.com/watch?v=JRGhQh69geI).
+*Lihat juga: [Menyiarkan osu! secara langsung](/wiki/Guides/Livestreaming_osu!)*
 
-## Prasyarat
+Terdapat banyak cara yang dapat dilakukan untuk **merekam video osu!**. Panduan ini akan membahas salah satu cara merekam yang paling sederhana, yaitu dengan menggunakan [OBS Studio](https://obsproject.com/).
 
-- Perangkat lunak perekaman
-  - [OBS](https://obsproject.com/)
-  - [Fraps](https://fraps.com/)
-  - [Action!](https://actionrecorder.com/)
-  - [Bandicam](https://www.bandicam.com/)
-- Perangkat lunak untuk melakuakn *editing/rendering* (Jangan pernah gunakan Windows Movie Maker, karena akan menurungkan kualitas video secara drastis!)
-  - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
-  - [Adobe Premier](https://www.adobe.com/products/premiere.html)
-  - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)
-  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+## Pengaturan
 
-### Melakukan konfigurasi Fraps
+### Panduan konfigurasi otomatis
 
-Buka Fraps, dan mari kita atur pengaturan yang diinginkan.
+Pada saat kamu meluncurkan OBS Studio untuk pertama kalinya, kamu akan dihadapkan dengan layar panduan konfigurasi otomatis (*auto-configuration wizard*).
 
-![Fraps](img/Recording_1.png "Fraps")
+Pada layar `Usage Information`, pilih `Optimize for recording, streaming is secondary` dan klik `Next`.
 
-Pastikan:
+![Usage Information](img/recording_osu_1.png)
 
-- Kamu telah memasang Video Capture Hotkey pada tombol yang akan dipakai dan tidak menghilangkan fungsi lain;
-- Jika kamu mendapatkan video yang memiliki framerate tidak stabil, kamu mungkin membatasi framerate-nya menjadi 30. Jika kamu yakin bukan ini masalahnya, gunakan saja opsi 60 FPS;
-- Jika setelah merekam kamu mendapatkan video dengan framerate rendah, kamu mungkin merekam dengan opsi 'half-size'. Dengan menggunakan opsi itu, video yang kamu rekam akan menjadi setengah dari resolusi yang direkam (sebagai alternatif: kamu dapat menjalankan osu! di resolusi yang lebih rendah saat merekam);
-- Kamu memiliki cukup ruang kosong di penyimpanan komputermu. Jika tidak, video akan berakhir lebih awal secara paksa saat tidak ada lagi ruang tersisa untuk menyimpan rekaman;
-- Opsi No Cursor dicentang;
-- KAMU MEREKAM SUARANYA! Tidak ada yang lebih buruk dari video osu! dengan musik yang ditambahkan belakangan bukan dari rekaman gim.
+Pada layar `Video Settings`, sesuaikan nilai `Base (Canvas) Resolution` dengan resolusi bawaan monitor kamu dan atur nilai `FPS` ke `60`. Kamu juga dapat menggunakan `Either 60 or 30, but prefer 60 when possible`, namun apabila komputer kamu tidak dapat berjalan stabil di 60 FPS, kamu kemungkinan akan sulit untuk merekam video osu! yang cemerlang.
 
-## Merekam gameplay kamu
+![Video Settings](img/recording_osu_2.png)
 
-Buka osu! saat Fraps sedang dijalankan. Jika semuanya berjalan dengan benar (dan jika kamu belum menonaktifkan fitur ini), kamu akan melihat penghitung FPS berwarna kuning di sudut layar, jika belum muncul pada layar, pastikan Fraps dijalankan sebagai admin (Run as administrator).
+Pada layar `Final Results`, OBS Studio akan memunculkan daftar pengaturan yang dipilih secara otomatis berdasarkan spesifikasi komputermu. Klik `Apply Settings` untuk menerapkan pengaturan ini dan melanjutkan ke tahap berikutnya.
 
-![osu! berjalan bersamaan dengan Fraps](img/Recording_2.png "osu! berjalan bersamaan dengan Fraps")
+### Pengaturan tambahan
 
-Sekarang, buka beatmap atau apa pun yang ingin kamu rekam. Misalnya: pemutaran ulang (replay) kamu memainkan suatu beatmap dan mendapat skor tinggi! Saat kamu berada di bagian di mana kamu ingin memulai rekaman, tekan tombol Hotkey Capture Video yang telah kamu atur. Angka di penghitung FPS mungkin akan mengalami penurunan dan berubah warnanya menjadi merah. Hal ini menandakan kamu telah memulai rekaman. Coba cek dalam semenit ke depan dan cek jika FPS tidak berubah banyak. Jika banyak berubah, coba beberapa tip yang sudah ditulis di atas.
+Secara bawaan, OBS Studio merekam video dalam format `.mkv`. Walaupun format ini ideal apabila OBS mengalami crash secara tiba-tiba atau apabila kamu menggunakan saluran audio yang terpisah, sebagian besar program penyunting video tidak mendukung format `.mkv`. Oleh karenanya, kamu disarankan untuk mengubah format keluaran ini menjadi `.mp4`.
 
-![osu! saat merekam menggunakan Fraps](img/Recording_3.png "osu! saat merekam menggunakan Fraps")
+Pada `Settings`, tuju tab `Output` di sisi kiri layar, ubah `Output Mode` dari `Simple` ke `Advanced`, lalu klik tab `Recording` pada bagian atas. Dari sini, ubah `Recording Format` dari `Matroska Video (.mkv)` ke `MPEG-4 (.mp4)`.
 
-Tekan lagi tombol Video Capture Hotkey untuk menghentikan rekaman.
+Kualitas rekaman yang dihasilkan akan didasari oleh performa komputermu dan kualitas keluaran yang dipilih. Walaupun kualitas ini sebagian besarnya bergantung pada kemampuan hardware kamu, terdapat beberapa hal yang dapat kamu pertimbangkan:
 
-## Mengedit video rekamanmu
+- Pengaturan `Video Encoder` memiliki dampak yang besar terhadap performa dan kualitas rekaman. Cobalah untuk mengutak-atik pengaturan ini untuk melihat enkoder video mana yang terbaik untuk perangkatmu.
+- Nilai `Bitrate` secara tidak langsung mencerminkan kualitas rekaman. Memasang nilai bitrate yang lebih tinggi akan membuat rekamanmu lebih halus, namun juga akan menambah beban kinerja perangkatmu.
+- Apabila pengaturan rekamanmu melebihi apa yang komputer kamu dapat tangani, sebuah peringatan akan muncul pada sisi kiri bawah layar OBS Studio. Dalam situasi yang demikian, kamu kemungkinan akan menemui lag pada saat kamu memutar ulang hasil rekamanmu.
 
-Seret dan lepas video pada garis waktu (timeline) di Vegas. Jika file yang akan dimasukkan banyak, Vegas akan menambahkannya ke akhir bagian sebelumnya secara otomatis.
+![Video Settings](img/recording_osu_3.png "Sebagai perbandingan, berikut adalah pengaturan yang digunakan untuk video yang tayang pada kanal YouTube osu!")
 
-![Mengedit klip video](img/Recording_4.png "Mengedit klip video")
+## Merekam
 
-Kamu dapat melakukan beberapa pengeditan sesuai keinginan sekarang.
+Pada layar utama OBS Studio, kamu akan melihat boks `Scenes` dan `Sources`. Masing-masing scene dapat tersusun atas banyak source, namun untuk tutorial ini, kita hanya akan menambahkan satu source: jendela osu! kamu.
 
-## Merender video rekamanmu
+Secara bawaan, OBS Studio sudah akan menyediakan scene yang kosong. Untuk menambahkan sesuatu ke scene ini, klik ikon `+` pada bagian `Sources`, lalu pilih `Game Capture`. Kamu juga dapat menggunakan `Display Capture`, namun hal ini tidak disarankan karena dapat mengakibatkan permasalahan latensi.
 
-Setelah pengeditan yang kamu lakukan selesai, buka menu 'File', lalu klik 'Render As'. Gunakan pengaturan berikut (tergantung pada versi Vegas yang kamu gunakan):
+![Scene dan Source](img/recording_osu_4.png)
 
-![Merender klip video](img/Recording_5.png "Merender klip video")
+Pada popup `Create/Select Source`, pilih `Create new` dan klik `OK`. Setelah itu, pada layar selanjutnya yang berjudul `Properties for 'Game Capture'`:
 
-![Merender klip video](img/Recording_6.png "Merender klip video")
+- Apabila kamu menjalankan osu! pada mode fullscreen, atur `Mode` ke `Capture any fullscreen window`.
+- Apabila kamu menjalankan osu! pada mode borderless atau windowed, ubah `Mode` ke `Capture specific window`, lalu buka permainan kamu dan temukan `[osu!.exe]: osu!` pada dropdown `Window`.
 
-Tekan tombol save, dan video kamu akan selesai dalam beberapa menit. Dan setelah melewati proses itu, video kamu sudah siap untuk diunggah ke YouTube! Harap diperhatikan bahwa perlu beberapa saat setelah pengunggahan sebelum video dapat diputar dalam resolusi tinggi di YouTube, bersabarlah!
+Apabila kamu melihat kotak hitam alih-alih layar osu! pada jendela pratinjau, klik kanan source `Game Capture` dan cobalah untuk mengatur pengaturan jendelamu.
 
-**Sekarang, buat video, perkenalkan dan sebarkan gim osu!**. Panduan ini ditulis oleh [Remco32](https://osu.ppy.sh/users/9199), utas asli dapat diakses melewati [tautan berikut](https://osu.ppy.sh/community/forums/topics/18112)
+![OBS yang telah teratur sepenuhnya](img/recording_osu_5.png)
+
+Apabila kamu hanya ingin merekam permainan osu!, kamu dapat membisukan bagian `Mic/Aux` yang ada pada `Audio Mixer` dengan mengeklik ikon suara.
+
+![OBS yang telah teratur sepenuhnya](img/recording_osu_6.png)
+
+Berhubung pengaturan bawaan OBS Studio lainnya sudah dapat merekam osu! secara memadai, setelah kamu mengatur segala sesuatunya yang ada di halaman ini, OBS Studio kamu seharusnya akan siap untuk digunakan!
