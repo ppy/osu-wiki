@@ -4,7 +4,7 @@
 
 | Formato del file | Tipo MIME | Utilizzo |
 | :-- | :-- | :-- |
-| [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | Archivio delle beatmap di osu!  |
+| [.osz](/wiki/Client/File_formats/osz_(file_format)) | `x-osu-beatmap-archive` | Archivio delle beatmap di osu! |
 | [.osk](/wiki/Client/File_formats/osk_(file_format)) | `x-osu-skin-archive` | Archivio delle skin di osu! |
 | [.osu](/wiki/Client/File_formats/osu_(file_format)) | `x-osu-beatmap` | [Difficoltà](/wiki/Beatmap/Difficulty) di osu! |
 | [.osb](/wiki/Client/File_formats/osb_(file_format)) | `x-osu-storyboard` | [Storyboard](/wiki/Storyboard/Scripting) di osu! |
