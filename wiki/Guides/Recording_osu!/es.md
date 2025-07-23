@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6dc64ff156f2eca77d8da916c16b9f21210ad5b5
+---
+
 # Cómo grabar vídeos de osu!
 
 *Véase también: [Transmitir osu! en vivo](/wiki/Guides/Livestreaming_osu!)*
