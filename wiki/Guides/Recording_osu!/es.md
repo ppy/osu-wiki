@@ -1,70 +1,63 @@
 ---
 outdated_translation: true
-outdated_since: 2c9fd01c55a5610c8b047b3bbf8683d414c02987
+outdated_since: 6dc64ff156f2eca77d8da916c16b9f21210ad5b5
 ---
 
 # Cómo grabar vídeos de osu!
 
-[¿Quieres usar Virtualdub en lugar de Sony Vegas? ¡Haz clic aquí](https://osu.ppy.sh/community/forums/posts/252802)
+*Véase también: [Transmitir osu! en vivo](/wiki/Guides/Livestreaming_osu!)*
 
-¿Siempre has querido hacer un vídeo para YouTube sobre osu!, pero nunca has encontrado la manera de hacerlo? En esta guía te explico cómo puedes hacerlo. **Ten en cuenta que hay más formas de hacerlo, esta es solo la mía.** [Ve el resultado de este tutorial aquí (¡míralo en HD y a pantalla completa!)](https://youtube.com/watch?v=JRGhQh69geI).
+Si bien existen innumerables formas de **grabar vídeos de osu!**, esta guía cubrirá una de las opciones más sencillas usando [OBS Studio](https://obsproject.com/).
 
-## Requisitos
+## Ajustes
 
-- Software de grabación
-  - [OBS](https://obsproject.com/)
-  - [Fraps](https://fraps.com/)
-  - [Action!](https://actionrecorder.com/)
-  - [Bandicam](https://www.bandicam.com/)
-- Software de edición/renderización (nunca uses Windows Moviemaker, ¡bajará drásticamente la calidad del vídeo!)
-  - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
-  - [Adobe Premier](https://www.adobe.com/products/premiere.html)
-  - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)
-  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+### Asistente de configuración automática
 
-### Configurar Fraps
+Cuando inicies OBS Studio por primera vez, se abrirá el asistente de configuración automática.
 
-Abre Fraps, y vamos a jugar con los ajustes.
+En el panel `Información sobre el uso`, elige `Optimizar solo para grabación, no voy a hacer una transmisión` y haz clic en `Siguiente`.
 
-![Fraps](img/Recording_1.png "Fraps")
+![Opciones del panel «Información sobre el uso» de OBS](img/recording_osu_1-ES.png)
 
-Asegúrate de que:
+En el panel `Ajustes de vídeo`, establece la `Resolución de la base (Lienzo)` en la resolución nativa de tu monitor, y establece `FPS` en `60`. También puedes usar `60 o 30, pero usar 60 cuando sea posible`, pero si tu ordenador tiene problemas para mantener 60 FPS, es probable que tengas dificultades para grabar vídeos de alta calidad.
 
-- Haces que la tecla rápida de captura de vídeo sea una tecla que no estorbe.
-- Si obtienes un vídeo de salida que tiene una velocidad de fotogramas elevada, limita la velocidad de fotogramas a 30. Si este no es el caso, simplemente usa 60 FPS.
-- Si obtienes un vídeo de salida que tiene una velocidad de fotogramas baja, graba en «half-size». El vídeo tendrá la mitad de la resolución con la que se grabó (alternativamente: puedes ejecutar osu! en una resolución más baja al grabar).
-- Te queda suficiente espacio libre en tu disco duro. Si no, el vídeo terminará antes de tiempo cuando ya no quede espacio para almacenar.
-- La opción `Hide mouse cursor in video` está marcada.
-- ¡ESTÁS GRABANDO EL SONIDO! No hay nada peor que los vídeos de osu! con música añadida después.
+![Opciones del panel «Ajustes de vídeo» de OBS](img/recording_osu_2-ES.png)
 
-## Grabar tu juego
+En el panel `Resultado final`, OBS Studio mostrará una lista con los ajustes seleccionados automáticamente según las especificaciones de tu ordenador. Haz clic en `Aplicar configuración` para continuar.
 
-Abre osu! mientras Fraps está en ejecución. Si todo va bien (y si no has desactivado esta función), verás un contador de FPS amarillo en una esquina de la pantalla.
+### Ajustes adicionales
 
-![osu! mientras se ejecuta Fraps](img/Recording_2.png "osu! mientras se ejecuta Fraps")
+De forma predeterminada, OBS Studio genera archivos `.mkv`. Si bien esto es ideal si OBS se cierra inesperadamente o si usas canales de audio separados, muchos programas de edición de vídeo no procesan archivos `.mkv`, por lo que se recomienda cambiar la salida a `.mp4`.
 
-Ahora, ve a lo que quieras grabar. Por ejemplo: ¡una repetición de cómo consigues una puntuación! Cuando estés en la parte en la que quieres empezar la grabación, presiona la tecla de acceso rápido de captura de vídeo. El contador de FPS puede bajar y debe ponerse en rojo. Ahora estás grabando. Mira durante un minuto si la tasa de FPS no cambia mucho. Si es así, prueba algunos de los consejos anteriores.
+En `Ajustes`, ve a la pestaña `Salida` de la izquierda, cambia `Modo de salida` de `Sencillo` a `Avanzado` y haz clic en la pestaña `Grabación` de la parte superior. Desde aquí, cambia el `Formato de grabación` de `Video Matroska (.mkv)` a `MPEG-4 (.mp4)`.
 
-![osu! mientras se graba con Fraps](img/Recording_3-ES.png "osu! mientras se graba con Fraps")
+La grabación de pantalla es un equilibrio entre rendimiento y calidad de salida. Aunque esto depende de tu equipo, a continuación te indicamos algunos aspectos a tener en cuenta:
 
-Presiona de nuevo la tecla rápida de captura de vídeo para detener la grabación.
+- El `Codificador de vídeo` tiene un gran impacto en el rendimiento y la calidad de salida. Experimenta con ellos para ver cuál se adapta mejor a tu equipo.
+- La `Tasa de bits` equivale a la calidad de grabación. Si se cambia este número a uno extremadamente alto, la calidad de la salida será mayor y aumentará la tensión de rendimiento.
+- Si los ajustes de grabación son más intensos de lo que puede soportar tu ordenador, aparecerá una advertencia en la parte inferior izquierda de OBS Studio. En este caso, también es probable que notes *lag* durante la reproducción del vídeo.
 
-## Editar el vídeo
+![Ajustes adicionales de vídeo](img/recording_osu_3-ES.png "Como punto de referencia, estos son los ajustes usados para los vídeos en el canal de YouTube de osu!")
 
-Arrastra y suelta el vídeo en la línea de tiempo de Vegas. Si hay varios archivos, Vegas los añadirá al final de la parte anterior automáticamente.
+## Grabación
 
-![Edición del vídeo](img/Recording_4-ES.png "Edición del vídeo")
+En la pantalla principal de OBS Studio, verás un cuadro de `Escenas` y otro de `Fuentes`. Cualquier escena puede estar compuesta de múltiples fuentes, pero para el bien de este tutorial, solo se añadirá una fuente: tu ventana de osu!.
 
-Ahora puedes hacer alguna edición opcional.
+De forma predeterminada se crea una escena vacía. Para añadirla a la escena, haz clic en el icono `+` de la sección `Fuentes` y selecciona `Captura de juego`. También puedes usar `Captura de pantalla`, pero esto puede causar problemas de latencia, así que no se recomienda.
 
-## Renderizar el vídeo
+![Escenas y fuentes](img/recording_osu_4-ES.png)
 
-Ahora que has terminado de editar el vídeo, ve a «Archivo» y haz clic en «Renderizar como». Usa las siguientes opciones (dependiendo de tu versión de Vegas):
+En la ventana `Crear/seleccionar fuente`, selecciona `Crear nuevo` y haz clic en `Aceptar`. En la siguiente ventana titulada `Propiedades para 'Captura de juego'`:
 
-![Renderización del vídeo](img/Recording_5-ES.png "Renderización del vídeo")
+- Si ejecutas osu! a pantalla completa, establece `Modo` en `Capturar cualquier aplicación de pantalla completa`.
+- Si ejecutas osu! sin bordes o en ventana, cambia `Modo` a `Capturar ventana específica`, luego abre el juego y busca `[osu!.exe]: osu!` en el desplegable de `Ventana`.
 
-![Renderización del vídeo](img/Recording_6.png "Renderización del vídeo")
+Si ves un cuadro negro en lugar de osu! en la ventana de previsualización, haz clic con el botón derecho del ratón en la fuente `Captura de juego` e intenta ajustar la configuración de la ventana.
 
-Pulsa el botón de renderizar y tu vídeo estará listo en un par de minutos. ¡Ya está listo para YouTube! Ten en cuenta que el vídeo tardará algún tiempo en estar disponible en alta resolución en YouTube, ¡ten paciencia!
+![OBS totalmente configurado](img/recording_osu_5-ES.png)
 
-**Ahora, ve a hacer videos y difunde osu!.** Guía realizada por [Remco32](https://osu.ppy.sh/users/9199), hilo original [aquí](https://osu.ppy.sh/community/forums/topics/18112).
+Si tu objetivo es grabar solo las partidas de osu!, probablemente quieras silenciar la sección `Mic/Aux` del `Mezclador de audio` haciendo clic en el icono de sonido.
+
+![OBS totalmente configurado](img/recording_osu_6-ES.png)
+
+Los demás ajustes predeterminados de OBS Studio son adecuados para grabar partidas de osu!, así que una vez hecho esto, ¡OBS Studio debería estar listo para funcionar!
