@@ -6,7 +6,7 @@ date: 2023-11-14 16:20:00 +0000
 
 Another month passes, and another contest arrives! See if you have what it takes to join the mapping elites, and witness the results of the previous contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 You don't need many brain cells to comprehend what the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is. This month is all about **osu!** and **osu!mania**, including...
 

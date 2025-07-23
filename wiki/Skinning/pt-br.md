@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: cd53f694f7e0e700e57857590002cd09e6a07e07
+---
+
 # Skinning
 
 Skinning é um dos principais recursos do osu!. Possibilita que os jogadores utilizem os elementos originais de skins para criar a sua própria! Skins podem variar desde temáticas, profissionais, quase impossível de usá-las ou apenas para diversão.

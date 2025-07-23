@@ -39,7 +39,7 @@ Máy phát nhạc gồm những nút bấm sau:
 | ![](img/jukebox/view-song-info.jpg "View song info") | Bật tắt giữa việc hiện thông tin về bài hát, hoặc để nó mờ nhạt dần sau một khoảng thời gian. |
 | ![](img/jukebox/jump-to-window.jpg "Jump To window") | Mở ra danh sách bài hát nhạc. Bạn có thể tìm kiếm bài hát hoặc lọc bằng những bộ sưu tập. |
 
-Máy phát nhạc cũng có thể được điều khiển với những [phím tắt](/wiki/Client/Keyboard_shortcuts#jukebox).
+Máy phát nhạc cũng có thể được điều khiển với những [phím tắt](/wiki/Client/Keyboard_shortcuts#máy-phát-nhạc).
 
 ## Cài đặt người dùng
 
@@ -177,7 +177,7 @@ Những bộ lọc được hỗ trợ:
 | `status` | Tình trạng beatmap. Bạn có thể nhập `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, hoặc `loved`, hoặc `r`/`a`/`p`/`n`/`u`/`l` khi được rút gọn. |
 | `played` | Khoảng thời gian tính bằng ngày kể từ lần cuối chơi |
 | `unplayed` | Chỉ hiện thị những beatmap chưa được chơi. Phải được sử dụng như thế này: `unplayed=`. Client sẽ bỏ qua `unplayed` |
-| `speed` | Tốc độ cuộn của osu!mania đã được lưu. Sẽ luôn là 0 đối với beatmap chưa được chơi hoặc nếu lựa chọn [`Nhớ tốc độ cuộn của mỗi beatmap osu!`](/wiki/Client/Options#gameplay) được tắt. |
+| `speed` | Tốc độ cuộn của osu!mania đã được lưu. Sẽ luôn là 0 đối với beatmap chưa được chơi hoặc nếu lựa chọn [`Nhớ tốc độ cuộn của mỗi beatmap osu!`](/wiki/Client/Options#trong-game) được tắt. |
 
 Những phép so sánh được hỗ trợ:
 

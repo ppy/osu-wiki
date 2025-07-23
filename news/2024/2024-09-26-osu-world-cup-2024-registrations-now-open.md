@@ -4,7 +4,7 @@ title: "osu! World Cup 2024: Registrations Now Open!"
 date: 2024-09-26 13:00:00 +0000
 ---
 
-The osu! World Cup is back for its 15th edition, but now with a slight twist our beloved country-based circle clicking festival. Read on to find out why!
+The osu! World Cup is back for its 15th edition, but now with a slight twist on our beloved country-based circle clicking festival. Read on to find out why!
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
@@ -27,7 +27,7 @@ Refer to the **[osu! World Cup 2024 wiki article](/wiki/Tournaments/OWC/2024)** 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | Sep 26 (13:00 UTC) – Oct 10 (23:59 UTC) |
-| Qualifier showcase | Oct 20 (14:00 UTC) |
+| Qualifier showcase | Oct 20 (18:00 UTC) |
 | Qualifier stage | Oct 26 & Oct 27 |
 | Round of 32 | Nov 2 & Nov 3 |
 | Round of 16 | Nov 9 & Nov 10 |

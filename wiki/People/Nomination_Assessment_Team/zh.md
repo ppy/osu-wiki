@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: f55c53278e0141286b7f026d3848c5386f832f33
 tags:
   - NAT
   - 审核评估
@@ -8,11 +6,11 @@ tags:
 
 # 审核评估团队 (NAT)
 
-*参见：[BN 评估](Evaluations)*
+*参见：[BN 评估](Evaluations), [SEV 分数](SEV_rating)*
 
 **审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
 
-可以通过橙红色的游戏内名称、橙红色的玩家头衔和写着 `NAT` 的[用户组徽章](/wiki/People/User_group)认出他们。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
+可以通过橙红色的游戏内名称、橙红色的玩家头衔和写着 `NAT` 的[用户组徽章](/wiki/People/User_groups)认出他们。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
 
 **审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_code_of_conduct)以及[普通的社区规则](/wiki/Rules)。**
 
@@ -41,8 +39,8 @@ tags:
 - **管理**：处理玩家举报，评估谱面审核成员 (BN) 的不良行为，以及处理和审查谱面内容。这部分工作通常由审核评估团队 (NAT) 和全局管理团队 (GMT) 合作完成。
 - **杂项处理**：包括但不限于：
  - 推进[谱面否决 (Veto)](/wiki/People/Beatmap_Nominators/Beatmap_Veto)。
- - 维护[谱面管理子论坛](https://osu.ppy.sh/community/forums/115)。
- - 判决提名重置的影响[^impact-rating]。
+ - 维护[谱面上架标准 (RC)](https://osu.ppy.sh/community/forums/87) 和[谱面管理](https://osu.ppy.sh/community/forums/115)子论坛。
+ - 判决提名重置的[严重程度](SEV_rating)。
 
 负责这一类别的 NAT 成员，需要确保 BN 和作图摸图社区的其他成员之间保持良好的沟通，互相之间接受对方的意见。此外，顾问还负责维护与作图和摸图相关的一切运行所需的组件。顾问通常由经验丰富的 NAT 成员组成，他们更常关注作图和摸图相关的管理事务。
 
@@ -70,7 +68,7 @@ NAT 成员可获得以下特权：
 - **职位奖牌**：获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
   ![1 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT1y.png "1 年 NAT 奖牌") ![2 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT2y.png "2 年 NAT 奖牌") ![3 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT3y.png "3 年 NAT 奖牌") ![4 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT4y.png "4 年 NAT 奖牌") ![5 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT5y.png "5 年 NAT 奖牌") ![6 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT6y.png "6 年 NAT 奖牌") ![7 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT7y.png "7 年 NAT 奖牌") ![8 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT8y.png "8 年 NAT 奖牌") ![9 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT9y.png "9 年 NAT 奖牌") ![10 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT10y.png "10 年 NAT 奖牌")
 - **[提名](/wiki/Beatmap_ranking_procedure#nominations)次数奖牌**：当提名次数达到某里程碑后，获得一个显示提名次数的主页奖牌。
-  ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 次提名奖牌") ![1500 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 次提名奖牌") ![2000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 次提名奖牌")
+  ![100 提名奖牌](https://assets.ppy.sh/profile-badges/100_noms.png "100 次提名奖牌") ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 次提名奖牌") ![1500 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 次提名奖牌") ![2000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 次提名奖牌")
 - **[优秀提名者](/wiki/People/Elite_Nominators)候选资格**：如果 NAT 成员在提名谱面方面表现出色，可以获得优秀提名者候选资格。
 
 ## 加入审核评估团队 (NAT)
@@ -91,7 +89,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 
 ## 离开审核评估团队 (NAT)
 
-如果 NAT 成员选择离开团队，他们将根据以下情况获得特权：
+如果审核评估团队成员在未发生纠纷的情况下选择卸任，他们将根据以下情况获得特权：
 
 - **[osu! 名人堂](/wiki/People/osu!_Alumni) 玩家头衔**：授予给在团队中至少任职 1 年，或是在短时间内为团队做出重大贡献的成员。
 - **osu! 支持者**：如果团队成员获得了名人堂头衔，他们也将获得 2 倍任职时长的 osu! 支持者标签。
@@ -100,10 +98,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 拥有内部访问权限的前 NAT 成员有：
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
@@ -111,7 +106,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 
 截至 2023 年 3 月，NAT 已经决定重新采用之前在[质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team) 时期使用的[领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)概念。NAT 领导人肩负有评估和顾问双重责任，因此他们可以监督并参与 NAT 的各项事务。
 
-目前的 NAT 领导人是：::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+目前的 NAT 领导人是：::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 和 ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)。
 
 ### 职责
 
@@ -138,32 +133,33 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 俄语 |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | 瑞典语 |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | 泰语 |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | 芬兰语 |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 德语 |
 
 #### osu!taiko
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 汉语 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语, 法语, 一些意大利语 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一些法语 |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | 一部分德语 |
+| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
 
 #### osu!catch
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
@@ -174,10 +170,9 @@ NAT 领导人的职责是：
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 |
-| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | 土耳其语 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语, 法语 |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 加泰罗尼亚语，西班牙语 |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语，法语 |
 
 ### 组织
 
@@ -185,25 +180,19 @@ NAT 领导人的职责是：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文件 |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | 开发内部工具 |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 维护谱面上架标准 (RC) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 开发 [BN 管理网站](https://bn.mappersguild.com) |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文档 |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织 |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN 管理网站](https://bn.mappersguild.com)开发 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
 
 以下 NAT 成员主要负责评估分类的事项，但也会参与组织分类的事项：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 处理内容举报 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 开发[提名规划师 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 开发 [BN 管理网站](https://bn.mappersguild.com) 和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck) |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [点图规划 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch)开发 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT 领导, [BN 管理网站](https://bn.mappersguild.com)和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks)开发 |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，[osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck)开发 |
 
 ---
 
-此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 这个机器人是 NAT 的代言人，NAT 使用此账号而非玩家账号发布消息。它可以用于回应评估结果、模拟评估、调解、报告和内容审查，以及其他杂项事务。
-
-## 备注
-
-[^impact-rating]: 这一过程的内容为：检查每一次提名重置，并为其分配一个“轻微”、“注意”、“严重”标签，以供未来的评估参考。
+此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 这个机器人是 NAT 的代言人，NAT 使用此账号而不是其他玩家账号来发布消息。它可以用于 NAT 回应评估结果、模拟评估、调解、报告和内容审查，以及处理其他杂项事务。

@@ -14,10 +14,11 @@ tags:
 
 ![Icono del mod TP](/wiki/shared/mods/TP.png "Icono del mod Target Practice (TP)")
 
+*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Target Practice (mod de lazer)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
 *Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *Nota: El mod Target Practice solo es accesible en la version `Cutting Edge` del juego.*
 
-## Información adicional
+## Resumen
 
 - Abreviatura: TP
 - Tipo: Especial

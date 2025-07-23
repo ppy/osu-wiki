@@ -14,12 +14,13 @@ tags:
   - удвоенное время
 ---
 
-# Double Time (мод)
+# Double Time
 
 ![Значок мода DT](/wiki/shared/mods/DT.png "Значок мода Double Time (DT)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Double Time (lazer)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
-*См. также: [Nightcore (мод)](/wiki/Gameplay/Game_modifier/Nightcore)*
+*См. также: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## Краткая информация
 

@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2020 logo](/wiki/shared/news/banners/CWC2020.jpg)
 
-The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the ninth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2020** (***CWC 2020***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the ninth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 

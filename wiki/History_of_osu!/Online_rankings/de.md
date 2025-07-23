@@ -25,15 +25,17 @@ Mit Stand vom 3. August 2024 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/user
 
 ## ![][osu!taiko] osu!taiko
 
-Mit Stand vom 19. Juni 2024 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 1. März 2025 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
 
-Mit Stand vom 21. Juli 2024 ist ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+*Hauptseite: [Geschichte der osu!catch-Rangliste](osu!catch)*
+
+Mit Stand vom 2. November 2024 ist ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
-Mit Stand vom 13. April 2023 ist ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
+Mit Stand vom 31. Dezember 2024 ist ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -1,93 +1,117 @@
 ---
-outdated_translation: true
-outdated_since: c16d34867b14268eef6878eb3c297ceb7333ffe9
+no_native_review: true
 ---
 
-# Pemecahan masalah kinerja osu!
+# Penyelesaian masalah kinerja osu!
 
-osu! memberikan pengalaman yang terbaik saat dijalankan dengan pengaturan default yang normal dan secara proaktif memberi peringatan jika kamu melakukan / menjalankan sesuatu yang menyebabkan kinerja gim menurun.
+Pada saat kamu melakukan/menjalankan sesuatu yang dapat menurunkan performa permainanmu, osu! akan berusaha sebisa mungkin untuk tetap berjalan dengan pengaturan bawaan yang layak dan memberikan kamu peringatan yang sesuai.
 
-Sayangnya, karena cakupan perangkat keras ketika menjalankan osu!, sangat sulit untuk memastikan kinerja yang optimal untuk setiap pengguna. Halaman ini bertujuan untuk membantu kamu mendiagnosis sendiri masalah kinerja yang kamu miliki, tetapi juga memberikan istilah spesifik yang dapat kamu pelajari (dan pemeriksaan yang dapat kamu lakukan sendiri) untuk membantu kami dan membantu kamu ketika sedang membutuhkan bantuan.
+Sayangnya, dengan sangat banyaknya jenis perangkat keras yang dapat menjalankan osu!, memastikan performa yang optimal bagi seluruh pengguna merupakan hal yang sangat sulit. Oleh karenanya, halaman ini ditujukan untuk membantu kamu mendiagnosa masalah performa yang kamu alami secara mandiri serta menjelaskan berbagai istilah (dan metode pemeriksaan yang dapat kamu lakukan) untuk membantu kami pada saat kamu menghubungi layanan dukungan.
 
-## Berbagai macam tipe "lag"
+## Hal-hal yang perlu diperiksa
 
-Sangat sulit untuk memberikan dukungan ketika setiap jenis masalah dikelompokkan dalam satu kata "lag", jadi mari kita mulai dengan mendefinisikan beberapa istilah untuk skenario tertentu.
+- Apakah kamu menggunakan skin? Apabila ya, cobalah untuk mengubah skin yang aktif ke skin Default dan lihat apakah situasimu membaik. Skin tertentu dapat dirancang sedemikian rupa sehingga menyebabkan masalah performa pada sebagian atau seluruh sistem.
+- Apakah batasan FPS kamu diatur ke `Tak Terbatas`? Atur batasan ini ke `Optimal` dan periksa apakah hal ini membantu masalahmu. Lihat [bagian khusus hal ini](#tak-terbatas) untuk informasi lebih lanjut seputar mengapa `Tak Terbatas` pada umumnya bukan pilihan yang terbaik.
+- Apakah kamu menjalankan osu! pada mode Windowed? Beralihlah ke mode Fullscreen.
+- Apakah kamu telah memperbarui drivermu (terutama driver GPU)? Cobalah untuk memperbarui drivermu dan amati apakah masalahmu menjadi lebih baik. Sebagai alternatif, apabila kamu baru saja memperbarui drivermu, cobalah untuk mengembalikan driver ini ke versi terdahulu.
+- Apakah PC kamu menggunakan NVIDIA Optimus atau pengaturan grafis hybrid lainnya? Apabila ya, cobalah untuk memaksa permainan untuk berjalan pada masing-masing GPU untuk membandingkan performa yang ada. Bukan merupakan hal yang janggal apabila GPU terintegrasi memberikan performa yang lebih konsisten untuk permainan seperti osu!. Untuk menguji hal ini, cari "Graphics settings" pada pengaturan Windows dan atur osu! ke mode "Power Saving" atau "High Performance".
 
-### Audio stuttering
+## Jenis-jenis "lag"
 
-Trek audio pada sebuah beatmap mundur atau terhenti. Pada dasarnya, ketika gim mengalami lag, kamu dapat mendengar suaranya. Ketika mendiagnosis atau melaporkan, silahkan ikuti petunjuk ini:
+Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah dikategorikan sebagai "lag". Oleh karenanya, bagian ini akan menerangkan berbagai kejadian lag yang umum dijumpai secara spesifik.
 
-- Cek apakah itu terjadi pada semua perangkat audio. Jika kamu menggunakan sebuah headset USB, cobalah untuk menghubungkannya melalui analog output pada PC kamu sebagai gantinya.
-- Cek apakah menghidupkan "Audio compatibility mode" pada pengaturan dapat membantu.
+### Audio yang tersendat
 
-### Spike frame
+Lag ini terjadi apabila audio dari beatmap mundur dengan sendirinya atau terdengar tersentak-sentak (*stuttering*) seiring waktunya. Singkatnya, pada saat permainan mengalami lag, kamu juga dapat mendengar lag ini pada audio kamu. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
-Ketika bermain, semuanya yang ada di layar berhenti untuk waktu yang lama sehingga merusak pengalaman bermain. Ini mungkin terjadi lebih dalam sekali, secara acak atau dengan interval yang konsisten. Ketika mendiagnosis atau melaporkan, silahkan ikuti petunjuk ini:
+- Periksa apakah masalah ini terjadi pada seluruh perangkat audio yang tersedia. Apabila kamu menggunakan headset USB, cobalah untuk menghubungkan headset*ini melalui colokan analog pada PC kamu.
+- Periksa apakah masalahmu teratasi dengan mengaktifkan `Mode kompatibilitas audio` pada menu pengaturan.
 
-- Hitunglah berapa banyak sudah terjadi seperti itu saat bermain.
-- Cek apakah itu sering terjadi.
-- Cek bagaimana itu bisa terjadi, dan apakah itu terjadi saat interval yang konsisten.
-- Cek apakah masih mengalaminya setelah melakukan restart PC.
-- Cobalah untuk menutup beberapa aplikasi yang menampilkan overlay di dalam gim (Discord, Steam, NVIDIA Shadowplay atau sejenisnya)
-- Pastikan kamu mengaktifkan [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) pada Windows 10. Ini sangat berguna untuk memberikan performa yang lebih kepada osu!.
-- Buka task manager dan urutkan sesuai CPU. Disana kamu dapat melihat penggunaan CPU Usage paling tinggi yang dapat menyebabkan spike, misalnya background virus atau scanner malware. Kamu dapat menjalankan osu! dalam keadaan windowed atau pindahkan task manager ke monitor kedua untuk mendiagnosis penyebabnya ketika bermain, pastikan kamu menggunakan autoplay.
+### Layar yang membeku
 
-### Input latency
+Lag ini terjadi apabila dalam permainan, tampilan layar kamu membeku (*spiking*) dalam waktu yang cukup lama untuk dapat mengganggu permainan. Hal ini dapat terjadi hingga beberapa kali, baik dalam selang waktu yang acak ataupun teratur. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
-Terdapat jeda ketika melakukan tapping menggunakan keyboard atau menggerakan mouse atau pen tablet, dan dapat dilihat pada layar. Ketika mendiagnosis atau melaporkan, silahkan ikuti petunjuk ini:
+- Hitung secara rata-rata berapa kali masalah ini terjadi dalam suatu sesi permainan.
+- Periksa apakah masalah ini selalu terjadi seiring waktunya.
+- Periksa seberapa sering masalah ini terjadi dan apakah masalah ini muncul dalam selang waktu yang teratur.
+- Periksa apakah masalah ini masih terjadi segera setelah PC kamu dinyalakan ulang.
+- Cobalah untuk menutup segala aplikasi yang menampilkan overlay di dalam permainan (Discord, Steam, NVIDIA Shadowplay, dll.)
+- Pastikan bahwa kamu sedang mengaktifkan pengaturan [Game Mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10). Pengaturan ini mengizinkan Windows untuk menyediakan berbagai sarana inti dan sumber daya khusus untuk osu!.
+- Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat lonjakan performa ini terjadi, semisal akibat pemindai virus atau malware yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode autoplay.
 
-- Cek apakah itu terjadi kepada semua perangkat input, atau hanya beberapa.
-- Jika kamu menggunakan driver yang tidak resmi, cobalah untuk menggunakan yang asli.
-- Pastikan kamu menjalankan osu! dalam keadaan fullscreen. Menjalankan osu! ketika windowed atau borderless menambahkan satu frame dari latency.
+### Jeda input
 
-### Kehilangan kendali
+Lag ini terjadi apabila terdapat jeda yang terasa antara penekanan tuts keyboard atau pergerakan mouse/pen tablet dengan hasil tindakan yang terlihat pada layar. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
-Ketika bermain, satu atau beberapa perangkat input mengalami putus / berhenti tidak bisa ditekan maupun digerakkan. Semua pada layar bergerak seperti biasa, tapi sangat tidak mungkin untuk bermain seperti biasa sampai dapat dikontrol kembali. Ketika mendiagnosis atau melaporkan, silahkan ikuti petunjuk ini:
+- Periksa apakah masalah ini terjadi pada seluruh atau hanya pada salah satu perangkat input yang kamu miliki.
+- Cobalah untuk beralih ke driver resmi apabila kamu saat ini sedang menggunakan driver yang tidak resmi.
+- Pastikan bahwa kamu sedang menjalankan osu! pada mode Fullscreen eksklusif. Menjalankan osu! pada mode Windowed atau Borderless akan menambah jeda input hingga satu frame.
 
-- Tekan Ctrl+F11 untuk melihat grafik frame time, Cek apakah terdapat banyak putih pada grafik ketika ini terjadi (ini artinya aplikasi lain atau driver di dalam sistem kamu menggunakan terlalu banyak CPU yang menyebabkan input terjeda).
+### Hilangnya kendali
 
-### Low frame rate
+Lag ini terjadi apabila dalam permainan, satu atau lebih perangkat input yang kamu miliki berhenti merespons. Walaupun tampilan layar kamu terlihat normal, kamu tidak dapat bermain dengan hingga kamu memperoleh kembali kendali atas perangkatmu. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
-Ketika bermain, frame rate tidak dapat mengimbangi, membuat gerakan pada sebuah objek di layar menjadi aneh. Ini juga dapat mempengaruhi input latency ketika frame rate mengalami masalah. Ketika mendiagnosis atau melaporkan, silahkan ikuti petunjuk ini:
+- Tekan `Ctrl` + `F11` untuk membuka tampilan Frame Time Graph. Periksa apakah terdapat banyak warna putih pada bagan pada saat hal ini terjadi (yang berarti bahwa terdapat aplikasi atau driver pada sistem kamu yang menghabiskan terlalu banyak daya CPU dan menunda input perangkat).
 
-- Cek apakah itu masih terjadi setelah melakukan restart PC.
-- Cobalah untuk menutup beberapa aplikasi yang menampilkan overlay di dalam gim (Discord, Steam, NVIDIA Shadowplay atau sejenisnya)
-- Pastikan kamu tidak memaksa vsync pada layar driver kamu (itu harusnya diubah ke "off" atau "application preference" pada nvidia setting).
-- Cobalah untuk mengganti frame limiter dan lihat jika terjadi perubahan.
-- Pastikan kamu menjalankan osu! dalam keadaan fullscreen (bukan borderless). Ini akan meningkatkan kinerja osu!.
-- Pastikan kamu mengaktifkan [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) pada Windows 10. Ini sangat berguna untuk memberikan performa yang lebih kepada osu!.
-- Buka task manager dan urutkan sesuai CPU. Disana kamu dapat melihat penggunaan CPU Usage paling tinggi yang dapat menyebabkan spike, misalnya background virus atau scanner malware. Kamu dapat menjalankan osu! dalam keadaan windowed atau pindahkan task manager ke monitor kedua untuk mendiagnosis/mengetahui penyebabnya ketika bermain, pastikan kamu menggunakan autoplay.
+### FPS yang rendah
 
-## Pembatasan frame
+Lag ini terjadi apabila dalam permainan, frekuensi gambar (*frame rate*) yang ada tidak dapat mengikuti laju permainan, yang mengakibatkan objek pada layar bergerak secara canggung dan tidak lazim. Hal ini juga dapat meningkatkan jeda input yang dirasakan. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
-osu! memberikan beberapa pilihan untuk membatasi frame. Setiap pilihan memiliki pro dan kontra. Perhatikan bahwa terlepas dari pengaturan, osu! akan membatasi frame rate pada menu untuk menghemat penggunaan CPU.
+- Periksa apakah masalah ini masih terjadi segera setelah PC kamu dinyalakan ulang.
+- Cobalah untuk menutup segala aplikasi yang menampilkan overlay di dalam permainan (Discord, Steam, NVIDIA Shadowplay, dll.).
+- Pastikan kamu tidak sedang mengaktifkan VSync secara paksa pada driver tampilanmu (pengaturan ini selayaknya diatur ke "nonaktif" atau "preferensi aplikasi").
+- Cobalah untuk mengubah nilai batasan FPS dan periksa apakah situasimu membaik.
+- Pastikan bahwa kamu sedang menjalankan osu! pada mode Fullscreen eksklusif (bukan Borderless). Mode ini akan selalu memberikan performa yang lebih baik dari mode lainnya.
+- Pastikan bahwa kamu sedang mengaktifkan pengaturan [Game Mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10). Pengaturan ini mengizinkan Windows untuk menyediakan berbagai sarana inti dan sumber daya khusus untuk osu!.
+- Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat lonjakan performa ini terjadi, semisal akibat pemindai virus atau malware yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode autoplay.
+
+## Batasan FPS
+
+osu! memiliki berbagai nilai batasan FPS yang masing-masingnya memiliki kelebihan dan kekurangan. Mohon diperhatikan bahwa terlepas dari nilai batasan yang aktif, osu! akan selalu membatasi nilai FPS pada jendela menu untuk menghemat pemakaian CPU.
 
 ### VSync
 
-Frame limiter ini bergantung pada driver yang menyediakan mekanisme sinkronisasi vertikal. Ini menjamin tidak ada robekan layar, tetapi menambakan 1-2 frame untuk latency karena itu adalah syarat dari buferring frame sebelum ditampilkan.
+Batasan FPS ini bekerja dengan mengandalkan mekanisme sinkronisasi vertikal (*vertical synchronising*) yang disediakan oleh driver. Batasan ini menjamin ketiadaan garis sobekan pada layar (*screen tearing*), namun dapat menambah jeda input yang ada hingga 1-2 frame karena setiap frame harus dibuffer terlebih dahulu sebelum ditampilkan.
 
-Secara umum sangat tidak bagus untuk layar 60Hz. Ini akan sangat berguna pada layar yang memiliki refresh rate dibawah 120Hz, tapi untuk monitor yang memiliki fitur GSync dan FreeSync, membutuhkan VSync untuk menghindari robekan layar.
+Batasan ini pada umumnya tidak disarankan untuk monitor 60Hz. Walaupun batasan ini dapat lebih berguna pada monitor di atas 120Hz, VSync tidak lagi dibutuhkan untuk menghindari sobekan pada layar karena monitor zaman sekarang kebanyakan telah dilengkapi dengan teknologi GSync dan FreeSync.
 
-### Power Saving
+### Hemat Daya
 
-Frame limiter ini bertujuan untuk menghemat penggunaan daya dan memberikan pengalaman bermain gim yang konsisten. Ini akan menjalankan 2x monitor refresh rate dan mencoba untuk menjaga kecepatan frame dengan konsisten.
+Batasan FPS ini ditujukan untuk menghemat daya tanpa mengorbankan permainan yang konsisten. Batasan ini akan berjalan pada nilai yang setara dengan 2x refresh rate monitor dan akan berusaha untuk menjaga laju tampilan yang konsisten.
 
-Direkomendasikan untuk PC lawas atau untuk menghemat baterai pada laptop.
+Disarankan untuk PC yang telah berumur atau untuk menghemat daya baterai pada laptop.
 
 ### Optimal
 
-Frame limiter ini mencoba untuk mempertahankan frame rate 8x refresh rate kamu, dengan maksimal 960Hz. Frame limiter ini sangat dianjurkan untuk pengguna yang tidak mau menggunakan CPU/GPU setingkat ekstrim, sambil mempertahankan level tinggi dari sebuah kinerja yang membuat input latency menurun.
+Batasan FPS ini akan berupaya untuk menjaga FPS agar setara dengan 8x refresh rate monitor hingga maksimal 960 FPS. Batasan ini adalah batasan yang kami rekomendasikan bagi para pengguna yang tidak ingin menjalankan CPU/GPU mereka ke titik maksimalnya, namun tetap ingin menjaga performa yang memadai demi memperoleh jeda input yang rendah.
 
-Dapat direferensikan ke unlimited untuk mengurangi angka frame yang sudah dirender, yang dapat mengurangi potensi overhead [koleksi sampah](https://id.wikipedia.org/wiki/Pengumpulan_sampah_(ilmu_komputer)) (yang dapat mengakibatkan spike frame).
+Batasan ini dapat lebih diutamakan dibanding `Tak Terbatas` untuk mengurangi jumlah frame yang dirender, karena hal ini akan mengurangi potensi terdapatnya frame yang hilang akibat proses [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) (yang dapat membekukan layar selama sepersekian detik).
 
-### Unlimited
+### Tak Terbatas
 
-Frame limiter ini berfungsi untuk tidak membatasi frame rate. osu! akan melakukan render secepat mungkin selama CPU/GPU kamu bisa.
+Batasan FPS ini merupakan batasan yang tidak membatasi FPS yang ada. osu! akan merender gambar secepat yang CPU/GPU kamu mampu.
 
-Mungkin ini adalah pilihan terbaik (dan memang, jika hardware kamu mendukungnya), ada beberapa hal yang harus kamu pertimbangkan:
+Walaupun batasan ini sekilas terlihat seperti pilihan yang terbaik (dan memang benar adanya, apabila kamu memiliki perangkat yang mendukung), terdapat beberapa hal yang perlu kamu pertimbangkan sebelum kamu menggunakan batasan ini:
 
-- Dengan melakukan render frame yang banyak, terdapat potensi yang tinggi dari overhead [koleksi sampah](https://id.wikipedia.org/wiki/Pengumpulan_sampah_(ilmu_komputer)).
-- Dengan memaksa CPU dan GPU kamu ke limit maksimal, terdapat beberapa kemungkinan akan terjadi throttle, dan membuat seluruh kinerja menjadi menurun.
-- GPU biasanya tidak melakukan render 1000+ frame per detik, sehingga terdapat kemungkinan mendapati kejadian tidak terduga, termasuk penurunan kinerja atau latency tinggi jika tidak dapat dicapai.
+- Dengan merender lebih banyak frame, terdapat potensi yang lebih besar akan terdapatnya frame yang hilang akibat proses [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)).
+- Dengan mendorong CPU dan GPU kamu hingga batasnya, kedua perangkat ini akan dapat mengalami kelebihan muatan (*throttling*) yang menurunkan performa permainan kamu secara umum.
+- GPU pada umumnya tidak ditujukan untuk me-render hingga 1000+ frame per detiknya. Oleh karenanya, batasan ini dapat menyebabkan perilaku yang tidak diinginkan, seperti performa yang lebih rendah dan jeda input yang lebih tinggi dari yang semestinya.
 
-Walaupun demikian, jika panas dan potensi kerja yang berlebih tidak dianggap sebagai masalah, unlimited mungkin menjadi pilihan yang tepat untuk memberikan frame time yang lebih stabil untuk kamu.
+Terlepas dari semua hal ini, apabila suhu dan beban perangkat yang berlebihan bukan masalah bagi kamu, `Tak Terbatas` dapat menjadi pilihan yang memberikan waktu antar frame yang paling stabil.
+
+### Batasan FPS khusus
+
+*Peringatan kepada pengguna Cutting Edge: Mengubah nilai `CustomFrameLimit` ke angka yang lebih besar dari 999 akan secara otomatis menurunkan nilai ini ke 999; hal ini tidak berlaku pada Stable, di mana kamu dapat menggunakan nilai yang lebih besar dari 1000 tanpa masalah.*\
+*Perhatian: kamu tidak dapat mengubah pengaturan ini melalui tombol `F7` dari dalam permainan, bahkan apabila kamu mengikuti langkah-langkah di bawah ini; kamu akan perlu untuk mengubah batasan FPS osu! ke `Custom` pada menu pengaturan sebelum meninggalkan permainan agar nilai ini dapat digunakan pada saat osu! dibuka ke depannya. Apabila tidak, kamu akan perlu untuk kembali mengubah nilai `FrameSync` secara manual.*
+
+Batasan FPS ini akan berupaya untuk menjaga FPS agar berada pada nilai yang sesuai dengan keinginanmu; meskipun demikian, pengaturan ini tidak dapat diterapkan melalui menu di dalam permainan secara bawaan.
+
+Untuk mengubah batasan FPS maksimum osu! ke nilai yang khusus, kamu akan perlu untuk mengubah beberapa nilai pada berkas config osu! sebagai berikut:
+
+1. Buka folder osu! milikmu dengan mengeklik tombol `Buka folder osu! ` pada menu options atau dengan menelusuri folder ini secara manual. (Lokasi bawaan folder ini adalah `C:\Users\<yourPCusername>\AppData\Local\osu!` untuk Windows;`/Applications/osu!.app/Contents/Resources/drive_c/osu!` untuk Mac.)
+2. Tutup osu!.
+3. Buka berkas `osu!.<yourPCusername>.cfg` dengan Notepad atau pengolah teks yang kamu kehendaki.
+4. Cari baris `FrameSync = <value>` dan ubah nilai baris ini ke `Custom`.
+5. Cari baris `CustomFrameLimit = <value>` dan ubah nilai baris ini ke angka yang kamu kehendaki.
+6. Simpan berkas config ini. (Apabila kamu belum menutup osu! pada langkah kedua, tutup osu! terlebih dahulu sebelum menyimpan.)
+7. Buka osu! kembali.

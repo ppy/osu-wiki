@@ -6,9 +6,9 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 
 ## Glosario
 
-### Nombre de las dificultades
+### Nombres de las dificultades
 
-*Artículo principal: [Nombramiento de dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
+*Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -69,9 +69,9 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **Cada [estilo de juego no estándar](#términos-comunes) presente en un beatmap debe indicarse en las etiquetas del beatmap.**
 - **Las dificultades que usen un [estilo de juego N+1](#términos-comunes) deben activar la opción `Use special style (N+1 style) for mania` en la pestaña `Advanced` de la ventana `Song Setup`. El beatmap también debe incluir la etiqueta «N+1».** A efectos de esta regla, solo los estilos de juego con un cantidad de teclas inferior a 10 pueden considerarse «N+1».[^n-plus-1]
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cualquier dificultad es...**
-  - **... inferior a 2:30**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Normal o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 4 dificultades.
-  - **... entre 2:30 y 3:15**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Hard o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 3 dificultades.
-  - **... entre 3:15 y 4:00**, each [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Insane o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 2 dificultades.
+  - **... inferior a 2:00**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Normal o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 4 dificultades.
+  - **... entre 2:00 y 2:45**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Hard o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 3 dificultades.
+  - **... entre 2:45 y 3:30**, cada [modo de teclas](#términos-comunes) y [estilo de juego](#términos-comunes) debe incluir una dificultad Insane o inferior, o proporcionar una dispersión adecuada[^proper-spread] que contenga al menos 2 dificultades.
 
 ### Pautas
 

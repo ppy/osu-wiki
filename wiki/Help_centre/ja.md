@@ -11,6 +11,8 @@ tags:
   - トラブル
   - サポート
 no_native_review: true
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # ヘルプセンター
@@ -28,7 +30,7 @@ no_native_review: true
 | [ビートマッピングとエディター](/wiki/Help_centre/Beatmapping) | ビートマップ、ビートマップの所有権、ビートマップ スロットの維持 |
 | [クライアント](/wiki/Help_centre/Client) | バグとクラッシュ、ゲームプレイ、接続、パフォーマンス |
 | [インストールと登録](/wiki/Help_centre/Installation_and_registration) | ゲームのダウンロード、アカウントの作成 |
-| [ストア](/wiki/Help_centre/Store) | グッズ、osu!go、osu!キーボード、osu!タブレット |
+| [ストア](/wiki/Help_centre/Store) | グッズ |
 | [トーナメントの禁止事項](/wiki/Help_centre/Tournament_bans) | トーナメントの禁止事項に関するすべて: 概要、一般的な理由、クールダウン |
 | [lazerへのアップデート](/wiki/Help_centre/Upgrading_to_lazer) | osu!の[次のメジャーリリース](/wiki/Client/Release_stream/Lazer) への移行 |
 | [ウェブサイト](/wiki/Help_centre/Website) | ユーザーのブロック、サポートへの連絡、サイトの表示 |
