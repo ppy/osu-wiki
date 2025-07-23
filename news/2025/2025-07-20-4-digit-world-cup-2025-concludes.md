@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Digit World Cup 2025 Concludes
-date: 2025-07-20 12:00:00 +0000
+date: 2025-07-24 12:00:00 +0000
 ---
 
 Another iteration of the 4 Digit World Cup is behind us. Let's take a look at what happened this year.
@@ -113,7 +113,7 @@ That last pick, and the last chance for Germany to force the tiebreaker, ended u
 
 ::{#hav}::
 
-![](/wiki/shared/news/2025-07-20-4-digit-world-cup-2025-concludes/interview-banner-hav.png)
+![](/wiki/shared/news/2025-07-24-4-digit-world-cup-2025-concludes/interview-banner-hav.png)
 
 [hav](https://osu.ppy.sh/users/14100781) placed 3rd in 4WC 2025 as a member of the Polish team, achieving their best finish so far.
 
@@ -177,7 +177,7 @@ As for how we'd compare to other teams, right now it's hard to say. Most of the 
 
 ::{#pezz}::
 
-![](/wiki/shared/news/2025-07-20-4-digit-world-cup-2025-concludes/interview-banner-pezz.png)
+![](/wiki/shared/news/2025-07-24-4-digit-world-cup-2025-concludes/interview-banner-pezz.png)
 
 [Pezz](https://osu.ppy.sh/users/10651106) (a.k.a. Godskin Noble), after winning the [2023](https://osu.ppy.sh/community/forums/topics/1761090?n=1) and [2024](/wiki/Tournaments/4WC/2024) iterations of 4WC, turned to mappooling to continue his involvement with the series.
 
@@ -241,7 +241,7 @@ While I could answer this with so many different things, truthfully speaking I t
 
 As always, we'd like to thank the extensive contributions of 126 individuals who helped make this iteration of the 4 Digit World Cup possible, as well as the 452 players who joined in to compete.
 
-![](/wiki/shared/news/2025-07-20-4-digit-world-cup-2025-concludes/credits.png)
+![](/wiki/shared/news/2025-07-24-4-digit-world-cup-2025-concludes/credits.png)
 
 Thank you to everyone involved from staff, to players, to spectators. See you all again in 2026!
 
