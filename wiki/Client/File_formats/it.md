@@ -14,8 +14,8 @@
 
 I file `.osz` e `.osk`  sono archivi che contengono rispettivamente beatmap e skin. Il loro contenuto viene estratto automaticamente da osu! quando vengono aperti:
 
-- I file`.osz` vengono estratti nella directory `Songs`
-- I file `.osk` vengono estratti nella directory `Skins`
+- I file`.osz` vengono estratti nella cartella `Songs`
+- I file `.osk` vengono estratti nella cartella `Skins`
 
 Sapere come creare un archivio di skin o beatmap riconosciuto da osu! renderà i tuoi lavori più accessibili ad altri utenti.
 
@@ -25,9 +25,9 @@ Sapere come creare un archivio di skin o beatmap riconosciuto da osu! renderà i
 2. Mettere tutti i file da archiviare in una cartella separata.
 3. Fare clic con il pulsante destro del mouse sulla cartella e selezionare `Aggiungi all'archivio...` (in alternativa, eseguire questa operazione dall'archiviatore stesso).
 4. Selezionare il formato dell'archivio ZIP.
-5. Nel nome del file dell'archivio, cambiare l'estensione `.zip` in `.osz` (`.osk` se si sta archiviando una skin).
+5. Nel nome del file dell'archivio, cambiare l'estensione da `.zip` a `.osz` (`.osk` se si sta archiviando una skin).
 
-Per testare l'archivio, fare una copia del file e aprirlo tramite osu!.
+Per controllare l'archivio, crea una copia del file e aprilo tramite osu!.
 
 ### Utilizzando osu!
 
