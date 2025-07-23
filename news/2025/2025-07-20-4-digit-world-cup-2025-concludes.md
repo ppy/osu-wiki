@@ -82,10 +82,6 @@ After a few more traded break points on [HD1](https://osu.ppy.sh/beatmapsets/167
 
 That last pick, and the last chance for Germany to force the tiebreaker, ended up being [HR2](https://osu.ppy.sh/beatmapsets/2381120#osu/5147502), the precision pick. Despite best efforts and a stellar 856,063 reverse choke from ::{ flag=DE }:: [stellasu](https://osu.ppy.sh/users/8508931), Germany failed to pull back the score by just 8,686 points. As such, Indonesia had eliminated the 2nd-seed powerhouse of Germany from 4WC, finishing the biggest upset of the tournament.
 
-## osu! originals
-
-placeholder
-
 ## Interviews
 
 <style>
