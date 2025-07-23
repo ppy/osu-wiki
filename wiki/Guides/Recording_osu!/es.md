@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 6dc64ff156f2eca77d8da916c16b9f21210ad5b5
----
-
 # Cómo grabar vídeos de osu!
 
 *Véase también: [Transmitir osu! en vivo](/wiki/Guides/Livestreaming_osu!)*
@@ -34,7 +29,7 @@ En `Ajustes`, ve a la pestaña `Salida` de la izquierda, cambia `Modo de salida`
 La grabación de pantalla es un equilibrio entre rendimiento y calidad de salida. Aunque esto depende de tu equipo, a continuación te indicamos algunos aspectos a tener en cuenta:
 
 - El `Codificador de vídeo` tiene un gran impacto en el rendimiento y la calidad de salida. Experimenta con ellos para ver cuál se adapta mejor a tu equipo.
-- La `Tasa de bits` equivale a la calidad de grabación. Si se cambia este número a uno extremadamente alto, la calidad de la salida será mayor y aumentará la tensión de rendimiento.
+- La `Tasa de bits` equivale a la calidad de grabación. Si se cambia este número a uno extremadamente alto, la calidad de salida será mayor, pero también aumentará la tensión de rendimiento de tu dispositivo.
 - Si los ajustes de grabación son más intensos de lo que puede soportar tu ordenador, aparecerá una advertencia en la parte inferior izquierda de OBS Studio. En este caso, también es probable que notes *lag* durante la reproducción del vídeo.
 
 ![Ajustes adicionales de vídeo](img/recording_osu_3-ES.png "Como punto de referencia, estos son los ajustes usados para los vídeos en el canal de YouTube de osu!")
