@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 账号限制
 
 *主页面：[帮助中心](/wiki/Help_centre)*
