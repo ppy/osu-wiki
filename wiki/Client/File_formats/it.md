@@ -32,7 +32,7 @@ Per testare l'archivio, fare una copia del file e aprirlo tramite osu!.
 ### Utilizzando osu!
 
 Per produrre un archivio di beatmap:
--Aprire una beatmap tramite l'[editor](/wiki/Client/Beatmap_editor).
+- Aprire una beatmap tramite l'[editor](/wiki/Client/Beatmap_editor).
 - Dal [menu in alto](/wiki/Client/Beatmap_editor/Menu), selezionare `File` > `Export package...`.
 - L'archivio `.osz` sarà collocato nella cartella `Exports` all'interno della cartella osu!.
 
