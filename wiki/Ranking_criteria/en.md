@@ -5,20 +5,9 @@ This article sets rules and guidelines that [beatmaps](/wiki/Beatmap) must follo
 - **Rules must not be broken under any circumstance.**
 - **Guidelines may be ignored and broken under exceptional circumstances.** When doing so, a sufficient explanation should be provided by the mapper either upfront or when prompted during the modding process.
 
-## Proposing changes
-
-Changes to any part of the ranking criteria are proposed through the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87). 
-
-1. **Create a proposal in the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87).** Try to be as detailed as possible while explaining your idea and the change's impact.
-2. **Come to a consensus.** If you think you are at that point, reach out to a member of the [NAT](/wiki/People/Nomination_Assessment_Team) to see if your proposal can be implemented. To an extent, the NAT can act as the arbiter in contentious cases, but proposals without a general consensus will likely not pass.
-3. **Create a pull request on the osu!wiki GitHub repository.** Usually, this is done by a member of the NAT involved in finalising the discussion.
-4. **Wait on approval from [peppy](https://osu.ppy.sh/users/2).**
-
-Changes that do not alter the meaning or intention of the ranking criteria, such as improvements to spelling, grammar, or organisation, may not need a forum proposal. It is still recommended to check with experienced community members that the changes are helpful and welcome.
-
 ## Table of contents
 
-Parts of the Ranking Criteria have their own articles while still applying to all beatmaps regardless of game mode, length, or any other restrictions.
+Parts of the ranking criteria have their own articles while still applying to all beatmaps regardless of game mode, length, or any other restrictions.
 
 ### Summary
 
@@ -43,6 +32,17 @@ In addition, each [game mode](/wiki/Game_mode) has specific ranking criteria tha
 - **[osu!taiko](osu!taiko)**
 - **[osu!catch](osu!catch)**
 - **[osu!mania](osu!mania)**
+
+## Proposing changes
+
+Changes to any part of the ranking criteria are proposed through the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87).
+
+1. **Create a proposal in the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87).** Try to be as detailed as possible while explaining your idea and the change's impact.
+2. **Come to a consensus.** If you think you are at that point, reach out to a member of the [NAT](/wiki/People/Nomination_Assessment_Team) to see if your proposal can be implemented. To an extent, the NAT can act as the arbiter in contentious cases, but proposals without a general consensus will likely not pass.
+3. **Create a pull request on the [osu! wiki GitHub repository](https://github.com/ppy/osu-wiki).** Usually, this is done by a member of the NAT involved in finalising the discussion.
+4. **Wait on approval from [peppy](https://osu.ppy.sh/users/2).**
+
+Changes that do not alter the meaning or intention of the ranking criteria, such as improvements to spelling, grammar, or organisation, may not need a forum proposal. It is still recommended to check with experienced community members that the changes are helpful and welcome.
 
 ## Tools
 
@@ -92,8 +92,6 @@ Important to understand before using:
   - The highest difficulty of each game mode.
   - The highest difficulties of each game mode with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
 - **A beatmap's custom difficulty naming must follow a common theme or pattern related to the song or difficulty and must not be misrepresentative.** A difficulty name is misrepresentative if it implies a different difficulty level (e.g. naming an "Expert" difficulty as "Normal").
-- **A difficulty's name must not solely consist of one or more usernames.** Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
-- **A [beatmap host](/wiki/Beatmap/Beatmap_host) cannot indicate possession in a difficulty's name.** (e.g. Beatmap Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and [collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are the only exceptions. [Guest difficulties](/wiki/Beatmap/Guest_difficulty), however, may indicate possession with its creators' username or nickname.
 - **A [beatmap host](/wiki/Beatmap/Beatmap_host) must have beatmapped equal or more difficulties than any [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator.** This is to provide credit where credit is due. [Collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are only considered partial difficulties, and [drain time](/wiki/Beatmap/Drain_time) will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
 - **A [beatmap host](/wiki/Beatmap/Beatmap_host) and [guest difficulty](/wiki/Beatmap/Guest_difficulty) creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmap host must delete the guest contribution upon request. If a guest difficulty creator cannot be contacted for a month, they will be assumed to agree with any changes.
 - **Beatmaps cannot contain significant portions of difficulties belonging to other users without their explicit involvement or permission.**
@@ -101,8 +99,9 @@ Important to understand before using:
 ### Guidelines
 
 - **The highest difficulty of a beatmap should correspond to the general feel of the song.** Easy/Normal difficulties can be used as a lone difficulty of a beatmap if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
-- **Avoid incomprehensible username combinations to indicate possession of a [collaborative difficulty](/wiki/Beatmap/Beatmap_collaborations).** If it's unclear whose usernames are combined, simplification is recommended.
-- **Avoid difficulty names with descriptive elements not clearly related to a [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator or a level of difficulty.** (e.g. Beatmap Creator's Tragic Love Extra)
+- **Difficulty names should not be misleading.**  
+  - **Descriptive difficulty names should have a relation to the song.** When adding other terms such as `Tragic Love` to a difficulty name, it should relate to the song.
+  - **When combining multiple usernames into a single collaborator name for a [guest difficulty](/wiki/Beatmap/Guest_difficulty), make sure the name remains comprehensible.** For example `Mamayucha` being a [collaboration difficulty](/wiki/Beatmap/Beatmap_collaborations) between `Mani`, `Mari`, `Yuzu` and `Mocha` loses many of the collaborators' features compared to listing their full usernames. Replacing the collaborative username with `Collab` or a descriptor like `osu! Mascots' Expert` may be clearer.
 - **Usernames indicating possession of a [guest difficulty](/wiki/Beatmap/Guest_difficulty) should be consistent between multiple beatmaps.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
 - **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission) and problems for certain users when appearing in chat.
 
@@ -129,21 +128,22 @@ Important to understand before using:
 ### Rules
 
 - **The audio file of a beatmap must...**
-  - **...use the `.mp3` or `.ogg` file format.**
-  - **...have an average bit rate no greater than 192 kbps for `.mp3` files, or 208 kbps for `.ogg` files.**
+  - **...be encoded in MP3 (`.mp3`) or [Ogg Vorbis](https://en.wikipedia.org/wiki/Vorbis) (`.ogg`).**
+  - **...have an average bit rate no greater than 192 kbps for MP3 files, or 208 kbps for Ogg Vorbis files.**
+  - **...have a sampling rate no larger than 48 kHz.**
   - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
-  - **...not be encoded upwards from a lower bitrate.**
+  - **...not be encoded upwards from a lower bitrate or sampling rate.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
 - **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.[^normal-vs-addition]
   - **osu!mania beatmaps do not require hitsound additions.**[^normal-vs-addition] This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to use hitsound additions to improve the feel of your beatmaps.
 - **All clicked parts of objects must have at least one hitsound which both...**
   - **...has a clear impact, whose peak is delayed no more than 5 milliseconds.** `normal-hitfinish.wav` from the default skin is exempt from this.
-  - **...uses the `.wav` or `.ogg` file format.** `.mp3` should not be used here as it is inherently delayed.
+  - **...uses the uncompressed WAV (`.wav`) or Ogg Vorbis (`.ogg`) file format.** MP3 should not be used here as it is inherently delayed.
   - This ensures instant audible feedback when clicking objects, synchronising with the song in a way that enables players to determine how early or late they are clicking. osu!mania is exempt from this due to its concurrent objects.
 - **Hitsounds must be audible.** Their purpose is to provide feedback, so hitsounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criteria.
 - **Preview points must be set and consistent between all difficulties of a beatmap.** This is used for both the song selection menu and the online thumbnail preview.
 - **Every hitsound file must be at least 25ms long.** Shorter files can result in no sound being played in-game.
-- **Completely silent sound files must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily large file sizes, and 0-byte files do not function.
+- **Completely silent sound files must use [this 44-byte file](https://assets.ppy.sh/media/blank.wav).** Other files have unnecessarily large file sizes, and 0-byte files do not function.
 - **[Storyboarded hitsounds](/wiki/Beatmapping/Hitsound#storyboarded-hitsound) cannot be used as replacements for [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
 ### Guidelines
@@ -154,7 +154,7 @@ Important to understand before using:
 - **[Song compilations](/wiki/Beatmap/Song_compilation) or other medley-style tracks should aim to be cleanly mixed with proper transitions, and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps. Cross-faded transitions are acceptable, but should be used sparingly and generally be no longer than 5 seconds. Beat-matched and well-planned transitions are always a better option than cross-fading.
 - **Combinations of 2 songs should be clearly and closely related.** Examples of this include, but are not limited to, being iterations of the same series of songs, related in lyrics or motifs, similar in tone and/or genre, etc.
 - **Cut songs should maintain the general impression and intensity of the full song.** Cuts that change the structure of the full song (such as excluding or rearranging a song's intro/verse/chorus/outro) can lead to misrepresentation of it and often cause unsatisfying playing experiences. This does not apply to official cuts or recreations of official cuts.
-- **[Gameplay sounds](/wiki/Skinning/Sounds#gameplay) excluding [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) should use the `.mp3` or `.ogg` file formats.** These files usually have long durations and `.wav` files are unnecessarily large in comparison, however `.wav` should be used when it results in a smaller file size.
+- **[Gameplay sounds](/wiki/Skinning/Sounds#gameplay) excluding [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) should use the MP3 (`.mp3`) or Ogg Vorbis (`.ogg`) file format.** These files usually have long durations and uncompressed WAV (`.wav`) files are unnecessarily large in comparison, however uncompressed WAV should be used when it results in a smaller file size.
 - **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hitsound samples.** Using these finishes to represent snare/bass drums or a song's melody can sound obnoxious for anyone disabling beatmap hitsounds. Replacing hit whistles/claps is recommended because those samples are used more often. osu!taiko beatmaps are exempt from this guideline and have their own mode-specific hitsound sample guideline.
 
 ## Video and background

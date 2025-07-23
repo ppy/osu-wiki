@@ -14,7 +14,7 @@ tags:
 
 # osu! 支持者
 
-![osu!supporter 宣传页](img/supporter-eyecatch.jpg)
+[![osu!supporter 宣传页](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
 **osu! 支持者**（osu!supporter，也被称为 ***支持者标签***，玩家相传为 ***撒泼特***）是授予自愿捐款支持 osu! 发展玩家的临时头衔。支持者会在标签有效期内获得一些装扮或功能性方面的额外功能。但无论现在还是将来，osu! 支持者标签的额外功能不会给游戏内容、玩家水平或计分系统带来任何的优势。
 
@@ -25,11 +25,11 @@ tags:
 ### 爱心徽章
 
 ::: Infobox
-![](img/userpage.png?1 "osu! 支持者的个人资料页")
+![](img/userpage.png?20241103 "osu! 支持者的个人资料页")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "osu! 支持者的玩家名片")
+![](img/usercard-ZH.png?20241022 "osu! 支持者的玩家名片")
 :::
 
 支持者们会得到一个印有爱心的徽章，通常显示在网页中玩家名的旁边。爱心的数量取决于玩家获得或收到的 osu! 支持者标签的总时长<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->：
@@ -102,7 +102,8 @@ osu! 为支持者们放宽各种在线功能的限额：
 
 | 功能 | 普通玩家限额 | 支持者限额 |
 | :-- | :-: | :-: |
-| [待定谱面](/wiki/Beatmap/Category#wip-and-pending | `4 + min(自己的上架谱面数量, 4)`最多 **8** 张[^pending-beatmaps-ref] | `8 + min(自己的上架谱面数量, 12)`最多 **20** 张[^pending-beatmaps-ref] |
+| [待定谱面](/wiki/Beatmap/Category#wip-and-pending | `4 + min(自己的上架谱面数量, 4)` 最多 **8** 张[^pending-beatmaps-ref] | `8 + min(自己的上架谱面数量, 12)` 最多 **20** 张[^pending-beatmaps-ref] |
+| 战队队员数量 | 8 | `8 + 4 * 战队中的支持者队员数量` 最多 **256** 人 |
 | 在线收藏的谱面 | 100 | 1000 |
 | 好友数量 | 500 | 1000 |
 

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ae26efc7239e1753b594f4c6cd24223b76531b6a
 tags:
   - history
   - 2015
@@ -140,7 +142,7 @@ Quelques jours plus tard (19 novembre 2015), peppy a mis à jour les utilisateur
 [^osu-weekly-8]: [Article de news par Tasha (01/05/2015) "osu!weekly #8"](https://osu.ppy.sh/home/news/2015-05-01-osuweekly-8)
 [^realtime-bn-ranking]: [Fil de discussion par p3n (04/06/2015) "Realtime Beatmap Nominator Ranking"](https://osu.ppy.sh/community/forums/topics/334994)
 [^osu-weekly-14]: [Article de news par Tasha (13/06/2015) "osu!weekly #14"](https://osu.ppy.sh/home/news/2015-06-13-osuweekly-14)
-[^osu-weekly-9]: [Article de news par Tahsa (08/05/2015) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
+[^osu-weekly-9]: [Article de news par Tasha (08/05/2015) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 [^osu-news-welcome]: [Vidéo YouTube par osu!news (08/05/2015) "Welcome to the osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
 [^osu-weekly-12]: [Article de news par Tasha (30/05/2015) "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
 [^ppy-tweet-osu-keyboards]: [Tweet par @ppy (28/05/2015)](https://twitter.com/ppy/status/603797988742336512)

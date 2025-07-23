@@ -131,7 +131,7 @@ Estos atajos funcionan en cualquier lugar:
 | `Mayús` + `Tabulador` | Alterna la visualización de la interfaz del juego. |
 | `H` | Alterna la visualización del marcador y la interfaz de la repetición (viendo una repetición o siendo espectador). |
 | `F3` o `F4` | Ajusta la velocidad para osu!mania (se puede usar cerca del comienzo del juego). |
-| `Ctrl` + `R` o `` ` `` | Debe mantenerse pulsado brevemente. Reintenta rápidamente el mapa actual (se salta la introducción al reintentar). |
+| `Ctrl` + `R` o `Ñ` | Debe mantenerse pulsado brevemente. Reintenta rápidamente el mapa actual (se salta la introducción al reintentar). |
 
 ## Modo repetición
 

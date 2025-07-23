@@ -88,7 +88,7 @@ We've had a blast highlighting the best of scores up until now! Nerves are sky-h
 
 ---
 
-Join the community on the [osu!live Twitch channel](https://www.twitch.tv/osulive) this Saturday at 10:00 UTC to watch the China vs. Thailand match, a monumental match and in itself, and a conclusion to the losers' bracket.
+Join the community on the [osu!live Twitch channel](https://www.twitch.tv/osulive) this Saturday at 10:00 UTC to watch the China vs. Thailand match, a monumental match in and of itself, and a conclusion to the losers' bracket.
 
 After that, the Grand Finale spectacle begins Sunday at 14:00 UTC, tune in and see whether the United States will get their consecutive win for the first time ever, or will one of the new podium finishers conclude their dream run by swooping in and running away with the crown.
 

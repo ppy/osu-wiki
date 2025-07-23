@@ -1,11 +1,15 @@
+---
+no_native_review: true
+---
+
 # Collaboratori della community
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+![Badge del collaboratore della vecchia era](/wiki/shared/contributor-old-era.png "Badge del collaboratore della vecchia era")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+![Badge del collaboratore della nuova era](/wiki/shared/contributor-new-era.png "Badge del collaboratore della nuova era")
 :::
 
 I **Collaboratori della community** sono le persone che hanno preso l'iniziativa di provvedere servizi alla community di osu! a caro prezzo per loro - strumenti e funzionalità che molti di noi danno per scontato ora. Questi utenti ricevono un badge per indicare che hanno fatto qualcosa degno di nota per l'intera community.
@@ -56,7 +60,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Gennaio
 
-*Per il post, vedi: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+*Per l'articolo delle notizie, vedi: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -71,7 +75,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Marzo
 
-*Per il post, vedi: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+*Per l'articolo delle notizie, vedi: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -79,7 +83,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Novembre
 
-*Per il post, vedi: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+*Per l'articolo delle notizie, vedi: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -97,7 +101,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Dicembre
 
-*Per il post, vedi: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -126,7 +130,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Febbraio
 
-*Per il post, vedi: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -158,7 +162,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Febbraio
 
-*Per il post, vedi: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -188,7 +192,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Marzo
 
-*Per il post, vedi: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -204,7 +208,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Giugno
 
-*Per il post, vedi: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -228,7 +232,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Novembre
 
-*Per il post sulle notizie, vedere: [Collaboratori della community: 2022 e 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*.
+*Per l'articolo delle notizie, vedi: [Collaboratori della community: 2022 e 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*.
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -252,6 +256,29 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Eccezionale contributo alla [Mappers' Guild](/wiki/Community/Mappers_Guild) e ai video degli artisti in primo piano |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Contributo eccezionale alla [Mappers' Guild](/wiki/Community/Mappers_Guild) e ai video degli artisti in primo piano |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Contributo eccezionale alla [Mappers' Guild](/wiki/Community/Mappers_Guild) e ai video degli artisti in primo piano |
+
+### 2024
+
+#### Marzo
+
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+
+| Utente | Contributi |
+| :-- | :-- |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Contributo eccezionale in affari di moderazione, gestione del team e copertura delle notizie |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinazione eccezionale nella produzione di musica e arte di osu! |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Contributo eccezionale alla community e alla scena del mapping di osu!catch |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Contributo eccezionale alla community e sviluppo integrale di strumenti di osu!catch |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Contributo eccezionale alla scena del modding e del mapping di osu!mania |
+| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Contributo eccezionale alla scena dei tornei e del mapping di osu!mania |
+| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Contributo eccezionale allo sviluppo dei punti performance attraverso strumenti integrali ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Contributo eccezionale allo sviluppo dei punti performance e alla manutenzione di osu!(stable) |
+| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Contributo eccezionale nell'unire la community negli eventi [r/place](https://www.reddit.com/r/place/) di Reddit |
+| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Contributo eccezionale alla documentazione della community sui replay e allo sviluppo di strumenti |
+| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
+| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([osuplus](https://github.com/limjeck/osuplus)) |
+| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([owo! bot](https://owo-bot.xyz/)) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
 
 ## Storia
 

@@ -12,6 +12,7 @@ tags:
 
 ![CM Modysmbol](/wiki/shared/mods/CM.png "Cinema (CM) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Cinema (lazer-Mod)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Kinematographie](https://de.wikipedia.org/wiki/Kinematographie).*
 

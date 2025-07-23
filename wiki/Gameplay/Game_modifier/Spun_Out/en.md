@@ -12,6 +12,7 @@ tags:
 
 ![SO mod icon](/wiki/shared/mods/SO.png "Spun Out (SO) mod icon")
 
+*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Spun Out (lazer mod)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer))*\
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## About

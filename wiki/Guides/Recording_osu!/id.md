@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2c9fd01c55a5610c8b047b3bbf8683d414c02987
+---
+
 # Cara merekam video bermain osu!
 
 [Ingin menggunakan Virtualdub sebagai pengganti Sony Vegas? Klik di sini!](https://osu.ppy.sh/community/forums/posts/252802)

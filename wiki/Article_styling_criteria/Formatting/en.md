@@ -91,6 +91,8 @@ When outdating translations, they must also receive an `outdated_since` tag that
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
 ```
 
+These tags are added automatically after a change is merged, which can also be [bypassed for translations that do not need them](/wiki/osu!_wiki/Maintenance#outdated-translations).
+
 ### Tagging articles
 
 Tags help the website's search engine query articles better. Tags should be written in the same language as the article and include the original list of tags. Tags should use lowercase letters where applicable.

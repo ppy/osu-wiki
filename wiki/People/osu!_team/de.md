@@ -6,8 +6,6 @@ tags:
   - osu! team
   - staff
   - team osu!
-outdated_translation: true
-outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 ---
 
 # osu!-Team
@@ -35,10 +33,11 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Berater für die Modding- und Mapping-Szene |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web Entwickler, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web Entwickler |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), Berater für die Modding- und Mapping-Szene |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), Berater für die Modding- und Mapping-Szene |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Moderator des [osu! YouTube-Kanals](https://www.youtube.com/@osugame), [Mappers' Guild](/wiki/Community/Mappers_Guild) Organisator, [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Berater für die Modding- und Mapping-Szene |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Leiter des [NATs](/wiki/People/Nomination_Assessment_Team), Berater für die Modding- und Mapping-Szene |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Designkoordinator für World Cups |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Allgemeiner Hausmeister |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu!-Entwickler, osu!mania-Liebhaber, Fehlerbeseitiger |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu!-Entwickler |
