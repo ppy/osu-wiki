@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Cara merekam video osu!
 
 *Lihat juga: [Menyiarkan osu! secara langsung](/wiki/Guides/Livestreaming_osu!)*
