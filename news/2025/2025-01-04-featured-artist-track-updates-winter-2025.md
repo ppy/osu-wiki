@@ -132,7 +132,7 @@ Play through [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1667473) hos
 
 [![](https://assets.ppy.sh/artists/1/header.jpg)](https://osu.ppy.sh/beatmaps/artists/1)
 
-[**nekodex**](https://osu.ppy.sh/beatmaps/artists/1) composed osu!'s theme song [circles!](). After being duct taped to a chair for a week straight, he remixed his own tune for the holiday season (which you almost definitely heard if you've played osu! in the last few weeks).
+[**nekodex**](https://osu.ppy.sh/beatmaps/artists/1) composed osu!'s theme song [circles!](https://soundcloud.com/nekodex/circles). After being duct taped to a chair for a week straight, he remixed his own tune for the holiday season (which you almost definitely heard if you've played osu! in the last few weeks).
 
 ### nekodex - circle the halls
 
