@@ -1,8 +1,3 @@
----
-outdated_since: 0ffdd3209f4cbab2e8b050f5eb1201ddd9f4c660
-outdated_translation: true
----
-
 # Администраторы osu! wiki
 
 **Администраторы** — группа людей, работающих над проектом osu! wiki, содержимое которого живёт в [репозитории на GitHub](https://github.com/ppy/osu-wiki).
@@ -24,6 +19,7 @@ outdated_translation: true
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Неактивен | Испанский |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Неактивен | Немецкий |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Неактивен |  |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | [Nivalyx](https://github.com/Nivalyx) | **Активен** | Индонезийский |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Неактивен | Немецкий |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Активен** | Японский |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Неактивен |  |
@@ -36,7 +32,7 @@ outdated_translation: true
 
 ## Редакторы новостей
 
-Координаторы, редакторы и корректоры [новостей](https://osu.ppy.sh/home/news), публикуемых на сайте.
+Пользователи, помимо основных обязанностей занимающиеся курированием, правкой и утверждением всех [новостей](https://osu.ppy.sh/home/news), публикуемых на сайте.
 
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
@@ -48,9 +44,9 @@ outdated_translation: true
 
 ## Ушедшие на покой
 
-Ниже — те, кто администрировал osu! wiki ещё в то время, когда она [была на движке MediaWiki](/wiki/History_of_osu!/osu!_wiki):
+Ниже — пользователи, бывшие ранее в [вики-команде](https://github.com/orgs/ppy/teams/wiki/members) на GitHub, а также те, кто администрировал osu! wiki ещё в то время, когда она [была на движке MediaWiki](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)) (до миграции на GitHub).
 
-- ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
+- ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
 - ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)
 - ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)

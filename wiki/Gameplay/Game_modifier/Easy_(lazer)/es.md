@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 50c5cd66c992ee2ff8b08bf8792a80f8fdd22d1b
 stub: true
 tags:
   - EZ
@@ -36,6 +34,14 @@ tags:
 
 *Para la versión de osu!stable de este artículo, véase: [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)*\
 *Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+El mod **Easy** intenta hacer más fácil el juego en cualquier [beatmap](/wiki/Beatmap) jugado reduciendo a la mitad cada ajuste de dificultad. En todos los [modos de juego](/wiki/Game_mode) excepto [osu!taiko](/wiki/Game_mode/osu!taiko), el mod da dos vidas extra en caso de que la [barra de salud](/wiki/Client/Interface/Health_bar) llegue a cero, rellenándola al instante.
+
+## Personalización
+
+![Opciones de personalización del mod Easy en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.png)
+
+- **Extra Lives** (0-10, predeterminado 2): El número de vidas extra al iniciar un beatmap.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
