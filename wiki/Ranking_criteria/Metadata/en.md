@@ -49,7 +49,7 @@
 
   This does not apply if the artist purposefully uses symbols in ways that do not suggest spaces. For example, `。✰302？ionwan2go✰。` would be `.*302?ionwan2go*.` and not `. * 302 ? ionwan2go * .`. Other character sets are handled on a case-by-case basis.
 
-- **In romanised fields, special symbols must be changed to their nearest ASCII printable equivalent or removed.** Special characters other than the ones below are to be changed or dropped on a case-by-case basis. When multiple options exist, the one used for romanisation depends on context.
+- **In romanised fields, symbols must be changed to their nearest [ASCII](https://en.wikipedia.org/wiki/ASCII) printable equivalent or removed.** The table below lists recommended romanisations that should be considered when encountering these symbols. Any other symbols need to be discussed on a case-by-case basis.
 
   | Symbol | Recommended Romanisation |
   | :-- | :-- |

@@ -6,7 +6,7 @@ date: 2025-07-17 22:00:00 +0000
 
 Keysmashers, rejoice! The wait is over as the osu!mania 4K World Cup 2025 returns for its twelfth edition.
 
-![](/wiki/Tournaments/MWC/2025_4K/img/mwc4k2025-banner.jpg)
+![](/wiki/Tournaments/MWC/2025_4K/img/mwc4k2025-banner.jpg?1)
 
 ## Format changes
 
