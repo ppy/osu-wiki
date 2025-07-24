@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Digit World Cup 2025 Concludes
-date: 2025-07-24 12:00:00 +0000
+date: 2025-07-24 22:10:00 +0000
 ---
 
 Another iteration of the 4 Digit World Cup is behind us. Let's take a look at what happened this year.
