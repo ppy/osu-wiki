@@ -84,16 +84,6 @@ That last pick, and the last chance for Germany to force the tiebreaker, ended u
 
 ## Original music
 
-This tournament debuted an original song for the Finals NM1 slot by [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) called [Haruyakihata](https://osu.ppy.sh/beatmapsets/2385101), with background art by [Transendium](https://twitter.com/ardentminus). It's actually a "sequel" to SiLiS' previous osu! original [Yukisarashi](https://osu.ppy.sh/beatmapsets/2048433). Have a look:
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2025-07-24-haruyakihata.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
-
-## Interviews
-
 <style>
     .news-chat-quote__avatar {
         float: left;
@@ -101,6 +91,7 @@ This tournament debuted an original song for the Finals NM1 slot by [SiLiS](http
         height: 40px;
         border-radius: 50%;
         margin-left: -50px;
+
     }
 
     .news-chat-quote__text-container {
@@ -119,7 +110,33 @@ This tournament debuted an original song for the Finals NM1 slot by [SiLiS](http
     .news-chat-quote__colour-no-group {
         color: #FFFFFF;
     }
+
+    .news-chat-quote__colour-fa {
+        color: #00FFFF;
+    }
 </style>
+
+This tournament debuted an original song for the Finals NM1 slot by [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) called [Haruyakihata](https://osu.ppy.sh/beatmapsets/2385101), with cover art by [Transendium](https://twitter.com/ardentminus). Check out the song and [map](https://osu.ppy.sh/beatmapsets/2385101) through the video below:
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-07-24-haruyakihata.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+The composer had this to say:
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/434" style="background-image: url('/wiki/shared/avatars/SiLiS.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/434">SiLiS</a></p>
+
+This song is a sequel to [Yukisarashi (雪さらし)](https://osu.ppy.sh/beatmapsets/2048433), which was one of my favorite songs to create. It's to symbolize Spring after Winter.
+
+</div>
+
+## Interviews
 
 ::{#hav}::
 
