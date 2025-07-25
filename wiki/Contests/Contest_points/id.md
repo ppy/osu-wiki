@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: fd81f0d0769bc6278f99158a3c12f4c937569a3f
 ---
 
 # Poin kontes
