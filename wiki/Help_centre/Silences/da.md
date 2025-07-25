@@ -18,7 +18,7 @@ En bruger, der er silenced, kan ikke gøre følgende:
 - Poste på nogen af osu!s fora.
 - Poste kommentarer noget sted på hjemmesiden (beatmaps, ændringslog, nyheder).
 - Deltage i [beatmapdiskussioner](/wiki/Beatmap_discussion).
-- Redigere deres profildetaljer eller ændre deres avatar, titelbilleder og brugerside.
+- Redigere deres profildetaljer eller ændre deres avatar, titelbillede og brugerside.
 - Indsende og opdatere beatmaps.
 - Deltage i [multiplayer](/wiki/Client/Interface/Multiplayer)-spil.
 
