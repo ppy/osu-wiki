@@ -27,10 +27,10 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **All [fruits](/wiki/Gameplay/Hit_object/Fruit) should represent a sound existing in the music.** This is usually a distinct sound but can also represent a continuous sound with an indistinguishable start or end.
 - **The last [fruit](/wiki/Gameplay/Hit_object/Fruit) of a [slider](/wiki/Gameplay/Hit_object/Juice_stream) should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** For example, if the song is using a straight beat, 1/4, 1/8 or 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used.
 - **[Dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used when the destination of the dash or hyperdash is located near the left or right border of the playfield.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield (x:16 on the left and x:496 on the right).
-- **[Combos](/wiki/Beatmapping/Combo) should not reach unreasonable lengths.** This ensures the player’s view is not obstructed by the [fruits](/wiki/Gameplay/Hit_object/Fruit) stacked on the plate.
-- **[Overall difficulty](/wiki/Beatmap/Overall_difficulty) should have the same value as the [Approach rate](/wiki/Beatmap/Approach_rate).** This is just a standardised value, as Overall difficulty only affects the maximum score of a difficulty with [scoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch).
-  - If a difficulty uses a lower Approach rate than any of the difficulty levels below, then its Overall difficulty should match the highest Overall difficulty among those lower difficulties.
-- **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should be set according to the song.** For example, if your song contains a section that uses 1/3 rhythms only, tick rate 2 would not fit the entire beatmap.
+- **[Combos](/wiki/Beatmapping/Combo) should not reach unreasonable lengths.** This ensures the player's view is not obstructed by the [fruits](/wiki/Gameplay/Hit_object/Fruit) stacked on the plate.
+- The **[overall difficulty](/wiki/Beatmap/Overall_difficulty) should have the same value as the [approach rate](/wiki/Beatmap/Approach_rate).** This is just a standardised value, as overall difficulty only affects the maximum score of a difficulty with [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch).
+  - If a difficulty uses a lower approach rate than any of the difficulty levels below, then its overall difficulty should match the highest overall difficulty among those lower difficulties.
+- **The [slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should be set according to the song.** For example, if your song contains a section that uses 1/3 rhythms only, tick rate 2 would not fit the entire beatmap.
 - **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~50 luminosity or lower.** Dark colours impact the readability of [fruits](/wiki/Gameplay/Hit_object/Fruit) with low background dim.
 - **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~220 luminosity or higher if [Kiai time](/wiki/Gameplay/Kiai_time) is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
 
@@ -38,8 +38,8 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 
 #### Rules
 
-- **Custom catchers must be included in v2 skin format.** The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch).
-- **Custom [fruits](/wiki/Skinning/osu!catch#fruits) must include all necessary elements and be coloured in a scale of grey colours.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). It is recommended that transparent elements are used for the overlays.
+- **Custom catchers must be included in the v2 skin format.** The needed elements can be found in the [osu!catch skinning article](/wiki/Skinning/osu!catch).
+- **Custom [fruits](/wiki/Skinning/osu!catch#fruits) must include all necessary elements and be coloured in a scale of grey colours.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [osu!catch skinning article](/wiki/Skinning/osu!catch). It is recommended that transparent elements are used for the overlays.
 - **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay.
   - [Fruits](/wiki/Skinning/osu!catch#fruits) must be 128x128 pixels.
   - [Drops](/wiki/Skinning/osu!catch#fruits) must be 82x103 pixels.
@@ -47,7 +47,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
+Difficulty-specific rules and guidelines only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the ranking criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Difficulty names
 
