@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: July 2025"
-date: 2025-07-18 19:00:00 +0000
+date: 2025-07-25 19:00:00 +0000
 ---
 
 You have excellent taste in beatmaps. Let's see if the rest of the world agrees.
@@ -12,8 +12,8 @@ The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*
 
 This month's iteration is for **osu!taiko** and **osu!catch** mappers:
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/253)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/254)
 
 This article covers results from the last contest, plus criteria for this contest. Skip around with these links:
 
@@ -30,8 +30,8 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [_gt](https://osu.ppy.sh/users/8301957) | [Chroma - Destroy, Destroy, Destroy The Happy End](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (7 total) |
-| Runner-up | [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | [Ludicin - Echoes of Memoria](LINK) | - | - | +1 (1 total) |
+| Winner | [_gt](https://osu.ppy.sh/users/8301957) | [Chroma - Destroy, Destroy, Destroy The Happy End](https://osu.ppy.sh/beatmapsets/2405450) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (7 total) |
+| Runner-up | [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | [Ludicin - Echoes of Memoria](https://drive.google.com/file/d/1bQmCIqwXCQtFXM6E2firACSjqDVB_BYS/view?usp=drive_link) | - | - | +1 (1 total) |
 
 In [December 2023](https://osu.ppy.sh/home/news/2023-12-15-monthly-beatmapping-contest-december-2023), [_gt](https://osu.ppy.sh/users/8301957) debuted as a Monthly Beatmapping Contest winner. [A few months later](https://osu.ppy.sh/home/news/2024-03-23-monthly-beatmapping-contest-march-2024), they were another Monthly Beatmapping Contest's runner-up. Nearly 2 years of hard work has finally paid off: welcome [_gt](https://osu.ppy.sh/users/8301957) to the halls of osu!'s *Elite Mapper*s!
 
@@ -51,8 +51,8 @@ And of course, we can't forget the judges who made this contest possible: [arcpo
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [AQUASINE - you wouldn't download a bird.](LINK) | - | +2 (9 total) |
-| Runner-up | [Xinnoh](https://osu.ppy.sh/users/4236057) | [EmoCosine - Love Kills U](LINK) | - | +1 (3 total) |
+| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [AQUASINE - you wouldn't download a bird.](https://drive.google.com/file/d/1MStVkeb8Wu66HWDZRqPVyvdP9YdY9WB6/view?usp=drive_link) | - | +2 (9 total) |
+| Runner-up | [Xinnoh](https://osu.ppy.sh/users/4236057) | [EmoCosine - Love Kills U](https://osu.ppy.sh/beatmapsets/2405498) | - | +1 (3 total) |
 
 osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to [Unlucky_w](https://osu.ppy.sh/users/4820793) and [Xinnoh](https://osu.ppy.sh/users/4236057)!
 
@@ -70,8 +70,8 @@ On top of that, we'd also like to thank [Morusya](https://osu.ppy.sh/users/13681
 
 This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/253)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/254)
 
 ## Timeline
 
@@ -141,9 +141,9 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 When you're done reading the fine print of this mapping contest's rules, hop into the editor and do what you were born to do. When your map is ready, drop it in the relevant submission box:
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/253)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/254)
 
-You have until **August 12th** to submit!
+You have until **August 15th** to submit!
 
 —pishifat, Hivie, GiGas
