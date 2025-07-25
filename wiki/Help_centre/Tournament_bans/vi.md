@@ -6,17 +6,17 @@ no_native_review: true
 
 *Trang chính: [trung tâm trợ giúp](/wiki/Help_centre)* 
 
-Lệnh cấm thi đấu ngăn chặn một người chơi từ việc tham gia các giải đấu chính thức hoặc giải đấu hỗ trợ chính thức. Nó cũng hạn chế mức độ mà người chơi có thể tham gia vào công việc của nhân viên hoặc hỗ trợ các giải đấu này.
+Lệnh cấm thi đấu ngăn cản một người chơi từ việc tham gia các giải đấu chính thức hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi có thể tham gia vào công việc của nhân viên hoặc hỗ trợ các giải đấu này.
 
-Lệnh cấm giải đấu rất hiếm khi được áp dụng một cách độc lập. Nhưng nói chung, hầu hết tất cả các người chơi trở lại sau kháng cáo theo tiêu chuẩn đối với một [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu hình phạt có thời gian kéo ít nhất một năm.
+Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả các người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu lệnh cấm có thời gian kéo ít nhất một năm.
 
-Do bản chất tính chất quan trọng của việc chơi các giải đấu, lệnh cấm giải đấu được xử lý rất nghiêm túc và không nhận được loại khoan nhượng một hạn chế tài khoản có thể thường nhận được.
+Do tính chất quan trọng của việc chơi các giải đấu, các lệnh cấm giải đấu được xử lý rất nghiêm túc và sẽ không nhận được sự khoan nhượng như những hạn chế tài khoản thông thường có thể nhận được.
 
 ## Điều gì gây ra khiến ai đó nhận lệnh cấm thi đấu tạm thời?
 
-Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đồng](/wiki/Rules) xảy ra trong suốt một [giải đấu hỗ trợ chính thức](/wiki/Tournaments/Official_support) có thể gây ra lệnh cấm tham gia giải đấu, ngay cả khi hành động đó thường chỉ dẫn đến vi phạm bên ngoài môi trường thi đấu. 
+Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đồng](/wiki/Rules) xảy ra trong suốt một [giải đấu hỗ trợ chính thức](/wiki/Tournaments/Official_support) cũng có thể gây ra lệnh cấm tham gia giải đấu, ngay cả khi hành vi đó thông thường chỉ bị xem là vi phạm ngoài phạm vi chơi giải đấu.
 
-Như một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ hoặc viết các từ ngữ miệt thị/lời lẽ xúc phạm (như swastika, v.v.) bằng khói con trỏ trong các trận đấu phát trực tiếp.
+Lấy một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ hoặc viết các từ ngữ miệt thị/lời lẽ xúc phạm (như swastika, v.v.) bằng khói con trỏ trong các trận đấu phát trực tiếp.
 
 Tất cả người dùng quay lại trò chơi sau khi bị hạn chế theo điều kiện kháng cáo tiêu chuẩn đều kèm theo một [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons). Điều này có thể được kéo dài tùy chọn theo quyết định của [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team).
 
@@ -31,7 +31,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 - Cố gắng để trốn tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác
 - Chia sẻ tài khoản trong suốt/trong lúc tham gia một giải đấu hỗ trợ chính thức
 - Kết hợp để thu thập hoặc theo cách khác để sử dụng thông tin riêng tư nhằm giành được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
-- Lạm dụng các vị trí tin cậy để đạt được hoặc mang lại lợi thế ( sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
+- Lạm dụng các vị trí tin cậy để đạt được hoặc mang lại lợi thế (sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
 - Tổ chức các chiến dịch lạm dụng có chủ đích nhằm vào người tham gia hoặc ban tổ chức vượt xa phạm vi chỉ trích.
 
 ## Tôi có thể kháng cáo một lệnh cấm thi đấu không?
@@ -40,9 +40,9 @@ Các lệnh cấm giải đấu tạm thời được áp dụng theo điều kh
 
 Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít nhất **hai năm** (24 tháng) kể từ khi chúng được áp dụng lần đầu tiên. Người dùng kháng cáo lệnh cấm thi đấu vô thời hạn sẽ được mong đợi đã thể hiện sự tham gia tích cực trong cộng đồng osu! rộng lớn hơn, trong các giải đấu thường hoặc bằng cách khác, và có một hồ sơ hành vi hoàn toàn trong sạch trong suốt khoảng thời gian này. Trong trường hợp đơn kháng cáo không thành công, người dùng bắt buộc phải chờ ít nhất **một năm** (12 tháng) kể từ ngày kháng cáo cuối cùng trước khi có thể kháng cáo trở lại.
 
-Mặc dù có thể kháng cáo lệnh cấm tham gia giải đấu vô thời hạn như đã đề cập ở trên, cần phải khẳng định nỗ lực đáng kể trong cộng đồng lớn ngoài việc viết đơn kháng cáo cần phải có để cơ hội thực sự thành công.
+Mặc dù có thể kháng cáo lệnh cấm tham gia giải đấu vô thời hạn như đã đề cập ở trên, nhưng cần phải khẳng định nỗ lực đáng kể trong cộng đồng lớn ngoài việc viết đơn kháng cáo cần phải có để cơ hội thực sự thành công.
 
-Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) có thể xem xét các trường hợp cá nhân theo sự đánh giá của họ và gỡ bỏ hoặc áp dụng lại các hình phạt phù hợp để đảm bảo chúng vẫn nhất quán với các trường hợp tương tự trong quá khứ.
+Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) có thể xem xét các trường hợp cá nhân theo đánh giá của họ và quyết định gỡ bỏ hoặc áp dụng lại các hình phạt phù hợp để đảm bảo chúng vẫn nhất quán với các trường hợp tương tự trong quá khứ.
 
 ## Tôi có thể làm gì sau khi đã bị cấm thi đấu?
 
