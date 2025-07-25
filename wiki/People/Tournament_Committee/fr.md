@@ -1,12 +1,12 @@
 ---
-outdated_since: b37ff19ef3e17565b07306a78c9aef1029181f71
-outdated_translation: true
 no_native_review: true
 tags:
   - TC
   - Contest Committee
   - CC
   - Comité des concours
+outdated_translation: true
+outdated_since: 89722a56c74c20810e1fa8b375de1042def7971e
 ---
 
 # Comité des tournois
@@ -23,7 +23,7 @@ Les responsabilités du comité des tournois consistent notamment à conseiller 
 En outre, le comité des tournois joue les rôles suivants, indépendamment de l'équipe d'assistance aux comptes :
 
 - Vérifier régulièrement que la page [support officielle aux tournois](/wiki/Tournaments/Official_support) est correctement mise à jour.
-- Enquêter sur les rapports du [formulaire de report des tournois](https://pif.ephemeral.ink/tournament-reports).
+- Enquêter sur les rapports du [formulaire de report des tournois](https://tcomm.hivie.tn/reports/create).
 - Vérifier si les tournois terminés qui demandent un support officiel répondent à ses critères.
 - Conseiller l'équipe de news d'osu! sur l'opportunité d'accorder un [support aux news](/wiki/Tournaments/Official_support#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) pour les tournois.
 - Assurer la communication avec l'ensemble des joueurs en ce qui concerne les modifications des critères de support officiel et le statut de tous les tournois ayant fait l'objet d'une demande de support officiel.
@@ -65,7 +65,7 @@ Une fois qu'un tournoi s'est achevé et qu'il a demandé un prix sous forme de b
 
 Les membres assignés indiqueront les tournois qui ont passé le processus de vérification comme étant éligibles pour les badges. L'équipe de soutien aux comptes appliquera ultérieurement les badges aux profils des gagnants. Si un tournoi ne passe pas la procédure d'examen, les membres chargés de l'examen peuvent conseiller l'équipe d'assistance sur les changements à communiquer aux organisateurs du tournoi. Si ces changements ne sont pas possibles après la fin du tournoi, le comité du tournoi organisera un vote anonyme sur le retrait du soutien officiel.
 
-Les tournois peuvent être signalés pour des violations des critères officiels de soutien via le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports). Pour les tournois terminés qui ont envoyé un e-mail de soutien, le comité du tournoi prendra les mesures suivantes s'il y a des rapports exploitables :
+Les tournois peuvent être signalés pour des violations des critères officiels de soutien via le [formulaire de rapport de tournoi](https://tcomm.hivie.tn/reports/create). Pour les tournois terminés qui ont envoyé un e-mail de soutien, le comité du tournoi prendra les mesures suivantes s'il y a des rapports exploitables :
 
 - Déterminer si les problèmes soulevés dans les rapports sont contraires à l'un des critères officiels de soutien.
 - S'ils sont suffisamment graves pour justifier une action, il convient d'enquêter sur les événements décrits dans les rapports afin de s'assurer de leur validité et de recueillir des éléments de contexte supplémentaires.
@@ -99,7 +99,9 @@ Les nouveaux membres du comité des tournois doivent répondre aux critères de 
 - Être âgé d'au moins 18 ans
 - Vérification de l'existence d'infractions récentes sur les comptes
 
-Qu'un candidat se présente par e-mail ou qu'il soit proposé par un membre existant, la procédure est la même. Le comité des tournois mène une discussion approfondie sur le candidat. Une attention particulière est accordée à son activité sur les tournois, à sa stature, à ses contributions à la communauté et à la manière dont il pourrait être utile à la commission. À l'issue de cette discussion, un vote anonyme est organisé pour déterminer si le candidat est admis au sein de la commission.
+Une fois qu'un membre potentiel a posé sa candidature en envoyant un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh), le comité des tournois organise une discussion approfondie sur le candidat. Une attention particulière est portée à son activité sur les tournois, à sa stature, à ses contributions à la communauté et à la façon dont il pourrait être utile au comité. À l'issue de cette discussion, un vote anonyme est organisé pour déterminer si le candidat est admis au sein de la commission.
+
+Les candidats qui n'obtiennent pas suffisamment de votes positifs verront leur candidature rejetée et ne pourront pas se représenter pendant une période de 6 mois à compter de la réponse à leur candidature. La réponse sera envoyée au plus tard deux semaines après la date d'introduction de la demande.
 
 ### Votes
 
@@ -154,7 +156,6 @@ Les membres du comité des tournois bénéficient des avantages suivants:
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
@@ -176,6 +177,7 @@ Les membres du comité des tournois bénéficient des avantages suivants:
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

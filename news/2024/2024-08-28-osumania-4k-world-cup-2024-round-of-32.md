@@ -28,7 +28,7 @@ With the first round of the osu!mania 4K World Cup concluding last weekend, it's
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h50m27s&video=2227895735" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Even though this is only the first of many rounds to come in this edition of the MWC4K, the Round of 32 selection this year already has 2 great [osu! originals](/wiki/osu!_originals)!
+Even though this is only the first of many rounds to come in this edition of the MWC 4K, the Round of 32 selection this year already has 2 great [osu! originals](/wiki/osu!_originals)!
 
 As is standard at this point, the Round of 32 mappool focused around consistency and nerve management rather than pure skill, which can be reflected in the scores set by the players this past weekend. Taking that into account, some players went above and beyond by setting ridiculous scores, which we'll be talking about more below.
 
@@ -120,8 +120,8 @@ Keep a lookout for these people! Let's see how future rounds fare them, and whet
 
 ---
 
-Now is the perfect time to start following the MWC4K, choose your favourite teams and cheer them on!
+Now is the perfect time to start following the MWC 4K, choose your favourite teams and cheer them on!
 
-Regardless of whom you'll be cheering on, we hope to see you this weekend for the Round of 16 on [Twitch](https://www.twitch.tv/osulive), and if you are interested in the nitty-gritty of this MWC4K edition (including match schedules), you can find the full details over on the [wiki page](/wiki/Tournaments/MWC/2024_4K)!
+Regardless of whom you'll be cheering on, we hope to see you this weekend for the Round of 16 on [Twitch](https://www.twitch.tv/osulive), and if you are interested in the nitty-gritty of this MWC 4K edition (including match schedules), you can find the full details over on the [wiki page](/wiki/Tournaments/MWC/2024_4K)!
 
 —0x84f, RandomeLoL, Utiba, kadoen

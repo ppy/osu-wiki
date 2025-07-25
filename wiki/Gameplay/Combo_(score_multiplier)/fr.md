@@ -90,6 +90,6 @@ Le *combo maximum* est le combo le plus élevé réalisé par le joueur au cours
 - La note n'est pas complétée.
 - La hold note a été lâchée alors qu'elle n'est pas terminée.
 
-**Le cas suivant ne va pas affecter le multiplicateur de score :**
+**Le cas suivant n'affecte pas le multiplicateur de score :**
 
 - Lâcher la hold note à la fin de la note.

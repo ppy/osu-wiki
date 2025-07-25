@@ -16,3 +16,4 @@
 - [osu! World Cup 2021](2021)
 - [osu! World Cup 2022](2022)
 - [osu! World Cup 2023](2023)
+- [osu! World Cup 2024](2024)

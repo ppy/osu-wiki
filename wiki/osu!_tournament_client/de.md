@@ -74,3 +74,4 @@ Die Videodateien müssen in `<dein-turnier>/Videos` platziert werden und für di
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
+| Bracket | `ladder` |

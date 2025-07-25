@@ -1,10 +1,15 @@
+---
+outdated_since: 0ffdd3209f4cbab2e8b050f5eb1201ddd9f4c660
+outdated_translation: true
+---
+
 # Maintainers de l'osu! wiki
 
 Les **maintainers de l'osu! wiki** maintiennent l'[osu! wiki](/wiki/osu!_wiki) via son [dépôt de projet sur GitHub](https://github.com/ppy/osu-wiki).
 
 Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests (des demandes de modification) des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
 
-Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une review de votre pull request, envoyez un message dans le salon de discussion `#osu-wiki` du [serveur Discord osu!](/wiki/Community/Discord_servers#official) et un maintainer ou un autre contributeur vous répondra (tous les maintainers comprennent l'anglais).
+Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une review de votre pull request, envoyez un message dans le salon de discussion `#osu-wiki` du [serveur Discord osu!](/wiki/Community/Discord_servers#officielle) et un maintainer ou un autre contributeur vous répondra (tous les maintainers comprennent l'anglais).
 
 ## L'équipe du wiki
 

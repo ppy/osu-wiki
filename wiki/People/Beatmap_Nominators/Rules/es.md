@@ -18,27 +18,18 @@ Una conducta contraria a estas expectativas será motivo de expulsión a discrec
 
 ## Actividad
 
-- **Se deben cumplir los requisitos de actividad para tus respectivos modos de juego.** La actividad de los últimos 90 días se comprobará el primer día de cada mes y durante las evaluaciones periódicas de los BN, teniendo en cuenta las situaciones de ausencia comunicadas.
-  - **Si no se alcanzan los 60 días de nominaciones en un periodo de 90 días, se procederá a la expulsión cuando se compruebe la actividad.** Por ejemplo, un BN de osu! con menos de 6 nominaciones en un periodo de 90 días será expulsado.
-  - **El incumplimiento de los requisitos de 90 días con más de 60 días de nominaciones dará lugar a una advertencia de actividad.**
-  - Cuando se te advierta de tu actividad, deberás cumplir los requisitos mínimos de actividad para tus respectivos modos de juego en el transcurso de un mes.
-  - No cumplir con el mínimo requerido cuando se ha sido advertido por ello previamente puede suponer la expulsión de los Beatmap Nominators.
-- Se espera que los Beatmap Nominators se mantengan por debajo de un número máximo de nominaciones en cualquier periodo de 90 días, teniendo cada modo su propio límite de nominaciones. Superar esta cantidad dará lugar a una advertencia, seguida de una expulsión si no gestionan su actividad en consecuencia.
-  - osu!, osu!catch, osu!mania: 75 nominaciones.
-  - osu!taiko: 100 nominaciones.
-- Se espera que los Beatmap Nominators que regresan en buenos términos alcancen los requisitos mínimos de actividad de su modo en los primeros 30 días desde su reincorporación. Permanecer inactivo durante este periodo de tiempo puede dar lugar a una advertencia o a una expulsión, que se evaluará caso por caso.
+La actividad de los Beatmap Nominators se mide a través de las nominaciones,[^multi-key-mode] y se evalúa durante las evaluaciones periódicas de los BN, que tienen lugar cada 90 días aproximadamente.
 
-### Requisitos
+- Los Beatmap Nominators deben nominar al menos **6** beatmaps durante un periodo de 90 días.
+  - Se dará una advertencia de actividad cuando se incumpla esta regla.
+  - Estar por debajo de **4** nominaciones supondrá siempre la expulsión de los Beatmap Nominators.
+- Los Beatmap Nominators híbridos deben nominar al menos **3** beatmaps por modo de juego que dominen durante un periodo de 90 días.
+  - Se dará una advertencia de actividad en el modo de juego correspondiente cuando se incumpla esta regla.
+  - Estar por debajo de **2** nominaciones en un determinado modo de juego supondrá siempre la expulsión de los Beatmap Nominators de dicho modo de juego.
+- Cuando se te advierta de tu actividad, los requisitos mínimos de actividad deben cumplirse al cabo de 30 días.
+- No cumplir con el mínimo requerido cuando se ha sido advertido por ello en un periodo de 1 año supondrá la expulsión de los Beatmap Nominators.
 
-La actividad de los Beatmap Nominators se mide principalmente por las nominaciones. El restablecimiento de los beatmaps se tiene en cuenta, pero en menor medida, y no tiene una proporción establecida en comparación con las nominaciones.
-
-Cada modo tiene su propio mínimo requerido de actividad mensual.
-
-| Modo de juego | Requisito |
-| :-- | :-- |
-| osu!, osu!taiko | 3 nominaciones |
-| osu!catch, osu!mania[^multi-key-mode] | 2 nominaciones |
-| Híbrido | 3 nominaciones, con al menos 1 por modo de juego dominante |
+Cuando se haya creado la evaluación de un Beatmap Nominator y aún tenga que cumplir sus requisitos mínimos de actividad, recibirá un recordatorio a través del [bot del NAT](https://osu.ppy.sh/users/6616586) y tendrá **7** días para cumplir su cuota.
 
 ## Nominaciones
 
@@ -73,7 +64,7 @@ Cada modo tiene su propio mínimo requerido de actividad mensual.
 Consulta la página de [veto de los beatmaps](/wiki/People/Beatmap_Nominators/Beatmap_Veto) para obtener información completa sobre el proceso de un veto.
 
 - **No vetes beatmaps de los modos de juego para los que no estás debidamente autorizado.** No puedes nominarlos, por lo que bloquear una nominación sin la posibilidad de volver a nominar el beatmap no tiene sentido. Esto no se aplica a los vetos relativos al audio, los fondos u otro contenido que no esté directamente relacionado con el modo de juego del beatmap.
-- **Puedes vetar un beatmap publicando los problemas que crees que deben solucionarse antes de alcanzar el estado de clasificación en la sección correspondiente de la discusión del modding** Esto restablecerá cualquier nominación que haya recibido el beatmap y, por lo tanto, evitará que continúe con la clasificación. Los demás nominadores no podrán volver a nominarlo hasta que se retire el veto. La publicación del veto debe incluir un problema y un razonamiento claro para detener el proceso de clasificación del beatmap. Debes participar en la discusión resultante e intentar llegar a un acuerdo mutuo.
+- **Puedes vetar un beatmap publicando los problemas que crees que deben solucionarse antes de alcanzar el estado clasificado en forma de problemas o sugerencias en la sección correspondiente de la discusión de modding** Esto impedirá que el beatmap avance hacia la clasificación. Un beatmap calificado puede ser vetado usando una sugerencia con el fin de mantener el mapa calificado durante la discusión. La publicación del veto debe incluir un problema y un razonamiento claro para detener el proceso de clasificación del beatmap. Debes participar en la discusión resultante e intentar llegar a un acuerdo mutuo.
 - **No vetes mapas no clasificables.** Los mapas no clasificables implican que ningún otro nominador debe nominarlo y que el mapper no tiene más remedio que arreglarlo, del mismo modo que funciona un veto mantenido.
 - **No nomines beatmaps vetados.** El veto de un beatmap debe ser retirado antes de su renominación, lo cual puede ocurrir si el nominador del veto decide retirarlo tras una discusión satisfactoria o cambios apropiados en el beatmap, o si el mapper o el nominador del veto solicitan una mediación y el jurado decide que el veto es innecesario o inválido.
 

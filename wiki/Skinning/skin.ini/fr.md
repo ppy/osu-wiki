@@ -1,7 +1,7 @@
 ---
 no_native_review: true
+outdated_since: dcec646e6b02b2ecbfddc15077ee9c6ed142fbd0
 outdated_translation: true
-outdated_since: a5a4d44b66fbe6446aefb341d712d1623b1aac80
 ---
 
 # skin.ini
@@ -95,7 +95,7 @@ Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette 
 **Permet de skinner des flèches par type**
 
 - Ajout de `arrow-generic.png`, `arrow-warning.png` et `arrow-pause.png`.
-- Suppression de `play-warningarrow.png`.
+- Supprime `play-warningarrow.png` en faveur de ce qui précède.
 
 ### 2.7
 

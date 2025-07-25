@@ -53,7 +53,7 @@ Estos nombres de dificultad son los más usados para cada modo de juego.
 
 ## Nombramiento de dificultades de otros juegos
 
-Los mapas de canciones procedentes de otros juegos de ritmo suelen tomar prestado el esquema de nombramiento de dificultades de esos juegos. El uso de estos nombres de dificultad es aceptable para cualquier canción. Algunos de los esquemas de nombramiento más comunes usados en osu! se enumeran a continuación:
+Los mapas de canciones procedentes de otros juegos suelen tomar prestado el esquema de nombramiento de dificultades de esos juegos. El uso de estos nombres de dificultad es aceptable para cualquier canción. Algunos de los esquemas de nombramiento más comunes usados en osu! se enumeran a continuación:
 
 ### Beatmania IIDX
 
@@ -133,6 +133,7 @@ Los mapas de canciones procedentes de otros juegos de ritmo suelen tomar prestad
 #### SOUND VOLTEX EXCEED GEAR
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expert-o.png?20211215) ULTIMATE / ULT
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
 
 ### Arcaea

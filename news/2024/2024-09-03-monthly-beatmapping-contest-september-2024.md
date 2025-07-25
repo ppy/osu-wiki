@@ -6,7 +6,7 @@ date: 2024-09-03 19:00:00 +0000
 
 You've been waiting for this day for... approximately a month. Flex your mapping muscles in this month's contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is exactly what it sounds like: a beatmapping contest that runs every month.
 

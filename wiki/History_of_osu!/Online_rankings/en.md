@@ -24,19 +24,19 @@ As of 3 August 2024, on the [osu! performance rankings](https://osu.ppy.sh/ranki
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of 19 June 2024, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+As of 1 March 2025, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
-<!-- TODO: Add ranking history page similar to osu! -->
+*Main page: [osu!catch rankings history](osu!catch)*
 
-As of 21 July 2024, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
+As of 2 November 2024, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
 
 ## ![][osu!mania] osu!mania
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of 13 April 2023, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+As of 31 December 2024, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

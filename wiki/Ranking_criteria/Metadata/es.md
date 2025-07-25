@@ -1,6 +1,6 @@
 ---
-outdated_since: 5e2d1ef51e41f2aaed558eb3c886e798a4d84c54
 outdated_translation: true
+outdated_since: 8f0bebabe8583e636142f4f7f1dfe360900b39b6
 ---
 
 # Metadatos
@@ -13,6 +13,7 @@ outdated_translation: true
 - **Todas las dificultades de un beatmap deben tener los mismos datos en los campos `Title`, `Artist`, `Tag`, `Source` y `BeatmapSetID`.**
 - **Los campos `Artist` o `Title` de más de 81 caracteres deben acortarse.**
   - Para empezar, deja de colocar marcadores adicionales.
+    - Cuando el campo del artista es largo y usa el formato `CV`[^character-voice-actor], acórtalo eliminando los nombres de los personajes y enumerando solo los nombres de los actores de voz.
   - Si no es suficiente, trunca el campo e indícalo usando `...` en un lugar adecuado.
   - La información omitida debe añadirse a las etiquetas.
 - **El campo `Tags` debe acortarse si supera los 1000 caracteres.**
@@ -45,28 +46,30 @@ outdated_translation: true
 ### Reglas
 
 - **Los símbolos usados para agrupar parte de un título o artista deben incluir espacios alrededor.** Por ejemplo, `Song★Title★` se convierte en `Song ★Title★`.
+
 - **Los siguientes subconjuntos de símbolos Unicode deben tener espacios iniciales y finales cuando puedan romanizarse:**
   - [Flechas suplementarias-A](https://en.wikipedia.org/wiki/Supplemental_Arrows-A), [Flechas suplementarias-B](https://en.wikipedia.org/wiki/Supplemental_Arrows-B), [Otros símbolos y flechas](https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)
   - [Dingbats](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block))
   - [Otros símbolos](https://en.wikipedia.org/wiki/Miscellaneous_Symbols)
-  
+
   Esto no se aplica si el artista usa a propósito símbolos de manera que no sugieran espacios. Por ejemplo, `。✰302？ionwan2go✰。` sería `.*302?ionwan2go*.` y no `. * 302 ? ionwan2go * .`. Los demás tipos de caracteres se tratan según el caso.
+
 - **En los campos romanizados, los símbolos especiales deben cambiarse por su equivalente imprimible ASCII más cercano o eliminarse.** Los caracteres especiales distintos de los indicados a continuación deben modificarse o eliminarse según el caso. Cuando existan varias opciones, la que se use para la romanización dependerá del contexto.
 
-| Símbolo | Romanización recomendada |
-| :-- | :-- |
-| `★ ☆ ⚝ ✪ ✻`, y formas similares | `*` |
-| `♥ ♡` y corazones similares | `<3` |
-| `「 」『 』` | `""` |
-| `…` | `...` |
-| `。` | `.` |
-| `→` y flechas similares | `->` o `-->` |
-| `←` y flechas similares | `<-` o `<--` |
-| `《》` | `< >`, `<< >>` o `""` |
-| `【】` | `""`, `()` o `[]` |
-| `≠` | `=/=` o `!=` |
-| `・` | `.`, `,` o ` ` |
-| `×` | `x` |
+  | Símbolo | Romanización recomendada |
+  | :-- | :-- |
+  | `★ ☆ ⚝ ✪ ✻`, y formas similares | `*` |
+  | `♥ ♡` y corazones similares | `<3` |
+  | `「 」『 』` | `""` |
+  | `…` | `...` |
+  | `。` | `.` |
+  | `→` y flechas similares | `->` o `-->` |
+  | `←` y flechas similares | `<-` o `<--` |
+  | `《》` | `< >`, `<< >>` o `""` |
+  | `【】` | `""`, `()` o `[]` |
+  | `≠` | `=/=` o `!=` |
+  | `・` | `.`, `,` o ` ` |
+  | `×` | `x` |
 
 ## Artistas
 
@@ -78,7 +81,7 @@ Estos puntos también se aplican a cualquier crédito al artista presente en el 
 - **Usa un espacio al final para marcadores como `vs.`, `feat.`, `CV:`, etc. cuando marques a los artistas.** Si una palabra se encuentra antes del marcador, también debe usarse un espacio delante.
 - **Las comas deben llevar un espacio al final**, a menos que se estilice de otro modo intencionalmente.
 
-### Reglas de los marcadores
+#### Reglas: Marcadores
 
 Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden usar mayúsculas y minúsculas alternativas para que coincidan con el resto del campo.
 
@@ -97,7 +100,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
   - `Nombre del círculo`
   - `Un miembro muy conocido que participa en la canción`
   - `Nombre del círculo feat. Miembro del círculo/Colaborador externo/Cantante`
-  
+
   Los colaboradores externos de las canciones en solitario suelen figurar en los créditos y los demás miembros del círculo que figuran específicamente para la canción deberían seguir incluidos. El hecho de que un miembro sea lo suficientemente conocido como para ser el único artista se determina según el caso.
 
 ### Opciones permitidas
@@ -105,7 +108,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 - **Cuando en una pista participan varios artistas sin un formato claro, usa una opción permitida que se muestra a continuación para combinarlos en un solo campo de artista:**
   - `Compositor(es) feat. Cantante(s)`
   - **Los artistas pueden listarse simplemente con `,`, `&`, `x`, `/`, etc. entre cada artista.**
-  - **Si el artista combinado es demasiado largo y no se dispone de un nombre de grupo oficial, se puede usar en su lugar una etiqueta de artista descriptiva en los campos de artista.** Por ejemplo, `pippi (CV: pippi osu!), Yuzu (CV: Yuzu osu!), Mocha (CV: Mocha osu!), Mani (CV: Mani osu!) & Mari (CV: Mari osu!)` se cambiaría por `osu! cast`. Si nada encaja, usa `Various Artists` en su lugar.
+  - **Si el artista combinado es demasiado largo y no se dispone de un nombre de grupo oficial, se puede usar en su lugar una etiqueta de artista descriptiva en los campos de artista.** Por ejemplo, `pippi, Mocha, Yuzu, Mani & Mari, Aiko, Alisa, Chirou, Taikonator, HitCircle, Fruit, Tama` se cambiaría por `osu! cast`. Si nada encaja, usa `Various Artists` en su lugar.
 - **Cuando el actor de voz de un personaje se acredita como cantante de una canción cantada por el personaje, puede usarse el formato `Personaje (CV: Actor de voz)`.**
 
 ## Títulos
@@ -123,7 +126,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 
 - **Las versiones no oficiales que coincidan en contenido, orden y duración con una versión oficial se considerarán oficiales y deberán añadir el marcador correspondiente. Esto solo se aplica si el audio es casi indistinguible de la versión oficial.**
 
-##### Marcadores que debes añadir cuando sea necesario
+##### Reglas: Marcadores que debes añadir cuando sea necesario
 
 - **Las canciones sin un marcador de versión que se ajusten a una de las categorías de marcadores que se indican a continuación deben añadir el correspondiente al final.**
 - **Las canciones con marcadores de versión deben sustituirlos completamente por los marcadores estándar de la siguiente lista.**
@@ -133,7 +136,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
   - Usa este marcador cuando la canción sea una versión cortada que no se considere oficial.
   - Este marcador puede omitirse si tu corte es un bucle completo de una pista en bucle, como la música de fondo de un videojuego o una película.
 - `(Extended Edit)`
-  - Usa este marcador cuando la canción sea una versión extendida no oficial.
+  - Usa este marcador cuando la canción sea una versión extendida no oficial[^audio-rc-note].
 - `(Sped Up Ver.)`, `(Nightcore Mix)`
   - Usa este marcador cuando la canción se haya editado a un tempo más alto.
   - Solo las canciones que también aumentan el tono del audio pueden usar `(Nightcore Mix)`. De lo contrario, usa `(Sped Up Ver.)`.
@@ -141,16 +144,17 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
   - Si la edición es acelerada *y* cortada, usa `(Sped Up & Cut Ver.)` o `(Nightcore & Cut Ver.)`.
   - Pueden usarse otros marcadores combinados después de discutir su necesidad.
 
-##### Marcadores que debes normalizar, pero no siempre añadir
+##### Reglas: Marcadores que debes normalizar, pero no siempre añadir
 
 - **Si hay marcadores similares en el título de una canción, sustitúyelos por los marcadores correspondientes de la siguiente lista.**
-- **Si no hay marcadores, solo podrás añadirlos cuando haya varias versiones de una canción para indicar la versión correcta.**
+- **Si no hay marcadores, añade uno a la versión más corta cuando haya varias versiones de una canción con metadatos originales idénticos. Usa la opción más adecuada de la siguiente lista.**
+- **No añadas estos marcadores si una pista es la única versión conocida de una canción.**
 - `(Short Ver.)`
-  - Por lo general, se usa para indicar que existe una versión más larga. Usa este marcador cuando ya exista un marcador de duración como `-Short Ver-`, `Short Ver.`, `~Short Version~`. Esto no se aplica a los marcadores `Movie` o `Game Ver.`.
+  - Se usa para marcar las versiones más cortas cuando existen versiones largas y cortas de una canción. Algunos ejemplos de sustitución son: `-Short Ver-`, `Short`, `~Short Version~`.
 - `(Game Ver.)`
-  - Usa este marcador cuando ya exista un marcador como `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` para pistas usadas en videojuegos.
+  - Se usa para marcar las versiones de los videojuegos de las canciones. Algunos ejemplos de sustitución son: `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` para pistas usadas en videojuegos.
 - `(Movie Ver.)`
-  - Usa este marcador cuando ya exista uno como `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
+  - Se usa para marcar las versiones de las películas de las canciones. Algunos ejemplos de sustitución son: `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
 
 #### Pautas
 
@@ -221,15 +225,14 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 
 ## Romanización
 
-Esta sección explica cómo romanizar los metadatos por tu cuenta. Si estás usando una traducción o romanización oficial, deberás usarla tal cual en los campos romanizados.
-
 ### Reglas
 
+- **Las reglas, pautas y opciones permitidas de la romanización solo se aplican cuando tú mismo romanizas los metadatos. Si estás usando una traducción o romanización oficial, deberás usarla tal cual en los campos de romanización.**
 - **Los nombres de los artistas deben romanizarse en el orden en que aparecen impresos en el campo unicode.**
 - **Las palabras procedentes de otros idiomas deben emplear la ortografía de la lengua de origen cuando se romanicen.**
 - **Cuando la canción usa palabras repetidas en el título o el artista donde una es unicode y la otra es una romanización, el campo romanizado debe usar solo la romanización y eliminar la palabra duplicada.** `ソレイユ -Soleil-` pasaría a ser solo `Soleil` y `ピポピポ -People People-` pasaría a ser `People People`.
 
-### Reglas de romanización del idioma y del sistema de escritura
+### Reglas: Romanización de los idiomas y de los sistemas de escritura
 
 - **Japonés**
   - Usa el [sistema Hepburn modificado](https://es.wikipedia.org/wiki/Romanización_Hepburn#Características_de_la_romanización_Hepburn)
@@ -270,4 +273,5 @@ Esta sección explica cómo romanizar los metadatos por tu cuenta. Si estás usa
 ## Notas
 
 [^title-case]: Escribe en mayúsculas todas las palabras importantes y deja en minúsculas conjunciones como `and`, `to`, `or` y artículos como `the`, `a`, `an`.
-[^character-voice-actor]: `CV (Character Voice)` es usado cuando la canción es cantada como el personaje por el actor de voz del personaje. `VO (Voice Over)` es usado cuando una canción es cantada como el personaje por alguien que no es el actor de voz del personaje.
+[^character-voice-actor]: `CV` (*character voice*) es usado cuando la canción es cantada como el personaje por el actor de voz del personaje. `VO` (*voice over*) es usado cuando una canción es cantada como el personaje por alguien que no es el actor de voz del personaje.
+[^audio-rc-note]: Cuando se trabaje con ediciones extendidas y compilaciones de canciones hechas por los usuarios, se aplican los [criterios de clasificación generales de audio](/wiki/Ranking_criteria#pautas.2).

@@ -22,6 +22,7 @@ tags:
 
 # Игровой модификатор
 
+*Об списке модов в [lazer](/wiki/Client/Release_stream/Lazer) см. [Игровой модификатор (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
 *У этого термина существуют и другие значения, см. [Мод (значения)](/wiki/Disambiguation/Mod).*
 
 ![Экран выбора модов](img/mod-selection-screen.jpg "Сравнение экранов выбора модов в osu! (слева сверху), osu!taiko (справа сверху), osu!catch (слева снизу) и osu!mania (справа снизу)")

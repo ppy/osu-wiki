@@ -1,5 +1,7 @@
 ---
 no_native_review_since: acfbd0c258f788ae298d9cd328f0d6924fe7f1e7 CloneWith
+outdated_translation: true
+outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 ---
 
 # osu! wiki 维护

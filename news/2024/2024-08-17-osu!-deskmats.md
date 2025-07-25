@@ -24,7 +24,7 @@ This cursor dance through the ~~fool moon~~ night sky is a simple homage to the 
 
 Doubling the width of our previous deskmat, this titan is guaranteed to hold your mouse, keyboard, tablet, and at least 19 pippi plushies.
 
-[![](/wiki/shared/news/2024-08-17-osu-deskmats/stats.jpg)](https://osu.ppy.sh/store/products/1347)
+[![](/wiki/shared/news/2024-08-17-osu-deskmats/stats.jpg?1)](https://osu.ppy.sh/store/products/1347)
 
 And most importantly, it looks really cool.
 

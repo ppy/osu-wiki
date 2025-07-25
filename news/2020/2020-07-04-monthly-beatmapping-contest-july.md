@@ -6,7 +6,7 @@ date: 2020-07-04 04:00:00 +0000
 
 Competitive beatmapping makes its return for yet another month! See the new way winners are chosen and participate for sweet prizes!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Not sure how the Monthly Beatmapping Contest (*MBC*) works? Be sure to read through the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) for info on the contest's structure, previous winners, and much more.
 

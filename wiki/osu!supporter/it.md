@@ -6,7 +6,7 @@ tags:
 
 # osu!supporter
 
-![Immagine promozionale di osu!supporter](img/supporter-eyecatch.jpg)
+[![Immagine promozionale di osu!supporter](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (o il **tag osu!supporter**) è un titolo temporaneo conferito ai giocatori che supportano osu! tramite donazioni monetarie volontarie per aiutarne lo sviluppo. I supporter ricevono una serie di benefici estetici e pratici, la maggior parte dei quali sono attivi solo quando il titolo è presente. Le funzionalità extra di osu!supporter non danno alcun vantaggio nel gioco, nelle prestazioni o nei punteggi e non lo faranno mai.
 
@@ -17,11 +17,11 @@ Il tag osu!supporter può essere ottenuto dalla sua [pagina del negozio](https:/
 ### Emblema a cuore
 
 ::: Infobox
-![](img/userpage.png?1 "Profilo con osu!supporter")
+![](img/userpage.png?20241103 "Profilo con osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "Carta utente con osu!supporter")
+![](img/usercard-IT.png?20241022 "Carta utente con osu!supporter")
 :::
 
 I supporter ottengono una emblema con dei cuori, che può essere trovato accanto al loro nome utente sul sito web. La quantità di cuori dipende dalla durata dell'osu!supporter che l'utente ha acquisito o ricevuto in totale<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -95,6 +95,7 @@ osu! offre ai supporter limiti più rilassati per varie funzionalità online:
 | Valore | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
 | [Beatmap in attesa](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(beatmap classificate, 4)`, fino ad **8**[^pending-beatmaps-ref] | `8 + min(beatmap classificate, 12)`, fino a **20**[^pending-beatmaps-ref] |
+| Dimensioni squadra | 8 | `8 + 4 * supporter nella squadra` fino a **256** |
 | Beatmap preferite online | 100 | 1000 |
 | Numero di amici | 500 | 1000 |
 
