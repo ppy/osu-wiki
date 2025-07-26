@@ -1,13 +1,13 @@
 ---
 layout: post
 title: osu!catch World Cup 2025 Concludes
-date: 2025-07-27 12:00:00 +0000
+date: 2025-07-28 12:00:00 +0000
 ---
 
-The osu!catch World Cup 2025 is officialy over, finishing with the coronation of our brand-new champions.
+The osu!catch World Cup 2025 is officially over, concluding with the coronation of our brand-new champions.
 
 
-![](/wiki/shared/news/2025-07-27-osucatch-world-cup-2025-concludes/banner.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/banner.jpg)
 
 44 teams entered the tournament, each carrying the hopes and dreams of their countries' communities. Every week saw the elimination of teams more and more prestigious, often ending their journeys sooner than they had hoped. But for the select three who managed to carve their path to the very last round, a glorious podium finish awaited them.
 
@@ -15,9 +15,9 @@ Join us as we look back at this World Cup, through highlights and interviews fro
 
 ## Summary
 
-![Podium](/wiki/shared/news/2025-07-27-osucatch-world-cup-2025-concludes/podium.jpg)
+![Podium](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/podium.jpg)
 
-*I wake up, there is another coronation of glory...* COngratulations to ::{ flag=AR }:: Argentina who were crowned our 2025 osu!catch champions for the first time in history! More than just osu!catch, it is also the first win for the country across all gamemodes, an accomplishment that will be remembered for ages. The reigning champions, the ::{ flag=US }:: United States, were defeated 7–2 in Grand Finals, finishing in second place. And finally, ::{ flag=FI }:: Finland finishes on the podium in third place, also a first for the country.
+*I wake up, there is another coronation of glory...* Congratulations to ::{ flag=AR }:: Argentina who were crowned our 2025 osu!catch champions for the first time in history! This is not only Argentina’s first osu!catch title, but also their first win across all gamemodes, an historic achievement. The reigning champions, the ::{ flag=US }:: United States, were defeated 7–2 in Grand Finals, finishing in second place. And finally, ::{ flag=FI }:: Finland finishes on the podium in third place, also a first for the country.
 
 Will this be the start of a new Argentinian dynasty in osu!catch World Cups? Only the future can tell, but this could mark a turning point in the tournament's history.
 
@@ -29,15 +29,15 @@ Will this be the start of a new Argentinian dynasty in osu!catch World Cups? Onl
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2511672807&t=00h14m32s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-07-27-osucatch-world-cup-2025-concludes/mappool.png)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/mappool.png)
 
-This Grand Finals mappool was definitely one of the hardest ones we've ever seen in osu!catch. With most maps having a very high mechanical requirement and diving deep into each specialized skill, even the remaning teams struggled. [-Rustyy](https://osu.ppy.sh/users/16355636)'s [Kyokugen BON Odori](https://osu.ppy.sh/beatmapsets/2402724#fruits/5210989) (NM2) is a good showcase of this, requiring players to hit 230 BPM wiggles alongside heavy tech patterns. For other picks, extrememly high stamina was demanded of the players–[Nidoking](https://osu.ppy.sh/users/7034422)'s [Angel dust (2016 Radio Mix)](https://osu.ppy.sh/beatmapsets/2402805#fruits/5211177) featured constant wiggles at a high level of precision and on low approach rate for two ruthless minutes.
+This Grand Finals mappool was definitely one of the hardest ones we've ever seen in osu!catch. With most maps having a very high mechanical requirement and diving deep into each specialized skill, even the remaining teams struggled. [-Rustyy](https://osu.ppy.sh/users/16355636)'s [Kyokugen BON Odori](https://osu.ppy.sh/beatmapsets/2402724#fruits/5210989) (NM2) is a good showcase of this, requiring players to hit brutal 230 BPM wiggles alongside heavy tech patterns. For other picks, extremely high stamina was demanded of the players–[Nidoking](https://osu.ppy.sh/users/7034422)'s [Angel dust (2016 Radio Mix)](https://osu.ppy.sh/beatmapsets/2402805#fruits/5211177) featured constant wiggles at a high level of precision and on low approach rate for two ruthless minutes.
 
-For other slots, players got what they were used to. The classic [Daletto](https://osu.ppy.sh/users/7592136) Hard Rock stream map appeared in the form of [Pain Remains I: Dancing Like Flames](https://osu.ppy.sh/beatmapsets/2402732#fruits/5211006) (HR1), as well as the typically unorthodox [ExGon](https://osu.ppy.sh/users/214187) Double Time control pick with [MYS](https://osu.ppy.sh/beatmapsets/2402781#fruits/5211124).osu!mania 7k World Cup 2022 Grand Finals' tiebreaker, [Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284#mania/3469849) was also featured as a convert pick in the pool, but as a [cut version](https://osu.ppy.sh/beatmapsets/2403136#fruits/5211965) (NM4), making for a hellish stack gauntlet that no one could hold on through. 
+For other slots, players got what they were used to. The classic [Daletto](https://osu.ppy.sh/users/7592136) Hard Rock stream map appeared in the form of [Pain Remains I: Dancing Like Flames](https://osu.ppy.sh/beatmapsets/2402732#fruits/5211006) (HR1), as well as the typically unorthodox [ExGon](https://osu.ppy.sh/users/214187) Double Time control pick with [MYS](https://osu.ppy.sh/beatmapsets/2402781#fruits/5211124).osu!mania 7k World Cup 2022 Grand Finals' tiebreaker, [Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284#mania/3469849) was also featured as a convert pick in the pool, but as a [cut version](https://osu.ppy.sh/beatmapsets/2403136#fruits/5211965) (NM4), making for a hellish stack gauntlet that overwhelmed every player. 
 
 ---
 
-[![](/wiki/shared/news/2025-07-27-osucatch-world-cup-2025-concludes/goodbyetoyourviciouscycles_banner.png)](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009)
+[![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/goodbyetoyourviciouscycles_banner.png)](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -45,7 +45,7 @@ For other slots, players got what they were used to. The classic [Daletto](https
     </audio>
 </div>
 
-[WangleLine](https://osu.ppy.sh/beatmaps/artists/427) had made her appearance prior in the tournament with [Island of Orchids](https://osu.ppy.sh/beatmapsets/2384624#fruits/5156307) being used in the Round of 32's mappool. This time, it is for an osu!original that her music would be featured in the mappool, with [Goodbye To Your Vicious Cycles](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009) (HD3), mapped by [Phob](https://osu.ppy.sh/users/6069462) and [wwwww](https://osu.ppy.sh/users/8434466). This dark and gritty neuro drum and bass song was the perfect match for both the mappers, who turned it into one of the most terrifying Hidden picks to date. Extrememly demanding on both the reading and mechanics, both the map and the song are sure to left players feeling like they went through a nightmare after playing it.
+[WangleLine](https://osu.ppy.sh/beatmaps/artists/427) had made her appearance prior in the tournament with [Island of Orchids](https://osu.ppy.sh/beatmapsets/2384624#fruits/5156307) being used in the Round of 32's mappool. This time, it is for an osu!original that her music would be featured in the mappool, with [Goodbye To Your Vicious Cycles](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009) (HD3), mapped by [Phob](https://osu.ppy.sh/users/6069462) and [wwwww](https://osu.ppy.sh/users/8434466). This dark and gritty neuro drum and bass song was the perfect match for them both, who turned it into one of the most terrifying Hidden picks to date. Extremely demanding on both the reading and mechanics, the map and the song are sure to leave players feeling like they went through a nightmare after playing it.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/O_8FGiiad6U" frameborder="0" allowfullscreen></iframe>
@@ -88,7 +88,7 @@ Throughout the tournament, many people contributed to these mappools, working be
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-tournament-committee" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
-CONNOR 
+CONNOR jfgdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 </div>
 
@@ -100,7 +100,7 @@ CONNOR
     }
 </style>
 
-It is with a grand total of **9** [osu! originals](/wiki/Community/Bespoke_music) that the tournaments ends, all from very different genres and styles. Many worked tirelessly to makes this all possible, including the artists themselves, the illustrators, the graphic designers, and the storyboarders to whom we owe this fantastic line-up. Each and every one of them is truly its own experience, so even if you can't play the maps, make sure to listen to them and appreciate the work that has been put into them.
+It is with a grand total of **9** [osu! originals](/wiki/Community/Bespoke_music) that the tournaments ends, all from very different genres and styles. Many worked tirelessly to make this all possible, including the artists themselves, the illustrators, the graphic designers, and the storyboarders to whom we owe this fantastic line-up. Each and every one of them is truly its own experience, so even if you can't play the maps, make sure to listen to them and appreciate the work that has been put into them.
 
 You can check out the previews for each one of them right below, and the maps by clicking on the banners!
 
@@ -124,7 +124,7 @@ You can check out the previews for each one of them right below, and the maps by
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-07-27-osucatch-world-cup-2025-concludes/Symholic_Banner.jpg)](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767)
+[![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/Symholic_Banner.jpg)](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -170,7 +170,7 @@ You can check out the previews for each one of them right below, and the maps by
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2025-07-27-osucatch-world-cup-2025-concludes/goodbyetoyourviciouscycles_banner.png)](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009)
+[![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/goodbyetoyourviciouscycles_banner.png)](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -178,7 +178,7 @@ You can check out the previews for each one of them right below, and the maps by
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-07-27-osucatch-world-cup-2025-concludes/eternity_banner.jpg)](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146)
+[![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternity_banner.jpg)](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -208,7 +208,7 @@ Throughout the tournament, many people contributed to these mappools, working be
         margin-bottom: 2px;
     }
 
-    .news-chat-quote__colour-white {
+    .news-chat-quote__colour-no-group {
         color: #FFFFFF;
     }
 </style>
@@ -217,9 +217,9 @@ Throughout the tournament, many people contributed to these mappools, working be
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8434466" style="background-image: url('/wiki/shared/avatars/wwwww.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-tournament-committee" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
-CONNOR
+AWAITING CONNOR STATEMENT
 
 </div>
 
@@ -242,7 +242,19 @@ These were the results of this last weekend of osu!catch World Cup. Congratulati
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=1h5m4s&video=2517677050" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
+It was now time for the long-awaited Grand Finals. Argentina (#2) and the United States (#1), the two clear favourites, standing head and shoulders above the rest, would face off once again. One year ago, Argentina was the one coming out of the losers' bracket in the ultimate match, only to lose 7—4. This time, however, Argentina had sent the United States to the losers' bracket, defeating them in the winners' bracket final 7—4. After a decisive 7—0 victory over Finland, it was now time for the rematch—of both last year's grand final and this year's winners' final.
 
+In their previous match, most of the mappool didn't really favour one team over the other, with both teams contesting each other on most picks—it mainly came down to match performance. This week, with the continuous rise in mappool difficulty, and especially mechanical difficulty, it was unclear whether the United States could keep up with the Argentinian roster. All of their core players are well-known within the community for their prowess on fast and stamina-draining maps, which can't really be said about the American roster as a whole, whose strengths mainly lie in other skills. 
+
+This would be shown right away with the explosive [NM1](https://osu.ppy.sh/beatmapsets/2402793#fruits/5211154) being banned by the United States, and the slower, more precision-focused [HR2](https://osu.ppy.sh/beatmapsets/2402748#fruits/5211044) being Argentina's ban. The first pick would be the same as the one from a week ago, [HD2](https://osu.ppy.sh/beatmapsets/2402733#fruits/5211007) for Argentina, comfortably won. The United States' first pick, [MM3](https://osu.ppy.sh/beatmapsets/2402856#fruits/5211272) would be closer, especially thanks to ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006) FCing the map for the second time in an hour, but Argentina still prevailed.
+
+They would continue comfortably winning their own picks, with [MM1](https://osu.ppy.sh/beatmapsets/2402923#fruits/5211451) next, and [HD3](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009) later, with a ridiculous 896k from ::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283). It looked next to impossible to beat them on their own territory, and this would go on for the rest of the match.
+
+Fortunately for the United States, they still had strengths they could rely on. They picked and won [DT3](https://osu.ppy.sh/beatmapsets/2402762#fruits/5211092) and [NM4](https://osu.ppy.sh/beatmapsets/2403136#fruits/5211965), two of the more awkward and control-based maps. They were only down one point, but with how strong Argentina looked on their own picks and with their best maps now being out of the equation, the situation looked dire.
+
+Argentina went for [NM2](https://osu.ppy.sh/beatmapsets/2402724#fruits/5210989), one of the more mechanically-demanding picks, and won as expected, with a phenomenal 962k from ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439). Now up 5—2, they would only need to win their next two picks to secure the title. But it came even faster than that, taking the United States' [DT1](https://osu.ppy.sh/beatmapsets/2402758#fruits/5211086), and then their own [NM3](https://osu.ppy.sh/beatmapsets/2402805#fruits/5211177), despite ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006)'s one-miss score.
+
+It was over, with a clean 7—2. Argentina had made history, becoming osu!catch World Cup champions for the first time ever. Their performance throughout the whole tournament was nothing short of extraordinary, their roster reaching its full potential this year in order to accomplish this dream of theirs. They had taken their revenge on the reigning champions, and it will now be their turn to defend the title next year. Their own reign had only just begun, and they couldn't have hoped for a better start.
 
 ## Match highlights recap
 
@@ -264,7 +276,7 @@ This edition was filled with many highlights, so we compiled the ones that were 
 
 ## Statistics
 
-Who were the best players this tournament? The teams that had the most dominance over the competition during their run? Let's take a look at some of the statistics from the whole tournament!
+Who were the best players this tournament? The most dominant teams during their run? Let's take a look at some of the statistics from the whole tournament!
 
 ### Most valuable players
 
@@ -298,7 +310,7 @@ Who were the best players this tournament? The teams that had the most dominance
 
 ---
 
-All the details for these statistics can be found in each individual sheet in the [stats folder](https://drive.google.com/drive/folders/1k4t2d2hWOj2zjVNZsadKEqA-eguIsYmR), courtesy of [shdewz](https://osu.ppy.sh/users/10000899).
+All the details for these statistics can be found in each individual sheet in the [stats folder](https://drive.google.com/drive/folders/1k4t2d2hWOj2zjVNZsadKEqA-eguIsYmR), courtesy of [shdewz](https://osu.ppy.sh/users/10000899)!
 
 ## Interviews
 
@@ -319,17 +331,13 @@ All the details for these statistics can be found in each individual sheet in th
         font-weight: 600;
         margin-bottom: 2px;
     }
+    
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
 
     .news-chat-quote__colour-loved {
         color: #FFD1DC;
-    }
-
-    .news-chat-quote__colour-fa {
-        color: #00FFFF;
-    }
-
-    .news-chat-quote__colour-nat {
-        color: #fa3703;
     }
 </style>
 
@@ -375,13 +383,13 @@ By now, many viewers have come to recognise that each [osu! original](/wiki/Comm
 
 The moment I heard the song, I knew we were about to create banger designs. Many ideas surged into my mind, and I had to start sketching them out right away to capture the initial creative momentum.
 
-![](/wiki/shared/news/2025-07-27-osucatch-world-cup-concludes/eternitydesign1.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign1.jpg)
 
 My strength really shines during the conceptual phase, where I excel at interpreting abstract instrumental tracks without lyrics, and then transforming them into cool visual ideas. Yooh granted a lot of creative freedom, so it was important for our design team to get a strong direction right from the start to keep everyone's ideas organized. I created multiple sketches based on our initial team discussion, and I'm glad those sketches were able to set a nice foundation for us to build on.
 
 Later during production, I further expanded the sketches into more visual references, helping everyone understand the intended mood and narrative direction while still leaving space for individual creativity. 
 
-![](/wiki/shared/news/2025-07-27-osucatch-world-cup-concludes/eternitydesign2.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign2.jpg)
 
 This created a great synergy. Everyone felt empowered to contribute, which elevated both the ambition and cohesion of the project. The result was a team-wide focus on storytelling, and a lore that felt genuinely alive.
 
@@ -393,7 +401,7 @@ I've always loved Yooh's works. My favorite World Cup tiebreaker is [RPG](https:
 
 I also decided to have the lore encrypted throughout the video and storyboard to build a more mysterious feeling. That's why we created Lucine Crypt, a fully decodable font. 
 
-![](/wiki/shared/news/2025-07-27-osucatch-world-cup-concludes/eternitydesign3.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign3.jpg)
 
 I'm glad to see many people were able to piece together the story soon after the song is released. For those who haven't yet, I encourage you to take a closer look. The entire lore is hidden in the design, waiting to be discovered.
 
@@ -411,7 +419,7 @@ The most challenging part for me was definitely my role as the lead illustrator.
 
 We had [Hiro](https://osu.ppy.sh/users/15251809) and [Xiaoraini](https://osu.ppy.sh/users/3607337) collaborating on the illustrations. Both of them did phenomenal work. They quickly understood the vision, delivered high-quality work quickly, and brought their own flair to the project. Our character Lucine started with her "light form" in the first half of the song, so I figured Hiro's cute and vibrant drawing style would fit better. After Lucine made a "dark form" transformation in the second half of the song, Xiaoraini's dynamic texture drawing style were able to shine.
 
-![](/wiki/shared/news/2025-07-27-osucatch-world-cup-concludes/eternitydesign4.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign4.jpg)
 
 I filled the gaps between them, and I'm quite happy the final result is that harmonious despite having 3 illustrators with different drawing styles.
 
@@ -431,7 +439,7 @@ This project wasn't just a design effort. We also had [autofanboy](https://osu.p
 
 ::{#-Story-}::
 
-[-Story-](https://osu.ppy.sh/users/8172283), captain of team Argentina and now fresh osu!catch Champion, answered a couple of questions regarding he and his team's achievement this year.
+[-Story-](https://osu.ppy.sh/users/8172283), captain of team Argentina and now fresh osu!catch Champion, answered a couple of questions regarding him and his team's achievement this year.
 
 ---
 
@@ -486,10 +494,10 @@ See you next year, I'm hoping to play with all my friends again and again becaus
 
 ---
 
-A grand total of **127** individual contributors and staff members made this osu!catch World Cup possible, for a total of **251** players who participated. It has been to date the largest amount of contributors and players ever in the tournament's history, which we can rejoice about. osu!catch still has much to deliver!
+A grand total of **127** individual contributors and staff members made this osu!catch World Cup possible, for a total of **251** players who participated. It has been to date the largest amount of contributors and players ever in the tournament's history, which is a great accomplishment for our beloved gamemode. osu!catch still has a great future ahead of it, and we hope you all will be a part of it.
 
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/cwc2025-credits.png)
 
-
-To every player who dared to chase the crown, every contributor who kept the show running, and every viewer who cheered from start to finish—thank you for being part of the osu!catch World Cup 2025. Until next time, keep chasing, and we'll see you on the leaderboard. ########################
+To every player who represented their country, every contributor who worked tirelessly behind the scenes or on stage, and every viewer who cheered from start to finish, **thank you** for being part of the osu!catch World Cup 2025. Until next time, keep catching fruits, and we'll see you around.
 
 —Realmaas, Sakura006
