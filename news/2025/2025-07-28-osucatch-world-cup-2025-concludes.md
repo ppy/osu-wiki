@@ -494,7 +494,7 @@ See you next year, I'm hoping to play with all my friends again and again becaus
 
 ---
 
-A grand total of **127** individual contributors and staff members made this osu!catch World Cup possible, for a total of **251** players who participated. It has been to date the largest amount of contributors and players ever in the tournament's history, which is a great accomplishment for our beloved gamemode. osu!catch still has a great future ahead of it, and we hope you all will be a part of it.
+A grand total of **128** individual contributors and staff members made this osu!catch World Cup possible, for a total of **251** players who participated. It has been to date the largest amount of contributors and players ever in the tournament's history, which is a great accomplishment for our beloved gamemode. osu!catch still has a great future ahead of it, and we hope you all will be a part of it.
 
 ![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/cwc2025-credits.png)
 
