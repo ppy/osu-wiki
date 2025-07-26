@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "New Featured Artist: Aspect"
-date: 2025-07-25 08:30:00 +0000
+date: 2025-07-26 10:30:00 +0000
 ---
 
 **Aspect**'s music isn't what you'd expect to hear from a rhythm game, but sometimes that's what osu! needs.
 
 ![](https://assets.ppy.sh/artists/487/header.jpg)
 
-A specialist in narrative-driven electronic/orchestral songs, **Aspect** focuses his music on worldbuilding in service of a story he's been developing for nearly a decade. 
+A specialist in narrative-driven electronic/orchestral songs, **Aspect** focuses his music on worldbuilding in service of a story he's been developing for nearly a decade.
 
-With a grander goal in mind, **Aspect**'s tracks often feature foley and sound design that you wouldn't find in most music, providing a refreshing take on ordinary electronic tracks. 
+With a grander goal in mind, **Aspect**'s tracks often feature foley and sound design that you wouldn't find in most music, providing a refreshing take on ordinary electronic tracks.
 
 Snippets of **Aspect**'s story can be revealed through the **9** tracks on [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/487), each pre-timed so you can immediately bring them to life with circles, sliders, drums, fruits, keys, and whatever else exists.
 
