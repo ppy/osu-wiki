@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 45e872f620e408dc550e2fbc2df99a940aabd24e
----
-
 # Criterios de clasificación
 
 Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
@@ -66,6 +61,7 @@ Importante entender antes de usar:
 - **No se pueden poner dos objetos en el mismo instante.** Esto incluye los círculos y las duraciones de los sliders y spinners. Las dificultades de osu!mania están exentas de esto.
 - **Debe haber al menos 10 milisegundos entre un círculo y el siguiente objeto, y al menos 20 milisegundos entre el final de un slider y el siguiente objeto.** Las dificultades de osu!mania y osu!catch están exentas de esto.
 - **Todo el contenido de un beatmap debe estar autorizado según los [permisos de uso de contenido](/wiki/Rules/Content_usage_permissions#permisos-de-los-artistas).** Para los artistas o pistas que figuran como no permitidos en la página, sus canciones solo pueden clasificarse si se otorga un permiso explícito para la pista al anfitrión del beatmap. La prueba del permiso debe presentarse en la descripción del beatmap o en la página de discusión.
+- **Los objetos de un beatmap, los hitsounds y la temporización deben crearse exclusivamente por intervención humana directa, sin usar ninguna herramienta generativa.** La creación de beatmaps es un proceso fundamentalmente creativo, por lo que usar atajos como la IA generativa es inaceptable para la clasificación.
 - **No debe haber imágenes obscenas en el [fondo](/wiki/Beatmap/Background), storyboard o contenido del vídeo.** Esto incluye desnudez, casi desnudez, referencias sexuales, violencia, abuso de drogas, etc. Véase las [consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations) para obtener reglas más detalladas.
 - **Las dificultades que contengan efectos estroboscópicos repetitivos, imágenes pulsantes o cambios rápidos de contraste, brillo o color en el storyboard o el vídeo deben usar una advertencia de epilepsia.** Si la advertencia interfiere con el juego, la entrada de audio debe ser más larga. Los efectos estroboscópicos a 3 Hz (es decir, 3 destellos por segundo) e inferiores no suelen causar problemas. En caso de duda, añade la advertencia y confirma su necesidad durante el proceso de modding.
 - **En la carpeta del beatmap no debe haber archivos sin usar ni archivos de 0 bytes.** Los archivos de 0 bytes impiden que otros archivos de la carpeta de un beatmap se carguen correctamente. Los archivos `thumbs.db` generados automáticamente son las únicas excepciones.
