@@ -248,7 +248,7 @@ Who were the best players this tournament? The most dominant teams during their 
 ### Most valuable players
 
 | # | Player | Average Performance Score | MVPs |
-| :-: | :-- | :-- | :-: |
+| :-: | :-- | :-: | :-: |
 | #1 | ::{ flag=IT }:: ArMa79 | 1.433 | ★ 8 |
 | #2 | ::{ flag=AR }:: SirGonzaxz | 1.404 | ★ 15 |
 | #3 | ::{ flag=AR }:: -Story- | 1.399 | ★ 13 |
@@ -308,11 +308,7 @@ All the details for these statistics can be found in each individual sheet in th
     }
 </style>
 
-::{#Kyuare & Kuroise}::
-
 For this year's CWC Grand Finals tiebreaker, [Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146), both [Kyuare](https://osu.ppy.sh/users/2705312) and [Kuroise](https://osu.ppy.sh/users/14547127) made a return to World Cup designs. [Kyuare](https://osu.ppy.sh/users/2705312) worked on the character illustrations, continuing his work from previous years with [Evreka](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911) in CWC 2023 and [step by step](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684) in CWC 2024. [Kuroise](https://osu.ppy.sh/users/14547127) was responsible for the storyboard creation, following his previous role as storyboarder for [BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722) in [TWC 2025](/wiki/Tournaments/TWC/2025).
-
----
 
 <div class="news-chat-quote__text-container">
 
@@ -322,13 +318,13 @@ For this year's CWC Grand Finals tiebreaker, [Eternity](https://osu.ppy.sh/beatm
 
 Welcome back to another Grand Finals tiebreaker project. To start off, could you both briefly introduce yourselves and share a bit about your design experience in the community?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2705312" style="background-image: url('/wiki/shared/avatars/kyuare.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2705312" style="background-image: url('/wiki/shared/avatars/Kyuare.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2705312">Kyuare</a></p>
 
 Hi hi I'm Kyuare, a very old catch mapper who spent his entire life drawing. When I have free time I'm making cool art for [osu! originals](/wiki/Community/Bespoke_music).
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14547127" style="background-image: url('/wiki/shared/avatars/kuroise.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14547127" style="background-image: url('/wiki/shared/avatars/Kuroise.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14547127">Kuroise</a></p>
 
@@ -344,7 +340,7 @@ With CWC 2025's Grand Finals Tiebreaker done, I'm currently sitting at a total o
 
 By now, many viewers have come to recognise that each [osu! original](/wiki/Community/Bespoke_music) tiebreaker carries its own distinct atmosphere and narrative. When you first joined this project, what were your initial impressions of the song? How did [Yooh](https://osu.ppy.sh/beatmaps/artists/218)'s suggestions and feedback influence lore planning within the design team?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2705312" style="background-image: url('/wiki/shared/avatars/kyuare.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2705312" style="background-image: url('/wiki/shared/avatars/Kyuare.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2705312">Kyuare</a></p>
 
@@ -360,7 +356,7 @@ Later during production, I further expanded the sketches into more visual refere
 
 This created a great synergy. Everyone felt empowered to contribute, which elevated both the ambition and cohesion of the project. The result was a team-wide focus on storytelling, and a lore that felt genuinely alive.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14547127" style="background-image: url('/wiki/shared/avatars/kuroise.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14547127" style="background-image: url('/wiki/shared/avatars/Kuroise.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14547127">Kuroise</a></p>
 
@@ -378,7 +374,7 @@ I'm glad to see many people were able to piece together the story soon after the
 
 Every tiebreaker project is a shared accomplishment made possible by the combined efforts of all design roles—illustrators, graphic designers, visual effects designers, storyboarders, and many more. You each played different roles in shaping how the story is visually conveyed. What parts of your work did you find most challenging, and how did the teamwork between these roles come together for this project?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2705312" style="background-image: url('/wiki/shared/avatars/kyuare.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2705312" style="background-image: url('/wiki/shared/avatars/Kyuare.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2705312">Kyuare</a></p>
 
@@ -392,7 +388,7 @@ I filled the gaps between them, and I'm quite happy the final result is that har
 
 Aside from completing illustrations, we also frequently gathered feedback from other design roles like storyboarders, graphic designers, and also VFX designers. The final product being presented on showcase is truly a collaborative achievement. It was a joy to see everyone bringing their strengths to the table in such a synchronized way.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14547127" style="background-image: url('/wiki/shared/avatars/kuroise.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14547127" style="background-image: url('/wiki/shared/avatars/Kuroise.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14547127">Kuroise</a></p>
 
@@ -404,21 +400,19 @@ This project wasn't just a design effort. We also had [autofanboy](https://osu.p
 
 </div>
 
-::{#-Story-}::
+---
 
 [-Story-](https://osu.ppy.sh/users/8172283), captain of team Argentina and now fresh osu!catch Champion, answered a couple of questions regarding him and his team's achievement this year.
 
----
-
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6567640" style="background-image: url('/wiki/shared/avatars/realmaas.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6567640" style="background-image: url('/wiki/shared/avatars/Realmaas.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-loved" href="https://osu.ppy.sh/users/6567640">Realmaas</a></p>
 
 Hello and congrats on winning! What was your main motivation going into this CWC considering your second-place finish last year, and how did you and your team react to this year's outcome?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8172283" style="background-image: url('/wiki/shared/avatars/-story-.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8172283" style="background-image: url('/wiki/shared/avatars/-Story-.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8172283">-Story-</a></p>
 
@@ -426,25 +420,25 @@ First of all, Thanks for the compliment!!!
 Now going for answering the question, I think the motivation came from the effort we put into CWC 2024, and I think that partly gave us the confidence to believe we could win a World Cup. However, many difficulties arose when it came to recovering players from the previous CWC (including myself) due to the lack of time and personal issues from each member.
 Regarding the results, I think it's something we've been expecting since we entered the CWC 2025, as we went in with a pretty strong and solid mentality regarding our abilities. Even so, we couldn't believe we were finally winning a World Cup, especially [VelperK](https://osu.ppy.sh/users/348467), who has been playing since 2010 with a clear dream to win one in his life.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6567640" style="background-image: url('/wiki/shared/avatars/realmaas.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6567640" style="background-image: url('/wiki/shared/avatars/Realmaas.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-loved" href="https://osu.ppy.sh/users/6567640">Realmaas</a></p>
 
 How did your team approach or prepare for this year's bracket? Did anything change compared to previous years?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8172283" style="background-image: url('/wiki/shared/avatars/-story-.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8172283" style="background-image: url('/wiki/shared/avatars/-Story-.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8172283">-Story-</a></p>
 
 Last year I feel like I performed very well as captain in terms of deciding what to pick and what strategy to use to win matches, but this year I felt more relaxed regarding practice, choosing picks and at the team's level. Our way of practicing is simple: we take maps that we consider difficult and then organize them into a Google Sheet to upload scores and improve on the current type of maps within the year to understand the lastest skillsets from 2025. So, pretty much we changed a bit the strategy and choose things where we could feel more comfortability.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6567640" style="background-image: url('/wiki/shared/avatars/realmaas.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6567640" style="background-image: url('/wiki/shared/avatars/Realmaas.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-loved" href="https://osu.ppy.sh/users/6567640">Realmaas</a></p>
 
 After this year's win, motivation seems to be at an all-time high in the Argentinian community. What can we expect from your team in the future?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8172283" style="background-image: url('/wiki/shared/avatars/-story-.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8172283" style="background-image: url('/wiki/shared/avatars/-Story-.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8172283">-Story-</a></p>
 
