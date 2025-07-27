@@ -275,8 +275,6 @@ Who were the best players this tournament? The most dominant teams during their 
 | #4 | ::{ flag=FR }:: France vs. ::{ flag=CA }:: Canada | Round of 16 | HR2 | 775 | ::{ flag=CA }:: | ::{ flag=CA }:: |
 | #5 | ::{ flag=FR }:: France vs. ::{ flag=CA }:: Canada | Round of 16 | HR1 | 803 | ::{ flag=CA }:: | ::{ flag=FR }:: |
 
----
-
 All the details for these statistics can be found in each individual sheet in the [stats folder](https://drive.google.com/drive/folders/1k4t2d2hWOj2zjVNZsadKEqA-eguIsYmR), courtesy of [shdewz](https://osu.ppy.sh/users/10000899)!
 
 ## Interviews
@@ -402,7 +400,7 @@ This project wasn't just a design effort. We also had [autofanboy](https://osu.p
 
 ---
 
-[-Story-](https://osu.ppy.sh/users/8172283), captain of team Argentina and now fresh osu!catch Champion, answered a couple of questions regarding him and his team's achievement this year.
+::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283), captain of team Argentina and now fresh osu!catch Champion, answered a couple of questions regarding him and his team's achievement this year.
 
 <div class="news-chat-quote__text-container">
 
