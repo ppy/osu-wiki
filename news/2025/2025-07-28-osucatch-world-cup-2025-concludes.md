@@ -267,7 +267,7 @@ Who were the best players this tournament? The most dominant teams during their 
 
 ### Closest maps
 
-| # | Match | Pick | Round | Score diff | pick by | won by |
+| # | Match | Round | Pick | Score diff | pick by | won by |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=FR }:: France vs. ::{ flag=CA }:: Canada | Round of 16 | HR3 | 4 | ::{ flag=FR }:: | ::{ flag=FR }:: |
 | #2 | ::{ flag=FI }:: Finland vs. ::{ flag=CL }:: Chile | Finals | HR3 | 575 | ::{ flag=FI }:: | ::{ flag=FI }:: |
