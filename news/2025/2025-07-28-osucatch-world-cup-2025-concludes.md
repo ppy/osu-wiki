@@ -6,7 +6,6 @@ date: 2025-07-28 12:00:00 +0000
 
 The osu!catch World Cup 2025 is officially over, concluding with the coronation of our brand-new champions.
 
-
 ![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/banner.jpg)
 
 44 teams entered the tournament, each carrying the hopes and dreams of their countries' communities. Every week saw the elimination of teams more and more prestigious, often ending their journeys sooner than they had hoped. But for the select three who managed to carve their path to the very last round, a glorious podium finish awaited them.
@@ -90,7 +89,7 @@ Throughout the tournament, many people contributed to these mappools, working be
 
 Being an advisor for CWC taught me so many life lessons throughout my 3 year tenure. Due to the workload and management skills required, it made me aware of how I operate as a person as well as what I value. I think that alone made the job worth it to me, however there are parts of the job itself that kept me excited and motivated.
 
-Getting to work with [mangomizer](https://osu.ppy.sh/users/1035891) and [Yoshi_green](https://osu.ppy.sh/users/1035891) on [osu!originals]([osu! originals](/wiki/Community/Bespoke_music)) made me ecstatic. Spending time finding applicable artists that could potentially make an original for our mode is extremely exciting and something I take a lot of pride in. For me personally, [Ice](https://osu.ppy.sh/beatmaps/artists/484) was the artist that helped get me into rhythm games back in 2013. Getting to request him to make an original this year has got to be one of my favorite moments… ever! It really made me feel like everything came full circle.
+Getting to work with [mangomizer](https://osu.ppy.sh/users/1035891) and [Yoshi_green](https://osu.ppy.sh/users/1035891) on [osu!originals](/wiki/Community/Bespoke_music)) made me ecstatic. Spending time finding applicable artists that could potentially make an original for our mode is extremely exciting and something I take a lot of pride in. For me personally, [Ice](https://osu.ppy.sh/beatmaps/artists/484) was the artist that helped get me into rhythm games back in 2013. Getting to request him to make an original this year has got to be one of my favorite moments… ever! It really made me feel like everything came full circle.
 
 I’ve always viewed this role as one that allows people to have fun with a game I care so much about as they play in the biggest tournament catch has to offer. While being an advisor may be hard, my best piece of advice is to find aspects of the job you yourself enjoy and let that motivate you. It’s okay to be a little selfish sometimes if it allows you to do your best and I think thats something everyone needs to hear.
 
@@ -312,7 +311,7 @@ All the details for these statistics can be found in each individual sheet in th
 
 ::{#Kyuare & Kuroise}::
 
-For this year's CWC Grand Finals tiebreaker, [Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146), both [Kyuare](https://osu.ppy.sh/users/2705312) and [Kuroise](https://osu.ppy.sh/users/14547127) made a return to World Cup designs. [Kyuare](https://osu.ppy.sh/users/2705312) worked on the character illustrations, continuing his work from previous years with [Evreka](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911) in CWC 2023 and [step by step](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684) in CWC 2024. [Kuroise](https://osu.ppy.sh/users/14547127) was responsible for the storyboard creation, following his previous role as storyboarder for [BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722) in [TWC 2025](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2025).
+For this year's CWC Grand Finals tiebreaker, [Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146), both [Kyuare](https://osu.ppy.sh/users/2705312) and [Kuroise](https://osu.ppy.sh/users/14547127) made a return to World Cup designs. [Kyuare](https://osu.ppy.sh/users/2705312) worked on the character illustrations, continuing his work from previous years with [Evreka](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911) in CWC 2023 and [step by step](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684) in CWC 2024. [Kuroise](https://osu.ppy.sh/users/14547127) was responsible for the storyboard creation, following his previous role as storyboarder for [BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722) in [TWC 2025](/wiki/Tournaments/TWC/2025).
 
 ---
 
@@ -334,9 +333,9 @@ Hi hi I'm Kyuare, a very old catch mapper who spent his entire life drawing. Whe
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14547127">Kuroise</a></p>
 
-Good morning! I'm Kuroise! Some may know me for being an osu!standard mapper as my storyboarding career is relatively new. I've technically been storyboarding since 2020, although mostly as a casual hobby. In late 2024 I've had the chance to expand my storyboarding knowledge with the help of my mentor [Noffy](https://osu.ppy.sh/users/1541323), and I've been starting to storyboard seriously from there. During that period, I've switched from solely using the osu! editor to also including [scripting](https://osu.ppy.sh/wiki/en/Storyboard/Scripting). It's a less popular technique as it requires you to edit each individual sprite and command associated with it instead of writing a code that does the script for you.
+Good morning! I'm Kuroise! Some may know me for being an osu!standard mapper as my storyboarding career is relatively new. I've technically been storyboarding since 2020, although mostly as a casual hobby. In late 2024 I've had the chance to expand my storyboarding knowledge with the help of my mentor [Noffy](https://osu.ppy.sh/users/1541323), and I've been starting to storyboard seriously from there. During that period, I've switched from solely using the osu! editor to also including [scripting](/wiki/Storyboard/Scripting). It's a less popular technique as it requires you to edit each individual sprite and command associated with it instead of writing a code that does the script for you.
 
-I don't have many storyboards to showcase, but my strength in narrative design is reflected in my maps for [SeventH-HeaveN](https://osu.ppy.sh/beatmapsets/2293637#osu/4897782) and the recent [TWC 2025](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2025) Grand Finals tiebreaker [BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722). That project was a storyboard collaboration with [RiceSS](https://osu.ppy.sh/users/8271436), [Coppertine](https://osu.ppy.sh/users/7279762), and [Noffy](https://osu.ppy.sh/users/1541323), where I played a major role in shaping the underlying story.
+I don't have many storyboards to showcase, but my strength in narrative design is reflected in my maps for [SeventH-HeaveN](https://osu.ppy.sh/beatmapsets/2293637#osu/4897782) and the recent [TWC 2025](/wiki/Tournaments/TWC/2025) Grand Finals tiebreaker [BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722). That project was a storyboard collaboration with [RiceSS](https://osu.ppy.sh/users/8271436), [Coppertine](https://osu.ppy.sh/users/7279762), and [Noffy](https://osu.ppy.sh/users/1541323), where I played a major role in shaping the underlying story.
 
 With CWC 2025's Grand Finals Tiebreaker done, I'm currently sitting at a total of 16 storyboards completed (although 4 deleted). I'm also following my mentor's steps and became a storyboard mentor myself!
 
