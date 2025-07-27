@@ -77,7 +77,7 @@ Throughout the tournament, many people contributed to these mappools, working be
         margin-bottom: 2px;
     }
 
-    .news-chat-quote__colour-white {
+    .news-chat-quote__colour-no-group {
         color: #FFFFFF;
     }
 </style>
@@ -86,9 +86,15 @@ Throughout the tournament, many people contributed to these mappools, working be
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8434466" style="background-image: url('/wiki/shared/avatars/wwwww.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-tournament-committee" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
-CONNOR jfgdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Being an advisor for CWC taught me so many life lessons throughout my 3 year tenure. Due to the workload and management skills required, it made me aware of how I operate as a person as well as what I value. I think that alone made the job worth it to me, however there are parts of the job itself that kept me excited and motivated.
+
+Getting to work with [mangomizer](https://osu.ppy.sh/users/1035891) and [Yoshi_green](https://osu.ppy.sh/users/1035891) on [osu!originals]([osu! originals](/wiki/Community/Bespoke_music)) made me ecstatic. Spending time finding applicable artists that could potentially make an original for our mode is extremely exciting and something I take a lot of pride in. For me personally, [Ice](https://osu.ppy.sh/beatmaps/artists/484) was the artist that helped get me into rhythm games back in 2013. Getting to request him to make an original this year has got to be one of my favorite moments… ever! It really made me feel like everything came full circle.
+
+I’ve always viewed this role as one that allows people to have fun with a game I care so much about as they play in the biggest tournament catch has to offer. While being an advisor may be hard, my best piece of advice is to find aspects of the job you yourself enjoy and let that motivate you. It’s okay to be a little selfish sometimes if it allows you to do your best and I think thats something everyone needs to hear.
+
+Finally, id like to thank [F D Flourite](https://osu.ppy.sh/users/2459589) and [Yoshi_green](https://osu.ppy.sh/users/1035891). These two people believed in me as I did in them, and I wouldn’t have managed in this position without them. I truly loved getting to be an advisor for the last 3 years and hope the person that fills my spot loves it as much as I do.
 
 </div>
 
@@ -184,43 +190,6 @@ You can check out the previews for each one of them right below, and the maps by
     <audio controls>
         <source src="https://assets.ppy.sh/artists/218/Songs/Yooh_-_Eternity.mp3">
     </audio>
-</div>
-
----
-
-Throughout the tournament, many people contributed to these mappools, working behind the scenes most of the time. ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466), advisor and mappooler for the past three years, will be retiring from his position after this edition. We got to ask him for his insights on his now past experience working on the osu!catch World Cups.
-
-<style>
-    .news-chat-quote__avatar {
-        float: left;
-        width: 40px;
-        height: 40px;
-        border-radius: 50%;
-        margin-left: -50px;
-    }
-
-    .news-chat-quote__text-container {
-        margin-left: 50px;
-    }
-
-    .news-chat-quote__username {
-        font-weight: 600;
-        margin-bottom: 2px;
-    }
-
-    .news-chat-quote__colour-no-group {
-        color: #FFFFFF;
-    }
-</style>
-
-<div class="news-chat-quote__text-container">
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8434466" style="background-image: url('/wiki/shared/avatars/wwwww.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
-
-AWAITING CONNOR STATEMENT
-
 </div>
 
 ## Grand Finals results
