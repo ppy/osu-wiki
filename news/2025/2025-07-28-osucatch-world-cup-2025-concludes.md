@@ -16,7 +16,7 @@ Join us as we look back at this year's World Cup, through highlights and intervi
 
 ![Podium](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/podium.jpg)
 
-*I wake up, there is another coronation of glory...* Congratulations to ::{ flag=AR }:: Argentina who have been crowned our 2025 osu!catch champions for the first time in history! This is not only Argentina’s first osu!catch title, but also their first win across all gamemodes, a historic achievement for the country. The reigning champions, the ::{ flag=US }:: United States, were defeated 7–2 in Grand Finals, finishing as runners-up. And finally, ::{ flag=FI }:: Finland secured a spot on the podium in third place, also a first for the country.
+*I wake up, there is another coronation of glory...* Congratulations to Argentina who have been crowned our 2025 osu!catch champions for the first time in history! This is not only Argentina’s first osu!catch title, but also their first win across all game modes, a historic achievement for the country. The reigning champions, the United States, were defeated 7–2 in Grand Finals, finishing as runners-up. And finally, Finland secured a spot on the podium in third place, also a first for the country.
 
 Will this be the start of a new Argentinian dynasty in osu!catch World Cups? Only time will tell — but this victory may well mark a turning point in the tournament's history.
 
@@ -32,7 +32,7 @@ Will this be the start of a new Argentinian dynasty in osu!catch World Cups? Onl
 
 This Grand Finals mappool was without a doubt one of the most difficult we've seen in osu!catch history. With most maps demanding very high mechanical execution and in-depth coverage into each specialised skill, even the remaining teams were pushed to their limits. [-Rustyy](https://osu.ppy.sh/users/16355636)'s [Kyokugen BON Odori](https://osu.ppy.sh/beatmapsets/2402724#fruits/5210989) (NM2) is a prime example of this, requiring players to hit brutal 230 BPM wiggles alongside heavy tech patterns. As for stamina picks, [Nidoking](https://osu.ppy.sh/users/7034422)'s [Angel dust (2016 Radio Mix)](https://osu.ppy.sh/beatmapsets/2402805#fruits/5211177) (NM3) demanded constant wiggles at a high level of precision, coupled with a low approach rate, across two ruthless minutes of play.
 
-For other slots, players were greeted with some familiar faces. The classic [Daletto](https://osu.ppy.sh/users/7592136) Hard Rock stream map appeared in the form of [Pain Remains I: Dancing Like Flames](https://osu.ppy.sh/beatmapsets/2402732#fruits/5211006) (HR1), alongside the typically unorthodox [ExGon](https://osu.ppy.sh/users/214187) Double Time control pick with [MYS](https://osu.ppy.sh/beatmapsets/2402781#fruits/5211124) (DT4).osu!mania 7k World Cup 2022 Grand Finals' tiebreaker, [Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284#mania/3469849) was also featured as a convert pick in the pool, but as a [cut version](https://osu.ppy.sh/beatmapsets/2403136#fruits/5211965) (NM4). The result? A hellish stack gauntlet that overwhelmed every player. 
+For other slots, players were greeted with some familiar faces. The classic [Daletto](https://osu.ppy.sh/users/7592136) Hard Rock stream map appeared in the form of [Pain Remains I: Dancing Like Flames](https://osu.ppy.sh/beatmapsets/2402732#fruits/5211006) (HR1), alongside the typically unorthodox [ExGon](https://osu.ppy.sh/users/214187) Double Time control pick with [MYS](https://osu.ppy.sh/beatmapsets/2402781#fruits/5211124) (DT4).osu!mania 7k World Cup 2022 Grand Finals' tiebreaker, [Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284#mania/3469849) was also featured as a convert pick in the pool, but as a [cut version](https://osu.ppy.sh/beatmapsets/2403136#fruits/5211965) (NM4). The result? A hellish stack gauntlet that overwhelmed every player.
 
 ---
 
@@ -50,7 +50,7 @@ For other slots, players were greeted with some familiar faces. The classic [Dal
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/O_8FGiiad6U" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Here we are — the most anticipated part of every World Cup mappool reveal: the **Grand Finals tiebreaker**. And once again, it absolutely delivered. [Yooh](https://osu.ppy.sh/beatmaps/artists/218) was back with another World Cup tiebreaker, this time in the form of [Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146). Mapped through a massive collaborative effort by [Zyzyx](https://osu.ppy.sh/users/2888013), [autofanboy](https://osu.ppy.sh/users/636114), [Bunnrei](https://osu.ppy.sh/users/829284), [-Ken](https://osu.ppy.sh/users/4430811), and [wwwww](https://osu.ppy.sh/users/8434466), this beast of a project served as the perfect culmination of everything this tournament had been building toward. 
+Here we are — the most anticipated part of every World Cup mappool reveal: the **Grand Finals tiebreaker**. And once again, it absolutely delivered. [Yooh](https://osu.ppy.sh/beatmaps/artists/218) was back with another World Cup tiebreaker, this time in the form of [Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146). Mapped through a massive collaborative effort by [Zyzyx](https://osu.ppy.sh/users/2888013), [autofanboy](https://osu.ppy.sh/users/636114), [Bunnrei](https://osu.ppy.sh/users/829284), [-Ken](https://osu.ppy.sh/users/4430811), and [wwwww](https://osu.ppy.sh/users/8434466), this beast of a project served as the perfect culmination of everything this tournament had been building toward.
 
 Featuring several original character designs from illustrators [Kyuare](https://osu.ppy.sh/users/2705312), [HiROdoge](https://osu.ppy.sh/users/15251809), and [Xiaoraini](https://osu.ppy.sh/users/3607337), brought to life through the graphic design work of [AlexDunk](https://osu.ppy.sh/users/9194799), [Boolmaster Flex](https://osu.ppy.sh/users/5394681), and [hourius](https://osu.ppy.sh/users/12580298), all combined in the mind-blowing storyboard by [Kuroise](https://osu.ppy.sh/users/14547127), [Noffy](https://osu.ppy.sh/users/1541323), and [Coppertine](https://osu.ppy.sh/users/7279762) — this map hides a mountain of lore and secrets. There's more to experience than words can convey. We strongly urge you to go check it out for yourself!
 
@@ -133,7 +133,7 @@ You can check out the previews for each one of them right below, and the maps by
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/303/Songs/Vorso_-_Heliosphere.mp3">
+        <source src="https://assets.ppy.sh/artists/130/Songs/Symholic_feat._Rina_Komatsu_-_Veil_of_Ash.mp3">
     </audio>
 </div>
 
@@ -212,7 +212,7 @@ These were the results of this last weekend of osu!catch World Cup. Congratulati
 
 It was now time for the long-awaited Grand Finals. Argentina (#2) and the United States (#1), the two clear favourites, standing head and shoulders above the rest, would face off once again. One year ago, Argentina was the one coming out of the losers' bracket in the ultimate match, only to lose 7–4. This time, however, Argentina had sent the United States to the losers' bracket, defeating them in the winners' bracket final 7–4. After a decisive 7–0 victory over Finland, it was now time for the rematch — of both last year's grand final and this year's winners' final.
 
-In their previous match, most of the mappool didn't really favour one team over the other, with both teams contesting each other on most picks — it mainly came down to match performance. This time, however, with the continuous rise in mappool difficulty, and especially mechanical difficulty, it was unclear whether the United States could keep up with the Argentinian roster. All of their core players are well-known within the community for their prowess on fast and stamina-draining maps, which can't really be said about the American roster as a whole, whose strengths mainly lie in other skills. 
+In their previous match, most of the mappool didn't really favour one team over the other, with both teams contesting each other on most picks — it mainly came down to match performance. This time, however, with the continuous rise in mappool difficulty, and especially mechanical difficulty, it was unclear whether the United States could keep up with the Argentinian roster. All of their core players are well-known within the community for their prowess on fast and stamina-draining maps, which can't really be said about the American roster as a whole, whose strengths mainly lie in other skills.
 
 This would be shown right away with the explosive [NM1](https://osu.ppy.sh/beatmapsets/2402793#fruits/5211154) being banned by the United States, and the slower, more precision-focused [HR2](https://osu.ppy.sh/beatmapsets/2402748#fruits/5211044) being Argentina's ban. The first pick would be the same as the one from a week ago, [HD2](https://osu.ppy.sh/beatmapsets/2402733#fruits/5211007) for Argentina, comfortably won. The United States' first pick, [MM3](https://osu.ppy.sh/beatmapsets/2402856#fruits/5211272) would be closer, especially thanks to ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006) FCing the map for the second time in an hour, but Argentina still prevailed.
 
@@ -348,7 +348,7 @@ The moment I heard the song, I knew we were about to create banger designs. Many
 
 My strength really shines during the conceptual phase, where I excel at interpreting abstract instrumental tracks without lyrics, and then transforming them into cool visual ideas. Yooh granted a lot of creative freedom, so it was important for our design team to get a strong direction right from the start to keep everyone's ideas organized. I created multiple sketches based on our initial team discussion, and I'm glad those sketches were able to set a nice foundation for us to build on.
 
-Later during production, I further expanded the sketches into more visual references, helping everyone understand the intended mood and narrative direction while still leaving space for individual creativity. 
+Later during production, I further expanded the sketches into more visual references, helping everyone understand the intended mood and narrative direction while still leaving space for individual creativity.
 
 ![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign2.jpg)
 
@@ -360,7 +360,7 @@ This created a great synergy. Everyone felt empowered to contribute, which eleva
 
 I've always loved Yooh's works. My favorite World Cup tiebreaker is [RPG](https://osu.ppy.sh/beatmapsets/1633250#osu/3333745) after all. When I got a chance to participate in this project, I was beyond ecstatic. Yooh's design suggestions leaned towards angels, battle and salvation. Like Kyuare mentioned, Yooh gave us a lot of liberty in designing a character that fits the song. Although he didn't ask for the designs to be focused on storytelling, me and Kyuare wanted to create a story for the song. We envisioned a story about an immortal queen once respected for her wisdom, who falls into corruption and grief as her kingdom crumbles and she becomes a shadow of her former self. After Kyuare sketched out our main character Lucine, I started planning what the general narrative of each song section would be. With Noffy also collaborating on the storyboard, we were able to plan out most of the story during the first week of production.
 
-I also decided to have the lore encrypted throughout the video and storyboard to build a more mysterious feeling. That's why we created Lucine Crypt, a fully decodable font. 
+I also decided to have the lore encrypted throughout the video and storyboard to build a more mysterious feeling. That's why we created Lucine Crypt, a fully decodable font.
 
 ![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign3.jpg)
 
@@ -442,14 +442,14 @@ After this year's win, motivation seems to be at an all-time high in the Argenti
 
 I'm very happy with everyone who congratulated us, and I'm not just talking about Argentina when I say that we truly received a LOT of support. It's undoubtedly a great memory for us, and it means a lot, even though there's some support and also hate but we choose to focus on the effort it took to get here, day after day.
 
-None of this would have been achieved without the motivation we had as a team, as a family, as a friendship. We went through a lot but I would like to thank the friends i have as colleagues. My best friends are [Zeus](https://osu.ppy.sh/users/8329151), [Alex](https://osu.ppy.sh/users/17738253), [VelperK](https://osu.ppy.sh/users/348467), [Naarkz](https://osu.ppy.sh/users/19490380), [Gonza](https://osu.ppy.sh/users/17309439) and I want to say thanks for everything to them and for the supporters that were there every single match and day to pray for our win ❤️ 
+None of this would have been achieved without the motivation we had as a team, as a family, as a friendship. We went through a lot but I would like to thank the friends i have as colleagues. My best friends are [Zeus](https://osu.ppy.sh/users/8329151), [Alex](https://osu.ppy.sh/users/17738253), [VelperK](https://osu.ppy.sh/users/348467), [Naarkz](https://osu.ppy.sh/users/19490380), [Gonza](https://osu.ppy.sh/users/17309439) and I want to say thanks for everything to them and for the supporters that were there every single match and day to pray for our win ❤️
 
 Now... Regarding the Catch World Cup, I think it will depend on several factors that allow us to have or make time to play them, but we no longer have the pressure of being champions because we already are. Having fun and accepting that the game is a game is the key to understand that you don't have to take things too seriously and that no matter how much people judge you, whether you win or lose, it doesn't matter! You have to enjoy having teammates, moments where you fall and get up, situations where you don't feel like you're what you demonstrated in practice, and much more.
 
 Take the World Cup as a place to explore a more competitive and healthy environment where you can have fun and play with your friends.
 Don't overthink too much and enjoy what this is, just a game that we all love.
 
-See you next year, I'm hoping to play with all my friends again and again because they are the ones that motivate me to keep playing. 
+See you next year, I'm hoping to play with all my friends again and again because they are the ones that motivate me to keep playing.
 
 ---
 
