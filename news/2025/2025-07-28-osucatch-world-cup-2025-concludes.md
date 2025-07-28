@@ -56,6 +56,10 @@ Featuring several original character designs from illustrators [Kyuare](https://
 
 ---
 
+::{#wwwww}::
+
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/wwwww.png)
+
 Throughout the tournament, many people contributed to these mappools, working behind the scenes most of the time. ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466), advisor and mappooler for the past three years, will be retiring from his position after this edition. We had the chance to ask him for his thoughts and reflections on his time working on the osu!catch World Cups.
 
 <style>
@@ -306,6 +310,10 @@ All the details for these statistics can be found in each individual sheet in th
     }
 </style>
 
+::{#kyuare-and-kuroise}::
+
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/kyuare-and-kuroise.png)
+
 For this year's CWC Grand Finals tiebreaker, [Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146), both [Kyuare](https://osu.ppy.sh/users/2705312) and [Kuroise](https://osu.ppy.sh/users/14547127) made a return to World Cup designs. [Kyuare](https://osu.ppy.sh/users/2705312) worked on the character illustrations, continuing his work from previous years with [Evreka](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911) in CWC 2023 and [step by step](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684) in CWC 2024. [Kuroise](https://osu.ppy.sh/users/14547127) was responsible for the storyboard creation, following his previous role as storyboarder for [BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722) in [TWC 2025](/wiki/Tournaments/TWC/2025).
 
 <div class="news-chat-quote__text-container">
@@ -397,6 +405,10 @@ As mentioned before, Kyuare laid the groundwork with the early sketches, which m
 This project wasn't just a design effort. We also had [autofanboy](https://osu.ppy.sh/users/636114), [Bunnrei](https://osu.ppy.sh/users/829284), [-Ken](https://osu.ppy.sh/users/4430811), [wwwww](https://osu.ppy.sh/users/8434466), and [Zyzyx](https://osu.ppy.sh/users/2888013) working tirelessly on the map, with [fayew](https://osu.ppy.sh/users/12498861) doing hitsounding and [qwhj79](https://osu.ppy.sh/users/7547506) contributing to the replay. It truly felt like a team accomplishment across all staff members. Honestly, if even one person had been missing, I don't think this project would have been possible.
 
 </div>
+
+::{#-story-}::
+
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/-story-.png)
 
 ---
 
