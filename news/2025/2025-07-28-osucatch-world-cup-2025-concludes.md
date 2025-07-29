@@ -352,13 +352,15 @@ By now, many viewers have come to recognise that each [osu! original](/wiki/Comm
 
 The moment I heard the song, I knew we were about to create banger designs. Many ideas surged into my mind, and I had to start sketching them out right away to capture the initial creative momentum.
 
-![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign1.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign1.png)
 
 My strength really shines during the conceptual phase, where I excel at interpreting abstract instrumental tracks without lyrics, and then transforming them into cool visual ideas. Yooh granted a lot of creative freedom, so it was important for our design team to get a strong direction right from the start to keep everyone's ideas organized. I created multiple sketches based on our initial team discussion, and I'm glad those sketches were able to set a nice foundation for us to build on.
 
 Later during production, I further expanded the sketches into more visual references, helping everyone understand the intended mood and narrative direction while still leaving space for individual creativity.
 
-![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign2.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign2-1.png)
+
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign2-2.png)
 
 This created a great synergy. Everyone felt empowered to contribute, which elevated both the ambition and cohesion of the project. The result was a team-wide focus on storytelling, and a lore that felt genuinely alive.
 
@@ -370,7 +372,7 @@ I've always loved Yooh's works. My favorite World Cup tiebreaker is [RPG](https:
 
 I also decided to have the lore encrypted throughout the video and storyboard to build a more mysterious feeling. That's why we created Lucine Crypt, a fully decodable font.
 
-![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign3.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign3.png)
 
 I'm glad to see many people were able to piece together the story soon after the song is released. For those who haven't yet, I encourage you to take a closer look. The entire lore is hidden in the design, waiting to be discovered.
 
@@ -388,7 +390,7 @@ The most challenging part for me was definitely my role as the lead illustrator.
 
 We had [Hiro](https://osu.ppy.sh/users/15251809) and [Xiaoraini](https://osu.ppy.sh/users/3607337) collaborating on the illustrations. Both of them did phenomenal work. They quickly understood the vision, delivered high-quality work quickly, and brought their own flair to the project. Our character Lucine started with her "light form" in the first half of the song, so I figured Hiro's cute and vibrant drawing style would fit better. After Lucine made a "dark form" transformation in the second half of the song, Xiaoraini's dynamic texture drawing style were able to shine.
 
-![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign4.jpg)
+![](/wiki/shared/news/2025-07-28-osucatch-world-cup-2025-concludes/eternitydesign4.png)
 
 I filled the gaps between them, and I'm quite happy the final result is that harmonious despite having 3 illustrators with different drawing styles.
 
