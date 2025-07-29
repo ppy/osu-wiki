@@ -38,7 +38,7 @@ And now, it is time to announce the results of this year's edition of the Summer
 
 ---
 
-View full results, scores and maps on [the contest page](https://osu.ppy.sh/community/contests/251)
+View full results, scores and maps on [the contest page](https://osu.ppy.sh/community/contests/251)!
 
 This year's edition of Summer Mapping Contest would not be possible without our amazing judges and staff so we would like to thank them for participating as well:
 
