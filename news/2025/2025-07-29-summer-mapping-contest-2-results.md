@@ -12,7 +12,7 @@ Following our [announcement on 14 June](https://osu.ppy.sh/home/news/2025-06-14-
 
 And now, it is time to announce the results of this year's edition of the Summer Mapping Contest:
 
-### 1st place: [YUCe - Sunset Tea Cup](https://assets.ppy.sh/contests/251/entries/osz/YUCe%20-%20Sunset%20Tea%20Cup%20%28iBell%29.osz) (mapped by [iBell](https://osu.ppy.sh/users/4298072))
+### 1st place: [YUC'e - Sunset Tea Cup](https://assets.ppy.sh/contests/251/entries/osz/YUCe%20-%20Sunset%20Tea%20Cup%20%28iBell%29.osz) (mapped by [iBell](https://osu.ppy.sh/users/4298072))
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
