@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu!catch World Cup 2025 Concludes
-date: 2025-07-29 06:00:00 +0000
+date: 2025-07-29 12:30:00 +0000
 ---
 
 The osu!catch World Cup 2025 is officially over, concluding with the coronation of our brand-new champions.
