@@ -8,7 +8,7 @@ The second year of our Summer Mapping Contest has come to an end!
 
 ![](https://assets.ppy.sh/contests/251/banner.jpg)
 
-This year we received a lot of amazing submissions by various mappers with different ideas and styles which we were very glad to see!
+Following our [announcement on 14 June](https://osu.ppy.sh/home/news/2025-06-14-summer-mapping-contest-2), this year we received a lot of amazing submissions by various mappers with different ideas and styles which we were very glad to see!
 
 And now, it is time to announce the results of this year's edition of the Summer Mapping Contest:
 
