@@ -93,7 +93,7 @@ Throughout the tournament, many people contributed to these mappools, working be
 
 Being an advisor for CWC taught me so many life lessons throughout my 3 year tenure. Due to the workload and management skills required, it made me aware of how I operate as a person as well as what I value. I think that alone made the job worth it to me, however there are parts of the job itself that kept me excited and motivated.
 
-Getting to work with [mangomizer](https://osu.ppy.sh/users/1893718) and [Yoshi_green](https://osu.ppy.sh/users/1035891) on [osu!originals](/wiki/Community/Bespoke_music)) made me ecstatic. Spending time finding applicable artists that could potentially make an original for our mode is extremely exciting and something I take a lot of pride in. For me personally, [Ice](https://osu.ppy.sh/beatmaps/artists/484) was the artist that helped get me into rhythm games back in 2013. Getting to request him to make an original this year has got to be one of my favorite moments… ever! It really made me feel like everything came full circle.
+Getting to work with [mangomizer](https://osu.ppy.sh/users/1893718) and [Yoshi_green](https://osu.ppy.sh/users/1035891) on [osu!originals](/wiki/Community/Bespoke_music) made me ecstatic. Spending time finding applicable artists that could potentially make an original for our mode is extremely exciting and something I take a lot of pride in. For me personally, [Ice](https://osu.ppy.sh/beatmaps/artists/484) was the artist that helped get me into rhythm games back in 2013. Getting to request him to make an original this year has got to be one of my favorite moments… ever! It really made me feel like everything came full circle.
 
 I’ve always viewed this role as one that allows people to have fun with a game I care so much about as they play in the biggest tournament catch has to offer. While being an advisor may be hard, my best piece of advice is to find aspects of the job you yourself enjoy and let that motivate you. It’s okay to be a little selfish sometimes if it allows you to do your best and I think thats something everyone needs to hear.
 
@@ -465,9 +465,11 @@ Don't overthink too much and enjoy what this is, just a game that we all love.
 
 See you next year, I'm hoping to play with all my friends again and again because they are the ones that motivate me to keep playing.
 
+</div>
+
 ---
 
-A grand total of **128** individual contributors and staff members made this osu!catch World Cup possible, for a total of **251** players who participated. It has been to date the largest amount of contributors and players ever in the tournament's history, which is a great accomplishment for our beloved gamemode. osu!catch still has a great future ahead of it, and we hope you all will be a part of it.
+A grand total of **128** individual contributors and staff members made this osu!catch World Cup possible, for a total of **251** players who participated. It has been to date the largest amount of contributors and players ever in the tournament's history, which is a great accomplishment for our beloved game mode. osu!catch still has a great future ahead of it, and we hope you all will be a part of it.
 
 ![](/wiki/shared/news/2025-07-29-osucatch-world-cup-2025-concludes/cwc2025-credits.png)
 
