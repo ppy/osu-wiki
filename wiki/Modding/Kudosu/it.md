@@ -12,4 +12,4 @@ In [modding tramite il forum](/wiki/Modding/Forum_modding), i kudosu erano scamb
 
 Al giorno d'oggi, il kudosu è usato per valutare la capacità di un utente di [diventare](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) un [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Un utente deve avere 200 kudosu in osu! o 150 kudosu in osu!taiko, osu!catch o osu!mania per potersi candidare.
 
-La parola *kudosu*, talvolta stilizzata come *kudosu!*, è un [portmanteau](https://en.wikipedia.org/wiki/Portmanteau) di *kudos* e *osu!*.
+La parola *kudosu*, talvolta stilizzata come *kudosu!*, è un [portmanteau](https://it.wikipedia.org/wiki/Portmanteau) di *kudos* e *osu!*.
