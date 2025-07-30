@@ -38,7 +38,7 @@ Per cambiare modalità, clicca il pulsante `Mode` in fondo alla pagina di selezi
 
 *Pagina Principale: [osu!catch](osu!catch)*
 
-*osu!catch* è una modalità di gioco in cui i giocatori controllano un personaggio per raccogliere la frutta che cade dall'alto a ritmo di musica. È vagamente basata sul minigame "Catch It!!" nelle prime build di [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], un simulatore di [Beatmania](https://en.wikipedia.org/wiki/Beatmania) per PC, il quale a sua volta è derivato dalla modalità *EZ2CATCH* del sistema arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). La mascotte di osu!catch è [Yuzu](/wiki/Mascots#yuzu), un ragazzo con capelli blu.
+*osu!catch* è una modalità di gioco in cui i giocatori controllano un personaggio per raccogliere la frutta che cade dall'alto, a ritmo di musica. È vagamente basata sul minigame "Catch It!!" nelle prime build di [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], un simulatore di [Beatmania](https://en.wikipedia.org/wiki/Beatmania) per PC, il quale a sua volta è derivato dalla modalità *EZ2CATCH* del sistema arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). La mascotte di osu!catch è [Yuzu](/wiki/Mascots#yuzu), un ragazzo con capelli blu.
 
 ![Gameplay di osu!catch](/wiki/shared/catch-gameplay.jpg "Gameplay di osu!catch")
 
