@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 layout: main_page
 ---
 
