@@ -70,7 +70,7 @@ Before you get lost though, be sure to visit the [voting website](https://locus.
 | Picardia | [Asphyxia](https://osu.ppy.sh/beatmapsets/2412274) |
 | The Abyss | [Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) |
 | "we couldn't agree on naming" | [Become One Again](https://osu.ppy.sh/beatmapsets/2412365) |
-| Meguro | [Datura//Shva](https://osu.ppy.sh/beatmapsets/2412263) |
+| Meguro | [Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) |
 | osu2vn | [Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) |
 | Angevin Eulogy | [it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237) |
 | Sylenth2 v7.2769420 "Unlimited Synth Works" | [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) |
