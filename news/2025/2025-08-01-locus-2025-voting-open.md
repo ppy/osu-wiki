@@ -12,7 +12,7 @@ In case you missed the previous news posts ([#1](https://osu.ppy.sh/home/news/20
 
 During the entry phase of January 31 to June 30, participants formed teams to create an *original beatmap experience* from scratch, in order to be judged on song quality, map quality and visual presentation.
 
-The ones to deliver that judgement will be anyone who receives this message, and you have until **August 15** to contribute with your vote! If you're interested, read on! If you first need a sample for what the entries have to offer, read no more (but then please continue reading afterwards):
+The ones to deliver that judgement will be anyone who receives this message, and you have until **Saturday, August 16 (12:00 UTC)** to contribute with your vote! If you're interested, read on! If you first need a sample for what the entries have to offer, read no more (but then please continue reading afterwards):
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -23,6 +23,12 @@ The ones to deliver that judgement will be anyone who receives this message, and
 ### How to vote
 
 Simply head to the [**Locus voting website**](https://locus.yui.tv/vote) created specifically for this contest and log in with your osu! account. You will be assigned **5 random entries** to rank across 3 categories: *music*, *visuals* and *mapping*.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-08-01-locus-voting-demo.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 This means you don't need to look at all 42 entries in order to vote (but feel free to [check them all out](#entries) anyway!).
 
@@ -107,6 +113,6 @@ In addition, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), osu!'s lead de
 
 Thank you to all participants for pouring your hearts into your creations, and for being patient with us as we organise the first iteration of this contest.
 
-The results will be premiered on the [osulive Twitch channel](https://twitch.tv/osulive) on August 16 or 17. See you there!
+The results will be premiered on the [osulive Twitch channel](https://twitch.tv/osulive) on August 17. See you there!
 
 —the Locus Team
