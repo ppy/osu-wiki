@@ -64,7 +64,7 @@ Before you get lost though, be sure to visit the [voting website](https://locus.
 | moonleaf++++ EXTEND | [Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) |
 | hdm enjoyers | [unbound](https://osu.ppy.sh/beatmapsets/2412346) |
 | Miku Fan Club | [Prism Fall](https://osu.ppy.sh/beatmapsets/2412267) |
-| metamorphosis | [kinetic flux](2412316) |
+| metamorphosis | [kinetic flux](https://osu.ppy.sh/beatmapsets/2412316) |
 | Hexagram | [Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) |
 | we do well with deadlines | [Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) |
 | Picardia | [Asphyxia](https://osu.ppy.sh/beatmapsets/2412274) |
