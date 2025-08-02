@@ -70,7 +70,7 @@ La classificazione è il processo con cui una beatmap ottiene una classifica, di
 
 # Regole e norme
 
-Leggi le procedure e regole che tengono osu! e la sua comunità al sicuro: dal licenziamento musicale e linee guida sui media, alle regole della chat e dei forum.
+Leggi le procedure e regole che tengono osu! e la sua comunità al sicuro: dalle licenze musicali e linee guida sui media, alle regole della chat e dei forum.
 
 [Regole](/wiki/Rules) • [Codice di condotta dei collaboratori](/wiki/Rules/Contributor_code_of_conduct) • [Codice di condotta per il modding e il mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
@@ -133,7 +133,7 @@ Interagisci con osu! tramite altre applicazioni e media, o aiutalo a crescere ul
 
 # Wiki e meta pagine
 
-Come quasi tutto il resto su osu!, anche la wiki è scritta e mantenuta da volontari. Suggerisci un miglioramento, segnala un problema, o scrivi un tuo articolo sulla [repository GitHub dell'osu!wiki](https://github.com/ppy/osu-wiki).
+Come quasi tutto il resto su osu!, anche la wiki è scritta e mantenuta da volontari. Suggerisci un miglioramento, segnala un problema, o scrivi un tuo articolo sulla [repository GitHub della osu!wiki](https://github.com/ppy/osu-wiki).
 
 [Storia di osu!](/wiki/History_of_osu!) • [Storia delle Classifiche Online](/wiki/History_of_osu!/Online_rankings) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
 

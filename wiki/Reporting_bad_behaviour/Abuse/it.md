@@ -8,13 +8,13 @@ Se sei così a disagio da dover leggere questa pagina, per favore contattaci imm
 
 Abbiamo tolleranza zero verso qualsiasi tipo di attenzione sessuale o avance indesiderata in questa community.
 
-L’indirizzo email per gli abusi è visibile solo da [peppy](https://osu.ppy.sh/users/2) (il creatore del gioco).
+L'indirizzo email per gli abusi è visibile solo da [peppy](https://osu.ppy.sh/users/2) (il creatore del gioco).
 
 Nulla di ciò che invii a [abuse@ppy.sh](mailto:abuse@ppy.sh) sarà mai condiviso con terzi.
 
 ## Qualcuno ha fatto avance sessuali o osservazioni inappropriate su di me!
 
-Scorri alle sezioni qui sotto per scoprire cosa fare, a seconda di dove è accaduto tutto.
+Scorri tra le sezioni qui sotto per scoprire cosa fare, a seconda di dove è accaduto tutto.
 
 ### Nella chat di gioco
 
@@ -30,9 +30,9 @@ Se ritieni che le osservazioni o le avance fossero altamente inappropriate o sei
 
 [Segnala il post](/wiki/Reporting_bad_behaviour#forum) al nostro [Team di Moderazione Globale](/wiki/People/Global_Moderation_Team) il prima possibile.
 
-Per fare ciò, clicca sul pulsante `Segnala post` nell'angolo in alto a destra del post del forum.
+Per farlo, clicca sul pulsante `Segnala post` nell'angolo in alto a destra del post del forum.
 
-In alternativa, clicca sul nome utente di un qualsiasi membro del GMT nella lista su quella pagina. Questo ti porterà al suo profilo. Se non sei sicuro di chi contattare, usa [invece questo link](https://osu.ppy.sh/users/5999631).
+In alternativa, clicca sul nome utente di un qualsiasi membro del GMT nella lista su quella pagina. Questo ti porterà al suo profilo. Se non sei sicuro di chi contattare, usa [questo link](https://osu.ppy.sh/users/5999631).
 
 Clicca il pulsante con una busta appena sotto la bandiera del paese dell'utente. Questo ti porterà alla schermata della chat.
 
@@ -42,7 +42,7 @@ Se il post non viene rimosso entro un periodo di tempo ragionevole, per favore, 
 
 ### Su un server Discord pubblico relativo a osu!
 
-Blocca immediatamente l'utente cliccando col tasto destro sul suo nome utente e selezionando `Blocca` dal menu a tendina che appare.
+Blocca immediatamente l'utente cliccando col tasto destro sul suo nome utente e selezionando `Blocca` dal menu contestuale.
 
 Successivamente, contatta subito gli amministratori del server cercando qualcuno in cima alla lista utenti e informandolo di quanto accaduto. Se non riesci a capire chi è un amministratore, cerca qualcuno con una corona accanto al nome — è il proprietario del server ed è responsabile di ciò che vi accade.
 

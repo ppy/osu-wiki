@@ -55,7 +55,7 @@ Per ora tutti i pacchetti di beatmap sono conservati ufficialmente su `packs.ppy
 
 ### Torrents
 
-I Torrent sono un modo eccellente di scaricare i pacchetti di mappe in un unico blocco, invece che uno per uno manualmente. Per farlo usa gli strumenti di torrenting per scaricarli da uno dei siti indicati di seguito:
+I Torrent sono un modo eccellente per scaricare i pacchetti di mappe in un unico blocco, invece che uno per uno manualmente. Per farlo, si possono usare gli strumenti di torrenting per scaricarli da uno dei siti indicati di seguito:
 
 - [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
   - [File Torrent Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) di ::{ flag=RU }:: [glukki](https://osu.ppy.sh/users/14285150)
