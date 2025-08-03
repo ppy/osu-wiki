@@ -32,7 +32,9 @@ Simply head to the [**Locus voting website**](https://locus.yui.tv/vote) created
 
 This means you don't need to look at all 42 entries in order to vote (but feel free to [check them all out](#entries) anyway!).
 
-Before voting, you'll need to **select a difficulty level to vote for** between Easy, Normal, Hard, Insane and Expert. Then, you'll need to **pass the 5 maps assigned to you** at the difficulty level you selected, without any difficulty-reducing mods. Note that since mapping quality tends to take more creative form at higher difficulties, votes for the higher difficulties will be weighted more in the mapping category.
+Before voting, you'll need to **select a difficulty level to vote for** between Easy, Normal, Hard, Insane and Expert. Then, you'll need to **pass the 5 maps assigned to you** at the difficulty level you selected, without any difficulty-reducing mods (specifically, you may not use anything outside HR, SD, PF, DT, NC, HD, FL, BL, ST, AC, CL, MR, AL and SG, but, you may pick a difficulty-reducing mod for one map).
+
+Note that since mapping quality tends to take more creative form at higher difficulties, votes for the higher difficulties will be weighted more in the mapping category.
 
 For people who prefer to play the maps without distractions and experience the music and visuals separately, there is a video preview of each map on the voting page. For everyone else, please **enable storyboards and videos** for the full experience!
 
