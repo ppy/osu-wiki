@@ -46,7 +46,7 @@ Tutto riguardo al cliccare cerchi, colpire tamburi, raccogliere frutta, e suonar
 
 # [Editor di beatmap](/wiki/Client/Beatmap_editor)
 
-Tutte le beatmap di osu! sono create dalla fervida immaginazione della sua comunità dinamica. Hai sempre voluto condividere la tua musica preferita con altri, ma non hai mai saputo come? Familiarizza con l'editor integrato e le opportunità che ha da offrire.
+Tutte le beatmap di osu! sono create dalla fervida immaginazione della sua comunità dinamica. Hai sempre voluto condividere la tua musica preferita con altri, ma non hai mai saputo come? Esplora l'editor integrato e le opportunità che ha da offrire.
 
 Sezioni: [Componi](/wiki/Client/Beatmap_editor/Compose) • [Progetta](/wiki/Client/Beatmap_editor/Design) • [Tempo](/wiki/Client/Beatmap_editor/Timing) • [Setup brano](/wiki/Client/Beatmap_editor/Song_setup)
 
