@@ -19,12 +19,12 @@ Submissions to this contest include the following elements:
 | Teaser #2 submission | 1 May 2025 |
 | Trial voting end | 16 May 2025 |
 | Entry submission deadline | 30 June 2025 (12:00) |
-| Community voting period | July 2025 |
-| Results stream | Early August 2025 |
+| Community voting period | 1 August to 16 August 2025 (12:00) |
+| Results stream | 17 August 2025 |
 
 ## Prizes
 
-The top entries of the contest will earn equal prizes. The number of "top entries" will be influenced by the number of submissions in the contest.
+The top 5 entries of the contest will earn equal prizes. This number was decided based on the number of entries (42).
 
 - The beatmap will be bundled as part of the default osu! installation as "recommended beatmaps" for at least 1 year.
 - Team members will receive a unique profile badge themed around their entry.
