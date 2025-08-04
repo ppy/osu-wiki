@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: DraGonis"
-date: 2025-08-04 11:00:00 +0000
+date: 2025-08-04 12:30:00 +0000
 ---
 
 Whether you're at home or at a certain osu! event, you'll appreciate the sound of **DraGonis**, our newest Featured Artist!
@@ -30,10 +30,10 @@ Try out [this relaxing spread](https://osu.ppy.sh/beatmapsets/2361261) hosted by
     <source src="https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Stargazing%20in%20Liyue.mp3">
 </audio>
 
-### [DraGonis x Ghost Voices - Aurora](https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Stargazing%20in%20Liyue.osz)
+### [DraGonis x Ghost Voices - Aurora](https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Aurora.osz)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Stargazing%20in%20Liyue.mp3">
+    <source src="https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Aurora.mp3">
 </audio>
 
 ### [INDX8 x DraGonis - Puppet](https://assets.ppy.sh/artists/488/Songs/INDX8%20x%20DraGonis%20-%20Puppet.osz)
