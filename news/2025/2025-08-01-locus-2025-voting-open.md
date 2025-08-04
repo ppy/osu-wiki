@@ -32,7 +32,9 @@ Simply head to the [**Locus voting website**](https://locus.yui.tv/vote) created
 
 This means you don't need to look at all 42 entries in order to vote (but feel free to [check them all out](#entries) anyway!).
 
-Before voting, you'll need to **select a difficulty level to vote for** between Easy, Normal, Hard, Insane and Expert. Then, you'll need to **pass the 5 maps assigned to you** at the difficulty level you selected, without any difficulty-reducing mods. Note that since mapping quality tends to take more creative form at higher difficulties, votes for the higher difficulties will be weighted more in the mapping category.
+Before voting, you'll need to **select a difficulty level to vote for** between Easy, Normal, Hard, Insane and Expert. Then, you'll need to **pass the 5 maps assigned to you** at the difficulty level you selected, without any difficulty-reducing mods (specifically, you may not use anything outside HR, SD, PF, DT, NC, HD, FL, BL, ST, AC, CL, MR, AL and SG, but, you may pick a difficulty-reducing mod for one map).
+
+Note that since mapping quality tends to take more creative form at higher difficulties, votes for the higher difficulties will be weighted more in the mapping category.
 
 For people who prefer to play the maps without distractions and experience the music and visuals separately, there is a video preview of each map on the voting page. For everyone else, please **enable storyboards and videos** for the full experience!
 
@@ -56,48 +58,48 @@ Before you get lost though, be sure to visit the [voting website](https://locus.
 
 | Team | Entry |
 | :-- | :-- |
-| Taiko World Cup | [Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) |
-| Meteors | [Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691) |
-| Demiurge Zero | [Eynohr](https://osu.ppy.sh/beatmapsets/2412250) |
-| Team RGB | [Brainfryer](https://osu.ppy.sh/beatmapsets/2412287) |
-| Gumiho | [Paint The Ocean Blue](https://osu.ppy.sh/beatmapsets/2412259) |
-| moonleaf++++ EXTEND | [Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) |
-| hdm enjoyers | [unbound](https://osu.ppy.sh/beatmapsets/2412346) |
-| Miku Fan Club | [Prism Fall](https://osu.ppy.sh/beatmapsets/2412267) |
-| metamorphosis | [kinetic flux](https://osu.ppy.sh/beatmapsets/2412316) |
-| Hexagram | [Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) |
-| we do well with deadlines | [Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) |
-| Picardia | [Asphyxia](https://osu.ppy.sh/beatmapsets/2412274) |
-| The Abyss | [Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) |
 | "we couldn't agree on naming" | [Become One Again](https://osu.ppy.sh/beatmapsets/2412365) |
-| Meguro | [Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) |
-| osu2vn | [Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) |
+| :owoyay: | [against cacophony](https://osu.ppy.sh/beatmapsets/2412236) |
+| 1head | [Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231) |
+| 5Head | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) |
+| 5pc chicken mcnuggets | [Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) |
 | Angevin Eulogy | [it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237) |
-| Sylenth2 v7.2769420 "Unlimited Synth Works" | [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) |
+| aniteam | [NatsuUtsu](https://osu.ppy.sh/beatmapsets/2412239) |
+| Augment:Nova | [ENC0DEDENTR0PY](https://osu.ppy.sh/beatmapsets/2412246) |
+| AXIOMA | [Rift Walker](https://osu.ppy.sh/beatmapsets/2412244) |
+| church of ppy | [LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) |
+| CN2K | [distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247) |
 | Crychic ghost | [Inochi](https://osu.ppy.sh/beatmapsets/2412248) |
-| we need a poll | [Dahlia](https://osu.ppy.sh/beatmapsets/2412294) |
-| Vocaloid Lovers | [Locus Amoenus](https://osu.ppy.sh/beatmapsets/2412292) |
+| Demiurge Zero | [Eynohr](https://osu.ppy.sh/beatmapsets/2412250) |
+| Drumstep4 - LYRICS! | [Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) |
+| Fetchquest | [Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252) |
+| fruit salad | [H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255) |
+| Gumiho | [Paint The Ocean Blue](https://osu.ppy.sh/beatmapsets/2412259) |
+| hdm enjoyers | [unbound](https://osu.ppy.sh/beatmapsets/2412346) |
+| Hexagram | [Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) |
 | Lazy Seals | [The Epiphany](https://osu.ppy.sh/beatmapsets/2412261) |
 | Limerence | [Be with you](https://osu.ppy.sh/beatmapsets/2412323) |
-| Drumstep4 - LYRICS! | [Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) |
-| :owoyay: | [against cacophony](https://osu.ppy.sh/beatmapsets/2412236) |
-| fruit salad | [H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255) |
-| church of ppy | [LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) |
-| 5pc chicken mcnuggets | [Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) |
+| Meguro | [Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) |
+| metamorphosis | [kinetic flux](https://osu.ppy.sh/beatmapsets/2412316) |
+| Meteors | [Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691) |
+| Miku Fan Club | [Prism Fall](https://osu.ppy.sh/beatmapsets/2412267) |
+| moonleaf++++ EXTEND | [Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) |
+| Ocskai | [Almom](https://osu.ppy.sh/beatmapsets/2412270) |
+| osu2vn | [Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) |
+| Picardia | [Asphyxia](https://osu.ppy.sh/beatmapsets/2412274) |
+| s-sigma... | [Vitality Charger](https://osu.ppy.sh/beatmapsets/2412277) |
+| Shiny morning | [Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) |
+| Sylenth2 v7.2769420 "Unlimited Synth Works" | [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) |
+| Taiko World Cup | [Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) |
 | Team Divergence | [Replay](https://osu.ppy.sh/beatmapsets/2412321) |
 | Team Red but Blue | [First Adventure](https://osu.ppy.sh/beatmapsets/2412285) |
-| Augment:Nova | [ENC0DEDENTR0PY](https://osu.ppy.sh/beatmapsets/2412246) |
-| 1head | [Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231) |
-| Ocskai | [Almom](https://osu.ppy.sh/beatmapsets/2412270) |
-| AXIOMA | [Rift Walker](https://osu.ppy.sh/beatmapsets/2412244) |
-| Vespera | [Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328) |
-| CN2K | [distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247) |
-| 5Head | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) |
+| Team RGB | [Brainfryer](https://osu.ppy.sh/beatmapsets/2412287) |
+| The Abyss | [Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) |
 | The Microwaves | [untitled_1](https://osu.ppy.sh/beatmapsets/2412290) |
-| aniteam | [NatsuUtsu](https://osu.ppy.sh/beatmapsets/2412239) |
-| s-sigma... | [Vitality Charger](https://osu.ppy.sh/beatmapsets/2412277) |
-| Fetchquest | [Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252) |
-| Shiny morning | [Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) |
+| Vespera | [Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328) |
+| Vocaloid Lovers | [Locus Amoenus](https://osu.ppy.sh/beatmapsets/2412292) |
+| we do well with deadlines | [Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) |
+| we need a poll | [Dahlia](https://osu.ppy.sh/beatmapsets/2412294) |
 
 ### Prizes
 
