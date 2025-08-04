@@ -12,7 +12,7 @@ A sprinke of dubstep, a dab of anime, and an ever-growing stack of composition s
 
 [**DraGonis**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/488) has pre-timed beatmap templates for **7** tracks!
 
-Use your ears to experience the previews below, along with your sight, touch, and whatever other senses you might need to enjoy the [Mappers' Guild](https://osu.ppy.sh/wiki/Community/Mappers_Guild) showcase map below!
+Use your ears to experience the previews below, along with your sight, touch, and whatever other senses you might need to enjoy the [Mappers' Guild](/wiki/Community/Mappers_Guild) showcase map below!
 
 ### [DraGonis x Ghost Voices - Stargazing in Liyue](https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Stargazing%20in%20Liyue.osz)
 
