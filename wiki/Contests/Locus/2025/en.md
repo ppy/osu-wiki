@@ -19,12 +19,12 @@ Submissions to this contest include the following elements:
 | Teaser #2 submission | 1 May 2025 |
 | Trial voting end | 16 May 2025 |
 | Entry submission deadline | 30 June 2025 (12:00) |
-| Community voting period | July 2025 |
-| Results stream | Early August 2025 |
+| Community voting period | 1 August to 16 August 2025 (12:00) |
+| Results stream | 17 August 2025 |
 
 ## Prizes
 
-The top entries of the contest will earn equal prizes. The number of "top entries" will be influenced by the number of submissions in the contest.
+The top 5 entries of the contest will earn equal prizes. This number was decided based on the number of entries (42).
 
 - The beatmap will be bundled as part of the default osu! installation as "recommended beatmaps" for at least 1 year.
 - Team members will receive a unique profile badge themed around their entry.
@@ -47,16 +47,59 @@ Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) 
 
 ## Links
 
-- [Registration form](https://form-auth.ppy.sh/form/2025-locus-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/238)
 - [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
 - [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
 - [Contest update #2](https://osu.ppy.sh/home/news/2025-06-03-locus-2025-update-2)
-- [Nexus](https://mappersguild.com/locus)
+- [Voting announcement](https://osu.ppy.sh/home/news/2025-08-01-locus-2025-voting-open)
+- [Voting announcement VOD at COE](https://www.twitch.tv/videos/2528089150?t=02h32m33s)
 
-## Teams
+## Entries
 
-*To be announced.*
+| Team | Entry |
+| :-- | :-- |
+| "we couldn't agree on naming" | [Become One Again](https://osu.ppy.sh/beatmapsets/2412365) |
+| :owoyay: | [against cacophony](https://osu.ppy.sh/beatmapsets/2412236) |
+| 1head | [Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231) |
+| 5Head | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) |
+| 5pc chicken mcnuggets | [Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) |
+| Angevin Eulogy | [it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237) |
+| aniteam | [NatsuUtsu](https://osu.ppy.sh/beatmapsets/2412239) |
+| Augment:Nova | [ENC0DEDENTR0PY](https://osu.ppy.sh/beatmapsets/2412246) |
+| AXIOMA | [Rift Walker](https://osu.ppy.sh/beatmapsets/2412244) |
+| church of ppy | [LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) |
+| CN2K | [distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247) |
+| Crychic ghost | [Inochi](https://osu.ppy.sh/beatmapsets/2412248) |
+| Demiurge Zero | [Eynohr](https://osu.ppy.sh/beatmapsets/2412250) |
+| Drumstep4 - LYRICS! | [Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) |
+| Fetchquest | [Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252) |
+| fruit salad | [H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255) |
+| Gumiho | [Paint The Ocean Blue](https://osu.ppy.sh/beatmapsets/2412259) |
+| hdm enjoyers | [unbound](https://osu.ppy.sh/beatmapsets/2412346) |
+| Hexagram | [Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) |
+| Lazy Seals | [The Epiphany](https://osu.ppy.sh/beatmapsets/2412261) |
+| Limerence | [Be with you](https://osu.ppy.sh/beatmapsets/2412323) |
+| Meguro | [Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) |
+| metamorphosis | [kinetic flux](https://osu.ppy.sh/beatmapsets/2412316) |
+| Meteors | [Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691) |
+| Miku Fan Club | [Prism Fall](https://osu.ppy.sh/beatmapsets/2412267) |
+| moonleaf++++ EXTEND | [Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) |
+| Ocskai | [Almom](https://osu.ppy.sh/beatmapsets/2412270) |
+| osu2vn | [Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) |
+| Picardia | [Asphyxia](https://osu.ppy.sh/beatmapsets/2412274) |
+| s-sigma... | [Vitality Charger](https://osu.ppy.sh/beatmapsets/2412277) |
+| Shiny morning | [Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) |
+| Sylenth2 v7.2769420 "Unlimited Synth Works" | [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) |
+| Taiko World Cup | [Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) |
+| Team Divergence | [Replay](https://osu.ppy.sh/beatmapsets/2412321) |
+| Team Red but Blue | [First Adventure](https://osu.ppy.sh/beatmapsets/2412285) |
+| Team RGB | [Brainfryer](https://osu.ppy.sh/beatmapsets/2412287) |
+| The Abyss | [Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) |
+| The Microwaves | [untitled_1](https://osu.ppy.sh/beatmapsets/2412290) |
+| Vespera | [Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328) |
+| Vocaloid Lovers | [Locus Amoenus](https://osu.ppy.sh/beatmapsets/2412292) |
+| we do well with deadlines | [Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) |
+| we need a poll | [Dahlia](https://osu.ppy.sh/beatmapsets/2412294) |
 
 ## Results
 
