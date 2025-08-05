@@ -86,10 +86,10 @@ osu!mapping появился как ответ на [пост на Реддит�
 44. [honest feedback](https://www.youtube.com/watch?v=5xC2oY1Fb70) / честные отзывы
 45. [green lines](https://www.youtube.com/watch?v=J4OKPHZzJ1k) / зелёные полоски
 46. [collabs](https://www.youtube.com/watch?v=Ly0u6n2qrOE) / коллабы
-47. [new mapper decisions](https://www.youtube.com/watch?v=7WSjFFyzGAk) / выбор новых мапперов
+47. [new mapper decisions](https://www.youtube.com/watch?v=7WSjFFyzGAk) / решения новых мапперов
 48. [reputation](https://www.youtube.com/watch?v=y3kkmH8UQRI) / репутация
 49. [hp drain](https://www.youtube.com/watch?v=1h9fJ31WOMc) / расход hp
-50. ["wub" maps](https://www.youtube.com/watch?v=eoX3-2HYIsA) / ваб-ваб-карты
+50. ["wub" maps](https://www.youtube.com/watch?v=eoX3-2HYIsA) / вуб-вуб-карты
 51. [disqualification](https://www.youtube.com/watch?v=3PmlbKa5VjA) / дисквалификация
 52. [workflow](https://www.youtube.com/watch?v=l_0BC5kmXeI) / как я мапаю
 53. [one year](https://www.youtube.com/watch?v=c0bPx5L1vO0) / один год
@@ -101,7 +101,7 @@ osu!mapping появился как ответ на [пост на Реддит�
 59. [alien](https://www.youtube.com/watch?v=Lj0SSyjtI6A)
 60. [nostalgia](https://www.youtube.com/watch?v=hjcoIQhX_KI) / ностальгия
 61. [low difficulties](https://www.youtube.com/watch?v=LEBlmgfQfC0) / простые сложности
-62. [copying other mappers](https://www.youtube.com/watch?v=YjocANVGp2I) / плагиат мапперов
+62. [copying other mappers](https://www.youtube.com/watch?v=YjocANVGp2I) / копирование стиля мапперов
 63. [difficulty inflation](https://www.youtube.com/watch?v=Gewm_IQm3Bk) / искусственная сложность
 64. [limitation maps](https://www.youtube.com/watch?v=9ayIcyqWhqI) / карты с ограничениями
 65. ["loved" -- a year later](https://www.youtube.com/watch?v=xMcW8VjkXvQ) / «loved» год спустя
@@ -126,7 +126,7 @@ osu!mapping появился как ответ на [пост на Реддит�
 84. [a commentary](https://www.youtube.com/watch?v=sMXVCdQyp7w) / мнение
 85. [slider velocity](https://www.youtube.com/watch?v=s9oDCdOaIIc) / скорость слайдеров
 86. [2b](https://www.youtube.com/watch?v=8teIBNQfr7Q)
-87. [first ranked map](https://www.youtube.com/watch?v=El0PXv2em8A) / твоя первая карта
+87. [first ranked map](https://www.youtube.com/watch?v=El0PXv2em8A) / первая ранкнутая карта
 88. [metadata](https://www.youtube.com/watch?v=qjNPoTOyNL4) / метаданные
 89. [skins](https://www.youtube.com/watch?v=y3s241f32iU) / скины
 90. [modding discussions](https://www.youtube.com/watch?v=0dwvDlU9SWQ) / страница моддинга карты
@@ -139,7 +139,7 @@ osu!mapping появился как ответ на [пост на Реддит�
 97. [mappers](https://www.youtube.com/watch?v=TigwDc5iOcw) / мапперы
 98. [drum n bass](https://www.youtube.com/watch?v=Y9KnfQnssxc)
 99. [circle/slider only](https://www.youtube.com/watch?v=xbRKUFLdcSM) / только ноты/слайдеры
-100. [playfield usage](https://www.youtube.com/watch?v=CVRULow2tJo) / работа с пространством
+100. [playfield usage](https://www.youtube.com/watch?v=CVRULow2tJo) / работа с игровым полем
 101. [new mappers](https://www.youtube.com/watch?v=UjHVyBJudgg) / новички в маппинге
 102. [accelerating bpm](https://www.youtube.com/watch?v=BrO3GPy9mcY) / ускоряющийся темп
 103. [bn promotion](https://www.youtube.com/watch?v=mxtAIr0RQQs) / повышение номинаторов
