@@ -96,9 +96,9 @@ Poin kontes telah digunakan pada berbagai kontes berikut:
 | :-- | :-- | :-- |
 | ::{ flag=JP }:: [**uone**](https://osu.ppy.sh/users/5321719) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [TMWC](/wiki/Contests/TMWC) (2), [VMC2](/wiki/Contests/VMC/2) (1) |
 | ::{ flag=JP }:: [**-Kazuha**](https://osu.ppy.sh/users/29978316) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [TMWC](/wiki/Contests/TMWC) (2) |
+| ::{ flag=SG }:: [**_gt**](https://osu.ppy.sh/users/8301957) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [o!tFAC](/wiki/Contests/o!tFAC) (2) |
 | ::{ flag=TH }:: [**Ph0eNiiXZ**](https://osu.ppy.sh/users/9463721) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (3), [o!tFAC](/wiki/Contests/o!tFAC) (3) |
 | ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [o!tFAC](/wiki/Contests/o!tFAC) (3) |
-| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (3), [o!tFAC](/wiki/Contests/o!tFAC) (2) |
 | ::{ flag=JP }:: [IceOC](https://osu.ppy.sh/users/5482401) | 4 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [TMWC](/wiki/Contests/TMWC) (2) |
 | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767) | 4 | [TMWC](/wiki/Contests/TMWC) (2), [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2) |
@@ -120,16 +120,17 @@ Poin kontes telah digunakan pada berbagai kontes berikut:
 | ::{ flag=CN }:: [superSSS](https://osu.ppy.sh/users/4315477) | 1 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=CN }:: [kknegative](https://osu.ppy.sh/users/2349769) | 1 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!catch
 
 | Pengguna | Poin | Kontes |
 | :-- | :-- | :-- |
-| ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [**Jemzuu**](https://osu.ppy.sh/users/7890134) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
+| ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [-Rusty](https://osu.ppy.sh/users/16355636) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
-| ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=EE }:: [Sadu](https://osu.ppy.sh/users/16301262) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
