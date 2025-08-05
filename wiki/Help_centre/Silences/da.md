@@ -62,6 +62,6 @@ Silences bliver udstedt til at bevare et positivt miljø i fællesskabet, men fe
 
 Husk, at du skal bruge mailadressen knyttet til din osu!-konto — og nævn dit brugernavn for at bekræfte, at det er dig.
 
-## References
+## Referencer
 
 [^chat-cleanup]: [Blogopslag af ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)

@@ -22,7 +22,7 @@ For anything else, see instructions below.
 
 ![](img/report-command.jpg "Example of using the !report command")
 
-Chat misbehaviour is the most common infringement. To report it, use the [`!report`](https://osu.ppy.sh/community/forums/topics/34843) command, preferably in the channel where infringement took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
+Chat misbehaviour is the most common infringement. To report it, use [the `!report` command](https://osu.ppy.sh/community/forums/topics/34843), preferably in the channel where the infringement(s) took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
 
 The command's syntax has two forms:
 
@@ -76,6 +76,8 @@ This option works if the offending user is in sight:
 
 ### Beatmap
 
+*Notice: [Ranked](/wiki/Beatmap/Category#ranked) beatmaps cannot be reported in the following manner to prevent invalid reports of beatmaps disliked by users.[^invalid-reports] In order to report a Ranked beatmap, contact an NAT or BN.*
+
 ![](img/report-beatmap.png "The report button on a beatmap page")
 
 1. Press the button with three vertical dots and select `Report`.
@@ -105,3 +107,7 @@ This option works if the offending user is in sight:
 1. Hover the cursor over the score.
 2. At the right side of the score, press the button with three vertical dots and select `Report Score`.
 3. Select the category and add details (optional).
+
+## References
+
+[^invalid-reports]: [GitHub issue #8093 (2021-09-06)](https://github.com/ppy/osu-web/issues/8093)
