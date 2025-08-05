@@ -4,6 +4,8 @@ The **daily challenge** is a multiplayer mode in [osu!(lazer)](/wiki/Client/Rele
 
 Beatmaps in the challenge are curated by a panel of contributors and are mainly set to [Featured Artist](/wiki/People/Featured_Artists) tracks. On certain days, these beatmaps may come with a mod forced onto users, requiring them to pass the beatmap with the selected mod.
 
+The current and all past daily challenges can be found on the [daily challenge rankings page](https://osu.ppy.sh/rankings/daily-challenge).
+
 ## Game menu
 
 From the main menu, the daily challenge menu can be accessed with the following steps:
@@ -48,6 +50,8 @@ The project is organised by ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/141
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
+- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
+- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
 
 ## Trivia
 

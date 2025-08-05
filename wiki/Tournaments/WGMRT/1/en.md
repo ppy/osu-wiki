@@ -35,6 +35,8 @@ The We Go March! retot's Tournament offered an initial prize pool of 1,000,000 I
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the accumulated prize pool |
 
+![](img/badge.png "WGMRT winner badge")
+
 ## Organisation
 
 The We Go March! retot's Tournament was run by various osu! community members from Indonesia and beyond.
