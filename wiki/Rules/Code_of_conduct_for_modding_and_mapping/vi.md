@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Quy tắc ứng xử đối với modding và mapping
 
 **Bộ quy tắc ứng xử đối với modding và mapping** là tập hợp các quy tắc và hướng dẫn áp dụng cho toàn bộ các thành viên [modding](/wiki/Modding) và [mapping](/wiki/Beatmapping) trong osu! và cũng là một phần mở rộng của các [quy tắc cộng đồng osu!](/wiki/Rules). Bộ quy tắc nhằm đảm bảo rằng các cuộc thảo luận về mapping và modding trong các chủ đề diễn ra tích cực, mang tính xây dựng và hiệu quả. Việc có một bộ quy tắc ứng xử là cần thiết để mọi người đều hiểu cùng nhau và đồng thuận. Khi tham gia vào môi trường modding và mapping, bạn bắt buộc phải tuân theo bộ quy tắc ứng xử này. Việc vi phạm các quy tắc này có thể dẫn đến việc các [hình phạt được áp dụng trên tài khoản của bạn](/wiki/Help_centre/Silences). 
