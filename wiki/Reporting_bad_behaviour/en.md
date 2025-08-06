@@ -10,8 +10,8 @@ Accidental reports are ignored. Users who deliberately send invalid reports can 
 | :-- | :-- |
 | Scamming/Phishing in private messages | Send a regular report |
 | Other offensive/inappropriate private messages | **None**: [ignore the user](/wiki/Client/Interface/Chat_console#commands-list) instead. For permanent effect, use the in-game ignore list located in [options](/wiki/Client/Options) or block them on the website with the button located on their user profile. |
-| Inappropriate content in [Ranked](/wiki/Beatmap/Category#ranked) beatmaps[^invalid-reports] | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) or [GMT](/wiki/People/Global_Moderation_Team), via the [BN Report Submission](https://bn.mappersguild.com/reports) page |
-| Inappropriate conduct from a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), via the [BN Report Submission](https://bn.mappersguild.com/reports) page |
+| Inappropriate content in [Ranked](/wiki/Beatmap/Category#ranked) beatmaps[^invalid-reports] | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) or [GMT](/wiki/People/Global_Moderation_Team), via the [BN Management](https://bn.mappersguild.com/reports) website |
+| Inappropriate conduct from a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), via the [BN Management](https://bn.mappersguild.com/reports) website |
 | Inappropriate conduct from a member of the [NAT](/wiki/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) | [Account support team](/wiki/People/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh) |
 | Sexual abuse or extreme misbehaviour | Refer to [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse) |
 
@@ -109,4 +109,4 @@ This option works if the offending user is in sight:
 
 ## References
 
-[^invalid-reports]: Ranked beatmaps cannot be reported via the website to prevent invalid reports of beatmaps disliked by users.
+[^invalid-reports]: Unlike other categories, Ranked beatmaps cannot be reported via the website.
