@@ -55,15 +55,15 @@ The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **Argentina** | **[Nubbo123](https://osu.ppy.sh/users/18566390)** |
+| ::{ flag=AR }:: | **Argentina** | **[Nubbo123](https://osu.ppy.sh/users/18566390)**, [-hakitsu](https://osu.ppy.sh/users/25300387), [CatalepsiaX](https://osu.ppy.sh/users/27208738), [EteChmess](https://osu.ppy.sh/users/16233256), [agusgex](https://osu.ppy.sh/users/14132796), [Seiong](https://osu.ppy.sh/users/7341471) |
 | ::{ flag=AU }:: | **Australia** | **[nick-haoran](https://osu.ppy.sh/users/29944863)** |
-| ::{ flag=BR }:: | **Brazil** | **[LeMarcinho](https://osu.ppy.sh/users/13347579)** |
-| ::{ flag=CA }:: | **Canada** | **[NunotabaShinobu](https://osu.ppy.sh/users/10809497)** |
+| ::{ flag=BR }:: | **Brazil** | **[Aigisfangirl](https://osu.ppy.sh/users/26253851)**, [zKuri](https://osu.ppy.sh/users/25445118), [Miwiki](https://osu.ppy.sh/users/9781014), [Artloldxe](https://osu.ppy.sh/users/19444599), [borrys](https://osu.ppy.sh/users/27874088), [MORDEST68](https://osu.ppy.sh/users/28527409) |
+| ::{ flag=CA }:: | **Canada** | **[Sawdust Inhaler](https://osu.ppy.sh/users/18236316)** |
 | ::{ flag=CL }:: | **Chile** | **[Naito Mare](https://osu.ppy.sh/users/8880797)**, [myucchii](https://osu.ppy.sh/users/10072733), [maykolmejor](https://osu.ppy.sh/users/15267478), [bambi fnf](https://osu.ppy.sh/users/20360332), [Anterex](https://osu.ppy.sh/users/24548857), [b3njvv2](https://osu.ppy.sh/users/23291631) |
 | ::{ flag=CN }:: | **China** | **[\[Crz\]Nickname](https://osu.ppy.sh/users/10817494)** |
 | ::{ flag=DK }:: | **Denmark** | **[Cath](https://osu.ppy.sh/users/10202140)** |
 | ::{ flag=FI }:: | **Finland** | **[Strachy](https://osu.ppy.sh/users/9663200)**, [KullaiPora](https://osu.ppy.sh/users/31956722), [Tomskuu](https://osu.ppy.sh/users/14943370), [ERA Illya](https://osu.ppy.sh/users/10393606), [ERA Fisu](https://osu.ppy.sh/users/12545346), [play etterna](https://osu.ppy.sh/users/4765794) |
-| ::{ flag=FR }:: | **France** | **[PatouZ](https://osu.ppy.sh/users/7306522)** |
+| ::{ flag=FR }:: | **France** | **[DarkMew2](https://osu.ppy.sh/users/13921965)**, [- Stay -](https://osu.ppy.sh/users/19910862), [\[RUE\]J K L](https://osu.ppy.sh/users/16518063), [\[RUE\]Jeunios](https://osu.ppy.sh/users/17089357), [flowerful](https://osu.ppy.sh/users/18867523), [Koiidex](https://osu.ppy.sh/users/5193488) |
 | ::{ flag=DE }:: | **Germany** | **[Cyaewin](https://osu.ppy.sh/users/10027302)** |
 | ::{ flag=GT }:: | **Guatemala** | **[Maxtulini](https://osu.ppy.sh/users/25345980)**, [\[Crz\]Miyako](https://osu.ppy.sh/users/32374576), [hoshiteru](https://osu.ppy.sh/users/15683009), [babosodeuriel](https://osu.ppy.sh/users/31729635) |
 | ::{ flag=HK }:: | **Hong Kong** | **[minatoaquafan69](https://osu.ppy.sh/users/18111392)** |
@@ -81,7 +81,7 @@ The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=PL }:: | **Poland** | **[bagjettka](https://osu.ppy.sh/users/18338179)** |
 | ::{ flag=RU }:: | **Russian Federation** | **[riftoyu Wife](https://osu.ppy.sh/users/11898245)** |
 | ::{ flag=SA }:: | **Saudi Arabia** | **[shortant](https://osu.ppy.sh/users/23656807)**, [MrFoap](https://osu.ppy.sh/users/26268474), [Xyner](https://osu.ppy.sh/users/30564092), [Agenius569](https://osu.ppy.sh/users/31209758) |
-| ::{ flag=SG }:: | **Singapore** | **[Adam Yuuki](https://osu.ppy.sh/users/12297375)** |
+| ::{ flag=SG }:: | **Singapore** | **[Adam Yuuki](https://osu.ppy.sh/users/12297375)**, [riunosk](https://osu.ppy.sh/users/5594381), [Pokeccino](https://osu.ppy.sh/users/18472374), [Big noob lol](https://osu.ppy.sh/users/21591349), [\[Paw\]pwod](https://osu.ppy.sh/users/20846896), [origamibest](https://osu.ppy.sh/users/16192531) |
 | ::{ flag=KR }:: | **South Korea** | **[Poca](https://osu.ppy.sh/users/8581031)** |
 | ::{ flag=ES }:: | **Spain** | **[Guldakh](https://osu.ppy.sh/users/8553078)** |
 | ::{ flag=TW }:: | **Taiwan** | **[-Veloce-](https://osu.ppy.sh/users/23248427)** |
@@ -89,12 +89,12 @@ The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=TR }:: | **Türkiye** | **[dumbidot](https://osu.ppy.sh/users/19664675)**, [ht2](https://osu.ppy.sh/users/27584970), [KabizEjderha](https://osu.ppy.sh/users/16348899), [Taksma](https://osu.ppy.sh/users/27480074) |
 | ::{ flag=UA }:: | **Ukraine** | **[Concepte](https://osu.ppy.sh/users/18563362)** |
 | ::{ flag=GB }:: | **United Kingdom** | **[Zoobin4](https://osu.ppy.sh/users/10055204)** |
-| ::{ flag=US }:: | **United States** | **[PeachMarrow](https://osu.ppy.sh/users/15926730)** |
+| ::{ flag=US }:: | **United States** | **[PeachMarrow](https://osu.ppy.sh/users/15926730)**, [Nepijin](https://osu.ppy.sh/users/11734610), [Hello\_Son](https://osu.ppy.sh/users/17308009), [\_dev\_](https://osu.ppy.sh/users/16407268), [Reshiram](https://osu.ppy.sh/users/7794488), [Minwoo3098](https://osu.ppy.sh/users/18356454) |
 | ::{ flag=UY }:: | **Uruguay** | **[etterna in osu](https://osu.ppy.sh/users/5243536)**, [- ElGrincho -](https://osu.ppy.sh/users/24851743), [Rushax](https://osu.ppy.sh/users/19621477), [Xion-Z](https://osu.ppy.sh/users/22026308), [Some0n3](https://osu.ppy.sh/users/19280072), [surfcastkn](https://osu.ppy.sh/users/23683024) |
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [YuyukoFangirl](https://osu.ppy.sh/users/10336332), [MalenaPop](https://osu.ppy.sh/users/22612299), [insidus](https://osu.ppy.sh/users/30603618), [Gameryt1234](https://osu.ppy.sh/users/25192757), [- SrDark -](https://osu.ppy.sh/users/24416807) |
 | ::{ flag=VN }:: | **Vietnam** | **[\[LS\]Vixile](https://osu.ppy.sh/users/26233321)** |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, August 9 23:59 UTC**. This list was last updated on **August 5**.
+Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, August 9 23:59 UTC**. This list was last updated on **August 6**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07b9a7633d2c28497aef6d2c8a6623c).
 
