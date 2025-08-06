@@ -28,7 +28,7 @@ Read below for results from [the last osu! iteration of the MBC](https://osu.ppy
 | :-- | :-- | :-- | :-- | :-- |
 | Winner | [fowwo](https://osu.ppy.sh/users/4547551) | [James Landino & Kabuki - Birdsong](https://osu.ppy.sh/beatmapsets/2414725) | - | +2 (10 total) |
 | Runner-up | [0ppInOsu](https://osu.ppy.sh/users/12551840) | [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/2414579) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +1 (4 total) |
-| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [iBell](https://osu.ppy.sh/users/4298072) | [Junk - Kagaribi](https://osu.ppy.sh/s/2414817) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +1 (4 total) |
+| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [iBell](https://osu.ppy.sh/users/4298072) | [Junk - Kagaribi](https://osu.ppy.sh/beatmapsets/2414817) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +1 (4 total) |
 
 Despite having earned all the prizes offered by the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) already, [**fowwo**](https://osu.ppy.sh/users/4547551) is still competing!
 
