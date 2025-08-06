@@ -16,7 +16,7 @@ We're going back to the basics for this month's contest. Sorry drum bashers/frui
 
 Other modes will return next month!
 
-Read below for results from [the last osu! iteration of the MBC](https://osu.ppy.sh/home/news/2025-05-12-monthly-beatmapping-contest-may-2025#osu), or skip directly to [the criteria for this month's MBC](#game-modes)!
+Read below for results from [the last osu! iteration of the MBC](https://osu.ppy.sh/home/news/2025-05-12-monthly-beatmapping-contest-may-2025#osu!), or skip directly to [the criteria for this month's MBC](#game-modes)!
 
 ### osu! results
 
