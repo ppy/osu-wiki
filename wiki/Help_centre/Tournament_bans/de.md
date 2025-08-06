@@ -10,7 +10,7 @@ Durch die hohen Anforderungen bei Turnierspielen werden Turniersperren sehr erns
 
 ## Was führt dazu, dass jemand eine zeitige Turniersperre erhält? {id=why-temporary}
 
-Jeder schwerwiegende Verstoß der [Community-Regeln](/wiki/Rules), der während eines [offiziell unterstützten Turniers](/wiki/Tournaments/Official_support) stattfindet, wird wahrscheinlich eine Turniersperre verursachen. Auch dann, wenn es normalerweise nur als einem kleineren Verstoß außerhalb der kompetitiven Spielumgebung gegolten hätte.
+Jeder schwerwiegende Verstoß der [Community-Regeln](/wiki/Rules), der während eines [offiziell unterstützten Turniers](/wiki/Tournaments/Official_support) stattfindet, wird wahrscheinlich eine Turniersperre verursachen, auch wenn es normalerweise nur als einem kleineren Verstoß außerhalb der kompetitiven Spielumgebung gegolten hätte.
 
 Solches Verhalten beinhaltet als Beispiel aus der Praxis das Zeichnen von Hasssymbolen/Beleidigungen (z.b. Hakenkreuze) durch die Verwendung des Cursor-Rauchs in gestreamten Matches.
 
