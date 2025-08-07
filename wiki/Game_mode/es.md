@@ -38,7 +38,7 @@ Para cambiar entre los modos, haz clic en el botón `Mode` de la parte inferior 
 
 *Página principal: [osu!catch](osu!catch)*
 
-En *osu!catch*, frutas de diferentes variedades caen desde la parte superior de la pantalla y el jugador debe atraparlas al ritmo. Para ello controlan a un catcher con un plato encima de la cabeza para recoger dichas frutas. Este modo se basa libremente en un minijuego dentro de un simulador de [Beatmania](https://es.wikipedia.org/wiki/Beatmania_(serie)), que se cree que está basado en el modo *EZ2CATCH* de la serie [EZ2DJ](https://es.wikipedia.org/wiki/EZ2DJ). La mascota de osu!catch es [Yuzu](/wiki/Mascots#yuzu), un chico de pelo azul.
+*osu!catch* es un modo de juego en el que los jugadores controlan a un catcher para recoger las frutas que caen al ritmo de la música desde la parte superior de la pantalla. Se basa ligeramente en el minijuego «Catch It!» de las primeras versiones de [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], un simulador de [Beatmania](https://es.wikipedia.org/wiki/Beatmania_(serie)) para PC, que a su vez deriva del modo *EZ2CATCH* del sistema arcade [EZ2DJ](https://es.wikipedia.org/wiki/EZ2DJ). La mascota de osu!catch es [Yuzu](/wiki/Mascots#yuzu), un chico de pelo azul.
 
 ![Jugabilidad de osu!catch](/wiki/shared/catch-gameplay.jpg "Jugabilidad de osu!catch")
 
@@ -55,6 +55,10 @@ En *osu!catch*, frutas de diferentes variedades caen desde la parte superior de 
 En osu!(lazer), es posible instalar manualmente modos de juego personalizados (también llamados «custom rulesets» en inglés) a través de archivos `.dll`. Presentan una nueva forma de jugar usando la biblioteca de beatmaps que ofrece osu!. Los modos de juego personalizados, al igual que los principales, suelen inspirarse en otros juegos de ritmo.
 
 La lista completa de los modos de juego personalizados se encuentra en [esta discusión de GitHub](https://github.com/ppy/osu/discussions/13096).
+
+## Referencias
+
+[^rdm]: [Vídeo de YouTube por peppy (15/10/2008) «rdm catch it! mode»](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
