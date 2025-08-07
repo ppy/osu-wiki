@@ -16,7 +16,7 @@ Regarding the tournament's bracket format, there is a slight change from the pas
 
 As a special event as well this year, the **Qualifier results** will be showcased at COE itself, along with the **main mappool showcase**.
 
-This tournament will **not be badged** due to its size, but there are physical prizes planned. They will be announced at a later date.
+This tournament is planned to **be badged**, with additional physical prizes planned. They will be announced at a later date, but the first one that can be revealed: **The winner of this tournament will win a Wooting 80HE!**
 
 The tournament's detailed schedule and location info, along with all relevant info for participating can be found below.
 
@@ -33,12 +33,13 @@ This tournament is part of the much larger **[cavoe's osu! event](https://cavoe.
 | Event | Timestamp (UTC) |
 | --: | :-- |
 | Registration phase | June 30 (20:00) – July 13 (23:59) |
-| Qualifier showcase | July 13 (15:00) |
-| Qualifier stage | July 14 to June 20 |
+| Qualifier showcase | July 20 |
+| Qualifier stage | July 21 to July 27 |
 | Qualifier results & main mappool showcase | July 28 (17:00) |
-| Day 1 (Quarterfinals) | July 31 (15:00–20:00) |
-| Day 2 (Semifinals) | August 1 (17:30–20:30) |
-| Day 3 (Match for 3rd place & Grand Finals) | August 2 (8:30–10:00 & 13:30–15:30) |
+| Day 1 (Round of 16 pt. 1) | July 30 (14:00–19:00) |
+| Day 2 (Round of 16 pt. 2 + Quarterfinals) | July 31 (09:00-14:00, 15:00–20:00) |
+| Day 3 (Semifinals) | August 1 (17:30–20:30) |
+| Day 4 (Match for 3rd place & Grand Finals) | August 2 (8:30–10:00 & 13:30–15:30) |
 
 ## How do I register?
 

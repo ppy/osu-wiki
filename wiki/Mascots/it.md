@@ -64,7 +64,7 @@ Agente J fa parte della skin di ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/u
 
 ![Don](img/Don.png "Don")
 
-> Don è il protagonista della serie [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). È un tamburo taiko con il bordo bianco e quattro gambe, un viso rosso (che sembra di un arancione acceso), e un corpo blu chiaro. Il sogno di Don è condividere la bellezza di Taiko con il resto del mondo. Sono passati 3 anni da quando si è trasferito nelle Wada House, ed è diventato abbastanza popolare nella cittadina. Ha un appetito mostruoso, e alcune volte fa spese costose nella Wada House, il che può portare al peggio. Molto spesso finisce le sue frasi con "Ta-don", che significa "Ba-dum" in Giapponese.
+> Don è il protagonista della serie [Taiko no Tatsujin](https://it.wikipedia.org/wiki/Taiko_no_Tatsujin). È un tamburo taiko con il bordo bianco e quattro gambe, un viso rosso (che sembra di un arancione acceso), e un corpo blu chiaro. Il sogno di Don è condividere la bellezza di Taiko con il resto del mondo. Sono passati 3 anni da quando si è trasferito nelle Wada House, ed è diventato abbastanza popolare nella cittadina. Ha un appetito mostruoso, e alcune volte fa spese costose nella Wada House, il che può portare al peggio. Molto spesso finisce le sue frasi con "Ta-don", che significa "Ba-dum" in Giapponese.
 
 和田どん (Wada Don), conosciuto anche come Don o Don-chan, è stata una della mascotte di osu!taiko da Maggio 2008. È alto 48cm e pesa più di 100kg. Compare nella skin di osu!taiko. Il suo disegno è stato fatto da Yukiko Yokoo (横尾有希子) e gli è stata data una voce da Narahashi Miki (楢橋 美紀).
 
