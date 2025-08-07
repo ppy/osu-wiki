@@ -23,23 +23,19 @@ Die Dauer, in der ein Hit-Objekt sichtbar ist (ohne Mods), kann von 1800 ms bei 
 Die nachstehende Infografik und die Formeln bieten einen Überblick:
 
 ```
-                                       X = Objekt treffen/einsammeln
-         v o r h e r                   ↓
-├───────────────────────┬──────────────┤
-0%       Einblendung      100% Opazität
+                 v o r h e r              X = Objekt treffen/einsammeln
+0%                        66%             ↓
+├──────────────────────────┬──────────────┤
+        Einblendung         100 % Opazität
 ```
 
-Das Hit-Objekt fängt nach folgendem Schema bei `X - Versatz` an, zu erscheinen:
+Das Hit-Objekt fängt nach folgendem Schema bei `X - Vorlauf` an, zu erscheinen:
 
-- AR < 5: `Versatz = 1200 ms + 600 ms * (5 - AR) / 5`
-- AR = 5: `Versatz = 1200 ms`
-- AR > 5: `Versatz = 1200 ms - 750 ms * (AR - 5) / 5`
+- AR < 5: `Vorlauf = 1200 ms + 120 ms * (5 - AR)`
+- AR = 5: `Vorlauf = 1200 ms`
+- AR > 5: `Vorlauf = 1200 ms - 150 ms * (AR - 5)`
 
-Wie lange es dauert, bis das Hit-Objekt vollständig eingeblendet wird, hängt auch von dem AR-Wert ab:
-
-- AR < 5: `Zeitspanne zum Einblenden = 800 ms + 400 ms * (5 - AR) / 5`
-- AR = 5: `Zeitspanne zum Einblenden = 800 ms`
-- AR > 5: `Zeitspanne zum Einblenden = 800 ms - 500 ms * (AR - 5) / 5`
+Das Hit-Objekt ist nach 2/3 der Vorlaufzeit vollständig sichtbar.
 
 ### Tabellenvergleich
 

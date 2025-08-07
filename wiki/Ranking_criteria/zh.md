@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 87c9697adc8f512867e6ef82373580a61a39275d YumeMuzi
+outdated_translation: true
+outdated_since: 45e872f620e408dc550e2fbc2df99a940aabd24e
 ---
 
 # 谱面上架标准 (RC)

@@ -4,6 +4,8 @@ tags:
   - жалобы
   - пожаловаться
   - репорт
+outdated_translation: true
+outdated_since: 508a002bf0586beff3ba1c9ee3fb052d97898029
 ---
 
 # Жалобы на плохое поведение
