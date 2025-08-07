@@ -53,9 +53,9 @@ ppv1 is rather infeasible without a lot of digging, little information is public
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | *2016-05-04* | 2017-01-15 | [\[1\]](https://web.archive.org/web/20160504020501/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/26654092) | 2017-01-15 | 2017-02-16 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/4158549) | 2017-01-15 | 2017-02-16 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 2017-02-16 | 2017-04-19 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/26654092) | 2017-04-19 | 2017-06-17 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/4158549) | 2017-04-19 | 2017-06-17 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 2017-06-17 | 2017-08-20 | [\[1\]](https://web.archive.org/web/20170617144834/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2017-08-20 | *2018-04-14* | [\[1\]](https://web.archive.org/web/20170820172043/https://osu.ppy.sh/p/pp/?m=2) |
 
