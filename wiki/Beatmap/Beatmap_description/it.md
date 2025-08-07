@@ -12,7 +12,7 @@ Descrizioni famose di beatmap [classificate](/wiki/Beatmap/Category#ranked) spes
 
 ### Immagini
 
-Molte descrizioni di beatmap contengono almeno un'immagine (spesso una [GIF](https://en.wikipedia.org/wiki/GIF) animata di qualche tipo), utilizzata per esprimere e illustrare o il creatore, la musica e/o la beatmap in modo accattivante. Possono anche fungere da titolo o intestazione per aggiungere stile e qualità. Per imparare come aggiungere un'immagine, consulta la [sezione degli articoli di BBCode sulle immagini](/wiki/BBCode#immagini).
+Molte descrizioni di beatmap contengono almeno un'immagine (spesso una [GIF](https://it.wikipedia.org/wiki/GIF) animata di qualche tipo), utilizzata per esprimere e illustrare o il creatore, la musica e/o la beatmap in modo accattivante. Possono anche fungere da titolo o intestazione per aggiungere stile e qualità. Per imparare come aggiungere un'immagine, consulta la [sezione degli articoli di BBCode sulle immagini](/wiki/BBCode#immagini).
 
 ### Sezioni difficoltà
 

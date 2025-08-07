@@ -51,9 +51,9 @@ Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el pues
 | Jugador | Desde | Hasta | Fuentes |
 | --: | :-- | :-- | :-- |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | *4/5/2016* | 15/1/2017 | [\[1\]](https://web.archive.org/web/20160504020501/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/26654092) | 15/1/2017 | 16/2/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/4158549) | 15/1/2017 | 16/2/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 16/2/2017 | 19/4/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/26654092) | 19/4/2017 | 17/6/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: [YesMyDarknesss (*[224]Hyperw7*)](https://osu.ppy.sh/users/4158549) | 19/4/2017 | 17/6/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 17/6/2017 | 20/8/2017 | [\[1\]](https://web.archive.org/web/20170617144834/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 20/8/2017 | *14/4/2018* | [\[1\]](https://web.archive.org/web/20170820172043/https://osu.ppy.sh/p/pp/?m=2) |
 
