@@ -8,7 +8,7 @@ tags:
 
 # GBC 2025 春季赛
 
-![GBC 2023 春季赛 官网横幅图片](img/GBC-2025-Spring-banner.png)
+![GBC 2025 春季赛 官网横幅图片](img/GBC-2025-Spring-banner.png)
 
 **GBC 2025 春季周常活动** (***GB 杯 2025 春季周常活动***) 是由 GB 组织主办的 osu!mania 4K 项目周常积分个人制 赛事。本届比赛是 GBC 系列赛事的第八届正式比赛。
 
