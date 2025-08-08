@@ -121,95 +121,96 @@ GBC 2025 春季周常活动由 GB 成员和多位社区成员举办。
 
 ### 总决赛
 
-**[于此处下载图池](https://drive.google.com/file/d/1F586C49z1Frip7f929yExvWEPBGMSLFB/view?usp=sharing)**
+**[于此处下载图池](https://drive.google.com/file/d/1ZL-xO-Uc2WtEzu7UyALBTAPKN6LqMBIg/view?usp=sharing)**
 
 - Rice
-  1. [Tokino Sora, Hoshimachi Suisei, Omaru Polka, Hakui Koyori, Sakamata Chloe - Kaibutsu (\[GB\]Sanae) \[Monster (179bpm)\]](https://osu.ppy.sh/beatmapsets/2191523#mania/4635613)
-  2. [BEMANI Sound Team "HuMeR" feat. Fernweh - Sakazuki (\[GB\]V1do) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2177816#mania/4599336)
-  3. [Manbou Nitouhei - Faraway (PORTTAYER) \[buff x1.05\]](https://osu.ppy.sh/beatmapsets/2186174#mania/4624315)
-  4. [Kagetora. - Time to beat the odds (Blue_Potion) \[ChordJack Full on! 1.05x\]](https://osu.ppy.sh/beatmapsets/2191537#mania/4635655)
-  5. [Steven Grove (Monster Siren Records) - Stultifer Cantus (Song of Fools) (Hylotl) \[The Golden Age will return again (nerfed)\]](https://osu.ppy.sh/beatmapsets/2188101#mania/4626718)
-  6. [Rahatt - Mafijas Breakcore (Kyrya) \[Tsar2 \[1.05x\]\]](https://osu.ppy.sh/beatmapsets/1843152#mania/3785830)
-  7. [Terminal 11 - 44 Edit (zaalseen) \[1.1\]](https://osu.ppy.sh/beatmapsets/1921793#mania/3966820)
+  1. [Satellite Stories - Australia (Don't Ever Let Her Go) (Sakisagee) \[isokasapupuja's Beginner 1.2x {cut}\]](https://osu.ppy.sh/beatmapsets/1805145#mania/5145802)
+  2. [goreshit - slavik goblins (\[GB\]yobrevelc) \[hna's goremaniac 1.05x (284bpm)\]](https://osu.ppy.sh/beatmapsets/2381228#mania/5147852)
+  3. [Jesus Raves - For the End of Set (Sakisagee) \[The Ending (270bpm Edit for GBC)\]](https://osu.ppy.sh/beatmapsets/2380515#mania/5145795)
+  4. [Natsume Chiaki - Hikarakuyo (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/2189209#mania/4630307)
+  5. [Thalia - Arrasando (Polarin) \[1.2x\]](https://osu.ppy.sh/beatmapsets/2059937#mania/4305553)
+  6. [Leaf - Agilion (Merian) \[Speed Up 1.2x\]](https://osu.ppy.sh/beatmapsets/2071245#mania/4333963)
+  7. [Sydosys - Lunar Gateway (\[GB\]nyasun) \[tpbmsz 1.1x (176bpm) OD7.8\]](https://osu.ppy.sh/beatmapsets/2371766#mania/5119376)
 - Hybrid
-  1. [Kou! - SELENE-UI (cherrychou) \[Moon personifications\]](https://osu.ppy.sh/beatmapsets/2189803#mania/4631523)
-  2. [Camellia - LORELEI (\[GB\]V1do) \[Angelic Sanctuary 1.1x (237bpm) OD7.5\]](https://osu.ppy.sh/beatmapsets/2130289#mania/4635637)
-  3. [cosMo@Bousou-P - Finding Blessing and Glory in the Last Piece (PORTTAYER) \[Catch the Glory (edit)\]](https://osu.ppy.sh/beatmapsets/2186708#mania/4625435)
+  1. [Ashrount - ΛNXIENT:LEGΛXIEZ (cherrychou) \[Inheritance\]](https://osu.ppy.sh/beatmapsets/2381180#mania/5147690)
+  2. [Kyotsugyon - SUPERNOVA (Ghost Neko) \[Ghost Neko vs. \[GB\]TakinaQwQ,\[GB\]Fomurz\]](https://osu.ppy.sh/beatmapsets/2381206#mania/5147792)
+  3. [MisoilePunch -Forever- - Bloomin' (-Ming-) \[Ranunculus\]](https://osu.ppy.sh/beatmapsets/2381279#mania/5147973)
 - LN
-  1. [Kairiki Bear feat. Hatsune Miku - Darling Dance (Hylotl) \[xiong^2\]](https://osu.ppy.sh/beatmapsets/2172060#mania/4584619)
-  2. [MisomyL - Amnehilesie (Hylotl) \[Edit \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2191478#mania/4635517)
-  3. [KAZE.o2SE - Earth Quake (Hylotl) \[Shindo 6+\]](https://osu.ppy.sh/beatmapsets/2184770#mania/4618146)
-  4. [Various Artists - Toresen Ondo (RiceSS) \[Fiesta\]](https://osu.ppy.sh/beatmapsets/2094390#mania/4391455)
+  1. [nameless - Milk Crown on Sonnetica (Turrim) \[Milk Coronation \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2381208#mania/5147802)
+  2. [Laur - Gears of Fate (Turrim) \[Vanitas\]](https://osu.ppy.sh/beatmapsets/2381210#mania/5147805)
+  3. [Iyowa feat. Hatsune Miku & flower - Dear My Witchcraft (Micleak) \[The fragments of my dream are a diorama of familiar memories 1.15x\]](https://osu.ppy.sh/beatmapsets/2381236#mania/5147869)
+  4. [ikaruga_nex - ReviXy (gzdongsheng) \[energy_out x1.1\]](https://osu.ppy.sh/beatmapsets/1984851#mania/5147999)
 - Tiebreaker
-  1. **[Gram - Sigrdrifa (\[GB\]yobrevelc) \[Gladiatorship Beyond Cataclysm\]](https://osu.ppy.sh/beatmapsets/2191555#mania/4635687)**
+  1. **[CS4W - Atomic Disassembler (\[GB\]yobrevelc) \[Galactic Beam Cleaver\]](https://osu.ppy.sh/beatmapsets/2381214#mania/5147813)**
 
 ### 决赛
 
-**[于此处下载图池](https://drive.google.com/file/d/1LozcryJAii6sbt9Eu09r31_W7RJ5DOFD/view?usp=sharing)**
+**[于此处下载图池](https://drive.google.com/file/d/1akysDi49Fb0seN6cYNvcydUzKerVpzjC/view?usp=sharing)**
 
 - Rice
-  1. [ARForest - Farewell (Hylotl) \[How the world says goodbye.. (remap)\]](https://osu.ppy.sh/beatmapsets/2180446#mania/4605781)
-  2. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD (YuEast 2018) \[x1.10\]](https://osu.ppy.sh/beatmapsets/2116417#mania/4457339)
-  3. [MikitoP feat. Kagamine Rin - Roki (7_7's frenchcore(?) bootleg) (\[GB\]V1do) \[Under Construction\]](https://osu.ppy.sh/beatmapsets/2168497#mania/4575649)
-  4. [Camellia vs. lapix - Hypnotize (cut ver.) (\[GB\]Thaumiel) \[Infinite Dimensions \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2173521#mania/4588430)
-  5. [RoughSketch feat. Kitakoji Hisui - Halloween Is Chaos (PORTTAYER) \[MADDEST NIGHTMARE x1.05\]](https://osu.ppy.sh/beatmapsets/2186171#mania/4621882)
-  6. [Fusq x Moe Shop ft. Hentai Dude - Perfume x Superstar (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/1517816#mania/3107133)
-  7. [ARForest - Birds Of Plague (Llkkm) \[like plumage 1.05x (210bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2184766#mania/4618140)
+  1. [Dimrain47 - At the Speed of Light (Cut Ver.) (Polarin) \[1.1x\]](https://osu.ppy.sh/beatmapsets/1802127#mania/4161672)
+  2. [Kobaryo - True Hero (riunosk) \[Illusion\]](https://osu.ppy.sh/beatmapsets/2376916#mania/5134979)
+  3. [Sonic System - Lethal Poison (Sakisagee) \[Conium maculatum 1.15x (253bpm)\]](https://osu.ppy.sh/beatmapsets/2376969#mania/5135125)
+  4. [seatrus - Raindrop (Eclipse) \[Pearlescent (OD9) \[1,05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2226961#mania/5134952)
+  5. [Lime  Kankitsu - Particle (MidRed) \[Molecule 1.05x\]](https://osu.ppy.sh/beatmapsets/2376262#mania/5133056)
+  6. [Silentroom - Shuu no Hazama (Disguise) \[Ob meinem fernen, bleichen Namen\]](https://osu.ppy.sh/beatmapsets/2376896#mania/5134948)
+  7. [BLACK 0 - Qingqiu (Ghost Neko) \[Break \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2376919#mania/5134987)
 - Hybrid
-  1. [Lite Show Magic - TRICKL4SH 220 (\[GB\]V1do) \[MP: 242/242\]](https://osu.ppy.sh/beatmapsets/2173876#mania/4589344)
-  2. [Chroma - Sukoshi Saiba a, Oeyama (PORTTAYER) \[more ln x1.05\]](https://osu.ppy.sh/beatmapsets/2007826#mania/4620541)
-  3. [Billain - Boogie (nayeonie bunny) \[Beginner (edit)\]](https://osu.ppy.sh/beatmapsets/2145612#mania/4624225)
+  1. [polysha feat. Miyo Takashiro - Logos (Ppass) \[\[1.2x\] Keyword\]](https://osu.ppy.sh/beatmapsets/2210011#mania/5134993)
+  2. [Akiri - Evolutionary Anima (\[GB\]Cinelia) \[Alpha Evolution\]](https://osu.ppy.sh/beatmapsets/2376922#mania/5134995)
+  3. [BewhY ft. Khundi Panda - DAMM GUT (a1ternation) \[NEXT NEW THING\]](https://osu.ppy.sh/beatmapsets/1969175#mania/4084683)
 - LN
-  1. [inabakumori - An image in the making (11Bit) \[a2 x1.15_P\]](https://osu.ppy.sh/beatmapsets/2160722#mania/4556491)
-  2. [Yumeno Yuki - BWLAUTE BEIRRD (Hylotl) \[BIG FOUR \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2185747#mania/4620462)
-  3. [Kommisar - AKARI BEAM CANNON LAST BOSS (\[GB\]V1do) \[NOODLE BEAM\]](https://osu.ppy.sh/beatmapsets/2118197#mania/4448812)
-  4. [Erehamonika remixed by kors k - Der Wald (kors k Remix) (\[GB\]V1do) \[isoLatioN\]](https://osu.ppy.sh/beatmapsets/2167498#mania/4572990)
+  1. [Hitorie - Heart Breath (Xu seventeen) \[Life 1.05x (273bpm) OD7.2\]](https://osu.ppy.sh/beatmapsets/2376954#mania/5135060)
+  2. [Morimori Atsushi - PUPA (Revv-) \[Metamorphosis 1.15x\]](https://osu.ppy.sh/beatmapsets/2083821#mania/4364753)
+  3. [sasakureUK - the EmpErroR (Turrim) \[LmpErroN\]](https://osu.ppy.sh/beatmapsets/2376897#mania/5134950)
+  4. [phonon - Polyriddim (Izadi House Flip) (ERA Hatsuki) \[FunKatsu's ratJAM\]](https://osu.ppy.sh/beatmapsets/1851364#mania/3869220)
+(https://osu.ppy.sh/beatmapsets/2167498#mania/4572990)
 - Tiebreaker
-  1. **[ReeK/Asatsumei/L4hee - Deity Mode (Llkkm) \[Let Them Fly\]](https://osu.ppy.sh/beatmapsets/2166700#mania/4571255)**
+  1. **[Kurokotei feat Sennzai - escape (the looking-glass, and what alice found there) (-Ming-) \[The Amciable Mirror World\]](https://osu.ppy.sh/beatmapsets/2377120#mania/5135513)**
 
 ### 半决赛
 
-**[于此处下载图池](https://drive.google.com/file/d/1e95FF1Ip32N0iqEY86eSmoH-HXeYPYdU/view?usp=sharing)**
+**[于此处下载图池](https://drive.google.com/file/d/1cg0JpbxPjNyHv4NteGaa9qQolarFgnUE/view?usp=sharing**
 
 - Rice
-  1. [Dasu - NAKAKAPAGPABAGABAG (YuEast 2018) \[x1.10\]](https://osu.ppy.sh/beatmapsets/2039937#mania/4255254)
-  2. [umu. - humanly (\[GB\]Reisen) \[docdocdoc. \[GBC edit\]\]](https://osu.ppy.sh/beatmapsets/2042721#mania/4614466)
-  3. [Katagiri - #2wise4u (\[GB\]V1do) \[#230hard4.6u\]](https://osu.ppy.sh/beatmapsets/1851303#mania/4614486)
-  4. [seleP - Remember Me (riunosk) \[REMEMBER THE CHORDJACKS\]](https://osu.ppy.sh/beatmapsets/1022231#mania/2138692)
-  5. [kukonichi demo koiga shitai (yueast 2018) \[x1.10\]](https://osu.ppy.sh/beatmapsets/2109074#mania/4607336)
-  6. [Voysol - ROUGE: MYTH (elexire) \[XXII\]](https://osu.ppy.sh/beatmapsets/1985425#mania/4141993)
+  1. [Isabelle Huang/HOYO-MiX - TRUE (\[GB\]TakinaQwQ) \[The story that exists because of you 1.05x\]](https://osu.ppy.sh/beatmapsets/2373115#mania/5124128)
+  2. [YurryCanon feat. GUMI - humanly (Miaurichesu) \[artificial\]](https://osu.ppy.sh/beatmapsets/2321511#mania/5029647)
+  3. [Sephra's Paradox - Groovy Rollercoaster Acid Trip (TheDirius3000) \[Sakisagee's Raw\]](https://osu.ppy.sh/beatmapsets/1538790#mania/3146063)
+  4. [SHK - Identity Part III (Blue_Potion) \[Superstar 1.0x\]](https://osu.ppy.sh/beatmapsets/2373131#mania/5124164)
+  5. [MisomyL - Mukishitsu Sekai ni Irodori o (Ppass) \[\[1.15x\]If this inorganic world seemed a little more beautiful...\]](https://osu.ppy.sh/beatmapsets/1948003#mania/4031502)
+  6. [Braven - Nyctophobia (Alptraum) \[WHAT A HORRIBLE NIGHT\]](https://osu.ppy.sh/beatmapsets/1904900#mania/3927796)
 - Hybrid
-  1. [Camellia - Proluvies ("abyssum oblivionis" Long ver.) (Paraxia) \[overflow the abyss\]](https://osu.ppy.sh/beatmapsets/1799094#mania/3688176)
-  2. [TAG - PRIMITIVE LIGHTS (cherrychou) \[Future (NSV)\]](https://osu.ppy.sh/beatmapsets/1967666#mania/4081087)
-  3. [Gram - eden (PORTTAYER) \['Edit' no Daitenshi \<Tayer\>\]](https://osu.ppy.sh/beatmapsets/2183720#mania/4614467)
+  1. [Lime - Pixel Planet (Saemitsu) \[Traversing the Cosmos 1.05x\]](https://osu.ppy.sh/beatmapsets/2183977#mania/4615367)
+  2. [Xtrullor - Corrosive (Cut Ver.) (Sakisagee) \[Soul Dissolver 1.1x\]](https://osu.ppy.sh/beatmapsets/2353241#mania/5121452)
+  3. [Laur - Swift Swing (Nicknem_) \[Game Changer\]](https://osu.ppy.sh/beatmapsets/2362343#mania/5092476)
 - LN
-  1. [Trouble Maker - Trouble Maker (\[GB\]Reisen) \[Trouble Coordinator\]](https://osu.ppy.sh/beatmapsets/2046195#mania/4275303)
-  2. [tokiwa - Kotodama rifurein (katagiri Bootleg) (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/2153114#mania/4536752)
-  3. [Hardwell & Headhunterz ft. Haris - Nothing Can Hold Us Down (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/1997842#mania/4614434)
+  1. [UKRampage - Replica feat. isekaijoucho (Onta_Bekasi) \[Nisemono\]](https://osu.ppy.sh/beatmapsets/2060611#mania/4308317)
+  2. [Doomsday - Limpid Rover (Paturages) \[Endless Blue 1.05x (220bpm)\]](https://osu.ppy.sh/beatmapsets/2310686#mania/4943245)
+  3. [Negentropy (a.k.a. Team Grimoire) - ouroVoros (Turrim) \[foreVer within \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2367247#mania/5106332)
 - Tiebreaker
-  1. **[GTS Sound Team - <<wr/d.:maker>> ~Harmony in Reset~ (\[GB\]V1do) \[\<\<cleanse/reborn.:deliverence\>\>\]](https://osu.ppy.sh/beatmapsets/2183742#mania/4614522)**
+  1. **[Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination (\[GB\]Cinelia) \[Accelerator\]](https://osu.ppy.sh/beatmapsets/2373144#mania/5124207)**
 
 ### 四分之一决赛
 
-**[于此处下载图池](https://drive.google.com/file/d/1Ltr7CQRQMjEMKZ-BGxDUrK7Ctq-YU1nc/view?usp=sharing)**
+**[于此处下载图池](https://drive.google.com/file/d/1sEjOgGeWVAMNqcPV6NRqPnS2YX5G3P47/view?usp=drive_link)**
 
 - Rice
-  1. [Christell - Dubidubidu (Cut Ver.) (\[GB\]Mafufu) \[Dubidubi Dabadaba [Edit]\]](https://osu.ppy.sh/beatmapsets/2171139#mania/4602497)
-  2. [DJ Sharpnel - 20031023 (Koishi-0514) \[Revitalization 1.3x (233bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2144724#mania/4517230)
-  3. [Sakanaction - Aoi (PORTTAYER) \[Fukaku ×1.3\]](https://osu.ppy.sh/beatmapsets/2108555#mania/4425305)
-  4. [Shan Bao - Ji Ming Yue (\[GB\]Sanae) \[Extra\]](https://osu.ppy.sh/beatmapsets/2112871#mania/4436121)
-  5. [Kamiyama Yoh - YELLOW (\[GB\]V1do) \[#FFFF00 1.05x (124bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2167080#mania/4572034)
-  6. [Haraguchi Sasuke - Hito mania (CrewK) \[osu mania\]](https://osu.ppy.sh/beatmapsets/2081615#mania/4359444)
+  1. [Perfume - Saisei (Cut Ver.) (Yuiesta) \[Revive / 1.05\]](https://osu.ppy.sh/beatmapsets/2369338#mania/5111965)
+  2. [Kano - Platonic Love (LeiN-) \[Last Train 1.25x (237bpm) (no LN)\]](https://osu.ppy.sh/beatmapsets/2279094#mania/5111356)
+  3. [Sabaton (feat. Peter Tagtgren) - Twilight of the Thunder God (DannyPX) \[Thunderstorm \[1.15x Rate\]\]](https://osu.ppy.sh/beatmapsets/1381404#mania/2854182)
+  4. [San-Z - Endless Loop (elexire) \[Thanatos (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/2315015#mania/4954370)
+  5. [void - Swan Song (PORTTAYER) \[Symphony x1.1\]](https://osu.ppy.sh/beatmapsets/2369316#mania/5111923)
+  6. [lapix - HiTECH Bass Loops Vol.1 (Xu Seventeen) \[Hi tech \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2369339#mania/5111967)
 - Hybrid
-  1. [YUC'e - Sunset Tea Cup (LaoXiao-) \[Sweet\]](https://osu.ppy.sh/beatmapsets/1904938#mania/3927879)
-  2. [Sampling Masters MEGA - Rotter Tarmination (\[GB\]V1do) \[waht\]](https://osu.ppy.sh/beatmapsets/2167638#mania/4573267)
-  3. [rintaro soma - Tsunagite (cherrychou) \[Master\]](https://osu.ppy.sh/beatmapsets/2142326#mania/4510181)
+  1. [Tonari no Niwa wa Aoi (NIWASHI + Aoi) - Nostalgic Lost Logic (Ppass) \[Blast 1.05x\]](https://osu.ppy.sh/beatmapsets/2197965#mania/4651273)
+  2. [Xyris - FOXGLOVE (Akasha-) \[Digitalis\]](https://osu.ppy.sh/beatmapsets/2318416#mania/4965636)
+  3. [Polyphia - The Audacity (Alptraum) \[sorry im not brave enough\]](https://osu.ppy.sh/beatmapsets/2294581#mania/4899968)
 - LN
-  1. [kurageP feat. Yuzuki Yukari - Chururira Chururira Daddadda! (PORTTAYER) \[Editedda!\]](https://osu.ppy.sh/beatmapsets/2132766#mania/4605139)
-  2. [Slax - Blight My Name (\[GB\]V1do) \[Noodle Density: 200mg/L\]](https://osu.ppy.sh/beatmapsets/2167150#mania/4572205)
-  3. [Nene Anegasaki feat. Salita - Act Beloved (Hylotl) \[Deserved\]](https://osu.ppy.sh/beatmapsets/2178222#mania/4600240)
+  1. [M2U - White Rose (epic man 2) \[Eres el amor de mi vida\]](https://osu.ppy.sh/beatmapsets/2296920#mania/4906060)
+  2. [Zekk - MEJIRUSHI (KinoHimari) \[Domination (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/1986590#mania/4591002)
+  3. [II-L - VANGUARD-2 (Lott) \[MULTITUDES OF RHYTHMIC DISHEVELMENT\]](https://osu.ppy.sh/beatmapsets/2132945#mania/4486936)
 - Tiebreaker
-  1. **[Ludicin - Bismuth (7912) \[GBC Edit\]](https://osu.ppy.sh/beatmapsets/2180164#mania/4605171)**
+  1. **[Kara & Kurokotei - Valley Of Voices (Alumence) \[Between Life And Death \[Final\]\]](https://osu.ppy.sh/beatmapsets/2368972#mania/5111024)**
 
 ### Regular Stage
 
@@ -217,213 +218,181 @@ GBC 2025 春季周常活动由 GB 成员和多位社区成员举办。
 
 ## 赛果
 
+### 表演赛
+
+2025 年 6 月 14 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Born to win	| 6 | **7** |	**Never know lose** | [#1](https://osu.ppy.sh/community/matches/118393610) |
+
 ### QQ 赛区
 
 #### 总决赛
 
-本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=us73is)查看。
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=1yxcui&nlc=1)查看。
 
-2025 年 6 月 8 日，星期六
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| **[GB]ParasolTree** | **7** | 3 | [Crz]ChenXi | [#1](https://osu.ppy.sh/community/matches/114206454) |
-
-2025 年 6 月 9 日，星期日
+2025 年 6 月 7 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| nyasunfanboy | 6 | **7** | **[GB]ParasolTree** | [#1](https://osu.ppy.sh/community/matches/114221259) |
-| [GB]ParasolTree | 6 | **7** | **nyasunfanboy** | [#1](https://osu.ppy.sh/community/matches/114221994) |
+| **FoaMelt1** | **7** | 5 | WOEM2436 | [#1](https://osu.ppy.sh/community/matches/118293594) |
+
+2025 年 6 月 8 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **[GB]ParasolTree** | **7** | 5 | FoaMelt1 | [#1](https://osu.ppy.sh/community/matches/118335215) |
 
 #### 决赛
 
-本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=rszoi2)查看。
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=gqyy5r&nlc=1)查看。
 
-2025 年 6 月 1 日，星期六
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| **LiangFenFan** | **7** | 2 | Mantozi | [#1](https://osu.ppy.sh/community/matches/114114983) |
-| **[Crz]ChenXi** | **7** | 2 | [Crz]Xinyi2016 | [#1](https://osu.ppy.sh/community/matches/114115583) |
-
-2025 年 6 月 2 日，星期日
+2025 年 5 月 31 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]ParasolTree | 5 | **7** | **nyasunfanboy** | [#1](https://osu.ppy.sh/community/matches/114130133) |
-| **[Crz]ChenXi** | **7** | 2 | LiangFenFan | [#1](https://osu.ppy.sh/community/matches/114130947) |
+| shadiaojunshi | 16 | 22 | Idontknowwhathi | [#1](https://osu.ppy.sh/community/matches/118253483) |
+| LiangFenFan | 17 | **25** | WOEM2436 | ↑ |
+
+2025 年 6 月 1 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| FoaMelt1 | 2 | **7** | **[GB]ParasolTree** | [#1](https://osu.ppy.sh/community/matches/118264856) |
 
 #### 半决赛
 
-本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=ophavc)查看。
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=bnkor9&nlc=1)查看。
 
-2025 年 5 月 24 日，星期五
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| **-fm777-** | **6** | 3 | [GB]mmttyy233 | [#1](https://osu.ppy.sh/community/matches/114008712) |
-| **nyasunfanboy** | **6** | 2 | [Crz]ChenXi | [#1](https://osu.ppy.sh/community/matches/114008877) |
-| **[Crz]Xinyi2016** | **6** | 1 | Kirchhoff123 | [#1](https://osu.ppy.sh/community/matches/114009216) |
-
-2025 年 5 月 25 日，星期六
+2025 年 5 月 24 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **Mantozi** | **6** | 4 | [Crz]Isxl | [#1](https://osu.ppy.sh/community/matches/114019877) |
-| Para39 | 5 | **6** | **Akermo** | [#1](https://osu.ppy.sh/community/matches/114022878) |
-| **[Crz]Xinyi2016** | **6** | 2 | -fm777- | [#1](https://osu.ppy.sh/community/matches/114022963) |
+| **Idontknowwhathi** | **24** | 13 |	My Angel Plana | [#1](https://osu.ppy.sh/community/matches/118184913) |
+| Tosai_ | 14 | 19 | [Crz]IsxI | ↑ |
+| verysour | 17 | 14 | [GB]QAQlingjiu | [#1](https://osu.ppy.sh/community/matches/118185455) |
+| **WOEM2436** | **30** | 19 | [Crz]Nickname | ↑ |
 
-2025 年 5 月 26 日，星期日
+2025 年 5 月 25 日，星期日
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| Akermo | 2 | **6** | **Mantozi** | [#1](https://osu.ppy.sh/community/matches/114035693) |
-| **[GB]ParasolTree** | **6** | 5 | LiangFenFan | [#1](https://osu.ppy.sh/community/matches/114037768) |
+| **FoaMelt1** | **18** | 8 | LiangFenFan | [#1](https://osu.ppy.sh/community/matches/118196096) |
+| **[GB]ParasolTree** | **30** | 11 | shadiaojunshi | ↑ |
 
 #### 四分之一决赛
 
-本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=j9vlga)查看。
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=nw4l3l&nlc=1)查看。
 
-2025 年 5 月 14 日，星期二
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| CaptainLan | 4 | **6** | **Mizum** | [#1](https://osu.ppy.sh/community/matches/113878936) |
-
-2025 年 5 月 17 日，星期五
+2025 年 5 月 16 日，星期五
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| vanposen | 2 | **6** | **Shenzouz** | [#1](https://osu.ppy.sh/community/matches/113913250) |
-| **nyasunfanboy** | **6** | 3 | Mantozi | [#1](https://osu.ppy.sh/community/matches/113913618) |
+| lingR | 11 | 22 | eilander | [#1](https://osu.ppy.sh/community/matches/118106271) |
+| **[Crz]Nickname** | **28** | 19 | MyAngelTeru | ↑ |
 
-2025 年 5 月 18 日，星期六
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| **[Crz]ChenXi** | **6** | 3 | Para39 | [#1](https://osu.ppy.sh/community/matches/113926261) |
-| Ymir131 | 2 | **6** | **[GB]mmttyy233** | [#1](https://osu.ppy.sh/community/matches/113927008) |
-| H1mawari | 4 | **6** | **SilentParleHorn** | [#1](https://osu.ppy.sh/community/matches/113928822) |
-| nobder | 4 | **6** | **Akermo** | [#1](https://osu.ppy.sh/community/matches/113929301) |
-| **[GB]mmttyy233** | **6** | 2 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/113929476) |
-| **Kirchhoff123** | **6** | 4 | [Crz]Ha0201 | [#1](https://osu.ppy.sh/community/matches/113930294) |
-| hhde233 | 0 | **6** | **[Crz]IsxI** | [#1](https://osu.ppy.sh/community/matches/113930980) |
-
-2025 年 5 月 19 日，星期日
+2025 年 5 月 17 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **My Angel Noelle** | **6** | 3 | [GB]QAQlingjiu | [#1](https://osu.ppy.sh/community/matches/113943232) |
-| **Akermo** | **6** | 3 | My Angel Noelle | [#1](https://osu.ppy.sh/community/matches/113944797) |
-| **[Crz]IsxI** | **6** | 3 | Shenzouz | [#1](https://osu.ppy.sh/community/matches/113944992) |
-| **[GB]ParasolTree** | **6** | 1 | -fm777- | [#1](https://osu.ppy.sh/community/matches/113945115) |
-| **LiangFenFan** | **6** | 0 | [Crz]Xinyi2016 | [#1](https://osu.ppy.sh/community/matches/113946816) |
-| **Kirchhoff123** | **6** | 3 | Mizum | [#1](https://osu.ppy.sh/community/matches/113948262) |
+| ME1KO N3KO | 17 | **25** | **My Angel Plana** | [#1](https://osu.ppy.sh/community/matches/118117224) |
+| Popy | 21 | 17 | MyAngelTlipoca | ↑ |
+| WingsOfRain | 16 | FF | beiyi | [#1](https://osu.ppy.sh/community/matches/118116688) |
+| Sebastian2817 | 21 | **26** | **[Crz]IsxI** | ↑ |
+
+2025 年 5 月 18 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **FoaMelt1** | **21** | 11 | Tosai_ | [#1](https://osu.ppy.sh/community/matches/118128792) |
+| **LiangFenFan** | **23** | 15 | Idontknowwhathi | ↑ |
+| **[GB]ParasolTree** | **30** | **18** | **shadiaojunshi** | [#1](https://osu.ppy.sh/community/matches/118127286) |
+| WOEM2436 | 16.2 | 16.1 | verysour | ↑ |
 
 ### Discord 赛区
 
 #### 总决赛
 
-本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=us73is)查看。
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=1yxcui&nlc=1)查看。
 
-2025 年 6 月 8 日，星期六
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| konkawe | 3 | **7** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/114207761) |
-
-2025 年 6 月 9 日，星期日
+2025 年 6 月 7 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| --Pavin-- | 2 | **7** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/114223136) |
-| **grillroasted** | **7** | 2 | --Pavin-- | [#1](https://osu.ppy.sh/community/matches/114224021) |
+| **FoaMelt1** | **7** | 5 | WOEM2436 | [#1](https://osu.ppy.sh/community/matches/118293594) |
+
+2025 年 6 月 8 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **[GB]ParasolTree** | **7** | 5 | FoaMelt1 | [#1](https://osu.ppy.sh/community/matches/118335215) |
 
 #### 决赛
 
-本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=rszoi2)查看。
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=gqyy5r&nlc=1)查看。
 
-2025 年 6 月 1 日，星期六
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| konkawe | 4 | **7** | **--Pavin--** | [#1](https://osu.ppy.sh/community/matches/114113509) |
-| bad hd player | 4 | **7** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/114116453) |
-| Netroo | 2 | **7** | **[LS]Icetify** | [#1](https://osu.ppy.sh/community/matches/114117131) |
-
-2025 年 6 月 2 日，星期日
+2025 年 5 月 31 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **grillroasted** | **7** | 3 | [LS]Icetify | [#1](https://osu.ppy.sh/community/matches/114132651) |
+| shadiaojunshi | 16 | 22 | Idontknowwhathi | [#1](https://osu.ppy.sh/community/matches/118253483) |
+| LiangFenFan | 17 | **25** | WOEM2436 | ↑ |
+
+2025 年 6 月 1 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| FoaMelt1 | 2 | **7** | **[GB]ParasolTree** | [#1](https://osu.ppy.sh/community/matches/118264856) |
 
 #### 半决赛
 
-本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=ophavc)查看。
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=bnkor9&nlc=1)查看。
 
-2025 年 5 月 25 日，星期六
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| parponger | 2 | **6** | **[LS]bambi fnf** | [#1](https://osu.ppy.sh/community/matches/114018245) |
-| **[LS]Icetify** | **6** | 2 | PocaFanboy | [#1](https://osu.ppy.sh/community/matches/114021590) |
-| ICECAKE | 0 | **6** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/114023787) |
-| **JayLye** | **6** | 2 | MyAngelKokomi | [#1](https://osu.ppy.sh/community/matches/114024770) |
-
-2025 年 5 月 26 日，星期日
+2025 年 5 月 24 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **--Pavin--** | **6** | 1 | bad hd player | [#1](https://osu.ppy.sh/community/matches/114035359) |
-| **grillroasted** | **6** | 1 | JayLye | [#1](https://osu.ppy.sh/community/matches/114037134) |
-| **konkawe** | **6** | 1 | Netroo | [#1](https://osu.ppy.sh/community/matches/114039898) |
+| **Idontknowwhathi** | **24** | 13 |	My Angel Plana | [#1](https://osu.ppy.sh/community/matches/118184913) |
+| Tosai_ | 14 | 19 | [Crz]IsxI | ↑ |
+| verysour | 17 | 14 | [GB]QAQlingjiu | [#1](https://osu.ppy.sh/community/matches/118185455) |
+| **WOEM2436** | **30** | 19 | [Crz]Nickname | ↑ |
 
-2025 年 5 月 28 日，星期二
+2025 年 5 月 25 日，星期日
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **[LS]Icetify** | **6** | 4 | [LS]bambi fnf | [#1](https://osu.ppy.sh/community/matches/114059297) |
+| **FoaMelt1** | **18** | 8 | LiangFenFan | [#1](https://osu.ppy.sh/community/matches/118196096) |
+| **[GB]ParasolTree** | **30** | 11 | shadiaojunshi | ↑ |
 
 #### 四分之一决赛
 
-本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=j9vlga)查看。
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=nw4l3l&nlc=1)查看。
 
-2025 年 5 月 17 日，星期五
-
-| 选手 A |  |  | 选手 B | 比赛链接 |
-| --: | :-: | :-: | :-- | :-- |
-| TheOPmeme | 1 | **6** | **Chicken Sammy** | [#1](https://osu.ppy.sh/community/matches/113923236) |
-
-2025 年 5 月 18 日，星期六
+2025 年 5 月 16 日，星期五
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| ElzeFanBoy | 4 | **6** | **MyAngelKokomi** | [#1](https://osu.ppy.sh/community/matches/113924249) |
-| **oyama mahiro** | **6** | 3 | Darkhechiser | [#1](https://osu.ppy.sh/community/matches/113924923) |
-| **bad hd player** | **6** | 4 | [LS]Icetify | [#1](https://osu.ppy.sh/community/matches/113926316) |
-| **Netroo** | **6** | 1 | ICECAKE | [#1](https://osu.ppy.sh/community/matches/113931245) |
-| **--Pavin--** | **6** | 1 | parponger | [#1](https://osu.ppy.sh/community/matches/113931691) |
-| Unitori- | 1 | **6** | **PocaFanboy** | [#1](https://osu.ppy.sh/community/matches/113931950) |
-| Tonels | 4 | **6** | **Rxizuna** | [#1](https://osu.ppy.sh/community/matches/113933257) |
-| ERA Sunny | 2 | **6** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/113933244) |
-| bagjettka | 5 | **6** | **[LS]bambi fnf** | [#1](https://osu.ppy.sh/community/matches/113936461) |
+| lingR | 11 | 22 | eilander | [#1](https://osu.ppy.sh/community/matches/118106271) |
+| **[Crz]Nickname** | **28** | 19 | MyAngelTeru | ↑ |
 
-2025 年 5 月 19 日，星期日
+2025 年 5 月 17 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| Pocafangirl | 4 | **6** | **Pocafanboyfan** | [#1](https://osu.ppy.sh/community/matches/113942781) |
-| **grillroasted** | **6** | 2 | Pocafanboyfan | [#1](https://osu.ppy.sh/community/matches/113944041) |
-| **konkawe** | **6** | 0 | JayLye | [#1](https://osu.ppy.sh/community/matches/113947079) |
-| oyama mahiro | 4 | **6** | **MyAngelKokomi** | [#1](https://osu.ppy.sh/community/matches/113950712) |
-| **[LS]bambi fnf** | **6** | 1 | Chicken Sammy | [#1](https://osu.ppy.sh/community/matches/113955398) |
+| ME1KO N3KO | 17 | **25** | **My Angel Plana** | [#1](https://osu.ppy.sh/community/matches/118117224) |
+| Popy | 21 | 17 | MyAngelTlipoca | ↑ |
+| WingsOfRain | 16 | FF | beiyi | [#1](https://osu.ppy.sh/community/matches/118116688) |
+| Sebastian2817 | 21 | **26** | **[Crz]IsxI** | ↑ |
 
-2025 年 5 月 20 日，星期一
+2025 年 5 月 18 日，星期日
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| Rxizuna | 0 | **6** | **PocaFanboy** | [#1](https://osu.ppy.sh/community/matches/113960932) |
+| **FoaMelt1** | **21** | 11 | Tosai_ | [#1](https://osu.ppy.sh/community/matches/118128792) |
+| **LiangFenFan** | **23** | 15 | Idontknowwhathi | ↑ |
+| **[GB]ParasolTree** | **30** | **18** | **shadiaojunshi** | [#1](https://osu.ppy.sh/community/matches/118127286) |
+| WOEM2436 | 16.2 | 16.1 | verysour | ↑ |
 
 ### 常规赛
 
