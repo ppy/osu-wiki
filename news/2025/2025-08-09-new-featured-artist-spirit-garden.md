@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: SPIRIT GARDEN *"
-date: 2025-08-09 14:00:00 +0000
+date: 2025-08-09 16:00:00 +0000
 ---
 
 You learned about artcore from rhythm games, and our latest Featured Artist is here to offer more.
