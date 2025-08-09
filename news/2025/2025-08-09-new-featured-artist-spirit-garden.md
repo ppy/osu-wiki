@@ -46,6 +46,6 @@ Experience [**SPIRIT GARDEN \***'s first Ranked beatmap](https://osu.ppy.sh/beat
 
 While this news post has all of **SPIRIT GARDEN \***'s available music already, you can still visit [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/489) to explore more about the artist. We also know osu! players like clicking things, and surely [links](https://osu.ppy.sh/beatmaps/artists/489) are no exception.
 
-
+Stay tuned for something absolutely unexpected next weekend. (Spoiler: it's a new Featured Artist announcement.)
 
 —pishifat
