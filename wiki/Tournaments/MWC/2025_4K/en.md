@@ -170,7 +170,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier pool contains 8 maps, all of which will use Free Mod rules. There will be no tiebreakers for this stage.
+2. The Qualifier pool contains 7 maps, all of which will use Free Mod rules. There will be no tiebreakers for this stage.
 3. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 4. The mappool is to be played according to the order listed on this page.
    - Teams may skip playing any beatmap on their second run.
