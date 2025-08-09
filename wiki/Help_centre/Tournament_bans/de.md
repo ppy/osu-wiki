@@ -8,13 +8,13 @@ Turniersperren werden sehr selten alleine ausgehändigt, aber in der Regel unter
 
 Durch die hohen Anforderungen bei Turnierspielen werden Turniersperren sehr ernst genommen und sind nicht Teil der Art von Nachsicht, die eine Accounteinschränkung üblicherweise erhält.
 
-## Was führt dazu, dass jemand eine zeitige Turniersperre erhält? {id=why-temporary}
+## Was führt dazu, dass jemand eine zeitlich begrenzte Turniersperre erhält? {id=why-temporary}
 
 Jeder schwerwiegende Verstoß der [Community-Regeln](/wiki/Rules), der während eines [offiziell unterstützten Turniers](/wiki/Tournaments/Official_support) stattfindet, wird wahrscheinlich eine Turniersperre verursachen, auch wenn es normalerweise nur als einem kleineren Verstoß außerhalb der kompetitiven Spielumgebung gegolten hätte.
 
-Solches Verhalten beinhaltet als Beispiel aus der Praxis das Zeichnen von Hasssymbolen/Beleidigungen (z.b. Hakenkreuze) durch die Verwendung des Cursor-Rauchs in gestreamten Matches.
+Solches Verhalten beinhaltet als Beispiel aus der Praxis das Zeichnen von Hasssymbolen/Beleidigungen (z. B. Hakenkreuze) durch die Verwendung des Cursor-Rauchs in gestreamten Matches.
 
-Alle Nutzer, die nach einer Einschränkung im Rahmen der üblichen Beschwerdebedingungen zum Spiel zurückkehren, unterliegen auch [dem minimalen zeitigen Turniersperre von 1 Jahr](/wiki/Help_centre/Account_restrictions#reasons), welches anhand des Ermessens des [Account-Support-Teams](/wiki/People/Account_support_team) länger sein kann.
+Alle Nutzer, die nach einer Einschränkung im Rahmen der üblichen Beschwerdebedingungen zum Spiel zurückkehren, unterliegen auch [der temporären Turniersperre mit einer Mindestdauer von 1 Jahr](/wiki/Help_centre/Account_restrictions#reasons). Das [Account-Support-Team](/wiki/People/Account_support_team) behält sich das Recht vor, Turniersperren in eigenem Ermessen zu verlängern.
 
 ## Was führt dazu, dass jemand eine unbefristete Turniersperre erhält? {id=why-permanent}
 
@@ -59,5 +59,5 @@ Informationen über den Status deiner Turniersperre können Turnierveranstaltern
 | Zurückkehren im Rahmen des üblichen Beschwerdeverfahrens | 1 bis 2 Jahre | Kann nach Ermessen des Account-Support-Teams länger sein |
 | Multi-Accounting oder Teilen des Accounts während eines offiziell unterstützten Turniers | Unbefristet | Wird auch zu einer Einschränkung führen |
 | Benutzung von Drittanbieter-Tools oder andere Methoden zum Schummeln während eines offiziell unterstützten Turniers | Unbefristet | Wird auch zu einer Einschränkung führen |
-| Verwendung privater/vertraulicher Informationen zum Turnier, um einen unfairen Vorteil zu erhalten | Unbefristet | Kann auch zu einer Einschränkung führen |
+| Verwendung privater/vertraulicher Informationen zum Turnier, um einen unfairen Vorteil zu erlangen | Unbefristet | Kann auch zu einer Einschränkung führen |
 | Schwerwiegender Missbrauch gegenüber oder Belästigung von Turnierveranstaltern/-teilnehmern | Unbefristet | Kann auch zu einer Einschränkung führen |
