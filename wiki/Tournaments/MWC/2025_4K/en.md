@@ -107,7 +107,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Mappools
 
-**[Download the mappack here (51 MB)](https://packs.ppy.sh/P287%20-%20osu!catch%20World%20Cup%202025%3A%20Qualifiers.zip)**\
+**[Download the mappack here (51 MB)](https://packs.ppy.sh/P294%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Qualifiers.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2536590856?t=0h4m41s)
 
 ### Qualifiers
