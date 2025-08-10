@@ -70,7 +70,7 @@ The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=ID }:: | **Indonesia** | **[Reyi](https://osu.ppy.sh/users/13385865)**, [\[Albert\]](https://osu.ppy.sh/users/12689667), [rezored](https://osu.ppy.sh/users/18309106), [Fier](https://osu.ppy.sh/users/21446926), [1byte](https://osu.ppy.sh/users/25865730), [\_yea](https://osu.ppy.sh/users/20834055) |
 | ::{ flag=IT }:: | **Italy** | **[ERA Veryi](https://osu.ppy.sh/users/13878539)**, [angela202133](https://osu.ppy.sh/users/27540621), [\[SPNG\] Sim0](https://osu.ppy.sh/users/3262821), [Nessunop](https://osu.ppy.sh/users/14374361), [Oldgigios](https://osu.ppy.sh/users/23870404), [ricetoasty](https://osu.ppy.sh/users/15339833) |
 | ::{ flag=JP }:: | **Japan** | **[shir0kuma](https://osu.ppy.sh/users/31755778)**, [Nikorofanboy](https://osu.ppy.sh/users/34344384), [Na2303](https://osu.ppy.sh/users/31146692), [ICECAKE](https://osu.ppy.sh/users/16100800), [Jinkiii](https://osu.ppy.sh/users/22440246), [Suzuran\_\_](https://osu.ppy.sh/users/16663490) |
-| ::{ flag=LV }:: | **Latvia** | **[Mantinsh](https://osu.ppy.sh/users/10186414)**, [treeidk](https://osu.ppy.sh/users/18887843), [miksstter](https://osu.ppy.sh/users/26205879), [Mantinsh](https://osu.ppy.sh/users/10186414), [Karums](https://osu.ppy.sh/users/34774937) |
+| ::{ flag=LV }:: | **Latvia** | **[Mantinsh](https://osu.ppy.sh/users/10186414)**, [treeidk](https://osu.ppy.sh/users/18887843), [miksstter](https://osu.ppy.sh/users/26205879), [Karums](https://osu.ppy.sh/users/34774937) |
 | ::{ flag=LT }:: | **Lithuania** | **[Kornjii](https://osu.ppy.sh/users/17147440)**, [Calamits](https://osu.ppy.sh/users/22040966), [ketiph](https://osu.ppy.sh/users/18483296), [PaulIsGaming](https://osu.ppy.sh/users/26404465), [sc1rx](https://osu.ppy.sh/users/16378810), [Varunaxx](https://osu.ppy.sh/users/22991578) |
 | ::{ flag=MY }:: | **Malaysia** | **[\[-Leon-\]](https://osu.ppy.sh/users/13382147)**, [JayLye](https://osu.ppy.sh/users/14892447), [Tosai\_](https://osu.ppy.sh/users/3760209), [YeonHong187](https://osu.ppy.sh/users/10236326), [Aepq](https://osu.ppy.sh/users/24446642), [\[MY\] VASD](https://osu.ppy.sh/users/29929002) |
 | ::{ flag=MX }:: | **Mexico** | **[happergamer](https://osu.ppy.sh/users/15513319)**, [My Angel Brandy](https://osu.ppy.sh/users/26364539), [z8yhgx](https://osu.ppy.sh/users/36184065), [alison](https://osu.ppy.sh/users/25005439), [NeroWye](https://osu.ppy.sh/users/35237151), [\[ATL\]Zemiku](https://osu.ppy.sh/users/23409211) |
@@ -100,9 +100,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Links
 
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1sqm1WCIIYBDSHYoSc99wjf8KHZJxpscccKFk-_RM_C0?rm=minimal)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2105536)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/51)
+
+## Mappools
+
+**[Download the mappack here (51 MB)](https://packs.ppy.sh/P294%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Qualifiers.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2536590856?t=0h4m41s)
+
+### Qualifiers
+
+1. [d.j.xaneiro - ichi-yaku feat. flower (LeiN-) \[Stage 1: Decryption\]](https://osu.ppy.sh/beatmapsets/2417605#mania/5256340)
+2. [Camellia - FM Synthesis Experiment (Cut Ver.) (elexire) \[Stage 2: Procedure\]](https://osu.ppy.sh/beatmapsets/2417719#mania/5256626)
+3. [Tanya Degurechaff (CV: Yuuki Aoi) - Los! Los! Los! (MyZterioN-) \[Stage 3: Confrontation\]](https://osu.ppy.sh/beatmapsets/2417716#mania/5256623)
+4. [DJ Sharpnel - FUTURE DOMINATORS (Cut Ver.) (-mint-) \[Stage 4: Deus Ex Machina\]](https://osu.ppy.sh/beatmapsets/2417731#mania/5256644)
+5. [Halv - Susano Habakiri (V1do-) \[Stage 5: Skirmish\]](https://osu.ppy.sh/beatmapsets/2417727#mania/5256639)
+6. [katagiri - Heisei Saikyou no Curry Ya (Cut Ver.) (11Bit) \[Stage 6: Hunger\]](https://osu.ppy.sh/beatmapsets/2417728#mania/5256641)
+7. [Creepy Nuts - Otonoke (Disguise) \[Stage 7: Supernatural\]](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642)
 
 ## Ruleset
 
