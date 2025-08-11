@@ -37,7 +37,7 @@ tags:
 | 主办 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) |
 | 管理 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [mafumafu](https://osu.ppy.sh/users/3076909) |
 | 设计 | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
-| 评委 | ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=CN }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |
+| 评委 | ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |
 | 统计 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## 链接
