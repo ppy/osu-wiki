@@ -320,79 +320,90 @@ GBC 2025 春季周常活动由 GB 成员和多位社区成员举办。
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **FoaMelt1** | **7** | 5 | WOEM2436 | [#1](https://osu.ppy.sh/community/matches/118293594) |
+| **DawnX** | **7** | 3 | PeachMarrow | [#1](https://osu.ppy.sh/community/matches/118319911) |
 
-2025 年 6 月 8 日，星期日
+2025 年 6 月 14 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **[GB]ParasolTree** | **7** | 5 | FoaMelt1 | [#1](https://osu.ppy.sh/community/matches/118335215) |
+| **myucchii** | **7** | 1 | DawnX | [#1](https://osu.ppy.sh/community/matches/118388867) |
 
 #### 决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=gqyy5r&nlc=1)查看。
 
-2025 年 5 月 31 日，星期六
+2025 年 5 月 30 日，星期五
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| shadiaojunshi | 16 | 22 | Idontknowwhathi | [#1](https://osu.ppy.sh/community/matches/118253483) |
-| LiangFenFan | 17 | **25** | WOEM2436 | ↑ |
+| Reyi | 22 | 18 | koshepen | [#1](https://osu.ppy.sh/community/matches/118244681) |
+| **PeachMarrow** | **24** | 16 | JayLye | ↑ |
 
 2025 年 6 月 1 日，星期日
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| FoaMelt1 | 2 | **7** | **[GB]ParasolTree** | [#1](https://osu.ppy.sh/community/matches/118264856) |
+| DawnX | 1 | **7** | **myucchii** | [#1](https://osu.ppy.sh/community/matches/118261482) |
 
 #### 半决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=bnkor9&nlc=1)查看。
 
-2025 年 5 月 24 日，星期六
+2025 年 5 月 23 日，星期五
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **Idontknowwhathi** | **24** | 13 |	My Angel Plana | [#1](https://osu.ppy.sh/community/matches/118184913) |
-| Tosai_ | 14 | 19 | [Crz]IsxI | ↑ |
-| verysour | 17 | 14 | [GB]QAQlingjiu | [#1](https://osu.ppy.sh/community/matches/118185455) |
-| **WOEM2436** | **30** | 19 | [Crz]Nickname | ↑ |
+| floweful | 23 | 16 |	ime | [#1](https://osu.ppy.sh/community/matches/118177215) |
+| **koshepen** | **28** | 13 | Znow | ↑ |
 
 2025 年 5 月 25 日，星期日
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **FoaMelt1** | **18** | 8 | LiangFenFan | [#1](https://osu.ppy.sh/community/matches/118196096) |
-| **[GB]ParasolTree** | **30** | 11 | shadiaojunshi | ↑ |
+| **DawnX** | **21** | 7 | PeachMarrow | [#1](https://osu.ppy.sh/community/matches/118192355) |
+| **myucchii** | **20** | 12 | Reyi | ↑ |
+| yz1155 | 19 | **22** | **JayLye** | [#1](https://osu.ppy.sh/community/matches/118195461) |
+| 4kenn | 21 | 18 | MatchaLatte- | ↑ |
 
 #### 四分之一决赛
 
 本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU?tab=nw4l3l&nlc=1)查看。
 
+2025 年 5 月 13 日，星期二
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Big noob lol | 4 | **6** | **Znow** | [#1](https://osu.ppy.sh/community/matches/118080373) |
+
 2025 年 5 月 16 日，星期五
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| lingR | 11 | 22 | eilander | [#1](https://osu.ppy.sh/community/matches/118106271) |
-| **[Crz]Nickname** | **28** | 19 | MyAngelTeru | ↑ |
+| Projiensux | 1 | **6** | **JayLye** | [#1](https://osu.ppy.sh/community/matches/118105754) |
+| **MiniEgg_23** | **6** | -1 | Anterex | [弃赛](https://osu.ppy.sh/community/matches/118111073) |
+| Fubuki fan | -1 | **6** | **Naito Mare** | [弃赛](https://osu.ppy.sh/community/matches/118111656) |
 
 2025 年 5 月 17 日，星期六
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| ME1KO N3KO | 17 | **25** | **My Angel Plana** | [#1](https://osu.ppy.sh/community/matches/118117224) |
-| Popy | 21 | 17 | MyAngelTlipoca | ↑ |
-| WingsOfRain | 16 | FF | beiyi | [#1](https://osu.ppy.sh/community/matches/118116688) |
-| Sebastian2817 | 21 | **26** | **[Crz]IsxI** | ↑ |
+| Achino | -1 | **6** | **Plana_** | [弃赛](https://osu.ppy.sh/community/matches/118115496) |
+| **MatchaLatte-** | **6** | 5 | [LS]Vixile | [#1](https://osu.ppy.sh/community/matches/118118785) |
+| Hawkfrost | 15 | **25** | **ime** | [#1](https://osu.ppy.sh/community/matches/118118229) |
+| Unitori- | 18 | 22 | Ancuw | ↑ |
 
 2025 年 5 月 18 日，星期日
 
 | 选手 A |  |  | 选手 B | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| **FoaMelt1** | **21** | 11 | Tosai_ | [#1](https://osu.ppy.sh/community/matches/118128792) |
-| **LiangFenFan** | **23** | 15 | Idontknowwhathi | ↑ |
-| **[GB]ParasolTree** | **30** | **18** | **shadiaojunshi** | [#1](https://osu.ppy.sh/community/matches/118127286) |
-| WOEM2436 | 16.2 | 16.1 | verysour | ↑ |
+| **JayLye** | **6** | 0 | MiniEgg_23 | [#1](https://osu.ppy.sh/community/matches/118128558) |
+| **MatchaLatte-** | **6** | 2 | Naito Mare | [#1](https://osu.ppy.sh/community/matches/118130809) |
+
+2025 年 5 月 19 日，星期一
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Znow** | **6** | 3 | Plana_ | [#1](https://osu.ppy.sh/community/matches/118136258) |
 
 ### 常规赛
 
