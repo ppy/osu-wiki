@@ -44,7 +44,7 @@ The **GB Cup 2025 Spring** (***GBC 2025 Spring***) is an osu!mania 4K point-base
 | *17th place – 24th place* | 20 RMB |
 | *Full attendance prize (include playoff players)* | KanonBot profile badge (all groups), 10 RMB (Group B), 12.4 RMB (Group A), 14,8 RMB (Group S), 17.2 RMB (Group EX) |
 
-![GBC 2025 Spring QQ division winner badge](img/GBC-2025-Spring-badge-QQ-1st.jpg) 
+![GBC 2025 Spring QQ division winner badge](img/GBC-2025-Spring-badge-QQ-1st.png) 
 
 ### Discord division
 
