@@ -4,6 +4,7 @@ tags:
   - GBC2025
   - GBC 2025
   - GBC 2025 Spring
+  - GBC2025Spring
 ---
 
 # GBC 2025 春季赛
@@ -80,7 +81,7 @@ GBC 2025 春季周常活动由 GB 成员和多位社区成员举办。
 - [主表格](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU)
 - [报名表](https://wj.qq.com/s2/18428427/5754/)
 - [中文论坛帖](https://osu.ppy.sh/community/forums/topics/2045806?n=1)
-- [英文论坛帖]https://osu.ppy.sh/community/forums/topics/2045806?n=1)
+- [英文论坛帖](https://osu.ppy.sh/community/forums/topics/2045815?n=1)
 - 直播间
   - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
