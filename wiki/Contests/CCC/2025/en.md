@@ -6,7 +6,7 @@ tags:
 
 # Chinese Charting Contest 2025
 
-![CCC2025 banner](img/banner_2025.png)
+![CCC2025 banner](img/banner.png)
 
 The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping contest for the Chinese players. It was the second installment of the Chinese Charting Contest.
 
@@ -22,22 +22,22 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 ## Prizes
 
 | Placing | Prize(s) |
-| ------- | -------- |
+| -- | -- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner | 400 CNY, profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place | 200 CNY |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place | 100 CNY |
 | Participation Award (4th-5th) | 20 CNY |
 
-![CCC2025 badge](img/winner_badge_2025.png)
+![CCC2025 badge](img/winner_badge.png)
 
 ## Organisation
 
 | Position | Member(s) |
-| :------- | :-------- |
+| :-- | :-- |
 | Organiser | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) |
 | Manager | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [mafumafu](https://osu.ppy.sh/users/3076909) |
 | Designer | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
-| Judge | ::{ flag=MY }:: [AWMRone](https://osu.ppy.sh/users/10351684), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5374513), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534), ::{ flag=KR }:: [taba2](https://osu.ppy.sh/users/7850508)|
+| Judge | ::{ flag=MY }:: [AWMRone](https://osu.ppy.sh/users/10351684), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5374513), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534), ::{ flag=KR }:: [taba2](https://osu.ppy.sh/users/7850508) |
 | Statistician | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links
@@ -50,22 +50,22 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 ## Song List
 
 | Song | Length | BPM |
-| :--- | :----- | :-- |
+| :-- | :-- | :-- |
 | Yuta Imai - #CMFLG | 02:04 | 155 |
 | Tsukasa Ohmae - Design | 02:33 | 133 |
 | ariiol & PIKASONIC - 8BLUE | 02:16 | 110 |
 | Ik4sumi - Scamper | 03:34 | 128 |
 | lapix - Rosa azuL (Extended Mix) | 03:37 | 155 |
-| kioik - Altitude |  02:27 | 188 |
+| kioik - Altitude | 02:27 | 188 |
 
 ## Results
 
 | Place | Mapper(s) |
-| :---- | :----- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner |::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575)|
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place |::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588)|
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place |::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843)|
-| Participation Award (4th-5th) |::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894)|
+| :-- | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place | ::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843) |
+| Participation Award (4th-5th) | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894) |
 
 ## Ruleseta
 
@@ -77,7 +77,7 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 - **Submissions must be in the `.osz` format.**
 - **The osu! client must be able to load and read your submission.**
 - **Submission must be `4K`, `5K`, `6K` or `7K`.** Other key modes are not considered in this contest (including n+1 playstyle).
-- **Beatmaps' mapping procress should be based on [Ranking Criteria.](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21mania)** There are no requirements to follow RC compulsory, but the beatmap needs to be used Ranking Criteria as a fundamental reference, or that will effect your final score.
+- **Beatmaps' mapping procress should be based on [Ranking Criteria.](/wiki/Ranking_criteria/osu!mania)** There are no requirements to follow RC compulsory, but the beatmap needs to be used Ranking Criteria as a fundamental reference, or that will effect your final score.
 - **Videos, Skins, Storyboards and Hitsounds are NOT allowed.**
 - **Title, Artist, MP3, Source, Tags, Background and Preview Point must NOT be modified.**
 - **Your submission must be solely made by you.** Collaborations are not allowed for this contest!

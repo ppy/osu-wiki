@@ -6,7 +6,7 @@ tags:
 
 # Chinese Charting Contest 2025
 
-![CCC2025 banner](img/banner_2025.png)
+![CCC2025 banner](img/banner.png)
 
 **Chinese Charting Contest 2025** (***CCC2025***) 是一个面向华人玩家参与的osu!mania写谱比赛。这次是 Chinese Charting Contest 赛事的第二次比赛。
 
@@ -22,22 +22,22 @@ tags:
 ## 奖项
 
 | 名次 | 奖项 |
-| ------- | -------- |
+| -- | -- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | 400元, 徽章 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | 200元 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | 100元 |
 | 参与奖（第4-第5） | 20元 |
 
-![CCC2025 badge](img/winner_badge_2025.png)
+![CCC2025 badge](img/winner_badge.png)
 
 ## 组委会
 
 | 职位 | 成员 |
-| :-- | :-------- |
+| :-- | :-- |
 | 主办 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) |
 | 管理 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [mafumafu](https://osu.ppy.sh/users/3076909) |
 | 设计 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
-| 评委 | ::{ flag=MY }:: [AWMRone](https://osu.ppy.sh/users/10351684), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5374513), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534), ::{ flag=KR }:: [taba2](https://osu.ppy.sh/users/7850508)|
+| 评委 | ::{ flag=MY }:: [AWMRone](https://osu.ppy.sh/users/10351684), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5374513), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534), ::{ flag=KR }:: [taba2](https://osu.ppy.sh/users/7850508) |
 | 统计 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## 其他链接
@@ -50,13 +50,13 @@ tags:
 ## 歌曲列表
 
 | 歌曲 | 长度 | BPM |
-| ---- | ------ | --- |
+| -- | -- | -- |
 | Yuta Imai - #CMFLG | 02:04 | 155 |
 | Tsukasa Ohmae - Design | 02:33 | 133 |
 | ariiol & PIKASONIC - 8BLUE | 02:16 | 110 |
 | Ik4sumi - Scamper | 03:34 | 128 |
 | lapix - Rosa azuL (Extended Mix) | 03:37 | 155 |
-| kioik - Altitude |  02:27 | 188 |
+| kioik - Altitude | 02:27 | 188 |
 
 ## 规章制度
 
@@ -68,7 +68,7 @@ tags:
 - **提交的文件必须是 `.osz` 格式。**
 - **osu!客户端必须能够加载并读取您提交的内容。**
 - **提交的谱面必须是 `4K`, `5K`, `6K` 或 `7K`.** 其他键位模式在本比赛中不被考虑（包括n+1模式）。
-- **写谱的过程需要以 [Ranking Criteria](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21mania) 为基准。**虽然没有要求必须遵守RC，但谱面需要以RC作为基本参考，否则会影响你的最终成绩。
+- **写谱的过程需要以 [Ranking Criteria](/wiki/Ranking_criteria/osu!mania) 为基准。**虽然没有要求必须遵守RC，但谱面需要以RC作为基本参考，否则会影响你的最终成绩。
 - **谱面文件中的视频、皮肤、故事板和音效不被允许自定义。**
 - **谱面信息中的标题、艺术家、歌曲文件、标签、来源、背景图片和预览点不允许被修改。**
 - **你提交的谱面必须完全由您自己完成。** 此次比赛不允许合作模式。
@@ -78,6 +78,7 @@ tags:
 ### 评审标准
 
 ---
+
 对于每一个符合条件的提交难度，评委会将根据以下标准进行评分。
 
 - **音乐表现 (30分):** 谱面如何通过整体的层次、模式和结构来表达歌曲，从而相对恰当地诠释歌曲的乐器、旋律、声音、节奏等。
@@ -92,8 +93,8 @@ tags:
 ## 结果
 
 | 名次 | 谱师 |
-| :---- | :----- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 |::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575)|
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 |::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588)|
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 |::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843)|
-| 参与奖（第4-第5） |::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894)|
+| :- | :- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | ::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843) |
+| 参与奖（第4-第5） | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894) |
