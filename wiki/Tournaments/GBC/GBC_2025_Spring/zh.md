@@ -44,7 +44,7 @@ tags:
 | *季后赛第十七至二十四名* | 20 RMB |
 | *常规赛全勤奖（包括季后赛选手）* | 猫猫定制勋章，10 RMB（B组），12.4 RMB（A组），14.8 RMB（S组），17.2 RMB（EX组） |
 
-![GBC 2025 春季赛 QQ 赛区冠军缎带图片](img/GBC-2025-Spring-badge-QQ-1st.jpg) 
+![GBC 2025 春季赛 QQ 赛区冠军缎带图片](img/GBC-2025-Spring-badge-QQ-1st.png) 
 
 ### Discord 赛区
 
