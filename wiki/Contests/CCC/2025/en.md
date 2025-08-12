@@ -13,7 +13,7 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 ## Contest schedule
 
 | Event | Timestamp (UTC+8) |
-| :-- | :-- |
+| --: | :-- |
 | Contest announcement | 2025/06/05 |
 | Submission phase | 2025/06/06 - 2025/07/06 |
 | Judging phase | 2025/07/07 - 2025/08/07 |
@@ -22,7 +22,7 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 ## Prizes
 
 | Placing | Prize(s) |
-| -- | -- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner | 400 CNY, profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place | 200 CNY |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place | 100 CNY |
@@ -61,7 +61,7 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 ## Results
 
 | Place | Mapper(s) |
-| :-- | :-- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place | ::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843) |

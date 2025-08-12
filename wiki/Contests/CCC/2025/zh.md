@@ -22,7 +22,7 @@ tags:
 ## 奖项
 
 | 名次 | 奖项 |
-| -- | -- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | 400元, 徽章 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | 200元 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | 100元 |
@@ -50,13 +50,22 @@ tags:
 ## 歌曲列表
 
 | 歌曲 | 长度 | BPM |
-| -- | -- | -- |
+| :-- | :-- | :-- |
 | Yuta Imai - #CMFLG | 02:04 | 155 |
 | Tsukasa Ohmae - Design | 02:33 | 133 |
 | ariiol & PIKASONIC - 8BLUE | 02:16 | 110 |
 | Ik4sumi - Scamper | 03:34 | 128 |
 | lapix - Rosa azuL (Extended Mix) | 03:37 | 155 |
 | kioik - Altitude | 02:27 | 188 |
+
+## 结果
+
+| 名次 | 谱师 |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | ::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843) |
+| 参与奖（第4-第5） | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894) |
 
 ## 规章制度
 
@@ -77,8 +86,6 @@ tags:
 
 ### 评审标准
 
----
-
 对于每一个符合条件的提交难度，评委会将根据以下标准进行评分。
 
 - **音乐表现 (30分):** 谱面如何通过整体的层次、模式和结构来表达歌曲，从而相对恰当地诠释歌曲的乐器、旋律、声音、节奏等。
@@ -88,13 +95,4 @@ tags:
 
 评委评分将会作标准化处理，更多可以查看 Mappers' Guild 官网的公式：*judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation*
 
-再进行评审环节之前，所有的谱面会被匿名化处理。
-
-## 结果
-
-| 名次 | 谱师 |
-| :- | :- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | ::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843) |
-| 参与奖（第4-第5） | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894) |
+在进行评审环节之前，所有的谱面会被匿名化处理。
