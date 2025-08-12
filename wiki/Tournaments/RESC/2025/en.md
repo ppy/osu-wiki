@@ -46,8 +46,8 @@ tags:
 | Lead organisers | ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110) |
 | Mappool quality assurance | ::{ flag=DE }:: [-Haruki](https://osu.ppy.sh/users/3673149), ::{ flag=CA }:: [darkos](https://osu.ppy.sh/users/5969271), ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337), ::{ flag=RU }:: [girltekk](https://osu.ppy.sh/users/6248691), ::{ flag=RO }:: [Luminous Sky](https://osu.ppy.sh/users/4429612), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110), ::{ flag=FR }:: [Yumerios](https://osu.ppy.sh/users/11681430) |
 | Sound team | ::{ flag=US }:: [eili](https://osu.ppy.sh/users/37455438), ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078), ::{ flag=US }:: [Xyris](https://osu.ppy.sh/users/11246193) |
-| Lead GFX (2d) | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
-| Lead GFX (3d) | ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325) |
+| Lead GFX (2D) | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Lead GFX (3D) | ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325) |
 | Social media management | ::{ flag=VN }:: [BCraftMG](https://osu.ppy.sh/users/13456818) |
 | Storyboarders | ::{ flag=US }:: [binarie](https://osu.ppy.sh/users/15632854), ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334), ::{ flag=TH }:: [Zuika](https://osu.ppy.sh/users/10222009) |
 | Animation designers | ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=US }:: [Secondoverthree](https://osu.ppy.sh/users/13432062), ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952), ::{ flag=MY }:: [The Chronoa Atelier](https://chronoaatelier.carrd.co/), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=HK }:: [Transendium](https://transendium.carrd.co) |
