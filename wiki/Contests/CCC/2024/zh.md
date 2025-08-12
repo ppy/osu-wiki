@@ -95,4 +95,4 @@ tags:
 
 评委评分将会作标准化处理，更多可以查看 Mappers' Guild 官网的公式：*judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation*
 
-再进行评审环节之前，所有的谱面会被匿名化处理。
+在进行评审环节之前，所有的谱面会被匿名化处理。
