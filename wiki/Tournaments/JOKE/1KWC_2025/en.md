@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Zekk - Quantum L3ap (hz404) [Rice]](https://osu.ppy.sh/beatmapsets/2197807#mania/4650937)
 - New
   1. [Andromedik - Don't Say (osu! edit) (Jaye)](https://osu.ppy.sh/beatmapsets/2361967#mania/5135379)
-  2. [Trina Lydia - Late-Night Rocket Ride (Jaye) [Distance]	](https://osu.ppy.sh/beatmapsets/2377074#mania/5135381)
+  2. [Trina Lydia - Late-Night Rocket Ride (Jaye) [Distance]](https://osu.ppy.sh/beatmapsets/2377074#mania/5135381)
 - Tiebreaker
   1. **[Cansol - Train of Thought (Jaye)](https://osu.ppy.sh/beatmapsets/2361968#mania/5135387)**
 
@@ -360,8 +360,8 @@ Seeding results are calculated based on rank sum across the 6 qualifier stages, 
 6. If a map ends in a draw: the beatmap will be replayed. If the map ends in a draw: Picker's Privilege - the team that picked the map will be awarded 1 point, and the match will proceed as normal. In the unlikely event that a draw happens on the Tiebreaker map, the map will be replayed.
    - Teams cannot win a match via the Picker's Privilege rule. In cases where this would occur the map will be replayed until a winner is decided.
 7. If a player disconnects: they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and is guaranteed to take place if a disconnect occurs within the first 30 seconds of a map).
-9. The usual osu! rules apply; therefore, macroing and the likes is strictly prohibited. If you want to be 100% safe, please just use one key for input. If you want to try something unique out for yourself: don't hesitate to ask staff if your play method is allowed.
-10. Please be kind to other players and members of staff; referees have the ability to issue punishments to players or teams based on the severity of rudeness/disruptiveness.
+8. The usual osu! rules apply; therefore, macroing and the likes is strictly prohibited. If you want to be 100% safe, please just use one key for input. If you want to try something unique out for yourself: don't hesitate to ask staff if your play method is allowed.
+9. Please be kind to other players and members of staff; referees have the ability to issue punishments to players or teams based on the severity of rudeness/disruptiveness.
 
 ### Registrations
 
