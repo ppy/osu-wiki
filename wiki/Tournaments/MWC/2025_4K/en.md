@@ -199,6 +199,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
    - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
 9. The top 32 seeded teams will advance to the Round of 32.
 
+The weights for the Qualifiers are as follows:
+
+|  | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | Stage 7 |
+| --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Weight** | 1/6 | 1/8 | 1/8 | 1/8 | 1/8 | 1/6 | 1/6 |
+
 ### Stage instructions
 
 1. Following the Qualifiers, a double-elimination bracket will be played — for teams in the winners bracket, the winning country continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
