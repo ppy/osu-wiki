@@ -273,35 +273,35 @@ This competition has come to an end and resulted in the following podium:
 Friday, 17 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | **\[LS\]Ham** ::{ flag=US }:: | **6** | 0 | ::{ flag=BR }:: SillyFangirl | *win by default* |
 
 Saturday, 18 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Brasil ::{ flag=BR }:: | 2 | **7** | ::{ flag=US }:: **\[LS\]Ham** | [#1](https://osu.ppy.sh/community/matches/95397354) |
+| --: | :-: | :-: | :-- | :-: |
+| Brasil ::{ flag=BR }:: | 2 | **7** | ::{ flag=US }:: **\[LS\]Ham** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/95397354) |
 
 Sunday, 19 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Maimaing ::{ flag=JP }:: | 2 | **7** | ::{ flag=US }:: **\[LS\]Ham** | [#1](https://osu.ppy.sh/community/matches/95413719) |
-| **\[LS\]Ham** ::{ flag=US }:: | **7** | 6 | ::{ flag=JP }:: Maimaing | [#1](https://osu.ppy.sh/community/matches/95415599) |
+| --: | :-: | :-: | :-- | :-: |
+| Maimaing ::{ flag=JP }:: | 2 | **7** | ::{ flag=US }:: **\[LS\]Ham** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/95413719) |
+| **\[LS\]Ham** ::{ flag=US }:: | **7** | 6 | ::{ flag=JP }:: Maimaing | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/95415599) |
 
 ### Finals
 
 Saturday, 11 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Adri ::{ flag=FR }:: | 0 | **6** | ::{ flag=BR }:: **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/95101982) |
-| **\[LS\]Ham** ::{ flag=US }:: | **6** | 2 | ::{ flag=DE }:: \[LS\]Punish | [#1](https://osu.ppy.sh/community/matches/95113226) |
+| --: | :-: | :-: | :-- | :-: |
+| Adri ::{ flag=FR }:: | 0 | **6** | ::{ flag=BR }:: **SillyFangirl** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/95101982) |
+| **\[LS\]Ham** ::{ flag=US }:: | **6** | 2 | ::{ flag=DE }:: \[LS\]Punish | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/95113226) |
 
 Sunday, 12 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | Brasil ::{ flag=BR }:: | 0 | **6** | ::{ flag=JP }:: **Maimaing** | *win by default* |
 
 ### Semifinals
@@ -309,109 +309,109 @@ Sunday, 12 December 2021:
 Saturday, 4 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **SillyFangirl** ::{ flag=BR }:: | **6** | 0 | ::{ flag=BR }:: Foxeru | [#1](https://osu.ppy.sh/community/matches/94785648) |
+| --: | :-: | :-: | :-- | :-: |
+| **SillyFangirl** ::{ flag=BR }:: | **6** | 0 | ::{ flag=BR }:: Foxeru | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94785648) |
 | ERA Leon ::{ flag=MY }:: | 0 | **6** | ::{ flag=US }:: **-Sparky-** | *win by default* |
-| **\[LS\]Punish** ::{ flag=DE }:: | **6** | 0 | ::{ flag=BE }:: spamblock | [#1](https://osu.ppy.sh/community/matches/94817808) |
-| **Delta386** ::{ flag=US }:: | **6** | 5 | ::{ flag=GB }:: Teezel | [#1](https://osu.ppy.sh/community/matches/94831117) |
+| **\[LS\]Punish** ::{ flag=DE }:: | **6** | 0 | ::{ flag=BE }:: spamblock | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94817808) |
+| **Delta386** ::{ flag=US }:: | **6** | 5 | ::{ flag=GB }:: Teezel | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94831117) |
 
 Sunday, 5 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Brasil** ::{ flag=BR }:: | **6** | 2 | ::{ flag=FR }:: Adri | [#1](https://osu.ppy.sh/community/matches/94863814) |
-| Delta386 ::{ flag=US }:: | 1 | **6** | ::{ flag=BR }:: **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/94868606) |
-| -Sparky- ::{ flag=US }:: | 0 | **6** | ::{ flag=DE }:: **\[LS\]Punish** | [#1](https://osu.ppy.sh/community/matches/94871572) |
+| --: | :-: | :-: | :-- | :-: |
+| **Brasil** ::{ flag=BR }:: | **6** | 2 | ::{ flag=FR }:: Adri | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94863814) |
+| Delta386 ::{ flag=US }:: | 1 | **6** | ::{ flag=BR }:: **SillyFangirl** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94868606) |
+| -Sparky- ::{ flag=US }:: | 0 | **6** | ::{ flag=DE }:: **\[LS\]Punish** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94871572) |
 
 Monday, 6 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| \[LS\]Ham ::{ flag=US }:: | 5 | **6** | ::{ flag=JP }:: **Maimaing** | [#1](https://osu.ppy.sh/community/matches/94900865) |
+| --: | :-: | :-: | :-- | :-: |
+| \[LS\]Ham ::{ flag=US }:: | 5 | **6** | ::{ flag=JP }:: **Maimaing** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94900865) |
 
 ### Quarterfinals
 
 Saturday, 27 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | **ERA medium kek** ::{ flag=DE }:: | **5** | 0 | ::{ flag=GB }:: Sspannish | *win by default* |
-| **GromOFanAniS** ::{ flag=RU }:: | **5** | 0 | ::{ flag=SG }:: TheFunk | [#1](https://osu.ppy.sh/community/matches/94509874) |
-| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=US }:: Voltaeyx | [#1](https://osu.ppy.sh/community/matches/94521268) |
-| **-Sparky-** ::{ flag=US }:: | **5** | 2 | ::{ flag=CA }:: arpia97 | [#1](https://osu.ppy.sh/community/matches/94524014) |
-| **Teezel** ::{ flag=GB }:: | **5** | 0 | ::{ flag=US }:: cygerion | [#1](https://osu.ppy.sh/community/matches/94533445) |
+| **GromOFanAniS** ::{ flag=RU }:: | **5** | 0 | ::{ flag=SG }:: TheFunk | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94509874) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=US }:: Voltaeyx | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94521268) |
+| **-Sparky-** ::{ flag=US }:: | **5** | 2 | ::{ flag=CA }:: arpia97 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94524014) |
+| **Teezel** ::{ flag=GB }:: | **5** | 0 | ::{ flag=US }:: cygerion | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94533445) |
 | **Foxeru** ::{ flag=BR }:: | **5** | 0 | ::{ flag=NO }:: prebert123 | *win by default* |
 
 Sunday, 28 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Maimaing** ::{ flag=JP }:: | **5** | 2 | ::{ flag=US }:: Delta386 | [#1](https://osu.ppy.sh/community/matches/94540666) |
-| **Lott** ::{ flag=VN }:: | **5** | 0 | ::{ flag=GB }:: chromb | [#1](https://osu.ppy.sh/community/matches/94552937) |
-| **spamblock** ::{ flag=BE }:: | **5** | 1 | ::{ flag=DE }:: Minekuchi | [#1](https://osu.ppy.sh/community/matches/94560545) |
-| **Adri** ::{ flag=FR }:: | **5** | 4 | ::{ flag=MY }:: ERA Leon | [#1](https://osu.ppy.sh/community/matches/94562783) |
-| Doomsday ::{ flag=GB }:: | 0 | **5** | ::{ flag=US }:: **-Sparky-** | [#1](https://osu.ppy.sh/community/matches/94562980) |
-| **Teezel** ::{ flag=GB }:: | **5** | 1 | ::{ flag=VN }:: Lott | [#1](https://osu.ppy.sh/community/matches/94564706) |
-| \[LS\]Punish ::{ flag=DE }:: | 4 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/94564700) |
-| ERA medium kek ::{ flag=DE }:: | 1 | **5** | ::{ flag=BE }:: **spamblock** | [#1](https://osu.ppy.sh/community/matches/94567018) |
-| GromOFanAniS ::{ flag=RU }:: | 1 | **5** | ::{ flag=BR }:: **Foxeru** | [#1](https://osu.ppy.sh/community/matches/94582114) |
-| SillyFangirl ::{ flag=BR }:: | 2 | **5** | ::{ flag=US }:: **\[LS\]Ham** | [#1](https://osu.ppy.sh/community/matches/94582259) |
+| --: | :-: | :-: | :-- | :-: |
+| **Maimaing** ::{ flag=JP }:: | **5** | 2 | ::{ flag=US }:: Delta386 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94540666) |
+| **Lott** ::{ flag=VN }:: | **5** | 0 | ::{ flag=GB }:: chromb | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94552937) |
+| **spamblock** ::{ flag=BE }:: | **5** | 1 | ::{ flag=DE }:: Minekuchi | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94560545) |
+| **Adri** ::{ flag=FR }:: | **5** | 4 | ::{ flag=MY }:: ERA Leon | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94562783) |
+| Doomsday ::{ flag=GB }:: | 0 | **5** | ::{ flag=US }:: **-Sparky-** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94562980) |
+| **Teezel** ::{ flag=GB }:: | **5** | 1 | ::{ flag=VN }:: Lott | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94564706) |
+| \[LS\]Punish ::{ flag=DE }:: | 4 | **5** | ::{ flag=BR }:: **Brasil** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94564700) |
+| ERA medium kek ::{ flag=DE }:: | 1 | **5** | ::{ flag=BE }:: **spamblock** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94567018) |
+| GromOFanAniS ::{ flag=RU }:: | 1 | **5** | ::{ flag=BR }:: **Foxeru** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94582114) |
+| SillyFangirl ::{ flag=BR }:: | 2 | **5** | ::{ flag=US }:: **\[LS\]Ham** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94582259) |
 
 ### Round of 16
 
 Saturday, 20 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| -Sparky- ::{ flag=US }:: | 3 | **5** | ::{ flag=JP }:: **Maimaing** | [#1](https://osu.ppy.sh/community/matches/94179724) |
-| Teezel ::{ flag=GB }:: | 3 | **5** | ::{ flag=MY }:: **ERA Leon** | [#1](https://osu.ppy.sh/community/matches/94189191) |
-| Finana Ryugu ::{ flag=MY }:: | 2 | **5** | ::{ flag=SG }:: **TheFunk** | [#1](https://osu.ppy.sh/community/matches/94191300) |
+| --: | :-: | :-: | :-- | :-: |
+| -Sparky- ::{ flag=US }:: | 3 | **5** | ::{ flag=JP }:: **Maimaing** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94179724) |
+| Teezel ::{ flag=GB }:: | 3 | **5** | ::{ flag=MY }:: **ERA Leon** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94189191) |
+| Finana Ryugu ::{ flag=MY }:: | 2 | **5** | ::{ flag=SG }:: **TheFunk** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94191300) |
 | kit- ::{ flag=AU }:: | 0 | **5** | ::{ flag=DE }:: **Minekuchi** | *win by default* |
 | Arkyon ::{ flag=AU }:: | 0 | **5** | ::{ flag=GB }:: **Sspannish** | *win by default* |
-| MC2BP ::{ flag=CH }:: | 0 | **5** | ::{ flag=US }:: **Voltaeyx** | [#1](https://osu.ppy.sh/community/matches/94211905) |
-| **chromb** ::{ flag=GB }:: | **5** | 4 | ::{ flag=IT }:: D3kuu | [#1](https://osu.ppy.sh/community/matches/94218555) |
+| MC2BP ::{ flag=CH }:: | 0 | **5** | ::{ flag=US }:: **Voltaeyx** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94211905) |
+| **chromb** ::{ flag=GB }:: | **5** | 4 | ::{ flag=IT }:: D3kuu | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94218555) |
 | Kyoumo ::{ flag=BR }:: | 0 | **5** | ::{ flag=US }:: **cygerion** | *win by default* |
 
 Sunday, 21 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **arpia97** ::{ flag=CA }:: | **5** | 0 | ::{ flag=MY }:: Onlinee | [#1](https://osu.ppy.sh/community/matches/94235732) |
-| **\[LS\]Punish** ::{ flag=DE }:: | **5** | 0 | ::{ flag=BR }:: Foxeru | [#1](https://osu.ppy.sh/community/matches/94244087) |
-| GromOFanAniS ::{ flag=RU }:: | 1 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/94254424) |
-| Lott ::{ flag=VN }:: | 1 | **5** | ::{ flag=FR }:: **Adri** | [#1](https://osu.ppy.sh/community/matches/94257186) |
+| --: | :-: | :-: | :-- | :-: |
+| **arpia97** ::{ flag=CA }:: | **5** | 0 | ::{ flag=MY }:: Onlinee | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94235732) |
+| **\[LS\]Punish** ::{ flag=DE }:: | **5** | 0 | ::{ flag=BR }:: Foxeru | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94244087) |
+| GromOFanAniS ::{ flag=RU }:: | 1 | **5** | ::{ flag=BR }:: **Brasil** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94254424) |
+| Lott ::{ flag=VN }:: | 1 | **5** | ::{ flag=FR }:: **Adri** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94257186) |
 | **SillyFangirl** ::{ flag=BR }:: | **5** | 0 | ::{ flag=BE }:: spamblock | *win by default* |
-| **prebert123** ::{ flag=NO }:: | **5** | 3 | ::{ flag=FR }:: Elementaires | [#1](https://osu.ppy.sh/community/matches/94262113) |
-| **\[LS\]Ham** ::{ flag=US }:: | **5** | 1 | ::{ flag=DE }:: ERA medium kek | [#1](https://osu.ppy.sh/community/matches/94264755) |
-| **Delta386** ::{ flag=US }:: | **5** | 0 | ::{ flag=GB }:: Doomsday | [#1](https://osu.ppy.sh/community/matches/94272019) |
+| **prebert123** ::{ flag=NO }:: | **5** | 3 | ::{ flag=FR }:: Elementaires | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94262113) |
+| **\[LS\]Ham** ::{ flag=US }:: | **5** | 1 | ::{ flag=DE }:: ERA medium kek | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94264755) |
+| **Delta386** ::{ flag=US }:: | **5** | 0 | ::{ flag=GB }:: Doomsday | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/94272019) |
 
 ### Round of 32
 
 Saturday, 13 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | **Teezel** ::{ flag=GB }:: | **4** | 0 | ::{ flag=AU }:: kit- | *win by default* |
 | **Brasil** ::{ flag=BR }:: | **4** | 0 | ::{ flag=MY }:: Onlinee | *win by default* |
 | **-Sparky-** ::{ flag=US }:: | **4** | 0 | ::{ flag=MY }:: Finana Ryugu | *win by default* |
-| **ERA medium kek** ::{ flag=DE }:: | **4** | 3 | ::{ flag=IT }:: D3kuu | [#1](https://osu.ppy.sh/community/matches/93881090) |
+| **ERA medium kek** ::{ flag=DE }:: | **4** | 3 | ::{ flag=IT }:: D3kuu | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93881090) |
 | **ERA Leon** ::{ flag=MY }:: | **4** | 0 | ::{ flag=DE }:: Minekuchi | *win by default* |
-| **\[LS\]Punish** ::{ flag=DE }:: | **4** | 0 | ::{ flag=CH }:: MC2BP | [#1](https://osu.ppy.sh/community/matches/93890002) |
-| cygerion ::{ flag=US }:: | 2 | **4** | ::{ flag=BE }:: **spamblock** | [#1](https://osu.ppy.sh/community/matches/93903224) |
+| **\[LS\]Punish** ::{ flag=DE }:: | **4** | 0 | ::{ flag=CH }:: MC2BP | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93890002) |
+| cygerion ::{ flag=US }:: | 2 | **4** | ::{ flag=BE }:: **spamblock** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93903224) |
 
 Sunday, 14 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Voltaeyx ::{ flag=US }:: | 1 | **4** | ::{ flag=BR }:: **Foxeru** | [#1](https://osu.ppy.sh/community/matches/93916761) |
-| **Lott** ::{ flag=VN }:: | **4** | 0 | ::{ flag=AU }:: Arkyon | [#1](https://osu.ppy.sh/community/matches/93928212) |
-| **Maimaing** ::{ flag=JP }:: | **4** | 1 | ::{ flag=SG }:: TheFunk | [#1](https://osu.ppy.sh/community/matches/93933267) |
-| **Adri** ::{ flag=FR }:: | **4** | 0 | ::{ flag=GB }:: Sspannish | [#1](https://osu.ppy.sh/community/matches/93933812) |
+| --: | :-: | :-: | :-- | :-: |
+| Voltaeyx ::{ flag=US }:: | 1 | **4** | ::{ flag=BR }:: **Foxeru** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93916761) |
+| **Lott** ::{ flag=VN }:: | **4** | 0 | ::{ flag=AU }:: Arkyon | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93928212) |
+| **Maimaing** ::{ flag=JP }:: | **4** | 1 | ::{ flag=SG }:: TheFunk | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93933267) |
+| **Adri** ::{ flag=FR }:: | **4** | 0 | ::{ flag=GB }:: Sspannish | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93933812) |
 | arpia97 ::{ flag=CA }:: | 0 | **4** | ::{ flag=RU }:: **GromOFanAniS** | *win by default* |
-| **SillyFangirl** ::{ flag=BR }:: | **4** | 0 | ::{ flag=BR }:: Kyoumo | [#1](https://osu.ppy.sh/community/matches/93945165) |
-| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=FR }:: Elementaires | [#1](https://osu.ppy.sh/community/matches/93945430) |
-| **Delta386** ::{ flag=US }:: | **4** | 0 | ::{ flag=NO }:: prebert123 | [#1](https://osu.ppy.sh/community/matches/93951116) |
-| **\[LS\]Ham** ::{ flag=US }:: | **4** | 0 | ::{ flag=GB }:: chromb | [#1](https://osu.ppy.sh/community/matches/93956297) |
+| **SillyFangirl** ::{ flag=BR }:: | **4** | 0 | ::{ flag=BR }:: Kyoumo | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93945165) |
+| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=FR }:: Elementaires | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93945430) |
+| **Delta386** ::{ flag=US }:: | **4** | 0 | ::{ flag=NO }:: prebert123 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93951116) |
+| **\[LS\]Ham** ::{ flag=US }:: | **4** | 0 | ::{ flag=GB }:: chromb | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/93956297) |
 
 ### Qualifiers
 

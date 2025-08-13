@@ -9,7 +9,7 @@ tags:
 
 ![One Key World Cup 2024](img/banner.jpg)
 
-**One Key World Cup 2024** (***1KWC***) was a country-based 2v2, double-elimination osu!mania 1-key tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352).
+**One Key World Cup 2024** (***1KWC 2024***) was a country-based 2v2, double-elimination osu!mania 1-key tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352).
 
 ## Tournament schedule
 
@@ -32,7 +32,7 @@ tags:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge |
 
-![](img/badge.jpg "1KWC winner badge")
+![](img/badge.jpg "1KWC 2024 winner badge")
 
 ## Organisation
 
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: **United Kingdom** (**[Teezel](https://osu.ppy.sh/users/7528639)**, [--Dragon--](https://osu.ppy.sh/users/11924624), [Eliminate](https://osu.ppy.sh/users/9169747), [MiniEgg_23](https://osu.ppy.sh/users/25914360), [Zoobin4](https://osu.ppy.sh/users/10055204)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: **Australia-A** (**[Sparxe](https://osu.ppy.sh/users/5750235)**, [\[Iron\]](https://osu.ppy.sh/users/13171482), [Blobby3000](https://osu.ppy.sh/users/6916774), [r1chyy](https://osu.ppy.sh/users/11499467), [Foolharded](https://osu.ppy.sh/users/27394972)) |
 
-![](img/podium.jpg "1KWC podium")
+![](img/podium.jpg "1KWC 2024 podium")
 
 ## Mappools
 
@@ -256,110 +256,110 @@ This competition has come to an end and resulted in the following podium:
 Saturday, 15 May 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | Australia-A ::{ flag=AU }:: | 4 | **7** | ::{ flag=GB }:: **United Kingdom** | *win by default* |
 
 Sunday, 16 May 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/114315266) |
+| --: | :-: | :-: | :-- | :-: |
+| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=GB }:: United Kingdom | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114315266) |
 
 ### Finals
 
 Saturday, 8 June 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| China ::{ flag=CN }:: | 2 | **6** | ::{ flag=US }:: **United States-A** | [#1](https://osu.ppy.sh/community/matches/114208563) |
+| --: | :-: | :-: | :-- | :-: |
+| China ::{ flag=CN }:: | 2 | **6** | ::{ flag=US }:: **United States-A** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114208563) |
 | **United Kingdom** ::{ flag=GB }:: | **6** | 0 | ::{ flag=US }:: United States-C | *win by default* |
 
 Sunday, 9 June 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Japan** ::{ flag=JP }:: | **6** | 0 | ::{ flag=AU }:: Australia-A | [#1](https://osu.ppy.sh/community/matches/114222541) |
-| **United Kingdom** ::{ flag=GB }:: | **6** | 5 | ::{ flag=US }:: United States-A | [#1](https://osu.ppy.sh/community/matches/114229195) |
+| --: | :-: | :-: | :-- | :-: |
+| **Japan** ::{ flag=JP }:: | **6** | 0 | ::{ flag=AU }:: Australia-A | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114222541) |
+| **United Kingdom** ::{ flag=GB }:: | **6** | 5 | ::{ flag=US }:: United States-A | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114229195) |
 
 ### Semifinals
 
 Saturday, 1 June 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | **Malaysia-A** ::{ flag=MY }:: | **6** | 0 | ::{ flag=CZ }:: Czechoslovakia | *win by default* |
-| **Australia-A** ::{ flag=AU }:: | **6** | 4 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/114115667) |
-| **United States-C** ::{ flag=US }:: | **6** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/114115968) |
-| **United States-C** ::{ flag=US }:: | **6** | 0 | ::{ flag=MY }:: Malaysia-A | [#1](https://osu.ppy.sh/community/matches/114116758) |
-| **United States-A** ::{ flag=US }:: | **6** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/114118786) |
+| **Australia-A** ::{ flag=AU }:: | **6** | 4 | ::{ flag=CN }:: China | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114115667) |
+| **United States-C** ::{ flag=US }:: | **6** | 0 | ::{ flag=FR }:: France | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114115968) |
+| **United States-C** ::{ flag=US }:: | **6** | 0 | ::{ flag=MY }:: Malaysia-A | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114116758) |
+| **United States-A** ::{ flag=US }:: | **6** | 0 | ::{ flag=PE }:: Peru | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114118786) |
 
 Sunday, 2 June 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **United States-B** ::{ flag=US }:: | **6** | 5 | ::{ flag=CA }:: 99% Canadian | [#1](https://osu.ppy.sh/community/matches/114124282) |
-| **Japan** ::{ flag=JP }:: | **6** | 2 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/114130153) |
-| **United States-A** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: United States-B | [#1](https://osu.ppy.sh/community/matches/114138470) |
+| --: | :-: | :-: | :-- | :-: |
+| **United States-B** ::{ flag=US }:: | **6** | 5 | ::{ flag=CA }:: 99% Canadian | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114124282) |
+| **Japan** ::{ flag=JP }:: | **6** | 2 | ::{ flag=GB }:: United Kingdom | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114130153) |
+| **United States-A** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: United States-B | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114138470) |
 
 ### Quarterfinals
 
 Saturday, 25 May 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Australia-A** ::{ flag=AU }:: | **5** | 0 | ::{ flag=MY }:: Malaysia-A | [#1](https://osu.ppy.sh/community/matches/114021197) |
+| --: | :-: | :-: | :-- | :-: |
+| **Australia-A** ::{ flag=AU }:: | **5** | 0 | ::{ flag=MY }:: Malaysia-A | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114021197) |
 | Singapore Blerargh ::{ flag=SG }:: | 0 | **5** | ::{ flag=CZ }:: **Czechoslovakia** | *win by default* |
-| Germany-A ::{ flag=DE }:: | 2 | **5** | ::{ flag=CA }:: **99% Canadian** | [#1](https://osu.ppy.sh/community/matches/114028162) |
+| Germany-A ::{ flag=DE }:: | 2 | **5** | ::{ flag=CA }:: **99% Canadian** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114028162) |
 
 Sunday, 26 May 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=US }:: United States-B | [#1](https://osu.ppy.sh/community/matches/114039132) |
-| **Peru** ::{ flag=PE }:: | **5** | 4 | ::{ flag=IT }:: Italian Plumbers | [#1](https://osu.ppy.sh/community/matches/114039188) |
-| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=US }:: United States-C | [#1](https://osu.ppy.sh/community/matches/114040713) |
-| Netherlands ::{ flag=NL }:: | 1 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/114041504) |
-| United States-A ::{ flag=US }:: | 2 | **5** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/114042276) |
+| --: | :-: | :-: | :-- | :-: |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=US }:: United States-B | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114039132) |
+| **Peru** ::{ flag=PE }:: | **5** | 4 | ::{ flag=IT }:: Italian Plumbers | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114039188) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=US }:: United States-C | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114040713) |
+| Netherlands ::{ flag=NL }:: | 1 | **5** | ::{ flag=FR }:: **France** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114041504) |
+| United States-A ::{ flag=US }:: | 2 | **5** | ::{ flag=GB }:: **United Kingdom** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/114042276) |
 
 ### Round of 16
 
 Saturday, 18 May 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Australia-A** ::{ flag=AU }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/113931146) |
+| --: | :-: | :-: | :-- | :-: |
+| **Australia-A** ::{ flag=AU }:: | **5** | 0 | ::{ flag=PE }:: Peru | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113931146) |
 
 Sunday, 19 May 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **United States-C** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: 99% Canadian | [#1](https://osu.ppy.sh/community/matches/113940294) |
+| --: | :-: | :-: | :-- | :-: |
+| **United States-C** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: 99% Canadian | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113940294) |
 | **United States-A** ::{ flag=US }:: | **5** | 0 | ::{ flag=SG }:: Singapore Blerargh | *win by default* |
-| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=DE }:: Germany-A | [#1](https://osu.ppy.sh/community/matches/113947088) |
-| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/113947078) |
-| **Malaysia-A** ::{ flag=MY }:: | **5** | 2 | ::{ flag=IT }:: Italian Plumbers | [#1](https://osu.ppy.sh/community/matches/113947870) |
-| **United Kingdom** ::{ flag=GB }:: | **5** | 1 | ::{ flag=CZ }:: Czechoslovakia | [#1](https://osu.ppy.sh/community/matches/113950510) |
-| **United States-B** ::{ flag=US }:: | **5** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/113950500) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=DE }:: Germany-A | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113947088) |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=NL }:: Netherlands | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113947078) |
+| **Malaysia-A** ::{ flag=MY }:: | **5** | 2 | ::{ flag=IT }:: Italian Plumbers | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113947870) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 1 | ::{ flag=CZ }:: Czechoslovakia | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113950510) |
+| **United States-B** ::{ flag=US }:: | **5** | 2 | ::{ flag=FR }:: France | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113950500) |
 
 ### Round of 24
 
 Saturday, 11 May 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **99% Canadian** ::{ flag=CA }:: | **5** | 0 | ::{ flag=AU }:: Australia-B | [#1](https://osu.ppy.sh/community/matches/113832509) |
-| **France** ::{ flag=FR }:: | **5** | 1 | ::{ flag=MY }:: Malaysia-B | [#1](https://osu.ppy.sh/community/matches/113838033) |
-| **Germany-A** ::{ flag=DE }:: | **5** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/113839683) |
-| Singapore Adam ::{ flag=SG }:: | 3 | **5** | ::{ flag=SG }:: **Singapore Blerargh** | [#1](https://osu.ppy.sh/community/matches/113839676) |
-| Mexico ::{ flag=MX }:: | 4 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/113843309) |
+| --: | :-: | :-: | :-- | :-: |
+| **99% Canadian** ::{ flag=CA }:: | **5** | 0 | ::{ flag=AU }:: Australia-B | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113832509) |
+| **France** ::{ flag=FR }:: | **5** | 1 | ::{ flag=MY }:: Malaysia-B | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113838033) |
+| **Germany-A** ::{ flag=DE }:: | **5** | 1 | ::{ flag=ID }:: Indonesia | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113839683) |
+| Singapore Adam ::{ flag=SG }:: | 3 | **5** | ::{ flag=SG }:: **Singapore Blerargh** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113839676) |
+| Mexico ::{ flag=MX }:: | 4 | **5** | ::{ flag=NL }:: **Netherlands** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113843309) |
 
 Sunday, 12 May 2024:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Peru** ::{ flag=PE }:: | **5** | 0 | ::{ flag=VN }:: Vietnam-A | [#1](https://osu.ppy.sh/community/matches/113855659) |
-| **Italian Plumbers** ::{ flag=IT }:: | **5** | 1 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/113856523) |
-| Brazil ::{ flag=BR }:: | 0 | **5** | ::{ flag=CZ }:: **Czechoslovakia** | [#1](https://osu.ppy.sh/community/matches/113857360) |
+| --: | :-: | :-: | :-- | :-: |
+| **Peru** ::{ flag=PE }:: | **5** | 0 | ::{ flag=VN }:: Vietnam-A | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113855659) |
+| **Italian Plumbers** ::{ flag=IT }:: | **5** | 1 | ::{ flag=NO }:: Norway | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113856523) |
+| Brazil ::{ flag=BR }:: | 0 | **5** | ::{ flag=CZ }:: **Czechoslovakia** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/113857360) |
 
 ### Qualifiers
 
@@ -369,7 +369,7 @@ Seeding results are calculated based on rank sum across the 4 qualifier stages, 
 
 ### Tournament Information
 
-1. One Key World Cup (1KWC) is a 2v2 tournament with team sizes of min:2 / max:5.
+1. One Key World Cup 2024 (1KWC 2024) is a 2v2 tournament with team sizes of min:2 / max:5.
 2. Beatmap scoring is based on **Team VS**, **ScoreV2**.
 3. All maps used in the tournament are dedicated 1-key osu!mania maps.
 4. The tournament is Free Mod: players are allowed to use Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
