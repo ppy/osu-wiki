@@ -32,6 +32,8 @@ The top 5 entries of the contest will earn equal prizes. This number was decided
 
 For any complete entry that was submitted by the entry submission deadline, **team members will be awarded a profile badge if they are able to rank the set before the end of the next iteration of the contest**.
 
+Additionally, the player with the highest score on [this osu!(lazer) playlist of all the entries](https://osu.ppy.sh/multiplayer/rooms/1539920) will receive a "Locus playlist winner" badge.
+
 Finally, there is a wildcard prize. ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) will pick his favourite entry and that team will earn a separate mystery prize.
 
 ## Organisation
