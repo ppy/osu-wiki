@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: August 2025"
-date: 2025-08-14 12:00:00 +0000
+date: 2025-08-15 12:00:00 +0000
 series: Project Loved
 ---
 
@@ -9,7 +9,7 @@ Fiiine, we'll put the Project Loved picks in the bag.
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-As the heat is raging on in most parts of the world still, we're here to provide you with a refill of Project Loved picks to stay cool to this summer! If you new to the community and need an intro, Project Loved hosts community polls every month, with [captains of each respective game mode](https://loved.sh/contributors) choosing maps, and the community choosing whether those maps get promoted to the Loved category!
+As the heat is raging on in most parts of the world still, we're here to provide you with a refill of Project Loved picks to stay cool to this summer! If you're new to the community and need an intro, Project Loved hosts community polls every month, with [captains of each respective game mode](https://loved.sh/contributors) choosing maps, and the community choosing whether those maps get promoted to the Loved category!
 
 Click on the beatmap banners below to vote for individual picks, or browse all the picks directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting will be open for 10 days, so be sure to participate on time! As always, more details can be found on [the wiki](/wiki/Community/Project_Loved) and the [Project Loved website](https://loved.sh/).
 
@@ -23,7 +23,6 @@ Interested in last month's results? You can find them below:
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/2104930)
 
 While we have no team-related news to share this time around, we'd still like to remind you that you can participate in the monthly Project Loved osu!(lazer) playlists, and snag yourself a month of supporter for being the top player at the end of the week!
-
 
 ### Navigation
 
@@ -72,7 +71,7 @@ Alright, quit wasting YOUR time reading this and go vote YES on this beatmap!!
 
 This month's Outstanding Oldies is Super Driver by izacchi, eLy, and Satellite!
 
-If you've been craving some classic 2015 map goodness, this one is for you. Teaming up almost 10 years ago, the trio cooked up this 4-minute map chock full of jumps and streams that'll bring you back to the good old days; hell, I even felt like I was teleported back to when I played osu! straight from school when I see this map. It's a pretty underrated pick, only sitting around 70 favorites at the moment, but I promise you this map is a hidden gem classic. If 2015 sounds like your jam, then it's time to *super drive* yourself to play this map!
+If you've been craving some classic 2015 map goodness, this one is for you. Teaming up almost 10 years ago, the trio cooked up this 4-minute map chock-full of jumps and streams that'll bring you back to the good old days; hell, I even felt like I was teleported back to when I played osu! straight from school when I see this map. It's a pretty underrated pick, only sitting around 70 favorites at the moment, but I promise you this map is a hidden gem classic. If 2015 sounds like your jam, then it's time to *super drive* yourself to play this map!
 
 [![](/wiki/shared/news/2025-08-14-project-loved-august-2025/1881706.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -143,7 +142,7 @@ I'm sorry, I had to do it. If you know this song through either Reels or TikTok.
 
 This song became a hit worldwide with the amount of edits and memes it caused, I'd be surprised if you watch any sort of anime memes or similar in TikTok and never got this song on your For You Page.
 
-Anyways, back into the set... [GirlsKissing](https://osu.ppy.sh/users/16584802) (cool name btw) took the spotlight back hosting it when this song was on the rise in the west social medias and made quite an enjoyable spread with a few mappers you might or might not recognize.
+Anyways, back into the set... [GirlsKissing](https://osu.ppy.sh/users/16584802) (cool name btw) took the spotlight back hosting it when this song was on the rise in the west social media and made quite an enjoyable spread with a few mappers you might or might not recognize.
 
 The guest difficulties are from [OnLoong](https://osu.ppy.sh/users/13524541), [Take](https://osu.ppy.sh/users/19322780) and [vodit51321](https://osu.ppy.sh/users/19670323)!
 
@@ -194,7 +193,7 @@ For this month's third *Wildcard* pick, [Naidaaka](https://osu.ppy.sh/users/6988
 
 You may have heard of Naidaaka before as the mapper of [Logical Stimulus](https://osu.ppy.sh/beatmapsets/651507#osu) and [Technical Master](https://osu.ppy.sh/beatmapsets/630818#osu/1331610), notoriously known for their difficulty — and today is no exception!
 
-This map features some iconic patterns and is typical of what would nowadays be considered a "clip farm" map. The kiai section towards the very end features relentless alt patterns that range from sharper angle wiggles to huge snaps that feel equally as scary to hit as satisfying. There are also many hints of playful gameplay beforehand, utilising overlaps that try to throw players off, as well as sprinkles of aim control that just about prepare you for what's to come.
+This map features some iconic patterns and is typical of what would nowadays be considered a "clip farm" map. The kiai section towards the very end features relentless alt patterns that range from sharper angle wiggles to huge snaps that feel just as scary to hit as satisfying. There are also many hints of playful gameplay beforehand, utilising overlaps that try to throw players off, as well as sprinkles of aim control that just about prepare you for what's to come.
 
 Whether you want to see what players are capable of or if you want to prove yourself worthy of a leaderboard spot yourself, the next step should be to vote Yes for this map in the poll!
 
@@ -242,7 +241,7 @@ Have fun! Enjoy!! <3
 
 [ParagonX9 - Infiltration](https://osu.ppy.sh/beatmapsets/1069209#taiko) by [Genjuro](https://osu.ppy.sh/users/3196091) is a map that you've likely played before, maybe several times. Since its upload time, this map has become a hotspot for mid-ranged taiko players looking to test their tech skills, and it's no wonder why it has amassed such a high playcount over the years.
 
-The track this is mapped to might also be nostalgic and/or familiar to some due to its presence in other games, so add this with Genjuro's expertise on map creation and you have the perfect formula for an engaging and memorable map. A map with such a high importance in several players' growth and journey sounds like the perfect candidate for the Loved category, but it's up to you once again to decide, so go ahead and make sure no ''infiltrators'' ruin this for you!
+The track this is mapped to might also be nostalgic and/or familiar to some due to its presence in other games, so add this with Genjuro's expertise on map creation, and you have the perfect formula for an engaging and memorable map. A map with such a high importance in several players' growth and journey sounds like the perfect candidate for the Loved category, but it's up to you once again to decide, so go ahead and make sure no "''"infiltrators" ruin this for you!
 
 [![](/wiki/shared/news/2025-08-14-project-loved-august-2025/1119406.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -288,7 +287,7 @@ The osu!catch Loved candidates were chosen by [Des9](https://osu.ppy.sh/users/54
 
 Over the past two years, [Nidoking](https://osu.ppy.sh/users/7034422) has gained a lot of popularity among players for their unique approach to mapping. This map of [DJ TOTTO VS TOTTO - vajra](https://osu.ppy.sh/beatmapsets/1977179#fruits/4104474) is one of the first which were done in their signature style.
 
-This absolute monster of a map demands both high mechanical skill and precision, which is a deadly combination for most players (and the AR is not going to make it any better). Thankfully, you do not need to be a top player to enjoy it: the map does not contain any hyperdashes (do **NOT** fact check me on this), which makes it much more pleasant on EZ. If you want to see this map Loved, please vote 'Yes'!
+This absolute monster of a map demands both high mechanical skill and precision, which is a deadly combination for most players (and the AR is not going to make it any better). Thankfully, you do not need to be a top player to enjoy it: the map does not contain any hyperdashes (do **NOT** fact-check me on this), which makes it much more pleasant on EZ. If you want to see this map Loved, please vote 'Yes'!
 
 [![](/wiki/shared/news/2025-08-14-project-loved-august-2025/1373770.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -298,7 +297,7 @@ This absolute monster of a map demands both high mechanical skill and precision,
 
 There aren't a lot of mappers who tackle low AR mapping, and crystal glass is quite the gem. Mapped by [Dika312](https://osu.ppy.sh/users/741613), a name that's already present in the Loved section with a couple maps, even though their last Loved map was about 3 years ago.
 
-It's difficult to utilize low AR in a way that fits a mapping style. You often see low AR maps where it feels like they have low AR just for the sake of having it. But in this case, it goes along so smoothly with the mapping. With the map being set to AR7 it provides a really difficult reading challenge, with some difficult patterns that are easy to misread. Furthermore, this map was mapped for the grand finals of the sixth edition of the popular AxS tournament as a mixed mods pick, showing that it is of really good quality to be used for a big tournament.
+It's difficult to utilize low AR in a way that fits a mapping style. You often see low AR maps where it feels like they have low AR just for the sake of having it. But in this case, it goes along so smoothly with the mapping. With the map being set to AR7 it provides a really difficult reading challenge, with some difficult patterns that are easy to misread. Furthermore, this map was mapped for the grand finals of the sixth edition of the popular AxS tournament as a mixed mod pick, showing that it is of really good quality to be used for a big tournament.
 
 If you are very unhinged you can try to play it with HD (Don't do this, for your own sanity) or even add DT if it is too slow. All in all a very fun map, and for anyone that likes to step out of their comfort zone to try something different.
 
@@ -396,7 +395,7 @@ If you are a fan of chordjacks or just like Polyriddim as a song from previously
 
 This chart has a lot in store, as immediately the chart throws you with anchors, bursts, broken jumpstreams, and chordjacks. These parts aren't charted with the most straightforward patterns, making your wrists already unstable and testing your limits in the consistency department. Part of what makes it so challenging is that the chart incorporates numerous patterns in many short bursts, meaning that in little time, you are required to be able to process chordjacks, bursts, anchors, jumpstreams, and many more. This can cause players to really struggle balancing stamina, reading, and accuracy, leading to 200s, bad judgments, and even misses.
 
-There is also only one break section in this chart. Right after the break you are immediately greeted with a chordjack section, leading up to one of the most difficult patterns in the chart, a relentless stream section that includes a lot of anchors. Once again, there are so many skillsets being tested in this chart, which makes it really difficult, and this can definitely throw you off if you are not careful.
+There is also only one break section in this chart. Right after the break you are immediately greeted with a chordjack section, leading up to one of the most difficult patterns in the chart, a relentless stream section that includes a lot of anchors. Once again, there are so many skill sets being tested in this chart, which makes it really difficult, and this can definitely throw you off if you are not careful.
 
 Surely, the community loves a great challenge, and don't worry, there are rates up to 1.1x that can make this chart even harder. Are you ready to see how you fare against the best in the world? It's up to YOU to decide whether or not this gets in Loved, or not!
 
@@ -445,7 +444,7 @@ Cast your vote now, and tell your own story with your voice!
 The piece evolves with a quiet intensity — layer by layer — building tension and releasing it in waves of delicate harmony and striking contrast, and the players danced through flowing streams and precision taps, every movement echoing the live recording's quiet intensity.\
 As the last note rang out and the scores were revealed, the margin was razor-thin.\
 A comeback carved out in the final breath of a song that thrives on tension, silence, and release.\
-In that moment, it wasn't just background music — it became the soul of the battle, a stage where precision met emotion, and where victory was won not with brute force, but with poise under pressure...
+At that moment, it wasn't just background music — it became the soul of the battle, a stage where precision met emotion, and where victory was won not with brute force, but with poise under pressure...
 
 Introducing rosso (Live at Kyoto Concert Hall 2019.10.19), from [Evening](https://osu.ppy.sh/users/2193881), which was the tiebreaker for the [osu!mania 7K World Cup 2024 Finals](/wiki/Tournaments/MWC/2024_7K).
 
@@ -464,7 +463,7 @@ If you'd like to join this epic chapter in Mania history, please cast your vote 
 
 We are absolutely delighted to present to you one of our most exclusive LN Pick of the Month maps. A spectacular chart created by none other than [Emida](https://osu.ppy.sh/users/11937683), a mapper whose name is already widely recognised within the mania community for their exceptional library of LN maps. For this special feature, we have carefully selected [Yorushika - Haru](https://osu.ppy.sh/beatmapsets/2115489#mania/4442387), a fan-favourite anime song from the franchise that gained massive popularity and even went viral at one point, making it a perfect choice for this showcase.
 
-The chart itself is a masterfully designed experience, brimming with a rich variety of LN skillsets that have been mapped with precision and cleanliness, all while incorporating the energetic and dynamic style of O2Jam. Whether you're looking for a map that challenges your technical abilities, offers creative patterning, or simply provides an incredibly fun and engaging playthrough, this chart has something to offer for everyone.
+The chart itself is a masterfully designed experience, brimming with a rich variety of LN skill sets that have been mapped with precision and cleanliness, all while incorporating the energetic and dynamic style of O2Jam. Whether you're looking for a map that challenges your technical abilities, offers creative patterning, or simply provides an incredibly fun and engaging playthrough, this chart has something to offer for everyone.
 
 So, what are you waiting for? If you enjoy the map and appreciate the effort that went into its creation, be sure to show your support by giving it a positive rating. It means a lot to the mapper and helps us bring you even more amazing picks in the future!
 
