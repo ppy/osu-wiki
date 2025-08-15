@@ -461,7 +461,7 @@ If you'd like to join this epic chapter in Mania history, please cast your vote 
 204 BPM, 4:09 | 7.79★\
 *description written by [Maxus](https://osu.ppy.sh/users/4335785)*
 
-We are absolutely delighted to present to you our LN pick for this month, [Yorushika - Haru](url=https://osu.ppy.sh/beatmapsets/2115489#mania/4442387). A spectacular chart featuring a fan-favourite anime song from Frieren, created by none other than [Emida](url=https://osu.ppy.sh/users/11937683), a mapper whose name is already widely recognised within the mania community for their exceptional library of LN maps, with two of their maps already successfully reaching the Loved section.
+We are absolutely delighted to present to you our LN pick for this month, [Yorushika - Haru](https://osu.ppy.sh/beatmapsets/2115489#mania/4442387). A spectacular chart featuring a fan-favourite anime song from Frieren, created by none other than [Emida](https://osu.ppy.sh/users/11937683), a mapper whose name is already widely recognised within the mania community for their exceptional library of LN maps, with two of their maps already successfully reaching the Loved section.
 
 This O2Jam-style chart offers a challenge your technical abilities, all the while making use of creative patterning, and providing a fun experience while listening to an iconic song.
 
