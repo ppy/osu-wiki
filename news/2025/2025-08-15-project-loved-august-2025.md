@@ -408,7 +408,7 @@ The \[delete\] difficulty is *not* being nominated for Loved.\
 
 The highly anticipated [Bocchi the Rock! 4K LN Songs pack](https://osu.ppy.sh/beatmapsets/1891661#mania/4100606) is finally getting a nomination!
 
-As the pack name suggests, you can expect long-note heavy charts within every single song in this pack. Featuring charts from \[Begin](https://osu.ppy.sh/users/10284984), [-SoraIro-](https://osu.ppy.sh/users/11493286), [[HD\]Draftz](https://osu.ppy.sh/users/8890291), [Castella](https://osu.ppy.sh/users/4810916), and [eZmmR](https://osu.ppy.sh/users/8647138), you can be sure to find at least one song in here that fits your preferences. Well, that's if you play LNs at least...
+As the pack name suggests, you can expect long-note heavy charts within every single song in this pack. Featuring charts from [Begin](https://osu.ppy.sh/users/10284984), [-SoraIro-](https://osu.ppy.sh/users/11493286), [\[HD\]Draftz](https://osu.ppy.sh/users/8890291), [Castella](https://osu.ppy.sh/users/4810916), and [eZmmR](https://osu.ppy.sh/users/8647138), you can be sure to find at least one song in here that fits your preferences. Well, that's if you play LNs at least...
 
 Chances are you're already familiar with a few names of the mappers in this pack (if you aren't already familiar with the whole pack itself), so it's likely that you might be familiar with the approach to each song. The added OD3 across every difficulty also makes this a rather lax accuracy challenge for those who aren't too familiar with tough release timings, so you're also able to get a casual-friendly experience if that's what you're seeking!
 
@@ -422,7 +422,7 @@ If you like the chart quality, the song quality, or you just like the anime itse
 
 [re:||VERSE](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531) is a long note chart, and the [Delusion](https://osu.ppy.sh/beatmapsets/1222376#mania/3902887) difficulty has been featured in the [osu!mania LN Tournament 3 Grand Finals mappool](/wiki/Tournaments/o!mLN/3#grand-finals), for good reason.
 
-\[[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) makes a lot of really difficult LN charts, and this certainly falls more under the technical category. What makes this chart especially difficult is the variety of patterns you have to nail in order to be truly consistent at it, let alone achieve a really good accuracy. With the numerous LN rolls, bursts, and releases, it really depends on the player which aspect they need to focus on. It doesn't help that there are also minijacks present throughout the chart, proving to be a deadly combo-breaker should they lose focus during their run.
+[\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) makes a lot of really difficult LN charts, and this certainly falls more under the technical category. What makes this chart especially difficult is the variety of patterns you have to nail in order to be truly consistent at it, let alone achieve a really good accuracy. With the numerous LN rolls, bursts, and releases, it really depends on the player which aspect they need to focus on. It doesn't help that there are also minijacks present throughout the chart, proving to be a deadly combo-breaker should they lose focus during their run.
 
 [Delusion](https://osu.ppy.sh/beatmapsets/1222376#mania/3902887) and [Haywire](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531) have minor differences in how some of the minijacks and LN lengths were charted, and while small, these could still be run changers — especially considering that Delusion has a higher OD of 7.7, while Haywire is slightly lower at 7.2.
 
@@ -431,7 +431,7 @@ Even so we'll raise the dead sunset\
 If the countless losses can't rewind\
 Even then we'll fill this frail crescent...**
 
-No matter what struggles the players may face, they get an opportunity to rise through the heavens, speaking for themselves and making a name that stands in the community. With a song like \[re:||VERSE](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531), motivation lingers throughout, and with a chart as tense as [[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871)'s, you have NO CHOICE but to perform at your peak.
+No matter what struggles the players may face, they get an opportunity to rise through the heavens, speaking for themselves and making a name that stands in the community. With a song like [re:||VERSE](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531), motivation lingers throughout, and with a chart as tense as [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871)'s, you have NO CHOICE but to perform at your peak.
 
 Cast your vote now, and tell your own story with your voice!
 
