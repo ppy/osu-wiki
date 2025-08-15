@@ -420,7 +420,7 @@ If you like the chart quality, the song quality, or you just like the anime itse
 160 BPM, 4:16 | 7.01★, 7.01★\
 *description written by [LivelyPeninsula](https://osu.ppy.sh/users/11517895)*
 
-[re:||VERSE](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531) is a long note chart, and the [Delusion](https://osu.ppy.sh/beatmapsets/1222376#mania/3902887) difficulty has been featured in the [osu!mania LN Tournament 3 Grand Finals mappool](/wiki/Tournaments/o%21mLN/3#grand-finals), for good reason.
+[re:||VERSE](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531) is a long note chart, and the [Delusion](https://osu.ppy.sh/beatmapsets/1222376#mania/3902887) difficulty has been featured in the [osu!mania LN Tournament 3 Grand Finals mappool](/wiki/Tournaments/o!mLN/3#grand-finals), for good reason.
 
 \[[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) makes a lot of really difficult LN charts, and this certainly falls more under the technical category. What makes this chart especially difficult is the variety of patterns you have to nail in order to be truly consistent at it, let alone achieve a really good accuracy. With the numerous LN rolls, bursts, and releases, it really depends on the player which aspect they need to focus on. It doesn't help that there are also minijacks present throughout the chart, proving to be a deadly combo-breaker should they lose focus during their run.
 
