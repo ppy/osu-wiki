@@ -265,7 +265,7 @@ When you actually play it, you will find that it is a fast-paced map where time 
 
 Finishing off this month's picks, I've decided to nominate [Dirty Doll](https://osu.ppy.sh/beatmapsets/1786298#taiko/3718466) by [nananass](https://osu.ppy.sh/users/7231722) and [Red Riding Hood](https://osu.ppy.sh/users/8050850)!
 
-The artist — [Rahatt](https://soundcloud.com/rahatt_bc), is absolutely no stranger to the osu!taiko scene, so much so that he has recently made an appearance in the Taiko World Cup 2025 with an osu!original — [Gunoi Chop](https://soundcloud.com/rahatt_bc/gunoi-chop). He's pretty much THE taiko breakcore artist. This is further proven by the fact that 11 out of 12 Rahatt maps with a leaderboard are taiko maps!
+The artist — [Rahatt](https://soundcloud.com/rahatt_bc) — is absolutely no stranger to the osu!taiko scene, so much so that he has recently made an appearance in the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025) with an osu! original — [Gunoi Chop](https://soundcloud.com/rahatt_bc/gunoi-chop). He's pretty much THE osu!taiko breakcore artist. This is further proven by the fact that 11 out of 12 Rahatt maps with a leaderboard are osu!taiko maps!
 
 To comment on the map, it's nass business as usual: the insane snapping changes, the sierpiński triangle background, the nerfed nas diff... But wait, there's more! Even if you're not a fan of nass' mapping style, you might want to give 3san's diff a shot. It takes a more standard approach to mapping breakcore and is insanely fun with mods on!
 
@@ -299,7 +299,7 @@ There aren't a lot of mappers who tackle low AR mapping, and crystal glass is qu
 
 It's difficult to utilize low AR in a way that fits a mapping style. You often see low AR maps where it feels like they have low AR just for the sake of having it. But in this case, it goes along so smoothly with the mapping. With the map being set to AR7 it provides a really difficult reading challenge, with some difficult patterns that are easy to misread. Furthermore, this map was mapped for the grand finals of the sixth edition of the popular AxS tournament as a mixed mod pick, showing that it is of really good quality to be used for a big tournament.
 
-If you are very unhinged you can try to play it with HD (Don't do this, for your own sanity) or even add DT if it is too slow. All in all a very fun map, and for anyone that likes to step out of their comfort zone to try something different.
+If you are very unhinged, you can try to play it with HD (don't do this, for your own sanity) or even add DT if it's too slow. All in all a very fun map, and for anyone that likes to step out of their comfort zone to try something different.
 
 [![](/wiki/shared/news/2025-08-15-project-loved-august-2025/572752.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -309,7 +309,7 @@ If you are very unhinged you can try to play it with HD (Don't do this, for your
 
 And here we have a classic. Even though the metadata is updated, you can easily recognize which song this map is just by looking at the BG!
 
-[Spectator](https://osu.ppy.sh/users/702598) is back to Loved voting with [Nanahoshi Kangengakudan - Sainou Shredder](https://osu.ppy.sh/beatmapsets/572752) (formerly HujuniseikouyuuP - Talent Shredder), a classic old map. It was part of the famous [val0108](https://osu.ppy.sh/users/243917)'s Approved [set](https://osu.ppy.sh/beatmapsets/47710), but was later removed.
+[Spectator](https://osu.ppy.sh/users/702598) is back to Loved voting with [Nanahoshi Kangengakudan - Sainou Shredder](https://osu.ppy.sh/beatmapsets/572752) (formerly HujuniseikouyuuP - Talent Shredder), a classic old map. It was part of the famous [val0108](https://osu.ppy.sh/users/243917)'s Approved [beatmapset](https://osu.ppy.sh/beatmapsets/47710), but was later removed.
 
 Luckily, Spec decided to re-upload it on their own in 2017, allowing new players to experience this fun map that includes some interesting patterns which can be a challenge if you are not prepared for them.
 
