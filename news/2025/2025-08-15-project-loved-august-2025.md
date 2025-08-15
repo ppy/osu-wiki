@@ -461,11 +461,11 @@ If you'd like to join this epic chapter in Mania history, please cast your vote 
 204 BPM, 4:09 | 7.79★\
 *description written by [Maxus](https://osu.ppy.sh/users/4335785)*
 
-We are absolutely delighted to present to you one of our most exclusive LN Pick of the Month maps. A spectacular chart created by none other than [Emida](https://osu.ppy.sh/users/11937683), a mapper whose name is already widely recognised within the mania community for their exceptional library of LN maps. For this special feature, we have carefully selected [Yorushika - Haru](https://osu.ppy.sh/beatmapsets/2115489#mania/4442387), a fan-favourite anime song from the franchise that gained massive popularity and even went viral at one point, making it a perfect choice for this showcase.
+We are absolutely delighted to present to you our LN pick for this month, [Yorushika - Haru](url=https://osu.ppy.sh/beatmapsets/2115489#mania/4442387). A spectacular chart featuring a fan-favourite anime song from Frieren, created by none other than [Emida](url=https://osu.ppy.sh/users/11937683), a mapper whose name is already widely recognised within the mania community for their exceptional library of LN maps, with two of their maps already successfully reaching the Loved section.
 
-The chart itself is a masterfully designed experience, brimming with a rich variety of LN skill sets that have been mapped with precision and cleanliness, all while incorporating the energetic and dynamic style of O2Jam. Whether you're looking for a map that challenges your technical abilities, offers creative patterning, or simply provides an incredibly fun and engaging playthrough, this chart has something to offer for everyone.
+This O2Jam-style chart offers a challenge your technical abilities, all the while making use of creative patterning, and providing a fun experience while listening to an iconic song.
 
-So, what are you waiting for? If you enjoy the map and appreciate the effort that went into its creation, be sure to show your support by giving it a positive rating. It means a lot to the mapper and helps us bring you even more amazing picks in the future!
+Vote YES if you love Frieren, or Yorushika, or 7K, or Emida's maps...
 
 [![](/wiki/shared/news/2025-08-15-project-loved-august-2025/1907393.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
