@@ -215,7 +215,7 @@ While [Newbie Taiko Journey 3](https://osu.ppy.sh/community/forums/topics/209559
 
 [Culprate - Beast (Vorso Remix)](https://osu.ppy.sh/beatmapsets/1963887#taiko/4070839), is mapped by a familiar name in the osu! community, [YonGin](https://osu.ppy.sh/users/7109317). He may not be widely known for his beatmaps, more so for his strong presence in the osu!taiko, osu!catch, and even pick'em communities, but don't count him out when it comes to mapping; he's an absolute mastermind when it comes to gimmicks. In this map, [YonGin](https://osu.ppy.sh/users/7109317) cleverly manipulates slider velocity to complement the song's rich sound effects, and uses barline gimmicks and 0 BPM notes to take the gameplay to a whole new level of spice.
 
-Despite its relatively low star rating, this map offers a uniquely fun experience—whether you're a seasoned drummer or on your newbie taiko journey. If you want to see this map get the Loved treatment, be sure to cast your precious 'Yes' vote!
+Despite its relatively low star rating, this map offers a uniquely fun experience — whether you're a seasoned drummer or on your newbie taiko journey. If you want to see this map get the Loved treatment, be sure to cast your precious 'Yes' vote!
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/1300981.jpg)](https://osu.ppy.sh/beatmapsets/1300981#taiko)
 
@@ -241,7 +241,7 @@ Have fun! Enjoy!! <3
 
 [ParagonX9 - Infiltration](https://osu.ppy.sh/beatmapsets/1069209#taiko) by [Genjuro](https://osu.ppy.sh/users/3196091) is a map that you've likely played before, maybe several times. Since its upload time, this map has become a hotspot for mid-ranged taiko players looking to test their tech skills, and it's no wonder why it has amassed such a high playcount over the years.
 
-The track this is mapped to might also be nostalgic and/or familiar to some due to its presence in other games, so add this with Genjuro's expertise on map creation, and you have the perfect formula for an engaging and memorable map. A map with such a high importance in several players' growth and journey sounds like the perfect candidate for the Loved category, but it's up to you once again to decide, so go ahead and make sure no "''"infiltrators" ruin this for you!
+The track this is mapped to might also be nostalgic and/or familiar to some due to its presence in other games, so add this with Genjuro's expertise on map creation, and you have the perfect formula for an engaging and memorable map. A map with such a high importance in several players' growth and journey sounds like the perfect candidate for the Loved category, but it's up to you once again to decide, so go ahead and make sure no "infiltrators" ruin this for you!
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/1119406.jpg)](https://osu.ppy.sh/beatmapsets/1119406#taiko)
 
@@ -410,7 +410,7 @@ The highly anticipated [Bocchi the Rock! 4K LN Songs pack](https://osu.ppy.sh/be
 
 As the pack name suggests, you can expect long-note heavy charts within every single song in this pack. Featuring charts from [Begin](https://osu.ppy.sh/users/10284984), [-SoraIro-](https://osu.ppy.sh/users/11493286), [\[HD\]Draftz](https://osu.ppy.sh/users/8890291), [Castella](https://osu.ppy.sh/users/4810916), and [eZmmR](https://osu.ppy.sh/users/8647138), you can be sure to find at least one song in here that fits your preferences. Well, that's if you play LNs at least...
 
-Chances are you're already familiar with a few names of the mappers in this pack (if you aren't already familiar with the whole pack itself), so it's likely that you might be familiar with the approach to each song. The added OD3 across every difficulty also makes this a rather lax accuracy challenge for those who aren't too familiar with tough release timings, so you're also able to get a casual-friendly experience if that's what you're seeking!
+Chances are you're already familiar with a few names of the mappers in this pack (if you aren't already familiar with the whole pack itself), so it's likely that you might be familiar with the approach to each song. The added OD 3 across every difficulty also makes this a rather lax accuracy challenge for those who aren't too familiar with tough release timings, so you're also able to get a casual-friendly experience if that's what you're seeking!
 
 If you like the chart quality, the song quality, or you just like the anime itself, then go vote in the thread!
 
@@ -426,10 +426,10 @@ If you like the chart quality, the song quality, or you just like the anime itse
 
 [Delusion](https://osu.ppy.sh/beatmapsets/1222376#mania/3902887) and [Haywire](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531) have minor differences in how some of the minijacks and LN lengths were charted, and while small, these could still be run changers — especially considering that Delusion has a higher OD of 7.7, while Haywire is slightly lower at 7.2.
 
-**If the countless shadows made you blind\
+*If the countless shadows made you blind\
 Even so we'll raise the dead sunset\
 If the countless losses can't rewind\
-Even then we'll fill this frail crescent...**
+Even then we'll fill this frail crescent...*
 
 No matter what struggles the players may face, they get an opportunity to rise through the heavens, speaking for themselves and making a name that stands in the community. With a song like [re:||VERSE](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531), motivation lingers throughout, and with a chart as tense as [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871)'s, you have NO CHOICE but to perform at your peak.
 
