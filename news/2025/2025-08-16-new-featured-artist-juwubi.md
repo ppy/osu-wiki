@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Juwubi"
-date: 2025-08-16 19:00:00 +0000
+date: 2025-08-16 20:00:00 +0000
 ---
 
 Today is the day your ears have been waiting for.
