@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2024** (***MWC 4K 2024***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2024-07-18 (00:00 UTC)/2024-08-01 (23:59 UTC) |
 | Qualifier showcase | 2024-08-11 (15:00 UTC) |
-| Qualifier stage | 2024-08-17/2024-08-18 |
+| Qualifier stage | 2024-08-17/2024-08-18 | 
 | Round of 32 | 2024-08-24/2024-08-25 |
 | Round of 16 | 2024-08-31/2024-09-01 |
 | Quarterfinals | 2024-09-07/2024-09-08 |
@@ -128,7 +128,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 - Rice
   1. [Azumi Takahashi feat. Lotus Juice - Full Moon Full Life (Valedict) \[Carpe Diem (cut)\]](https://osu.ppy.sh/beatmapsets/2253746#mania/4793933)
   2. [Kano - Yuudachi no Ribbon (Miaurichesu) \[Deluge 1.3x\]](https://osu.ppy.sh/beatmapsets/2253665#mania/4793741)
-  3. [Falcom Sound Team jdk - Hard Desperation (Valedict, lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1613480#mania/3294142)
+  3. [Falcom Sound Team jdk - Hard Desperation (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1613480#mania/3294142)
   4. [LUZE - picking (lemonguy) \[Challenge (cut)\]](https://osu.ppy.sh/beatmapsets/2253585#mania/4793559)
   5. [Terminal 11 - DsMaxInkd (Pizza69) \[Hyperacusis\]](https://osu.ppy.sh/beatmapsets/2047593#mania/4274921)
   6. [Celldweller - One Good Reason (elexire, Pope Gadget) \[Rockport 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/2253773#mania/4793969)

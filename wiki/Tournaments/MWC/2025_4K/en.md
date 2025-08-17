@@ -94,8 +94,6 @@ The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [YuyukoFangirl](https://osu.ppy.sh/users/10336332), [MalenaPop](https://osu.ppy.sh/users/22612299), [insidus](https://osu.ppy.sh/users/30603618), [Gameryt1234](https://osu.ppy.sh/users/25192757), [- SrDark -](https://osu.ppy.sh/users/24416807) |
 | ::{ flag=VN }:: | **Vietnam** | **[\[LS\]Vixile](https://osu.ppy.sh/users/26233321)**, [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Lott](https://osu.ppy.sh/users/13821222), [Rxizuna](https://osu.ppy.sh/users/16055641), [oofyy](https://osu.ppy.sh/users/25468030), [Nachumi-chan](https://osu.ppy.sh/users/16923930) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Saturday, August 9 23:59 UTC**. This list was last updated on **August 9 18:00 UTC**.
-
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07b9a7633d2c28497aef6d2c8a6623c).
 
 ## Links
@@ -104,6 +102,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2105536)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/51)
+
+## Qualifiers schedule
+
+| Event | Match time | Twitch stream |
+| --: | :-- | :-: |
+| Qualifiers results | [Aug 17 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250817T210000&p1=144) | [osulive](https://twitch.tv/osulive) |
+| Round of 32 mappool showcase | [Aug 17 (Sun) 21:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250817T213000&p1=144) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
