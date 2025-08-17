@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2024** (***MWC 4K 2024***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2024-07-18 (00:00 UTC)/2024-08-01 (23:59 UTC) |
 | Qualifier showcase | 2024-08-11 (15:00 UTC) |
-| Qualifier stage | 2024-08-17/2024-08-18 | 
+| Qualifier stage | 2024-08-17/2024-08-18 |
 | Round of 32 | 2024-08-24/2024-08-25 |
 | Round of 16 | 2024-08-31/2024-09-01 |
 | Quarterfinals | 2024-09-07/2024-09-08 |
