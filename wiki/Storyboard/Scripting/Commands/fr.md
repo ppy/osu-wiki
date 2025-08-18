@@ -239,11 +239,11 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-Pour faire apparaître quelque chose en jaune (`#cccc00`) :
+Pour faire apparaître quelque chose en jaune (`255,255,0`) :
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
-_C,0,58810,59810,CC,CC,0
+_C,0,58810,59810,255,255,0
 ```
 
 ## Commandes supplémentaires

@@ -239,11 +239,11 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-Para hacer que algo aparezca en amarillo (`#cccc00`):
+Para hacer que algo aparezca en amarillo (`255,255,0`):
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
-_C,0,58810,59810,CC,CC,0
+_C,0,58810,59810,255,255,0
 ```
 
 ## Comandos adicionales
