@@ -268,7 +268,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Outstanding contribution to the osu!mania modding and mapping scene |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Outstanding contribution to the osu!mania tournament and mapping scene |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Outstanding contribution to performance points development via integral tooling ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Outstanding contribution to perfomance points development and osu!(stable) maintainance |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Outstanding contribution to perfomance points development and osu!(stable) maintainance |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Outstanding contribution in uniting the community on Reddit [r/place](https://www.reddit.com/r/place/) events |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Outstanding contribution to the community replay documentation and tooling development |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Outstanding contribution to the community via tooling development ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |

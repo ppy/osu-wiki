@@ -27,7 +27,7 @@ The **osu!catch World Cup 2025** (***CWC 2025***) was a country-based osu!catch 
 
 ## Prizes
 
-The osu!catch World Cup 2025 offered a $2,000 cash prize pool and limited-edition merch.
+The osu!catch World Cup 2025 offered a $2,300 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |

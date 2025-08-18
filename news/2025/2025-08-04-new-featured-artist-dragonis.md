@@ -24,10 +24,10 @@ Try out [this relaxing spread](https://osu.ppy.sh/beatmapsets/2361261) hosted by
     </video>
 </div>
 
-### [DraGonis - Journey to Windrise feat. aadajuulia](https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Stargazing%20in%20Liyue.osz)
+### [DraGonis - Journey to Windrise feat. aadajuulia](https://assets.ppy.sh/artists/488/Songs/DraGonis%20-%20Journey%20to%20Windrise%20feat.%20aadajuulia.osz)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Stargazing%20in%20Liyue.mp3">
+    <source src="https://assets.ppy.sh/artists/488/Songs/DraGonis%20-%20Journey%20to%20Windrise%20feat.%20aadajuulia.mp3">
 </audio>
 
 ### [DraGonis x Ghost Voices - Aurora](https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Aurora.osz)
