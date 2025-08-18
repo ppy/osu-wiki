@@ -1,13 +1,10 @@
----
-outdated_translation: true
-outdated_since: f268fd0035d866869064e1e889e54502b9575181
----
-
 # Desafío diario
 
 El **desafío diario** es un modo multijugador de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) en el que los jugadores pueden acumular una racha al pasar beatmaps diarios consecutivos con una dificultad creciente, la cual se reinicia cada 7 días.
 
 Los beatmaps del desafío diario son seleccionados por un grupo de contribuidores y se componen principalmente de temas de los [artistas destacados](/wiki/People/Featured_Artists). En ciertas ocasiones, estos beatmaps pueden venir con un mod impuesto a los usuarios, lo que les obliga a pasar el beatmap con el mod seleccionado.
+
+Los desafíos diarios actuales y todos los anteriores pueden verse en la [página de las tablas de clasificación de los desafíos diarios en el sitio web](https://osu.ppy.sh/rankings/daily-challenge).
 
 ## Menú de juego
 
@@ -51,6 +48,8 @@ El proyecto está organizado por ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/user
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
+- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
+- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
 
 ## Curiosidades
 
