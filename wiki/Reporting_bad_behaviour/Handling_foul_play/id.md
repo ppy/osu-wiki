@@ -88,6 +88,6 @@ Apabila kamu telah melanggar peraturan dan ingin mengaku, silakan hubungi [accou
 
 Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama. Apabila kamu tidak yakin apakah sesuatu yang ingin kamu lakukan melanggar peraturan atau tidak, hubungi salah satu anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team). Apabila kamu tidak yakin siapa yang harus kamu tanya, [hubungi pengguna ini](https://osu.ppy.sh/users/5999631).
 
-# Catatan
+## Catatan
 
 [^restriction-length]: Lamanya waktu kamu harus menunggu sebelum kamu dapat mengajukan banding tergantung dari alasan pembatasan yang dijatuhkan kepadamu. Apabila kamu tidak yakin seberapa lama pembatasan kamu berlaku, kirim email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). Untuk informasi lebih lanjut, lihat [Pembatasan akun](/wiki/Help_centre/Account_restrictions). 
