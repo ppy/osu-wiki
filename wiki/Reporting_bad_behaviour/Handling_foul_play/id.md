@@ -47,7 +47,7 @@ Laporkan pengguna ini tanpa menyebut nama mereka di mana pun juga. Terdapat tiga
 
 Pada halaman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdapat di samping tombol `Kirim pesan` dan pilih `Laporkan`. Pada kotak dialog yang muncul, tulis segala informasi yang dapat membuktikan kecurangan pemain ini.
 
-*Pastikan kamu telah memilih mode permainan yang benar sebelum mengirimkan laporan.*
+*Pastikan kamu telah memilih mode permainan yang sesuai sebelum mengirimkan laporan.*
 
 ### Halaman beatmap
 
