@@ -25,6 +25,7 @@ Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
+| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Italia |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Jerman |
