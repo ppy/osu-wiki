@@ -11,19 +11,19 @@ tags:
 
 ![GBC 2025 Spring Banner](img/GBC-2025-Spring-banner.png)
 
-The **GB Cup 2025 Spring** (***GBC 2025 Spring***) is an osu!mania 4K point-based weekly group tournament hosted by Team GB. It is the eighth instalment of the GB Cup.
+The **GB Cup 2025 Spring** (***GBC 2025 Spring***) was an osu!mania 4K point-based weekly group tournament hosted by Team GB. It was the eighth instalment of the GB Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp (UTC+08) |
 | --: | :-- |
 | Registration phase | 2025-03-03/2025-03-16 (23:59) |
-| Regular stage 1 | 2025-03-22/2025-03-30 |
-| Regular stage 2 | 2025-04-05/2025-04-13 |
-| Regular stage 3 | 2025-04-19/2025-04-27 |
-| Regular stage 4 | 2025-05-03/2025-05-11 |
-| Playoff stage week 1 | 2025-05-17/2025-05-18 |
-| Playoff stage week 2 | 2025-05-24/2025-05-25 |
+| Regular stage (week 1) | 2025-03-22/2025-03-30 |
+| Regular stage (week 2) | 2025-04-05/2025-04-13 |
+| Regular stage (week 3) | 2025-04-19/2025-04-27 |
+| Regular stage (week 4) | 2025-05-03/2025-05-11 |
+| Playoff stage (week 1) | 2025-05-17/2025-05-18 |
+| Playoff stage (week 2) | 2025-05-24/2025-05-25 |
 | Playoff stage Finals | 2025-05-31/2025-06-01 |
 | Playoff stage Grand Finals | 2025-06-07/2025-06-08 |
 
@@ -61,24 +61,24 @@ The **GB Cup 2025 Spring** (***GBC 2025 Spring***) is an osu!mania 4K point-base
 
 ## Organisation
 
-The GB Cup 2025 Spring is run by Team GB and various community members.
+The GB Cup 2025 Spring was run by Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Mappool Manager | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=US }:: [ERA trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=KR }:: [\[GB\]Oceanus](https://osu.ppy.sh/users/9164100), ::{ flag=PE }:: [Sakisagee](https://osu.ppy.sh/users/9938020), ::{ flag=CN }:: [codenitro](https://osu.ppy.sh/users/32648806) |
+| Mappool manager | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=US }:: [ERA trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=KR }:: [\[GB\]Oceanus](https://osu.ppy.sh/users/9164100), ::{ flag=PE }:: [Sakisagee](https://osu.ppy.sh/users/9938020), ::{ flag=CN }:: [codenitro](https://osu.ppy.sh/users/32648806) |
 | Mapper | ::{ flag=US }:: [Ballistic](https://osu.ppy.sh/users/5170506), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=PE }:: [Sakisagee](https://osu.ppy.sh/users/9938020), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [Ghost Neko](https://osu.ppy.sh/users/31157409), ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851), ::{ flag=PL }:: [Paraxia](https://osu.ppy.sh/users/14001000), ::{ flag=KR }:: [Turrim](https://osu.ppy.sh/users/3846265), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [cherrychou](https://osu.ppy.sh/users/7214023), ::{ flag=CN }:: [\[GB\]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [\[GB\]TakinaQwQ](https://osu.ppy.sh/users/18160033), ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351), ::{ flag=CN }:: [PORTTAYER](https://osu.ppy.sh/users/8790200), ::{ flag=CN }:: [\[GB\]nyasun](https://osu.ppy.sh/users/16277321), ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=KR }:: [Nicknem_](https://osu.ppy.sh/users/16615040), ::{ flag=CN }:: [Old pigeon](https://osu.ppy.sh/users/26116770), ::{ flag=CN }:: [\[GB\]Fomurz](https://osu.ppy.sh/users/26883256), ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [Xu seventeen](https://osu.ppy.sh/users/8781662), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=US }:: [alumence](https://osu.ppy.sh/users/30357961), ::{ flag=SG }:: [riunosk](https://osu.ppy.sh/users/5594381), ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) |
-| Mappool Helper | ::{ flag=CN }:: [7912](https://osu.ppy.sh/users/14875348), ::{ flag=KR }:: [11bit](https://osu.ppy.sh/users/14804526), ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=CN }:: [FDShijing](https://osu.ppy.sh/users/22386239), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=KR }:: [LeiN-](https://osu.ppy.sh/users/2162939), ::{ flag=KR }:: [Ppass](https://osu.ppy.sh/users/4782226), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=KZ }:: [pashalka](https://osu.ppy.sh/users/25371717), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [KimMui](https://osu.ppy.sh/users/26090734) |
+| Mappool helper | ::{ flag=CN }:: [7912](https://osu.ppy.sh/users/14875348), ::{ flag=KR }:: [11bit](https://osu.ppy.sh/users/14804526), ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=CN }:: [FDShijing](https://osu.ppy.sh/users/22386239), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=KR }:: [LeiN-](https://osu.ppy.sh/users/2162939), ::{ flag=KR }:: [Ppass](https://osu.ppy.sh/users/4782226), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=KZ }:: [pashalka](https://osu.ppy.sh/users/25371717), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [KimMui](https://osu.ppy.sh/users/26090734) |
 | Tester | ::{ flag=TH }:: [parponger](https://osu.ppy.sh/users/28098890), ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=CN }:: [\[GB\]THFairy](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [codenitro](https://osu.ppy.sh/users/32648806), ::{ flag=US }:: [ERA trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575), ::{ flag=CN }:: [Ghost Neko](https://osu.ppy.sh/users/31157409), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [\[GB\]TakinaQwQ](https://osu.ppy.sh/users/18160033), ::{ flag=CN }:: [Old pigeon](https://osu.ppy.sh/users/26116770), ::{ flag=CN }:: [HowToPlaySV](https://osu.ppy.sh/users/32494511), ::{ flag=CN }:: [ouxig](https://osu.ppy.sh/users/32522677), ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=SG }:: [Koishi Komeijie](https://osu.ppy.sh/users/15763622), ::{ flag=CN }:: [\[GB\]Lingyu](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [\[GB\]\[ koeri \]](https://osu.ppy.sh/users/20464289), ::{ flag=CN }:: [\[GB\]Fomurz](https://osu.ppy.sh/users/26883256), ::{ flag=CN }:: [zhangjunyan](https://osu.ppy.sh/users/12729608), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [\[GB\]Remilia](https://osu.ppy.sh/users/18334226), ::{ flag=CN }:: [SaltFalt](https://osu.ppy.sh/users/31185655), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [c6H8o6_](https://osu.ppy.sh/users/20984576), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [\[GB\]R-Trigger](https://osu.ppy.sh/users/25308131) |
 | Referee | ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=CN }:: [zhangjunyan](https://osu.ppy.sh/users/12729608), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]80zero](https://osu.ppy.sh/users/12301332), ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575), ::{ flag=CN }:: [LightingT](https://osu.ppy.sh/users/34739432), ::{ flag=CN }:: [Ghost Neko](https://osu.ppy.sh/users/31157409), ::{ flag=CN }:: [Old pigeon](https://osu.ppy.sh/users/26116770), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [\[GB\]Lingyu](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [ouxig](https://osu.ppy.sh/users/32522677), ::{ flag=CN }:: [Apr4th](https://osu.ppy.sh/users/20485400), ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=MY }:: [Quzzuk](https://osu.ppy.sh/users/34741940), ::{ flag=CN }:: [\[GB\]THFairy](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [\[GB\]\[ koeri \]](https://osu.ppy.sh/users/20464289), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=ID }:: [ShiverX](https://osu.ppy.sh/users/25537640), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [\[GB\]TakinaQwQ](https://osu.ppy.sh/users/18160033), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=VN }:: [datvippro17](https://osu.ppy.sh/users/31022119), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=KR }:: [\[GB\]Oceanus](https://osu.ppy.sh/users/9164100), ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511) |
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=HK }:: [Icyyycrem](https://osu.ppy.sh/users/31380427), ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859) |
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=RO }:: [\[LS\]bluestone](https://osu.ppy.sh/users/17705451), ::{ flag=LV }:: [treeidk](https://osu.ppy.sh/users/18887843), ::{ flag=US }:: [xXDark_MasterXx](https://osu.ppy.sh/users/11855686), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=US }:: [manwelcchii](https://osu.ppy.sh/users/26690747), ::{ flag=HK }:: [popy](https://osu.ppy.sh/users/30829023), ::{ flag=CN }:: [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494) |
 | Designer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=RU }:: [MemeBen](https://osu.ppy.sh/users/18171966), ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634) |
-| Statistican & Wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Statistican & wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 
 ## Links
 
-- [Information spreadsheet](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU)
+- **[Information spreadsheet](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU)**
 - [Registration form](https://wj.qq.com/s2/18428427/5754/)
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/2045806?n=1)
 - [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/2045815?n=1)
@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Kurokotei feat Sennzai - escape (the looking-glass, and what alice found there) (-Ming-) \[The Amciable Mirror World\]](https://osu.ppy.sh/beatmapsets/2377120#mania/5135513)**
 
-### SemiFinals
+### Semifinals
 
 **[Download map pack here](https://drive.google.com/file/d/1cg0JpbxPjNyHv4NteGaa9qQolarFgnUE/view?usp=sharing)**
 
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination (\[GB\]Cinelia) \[Accelerator\]](https://osu.ppy.sh/beatmapsets/2373144#mania/5124207)**
 
-### QuarterFinals
+### Quarterfinals
 
 **[Download map pack here](https://drive.google.com/file/d/1sEjOgGeWVAMNqcPV6NRqPnS2YX5G3P47/view?usp=drive_link)**
 
@@ -407,7 +407,7 @@ Monday, 19 May 2025
 
 ### Regular stage
 
-Due to the large number of players and matches, the match results will be displayed in the **[information spreadsheet](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU)**.
+Due to the vast number of matches and players involved, it's not possible to display the match results of the Regular stage in full here on the wiki. Instead, detailed information on these matches can be found in the **[information spreadsheet](https://docs.qq.com/sheet/DTWN3SENhT3FRcXJU)**.
 
 ## Ruleset
 
@@ -419,22 +419,22 @@ Due to the large number of players and matches, the match results will be displa
 2. Beatmap scoring is based on Score V2.
 3. The GB Cup 2025 Spring consists of **4 groups (EX, S, A, and B)**, with only **2 groups** playing each week.
 4. The maps for each round will be announced by the mappool selectors on the official stream, on the Saturday before the actual matches take place.
-5. Players need to schedule their match time before the start of the match every week.
-   - Players with special time requirements need to contact the organiser in advance. The organiser does not guarantee that anyone's request will be met, and players need to properly communicate with the referees.
-6. Every week, the referee creates a multiplayer room at fixed times, where players who need to play a match can enter the room.
+5. Players will need to schedule their match time before the start of the match every week.
+   - Players with special time requirements will need to contact the organiser in advance. The organiser does not guarantee that anyone's request will be met, and players will need to properly communicate with the referees.
+6. Prior to the scheduled time, a referee will create a room for the corresponding players to enter in advance.
 7. There is **no warm-up phase** for the match.
 8. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements **must not** be used to alter core gameplay mechanics.
 
 ### Registration
 
-1. Please **fill [this form](https://wj.qq.com/s2/18428427/5754/)** to register.
+1. Players must **fill in [this form](https://wj.qq.com/s2/18428427/5754/)** to register.
    - Player **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) or [this Discord server](https://discord.gg/qpJjGuYyC5) after registration.
-   - For players who cannot use QQ, please use osu! or Discord to contact the organiser and use Discord to communicate.
+   - For players who cannot use QQ, please use osu! or Discord to contact the tournament management and Discord to communicate.
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - **There are no rank limitations for this tournament.**
    - To be successfully registered, a player must not have violated any [osu! community rules](/wiki/Rules) within the last 12 months.
-   - When registering, the organiser will refer to the player's play counts. Heavy derankers and smurfs may be forced to upgrade to a higher group (see below table).
+   - Upon registration, the tournament management may refer to the player's play counts to determine their actual playing skill. Heavy derankers and smurfs may be forcibly moved into a higher group (see below table).
 3. A list of all successfully registered players will be published after the registration phase.
 4. All successfully registered players will be grouped as follows:
 
@@ -445,11 +445,11 @@ Due to the large number of players and matches, the match results will be displa
 | A | 5,000–7,499 |
 | B | 0–4,999 |
 
-5. If the 4K pp of a player is much higher than the upper limit of their group, they will be forced to promote into the next group. The buffer is *100 pp*.
-6. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
-7. Organisers may force to promote some players that are considered too strong in their groups.
-8. Organisers reserve the right to decline restricted players from participating in the tournament.
-9. It is allowed for players to request to change their level. Such players need to send screenshots of scores from higher-level mappools to the organiser.
+5. If the 4K pp of a player is much higher than the upper limit of their group, they will be forcibly moved into a higher group. The buffer limit for each group is *100 pp*.
+6. [Tournament staff members](/wiki/Tournaments/Official_support#staff) may not participate as players in the tournament.
+7. The tournament management reserves the right to promote players that are considered to be too strong in their initial groups.
+8. The tournament management reserves the right to decline restricted players from participating in the tournament.
+9. Players are allowed to request for their group to be revised. In order to do so, such requests will need to be accompanied with screenshots of adequate scores from higher-level mappools to the tournament management.
 
 ### Win conditions
 
@@ -474,22 +474,22 @@ Due to the large number of players and matches, the match results will be displa
 | Top 90% | 4 |
 | Top 100% | 2 |
 
-| Group | Multiplier (x is base points) |
+| Group | Multiplier (`x` = base points) |
 | :-: | --: |
 | Group B | `x` |
 | Group A | `1.5x + 12` |
 | Group S | `2.3x + 30` |
 | Group EX | `3.4x + 57` |
 
-3. The final Regular stage ranking depends on the total amount of points from all 4 rounds. The top 24 players will be able to join the playoff stage.
+3. The final Regular stage ranking depends on the total amount of points from all 4 rounds. The top 24 players will advance to the playoff stage.
 4. The top 8 will play in the winners' bracket, while the top 9–24 will play in the losers' bracket.
-5. In case of a tie in the rankings, the player with a lower sum of ranks in every round will take the higher rank.
+5. In case of a tie in the rankings, the player with a lower sum of ranks after every round will take the higher rank.
 6. In the playoff stage, players need to win 6 beatmaps in order to win a match during Quarterfinals and Semifinals, and 7 beatmaps in the Finals and Grand Finals.
 
 ### Match procedures
 
 1. A referee will create a multiplayer room 5 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of the following example: `GBC 2025 Spring: Lv.EX R1 | Sun 22`.
+   - The room settings are as follows: `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of the following example: `GBC 2025 Spring: Lv.EX R1 | Sun 22`.
 2. Possible mod choices for the Free Mod bracket are **No Fail**, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
 3. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been played.
    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
@@ -508,19 +508,19 @@ Due to the large number of players and matches, the match results will be displa
 
 ### Mappool information
 
-1. Each group has four mappools, and each group uses one mappool per round.
+1. Each group has four mappools, with one mappool to be played in every week.
 2. Each mappool consists of 7 beatmaps that will all be played under [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) conditions. This means that there is a unique Free Mod bracket.
-3. The type of beatmap included in the mappool is not fixed.
+3. The composition of the beatmap slots in the mappool may vary from round to round.
 
 ### Scheduling information
 
-1. Each stage of the tournament is played during **2 weeks**.
+1. Each stage of the tournament is played in the duration of **2 weeks**.
    - Group EX will play in the same week as Group B, and Group S in the same week as Group A.
-2. All matches will be held between Saturday 09:00, and Sunday 23:00 (UTC+08), save for exceptional circumstances.
-3. The organiser will provide alternative tournament slots before the start of matches each week, creating a schedule that is satisfactory to all players.
-   - In case a special match time is required, please inform the organiser in advance. The organiser will try to fulfill the requirements of all players, but **cannot** make any guarantees.
+2. All matches will be held between Saturday 09:00 and Sunday 23:00 (UTC+8) save for exceptional circumstances.
+3. The tournament management will provide a list of possible match times before the start of matches each week, allowing for a schedule that is satisfactory to all players.
+   - In case a special match time is required, please inform the tournament management in advance. The tournament management will try to comply to the request to the best of their abilities, but **cannot** make any guarantees.
 4. Matches may not be scheduled to any time **beyond Sunday, 23:59 (UTC+08)** of the week they are to be played at.
-   - Even if needed, the match must be completed by the next Wednesday; later reschedule requests will be rejected.
+   - Even if a delay is absolutely necessary, the match must be completed by the next Wednesday; later reschedule requests will be rejected.
    - **Do not ask for a reschedule unless it is absolutely needed. The host reserves the right to deny any reschedule requests.**
 
 ### Playoff stage
@@ -528,7 +528,7 @@ Due to the large number of players and matches, the match results will be displa
 The rules are largely the same as in the regular stage.
 
 1. The organiser will invite the highest ranking players from the regular stage to participate in the playoffs.
-   - If invited players decline for any reason, their slot will pass on to the players in next rank.
+   - If invited players decline for any reason, their slots will be passed on to the highest-ranked players who didn't qualify from the Regular stage.
 2. There will be four separate mappools for each playoff round, with a varying number of beatmaps of different types:
 
 | Stage | Beatmaps |
@@ -543,21 +543,21 @@ The rules are largely the same as in the regular stage.
 4. Each player will receive one *tactical timeout* of **2 minutes**, to be used as extra time to pick or ban a beatmap. The tactical timeout is optional.
    - The tactical timeout may be called on a tiebreaker, provided that all players agree to it.
 5. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: osu!mania`, `Team mode: Team Vs` and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2025 Spr: ({Player A}) vs ({Player B})`.
+   - The room settings are as follows: `Game mode: osu!mania`, `Team mode: Team Vs` and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2025 Spr: ({Player A}) vs ({Player B})`.
 6. Each player must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` chooses whether to protect first or ban first. The player who protects first will also pick first.
    - Each player may protect one beatmap from the mappool. These beatmaps cannot be banned by any player in the next phase.
    - Each player may ban one beatmap from the mappool. These beatmaps cannot be picked by any player for the entire duration of the match.
    - Both players will alternate picking a beatmap from the mappool.
 7. In the case of a tie, the beatmap will be rematched, but not more than twice.
-8. Players are allowed to rematch if any player disconnects early on during a beatmap. Send a message as soon as poosible in the match room chat to notify the referee to restart the match.
+8. Players are allowed to ask for a rematch if any player disconnects early on during a beatmap. Affected players are advised to send a message as soon as possible in the chat to notify the referee to restart the match.
    - The match may only be aborted before 30 seconds or 1/4 of the beatmap has elapsed, whichever comes first.
    - The same mods and beatmap must be used when the match restarts.
    - Please make sure to resolve any technical issues before restarting the match.
-9. **For 2 adjacent matches in same quarters on bracket, if they're going to play at same time, it is supported to combined into a 1v1v1v1 brawl match to save the staffs and times. If so, the process of match will have some adjustment:**
+9. **For matches in same quarters of a bracket, if there are 2 adjacent matches that are going to be played at the same time, the players may confer and request for the matches to combined into a 1v1v1v1 brawl match. If agreed upon, the process of match will be adjusted as follows:**
    - All the 4 players start the roll, according to the order of roll, each one protect 1 map by descending order, then ban 1 map by ascending order, then pick 1 map by descending order, then pick 1 map by ascending order. Totally ban 4 maps and pick 8 maps.
    - According to the ranking of single maps in room, the highest score get 4 points, then 3 points, 2 points and 1 point.
-   - If the remaining maps is not sufficient to change the current ranking in room, then match will finish in advance. If there is still a tie after all the maps, then Tiebreaker map will be picked. The result of Tiebreaker map will only influence those tied players, others' ranking won't be changed.
+   - If the remaining maps is not sufficient to change the current ranking in room, the match will be ended in advance. If there is still a tie after all the maps, then the Tiebreaker map will be picked. The result of the Tiebreaker map will only influence the outcome of players whose score are tied, with other players unaffected.
    - If the combined matches are from loser bracket double match, then only 1 of 4 players will get approved, no need to play the second round match of loser bracket; if they are from winner bracket, then 2 of 4 players will get approved, even though they are origin opponents.
    - If there is necessary reschedule, the combined matches could be split again.
 10. Unexpected incidents will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
