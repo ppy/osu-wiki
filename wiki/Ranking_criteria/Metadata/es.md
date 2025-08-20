@@ -49,7 +49,7 @@
 
   Esto no se aplica si el artista usa a propósito símbolos de manera que no sugieran espacios. Por ejemplo, `。✰302？ionwan2go✰。` sería `.*302?ionwan2go*.` y no `. * 302 ? ionwan2go * .`. Los demás tipos de caracteres se tratan según el caso.
 
-- **En los campos romanizados, los símbolos especiales deben cambiarse por su equivalente imprimible ASCII más cercano o eliminarse.** Los caracteres especiales distintos de los indicados a continuación deben modificarse o eliminarse según el caso. Cuando existan varias opciones, la que se use para la romanización dependerá del contexto.
+- **En los campos romanizados, los símbolos deben cambiarse por su equivalente imprimible [ASCII](https://es.wikipedia.org/wiki/ASCII) más cercano o eliminarse.** La siguiente tabla enumera las romanizaciones recomendadas que deben tenerse en cuenta al encontrarse con estos símbolos. Cualquier otro símbolo debe discutirse según el caso.
 
   | Símbolo | Romanización recomendada |
   | :-- | :-- |

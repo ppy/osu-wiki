@@ -11,11 +11,11 @@ Med mange typer musik tilgængelige vil de fleste sange være egnet til brug på
 - Ekstremt og utåleligt højlydte
 - Modificeret til at indeholde hørbar klipning eller forvrængning, der ikke var kunstnerens hensigt
 
-Bemærk at sange med eksplicit indhold er [omfattet af andre regler](/wiki/Rules/Explicit_content).
+Bemærk, at sange med eksplicit indhold er [omfattet af andre regler](/wiki/Rules/Explicit_content).
 
 ## Hvad klassificeres som "meget politisk" indhold?
 
-I interesserne af, at et spil, der handler om rytme, udelukkende handler om rytme, og i overensstemmelse med [fællesskabsregel](/wiki/Rules#community-rules) #3, er indhold, der anses som overdrevent politisk af administrationen forbudt.
+I interesserne af, at et spil, der handler om rytme, udelukkende handler om rytme, og i overensstemmelse med [fællesskabsregel](/wiki/Rules#fællesskabsregler) #3, er indhold, der anses som overdrevent politisk af administrationen forbudt.
 
 Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er strengt upolitisk, og vi vil have, at folk hygger sig, ikke at de skal slås og skændes om politik.
 

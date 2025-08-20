@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 3e13544563f9c2c5e457eb1b87128f8219535ad9
+outdated_translation: true
+outdated_since: 508a002bf0586beff3ba1c9ee3fb052d97898029
 ---
 
 # Melaporkan perbuatan yang tidak pantas

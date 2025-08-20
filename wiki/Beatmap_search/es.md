@@ -10,15 +10,13 @@ tags:
   - filtros de beatmaps
   - búsqueda del cliente
   - búsqueda del sitio web
-outdated_translation: true
-outdated_since: 08192e65f4c39155136ca0b88b79bf7e959d78e0
 ---
 
 # Búsqueda de beatmaps
 
 *Véase también: [Beatmap § Descargar beatmaps](/wiki/Beatmap#descargar-beatmaps)*
 
-De forma predeterminada, cualquier texto ingresado en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente y las etiquetas de los beatmaps. Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las búsquedas no distinguen entre mayúsculas y minúsculas.
+De forma predeterminada, cualquier texto ingresado en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente y las [etiquetas de los mappers](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-mappers). Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las búsquedas no distinguen entre mayúsculas y minúsculas.
 
 El campo de metadatos de los beatmaps se pueden comparar con valores específicos para un filtrado más granular, usando los siguientes operadores:
 
@@ -74,11 +72,14 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `star`, `stars` | [Clasificación por estrellas](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Tempo de la canción](/wiki/Music_theory/Tempo) |
 | `length` | [Duración](/wiki/Beatmap/Play_time) en segundos |
+| `circles` | Número de círculos en el beatmap |
+| `sliders` | Número de sliders en el beatmap |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
 | `created` | Fecha de creación/subida del beatmap |
 | `updated` | Fecha de la última actualización del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
+| `tag` | [Etiquetas específicas de los usuarios](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-usuarios) |
 
 ## Cliente (lazer)[^lazer-filters]
 
@@ -102,6 +103,7 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `submitted` | Fecha de creación/subida del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
+| `tag` | [Etiquetas específicas de los usuarios](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-usuarios) (solo compatible con el listado de beatmaps integrado) |
 
 ## Búsquedas de ejemplo
 
@@ -147,9 +149,15 @@ lastplayed>1y
 status=r,l
 ```
 
+(Lazer, sitio web) Encuentra beatmaps que tengan la etiqueta «J-pop» puesta por el mapper, así como la etiqueta «meta/custom skin» puesta por los usuarios:
+
+```
+j-pop tag="meta/custom skin"
+```
+
 ## Referencias
 
-[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/58514a67d1f38e9842045615993252a8810fd50b/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [Código fuente de osu!(lazer)](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [true]: /wiki/shared/true.png

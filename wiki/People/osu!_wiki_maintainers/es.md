@@ -4,7 +4,7 @@ Los **mantenedores de la osu! wiki** mantienen la [osu! wiki](/wiki/osu!_wiki) a
 
 Los mantenedores se ocupan regularmente del [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las solicitudes de cambios de los contribuidores. A diferencia de otros contribuidores, pueden editar solicitudes de cambios y fusionarlas a la rama `master` del repositorio, haciendo públicos los cambios de manera efectiva.
 
-Si necesitas ayuda para hacer una contribución o quieres una revisión de tu solicitud de cambios, envía un mensaje en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!) y un mantenedor u otro contribuidor te responderá (todos los mantenedores saben inglés).
+Si necesitas ayuda para hacer una contribución o quieres una revisión de tu solicitud de cambios, envía un mensaje en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!) y un mantenedor u otro contribuidor te responderá (todos los mantenedores hablan inglés).
 
 ## Mantenedores de la wiki
 
@@ -17,6 +17,7 @@ Si necesitas ayuda para hacer una contribución o quieres una revisión de tu so
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactivo | Español |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Inactivo | Alemán |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inactivo |  |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | [Nivalyx](https://github.com/Nivalyx) | **Activo** | Indonesio |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inactivo | Alemán |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Activo** | Japonés |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Inactivo |  |
@@ -29,7 +30,7 @@ Si necesitas ayuda para hacer una contribución o quieres una revisión de tu so
 
 ## Mantenedores de noticias
 
-Curadores, editores y aprobadores de todas las [publicaciones de noticias](https://osu.ppy.sh/home/news) que aparecen en el sitio web.
+Los siguientes son mantenedores que, además de sus responsabilidades habituales de mantenimiento, también se encargan de redactar, editar y aprobar todas las [noticias](https://osu.ppy.sh/home/news) que aparecen en el sitio web.
 
 | Perfil de osu! | Perfil de GitHub |
 | :-- | :-- |
@@ -41,9 +42,9 @@ Curadores, editores y aprobadores de todas las [publicaciones de noticias](https
 
 ## Mantenedores pasados
 
-Esta lista incluye a los mantenedores de la configuración de MediaWiki, que la osu! wiki [solía tener](/wiki/History_of_osu!/osu!_wiki):
+Los siguientes son mantenedores que ya no figuran como parte del [equipo de la wiki](https://github.com/orgs/ppy/teams/wiki/members). Esto también incluye a los mantenedores del [MediaWiki](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)), que era donde se alojaba la wiki de osu! antes de su migración a GitHub.
 
-- ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
+- ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
 - ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)
 - ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)

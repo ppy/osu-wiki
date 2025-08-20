@@ -15,7 +15,7 @@ La **velocidad de aproximación** (***AR***) es una configuración de dificultad
 
 Los valores de AR varían de 0 a 10. Las tasas de aproximación más altas significan que los objetos se mostrarán durante un período de tiempo más corto, lo que le dará menos tiempo al jugador para reaccionar. Por otro lado, las tasas de aproximación más bajas permiten más tiempo de reacción, pero pueden resultar en una cantidad abrumadora de objetos que aparecen en la pantalla a la vez.
 
-En [osu!taiko](/wiki/Game_mode/osu!taiko) y [osu!mania](/wiki/Game_mode/osu!mania), la configuración de la velocidad de aproximación no tiene efecto. La velocidad de desplazamiento en ambos modos está controlada por la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), que depende de los [BPM](/wiki/Music_theory/Tempo) y del multiplicador de la velocidad del slider. Además, en osu!mania puede ser personalizada [por el propio jugador](/wiki/Game_mode/osu!mania#cambio-de-velocidad).
+En [osu!taiko](/wiki/Game_mode/osu!taiko) y [osu!mania](/wiki/Game_mode/osu!mania), la configuración de la velocidad de aproximación no tiene efecto. La velocidad de desplazamiento en ambos modos está controlada por la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), que depende de los [BPM](/wiki/Music_theory/Tempo) y del multiplicador de la velocidad del slider. Además, en osu!mania puede ser personalizada [por el propio jugador](/wiki/Game_mode/osu!mania#cambios-de-velocidad).
 
 ## Temporización de la animación
 
@@ -24,23 +24,19 @@ La duración de un objeto que permanece visible en la pantalla (sin mods) oscila
 Consulta la infografía y las fórmulas a continuación para obtener una descripción general:
 
 ```
-                                        X = golpe/recolectado
-             p r e e m p t              ↓
-├───────────────────────┬───────────────┤
-0%       aparición        100% opacidad
+               p r e e m p t                X = golpe/recolectado
+0%                        66%               ↓
+├──────────────────────────┬────────────────┤
+         aparición           opacidad total
 ```
 
-El objeto empezará a aparecer cuando `X - preemt` con:
+El objeto empezará a aparecer cuando `X - preempt` con:
 
-- AR < 5: `preemt = 1200ms + 600ms * (5 - AR) / 5`
-- AR = 5: `preemt = 1200ms`
-- AR > 5: `preemt = 1200ms - 750ms * (AR - 5) / 5`
+- AR < 5: `preempt = 1200ms + 120ms * (5 - AR)`
+- AR = 5: `preempt = 1200ms`
+- AR > 5: `preempt = 1200ms - 150ms * (AR - 5)`
 
-La cantidad de tiempo que tarda para que el objeto desaparezca por completo, también dependerá de la velocidad de aproximación:
-
-- AR < 5: `aparición = 800ms + 400ms * (5 - AR) / 5`
-- AR = 5: `aparición = 800ms`
-- AR > 5: `aparición = 800ms - 500ms * (AR - 5) / 5`
+El objeto alcanza la opacidad final (total) a los 2/3 del tiempo de espera.
 
 ### Tabla de comparación
 

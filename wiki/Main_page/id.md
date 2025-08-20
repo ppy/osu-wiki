@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: b4207575b7ba29a8456d3bd762278fae68e0131f
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -17,7 +15,7 @@ Selamat datang di osu! wiki, basis pengetahuan open-source yang mengandung berba
 
 Berbagai artikel dan panduan penting yang akan membantu kamu untuk mendalami osu!. Apabila kamu menemui masalah atau merasa ragu akan hal tertentu, jangan sungkan untuk mengunjungi [forum Help](https://osu.ppy.sh/forum/5).
 
-[Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
+[Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat bantuan](/wiki/Help_centre)
 
 [Konsol chat](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Panduan](/wiki/Guides) • [Glosarium](/wiki/Sitemap)
 
@@ -26,7 +24,7 @@ Berbagai artikel dan panduan penting yang akan membantu kamu untuk mendalami osu
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali seluk-beluk permainan ini lebih jauh, mulai dari pengaturan dan pilihan kustomisasi yang tersedia hingga ragam format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali seluk-beluk permainan ini lebih jauh, mulai dari pengaturan dan pilihan kustomisasi yang tersedia hingga format berkas yang osu! gunakan.
 
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol pintasan](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
@@ -89,14 +87,14 @@ Temukan jawaban atas berbagai pertanyaan umum beserta solusinya di bawah ini.
 
 [Pusat bantuan](/wiki/Help_centre) • [Penyelesaian masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Forum Help](https://osu.ppy.sh/forum/5)
 
-Pembatasan profil: [Silence](/wiki/Silence) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions)
+Pembatasan profil: [Silence](/wiki/Help_centre/Silences) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions) • [Larangan turnamen](/wiki/Help_centre/Tournament_bans)
 
 Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_help!) • [Melaporkan perilaku yang tidak pantas](/wiki/Reporting_bad_behaviour) • [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) • [Melaporkan kecurangan](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Komunitas dan proyek
+# [Komunitas](/wiki/Community) dan [proyek](/wiki/Community/Projects)
 
 Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas dan kontes yang berlangsung, jalinlah hubungan dengan pengguna lain, atau jadilah bagian dari event besar selanjutnya!
 
@@ -119,7 +117,7 @@ osu! tidak akan dapat hadir tanpa dukungan dari para pengguna yang membantu dala
 
 [Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_group) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
+[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_groups) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

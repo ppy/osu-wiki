@@ -10,7 +10,7 @@ Let's take a moment to recognise and celebrate our top community pillars who've 
 
 The [Elite Nominator](/wiki/People/Elite_Nominators) title is an acknowledgement given to [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) members who've tirelessly gone above and beyond the call towards ensuring a superb supply of spectacular beatmaps at everyone's convenience, whether it's via beatmap modding and nomination, quality assurance, or any other outstanding contributions towards the mapping and modding community.
 
-As per usual, the following accolades have been compiled and written the Nomination Assessment Team.
+As per usual, the following accolades have been compiled and written by the Nomination Assessment Team.
 
 Before we proceed however, let's take a moment to appreciate the refreshed design for the Elite Nominator badge, courtesy of resident designer [Tanza3D](https://osu.ppy.sh/users/10379965). There's now even a second tier for the few-numbered absolute titans who've somehow managed to continue demonstrating excellence and upgrade their title to Elite Nominator II.
 

@@ -10,30 +10,106 @@ Submissions to this contest include the following elements:
 - A full beatmap spread on the osu! game mode that satisfies the ranking criteria.
 - Visual assets (e.g. background/storyboarding/video).
 
+## Schedule
+
+| Event | Date (UTC) |
+| --: | :-- |
+| Teaser #1 submission | 1 April 2025 |
+| Trial voting start | 16 March 2025 |
+| Teaser #2 submission | 1 May 2025 |
+| Trial voting end | 16 May 2025 |
+| Entry submission deadline | 30 June 2025 (12:00) |
+| Community voting period | 1 August to 16 August 2025 (12:00) |
+| Results stream | 17 August 2025 (14:00) |
+
+## Prizes
+
+The top 5 entries of the contest will earn equal prizes. This number was decided based on the number of entries (42).
+
+- The beatmap will be bundled as part of the default osu! installation as "recommended beatmaps" for at least 1 year.
+- Team members will receive a unique profile badge themed around their entry.
+- Team members will be awarded a *Locus* user title befitting of their role.
+
+For any complete entry that was submitted by the entry submission deadline, **team members will be awarded a profile badge if they are able to rank the set before the end of the next iteration of the contest**.
+
+Additionally, the player with the highest score on [this osu!(lazer) playlist of all the entries](https://osu.ppy.sh/multiplayer/rooms/1539920) will receive a "Locus playlist winner" badge.
+
+Finally, there is a wildcard prize. ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) will pick his favourite entry and that team will earn a separate mystery prize.
+
+## Organisation
+
+Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) alongside some prominent members of the community.
+
+| Position | Member(s) |
+| :-- | :-- |
+| Manager | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) |
+| Developers | ::{ flag=GB }:: [Komm](https://osu.ppy.sh/users/7671790), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
+| Graphic designers | ::{ flag=AU }:: [Adarin](https://osu.ppy.sh/users/118360), ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) |
+| General assistance | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+
 ## Links
 
-- [Registration form](https://form-auth.ppy.sh/form/2025-locus-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/238)
 - [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
-- [Nexus](https://mappersguild.com/locus)
+- [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
+- [Contest update #2](https://osu.ppy.sh/home/news/2025-06-03-locus-2025-update-2)
+- [Voting announcement](https://osu.ppy.sh/home/news/2025-08-01-locus-2025-voting-open)
+- [Voting announcement VOD at COE](https://www.twitch.tv/videos/2528089150?t=02h32m33s)
 
-## Teams
+## Entries
+
+| Team | Entry |
+| :-- | :-- |
+| "we couldn't agree on naming" | [Become One Again](https://osu.ppy.sh/beatmapsets/2412365) |
+| :owoyay: | [against cacophony](https://osu.ppy.sh/beatmapsets/2412236) |
+| 1head | [Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231) |
+| 5Head | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) |
+| 5pc chicken mcnuggets | [Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) |
+| Angevin Eulogy | [it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237) |
+| aniteam | [NatsuUtsu](https://osu.ppy.sh/beatmapsets/2412239) |
+| Augment:Nova | [ENC0DEDENTR0PY](https://osu.ppy.sh/beatmapsets/2412246) |
+| AXIOMA | [Rift Walker](https://osu.ppy.sh/beatmapsets/2412244) |
+| church of ppy | [LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) |
+| CN2K | [distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247) |
+| Crychic ghost | [Inochi](https://osu.ppy.sh/beatmapsets/2412248) |
+| Demiurge Zero | [Eynohr](https://osu.ppy.sh/beatmapsets/2412250) |
+| Drumstep4 - LYRICS! | [Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) |
+| Fetchquest | [Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252) |
+| fruit salad | [H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255) |
+| Gumiho | [Paint The Ocean Blue](https://osu.ppy.sh/beatmapsets/2412259) |
+| hdm enjoyers | [unbound](https://osu.ppy.sh/beatmapsets/2412346) |
+| Hexagram | [Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) |
+| Lazy Seals | [The Epiphany](https://osu.ppy.sh/beatmapsets/2412261) |
+| Limerence | [Be with you](https://osu.ppy.sh/beatmapsets/2412323) |
+| Meguro | [Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) |
+| metamorphosis | [kinetic flux](https://osu.ppy.sh/beatmapsets/2412316) |
+| Meteors | [Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691) |
+| Miku Fan Club | [Prism Fall](https://osu.ppy.sh/beatmapsets/2412267) |
+| moonleaf++++ EXTEND | [Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) |
+| Ocskai | [Almom](https://osu.ppy.sh/beatmapsets/2412270) |
+| osu2vn | [Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) |
+| Picardia | [Asphyxia](https://osu.ppy.sh/beatmapsets/2412274) |
+| s-sigma... | [Vitality Charger](https://osu.ppy.sh/beatmapsets/2412277) |
+| Shiny morning | [Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) |
+| Sylenth2 v7.2769420 "Unlimited Synth Works" | [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) |
+| Taiko World Cup | [Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) |
+| Team Divergence | [Replay](https://osu.ppy.sh/beatmapsets/2412321) |
+| Team Red but Blue | [First Adventure](https://osu.ppy.sh/beatmapsets/2412285) |
+| Team RGB | [Brainfryer](https://osu.ppy.sh/beatmapsets/2412287) |
+| The Abyss | [Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) |
+| The Microwaves | [untitled_1](https://osu.ppy.sh/beatmapsets/2412290) |
+| Vespera | [Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328) |
+| Vocaloid Lovers | [Locus Amoenus](https://osu.ppy.sh/beatmapsets/2412292) |
+| we do well with deadlines | [Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) |
+| we need a poll | [Dahlia](https://osu.ppy.sh/beatmapsets/2412294) |
+
+## Results
 
 *To be announced.*
 
-## Schedule
-
-| Event | Date |
-| --: | :-- |
-| Teaser #1 submission | 1 April 2025 |
-| Teaser #2 submission | 1 May 2025 |
-| Entry submission deadline | 1 June 2025 |
-| Community voting period | June 2025 |
-| Results stream | Early July 2025 |
-
 ## Rules
 
-**Failure to abide by these rules will lead to immediate disqualification.**
+**Failure to abide by these rules MAY lead to immediate disqualification.**
 
 - Team composition
   - There can only be a maximum of 5 people per team.
@@ -44,7 +120,7 @@ Submissions to this contest include the following elements:
 - Teams must submit their entry as a `.osz` by the submission deadline. Do not upload your entry to the website via BSS — there will be a separate submission for this.
   - Song requirements
     - Must contain the original song in `.mp3` (192 kbps) or `.ogg` (208 kbps) format.
-    - Length of song must be between 1:30–3:00.
+    - DRAIN TIME SHOULD AIM TO be between 1:30–3:00. Length of song should be reasonably close to this.
     - No restrictions on genre, but must be suitable for all ages (ie. not explicit).
     - Composers must own all the usage rights to samples (so it can be licensed).
   - Spread
@@ -67,9 +143,18 @@ Teams must be registered in order to submit an entry. Teams are allowed to choos
 
 ### Submission
 
-The details of how to submit entries will be announced later.
+**Visit the [contest page](https://osu.ppy.sh/community/contests/238) and drop your submission as a `.osz` file.** The deadline is 30 June 2025 (12:00 UTC).
 
-Teams should follow the `#osu-locus` channel in the [osu! Discord server](https://discord.com/invite/ppy) for updates.
+Before submitting, please check the following:
+
+- Ensure that you have successfully registered a team, and that all your team members have confirmed their intent as well (if you have not received an explicit email confirming this, then this has not been done).
+  - **Your submission will be ignored if you have not successfully registered a team.**
+- Please read the [rules](#rules) thoroughly to check that your entry abides by all of them, especially the ones relating to spread and anonymity.
+- It is preferable that the team captain submits. Only one person from each team needs to submit (to prevent any ambiguity or confusion, please do not submit duplicates).
+- Do not submit your entry via BSS.
+- As an optional precaution, please reply to the existing email thread to let us know that you have submitted your entry.
+
+During the week after the submission deadline, entries will be checked to ensure all rules are followed. **Any required changes will be communicated via email.**
 
 ### Nexus
 
@@ -111,18 +196,49 @@ A Discord channel (`#osu-locus`) will be created on the [osu! server](https://di
 
 For specific (private) enquiries or disputes, email [mangomizer@ppy.sh](mailto:mangomizer@ppy.sh).
 
-## Prizes
+## Trial voting
 
-The top entries of the contest will earn equal prizes. The number of "top entries" will be influenced by the number of submissions in the contest.
+From 16 March to 7 May, a trial voting was conducted to allow people to familiarise themselves with the voting system.
 
-- The beatmap will be bundled as part of the default osu! installation as "recommended beatmaps" for at least 1 year.
-- Team members will receive a unique profile badge themed around their entry.
-- Team members will be awarded a *Locus* user title befitting of their role.
+Users were asked "What was the best osu! original tiebreaker from the osu! World Cups?". 378 voters got 5 randomly selected beatmaps to rank across two categories, music and mapping, with the votes being fed into an Elo algorithm. Unlike the actual voting, the resulting leaderboard was visible live on the trial voting website crafted for the event. At the end, the results were calculated as an average of 1,000 random voting runs to account for bias in voting order.
 
-For any complete entry that was submitted by the entry submission deadline, **team members will be awarded a profile badge if they are able to rank the set before the next iteration of the contest**.
+The results were as follows:
 
-Finally, there is a wildcard prize. peppy will pick his favourite entry and that team will earn a separate mystery prize.
-
-## Results
-
-*To be announced.*
+| # | Entry | Overall Elo | Music Elo | Graphic Elo |
+| :-: | :-- | --: | --: | --: |
+| 1 | [Camellia - Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992) | **3389** | 1622 | 1767 |
+| 2 | [Ludicin - Lost Requiem](https://osu.ppy.sh/beatmapsets/2325151) | **3325** | 1630 | 1695 |
+| 3 | [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177) | **3272** | 1624 | 1648 |
+| 4 | [Imy feat. Natsume Itsuki - Lies playing Truth](https://osu.ppy.sh/beatmapsets/2271658) | **3230** | 1553 | 1677 |
+| 5 | [Yooh - RPG](https://osu.ppy.sh/beatmapsets/1633250) | **3211** | 1670 | 1541 |
+| 6 | [Umeboshi Chazuke - AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953) | **3202** | 1477 | 1725 |
+| 7 | [kanemiko - Ruin in Cascade](https://osu.ppy.sh/beatmapsets/2318032) | **3188** | 1549 | 1639 |
+| 8 | [Kou! - Frost Walker](https://osu.ppy.sh/beatmapsets/2202823) | **3166** | 1516 | 1650 |
+| 9 | [nm-y vs. Kry.exe - Kaiju](https://osu.ppy.sh/beatmapsets/2284698) | **3109** | 1529 | 1580 |
+| 10 | [Minstrel - today is the day](https://osu.ppy.sh/beatmapsets/2281434) | **3108** | 1466 | 1642 |
+| 11 | [seatrus - DiSANiMATE](https://osu.ppy.sh/beatmapsets/2137728) | **3079** | 1514 | 1565 |
+| 12 | [HyuN feat. Sennzai - Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284) | **3046** | 1546 | 1500 |
+| 13 | [Halv vs. kuro - Evreka](https://osu.ppy.sh/beatmapsets/2011570) | **3039** | 1517 | 1522 |
+| 14 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://osu.ppy.sh/beatmapsets/1880652) | **3036** | 1566 | 1470 |
+| 14 | [kanemiko & Kyutatsuki & Aoi - Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784) | **3036** | 1527 | 1509 |
+| 16 | [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/1794214) | **3032** | 1613 | 1419 |
+| 17 | [seatrus - EXXTRA JUDGEMENT](https://osu.ppy.sh/beatmapsets/1889132) | **3030** | 1496 | 1534 |
+| 18 | [Akiri - Symphony Of The Lost Souls](https://osu.ppy.sh/beatmapsets/2130621) | **3029** | 1486 | 1543 |
+| 19 | [SOOOO - illloved (osu! Edit)](https://osu.ppy.sh/beatmapsets/2195067) | **3019** | 1405 | 1614 |
+| 20 | [aa...hisuichazuke... - steganography](https://osu.ppy.sh/beatmapsets/1846639) | **3016** | 1604 | 1412 |
+| 21 | [Camellia - OOPARTS](https://osu.ppy.sh/beatmapsets/1312143) | **3003** | 1602 | 1401 |
+| 22 | [polysha - Endverse](https://osu.ppy.sh/beatmapsets/2088576) | **2994** | 1486 | 1508 |
+| 23 | [Cansol - Train of Thought](https://osu.ppy.sh/beatmapsets/2155531) | **2991** | 1452 | 1539 |
+| 24 | [Genkaku Aria feat. KOKOMI - Whiteout](https://osu.ppy.sh/beatmapsets/2278209) | **2975** | 1423 | 1552 |
+| 25 | [Camellia - Parallel Universe Shifter](https://osu.ppy.sh/beatmapsets/2062263) | **2920** | 1523 | 1397 |
+| 26 | [Quarkee & Yuuni - Fabricated Exaltation](https://osu.ppy.sh/beatmapsets/2169950) | **2871** | 1390 | 1481 |
+| 27 | [SUPER MWC KART - Purple Palace](https://osu.ppy.sh/beatmapsets/1569527) | **2847** | 1518 | 1329 |
+| 28 | [Gram - Sigrdrifa](https://osu.ppy.sh/beatmapsets/1981053) | **2846** | 1457 | 1389 |
+| 29 | [Frums - of Ambrosia](https://osu.ppy.sh/beatmapsets/1478486) | **2813** | 1491 | 1322 |
+| 30 | [onumi & Akira Complex - Ethereal Cyber Angel XV](https://osu.ppy.sh/beatmapsets/1744942) | **2800** | 1418 | 1382 |
+| 31 | [Frums - HALL](https://osu.ppy.sh/beatmapsets/2055332) | **2799** | 1475 | 1324 |
+| 32 | [TWC Sound Team "Xurv Stasis Rasufim" - Kaze no Denwa](https://osu.ppy.sh/beatmapsets/2166504) | **2787** | 1322 | 1465 |
+| 33 | [katagiri - Kyuukou](https://osu.ppy.sh/beatmapsets/1939261) | **2752** | 1510 | 1242 |
+| 34 | [Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum \~ein sof\~](https://osu.ppy.sh/beatmapsets/2159337) | **2717** | 1309 | 1408 |
+| 35 | [Yuuni - Frozen Blood](https://osu.ppy.sh/beatmapsets/2152052) | **2698** | 1304 | 1394 |
+| 36 | [TWC Sound Team "Zeroth Powers" - One One](https://osu.ppy.sh/beatmapsets/1422682) | **2621** | 1407 | 1214 |

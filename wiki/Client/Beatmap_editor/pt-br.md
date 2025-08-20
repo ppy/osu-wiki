@@ -1,23 +1,44 @@
----
-outdated_translation: true
-outdated_since: 993a853c26c65bbe4117e35e8afbfb066132ebdf
----
-
 # Editor de Beatmap
 
-O **editor de beatmap** é a interface gráfica dentro do jogo do osu! para criar [beatmaps](/wiki/Beatmap). Ele é dividido em quatro modos:
+<!-- TODO: needs to be revisited when the articles under Beatmap editor no longer match what's written here -->
 
-- [Compose](Compose): A maior parte do tempo gasto no editor é feito aqui.
-- [Design](Design): Aqui é onde a Storyboard é feita, a maioria dos mappers só usarão o botão "Background Image/Video" aqui.
-- [Timing](Timing): Aqui é onde o BPM (Batidas Por Minuto) e o offset da música são inseridos. Esta janela também controla hitsounds.
-- [Song Setup](Song_Setup): A primeira tela em que aparece todo beatmap novo. Esse painel modifica os valores relacionados ao título, artistas, nome da dificuldade, valores de dificuldade, cores de combo, e mais.
+![A screenshot of the editor's compose tab showing pishifat's Donor Song beatmap](img/compose.jpg)
 
-Outros conteúdos do editor de beatmap incluem:
+*Para atalhos do editor de beatmaps, vá em: [Referência de teclas de atalho](/wiki/Client/Keyboard_shortcuts)*
 
-- [AiMod](AiMod): O primeiro modder que todos os mappers podem usar.
-- [Beat Snap Divisor](Beat_Snap_Divisor): A coisa na timeline que te ajuda a fazer um beatmap, em relação à timings.
-- [Distance Snap](Distance_snap): A coisa que afeta o quão longe ou perto as notas serão posicionadas.
-- [Kiai Time](/wiki/Gameplay/Kiai_time): Notas que fazem surgir um monte de estrelas e luzes brilhantes durante uma certa seção do mapa.
-- [Menu](Menu): Uma explicação sobre os botões no topo do editor de beatmap
-- [SB Load](SB_Load): Um número usado para indicar o quão pesado é um storyboard. Qualquer número acima de 5x é ruim para computadores antigos.
-- [Timelines](Timelines): O painel do topo do editor de beatmap que mostra notas, breaks (pausas) e mais.
+O **editor de beatmap** é a interface gráfica dentro do jogo para a criação de [beatmaps](/wiki/Beatmap). [Beatmapping](/wiki/Beatmapping) é o ato de criar beatmaps para o osu!.
+
+o editor de beatmap é separado em quatro principais seções em que podem ser acessadas na parte superior esquerda do editor:
+
+- Compose
+- Design
+- Timing
+- Song setup
+
+## Compose
+
+[Compose](/wiki/Client/Beatmap_editor/Compose) é onde todos os [hit objects](/wiki/Gameplay/Hit_object) e outros elementos relacionados a gameplay são criados. A maioria dos mappers passam a maior parte de seu tempo nessa seção por causa disso.
+
+## Design
+
+[Design](/wiki/Client/Beatmap_editor/Design) oferece uma maneira de criar [storyboards](/wiki/Storyboard), os efeitos visuais que acompanham os beatmaps. Como os storyboards geralmente têm efeitos complexos que utilizam muitos comandos, mappers podem usar o [storyboard scripting](/wiki/Storyboard/Scripting) diretamente sem entrar na seção de design.
+
+## Timing
+
+[Timing](/wiki/Client/Beatmap_editor/Timing) gerencia as seções de timing da música e controla os hitsounds do beatmap. Isso é essencial já que um beatmap precisa de timing correto e feedback apropriado para sincronizar a experiência da gameplay com o ritmo da música.
+
+## Song setup
+
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup) preenche o [metadata](/wiki/Client/Beatmap_editor/Song_setup#general) do beatmap e outras coisas universais a todos os [beatmaps](/wiki/Beatmap). Isso inclui o título da música, o artista, o nome da dificuldade, cores do combo, etc.
+
+## Outros
+
+Outros componentes do editor de beatmap incluem:
+
+- [AiMod](AiMod): Um sistema automatizado que reporta problemas em um beatmap
+- [Beat snap divisor](Beat_snap_divisor): Determina como objetos se posicionam na timeline
+- [Distance snap](Distance_snap): Um multiplicador que define a proximidade entre os hit objects
+- [Kiai time](/wiki/Gameplay/Kiai_time): Uma seção de timing especial que ajuda a enfatizar uma parte do beatmap
+- [Menu](Menu): Facilita a navegação no editor de beatmap
+- [SB load](SB_load): Um número usado para dizer o quão necessário é um storyboard
+- [Timelines](Timelines): Exibe a posição dos hit objects, pausas e demais componentes

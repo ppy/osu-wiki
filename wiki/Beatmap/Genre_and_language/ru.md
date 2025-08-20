@@ -7,17 +7,13 @@ tags:
   - языки
   - метадата
   - метаданные
-outdated_translation: true
-outdated_since: 26dcaa7c6a1a7d47d0c5cb61dd01f45263a970bb
 ---
-
-<!--The citation in the rock genre was changed from unsyncopated to syncopated. When updating this article, please make sure if this needs to be adjusted here.-->
 
 # Жанр и язык
 
 ![Жанр, язык и теги на странице карты](img/beatmap-info.png "Жанр и язык песни указаны на странице с картой")
 
-**Жанр** и **язык** песни — поля с [метаданными](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-meta-data), которые можно заполнить после публикации [карты](/wiki/Beatmap). Искать по ним можно через веб-сайт и в [osu!(lazer)](/wiki/Client/Release_stream/Lazer) (но не в стабильной версии osu!).
+**Жанр** и **язык** песни — поля с [метаданными](/wiki/Client/Beatmap_editor/Song_setup#general), которые можно заполнить после публикации [карты](/wiki/Beatmap). Искать по ним можно через веб-сайт и в [osu!(lazer)](/wiki/Client/Release_stream/Lazer) (но не в стабильной версии osu!).
 
 ## Поиск карт
 
@@ -29,12 +25,12 @@ outdated_since: 26dcaa7c6a1a7d47d0c5cb61dd01f45263a970bb
 
 Чтобы поменять у карты жанр или язык, откройте её страницу и наведите курсор на область со словами `Genre` и `Language`. При наличии прав доступа там появится иконка карандаша, на которую нужно нажать. Возможность редактирования зависит от [групп](/wiki/People/User_group), в которых вы состоите, и от [категории](/wiki/Beatmap/Category#существующие-категории) карты:
 
-- Владелец карты может редактировать её поля, если карта находится в категориях [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending), [Graveyard](/wiki/Beatmap/Category#graveyard), и не имеет [номинаций](/wiki/Beatmap_ranking_procedure#номинация).
+- Владелец карты может редактировать её поля, если карта находится в категориях [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending), [Graveyard](/wiki/Beatmap/Category#graveyard), и не имеет [номинаций](/wiki/Beatmap_ranking_procedure#nominations).
 - [Номинаторы](/wiki/People/Beatmap_Nominators) могут редактировать поля карт в категориях [Qualified](/wiki/Beatmap/Category#qualified), WIP и Pending.
 - Члены [команды Project Loved](/wiki/People/Project_Loved_Team) могут редактировать поля карт в категории [Loved](/wiki/Beatmap/Category#loved).
 - Члены [команды оценки номинаций](/wiki/People/Nomination_Assessment_Team) и [глобальные модераторы](/wiki/People/Global_Moderation_Team) могут редактировать поля любых карт.
 
-Если у карты не выбраны жанр или язык (вместо них стоит `Unspecified`), её нельзя [номинировать](/wiki/Beatmap_ranking_procedure#номинация).
+Если у карты не выбраны жанр или язык (вместо них стоит `Unspecified`), её нельзя [номинировать](/wiki/Beatmap_ranking_procedure#nominations).
 
 ## Таблица жанров
 
@@ -43,7 +39,7 @@ outdated_since: 26dcaa7c6a1a7d47d0c5cb61dd01f45263a970bb
 | Unspecified | Этот жанр ни к чему не относится и используется в качестве временной меры, пока не поставят другой. |
 | Video Game | Музыка из игр (вне зависимости от того, самостоятельная это песня или нет), а также различные ремиксы и аранжировки подобных композиций. |
 | Anime | Музыка из аниме (не обязательно для него написанная). |
-| Rock | Песни, где главную роль играют [гитарные партии и ударные инструменты](https://ru.wikipedia.org/wiki/Рок-музыка). Они почти всегда имеют чётко различимый, но не обязательно постоянный ритм. |
+| Rock | Песни, где главную роль играют [гитарные партии и ударные инструменты](https://ru.wikipedia.org/wiki/Рок-музыка). Они обычно построены на простых ритмах с акцентом на слабые доли и характеризуются живым исполнением и серьёзной тематикой. |
 | Pop | Музыка, [связанная с поп-культурой](https://ru.wikipedia.org/wiki/Поп-музыка). Признаки: относительно простая инструментальная часть, ритмичность, ориентировка на вокал, лёгкость восприятия. |
 | Other | Всё, что не подходит под остальные жанры. |
 | Novelty | Комичные или необычные песни. В osu! сюда попадают, к примеру, [YouTube-пупы](https://ru.wikipedia.org/wiki/YouTube_Poop), Niconico [MAD](https://ru.wikipedia.org/wiki/MAD_Movie) или музыка, связанная с мемами. |

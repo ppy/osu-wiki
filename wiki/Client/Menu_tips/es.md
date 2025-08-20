@@ -92,8 +92,6 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
-
 Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 - ¡Presiona `Ctrl` + `T` en cualquier parte del juego para alternar la barra de herramientas!
@@ -124,6 +122,8 @@ Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)
 - ¡Mientras miras una repetición, presiona `Ctrl` + `H` para alternar la configuración de la repetición!
 - ¡Puedes copiar fácilmente los mods de las puntuaciones en una tabla de clasificación haciendo clic derecho sobre ellas!
 - ¡Si presionas `Ctrl` + `Entrar` al seleccionar una canción, se iniciará el beatmap en modo autoplay!
+- «Lazer» no es una palabra en inglés. La forma correcta de escribir la luz brillante es «láser».
+- ¡Mantén presionado el botón derecho del ratón cerca del carrusel de beatmaps para desplazarte rápidamente a una posición absoluta!
 
 ## Véase también
 

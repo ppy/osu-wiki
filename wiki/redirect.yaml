@@ -2152,4 +2152,15 @@ community/discord_servers/osu!mania_modding_&_mapping_hub: Community/Discord_ser
 
 gameplay/hit_object/slider/reverse_slider: Gameplay/Hit_object/Slider/Repeat_slider
 
+# Moved in #12643
 osu!_originals: Community/Bespoke_music
+
+# Renamed in #12800
+people/user_group: People/User_groups
+
+# Moved in #13111
+contests/obwc: Contests/o!bwc
+contests/obwc/1: Contests/o!bwc/1
+contests/obwc/2: Contests/o!bwc/2
+contests/obwc/3: Contests/o!bwc/3
+contests/o!bwc/2025: Contests/o!bwc/4

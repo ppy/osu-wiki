@@ -88,7 +88,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
+<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Localisation/MenuTipStrings.cs -->
 
 These tips appear at the bottom of the main menu in [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
@@ -120,6 +120,8 @@ These tips appear at the bottom of the main menu in [osu!(lazer)](/wiki/Client/R
 - While watching a replay, press `Ctrl` + `H` to toggle replay settings!
 - You can easily copy the mods from scores on a leaderboard by right-clicking on them!
 - `Ctrl` + `Enter` at song select will start a beatmap in autoplay mode!
+- "Lazer" is not an English word. The correct spelling for the bright light is "laser".
+- Try holding your right mouse button near the beatmap carousel to quickly scroll to an absolute position!
 
 ## See also
 
