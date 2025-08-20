@@ -222,7 +222,7 @@ Due to the large number of mappools, the full details are available in the [info
 
 Saturday, 14 June 2025
 
-| Player A |  |  | Player B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Born to win | 6 | **7** | **Never know lose** | [#1](https://osu.ppy.sh/community/matches/118393610) |
 
@@ -236,13 +236,13 @@ Saturday, 7 June 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **FoaMelt1** | **7** | 5 | WOEM2436 | [#1](https://osu.ppy.sh/community/matches/118293594) |
+| **::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108)** | **7** | 5 | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) | [#1](https://osu.ppy.sh/community/matches/118293594) |
 
 Sunday, 8 June 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[GB]ParasolTree** | **7** | 5 | FoaMelt1 | [#1](https://osu.ppy.sh/community/matches/118335215) |
+| **::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902)** | **7** | 5 | ::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108) | [#1](https://osu.ppy.sh/community/matches/118335215) |
 
 #### Finals
 
@@ -252,14 +252,14 @@ Saturday, 31 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| shadiaojunshi | 16 | 22 | Idontknowwhathi | [#1](https://osu.ppy.sh/community/matches/118253483) |
-| LiangFenFan | 17 | **25** | WOEM2436 | ↑ |
+| ::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753) | 16 | 22 | ::{ flag=CN }:: [Idontknowwhathi](https://osu.ppy.sh/users/32379983) | [#1](https://osu.ppy.sh/community/matches/118253483) |
+| ::{ flag=CN }:: [LiangFenFan](https://osu.ppy.sh/users/15183087) | 17 | **25** | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) | ↑ |
 
 Sunday, 1 June 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| FoaMelt1 | 2 | **7** | **[GB]ParasolTree** | [#1](https://osu.ppy.sh/community/matches/118264856) |
+| ::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108) | 2 | **7** | **::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902)** | [#1](https://osu.ppy.sh/community/matches/118264856) |
 
 #### Semifinals
 
@@ -269,17 +269,17 @@ Saturday, 24 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Idontknowwhathi** | **24** | 13 | My Angel Plana | [#1](https://osu.ppy.sh/community/matches/118184913) |
-| Tosai_ | 14 | 19 | [Crz]IsxI | ↑ |
-| verysour | 17 | 14 | [GB]QAQlingjiu | [#1](https://osu.ppy.sh/community/matches/118185455) |
-| **WOEM2436** | **30** | 19 | [Crz]Nickname | ↑ |
+| **::{ flag=CN }:: [Idontknowwhathi](https://osu.ppy.sh/users/32379983)** | **24** | 13 | ::{ flag=CN }:: [My Angel Plana](https://osu.ppy.sh/users/13402917) | [#1](https://osu.ppy.sh/community/matches/118184913) |
+| ::{ flag=MY }:: [Tosai_](https://osu.ppy.sh/users/3760209) | 14 | 19 | ::{ flag=CN }:: [\[Crz\]IsxI](https://osu.ppy.sh/users/18042127) | ↑ |
+| ::{ flag=CN }:: [verysour](https://osu.ppy.sh/users/32358269) | 17 | 14 | ::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518) | [#1](https://osu.ppy.sh/community/matches/118185455) |
+| **::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676)** | **30** | 19 | ::{ flag=CN }:: [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494) | ↑ |
 
 Sunday, 25 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **FoaMelt1** | **18** | 8 | LiangFenFan | [#1](https://osu.ppy.sh/community/matches/118196096) |
-| **[GB]ParasolTree** | **30** | 11 | shadiaojunshi | ↑ |
+| **::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108)** | **18** | 8 | ::{ flag=CN }:: [LiangFenFan](https://osu.ppy.sh/users/15183087) | [#1](https://osu.ppy.sh/community/matches/118196096) |
+| **::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902)** | **30** | 11 | ::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753) | ↑ |
 
 #### Quarterfinals
 
@@ -289,26 +289,26 @@ Friday, 16 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| lingR | 11 | 22 | eilander | [#1](https://osu.ppy.sh/community/matches/118106271) |
-| **[Crz]Nickname** | **28** | 19 | MyAngelTeru | ↑ |
+| ::{ flag=CN }:: [lingR](https://osu.ppy.sh/users/18018980) | 11 | 22 | ::{ flag=CN }:: [eilander](https://osu.ppy.sh/users/34990703) | [#1](https://osu.ppy.sh/community/matches/118106271) |
+| **::{ flag=CN }:: [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494)** | **28** | 19 | ::{ flag=CN }:: [MyAngelTeru](https://osu.ppy.sh/users/35458163) | ↑ |
 
 Saturday, 17 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ME1KO N3KO | 17 | **25** | **My Angel Plana** | [#1](https://osu.ppy.sh/community/matches/118117224) |
-| Popy | 21 | 17 | MyAngelTlipoca | ↑ |
-| WingsOfRain | 16 | FF | beiyi | [#1](https://osu.ppy.sh/community/matches/118116688) |
-| Sebastian2817 | 21 | **26** | **[Crz]IsxI** | ↑ |
+| ::{ flag=CN }:: [ME1KO N3KO](https://osu.ppy.sh/users/17572282) | 17 | **25** | **::{ flag=CN }:: [My Angel Plana](https://osu.ppy.sh/users/13402917)** | [#1](https://osu.ppy.sh/community/matches/118117224) |
+| ::{ flag=HK }:: [Popy](https://osu.ppy.sh/users/30829023) | 21 | 17 | ::{ flag=CN }:: [MyAngelTlipoca](https://osu.ppy.sh/users/31524315) | ↑ |
+| ::{ flag=CN }:: [WingsOfRain](https://osu.ppy.sh/users/27029245) | 16 | FF | ::{ flag=HK }:: [beiyi](https://osu.ppy.sh/users/32397022) | [#1](https://osu.ppy.sh/community/matches/118116688) |
+| ::{ flag=CN }:: [Sebastian2817](https://osu.ppy.sh/users/34040907) | 21 | **26** | **::{ flag=CN }:: [\[Crz\]IsxI](https://osu.ppy.sh/users/18042127)** | ↑ |
 
 Sunday, 18 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **FoaMelt1** | **21** | 11 | Tosai_ | [#1](https://osu.ppy.sh/community/matches/118128792) |
-| **LiangFenFan** | **23** | 15 | Idontknowwhathi | ↑ |
-| **[GB]ParasolTree** | **30** | **18** | **shadiaojunshi** | [#1](https://osu.ppy.sh/community/matches/118127286) |
-| WOEM2436 | 16.2 | 16.1 | verysour | ↑ |
+| **::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108)** | **21** | 11 | ::{ flag=MY }:: [Tosai_](https://osu.ppy.sh/users/3760209) | [#1](https://osu.ppy.sh/community/matches/118128792) |
+| **::{ flag=CN }:: [LiangFenFan](https://osu.ppy.sh/users/15183087)** | **23** | 15 | ::{ flag=CN }:: [Idontknowwhathi](https://osu.ppy.sh/users/32379983) | ↑ |
+| **::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902)** | **30** | **18** | **::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753)** | [#1](https://osu.ppy.sh/community/matches/118127286) |
+| ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) | 16.2 | 16.1 | ::{ flag=CN }:: [verysour](https://osu.ppy.sh/users/32358269) | ↑ |
 
 ### Discord division
 
@@ -320,13 +320,13 @@ Saturday, 7 June 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **DawnX** | **7** | 3 | PeachMarrow | [#1](https://osu.ppy.sh/community/matches/118319911) |
+| **::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840)** | **7** | 3 | ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730) | [#1](https://osu.ppy.sh/community/matches/118319911) |
 
 Saturday, 14 June 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **myucchii** | **7** | 1 | DawnX | [#1](https://osu.ppy.sh/community/matches/118388867) |
+| **::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)** | **7** | 1 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | [#1](https://osu.ppy.sh/community/matches/118388867) |
 
 #### Finals
 
@@ -336,14 +336,14 @@ Friday, 30 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Reyi | 22 | 18 | koshepen | [#1](https://osu.ppy.sh/community/matches/118244681) |
-| **PeachMarrow** | **24** | 16 | JayLye | ↑ |
+| ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865) | 22 | 18 | ::{ flag=HK }:: [koshepen](https://osu.ppy.sh/users/17115114) | [#1](https://osu.ppy.sh/community/matches/118244681) |
+| **::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)** | **24** | 16 | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ↑ |
 
 Sunday, 1 June 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| DawnX | 1 | **7** | **myucchii** | [#1](https://osu.ppy.sh/community/matches/118261482) |
+| ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | 1 | **7** | **::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)** | [#1](https://osu.ppy.sh/community/matches/118261482) |
 
 #### Semifinals
 
@@ -353,17 +353,17 @@ Friday, 23 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| floweful | 23 | 16 | ime | [#1](https://osu.ppy.sh/community/matches/118177215) |
-| **koshepen** | **28** | 13 | Znow | ↑ |
+| ::{ flag=FR }:: [flowerful](https://osu.ppy.sh/users/18867523) | 23 | 16 | ::{ flag=ES }:: [ime](https://osu.ppy.sh/users/11649450) | [#1](https://osu.ppy.sh/community/matches/118177215) |
+| **::{ flag=HK }:: [koshepen](https://osu.ppy.sh/users/17115114)** | **28** | 13 | ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) | ↑ |
 
 Sunday, 25 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **DawnX** | **21** | 7 | PeachMarrow | [#1](https://osu.ppy.sh/community/matches/118192355) |
-| **myucchii** | **20** | 12 | Reyi | ↑ |
-| yz1155 | 19 | **22** | **JayLye** | [#1](https://osu.ppy.sh/community/matches/118195461) |
-| 4kenn | 21 | 18 | MatchaLatte- | ↑ |
+| **::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840)** | **21** | 7 | ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730) | [#1](https://osu.ppy.sh/community/matches/118192355) |
+| **::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)** | **20** | 12 | ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865) | ↑ |
+| ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) | 19 | **22** | **::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447)** | [#1](https://osu.ppy.sh/community/matches/118195461) |
+| ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815) | 21 | 18 | ::{ flag=TH }:: [MatchaLatte-](https://osu.ppy.sh/users/15944956) | ↑ |
 
 #### Quarterfinals
 
@@ -373,37 +373,41 @@ Tuesday, 13 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Big noob lol | 4 | **6** | **Znow** | [#1](https://osu.ppy.sh/community/matches/118080373) |
+| ::{ flag=SG }:: [Big noob lol](https://osu.ppy.sh/users/21591349) | 4 | **6** | **::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303)** | [#1](https://osu.ppy.sh/community/matches/118080373) |
 
 Friday, 16 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Projiensux | 1 | **6** | **JayLye** | [#1](https://osu.ppy.sh/community/matches/118105754) |
-| **MiniEgg_23** | **6** | -1 | Anterex | [win by default](https://osu.ppy.sh/community/matches/118111073) |
-| Fubuki fan | -1 | **6** | **Naito Mare** | [win by default](https://osu.ppy.sh/community/matches/118111656) |
+| **::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840)** | **6** | 1 | ::{ flag=HK }:: [koshepen](https://osu.ppy.sh/users/17115114) | [#1](https://osu.ppy.sh/community/matches/118105437) |
+| ::{ flag=MY }:: [Projiensux](https://osu.ppy.sh/users/26882713) | 1 | **6** | **::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447)** | [#1](https://osu.ppy.sh/community/matches/118105754) |
+| **::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360)** | **6** | -1 | ::{ flag=CL }:: [Anterex](https://osu.ppy.sh/users/24548857) | [win by default](https://osu.ppy.sh/community/matches/118111073) |
+| ::{ flag=HK }:: [fubuki fan](https://osu.ppy.sh/users/13471840) | -1 | **6** | **::{ flag=CL }:: [Naito Mare](https://osu.ppy.sh/users/8880797)** | [win by default](https://osu.ppy.sh/community/matches/118111656) |
 
 Saturday, 17 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Achino | -1 | **6** | **Plana_** | [win by default](https://osu.ppy.sh/community/matches/118115496) |
-| **MatchaLatte-** | **6** | 5 | [LS]Vixile | [#1](https://osu.ppy.sh/community/matches/118118785) |
-| Hawkfrost | 15 | **25** | **ime** | [#1](https://osu.ppy.sh/community/matches/118118229) |
-| Unitori- | 18 | 22 | Ancuw | ↑ |
+| ::{ flag=TH }:: [Achino](https://osu.ppy.sh/users/13349388) | -1 | **6** | **::{ flag=PH }:: [Plana_](https://osu.ppy.sh/users/24776314)** | [win by default](https://osu.ppy.sh/community/matches/118115496) |
+| ::{ flag=FR }:: [flowerful](https://osu.ppy.sh/users/18867523) | 1 | **6** | **::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)** | [#1](https://osu.ppy.sh/community/matches/118121447) |
+| **::{ flag=TH }:: [MatchaLatte-](https://osu.ppy.sh/users/15944956)** | **6** | 5 | ::{ flag=VN }:: [\[LS\]Vixile](https://osu.ppy.sh/users/26233321) | [#1](https://osu.ppy.sh/community/matches/118118785) |
+| ::{ flag=VN }:: [Hawkfrost](https://osu.ppy.sh/users/15555328) | 15 | **25** | **::{ flag=ES }:: [ime](https://osu.ppy.sh/users/11649450)** | [#1](https://osu.ppy.sh/community/matches/118118229) |
+| Unitori- | 18 | 22 | ::{ flag=PE }:: [Julia Igarashi](https://osu.ppy.sh/users/18342820) | ↑ |
 
 Sunday, 18 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **JayLye** | **6** | 0 | MiniEgg_23 | [#1](https://osu.ppy.sh/community/matches/118128558) |
-| **MatchaLatte-** | **6** | 2 | Naito Mare | [#1](https://osu.ppy.sh/community/matches/118130809) |
+| **::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)** | **6** | 0 | ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815) | [#1](https://osu.ppy.sh/community/matches/118124956) |
+| **::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865)** | **6** | 1 | ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) | [#1](https://osu.ppy.sh/community/matches/118129588) |
+| **::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447)** | **6** | 0 | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) | [#1](https://osu.ppy.sh/community/matches/118128558) |
+| **::{ flag=TH }:: [MatchaLatte-](https://osu.ppy.sh/users/15944956)** | **6** | 2 | ::{ flag=CL }:: [Naito Mare](https://osu.ppy.sh/users/8880797) | [#1](https://osu.ppy.sh/community/matches/118130809) |
 
 Monday, 19 May 2025
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Znow** | **6** | 3 | Plana_ | [#1](https://osu.ppy.sh/community/matches/118136258) |
+| **::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303)** | **6** | 3 | ::{ flag=PH }:: [Plana_](https://osu.ppy.sh/users/24776314) | [#1](https://osu.ppy.sh/community/matches/118136258) |
 
 ### Regular stage
 
