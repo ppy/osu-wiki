@@ -5,6 +5,7 @@ tags:
   - GBC 2025
   - GBC 2025 Spring
   - GBC2025Spring
+no_native_review: true
 ---
 
 # GBC 2025 春季赛
