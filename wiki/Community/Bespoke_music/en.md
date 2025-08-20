@@ -1482,7 +1482,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 | Links |  | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-|  [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=iXHEjRGPlGs "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3ZeLZZACV1nvSeMnXZy5mw?si=8ccbf707976c447b "Spotify") |  | LUMiNOZ Sound Team - Lands Below the Sojourning Winds | [#1](https://osu.ppy.sh/beatmapsets/2294564) | Grand Finals tiebreaker |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=iXHEjRGPlGs "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3ZeLZZACV1nvSeMnXZy5mw?si=8ccbf707976c447b "Spotify") |  | LUMiNOZ Sound Team - Lands Below the Sojourning Winds | [#1](https://osu.ppy.sh/beatmapsets/2294564) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Southeast Asia Taiko Rising Stars](https://osu.ppy.sh/community/forums/topics/2077189)
 
