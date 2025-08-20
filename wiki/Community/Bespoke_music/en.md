@@ -834,7 +834,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/aidolon/nexus "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=aidolon&query=%22Nexus%22 "osu! original") | aidolon - Nexus | [#1](https://osu.ppy.sh/beatmapsets/2403359) | Grand Finals NM1 |
 | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://arxe.bandcamp.com/track/feat "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ArXe&query=%22Kasumi%20Tourou%20feat.%20Hatsune%20Miku%22 "osu! original") | ArXe - Kasumi Tourou feat. Hatsune Miku | [#1](https://osu.ppy.sh/beatmapsets/2403349) | Grand Finals NM2 |
-| [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://mananathone.bandcamp.com/track/name "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=mananatheone&query=%22Name%22 "osu! original") | mananatheone - Name | [#1](https://osu.ppy.sh/beatmapsets/2403355) | Grand Finals HD3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/mananatheone/name "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://mananathone.bandcamp.com/track/name "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=mananatheone&query=%22Name%22 "osu! original") | mananatheone - Name | [#1](https://osu.ppy.sh/beatmapsets/2403355) | Grand Finals HD3 |
 
 #### ![](/wiki/shared/mode/osu.png) [Nordic Summer Showdown](/wiki/Tournaments/NSS/1)
 
