@@ -277,7 +277,7 @@ This contest has come to an end and resulted in the following podium:
 ### Mapping category results
 
 | # | Entry | Mapping Elo | Win rate[^win-rate] |
-| :-: | :-- | --: | --:
+| :-: | :-- | --: | --: |
 | 1 | [Koto Spirit - Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) | 1724.3 | 76% |
 | 2 | [kanase. - Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691) | 1625.3 | 65% |
 | 3 | [Will Stetson - Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) | 1616.3 | 63% |
