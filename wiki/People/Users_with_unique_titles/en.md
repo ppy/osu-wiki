@@ -109,7 +109,7 @@ Winners of previous osu!catch World Cups with the **Former osu!catch Champion** 
 | [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304) |
 | [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) |
 | [CWC 2023](/wiki/Tournaments/CWC/2023) | Former osu!catch Champion: 2023 | ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951), ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506), ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520), ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) |
-| [CWC 2024](/wiki/Tournaments/CWC/2023) | Former osu!catch Champion: 2024 | ::{ flag=US }:: [Colin](https://osu.ppy.sh/users/5502521), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149), ::{ flag=US }:: [rostld](https://osu.ppy.sh/users/4365562), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Trent](https://osu.ppy.sh/users/3438241) |
+| [CWC 2024](/wiki/Tournaments/CWC/2024) | Former osu!catch Champion: 2024 | ::{ flag=US }:: [Colin](https://osu.ppy.sh/users/5502521), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149), ::{ flag=US }:: [rostld](https://osu.ppy.sh/users/4365562), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Trent](https://osu.ppy.sh/users/3438241) |
 
 Winners of previous osu!mania World Cups with the **Former osu!mania Champion** user title:
 
@@ -251,7 +251,7 @@ These users were awarded a title as a winner prize based on what role they had o
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
 - ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315)
 - ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023)
-- ::{ flag=SK }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992)
 
@@ -270,8 +270,8 @@ These users were awarded a title as a winner prize based on what role they had o
 - ::{ flag=US }:: [Akiri-](https://osu.ppy.sh/users/19587411)
 - ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313)
 - ::{ flag=US }:: [Defy](https://osu.ppy.sh/users/15428357)
-- ::{ flag=US }:: [Kawashiro](https://osu.ppy.sh/users/1533796)
-- ::{ flag=US }:: [KiAme](https://osu.ppy.sh/users/37416442)
+- ::{ flag=KR }:: [Kawashiro](https://osu.ppy.sh/users/1533796)
+- ::{ flag=CA }:: [KiAme](https://osu.ppy.sh/users/37416442)
 - ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678)
 - ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794)
 - ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088)
