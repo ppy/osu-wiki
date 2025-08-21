@@ -38,6 +38,12 @@ Runner ups
 
 Stand outs (upsets and new countries)
 
+Segue.
+
+![Seed placement comparison](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/seeds-comparison.jpg)
+
+Comparisons with last year.
+
 # Interviews
 
 <style>
