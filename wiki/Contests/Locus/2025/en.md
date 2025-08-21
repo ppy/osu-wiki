@@ -422,7 +422,7 @@ The results were as follows:
 | :-: | :-- | --: | --: | --: |
 | 1 | [Camellia - Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992) | **3389** | 1622 | 1767 |
 | 2 | [Ludicin - Lost Requiem](https://osu.ppy.sh/beatmapsets/2325151) | **3325** | 1630 | 1695 |
-| 3 | [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapseationts/2095177) | **3272** | 1624 | 1648 |
+| 3 | [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177) | **3272** | 1624 | 1648 |
 | 4 | [Imy feat. Natsume Itsuki - Lies playing Truth](https://osu.ppy.sh/beatmapsets/2271658) | **3230** | 1553 | 1677 |
 | 5 | [Yooh - RPG](https://osu.ppy.sh/beatmapsets/1633250) | **3211** | 1670 | 1541 |
 | 6 | [Umeboshi Chazuke - AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953) | **3202** | 1477 | 1725 |
