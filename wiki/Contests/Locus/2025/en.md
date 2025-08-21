@@ -225,7 +225,7 @@ This contest has come to an end and resulted in the following podium:
 | 39 | [eluixx - untitled_1](https://osu.ppy.sh/beatmapsets/2412290) | 1282 | 26% |
 | 40 | [ZxKirara feat. Shian - Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) | 1223.3 | 21% |
 | 41 | [Evangelion_guy - it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237) | 1185.3 | 17% |
-| 42 | [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) | 785.1 | 0% |
+| 42 | [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) | 785.1 | 0%[^free-your-heart-dq] |
 
 ### Music category results
 
@@ -422,7 +422,7 @@ The results were as follows:
 | :-: | :-- | --: | --: | --: |
 | 1 | [Camellia - Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992) | **3389** | 1622 | 1767 |
 | 2 | [Ludicin - Lost Requiem](https://osu.ppy.sh/beatmapsets/2325151) | **3325** | 1630 | 1695 |
-| 3 | [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177) | **3272** | 1624 | 1648 |
+| 3 | [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapseationts/2095177) | **3272** | 1624 | 1648 |
 | 4 | [Imy feat. Natsume Itsuki - Lies playing Truth](https://osu.ppy.sh/beatmapsets/2271658) | **3230** | 1553 | 1677 |
 | 5 | [Yooh - RPG](https://osu.ppy.sh/beatmapsets/1633250) | **3211** | 1670 | 1541 |
 | 6 | [Umeboshi Chazuke - AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953) | **3202** | 1477 | 1725 |
@@ -459,3 +459,4 @@ The results were as follows:
 
 [^win-rate]: Win rate is the ratio of total wins over losses against other entries during the Elo calculation.
 [^vote-count]: Each voter is assigned 5 randomly selected entries to rank in each category. The vote count is the amount of voters assigned to a particular entry who also submitted their vote.
+[^free-your-heart-dq]: This map was disqualified from the graphics category due to the beatmap's background being plagiarized.
