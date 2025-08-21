@@ -253,7 +253,7 @@ Saturday, 31 May 2025
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753) | 16 | 22 | ::{ flag=CN }:: [Idontknowwhathi](https://osu.ppy.sh/users/32379983) | [#1](https://osu.ppy.sh/community/matches/118253483) |
-| ::{ flag=CN }:: [LiangFenFan](https://osu.ppy.sh/users/15183087) | 17 | **25** | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) | ↑ |
+| ::{ flag=CN }:: [LiangFenFan](https://osu.ppy.sh/users/15183087) | 17 | **25** | **::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676)** | ↑ |
 
 Sunday, 1 June 2025
 
@@ -392,7 +392,7 @@ Saturday, 17 May 2025
 | ::{ flag=FR }:: [flowerful](https://osu.ppy.sh/users/18867523) | 1 | **6** | **::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)** | [#1](https://osu.ppy.sh/community/matches/118121447) |
 | **::{ flag=TH }:: [MatchaLatte-](https://osu.ppy.sh/users/15944956)** | **6** | 5 | ::{ flag=VN }:: [\[LS\]Vixile](https://osu.ppy.sh/users/26233321) | [#1](https://osu.ppy.sh/community/matches/118118785) |
 | ::{ flag=VN }:: [Hawkfrost](https://osu.ppy.sh/users/15555328) | 15 | **25** | **::{ flag=ES }:: [ime](https://osu.ppy.sh/users/11649450)** | [#1](https://osu.ppy.sh/community/matches/118118229) |
-| Unitori- | 18 | 22 | ::{ flag=PE }:: [Julia Igarashi](https://osu.ppy.sh/users/18342820) | ↑ |
+| ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) | 18 | 22 | ::{ flag=PE }:: [Julia Igarashi](https://osu.ppy.sh/users/18342820) | ↑ |
 
 Sunday, 18 May 2025
 
