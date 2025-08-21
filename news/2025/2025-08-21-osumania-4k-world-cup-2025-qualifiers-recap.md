@@ -18,19 +18,19 @@ Intro to the vid. Credit the vidmakers.
 
 ## Mappool recap
 
-[**Download the pool here! (X MB)**](https://osu.ppy.sh/beatmaps/packs/PACK_ID)
+[**Download the pool here! (51 MB)**](https://osu.ppy.sh/beatmaps/packs/P294)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Qualifier mappool table](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/mappool.jpg)
+![Qualifier mappool table](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/mappool-qualifiers.jpg)
 
 Highlight the different parts of the mappool and other noticeable changes this year. Use mint's notes.
 
 ## Qualifier highlights
 
-![Qualifier results table](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/results.jpg)
+![Qualifier results table](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/results-qualifiers.jpg)
 
 Top seeds
 
@@ -40,7 +40,7 @@ Stand outs (upsets and new countries)
 
 Segue.
 
-![Seed placement comparison](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/seeds-comparison.jpg)
+![Scoreboard](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/qualifiers-scoreboard.jpg)
 
 Comparisons with last year.
 
