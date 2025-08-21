@@ -12,7 +12,7 @@ osu!catch，之前称作 *Catch the Beat* 或 *CtB*，是一个游戏模式，�
 
 ## 玩家控制
 
-在 osu!catch 中，玩家应随着音乐节奏控制**小人（Catcher，也可称作“Platter”）**接住下落的水果。控制小人移动的默认按键如下：
+在 osu!catch 中，玩家应随着音乐节奏控制**小人（Catcher，也可称作 "Platter"）**接住下落的水果。控制小人移动的默认按键如下：
 
 - 左 `<-` 和右 `->` 箭头键或 `Z` 与 `X` 键移动小人。
 - 按住左 `Shift` 键或鼠标左键可以激活*加速*状态，标志是小人发出**白色光晕**，移动时留下残影。加速状态下小人的移速是正常速度的**两倍**。
@@ -31,7 +31,7 @@ osu!catch 主要有三种[打击物件](/wiki/gameplay/Hit_object)，玩家可�
 
 ![大果的图像](/wiki/shared/Catch_fruits.jpg "osu!catch 的大果")
 
-**大果 (Fruits)** 是 osu!catch 中最简单的物件类型。用户只需将小人移到大果下方，这样它就会掉落到盘子上，而不会盖过盘子。
+**大果 (Fruits)** 是 osu!catch 中最简单的物件类型。用户只需将小人移到大果下方，这样它就会掉落到盘子上，而不会穿过盘子。
 
 接到的大果总会给出 `GREAT` 判定，每个大果给 300 分并会将连击数增加 1。
 
@@ -105,7 +105,7 @@ osu!catch 有三种难度参数，每种参数都对游玩过程有不同影响�
 
 ### 游玩
 
-- [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组*总*会收集所有香蕉，玩家名称显示为 *“osu!salad”*。
+- [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组*总*会收集所有香蕉，玩家名称显示为 *"osu!salad"*。
 - 当启用`打击偏差`分数计时，总会使用`色块模式`。
 - 在所有休息时段期间，都可以移动小人。
 - 小人失误 (Miss) 时的动画，与 osu!taiko 中 pippidon 的失误动画很相似。
