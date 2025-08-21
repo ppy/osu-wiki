@@ -119,7 +119,7 @@ This contest has come to an end and resulted in the following podium:
 
 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) also picked an entry to receive the [additional mystery prize](#prizes):
 
-![Locus 2025 peppy's pick](img/peppy-pick.jpg)
+![Locus 2025 peppy's pick](img/peppy-pick.jpg?1)
 
 ### Playlist winner
 
