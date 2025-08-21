@@ -21,7 +21,7 @@ Submissions to this contest included the following elements:
 | Entry submission deadline | 30 June 2025 (12:00) |
 | Community voting period | 1 August to 16 August 2025 (12:00) |
 | Results stream | 17 August 2025 (14:00) |
-| Results news publication | 20 August 2025 |
+| Results news publication | 21 August 2025 |
 
 ## Prizes
 
@@ -58,7 +58,7 @@ Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) 
 - [Contest update #2](https://osu.ppy.sh/home/news/2025-06-03-locus-2025-update-2)
 - [Voting announcement](https://osu.ppy.sh/home/news/2025-08-01-locus-2025-voting-open)
 - [Voting announcement VOD at COE](https://www.twitch.tv/videos/2528089150?t=02h32m33s)
-- [Results announcement](https://osu.ppy.sh/home/news/2025-08-20-locus-2025-results)
+- [Results announcement](https://osu.ppy.sh/home/news/2025-08-21-locus-2025-results)
 
 ## Entries
 
