@@ -459,4 +459,4 @@ The results were as follows:
 
 [^win-rate]: Win rate is the ratio of total wins over losses against other entries during the Elo calculation.
 [^vote-count]: Each voter is assigned 5 randomly selected entries to rank in each category. The vote count is the amount of voters assigned to a particular entry who also submitted their vote.
-[^free-your-heart-dq]: This map was disqualified from the graphics category due to the beatmap's background being plagiarized.
+[^free-your-heart-dq]: This map was disqualified from the graphics category due to the beatmap's background being too heavily inspired by an existing artwork.
