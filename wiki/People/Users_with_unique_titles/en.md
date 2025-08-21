@@ -17,23 +17,23 @@ Winners of [OWC 2024](/wiki/Tournaments/OWC/2024) with the **osu! Champion** use
 - ::{ flag=KR }:: [fragranceofpage](https://osu.ppy.sh/users/11399348)
 - ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450)
 
-Winners of [TWC 2024](/wiki/Tournaments/TWC/2024) with the **osu!taiko Champion** user title:
+Winners of [TWC 2025](/wiki/Tournaments/TWC/2025) with the **osu!taiko Champion** user title:
 
+- ::{ flag=JP }:: [\_Kan2](https://osu.ppy.sh/users/7160196)
 - ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311)
 - ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073)
-- ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357)
 - ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
+- ::{ flag=JP }:: [My Angel Eru](https://osu.ppy.sh/users/26454214)
 - ::{ flag=JP }:: [Nekomusya7563](https://osu.ppy.sh/users/1382717)
-- ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757)
 
-Winners of [CWC 2024](/wiki/Tournaments/CWC/2024) with the **osu!catch Champion** user title:
+Winners of [CWC 2025](/wiki/Tournaments/CWC/2025) with the **osu!catch Champion** user title:
 
-- ::{ flag=US }:: [Colin](https://osu.ppy.sh/users/5502521)
-- ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006)
-- ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149)
-- ::{ flag=US }:: [rostld](https://osu.ppy.sh/users/4365562)
-- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
-- ::{ flag=US }:: [Trent](https://osu.ppy.sh/users/3438241)
+- ::{ flag=AR }:: [\[225\]SirAlex](https://osu.ppy.sh/users/17738253)
+- ::{ flag=AR }:: [\[225\]Zeus](https://osu.ppy.sh/users/8329151)
+- ::{ flag=AR }:: [Naarkz](https://osu.ppy.sh/users/19490380)
+- ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439)
+- ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283)
+- ::{ flag=AR }:: [VelperK](https://osu.ppy.sh/users/348467)
 
 Winners of [MWC 4K 2024](/wiki/Tournaments/MWC/2024_4K) with the **osu!mania 4K Champion** user title:
 
@@ -91,6 +91,7 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
 | [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742), ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
 | [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950), ::{ flag=JP }:: [kotohira_06](https://osu.ppy.sh/users/22444525), ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562) |
+| [TWC 2024](/wiki/Tournaments/TWC/2024) | Former osu!taiko Champion: 2024 | ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357), ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757) |
 
 Winners of previous osu!catch World Cups with the **Former osu!catch Champion** user title:
 
@@ -108,6 +109,7 @@ Winners of previous osu!catch World Cups with the **Former osu!catch Champion** 
 | [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304) |
 | [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) |
 | [CWC 2023](/wiki/Tournaments/CWC/2023) | Former osu!catch Champion: 2023 | ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951), ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506), ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520), ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) |
+| [CWC 2024](/wiki/Tournaments/CWC/2023) | Former osu!catch Champion: 2024 | ::{ flag=US }:: [Colin](https://osu.ppy.sh/users/5502521), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149), ::{ flag=US }:: [rostld](https://osu.ppy.sh/users/4365562), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Trent](https://osu.ppy.sh/users/3438241) |
 
 Winners of previous osu!mania World Cups with the **Former osu!mania Champion** user title:
 
@@ -238,6 +240,41 @@ The [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) award its winni
 - ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621)
 - ::{ flag=US }:: [Codazen](https://osu.ppy.sh/users/18291144)
 - ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207)
+
+## Locus contest winners
+
+These users were awarded a title as a winner prize based on what role they had on their team during the [Locus](/wiki/en/Contests/Locus/2025) mapping contest.
+
+**Mapping Architect**
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
+- ::{ flag=MY }:: [Etsuko Marvia](https://osu.ppy.sh/users/13893348)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315)
+- ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023)
+- ::{ flag=SK }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
+- ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992)
+
+**Visual Architect**
+- ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499)
+- ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233)
+- ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127)
+- ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323)
+- ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)
+- ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910)
+- ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223)
+- ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534)
+- ::{ flag=CA }:: [Xiaoraini](https://osu.ppy.sh/users/3607337)
+
+**Musical Architect**
+- ::{ flag=US }:: [Akiri-](https://osu.ppy.sh/users/19587411)
+- ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313)
+- ::{ flag=US }:: [Defy](https://osu.ppy.sh/users/15428357)
+- ::{ flag=US }:: [Kawashiro](https://osu.ppy.sh/users/1533796)
+- ::{ flag=US }:: [KiAme](https://osu.ppy.sh/users/37416442)
+- ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678)
+- ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794)
+- ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088)
 
 ## osu!musician
 
