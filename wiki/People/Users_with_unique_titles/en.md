@@ -245,7 +245,8 @@ The [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) award its winni
 
 These users were awarded a title as a winner prize based on what role they had on their team during the [Locus](/wiki/en/Contests/Locus/2025) mapping contest.
 
-**Mapping Architect**
+Team members who contributed to mapping in Locus received the **Mapping Architect** title:
+
 - ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=MY }:: [Etsuko Marvia](https://osu.ppy.sh/users/13893348)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -255,7 +256,8 @@ These users were awarded a title as a winner prize based on what role they had o
 - ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992)
 
-**Visual Architect**
+Team members who contributed to graphics in Locus received the **Visual Architect** title:
+
 - ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499)
 - ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233)
 - ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127)
@@ -266,7 +268,8 @@ These users were awarded a title as a winner prize based on what role they had o
 - ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534)
 - ::{ flag=CA }:: [Xiaoraini](https://osu.ppy.sh/users/3607337)
 
-**Musical Architect**
+Team members who contributed to music in Locus received the **Musical Architect** title:
+
 - ::{ flag=US }:: [Akiri-](https://osu.ppy.sh/users/19587411)
 - ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313)
 - ::{ flag=US }:: [Defy](https://osu.ppy.sh/users/15428357)
