@@ -4,7 +4,7 @@ title: "Beatmap Spotlights: Summer 2025"
 date: 2025-08-22 18:00:00 +0000
 ---
 
-Beatmap Spotlights are back for the Summer 2025 Season! Check out the fresh selection of beatmaps and compete for the highest placement in the seasonal rankings!
+The Beatmap Spotlights are back for the summer 2025 season! Check out the fresh selection of beatmaps and compete for highest placement in the seasonal rankings!
 
 ![](/wiki/shared/news/2025-08-22-beatmap-spotlights-summer-2025/banner.jpg)
 
@@ -155,7 +155,7 @@ This Rain difficulty is sure to appeal to both new players who are just learning
 **[technoplanet - Vomit (\_Stan) \[\[7K\] Blocko's Cascade\]](https://osu.ppy.sh/beatmapsets/2203489#osu/4793111)**, created by [Blocko](https://osu.ppy.sh/users/4075092)\
 *primarily suggested and described by [Maxus](https://osu.ppy.sh/users/4335785)*
 
-This season, we are thrilled to unveil a remarkable osu!original created exclusively for the osu!mania 7K World Cup 2024. Composed by the talented [technoplanet](https://osu.ppy.sh/beatmaps/artists/193) and brought to life through the expert mapping of [Blocko](https://osu.ppy.sh/users/4075092), one of the community’s finest 7K mappers, this masterpiece stands proudly as our Beatmap of the Season.
+This season, we are thrilled to highlight a remarkable [osu! original](/wiki/Community/Bespoke_music) created exclusively for the [osu!mania 7K World Cup 2024](/wiki/Tournaments/MWC/2024_7K). Composed by the talented [technoplanet](https://osu.ppy.sh/beatmaps/artists/193) and brought to life through the expert mapping of [Blocko](https://osu.ppy.sh/users/4075092), one of the community’s finest 7K mappers, this masterpiece stands proudly as our Beatmap of the Season.
 
 Prepare for an unforgettable challenge! This chart delivers a perfect harmony of rice and long notes, combined with unconventional, high-intensity patterns that will keep players engaged from the very first note. It demands physical precision, technical mastery, and impeccable coordination. A true test for anyone aiming to conquer its most intricate sections. As the music builds toward its epic final climax, the map transforms into an immersive journey, each note meticulously emphasizing the song's story and emotional progression.
 
@@ -181,7 +181,7 @@ We are beyond excited to present this beatmap as the highlight of the season, co
 
 ## Spring Season 2025 Beatmap of the Season - Players' Pick
 
-Enjoyed the last Spring 2025 season? Don't forget to vote for your favorite beatmaps that were featured on the last playlists!
+Enjoyed the last season of spring 2025? Be sure to give your vote on best beatmap featured on its playlists!
 
 Winners of each contest will be rewarded with *3 months of osu!supporter*, so spend your three votes wisely!
 
@@ -196,20 +196,20 @@ Check out contest pages for each game mode:
 
 Following up on recent Beatmap Spotlight Curator applications, there's been some shuffling around in terms of the team memberships.
 
-We’d like to give a warm welcome to the new members joining us this season. They will support the existing Curators team in crafting the best playlists for you to compete on! 
+We’d like to give a warm welcome to the new members joining us this season. They will support the existing Curators team in crafting the best playlists for you to compete on!
 
-- **osu!**: [Boolin](https://osu.ppy.sh/users/10664409), [Chaoslitz](https://osu.ppy.sh/users/3621552), [nanoya] (https://osu.ppy.sh/users/12366071), [Ryuusei Aika](https://osu.ppy.sh/users/7777875) [Willy](https://osu.ppy.sh/users/3521482), [Wispy](https://osu.ppy.sh/users/11106929), [zekk](https://osu.ppy.sh/users/9704802)
+- **osu!**: [Boolin](https://osu.ppy.sh/users/10664409), [Chaoslitz](https://osu.ppy.sh/users/3621552), [nanoya](https://osu.ppy.sh/users/12366071), [Ryuusei Aika](https://osu.ppy.sh/users/7777875) [Willy](https://osu.ppy.sh/users/3521482), [Wispy](https://osu.ppy.sh/users/11106929), [zekk](https://osu.ppy.sh/users/9704802)
 - **osu!taiko**: [nevqr](https://osu.ppy.sh/users/14269506), [Yasuho](https://osu.ppy.sh/users/8458835)
 - **osu!catch**: [Constantine](https://osu.ppy.sh/users/3221898), [Realmaas](https://osu.ppy.sh/users/6567640)
 - **osu!mania**: [Akasha-](https://osu.ppy.sh/users/2596306), [Muse Dash](https://osu.ppy.sh/users/13695676), [Rurvker](https://osu.ppy.sh/users/24526335), [Spy](https://osu.ppy.sh/users/1217122)
 
 We would also like to say farewell to the following people who decided to step down from the team: [Boaz](https://osu.ppy.sh/users/13302996), [DeviousPanda](https://osu.ppy.sh/users/4966334), [enri](https://osu.ppy.sh/users/8640970), [Hivie](https://osu.ppy.sh/users/14102976), [meiqth](https://osu.ppy.sh/users/12565402) and [sularis](https://osu.ppy.sh/users/14571181). Big thanks for your service!
 
-This season, [Yasuho](https://osu.ppy.sh/users/8458835) also took over the osu!taiko curators, while [Maxus](https://osu.ppy.sh/users/4335785) started to lead the osu!mania team.
+This season, [Yasuho](https://osu.ppy.sh/users/8458835) also took over the osu!taiko curators, while [Maxus](https://osu.ppy.sh/users/4335785) has started taking the reins with leading the osu!mania team.
 
 ---
 
-Join the [osu! Discord server](https://discord.com/invite/ppy), and head over to `#osu-spotlights` to talk about everything related to Beatmap Spotlights. You can also opt-in to receive updates about seasons, playlists, and general announcements by assigning yourself the appropriate ping role in the `#welcome` channel.
+Join the [osu! Discord server](https://discord.com/invite/ppy) and head over to `#osu-spotlights` to talk about everything related to Beatmap Spotlights. You can also opt in to receive updates about seasons, playlists, and general announcements by assigning yourself the appropriate ping role in the `#welcome` channel. You can also find out more about the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu! wiki.
 
 See you in the playlist lobbies!
 
