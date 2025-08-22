@@ -225,7 +225,7 @@ This contest has come to an end and resulted in the following podium:
 | 39 | [eluixx - untitled_1](https://osu.ppy.sh/beatmapsets/2412290) | 1282 | 26% |
 | 40 | [ZxKirara feat. Shian - Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) | 1223.3 | 21% |
 | 41 | [Evangelion_guy - it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237) | 1185.3 | 17% |
-| 42 | [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) | 785.1 | 0% |
+| 42 | [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) | 785.1 | 0%[^free-your-heart-dq] |
 
 ### Music category results
 
@@ -459,3 +459,4 @@ The results were as follows:
 
 [^win-rate]: Win rate is the ratio of total wins over losses against other entries during the Elo calculation.
 [^vote-count]: Each voter is assigned 5 randomly selected entries to rank in each category. The vote count is the amount of voters assigned to a particular entry who also submitted their vote.
+[^free-your-heart-dq]: This map was disqualified from the graphics category due to the beatmap's background being too heavily inspired by an existing artwork.
