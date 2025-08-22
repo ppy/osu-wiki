@@ -243,7 +243,7 @@ The [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) award its winni
 
 ## Locus contest winners
 
-These users were awarded a title as a winner prize based on what role they had on their team during the [Locus](/wiki/en/Contests/Locus/2025) mapping contest.
+These users were awarded a title as a winner prize based on what role they had on their team during the [Locus](/wiki/Contests/Locus/2025) mapping contest.
 
 Team members who contributed to mapping in Locus received the **Mapping Architect** title:
 
