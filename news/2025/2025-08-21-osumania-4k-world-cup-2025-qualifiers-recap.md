@@ -64,10 +64,6 @@ Comparisons with last year.
         margin-bottom: 2px;
     }
 
-    .news-chat-quote__colour-gmt {
-        color: #99EB47;
-    }
-
     .news-chat-quote__colour-nat {
         color: #fa3703;
     }
@@ -77,11 +73,11 @@ Comparisons with last year.
     }
 </style>
 
-Intro to the interview, explain rationale behind it
+Many people underestimate how big of an undertaking preparing a tournament as the osu!mania 4K World Cup really is. Many of the challenges that the pooling team faces are transparent to the end-user. As such, we wanted to interview a few of its most important members to give users a small glimpse into the work that goes behind running the tournament!
 
 ![](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/elexire.png)
 
-Intro to the user (elexire)
+[elexire](https://osu.ppy.sh/users/9206093) may not be as known as the other members of the pooling team, but their work is nothing short of impressive. Their tournament experiences across multiple community tournaments did not go unnoticed by the rest of map selectors, and as such were added to the team as of last year. Let us get their perspective working as a pooler as they begin to shape the future of osu!mania 4K World Cups to come!
 
 <div class="news-chat-quote__text-container">
 
@@ -89,7 +85,7 @@ Intro to the user (elexire)
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
-Question 1
+Given your previous experiences, how do you think pooling for MWC differs from other community tournaments? What would you say you've had the most impact in? Lastly, are there any future goals, ambitions, or plans you or the team had in mind for the tournaments yet to come?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9206093" style="background-image: url('/wiki/shared/avatars/elexire.jpg')"></a>
 
@@ -101,7 +97,7 @@ Answer 1
 
 ![](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/V1do-.png)
 
-Into to the user (V1do-)
+Ever since they ranked their first map back in 2022, [V1do-](https://osu.ppy.sh/users/17527968) has rapidly made a name for themselves across the entire community. As they garnered more experience, they ended up giving tournament mapping a much deserved chance. Lo and behold, their efforts managed to bear fruit as they joined the mapping team in 2024! A true testament to their dedication to the art of mapping and community alike.
 
 <div class="news-chat-quote__text-container">
 
@@ -109,7 +105,7 @@ Into to the user (V1do-)
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
-Question 2
+As a mapper, what do you find the most interesting about mapping for a specific tournament, let alone one as prestigious as MWC? How was your experience mapping for Qualifiers this year, and how much different was it from bracket stages? As a recent addition yourself, do you have any suggestions for any user whose long term goal is to join the mapping team?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17527968" style="background-image: url('/wiki/shared/avatars/V1do-.jpg')"></a>
 
@@ -121,7 +117,7 @@ Answer 2
 
 ![](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/mashu.png)
 
-Intro to the user (mashu)
+Two times MWC 4K winner for team USA and playlist winner extraordinaire, [mashu](https://osu.ppy.sh/users/12028216) has forsaken their right to play for the tournament to become a playtester for the second time in a row! Let us hear their thoughts after having been on both sides of the fence for so long.
 
 <div class="news-chat-quote__text-container">
 
@@ -129,7 +125,7 @@ Intro to the user (mashu)
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
-Question 3
+The transition from being a player to becoming a playtester must've not been easy. Have you been enjoying your job as a playtester, even if it meant waving away your right to play for the tournament? How important of a task do you think playtesting is when it comes to ensuring the quality of the pools?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12028216" style="background-image: url('/wiki/shared/avatars/mashu.jpg')"></a>
 
