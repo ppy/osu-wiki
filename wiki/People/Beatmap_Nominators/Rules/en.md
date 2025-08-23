@@ -2,7 +2,7 @@
 
 The rules listed here affect what [Beatmap Nominators](/wiki/People/Beatmap_Nominators) can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them. These rules are the result of discussion within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) and have taken into account feedback from the Beatmap Nominators upon their proposal.
 
-Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings; for this reason, they have to abide by the rules at all times. Violating any of these may get the respective Beatmap Nominator removed from the Beatmap Nominators. Violations of those rules may be reported to a member of the NAT directly via the [BN Management website](https://bn.mappersguild.com/reports).
+Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings; for this reason, they have to abide by the rules at all times. Violating any of these may get the respective Beatmap Nominator removed from the Beatmap Nominators. Violations of those rules may be reported to the NAT directly via the [BN Management website](https://bn.mappersguild.com/reports).
 
 ## Expectations
 
@@ -66,8 +66,9 @@ Please see the [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) page
 - **Do not veto beatmaps of game modes you are not formally qualified for.** You are not allowed to nominate them, so blocking a nomination without the ability to renominate the beatmap makes no sense. This does not apply to vetoes regarding audio, backgrounds, or other content that does not directly pertain to the beatmap's game mode.
 - **You can veto a beatmap by posting the issues you think need to be addressed before reaching Ranked status in the form of problem or suggestion stamps in the respective modding discussion.** This will halt the beatmap from proceeding into Ranked. A beatmap that is qualified may be vetoed using a suggestion stamp in order to keep the map in qualified during discussion. Other nominators will be unable to nominate it again until the veto is lifted. The veto post must include a clear problem and reasoning for stopping the ranking process of the beatmap. You must participate in the resulting discussion and attempt to reach a mutual agreement.
 - **Do not veto for unrankables.** Unrankables imply that no other nominator should nominate and that the mapper has no other choice but to fix it, in the same way an upheld veto works.
-- **Do not nominate vetoed beatmaps.** A beatmap must have its veto dismissed before renomination, which can happen if the vetoing nominator decides to lift the veto following a satisfactory discussion or appropriate changes to the beatmap, or if the mapper or vetoing nominator requests a mediation and the BNs and NAT members of the relevant mode decide that the veto is unnecessary or invalid.
+- **Do not nominate vetoed beatmaps.** A beatmap must have its veto dismissed before renomination, which can happen if the vetoing nominator decides to lift the veto following a satisfactory discussion or appropriate changes to the beatmap, or if the mapper or vetoing nominator requests a mediation and the jury[^new-jury] decides that the veto is unnecessary or invalid.
 
 ## Notes
 
 [^multi-key-mode]: Beatmaps with multiple key modes count as 2 nominations for activity purposes.
+[^new-jury]: "The jury" refers to the BN and NAT members of the relevant game mode, or all BN and NAT members if the veto does not directly pertain to the relevant game mode.
