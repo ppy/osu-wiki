@@ -91,7 +91,11 @@ Given your previous experiences, how do you think pooling for MWC differs from o
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/9206093">elexire</a></p>
 
-Answer 1
+I must say, the overall process feels much heavier than any past tournament I've participated in. Possibly because, for the most part, MWC is the only tournament I've taken part in as a map selector, while every other tournament only had me as a mapper. Perhaps the closest thing I can compare it to was the first ever tournament I've helped in, [Speed of Light 3](/wiki/Tournaments/SOL/2023). With it being my first time helping with tournaments, I ended up doing quite a lot, such as being active in voice calls, and looking at how the entire pooling process went when it came to customizing the maps. I honestly don't think I could've been given a better first experience, I'm seriously thankful for everyone I met through it, and how it is what essentially spiraled me into where I am currently.
+
+To go back to MWC, I find myself having the most impact in more "managerial" matters. Things like communicating with other mappers on where they stand or what they'd like to do, taking note of all slots currently occupied by mappers to prevent overlap, and other simple tasks such as giving a second opinion where needed. It's definitely not too much to look for, but the work allocation is seriously beneficial for all map selectors involved, playtesting managers included.
+
+Personally, my goals moving forward would be to have more versatility, if that makes any sense. This kind of goes back to what I just said, as the range of what I do as a map selector is more focused on making things flow smoother, rather than directly monitoring where certain customs place. This weak spot of mine is definitely something I'd like to improve on for future years, and eventually into other tournaments as well.
 
 </div>
 
