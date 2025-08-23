@@ -111,7 +111,15 @@ As a mapper, what do you find the most interesting about mapping for a specific 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17527968">V1do-</a></p>
 
-Answer 2
+To me, tournament mapping has been the most interactive way of communicating between mappers and players. Every single custom map aims to create a challenging yet enjoyable experience for the players. Each tournament is a trove of new treasures, and I find the process of adapting to each unique playerbase very engaging and challenging.
+
+This is no different with the osu!mania 4K World Cup — the pinnacle of all osu!mania tournaments. Your maps will be played by the most skilled and experienced players in this game. Regardless of the extra pressure, having the opportunity to create maps and be appreciated for it by players of this caliber must be the dream of every mapper. Knowing this, I work my hardest to be able to deliver my best maps. In return, I get positive praise that pushes me further in my mapping career, and nothing makes me this happy when mapping for tournaments.
+
+Mapping for Qualifiers has certainly been a new experience for me. They're arguably the most important maps in the entire tournament given they determine the teams' seeds. The extra responsibility forces me to put in extra time refining the map, coordinating with the playtesters, and adhering to the poolers' expectations. Another significant difference is the cohesiveness required in the Qualifiers pool. Balancing difficulty across several different skill sets is no easy task after all. Thanks to our amazing team of poolers and playtesters, we were able to deliver this incredible Qualifier pool for everyone to enjoy!
+
+I'm quite surprised by the amount of emerging mappers seen throughout this year, each one bringing something unique to the mapping scene. Those aiming for a spot in the MWC 4K, my best advice would be to be more active throughout the community. Mapping in multiple community tournaments, actively engaging with the playerbase, actively giving and receiving feedback, or even just actively playing the game. These are all good ways to evolve as a mapper while simultaneously leaving your mark on the community. Not only will this help you keep up with mapping standards, but it will also teach you the importance of pooling in tournaments.
+
+The osu!mania 4K World Cup mapping team have been one of the best teams I've had the pleasure of working with, and I'm looking forward to seeing new faces making their way into the team in years to come!
 
 </div>
 
@@ -131,7 +139,7 @@ The transition from being a player to becoming a playtester must've not been eas
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/12028216">mashu</a></p>
 
-Going from the mindset of a player to a playtester was quite a learning experience. As a player, it was more about maximizing scores, staying consistent, and taking note of strong and weak points on our matchups to know where my skillset would best complement my team's play. When I became involved in the process of playtesting, I'd learn that there were aspects of this role that were not very apparent to me beforehand. Coming from a player background, it quickly became one of the biggest hurdles I'd face.
+Going from the mindset of a player to a playtester was quite a learning experience. As a player, it was more about maximizing scores, staying consistent, and taking note of strong and weak points on our matchups to know where my skill set would best complement my team's play. When I became involved in the process of playtesting, I'd learn that there were aspects of this role that were not very apparent to me beforehand. Coming from a player background, it quickly became one of the biggest hurdles I'd face.
 
 Starting out in this role, just looking at a handful of maps really showed me just how different pooling can be from what I initially expected. It was less about how well and consistently you could perform on these maps, but more about how said map feels in the context of the tournament. Did the difficulty feel right? Does the map fit into its respective slot in its category well? Does it contrast well with other maps in the same category? These were questions we'd have to answer for each single pick that was ran through the team. Despite the challenges, I still found it very enjoyable to be involved in alongside the rest of the team to help bring tournaments like these to life!
 
