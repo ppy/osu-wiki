@@ -198,7 +198,7 @@ Following up on recent Beatmap Spotlight Curator applications, there's been some
 
 We’d like to give a warm welcome to the new members joining us this season. They will support the existing Curators team in crafting the best playlists for you to compete on!
 
-- **osu!**: [Boolin](https://osu.ppy.sh/users/10664409), [Chaoslitz](https://osu.ppy.sh/users/3621552), [nanoya](https://osu.ppy.sh/users/12366071), [Ryuusei Aika](https://osu.ppy.sh/users/7777875) [Willy](https://osu.ppy.sh/users/3521482), [Wispy](https://osu.ppy.sh/users/11106929), [zekk](https://osu.ppy.sh/users/9704802)
+- **osu!**: [Boolin](https://osu.ppy.sh/users/10664409), [Chaoslitz](https://osu.ppy.sh/users/3621552), [nanoya](https://osu.ppy.sh/users/12366071), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Willy](https://osu.ppy.sh/users/3521482), [Wispy](https://osu.ppy.sh/users/11106929), [zekk](https://osu.ppy.sh/users/9704802)
 - **osu!taiko**: [nevqr](https://osu.ppy.sh/users/14269506), [Yasuho](https://osu.ppy.sh/users/8458835)
 - **osu!catch**: [Constantine](https://osu.ppy.sh/users/3221898), [Realmaas](https://osu.ppy.sh/users/6567640)
 - **osu!mania**: [Akasha-](https://osu.ppy.sh/users/2596306), [Muse Dash](https://osu.ppy.sh/users/13695676), [Rurvker](https://osu.ppy.sh/users/24526335), [Spy](https://osu.ppy.sh/users/1217122)
