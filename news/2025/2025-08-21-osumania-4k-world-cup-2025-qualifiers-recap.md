@@ -131,7 +131,13 @@ The transition from being a player to becoming a playtester must've not been eas
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/12028216">mashu</a></p>
 
-Answer 3
+Going from the mindset of a player to a playtester was quite a learning experience. As a player, it was more about maximizing scores, staying consistent, and taking note of strong and weak points on our matchups to know where my skillset would best complement my team's play. When I became involved in the process of playtesting, I'd learn that there were aspects of this role that were not very apparent to me beforehand. Coming from a player background, it quickly became one of the biggest hurdles I'd face.
+
+Starting out in this role, just looking at a handful of maps really showed me just how different pooling can be from what I initially expected. It was less about how well and consistently you could perform on these maps, but more about how said map feels in the context of the tournament. Did the difficulty feel right? Does the map fit into its respective slot in its category well? Does it contrast well with other maps in the same category? These were questions we'd have to answer for each single pick that was ran through the team. Despite the challenges, I still found it very enjoyable to be involved in alongside the rest of the team to help bring tournaments like these to life!
+
+As for how important playtesting is, I feel that it was as important as the rest of cogs in the pooling machine. The responsibility for this one gear lies in acting as a player for the tournament while providing feedback in a way that resembles the opinions of those who'll be playing it. This helps to evaluate maps from a plethora of perspectives with differing opinions. This is then used to finetune each single pick in the pool and make any changes accordingly to ensure its quality.
+
+So while ourselves we may not do much, thanks to the collective efforts from the team — not just playtesters — everyone will be able to find these maps and tournament fun and enjoyable, both to play and to watch!
 
 </div>
 
