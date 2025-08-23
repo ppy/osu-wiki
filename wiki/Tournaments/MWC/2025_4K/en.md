@@ -109,19 +109,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Match schedule: Round of 32
 
-### Saturday, 23 August 2025
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=UA }:: Ukraine | [Aug 23 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T120000&p1=1440&p2=166&p3=367) | [osulive_2](https://twitch.tv/osulive_2) |
-| Spain ::{ flag=ES }:: | ::{ flag=TW }:: Taiwan | [Aug 23 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T120000&p1=1440&p2=141&p3=241) | [osulive](https://twitch.tv/osulive) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=PL }:: Poland | [Aug 23 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T130000&p1=1440&p2=122&p3=262) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=SG }:: Singapore | [Aug 23 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T150000&p1=1440&p2=188&p3=236) | [osulive](https://twitch.tv/osulive) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=GT }:: Guatemala | [Aug 23 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T160000&p1=1440&p2=102) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=DK }:: Denmark | [Aug 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T180000&p1=1440&p2=263&p3=69) | [osulive](https://twitch.tv/osulive) |
-| Brazil ::{ flag=BR }:: | ::{ flag=PE }:: Peru | [Aug 23 (Sat) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T183000&p1=1440&p2=45&p3=131) | [osulive_2](https://twitch.tv/osulive_2) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=VE }:: Venezuela | [Aug 23 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T200000&p1=1440&p2=136) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 24 August 2025
 
 | Team A | Team B | Match time | Twitch stream |
@@ -183,7 +170,13 @@ Saturday, 23 August 2025:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/119051967) | [#1](https://www.twitch.tv/videos/2547400421?t=0h3m51s) |
 | **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/119054350) | [#1](https://www.twitch.tv/videos/2547622341) |
-| Spain ::{ flag=ES }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119054354) | [#1](https://www.twitch.tv/videos/2547622341) |
+| Spain ::{ flag=ES }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119054354) | [#1](https://www.twitch.tv/videos/2547597606?t=0h4m35s) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 4 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/119054824) | [#1](https://www.twitch.tv/videos/2547597606?t=1h4m47s) |
+| **Canada** ::{ flag=CA }:: | **5** | 2 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/119056049) | [#1](https://www.twitch.tv/videos/2547701727?t=0h9m48s) |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=GT }:: Guatemala | [#1](https://osu.ppy.sh/community/matches/119056701) | [#1](https://www.twitch.tv/videos/2547701727?t=1h9m48s) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119058093) | [#1](https://www.twitch.tv/videos/2547829616?t=0h7m59s) |
+| Brazil ::{ flag=BR }:: | 3 | **5** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/119058383) | [#1](https://www.twitch.tv/videos/2547829616?t=0h44m15s) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=VE }:: Venezuela | [#1](https://osu.ppy.sh/community/matches/119059288) | [#1](https://www.twitch.tv/videos/2547829616?t=2h8m2s) |
 
 ### Qualifiers
 
