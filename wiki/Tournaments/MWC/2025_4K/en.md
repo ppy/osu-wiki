@@ -160,15 +160,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 - Tiebreaker
   1. **[Yooh - Eternity (-mint-, \[Crz\]Crysarlene, jh05013, hi19hi19) \[Recursion\]](https://osu.ppy.sh/beatmapsets/2421270#mania/5267331)**
 
-## Match results
-
-### Round of 32
-
-Saturday, 23 August 2025:
-
-| Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/119051967) | [#1](https://www.twitch.tv/videos/2547400421?t=0h3m51s) |
+### Qualifiers
 
 **[Download the mappack here (51 MB)](https://packs.ppy.sh/P294%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Qualifiers.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2536590856?t=0h4m48s)
@@ -180,6 +172,18 @@ Saturday, 23 August 2025:
 5. [Halv - Susano Habakiri (V1do-) \[Stage 5: Skirmish\]](https://osu.ppy.sh/beatmapsets/2417727#mania/5256639)
 6. [katagiri - Heisei Saikyou no Curry Ya (Cut Ver.) (11Bit) \[Stage 6: Hunger\]](https://osu.ppy.sh/beatmapsets/2417728#mania/5256641)
 7. [Creepy Nuts - Otonoke (Disguise, -mint-) \[Stage 7: Supernatural\]](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642)
+
+## Match results
+
+### Round of 32
+
+Saturday, 23 August 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/119051967) | [#1](https://www.twitch.tv/videos/2547400421?t=0h3m51s) |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/119054350) | [#1](https://www.twitch.tv/videos/2547622341) |
+| Spain ::{ flag=ES }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119054354) | [#1](https://www.twitch.tv/videos/2547622341) |
 
 ### Qualifiers
 
