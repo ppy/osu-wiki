@@ -4,13 +4,17 @@ title: "osu!mania 4K World Cup 2025: Qualifiers Recap"
 date: 2025-08-21 20:30:00 +0000
 ---
 
-Catchy intro
+The osu!mania 4K World Cup has officially begun. The rise of a new legend is upon us, so join us as our favourite teams begin their ascent to the very top of the podium!
 
 ![](/wiki/Tournaments/MWC/2025_4K/img/mwc4k2025-banner.jpg)
 
-Intro
+MWC 4K is back in full swing for yet another year! With the staggering amount of **520 total registrations** and **38 teams**, this has quickly grown to become one of the most competitive years to date.
 
-Intro to the vid. Credit the vidmakers.
+Despite some of the changes catching a handful of teams off guard, most players have been able to adapt rather quickly! And while we won't see the full extent of the changes until the bracket stages, it has been a great way to measure everyone's expectations.
+
+Without further ado, lets this week's recap started! We believe that many of you will find this year's placements to be quite exciting.
+
+And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap), we'll have weekly video coverage of the recaps by the hands of [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128). We highly encourage you give them a watch!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
@@ -155,6 +159,6 @@ Despite playtesting being just as important as the rest of roles in the team, it
 
 ---
 
-Outro, channels, and intro to watching Ro32 at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2).
+The tournament is far, far from over. After all, we've only just begun! So, what are you waiting for? Join is in the weeks to come at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to keep up with the action in real time.
 
-—RandomeLoL
+—elexire, \[GB\]yobrevelc, RandomeLoL
