@@ -89,7 +89,7 @@ Given your previous experiences, how do you think pooling for MWC differs from o
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9206093" style="background-image: url('/wiki/shared/avatars/elexire.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/9206093">elexire</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9206093">elexire</a></p>
 
 I must say, the overall process feels much heavier than any past tournament I've participated in. Possibly because, for the most part, MWC is the only tournament I've taken part in as a map selector, while every other tournament only had me as a mapper. Perhaps the closest thing I can compare it to was the first ever tournament I've helped in, [Speed of Light 3](/wiki/Tournaments/SOL/2023). With it being my first time helping with tournaments, I ended up doing quite a lot, such as being active in voice calls, and looking at how the entire pooling process went when it came to customizing the maps. I honestly don't think I could've been given a better first experience, I'm seriously thankful for everyone I met through it, and how it is what essentially spiraled me into where I am currently.
 
