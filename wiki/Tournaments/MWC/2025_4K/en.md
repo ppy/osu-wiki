@@ -182,8 +182,6 @@ Saturday, 23 August 2025:
 6. [katagiri - Heisei Saikyou no Curry Ya (Cut Ver.) (11Bit) \[Stage 6: Hunger\]](https://osu.ppy.sh/beatmapsets/2417728#mania/5256641)
 7. [Creepy Nuts - Otonoke (Disguise, -mint-) \[Stage 7: Supernatural\]](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642)
 
-## Match results
-
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1KZaFhcVLWsXv2FuVyvSLRFF_GJYRK7HulUTHh3uDmi8?rm=minimal).\
