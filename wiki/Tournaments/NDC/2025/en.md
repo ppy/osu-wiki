@@ -25,19 +25,17 @@ The **National Dutch Championship 2025** (***NDC 2025***) is a 1v1, double elimi
 
 ## Prizes
 
-The prizepool is still pending (currently €567,-) and will be divided as follows:
+The prizepool is still pending (currently €750,-) and will be divided as follows:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 12.5% |
-| *4th place* | 7.5% |
-| *5th & 6th place* | 2.5% |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% (€375,-) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% (€187,50) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 12.5% (€93,75) |
+| *4th place* | 7.5% (€56,25) |
+| *5th & 6th place* | 2.5% (€18,75) |
 
 The prizepool is sponsored by both the organisation and community members.
-
-<!-- ![](img/badge.jpg "NDC 2025 winner badge") -->
 
 ## Organisation
 
@@ -52,6 +50,7 @@ The National Dutch Championship 2025 is run by various community members.
 | Streamer | ::{ flag=NL }:: [Castagne](https://osu.ppy.sh/users/12270596), ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [Sylis12](https://osu.ppy.sh/users/11803452), ::{ flag=NL }:: [Astraea](https://osu.ppy.sh/users/17526061), ::{ flag=NL }:: [Alphan](https://osu.ppy.sh/users/13298387) |
 | Commentator | ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [Pisslow](https://osu.ppy.sh/users/26527329), ::{ flag=NL }:: [Alphan](https://osu.ppy.sh/users/13298387), ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696), ::{ flag=NL }:: [Anassm03](https://osu.ppy.sh/users/19743946), ::{ flag=NL }:: [pregnant](https://osu.ppy.sh/users/15413621) |
 | Designer | ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [pregnant](https://osu.ppy.sh/users/15413621) |
+| Editor | ::{ flag=NL }:: [FogsFles](https://osu.ppy.sh/users/3197633), ::{ flag=NL }:: [Pisslow](https://osu.ppy.sh/users/26527329), ::{ flag=NL }:: [Freakbob](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929) |
 
 ## Links
 
@@ -131,6 +130,29 @@ The National Dutch Championship 2025 is run by various community members.
 | TBD | ::{ flag=NL }:: [Naccer](https://osu.ppy.sh/users/2250236) | #67347 | #737 |
 | TBD | ::{ flag=NL }:: [Joeri](https://osu.ppy.sh/users/12839455) | #92794 | #1018 |
 | TBD | ::{ flag=NL }:: [YukiYoyo](https://osu.ppy.sh/users/23094331) | #890968 | #7411 |
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/31/mappools/ql)**
+
+- Nomod
+  1. [Aqua Timez - Sing Along (-NeBu-) [Is God a dream, an illusion, the ceiling?]](https://osu.ppy.sh/beatmapsets/2421774#osu/5268847)
+  2. [Xenogen - Native Faith - Suwako's Theme (Val) [nebuwua's Extreme]](https://osu.ppy.sh/beatmapsets/807673#osu/3476789)
+  3. [Masarada feat. Kasane Teto SV - Musekinin Shuugoutai (AstralXynsm) [Non-Responsibility Oblige]](https://osu.ppy.sh/beatmapsets/2189290#osu/4630458)
+  4. [cassie - me & u (succducc bootleg) (Kara Edit) (LeCandy) [sunazuka akira's ex]](https://osu.ppy.sh/beatmapsets/1938079#osu/4753272)
+  5. [Summoning The Lich - Death Crystal (ItsWinter) [BLOODSTAINED SACRIFICE]](https://osu.ppy.sh/beatmapsets/1615076#osu/3297498)
+- Hidden
+  1. [momosumomosu - Esoa (Dailycare) [Love]](https://osu.ppy.sh/beatmapsets/2001099#osu/4160997)
+  2. [MIMI - Mizuoto to Curtain (Feiri) [Other]](https://osu.ppy.sh/beatmapsets/1529461#osu/3278597)
+- Hard Rock
+  1. [Camellia - Fastest Crash (sukiNathan) [RLC's Paroxysm]](https://osu.ppy.sh/beatmapsets/331025#osu/733432)
+  2. [REDALiCE - Taboo tears you up 2017 (Dada) [Vintage]](https://osu.ppy.sh/beatmapsets/1616043#osu/3299402)
+- Double Time
+  1. [tokuP feat. Hatsune Miku - SPiCa (Fsjallink) [Bright Star]](https://osu.ppy.sh/beatmapsets/2040405#osu/4256422)
+  2. [Sewerslvt - Down The Drain (feat. Nurtheon) (Cut ver.) (Alumetri) [Draining Love]](https://osu.ppy.sh/beatmapsets/2187965#osu/4626380)
+  3. [Aethoro - Deertracks (-YeLing-) [werf's insane]](https://osu.ppy.sh/beatmapsets/2374121#osu/5126904)
 
 ## Ruleset
 
