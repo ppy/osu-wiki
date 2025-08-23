@@ -71,4 +71,4 @@ Please see the [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) page
 ## Notes
 
 [^multi-key-mode]: Beatmaps with multiple key modes count as 2 nominations for activity purposes.
-[^new-jury]: "The jury" refers to the BN and NAT members of the relevant game mode, or all BN and NAT members if the veto does not directly pertain to the relevant game mode.
+[^new-jury]: "The jury" refers to the BN and NAT members of the relevant game mode, or all BN and NAT members if the veto is not game mode-specific.
