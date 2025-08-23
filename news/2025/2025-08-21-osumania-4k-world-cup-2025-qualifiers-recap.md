@@ -40,19 +40,21 @@ Lastly, to round off the highlights, we've got [Creepy Nuts - Otonoke](https://o
 
 ## Qualifier highlights
 
+After two days of non-stop lobbies, all 38 teams managed to finish their qualifier matches in time. While the amount of teams has slightly decreased from last year, the competition remains just as thrilling — arguably even more!
+
 ![Qualifier results table](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/results-qualifiers.jpg)
 
-Top seeds
+The first seed caught everyone by surprise, with ::{ flag=CN }:: China performing almost perfectly throughout their qualifiers with all scores being FCs! This otherworldly consistency alongside their great ratio lifted China far above and beyond their previous years. Following things up, the ::{ flag=US }:: United States managed to snatch second place by excelling in five out of seven maps. And while ::{ flag=KR }:: South Korea met some trouble in a few maps, their ratio more than made up for it to remain in the seeding podium.
 
-Runner ups
+Subverting everyone's expectations, ::{ flag=HK }:: Hong Kong managed to get their best placement up to date, getting seed 4 thanks to their overall score consistency. This got them 10 spots higher than last year! ::{ flag=CA }:: Canada managed to find their bearings as they squeezed into the top 8 spot. Meanwhile, the ::{ flag=GB }:: United Kingdom and ::{ flag=CL }:: Chile traded places between seeds 5 and 6. And while ::{ flag=TH }:: Thailand didn't get the best of scores, their improved roster is sure to make them a strong contender during the next rounds.
 
-Stand outs (upsets and new countries)
+With more and more skilled players joining and returning every year, teams like ::{ flag=ES }:: Spain, the ::{ flag=NL }:: Netherlands and ::{ flag=AR }:: Argentina all got a bump in the ranks. At the same time, ::{ flag=ID }:: Indonesia and ::{ flag=PE }:: Peru also did a good job against all odds. :{ flag=DE }:: Germany, ::{ flag=VE }:: Venezuela, and ::{ flag=DK }:: Denmark all managed to climb up to the top 32, whereas ::{ flag=GT }:: Guatemala managed to qualify for their first time ever — congratulations!
 
-Segue.
+Despite being eliminated, ::{ flag=UY }:: Uruguay and ::{ flag=LT }:: Lithuania were so close making it in! While they may've not qualified this year, they proved to be a force to be reckoned with. We hope they'll come back stronger next year.
+
+Lastly, to get a better idea of each team's performances compared to last year, we've prepared a chart outlining each team's placements between 2025 and 2024 by their total score throughout Qualifiers.
 
 ![Scoreboard](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/qualifiers-scoreboard.jpg)
-
-Comparisons with last year.
 
 # Interviews
 
