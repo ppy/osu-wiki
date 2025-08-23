@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2025: Qualifiers Recap"
-date: 2025-08-21 20:30:00 +0000
+date: 2025-08-23 22:00:00 +0000
 ---
 
 The osu!mania 4K World Cup has officially begun. The rise of a new legend is upon us, so join us as our favourite teams begin their ascent to the very top of the podium!
@@ -28,7 +28,7 @@ And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osum
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2536590856&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Qualifier mappool table](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/mappool-qualifiers.jpg)
+![Qualifier mappool table](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/mappool-qualifiers.jpg)
 
 Starting the tournament off, we're given an ever so slightly different stage structure compared to last year, with the only noteworthy change being that the original stage 1, SV, has been removed. Every other slot remained the same as previous years, with the pool's size consisting of 7 stages instead of 8.
 
@@ -42,7 +42,7 @@ Lastly, to round off the highlights, we've got [Creepy Nuts - Otonoke](https://o
 
 After two days of non-stop lobbies, all 38 teams managed to finish their qualifier matches in time. While the amount of teams has slightly decreased from last year, the competition remains just as thrilling — arguably even more!
 
-![Qualifier results table](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/results-qualifiers.jpg)
+![Qualifier results table](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/results-qualifiers.jpg)
 
 The first seed caught everyone by surprise, with ::{ flag=CN }:: China performing almost perfectly throughout their qualifiers with all scores being FCs! This otherworldly consistency alongside their great ratio lifted China far above and beyond their previous years. Following things up, the ::{ flag=US }:: United States managed to snatch second place by excelling in five out of seven maps. And while ::{ flag=KR }:: South Korea met some trouble in a few maps, their ratio more than made up for it to remain in the seeding podium.
 
@@ -54,7 +54,7 @@ Despite being eliminated, ::{ flag=UY }:: Uruguay and ::{ flag=LT }:: Lithuania 
 
 Lastly, to get a better idea of each team's performances compared to last year, we've prepared a chart outlining each team's placements between 2025 and 2024 by their total score throughout Qualifiers.
 
-![Scoreboard](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/qualifiers-scoreboard.jpg)
+![Scoreboard](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/qualifiers-scoreboard.jpg)
 
 # Interviews
 
@@ -87,7 +87,7 @@ Lastly, to get a better idea of each team's performances compared to last year, 
 
 Many people underestimate how big of an undertaking preparing a tournament as the osu!mania 4K World Cup really is. Many of the challenges that the pooling team faces are transparent to the end-user. As such, we wanted to interview a few of its most important members to give users a small glimpse into the work that goes behind running the tournament!
 
-![](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/elexire.png)
+![](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/elexire.png)
 
 [elexire](https://osu.ppy.sh/users/9206093) may not be as known as the other members of the pooling team, but their work is nothing short of impressive. Their tournament experiences across multiple community tournaments did not go unnoticed by the rest of map selectors, and as such were added to the team as of last year. Let us get their perspective working as a pooler as they begin to shape the future of osu!mania 4K World Cups to come!
 
@@ -111,7 +111,7 @@ Personally, my goals moving forward would be to have more versatility, if that m
 
 </div>
 
-![](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/V1do-.png)
+![](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/V1do-.png)
 
 Ever since they ranked their first map back in 2022, [V1do-](https://osu.ppy.sh/users/17527968) has rapidly made a name for themselves across the entire community. As they garnered more experience, they ended up giving tournament mapping a much deserved chance. Lo and behold, their efforts managed to bear fruit as they joined the mapping team in 2024! A true testament to their dedication to the art of mapping and community alike.
 
@@ -139,7 +139,7 @@ The osu!mania 4K World Cup mapping team have been one of the best teams I've had
 
 </div>
 
-![](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/mashu.png)
+![](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/mashu.png)
 
 Two times MWC 4K winner for team USA and playlist winner extraordinaire, [mashu](https://osu.ppy.sh/users/12028216) has forsaken their right to play for the tournament to become a playtester for the second time in a row! Let us hear their thoughts after having been on both sides of the fence for so long.
 
