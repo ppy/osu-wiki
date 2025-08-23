@@ -17,7 +17,7 @@ Without further ado, lets this week's recap started! We believe that many of you
 And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap), we'll have weekly video coverage of the recaps by the hands of [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128). We highly encourage you give them a watch!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8OWGgG84tZ4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
