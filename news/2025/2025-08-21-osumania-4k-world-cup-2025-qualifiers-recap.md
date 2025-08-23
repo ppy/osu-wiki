@@ -149,7 +149,7 @@ Starting out in this role, just looking at a handful of maps really showed me ju
 
 As for how important playtesting is, I feel that it was as important as the rest of cogs in the pooling machine. The responsibility for this one gear lies in acting as a player for the tournament while providing feedback in a way that resembles the opinions of those who'll be playing it. This helps to evaluate maps from a plethora of perspectives with differing opinions. This is then used to finetune each single pick in the pool and make any changes accordingly to ensure its quality.
 
-So while ourselves we may not do much, thanks to the collective efforts from the team — not just playtesters — everyone will be able to find these maps and tournament fun and enjoyable, both to play and to watch!
+Despite playtesting being just as important as the rest of roles in the team, it is only thanks to everyone's collective efforts — not just the playtesters — that we were able to make these maps as fun and enjoyable as they are, both for players and spectators alike!
 
 </div>
 
