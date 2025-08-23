@@ -25,12 +25,18 @@ And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osum
 [**Download the pool here! (51 MB)**](https://osu.ppy.sh/beatmaps/packs/P294)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VOD_ID&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2536590856&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![Qualifier mappool table](/wiki/shared/news/2025-08-21-osumania-4k-world-cup-2025-qualifiers-recap/mappool-qualifiers.jpg)
 
-Highlight the different parts of the mappool and other noticeable changes this year. Use mint's notes.
+Starting the tournament off, we're given an ever so slightly different stage structure compared to last year, with the only noteworthy change being that the original stage 1, SV, has been removed. Every other slot remained the same as previous years, with the pool's size consisting of 7 stages instead of 8.
+
+As for the highlights, a good start would be [Camellia - FM Synthesis Experiment (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2417719#mania/5256626) (HB1) by [elexire](https://osu.ppy.sh/users/9206093) and [guden](https://osu.ppy.sh/users/11626065). For an early-game hybrid, its approach differed a bit from previous years, with most of its difficulty coming from its rice sections over long notes. That's not to say the LN department is lacking, however, as the most chokeable parts are arguably within its heavy long note sections.
+
+On the more LN-heavy end we have [Tanya Degurechaff (CV: Yuuki Aoi) - Los! Los! Los!](https://osu.ppy.sh/beatmapsets/2417716#mania/5256623) (LN1) by [MyZterion-](https://osu.ppy.sh/users/8521723). Considering this LN coordination map's difficulty is akin to that of a mid-game pick, its patterns are definitely going to give a run for the players' money! Additionally, for those looking for an extra release accuracy challenge, there's an uncut version waiting for those who wish for an extra challenge!
+
+Lastly, to round off the highlights, we've got [Creepy Nuts - Otonoke](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642) (RC3) by [Disguise](https://osu.ppy.sh/users/10764851) and [-mint-](https://osu.ppy.sh/users/8976576). Being a rather unexpected song for such a stage, it ended up working as a really, really difficult technical vocal dump chart. A far cry from what players would expect at a first glance! Without a shadow of a doubt, it is by far the hardest map in the pool. Players who wish to get a high-contending score can't allow themselves to be distracted while playing it.
 
 ## Qualifier highlights
 
