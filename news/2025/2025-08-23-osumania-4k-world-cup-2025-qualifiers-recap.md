@@ -12,7 +12,7 @@ MWC 4K is back in full swing for yet another year! With the staggering amount of
 
 Despite some of the changes catching a handful of teams off guard, most players have been able to adapt rather quickly! And while we won't see the full extent of the changes until the bracket stages, it has been a great way to measure everyone's expectations.
 
-Without further ado, lets this week's recap started! We believe that many of you will find this year's placements to be quite exciting.
+Without further ado, let's get this week's recap started! We believe that many of you will find the Qualifier placements to be quite exciting.
 
 And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap), we'll have weekly video coverage of the recaps by the hands of [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128). We highly encourage you give them a watch!
 
@@ -32,7 +32,7 @@ And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osum
 
 Starting the tournament off, we're given an ever so slightly different stage structure compared to last year, with the only noteworthy change being that the original stage 1, SV, has been removed. Every other slot remained the same as previous years, with the pool's size consisting of 7 stages instead of 8.
 
-As for the highlights, a good start would be [Camellia - FM Synthesis Experiment (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2417719#mania/5256626) (HB1) by ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) and ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065). For an early-game hybrid, its approach differed a bit from previous years, with most of its difficulty coming from its rice sections over long notes. That's not to say the LN department is lacking, however, as the most chokeable parts are arguably within its heavy long note sections.
+As for the highlights, a good start would be [Camellia - FM Synthesis Experiment (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2417719#mania/5256626) (HB1) by ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) and ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065). For an early-game hybrid, its approach differed a bit from previous years, with most of its difficulty coming from rice sections over long notes. That's not to say the LN department is lacking, however, as the most chokeable parts arguably lie within the heavy long note sections.
 
 On the more LN-heavy end we have [Tanya Degurechaff (CV: Yuuki Aoi) - Los! Los! Los!](https://osu.ppy.sh/beatmapsets/2417716#mania/5256623) (LN1) by ::{ flag=TH }:: [MyZterion-](https://osu.ppy.sh/users/8521723). Considering this LN coordination map's difficulty is akin to that of a mid-game pick, its patterns are definitely going to give a run for the players' money! Additionally, for those looking for an extra release accuracy challenge, there's an uncut version waiting for those who wish for an extra challenge!
 
@@ -42,7 +42,7 @@ Lastly, to round off the highlights, we've got [Creepy Nuts - Otonoke](https://o
 
 ## Qualifier highlights
 
-After two days of non-stop lobbies, all 38 teams managed to finish their qualifier matches in time. While the amount of teams has slightly decreased from last year, the competition remains just as thrilling — arguably even more!
+After two days of non-stop lobbies, all 38 teams managed to finish their Qualifier matches in time. While the amount of teams has slightly decreased from last year, the competition remains just as thrilling — arguably even more!
 
 ![Qualifier results table](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/results-qualifiers.jpg)
 
@@ -54,7 +54,7 @@ With more and more skilled players joining and returning every year, teams like 
 
 Despite being eliminated, ::{ flag=UY }:: Uruguay and ::{ flag=LT }:: Lithuania were so close making it in! While they may've not qualified this year, they proved to be a force to be reckoned with. We hope they'll come back stronger next year.
 
-Lastly, to get a better idea of each team's performances compared to last year, we've prepared a chart outlining each team's placements between 2025 and 2024 by their total score throughout Qualifiers.
+Lastly, to get a better idea of each team's performances compared to last year, we've prepared a chart outlining each team's placements between 2025 and 2024 by their total score throughout the Qualifiers.
 
 ![Scoreboard](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/qualifiers-scoreboard.jpg)
 
@@ -87,11 +87,11 @@ Lastly, to get a better idea of each team's performances compared to last year, 
     }
 </style>
 
-Many people underestimate how big of an undertaking preparing a tournament as the osu!mania 4K World Cup really is. Many of the challenges that the pooling team faces are transparent to the end-user. As such, we wanted to interview a few of its most important members to give users a small glimpse into the work that goes behind running the tournament!
+Many people underestimate how big of an undertaking preparing a tournament as the osu!mania 4K World Cup really is. Many of the challenges that the pooling team faces are transparent to the end user. As such, we wanted to interview a few key team members to give people a small glimpse into the work that goes behind running the tournament!
 
 ![](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/elexire.png)
 
-[elexire](https://osu.ppy.sh/users/9206093) may not be as known as the other members of the pooling team, but their work is nothing short of impressive. Their tournament experiences across multiple community tournaments did not go unnoticed by the rest of map selectors, and as such were added to the team as of last year. Let us get their perspective working as a pooler as they begin to shape the future of osu!mania 4K World Cups to come!
+[elexire](https://osu.ppy.sh/users/9206093) may not be as known as the other members of the pooling team, but their work is nothing short of impressive. Their tournament experience across multiple community tournaments did not go unnoticed by the rest of mappool selectors, leading straight to their addition to the team as of last year. Let's get their perspective working as a pooler as they begin to shape the osu!mania 4K World Cups of tomorrow!
 
 <div class="news-chat-quote__text-container">
 
@@ -123,7 +123,7 @@ Ever since they ranked their first map back in 2022, [V1do-](https://osu.ppy.sh/
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
-As a mapper, what do you find the most interesting about mapping for a specific tournament, let alone one as prestigious as MWC? How was your experience mapping for Qualifiers this year, and how much different was it from bracket stages? As a recent addition yourself, do you have any suggestions for any user whose long term goal is to join the mapping team?
+As a mapper, what do you find the most interesting about mapping for a specific tournament, let alone *world cups*? How was your experience mapping for Qualifiers this year, and how much different was it from bracket stages? As a recent addition yourself, do you have any suggestions for anyone whose long-term goal is to join the mapping team?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17527968" style="background-image: url('/wiki/shared/avatars/V1do-.jpg')"></a>
 
@@ -143,7 +143,7 @@ The osu!mania 4K World Cup mapping team have been one of the best teams I've had
 
 ![](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/mashu.png)
 
-Two times MWC 4K winner for team USA and playlist winner extraordinaire, [mashu](https://osu.ppy.sh/users/12028216) has forsaken their right to play for the tournament to become a playtester for the second time in a row! Let us hear their thoughts after having been on both sides of the fence for so long.
+Two-time MWC 4K winner for team USA and playlist winner extraordinaire, [mashu](https://osu.ppy.sh/users/12028216) has forsaken their right to play for the tournament to become a playtester for the second time in a row! Let us hear their thoughts after having been on both sides of the fence for so long.
 
 <div class="news-chat-quote__text-container">
 
@@ -151,7 +151,7 @@ Two times MWC 4K winner for team USA and playlist winner extraordinaire, [mashu]
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
-The transition from being a player to becoming a playtester must've not been easy. Have you been enjoying your job as a playtester, even if it meant waving away your right to play for the tournament? How important of a task do you think playtesting is when it comes to ensuring the quality of the pools?
+The transition from being a player to becoming a playtester must've not been easy. Have you been enjoying your job as a playtester, even if it meant waiving your right to play for the tournament? How important of a task do you think playtesting is when it comes to ensuring the quality of the pools?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12028216" style="background-image: url('/wiki/shared/avatars/mashu.jpg')"></a>
 
@@ -161,7 +161,7 @@ Going from the mindset of a player to a playtester was quite a learning experien
 
 Starting out in this role, just looking at a handful of maps really showed me just how different pooling can be from what I initially expected. It was less about how well and consistently you could perform on these maps, but more about how said map feels in the context of the tournament. Did the difficulty feel right? Does the map fit into its respective slot in its category well? Does it contrast well with other maps in the same category? These were questions we'd have to answer for each single pick that was ran through the team. Despite the challenges, I still found it very enjoyable to be involved in alongside the rest of the team to help bring tournaments like these to life!
 
-As for how important playtesting is, I feel that it was as important as the rest of cogs in the pooling machine. The responsibility for this one gear lies in acting as a player for the tournament while providing feedback in a way that resembles the opinions of those who'll be playing it. This helps to evaluate maps from a plethora of perspectives with differing opinions. This is then used to finetune each single pick in the pool and make any changes accordingly to ensure its quality.
+As for how important playtesting is, I feel that it was as important as the rest of cogs in the pooling machine. The responsibility for this one gear lies in acting as a player for the tournament while providing feedback in a way that resembles the opinions of those who'll be playing it. This helps to evaluate maps from a plethora of perspectives with differing opinions. This is then used to finetune every single pick in the pool and make any changes accordingly to ensure its quality.
 
 Despite playtesting being just as important as the rest of roles in the team, it is only thanks to everyone's collective efforts — not just the playtesters — that we were able to make these maps as fun and enjoyable as they are, both for players and spectators alike!
 
@@ -169,6 +169,6 @@ Despite playtesting being just as important as the rest of roles in the team, it
 
 ---
 
-The tournament is far, far from over. After all, we've only just begun! So, what are you waiting for? Join is in the weeks to come at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to keep up with the action in real time.
+The tournament is far, far from over. After all, we've only just begun! So, what are you waiting for? Check the schedules on the [wiki](/wiki/Tournaments/MWC/2025_4k) (more Round of 32 matches tomorrow!), and join is in the weeks to come at [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) to keep up with the action in real time.
 
 —elexire, \[GB\]yobrevelc, RandomeLoL
