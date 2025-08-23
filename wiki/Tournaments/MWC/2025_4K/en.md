@@ -105,6 +105,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/51)
 - [Challonge bracket](https://challonge.com/MWC4K2025)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/182) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1513)
 
 ## Match schedule: Round of 32
 
@@ -112,9 +113,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Thailand ::{ flag=TH }:: | ::{ flag=MX }:: Mexico | [Aug 23 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T040000&p1=1440&p2=28&p3=155) | [osulive](https://twitch.tv/osulive) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=UA }:: Ukraine | [Aug 23 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T120000&p1=1440&p2=166&p3=367) | [osulive](https://twitch.tv/osulive) |
-| Spain ::{ flag=ES }:: | ::{ flag=TW }:: Taiwan | [Aug 23 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T120000&p1=1440&p2=141&p3=241) | [osulive_2](https://twitch.tv/osulive_2) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=UA }:: Ukraine | [Aug 23 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T120000&p1=1440&p2=166&p3=367) | [osulive_2](https://twitch.tv/osulive_2) |
+| Spain ::{ flag=ES }:: | ::{ flag=TW }:: Taiwan | [Aug 23 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T120000&p1=1440&p2=141&p3=241) | [osulive](https://twitch.tv/osulive) |
 | Malaysia ::{ flag=MY }:: | ::{ flag=PL }:: Poland | [Aug 23 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T130000&p1=1440&p2=122&p3=262) | [osulive](https://twitch.tv/osulive) |
 | Canada ::{ flag=CA }:: | ::{ flag=SG }:: Singapore | [Aug 23 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T150000&p1=1440&p2=188&p3=236) | [osulive](https://twitch.tv/osulive) |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=GT }:: Guatemala | [Aug 23 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250823T160000&p1=1440&p2=102) | [osulive](https://twitch.tv/osulive) |
@@ -174,6 +174,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 7. [Creepy Nuts - Otonoke (Disguise, -mint-) \[Stage 7: Supernatural\]](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642)
 
 ## Match results
+
+### Round of 32
+
+Saturday, 23 August 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/119051967) | [#1](https://www.twitch.tv/videos/2547400421?t=0h3m51s) |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/119054350) | [#1](https://www.twitch.tv/videos/2547622341) |
+| Spain ::{ flag=ES }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119054354) | [#1](https://www.twitch.tv/videos/2547622341) |
 
 ### Qualifiers
 
