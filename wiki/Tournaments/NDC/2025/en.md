@@ -162,7 +162,7 @@ The National Dutch Championship 2025 is run by various community members.
 2. A Qualifier round will determine seeding for a double-elimination bracket starting at Round of 32.
 3. Staff members may not participate as players, with the exception of streamers, commentators, and designers.
 4. Players must be a member of the Discord server while participating.
-6. Players who do not pass the screening phase from the osu! tournament committee are not allowed to participate.
+5. Players who do not pass the screening phase from the osu! tournament committee are not allowed to participate.
 
 ### Qualifiers stage
 
