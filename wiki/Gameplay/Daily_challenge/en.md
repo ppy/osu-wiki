@@ -13,7 +13,7 @@ From the main menu, the daily challenge menu can be accessed with the following 
 1. Click the `play` button or press `P`.
 2. Click the `daily challenge` button or press `D`.
 
-![](img/daily-challenge-menu.png "Screenshot of the daily challenge menu during August 24, 2025.")
+![](img/daily-challenge-menu.png?20250824 "Screenshot of the daily challenge menu during August 24, 2025.")
 
 Upon entering, the user is presented with an intro showing the beatmap the user has to pass, and the mods they have to pass it with.
 
