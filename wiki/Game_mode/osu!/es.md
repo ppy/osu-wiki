@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f785ce3b9eba523b7f5ad42d194d085db64ee298
+---
+
 # osu! (modo de juego)
 
 *Para otros usos, véase [osu! (desambiguación)](/wiki/Disambiguation/osu!).*

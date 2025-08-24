@@ -1,5 +1,6 @@
 ---
-needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about.
+outdated_translation: true
+outdated_since: f785ce3b9eba523b7f5ad42d194d085db64ee298
 ---
 
 # osu! (mode de jeu)

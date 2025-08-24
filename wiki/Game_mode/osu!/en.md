@@ -25,7 +25,6 @@ If [relax](/wiki/Gameplay/Game_modifier/Relax) is being used, the in-game cursor
 
 When the [auto pilot](/wiki/Gameplay/Game_modifier/Autopilot) mod is being used, the in-game cursor will automatically aim for all objects, only requiring the user to click to the rhythm. The speed the spinners will spin at is the same as the one in the [spun out](/wiki/Gameplay/Game_modifier/Spun_Out) mod.
 
-
 ## Hit objects
 
 osu! has 3 main [hit objects](/wiki/gameplay/Hit_object) the player interacts with:
