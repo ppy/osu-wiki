@@ -37,14 +37,14 @@ Congratulations to the top 3 teams!
 | [Flyer](https://osu.ppy.sh/users/9767342) | 3243 | 36 | 8 |
 | [- joshh](https://osu.ppy.sh/users/17957276) | 1317 | 17 | 39 |
 | [Skrub](https://osu.ppy.sh/users/10306849) | 1075 | 12 | 44 |
-| [brandwagen](https://osu.ppy.sh/users/13925852)  | 915 | 12 | 47 |
+| [brandwagen](https://osu.ppy.sh/users/13925852) | 915 | 12 | 47 |
 | [Lunar_](https://osu.ppy.sh/users/13688990) | 582 | 7 | 78 |
 
 ### 3rd place: osu!friends - 6938 points / 85 completions
 
 | Player | Points | Completions | Individual placement |
 | :-: | :-: | :-: | :-- |
-| [ming0328ming](https://osu.ppy.sh/users/2984074)  | 5505 | 67 | 1 |
+| [ming0328ming](https://osu.ppy.sh/users/2984074) | 5505 | 67 | 1 |
 | [BrandonH](https://osu.ppy.sh/users/5988903) | 733 | 9 | 59 |
 | [Chloe Wing Kiu](https://osu.ppy.sh/users/10625776) | 494 | 6 | 91 |
 | [Zefkiel](https://osu.ppy.sh/users/7989469) | 114 | 2 | 197 |
@@ -61,22 +61,22 @@ There were many great achievements, and many people gave different answers on th
         width: 115px;
         font-weight: 600;
     }
-	
+
     .revealed-item {
         display: none;
         border: 2px solid white;
         padding: 10px;
     }
-	
+
     .hover-item:hover ~ .revealed-item {
         display: block;
     }
-	
+
     .revealed-item:hover {
         display: block;
     }
-	
-	.news-chat-quote__avatar {
+
+    .news-chat-quote__avatar {
         float: left;
         width: 40px;
         height: 40px;
@@ -100,7 +100,7 @@ There were many great achievements, and many people gave different answers on th
 
 ### Sound in Motion
 
-| | |
+|  |  |
 | --: | :-- |
 | Description | What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it! |
 | Mode | Any |
@@ -138,7 +138,7 @@ So yeah, that was Sound In Motion, once again thanks to [Sheppsu](https://osu.pp
 
 ### The Everlasting Epigrapher
 
-| | |
+|  |  |
 | --: | :-- |
 | Description | Finally, your grand discovery will rock all. |
 | Mode | Catch |
@@ -157,7 +157,7 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 
 ### Graphic Design Is My Passion
 
-| | |
+|  |  |
 | --: | :-- |
 | Description | Sheppsu's been busy updating the site, so he put me in charge of graphic design. The lineup he gave me looked a bit unfamiliar, but I managed to pull things off with the help of some dark magic. [https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html) |
 | Mode | Any |
@@ -178,7 +178,7 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 
 ### INSERT COIN
 
-| | |
+|  |  |
 | --: | :-- |
 | Description | INSERT COIN |
 | Mode | Mania |
@@ -217,7 +217,7 @@ Thank you to everyone who took a crack at it - I'm glad people enjoyed :3
 
 ### ￼
 
-| | |
+|  |  |
 | --: | :-- |
 | Description | Wait, wasn't there supposed to be something here? |
 | Mode | Any |
@@ -234,7 +234,7 @@ This achievement, while having a simple solution, required some out-of-the-box t
 
 ### Touhosu!
 
-| | |
+|  |  |
 | --: | :-- |
 | Description | No Bombs, No Border Breaks, No Deaths. How far can you push it? You must play with exactly the following mods: NF, HT, DA(AR11), HD, and FL (use default settings if not specified). |
 | Mode | Catch |
