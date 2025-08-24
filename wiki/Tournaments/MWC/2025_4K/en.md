@@ -107,6 +107,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/182) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Support your country with a profile banner](https://osu.ppy.sh/store/products/1513)
 
+## Match schedule: Round of 32
+
 ### Sunday, 24 August 2025
 
 | Team A | Team B | Match time | Twitch stream |
