@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: GRYSCL"
-date: 2025-08-24 16:00:00 +0000
+date: 2025-08-24 16:30:00 +0000
 ---
 
 Despite his monochromatic name, **GRYSCL** paints a full-colour picture with sound design alone.
