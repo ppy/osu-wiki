@@ -17,7 +17,7 @@ Z menu głownego, menu wyzwań dziennych można uzyskać poprzez wykonanie poni�
 1. Kliknij przycisk `graj` lub kliknij `P` na klawiaturze.
 2. Kliknij przycisk `wyzwanie dnia` lub kliknij `D` na klawiaturze.
 
-![](img/daily-challenge-menu.png "Zrzut ekranu menu wyzwań dnia z dnia 7 listopada, 2024.")
+![](img/daily-challenge-menu.png "Zrzut ekranu menu wyzwań dnia z dnia 24 sierpnia, 2025.")
 
 Na wejście, użytkownik jest prezentowany wprowadzeniem pokazujące beatmapę, którą użytkownik musi przejść, oraz mody z którymi musi ją przejść.
 
