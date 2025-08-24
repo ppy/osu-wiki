@@ -30,7 +30,6 @@ Congratulations to the top 3 teams!
 | [--Glitchy--](https://osu.ppy.sh/users/30644569) | 192 | 2 | 159 |
 | [WhiteDoable](https://osu.ppy.sh/users/24868424) | 190 | 2 | 160 |
 
-
 ### 2nd place: Pawsome 🖐️ - 7132 points / 84 completions
 
 | Player | Points | Completions | Individual placement |
@@ -104,6 +103,7 @@ There were many great achievements, and many people gave different answers on th
 | | |
 | --: | :-- |
 | Description | What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it! |
+| Mode | Any |
 | Beatmap | [Nero vs. After School - Sound in Motion vs. AH](https://osu.ppy.sh/beatmapsets/2407674#osu/5225815) (CTA2 difficulties are no longer there) |
 | Creator | ::{ flag=PT }:: [-Rinne-](https://osu.ppy.sh/users/13407431) |
 
@@ -141,6 +141,7 @@ So yeah, that was Sound In Motion, once again thanks to [Sheppsu](https://osu.pp
 | | |
 | --: | :-- |
 | Description | Finally, your grand discovery will rock all. |
+| Mode | Catch |
 | Creator | ::{ flag=US }:: [Sheppsu](https://osu.ppy.sh/users/14895608) |
 
 <div>
@@ -148,7 +149,7 @@ So yeah, that was Sound In Motion, once again thanks to [Sheppsu](https://osu.pp
     <p class="revealed-item">
         Translating the text on all 5 rocks in the background of <a href="https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146">Yooh - Eternity</a>.
         <br/><br/>
-        Everlasting refers to the title. Epigrapher is the name of someone who translates ancient texts. "Finally" and "grand" reference it being the grand finals tiebreaker. In addition, it has the catch tag to help them figure that out. "Rock all" hints at translating the text on all the rocks.
+        Everlasting refers to the title. Epigrapher is the name for someone who translates ancient texts. "Finally" and "grand" reference it being the grand finals tiebreaker. In addition, it has the catch tag to help them figure that out. "Rock all" hints at translating the text on all the rocks.
     </p>
 </div>
 
@@ -159,6 +160,7 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 | | |
 | --: | :-- |
 | Description | Sheppsu's been busy updating the site, so he put me in charge of graphic design. The lineup he gave me looked a bit unfamiliar, but I managed to pull things off with the help of some dark magic. [https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html) |
+| Mode | Any |
 | Creator | ::{ flag=CA }:: [yandax](https://osu.ppy.sh/users/17465623) |
 
 <div>
@@ -179,6 +181,7 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 | | |
 | --: | :-- |
 | Description | INSERT COIN |
+| Mode | Mania |
 | Creator | ::{ flag=CA }:: [Dragon20942](https://osu.ppy.sh/users/6147964) |
 
 <div>
@@ -217,6 +220,7 @@ Thank you to everyone who took a crack at it - I'm glad people enjoyed :3
 | | |
 | --: | :-- |
 | Description | Wait, wasn't there supposed to be something here? |
+| Mode | Any |
 | Creator | ::{ flag=LV }:: [Anonymoose](https://osu.ppy.sh/users/11153810) |
 
 <div>
@@ -233,6 +237,7 @@ This achievement, while having a simple solution, required some out-of-the-box t
 | | |
 | --: | :-- |
 | Description | No Bombs, No Border Breaks, No Deaths. How far can you push it? You must play with exactly the following mods: NF, HT, DA(AR11), HD, and FL (use default settings if not specified). |
+| Mode | Catch |
 | Beatmap | [ZUN - Necrofantasia \[Phantasm Stage\]](https://osu.ppy.sh/beatmapsets/1881398#fruits/3873376) |
 | Creator | ::{ flag=US }:: [catgirl enjoyer](https://osu.ppy.sh/users/18319269) |
 
