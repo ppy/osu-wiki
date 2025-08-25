@@ -1,24 +1,130 @@
----
-needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check grammar/style
----
-
 # osu!taiko
 
-![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko Interface")
+osu!taiko is a game mode that requires the player to play a virtual japanese *taiko drum* that has the ability to play based on colored notes of various speeds on a side-scolling lane.
 
-osu!taiko is a game mode in osu! based on the Japanese rhythm game series, [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) (released as [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master) in North America).
+## Song selection
 
-## ![](/wiki/shared/mode/taiko.png) Gameplay
+To access the osu!catch game mode press `Ctrl` + `3` at the same time, use the the `Mode` button and select `osu!catch` in osu!(stable), or click the ![](/wiki/shared/mode/catch.png) icon on the top of the screen for osu!(lazer).
 
-### Song Selection
+To download more beatmaps for osu!catch, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `beatmap listing` button 
 
-To access the osu!taiko game mode, press `Ctrl` + `2` at the same time.
+![osu!(lazer) beatmap listing button](/wiki/shared/lazer_beatmap_listing.png)
 
-Alternatively, click on the `Mode` button and select `osu!taiko`.
+## Drum controls
 
-### Gameplay Basics
+In osu!taiko, the player is supposed to control a taiko drum in a way that corresponds to incoming notes on the lane positioned on its right side. By default the keys to control the drum are:
 
-#### Playfield
+- the `F` and `J` buttons for the activation of the "red", inner surfaces of the drum respectively.
+- the `D` and `K` buttons for the activation of the "blue", outer surfaces of the drum respectively.
+
+The placement of the in-game cursor does not affect gameplay under no circumstance.
+
+If the [Relax](/wiki/Gameplay/Game_modifier/Relax) mod is used, the game will only judge for the hit timing of the notes and ignore their colours.
+
+osu!taiko can also be played using a *TaTaCon* drum controller which was primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*, but is not as common to be used for osu!taiko. However, the [options](/wiki/Client/Options#other) menu in osu!(stable) has an option for enabling `Wiimote/TaTaCon Drum support` for those that may want to use this kind of controller. In osu!(lazer), head to `settings`/`input` and enable the `Joystick/Gamepad` option, after that bind the surfaces of the drum in the `gameplay bindings`/`osu!taiko` section.
+
+## Hit objects
+
+osu!taiko has 3 main hit objects:
+
+- Hits
+- Drum rolls
+- Swells
+
+### Hits
+
+![Taiko hits](/wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit notes")
+
+**Hits** are the simplest object type in osu!taiko. They will appear as either a red or a blue circle, with the only thing required from the user is to activate the right surfaces of the drum to the rhythm of the song. 
+Hits are called Don (for the red variant) and Katsu or Kat (for the blue variant), respectively.
+
+If the hit is a don, press the button bound to the inner portion of the taiko drum or hit the centre area of the *TaTaCon*.
+If it is a kat, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. 
+
+The notes must be pressed or hit in the small white judgement circle next to the drum. Hitting the wrong colour, or both red and blue colours at the same time, will be considered a miss.
+
+### Drumrolls
+
+![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll")
+
+**Drumrolls** require the user to hit either parts of the drum continuously for the tiny ticks inside the drumroll. Score will not be rewarded if the user repeatedly misses the ticks, unlike in *Taiko no Tatsujin* where suck ticks aren't present and more score is rewarded based on being able to drumroll as fast as possible.
+
+Drumrolls can be ignored with no health penalty, as they do not recover the health bar at all, but if done so no score will be rewarded. Each successful hit on the tiny hit circle gives a static 300 score and adds to the `DRUM TICK` judgement.
+
+### Swells
+
+![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko swell")
+
+To properly play the **swell**, the player has to hit the inner and outer surfaces of the drum *interchangeably in order* until the swell disappears. The starting colour does not matter as you can start with either don or katsu, and failing to complete it will incur a health penalty, but will not break combo. 
+Hitting the same colour on repeat will not progress the swell.
+
+Swells do not increment the combo counter, and do not recover the health bar in any way. Each successful hit on a swell only gives a static 300 score and increments the `BONUS` judgement, while a successful completion of a swell will reward a the same amount of score as a finisher hit.
+
+## Finishers
+
+Hits have a **finish** variant, which are larger visually compared to regular hits.
+
+If the hit is a finish variant, press or hit both of either inner or outer drum depending on the colour of the note correctly to increment the `BONUS` judgement and award double the score compared to a regular hit.
+
+## Difficulty settings
+
+osu!taiko has 3 difficulty settings with each affecting the gameplay differently:
+
+- [HP drain](/wiki/Beatmap/HP_drain_rate)
+- [Scroll speed](/wiki/Beatmap/Approach_rate)
+- [Overall difficulty](/wiki/Beatmap/Overall_difficulty) (ScoreV1 only)
+
+Each setting is often referred to as HP, SV, and OD respectively.
+
+In osu!(lazer), each of the settings can be altered to the user's preferences using the [Difficulty Adjust](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) mod.
+
+## Play Styles
+
+*Refer to [Play Styles page under osu!taiko](/wiki/Gameplay/Play_style).*
+
+## Scoring
+
+[Score in osu!taiko](/wiki/Gameplay/Score/ScoreV1/osu!taiko) is a weighted sum of multiple components of gameplay. It depends on the following:
+
+- [Judgments](/wiki/Gameplay/Judgement/osu!taiko) determine a hit object's base scoring value (300, 100, or 0 in case of a miss). The value of regular and finisher hits depends on hit timing, while every other object's base value is constant.
+- [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) is dependant on judgments and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a `MISS` judgement. In osu!taiko, the score multiplier derived from combo is limited and doesn't affect total score as much as it does in osu! or osu!catch.
+- [Kiai time](/wiki/Gameplay/Kiai_time): in osu!taiko, kiai time increases score gain by 20%, just as it does in the original *Taiko no Tatsujin* series.
+
+In addition to giving score, each cleared object fills a small part of the [health bar](/wiki/Client/Interface/Health_bar), which must be at least **50% full** for a player to pass a beatmap.
+
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!taiko), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the judgments the score contains.
+
+## Skinning
+
+*Refer to [Skinning page of osu!taiko](/wiki/Skinning/osu!taiko) for full information.*
+
+## Beatmapping
+
+### osu! conversion notes
+
+- Hit circles will be converted into don or katsu based on their hitsounds.
+- Very short sliders (usually less than a beat) are automatically converted to don or kat hits, depending on their hitsound.
+- Longer sliders (usually longer than a beat) are automatically converted into drumrolls
+- Spinners are always converted into swells
+- For maps with 125 BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
+
+**Note:** drumrolls with ticks set to 1/6 are given if the slider tick rate of **3** was used.
+
+## Trivia
+
+### Gameplay
+
+- Playing on an empty playfield does not decrease the HP bar, break combo or grant a miss.
+- Drumroll: The upper limit on number of hits on the slider is:
+  - 4 times of the length of slider, or
+  - 8 times of the length of the slider in songs that is equal or lower than 125 BPM.
+- Unlike the other game modes, *Kiai Time* influences scores because it is based off of the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* in osu!taiko or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
+  - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a spinner (the final hit is still multiplied).
+- The mascots for osu!taiko are [pippidon](/wiki/Mascots#pippi) and [Mocha](/wiki/Mascots#mocha).
+- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be *mekkadosu!*.
+
+### Playfield
 
 ![Taiko playfield](/wiki/shared/Taiko_playfield.jpg "osu!taiko playfield")
 
@@ -31,108 +137,6 @@ For players with prior *Taiko no Tatsujin* experience:
 - Background difference
   - A video or static background image-only beatmap will take up the lower portion of the screen
   - If the map has been storyboarded, the storyboard will take over the entire screen, but stay a layer behind the playfield
-
-For newcomers to the osu!taiko game mode:
-
-The screen is split into two sections; the upper section contains the gameplay elements while the lower section contains an image, video, or storyboard for the beatmap. In the upper section, there is the health bar, which, unlike other game modes, starts empty and must be filled up to at least 50% full or half-full to pass the beatmap. Below the health bar, a taiko drum is located on the left side and a moving conveyor belt carries the hit objects from right to left through the judgement circle near the taiko drum. Above the taiko drum is an animated taiko mascot (otherwise known as a pippidon or don) which will react based on kiai sections, combo milestones, and notes missed during kiai time along with a scrolling background slider that changes colour when notes are missed. Lastly, there is the usual score, accuracy, and progress of the beatmap in the upper right.
-
-Please note that health drain is disabled in osu!taiko, so only hit objects will affect the health bar. Unlike osu!, combo milestones occur every 50 consecutive hits. The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost). If the combo is broken, the boost resets back to the base score. During *Kiai Time*, every successful hit will give the player 20% more points over the current score amount. Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
-
-#### Taiko notes
-
-![Taiko hit circles](/wiki/shared/Taiko_hitcircles.jpg "osu!taiko hit circles")
-
-Taiko notes will appear as either a red or a blue circle. These circles are called Don (for red notes) and Katsu or Kat (for blue notes), respectively.
-
-If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (centre) of the *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double the points (a single correct hit will give single point instead).
-
-The notes must be pressed or hit in the small white judgement circle next to the drum. Hitting the wrong colour, or both red and blue colours at the same time, will be considered a miss.
-
-#### Drumrolls
-
-![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll")
-
-Hit the inner (or outer) parts of the drum continuously for points until the end of the drumroll. For **LARGE** notes, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is complete. Do note that drumrolls hits are hardcapped and only counted when hitting on the tiny hit circles, rather than being able to drumroll as fast as possible as in *Taiko no Tatsujin*.
-
-Drumrolls can be ignored with no health penalty, as they do not recover the health bar at all. However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
-
-#### Dendens/Shaker
-
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)")
-
-Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reaches 0. The starting colour does not matter (you can start with blue or red), and failing to complete it will incur a miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
-
-They do not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect (GREAT) large note score.
-
-## Play Styles
-
-*Refer to [Play Styles page under osu!taiko](/wiki/Gameplay/Play_style).*
-
-## Controls
-
-The default controls for osu!taiko are:
-
-| Type | Mouse | Keyboard | TaTaCon |
-| :-- | :-- | :-- | :-- |
-| Red | Left click(L) | `X` (L) / `C` (R) | Flat surface of the drum |
-| Blue | Right click(L) | `Z` (L) / `V` (R) | Outer surface of the drum |
-
-The placement of the in-game cursor does not matter when playing.
-
-If the [Relax](/wiki/Gameplay/Game_modifier/Relax) mod is used, the score judgement only accounts for hit timing (the mod automatically adjusts hits to the correct colour).
-
-The *TaTaCon* drum controller was primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*, but is not as common in osu!taiko. However, the [options](/wiki/Client/Options#other) menu has an option for `Wiimote/TaTaCon Drum support`.
-
-## Scoring
-
-[Score in osu!taiko](/wiki/Gameplay/Score/ScoreV1/osu!taiko) is a weighted sum of multiple components of gameplay. It depends on the following:
-
-- [Judgement](/wiki/Gameplay/Judgement/osu!taiko) determines a hit object's base scoring value (300, 100, or 0 in case of a miss). The value of regular and large notes depends on hit timing, while every other object's base value is constant.
-- [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss. In osu!taiko, the score multiplier derived from combo is limited and doesn't affect total score as much as it does in osu! or osu!catch.
-- [Kiai time](/wiki/Gameplay/Kiai_time): in osu!taiko, kiai time increases score gain by 20%, just as it does in the original *Taiko no Tatsujin* series.
-
-In addition to giving score, each cleared object fills a small part of the [health bar](/wiki/Client/Interface/Health_bar), which must be at least **50% full** for a player to pass a beatmap.
-
-After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!taiko), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of 300s, 100s, and misses.
-
-## Skinning
-
-*Refer to [Skinning page of osu!taiko](/wiki/Skinning/osu!taiko) for full information.*
-
-## osu!taiko Mapping
-
-- Red notes refer to normal hit circles,
-  - large red notes need a finish hitsound.
-- Blue notes need to have a whistle/clap hitsound on that hit circle,
-  - large blue notes need both finish and whistle/clap together.
-- The sliders represent the long yellow note (also known as a drumroll)
-- The spinner represents a denden.
-
-Placement of the notes does not matter.
-
-### osu! conversion notes
-
-When a map conversion happens (playing an osu! map in osu!taiko mode), very short sliders (usually less than a beat) are automatically converted to red or blue notes, depending on the hitsound used.
-
-For maps with 125 BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
-
-Do note that 1/8 rhythms are not often used in music. It is not suggested to place sliders when in 1/8 rhythm.
-
-Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used.
-
-## Trivia
-
-### Gameplay
-
-- Playing on an empty playfield does not incur any miss.
-- Drumroll: The upper limit on number of hits on the slider is:
-  - 4 times of the length of slider, or
-  - 8 times of the length of the slider in songs that is equal or lower than 125 BPM.
-- Unlike the other game modes, *Kiai Time* influences scores because it is based off of the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* in osu!taiko or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
-  - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a spinner (the final hit is still multiplied).
-- The mascots for osu!taiko are [pippidon](/wiki/Mascots#pippi) and [Mocha](/wiki/Mascots#mocha).
-- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be *mekkadosu!*.
 
 ### History
 
