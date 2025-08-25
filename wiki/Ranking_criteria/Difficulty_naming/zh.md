@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
----
-
 # 难度命名
 
 难度命名的目的是为了让玩家能了解谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。不过，你也可以使用自己的命名方案，只要命名能大致描述难度的情况，且能清晰反映出不同难度之间的游玩难易程度阶级即可。
@@ -58,7 +53,7 @@ outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
 
 ## 来自其他游戏的命名方案
 
-若谱面的歌曲来源为其他音乐节奏类游戏，谱师也常常会借用它们的难度命名方案来命名。这种命名手法适用于任意歌曲。此处列出一些在 osu! 内常用的命名方案：
+若谱面的歌曲来源为其他游戏，谱师也常常会借用它们的难度命名方案来命名。这种命名手法适用于任意歌曲。此处列出一些在 osu! 内常用的命名方案：
 
 ### Beatmania IIDX
 
@@ -138,6 +133,7 @@ outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
 #### SOUND VOLTEX EXCEED GEAR
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expert-o.png?20211215) ULTIMATE / ULT
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
 
 ### Arcaea
@@ -157,19 +153,19 @@ outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
 
 ### maimai, CHUNITHM, Ongeki
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) EASY
-- ![](/wiki/shared/diff/normal-o.png?20211215) BASIC
-- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED
-- ![](/wiki/shared/diff/insane-o.png?20211215) EXPERT
-- ![](/wiki/shared/diff/expert-o.png?20211215) MASTER
+- ![](/wiki/shared/diff/easy-o.png?20211215) EASY（简单）
+- ![](/wiki/shared/diff/normal-o.png?20211215) BASIC（初级）
+- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED（高级）
+- ![](/wiki/shared/diff/insane-o.png?20211215) EXPERT（专家）
+- ![](/wiki/shared/diff/expert-o.png?20211215) MASTER（大师）
 
 #### maimai
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Re:MASTER
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Re:MASTER（宗师）
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA（究极）/ WORLD'S END
 
 #### Ongeki
 
