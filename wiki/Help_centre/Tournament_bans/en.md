@@ -4,17 +4,17 @@
 
 A tournament ban prevents a player from playing in official or officially supported tournaments. It also limits to what extent a player can staff or otherwise offer assistance in these tournaments.
 
-Tournament bans are very rarely handed out on their own, but generally speaking almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
+Tournament bans are very rarely handed out on their own, but generally speaking, almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
 
 Due to the high-stakes nature of tournament play, tournament bans are treated very seriously and are not subject to the kind of leniency an account restriction might ordinarily receive.
 
 ## What causes someone to receive a temporary tournament ban? {id=why-temporary}
 
-Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only resulted in an infringement outside of the competitive play setting.
+Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only been considered a minor infringement outside of the competitive play setting.
 
-As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (swastika, etc.) using cursor smoke in streamed matches.
+As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (such as swastikas) using cursor smoke in streamed matches.
 
-All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/Account_support_team).
+All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be higher at the discretion of the [account support team](/wiki/People/Account_support_team).
 
 ## What causes someone to receive an indefinite tournament ban? {id=why-permanent}
 
@@ -24,7 +24,7 @@ This includes situations like:
 
 - As above, any use of third-party cheating tools or utilities to gain an advantage
 - Making use of multiple accounts to enter a tournament
-- Attempting to evade a silence or infringement by using another account
+- Attempting to evade a silence or other penalty by using another account
 - Account sharing within/during an officially supported tournament
 - Conspiring to obtain or otherwise using private information to gain or confer an advantage (such as accessing mappool information before other teams, etc.)
 - Abusing positions of trust to gain or confer an advantage (manipulating schedules, unfairly changing team compositions, or disqualifying participants without cause or reasoning)
@@ -32,7 +32,7 @@ This includes situations like:
 
 ## Can I appeal a tournament ban? {id=appeal}
 
-Temporary tournament bans as applied via standard appeal terms or other means cannot be appealed.
+Temporary tournament bans as applied via standard appeal terms or for other reasons cannot be appealed.
 
 Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
 
