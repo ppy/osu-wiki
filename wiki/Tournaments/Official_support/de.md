@@ -203,7 +203,7 @@ Nur Spieler, die am Turnier teilnehmen **oder** die im Laufe des Turniers als Er
 
 ### Profilabzeichen
 
-Offiziell unterstützte Turniere, die die [oben genannten Erwartungen](#erwartungen) erfüllen, können nach ihrem Abschluss Profilabzeichenpreise anfragen. Wir empfehlen ausdrücklich, die Profilabzeichenpreise so schnell wie möglich nach dem Ende des Turniers zu beantragen, da dies den [Überprüfungsprozess](/wiki/People/Tournament_Committee#tournament-review) einfacher gestaltet. **Die Abzeichen werden niemals vor Beendigung des Turniers akzeptiert.**
+Offiziell unterstützte Turniere, die die [oben genannten Erwartungen](#erwartungen) erfüllen, können nach ihrem Abschluss Profilabzeichenpreise anfragen. Wir empfehlen ausdrücklich, die Profilabzeichenpreise so schnell wie möglich nach dem Ende des Turniers zu beantragen, da dies den [Überprüfungsprozess](/wiki/People/Tournament_Committee#überprüfung-von-turnieren) einfacher gestaltet. **Die Abzeichen werden niemals vor Beendigung des Turniers akzeptiert.**
 
 Bilder für Profilabzeichen müssen die folgenden Standards einhalten:
 
