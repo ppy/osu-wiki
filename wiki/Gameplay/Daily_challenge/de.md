@@ -1,13 +1,10 @@
----
-outdated_translation: true
-outdated_since: f268fd0035d866869064e1e889e54502b9575181
----
-
 # Tägliche Herausforderung
 
 Die **tägliche Herausforderung** (auch *Daily Challenge*) ist ein Mehrspielermodus in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), bei dem Spieler täglich in Folge immer schwieriger werdende Beatmaps abschließen müssen. Alle 7 Tage wird das Schwierigkeitsniveau zurückgesetzt.
 
 Für diesen Modus werden Beatmaps von einer Gruppe von Mitwirkenden ausgewählt, die hauptsächlich aus dem [Featured-Artist](/wiki/People/Featured_Artists)-Katalog stammen. An manchen Tagen werden möglicherweise Mods vorgegeben, mit denen die Beatmap abgeschlossen werden muss.
+
+Die aktuelle und alle vergangenen täglichen Herausforderungen werden auf der [Daily-Challenge-Ranglistenseite](https://osu.ppy.sh/rankings/daily-challenge) aufgelistet.
 
 ## Spielmenü
 
@@ -53,6 +50,8 @@ Das Projekt wird von ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
+- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
+- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
 
 ## Trivia
 
