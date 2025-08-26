@@ -10,7 +10,7 @@ Due to the high-stakes nature of tournament play, tournament bans are treated ve
 
 ## What causes someone to receive a temporary tournament ban? {id=why-temporary}
 
-Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only been considered a minor infringement outside of the competitive play setting.
+Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only resulted in a less severe punishment outside of the competitive play setting.
 
 As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (such as swastikas) using cursor smoke in streamed matches.
 
@@ -32,7 +32,7 @@ This includes situations like:
 
 ## Can I appeal a tournament ban? {id=appeal}
 
-Temporary tournament bans as applied via standard appeal terms or for other reasons cannot be appealed.
+Temporary tournament bans as applied via standard appeal terms or other means cannot be appealed.
 
 Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
 
