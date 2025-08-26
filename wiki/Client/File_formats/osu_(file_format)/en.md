@@ -4,7 +4,7 @@
 
 ## Structure
 
-The first line of the file specifies the file format version. For example, `osu file format v14` is the latest version. (v128 for [osu!lazer](/wiki/en/Client/Release_stream/Lazer).)
+The first line of the file specifies the file format version. For example, `osu file format v14` is the latest version. (v128 for [osu!(lazer)](/wiki/en/Client/Release_stream/Lazer).)
 
 The following content is separated into sections, indicated by section titles in square brackets.
 
