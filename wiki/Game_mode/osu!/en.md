@@ -2,13 +2,13 @@
 
 *For other uses, see [osu! (disambiguation)](/wiki/Disambiguation/osu!).*
 
-osu! is the first game mode introduced to the game. In it, the player has the ability to aim for and click circles using their *cursor* in tune with the rhythm. [based on the ouendan series](#inspiration).
+osu! is the first game mode introduced to the game. In it, the player has the ability to aim for and click circles using their *cursor* in tune with the rhythm.
 
 ## Song selection
 
-To access the osu!catch game mode press `Ctrl` + `3` at the same time, use the the `Mode` button and select `osu!catch` in osu!(stable), or click the ![](/wiki/shared/mode/catch.png) icon on the top of the screen for osu!(lazer).
+To access the osu! game mode press `Ctrl` + `1` at the same time, use the the `Mode` button and select `osu! in osu!(stable), or click the ![](/wiki/shared/mode/osu.png) icon on the top of the screen for osu!(lazer).
 
-To download more beatmaps for osu!catch, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `beatmap listing` button 
+To download more beatmaps for osu!, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `beatmap listing` button.
 
 ![osu!(lazer) beatmap listing button](/wiki/shared/lazer_beatmap_listing.png)
 
@@ -82,7 +82,7 @@ In osu!(lazer), each of the settings can be altered to the user's preferences us
 [Score in osu!](/wiki/Gameplay/Score/ScoreV1/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
 
 - [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For hit circles and slider heads, well-timed key presses are valued more, both in terms of score and accuracy. Getting a higher judgement also provides more [health](/wiki/Gameplay/Health) boost.
-- [Accuracy](/wiki/Gameplay/Accuracy#osu!) is dependant on judgements and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
+- [Accuracy](/wiki/Gameplay/Accuracy#osu!) is dependant on judgments and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
 - [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
 In osu!(stable), slider heads also didn't have hit timings and the sliders judgement was decided when the slider ended, with it being based on how the player guided the slider ball.
@@ -111,8 +111,9 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 ### Gameplay
 
+- While using [auto](/wiki/Gameplay/Game_modifier/Auto) the player name will be shown as *"osu!"*.
 - Depending on difficulty setting and the timing tolerance, tapping on the hit object *way too early* will heavily vibrate the hit object instead.
-- Releasing slider ball on empty slider path without hidden or visible slider ticks does not result in combo break nor any score given. Slider judgements only check for whether the starting circle was clicked, the slider ticks was collected, and ending circle was completed successfully or not.
+- Releasing slider ball on empty slider path without hidden or visible slider ticks does not result in combo break nor any score given. Slider judgments only check for whether the starting circle was clicked, the slider ticks was collected, and ending circle was completed successfully or not.
 - On the *DS*, completing spinners is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. In osu!(stable), the maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute. In osu!(lazer), spinners have set maximum for bonus score, making spinning after achieving the max score unnecessary.
 - Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction. The spin progress won't progress during the reorientation, and will continue to increase on reverse spin.
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
