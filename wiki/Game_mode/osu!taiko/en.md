@@ -4,9 +4,9 @@ osu!taiko is a game mode that requires the player to play a virtual japanese *ta
 
 ## Song selection
 
-To access the osu!catch game mode press `Ctrl` + `3` at the same time, use the the `Mode` button and select `osu!catch` in osu!(stable), or click the ![](/wiki/shared/mode/catch.png) icon on the top of the screen for osu!(lazer).
+To access the osu!catch game mode press `Ctrl` + `2` at the same time, use the the `Mode` button and select `osu!taiko` in osu!(stable), or click the ![](/wiki/shared/mode/taiko.png) icon on the top of the screen for osu!(lazer).
 
-To download more beatmaps for osu!catch, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `beatmap listing` button 
+To download more beatmaps for osu!taiko, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `beatmap listing` button.
 
 ![osu!(lazer) beatmap listing button](/wiki/shared/lazer_beatmap_listing.png)
 
@@ -19,9 +19,11 @@ In osu!taiko, the player is supposed to control a taiko drum in a way that corre
 
 The placement of the in-game cursor does not affect gameplay under no circumstance.
 
-If the [Relax](/wiki/Gameplay/Game_modifier/Relax) mod is used, the game will only judge for the hit timing of the notes and ignore their colours.
+If the [relax](/wiki/Gameplay/Game_modifier/Relax) mod is used, the game will only judge for the hit timing of the notes and ignore their colours.
 
-osu!taiko can also be played using a *TaTaCon* drum controller which was primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*, but is not as common to be used for osu!taiko. However, the [options](/wiki/Client/Options#other) menu in osu!(stable) has an option for enabling `Wiimote/TaTaCon Drum support` for those that may want to use this kind of controller. In osu!(lazer), head to `settings`/`input` and enable the `Joystick/Gamepad` option, after that bind the surfaces of the drum in the `gameplay bindings`/`osu!taiko` section.
+osu!taiko can also be played using a *TaTaCon* drum controller which was primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*, but is not as common to be used for osu!taiko. However, the [options](/wiki/Client/Options#other) menu in osu!(stable) has an option for enabling `Wiimote/TaTaCon Drum support` for those that may want to use this kind of controller. In osu!(lazer), head to `settings`/`input` and enable the `Joystick/Gamepad` option, after that bind the surfaces of the drum in the `gameplay bindings`/`osu!taiko` section to achieve a similar effect.
+
+<!-- This should be worded better to avoid using `thing`/`thing` but I don't know how to really do that at the moment T^T. Will try to look for better solutions soon.-->
 
 ## Hit objects
 
@@ -109,28 +111,27 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 - Spinners are always converted into swells
 - For maps with 125 BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
 
-**Note:** drumrolls with ticks set to 1/6 are given if the slider tick rate of **3** was used.
+**Note:** drumrolls with ticks set to 1/6 are given if a slider tick rate of **3** was used.
 
 ## Trivia
 
 ### Gameplay
 
+- When played by [auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be shown as *mekkadosu!*.
 - Playing on an empty playfield does not decrease the HP bar, break combo or grant a miss.
+- Unlike the other game modes, *Kiai Time* influences scores because it is based off of the *"Go-Go Time"* in *Taiko no Tatsujin*. 
+  - Additionally, all hit notes except for swells gain a 1.2x score multiplier (only the final hit of a swell will be multiplied).
+  - While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* in osu!taiko or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
 - Drumroll: The upper limit on number of hits on the slider is:
   - 4 times of the length of slider, or
   - 8 times of the length of the slider in songs that is equal or lower than 125 BPM.
-- Unlike the other game modes, *Kiai Time* influences scores because it is based off of the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* in osu!taiko or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
-  - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a spinner (the final hit is still multiplied).
 - The mascots for osu!taiko are [pippidon](/wiki/Mascots#pippi) and [Mocha](/wiki/Mascots#mocha).
-- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be *mekkadosu!*.
 
-### Playfield
+### Differences between Taiko no Tatsujin and osu!taiko
 
-![Taiko playfield](/wiki/shared/Taiko_playfield.jpg "osu!taiko playfield")
+<!-- Considering this part mostly highlights the differences between TnT and osu!taiko rather than the playfield itself, I think this name would be more fitting than just `Playfield`.-->
 
-For players with prior *Taiko no Tatsujin* experience:
-
-- No chibi dancers at the bottom (must be storyboarded)
+- No dancers at the bottom (must be storyboarded)
 - The health bar must be at least 50% full to pass the song
 - *Kiai Time* triggers the *"Go-Go Time"*
   - Gameplay gimmicks like the hit balloons or forked paths are not implemented (only the basics)
