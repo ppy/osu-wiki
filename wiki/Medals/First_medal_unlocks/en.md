@@ -276,7 +276,7 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![](/wiki/shared/medals/all-intro-conversion.png) | Gear Shift | ::{ flag=TH }:: [knoxnolia](https://osu.ppy.sh/users/33905840) | 25 Dec 2024 (03:28:15) |
 | ![](/wiki/shared/medals/all-intro-fun.png) | Game Night | ::{ flag=US }:: [HelpMeImAwful](https://osu.ppy.sh/users/10011406) | 25 Dec 2024 (03:28:10) |
 
-## Skill & Decication
+## Skill & Dedication
 
 |  | Medal | First achiever | Date achieved (UTC) |
 | --: | :-- | :-- | :-- |
