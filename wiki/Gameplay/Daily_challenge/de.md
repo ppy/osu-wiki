@@ -16,7 +16,7 @@ Das Menü für die tägliche Herausforderung kann vom Hauptmenü aus folgenderma
 1. Klicke den Button `Spielen` oder drücke `P`.
 2. Klicke den Button `Tägliche Herausforderung` oder drücke `D`.
 
-![](img/daily-challenge-menu.png "Screenshot der täglichen Herausforderung am 7. November 2024.")
+![](img/daily-challenge-menu.png?20250824 "Screenshot der täglichen Herausforderung am 24. August 2024.")
 
 Beim Öffnen der täglichen Herausforderung wird ein Intro angezeigt, das die abzuschließende Beatmap sowie die vorgegebenen Mods präsentiert.
 
