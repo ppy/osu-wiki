@@ -149,6 +149,12 @@ This also an includes an additional [change](https://github.com/ppy/osu/pull/342
 
 ## osu!catch
 
+### Reduced combo scaling
+
+A [change](https://github.com/ppy/osu/pull/33417) proposed by [KitsunIvy](https://osu.ppy.sh/users/7055384) was created to reduce how harsh final PP values are scaled by a score's max combo.
+
+<!-- graph -->
+
 ### Minor changes
 
 - A [fix](https://github.com/ppy/osu/pull/32412) by [KitsunIvy](https://osu.ppy.sh/users/7055384) to ensure consistent detection of "buzz slider" patterns
