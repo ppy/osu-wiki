@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f268fd0035d866869064e1e889e54502b9575181
+---
+
 # Tägliche Herausforderung
 
 Die **tägliche Herausforderung** (auch *Daily Challenge*) ist ein Mehrspielermodus in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), bei dem Spieler täglich in Folge immer schwieriger werdende Beatmaps abschließen müssen. Alle 7 Tage wird das Schwierigkeitsniveau zurückgesetzt.
@@ -11,7 +16,7 @@ Das Menü für die tägliche Herausforderung kann vom Hauptmenü aus folgenderma
 1. Klicke den Button `Spielen` oder drücke `P`.
 2. Klicke den Button `Tägliche Herausforderung` oder drücke `D`.
 
-![](img/daily-challenge-menu.png "Screenshot der täglichen Herausforderung am 7. November 2024.")
+![](img/daily-challenge-menu.png?20250824 "Screenshot der täglichen Herausforderung am 24. August 2024.")
 
 Beim Öffnen der täglichen Herausforderung wird ein Intro angezeigt, das die abzuschließende Beatmap sowie die vorgegebenen Mods präsentiert.
 

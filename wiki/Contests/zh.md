@@ -83,7 +83,7 @@ outdated_since: 0ea790250344a95c352ee0241b94ddc44a06c5b0
 | [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
 | [#3](/wiki/Contests/o!tFAC/3) | **Code:Red** (::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)、::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525)) | **?XD** (::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392)、::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)) | **:3** (::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157)、::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)) | [#1](https://osu.ppy.sh/home/news/2022-12-26-results-osu!taiko-featured-artist-cup-3) |
 
-### [osu! 作图奥运会](A_Labour_of_Love_Contest)
+### [osu! 作图奥运会](Mapping_Olympiad)
 
 **osu! 作图奥运会 (osu! Mapping Olympiad)** 是一个作图竞赛，在精神上继承了之前（2020 年前）的月度作图竞赛。在这个竞赛中，参赛谱师要从当届竞赛给出的歌曲中任选一首，可以创建从 Easy 或 Normal 开始、[难度分布](/wiki/Beatmap/Difficulty#难度等级)适宜的谱面，也可以制作出一定数目的难度。
 

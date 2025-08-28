@@ -20,7 +20,7 @@ Disse regler er grundlaget for, hvordan vi sikrer, at osu!-fællesskabet er et s
 
 1. **Vær respektfuld og opmærksom på andre brugere i kanalen, og undgå at spamme chatten.** En person, der fylder halvdelen af skærmen er irriterende, så undgå det, hvis du kan. Andre folk chatter også!
 2. **Lad moderatorerne håndtere problemer i chatten.** Du kan melde ting til dem med [`!report`-kommandoen](/wiki/Reporting_bad_behaviour), og så skal de nok sørge for resten.
-3. **Hvis nogen bliver silenced eller restricted, skal du lade dem være og ikke snakke om dem.** Deres sag involverer kun dem og spillets administratorer - ingen andre.
+3. **Hvis nogen bliver silenced eller begrænset, skal du lade dem være og ikke snakke om dem.** Deres sag involverer kun dem og spillets administratorer - ingen andre.
 4. **Frem fairplay og giv ikke opmærksomhed til snyderi eller giftige personer.** Sådanne personer eksisterer desværre, og hvis man giver dem opmærksomhed, kan man tilskynde dem til at fortsætte, eller i værste tilfælde inspirere andre til at gøre det samme. Anmeld dem i stedet vha. chat kommandoen `!report` eller knapperne på deres profil.
 5. **Hold chatten ren og passende for alle aldre. Det betyder, at NSFW emner skal undgås så meget som muligt.** NSFW emner er overhovedet ikke passende for et fællesskab, der inkluderer alle aldre. Gør hvad du vil i privatbeskeder (inden for rimelighedens grænser), men hold de offentlige kanaler rene.
 6. **Vær opmærksom på hvad du deler med andre, især hvis indholdet er potentielt stødende eller af grafisk natur.** Hvis du bliver nødt til at tænke dig om for at finde ud af, om det er tilladt at sende et link, er det sandsynligvis ikke okay. Undgå indhold med hurtigt blinkende lys, blod, overgrebsmateriale eller andet grafisk materiale.
@@ -28,7 +28,7 @@ Disse regler er grundlaget for, hvordan vi sikrer, at osu!-fællesskabet er et s
 8. **Reklamér ikke for tredjepartschatservere af nogen slags, især Discord og Teamspeak-servere/grupper.** osu! chatten handler først og fremmest om osu!, og ikke om at dele links til dine servere. Gør det via private beskeder, hvis du absolut skal.
 9. **I sprog-specifikke kanaler skal det gældende sprog snakkes, hvis du deltager i diskussionen (engelsk i `#english`, thailandsk i `#thai`, osv.).** I kanaler hvor der ikke eksplicit er skrevet, hvilket sprog der snakkes, er det altid engelsk. I `#lobby` og `#help` kanalerne kan alle sprog bruges. *[Moderatorer](/wiki/People/Global_Moderation_Team) behøver ikke at følge disse regler under udførelse af deres arbejde.*
 
-## Forum-dækkende regler
+## Forumdækkende regler
 
 1. **Lav kun meningsfyldte, interessante eller på anden måde engagerende opslag.** Forummet handler først og fremmest om diskussioner, så gør en indsats for ikke at spilde alle andres tid.
 2. **Hold dine opslag og svar passende for folk af alle aldre.** NSFW indhold er ikke passende for et fællsskab for alle aldre. Der er dog intet, der stopper dig fra at diskutere disse ting i privatbeskeder.
@@ -64,9 +64,9 @@ Disse konsekvenser kan inkludere (*men er ikke begrænset til*):
 
 Visse overtrædelser har en mindstestraf (oftest 43+ timer), hvis de er særligt alvorlige. De er dog næsten udelukkende forbeholdt alvorlige overtrædelser, såsom deling af grafisk indhold eller chikane af andre brugere.
 
-Hvis du, efter flere overtrædelser, fortsætter med at bryde reglerne, kan din konto muligvis være permanent og uigenkaldeligt restricted.
+Hvis du, efter flere overtrædelser, fortsætter med at bryde reglerne, kan din konto muligvis være permanent og uigenkaldeligt begrænset.
 
-Restrictede brugere kan ikke spille online, sætte scores eller chatte med andre brugere, og er i alle henseender udelukket/"bannet" fra interaktion med resten af fællesskabet. En bruger, som er blevet restricted for overtrædelse af fællesskabsreglerne, kan kun få sin restriction fjernet efter anmodning til supportpersonalet, efter der er gået 3 måneder ([flere betingelser kan gælde](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
+Begrænsede brugere kan ikke spille online, sætte scores eller chatte med andre brugere, og er i alle henseender udelukket/"bannet" fra interaktion med resten af fællesskabet. En bruger, som er blevet begrænset for overtrædelse af fællesskabsreglerne, kan kun få sin begrænsning fjernet efter anmodning til supportpersonalet, efter der er gået 3 måneder ([flere betingelser kan gælde](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 Alvorlige overtrædelser, der går langt ud over grænserne for vores regler og ind i ulovligt territorie i henhold til almindelig international lovgivning, vil resultere i øjeblikkelig sletning af kontoen. Dette gælder næsten udelukkende for ekstremt grafiske eller på anden måde afskyelige overtrædelser, såsom distribution af børnepornografi eller andet overgrebsmateriale.
 

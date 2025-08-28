@@ -128,7 +128,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 - Rice
   1. [Azumi Takahashi feat. Lotus Juice - Full Moon Full Life (Valedict) \[Carpe Diem (cut)\]](https://osu.ppy.sh/beatmapsets/2253746#mania/4793933)
   2. [Kano - Yuudachi no Ribbon (Miaurichesu) \[Deluge 1.3x\]](https://osu.ppy.sh/beatmapsets/2253665#mania/4793741)
-  3. [Falcom Sound Team jdk - Hard Desperation (Valedict, lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1613480#mania/3294142)
+  3. [Falcom Sound Team jdk - Hard Desperation (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1613480#mania/3294142)
   4. [LUZE - picking (lemonguy) \[Challenge (cut)\]](https://osu.ppy.sh/beatmapsets/2253585#mania/4793559)
   5. [Terminal 11 - DsMaxInkd (Pizza69) \[Hyperacusis\]](https://osu.ppy.sh/beatmapsets/2047593#mania/4274921)
   6. [Celldweller - One Good Reason (elexire, Pope Gadget) \[Rockport 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/2253773#mania/4793969)

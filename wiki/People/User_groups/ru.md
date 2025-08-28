@@ -25,7 +25,7 @@ tags:
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Номинаторы](/wiki/People/Beatmap_Nominators) | Пользователи, демонстрирующие исключительную преданность процессу ранкинга |
 | 29 | ![BOT](/wiki/shared/group/BOT.png) | [Бот-аккаунты](/wiki/Bot_account)[^private] | Специальные аккаунты, управляемые автоматизированными сервисами вместо реальных людей |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Команда Project Loved](/wiki/People/Project_Loved_Team) | Помогают картам, которые *нравятся* комьюнити, стать [любимыми](/wiki/Beatmap/Category#loved) |
-| 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Номинаторы (стажёры)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | Номинаторы на испытательном сроке, ожидающие вступления в ряды полноправных номинаторов. |
+| 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Номинаторы (стажёры)](/wiki/People/Beatmap_Nominators#номинаторы-на-испытательном-сроке) | Номинаторы на испытательном сроке, ожидающие вступления в ряды полноправных номинаторов. |
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy[^private] | Зарезервирована для [peppy](/wiki/People/peppy), создателя osu! |
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Музыкальные исполнители, сотрудничающие с osu! |
 | 47 |  | Announcement[^private] | Пользователи с правами на отправку [объявлений](/wiki/Announcement_messages) |
