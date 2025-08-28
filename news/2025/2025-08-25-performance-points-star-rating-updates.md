@@ -126,7 +126,9 @@ This rebalance sets out to decrease the HD bonus on higher ARs whilst leaving ot
 
 This includes an additional [change](https://github.com/ppy/osu/pull/34215) by [Givikap120](https://osu.ppy.sh/users/10560705) that reduces the low-AR Hidden bonus for maps with large slider bonuses as sliders have increased visibility compared to hit circles. This nerfs maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702).
 
-A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.ppy.sh/users/7217455) was also included to make AR and HD bonuses additive.
+A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.ppy.sh/users/7217455) was included to make AR and HD bonuses additive.
+
+Currently, the Traceable mod shares bonuses with Hidden so all changes will apply to the Traceable mod too. These changes also apply a slight nerf to the Traceable mod on lower ARs (AR<7) as circles are always partially visible with this mod, which gives it an advantage over Hidden.
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/hidden-bonus-5.png)
 
