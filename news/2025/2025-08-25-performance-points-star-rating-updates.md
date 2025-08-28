@@ -73,7 +73,7 @@ Some examples of scores nerfed by this change:
 
 - [mrekk's 1 miss 5 slider break HDDT score on Songs Compilation VI [Collab Extra]](https://osu.ppy.sh/scores/4746396766): 1 estimated slider break --> 4 estimated slider breaks
 - [ivaxa's 1 miss 9 slider break DT score on MEGALOMANIA [KK's EXTREME]](https://osu.ppy.sh/scores/4632204911): 1 estimated slider break --> 5 estimated slider breaks
-- [gwb's 6 miss 4 sliderbreak HDDTHR score on Sweets Holic (Cut Ver.) [Kumocha's Extreme]](https://osu.ppy.sh/scores/5249748119): 0 estimated slider breaks --> 3 estimated slider breaks
+- [gwb's 6 miss 4 slider break HDDTHR score on Sweets Holic (Cut Ver.) [Kumocha's Extreme]](https://osu.ppy.sh/scores/5249748119): 0 estimated slider breaks --> 3 estimated slider breaks
 
 ### Precision buff
 
@@ -136,7 +136,7 @@ A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.p
 
 - A [fix](https://github.com/ppy/osu/pull/32694) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure deviation calculations cannot break speed PP
 - A [fix](https://github.com/ppy/osu/pull/34369) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure Traceable's visibility bonus was handled correctly after the recent Hidden changes
-- A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that sliderbreaks are not awarded in impossible combo scenarios
+- A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that slider breaks are not awarded in impossible combo scenarios
 - A [fix](https://github.com/ppy/osu/pull/34065) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure OD accounts for osu!(lazer)'s updated hit windows
 - A [fix](https://github.com/ppy/osu/pull/33110) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure slider break estimations cannot produce an impossibly high number of slider breaks
 - A [change](https://github.com/ppy/osu/pull/33640) by [tsunyoku](https://osu.ppy.sh/users/11315329) to rebalance final values to meet community expectations
