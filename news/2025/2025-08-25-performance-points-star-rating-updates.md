@@ -119,11 +119,13 @@ Some examples of beatmaps buffed by this change:
 
 ### Hidden bonus rebalance
 
-A [set](https://github.com/ppy/osu/pull/33237) [of](https://github.com/ppy/osu/pull/33271) [changes](https://github.com/ppy/osu/pull/34367) by [Givikap120](https://osu.ppy.sh/users/10560705) and [StanR](https://osu.ppy.sh/users/7217455) were made in order to rebalance the Hidden bonus.
+A [change](https://github.com/ppy/osu/pull/33237) by [Givikap120](https://osu.ppy.sh/users/10560705) were made in order to rebalance the Hidden bonus.
 
 This rebalance sets out to decrease the HD bonus on higher ARs whilst leaving other Hidden scores untouched. The meaning of "higher ARs" now scales by difficulty, meaning lower star ratings (~5*) can start seeing small Hidden nerfs from AR9 and upwards whilst higher star ratings (~10*) will start seeing HD nerfs from AR10.33. This is done to avoid awarding excessive nerfs at ARs where the Hidden difficulty is noticable, whilst still ensuring overweighted ranges receive a warranted nerf.
 
 This also an includes an additional [change](https://github.com/ppy/osu/pull/34215) by [Givikap120](https://osu.ppy.sh/users/10560705) that reduces the low-AR Hidden bonus for maps with large slider bonuses as sliders have increased visibility compared to hit circles. This nerfs maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702).
+
+A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.ppy.sh/users/7217455) was also included to make AR and HD bonuses additive.
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/hidden-bonus-5.png)
 
@@ -143,6 +145,7 @@ This also an includes an additional [change](https://github.com/ppy/osu/pull/342
 - A [refactor](https://github.com/ppy/osu/pull/33265) by [tsunyoku](https://osu.ppy.sh/users/11315329) to aid with difficulty calculation maintenance
 - A [change](https://github.com/ppy/osu/pull/33423) by [Givikap120](https://osu.ppy.sh/users/10560705) to optimise rhythm calculations
 - A [refactor](https://github.com/ppy/osu/pull/34065) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure OD accounts for osu!(lazer)'s updated hit windows
+- A [refactor](https://github.com/ppy/osu/pull/33271) by [Givikap120](https://osu.ppy.sh/users/10560705) to improve readability of the new hidden bonus
 - A [fix](https://github.com/ppy/osu/pull/34369) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure Traceable's visiblity bonus was handled correctly
 - A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that sliderbreaks are not awarded in impossible combo scenarios
 
