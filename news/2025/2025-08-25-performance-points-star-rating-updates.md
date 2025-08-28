@@ -79,7 +79,7 @@ Some examples of scores nerfed by this change:
 
 PP calculations have had a "small circle" bonus (which starts at CS5.5) since its inception which intends to add extra reward for the difficulty required to aim on high CS.
 
-Thanks to a [change](https://github.com/ppy/osu/pull/28877) proposed by [StanR](https://osu.ppy.sh/users/7217455), this bonus no longer caps at CS6.55 and allows for buffs across the board on higher CS values.
+Thanks to a [change](https://github.com/ppy/osu/pull/28877) proposed by [StanR](https://osu.ppy.sh/users/7217455), this bonus no longer caps at CS6.5 and allows for buffs across the board on higher CS values.
 
 This change also comes with a nerf to jump patterns that travel through a central point. This prevents maps such as [Tanaka Hirokazu - C-TYPE [Bonsai's BasS-TYPE]](https://osu.ppy.sh/beatmapsets/757146#osu/1620144) from being buffed excessively.
 
