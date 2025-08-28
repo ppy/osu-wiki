@@ -6,6 +6,8 @@ tags:
   - Seasonal Spotlights
   - 季赛
   - 月赛
+outdated_translation: true
+outdated_since: 4e8396611b85a8579afd4cbed4d7ff290c1a3707
 ---
 
 # 聚光灯

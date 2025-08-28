@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 9e27b13d4f2dba800fbdb69bb4f724b48d2b60eb
 ---
 
 # .osu (文件格式)
