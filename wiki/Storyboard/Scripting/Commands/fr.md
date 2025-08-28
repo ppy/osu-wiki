@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: fdc606fde16fb565adc6f2307113994db4ae1a12
----
-
 # Commandes de script d'un storyboard
 
 Chaque [déclaration d'objet](/wiki/Storyboard/Scripting/Objects) est suivie d'une ou plusieurs **commandes**. Celles-ci indiquent à l'objet de faire quelque chose, appelé **événement**, comme se déplacer ou changer de couleur. On peut considérer que chaque commande affecte une variable (ou un ensemble de variables) pour cet objet. Une fois la commande terminée, l'objet conserve ces valeurs jusqu'à ce qu'une autre commande les modifie. Les objets pour lesquels aucun type particulier de commande n'est utilisé utiliseront la valeur par défaut pour cette variable.
@@ -244,11 +239,11 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-Pour faire apparaître quelque chose en jaune (`#cccc00`) :
+Pour faire apparaître quelque chose en jaune (`255,255,0`) :
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
-_C,0,58810,59810,CC,CC,0
+_C,0,58810,59810,255,255,0
 ```
 
 ## Commandes supplémentaires

@@ -23,6 +23,7 @@ The [Technical Support Team group page](https://osu.ppy.sh/groups/22) lists all 
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Italian |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | German |

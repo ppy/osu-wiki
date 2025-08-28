@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bfae4f4bdbede62189dc635b7b82cf3a8c61e10c
+---
+
 # 拥有特殊头衔的玩家
 
 玩家的头衔通常由[玩家组](/wiki/People/User_group)决定，但是出于其他原因，以下列出的玩家，因为做出了卓越贡献或成就，或是做出过某些 osu! 标志性的历史事件，从而获得了特殊头衔。
