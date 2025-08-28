@@ -85,7 +85,7 @@ This change also comes with a nerf to jump patterns that travel through a centra
 
 There was an additional [change](https://github.com/ppy/osu/pull/34214) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure that this bonus is not applied to aim's slider velocity bonus. This keeps maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702) in check with minimal changes to other beatmaps.
 
-<!-- graph of before vs after -->
+![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/precision-bonus.png)
 
 Some examples of beatmaps buffed by this change:
 
@@ -125,8 +125,9 @@ This rebalance sets out to decrease the HD bonus on higher ARs whilst leaving ot
 
 This also an includes an additional [change](https://github.com/ppy/osu/pull/34215) by [Givikap120](https://osu.ppy.sh/users/10560705) that reduces the low-AR Hidden bonus for maps with large slider bonuses as sliders have increased visibility compared to hit circles. This nerfs maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702).
 
-<!-- graph with old vs new bonus (5*) -->
-<!-- graph with old vs new bonus (10*) -->
+![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/hidden-bonus-5.png)
+
+![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/hidden-bonus-10.png)
 
 ### Minor changes
 
@@ -146,6 +147,8 @@ This also an includes an additional [change](https://github.com/ppy/osu/pull/342
 - A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that sliderbreaks are not awarded in impossible combo scenarios
 
 ## osu!taiko
+
+<!-- todo -->
 
 ## osu!catch
 
