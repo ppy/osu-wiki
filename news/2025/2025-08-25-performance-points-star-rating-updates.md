@@ -123,7 +123,7 @@ A [change](https://github.com/ppy/osu/pull/33237) by [Givikap120](https://osu.pp
 
 This rebalance sets out to decrease the HD bonus on higher ARs whilst leaving other Hidden scores untouched. The meaning of "higher ARs" now scales by difficulty, meaning lower star ratings (~5*) can start seeing small Hidden nerfs from AR9 and upwards whilst higher star ratings (~10*) will start seeing HD nerfs from AR10.33. This is done to avoid awarding excessive nerfs at ARs where the Hidden difficulty is noticable, whilst still ensuring overweighted ranges receive a warranted nerf.
 
-This also an includes an additional [change](https://github.com/ppy/osu/pull/34215) by [Givikap120](https://osu.ppy.sh/users/10560705) that reduces the low-AR Hidden bonus for maps with large slider bonuses as sliders have increased visibility compared to hit circles. This nerfs maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702).
+This includes an additional [change](https://github.com/ppy/osu/pull/34215) by [Givikap120](https://osu.ppy.sh/users/10560705) that reduces the low-AR Hidden bonus for maps with large slider bonuses as sliders have increased visibility compared to hit circles. This nerfs maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702).
 
 A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.ppy.sh/users/7217455) was also included to make AR and HD bonuses additive.
 
