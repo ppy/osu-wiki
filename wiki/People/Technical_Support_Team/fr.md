@@ -25,6 +25,7 @@ La [page de groupe de l'équipe de support technique](https://osu.ppy.sh/groups/
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
+| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Italien |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Allemand |

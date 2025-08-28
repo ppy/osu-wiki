@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 484cdf4e21c5aa17ab9cf097c57b413162d948a8
 no_native_review: true
 ---
 
@@ -8,7 +6,9 @@ no_native_review: true
 
 **Wyzwania dnia** to wieloosobowy tryb gry w [osu!(lazer)](/wiki/Client/Release_stream/Lazer) gdzie gracze mogą podbudowywać miernik codziennej passy poprzez przechodzenie kolejne codzienne beatmapy z zwiekszającą się trudnością która się resetuje co każde 7 dni.
 
-Każda beatmapa jest starannie wybrana z listy [Polecanych Artystów](/wiki/People/Featured_Artists), a czasami mapy zawierają moda narzuconego na użytkowników, co wymaga od nich przejścia mapy z wybranym modem.
+Każda beatmapa jest starannie wybrana przeważnie z listy [Polecanych Artystów](/wiki/People/Featured_Artists), a czasami mapy zawierają moda narzuconego na użytkowników, co wymaga od nich przejścia mapy z wybranym modem.
+
+Obecne i wszystkie poprzednie wyzwania dnia można znaleźć na [stronie rankingów wyzwań dnia](https://osu.ppy.sh/rankings/daily-challenge).
 
 ## Menu gry
 
@@ -17,7 +17,7 @@ Z menu głownego, menu wyzwań dziennych można uzyskać poprzez wykonanie poni�
 1. Kliknij przycisk `graj` lub kliknij `P` na klawiaturze.
 2. Kliknij przycisk `wyzwanie dnia` lub kliknij `D` na klawiaturze.
 
-![](img/daily-challenge-menu.png "Zrzut ekranu menu wyzwań dnia z dnia 7 listopada, 2024.")
+![](img/daily-challenge-menu.png?20250824 "Zrzut ekranu menu wyzwań dnia z dnia 24 sierpnia, 2025.")
 
 Na wejście, użytkownik jest prezentowany wprowadzeniem pokazujące beatmapę, którą użytkownik musi przejść, oraz mody z którymi musi ją przejść.
 
@@ -51,9 +51,11 @@ Projekt jest organizowany przez ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users
 - ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
-- ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
+- ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
+- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
+- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
 
 ## Ciekawostki
 
