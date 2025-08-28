@@ -81,7 +81,7 @@ PP calculations have had a "small circle" bonus (which starts at CS5.5) since it
 
 Thanks to a [change](https://github.com/ppy/osu/pull/28877) proposed by [StanR](https://osu.ppy.sh/users/7217455), this bonus no longer caps at CS6.55 and allows for buffs across the board on higher CS values.
 
-This change also comes with a nerf to jump patterns that travel through a central point. This nerfs maps such as [Tanaka Hirokazu - C-TYPE [Bonsai's BasS-TYPE]](https://osu.ppy.sh/beatmapsets/757146#osu/1620144).
+This change also comes with a nerf to jump patterns that travel through a central point. This prevents maps such as [Tanaka Hirokazu - C-TYPE [Bonsai's BasS-TYPE]](https://osu.ppy.sh/beatmapsets/757146#osu/1620144) from being buffed excessively.
 
 There was an additional [change](https://github.com/ppy/osu/pull/34214) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure that this bonus is not applied to aim's slider velocity bonus. This keeps maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702) in check with minimal changes to other beatmaps.
 
