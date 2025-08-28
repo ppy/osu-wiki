@@ -91,7 +91,7 @@ Some examples of beatmaps buffed by this change:
 
 - [Hitomi Sato - Driftveil City [Funky]](https://osu.ppy.sh/beatmapsets/752224#osu/1583483) with DTHR: 8.25* --> 9.86*
 - [Tanaka Hirokazu - C-TYPE [SS-Type]](https://osu.ppy.sh/beatmapsets/757146#osu/1592916) with DTHR: 9.78* --> 10.74*
-- [Disasterpeace - I Am Only a Man (Lust) [Irre's Extra]](https://osu.ppy.sh/beatmapsets/165273#osu/407788) with DTHR: 9.33* --> 11.12*
+- [Disasterpeace - I Am Only a Man [Irre's Extra]](https://osu.ppy.sh/beatmapsets/165273#osu/407788) with DTHR: 9.33* --> 11.12*
 - [KOTOKO - agony [Impossible]](https://osu.ppy.sh/beatmapsets/1697454#osu/3468026) with NM: 6.14* --> 6.87*
 
 ### Decoupled velocity bonus
