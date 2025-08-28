@@ -61,7 +61,7 @@ Some examples of beatmaps affected by these changes:
 
 ### Slider break estimation changes
 
-In osu!(stable), slider breaks do not count as misses and instead award a 100 or 50 alongside your combo breaking. As a result, the PP system has estimations in place for osu!(stable) scores to guess how many slider breaks exist in a score. Previously, the system only used combo for these estimations. Many scores have been escaping miss penalty as a result as a result of the PP system estimating sometimes less than half of the score's real slider break count.
+In osu!(stable), slider breaks do not count as misses and instead award a 100 or 50 alongside your combo breaking. As a result, the PP system has estimations in place for osu!(stable) scores to guess how many slider breaks exist in a score. Previously, the system only used combo for these estimations. Many scores have been escaping miss penalty as a result of the PP system estimating sometimes less than half of the score's real slider break count.
 
 Thanks to [Givikap120](https://osu.ppy.sh/users/10560705)'s [set](https://github.com/ppy/osu/pull/33066) of [changes](https://github.com/ppy/osu/pull/33170), most osu!(stable) slider break estimations now happen via calculations using the [ScoreV1](https://osu.ppy.sh/wiki/en/Gameplay/Score/ScoreV1/osu%21) value of a score. This works by calculating the maximum score achievable, comparing it to the score's ScoreV1 value and estimating how many breaks occurred within that missed score.
 
@@ -120,7 +120,7 @@ Some examples of beatmaps buffed by this change:
 
 ### Hidden bonus rebalance
 
-A [change](https://github.com/ppy/osu/pull/33237) by [Givikap120](https://osu.ppy.sh/users/10560705) were made in order to rebalance the Hidden bonus.
+A [change](https://github.com/ppy/osu/pull/33237) by [Givikap120](https://osu.ppy.sh/users/10560705) was made in order to rebalance the Hidden bonus.
 
 This rebalance sets out to decrease the HD bonus on higher ARs whilst leaving other Hidden scores untouched. The meaning of "higher ARs" now scales by difficulty, meaning lower star ratings (~5*) can start seeing small Hidden nerfs from AR9 and upwards whilst higher star ratings (~10*) will start seeing HD nerfs from AR10.33. This is done to avoid awarding excessive nerfs at ARs where the Hidden difficulty is noticable, whilst still ensuring overweighted ranges receive a warranted nerf.
 
@@ -148,7 +148,7 @@ A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.p
 - A [refactor](https://github.com/ppy/osu/pull/33218) by [Natelytle](https://osu.ppy.sh/users/17607667) to improve understanding of deviation calculations
 - A [refactor](https://github.com/ppy/osu/pull/33265) by [tsunyoku](https://osu.ppy.sh/users/11315329) to aid with difficulty calculation maintenance
 - A [refactor](https://github.com/ppy/osu/pull/33423) by [Givikap120](https://osu.ppy.sh/users/10560705) to optimise rhythm calculations
-- A [refactor](https://github.com/ppy/osu/pull/33271) by [Givikap120](https://osu.ppy.sh/users/10560705) to improve readability of the new hidden bonus
+- A [refactor](https://github.com/ppy/osu/pull/33271) by [Givikap120](https://osu.ppy.sh/users/10560705) to improve readability of the new Hidden bonus
 
 ## osu!taiko
 
