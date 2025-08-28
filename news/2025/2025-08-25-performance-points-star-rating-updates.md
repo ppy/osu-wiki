@@ -134,9 +134,11 @@ A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.p
 
 ### Minor changes
 
-- A [change](https://github.com/ppy/osu/pull/33640) by [tsunyoku](https://osu.ppy.sh/users/11315329) to rebalance final values to meet community expectations
 - A [fix](https://github.com/ppy/osu/pull/32694) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure deviation calculations cannot break speed PP
 - A [fix](https://github.com/ppy/osu/pull/33110) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure slider break estimations cannot produce an impossibly high number of slider breaks
+- A [fix](https://github.com/ppy/osu/pull/34369) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure Traceable's visiblity bonus was handled correctly
+- A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that sliderbreaks are not awarded in impossible combo scenarios
+- A [change](https://github.com/ppy/osu/pull/33640) by [tsunyoku](https://osu.ppy.sh/users/11315329) to rebalance final values to meet community expectations
 - A [change](https://github.com/ppy/osu/pull/32634) by [Finadoggie](https://osu.ppy.sh/users/14182048) to ensure slider accuracy bonuses are given to the ScoreV2 mod
 - A [change](https://github.com/ppy/osu/pull/32434) by [StanR](https://osu.ppy.sh/users/7217455) to weaken punishment for 100s on scores set with the Relax mod
 - A [change](https://github.com/ppy/osu/pull/33004) by [StanR](https://osu.ppy.sh/users/7217455) to handle the Magnetised mod in performance calculations
@@ -144,11 +146,9 @@ A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.p
 - A [refactor](https://github.com/ppy/osu/pull/32410) by [StanR](https://osu.ppy.sh/users/7217455) to aid with development
 - A [refactor](https://github.com/ppy/osu/pull/33218) by [Natelytle](https://osu.ppy.sh/users/17607667) to improve understanding of deviation calculations
 - A [refactor](https://github.com/ppy/osu/pull/33265) by [tsunyoku](https://osu.ppy.sh/users/11315329) to aid with difficulty calculation maintenance
-- A [change](https://github.com/ppy/osu/pull/33423) by [Givikap120](https://osu.ppy.sh/users/10560705) to optimise rhythm calculations
+- A [refactor](https://github.com/ppy/osu/pull/33423) by [Givikap120](https://osu.ppy.sh/users/10560705) to optimise rhythm calculations
 - A [refactor](https://github.com/ppy/osu/pull/34065) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure OD accounts for osu!(lazer)'s updated hit windows
 - A [refactor](https://github.com/ppy/osu/pull/33271) by [Givikap120](https://osu.ppy.sh/users/10560705) to improve readability of the new hidden bonus
-- A [fix](https://github.com/ppy/osu/pull/34369) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure Traceable's visiblity bonus was handled correctly
-- A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that sliderbreaks are not awarded in impossible combo scenarios
 
 ## osu!taiko
 
