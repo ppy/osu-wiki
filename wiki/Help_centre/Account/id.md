@@ -32,7 +32,7 @@ Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di
 
 ### Saya telah membayar untuk tag supporter saya, namun saya masih belum menerima tag ini! {id=missing-supporter}
 
-**Tergantung dari layanan pembayaran yang kamu gunakan (PayPal atau Xsolla), kamu mungkin akan menemui sedikit jeda dengan pembayaranmu sebelum pembayaran ini sampai ke kami.**
+**Tergantung dari layanan pembayaran yang kamu gunakan (PayPal atau Xsolla), kamu mungkin akan menemui sedikit jeda sebelum pembayaran kamu sampai ke kami.**
 
 Pada umumnya, masalah ini akan terselesaikan dengan sendirinya dalam beberapa jam, dan sistem kami akan menerapkan tag ini secara otomatis ke dalam akunmu setelahnya.
 
@@ -44,7 +44,7 @@ Pastikan untuk menyertakan segala resi yang kamu terima dalam proses ini (ID tra
 
 ### Apa itu mode "restricted"? {id=what-is-restriction}
 
-**Pengguna dengan akun yang dibatasi (*restricted*) akan dilarang untuk dapat berinteraksi dengan komunitas dalam segala artian, baik itu secara sementara maupun permanen — yang di antaranya meliputi mengobrol, bermain *multiplayer*, dan mencetak skor pada papan peringkat.**
+**Pengguna dengan akun yang dibatasi (*restricted*) akan dilarang untuk dapat berinteraksi dengan komunitas dalam segala artian, baik itu secara sementara maupun permanen — yang di antaranya meliputi mengobrol, bermain multiplayer, dan mencetak skor pada papan peringkat.**
 
 Apabila akunmu telah dibatasi, kamu akan dapat mengetahui alasannya setelah kamu berbicara dengan tim layanan dukungan kami.
 
@@ -87,7 +87,7 @@ Kamu akan sangat terbantu apabila kamu mengirimkan email dari alamat email penda
 
 Mohon untuk tidak melampirkan data tayangan ulang atau skor di dalam tiketmu — kami tidak dapat menggunakan kedua hal ini untuk memverifikasi kepemilikan akunmu.
 
-### Apa arti dari pesan 'Bancho authentication error' yang terus-menerus saya terima? {id=authentication-error}
+### Apa arti pesan 'Bancho authentication error' yang terus-menerus saya terima? {id=authentication-error}
 
 **Pesan ini pada umumnya menandakan bahwa terdapat masalah jaringan antara kamu dan server kami.**
 
@@ -113,7 +113,7 @@ Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia laya
 
 ### Situs web osu! memberi tahu saya bahwa saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
 
-**Hal ini merupakan langkah perlindungan sementara yang diambil oleh sistem kami setelah upaya masuk yang berulang kali gagal ke dalam akunmu. Cobalah untuk masuk kembali setelah 10-20 menit.**
+**Hal ini merupakan langkah perlindungan sementara yang diterapkan oleh sistem kami setelah upaya masuk yang berulang kali gagal ke dalam akunmu. Cobalah untuk masuk kembali setelah 10-20 menit.**
 
 Apabila hal ini terjadi kepadamu, cukup tunggu sejenak dan coba untuk masuk kembali di kemudian waktu.
 
@@ -175,7 +175,7 @@ Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan 
 
 **Kami hanya memaksakan pengembalian nama pengguna bagi nama yang kami anggap tidak pantas atau melecehkan.**
 
-Apabila kamu menemukan bahwa nama pengguna baru kamu telah dikembalikan, mungkin saja nama pengguna barumu bersifat melecehkan, tidak pantas, atau menyinggung. Kami tidak akan menganulir pengembalian ini dalam situasi apa pun bahkan apabila diminta, namun apabila kamu membeli perubahan nama ini melalui osu!store, kami akan menawarkan satu kali kesempatan bagimu untuk memilih nama pengguna yang baru.
+Apabila kamu menemukan bahwa nama pengguna baru kamu telah dikembalikan, mungkin saja nama pengguna baru ini bersifat melecehkan, tidak pantas, atau menyinggung. Kami tidak akan menganulir pengembalian ini dalam situasi apa pun bahkan apabila diminta, namun apabila kamu membeli perubahan nama ini melalui osu!store, kami akan memberikan satu kali kesempatan bagi kamu untuk memilih nama pengguna yang baru.
 
 Apabila perubahan ini dilangsungkan dengan menggunakan perubahan nama gratis dari pembelian tag supporter, kami tidak akan menawarkan kesempatan ini.
 
@@ -183,7 +183,7 @@ Apabila perubahan ini dilangsungkan dengan menggunakan perubahan nama gratis dar
 
 **Dalam situasi tertentu.**
 
-Halaman profil kamu akan selalu menampilkan riwayat nama pengguna yang pernah kamu gunakan. Meskipun demikian, kami dapat menghapus nama-nama tertentu yang dapat mendatangkan masalah bagimu. Apabila salah satu nama ini membahayakan privasimu (mis. karena nama ini mengandung nama aslimu) atau dapat membuat privasimu berada dalam bahaya (melalui situs web lain), hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta agar nama ini dihapus.
+Halaman profil kamu akan selalu menampilkan riwayat nama pengguna yang pernah kamu gunakan. Meskipun demikian, kami dapat menghapus nama tertentu yang dapat mendatangkan masalah bagimu. Apabila salah satu nama ini membahayakan privasimu (mis. karena nama ini mengandung nama aslimu) atau dapat membuat privasimu berada dalam bahaya (melalui situs web lain), hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta agar nama ini dihapus.
 
 ## Masalah lainnya {id=other}
 
@@ -191,7 +191,7 @@ Halaman profil kamu akan selalu menampilkan riwayat nama pengguna yang pernah ka
 
 **Ya, dalam situasi tertentu.**
 
-Apabila kamu telah terhubung ke osu! dari negara yang berbeda dengan negara akunmu dalam jangka waktu yang lama, kamu akan diberikan pilihan untuk mengubah negara akunmu pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit).
+Apabila kamu telah cukup lama terhubung ke osu! dari negara yang berbeda dengan negara akunmu, kamu akan diberikan pilihan untuk mengubah negara akunmu pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit).
 
 ### Apakah saya dapat membuat lebih dari satu akun? {id=no-multiaccounting}
 
@@ -199,7 +199,7 @@ Apabila kamu telah terhubung ke osu! dari negara yang berbeda dengan negara akun
 
 Apabila kami mengizinkan semua orang untuk membuat dan bermain pada lebih dari satu akun, papan peringkat Ranked yang ada akan menjadi hampir tidak bernilai!
 
-Fenomena ini banyak dijumpai pada permainan lain dengan istilah "smurf" — yaitu akun dengan jam terbang yang rendah yang memenuh-menuhi papan peringkat dan mencegah pengguna lain untuk dapat bermain secara kompetitif.
+Fenomena ini banyak dijumpai pada permainan lain dengan istilah "smurf" — di mana akun yang sebelumnya tidak pernah bermain tiba-tiba memenuhi papan peringkat dan mencegah pengguna lain untuk dapat bermain secara kompetitif.
 
 Di osu!, kami sangat menentang pengguna yang memiliki banyak akun, dan kami menegakkan peraturan satu akun per pengguna kami dengan sangat ketat. Kamu hanya dapat bermain dengan akun pertama yang kamu daftarkan tanpa ada kata kecuali!
 
@@ -209,7 +209,7 @@ Apabila kamu saat ini memiliki lebih dari satu akun, silakan hubungi [accounts@p
 
 **Tidak untuk saat ini.**
 
-Kami saat ini tengah mempertimbangkan pembelian pengaturan ulang skor ("'*score reset*") bagi para pemain garis keras yang benar-benar hanya mengincar kesempurnaan, namun untuk saat ini, kami tidak dapat menghapus statistik akunmu.
+Kami saat ini tengah mempertimbangkan pembelian pengaturan ulang skor ("*score reset*") bagi para pemain garis keras yang benar-benar hanya mengincar kesempurnaan, namun untuk saat ini, kami tidak dapat menghapus statistik akunmu.
 
 Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini! Memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas), dan kami tidak akan segan untuk menonaktifkan akun baru mana pun yang ditemukan oleh tim kami.
 
@@ -218,7 +218,7 @@ Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini
 *Untuk informasi lebih lanjut seputar penghapusan akun, lihat: [Kebijakan privasi osu! § Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*\
 *Catatan: Penghapusan akun bersifat permanen dan tidak dapat diurungkan!*
 
-Ya, setiap pengguna dapat meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, segala sesuatunya tidak akan dapat dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu dapat membuat akun baru, karena memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas). Dengan menghapus akunmu, kamu tidak akan lagi dapat menggunakan fitur *online* osu! mana pun juga.
+Ya, setiap pengguna dapat meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, segala sesuatunya tidak akan dapat dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu dapat membuat akun baru, karena memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas). Dengan menghapus akunmu, kamu tidak akan lagi dapat menggunakan fitur online osu! mana pun juga.
 
 ### Saya tidak lagi ingin bermain, namun saya tidak ingin akun saya dihapus! {id=account-lock}
 
@@ -234,7 +234,7 @@ Kamu dapat mengunci dirimu sendiri dengan cara mengubah alamat email dan kata sa
 
 ### Apakah saya dapat bermain pada komputer yang pernah digunakan oleh pengguna lain sebelumnya untuk bermain osu!? {id=shared-pc}
 
-**Ya, tentu saja. Hal ini meliputi PC yang digunakan secara bersama, seperti yang terdapat pada warnet atau *game center*.**
+**Ya, tentu saja. Hal ini meliputi PC yang digunakan secara bersama, seperti yang terdapat pada warnet atau game center.**
 
 **Selama kamu hanya bermain dengan akun milikmu sendiri**, kamu dapat bermain osu! dari mana saja!
 
