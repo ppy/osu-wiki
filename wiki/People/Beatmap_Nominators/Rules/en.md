@@ -2,19 +2,19 @@
 
 The rules listed here affect what [Beatmap Nominators](/wiki/People/Beatmap_Nominators) can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them. These rules are the result of discussion within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) and have taken into account feedback from the Beatmap Nominators upon their proposal.
 
-Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings, for this reason they have to abide by the rules at all times. Violating any of these may get the respective Beatmap Nominator removed from the Beatmap Nominators. Violations of those rules may be reported to a member of the NAT directly.
+Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings; for this reason, they have to abide by the rules at all times. Violating any of these may get the respective Beatmap Nominator removed from the Beatmap Nominators. Violations of those rules may be reported to the NAT directly via the [BN Management website](https://bn.mappersguild.com/reports).
 
 ## Expectations
 
 All Beatmap Nominators are expected to do their best to abide by the ethos laid out in the [Expectations for Beatmap Nominators](/wiki/People/Beatmap_Nominators/Expectations) article.
 
-Sustained behaviour in conflict with these expectations is grounds for dismissal at the discretion of the NAT.
+Sustained behaviour in conflict with these expectations is grounds for removal at the discretion of the NAT.
 
 ## Conduct
 
 - **Do not follow any unfinalised rules or amendments.**
-- **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
-- **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any osu! team (BN, NAT or otherwise) involved in the [ranking process](/wiki/Beatmap_ranking_procedure).
+- **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being given a behaviour warning, or in extreme cases, removal from the Beatmap Nominators.
+- **Do not partake or participate in paid modding, ranking, OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any osu! team (BN, NAT or otherwise) involved in the [ranking process](/wiki/Beatmap_ranking_procedure).
 
 ## Activity
 
@@ -52,9 +52,9 @@ When a Beatmap Nominator's evaluation is created and they still need to meet the
 
 ### Disqualification
 
-- **Only full members may disqualify beatmaps, regardless of reason.** Probation members may however still participate in such discussions and report beatmaps like everyone else.
+- **Only full members may disqualify beatmaps, regardless of reason.** Probationary members may, however, still participate in such discussions and report beatmaps like everyone else.
 - **Disqualifications should primarily be done for beatmaps with unrankable issues, or if the beatmap owner requests it.**
-- **Disqualification requests by the beatmap owner can be applied immediately.** This includes yourself, in case you want to self-dq.
+- **Disqualification requests by the beatmap owner can be applied immediately.** This includes yourself, in case you want to self-DQ.
 - **Issues that can be mitigated through online offsets, tags or similar must still be disqualified.** In the case that this is not possible, contact a member of the NAT. Online offsets and tags only apply for the website, so players will still have the issues in the client unless fixed before Ranked.
 - **Qualified beatmaps found with unrankable or significant issues must be disqualified immediately.**
 - **Do not disqualify beatmaps of game modes you are not formally qualified for.** This does not apply to disqualifications regarding audio, backgrounds, or other content that does not directly pertain to the beatmap's game mode.
@@ -63,11 +63,12 @@ When a Beatmap Nominator's evaluation is created and they still need to meet the
 
 Please see the [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) page for full information on the veto process.
 
-- **Do not veto beatmaps of game modes you are not formally qualified for.** You are not allowed to nominate them so blocking a nomination without the ability to renominate the beatmap makes no sense. This does not apply to vetoes regarding audio, backgrounds, or other content that does not directly pertain to the beatmap's game mode.
+- **Do not veto beatmaps of game modes you are not formally qualified for.** You are not allowed to nominate them, so blocking a nomination without the ability to renominate the beatmap makes no sense. This does not apply to vetoes regarding audio, backgrounds, or other content that does not directly pertain to the beatmap's game mode.
 - **You can veto a beatmap by posting the issues you think need to be addressed before reaching Ranked status in the form of problem or suggestion stamps in the respective modding discussion.** This will halt the beatmap from proceeding into Ranked. A beatmap that is qualified may be vetoed using a suggestion stamp in order to keep the map in qualified during discussion. Other nominators will be unable to nominate it again until the veto is lifted. The veto post must include a clear problem and reasoning for stopping the ranking process of the beatmap. You must participate in the resulting discussion and attempt to reach a mutual agreement.
 - **Do not veto for unrankables.** Unrankables imply that no other nominator should nominate and that the mapper has no other choice but to fix it, in the same way an upheld veto works.
-- **Do not nominate vetoed beatmaps.** A beatmap must have its veto dismissed before renomination, which can happen if the vetoing nominator decides to lift the veto following a satisfactory discussion or appropriate changes to the beatmap, or if the mapper or vetoing nominator requests a mediation and the jury decides that the veto is unnecessary or invalid.
+- **Do not nominate vetoed beatmaps.** A beatmap must have its veto dismissed before renomination, which can happen if the vetoing nominator decides to lift the veto following a satisfactory discussion or appropriate changes to the beatmap, or if the mapper or vetoing nominator requests a mediation and the jury[^new-jury] decides that the veto is unnecessary or invalid.
 
 ## Notes
 
 [^multi-key-mode]: Beatmaps with multiple key modes count as 2 nominations for activity purposes.
+[^new-jury]: "The jury" refers to the BN and NAT members of the relevant game mode, or all BN and NAT members if the veto is not game mode-specific.
