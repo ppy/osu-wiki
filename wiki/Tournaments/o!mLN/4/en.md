@@ -8,9 +8,9 @@ tags:
 
 # osu!mania LN Tournament 4
 
-![{SHORT_TITLE} logo](img/logo.png) <!-- replace "logo" with "banner" if that suits the image better -->
+![o!mLN4 logo](img/logo.png) 
 
-The **{TITLE}** (***{SHORT_TITLE}***) is a <!-- enter applicable tournament traits, example: {N}v{N}, double-elimination, country-based --> {MODE} tournament hosted by {ORGANISERS} <!-- list the organisers here with their flags -->. It is the {ITERATION_ORDINAL} instalment of the {SERIES_TITLE}.
+The **osu!mania LN Tournament 4** (***o!mLN4***) is a worldwide double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600) and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061).  The tournament featured a variety of maps with a vast amount of sliders (or Long Notes) in its mappools. It is the 4th instalment of the osu!mania LN tournament.
 
 ## Tournament schedule
 
@@ -30,28 +30,49 @@ The **{TITLE}** (***{SHORT_TITLE}***) is a <!-- enter applicable tournament trai
 
 ## Prizes
 
+Prize pool are divided to two parts: one is Regular Prize Pool, allocated to tournament winner; the other one is OII Prize Pool, allocated to event winner.
+
+The Regular Prize Pool starts at 450$ USD, while the OII Prize Pool will start at 100$ USD. Community donations will contribute to both Tournament and OII Prize Pools in the ratio 70/30 respectively.
+
+So far, There are 450$ USD on Regular Prize Pool and 100$ USD on OII Prize Pool.
+
+Regular Prize Pool are spread among the participants as seen below:
+
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
-| *4th place* |  |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | o!mLN4 Profile Badge (pending), 40% of Regular Prize Pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% of Regular Prize Pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of Regular Prize Pool |
+| *4-6th place* | 5% of Regular Prize Pool |
 
-![](img/badge.jpg "{SHORT_TITLE} winner badge") <!-- remove if not available -->
+<!--![](img/badge.jpg "o!mLN4 winner badge")--> 
+<!--![](img/badge.jpg "o!mLN4 2nd placement badge")--> 
+<!--![](img/badge.jpg "o!mLN4 3rd placement badge")--> 
+
+OII Prize Pool are spread among the participants as seen below:
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| *Lucky Draw Winners (3)* | 33% of OII Prize Pool |
 
 ## Organisation
 
-The {TITLE} is run by various community members.
+The osu!mania LN Tournament 4 is run by various community members.
 
 | Position | Member(s) |
-| :-- | :-- |
-| Manager |  |
-| Mappool selector |  |
-| Streamer |  |
-| Commentator |  |
-| Designer |  |
-| Referee |  |
-| Statistician |  |
+| :-: | :-- |
+| Tournament Organiser | ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
+| Mappooler | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
+| Mapper | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351), ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=KR }:: [Castella](https://osu.ppy.sh/users/4810916), ::{ flag=CN }:: [cherrychou](https://osu.ppy.sh/users/7214023), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=US }:: [mystV](https://osu.ppy.sh/users/21654601), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Playtester | ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=PH }:: [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=NL }:: [Toxic Scent](https://osu.ppy.sh/users/12599154), ::{ flag=CA }:: [Yubi](https://osu.ppy.sh/users/7198974) |
+| Referee | ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Kaeseorin](https://osu.ppy.sh/users/17989444), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
+| Streamer | ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
+| Commentator | ::{ flag=IE }:: [-Nightkore](https://osu.ppy.sh/users/26311862), ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=SG }:: [Adam Yuuki](https://osu.ppy.sh/users/12297375), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
+| Sheeter | ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
+| GFX Designer | ::{ flag=SE }:: [Melancholicc](https://osu.ppy.sh/users/18406374), ::{ flag=IT }::  [MightyMigz](https://osu.ppy.sh/users/8863387), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=PH }:: [Swarmsii](https://osu.ppy.sh/users/11716111), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
+| Developer | ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186), ::{ flag=KR }:: [yhsphd](https://osu.ppy.sh/users/6665667) |
+| Composer | ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600) |
+
 
 <!-- | Example | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [BanchoBot](https://osu.ppy.sh/users/3) | -->
 
@@ -63,21 +84,12 @@ The {TITLE} is run by various community members.
 
 ## Participants
 
-<!-- for team/country-based tournaments -->
-
-|  | Country | Members |
-| :-: | :-: | :-- |
-| ::{ flag=AU }:: | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
-|  |  |  |
-
-<!-- for 1v1 tournaments -->
+<!-- 
 
 | Seed | Members |
 | :-- | :-- |
 | Top |  |
-| Middle |  |
-
-<!-- remove the following section if seeding was displayed above -->
+| Middle |  | -->
 
 ## Groups
 
