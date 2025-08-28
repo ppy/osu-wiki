@@ -160,7 +160,7 @@ A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.p
 
 A [change](https://github.com/ppy/osu/pull/33417) proposed by [KitsunIvy](https://osu.ppy.sh/users/7055384) was created to reduce how harsh final PP values are scaled by a score's max combo.
 
-<!-- graph -->
+![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/catch-combo-scaling.png)
 
 ### Minor changes
 
