@@ -32,7 +32,7 @@ Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di
 
 ### Saya telah membayar untuk tag supporter saya, namun saya masih belum menerima tag ini! {id=missing-supporter}
 
-**Tergantung dari layanan pembayaran yang kamu gunakan (PayPal atau Xsolla), kamu mungkin akan menemui sedikit jeda sebelum pembayaran kamu sampai ke kami.**
+**Tergantung dari layanan pembayaran yang kamu gunakan (PayPal atau Xsolla), kamu mungkin akan menemui sedikit jeda sebelum pembayaran kamu dapat sampai ke kami.**
 
 Pada umumnya, masalah ini akan terselesaikan dengan sendirinya dalam beberapa jam, dan sistem kami akan menerapkan tag ini secara otomatis ke dalam akunmu setelahnya.
 
