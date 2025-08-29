@@ -51,7 +51,7 @@ This will fix scores occasionally being out of order on profiles under "best per
 
 ### Improved relationship between PP and star rating
 
-A [change](https://github.com/ppy/osu/pull/31351) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) moved AR, Hidden and OD bonuses from PP into star rating. This means that star rating values will now be better correlated with their PP values. PP values are **not** affected by these changes.
+A [change](https://github.com/ppy/osu/pull/31351) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) moved AR, Hidden and OD bonuses from PP into star rating. This means that star rating values will now be better correlated with their PP values. This also introduces Hidden as a difficulty-affecting mod. PP values are **not** affected by these changes.
 
 Some examples of beatmaps affected by these changes:
 
