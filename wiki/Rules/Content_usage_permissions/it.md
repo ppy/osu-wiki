@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2d380a014e10a660c8a0a491edbace3b756bd43f
----
-
 # Autorizzazioni per l'utilizzo di contenuti
 
 osu! è incentrato sulla possibilità di creare e condividere liberamente le proprie creazioni. È importante assicurarsi che siano stati acquisiti i permessi necessari per utilizzare il lavoro di altri creatori nelle nuove creazioni e che tutto il lavoro sia attribuito correttamente.
@@ -319,6 +314,7 @@ Tutte le tracce elencate nella [lista brani degli Artisti in Primo Piano](https:
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/242) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/247) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/270) | [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) | ![][true] [^monstercat-gold] |
+|  | [realjoschi64xd](https://realjoschi64xd.newgrounds.com/) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
