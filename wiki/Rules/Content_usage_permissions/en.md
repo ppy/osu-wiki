@@ -431,8 +431,10 @@ This section was last updated on March 30, 2025.
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+|  | Igorrr | ![][partial] | Only collaborative tracks on [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370)'s Featured Artist listing may be used. All other tracks cannot be used. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Do not use the track titled "execution_program". |
+|  | MEGAREX (music label) | ![][partial] | Only tracks on relevant artists' Featured Artist listings may be used. All other tracks cannot be used. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
@@ -449,7 +451,6 @@ This section was last updated on March 30, 2025.
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |
 | Hatsuki Yura | ![][false] |
-| Igorrr | ![][false] |
 | kamome sano | ![][false] |
 | kozato | ![][false] |
 | NOMA | ![][false] |
