@@ -110,6 +110,8 @@ Highlights (yobrevelc)
 
 ---
 
-Conclusion. Stream plugs.
+With a first round as hectic as this, who knows what the next round will bring next! Until then, we encourage catching up on this tournament's advancements live on [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2) during the course of the weekend. And for those who wish to dig just a bit deeper, the [wiki](/wiki/Tournaments/MWC/2025_4k) will be 
+
+It would be an understatement to say this first round has been quite a hectic one. Leaves a lot to desire from future rounds! So make sure to catch up live on [osulive](https://www.twitch.tv/osulive) or [osulive_2](https://www.twitch.tv/osulive_2), and give the [wiki](/wiki/Tournaments/MWC/2025_4k) an eye (or two) for some extra deets.
 
 —elexire, LivelyPeninsula, \[GB\]yobrevelc, kadoen, RandomeLoL
