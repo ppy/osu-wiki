@@ -63,7 +63,11 @@ Original recap. Find a way to include credits as discussed in the news meeting (
 | Indonesia ::{ flag=ID }:: | 1 | **5** | ::{ flag=IT }:: Italy |
 | **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=DE }:: Germany |
 
-Fill in table. Summarize week. (Randome)
+As we briefly spoiled in the post's introduction, this has been anything but a normal beginning to the tournament. A mix of both unforeseen circumstances and some of the underdogs locking in have made this Round of 32 quite a peculiar one, all things considered.
+
+While our top teams have had no issues throughout the round, the closer we got to the middle seeds, the more interesting this week's matches have been!
+
+We can only hope that the following few highlights are proof of it.
 
 ### ::{ flag=MY }:: Malaysia vs. ::{ flag=PL }:: Poland
 
