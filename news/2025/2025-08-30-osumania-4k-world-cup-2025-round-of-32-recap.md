@@ -8,9 +8,11 @@ Glory awaits! The osu!mania 4K World Cup bracket stages begin with a bang.
 
 ![](/wiki/shared/news/2025-08-30-osumania-4k-world-cup-2025-round-of-32-recap/banner.jpg)
 
-Intro paragraph.
+This could've not been as strong of a start to the tournament, even if we would've had wished for it to be! A mix of upsets, close victories, and stellar performances from our top teams all jam-packed into the very, very first round of the tournament. Whether this is an omen of what's to come, that's on future rounds to decide.
 
-Segue into video.
+On a different note, for those who've yet not been made aware of, the [MWC 4K 2025 support banners](https://osu.ppy.sh/store/products/1513) have gone up for sale! Those who wish to offer some love to their favourite teams, you can now do so while proudly showing it on your osu! profile.
+
+With the introductions out of the way, feel free to check out this week's video recap brought to you by the hands of [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128).
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
