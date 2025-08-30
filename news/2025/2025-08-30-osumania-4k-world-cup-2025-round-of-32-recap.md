@@ -4,7 +4,7 @@ title: "osu!mania 4K World Cup 2025: Round of 32 Recap"
 date: 2025-08-30 17:00:00 +0000
 ---
 
-Glory awaits! The osu!mania 4K World Cup bracket stages begin with a bang.
+Glory awaits! The osu!mania 4K World Cup bracket stages begin with a loud bang.
 
 ![](/wiki/shared/news/2025-08-30-osumania-4k-world-cup-2025-round-of-32-recap/banner.jpg)
 
@@ -34,7 +34,7 @@ The best way to start things off is with [Taishi - Distant Relavties (Cut Ver.)]
 
 In the rice category, a great highlight would be [KikuoHana - Nobore! Susume! Takai Tou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421243#mania/5267288) (RC3) by ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070). Just like with HB3, Round of 32 also introduced the chordjack slot a round earlier than usual. For an introduction to early-game chordjacks, the approach this chart had was rather unique, but ended up working very well, with the jacks being heavily focused on the vocals of the song. In turn, this resulted in a steady progression of difficulty as the intensity of the vocals increased.
 
-To wrap things up, [Three - Kuuchuu Bunkai (Long Ver.)](https://osu.ppy.sh/beatmapsets/2421253#mania/5267304) (LN1) by ::{ flag=US }:: [fvrex](https://osu.ppy.sh/users/11863699) felt like a good ending point to this round's map highlights. Consisting of 200 BPM staggered releases, short streams, and slight 1/3 bursts, it served as a solid introduction to what the long note coordination slot had to offer. Despite the simple patterns, it'll — without question — bring a great toll to the players' accuracies, only getting progressively scarier in later rounds!
+To wrap things up, [Three - Kuuchuu Bunkai (Long Ver.)](https://osu.ppy.sh/beatmapsets/2421253#mania/5267304) (LN1) by ::{ flag=US }:: [fvrex](https://osu.ppy.sh/users/11863699) felt like a good ending point to this round's map highlights. Consisting of 200 BPM staggered releases, short streams, and slight 1/3 bursts, it served as a solid introduction to what the long note coordination slot had to offer. Despite the simple patterns, it has — without question — brought a great deal of pain to the players' accuracies, only getting worse as they move into later rounds!
 
 ---
 
