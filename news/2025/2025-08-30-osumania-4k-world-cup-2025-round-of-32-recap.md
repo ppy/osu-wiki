@@ -28,7 +28,13 @@ With the introductions out of the way, feel free to check out this week's video 
 
 ![Round of 32 mappool table](/wiki/shared/news/2025-08-30-osumania-4k-world-cup-2025-round-of-32-recap/mappool-ro32.jpg)
 
-Le mappool recap (elexire)
+With Qualifiers coming to a close, we're finally brought to our first round (of 32). Taking a different approach from the 7 stage structure from Qualifiers, we've got our hands into the first full pool of the tournament which consists of 6 rice slots, 3 hybrid slots, 3 long note slots, and one tiebreaker. With that said, here are some of the most notable highlights from the round!
+
+The best way to start things off is with [Taishi - Distant Relavties (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421252#mania/5267303) (HB3) by ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) and ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648)! With the removal of SV, Round of 32 started with 3 hybrid picks instead of two. And as it is to be expected, HB3 had the most difficult patterning out of all three. With the slot always having a technical focus, you can be sure to expect many dump heavy patterns, intertwining both rice and long note patterns in a rather seamless manner.
+
+In the rice category, a great highlight would be [KikuoHana - Nobore! Susume! Takai Tou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421243#mania/5267288) (RC3) by ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070). Just like with HB3, Round of 32 also introduced the chordjack slot a round earlier than usual. For an introduction to early-game chordjacks, the approach this chart had was rather unique, but ended up working very well, with the jacks being heavily focused on the vocals of the song. In turn, this resulted in a steady progression of difficulty as the intensity of the vocals increased.
+
+To wrap things up, [Three - Kuuchuu Bunkai (Long Ver.)](https://osu.ppy.sh/beatmapsets/2421253#mania/5267304) (LN1) by ::{ flag=US }:: [fvrex](https://osu.ppy.sh/users/11863699) felt like a good ending point to this round's map highlights. Consisting of 200 BPM staggered releases, short streams, and slight 1/3 bursts, it served as a solid introduction to what the long note coordination slot had to offer. Despite the simple patterns, it'll — without question — bring a great toll to the players' accuracies, only getting progressively scarier in later rounds!
 
 ---
 
@@ -40,7 +46,7 @@ Le mappool recap (elexire)
     </audio>
 </div>
 
-Original recap. Find a way to include credits as discussed in the news meeting (see map's description).
+First round in, and we've already got an [osu! original](/wiki/Community/Bespoke_music)? That's right! [muyu](https://osu.ppy.sh/beatmaps/artists/491) made their first appearance in osu! with ['Oumuamua](https://osu.ppy.sh/beatmapsets/2421220#mania/5267227) (HB2) charted by ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093)! As expected of the HB2 slot, this chart is heavy on the shield and burst usage, which ended up highly benefitting from the electronic-jazz vibes that the song gives off, especially alongside the illustration and graphics design by ::{ flag=PH }:: [Creameries](https://osu.ppy.sh/users/15851364) and ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966)! Even if the chart may be too tricky for you, it is certainly worth giving this interstellar song a listen.
 
 ## Round of 32 summary
 
