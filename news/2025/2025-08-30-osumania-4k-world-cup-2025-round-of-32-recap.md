@@ -15,7 +15,7 @@ On a different note, for those not yet aware, the [MWC 4K 2025 support banners](
 With the introductions out of the way, feel free to check out this week's video recap brought to you by the hands of [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128).
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ld7rUnL9uf8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
@@ -44,7 +44,7 @@ To wrap things up, [Three - Kuuchuu Bunkai (Long Ver.)](https://osu.ppy.sh/beatm
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/491/Songs/muyu_-_%27Oumuamua.mp3">
+        <source src="https://assets.ppy.sh/artists/491/Songs/muyu%20-%20%27Oumuamua.mp3">
     </audio>
 </div>
 
@@ -83,7 +83,7 @@ We can only hope that the following few highlights are proof of it.
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2547597606?t=1h4m47s)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=START_TIME_SECONDS&end=END_TIME_SECONDS" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ld7rUnL9uf8?start=560&end=782" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Placing 16th and 17th on the Qualifiers respectively, Malaysia vs. Poland was expected to be one of the closest matches during the past weekend — and it certainly did not disappoint! Despite the absence of ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179), the Polish gave Malaysia quite a run for their money.
@@ -100,7 +100,7 @@ In the end, the match was decided on the tiebreaker, [Yooh - Eternity](https://o
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2548479528?t=0h9m21s)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=START_TIME_SECONDS&end=END_TIME_SECONDS" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2548479528?t=0h9m21s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Glancing at the Qualifier results, the Philippines seemed to have the advantage in this match, seeded at #14 vs. France's #19. Pick'ems agreed, with 96% people predicting them as victors — but reality is not often what it seems. With seasoned tournament players on the two rosters, no one was going to make this an easy match.
@@ -121,7 +121,7 @@ Fun fact: every single pick in this match was decided by less than 8,000 points!
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2547829616?t=0h44m15s)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=START_TIME_SECONDS&end=END_TIME_SECONDS" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ld7rUnL9uf8?start=170&end=418" frameborder="0" allowfullscreen></iframe>
 </div>
 
 As if it were to be more than just a coincidence, Brazil and Peru faced off on the very first round of the tournament! The two South American teams, placing #13 and #20 during Qualifiers respectively, were not only close in location but also in skill. With both teams favouring rice maps over everything else, this match quickly became quite the tricky one, and it all started with their picks and bans.
