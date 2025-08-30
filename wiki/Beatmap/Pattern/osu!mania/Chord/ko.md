@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated_translation: true
+outdated_since: 7779388d917b1c846aa5df6b1310d9e9036805f7
 ---
 
 ## 동시치기
