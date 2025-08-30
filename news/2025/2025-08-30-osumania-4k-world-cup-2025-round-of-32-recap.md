@@ -26,7 +26,7 @@ With the introductions out of the way, feel free to check out this week's video 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2542835853&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Round of 32 mappool table](/wiki/shared/news/2025-08-30-osumania-4k-world-cup-2025-round-of-32-recap/ro32-mappool.jpg)
+![Round of 32 mappool table](/wiki/shared/news/2025-08-30-osumania-4k-world-cup-2025-round-of-32-recap/mappool-ro32.jpg)
 
 Le mappool recap (elexire)
 
