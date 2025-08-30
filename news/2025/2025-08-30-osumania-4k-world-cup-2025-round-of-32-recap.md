@@ -84,7 +84,13 @@ We can only hope that the following few highlights are proof of it.
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=START_TIME_SECONDS&end=END_TIME_SECONDS" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights (LivelyPeninsula)
+Placing 16th and 17th on the Qualifiers respectively, Malaysia vs. Poland was expected to be one of the closest matches during the past weekend — and it certainly did not disappoint! Despite the absence of ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179), the Polish gave Malaysia quite a run for their money.
+
+With Malaysia protecting LN2 ([Minato Aqua - Mada, Aoi (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421032#mania/5278676)), and Poland protecting RC5 ([ZUTOMAYO - Kan Saete Kuyashiiwa](https://osu.ppy.sh/beatmapsets/2421245#mania/5267290)), both teams set the stage on what kind of charts they were leaning towards: Malaysia going for the long note and hybrid picks, while Poland going for the rices. This was further established after Malaysia banned RC1 ([sana & Nayugorou - Love Potion](https://osu.ppy.sh/beatmapsets/2421240#mania/5267282)), and Poland banning LN3 ([*wakadori - NightTheater](https://osu.ppy.sh/beatmapsets/2421059#mania/5266881)). From here, we can see that from a raw-skill standpoint, Poland had a slight upper hand, while Malaysia looked out for picks that test not only their long note ability, but also their ability to hit jacks alongside the LNs, hence Poland's [NightTheater](https://osu.ppy.sh/beatmapsets/2421059#mania/5266881) ban.
+
+The first four picks were considerably close, starting the match off with Malaysia's stellar performance on their own protect (LN2) while Poland responded back with an amazing performance of their own on RC2. This was followed by Malaysia having a very comfortable win on LN1, [Three - Kuuchuu Bunkai (Long Ver.)](https://osu.ppy.sh/beatmapsets/2421253#mania/5267304), and a nail-biting win for Poland on RC3, [KikuoHana - Nobore! Susume! Takai Tou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421243#mania/5267288). Chordjacks tend to be charts that can quickly shift the lead with only one mistake, which is fair given that players tend to have the highest ratio on these picks. All throughout the chart, the lead kept switching back and forth, until a 200 and a few bad judgments on Malaysia's side gave a slight edge to Poland, even with Poland dropping a miss at the very last seconds.
+
+At the end, the match was decided on the tiebreaker, [Yooh - Eternity](https://osu.ppy.sh/beatmapsets/2421270#mania/5267331). While both teams proved to be forces to be reckoned with throughout their match, Malaysia's better all-round performance gave them the edge on a map as multi-faceted as this one was, ultimately taking the match.
 
 ### ::{ flag=PH }:: Philippines vs. ::{ flag=FR }:: France
 
