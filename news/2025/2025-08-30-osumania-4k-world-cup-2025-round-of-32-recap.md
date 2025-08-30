@@ -4,7 +4,7 @@ title: "osu!mania 4K World Cup 2025: Round of 32 Recap"
 date: 2025-08-30 17:00:00 +0000
 ---
 
-Intro sentence.
+Glory awaits! The osu!mania 4K World Cup bracket stages begin with a bang.
 
 ![](/wiki/shared/news/2025-08-30-osumania-4k-world-cup-2025-round-of-32-recap/banner.jpg)
 
@@ -44,7 +44,22 @@ Original recap. Find a way to include credits as discussed in the news meeting (
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
-| | | | |
+| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=MX }:: Mexico |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: Ukraine |
+| **Spain** ::{ flag=ES }:: | 2 | **5** | ::{ flag=TW }:: Taiwan |
+| **Malaysia** ::{ flag=MY }:: | **5** | 4 | ::{ flag=PL }:: Poland |
+| **Canada** ::{ flag=CA }:: | **5** | 2 | ::{ flag=SG }:: Singapore |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=GT }:: Guatemala |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=DK }:: Denmark |
+| Brazil ::{ flag=BR }:: | 3 | **5** | ::{ flag=PE }:: **Peru** |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=VE }:: Venezuela |
+| **Vietnam** ::{ flag=VN }:: | **5** | 1 | ::{ flag=NL }:: Netherlands |
+| **South Korea** ::{ flag=KR }:: | **5** | 1 | ::{ flag=FI }:: Finland |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=AU }:: Australia |
+| **Philippines** ::{ flag=PH }:: | **5** | 3 | ::{ flag=FR }:: France |
+| Japan ::{ flag=JP }:: | 1 | **5** | ::{ flag=AR }:: Argentina |
+| Indonesia ::{ flag=ID }:: | 1 | **5** | ::{ flag=IT }:: Italy |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=DE }:: Germany |
 
 Fill in table. Summarize week. (Randome)
 
