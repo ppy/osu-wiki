@@ -109,17 +109,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Match schedule: Round of 16
 
-### Saturday, 30 August 2025
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Guatemala ::{ flag=GT }:: | ::{ flag=BR }:: Brazil | [Aug 30 (Sat) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250830T010000&p1=1440&p3=45) | [osulive](https://twitch.tv/osulive) |
-| Thailand ::{ flag=TH }:: | ::{ flag=VN }:: Vietnam | [Aug 30 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250830T090000&p1=1440&p2=28&p3=95) | [osulive](https://twitch.tv/osulive) |
-| Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Aug 30 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250830T130000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) |
-| Singapore ::{ flag=SG }:: | ::{ flag=UA }:: Ukraine | [Aug 30 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250830T140000&p1=1440&p2=236&p3=367) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=RU }:: Russian Federation | [Aug 30 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250830T160000&p1=1440&p2=188&p3=166) | [osulive](https://twitch.tv/osulive) |
-| Mexico ::{ flag=MX }:: | ::{ flag=NL }:: Netherlands | [Aug 30 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250830T200000&p1=1440&p2=155&p3=16) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 31 August 2025
 
 | Team A | Team B | Match time | Twitch stream |
@@ -198,6 +187,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 7. [Creepy Nuts - Otonoke (Disguise, -mint-) \[Stage 7: Supernatural\]](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 30 August 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Guatemala ::{ flag=GT }:: | 0 | **5** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/119122293) | [#1](https://www.twitch.tv/videos/2553275241?t=0h4m53s) |
+| Thailand ::{ flag=TH }:: | 3 | **5** | ::{ flag=VN }:: **Vietnam** | [#1](https://osu.ppy.sh/community/matches/119125026) | [#1](https://www.twitch.tv/videos/2553548256?t=0h4m45s) |
+| Finland ::{ flag=FI }:: | 1 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/119126621) | [#1](https://www.twitch.tv/videos/2553649046?t=0h9m53s) |
+| **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/119127162) | [#1](https://www.twitch.tv/videos/2553649046?t=1h9m51s) |
+| **Canada** ::{ flag=CA }:: | **5** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/119128465) | [#1](https://www.twitch.tv/videos/2553764574?t=0h8m34s) |
+| Mexico ::{ flag=MX }:: | 2 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/119131071) | [#1](https://www.twitch.tv/videos/2553958892?t=0h8m35s) |
 
 ### Round of 32
 
