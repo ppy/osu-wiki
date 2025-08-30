@@ -100,7 +100,7 @@ In the end, the match was decided on the tiebreaker, [Yooh - Eternity](https://o
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2548479528?t=0h9m21s)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2548479528?t=0h9m21s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2548479528&t=0h9m21s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Glancing at the Qualifier results, the Philippines seemed to have the advantage in this match, seeded at #14 vs. France's #19. Pick'ems agreed, with 96% people predicting them as victors — but reality is not often what it seems. With seasoned tournament players on the two rosters, no one was going to make this an easy match.
