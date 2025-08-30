@@ -95,7 +95,17 @@ Highlights (LivelyPeninsula)
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=START_TIME_SECONDS&end=END_TIME_SECONDS" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights (kadoen)
+Glancing at the Qualifiers results, the Philippines seemed to have the advantage in this match, seeded at #14 vs. France's #19. Pick'ems agreed, with 96% people predicting them as victors — but reality is not often what it seems. With seasoned tournament players on the two rosters, no one was going to make this an easy match.
+
+Both teams protected rice maps, and rice is where the match started, with the highly technical [Dz'Xa - Cosmic Crisis (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421249#mania/5267295) (RC6) resulting in a 6-way FC and a narrow 3k victory for the Philippines, wow! A similar situation developed in the second pick: the jumpstream consistency [seatrus - Heavens Station](https://osu.ppy.sh/beatmapsets/2421022#mania/5266791) (RC2). But then; disaster struck, with ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419)'s unfortunate disconnect resulting in 5 FCs and France's first win.
+
+Amazingly, not a single miss was dropped in the 3rd map (LN1) either, and it was only in the match's 4th pick, France's protect [sana & Nayugorou - Love Potion](https://osu.ppy.sh/beatmapsets/2421240#mania/5267282) (RC1), where a couple of misses on the Filipino side gave the point to their opponents. The consistency of these players is truly something to behold!
+
+The match now stood at 2–2. The next pick was [*wakadori - NightTheater](https://osu.ppy.sh/beatmapsets/2421059#mania/5266881) (LN3), where lower accuracy with 3 full combos proved to be the key for the first break point of the match, giving France a lead. Fun Fact: [NightTheater](https://osu.ppy.sh/beatmapsets/2421059#mania/5266881) was played in 4 matches, with France and the Philippines holding the #1 and #2 spots in the team score leaderboard! But the lead would not last: the Philippines' rice ratio trio of ::{ flag=PH }:: [Velyria](https://osu.ppy.sh/users/9423922), ::{ flag=PH }:: [Vulpsi](https://osu.ppy.sh/users/12584420), and ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419) locked gears, with an incredible back-to-back performance on the FFR Tech pick [Terminal 11 - Cold Storage (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421224#mania/5267239) (RC4) and the chordjack pick [KikuoHana - Nobore! Susume! Takai Tou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421243#mania/5267288) (RC3), putting them at match point.
+
+France, now nearing the edge, picked the technical hybrid [Taishi - Distant Relatives](https://osu.ppy.sh/beatmapsets/2421252#mania/5267303) (HB3), a Taishi epic that, even with ::{ flag=FR }:: [DarkMew2](https://osu.ppy.sh/users/13921965)'s MVP performance, was not enough to overcome the Philippines' minuscule great count, ending the match with a 3.7k point difference.
+
+Fun fact: every single pick in this match was decided by less than 8000 points! A testament to consistency and these players' performance. The Philippines will continue in the winners' bracket facing South Korea, and France will fight Finland in the lower bracket to stay in the tournament. Good luck to both teams!
 
 ### ::{ flag=BR }:: Brazil vs. ::{ flag=PE }:: Peru
 
