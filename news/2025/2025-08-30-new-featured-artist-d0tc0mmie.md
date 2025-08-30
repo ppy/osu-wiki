@@ -34,8 +34,6 @@ osu!taiko mappers must love Kasane Teto too. Here's another [osu!taiko map](http
 
 ### [d0tc0mmie - d0tc0mmie - Mirai Glide feat. GUMI](LINK)
 
-This song was released in sync with today's Featured Artist announcement!
-
 <audio controls>
     <source src="LINK">
 </audio>
