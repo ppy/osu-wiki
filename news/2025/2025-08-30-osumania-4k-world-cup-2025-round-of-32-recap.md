@@ -122,7 +122,15 @@ Fun fact: every single pick in this match was decided by less than 8000 points! 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=START_TIME_SECONDS&end=END_TIME_SECONDS" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Highlights (yobrevelc)
+As if it were to be more than just a coincidence, Brazil and Peru faced-off on the very first round of the tournament! The two South American teams placing #13 and #20 during Qualifiers respectively, were not only close in location but also in skill. With both teams favouring rice maps over everything else, this match quickly became quite the tricky one. And it all started with their picks and bans.
+
+Unsurprisingly, both teams started off by protecting their favourite rice picks while banning anything with even just a single long note in it. Liking noodles is, after all, an acquired taste. This rice dominant match was soon demonstrated by Peru's very first pick, [KikuoHana - Nobore! Susume! Takai Tou (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421243#mania/5267288) (RC3). The Peruvians quickly showed their prowess with a team FC, with ::{ flag=PE }:: [Ancuw](https://osu.ppy.sh/users/18342820)'s 999,699 score being of particular interest.
+
+While most of the match would be defined by its rice picks, it is worth noting some of the strats that both teams employed to throw their rivals off-guard. Look no further than Brazil picking [Minato Aqua - Mada, Aoi (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2421032#mania/5278676) (LN2) right after their first loss. While this almost proved to be a valid strat, Brazil unfortunately dropped their lead as ::{ flag=BR }:: [Miwiki](https://osu.ppy.sh/users/9781014) found themselves missing at a crucial point in the map.
+
+Later down the road, after some back and forth rice picks and a delectable 2,991,819 team score in [seatrus - Heavens Station](https://osu.ppy.sh/beatmapsets/2421022#mania/5266791) (RC2) by the hands of Brazil, Peru tried to employ their rivals very same strategy and picked [orangentle - OEFHEBEN](https://osu.ppy.sh/beatmapsets/2421040#mania/5266852) (HB1). Much to their dismay, Brazil locked in. Winning their rival's first non-rice pick and denying their rival's match point, Brazil proceeded to bet on HB2 which was out of everyone's zone of comfort. Despite a hard fought full combo by ::{ flag=BR }:: [zKuri](https://osu.ppy.sh/users/25445118) and a score of 995,971, Peru ended up narrowly getting the lead by a meager 1,917 points, ending the match with a 3–5 score.
+
+Congratulations to Peru for winning this close of a match while being the lower seed! Things are not going to get any easier from now on as they'll face Hong Kong during Round of 16, while Brazil will be against Guatemala in the losers' bracket.
 
 ---
 
