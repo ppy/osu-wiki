@@ -152,7 +152,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ### Quarterfinals
 
-**[Download the mappack here (139 MB)](https://packs.ppy.sh/P297%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Quarterfinals.zip)**\
+**[Download the mappack here (139 MB)](https://packs.ppy.sh/P297%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Quarterfinals.zip?1756667578)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2554480803?t=7h4m55s)
 
 - Rice
