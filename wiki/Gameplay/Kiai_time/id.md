@@ -18,7 +18,7 @@ tags:
 ![](img/kiai-time-taiko-gameplay.png "Waktu kiai pada mode osu!taiko: pippidon yang bersemangat dan jalur permainan yang berwarna ungu")
 :::
 
-**Waktu kiai** (*kiai time*), atau *kiai*, merupakan sekumpulan efek visual khusus yang menekankan bagian [beatmap](/wiki/Beatmap) tertentu. Efek ini terinspirasi[^taiko-roots] oleh fitur Go-Go Time dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) serta ditandai oleh semburan bintang (*star fountain*), bintang yang jatuh dari kursor, dan [objek permainan](/wiki/Gameplay/Hit_object) yang berkelip mengikuti [BPM](/wiki/Music_theory/Tempo) lagu. Efek lainnya yang serupa, seperti kilatan cahaya dari samping layar dan semburan bintang, juga dapat dilihat pada [menu utama](/wiki/Client/Interface#main-menu).
+**Waktu kiai** (*kiai time*), atau *kiai*, merupakan sekumpulan efek visual khusus yang menekankan bagian [beatmap](/wiki/Beatmap) tertentu. Efek ini terinspirasi[^taiko-roots] oleh fitur Go-Go Time dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) serta ditandai oleh semburan bintang (*star fountain*), bintang yang jatuh dari kursor, dan [objek permainan](/wiki/Gameplay/Hit_object) yang berkelip mengikuti [BPM](/wiki/Music_theory/Tempo) lagu. Efek lainnya yang serupa, seperti kilatan cahaya dari samping layar dan semburan bintang, juga dapat dilihat di [menu utama](/wiki/Client/Interface#main-menu) pada saat waktu kiai sedang aktif.
 
 Walaupun waktu kiai tidak memengaruhi permainan pada mode osu!, osu!catch, atau osu!mania, efek ini memberikan bonus [skor](/wiki/Gameplay/Score) sejumlah 20% pada mode [osu!taiko](/wiki/Game_mode/osu!taiko).
 
