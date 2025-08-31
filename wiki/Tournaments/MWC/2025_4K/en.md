@@ -490,6 +490,7 @@ The weights for the Qualifiers are as follows:
 6. Captains are responsible for managing their team's availability.
 
 ### Notes
+
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
 [^winners-bracket]: Winners bracket match
