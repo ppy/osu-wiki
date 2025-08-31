@@ -1,25 +1,35 @@
 ---
-stub: true
 tags:
-  - timing section
   - kiai mode
-  - waktu
-outdated_since: 6ba070987dcb26a0db6d9758aec6ad510c6a1b50
-outdated_translation: true
+  - kiai section
+  - mode kiai
+  - bagian kiai
 ---
 
-# Waktu Kiai
+# Waktu kiai
 
-*Untuk peraturan seputar penggunaan waktu kiai, lihat: [Ranking Criteria](/wiki/Ranking_criteria)*
+*Untuk peraturan seputar penggunaan waktu kiai, lihat: [Kriteria ranking](/wiki/Ranking_criteria)*
 
-**Kiai Time** (atau *kiai*) adalah istilah yang diberikan untuk bagian waktu "khusus" untuk membantu menekankan bagian tertentu dari [beatmap](/wiki/Beatmap). Pemain dapat mengetahui jika suatu bagian dari beatmap tersebut adalah bagian waktu kiai jika mereka melihat efek visual tambahan di latar belakang. (seperti, hit circle bercahaya, bintang berterbangan, dan bintang berterjunan).
+:::Infobox
+![](img/kiai-time-osu-gameplay.png "Semburan bintang di awal bagian kiai pada beatmap mode osu!")
+:::
 
-Saat kiai sedang aktif, semua [hit object](/wiki/Gameplay/Hit_object) yang dikenai akan berkedip mengikuti [main beat](/wiki/Client/Beatmap_editor/Timing) dan bintang akan meledak dari kursor saat [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) dikenai. Jika tidak, mereka akan jatuh dari kursor saat kursor berada pada [slider](/wiki/Gameplay/Hit_object/Slider) atau [spinner](/wiki/Gameplay/Hit_object/Spinner).
+:::Infobox
+![](img/kiai-time-taiko-gameplay.png "Waktu kiai pada mode osu!taiko: pippidon yang bersemangat dan jalur permainan yang berwarna ungu")
+:::
 
-## Beatmapping
+**Waktu kiai** (*kiai time*), atau *kiai*, merupakan sekumpulan efek visual khusus yang menekankan bagian [beatmap](/wiki/Beatmap) tertentu. Efek ini terinspirasi[^taiko-roots] oleh fitur Go-Go Time dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) serta ditandai oleh semburan bintang (*star fountain*), bintang yang jatuh dari kursor, dan [objek permainan](/wiki/Gameplay/Hit_object) yang berkelip mengikuti [BPM](/wiki/Music_theory/Tempo) lagu. Efek lainnya yang serupa, seperti kilatan cahaya dari samping layar dan semburan bintang, juga dapat dilihat pada [menu utama](/wiki/Client/Interface#main-menu).
 
-Waktu kiai paling sering digunakan untuk "bagian terkuat dari sebuah lagu", yang mana biasanya adalah bagian-bagian dari chorus. Dikarenakan bagian kiai adalah bagian terkuat dari sebuah lagu, biasanya sedikit lebih menantang daripada bagian dari sisa-sisa [beatmap](/wiki/Beatmap) tanpa penggunaan waktu kiai.
+Walaupun waktu kiai tidak memengaruhi permainan pada mode osu!, osu!catch, atau osu!mania, efek ini memberikan bonus [skor](/wiki/Gameplay/Score) sejumlah 20% pada mode [osu!taiko](/wiki/Game_mode/osu!taiko).
 
-## osu!taiko
+## Pembuatan beatmap
 
-Pada beatmap [osu!taiko](/wiki/Game_mode/osu!taiko), bagian kiai memberikan [skor](/wiki/Gameplay/Score) 20% lebih banyak.
+:::Infobox
+![](img/kiai-time-editor.png "Indikator waktu kiai pada editor beatmap. Waktu kiai ditandai dengan warna jingga pada linimasa di bagian bawah layar")
+:::
+
+Waktu kiai paling seringnya digunakan untuk menekankan bagian lagu yang paling dominan, yang biasanya adalah bagian chorus; bagian ini pada umumnya lebih sulit dibandingkan bagian beatmap lainnya. Efek ini dapat diaktifkan untuk [timing section](/wiki/Client/Beatmap_editor/Timing) tertentu oleh mapper yang bersangkutan pada tab `Style` di panel `Timing and Control Points` dan tidak dapat dinonaktifkan oleh pemain.
+
+## Referensi
+
+[^taiko-roots]: [Video YouTube oleh Dean Herbert "osu! "Kiai Time" preview"](https://www.youtube.com/watch?v=1iFHftUNMrE)
