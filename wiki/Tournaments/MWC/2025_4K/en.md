@@ -152,7 +152,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ### Quarterfinals
 
-**[Download the mappack here (139 MB)](https://packs.ppy.sh/P297%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Quarterfinals.zip?1756667578)**\
+**[Download the mappack here (139 MB)](https://packs.ppy.sh/P297%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Quarterfinals.zip?1756698882)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2554480803?t=7h4m55s)
 
 - Rice
@@ -171,7 +171,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
   1. [Sangatsu no Phantasia - Golden Ray (\[Crz\]Crysarlene) \[Vicissitude\]](https://osu.ppy.sh/beatmapsets/2428545#mania/5287909)
   2. [senya - Iro wa Jou e to Izanau (Yuiesta) \[the 30th Magic 1.05x\]](https://osu.ppy.sh/beatmapsets/2428501#mania/5287813)
   3. [Camellia - PLANET//SHAPER (Cut Ver.) (-mint-) \[TERRA//FORMATION\]](https://osu.ppy.sh/beatmapsets/2428553#mania/5287927)
-  4. [Feryquitous feat. Aitsuki Nakuru - Fake (Scotty) \[Insincerity 1.05x\]](https://osu.ppy.sh/beatmapsets/2428547#mania/5287914)
+  4. [Feryquitous feat. Aitsuki Nakuru - Fake (Scotty) \[Insincerity 1.05x\]](https://osu.ppy.sh/beatmapsets/2428547#mania/5287977)
 - Tiebreaker
   1. **[Sad Keyboard Guy & Myntian - Void//Shader (feat. xia) (guden, MyZterioN-, 0DZ0) \[Lingering Petals\]](https://osu.ppy.sh/beatmapsets/2428561#mania/5287940)**
 
