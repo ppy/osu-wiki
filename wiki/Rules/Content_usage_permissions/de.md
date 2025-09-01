@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 502953c245f58ddf62c5a1eed56e5ba70f388066
+---
+
 # Richtlinien für die Nutzung von Inhalten
 
 Im Mittelpunkt von osu! steht die Möglichkeit, Kreationen zu entwerfen und mit anderen zu teilen. Es muss sichergestellt werden, dass angemessene Berechtigungen für die Verwendung des Werkes eines anderen Künstlers eingeholt wurden und der Urheber ordnungsgemäß angegeben wird.
