@@ -409,7 +409,7 @@ This competition ended with the following podiums:
 3. [Hiiragi Magnetite - TETORIS (Ojisan-) \[Stage 3: teto spin double\]](https://osu.ppy.sh/beatmapsets/2380073#mania/5143757)
 4. [Lee Jin-ah - Target for Love (Ludicin's Hardcore Bootleg) (Ojisan-) \[Stage 4: 200 Recruitment Points\]](https://osu.ppy.sh/beatmapsets/2380075#mania/5143770)
 5. [tarolabo - eth ken (My Angel Venti) \[Stage 5: Agitos\]](https://osu.ppy.sh/beatmapsets/2380047#mania/5143707)
-6. [Hachioji-P feat. Hatsune Miku - Violence Trigger (Lazurent) \[Stage 6: Psychodelic Temptation\]](https://osu.ppy.sh/beatmapsets/2380046#mania/5143704)	
+6. [Hachioji-P feat. Hatsune Miku - Violence Trigger (Lazurent) \[Stage 6: Psychodelic Temptation\]](https://osu.ppy.sh/beatmapsets/2380046#mania/5143704)
 
 ## Match Results
 
