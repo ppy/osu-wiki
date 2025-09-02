@@ -253,6 +253,7 @@ This competition ended with the following podiums:
 #### Qualifiers
 
 **[You may download the mappack here](https://drive.google.com/file/d/1obMg1P2JZHmC2nBzjsarW8ZTouuNZUyQ/view?usp=sharing)**
+
 1. [Sewerslvt - Little Ones (Znow) \[Stage 1: Reflective Destruction\]](https://osu.ppy.sh/beatmapsets/2380270#mania/5145057)
 2. [2hollis - afraid (feat. nate sib) (Livium) \[Stage 2: i love it\]](https://osu.ppy.sh/beatmapsets/2380068#mania/5143741)
 3. [xi - Double Helix (Silicosis 2) \[Stage 3: Entwined\]](https://osu.ppy.sh/beatmapsets/2380201#mania/5144433)
@@ -403,11 +404,11 @@ This competition ended with the following podiums:
 
 **[You may download the mappack here](https://drive.google.com/file/d/1B5OrLNSO-cK7TUVY_P7urzQTJDoU8A_e/view?usp=sharing)**
 
-1. [Leo/need x Megurine Luka - Batsubyou (Game Ver.) (Itawachi) \[Stage 1: Ahoy\]](https://osu.ppy.sh/beatmapsets/2380042#mania/5143695)	
-2. [O.N.G.E.K.I. Shooters - STARRED HEART (Game Size) (SurfChu85) \[Stage 2: Sparkling Sky\]](https://osu.ppy.sh/beatmapsets/2380072#mania/5143755)	
-3. [Hiiragi Magnetite - TETORIS (Ojisan-) \[Stage 3: teto spin double\]](https://osu.ppy.sh/beatmapsets/2380073#mania/5143757)	
-4. [Lee Jin-ah - Target for Love (Ludicin's Hardcore Bootleg) (Ojisan-) \[Stage 4: 200 Recruitment Points\]](https://osu.ppy.sh/beatmapsets/2380075#mania/5143770)	
-5. [tarolabo - eth ken (My Angel Venti) \[Stage 5: Agitos\]](https://osu.ppy.sh/beatmapsets/2380047#mania/5143707)	
+1. [Leo/need x Megurine Luka - Batsubyou (Game Ver.) (Itawachi) \[Stage 1: Ahoy\]](https://osu.ppy.sh/beatmapsets/2380042#mania/5143695)
+2. [O.N.G.E.K.I. Shooters - STARRED HEART (Game Size) (SurfChu85) \[Stage 2: Sparkling Sky\]](https://osu.ppy.sh/beatmapsets/2380072#mania/5143755)
+3. [Hiiragi Magnetite - TETORIS (Ojisan-) \[Stage 3: teto spin double\]](https://osu.ppy.sh/beatmapsets/2380073#mania/5143757)
+4. [Lee Jin-ah - Target for Love (Ludicin's Hardcore Bootleg) (Ojisan-) \[Stage 4: 200 Recruitment Points\]](https://osu.ppy.sh/beatmapsets/2380075#mania/5143770)
+5. [tarolabo - eth ken (My Angel Venti) \[Stage 5: Agitos\]](https://osu.ppy.sh/beatmapsets/2380047#mania/5143707)
 6. [Hachioji-P feat. Hatsune Miku - Violence Trigger (Lazurent) \[Stage 6: Psychodelic Temptation\]](https://osu.ppy.sh/beatmapsets/2380046#mania/5143704)	
 
 ## Match Results
@@ -444,7 +445,6 @@ Sunday, 6 July 2025:
 | --: | :-: | :-: | :-- | :-- |
 | lyvet ::{ flag=PH }:: | 1 | **7** | ::{ flag=PH }:: **bojii** | [#1](https://osu.ppy.sh/community/matches/118600188) |
 | Unitori- ::{ flag=BH }:: | 1 | **7** | ::{ flag=PH }:: **4Kenn** | [#1](https://osu.ppy.sh/community/matches/118600680) |
-
 
 #### Semifinals
 
@@ -485,7 +485,6 @@ Sunday, 22 June 2025:
 | --: | :-: | :-: | :-- | :-- |
 | **- Hago -** ::{ flag=PH }:: | **6** | 3 | ::{ flag=PH }:: Dyei | [#1](https://osu.ppy.sh/community/matches/118470366) |
 | **BronyaZaychik_** ::{ flag=PH }:: | **6** | 5 | ::{ flag=PH }:: - Bliss - | [#1](https://osu.ppy.sh/community/matches/118471689) |
-
 
 #### Round of 16
 
