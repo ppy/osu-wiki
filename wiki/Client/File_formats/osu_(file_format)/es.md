@@ -6,7 +6,6 @@
 
 La primera línea del archivo especifica la versión del formato del archivo. Por ejemplo, `osu file format v14` es la última versión. (v128 para [osu!(lazer)](/wiki/Client/Release_stream/Lazer)).
 
-
 El siguiente contenido está separado en secciones, indicadas por títulos de sección entre corchetes.
 
 | Sección | Descripción | Tipo de contenido |
