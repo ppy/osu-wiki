@@ -16,7 +16,17 @@ Let's go back and look at some highlights of [Capture The Achievement 2](https:/
 
 ## Top place finishers
 
-The competition for the top spots was fierce, with 1st place frequently swapping throughout the event ([timelapse](https://www.youtube.com/watch?v=553VEjgSx5k)). After the dust initially settled, **Pawsome 🖐️** and **osu!friends** take the lead, swapping spots throughout the first two days. During the third day, **bc3 ultra** catches up and briefly holds first, before it returns to **Pawsome 🖐️** vs **osu!friends**. However, come the 6th day, **Magic's Animals** shakes up the leaderboard, taking **Pawsome 🖐️**'s #2 spot. Though, with several other teams close behind, it's not easy to maintain. After 3 days, **Magic's Animals** crumble, leaving **Pawsome 🖐️** and two new teams fighting for 2nd: **thought it was a normal tourney** and **EXEC_with.METHOD_METAFALICA/.**. All the while, **osu!friends** maintains their huge lead in 1st. However, around the 12th day is when they begin to worry, as **thought it was a normal tourney** puts the #2 battle to rest, turning it into a battle for #1. Both teams are fiercely gaining, when after 2 long days, the #1 spot finally switches. After this point, the momentum continues, as **thought it was a normal tourney** pulls even farther ahead, trying to secure 1st place. With only 2 days left, there's not much time for **osu!friends** to make up the huge gap. The 1st place spot has been secured. 2nd place, however, is not. **Pawsome 🖐️** has been following behind in 3rd this whole time, and within the final hours of the event, they're able to pass up **osu!friends** for 2nd place.
+The competition for the top spots was fierce, with 1st place frequently swapping throughout the event ([timelapse](https://www.youtube.com/watch?v=553VEjgSx5k)).
+
+After the dust initially settled, **Pawsome 🖐️** and **osu!friends** take the lead, swapping spots throughout the first two days. During the third day, **bc3 ultra** catches up and briefly holds first, before it returns to **Pawsome 🖐️** vs **osu!friends**.
+
+However, come the 6th day, **Magic's Animals** shakes up the leaderboard, taking **Pawsome 🖐️**'s #2 spot, though with several other teams close behind, it's not easy to maintain. After 3 days, **Magic's Animals** crumble, leaving **Pawsome 🖐️** and two new teams fighting for 2nd: **thought it was a normal tourney** and **EXEC_with.METHOD_METAFALICA/.**.
+
+All the while, **osu!friends** maintains their huge lead in 1st. However, around the 12th day is when they begin to worry, as **thought it was a normal tourney** puts the #2 battle to rest, turning it into a battle for #1. Both teams are fiercely gaining, when after 2 long days, the #1 spot finally switches. 
+
+After this point, the momentum continues, as **thought it was a normal tourney** pulls even farther ahead, trying to secure 1st place. With only 2 days left, there's not much time for **osu!friends** to make up the huge gap. The 1st place spot has been secured. 2nd place, however, is not.
+
+**Pawsome 🖐️** has been following behind in 3rd this whole time, and within the final hours of the event, they're able to pass up **osu!friends** for 2nd place.
 
 Congratulations to the top 3 teams!
 
