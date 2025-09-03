@@ -10,7 +10,7 @@ Due to the high-stakes nature of tournament play, tournament bans are treated ve
 
 ## What causes someone to receive a temporary tournament ban? {id=why-temporary}
 
-Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only resulted in a less severe punishment outside of the competitive play setting.
+Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have resulted in a less severe punishment outside of the competitive play setting.
 
 As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (such as swastikas) using cursor smoke in streamed matches.
 
