@@ -126,6 +126,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 ### 四分之一决赛轮 (QF)
 
+**[在这里下载图包！（212 MB）](https://mega.nz/file/20QyFa4Q#6KaZ2mO1NyEAT3RMp72M0V2qbY3lYKkVLyXl92oN0kA)**
+
 - No Mod
   1. [penoreri - Sulfur [Dioxide]](https://osu.ppy.sh/beatmapsets/1491645#osu/3057533)
   2. [Hige Driver - ukigumo [ddm & Lude's Extra]](https://osu.ppy.sh/beatmapsets/1827928#osu/3928631)
@@ -153,6 +155,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 ### 半决赛轮 (SF)
 
+**[在这里下载图包！（146 MB）](https://mega.nz/file/D4IACZiQ#RhDP_1atk2WX-inRF3cl6zNSayxiOkEPW_OnGfXDhyA)**
+
 - No Mod
   1. [seatrus - Hoshi Furu Yoru to Ichirin no Hana [Descending Stars]](https://osu.ppy.sh/beatmapsets/2402523#osu/5210544)
   2. [Slam Bamboo - House on Fire [It's So Nice]](https://osu.ppy.sh/beatmapsets/2005589#osu/4171278)
@@ -179,6 +183,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 - Tiebreaker: [Qutabire - Schizophrenia [Disorder]](https://osu.ppy.sh/beatmapsets/2403674#osu/5213400)
 
 ### 决赛轮 (F)
+
+**[在这里下载图包！（170 MB）](https://mega.nz/file/uwoEHSjR#f2wct8u6c4aMxklRGReOHnrUPLQlCOeE967Zp1mi-yM)**
 
 - No Mod
   1. [mewhan - Karakuri Pierrot [Extreme]](https://osu.ppy.sh/beatmapsets/1388272#osu/2867182)
@@ -208,6 +214,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 - Tiebreaker: [Para Dot. - Hyper banquet [Extreme]](https://osu.ppy.sh/beatmapsets/2009605#osu/4266048)
 
 ### 总决赛轮 (GF)
+
+**[在这里下载图包！（166 MB）](https://mega.nz/file/3tREwKBA#wgX1F9tMx4XxUZ3nCI24UOEkcfk797tDmdfxqj5HCUs)**
 
 - No Mod
   1. [ELFENSJoN - Hyousou wa Hakuen o Matoite [Endless]](https://osu.ppy.sh/beatmapsets/1332833#osu/2761831)
