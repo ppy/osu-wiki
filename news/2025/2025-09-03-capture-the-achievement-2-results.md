@@ -204,7 +204,9 @@ This is one of the nine competition achievements, which were popular for their r
 
 While that's all for the highlights, there were some other cool achievements that you can find on the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements) with the solutions available. You can also check out the solutions reveal stream below or [yandax's write up](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#cta2-yandax) ([yandax](https://osu.ppy.sh/users/17465623)'s achievements only) for more insight on any of them. 
 
-<iframe src="https://player.twitch.tv/?video=2524369287&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true" scrolling="no" width="95%" style="aspect-ratio: 16 / 9;"></iframe>
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2524369287&parent=osu.ppy.sh" allowfullscreen="true" scrolling="no"></iframe>
+</div>
 
 If you want to know who to get on your team for CTA3, you can check the [stats sheet](https://docs.google.com/spreadsheets/d/1uD_5jZZAH5cVM9-_zEpdsdgBueeI71dFEpa8v9ZbjHY/edit?gid=0#gid=0).
 
