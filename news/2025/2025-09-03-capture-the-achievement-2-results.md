@@ -10,7 +10,7 @@ Back in July, 104 teams gathered for 15 days to solve 101 mind-bending osu! puzz
 
 For those first hearing of [Capture The Achievement](https://osu.ppy.sh/home/news/2025-06-21-capture-the-achievement-2): it's a scavenger hunt event built around the idea of [medal](/wiki/Medals) hunting. Teams earn points by completing "achievements" with custom requirements. Many have hidden requirements, similar to [hush-hush](/wiki/Medals#hush-hush) medals.
 
-In a packed two weeks with a nonstop stream of new achievements releasing gradually, teams spent hours everyday on solving puzzles, deciphering achievements, researching, racking their brains, and going a bit crazy. 
+In a packed two weeks with a nonstop stream of new achievements releasing gradually, teams spent hours everyday on solving puzzles, deciphering achievements, researching, racking their brains, and going a bit crazy.
 
 Let's go back and look at some highlights of [Capture The Achievement 2](https://cta.sheppsu.me/iterations/2).
 
@@ -106,11 +106,11 @@ This achievement certainly had the most time and effort put into it, with even a
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13407431">-Rinne-</a></p>
 
-So, Sound in Motion uh? Well, this was by far the longest achievement from concept to execution that I ever made (5 months). 
+So, Sound in Motion uh? Well, this was by far the longest achievement from concept to execution that I ever made (5 months).
 
-It started back in March when I was working with audio files and had the idea to learn Steganography, this eventually brought the original idea for the achievement when I proposed making one related to it as a "sequel" to Vex. Originally it was supposed to be a pretty simple achievement where you just had to find the numbers in the mp3, with the hints pointing right at it. But that was found to be just too boring and quick, wasting a good idea. The second iteration on the other hand had the intention of adding the slider anchor art or just slider arts with the string of numbers in a single difficulty, but like the last time, the achievement was still missing that extra part to make it perfect, and then it hit me, 12h before release, what if I named every diff "expert" in different languages, quickly realized that I couldn't do anything with that and then it hit me... What about just rhythm game difficulties? And it was perfect. 
+It started back in March when I was working with audio files and had the idea to learn Steganography, this eventually brought the original idea for the achievement when I proposed making one related to it as a "sequel" to Vex. Originally it was supposed to be a pretty simple achievement where you just had to find the numbers in the mp3, with the hints pointing right at it. But that was found to be just too boring and quick, wasting a good idea. The second iteration on the other hand had the intention of adding the slider anchor art or just slider arts with the string of numbers in a single difficulty, but like the last time, the achievement was still missing that extra part to make it perfect, and then it hit me, 12h before release, what if I named every diff "expert" in different languages, quickly realized that I couldn't do anything with that and then it hit me... What about just rhythm game difficulties? And it was perfect.
 
-If I had to say what was the biggest hurdle, it would 100% be the description. As some might know from [CTA1](https://cta.sheppsu.me/iterations/1), there was an achievement that I made called "Butchering a Name" has a writing style very similar, where I like to write a very long description with the hints sprinkled in it. The problem with that is of course the word soup that might be created, and when the first description draft was submitted, [Sheppsu](https://osu.ppy.sh/users/14895608) clearly saw that as a problem, and after 4 iterations, the final description was reached, even if [Sheppsu](https://osu.ppy.sh/users/14895608) thought it was a bit too long, I didn't want to budge anymore, feeling that I would be sacrificing my style. 
+If I had to say what was the biggest hurdle, it would 100% be the description. As some might know from [CTA1](https://cta.sheppsu.me/iterations/1), there was an achievement that I made called "Butchering a Name" has a writing style very similar, where I like to write a very long description with the hints sprinkled in it. The problem with that is of course the word soup that might be created, and when the first description draft was submitted, [Sheppsu](https://osu.ppy.sh/users/14895608) clearly saw that as a problem, and after 4 iterations, the final description was reached, even if [Sheppsu](https://osu.ppy.sh/users/14895608) thought it was a bit too long, I didn't want to budge anymore, feeling that I would be sacrificing my style.
 
 So yeah, that was Sound In Motion, once again thanks to [Sheppsu](https://osu.ppy.sh/users/14895608) for giving the idea for and making the slider anchors and [TamamoLover](https://osu.ppy.sh/users/7772622) for making the map. I promise the next one will be even better.
 
@@ -198,21 +198,21 @@ This achievement, while having a simple solution, required some out-of-the-box t
 | Creator | ::{ flag=US }:: [catgirl enjoyer](https://osu.ppy.sh/users/18319269) |
 | More | [Click here](https://cta.sheppsu.me/achievements/298) |
 
-This is one of the nine competition achievements, which were popular for their replayability. No secrets here, just a pretty cool [Necrofantasia map from Luscent](https://osu.ppy.sh/beatmapsets/1881398#fruits/3873376) where you play Touhou in osu!. There were 6 players able to get down to the lowest score of 1 fruit caught (0 doesn't submit), so well played. Even if you've never played osu!catch before, you'd miss out if you didn't check out this map at least once! 
+This is one of the nine competition achievements, which were popular for their replayability. No secrets here, just a pretty cool [Necrofantasia map from Luscent](https://osu.ppy.sh/beatmapsets/1881398#fruits/3873376) where you play Touhou in osu!. There were 6 players able to get down to the lowest score of 1 fruit caught (0 doesn't submit), so well played. Even if you've never played osu!catch before, you'd miss out if you didn't check out this map at least once!
 
 ## Solutions and more
 
-While that's all for the highlights, there were some other cool achievements that you can find on the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements) with the solutions available. You can also check out the solutions reveal stream below or [yandax's write up](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#cta2-yandax) ([yandax](https://osu.ppy.sh/users/17465623)'s achievements only) for more insight on any of them. 
+While that's all for the highlights, there were some other cool achievements that you can find on the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements) with the solutions available. You can also check out the solutions reveal stream below or [yandax's write up](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#cta2-yandax) ([yandax](https://osu.ppy.sh/users/17465623)'s achievements only) for more insight on any of them.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2524369287&parent=osu.ppy.sh" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&video=2524369287&parent=osu.ppy.sh" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 If you want to know who to get on your team for CTA3, you can check the [stats sheet](https://docs.google.com/spreadsheets/d/1uD_5jZZAH5cVM9-_zEpdsdgBueeI71dFEpa8v9ZbjHY/edit?gid=0#gid=0).
 
 ---
 
-I've very thankful to the staff that helped bring this event to life, because making this many achievements of at least decent quality is no easy task. In addition, [yandax](https://osu.ppy.sh/users/17465623) and [Alanko](https://osu.ppy.sh/users/14208558) helped greatly with implementing achievements on the CTA server to reduce bugs and my workload. A full list of staff is available on the [CTA Staff page](https://cta.sheppsu.me/credits). 
+I've very thankful to the staff that helped bring this event to life, because making this many achievements of at least decent quality is no easy task. In addition, [yandax](https://osu.ppy.sh/users/17465623) and [Alanko](https://osu.ppy.sh/users/14208558) helped greatly with implementing achievements on the CTA server to reduce bugs and my workload. A full list of staff is available on the [CTA Staff page](https://cta.sheppsu.me/credits).
 
 I plan to host CTA3 next summer and implement the feedback received from this event, so look forward to that!
 
