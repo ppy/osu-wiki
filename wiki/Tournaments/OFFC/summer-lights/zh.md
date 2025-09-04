@@ -151,7 +151,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
   3. [EmoCosine - Usagi Flap (EmoCosine Remix) [Extra]](https://osu.ppy.sh/beatmapsets/2390542#osu/5174609)
   4. [BUTAOTOME - Yurara Kamishibai [Nostalgia]](https://osu.ppy.sh/beatmapsets/1774421#osu/3633250)
   5. [Plum - Dustwind [lr7's Expert]](https://osu.ppy.sh/beatmapsets/1450157#osu/3249382)
-- Tiebreaker: [Batashi - Smag Slow [Zakrywam twarz lecz to nie puacz]](https://osu.ppy.sh/beatmapsets/1999363#osu/4156421)
+- Tiebreaker
+  1. [Batashi - Smag Slow [Zakrywam twarz lecz to nie puacz]](https://osu.ppy.sh/beatmapsets/1999363#osu/4156421)
 
 ### 半决赛轮 (SF)
 
@@ -180,7 +181,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
   3. [NOMELON NOLEMON - Hide and Seek [Liyuu's Expert ft. Come and Livermorium[tourney ver]]](https://osu.ppy.sh/beatmapsets/2405647#osu/5219300)
   4. [LOLUET x yoei. - roots [agatsu's expert]](https://osu.ppy.sh/beatmapsets/2139515#osu/4706057)
   5. [Camellia - Diastrophism [nomi's Expert]](https://osu.ppy.sh/beatmapsets/1885482#osu/4669375)
-- Tiebreaker: [Qutabire - Schizophrenia [Disorder]](https://osu.ppy.sh/beatmapsets/2403674#osu/5213400)
+- Tiebreaker
+  1. [Qutabire - Schizophrenia [Disorder]](https://osu.ppy.sh/beatmapsets/2403674#osu/5213400)
 
 ### 决赛轮 (F)
 
@@ -211,7 +213,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
   3. [M2U - Quo Vadis [Himei]](https://osu.ppy.sh/beatmapsets/2121702#osu/4458291)
   4. [Attoclef - Naples Yellow Mango [Knight's EX]](https://osu.ppy.sh/beatmapsets/2288022#osu/4967725)
   5. [katagiri - #2wise4u [#2hardcore4otst]](https://osu.ppy.sh/beatmapsets/1818751#osu/3731599)
-- Tiebreaker: [Para Dot. - Hyper banquet [Extreme]](https://osu.ppy.sh/beatmapsets/2009605#osu/4266048)
+- Tiebreaker
+  1. [Para Dot. - Hyper banquet [Extreme]](https://osu.ppy.sh/beatmapsets/2009605#osu/4266048)
 
 ### 总决赛轮 (GF)
 
@@ -242,7 +245,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
   3. [7Echo - Sapphire Sky [Expert]](https://osu.ppy.sh/beatmapsets/2420037#osu/5263623)
   4. [tailspun - Bloom in Two [Arborescent]](https://osu.ppy.sh/beatmapsets/2411003#osu/5235323)
   5. [MetaHumanBoi - Solar Strike [Exort Extra (5WC Ver.)]](https://osu.ppy.sh/beatmapsets/2343774#osu/5038297)
-- Tiebreaker: [Xyris - Beyond the Edge (feat. Hanakuma Chifuyu) [Limitless]](https://osu.ppy.sh/beatmapsets/2410026#osu/5232626)
+- Tiebreaker
+  1. [Xyris - Beyond the Edge (feat. Hanakuma Chifuyu) [Limitless]](https://osu.ppy.sh/beatmapsets/2410026#osu/5232626)
 
 ## 比赛结果
 
