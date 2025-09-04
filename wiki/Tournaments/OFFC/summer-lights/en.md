@@ -58,7 +58,7 @@ The osu! FumoFumo Cup: Summer Lights tournament was run by various osu! communit
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389) |
-| Rule setter | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
+| Rulemaker | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
 | Developer | ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [MoeRain233](https://osu.ppy.sh/users/30973609), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
 | Graphic designer | ::{ flag=CN }:: [AeCw](https://osu.ppy.sh/users/6781503), ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378), ::{ flag=CN }:: [sourflour](https://osu.ppy.sh/users/5237349) |
 | Mappool selector | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [5atori Komeiji](https://osu.ppy.sh/users/34282059), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [Koishi Komeiji](https://osu.ppy.sh/users/33295812), ::{ flag=CN }:: [My Angel Bronya](https://osu.ppy.sh/users/17857203) |
