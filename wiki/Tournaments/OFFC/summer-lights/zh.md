@@ -253,9 +253,9 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 | 队伍 1 | 队伍 2 | 比赛链接 |
 | --: | :-- | :-- |
 | **不是夏天我不草** | 原來OFFC:SL的S不是suiji的意思嗎 | [#1](https://osu.ppy.sh/community/matches/118591736) |
-| 让你选DT你龙吗 | **多啦A梦** | [#2](https://osu.ppy.sh/community/matches/118591049) |
-| Valorant after this | **zako psc** | [#3](https://osu.ppy.sh/community/matches/118591753) |
-| 给你一拳 | **都是SummerSky害的** | [#4](https://osu.ppy.sh/community/matches/118610985) |
+| 让你选DT你龙吗 | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/118591049) |
+| Valorant after this | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118591753) |
+| 给你一拳 | **都是SummerSky害的** | [#1](https://osu.ppy.sh/community/matches/118610985) |
 
 ### 半决赛轮 (SF Round)
 
@@ -263,10 +263,10 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 | 队伍 1 | 队伍 2 | 比赛链接 |
 | --: | :-- | :-- |
-| **不是夏天我不草** | 都是SummerSky害的 | [#5](https://osu.ppy.sh/community/matches/118730743) |
-| zako psc | **多啦A梦** | [#6](https://osu.ppy.sh/community/matches/118787262) |
-| **给你一拳** | 原來OFFC:SL的S不是suiji的意思嗎 | [#7](https://osu.ppy.sh/community/matches/118797298) |
-| 让你选DT你龙吗 | **Valorant after this** | [#8](https://osu.ppy.sh/community/matches/118796796) |
+| **不是夏天我不草** | 都是SummerSky害的 | [#1](https://osu.ppy.sh/community/matches/118730743) |
+| zako psc | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/118787262) |
+| **给你一拳** | 原來OFFC:SL的S不是suiji的意思嗎 | [#1](https://osu.ppy.sh/community/matches/118797298) |
+| 让你选DT你龙吗 | **Valorant after this** | [#1](https://osu.ppy.sh/community/matches/118796796) |
 
 ### 决赛轮 (F Round)
 
@@ -275,9 +275,9 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 | 队伍 1 | 队伍 2 | 比赛链接 |
 | --: | :-- | :-- |
 | 不是夏天我不草（投降） | **多啦A梦** | - |
-| Valorant after this | **都是SummerSky害的** | [#10](https://osu.ppy.sh/community/matches/118919548) |
-| 给你一拳 | **zako psc** | [#11](https://osu.ppy.sh/community/matches/118911083) |
-| 都是SummerSky害的 | **zako psc** | [#12](https://osu.ppy.sh/community/matches/118939565) |
+| Valorant after this | **都是SummerSky害的** | [#1](https://osu.ppy.sh/community/matches/118919548) |
+| 给你一拳 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118911083) |
+| 都是SummerSky害的 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118939565) |
 
 ### 总决赛轮 (GF Round)
 
@@ -285,8 +285,8 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 | 队伍 1 | 队伍 2 | 比赛链接 |
 | --: | :-- | :-- |
-| 不是夏天我不草 | **zako psc** | [#13](https://osu.ppy.sh/community/matches/119044307) |
-| zako psc | **多啦A梦** | [#14](https://osu.ppy.sh/community/matches/119148400) |
+| 不是夏天我不草 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/119044307) |
+| zako psc | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/119148400) |
 
 ## 规则
 

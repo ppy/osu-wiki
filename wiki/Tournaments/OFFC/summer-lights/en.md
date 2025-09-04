@@ -252,9 +252,9 @@ Match time: 5 July 2025 ~ 7 July 2025
 | Team 1 | Team 2 | Match link |
 | --: | :-- | :-- |
 | **不是夏天我不草** | 原來OFFC:SL的S不是suiji的意思嗎 | [#1](https://osu.ppy.sh/community/matches/118591736) |
-| 让你选DT你龙吗 | **多啦A梦** | [#2](https://osu.ppy.sh/community/matches/118591049) |
-| Valorant after this | **zako psc** | [#3](https://osu.ppy.sh/community/matches/118591753) |
-| 给你一拳 | **都是SummerSky害的** | [#4](https://osu.ppy.sh/community/matches/118610985) |
+| 让你选DT你龙吗 | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/118591049) |
+| Valorant after this | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118591753) |
+| 给你一拳 | **都是SummerSky害的** | [#1](https://osu.ppy.sh/community/matches/118610985) |
 
 ### Semifinals
 
@@ -262,10 +262,10 @@ Match time: 20 July 2025 ~ 27 July 2025
 
 | Team 1 | Team 2 | Match link |
 | --: | :-- | :-- |
-| **不是夏天我不草** | 都是SummerSky害的 | [#5](https://osu.ppy.sh/community/matches/118730743) |
-| zako psc | **多啦A梦** | [#6](https://osu.ppy.sh/community/matches/118787262) |
-| **给你一拳** | 原來OFFC:SL的S不是suiji的意思嗎 | [#7](https://osu.ppy.sh/community/matches/118797298) |
-| 让你选DT你龙吗 | **Valorant after this** | [#8](https://osu.ppy.sh/community/matches/118796796) |
+| **不是夏天我不草** | 都是SummerSky害的 | [#1](https://osu.ppy.sh/community/matches/118730743) |
+| zako psc | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/118787262) |
+| **给你一拳** | 原來OFFC:SL的S不是suiji的意思嗎 | [#1](https://osu.ppy.sh/community/matches/118797298) |
+| 让你选DT你龙吗 | **Valorant after this** | [#1](https://osu.ppy.sh/community/matches/118796796) |
 
 ### Finals
 
@@ -274,9 +274,9 @@ Match time: 10 Argust 2025 ~ 11 Argust 2025
 | Team 1 | Team 2 | Match link |
 | --: | :-- | :-- |
 | 不是夏天我不草 (Forfeit) | **多啦A梦** | - |
-| Valorant after this | **都是SummerSky害的** | [#10](https://osu.ppy.sh/community/matches/118919548) |
-| 给你一拳 | **zako psc** | [#11](https://osu.ppy.sh/community/matches/118911083) |
-| 都是SummerSky害的 | **zako psc** | [#12](https://osu.ppy.sh/community/matches/118939565) |
+| Valorant after this | **都是SummerSky害的** | [#1](https://osu.ppy.sh/community/matches/118919548) |
+| 给你一拳 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118911083) |
+| 都是SummerSky害的 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118939565) |
 
 ### Grand Finals
 
@@ -284,8 +284,8 @@ Match time: 22 Argust 2025 ~ 1 September 2025
 
 | Team 1 | Team 2 | Match link |
 | --: | :-- | :-- |
-| 不是夏天我不草 | **zako psc** | [#13](https://osu.ppy.sh/community/matches/119044307) |
-| zako psc | **多啦A梦** | [#14](https://osu.ppy.sh/community/matches/119148400) |
+| 不是夏天我不草 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/119044307) |
+| zako psc | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/119148400) |
 
 ## Rules
 
