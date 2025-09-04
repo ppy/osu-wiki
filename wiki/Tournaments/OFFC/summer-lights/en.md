@@ -273,7 +273,7 @@ Match time: 10 Argust 2025 ~ 11 Argust 2025
 
 | Team 1 | Team 2 | Match link |
 | --: | :-- | :-- |
-| 不是夏天我不草 (Forfeit) | **多啦A梦** | - |
+| 不是夏天我不草 | **多啦A梦** | N/A (*win by default*) |
 | Valorant after this | **都是SummerSky害的** | [#1](https://osu.ppy.sh/community/matches/118919548) |
 | 给你一拳 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118911083) |
 | 都是SummerSky害的 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118939565) |

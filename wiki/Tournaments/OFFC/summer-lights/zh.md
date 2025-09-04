@@ -274,7 +274,7 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 | 队伍 1 | 队伍 2 | 比赛链接 |
 | --: | :-- | :-- |
-| 不是夏天我不草（投降） | **多啦A梦** | - |
+| 不是夏天我不草 | **多啦A梦** | 无（*默认获胜*） |
 | Valorant after this | **都是SummerSky害的** | [#1](https://osu.ppy.sh/community/matches/118919548) |
 | 给你一拳 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118911083) |
 | 都是SummerSky害的 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118939565) |
