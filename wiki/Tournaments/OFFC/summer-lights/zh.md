@@ -287,3 +287,7 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 | --: | :-- | :-- |
 | 不是夏天我不草 | **zako psc** | [#13](https://osu.ppy.sh/community/matches/119044307) |
 | zako psc | **多啦A梦** | [#14](https://osu.ppy.sh/community/matches/119148400) |
+
+## 规则
+
+出于长度与复杂性考虑，OFFC: SL 的规则暂未在本页面列出。完整的规则可在 [OFFC 官网](https://offfc.github.io/docs/summer-lights/handbook)获取。

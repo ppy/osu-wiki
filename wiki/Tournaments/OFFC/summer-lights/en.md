@@ -286,3 +286,7 @@ Match time: 22 Argust 2025 ~ 1 September 2025
 | --: | :-- | :-- |
 | 不是夏天我不草 | **zako psc** | [#13](https://osu.ppy.sh/community/matches/119044307) |
 | zako psc | **多啦A梦** | [#14](https://osu.ppy.sh/community/matches/119148400) |
+
+## Rules
+
+Due to its length and complexity, the rules of OFFC: SL are not listed on this page. The rules in full can be found in the tournament's [official website](https://offfc.github.io/docs/summer-lights/handbook).
