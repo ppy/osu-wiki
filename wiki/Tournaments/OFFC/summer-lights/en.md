@@ -10,7 +10,7 @@ tags:
 
 ![OFFC: SL logo](img/logo.png)
 
-The **osu! FumoFumo Cup: Summer Lights** (***OFFC: SL***) is a 4v4 double-elimination osu!standard tournament hosted by ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), which incorporates a brand-new chess-style ban / pick gameplay mechanic based on the traditional tournament rules. It is the second season of the osu! FumoFumo Cup tournament series.
+The **osu! FumoFumo Cup: Summer Lights** (***OFFC: SL***) was a 4v4 double-elimination osu! tournament hosted by ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389). The tournament featured a brand-new chess-style ban/pick gameplay mechanics based on the traditional tournament rules. It was the second iteration of the osu! FumoFumo Cup tournament series.
 
 ## Tournament schedule
 
@@ -27,48 +27,48 @@ The **osu! FumoFumo Cup: Summer Lights** (***OFFC: SL***) is a 4v4 double-elimin
 
 ### Banners
 
-- All participants will get a customized profile banner and a title in the official QQ group.
-- The top three teams will get special banners and titles.
-- All staff will get a customized profile banner.
-- All customized beatmap mappers will get a customized beatmap banner.
+- Participating players will get a customised profile banner and user title in the tournament's official QQ group.
+- Members of the top three teams will get special banners and user titles of their own.
+- Staffs will get a customised profile banner.
+- Custom mappers will get a customised beatmap banner.
 
-### Round Champions
+### Round winners
 
-All team members with the best overall performances in each round will receive a commemorative champion entity medal for the respective round.
+Team members with the best overall performances in each round will receive a commemorative champion entity medal for the respective round.
 
-### Special Prizes
+### Special prizes
 
-For MVP and SVP players, the MVP could choose one Fumo from **Komeiji Koishi Fumo** and **Flandre Scarlet Fumo**, and then the SVP would get the other one as his / her prize.
+The player whom the tournament management decides to be the tournament's "MVP" (Most Valuable Player) may choose to pick **a Fumo figurine** of either *Komeiji Koishi* or *Flandre Scarlet* as their special prize, with the player who ends up as the tournament's "SVP" (Second-Most Valuable Player) getting the other Fumo by default.
 
-For the Best Planned and Best Labor Strategists, the Best Planned strategist could choose one set of Blue Archive character stand and badge (Summer Party) of *Kasumizawa Miyu* or *Ajitani Hifumi*. And the Best Labor strategist would get the other set.
+The player whom the public polls decide to be the tournament's "Best Planned Strategist" may choose to pick a **Blue Archive character stand and badge (Summer Party)** of either *Kasumizawa Miyu* or *Ajitani Hifumi* as their special prize, with the player who gets voted as the "Best Labor Strategist" getting the other set by default.
 
-| Player | Prize |
+| Distinction | Prize |
 | :-- | :-- |
-| MVP (from 1st place team) | One Fumo |
-| SVP (from 2nd place team) | One Fumo |
+| MVP (from the winning team) | One Fumo |
+| SVP (from the runner-up team) | One Fumo |
 | Best Planned Strategist (from the polls) | Blue Archive character stand + badge |
 | Best Labor Strategist (from the polls) | Blue Archive character stand + badge |
 | Player with the highest overall HD score | だから僕は音楽を辞めた【初回限定盤】（ヨルシカ） CD music album |
 | Player with the highest overall HR score | サマーライト（夏央、倚水） CD music album |
 
-## Organization
+## Organisation
 
-The osu! FumoFumo Cup: Summer Lights is run by various community members.
+The osu! FumoFumo Cup: Summer Lights tournament was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389) |
-| Rule maker | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
+| Rule setter | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
 | Developer | ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [MoeRain233](https://osu.ppy.sh/users/30973609), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
-| Graphical designer | ::{ flag=CN }:: [AeCw](https://osu.ppy.sh/users/6781503), ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378), ::{ flag=CN }:: [sourflour](https://osu.ppy.sh/users/5237349) |
+| Graphic designer | ::{ flag=CN }:: [AeCw](https://osu.ppy.sh/users/6781503), ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378), ::{ flag=CN }:: [sourflour](https://osu.ppy.sh/users/5237349) |
 | Mappool selector | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [5atori Komeiji](https://osu.ppy.sh/users/34282059), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [Koishi Komeiji](https://osu.ppy.sh/users/33295812), ::{ flag=CN }:: [My Angel Bronya](https://osu.ppy.sh/users/17857203) |
-| Custom beatmap mapper | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908), ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628), ::{ flag=PH }:: [Flame Haze](https://osu.ppy.sh/users/8922155), ::{ flag=CN }:: [NatsuRin](https://osu.ppy.sh/users/20653857), ::{ flag=AU }:: [nominomu](https://osu.ppy.sh/users/30485380), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=VN }:: [Selcas](https://osu.ppy.sh/users/12545835), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=JP }:: [Soyuha](https://osu.ppy.sh/users/14208375), ::{ flag=CN }:: [SparkNights](https://osu.ppy.sh/users/9641731), ::{ flag=CN }:: [X Light](https://osu.ppy.sh/users/1814662) |
+| Custom mapper | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908), ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628), ::{ flag=PH }:: [Flame Haze](https://osu.ppy.sh/users/8922155), ::{ flag=CN }:: [NatsuRin](https://osu.ppy.sh/users/20653857), ::{ flag=AU }:: [nominomu](https://osu.ppy.sh/users/30485380), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=VN }:: [Selcas](https://osu.ppy.sh/users/12545835), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=JP }:: [Soyuha](https://osu.ppy.sh/users/14208375), ::{ flag=CN }:: [SparkNights](https://osu.ppy.sh/users/9641731), ::{ flag=CN }:: [X Light](https://osu.ppy.sh/users/1814662) |
 | Playtester | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [-Rosmontis-](https://osu.ppy.sh/users/34323353), ::{ flag=CN }:: [[SHK]_Firra](https://osu.ppy.sh/users/15175276), ::{ flag=CN }:: [chanliuko](https://osu.ppy.sh/users/32289237), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [My Angel Bronya](https://osu.ppy.sh/users/17857203) |
 | Referee | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [[SHK]_Firra](https://osu.ppy.sh/users/15175276), ::{ flag=CN }:: [Koishi Komeiji](https://osu.ppy.sh/users/33295812), ::{ flag=CN }:: [Komeiji_Satori_](https://osu.ppy.sh/users/15114200), ::{ flag=CN }:: [Paraliesa](https://osu.ppy.sh/users/30595368), ::{ flag=CN }:: [SparkNights](https://osu.ppy.sh/users/9641731) |
 | Streamer | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [Dr_Shindo](https://osu.ppy.sh/users/30895664), ::{ flag=CN }:: [FroZZZZZen](https://osu.ppy.sh/users/29235972), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
 | Commentator | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [My Angel Bronya](https://osu.ppy.sh/users/17857203), ::{ flag=CN }:: [Nosenso](https://osu.ppy.sh/users/30329943), ::{ flag=CN }:: [S tella](https://osu.ppy.sh/users/16018639) |
 | Spreadsheet designer | ::{ flag=CA }:: [Dura](https://osu.ppy.sh/users/5185609), ::{ flag=CN }:: [sourflour](https://osu.ppy.sh/users/5237349) |
-| Custom tracks & illustrations | ::{ flag=CN }:: [7Echo (Bilibili)](https://space.bilibili.com/3461578621979492) ::{ flag=CN }:: [gwsscz_ (Bilibili)](https://space.bilibili.com/1840888539) |
+| Musician and illustrator | ::{ flag=CN }:: [7Echo (Bilibili)](https://space.bilibili.com/3461578621979492) ::{ flag=CN }:: [gwsscz_ (Bilibili)](https://space.bilibili.com/1840888539) |
 
 ## Links
 
@@ -101,7 +101,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | zako psc |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 不是夏天我不草 |
 
-Round champion teams are as follows:
+The winning teams for each individual rounds are as follows:
 
 | Round | Team |
 | :-: | :-- |
@@ -110,9 +110,9 @@ Round champion teams are as follows:
 | Finals | zako psc |
 | Grand Finals | 多啦A梦 |
 
-Those players are awarded with corresponding prizes:
+These players are awarded with the corresponding special prizes:
 
-| Placing | Player |
+| Distinction | Player |
 | :-- | :-- |
 | MVP (from 1st place team) | ::{ flag=DE }:: [yiyao1229](https://osu.ppy.sh/users/30979124) |
 | SVP (from 2nd place team) | ::{ flag=HK }:: [Mithra Tercera](https://osu.ppy.sh/users/2955661) |
