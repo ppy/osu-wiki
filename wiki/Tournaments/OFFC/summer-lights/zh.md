@@ -124,65 +124,37 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 ## 图池
 
-### 四分之一决赛轮 (QF)
+### 总决赛轮 (GF)
 
-**[在这里下载图包！（212 MB）](https://mega.nz/file/20QyFa4Q#6KaZ2mO1NyEAT3RMp72M0V2qbY3lYKkVLyXl92oN0kA)**
-
-- No Mod
-  1. [penoreri - Sulfur [Dioxide]](https://osu.ppy.sh/beatmapsets/1491645#osu/3057533)
-  2. [Hige Driver - ukigumo [ddm & Lude's Extra]](https://osu.ppy.sh/beatmapsets/1827928#osu/3928631)
-  3. [HIMEHINA - Kiss Kitsune [LeCandy's Expert]](https://osu.ppy.sh/beatmapsets/2337469#osu/5052986)
-  4. [DJ Raisei - ReDIVE NEURON [Expert]](https://osu.ppy.sh/beatmapsets/2341026#osu/5029964)
-  5. [Camellia - TEMPO KATANA [vergil chair's Expert]](https://osu.ppy.sh/beatmapsets/2260926#osu/4838324)
-- Hidden
-  1. [lapix - Ocean Blue feat. Luschel (Extended Mix) [Summer, please don't go away, I feel like I still wanna play]](https://osu.ppy.sh/beatmapsets/2334764#osu/5011340)
-  2. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou [Lunatic]](https://osu.ppy.sh/beatmapsets/2016010#osu/4197023)
-- Hard Rock
-  1. [SECONDWALL - Light [Hikari]](https://osu.ppy.sh/beatmapsets/1373974#osu/2840384)
-  2. [25-ji, Nightcord de. - Bitter Choco Decoration [Picky Habits]](https://osu.ppy.sh/beatmapsets/1538879#osu/3146245)
-- Double Time
-  1. [Islet feat. isui - Haru o Matsu [Bloom]](https://osu.ppy.sh/beatmapsets/2138869#osu/4501349)
-  2. [Nor - Raise the Huddle [Insane]](https://osu.ppy.sh/beatmapsets/2124123#osu/4468897)
-  3. [tieff - Waterflow [Collab Insane]](https://osu.ppy.sh/beatmapsets/1491275#osu/3056868)
-  4. [FELT - Plugless & Forever [Happiness[OFFC SL Edit]]](https://osu.ppy.sh/beatmapsets/2394384#osu/5185505)
-- Free Mod
-  1. [Qutabire - Shiki Oriori, Shouyou to Iromeku Machi (feat. Suzuyu) [Pacing Machi de Fantasia]](https://osu.ppy.sh/beatmapsets/2309942#osu/5186532)
-  2. [Nekomata Master feat. *spiLa* - Clumsy thoughts [Emotions]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
-  3. [EmoCosine - Usagi Flap (EmoCosine Remix) [Extra]](https://osu.ppy.sh/beatmapsets/2390542#osu/5174609)
-  4. [BUTAOTOME - Yurara Kamishibai [Nostalgia]](https://osu.ppy.sh/beatmapsets/1774421#osu/3633250)
-  5. [Plum - Dustwind [lr7's Expert]](https://osu.ppy.sh/beatmapsets/1450157#osu/3249382)
-- Tiebreaker
-  1. [Batashi - Smag Slow [Zakrywam twarz lecz to nie puacz]](https://osu.ppy.sh/beatmapsets/1999363#osu/4156421)
-
-### 半决赛轮 (SF)
-
-**[在这里下载图包！（146 MB）](https://mega.nz/file/D4IACZiQ#RhDP_1atk2WX-inRF3cl6zNSayxiOkEPW_OnGfXDhyA)**
+**[在这里下载图包！（166 MB）](https://mega.nz/file/3tREwKBA#wgX1F9tMx4XxUZ3nCI24UOEkcfk797tDmdfxqj5HCUs)**
 
 - No Mod
-  1. [seatrus - Hoshi Furu Yoru to Ichirin no Hana [Descending Stars]](https://osu.ppy.sh/beatmapsets/2402523#osu/5210544)
-  2. [Slam Bamboo - House on Fire [It's So Nice]](https://osu.ppy.sh/beatmapsets/2005589#osu/4171278)
-  3. [Hoshimachi Suisei - I don't care [after all, it's a happy ending]](https://osu.ppy.sh/beatmapsets/2403613#osu/5213149)
-  4. [Rachel Taylor - Eternity (C3EYOND Remix) [Our Downfall]](https://osu.ppy.sh/beatmapsets/1519259#osu/3133585)
-  5. [Rahatt - Zurla Breakcore [Trumpet Destroyer]](https://osu.ppy.sh/beatmapsets/1935992#osu/4001389)
+  1. [ELFENSJoN - Hyousou wa Hakuen o Matoite [Endless]](https://osu.ppy.sh/beatmapsets/1332833#osu/2761831)
+  2. [SiLiS - March to the Constellations [Celestial Journey (Tourney Ver.)]](https://osu.ppy.sh/beatmapsets/2343773#osu/5038294)
+  3. [DIALOGUE+ - Jinsei Easy? [LV.72.7 Matha's Extreme]](https://osu.ppy.sh/beatmapsets/2031791#osu/4235022)
+  4. [LucaProject - Nidhoggr [Revelation 13:1]](https://osu.ppy.sh/beatmapsets/1947987#osu/4031447)
+  5. [Mimizu - Tatakina feat. Kasane TetoSV [NM5]](https://osu.ppy.sh/beatmapsets/2335287#osu/5261847)
 - Hidden
-  1. [Bomb the Music Industry! - The First Time I Met Sanawon [olc's Extra]](https://osu.ppy.sh/beatmapsets/2297446#osu/4907509)
-  2. [Kairiki bear feat. Hatsune Miku - MELLOMELLOID [LOVESTRUCK (CS4 EDIT)]](https://osu.ppy.sh/beatmapsets/2219428#osu/4704402)
+  1. [SmilyBruh - "AKAGE" (feat. Hatsune Miku) [Repetition]](https://osu.ppy.sh/beatmapsets/2345539#osu/5042966)
+  2. [Yorushika - Deep Indigo [Robinia's Extra[OFFC:SL Edit]]](https://osu.ppy.sh/beatmapsets/2419191#osu/5261125)
+  3. [Lee Jin-Ah - Target for Love (Ludicin's Hardcore Bootleg) [Expert]](https://osu.ppy.sh/beatmapsets/2419065#osu/5260740)
 - Hard Rock
-  1. [kessoku band - Guitar to Kodoku to Aoi Hoshi [Ayameteurre's Expert]](https://osu.ppy.sh/beatmapsets/1880007#osu/3910756)
-  2. [Itsuki Amakusa - LENATUS [Rieri's Insane]](https://osu.ppy.sh/beatmapsets/2298289#osu/4909882)
+  1. [isekaijoucho - Kimi syoushitu sekai [Future is OURS]](https://osu.ppy.sh/beatmapsets/2419070#osu/5260746)
+  2. [Dormir - Cookie Bouquets [Fanzhen's Extra]](https://osu.ppy.sh/beatmapsets/675125#osu/1453416)
+  3. [Jun Kuroda - Cybernetics [Heatwave's Expert]](https://osu.ppy.sh/beatmapsets/1325579#osu/2833226)
 - Double Time
-  1. [Chino (CV: Inori Minase) - Mirai Puzzle [Insane]](https://osu.ppy.sh/beatmapsets/1547564#osu/3187933)
-  2. [Mirage - Muzyka nas svyazala (Dance Remix) [ratarok's Insane]](https://osu.ppy.sh/beatmapsets/2115978#osu/4741558)
-  3. [Kinoshita - Norowareta Sei / Shukufuku Sareta Sei (the confusion) [allein's Insane]](https://osu.ppy.sh/beatmapsets/1004928#osu/2444018)
-  4. [Diao Ye Zong feat. nayuta - Koi Ningyou [Local's Lunatic]](https://osu.ppy.sh/beatmapsets/1947243#osu/4039684)
+  1. [KOTOKO - Crystal moment [Affection]](https://osu.ppy.sh/beatmapsets/2308617#osu/4938474)
+  2. [Touno Sakura - PRIZM/CIRCUiT [Summer, Memories, Love Story!]](https://osu.ppy.sh/beatmapsets/2142220#osu/4509159)
+  3. [Iyowa feat. Hatsune Miku - apricot [oatm's Insane]](https://osu.ppy.sh/beatmapsets/1752094#osu/3804788)
+  4. [Islet feat. Isui - Hakujitsumu [Collab Insane]](https://osu.ppy.sh/beatmapsets/1913515#osu/4052491)
 - Free Mod
-  1. [Yorushika - Replicant [everything was just a lie.]](https://osu.ppy.sh/beatmapsets/2275205#osu/4848156)
-  2. [maritumix - Blackout [Cartoon]](https://osu.ppy.sh/beatmapsets/2008172#osu/4177227)
-  3. [NOMELON NOLEMON - Hide and Seek [Liyuu's Expert ft. Come and Livermorium[tourney ver]]](https://osu.ppy.sh/beatmapsets/2405647#osu/5219300)
-  4. [LOLUET x yoei. - roots [agatsu's expert]](https://osu.ppy.sh/beatmapsets/2139515#osu/4706057)
-  5. [Camellia - Diastrophism [nomi's Expert]](https://osu.ppy.sh/beatmapsets/1885482#osu/4669375)
+  1. [AVTechNO! x Treow - boku-boku II feat. Hatsune Miku [Lan's Die]](https://osu.ppy.sh/beatmapsets/2271970#osu/4839685)
+  2. [namigroove - NOJA-LOLIC [2 girls 1 map]](https://osu.ppy.sh/beatmapsets/2204568#osu/4666685)
+  3. [7Echo - Sapphire Sky [Expert]](https://osu.ppy.sh/beatmapsets/2420037#osu/5263623)
+  4. [tailspun - Bloom in Two [Arborescent]](https://osu.ppy.sh/beatmapsets/2411003#osu/5235323)
+  5. [MetaHumanBoi - Solar Strike [Exort Extra (5WC Ver.)]](https://osu.ppy.sh/beatmapsets/2343774#osu/5038297)
 - Tiebreaker
-  1. [Qutabire - Schizophrenia [Disorder]](https://osu.ppy.sh/beatmapsets/2403674#osu/5213400)
+  1. **[Xyris - Beyond the Edge (feat. Hanakuma Chifuyu) [Limitless]](https://osu.ppy.sh/beatmapsets/2410026#osu/5232626)**
 
 ### 决赛轮 (F)
 
@@ -214,63 +186,78 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
   4. [Attoclef - Naples Yellow Mango [Knight's EX]](https://osu.ppy.sh/beatmapsets/2288022#osu/4967725)
   5. [katagiri - #2wise4u [#2hardcore4otst]](https://osu.ppy.sh/beatmapsets/1818751#osu/3731599)
 - Tiebreaker
-  1. [Para Dot. - Hyper banquet [Extreme]](https://osu.ppy.sh/beatmapsets/2009605#osu/4266048)
+  1. **[Para Dot. - Hyper banquet [Extreme]](https://osu.ppy.sh/beatmapsets/2009605#osu/4266048)**
+ 
+### 半决赛轮 (SF)
 
-### 总决赛轮 (GF)
-
-**[在这里下载图包！（166 MB）](https://mega.nz/file/3tREwKBA#wgX1F9tMx4XxUZ3nCI24UOEkcfk797tDmdfxqj5HCUs)**
+**[在这里下载图包！（146 MB）](https://mega.nz/file/D4IACZiQ#RhDP_1atk2WX-inRF3cl6zNSayxiOkEPW_OnGfXDhyA)**
 
 - No Mod
-  1. [ELFENSJoN - Hyousou wa Hakuen o Matoite [Endless]](https://osu.ppy.sh/beatmapsets/1332833#osu/2761831)
-  2. [SiLiS - March to the Constellations [Celestial Journey (Tourney Ver.)]](https://osu.ppy.sh/beatmapsets/2343773#osu/5038294)
-  3. [DIALOGUE+ - Jinsei Easy? [LV.72.7 Matha's Extreme]](https://osu.ppy.sh/beatmapsets/2031791#osu/4235022)
-  4. [LucaProject - Nidhoggr [Revelation 13:1]](https://osu.ppy.sh/beatmapsets/1947987#osu/4031447)
-  5. [Mimizu - Tatakina feat. Kasane TetoSV [NM5]](https://osu.ppy.sh/beatmapsets/2335287#osu/5261847)
+  1. [seatrus - Hoshi Furu Yoru to Ichirin no Hana [Descending Stars]](https://osu.ppy.sh/beatmapsets/2402523#osu/5210544)
+  2. [Slam Bamboo - House on Fire [It's So Nice]](https://osu.ppy.sh/beatmapsets/2005589#osu/4171278)
+  3. [Hoshimachi Suisei - I don't care [after all, it's a happy ending]](https://osu.ppy.sh/beatmapsets/2403613#osu/5213149)
+  4. [Rachel Taylor - Eternity (C3EYOND Remix) [Our Downfall]](https://osu.ppy.sh/beatmapsets/1519259#osu/3133585)
+  5. [Rahatt - Zurla Breakcore [Trumpet Destroyer]](https://osu.ppy.sh/beatmapsets/1935992#osu/4001389)
 - Hidden
-  1. [SmilyBruh - "AKAGE" (feat. Hatsune Miku) [Repetition]](https://osu.ppy.sh/beatmapsets/2345539#osu/5042966)
-  2. [Yorushika - Deep Indigo [Robinia's Extra[OFFC:SL Edit]]](https://osu.ppy.sh/beatmapsets/2419191#osu/5261125)
-  3. [Lee Jin-Ah - Target for Love (Ludicin's Hardcore Bootleg) [Expert]](https://osu.ppy.sh/beatmapsets/2419065#osu/5260740)
+  1. [Bomb the Music Industry! - The First Time I Met Sanawon [olc's Extra]](https://osu.ppy.sh/beatmapsets/2297446#osu/4907509)
+  2. [Kairiki bear feat. Hatsune Miku - MELLOMELLOID [LOVESTRUCK (CS4 EDIT)]](https://osu.ppy.sh/beatmapsets/2219428#osu/4704402)
 - Hard Rock
-  1. [isekaijoucho - Kimi syoushitu sekai [Future is OURS]](https://osu.ppy.sh/beatmapsets/2419070#osu/5260746)
-  2. [Dormir - Cookie Bouquets [Fanzhen's Extra]](https://osu.ppy.sh/beatmapsets/675125#osu/1453416)
-  3. [Jun Kuroda - Cybernetics [Heatwave's Expert]](https://osu.ppy.sh/beatmapsets/1325579#osu/2833226)
+  1. [kessoku band - Guitar to Kodoku to Aoi Hoshi [Ayameteurre's Expert]](https://osu.ppy.sh/beatmapsets/1880007#osu/3910756)
+  2. [Itsuki Amakusa - LENATUS [Rieri's Insane]](https://osu.ppy.sh/beatmapsets/2298289#osu/4909882)
 - Double Time
-  1. [KOTOKO - Crystal moment [Affection]](https://osu.ppy.sh/beatmapsets/2308617#osu/4938474)
-  2. [Touno Sakura - PRIZM/CIRCUiT [Summer, Memories, Love Story!]](https://osu.ppy.sh/beatmapsets/2142220#osu/4509159)
-  3. [Iyowa feat. Hatsune Miku - apricot [oatm's Insane]](https://osu.ppy.sh/beatmapsets/1752094#osu/3804788)
-  4. [Islet feat. Isui - Hakujitsumu [Collab Insane]](https://osu.ppy.sh/beatmapsets/1913515#osu/4052491)
+  1. [Chino (CV: Inori Minase) - Mirai Puzzle [Insane]](https://osu.ppy.sh/beatmapsets/1547564#osu/3187933)
+  2. [Mirage - Muzyka nas svyazala (Dance Remix) [ratarok's Insane]](https://osu.ppy.sh/beatmapsets/2115978#osu/4741558)
+  3. [Kinoshita - Norowareta Sei / Shukufuku Sareta Sei (the confusion) [allein's Insane]](https://osu.ppy.sh/beatmapsets/1004928#osu/2444018)
+  4. [Diao Ye Zong feat. nayuta - Koi Ningyou [Local's Lunatic]](https://osu.ppy.sh/beatmapsets/1947243#osu/4039684)
 - Free Mod
-  1. [AVTechNO! x Treow - boku-boku II feat. Hatsune Miku [Lan's Die]](https://osu.ppy.sh/beatmapsets/2271970#osu/4839685)
-  2. [namigroove - NOJA-LOLIC [2 girls 1 map]](https://osu.ppy.sh/beatmapsets/2204568#osu/4666685)
-  3. [7Echo - Sapphire Sky [Expert]](https://osu.ppy.sh/beatmapsets/2420037#osu/5263623)
-  4. [tailspun - Bloom in Two [Arborescent]](https://osu.ppy.sh/beatmapsets/2411003#osu/5235323)
-  5. [MetaHumanBoi - Solar Strike [Exort Extra (5WC Ver.)]](https://osu.ppy.sh/beatmapsets/2343774#osu/5038297)
+  1. [Yorushika - Replicant [everything was just a lie.]](https://osu.ppy.sh/beatmapsets/2275205#osu/4848156)
+  2. [maritumix - Blackout [Cartoon]](https://osu.ppy.sh/beatmapsets/2008172#osu/4177227)
+  3. [NOMELON NOLEMON - Hide and Seek [Liyuu's Expert ft. Come and Livermorium[tourney ver]]](https://osu.ppy.sh/beatmapsets/2405647#osu/5219300)
+  4. [LOLUET x yoei. - roots [agatsu's expert]](https://osu.ppy.sh/beatmapsets/2139515#osu/4706057)
+  5. [Camellia - Diastrophism [nomi's Expert]](https://osu.ppy.sh/beatmapsets/1885482#osu/4669375)
 - Tiebreaker
-  1. [Xyris - Beyond the Edge (feat. Hanakuma Chifuyu) [Limitless]](https://osu.ppy.sh/beatmapsets/2410026#osu/5232626)
+  1. **[Qutabire - Schizophrenia [Disorder]](https://osu.ppy.sh/beatmapsets/2403674#osu/5213400)**
+
+### 四分之一决赛轮 (QF)
+
+**[在这里下载图包！（212 MB）](https://mega.nz/file/20QyFa4Q#6KaZ2mO1NyEAT3RMp72M0V2qbY3lYKkVLyXl92oN0kA)**
+
+- No Mod
+  1. [penoreri - Sulfur [Dioxide]](https://osu.ppy.sh/beatmapsets/1491645#osu/3057533)
+  2. [Hige Driver - ukigumo [ddm & Lude's Extra]](https://osu.ppy.sh/beatmapsets/1827928#osu/3928631)
+  3. [HIMEHINA - Kiss Kitsune [LeCandy's Expert]](https://osu.ppy.sh/beatmapsets/2337469#osu/5052986)
+  4. [DJ Raisei - ReDIVE NEURON [Expert]](https://osu.ppy.sh/beatmapsets/2341026#osu/5029964)
+  5. [Camellia - TEMPO KATANA [vergil chair's Expert]](https://osu.ppy.sh/beatmapsets/2260926#osu/4838324)
+- Hidden
+  1. [lapix - Ocean Blue feat. Luschel (Extended Mix) [Summer, please don't go away, I feel like I still wanna play]](https://osu.ppy.sh/beatmapsets/2334764#osu/5011340)
+  2. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou [Lunatic]](https://osu.ppy.sh/beatmapsets/2016010#osu/4197023)
+- Hard Rock
+  1. [SECONDWALL - Light [Hikari]](https://osu.ppy.sh/beatmapsets/1373974#osu/2840384)
+  2. [25-ji, Nightcord de. - Bitter Choco Decoration [Picky Habits]](https://osu.ppy.sh/beatmapsets/1538879#osu/3146245)
+- Double Time
+  1. [Islet feat. isui - Haru o Matsu [Bloom]](https://osu.ppy.sh/beatmapsets/2138869#osu/4501349)
+  2. [Nor - Raise the Huddle [Insane]](https://osu.ppy.sh/beatmapsets/2124123#osu/4468897)
+  3. [tieff - Waterflow [Collab Insane]](https://osu.ppy.sh/beatmapsets/1491275#osu/3056868)
+  4. [FELT - Plugless & Forever [Happiness[OFFC SL Edit]]](https://osu.ppy.sh/beatmapsets/2394384#osu/5185505)
+- Free Mod
+  1. [Qutabire - Shiki Oriori, Shouyou to Iromeku Machi (feat. Suzuyu) [Pacing Machi de Fantasia]](https://osu.ppy.sh/beatmapsets/2309942#osu/5186532)
+  2. [Nekomata Master feat. *spiLa* - Clumsy thoughts [Emotions]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
+  3. [EmoCosine - Usagi Flap (EmoCosine Remix) [Extra]](https://osu.ppy.sh/beatmapsets/2390542#osu/5174609)
+  4. [BUTAOTOME - Yurara Kamishibai [Nostalgia]](https://osu.ppy.sh/beatmapsets/1774421#osu/3633250)
+  5. [Plum - Dustwind [lr7's Expert]](https://osu.ppy.sh/beatmapsets/1450157#osu/3249382)
+- Tiebreaker
+  1. **[Batashi - Smag Slow [Zakrywam twarz lecz to nie puacz]](https://osu.ppy.sh/beatmapsets/1999363#osu/4156421)**
 
 ## 比赛结果
 
-### 四分之一决赛轮 (QF Round)
+### 总决赛轮 (GF Round)
 
-比赛时间：2025 年 7 月 5 日 ~ 2025 年 7 月 7 日
-
-| 队伍 1 | 队伍 2 | 比赛链接 |
-| --: | :-- | :-- |
-| **不是夏天我不草** | 原來OFFC:SL的S不是suiji的意思嗎 | [#1](https://osu.ppy.sh/community/matches/118591736) |
-| 让你选DT你龙吗 | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/118591049) |
-| Valorant after this | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118591753) |
-| 给你一拳 | **都是SummerSky害的** | [#1](https://osu.ppy.sh/community/matches/118610985) |
-
-### 半决赛轮 (SF Round)
-
-比赛时间：2025 年 7 月 20 日 ~ 2025 年 7 月 27 日
+比赛时间：2025 年 8 月 22 日 ~ 2025 年 9 月 1 日
 
 | 队伍 1 | 队伍 2 | 比赛链接 |
 | --: | :-- | :-- |
-| **不是夏天我不草** | 都是SummerSky害的 | [#1](https://osu.ppy.sh/community/matches/118730743) |
-| zako psc | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/118787262) |
-| **给你一拳** | 原來OFFC:SL的S不是suiji的意思嗎 | [#1](https://osu.ppy.sh/community/matches/118797298) |
-| 让你选DT你龙吗 | **Valorant after this** | [#1](https://osu.ppy.sh/community/matches/118796796) |
+| 不是夏天我不草 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/119044307) |
+| zako psc | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/119148400) |
 
 ### 决赛轮 (F Round)
 
@@ -283,14 +270,27 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 | 给你一拳 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118911083) |
 | 都是SummerSky害的 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118939565) |
 
-### 总决赛轮 (GF Round)
+### 半决赛轮 (SF Round)
 
-比赛时间：2025 年 8 月 22 日 ~ 2025 年 9 月 1 日
+比赛时间：2025 年 7 月 20 日 ~ 2025 年 7 月 27 日
 
 | 队伍 1 | 队伍 2 | 比赛链接 |
 | --: | :-- | :-- |
-| 不是夏天我不草 | **zako psc** | [#1](https://osu.ppy.sh/community/matches/119044307) |
-| zako psc | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/119148400) |
+| **不是夏天我不草** | 都是SummerSky害的 | [#1](https://osu.ppy.sh/community/matches/118730743) |
+| zako psc | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/118787262) |
+| **给你一拳** | 原來OFFC:SL的S不是suiji的意思嗎 | [#1](https://osu.ppy.sh/community/matches/118797298) |
+| 让你选DT你龙吗 | **Valorant after this** | [#1](https://osu.ppy.sh/community/matches/118796796) |
+
+### 四分之一决赛轮 (QF Round)
+
+比赛时间：2025 年 7 月 5 日 ~ 2025 年 7 月 7 日
+
+| 队伍 1 | 队伍 2 | 比赛链接 |
+| --: | :-- | :-- |
+| **不是夏天我不草** | 原來OFFC:SL的S不是suiji的意思嗎 | [#1](https://osu.ppy.sh/community/matches/118591736) |
+| 让你选DT你龙吗 | **多啦A梦** | [#1](https://osu.ppy.sh/community/matches/118591049) |
+| Valorant after this | **zako psc** | [#1](https://osu.ppy.sh/community/matches/118591753) |
+| 给你一拳 | **都是SummerSky害的** | [#1](https://osu.ppy.sh/community/matches/118610985) |
 
 ## 规则
 
