@@ -256,7 +256,7 @@ Los miembros de un equipo que contribuyeron al mapping en Locus recibieron el t�
 - ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992)
 
-Los miembros de un equipo que contribuyeron a la creación de material visual en Locus recibieron el título de **Visual Architect**:
+Los miembros de un equipo que contribuyeron a la creación del material visual en Locus recibieron el título de **Visual Architect**:
 
 - ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499)
 - ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233)
