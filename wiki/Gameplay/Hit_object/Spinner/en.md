@@ -122,5 +122,17 @@ MaximumBonusSpins = max(0, floor(maxRps * secondsDuration) - spinsRequired - 2 )
 | 4 | 4 | 2.1 | 5.47 | 3 |
 | 4 | 5 | 2.2 | 5.68 | 3.5 |
 | 4 | 5 | 2.3 | 5.9 | 4 |
+| 4 | 6 | 2.4 | 6.12 | 4.5 |
+| 5 | 5 | 2.5 | 6.33 | 5 |
+| 5 | 5 | 2.625 | 6.42 | 5.5 |
+| 5 | 6 | 2.75 | 6.5 | 6 |
+| 5 | 6 | 2.875 | 6.58 | 6.5 |
+| 6 | 5 | 3 | 6.67 | 7 |
+| 6 | 5 | 3.125 | 6.75 | 7.5 |
+| 6 | 5 | 3.25 | 6.83 | 8 |
+| 6 | 5 | 3.375 | 6.92 | 8.5 |
+| 7 | 5 | 3.5 | 7 | 9 |
+| 7 | 5 | 3.625 | 7.08 | 9.5 |
+| 7 | 5 | 3.75 | 7.17 | 10 |
 
 After hitting the maximum bonus spins, lazer will instead show a `MAX` in the top of the spinner on any further spins the player does.
