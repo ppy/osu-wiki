@@ -187,7 +187,7 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
   5. [katagiri - #2wise4u [#2hardcore4otst]](https://osu.ppy.sh/beatmapsets/1818751#osu/3731599)
 - Tiebreaker
   1. **[Para Dot. - Hyper banquet [Extreme]](https://osu.ppy.sh/beatmapsets/2009605#osu/4266048)**
- 
+
 ### 半决赛轮 (SF)
 
 **[在这里下载图包！（146 MB）](https://mega.nz/file/D4IACZiQ#RhDP_1atk2WX-inRF3cl6zNSayxiOkEPW_OnGfXDhyA)**
