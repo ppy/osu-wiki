@@ -278,7 +278,8 @@ outdated_translation: true
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | 2024-11-02 | 这是什么 | 沟槽的烤翅还在开战舰追我 | Bingo! |
+| [osu! FumoFumo Cup: Summer Lights](OFFC/summer-lights) | 2025-07-05 | 2025-09-01 | 多啦A梦 | zako psc | 不是夏天我不草 |
 
 #### osu! Indonesia Tournament
 
