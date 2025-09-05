@@ -13,7 +13,7 @@ The Tournament Committee's responsibilities include advising the [account suppor
 
 - Responding to general inquiries sent to the tournaments email.
 - Determining the necessity and duration of tournament and staffing bans on a case-by-case basis.
-- Reviewing recently concluded officially supported tournaments for badge eligibility.
+- Reviewing recently concluded [officially supported](/wiki/Tournaments/Official_support) tournaments for badge eligibility.
 - Determining which tournaments are eligible to award badges to the top three finalists.
 
 Additionally, the Tournament Committee performs the following roles independent of the account support team:
@@ -39,7 +39,7 @@ The panel was first announced to the public on February 28, 2024 through the [Ma
 
 ### Tournament reports
 
-Tournament reports are the preferred way for players and tournament staff to report infringements of the [official tournament support](/wiki/Tournaments/Official_support) expectations and eligibility. When a new report is sent in, all Tournament Committee members are automatically notified. Members will read the report and determine whether to pursue action based on the report's contents. Such action includes but is not limited to:
+[Tournament reports](https://tcomm.hivie.tn/reports/create) are the preferred way for players and tournament staff to report infringements of the [official tournament support](/wiki/Tournaments/Official_support) expectations and eligibility. When a new report is sent in, all Tournament Committee members are automatically notified. Members will read the report and determine whether to pursue action based on the report's contents. Such action includes but is not limited to:
 
 - Marking the tournament for investigation pending further reports if this report alone is not sufficient to warrant further action.
 - Further investigation and context gathering.
@@ -82,11 +82,13 @@ If a tournament host believes their tournament has achieved the highest level of
 
 Public communication by the Tournament Committee is handled through several channels. The purposes for these sometimes overlap, but all are official sources of information kept up to date by the Tournament Committee.
 
-The Tournament Committee maintains an [account on Twitter](https://twitter.com/osu_tcomm) where the committee broadcasts major changes and updates of various types. Not all changes are communicated here, but many of the most important changes are communicated and clarified through this channel.
+The primary method of communicating with the public is via the [osu! Discord server](https://discord.gg/ppy)'s `#tournaments` and `#tournament-news` channels. The `#tournaments` channel is a great place to ask quick questions which don't require extensive internal deliberation. For complex topics, please open a [ticket](https://tcomm.hivie.tn/tickets).
 
-The [Community Tournament Status Tracker](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing) is a publicly viewable spreadsheet detailing the status of all tournaments that have requested official support. This sheet shows all tournaments dating back to June 20th, 2023 and displays their status through the official support process, including whether a badge was applied or denied.
+The [Tournament Committee website](https://tcomm.hivie.tn/) is a resource users may use to contact the committee directly via reports and tickets. The website also has a [tool](https://tcomm.hivie.tn/mappool-compliance) to check whether beatmaps are cleared in terms of [Content usage permissions](/wiki/Rules/Content_usage_permissions). The committee uses this site to host votes, maintain community resources, conduct reviews, and maintain official support statuses.
 
 The [Official Tournament Support Updates thread](https://osu.ppy.sh/community/forums/topics/1715676) is a pinned thread in the [Tournaments & Contests forum](https://osu.ppy.sh/community/forums/126) which contains an up-to-date list of updates to the [official tournament support wiki article](/wiki/Tournaments/Official_support) dating back to February 1st, 2023. It also links to all the aforementioned resources.
+
+The Tournament Committee maintains an [account on Twitter](https://twitter.com/osu_tcomm) where updates and changes of various types may be broadcast. Note that this method of communication is a supplement to the above sources and has largely been superseded by the `#tournament-news` channel.
 
 ### Adding new members
 
@@ -95,9 +97,19 @@ New members to the Tournament Committee must meet the following basic criteria b
 - Be at least 18 years old
 - Pass a check for recent account infringements
 
-Once a prospective member applies by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh), the Tournament Committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, a vote is held to determine whether to add the candidate to the committee.
+Successful applicants have most of these qualities:
 
-Applicants that fail to gather enough positive votes will be denied, and won't be able to apply again for 6 months from the time of response to their application. The response will be sent no later than 2 weeks from the day the application was submitted.
+- Is heavily involved in official tournaments and/or the community tournament scene
+- Provides a unique perspective which the committee currently lacks
+- Demonstrates expertise in a particular area of the tournament scene
+- Maintains excellent behaviour and conduct online
+- Generally has an excellent reputation within the community
+
+Applicants may apply online by completing the [application form](https://forms.gle/3c51xGd3DzW2JCqV6) or by submitting an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). All applicants applying via email are expected to extensively detail their contributions, impact, and involvement in the tournament scene. The application form is preferred by the committee as it provides much more context than an email.
+
+Once a prospective member applies by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) or [applying online](https://forms.gle/3c51xGd3DzW2JCqV6), the committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, a vote is held to determine whether to add the candidate to the committee.
+
+Applicants that fail to gather enough positive votes will be denied, and won't be able to apply again for 6 months from the time of response to their application. The committee aims to return an answer to applicants within 2 weeks of the application date.
 
 ### Votes
 
@@ -131,7 +143,11 @@ The account support team applies profile badges. While the Tournament Committee 
 
 ### Can the Tournament Committee see emails?
 
-The Tournament Committee can only see the content of emails to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). They cannot write or send emails, nor can they see metadata such as the sender's email address or name, only email content.
+The Tournament Committee can only see the content of emails to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Emails are drafted internally by committee members before being reviewed and sent by the account support team. They cannot send emails, nor can they see metadata such as the sender's email address or name, only email content.
+
+### I need help immediately! What do I do?
+
+For immediate assistance, join the [osu! Discord server](https://discord.gg/ppy) and ping the `@tournament-committee` role in the `#tournaments` channel. This should be used in emergencies requiring immediate intervention only. For other urgent inquiries, please open a [ticket](https://tcomm.hivie.tn/tickets) and note the urgency there.
 
 ## How can I help contribute?
 
