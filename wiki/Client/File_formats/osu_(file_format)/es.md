@@ -1,15 +1,10 @@
----
-outdated_translation: true
-outdated_since: 9e27b13d4f2dba800fbdb69bb4f724b48d2b60eb
----
-
 # .osu (formato de archivo)
 
 **`.osu`** es un formato de archivo legible por humanos que contiene información sobre un beatmap.
 
 ## Estructura
 
-La primera línea del archivo especifica la versión del formato del archivo. Por ejemplo, `osu file format v14` es la última versión.
+La primera línea del archivo especifica la versión del formato del archivo. Por ejemplo, `osu file format v14` es la última versión. (v128 para [osu!(lazer)](/wiki/Client/Release_stream/Lazer)).
 
 El siguiente contenido está separado en secciones, indicadas por títulos de sección entre corchetes.
 

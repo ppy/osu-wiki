@@ -1,7 +1,5 @@
 ---
 stub: true
-outdated_translation: true
-outdated_since: 7779388d917b1c846aa5df6b1310d9e9036805f7
 ---
 
 # Stream
@@ -14,13 +12,13 @@ Un **stream** es un conjunto constante de notas con el mismo intervalo rápido. 
 
 Un **roll** es una variación común de un stream que consta de notas que recorren todas las columnas en secuencia.
 
-Los streams con notas que aparecen en intervalos más rápidos que un pulso se suelen llamar **bursts**. Suelen usar ajustes superiores a 1/4.
+Los streams con notas que aparecen en intervalos más rápidos que un pulso se suelen llamar **bursts**. Suelen usar ajustes más rápidos que 1/4.
 
 ![](img/burst.png)
 
 ## Jumpstream
 
-Los **jumpstreams** son streams que involucran [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump). Por lo general, el stream en sí se realiza en ajustes de 1/4, mientras que los jumps aterrizan en ajustes más altos. Este es el tipo de stream más común usado en osu!mania 4K.
+Los **jumpstreams** son streams que involucran [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump). Por lo general, el stream en sí se encuentra en un ajuste de 1/4, mientras que los jumps aterrizan en ajustes más lentos. Este es el tipo de stream más común usado en osu!mania 4K.
 
 ![](img/jumpstream.png)
 
@@ -28,7 +26,7 @@ Este término se usa principalmente en osu!mania 4K.
 
 ## Handstream
 
-Los **handstreams** son streams que involucran [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand), y también pueden involucrar jumps. Al igual que los jumpstreams, el stream en sí se realiza en ajustes de 1/4, mientras que los jumps aterrizan en ajustes más altos.
+Los **handstreams** son streams que involucran [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand), y también pueden involucrar jumps. Al igual que los jumpstreams, el stream en sí se realiza en ajustes de 1/4, mientras que los jumps aterrizan en ajustes más lentos.
 
 ![](img/handstream.png)
 

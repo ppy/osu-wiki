@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 41a843340cf5f06811843f750ddc7567614eb21e
----
-
 # Desbloqueo de cada medalla por primera vez
 
 Este es un compendio de los primeros usuarios que desbloquearon cada medalla en la historia de osu!.
@@ -281,7 +276,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/all-intro-conversion.png) | Gear Shift | ::{ flag=TH }:: [knoxnolia](https://osu.ppy.sh/users/33905840) | 25 de diciembre de 2024 (03:28:15) |
 | ![](/wiki/shared/medals/all-intro-fun.png) | Game Night | ::{ flag=US }:: [HelpMeImAwful](https://osu.ppy.sh/users/10011406) | 25 de diciembre de 2024 (03:28:10) |
 
-## Skill & Decication
+## Skill & Dedication
 
 |  | Medalla | Primera persona en desbloquearla | Fecha de desbloqueo (UTC) |
 | --: | :-- | :-- | :-- |
