@@ -111,7 +111,7 @@ MaximumBonusSpins = max(0, floor(maxRps * secondsDuration) - spinsRequired - 2 )
 ```
 
 | spinsRequired | MaximumBonusSpins | minRps | maxRps | OD |
-|---|---|---|---|---|
+| :-- | :-- | :-- | :-- | :-- |
 | 3 | 3 | 1.5 | 4.17 | 0 |
 | 3 | 3 | 1.6 | 4.38 | 0.5 |
 | 3 | 4 | 1.7 | 4.6 | 1 |
