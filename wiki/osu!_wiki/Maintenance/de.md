@@ -118,7 +118,7 @@ Mit einer oder mehreren Anweisungen unter der Beschreibung eines Pull Requests, 
 | `DO_NOT_OUTDATE: wiki/Pfad/zum/Artikel/es.md` | Überspringe eine Übersetzung. |
 | `DO_NOT_OUTDATE: wiki/Artikel` | Überspringe alle Übersetzungen des Artikels `Artikel`. |
 | `DO_NOT_OUTDATE: wiki/*/es.md` | Überspringe alle spanischen Übersetzungen. |
-| `DO_NOT_OUTDATE: wiki/{Artikel,Anderer_Artikel}/{es,jp}.md` | Überspringe spanische und japanische Übersetzungen der Artikel  `Artikel` und `Anderer Artikel`. |
+| `DO_NOT_OUTDATE: wiki/{Artikel,Anderer_Artikel}/{es,jp}.md` | Überspringe spanische und japanische Übersetzungen der Artikel `Artikel` und `Anderer Artikel`. |
 | `DO_NOT_OUTDATE: wiki/Artikel + wiki/Anderer_Artikel/es.md` | Kombiniere mehrere Regeln in einer Zeile. |
 
 Das Präfix `wiki/` kann zur besseren Übersichtlichkeit weggelassen werden.
