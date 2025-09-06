@@ -64,12 +64,12 @@ In order to complete a spinner, the game calculates the required `180` degrees r
 
 ```
 rotationRequirement = floor( SpinnerLength / 1000 * ( OD <= 5: (  OD * 0.4 + 3 )
-							                                        else:    ( (OD - 5) * 0.5 + 5 ) ) 
+                                                      else:    ( (OD - 5) * 0.5 + 5 ) ) 
 ```
 
 Using this formula and a 2 second long spinner, the game requires the following spins in order to clear them:
 | fullRotations | requiredHalfRotations | OD  |
-| ------------- | --------------------- | --- |
+| :-- | :-- | :-- |
 | 3 | 6 | 0 |
 | 3 | 6 | 0.5 |
 | 3 | 6 | 1 |
@@ -91,7 +91,6 @@ Using this formula and a 2 second long spinner, the game requires the following 
 | 7 | 14 | 9 |
 | 7 | 14 | 9.5 |
 | 7.5 | 15 | 10 |
-
 
 ### Lazer
 
@@ -136,3 +135,5 @@ MaximumBonusSpins = max(0, floor(maxRps * secondsDuration) - spinsRequired - 2 )
 | 7 | 5 | 3.75 | 7.17 | 10 |
 
 After hitting the maximum bonus spins, lazer will instead show a `MAX` in the top of the spinner on any further spins the player does.
+
+[osu!]: /wiki/shared/mode/osu.png "osu!"
