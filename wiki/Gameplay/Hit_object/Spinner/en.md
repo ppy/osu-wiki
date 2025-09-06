@@ -68,6 +68,7 @@ rotationRequirement = floor( SpinnerLength / 1000 * ( OD <= 5: (  OD * 0.4 + 3 )
 ```
 
 Using this formula and a 2 second long spinner, the game requires the following spins in order to clear them:
+
 | fullRotations | requiredHalfRotations | OD |
 | :-- | :-- | :-- |
 | 3 | 6 | 0 |
