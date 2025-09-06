@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
----
-
 # Verwaltung des osu!-Wikis
 
 *Siehe auch: [Beitragsleitfaden des osu!-Wikis](/wiki/osu!_wiki/Contribution_guide)*
@@ -72,7 +67,7 @@ Nachstehend findest du eine Tabelle mit allen CI-Kontrollen in der richtigen Rei
 | 2 | Markdown | [remark](https://github.com/remarkjs/remark) mit [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Ob die Markdown-Syntax in Wikiartikeln und Newsbeiträgen korrekt und einheitlich ist. | Füge `SKIP_REMARK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. Füge `<!-- lint ignore Regel -->` über der beanstandeten Zeile ein, um einen spezifischen Fehler dauerhaft zu unterdrücken. `Regel` ist dabei die Regel, die ignoriert werden soll. |
 | 3 | YAML | Befehl `check-yaml` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob die YAML-Syntax in der Datei [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) und in der [Titelsektion](/wiki/Article_styling_criteria/Formatting#titelsektion) korrekt und einheitlich ist. | Keine. |
 | 4 | Kaputte Wiki-Links | Befehl `check-links` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob interne [Wiki-Links](/wiki/Article_styling_criteria/Formatting#wiki-links) auf einen tatsächlichen Artikel, Newsbeitrag (für Newsbeitrag-Links) oder einen Abschnitt davon zeigen. | Füge `SKIP_WIKILINK_CHECK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. |
-| 5 | Nicht mehr aktuelle Übersetzungen | Befehl `check-outdated-articles` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob Übersetzungen korrekt als [nicht mehr aktuell gekennzeichnet](/wiki/Article_styling_criteria/Formatting#nicht-mehr-aktuelle-übersetzungen) werden, wenn ein englischer Artikel aktualisiert wird. | Füge `SKIP_OUTDATED_CHECK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. |
+| 5 | Nicht mehr aktuelle Übersetzungen | GitHub-Action ["Post-merge outdate processing"](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/post-merge-outdate.yml) | Kennzeichne nach der Migration von Änderungen unbearbeitete Übersetzungen von englischen Artikeln automatisch [als veraltet](/wiki/Article_styling_criteria/Formatting#nicht-mehr-aktuelle-übersetzungen). | Siehe [Nicht mehr aktuelle Übersetzungen](#nicht-mehr-aktuelle-übersetzungen). |
 
 ##### Lint-Regel [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) von remark für Markdown
 
@@ -110,11 +105,23 @@ Die Mitwirkenden werden bei der Aktualisierung von Artikeln dazu aufgefordert, f
 - Abschnitt verweist auf eine Übersetzung, für die der Abschnitt nicht existiert
 - Dateien verschieben (für Links, die bereits kaputt sind, nicht als Ergebnis daraus)
 
-##### Überwachung der nicht mehr aktuellen Übersetzungen
+##### Nicht mehr aktuelle Übersetzungen
 
 *Siehe auch: [Artikelgestaltungskriterien/Formatierung § Nicht mehr aktuelle Übersetzungen](/wiki/Article_styling_criteria/Formatting#nicht-mehr-aktuelle-übersetzungen) und [Artikelgestaltungskriterien/Schrift § Inhaltsparität](/wiki/Article_styling_criteria/Writing#inhaltsparität)*
 
-Das Überspringen der Prüfung auf veraltete Übersetzungen (und das Nichtmarkieren von Übersetzungen als veraltet) kann bei geringfügigen Umformulierungen, grammatikalischen Anpassungen und Ähnlichem erfolgen, die die Bedeutung des Artikels nicht beeinträchtigen.
+Bei geringfügigen Umformulierungen, grammatikalischen Anpassungen und Ähnlichem, die die Bedeutung des Artikels nicht beeinträchtigen, müssen Übersetzungen nicht als veraltet gekennzeichnet werden. In diesem Fall kann die automatische Kennzeichnung der Übersetzungen übersprungen werden.
+
+Mit einer oder mehreren Anweisungen unter der Beschreibung eines Pull Requests, jede in einer separaten Zeile, gibt man an, welche Dateien oder Artikel **nicht** als veraltet markiert werden sollen. Die folgenden Formate werden unterstützt:
+
+| Anweisung | Bedeutung |
+| :-- | :-- |
+| `DO_NOT_OUTDATE: wiki/Pfad/zum/Artikel/es.md` | Überspringe eine Übersetzung. |
+| `DO_NOT_OUTDATE: wiki/Artikel` | Überspringe alle Übersetzungen des Artikels `Artikel`. |
+| `DO_NOT_OUTDATE: wiki/*/es.md` | Überspringe alle spanischen Übersetzungen. |
+| `DO_NOT_OUTDATE: wiki/{Artikel,Anderer_Artikel}/{es,jp}.md` | Überspringe spanische und japanische Übersetzungen der Artikel  `Artikel` und `Anderer Artikel`. |
+| `DO_NOT_OUTDATE: wiki/Artikel + wiki/Anderer_Artikel/es.md` | Kombiniere mehrere Regeln in einer Zeile. |
+
+Das Präfix `wiki/` kann zur besseren Übersichtlichkeit weggelassen werden.
 
 ### Entwicklung
 
