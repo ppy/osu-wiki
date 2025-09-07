@@ -423,7 +423,7 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 
 #### Erlaubt, mit Ausnahmen
 
-Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
+Dieser Abschnitt wurde zuletzt am 1. September 2025 aktualisiert.
 
 | Künstler |  | Status | Bemerkungen |
 | :-- | :-- | :-- | :-- |
