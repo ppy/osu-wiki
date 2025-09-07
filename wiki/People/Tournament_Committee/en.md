@@ -151,9 +151,9 @@ For immediate assistance, join the [osu! Discord server](https://discord.gg/ppy)
 
 ## How can I help contribute?
 
-You can help the Tournament Committee by continuing to run excellent tournaments! If you have any issues or concerns regarding any aspect of a community tournament, we encourage you to bring these to our attention via the tournament reports form.
+You can help the Tournament Committee by continuing to run excellent tournaments! If you have any issues or concerns regarding any aspect of a community tournament, we encourage you to bring these to our attention via the [tournament reports form](https://tcomm.hivie.tn/reports/create).
 
-Those who are interested in joining the Tournament Committee may express their interest by sending an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh), where requests are forwarded to the committee. Successful candidates are expected to have a significant breadth of experience in the tournament scene, either as a player or staff.
+Those who are interested in joining the committee should read through [adding new members](#adding-new-members) to learn about the team's expectations and application process.
 
 ## Benefits
 
