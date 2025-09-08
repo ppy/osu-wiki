@@ -156,7 +156,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
   3. [Ruby My Dear - Saint Patron (Abraxos, \[Crz\]FolAH1217) \[Last Tango in Paris\]](https://osu.ppy.sh/beatmapsets/2431994#mania/5298336)
 - Long Note
   1. [Kikuo - Missing, Missing (MyZterioN-, Hylotl) \[guru guru\~\]](https://osu.ppy.sh/beatmapsets/2431995#mania/5298337)
-  2. *Lime - Pixel Planet (Toaph Daddy) \[8-bit Voyager\] (link pending)*
+  2. [Lime - Pixel Planet (Toaph Daddy) \[8-bit Voyager\]](https://osu.ppy.sh/beatmapsets/2432101#mania/5298628)
   3. [Marmalade butcher - SIX BILLION MNSN (\[Crz\]Crysarlene) \[YOMI NO KUNI\]](https://osu.ppy.sh/beatmapsets/2432002#mania/5298351)
   4. [Camellia - The Cat Evolved Into The Microwave-proof Cat! (Silicosis 2) \[Crazy Genetics (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2431872#mania/5298044)
 - Tiebreaker
