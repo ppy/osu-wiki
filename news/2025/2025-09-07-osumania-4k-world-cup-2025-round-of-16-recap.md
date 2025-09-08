@@ -68,7 +68,7 @@ Another round, another [osu! original](/wiki/Community/Bespoke_music)! This time
 | Germany ::{ flag=DE }:: | 0 | **5** | ::{ flag=ID }:: **Indonesia** |
 | **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=MY }:: Malaysia |
 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=JP }:: **Japan** |
-| Denmark ::{ flag=DE }:: | 0 | **5** | ::{ flag=ES }:: **Spain** |
+| Denmark ::{ flag=DK }:: | 0 | **5** | ::{ flag=ES }:: **Spain** |
 | **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=PE }:: Peru |
 | **United Kingdom** ::{ flag=GB }:: | **5** | 2 | ::{ flag=AR }:: Argentina |
 | **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=IT }:: Italy |
