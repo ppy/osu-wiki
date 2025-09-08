@@ -15,6 +15,8 @@ While not all of these songs are officially licensed and included in the [Featur
 
 Conversely, all other songs in this list are not officially licensed by the game and may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines) for more information.
 
+<!--Due to the ever-expanding nature of this list, updates to this page are done through an external spreadsheet (https://docs.google.com/spreadsheets/d/1o--KQKvNF9JtmZmTGuzN6KyBpFwoQDr98TWRHhrzh-E) instead of directly on the wiki. If you’d like to add a song or request a change, please reach out to one of the wiki maintainers rather than submitting a pull request.-->
+
 ## Statistics
 
 There is currently a total of **1089** documented songs made within osu!.
