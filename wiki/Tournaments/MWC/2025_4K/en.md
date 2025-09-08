@@ -139,7 +139,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ### Semifinals
 
-**[Download the mappack here (135 MB)](https://packs.ppy.sh/P298%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Semifinals.zip)**\
+**[Download the mappack here (135 MB)](https://packs.ppy.sh/P298%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Semifinals.zip?1757300228)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2560783222?t=4m35s)
 
 - Rice
