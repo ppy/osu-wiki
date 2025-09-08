@@ -139,7 +139,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ### Semifinals
 
-**[Download the mappack here (135 MB)](https://packs.ppy.sh/P298%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Semifinals.zip)**\
+**[Download the mappack here (135 MB)](https://packs.ppy.sh/P298%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Semifinals.zip?1757300228)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2560783222?t=4m35s)
 
 - Rice
@@ -156,7 +156,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
   3. [Ruby My Dear - Saint Patron (Abraxos, \[Crz\]FolAH1217) \[Last Tango in Paris\]](https://osu.ppy.sh/beatmapsets/2431994#mania/5298336)
 - Long Note
   1. [Kikuo - Missing, Missing (MyZterioN-, Hylotl) \[guru guru\~\]](https://osu.ppy.sh/beatmapsets/2431995#mania/5298337)
-  2. *Lime - Pixel Planet (Toaph Daddy) \[8-bit Voyager\] (link pending)*
+  2. [Lime - Pixel Planet (Toaph Daddy) \[8-bit Voyager\]](https://osu.ppy.sh/beatmapsets/2432101#mania/5298628)
   3. [Marmalade butcher - SIX BILLION MNSN (\[Crz\]Crysarlene) \[YOMI NO KUNI\]](https://osu.ppy.sh/beatmapsets/2432002#mania/5298351)
   4. [Camellia - The Cat Evolved Into The Microwave-proof Cat! (Silicosis 2) \[Crazy Genetics (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2431872#mania/5298044)
 - Tiebreaker
