@@ -54,7 +54,8 @@ Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) 
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/238)
-- [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus) [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
+- [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
+- [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
 - [Contest update #2](https://osu.ppy.sh/home/news/2025-06-03-locus-2025-update-2)
 - [Voting announcement](https://osu.ppy.sh/home/news/2025-08-01-locus-2025-voting-open)
 - [Voting announcement VOD at COE](https://www.twitch.tv/videos/2528089150?t=02h32m33s)
@@ -180,9 +181,9 @@ This contest has come to an end and resulted in the following podium:
 | 41 | Limerence | [airlemoneX - Be with you](https://osu.ppy.sh/beatmapsets/2412323) | **3752.4** | 1443.7 | 1449.7 | 859 | 117 |
 | 42 | Shiny morning | [ZxKirara feat. Shian - Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) | **3722.2** | 1223.3 | 1332.6 | 1166.4 | 120 |
 
-### Graphic category results
+### Graphics category results
 
-| # | Entry | Graphic Elo | Win rate[^win-rate] |
+| # | Entry | Graphics Elo | Win rate[^win-rate] |
 | :-: | :-- | --: | --: |
 | 1 | [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) | 1815.1 | 81% |
 | 2 | [ArXe - Locus Amoenus (feat. Megurine Luka)](https://osu.ppy.sh/beatmapsets/2412292) | 1807.2 | 81% |
