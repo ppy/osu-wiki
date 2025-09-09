@@ -93,6 +93,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=_FOeVts_dVs) [Koto Spirit - Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260)
 
 |  |  |
@@ -118,6 +120,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of takehirotei - Haiboku no Altra Vita](img/banners/Haiboku_no_Altra_Vita.jpg)](https://osu.ppy.sh/beatmapsets/2412331)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=wjntf6P2ANg) [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331)
 
@@ -145,6 +149,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [Will Stetson - Of Our Time](https://osu.ppy.sh/beatmapsets/2412232)
 
 |  |  |
@@ -170,6 +176,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Akiri - Vespera Stella](img/banners/Vespera_Stella.jpg)](https://osu.ppy.sh/beatmapsets/2412328)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/akiwimoosic/vesperastella) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=nRU9TzPEhpI) [Akiri - Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328)
 
@@ -197,6 +205,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=YckVPkTRuYY) [ArXe - Locus Amoenus (feat. Megurine Luka)](https://osu.ppy.sh/beatmapsets/2412292)
 
 |  |  |
@@ -222,6 +232,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of kanase. - Lost Night Meteor](img/banners/Lost_Night_Meteor.jpg)](https://osu.ppy.sh/beatmapsets/2412691)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [kanase. - Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691)
 
@@ -249,6 +261,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [nm-y - Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263)
 
 |  |  |
@@ -275,6 +289,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=UU-kEJxTtrI) [kanemiko - distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247)
 
 |  |  |
@@ -299,6 +315,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Kry.exe - Rift Walker](img/banners/Rift_Walker.jpg)](https://osu.ppy.sh/beatmapsets/2412244)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=U9z4Jsk2uDU) [Kry.exe - Rift Walker](https://osu.ppy.sh/beatmapsets/2412244)
 
@@ -326,6 +344,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=G2RD126uK0A) [Juwubi - H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255)
 
 |  |  |
@@ -352,6 +372,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://youtu.be/TY0s7ymvMLk) [nominomu - against cacophony (feat. Mai)](https://osu.ppy.sh/beatmapsets/2412236)
 
 |  |  |
@@ -376,6 +398,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Redside - First Adventure](img/banners/First_Adventure.jpg)](https://osu.ppy.sh/beatmapsets/2412285)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/redside100/first-adventure) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=8usy6IkRB2Y) [![Spotify](/wiki/shared/link/Spotify.png "Spotify")](https://open.spotify.com/track/4PryQ03yeZjJ0MmmUVUsXV) [Redside - First Adventure](https://osu.ppy.sh/beatmapsets/2412285)
 
@@ -403,6 +427,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2412277)
 
 |  |  |
@@ -420,12 +446,14 @@ This contest has come to an end and resulted in the following podium:
 | :-- | :-- |
 | **Team name** | s-sigma... |
 | **Mapper / storyboarder** | ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266) |
-| **Musician** | ::{ flag=US }:: [_Xyris_](https://osu.ppy.sh/users/11246193) |
+| **Musician** | ::{ flag=US }:: [\_Xyris_](https://osu.ppy.sh/users/11246193) |
 | **Illustrator** | ::{ flag=PH }:: [Danimato](https://osu.ppy.sh/users/23541645) |
 
 [![Artwork of Fox Rush - Paint The Ocean Blue (feat. Cassylish)](img/banners/Paint_The_Ocean_Blue_(feat._Cassylish).jpg)](https://osu.ppy.sh/beatmapsets/2412259)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [Fox Rush - Paint The Ocean Blue (feat. Cassylish)](https://osu.ppy.sh/beatmapsets/2412259)
 
@@ -453,6 +481,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [MetaHumanBoi - kinetic flux](https://osu.ppy.sh/beatmapsets/2412316)
 
 |  |  |
@@ -478,6 +508,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Krimek - Dahlia (feat. eili)](img/banners/Dahlia_(feat._eili).jpg)](https://osu.ppy.sh/beatmapsets/2412294)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=knjt6gPUQmY) [Krimek - Dahlia (feat. eili)](https://osu.ppy.sh/beatmapsets/2412294)
 
@@ -505,6 +537,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=K8FD7MF1qaI) [Cityyy - Asphyxia](https://osu.ppy.sh/beatmapsets/2412274)
 
 |  |  |
@@ -530,6 +564,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Xeven - Become One Again (feat. Hatsune Miku)](img/banners/Become_One_Again_(feat._Hatsune_Miku).jpg)](https://osu.ppy.sh/beatmapsets/2412365)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [Xeven - Become One Again (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/2412365)
 
@@ -557,6 +593,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/furtrash/long-live-the-king) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=3eR9n0f5D0E) [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245)
 
 |  |  |
@@ -582,6 +620,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of WangleLine - Super Kitten Travel Hex](img/banners/Super_Kitten_Travel_Hex.jpg)](https://osu.ppy.sh/beatmapsets/2412252)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=DCbPJCtC9RU) [![Bandcamp](/wiki/shared/link/Bandcamp.png "Bandcamp")](https://wangleline.bandcamp.com/track/super-kitten-travel-hex-from-osu-locus-2025) [WangleLine - Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252)
 
@@ -609,6 +649,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [Darkney - Prism Fall](https://osu.ppy.sh/beatmapsets/2412267)
 
 |  |  |
@@ -633,6 +675,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Star* aka liaoxingyao - Inochi](img/banners/Inochi.jpg)](https://osu.ppy.sh/beatmapsets/2412248)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [Star* aka liaoxingyao - Inochi](https://osu.ppy.sh/beatmapsets/2412248)
 
@@ -660,6 +704,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [aidolon - Replay](https://osu.ppy.sh/beatmapsets/2412321)
 
 |  |  |
@@ -684,6 +730,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](img/banners/Heart_of_Epitaph.jpg)](https://osu.ppy.sh/beatmapsets/2412283)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/part-lerts/locus-2025-viatores-nebulae-heart-of-epitaph-ft) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=Y2jSUwBdG6Y) [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283)
 
@@ -711,6 +759,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=jjuDeff7Mec) [trung-nova - Starry Comet](https://osu.ppy.sh/beatmapsets/2412271)
 
 |  |  |
@@ -737,6 +787,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270)
 
 |  |  |
@@ -761,6 +813,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Riprider - ENC0DED : ENTR0PY](img/banners/ENC0DED__ENTR0PY.jpg)](https://osu.ppy.sh/beatmapsets/2412246)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [Riprider - ENC0DED : ENTR0PY](https://osu.ppy.sh/beatmapsets/2412246)
 
@@ -788,6 +842,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=uzkaaUZBjNk) [Chamiracqua - The Epiphany (feat. smoothycloud)](https://osu.ppy.sh/beatmapsets/2412261)
 
 |  |  |
@@ -814,6 +870,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=xXmAgu0R0Ko) [rikvinyas - Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231)
 
 |  |  |
@@ -835,6 +893,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Aphel - Pondering Magic](img/banners/Pondering_Magic.jpg)](https://osu.ppy.sh/beatmapsets/2412293)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/aphel-733525754/pondering-magic) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=LBvgiMPUgUo) [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293)
 
@@ -861,6 +921,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346)
 
 |  |  |
@@ -885,6 +947,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Ttmouse - NatsuUtsu feat. Kasane Teto](img/banners/NatsuUtsu_feat._Kasane_Teto.jpg)](https://osu.ppy.sh/beatmapsets/2412239)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [Ttmouse - NatsuUtsu feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2412239)
 
@@ -912,6 +976,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=Nbh1eCinaWQ) [Attoclef ft. ∅ - EynohR](https://osu.ppy.sh/beatmapsets/2412250)
 
 |  |  |
@@ -937,6 +1003,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of sugosugiii - Maelstrom](img/banners/Maelstrom.jpg)](https://osu.ppy.sh/beatmapsets/2412254)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254)
 
@@ -964,6 +1032,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=22_KL86CCA4) [Artackni - Brainfryer](https://osu.ppy.sh/beatmapsets/2412287)
 
 |  |  |
@@ -989,6 +1059,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [Tufani - Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269)
 
 |  |  |
@@ -1013,6 +1085,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Tsukishiro feat. Inti - Neon Rebellion](img/banners/Neon_Rebellion.jpg)](https://osu.ppy.sh/beatmapsets/2412288)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [Tsukishiro feat. Inti - Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288)
 
@@ -1040,6 +1114,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [eluixx - untitled_1](https://osu.ppy.sh/beatmapsets/2412290)
 
 |  |  |
@@ -1066,6 +1142,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [Evangelion_guy - it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237)
 
 |  |  |
@@ -1087,6 +1165,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of Maemi no Yume - Free Your Heart](img/banners/Free_Your_Heart.jpg)](https://osu.ppy.sh/beatmapsets/2412235)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235)
 
@@ -1114,6 +1194,8 @@ This contest has come to an end and resulted in the following podium:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### [airlemoneX - Be with you](https://osu.ppy.sh/beatmapsets/2412323)
 
 |  |  |
@@ -1138,6 +1220,8 @@ This contest has come to an end and resulted in the following podium:
 [![Artwork of ZxKirara feat. Shian - Shiny Day Roam](img/banners/Shiny_Day_Roam.jpg)](https://osu.ppy.sh/beatmapsets/2412281)
 
 ::: Infobox
+
+<!-- lint ignore heading-increment -->
 
 #### [ZxKirara feat. Shian - Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281)
 
@@ -1193,7 +1277,7 @@ This contest has come to an end and resulted in the following podium:
 | 30 | [Tufani - Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) | 1378.1 | 36% |
 | 31 | [Tsukishiro feat. Inti - Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) | 1370.3 | 35% |
 | 32 | [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) | 1364.8 | 34% |
-| 33 | [Attoclef ft. Γêà - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1339.4 | 30% |
+| 33 | [Attoclef ft. ∅ - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1339.4 | 30% |
 | 34 | [rikvinyas - Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231) | 1328.4 | 30% |
 | 35 | [Ttmouse - NatsuUtsu feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2412239) | 1323.5 | 30% |
 | 36 | [Riprider - ENC0DED : ENTR0PY](https://osu.ppy.sh/beatmapsets/2412246) | 1319.3 | 28% |
@@ -1242,7 +1326,7 @@ This contest has come to an end and resulted in the following podium:
 | 32 | [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270) | 1418.6 | 40% |
 | 33 | [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) | 1413 | 38% |
 | 34 | [Tufani - Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) | 1403.1 | 38% |
-| 35 | [Attoclef ft. Γêà - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1386.8 | 35% |
+| 35 | [Attoclef ft. ∅ - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1386.8 | 35% |
 | 36 | [eluixx - untitled_1](https://osu.ppy.sh/beatmapsets/2412290) | 1384.2 | 35% |
 | 37 | [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) | 1379.9 | 34% |
 | 38 | [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346) | 1364.7 | 33% |
@@ -1285,7 +1369,7 @@ This contest has come to an end and resulted in the following podium:
 | 28 | [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) | 1473.6 | 46% |
 | 29 | [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) | 1465.6 | 44% |
 | 30 | [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) | 1464.9 | 45% |
-| 31 | [Attoclef ft. Γêà - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1456.1 | 43% |
+| 31 | [Attoclef ft. ∅ - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1456.1 | 43% |
 | 32 | [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346) | 1450.8 | 42% |
 | 33 | [Ttmouse - NatsuUtsu feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2412239) | 1445.9 | 42% |
 | 34 | [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270) | 1438.8 | 41% |
