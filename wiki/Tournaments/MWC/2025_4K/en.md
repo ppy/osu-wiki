@@ -115,31 +115,31 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=PE }:: Peru | [Sep 13 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T040000&p1=1440&p2=235&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=PH }:: Philippines | [Sep 13 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T110000&p1=1440&p2=102&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=ID }:: Indonesia | [Sep 13 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T130000&p1=1440&p2=95&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Sep 13 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T140000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Vietnam ::{ flag=VN }:: | ::{ flag=ID }:: Indonesia | [Sep 13 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T093000&p1=1440&p2=95&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=PH }:: Philippines | [Sep 13 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T130000&p1=1440&p2=102&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=TH }:: Thailand | [Sep 13 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T150000&p1=1440&p2=188&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Sep 13 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T210000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
 ### Sunday, 14 September 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Sep 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T100000&p1=1440&p2=235&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=CA }:: Canada | [Sep 14 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T020000&p1=1440&p2=145&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Sep 14 (Sun) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T093000&p1=1440&p2=235&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=ID }:: Indonesia | [Sep 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T100000&p1=1440&p2=235&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=TH }:: Thailand | [Sep 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T120000&p1=1440&p2=102&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Philippines ::{ flag=PH }:: | ::{ flag=TH }:: Thailand | [Sep 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T120000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=TH }:: Thailand | [Sep 14 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T130000&p1=1440&p2=102&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Sep 14 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T133000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Peru ::{ flag=PE }:: | ::{ flag=VN }:: Vietnam | [Sep 14 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T143000&p1=1440&p2=131&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=CA }:: Canada | [Sep 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T150000&p1=1440&p2=102&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=CA }:: Canada | [Sep 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T150000&p1=1440&p2=145&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Peru ::{ flag=PE }:: | ::{ flag=VN }:: Vietnam | [Sep 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T160000&p1=1440&p2=131&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Peru ::{ flag=PE }:: | ::{ flag=ID }:: Indonesia | [Sep 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T160000&p1=1440&p2=131&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Sep 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T180000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Finals | mappool showcase | [Sep 14 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Finals | mappool showcase | [Sep 14 (Sun) 19:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250914T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
 ### Semifinals
 
-**[Download the mappack here (135 MB)](https://packs.ppy.sh/P298%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Semifinals.zip?1757300228)**\
+**[Download the mappack here (135 MB)](https://packs.ppy.sh/P298%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Semifinals.zip?1757548303)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2560783222?t=4m35s)
 
 - Rice
