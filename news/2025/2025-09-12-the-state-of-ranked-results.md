@@ -90,7 +90,7 @@ What caught our attention the most out of these numbers (particularly in osu!) w
 ## Glossing over the comments
 
 <style>
-    .news-chat-quote__avatar {
+    .news-chat-quote__mode-icon {
         float: left;
         width: 40px;
         height: 40px;
@@ -103,7 +103,7 @@ What caught our attention the most out of these numbers (particularly in osu!) w
         margin-left: 50px;
     }
 
-    .news-chat-quote__username {
+    .news-chat-quote__mode-name {
         font-weight: 600;
         margin-bottom: 2px;
     }
@@ -120,15 +120,15 @@ Beyond the numerical results we've been able to extract from the survey, there h
 
 <div class="news-chat-quote__text-container">
 
-<i class="fal fa-extra-mode-osu news-chat-quote__avatar"></i>
+<i class="fal fa-extra-mode-osu news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!</p>
 
 i think it'd be cooler if BNs personally curated what maps they nominated more, since that'd imply that ranked maps are the best of the best for each BN rather than some realistically undefinable quality metric. the mapping community already hates being restricted from nominating 100 maps every 3 months or whatever so my desire is very unaligned there lol
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/mania.png')"></p>
+<i class="fal fa-extra-mode-mania news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!mania</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!mania</p>
 
 Hard to define quality. I do believe the name of the game here is variety. What one believes is of quality may not be the same as what another player may think. So long we have an influx of varied yet fun maps for a wide variety of songs, styles, and keymodes, we should be golden.
 
@@ -138,15 +138,15 @@ Hard to define quality. I do believe the name of the game here is variety. What 
 
 <div class="news-chat-quote__text-container">
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/taiko.png')"></p>
+<i class="fal fa-extra-mode-taiko news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!taiko</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!taiko</p>
 
 We lack of everything. What we mostly lack are motivated community member wishing to learn modding. Most people motivated to mod, are the one that are motivated to become a BN. There's nothing wrong with that, but once that member fail a test or two, he most likely will stop modding.
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/catch.png')"></p>
+<i class="fal fa-extra-mode-fruits news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!catch</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!catch</p>
 
 Given this is the smallest mode for overall mapping, BNs, Nats, and players all in one, it does come down to bringing in that right amount of quality for everyone. This could mean more eyes on qualified; a stronger push for players/mappers/modders to check qualified and mod issues.
 
@@ -156,31 +156,30 @@ Given this is the smallest mode for overall mapping, BNs, Nats, and players all 
 
 <div class="news-chat-quote__text-container">
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/osu.png')"></p>
+<i class="fal fa-extra-mode-osu news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!</p>
 
 Might be a boomer take but ranked has lost all meaning imo, and its blandness is part of what motivated me to not look at new ranked maps unless they’re personally recommended to me. In 2018ish, during modding v1, ranked used to not only focus on whether or not something *could* be ranked, but would also be focused on polish, enjoyment, player perspective, and other small factors that would be considered trivial today, yet make a noticeable difference in the quality of the map. When i was active, i would often see strong suggestions being dismissed as “suggestive.” I feel like this shift in ranking mentality came on slowly ever since the was a shift in focus in allowing heavily stylistic maps that may have been aesthetically abstract or unaccessible (late UC era, not assuming those maps are bad). Now that we better understand the limits of the editor and what late modern mapping experimentation looks like, we are overdue to reupholster these standards that have been lost. In any creative role outside of osu, one will more than likely find themselves changing aspects of their project in a way that goes against their creative spirit in order to add appeal, accessibility, or make it more publisher-friendly. There should be an acceptance towards that in the ranking process as well.
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/taiko.png')"></p>
+<i class="fal fa-extra-mode-taiko news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!taiko</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!taiko</p>
 
 While 2023-2024 weren't great years either (thanks colour rework for discouraging creativity ESPECIALLY in metal maps), we hadn't been plagued as much by russian hyperpop / tiktok cut ver. maps, maps being let through with lots of room to improve (which I blame the BNs for regarding quality standards and has been a running issue for years), new mappers not being encouraged to improve past their first ranked map or two, resulting in dozens of poorly made ranked maps, or otherwise low effort, with some BNs clearly not caring at all.
 
 As a long-standing player, mapper, modder and former BN it's just gotten tiresome and saddening to look at. There's always been some new face showing potential to become a great mapper every year for the longest time, but so far, after the first half of 2025 there hasn't been much of anything yet.
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/catch.png')"></p>
-
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!catch</p>
+<i class="fal fa-extra-mode-fruits news-chat-quote__mode-icon"></i>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!catch</p>
 
 While I would love for qualified maps to go through more eyes, I believe that due to the current modding meta it won't cause any meaningful improvements. Almost every high level map is ranked with notable issues with gameplay (most commonly bad balancing, rhythm and note grouping), but this is not something modders focus on and not something that the NAT pushes for modders to learn about.
 
 Why I selected "no" instead of "neutral"? Catch modders also struggle to recognize rhythm simplification (and when to use it), improvisation and variety in things other than patterning. Because of that, they will often post suggestions that make the experience significantly worse.
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/mania.png')"></p>
+<i class="fal fa-extra-mode-mania news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!mania</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!mania</p>
 
 There's been amazing progress these years, elitism isn't as prevalent and there's more freedom to what can be ranked, only thing I'd mention is to either remove or revamp the rating system, as it is it is outdated, mostly being weaponized for personal reasons, and when it's not it doesn't serve much purpose to what one can expect of a chart and its qualities, when it comes to showing popularity against a general public favorites already serve that same purpose within an even higher degree as it is more limited to players, and of course isn't hidden at the bottom of the scorescreen
 
@@ -192,31 +191,31 @@ I do believe this would ease tensions between playerbases, as if there's any pro
 
 <div class="news-chat-quote__text-container">
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/osu.png')"></p>
+<i class="fal fa-extra-mode-osu news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!</p>
 
 For the most part I appreciate how diverse the ranked section is now compared to many years ago, but when maps that are made to be the “least path of resistance” to attaining pp in the most glaringly obvious ways appear every other day it becomes disheartening. These same mappers and nominators responsible like to exhaust the people making quality concerns by jumping through hundreds of hoops to justify low quality jump mapping. Personally I don’t contribute to these discussions because fundamental disagreement doesn’t go anywhere and then there’s nobody left to let their concerns have any effect on the ranking process.
 
 With more relaxed standards set by the NAT and top players having more influence on what the “trendy” maps are (think mrekk asking for more aimslop on Twitter / mappers directly mapping for the strengths of certain top players), maybe it’s just the majority of the community growing away from genuine interest and being streamlined.
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/taiko.png')"></p>
+<i class="fal fa-extra-mode-taiko news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!taiko</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!taiko</p>
 
 very very bad now, the ratio of maps that barely even made the cut in terms of quality (coupled with the song choice/variety thing mentioned above) to good maps are way higher than before - good maps are being buried down by quick attention grab and playcounts are consistently being diluted down in a gamemode that barely has active players attempting now, rarely you will see a map with top diff actually filled up with over 50 scores (bare minimum to fill up the leaderboard) and yet people are still ranking so many maps as if there was even a demand to begin with
 
 lots of filler maps that are made with bare minimum of efforts, many "failed experimentation" (maps with interesting ideas but bad execution, or just straight up bad ideas in general - being pushed for just the sake of "promoting creativity" or not be wasted because they are winners of mapping contest or whatever that means), and maps that forgo playability/sightreadability in mind just because they wanted to be "creative"
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/catch.png')"></p>
+<i class="fal fa-extra-mode-fruits news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!catch</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!catch</p>
 
 Current ranked system has most maps feeling the same. A lot of the same patterns/gimmicks over and over and the quality within the maps itself is only falling. Lately there is also a loss in creativity as sounds are emphasized the same way across many maps, i.e hyperchains and 1/8s are used almost always in every deluge+ difficulty without fail within this last yr
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/mania.png')"></p>
+<i class="fal fa-extra-mode-mania news-chat-quote__mode-icon"></i>
 
-<p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!mania</p>
+<p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!mania</p>
 
 I think there used to be too many restrictions in what is rankable or not in the past but at the moment the ranked status allows everything that should be allowed. Although i think that there are some instances of "quality control" that shouldn't get the chart disallowed from ranked. (a great example is monheim's joker chart)
 
