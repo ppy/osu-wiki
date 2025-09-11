@@ -114,9 +114,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=PE }:: Peru | [Sep 13 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T040000&p1=1440&p2=235&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Vietnam ::{ flag=VN }:: | ::{ flag=ID }:: Indonesia | [Sep 13 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T093000&p1=1440&p2=95&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=PH }:: Philippines | [Sep 13 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T130000&p1=1440&p2=102&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PE }:: Peru | [Sep 13 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T123000&p1=1440&p2=235&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=PH }:: Philippines | [Sep 13 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T130000&p1=1440&p2=102&p3=145) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=TH }:: Thailand | [Sep 13 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T150000&p1=1440&p2=188&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Sep 13 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250913T210000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
