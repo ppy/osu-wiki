@@ -72,7 +72,7 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 ### Contest rules
 
 - **This contest is for the `osu!mania` mode only.**
-- **This contest is for Chinese players only, including players with the flags of ::{ flag=CN }:: Chinese mainland, ::{ flag=HK }:: Hong Kong, ::{ flag=MO }:: Macao, and ::{ flag=TW }:: Taiwan eligible for participation.** If your flags aren't those four but actually it, you can participate this contest if player can prove that.
+- **This contest is for Chinese players only, including players with the flags of ::{ flag=CN }:: Chinese mainland, ::{ flag=HK }:: Hong Kong, ::{ flag=MO }:: Macao, and ::{ flag=TW }:: Taiwan eligible for participation.**
 - **Your account must be valid and can log in [Mappers' Guild](https://mappersguild.com).**
 - **Submissions must be in the `.osz` format.**
 - **The osu! client must be able to load and read your submission.**
