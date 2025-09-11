@@ -12,10 +12,10 @@ First things first, we want to thank everyone who took the time to participate i
 
 But first, let's put engagement into numbers. Here's a list with all (verified) participants per mode:
 
-- **osu!:**
-- **osu!taiko:**
-- **osu!catch:**
-- **osu!mania:**
+- **osu!:** 7,394
+- **osu!taiko:** 623
+- **osu!catch:** 437
+- **osu!mania:** 1,972
 
 ## Results
 
