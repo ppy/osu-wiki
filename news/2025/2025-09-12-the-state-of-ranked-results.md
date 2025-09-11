@@ -96,6 +96,7 @@ What caught our attention the most out of these numbers (particularly in osu!) w
         height: 40px;
         border-radius: 50%;
         margin-left: -50px;
+        font-size: 40px;
     }
 
     .news-chat-quote__text-container {
