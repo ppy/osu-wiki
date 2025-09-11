@@ -95,7 +95,7 @@ What caught our attention the most out of these numbers (particularly in osu!) w
         width: 35px;
         height: 35px;
         border-radius: 50%;
-        margin-left: -40px;
+        margin-left: -50px;
         font-size: 35px;
     }
 
