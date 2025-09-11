@@ -119,7 +119,7 @@ Beyond the numerical results we've been able to extract from the survey, there h
 
 <div class="news-chat-quote__text-container">
 
-<p class="avatar news-chat-quote__avatar" style="background-image: url('/wiki/shared/mode/osu.png')"></p>
+<div class="avatar news-chat-quote__avatar"><i class="fal fa-extra-mode-osu"></i></div>
 
 <p class="news-chat-quote__username news-chat-quote__colour-no-group">osu!</p>
 
