@@ -159,7 +159,7 @@ Beyond the numerical results we've been able to extract from the survey, there h
 
 <p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!</p>
 
-*Might be a boomer take but Ranked has lost all meaning imo, and its blandness is part of what motivated me to not look at new ranked maps unless they're personally recommended to me. In 2018-ish, during modding v1, Ranked used to not only focus on whether or not something _could_ be ranked, but would also be focused on polish, enjoyment, player perspective, and other small factors that would be considered trivial today, yet make a noticeable difference in the quality of the map. When I was active, I would often see strong suggestions being dismissed as "suggestive". I feel like this shift in ranking mentality came on slowly ever since there was a shift in focus in allowing heavily stylistic maps that may have been aesthetically abstract or unaccessible (late UC era, not assuming those maps are bad).*
+*Might be a boomer take but Ranked has lost all meaning imo, and its blandness is part of what motivated me to not look at new ranked maps unless they're personally recommended to me. In 2018-ish, during modding v1, Ranked used to not only focus on whether or not something \*could\* be ranked, but would also be focused on polish, enjoyment, player perspective, and other small factors that would be considered trivial today, yet make a noticeable difference in the quality of the map. When I was active, I would often see strong suggestions being dismissed as "suggestive". I feel like this shift in ranking mentality came on slowly ever since there was a shift in focus in allowing heavily stylistic maps that may have been aesthetically abstract or unaccessible (late UC era, not assuming those maps are bad).*
 
 *Now that we better understand the limits of the editor and what late modern mapping experimentation looks like, we are overdue to reupholster these standards that have been lost. In any creative role outside of osu!, one will more than likely find themselves changing aspects of their project in a way that goes against their creative spirit in order to add appeal, accessibility, or make it more publisher-friendly. There should be an acceptance towards that in the ranking process as well.*
 
@@ -172,6 +172,7 @@ Beyond the numerical results we've been able to extract from the survey, there h
 *As a long-standing player, mapper, modder, and former BN it's just gotten tiresome and saddening to look at. There's always been some new face showing potential to become a great mapper every year for the longest time, but so far, after the first half of 2025 there hasn't been much of anything yet.*
 
 <i class="fal fa-extra-mode-fruits news-chat-quote__mode-icon"></i>
+
 <p class="news-chat-quote__mode-name news-chat-quote__colour-no-group">osu!catch</p>
 
 *While I would love for qualified maps to go through more eyes, I believe that due to the current modding meta it won't cause any meaningful improvements. Almost every high level map is ranked with notable issues with gameplay (most commonly bad balancing, rhythm and note grouping), but this is not something modders focus on and not something that the NAT pushes for modders to learn about.*
