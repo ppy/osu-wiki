@@ -1,24 +1,23 @@
 ---
 no_native_review_since: 3e13544563f9c2c5e457eb1b87128f8219535ad9
-outdated_translation: true
-outdated_since: 508a002bf0586beff3ba1c9ee3fb052d97898029
 ---
 
-# Melaporkan perbuatan yang tidak pantas
+# Melaporkan perilaku yang tidak pantas
 
-osu! memiliki [tim moderator](/wiki/People/Global_Moderation_Team) yang berkomitmen untuk menjaga permainan osu! beserta ekosistemnya bersih dan aman. Apabila kamu menemukan perbuatan yang melanggar peraturan atau konten yang tidak pantas, mohon laporkan hasil temuanmu melalui salah satu jalur laporan yang tertera di bawah ini. Di samping itu, kamu juga dapat menghubungi salah satu moderator yang sedang *online* secara langsung apabila laporanmu belum ditanggapi setelah sekian waktu — mohon lakukan hal ini hanya sebagai upaya terakhirmu.
+osu! memiliki tim moderator khusus, [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT), yang bertugas untuk menjaga permainan ini beserta lingkungannya tetap bersih dan aman. Apabila kamu menemukan perilaku yang menyimpang atau konten yang tidak pantas, laporkan hasil temuanmu melalui salah satu jalur pelaporan di bawah ini. Sebagai alternatif, kamu juga dapat menghubungi salah satu moderator yang sedang online secara langsung apabila laporanmu belum ditanggapi setelah sekian waktu — mohon lakukan hal ini hanya sebagai upaya terakhirmu.
 
-Laporan yang terkirim secara tidak sengaja akan diabaikan. Meskipun demikian, para pengguna yang sengaja mengirimkan laporan palsu akan terancam untuk di-*[silence](/wiki/Silence)*.
+Laporan yang terkirim secara tidak sengaja akan diabaikan. Meskipun demikian, pengguna yang dengan sengaja mengirimkan laporan palsu akan terancam untuk di-[silence](/wiki/Silence).
 
 ## Kasus khusus
 
 | Jenis pelanggaran | Pihak yang dapat dihubungi |
 | :-- | :-- |
-| Upaya *scamming*/*phishing* di dalam pesan pribadi | Kirimkan laporan seperti biasa |
-| Pesan pribadi lainnya yang bersifat menghina/tidak pantas | **Tidak ada**: mohon [abaikan pengguna tersebut](/wiki/Client/Interface/Chat_console#daftar-perintah). Untuk mengabaikan seseorang secara permanen, gunakan fitur daftar pengabaian (*ignore list*) yang terdapat pada menu [Options](/wiki/Client/Options) atau blokir pengguna tersebut melalui tombol yang ada pada halaman profil mereka. |
-| Perilaku yang tidak pantas dari anggota [BN](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), melalui situs web [NAT/BN Management](https://bn.mappersguild.com/reports) |
+| Upaya scamming/phishing di dalam pesan pribadi | Kirimkan laporan seperti biasa |
+| Pesan pribadi lainnya yang bersifat menghina/tidak pantas | **Tidak ada**: mohon [abaikan pengguna ini](/wiki/Client/Interface/Chat_console#daftar-perintah). Untuk mengabaikan seseorang secara permanen, gunakan fitur daftar abai (*ignore list*) yang terdapat pada menu [Options](/wiki/Client/Options) atau blokir pengguna ini melalui tombol yang terdapat pada halaman profil mereka. |
+| Konten yang tidak pantas dalam beatmap [Ranked](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) atau [GMT](/wiki/People/Global_Moderation_Team), melalui situs web [BN Management](https://bn.mappersguild.com/reports) |
+| Perilaku yang tidak pantas dari anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), melalui situs web [BN Management](https://bn.mappersguild.com/reports) |
 | Perilaku yang tidak pantas dari anggota [NAT](/wiki/People/Nomination_Assessment_Team) atau [GMT](/wiki/People/Global_Moderation_Team) | [Tim dukungan akun](/wiki/People/Account_support_team) melalui [support@ppy.sh](mailto:support@ppy.sh) |
-| Pelecehan seksual atau perilaku menyimpang yang berlebihan | Mohon rujuk artikel [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) |
+| Pelecehan seksual atau perilaku menyimpang yang berlebihan | Rujuk artikel [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Untuk segala bentuk pelanggaran lainnya, mohon ikuti instruksi di bawah ini.
 
@@ -28,7 +27,7 @@ Untuk segala bentuk pelanggaran lainnya, mohon ikuti instruksi di bawah ini.
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-Obrolan yang tidak pantas merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkan hal ini, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesanmu hanya akan dapat dilihat oleh para moderator** tanpa diketahui oleh para pengguna lainnya. Di samping itu, kamu juga dapat melapor melalui [menu dalam permainan](#menu-dalam-permainan) sebagaimana yang dijelaskan di bawah apabila kamu masih merasa ragu.
+Obrolan yang menyimpang di dalam chat merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkan hal ini, gunakan [perintah `!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran ini terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesanmu hanya akan dapat dilihat oleh para moderator** tanpa diketahui oleh para pengguna lainnya. Di samping itu, kamu juga dapat melapor melalui [menu dalam permainan](#menu-dalam-permainan) sebagaimana yang dijelaskan di bawah apabila kamu masih merasa ragu.
 
 Perintah ini dapat dikirim baik dengan mau pun tanpa penjelasan lebih lanjut sebagai berikut:
 
@@ -111,3 +110,7 @@ Metode ini dapat digunakan apabila pengguna yang melanggar berada tepat di hadap
 1. Layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
 2. Pada ujung kanan bilah skor, klik tombol titik tiga yang muncul dan pilih `Laporkan Skor`.
 3. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
+
+## Rujukan
+
+[^invalid-reports]: Tidak seperti kategori lainnya, beatmap Ranked tidak dapat dilaporkan melalui situs web.

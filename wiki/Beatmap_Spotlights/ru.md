@@ -8,6 +8,8 @@ tags:
   - чарт
   - чарты
   - ранкинг-чарты
+outdated_translation: true
+outdated_since: 4e8396611b85a8579afd4cbed4d7ff290c1a3707
 ---
 
 # Beatmap Spotlights

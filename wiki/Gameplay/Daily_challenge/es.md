@@ -13,7 +13,7 @@ Desde el menú principal, se puede acceder al menú del desafío diario con los 
 1. Haz clic en el botón `jugar` o presiona `P`.
 2. Haz clic en el botón `desafío diario` o presiona `D`.
 
-![](img/daily-challenge-menu.png "Captura de pantalla del menú del desafío diario del 7 de noviembre de 2024.")
+![](img/daily-challenge-menu.png?20250824 "Captura de pantalla del menú del desafío diario del 24 de agosto de 2024.")
 
 Al entrar, el usuario se encuentra con una introducción que muestra el beatmap que tiene que pasar, y los mods con los que tiene que pasarlo.
 
