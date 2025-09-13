@@ -71,26 +71,26 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 
 ### Contest rules
 
-- **This contest is for the `osu!mania` mode only.**
-- **This contest is for Chinese players only, including players with the flags of ::{ flag=CN }:: Chinese mainland, ::{ flag=HK }:: Hong Kong, ::{ flag=MO }:: Macao, and ::{ flag=TW }:: Taiwan eligible for participation.**
-- **Your account must be valid and can log in [Mappers' Guild](https://mappersguild.com).**
+- **This contest is for the osu!mania mode only.**
+- **This contest is for Chinese players only, including players with the flags of ::{ flag=CN }:: the Chinese mainland, ::{ flag=HK }:: Hong Kong, ::{ flag=MO }:: Macao, and ::{ flag=TW }:: Taiwan eligible for participation.**
+- **Your account must be valid, and be used for logging into [Mappers' Guild](https://mappersguild.com).**
 - **Submissions must be in the `.osz` format.**
-- **The osu! client must be able to load and read your submission.**
-- **Submission must be `4K`, `5K`, `6K` or `7K`.** Other key modes are not considered in this contest (including n+1 playstyle).
-- **Beatmaps' mapping procress should be based on [Ranking Criteria.](/wiki/Ranking_criteria/osu!mania)** There are no requirements to follow RC compulsory, but the beatmap needs to be used Ranking Criteria as a fundamental reference, or that will effect your final score.
-- **Videos, Skins, Storyboards and Hitsounds are NOT allowed.**
-- **Title, Artist, MP3, Source, Tags, Background and Preview Point must NOT be modified.**
+- **The osu! client must be able to correctly import and read your submission.**
+- **Submission must be `4K`, `5K`, `6K`, or `7K`.** Other key modes are not considered in this contest (including the n+1 playstyle).
+- **Beatmaps should be based on the [ranking criteria](/wiki/Ranking_criteria/osu!mania).** There is no requirement to abide by the ranking criteria, but beatmaps need to use it as a fundamental reference, or that will effect your final score.
+- **Videos, skins, storyboards and hitsounds are NOT allowed.**
+- **Title, Artist, MP3, Source, Tags, Background, and Preview Point must NOT be modified.**
 - **Your submission must be solely made by you.** Collaborations are not allowed for this contest!
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
-- **Submitting entries means understanding and agreement to the ruleset above.**
+- **Submitting entries means understanding and agreeing to the above rules.**
 
 ### Judging criteria
 
-- **Musical Representation (30 points):** How the beatmap expresses the song through overall layering, patterning and structure to interpreting song appropriate relatively, such as instruments, melodies, sounds, rhythms, etc.
-- **Creativity(30 points):** How innovative the beatmap is throught the beatmap desgin. Like unique structural arrangement, logical changes, and technique presentation.
-- **Playablity (30 points):** How the beatmap shows playing, visual and entertainment experience to players at sametime, and control them whithin a reasonable difficulty curve.
-- **Judges' Impression (10 points):** This is the part of the score left to the Judges' personal preferences on the submission, or the factors which didn't relate to the three aspects said above.
+- **Musical Representation (30 points):** How the beatmap expresses the song through overall layering, patterning and structure, and how it appropriately interprets the song by use of instruments, melodies, sounds, rhythms, etc.
+- **Creativity (30 points):** How innovative the beatmap's design is: unique structural arrangement, logical changes, and technique presentation.
+- **Playability (30 points):** How the beatmap feels to the players from the visual and gameplay standpoint, and how it maintains a reasonable difficulty curve.
+- **Judges' Impression (10 points):** This is the part of the score left to the judges' personal preferences on the submission, or the factors that didn't relate to the three aspects above.
 
-Jugde's score will be standardized, check the formula in Mappers' Guild wrote: *judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation*
+The judge scores will be normalized using the formula from the Mappers' Guild: *judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation*
 
 Submissions are anonymous to judges.
