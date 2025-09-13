@@ -4,7 +4,7 @@ no_native_review: true
 
 # Silences
 
-**Silence** (også uofficielt kaldt *Mute*) er begrebet for straffen af at begrænse en spillers muligheder for kommunikation i osu!-fællesskabet. Medlemmer af [Global Moderation Teamet](/wiki/People/Global_Moderation_Team) og [Nomination Assessment Teamet](/wiki/People/Nomination_Assessment_Team) udsteder silences for at opretholde fællesskabsreglerne og den almene orden, både på hjemmesiden og i spillet.
+**Silence** (også uofficielt kaldt *Mute*) er begrebet for straffen af at begrænse en spillers muligheder for kommunikation i osu!-fællesskabet. Medlemmer af [Det Globale Moderationshold](/wiki/People/Global_Moderation_Team) og [Nominationsvurderingsholdet](/wiki/People/Nomination_Assessment_Team) udsteder silences for at opretholde fællesskabsreglerne og den almene orden, både på hjemmesiden og i spillet.
 
 ## Begrænsninger
 
