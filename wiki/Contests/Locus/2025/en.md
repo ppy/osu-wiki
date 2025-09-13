@@ -54,58 +54,12 @@ Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) 
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/238)
-- [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus) [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
+- [Contest announcement](https://osu.ppy.sh/home/news/2025-01-31-locus)
+- [Contest update #1](https://osu.ppy.sh/home/news/2025-04-14-locus-2025-update-1)
 - [Contest update #2](https://osu.ppy.sh/home/news/2025-06-03-locus-2025-update-2)
 - [Voting announcement](https://osu.ppy.sh/home/news/2025-08-01-locus-2025-voting-open)
 - [Voting announcement VOD at COE](https://www.twitch.tv/videos/2528089150?t=02h32m33s)
 - [Results announcement](https://osu.ppy.sh/home/news/2025-08-21-locus-2025-results)
-
-## Entries
-
-| Team | Entry |
-| :-- | :-- |
-| "we couldn't agree on naming" | [Become One Again (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/2412365) |
-| :owoyay: | [against cacophony (feat. Mai)](https://osu.ppy.sh/beatmapsets/2412236) |
-| 1head | [Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231) |
-| 5Head | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) |
-| 5pc chicken mcnuggets | [Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) |
-| Angevin Eulogy | [it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237) |
-| aniteam | [NatsuUtsu](https://osu.ppy.sh/beatmapsets/2412239) |
-| Augment:Nova | [ENC0DED : ENTR0PY](https://osu.ppy.sh/beatmapsets/2412246) |
-| AXIOMA | [Rift Walker](https://osu.ppy.sh/beatmapsets/2412244) |
-| church of ppy | [LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) |
-| CN2K | [distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247) |
-| Crychic ghost | [Inochi](https://osu.ppy.sh/beatmapsets/2412248) |
-| Demiurge Zero | [Eynohr](https://osu.ppy.sh/beatmapsets/2412250) |
-| Drumstep4 - LYRICS! | [Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) |
-| Fetchquest | [Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252) |
-| fruit salad | [H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255) |
-| Gumiho | [Paint The Ocean Blue (feat. Cassylish)](https://osu.ppy.sh/beatmapsets/2412259) |
-| hdm enjoyers | [unbound](https://osu.ppy.sh/beatmapsets/2412346) |
-| Hexagram | [Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) |
-| Lazy Seals | [The Epiphany (feat. smoothycloud)](https://osu.ppy.sh/beatmapsets/2412261) |
-| Limerence | [Be with you](https://osu.ppy.sh/beatmapsets/2412323) |
-| Meguro | [Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) |
-| metamorphosis | [kinetic flux](https://osu.ppy.sh/beatmapsets/2412316) |
-| Meteors | [Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691) |
-| Miku Fan Club | [Prism Fall](https://osu.ppy.sh/beatmapsets/2412267) |
-| moonleaf++++ EXTEND | [Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) |
-| Ocskai | [Almom](https://osu.ppy.sh/beatmapsets/2412270) |
-| osu2vn | [Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) |
-| Picardia | [Asphyxia](https://osu.ppy.sh/beatmapsets/2412274) |
-| s-sigma... | [Vitality Charger (feat. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2412277) |
-| Shiny morning | [Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) |
-| Sylenth2 v7.2769420 "Unlimited Synth Works" | [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) |
-| Taiko World Cup | [Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) |
-| Team Divergence | [Replay](https://osu.ppy.sh/beatmapsets/2412321) |
-| Team Red but Blue | [First Adventure](https://osu.ppy.sh/beatmapsets/2412285) |
-| Team RGB | [Brainfryer](https://osu.ppy.sh/beatmapsets/2412287) |
-| The Abyss | [Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) |
-| The Microwaves | [untitled_1](https://osu.ppy.sh/beatmapsets/2412290) |
-| Vespera | [Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328) |
-| Vocaloid Lovers | [Locus Amoenus](https://osu.ppy.sh/beatmapsets/2412292) |
-| we do well with deadlines | [Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) |
-| we need a poll | [Dahlia (feat. eili)](https://osu.ppy.sh/beatmapsets/2412294) |
 
 ## Podium
 
@@ -135,54 +89,1161 @@ This contest has come to an end and resulted in the following podium:
 
 ## Results
 
-| # | Team | Entry | Elo | Graphics | Music | Mapping | Votes[^vote-count] |
-| :-: | :-- | :-- | --: | --: | --: | --: | --: |
-| 1 | Hexagram | [Koto Spirit - Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) | **5205.7** | 1751.1 | 1730.4 | 1724.3 | 134 |
-| 2 | Sylenth2 v7.2769420 "Unlimited Synth Works" | [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) | **5078** | 1815.1 | 1685.3 | 1577.6 | 109 |
-| 3 | 5Head | [Will Stetson - Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) | **4977.2** | 1706.8 | 1654.1 | 1616.3 | 113 |
-| 4 | Vespera | [Akiri - Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328) | **4969.5** | 1793 | 1572.3 | 1604.2 | 105 |
-| 5 | Vocaloid Lovers | [ArXe - Locus Amoenus (feat. Megurine Luka)](https://osu.ppy.sh/beatmapsets/2412292) | **4962** | 1807.2 | 1594.9 | 1559.9 | 117 |
-| 6 | Meteors | [kanase. - Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691) | **4905.3** | 1696.9 | 1583.1 | 1625.3 | 111 |
-| 7 | Meguro | [nm-y - Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) | **4885.1** | 1739.9 | 1546.3 | 1599 | 110 |
-| 8 | CN2K | [kanemiko - distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247) | **4882** | 1745.8 | 1565.4 | 1570.7 | 108 |
-| 9 | AXIOMA | [Kry.exe - Rift Walker](https://osu.ppy.sh/beatmapsets/2412244) | **4867.5** | 1728.5 | 1620.7 | 1518.4 | 113 |
-| 10 | fruit salad | [Juwubi - H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255) | **4845.5** | 1660.7 | 1576.4 | 1608.4 | 110 |
-| 11 | :owoyay: | [nominomu - against cacophony (feat. Mai)](https://osu.ppy.sh/beatmapsets/2412236) | **4793.8** | 1608.2 | 1584.9 | 1600.7 | 126 |
-| 12 | Team Red but Blue | [Redside - First Adventure](https://osu.ppy.sh/beatmapsets/2412285) | **4790.9** | 1590.2 | 1615.1 | 1585.7 | 116 |
-| 13 | s-sigma... | [Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2412277) | **4776.4** | 1580.1 | 1600.4 | 1595.9 | 111 |
-| 14 | Gumiho | [Fox Rush - Paint The Ocean Blue (feat. Cassylish)](https://osu.ppy.sh/beatmapsets/2412259) | **4762.3** | 1623.6 | 1561.3 | 1577.4 | 114 |
-| 15 | metamorphosis | [MetaHumanBoi - kinetic flux](https://osu.ppy.sh/beatmapsets/2412316) | **4742.7** | 1613.8 | 1577.3 | 1551.5 | 106 |
-| 16 | we need a poll | [Krimek - Dahlia (feat. eili)](https://osu.ppy.sh/beatmapsets/2412294) | **4689.4** | 1537.3 | 1601.1 | 1551 | 102 |
-| 17 | Picardia | [Cityyy - Asphyxia](https://osu.ppy.sh/beatmapsets/2412274) | **4678.8** | 1622 | 1480.2 | 1576.6 | 101 |
-| 18 | "we couldn't agree on naming" | [Xeven - Become One Again (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/2412365) | **4625.9** | 1590.9 | 1498.1 | 1536.9 | 115 |
-| 19 | church of ppy | [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | **4616** | 1511.5 | 1511.2 | 1593.3 | 119 |
-| 20 | Fetchquest | [WangleLine - Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252) | **4601.6** | 1456.1 | 1617.3 | 1528.1 | 114 |
-| 21 | Miku Fan Club | [Darkney - Prism Fall](https://osu.ppy.sh/beatmapsets/2412267) | **4598.2** | 1586.8 | 1474.8 | 1536.6 | 105 |
-| 22 | Crychic ghost | [Star* aka liaoxingyao - Inochi](https://osu.ppy.sh/beatmapsets/2412248) | **4584.4** | 1439.5 | 1541.6 | 1603.3 | 107 |
-| 23 | Team Divergence | [aidolon - Replay](https://osu.ppy.sh/beatmapsets/2412321) | **4476.1** | 1541.2 | 1442.7 | 1492.2 | 117 |
-| 24 | Taiko World Cup | [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) | **4437.4** | 1474.4 | 1498.1 | 1464.9 | 113 |
-| 25 | osu2vn | [trung-nova - Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) | **4412.6** | 1382.6 | 1523.8 | 1506.2 | 124 |
-| 26 | Ocskai | [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270) | **4373.5** | 1516.1 | 1418.6 | 1438.8 | 100 |
-| 27 | Augment:Nova | [Riprider - ENC0DED : ENTR0PY](https://osu.ppy.sh/beatmapsets/2412246) | **4305.8** | 1319.3 | 1473.7 | 1512.8 | 106 |
-| 28 | Lazy Seals | [Chamiracqua - The Epiphany (feat. smoothycloud)](https://osu.ppy.sh/beatmapsets/2412261) | **4297.8** | 1508.9 | 1354.1 | 1434.9 | 115 |
-| 29 | 1head | [rikvinyas - Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231) | **4293.6** | 1328.4 | 1440.7 | 1524.5 | 124 |
-| 30 | we do well with deadlines | [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) | **4243.5** | 1364.8 | 1413 | 1465.6 | 110 |
-| 31 | hdm enjoyers | [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346) | **4236.7** | 1421.2 | 1364.7 | 1450.8 | 106 |
-| 32 | aniteam | [Ttmouse - NatsuUtsu feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2412239) | **4198.6** | 1323.5 | 1429.2 | 1445.9 | 113 |
-| 33 | Demiurge Zero | [Attoclef ft. Γêà - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | **4182.3** | 1339.4 | 1386.8 | 1456.1 | 84 |
-| 34 | Drumstep4 - LYRICS! | [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) | **4167.7** | 1314.2 | 1379.9 | 1473.6 | 103 |
-| 35 | Team RGB | [Artackni - Brainfryer](https://osu.ppy.sh/beatmapsets/2412287) | **4160** | 1293.6 | 1449.7 | 1416.7 | 111 |
-| 36 | moonleaf++++ EXTEND | [Tufani - Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) | **4136.6** | 1378.1 | 1403.1 | 1355.5 | 92 |
-| 37 | The Abyss | [Tsukishiro feat. Inti - Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) | **4052.7** | 1370.3 | 1271.8 | 1410.7 | 120 |
-| 38 | The Microwaves | [eluixx - untitled_1](https://osu.ppy.sh/beatmapsets/2412290) | **4050.3** | 1282 | 1384.2 | 1384.1 | 118 |
-| 39 | Angevin Eulogy | [Evangelion_guy - it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237) | **3834.1** | 1185.3 | 1287.9 | 1360.9 | 106 |
-| 40 | 5pc chicken mcnuggets | [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) | **3828.5** | 785.1 | 1503.7 | 1539.7 | 105 |
-| 41 | Limerence | [airlemoneX - Be with you](https://osu.ppy.sh/beatmapsets/2412323) | **3752.4** | 1443.7 | 1449.7 | 859 | 117 |
-| 42 | Shiny morning | [ZxKirara feat. Shian - Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281) | **3722.2** | 1223.3 | 1332.6 | 1166.4 | 120 |
+[![Artwork of Koto Spirit - Locus of Hexagram](img/banners/Locus_of_Hexagram.jpg)](https://osu.ppy.sh/beatmapsets/2412260)
 
-### Graphic category results
+::: Infobox
 
-| # | Entry | Graphic Elo | Win rate[^win-rate] |
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=_FOeVts_dVs) [Koto Spirit - Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #1 |
+| **Total Elo** | **5205.7** |
+| **Graphics Elo** | 1751.1 |
+| **Music Elo** | 1730.4 |
+| **Mapping Elo** | 1724.3 |
+| **Vote count**[^vote-count] | 134 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Hexagram |
+| **Mapper / assisting musician** | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
+| **Musician / mapper** | ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678) |
+| **Mapper** | ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) |
+| **Mapper** | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) |
+| **Illustrator / VFX artist** | ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910) |
+
+[![Artwork of takehirotei - Haiboku no Altra Vita](img/banners/Haiboku_no_Altra_Vita.jpg)](https://osu.ppy.sh/beatmapsets/2412331)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=wjntf6P2ANg) [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #2 |
+| **Total Elo** | **5078** |
+| **Graphics Elo** | 1815.1 |
+| **Music Elo** | 1685.3 |
+| **Mapping Elo** | 1577.6 |
+| **Vote count**[^vote-count] | 109 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Sylenth2 v7.2769420 "Unlimited Synth Works" |
+| **Illustrator / designer / storyboarder / mapper** | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499) |
+| **Musician / mapper** | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) |
+| **Mapper** | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023) |
+| **Mapper** | ::{ flag=MY }:: [Etsuko Marvia](https://osu.ppy.sh/users/13893348) |
+| **Mapper** | ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315) |
+
+[![Artwork of Will Stetson - Of Our Time](img/banners/Of_Our_Time.jpg)](https://osu.ppy.sh/beatmapsets/2412232)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Will Stetson - Of Our Time](https://osu.ppy.sh/beatmapsets/2412232)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #3 |
+| **Total Elo** | **4977.2** |
+| **Graphics Elo** | 1706.8 |
+| **Music Elo** | 1654.1 |
+| **Mapping Elo** | 1616.3 |
+| **Vote count**[^vote-count] | 113 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | 5Head |
+| **Mapper / hitsounder** | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) |
+| **Vocalist** | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) |
+| **Musician** | ::{ flag=CA }:: [KiAme](https://osu.ppy.sh/users/37416442) |
+| **Storyboarder** | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |
+| **Illustrator** | ::{ flag=US }:: [tofumang](https://osu.ppy.sh/users/4817223) |
+
+[![Artwork of Akiri - Vespera Stella](img/banners/Vespera_Stella.jpg)](https://osu.ppy.sh/beatmapsets/2412328)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/akiwimoosic/vesperastella) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=nRU9TzPEhpI) [Akiri - Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #4 |
+| **Total Elo** | **4969.5** |
+| **Graphics Elo** | 1793 |
+| **Music Elo** | 1572.3 |
+| **Mapping Elo** | 1604.2 |
+| **Vote count**[^vote-count] | 105 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Vespera |
+| **VFX artist** | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
+| **Musician** | ::{ flag=US }:: [Akiri-](https://osu.ppy.sh/users/19587411) |
+| **Mapper** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| **Illustrator** | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) |
+| **Illustrator** | ::{ flag=CA }:: [Xiaoraini](https://osu.ppy.sh/users/3607337) |
+
+[![Artwork of ArXe - Locus Amoenus (feat. Megurine Luka)](img/banners/Locus_Amoenus_(feat._Megurine_Luka).jpg)](https://osu.ppy.sh/beatmapsets/2412292)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=YckVPkTRuYY) [ArXe - Locus Amoenus (feat. Megurine Luka)](https://osu.ppy.sh/beatmapsets/2412292)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #5 |
+| **Total Elo** | **4962** |
+| **Graphics Elo** | 1807.2 |
+| **Music Elo** | 1594.9 |
+| **Mapping Elo** | 1559.9 |
+| **Vote count**[^vote-count] | 117 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Vocaloid Lovers |
+| **VFX artist / storyboarder / mapper** | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) |
+| **Musician / mapper** | ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313) |
+| **Vocaloid tuning / mapper** | ::{ flag=US }:: [Defy](https://osu.ppy.sh/users/15428357) |
+| **Lyricist / mapper** | ::{ flag=KR }:: [Kawashiro](https://osu.ppy.sh/users/1533796) |
+| **Illustrator** | ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534) |
+
+[![Artwork of kanase. - Lost Night Meteor](img/banners/Lost_Night_Meteor.jpg)](https://osu.ppy.sh/beatmapsets/2412691)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [kanase. - Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #6 |
+| **Total Elo** | **4905.3** |
+| **Graphics Elo** | 1696.9 |
+| **Music Elo** | 1583.1 |
+| **Mapping Elo** | 1625.3 |
+| **Vote count**[^vote-count] | 111 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Meteors |
+| **Storyboarder / mapper** | ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997) |
+| **Musician** | ::{ flag=JP }:: [unikanase](https://osu.ppy.sh/users/32453922) |
+| **Mapper** | ::{ flag=TW }:: [LeeGod](https://osu.ppy.sh/users/15148343) |
+| **Illustrator / mapper** | ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628) |
+| **Mapper** | ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) |
+
+[![Artwork of nm-y - Datura Sh//va](img/banners/Datura_Shva.jpg)](https://osu.ppy.sh/beatmapsets/2412263)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [nm-y - Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #7 |
+| **Total Elo** | **4885.1** |
+| **Graphics Elo** | 1739.9 |
+| **Music Elo** | 1546.3 |
+| **Mapping Elo** | 1599 |
+| **Vote count**[^vote-count] | 110 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Meguro |
+| **Mapper** | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) |
+| **Mapper** | ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291) |
+| **Musician** | ::{ flag=US }:: [nm-y](https://osu.ppy.sh/users/31725557) |
+| **Storyboarder** | ::{ flag=AU }:: [LowGraphics](https://osu.ppy.sh/users/5383942) |
+| **Illustrator** | ::{ flag=MY }:: [mochasan_](https://osu.ppy.sh/users/23804364) |
+
+[![Artwork of kanemiko - distance of -RADIAL-](img/banners/distance_of_-RADIAL-.jpg)](https://osu.ppy.sh/beatmapsets/2412247)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=UU-kEJxTtrI) [kanemiko - distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #8 |
+| **Total Elo** | **4882** |
+| **Graphics Elo** | 1745.8 |
+| **Music Elo** | 1565.4 |
+| **Mapping Elo** | 1570.7 |
+| **Vote count**[^vote-count] | 108 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | CN2K |
+| **Mapper / designer** | ::{ flag=CA }:: [Sing](https://osu.ppy.sh/users/3795679) |
+| **Mapper / hitsounder** | ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997) |
+| **Storyboarder** | ::{ flag=US }:: [Storyboarder](https://osu.ppy.sh/users/6124671) |
+| **Illustrator / musician** | ::{ flag=JP }:: [kanemiko](https://osu.ppy.sh/users/37401224) |
+
+[![Artwork of Kry.exe - Rift Walker](img/banners/Rift_Walker.jpg)](https://osu.ppy.sh/beatmapsets/2412244)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=U9z4Jsk2uDU) [Kry.exe - Rift Walker](https://osu.ppy.sh/beatmapsets/2412244)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #9 |
+| **Total Elo** | **4867.5** |
+| **Graphics Elo** | 1728.5 |
+| **Music Elo** | 1620.7 |
+| **Mapping Elo** | 1518.4 |
+| **Vote count**[^vote-count] | 113 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | AXIOMA |
+| **Project Manager** | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) |
+| **Musician / hitsounder** | ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) |
+| **Designer / storyboarder** | ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368) |
+| **Illustrator** | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) |
+| **Mapper** | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) |
+
+[![Artwork of Juwubi - H1GH D!VE](img/banners/H1GH_D!VE.jpg)](https://osu.ppy.sh/beatmapsets/2412255)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=G2RD126uK0A) [Juwubi - H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #10 |
+| **Total Elo** | **4845.5** |
+| **Graphics Elo** | 1660.7 |
+| **Music Elo** | 1576.4 |
+| **Mapping Elo** | 1608.4 |
+| **Vote count**[^vote-count] | 110 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | fruit salad |
+| **Mapper / hitsounder** | ::{ flag=US }:: [nuclei](https://osu.ppy.sh/users/25134566) |
+| **Mapper** | ::{ flag=BE }:: [R3m](https://osu.ppy.sh/users/6990066) |
+| **Illustrator / mapper** | ::{ flag=AU }:: [-pineapple-](https://osu.ppy.sh/users/11523326) |
+| **Storyboarder / mapper** | ::{ flag=US }:: [binarie](https://osu.ppy.sh/users/15632854) |
+| **Musician** | ::{ flag=PH }:: [JuwubiDTM](https://osu.ppy.sh/users/36335947) |
+
+[![Artwork of nominomu - against cacophony (feat. Mai)](img/banners/against_cacophony_(feat._Mai).jpg)](https://osu.ppy.sh/beatmapsets/2412236)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://youtu.be/TY0s7ymvMLk) [nominomu - against cacophony (feat. Mai)](https://osu.ppy.sh/beatmapsets/2412236)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #11 |
+| **Total Elo** | **4793.8** |
+| **Graphics Elo** | 1608.2 |
+| **Music Elo** | 1584.9 |
+| **Mapping Elo** | 1600.7 |
+| **Vote count**[^vote-count] | 126 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | :owoyay: |
+| **Musician / storyboarder / mapper** | ::{ flag=AU }:: [nominomu](https://osu.ppy.sh/users/30485380) |
+| **Illustrator** | ::{ flag=MY }:: [NyuPenyu](https://osu.ppy.sh/users/12233680) |
+| **Mapper** | ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340) |
+| **Mapper** | ::{ flag=LT }:: [Amefystol](https://osu.ppy.sh/users/26748801) |
+
+[![Artwork of Redside - First Adventure](img/banners/First_Adventure.jpg)](https://osu.ppy.sh/beatmapsets/2412285)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/redside100/first-adventure) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=8usy6IkRB2Y) [![Spotify](/wiki/shared/link/Spotify.png "Spotify")](https://open.spotify.com/track/4PryQ03yeZjJ0MmmUVUsXV) [Redside - First Adventure](https://osu.ppy.sh/beatmapsets/2412285)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #12 |
+| **Total Elo** | **4790.9** |
+| **Graphics Elo** | 1590.2 |
+| **Music Elo** | 1615.1 |
+| **Mapping Elo** | 1585.7 |
+| **Vote count**[^vote-count] | 116 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Team Red but Blue |
+| **Musician** | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) |
+| **Mapper** | ::{ flag=CA }:: [v0x](https://osu.ppy.sh/users/18128385) |
+| **Mapper** | ::{ flag=CA }:: [Zer0-G](https://osu.ppy.sh/users/12577911) |
+| **Illustrator** | ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601) |
+| **Storyboarder** | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) |
+
+[![Artwork of Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](img/banners/Vitality_Charger_(feat._Hanakuma_Chifuyu).jpg)](https://osu.ppy.sh/beatmapsets/2412277)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2412277)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #13 |
+| **Total Elo** | **4776.4** |
+| **Graphics Elo** | 1580.1 |
+| **Music Elo** | 1600.4 |
+| **Mapping Elo** | 1595.9 |
+| **Vote count**[^vote-count] | 111 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | s-sigma... |
+| **Mapper / storyboarder** | ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266) |
+| **Musician** | ::{ flag=US }:: [\_Xyris_](https://osu.ppy.sh/users/11246193) |
+| **Illustrator** | ::{ flag=PH }:: [Danimato](https://osu.ppy.sh/users/23541645) |
+
+[![Artwork of Fox Rush - Paint The Ocean Blue (feat. Cassylish)](img/banners/Paint_The_Ocean_Blue_(feat._Cassylish).jpg)](https://osu.ppy.sh/beatmapsets/2412259)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Fox Rush - Paint The Ocean Blue (feat. Cassylish)](https://osu.ppy.sh/beatmapsets/2412259)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #14 |
+| **Total Elo** | **4762.3** |
+| **Graphics Elo** | 1623.6 |
+| **Music Elo** | 1561.3 |
+| **Mapping Elo** | 1577.4 |
+| **Vote count**[^vote-count] | 114 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Gumiho |
+| **Musician** | ::{ flag=IL }:: [AngeI](https://osu.ppy.sh/users/4271860) |
+| **Mapper** | ::{ flag=US }:: [Mejiro McQueen](https://osu.ppy.sh/users/11555612) |
+| **Mapper** | ::{ flag=ID }:: [ceras](https://osu.ppy.sh/users/13356408) |
+| **Illustrator** | ::{ flag=CA }:: [Kylerius](https://osu.ppy.sh/users/10253968) |
+| **Storyboarder / VFX artist** | ::{ flag=CH }:: [Schoki](https://osu.ppy.sh/users/13260523) |
+
+[![Artwork of MetaHumanBoi - kinetic flux](img/banners/kinetic_flux.jpg)](https://osu.ppy.sh/beatmapsets/2412316)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [MetaHumanBoi - kinetic flux](https://osu.ppy.sh/beatmapsets/2412316)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #15 |
+| **Total Elo** | **4742.7** |
+| **Graphics Elo** | 1613.8 |
+| **Music Elo** | 1577.3 |
+| **Mapping Elo** | 1551.5 |
+| **Vote count**[^vote-count] | 106 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | metamorphosis |
+| **Designer** | ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681) |
+| **Storyboarder** | ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436) |
+| **Musician** | ::{ flag=US }:: [MetaHumanBoi](https://osu.ppy.sh/users/14782369) |
+| **Mapper** | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) |
+| **Mapper** | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589) |
+
+[![Artwork of Krimek - Dahlia (feat. eili)](img/banners/Dahlia_(feat._eili).jpg)](https://osu.ppy.sh/beatmapsets/2412294)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=knjt6gPUQmY) [Krimek - Dahlia (feat. eili)](https://osu.ppy.sh/beatmapsets/2412294)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #16 |
+| **Total Elo** | **4689.4** |
+| **Graphics Elo** | 1537.3 |
+| **Music Elo** | 1601.1 |
+| **Mapping Elo** | 1551 |
+| **Vote count**[^vote-count] | 102 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | we need a poll |
+| **Musician / mapper / hitsounder** | ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078) |
+| **Mapper** | ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692) |
+| **Vocalist / VFX artist** | ::{ flag=US }:: [eilivox](https://osu.ppy.sh/users/37455438) |
+| **Illustrator** | ::{ flag=US }:: [CMDR Saturn](https://osu.ppy.sh/users/22001295) |
+| **Designer** | ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
+
+[![Artwork of Cityyy - Asphyxia](img/banners/Asphyxia.jpg)](https://osu.ppy.sh/beatmapsets/2412274)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=K8FD7MF1qaI) [Cityyy - Asphyxia](https://osu.ppy.sh/beatmapsets/2412274)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #17 |
+| **Total Elo** | **4678.8** |
+| **Graphics Elo** | 1622 |
+| **Music Elo** | 1480.2 |
+| **Mapping Elo** | 1576.6 |
+| **Vote count**[^vote-count] | 101 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Picardia |
+| **Musician** | ::{ flag=US }:: [Cityyy](https://osu.ppy.sh/users/25198721) |
+| **Mapper** | ::{ flag=US }:: [Astronic](https://osu.ppy.sh/users/9320502) |
+| **Mapper** | ::{ flag=US }:: [Firiiu](https://osu.ppy.sh/users/7825971) |
+| **Storyboarder / designer** | ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) |
+| **Storyboarder** | ::{ flag=DE }:: [aoratos](https://osu.ppy.sh/users/19240320) |
+
+[![Artwork of Xeven - Become One Again (feat. Hatsune Miku)](img/banners/Become_One_Again_(feat._Hatsune_Miku).jpg)](https://osu.ppy.sh/beatmapsets/2412365)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Xeven - Become One Again (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/2412365)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #18 |
+| **Total Elo** | **4625.9** |
+| **Graphics Elo** | 1590.9 |
+| **Music Elo** | 1498.1 |
+| **Mapping Elo** | 1536.9 |
+| **Vote count**[^vote-count] | 115 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | "we couldn't agree on naming" |
+| **Musician** | ::{ flag=US }:: [sxvnty](https://osu.ppy.sh/users/8111085) |
+| **Mapper / hitsounder** | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) |
+| **Mapper** | ::{ flag=RU }:: [alvearia](https://osu.ppy.sh/users/6248691) |
+| **Mapper / storyboarder** | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) |
+| **VFX artist** | ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
+
+[![Artwork of furtrash - LONG LIVE THE KING](img/banners/LONG_LIVE_THE_KING.jpg)](https://osu.ppy.sh/beatmapsets/2412245)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/furtrash/long-live-the-king) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=3eR9n0f5D0E) [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #19 |
+| **Total Elo** | **4616** |
+| **Graphics Elo** | 1511.5 |
+| **Music Elo** | 1511.2 |
+| **Mapping Elo** | 1593.3 |
+| **Vote count**[^vote-count] | 119 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | church of ppy |
+| **Mapper / hitsounder** | ::{ flag=CL }:: [Evil-](https://osu.ppy.sh/users/10234313) |
+| **Storyboarder** | ::{ flag=DE }:: [minisbett](https://osu.ppy.sh/users/13431764) |
+| **Mapper / storyboarder** | ::{ flag=DE }:: [Omekyu](https://osu.ppy.sh/users/14348073) |
+| **Mapper** | ::{ flag=AR }:: [-Links](https://osu.ppy.sh/users/10804237) |
+| **Musician / illustrator / hitsounder** | ::{ flag=FI }:: [Nihkee](https://osu.ppy.sh/users/14244740) |
+
+[![Artwork of WangleLine - Super Kitten Travel Hex](img/banners/Super_Kitten_Travel_Hex.jpg)](https://osu.ppy.sh/beatmapsets/2412252)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=DCbPJCtC9RU) [![Bandcamp](/wiki/shared/link/Bandcamp.png "Bandcamp")](https://wangleline.bandcamp.com/track/super-kitten-travel-hex-from-osu-locus-2025) [WangleLine - Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #20 |
+| **Total Elo** | **4601.6** |
+| **Graphics Elo** | 1456.1 |
+| **Music Elo** | 1617.3 |
+| **Mapping Elo** | 1528.1 |
+| **Vote count**[^vote-count] | 114 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Fetchquest |
+| **VFX artist / mapper** | ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
+| **Musician** | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) |
+| **Storyboarder / mapper** | ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762) |
+| **Illustrator** | ::{ flag=SI }:: [- Arisu -](https://osu.ppy.sh/users/33795284) |
+| **Mapper** | ::{ flag=US }:: [chidodou](https://osu.ppy.sh/users/13868581) |
+
+[![Artwork of Darkney - Prism Fall](img/banners/Prism_Fall.jpg)](https://osu.ppy.sh/beatmapsets/2412267)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Darkney - Prism Fall](https://osu.ppy.sh/beatmapsets/2412267)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #21 |
+| **Total Elo** | **4598.2** |
+| **Graphics Elo** | 1586.8 |
+| **Music Elo** | 1474.8 |
+| **Mapping Elo** | 1536.6 |
+| **Vote count**[^vote-count] | 105 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Miku Fan Club |
+| **Musician / designer** | ::{ flag=DE }:: [Darkney](https://osu.ppy.sh/users/14700596) |
+| **Storyboarder** | ::{ flag=ID }:: [Kafaka](https://osu.ppy.sh/users/9148291) |
+| **Mapper** | ::{ flag=AU }:: [bobbybaseball06](https://osu.ppy.sh/users/4967662) |
+| **Mapper** | ::{ flag=AU }:: [awawa](https://osu.ppy.sh/users/4166621) |
+
+[![Artwork of Star* aka liaoxingyao - Inochi](img/banners/Inochi.jpg)](https://osu.ppy.sh/beatmapsets/2412248)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Star* aka liaoxingyao - Inochi](https://osu.ppy.sh/beatmapsets/2412248)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #22 |
+| **Total Elo** | **4584.4** |
+| **Graphics Elo** | 1439.5 |
+| **Music Elo** | 1541.6 |
+| **Mapping Elo** | 1603.3 |
+| **Vote count**[^vote-count] | 107 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Crychic ghost |
+| **Mapper** | ::{ flag=CN }:: [Karen](https://osu.ppy.sh/users/3143784) |
+| **Musician** | ::{ flag=CN }:: [liaoxingyao](https://osu.ppy.sh/users/3620963) |
+| **Designer** | ::{ flag=CN }:: [Sonwpalace](https://osu.ppy.sh/users/37871521) |
+| **Mapper** | ::{ flag=HK }:: [Skystar](https://osu.ppy.sh/users/873961) |
+| **Mapper** | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) |
+
+[![Artwork of aidolon - Replay](img/banners/Replay.jpg)](https://osu.ppy.sh/beatmapsets/2412321)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [aidolon - Replay](https://osu.ppy.sh/beatmapsets/2412321)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #23 |
+| **Total Elo** | **4476.1** |
+| **Graphics Elo** | 1541.2 |
+| **Music Elo** | 1442.7 |
+| **Mapping Elo** | 1492.2 |
+| **Vote count**[^vote-count] | 117 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Team Divergence |
+| **Mapper / storyboarder** | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679) |
+| **Musician / VFX artist** | ::{ flag=US }:: [aidolon](https://osu.ppy.sh/users/17174676) |
+| **Illustrator** | ::{ flag=TH }:: [SuperGreentea](https://osu.ppy.sh/users/16416058) |
+| **Hitsounder** | ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) |
+
+[![Artwork of Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](img/banners/Heart_of_Epitaph.jpg)](https://osu.ppy.sh/beatmapsets/2412283)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/part-lerts/locus-2025-viatores-nebulae-heart-of-epitaph-ft) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=Y2jSUwBdG6Y) [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #24 |
+| **Total Elo** | **4437.4** |
+| **Graphics Elo** | 1474.4 |
+| **Music Elo** | 1498.1 |
+| **Mapping Elo** | 1464.9 |
+| **Vote count**[^vote-count] | 113 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Taiko World Cup |
+| **Mapper** | ::{ flag=KZ }:: [-Hitomi](https://osu.ppy.sh/users/15583987) |
+| **Musician** | ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/users/4325444) |
+| **Musician** | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
+| **Mapper** | ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316) |
+| **VFX artist** | ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
+
+[![Artwork of trung-nova - Starry Comet](img/banners/Starry_Comet.jpg)](https://osu.ppy.sh/beatmapsets/2412271)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=jjuDeff7Mec) [trung-nova - Starry Comet](https://osu.ppy.sh/beatmapsets/2412271)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #25 |
+| **Total Elo** | **4412.6** |
+| **Graphics Elo** | 1382.6 |
+| **Music Elo** | 1523.8 |
+| **Mapping Elo** | 1506.2 |
+| **Vote count**[^vote-count] | 124 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | osu2vn |
+| **Mapper** | ::{ flag=VN }:: [Ducky-](https://osu.ppy.sh/users/9351565) |
+| **Musician / VFX artist** | ::{ flag=VN }:: [TrungSabito0159](https://osu.ppy.sh/users/14927934) |
+| **Mapper** | ::{ flag=VN }:: [-Eresh](https://osu.ppy.sh/users/7605060) |
+| **Mapper** | ::{ flag=VN }:: [sanzu](https://osu.ppy.sh/users/8919422) |
+| **Storyboarder** | ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334) |
+
+[![Artwork of RRolanDD - Almom](img/banners/Almom.jpg)](https://osu.ppy.sh/beatmapsets/2412270)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #26 |
+| **Total Elo** | **4373.5** |
+| **Graphics Elo** | 1516.1 |
+| **Music Elo** | 1418.6 |
+| **Mapping Elo** | 1438.8 |
+| **Vote count**[^vote-count] | 100 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Ocskai |
+| **Musician / mapper** | ::{ flag=HU }:: [RRolanDD](https://osu.ppy.sh/users/12291981) |
+| **Mapper** | ::{ flag=HU }:: [Magor](https://osu.ppy.sh/users/13214099) |
+| **Storyboarder / illustrator / mapper** | ::{ flag=HU }:: [HyBer](https://osu.ppy.sh/users/15025665) |
+| **Mapper** | ::{ flag=HU }:: [Nyartin](https://osu.ppy.sh/users/3436625) |
+
+[![Artwork of Riprider - ENC0DED : ENTR0PY](img/banners/ENC0DED__ENTR0PY.jpg)](https://osu.ppy.sh/beatmapsets/2412246)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Riprider - ENC0DED : ENTR0PY](https://osu.ppy.sh/beatmapsets/2412246)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #27 |
+| **Total Elo** | **4305.8** |
+| **Graphics Elo** | 1319.3 |
+| **Music Elo** | 1473.7 |
+| **Mapping Elo** | 1512.8 |
+| **Vote count**[^vote-count] | 106 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Augment:Nova |
+| **Musician** | ::{ flag=US }:: [Riprider500](https://osu.ppy.sh/users/33269592) |
+| **Mapper** | ::{ flag=CA }:: [honne](https://osu.ppy.sh/users/3988240) |
+| **Mapper** | ::{ flag=PL }:: [Tenexxt](https://osu.ppy.sh/users/34064854) |
+| **Mapper** | ::{ flag=AU }:: [Kyairie](https://osu.ppy.sh/users/10910405) |
+| **VFX artist / storyboarder / illustrator** | ::{ flag=AE }:: [X-ill](https://osu.ppy.sh/users/21771922) |
+
+[![Artwork of Chamiracqua - The Epiphany (feat. smoothycloud)](img/banners/The_Epiphany_(feat._smoothycloud).jpg)](https://osu.ppy.sh/beatmapsets/2412261)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=uzkaaUZBjNk) [Chamiracqua - The Epiphany (feat. smoothycloud)](https://osu.ppy.sh/beatmapsets/2412261)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #28 |
+| **Total Elo** | **4297.8** |
+| **Graphics Elo** | 1508.9 |
+| **Music Elo** | 1354.1 |
+| **Mapping Elo** | 1434.9 |
+| **Vote count**[^vote-count] | 115 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Lazy Seals |
+| **Illustrator / storyboarder** | ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849) |
+| **Musician** | ::{ flag=RU }:: [Vivaru](https://osu.ppy.sh/users/12777806) |
+| **Musician** | ::{ flag=RU }:: [SmoothyCloud](https://osu.ppy.sh/users/15831826) |
+| **Mapper** | ::{ flag=RU }:: [Rootynator](https://osu.ppy.sh/users/9824686) |
+| **Mapper** | ::{ flag=RU }:: [nine19](https://osu.ppy.sh/users/8874115) |
+
+[![Artwork of rikvinyas - Ryuu no Majo](img/banners/Ryuu_no_Majo.jpg)](https://osu.ppy.sh/beatmapsets/2412231)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=xXmAgu0R0Ko) [rikvinyas - Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #29 |
+| **Total Elo** | **4293.6** |
+| **Graphics Elo** | 1328.4 |
+| **Music Elo** | 1440.7 |
+| **Mapping Elo** | 1524.5 |
+| **Vote count**[^vote-count] | 124 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | 1head |
+| **Musician / mapper / designer** | ::{ flag=PL }:: [Rolniczy](https://osu.ppy.sh/users/8331132) |
+
+[![Artwork of Aphel - Pondering Magic](img/banners/Pondering_Magic.jpg)](https://osu.ppy.sh/beatmapsets/2412293)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/aphel-733525754/pondering-magic) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=LBvgiMPUgUo) [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #30 |
+| **Total Elo** | **4243.5** |
+| **Graphics Elo** | 1364.8 |
+| **Music Elo** | 1413 |
+| **Mapping Elo** | 1465.6 |
+| **Vote count**[^vote-count] | 110 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | we do well with deadlines |
+| **Mapper** | ::{ flag=AU }:: [chlortal](https://osu.ppy.sh/users/30827435) |
+| **Mapper** | ::{ flag=GB }:: [Melons](https://osu.ppy.sh/users/12049607) |
+| **Musician** | ::{ flag=EC }:: [Aphel](https://osu.ppy.sh/users/37650616) |
+| **Illustrator** | ::{ flag=BR }:: [kyermaniac](https://osu.ppy.sh/users/32859564) |
+
+[![Artwork of agu - unbound](img/banners/unbound.jpg)](https://osu.ppy.sh/beatmapsets/2412346)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #31 |
+| **Total Elo** | **4236.7** |
+| **Graphics Elo** | 1421.2 |
+| **Music Elo** | 1364.7 |
+| **Mapping Elo** | 1450.8 |
+| **Vote count**[^vote-count] | 106 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | hdm enjoyers |
+| **Musician** | ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122) |
+| **VFX artist** | ::{ flag=NZ }:: [krabtown](https://osu.ppy.sh/users/3388033) |
+| **Mapper** | ::{ flag=FI }:: [bob](https://osu.ppy.sh/users/5346261) |
+| **Mapper** | ::{ flag=BR }:: [vetoed](https://osu.ppy.sh/users/10909373) |
+
+[![Artwork of Ttmouse - NatsuUtsu feat. Kasane Teto](img/banners/NatsuUtsu_feat._Kasane_Teto.jpg)](https://osu.ppy.sh/beatmapsets/2412239)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Ttmouse - NatsuUtsu feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2412239)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #32 |
+| **Total Elo** | **4198.6** |
+| **Graphics Elo** | 1323.5 |
+| **Music Elo** | 1429.2 |
+| **Mapping Elo** | 1445.9 |
+| **Vote count**[^vote-count] | 113 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | aniteam |
+| **Musician / mapper / VFX artist** | ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509) |
+| **Mapper** | ::{ flag=CN }:: [Asaba Harumasa](https://osu.ppy.sh/users/8984146) |
+| **Illustrator / mapper** | ::{ flag=CN }:: [Yorita Yoshino](https://osu.ppy.sh/users/4279523) |
+| **Mapper** | ::{ flag=NZ }:: [nika mika](https://osu.ppy.sh/users/3878832) |
+| **Mapper** | ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) |
+
+[![Artwork of Attoclef ft. ∅ - EynohR](img/banners/EynohR.jpg)](https://osu.ppy.sh/beatmapsets/2412250)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=Nbh1eCinaWQ) [Attoclef ft. ∅ - EynohR](https://osu.ppy.sh/beatmapsets/2412250)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #33 |
+| **Total Elo** | **4182.3** |
+| **Graphics Elo** | 1339.4 |
+| **Music Elo** | 1386.8 |
+| **Mapping Elo** | 1456.1 |
+| **Vote count**[^vote-count] | 84 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Demiurge Zero |
+| **Musician** | ::{ flag=US }:: [Attoclef](https://osu.ppy.sh/users/30958520) |
+| **Mapper** | ::{ flag=CL }:: [KChronoZ](https://osu.ppy.sh/users/7918770) |
+| **Mapper** | ::{ flag=MY }:: [ItsCactus](https://osu.ppy.sh/users/15553329) |
+| **Mapper** | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490) |
+| **Illustrator** | ::{ flag=CO }:: [mayonesachan](https://osu.ppy.sh/users/34808672) |
+
+[![Artwork of sugosugiii - Maelstrom](img/banners/Maelstrom.jpg)](https://osu.ppy.sh/beatmapsets/2412254)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #34 |
+| **Total Elo** | **4167.7** |
+| **Graphics Elo** | 1314.2 |
+| **Music Elo** | 1379.9 |
+| **Mapping Elo** | 1473.6 |
+| **Vote count**[^vote-count] | 103 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Drumstep4 - LYRICS! |
+| **Mapper / hitsounder** | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
+| **Mapper** | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) |
+| **Mapper** | ::{ flag=IT }:: [Nemis](https://osu.ppy.sh/users/1635091) |
+| **Mapper** | ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929) |
+| **Musician / illustrator** | ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952) |
+
+[![Artwork of Artackni - Brainfryer](img/banners/Brainfryer.jpg)](https://osu.ppy.sh/beatmapsets/2412287)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=22_KL86CCA4) [Artackni - Brainfryer](https://osu.ppy.sh/beatmapsets/2412287)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #35 |
+| **Total Elo** | **4160** |
+| **Graphics Elo** | 1293.6 |
+| **Music Elo** | 1449.7 |
+| **Mapping Elo** | 1416.7 |
+| **Vote count**[^vote-count] | 111 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Team RGB |
+| **Mapper** | ::{ flag=DE }:: [Amon-](https://osu.ppy.sh/users/18161041) |
+| **Hitsounder** | ::{ flag=DE }:: [fujinn](https://osu.ppy.sh/users/11221442) |
+| **Illustrator** | ::{ flag=PH }:: [Hoetoplay](https://osu.ppy.sh/users/22439032) |
+| **Musician** | ::{ flag=RU }:: [Artackni](https://osu.ppy.sh/users/24948698) |
+
+[![Artwork of Tufani - Along the Cycle](img/banners/Along_the_Cycle.jpg)](https://osu.ppy.sh/beatmapsets/2412269)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Tufani - Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #36 |
+| **Total Elo** | **4136.6** |
+| **Graphics Elo** | 1378.1 |
+| **Music Elo** | 1403.1 |
+| **Mapping Elo** | 1355.5 |
+| **Vote count**[^vote-count] | 92 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | moonleaf++++ EXTEND |
+| **Mapper** | ::{ flag=US }:: [bakery](https://osu.ppy.sh/users/9665030) |
+| **Mapper** | ::{ flag=DE }:: [Kojio](https://osu.ppy.sh/users/2054596) |
+| **Musician** | ::{ flag=US }:: [Tufani](https://osu.ppy.sh/users/15505067) |
+| **Illustrator** | ::{ flag=US }:: [sardines](https://osu.ppy.sh/users/16247587) |
+
+[![Artwork of Tsukishiro feat. Inti - Neon Rebellion](img/banners/Neon_Rebellion.jpg)](https://osu.ppy.sh/beatmapsets/2412288)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Tsukishiro feat. Inti - Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #37 |
+| **Total Elo** | **4052.7** |
+| **Graphics Elo** | 1370.3 |
+| **Music Elo** | 1271.8 |
+| **Mapping Elo** | 1410.7 |
+| **Vote count**[^vote-count] | 120 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | The Abyss |
+| **Mapper** | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) |
+| **Musician** | ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930) |
+| **Musician / mapper** | ::{ flag=US }:: [intiaz](https://osu.ppy.sh/users/6223841) |
+| **Mapper** | ::{ flag=CL }:: [Hazu-](https://osu.ppy.sh/users/4668230) |
+| **Illustrator / storyboarder** | ::{ flag=CL }:: [Cosmolade](https://osu.ppy.sh/users/2172778) |
+
+[![Artwork of eluixx - untitled_1](img/banners/untitled_1.jpg)](https://osu.ppy.sh/beatmapsets/2412290)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [eluixx - untitled_1](https://osu.ppy.sh/beatmapsets/2412290)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #38 |
+| **Total Elo** | **4050.3** |
+| **Graphics Elo** | 1282 |
+| **Music Elo** | 1384.2 |
+| **Mapping Elo** | 1384.1 |
+| **Vote count**[^vote-count] | 118 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | The Microwaves |
+| **Mapper / hitsounder** | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |
+| **Storyboarder** | ::{ flag=CA }:: [Enkrypton](https://osu.ppy.sh/users/5178122) |
+| **Mapper** | ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238) |
+| **Musician** | ::{ flag=US }:: [Chromapoly](https://osu.ppy.sh/users/37406471) |
+| **Illustrator** | ::{ flag=US }:: [Eririker](https://osu.ppy.sh/users/37541567) |
+
+[![Artwork of Evangelion_guy - it doesn't feel like home to me](img/banners/it_doesn't_feel_like_home_to_me.jpg)](https://osu.ppy.sh/beatmapsets/2412237)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Evangelion_guy - it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #39 |
+| **Total Elo** | **3834.1** |
+| **Graphics Elo** | 1185.3 |
+| **Music Elo** | 1287.9 |
+| **Mapping Elo** | 1360.9 |
+| **Vote count**[^vote-count] | 106 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Angevin Eulogy |
+| **Musician / mapper / designer** | ::{ flag=CH }:: [Evangelion_MAN](https://osu.ppy.sh/users/16818096) |
+
+[![Artwork of Maemi no Yume - Free Your Heart](img/banners/Free_Your_Heart.jpg)](https://osu.ppy.sh/beatmapsets/2412235)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #40 |
+| **Total Elo** | **3828.5** |
+| **Graphics Elo** | 785.1 |
+| **Music Elo** | 1503.7 |
+| **Mapping Elo** | 1539.7 |
+| **Vote count**[^vote-count] | 105 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | 5pc chicken mcnuggets |
+| **Mapper** | ::{ flag=PH }:: [Onegai](https://osu.ppy.sh/users/11849100) |
+| **Mapper** | ::{ flag=PH }:: [LeCandy](https://osu.ppy.sh/users/6626249) |
+| **Hitsounder** | ::{ flag=PH }:: [iFinixe](https://osu.ppy.sh/users/10501608) |
+| **Vocalist / illustrator** | ::{ flag=PH }:: [peko_](https://osu.ppy.sh/users/18268524) |
+| **Musician** | ::{ flag=BR }:: [Maemi no Yume](https://osu.ppy.sh/users/4377273) |
+
+[![Artwork of airlemoneX - Be with you](img/banners/Be_with_you.jpg)](https://osu.ppy.sh/beatmapsets/2412323)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [airlemoneX - Be with you](https://osu.ppy.sh/beatmapsets/2412323)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #41 |
+| **Total Elo** | **3752.4** |
+| **Graphics Elo** | 1443.7 |
+| **Music Elo** | 1449.7 |
+| **Mapping Elo** | 859 |
+| **Vote count**[^vote-count] | 117 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Limerence |
+| **Mapper** | ::{ flag=DE }:: [Lulu-](https://osu.ppy.sh/users/4201715) |
+| **Mapper** | ::{ flag=TH }:: [Typ4](https://osu.ppy.sh/users/6902361) |
+| **Storyboarder** | ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) |
+| **Musician** | ::{ flag=JP }:: [motidora](https://osu.ppy.sh/users/38102083) |
+
+[![Artwork of ZxKirara feat. Shian - Shiny Day Roam](img/banners/Shiny_Day_Roam.jpg)](https://osu.ppy.sh/beatmapsets/2412281)
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### [ZxKirara feat. Shian - Shiny Day Roam](https://osu.ppy.sh/beatmapsets/2412281)
+
+|  |  |
+| --: | :-- |
+| **Placement** | #42 |
+| **Total Elo** | **3722.2** |
+| **Graphics Elo** | 1223.3 |
+| **Music Elo** | 1332.6 |
+| **Mapping Elo** | 1166.4 |
+| **Vote count**[^vote-count] | 120 |
+
+:::
+
+|  |  |
+| :-- | :-- |
+| **Team name** | Shiny morning |
+| **Musician / mapper / illustrator** | ::{ flag=CN }:: [ZxKirara](https://osu.ppy.sh/users/8442415) |
+
+### Graphics category results
+
+| # | Entry | Graphics Elo | Win rate[^win-rate] |
 | :-: | :-- | --: | --: |
 | 1 | [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) | 1815.1 | 81% |
 | 2 | [ArXe - Locus Amoenus (feat. Megurine Luka)](https://osu.ppy.sh/beatmapsets/2412292) | 1807.2 | 81% |
@@ -216,7 +1277,7 @@ This contest has come to an end and resulted in the following podium:
 | 30 | [Tufani - Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) | 1378.1 | 36% |
 | 31 | [Tsukishiro feat. Inti - Neon Rebellion](https://osu.ppy.sh/beatmapsets/2412288) | 1370.3 | 35% |
 | 32 | [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) | 1364.8 | 34% |
-| 33 | [Attoclef ft. Γêà - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1339.4 | 30% |
+| 33 | [Attoclef ft. ∅ - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1339.4 | 30% |
 | 34 | [rikvinyas - Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231) | 1328.4 | 30% |
 | 35 | [Ttmouse - NatsuUtsu feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2412239) | 1323.5 | 30% |
 | 36 | [Riprider - ENC0DED : ENTR0PY](https://osu.ppy.sh/beatmapsets/2412246) | 1319.3 | 28% |
@@ -265,7 +1326,7 @@ This contest has come to an end and resulted in the following podium:
 | 32 | [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270) | 1418.6 | 40% |
 | 33 | [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) | 1413 | 38% |
 | 34 | [Tufani - Along the Cycle](https://osu.ppy.sh/beatmapsets/2412269) | 1403.1 | 38% |
-| 35 | [Attoclef ft. Γêà - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1386.8 | 35% |
+| 35 | [Attoclef ft. ∅ - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1386.8 | 35% |
 | 36 | [eluixx - untitled_1](https://osu.ppy.sh/beatmapsets/2412290) | 1384.2 | 35% |
 | 37 | [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) | 1379.9 | 34% |
 | 38 | [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346) | 1364.7 | 33% |
@@ -308,7 +1369,7 @@ This contest has come to an end and resulted in the following podium:
 | 28 | [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254) | 1473.6 | 46% |
 | 29 | [Aphel - Pondering Magic](https://osu.ppy.sh/beatmapsets/2412293) | 1465.6 | 44% |
 | 30 | [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) | 1464.9 | 45% |
-| 31 | [Attoclef ft. Γêà - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1456.1 | 43% |
+| 31 | [Attoclef ft. ∅ - EynohR](https://osu.ppy.sh/beatmapsets/2412250) | 1456.1 | 43% |
 | 32 | [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346) | 1450.8 | 42% |
 | 33 | [Ttmouse - NatsuUtsu feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2412239) | 1445.9 | 42% |
 | 34 | [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270) | 1438.8 | 41% |
