@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d685bfe83f7122680c9cd6f03302682063de11ce
----
-
 # 游戏模式
 
 osu! 内置了**四个游戏模式**，分别有不同的玩法，均从其他音乐游戏中获得了灵感。
@@ -43,7 +38,7 @@ osu! 内置了**四个游戏模式**，分别有不同的玩法，均从其他�
 
 *主条目： [osu!catch](osu!catch)*
 
-在 *osu!catch* 当中，各种水果会从天而降，而玩家需要控制屏幕底端举着盘子的小人，随着节奏接住水果。它的玩法大概借鉴于一款 [狂热节拍 (Beatmania)](https://zh.wikipedia.org/wiki/狂热节拍) 模拟器中的迷你游戏，而这款模拟器，据信又基于 [EZ2DJ](https://zh.wikipedia.org/wiki/EZ2DJ) 中的 *EZ2CATCH* 模式。osu!catch 的吉祥物是 [Yuzu](/wiki/Mascots#yuzu)，是一个蓝色头发的男孩。
+在 *osu!catch* 当中，玩家需要控制屏幕底端举着盘子的小人，随着节奏接住从天而降的水果。它的玩法大致借鉴了 PC 平台[狂热节拍 (Beatmania)](https://zh.wikipedia.org/wiki/狂热节拍) 模拟器 [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm] 早期版本中的迷你游戏“Catch It!!”，而这款模拟器又脱胎于 [EZ2DJ](https://zh.wikipedia.org/wiki/EZ2DJ) 街机系统中的 *EZ2CATCH* 模式。osu!catch 的吉祥物是 [Yuzu](/wiki/Mascots#yuzu)，是一个蓝色头发的男孩。
 
 ![osu!catch 游戏界面](/wiki/shared/catch-gameplay.jpg "osu!catch 游戏界面")
 
@@ -60,6 +55,10 @@ osu! 内置了**四个游戏模式**，分别有不同的玩法，均从其他�
 在 osu!(lazer) 中，可以使用 `.dll` 文件手动安装自定义游戏模式（也被称作自定义规则集，rulesets）。它们引入了使用 osu! 提供的谱面库，游玩游戏的新方式。自定义游戏模式（比如主模式）的灵感一般是从其他音游中获得的。
 
 完整的可玩自定义模式列表可以在[这个 GitHub 讨论帖](https://github.com/ppy/osu/discussions/13096)找到。
+
+## 参考资料
+
+[^rdm]: [peppy 的 YouTube 视频 (2008-10-15) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

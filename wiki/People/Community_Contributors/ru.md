@@ -266,7 +266,7 @@
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Выдающийся вклад в маппинг- и моддинг-сцену osu!mania |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Выдающийся вклад в турнирную сцену osu!mania и маппинг |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Выдающийся вклад в разработку системы PP через сервисы ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Выдающийся вклад в разработку системы PP и поддержку osu!(stable) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Выдающийся вклад в разработку системы PP и поддержку osu!(stable) |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Выдающийся вклад в объединение osu!-сообщества в сабреддите [r/place](https://www.reddit.com/r/place/) events |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Выдающийся вклад в документирование и разработку инструментов для работы с реплеями |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Выдающийся вклад в сообщшество через разработку прикладных программ ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |

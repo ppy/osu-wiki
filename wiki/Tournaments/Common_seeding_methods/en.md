@@ -52,7 +52,7 @@ The sum of placements for a team is given by
 
 ![Sum of placements formula](img/golf.png)
 
-Instead of a sum, the placements may also be averaged, which yields the same overall seeding. Note that if two teams both receive the highest score on a map, their map placements are both 1 (rather than both being 2); more explicitly, a team's `map placement` on a map is the number of teams who score higher than them plus one.
+Instead of a sum, the placements may also be averaged, which yields the same overall seeding. This is commonly referred to as **average placement**. Note that if two teams both receive the highest score on a map, their map placements are both 1 (rather than both being 2); more explicitly, a team's `map placement` on a map is the number of teams who score higher than them plus one.
 
 ### Percent max
 
