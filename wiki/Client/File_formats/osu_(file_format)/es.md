@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9e27b13d4f2dba800fbdb69bb4f724b48d2b60eb
+---
+
 # .osu (formato de archivo)
 
 **`.osu`** es un formato de archivo legible por humanos que contiene información sobre un beatmap.
