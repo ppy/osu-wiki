@@ -14,6 +14,7 @@ no_native_review: true
 - [osu! Discord 伺服器](/wiki/Community/Discord_servers#official)
 - [社群 Discord 伺服器](/wiki/Community/Discord_servers)
 - [線下組織](/wiki/Community/Organisations)
+- [Reddit](/wiki/Community/Reddit)
 
 ## 專案
 

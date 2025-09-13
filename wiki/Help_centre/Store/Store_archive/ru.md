@@ -1,6 +1,4 @@
 ---
-outdated_since: f65f9027e4a4df76600c03ace51142cb8b96af84
-outdated_translation: true
 tags:
   - store
   - product
@@ -21,10 +19,10 @@ tags:
   - символика
 ---
 
-# Store archive
+# Архив osu!store
 
 *Основная статья: [Магазин osu!store](/wiki/Help_centre/Store)*\
-*Примечание: эти продукты больше нельзя приобрести в osu!store.*
+*Примечание: эти продукты больше нельзя приобрести в osu!store. Для полного списка продуктов, бывших в наличии в osu!store, см. [Архив товаров osu!store](/wiki/Past_osu!store_items).*
 
 Что-то купили в официальном онлайн-магазине osu!, а оно не работает? Эта статья может вам помочь.
 

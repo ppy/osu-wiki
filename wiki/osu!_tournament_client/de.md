@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
----
-
 # osu!-Turnier-Client
 
 Der **osu!-Turnier-Client** ist der offizielle Client, der [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) mit zusätzlichen Szenen und Informationen ummantelt, die für ein osu!-Turnier während eines Livestreams relevant sind.
@@ -79,3 +74,4 @@ Die Videodateien müssen in `<dein-turnier>/Videos` platziert werden und für di
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
+| Bracket | `ladder` |

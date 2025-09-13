@@ -1,6 +1,6 @@
 # Reporting bad behaviour
 
-osu! has [a team of moderators](/wiki/People/Global_Moderation_Team) that adheres to keeping the game and its ecosystem clean and safe. If you notice rule-breaking behaviour or inappropriate content, report it using one of the methods described below. Alternatively, you may contact any of the moderators online directly if your report wasn't properly handled within a reasonable amount of time — do so only as the last resort.
+osu! has a team of moderators, the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT), that operates to keep the game and its ecosystem clean and safe. If you notice rule-breaking behaviour or inappropriate content, report it using one of the methods described below. Alternatively, you may contact any of the moderators online directly if your report wasn't properly handled within a reasonable amount of time — do so only as the last resort.
 
 Accidental reports are ignored. Users who deliberately send invalid reports can risk being [silenced](/wiki/Silence).
 
@@ -10,11 +10,12 @@ Accidental reports are ignored. Users who deliberately send invalid reports can 
 | :-- | :-- |
 | Scamming/Phishing in private messages | Send a regular report |
 | Other offensive/inappropriate private messages | **None**: [ignore the user](/wiki/Client/Interface/Chat_console#commands-list) instead. For permanent effect, use the in-game ignore list located in [options](/wiki/Client/Options) or block them on the website with the button located on their user profile. |
-| Inappropriate conduct from a [BN](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), via the [NAT/BN Management](https://bn.mappersguild.com/reports) website |
+| Inappropriate content in [Ranked](/wiki/Beatmap/Category#ranked) beatmaps[^invalid-reports] | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) or [GMT](/wiki/People/Global_Moderation_Team), via the [BN Management](https://bn.mappersguild.com/reports) website |
+| Inappropriate conduct from a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), via the [BN Management](https://bn.mappersguild.com/reports) website |
 | Inappropriate conduct from a member of the [NAT](/wiki/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) | [Account support team](/wiki/People/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh) |
 | Sexual abuse or extreme misbehaviour | Refer to [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse) |
 
-For anything else, see instructions below.
+For anything else, see the instructions below.
 
 ## In-game chat
 
@@ -22,7 +23,7 @@ For anything else, see instructions below.
 
 ![](img/report-command.jpg "Example of using the !report command")
 
-Chat misbehaviour is the most common infringement. To report it, use the [`!report`](https://osu.ppy.sh/community/forums/topics/34843) command, preferably in the channel where infringement took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
+Chat misbehaviour is the most common infringement. To report it, use [the `!report` command](https://osu.ppy.sh/community/forums/topics/34843), preferably in the channel where the infringement(s) took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
 
 The command's syntax has two forms:
 
@@ -105,3 +106,7 @@ This option works if the offending user is in sight:
 1. Hover the cursor over the score.
 2. At the right side of the score, press the button with three vertical dots and select `Report Score`.
 3. Select the category and add details (optional).
+
+## References
+
+[^invalid-reports]: Unlike other categories, Ranked beatmaps cannot be reported via the website.

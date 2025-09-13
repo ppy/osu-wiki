@@ -21,17 +21,16 @@ tags:
 
 ### osu!taiko
 
-- ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208)
-- ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
-- ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667)
-- ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501)
+- ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208)
+- ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728)
+- ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163)
+- ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982)
 
 ### osu!catch
 
 - ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877)
+- ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384)
 - ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
-- ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190)
-- ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946)
 - ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722)
 
 ### osu!mania

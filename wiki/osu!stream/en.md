@@ -22,48 +22,47 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ![](img/Os-Devices.jpg "osu!stream in iOS devices")
 
-### iOS App Store method (suggested)
+### App Store method (recommended)
 
-**Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
+*Note: Make sure the device can connect to the Internet (either by Wi-Fi or mobile data).*
 
-- Go to "App Store" from the iOS device
+- Go to "App Store" from the iOS device or "Play Store" on Android.
 - Search for osu!stream
 - Press and install osu!stream
-  - If prompted to key-in the Apple ID and the password, please do so.
-- osu!stream can be played after the download and auto-installation is completed.
-  - It is suggested to read the [Adding Beatmaps](#adding-beatmaps) section too to get the latest free songs pack. The current download contains only 2 songs.
+  - If prompted to type in any account details, please do so.
+- osu!stream can be played after the download and installation is completed.
+- It is recommended to read the [Adding Beatmaps](#adding-beatmaps) section too to get the latest free songs pack. The current download contains only 2 songs.
 
-### USB method
+### USB method (legacy, iOS-only)
 
-**Device must have [iTunes](https://www.apple.com/itunes/) installed.**
+*Notice: For this method, [iTunes](https://www.apple.com/itunes/) must be installed.*
 
-- Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
-  - If requested for Apple ID, key-in the Apple ID and the password.
-- Plug-in the iOS device to the device (that has osu!stream).
+- Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
+  - If requested for Apple ID, type in the Apple ID and the password.
+- Plug-in the iOS device to the device on which osu!stream is installed.
 - Transfer the osu!stream files using iTunes.
 - Unplug the iOS device and osu!stream can be played.
 
 ## Adding Beatmaps
 
-**Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
+*Note: Make sure the device can connect to the Internet (either by Wi-Fi or mobile data).*
 
 - Open osu!stream.
-- Press the osu! symbol and it should be directed to the main menu (or tutorial if first time)
+- Press the osu! symbol to go to the main menu (or tutorial if playing for the first time)
 - Press the "Store" bar
   - Alternatively, head to "Play" and press "Download more songs!"
 - Select a desired pack.
 
 ## What is the difference?
 
-- **Playable on any iOS devices only.** (for now)
 - Beatmaps are made from scratch.
 - No account needed to download the song packs.
-- Can integrate osu!stream with a Twitter account.
-- High score may be sent anonymously to the site under the name of "Guest" (requires Internet connection).
-- The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play. \[Bottom(Long)\]
+- osu!stream can be integrated with a Twitter account on iOS.
+- High scores may be submitted anonymously under the name of "Guest" (requires an internet connection).
+- The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play.
 - **Average Timing** is given at the grade page.
 - Old records and replays cannot be saved.
-- Cannot change skin nor can apply any mods (yet).
+- The default skin cannot be changed and mods are not available.
 - Easter Eggs can be found but there is no Achievement page...
 
 ### New gameplay system
@@ -91,8 +90,6 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ![](img/Os-HC.jpg "Hold circle 1")
 
----
-
 ![](img/Os-HC2.jpg "Hold circle 2")
 
 - Hold circle requires the player to hold the circle until the circle "explodes".
@@ -102,23 +99,13 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ### New Modes to replace the difficulty
 
----
-
 ![](img/Os-PlayEasy.png "Easy")
-
----
 
 ![](img/Os-PlayNormal.png "Normal")
 
----
-
 ![](img/Os-PlayHard.png "Hard")
 
----
-
 ![](img/Os-PlayExpert.jpg "Expert")
-
----
 
 #### Easy mode
 
@@ -144,23 +131,13 @@ Do note the player **must score at least A (>80% accuracy) rank in this mode in 
 
 The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 
----
-
 ![](img/Os-SU.png "Stream Up!")
-
----
 
 ![](img/Os-SD.png "Stream Down!")
 
----
-
 ![](img/Os-Zero1.png "Critical health")
 
----
-
 ![](img/Os-Zero2.png "Game Over")
-
----
 
 #### Expert mode
 
@@ -174,55 +151,29 @@ The background colour is Purple and the lights will darken depending on current 
 
 ## Interface
 
----
-
 ![](img/Os-MM.png "Main Menu")
-
----
 
 ![](img/Os-SL.jpg "Song list")
 
----
-
 ![](img/Os-Store.jpg "Store screen")
-
----
 
 ![](img/Os-DS.png "Selecting style menu")
 
----
-
 ![](img/Os-SI.png "Song Information")
-
----
 
 ![](img/Os-PlayExpert.jpg "Expert")
 
----
-
 ![](img/Os-Pause.png "Pause menu")
-
----
 
 ![](img/Os-FM.png "Failed menu")
 
----
-
 ![](img/Os-SC.png "Stage cleared!")
-
----
 
 ![](img/Os-Grade.jpg "Grade screen")
 
----
-
 ![](img/Os-O1.png "Option screen 1")
 
----
-
 ![](img/Os-O2.png "Option screen 2")
-
----
 
 ## Scoring
 
@@ -255,13 +206,13 @@ Additionally, each slider start, end, and repeat tick awards 30 points and each 
 
 ### Hit circle judgement
 
-**Hit-circles**
+#### Hit-circles
 
 - A 300, 100 or 50 is awarded from a normal hit circle depending on the tap accuracy.
 - A miss is given if a hit circle was tapped too early or not tapped at all.
   - If tapped on it really, really early, the object will shake instead. Nothing will happen technically except visually telling that it was tapped too early.
 
-**Hold-circle**
+#### Hold-circle
 
 - The judgement of the hold circle depends on the initial tap and the hold time before exploding.
   - 300 if done perfectly.
@@ -270,7 +221,7 @@ Additionally, each slider start, end, and repeat tick awards 30 points and each 
   - 30 for every explosion.
   - Multiplier resets if the circles were not hold properly and Miss for not holding at all.
 
-**Sliders**
+#### Sliders
 
 - **The judgement for sliders depends on the accuracy of the initial tap**.
 - Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
@@ -280,7 +231,7 @@ Additionally, each slider start, end, and repeat tick awards 30 points and each 
 - **Clicking a slider way too early** does not incur a miss, but **will reset the score multiplier to 0**.
 - A miss if the slider was not held at all.
 
-**Spinner**
+#### Spinner
 
 - For a spinner, a 300, 100 or 50 depending on the number of spins done compared to the length of the spinner.
 - A miss if unable to fill the meter shown on both sides of the spinner.
@@ -314,12 +265,14 @@ The following will not increase or reset the score multiplier:
 
 **Normal grades**
 
-- SS = 100% accuracy
-- S = Over 90% accuracy
-- A = Over 80% accuracy
-- B = Over 70% accuracy
-- C = Over 60% accuracy
-- D = Anything else.
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% accuracy |
+| S | Over 90% accuracy |
+| A | Over 80% accuracy |
+| B | Over 70% accuracy |
+| C | Over 60% accuracy |
+| D | Anything else |
 
 ### Life meter
 

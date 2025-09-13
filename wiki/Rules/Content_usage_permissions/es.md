@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 502953c245f58ddf62c5a1eed56e5ba70f388066
+---
+
 # Permisos de uso de contenido
 
 osu! gira en torno a la posibilidad de crear y compartir creaciones libremente entre todos. Es importante asegurarse de adquirir los permisos adecuados para usar cualquier trabajo de otro creador en nuevas creaciones y que todo ese trabajo esté debidamente atribuido.
@@ -314,6 +319,7 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/242) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/247) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/270) | [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) | ![][true] [^monstercat-gold] |
+|  | [realjoschi64xd](https://realjoschi64xd.newgrounds.com/) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
@@ -422,11 +428,12 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 
 #### Artistas permitidos, con excepciones
 
-Esta sección se actualizó por última vez el 7 de marzo de 2025.
+Esta sección se actualizó por última vez el 30 de marzo de 2025.
 
 | Artista |  | Estado | Notas |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contactar antes de subir. Se le puede contactar por [correo electrónico](mailto:hisaweb_info@yahoo.co.jp) o [Bandcamp](https://a-hisa.bandcamp.com/). |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
@@ -442,7 +449,6 @@ Esta sección se actualizó por última vez el 7 de marzo de 2025.
 | Artista | Estado |
 | :-- | :-- |
 | 40mP | ![][false] |
-| ak+q | ![][false] |
 | DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |
@@ -450,7 +456,7 @@ Esta sección se actualizó por última vez el 7 de marzo de 2025.
 | Hatsuki Yura | ![][false] |
 | Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## Visual

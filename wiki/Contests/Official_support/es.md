@@ -72,7 +72,7 @@ Los concursos que cumplan los siguientes criterios podrán recibir soporte ofici
 - **El anfitrión del concurso debe moderar los comentarios de quienes sean sus jueces.** Los comentarios ofensivos, despectivos, carentes de esfuerzo o inapropiados podrán ser eliminados a discreción del comité.
 - **Los resultados del concurso deben mostrarse públicamente con las puntuaciones/comentarios de los jueces visibles.** Los jueces pueden ser anonimizados públicamente, pero el osu! team puede pedir datos no anonimizados de los jueces si es necesario.
 - **El concurso debe tener al menos 4 jueces.** Los concursos con menos jueces permiten que cada juez influya demasiado en los resultados generales.
-- **Los concursos que incluyan un proceso de selección previo a la fase del juicio también deberán contar con al menos 4 seleccionadores.**
+- **Los concursos que incluyan un proceso de selección previo a la fase del juicio también deberán contar con al menos 4 seleccionadores.** Los seleccionadores no pueden formar parte del equipo de jueces, y viceversa.
 - **Un usuario no puede participar en más de un envío para el concurso.**
 - **Los envíos para el concurso deben ser anónimos.** De esta forma se evita juzgar la asociación de nombres entre un mapper y su mapa. Esta regla solo podrá ignorarse si en un concurso concurren circunstancias especiales que justifiquen la eliminación del anonimato.
 - **Los organizadores del concurso no deben participar en el mismo.** Esto incluye tanto el envío de un mapa *como* la selección y evaluación de los mismos. Se considera como «organizador del concurso» a cualquier persona que tenga acceso a la información de selección/evaluación o a los envíos no anonimizados.

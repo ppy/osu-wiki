@@ -1,9 +1,4 @@
----
-outdated_translation: true
-outdated_since: 3589d6c6271fa8cf9164bb3a0e26575287869758
----
-
-# Categorie di beatmap
+# Categoria di beatmap
 
 Le [beatmaps](/wiki/Beatmap) caricate online sono suddivise in categorie in base alla loro recente attività, stato della [nominazione](/wiki/Beatmap_ranking_procedure#qualification) e popolarità.
 
@@ -19,6 +14,8 @@ Una beatmap viene spostata automaticamente nelle mappe abbandonate dalle [Beatma
 
 Le mappe in lavorazione (comunemente abbreviate in *WIP*) e in attesa sono le due categorie in cui vengono inseriti i beatmap al momento dell'invio iniziale. I beatmap in queste categorie possono passare alla categoria [Qualificate](#qualified) dalla [nomina](/wiki/Beatmap_ranking_procedure#nominations) da parte di almeno due [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Questo di solito include una grande quantità di feedback da parte dei [modder](/wiki/Modding/Modder) attraverso il [modding](/wiki/Modding). Le beatmap in lavorazione e in attesa non hanno classifiche, ma [contribuiscono alle statistiche di gioco](#statistiche-delle-mappe-non-classificate). Utilizzano l'icona del punto interrogativo (![](/wiki/shared/status/pending.png)) nella schermata di selezione dei brani.
 
+Le mappe inattive rimaste in questa categoria per 4 settimane vengono automaticamente spostate nella categoria [Abbandonate](#graveyard).
+
 ### Qualificate {id=qualified}
 
 Quando la mappa è qualificata siamo nell'ultima fase della [procedura di classificazione delle beatmap](/wiki/Beatmap_ranking_procedure). Queste beatmap sono state nominate da almeno due [Beatmap Nominators](/wiki/People/Beatmap_Nominators) che si sono assicurati che la beatmap soddisfi gli standard dei [criteri di classificazione](/wiki/Ranking_criteria). Le beatmap messe nella categoria Qualificate entrano in una [coda di classificazione](/wiki/Beatmap_ranking_procedure/Ranking_queue), e alla fine saranno [Classificate](#ranked) se non vengono [squalificate](/wiki/Beatmap_ranking_procedure#nomination-resets) dalla coda. Questo periodo serve come ultima fase di controllo per correggere eventuali difetti ed errori che potrebbero essere sfuggiti.
@@ -33,7 +30,7 @@ Le beatmap classificate sono approvate come contenuto ufficiale, nel senso che h
 
 *Per la storia della categoria Amate vedere: [Storia delle beatmap Amate](/wiki/History_of_osu!/History_of_Loved)*.
 
-Le beatmap Amate possono non soddisfare i [criteri di classificazione](/wiki/Ranking_criteria), ma sono *amate* dalla community e quindi vengono regolarmente aggiunte in base ai voti della comunità in [Project Loved](/wiki/Community/Project_Loved). Hanno classifiche, ma non vengono assegnati [punti performance](/wiki/Performance_points) e tutti i punteggi vengono cancellati se escono dalla categoria Amate (di solito questo avviene solo su richiesta del creatore). Le beatmap amate utilizzano l'icona del cuore (![](/wiki/shared/status/loved.png)) nella schermata di selezione dei brani.
+Le beatmap Amate possono non soddisfare i [criteri di classificazione](/wiki/Ranking_criteria), ma sono *amate* dalla community e quindi vengono regolarmente aggiunte in base ai voti della comunità in [Project Loved](/wiki/Community/Project_Loved). Hanno classifiche, ma non vengono assegnati [punti performance](/wiki/Performance_points) e tutti i punteggi vengono cancellati se escono dalla categoria Amate. Le beatmap amate utilizzano l'icona del cuore (![](/wiki/shared/status/loved.png)) nella schermata di selezione dei brani.
 
 ## Storia
 

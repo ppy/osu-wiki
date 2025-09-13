@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2c9fd01c55a5610c8b047b3bbf8683d414c02987
+---
+
 # Comment enregistrer des vidéos d'osu!
 
 [Vous voulez utiliser Virtualdub au lieu de Sony Vegas ? Cliquez ici !](https://osu.ppy.sh/community/forums/posts/252802)

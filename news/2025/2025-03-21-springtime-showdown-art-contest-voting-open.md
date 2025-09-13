@@ -18,7 +18,7 @@ We're extremely impressed, but you'll of course be the judge of which artworks n
 
 Also, we heard from many artists that they started on their artwork very late. If that sounds worrying, please rest assured that it's completely normal! As we all know, productivity is inversely proportional to the time left until the deadline:
 
-![Graph of productivity vs. time until deadline](/wiki/shared/news/2025-03-21-springtime-showdown-art-voting/graph.png)
+![Graph of productivity vs. time until deadline](/wiki/shared/news/2025-03-21-springtime-showdown-art-voting/graph.png?1)
 
 Indeed, only a week ago, about a *quarter* of all entries were submitted, which turned into *half* of them just half a week later.
 

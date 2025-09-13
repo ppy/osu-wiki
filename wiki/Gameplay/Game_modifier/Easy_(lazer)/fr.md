@@ -40,7 +40,7 @@ Le mod **Easy** tente de rendre les [beatmaps](/wiki/Beatmap) plus faciles en r�
 
 ## Personnalisation
 
-![Personnalisation du mode Easy en jeu](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.jpg)
+![Personnalisation du mode Easy en jeu](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.png)
 
 - **Extra Lives** (2 par défaut, peut être réglé de 0 à 10) : le nombre de vies supplémentaires accordées au joueur au cours de la partie.
 

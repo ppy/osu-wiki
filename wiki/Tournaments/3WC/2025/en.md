@@ -8,7 +8,7 @@ tags:
 
 ![3WC 2025 banner](img/banner.jpg)
 
-The **3 Digit World Cup 2025** (***3WC2025***) is a 3v3, double-elimination, country-based osu! tournament hosted by ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) and ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899). It is the seventh instalment of the 3 Digit World Cup.
+The **3 Digit World Cup 2025** (***3WC2025***) was a 3v3, double-elimination, country-based osu! tournament hosted by ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) and ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264). It was the seventh instalment of the 3 Digit World Cup.
 
 ## Tournament schedule
 
@@ -26,28 +26,30 @@ The **3 Digit World Cup 2025** (***3WC2025***) is a 3v3, double-elimination, cou
 
 ## Prizes
 
-The 3 Digit World Cup 2025 awards winners with a [community-funded prize pool on Open Collective](https://opencollective.com/3wc).
+The 3 Digit World Cup 2025 awarded winners with a [community-funded prize pool on Open Collective](https://opencollective.com/3wc).
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Tablet cover and Wooting UwU (non-RGB) keyboard for each player, 44% of the prize pool, profile badge (pending), animated profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Tablet cover and Wooting UwU (non-RGB) keyboard for each player, 44% of the prize pool, profile badge, animated profile banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, animated profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 24% of the prize pool, animated profile banner |
 
+![](img/badge.png "3WC 2025 winner badge")
+
 ## Organisation
 
-The 3 Digit World Cup 2025 is run by various community members.
+The 3 Digit World Cup 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Organiser | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
 | Designer and developer | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 | Mappool selector | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
 | Mappool playtester | ::{ flag=SM }:: [Arge](https://osu.ppy.sh/users/11215030), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=DE }:: [Ezius](https://osu.ppy.sh/users/1861823), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=DE }:: [Hixia](https://osu.ppy.sh/users/6263574), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=PL }:: [kiir0chii](https://osu.ppy.sh/users/9322480), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Eliminated playtester | ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872) |
 | Mapper | ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997), ::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=DE }:: [Bazuso](https://osu.ppy.sh/users/11726139), ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365), ::{ flag=TW }:: [knowledgeking](https://osu.ppy.sh/users/8022517), ::{ flag=HK }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493), ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734), ::{ flag=TR }:: [MonsieurSebas](https://osu.ppy.sh/users/16543098), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TW }:: [oTwinkle](https://osu.ppy.sh/users/15095654), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=DE }:: [Ryuukan Ameri](https://osu.ppy.sh/users/8260206), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=SG }:: [Slyze-](https://osu.ppy.sh/users/9162649), ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998), ::{ flag=AU }:: [xLolicore-](https://osu.ppy.sh/users/4525153), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Streamer | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=CA }:: [kymotsujason](https://osu.ppy.sh/users/2541804), ::{ flag=US }:: [ROB_](https://osu.ppy.sh/users/12455868), ::{ flag=RU }:: [RobotSkin_](https://osu.ppy.sh/users/13820038), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=VN }:: [SIay](https://osu.ppy.sh/users/9587896) |
-| Commentator | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
+| Commentator | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | Referee | ::{ flag=IN }:: [-Space](https://osu.ppy.sh/users/7720204), ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=KR }:: [Discord](https://osu.ppy.sh/users/16194858), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/users/10079847), ::{ flag=US }:: [ROB_](https://osu.ppy.sh/users/12455868), ::{ flag=RU }:: [RobotSkin_](https://osu.ppy.sh/users/13820038), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 
 ## Links
@@ -92,13 +94,9 @@ The 3 Digit World Cup 2025 is run by various community members.
 | ::{ flag=GB }:: | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [Mahmood](https://osu.ppy.sh/users/7627844), [EZChamp](https://osu.ppy.sh/users/1719471), [HAUNTE](https://osu.ppy.sh/users/7333471), [skiatzo](https://osu.ppy.sh/users/16774872), [lystia](https://osu.ppy.sh/users/11042418) |
 | ::{ flag=US }:: | **United States** | **[tekkito](https://osu.ppy.sh/users/7075211)**, [Pezz](https://osu.ppy.sh/users/10651106), [EthantrixV2](https://osu.ppy.sh/users/10634348), [BoshyMan741](https://osu.ppy.sh/users/4830687), [\[C\]](https://osu.ppy.sh/users/7959945), [Flameztear](https://osu.ppy.sh/users/13207763) |
 
-## Match schedule: Grand Finals
+## Podium
 
-### Sunday, March 23
-
-| Red Team | Blue Team | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | Mar 23 (Sun) 04:00 UTC | [3wc_osu](https://twitch.tv/3wc_osu) |  |
+![](img/podium.jpg "3WC 2025 podium")
 
 ## Mappools
 
@@ -281,6 +279,12 @@ Sunday, 16 March 2025:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | United States ::{ flag=US }:: | 1 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/117495377) | [#1](https://www.youtube.com/watch?v=PjAs9o0a9PI) |
+
+Sunday, 23 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 6 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/117566226) | [#1](https://www.youtube.com/watch?v=ETBqWoZm-wQ) |
 
 ### Finals
 

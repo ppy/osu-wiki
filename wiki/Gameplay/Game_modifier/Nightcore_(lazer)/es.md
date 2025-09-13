@@ -32,6 +32,14 @@ tags:
 *Para la versión de osu!stable de este artículo, véase: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*\
 *Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
+El mod **Nightcore** se comporta exactamente igual que [Double Time](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) en cuanto a cambios de velocidad y ajustes de dificultad. Sin embargo, aumenta específicamente la frecuencia del audio en un 150 % sin ofrecer la opción de ajuste de tono en los ajustes de personalización.
+
+## Personalización
+
+![Opciones de personalización del mod Nightcore en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NC.png)
+
+- **Speed increase** (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se jugará el mapa.
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

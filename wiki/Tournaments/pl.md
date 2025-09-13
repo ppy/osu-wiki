@@ -105,7 +105,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Aus/NZ osu!standard Tournament 10 - Winter | 2023-07-23 | 2023-09-18 | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) |
 | Aus/NZ osu!standard Tournament 11 - Summer | 2024-01-27 | 2024-03-11 | santa deniers | jelqmaxxers | ASecretDozer |
 | Aus/NZ osu!standard Tournament 11 - Winter | 2024-07-15 | 2024-09-08 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
-| Aus/NZ osu!standard Tournament 12 - Summer | 2025-01-25 | 2025-03-23 | *TBD* | *TBD* | *TBD* |
+| Aus/NZ osu!standard Tournament 12 - Summer | 2025-01-25 | 2025-03-23 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
 
 ### ![](/wiki/shared/mode/osu.png) SS Tournament
 

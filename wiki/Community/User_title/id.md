@@ -14,7 +14,7 @@ outdated_since: fde8aa733a04647f9f0d9f7dec5186f21a4f77d5
 
 ![Cuplikan laman profil Ephemeral](img/dev.png?1 "Gelar \"osu!team\" sebagaimana yang tersemat pada laman profil Ephemeral.")
 
-**Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pengguna. Suatu gelar pengguna pada umumnya disematkan oleh [tim inti osu!](/wiki/People/osu!_team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna (*user group*)](/wiki/People/osu!_team#gugus-pengguna) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pengguna-pengguna tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
+**Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pengguna. Suatu gelar pengguna pada umumnya disematkan oleh [tim inti osu!](/wiki/People/osu!_team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna](/wiki/People/User_groups) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pengguna-pengguna tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
 
 Gelar-gelar yang disematkan pada pengguna pada umumnya akan terpajang dengan warna yang sesuai dengan warna gugus pengguna yang bersangkutan. Untuk gelar-gelar yang tidak terkait dengan keanggotaan suatu gugus pengguna, gelar yang bersangkutan akan terpajang dalam warna putih.
 

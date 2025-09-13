@@ -80,8 +80,3 @@ jobs:
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
         continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
         run: osu-wiki-tools check-links --all
-
-      - name: check if translations are marked as outdated
-        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
-        continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
-        run: osu-wiki-tools check-outdated-articles --no-recommend-autofix

@@ -8,11 +8,11 @@ tags:
   - lazer grand arena
 ---
 
-# Lazer Grand Arena
+# Lazer Grand Arena 2024
 
 ![LGA 2024 banner](img/lga2024-banner.jpg)
 
-The **Lazer Grand Arena** (***LGA***) was an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team).
+The **Lazer Grand Arena 2024** (***LGA 2024***) was an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the first instalment of the Lazer Grand Arena series.
 
 ## Tournament schedule
 
@@ -44,9 +44,10 @@ The Lazer Grand Arena was run by the [osu! team](/wiki/People/osu!_team) and var
 | Mappool selector | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084) |
 | Mappool playtester | ::{ flag=PL }:: [\-Sylvari](https://osu.ppy.sh/users/3493804), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856) |
 | Mapper | ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992), ::{ flag=CA }:: [Sing](https://osu.ppy.sh/users/3795679) |
-| Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{flag=CA}:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{flag=GB}:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{flag=AU}:: [Vordi](https://osu.ppy.sh/users/6659116) |
+| Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | Referee | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) |
 
 ## Links
 

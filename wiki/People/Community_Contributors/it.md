@@ -1,16 +1,16 @@
 # Collaboratori della community
 
 ::: Infobox
-![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+![Badge del collaboratore della vecchia era](/wiki/shared/contributor-old-era.png "Badge del collaboratore della vecchia era")
 :::
 
 ::: Infobox
-![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+![Badge del collaboratore della nuova era](/wiki/shared/contributor-new-era.png "Badge del collaboratore della nuova era")
 :::
 
-I **Collaboratori della community** sono le persone che hanno preso l'iniziativa di provvedere servizi alla community di osu! a caro prezzo per loro - strumenti e funzionalità che molti di noi danno per scontato ora. Questi utenti ricevono un badge per indicare che hanno fatto qualcosa degno di nota per l'intera community.
+I **Collaboratori della community** sono le persone che hanno preso l'iniziativa di provvedere servizi alla community di osu! a caro prezzo per loro – strumenti e funzionalità che molti di noi danno per scontato ora. Questi utenti ricevono un badge per indicare che hanno fatto qualcosa degno di nota per l'intera community.
 
-Non devono essere confusi con gli [osu! Alumni](/wiki/People/osu!_Alumni), ex membri del team di osu! che si sono ritirati. Il badge per i Collaboratori della community é dato a liberi professionisti che sono andati al di là del proprio dovere per migliorare osu! e l'ambiente della community.
+Non devono essere confusi con gli [osu! Alumni](/wiki/People/osu!_Alumni), ex membri del team di osu! che si sono ritirati. Il badge per i Collaboratori della community è dato a liberi professionisti che sono andati al di là del proprio dovere per migliorare osu! e l'ambiente della community.
 
 I collaboratori che hanno registrato il loro account in un'epoca precedente del gioco hanno il [design originale del badge](#storia) sul loro profilo, mentre i collaboratori più recenti ricevono una variante più colorata.
 
@@ -26,21 +26,21 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 | Utente | Contributi |
 | :-- | :-- |
-| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](https://osu.ppy.sh/community/forums/topics/108092) (da `.osr` a Video su YouTube.) |
-| ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Hosta e mantiene uno dei più duraturi [mirror di beatmap](http://osu.yas-online.net/). |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerosi (incalcolabili) contributi grafici al client di gioco e tutto il resto. |
+| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](https://osu.ppy.sh/community/forums/topics/108092) (da `.osr` a video su YouTube). |
+| ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Ospita e mantiene uno dei più duraturi [mirror di beatmap](http://osu.yas-online.net/). |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerosi (incalcolabili) contributi grafici al client di gioco e altro. |
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Grafica degli [Obiettivi](/wiki/Medals). |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Sviluppa e mantiene [AIBat](https://osu.ppy.sh/community/forums/topics/55305), il più popolare strumento di modding delle beatmap di terze parti. |
-| ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Ha contribuito a risolvere numerosissimi bug e a provare delle funzionalità. Inoltre, ha creato numerosi strumenti per mapper e modders. |
+| ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Ha contribuito a risolvere numerosissimi bug e a testare funzionalità. Inoltre, ha creato numerosi strumenti per mapper e modder. |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Ha organizzato molti tornei ufficiali di grande rilevanza (incluso l'[OWC](/wiki/Tournaments/OWC)). |
-| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Folle record di moderazione (equivalente a circa 6 membri dello staff) e ha gestito e moderato manualmente `#osu` durante le ore di punta (Più di 9000 utenti). |
+| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Record straordinario di moderazione (equivalente a circa 6 membri dello staff) e ha gestito e moderato `#osu` manualmente durante le ore di punta (più di 9000 utenti). |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Sviluppa e mantiene [osu!stats](http://osustats.ppy.sh/) e un numero imprecisato di strumenti per creare, moddare e giocare beatmaps in generale. |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Ha contribuito a risolvere numerosissimi bug e a provare delle funzionalità. Inoltre, ha gestito numerose richieste di supporto da parte degli utenti. |
-| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Più di 3 anni di duro lavoro silenzioso per creare [pacchetti beatmaps](https://osu.ppy.sh/p/packlist) e gestire i grafici |
-| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Anni ed anni di servizio. In particolare, ha creato skin per le beatmap originali, creato [storyboard](/wiki/Storyboard) avanzati, comparabili  a vere opere d'arte e ha motivato il team. |
-| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Gestione della community iniziale e moderazione ed enormi contributi nel corso del tempo. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | E' stato il primo gestore della community e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/People/Global_Moderation_Team). |
-| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | E' stato il primo gestore dello staff e gestore dei [BATmanager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers) e ha creato un team di moderazione beatmap d'elite dal nulla. |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Ha contribuito a risolvere numerosissimi bug e a testare funzionalità. Inoltre, ha gestito molte richieste di supporto da parte degli utenti. |
+| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Più di 3 anni di duro lavoro silenzioso per creare [pacchetti beatmap](https://osu.ppy.sh/p/packlist) e gestire le classifiche. |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Anni ed anni di servizio. In particolare, creazione di skin per le beatmap originali, storyboard avanzati e motivazione per il team. |
+| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Gestione iniziale della community e moderazione, con enormi contributi nel tempo. |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Primo gestore della community e moderatore globale, ha definito alti standard per i [GMT](/wiki/People/Global_Moderation_Team). |
+| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Primo gestore dello staff e dei [BATmanager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers), ha creato un team di moderazione beatmap d'elite dal nulla. |
 
 ### 2015
 
@@ -56,7 +56,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Gennaio
 
-*Per il post, vedi: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+*Per l'articolo delle notizie, vedi: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -71,7 +71,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Marzo
 
-*Per il post, vedi: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+*Per l'articolo delle notizie, vedi: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -79,7 +79,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Novembre
 
-*Per il post, vedi: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+*Per l'articolo delle notizie, vedi: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -97,7 +97,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Dicembre
 
-*Per il post, vedi: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -126,7 +126,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Febbraio
 
-*Per il post, vedi: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -158,7 +158,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Febbraio
 
-*Per il post, vedi: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -188,7 +188,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Marzo
 
-*Per il post, vedi: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -204,7 +204,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Giugno
 
-*Per il post, vedi: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -228,7 +228,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 #### Novembre
 
-*Per il post sulle notizie, vedere: [Collaboratori della community: 2022 e 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*.
+*Per l'articolo delle notizie, vedi: [Collaboratori della community: 2022 e 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*.
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -252,6 +252,29 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Eccezionale contributo alla [Mappers' Guild](/wiki/Community/Mappers_Guild) e ai video degli artisti in primo piano |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Contributo eccezionale alla [Mappers' Guild](/wiki/Community/Mappers_Guild) e ai video degli artisti in primo piano |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Contributo eccezionale alla [Mappers' Guild](/wiki/Community/Mappers_Guild) e ai video degli artisti in primo piano |
+
+### 2024
+
+#### Marzo
+
+*Per l'articolo delle notizie, vedi: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+
+| Utente | Contributi |
+| :-- | :-- |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Contributo eccezionale in affari di moderazione, gestione del team e copertura delle notizie |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinazione eccezionale nella produzione di musica e arte di osu! |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Contributo eccezionale alla community e alla scena del mapping di osu!catch |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Contributo eccezionale alla community e sviluppo integrale di strumenti di osu!catch |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Contributo eccezionale alla scena del modding e del mapping di osu!mania |
+| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Contributo eccezionale alla scena dei tornei e del mapping di osu!mania |
+| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Contributo eccezionale allo sviluppo dei punti performance attraverso strumenti integrali ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Contributo eccezionale allo sviluppo dei punti performance e alla manutenzione di osu!(stable) |
+| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Contributo eccezionale nell'unire la community negli eventi [r/place](https://www.reddit.com/r/place/) di Reddit |
+| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Contributo eccezionale alla documentazione della community sui replay e allo sviluppo di strumenti |
+| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
+| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([osuplus](https://github.com/limjeck/osuplus)) |
+| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([owo! bot](https://owo-bot.xyz/)) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
 
 ## Storia
 

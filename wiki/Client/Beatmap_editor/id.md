@@ -1,12 +1,18 @@
-# Beatmap Editor
+---
+no_native_review: true
+---
 
-![Sebuah screenshot dari beatmap editor pada bagian compose tab memperlihatkan beatmap milik phisifat](img/compose.jpg)
+# Editor beatmap
 
-*Untuk tombol pintas beatmap editor, silahkan lihat: [Referensi Tombol Pintasan § Beatmap editor](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+<!-- TODO: needs to be revisited when the articles under Beatmap editor no longer match what's written here -->
 
-**Beatmap Editor** merupakan suatu utilitas bawaan osu! berbasis tampilan antarmuka yang umumnya dipergunakan untuk membuat [beatmap](/wiki/Beatmap). Adapun [beatmapping](/wiki/Beatmapping) merupakan sebutan dari proses pembuatan beatmap itu sendiri.
+![Tangkapan layar tab Compose di editor yang menampilkan beatmap Donor Song milik pishifat](img/compose.jpg)
 
-Beatmap Editor memiliki empat komponen utama sebagaimana yang dapat dilihat pada pojok kiri atas layar editor, yaitu:
+*Untuk daftar tombol pintasan editor selengkapnya, lihat: [Tombol pintasan § Editor beatmap](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+
+**Editor beatmap** merupakan tampilan antarmuka osu! yang digunakan untuk menghasilkan [beatmap](/wiki/Beatmap). Proses pembuatan beatmap ini sendiri dikenal dengan istilah [beatmapping](/wiki/Beatmapping).
+
+Editor beatmap terbagi ke dalam empat bagian utama yang dapat dilihat pada pojok kiri atas layar sebagai berikut:
 
 - Compose
 - Design
@@ -15,28 +21,28 @@ Beatmap Editor memiliki empat komponen utama sebagaimana yang dapat dilihat pada
 
 ## Compose
 
-Tab [Compose](/wiki/Client/Beatmap_editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Gameplay/Hit_object) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
+[Compose](/wiki/Client/Beatmap_editor/Compose) merupakan bagian editor di mana seluruh [objek](/wiki/Gameplay/Hit_object) dan elemen permainan lainnya dihasilkan. Oleh karenanya, sebagian besar mapper menghabiskan lebih banyak waktu mereka di tab ini dibandingkan tab lainnya.
 
 ## Design
 
-Tab [Design](/wiki/Client/Beatmap_editor/Design) merupakan bagian dari editor yang dipergunakan untuk membuat [storyboard](/wiki/Storyboard) dan mengatur efek-efek visual lainnya. Meskipun demikian, untuk mendesain storyboard-storyboard yang lebih kompleks pada umumnya para mapper cenderung lebih menggunakan teknik [storyboard scripting](/wiki/Storyboard/Scripting) tanpa melalui tab Design.
+[Design](/wiki/Client/Beatmap_editor/Design) merupakan bagian editor yang memungkinkan pembuatan [storyboard](/wiki/Storyboard), yang merupakan efek visual yang mengiringi beatmap. Berhubung storyboard yang ada sering kalinya menggunakan efek yang kompleks dengan berbagai macam jenis perintah, para mapper terkadang menggunakan teknik [scripting](/wiki/Storyboard/Scripting) untuk membuat storyboard secara langsung tanpa memasuki tab Design.
 
 ## Timing
 
-Tab [Timing](/wiki/Client/Beatmap_editor/Timing) merupakan bagian dari editor yang dipergunakan untuk mengatur timing dan hitsound pada beatmap. Pengaturan yang teliti pada tab ini sangat penting mengingat suatu beatmap harus memiliki timing yang tepat agar dapat dimainkan sesuai dengan irama lagu.
+[Timing](/wiki/Client/Beatmap_editor/Timing) merupakan bagian editor yang mengelola pengaturan timing dan hitsound pada beatmap. Bagian ini sangat penting karena suatu beatmap memerlukan timing yang sesuai dan umpan balik yang memadai agar dapat selaras dengan lagu ketika dimainkan.
 
-## Song Setup
+## Song setup
 
-Tab [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) merupakan bagian dari editor yang dipergunakan untuk mengatur informasi [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) dan seluk-beluk lainnya yang berlaku secara umum pada [beatmap](/wiki/Beatmap) yang bersangkutan. Hal ini meliputi antara lain judul lagu, nama artis, nama tingkat kesultian, warna kombo, dan masih banyak lagi.
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup) merupakan bagian editor yang digunakan untuk mengisi [metadata](/wiki/Client/Beatmap_editor/Song_setup#general) dan elemen universal lainnya yang berhubungan dengan [beatmap](/wiki/Beatmap). Hal ini meliputi judul lagu, nama artis, nama tingkat kesulitan, warna kombo, dan lain sebagainya.
 
 ## Lainnya
 
-Di samping empat komponen utama di atas, Beatmap Editor juga memiliki komponen-komponen pendukung lainnya yang di antaranya adalah sebagai berikut:
+Komponen editor lainnya meliputi:
 
-- [AiMod](AiMod): Sebuah sistem otomatis yang memuat laporan pada sebuah beatmap jika terjadi kesalahan.
-- [Beat snap divisor](Beat_snap_divisor): Menentukan pada ketukan berapa sebuah hit object akan ditempatkan.
-- [Distance snap](Distance_snap): Menentukan jarak penempatan standar antar satu hit object dengan hit object lainnya.
-- [Kiai time](/wiki/Gameplay/Kiai_time): Timing section khusus yang dapat digunakan untuk memberikan penekanan tambahan pada bagian-bagian beatmap tertentu.
-- [Menu](Menu): Membantu kamu untuk memberikan petunjuk dalam Beatmap Editor.
-- [SB load](SB_load): Sebuah angka yang digunakan untuk memberitahu seberapa beratnya storyboard.
-- [Timelines](Timelines): Menampilkan letak hit object, break, dan yang lainnya.
+- [AiMod](AiMod): Sistem otomatis yang melaporkan masalah pada beatmap
+- [Beat snap divisor](Beat_snap_divisor): Nilai yang menentukan pada derik ketukan mana objek permainan akan ditempatkan
+- [Distance snap](Distance_snap): Nilai yang memengaruhi seberapa dekat atau jauh objek permainan akan ditempatkan
+- [Kiai time](/wiki/Gameplay/Kiai_time): Bagian timing khusus yang membantu menegaskan bagian tertentu pada beatmap
+- [Menu](Menu): Membantu kamu untuk mengoperasikan editor beatmap
+- [SB load](SB_load): Nilai yang memberitahukan seberapa berat muatan suatu storyboard
+- [Timeline](Timelines): Menampilkan objek permainan, break, dan elemen lainnya yang ditempatkan

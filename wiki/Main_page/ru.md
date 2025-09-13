@@ -94,17 +94,17 @@ osu! — это ваш проводник в мир ритма, музыки и 
 </div>
 <div class="wiki-main-page-panel">
 
-# Сообщество и проекты
+# [Сообщество](/wiki/Community) и [проекты](/wiki/Community/Projects)
 
 Социальное взаимодействие — одна из самых сильных сторон osu!, вдохновляющая игроков по всему миру. Изучите программы и конкурсы, наладьте контакт с другими людьми или помогите организовать новое масштабное событие!
 
-Места для общения: [Форум](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Дискорд-сервера](/wiki/Community/Discord_servers)
+Места для общения: [Форум](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Дискорд-серверы](/wiki/Community/Discord_servers)
 
 Активности: [Турниры](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Конкурсы](/wiki/Contests) • [Программа менторства](/wiki/Community/Community_Mentorship_Program)
 
 [Проекты](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Встречи сообщества osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
-Медиа: [Музыка на заказ (osu! originals)](/wiki/Community/Bespoke_music) • [Манга](/wiki/Community/Manga) • [Серии видеороликов](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Обновления osu!lazer](/wiki/Community/Video_series/lazer_updates)
+Медиа: [Музыка на заказ](/wiki/Community/Bespoke_music) • [Манга](/wiki/Community/Manga) • [Серии видеороликов](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Обновления osu!(lazer)](/wiki/Community/Video_series/lazer_updates)
 
 Организации: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

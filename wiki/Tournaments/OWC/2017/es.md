@@ -2,20 +2,19 @@
 tags:
   - OWC 2017
   - OWC2017
-no_native_review: true
 ---
 
 # osu! World Cup 2017
 
-![OWC 2017 logo](img/logo.png)
+![Logo de la OWC 2017](img/logo.png)
 
-La **osu! World Cup 2017** (***OWC 2017***) fue un torneo por países organizado por el [equipo de osu!](/wiki/People/osu!_team). Fue la octava entrega de la osu! World Cup.
+La **osu! World Cup 2017** (***OWC 2017***) fue un torneo por países organizado por el [osu! team](/wiki/People/osu!_team). Fue la octava edición de la osu! World Cup.
 
 ## Calendario del torneo
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 13/10/2017 - 29/10/2017 |
+| Fase de registro | 13/10/2017 - 29/10/2017 |
 | Sorteos | 12/11/2017 (14:00 UTC) |
 | Fase de grupos | 18/11/2017 - 19/11/2017 |
 | Octavos de final | 25/11/2017 - 26/11/2017 |
@@ -27,9 +26,9 @@ La **osu! World Cup 2017** (***OWC 2017***) fue un torneo por países organizado
 
 | Posición | Premio(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") | $300 por miembro del equipo, vaso y pins exclusivos osu!, insignia única para el perfil, título de usuario "osu! Champion" por un año |
-| ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | $160 por miembro del equipo, vaso y pins exclusivos osu!, insignia única para el perfil |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | $80 por miembro del equipo, vaso y pins exclusivos osu!, insignia única para el perfil |
+| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | 300 $ a cada miembro del equipo, vaso y pins exclusivos de osu!, una insignia única para el perfil, título de usuario «osu! Champion» por un año |
+| ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | 160 $ a cada miembro del equipo, vaso y pins exclusivos de osu!, una insignia única para el perfil |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | 80 $ a cada miembro del equipo, vaso y pins exclusivos de osu!, una insignia única para el perfil |
 
 ![](img/badge.jpg "Insignia de ganador de la OWC 2017") ![](img/badge2.jpg "Insignia de 2do lugar de la OWC 2017") ![](img/badge3.jpg "Insignia de 3er lugar de la OWC 2017")
 
@@ -39,12 +38,12 @@ La osu! World Cup 2017 estuvo a cargo de varios miembros de la comunidad.
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Gerente | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=HK }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
-| Selección de mapas | ::{ flag=JP }:: [Delis](https://osu.ppy.sh/users/1603923), ::{ flag=DE }:: [Okorin](https://osu.ppy.sh/users/1623405), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
-| Comentaristas | ::{ flag=HK }:: [- G I D Z -](https://osu.ppy.sh/users/2286528), ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=FI }:: [ProfessionalBox](https://osu.ppy.sh/users/3250792) |
-| Estadísticas | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Administrador | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=HK }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Selector de mapas | ::{ flag=JP }:: [Delis](https://osu.ppy.sh/users/1603923), ::{ flag=DE }:: [Okorin](https://osu.ppy.sh/users/1623405), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
+| Comentarista | ::{ flag=HK }:: [- G I D Z -](https://osu.ppy.sh/users/2286528), ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=FI }:: [ProfessionalBox](https://osu.ppy.sh/users/3250792) |
+| Estadístico | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
 
-## Links
+## Enlaces
 
 - [Hilo de discusión](https://osu.ppy.sh/community/forums/topics/653192)
 - [Transmisión en vivo](https://www.twitch.tv/osulive)
@@ -78,8 +77,8 @@ La osu! World Cup 2017 estuvo a cargo de varios miembros de la comunidad.
 | ::{ flag=NO }:: | **Noruega** | **[Hundur](https://osu.ppy.sh/users/3145033)**, [Afrodafro](https://osu.ppy.sh/users/3551255), [Cocaine dog](https://osu.ppy.sh/users/3213014), [CXu](https://osu.ppy.sh/users/84841), [-GN](https://osu.ppy.sh/users/895581), [ItsKevZii](https://osu.ppy.sh/users/5201225), [Sebu](https://osu.ppy.sh/users/3990173), [YokesPai](https://osu.ppy.sh/users/6399568) |
 | ::{ flag=PH }:: | **Filipinas** | **[revurii](https://osu.ppy.sh/users/4180036)**, [ededed028](https://osu.ppy.sh/users/3932796), [fixedbyglue](https://osu.ppy.sh/users/8296269), [HaruTachi-](https://osu.ppy.sh/users/6244066), [ibvan](https://osu.ppy.sh/users/5315077), [KagenoKami](https://osu.ppy.sh/users/7246165), [-Marika](https://osu.ppy.sh/users/2199427), [Shii](https://osu.ppy.sh/users/2911062) |
 | ::{ flag=PL }:: | **Polonia** | **[Wilchq](https://osu.ppy.sh/users/2021758)**, [\[ Wakson \]](https://osu.ppy.sh/users/3048222), [Alien](https://osu.ppy.sh/users/4743869), [Astar](https://osu.ppy.sh/users/27055), [MrBooM](https://osu.ppy.sh/users/1837989), [Piggey](https://osu.ppy.sh/users/4163860), [Rafis](https://osu.ppy.sh/users/2558286), [WubWoofWolf](https://osu.ppy.sh/users/39828) |
-| ::{ flag=RO }:: | **Rumania** | **[Rohulk](https://osu.ppy.sh/users/3219026)**, [badeatudorpetre](https://osu.ppy.sh/users/1473890), [Chiu](https://osu.ppy.sh/users/3148900), [cristi2708](https://osu.ppy.sh/users/7552300), [eternum](https://osu.ppy.sh/users/4581069), [Mad Carrot](https://osu.ppy.sh/users/2236064), [Sheeaper](https://osu.ppy.sh/users/3299569), [vuru](https://osu.ppy.sh/users/7432712) |
-| ::{ flag=RU }:: | **Rusia** | **[follon](https://osu.ppy.sh/users/3973474)**, [Aden](https://osu.ppy.sh/users/4342841), [AxewB](https://osu.ppy.sh/users/4928776), [Hasawa Kraenes](https://osu.ppy.sh/users/1568047), [Okinotori](https://osu.ppy.sh/users/4346274), [Red\_Pixel](https://osu.ppy.sh/users/4170932), [Shiawase](https://osu.ppy.sh/users/989489), [talala](https://osu.ppy.sh/users/1389663) |
+| ::{ flag=RO }:: | **Rumanía** | **[Rohulk](https://osu.ppy.sh/users/3219026)**, [badeatudorpetre](https://osu.ppy.sh/users/1473890), [Chiu](https://osu.ppy.sh/users/3148900), [cristi2708](https://osu.ppy.sh/users/7552300), [eternum](https://osu.ppy.sh/users/4581069), [Mad Carrot](https://osu.ppy.sh/users/2236064), [Sheeaper](https://osu.ppy.sh/users/3299569), [vuru](https://osu.ppy.sh/users/7432712) |
+| ::{ flag=RU }:: | **Federación de Rusia** | **[follon](https://osu.ppy.sh/users/3973474)**, [Aden](https://osu.ppy.sh/users/4342841), [AxewB](https://osu.ppy.sh/users/4928776), [Hasawa Kraenes](https://osu.ppy.sh/users/1568047), [Okinotori](https://osu.ppy.sh/users/4346274), [Red\_Pixel](https://osu.ppy.sh/users/4170932), [Shiawase](https://osu.ppy.sh/users/989489), [talala](https://osu.ppy.sh/users/1389663) |
 | ::{ flag=SG }:: | **Singapur** | **[GSBlank](https://osu.ppy.sh/users/2312106)**, [\[-Lockon-\]](https://osu.ppy.sh/users/6726331), [Crafticious](https://osu.ppy.sh/users/5167164), [Elegant Loli](https://osu.ppy.sh/users/3010281), [Emilia](https://osu.ppy.sh/users/2003326), [Jolene](https://osu.ppy.sh/users/2672025), [LanJay](https://osu.ppy.sh/users/5210595), [Raindrop](https://osu.ppy.sh/users/1155871) |
 | ::{ flag=KR }:: | **Corea del Sur** | **[Neta](https://osu.ppy.sh/users/832084)**, [Cheese Kai](https://osu.ppy.sh/users/5979619), [Enon](https://osu.ppy.sh/users/2043401), [firebat92](https://osu.ppy.sh/users/1777162), [Gomo Pslvarh](https://osu.ppy.sh/users/1206417), [Pray](https://osu.ppy.sh/users/2190336), [Pring](https://osu.ppy.sh/users/3478883), [Yaong](https://osu.ppy.sh/users/1883865) |
 | ::{ flag=SE }:: | **Suecia** | **[-Kupo-](https://osu.ppy.sh/users/4343103)**, [Chronomarly](https://osu.ppy.sh/users/4991464), [FlySlime](https://osu.ppy.sh/users/3876402), [Jairod](https://osu.ppy.sh/users/3088364), [mby](https://osu.ppy.sh/users/4844909), [Niel](https://osu.ppy.sh/users/3868804), [Sonix](https://osu.ppy.sh/users/4029000), [Xiniox](https://osu.ppy.sh/users/5233691) |
@@ -87,7 +86,7 @@ La osu! World Cup 2017 estuvo a cargo de varios miembros de la comunidad.
 | ::{ flag=GB }:: | **Reino Unido** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [bahamete](https://osu.ppy.sh/users/960620), [Castiel](https://osu.ppy.sh/users/1986262), [Doomsday](https://osu.ppy.sh/users/18983), [Jameslike](https://osu.ppy.sh/users/2415743), [Karthy](https://osu.ppy.sh/users/4196808), [OPJames](https://osu.ppy.sh/users/4117142), [Spare](https://osu.ppy.sh/users/2204373) |
 | ::{ flag=US }:: | **Estados Unidos** | **[Apraxia](https://osu.ppy.sh/users/4194445)**, [Axarious](https://osu.ppy.sh/users/2614511), [DigitalHypno](https://osu.ppy.sh/users/4384207), [fieryrage](https://osu.ppy.sh/users/3533958), [HappyStick](https://osu.ppy.sh/users/256802), [idke](https://osu.ppy.sh/users/4650315), [Monko2k](https://osu.ppy.sh/users/4852013), [Toy](https://osu.ppy.sh/users/2757689) |
 
-![](img/bracket.jpg "OWC 2017 bracket")
+![](img/bracket.jpg "Brackets de la OWC 2017")
 
 ## Podio
 
@@ -230,13 +229,13 @@ La osu! World Cup 2017 estuvo a cargo de varios miembros de la comunidad.
 - Desempate
   1. **[DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori) \[Illuminate\]](https://osu.ppy.sh/beatmapsets/392682#osu/854972)**
 
-## Resultados de las partidas
+## Resultados de los partidos
 
 ### Finales
 
 Viernes, 15 de diciembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Corea del Sur** ::{ flag=KR }:: | **7** | 6 | ::{ flag=TW }:: Taiwán | [#1](https://osu.ppy.sh/community/matches/38335947) |
 | Alemania ::{ flag=DE }:: | 1 | **7** | ::{ flag=GB }:: **Reino Unido** | [#1](https://osu.ppy.sh/community/matches/38346733) |
@@ -244,14 +243,14 @@ Viernes, 15 de diciembre de 2017:
 
 Sábado, 16 de diciembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Reino Unido** ::{ flag=GB }:: | **7** | 2 | ::{ flag=KR }:: Corea del Sur | [#1](https://osu.ppy.sh/community/matches/38367964) |
 | **Estados Unidos** ::{ flag=US }:: | **7** | 4 | ::{ flag=GB }:: Reino Unido | [#1](https://osu.ppy.sh/community/matches/38384430) |
 
 Domingo, 17 de diciembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Estados Unidos** ::{ flag=US }:: | **7** | 3 | ::{ flag=PL }:: Polonia | [#1](https://osu.ppy.sh/community/matches/38418895) |
 | **Polonia** ::{ flag=PL }:: | **7** | 5 | ::{ flag=US }:: Estados Unidos | [#1](https://osu.ppy.sh/community/matches/38421285) |
@@ -260,16 +259,16 @@ Domingo, 17 de diciembre de 2017:
 
 Sábado, 9 de diciembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Noruega** ::{ flag=NO }:: | **7** | 2 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/38181607) |
-| Países Bajos ::{ flag=NL }:: | 4 | **7** | ::{ flag=RU }:: **Rusia** | [#1](https://osu.ppy.sh/community/matches/38186618) |
+| Países Bajos ::{ flag=NL }:: | 4 | **7** | ::{ flag=RU }:: **Federación de Rusia** | [#1](https://osu.ppy.sh/community/matches/38186618) |
 | Canadá ::{ flag=CA }:: | 1 | **7** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/38190989) |
-| Rusia ::{ flag=RU }:: | 5 | **7** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/38196035) |
+| Federación de Rusia ::{ flag=RU }:: | 5 | **7** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/38196035) |
 
 Domingo, 10 de diciembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Corea del Sur** ::{ flag=KR }:: | **7** | 6 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/38206986) |
 | Taiwán ::{ flag=TW }:: | 2 | **7** | ::{ flag=US }:: **Estados Unidos** | [#1](https://osu.ppy.sh/community/matches/38209295) |
@@ -280,7 +279,7 @@ Domingo, 10 de diciembre de 2017:
 
 Sábado, 2 de diciembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Países Bajos** ::{ flag=NL }:: | **6** | 4 | ::{ flag=JP }:: Japón | [#1](https://osu.ppy.sh/community/matches/37984347) |
 | Alemania ::{ flag=DE }:: | 3 | **6** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/37988813) |
@@ -289,27 +288,27 @@ Sábado, 2 de diciembre de 2017:
 
 Domingo, 3 de diciembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Dinamarca ::{ flag=DK }:: | 1 | **6** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/38029594) |
 | Singapur ::{ flag=SG }:: | 0 | **6** | ::{ flag=NO }:: **Noruega** | [#1](https://osu.ppy.sh/community/matches/38031685) |
 | Brasil ::{ flag=BR }:: | 1 | **6** | ::{ flag=PL }:: **Polonia** | [#1](https://osu.ppy.sh/community/matches/38034430) |
-| Rusia ::{ flag=RU }:: | 3 | **6** | ::{ flag=US }:: **Estados Unidos** | [#1](https://osu.ppy.sh/community/matches/38036937) |
+| Federación de Rusia ::{ flag=RU }:: | 3 | **6** | ::{ flag=US }:: **Estados Unidos** | [#1](https://osu.ppy.sh/community/matches/38036937) |
 
 ### Octavos de final
 
 Sábado, 25 de noviembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwán** ::{ flag=TW }:: | **6** | 2 | ::{ flag=KR }:: Corea del Sur | [#1](https://osu.ppy.sh/community/matches/37793064) |
 | **Reino Unido** ::{ flag=GB }:: | **6** | 2 | ::{ flag=JP }:: Japón | [#1](https://osu.ppy.sh/community/matches/37794394) |
 | **Hong Kong** ::{ flag=HK }:: | **6** | 4 | ::{ flag=NL }:: Países Bajos | [#1](https://osu.ppy.sh/community/matches/37796296) |
-| Singapur ::{ flag=SG }:: | 2 | **6** | ::{ flag=RU }:: **Rusia** | [#1](https://osu.ppy.sh/community/matches/37799185) |
+| Singapur ::{ flag=SG }:: | 2 | **6** | ::{ flag=RU }:: **Federación de Rusia** | [#1](https://osu.ppy.sh/community/matches/37799185) |
 
 Domingo, 26 de noviembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Polonia** ::{ flag=PL }:: | **6** | 1 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/37837181) |
 | Dinamarca ::{ flag=DK }:: | 3 | **6** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/37840289) |
@@ -320,27 +319,27 @@ Domingo, 26 de noviembre de 2017:
 
 Sábado, 18 de noviembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia ::{ flag=ID }:: | 2 | **5** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/37609499) |
 | Letonia ::{ flag=LV }:: | 1 | **5** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/37609495) |
 | Israel ::{ flag=IL }:: | 0 | **5** | ::{ flag=SG }:: **Singapur** | [#1](https://osu.ppy.sh/community/matches/37609502) |
 | Hungría ::{ flag=HU }:: | 2 | **5** | ::{ flag=JP }:: **Japón** | [#1](https://osu.ppy.sh/community/matches/37610675) |
-| **Rusia** ::{ flag=RU }:: | **5** | 2 | ::{ flag=FR }:: Francia | [#1](https://osu.ppy.sh/community/matches/37610821) |
-| Rumania ::{ flag=RO }:: | 0 | **5** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/37610680) |
+| **Federación de Rusia** ::{ flag=RU }:: | **5** | 2 | ::{ flag=FR }:: Francia | [#1](https://osu.ppy.sh/community/matches/37610821) |
+| Rumanía ::{ flag=RO }:: | 0 | **5** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/37610680) |
 | **Países Bajos** ::{ flag=NL }:: | **5** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/37610687) |
 | Filipinas ::{ flag=PH }:: | 0 | **5** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/37612374) |
 | Indonesia ::{ flag=ID }:: | 0 | **5** | ::{ flag=PL }:: **Polonia** | [#1](https://osu.ppy.sh/community/matches/37612236) |
 | Malasia ::{ flag=MY }:: | 1 | **5** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/37612234) |
 | Argentina ::{ flag=AR }:: | 0 | **5** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/37613921) |
 | Israel ::{ flag=IL }:: | 1 | **5** | ::{ flag=GB }:: **Reino Unido** | [#1](https://osu.ppy.sh/community/matches/37613946) |
-| Rumania ::{ flag=RO }:: | 3 | **5** | ::{ flag=SE }:: **Suecia** | [#1](https://osu.ppy.sh/community/matches/37614075) |
+| Rumanía ::{ flag=RO }:: | 3 | **5** | ::{ flag=SE }:: **Suecia** | [#1](https://osu.ppy.sh/community/matches/37614075) |
 | Filipinas ::{ flag=PH }:: | 0 | **5** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/37615841) |
 | **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=NO }:: Noruega | [#1](https://osu.ppy.sh/community/matches/37615713) |
-| Hungría ::{ flag=HU }:: | 0 | **5** | ::{ flag=RU }:: **Rusia** | [#1](https://osu.ppy.sh/community/matches/37615928) |
+| Hungría ::{ flag=HU }:: | 0 | **5** | ::{ flag=RU }:: **Federación de Rusia** | [#1](https://osu.ppy.sh/community/matches/37615928) |
 | Letonia ::{ flag=LV }:: | 0 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/37623221) |
 | **Finlandia** ::{ flag=FI }:: | **5** | 0 | ::{ flag=IL }:: Israel | [#1](https://osu.ppy.sh/community/matches/37623233) |
-| Rumania ::{ flag=RO }:: | 2 | **5** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/37623236) |
+| Rumanía ::{ flag=RO }:: | 2 | **5** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/37623236) |
 | Chile ::{ flag=CL }:: | 2 | **5** | ::{ flag=NO }:: **Noruega** | [#1](https://osu.ppy.sh/community/matches/37625547) |
 | México ::{ flag=MX }:: | 1 | **5** | ::{ flag=AT }:: **Austria** | [#1](https://osu.ppy.sh/community/matches/37625411) |
 | Países Bajos ::{ flag=NL }:: | 1 | **5** | ::{ flag=US }:: **Estados Unidos** | [#1](https://osu.ppy.sh/community/matches/37625491) |
@@ -353,7 +352,7 @@ Sábado, 18 de noviembre de 2017:
 
 Domingo, 19 de noviembre de 2017:
 
-| Equipo 1 |  |  | Equipo 2 | Enlance de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlance del partido |
 | --: | :-: | :-: | :-- | :-- |
 | Taiwán ::{ flag=TW }:: | 4 | **5** | ::{ flag=CA }:: **Canadá** | [#1](https://osu.ppy.sh/community/matches/37640223) |
 | Malasia ::{ flag=MY }:: | 2 | **5** | ::{ flag=MX }:: **México** | [#1](https://osu.ppy.sh/community/matches/37640683) |
@@ -364,15 +363,15 @@ Domingo, 19 de noviembre de 2017:
 | **Japón** ::{ flag=JP }:: | **5** | 4 | ::{ flag=FR }:: Francia | [#1](https://osu.ppy.sh/community/matches/37647825) |
 | Suecia ::{ flag=SE }:: | 0 | **5** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/37647794) |
 | Italia ::{ flag=IT }:: | 4 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/37647798) |
-| Filipinas ::{ flag=PH }:: | 0 | **5** | ::{ flag=NO }:: **Noruega** | *ganó por default* |
+| Filipinas ::{ flag=PH }:: | 0 | **5** | ::{ flag=NO }:: **Noruega** | *victoria por defecto* |
 | Indonesia ::{ flag=ID }:: | 1 | **5** | ::{ flag=DK }:: **Dinamarca** | [#1](https://osu.ppy.sh/community/matches/37649009) |
 | Australia ::{ flag=AU }:: | 2 | **5** | ::{ flag=PL }:: **Polonia** | [#1](https://osu.ppy.sh/community/matches/37649125) |
 | Singapur ::{ flag=SG }:: | 2 | **5** | ::{ flag=GB }:: **Reino Unido** | [#1](https://osu.ppy.sh/community/matches/37649006) |
-| Japón ::{ flag=JP }:: | 0 | **5** | ::{ flag=RU }:: **Rusia** | [#1](https://osu.ppy.sh/community/matches/37650430) |
+| Japón ::{ flag=JP }:: | 0 | **5** | ::{ flag=RU }:: **Federación de Rusia** | [#1](https://osu.ppy.sh/community/matches/37650430) |
 | Brasil ::{ flag=BR }:: | 2 | **5** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/37650434) |
 | Italia ::{ flag=IT }:: | 3 | **5** | ::{ flag=NL }:: **Países Bajos** | [#1](https://osu.ppy.sh/community/matches/37650364) |
 | **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/37652168) |
-| **Letonia** ::{ flag=LV }:: | **5** | 0 | ::{ flag=AR }:: Argentina | *ganó por default* |
+| **Letonia** ::{ flag=LV }:: | **5** | 0 | ::{ flag=AR }:: Argentina | *victoria por defecto* |
 | Finlandia ::{ flag=FI }:: | 0 | **5** | ::{ flag=GB }:: **Reino Unido** | [#1](https://osu.ppy.sh/community/matches/37651999) |
 | **Austria** ::{ flag=AT }:: | **5** | 3 | ::{ flag=DE }:: Alemania | [#1](https://osu.ppy.sh/community/matches/37652008) |
 
@@ -381,71 +380,71 @@ Domingo, 19 de noviembre de 2017:
 ### Reglas del torneo
 
 1. La osu! World Cup es un torneo por países, jugado en el modo de juego osu!.
-   - Si bien esta competencia está planificada como una configuración de 4 contra 4, esto podría cambiar según la cantidad de registros entrantes.
-2. La puntuación del mapa se basa en Score V2.
-3. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar las partidas reales. Solo estos se utilizarán durante las respectivas partidas.
+   - Si bien esta competición está planeada como una modalidad de 4 contra 4, esto podría cambiar dependiendo de la cantidad de registros que se reciban.
+2. Las puntuaciones de los mapas se basan en Score V2.
+3. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar los partidos reales. Solo estos se usarán durante los respectivos partidos.
    - El mappool de la fase de grupos se anunciará después de los sorteos.
    - Un mapa será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate.
-4. El cronograma de partidas será establecido por el Gerente del torneo. (veáse más adelante).
-5. Si no hay ningún staff o árbitro disponible, la partida será pospuesta.
-6. Las puntuaciones fallidas de un jugador no se suman a la puntuación del equipo.
+4. El cronograma de los partidos será establecido por los administradores del torneo. (consulta más abajo).
+5. Si no hay personal o árbitro disponible, el partido será pospuesto.
+6. Las puntuaciones fallidas de un jugador no se sumarán a la puntuación del equipo.
    - Revivir y sobrevivir durante un mapa se considera como pasarlo.
-7. Se permite el uso de la configuración visual para alterar la atenuación del fondo o deshabilitar elementos del mapa, como storyboards y skins.
-8. Si el mapa termina en un empate, el juego será anulado.
-9. Si uno de los jugadores se desconecta, son tratados como si hubieran fallado el mapa.
-   - Las desconexiones dentro de los 30 segundos posteriores al inicio del mapa se pueden volver a emparejar. Esto queda a discreción del árbitro. El mapa reproducido podría abortarse por esto.
-10. Los mapas no pueden ser reutilizados en una misma partida a menos que la partida haya sido anulada.
-11. Si asisten menos jugadores del mínimo requerido, el partido podrá ser pospuesto máximo 10 minutos.
-12. Se permite el intercambio de jugadores durante una partida sin limitaciones.
-13. El lag no es un razón válida para anular un mapa.
-14. Se supone que todos los jugadores deben mantener el juego fluido y sin demoras. Los retrasos excesivos en las partidas provenientes del lado del jugador pueden ser sancionados con penalizaciones.
-15. Si un jugador se desconecta entre los mapas y el equipo no puede proporcionar un intercambio, el partido puede retrasarse 10 minutos como máximo.
-16. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y del Gerente del torneo. Las decisiones etiquetadas como finales no deben ser objetadas.
-17. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir mapas de calentamiento inapropiados (ver más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
-18. Las salas de chat multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a las salas de chat multijugador.
-    - Romper las reglas del chat da como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
-19. En la Fase de Grupos, 'Ganar por default' será considerado como ganar por 5:0, +1.0 diferencia de puntajes.
-20. Los incidentes inesperados son manejados por el Gerente del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias dadas. Esto queda a su discreción.
-21. Las sanciones por violar las reglas del torneo pueden ser:
-    - Exclusión de jugadores específicos para un mapa
-    - Exclusión de jugadores específicos por el resto de la partida
+7. Se permite el uso de la configuración visual para alterar la atenuación del fondo o deshabilitar elementos del beatmap, como storyboards y skins.
+8. Si el beatmap termina en un empate, el juego será anulado.
+9. Si uno de los jugadores se desconecta, serán tratados como si hubieran fallado el mapa.
+   - Las desconexiones dentro de los 30 segundos posteriores al inicio del mapa se pueden volver a jugar. Esto queda a discreción del árbitro. El beatmap que se esté jugando puede ser abortado por esto.
+10. Los beatmaps no pueden ser reusados en un mismo partido, a menos que el partido haya sido anulado.
+11. Si asisten menos jugadores del mínimo requerido, el tiempo máximo que se podrá posponer el partido será de 10 minutos.
+12. El intercambio de jugadores durante un partido está permitido sin limitaciones.
+13. El lag no es un razón válida para anular un beatmap.
+14. Se supone que todos los jugadores deben mantener el juego fluido y sin demoras. Los retrasos excesivos en los partidos provenientes del lado del jugador pueden ser sancionados con penalizaciones.
+15. Si un jugador se desconecta entre los beatmaps y el equipo no puede proporcionar un reemplazo, el partido podrá retrasarse 10 minutos como máximo.
+16. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y de los administradores del torneo. Las decisiones consideradas definitivas no deben ser objetadas.
+17. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir beatmaps de calentamiento inapropiados (consulta más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
+18. El chat de las salas multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a las salas multijugador.
+    - Romper las reglas del chat dará como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
+19. En la fase de grupos, se considerará 'victoria por defecto' la victoria por 5:0, +1,0 de diferencia de puntos.
+20. Los incidentes inesperados serán manejados por los administradores del torneo. Los árbitros pueden permitir una mayor tolerancia dependiendo de las circunstancias dadas. Esto queda a su discreción.
+21. Las sanciones por incumplir las reglas del torneo pueden ser:
+    - Exclusión de jugadores específicos para un beatmap
+    - Exclusión de jugadores específicos por el resto del partido
     - Declarar el partido como perdido por defecto
     - Descalificación de todo el torneo
     - Descalificación de los torneos oficiales actuales y futuros hasta que se apele
-    - Se dará a conocer cualquier modificación a estas reglas.
+    - Se dará a conocer cualquier modificación de estas reglas.
 
 ### Registro del torneo
 
-1. Cada usuario interesado en formar parte del equipo de su país se registra individualmente.
-   - El Gerente del torneo creará una lista de posibles candidatos para el equipo de un país.
-   - El Gerente del torneo declara un candidato a capitán de la selección del país, aunque de forma temporal.
+1. Cada usuario interesado en formar parte del equipo de su país debe registrarse individualmente.
+   - Los administradores del torneo crearán una lista de posibles candidatos para el equipo de un país.
+   - Los administradores del torneo declararán a un candidato como capitán para la selección de su país, aunque de forma temporal.
    - El capitán declarado puede formar su equipo a partir de la lista de candidatos de su país.
-2. Para asegurar registros válidos y serios, cada usuario registrado será controlado por el Gerente del torneo.
+2. Para asegurar registros válidos y serios, cada usuario registrado será controlado por los administradores del torneo.
    - Cada usuario registrado será asignado a la lista de candidatos de su país respectivo.
-   - Para ser aceptado con éxito en la lista, debe asegurarse de que su clasificación de rendimiento global de osu! está por encima de 5000.
-   - Para ser aceptado con éxito en la lista, debe asegurarse de no haber violado ninguna de las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
-3. Todos los equipos formados con éxito serán publicados después de la Fase de Registro.
+   - Para ser aceptado con éxito en la lista, debes asegurarte de que tu clasificación de rendimiento global de osu! esté por encima de 5000.
+   - Para ser aceptado con éxito en la lista, debes asegurarte de no haber infringido ninguna de las [reglas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
+3. Todos los equipos formados con éxito serán publicados después de la fase de registro.
 4. Solo participarán los 32 países potencialmente más fuertes. La fortaleza potencial de un país está determinada por las estadísticas en línea de todos los candidatos válidos.
    - Si la cantidad de países registrados es inferior a 32, el número podría reducirse a 24, 20 o 16. ¡El objetivo siempre es permitir que participen tantos países como sea posible!
 5. Los selectores de mapas no pueden participar como jugadores en este torneo.
 
 ### Instrucciones de las fases
 
-1. En la primera fase (Fase de grupos), los equipos se dividirán en 8 grupos de 4 equipos.
+1. En la primera fase (fase de grupos), los equipos se dividirán en 8 grupos de 4 equipos.
    - Esto puede cambiar dependiendo de cuántos equipos sean aceptados en la competencia al final.
 2. Todos los equipos de cada grupo se enfrentarán entre sí.
-3. Las clasificaciones de cada grupo se determinan clasificando los resultados del desempeño de cada equipo en la siguiente prioridad:
-   - Mayoría de partidas ganadas.
-   - Tener más alto `{(el número de mapas ganados) - (el número de mapas perdidos)}`.
-   - Mayoría de mapas ganados.
-   - Tener más alto `∑{(diferencia de puntuación total) / (máxima puntuación)}`.
+3. La clasificación de cada grupo se determina ordenando los resultados del rendimiento de cada equipo según la siguiente prioridad:
+   - Mayoría de partidos ganados.
+   - Tener `{(el número de mapas ganados) - (el número de mapas perdidos)}` más alto.
+   - Mayoría de beatmaps ganados.
+   - Tener la `∑{(diferencia de puntuación total) / (máxima puntuación)}` más alta.
    - Ganador de la revancha.
-4. Los dos mejores equipos de cada grupo pasarán a las Fases de eliminación.
+4. Los dos mejores equipos de cada grupo pasarán a las fases de eliminación.
    - Esto puede cambiar con la configuración real de la fase de grupos.
-5. Las siguientes fases son Fases de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket perdedor.
+5. Las siguientes fases son fases de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket perdedor.
 6. Según [esta](/wiki/shared/stages-visual.png) imagen, las fases se dividen de la siguiente manera:
 
-| Fase | ID de la partida |
+| Fase | ID del partido |
 | --: | :-- |
 | Octavos de final | A, B, C, D, E, F, G, H |
 | Cuartos de final | I, J, K, L & R, S, T, U |
@@ -453,49 +452,49 @@ Domingo, 19 de noviembre de 2017:
 | Finales | O & AB, AC, AD, AE, P, Q |
 
 7. **Condiciones de victoria:**
-   - En la fase de grupos, debes ganar 5 mapas para ganar una partida. (Mejor de 9)
-   - En los octavos de final y los cuartos de final, debes ganar 6 mapas para ganar una partida. (Mejor de 11)
-   - En Semifinales y Finales, necesitas ganar 7 mapas para ganar una partida. (Mejor de 13)
+   - En la fase de grupos, los equipos deben ganar 5 beatmaps para ganar un partido. (Al mejor de 9)
+   - En los octavos de final y los cuartos de final, los equipos deben ganar 6 beatmaps para ganar un partido. (Al mejor de 11)
+   - En las semifinales y las finales, los equipos deben ganar 7 beatmaps para ganar un partido. (Al mejor de 13)
 
-### Instrucciones de la partida
+### Instrucciones de los partidos
 
-1. Un árbitro creará una sala multijugador con 15 minutos de antelación. Los jugadores deben reunirse durante este período.
-   - La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score V2'. El nombre de la sala debe ser "OWC 2017: (TeamRed) vs (TeamBlue)".
+1. Un árbitro creará una sala multijugador con 15 minutos de antelación. Los jugadores deben reunirse durante este periodo.
+   - La configuración de la sala es osu!, Team-Vs., Condición de victoria: 'Score V2'. El nombre de la sala debe ser «OWC 2017: (TeamRed) vs (TeamBlue)».
    - El equipo mencionado primero en el nombre de la sala debe ser el equipo rojo, el equipo mencionado en segundo lugar en el nombre de la sala debe ser el equipo azul.
-2. Los jugadores son libres de seleccionar hasta dos mapas de calentamiento. Está prohibido usar mapas con contenido cuestionable. Todos los mapas deben ser del modo osu!.
-3. Cada capitán puede banear **un mapa** para seleccionar del mappool. Estos mapas no pueden ser elegidos por ningún equipo en toda la partida.
-4. La selección de mapas alternará entre cada capitán seleccionando un mapa del mappool.
-5. Cada capitán debe usar `!roll` una vez en `#multijugador`.
-   - El ganador del `!roll` elige el primer mapa de la partida.
-   - El perdedor del `!roll` banea un mapa, seguido por el ganador del `!roll` para banear un mapa.
+2. Los jugadores son libres de seleccionar hasta dos beatmaps de calentamiento. Está prohibido usar beatmaps con contenido cuestionable. Todos los beatmaps deben ser del modo osu!.
+3. Cada capitán puede prohibir que se seleccione **un beatmap** del mappool. Estos beatmaps no pueden ser elegidos por ningún equipo en todo el partido.
+4. La selección de los mapas alternará entre cada capitán seleccionando un beatmap del mappool.
+5. Cada capitán debe usar `!roll` una vez en `#multiplayer`.
+   - El ganador del `!roll` elegirá el primer beatmap del partido.
+   - El perdedor del `!roll` elegirá qué beatmap banear primero, seguido por el ganador del `!roll` para banear un beatmap.
 6. Los capitanes pueden elegir libremente de cualquier bracket.
    - En caso de empate, se debe jugar el mapa de desempate.
 7. Los resultados de la fase de grupos se publicarán a través de una hoja de estadísticas.
 
-### Instrucciones del Mappool
+### Instrucciones del mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los octavos de final, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para las finales.
 2. Cada mappool consiste de 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod.
 3. Cada mappool consta de 16 mapas en total.
-4. Cada mappool tiene un desempate.
+4. Cada mappool tiene un mapa de desempate.
 5. El bracket de NoMod se jugará sin ningún mod activado.
-6. Los brackets de Hidden, HardRock y DoubleTime se jugarán con los respectivos mods activados por todos los jugadores actuales.
+6. Los brackets de Hidden, HardRock y DoubleTime se jugarán con los respectivos mods activados por todos en la sala.
 7. El bracket de FreeMod tendrá FreeMod activado.
    - Las posibles opciones de mods son: Hidden, HardRock y Hidden+HardRock
    - Al jugar un mapa de FreeMod, al menos 2 jugadores de cada equipo deben tener un mod activado como mínimo. Para los jugadores restantes, la activación de mods es opcional.
-8. El desempate se jugará bajo las condiciones de FreeMod.
-   - Al jugar el desempate, nadie necesita tener un mod activado.
+8. El mapa de desempate se jugará bajo las condiciones de FreeMod.
+   - Al jugar el mapa desempate, nadie necesita tener un mod activado.
 9. El tamaño del bracket de NoMod será de 6 en todas las fases.
 10. El tamaño de los brackets de Hidden, HardRock y DoubleTime será de 2 en todas las fases.
 11. El tamaño del bracket de FreeMod será de 3 en todas las fases.
 
-### Instrucciones de programación
+### Instrucciones de la programación
 
 1. Cada fase se llevará a cabo en **un solo fin de semana**.
-2. Las partidas de la fase de grupos pueden coincidir.
+2. Los partidos de la fase de grupos pueden coincidir.
 3. Todas las fases de doble eliminación se llevarán a cabo el sábado o el domingo, UTC+0.
-   - La fase final puede tener partidas el viernes, dependiendo de los encuentros que ocurran.
-4. La programación estará a cargo del Gerente del torneo. Los horarios se publicarán el domingo anterior a las primeras partidas de la fase real. El Gerente del torneo intentará crear el horario para respetar la zona horaria del participante.
-   - En las fases de cuartos de final y posteriores: informe al Gerente del torneo antes del domingo si espera que un horario específico no esté disponible la semana siguiente. Los deseos se intentan cumplir, lamentablemente no se pueden hacer promesas.
-5. La reprogramación después de la publicación del Programa en la wiki no se puede realizar bajo ninguna circunstancia.
-6. Los capitanes son responsables de la disponibilidad de sus equipos. El mayor tamaño del equipo existe para garantizar que cada equipo pueda proporcionar al menos cuatro jugadores para cada partida. Si los equipos no pueden proporcionar tres jugadores para una partida, la partida se considerará perdida.
+   - Las finales pueden tener partidos el viernes, dependiendo de los encuentros que ocurran.
+4. Los administradores del torneo se encargarán de la programación. Los horarios se publicarán el domingo anterior a los primeros partidos de cada fase. Los administradores del torneo intentarán crear el horario de forma que respete la zona horaria de los participantes.
+   - En las fases de cuartos de final y posteriores: Por favor, si crees que no podrás estar disponible en un horario específico de la semana siguiente, informále a los administradores del torneo antes del domingo. Intentaremos cumplir tu petición, pero no podemos prometer nada.
+5. Las reprogramaciones después de la publicación del cronograma en la wiki no se pueden realizar bajo ninguna circunstancia.
+6. Los capitanes son responsables de la disponibilidad de sus equipos. El tamaño de los equipos es grande para garantizar que cada equipo pueda proporcionar al menos cuatro jugadores para cada partido. Si los equipos no pueden proporcionar tres jugadores para un partido, el partido se considerará perdido.

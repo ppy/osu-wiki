@@ -10,6 +10,14 @@ Un **juicio**, o **resultado de impacto**, es el resultado de interactuar con un
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png) | OK | 150 | 50 % | `120 - 8 × OD` si OD ≤ 5, y `110 - 6 × OD` si OD ≥ 5 |
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png) | MISS | 0 | 0 % | `135 - 8 × OD` si OD ≤ 5, y `120 - 5 × OD` si OD ≥ 5 |
 
+Comparación de la duración de las ventanas de tiempo para los diferentes valores de OD:
+
+| OD | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Great | 50 ms | 47 ms | 44 ms | 41 ms | 38 ms | 35 ms | 32 ms | 29 ms | 26 ms | 23 ms | 20 ms |
+| Ok | 120 ms | 112 ms | 104 ms | 96 ms | 88 ms | 80 ms | 74 ms | 68 ms | 62 ms | 56 ms | 50 ms |
+| Miss | 135 ms | 127 ms | 119 ms | 111 ms | 103 ms | 95 ms | 90 ms | 85 ms | 80 ms | 75 ms | 70 ms |
+
 La ventana de tiempo depende de la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) del beatmap. Luego, un golpe se considera dentro de una ventana de tiempo si `error del golpe < error de acierto máximo`, lo que significa que el valor indicado es la mitad del ancho de la ventana de tiempo. En su lugar, la ventana MISS por excepción compara `error del golpe ≤ error de acierto máximo`.
 
 El error del golpe se redondea y los valores de error de acierto máximo se truncan al entero más cercano, lo que significa que para los GREAT y OK, las ventanas de tiempo pueden ser hasta 1,5 ms más cortas en ambos lados, mientras que las ventanas de tiempo pueden ser hasta 0,5 ms más cortas o más largas en ambas partes que lo que sugieren las fórmulas.

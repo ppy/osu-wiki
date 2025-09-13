@@ -1,9 +1,3 @@
----
-outdated: true
-outdated_translation: true
-outdated_since: bc94442500060da779f61b83a02f848b3a9133e1
----
-
 # Sorteos de los torneos
 
 La pantalla de sorteos de los torneos se usa para transmitir en vivo la agrupación de los equipos que competirán en la fase de grupos de un torneo. Solo está disponible en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
@@ -12,7 +6,11 @@ Ten en cuenta que el cliente de osu!(lazer) se encuentra actualmente en fase de 
 
 ## Acceder al cliente
 
-Abre osu!(lazer) y presiona `Ctrl` + `O` para mostrar la configuración del juego. Luego, haz clic en «Abrir la carpeta de osu!». Crea los dos siguientes archivos en este directorio:
+*Para obtener información detallada sobre cómo ejecutar y configurar el cliente para torneos de osu!, véase: [Cliente para torneos de osu!](/wiki/osu!_tournament_client#configuración)*
+
+Si nunca has usado el cliente para torneos de osu!, ábrelo una vez creando un acceso directo en el escritorio, cuya ubicación sea `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`.
+
+Después de eso, se debería crear un directorio llamado `default` dentro de `%APPDATA%/osu/tournaments`, que es la carpeta de almacenamiento de torneos para osu!(lazer). Crea los dos siguientes archivos en este directorio:
 
 ```
 drawings.ini
@@ -25,20 +23,23 @@ Después, añade la siguiente línea al archivo `drawings.txt`:
 AU : Australia : AUS
 ```
 
+Luego, reinicia el cliente para torneos y asegúrate de que `default` esté seleccionado como el torneo actual en la pantalla de configuración.
+
 La pantalla de sorteos ya está lista para ser previsualizada. Es importante comprender el aspecto y el funcionamiento de la pantalla de sorteos antes de seguir modificando cada uno de estos archivos.
 
 ### Uso
 
-Desde el menú principal, presiona `Ctrl` + `Mayús` + `D` para acceder a la pantalla de sorteos. Debería aparecer lo siguiente:
+Inicia el cliente para torneos de osu! y pulsa el botón `Drawings` de la barra lateral izquierda para acceder a la pantalla de sorteos. Debería aparecer lo siguiente:
 
 ![](img/main-screen.png "La pantalla principal de sorteos")
 
-Esta pantalla tiene dos secciones: la principal, a la izquierda, con el mapamundi de fondo, y la del panel de control, a la derecha. **Evita** mostrar en vivo el panel de control.
+Hay tres secciones en esta pantalla: la barra lateral a la izquierda, la sección principal y la sección del panel de control a la derecha. **Evita** mostrar en vivo la barra lateral y el panel de control.
 
 Hay 4 botones en el panel de control, vamos a revisarlos:
 
 - **Begin random**
   - Este iniciará el proceso de aleatorización, haciendo que las banderas de la pantalla se desplacen.
+  - Las banderas solo se desplazarán cuando quede algún equipo por agrupar.
 - **Stop random**
   - Este detendrá el proceso de aleatorización, haciendo que el desplazamiento se ralentice hasta que finalmente se detenga y se centre en una bandera en el centro de la pantalla.
 - **Reload**
@@ -46,11 +47,11 @@ Hay 4 botones en el panel de control, vamos a revisarlos:
 - **Reset**
   - Este botón debe usarse en raras ocasiones. Es destructivo y borrará los resultados del proceso de los sorteos.
 
-Pulsa los botones `Begin random` y `Stop random`. Cuando el desplazamiento se detenga en una bandera en el centro de la pantalla, vuelve a la carpeta de osu! y verás que se ha creado un archivo adicional, llamado `drawings_results.txt`.
+Pulsa los botones `Begin random` y `Stop random`. Cuando el desplazamiento se detenga en una bandera en el centro de la pantalla, vuelve a la carpeta del torneo y verás que se ha creado un archivo adicional, llamado `drawings_results.txt`.
 
 Abre el archivo y observa el formato: aquí es donde se almacenan los resultados del proceso de los sorteos, que deben importarse a otras herramientas que ayuden a gestionar el torneo, como Google Spreadsheets.
 
-**Asegúrate de guardar el archivo `drawings_results.txt` en un lugar seguro antes de pulsar el botón Reset, de lo contrario se destruirá.**
+**Asegúrate de guardar el archivo `drawings_results.txt` en un lugar seguro antes de pulsar el botón Reset; de lo contrario, se borrará su contenido.**
 
 ### Configuración
 
@@ -66,8 +67,8 @@ Lo siguiente son propiedades configurables a través de este archivo:
 
 | Propiedad | Descripción | Valores válidos | Valor predeterminado |
 | :-- | :-- | :-- | :-- |
-| Groups | El número de grupos en que se ordenarán los equipos. | Entre 1 y 8 (inclusivo) | 8 |
-| TeamsPerGroup | El número máximo de equipos en un mismo grupo. | Entre 1 y 8 (inclusivo) | 8 |
+| `Groups` | El número de grupos en que se ordenarán los equipos. | Entre 1 y 8 (inclusivo) | 8 |
+| `TeamsPerGroup` | El número máximo de equipos en un mismo grupo. | Entre 1 y 8 (inclusivo) | 8 |
 
 ### Definición de los equipos
 
@@ -98,7 +99,7 @@ IT : Italy : IT
 US : United States of America : USA
 ```
 
-Para definir una bandera personalizada, vuelva a la carpeta de osu! que contiene el archivo `drawings.ini` y dentro de ella crea la carpeta `Flags`. Las imágenes de las banderas personalizadas pueden colocarse en la carpeta Flags. Por ejemplo, si el archivo `my-flag-file.png` se colocó dentro de la carpeta Flags, entonces una línea válida que se puede añadir al archivo `drawings.txt` es:
+Para definir una bandera personalizada, vuelve a la carpeta que contiene el archivo `drawings.ini` y crea la carpeta `Flags` dentro de ella. Las imágenes de las banderas personalizadas pueden colocarse en esta carpeta. Por ejemplo, si el archivo `my-flag-file.png` se colocó dentro de la carpeta `Flags`, entonces una línea válida que se puede añadir al archivo `drawings.txt` es:
 
 ```
 my-flag-file : Mi Equipo : ME
@@ -106,9 +107,9 @@ my-flag-file : Mi Equipo : ME
 
 La resolución óptima para las imágenes de las banderas es de 70x47 píxeles (o la misma relación de aspecto).
 
-### Seeding
+### Sembrado
 
-Puede ser conveniente «sembrar» a los equipos. En este caso, se pueden intercambiar varios archivos `drawings.txt` con ayuda del botón Reload del panel de control.
+Puede ser conveniente «sembrar» a los equipos. En este caso, se pueden intercambiar varios archivos `drawings.txt` con ayuda del botón `Reload` del panel de control.
 
 ## ¿Tienes alguna pregunta?
 

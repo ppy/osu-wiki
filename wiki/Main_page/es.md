@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
 ---
 
 <div class="wiki-main-page__blurb">
@@ -39,7 +37,7 @@ Todo sobre círculos, tambores, frutas y el sintetizador: elementos clave, conce
 
 [Modos de juego](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objeto](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Puntuación](/wiki/Gameplay/Score) • [Repetición](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmaps](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objetos](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Puntuación](/wiki/Gameplay/Score) • [Repeticiones](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multijugador](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -52,7 +50,7 @@ Secciones: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Cli
 
 Componentes: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distancia de ritmo](/wiki/Client/Beatmap_editor/Distance_snap) • [Menú](/wiki/Client/Beatmap_editor/Menu) • [Carga de SB](/wiki/Client/Beatmap_editor/SB_load) • [Líneas de tiempo](/wiki/Client/Beatmap_editor/Timelines)
 
-Actividades: [Beatmapping](/wiki/Beatmapping) • [Técnicas para mapping](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+Actividades: [Creación de beatmaps](/wiki/Beatmapping) • [Técnicas para la creación de beatmaps](/wiki/Beatmapping/Mapping_techniques) • [Creación de storyboards](/wiki/Storyboard#storyboarding) • [Creación de skins](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -87,22 +85,24 @@ Respuestas a preguntas frecuentes y soluciones a problemas comunes se pueden enc
 
 [Centro de ayuda](/wiki/Help_centre) • [Solución de problemas de rendimiento](/wiki/Performance_troubleshooting) • [Equipo de soporte de cuentas](/wiki/People/Account_support_team) • [Foro de ayuda](https://osu.ppy.sh/forum/5)
 
-Restricciones de perfil: [Silencio](/wiki/Silence) • [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions)
+Restricciones de perfil: [Silencios](/wiki//Help_centre/Silences) • [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions) • [Vetos de los torneos](/wiki/Help_centre/Tournament_bans)
 
 Haz tu parte: [Cómo y en qué ayudar](/wiki/Community/How_you_can_help!) • [Reportar mala conducta](/wiki/Reporting_bad_behaviour) • [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse) • [Reportar trampas](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Comunidad y proyectos
+# [Comunidad](/wiki/Community) y [proyectos](/wiki/Community/Projects)
 
 La interacción social es una de las principales cosas que impulsan a los jugadores de osu! en todo el mundo. ¡Explora las actividades y concursos, ponte en contacto con otros, o ayuda a organizar el próximo gran evento!
 
 Lugares: [Foro](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Servidores de Discord](/wiki/Community/Discord_servers)
 
-[Torneos](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concursos](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+Iniciativas: [Torneos](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concursos](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Proyectos](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Reuniones con la comunidad](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Proyectos](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Reuniones con la comunidad](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly)
+
+Multimedia: [Música hecha a medida](/wiki/Community/Bespoke_music) • [Mangas](/wiki/Community/Manga) • [Series de vídeos](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -124,7 +124,7 @@ osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, 
 
 Interactúa con osu! a través de otras aplicaciones y medios, o contribuir a su desarrollo.
 
-[API](/wiki/osu!api) • [Cuenta bot](/wiki/Bot_account) • [Directrices de identidad de marca](/wiki/Brand_identity_guidelines) • [Servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
+[API](/wiki/osu!api) • [Cuenta bot](/wiki/Bot_account) • [Directrices de identidad de marca](/wiki/Brand_identity_guidelines) • [Servidor oficial de Discord de osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -133,7 +133,7 @@ Interactúa con osu! a través de otras aplicaciones y medios, o contribuir a su
 
 Así como casi todo por aquí, la osu! wiki está escrita y mantenida por voluntarios. Sugiere una mejora, informa un problema o incluso escribe tu propio artículo en el [repositorio osu-wiki en GitHub](https://github.com/ppy/osu-wiki).
 
-[Historia de osu!](/wiki/History_of_osu!) • [Historial de clasificaciones en línea](/wiki/History_of_osu!/Online_rankings) • [Historia de la osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Cronología de mapping y modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[Historia de osu!](/wiki/History_of_osu!) • [Historial de clasificaciones en línea](/wiki/History_of_osu!/Online_rankings) • [Historia de la osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Cronología de mapping y modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Día de los Inocentes en osu!](/wiki/History_of_osu!/April_Fools)
 
 [Mapa del sitio](/wiki/Sitemap) • [Guía de contribución](/wiki/osu!_wiki/Contribution_guide) • [Criterios de estilo para artículos](/wiki/Article_styling_criteria) • [Criterios de estilo para noticias](/wiki/News_styling_criteria)
 

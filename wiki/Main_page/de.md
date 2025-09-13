@@ -59,7 +59,7 @@ Komponenten: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Taktteiler](/wiki/C
 
 Ranking ist der Prozess, eine Beatmap auf einer Rangliste darzustellen und die Beatmap so populär werden zu lassen. Entdecke, wie man die Chancen erhöht, eine Beatmap erfolgreich durch den Bewertungsprozess zu bringen; sowie Qualitätskontrolle innerhalb des Prozesses.
 
-[Einreichen](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) • [Mapper-Gilde](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Beatmaps veröffentlichen](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) • [Mapper-Gilde](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Ranking-Kriterien](/wiki/Ranking_criteria): [Metadaten](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
@@ -92,7 +92,7 @@ Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) �
 </div>
 <div class="wiki-main-page-panel">
 
-# Community und Projekte
+# [Community](/wiki/Community) und [Projekte](/wiki/Community/Projects)
 
 Eine aktive Community ist eines der Dinge, die osu! voranbringen. Entdecke die Aktivitäten und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
 

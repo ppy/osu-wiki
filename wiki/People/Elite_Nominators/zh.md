@@ -18,7 +18,7 @@
   - 头衔会持续到下一批次优秀提名者的选举。如果玩家卸任提名者，将取消头衔
   - 如果玩家连续被评为优秀提名者，则头衔等级会逐年递增 1
 - 一个特别的优秀提名者[主页奖牌](/wiki/Community/Profile_badge)
-  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "优秀提名者奖牌") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II 奖牌")
+  ![优秀提名者奖牌](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "优秀提名者奖牌") ![优秀提名者 II 奖牌](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II 奖牌") ![优秀提名者 III 奖牌](https://assets.ppy.sh/profile-badges/elite-nominator-3.png "优秀提名者 III 奖牌")
 
 ## 2019
 
@@ -124,3 +124,27 @@
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | osu!mania |
 | ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | osu!mania |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | osu!mania |
+
+### 2024
+
+*关于新闻帖，请参见： [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
+
+| 名称 | 游戏模式 |
+| :-- | :-- |
+| ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) | osu! |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | osu! |
+| ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) | osu! |
+| ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) | osu! |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
+| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | osu! |
+| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | osu!taiko |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko |
+| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | osu!taiko |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | osu!catch |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | osu!mania |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | osu!mania |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | osu!mania |

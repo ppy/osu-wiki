@@ -10,8 +10,6 @@ tags:
   - tim osu!
   - staf
 no_native_review: true
-outdated_translation: true
-outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
 ---
 
 # Tim osu!
@@ -41,7 +39,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), penasihat bidang mapping dan modding |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Pembawa acara [kanal YouTube osu!](https://www.youtube.com/@osugame), pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild), pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Penasihat bidang modding dan mapping |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Ketua [NAT](/wiki/People/Nomination_Assessment_Team), penasihat bidang modding dan mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [pemelihara wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Koordinator desain World Cup |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
@@ -55,9 +53,9 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Pemelihara wiki](/wiki/People/osu!_wiki_maintainers), penyunting berita |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu dalam menangani berbagai masalah yang bersifat pribadi.
+osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu menangani masalah yang bersifat pribadi.
 
-Selain itu, terdapat pula [berbagai tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
+Di samping itu, terdapat pula [berbagai tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
 
 ## Anggota inti tim yang sudah tidak lagi aktif
 

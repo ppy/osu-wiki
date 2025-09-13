@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
 ---
 
 # Noms des difficultés

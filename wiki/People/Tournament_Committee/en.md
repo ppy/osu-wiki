@@ -171,6 +171,7 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 
 ### Contest Committee
 
+- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
