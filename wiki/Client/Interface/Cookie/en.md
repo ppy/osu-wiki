@@ -16,11 +16,13 @@ tags:
 
 The following is a table that shows all of the cookies used throughout the history of osu! for archival purposes.
 
-| Cookie | Years used | Notes |
+| Cookie | Year | Notes |
 | :-: | :-: | :-- |
-| *missing* | 2007 - 2011 | Uses *Verdana*. |
-| ![2011 - 2014](img/logo2.jpg) | 2011 - 2014 | Uses *Verdana*. |
-| *missing* | 2014 - 2016 | Uses *Aller*. |
-| ![2016 - present](img/logo4.jpg) | 2016 - present | Uses *Aller* |
-| ![January 2024 - May 2024](img/logo5.jpg) | January 2024 - May 2024 | Uses *Torus*, only used shortly due to criticism. |
-| ![May 2024 - present](img/logo6.jpg) | May 2024 - present | Uses *Torus*, used in [osu!(lazer)](/wiki/Help_centre/Upgrading_to_lazer) |
+| ![The 2007 osu! logo](img/2007.png) | 2007 | Uses *Verdana*. |
+| ![The 2008 osu! logo](img/2008.png) | 2008 | Uses *Verdana*. |
+| ![The 2009 osu! logo](img/2009.png) | 2009 | Uses *Verdana*. |
+| ![The 2011 osu! logo](img/2011.png) | 2011 | Uses *Verdana*. |
+| ![The 2011 osu! logo](img/2011fixedcolour.png) | 2011 | Uses *Verdana*. |
+| ![The 2014 osu! logo](img/2014@2x.png) | 2014 | Uses *Aller*. |
+| ![The present osu! logo](img/2016@2x.png) | 2016 – present | Uses *Aller* |
+| *missing* | January 2024 – May 2024 | Uses *Torus*, only used shortly due to criticism. |
