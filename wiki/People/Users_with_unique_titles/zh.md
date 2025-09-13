@@ -245,7 +245,7 @@ osu!remix 竞赛将 **osu!mixer** 作为冠军头衔。
 
 ## Locus 竞赛获奖者
 
-以下用户根据他们在[Locus](/wiki/Contests/Locus/2025)竞赛团队中所担任的角色，被授予了相应的获胜者称号作为奖励。
+以下用户根据他们在 [Locus](/wiki/Contests/Locus/2025) 竞赛团队中所担任的角色，被授予了相应的获胜者称号作为奖励。
 
 在作图方面做出了贡献的队员获得了 **Mapping Architect** 头衔。
 
