@@ -20,7 +20,7 @@ Am unteren Ende des Fensters sind zwei Checkboxen erkennbar. Die erste trägt de
 
 ## Limitierungen
 
-Beatmaps werden nicht eingereicht, wenn sie das Online-Dateigrößen- oder Schwierigkeitslimit überschreiten. Die Beschränkung der Dateigröße liegt bei 5 MB sowie zusätzliche 10 MB für jede Minute an Beatmap-Länge. Das Maximum beträgt 100 MB. Die Schwierigkeitsgrenze ist aktuell 128 Sterne.
+Beatmaps werden nicht eingereicht, wenn sie das Online-Dateigrößen- oder Schwierigkeitslimit überschreiten. Die Beschränkung der Dateigröße liegt bei 5 MB sowie zusätzliche 10 MB für jede Minute an Beatmap-Länge. Das Maximum beträgt 100 MB. Aktuell können maximal 128 Schwierigkeitsgrade einer Beatmap hinzugefügt werden.
 
 Benutzern wird es erlaubt, eine limitierte Anzahl an ausstehenden Beatmaps gleichzeitig auf der Webseite zu haben. Die Beschränkung variiert, abhängig davon, wie viele gerankte Beatmaps ein Nutzer hat und ob er gerade ein [osu!supporter](/wiki/osu!supporter) ist. Benutzer ohne osu!supporter können 4 ausstehende Beatmaps plus 1 pro gerankter Beatmap haben (bis zu 4). Mit osu!supporter wird die Grenze auf 8 ausstehende Beatmaps plus 1 pro gerankter Beatmap erhöht (bis zu 12), also insgesamt 20.
 
