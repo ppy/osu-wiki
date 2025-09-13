@@ -4,6 +4,7 @@ tags:
   - kiai section
   - mode kiai
   - bagian kiai
+no_native_review: true
 ---
 
 # Waktu kiai
