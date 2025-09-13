@@ -3,6 +3,8 @@ stub: true
 tags:
   - logo
 no_native_review: true
+outdated_translation: true
+outdated_since: 35474786e71d42ecda0e93117e79ece947c8512b
 ---
 
 # Cookie
