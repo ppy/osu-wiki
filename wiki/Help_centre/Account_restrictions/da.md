@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Kontobegrænsninger
 
 *Hovedside: [Help centre](/wiki/Help_centre)*
