@@ -14,7 +14,7 @@ You'd expect [an osu! player](https://osu.ppy.sh/users/10825836) who pulls inspi
 
 Hear **kikoyu** for yourself:
 
-### [kikoyu - hypocrite](LINK)
+### [kikoyu - hypocrite](https://assets.ppy.sh/artists/497/immaturity/kikoyu%20-%20hypocrite.osz)
 
 <div align="center" class="osu-md__paragraph">
     <video width="75%" controls>
