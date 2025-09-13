@@ -27,3 +27,4 @@ Index page for all of the osu! Philippines Nationals series.
 ## 2025
 
 - [osu! Philippines Nationals 2025](2025_osu)
+- [osu! Philippines Nationals 2025 - osu!mania 4K/7K](2025_mania)
