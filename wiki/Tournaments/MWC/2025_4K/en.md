@@ -244,8 +244,6 @@ Saturday, 13 September 2025:
 | Canada ::{ flag=CA }:: | 3 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119259424) | [#1](https://www.twitch.tv/videos/2565463262?t=0h7m23s) |
 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119263739) | [#1](https://www.twitch.tv/videos/2565741757?t=0h4m27s) |
 
-## Match results
-
 ### Quarterfinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ua4ugTfIm4qR0oOmzYmmkhiq8AA6nXysSruybCA1yZQ?rm=minimal).
