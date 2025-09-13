@@ -125,6 +125,22 @@ Video embed hosted on YouTube:
 </div>
 ```
 
+Video embed hosted on Twitch:
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2321612622" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+```
+
+Audio preview:
+
+```html
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">
+</audio>
+```
+
 ## Design
 
 The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
