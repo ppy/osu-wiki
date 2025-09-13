@@ -357,25 +357,25 @@ Seeding results are calculated based on rank sum across the 6 qualifier stages, 
 3. All maps used in the tournament are dedicated 1-key osu!mania maps.
 4. The tournament is Free Mod: players are allowed to use Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
 5. The NF mod may be used but is not mandatory; failed scores do not count to the end result.
-6. If a map ends in a draw: the beatmap will be replayed. If the map ends in a draw: Picker's Privilege - the team that picked the map will be awarded 1 point, and the match will proceed as normal. In the unlikely event that a draw happens on the Tiebreaker map, the map will be replayed.
+6. If a map ends in a draw, it will be replayed. If the map ends in a draw: Picker's Privilege - the team that picked the map will be awarded 1 point, and the match will proceed as normal. In the unlikely event that a draw happens on the tiebreaker map, the map will be replayed.
    - Teams cannot win a match via the Picker's Privilege rule. In cases where this would occur the map will be replayed until a winner is decided.
-7. If a player disconnects: they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and is guaranteed to take place if a disconnect occurs within the first 30 seconds of a map).
-8. The usual osu! rules apply; therefore, macroing and the likes is strictly prohibited. If you want to be 100% safe, please just use one key for input. If you want to try something unique out for yourself: don't hesitate to ask staff if your play method is allowed.
+7. If a player disconnects, they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and is guaranteed to take place if a disconnect occurs within the first 30 seconds of a map).
+8. The usual osu! rules apply; therefore, macroing and the likes is strictly prohibited. If you want to be 100% safe, please just use one key for input. If you want to try something unique out for yourself, don't hesitate to ask staff if your play method is allowed.
 9. Please be kind to other players and members of staff; referees have the ability to issue punishments to players or teams based on the severity of rudeness/disruptiveness.
 
 ### Registrations
 
 1. The registration form can be found both on the Master Sheet as well as in our Discord server.
-2. Participants are required to both complete the form and be a member of our Discord server. This is for identification/legitimacy of registration purposes and for convenience in posting updates about the tournament. If the registration form is filled out and the user is not present in the server when the Registration Phase concludes they will automatically be withdrawn from the registrant list.
-3. In cases where a registration for a full team has been completed: the first player listed will automatically be designated as the team captain (this may be changed). In all other cases: captaincy will be discussed by the team members once a team is constructed.
-4. It is possible for some regions to merge if desired, and other countries to have multiple teams (ie. A-team and B-team). If captains are interested in this, please contact the tournament host to discuss.
-5. There are no restrictions for signing up: any rank, any mode, any region is allowed. Please note that osu! tournament staff hold the right to screen you out of the tournament.
+2. Participants are required to both complete the form and be a member of our Discord server. This is for identification/legitimacy of registration purposes and for convenience in posting updates about the tournament. If the registration form is filled out and the user is not present in the server when the registration phase is concluded, they will automatically be withdrawn from the registrant list.
+3. In cases where a registration for a full team has been completed, the first player listed will automatically be designated as the team captain (this may be changed). In all other cases the captaincy will be discussed by the team members once a team is constructed.
+4. It is possible for some regions to merge if desired, and other countries to have multiple teams (i.e. A-team and B-team). If captains are interested in this, please contact the tournament host to discuss.
+5. There are no restrictions for signing up: any rank, any mode, any region is allowed. Please note that the osu! tournament staff hold the right to screen you out of the tournament.
 
 ### Stage Instructions
 
-1. The first weekend will be the Qualifiers. Team captains will nominate a day/time for their team to participate. All teams will then play through the Qualifiers mappool, followed by a 5 minute break (Teams may opt to skip this), and then through the Qualifiers mappool for a second time (Teams may opt to skip playing certain maps again, or the whole pool).
+1. The first weekend will be the Qualifiers. Team captains will nominate a day/time for their team to participate. All teams will then play through the Qualifiers mappool, followed by a 5 minute break (the teams may opt to skip this), and then through the Qualifiers mappool for the second time (the teams may opt to skip playing certain maps again, or the whole pool).
 2. Following Qualifiers will be the Round of 20.
-   - Teams seeded 1st - 12th will play in a no-elimination match where the higher seeded team will fight to retain their seed; if the lower seeded team wins this matchup: both teams will swap seeds heading into the Round of 16.
+   - Teams seeded 1st - 12th will play in a no-elimination match where the higher seeded team will fight to retain their seed; if the lower seeded team wins this matchup, both teams will swap seeds heading into the Round of 16.
    - Teams seeded 13th - 20th will play in a single-elimination match with the winner advancing to the Round of 16. Their seed will be equal to the higher seeded team of their respective matchup.
 3. The Bracket Stage (following the Round of 20) is double-elimination.
 4. The winning condition for each stage is as follows:
@@ -396,7 +396,7 @@ Seeding results are calculated based on rank sum across the 6 qualifier stages, 
 3. Teams will be listed as having forfeited should they fail to gather at least 2 eligible players 10 minutes after the scheduled match time.
 4. This tournament will not feature warmups.
 5. There will be no bans in this tournament.
-6. The team captain must use `!roll` in #multiplayer. If the captain is unavailable: a member of that team must be nominated for the roll.
+6. The team captain must use `!roll` in `#multiplayer`. If the captain is unavailable, a member of that team must be nominated for the roll.
    - The winner of the `!roll` will proceed to pick the first map of the pool.
 7. In case of a tie at the penultimate point needed to win, the tiebreaker map will be played.
 
@@ -411,5 +411,5 @@ Seeding results are calculated based on rank sum across the 6 qualifier stages, 
 
 1. Each stage will be held on a single weekend.
 2. Scheduling will be handled by the staff team; match times will be based on the local times of the participating countries.
-3. To successfully complete a reschedule: agreement between the captains of the competing teams must be provided (excluding Qualifiers, where teams are free to pick a lobby time that they wish to enter).
+3. To successfully complete a reschedule, the agreement between the captains of competing teams must be provided (excluding Qualifiers, where teams are free to pick a lobby time that they wish to enter).
 4. The deadline for rescheduling is always **Wednesday, 23:59 UTC**. The latest a match can be rescheduled to is **Sunday, 19:00 UTC**. Times outside of this range or reschedules requested after the deadline are subject to staff availability and may be rejected.
