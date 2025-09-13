@@ -845,7 +845,8 @@
 | [Jaye's One Key Event](JOKE/1) | 11.07.2020 | 23.08.2020 | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) | ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) | ::{ flag=BR }:: [Бразилия](https://osu.ppy.sh/users/3949268) |
 | [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 06.11.2021 | 19.12.2021 | ::{ flag=US }:: [[LS]Ham](https://osu.ppy.sh/users/17523947) | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) | ::{ flag=BR }:: [Бразилия](https://osu.ppy.sh/users/3949268) |
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 28.10.2023 | 17.12.2023 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
-| [One Key World Cup 2024](JOKE/1KWC_2024) | 04.05.2024 | 16.06.2024 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Великобритания | ::{ flag=AU }:: Австралия- |
+| [One Key World Cup 2024](JOKE/1KWC_2024) | 04.05.2024 | 16.06.2024 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Великобритания | ::{ flag=AU }:: Австралия |
+| [One Key World Cup 2025](JOKE/1KWC_2025) | 26.04.2025 | 08.06.2025 | ::{ flag=JP }:: Япония | ::{ flag=US }:: Соединённые Штаты | ::{ flag=GB }:: Великобритания |
 
 #### Mania Beginner's Showdown
 
