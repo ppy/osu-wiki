@@ -281,7 +281,6 @@ osu!remix 竞赛将 **osu!mixer** 作为冠军头衔。
 - ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794)
 - ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088)
 
-
 ## osu!musician
 
 早期设计 osu! 音效和官方主题音乐的玩家被授予 **osu!musician** 头衔。
