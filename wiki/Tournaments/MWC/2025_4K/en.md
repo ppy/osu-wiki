@@ -266,7 +266,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 6. [katagiri - Heisei Saikyou no Curry Ya (Cut Ver.) (11Bit) \[Stage 6: Hunger\]](https://osu.ppy.sh/beatmapsets/2417728#mania/5256641)
 7. [Creepy Nuts - Otonoke (Disguise, -mint-) \[Stage 7: Supernatural\]](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642)
 
-### Match results
+## Match results
 
 ### Semifinals
 
