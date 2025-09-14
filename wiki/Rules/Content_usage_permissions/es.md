@@ -314,6 +314,7 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/242) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/247) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/270) | [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) | ![][true] [^monstercat-gold] |
+|  | [realjoschi64xd](https://realjoschi64xd.newgrounds.com/) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
@@ -422,7 +423,7 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 
 #### Artistas permitidos, con excepciones
 
-Esta sección se actualizó por última vez el 30 de marzo de 2025.
+Esta sección se actualizó por última vez el 1 de septiembre de 2025.
 
 | Artista |  | Estado | Notas |
 | :-- | :-- | :-- | :-- |
@@ -430,8 +431,10 @@ Esta sección se actualizó por última vez el 30 de marzo de 2025.
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
+|  | Igorrr | ![][partial] | Solo se pueden usar las pistas colaborativas que aparecen en la lista de artista destacado de [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370). No uses ni subas ninguna otra pista. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | No usar la pista titulada «execution_program». |
+|  | MEGAREX (sello discográfico) | ![][partial] | Solo se pueden usar las pistas que aparecen en las listas de artista destacado de los artistas relevantes. No uses ni subas ninguna otra pista. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
@@ -448,7 +451,6 @@ Esta sección se actualizó por última vez el 30 de marzo de 2025.
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |
 | Hatsuki Yura | ![][false] |
-| Igorrr | ![][false] |
 | kamome sano | ![][false] |
 | kozato | ![][false] |
 | NOMA | ![][false] |

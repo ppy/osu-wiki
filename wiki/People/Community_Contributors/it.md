@@ -268,7 +268,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Contributo eccezionale alla scena del modding e del mapping di osu!mania |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Contributo eccezionale alla scena dei tornei e del mapping di osu!mania |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Contributo eccezionale allo sviluppo dei punti performance attraverso strumenti integrali ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Contributo eccezionale allo sviluppo dei punti performance e alla manutenzione di osu!(stable) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Contributo eccezionale allo sviluppo dei punti performance e alla manutenzione di osu!(stable) |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Contributo eccezionale nell'unire la community negli eventi [r/place](https://www.reddit.com/r/place/) di Reddit |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Contributo eccezionale alla documentazione della community sui replay e allo sviluppo di strumenti |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
