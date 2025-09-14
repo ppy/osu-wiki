@@ -357,7 +357,7 @@ Seeding results are calculated based on rank sum across the 6 qualifier stages, 
 3. All maps used in the tournament are dedicated 1-key osu!mania maps.
 4. The tournament is Free Mod: players are allowed to use Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
 5. The NF mod may be used but is not mandatory; failed scores do not count to the end result.
-6. If a map ends in a draw, it will be replayed. If the map ends in a draw again after this, Picker's Privilege - the team that picked the map will be awarded 1 point, and the match will proceed as normal. In the unlikely event that a draw happens on the tiebreaker map, the map will be replayed until a winner is decided.
+6. If a map ends in a draw, it will be replayed. If the map ends in a draw again after this, the Picker's Privilege rule is envoked: the team that picked the map will be awarded 1 point, and the match will proceed as normal. In the unlikely event that a draw happens on the tiebreaker map, the map will be replayed until a winner is decided.
    - Teams cannot win a match via the Picker's Privilege rule. In cases where this would occur the map will be replayed until a winner is decided.
 7. If a player disconnects, they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and is guaranteed to take place if a disconnect occurs within the first 30 seconds of a map).
 8. The usual osu! rules apply; therefore, macroing and the likes is strictly prohibited. If you want to be 100% safe, please just use one key for input. If you want to try something unique out for yourself, don't hesitate to ask staff if your play method is allowed.
