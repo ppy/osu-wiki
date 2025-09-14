@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Sejarah osu! wiki
 
 *Lihat juga: [Pengelola osu! wiki](/wiki/People/osu!_wiki_maintainers)*
