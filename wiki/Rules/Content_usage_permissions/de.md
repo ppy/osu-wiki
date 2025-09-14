@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 502953c245f58ddf62c5a1eed56e5ba70f388066
----
-
 # Richtlinien für die Nutzung von Inhalten
 
 Im Mittelpunkt von osu! steht die Möglichkeit, Kreationen zu entwerfen und mit anderen zu teilen. Es muss sichergestellt werden, dass angemessene Berechtigungen für die Verwendung des Werkes eines anderen Künstlers eingeholt wurden und der Urheber ordnungsgemäß angegeben wird.
@@ -428,7 +423,7 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 
 #### Erlaubt, mit Ausnahmen
 
-Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
+Dieser Abschnitt wurde zuletzt am 1. September 2025 aktualisiert.
 
 | Künstler |  | Status | Bemerkungen |
 | :-- | :-- | :-- | :-- |
@@ -436,8 +431,10 @@ Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
+|  | Igorrr | ![][partial] | Es dürfen nur Kollaborationen, die auf der "Featured Artist"-Seite [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) verfügbar sind, verwendet werden. Die Verwendung oder die Veröffentlichung anderer Songs ist nicht gestattet. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Die Verwendung des Songs "execution_program" ist nicht gestattet. |
+|  | MEGAREX (Musiklabel) | ![][partial] | Es dürfen nur Songs, die auf den entsprechenden "Featured Artist"-Seiten angezeigt werden, verwendet werden. Die Verwendung oder die Veröffentlichung anderer Songs ist nicht gestattet. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
@@ -454,7 +451,6 @@ Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |
 | Hatsuki Yura | ![][false] |
-| Igorrr | ![][false] |
 | kamome sano | ![][false] |
 | kozato | ![][false] |
 | NOMA | ![][false] |

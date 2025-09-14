@@ -85,6 +85,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=US }:: [Kardashevband](https://osu.ppy.sh/users/33736126) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) (member of) |
 | ::{ flag=ES }:: [KeybladeMaster](https://osu.ppy.sh/users/5926683) | [xiiiac13](https://osu.ppy.sh/beatmaps/artists/423) |
+| ::{ flag=US }:: [kikoyu](https://osu.ppy.sh/users/10825836) | [kikoyu](https://osu.ppy.sh/beatmaps/artists/497) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=CA }:: [Kommisar](https://osu.ppy.sh/users/773405) | [Kommisar](https://osu.ppy.sh/beatmaps/artists/379) |
