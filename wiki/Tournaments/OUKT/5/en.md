@@ -14,8 +14,8 @@ The **osu! UK tournament 5** (***OUKT5***) was a ::{ flag=GB }:: United Kingdom 
 
 | Event | Timestamp |
 | --: | :-- |
-| Signups Open | 2015-09-03 |
-| Signups Close | 2014-12-10 |
+| Signups Open | 2015-08-21 |
+| Signups Close | 2015-09-01 |
 | Round of 128 | 2015-09-12/2015-09-13 |
 | Round of 64 | 2015-09-19/2015-09-20 |
 | Round of 32 (Group Stage) | 2015-09-26/2015-09-27 |

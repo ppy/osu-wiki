@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: dfbf339f0001e0d2a0a258ce327e23a59afb1b5c
+---
+
 # 谱面审核成员 (BN) 规章制度
 
 这里列出的规则阐述了[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 在提名谱面时应该做和不应该做的行为，同时确立了 BN 大体的行为基调。这些规则是由[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 讨论得出，并根据部分 BN 的反馈修改而成的结果。

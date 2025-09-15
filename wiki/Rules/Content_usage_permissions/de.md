@@ -314,6 +314,7 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/242) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/247) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/270) | [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) | ![][true] [^monstercat-gold] |
+|  | [realjoschi64xd](https://realjoschi64xd.newgrounds.com/) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
@@ -422,7 +423,7 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 
 #### Erlaubt, mit Ausnahmen
 
-Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
+Dieser Abschnitt wurde zuletzt am 1. September 2025 aktualisiert.
 
 | Künstler |  | Status | Bemerkungen |
 | :-- | :-- | :-- | :-- |
@@ -430,8 +431,10 @@ Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
+|  | Igorrr | ![][partial] | Es dürfen nur Kollaborationen, die auf der "Featured Artist"-Seite [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) verfügbar sind, verwendet werden. Die Verwendung oder die Veröffentlichung anderer Songs ist nicht gestattet. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Die Verwendung des Songs "execution_program" ist nicht gestattet. |
+|  | MEGAREX (Musiklabel) | ![][partial] | Es dürfen nur Songs, die auf den entsprechenden "Featured Artist"-Seiten angezeigt werden, verwendet werden. Die Verwendung oder die Veröffentlichung anderer Songs ist nicht gestattet. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
@@ -448,7 +451,6 @@ Dieser Abschnitt wurde zuletzt am 30. März 2025 aktualisiert.
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |
 | Hatsuki Yura | ![][false] |
-| Igorrr | ![][false] |
 | kamome sano | ![][false] |
 | kozato | ![][false] |
 | NOMA | ![][false] |

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0dfa4de82ffa036ee92655de3da767d2ff812aa7
+---
+
 # Registre du personnel : 2012
 
 *Remarque : L'histoire de quelques utilisateurs peut être incomplète pendant cette année.*
