@@ -63,7 +63,7 @@ Some examples of beatmaps affected by these changes:
 
 In osu!(stable), slider breaks do not count as misses and instead award a 100 or 50 alongside your combo breaking. As a result, the PP system has estimations in place for osu!(stable) scores to guess how many slider breaks exist in a score. Previously, the system only used combo for these estimations. Many scores have been escaping miss penalty as a result of the PP system estimating sometimes less than half of the score's real slider break count.
 
-Thanks to [Givikap120](https://osu.ppy.sh/users/10560705)'s [set](https://github.com/ppy/osu/pull/33066) of [changes](https://github.com/ppy/osu/pull/33170), most osu!(stable) slider break estimations now happen via calculations using the [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!) value of a score. This works by calculating the maximum score achievable, comparing it to the score's ScoreV1 value and estimating how many breaks occurred within that missed score.
+Thanks to [Givy120](https://osu.ppy.sh/users/10560705)'s [set](https://github.com/ppy/osu/pull/33066) of [changes](https://github.com/ppy/osu/pull/33170), most osu!(stable) slider break estimations now happen via calculations using the [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!) value of a score. This works by calculating the maximum score achievable, comparing it to the score's ScoreV1 value and estimating how many breaks occurred within that missed score.
 
 An additional [change](https://github.com/ppy/osu/pull/31234) proposed by [KermitNuggies](https://osu.ppy.sh/users/33452559) was made to compliment this which makes an additional assumption that a player misses difficult circles and sliders in equal proportion. This means part of slider break estimations will be made by weighting your miss count against the ratio of difficult sliders in the beatmap.
 
@@ -83,7 +83,7 @@ Thanks to a [change](https://github.com/ppy/osu/pull/28877) proposed by [StanR](
 
 This change also comes with a nerf to jump patterns that travel through a central point. This prevents maps such as [Tanaka Hirokazu - C-TYPE [Bonsai's BasS-TYPE]](https://osu.ppy.sh/beatmapsets/757146#osu/1620144) from being buffed excessively.
 
-There was an additional [change](https://github.com/ppy/osu/pull/34214) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure that this bonus is not applied to aim's slider velocity bonus. This keeps maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702) in check with minimal changes to other beatmaps.
+There was an additional [change](https://github.com/ppy/osu/pull/34214) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure that this bonus is not applied to aim's slider velocity bonus. This keeps maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702) in check with minimal changes to other beatmaps.
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/precision-bonus.png)
 
@@ -120,11 +120,11 @@ Some examples of beatmaps buffed by this change:
 
 ### Hidden bonus rebalance
 
-A [change](https://github.com/ppy/osu/pull/33237) by [Givikap120](https://osu.ppy.sh/users/10560705) was made in order to rebalance the Hidden bonus.
+A [change](https://github.com/ppy/osu/pull/33237) by [Givy120](https://osu.ppy.sh/users/10560705) was made in order to rebalance the Hidden bonus.
 
 This rebalance sets out to decrease the HD bonus on higher ARs whilst leaving other Hidden scores untouched. The meaning of "higher ARs" now scales by difficulty, meaning lower star ratings (~5*) can start seeing small Hidden nerfs from AR9 and upwards whilst higher star ratings (~10*) will start seeing HD nerfs from AR10.33. This is done to avoid awarding excessive nerfs at ARs where the Hidden difficulty is noticable, whilst still ensuring overweighted ranges receive a warranted nerf.
 
-This includes an additional [change](https://github.com/ppy/osu/pull/34215) by [Givikap120](https://osu.ppy.sh/users/10560705) that reduces the low-AR Hidden bonus for maps with large slider bonuses as sliders have increased visibility compared to hit circles. This nerfs maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702).
+This includes an additional [change](https://github.com/ppy/osu/pull/34215) by [Givy120](https://osu.ppy.sh/users/10560705) that reduces the low-AR Hidden bonus for maps with large slider bonuses as sliders have increased visibility compared to hit circles. This nerfs maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702).
 
 A final [change](https://github.com/ppy/osu/pull/34367) by [StanR](https://osu.ppy.sh/users/7217455) was included to make AR and HD bonuses additive.
 
@@ -139,8 +139,8 @@ Currently, the Traceable mod shares bonuses with Hidden so all changes will appl
 - A [fix](https://github.com/ppy/osu/pull/32694) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure deviation calculations cannot break speed PP
 - A [fix](https://github.com/ppy/osu/pull/34369) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure Traceable's visibility bonus was handled correctly after the recent Hidden changes
 - A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that slider breaks are not awarded in impossible combo scenarios
-- A [fix](https://github.com/ppy/osu/pull/34065) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure OD accounts for osu!(lazer)'s updated hit windows
-- A [fix](https://github.com/ppy/osu/pull/33110) by [Givikap120](https://osu.ppy.sh/users/10560705) to ensure slider break estimations cannot produce an impossibly high number of slider breaks
+- A [fix](https://github.com/ppy/osu/pull/34065) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure OD accounts for osu!(lazer)'s updated hit windows
+- A [fix](https://github.com/ppy/osu/pull/33110) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure slider break estimations cannot produce an impossibly high number of slider breaks
 - A [fix](https://github.com/ppy/osu/pull/34877) by [StanR](https://osu.ppy.sh/users/7217455) to ensure rhythm difficulty is reduced for doubletappable patterns
 - A [change](https://github.com/ppy/osu/pull/33640) by [tsunyoku](https://osu.ppy.sh/users/11315329) to rebalance final values to meet community expectations
 - A [change](https://github.com/ppy/osu/pull/32634) by [Finadoggie](https://osu.ppy.sh/users/14182048) to ensure slider accuracy bonuses are given to the ScoreV2 mod
@@ -150,8 +150,8 @@ Currently, the Traceable mod shares bonuses with Hidden so all changes will appl
 - A [refactor](https://github.com/ppy/osu/pull/32410) by [StanR](https://osu.ppy.sh/users/7217455) to aid with maintaining slider-related calculations
 - A [refactor](https://github.com/ppy/osu/pull/33218) by [Natelytle](https://osu.ppy.sh/users/17607667) to improve understanding of deviation calculations
 - A [refactor](https://github.com/ppy/osu/pull/33265) by [tsunyoku](https://osu.ppy.sh/users/11315329) to aid with difficulty calculation maintenance
-- A [refactor](https://github.com/ppy/osu/pull/33423) by [Givikap120](https://osu.ppy.sh/users/10560705) to optimise rhythm calculations
-- A [refactor](https://github.com/ppy/osu/pull/33271) by [Givikap120](https://osu.ppy.sh/users/10560705) to improve readability of the new Hidden bonus
+- A [refactor](https://github.com/ppy/osu/pull/33423) by [Givy120](https://osu.ppy.sh/users/10560705) to optimise rhythm calculations
+- A [refactor](https://github.com/ppy/osu/pull/33271) by [Givy120](https://osu.ppy.sh/users/10560705) to improve readability of the new Hidden bonus
 
 ## osu!taiko
 
