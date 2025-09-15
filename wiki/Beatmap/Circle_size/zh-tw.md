@@ -16,7 +16,7 @@ tags:
 
 在 [osu!](/wiki/Game_mode/osu!) 中，圓圈大小將改變[打擊圈圈](/wiki/Gameplay/Hit_object/Hit_circle)和[滑條](/wiki/Gameplay/Hit_object/Slider)的大小。數值越大，物件越小。[轉盤](/wiki/Gameplay/Hit_object/Spinner)不會被影響。以下是計算公式：
 
-`r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
+`r = (54.4 - 4.48 * CS) * 1.00041`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
 `r` 為半徑，以[osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel)為單位。`CS` 為圓圈大小的值。
 
