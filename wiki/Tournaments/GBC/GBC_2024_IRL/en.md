@@ -50,6 +50,7 @@ GB Cup 2024 In Real Life was run by the Team GB and various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.qq.com/sheet/DTWpxUkN6SGtrS29m)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1933148?n=1)
 - Livestream
   - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
@@ -83,7 +84,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-Due to the large number of mappools, please refer to the [main spreadsheet](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=BB08J2) for more information.
+Due to the large number of mappools, please refer to the [main spreadsheet](https://docs.qq.com/sheet/DTWpxUkN6SGtrS29m?tab=1xlk14) for more information.
 
 ## Match results
 

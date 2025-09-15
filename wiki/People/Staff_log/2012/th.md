@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0dfa4de82ffa036ee92655de3da767d2ff812aa7
+---
+
 # บันทึกตำแหน่งทีมงาน 2555
 
 *โน้ต: ผู้ใช้บางคนอาจจะตกหล่นไปในปีนี้*
