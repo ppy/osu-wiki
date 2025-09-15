@@ -16,7 +16,7 @@ no_native_review: true
 
 V [osu!](/wiki/Game_mode/osu!), veľkosť kruhov mení veľkosť [kruhov](/wiki/Gameplay/Hit_object/Hit_circle) a [sliderov](/wiki/Gameplay/Hit_object/Slider), kde väčšie hodnotu robia tieto objekty menšie. [Spinnery](/wiki/Gameplay/Hit_object/Spinner) nie sú afektované veľkosťou kruhov. Veľkosť kruhov sa vypočíta pomocou tohto vzorca:
 
-`r = 54.4 - 4.48 * CS`
+`r = (54.4 - 4.48 * CS) * 1.00041`
 
 Kde `r` je polomer meraný v [osu!pixeloch](/wiki/Client/Beatmap_editor/osu!_pixel), a `CS` ja hodnota veľkosti kruhu.
 
