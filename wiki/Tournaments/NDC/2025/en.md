@@ -161,21 +161,21 @@ The National Dutch Championship 2025 is run by various community members.
 1. NDC2025 is a Head-to-Head 1v1 tournament open to all players with the Dutch flag on their osu! profile.
 2. A Qualifier round will determine seeding for a double-elimination bracket starting at Round of 32.
 3. Staff members may not participate as players, with the exception of streamers, commentators, and designers.
-4. Players must be a member of the Discord server while participating.
+4. Players must be members of the Discord server while participating.
 5. Players who do not pass the screening phase from the osu! tournament committee are not allowed to participate.
 
 ### Qualifiers stage
 
 1. Each player will schedule their own lobby on the website at least 1 hour in advance.
 2. Qualifier lobbies will be managed by a bot and monitored by a human referee who can intervene when necessary.
-3. Lobbies can be started from 10:00-23:59 on Thursday til Sunday.
+3. Lobbies can be started from 10:00-23:59 on Thursday until Sunday.
 4. Every map in the qualifier pool will be played once, map order can be decided by the player.
 5. Each map will award the player with points using the formula: Points = Player Score / Median Score.
 6. The top 32 players by total points will advance to the Round of 32.
 
 ### Match procedure
 
-1. The referee will initiate rolls, where both players will !roll once. The highest roll chooses first or second ban. Whoever bans first also picks first.
+1. The referee will initiate rolls, where both players will `!roll` once. The highest roll chooses first or second ban. Whoever bans first also picks first.
 2. Bans and picks will alternate between players, with each player having 90 seconds for their pick/ban. If the timer runs out, the other player gets to choose that pick/ban. Keep in mind this does not change the pick/ban order. For example: Player 2's timer runs out, so Player 1 gets their pick instead. After this, Player 1 gets to pick again according to the original pick/ban order.
 3. Each player can ban at most 2 maps of the same mod.
 4. Each player is allowed a 3-minute break per match. In case of a tiebreaker, players are allowed an additional 2-minute break.
