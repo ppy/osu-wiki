@@ -25,6 +25,12 @@ If [relax](/wiki/Gameplay/Game_modifier/Relax) is being used, the in-game cursor
 
 When the [auto pilot](/wiki/Gameplay/Game_modifier/Autopilot) mod is being used, the in-game cursor will automatically aim for all objects, only requiring the user to click to the rhythm. The speed the spinners will spin at is the same as the one in the [spun out](/wiki/Gameplay/Game_modifier/Spun_Out) mod.
 
+If the player wants to draw while playing osu!, they can do using **smoke**. When the player activates the respective key for smoke, the cursor will leave behind a white trail that will last for about 8 seconds after the keys deactivation.
+
+<!-- TODO: Create a article dedicated to smokes. -->
+
+<!-- This part describing smokes could be expanded into its separate section instead of being here just to describe what the smoke key is for. Leaving this here for later usage in such section: ![osu! smoke effect](/wiki/shared/osu_smoke.jpg "Smoke Usage") -->
+
 ## Hit objects
 
 osu! has 3 main [hit objects](/wiki/gameplay/Hit_object) the player interacts with:
@@ -35,7 +41,7 @@ osu! has 3 main [hit objects](/wiki/gameplay/Hit_object) the player interacts wi
 
 ### Hit circles
 
-![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit circles")
+If the judgement is everything but a `MISS`, the combo will be incremented by 1.
 
 **Hit circles** are the most common object type in osu!. A thin [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) on the outside of the hit circle will shrink over time. The user is required to aim the cursor onto a hit circle and click it when the approach circle touches the hit circle.
 
@@ -55,7 +61,7 @@ Sometimes, the ball may reverse its direction after hitting a *reverse arrow* at
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinners")
 
-**Spinners** fill out the whole playfield in osu!. To clear a spinner, the player needs to hold the respective mouse/keyboard button (by default `X` or `Z`) and spin the cursor around the center as fast as they can. If the spinner was cleared early, they can continue spinning to acquire bonus score and regain more health. Spinners do not have hit windows, but will break combo and grant a `MISS` judgement when not cleared properly.
+**Spinners** fill out the whole playfield in osu!. To clear a spinner, the player needs to hold the respective mouse/keyboard button and spin the cursor around the center as fast as they can. If the spinner was cleared early, they can continue spinning to acquire bonus score and regain more health. Spinners do not have hit windows, but will break combo and grant a `MISS` judgement when not cleared properly.
 
 Below the spinner is a display showing the current spin speed in revolutions per minute (RPM).
 
@@ -65,30 +71,28 @@ On certain skins, the outer white circle will turn red to notify that time to cl
 
 osu! has 4 difficulty settings with each affecting the gameplay differently:
 
-- [Circle size](/wiki/Beatmap/Circle_size)
-- [HP drain](/wiki/Beatmap/HP_drain_rate)
-- [Approach rate](/wiki/Beatmap/Approach_rate)
-- [Overall difficulty](/wiki/Beatmap/Overall_difficulty)
+- [Circle size](/wiki/Beatmap/Circle_size) (CS): Determines how big the hit circles are.
+- [HP drain](/wiki/Beatmap/HP_drain_rate) (HP): Defines how much health is gained and lost while playing.
+- [Approach rate](/wiki/Beatmap/Approach_rate) (AR): Regulates the speed hit objects appear in.
+- [Overall difficulty](/wiki/Beatmap/Overall_difficulty) (OD): Controls the strictness of timings.
 
-Each setting is often referred to as CS, HP, AR, and OD respectively.
+Each setting is often referred to as CS, HP, AR, and OD respectively. Click on the linked articles above for more detailed information.
 
-In osu!(lazer), each of the settings can be altered to the user's preferences using the [Difficulty Adjust](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) mod.
+Unlike osu!(lazer), slider heads in osu!(stable) do not have hit timings and the slider's judgement is decided when the slider ends, with it being based on how the player guided the slider ball.
 
 ## Play Styles
 
 *Refer to [Play Styles page under osu!](/wiki/Gameplay/Play_style).*
 
-## Scoring
-
 [Score in osu!](/wiki/Gameplay/Score/ScoreV1/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
 
 - [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For hit circles and slider heads, well-timed key presses are valued more, both in terms of score and accuracy. Getting a higher judgement also provides more [health](/wiki/Gameplay/Health) boost.
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!) is dependant on judgments and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Judgement/Slider_break).
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: Clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
 Unlike osu!(lazer), slider heads in osu!(stable) do not have hit timings and the slider's judgement is decided when the slider ends, with it being based on how the player guided the slider ball.
 
-When combo is maintained, the total score grows exponentially. Objects closer to the end of the map are worth more points than the ones in the beginning, which means that a player will lose more potential score on them in case of mistimed hits. As a result, it's possible for a score with lower accuracy to have a higher amount of points and beat a score with higher accuracy.
+When combo is maintained, the total score grows exponentially. Objects closer to the end of the map are worth more points than the ones in the beginning, which means that a player will lose more potential score on them in case of mistimed hits. As a result, it is possible for a score with lower accuracy to have a higher amount of points and beat a score with higher accuracy.
 
 After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the judgments the score contains.
 
@@ -117,11 +121,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 - In osu!(stable), the maximum number of spins per minute achievable is 477, which is also the rate at which the [auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins. In osu!(lazer), spinners have a set maximum for bonus score, making spinning after achieving the max score unnecessary. The [spun out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute in both versions of the game. The reason for these limits being set is because on the original DS games, completing spinners is a good way to scratch the touchscreen (or its screen protector), especially on higher difficulties. These limits protect the player from potentially damaging their devices.
 - Changing the spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then start spinning in the correct direction. The spin progress will not progress during the reorientation.
 - Not spinning around the core of the spinner will **not** be considered as a valid spin.
-- Smokes last longer than the default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
-<!-- Leave this in until there is a dedicated article for smokes. -->
 - The osu! mascot is [pippi](/wiki/Mascots#pippi).
-
-![osu! smoke effect](/wiki/shared/osu_smoke.jpg "Smoke Usage")
 
 ### History
 
