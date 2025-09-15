@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0dfa4de82ffa036ee92655de3da767d2ff812aa7
+---
+
 # История команд osu! за 2012 год
 
 *Примечание: история некоторых пользователей может быть неполной.*
