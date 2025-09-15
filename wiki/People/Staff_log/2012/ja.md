@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0dfa4de82ffa036ee92655de3da767d2ff812aa7
+---
+
 # スタッフログ 2012
 
 *注意：この年の一部ユーザー履歴は不完全な場合があります。*
