@@ -16,7 +16,7 @@ tags:
 
 В [osu!](/wiki/Game_mode/osu!) данный параметр задаёт размер [нот](/wiki/Gameplay/Hit_object/Hit_circle) и [слайдеров](/wiki/Gameplay/Hit_object/Slider), причём чем больше само значение, тем меньше размер объектов (на [спиннеры](/wiki/Gameplay/Hit_object/Spinner) он не влияет). Вычислить радиус нот можно по следующей формуле:
 
-`r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->,
+`r = (54.4 - 4.48 * CS) * 1.00041`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->,
 
 где `r` — радиус, измеренный в [osu!пикселях](/wiki/Client/Beatmap_editor/osu!_pixel), а `CS` — значение параметра.
 
