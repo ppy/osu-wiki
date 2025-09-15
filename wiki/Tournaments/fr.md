@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 32ec660527a4d4425da7a2d851731156f13c5f2b
 ---
 
 # Tournois
