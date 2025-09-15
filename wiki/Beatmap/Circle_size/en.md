@@ -15,7 +15,7 @@ tags:
 
 In [osu!](/wiki/Game_mode/osu!), circle size changes the size of [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider), with higher values creating smaller hit objects. [Spinners](/wiki/Gameplay/Hit_object/Spinner) are unaffected by circle size. Circle size is derived through the following formula:
 
-`r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
+`r = (54.4 - 4.48 * CS) * 1.00041`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
 Where `r` is the radius measured in [osu!pixels](/wiki/Client/Beatmap_editor/osu!_pixel), and `CS` is the circle size value.
 
