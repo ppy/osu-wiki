@@ -211,28 +211,4 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
 
-## History
-
-### Voting
-
-The voting method used by the Tournament and Contest Committees has seen sweeping changes in recent years. When the committee was first formed, votes would take place by reacting to chat messages internally. Eventually, tools were created to host votes online, where a [plurality vote](https://en.wikipedia.org/wiki/Plurality_voting) method of voting was used. This vote type allows members to select a single option among many. As time went on, it became clear that something needed to change due to these issues:
-
-- No clear way to break ties
-- No way to rank or weigh multiple options against each other
-- Ambiguity on close results (60%/40% on complex topics)
-
-In October 2024, a proposal was raised by [Stage](https://osu.ppy.sh/users/8191845) to allow each option to be graded from a -5 to +5 scale. The idea was simple: if an outcome receives a score greater than 0, the committee is in favour of it. The option with the highest score would be the winner. It sounded great on paper, but in reality, these issues arose internally:
-
-- It was very difficult to pick between two options that scored closely to each other. This often resulted in delays in action by the committee.
-- It failed to account for the fact that member opinions do not translate to the same numeric score equally. Two members may agree on something to the same degree but rank them differently due to [response bias](https://en.wikipedia.org/wiki/Response_bias).
-- For topics such as new member additions, the threshold of score needed to be approved by the team became difficult to discern.
-
-As a result, in May 2025, [Stage](https://osu.ppy.sh/users/8191845) wrote an even more thorough proposal to switch the voting method once again. This time, the [Schulze method](https://en.wikipedia.org/wiki/Schulze_method) was proposed. This voting method allows members to rank each option from "Strongly Disagree" to "Strongly Agree" using a radio-button selector. This provides the following benefits:
-
-- Members can rank multiple options as equally favorable.
-- Members can express how much more they like specific options over others.
-- It is very unlikely for ties to occur.
-
-To avoid deadlocks after the vote takes place, members can now see the outcomes in order from most to least preferred, but cannot see exactly how close these options are to each other. Members can see each other's votes in detail, but with no comparison to be made beyond final ranking, little room is left for overturning the result after the vote concludes (which was a problem with the prior methods).
-
 [^abstinence]: Members who have a conflict of interest are instructed to abstain from voting.
