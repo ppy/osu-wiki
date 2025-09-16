@@ -1,6 +1,8 @@
-# Tournament bans
+# Tournament sanctions
 
 *Main page: [Help centre](/wiki/Help_centre)*
+
+## Tournament bans
 
 A tournament ban prevents a player from playing in official or officially supported tournaments. It also limits to what extent a player can staff or otherwise offer assistance in these tournaments.
 
@@ -8,7 +10,7 @@ Tournament bans are very rarely handed out on their own, but generally speaking 
 
 Due to the high-stakes nature of tournament play, tournament bans are treated very seriously and are not subject to the kind of leniency an account restriction might ordinarily receive.
 
-## What causes someone to receive a temporary tournament ban? {id=why-temporary}
+### What causes someone to receive a temporary tournament ban? {id=why-temporary}
 
 Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only resulted in an infringement outside of the competitive play setting.
 
@@ -16,7 +18,7 @@ As a real-world example, such behaviour would include drawing or writing hate sy
 
 All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/Account_support_team).
 
-## What causes someone to receive an indefinite tournament ban? {id=why-permanent}
+### What causes someone to receive an indefinite tournament ban? {id=why-permanent}
 
 Any use of third-party cheating tools or other methods to gain an unfair advantage over other participants in an officially supported tournament will result in an indefinite tournament ban. In some situations, especially excessive cases of abuse may also elicit such a punishment at the discretion of the support team.
 
@@ -30,7 +32,7 @@ This includes situations like:
 - Abusing positions of trust to gain or confer an advantage (manipulating schedules, unfairly changing team compositions, or disqualifying participants without cause or reasoning)
 - Organising targeted abuse campaigns towards participants or organisers well outside the realm of criticism
 
-## Can I appeal a tournament ban? {id=appeal}
+### Can I appeal a tournament ban? {id=appeal}
 
 Temporary tournament bans as applied via standard appeal terms or other means cannot be appealed.
 
@@ -40,7 +42,7 @@ Though it is possible to appeal indefinite tournament bans as above, it should b
 
 In rare situations, the [account support team](/wiki/People/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
 
-## What can I do while tournament-banned? {id=while-banned}
+### What can I do while tournament-banned? {id=while-banned}
 
 You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organising such events.
 
@@ -48,7 +50,7 @@ You may still staff in officially supported tournaments by streaming, commentati
 
 Information about your tournament ban status may be provided to tournament organisers upon request, whether they are benefitting from official support or not.
 
-## Common tournament ban reasons and durations {id=reasons}
+### Common tournament ban reasons and durations {id=reasons}
 
 | Tournament ban reason | Duration | Notes |
 | :-- | :-- | :-- |
@@ -61,3 +63,19 @@ Information about your tournament ban status may be provided to tournament organ
 | Using third-party utilities or other cheating tools during an officially supported tournament | Indefinite | Will also cause a restriction |
 | Utilising private/confidential tournament information to gain or confer an unfair advantage | Indefinite | May also cause a restriction |
 | Severe abuse towards or harassment of tournament organisers/staff/participants | Indefinite | May also cause a restriction |
+
+## Staffing bans
+
+A staffing ban prevents a user from staffing in officially supported tournaments, with the exception of streaming, commentating, or graphic design.
+
+## Hosting bans
+
+A hosting ban prevents a user from being the primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
+
+Severe violations of the [official support rules](/wiki/Tournaments/Official_support) while organising a tournament, especially if competitive integrity is severed, may result in a hosting ban being applied. Less severe violations may lead to the user receiving a [hosting probation](#hosting-probations) instead.
+
+## Hosting probations
+
+A hosting probation is a period of increased strictness for how well a user organises an officially supported tournament. When a hosting probation is applied to a user, the next tournament they organise that applies for official support will undergo heavy scrutiny by the Tournament Committee both during the tournament and after it finishes. Any small issues with the tournament will extend the hosting probation, while any major issues may result in a further sanction, such as a [hosting ban](#hosting-bans) or [staffing ban](#staffing-bans), or the tournament losing its official support.
+
+A hosting probation can be removed in one of three ways: either the user organises a tournament with no issues, removing the need for higher scrutiny; a further sanction is applied; or the user organises a tournament which loses its official support.
