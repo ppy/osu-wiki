@@ -13,7 +13,7 @@ As teams get eliminated left and right, we're reaching a point of no return wher
 It should not come as a surprise anymore than [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128) have prepared yet another video recap for us to enjoy. Quite a good watch during your train commute, if we do say so ourselves.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/QghgYwR8QiU" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
