@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: e4bf3faa069d3b6cb93ca0581e69ba05fc45d6fc
----
-
 # Турнирные баны
 
 *Основная статья: [Справочный центр](/wiki/Help_centre)*
