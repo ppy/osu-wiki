@@ -125,6 +125,22 @@ Vídeo incrustado alojado en YouTube:
 </div>
 ```
 
+Vídeo incrustado alojado en Twitch:
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2321612622" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+```
+
+Vista previa de un audio:
+
+```html
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">
+</audio>
+```
+
 ## Diseño
 
 Lo siguiente se aplica a todos los medios que aparecen en las noticias e incluye los motivos más comunes por los que el equipo de noticias solicita cambios o preguntas:
