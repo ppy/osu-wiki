@@ -119,7 +119,7 @@ Applicants that fail to gather enough positive votes will be denied, and won't b
 
 ### Votes
 
-The Tournament Committee frequently makes use of voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended by 24 hours. Furthermore, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
+The Tournament Committee frequently makes use of voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended until the required participation threshold is met. Furthermore, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
 
 | Vote type | Minimum length (days) | Approval threshold | Participation |
 | :-- | --: | --: | --: |
@@ -227,7 +227,7 @@ In October 2024, a proposal was raised by [Stage](https://osu.ppy.sh/users/81918
 - It failed to account for the fact that member opinions do not translate to the same numeric score equally. Two members may agree on something to the same degree but rank them differently due to [response bias](https://en.wikipedia.org/wiki/Response_bias).
 - For topics such as new member additions, the threshold of score needed to be approved by the team became difficult to discern.
 
-As a result, in May 2025, [Stage](https://osu.ppy.sh/users/8191845) wrote an even more thorough proposal to switch the voting method once again. This time, the [Schulze method](https://en.wikipedia.org/wiki/Schulze_method) was proposed. This voting method allows members to rank each option from "Strongly Disagree" to "Strongly Agree" using a radio-buttion selector. This provides the following benefits:
+As a result, in May 2025, [Stage](https://osu.ppy.sh/users/8191845) wrote an even more thorough proposal to switch the voting method once again. This time, the [Schulze method](https://en.wikipedia.org/wiki/Schulze_method) was proposed. This voting method allows members to rank each option from "Strongly Disagree" to "Strongly Agree" using a radio-button selector. This provides the following benefits:
 
 - Members can rank multiple options as equally favorable.
 - Members can express how much more they like specific options over others.
