@@ -66,7 +66,7 @@ Visse overtrædelser har en mindstestraf (oftest 43+ timer), hvis de er særligt
 
 Hvis du, efter flere overtrædelser, fortsætter med at bryde reglerne, kan din konto muligvis være permanent og uigenkaldeligt begrænset.
 
-Begrænsede brugere kan ikke spille online, sætte scores eller chatte med andre brugere, og er i alle henseender udelukket/"bannet" fra interaktion med resten af fællesskabet. En bruger, som er blevet begrænset for overtrædelse af fællesskabsreglerne, kan kun få sin begrænsning fjernet efter anmodning til supportpersonalet, efter der er gået 3 måneder ([flere betingelser kan gælde](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
+Begrænsede brugere kan ikke spille online, sætte scores eller chatte med andre brugere, og er i alle henseender udelukket/"bannet" fra interaktion med resten af fællesskabet. En bruger, som er blevet begrænset for overtrædelse af fællesskabsreglerne, kan kun få sin begrænsning fjernet efter anmodning til supportpersonalet, efter der er gået 3 måneder ([flere betingelser kan gælde](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Alvorlige overtrædelser, der går langt ud over grænserne for vores regler og ind i ulovligt territorie i henhold til almindelig international lovgivning, vil resultere i øjeblikkelig sletning af kontoen. Dette gælder næsten udelukkende for ekstremt grafiske eller på anden måde afskyelige overtrædelser, såsom distribution af børnepornografi eller andet overgrebsmateriale.
 

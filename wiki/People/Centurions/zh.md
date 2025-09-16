@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7330e70ed28f75f569c770d0ed97db8a227ac5ae
+---
+
 # 百夫长
 
 百夫长即已经达成了里程碑——创作了一百张（或更多）[已上架](/wiki/Beatmap/Category#ranked)[谱面](/wiki/Beatmap)的玩家。从 [2023 年 7 月](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories)开始，他们通过制作谱面，帮助 osu! 变得更加出色多彩的杰出奉献精神已被认可；并获得了以下奖励：
