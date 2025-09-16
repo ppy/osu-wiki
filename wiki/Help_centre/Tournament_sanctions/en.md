@@ -6,15 +6,15 @@
 
 A tournament ban prevents a player from playing in official or officially supported tournaments. It also limits to what extent a player can staff or otherwise offer assistance in these tournaments.
 
-Tournament bans are very rarely handed out on their own, but generally speaking almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
+Tournament bans are very rarely handed out on their own, but generally speaking, almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
 
 Due to the high-stakes nature of tournament play, tournament bans are treated very seriously and are not subject to the kind of leniency an account restriction might ordinarily receive.
 
 ### What causes someone to receive a temporary tournament ban? {id=why-temporary}
 
-Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only resulted in an infringement outside of the competitive play setting.
+Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only resulted in a less severe punishment outside of the competitive play setting.
 
-As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (swastika, etc.) using cursor smoke in streamed matches.
+As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (such as swastikas) using cursor smoke in streamed matches.
 
 All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/Account_support_team).
 
@@ -72,10 +72,20 @@ A staffing ban prevents a user from staffing in officially supported tournaments
 
 A hosting ban prevents a user from being the primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
 
-Severe violations of the [official support rules](/wiki/Tournaments/Official_support) while organising a tournament, especially if competitive integrity is severed, may result in a hosting ban being applied. Less severe violations may lead to the user receiving a [hosting probation](#hosting-probations) instead.
+The committee reserves the right to bypass the [hosting probation](#hosting-probations) punishment in cases of severe violations of the [official support rules](/wiki/Tournaments/Official_support), especially in cases where competitive integrity is a concern.
 
 ## Hosting probations
 
-A hosting probation is a period of increased strictness for how well a user organises an officially supported tournament. When a hosting probation is applied to a user, the next tournament they organise that applies for official support will undergo heavy scrutiny by the Tournament Committee both during the tournament and after it finishes. Any small issues with the tournament will extend the hosting probation, while any major issues may result in a further sanction, such as a [hosting ban](#hosting-bans) or [staffing ban](#staffing-bans), or the tournament losing its official support.
+A hosting probation is enforced as a result of an [official support](/wiki/Tournaments/Official_support) rule violation that cannot be resolved via communication to the host after the tournament's conclusion. When a hosting probation is applied to a user, the next tournament they organise that applies for official support will be heavily scrutinized by the Tournament Committee both during the tournament and after it finishes. Minor issues which would typically be resolved via email communication without further incident would instead extend the hosting probation. Significant violations of official support rules while on probation will result in a [hosting ban](#hosting-ban) or greater punishment, as determined by the committee.
 
-A hosting probation can be removed in one of three ways: either the user organises a tournament with no issues, removing the need for higher scrutiny; a further sanction is applied; or the user organises a tournament which loses its official support.
+A hosting probation can be removed by organising a tournament with **zero** [official support](/wiki/Tournaments/Official_support) violations, including minor issues that would require the committee to email the host to fix these issues. Examples of these issues include:
+
+- Missing staff on the forum post
+- Not having public Qualifier results
+- Failing to sync multiple staff listings
+- Failing to update a Challonge bracket or other public match listing
+- Other basic errors which are similar in nature.
+
+Users who consistently have minor issues which require correction by the committee via email will remain on probation indefinitely. Users who make no effort to improve the quality of their events while on probation may be subject to harsher punishment as determined by the committee.
+
+If a user faces harsher punishment, such as a hosting ban, their probation will also expire once their punishment is lifted.
