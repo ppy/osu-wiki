@@ -121,12 +121,14 @@ Applicants that fail to gather enough positive votes will be denied, and won't b
 
 The Tournament Committee frequently makes use of voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended until the required participation threshold is met. Furthermore, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
 
+*Note: The participation threshold only considers members who have not abstained from the vote due to having a conflict of interest.*
+
 | Vote type | Minimum length (days) | Approval threshold | Participation |
 | :-- | --: | --: | --: |
 | Withholding badge support | 3 | 50% | 75% |
 | Tournament bans | 3 | 50% | 75% |
 | Tournament hosting & staffing bans | 3 | 50% | 75% |
-| Top three badge support | 4 | 80% | 100%[^abstinence] |
+| Top three badge support | 4 | 80% | 100% |
 | Adding new members | 4 | 80% | 100% |
 
 ## Tournament ban lengths
@@ -210,5 +212,3 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
-
-[^abstinence]: Members who have a conflict of interest are instructed to abstain from voting.
