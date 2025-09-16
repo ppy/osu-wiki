@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7330e70ed28f75f569c770d0ed97db8a227ac5ae
+---
+
 # Centuriones
 
 Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **cien** (o más) [beatmaps](/wiki/Beatmap) [clasificados](/wiki/Beatmap/Category#ranked). A partir del [11 de julio de 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), su destacada dedicación para ayudar a hacer osu! más asombroso a través de beatmaps, se reconocerá a través de las siguientes recompensas:
