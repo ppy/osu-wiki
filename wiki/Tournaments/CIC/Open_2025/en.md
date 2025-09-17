@@ -453,7 +453,7 @@ Sunday, 10 August 2025:
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the scheduled start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A beatmap can be replayed for disconnects that occur within 30 seconds after it has been started or prior to 25% of its completion.
 9. Lag is not a valid reason to nullify a beatmap.
