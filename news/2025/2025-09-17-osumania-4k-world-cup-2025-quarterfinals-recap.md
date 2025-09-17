@@ -85,7 +85,7 @@ What we know for sure is that the extra challenge has made matches much, much mo
 **[You can view the match VOD here!](https://www.youtube.com/watch?v=Xk1GfYlDLhc&t=559)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/QghgYwR8QiU?start=405&end=602" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/QghgYwR8QiU?start=406&end=602" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ::{ flag=HK }:: Hong Kong and ::{ flag=GB }:: United Kingdom were both coming off from comfortable wins on the winners' bracket, only conceding two points to ::{ flag=PE }:: Peru and one to ::{ flag=AR }:: Argentina, respectively. However, coming into this match, both of these countries were going to have a much tougher challenge, as this was going to be a battle between top seeders.
@@ -106,7 +106,7 @@ Both the United Kingdom and the Hong Kong teams played extremely well and had a 
 **[You can view the match VOD here!](https://www.youtube.com/watch?v=Xk1GfYlDLhc&t=559)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/QghgYwR8QiU?start=405&end=602" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/QghgYwR8QiU?start=602&end=840" frameborder="0" allowfullscreen></iframe>
 </div>
 
 While both teams persevered throughout the losers' bracket despite their early losses, ::{ flag=PL }:: Poland and ::{ flag=PH }:: the Philippines were going to have one hell of a fight to determine who would be making it into the Semifinals. Despite the teams' unfortunate handicaps with their rosters and consistency throughout the tournament, they performed far above everyone's initial expectations during the match!
