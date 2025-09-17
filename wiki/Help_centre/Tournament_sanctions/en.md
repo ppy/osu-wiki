@@ -26,7 +26,7 @@ This includes situations like:
 
 - As above, any use of third-party cheating tools or utilities to gain an advantage
 - Making use of multiple accounts to enter a tournament
-- Attempting to evade a silence or infringement by using another account
+- Attempting to evade a silence or other penalty by using another account
 - Account sharing within/during an officially supported tournament
 - Conspiring to obtain or otherwise using private information to gain or confer an advantage (such as accessing mappool information before other teams, etc.)
 - Abusing positions of trust to gain or confer an advantage (manipulating schedules, unfairly changing team compositions, or disqualifying participants without cause or reasoning)
