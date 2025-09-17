@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 32ec660527a4d4425da7a2d851731156f13c5f2b
----
-
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
@@ -331,7 +326,8 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15/9/2024 | - | - | - | - |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15/9/2024 | 2/11/2024 | 这是什么 | 沟槽的烤翅还在开战舰追我 | Bingo! |
+| [osu! FumoFumo Cup: Summer Lights](OFFC/summer-lights) | 5/7/2025 | 1/9/2025 | 多啦A梦 | zako psc | 不是夏天我不草 |
 
 #### osu! Indonesia Tournament
 
