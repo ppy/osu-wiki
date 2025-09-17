@@ -70,21 +70,21 @@ A staffing ban prevents a user from staffing in officially supported tournaments
 
 ## Hosting bans
 
-A hosting ban prevents a user from being the primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
+A hosting ban prevents a user from being the primary organiser or admin of any officially supported tournament. They may, however, engage in other roles which do not involve organisation.
 
 The Tournament Committee reserves the right to bypass the [hosting probation](#hosting-probations) punishment in cases of severe violations of the [official support rules](/wiki/Tournaments/Official_support), especially in cases where competitive integrity is a concern.
 
 ## Hosting probations
 
-A hosting probation is enforced as a result of an [official support](/wiki/Tournaments/Official_support) rule violation that cannot be resolved via communication to the host after the tournament's conclusion. When a hosting probation is applied to a user, the next tournament they organise that applies for official support will be heavily scrutinized by the Tournament Committee both during the tournament and after it finishes. Minor issues which would typically be resolved via email communication without further incident would instead extend the hosting probation. Significant violations of official support rules while on probation will result in a [hosting ban](#hosting-bans) or greater punishment, as determined by the committee.
+A hosting probation is enforced as a result of an [official support](/wiki/Tournaments/Official_support) rule violation that cannot be resolved via communication to the host after the tournament's conclusion. When a hosting probation is applied to a user, the next tournament they organise that applies for official support will be heavily scrutinised by the Tournament Committee both during the tournament and after it finishes. Minor issues which would typically be resolved via email communication without further incident would instead extend the hosting probation. Significant violations of official support rules while on probation will result in a [hosting ban](#hosting-bans) or greater punishment, as determined by the committee.
 
-A hosting probation can be removed by organising a tournament with **zero** [official support](/wiki/Tournaments/Official_support) violations, including minor issues that would require an email the host to fix them. Examples of these issues include:
+A hosting probation can be removed by organising a tournament with **zero** [official support](/wiki/Tournaments/Official_support) violations, including minor issues that would require an email to the host to fix them. Examples of these issues include:
 
 - Missing staff on the forum post
 - Not having public Qualifier results
 - Failing to update public match listings such as the bracket
-- Other basic errors which are similar in nature.
+- Other basic errors which are similar in nature
 
-Users who consistently have minor issues which require correction by the committee via email will remain on probation indefinitely. Users who make no effort to improve the quality of their events while on probation may be subject to harsher punishment as determined by the committee.
+Users who consistently have minor issues which require correction by the committee via email will remain on probation indefinitely. Users who make no effort to improve the quality of their events while on probation may be subject to harsher punishment as determined by the committee. Hosting probations do not expire automatically.
 
 If a user faces harsher punishment, such as a hosting ban, their probation will also expire once their punishment is lifted.
