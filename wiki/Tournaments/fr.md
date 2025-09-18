@@ -176,6 +176,16 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Aus/NZ osu!standard Tournament 11 - Winter | 15/07/2024 | 08/09/2024 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
 | Aus/NZ osu!standard Tournament 12 - Summer | 25/01/2025 | 23/03/2025 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
 
+#### Azu's Tourneys
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Vanilla vs Chocolate | 23/09/2019 | 20/10/2019 | Vanilla | Chocolate | N/A |
+| Cats vs Dogs | 04/11/2019 | 22/12/2019 | Cats | Dogs | N/A |
+| owo vs uwu | 19/01/2020 | 21/03/2020 | uwu | owo | N/A |
+| Coffee vs Tea | 18/04/2020 | 27/06/2020 | Tea | Coffee | N/A |
+| Summer vs Winter | 15/03/2021 | 16/05/2021 | Summer | Winter | N/A |
+
 #### BubblyQT
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |

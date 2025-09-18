@@ -172,6 +172,16 @@
 | Aus/NZ osu!standard Tournament 11 - Winter | 2024-07-15 | 2024-09-08 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
 | Aus/NZ osu!standard Tournament 12 - Summer | 2025-01-25 | 2025-03-23 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
 
+#### Azu's Tourneys
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Vanilla vs Chocolate | 2019-09-23 | 2019-10-20 | Vanilla | Chocolate | N/A |
+| Cats vs Dogs | 2019-11-04 | 2019-12-22 | Cats | Dogs | N/A |
+| owo vs uwu | 2020-01-19 | 2020-03-21 | uwu | owo | N/A |
+| Coffee vs Tea | 2020-04-18 | 2020-06-27 | Tea | Coffee | N/A |
+| Summer vs Winter | 2021-03-15 | 2021-05-16 | Summer | Winter | N/A |
+
 #### BubblyQT
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
