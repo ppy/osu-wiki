@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 32ec660527a4d4425da7a2d851731156f13c5f2b
----
-
 # Турниры
 
 Данный раздел посвящён турнирам по osu!. Организация и проведение турниров также обсуждаются в [отдельном форуме](https://osu.ppy.sh/community/forums/55).
@@ -331,7 +326,8 @@ outdated_since: 32ec660527a4d4425da7a2d851731156f13c5f2b
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15.09.2024 | - | - | - | - |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15.09.2024 | 02.11.2024 | 这是什么 | 沟槽的烤翅还在开战舰追我 | Bingo! |
+| [osu! FumoFumo Cup: Summer Lights](OFFC/summer-lights) | 05.07.2025 | 01.09.2025 | 多啦A梦 | zako psc | 不是夏天我不草 |
 
 #### osu! Indonesia Tournament
 
@@ -734,6 +730,7 @@ outdated_since: 32ec660527a4d4425da7a2d851731156f13c5f2b
 | [Catch the Beat Индонезия Cup 2022](CIC/2022) | 04.03.2022 | 10.04.2022 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 | [Catch the Beat Индонезия Cup 2023](CIC/2023) | 15.07.2023 | 27.08.2023 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
 | [Catch the Beat Индонезия Cup Open 2024](CIC/Open_2024) | 08.07.2024 | 01.09.2024 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
+| [Catch the Beat Индонезия Cup Open 2025](CIC/Open_2025) | 28.07.2025 | 14.09.2025 | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
 
 #### Indonesia Convert Cup
 
