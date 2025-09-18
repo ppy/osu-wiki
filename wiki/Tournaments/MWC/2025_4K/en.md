@@ -115,16 +115,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=KR }:: South Korea | [Sep 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T120000&p1=1440&p2=136&p3=235) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=TH }:: Thailand | [Sep 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T140000&p1=1440&p2=232&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Sep 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T150000&p1=1440&p2=33&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Chile ::{ flag=CL }:: | ::{ flag=TH }:: Thailand | [Sep 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T160000&p1=1440&p2=232&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 21 September 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T020000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Sep 21 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T040000&p1=1440&p2=33&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Thailand ::{ flag=TH }:: | ::{ flag=GB }:: United Kingdom | [Sep 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T110000&p1=1440&p2=28&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Thailand ::{ flag=TH }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T110000&p1=1440&p2=28&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Thailand ::{ flag=TH }:: | ::{ flag=GB }:: United Kingdom | [Sep 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T140000&p1=1440&p2=28&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Sep 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T150000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Grand Finals | mappool showcase | [Sep 21 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
