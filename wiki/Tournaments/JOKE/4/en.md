@@ -70,7 +70,7 @@ tags:
    - Teams cannot win a match via the Picker's Privilege rule. In cases where this would occur the map will be replayed until a winner is decided.
 7. If a player disconnects, they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and will likely take place if a disconnect occurs within the first 30 seconds of a map).
 8. The usual osu! rules apply; therefore, macroing and the likes is strictly prohibited. If you want to be 100% safe, please just use one key for input. If you want to try something unique out for yourself, don't hesitate to ask staff if your play method is allowed.
-10. Please be kind to other players and members of staff; referees have permission to punish players based on any rudeness and/or disruptiveness.
+9. Please be kind to other players and members of staff; referees have permission to punish players based on any rudeness and/or disruptiveness.
 
 ### Registrations
 
