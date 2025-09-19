@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Jaye's One Key Event 4 (The Great Escape): Registrations Now Open!"
+title: "Jaye's One Key Event 4: The Great Escape"
 date: 2025-09-21 12:00:00 +0000
 ---
 
-Only one button required?! — the largest 1-key competition is back again for another year of shenanigans and tomfoolery!
+Only one button required?! That's right, the largest 1-key competition is back again for another year of shenanigans and tomfoolery!
 
 ![](/wiki/shared/news/2025-09-21-joke-4-registrations-now-open/banner.jpg)
 
@@ -12,11 +12,11 @@ Only one button required?! — the largest 1-key competition is back again for a
 
 ## Is this a JOKE?
 
-[Jaye's One Key Event](/wiki/Tournaments/JOKE) is a community for low-key osu!mania (1K-3K) players and mappers, spearheaded by [Jaye](https://osu.ppy.sh/users/4841352) and cohosted by [Sparxe](https://osu.ppy.sh/users/5750235) and [Sydosys](https://osu.ppy.sh/users/17523947). Over the years we've seen many goofy and hype moments, a few of which we'd love to share with you here. Across 1v1 tournaments, country-based team tournaments, dan courses and even an ARG, the JOKE series has a long history!
+[Jaye's One Key Event](/wiki/Tournaments/JOKE) is a community for low-key osu!mania (1K–3K) players and mappers, spearheaded by [Jaye](https://osu.ppy.sh/users/4841352) and cohosted by [Sparxe](https://osu.ppy.sh/users/5750235) and [Sydosys](https://osu.ppy.sh/users/17523947). Over the years we've seen many goofy and hype moments, a few of which we'd love to share with you here. Across 1v1 tournaments, country-based team tournaments, dan courses and even an ARG, the JOKE series has a long history!
 
-## Custom maps and custom songs
+## What to expect
 
-Ever since the beginning, all charts used for our tournaments and other related projects have been custom-mapped. Since 2021, we have been on a quest to shine light on as many Featured Artists as possible, currently having over 180 Featured Artists represented throughout. And this year will be no different! As once again JOKE will be 100% custom-mapped and straight from our beloved Featured Artist catalogue.
+Ever since the beginning, all charts used for our tournaments and other related projects have been custom-mapped. Since 2021, we have been on a quest to shine light on as many Featured Artists as possible, currently having over 180 Featured Artists represented throughout. And this year will be no different! Everything will once again be 100% custom-mapped and straight from our beloved Featured Artist catalogue!
 
 But it doesn't stop there! We have also brought on the talent of many musicians over the years to create new content for our projects, having clocked in over 20 to date. Feel free to check out some of our favourites from our more recent events: [One Key World Cup 2025](/wiki/Tournaments/JOKE/1KWC_2025) (1KWC) and [One Key Dan Course](https://osu.ppy.sh/beatmapsets/2234187) by JOKE.
 
@@ -30,7 +30,7 @@ But it doesn't stop there! We have also brought on the talent of many musicians 
 
 You may have also unknowingly come across some of our other works featured in other rhythm games, like the ever popular *1KARUGA* making an appearance in the Adofai World Cup 2023, and *TETRΛTONE ΛLTiSSiMO* as seen above having a showing in Ravon.
 
-If this is something you like then there's a full collection of our originals [here](https://soundcloud.com/joke-official/sets/joke-customs)! And believe us, we have more in store where that came from!
+If this is something that catches your interest, then [check out our full collection of original songs](https://soundcloud.com/joke-official/sets/joke-customs)! And believe us, we have more in store where that came from!
 
 ## Tournament schedule
 
@@ -62,12 +62,12 @@ As an added bonus to this year's addition: there will also be participation awar
 
 ## How to sign-up
 
-To register as a player, please fill out the [Registration Form](https://forms.gle/RSTkEtmBrBJ8wxVr8). Before registering, please make sure that:
+To register as a player, please fill out the [registration form](https://forms.gle/RSTkEtmBrBJ8wxVr8). Before registering, please make sure that:
 
 - You have not violated the osu! community rules within the past 12 months.
-- You have joined the Official JOKE Discord server.
+- You have joined the [JOKE Discord server](https://discord.com/invite/35kN3dF).
 
-We can always use more help to make the JOKE events even better. Sounds like something you want to get involved with? Please feel free to reach out to us on [Discord](https://discord.gg/35kN3dF)!
+We can always use more help to make the JOKE events even better. Sounds like something you want to get involved with? Please feel free to reach out to us on Discord!
 
 For more information, please check out the [forum post](https://osu.ppy.sh/community/forums/topics/2131047), [wiki page](/wiki/Tournaments/JOKE/4), or the myriad of statistics in our [Discord server](https://discord.gg/35kN3dF). 
 

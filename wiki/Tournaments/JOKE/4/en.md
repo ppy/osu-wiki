@@ -33,7 +33,7 @@ tags:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $250 AUD |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $140 AUD |
 | 4th place | $80 AUD |
-| 5th-6th place | $40 AUD |
+| 5th–6th place | $40 AUD |
 
 ## Organisation
 
@@ -52,7 +52,7 @@ tags:
 
 - [Announcement post](https://osu.ppy.sh/home/news/2025-09-21-joke-4-registrations-now-open)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2131047)
-- [JOKE Discord server](https://discord.gg/35kN3dF)
+- [JOKE Discord server](https://discord.com/invite/35kN3dF)
 - [Livestream](https://www.twitch.tv/jokeOfficial)
 - Spreadsheets
   - **[Master](https://docs.google.com/spreadsheets/d/1_VQ9NY7ntjDWDoxrGtAkBJbG3Z8CfOeV8vpMXJge9SE)**
@@ -61,7 +61,7 @@ tags:
 
 ### Tournament Information
 
-1. Jaye's One Key Event (JOKE) is a 1v1 tournament; you're on your own out there!
+1. Jaye's One Key Event (JOKE) is a 1v1 tournament.
 2. Beatmap scoring is based on ScoreV2.
 3. The maps for each round will be announced during a live showcase once all matches for a round have concluded (otherwise, it will be announced in the Discord server). Only the announced maps will be used during the respective matches.
 4. The tournament is Free Mod: players are free to use either Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
