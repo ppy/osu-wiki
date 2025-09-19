@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 32ec660527a4d4425da7a2d851731156f13c5f2b
----
-
 # Turniere
 
 Dieser Bereich ist für osu!-Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
@@ -177,6 +172,16 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Aus/NZ osu!standard Tournament 11 - Winter | 15.07.2024 | 08.09.2024 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
 | Aus/NZ osu!standard Tournament 12 - Summer | 25.01.2025 | 23.03.2025 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
 
+#### Azu's Tourneys
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Vanilla vs Chocolate | 23.09.2019 | 20.10.2019 | Vanilla | Chocolate | N/A |
+| Cats vs Dogs | 04.11.2019 | 22.12.2019 | Cats | Dogs | N/A |
+| owo vs uwu | 19.01.2020 | 21.03.2020 | uwu | owo | N/A |
+| Coffee vs Tea | 18.04.2020 | 27.06.2020 | Tea | Coffee | N/A |
+| Summer vs Winter | 15.03.2021 | 16.05.2021 | Summer | Winter | N/A |
+
 #### BubblyQT
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -331,7 +336,8 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15.09.2024 | - | - | - | - |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15.09.2024 | 02.11.2024 | 这是什么 | 沟槽的烤翅还在开战舰追我 | Bingo! |
+| [osu! FumoFumo Cup: Summer Lights](OFFC/summer-lights) | 05.07.2025 | 01.09.2025 | 多啦A梦 | zako psc | 不是夏天我不草 |
 
 #### osu! Indonesia Tournament
 
