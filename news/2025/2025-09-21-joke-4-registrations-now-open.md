@@ -69,7 +69,7 @@ To register as a player, please fill out the [registration form](https://forms.g
 
 We can always use more help to make the JOKE events even better. Sounds like something you want to get involved with? Please feel free to reach out to us on Discord!
 
-For more information, please check out the [forum post](https://osu.ppy.sh/community/forums/topics/2131047), [wiki page](/wiki/Tournaments/JOKE/4), or the myriad of statistics in our [Discord server](https://discord.gg/35kN3dF). 
+For more information, please check out the [forum post](https://osu.ppy.sh/community/forums/topics/2131047), [wiki page](/wiki/Tournaments/JOKE/4), or the vast collection of material in our Discord server. 
 
 Thanks for reading and we hope to see you either on the stage or in the crowd!
 

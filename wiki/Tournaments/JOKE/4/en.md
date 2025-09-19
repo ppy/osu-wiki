@@ -46,7 +46,7 @@ tags:
 | Designer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
 | Referee | ::{ flag=GB }:: [--Dragon--](https://osu.ppy.sh/users/11924624), ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=TH }:: [\[Ping\]](https://osu.ppy.sh/users/6291395), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PL }:: [bapril](https://osu.ppy.sh/users/12726001), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459) |
 | Designer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
-| Other Help | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
+| Admin | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
 
 ## Links
 
@@ -59,7 +59,7 @@ tags:
 
 ## Ruleset
 
-### Tournament Information
+### Tournament information
 
 1. Jaye's One Key Event (JOKE) is a 1v1 tournament.
 2. Beatmap scoring is based on ScoreV2.
@@ -78,7 +78,7 @@ tags:
 2. Participants are required to both complete the form and be a member of our Discord server. This is for identification/legitimacy of registration purposes and for convenience in posting updates about the tournament. If the registration form is filled out and the user is not present in the server when the Screening Phase concludes they will automatically be withdrawn from the registrant list.
 3. There are no restrictions for entry: any rank, any mode, and any country is allowed. Please note that osu! tournament staff hold the right to screen you out of the tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. The first weekend will be the "Qualifiers". All participants will be able to choose a multiplayer lobby at a specified time. All participants will then play through the Qualifiers mappool, followed by a 5-minute break (players may opt to skip this), after which they will play through the Qualifiers mappool for a second time (players may opt to skip this as well).
 2. The bracket stage (following Qualifiers) is Double Elimination.
@@ -93,7 +93,7 @@ tags:
 | Finals | Best of 11 |
 | Grand Finals | Best of 13 |
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room approx. 10 minutes in advance. Players must gather during this period.
 2. Room settings are `Game mode: "osu!mania"`, `Score mode: "ScoreV2"`. Room name must be `JOKE: Lobby #` for Qualifying Round, and `JOKE: ({Player 1}) vs ({Player 2})` for every other round.
@@ -104,14 +104,14 @@ tags:
    - The winner of the `!roll` will be allowed first pick of the pool.
 7. In case of a tie at the penultimate point needed to win, the tiebreaker map will be played.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be one mappool for each round (as stated above).
 2. Mappools do not contain mod categories, but are instead aimed at meeting certain mapping-styled criteria. These include: Rice, LN, Hybrid, Speed, and EX.
 3. The size of the mappool will increase by 2 when the win condition calls for it so (see [Stage Instructions](#stage-instructions)).
 4. The mappools will be uploaded by Jaye after the showcase concludes. The pool will be a multi-song mapset available on the osu! website.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on a single weekend.
 2. Scheduling will be handled by the staff team; match times will be based on the time zones provided by players during the Registration Phase.
