@@ -32,7 +32,7 @@ There is a maximum number of spins per minute: capped at `477`. This is also the
 
 ## Gameplay
 
-A spinner is always considered its own combo. A spin therefore will always reward the player with a 300g upon successful completion. A combo may neither start, nor end, on a spinner, meaning beatmap creators must start a new combo each spinner.
+As new combos are always forced after spinners, a spin will always reward the player with a 300g upon successful completion.
 
 Beatmaps will often use spinners on long held sounds, such as wind-ups, or during fadeouts often at the ends of songs.
 
