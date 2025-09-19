@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: dfbf339f0001e0d2a0a258ce327e23a59afb1b5c
----
-
 # Reglas para los Beatmap Nominators
 
 Las reglas enumeradas aquí afectan a lo que los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) pueden y no pueden hacer cuando nominan beatmaps, así como marcan la conducta general que se espera de ellos. Estas reglas son el resultado de una discusión interna del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) y han tenido en cuenta los comentarios de los Beatmap Nominators sobre su propuesta.
 
-Los Beatmap Nominators poseen las herramientas para nominar beatmaps y dar forma al mundo de osu! promoviendo nuevo contenido para ser incluido en los listados oficiales, por esta razón tienen que acatar las normas en todo momento. La infracción de cualquiera de estas reglas puede suponer la expulsión del Beatmap Nominator respectivo de los Beatmap Nominators. Las infracciones de estas reglas pueden comunicarse directamente a un miembro del NAT.
+Los Beatmap Nominators poseen las herramientas para nominar beatmaps y dar forma al mundo de osu! promoviendo nuevo contenido para ser incluido en los listados oficiales; por esta razón, tienen que acatar las reglas en todo momento. La infracción de cualquiera de estas reglas puede suponer la expulsión del Beatmap Nominator respectivo de los Beatmap Nominators. Las infracciones de estas reglas pueden reportarse directamente al NAT a través del [sitio web de gestión de los BN](https://bn.mappersguild.com/reports).
 
 ## Expectativas
 
@@ -18,8 +13,8 @@ Una conducta contraria a estas expectativas será motivo de expulsión a discrec
 ## Conducta
 
 - **No sigas ninguna regla o enmienda no finalizada.**
-- **Respeta las [reglas de la comunidad de osu!](/wiki/Rules) y el [código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) en todo momento.** Como Beatmap Nominator, tu conducta debe servir como ejemplo positivo para otros miembros de la comunidad. La infracción del código de conducta puede dar lugar a un periodo de prueba temporal o, en casos extremos, a la expulsión de los Beatmaps Nominators.
-- **No formes parte ni participes en comisiones pagadas de modding, clasificación o beatmapping.** Nunca debería ponerse en duda la legitimidad o los motivos de los miembros de cualquier equipo de osu! (BN, NAT u otros) implicados en el [proceso de clasificación](/wiki/Beatmap_ranking_procedure).
+- **Respeta las [reglas de la comunidad de osu!](/wiki/Rules) y el [código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) en todo momento.** Como Beatmap Nominator, tu conducta debe servir como ejemplo positivo para otros miembros de la comunidad. La infracción del código de conducta puede dar lugar a una advertencia por mala conducta o, en casos extremos, a la expulsión de los Beatmap Nominators.
+- **No formes parte ni participes en comisiones pagadas de modding, clasificación, o beatmapping.** Nunca debería ponerse en duda la legitimidad o los motivos de los miembros de cualquier equipo de osu! (BN, NAT u otros) implicados en el [proceso de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ## Actividad
 
@@ -57,7 +52,7 @@ Cuando se haya creado la evaluación de un Beatmap Nominator y aún tenga que cu
 
 ### Descalificaciones
 
-- **Solo los miembros completos pueden descalificar beatmaps, independientemente del motivo.** Sin embargo, los miembros en periodo de prueba pueden participar en estas discusiones y reportar beatmaps como todos los demás.
+- **Solo los miembros completos pueden descalificar beatmaps, independientemente del motivo.** Sin embargo, los miembros provisionales pueden participar en dichas discusiones y reportar beatmaps como cualquier otro miembro.
 - **Las descalificaciones deben hacerse principalmente para los beatmaps con problemas no clasificables, o si el propietario del beatmap lo solicita.**
 - **Las solicitudes de descalificación por parte del propietario del beatmap pueden aplicarse inmediatamente.** Esto te incluye a ti mismo, en caso de que quieras descalificar tu mapa.
 - **Los problemas que puedan solucionarse mediante compensaciones en línea, etiquetas o similares, deben descalificarse igualmente.** En caso de que esto no sea posible, ponte en contacto con un miembro del NAT. Las compensaciones y etiquetas en línea solo se aplican al sitio web, por lo que los jugadores seguirán teniendo los problemas en el cliente, a menos que se solucionen antes de la clasificación.
@@ -71,8 +66,9 @@ Consulta la página de [veto de los beatmaps](/wiki/People/Beatmap_Nominators/Be
 - **No vetes beatmaps de los modos de juego para los que no estás debidamente autorizado.** No puedes nominarlos, por lo que bloquear una nominación sin la posibilidad de volver a nominar el beatmap no tiene sentido. Esto no se aplica a los vetos relativos al audio, los fondos u otro contenido que no esté directamente relacionado con el modo de juego del beatmap.
 - **Puedes vetar un beatmap publicando los problemas que crees que deben solucionarse antes de alcanzar el estado clasificado en forma de problemas o sugerencias en la sección correspondiente de la discusión de modding** Esto impedirá que el beatmap avance hacia la clasificación. Un beatmap calificado puede ser vetado usando una sugerencia con el fin de mantener el mapa calificado durante la discusión. La publicación del veto debe incluir un problema y un razonamiento claro para detener el proceso de clasificación del beatmap. Debes participar en la discusión resultante e intentar llegar a un acuerdo mutuo.
 - **No vetes mapas no clasificables.** Los mapas no clasificables implican que ningún otro nominador debe nominarlo y que el mapper no tiene más remedio que arreglarlo, del mismo modo que funciona un veto mantenido.
-- **No nomines beatmaps vetados.** El veto de un beatmap debe ser retirado antes de su renominación, lo cual puede ocurrir si el nominador del veto decide retirarlo tras una discusión satisfactoria o cambios apropiados en el beatmap, o si el mapper o el nominador del veto solicitan una mediación y el jurado decide que el veto es innecesario o inválido.
+- **No nomines beatmaps vetados.** El veto de un beatmap debe ser retirado antes de su renominación, lo cual puede ocurrir si el nominador del veto decide retirarlo tras una discusión satisfactoria o cambios apropiados en el beatmap, o si el mapper o el nominador del veto solicitan una mediación y el jurado[^new-jury] decide que el veto es innecesario o inválido.
 
 ## Notas
 
 [^multi-key-mode]: Los beatmaps con varios modos de teclas cuentan como 2 nominaciones para fines de actividad.
+[^new-jury]: «El jurado» se refiere a los miembros de los BN y del NAT del modo de juego correspondiente, o a todos los miembros de los BN y del NAT si el veto no es específico de un modo de juego.
