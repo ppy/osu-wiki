@@ -24,7 +24,7 @@ Speaking of mortifying, we recently discovered a well, which at night emanates e
 
 How mysterious. But also convenient! Feel free to pick any of these ideas as inspiration and start drawing. If none of them sounded impressive, then you too must have discovered a wellspring of ideas already.
 
-While this is already mentioned in the rules below, we feel it's important to remind you that **all entries MUST be suitable for all-ages viewing.** The void beckons, yet we wouldn't want anyone to fall in too deep. The silly and spooky kinds of horror are par for the course, but go easy on gore and and genuine scares.
+Now, be careful while looking down the idea well. The void beckons, yet we wouldn't want anyone to fall in too deep. The silly and spooky kinds of horror are par for the course, but please go easy on gore and genuine scares. **Remember to read the [rules](#rules)!**
 
 ## Rewards
 
