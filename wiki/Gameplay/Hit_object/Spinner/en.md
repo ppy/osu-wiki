@@ -40,7 +40,7 @@ Beatmaps will often use spinners on long held sounds, such as wind-ups, or durin
 
 Spinners too short to achieve bonus score are called `Ninja Spinners`. [Ninja Spinners](/wiki/) are only permitted by the [osu! ranking criteria](/wiki/Ranking_criteria/osu!) to be used on [Expert](/wiki/Ranking_criteria/osu!#expert) difficulties, due to their sudden nature.
 
-![](/wiki/Gameplay/Hit_object/Spinner/img/ninja-spinner.gif "A player clearing a Ninja Spinner on [DragonForce - Cry for Eternity](https://osu.ppy.sh/beatmapsets/27448#osu/92051)")
+![](/wiki/Gameplay/Hit_object/Spinner/img/ninja-spinner.gif "Auto clearing a Ninja Spinner on [DragonForce - Reasons to Live](https://osu.ppy.sh/beatmapsets/2360040#osu/5086190)")
 
 ## Skinning
 
