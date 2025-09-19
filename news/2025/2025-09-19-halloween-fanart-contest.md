@@ -56,7 +56,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 With all that said, it's lock-in time! Whenever you're ready, head over to the [Halloween 2025 Fanart Contest listing](https://osu.ppy.sh/community/contests/260) and drag-&-drop your entry into the box with the plus sign in it.
 
-You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **20 days** to do so before the doors close off forever (10 October 2025, 18:00 UTC), so don't brood over how many bats to sketch for too long!
+You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **20 days** to do so before the doors close off forever (9 October 2025, 18:00 UTC), so don't brood over how many bats to sketch for too long!
 
 Oh, one more thing: if you're looking to showcase your work among the social media crowd, make sure to tag your posts with `#osufanart` for the world to see!
 
