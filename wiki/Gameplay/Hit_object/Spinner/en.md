@@ -60,7 +60,7 @@ The new spinner style features three stacked images: glow, bottom and top. Each 
 
 The player is rewarded with `100` score for every full revolution spun around a spinner. <!-- TODO: verify --> After clearing the spinner, every full revolution thereafter rewards `1000` additional score, referred to as `Bonus Score`. The player still receives the `100` score for every revolution, even after a spinner's clearing, totalling `1100` score.
 
-In order to complete a spinner, the game calculates the required `180` degrees rotations based on the beatmap's [OD](/wiki/Beatmap/Overall_difficulty) and the spinner's length. The rotationrequirement is calculated as follows:
+In order to complete a spinner, the game calculates the required `180` degrees rotations based on the beatmap's [OD](/wiki/Beatmap/Overall_difficulty) and the spinner's length. The `rotationRequirement` is calculated as follows:
 
 ```
 rotationRequirement = floor( SpinnerLength / 1000 * ( OD <= 5: (  OD * 0.4 + 3 )
