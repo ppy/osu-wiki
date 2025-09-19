@@ -4,7 +4,7 @@ title: Halloween 2025 Fanart Contest
 date: 2025-09-19 19:30:00 +0000
 ---
 
-After our little Autumn detour last year, it's about time we rejuvenate our eternal tradition of celebrating spooky month with pippi and co.!
+After our little autumn detour last year, it's about time we rejuvenate our eternal tradition of celebrating spooky month with pippi and co.!
 
 ![](https://assets.ppy.sh/contests/260/banner.jpg)
 
