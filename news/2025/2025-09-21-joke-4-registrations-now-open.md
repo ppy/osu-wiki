@@ -12,7 +12,7 @@ Only one button required?! That's right, the largest 1-key competition is back a
 
 ## Is this a JOKE?
 
-[Jaye's One Key Event](/wiki/Tournaments/JOKE) is a community for low-key osu!mania (1K–3K) players and mappers, spearheaded by [Jaye](https://osu.ppy.sh/users/4841352) and cohosted by [Sparxe](https://osu.ppy.sh/users/5750235) and [Sydosys](https://osu.ppy.sh/users/17523947). Over the years we've seen many goofy and hype moments, a few of which we'd love to share with you here. Across 1v1 tournaments, country-based team tournaments, dan courses and even an ARG, the JOKE series has a long history!
+[Jaye's One Key Event](/wiki/Tournaments/JOKE) is a community for low-key osu!mania (1K–3K) players and mappers, spearheaded by [Jaye](https://osu.ppy.sh/users/4841352) and cohosted by [Sparxe](https://osu.ppy.sh/users/5750235) and [Sydosys](https://osu.ppy.sh/users/17523947). Across 1v1 tournaments, country-based team tournaments, dan courses and even an ARG, the JOKE series has seen many goofy and hype moments, and this year will prove to be no different!
 
 ## What to expect
 
