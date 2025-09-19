@@ -28,7 +28,7 @@ Upon clearing a spinner, indicated by the `spinner-clear` skin element, the play
 
 There is a maximum number of spins per minute: capped at `477`. This is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins. The [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins for the player at `287` spins per minute
 
-![](/wiki/Gameplay/Hit_object/Spinner/img/lazer-spinner.jpeg "A spinner at the beginning of [Dada](https://osu.ppy.sh/users/9119507)'s beatmap for [-45 - NyanNyathotep](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)")
+![](/wiki/Gameplay/Hit_object/Spinner/img/lazer-spinner.jpg "A spinner at the beginning of [Dada](https://osu.ppy.sh/users/9119507)'s beatmap for [-45 - NyanNyathotep](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)")
 
 ## Gameplay
 
@@ -51,8 +51,7 @@ osu! features two spinner styles, new and old. Using the old style, a `spinner-m
 ![](/wiki/Gameplay/Hit_object/Spinner/img/old-spinner.jpg "Spinner on [haruka_latias](https://osu.ppy.sh/users/568211)' map for [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/36323#osu/117379)")
 
 The new spinner style features three stacked images: glow, bottom and top. Each of them spin at different speeds as the player spins and the glow flashes as the player accumulates bonus points.
-
-<!-- TODO: Add an image -->
+osu!Stable's Default Skin uses this spinner style.
 
 ## Scoring
 
