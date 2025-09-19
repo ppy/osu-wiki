@@ -27,7 +27,9 @@ The voting is tallied using a simple cascading system as described below:
 
 Once a result has been achieved, the outcome is **final** and cannot be contested by any means save for intervention from the [support team](/wiki/People/Account_support_team).
 
-### Example 1
+### Examples
+
+#### Example 1
 
 Ultralazer420 finds a background for their new beatmap that they wants to use, but is unsure if it is allowed. Following the process above, they put it up for a vote.
 
@@ -41,7 +43,7 @@ After factoring in the BN votes with the GMT and NAT votes, 67% of the voters ag
 
 As this does not reach the 70% threshold required for the image to pass, the image is considered unacceptable and Ultralazer420 is asked to find another one to use instead.
 
-### Example 2
+#### Example 2
 
 A user reports a Qualified beatmap made by StableStreamer because they believe its background is inappropriate. They report it as described above.
 
