@@ -226,6 +226,6 @@ Honestly, it doesn't really sink in while I'm making it or right after I submit 
 
 ---
 
-So many questions, and only one way to find out the answer. Make sure to tune in to the Finals weekend on the [osulive](https://www.twitch.tv/osulive) livestream for the next chapter of the osu!mania World Cup! Want to see all the stats for yourself, then be sure to go to our [wiki](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2025_4k). We hope to see you in the chat, and enjoy the Finals weekend!
+So many questions, and only one way to find out the answer. Make sure to tune in to the Finals weekend on the [osulive](https://www.twitch.tv/osulive) livestream for the next chapter of the osu!mania World Cup! Want to see all the stats for yourself, then be sure to go to our [wiki](/wiki/Tournaments/MWC/2025_4k). We hope to see you in the chat, and enjoy the Finals weekend!
 
 —elexire, kadoen, \[GB\]yobrevelc, Sakura006, Albionthegreat, RandomeLoL
