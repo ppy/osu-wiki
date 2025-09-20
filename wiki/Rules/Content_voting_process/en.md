@@ -57,4 +57,4 @@ The discussion on the beatmap is resolved, and StableStreamer is told their beat
 
 ## Notes
 
-[^beatmap-nominators]: [Beatmap Nominators](/wiki/People/Beatmap_Nominators) who submit content for voting will skip the review process and start a new vote immediately.
+[^beatmap-nominators]: [Beatmap Nominators](/wiki/People/Beatmap_Nominators) who submit content for voting may skip the review process and start a new vote immediately.
