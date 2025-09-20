@@ -47,7 +47,7 @@ As this does not reach the 70% threshold required for the image to pass, the ima
 
 A user reports a Qualified beatmap made by StableStreamer because they believe its background is inappropriate. They report it as described above.
 
-The report is deemed valid by an NAT member. A member of the GMT disqualifies the map, and the voting process starts.
+The report is reviewed by the GMT and NAT. After reaching a mixed consensus, the content is sent through the voting process and a suggestion is posted in the beatmap's discussion to block the map from being ranked.
 
 After 7 days, the vote concludes. 71% of the GMT and NAT agree that the image is acceptable. 29% do not.
 
