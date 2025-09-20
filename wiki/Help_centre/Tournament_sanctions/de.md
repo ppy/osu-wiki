@@ -72,6 +72,19 @@ Eine Aushilfssperre verhindert es einem Nutzer, in offiziellen oder offiziell un
 
 Ein Veranstaltungsverbot verhindert es einem Nutzer, ein Hauptorganisator oder Administrator in einer offiziell unterstützten Turnier zu sein. Betroffene Nutzer dürfen aber in offiziell unterstützte Turniere aushelfen, wenn diese Aushilfe kein Bezug auf Organisation hat.
 
-Das Turnierkomitee behält sich das Recht vor, direkt Veranstaltungsverbote statt ["Hosting probations"] zu verhängen in Fällen von grobe Verletzungen der [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support), insbesondere dann, wenn die Wettbewerbsintegrität der Turnier gefährdet wurde.
+Das Turnierkomitee behält sich das Recht vor, direkt Veranstaltungsverbote zu verhängen anstatt eine [Veranstalter auf Probe zu setzen](#aufprobesetzung-von-veranstaltern) in Fällen von gröbliche Verletzungen der [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support), insbesondere dann, wenn die Wettbewerbsintegrität der Turnier gefährdet wurde.
 
-## [TODO: Wie übersetzt man "Hosting probations"?]
+## Aufprobesetzung von Veranstaltern
+
+Veranstalter werden auf Probe gesetzt, wenn sie die [offizielle Unterstützungsregeln](/wiki/Tournaments/Official_support) in eine Weise verletzen, dass nicht nach der Turnier korrigiert werden kann. Wenn eine Nutzer auf Probe gesetzt wird, wird die nächste Turnier dieser Nutzer während und nach ihrer Ablauf durch das Turnierkomitee gründlich kontrolliert. Kleine Fehler, die sonst durch Kontaktaufnahme mit der Veranstalter gelöst würden, werden stattdessen die Probezustand verlängern. Erhebliche Verletzungen der offiziellen Unterstützungsregeln durch eine Veranstalter auf Probe werden nach Ermessen des Turnierkomitees zu eine [Veranstaltungsverbot](#veranstaltungsverbote) oder schwerwiegender Strafen führen.
+
+Die Probezustand einer Veranstalter kann aufgehoben werden, indem dieser eine Turnier mit **keine** Verletzungen der [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support) organisiert. Dies beinhaltet auch kleine Probleme, die eine Email an der Veranstalter benötigen, um korrigiert zu werden. Beispiele derartige Fehler inkludieren:
+
+- Fehlende Aushelfer auf die Liste im Forumbeitrag
+- Nichtveröffentlichung von Ergebnisse der Qualifikationsrunde
+- Nichtaktualisierung von öffentliche Listen von Matchergebnisse
+- Sonstige ähnliche einfache Probleme
+
+Veranstalter, deren Turniere ständig kleine Fehler haben, die vom Turnierkomitee berichtigt werden müssen durch Emailkontakte, bleiben auf unbestimmter Zeit auf Probe. Gegen Veranstalter, die sich gar nicht bemühen, ihre Turniere zu verbessern, können härtere Strafen nach Ermessen des Komitees verhängt werden. Die Probe einer Veranstalter lauft nicht automatisch ab.
+
+Wenn eine Nutzer eine schwerwiegendere Sanktion (wie eine Veranstaltungsverbot) bekommt, wird die Probe dieser Nutzer aufgehoben, wenn die Sanktion beendet wird.
