@@ -1,14 +1,16 @@
-# Turniersperren
+# Turniersanktionen
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
 
-Eine Turniersperre verbietet es einem Spieler an offiziellen oder offiziell unterstützten Turnieren teilzunehmen. Inwieweit ein Spieler bei der Turnierorganisation mithelfen oder sich anderweitig bei diesen Turnieren einbringen kann, wird dadurch ebenfalls eingeschränkt.
+## Turniersperren
+
+Eine Turniersperre verbietet es einem Spieler, an offiziellen oder offiziell unterstützten Turnieren teilzunehmen. Inwieweit ein Spieler bei der Turnierorganisation mithelfen oder sich anderweitig bei diesen Turnieren einbringen kann, wird dadurch ebenfalls eingeschränkt.
 
 Turniersperren werden sehr selten alleine ausgehändigt, aber in der Regel unterliegen alle Spieler, die im Rahmen einer Standardbeschwerde für eine [Einschränkung des Accounts](/wiki/Help_centre/Account_restrictions) zurückkehren, einer Sperre von mindestens einem Jahr.
 
 Durch die hohen Anforderungen bei Turnierspielen werden Turniersperren sehr ernst genommen und sind nicht Teil der Art von Nachsicht, die eine Accounteinschränkung üblicherweise erhält.
 
-## Was führt dazu, dass jemand eine zeitlich begrenzte Turniersperre erhält? {id=why-temporary}
+### Was führt dazu, dass jemand eine zeitlich begrenzte Turniersperre erhält? {id=why-temporary}
 
 Jede schwerwiegende Missachtung der [Community-Regeln](/wiki/Rules), die während eines [offiziell unterstützten Turniers](/wiki/Tournaments/Official_support) stattfindet, führt wahrscheinlich zu einer Turniersperre, auch wenn es nur zu eine minder schwerwiegende Strafe außerhalb der kompetitiven Spielumgebung geführt hätte.
 
@@ -16,7 +18,7 @@ Solches Verhalten beinhaltet als Beispiel aus der Praxis das Zeichnen von Hasssy
 
 Alle Nutzer, die nach einer Einschränkung im Rahmen der üblichen Beschwerdebedingungen zum Spiel zurückkehren, unterliegen auch [der temporären Turniersperre mit einer Mindestdauer von 1 Jahr](/wiki/Help_centre/Account_restrictions#reasons). Das [Account-Support-Team](/wiki/People/Account_support_team) behält sich das Recht vor, Turniersperren in eigenem Ermessen zu verlängern.
 
-## Was führt dazu, dass jemand eine unbefristete Turniersperre erhält? {id=why-permanent}
+### Was führt dazu, dass jemand eine unbefristete Turniersperre erhält? {id=why-permanent}
 
 Jegliche Verwendung von Drittanbieter-Tools zum Schummeln oder andere Methoden, um einen unfairen Vorteil gegenüber anderen Teilnehmern in einem offiziell unterstützten Turnier zu erhalten, wird zu einer unbefristeten Turniersperre führen. In einigen Situationen können nach dem Ermessen des Support-Teams auch vor allem besonders schwere Fälle von Missbrauch eine solche Strafe auslösen.
 
@@ -30,7 +32,7 @@ Das beinhaltet Situationen wie:
 - das Missbrauchen einer Vertrauensstellung, um einen Vorteil zu erhalten (Zeitpläne manipulieren, die Zusammensetzung der Teams unfair verändern oder Teilnehmer ohne Grund und Veranlassung disqualifizieren)
 - das Organisieren gezielter Missbrauchskampagnen gegen Teilnehmer oder Veranstalter weit außerhalb des Bereichs der Kritik
 
-## Kann ich gegen eine Turniersperre eine Beschwerde einreichen? {id=appeal}
+### Kann ich gegen eine Turniersperre eine Beschwerde einreichen? {id=appeal}
 
 Gegen vorübergehende Turniersperren, die über die üblichen Beschwerdebedingungen oder aus anderen Gründen verhängt werden, können keine Beschwerden eingereicht werden.
 
@@ -40,7 +42,7 @@ Obwohl es wie oben beschrieben möglich ist, unbefristete Turniersperren anzufec
 
 In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_support_team) einzelne Fälle nach ihrem Ermessen bewerten und entsprechende Strafen entfernen oder erneut anwenden, um sicherzustellen, dass sie mit ähnlichen Fällen in der Vergangenheit übereinstimmen.
 
-## Was kann ich tun, während ich von Turnieren gesperrt bin? {id=while-banned}
+### Was kann ich tun, während ich von Turnieren gesperrt bin? {id=while-banned}
 
 Du darfst weiter in Turnieren von der Community spielen, die keine offizielle Unterstützung anfordern oder eine Überprüfung benötigen, was im Ermessen der Veranstalter dieser Events liegt.
 
@@ -48,7 +50,7 @@ Du darfst möglicherweise nach Ermessen des Turnierleiters noch bei offiziell un
 
 Informationen über den Status deiner Turniersperre können Turnierveranstaltern auf Anfrage bereitgestellt werden, unabhängig davon, ob sie von der offiziellen Unterstützung profitieren oder nicht.
 
-## Häufige Gründe für Turniersperren und Zeiträume {id=reasons}
+### Häufige Gründe für Turniersperren und Zeiträume {id=reasons}
 
 | Grund der Turniersperre | Zeitraum | Bemerkungen |
 | :-- | :-- | :-- |
@@ -61,3 +63,15 @@ Informationen über den Status deiner Turniersperre können Turnierveranstaltern
 | Benutzung von Drittanbieter-Tools oder andere Methoden zum Schummeln während eines offiziell unterstützten Turniers | Unbefristet | Wird auch zu einer Einschränkung führen |
 | Verwendung privater/vertraulicher Informationen zum Turnier, um einen unfairen Vorteil zu erlangen | Unbefristet | Kann auch zu einer Einschränkung führen |
 | Schwerwiegender Missbrauch gegenüber oder Belästigung von Turnierveranstaltern/-teilnehmern | Unbefristet | Kann auch zu einer Einschränkung führen |
+
+## Aushilfssperren
+
+Eine Aushilfssperre verhindert es einem Nutzer, in offiziellen oder offiziell unterstützen Turnieren mitzuhelfen. Ausgenommen hiervon sind Streaming, Kommentierung und Grafikdesign.
+
+## Veranstaltungsverbote
+
+Ein Veranstaltungsverbot verhindert es einem Nutzer, ein Hauptorganisator oder Administrator in einer offiziell unterstützten Turnier zu sein. Betroffene Nutzer dürfen aber in offiziell unterstützte Turniere aushelfen, wenn diese Aushilfe kein Bezug auf Organisation hat.
+
+Das Turnierkomitee behält sich das Recht vor, direkt Veranstaltungsverbote statt ["Hosting probations"] zu verhängen in Fällen von grobe Verletzungen der [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support), insbesondere dann, wenn die Wettbewerbsintegrität der Turnier gefährdet wurde.
+
+## [TODO: Wie übersetzt man "Hosting probations"?]
