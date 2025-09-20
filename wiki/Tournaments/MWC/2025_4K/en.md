@@ -110,23 +110,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Match schedule: Finals
 
-### Saturday, 20 September 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=KR }:: South Korea | [Sep 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T120000&p1=1440&p2=136&p3=235) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Sep 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T150000&p1=1440&p2=33&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=TH }:: Thailand | [Sep 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T160000&p1=1440&p2=232&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 21 September 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T020000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T110000&p1=1440&p2=28&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=GB }:: United Kingdom | [Sep 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T140000&p1=1440&p2=28&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Sep 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T150000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Grand Finals | mappool showcase | [Sep 21 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Thailand ::{ flag=TH }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T110000&p1=1440&p2=28&p3=235) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Grand Finals | mappool showcase | [Sep 21 (Sun) 23:59 UTC)](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T235959&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
@@ -267,6 +256,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 7. [Creepy Nuts - Otonoke (Disguise, -mint-) \[Stage 7: Supernatural\]](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642)
 
 ## Match results
+
+### Finals
+
+Saturday, 20 September 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| United Kingdom ::{ flag=GB }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119326552) | [#1](https://www.twitch.tv/videos/2571139095?t=0h4m54s) |
+| China ::{ flag=CN }:: | 6 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/119328425) | [#1](https://www.twitch.tv/videos/2571250429?t=0h0m19s) |
+| Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119329381) | [#1](https://www.twitch.tv/videos/2571250429?t=1h31m38s) |
 
 ### Semifinals
 
@@ -579,7 +578,5 @@ The weights for the Qualifiers are as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
