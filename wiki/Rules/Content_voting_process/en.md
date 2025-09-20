@@ -53,7 +53,7 @@ After 7 days, the vote concludes. 71% of the GMT and NAT agree that the image is
 
 Since at least 70% of the GMT and NAT agreed that the image is acceptable, the BN votes are not factored in.
 
-The discussion on the beatmap is resolved, and StableStreamer is told their beatmap may be requalified without changes.
+The discussion on the beatmap is resolved, and StableStreamer is told their beatmap may be ranked without changes.
 
 ## Notes
 
