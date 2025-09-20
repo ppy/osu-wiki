@@ -110,30 +110,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Match schedule: Finals
 
-### Saturday, 20 September 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=KR }:: South Korea | [Sep 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T120000&p1=1440&p2=136&p3=235) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Sep 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T150000&p1=1440&p2=33&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=TH }:: Thailand | [Sep 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250920T160000&p1=1440&p2=232&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 21 September 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T020000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T110000&p1=1440&p2=28&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=GB }:: United Kingdom | [Sep 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T140000&p1=1440&p2=28&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=GB }:: United Kingdom | [Sep 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T150000&p1=1440&p2=232&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Grand Finals | mappool showcase | [Sep 21 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Thailand ::{ flag=TH }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T110000&p1=1440&p2=28&p3=235) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Grand Finals | mappool showcase | [Sep 21 (Sun) 23:59 UTC)](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T235959&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
 ### Finals
 
 **[Download the mappack here (199 MB)](https://packs.ppy.sh/P299%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Finals.zip?1757885492)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2566567698?t=0h4m31s)
+[View the showcase VOD here](https://www.youtube.com/watch?v=WeN4jULAyLY&t=24823)
 
 - Rice
   1. [black midi - Sugar/Tzu (Pope Gadget) \[1.05\]](https://osu.ppy.sh/beatmapsets/2435325#mania/5308399)
@@ -268,6 +257,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Match results
 
+### Finals
+
+Saturday, 20 September 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| United Kingdom ::{ flag=GB }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119326552) | [#1](https://www.twitch.tv/videos/2571139095?t=0h4m54s) |
+| China ::{ flag=CN }:: | 6 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/119328425) | [#1](https://www.twitch.tv/videos/2571250429?t=0h0m19s) |
+| Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119329381) | [#1](https://www.twitch.tv/videos/2571250429?t=1h31m38s) |
+
 ### Semifinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1cQ0p9fXhA_G65U6eo1HXJ41Ozl1X0OG1aFBAv48eI3c?rm=minimal).
@@ -276,19 +275,19 @@ Saturday, 13 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Vietnam ::{ flag=VN }:: | 1 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/119256709) | [#1](https://www.twitch.tv/videos/2565300365?t=0h4m47s) |
-| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/119257911) | [#1](https://www.twitch.tv/videos/2565374671?t=0h8m58s) |
-| **Hong Kong** ::{ flag=HK }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/119258278) | [#1](https://www.twitch.tv/videos/2565374671?t=0h54m55s) |
-| Canada ::{ flag=CA }:: | 3 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119259424) | [#1](https://www.twitch.tv/videos/2565463262?t=0h7m23s) |
-| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119263739) | [#1](https://www.twitch.tv/videos/2565741757?t=0h4m27s) |
+| Vietnam ::{ flag=VN }:: | 1 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/119256709) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=10746) |
+| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/119257911) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=4680) |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/119258278) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=7331) |
+| Canada ::{ flag=CA }:: | 3 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119259424) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=443) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119263739) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=8078) |
 
 Sunday, 14 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119268578) | [#1](https://www.twitch.tv/videos/2566167045?t=0h4m45s) |
-| Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119269989) | [#1](https://www.twitch.tv/videos/2566249520?t=0h6m24s) |
-| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/119270323) | [#1](https://www.twitch.tv/videos/2566249520?t=0h54m35s) |
+| **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119268578) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=21154) |
+| Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119269989) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=14365) |
+| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/119270323) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=17259) |
 
 ### Quarterfinals
 
@@ -579,7 +578,5 @@ The weights for the Qualifiers are as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
