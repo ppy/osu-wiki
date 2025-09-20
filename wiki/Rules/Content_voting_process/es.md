@@ -4,6 +4,8 @@ tags:
   - voto
   - votar
   - votación
+outdated_translation: true
+outdated_since: a87683449e16d8398996d80d338f1d839cb368c4
 ---
 
 # Proceso de votación de contenido
