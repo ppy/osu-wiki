@@ -12,8 +12,8 @@ Content submitted to the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (
 ## Process
 
 1. A mapper, modder, or concerned member of the community raises any visual element in a beatmap for review under the [Visual Content Considerations](/wiki/Rules/Visual_content_considerations) by reporting it via the [BN website](https://bn.mappersguild.com/reports).
-2. The report is assessed by the NAT, and for all but the most obvious situations, a new "content case" is made live and available for voting as soon as possible. All members of the BN, GMT, and NAT are eligible to vote.
-3. While the vote is active, any map containing said visual element cannot be nominated or qualified. If the map is qualified, it is temporarily disqualified while the discussion continues.
+2. The report is then assessed by the NAT and GMT[^beatmap-nominators]. For all but the most obvious situations, a new "content case" is made live and available for voting as soon as possible. All members of the BN, GMT, and NAT are eligible to vote.
+3. While the vote is active, any map containing said visual element cannot be nominated or qualified. If the map is qualified, a suggestion will be posted on the modding discussion, halting the map from being ranked until voting ends.
 4. The vote concludes after a period of 3 days without any new votes, or 7 days since the vote began, whichever comes first.
 
 ## Outcome
@@ -31,7 +31,7 @@ Once a result has been achieved, the outcome is **final** and cannot be conteste
 
 #### Example 1
 
-Ultralazer420 finds a background for their new beatmap that they wants to use, but is unsure if it is allowed. Following the process above, they put it up for a vote.
+Ultralazer420 finds a background for their new beatmap that they want to use, but is unsure if it is allowed. Following the process above, they put it up for a vote.
 
 After 3 days, the vote has concluded, and the results come back.
 
@@ -47,10 +47,14 @@ As this does not reach the 70% threshold required for the image to pass, the ima
 
 A user reports a Qualified beatmap made by StableStreamer because they believe its background is inappropriate. They report it as described above.
 
-The report is deemed valid by an NAT member. A member of the GMT disqualifies the map, and the voting process starts.
+The report is reviewed by the GMT and NAT. After reaching a mixed consensus, the content is sent through the voting process and a suggestion is posted in the beatmap's discussion to block the map from being ranked.
 
 After 7 days, the vote concludes. 71% of the GMT and NAT agree that the image is acceptable. 29% do not.
 
 Since at least 70% of the GMT and NAT agreed that the image is acceptable, the BN votes are not factored in.
 
-The discussion on the beatmap is resolved, and StableStreamer is told their beatmap may be requalified without changes.
+The discussion on the beatmap is resolved, and StableStreamer is told their beatmap may be ranked without changes.
+
+## Notes
+
+[^beatmap-nominators]: [Beatmap Nominators](/wiki/People/Beatmap_Nominators) who submit content for voting may skip the review process and start a new vote immediately.
