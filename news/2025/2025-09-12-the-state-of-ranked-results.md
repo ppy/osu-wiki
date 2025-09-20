@@ -19,9 +19,9 @@ But first, let's put engagement into numbers. Here's a list with all (verified) 
 
 ## Results
 
-The following graphs were made using the raw data obtained from the form responses. While we tried highlighting the most interesting trends throughout each question's answers, it is virtually impossible to cram all numbers into a single news post. Therefore, if anyone is curious enough and wants to dive deeper into the data, you can find the raw results in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1IXMc1dAPGXwtKJ__iInjy1dg6cW0nq243AojDmIIeUM).
+The following graphs were made using the raw data obtained from the form responses. While we tried highlighting the most interesting trends throughout each question's answers, it is virtually impossible to cram all numbers into a single news post. Therefore, if anyone is curious enough and wants to dive deeper into the data, you can find the raw results in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1ImI8ErcmQLWFN2RcDRSZOcIIu4s696bJMX5LD2kh9wY/view?rm=minimal).
 
-***Disclaimer:** For the purposes of this post, when making reference to a percentage, it is making explicit reference to osu!'s results. Therefore, any comparisons made between the other modes will be relative, whereas osu!'s data will be absolute.*
+***Disclaimer:** For the purposes of this post, when making reference to a percentage in a pie chart, it is making explicit reference to osu!'s results. Therefore, any comparisons made between the other modes will be relative, whereas osu!'s data will be absolute.*
 
 With that out of the way, let's take a deep dive into the results' highlights!
 
@@ -229,7 +229,7 @@ To say that this data is valuable to us would be an understatement. Being able t
 
 For one, it lets us know what the community is most interested in, and between those groups who are usually the most vocal towards certain changes. Most importantly, it unfortunately also means that satisfying everyone's needs is out of the question. As such, we need to act with the utmost care and consideration when pushing new ideas forward.
 
-We do hope that with these results being public, users get to understand the vast amount of different — and sometimes equal in weight — opinions this game has to offer. We also want to encourage users to draw their own conclusions from the [results](https://docs.google.com/spreadsheets/d/1IXMc1dAPGXwtKJ__iInjy1dg6cW0nq243AojDmIIeUM)!
+We do hope that with these results being public, users get to understand the vast amount of different — and sometimes equal in weight — opinions this game has to offer. We also want to encourage users to draw their own conclusions from the [results](https://docs.google.com/spreadsheets/d/1ImI8ErcmQLWFN2RcDRSZOcIIu4s696bJMX5LD2kh9wY/view?rm=minimal)!
 
 Most importantly, we want to make clear that these results are **not binding**. While they will help us steer the ship towards more widely accepted changes, this does not mean that the team will only care about the majority of users while leaving the rest of the community stranded.
 
