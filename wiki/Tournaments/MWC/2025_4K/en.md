@@ -122,7 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 ### Finals
 
 **[Download the mappack here (199 MB)](https://packs.ppy.sh/P299%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Finals.zip?1757885492)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2566567698?t=0h4m31s)
+[View the showcase VOD here](https://www.youtube.com/watch?v=WeN4jULAyLY&t=24823)
 
 - Rice
   1. [black midi - Sugar/Tzu (Pope Gadget) \[1.05\]](https://osu.ppy.sh/beatmapsets/2435325#mania/5308399)
@@ -275,19 +275,19 @@ Saturday, 13 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Vietnam ::{ flag=VN }:: | 1 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/119256709) | [#1](https://www.twitch.tv/videos/2565300365?t=0h4m47s) |
-| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/119257911) | [#1](https://www.twitch.tv/videos/2565374671?t=0h8m58s) |
-| **Hong Kong** ::{ flag=HK }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/119258278) | [#1](https://www.twitch.tv/videos/2565374671?t=0h54m55s) |
-| Canada ::{ flag=CA }:: | 3 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119259424) | [#1](https://www.twitch.tv/videos/2565463262?t=0h7m23s) |
-| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119263739) | [#1](https://www.twitch.tv/videos/2565741757?t=0h4m27s) |
+| Vietnam ::{ flag=VN }:: | 1 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/119256709) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=10746) |
+| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/119257911) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=4680) |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/119258278) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=7331) |
+| Canada ::{ flag=CA }:: | 3 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119259424) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=443) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119263739) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=8078) |
 
 Sunday, 14 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119268578) | [#1](https://www.twitch.tv/videos/2566167045?t=0h4m45s) |
-| Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119269989) | [#1](https://www.twitch.tv/videos/2566249520?t=0h6m24s) |
-| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/119270323) | [#1](https://www.twitch.tv/videos/2566249520?t=0h54m35s) |
+| **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119268578) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=21154) |
+| Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119269989) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=14365) |
+| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/119270323) | [#1](https://www.youtube.com/watch?v=WeN4jULAyLY&t=17259) |
 
 ### Quarterfinals
 
