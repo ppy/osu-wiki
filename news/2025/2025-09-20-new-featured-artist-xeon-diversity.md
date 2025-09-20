@@ -24,19 +24,19 @@ Wandering around [COE 2025](/wiki/Community/cavoe's_osu!_event) sheds light on h
     </video>
 </div>
 
-### [Xeon Diveristy - Kanade (feat. Mariela Riona)](https://assets.ppy.sh/artists/499/Cursed%20of%20the%20Origin%20EP/Xeon%20Diversity%20-%20Kanade%20(feat.%20Mariela%20Riona).osz)
+### [Xeon Diversity - Kanade (feat. Mariela Riona)](https://assets.ppy.sh/artists/499/Cursed%20of%20the%20Origin%20EP/Xeon%20Diversity%20-%20Kanade%20(feat.%20Mariela%20Riona).osz)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/499/Cursed%20of%20the%20Origin%20EP/Xeon%20Diversity%20-%20Kanade%20(feat.%20Mariela%20Riona).mp3">
 </audio>
 
-### [Xeon Diveristy - Cosmic Adventure](https://assets.ppy.sh/artists/499/Songs/Xeon%20Diversity%20-%20Cosmic%20Adventure.osz)
+### [Xeon Diversity - Cosmic Adventure](https://assets.ppy.sh/artists/499/Songs/Xeon%20Diversity%20-%20Cosmic%20Adventure.osz)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/499/Songs/Xeon%20Diversity%20-%20Cosmic%20Adventure.mp3">
 </audio>
 
-### [Xeon Diveristy - For You](https://assets.ppy.sh/artists/499/Songs/Xeon%20Diversity%20-%20For%20You.osz)
+### [Xeon Diversity - For You](https://assets.ppy.sh/artists/499/Songs/Xeon%20Diversity%20-%20For%20You.osz)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/499/Songs/Xeon%20Diversity%20-%20For%20You.mp3">
