@@ -859,6 +859,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 28.10.2023 | 17.12.2023 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 04.05.2024 | 16.06.2024 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: Vereinigtes Königreich | ::{ flag=AU }:: Australien-A |
 | [One Key World Cup 2025](JOKE/1KWC_2025) | 26.04.2025 | 08.06.2025 | ::{ flag=JP }:: Japan | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=GB }:: Vereinigtes Königreich |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 25.10.2025 | 07.12.2025 | *TBD* | *TBD* | *TBD* |
 
 #### Mania Beginner's Showdown
 
