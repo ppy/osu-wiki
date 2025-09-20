@@ -31,7 +31,7 @@ Once a result has been achieved, the outcome is **final** and cannot be conteste
 
 #### Example 1
 
-Ultralazer420 finds a background for their new beatmap that they wants to use, but is unsure if it is allowed. Following the process above, they put it up for a vote.
+Ultralazer420 finds a background for their new beatmap that they want to use, but is unsure if it is allowed. Following the process above, they put it up for a vote.
 
 After 3 days, the vote has concluded, and the results come back.
 
