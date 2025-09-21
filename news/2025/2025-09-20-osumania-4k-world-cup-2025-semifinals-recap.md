@@ -87,7 +87,7 @@ Last, but certainly not least, we were given yet another tiebreaker! [Kou! - Ank
 | Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=TH }:: **Thailand** |
 | **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom |
 
-It's easy to see from the table above that only the best of the best teams are still standing. At this point in the tournament, matches are less likely to be decided by sweeping differences. And even if we've already seen quite a few close matches on prior rounds, this is soon going to be changing starting from this round onwards. Look no further than this week's [score highlights](#score-highlights)!
+While the results here seem like sweeps, many of the points in these matches were decided by incredibly close score margins, which is something we've been seeing more and more in these later tournament rounds. To appreciate those individual score differences, we've [compiled the highlights below](#score-highlights)!
 
 Before that though, we want to highlight potentially the closest match we've had during the weekend. Potentially the closest match thus far as well!
 
