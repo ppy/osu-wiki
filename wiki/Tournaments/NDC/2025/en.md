@@ -220,6 +220,19 @@ The National Dutch Championship 2025 is run by various community members.
 
 ### Quarterfinals
 
+Sunday, 21 September 2025:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Alphan ::{ flag=NL }:: | 0 | **6** | ::{ flag=NL }:: **wessel_osu2** | [#1](https://osu.ppy.sh/community/matches/119342290) |
+| **flowerfields** ::{ flag=NL }:: | **6** | 4 | ::{ flag=NL }:: PotjeNutella | [#1](https://osu.ppy.sh/community/matches/119342309) |
+| Manievat ::{ flag=NL }:: | 5 | **6** | ::{ flag=NL }:: **Tutel** | [#1](https://osu.ppy.sh/community/matches/119341626) |
+| sofuraabu ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **WeederBoss0** | [#1](https://osu.ppy.sh/community/matches/119340414) |
+| **Drerrie** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: Goose King | [#1](https://osu.ppy.sh/community/matches/119339671) |
+| **Dolter** ::{ flag=NL }:: | **6** | 4 | ::{ flag=NL }:: nik | [#1](https://osu.ppy.sh/community/matches/119339113) |
+| draconia ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **Aheo** | [#1](https://osu.ppy.sh/community/matches/119338494) |
+| **Katie Djeestar** ::{ flag=NL }:: | **6** | 5 | ::{ flag=NL }:: niqht | [#1](https://osu.ppy.sh/community/matches/119337979) |
+
 Saturday, 20 September 2025:
 
 | Player 1 |  |  | Player 2 | Match link |
