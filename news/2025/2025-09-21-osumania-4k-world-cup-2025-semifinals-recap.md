@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2025: Semifinals Recap"
-date: 2025-09-20 23:59:59 +0000
+date: 2025-09-21 04:00:00 +0000
 ---
 
 While the tournament enters its final spurt, we're steadily reaching the peak of osu!mania 4K competition. Join us, as we retell this week's epic, now with an extra side of jam!
 
-![](/wiki/shared/news/2025-09-20-osumania-4k-world-cup-2025-semifinals-recap/banner.jpg)
+![](/wiki/shared/news/2025-09-21-osumania-4k-world-cup-2025-semifinals-recap/banner.jpg)
 
 Words alone cannot describe the excitement from last week's matches. Even though we already had close calls on the previous rounds, nobody could prepare anyone for what would go down during the Semifinals. For some teams, "threading the needle" would be an understatement of titanic proportions. And without wanting to spoil anything, those who've been keeping up with this weekend's matches know this is only the beginning.
 
@@ -30,7 +30,7 @@ For those who would prefer to avoid reading **PLACEHOLDER_ADD_WORD_COUNT_HERE** 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Xk1GfYlDLhc?start=15733" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Semifinals mappool table](/wiki/shared/news/2025-09-20-osumania-4k-world-cup-2025-semifinals-recap/mappool-sf.jpg)
+![Semifinals mappool table](/wiki/shared/news/2025-09-21-osumania-4k-world-cup-2025-semifinals-recap/mappool-sf.jpg)
 
 While the Semifinals mappool may be the same size as last round, its difficulty sure isn't the same! On top of that, this round gave us a handful of [osu! originals](/wiki/Community/Bespoke_music), which is something everyone — players and spectators alike — are always looking forward to. With that said, let's get into the regular highlights for this pool.
 
@@ -40,7 +40,7 @@ Wrapping up the normal highlights, [Lime - Pixel Planet](https://osu.ppy.sh/beat
 
 ---
 
-[![](/wiki/shared/news/2025-09-20-osumania-4k-world-cup-2025-semifinals-recap/Saint_Patron.jpg)](https://osu.ppy.sh/beatmapsets/2431994#mania/5298336)
+[![](/wiki/shared/news/2025-09-21-osumania-4k-world-cup-2025-semifinals-recap/Saint_Patron.jpg)](https://osu.ppy.sh/beatmapsets/2431994#mania/5298336)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -52,7 +52,7 @@ The regular highlights have been cut rather short, as this round gave us **three
 
 ---
 
-[![](/wiki/shared/news/2025-09-20-osumania-4k-world-cup-2025-semifinals-recap/SIX_BILLION_MNSN.jpg)](https://osu.ppy.sh/beatmapsets/2432002#mania/5298351)
+[![](/wiki/shared/news/2025-09-21-osumania-4k-world-cup-2025-semifinals-recap/SIX_BILLION_MNSN.jpg)](https://osu.ppy.sh/beatmapsets/2432002#mania/5298351)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -64,7 +64,7 @@ The regular highlights have been cut rather short, as this round gave us **three
 
 ---
 
-[![](/wiki/shared/news/2025-09-20-osumania-4k-world-cup-2025-semifinals-recap/Ankh_Natron_Colider.jpg)](https://osu.ppy.sh/beatmapsets/2432016#mania/5298404)
+[![](/wiki/shared/news/2025-09-21-osumania-4k-world-cup-2025-semifinals-recap/Ankh_Natron_Colider.jpg)](https://osu.ppy.sh/beatmapsets/2432016#mania/5298404)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -166,7 +166,7 @@ Lastly, we may have the exception of exceptions. On [Camellia - Dans la mer de s
     }
 </style>
 
-![](/wiki/shared/news/2025-09-20-osumania-4k-world-cup-2025-semifinals-recap/Marmalade_butcher.png)
+![](/wiki/shared/news/2025-09-21-osumania-4k-world-cup-2025-semifinals-recap/Marmalade_butcher.png)
 
 As a bonus, we got to interview [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220), composer of *SIX BILLION MNSN* for the Semifinals LN3 slot. Their commitment to their work really shone through this World Cup, and seeing the community reaction seems to only have pumped them up!
 
