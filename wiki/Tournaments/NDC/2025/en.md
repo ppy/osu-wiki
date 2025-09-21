@@ -144,7 +144,7 @@ The National Dutch Championship 2025 is run by various community members.
 - Double Time
   1. [My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na) (SupaV) [Expert]](https://osu.ppy.sh/beatmapsets/2380996#osu/5150032)
   2. [Ito Kanako - GAME OVER (Deca) [COLLAB;INSANE]](https://osu.ppy.sh/beatmapsets/2039590#osu/4254424)
-  3. [Jun Ishikawa - Sky High (_LRJ_) [Sky]](https://osu.ppy.sh/beatmapsets/19880#osu/69666)
+  3. [Jun Ishikawa - Sky High (\_LRJ\_) [Sky]](https://osu.ppy.sh/beatmapsets/19880#osu/69666)
   4. [Thalia - Arrasando (Krisom) [Alocado]](https://osu.ppy.sh/beatmapsets/1930803#osu/3996270)
 - Tiebreaker
   1. **[Kushper - osu!chimera (OldEclipse) [Amalgamation]](https://osu.ppy.sh/beatmapsets/1364723#osu/2823255)**
@@ -177,7 +177,7 @@ The National Dutch Championship 2025 is run by various community members.
 **[Download the mappack here!](https://tourney.huismetbenen.nl/31/mappools/ro32)**
 
 - Nomod
-  1. [Toyama Nao - Wagon (_kotachi_) [Departure]](https://osu.ppy.sh/beatmapsets/1669004#osu/3408413)
+  1. [Toyama Nao - Wagon (\_kotachi\_) [Departure]](https://osu.ppy.sh/beatmapsets/1669004#osu/3408413)
   2. [Konsan - Troposphere (Astronic) [Into the Stratosphere]](https://osu.ppy.sh/beatmapsets/2187774#osu/4625804)
   3. [Matsushita - Ashura-chan (gazimal) [dkblaze's Extreme]](https://osu.ppy.sh/beatmapsets/1628966#osu/3946378)
   4. [Raphlesia & BilliumMoto - My Love (Mao) [Our Expert]](https://osu.ppy.sh/beatmapsets/1388906#osu/2868387)
