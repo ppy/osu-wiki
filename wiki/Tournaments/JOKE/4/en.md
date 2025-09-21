@@ -65,7 +65,7 @@ tags:
 2. Beatmap scoring is based on ScoreV2.
 3. The maps for each round will be announced during a live showcase once all matches for a round have concluded (otherwise, it will be announced in the Discord server). Only the announced maps will be used during the respective matches.
 4. The tournament is Free Mod: players are free to use either Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
-5. The NF mod may be used but is not mandatory; failed scores do not count towards the end result; in the event that both players fail, the higher scoring player will claim one point.
+5. The NF mod may be used but is not mandatory. Failed scores do not count towards the end result. In the event that both players fail, the higher scoring player will claim one point.
 6. If a map ends in a draw, it will be replayed. If the map ends in a draw again after this, the Picker's Privilege rule is envoked: the team that picked the map will be awarded 1 point, and the match will proceed as normal. In the unlikely event that a draw happens on the tiebreaker map, the map will be replayed until a winner is decided.
    - Teams cannot win a match via the Picker's Privilege rule. In cases where this would occur the map will be replayed until a winner is decided.
 7. If a player disconnects, they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and will likely take place if a disconnect occurs within the first 30 seconds of a map).
@@ -96,24 +96,24 @@ tags:
 ### Match instructions
 
 1. A referee will create a multiplayer room approx. 10 minutes in advance. Players must gather during this period.
-2. Room settings are `Game mode: "osu!mania"`, `Score mode: "ScoreV2"`. Room name must be `JOKE: Lobby #` for Qualifying Round, and `JOKE: ({Player 1}) vs ({Player 2})` for every other round.
+2. Room settings are `Game mode: "osu!mania"`, `Score mode: "ScoreV2"`. Room name must be `JOKE: Lobby #` for the Qualifying round, and `JOKE: ({Player 1}) vs ({Player 2})` for every other round.
 3. Players will forcibly forfeit should they fail to show up 10 minutes after the scheduled match time.
 4. This tournament will not feature warmups.
 5. There will be no bans in this tournament.
-6. Each player must use `!roll` in #multiplayer.
-   - The winner of the `!roll` will be allowed first pick of the pool.
+6. Each player must use `!roll` in `#multiplayer`.
+   - The winner of the `!roll` will be allowed the first pick of the pool.
 7. In case of a tie at the penultimate point needed to win, the tiebreaker map will be played.
 
 ### Mappool instructions
 
 1. There will be one mappool for each round (as stated above).
 2. Mappools do not contain mod categories, but are instead aimed at meeting certain mapping-styled criteria. These include: Rice, LN, Hybrid, Speed, and EX.
-3. The size of the mappool will increase by 2 when the win condition calls for it so (see [Stage Instructions](#stage-instructions)).
+3. The size of the mappool will increase by 2 when the win condition calls for it so (see the [stage instructions](#stage-instructions)).
 4. The mappools will be uploaded by Jaye after the showcase concludes. The pool will be a multi-song mapset available on the osu! website.
 
 ### Scheduling instructions
 
 1. Each stage will be held on a single weekend.
-2. Scheduling will be handled by the staff team; match times will be based on the time zones provided by players during the Registration Phase.
+2. Scheduling will be handled by the staff team; match times will be based on the time zones provided by players during the registration phase.
 3. Reschedules will only be considered if involved parties are all in agreeance (minus Qualifiers, where you are free to pick a lobby time that you wish to enter, provided there is lobby space to accommodate you).
 4. Reschedules are always accepted so long as they are at least 48 hours before the first scheduled match of the round; any later and staff have the right to reject.
