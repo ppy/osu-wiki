@@ -10,7 +10,7 @@ While the tournament enters its final spurt, we're steadily reaching the peak of
 
 Words alone cannot describe the excitement from last week's matches. Even though we already had close calls on the previous rounds, nobody could prepare anyone for what would go down during the Semifinals. For some teams, "threading the needle" would be an understatement of titanic proportions. And without wanting to spoil anything, those who've been keeping up with this weekend's matches know this is only the beginning.
 
-For those who would prefer to avoid reading **PLACEHOLDER_ADD_WORD_COUNT_HERE** words (we counted them one by one), don't worry! As per usual, [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128) have hand-crafted their recap in video form for you — yes, you — to enjoy.
+For those who would prefer to avoid reading **2306** words (we counted them one by one), don't worry! As per usual, [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128) have hand-crafted their recap in video form for you — yes, you — to enjoy.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/v_D1ykDqzqE" frameborder="0" allowfullscreen></iframe>
