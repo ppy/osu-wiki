@@ -90,7 +90,7 @@ Wenn Übersetzungen als veraltet gekennzeichnet werden, müssen sie ebenfalls da
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
 ```
 
-Diese Tags werden automatisch hinzugefügt, nachdem eine Änderung übernommen wird. Übersetzungen, die diese Änderung nicht benötigten, können optional [übersprungen werden](/wiki/osu!_wiki/Maintenance#nicht-mehr-aktuelle-übersetzungen).
+Diese Tags werden automatisch hinzugefügt, nachdem eine Änderung übernommen wird. Übersetzungen, die diese Änderung nicht benötigen, können optional [übersprungen werden](/wiki/osu!_wiki/Maintenance#nicht-mehr-aktuelle-übersetzungen).
 
 ### Artikel mit Tags versehen
 
