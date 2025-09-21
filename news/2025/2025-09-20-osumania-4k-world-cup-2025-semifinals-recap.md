@@ -4,7 +4,7 @@ title: "osu!mania 4K World Cup 2025: Semifinals Recap"
 date: 2025-09-20 23:59:59 +0000
 ---
 
-While the tournament enters its final spurt, we're steadily reaching the peak of osu!mania 4K competition. Join us, as we retell this week's epic, now with an extra side of jam! 
+While the tournament enters its final spurt, we're steadily reaching the peak of osu!mania 4K competition. Join us, as we retell this week's epic, now with an extra side of jam!
 
 ![](/wiki/shared/news/2025-09-20-osumania-4k-world-cup-2025-semifinals-recap/banner.jpg)
 
@@ -13,7 +13,7 @@ Words alone cannot describe the excitement from last week's matches. Even though
 For those who would prefer to avoid reading **PLACEHOLDER_ADD_WORD_COUNT_HERE** words (we counted them one by one), don't worry! As per usual, [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128) have hand-crafted their recap in video form for you — yes, you — to enjoy.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/v_D1ykDqzqE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
@@ -97,7 +97,7 @@ Before that though, we want to highlight potentially the closest match we've had
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2565463262?t=0h7m23s)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=XXX&end=YYY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/v_D1ykDqzqE?start=27&end=233" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Both teams had good reason to be nervous about this match. With an 80% pick'em prediction rate, the favourite was definitely ::{ flag=TH }:: Thailand, a powerhouse team that had an unfortunate early drop into the losers' bracket. They had a taste of the podium for the first time last year, and came into the tournament looking to repeat (or even surpass!) that feat. Nevertheless, ::{ flag=CA }:: Canada was not going to be a pushover, coming in hot straight from the winners' bracket, only sent down by the #1 seed of the tournament, China.
