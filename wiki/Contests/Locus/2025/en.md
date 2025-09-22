@@ -725,7 +725,7 @@ This contest has come to an end and resulted in the following podium:
 | **Mapper / storyboarder** | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679) |
 | **Musician / VFX artist** | ::{ flag=US }:: [aidolon](https://osu.ppy.sh/users/17174676) |
 | **Illustrator** | ::{ flag=TH }:: [SuperGreentea](https://osu.ppy.sh/users/16416058) |
-| **Hitsounder** | ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) |
+| **Mapper / Hitsounder** | ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) |
 
 [![Artwork of Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](img/banners/Heart_of_Epitaph.jpg)](https://osu.ppy.sh/beatmapsets/2412283)
 
