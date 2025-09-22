@@ -80,8 +80,8 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | osu! | UTC+7 |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | osu!mania | UTC-4 |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | osu!mania | UTC+9 |
-| ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | osu!taiko | UTC+2 |
 | ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669) | osu!taiko | UTC-4 |
+| ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | osu!taiko | UTC+2 |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | UTC+9 |
 
 For modding, each game mode has their separate overview: 
