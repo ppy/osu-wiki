@@ -223,7 +223,7 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Vocaloid Lovers |
-| **VFX artist / storyboarder / mapper** | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) |
+| **GFX artist / storyboarder / mapper** | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) |
 | **Musician / mapper** | ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313) |
 | **Vocaloid tuning / mapper** | ::{ flag=US }:: [Defy](https://osu.ppy.sh/users/15428357) |
 | **Lyricist / mapper** | ::{ flag=KR }:: [Kawashiro](https://osu.ppy.sh/users/1533796) |
@@ -725,7 +725,7 @@ This contest has come to an end and resulted in the following podium:
 | **Mapper / storyboarder** | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679) |
 | **Musician / VFX artist** | ::{ flag=US }:: [aidolon](https://osu.ppy.sh/users/17174676) |
 | **Illustrator** | ::{ flag=TH }:: [SuperGreentea](https://osu.ppy.sh/users/16416058) |
-| **Hitsounder** | ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) |
+| **Mapper / hitsounder** | ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) |
 
 [![Artwork of Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](img/banners/Heart_of_Epitaph.jpg)](https://osu.ppy.sh/beatmapsets/2412283)
 
@@ -806,7 +806,7 @@ This contest has come to an end and resulted in the following podium:
 | :-- | :-- |
 | **Team name** | Ocskai |
 | **Musician / mapper** | ::{ flag=HU }:: [RRolanDD](https://osu.ppy.sh/users/12291981) |
-| **Mapper** | ::{ flag=HU }:: [Magor](https://osu.ppy.sh/users/13214099) |
+| **Mapper / hitsounder** | ::{ flag=HU }:: [Magor](https://osu.ppy.sh/users/13214099) |
 | **Storyboarder / illustrator / mapper** | ::{ flag=HU }:: [HyBer](https://osu.ppy.sh/users/15025665) |
 | **Mapper** | ::{ flag=HU }:: [Nyartin](https://osu.ppy.sh/users/3436625) |
 
