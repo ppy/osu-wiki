@@ -98,7 +98,7 @@ You can apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwa
 | :-- | :-- |
 | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) | UTC+2 |
 | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096) | UTC+2 |
-| ::{ flag=VI }:: [Hokichi](https://osu.ppy.sh/users/6607303) | UTC+7 |
+| ::{ flag=VN }:: [Hokichi](https://osu.ppy.sh/users/6607303) | UTC+7 |
 | ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) | UTC+8 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/18vLaEyRnsfc2hpUb53EpggRwY6Vg7PqTScbs2qI6otc/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSewCsK_L1pTr2vAMYiLtQZIfRMjqYLuepsBJNwEIYFDBM0P1A/viewform).
