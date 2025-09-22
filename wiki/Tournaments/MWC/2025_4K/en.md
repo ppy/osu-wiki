@@ -44,13 +44,14 @@ The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=US }:: **[-mint-](https://osu.ppy.sh/users/8976576)**, ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) |
-| Mappool playtester | ::{ flag=IT }:: **[\[GB\]Rick](https://osu.ppy.sh/users/25263357)**, ::{ flag=US }:: **[mashu](https://osu.ppy.sh/users/12028216)**, ::{ flag=KR }:: **[Sunyata](https://osu.ppy.sh/users/6699923)**, ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=ID }:: [\-Yubi\-](https://osu.ppy.sh/users/17851478), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=HK }:: [Ricizus](https://osu.ppy.sh/users/10395139), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155) |
-| Mapper | ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=US }:: [0DZ0](https://osu.ppy.sh/users/28156707), ::{ flag=KR }:: [11Bit](https://osu.ppy.sh/users/14804526), ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=SG }:: [aeoliancarp](https://osu.ppy.sh/users/1027529), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941), ::{ flag=US }:: [Biosphere](https://osu.ppy.sh/users/6357823), ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851), ::{ flag=CN }:: [Doshowz](https://osu.ppy.sh/users/5799435), ::{ flag=GB }:: [DourGent](https://osu.ppy.sh/users/4630371), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [hi19hi19](https://osu.ppy.sh/users/1014473), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=KR }:: [jh05013](https://osu.ppy.sh/users/4183649), ::{ flag=KR }:: [LeiN\-](https://osu.ppy.sh/users/2162939), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=PE }:: [Miaurichesu](https://osu.ppy.sh/users/10055648), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=CA }:: [Pizza69](https://osu.ppy.sh/users/25285704), ::{ flag=IT }:: [rikan](https://osu.ppy.sh/users/25263357), ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693), ::{ flag=CN }:: [V1do\-](https://osu.ppy.sh/users/17527968), ::{ flag=US }:: [Valedict](https://osu.ppy.sh/users/2537082), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), *more TBA* |
+| Mappool playtester | ::{ flag=US }:: **[mashu](https://osu.ppy.sh/users/12028216)**, ::{ flag=IT }:: **[rikan](https://osu.ppy.sh/users/25263357)**, ::{ flag=KR }:: **[Sunyata](https://osu.ppy.sh/users/6699923)**, ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=ID }:: [\-Yubi\-](https://osu.ppy.sh/users/17851478), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=HK }:: [Ricizus](https://osu.ppy.sh/users/10395139), ::{ flag=IT }:: [rikan](https://osu.ppy.sh/users/25263357), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155) |
+| Mapper | ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=US }:: [\-MysticEyes](https://osu.ppy.sh/users/6253266), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=US }:: [0DZ0](https://osu.ppy.sh/users/28156707), ::{ flag=KR }:: [11Bit](https://osu.ppy.sh/users/14804526), ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941), ::{ flag=US }:: [Ballistic](https://osu.ppy.sh/users/5170506), ::{ flag=US }:: [Biosphere](https://osu.ppy.sh/users/6357823), ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851), ::{ flag=PH }:: [doctormango](https://osu.ppy.sh/users/13370527), ::{ flag=CN }:: [Doshowz](https://osu.ppy.sh/users/5799435), ::{ flag=GB }:: [DourGent](https://osu.ppy.sh/users/4630371), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [hi19hi19](https://osu.ppy.sh/users/1014473), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=KR }:: [jh05013](https://osu.ppy.sh/users/4183649), ::{ flag=KR }:: [LeiN\-](https://osu.ppy.sh/users/2162939), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=PE }:: [Miaurichesu](https://osu.ppy.sh/users/10055648), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=CA }:: [Pizza69](https://osu.ppy.sh/users/25285704), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=IT }:: [rikan](https://osu.ppy.sh/users/25263357), ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809), ::{ flag=ES }:: [Ska](https://osu.ppy.sh/users/10313023), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693), ::{ flag=CN }:: [V1do\-](https://osu.ppy.sh/users/17527968), ::{ flag=US }:: [Valedict](https://osu.ppy.sh/users/2537082), ::{ flag=SE }:: [Vortex\-](https://osu.ppy.sh/users/4999669), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
 | Commentator | ::{ flag=IE }:: [-Nightkore](https://osu.ppy.sh/users/26311862), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=PH }:: [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| Musician | [KASHIWA Daisuke](https://osu.ppy.sh/beatmaps/artists/343), [Kou!](https://osu.ppy.sh/beatmaps/artists/383), [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220), [muyu](https://www.letterofsounds.com/en/artists/muyu), [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370), [Sad Keyboard Guy](https://sadkeyboardguy.carrd.co/), [Myntian](https://myntian.bandcamp.com), *more TBA* |
+| News team | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=ES }:: [kadoen](https://osu.ppy.sh/users/12780575), ::{ flag=PH }:: [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+| Musician | [KASHIWA Daisuke](https://osu.ppy.sh/beatmaps/artists/343), [Kou!](https://osu.ppy.sh/beatmaps/artists/383), [LUZE](https://www.luzeria.net), [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220), [muyu](https://www.letterofsounds.com/en/artists/muyu), [Myntian](https://myntian.bandcamp.com), [roer](https://roer.bandcamp.com), [Raphiiel](https://www.foriio.com/whosraphiiel), [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370), [Sad Keyboard Guy](https://sadkeyboardguy.carrd.co/) |
 
 ## Participants
 
@@ -108,16 +109,49 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 - [Livestream](https://www.twitch.tv/osulive)
 - [Support your country with a profile banner](https://osu.ppy.sh/store/products/1513)
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Sunday, 21 September 2025
+### Saturday, 27 September 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Thailand ::{ flag=TH }:: | ::{ flag=KR }:: South Korea | [Sep 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T110000&p1=1440&p2=28&p3=235) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Grand Finals | mappool showcase | [Sep 21 (Sun) 23:59 UTC)](https://www.timeanddate.com/worldclock/converter.html?iso=20250921T235959&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| China ::{ flag=CN }:: | ::{ flag=KR }:: South Korea | [Sep 27 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250927T120000&p1=1440&p2=33&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
+
+### Sunday, 28 September 2025
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T150000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T150000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (225 MB)](https://packs.ppy.sh/P300%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2572536973?t=0h4m57s)
+
+- Rice
+  1. [LUZE - !!! IMPULSIVE \<!!\> WAVE !!! (Valedict) \[VERMILLION SCOURGE\]](https://osu.ppy.sh/beatmapsets/2438724#mania/5318853)
+  2. [Himeringo - Yotsuya-san ni Yoroshiku (Miaurichesu, guden) \[Cruel 1.35x\]](https://osu.ppy.sh/beatmapsets/2438682#mania/5318764)
+  3. [Saitama Saisyu Heiki - Fuuga (Hylotl, lemonguy) \[Rock Parade (280bpm)\]](https://osu.ppy.sh/beatmapsets/2438729#mania/5318862)
+  4. [Camellia feat. chiisana - re:||VERSE (elexire) \[Inversion (cut)\]](https://osu.ppy.sh/beatmapsets/2438731#mania/5318865)
+  5. [Tomato cat - Preztels (AutotelicBrown) \[Braed\]](https://osu.ppy.sh/beatmapsets/2438707#mania/5318811)
+  6. [Hoshimachi Suisei - soiree (0DZ0) \[startale\]](https://osu.ppy.sh/beatmapsets/2438530#mania/5318306)
+  7. [Camellia - Backbeat Revenge (Cut Ver.) (Disguise, elexire) \[Rousing Morale 1.1x\]](https://osu.ppy.sh/beatmapsets/2438651#mania/5318630)
+  8. [Terminal 11 - The Ever Increasing Death Toll of Birds In My Life (Pizza69) \[Extreme 1.15x (216bpm)\]](https://osu.ppy.sh/beatmapsets/1802944#mania/3697099)
+- Hybrid
+  1. [roer - orphic (-mint-) \[eurydice\]](https://osu.ppy.sh/beatmapsets/2438747#mania/5318904)
+  2. [Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57) (gzdongsheng, Yuiesta, -mint-, rikan) \[FULL CLEAR\]](https://osu.ppy.sh/beatmapsets/2438737#mania/5318882)
+  3. [Juggernaut. - Catastrophe (\[Crz\]FolAH1217) \[Calamity\]](https://osu.ppy.sh/beatmapsets/2438738#mania/5318886)
+  4. [Kou! - TERABYTE (-mint-) \[HARD DRIVE 1.1x\]](https://osu.ppy.sh/beatmapsets/2438746#mania/5318901)
+- Long Note
+  1. [yuikonnu x sana - Fuzzy Future (Hylotl) \[Toward Radiance\]](https://osu.ppy.sh/beatmapsets/2438740#mania/5318888)
+  2. [Koko & Satsuki ga Tenkomori - Saigetsu (takehirotei frenchcore remix) (Yuiesta, \[Crz\]Crysarlene) \[HAPPY TOUHOU 30th BIRTHDAY!!! (w/ Crysarlene) / 1.05\]](https://osu.ppy.sh/beatmapsets/2438732#mania/5318868)
+  3. [Mitsuki - ChallengeR (Toaph Daddy) \[LeviathaN\]](https://osu.ppy.sh/beatmapsets/2438745#mania/5318900)
+  4. [Earth, Wind & Fire - September (yomoha remix) (-mint-, elexire) \[Happy Day 1.15x\]](https://osu.ppy.sh/beatmapsets/2438648#mania/5318620)
+- Tiebreaker
+  1. **[Raphiiel - Once Forgotten, Nothing Remains (-mint-, guden, elexire, 0DZ0, Toaph Daddy, rikan, MyZterioN-, \[Crz\]FolAH1217) \[A Past Buried, A Future Condemned\]](https://osu.ppy.sh/beatmapsets/2438757#mania/5318924)**
 
 ### Finals
 
@@ -266,6 +300,12 @@ Saturday, 20 September 2025:
 | United Kingdom ::{ flag=GB }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119326552) | [#1](https://www.twitch.tv/videos/2571139095?t=0h4m54s) |
 | China ::{ flag=CN }:: | 6 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/119328425) | [#1](https://www.twitch.tv/videos/2571250429?t=0h0m19s) |
 | Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119329381) | [#1](https://www.twitch.tv/videos/2571250429?t=1h31m38s) |
+
+Sunday, 21 September 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Thailand ::{ flag=TH }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119337967) | [#1](https://www.twitch.tv/videos/2571995965?t=0h4m47s) |
 
 ### Semifinals
 
@@ -578,5 +618,5 @@ The weights for the Qualifiers are as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^losers-bracket]: Losers bracket match
-[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
+[^lb-grand-finals]: Losers bracket Grand Finals match
+[^grand-finals]: Grand Finals match — final matchup depends on the previous Losers bracket Grand Finals match
