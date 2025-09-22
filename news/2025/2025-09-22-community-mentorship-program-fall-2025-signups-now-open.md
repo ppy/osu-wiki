@@ -41,16 +41,11 @@ You can find more information on these mentors in their [detailed overview](http
 | Mentor | Timezone |
 | :-- | :-- |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-4 |
-| ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) | UTC |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+2 |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | UTC+2 |
-| ::{ flag=VN }:: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) | UTC+7 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | UTC+7 |
-| ::{ flag=VN }:: [[TCD] Dzar03](https://osu.ppy.sh/users/4335785) | UTC+7 |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | UTC+8 |
+| ::{ flag=VN }:: [[TCD] Dzar03](https://osu.ppy.sh/users/16712231) | UTC+7 |
 | ::{ flag=CN }:: [RTrigger](https://osu.ppy.sh/users/25308131) | UTC+8 |
-| ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) | UTC+9 |
-| ::{ flag=KR }:: [Dreamwalker](https://osu.ppy.sh/users/8946550) | UTC+9 |
+| ::{ flag=KR }:: [Atman](https://osu.ppy.sh/users/8946550) | UTC+9 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1g2KhhmBqiqNAe2I2PJPicaSFtWPQ5sScRluC9oQzFGg/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSeVdfghHjpjOiGJ1rw167rOsuAczWgub0sYYX_wYCP1_kwrTw/viewform).
 
