@@ -71,7 +71,7 @@ You can find more information on these mentors in their [detailed overview](http
 
 | Mentor | Game mode | Time zone |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | osu! | UTC-9 |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | osu! | UTC-7 |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) & ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | osu! | UTC-6 |
 | ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | osu! | UTC+2 |
 | ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) & ::{ flag=US }:: [Jennifer](https://osu.ppy.sh/users/6761853) | osu! | UTC+2 |
