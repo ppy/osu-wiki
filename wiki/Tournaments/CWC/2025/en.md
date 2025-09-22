@@ -51,6 +51,7 @@ The osu!catch World Cup 2025 was run by various community members.
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
+| News team | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=FR }:: [Realmaas](https://osu.ppy.sh/users/6567640), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 | Musician | [A-One](https://lit.link/en/aonejp), [Ice](https://osu.ppy.sh/beatmaps/artists/484), [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370), [Symholic / Rina Komatsu](https://osu.ppy.sh/beatmaps/artists/130), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [WangleLine](https://osu.ppy.sh/beatmaps/artists/427), [XenjeS](https://linktr.ee/XenjeS), [Yooh](https://osu.ppy.sh/beatmaps/artists/218) |
 
 ## Links
