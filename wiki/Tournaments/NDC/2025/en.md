@@ -25,11 +25,11 @@ The **National Dutch Championship 2025** (***NDC 2025***) is a 1v1, double elimi
 
 ## Prizes
 
-The prizepool is still pending (currently €750,-) and will be divided as follows:
+The prizepool is still pending (currently €750) and will be divided as follows:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% (€375,-) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% (€375) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% (€187,50) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 12.5% (€93,75) |
 | *4th place* | 7.5% (€56,25) |
@@ -37,12 +37,12 @@ The prizepool is still pending (currently €750,-) and will be divided as follo
 
 The tournament and prizepool is sponsored by both the organisation and community members. Donators can choose how much of their donation they want to go to either the prizepool or improving the tournament series:
 
-- ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €500,-
-- ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €200,-
-- ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323): €150,-
-- ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €150,-
-- ::{ flag=NL }:: [wie ben jij](https://osu.ppy.sh/users/16322001): €100,-
-- ::{ flag=NL }:: [Astraea](https://osu.ppy.sh/users/17526061): €90,-
+- ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €500
+- ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €200
+- ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323): €150
+- ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €150
+- ::{ flag=NL }:: [wie ben jij](https://osu.ppy.sh/users/16322001): €100
+- ::{ flag=NL }:: [Astraea](https://osu.ppy.sh/users/17526061): €90
 
 ## Organisation
 
@@ -126,7 +126,7 @@ The National Dutch Championship 2025 is run by various community members.
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/31/mappools/qf)**
 
-- Nomod
+- No Mod
   1. [Yorushika - Thoughtcrime (nano desu) [literally 1984]](https://osu.ppy.sh/beatmapsets/1903444#osu/3924476)
   2. [UI-70 - Mou Uta Shika Kikoenai (Kurashina Asuka) [Expert (buff ver.)]](https://osu.ppy.sh/beatmapsets/1537442#osu/3400213)
   3. [ZAQ - Minor Piece (Petal) [dkblaze x Matha's Miracle]](https://osu.ppy.sh/beatmapsets/2147857#osu/4524268)
@@ -153,7 +153,7 @@ The National Dutch Championship 2025 is run by various community members.
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/31/mappools/ro16)**
 
-- Nomod
+- No Mod
   1. [HEART BEAT - heart attack! (Mir) [overdrive!]](https://osu.ppy.sh/beatmapsets/2432470#osu/5299965)
   2. [Victorius - Age of Tyranny (Urition) [Sh4rq_'s Extreme]](https://osu.ppy.sh/beatmapsets/2219231#osu/4706384)
   3. [Tsukuyomi - Necropolis (dkblaze) [Extra]](https://osu.ppy.sh/beatmapsets/2057681#osu/4300341)
@@ -176,7 +176,7 @@ The National Dutch Championship 2025 is run by various community members.
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/31/mappools/ro32)**
 
-- Nomod
+- No Mod
   1. [Toyama Nao - Wagon (\_kotachi\_) [Departure]](https://osu.ppy.sh/beatmapsets/1669004#osu/3408413)
   2. [Konsan - Troposphere (Astronic) [Into the Stratosphere]](https://osu.ppy.sh/beatmapsets/2187774#osu/4625804)
   3. [Matsushita - Ashura-chan (gazimal) [dkblaze's Extreme]](https://osu.ppy.sh/beatmapsets/1628966#osu/3946378)
@@ -199,7 +199,7 @@ The National Dutch Championship 2025 is run by various community members.
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/31/mappools/ql)**
 
-- Nomod
+- No Mod
   1. [Aqua Timez - Sing Along (-NeBu-) [Is God a dream, an illusion, the ceiling?]](https://osu.ppy.sh/beatmapsets/2421774#osu/5268847)
   2. [Xenogen - Native Faith - Suwako's Theme (Val) [nebuwua's Extreme]](https://osu.ppy.sh/beatmapsets/807673#osu/3476789)
   3. [Masarada feat. Kasane Teto SV - Musekinin Shuugoutai (AstralXynsm) [Non-Responsibility Oblige]](https://osu.ppy.sh/beatmapsets/2189290#osu/4630458)
