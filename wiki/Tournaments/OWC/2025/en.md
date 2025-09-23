@@ -156,7 +156,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 1. Following the Qualifiers, the Group stage will feature the Challenger (seeds 9-24) and Contender (seeds 25-40) teams.
 2. The 16 Challenger teams will be randomly drafted into four groups of four. Likewise, the 16 Contender teams will be randomly drafted into four groups of four.
 3. Each team will play one match against every other team in their group (three matches total). All matches will be best of 9, with one ban for each team.
-4. Ranking within a group is determined by the number of matches won. In the case of a tie in match wins, the team with the higher point difference, that is, wins minus losses, seed will be ranked higher. In the case of a tie, the Qualifiers seeding will be used to decide the higher seed.
+4. Ranking within a group is determined by the number of matches won. In the case of a tie in match wins, the team with the higher point difference, that is, wins minus losses, will be ranked higher. In the case of a tie, the Qualifiers seeding will be used to decide the higher seed.
 5. After all group matches are completed, teams will advance to the bracket stage based on their final group placement (detailed below).
 
 ### Group stage seeding procedure
