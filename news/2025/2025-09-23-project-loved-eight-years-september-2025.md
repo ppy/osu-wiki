@@ -476,7 +476,7 @@ Arcwin has built an outstanding legacy in the mania community for over a decade,
 
 ---
 
-From all of us in the [Project Loved team](https://loved.sh/contributors), we hope you enjoy this month's selection and stay tuned for April! All the passing maps will appear in the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
+From all of us in the [Project Loved team](https://loved.sh/contributors), we hope you enjoy this month's selection and stay tuned for October! All the passing maps will appear in the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
 If you'd like to learn more about Project Loved, check out the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). You can also check out the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if there are any questions, concerns, or you'd like help out.
 
