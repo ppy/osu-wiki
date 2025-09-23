@@ -22,7 +22,7 @@ As always, we'd like to thank all of you who voted in the August round! Results 
 
 Before we move onto the picks, there's an important change to Loved maps that needs to be announced:
 
-Following multiple discussions and an internal vote among the [Nomination Assessment Team](/wiki/en/People/Nomination_Assessment_Team), Project Loved team, and the counsel of the osu! team, **requesting beatmaps to be removed from Loved is no longer possible**. Furthermore, ranking exact copies of Loved maps (either as re-uploaded sets or guest difficulties) **is no longer allowed**.
+Following multiple discussions and an internal vote among the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), Project Loved team, and the counsel of the osu! team, **requesting beatmaps to be removed from Loved is no longer possible**. Furthermore, ranking exact copies of Loved maps (either as re-uploaded sets or guest difficulties) **is no longer allowed**.
 
 You may find an explanation behind this change and a space to discuss it in [this forum post](https://osu.ppy.sh/community/forums/topics/2132780?n=1).
 
@@ -49,7 +49,7 @@ The osu! Loved candidates were chosen by [bailie](https://osu.ppy.sh/users/75371
 
 ---
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/592023.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/592023.jpg)](https://osu.ppy.sh/community/forums/topics/2132985)
 
 [Tanya Degurechaff (CV: Aoi Yuuki) - Los! Los! Los!](https://osu.ppy.sh/beatmapsets/592023#osu) by [Settia](https://osu.ppy.sh/users/2445897)\
 240 BPM, 3:33 | 6.97★, 7.99★\
@@ -63,7 +63,7 @@ If you were around osu! in 2017, you likely were aware of how popular this song 
 
 Want to see this finally enter a Loved state? Vote now!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1450068.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1450068.jpg)](https://osu.ppy.sh/community/forums/topics/2132984)
 
 [katagiri - Nyan-Nyan Naughty Night](https://osu.ppy.sh/beatmapsets/1450068#osu) by [-Tynamo](https://osu.ppy.sh/users/3638962)\
 242 BPM, 2:20 | 7.36★, 7.67★\
@@ -75,7 +75,7 @@ originally a NM5 created for [Spring Anime Showdown](https://osu.ppy.sh/communit
 
 vote now or you are naughty
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/21782.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/21782.jpg)](https://osu.ppy.sh/community/forums/topics/2132983)
 
 [t+pazolite - Kanon-Kanon](https://osu.ppy.sh/beatmapsets/21782#osu) by [TKiller](https://osu.ppy.sh/users/113027)\
 230 BPM, 2:55 | 5.44★\
@@ -87,7 +87,7 @@ While this is his first Loved stint, [TKiller](https://osu.ppy.sh/users/113027) 
 
 Still, it's a really good map for 2010, and showcases a style that seems to be lost in the world of modern osu!. It should be quite a fun experience! So, if you're into this kind of nostalgia-inducing ride, this one might be worth voting Yes on.
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1063644.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1063644.jpg)](https://osu.ppy.sh/community/forums/topics/2132982)
 
 [Gufi - Paul](https://osu.ppy.sh/beatmapsets/1063644#osu) by [Surassa](https://osu.ppy.sh/users/4916716)\
 184 BPM, 3:30 | 6.50★\
@@ -101,7 +101,7 @@ If you like raw aim/consistency jump maps, this one is meant for you.
 
 Go vote or you're \[redacted\].
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/527496.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/527496.jpg)](https://osu.ppy.sh/community/forums/topics/2132981)
 
 [Decapitated - Homo Sum](https://osu.ppy.sh/beatmapsets/527496#osu) by [Makeli](https://osu.ppy.sh/users/3411824)\
 216 BPM, 4:32 | 4.15★, 5.27★, 7.67★\
@@ -113,7 +113,7 @@ Go vote or you're \[redacted\].
 
 TIME TO LOCK IN... MAKE SURE TO VOTE YES!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1948001.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1948001.jpg)](https://osu.ppy.sh/community/forums/topics/2132980)
 
 [Iyowa - Predation And Non Predation](https://osu.ppy.sh/beatmapsets/1948001#osu) by [Sagu](https://osu.ppy.sh/users/4556542), [Mithia](https://osu.ppy.sh/users/9748438), [nantokanaru](https://osu.ppy.sh/users/15241257), [oatmilk](https://osu.ppy.sh/users/16516525), [Phten02](https://osu.ppy.sh/users/16678364), and [Wien Margarete](https://osu.ppy.sh/users/9334812)\
 230 BPM, 3:18 | 2.60★ – 7.14★\
@@ -125,7 +125,7 @@ I found this map through a recommendation by a friend when I wanted to play high
 
 As a player, I definitely recommend checking this out and voting Yes. As a mapper, I'm just as surprised at this map's quality. So go ahead, check it out!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/813680.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/813680.jpg)](https://osu.ppy.sh/community/forums/topics/2132979)
 
 [L.E.D. - QUANTUM TELEPORTATION](https://osu.ppy.sh/beatmapsets/813680#osu) by [rustbell](https://osu.ppy.sh/users/227717)\
 152 BPM, 2:06 | 7.70★\
@@ -137,7 +137,7 @@ What you've all been waiting for... this month's *Gameplay Gimmicks*!!
 
 Just a beautiful day when rustbell is back in the Loved section, as well as you voting yes. ;)
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/433175.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/433175.jpg)](https://osu.ppy.sh/community/forums/topics/2132978)
 
 [MUMEI_ver.SP - This herbal tea helps the heart dance](https://osu.ppy.sh/beatmapsets/433175#osu) by [ryza](https://osu.ppy.sh/users/1171628)\
 226 BPM, 1:30 | 8.18★\
@@ -149,7 +149,7 @@ This month's *Meme Monstrosities* pick is a classic to some and a cultural touch
 
 Just like I'm sure whatever [this video](https://www.nicovideo.jp/watch/sm27743371) actually means has to be funny as hell, I'm sure you guys will vote yes.
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1426930.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1426930.jpg)](https://osu.ppy.sh/community/forums/topics/2132977)
 
 [ginkiha x Hommarju x t+pazolite - CROSSING DELTA](https://osu.ppy.sh/beatmapsets/1426930#osu) by [Sing](https://osu.ppy.sh/users/3795679)\
 180 BPM, 3:34 | 7.36★\
@@ -159,7 +159,7 @@ This month's first *Wildcard* pick brings you all another banger from legendary 
 
 Shoutouts to [wobeinimacao](https://osu.ppy.sh/users/350723) 🐐. He would have wanted you to vote Yes!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1846989.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1846989.jpg)](https://osu.ppy.sh/community/forums/topics/2132976)
 
 [ishikinonaikranke - daishinkainoatena](https://osu.ppy.sh/beatmapsets/1846989#osu) by [revoh](https://osu.ppy.sh/users/8165181)\
 148 BPM, 2:51 | 6.89★, 6.91★\
@@ -173,7 +173,7 @@ notes dance with rhythm, patterns take flight,\
 a musical journey, pure player delight.\
 so give it your love, and vote yes.
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2023706.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2023706.jpg)](https://osu.ppy.sh/community/forums/topics/2132975)
 
 [yuigot + Hakushi Hasegawa - Oto ga Suru](https://osu.ppy.sh/beatmapsets/2023706#osu) by [ak74](https://osu.ppy.sh/users/1231762) and [pocket-](https://osu.ppy.sh/users/6808091)\
 160 BPM, 4:00 | 6.97★, 7.31★\
@@ -210,7 +210,7 @@ The osu!taiko Loved candidates were chosen by [\_gt](https://osu.ppy.sh/users/83
 
 ---
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1293146.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1293146.jpg)](https://osu.ppy.sh/community/forums/topics/2132974)
 
 [AVTechNO! (feat. Hatsune Miku) - boku-boku](https://osu.ppy.sh/beatmapsets/1293146#taiko) by [ekumea1123](https://osu.ppy.sh/users/9119501)\
 180 BPM, 3:25 | 5.93★\
@@ -222,7 +222,7 @@ That's the name of the game when it comes to [ekumea1123](https://osu.ppy.sh/use
 
 Having a leaderboard for this map would be very interesting, as putting mods on it isn't easy at all. If you want to have a challenge while competing with all the talented players on the leaderboard, don't hesitate to give this map a 'Yes' vote!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1057703.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1057703.jpg)](https://osu.ppy.sh/community/forums/topics/2132973)
 
 [7_7 - Bitch Gun](https://osu.ppy.sh/beatmapsets/1057703#taiko) by [7_7](https://osu.ppy.sh/users/7491106)\
 290 BPM, 1:46 | 7.33★, 8.28★\
@@ -232,7 +232,7 @@ If you have been around the taiko community for some time, there's no chance you
 
 Amassing over 5K plays throughout the years, this mapset is a perfect candidate to receiving a leaderboard, but as always, the decision falls in your hands. Make sure to give it a chance, and as always, have fun!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1695555.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1695555.jpg)](https://osu.ppy.sh/community/forums/topics/2132972)
 
 [Gawr Gura - REFLECT (Assertive Hardcore Bootleg)](https://osu.ppy.sh/beatmapsets/1695555#taiko) by [Salieri](https://osu.ppy.sh/users/11233651)\
 340 BPM, 3:09 | 7.43★\
@@ -242,7 +242,7 @@ Anyone familiar with [Salieri](https://osu.ppy.sh/users/11233651) would know abo
 
 All in all, the beatmap presents a challenge to intermediate players new to this mapping style, but also presents an opportunity for veteran players to compete on the leaderboards. If you're a fan of this style of mapping, remember to vote yes!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/720163.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/720163.jpg)](https://osu.ppy.sh/community/forums/topics/2132971)
 
 [Kaneko Chiharu - Yuki Onna](https://osu.ppy.sh/beatmapsets/720163#taiko) by [Konpaku Sariel](https://osu.ppy.sh/users/533502)\
 200 BPM, 1:56 | 6.36★, 8.08★, 8.95★, 9.17★\
@@ -270,7 +270,7 @@ The osu!catch Loved candidates were chosen by [LaviSorrow](https://osu.ppy.sh/us
 
 ---
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2261830.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2261830.jpg)](https://osu.ppy.sh/community/forums/topics/2132970)
 
 [USAO - INSANE](https://osu.ppy.sh/beatmapsets/2261830#fruits) by [Rektydios](https://osu.ppy.sh/users/13645370)\
 165 BPM, 3:31 | 10.46★\
@@ -282,7 +282,7 @@ While USAO may need no introduction, welcome [Rektydios](https://osu.ppy.sh/user
 
 Enjoy.
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2107470.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2107470.jpg)](https://osu.ppy.sh/community/forums/topics/2132969)
 
 [Nekomata Master+ - Spiral2005](https://osu.ppy.sh/beatmapsets/2107470#fruits) by [Des9](https://osu.ppy.sh/users/5404711)\
 140 BPM, 3:08 | 6.90★\
@@ -292,7 +292,7 @@ Get yourself a drink and put on a smile for this one! [Des9](https://osu.ppy.sh/
 
 SIUUUUUUUUUUUUUUUUUUUUUU
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/34729.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/34729.jpg)](https://osu.ppy.sh/community/forums/topics/2132968)
 
 [YuFu - Holy Moon](https://osu.ppy.sh/beatmapsets/34729#fruits) by [Kuzino](https://osu.ppy.sh/users/158552)\
 162.14 BPM, 1:58 | 5.65★\
@@ -308,7 +308,7 @@ A few months later, *Holy Moon* would make an appearance in the Finals mappool o
 
 Now, in 2025, enough time has passed. With this map being now more iconic than when it failed the vote, we believe it deserves a second shot at the Loved category. So, what do you think? Cast your vote by clicking the banner!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/806903.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/806903.jpg)](https://osu.ppy.sh/community/forums/topics/2132967)
 
 [LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/806903#fruits) by [Sakary](https://osu.ppy.sh/users/2984583), [-Luminate](https://osu.ppy.sh/users/4778689), [CLSW](https://osu.ppy.sh/users/531253), [Nelly](https://osu.ppy.sh/users/4741164), [Phob](https://osu.ppy.sh/users/6069462), [Razor Sharp](https://osu.ppy.sh/users/3414261), and [Summerleopard](https://osu.ppy.sh/users/8437630)\
 250 BPM, 2:12 | 1.45★ – 7.59★\
@@ -337,7 +337,7 @@ The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/user
 
 ---
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2025428.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2025428.jpg)](https://osu.ppy.sh/community/forums/topics/2132966)
 
 [gingus - dont say "i can sample that" for 24 hours challenge](https://osu.ppy.sh/beatmapsets/2025428#mania) by [Promachos](https://osu.ppy.sh/users/14069486)\
 190 BPM, 2:51 | 3.58★, 3.58★\
@@ -353,7 +353,7 @@ Alright.
 
 Do YOU want to showcase this map at your local talent show? Please go ahead, vote 'Yes' in the associated thread and get this map to Lov— AGH
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1544189.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1544189.jpg)](https://osu.ppy.sh/community/forums/topics/2132965)
 
 [hugepulse - Swim in the sea of quarks](https://osu.ppy.sh/beatmapsets/1544189#mania) by [11Bit](https://osu.ppy.sh/users/14804526)\
 136.8 – 167.2 BPM, 2:04 | 5.60★, 5.87★, 6.14★, 6.39★, 6.65★\
@@ -367,7 +367,7 @@ Once the break section's finished, you are then greeted with 30 seconds of non-s
 
 [11Bit](https://osu.ppy.sh/users/14804526)'s charts have really a lot to display for players, giving for unique experiences all throughout. [Swim in the sea of quarks](https://osu.ppy.sh/beatmapsets/1544189#mania) really gives a perspective on how difficult their charts can be, and I can't wait to see how everyone performs on the different rates that are present in this chart. Let us explore the sea of quarks together, and vote "Yes" for this chart!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1849165.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1849165.jpg)](https://osu.ppy.sh/community/forums/topics/2132964)
 
 [HAARPER - DROP IT LIKE IT'S HOT! (Prod. Luga)](https://osu.ppy.sh/beatmapsets/1849165#mania) by [Jhown](https://osu.ppy.sh/users/14772488)\
 133.6 – 183.7 BPM, 2:45 | 6.08★ – 7.96★\
@@ -381,7 +381,7 @@ If 1.0x too fast, luckily, there are rates down to 0.8x. However, with how good 
 
 With how the limits of the chordjack skill set are being pushed, seeing charts like this really intrigues me due to the prospect of players scoring very high on them. Not only that, but this really is a showcase of [Jhown](https://osu.ppy.sh/users/14772488)'s charting, and with over 30,000 plays, there's definitely a demand for charts like these. If you agree, don't hesitate to vote "Yes", and give Jhown another step on the Loved stage!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1671838.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1671838.jpg)](https://osu.ppy.sh/community/forums/topics/2132963)
 
 [Camellia - INSANE INFLAME](https://osu.ppy.sh/beatmapsets/1671838#mania) by [0DZ0](https://osu.ppy.sh/users/28156707)\
 150 – 195 BPM, 2:47 | 4.48★ – 5.56★\
@@ -395,7 +395,7 @@ For a tech chart, practically everything you'd find in one is thrown at you, wit
 
 Overall, this serves as a great introduction to DZ's general approach to tech-y charts. Of course, there are always uprates for those who think 165 BPM longjacks are child's play. With that said and done, go vote!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1788538.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1788538.jpg)](https://osu.ppy.sh/community/forums/topics/2132962)
 
 [Chime - Rainbow Rave Parade](https://osu.ppy.sh/beatmapsets/1788538#mania) by [Amerom](https://osu.ppy.sh/users/5691061) and [Guilhermeziat](https://osu.ppy.sh/users/3661387)\
 150 BPM, 3:27 | 5.36★, 5.36★, 5.36★\
@@ -409,7 +409,7 @@ Despite how out of place that seems, it ends up playing absurdly well. A good po
 
 It's truly a challenge to explain just how unique this chart is. It's heavily, heavily recommended that you give it your vote in the thread, and give this one-of-a-kind chart the spotlight it deserves.
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1592955.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1592955.jpg)](https://osu.ppy.sh/community/forums/topics/2132961)
 
 [Moon Symphony - Regulus](https://osu.ppy.sh/beatmapsets/1592955#mania) by [Raveille](https://osu.ppy.sh/users/1388767)\
 212 BPM, 2:09 | 5.13★\
@@ -425,7 +425,7 @@ This map is also featured in [SOFT6](/wiki/Tournaments/SOFT/6) as LN1 in the Qua
 
 Lastly, please vote if you enjoy this poem and the poet of long notes!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1515336.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1515336.jpg)](https://osu.ppy.sh/community/forums/topics/2132960)
 
 [Bad Piggies - Bad Piggies Theme](https://osu.ppy.sh/beatmapsets/1515336#mania) by [JDS20](https://osu.ppy.sh/users/6864656)\
 156 – 220 BPM, 2:03 | 6.19★, 6.99★, 7.67★, 8.33★\
@@ -443,7 +443,7 @@ Brackets concentrated in one hand, brackets with multiple flows... BOOM!\
 Don't be startled by the sudden explosion sound!\
 And don't forget to cast a precious vote for this mapper making their first appearance in this beloved scene!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1680356.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1680356.jpg)](https://osu.ppy.sh/community/forums/topics/2132959)
 
 [Chinoi - Kyu-kurarin](https://osu.ppy.sh/beatmapsets/1680356#mania) by [ruka](https://osu.ppy.sh/users/6117525) and [Lung_P](https://osu.ppy.sh/users/8271308)\
 220 BPM, 3:34 | 6.25★, 8.15★\
@@ -455,7 +455,7 @@ In this map, [ruka](https://osu.ppy.sh/users/6117525) carefully emphasised and d
 
 If you enjoy this map, the song, or appreciate the structure and flow of its patterns, please consider voting 'Yes'!
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1388290.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1388290.jpg)](https://osu.ppy.sh/community/forums/topics/2132958)
 
 [ZUTOMAYO x YOASOBI x Yorushika - Byoushin o Kamu x Yoru ni Kakeru x Dakara Boku wa Ongaku o Yameta](https://osu.ppy.sh/beatmapsets/1388290#mania) by [arcwinolivirus](https://osu.ppy.sh/users/2039089)\
 130 BPM, 4:56 | 5.91★\
