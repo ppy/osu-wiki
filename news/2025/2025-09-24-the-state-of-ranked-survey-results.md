@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The State of Ranked: Survey Results"
-date: 2025-09-12 19:00:00 +0000
+date: 2025-09-24 19:00:00 +0000
 ---
 
 Vox populi, vox Dei.
