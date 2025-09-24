@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The State of Ranked: Results"
+title: "The State of Ranked: Survey Results"
 date: 2025-09-12 12:00:00 +0000
 ---
 
@@ -8,7 +8,7 @@ Vox populi, vox Dei.
 
 ![](/wiki/shared/news/banners/beatmap-management-v2.jpg)
 
-First things first, we want to thank everyone who took the time to participate in the survey. The gathered data has proven to be invaluable — not just to the Nomination Assessment Team, but the osu! team at large!
+First things first, we want to thank everyone who took the time to participate in the [survey back in June](https://osu.ppy.sh/home/news/2025-06-25-survey-the-state-of-ranked). The gathered data has proven to be invaluable — not just to the Nomination Assessment Team, but the osu! team at large!
 
 But first, let's put engagement into numbers. Here's a list with all (verified) participants per mode:
 
@@ -21,7 +21,7 @@ But first, let's put engagement into numbers. Here's a list with all (verified) 
 
 The following graphs were made using the raw data obtained from the form responses. While we tried highlighting the most interesting trends throughout each question's answers, it is virtually impossible to cram all numbers into a single news post. Therefore, if anyone is curious enough and wants to dive deeper into the data, you can find the raw results in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1ImI8ErcmQLWFN2RcDRSZOcIIu4s696bJMX5LD2kh9wY/view?rm=minimal).
 
-***Disclaimer:** For the purposes of this post, when making reference to a percentage in a pie chart, it is making explicit reference to osu!'s results. Therefore, any comparisons made between the other modes will be relative, whereas osu!'s data will be absolute.*
+**Note:** In this post, references to *percentages* in the *pie charts* relate to the results *across all game modes, combined*.
 
 With that out of the way, let's take a deep dive into the results' highlights!
 
@@ -35,15 +35,15 @@ Unsurprisingly, a substantial amount of players — **22% of respondents** — a
 
 That crown goes to the people who play to discover maps they find enjoyable, with **28% of responses** siding with this idea. In addition to the **20% of people** who enjoy discovering new songs (or songs they're already fond of), most users like to play the game to... just have fun!
 
-What took us by surprise is the rather low number of people interested in mapping or modding in the context of the Ranked section, with only **8% of responses** expressing explicit interest on the topic. This percentage is even lower in other modes.
+What took us by surprise is the rather low number of people interested in mapping or modding in the context of the Ranked section, with only **8% of all responses** expressing explicit interest on the topic. Breaking that down, the osu! mappers and modders make up the biggest percentage of their mode at 9% (632/7,398), osu!taiko at 3% (20/624), osu!catch at 6% (26/436) and osu!mania at 5% (90/1,972).
 
 ### Achieving goals
 
 ![](/wiki/shared/news/2025-09-12-the-state-of-ranked-results/bar-goals.png)
 
-Knowing what people's goals are is just half of the equation, however. What's really important is whether these goals are being realized in a satisfactory manner. All in all, we can see that the number of satisfied users is split somewhat evenly between all modes. More notably, osu!catch has a fairly noticeable users satisfied with meeting their goals as opposed to other modes!
+Knowing what people's goals are is just half of the equation, however. What's really important is whether these goals are being realised in a satisfactory manner. All in all, we can see that the number of satisfied users is split somewhat evenly between all modes. More notably, osu!catch has a fairly noticeable amount of users satisfied with meeting their goals as opposed to other modes!
 
-Everyone else sits mostly around 7 or 8, especially in osu! as seen by the pink bars. Those two alone make up up to **40% of responses** together. These results seem to suggest that Ranked has a purpose in many people's eyes. And while that currently does not seem to be the case for everyone, it's a good sign that we're on the right track — just not there yet!
+Everyone else sits mostly around 7 or 8, especially in osu! as seen by the pink bars. Those two alone make up for **37% of all responders**. These results seem to suggest that Ranked has a purpose in many people's eyes. And while that currently does not seem to be the case for everyone, it's a good sign that we're on the right track — just not there yet!
 
 ### The quality of the section
 
@@ -53,7 +53,7 @@ Quality has always been a point of contention between users in the community. Th
 
 With that said, we noticed there was quite the split in opinions between osu! and the rest of modes when asking such a question. While responses between osu!taiko, osu!catch, and osu!mania remained more or less balanced, osu! was the only mode with a disproportionate amount of players claiming that the section's quality has decreased over the past few years. Moreover, game modes other than osu! seemed to boast of a newer player base as many users claimed not to be keeping up with beatmaps from previous years.
 
-Respondents active in osu!, however, seem to be more pessimistic with an almost even split between those who believe the section's quality hasn't changed (**31%**), and those who think it has declined (**28%**). osu!mania players remain the most optimistic, being the group with the highest percentage of people who think the Ranked section has improved, even if just a bit!
+Respondents active in osu!, however, seem to be more pessimistic with 2/3 of respondents either believing that the section's quality hasn't changed or that it has declined. osu!mania players remain the most optimistic, being the group with the highest percentage of people who think the Ranked section has improved, even if just a bit!
 
 And speaking of quality...
 
@@ -73,7 +73,7 @@ All in all, most users showed to be in favour of increasing quality enforcement 
 
 While the distribution across all modes seem to be all above average, it is worth noting that osu! in particular has the least amount of players who are enjoying the quality of newly ranked maps. This is easily seen by the sharp decrease of votes between 8 and 10, while having a noticeable increase between 3 and 4 when comparing to other modes.
 
-All in all, the reception of newly ranked maps is mostly positive all across the board, with most of the votes landing between 7 and 8, with around **~40% of responses** falling between these numbers in the scale. Currently, the only conclusion we can draw is that the feeling towards newly ranked maps is mostly positive, but not overwhelmingly so.
+All in all, the reception of newly ranked maps is mostly positive all across the board, with most of the votes landing between 7 and 8, which together make up **42% of responses**. Currently, the only conclusion we can draw is that the feeling towards newly ranked maps is mostly positive, but not overwhelmingly so.
 
 ### Ranked map amount
 
@@ -81,11 +81,11 @@ All in all, the reception of newly ranked maps is mostly positive all across the
 
 Lastly, we got a lighter topic to cover: the amount of Ranked maps getting ranked every day. Following similar trends with the previous graphs, osu!taiko, osu!catch, and osu!mania players seem to be on the same page for the most part, with a substantial amount of users claiming that the number of Ranked maps is too low. If anything, they seem to be in favour of getting a higher number of maps, with osu!catch players taking the lead by quite the margin! Despite that, the majority of users across all modes remained neutral towards the question, not taking any sides.
 
-osu! is yet again the outlier here. Being the only game mode whose [beatmap ranking queue](/wiki/beatmap_ranking_procedure/ranking_queue) is almost always full, when compared to other modes they had one of the highest percentages of users claiming that the amount of maps being ranked every day was too high with a **7% of users** siding with that claim. Only **18% of osu! players** claimed that the amount was too low.
+osu! is yet again the outlier here. Being the only game mode where the [beatmap ranking queue](/wiki/beatmap_ranking_procedure/ranking_queue) is almost always full, when compared to other modes they had the highest percentage of users claiming that the amount of maps being ranked every day is too high, as well as the lowest percentage of people who thought the amount is too low.
 
-However, the remaining 75% of players either believe that the current amount of maps is of their liking (**26%**), or remain neutral to the amount of maps being ranked altogether (**49%**).
+However, the remaining 75% of players (of all game modes) either believe that the current amount of maps is of their liking (**26%**), or remain neutral to the amount of maps being ranked altogether (**49%**).
 
-What caught our attention the most out of these numbers (particularly in osu!) was the difference in written opinions across different forum posts, comments, and discussions, and the poll's results. While there was a very vocal group of people who claimed that the high amount of maps being ranked was harming the section, some respondents felt like this was not an issue whatsoever.
+What caught our attention the most out of these numbers (particularly in osu!) was the difference between written opinions across different forum posts, comments, and discussions, and the poll's results. While there was a very vocal group of people who claimed that the high amount of maps being ranked was harming the Ranked section, most of the non-neutral responses indicate that the amount of maps is either good as is or too low.
 
 ## Glossing over the comments
 
@@ -113,7 +113,7 @@ What caught our attention the most out of these numbers (particularly in osu!) w
     }
 </style>
 
-Beyond the numerical results we've been able to extract from the survey, there have been a myriad of comments and opinions thrown around that we believe are worth looking into. While the team will take a deeper look into these as we discuss future changes, we wanted to highlight a handful of comments coming from different groups of interest!
+Beyond the numerical results we've been able to extract from the survey, there have been a myriad of comments and opinions in the free-form questions of the survey that we believe are worth looking into. While the team will take a deeper look into these as we discuss future changes, we wanted to highlight a handful of comments coming from different groups of interest!
 
 ### The Nomination Assessment Team
 
@@ -227,9 +227,9 @@ Beyond the numerical results we've been able to extract from the survey, there h
 
 To say that this data is valuable to us would be an understatement. Being able to put the community's opinion into numbers, and being able to compare and contrast these results with more empirical data and observations throughout several community discussions is of great help.
 
-For one, it lets us know what the community is most interested in, and between those groups who are usually the most vocal towards certain changes. Most importantly, it unfortunately also means that satisfying everyone's needs is out of the question. As such, we need to act with the utmost care and consideration when pushing new ideas forward.
+For one, it lets us know what the entire community is most interested in, beyond the direct feedback we get from the vocal few. Most importantly, it unfortunately also means that satisfying everyone's needs is out of the question. As such, we need to act with the utmost care and consideration when pushing new ideas forward.
 
-We do hope that with these results being public, users get to understand the vast amount of different — and sometimes equal in weight — opinions this game has to offer. We also want to encourage users to draw their own conclusions from the [results](https://docs.google.com/spreadsheets/d/1ImI8ErcmQLWFN2RcDRSZOcIIu4s696bJMX5LD2kh9wY/view?rm=minimal)!
+We do hope that with these results being public, people get to understand the vast amount of different opinions this game has to offer. We also want to encourage users to draw their own conclusions from the [full (anonymised) results data](https://docs.google.com/spreadsheets/d/1ImI8ErcmQLWFN2RcDRSZOcIIu4s696bJMX5LD2kh9wY/view?rm=minimal)!
 
 Most importantly, we want to make clear that these results are **not binding**. While they will help us steer the ship towards more widely accepted changes, this does not mean that the team will only care about the majority of users while leaving the rest of the community stranded.
 
