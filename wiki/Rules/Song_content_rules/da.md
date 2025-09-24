@@ -23,7 +23,7 @@ Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er stre
 
 Hvert map, der indeholder en forbudt sang, vil blive fjernet fra hjemmesiden.
 
-Hver gang en af dine indsendelser bliver fjernet, får du en forklaring af det medlem af [Nomination Assessment Teamet](/wiki/People/Nomination_Assessment_Team) (NAT) eller [Global Moderation Teamet](/wiki/People/Global_Moderation_Team) (GMT), der er ansvarlig for fjernelsen, sammen med en begrundelse for fjernelsen.
+Hver gang en af dine indsendelser bliver fjernet, får du en forklaring af det medlem af [Nominationsvurderingsholdet](/wiki/People/Nomination_Assessment_Team) (NAT) eller [Det Globale Moderationshold](/wiki/People/Global_Moderation_Team) (GMT), der er ansvarlig for fjernelsen, sammen med en begrundelse for fjernelsen.
 
 Du kan anke beslutningen med dem gennem direkte beskeder hvis du vil, eller spørge andre om deres meninger for at begrunde din påstand om sangens egnethed. Hvis I stadig ikke kan enes om, hvorvidt sangen er passende, kan din påstand eskaleres til en afstemning af de nuværende NAT-medlemmer, der kollektivt beslutter hvorvidt sangen er acceptabel eller ej.
 

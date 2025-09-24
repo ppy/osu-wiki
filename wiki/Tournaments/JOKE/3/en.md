@@ -264,110 +264,110 @@ This competition has come to an end and resulted in the following podium:
 Sunday, 17 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| \[LS\]Ham ::{ flag=US }:: | 0 | **7** | ::{ flag=JP }:: **hz404** | [#1](https://osu.ppy.sh/community/matches/111762053) |
-| **Grape_Tea** ::{ flag=JP }:: | **7** | 3 | ::{ flag=JP }:: hz404 | [#1](https://osu.ppy.sh/community/matches/111768121) |
+| --: | :-: | :-: | :-- | :-: |
+| \[LS\]Ham ::{ flag=US }:: | 0 | **7** | ::{ flag=JP }:: **hz404** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111762053) |
+| **Grape_Tea** ::{ flag=JP }:: | **7** | 3 | ::{ flag=JP }:: hz404 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111768121) |
 
 ### Finals
 
 Saturday, 9 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **hz404** ::{ flag=JP }:: | **6** | 1 | ::{ flag=ID }:: XK2238 | [#1](https://osu.ppy.sh/community/matches/111637611) |
-| dectopia ::{ flag=JP }:: | 0 | **6** | ::{ flag=DE }:: **ERA Punish** | [#1](https://osu.ppy.sh/community/matches/111643002) |
+| --: | :-: | :-: | :-- | :-: |
+| **hz404** ::{ flag=JP }:: | **6** | 1 | ::{ flag=ID }:: XK2238 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111637611) |
+| dectopia ::{ flag=JP }:: | 0 | **6** | ::{ flag=DE }:: **ERA Punish** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111643002) |
 
 Sunday, 10 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **hz404** ::{ flag=JP }:: | **6** | 2 | ::{ flag=DE }:: ERA Punish | [#1](https://osu.ppy.sh/community/matches/111661963) |
+| --: | :-: | :-: | :-- | :-: |
+| **hz404** ::{ flag=JP }:: | **6** | 2 | ::{ flag=DE }:: ERA Punish | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111661963) |
 
 Tuesday, 12 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| \[LS\]Ham ::{ flag=US }:: | 2 | **6** | ::{ flag=JP }:: **Grape_Tea** | [#1](https://osu.ppy.sh/community/matches/111685440) |
+| --: | :-: | :-: | :-- | :-: |
+| \[LS\]Ham ::{ flag=US }:: | 2 | **6** | ::{ flag=JP }:: **Grape_Tea** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111685440) |
 
 ### Semifinals
 
 Saturday, 2 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Teezel ::{ flag=GB }:: | 0 | **6** | ::{ flag=DE }:: **ERA Punish** | [#1](https://osu.ppy.sh/community/matches/111537802) |
-| Adri ::{ flag=FR }:: | 0 | **6** | ::{ flag=ID }:: **XK2238** | [#1](https://osu.ppy.sh/community/matches/111544915) |
+| --: | :-: | :-: | :-- | :-: |
+| Teezel ::{ flag=GB }:: | 0 | **6** | ::{ flag=DE }:: **ERA Punish** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111537802) |
+| Adri ::{ flag=FR }:: | 0 | **6** | ::{ flag=ID }:: **XK2238** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111544915) |
 
 Sunday, 3 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Brasil** ::{ flag=BR }:: | **6** | 4 | ::{ flag=US }:: Sparky | [#1](https://osu.ppy.sh/community/matches/111552052) |
-| **ForestMastr** ::{ flag=US }:: | **6** | 3 | ::{ flag=US }:: Jakson | [#1](https://osu.ppy.sh/community/matches/111552039) |
-| **\[LS\]Ham** ::{ flag=US }:: | **6** | 3 | ::{ flag=JP }:: dectopia | [#1](https://osu.ppy.sh/community/matches/111555619) |
-| **XK2238** ::{ flag=ID }:: | **6** | 4 | ::{ flag=US }:: ForestMastr | [#1](https://osu.ppy.sh/community/matches/111555628) |
-| **Grape_Tea** ::{ flag=JP }:: | **6** | 4 | ::{ flag=JP }:: hz404 | [#1](https://osu.ppy.sh/community/matches/111559366) |
-| **ERA Punish** ::{ flag=DE }:: | **6** | 1 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/111566180) |
+| --: | :-: | :-: | :-- | :-: |
+| **Brasil** ::{ flag=BR }:: | **6** | 4 | ::{ flag=US }:: Sparky | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111552052) |
+| **ForestMastr** ::{ flag=US }:: | **6** | 3 | ::{ flag=US }:: Jakson | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111552039) |
+| **\[LS\]Ham** ::{ flag=US }:: | **6** | 3 | ::{ flag=JP }:: dectopia | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111555619) |
+| **XK2238** ::{ flag=ID }:: | **6** | 4 | ::{ flag=US }:: ForestMastr | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111555628) |
+| **Grape_Tea** ::{ flag=JP }:: | **6** | 4 | ::{ flag=JP }:: hz404 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111559366) |
+| **ERA Punish** ::{ flag=DE }:: | **6** | 1 | ::{ flag=BR }:: Brasil | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111566180) |
 
 ### Quarterfinals
 
 Saturday, 25 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Grape_Tea** ::{ flag=JP }:: | **5** | 0 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/111444635) |
+| --: | :-: | :-: | :-- | :-: |
+| **Grape_Tea** ::{ flag=JP }:: | **5** | 0 | ::{ flag=BR }:: Brasil | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111444635) |
 | **XK2238** ::{ flag=ID }:: | **5** | 0 | ::{ flag=US }:: Backfire | *win by default* |
-| D3kuu ::{ flag=IT }:: | 4 | **5** | ::{ flag=US }:: **Jakson** | [#1](https://osu.ppy.sh/community/matches/111449937) |
+| D3kuu ::{ flag=IT }:: | 4 | **5** | ::{ flag=US }:: **Jakson** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111449937) |
 | **ERA Punish** ::{ flag=DE }:: | **5** | 0 | ::{ flag=CL }:: -Kori | *win by default* |
 | SillyFangirl ::{ flag=BR }:: | 0 | **5** | ::{ flag=GB }:: **MiniEgg_23** | *win by default* |
-| **Sparky** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: DimplesRMe | [#1](https://osu.ppy.sh/community/matches/111454147) |
+| **Sparky** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: DimplesRMe | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111454147) |
 
 Sunday, 26 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Blobby3000** ::{ flag=AU }:: | **5** | 0 | ::{ flag=US }:: Delta386 | [#1](https://osu.ppy.sh/community/matches/111457113) |
+| --: | :-: | :-: | :-- | :-: |
+| **Blobby3000** ::{ flag=AU }:: | **5** | 0 | ::{ flag=US }:: Delta386 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111457113) |
 | Maimaing ::{ flag=JP }:: | 0 | **5** | ::{ flag=US }:: **cyger** | *win by default* |
-| Blobby3000 ::{ flag=AU }:: | 4 | **5** | ::{ flag=US }:: **Sparky** | [#1](https://osu.ppy.sh/community/matches/111457551) |
-| cyger ::{ flag=US }:: | 0 | **5** | ::{ flag=ID }:: **XK2238** | [#1](https://osu.ppy.sh/community/matches/111458916) |
-| **hz404** ::{ flag=JP }:: | **5** | 1 | ::{ flag=GB }:: Teezel | [#1](https://osu.ppy.sh/community/matches/111462054) |
-| Adri ::{ flag=FR }:: | 1 | **5** | ::{ flag=JP }:: **dectopia** | [#1](https://osu.ppy.sh/community/matches/111464839) |
-| **ERA Punish** ::{ flag=DE }:: | **5** | 0 | ::{ flag=GB }:: MiniEgg_23 | [#1](https://osu.ppy.sh/community/matches/111465667) |
-| **BugsLife** ::{ flag=US }:: | **5** | 4 | ::{ flag=CA }:: Nathan7978 | [#1](https://osu.ppy.sh/community/matches/111467395) |
-| **\[LS\]Ham** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: ForestMastr | [#1](https://osu.ppy.sh/community/matches/111468310) |
-| **Jakson** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: BugsLife | [#1](https://osu.ppy.sh/community/matches/111469434) |
+| Blobby3000 ::{ flag=AU }:: | 4 | **5** | ::{ flag=US }:: **Sparky** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111457551) |
+| cyger ::{ flag=US }:: | 0 | **5** | ::{ flag=ID }:: **XK2238** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111458916) |
+| **hz404** ::{ flag=JP }:: | **5** | 1 | ::{ flag=GB }:: Teezel | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111462054) |
+| Adri ::{ flag=FR }:: | 1 | **5** | ::{ flag=JP }:: **dectopia** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111464839) |
+| **ERA Punish** ::{ flag=DE }:: | **5** | 0 | ::{ flag=GB }:: MiniEgg_23 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111465667) |
+| **BugsLife** ::{ flag=US }:: | **5** | 4 | ::{ flag=CA }:: Nathan7978 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111467395) |
+| **\[LS\]Ham** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: ForestMastr | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111468310) |
+| **Jakson** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: BugsLife | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111469434) |
 
 ### Round of 16
 
 Saturday, 18 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | **hz404** ::{ flag=JP }:: | **5** | 0 | ::{ flag=ID }:: XK2238 | *win by default* |
-| **MiniEgg_23** ::{ flag=GB }:: | **5** | 1 | ::{ flag=DE }:: ERA Sirbeyy | [#1](https://osu.ppy.sh/community/matches/111349866) |
-| **Backfire** ::{ flag=US }:: | **5** | 3 | ::{ flag=ID }:: Xicyte | [#1](https://osu.ppy.sh/community/matches/111350614) |
-| ERA Punish ::{ flag=DE }:: | 3 | **5** | ::{ flag=JP }:: **dectopia** | [#1](https://osu.ppy.sh/community/matches/111351646) |
-| **Nathan7978** ::{ flag=CA }:: | **5** | 1 | ::{ flag=TH }:: ZeroKungz | [#1](https://osu.ppy.sh/community/matches/111352247) |
+| **MiniEgg_23** ::{ flag=GB }:: | **5** | 1 | ::{ flag=DE }:: ERA Sirbeyy | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111349866) |
+| **Backfire** ::{ flag=US }:: | **5** | 3 | ::{ flag=ID }:: Xicyte | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111350614) |
+| ERA Punish ::{ flag=DE }:: | 3 | **5** | ::{ flag=JP }:: **dectopia** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111351646) |
+| **Nathan7978** ::{ flag=CA }:: | **5** | 1 | ::{ flag=TH }:: ZeroKungz | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111352247) |
 | happergamer ::{ flag=MX }:: | 0 | **5** | ::{ flag=US }:: **cyger** | *win by default* |
-| **\[LS\]Ham** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Sparky | [#1](https://osu.ppy.sh/community/matches/111357776) |
-| Pluko ::{ flag=BR }:: | 2 | **5** | ::{ flag=CA }:: **DimplesRMe** | [#1](https://osu.ppy.sh/community/matches/111358937) |
+| **\[LS\]Ham** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Sparky | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111357776) |
+| Pluko ::{ flag=BR }:: | 2 | **5** | ::{ flag=CA }:: **DimplesRMe** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111358937) |
 
 Sunday, 19 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Brasil** ::{ flag=BR }:: | **5** | 4 | ::{ flag=IT }:: D3kuu | [#1](https://osu.ppy.sh/community/matches/111360115) |
-| DaMeMeThEiFxD ::{ flag=PH }:: | 0 | **5** | ::{ flag=US }:: **Delta386** | [#1](https://osu.ppy.sh/community/matches/111362888) |
-| **ForestMastr** ::{ flag=US }:: | **5** | 1 | ::{ flag=AU }:: Blobby3000 | [#1](https://osu.ppy.sh/community/matches/111363345) |
-| **Grape_Tea** ::{ flag=JP }:: | **5** | 0 | ::{ flag=US }:: BugsLife | [#1](https://osu.ppy.sh/community/matches/111366413) |
-| **Teezel** ::{ flag=GB }:: | **5** | 3 | ::{ flag=JP }:: Maimaing | [#1](https://osu.ppy.sh/community/matches/111368070) |
+| --: | :-: | :-: | :-- | :-: |
+| **Brasil** ::{ flag=BR }:: | **5** | 4 | ::{ flag=IT }:: D3kuu | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111360115) |
+| DaMeMeThEiFxD ::{ flag=PH }:: | 0 | **5** | ::{ flag=US }:: **Delta386** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111362888) |
+| **ForestMastr** ::{ flag=US }:: | **5** | 1 | ::{ flag=AU }:: Blobby3000 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111363345) |
+| **Grape_Tea** ::{ flag=JP }:: | **5** | 0 | ::{ flag=US }:: BugsLife | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111366413) |
+| **Teezel** ::{ flag=GB }:: | **5** | 3 | ::{ flag=JP }:: Maimaing | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111368070) |
 | SillyFangirl ::{ flag=BR }:: | 0 | **5** | ::{ flag=FR }:: **Adri** | *win by default* |
-| --Dragon-- ::{ flag=GB }:: | 0 | **5** | ::{ flag=US }:: **Jakson** | [#1](https://osu.ppy.sh/community/matches/111371104) |
+| --Dragon-- ::{ flag=GB }:: | 0 | **5** | ::{ flag=US }:: **Jakson** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111371104) |
 
 Monday, 20 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | APRL03 ::{ flag=AR }:: | 0 | **5** | ::{ flag=CL }:: **-Kori** | *win by default* |
 
 ### Round of 32
@@ -375,28 +375,28 @@ Monday, 20 November 2023:
 Saturday, 11 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | **Blobby3000** ::{ flag=AU }:: | **4** | 0 | ::{ flag=ID }:: Xicyte | *win by default* |
-| ZeroKungz ::{ flag=TH }:: | 1 | **4** | ::{ flag=JP }:: **dectopia** | [#1](https://osu.ppy.sh/community/matches/111257044) |
-| **ERA Punish** ::{ flag=DE }:: | **4** | 0 | ::{ flag=CA }:: Nathan7978 | [#1](https://osu.ppy.sh/community/matches/111258961) |
+| ZeroKungz ::{ flag=TH }:: | 1 | **4** | ::{ flag=JP }:: **dectopia** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111257044) |
+| **ERA Punish** ::{ flag=DE }:: | **4** | 0 | ::{ flag=CA }:: Nathan7978 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111258961) |
 | **Adri** ::{ flag=FR }:: | **4** | 0 | ::{ flag=US }:: Jakson | *win by default* |
-| **Sparky** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: cyger | [#1](https://osu.ppy.sh/community/matches/111263102) |
-| **\[LS\]Ham** ::{ flag=US }:: | **4** | 0 | ::{ flag=MX }:: happergamer | [#1](https://osu.ppy.sh/community/matches/111265946) |
+| **Sparky** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: cyger | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111263102) |
+| **\[LS\]Ham** ::{ flag=US }:: | **4** | 0 | ::{ flag=MX }:: happergamer | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111265946) |
 
 Sunday, 12 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Grape_Tea** ::{ flag=JP }:: | **4** | 0 | ::{ flag=AR }:: APRL03 | [#1](https://osu.ppy.sh/community/matches/111267577) |
-| **Maimaing** ::{ flag=JP }:: | **4** | 2 | ::{ flag=CA }:: DimplesRMe | [#1](https://osu.ppy.sh/community/matches/111268746) |
-| **hz404** ::{ flag=JP }:: | **4** | 0 | ::{ flag=PH }:: DaMeMeThEiFxD | [#1](https://osu.ppy.sh/community/matches/111269273) |
-| Backfire ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **ForestMastr** | [#1](https://osu.ppy.sh/community/matches/111269318) |
-| **D3kuu** ::{ flag=IT }:: | **4** | 1 | ::{ flag=DE }:: ERA Sirbeyy | [#1](https://osu.ppy.sh/community/matches/111274175) |
-| **XK2238** ::{ flag=ID }:: | **4** | 2 | ::{ flag=US }:: Delta386 | [#1](https://osu.ppy.sh/community/matches/111275258) |
-| **SillyFangirl** ::{ flag=BR }:: | **4** | 0 | ::{ flag=GB }:: --Dragon-- | [#1](https://osu.ppy.sh/community/matches/111276044) |
-| **BugsLife** ::{ flag=US }:: | **4** | 1 | ::{ flag=CL }:: -Kori | [#1](https://osu.ppy.sh/community/matches/111277844) |
-| **Brasil** ::{ flag=BR }:: | **4** | 1 | ::{ flag=GB }:: MiniEgg_23 | [#1](https://osu.ppy.sh/community/matches/111277845) |
-| **Teezel** ::{ flag=GB }:: | **4** | 1 | ::{ flag=BR }:: Pluko | [#1](https://osu.ppy.sh/community/matches/111277846) |
+| --: | :-: | :-: | :-- | :-: |
+| **Grape_Tea** ::{ flag=JP }:: | **4** | 0 | ::{ flag=AR }:: APRL03 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111267577) |
+| **Maimaing** ::{ flag=JP }:: | **4** | 2 | ::{ flag=CA }:: DimplesRMe | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111268746) |
+| **hz404** ::{ flag=JP }:: | **4** | 0 | ::{ flag=PH }:: DaMeMeThEiFxD | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111269273) |
+| Backfire ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **ForestMastr** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111269318) |
+| **D3kuu** ::{ flag=IT }:: | **4** | 1 | ::{ flag=DE }:: ERA Sirbeyy | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111274175) |
+| **XK2238** ::{ flag=ID }:: | **4** | 2 | ::{ flag=US }:: Delta386 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111275258) |
+| **SillyFangirl** ::{ flag=BR }:: | **4** | 0 | ::{ flag=GB }:: --Dragon-- | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111276044) |
+| **BugsLife** ::{ flag=US }:: | **4** | 1 | ::{ flag=CL }:: -Kori | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111277844) |
+| **Brasil** ::{ flag=BR }:: | **4** | 1 | ::{ flag=GB }:: MiniEgg_23 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111277845) |
+| **Teezel** ::{ flag=GB }:: | **4** | 1 | ::{ flag=BR }:: Pluko | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111277846) |
 
 ### Qualifiers
 
