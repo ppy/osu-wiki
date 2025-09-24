@@ -39,4 +39,4 @@ As upppy relied upon [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Fl
 ## References
 
 [^upppy-launch-date-ref]: [Tweet by peppy (2014-10-21)](https://twitter.com/ppy/status/524379301731237888): "*@ohshititstechno osu!. although upppy came earlier than osu! (march 2007 according to archive.org)*"
-[^upppy-launch-date-ref]: [Forum post by Sinistro (2008-04-30)](https://osu.ppy.sh/community/forums/topics/2974): "*If you want to share a file with the osu! community, forget about depositing it on Rapidshare, Megaupload, ImageShack and the like — put it on upppy and everyone's happy!*"
+[^upppy-image-hosting-ref]: [Forum post by Sinistro (2008-04-30)](https://osu.ppy.sh/community/forums/topics/2974): "*If you want to share a file with the osu! community, forget about depositing it on Rapidshare, Megaupload, ImageShack and the like — put it on upppy and everyone's happy!*"
