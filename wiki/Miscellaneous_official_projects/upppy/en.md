@@ -30,7 +30,7 @@ The service didn't require any registration to use and allowed for everyone to u
    - `#video`
    - `#wallpaper`
 
-Once a file was posted into the website, it became a permanent part of the platform and couldn't be deleted or edited by the uploader. However, much like on [Reddit](/wiki/Community/Reddit), these posts could still receive comments and be upvoted/downvoted by other users.
+Once a file was posted, it became a permanent part of the platform and couldn't be deleted or edited by the uploader. However, much like on [Reddit](/wiki/Community/Reddit), these posts could still receive comments and be upvoted/downvoted by other users.
 
 ## Decommissioning
 
