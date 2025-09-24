@@ -17,7 +17,7 @@ tags:
 
 upppy was created as a free, lightweight alternative to proprietary image hosting services such as Rapidshare or ImageShack.[^upppy-image-hosting-ref]
 
-The service didn't require any registration to use and allowed for everyone to upload any file (within its Terms of Service) anonymously. Similar to certain [imageboard sites](https://en.wikipedia.org/wiki/Imageboard), upon uploading a file, users were given a choice as to whether to post their file in the default, catch-all working channel (`#random`) or in the one of the more specific channels as follows:
+The service did not require any registration to use and allowed anyone to upload files anonymously within its Terms of Service. Similar to certain [imageboard sites](https://en.wikipedia.org/wiki/Imageboard), upon uploading a file, users were given a choice as to whether to post the upload in the default, catch-all working channel (`#random`), or in one of more specific channels:
 
    - `#anime`
    - `#game`
@@ -30,11 +30,11 @@ The service didn't require any registration to use and allowed for everyone to u
    - `#video`
    - `#wallpaper`
 
-Once a file was posted, it became a permanent part of the platform and couldn't be deleted or edited by the uploader. However, much like on [Reddit](/wiki/Community/Reddit), these posts could still receive comments and be upvoted/downvoted by other users.
+Once a file was posted, it became a permanent part of the platform and could not be deleted or edited by the uploader. However, much like on [Reddit](/wiki/Community/Reddit), these posts could still receive comments and be upvoted/downvoted by other users.
 
 ## Decommissioning
 
-As upppy relied upon [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player) to upload user files, the upppy website was effectively rendered read-only starting from December 31, 2020 when [Adobe Flash Player was officially shut down](https://www.adobe.com/id_en/products/flashplayer/end-of-life-alternative.html). Sometime in early 2025, the entire website was taken down completely, leaving only an error page when accessed.
+As upppy used [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player) in the file upload form, it was effectively rendered read-only starting from December 31, 2020 when [Adobe Flash Player was officially shut down](https://www.adobe.com/id_en/products/flashplayer/end-of-life-alternative.html). Sometime in early 2025, the entire website was taken down completely, leaving only an error page when accessed.
 
 ## References
 
