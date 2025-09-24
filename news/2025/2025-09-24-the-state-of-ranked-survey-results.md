@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The State of Ranked: Survey Results"
-date: 2025-09-12 12:00:00 +0000
+date: 2025-09-12 19:00:00 +0000
 ---
 
 Vox populi, vox Dei.
@@ -27,7 +27,7 @@ With that out of the way, let's take a deep dive into the results' highlights!
 
 ### The community's main drives
 
-![](/wiki/shared/news/2025-09-12-the-state-of-ranked-results/pie-main-drive.png)
+![](/wiki/shared/news/2025-09-24-the-state-of-ranked-survey-results/pie-main-drive.png)
 
 For many people in the team, this was one of the most important questions to be answered. osu! is built by and *for* the community. Therefore, it is really important we always try to meet most of the community's needs. While it is impossible to appeal to everyone, knowing what the community is most interested in is a very good start!
 
@@ -39,7 +39,7 @@ What took us by surprise is the rather low number of people interested in mappin
 
 ### Achieving goals
 
-![](/wiki/shared/news/2025-09-12-the-state-of-ranked-results/bar-goals.png)
+![](/wiki/shared/news/2025-09-24-the-state-of-ranked-survey-results/bar-goals.png)
 
 Knowing what people's goals are is just half of the equation, however. What's really important is whether these goals are being realised in a satisfactory manner. All in all, we can see that the number of satisfied users is split somewhat evenly between all modes. More notably, osu!catch has a fairly noticeable amount of users satisfied with meeting their goals as opposed to other modes!
 
@@ -47,7 +47,7 @@ Everyone else sits mostly around 7 or 8, especially in osu! as seen by the pink 
 
 ### The quality of the section
 
-![](/wiki/shared/news/2025-09-12-the-state-of-ranked-results/pie-quality.png)
+![](/wiki/shared/news/2025-09-24-the-state-of-ranked-survey-results/pie-quality.png)
 
 Quality has always been a point of contention between users in the community. The fact that people interpret quality in different ways does not help, although that was to be expected of course. In the same way people find fun in different ways, so will their tastes differ!
 
@@ -59,7 +59,7 @@ And speaking of quality...
 
 ### Quality enforcement
 
-![](/wiki/shared/news/2025-09-12-the-state-of-ranked-results/pie-enforcement.png)
+![](/wiki/shared/news/2025-09-24-the-state-of-ranked-survey-results/pie-enforcement.png)
 
 While the previous graph wasn't as clear-cut, users seemed to be more vocal about the current enforcement standards of the Ranked section. Almost half of responses — around **46%** — believe that quality should be enforced more thoroughly.
 
@@ -69,7 +69,7 @@ All in all, most users showed to be in favour of increasing quality enforcement 
 
 ### Quality of newly ranked maps
 
-![](/wiki/shared/news/2025-09-12-the-state-of-ranked-results/bar-quality.png)
+![](/wiki/shared/news/2025-09-24-the-state-of-ranked-survey-results/bar-quality.png)
 
 While the distribution across all modes seem to be all above average, it is worth noting that osu! in particular has the least amount of players who are enjoying the quality of newly ranked maps. This is easily seen by the sharp decrease of votes between 8 and 10, while having a noticeable increase between 3 and 4 when comparing to other modes.
 
@@ -77,7 +77,7 @@ All in all, the reception of newly ranked maps is mostly positive all across the
 
 ### Ranked map amount
 
-![](/wiki/shared/news/2025-09-12-the-state-of-ranked-results/pie-influx.png)
+![](/wiki/shared/news/2025-09-24-the-state-of-ranked-survey-results/pie-influx.png)
 
 Lastly, we got a lighter topic to cover: the amount of Ranked maps getting ranked every day. Following similar trends with the previous graphs, osu!taiko, osu!catch, and osu!mania players seem to be on the same page for the most part, with a substantial amount of users claiming that the number of Ranked maps is too low. If anything, they seem to be in favour of getting a higher number of maps, with osu!catch players taking the lead by quite the margin! Despite that, the majority of users across all modes remained neutral towards the question, not taking any sides.
 
