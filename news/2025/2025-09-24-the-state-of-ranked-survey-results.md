@@ -21,7 +21,7 @@ But first, let's put engagement into numbers. Here's a list with all (verified) 
 
 The following graphs were made using the raw data obtained from the form responses. While we tried highlighting the most interesting trends throughout each question's answers, it is virtually impossible to cram all numbers into a single news post. Therefore, if anyone is curious enough and wants to dive deeper into the data, you can find the raw results in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1ImI8ErcmQLWFN2RcDRSZOcIIu4s696bJMX5LD2kh9wY/view?rm=minimal).
 
-**Note:** In this post, references to *percentages* in the *pie charts* relate to the results *across all game modes, combined*.
+**Note:** All *percentages* in the *pie charts* relate to the results *across all game modes, combined*.
 
 With that out of the way, let's take a deep dive into the results' highlights!
 
