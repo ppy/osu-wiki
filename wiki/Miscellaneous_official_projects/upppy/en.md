@@ -11,7 +11,7 @@ tags:
 ![Snapshot of the up.ppy.sh page](img/upppyScreenshot.png "Snapshot of the upppy website, as taken in 2023 by the Internet Archive")
 :::
 
-**up.ppy.sh**, often referred to as **upppy**, was a file uploading service ran and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). It was first established in March 2007, predating osu! itself[^upppy-launch-date-ref], and was mainly used to share images and files within the osu! community.
+**up.ppy.sh**, often referred to as **upppy**, was a file uploading service ran and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). It was first established in January 2007, predating osu! itself[^upppy-launch-date-ref], and was mainly used to share images and files within the osu! community.
 
 ## Service
 
@@ -38,5 +38,5 @@ As upppy relied upon [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Fl
 
 ## References
 
-[^upppy-launch-date-ref]: [Tweet by peppy (2014-10-21)](https://twitter.com/ppy/status/524379301731237888): "*@ohshititstechno osu!. although upppy came earlier than osu! (march 2007 according to archive.org)*"
+[^upppy-launch-date-ref]: [Blog post by peppy (2007-01-13)](https://pe.ppy.sh/2007/01/193/): *"upppy公開*"
 [^upppy-image-hosting-ref]: [Forum post by Sinistro (2008-04-30)](https://osu.ppy.sh/community/forums/topics/2974): "*If you want to share a file with the osu! community, forget about depositing it on Rapidshare, Megaupload, ImageShack and the like — put it on upppy and everyone's happy!*"
