@@ -54,7 +54,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 
 - **[Sign up here](https://osu.ppy.sh/community/tournaments/52)**
 - [Livestream](https://www.twitch.tv/osulive)
-- [Discussion thread]({THREAD})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2133817)
 - [Challonge bracket](https://challonge.com/OWC2025)
 
 ## Ruleset
@@ -224,21 +224,21 @@ The final bracket configuration will be as follows:
 | Match ID | Bracket | Red team | Blue team |
 | :-- | :-- | :-- | :-- |
 | **1** | Winners | Seed #1 (Legend #1) | Seed #16 (Group D #2) |
-| **2** | Winners | Seed #2 (Legend #2) | Seed #15 (Group C #2) |
-| **3** | Winners | Seed #3 (Legend #3) | Seed #14 (Group B #2) |
-| **4** | Winners | Seed #4 (Legend #4) | Seed #13 (Group A #2) |
-| **5** | Winners | Seed #5 (Legend #5) | Seed #12 (Group D #1) |
-| **6** | Winners | Seed #6 (Legend #6) | Seed #11 (Group C #1) |
-| **7** | Winners | Seed #7 (Legend #7) | Seed #10 (Group B #1) |
-| **8** | Winners | Seed #8 (Legend #8) | Seed #9 (Group A #1) |
-| **9** | Losers | Seed #17 (Group A #3) | Seed #32 (Group H #2) |
-| **10** | Losers | Seed #18 (Group B #3) | Seed #31 (Group G #2) |
-| **11** | Losers | Seed #19 (Group C #3) | Seed #30 (Group F #2) |
-| **12** | Losers | Seed #20 (Group D #3) | Seed #29 (Group E #2) |
+| **2** | Winners | Seed #8 (Legend #8) | Seed #9 (Group A #1) |
+| **3** | Winners | Seed #4 (Legend #4) | Seed #13 (Group A #2) |
+| **4** | Winners | Seed #5 (Legend #5) | Seed #12 (Group D #1) |
+| **5** | Winners | Seed #2 (Legend #2) | Seed #15 (Group C #2) |
+| **6** | Winners | Seed #7 (Legend #7) | Seed #10 (Group B #1) |
+| **7** | Winners | Seed #3 (Legend #3) | Seed #14 (Group B #2) |
+| **8** | Winners | Seed #6 (Legend #6) | Seed #11 (Group C #1) |
+| **9** | Losers | Seed #22 (Group B #4) | Seed #27 (Group G #1) |
+| **10** | Losers | Seed #19 (Group C #3) | Seed #30 (Group F #2) |
+| **11** | Losers | Seed #23 (Group C #4) | Seed #26 (Group F #1) |
+| **12** | Losers | Seed #18 (Group B #3) | Seed #31 (Group G #2) |
 | **13** | Losers | Seed #21 (Group A #4) | Seed #28 (Group H #1) |
-| **14** | Losers | Seed #22 (Group B #4) | Seed #27 (Group G #1) |
-| **15** | Losers | Seed #23 (Group C #4) | Seed #26 (Group F #1) |
-| **16** | Losers | Seed #24 (Group D #4) | Seed #25 (Group E #1) |
+| **14** | Losers | Seed #20 (Group D #3) | Seed #29 (Group E #2) |
+| **15** | Losers | Seed #24 (Group D #4) | Seed #25 (Group E #1) |
+| **16** | Losers | Seed #17 (Group A #3) | Seed #32 (Group H #2) |
 
 ### Bracket stage instructions
 
