@@ -111,18 +111,18 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Match schedule: Grand Finals
 
-### Saturday, 27 September 2025
+### Friday, 26 September 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=KR }:: South Korea | [Sep 27 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250927T120000&p1=1440&p2=33&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
+| China ::{ flag=CN }:: | ::{ flag=KR }:: South Korea | [Sep 26 (Fri) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250926T123000&p1=1440&p2=33&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
 
 ### Sunday, 28 September 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T150000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T150000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 28 (Sun) 04:50 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T045000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 28 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T050000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
 
