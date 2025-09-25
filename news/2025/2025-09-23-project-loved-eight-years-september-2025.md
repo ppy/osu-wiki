@@ -5,7 +5,7 @@ date: 2025-09-23 14:00:00 +0000
 series: Project Loved
 ---
 
-We made it through yet another earth rotation — happy 8th birthday to Project Loved!
+We made it through yet another earth orbit — happy 8th birthday to Project Loved!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
@@ -55,7 +55,7 @@ The osu! Loved candidates were chosen by [bailie](https://osu.ppy.sh/users/75371
 242 BPM, 2:20 | 7.36★, 7.67★\
 *description written by [bailie](https://osu.ppy.sh/users/7537133)*
 
-nyan it's the 2nd popular playcount for this month!
+nyan it's the popular playcount for this month!
 
 originally a NM5 created for [Spring Anime Showdown](https://osu.ppy.sh/community/forums/topics/1250643), *nyan-nyan naughty night* has since exploded in popularity in the tournament scene and beyond for its perfect test of speed and stamina! over 2 minutes of non-stop bursts and streams at 242 BPM will be perfect for your finger gym day that many players are ignoring, get grinding!!
 
