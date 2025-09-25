@@ -11,7 +11,7 @@ tags:
 
 ## Service
 
-The way rajio functioned mirrors that of a contemporary Discord music bots such as [Ayana](https://ayana.io/) and [FredBoat](https://fredboat.com/). Upon visiting the website, users could search for songs from peppy's personal music database to be added into the radio's queue — this database was estimated to be around ~400 GB in size, mostly comprising of J-pop/anime/video game songs.[^rajio-database-ref]
+The way rajio functioned mirrors that of contemporary Discord music bots such as [Ayana](https://ayana.io/) and [FredBoat](https://fredboat.com/). Upon visiting the website, users could search for songs from peppy's personal music database to be added into the radio's queue — this database was estimated to be around ~400 GB in size, mostly comprising of J-pop/anime/video game songs.[^rajio-database-ref]
 
 As rajio didn't support fetching songs from external sources such as [YouTube](https://www.youtube.com/), it was not possible to add songs that were not in the database into the queue. Due to its technical limitations, the service was only able to handle 6 concurrent users at a time.
 
