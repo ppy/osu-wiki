@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 48621bd576c5475dfa6813ae6e553f3ace8f6e1c
 ---
 
 # Project Loved
