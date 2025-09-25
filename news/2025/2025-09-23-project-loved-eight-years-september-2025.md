@@ -49,20 +49,6 @@ The osu! Loved candidates were chosen by [bailie](https://osu.ppy.sh/users/75371
 
 ---
 
-[![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/592023.jpg)](https://osu.ppy.sh/community/forums/topics/2132985)
-
-[Tanya Degurechaff (CV: Aoi Yuuki) - Los! Los! Los!](https://osu.ppy.sh/beatmapsets/592023#osu) by [Settia](https://osu.ppy.sh/users/2445897)\
-240 BPM, 3:33 | 6.97★, 7.99★\
-*description written by [Skill](https://osu.ppy.sh/users/7802027)*
-
-The first Popular Playcount for this month is [Settia](https://osu.ppy.sh/users/2445897)'s set of *Tanya Degurechaff (CV: Aoi Yuuki) - Los! Los! Los!*
-
-Yet another Settia map is being put up for Project Loved in 2025. Some might say this one is long overdue — but do not fret, its time has finally come. Like most Settia maps, this is a real aim test, but if your burst/stream speed is not up to par, you will struggle to tap this. It's what you call "hybrid" these days.
-
-If you were around osu! in 2017, you likely were aware of how popular this song was back then. Very well-known players such as [Rafis](https://www.youtube.com/watch?v=ViZiBhhWSs4), [NerO](https://www.youtube.com/watch?v=_RfymWjbngM), [Karthy](https://www.youtube.com/watch?v=ifTtyreZyis), and obviously [Cookiezi](https://osu.ppy.sh/users/124493) all put this map in the spotlight. It garnering over 100,000 plays and nearly 200 favorites proves it deserves a spot here in Loved.
-
-Want to see this finally enter a Loved state? Vote now!
-
 [![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1450068.jpg)](https://osu.ppy.sh/community/forums/topics/2132984)
 
 [katagiri - Nyan-Nyan Naughty Night](https://osu.ppy.sh/beatmapsets/1450068#osu) by [-Tynamo](https://osu.ppy.sh/users/3638962)\
