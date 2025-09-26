@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2025: Finals Recap"
-date: 2025-09-26 23:59:59 +0000
+date: 2025-09-27 06:00:00 +0000
 ---
 
 The final bout is near! Heavy is the crown to burden a king, but heavier is the path to the MWC 4K throne.
@@ -32,7 +32,7 @@ But for those looking forward to *all* matches, including some extra goodies lik
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/WeN4jULAyLY?start=24823" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Finals mappool table](/wiki/shared/news/2025-09-26-osumania-4k-world-cup-2025-finals-recap/mappool-f.jpg)
+![Finals mappool table](/wiki/shared/news/2025-09-27-osumania-4k-world-cup-2025-finals-recap/mappool-f.jpg)
 
 Despite being only one round away from the hardest charts MWC has to offer, the Finals mappool is nothing short of challenging. For the last time, the pool itself expands with the addition of two new slots, RC8 and HB4, leading to a total chart count of 17. They're, as expected, made to have as little overlap as possible with the other existing slots, offering more options without sacrificing variety. With the introduction out of the way, shall we get into the highlights?
 
@@ -99,10 +99,10 @@ Third time is the charm, as they say. That's why South Korea picked yet another 
 
 As the match looked to be heading into a tiebreaker given the continuous back and forth, this was going to be the very last point Thailand would be able to steal from their rivals. However, South Korea was able to keep up their momentum from then on and swipe point after point from the hands of the Thai team, eventually taking the victory. This was not to say it wasn't a close match either way, as Thailand gave them one hell of a fight on maps like [Kobaryo - Villain Virus [feat. Camellia]](https://osu.ppy.sh/beatmapsets/2435350#mania/5308454) (HB1) with ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/12046267)'s spotlight 995k performance.
 
-With the match ending at 3–7, South Korea was able to return to the podium after a year. But they won't stop there! With yesterday's win against ::{ flag=CN }:: China to start off the Grand Finals, they're still in it to battle the undefeated champions of the tournament: the ::{ flag=US }:: United States!
+With the match ending at 3–7, South Korea was able to return to the podium after a year. But they won't stop there! Having won the Friday match against ::{ flag=CN }:: China to start off the Grand Finals, they're still in it to battle the undefeated champions of the tournament: the ::{ flag=US }:: United States!
 
 ---
 
-This is it folks! Our second to last recap is over, which means we'll be recapping the final results very, very soon. We hope you'll also be there as as we spectate the very last skirmish between the ::{ flag=US }:: United States and ::{ flag=CN }:: China this Sunday at 05:00 UTC on [osulive](https://www.twitch.tv/osulive)!
+This is it folks! Our second to last recap is over, which means we'll be recapping the final results very, very soon. We hope you'll also be there as we spectate the very last skirmish between the ::{ flag=US }:: United States and ::{ flag=CN }:: China this Sunday at 05:00 UTC on [osulive](https://www.twitch.tv/osulive)!
 
 —elexire, kadoen, \[GB\]yobrevelc, RandomeLoL
