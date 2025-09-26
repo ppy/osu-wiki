@@ -37,4 +37,4 @@ Mit der Veröffentlichung von osu!(lazer), es gab ein neues Notelock, das in der
 
 ![](img/notelock-v2.gif)
 
-Durch die Änderungen in der Arbeitsmechanik wird dich das Notelock auf Karten mit [streams](/wiki/Beatmap/Pattern/osu!/Stream) oder [springt](/wiki/Beatmap/Pattern/osu!/ Jump) mit niedrigem [OD] (/ wiki / Beatmap / Overall_difficulty) aufgrund eines einzelnen Fehlschlags, da Sie damit die nächste Note rechtzeitig drücken können und sie nicht blockieren.
+Durch die Änderungen in der Arbeitsmechanik wird dich das Notelock auf Karten mit [streams](/wiki/Beatmap/Pattern/osu!/Stream) oder [springt](/wiki/Beatmap/Pattern/osu!/Jump) mit niedrigem [OD](/wiki/Beatmap/Overall_difficulty) aufgrund eines einzelnen Fehlschlags, da Sie damit die nächste Note rechtzeitig drücken können und sie nicht blockieren.
