@@ -1,3 +1,4 @@
+---
 tags:
   - li.ppy.sh
 ---
@@ -14,7 +15,7 @@ Suggestions were approved or denied into the game based on their vote count. Upo
 
 ## Decommissioning
 
-Following the successful use of [Google Docs](docs.google.com) for the localisation of [osu!stream](/wiki/osu!stream), ptransl was decommissioned in November 2012 to avoid redundancy as community localisation efforts were shifted over to the new service.[^ptransl-decommissioning-ref]
+Following the successful use of [Google Docs](https://docs.google.com) for the localisation of [osu!stream](/wiki/osu!stream), ptransl was decommissioned in November 2012 to avoid redundancy as community localisation efforts were shifted over to the new service.[^ptransl-decommissioning-ref]
 
 ## References
 
