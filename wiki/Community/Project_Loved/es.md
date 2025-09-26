@@ -15,7 +15,7 @@ Para sugerir un beatmap a la categoría Amados, puedes hacerlo desde la [página
 - [Sugerencias para osu!catch](https://loved.sh/submissions/fruits)
 - [Sugerencias para osu!mania](https://loved.sh/submissions/mania)
 
-Los beatmaps nominados se publican en el [foro Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el beatmap sea amado o no. Los mapas que alcancen el 80 % de los votos «Sí» al final de las encuestas serán promovidos a la categoría Amados.
+Los beatmaps nominados se publican en el [foro Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el beatmap sea amado o no. Los mapas que alcancen el 80 % de los votos «Sí» al final de las encuestas serán promovidos a la categoría amados.
 
 Los creadores de dichos mapas **no pueden** solicitar que se eliminen de la categoría amados. Además, las dificultades amadas no se pueden volver a usar directamente en los beatmaps clasificados.
 
