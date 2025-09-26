@@ -30,3 +30,11 @@ Puisque les objets des beatmaps du mode osu! sont censés être joués dans l'or
 ## Prévention
 
 Du point de vue d'un mappeur, le notelock peut être évité en choisissant soigneusement la valeur OD d'une [difficulté](/wiki/Beatmap/Difficulty) en fonction de la densité des objets et du BPM. Sur les beatmaps dont le BPM est de 200 ou plus, il est recommandé d'utiliser une valeur OD de 5 ou plus. Pour une analyse plus détaillée, consultez le guide "[Avoiding notelock at high BPM](https://osu.ppy.sh/community/forums/topics/334458)".
+
+## Modifications des mécanismes
+
+Avec la sortie d'osu!(lazer), un nouveau verrouillage de note a été ajouté, qui n'était pas inclus dans la version stable. Le changement concerne son fonctionnement : le premier objet arrête de verrouiller le second dès que sa fenêtre temporelle atteint un décalage de 0 ms.
+
+![](img/notelock-v2.gif)
+
+Grâce aux modifications des mécanismes, le verrouillage de note ne vous bloquera plus sur les cartes avec des [flux](/wiki/Beatmap/Pattern/osu!/Stream) ou des [sauts](/wiki/Beatmap/Pattern/osu!/Jump) avec une [OD](/wiki/Beatmap/Overall_difficulty) faible en raison d'un seul échec. Il vous permettra d'appuyer sur la note suivante au bon moment et ne la bloquera pas.

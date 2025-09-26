@@ -30,3 +30,11 @@ Since objects in regular osu! beatmaps are meant to be cleared in chronological 
 ## Prevention
 
 From a mapper's perspective, notelock could be prevented by carefully choosing the OD value of a [difficulty](/wiki/Beatmap/Difficulty) according to its object density and BPM. On beatmaps with BPM of 200 and higher, OD 5 and higher is recommended. For a more detailed breakdown, refer to the "[Avoiding notelock at high BPM](https://osu.ppy.sh/community/forums/topics/334458)" guide.
+
+## Changes to the mechanics
+
+With the release of osu!(lazer), there was a new notelock, which was not included in the stable version. The change is in the way it works: the first object stops locking the second object once the first object's time window reaches a offset of 0 ms.
+
+![](img/notelock-v2.gif)
+
+By the changes in the working mechanic, the notelock will no longer kill you on maps with [streams](/wiki/Beatmap/Pattern/osu!/Stream) or [jumps](/wiki/Beatmap/Pattern/osu!/Jump) with low [OD](/wiki/Beatmap/Overall_difficulty) due to a single miss, because it will allow you to press the next note in time and will not block it.

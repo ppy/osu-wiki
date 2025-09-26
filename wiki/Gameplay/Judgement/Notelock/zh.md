@@ -33,3 +33,11 @@ tags:
 ## 预防
 
 从谱师的角度来说，他们可以根据物件密度和 BPM，来小心选取[难度](/wiki/Beatmap/Difficulty)的判定严度 (OD)，从而防止出现物件锁。对于 BPM 高于 200 的谱面来说，建议 OD 设为 5 或者更高。请参阅指南：[避免在高 BPM 下出现物件锁 (Avoiding notelock at high BPM)](https://osu.ppy.sh/community/forums/topics/334458)。
+
+## 机制变更
+
+随着 osu!(lazer) 的发布，新增了音符锁功能，该功能在稳定版本中并未包含。此次变更主要体现在它的工作方式上：当第一个对象的时间窗口偏移量达到 0 毫秒时，第一个对象将停止锁定第二个对象。
+
+![](img/notelock-v2.gif)
+
+根据工作机制的变更，在 [流](/wiki/Beatmap/Pattern/osu!/Stream) 或 [跳跃](/wiki/Beatmap/Pattern/osu!/Jump) 等低 [OD](/wiki/Beatmap/Overall_difficulty) 难度的地图上，音符锁将不再因一次失误而导致玩家死亡，因为它将允许玩家及时按下下一个音符，而不会造成任何阻碍。

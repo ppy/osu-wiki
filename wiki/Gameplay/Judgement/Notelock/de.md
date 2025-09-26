@@ -30,3 +30,11 @@ Da Objekte in regulären osu! Beatmaps in chronologischer Reihenfolge getroffen 
 ## Vorbeugung
 
 Aus der Sicht eines Mappers könnte ein Notelock verhindert werden, indem der OD-Wert eines [Schwierigkeitsgrads](/wiki/Beatmap/Difficulty) entsprechend der Objektdichte und BPM sorgfältig ausgewählt wird. Bei Beatmaps mit einer BPM von 200 oder höher wird eine OD von 5 oder höher empfohlen. Eine detailliertere Aufschlüsselung findet sich in der Anleitung "[Notelock bei hoher BPM vermeiden](https://osu.ppy.sh/community/forums/topics/334458)".
+
+## Änderungen an der Mechanik
+
+Mit der Veröffentlichung von osu!(lazer), es gab ein neues Notelock, das in der stabilen Version nicht enthalten war. Die Änderung betrifft die Funktionsweise: Das erste Objekt hört auf, das zweite Objekt zu sperren, sobald das Zeitfenster des ersten Objekts einen Versatz von 0 ms erreicht.
+
+![](img/notelock-v2.gif)
+
+Durch die Änderungen in der Arbeitsmechanik wird dich das Notelock auf Karten mit [streams](/wiki/Beatmap/Pattern/osu!/Stream) oder [springt](/wiki/Beatmap/Pattern/osu!/ Jump) mit niedrigem [OD] (/ wiki / Beatmap / Overall_difficulty) aufgrund eines einzelnen Fehlschlags, da Sie damit die nächste Note rechtzeitig drücken können und sie nicht blockieren.

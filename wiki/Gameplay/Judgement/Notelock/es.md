@@ -33,3 +33,11 @@ Dado que regularmente los objetos en los beatmaps de osu! están destinados a el
 ## Prevención
 
 Desde la perspectiva de un mapper, el notelock se puede evitar, si se elige cuidadosamente el valor de OD de una [dificultad](/wiki/Beatmap/Difficulty) de acuerdo a su densidad y BPM. En beatmaps con BPM de 200 o más, es recomendable usar una OD de 5 o más. Para un desglose más detallado, consulta la guía «[Avoiding notelock at high BPM](https://osu.ppy.sh/community/forums/topics/334458)».
+
+## Cambios en la mecánica
+
+Con el lanzamiento de osu!(lazer), se agregó un nuevo bloqueo de notas, que no estaba incluido en la versión estable. El cambio radica en su funcionamiento: el primer objeto deja de bloquear al segundo una vez que la ventana temporal del primero alcanza un desfase de 0 ms.
+
+![](img/notelock-v2.gif)
+
+Gracias a los cambios en la mecánica de funcionamiento, el bloqueo de notas ya no te matará en mapas con [flujos](/wiki/Beatmap/Pattern/osu!/Stream) o [saltos](/wiki/Beatmap/Pattern/osu!/Jump) con baja [OD](/wiki/Beatmap/Overall_difficulty) debido a un solo fallo, ya que te permitirá pulsar la siguiente nota a tiempo y no la bloqueará.
