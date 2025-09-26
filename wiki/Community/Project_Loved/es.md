@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 48621bd576c5475dfa6813ae6e553f3ace8f6e1c
----
-
 # Project Loved
 
 **Project Loved** es la plataforma de votación que promueve beatmaps a la categoría [amados](/wiki/Beatmap/Category#loved). Es coordinado principalmente por el [Project Loved Team](/wiki/People/Project_Loved_Team).
@@ -20,9 +15,11 @@ Para sugerir un beatmap a la categoría Amados, puedes hacerlo desde la [página
 - [Sugerencias para osu!catch](https://loved.sh/submissions/fruits)
 - [Sugerencias para osu!mania](https://loved.sh/submissions/mania)
 
-Los beatmaps nominados se publican en el [foro Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el beatmap sea Amado o no. Los mapas que alcancen el 80 % de los votos «Sí» al final de las encuestas serán promovidos a la categoría Amados.
+Los beatmaps nominados se publican en el [foro Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el beatmap sea amado o no. Los mapas que alcancen el 80 % de los votos «Sí» al final de las encuestas serán promovidos a la categoría Amados.
 
-Los creadores de estos beatmaps pueden enviar una petición para eliminarlos de la categoría Amados a cualquier miembro del [Project Loved Team](https://osu.ppy.sh/groups/31) o escribiendo un mensaje en el canal `#osu-loved` del [servidor de Discord osu!](https://discord.gg/ppy). El proceso de eliminación tomará al menos una semana y su creador recibirá un mensaje de confirmación cuando se haya realizado.
+Los creadores de dichos mapas **no pueden** solicitar que se eliminen de la categoría amados. Además, las dificultades amadas no se pueden volver a usar directamente en los beatmaps clasificados.
+
+Los mapas pueden seguir siendo eliminados temporalmente de la categoría en caso de que se detecten problemas que afecten a la jugabilidad justo después de haber sido añadidos a amados. Estos problemas pueden reportarse poniéndose en contacto con un miembro del [Project Loved Team](https://osu.ppy.sh/groups/31) o publicándolos en el canal `#osu-loved` del [servidor de Discord osu!](https://discord.gg/ppy).
 
 ## Eligibilidad
 
