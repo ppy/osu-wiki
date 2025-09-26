@@ -67,7 +67,7 @@ The osu! World Cup 2025 offers a $10,000 prize pool, along with limited-edition 
 
 Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is October 10, 23:59 UTC. Make sure to submit yours before then as no exceptions will be made.**
 
-*Notice: you may only participate if your position in the osu! global ranking is #5,000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
+*Notice: you may only participate if your position in the osu! global ranking is #10,000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
