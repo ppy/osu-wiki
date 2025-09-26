@@ -16,7 +16,7 @@ Don't just take our word for it – see for yourself:
   <video width="95%" controls>
     <source src="https://assets.ppy.sh/media/news/osu-world-cup-2025-announcement.mp4" type="video/mp4" preload="none">
   </video>
-</div>
+</div> <!-- either a direct or a youtube embed (leaning towards the latter) -->
 
 ## Format changes
 

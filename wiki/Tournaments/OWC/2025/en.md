@@ -34,7 +34,6 @@ The osu! World Cup 2025 offers a $10,000 cash prize pool and limited-edition mer
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-
 ## Organisation
 
 The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
@@ -163,17 +162,19 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 
 The primary goal of the Group stage draw is to ensure that each group is balanced, preventing teams with similar qualifier seeds from being placed together. This is achieved by separating both Challenger and Contender groups into four seeding pots based on their performance in the Qualifier stage, as follows:
 
-- **Challengers (seeds 9–24)**
-  - Pot 1 seeds: 9, 10, 11, 12
-  - Pot 2 seeds: 13, 14, 15, 16
-  - Pot 3 seeds: 17, 18, 19, 20
-  - Pot 4 seeds: 21, 22, 23, 24
+**Challengers (seeds 9–24)**
 
-- **Contenders (seeds 25–40)**
-  - Pot 1 seeds: 25, 26, 27, 28
-  - Pot 2 seeds: 29, 30, 31, 32
-  - Pot 3 seeds: 33, 34, 35, 36
-  - Pot 4 seeds: 37, 38, 39, 40
+- Pot 1 seeds: 9, 10, 11, 12
+- Pot 2 seeds: 13, 14, 15, 16
+- Pot 3 seeds: 17, 18, 19, 20
+- Pot 4 seeds: 21, 22, 23, 24
+
+**Contenders (seeds 25–40)**
+
+- Pot 1 seeds: 25, 26, 27, 28
+- Pot 2 seeds: 29, 30, 31, 32
+- Pot 3 seeds: 33, 34, 35, 36
+- Pot 4 seeds: 37, 38, 39, 40
 
 #### Draw Process
 
