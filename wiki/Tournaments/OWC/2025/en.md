@@ -41,9 +41,11 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| Mappool selector | *TBA* |
-| Mappool playtester | *TBA* |
+| Mappool selector | ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) |
+| Mappool playtester | ::{ flag=US }:: [Boolin](https://osu.ppy.sh/users/10664409), ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [conradmittn](https://osu.ppy.sh/users/8208289), ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=UA }:: [GET LOVED](https://osu.ppy.sh/users/13705417), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=JP }:: [KonKonKinakoN](https://osu.ppy.sh/users/4733185), ::{ flag=US }:: [koral](https://osu.ppy.sh/users/754792), ::{ flag=CA }:: [kyle](https://osu.ppy.sh/users/2694475), ::{ flag=US }:: [LUNAISTABBY](https://osu.ppy.sh/users/4673649), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=CA }:: [matcha](https://osu.ppy.sh/users/7613309), ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313), ::{ flag=PH }:: [Milkteaism](https://osu.ppy.sh/users/9642774), ::{ flag=CL }:: [Rojo](https://osu.ppy.sh/users/342401), ::{ flag=SE }:: [soik](https://osu.ppy.sh/users/4316633), ::{ flag=CA }:: [steamhappy](https://osu.ppy.sh/users/7802400), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856), ::{ flag=US }:: [wr8th](https://osu.ppy.sh/users/20276851) |
 | Mapper | *TBA* |
+| Hitsounders | *TBA* |
+| Spread managers | ::{ flag=US }:: [Cytusine](https://osu.ppy.sh/users/11557554), ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929) |
 | Commentator | *TBA* |
 | Referee | *TBA* |
 | Statistician | *TBA* |
