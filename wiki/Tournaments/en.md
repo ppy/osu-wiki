@@ -27,6 +27,7 @@ Official tournaments organised by the osu! team.
 | [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=DE }:: Germany |
 | [osu! World Cup 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2024](OWC/2024) | 2024-10-26 | 2024-12-08 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=AU }:: Australia |
+| [osu! World Cup 2025](OWC/2025) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -171,6 +172,16 @@ Unofficial tournaments/competitions hosted by the communities.
 | Aus/NZ osu!standard Tournament 11 - Summer | 2024-01-27 | 2024-03-11 | santa deniers | jelqmaxxers | ASecretDozer |
 | Aus/NZ osu!standard Tournament 11 - Winter | 2024-07-15 | 2024-09-08 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
 | Aus/NZ osu!standard Tournament 12 - Summer | 2025-01-25 | 2025-03-23 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
+
+#### Azu's Tourneys
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Vanilla vs Chocolate | 2019-09-23 | 2019-10-20 | Vanilla | Chocolate | N/A |
+| Cats vs Dogs | 2019-11-04 | 2019-12-22 | Cats | Dogs | N/A |
+| owo vs uwu | 2020-01-19 | 2020-03-21 | uwu | owo | N/A |
+| Coffee vs Tea | 2020-04-18 | 2020-06-27 | Tea | Coffee | N/A |
+| Summer vs Winter | 2021-03-15 | 2021-05-16 | Summer | Winter | N/A |
 
 #### BubblyQT
 
@@ -849,6 +860,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 2024-05-04 | 2024-06-16 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: United Kingdom | ::{ flag=AU }:: Australia-A |
 | [One Key World Cup 2025](JOKE/1KWC_2025) | 2025-04-26 | 2025-06-08 | ::{ flag=JP }:: Japan | ::{ flag=US }:: United States | ::{ flag=GB }:: United Kingdom |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
 
 #### Mania Beginner's Showdown
 

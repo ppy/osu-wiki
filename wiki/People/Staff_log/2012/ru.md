@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0dfa4de82ffa036ee92655de3da767d2ff812aa7
----
-
 # История команд osu! за 2012 год
 
 *Примечание: история некоторых пользователей может быть неполной.*
@@ -73,6 +68,7 @@ outdated_since: 0dfa4de82ffa036ee92655de3da767d2ff812aa7
 - Добавление [Galkan](https://osu.ppy.sh/users/169570) в Global Mod Team (2012-05-20)
 - Добавление [TicClick](https://osu.ppy.sh/users/672931) в Global Mod Team (2012-05-20)
 - Перемещение [Odaril](https://osu.ppy.sh/users/113005) из Beatmap Appreciation Team в osu! Alumni (2012-05-25) <!-- https://osu.ppy.sh/community/forums/posts/1558121 -->
+- Перемещение [Andrea](https://osu.ppy.sh/users/33599) из osu! Alumni в Beatmap Appreciation Team (2012-05-25) <!-- closest source is an ancient screenshot: https://github.com/ppy/osu-wiki/pull/13709 -->
 
 ## Июнь
 
