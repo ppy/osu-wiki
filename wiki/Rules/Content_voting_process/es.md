@@ -15,8 +15,8 @@ El contenido enviado a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
 
 ## Proceso
 
-1. Un mapper, modder, o miembro de la comunidad interesado en el tema puede presentar cualquier elemento visual de un beatmap para su revisión bajo las [consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations) informando de ello a través del [sitio web de los BN](https://bn.mappersguild.com/reports).
-2. Luego, el reporte es evaluado por el NAT y el GMT[^beatmap-nominators]. Para todas las situaciones, excepto las más obvias, se publica un nuevo «caso de contenido» que se somete a votación lo antes posible. Todos los miembros de los BN, el GMT, y el NAT tienen derecho a votar.
+1. Un mapper, modder o miembro de la comunidad interesado en el tema puede presentar cualquier elemento visual de un beatmap para su revisión bajo las [consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations) informando de ello a través del [sitio web de los BN](https://bn.mappersguild.com/reports).
+2. Luego, el reporte es evaluado por el NAT y el GMT[^beatmap-nominators]. Para todas las situaciones, excepto las más obvias, se publica un nuevo «caso de contenido» que se somete a votación lo antes posible. Todos los miembros de los BN, el GMT y el NAT tienen derecho a votar.
 3. Mientras la votación esté activa, ningún mapa que contenga dicho elemento visual podrá ser nominado ni calificado. Si el mapa está calificado, se publicará una sugerencia en la discusión del modding, lo que impedirá que el mapa sea clasificado hasta que finalice la votación.
 4. La votación concluye tras un periodo de 3 días sin nuevos votos, o 7 días desde que comenzó la votación, lo que ocurra primero.
 
