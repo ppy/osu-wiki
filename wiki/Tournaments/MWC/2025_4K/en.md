@@ -113,17 +113,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Match schedule: Grand Finals
 
-### Friday, 26 September 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=KR }:: South Korea | [Sep 26 (Fri) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250926T123000&p1=1440&p2=33&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-
 ### Sunday, 28 September 2025
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 28 (Sun) 04:50 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T045000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 28 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T050000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
@@ -293,7 +286,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Match results
 
+### Grand Finals
+
+Friday, 26 September 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| China ::{ flag=CN }:: | 2 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119382377) | [#1](https://www.twitch.tv/videos/2576159866?t=0h2m40s) |
+
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_VC5igk69th0lugnNQvt_-abecvnth5vSExWZaEz7hQ?rm=minimal).
 
 Saturday, 20 September 2025:
 
@@ -620,5 +623,4 @@ The weights for the Qualifiers are as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^lb-grand-finals]: Losers bracket Grand Finals match
-[^grand-finals]: Grand Finals match — final matchup depends on the previous Losers bracket Grand Finals match
+[^grand-finals]: Grand Finals match
