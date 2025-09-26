@@ -57,8 +57,6 @@ The osu!mania 7K World Cup 2025 was run by the [osu! team](/wiki/People/osu!_tea
 | Tournament design | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
 | Musician | [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [Aoi](https://osu.ppy.sh/beatmaps/artists/183), [EBIMAYO](https://osu.ppy.sh/beatmaps/artists/458), [kanemiko](https://osu.ppy.sh/beatmaps/artists/367), [Ludicin](https://osu.ppy.sh/beatmaps/artists/459), [Marmalade Butcher](https://osu.ppy.sh/beatmaps/artists/220), [Xyris](https://osu.ppy.sh/beatmaps/artists/433) |
 
-## Participants
-
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/19JffJy65s7N2hqJfgL17ahNONTu9S-wDqvlHO7AFpNw?rm=minimal)**
