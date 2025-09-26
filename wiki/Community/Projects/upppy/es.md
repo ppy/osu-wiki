@@ -7,7 +7,7 @@ tags:
 # upppy
 
 ::: Infobox
-![Captura de pantalla de la página up.ppy.sh](img/upppyScreenshot.png "Captura de pantalla del sitio web de upppy, tomada en 2023 en Internet Archive")
+![Captura de pantalla de la página up.ppy.sh](img/upppyScreenshot.png "Captura de pantalla del sitio web de upppy, tomada en 2023 por el Internet Archive")
 :::
 
 **up.ppy.sh**, a menudo llamado como **upppy**, era un servicio de subida de archivos gestionado y alojado por ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). Se creó en enero de 2007, antes que el propio osu![^upppy-launch-date-ref], y se usaba principalmente para compartir imágenes y archivos dentro de la comunidad de osu!.
