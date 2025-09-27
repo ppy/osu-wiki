@@ -10,7 +10,6 @@ Vous trouverez ci-dessous une liste de guides créés par des membres de la comm
 
 *Article principale : [Beatmapping](/wiki/Beatmapping)*
 
-- [Bibliothèque de hitsounds personnalisés](Custom_hitsound_library)
 - [Changer l'artiste ou le titre d'une beatmap](Changing_the_artist_or_title)
 - [Changer le texte du titre](/wiki/Beatmap/Title_text#changer-le-texte-du-titre)
 - [Comment démarrer un projet de beatmap](Starting_a_beatmap_project)
