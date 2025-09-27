@@ -33,7 +33,7 @@ From a mapper's perspective, notelock could be prevented by carefully choosing t
 
 ## Changes to the mechanics
 
-With the release of osu!(lazer), there was a new notelock, which was not included in the stable version. The change is in the way it works: the first object stops locking the second object once the first object's time window reaches a offset of 0 ms.
+In comparison to osu!(stable), notelock was made more lenient in osu!(lazer) because the first hit object would stop locking the second hit object once the first hit object's time window reached an offset of 0 ms.
 
 ![](img/notelock-v2.gif)
 
