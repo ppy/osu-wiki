@@ -27,8 +27,6 @@ files/1/1a/1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
 
 This allows for saving storage space by preventing duplicates of the same file from being persisted to disk, and prevents users (or other applications) from easily tampering with files that should not be tampered with. All inconveniences compared to stable that arise from this choice have been addressed by either allowing exports or adding new in-game management features, or will be addressed in due time by new features.
 
-For now, the correct procedure to manually modify skins or beatmaps outside of the facilities available in-game is to export the item, update it, and then reimport it again with the desired changes.
-
 ## Migration from osu!(stable)
 
 ### Via hard links
