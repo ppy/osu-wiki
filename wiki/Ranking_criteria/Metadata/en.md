@@ -27,6 +27,7 @@
 - **When multiple metadata options are available:**
   - Aim to match Ranked beatmaps. Follow what is most recent and common, then verify that metadata is correct and fix as needed.
     - Artist names should be consistent as well, as long as they are not intentionally using different aliases.
+    - Marker capitalization can be changed freely if done to match title and artist stylisation.
   - Official romanisations/translations are preferred for romanised fields, so long as they are easily found and commonly recognised.
   - In case of conflicting options, a discussion should be held to determine what would be the best option.
 
