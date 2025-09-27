@@ -30,3 +30,11 @@ Karena keseluruhan objek pada beatmap osu! diperuntukkan penyelesaian secara ber
 ## Pencegahan
 
 Dari sudut pandang mapper, notelock dapat dicegah dengan memilih nilai OD sebuah tingkat kesulitan secara hati-hati berdasarkan tingkat kepadatan objek dan BPM. Untuk beatmap yang memiliki BPM sebesar 200 atau lebih, nilai OD 5 atau lebih tinggi sangat direkomendasikan. Untuk penjelasan lebih lanjut, kunjungi panduan "[Menghindari notelock pada beatmap dengan BPM tinggi (Avoiding notelock at high BPM)](https://osu.ppy.sh/community/forums/topics/334458)".
+
+## Perubahan Mekanisme
+
+Dengan dirilisnya osu!(lazer), terdapat notelock baru yang tidak disertakan dalam versi stabil. Perubahannya terletak pada cara kerjanya: objek pertama berhenti mengunci objek kedua setelah jendela waktu objek pertama mencapai offset 0 ms.
+
+![](img/notelock-v2.gif)
+
+Dengan perubahan mekanisme kerja ini, notelock tidak akan lagi mengganggu Anda di peta dengan [aliran](/wiki/Beatmap/Pattern/osu!/Stream) atau [lompatan](/wiki/Beatmap/Pattern/osu!/Jump) dengan [OD](/wiki/Beatmap/Overall_difficulty) rendah karena satu kesalahan, karena fitur ini memungkinkan Anda menekan nada berikutnya tepat waktu dan tidak akan memblokirnya.
