@@ -5,7 +5,7 @@ tags:
   - puushme
 ---
 
-# upppy
+# puush
 
 ::: Infobox
 ![Screenshot of puush's interface](img/puushScreenshot.png "Screenshot of puush's application interface, as taken from [CNET's coverage of the service](https://www.cnet.com/culture/use-puush-to-share-images-and-screenshots-quickly/)")
