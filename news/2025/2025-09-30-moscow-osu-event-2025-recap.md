@@ -87,7 +87,7 @@ The osu!taiko Tournament featured ::{ flag=RU }:: [\_TheXFactory\_](https://osu.
 
 ### osu!catch
 
-The osu!catch Tournaments featured ::{ flag=RU }:: [BocDyx](https://osu.ppy.sh/users/7926192), ::{ flag=RU }:: [snailbrack](https://osu.ppy.sh/users/6650048), ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589) and, _uh... a player under the name ~R~_?
+The osu!catch Tournaments featured ::{ flag=RU }:: [BocDyx](https://osu.ppy.sh/users/7926192), ::{ flag=RU }:: [snailbrack](https://osu.ppy.sh/users/6650048), ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589) and, _uh... a player under the name \~R\~_?
 
 To make things a little more interesting, the fourth player for that tournament was kept in secret until their first match. It turned out that this player was actually ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), one of the hosts of the event!
 
