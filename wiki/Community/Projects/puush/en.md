@@ -38,4 +38,4 @@ Later that year, in order to further make the service sustainable with minimal i
 
 [^puush-pro-plan-ref]: [puush's FAQ page](https://puush.me/faq): "*What are the differences between the free and pro accounts?*"
 [^puush-paypal-suspension-ref]: [Tweet by peppy (2014-03-25)](https://twitter.com/ppy/status/1286507028962136064): "*in other news, paypal decided that puush is a file sharing service and therefore goes against their ToS. no more payment provider!*"
-[^puush-finances-ref]: [Tweet by peppy (2019-07-25)](https://x.com/ppy/status/1154349448807366657): *i mean you can just throw money (buy osu! supporter tags or paypal@ppy.sh) if you want, but we don't really plan on having anything official. i'm happy to pay for puush from my pocket for the time being (~$400/month).*
+[^puush-finances-ref]: [Tweet by peppy (2019-07-25)](https://twitter.com/ppy/status/1154349448807366657): "*i mean you can just throw money (buy osu! supporter tags or paypal (at) ppy.sh) if you want, but we don't really plan on having anything official. i'm happy to pay for puush from my pocket for the time being (~$400/month).*"
