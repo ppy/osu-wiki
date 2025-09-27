@@ -37,4 +37,4 @@ In comparison to osu!(stable), notelock was made more lenient in osu!(lazer) bec
 
 ![](img/notelock-v2.gif)
 
-By the changes in the working mechanic, the notelock will no longer kill you on maps with [streams](/wiki/Beatmap/Pattern/osu!/Stream) or [jumps](/wiki/Beatmap/Pattern/osu!/Jump) with low [OD](/wiki/Beatmap/Overall_difficulty) due to a single miss, because it will allow you to press the next note in time and will not block it.
+Due to this change, players became able to recover more easily from a miss on a beatmap with dense [streams](/wiki/Beatmap/Pattern/osu!/Stream), [jumps](/wiki/Beatmap/Pattern/osu!/Jump), or low [OD](/wiki/Beatmap/Overall_difficulty).
