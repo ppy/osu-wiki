@@ -4,11 +4,11 @@ title: "Moscow osu! Event 2025 Recap"
 date: 2025-09-30 14:00:00 +0000
 ---
 
-The third iteraton of Moscow osu! Event, the largest osu! event in Russia, was successfully passed on July, 25-27th, featuring a total of 5 tournaments for each gamemode, a cosplay défilé and more!
+The third iteraton of Moscow osu! Event, the largest osu! event in Russia, took place between July, 25-27th, featuring a total of 5 tournaments for each gamemode, a cosplay défilé and more!
 
 ![](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/moe25-banner.jpg)
 
-This year's Moscow osu! Event took place in Mosproducer, a concert hall located in a centre of Russia's capital, Moscow.
+This year’s Moscow osu! Event took place at Mosproducer, a concert hall situated in the center of Moscow, the capital of Russia.
 
 
 # Activities recap
@@ -65,17 +65,7 @@ The first match of the tournament, unlike most of viewers expectations, became t
 
 The final match of the tournament. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867), being the runner-up for the last 2 iterations of MOE, now gets a third chance to win the tournament. And even though ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) was not getting this far before and actually losing to ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) last year, he still has high chances to win this tournament as well.
 
-The match begins with ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) picking HD2, a low AR aim map, and wins it easily! Right after that ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) picks DT3, a high density speed wins, and manages to get a full combo on it! This beginning already shows us this match would not be easy for both of them
-
-After that start, the match went kinda predictable for the next 4 maps. ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) was getting well on the tech and snap alt maps, while ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) showed his abomination on the speed maps.
-
-But, on the score of 3-3, something unexpected have happened. ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) have decided to pick HR3, a snap aim map where both of the players have showed an incredible scores during previous matches. Watching them play this map against each other was... something. Both of their scores was VERY CLOSE during the whole map. In fact, in about 10 seconds before the map's end, ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) had a 500 points lead! But unfortunately for him, he got notelocked on the last pattern, and lost the map with a difference of 8,477 points! This is the first breakpoint for the match. This could've already been an end for ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263), since ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) have not lost his picks before. Unless..
-
-After that breakpoint, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) decides to pick NM1, a 224 BPM aim map. And on the early beginning of the map, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) already managed to get a few misses, allowing ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) to get enough a 60000 difference for the first half of the map. But, on that half, both of them have got a miss, meaning that the score difference would not really change for some time. On the second half, ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) was holding well with more than 500 combo at some moment, while ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) still could not keep up with not missing. ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) have won that map with more than 100 thousand score difference, making it the second breakpoint in a row.
-
-For the next pick, ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) have chosen DT4, a high AR map with bunch of flow aim. Unfortunately for ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263), he was not able to keep good accuracy on that map, which can't be said about ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867). And even though ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) had managed to keep combo a bit better than ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867), the accuracy difference was too big. With a difference of 35870 points and 3,24% of accuracy, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) won DT4, making it the third breakpoint in a row and also getting to the match point!
-
-The next ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867)'s pick was HR1, and, unlike the previous three maps, this one went kinda predictable. ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) was not able to keep up with ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867), losing that map with a big difference.
+The first half of the match went pretty straightforward: both players were easily taking their picks up until the score of 3-3. After that, something went wrong and 3 breakpoints have happened in a row, getting the score to 4-5. The last map was picked by ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) and won by him as well!
 
 With a score of 6-4, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) have won Moscow osu! Event for the first time, breaking his 2nd place curse. His performance during the whole tournament was very astonishing, making him one of the best Russian players with a no doubt!
 
