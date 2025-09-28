@@ -37,11 +37,13 @@ There also were some merchandise booths, in which anyone could buy themselves di
 ![Gaming Booth](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/gamezone2.jpg)
 
 ### The Quest book
-Everyone were also given a Quest book with more than 50 different tasks to do. After completing the task, you received a stamp confirming that you actually completed it. The more stamps you get - the cooler reward you could get!
+Everyone was also given a Quest book with more than 50 different tasks to do. After completing the task, you received a stamp confirming that you actually completed it. The more stamps you get - the cooler reward you could get!
 
 ![Gaming Booth](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/questbook.jpg)
 
 # The Main Tournament
+
+**[You can check the bracket for that tournament here!](https://challonge.com/ru/moe2025)**
 
 Now we get to the most interesting part. The Main Tournament contained 16 players, with 8 of them ( ::{ flag=RU }:: [DaHuJka](https://osu.ppy.sh/users/6830745), ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005), ::{ flag=RU }:: [KOCT9H](https://osu.ppy.sh/users/6585939), ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785), ::{ flag=RU }:: [-Din-](https://osu.ppy.sh/users/7972980), ::{ flag=RU }:: [maxim](https://osu.ppy.sh/users/9459674), ::{ flag=RU }:: [reimia](https://osu.ppy.sh/users/11243772) & ::{ flag=RU }:: [xayoto](https://osu.ppy.sh/users/13334336)) getting there through the [CIS Tournament Rating](link.rtvs.fun/moe2025ratings),  
 1 (::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263)) for their results on #russian osu! cup 2024, 1 (::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867)) for their results on #russian osu! cup klassic '25, 4 (::{ flag=RU }:: [11iq pleer](https://osu.ppy.sh/users/13206785), ::{ flag=RU }:: [BJIADOC](https://osu.ppy.sh/users/17031854), ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448) & ::{ flag=RU }:: [GodRoPoNiKa](https://osu.ppy.sh/users/11195861)) from the Closed Qualifier, and 2 (::{ flag=KZ }:: [nejzha](https://osu.ppy.sh/users/8105138) & ::{ flag=BY }:: [Vudek](https://osu.ppy.sh/users/8816345)) as Wildcard Invites!
@@ -56,7 +58,7 @@ The tournament had a single-elimination bracket and began from Round of 16.
 
 
 The first match of the tournament, unlike most of viewers expectations, became the first (and only) match that went up to Tiebreaker!
-::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) was very good on his speed picks, as well as the flow stream one. ::{ flag=RU }:: [BJIADOC](https://osu.ppy.sh/users/17031854), on other side, showed himself well on the snap alt and hidden mod picks, with HD3 being the only close map (14,627 points difference!) up until tiebreaker. The tiebreaker itself was even closer though! With a total difference of 13725 points, ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) have managed to win this match and advance to the next stage!
+::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) was very good on his speed picks, as well as the flow stream one. ::{ flag=RU }:: [BJIADOC](https://osu.ppy.sh/users/17031854), on other side, showed himself well on the snap alt and hidden mod picks, with HD3 being the only close map (14,627 points difference!) up until tiebreaker. The tiebreaker itself was even closer though! With a total difference of 13,725 points, ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) have managed to win this match and advance to the next stage!
 
 ### ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) vs ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867)
 
@@ -79,11 +81,11 @@ Besides the main gamemode, there were also the LAN Tournaments for other gamemod
 
 The osu!taiko Tournament featured ::{ flag=RU }:: [\_TheXFactory\_](https://osu.ppy.sh/users/15013948), ::{ flag=RU }:: [Den4ik228](https://osu.ppy.sh/users/7115174), ::{ flag=RU }:: [SceptifyMK](https://osu.ppy.sh/users/20843003) and ::{ flag=RU }:: [taikoshallah](https://osu.ppy.sh/users/11117835). All of them were playing the [osu!taiko World Cup 2025](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2025) for the Russian Federation team!
 ### Matches summary
-| Player A |  |  | Player B |
-| --: | :-: | :-: | :-- |
-| [Den4ik228](https://osu.ppy.sh/users/7115174) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[\_TheXFactory\_](https://osu.ppy.sh/users/15013948)** |
-| [SceptifyMK](https://osu.ppy.sh/users/20843003) ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **[taikoshallah](https://osu.ppy.sh/users/11117835)** |
-| [\_TheXFactory\_](https://osu.ppy.sh/users/15013948) ::{ flag=RU }:: | 0 | **5** | ::{ flag=RU }:: **[taikoshallah](https://osu.ppy.sh/users/11117835)** |
+| Player A |  |  | Player B | VOD link | 
+| --: | :-: | :-: | :-- | :-: |
+| [Den4ik228](https://osu.ppy.sh/users/7115174) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[\_TheXFactory\_](https://osu.ppy.sh/users/15013948)** | [#1](https://youtu.be/xatn-BXpMho?si=gQGPyNmAHo_k-8Az&t=26269) |
+| [SceptifyMK](https://osu.ppy.sh/users/20843003) ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **[taikoshallah](https://osu.ppy.sh/users/11117835)** | [#1](https://youtu.be/fIpS-LFpB7w?si=4Pd0zBTT5TUVdGMg&t=254) |
+| [\_TheXFactory\_](https://osu.ppy.sh/users/15013948) ::{ flag=RU }:: | 0 | **5** | ::{ flag=RU }:: **[taikoshallah](https://osu.ppy.sh/users/11117835)** | [#1](https://youtu.be/fIpS-LFpB7w?si=ihqWHhbioNrlpip4&t=31432) |
 
 ### osu!catch
 
@@ -92,31 +94,31 @@ The osu!catch Tournaments featured ::{ flag=RU }:: [BocDyx](https://osu.ppy.sh/u
 To make things a little more interesting, the fourth player for that tournament was kept in secret until their first match. It turned out that this player was actually ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), one of the hosts of the event!
 
 ### Matches summary
-| Player A |  |  | Player B |
-| --: | :-: | :-: | :-- |
-| **[BocDyx](https://osu.ppy.sh/users/7926192)** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
-| [snailbrack](https://osu.ppy.sh/users/6650048) ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **[smelly DVD box](https://osu.ppy.sh/users/6647589)** |
-| [BocDyx](https://osu.ppy.sh/users/7926192) ::{ flag=RU }:: | 2 | **5** | ::{ flag=RU }:: **[smelly DVD box](https://osu.ppy.sh/users/6647589)** |
+| Player A |  |  | Player B | VOD link | 
+| --: | :-: | :-: | :-- | :-: |
+| **[BocDyx](https://osu.ppy.sh/users/7926192)** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) | [#1](https://youtu.be/xatn-BXpMho?si=mXNeScPuG-UrhzKu&t=4622) |
+| [snailbrack](https://osu.ppy.sh/users/6650048) ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **[smelly DVD box](https://osu.ppy.sh/users/6647589)** | [#1](https://youtu.be/xatn-BXpMho?si=zMqKjp488djoDLyY&t=7055) |
+| [BocDyx](https://osu.ppy.sh/users/7926192) ::{ flag=RU }:: | 2 | **5** | ::{ flag=RU }:: **[smelly DVD box](https://osu.ppy.sh/users/6647589)** | [#1](https://youtu.be/fIpS-LFpB7w?si=jdLJL6NSXWgta_dQ&t=5953) |
 
 ### osu!mania 4K
 
 The osu!mania 4K Tournament featured ::{ flag=RU }:: [-Oni-Chan-](https://osu.ppy.sh/users/10036005), ::{ flag=RU }:: [Dystire](https://osu.ppy.sh/users/11585213), ::{ flag=RU }:: [kloofhi](https://osu.ppy.sh/users/29627572) and ::{ flag=RU }:: [VikaGamer228](https://osu.ppy.sh/users/20049082). Two of these players were playing the [osu!mania 4K World Cup 2024](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2024_4K)!
 ### Matches summary
-| Player A |  |  | Player B |
-| --: | :-: | :-: | :-- |
-| **[Dystire](https://osu.ppy.sh/users/11585213)** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: [VikaGamer228](https://osu.ppy.sh/users/20049082) |
-| [kloofhi](https://osu.ppy.sh/users/29627572) ::{ flag=RU }:: | 2 | **4** | ::{ flag=RU }:: **[-Oni-Chan-](https://osu.ppy.sh/users/10036005)** |
-| **[Dystire](https://osu.ppy.sh/users/11585213)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=RU }:: [-Oni-Chan-](https://osu.ppy.sh/users/10036005) |
+| Player A |  |  | Player B | VOD link |
+| --: | :-: | :-: | :-- | :-: |
+| **[Dystire](https://osu.ppy.sh/users/11585213)** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: [VikaGamer228](https://osu.ppy.sh/users/20049082) | [#1](https://youtu.be/LzItzsD4nH0?si=7_QiOYSxjuCsEP9J&t=3745) |
+| [kloofhi](https://osu.ppy.sh/users/29627572) ::{ flag=RU }:: | 2 | **4** | ::{ flag=RU }:: **[-Oni-Chan-](https://osu.ppy.sh/users/10036005)** | [#1](https://youtu.be/LzItzsD4nH0?si=wbMCtw5I7Oky3HnG&t=6429) |
+| **[Dystire](https://osu.ppy.sh/users/11585213)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=RU }:: [-Oni-Chan-](https://osu.ppy.sh/users/10036005) | [#1](https://youtu.be/fIpS-LFpB7w?si=7nuxuyU9vzfVs8x2&t=2811) |
 
 ### osu!mania 7K
 
 The osu!mania 7K Tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.sh/users/7156634), ::{ flag=RU }:: [PhobosX](https://osu.ppy.sh/users/2570019), ::{ flag=RU }:: [timebuka](https://osu.ppy.sh/users/6857841) and ::{ flag=RU }:: [X_Devil](https://osu.ppy.sh/users/6694908). Two of these players were playing the [osu!mania 7K World Cup 2025](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2025_7K)!!
 ### Matches summary
-| Player A |  |  | Player B |
-| --: | :-: | :-: | :-- |
-| [PhobosX](https://osu.ppy.sh/users/2570019) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[karayss](https://osu.ppy.sh/users/7156634)** |
-| [X_Devil](https://osu.ppy.sh/users/6694908) ::{ flag=RU }:: | 3 | **4** | ::{ flag=RU }:: **[timebuka](https://osu.ppy.sh/users/6857841)** |
-| [karayss](https://osu.ppy.sh/users/7156634) ::{ flag=RU }:: | 4 | **5** | ::{ flag=RU }:: **[timebuka](https://osu.ppy.sh/users/6857841)** |
+| Player A |  |  | Player B | VOD link |
+| --: | :-: | :-: | :-- | :-: |
+| [PhobosX](https://osu.ppy.sh/users/2570019) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[karayss](https://osu.ppy.sh/users/7156634)** | [#1](https://youtu.be/xatn-BXpMho?si=zvoQEqysGk8LdfF9&t=19017) |
+| [X_Devil](https://osu.ppy.sh/users/6694908) ::{ flag=RU }:: | 3 | **4** | ::{ flag=RU }:: **[timebuka](https://osu.ppy.sh/users/6857841)** | [#1](https://youtu.be/xatn-BXpMho?si=s6pxmtqLG7EN_N02&t=22857) |
+| [karayss](https://osu.ppy.sh/users/7156634) ::{ flag=RU }:: | 4 | **5** | ::{ flag=RU }:: **[timebuka](https://osu.ppy.sh/users/6857841)** | [#1](https://youtu.be/fIpS-LFpB7w?si=jr-1rOcViRSAGrm6&t=13209) |
 
 _Fun fact: the osu!mania 7K Tournament had more matches that went to Tiebreaker than all other gamemodes together (including standard)_
 
