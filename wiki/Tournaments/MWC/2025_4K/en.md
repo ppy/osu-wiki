@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2025 banner](img/mwc4k2025-banner.jpg)
 
-The **osu!mania 4K World Cup 2025** (***MWC 4K 2025***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the twelfth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2025** (***MWC 4K 2025***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the twelfth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **osu!mania 4K World Cup 2025** (***MWC 4K 2025***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 4K World Cup 2025 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!mania 4K World Cup 2025 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -36,9 +36,11 @@ The osu!mania 4K World Cup 2025 offers a $2,000 cash prize pool and limited-edit
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/mwc4k2025-badge-1st.png "MWC 7K 2025 winner badge") ![](img/mwc4k2025-badge-2nd.png "MWC 7K 2025 2nd-place badge") ![](img/mwc4k2025-badge-3rd.png "MWC 7K 2025 3rd-place badge")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!mania 4K World Cup 2025 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -109,15 +111,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 - [Challonge bracket](https://challonge.com/MWC4K2025)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/182) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1513)
 
-## Match schedule: Grand Finals
+## Podium
 
-### Sunday, 28 September 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 28 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T050000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/mwc4k2025-podium.jpg "MWC 4K 2025 podium")
 
 ## Mappools
 
@@ -288,11 +285,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1C_356APvdAwabii6YbCHTwGZ-F1BJ7ocrAMYNdbcvxU?rm=minimal).
+
 Friday, 26 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | China ::{ flag=CN }:: | 2 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119382377) | [#1](https://www.twitch.tv/videos/2576159866?t=0h2m40s) |
+
+Sunday, 28 September 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 3 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/119401981) | [#1](https://www.twitch.tv/videos/2577758329?t=4m57s) |
 
 ### Finals
 
