@@ -11,13 +11,13 @@ tags:
 ![Screenshot of puush's interface](img/puushScreenshot.png "Screenshot of puush's application interface, as taken from [CNET's coverage of the service](https://www.cnet.com/culture/use-puush-to-share-images-and-screenshots-quickly/)")
 :::
 
-**[puush.me](https://puush.me)**, often referred to as **puush**, is a file uploading service run and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). First launched in June 2010, the service serves as a successor to [upppy](/wiki/upppy) with a greater focus on screen sharing and user data management.
+**[puush.me](https://puush.me)**, often referred to as **puush**, is a file sharing service run and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) and ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102). First launched in June 2010, the service serves as a successor to [upppy](/wiki/upppy) with a greater focus on screen sharing and user data management.
 
 ## Service
 
 puush allows for users to upload files and screenshots to their personal accounts using a dedicated [Windows](https://puush.me/dl/puush-installer.exe), [Mac OS](https://puush.me/dl/puush.zip), or [iOS](https://itunes.apple.com/au/app/puush/id386524126?mt=8) application. Once uploaded, these files can then be managed from the puush.me website, put into "pools" (photo albums), or shared elsewhere using an easily shareable `puu.sh` link.
 
-A core feature of puush is its ability to capture and share screenshots instantly, which makes it particularly popular among [modders](/wiki/Modding). As puush is a file sharing service, not a file hosting service, uploaded files are only retained for a limited amount of time before they are deleted.
+A core feature of puush is its ability to capture and share screenshots instantly, which makes it particularly popular among [modders](/wiki/Modding). As puush is intended for sharing files, not a permanent file storage, uploaded files are only retained for a limited amount of time before they are deleted.
 
 ## Subscription
 
@@ -30,9 +30,9 @@ Similar to osu!, all puush users are not subjected to any ads regardless of thei
 
 ## Downscaling
 
-Starting from March 2014, puush no longer accepts registrations for the Pro plan as PayPal suspended puush's wire account due to a suspected Terms of Service breach.[^puush-paypal-suspension-ref] This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to concurrently pay out around $400 per month out of his own pocket to keep the service running, as puush's financials are independent from osu! and not tied to [supporter tag](/wiki/osu!supporter) purchases.[^puush-finances-ref]
+Starting from March 2014, puush no longer accepts registrations for the Pro plan as PayPal suspended puush's account due to a suspected Terms of Service breach.[^puush-paypal-suspension-ref] This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to concurrently pay out around $400 per month out of his own pocket to keep the service running, as puush's financials are independent from osu! and not tied to [supporter tag](/wiki/osu!supporter) purchases.[^puush-finances-ref]
 
-Later that year, in order to further make the service sustainable with minimal income revenue, puush disabled registrations for all new accounts altogether — although existing users may continue to use the service as usual.
+Later that year, puush's service was , puush disabled registrations for all new accounts altogether — although existing users may continue to use the service as usual.
 
 ## References
 
