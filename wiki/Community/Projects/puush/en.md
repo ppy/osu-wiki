@@ -8,7 +8,7 @@ tags:
 # puush
 
 ::: Infobox
-![Screenshot of puush's interface](img/puushScreenshot.png "Screenshot of puush's application interface, as taken from [CNET's coverage of the service](https://www.cnet.com/culture/use-puush-to-share-images-and-screenshots-quickly/)")
+![Screenshot of puush's interface](img/puushScreenshot.png "Screenshot of puush's application interface, as taken from CNET's coverage of the service")
 :::
 
 **[puush.me](https://puush.me)**, often referred to as **puush**, is a file sharing service run and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) and ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102). First launched in June 2010, the service serves as a successor to [upppy](/wiki/upppy) with a greater focus on screen sharing and user data management.
@@ -21,7 +21,7 @@ A core feature of puush is its ability to capture and share screenshots instantl
 
 ## Subscription
 
-While puush is available to everyone free of charge, in order to keep the service self-sufficient, puush offers a "Pro" plan that users can subscribe to for US$15/year.[^puush-pro-plan-ref] This plan comes with a couple of extra benefits for the subscribing user, namely:
+While puush was available to everyone free of charge, in order to keep the service self-sufficient, puush offered a "Pro" plan that users could subscribe to for US$15/year.[^puush-pro-plan-ref] This plan came with a couple of extra benefits for the subscribing user, namely:
 
 - Increased maximum filesize limit (20 MB for Free users vs. 250 MB for Pro users)
 - Increased file retention period (1 months since last access for Free users vs. 6 months since last access for Pro users)
