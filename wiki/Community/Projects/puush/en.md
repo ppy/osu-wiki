@@ -32,10 +32,11 @@ Similar to osu!, all puush users are not subjected to any ads regardless of thei
 
 Starting from March 2014, puush no longer accepts registrations for the Pro plan as PayPal suspended puush's account due to a suspected Terms of Service breach.[^puush-paypal-suspension-ref] This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to concurrently pay out around $400 per month out of his own pocket to keep the service running, as puush's financials are independent from osu! and not tied to [supporter tag](/wiki/osu!supporter) purchases.[^puush-finances-ref]
 
-Later that year, puush's service was , puush disabled registrations for all new accounts altogether — although existing users may continue to use the service as usual.
+Later that year, as the maintenance for puush comes to a halt, puush disabled registrations for all new accounts altogether — although existing users may continue to use the service as usual.[^puush-maintenance-ref]
 
 ## References
 
 [^puush-pro-plan-ref]: [puush's FAQ page](https://puush.me/faq): "*What are the differences between the free and pro accounts?*"
 [^puush-paypal-suspension-ref]: [Tweet by peppy (2014-03-25)](https://twitter.com/ppy/status/1286507028962136064): "*in other news, paypal decided that puush is a file sharing service and therefore goes against their ToS. no more payment provider!*"
 [^puush-finances-ref]: [Tweet by peppy (2019-07-25)](https://twitter.com/ppy/status/1154349448807366657): "*i mean you can just throw money (buy osu! supporter tags or paypal (at) ppy.sh) if you want, but we don't really plan on having anything official. i'm happy to pay for puush from my pocket for the time being (~$400/month).*"
+[^puush-maintenance-ref]: [GitHub comment by peppy (2025-09-29)](https://github.com/ppy/osu-wiki/pull/13779#discussion_r2385975381): "*It was less about cost and more about us being done with maintaining the service. It was becoming way more effort than it was worth. I won't get started with the weird edge cases we had to deal with, but the internet is a weird/bad place when users can upload anything.*"
