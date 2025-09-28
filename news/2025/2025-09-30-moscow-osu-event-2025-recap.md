@@ -122,7 +122,7 @@ _Fun fact: the osu!mania 7K Tournament had more matches that went to Tiebreaker 
 
 ---
 
-A grand total of **432** people have visited Moscow osu! Event 2025, with **51** individual contributors and staff members making sure everything goes smooth! We are very thankful for everyone taking part in it and hope that the next iterations will be even bigger and more fun! Make sure to follow Moscow osu! Event's [Discord server](https://discord.gg/moscowosuevent), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent) or [VK](https://vk.com/moscowosuevent) so you don't miss the next iteration!
+More than **450** people have visited Moscow osu! Event 2025, with **51** individual contributors and staff members making sure everything goes smooth! We are very thankful for everyone taking part in it and hope that the next iterations will be even bigger and more fun! Make sure to follow Moscow osu! Event's [Discord server](https://discord.gg/moscowosuevent), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent) or [VK](https://vk.com/moscowosuevent) so you don't miss the next iteration!
 
 ![MOE2025 Attendees megacollab](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/megacollab.jpg)
 
