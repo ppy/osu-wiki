@@ -87,6 +87,7 @@ tags:
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=US }:: [Kardashevband](https://osu.ppy.sh/users/33736126) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) (成员) |
 | ::{ flag=ES }:: [KeybladeMaster](https://osu.ppy.sh/users/5926683) | [xiiiac13](https://osu.ppy.sh/beatmaps/artists/423) |
+| ::{ flag=US }:: [kikoyu](https://osu.ppy.sh/users/10825836) | [kikoyu](https://osu.ppy.sh/beatmaps/artists/497) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=CA }:: [Kommisar](https://osu.ppy.sh/users/773405) | [Kommisar](https://osu.ppy.sh/beatmaps/artists/379) |
@@ -138,6 +139,7 @@ tags:
 | ::{ flag=PH }:: [WEARY](https://osu.ppy.sh/users/31900423) | [WEARY](https://osu.ppy.sh/beatmaps/artists/460) |
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) （成员） |
+| ::{ flag=ID }:: [Xuande](https://osu.ppy.sh/users/23032672) | [Xeon Diversity](https://osu.ppy.sh/beatmaps/artists/499) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |
 | ::{ flag=DE }:: [ZVLIAN](https://osu.ppy.sh/users/13687741) | [ZVLIAN](https://osu.ppy.sh/beatmaps/artists/455) |

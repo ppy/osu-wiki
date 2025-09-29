@@ -92,81 +92,43 @@ This competition has come to an end and resulted in the following podium:
 
 ## Board and Mappools
 
-### Quarterfinals
+### Grand Finals
 
-**[Download the mappack here! (165 MB)](https://drive.google.com/file/d/1NNIv0-WKktl0xQ6IBeRbtheh-mNprD5N/view)**
-
-| Column / Row | 1 | 2 | 3 | 4 |
-| :-: | :-: | :-: | :-: | :-: |
-| 1 | FM1 | HR1 | DT2 | NM3 |
-| 2 | FM3 | HD2 | NM2 | FM4 |
-| 3 | DT4 | FM2 | DT1 | NM1 |
-| 4 | HR2 | NM4 | HD1 | DT3 |
-
-- No Mod
-  1. [Kushper - Versailles [Kushper's Extra]](https://osu.ppy.sh/beatmapsets/2008600#osu/4233618)
-  2. [Demetori - Hartmann no Youkai Shoujo ~ Todestrieb und Lebenstrieb [Daycore's Skibidi Koishi Expert]](https://osu.ppy.sh/beatmapsets/1783400#osu/4643905)
-  3. [Synthion - Aurora [Extra]](https://osu.ppy.sh/beatmapsets/2007718#osu/4194938)
-  4. [Tsukuyomi - Tsuki ga Michiru [Collab Expert]](https://osu.ppy.sh/beatmapsets/1843924#osu/3822394)
-- Hidden
-  1. [sana - Sayonara, Teddy bear [Farewell, My beloved]](https://osu.ppy.sh/beatmapsets/2191905#osu/4636550)
-  2. [-45 - Kurenaikakei [allein's Insane]](https://osu.ppy.sh/beatmapsets/1893565#osu/3982739)
-- Hard Rock
-  1. [Rib - Tsukiakari [Chu's Another]](https://osu.ppy.sh/beatmapsets/1688783#osu/3661191)
-  2. [inabakumori x Neru - Roleless Weapon [Wither's Useless Insane]](https://osu.ppy.sh/beatmapsets/1949918#osu/4118560)
-- Double Time
-  1. [Huey Lewis and the News - Hip to Be Square [Hey Paul]](https://osu.ppy.sh/beatmapsets/2114775#osu/4440743)
-  2. [dieswyx - Do I deserve this [siiyu's hyper]](https://osu.ppy.sh/beatmapsets/2062869#osu/4314230)
-  3. [harmoe - VOICE [Hyper]](https://osu.ppy.sh/beatmapsets/1965103#osu/4662409)
-  4. [Otoda Masanori - fake face dance music [chu's insane]](https://osu.ppy.sh/beatmapsets/2056969#osu/4626185)
-- Free Mod
-  1. [TAG underground - POSSESSION [Ex]](https://osu.ppy.sh/beatmapsets/2244350#osu/4771156)
-  2. [Feryquitous - Qavsell [Otosaka's Insane]](https://osu.ppy.sh/beatmapsets/794102#osu/3987302)
-  3. [goreshit - Satori De Pon! [Kiarah's Extra]](https://osu.ppy.sh/beatmapsets/1550807#osu/4683469)
-  4. [Pa's Lam System - Like A Lady [AncuL's Insane]](https://osu.ppy.sh/beatmapsets/675600#osu/1706356)
-- Extra
-  1. [Magnetude - I'm For You [Extra: Steklovata]](https://osu.ppy.sh/beatmapsets/1133651#osu/3886335)
-  2. [Ogura Yui - Clear Morning [Daybreak]](https://osu.ppy.sh/beatmapsets/1644119#osu/3355984)
-  3. [VeetaCrush - Dandelion's Daydream (Extended Mix) [384's "Void" Another]](https://osu.ppy.sh/beatmapsets/1342167#osu/3214255)
-  4. [Halozy - Kanshou no Matenrou [Eternal]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)
-
-### Semifinals
-
-**[Download the mappack here! (142 MB)](https://drive.google.com/file/d/1YsNGC8y2GK0DX9Pv0yvBLe55dG4TFXMd/view)**
+**[Download the mappack here! (182 MB)](https://drive.google.com/file/d/15HH9owdVHT6LSYF1UzIWlNkeuMi0htDd/view)**
 
 | Column / Row | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | DT3 | FM3 | HD1 | DT2 |
-| 2 | DT1 | NM4 | FM1 | HR1 |
-| 3 | HR2 | HD2 | NM2 | FM2 |
-| 4 | NM3 | FM4 | DT4 | NM1 |
+| 1 | FM4 | DT1 | NM4 | FM3 |
+| 2 | DT2 | NM3 | DT3 | DT4 |
+| 3 | HD1 | FM1 | HR2 | HR1 |
+| 4 | FM2 | NM1 | NM2 | HD2 |
 
 - No Mod
-  1. [Zektbach - Apocalypse \~dirge of swans\~ [Apocalypse of the Mind]](https://osu.ppy.sh/beatmapsets/1936602#osu/4002902)
-  2. [Gram - GuNGNiR [gungaspeeding (kip edit)]](https://osu.ppy.sh/beatmapsets/1744804#osu/3568595)
-  3. [ginkiha - EOS [Phten02's End of the Universe Expert]](https://osu.ppy.sh/beatmapsets/2151567#osu/4644280)
-  4. [Fujikawa Chiai - Yubisaki kara [gazimal's Extra]](https://osu.ppy.sh/beatmapsets/2042295#osu/4541384)
+  1. [Xi - Shoujo Kisoukyoku ~ Speed Battle [Extra Stage]](https://osu.ppy.sh/beatmapsets/1286282#osu/2670759)
+  2. [Nor - Signal of Abydos (xi Remix) [Extra]](https://osu.ppy.sh/beatmapsets/2154895#osu/4730515)
+  3. [MYUKKE. - Boudica [Uprising]](https://osu.ppy.sh/beatmapsets/2128778#osu/4475964)
+  4. [PinocchioP - Reincarnation Apple feat. Hatsune Miku [Alvearia's Extra]](https://osu.ppy.sh/beatmapsets/1976954#osu/4347160)
 - Hidden
-  1. [YOASOBI - Yuusha [Hinae's Extra]](https://osu.ppy.sh/beatmapsets/2067581#osu/4407291)
-  2. [Mai Kuraki - key to my heart [Insane]](https://osu.ppy.sh/beatmapsets/2112715#osu/4435675)
+  1. [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui [Descent]](https://osu.ppy.sh/beatmapsets/926846#osu/1935864)
+  2. [JynX - Eigou Butou Kikan  ~ Shall We Dance!! [P_O's Unreal]](https://osu.ppy.sh/beatmapsets/2033249#osu/4295521)
 - Hard Rock
-  1. [Sota Fujimori - Move That Body -Extended Mix- [RLC's Extra]](https://osu.ppy.sh/beatmapsets/220220#osu/542336)
-  2. [SawanoHiroyuki[nZk]:mica - Summer Tears [Tears]](https://osu.ppy.sh/beatmapsets/734227#osu/1549252)
+  1. [Isekai Joucho - Kyoukankaku Obake [Rosta's Affection]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385599)
+  2. [Towa Tei with Sheena Ringo - APPLE [mae's Insane]](https://osu.ppy.sh/beatmapsets/1851719#osu/3956035)
 - Double Time
-  1. [Wang Yi Tao - Zi You Sheng Guang [Present's Insane]](https://osu.ppy.sh/beatmapsets/830266#osu/1821817)
-  2. [MiddleIsland - Piano Kyousoukyoku Ni-ban "Nageki no Mai" [Collab Insane]](https://osu.ppy.sh/beatmapsets/1520799#osu/3112504)
-  3. [TK from Ling tosite sigure - first death [honne & annabel's hard]](https://osu.ppy.sh/beatmapsets/2033133#osu/4411596)
-  4. [Rina Sawayama - XS [Seolvjan's Insane (ar8)]](https://osu.ppy.sh/beatmapsets/1904266#osu/3926326)
+  1. [Ohara Yuiko - Only [Fantasy]](https://osu.ppy.sh/beatmapsets/1676680#osu/3425294)
+  2. [Kozato snow - Rengetsu Ouka [Ouka]](https://osu.ppy.sh/beatmapsets/1652647#osu/3373663)
+  3. [Escarmew - Hotarugari [Illumination]](https://osu.ppy.sh/beatmapsets/2182326#osu/4610921)
+  4. [Silver Forest - Kero (9) destiny [Hard]](https://osu.ppy.sh/beatmapsets/1670776#osu/3423825)
 - Free Mod
-  1. [Sound Horizon - Raijin no Hidariude [Insane (OFFC ver.)]](https://osu.ppy.sh/beatmapsets/2250607#osu/4786377)
-  2. [LiSA - Mitsu [Irohas' Extra]](https://osu.ppy.sh/beatmapsets/1799512#osu/3881365)
-  3. [Schwank & Tanger - deathwish [Kyudou's Insane]](https://osu.ppy.sh/beatmapsets/1859838#osu/4075870)
-  4. [HIMEHINA - Hitogata Rock [Asa's Insane]](https://osu.ppy.sh/beatmapsets/1361614#osu/2817423)
+  1. [Neru feat. Kagamine Rin - Lost One no Goukoku [Collab Expert]](https://osu.ppy.sh/beatmapsets/2028316#osu/4563138)
+  2. [Machita Chima - KING [Hamster Ass]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
+  3. [ARForest - Prometheus [Extra]](https://osu.ppy.sh/beatmapsets/1542079#osu/3152166)
+  4. [SOUND HOLIC - Swing and Jive ! [Nuclear !]](https://osu.ppy.sh/beatmapsets/1550606#osu/3168621)
 - Extra
-  1. [Metomate - Negai [seros x yf's Extra]](https://osu.ppy.sh/beatmapsets/1818721#osu/3795374)
-  2. [Natsume Itsuki - Oracion [Prayer]](https://osu.ppy.sh/beatmapsets/2077457#osu/4349931)
-  3. [Chroma - Destroy, Destroy, Destroy The Happy End (Cut Ver.) [Ralkinson's Extra]](https://osu.ppy.sh/beatmapsets/1160351#osu/3364545)
-  4. [Ayane - Azurite no Hitsugi (Artethia Remix) [Sorrow]](https://osu.ppy.sh/beatmapsets/2129263#osu/4477289)
+  1. [Meramipop - Secret Desire - Dyes Remix - [Irregular]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)
+  2. [SEPHID feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao ~ Little Raven [Firika's Extra]](https://osu.ppy.sh/beatmapsets/1173187#osu/2459125)
+  3. [FELT - Goodbye [Farewell]](https://osu.ppy.sh/beatmapsets/761374#osu/1601020)
+  4. [aishii x Sad Keyboard Guy - unrequited [-Spirit's Extra]](https://osu.ppy.sh/beatmapsets/1457239#osu/3738132)
 
 ### Finals
 
@@ -206,45 +168,114 @@ This competition has come to an end and resulted in the following podium:
   3. [EastNewSound feat. nayuta - Hiiro Gekka, Kyoushou no Zetsu -1st Anniversary Remix- [Extra Stage]](https://osu.ppy.sh/beatmapsets/1483410#osu/3042458)
   4. [Masayoshi Soken - In The Balance [Aglaia]](https://osu.ppy.sh/beatmapsets/1880199#osu/3870876)
 
-### Grand Finals
+### Semifinals
 
-**[Download the mappack here! (182 MB)](https://drive.google.com/file/d/15HH9owdVHT6LSYF1UzIWlNkeuMi0htDd/view)**
+**[Download the mappack here! (142 MB)](https://drive.google.com/file/d/1YsNGC8y2GK0DX9Pv0yvBLe55dG4TFXMd/view)**
 
 | Column / Row | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | FM4 | DT1 | NM4 | FM3 |
-| 2 | DT2 | NM3 | DT3 | DT4 |
-| 3 | HD1 | FM1 | HR2 | HR1 |
-| 4 | FM2 | NM1 | NM2 | HD2 |
+| 1 | DT3 | FM3 | HD1 | DT2 |
+| 2 | DT1 | NM4 | FM1 | HR1 |
+| 3 | HR2 | HD2 | NM2 | FM2 |
+| 4 | NM3 | FM4 | DT4 | NM1 |
 
 - No Mod
-  1. [Xi - Shoujo Kisoukyoku ~ Speed Battle [Extra Stage]](https://osu.ppy.sh/beatmapsets/1286282#osu/2670759)
-  2. [Nor - Signal of Abydos (xi Remix) [Extra]](https://osu.ppy.sh/beatmapsets/2154895#osu/4730515)
-  3. [MYUKKE. - Boudica [Uprising]](https://osu.ppy.sh/beatmapsets/2128778#osu/4475964)
-  4. [PinocchioP - Reincarnation Apple feat. Hatsune Miku [Alvearia's Extra]](https://osu.ppy.sh/beatmapsets/1976954#osu/4347160)
+  1. [Zektbach - Apocalypse \~dirge of swans\~ [Apocalypse of the Mind]](https://osu.ppy.sh/beatmapsets/1936602#osu/4002902)
+  2. [Gram - GuNGNiR [gungaspeeding (kip edit)]](https://osu.ppy.sh/beatmapsets/1744804#osu/3568595)
+  3. [ginkiha - EOS [Phten02's End of the Universe Expert]](https://osu.ppy.sh/beatmapsets/2151567#osu/4644280)
+  4. [Fujikawa Chiai - Yubisaki kara [gazimal's Extra]](https://osu.ppy.sh/beatmapsets/2042295#osu/4541384)
 - Hidden
-  1. [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui [Descent]](https://osu.ppy.sh/beatmapsets/926846#osu/1935864)
-  2. [JynX - Eigou Butou Kikan  ~ Shall We Dance!! [P_O's Unreal]](https://osu.ppy.sh/beatmapsets/2033249#osu/4295521)
+  1. [YOASOBI - Yuusha [Hinae's Extra]](https://osu.ppy.sh/beatmapsets/2067581#osu/4407291)
+  2. [Mai Kuraki - key to my heart [Insane]](https://osu.ppy.sh/beatmapsets/2112715#osu/4435675)
 - Hard Rock
-  1. [Isekai Joucho - Kyoukankaku Obake [Rosta's Affection]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385599)
-  2. [Towa Tei with Sheena Ringo - APPLE [mae's Insane]](https://osu.ppy.sh/beatmapsets/1851719#osu/3956035)
+  1. [Sota Fujimori - Move That Body -Extended Mix- [RLC's Extra]](https://osu.ppy.sh/beatmapsets/220220#osu/542336)
+  2. [SawanoHiroyuki[nZk]:mica - Summer Tears [Tears]](https://osu.ppy.sh/beatmapsets/734227#osu/1549252)
 - Double Time
-  1. [Ohara Yuiko - Only [Fantasy]](https://osu.ppy.sh/beatmapsets/1676680#osu/3425294)
-  2. [Kozato snow - Rengetsu Ouka [Ouka]](https://osu.ppy.sh/beatmapsets/1652647#osu/3373663)
-  3. [Escarmew - Hotarugari [Illumination]](https://osu.ppy.sh/beatmapsets/2182326#osu/4610921)
-  4. [Silver Forest - Kero (9) destiny [Hard]](https://osu.ppy.sh/beatmapsets/1670776#osu/3423825)
+  1. [Wang Yi Tao - Zi You Sheng Guang [Present's Insane]](https://osu.ppy.sh/beatmapsets/830266#osu/1821817)
+  2. [MiddleIsland - Piano Kyousoukyoku Ni-ban "Nageki no Mai" [Collab Insane]](https://osu.ppy.sh/beatmapsets/1520799#osu/3112504)
+  3. [TK from Ling tosite sigure - first death [honne & annabel's hard]](https://osu.ppy.sh/beatmapsets/2033133#osu/4411596)
+  4. [Rina Sawayama - XS [Seolvjan's Insane (ar8)]](https://osu.ppy.sh/beatmapsets/1904266#osu/3926326)
 - Free Mod
-  1. [Neru feat. Kagamine Rin - Lost One no Goukoku [Collab Expert]](https://osu.ppy.sh/beatmapsets/2028316#osu/4563138)
-  2. [Machita Chima - KING [Hamster Ass]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
-  3. [ARForest - Prometheus [Extra]](https://osu.ppy.sh/beatmapsets/1542079#osu/3152166)
-  4. [SOUND HOLIC - Swing and Jive ! [Nuclear !]](https://osu.ppy.sh/beatmapsets/1550606#osu/3168621)
+  1. [Sound Horizon - Raijin no Hidariude [Insane (OFFC ver.)]](https://osu.ppy.sh/beatmapsets/2250607#osu/4786377)
+  2. [LiSA - Mitsu [Irohas' Extra]](https://osu.ppy.sh/beatmapsets/1799512#osu/3881365)
+  3. [Schwank & Tanger - deathwish [Kyudou's Insane]](https://osu.ppy.sh/beatmapsets/1859838#osu/4075870)
+  4. [HIMEHINA - Hitogata Rock [Asa's Insane]](https://osu.ppy.sh/beatmapsets/1361614#osu/2817423)
 - Extra
-  1. [Meramipop - Secret Desire - Dyes Remix - [Irregular]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)
-  2. [SEPHID feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao ~ Little Raven [Firika's Extra]](https://osu.ppy.sh/beatmapsets/1173187#osu/2459125)
-  3. [FELT - Goodbye [Farewell]](https://osu.ppy.sh/beatmapsets/761374#osu/1601020)
-  4. [aishii x Sad Keyboard Guy - unrequited [-Spirit's Extra]](https://osu.ppy.sh/beatmapsets/1457239#osu/3738132)
+  1. [Metomate - Negai [seros x yf's Extra]](https://osu.ppy.sh/beatmapsets/1818721#osu/3795374)
+  2. [Natsume Itsuki - Oracion [Prayer]](https://osu.ppy.sh/beatmapsets/2077457#osu/4349931)
+  3. [Chroma - Destroy, Destroy, Destroy The Happy End (Cut Ver.) [Ralkinson's Extra]](https://osu.ppy.sh/beatmapsets/1160351#osu/3364545)
+  4. [Ayane - Azurite no Hitsugi (Artethia Remix) [Sorrow]](https://osu.ppy.sh/beatmapsets/2129263#osu/4477289)
+
+### Quarterfinals
+
+**[Download the mappack here! (165 MB)](https://drive.google.com/file/d/1NNIv0-WKktl0xQ6IBeRbtheh-mNprD5N/view)**
+
+| Column / Row | 1 | 2 | 3 | 4 |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | FM1 | HR1 | DT2 | NM3 |
+| 2 | FM3 | HD2 | NM2 | FM4 |
+| 3 | DT4 | FM2 | DT1 | NM1 |
+| 4 | HR2 | NM4 | HD1 | DT3 |
+
+- No Mod
+  1. [Kushper - Versailles [Kushper's Extra]](https://osu.ppy.sh/beatmapsets/2008600#osu/4233618)
+  2. [Demetori - Hartmann no Youkai Shoujo ~ Todestrieb und Lebenstrieb [Daycore's Skibidi Koishi Expert]](https://osu.ppy.sh/beatmapsets/1783400#osu/4643905)
+  3. [Synthion - Aurora [Extra]](https://osu.ppy.sh/beatmapsets/2007718#osu/4194938)
+  4. [Tsukuyomi - Tsuki ga Michiru [Collab Expert]](https://osu.ppy.sh/beatmapsets/1843924#osu/3822394)
+- Hidden
+  1. [sana - Sayonara, Teddy bear [Farewell, My beloved]](https://osu.ppy.sh/beatmapsets/2191905#osu/4636550)
+  2. [-45 - Kurenaikakei [allein's Insane]](https://osu.ppy.sh/beatmapsets/1893565#osu/3982739)
+- Hard Rock
+  1. [Rib - Tsukiakari [Chu's Another]](https://osu.ppy.sh/beatmapsets/1688783#osu/3661191)
+  2. [inabakumori x Neru - Roleless Weapon [Wither's Useless Insane]](https://osu.ppy.sh/beatmapsets/1949918#osu/4118560)
+- Double Time
+  1. [Huey Lewis and the News - Hip to Be Square [Hey Paul]](https://osu.ppy.sh/beatmapsets/2114775#osu/4440743)
+  2. [dieswyx - Do I deserve this [siiyu's hyper]](https://osu.ppy.sh/beatmapsets/2062869#osu/4314230)
+  3. [harmoe - VOICE [Hyper]](https://osu.ppy.sh/beatmapsets/1965103#osu/4662409)
+  4. [Otoda Masanori - fake face dance music [chu's insane]](https://osu.ppy.sh/beatmapsets/2056969#osu/4626185)
+- Free Mod
+  1. [TAG underground - POSSESSION [Ex]](https://osu.ppy.sh/beatmapsets/2244350#osu/4771156)
+  2. [Feryquitous - Qavsell [Otosaka's Insane]](https://osu.ppy.sh/beatmapsets/794102#osu/3987302)
+  3. [goreshit - Satori De Pon! [Kiarah's Extra]](https://osu.ppy.sh/beatmapsets/1550807#osu/4683469)
+  4. [Pa's Lam System - Like A Lady [AncuL's Insane]](https://osu.ppy.sh/beatmapsets/675600#osu/1706356)
+- Extra
+  1. [Magnetude - I'm For You [Extra: Steklovata]](https://osu.ppy.sh/beatmapsets/1133651#osu/3886335)
+  2. [Ogura Yui - Clear Morning [Daybreak]](https://osu.ppy.sh/beatmapsets/1644119#osu/3355984)
+  3. [VeetaCrush - Dandelion's Daydream (Extended Mix) [384's "Void" Another]](https://osu.ppy.sh/beatmapsets/1342167#osu/3214255)
+  4. [Halozy - Kanshou no Matenrou [Eternal]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)
 
 ## Match results
+
+### Grand Finals
+
+Match time: 20 October 2024 ~ 2 November 2024
+
+| Team 1 | Team 2 | Match link |
+| --: | :-- | :-- |
+| **沟槽的烤翅还在开战舰追我** | Bingo! | [#1](https://osu.ppy.sh/community/matches/115914380) |
+| **这是什么** | 沟槽的烤翅还在开战舰追我 | N/A *(win by default)* |
+
+### Finals
+
+Match time: 5 October 2024 ~ 8 October 2024
+
+| Team 1 | Team 2 | Match link |
+| --: | :-- | :-- |
+| **这是什么** | 沟槽的烤翅还在开战舰追我 | [#1](https://osu.ppy.sh/community/matches/115759584) |
+| Pingu\~Pingu\~ | **身为pp刷子因没练图而成了传说** | [#1](https://osu.ppy.sh/community/matches/115759876) |
+| **Bingo!** | 内有小南梁 | [#1](https://osu.ppy.sh/community/matches/115744612) |
+| 身为pp刷子因没练图而成了传说 | **Bingo!** | [#1](https://osu.ppy.sh/community/matches/115780911) |
+
+### Semifinals
+
+Match time: 21 September 2024 ~ 29 September 2024
+
+| Team 1 | Team 2 | Match link |
+| --: | :-- | :-- |
+| **这是什么** | Bingo! | [#1](https://osu.ppy.sh/community/matches/115660580) |
+| Pingu\~Pingu\~ | **沟槽的烤翅还在开战舰追我** | [#1](https://osu.ppy.sh/community/matches/115676257) |
+| 身为pp刷子因没练图而成了传说 | **诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧** | [#1](https://osu.ppy.sh/community/matches/115662073) |
+| **Helicopter** | 内有小南梁 | [#1](https://osu.ppy.sh/community/matches/115576295) |
 
 ### Quarterfinals
 
@@ -253,41 +284,10 @@ Match time: 15 September 2024 ~ 17 September 2024
 | Team 1 | Team 2 | Match link |
 | --: | :-- | :-- |
 | 内有小南梁 | **沟槽的烤翅还在开战舰追我** | [#1](https://osu.ppy.sh/community/matches/115502939) |
-| **Pingu\~Pingu\~** | Helicopter | [#2](https://osu.ppy.sh/community/matches/115504458) |
-| 身为pp刷子因没练图而成了传说 | **这是什么** | [#3](https://osu.ppy.sh/community/matches/115518198) |
-| **Bingo!** | 诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧 | [#4](https://osu.ppy.sh/community/matches/115528531) |
-
-### Semifinals
-
-Match time: 21 September 2024 ~ 29 September 2024
-
-| Team 1 | Team 2 | Match link |
-| --: | :-- | :-- |
-| **这是什么** | Bingo! | [#5](https://osu.ppy.sh/community/matches/115660580) |
-| Pingu\~Pingu\~ | **沟槽的烤翅还在开战舰追我** | [#6](https://osu.ppy.sh/community/matches/115676257) |
-| 身为pp刷子因没练图而成了传说 | **诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧** | [#7](https://osu.ppy.sh/community/matches/115662073) |
-| **Helicopter** | 内有小南梁 | [#8](https://osu.ppy.sh/community/matches/115576295) |
-
-### Finals
-
-Match time: 5 October 2024 ~ 8 October 2024
-
-| Team 1 | Team 2 | Match link |
-| --: | :-- | :-- |
-| **这是什么** | 沟槽的烤翅还在开战舰追我 | [#9](https://osu.ppy.sh/community/matches/115759584) |
-| Pingu\~Pingu\~ | **身为pp刷子因没练图而成了传说** | [#10](https://osu.ppy.sh/community/matches/115759876) |
-| **Bingo!** | 内有小南梁 | [#11](https://osu.ppy.sh/community/matches/115744612) |
-| 身为pp刷子因没练图而成了传说 | **Bingo!** | [#12](https://osu.ppy.sh/community/matches/115780911) |
-
-### Grand Finals
-
-Match time: 20 October 2024 ~ 2 November 2024
-
-| Team 1 | Team 2 | Match link |
-| --: | :-- | :-- |
-| **沟槽的烤翅还在开战舰追我** | Bingo! | [#13](https://osu.ppy.sh/community/matches/115914380) |
-| **这是什么** | 沟槽的烤翅还在开战舰追我 *(FF)* | - |
+| **Pingu\~Pingu\~** | Helicopter | [#1](https://osu.ppy.sh/community/matches/115504458) |
+| 身为pp刷子因没练图而成了传说 | **这是什么** | [#1](https://osu.ppy.sh/community/matches/115518198) |
+| **Bingo!** | 诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧 | [#1](https://osu.ppy.sh/community/matches/115528531) |
 
 ## Ruleset
 
-For more information about the rules of **OFFC: cirno**, please refer to our Simplified Chinese wiki page.
+For more information about the rules of **OFFC: cirno**, please refer to our [official website](https://offfc.github.io/docs/cirno/handbook).

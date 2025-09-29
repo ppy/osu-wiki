@@ -84,7 +84,6 @@ The osu!catch panel was formed on 14 October 2023.
 | :-- | :-- | :-- |
 | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 October 2023 |
 | ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) | 23 April 2025 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) | 14 October 2023 |
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 October 2023 |
 
 #### Previous members
@@ -93,6 +92,7 @@ The osu!catch panel was formed on 14 October 2023.
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | 14 October 2023 | 11 December 2024 |
 | ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | 14 October 2023 | 11 December 2024 |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | 14 October 2023 | 3 September 2025 |
 
 ### osu!mania
 
