@@ -7,13 +7,13 @@ tags:
 
 ![Logo de rajio](img/logo.png)
 
-**rajio.ppy.sh**, también conocido como **rajio**, era un servicio de radio en línea basado en solicitudes gestionado y alojado por ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) como proyecto paralelo a osu! en 2008. Dicho servicio le permitía a la gente poner en cola las canciones de su elección para que se reprodujeran en una emisión global.
+**rajio.ppy.sh**, también conocido como **rajio**, era un servicio de radio en línea basado en solicitudes gestionado y alojado por ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) como un proyecto paralelo a osu! en 2008. Dicho servicio le permitía a la gente poner en cola las canciones de su elección para que se reprodujeran en una emisión global.
 
 ## Servicio
 
-El funcionamiento de rajio era similar al de los bots de música contemporáneos de Discord, como [Ayana](https://ayana.io/) y [FredBoat](https://fredboat.com/). Al visitar el sitio web, los usuarios podían buscar canciones en la base de datos musical personal de peppy para añadirlas a la lista de reproducción de la radio. Se calculaba que esta base de datos tenía un tamaño aproximado de 400 GB y estaba compuesta principalmente por canciones de J-pop, anime y videojuegos.[^rajio-database-ref]
+El funcionamiento de rajio era similar al de los bots de música contemporáneos de Discord, como [Ayana](https://ayana.io/) y [FredBoat](https://fredboat.com/). Al visitar el sitio web, los usuarios podían buscar canciones en la base de datos musical personal de peppy para añadirlas a la lista de reproducción de la radio. Se calcula que esta base de datos tenía un tamaño aproximado de 400 GB y estaba compuesta principalmente por canciones de J-pop, anime y videojuegos.[^rajio-database-ref]
 
-Como rajio no era compatible con la descarga de canciones de fuentes externas como [YouTube](https://www.youtube.com/), no era posible añadir canciones que no estuvieran en la base de datos a la cola. Debido a las limitaciones del ancho de banda, el servicio solo podía manejar 6 usuarios simultáneos a la vez.
+Como rajio no era compatible con la búsqueda de canciones de fuentes externas como [YouTube](https://www.youtube.com/), no era posible añadir canciones que no estuvieran en la base de datos a la cola. Debido a las limitaciones del ancho de banda, el servicio solo podía manejar 6 usuarios simultáneos a la vez.
 
 ## Cierre definitivo y breve reactivación
 
