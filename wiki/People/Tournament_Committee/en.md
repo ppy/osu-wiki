@@ -63,7 +63,7 @@ Once a tournament has concluded and has requested a badge prize, two random memb
 - The existence of a publicly viewable catalogue of the tournament's match history.
 - Any staff and player lists are publicly available and the staff list is up to date.
 - The badge meets relevant [design criteria](/wiki/Tournaments/Official_support#profile-badges).
-- The tournament's mappools are public with no [content usage permissions](/wiki/Rules/Content_usage_permissions) violations.
+- The tournament's mappools are public with no [content usage rule violations](/wiki/Rules/Content_usage_permissions).
 
 Assigned members will indicate tournaments that pass the review process as eligible for badges. The account support team will apply the badges at a later time to the winners' profiles. If a tournament fails the review process, the reviewing members may advise the account support team on what changes need to be communicated to the tournament hosts. If these changes are not possible after the tournament's conclusion, the Tournament Committee will hold a vote on whether to withdraw official support or issue a punishment to the tournament organisers.
 
@@ -88,9 +88,9 @@ If a tournament host believes their tournament has achieved the highest level of
 
 Public communication by the Tournament Committee is handled through several channels. The purposes for these sometimes overlap, but all are official sources of information kept up to date by the Tournament Committee.
 
-The primary method of communicating with the public is via the [osu! Discord server](https://discord.gg/ppy)'s `#tournaments` and `#tournament-news` channels. The `#tournaments` channel is a great place to ask quick questions which don't require extensive internal deliberation. For complex topics, please open a [ticket](https://tcomm.hivie.tn/tickets).
+The primary method of communicating with the public is via the [osu! Discord server](https://discord.gg/ppy)'s `#tournaments` and `#tournament-news` channels. The `#tournaments` channel is a great place to ask quick questions which do not require extensive internal deliberation. For complex topics, please open a [ticket](https://tcomm.hivie.tn/tickets).
 
-The [Tournament Committee website](https://tcomm.hivie.tn/) is a resource users may use to contact the committee directly via reports and tickets. The website also has a [tool](https://tcomm.hivie.tn/mappool-compliance) to check whether beatmaps are cleared in terms of [Content usage permissions](/wiki/Rules/Content_usage_permissions). The committee uses this site to host votes, maintain community resources, conduct reviews, and maintain official support statuses.
+The [Tournament Committee website](https://tcomm.hivie.tn/) is a resource users may use to contact the committee directly via reports and tickets. The website also has a [tool](https://tcomm.hivie.tn/mappool-compliance) to check whether beatmaps are cleared in terms of [content usage permissions](/wiki/Rules/Content_usage_permissions). The committee uses this site to host votes, maintain community resources, conduct reviews, and maintain official support statuses.
 
 The [Official Tournament Support Updates thread](https://osu.ppy.sh/community/forums/topics/1715676) is a pinned thread in the [Tournaments & Contests forum](https://osu.ppy.sh/community/forums/126) which contains an up-to-date list of updates to the [official tournament support wiki article](/wiki/Tournaments/Official_support) dating back to February 1st, 2023. It also links to all the aforementioned resources.
 
@@ -113,13 +113,13 @@ Successful applicants have most of these qualities:
 
 Applicants may apply online by completing the [application form](https://forms.gle/3c51xGd3DzW2JCqV6) or by submitting an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). All applicants applying via email are expected to extensively detail their contributions, impact, and involvement in the tournament scene. The application form is preferred by the committee as it provides much more context than an email.
 
-Once a prospective member applies by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) or [applying online](https://forms.gle/3c51xGd3DzW2JCqV6), the committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, a vote is held to determine whether to add the candidate to the committee.
+Once a prospective member applies by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) or [applying via the form](https://forms.gle/3c51xGd3DzW2JCqV6), the committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, a vote is held to determine whether to add the candidate to the committee.
 
-Applicants that fail to gather enough positive votes will be denied, and won't be able to apply again for 6 months from the time of response to their application. The committee aims to return an answer to applicants within 2 weeks of the application date.
+Applicants that fail to gather enough positive votes will be denied, and will not be able to apply again for 6 months from the time of response to their application. The committee aims to return an answer to applicants within 2 weeks of the application date.
 
 ### Votes
 
-The Tournament Committee frequently makes use of voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended until the required participation threshold is met. Furthermore, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
+The Tournament Committee frequently makes use of voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended until the required participation threshold is met. Furthermore, all votes require an absolute majority, i.e. at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
 
 *Note: The participation threshold only considers members who have not abstained from the vote due to having a conflict of interest.*
 
@@ -155,13 +155,13 @@ The Tournament Committee can only see the content of emails to [tournaments@ppy.
 
 ### I need help immediately! What do I do?
 
-For immediate assistance, join the [osu! Discord server](https://discord.gg/ppy) and ping the `@tournament-committee` role in the `#tournaments` channel. This should be used in emergencies requiring immediate intervention only. For other urgent inquiries, please open a [ticket](https://tcomm.hivie.tn/tickets) and note the urgency there.
+For immediate assistance, join the [osu! Discord server](https://discord.com/invite/ppy) and ping the `@tournament-committee` role in the `#tournaments` channel. This should be used in emergencies requiring immediate intervention only. For other urgent inquiries, please open a [ticket](https://tcomm.hivie.tn/tickets) and note the urgency there.
 
 ## How can I help contribute?
 
 You can help the Tournament Committee by continuing to run excellent tournaments! If you have any issues or concerns regarding any aspect of a community tournament, we encourage you to bring these to our attention via the [tournament reports form](https://tcomm.hivie.tn/reports/create).
 
-Those who are interested in joining the committee should read through [adding new members](#adding-new-members) to learn about the team's expectations and application process.
+Those who are interested in joining the committee should read through the ["adding new members" section](#adding-new-members) to learn about the team's expectations and application process.
 
 ## Benefits
 
