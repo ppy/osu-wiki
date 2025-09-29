@@ -1,6 +1,6 @@
 # Отличия в геймплее osu!(lazer)
 
-*Сравнительный список функций Lazer и Stable можно посмотреть в разделе [Справочный центр/Обновление до lazer & Сравнение возможностей](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
+*Сравнительный список функций Lazer и Stable можно посмотреть в разделе [Справочный центр/Обновление до Lazer § Сравнение возможностей](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
 
 На этой странице описаны различия, влияющие на игровой процесс в osu!(lazer).
 
