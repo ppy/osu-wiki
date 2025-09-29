@@ -126,17 +126,15 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 ### History
 
 - Older versions of osu! used to emulate some of the elements from the *Ouendan* series before being removed or replaced:
-  - [Combo fire](/wiki/Gameplay/Combo_fire) when hitting new combo milestones.
+  - [Combo fire](/wiki/Gameplay/Combo_fire) which would appear when achieving new combo milestones.
   - The first version of the default skin using v1 skin behaviour, called *osu!default by peppy*, provides an almost identical copy of the *Ouendan* interface. It was later replaced by the current default skin using v2 skin behaviour.
     - This default skin can be found in osu!(lazer) under the name *osu! "retro" - team osu!* with all previous default skins osu! had.
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
-    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per the *Ouendan* series.
-      - The timer is a blue circle inside the spinner which will converge to the core of the spinner. The spinner ends when the timer circle reaches the core of the spinner.
-    - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
-      - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
+    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per the *Ouendan* series. The timer was also a blue circle inside the spinner which would converge to the core of the spinner. The spinner ends when the timer circle reaches the core of the spinner.
+    - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed. The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
 - The first three beatmaps ranked on the same day (07 October 2007, 2007-10-07) when the online leaderboard went live were:
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), which was apparently mapped in around an hour.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 )
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3)
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16)
 - Notably, the older folders have their own naming convention (the folder names can only be found in *ancient* beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
   - Downloading them directly from the [beatmap listing](https://osu.ppy.sh/beatmapsets) does follow the currently enforced naming format regardless.
