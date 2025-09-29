@@ -47,11 +47,11 @@ Everyone had a quest book with more than 50 different tasks to do — the more a
 
 Now we get to the most interesting part — the main tournament contained 16 players:
 
-- ::{ flag=RU }:: [DaHuJka](https://osu.ppy.sh/users/6830745), ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005), ::{ flag=RU }:: [KOCT9H](https://osu.ppy.sh/users/6585939), ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785), ::{ flag=RU }:: [-Din-](https://osu.ppy.sh/users/7972980), ::{ flag=RU }:: [maxim](https://osu.ppy.sh/users/9459674), ::{ flag=RU }:: [reimia](https://osu.ppy.sh/users/11243772), ::{ flag=RU }:: [xayoto](https://osu.ppy.sh/users/13334336) as finalists of the [CIS Tournament Rating](link.rtvs.fun/moe2025ratings)
-- ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) as the winner of #russian osu! cup 2024 winner
+- ::{ flag=RU }:: [DaHuJka](https://osu.ppy.sh/users/6830745), ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005), ::{ flag=RU }:: [KOCT9H](https://osu.ppy.sh/users/6585939), ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785), ::{ flag=RU }:: [-Din-](https://osu.ppy.sh/users/7972980), ::{ flag=RU }:: [maxim](https://osu.ppy.sh/users/9459674), ::{ flag=RU }:: [reimia](https://osu.ppy.sh/users/11243772), ::{ flag=RU }:: [xayoto](https://osu.ppy.sh/users/13334336) as finalists of the ["Road to #moe2025" Tournament Rating](https://link.play-osu.ru/moe25rating)
+- ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) as the winner of #russian osu! cup 2024
 - ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) as the winner of #russian osu! cup klassic '25
 - ::{ flag=RU }:: [11iq pleer](https://osu.ppy.sh/users/13206785), ::{ flag=RU }:: [BJIADOC](https://osu.ppy.sh/users/17031854), ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=RU }:: [GodRoPoNiKa](https://osu.ppy.sh/users/11195861) from the Closed Qualifier
-- ::{ flag=KZ }:: [nejzha](https://osu.ppy.sh/users/8105138), ::{ flag=BY }:: [Vudek](https://osu.ppy.sh/users/8816345)) as the wildcard attendees!
+- ::{ flag=KZ }:: [nejzha](https://osu.ppy.sh/users/8105138), ::{ flag=BY }:: [Vudek](https://osu.ppy.sh/users/8816345) as the wildcard attendees!
 
 The tournament had a single-elimination bracket and began from Round of 16.
 
@@ -130,7 +130,7 @@ The osu!mania 7K tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.s
 
 ---
 
-More than **450** people visited Moscow osu! Event 2025, with **51** individual contributors and staff members making sure everything goes smooth. We are very grateful to all participants and hope that next iterations will be even bigger and bring even more fun! Make sure to follow Moscow osu! Event's [Discord server](https://discord.gg/moscowosuevent), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent), or [VK](https://vk.com/moscowosuevent), so that you don't miss the next iteration!
+More than **450** people visited Moscow osu! Event 2025, with **51** individual contributors and staff members making sure everything goes smooth. We are very grateful to all participants and hope that next iterations will be even bigger and bring even more fun! Make sure to follow Moscow osu! Event's [Discord server](https://discord.gg/7GJvD9uyV7), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent), or [VK](https://vk.com/moscowosuevent), so that you don't miss the next iteration!
 
 ![MOE2025 Attendees megacollab](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/megacollab.jpg)
 
