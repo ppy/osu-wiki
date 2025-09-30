@@ -8,7 +8,7 @@ The third iteraton of Moscow osu! Event, the largest osu! event in Russia, took 
 
 ![](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/moe25-banner.jpg)
 
-This year’s Moscow osu! Event took place at Mosproducer, a concert hall situated in the center of Moscow, the capital of Russia.
+This year’s Moscow osu! Event took place at Mosproducer, a concert hall situated at the center of Moscow, Russia.
 
 
 # Activities recap
@@ -36,12 +36,12 @@ There also were some merchandise booths with different stickers, t-shirts, keybo
 
 ![Gaming Booth](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/gamezone2.jpg)
 
-### The Quest book
+### Quest book
 Everyone had a quest book with more than 50 different tasks to do — the more activity completion stamps you acquired, the cooler reward you could get!
 
 ![Gaming Booth](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/questbook.jpg)
 
-# The Main Tournament
+# Main tournament
 
 **Tournament bracket: [Moscow osu! Event 2025 - Main Event](https://challonge.com/ru/moe2025)**
 
@@ -63,7 +63,7 @@ The tournament had a single-elimination bracket and began from Round of 16.
 **Match VOD: [MOE2025 Day 1 — 47:11](https://youtu.be/dR9aCY2Bq4w?si=VWFEB4ohQAst7xqj&t=2870)**
 
 
-The first match of the tournament, unlike most of viewers expectations, became the first (and only) match that went up to Tiebreaker!
+The first match of the tournament, unlike most of viewers expectations, became the first (and only) match that went up to tiebreaker!
 ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) was very good with his speed picks, as well as the flow stream one. ::{ flag=RU }:: [BJIADOC](https://osu.ppy.sh/users/17031854), on the other hand, showed himself well on the snap alt and hidden mod picks, with HD3 being the only close map (14,627 points difference!) up until the tiebreaker. The tiebreaker itself was even closer though, but with a total difference of 13,725 points, ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) managed to win and advance to the next stage!
 
 ### ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) vs ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867)
@@ -75,7 +75,7 @@ The final match of the tournament. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/u
 
 The first half of the match went pretty straightforward: both players were easily taking their picks up until the score of 3-3. After that, something went wrong and 3 breakpoints have happened in a row, getting the score to 4-5. The last map was picked by ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) and won by him as well!
 
-With a score of 6-4, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) have won Moscow osu! Event for the first time, breaking his 2nd place curse. His performance during the whole tournament was very astonishing, making him one of the best Russian players with a no doubt!
+With a score of 6-4, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) won Moscow osu! Event for the first time, breaking his second place curse. His performance during the whole tournament was astonishing, making him one of the best Russian players without a doubt!
 
 ![Tournament winner (Welter)](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/welter_prize.jpg)
 
@@ -86,7 +86,7 @@ Game modes other than osu! also had their share of LAN tournaments, with osu!man
 ### osu!taiko
 
 The osu!taiko tournament featured ::{ flag=RU }:: [\_TheXFactory\_](https://osu.ppy.sh/users/15013948), ::{ flag=RU }:: [Den4ik228](https://osu.ppy.sh/users/7115174), ::{ flag=RU }:: [SceptifyMK](https://osu.ppy.sh/users/20843003), and ::{ flag=RU }:: [taikoshallah](https://osu.ppy.sh/users/11117835) from the Russian Federation team of the [osu!taiko World Cup 2025](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2025).
-### Matches summary
+### Match summary
 | Player A |  |  | Player B | VOD link | 
 | --: | :-: | :-: | :-- | :-: |
 | [Den4ik228](https://osu.ppy.sh/users/7115174) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[\_TheXFactory\_](https://osu.ppy.sh/users/15013948)** | [#1](https://youtu.be/xatn-BXpMho?si=gQGPyNmAHo_k-8Az&t=26269) |
@@ -95,7 +95,7 @@ The osu!taiko tournament featured ::{ flag=RU }:: [\_TheXFactory\_](https://osu.
 
 ### osu!catch
 
-The osu!catch tournaments featured ::{ flag=RU }:: [BocDyx](https://osu.ppy.sh/users/7926192), ::{ flag=RU }:: [snailbrack](https://osu.ppy.sh/users/6650048), ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589), and, _uh... a player under the name \~R\~_?
+The osu!catch tournaments featured ::{ flag=RU }:: [BocDyx](https://osu.ppy.sh/users/7926192), ::{ flag=RU }:: [snailbrack](https://osu.ppy.sh/users/6650048), ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589), and, *uh... a player under the name \~R\~?*
 
 To make things a little more interesting, the fourth player for that tournament was kept in secret until their first match. It turned out they were ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), one of the hosts of the event!
 
