@@ -12,19 +12,19 @@ This year’s Moscow osu! Event took place at Mosproducer, a concert hall situat
 
 
 # Activities recap
-### Cosplay défilé
-A cosplay défilé was organised during the event, allowing anyone to show themselves as their favourite (or funny) character.
+### Cosplay show
+A cosplay show was organised during the event, allowing anyone to show themselves as their favourite (or funny) character.
 All participants' cosplays were also judged by event organisers, choosing these works as the best ones:
 
-1st place - ::{ flag=RU }:: **myfk** cosplaying Rin Kaenbyou from Touhou Project. Her ribbon show during défilé shocked everyone, immediately proving that she deserves that first place.
+**1st place** - ::{ flag=RU }:: **myfk** cosplaying Rin Kaenbyou from Touhou Project. Her ribbon show during show shocked everyone, immediately proving that she deserves that first place.
 
 ![Cosplay 1st place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-1.jpg)
 
-2nd place - ::{ flag=RU }:: **[ksuenoot](https://osu.ppy.sh/users/5069845)**, a winner of last year cosplay défilé, with a cosplay of Burnice from Zenless Zone Zero. She became the only person getting to top 3 cosplays for 2 consecutive years.
+**2nd place** - ::{ flag=RU }:: **[ksuenoot](https://osu.ppy.sh/users/5069845)**, a winner of last year cosplay show, with a cosplay of Burnice from Zenless Zone Zero. She became the only person getting to top 3 cosplays for 2 consecutive years.
 
 ![Cosplay 2nd place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-2.jpg)
 
-3rd place - a joint collab between ::{ flag=RU }:: **[Graja_1](https://osu.ppy.sh/users/38171011)** & ::{ flag=RU }:: **[Wise-holo](https://osu.ppy.sh/users/34233389)**, cosplaying Touhou Project's Nazrin, the leader of a great number of mice, and a big mouse itself!
+**3rd place** - a joint collab between ::{ flag=RU }:: **[Graja_1](https://osu.ppy.sh/users/38171011)** & ::{ flag=RU }:: **[Wise-holo](https://osu.ppy.sh/users/34233389)**, cosplaying Touhou Project's Nazrin, the leader of a great number of mice, and a big mouse itself!
 
 ![Cosplay 3rd place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-3.jpg)
 
