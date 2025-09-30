@@ -13,8 +13,7 @@ This year’s Moscow osu! Event took place at Mosproducer, a concert hall situat
 
 # Activities recap
 ### Cosplay show
-A cosplay show was organised during the event, allowing anyone to show themselves as their favourite (or funny) character.
-All participants' cosplays were also judged by event organisers, choosing these works as the best ones:
+A cosplay show was organised during the event, allowing anyone to show themselves as their favourite (or funny) character. All participants' cosplays were also judged by event organisers, choosing these works as the best ones:
 
 **1st place** - ::{ flag=RU }:: **myfk** cosplaying Rin Kaenbyou from Touhou Project. Her ribbon show during show shocked everyone, immediately proving that she deserves that first place.
 
