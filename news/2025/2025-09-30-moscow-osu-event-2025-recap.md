@@ -88,7 +88,7 @@ Game modes other than osu! also had their share of LAN tournaments, with osu!man
 
 ### osu!taiko
 
-The osu!taiko tournament featured ::{ flag=RU }:: [\_TheXFactory\_](https://osu.ppy.sh/users/15013948), ::{ flag=RU }:: [Den4ik228](https://osu.ppy.sh/users/7115174), ::{ flag=RU }:: [SceptifyMK](https://osu.ppy.sh/users/20843003), and ::{ flag=RU }:: [taikoshallah](https://osu.ppy.sh/users/11117835) from the Russian Federation team of the [osu!taiko World Cup 2025](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2025).
+The osu!taiko tournament featured ::{ flag=RU }:: [\_TheXFactory\_](https://osu.ppy.sh/users/15013948), ::{ flag=RU }:: [Den4ik228](https://osu.ppy.sh/users/7115174), ::{ flag=RU }:: [SceptifyMK](https://osu.ppy.sh/users/20843003), and ::{ flag=RU }:: [taikoshallah](https://osu.ppy.sh/users/11117835) from the Russian Federation team of the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025).
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
@@ -110,7 +110,7 @@ To make things a little more interesting, the fourth player for that tournament 
 
 ### osu!mania 4K
 
-The osu!mania 4K tournament featured ::{ flag=RU }:: [-Oni-Chan-](https://osu.ppy.sh/users/10036005), ::{ flag=RU }:: [Dystire](https://osu.ppy.sh/users/11585213), ::{ flag=RU }:: [kloofhi](https://osu.ppy.sh/users/29627572), and ::{ flag=RU }:: [VikaGamer228](https://osu.ppy.sh/users/20049082), two of which were in the [osu!mania 4K World Cup 2024](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2024_4K)!
+The osu!mania 4K tournament featured ::{ flag=RU }:: [-Oni-Chan-](https://osu.ppy.sh/users/10036005), ::{ flag=RU }:: [Dystire](https://osu.ppy.sh/users/11585213), ::{ flag=RU }:: [kloofhi](https://osu.ppy.sh/users/29627572), and ::{ flag=RU }:: [VikaGamer228](https://osu.ppy.sh/users/20049082), two of which were in the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K)!
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
@@ -120,7 +120,7 @@ The osu!mania 4K tournament featured ::{ flag=RU }:: [-Oni-Chan-](https://osu.pp
 
 ### osu!mania 7K
 
-The osu!mania 7K tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.sh/users/7156634), ::{ flag=RU }:: [PhobosX](https://osu.ppy.sh/users/2570019), ::{ flag=RU }:: [timebuka](https://osu.ppy.sh/users/6857841), and ::{ flag=RU }:: [X_Devil](https://osu.ppy.sh/users/6694908); two of them were in the [osu!mania 7K World Cup 2025](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2025_7K)!!
+The osu!mania 7K tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.sh/users/7156634), ::{ flag=RU }:: [PhobosX](https://osu.ppy.sh/users/2570019), ::{ flag=RU }:: [timebuka](https://osu.ppy.sh/users/6857841), and ::{ flag=RU }:: [X_Devil](https://osu.ppy.sh/users/6694908); two of them were in the [osu!mania 7K World Cup 2025](/wiki/Tournaments/MWC/2025_7K)!!
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
