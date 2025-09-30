@@ -71,8 +71,8 @@ The first match of the tournament, unlike most of viewers expectations, became t
 
 #### ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) vs ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867)
 
-**Match log: [MOE2025: (Lexu4S) vs (Lexu3S)](https://osu.ppy.sh/community/matches/118799095)**\
-**Match VOD: [MOE2025 Day 3 — 9:48:57](https://youtube.com/watch?v=fIpS-LFpB7w&t=35337)**
+**[View the match information here!](https://osu.ppy.sh/community/matches/118799095)**\
+**[View the match VOD here! (Russian commentary)](https://youtube.com/watch?v=fIpS-LFpB7w&t=35337)**
 
 The final match of the tournament. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867), being the runner-up for the last 2 iterations of MOE, now gets a third chance to win the tournament. And even though ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) was not getting this far before and actually losing to ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) last year, he still has high chances to win this tournament as well.
 
