@@ -3,7 +3,6 @@ tags:
   - KPMC1
   - KPMC 1
   - KPMC#1
-  - KPMC #1
 ---
 
 # K-Pop Mapping Contest #1
@@ -60,17 +59,17 @@ The **K-Pop Mapping Contest #1** (***KPMC#1***) is a mapping contest focusing on
 
 ### Contest rules
 
-- Submission must be for the osu!mania game mode only and between 4K and 7K.
-- Submissions can follow an open song choice, as long as the song is in Korean language and Pop genre.
-- Submission should be one difficulty with difficulty range at Hard or higher.
-- Submissions must adhere to the [Ranking criteria](/wiki/Ranking_criteria).
-- Submissions should be rankable with one difficulty, otherwise it will deduct from Rankability score.
-- Submissions must include a background that complies with the [Visual content considerations](/Rules/Visual_content_considerations).
-- Submissions must include a custom hitnormal file.
-- Collaboration work is not allowed in this contest. Your submission should be made by yourself.
 - Submissions must be in `.osz` format.
+- Submissions must be made for the osu!mania game mode only, between 4K and 7K.
+- Submissions can follow an open song choice, as long as the song is Korean language and Pop genre.
+- Submissions must adhere to the [Ranking criteria](/wiki/Ranking_criteria).
+- Submissions should be one difficulty with a difficulty range of Hard or higher.
+- Submissions should be rankable with one difficulty, otherwise it will deduct from Rankability score.
+- Submissions must include a custom hitnormal file.
+- Collaboration work is not allowed in this contest. Submissions should be made individually.
+- Submissions must include a background that complies with the [Visual content considerations](/Rules/Visual_content_considerations).
 - Videos, skins, and storyboards are not allowed.
-- Submitting your map on the BSS before the results announcement is forbidden.
+- Submitting your map to the BSS before the results announcement is forbidden and will result in disqualification.
 
 ### Judging criteria
 
@@ -81,4 +80,5 @@ The **K-Pop Mapping Contest #1** (***KPMC#1***) is a mapping contest focusing on
 
 ## Notes
 [^ranked]: The top 3 submissions will receive 2 nominations if the mapper wishes to.
+
 [^playtester]: The submission chosen by the playtester based on its playability aspect.
