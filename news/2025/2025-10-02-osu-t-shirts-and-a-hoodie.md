@@ -79,7 +79,7 @@ You might think of peppy as a stone-cold software developer, but when he's weari
 
 ![](/wiki/shared/news/2025-10-02-osu-t-shirts-and-a-hoodie/summer_peppy.jpg)
 
-### [pippi under the stars](LINK)
+### [pippi under the stars t-shirt](LINK)
 
 Approximately 6 months later...
 
