@@ -1,0 +1,114 @@
+---
+layout: post
+title: osu!shirts (and a hoodie)
+date: 2025-10-02 20:00:00 +0000
+---
+
+You're obviously an osu! player, but do your friends know? Do your neighbors know? Does every person you pass on the street know? If you wear a new osu!shirt (or an osu!hoodie), they will.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/multimode_osu.jpg)
+
+Okay, fine. People you pass on the street probably don't know what osu! is, but that shouldn't stop you from upgrading your wardrobe:
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/osu_apparel_25.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+## [multi-mode shirt + hoodie](LINK)
+
+We've explored a variety of t-shirt designs throughout the years, but one question has always been on your minds: "Why don't any osu! shirts feature *osu!* itself?"
+
+That's why [the *multi-mode* shirt](LINK) exists, sporting a simple osu! logo on the front side...
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/multimode_front.jpg)
+
+...While the back side has a snippet of gameplay from every ruleset! According to its designer [Sing](https://osu.ppy.sh/users/3795679), each of these object arrangements comes from a World Cup Grand Finals tiebreaker. Good luck figuring out which ones.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/multimode_back.jpg)
+
+Oh, and did we mention this is available as [a zip-up hoodie](LINK) too?
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/multimode_hoodie.jpg)
+
+The next osu!(lazer) update is going to be a big one, and that's clearly because [peppy](https://osu.ppy.sh/users/2) has been developing the game while wearing this.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/multimode_peppy.jpg)
+
+Get your preferred garment from either of these store pages:
+
+- [*multi-mode* t-shirt](LINK)
+- [*multi-mode* hoodie](LINK)
+
+Perhaps the osu!clock evangelists were right. We needed hitcircles on our merchandise all along.
+
+## [the three digit number shirt](LINK)
+
+Look at what you've done to our developer.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/wysi_peppy.jpg)
+
+On the front side of [*the three digit number* shirt](LINK), you'll see... it. The text on top very appropriately reads "three numbers which will haunt you forevermore."
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/wysi_front.jpg)
+
+Carved into the backside is a sigil inspired by the one who first bore witness. Wear this wisely, as anyone who doesn't share your curse will surely have questions.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/wysi_back.jpg)
+
+In case you were wondering who to make a voodoo doll out of, [kaetwo](https://osu.ppy.sh/users/1997719) is the mastermind behind this design.
+
+You already know if this shirt is for you. [Grab it here.](LINK)
+
+## [seasonal pippi shirts](LINK)
+
+Anyone familiar with osu!'s seasonal fanart contests has surely come across [Tofumang](https://osu.ppy.sh/users/4817223)'s illustrative perfection. We think he's pretty good at drawing too, so we asked him to place osu!'s mascot [pippi](/wiki/Mascots#pippi) in the hottest and coldest seasons.
+
+Then, of course, he delivered beyond expectations.
+
+### [under the sun shirt](LINK)
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/summer_header.jpg)
+
+In both bright yellow and sunset orange, [the *under the sun* shirt](LINK) captures a snapshot of pippi under the blazing sun.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/summer_body.jpg)
+
+You might think of peppy as a stone-cold software developer, but when he's wearing this shirt, he's a totally different person.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/summer_peppy.jpg)
+
+### [under the stars](LINK)
+
+Approximately 6 months later...
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/winter_header.jpg)
+
+In shades of purple and green, [the *under the stars* shirt](LINK) presents pippi under a chilly night sky, wrapped in enough layers to keep anyone warm and comfy.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/winter_body.jpg)
+
+We'll refrain from a pun about how "cool" peppy looks here.
+
+![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/winter_peppy.jpg)
+
+## Other products
+
+"What's going to happen to older osu! shirts?", you might ask. We've set up [this special store page](LINK) covering *all* of our soon-to-be-extinct shirts. There aren't many left, but if you want one in addition to your fancy new clothes, now's the time.
+
+We also re-stocked [pink and brown *isshoni pippi* shirts](https://osu.ppy.sh/store/products/560), so they'll be sticking around for a while longer!
+
+And in completely unrelated news, [**osu!tablets are back in stock too!**](https://osu.ppy.sh/store/products/1447) We're shipping these from Hong Kong, so due to trade restrictions, we are not currently shipping to the US. For everyone else, shipping fees should be much lower!
+
+---
+
+Pick up a new shirt (or hoodie):
+
+- [*multi-mode* shirt](LINK)
+- [*multi-mode* hoodie](LINK)
+- [*the three digit number* shirt](LINK)
+- [*under the sun* shirt](LINK)
+- [*under the stars* shirt](LINK)
+
+—osu! team
