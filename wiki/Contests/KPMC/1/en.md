@@ -67,7 +67,7 @@ The **K-Pop Mapping Contest #1** (***KPMC#1***) is a mapping contest focusing on
 - Submissions should be rankable with one difficulty, otherwise it will deduct from Rankability score.
 - Submissions must include a custom hitnormal file.
 - Collaboration work is not allowed in this contest. Your submission should be made by yourself.
-- Submissions must include a background that complies with the [Visual content considerations](/Rules/Visual_content_considerations).
+- Submissions must include a background that complies with the [Visual content considerations](/wiki/Rules/Visual_content_considerations).
 - Videos, skins, and storyboards are not allowed.
 - Submitting your map to the BSS before the results announcement is forbidden and will result in disqualification.
 
