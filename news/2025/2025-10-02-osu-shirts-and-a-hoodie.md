@@ -49,7 +49,7 @@ Look at what you've done to our developer.
 
 ![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/wysi_peppy.jpg)
 
-On the front side of [*the three digit number* shirt](LINK), you'll see... it. The text on top very appropriately reads "three numbers which will haunt you forevermore."
+On the front side of [*the three digit number* shirt](LINK), you'll see... it. The text on top very appropriately reads "three numbers which will haunt you forevermore".
 
 ![](/wiki/shared/news/2025-10-02-osu-shirts-and-a-hoodie/wysi_front.jpg)
 
@@ -111,4 +111,4 @@ Pick up a new shirt (or hoodie):
 - [*under the sun* shirt](LINK)
 - [*under the stars* shirt](LINK)
 
-—osu! team
+—the osu! team
