@@ -1,6 +1,6 @@
 # Projects
 
-This article lists the many osu!-related projects, tools, and/or services
+This article lists the osu!-related projects, tools, and/or services made
 
 ## Official
 
