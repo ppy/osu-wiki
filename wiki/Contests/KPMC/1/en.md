@@ -26,7 +26,7 @@ The **K-Pop Mapping Contest #1** (***KPMC#1***) is a mapping contest focusing on
 | Host | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |
 | Designer | ::{ flag=ID }:: [kim hyunjin](https://osu.ppy.sh/users/9456733) |
 | Playtester | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055) |
-| Judge | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/9456733), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) |
+| Judge | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604), ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) |
 
 ## Prizes
 
@@ -73,10 +73,10 @@ The **K-Pop Mapping Contest #1** (***KPMC#1***) is a mapping contest focusing on
 
 ### Judging criteria
 
-- **Music Representation (15pts):** how well the map reflects the music, through its emphasis, patterning, etc.
-- **Creativity (15pts):** how the map stands out compared to the other submissions.
-- **Rankability (5pts):** how suitable the map is for ranking. This means ensuring it is timed correctly and follows osu!mania Ranking Criteria (both overall and difficulty-specific).
-- **Judge Impression (5pts):** how well the judges believe the map is put together. They can award points based on aspects they find noteworthy or memorable.
+- **Music Representation (15):** How well the map reflects the music, through its emphasis, patterning, etc.
+- **Creativity (15):** How the map stands out compared to the other submissions.
+- **Rankability (5):** How suitable the map is for ranking. This means ensuring it is timed correctly and follows osu!mania Ranking Criteria (both overall and difficulty-specific).
+- **Judge Impression (5):** How well the judges believe the map is put together. They can award points based on aspects they find noteworthy or memorable.
 
 ## Notes
 [^ranked]: The top 3 submissions will receive 2 nominations if the mapper wishes to.
