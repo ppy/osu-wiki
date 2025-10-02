@@ -16,6 +16,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu!web](https://github.com/ppy/osu-web/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | The browser-facing portion of osu!. |
 | ![](img/logo_blank.png) | [osu-api](https://github.com/ppy/osu-api/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Public API for accessing osu! related data. |
 | ![](img/logo_blank.png) | [osu! wiki](https://github.com/ppy/osu-wiki/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Open-source knowledge base for all things osu!. |
+| ![](img/logo_puush.png) | [puush](/wiki/Community/Projects/puush) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Open-source knowledge base for all things osu!. |
 
 - [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — A forum thread to request deleted graveyarded beatmaps.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — A live feed of current player events.
