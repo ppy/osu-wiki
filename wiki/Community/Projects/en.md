@@ -2,11 +2,15 @@
 
 This article lists the many projects, tools, and/or services made for osu! by the [developers](wiki/People/Developers) and the community. 
 
-While official projects are run by the [osu! team](wiki/People/osu!_team), community projects are done by members of the community, and — as such — they are not endorsed by osu! nor do they have any official support. For news and discussions on all the current and upcoming projects, please visit the [Development forum](http://osu.ppy.sh/community/forums/2).
+While official projects are for the most part run by the [osu! team](wiki/People/osu!_team), community projects are done by members of the community, and — as such — they are not endorsed by osu! nor do they have any official support. For news and discussions on all the current and upcoming projects, please visit the [Development forum](http://osu.ppy.sh/community/forums/2).
 
 ## Official
 
 ### Active
+
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/avatar_osunews.png) | [osu!news](https://osunews.tumblr.com/) | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341 | Content hub feeding news updates to the main page of the osu! website. Discontinued in 2017 in favor of the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki/). |
 
 - [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — A forum thread to request deleted graveyarded beatmaps.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — A live feed of current player events.
