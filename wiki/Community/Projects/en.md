@@ -6,6 +6,8 @@ While the official projects are primarily run by the [osu! team](wiki/People/osu
 
 ## Official
 
+### Active
+
 - [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — A forum thread to request deleted graveyarded beatmaps.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — A live feed of current player events.
   - [Website](https://osu.ppy.sh/p/events)
@@ -29,12 +31,6 @@ While the official projects are primarily run by the [osu! team](wiki/People/osu
   - [GitHub](https://github.com/ppy/osu-wiki) | [Website](/wiki/Main_page)
 
 ## Community
-
-*Caution: Use at your own risk! The projects listed below are not endorsed by osu!, nor do they have any official support.*
-
-Tools and/or services made by the osu! community. Feel free to add your own osu!-related projects to this list.
-
-<!-- Add the projects into the most appropriate group then in alphabetical order. -->
 
 ### Game Clients
 
