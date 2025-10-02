@@ -1,6 +1,6 @@
 # Projects
 
-This article lists the many projects, tools, and/or services made for osu! by the [developers](wiki/People/Developers) and the community. For updates and discussions on, please visit the [Development forum](http://osu.ppy.sh/community/forums/2).
+This article lists the many projects, tools, and/or services made for osu! by the [developers](wiki/People/Developers) and the community. For updates and discussions on all the current and upcoming projects, please visit the [Development forum](http://osu.ppy.sh/community/forums/2).
 
 ## Official
 
