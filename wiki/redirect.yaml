@@ -920,6 +920,10 @@ tournament_support:          Tournaments/Official_support
 tournaments_support:         Tournaments/Official_support
 cpot: Tournaments/Countries_that_participated_in_osu!_tournaments
 
+# moved in #13719
+tournament_bans:             Help_centre/Tournament_sanctions
+help_centre/tournament_bans: Help_centre/Tournament_sanctions
+
 owc:                         Tournaments#osu!-world-cup
 owc1:                        Tournaments/OWC/1
 owc_1:                       Tournaments/OWC/1
