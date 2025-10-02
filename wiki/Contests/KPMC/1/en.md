@@ -17,7 +17,7 @@ The **K-Pop Mapping Contest #1** (***KPMC#1***) is an osu!mania mapping contest 
 | --: | :-- |
 | Submission phase | 2025-06-29 to 2025-08-17 |
 | Judging phase | 2025-08-18 to 2025-09-20 |
-| Results announcement | 2025-08-28 at 12 UTC |
+| Results announcement | 2025-08-28 at (12:00 UTC) |
 
 The playtester's pick and top 5 beatmaps were showcased during the [results announcement YouTube premiere](https://www.youtube.com/watch?v=77D7EWC5irQ).
 
@@ -63,7 +63,8 @@ More detailed scores and judge comments are available to view on the [Mappers' G
 ### Contest rules
 
 - Submissions must be in `.osz` format.
-- Submissions must be made for the osu!mania game mode only and between 4K and 7K.
+- Submissions must be made for the osu!mania game mode only.
+- Submissions must be between 4K and 7K.
 - Submissions can follow an open song choice, as long as the song is Korean language and Pop genre.
 - Submissions must adhere to the [Ranking criteria](/wiki/Ranking_criteria).
 - Submissions must be one single beatmap with a difficulty of Hard or higher.
