@@ -1,6 +1,6 @@
 # Projects
 
-This article lists the osu!-related projects, tools, and/or services made
+This article lists the many projects, tools, and/or services made for osu! by the [developers](wiki/People/Developers) and the community. 
 
 ## Official
 
