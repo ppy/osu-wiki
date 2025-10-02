@@ -55,7 +55,7 @@ More detailed scores and judge comments are available to view on the [Mappers' G
 | :-: | :-- | :-- | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138) | [2NE1 - COME BACK HOME](https://osu.ppy.sh/beatmapsets/2441893#mania/5327786) | 125 | 2.88 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: [Livium](https://osu.ppy.sh/users/9828552) | [ILLIT - jellyous](https://osu.ppy.sh/beatmapsets/2442615#mania/5329664) | 127 | 2.81 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [homwu](https://osu.ppy.sh/users/18292810) | [ENHYPEN - Polaroid Love](https://osu.ppy.sh/beatmapsets/2442060#mania/5330875)  | 124 | 2.53 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [homwu](https://osu.ppy.sh/users/18292810) | [ENHYPEN - Polaroid Love](https://osu.ppy.sh/beatmapsets/2442060#mania/5330875) | 124 | 2.53 |
 | Playtester's Pick[^playtester] | ::{ flag=KR }:: [Turrim](https://osu.ppy.sh/users/3846265) | [TAK - DKBK feat. Tenko Shibuki](https://osu.ppy.sh/beatmapsets/2442025#mania/5328142) | 110 | -0.22 |
 
 ## Ruleset
