@@ -1,12 +1,6 @@
----
-outdated: true
----
-
-<!-- TODO: plenty to add -->
-
-<!-- TODO: it might be a good idea to link these somewhere in the osu!dev discord server so people can find other projects to work on -->
-
 # Projects
+
+This article lists the many osu!-related projects, tools, and/or services
 
 ## Official
 
