@@ -32,16 +32,6 @@ This includes situations like:
 - Abusing positions of trust to gain or confer an advantage (manipulating schedules, unfairly changing team compositions, or disqualifying participants without cause or reasoning)
 - Organising targeted abuse campaigns towards participants or organisers well outside the realm of criticism
 
-### Can I appeal a tournament ban? {id=appeal}
-
-Temporary tournament bans as applied via standard appeal terms or other means cannot be appealed.
-
-Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
-
-Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside writing an appeal should be expected for any earnest chance of success.
-
-In rare situations, the [account support team](/wiki/People/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
-
 ### What can I do while tournament-banned? {id=while-banned}
 
 You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organising such events.
@@ -88,3 +78,13 @@ A hosting probation can be removed by organising a tournament with **zero** [off
 Users who consistently have minor issues which require correction by the committee via email will remain on probation indefinitely. Users who make no effort to improve the quality of their events while on probation may be subject to harsher punishment as determined by the committee. Hosting probations do not expire automatically.
 
 If a user faces harsher punishment, such as a hosting ban, their probation will also expire once their punishment is lifted.
+
+## Can I appeal a tournament sanction? {id=appeal}
+
+Tournament sanctions as applied via means other than standard appeal terms include a 72 hour appeal window before the sanction goes into effect. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
+
+Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
+
+Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside writing an appeal should be expected for any earnest chance of success.
+
+In rare situations, the [account support team](/wiki/People/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
