@@ -10,7 +10,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/avatar_osunews.png) | [osu!news](https://osunews.tumblr.com/) | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341 | Content hub feeding news updates to the main page of the osu! website. Discontinued in 2017 in favor of the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki/). |
+| ![](img/logo_osu_lazer.png) | [osu!lazer)](https://github.com/ppy/osu/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | The future osu! game client |
 
 - [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — A forum thread to request deleted graveyarded beatmaps.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — A live feed of current player events.
