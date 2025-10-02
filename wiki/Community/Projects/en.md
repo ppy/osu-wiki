@@ -22,6 +22,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [pTransl](wiki/Community/Projects/pTransl) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Community-based localisation platform for  |
 | ![](img/logo_rajio.png) | [rajio](wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | On-demand online radio service |
 | ![](img/logo_upppy.png) | [upppy](wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Browser-based lightweight file sharing service |
 
