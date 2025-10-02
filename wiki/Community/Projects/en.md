@@ -11,7 +11,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_osu_lazer.png) | [osu!(lazer)](https://github.com/ppy/osu/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | The future (and final) iteration of the osu! game client. |
-| ![](img/logo_osu_framework.png) | [osu!framework](https://github.com/ppy/osu/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | A game framework written with osu! in mind. |
+| ![](img/logo_osu_framework.png) | [osu!framework](https://github.com/ppy/osu-framework/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | A game framework written with osu! in mind. |
+| ![](img/logo_blank.png) | [osu-api](https://github.com/ppy/osu==api/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Public API for accessing osu! related data. |
 
 - [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — A forum thread to request deleted graveyarded beatmaps.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — A live feed of current player events.
@@ -20,7 +21,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
   - [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
 - [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342) — The osu! localisation project, localise your language into osu!.
 - [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144) — A release of the initial game client.
-- [osu!api](https://osu.ppy.sh/community/forums/topics/141240) — Public API for accessing osu! related data.
   - [GitHub](https://github.com/ppy/osu-framework)
 - osu!performance — Player ranking metric of osu!.
   - [GitHub](https://github.com/ppy/osu-performance)
