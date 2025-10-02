@@ -12,7 +12,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_osu_lazer.png) | [osu!(lazer)](https://github.com/ppy/osu/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | The future (and final) iteration of the osu! game client. |
 | ![](img/logo_osu_framework.png) | [osu!framework](https://github.com/ppy/osu-framework/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | A game framework written with osu! in mind. |
-| ![](img/logo_blank.png) | [osu-api](https://github.com/ppy/osu==api/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Public API for accessing osu! related data. |
+| ![](img/logo_blank.png) | [osu!performance](https://github.com/ppy/osu-performance/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Program calculating  |
+| ![](img/logo_blank.png) | [osu!web](https://github.com/ppy/osu-web/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | The browser-facing portion of osu!. |
+| ![](img/logo_blank.png) | [osu-api](https://github.com/ppy/osu-api/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Public API for accessing osu! related data. |
+| ![](img/logo_blank.png) | [osu! wiki](https://github.com/ppy/osu-wiki/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Open-source knowledge base for all things osu!. |
 
 - [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — A forum thread to request deleted graveyarded beatmaps.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — A live feed of current player events.
@@ -26,10 +29,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
   - [GitHub](https://github.com/ppy/osu-performance)
 - osu!stream — A different style of osu! for iPod Touch, iPhone, and iPad.
   - [Website](https://osustream.com) | [osu! wiki page](/wiki/osu!stream)
-- osu!web — The browser-facing portion of osu!.
-  - [GitHub](https://github.com/ppy/osu-web) | [Website](https://osu.ppy.sh/home)
-- [osu!wiki](https://osu.ppy.sh/community/forums/topics/68479) — Houses information about osu!.
-  - [GitHub](https://github.com/ppy/osu-wiki) | [Website](/wiki/Main_page)
 
 ### Inactive or defunct
 
