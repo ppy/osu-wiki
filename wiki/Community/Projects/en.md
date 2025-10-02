@@ -32,7 +32,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 - [osu!wiki](https://osu.ppy.sh/community/forums/topics/68479) — Houses information about osu!.
   - [GitHub](https://github.com/ppy/osu-wiki) | [Website](/wiki/Main_page)
 
-## Inactive or defunct
+### Inactive or defunct
 
 ## Community
 
