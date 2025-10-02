@@ -23,8 +23,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
   - [GitHub](https://github.com/ppy/osu-api)
 - osu!framework — A game framework written with osu! in mind.
   - [GitHub](https://github.com/ppy/osu-framework)
-- osu!(lazer) — The future of osu! and the beginning of an open era.
-  - [GitHub](https://github.com/ppy/osu)
 - osu!performance — Player ranking metric of osu!.
   - [GitHub](https://github.com/ppy/osu-performance)
 - osu!stream — A different style of osu! for iPod Touch, iPhone, and iPad.
@@ -33,6 +31,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
   - [GitHub](https://github.com/ppy/osu-web) | [Website](https://osu.ppy.sh/home)
 - [osu!wiki](https://osu.ppy.sh/community/forums/topics/68479) — Houses information about osu!.
   - [GitHub](https://github.com/ppy/osu-wiki) | [Website](/wiki/Main_page)
+
+## Inactive or defunct
 
 ## Community
 
