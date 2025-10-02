@@ -22,7 +22,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_upppy.png) | [upppy](wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | The future (and final) iteration of the osu! game client |
+| ![](img/logo_rajio.png) | [rajio](wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | On-demand online radio service |
+| ![](img/logo_upppy.png) | [upppy](wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Browser-based lightweight file sharing service |
 
 - [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — A forum thread to request deleted graveyarded beatmaps.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — A live feed of current player events.
