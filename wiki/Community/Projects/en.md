@@ -22,7 +22,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_blank.png) | [pTransl](wiki/Community/Projects/pTransl) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Community-based localisation platform for  |
+| ![](img/logo_blank.png) | [pTransl](wiki/Community/Projects/pTransl) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Community-based localisation platform |
 | ![](img/logo_rajio.png) | [rajio](wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | On-demand online radio service |
 | ![](img/logo_upppy.png) | [upppy](wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Browser-based lightweight file sharing service |
 
@@ -31,11 +31,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
   - [Website](https://osu.ppy.sh/p/events)
 - [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460) — osu! on OS X (results will vary).
   - [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
-- [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342) — The osu! localisation project, localise your language into osu!.
 - [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144) — A release of the initial game client.
   - [GitHub](https://github.com/ppy/osu-framework)
-- osu!performance — Player ranking metric of osu!.
-  - [GitHub](https://github.com/ppy/osu-performance)
 - osu!stream — A different style of osu! for iPod Touch, iPhone, and iPad.
   - [Website](https://osustream.com) | [osu! wiki page](/wiki/osu!stream)
 
