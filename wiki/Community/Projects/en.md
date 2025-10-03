@@ -77,9 +77,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [JKPS](https://osu.ppy.sh/community/forums/topics/1356687) | ::{ flag=IT }:: [Down16IQ](https://osu.ppy.sh/users/10371089) | Screen overlay showing keystates, keys per second, total keys, and beats per minute |
 | ![](img/logo_blank.png) | [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723) | ::{ flag=HK }:: [Redback](https://osu.ppy.sh/users/2071169) | Twitch bot that tracks song requests and player data |
 | ![](img/logo_osustreamcompanion.png) | [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Beatmap information extractor for live streamers |
-
-- Ronnia — A alternative to Mikuia with a similar feature set
-  - [GitHub](https://github.com/aticie/ronnia) | [Website](https://ronnia.me/)
+| ![](img/logo_blank.png) | [Ronnia](https://ronnia.me/) | ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779) | Twitch bot that tracks song requests and player data |
 
 ### Beatmapping
 
