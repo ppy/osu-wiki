@@ -125,9 +125,12 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Storyboarding
 
-- [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597) — A raw text storyboard editing tool.
-- [SGL Tool](https://osu.ppy.sh/community/forums/topics/118733) — A programming language specifically for generating storyboard code. Successor of [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597).
-  - [GitHub](https://github.com/Qwby/osu-sgl)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Specialised text editor for storyboarding |
+| ![](img/logo_blank.png) | [SGL Tool](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Programming interface for generating storyboard codes |
+| ![](img/logo_blank.png) | [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) | ::{ flag=FR }:: [Yuzeyun](https://osu.ppy.sh/users/481582) | Programming language for generating storyboard codes |
+
 - [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) — Storyboards osu!taiko to allow you to do interesting things with the Dons and Kats.
   - [GitHub](https://github.com/Chiyozel/TaikoStoryboardGen)
 - Storybrew — Easy to use Storyboard editor.
