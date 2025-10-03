@@ -31,17 +31,19 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ## Community
 
-### Game Clients
+### Game clients
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_mcosu.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Practice client for osu! beatmaps with VR support |
 | ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
-| ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: [neico](https://osu.ppy.sh/users/119665) and ::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) | Unofficial osu! client for Android devices |
+| ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: [neico](https://osu.ppy.sh/users/119665) and ::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) | Unofficial osu! client for Android |
 | ![](img/logo_blank.png) | [osu! python edition](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [superloach](https://osu.ppy.sh/users/11213125) | Open-source osu! client written in python3 |
-| ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=UK }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu!taiko beatmaps in mobile devices |
+| ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=UK }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu!taiko beatmaps on mobile devices |
 
 ### Gameplay
+
+#### General
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
@@ -52,8 +54,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) | ::{ flag=NL }:: [joeykapi](https://osu.ppy.sh/users/8779015) | Program that allows users to view replays that are not saved locally |
 | ![](img/logo_blank.png) | [TabletDriver](https://github.com/hawku/TabletDriver) | ::{ flag=FI }:: [HWK](https://osu.ppy.sh/users/1919864) | Low-latency graphics tablet driver for osu! |
 
-- [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) — An application that converts replay files to videos.
-  - [GitHub](https://github.com/uyitroa/osr2mp4-app)
 - [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) — A program that takes a replay and analyses every miss to determine how and why it happened. It's straightforward to use and shows some pretty interesting data.
   - [GitHub](https://github.com/ThereGoesMySanity/osuMissAnalyzer/)
 
