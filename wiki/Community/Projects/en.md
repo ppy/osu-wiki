@@ -99,7 +99,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_blank.png) | [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) | ::{ flag=FR }:: [Grosinge](https://osu.ppy.sh/users/7505438) | Website that suggests an optimal [Approach Rate](/wiki/Beatmap/Approach_rate) based on the song's BPM |
 | ![](img/logo_blank.png) | [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool that translates hand-drawn shapes into sliders |
-| ![](img/logo_blank.png) | [osu! Slider End Silencerl](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool for silencing slider ends automatically |
+| ![](img/logo_blank.png) | [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool for silencing slider ends automatically |
 | ![](img/logo_blank.png) | [osu! Stacking Tool](https://osu.ppy.sh/community/forums/topics/561477) | ::{ flag=NO }:: [Enitoni](https://osu.ppy.sh/users/9118958) | Tool for ensuring [perfect stacks](/wiki/Beatmapping/Mapping_techniques/Stack) between objects |
 
 #### osu!mania
@@ -129,10 +129,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_blank.png) | [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Specialised text editor for storyboarding |
 | ![](img/logo_blank.png) | [SGL Tool](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Programming interface for generating storyboard codes |
-| ![](img/logo_blank.png) | [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) | ::{ flag=FR }:: [Yuzeyun](https://osu.ppy.sh/users/481582) | Programming language for generating storyboard codes |
+| ![](img/logo_blank.png) | [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) | ::{ flag=FR }:: [Yuzeyun](https://osu.ppy.sh/users/481582) | Storyboarding tool for creating osu!taiko gameplay gimmicks |
 
-- [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) — Storyboards osu!taiko to allow you to do interesting things with the Dons and Kats.
-  - [GitHub](https://github.com/Chiyozel/TaikoStoryboardGen)
 - Storybrew — Easy to use Storyboard editor.
   - [GitHub](https://github.com/Damnae/storybrew)
 
