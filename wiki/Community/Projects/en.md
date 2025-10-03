@@ -86,12 +86,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) | ::{ flag=FR }:: [Grosinge](https://osu.ppy.sh/users/7505438) | Website that suggests an optimal [Approach Rate](/wiki/Beatmap/Approach_rate) based on the song's BPM |
 | ![](img/logo_blank.png) | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Tool for copying hitsounds from one difficulty to another |
 | ![](img/logo_blank.png) | [Local osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) | ::{ flag=DE }:: [Marilyth](https://osu.ppy.sh/users/1161671) | Tool for calculating and visualizing beatmap density over time |
+| ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | All-in-one program for all things mapping |
+| ![](img/logo_blank.png) | [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638) | ::{ flag=CN }:: [wcx19911123](https://osu.ppy.sh/users/376831) | Tool for copying hitsounds from one difficulty to another |
+| ![](img/logo_osu_storyboarder_banquet.png) | [osu! Storyboarder Banquet](https://osb.moe) | ::{ flag=CN }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Compendium of tips, tricks, and other storyboarding essentials |
 
-- [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) — A huge compilation of tools to make mapping easier.
-  - [GitHub](https://github.com/OliBomby/Mapping_Tools) | [Website](https://mappingtools.github.io/)
-- [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638) — Another program to copy and paste hitsounds from one difficulty to another.
-- Osu! Storyboarder Banquet — A website dedicated to storyboarding
-  - [GitHub](https://github.com/osb-group/osb.moe/) | [Website](https://osb.moe/)
 - [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057) — An AiMod integration of osu!tp's difficulty calculator.
   - [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
 - [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059) — A tool that stabilises the slider velocity after BPM changes.
