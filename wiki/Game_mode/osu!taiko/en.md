@@ -1,6 +1,6 @@
 # osu!taiko
 
-osu!taiko is a game mode that requires the player to play a virtual japanese *taiko drum* and hit colored notes of various speeds to the rythm on a side-scrolling lane.
+osu!taiko is a game mode that requires the player to play a virtual japanese *taiko drum* and hit colored notes of various speeds to the rhythm on a side-scrolling lane.
 
 ## Song selection
 
@@ -21,9 +21,7 @@ The placement of the in-game cursor does not affect gameplay under any circumsta
 
 If the [relax](/wiki/Gameplay/Game_modifier/Relax) mod is used, the game will only judge for the hit timing of the notes and ignore their colours.
 
-osu!taiko can also be played using a *TaTaCon* drum controller which was primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*, but is not as common to be used for osu!taiko. However, the [options](/wiki/Client/Options#other) menu in osu!(stable) has an option for enabling `Wiimote/TaTaCon Drum support` for those that may want to use this kind of controller. In osu!(lazer), head to `settings`/`input` and enable the `Joystick/Gamepad` option, after that bind the surfaces of the drum in the `gameplay bindings`/`osu!taiko` section to achieve a similar effect.
-
-<!-- This should be worded better to avoid using `thing`/`thing` but I don't know how to really do that at the moment T^T. Will try to look for better solutions soon.-->
+osu!taiko can also be played using a *TaTaCon* drum controller, which was primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*, but is not as common to be used for osu!taiko. However, the [options](/wiki/Client/Options#other) menu has an option for enabling `Wiimote/TaTaCon Drum support` in osu!(stable) and the `Joystick/Gamepad` option in osu!(lazer) for those that may want to use this kind of controller.  
 
 ## Hit objects
 
@@ -47,13 +45,13 @@ If the hit is a don, press the button bound to the inner portion of the taiko dr
 
 ![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll")
 
-**Drumrolls** require the user to hit either parts of the drum continuously for the tiny ticks inside the drumroll. Score will not be rewarded if the user repeatedly misses the ticks, unlike in *Taiko no Tatsujin* where such ticks are not present and more score is rewarded based on being able to drumroll as fast as possible.
+**Drumrolls** require the user to hit either parts of the drum continuously for the tiny ticks found inside the drumroll.
 
 Drumrolls can be ignored with no health penalty, as they do not recover the health bar at all, but if done so no score will be rewarded. Each successful hit on the tiny hit circle gives a static 300 score and adds to the `DRUM TICK` judgement.
 
 ### Swells
 
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko swell")
+![Taiko swell](/wiki/shared/Taiko_spinner.jpg "osu!taiko swell")
 
 To properly play the **swell**, the player has to hit the inner and outer surfaces of the drum *interchangeably in order* until the swell disappears. The starting colour does not matter as you can start with either don or katsu, and failing to complete it will incur a health penalty, but will not break combo. 
 Hitting the same colour on repeat will not progress the swell.
@@ -127,8 +125,6 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 ### Differences between Taiko no Tatsujin and osu!taiko
 
-<!-- Considering this part mostly highlights the differences between TnT and osu!taiko rather than the playfield itself, I think this name would be more fitting than just `Playfield`.-->
-
 - No dancers at the bottom of the screen by default, has to be storyboarded in the beatmap itself
 - The health bar must be at least 50% full to pass the song
 - *Kiai Time* triggers the *"Go-Go Time"*
@@ -136,6 +132,7 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 - Background differences
   - A video or static background image-only beatmap will take up the lower portion of the screen
   - If the map has been storyboarded, the storyboard will take over the entire screen, but stay a layer behind the playfield most of the time
+- Drumrolls have ticks that have to be hit or score will not be rewarded by them, unlike in *Taiko no Tatsujin* where such ticks are not present and score is rewarded based on being able to roll as fast as possible.
 
 ### History
 
