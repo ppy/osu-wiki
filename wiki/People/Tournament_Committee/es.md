@@ -14,7 +14,7 @@ Las responsabilidades del comité de torneos incluyen asesorar al [equipo de sop
 
 - Responder a consultas generales enviadas al correo electrónico de torneos.
 - Determinar la necesidad y duración de las restricciones de torneos y personal caso por caso.
-- Revisar la elegibilidad de las insignias para los [torneos oficiales](/wiki/Tournaments/Official_support) recientemente finalizados.
+- Revisar la elegibilidad de las insignias para los [torneos con soporte oficial](/wiki/Tournaments/Official_support) recientemente finalizados.
 - Determinar qué torneos pueden premiar con insignias a los tres primeros finalistas.
 
 Además, el comité de torneos desempeña las siguientes funciones independientemente del equipo de soporte de cuentas:
@@ -128,7 +128,7 @@ El comité de torneos recurre con frecuencia a votaciones para tomar decisiones 
 | :-- | --: | --: | --: |
 | Retirar el soporte de las insignias | 3 | 50 % | 75 % |
 | Restricciones de torneos | 3 | 50 % | 75 % |
-| Restricciones de organizar torneos y del personal en los torneos | 3 | 50 % | 75 % |
+| Restricciones para organizar o formar parte del personal de torneos | 3 | 50 % | 75 % |
 | Soporte de insignia para los tres primeros | 4 | 80 % | 100 % |
 | Incorporación de nuevos miembros | 4 | 80 % | 100 % |
 
@@ -156,7 +156,7 @@ El comité de torneos solo puede ver el contenido de los correos electrónicos d
 
 ### ¡Necesito ayuda inmediatamente! ¿Qué hago?
 
-Para obtener ayuda inmediata, únete al [servidor de Discord osu!](https://discord.com/invite/ppy) y envía un mensaje mencionando al rol `@tournament-committee` en el canal `#tournaments`. Esto solo debe usarse en emergencias que requieran intervención inmediata. Para otras consultas urgentes, abre un [ticket](https://tcomm.hivie.tn/tickets) e indica la urgencia en él
+Para obtener ayuda inmediata, únete al [servidor de Discord osu!](https://discord.com/invite/ppy) y envía un mensaje mencionando al rol `@tournament-committee` en el canal `#tournaments`. Esto solo debe usarse en emergencias que requieran intervención inmediata. Para otras consultas urgentes, abre un [ticket](https://tcomm.hivie.tn/tickets) e indica la urgencia en él.
 
 ## ¿Cómo puedo ayudar a contribuir?
 
