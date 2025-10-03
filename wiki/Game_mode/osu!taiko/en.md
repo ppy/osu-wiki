@@ -4,7 +4,7 @@ osu!taiko is a game mode that requires the player to play a virtual japanese *ta
 
 ## Song selection
 
-To access the osu!catch game mode press `Ctrl` + `2` at the same time, use the `Mode` button and select `osu!taiko` in osu!(stable), or click the ![](/wiki/shared/mode/taiko.png) icon at the top of the screen for osu!(lazer).
+To access the osu!taiko game mode press `Ctrl` + `2` at the same time, use the `Mode` button and select `osu!taiko` in osu!(stable), or click the ![](/wiki/shared/mode/taiko.png) icon at the top of the screen for osu!(lazer).
 
 To download more beatmaps for osu!taiko, head to the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the osu! website, or while in osu!(lazer) press `Ctrl` + `B` or click the `beatmap listing` button.
 
