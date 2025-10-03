@@ -34,7 +34,9 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_osu_stream.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Open-source practice client for osu! with VR support |
+| ![](img/logo_osu_stream.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Practice client for osu! beatmaps with VR support |
+| ![](img/logo_osu_stream.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
+
 
 - [opsu!](https://osu.ppy.sh/community/forums/topics/221726) — An unofficial osu! client written in Java.
   - [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
