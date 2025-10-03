@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f785ce3b9eba523b7f5ad42d194d085db64ee298
+---
+
 # osu! （游戏模式）
 
 *对于其他用法，请见： [osu! （消歧义）](/wiki/Disambiguation/osu!)。*
