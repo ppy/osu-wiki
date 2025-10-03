@@ -22,28 +22,20 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_osu_stream.png) | [osu!stream](/wiki/en/osu!stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Special version of osu! for handheld iOS and Android devices |
+| ![](img/logo_osu_stream.png) | [osu!stream](/wiki/osu!stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Special version of osu! for handheld iOS and Android devices |
 | ![](img/logo_osu_osx.png) | [osu! on OS X](https://osuosx.tumblr.com/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Experimental build of osu! that runs natively on macOS |
 | ![](img/logo_blank.png) | [pTransl](/wiki/Community/Projects/pTransl) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Community-based localisation platform for osu! |
 | ![](img/logo_rajio.png) | [rajio](/wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | On-demand online radio service |
 | ![](img/logo_upppy.png) | [upppy](/wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Browser-based lightweight file sharing service |
 
-- [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — A forum thread to request deleted graveyarded beatmaps.
-- [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — A live feed of current player events.
-  - [Website](https://osu.ppy.sh/p/events)
-- [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460) — osu! on OS X (results will vary).
-  - [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
-- [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144) — A release of the initial game client.
-  - [GitHub](https://github.com/ppy/osu-framework)
-- osu!stream — A different style of osu! for iPod Touch, iPhone, and iPad.
-  - [Website](https://osustream.com) | [osu! wiki page](/wiki/osu!stream)
-
 ## Community
 
 ### Game Clients
 
-- McOsu — A free open-source circle-clicking rhythm game practice client for osu! beatmaps with Virtual Reality support.
-  - [Steam](https://store.steampowered.com/app/607260/McOsu/)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_osu_stream.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Open-source practice client for osu! with VR support |
+
 - [opsu!](https://osu.ppy.sh/community/forums/topics/221726) — An unofficial osu! client written in Java.
   - [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
 - [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175) — Python clone of osu!
