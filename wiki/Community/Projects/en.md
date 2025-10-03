@@ -88,11 +88,9 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [Local osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) | ::{ flag=DE }:: [Marilyth](https://osu.ppy.sh/users/1161671) | Tool for calculating and visualizing beatmap density over time |
 | ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Core program for all things mapping |
 | ![](img/logo_blank.png) | [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638) | ::{ flag=CN }:: [wcx19911123](https://osu.ppy.sh/users/376831) | Tool for copying hitsounds from one difficulty to another |
-| ![](img/logo_osu_storyboarder_banquet.png) | [osu! Storyboarder Banquet](https://osb.moe) | ::{ flag=CN }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Compendium of tips, tricks, and other storyboarding essentials |
 | ![](img/logo_blank.png) | [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057) | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Calculator for determining a beatmap's difficulty according to the [legacy tp system](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking) |
-
-
-- [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059) — A tool that stabilises the slider velocity after BPM changes.
+| ![](img/logo_osu_storyboarder_banquet.png) | [osu! Storyboarder Banquet](https://osb.moe) | ::{ flag=CN }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Compendium of tips, tricks, and other storyboarding essentials |
+| ![](img/logo_blank.png) | [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059) | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | Tool for stabilising slider velocity after applying BPM changes |
 
 #### osu!
 
