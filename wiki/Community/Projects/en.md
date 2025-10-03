@@ -99,10 +99,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_blank.png) | [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) | ::{ flag=FR }:: [Grosinge](https://osu.ppy.sh/users/7505438) | Website that suggests an optimal [Approach Rate](/wiki/Beatmap/Approach_rate) based on the song's BPM |
 | ![](img/logo_blank.png) | [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool that translates hand-drawn shapes into sliders |
-
-- [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268) — A tool that inserts inherited points to silence slider tails.
-  - [GitHub](https://github.com/kdai11830/sliderend-silencer)
-- [osu! Stacking tool](https://osu.ppy.sh/community/forums/topics/561477) — Stack hit circles and slider heads on top one another.
+| ![](img/logo_blank.png) | [osu! Slider End Silencerl](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool for silencing slider ends automatically |
+| ![](img/logo_blank.png) | [osu! Stacking Tool](https://osu.ppy.sh/community/forums/topics/561477) | ::{ flag=NO }:: [Enitoni](https://osu.ppy.sh/users/9118958) | Tool for ensuring [perfect stacks](/wiki/Beatmapping/Mapping_techniques/Stack) between objects |
 
 #### osu!mania
 
