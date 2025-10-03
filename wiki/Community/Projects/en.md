@@ -48,12 +48,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
 | ![](img/logo_blank.png) | [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) | ::{ flag=LT }:: [kleps](https://osu.ppy.sh/users/2902534) | Tool for disabling the Desktop Composition feature in Windows to reduce input latency |
 | ![](img/logo_keyspersecond.png) | [KeysPerSecond](https://osu.ppy.sh/community/forums/topics/552405) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Benchmark tool for analyzing key input speed |
+| ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Automatic `.osr` to `.mp4` conversion tool |
+| ![](img/logo_blank.png) | [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) | ::{ flag=NL }:: [joeykapi](https://osu.ppy.sh/users/8779015) | Program that allows users to view replays that are not saved locally |
 | ![](img/logo_blank.png) | [TabletDriver](https://github.com/hawku/TabletDriver) | ::{ flag=FI }:: [HWK](https://osu.ppy.sh/users/1919864) | Low-latency graphics tablet driver for osu! |
 
-- [Key presses per second](https://osu.ppy.sh/community/forums/topics/552405) — Counts and displays how many times a certain key is pressed.
-  - [GitHub](https://github.com/RoanH/KeysPerSecond)
-- [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) — Allows you to view and save your replays after backing out of the ranking screen.
-  - [GitHub](https://github.com/jkapi/Osu-Replays)
 - [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) — An application that converts replay files to videos.
   - [GitHub](https://github.com/uyitroa/osr2mp4-app)
 - [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) — A program that takes a replay and analyses every miss to determine how and why it happened. It's straightforward to use and shows some pretty interesting data.
