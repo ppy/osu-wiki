@@ -38,12 +38,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
 | ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: [neico](https://osu.ppy.sh/users/119665) and ::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) | Unofficial osu! client for Android devices |
 | ![](img/logo_blank.png) | [osu! python edition](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [superloach](https://osu.ppy.sh/users/11213125) | Open-source osu! client written in python3 |
-
-- osu!droid — An unofficial osu! client written for Android, open source.
-  - [GitHub](https://github.com/osudroid/osu-droid) | [Website](http://ops.dgsrz.com/)
-- [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640) — A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu! beatmaps on your iPhone or Android device.
-- 戳泡泡 — A Chinese clone of osu!.
-  - [Website](https://osugame.online/)
+| ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=UK }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu!taiko beatmaps in mobile devices |
 
 ### Gameplay
 
