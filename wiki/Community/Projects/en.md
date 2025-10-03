@@ -139,7 +139,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
 - [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) — Automate [Ranking Criteria](/wiki/Ranking_criteria) issue detection.
   - [GitHub](https://github.com/Naxesss/MapsetVerifier)
 - [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602) — A simple tool to help deal with BBCode when modding.
-- [Osu Distance Checker](https://osu.ppy.sh/community/forums/topics/55305) — Lists out the various hit object distances to allow one to scan through potential spacing mistakes.
 
 ### Skinning
 
