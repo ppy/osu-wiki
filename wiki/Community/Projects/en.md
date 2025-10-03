@@ -34,13 +34,11 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_osu_stream.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Practice client for osu! beatmaps with VR support |
-| ![](img/logo_osu_stream.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
+| ![](img/logo_mcosu.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Practice client for osu! beatmaps with VR support |
+| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
+| ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: [neico](https://osu.ppy.sh/users/119665) and ::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) | Unofficial osu! client for Android devices |
+| ![](img/logo_blank.png) | [osu! python edition](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [superloach](https://osu.ppy.sh/users/11213125) | Open-source osu! client written in python3 |
 
-
-- [opsu!](https://osu.ppy.sh/community/forums/topics/221726) — An unofficial osu! client written in Java.
-  - [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
-- [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175) — Python clone of osu!
 - osu!droid — An unofficial osu! client written for Android, open source.
   - [GitHub](https://github.com/osudroid/osu-droid) | [Website](http://ops.dgsrz.com/)
 - [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640) — A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu! beatmaps on your iPhone or Android device.
