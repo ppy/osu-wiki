@@ -216,8 +216,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 - [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) — Calcuates how much bonus pp a user has.
   - [GitHub](https://github.com/RoanH/osu-BonusPP)
-- [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) — An open-source project dedicated to making websites highly related to osu!, such as [medal unlock requirements](/wiki/Medals/Unlock_requirements) listing or alternative ranking leaderboards.
-  - [GitHub](https://github.com/Osekai/osekai) | [Website](https://osekai.net/)
 - [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) — Calculates the needed score to achieve a certain level.
   - [GitHub](https://github.com/thehowl/OsuLevelCalculator) | [Website](https://olc.howl.moe/)
 - [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483) — Write player stats into a file, which can then be displayed using Open Broadcaster Software.
@@ -259,6 +257,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 - [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) — An osu! themed music player.
   - [GitHub](https://github.com/Naviaux/osu-music-player)
 - [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) — osu!-styled cursors for Windows.
+- [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) — An open-source project dedicated to making websites highly related to osu!, such as [medal unlock requirements](/wiki/Medals/Unlock_requirements) listing or alternative ranking leaderboards.
+  - [GitHub](https://github.com/Osekai/osekai) | [Website](https://osekai.net/)
 - [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) — A simple library to interface with the osu!api.
   - [GitHub](https://github.com/Repflez/osu-API-lib)
 - [osu!AR10](https://osu.ppy.sh/community/forums/topics/245309) — A tool to convert any beatmap to AR10 for practising purposes.
