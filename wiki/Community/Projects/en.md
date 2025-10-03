@@ -47,6 +47,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
 | ![](img/logo_blank.png) | [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) | ::{ flag=LT }:: [kleps](https://osu.ppy.sh/users/2902534) | Tool for disabling the Desktop Composition feature in Windows to reduce input latency |
+| ![](img/logo_keyspersecond.png) | [KeysPerSecond](https://osu.ppy.sh/community/forums/topics/552405) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for disabling the Desktop Composition feature in Windows to reduce input latency |
 | ![](img/logo_blank.png) | [TabletDriver](https://github.com/hawku/TabletDriver) | ::{ flag=FI }:: [HWK](https://osu.ppy.sh/users/1919864) | Low-latency graphics tablet driver for osu! |
 
 - [Key presses per second](https://osu.ppy.sh/community/forums/topics/552405) — Counts and displays how many times a certain key is pressed.
