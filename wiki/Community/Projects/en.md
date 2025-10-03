@@ -74,15 +74,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_gosumemory.png) | [gosumemory](https://github.com/l3lackShark/gosumemory) | ::{ flag=RU }:: [BlackShark](https://osu.ppy.sh/users/9173653) | Cross-platform memory reader for osu! |
+| ![](img/logo_blank.png) | [JKPS](https://osu.ppy.sh/community/forums/topics/1356687) | ::{ flag=IT }:: [Down16IQ](https://osu.ppy.sh/users/10371089) | Screen overlay showing keystates, keys per second, total keys, and beats per minute |
+| ![](img/logo_blank.png) | [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723) | ::{ flag=HK }:: [Redback](https://osu.ppy.sh/users/2071169) | Twitch bot that tracks song requests and player data |
+| ![](img/logo_osustreamcompanion.png) | [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Beatmap information extractor for live streamers |
 
-- JKPS — A keys-per-second program that can be used as a input overlay with a lot of customization.
-  - [GitHub](https://github.com/JekiTheMonkey/JKPS)
-- Mikuia — A Twitch bot that can keep track of song requests and sends updates about any rank changes or plays you set in the chat.
-  - [Website](https://mikuia.tv/)
-- [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723) — Keep track of song requests while streaming.
-  - [GitHub](https://github.com/RedbackThomson/OsuRequestBot)
-- [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) — osu! information extractor for live streamers.
-  - [GitHub](https://github.com/Piotrekol/StreamCompanion)
 - Ronnia — A alternative to Mikuia with a similar feature set
   - [GitHub](https://github.com/aticie/ronnia) | [Website](https://ronnia.me/)
 
