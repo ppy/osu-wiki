@@ -23,7 +23,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_osu_stream.png) | [osu!stream](/wiki/osu!stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Special version of osu! for handheld iOS and Android devices |
-| ![](img/logo_blank.png) | [osu! iPhone](https://osu.ppy.sh/community/forums/topics/9193) | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Official iPhone port of the  |
+| ![](img/logo_blank.png) | [osu! iPhone](https://osu.ppy.sh/community/forums/topics/9193) | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Official iPhone port of osu! |
 | ![](img/logo_osu_osx.png) | [osu! on OS X](https://osuosx.tumblr.com/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Experimental build of osu! that runs natively on macOS |
 | ![](img/logo_blank.png) | [pTransl](/wiki/Community/Projects/pTransl) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Community-based localisation platform for osu! |
 | ![](img/logo_rajio.png) | [rajio](/wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | On-demand online radio service |
@@ -43,8 +43,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Gameplay
 
-- Circleguard — A replay analysis program typically used to check for instances of cheating.
-  - [GitHub](https://github.com/circleguard/circleguard)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
+
 - [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) — Disables the Desktop Composition in Windows to reduce input latency for window-mode players.
 - [Key presses per second](https://osu.ppy.sh/community/forums/topics/552405) — Counts and displays how many times a certain key is pressed.
   - [GitHub](https://github.com/RoanH/KeysPerSecond)
