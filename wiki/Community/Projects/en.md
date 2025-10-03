@@ -61,9 +61,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_danser_go.png) | [danser-go](https://github.com/Wieku/danser-go) | ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Visualisation tool for osu! maps |
 | ![](img/logo_blank.png) | [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) | ::{ flag=AT }:: [DaRealSlimOni](https://osu.ppy.sh/users/2925249) | Benchmark tool for determining tapping speed |
-
-- you suck at streaming v2 — Determines one's tapping speed.
-  - [GitHub](https://github.com/ckrisirkc/osuStreamSpeed.js) | [Website](https://ckrisirkc.github.io/osuStreamSpeed.js/newindex.html)
+| ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: [keyaa](https://osu.ppy.sh/users/30720651) | Benchmark tool for determining tapping speed |
 
 #### osu!taiko
 
