@@ -71,8 +71,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Live streaming
 
-- gosumemory — Cross-platform memory reader for osu!
-  - [GitHub](https://github.com/l3lackShark/gosumemory)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_gosumemory.png) | [gosumemory](https://github.com/l3lackShark/gosumemory) | ::{ flag=RU }:: [BlackShark](https://osu.ppy.sh/users/9173653) | Cross-platform memory reader for osu! |
+
 - JKPS — A keys-per-second program that can be used as a input overlay with a lot of customization.
   - [GitHub](https://github.com/JekiTheMonkey/JKPS)
 - Mikuia — A Twitch bot that can keep track of song requests and sends updates about any rank changes or plays you set in the chat.
