@@ -130,9 +130,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Specialised text editor for storyboarding |
 | ![](img/logo_blank.png) | [SGL Tool](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Programming interface for generating storyboard codes |
 | ![](img/logo_blank.png) | [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) | ::{ flag=FR }:: [Yuzeyun](https://osu.ppy.sh/users/481582) | Storyboarding tool for creating osu!taiko gameplay gimmicks |
-
-- Storybrew — Easy to use Storyboard editor.
-  - [GitHub](https://github.com/Damnae/storybrew)
+| ![](img/logo_blank.png) | [Storybrew](https://github.com/Damnae/storybrew) | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Easy-to-use storyboard editor |
 
 ### Modding
 
