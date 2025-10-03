@@ -57,10 +57,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 #### osu!
 
-- danser-go — CLI visualisation tool for osu!standard maps. Can also be used to render replay files as videos.
-  - [GitHub](https://github.com/Wieku/danser-go)
-- osu!speed — Determines one's tapping speed.
-  - [Website](https://osu-speed.simo.sh/)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_danser_go.png) | [danser-go](https://github.com/Wieku/danser-go) | ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Visualisation tool for osu! maps |
+
 - [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) — Determines one's tapping speed.
   - [Pastebin source](https://pastebin.com/h2nK5JvX)
 - you suck at streaming v2 — Determines one's tapping speed.
