@@ -65,8 +65,9 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 #### osu!taiko
 
-- [Wii Tatacon to USB Converter](https://osu.ppy.sh/community/forums/topics/258400) — A low cost Wii Tatacon to USB dongle to reduce input latency.
-  - [GitHub](https://github.com/mon/TataconUSB) | [Website](https://mon.im/tatacon/)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [Wii TaTaCon to USB Convverter](https://osu.ppy.sh/community/forums/topics/258400) | ::{ flag=AU }:: [montymintypie](https://osu.ppy.sh/users/2007075) | Low cost Wii TaTaCon to USB dongle converter to reduce input latency |
 
 ### Live streaming
 
