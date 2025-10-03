@@ -85,7 +85,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_blank.png) | [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) | ::{ flag=FR }:: [Grosinge](https://osu.ppy.sh/users/7505438) | Website that suggests an optimal [Approach Rate](/wiki/Beatmap/Approach_rate) based on the song's BPM |
 | ![](img/logo_blank.png) | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Tool for copying hitsounds from one difficulty to another |
-| ![](img/logo_blank.png) | [Local osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) | ::{ flag=DE }:: [Marilyth](https://osu.ppy.sh/users/1161671) | a |
+| ![](img/logo_blank.png) | [Local osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) | ::{ flag=DE }:: [Marilyth](https://osu.ppy.sh/users/1161671) | Tool for calculating and visualizing beatmap density over time |
 
 - [Local Osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) — A Notes-Per-Second calculator.
 - [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) — A huge compilation of tools to make mapping easier.
