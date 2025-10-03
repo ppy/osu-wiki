@@ -46,12 +46,11 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
+| ![](img/logo_blank.png) | [TabletDriver](https://github.com/hawku/TabletDriver) | ::{ flag=FI }:: [HWK](https://osu.ppy.sh/users/1919864) | Low-latency graphics tablet driver for osu! |
 
 - [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) — Disables the Desktop Composition in Windows to reduce input latency for window-mode players.
 - [Key presses per second](https://osu.ppy.sh/community/forums/topics/552405) — Counts and displays how many times a certain key is pressed.
   - [GitHub](https://github.com/RoanH/KeysPerSecond)
-- OpenTabletDriver — Open source, cross-platform, user-mode tablet driver
-  - [GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) | [Website](https://opentabletdriver.net/)
 - [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) — Allows you to view and save your replays after backing out of the ranking screen.
   - [GitHub](https://github.com/jkapi/Osu-Replays)
 - [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) — An application that converts replay files to videos.
