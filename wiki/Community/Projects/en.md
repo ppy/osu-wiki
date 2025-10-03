@@ -104,6 +104,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 #### osu!mania
 
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [Automap-chan](https://osu.ppy.sh/community/forums/topics/382896) | ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) | Tool for converting MIDI file into osu!mania beatmap |
+
 - [Automap-chan](https://osu.ppy.sh/community/forums/topics/382896) — Converts MIDI files to osu!mania beatmaps.
   - [GitHub](https://github.com/dudehacker/Automap-chan)
 - [lua-mania](https://osu.ppy.sh/community/forums/topics/465914) — Converts osu!, osu!taiko, and osu!catch beatmaps to osu!mania.
