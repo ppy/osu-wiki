@@ -81,8 +81,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Beatmapping
 
-- [A little aproach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) — A simple webpage that calculates the suggested approach rate, based on the BPM, that you should use in your beatmap.
-  - [Website](http://maxime.delaby.free.fr/THEFIXER.html)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) | ::{ flag=FR }:: [Grosinge](https://osu.ppy.sh/users/7505438) | Webpage that suggests an optimal [Approach Rate](/wiki/Beatmap/Approach_rate) based on the song's BPM |
+
 - [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) — Copy and paste hitsounds from one difficulty to another.
 - [Local Osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) — A Notes-Per-Second calculator.
 - [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) — A huge compilation of tools to make mapping easier.
