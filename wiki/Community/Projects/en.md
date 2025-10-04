@@ -138,9 +138,9 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_fringe_remover.png) | [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for removing fringes from skin elements |
 | ![](img/logo_image_scaler.png) | [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for downscaling HD skin elements to SD |
+| ![](img/logo_blank.png) | [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Calculator for determining optimal `ColumnStart` value |
 
-- [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972) — Calculates the osu!mania stage positioning to make it centre.
-  - [GitHub](https://github.com/RoanH/ManiaColumnCentering)
+
 - [osu! Skin Manager](https://osu.ppy.sh/community/forums/topics/231747) — A program where you can create and edit your skin.
 - osu! skin mixer — A program that allows you to easily mix elements from other skins already in your skins folders
   - [GitHub](https://github.com/rednir/OsuSkinMixer)
