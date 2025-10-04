@@ -161,12 +161,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_beatconnect.png) | [Beatconnect](https://beatconnect.io) | ::{ flag=FR }:: [KatsuuKumi](https://www.twitch.tv/katsuukumi) | Mirror site for downloading beatmaps |
-| ![](img/blank.png) | [Mino](https://catboy.best) | ::{ flag=DE }:: [lemres](https://osu.ppy.sh/users/15415709) | Mirror site for downloading beatmaps |
-| ![](img/blank.png) | [Sayobot](https://osu.sayobot.cn) | ::{ flag=CN }:: [SoulDee](https://github.com/SoulDee) | Mirror site for downloading beatmaps primarily serving Chinese-speaking users |
+| ![](img/logo_mino.png) | [Mino](https://catboy.best) | ::{ flag=DE }:: [Nanoo](https://osu.ppy.sh/users/9527931) | Mirror site for downloading beatmaps |
+| ![](img/logo_blank.png) | [Sayobot](https://osu.sayobot.cn) | ::{ flag=CN }:: [SoulDee](https://github.com/SoulDee) | Mirror site for downloading beatmaps primarily serving Chinese-speaking users |
 
 
-- Sayobot — A Chinese beatmap mirror.
-  - [Website](https://osu.sayobot.cn/)
 - [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156) — Yet another beatmap mirror.
 
 ### Website
