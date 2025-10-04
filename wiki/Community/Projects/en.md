@@ -107,8 +107,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_blank.png) | [Automap-chan](https://osu.ppy.sh/community/forums/topics/382896) | ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) | Tool for converting MIDI files into osu!mania beatmaps |
+| ![](img/logo_blank.png) | [lua-mania](https://osu.ppy.sh/community/forums/topics/465914) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Tool for converting osu!/osu!taiko/osu!catch beatmapss into osu!mania beatmaps |
 
-- [lua-mania](https://osu.ppy.sh/community/forums/topics/465914) — Converts osu!, osu!taiko, and osu!catch beatmaps to osu!mania.
   - [GitHub](https://github.com/semyon422/lua-mania)
 - [Mania Hit Sounding Tools](https://osu.ppy.sh/community/forums/topics/488175) — Muliple tools for hitsounding osu!mania beatmap difficulties:
   1. Magic Copy — A tool that copies hitsounds from one difficulty to another and works with default and custom hitsounds. Original concept from [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832).
