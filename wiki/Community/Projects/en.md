@@ -136,8 +136,11 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Modding
 
-- [AIBat](https://osu.ppy.sh/community/forums/topics/55305) — An attempt to make modding easier for modders.
-  - [GitHub](https://github.com/akrolsmir/AIBat)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [AIBat](https://osu.ppy.sh/community/forums/topics/55305) | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Tool for checking [ranking criteria](/wiki/Ranking_criteria) compliance |
+| ![](img/logo_mapset_verifier.png) | [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Tool for checking [ranking criteria](/wiki/Ranking_criteria) compliance |
+
 - [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) — Automate [Ranking Criteria](/wiki/Ranking_criteria) issue detection.
   - [GitHub](https://github.com/Naxesss/MapsetVerifier)
 - [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602) — A simple tool to help deal with BBCode when modding.
