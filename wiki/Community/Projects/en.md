@@ -133,8 +133,11 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Skinning
 
-- [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643) — Removes fringes from skin elements.
-  - [GitHub](https://github.com/RoanH/FringeRemover)
+
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/fringe_remover.png) | [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for removing fringes from skin elements |
+
 - [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684) — Downscale HD skinning elements to SD.
   - [GitHub](https://github.com/RoanH/ImageScaler)
 - [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972) — Calculates the osu!mania stage positioning to make it centre.
