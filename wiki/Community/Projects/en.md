@@ -133,19 +133,14 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Skinning
 
-
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_fringe_remover.png) | [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for removing fringes from skin elements |
 | ![](img/logo_image_scaler.png) | [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for downscaling HD skin elements to SD |
 | ![](img/logo_blank.png) | [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Calculator for determining optimal `ColumnStart` value |
-
-
-- [osu! Skin Manager](https://osu.ppy.sh/community/forums/topics/231747) — A program where you can create and edit your skin.
-- osu! skin mixer — A program that allows you to easily mix elements from other skins already in your skins folders
-  - [GitHub](https://github.com/rednir/OsuSkinMixer)
-- [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168) — Checks your skin for missing elements.
-  - [GitHub](https://github.com/RoanH/osuSkinChecker)
+| ![](img/logo_blank.png) | [osu! Skin Manager](https://osu.ppy.sh/community/forums/topics/231747) | ::{ flag=AT }:: [BlackTasty](https://osu.ppy.sh/users/3685723) | Tool for mixing and matching existing skin elements |
+| ![](img/logo_osu_skin_mixer.png) | [osu! skin mixer](https://github.com/rednir/OsuSkinMixer) | ::{ flag=GB }:: [rednir](https://osu.ppy.sh/users/17204559) | Tool for mixing and matching existing skin elements |
+| ![](img/logo_skin_checker.png) | [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for checking missing skin elements |
 
 ### Beatmap Management
 
