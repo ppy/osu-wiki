@@ -112,7 +112,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832) | ::{ flag=US }:: [FrenzyLi](https://osu.ppy.sh/users/6256685) | Tool for copying per lane hitsounds from one osu!mania difficulty to another |
 | ![](img/logo_blank.png) | [O2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149) | ::{ flag=NL }:: [Nyanderfull](https://osu.ppy.sh/users/1191983) | Tool for converting O2jam's `.ojn` charts into osu!mania beatmaps |
 | ![](img/logo_blank.png) | [OMISM](https://osu.ppy.sh/community/forums/topics/664319) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | Tool for osu!mania beatmaps into Stepmania charts that doubles as beatmap keysound copier |
-| ![](img/logo_blank.png) | [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Timerate changer for osu!mania beatmaps |
+| ![](img/logo_blank.png) | [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Rate changer for osu!mania beatmaps |
 
 ### Storyboarding
 
