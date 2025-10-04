@@ -163,9 +163,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_beatconnect.png) | [Beatconnect](https://beatconnect.io) | ::{ flag=FR }:: [KatsuuKumi](https://www.twitch.tv/katsuukumi) | Mirror site for downloading beatmaps |
 | ![](img/logo_mino.png) | [Mino](https://catboy.best) | ::{ flag=DE }:: [Nanoo](https://osu.ppy.sh/users/9527931) | Mirror site for downloading beatmaps |
 | ![](img/logo_blank.png) | [Sayobot](https://osu.sayobot.cn) | ::{ flag=CN }:: [SoulDee](https://github.com/SoulDee) | Mirror site for downloading beatmaps primarily serving Chinese-speaking users |
-
-
-- [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156) — Yet another beatmap mirror.
+| ![](img/logo_blank.png) | [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156) | ::{ flag=LT }:: [Hexide](https://osu.ppy.sh/users/1353867) | Mirror site for downloading beatmaps |
 
 ### Website
 
