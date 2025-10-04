@@ -140,7 +140,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_blank.png) | [AIBat](https://osu.ppy.sh/community/forums/topics/55305) | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Tool for checking a beatmap's [ranking criteria](/wiki/Ranking_criteria) compliance |
 | ![](img/logo_mapset_verifier.png) | [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Tool for checking a beatmap's [ranking criteria](/wiki/Ranking_criteria) compliance |
-| ![](img/logo_blank.png) | [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602) | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) | [BBCode](/wiki/BBCode) writing assistant for modding environment |
+| ![](img/logo_blank.png) | [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602) | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) | [BBCode](/wiki/BBCode) writing assistant for mapping/modding environment |
 
 ### Skinning
 
