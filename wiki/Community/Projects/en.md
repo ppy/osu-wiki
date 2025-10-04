@@ -149,15 +149,12 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [Batch script to delete map](https://osu.ppy.sh/community/forums/topics/682907) | ::{ flag=MX }:: [Greydus](https://osu.ppy.sh/users/6522973) | `.bat` script for mass beatmap deletion |
 | ![](img/logo_blank.png) | [Beatmap Version Checker](https://osu.ppy.sh/community/forums/topics/636199) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for scanning and updating out-of-date beatmaps |
 | ![](img/logo_blank.png) | [Collections Manager](https://osu.ppy.sh/community/forums/topics/131103) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Tool for creating, editing, and exporting collections |
-| ![](img/logo_blank.png) | [osu! Beatmap Downloader](https://osu.ppy.sh/community/forums/topics/134646) | ::{ flag=HK }:: [AiriLing](https://osu.ppy.sh/users/2536943) | Tool for downloading beatmaps in bulk from beatmap mirrors |
 | ![](img/logo_blank.png) | [osu!grab](https://osu.ppy.sh/community/forums/topics/259116) | ::{ flag=ID }:: [Faishal Akbar](https://osu.ppy.sh/users/2061007) | Various enhancements for beatmap downloading |
 | ![](img/logo_osu_cleaner.png) | [osu!cleaner](https://github.com/InvisibleSymbol/osu-cleaner) | ::{ flag=AT }:: [InvisibleSymbol](https://osu.ppy.sh/users/13506780) | Tool for sorting and deleting beatmaps based on certain filters |
 | ![](img/logo_osuocm_collection_manager.png) | [osu!ocm Collection Manager](https://osu.ppy.sh/community/forums/topics/554209) | ::{ flag=DE }:: [Yulivee](https://osu.ppy.sh/users/341447) | Tool for downloading beatmaps from exported collections |
-
-
-- [osu!Sync](https://osu.ppy.sh/community/forums/topics/270446) — An open-sourced application that lets you export, share, and backup your beatmaps.
-  - [GitHub](https://github.com/naseweis520/osu-Sync)
-- [osu!vd](https://osu.ppy.sh/community/forums/topics/210509) — Batch script to delete beatmap videos.
+| ![](img/logo_blank.png) | [osu!Sync](https://osu.ppy.sh/community/forums/topics/270446) | ::{ flag=DE }:: [naseweis520](https://osu.ppy.sh/users/4729376) | Tool for creating, editing, and exporting collections |
+| ![](img/logo_blank.png) | [osu!vd](https://osu.ppy.sh/community/forums/topics/210509) | ::{ flag=US }:: [OMQ12](https://osu.ppy.sh/users/3160531) | `.bat` script for deleting beatmap videos in bulk |
+| ![](img/logo_blank.png) | [osu! Beatmap Downloader](https://osu.ppy.sh/community/forums/topics/134646) | ::{ flag=HK }:: [AiriLing](https://osu.ppy.sh/users/2536943) | Tool for downloading beatmaps in bulk from beatmap mirrors |
 
 ### Beatmap mirrors
 
