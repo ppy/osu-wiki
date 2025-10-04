@@ -109,12 +109,12 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [Automap-chan](https://osu.ppy.sh/community/forums/topics/382896) | ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) | Tool for converting MIDI files into osu!mania beatmaps |
 | ![](img/logo_blank.png) | [lua-mania](https://osu.ppy.sh/community/forums/topics/465914) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Tool for converting osu!/osu!taiko/osu!catch beatmaps into osu!mania beatmaps |
 | ![](img/logo_blank.png) | [Mania Hit Sounding Tools](https://osu.ppy.sh/community/forums/topics/488175) | ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) | Collection of tools for hitsounding osu!mania beatmaps |
+| ![](img/logo_blank.png) | [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832) | ::{ flag=US }:: [FrenzyLi](https://osu.ppy.sh/users/6256685) | Timerate changer for osu!mania beatmaps |
+| ![](img/logo_blank.png) | [O2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149) | ::{ flag=NL }:: [Nyanderfull](https://osu.ppy.sh/users/1191983) | Tool for converting O2jam's `.ojn` charts into osu!mania beatmaps |
+| ![](img/logo_blank.png) | [OMISM](https://osu.ppy.sh/community/forums/topics/664319) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | Tool for osu!mania beatmaps into Stepmania charts that doubles as beatmap keysound copier |
+| ![](img/logo_blank.png) | [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Timerate changer for osu!mania beatmaps |
 
-- [o2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149) — An o2jam to osu!mania converter.
-- [OMISM](https://osu.ppy.sh/community/forums/topics/664319) — An osu!mania to Stepmania beatmap converter (and an osu!mania keysound copier).
-  - [GitHub](https://github.com/BilliumMoto/OMiSM)
-- [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) — A timerate changer for osu!mania.
-  - [GitHub](https://github.com/semyon422/omtrc)
+
 - [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832) — A hitsounding tool for osu!mania that copies hitsound files and volume from hit objects to hit objects and storyboards. Originally named osu!MagiCopy.
 
 ### Storyboarding
