@@ -152,18 +152,12 @@ While official projects are for the most part run by the [osu! team](wiki/People
 - [OSU Beatmap downloader](https://osu.ppy.sh/community/forums/topics/134646) — A tool to easily download beatmaps from the bloodcat mirror, featuring an in-game interface.
 - [osu!grab](https://osu.ppy.sh/community/forums/topics/259116) — Improvements to browser beatmap downloading.
   - [GitHub](https://github.com/mfaishalakbar/osu-grab)
-- [Osu! Masive Beatmap Downloader](https://osu.ppy.sh/community/forums/topics/533550) — Download beatmaps in large quantities.
-  - [GitHub](https://github.com/GarciaMiguelangel/Osu-Masive-Beatmap-Downloader)
 - osu!cleaner — Allows you to automatically filter your beatmaps using various filters. Beatmaps that don't match any filters will be moved to a `Cleanup` folder, where they can later be removed or moved back.
   - [GitHub](https://github.com/InvisibleSymbol/osu-cleaner)
 - [osu!ocm Collection Manager](https://osu.ppy.sh/community/forums/topics/554209) — Based off of a [feature request](https://osu.ppy.sh/community/forums/topics/541813), this allows downloading of beatmaps from exported collections.
   - [GitHub](https://github.com/otaku-overclocks/osu-collection-explorer)
-- [Osu!Shrinker](https://osu.ppy.sh/community/forums/topics/489269) — Deletes extra files included with beatmaps. A tool for those who play without storyboards or a black background.
-  - [GitHub](https://github.com/GarciaMiguelangel/Osu_Shrinker)
 - [osu!Sync](https://osu.ppy.sh/community/forums/topics/270446) — An open-sourced application that lets you export, share, and backup your beatmaps.
   - [GitHub](https://github.com/naseweis520/osu-Sync)
-- [Osu!unZip](https://osu.ppy.sh/community/forums/topics/533553) — Unzip large amounts of `.osz` files.
-  - [GitHub](https://github.com/GarciaMiguelangel/Osu-UnZip)
 - [osu!vd](https://osu.ppy.sh/community/forums/topics/210509) — Batch script to delete beatmap videos.
 
 ### Beatmap Mirrors
@@ -189,7 +183,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541) — A script that adds additional features to the website.
   - [GitHub](https://github.com/limjeck/osuplus)
 
-### Internet Relay Chat
+### IRC
 
 *See also: [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
 
