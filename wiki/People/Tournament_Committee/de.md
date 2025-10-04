@@ -7,7 +7,7 @@ tags:
 
 # Turnierkomitee
 
-Das **Turnierkomitee** ist ein Gremium an erfahrenen sowie etablierten Organisatoren und Helfern in der Turnierszene. Die Mitglieder des Turnierkomitees sind anhand ihres orangenen Nutzertitels und des [Gruppenabzeichens](/wiki/People/User_groups), auf dem `TC` steht, erkennbar. Das Gremium wurde als Reaktion auf die schnell wachsende Community-Turnierszene in osu! am 22. Juli 2021 zum ersten Mal über den Kanal `#tournaments` im [osu! Discord-Server](https://discord.com/invite/ppy) öffentlich bekanntgegeben.
+Das **Turnierkomitee** ist ein Gremium an erfahrenen sowie etablierten Organisatoren und Helfern in der Turnierszene. Die Mitglieder des Turnierkomitees sind anhand ihres orangenen Nutzertitels und des [Gruppenabzeichens](/wiki/People/User_groups) mit der Aufschrift `TC` zu erkennen. Das Gremium wurde als Reaktion auf die schnell wachsende Community-Turnierszene in osu! am 22. Juli 2021 zum ersten Mal über den Kanal `#tournaments` im [osu! Discord-Server](https://discord.com/invite/ppy) öffentlich bekanntgegeben.
 
 Zu den Aufgaben des Turnierkomitees gehört die Beratung des [Account-Support-Teams](/wiki/People/Account_support_team) bei:
 
@@ -105,10 +105,10 @@ Neue Mitglieder im Turnierkomitee müssen die folgenden Kriterien erfüllen, bev
 
 Erfolgreiche Bewerber zeichnen sich durch folgende Stärken aus:
 
-- ausgeprägtes Engagement bei offiziellen Turnieren und/oder in der Community-Turnierszene
+- herausragendes Engagement bei offiziellen Turnieren und/oder in der Community-Turnierszene
 - bringt eine einzigartige Sichtweise mit, die dem Komittee bisher gefehlt hat
 - umfassende Erfahrung in einem bestimmten Bereich der Turnierszene
-- verhält sich online stets vorbildlich und benimmt sich tadellos
+- verhält sich online stets vorbildlich und benimmt sich respektvoll
 - ist in der Community allgemein hoch angesehen
 
 Bewerber können sich online über das [Bewerbungsformular](https://forms.gle/3c51xGd3DzW2JCqV6) bewerben oder eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) schreiben. Von allen Bewerbern, die eine E-Mail schreiben, wird erwartet, dass sie ihre Beiträge, ihren Einfluss und ihr Engagement in der Turnierszene darlegen. Das Bewerbungsformular stellt mehr Informationen bereit wie eine E-Mail und wird daher bevorzugt.
