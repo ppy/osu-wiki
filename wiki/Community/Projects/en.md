@@ -146,7 +146,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_blank.png) | [Batch script to delete map](https://osu.ppy.sh/community/forums/topics/682907) | ::{ flag=MX }:: [Greydus](https://osu.ppy.sh/users/6522973) | `.bat` script for mass beatmap deletion |
+| ![](img/logo_blank.png) | [Batch script to delete map](https://osu.ppy.sh/community/forums/topics/682907) | ::{ flag=MX }:: [Greydus](https://osu.ppy.sh/users/6522973) | `.bat` script for deleting beatmaps in bulk |
 | ![](img/logo_blank.png) | [Beatmap Version Checker](https://osu.ppy.sh/community/forums/topics/636199) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for scanning and updating out-of-date beatmaps |
 | ![](img/logo_blank.png) | [Collections Manager](https://osu.ppy.sh/community/forums/topics/131103) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Tool for creating, editing, and exporting collections |
 | ![](img/logo_blank.png) | [osu!grab](https://osu.ppy.sh/community/forums/topics/259116) | ::{ flag=ID }:: [Faishal Akbar](https://osu.ppy.sh/users/2061007) | Various enhancements for beatmap downloading |
