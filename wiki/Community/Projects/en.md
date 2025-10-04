@@ -160,7 +160,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
   - [GitHub](https://github.com/naseweis520/osu-Sync)
 - [osu!vd](https://osu.ppy.sh/community/forums/topics/210509) — Batch script to delete beatmap videos.
 
-### Beatmap Mirrors
+### Beatmap mirrors
 
 - Beatconnect — A mirror site for downloading osu! beatmaps.
   - [Website](https://beatconnect.io/)
