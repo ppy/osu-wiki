@@ -158,10 +158,12 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Beatmap mirrors
 
-- Beatconnect — A mirror site for downloading osu! beatmaps.
-  - [Website](https://beatconnect.io/)
-- Chimu.moe — A beatmap mirror and the successor to BloodCat.
-  - [Website](https://chimu.moe/)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_beatconnect.png) | [Beatconnect](https://beatconnect.io) | ::{ flag=FR }:: [KatsuuKumi](https://www.twitch.tv/katsuukumi) | Mirror site for downloading beatmaps |
+| ![](img/blank.png) | [Mino](https://catboy.best) | ::{ flag=DE }:: [lemres](https://osu.ppy.sh/users/15415709) | Mirror site for downloading beatmaps |
+
+
 - Sayobot — A Chinese beatmap mirror.
   - [Website](https://osu.sayobot.cn/)
 - [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156) — Yet another beatmap mirror.
