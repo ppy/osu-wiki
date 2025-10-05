@@ -9,15 +9,15 @@ tags:
 
 ![KPMC#1 banner](img/banner.jpg)
 
-The **K-Pop Mapping Contest #1** (***KPMC#1***) is an osu!mania mapping contest which aimed to promote K-pop songs to a wider audience of mappers and players. It was the first instalment of the K-Pop Mapping Contest.
+The **K-Pop Mapping Contest #1** (***KPMC#1***) was an osu!mania mapping contest which aimed to promote K-pop songs to a wider audience of mappers and players. It was the first instalment of the K-Pop Mapping Contest.
 
 ## Contest schedule
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| Submission phase | 2025-06-29 to 2025-08-17 |
-| Judging phase | 2025-08-18 to 2025-09-20 |
-| Results announcement | 2025-08-28 at (12:00 UTC) |
+| Submission phase | 2025-06-29/2025-08-17 |
+| Judging phase | 2025-08-18/2025-09-20 |
+| Results announcement | 2025-09-28 (12:00 UTC) |
 
 The playtester's pick and top 5 beatmaps were showcased during the [results announcement YouTube premiere](https://www.youtube.com/watch?v=77D7EWC5irQ).
 
@@ -37,7 +37,7 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months osu!supporter, Profile badge (TBD), Beatmap banner, Ranked status[^ranked] |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months osu!supporter, Beatmap banner, Ranked status[^ranked] |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months osu!supporter, Beatmap banner, Ranked status[^ranked] |
-| Playtester's Pick[^playtester] | 1 month osu! supporter |
+| Playtester's Pick[^playtester] | 1 month osu!supporter |
 
 ![KPMC#1 badge](img/badge.jpg)
 
@@ -84,4 +84,4 @@ More detailed scores and judge comments are available to view on the [Mappers' G
 
 ## Notes
 [^ranked]: The top 3 submissions will receive 2 nominations if the mapper wishes.
-[^playtester]: The submission chosen by the playtester based on its playability aspect.
+[^playtester]: The anonymized submission chosen by the playtester based on its playability aspect.
