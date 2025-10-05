@@ -83,7 +83,7 @@ Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the con
 
 ## Judging
 
-The judging process is split between **Phase 1 (PARALLEL Round)** and **Phase 2 (SWAP & DUET Rounds)**. Each phase includes its own unique primary category, while all other criteria apply equally to both.
+The judging process is split between **Phase 1 (PARALLEL & SWAP Rounds)** and **Phase 2 (DUET Round)**. Each phase includes its own unique primary category, while all other criteria apply equally to both.
 
 In Phase 1, each map for Song A is scored individually in Relevance, Creativity, Expertise, and Overall Impression. The scores in each criteria are added. Then, these two maps are put side to side a 'Uniqueness' score is added. This is worth 25% of the raw score. This process repeats for Song B. Song B's averaged criteria scores are then averaged with Song A's, which are then standardized to determine the final placements.
 
