@@ -9,6 +9,8 @@ tags:
   - Qualifizierung
   - Nominierung
   - gerankt
+outdated_since: 3139de4953a023c1fa4d36c863bec1da90a88853
+outdated_translation: true
 ---
 
 # Ranking-Verfahren für Beatmaps

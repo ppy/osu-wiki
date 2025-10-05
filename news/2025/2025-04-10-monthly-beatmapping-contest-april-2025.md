@@ -36,7 +36,7 @@ This contest required all maps to use **equal difficulty settings**. [See the fu
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | Winner | [Sadu](https://osu.ppy.sh/users/16301262) | [Annabel - glimmer](https://osu.ppy.sh/beatmapsets/2352099) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [Jemzuu](https://osu.ppy.sh/users/7890134) | [Ester - Abandoned Planet](https://drive.google.com/file/d/1T8rJRDILP8EwGB2mCqKYSthr_H55LKlW/view?usp=sharing) | - | +1 (7 total) |
+| Runner-up | [Jemzuu](https://osu.ppy.sh/users/7890134) | [Ester - Abandoned Planet](https://osu.ppy.sh/beatmapsets/2353158) | - | +1 (7 total) |
 
 #### Top submissions
 
@@ -147,7 +147,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
-- **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).** For osu!'s limitation, follow this in the most ambiguous way possible.
+- **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).**
 - **Submissions must be solely made by you.** Collaborations are not allowed for this contest!
 
 Note that all submissions will be anonymised before they're reviewed by screeners/judges to avoid bias.

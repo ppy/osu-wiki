@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 ---
 
@@ -39,7 +37,7 @@ layout: main_page
 
 [游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Gameplay/Hit_object) • [模组 (Mods)](/wiki/Gameplay/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Client/Interface/Multiplayer)
+[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Gameplay/Hit_object) • [模组 (Mods)](/wiki/Gameplay/Game_modifier) • [模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -63,7 +61,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [提交谱面](/wiki/Beatmapping/Beatmap_submission) • [摸图](/wiki/Modding) • [谱面上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[谱面上架标准 (RC)](/wiki/Ranking_criteria)：[osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[谱面上架标准 (RC)](/wiki/Ranking_criteria)：[元数据](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -87,22 +85,24 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [帮助中心](/wiki/Help_centre) • [性能问题检查](/wiki/Performance_troubleshooting) • [账号支持团队](/wiki/People/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
 
-账号受限：[禁言](/wiki/Silence) • [账号受限](/wiki/Help_centre/Account_restrictions)
+账号受限：[禁言](/wiki/Help_centre/Silences) • [账号受限](/wiki/Help_centre/Account_restrictions) • [锦标赛封禁](/wiki/Help_centre/Tournament_bans)
 
 我能做什么：[如何提供帮助](/wiki/Community/How_you_can_help!) • [举报不当行为](/wiki/Reporting_bad_behaviour) • [举报滥用行为](/wiki/Reporting_bad_behaviour/Abuse) • [举报作弊行为](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# 社区与公众项目
+# [社区](/wiki/Community)与[公众项目](/wiki/Community/Projects)
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
 讨论区: [论坛](/wiki/Community/Forum) • [IRC 闲聊](/wiki/Community/Internet_Relay_Chat) • [Discord 服务器](/wiki/Community/Discord_servers)
 
-[锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
+方案：[锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[社区项目](/wiki/Community/Projects) • [谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 月报](/wiki/Community/osu!monthly) • [osu! 讨论](/wiki/Community/Video_series/osu!talk) • [lazer 更新视频系列](/wiki/Community/Video_series/lazer_updates)
+[项目](/wiki/Community/Projects)：[谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 月报](/wiki/Community/osu!monthly) 
+
+媒体：[定制歌曲](/wiki/Community/Bespoke_music) • [漫画](/wiki/Community/Manga) • [视频系列](/wiki/Community/Video_series) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk) • [lazer 更新视频系列](/wiki/Community/Video_series/lazer_updates)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

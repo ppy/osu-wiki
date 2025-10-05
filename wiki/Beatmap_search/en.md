@@ -11,7 +11,7 @@ tags:
 
 *See also: [Beatmap § Downloading beatmaps](/wiki/Beatmap#downloading-beatmaps)*
 
-By default, any text entered at the [song select screen](/wiki/Client/Interface#song-select) or in the website's search field is matched against a beatmap's song artist, title, difficulty creator and name, source, and tags. Entering a single number will search for beatmaps and difficulties with a specific [identifier](/wiki/Beatmap#identification). All queries are case-insensitive.
+By default, any text entered at the [song select screen](/wiki/Client/Interface#song-select) or in the website's search field is matched against a beatmap's song artist, title, difficulty creator and name, source, and [mapper tags](/wiki/Beatmap/Beatmap_tags#mapper-tags). Entering a single number will search for beatmaps and difficulties with a specific [identifier](/wiki/Beatmap#identification). All queries are case-insensitive.
 
 Beatmap metadata fields can be compared against specific values for more granular filtering, using the following operators:
 
@@ -75,6 +75,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `created` | Beatmap creation/upload date |
 | `updated` | Beatmap last update date |
 | `ranked` | Beatmap ranking/approval date |
+| `tag` | Specific [user tag](/wiki/Beatmap/Beatmap_tags#user-tags) |
 
 ## Client (lazer)[^lazer-filters]
 
@@ -98,6 +99,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `divisor` | The denominator of the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `submitted` | Beatmap creation/upload date |
 | `ranked` | Beatmap ranking/approval date |
+| `tag` | Specific [user tag](/wiki/Beatmap/Beatmap_tags#user-tags) (only supported in the built-in beatmap listing) |
 
 ## Example queries
 
@@ -141,6 +143,12 @@ lastplayed>1y
 
 ```
 status=r,l
+```
+
+(Lazer, website) Find beatmaps that have the J-pop mapper tag as well as the "meta/custom skin" user tag:
+
+```
+j-pop tag="meta/custom skin"
 ```
 
 ## References

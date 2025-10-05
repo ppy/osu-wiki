@@ -1,8 +1,3 @@
----
-outdated_since: 218cb353a5cb04575555aa5d0c33fd5e5de209d7
-outdated_translation: true
----
-
 # Regole
 
 Queste regole sono la base da cui attingiamo per aiutare a mantenere la community di osu! un posto divertente e accogliente per tutti.
@@ -11,7 +6,7 @@ Queste regole sono la base da cui attingiamo per aiutare a mantenere la communit
 
 1. **Ogni giocatore può avere solo *UN* account, sempre.** Il *primo* account che fai durante la registrazione dell'account è il tuo unico e solo account osu!, dal momento della sua creazione e per sempre. Questo account sei TU. Non è nessun altro - non tuo fratello, tua madre, tua sorella, il tuo amico - sei TU. Non condividere il tuo account con nessun altro. Non puoi crearne uno nuovo se ne perdi l'accesso. Tienilo al sicuro.
 2. **Gioca correttamente.** Utilizzare programmi di terze parti di qualsiasi tipo per ottenere qualsiasi tipo di vantaggio non va bene. Ciò include cose come programmi di assistenza alla mira, modifiche alla scala temporale e così via. Programmi macro, associazioni di tasti, o hardware in cui un'azione fisica (ad esempio premere un tasto della tastiera) non corrisponde alla stessa azione in gioco sono analogamente proibiti.[^macros] Se un programma sta facendo qualcosa per aiutarti nel gioco a fare qualcosa che dovresti fare da solo, non va bene!
-3. **Sii buono l'uno con l'altro.** Le molestie o altri antagonismi non hanno posto nella community di osu!. Siamo qui per cliccare cerchi, battere tamburi, raccogliere frutta e colpire fino a diciotto tasti contemporaneamente, non per darci fastidio ed offenderci l'uno con l'altro.
+3. **Sii buono con gli altri** Le molestie o altri antagonismi non hanno posto nella community di osu!. Siamo qui per cliccare cerchi, battere tamburi, raccogliere frutta e colpire fino a diciotto tasti contemporaneamente, non per infastidirci ed offenderci l'uno con l'altro.
 4. **Non essere un cretino.** Se in un qualsiasi momento ti stai chiedendo se stai infrangendo questa regola, probabilmente è così.
 5. **Siamo una community di tutte le età.** Ciò significa che i contenuti 18+/[NSFW](https://it.wikipedia.org/wiki/NSFW) come l'uso di droghe ed argomenti di natura sessuale non sono i benvenuti qui.
 6. **Tieniti pulito.** osu! non è il luogo per avere appuntamenti o flirtare. Usare linguaggio sessuale, arte figurativa o fare delle mosse non gradite su altri membri della comunità in pubblico o in privato NON va bene. Se mai ti sentissi a disagio nel come qualcuno ti parla, [segnalacelo in via confidenziale](/wiki/Reporting_bad_behaviour/Abuse) così che possiamo aiutarti (e potenzialmente prevenire che altri vengano affetti).
@@ -21,7 +16,7 @@ Queste regole sono la base da cui attingiamo per aiutare a mantenere la communit
 
 1. **Sii rispettoso e attento agli altri utenti del canale ed evita il flooding o lo spamming.** Una persona che occupa metà dello schermo in una volta è fastidiosa, quindi evita di farlo ovunque sia possibile. Anche altre persone stanno cercando di chattare!
 2. **Lascia che i moderatori gestiscano i problemi nella chat.** Puoi indicare le persone problematiche con [il comando `!report`](/wiki/Reporting_bad_behaviour) in chat e loro gestiranno il resto.
-3. **Se qualcuno è stato silenziato o il suo account posto in modalità restrittiva, lasciali stare e non iniziare a parlare di loro.** Se qualcuno si vede il proprio account venir limitato, il loro caso coinvolge solo loro e l'amministrazione del gioco - assolutamente nessun altro!
+3. **Se qualcuno è stato silenziato o il suo account posto in modalità restrittiva, lasciali stare e non iniziare a parlare di loro.** Se qualcuno vede il proprio account limitato, il loro caso coinvolge solo loro e l'amministrazione del gioco - assolutamente nessun altro!
 4. **Incoraggia il gioco leale e non prestare attenzione a imbroglioni o altri utenti tossici.** Queste persone purtroppo esistono e dare loro attenzione può incoraggiarle a continuare o provocare altri nell'agire come loro. Segnalali tramite il comando della chat `!report` o i pulsanti nella pagina del loro profilo e prosegui.
 5. **Mantieni la chat pulita e appropriata per una commmunity di tutte le età, evitando gli argomenti NSFW laddove possibile.** La roba NSFW in realtà non è appropriata per una community di tutte le età. Fai quello che ti piace nei messaggi privati (entro limiti ragionevoli) ma mantieni i canali pubblici perfettamente puliti per il bene di tutti.
 6. **Sii consapevole di ciò che condividi con gli altri, specialmente se il contenuto è potenzialmente disturbante o di natura molto grafica.** Se devi pensare due volte se è appropriato condividere qualcosa, probabilmente non va bene. Evita le cose con luci veloci o stroboscopiche, gore, immagini di abusi o altro materiale grafico.
@@ -56,12 +51,12 @@ Se ti ritrovi nella parte sbagliata delle regole della comunità, accadranno cos
 
 Queste cose brutte possono includere (*ma non sono limitate a*):
 
-- La rimozione della tua capacità di chattare nel gioco per un periodo di tempo (noto come [silenzio](/wiki/Help_centre/Silences))
+- La rimozione della tua capacità di chattare nel gioco per un periodo di tempo (noto come [silenziamento](/wiki/Help_centre/Silences))
 - La rimozione di qualsiasi contenuto illegale dalla tua pagina utente, profilo o beatmap caricati
 - La perdita del privilegio di modificare o alterare la tua pagina utente o i dettagli del profilo
 - La perdita del privilegio di giocare o qualificarsi nei tornei ospitati ufficialmente
 
-Venir [Silenziato](/wiki/Help_centre/Silences) e altre violazioni **automaticamente** aumentano in durata quasi esponenziale con ogni violazione. I moderatori non controllano il periodo di tempo in cui sei messo a tacere per un reato - i recidivi si ritroveranno chiusi fuori dal gioco per periodi di tempo sempre più lunghi.
+I [silenziamenti](/wiki/Help_centre/Silences) e altre violazioni **automaticamente** aumentano in durata quasi esponenziale con ogni violazione. I moderatori non controllano il periodo di tempo in cui sei messo a tacere per ogni infrazione - i recidivi si ritroveranno chiusi fuori dal gioco per periodi di tempo sempre più lunghi.
 
 Alcuni reati hanno una durata minima (in genere 43 ore o più) se sono particolarmente severi, sebbene siano quasi esclusivamente riservati a gravi infrazioni, come la condivisione di contenuti grafici o molestie incessanti di altri utenti.
 

@@ -15,7 +15,7 @@ tags:
 
 El [osu! team](/wiki/People/osu!_team) dirige un programa en el que puede optar por proporcionar un soporte extra a los torneos organizados por la comunidad que cumplan una serie de criterios y expectativas, según su criterio.
 
-Este artículo se actualizó por última vez el 2 de marzo de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Este artículo se actualizó por última vez el 13 de mayo de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Beneficios
 
@@ -34,11 +34,11 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
 - El torneo debe tener como mínimo un formato de doble eliminación en octavos de final o de eliminación directa en dieciseisavos de final.
   - Los torneos LAN deben tener como mínimo un formato de doble eliminación en cuartos de final o de eliminación directa en octavos de final.
   - También pueden usarse formatos más grandes, como las fases de grupos y los brackets suizos, siempre y cuando empiecen con al menos 16 equipos y, si se da el caso y se empieza con solo 16 equipos, que después se pase a un bracket de doble eliminación.
-  - Los torneos que tengan un formato draft podrán funcionar con un bracket de doble eliminación de octavos de final, siempre y cuando el torneo cumpla los siguientes criterios adicionales:
+  - Los torneos que tengan un formato draft o de subasta podrán funcionar con un bracket de doble eliminación de octavos de final, siempre y cuando el torneo cumpla los siguientes criterios adicionales:
     - El torneo es de rango abierto.
     - El tamaño de los equipos es de 8 o más jugadores.
-    - Nota: En los torneos con múltiples divisiones, esta regla se aplica solo a una división de rango abierto.
-  - Podrán permitirse escalas y formatos alternativos a discreción del comité del torneo. Los organizadores deben ponerse en contacto a través del correo electrónico [tournaments@ppy.sh](mailto:tournaments@ppy.sh) si desean recibir soporte para un formato o tamaño no tradicional para los torneos.
+    - Nota: En los torneos globales o continentales de draft y subasta, esta regla se aplica a un máximo de 2 divisiones de rango abierto. En los torneos de menor escala, esta regla solo se aplica a una división de rango abierto.
+  - Podrán permitirse escalas y formatos alternativos a discreción del comité de torneos. Los organizadores deben [enviar un ticket](https://tcomm.hivie.tn/tickets/create) o ponerse en contacto a través del correo electrónico [tournaments@ppy.sh](mailto:tournaments@ppy.sh) si desean recibir soporte para un formato o tamaño no tradicional para los torneos.
 - Los hilos del foro asociados con el torneo (incluidos los hilos de cualquier evento preliminar) **DEBEN** contener un enlace claramente visible en un tamaño de letra normal al [formulario de reportes de torneos](https://tcomm.hivie.tn/reports/create) como último contenido del mensaje original.
   - `https://tcomm.hivie.tn/reports/create`
   - Este formulario de reportes es supervisado por el [comité de torneos](/wiki/People/Tournament_Committee). Animamos a todos los usuarios, tanto jugadores como personal, a usar este formulario cuando sea necesario. Cualquier incumplimiento de las [expectativas](#expectativas), [otros procedimientos](#otros-procedimientos) o los requisitos de [elegibilidad](#elegibilidad) debe dar lugar a un reporte.
@@ -50,7 +50,8 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
   - osu!: 100 000
   - osu!taiko: 10 000
   - osu!catch: 5000
-  - osu!mania: 40 000
+  - osu!mania 4K: 40 000
+  - osu!mania 7K: 5000
   - Esto no se aplica a los torneos de rango abierto.
 - Los organizadores del torneo no recopilarán, permitirán el envío ni usarán ningún tipo de información personal[^personal-information] de los participantes por ningún motivo fuera de estas excepciones definidas.
   - Los organizadores del torneo podrán recopilar y usar las direcciones de correo electrónico por cualquier motivo, siempre que sea necesario para el funcionamiento del torneo.

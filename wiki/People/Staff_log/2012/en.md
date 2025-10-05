@@ -68,6 +68,7 @@
 - Added [Galkan](https://osu.ppy.sh/users/169570) to Global Mod Team (2012-05-20)
 - Added [TicClick](https://osu.ppy.sh/users/672931) to Global Mod Team (2012-05-20)
 - Moved [Odaril](https://osu.ppy.sh/users/113005) from Beatmap Appreciation Team to osu! Alumni (2012-05-25) <!-- https://osu.ppy.sh/community/forums/posts/1558121 -->
+- Moved [Andrea](https://osu.ppy.sh/users/33599) from osu! Alumni to Beatmap Appreciation Team (2012-05-25) <!-- closest source is an ancient screenshot: https://github.com/ppy/osu-wiki/pull/13709 -->
 
 ## June
 

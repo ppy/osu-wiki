@@ -28,6 +28,6 @@ Los **cuádruples** son cuatro notas presionadas al mismo tiempo. Más allá de 
 
 ## Grace note
 
-Las **grace notes** son dos o más notas en columnas diferentes que deben tocarse en rápida sucesión una de otra. Esto se hace comúnmente con ajustes superiores a 1/6. Durante el juego, se parecen mucho a los chords.
+Las **grace notes** son dos o más notas en columnas diferentes que deben tocarse en rápida sucesión una de otra. Esto se hace comúnmente con ajustes más rápidos que 1/6. Durante el juego, se parecen mucho a los chords.
 
 ![](img/grace.png)

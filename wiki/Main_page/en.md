@@ -94,7 +94,7 @@ Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) •
 </div>
 <div class="wiki-main-page-panel">
 
-# Community and projects
+# [Community](/wiki/Community) and [projects](/wiki/Community/Projects)
 
 Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organise the next big event!
 

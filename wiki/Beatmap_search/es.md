@@ -16,7 +16,7 @@ tags:
 
 *Véase también: [Beatmap § Descargar beatmaps](/wiki/Beatmap#descargar-beatmaps)*
 
-De forma predeterminada, cualquier texto ingresado en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente y las etiquetas de los beatmaps. Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las búsquedas no distinguen entre mayúsculas y minúsculas.
+De forma predeterminada, cualquier texto ingresado en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente y las [etiquetas de los mappers](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-mappers). Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las búsquedas no distinguen entre mayúsculas y minúsculas.
 
 El campo de metadatos de los beatmaps se pueden comparar con valores específicos para un filtrado más granular, usando los siguientes operadores:
 
@@ -79,6 +79,7 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `created` | Fecha de creación/subida del beatmap |
 | `updated` | Fecha de la última actualización del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
+| `tag` | [Etiquetas específicas de los usuarios](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-usuarios) |
 
 ## Cliente (lazer)[^lazer-filters]
 
@@ -102,6 +103,7 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `submitted` | Fecha de creación/subida del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
+| `tag` | [Etiquetas específicas de los usuarios](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-usuarios) (solo compatible con el listado de beatmaps integrado) |
 
 ## Búsquedas de ejemplo
 
@@ -145,6 +147,12 @@ lastplayed>1y
 
 ```
 status=r,l
+```
+
+(Lazer, sitio web) Encuentra beatmaps que tengan la etiqueta «J-pop» puesta por el mapper, así como la etiqueta «meta/custom skin» puesta por los usuarios:
+
+```
+j-pop tag="meta/custom skin"
 ```
 
 ## Referencias
