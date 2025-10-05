@@ -49,8 +49,8 @@ Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the con
 
 - [Main website](https://www.vat.gg)
 - [Discord server](https://discord.com/invite/EruvDHaReY)
-- Twitch: [*Vocaloid Appreciation Team*](https://www.twitch.tv/vocaloidappreciationteam)
-- YouTube: [*Vocaloid Appreciation Team*](https://www.youtube.com/@VocaloidAppreciationTeam)
+- [Twitch channel](https://www.twitch.tv/vocaloidappreciationteam)
+- [YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam)
 - [Announcement news post](https://osu.ppy.sh/home/news/2025-10-05-vocaloid-mapping-contest-3)
 - [osu! contest listing](https://osu.ppy.sh/community/contests/261)
 - [osu!taiko contest listing](https://osu.ppy.sh/community/contests/262)
@@ -66,19 +66,19 @@ Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the con
 - **Maps must remain anonymous** until after the results are announced. Metadata will be anonymized before judging.  
 - **No storyboards or videos** are to be included in submissions.  
 - **No manual `.osu` file edits** beyond what is possible in the editor.  
-- **Each .osz submission must include exactly one difficulty.**
-- **Collaborative difficulties should feature approximately equal contribution between both mappers**.
+- **Each `.osz` submission must include exactly one difficulty.**
+- **Collaborative difficulties should feature approximately equal contribution between both mappers.**
 - **All aspects of each submission must be created solely be a member of the team.** As such, artificial intelligence (AI) is not permitted.
 
 ## Registration
 
 - To participate, a team of two (2) mappers must be formed. There is no restriction on who you can have on your team, with limited exceptions:
-    - No mappers may be restricted or contest/tournament banned.
-    - Mappers cannot participate on more than one team.
-    - Mappers may not be a judge, screener, or other staff for the contest.
-- One member of the team will need to be the captain. This should be decided prior to signup.
-- One member of each team, at minimum, is required to join the [VAT Discord](https://discord.com/invite/EruvDHaReY) server in order to receive important contest updates.
-- Register [**here**](https://form-auth.ppy.sh/form/vmc3-signups).
+  - No mappers may be restricted or contest/tournament banned.
+  - Mappers cannot participate on more than one team.
+  - Mappers may not be a judge, screener, or other staff for the contest.
+- One member of the team will need to be the captain. This should be decided prior to signing up.
+- One member of each team, at minimum, is required to join the [VAT Discord server](https://discord.com/invite/EruvDHaReY) in order to receive important contest updates.
+- [**Register here**](https://form-auth.ppy.sh/form/vmc3-signups).
 
 ## Judging criteria
 
@@ -89,7 +89,7 @@ The judging process is split between **Phase 1 (PARALLEL Round)** and **Phase 2 
 | **Phase 1 – Uniqueness** | **50** | How distinctive and innovative is the entry? Does it showcase fresh ideas that set it apart from typical mapping trends while feeling cohesive and enjoyable? |
 | **Phase 2 – Cohesion** | **50** | How naturally do the swapped maps work as a single, unified entry? The final product should feel seamless and consistent despite being made by different team members. |
 | **Relevance** | 30 | How well does the map fit the song? Are the gameplay elements fundamentally tied to the music? |
-| **Creativity** | 25 | How bold and exciting are the mapper's ideas compared to current mapping trends? Does the map evoke reactions like “wow!” or “that's super interesting”? |
+| **Creativity** | 25 | How bold and exciting are the mapper's ideas compared to current mapping trends? Does the map evoke reactions like "wow!" or "that's super interesting"? |
 | **Expertise** | 20 | Technical skill, execution, and consistency of the map's design and structure. |
 | **Overall Impression** | 25 | Subjective evaluation from the judging panel, factoring in personal enjoyment and interpretation. |
 
@@ -98,7 +98,7 @@ The judging process is split between **Phase 1 (PARALLEL Round)** and **Phase 2 
 | Role | User |
 | :-: | :-- |
 | Host | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |
-| Special Thanks | ::{ flag=US }:: [Pishifat](https://osu.ppy.sh/users/3178418); ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+| Special Thanks | ::{ flag=US }:: [Pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 | Designer | ::{ flag=CA }:: [Kaetwo](https://osu.ppy.sh/users/1997719) |
 
 
