@@ -8,37 +8,38 @@ tags:
 
 ![VMC banner](insert thing here)
 
-The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team (VAT). Its purpose is to **promote VOCALOID, UTAU, and other vocal synth music**, giving both popular and overlooked songs a chance to shine.  
-Participants compete to create the **best beatmap possible**, with their entries judged by some of the most talented and respected VOCALOID-focused mappers in the osu! community.
+The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team (VAT). Its purpose is to *promote VOCALOID, UTAU, and other vocal synth music*, giving both popular and overlooked songs a chance to shine.
 
-The third iteration of the contest introduces a **multi-phase format** featuring the **PARALLEL**, **SWAP**, and **DUET** rounds. This year also celebrates multiple Featured Artists whose songs were specifically chosen for the competition, along with continued support for every game mode.
+Participants compete to create the *best beatmap possible*, with their entries judged by some of the most talented and respected VOCALOID-focused mappers in the osu! community.
+
+The third iteration of the contest introduces a *multi-phase format* featuring the **PARALLEL**, **SWAP**, and **DUET** rounds. This year also celebrates multiple Featured Artists whose songs were specifically chosen for the competition, along with continued support for every game mode.
 
 ## Contest schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2025-10-05 |
-| PARALLEL Round Submission Deadline | 2025-11-09 |
-| Screening | 2025-11-10 to 2025-11-15 |
-| SWAP Round Submission Deadline | 2025-12-07 |
-| Judging | 2025-12-08 to 2025-12-19 |
-| Results Livestream | 2025-12-21 |
-| DUET Round Submission Deadline | 2026-02-22 |
-| Judging | 2026-02-22 to 2026-03-13 |
-| Results Livestream | 2026-03-15 |
+| PARALLEL round submission deadline | 2025-11-09 |
+| Screening | 2025-11-10/2025-11-15 |
+| SWAP round submission deadline | 2025-12-07 |
+| Judging | 2025-12-08/2025-12-19 |
+| Results livestream | 2025-12-21 |
+| DUET round submission deadline | 2026-02-22 |
+| Judging | 2026-02-22/2026-03-13 |
+| Results livestream | 2026-03-15 |
 
-All deadlines end at 11:59pm UTC.
+All deadlines end at 23:59 UTC.
 
-The **results livestreams** will be broadcast live on the [*Vocaloid Appreciation Team* Twitch channel](https://www.twitch.tv/vocaloidappreciationteam), with commentary and live reactions.  Recordings will later be available on the [*Vocaloid Appreciation Team* YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam).
+The **results livestreams** will be broadcast live on the [*Vocaloid Appreciation Team* Twitch channel](https://www.twitch.tv/vocaloidappreciationteam), with commentary and live reactions. Recordings will later be available on the [*Vocaloid Appreciation Team* YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam).
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| 1st | Two laptops (sponsored by [**Noobie_Potato**](https://osu.ppy.sh/users/15174655)) for osu! mode winners; 6 months of osu!supporter; [Contest points](/wiki/Contests/Contest_points); VMC3 Winner profile badge; Fast track your map to ranked status; Potential inclusion in new game installs; Personal recognition from the artist |
-| 2nd | 3 months of osu!supporter; [Contest points](/wiki/Contests/Contest_points) |
-| 3rd | 1 month of osu!supporter; [Contest points](/wiki/Contests/Contest_points) |
-| SWAP Round Winner | 3 months of osu!supporter; Possible badge and/or [contest points](/wiki/Contests/Contest_points) |
+| 1st | Two laptops (courtesy of [**Noobie_Potato**](https://osu.ppy.sh/users/15174655)) for osu! mode winners, 6 months of osu!supporter, [Contest points](/wiki/Contests/Contest_points), **VMC3 Winner** profile badge, entry fast-tracked to Ranked status |
+| 2nd | 3 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
+| 3rd | 1 month of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
+| SWAP round winner | 3 months of osu!supporter, possible badge and/or [contest points](/wiki/Contests/Contest_points) |
 
 All participating mappers will receive feedback from experienced members of the community to help them improve their skills.
 
