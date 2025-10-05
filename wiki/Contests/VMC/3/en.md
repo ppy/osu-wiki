@@ -66,7 +66,7 @@ Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the con
 - **Maps must remain anonymous** until after the results are announced. Metadata will be anonymized before judging.  
 - **No storyboards or videos** are to be included in submissions.  
 - **No manual `.osu` file edits** beyond what is possible in the editor.  
-- **Each `.osz` submission must include exactly one difficulty.**
+- **Each `.osz` submission must include all required difficulties and songs for that round.** Be sure to follow the instructions on the submission page to avoid issues!
 - **Collaborative difficulties should feature approximately equal contribution between both mappers.**
 - **All aspects of each submission must be created solely be a member of the team.** As such, artificial intelligence (AI) is not permitted.
 
@@ -80,18 +80,20 @@ Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the con
 - One member of each team, at minimum, is required to join the [VAT Discord server](https://discord.com/invite/EruvDHaReY) in order to receive important contest updates.
 - [**Register here**](https://form-auth.ppy.sh/form/vmc3-signups).
 
-## Judging criteria
+## Judging
 
 The judging process is split between **Phase 1 (PARALLEL Round)** and **Phase 2 (SWAP & DUET Rounds)**. Each phase includes its own unique primary category, while all other criteria apply equally to both.
 
+In Phase 1, each map for Song A is scored individually in Relevance, Creativity, Expertise, and Overall Impression. The scores in each criteria are added. Then, these two maps are put side to side a 'Uniqueness' score is added. This is worth 25% of the raw score. This process repeats for Song B. Song B's averaged criteria scores are then averaged with Song A's, which are then standardized to determine the final placements.
+
 | Criterion | Points | Description |
 | :-: | :-: | :-- |
-| **Phase 1 – Uniqueness** | **50** | How distinctive and innovative is the entry? Does it showcase fresh ideas that set it apart from typical mapping trends while feeling cohesive and enjoyable? |
-| **Phase 2 – Cohesion** | **50** | How naturally do the swapped maps work as a single, unified entry? The final product should feel seamless and consistent despite being made by different team members. |
-| **Relevance** | 30 | How well does the map fit the song? Are the gameplay elements fundamentally tied to the music? |
-| **Creativity** | 25 | How bold and exciting are the mapper's ideas compared to current mapping trends? Does the map evoke reactions like "wow!" or "that's super interesting"? |
-| **Expertise** | 20 | Technical skill, execution, and consistency of the map's design and structure. |
-| **Overall Impression** | 25 | Subjective evaluation from the judging panel, factoring in personal enjoyment and interpretation. |
+| **Phase 1 – Uniqueness** | **100** | How distinctive and innovative is the entry? Does it showcase fresh ideas that set it apart from typical mapping trends while feeling cohesive and enjoyable? |
+| **Phase 2 – Cohesion** | **100** | How naturally do the swapped maps work as a single, unified entry? The final product should feel seamless and consistent despite being made by different team members. |
+| **Relevance** | 60 | How well does the map fit the song? Are the gameplay elements fundamentally tied to the music? |
+| **Creativity** | 60 | How bold and exciting are the mapper's ideas compared to current mapping trends? Does the map evoke reactions like "wow!" or "that's super interesting"? |
+| **Expertise** | 60 | Technical skill, execution, and consistency of the map's design and structure. |
+| **Overall Impression** | 80 | Subjective evaluation from the judging panel, factoring in personal enjoyment and interpretation. |
 
 ## Staff
 

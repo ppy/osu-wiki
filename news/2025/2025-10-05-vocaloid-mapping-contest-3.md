@@ -14,7 +14,7 @@ From humble beginnings to a full-scale symphony, VMC returns bigger, louder, and
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/504/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -26,7 +26,7 @@ From humble beginnings to a full-scale symphony, VMC returns bigger, louder, and
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/505/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -70,14 +70,14 @@ Results will be streamed live with commentary on the [*Vocaloid Appreciation Tea
 - **Maps must remain anonymous** until after the results are announced. Metadata will be anonymised before judging.  
 - **No storyboards or videos** are to be included in submissions.  
 - **No manual `.osu` file edits** beyond what is possible in the editor.  
-- **Each `.osz` submission must include exactly one difficulty.**
+- **Each `.osz` submission must include all required difficulties and songs for that round.** Be sure to follow the instructions on the submission page to avoid issues!
 - **Collaborative difficulties should feature approximately equal contribution between both mappers.**
 - **All aspects of each submission must be created solely be a member of the team.** As such, artificial intelligence (AI) is not permitted.
 
 ### How to enter
 
 - Form a **team of two** and pick one song from [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) and one from [**mimizu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/505). Before you submit your final entries, complete a [team registration form](https://form-auth.ppy.sh/form/vmc3-signups)!
-- When you finish, submit your `.osz` files through the appropriate [osu! contest listing](/wiki/Contests/VMC/3#links).  
+- When you finish, submit your `.osz` files through the appropriate [osu! contest listing](/wiki/Contests/VMC/3#links). Be sure to follow the instructions on the submission page to avoid issues!
 - One member of the team is required to join the [VAT Discord server](https://discord.com/invite/EruvDHaReY) to get updates and important announcements.
 
 For complete and up-to-date details on songs, rules, and judging, check the [contest website](www.vat.gg) or [wiki page](/wiki/Contests/VMC/3).
