@@ -170,10 +170,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | Browser extension for calculating pp |
-| ![](img/logo_blank.png) | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=UK }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Schedule calendar for the [osu! news feed](https://osu.ppy.sh/home/news) |
 | ![](img/logo_blank.png) | [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) | ::{ flag=UK }:: [Lemmmy](https://osu.ppy.sh/users/4656511) | Forum signature generator in the style of [osu!next](https://osunext.tumblr.com) |
 | ![](img/logo_blank.png) | [osu!Post - Live osu! Status](https://osu.ppy.sh/community/forums/topics/164486) | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Forum signature generator with MSN Live Status integration |
 | ![](img/logo_osuplus.png) | [osuplus](https://osu.ppy.sh/community/forums/topics/408541) | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Browser script that adds additional features to the website |
+| ![](img/logo_blank.png) | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=UK }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Schedule calendar for the [osu! news feed](https://osu.ppy.sh/home/news) |
 
 ### IRC
 
