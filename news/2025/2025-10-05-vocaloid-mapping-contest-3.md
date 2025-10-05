@@ -46,7 +46,7 @@ This time, the spotlight shines on **two Featured Artists**: **MARETU** and **mi
 
 Full rules, judging criteria, and song downloads are available on the [contest wiki page](/wiki/Contests/VMC/3) and the [contest website](https://www.vat.gg/vmc3).
 
-### Submission schedule
+### Schedule
 
 | Event | Date |
 | --: | :-- |
@@ -58,8 +58,6 @@ Full rules, judging criteria, and song downloads are available on the [contest w
 | DUET results stream | March 15, 2026 (23:59 UTC) |
 
 Results will be streamed live with commentary on the [*Vocaloid Appreciation Team* Twitch channel](https://www.twitch.tv/vocaloidappreciationteam), and posted afterwards on YouTube.
-
----
 
 ### Ruleset
 
@@ -80,6 +78,6 @@ Results will be streamed live with commentary on the [*Vocaloid Appreciation Tea
 - When you finish, submit your `.osz` files through the appropriate [osu! contest listing](/wiki/Contests/VMC/3#links). Be sure to follow the instructions on the submission page to avoid issues!
 - One member of the team is required to join the [VAT Discord server](https://discord.com/invite/EruvDHaReY) to get updates and important announcements.
 
-For complete and up-to-date details on songs, rules, and judging, check the [contest website](www.vat.gg) or [wiki page](/wiki/Contests/VMC/3).
+For complete and up-to-date details on songs, rules, and judging, check the [contest website](https://www.vat.gg) or [wiki page](/wiki/Contests/VMC/3).
 
 —-White
