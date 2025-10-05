@@ -4,7 +4,7 @@ title: "Moscow osu! Event 2025 Recap"
 date: 2025-09-30 14:00:00 +0000
 ---
 
-The third iteraton of Moscow osu! Event, the largest osu! event in Russia, took place between July, 25-27th, featuring a total of 5 tournaments for each gamemode, a cosplay défilé, and more!
+The third iteraton of Moscow osu! Event, the largest osu! event in Russia, took place between July, 25-27th, featuring a total of 5 tournaments for each gamemode, a cosplay show, and more!
 
 ![](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/moe25-banner.jpg)
 
