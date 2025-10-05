@@ -91,7 +91,7 @@ In Phase 1, each map for Song A is scored individually in Relevance, Creativity,
 | :-: | :-: | :-- |
 | **Phase 1 – Uniqueness** | **100** | How distinctive and innovative is the entry? Does it showcase fresh ideas that set it apart from typical mapping trends while feeling cohesive and enjoyable? |
 | **Phase 2 – Cohesion** | **100** | How naturally do the swapped maps work as a single, unified entry? The final product should feel seamless and consistent despite being made by different team members. |
-| **Relevance** | 60 | How well does the map fit the song? Are the gameplay elements fundamentally tied to the music? |
+| **Relevance** | 100 | How well does the map fit the song? Are the gameplay elements fundamentally tied to the music? |
 | **Creativity** | 60 | How bold and exciting are the mapper's ideas compared to current mapping trends? Does the map evoke reactions like "wow!" or "that's super interesting"? |
 | **Expertise** | 60 | Technical skill, execution, and consistency of the map's design and structure. |
 | **Overall Impression** | 80 | Subjective evaluation from the judging panel, factoring in personal enjoyment and interpretation. |
