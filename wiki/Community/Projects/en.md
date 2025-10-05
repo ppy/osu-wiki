@@ -186,6 +186,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 ### Performance
 
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_bonus_pp_calculator.png) | [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Calculator for determining how much [bonus pp](/wiki/Performance_points#how-much-bonus-pp-is-awarded-for-having-scores-on-ranked-maps?) a user has |
+
 - [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) — Calcuates how much bonus pp a user has.
   - [GitHub](https://github.com/RoanH/osu-BonusPP)
 - [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) — Calculates the needed score to achieve a certain level.
