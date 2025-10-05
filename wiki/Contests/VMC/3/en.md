@@ -43,7 +43,7 @@ The **results livestreams** will be broadcast live on the [*Vocaloid Appreciatio
 
 All participating mappers will receive feedback from experienced members of the community to help them improve their skills.
 
-Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the contest's [main website](https://www.vat.gg) if you're interested in sponsoring this event!
+Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the contest's [main website](https://www.vat.gg) if you are interested in sponsoring this event!
 
 ## Links
 
@@ -119,9 +119,9 @@ The **VMC3** consists of three unique phases: **PARALLEL**, **SWAP**, and **DUET
 - One mapper will select and map a song from **MARETU**, while the other will select and map a song from **mimizu**.
 - **Each team must submit two (2) separate maps** by the round deadline — one for each chosen song.  
 - After submissions close, a short screening phase will occur.
-    - Teams that are eliminated will be notified via osu! private message or Discord.  
+  - Teams that are eliminated will be notified via osu! private message or Discord.  
 
-*Tip:* Form your team and start planning early to avoid last-minute rushes. Further, we recommend planning ahead to future rounds when selecting your teammate.
+Tip: form your team and start planning early to avoid last-minute rushes. Plan ahead for future rounds when selecting your teammate.
 
 ### SWAP round
 
@@ -130,15 +130,16 @@ The **VMC3** consists of three unique phases: **PARALLEL**, **SWAP**, and **DUET
 - Each team must again submit **two (2) completely new maps**, one for each swapped song.  
 - **The twist:** These new maps must reflect a different interpretation of the songs than in the PARALLEL Round.  
   - Maps that are overly similar to their original versions will receive heavy penalties during judging.  
-- If you're confident your team will survive the screening phase, you may begin work on this round before results are announced.
+- If you are confident your team will survive the screening phase, you may begin work on this round before results are announced.
 
 ### DUET round
 
 - The **top 6 teams** from the SWAP Round advance to this final phase.  
 - Both team members will **collaborate directly** to create a **single cohesive mapset** for a selected song.  
-- **Every difficulty in the submission must be created collaboratively**.
+- **Every difficulty in the submission must be created collaboratively.**
 
 This three-phase structure challenges teams to demonstrate:
+
 - Individual skill and creativity in the PARALLEL Round,  
 - Adaptability and innovation in the SWAP Round, and  
 - Collaborative harmony and teamwork in the DUET Round finale.
