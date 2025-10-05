@@ -75,7 +75,7 @@ Results will be streamed live with commentary on the [*Vocaloid Appreciation Tea
 ### How to enter
 
 - Form a **team of two** and pick one song from [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) and one from [**mimizu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/505). Before you submit your final entries, complete a [team registration form](https://form-auth.ppy.sh/form/vmc3-signups)!
-- When you finish, submit your `.osz` files through the appropriate [osu! contest listing](/wiki/Contests/VMC/3#links). Be sure to follow the instructions on the submission page to avoid issues!
+- When you finish, submit your `.osz` files through the appropriate contest listing ([osu!](https://osu.ppy.sh/community/contests/261), [osu!taiko](https://osu.ppy.sh/community/contests/262), [osu!catch](https://osu.ppy.sh/community/contests/263), [osu!mania](https://osu.ppy.sh/community/contests/264)). Be sure to follow the instructions on the submission page to avoid issues!
 - One member of the team is required to join the [VAT Discord server](https://discord.com/invite/EruvDHaReY) to get updates and important announcements.
 
 For complete and up-to-date details on songs, rules, and judging, check the [contest website](https://www.vat.gg/vmc3) or [wiki page](/wiki/Contests/VMC/3).
