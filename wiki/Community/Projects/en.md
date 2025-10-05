@@ -192,9 +192,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) | ::{ flag=IT }:: [Howl](https://osu.ppy.sh/users/2751672) | Calculator for determining the required score value to achieve a certain level |
 | ![](img/logo_blank.png) | [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483) | ::{ flag=US }:: [Albi-chan](https://osu.ppy.sh/users/2770894) | Tool for exporting player stats into a text file, which can later be displayed using [Open Broadcaster Software](https://obsproject.com/) |
 | ![](img/logo_osuchan.png) | [osu!chan](https://osuchan.syrin.me) | ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Website that hosts a multitude of alternative ranking leaderboards |
+| ![](img/logo_osuskills.png) | [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283) | ::{ flag=RU }:: [Kert](https://osu.ppy.sh/users/119933) | Website that breaks down pp into other metrics such as stamina, reaction, and memory |
 
-- [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283) — Expands pp into include other metrics such as stamina, reaction, and memory.
-  - [Website](http://osuskills.com/)
 - [osu!Stats](https://osu.ppy.sh/community/forums/topics/51911) — Search scores and player statistics.
   - [Website](https://osustats.ppy.sh/)
 - [osu!track](https://osu.ppy.sh/community/forums/topics/212151) — A tool that allows players to track their progress in-game and see visually see their improvement over time.
