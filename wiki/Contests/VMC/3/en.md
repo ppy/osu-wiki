@@ -43,11 +43,11 @@ The **results livestreams** will be broadcast live on the [*Vocaloid Appreciatio
 
 All participating mappers will receive feedback from experienced members of the community to help them improve their skills.
 
-Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the contest's [main website](https://www.vat.gg) if you are interested in sponsoring this event!
+Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the contest's [main website](https://www.vat.gg/vmc3) if you are interested in sponsoring this event!
 
 ## Links
 
-- [Main website](https://www.vat.gg)
+- [Main website](https://www.vat.gg/vmc3)
 - [Discord server](https://discord.com/invite/EruvDHaReY)
 - [Twitch channel](https://www.twitch.tv/vocaloidappreciationteam)
 - [YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam)
