@@ -10,6 +10,8 @@ The third iteraton of Moscow osu! Event, the largest osu! event in Russia, took 
 
 This year’s Moscow osu! Event took place at Mosproducer, a concert hall situated at the center of Moscow, Russia.
 
+[See the Russian version of this article here](https://play-osu.ru/?p=124)
+
 ## Activities
 
 ### Cosplay show
