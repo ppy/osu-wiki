@@ -194,14 +194,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_osuchan.png) | [osu!chan](https://osuchan.syrin.me) | ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Website that hosts a multitude of alternative ranking leaderboards |
 | ![](img/logo_osuskills.png) | [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283) | ::{ flag=RU }:: [Kert](https://osu.ppy.sh/users/119933) | Website that breaks down pp into other metrics such as stamina, reaction, and memory |
 | ![](img/logo_osustats.png) | [osu!Stats](https://osustats.ppy.sh) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Website for searching specific scores and player statistics |
-
-- [osu!track](https://osu.ppy.sh/community/forums/topics/212151) — A tool that allows players to track their progress in-game and see visually see their improvement over time.
-  - [GitHub](https://github.com/Ameobea/osutrack_irc_v2/) | [Website](https://ameobea.me/osutrack)
-- [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) — The in-game IRC bot for osu!track.
-- osu-pps — A website that lists the most overweight maps in terms of [pp](/wiki/Performance_points) by using a calculation system similar to [ppv1](/wiki/Performance_points/ppv1), and sorts mappers by how many overweight maps they have or how many high-quality beatmaps they have according to other mappers' favourites.
-  - [Website](https://osu-pps.com/#/osu/maps)
-- [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031) — Calculates and displays earned pp while playing on the fly.
-  - [GitHub](https://github.com/KedamaOvO/RealTimePPDisplayer)
+| ![](img/logo_osutrack.png) | [osu!track](https://osu.ppy.sh/community/forums/topics/212151) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Website that allows players to track their progress and see their improvement over time |
+| ![](img/logo_blank.png) | [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | In-game IRC bot of osu!track |
+| ![](img/logo_blank.png) | [osu-pps](https://osu-pps.com) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Website that calculates how "overweighted" a beatmap's pp output is |
+| ![](img/logo_blank.png) | [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031) | ::{ flag=CN }:: [DarkProjector](https://osu.ppy.sh/users/1344395) | Tool for calculating and displaying earned pp on-the-fly |
 
 ### Miscellaneous
 
