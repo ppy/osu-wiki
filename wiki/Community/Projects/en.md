@@ -203,8 +203,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
 - [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) — The in-game IRC bot for osu!track.
 - osu-pps — A website that lists the most overweight maps in terms of [pp](/wiki/Performance_points) by using a calculation system similar to [ppv1](/wiki/Performance_points/ppv1), and sorts mappers by how many overweight maps they have or how many high-quality beatmaps they have according to other mappers' favourites.
   - [Website](https://osu-pps.com/#/osu/maps)
-- pupper.moe — Originally a spreadsheet, now a website for opt-in US state ranking leaderboards for osu! with some states' Discord servers being listed.
-  - [Website](https://pupper.moe/)
 - [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031) — Calculates and displays earned pp while playing on the fly.
   - [GitHub](https://github.com/KedamaOvO/RealTimePPDisplayer)
 
