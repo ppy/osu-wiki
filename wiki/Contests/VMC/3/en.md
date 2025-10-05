@@ -6,7 +6,7 @@ tags:
 
 # Vocaloid Mapping Contest 3
 
-![VMC banner](insert thing here)
+![VMC banner](/wiki/shared/news/2025-10-05-vocaloid-mapping-contest-3/banner.jpg)
 
 The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team (VAT). Its purpose is to *promote VOCALOID, UTAU, and other vocal synth music*, giving both popular and overlooked songs a chance to shine.
 
@@ -60,13 +60,13 @@ Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the con
 
 ## Ruleset
 
-- **Submissions must use songs from [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) and [**mimizu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/505).** Cut versions are not allowed.  
+- **Submissions must use songs from [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) and [**mimizu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/505).** Cut versions are not allowed.
 - **Teams must submit a team roster anytime prior to submitting Round 1 entries.** Only teams of two are allowed to participate. Mappers may not participate solo. Teams may not be changed after roster submissions.
-- **Submissions must be in `.osz` format.**  
-- **Beatmaps must follow the [ranking criteria](/wiki/Ranking_Criteria).** Minor mistakes (like an off-screen object) can be forgiven, but intentional unrankable elements will result in disqualification.  
-- **Maps must remain anonymous** until after the results are announced. Metadata will be anonymized before judging.  
-- **No storyboards or videos** are to be included in submissions.  
-- **No manual `.osu` file edits** beyond what is possible in the editor.  
+- **Submissions must be in `.osz` format.**
+- **Beatmaps must follow the [ranking criteria](/wiki/Ranking_Criteria).** Minor mistakes (like an off-screen object) can be forgiven, but intentional unrankable elements will result in disqualification.
+- **Maps must remain anonymous** until after the results are announced. Metadata will be anonymized before judging.
+- **No storyboards or videos** are to be included in submissions.
+- **No manual `.osu` file edits** beyond what is possible in the editor.
 - **Each `.osz` submission must include all required difficulties and songs for that round.** Be sure to follow the instructions on the submission page to avoid issues!
 - **Collaborative difficulties should feature approximately equal contribution between both mappers.**
 - **All aspects of each submission must be created solely be a member of the team.** As such, artificial intelligence (AI) is not permitted.
@@ -108,7 +108,7 @@ In Phase 1, each map for Song A is scored individually in Relevance, Creativity,
 | :-: | :-- | :-- |
 | osu! | *TBD* | *TBD* |
 | osu!catch | *TBD* | *TBD* |
-| osu!taiko | *TBD* | *TBD* | 
+| osu!taiko | *TBD* | *TBD* |
 | osu!mania | *TBD* | *TBD* |
 
 ## Contest format
@@ -117,31 +117,31 @@ The **VMC3** consists of three unique phases: **PARALLEL**, **SWAP**, and **DUET
 
 ### PARALLEL round
 
-- Teams of **two mappers** must be formed before submitting for this round.  
+- Teams of **two mappers** must be formed before submitting for this round.
 - One mapper will select and map a song from **MARETU**, while the other will select and map a song from **mimizu**.
-- **Each team must submit two (2) separate maps** by the round deadline — one for each chosen song.  
+- **Each team must submit two (2) separate maps** by the round deadline — one for each chosen song.
 - After submissions close, a short screening phase will occur.
-  - Teams that are eliminated will be notified via osu! private message or Discord.  
+  - Teams that are eliminated will be notified via osu! private message or Discord.
 
 Tip: form your team and start planning early to avoid last-minute rushes. Plan ahead for future rounds when selecting your teammate.
 
 ### SWAP round
 
 - Surviving teams will now **swap songs** with their partners:
-  - For example, if Mapper A mapped Song #1 in the PARALLEL Round, they will now map Song #2, which Mapper B originally mapped.  
-- Each team must again submit **two (2) completely new maps**, one for each swapped song.  
-- **The twist:** These new maps must reflect a different interpretation of the songs than in the PARALLEL Round.  
-  - Maps that are overly similar to their original versions will receive heavy penalties during judging.  
+  - For example, if Mapper A mapped Song #1 in the PARALLEL Round, they will now map Song #2, which Mapper B originally mapped.
+- Each team must again submit **two (2) completely new maps**, one for each swapped song.
+- **The twist:** These new maps must reflect a different interpretation of the songs than in the PARALLEL Round.
+  - Maps that are overly similar to their original versions will receive heavy penalties during judging.
 - If you are confident your team will survive the screening phase, you may begin work on this round before results are announced.
 
 ### DUET round
 
-- The **top 6 teams** from the SWAP Round advance to this final phase.  
-- Both team members will **collaborate directly** to create a **single cohesive mapset** for a selected song.  
+- The **top 6 teams** from the SWAP Round advance to this final phase.
+- Both team members will **collaborate directly** to create a **single cohesive mapset** for a selected song.
 - **Every difficulty in the submission must be created collaboratively.**
 
 This three-phase structure challenges teams to demonstrate:
 
-- Individual skill and creativity in the PARALLEL Round,  
-- Adaptability and innovation in the SWAP Round, and  
+- Individual skill and creativity in the PARALLEL Round,
+- Adaptability and innovation in the SWAP Round, and
 - Collaborative harmony and teamwork in the DUET Round finale.

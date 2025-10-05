@@ -6,7 +6,7 @@ date: 2025-10-05 21:00:00 +0000
 
 From humble beginnings to a full-scale symphony, VMC returns bigger, louder, and with two new incredible Featured Artists leading the charge!
 
-![](insert thing here)
+![](/wiki/shared/news/2025-10-05-vocaloid-mapping-contest-3/banner.jpg)
 
 **MARETU** is a legendary name in VOCALOID, combining heavy metal, chiptune, and techno-pop to create incredible instrumental compositions. As our 504th Featured Artist, it goes without saying that his music is extremely suitable for osu!, already having been featured in mapsets such as [DeRandom Otaku](https://osu.ppy.sh/users/5156153)'s one for [Umitagari](https://osu.ppy.sh/beatmapsets/966574#osu/2023147). As one of the most popular VOCALOID artists in the world, **MARETU**'s music is now available for your circle clicking enjoyment.
 
@@ -34,15 +34,15 @@ The songs are ready. The stage is set. ***Here's what's coming next.***
 
 ## Vocaloid Mapping Contest 3: SWAP//DUET
 
-The [**Vocaloid Mapping Contest** (***VMC***)](/wiki/Contests/VMC) is back! 
+The [**Vocaloid Mapping Contest** (***VMC***)](/wiki/Contests/VMC) is back!
 
 The last contest expanded the scope from just osu! to every game mode, and introduced the Vocaloid Appreciation Team's first Featured Artist addition of [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/399). Since it's been a while since the last event, you may wish to refresh yourself on the [outcome of the last VMC here](https://osu.ppy.sh/home/news/2024-04-07-vocaloid-mapping-contest-2-results)!
 
 This time, the spotlight shines on **two Featured Artists**: **MARETU** and **mimizu**. Teams of two will work together across three unique phases — **PARALLEL**, **SWAP**, and **DUET** — to create the best VOCALOID maps possible.
 
-- **PARALLEL:** Each teammate maps a different artist's song.  
-- **SWAP:** Partners swap songs and remap each other's picks with a completely new interpretation.  
-- **DUET:** Partners must collaborate directly to create a single cohesive mapset.  
+- **PARALLEL:** Each teammate maps a different artist's song.
+- **SWAP:** Partners swap songs and remap each other's picks with a completely new interpretation.
+- **DUET:** Partners must collaborate directly to create a single cohesive mapset.
 
 Full rules, judging criteria, and song downloads are available on the [contest wiki page](/wiki/Contests/VMC/3) and the [contest website](https://www.vat.gg/vmc3).
 
@@ -63,13 +63,13 @@ Results will be streamed live with commentary on the [*Vocaloid Appreciation Tea
 
 ### Ruleset
 
-- **Submissions must use songs from [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) and  [**mimizu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/505).** Cut versions are *not* allowed.  
+- **Submissions must use songs from [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) and  [**mimizu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/505).** Cut versions are *not* allowed.
 - **Teams must submit a team roster anytime prior to submitting Round 1 entries.** Only teams of two are allowed to participate. Mappers may not participate solo. Teams may not be changed after roster submissions.
-- **Submissions must be in `.osz` format.**  
-- **Beatmaps must follow the [ranking criteria](/wiki/Ranking_Criteria).** Minor mistakes (like an off-screen object) can be forgiven, but intentional unrankable elements will result in disqualification.  
-- **Maps must remain anonymous** until after the results are announced. Metadata will be anonymised before judging.  
-- **No storyboards or videos** are to be included in submissions.  
-- **No manual `.osu` file edits** beyond what is possible in the editor.  
+- **Submissions must be in `.osz` format.**
+- **Beatmaps must follow the [ranking criteria](/wiki/Ranking_Criteria).** Minor mistakes (like an off-screen object) can be forgiven, but intentional unrankable elements will result in disqualification.
+- **Maps must remain anonymous** until after the results are announced. Metadata will be anonymised before judging.
+- **No storyboards or videos** are to be included in submissions.
+- **No manual `.osu` file edits** beyond what is possible in the editor.
 - **Each `.osz` submission must include all required difficulties and songs for that round.** Be sure to follow the instructions on the submission page to avoid issues!
 - **Collaborative difficulties should feature approximately equal contribution between both mappers.**
 - **All aspects of each submission must be created solely be a member of the team.** As such, artificial intelligence (AI) is not permitted.
