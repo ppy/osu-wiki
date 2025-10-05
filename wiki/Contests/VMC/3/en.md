@@ -36,7 +36,7 @@ The **results livestreams** will be broadcast live on the [*Vocaloid Appreciatio
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| 1st | Two laptops (courtesy of [**Noobie_Potato**](https://osu.ppy.sh/users/15174655)) for osu! mode winners, 6 months of osu!supporter, [Contest points](/wiki/Contests/Contest_points), **VMC3 Winner** profile badge, entry fast-tracked to Ranked status |
+| 1st | Two laptops (courtesy of [**Noobie_Potato**](https://osu.ppy.sh/users/15174655)) for osu! mode winners, 6 months of osu!supporter, [contest points](/wiki/Contests/Contest_points), **VMC3 Winner** profile badge, entry fast-tracked to Ranked status |
 | 2nd | 3 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
 | 3rd | 1 month of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
 | SWAP round winner | 3 months of osu!supporter, possible badge and/or [contest points](/wiki/Contests/Contest_points) |
@@ -52,10 +52,11 @@ Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the con
 - [Twitch channel](https://www.twitch.tv/vocaloidappreciationteam)
 - [YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam)
 - [Announcement news post](https://osu.ppy.sh/home/news/2025-10-05-vocaloid-mapping-contest-3)
-- [osu! contest listing](https://osu.ppy.sh/community/contests/261)
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/262)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/263)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/264)
+- **Contest listings**
+  - [PARALLEL & SWAP round (osu!)](https://osu.ppy.sh/community/contests/261)
+  - [PARALLEL & SWAP round (osu!taiko)](https://osu.ppy.sh/community/contests/262)
+  - [PARALLEL & SWAP round (osu!catch)](https://osu.ppy.sh/community/contests/263)
+  - [PARALLEL & SWAP round (osu!mania)](https://osu.ppy.sh/community/contests/264)
 
 ## Ruleset
 
@@ -100,16 +101,15 @@ In Phase 1, each map for Song A is scored individually in Relevance, Creativity,
 | Role | User |
 | :-: | :-- |
 | Host | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |
-| Special Thanks | ::{ flag=US }:: [Pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+| Special thanks | ::{ flag=US }:: [Pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 | Designer | ::{ flag=CA }:: [Kaetwo](https://osu.ppy.sh/users/1997719) |
 
-
-| Game mode | Judges | Screeners
+| Game mode | Judges | Screeners |
 | :-: | :-- | :-- |
-| osu! | TBD | TBD |
-| osu!catch | TBD | TBD |
-| osu!taiko | TBD | TBD | 
-| osu!mania | TBD | TBD |
+| osu! | *TBD* | *TBD* |
+| osu!catch | *TBD* | *TBD* |
+| osu!taiko | *TBD* | *TBD* | 
+| osu!mania | *TBD* | *TBD* |
 
 ## Contest format
 
