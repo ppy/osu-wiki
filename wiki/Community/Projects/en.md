@@ -189,9 +189,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_bonus_pp_calculator.png) | [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Calculator for determining how much [bonus pp](/wiki/Performance_points#how-much-bonus-pp-is-awarded-for-having-scores-on-ranked-maps?) a user has |
+| ![](img/logo_blank.png) | [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) | ::{ flag=IT }:: [Howl](https://osu.ppy.sh/users/2751672) | Calculator for determining the required score value to achieve a certain level |
 
-- [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) — Calculates the needed score to achieve a certain level.
-  - [GitHub](https://github.com/thehowl/OsuLevelCalculator) | [Website](https://olc.howl.moe/)
 - [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483) — Write player stats into a file, which can then be displayed using Open Broadcaster Software.
   - [GitHub](https://github.com/albinohat/osu_stats_watcher)
 - osu!chan — Hosts a multitude of alternative ranking leaderboards.
