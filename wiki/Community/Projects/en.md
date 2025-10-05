@@ -179,10 +179,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 *See also: [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
 
-- [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) — A chat client for referees and casual chatters.
-  - [Gitlab](https://gitlab.com/hallowatcher/chat4osu)
-- [irc4osu!](https://osu.ppy.sh/community/forums/topics/430741) — A cross-platform IRC client for osu!.
-  - [GitHub](https://github.com/arogan-group/irc4osu)
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_chat4osu.png) | [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Chat client for tournament referees and casual chatters |
+| ![](img/logo_irc4osu.png) | [irc4osu!](https://osu.ppy.sh/community/forums/topics/430741) | ::{ flag=SK }:: [Claire Farron](https://osu.ppy.sh/users/4167678) | Cross-platform IRC client for osu! |
 
 ### Performance
 
