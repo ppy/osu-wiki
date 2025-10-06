@@ -63,6 +63,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: [keyaa](https://osu.ppy.sh/users/30720651) | Benchmark tool for determining tapping speed |
 | ![](img/logo_blank.png) | [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) | ::{ flag=AT }:: [DaRealSlimOni](https://osu.ppy.sh/users/2925249) | Benchmark tool for determining tapping speed |
 | ![](img/logo_blank.png) | [osu!trainer](https://github.com/FunOrange/osu-trainer) | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Program that allows users to easily modify a beatmap's difficulty settings |
+| ![](img/logo_blank.png) | [SpinnyProgram](https://osu.ppy.sh/community/forums/topics/140878) | ::{ flag=GB }:: [jimj316](https://osu.ppy.sh/users/1863872) | Benchmark tool for determining spinning speed |
 
 #### osu!taiko
 
@@ -225,8 +226,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_osustation.png) | [osu!station](https://osu.ppy.sh/community/forums/topics/236417) | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | On-demand online radio service powered by songs from beatmaps |
 | ![](img/logo_osustuff_play.png) | [osu!Stuff Play](https://play.osustuff.org/) | ::{ flag=GB }:: [ifailedatlife](https://osu.ppy.sh/users/6331918) | Website that matches players into an automated osu! Battle Royale tournaments |
 
-- [Script chan](https://osu.ppy.sh/community/forums/topics/730734) — Referee tool to create and manage osu! rooms.
-  - [GitLab](https://git.cartooncraft.fr/shARPII/script-chan/)
-- [SpinnyProgram](https://osu.ppy.sh/community/forums/topics/140878) — Test how fast you can spin your mouse cursor.
+
 - stats.circleclickers — View realtime stats about the usercount in osu!.
   - [Website](https://stats.circleclickers.com/)
