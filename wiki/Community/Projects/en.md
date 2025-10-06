@@ -208,7 +208,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311) | ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Tool for [I/O developers](https://en.wikipedia.org/wiki/Input/output) to locate user's osu! installation folder |
 | ![](img/logo_hwchrs_pick_em.png) | [hwchr's pick'em](https://pickem.hwc.hr/tournaments) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Website that hosts [pick'ems](https://egamersworld.com/blog/egamersworld-pickem-vjofPo3GE7) for osu! tournaments |
 | ![](img/logo_blank.png) | [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110) | ::{ flag=CA }:: [Slow Twitch](https://osu.ppy.sh/users/3172543) | Service that allows users to subscribe to their favorite mappers |
-| ![](img/logo_blank.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | Tool for organising, listening, and searching up beatmap songs outside of the osu! client |
+| ![](img/logo_osu_music_library.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | Tool for organising, listening, and searching up beatmap songs outside of the osu! client |
 
 - osu! BBCode Editor — A site which hosts a BBCode editor with realtime preview, designed for osu! userpages.
   - [GitHub](https://github.com/NoelleTGS/osu-bbcode-editor) | [Website](https://noelletgs.github.io/osu-bbcode-editor/)
