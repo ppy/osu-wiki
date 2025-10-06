@@ -203,7 +203,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_aiess.png) | [Aiess](https://github.com/Naxesss/Aiess) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Service that provides subscriptions for various events in osu! such as ranks, qualifications, nominations, suggestions, news posts, and user group changes |
+| ![](img/logo_aiess.png) | [Aiess](https://github.com/Naxesss/Aiess) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Service that provides subscriptions for various web events such as ranks, qualifications, nominations, suggestions, news posts, and user group changes |
 | ![](img/logo_blank.png) | [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510) | ::{ flag=DE }:: [Deimos](https://osu.ppy.sh/users/1515403) | Android app for determining [Approach Rate](/wiki/Beatmap/Approach_rate) speed and [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) hit window accuracy |
 | ![](img/logo_blank.png) | [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311) | ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Tool for [I/O developers](https://en.wikipedia.org/wiki/Input/output) to locate user's osu! installation folder |
 | ![](img/logo_hwchrs_pick_em.png) | [hwchr's pick'em](https://pickem.hwc.hr/tournaments) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Website that hosts [pick'ems](https://egamersworld.com/blog/egamersworld-pickem-vjofPo3GE7) for osu! tournaments |
