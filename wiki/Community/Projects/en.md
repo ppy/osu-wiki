@@ -101,6 +101,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool that translates hand-drawn shapes into sliders |
 | ![](img/logo_blank.png) | [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool for silencing slider ends automatically |
 | ![](img/logo_blank.png) | [osu! Stacking Tool](https://osu.ppy.sh/community/forums/topics/561477) | ::{ flag=NO }:: [Enitoni](https://osu.ppy.sh/users/9118958) | Tool for ensuring [perfect stacks](/wiki/Beatmapping/Mapping_techniques/Stack) between objects |
+| ![](img/logo_blank.png) | [osu!trace](https://osu.ppy.sh/community/forums/topics/303844) | ::{ flag=US }:: [HedonicKnight](https://osu.ppy.sh/users/4834671) | Cursor tracing program for analysing beatmap flow |
 
 #### osu!mania
 
@@ -142,7 +143,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_osu_skin_mixer.png) | [osu! skin mixer](https://github.com/rednir/OsuSkinMixer) | ::{ flag=GB }:: [rednir](https://osu.ppy.sh/users/17204559) | Tool for mixing and matching existing skin elements |
 | ![](img/logo_skin_checker.png) | [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tool for checking missing skin elements |
 
-### Beatmap Management
+### Beatmap management
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
@@ -217,16 +218,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Simple library to interface with the osu!api |
 | ![](img/logo_blank.png) | [osu!Elements](https://osu.ppy.sh/community/forums/topics/430701) | ::{ flag=BE }:: [ExCellRaD](https://osu.ppy.sh/users/2189591) | Open source .NET framework for osu! application developers |
 | ![](img/logo_osumatchmaking.png) | [osu!matchmaking](https://discord.com/invite/CehChep) | ::{ flag=RU }:: [Anemic Witch](https://osu.ppy.sh/users/7258536) | Quick and automated multiplayer matches |
+| ![](img/logo_osuplayer.png) | [osu!player](https://osu.ppy.sh/community/forums/topics/660418) | ::{ flag=DE }:: [Founntain](https://osu.ppy.sh/users/5105217) | Media player for osu! beatmaps |
+| ![](img/logo_blank.png) | [osu!search](https://osu.ppy.sh/community/forums/topics/380485) | ::{ flag=FI }:: [Rivenation](https://osu.ppy.sh/users/2063554) | Website for advanced beatmap searching |
+| ![](img/logo_osustation.png) | [osu!station](https://osu.ppy.sh/community/forums/topics/236417) | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | On-demand online radio service powered by songs from beatmaps |
 
-
-- [osu!player](https://osu.ppy.sh/community/forums/topics/660418) — A media player just for osu! beatmaps.
-  - [GitHub Documentation](https://github.com/Founntain/founntain/blob/master/osuplayer.md)
-- [osu!search](https://osu.ppy.sh/community/forums/topics/380485) — Advanced beatmap searching
-  - [Website](https://osusearch.com/)
-- [osu!station](https://osu.ppy.sh/community/forums/topics/236417) — A radio station powered by beatmap music
-  - [Website](https://radio.yas-online.net)
-- [osu!trace](https://osu.ppy.sh/community/forums/topics/303844) — A cursor tracing program. Can be used for comparisons, show how a beatmap flows, etc.
-  - [Google Drive](https://drive.google.com/drive/u/0/folders/0B1tsyXqMseXKeFFDcS1RQ2I5Z3M)
 - osu-trainer — A program that allows you to modify the difficulty settings of a beatmap easily.
   - [GitHub](https://github.com/FunOrange/osu-trainer)
 - osuStuff — A website for creating anime-themed avatars, and playing automatic osu! Battle Royale tournaments.
