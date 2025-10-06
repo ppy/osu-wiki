@@ -225,4 +225,4 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu!search](https://osu.ppy.sh/community/forums/topics/380485) | ::{ flag=FI }:: [Rivenation](https://osu.ppy.sh/users/2063554) | Website for advanced beatmap searching |
 | ![](img/logo_osustation.png) | [osu!station](https://osu.ppy.sh/community/forums/topics/236417) | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | On-demand online radio service powered by songs from beatmaps |
 | ![](img/logo_osustuff_play.png) | [osu!Stuff Play](https://play.osustuff.org) | ::{ flag=GB }:: [ifailedatlife](https://osu.ppy.sh/users/6331918) | Website that matches players into automated osu! Battle Royale tournaments |
-| ![](img/logo_blank.png) | [stats.circleclickers](https://stats.circleclickers.com) | ::{ flag=AT }:: [InvisibleSymbol](https://osu.ppy.sh/users/13506780) | Real-time osu! user count tracker |
+| ![](img/logo_blank.png) | [stats.circleclickers](https://stats.circleclickers.com) | ::{ flag=AT }:: [InvisibleSymbol](https://osu.ppy.sh/users/13506780) | Real-time osu! usercount tracker |
