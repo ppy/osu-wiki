@@ -215,8 +215,6 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu!-themed music player |
 
 
-- [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) — An osu! themed music player.
-  - [GitHub](https://github.com/Naviaux/osu-music-player)
 - [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) — osu!-styled cursors for Windows.
 - [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) — An open-source project dedicated to making websites highly related to osu!, such as [medal unlock requirements](/wiki/Medals/Unlock_requirements) listing or alternative ranking leaderboards.
   - [GitHub](https://github.com/Osekai/osekai) | [Website](https://osekai.net/)
