@@ -50,9 +50,9 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
 | ![](img/logo_blank.png) | [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) | ::{ flag=LT }:: [kleps](https://osu.ppy.sh/users/2902534) | Tool for disabling the Desktop Composition feature in Windows to reduce input latency |
 | ![](img/logo_keyspersecond.png) | [KeysPerSecond](https://osu.ppy.sh/community/forums/topics/552405) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Benchmark tool for analyzing general key input speed |
+| ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Automatic `.osr` to `.mp4` conversion tool |
 | ![](img/logo_blank.png) | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [ThereGoesMySanity](https://osu.ppy.sh/users/4613296) | Reply analysis suite for determining the cause of a miss |
 | ![](img/logo_blank.png) | [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) | ::{ flag=NL }:: [joeykapi](https://osu.ppy.sh/users/8779015) | Program that allows users to view replays that are not saved locally |
-| ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Automatic `.osr` to `.mp4` conversion tool |
 | ![](img/logo_blank.png) | [TabletDriver](https://github.com/hawku/TabletDriver) | ::{ flag=FI }:: [HWK](https://osu.ppy.sh/users/1919864) | Low-latency graphics tablet driver for osu! |
 
 #### osu!
@@ -60,8 +60,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_danser_go.png) | [danser-go](https://github.com/Wieku/danser-go) | ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Visualisation tool for osu! beatmaps |
-| ![](img/logo_blank.png) | [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) | ::{ flag=AT }:: [DaRealSlimOni](https://osu.ppy.sh/users/2925249) | Benchmark tool for determining tapping speed |
 | ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: [keyaa](https://osu.ppy.sh/users/30720651) | Benchmark tool for determining tapping speed |
+| ![](img/logo_blank.png) | [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) | ::{ flag=AT }:: [DaRealSlimOni](https://osu.ppy.sh/users/2925249) | Benchmark tool for determining tapping speed |
 
 #### osu!taiko
 
