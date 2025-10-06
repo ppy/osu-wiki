@@ -213,14 +213,11 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode editor with real-time preview for osu! userpages |
 | ![](img/logo_blank.png) | [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) | ::{ flag=CZ }:: [Brejlounek](https://osu.ppy.sh/users/931841) | Mouse pointer movement wrapper for [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion) sensors |
 | ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu!-themed music player |
+| ![](img/logo_blank.png) | [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | osu!-styled cursors for Windows |
+| ![](img/logo_osekai.png) | [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) | ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards, and more |
 
-
-- [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) — osu!-styled cursors for Windows.
-- [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) — An open-source project dedicated to making websites highly related to osu!, such as [medal unlock requirements](/wiki/Medals/Unlock_requirements) listing or alternative ranking leaderboards.
-  - [GitHub](https://github.com/Osekai/osekai) | [Website](https://osekai.net/)
 - [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) — A simple library to interface with the osu!api.
   - [GitHub](https://github.com/Repflez/osu-API-lib)
-- [osu!AR10](https://osu.ppy.sh/community/forums/topics/245309) — A tool to convert any beatmap to AR10 for practising purposes.
 - [osu!Elements](https://osu.ppy.sh/community/forums/topics/430701) — An open source .NET framework for osu! applications.
   - [GitHub](https://github.com/JasperDeSutter/osuElements)
 - [osu!player](https://osu.ppy.sh/community/forums/topics/660418) — A media player just for osu! beatmaps.
