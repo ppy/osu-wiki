@@ -215,9 +215,8 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu!-themed music player |
 | ![](img/logo_blank.png) | [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | osu!-styled cursors for Windows |
 | ![](img/logo_osekai.png) | [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) | ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards, and more |
+| ![](img/logo_blank.png) | [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Simple library to interface with the osu!api |
 
-- [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) — A simple library to interface with the osu!api.
-  - [GitHub](https://github.com/Repflez/osu-API-lib)
 - [osu!Elements](https://osu.ppy.sh/community/forums/topics/430701) — An open source .NET framework for osu! applications.
   - [GitHub](https://github.com/JasperDeSutter/osuElements)
 - [osu!player](https://osu.ppy.sh/community/forums/topics/660418) — A media player just for osu! beatmaps.
