@@ -185,6 +185,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_chat4osu.png) | [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Chat client for tournament referees and casual chatters |
 | ![](img/logo_irc4osu.png) | [irc4osu!](https://osu.ppy.sh/community/forums/topics/430741) | ::{ flag=SK }:: [Claire Farron](https://osu.ppy.sh/users/4167678) | Cross-platform IRC client for osu! |
+| ![](img/logo_blank.png) | [Script chan](https://osu.ppy.sh/community/forums/topics/730734) | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Tool for tournament referees to create and manage multiplayer rooms |
 
 ### Performance
 
