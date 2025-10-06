@@ -211,9 +211,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_osumatchmaking.png) | [osu!matchmaking](https://discord.com/invite/CehChep) | ::{ flag=RU }:: [Anemic Witch](https://osu.ppy.sh/users/7258536) | Quick and automated multiplayer matches |
 | ![](img/logo_osu_music_library.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | Tool for organising, listening, and searching up beatmap songs outside of the osu! client |
 | ![](img/logo_blank.png) | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode editor with real-time preview for osu! userpages |
+| ![](img/logo_blank.png) | [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) | ::{ flag=CZ }:: [Brejlounek](https://osu.ppy.sh/users/931841) | Mouse pointer movement wrapper for [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion) sensors |
+| ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu!-themed music player |
 
-- [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) — A mouse pointer movement wrapper for Leap.
-  - [GitHub](https://github.com/Brejlounek/Leap-Input)
+
 - [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) — An osu! themed music player.
   - [GitHub](https://github.com/Naviaux/osu-music-player)
 - [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) — osu!-styled cursors for Windows.
