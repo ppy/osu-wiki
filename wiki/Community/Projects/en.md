@@ -203,9 +203,10 @@ While official projects are for the most part run by the [osu! team](wiki/People
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_aiess.png) | [Aiess](https://github.com/Naxesss/Aies) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Service that provides subscriptions for various events in osu! (e.g. ranks, qualifications, nominations, suggestions, news posts, user group changes, etc.) |
+| ![](img/logo_aiess.png) | [Aiess](https://github.com/Naxesss/Aiess) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Service that provides subscriptions for various events in osu! (e.g. ranks, qualifications, nominations, suggestions, news posts, user group changes, etc.) |
+| ![](img/logo_blank.png) | [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510) | ::{ flag=DE }:: [Deimos](https://osu.ppy.sh/users/1515403) | Android app for determining [Approach Rate](/wiki/Beatmap/Approach_rate) speed and [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) hit window accuracy |
 
-- [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510) — Calculates the AR times and OD hit window accuracy.
+
 - [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311) — Finds the osu! folder and report its path. Intended for devs working on IO related tasks in their applications.
 - hwchr's pick'em — A site which hosts pickems for osu! tournaments with the option to request a pickem for a tournament.
   - [Website](https://pickem.hwc.hr/tournaments)
