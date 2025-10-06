@@ -61,13 +61,13 @@ Some examples of beatmaps affected by these changes:
 
 ### Slider break estimation changes
 
-In osu!(stable), slider breaks do not count as misses and instead award a 100 or 50 alongside your combo breaking. As a result, the PP system has estimations in place for osu!(stable) scores to guess how many slider breaks exist in a score. Previously, the system only used combo for these estimations. Many scores have been escaping miss penalty as a result of the PP system estimating sometimes less than half of the score's real slider break count.
+First, some context: in osu!(stable), slider breaks do not count as misses and instead award a 100 or 50 alongside your combo breaking. As a result, the PP system can't know how many of those 100s or 50s are actually slider breaks and must estimate this value. Previously, the system only used the score's max combo for these estimations, but it has in some cases been underestimating slider break counts by over a half.
 
-Thanks to [Givy120](https://osu.ppy.sh/users/10560705)'s [set](https://github.com/ppy/osu/pull/33066) of [changes](https://github.com/ppy/osu/pull/33170), most osu!(stable) slider break estimations now happen via calculations using the [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!) value of a score. This works by calculating the maximum score achievable, comparing it to the score's ScoreV1 value and estimating how many breaks occurred within that missed score.
+The significance here is that slider breaks are penalised much like actual misses, so underestimating their amount has resulted in some osu!(stable) scores receiving more PP than intended.
 
-An additional [change](https://github.com/ppy/osu/pull/31234) proposed by [KermitNuggies](https://osu.ppy.sh/users/33452559) was made to compliment this which makes an additional assumption that a player misses difficult circles and sliders in equal proportion. This means part of slider break estimations will be made by weighting your miss count against the ratio of difficult sliders in the beatmap.
+To rectify this, the slider break estimation has now been improved by taking into account the [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!) value of a score and comparing it with the maximum ScoreV1 score achievable for the map. The difference between them, along with the amount of difficult sliders present in the map, is used to deduce the slider break count more accurately.
 
-Overall, these changes allow for much more accurate slider miss count estimations for osu!(stable) scores.
+This is the result of a [set](https://github.com/ppy/osu/pull/33066) of [changes](https://github.com/ppy/osu/pull/33170) by [Givy120](https://osu.ppy.sh/users/10560705) and [additional contributions](https://github.com/ppy/osu/pull/31234) by [KermitNuggies](https://osu.ppy.sh/users/33452559).
 
 Some examples of scores nerfed by this change:
 
