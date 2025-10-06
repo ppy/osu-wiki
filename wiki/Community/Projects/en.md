@@ -62,6 +62,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_danser_go.png) | [danser-go](https://github.com/Wieku/danser-go) | ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Visualisation tool for osu! beatmaps |
 | ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: [keyaa](https://osu.ppy.sh/users/30720651) | Benchmark tool for determining tapping speed |
 | ![](img/logo_blank.png) | [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) | ::{ flag=AT }:: [DaRealSlimOni](https://osu.ppy.sh/users/2925249) | Benchmark tool for determining tapping speed |
+| ![](img/logo_blank.png) | [osu!trainer](https://github.com/FunOrange/osu-trainer) | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Program that allows users to easily modify a beatmap's difficulty settings |
 
 #### osu!taiko
 
@@ -222,8 +223,7 @@ While official projects are for the most part run by the [osu! team](wiki/People
 | ![](img/logo_blank.png) | [osu!search](https://osu.ppy.sh/community/forums/topics/380485) | ::{ flag=FI }:: [Rivenation](https://osu.ppy.sh/users/2063554) | Website for advanced beatmap searching |
 | ![](img/logo_osustation.png) | [osu!station](https://osu.ppy.sh/community/forums/topics/236417) | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | On-demand online radio service powered by songs from beatmaps |
 
-- osu-trainer — A program that allows you to modify the difficulty settings of a beatmap easily.
-  - [GitHub](https://github.com/FunOrange/osu-trainer)
+
 - osuStuff — A website for creating anime-themed avatars, and playing automatic osu! Battle Royale tournaments.
   - [Website](https://www.osustuff.org/)
 - [Script chan](https://osu.ppy.sh/community/forums/topics/730734) — Referee tool to create and manage osu! rooms.
