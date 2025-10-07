@@ -17,7 +17,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** | **Project lead** |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | [World Cup](/wiki/Tournaments#official-world-cups) organiser and administrator |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | General housekeeper, [world Cup](/wiki/Tournaments#official-world-cups) organiser and administrator |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | General housekeeper, [world cup](/wiki/Tournaments#official-world-cups) organiser and administrator |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | General housekeeper, [moderator](/wiki/People/Global_Moderation_Team) |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team) |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu! developer |
