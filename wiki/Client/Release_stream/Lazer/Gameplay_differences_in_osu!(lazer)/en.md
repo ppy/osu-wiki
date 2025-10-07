@@ -33,7 +33,7 @@ Meanwhile, osu!(lazer) has these accuracy cutoffs now:
 
 | Grade | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
-| SS | 100% | 100% | all judgements GREAT or PERFECT |
+| SS | 100% | 100% | all [judgements](/wiki/Gameplay/Judgement/osu!mania) GREAT or PERFECT |
 | S | ≥95% (no misses) | ≥98% | ≥95% |
 | A | ≥90% | ≥94% | ≥90% |
 | B | ≥80% | ≥90% | ≥80% |
