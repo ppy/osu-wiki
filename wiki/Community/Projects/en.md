@@ -12,7 +12,6 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_osu_lazer.png) | [osu!(lazer)](https://github.com/ppy/osu/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | The future (and final) iteration of the osu! game client |
 | ![](img/logo_osu_framework.png) | [osu!framework](https://github.com/ppy/osu-framework/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Custom game framework written with osu! in mind |
-| ![](img/logo_blank.png) | [osu!performance](https://github.com/ppy/osu-performance/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Part of the game handling the calculations of [performance points](/wiki/Performance_points) (pp) |
 | ![](img/logo_blank.png) | [osu!web](https://github.com/ppy/osu-web/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | The browser-facing portion of osu! |
 | ![](img/logo_blank.png) | [osu-api](https://github.com/ppy/osu-api/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Public API for accessing osu!-related data |
 | ![](img/logo_blank.png) | [osu! wiki](https://github.com/ppy/osu-wiki/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Open-source knowledge base for all things osu! |
@@ -22,6 +21,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [osu!performance](https://github.com/ppy/osu-performance/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Part of the game handling the calculations of [performance points](/wiki/Performance_points) (pp) |
 | ![](img/logo_osu_stream.png) | [osu!stream](/wiki/osu!stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Special version of osu! for handheld iOS and Android devices |
 | ![](img/logo_blank.png) | [osu! iPhone](https://osu.ppy.sh/community/forums/topics/9193) | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Official iPhone port of osu! |
 | ![](img/logo_osu_osx.png) | [osu! on OS X](https://osuosx.tumblr.com/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Experimental build of osu! that runs natively on macOS |
@@ -52,6 +52,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
 | ![](img/logo_blank.png) | [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) | ::{ flag=LT }:: [kleps](https://osu.ppy.sh/users/2902534) | Tool for disabling the Desktop Composition feature in Windows to reduce input latency |
 | ![](img/logo_keyspersecond.png) | [KeysPerSecond](https://osu.ppy.sh/community/forums/topics/552405) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Benchmark tool for analyzing general key input speed |
+| ![](img/logo_blank.png) | [OpenTabletDriver](https://opentabletdriver.net/) | ::{ flag=DA }:: [gonX](https://github.com/gonX) | Low-latency graphics tablet driver for osu! |
 | ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Automatic `.osr` to `.mp4` conversion tool |
 | ![](img/logo_blank.png) | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [ThereGoesMySanity](https://osu.ppy.sh/users/4613296) | Replay analysis suite for determining the cause of a miss |
 | ![](img/logo_blank.png) | [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) | ::{ flag=NL }:: [joeykapi](https://osu.ppy.sh/users/8779015) | Program that allows users to view replays that are not saved locally |
