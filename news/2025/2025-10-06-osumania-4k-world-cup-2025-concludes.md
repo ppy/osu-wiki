@@ -181,11 +181,7 @@ If you cannot tell, I love this game a lot — even if there are times where I h
 
 My experience as a graphic designer is much more recent, starting in 2021 when I stumbled across a class that taught the basics of Adobe Photoshop while I was attending university. I had dabbled with tools like Canva and similar tools in the past, but learning Adobe Photoshop in my studies back then gave me so much interest in the software that I decided to learn it myself after class hours. That slowly snowballed into learning graphic design in general, and I decided that this is my thing, which led me to self-teach graphic design as well as other skills like 3D modeling and design using Blender in my free time over the past few years. osu! community tournaments, specifically Global Taiko Showdown, then presented me with lots of opportunities to work on my skills by designing tournament graphics, overlays, and eventually even original song designs for them, which led to my massive improvement over the years. Now I am both a full-time graphic designer in real life working for a marketing agency, as well as a freelancer working on cool projects such as World Cups, digital and physical album designs, and even an [MV](https://www.youtube.com/watch?v=8pIFCW3RfvY) or two during my free time.
 
-</div>
-
 ![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/zeth-works.jpg "Some of Zeth's works used in different osu! projects")
-
-<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -203,11 +199,7 @@ For design choices, I rely heavily on colors, detailing, and typography to conve
 
 [Panthullu](https://osu.ppy.sh/users/12580298)'s title design was especially impactful. His fragmented yet elegant style captured the “tragic but beautiful” nature of the song and narrative perfectly. We had agreed on the work distribution beforehand, so I simply passed him my completed design and asked for the title with very little instruction. He did such a great job on it, and the design wouldn’t be complete without his contribution.
 
-</div>
-
 ![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/panthullu-title.png "Panthullu's title design used in Once Forgotten, Nothing Remains")
-
-<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
