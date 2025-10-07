@@ -13,7 +13,7 @@ The **K-Pop Mapping Contest #1** (***KPMC#1***) was an osu!mania mapping contest
 
 ## Contest schedule
 
-| Event | Timestamp (UTC) |
+| Event | Timestamp |
 | --: | :-- |
 | Submission phase | 2025-06-29/2025-08-17 |
 | Judging phase | 2025-08-18/2025-09-20 |
