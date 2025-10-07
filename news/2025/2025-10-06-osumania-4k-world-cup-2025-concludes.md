@@ -242,6 +242,8 @@ In a more direct sense, my main contribution outside of GFX was assisting with t
 
 This entire process was coordinated by [Sakura006](https://osu.ppy.sh/users/10365024), with quality assurance provided by [RedcXca](https://osu.ppy.sh/users/14056601), [Panthullu](https://osu.ppy.sh/users/12580298), [LenLitchu](https://osu.ppy.sh/users/34098325), and [Noffy](https://osu.ppy.sh/users/1541323) to ensure consistency across all assets. On the mapping side, [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [elexire](https://osu.ppy.sh/users/9206093), [0DZ0](https://osu.ppy.sh/users/28156707), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [rikan](https://osu.ppy.sh/users/25263357), [MyZterioN-](https://osu.ppy.sh/users/8521723), and [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) all came together to prepare the exciting beatmap. Finally, the replay was created by [myucchii](https://osu.ppy.sh/users/10072733), who was on standby and completed it live in a voice channel with our team members watching.
 
+![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/background-overlay.png "Zeth's overlay design used in Once Forgotten, Nothing Remains")
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
