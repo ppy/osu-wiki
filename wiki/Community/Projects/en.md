@@ -53,7 +53,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | ![](img/logo_blank.png) | [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) | ::{ flag=LT }:: [kleps](https://osu.ppy.sh/users/2902534) | Tool for disabling the Desktop Composition feature in Windows to reduce input latency |
 | ![](img/logo_keyspersecond.png) | [KeysPerSecond](https://osu.ppy.sh/community/forums/topics/552405) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Benchmark tool for analyzing general key input speed |
 | ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Automatic `.osr` to `.mp4` conversion tool |
-| ![](img/logo_blank.png) | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [ThereGoesMySanity](https://osu.ppy.sh/users/4613296) | Reply analysis suite for determining the cause of a miss |
+| ![](img/logo_blank.png) | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [ThereGoesMySanity](https://osu.ppy.sh/users/4613296) | Replay analysis suite for determining the cause of a miss |
 | ![](img/logo_blank.png) | [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) | ::{ flag=NL }:: [joeykapi](https://osu.ppy.sh/users/8779015) | Program that allows users to view replays that are not saved locally |
 | ![](img/logo_blank.png) | [TabletDriver](https://github.com/hawku/TabletDriver) | ::{ flag=FI }:: [HWK](https://osu.ppy.sh/users/1919864) | Low-latency graphics tablet driver for osu! |
 
@@ -116,7 +116,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | ![](img/logo_blank.png) | [lua-mania](https://osu.ppy.sh/community/forums/topics/465914) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Tool for converting osu!/osu!taiko/osu!catch beatmaps into osu!mania beatmaps |
 | ![](img/logo_blank.png) | [Mania Hit Sounding Tools](https://osu.ppy.sh/community/forums/topics/488175) | ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) | Collection of tools for hitsounding osu!mania beatmaps |
 | ![](img/logo_blank.png) | [O2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149) | ::{ flag=NL }:: [Nyanderfull](https://osu.ppy.sh/users/1191983) | Tool for converting O2jam's `.ojn` charts into osu!mania beatmaps |
-| ![](img/logo_blank.png) | [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832) | ::{ flag=US }:: [FrenzyLi](https://osu.ppy.sh/users/6256685) | Tool for copying per lane hitsounds from one osu!mania difficulty to another |
+| ![](img/logo_blank.png) | [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832) | ::{ flag=US }:: [FrenzyLi](https://osu.ppy.sh/users/6256685) | Tool for copying per-lane hitsounds from one osu!mania difficulty to another |
 | ![](img/logo_blank.png) | [OMISM](https://osu.ppy.sh/community/forums/topics/664319) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | Tool for osu!mania beatmaps into Stepmania charts that doubles as beatmap keysound copier |
 | ![](img/logo_blank.png) | [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Rate changer for osu!mania beatmaps |
 
