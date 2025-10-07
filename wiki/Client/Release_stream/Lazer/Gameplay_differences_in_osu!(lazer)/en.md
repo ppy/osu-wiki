@@ -33,7 +33,7 @@ Meanwhile, osu!(lazer) has these accuracy cutoffs now:
 
 | Grade | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
-| SS | 100% | 100% | 100% |
+| SS | 100% | 100% | all judgements GREAT or PERFECT |
 | S | ≥95% (no misses) | ≥98% | ≥95% |
 | A | ≥90% | ≥94% | ≥90% |
 | B | ≥80% | ≥90% | ≥80% |
@@ -45,23 +45,6 @@ Meanwhile, osu!(lazer) has these accuracy cutoffs now:
 | Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
-
-### Hit window edge calculations do not match stable
-
-When a hit lands right at the edge of the hit window, a different judgement may be given depending on the client version.
-
-| Game mode | Comparison (stable) | Comparison (lazer) | Comparison (lazer replay) |
-| :-- | :-- | :-- | :-- |
-| osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`, except for the miss window which uses `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | ![Yes][true] |
-| Revertable using the Classic mod | ![No][false] |
-| Intentionally changed | ![Yes][true] |
-| Needs further consideration | ![Yes][true] |
 
 ### Differences in scoring
 
@@ -311,18 +294,7 @@ This used to be a constant ±16 ms regardless of overall difficulty.
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Revertable using the Classic mod | ![No][false] |
-| Intentionally changed | ![Yes][true] |
-| Needs further consideration | ![No][false] |
-
-### Converts no longer have different hit windows
-
-In stable, beatmaps converted from the osu! game mode into osu!mania had [different hit windows](/wiki/Gameplay/Judgement/osu!mania).
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | ![Yes][true] |
-| Revertable using the Classic mod | ![No][false] |
+| Revertable using the Classic mod | ![Yes][true] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
