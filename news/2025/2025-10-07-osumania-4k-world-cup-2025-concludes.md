@@ -18,7 +18,7 @@ But let us get straight to the point, for there are winners (and staff members!)
 
 ## Summary
 
-![](/wiki/Tournaments/MWC/2025_4K/img/mwc4k2025-podium.jpg)
+![](/wiki/Tournaments/MWC/2025_4K/img/mwc4k2025-podium.jpg?1)
 
 **Congratulations to the ::{ flag=US }:: United States for winning the osu!mania 4K World Cup 2025!** A feat that hardly anyone can attain once, let alone 4 times.
 
