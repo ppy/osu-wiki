@@ -89,6 +89,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [AxerBot](https://github.com/Hiviexd/AxerBot) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | All-purpose Discord bot with features catered to mapping & modding |
 | ![](img/logo_blank.png) | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Tool for copying hitsounds from one difficulty to another |
 | ![](img/logo_blank.png) | [Local osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) | ::{ flag=DE }:: [Marilyth](https://osu.ppy.sh/users/1161671) | Tool for calculating and visualizing beatmap density over time |
 | ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Core program for all things mapping |
@@ -107,6 +108,13 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | ![](img/logo_blank.png) | [osu! Stacking Tool](https://osu.ppy.sh/community/forums/topics/561477) | ::{ flag=NO }:: [Enitoni](https://osu.ppy.sh/users/9118958) | Tool for ensuring [perfect stacks](/wiki/Beatmapping/Mapping_techniques/Stack) between objects |
 | ![](img/logo_osucad.png) | [osu!cad](https://osucad.com) | ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Browser-based collaborative beatmap editor |
 | ![](img/logo_blank.png) | [osu!trace](https://osu.ppy.sh/community/forums/topics/303844) | ::{ flag=US }:: [HedonicKnight](https://osu.ppy.sh/users/4834671) | Cursor tracing program for analysing beatmap flow |
+
+#### osu!taiko
+
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [Manage Beatmap](https://github.com/frukoyurdakul/Manage_Beatmap) | ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Tool for managing slider velocity changes in osu!taiko |
+| ![](img/logo_blank.png) | [Taiko Editor](https://osu.ppy.sh/community/forums/topics/1373230) | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | Standalone editor for osu!taiko beatmaps |
 
 #### osu!mania
 
@@ -131,11 +139,32 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 
 ### Modding
 
+#### General
+
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_blank.png) | [AIBat](https://osu.ppy.sh/community/forums/topics/55305) | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Tool for checking a beatmap's [ranking criteria](/wiki/Ranking_criteria) compliance |
+| ![](img/logo_blank.png) | [osumod](https://osumod.com/) | ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Hub for setting personal [modding queues](/wiki/Community/Forum/Modding_Queues) |
 | ![](img/logo_mapset_verifier.png) | [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Tool for checking a beatmap's [ranking criteria](/wiki/Ranking_criteria) compliance |
 | ![](img/logo_blank.png) | [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602) | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) | [BBCode](/wiki/BBCode) writing assistant for mapping/modding environment |
+
+#### osu!taiko
+
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [MVTaikoChecks](https://github.com/Hiviexd/MVTaikoChecks) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Mapset Verifier plugin for checking osu!taiko beatmaps |
+
+#### osu!catch
+
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_blank.png) | [MapsetCheckCatch](https://github.com/Darius-Wattimena/MapsetChecksCatch) | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Mapset Verifier plugin for checking osu!catch beatmaps |
+
+#### osu!mania
+
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/logo_maniacheck.png) | [ManiaCheck](https://github.com/MChecaH/ManiaCheck) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Mapset Verifier plugin for checking osu!mania beatmaps |
 
 ### Skinning
 
@@ -213,6 +242,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_aiess.png) | [Aiess](https://github.com/Naxesss/Aiess) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Service that provides subscriptions for various web events such as ranks, qualifications, nominations, suggestions, news posts, and user group changes |
 | ![](img/logo_blank.png) | [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510) | ::{ flag=DE }:: [Deimos](https://osu.ppy.sh/users/1515403) | Android app for determining [Approach Rate](/wiki/Beatmap/Approach_rate) speed and [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) hit window accuracy |
+| ![](img/logo_bathbot.png) | [BathBot](https://github.com/MaxOhn/Bathbot) | ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Feature-rich Discord bot with versatile osu! functionalities |
 | ![](img/logo_blank.png) | [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311) | ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Tool for [I/O developers](https://en.wikipedia.org/wiki/Input/output) to locate user's osu! installation folder |
 | ![](img/logo_hwchrs_pick_em.png) | [hwchr's pick'em](https://pickem.hwc.hr/tournaments) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Website that hosts [pick'ems](https://egamersworld.com/blog/egamersworld-pickem-vjofPo3GE7) for osu! tournaments |
 | ![](img/logo_osekai.png) | [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) | ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards, and more |
