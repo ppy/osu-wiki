@@ -36,11 +36,11 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_mcosu.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Practice client for osu! beatmaps with VR support |
-| ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: [neico](https://osu.ppy.sh/users/119665) and ::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) | Unofficial osu! client for Android |
 |  | [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175) | ::{ flag=US }:: [superloach](https://osu.ppy.sh/users/11213125) | Open-source osu! client written in python3 |
-| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
+| ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: [neico](https://osu.ppy.sh/users/119665) and ::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) | Unofficial osu! client for Android |
 |  | [osu!taiko made with Scratch](https://turbowarp.org/1067424534?fps=240&offscreen) | ::{ flag=US }:: [MrrJinxx](https://osu.ppy.sh/users/32908054) | osu!taiko clone written in Scratch |
 | ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | Recreation of osu! in [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) |
+| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
 | ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=UK }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu!taiko beatmaps on mobile devices |
 
 ### Gameplay
@@ -90,7 +90,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-|  | [AxerBot](https://github.com/Hiviexd/AxerBot) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | All-purpose Discord bot with features catered to mapping & modding |
+|  | [AxerBot](https://github.com/Hiviexd/AxerBot) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | All-purpose Discord bot with features catered to mapping and modding |
 |  | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Tool for copying hitsounds from one difficulty to another |
 |  | [Local osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) | ::{ flag=DE }:: [Marilyth](https://osu.ppy.sh/users/1161671) | Tool for calculating and visualising beatmap density over time |
 | ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Core program for all things mapping |
@@ -254,11 +254,12 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu!-themed music player |
 |  | [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | osu!-styled cursors for Windows |
 |  | [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110) | ::{ flag=CA }:: [Slow Twitch](https://osu.ppy.sh/users/3172543) | Service that allows users to subscribe to their favorite mappers |
-|  | [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Simple library to interface with the osu!api |
+|  | [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Simple library to interface with the osu! API |
 | ![](img/logo_osuelements.png) | [osu!Elements](https://osu.ppy.sh/community/forums/topics/430701) | ::{ flag=BE }:: [ExCellRaD](https://osu.ppy.sh/users/2189591) | Open source .NET framework for osu! application developers |
 | ![](img/logo_osumatchmaking.png) | [osu!matchmaking](https://discord.com/invite/CehChep) | ::{ flag=RU }:: [Anemic Witch](https://osu.ppy.sh/users/7258536) | Quick and automated multiplayer matches |
 | ![](img/logo_osuplayer.png) | [osu!player](https://osu.ppy.sh/community/forums/topics/660418) | ::{ flag=DE }:: [Founntain](https://osu.ppy.sh/users/5105217) | Media player for osu! beatmaps |
 |  | [osu!search](https://osu.ppy.sh/community/forums/topics/380485) | ::{ flag=FI }:: [Rivenation](https://osu.ppy.sh/users/2063554) | Website for advanced beatmap searching |
 | ![](img/logo_osustation.png) | [osu!station](https://osu.ppy.sh/community/forums/topics/236417) | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | On-demand online radio service powered by songs from beatmaps |
 | ![](img/logo_osustuff_play.png) | [osu!Stuff Play](https://play.osustuff.org) | ::{ flag=GB }:: [ifailedatlife](https://osu.ppy.sh/users/6331918) | Website that matches players into automated osu! Battle Royale tournaments |
+| ![](img/logo_mutualify.png) | [Mutualify](https://mutualify.stanr.info) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Friend list database for osu! |
 |  | [stats.circleclickers](https://stats.circleclickers.com) | ::{ flag=AT }:: [InvisibleSymbol](https://osu.ppy.sh/users/13506780) | Real-time osu! user count tracker |
