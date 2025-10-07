@@ -34,9 +34,9 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months osu!supporter, Profile badge (TBD), Beatmap banner, Ranked status[^ranked] |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months osu!supporter, Beatmap banner, Ranked status[^ranked] |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months osu!supporter, Beatmap banner, Ranked status[^ranked] |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months osu!supporter, profile badge (TBD), beatmap banner, Ranked status[^ranked] |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months osu!supporter, beatmap banner, Ranked status[^ranked] |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months osu!supporter, beatmap banner, Ranked status[^ranked] |
 | Playtester's Pick[^playtester] | 1 month osu!supporter |
 
 ![KPMC#1 badge](img/badge.jpg)
@@ -66,12 +66,12 @@ More detailed scores and judge comments are available to view on the [Mappers' G
 - Submissions must be made for the osu!mania game mode only.
 - Submissions must be between 4K and 7K.
 - Submissions can follow an open song choice, as long as the song is Korean language and Pop genre.
-- Submissions must adhere to the [Ranking criteria](/wiki/Ranking_criteria).
+- Submissions must adhere to the [ranking criteria](/wiki/Ranking_criteria).
 - Submissions must be one single beatmap with a difficulty of Hard or higher.
 - Submissions should be rankable with one difficulty, otherwise it will deduct from the Rankability score.
 - Submissions must include a custom hitnormal file.
 - Collaboration work is not allowed for this contest. Submissions must be made individually.
-- Submissions must include a background that complies with [Visual content considerations](/wiki/Rules/Visual_content_considerations).
+- Submissions must include a background that complies with [visual content considerations](/wiki/Rules/Visual_content_considerations).
 - Videos, skins, and storyboards are not allowed.
 - Submitting your map to the BSS before the results announcement is not allowed and will result in disqualification.
 
@@ -79,9 +79,9 @@ More detailed scores and judge comments are available to view on the [Mappers' G
 
 - **Music Representation (15):** How well the map reflects the music through its emphasis, patterning, etc.
 - **Creativity (15):** How the map stands out compared to the other submissions.
-- **Rankability (5):** How suitable the map is for ranking. This means ensuring it is timed correctly and follows osu!mania Ranking Criteria (both overall and difficulty-specific).
+- **Rankability (5):** How suitable the map is for ranking. This means ensuring it is timed correctly and follows osu!mania ranking criteria (both overall and difficulty-specific).
 - **Judge Impression (5):** How well the judges believe the map is put together. They can award points based on aspects they find noteworthy or memorable.
 
 ## Notes
 [^ranked]: The top 3 submissions will receive 2 nominations if the mapper wishes.
-[^playtester]: The anonymized submission chosen by the playtester based on its playability aspect.
+[^playtester]: The anonymised submission chosen by the playtester based on its playability aspect.
