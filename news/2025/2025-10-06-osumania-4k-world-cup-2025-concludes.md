@@ -183,7 +183,7 @@ My experience as a graphic designer is much more recent, starting in 2021 when I
 
 </div>
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/zeth-works.jpg "Some of Zeth's works used in different osu! projects")
+![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/zeth-works.jpg)
 
 <div class="news-chat-quote__text-container">
 
@@ -205,7 +205,7 @@ For design choices, I rely heavily on colors, detailing, and typography to conve
 
 </div>
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/panthullu-title.png "Panthullu's title design used in Once Forgotten, Nothing Remains")
+![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/panthullu-title.png)
 
 <div class="news-chat-quote__text-container">
 
