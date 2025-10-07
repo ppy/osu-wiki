@@ -2,7 +2,7 @@
 
 *For other uses, see [osu! (disambiguation)](/wiki/Disambiguation/osu!).*
 
-osu! is the first game mode introduced to the game. In it, the player has the ability to aim for and click circles using their *cursor* in tune with the rhythm.
+**osu!**, formerly known as *osu!standard*, is the default game mode in which players are required to aim for and click circles using their *cursor* in tune with the rhythm.
 
 ## Song selection
 
@@ -14,7 +14,7 @@ To download more beatmaps for osu!, head to the [beatmap listing](https://osu.pp
 
 ## Player control
 
-In osu!, the user is supposed to click circles, guide sliders and spin spinners by using their cursor or touch screen. By default the keys to control the cursors actions are:
+In osu!, the user is supposed to click circles, guide sliders and spin spinners by using their cursor or touch screen. By default the keys to control the cursor's actions are:
 
 - The `left mouse button` and `right mouse button` or `Z` and `X` to click using cursor.
 - The `C` button to draw with smoke.
@@ -25,7 +25,7 @@ If [relax](/wiki/Gameplay/Game_modifier/Relax) is being used, the in-game cursor
 
 When the [auto pilot](/wiki/Gameplay/Game_modifier/Autopilot) mod is being used, the in-game cursor will automatically aim for all objects, only requiring the user to click to the rhythm. The speed the spinners will spin at is the same as the one in the [spun out](/wiki/Gameplay/Game_modifier/Spun_Out) mod.
 
-If the player wants to draw while playing osu!, they can do using **smoke**. When the player activates the respective key for smoke, the cursor will leave behind a white trail that will last for about 8 seconds after the keys deactivation.
+If the player desires to draw while playing osu!, they can do so using **smoke**. When the player activates the respective key for smoke, the cursor will leave behind a white trail that will last for about 8 seconds after the keys deactivation.
 
 <!-- TODO: Create a article dedicated to smokes. -->
 
@@ -41,9 +41,7 @@ osu! has 3 main [hit objects](/wiki/gameplay/Hit_object) the player interacts wi
 
 ### Hit circles
 
-If the judgement is everything but a `MISS`, the combo will be incremented by 1.
-
-**Hit circles** are the most common object type in osu!. A thin [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) on the outside of the hit circle will shrink over time. The user is required to aim the cursor onto a hit circle and click it when the approach circle touches the hit circle.
+**Hit circles** are coloured circles with numbers displayed on them. A thin [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) on the outside of the hit circle will shrink over time. The user is required to aim the cursor onto a hit circle and click it when the approach circle touches the hit circle.
 
 After hitting a hit circle, a number appears indicating the [judgement](/wiki/Gameplay/Judgement/osu!) received for how accurate the timing of the hit was.
 
@@ -78,11 +76,11 @@ osu! has 4 difficulty settings with each affecting the gameplay differently:
 
 Each setting is often referred to as CS, HP, AR, and OD respectively. Click on the linked articles above for more detailed information.
 
-Unlike osu!(lazer), slider heads in osu!(stable) do not have hit timings and the slider's judgement is decided when the slider ends, with it being based on how the player guided the slider ball.
-
 ## Play Styles
 
 *Refer to [Play Styles page under osu!](/wiki/Gameplay/Play_style).*
+
+## Scoring
 
 [Score in osu!](/wiki/Gameplay/Score/ScoreV1/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
 
