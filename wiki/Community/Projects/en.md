@@ -40,7 +40,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 |  | [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175) | ::{ flag=US }:: [superloach](https://osu.ppy.sh/users/11213125) | Open-source osu! client written in python3 |
 | ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
 |  | [osu!taiko made with Scratch](https://turbowarp.org/1067424534?fps=240&offscreen) | ::{ flag=US }:: [MrrJinxx](https://osu.ppy.sh/users/32908054) | osu!taiko clone written in Scratch |
-| ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | Recreation of osu! in Geometry Dash |
+| ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | Recreation of osu! in [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) |
 | ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=UK }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu!taiko beatmaps on mobile devices |
 
 ### Gameplay
