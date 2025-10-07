@@ -37,8 +37,10 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_mcosu.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Practice client for osu! beatmaps with VR support |
 | ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: [neico](https://osu.ppy.sh/users/119665) and ::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) | Unofficial osu! client for Android |
-| ![](img/logo_blank.png) | [osu! python edition](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [superloach](https://osu.ppy.sh/users/11213125) | Open-source osu! client written in python3 |
-| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726/) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
+| ![](img/logo_blank.png) | [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175) | ::{ flag=US }:: [superloach](https://osu.ppy.sh/users/11213125) | Open-source osu! client written in python3 |
+| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
+| ![](img/logo_blank.png) | [osu!taiko made with Scratch](https://turbowarp.org/1067424534?fps=240&offscreen) | ::{ flag=US }:: [MrrJinxx](https://osu.ppy.sh/users/32908054) | osu!taiko clone written in Scratch |
+| ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | Recreation of osu! in Geometry Dash |
 | ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=UK }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu!taiko beatmaps on mobile devices |
 
 ### Gameplay
@@ -103,6 +105,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | ![](img/logo_blank.png) | [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool that translates hand-drawn shapes into sliders |
 | ![](img/logo_blank.png) | [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool for silencing slider ends automatically |
 | ![](img/logo_blank.png) | [osu! Stacking Tool](https://osu.ppy.sh/community/forums/topics/561477) | ::{ flag=NO }:: [Enitoni](https://osu.ppy.sh/users/9118958) | Tool for ensuring [perfect stacks](/wiki/Beatmapping/Mapping_techniques/Stack) between objects |
+| ![](img/logo_osucad.png) | [osu!cad](https://osucad.com) | ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Browser-based collaborative beatmap editor |
 | ![](img/logo_blank.png) | [osu!trace](https://osu.ppy.sh/community/forums/topics/303844) | ::{ flag=US }:: [HedonicKnight](https://osu.ppy.sh/users/4834671) | Cursor tracing program for analysing beatmap flow |
 
 #### osu!mania
@@ -174,6 +177,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | Browser extension for calculating pp |
 | ![](img/logo_blank.png) | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=UK }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Schedule calendar for the [osu! news feed](https://osu.ppy.sh/home/news) |
+| ![](img/logo_osu_preview.png) | [osu! preview](https://osu.ppy.sh/community/forums/topics/2062759) | ::{ flag=IT }:: [TechnoZamb](https://osu.ppy.sh/users/12958169) | Browser extension for showing beatmap previews |
 | ![](img/logo_blank.png) | [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) | ::{ flag=UK }:: [Lemmmy](https://osu.ppy.sh/users/4656511) | Forum signature generator in the style of [osu!next](https://osunext.tumblr.com) |
 | ![](img/logo_blank.png) | [osu!Post - Live osu! Status](https://osu.ppy.sh/community/forums/topics/164486) | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Forum signature generator with [MSN Live](https://en.wikipedia.org/wiki/MSN_Messenger) status integration |
 | ![](img/logo_osuplus.png) | [osuplus](https://osu.ppy.sh/community/forums/topics/408541) | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Browser script that adds additional features to the website |
@@ -212,6 +216,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | ![](img/logo_blank.png) | [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311) | ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Tool for [I/O developers](https://en.wikipedia.org/wiki/Input/output) to locate user's osu! installation folder |
 | ![](img/logo_hwchrs_pick_em.png) | [hwchr's pick'em](https://pickem.hwc.hr/tournaments) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Website that hosts [pick'ems](https://egamersworld.com/blog/egamersworld-pickem-vjofPo3GE7) for osu! tournaments |
 | ![](img/logo_osekai.png) | [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) | ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards, and more |
+| ![](img/logo_osuwme.png) | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/18595366) | [BBCode](/wiki/BBCode) editor with real-time preview for osu! userpages |
 | ![](img/logo_osu_music_library.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | Tool for organising, listening, and searching up beatmap songs outside of the osu! client |
 | ![](img/logo_blank.png) | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | [BBCode](/wiki/BBCode) editor with real-time preview for osu! userpages |
 | ![](img/logo_blank.png) | [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) | ::{ flag=CZ }:: [Brejlounek](https://osu.ppy.sh/users/931841) | Mouse pointer movement wrapper for [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion) sensors |
