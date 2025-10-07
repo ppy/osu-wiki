@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup 2025 Concludes"
+title: osu!mania 4K World Cup 2025 Concludes
 date: 2025-10-06 22:00:00 +0000
 ---
 
@@ -112,7 +112,7 @@ Right after the ban phase, the United States showed why going into rice territor
 
 The South Koreans weren't easily deterred by their rivals' strong start. They took some ground back after ::{ flag=KR }:: [ggeexx1](https://osu.ppy.sh/users/17494164), ::{ flag=KR }:: [Naaaad](https://osu.ppy.sh/users/10344857), and ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/26473894)'s consistency dominated [Kou! - TERABYTE](https://osu.ppy.sh/beatmapsets/2438746#mania/5318901) (HB4). From thereon, both teams began trading blows left and right, ending in a 4–2 scoreline in favour of the United States.
 
-Things started to look a bit dire for the South Koreans as the Americans would steal yet another break point off [Earth, Wind & Fire - September (yomoha remix)](https://osu.ppy.sh/beatmaps/5318620) (LN4) all thanks to ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009)'s performance. What could've easily ended on a 6–2 by their pick on [yuikonnu x sana - Fuzzy Future](https://osu.ppy.sh/beatmapsets/2438740#mania/5318888) (LN1) was very fortunately avoided thanks to South Korea's performance (particularly that of ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/26473894)), and admittedly a miracle after the United States missed during the last moments of the map. While things were looking bleak, the South Koreans kept fighting back despite all the pressure they had to endure!
+Things started to look a bit dire for the South Koreans as the Americans would steal yet another break point off [Earth, Wind & Fire - September (yomoha remix)](https://osu.ppy.sh/beatmapsets/2438648#mania/5318620) (LN4) all thanks to ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009)'s performance. What could've easily ended on a 6–2 by their pick on [yuikonnu x sana - Fuzzy Future](https://osu.ppy.sh/beatmapsets/2438740#mania/5318888) (LN1) was very fortunately avoided thanks to South Korea's performance (particularly that of ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/26473894)), and admittedly a miracle after the United States missed during the last moments of the map. While things were looking bleak, the South Koreans kept fighting back despite all the pressure they had to endure!
 
 Unfortunately for the South Koreans, that was going to be the last point they would get. By missing their chance to regain some ground by losing their protect [Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57)](https://osu.ppy.sh/beatmapsets/2438737#mania/5318882) (HB2) after the United States' stellar performance, the deal was sealed once the US was able to pick [Tomato cat - Pretzels](https://osu.ppy.sh/beatmapsets/2438707#mania/5318811) (RC5). Ultimately, the chart's technical difficulty was too much for the South Koreans to overcome, as the United States proved their rice consistency was a force to be reckoned with.
 
@@ -183,7 +183,7 @@ My experience as a graphic designer is much more recent, starting in 2021 when I
 
 </div>
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/zeth-works.jpg)
+![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/zeth-works.jpg "Some of Zeth's works used in different osu! projects")
 
 <div class="news-chat-quote__text-container">
 
@@ -205,7 +205,7 @@ For design choices, I rely heavily on colors, detailing, and typography to conve
 
 </div>
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/panthullu-title.png)
+![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/panthullu-title.png "Panthullu's title design used in Once Forgotten, Nothing Remains")
 
 <div class="news-chat-quote__text-container">
 
