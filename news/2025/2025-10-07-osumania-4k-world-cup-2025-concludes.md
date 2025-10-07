@@ -1,12 +1,12 @@
 ---
 layout: post
 title: osu!mania 4K World Cup 2025 Concludes
-date: 2025-10-06 22:00:00 +0000
+date: 2025-10-07 19:00:00 +0000
 ---
 
 The apex of osu!mania 4K tournaments draws to a close. Join us in this nail-biting finale, as one of the most exciting iterations of the series we've witnessed comes to an end!
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/banner.jpg)
+![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/banner.jpg)
 
 What a rollercoaster of emotions this year was. While the latter half of the tournament has arguably been the strongest and most exciting to watch, we were likewise not short of surprises and highlights throughout the earlier rounds. From upsetting seeding results to new teams making their debut and extremely narrow score gaps, we've seen it all!
 
@@ -40,7 +40,7 @@ Congratulations to ::{ flag=KR }:: South Korea and ::{ flag=CN }:: China as well
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2572536973&parent=osu.ppy.sh&autoplay=false&t=0h4m57s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Grand Finals mappool table](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/mappool-gf.jpg)
+![Grand Finals mappool table](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/mappool-gf.jpg)
 
 Starting off our recap with [Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57)](https://osu.ppy.sh/beatmapsets/2438737#mania/5318882) (HB2) by ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), and ::{ flag=IT }:: [rikan](https://osu.ppy.sh/users/25263357) — a collaboration between four mappers! Surely enough, this is the closest MWC 4K has really ever gotten to a "mini-TB" pick in the main pool, with the song coming to almost 4 whole minutes of drain time. As with previous maps in the HB2 slot, this one is not much different with its constant use of high-BPM shields, alongside eccentric bursts and gluts.
 
@@ -50,7 +50,7 @@ We also saw LN Coordination finally reach its peak with [yuikonnu x sana - Fuzzy
 
 ---
 
-[![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/IMPULSIVE__WAVE.jpg)](https://osu.ppy.sh/beatmapsets/2438724#mania/5318853)
+[![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/IMPULSIVE__WAVE.jpg)](https://osu.ppy.sh/beatmapsets/2438724#mania/5318853)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -62,7 +62,7 @@ Similar to the Semifinals map pool, the Grand Finals pool also has an abundance 
 
 As expected of extratone, the patterns very much represent the amount of chaos going on, with the "easier" sections still giving you more technical patterns in order to always have you on edge for the entire duration of the song. With a spectacular illustration from ::{ flag=AU }:: [-pineapple-](https://osu.ppy.sh/users/11523326) and graphic design work by ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702) and ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), there's a fully fledged original experience just itching to be played! But it's not for the faint of heart...
 
-[![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/orphic.jpg)](https://osu.ppy.sh/beatmapsets/2438747#mania/5318904)
+[![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/orphic.jpg)](https://osu.ppy.sh/beatmapsets/2438747#mania/5318904)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -72,7 +72,7 @@ As expected of extratone, the patterns very much represent the amount of chaos g
 
 Our second osu! original for this week was [roer - orphic](https://osu.ppy.sh/beatmapsets/2438747#mania/5318904) (HB1) by ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576). As usual for the HB1 slot, this map contains extremely difficult high-BPM patterns, but this map stands alone in the HB1 category with how absolutely technical it is. At a whopping 300 BPM, this is likely the highest BPM a Hybrid in MWC 4K has ever truly achieved. The mapping bears striking resemblance to a [previous osu! original from MWC 4K](https://osu.ppy.sh/beatmapsets/2062241#mania/4311938), and it is also a direct sequel to a [previous song by the same artist](https://soundcloud.com/roerdtm/intuit) which was also featured in an osu! mania tournament. It even comes with a slick background *and* video made by ::{ flag=NZ }:: [krabtown](https://osu.ppy.sh/users/3388033) and ::{ flag=MY }:: [mochasan_](https://osu.ppy.sh/users/23804364) — what more could you want?
 
-[![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/Once_Forgotten_Nothing_Remains.jpg)](https://osu.ppy.sh/beatmapsets/2438757#mania/5318924)
+[![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/Once_Forgotten_Nothing_Remains.jpg)](https://osu.ppy.sh/beatmapsets/2438757#mania/5318924)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -172,7 +172,7 @@ Last but not least, while [Earth, Wind & Fire - September (yomoha remix)](https:
     }
 </style>
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/Zeth.png)
+![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/Zeth.png)
 
 [Zeth](https://osu.ppy.sh/users/9912966) has been a cornerstone of the World Cup design team for the past two years, creating backgrounds, covers, and banners that set the tone for countless osu! originals. His graphic designs have supported illustrators, storyboarders, and VFX designers alike, providing the foundation for cohesive tournament visuals. For this year's MWC 4K 2025, Zeth brought his expertise to the Grand Finals tiebreaker [Raphiiel - Once Forgotten, Nothing Remains](https://osu.ppy.sh/beatmapsets/2438757#mania/5318924).
 
@@ -200,7 +200,7 @@ My experience as a graphic designer is much more recent, starting in 2021 when I
 
 That slowly snowballed into learning graphic design in general, and I decided that this is my thing, which led me to self-teach graphic design as well as other skills like 3D modeling and design using Blender in my free time over the past few years. osu! community tournaments, specifically Global Taiko Showdown, then presented me with lots of opportunities to work on my skills by designing tournament graphics, overlays, and eventually even original song designs for them, which led to my massive improvement over the years. Now I am both a full-time graphic designer in real life working for a marketing agency, as well as a freelancer working on cool projects such as World Cups, digital and physical album designs, and even an [MV](https://www.youtube.com/watch?v=8pIFCW3RfvY) or two during my free time.
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/zeth-works.jpg "Some of Zeth's works used in different osu! projects")
+![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/zeth-works.jpg "Some of Zeth's works used in different osu! projects")
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -222,7 +222,7 @@ Raphiiel provided some initial inspiration and a moodboard for the song at the s
 
 [Panthullu](https://osu.ppy.sh/users/12580298)'s title design was especially impactful. His fragmented yet elegant style captured the “tragic but beautiful” nature of the song and narrative perfectly. We had agreed on the work distribution beforehand, so I simply passed him my completed design and asked for the title with very little instruction. He did such a great job on it, and the design wouldn't be complete without his contribution.
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/panthullu-title.png "Panthullu's title design used in Once Forgotten, Nothing Remains")
+![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/panthullu-title.png "Panthullu's title design used in Once Forgotten, Nothing Remains")
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -242,7 +242,7 @@ In a more direct sense, my main contribution outside of GFX was assisting with t
 
 This entire process was coordinated by [Sakura006](https://osu.ppy.sh/users/10365024), with quality assurance provided by [RedcXca](https://osu.ppy.sh/users/14056601), [Panthullu](https://osu.ppy.sh/users/12580298), [LenLitchu](https://osu.ppy.sh/users/34098325), and [Noffy](https://osu.ppy.sh/users/1541323) to ensure consistency across all assets. On the mapping side, [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [elexire](https://osu.ppy.sh/users/9206093), [0DZ0](https://osu.ppy.sh/users/28156707), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [rikan](https://osu.ppy.sh/users/25263357), [MyZterioN-](https://osu.ppy.sh/users/8521723), and [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) all came together to prepare the exciting beatmap. Finally, the replay was created by [myucchii](https://osu.ppy.sh/users/10072733), who was on standby and completed it live in a voice channel with our team members watching.
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/background-overlay.png "Zeth's overlay design used in Once Forgotten, Nothing Remains")
+![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/background-overlay.png "Zeth's overlay design used in Once Forgotten, Nothing Remains")
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -262,7 +262,7 @@ As for my role, I feel it has remained consistent since I joined. I've always en
 
 </div>
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/-mint-.png)
+![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/-mint-.png)
 
 When it comes to the osu!mania 4K World Cup, there are very few people as experienced as [-mint-](https://osu.ppy.sh/users/8976576) is. Having held the title of mappooler and advisor for so many years as well as taking part into multiple different roles, there are very few things she hasn't done. As they relay their torch to the next generation of poolers, we want to get her first-hand experience as an integral part of the tournament for so long!
 
@@ -330,7 +330,7 @@ On top of this, I plan to run an informal tournament mapping-specific mentorship
 
 With that last interview over, we can finally say goodbye to everyone who has been following along this year's recaps. More importantly, we want to extend everyone who has managed to make this World Cup possible!
 
-![](/wiki/shared/news/2025-10-06-osumania-4k-world-cup-2025-concludes/mwc4k2025-credits.png)
+![](/wiki/shared/news/2025-10-07-osumania-4k-world-cup-2025-concludes/mwc4k2025-credits.png)
 
 Last but not least, we want to thank the community for their endless support and encouragement to their favourite teams. Regardless of their final placement, what'll matter the most is always going to be the process — not the outcome. We can only hope the feeling is mutual, both between players, spectators, and staff members alike.
 
