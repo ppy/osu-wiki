@@ -25,7 +25,7 @@ If [relax](/wiki/Gameplay/Game_modifier/Relax) is being used, the in-game cursor
 
 When the [auto pilot](/wiki/Gameplay/Game_modifier/Autopilot) mod is being used, the in-game cursor will automatically aim for all objects, only requiring the user to click to the rhythm. The speed the spinners will spin at is the same as the one in the [spun out](/wiki/Gameplay/Game_modifier/Spun_Out) mod.
 
-If the player desires to draw while playing osu!, they can do so using **smoke**. When the player activates the respective key for smoke, the cursor will leave behind a white trail that will last for about 8 seconds after the keys deactivation.
+If the player desires to draw while playing osu!, they can do so using **smoke**. When the player activates the respective key for smoke, the cursor will leave behind a white trail that will last for about 8 seconds after the key's deactivation.
 
 <!-- TODO: Create a article dedicated to smokes. -->
 
@@ -118,8 +118,8 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 - Releasing the slider ball on an empty slider path without hidden or visible slider ticks does not result in combo break nor any score given. Slider judgments only check for whether the starting circle was clicked, the slider ticks were collected, and ending circle was completed successfully or not.
 - In osu!(stable), the maximum number of spins per minute achievable is 477, which is also the rate at which the [auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins. In osu!(lazer), spinners have a set maximum for bonus score, making spinning after achieving the max score unnecessary. The [spun out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute in both versions of the game. The reason for these limits being set is because on the original DS games, completing spinners is a good way to scratch the touchscreen (or its screen protector), especially on higher difficulties. These limits protect the player from potentially damaging their devices.
 - Changing the spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then start spinning in the correct direction. The spin progress will not progress during the reorientation.
-- Not spinning around the core of the spinner will **not** be considered as a valid spin.
-- The osu! mascot is [pippi](/wiki/Mascots#pippi).
+- Clearing a spinner is **only** possible by spinning around its core, spinning beside it is not valid and will not grant score.
+- The mascot of osu! is [pippi](/wiki/Mascots#pippi).
 
 ### History
 
