@@ -114,7 +114,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Podium
 
-![](img/mwc4k2025-podium.jpg "MWC 4K 2025 podium")
+![](img/mwc4k2025-podium.jpg?2 "MWC 4K 2025 podium")
 
 ## Mappools
 
