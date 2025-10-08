@@ -15,7 +15,7 @@ tags:
 
 ## Servicio
 
-puush le permite a la gente subir capturas de pantalla y archivos a sus cuentas personales usando una aplicación especial para [Windows](https://puush.me/dl/puush-installer.exe), [Mac OS](https://puush.me/dl/puush.zip) o [iOS](https://itunes.apple.com/au/app/puush/id386524126?mt=8). Una vez subidos, estos archivos se pueden gestionar desde el sitio web puush.me, colocarlos en «pools» (álbumes de fotos) o compartirlos en otros sitios mediante un enlace `puu.sh` fácil de compartir.
+puush le permite a los usuarios subir capturas de pantalla y archivos a sus cuentas personales usando una aplicación dedicada para [Windows](https://puush.me/dl/puush-installer.exe), [Mac OS](https://puush.me/dl/puush.zip) o [iOS](https://itunes.apple.com/au/app/puush/id386524126?mt=8). Una vez subidos, estos archivos se pueden gestionar desde el sitio web puush.me, colocarlos en «pools» (álbumes de fotos) o compartirlos en otros sitios mediante un enlace `puu.sh` fácil de compartir.
 
 Una característica fundamental de puush es su capacidad para capturar y compartir capturas de pantalla al instante, lo que lo hace especialmente popular entre los [modders](/wiki/Modding). Dado que puush está pensado para compartir archivos, y no como un almacenamiento permanente de archivos, los archivos subidos solo se conservan durante un tiempo limitado antes de ser eliminados.
 
@@ -26,13 +26,13 @@ Si bien puush estaba disponible para todos de forma gratuita, con el fin de mant
 - Aumento del tamaño máximo de los archivos (20 MB para los usuarios de la versión gratuita y 250 MB para los usuarios de la versión Pro)
 - Aumento del periodo de retención de los archivos (1 mes desde el último acceso para los usuarios de la versión gratuita y 6 meses desde el último acceso para los usuarios de la versión Pro)
 
-Al igual que en osu!, todos los usuarios de puush están libres de anuncios, independientemente de su estado de suscripción.
+Al igual que en osu!, ningún usuario de puush será expuesto a anuncios, independientemente de su estado de suscripción.
 
 ## Reducción del servicio
 
 Desde marzo de 2014, puush ya no acepta registros para el plan Pro, ya que PayPal suspendió la cuenta de puush debido a un «incumplimiento de los términos del servicio» imprevisto.[^puush-paypal-suspension-ref] Esto provocó que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) tuviera que pagar de su propio bolsillo unos 400 dólares al mes para mantener el servicio en funcionamiento.[^puush-finances-ref]
 
-Ese mismo año, al detenerse el mantenimiento de puush, se desactivaron por completo los registros de nuevas cuentas, aunque los usuarios existentes podrían seguir usando el servicio como de costumbre.[^puush-maintenance-ref]
+Ese mismo año, al detenerse el mantenimiento de puush, se desactivaron por completo los registros de nuevas cuentas, aunque los usuarios existentes pueden seguir usando el servicio como de costumbre.[^puush-maintenance-ref]
 
 ## Referencias
 
