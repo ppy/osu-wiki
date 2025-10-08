@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Moscow osu! Event 2025 Recap
-date: 2025-09-30 14:00:00 +0000
+date: 2025-10-08 14:00:00 +0000
 ---
 
 The third iteraton of the Moscow osu! Event, the largest osu! event in Russia, took place between July, 25–27th, featuring a total of 5 tournaments for each game mode, a cosplay show, and more!
 
-![](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/moe25-banner.jpg)
+![](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/moe25-banner.jpg)
 
 This year's Moscow osu! Event took place at Mosproducer, a concert hall situated at the centre of Moscow, Russia.
 
@@ -20,15 +20,15 @@ A cosplay show was organised during the event, allowing anyone to show themselve
 
 **1st place** - ::{ flag=RU }:: **myfk** cosplaying Rin Kaenbyou from the *Touhou Project*. Her ribbon show during the event shocked everyone, immediately proving that she deserves that first place.
 
-![Cosplay 1st place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-1.jpg)
+![Cosplay 1st place](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/cosplay-1.jpg)
 
 **2nd place** - ::{ flag=RU }:: **[ksuenoot](https://osu.ppy.sh/users/5069845)**, a winner of last year's cosplay show, with a cosplay of Burnice from *Zenless Zone Zero*. She became the only person to reach the top 3 in the cosplay shows for 2 consecutive years.
 
-![Cosplay 2nd place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-2.jpg)
+![Cosplay 2nd place](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/cosplay-2.jpg)
 
 **3rd place** - a joint collab between ::{ flag=RU }:: **[Graja_1](https://osu.ppy.sh/users/38171011)** & ::{ flag=RU }:: **[Wise-holo](https://osu.ppy.sh/users/34233389)**, cosplaying *Touhou Project*'s Nazrin, the leader of a great number of mice, and a big mouse itself!
 
-![Cosplay 3rd place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-3.jpg)
+![Cosplay 3rd place](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/cosplay-3.jpg)
 
 ### Gaming booth
 
@@ -36,15 +36,15 @@ A dedicated gaming booth was set up for all osu! players where they could play *
 
 There also were some merchandise booths with different stickers, t-shirts, keyboards, and more.
 
-![Taiko no Tatsujin booth](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/gamezone-taiko.jpg)
+![Taiko no Tatsujin booth](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/gamezone-taiko.jpg)
 
-![Gaming booth](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/gamezone2.jpg)
+![Gaming booth](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/gamezone2.jpg)
 
 ### Quest book
 
 Everyone had a quest book with more than 50 different tasks to do — the more activity completion stamps you acquired, the cooler reward you could get!
 
-![Gaming booth](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/questbook.jpg)
+![Gaming booth](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/questbook.jpg)
 
 ## Main tournament
 
@@ -82,7 +82,7 @@ The first half of the match went pretty straightforward: both players were easil
 
 In the end, with a score of 6–4, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) got the last point and won Moscow osu! Event for the first time, breaking his second-place curse. His performance during the whole tournament was astonishing, making him one of the best Russian players without a doubt!
 
-![Tournament winner (Welter)](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/welter_prize.jpg)
+![Tournament winner (Welter)](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/welter_prize.jpg)
 
 ## Other tournaments
 
@@ -136,6 +136,6 @@ The osu!mania 7K tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.s
 
 More than **450** people visited Moscow osu! Event 2025, with **51** individual contributors and staff members making sure everything went smoothly. We are very grateful to all participants and hope that the next iteration will be even bigger and bring even more fun! Make sure to follow Moscow osu! Event's [Discord server](https://discord.com/invite/7GJvD9uyV7), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent), or [VK](https://vk.com/moscowosuevent), so that you don't miss the next iteration!
 
-![MOE2025 attendees megacollab](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/megacollab.jpg)
+![MOE2025 attendees megacollab](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/megacollab.jpg)
 
 —Rainbowtaves & RobotSkin\_
