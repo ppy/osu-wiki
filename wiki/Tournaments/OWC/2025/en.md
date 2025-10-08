@@ -42,7 +42,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) |
-| Mappool quality assurance | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604) |
+| Mappool helper | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/4415285), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604) |
 | Mappool playtester | ::{ flag=US }:: [\-Schwarts](https://osu.ppy.sh/users/4673649), ::{ flag=PA }:: [AR9](https://osu.ppy.sh/users/5136821), ::{ flag=US }:: [Boolin](https://osu.ppy.sh/users/10664409), ::{ flag=RU }:: [Chicony](https://osu.ppy.sh/users/5199332), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [conradmittn](https://osu.ppy.sh/users/8208289), ::{ flag=CA }:: [emmyerson](https://osu.ppy.sh/users/7613309), ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=JP }:: [KonKonKinakoN](https://osu.ppy.sh/users/4733185), ::{ flag=US }:: [koral](https://osu.ppy.sh/users/754792), ::{ flag=CA }:: [kyle](https://osu.ppy.sh/users/2694475), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313), ::{ flag=PH }:: [Milkteaism](https://osu.ppy.sh/users/9642774), ::{ flag=UA }:: [RafGPio](https://osu.ppy.sh/users/13705417), ::{ flag=SE }:: [soik](https://osu.ppy.sh/users/4316633), ::{ flag=US }:: [taro](https://osu.ppy.sh/users/13586618), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856), ::{ flag=US }:: [wr8th](https://osu.ppy.sh/users/20276851) |
 | Mapper | *TBA* |
 | Hitsounders | *TBA* |
@@ -150,7 +150,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
     - Seeds 1-8 will be designated as **Legends** (8 teams).
     - Seeds 9-24 will be designated as **Challengers** (16 teams).
     - Seeds 25-40 will be designated as **Contenders** (16 teams).
-11. The 8 Legends teams will geceive a bye, advancing directly to the winners bracket of the Round of 16.
+11. The 8 Legends teams will receive a bye, advancing directly to the winners bracket of the Round of 16.
 12. The 16 Challenger teams and 16 Contender teams will proceed to the Group Stage.
 
 ### Group stage instructions
@@ -188,9 +188,9 @@ The draft starts with the Challengers teams:
 1. **Drawing from the first pot:** One team from Pot 1 is randomly drawn and placed into Group 1. Another one is placed into Group 2, and so on, until all four teams from Pot 1 have been assigned to a different group. Each group will then have a single top seeded team.
 2. **Drawing from subsequent pots:** The process is repeated for Pot 2. The four teams from Pot 2 are randomly drawn and placed into each of the four groups. This continues for Pot 3 and Pot 4. When the draw is complete, each group will contain exactly one team from each of the four seeding pots.
 
-The same process is repeated for Contenders, now Groups 5–8. There will be 8 groups at the of the draw process.
+The same process is repeated for Contenders, now Groups 5–8. There will be 8 groups at the end of the draw process.
 
-Afterwards, **all groups are seeded based on the average of their Qualifiers %MAX results**, with the highest average %MAX group being called "Group A", the second highest being "Group B", and so on, until the lowest average %MAX "Group F".
+Afterwards, **all groups are seeded based on the average of their Qualifiers %MAX results**, with the highest average %MAX group being called "Group A", the second highest being "Group B", and so on, until the lowest average %MAX "Group H".
 
 #### Seeding rules
 
@@ -248,7 +248,6 @@ The final bracket configuration will be as follows:
 
 1. Following the Group stage, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
 2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Quarterfinals.
-3. The initial matchups for the Round of 16 are determined by seeding from the Qualifier stage as follows:
 
 ### Win conditions
 
