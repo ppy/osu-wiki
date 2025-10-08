@@ -9,6 +9,6 @@ osu! has a few **release streams**, or game client versions, that receive update
 | Release stream | Notes |
 | :-- | :-- |
 | Stable | Current, most popular version; [feature-locked](https://en.wikipedia.org/wiki/Freeze_(software_engineering)); receives updates after Beta |
-| Beta | Receives updates after Cutting Edge; feature-locked |
-| Cutting Edge | Receives newest updates; feature-locked |
+| Cutting Edge | Has some differences with stable; feature-locked |
+| Tachyon | Pre-release and beta version of osu!(lazer); typically contains functionality that isn't completely done |
 | [Lazer](Lazer) | Rewritten game client; most active in development with [many differences and new features](/wiki/Client/Release_stream/Lazer/Feature_comparison). |

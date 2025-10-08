@@ -33,7 +33,7 @@
 
 | Оценка | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
-| SS | 100% | 100% | 100% |
+| SS | 100% | 100% | все [оценки](/wiki/Gameplay/Judgement/osu!mania) GREAT и PERFECT |
 | S | ≥95% (без промахов) | ≥98% | ≥95% |
 | A | ≥90% | ≥94% | ≥90% |
 | B | ≥80% | ≥90% | ≥80% |
@@ -45,23 +45,6 @@
 | Можно вернуть модом Classic | ![No][false] |
 | Изменено намеренно | ![Yes][true] |
 | Требует дальнейшего рассмотрения | ![No][false] |
-
-### Расчёт краёв окон попаданий не совпадает с stable
-
-Если попадание приходится прямо на край окна попадания, оценка попадания может отличаться в зависимости от версии клиента.
-
-| Режим игры | Сравнение (stable) | Сравнение (lazer) | Сравнение (реплей lazer) |
-| :-- | :-- | :-- | :-- |
-| osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`, за исключением окна промаха, которое использует `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-
-|  |  |
-| :-- | :-: |
-| Ломает обратную совместимость | ![Yes][true] |
-| Можно вернуть модом Classic | ![No][false] |
-| Изменено намеренно | ![Yes][true] |
-| Требует дальнейшего рассмотрения | ![Yes][true] |
 
 ### Подсчёт очков
 
@@ -311,18 +294,7 @@ This may lead to inaccurate judgements in replays.
 |  |  |
 | :-- | :-: |
 | Ломает обратную совместимость | ![Yes][true] |
-| Можно вернуть модом Classic | ![No][false] |
-| Изменено намеренно | ![Yes][true] |
-| Требует дальнейшего рассмотрения | ![No][false] |
-
-### Конвертированные карты больше не имеют разные окна попадания
-
-В stable конвертированные карты из osu! в osu!mania имели [другие окна попадания](/wiki/Gameplay/Judgement/osu!mania).
-
-|  |  |
-| :-- | :-: |
-| Ломает обратную совместимость | ![Yes][true] |
-| Можно вернуть модом Classic | ![No][false] |
+| Можно вернуть модом Classic | ![Yes][false] |
 | Изменено намеренно | ![Yes][true] |
 | Требует дальнейшего рассмотрения | ![No][false] |
 
