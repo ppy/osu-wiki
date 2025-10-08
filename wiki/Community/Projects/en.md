@@ -41,7 +41,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 |  | [osu!taiko made with Scratch](https://turbowarp.org/1067424534?fps=240&offscreen) | ::{ flag=US }:: [MrrJinxx](https://osu.ppy.sh/users/32908054) | osu!taiko clone written in Scratch |
 | ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Open-source osu! client written in Java |
 | ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | Recreation of osu! in [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) |
-| ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=UK }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu!taiko beatmaps on mobile devices |
+| ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=GB }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu!taiko beatmaps on mobile devices |
 
 ### Gameplay
 
@@ -206,9 +206,9 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | Browser extension for calculating pp |
-|  | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=UK }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Schedule calendar for the [osu! news feed](https://osu.ppy.sh/home/news) |
+|  | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Schedule calendar for the [osu! news feed](https://osu.ppy.sh/home/news) |
 | ![](img/logo_osu_preview.png) | [osu! preview](https://osu.ppy.sh/community/forums/topics/2062759) | ::{ flag=IT }:: [TechnoZamb](https://osu.ppy.sh/users/12958169) | Browser extension for showing beatmap previews |
-|  | [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) | ::{ flag=UK }:: [Lemmmy](https://osu.ppy.sh/users/4656511) | Forum signature generator in the style of [osu!next](https://osunext.tumblr.com) |
+|  | [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) | ::{ flag=GB }:: [Lemmmy](https://osu.ppy.sh/users/4656511) | Forum signature generator in the style of [osu!next](https://osunext.tumblr.com) |
 |  | [osu!Post - Live osu! Status](https://osu.ppy.sh/community/forums/topics/164486) | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Forum signature generator with [MSN Live](https://en.wikipedia.org/wiki/MSN_Messenger) status integration |
 | ![](img/logo_osuplus.png) | [osuplus](https://osu.ppy.sh/community/forums/topics/408541) | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Browser script that adds additional features to the website |
 
