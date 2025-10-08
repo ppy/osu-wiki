@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moscow osu! Event 2025 Recap"
+title: Moscow osu! Event 2025 Recap
 date: 2025-09-30 14:00:00 +0000
 ---
 
@@ -94,9 +94,9 @@ The osu!taiko tournament featured ::{ flag=RU }:: [\_TheXFactory\_](https://osu.
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
-| [Den4ik228](https://osu.ppy.sh/users/7115174) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[\_TheXFactory\_](https://osu.ppy.sh/users/15013948)** | [#1](https://youtube.com/watch?v=xatn-BXpMho&t=26269) |
-| [SceptifyMK](https://osu.ppy.sh/users/20843003) ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **[taikoshallah](https://osu.ppy.sh/users/11117835)** | [#1](https://youtube.com/watch?v=fIpS-LFpB7w&t=254) |
-| [\_TheXFactory\_](https://osu.ppy.sh/users/15013948) ::{ flag=RU }:: | 0 | **5** | ::{ flag=RU }:: **[taikoshallah](https://osu.ppy.sh/users/11117835)** | [#1](https://youtube.com/watch?v=fIpS-LFpB7w&t=31432) |
+| [Den4ik228](https://osu.ppy.sh/users/7115174) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[\_TheXFactory\_](https://osu.ppy.sh/users/15013948)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=xatn-BXpMho&t=26269) |
+| [SceptifyMK](https://osu.ppy.sh/users/20843003) ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **[taikoshallah](https://osu.ppy.sh/users/11117835)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=fIpS-LFpB7w&t=254) |
+| [\_TheXFactory\_](https://osu.ppy.sh/users/15013948) ::{ flag=RU }:: | 0 | **5** | ::{ flag=RU }:: **[taikoshallah](https://osu.ppy.sh/users/11117835)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=fIpS-LFpB7w&t=31432) |
 
 ### osu!catch
 
@@ -106,9 +106,9 @@ To make things a little more interesting, the fourth player for that tournament 
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
-| **[BocDyx](https://osu.ppy.sh/users/7926192)** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) | [#1](https://youtube.com/watch?v=xatn-BXpMho&t=4622) |
-| [snailbrack](https://osu.ppy.sh/users/6650048) ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **[smelly DVD box](https://osu.ppy.sh/users/6647589)** | [#1](https://youtube.com/watch?v=xatn-BXpMho&t=7055) |
-| [BocDyx](https://osu.ppy.sh/users/7926192) ::{ flag=RU }:: | 2 | **5** | ::{ flag=RU }:: **[smelly DVD box](https://osu.ppy.sh/users/6647589)** | [#1](https://youtube.com/watch?v=fIpS-LFpB7w&t=5953) |
+| **[BocDyx](https://osu.ppy.sh/users/7926192)** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=xatn-BXpMho&t=4622) |
+| [snailbrack](https://osu.ppy.sh/users/6650048) ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **[smelly DVD box](https://osu.ppy.sh/users/6647589)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=xatn-BXpMho&t=7055) |
+| [BocDyx](https://osu.ppy.sh/users/7926192) ::{ flag=RU }:: | 2 | **5** | ::{ flag=RU }:: **[smelly DVD box](https://osu.ppy.sh/users/6647589)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=fIpS-LFpB7w&t=5953) |
 
 ### osu!mania 4K
 
@@ -116,9 +116,9 @@ The osu!mania 4K tournament featured ::{ flag=RU }:: [-Oni-Chan-](https://osu.pp
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
-| **[Dystire](https://osu.ppy.sh/users/11585213)** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: [VikaGamer228](https://osu.ppy.sh/users/20049082) | [#1](https://youtube.com/watch?v=LzItzsD4nH0&t=3745) |
-| [kloofhi](https://osu.ppy.sh/users/29627572) ::{ flag=RU }:: | 2 | **4** | ::{ flag=RU }:: **[-Oni-Chan-](https://osu.ppy.sh/users/10036005)** | [#1](https://youtube.com/watch?v=LzItzsD4nH0&t=6429) |
-| **[Dystire](https://osu.ppy.sh/users/11585213)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=RU }:: [-Oni-Chan-](https://osu.ppy.sh/users/10036005) | [#1](https://youtube.com/watch?v=fIpS-LFpB7w&t=2811) |
+| **[Dystire](https://osu.ppy.sh/users/11585213)** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: [VikaGamer228](https://osu.ppy.sh/users/20049082) | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=LzItzsD4nH0&t=3745) |
+| [kloofhi](https://osu.ppy.sh/users/29627572) ::{ flag=RU }:: | 2 | **4** | ::{ flag=RU }:: **[-Oni-Chan-](https://osu.ppy.sh/users/10036005)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=LzItzsD4nH0&t=6429) |
+| **[Dystire](https://osu.ppy.sh/users/11585213)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=RU }:: [-Oni-Chan-](https://osu.ppy.sh/users/10036005) | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=fIpS-LFpB7w&t=2811) |
 
 ### osu!mania 7K
 
@@ -126,9 +126,9 @@ The osu!mania 7K tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.s
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
-| [PhobosX](https://osu.ppy.sh/users/2570019) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[karayss](https://osu.ppy.sh/users/7156634)** | [#1](https://youtube.com/watch?v=xatn-BXpMho&t=19017) |
-| [X_Devil](https://osu.ppy.sh/users/6694908) ::{ flag=RU }:: | 3 | **4** | ::{ flag=RU }:: **[timebuka](https://osu.ppy.sh/users/6857841)** | [#1](https://youtube.com/watch?v=xatn-BXpMho&t=22857) |
-| [karayss](https://osu.ppy.sh/users/7156634) ::{ flag=RU }:: | 4 | **5** | ::{ flag=RU }:: **[timebuka](https://osu.ppy.sh/users/6857841)** | [#1](https://youtube.com/watch?v=fIpS-LFpB7w&t=13209) |
+| [PhobosX](https://osu.ppy.sh/users/2570019) ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **[karayss](https://osu.ppy.sh/users/7156634)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=xatn-BXpMho&t=19017) |
+| [X_Devil](https://osu.ppy.sh/users/6694908) ::{ flag=RU }:: | 3 | **4** | ::{ flag=RU }:: **[timebuka](https://osu.ppy.sh/users/6857841)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=xatn-BXpMho&t=22857) |
+| [karayss](https://osu.ppy.sh/users/7156634) ::{ flag=RU }:: | 4 | **5** | ::{ flag=RU }:: **[timebuka](https://osu.ppy.sh/users/6857841)** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=fIpS-LFpB7w&t=13209) |
 
 *Fun fact: the osu!mania 7K tournament had more tiebreaker matches than all other game modes combined, including osu!.*
 
