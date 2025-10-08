@@ -4,13 +4,13 @@ title: "Moscow osu! Event 2025 Recap"
 date: 2025-09-30 14:00:00 +0000
 ---
 
-The third iteraton of Moscow osu! Event, the largest osu! event in Russia, took place between July, 25-27th, featuring a total of 5 tournaments for each gamemode, a cosplay show, and more!
+The third iteraton of the Moscow osu! Event, the largest osu! event in Russia, took place between July, 25–27th, featuring a total of 5 tournaments for each game mode, a cosplay show, and more!
 
 ![](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/moe25-banner.jpg)
 
-This year’s Moscow osu! Event took place at Mosproducer, a concert hall situated at the center of Moscow, Russia.
+This year's Moscow osu! Event took place at Mosproducer, a concert hall situated at the centre of Moscow, Russia.
 
-[See the Russian version of this article here](https://play-osu.ru/?p=124)
+[See the Russian version of this article here!](https://play-osu.ru/?p=124)
 
 ## Activities
 
@@ -18,21 +18,21 @@ This year’s Moscow osu! Event took place at Mosproducer, a concert hall situat
 
 A cosplay show was organised during the event, allowing anyone to show themselves as their favourite (or funny) character. All participants' cosplays were also judged by event organisers, choosing these works as the best ones:
 
-**1st place** - ::{ flag=RU }:: **myfk** cosplaying Rin Kaenbyou from Touhou Project. Her ribbon show during show shocked everyone, immediately proving that she deserves that first place.
+**1st place** - ::{ flag=RU }:: **myfk** cosplaying Rin Kaenbyou from the *Touhou Project*. Her ribbon show during the event shocked everyone, immediately proving that she deserves that first place.
 
 ![Cosplay 1st place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-1.jpg)
 
-**2nd place** - ::{ flag=RU }:: **[ksuenoot](https://osu.ppy.sh/users/5069845)**, a winner of last year cosplay show, with a cosplay of Burnice from Zenless Zone Zero. She became the only person getting to top 3 cosplays for 2 consecutive years.
+**2nd place** - ::{ flag=RU }:: **[ksuenoot](https://osu.ppy.sh/users/5069845)**, a winner of last year's cosplay show, with a cosplay of Burnice from *Zenless Zone Zero*. She became the only person to reach the top 3 in the cosplay shows for 2 consecutive years.
 
 ![Cosplay 2nd place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-2.jpg)
 
-**3rd place** - a joint collab between ::{ flag=RU }:: **[Graja_1](https://osu.ppy.sh/users/38171011)** & ::{ flag=RU }:: **[Wise-holo](https://osu.ppy.sh/users/34233389)**, cosplaying Touhou Project's Nazrin, the leader of a great number of mice, and a big mouse itself!
+**3rd place** - a joint collab between ::{ flag=RU }:: **[Graja_1](https://osu.ppy.sh/users/38171011)** & ::{ flag=RU }:: **[Wise-holo](https://osu.ppy.sh/users/34233389)**, cosplaying *Touhou Project*'s Nazrin, the leader of a great number of mice, and a big mouse itself!
 
 ![Cosplay 3rd place](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/cosplay-3.jpg)
 
 ### Gaming booth
 
-A dedicated gaming booth was set up for all osu! players where they could play a VR game Beat Saber, Taiko no Tatsujin, and, well... osu!
+A dedicated gaming booth was set up for all osu! players where they could play *Beat Saber*, *Taiko no Tatsujin*, and, well... osu!
 
 There also were some merchandise booths with different stickers, t-shirts, keyboards, and more.
 
@@ -48,7 +48,7 @@ Everyone had a quest book with more than 50 different tasks to do — the more a
 
 ## Main tournament
 
-**Tournament bracket: [Moscow osu! Event 2025 - Main Event](https://challonge.com/ru/moe2025)**
+**[View the tournament bracket here!](https://challonge.com/ru/moe2025)**
 
 Now we get to the most interesting part — the main tournament contained 16 players:
 
@@ -58,7 +58,7 @@ Now we get to the most interesting part — the main tournament contained 16 pla
 - ::{ flag=RU }:: [11iq pleer](https://osu.ppy.sh/users/13206785), ::{ flag=RU }:: [BJIADOC](https://osu.ppy.sh/users/17031854), ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=RU }:: [GodRoPoNiKa](https://osu.ppy.sh/users/11195861) from the Closed Qualifier
 - ::{ flag=KZ }:: [nejzha](https://osu.ppy.sh/users/8105138), ::{ flag=BY }:: [Vudek](https://osu.ppy.sh/users/8816345) as the wildcard attendees!
 
-The tournament had a single-elimination bracket and began from Round of 16.
+The tournament had a single-elimination bracket and began from a Round of 16.
 
 ### Match highlights
 
@@ -67,20 +67,20 @@ The tournament had a single-elimination bracket and began from Round of 16.
 **[View the match information here!](https://osu.ppy.sh/community/matches/118776739)**\
 **[View the match VOD here! (Russian commentary)](https://youtube.com/watch?v=dR9aCY2Bq4w&t=2870)**
 
-The first match of the tournament, unlike most of viewers expectations, became the first (and only) match that went up to tiebreaker!
+The first match of the tournament, unlike most of the viewers' expectations, became the first (and only) match that went up to tiebreaker!
 
-::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) was very good with his speed picks, as well as the flow stream one. ::{ flag=RU }:: [BJIADOC](https://osu.ppy.sh/users/17031854), on the other hand, showed himself well on the snap alt and hidden mod picks, with HD3 being the only close map (14,627 points difference!) up until the tiebreaker. The tiebreaker itself was even closer though, but with a total difference of 13,725 points, ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) managed to win and advance to the next stage!
+::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) was very good with his speed picks, as well as the flow stream one. ::{ flag=RU }:: [BJIADOC](https://osu.ppy.sh/users/17031854), on the other hand, showed himself well on the snap alt and Hidden mod picks, with HD3 being the only close map (14,627-point difference!) up until the tiebreaker. The tiebreaker itself was even closer, but with a total difference of 13,725 points, ::{ flag=RU }:: [Lexu2S](https://osu.ppy.sh/users/8251785) managed to win and advance to the next stage!
 
 #### ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) vs ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867)
 
 **[View the match information here!](https://osu.ppy.sh/community/matches/118799095)**\
 **[View the match VOD here! (Russian commentary)](https://youtube.com/watch?v=fIpS-LFpB7w&t=35337)**
 
-The final match of the tournament. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867), being the runner-up for the last 2 iterations of MOE, now gets a third chance to win the tournament. And even though ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) was not getting this far before and actually losing to ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) last year, he still has high chances to win this tournament as well.
+The final match of the tournament. ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867), the runner-up for the last 2 iterations of MOE, now got a third chance to win the tournament. On the other end, even though ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) hadn't got this far before and actually lost to ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) last year, he also was a high contender to win it all this time.
 
-The first half of the match went pretty straightforward: both players were easily taking their picks up until the score of 3-3. After that, something went wrong and 3 breakpoints have happened in a row, getting the score to 4-5. The last map was picked by ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) and won by him as well!
+The first half of the match went pretty straightforward: both players were easily taking their picks up until the score of 3–3. After that, something went wrong and 3 break points have happened in a row, getting the score to 4–5 in favour of ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867), leaving him with a pick at match point.
 
-With a score of 6-4, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) won Moscow osu! Event for the first time, breaking his second place curse. His performance during the whole tournament was astonishing, making him one of the best Russian players without a doubt!
+In the end, with a score of 6–4, ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) got the last point and won Moscow osu! Event for the first time, breaking his second-place curse. His performance during the whole tournament was astonishing, making him one of the best Russian players without a doubt!
 
 ![Tournament winner (Welter)](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/welter_prize.jpg)
 
@@ -122,7 +122,7 @@ The osu!mania 4K tournament featured ::{ flag=RU }:: [-Oni-Chan-](https://osu.pp
 
 ### osu!mania 7K
 
-The osu!mania 7K tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.sh/users/7156634), ::{ flag=RU }:: [PhobosX](https://osu.ppy.sh/users/2570019), ::{ flag=RU }:: [timebuka](https://osu.ppy.sh/users/6857841), and ::{ flag=RU }:: [X_Devil](https://osu.ppy.sh/users/6694908); two of them were in the [osu!mania 7K World Cup 2025](/wiki/Tournaments/MWC/2025_7K)!!
+The osu!mania 7K tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.sh/users/7156634), ::{ flag=RU }:: [PhobosX](https://osu.ppy.sh/users/2570019), ::{ flag=RU }:: [timebuka](https://osu.ppy.sh/users/6857841), and ::{ flag=RU }:: [X_Devil](https://osu.ppy.sh/users/6694908), with two of them coming straight from the [osu!mania 7K World Cup 2025](/wiki/Tournaments/MWC/2025_7K)!!
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
@@ -134,7 +134,7 @@ The osu!mania 7K tournament featured ::{ flag=RU }:: [karayss](https://osu.ppy.s
 
 ---
 
-More than **450** people visited Moscow osu! Event 2025, with **51** individual contributors and staff members making sure everything goes smooth. We are very grateful to all participants and hope that next iterations will be even bigger and bring even more fun! Make sure to follow Moscow osu! Event's [Discord server](https://discord.gg/7GJvD9uyV7), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent), or [VK](https://vk.com/moscowosuevent), so that you don't miss the next iteration!
+More than **450** people visited Moscow osu! Event 2025, with **51** individual contributors and staff members making sure everything went smoothly. We are very grateful to all participants and hope that the next iteration will be even bigger and bring even more fun! Make sure to follow Moscow osu! Event's [Discord server](https://discord.com/invite/7GJvD9uyV7), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent), or [VK](https://vk.com/moscowosuevent), so that you don't miss the next iteration!
 
 ![MOE2025 attendees megacollab](/wiki/shared/news/2025-09-30-moscow-osu-event-2025-recap/megacollab.jpg)
 
