@@ -156,19 +156,19 @@ Currently, the Traceable mod shares bonuses with Hidden so all changes will appl
 
 ## osu!taiko
 
-### Rhythm object-snapping fix
+### Steeper accuracy scaling & rhythm penalties
 
-A [change](https://github.com/ppy/osu/pull/33403) proposed by [ltca](https://osu.ppy.sh/users/11475208) and [BabySnakes](https://osu.ppy.sh/users/4669728) was made in order to fix an issue with object "unsnapping" unfairly buffing rhythm difficulty.
+A [change](https://github.com/ppy/osu/pull/34188) proposed by [rloseise](https://osu.ppy.sh/users/6793778) was made to replace existing accuracy calculations with a steeper formula. This means differences in accuracy now have a larger effect on PP.
 
-Prior to this fix, objects placed 1-5ms off of their intended timing would be treated as entirely new rhythms. These patterns would be played identically, however the system incorrectly saw these as constant, complex rhythm changes and would inflate star rating as a result. In some extreme cases, this caused inflation upwards of 2*.
+To reward high accuracy on harder beatmaps, the SR bonus in accuracy PP now diminishes as the estimated unstable rate increases:
 
-This fix works by normalising times between objects within a certain tolerance, meaning that 1ms unsnaps will be normalised to the same time and treated as the same rhythm. For maps not abusing this problem, this change has minimal effects.
+![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-accuracy-scaling.png)
 
-### Stamina length bonus fix
+Additionally, higher estimated unstable rates will diminish the rhythm difficulty contribution to PP. This addresses scores which sacrifice accuracy in order to ignore hard rhythms and play them as much easier ones. This penalty scales by how much of the beatmap's difficulty is made up by difficult rhythm, meaning beatmaps without much rhythm difficulty are mostly unaffected. In order to balance alongside this change, rhythm as a whole was buffed and rhythmically complex beatmaps will have a higher SR than before.
 
-A [change](https://github.com/ppy/osu/pull/33380) proposed by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to fix high-end stamina values causing a harsh jump in length bonus.
+This is how the rhythm penalty looks on [MAX - Checklist (feat. Chromeo) [123 // abc]](https://osu.ppy.sh/beatmapsets/2155487#taiko/4543374) (a significantly rhythmically complex beatmap):
 
-For very difficult maps with a lot of stamina difficulty, the length bonus would previously spike by about 0.2* when reaching a specific threshold value. Length bonus has been rewritten to scale linearly as stamina difficulty increases to prevent harsh increases.
+![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-rhythm-penalty.png)
 
 ### Length bonus revamp
 
@@ -186,19 +186,13 @@ The new miss penalty is *also* scaled by a weighted object count depending on ho
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-miss-penalty.png)
 
-### Steeper accuracy scaling & rhythm penalties
+### Rhythm object-snapping fix
 
-A [change](https://github.com/ppy/osu/pull/34188) proposed by [rloseise](https://osu.ppy.sh/users/6793778) was made to replace existing accuracy calculations with a steeper formula. This means differences in accuracy now have a larger effect on PP.
+A [change](https://github.com/ppy/osu/pull/33403) proposed by [ltca](https://osu.ppy.sh/users/11475208) and [BabySnakes](https://osu.ppy.sh/users/4669728) was made in order to fix an issue with "unsnapped" objects unfairly buffing rhythm difficulty.
 
-To reward high accuracy on harder beatmaps, the SR bonus in accuracy PP now diminishes as the estimated unstable rate increases:
+Prior to this fix, objects placed 1-5ms off of their intended timing would be treated as entirely new rhythms. These patterns would be played identically, however the system incorrectly saw these as constant, complex rhythm changes and would inflate star rating as a result. In some extreme cases, this caused inflation upwards of 2*.
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-accuracy-scaling.png)
-
-Additionally, higher estimated unstable rates will diminish the rhythm difficulty contribution to PP. This addresses scores which sacrifice accuracy in order to ignore hard rhythms and play them as much easier ones. This penalty scales by how much of the beatmap's difficulty is made up by difficult rhythm, meaning beatmaps without much rhythm difficulty are mostly unaffected. In order to balance alongside this change, rhythm as a whole was buffed and rhythmically complex beatmaps will have a higher SR than before.
-
-This is how the rhythm penalty looks on [MAX - Checklist (feat. Chromeo) [123 // abc]](https://osu.ppy.sh/beatmapsets/2155487#taiko/4543374) (a significantly rhythmically complex beatmap):
-
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-rhythm-penalty.png)
+This fix works by normalising times between objects within a certain tolerance, meaning that 1ms unsnaps will be normalised to the same time and treated as the same rhythm. For maps not abusing this problem, this change has minimal effects.
 
 ### Colour penalty fix
 
@@ -206,11 +200,17 @@ A [change](https://github.com/ppy/osu/pull/33641) proposed by [ltca](https://osu
 
 Colour difficulty contains a penalty for long patterns with no rhythm changes, but this penalty would only apply if the pattern's rhythm was *exactly* the same. This was addressed by looking back at previous notes and calculating an average, so that slightly missnapped notes are still correctly penalised.
 
+### Stamina length bonus fix
+
+A [change](https://github.com/ppy/osu/pull/33380) proposed by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to fix high-end stamina values causing a harsh jump in length bonus.
+
+For very difficult maps with a lot of stamina difficulty, the length bonus would previously spike by about 0.2* when reaching a specific threshold value. Length bonus has been rewritten to scale linearly as stamina difficulty increases to prevent harsh increases.
+
 ### Minor changes
 
 - A [fix](https://github.com/ppy/osu/pull/33635) by [ltca](https://osu.ppy.sh/users/11475208) to ensure the mono length bonus cannot cause an increase in SR when removing notes
 - A [fix](https://github.com/ppy/osu/pull/34829) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure 0-strain maps cannot crash difficulty calculations
-- A [change](https://github.com/ppy/osu/pull/34089) by [rloseise](https://osu.ppy.sh/users/6793778) to reduce the PP bonus for HD on scores set in osu!(lazer) due to it having a wider aspect ratio
+- A [change](https://github.com/ppy/osu/pull/34089) by [rloseise](https://osu.ppy.sh/users/6793778) to reduce the PP bonus for HD on scores set in osu!(lazer) due to its wider aspect ratio making fast reading easier
 - A [change](https://github.com/ppy/osu/pull/33415) by [rloseise](https://osu.ppy.sh/users/6793778) to remove static nerfs for the EZ mod
 - A [change](https://github.com/ppy/osu/pull/33500) by [rloseise](https://osu.ppy.sh/users/6793778) to change how difficulty and accuracy PP are summed
 - A [change](https://github.com/ppy/osu/pull/34962) by [rloseise](https://osu.ppy.sh/users/6793778) to rebalance final values to meet community expectations 
