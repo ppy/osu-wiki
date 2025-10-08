@@ -176,7 +176,7 @@ A [change](https://github.com/ppy/osu/pull/33582) proposed by [rloseise](https:/
 
 Previously, the length bonus was applied based on the number of objects in the map and would reach its maximum bonus at 1500 objects. Length bonus now scales by a weighted object count depending on how consistently difficult the beatmap is, gradually converging towards a maximum bonus rather than ending abruptly:
 
-<!-- graph -->
+![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-length-bonus.png)
 
 ### Miss penalty changes
 
@@ -184,7 +184,7 @@ A [change](https://github.com/ppy/osu/pull/33409) proposed by [rloseise](https:/
 
 The new miss penalty is *also* scaled by a weighted object count depending on how consistently difficult the beatmap is, meaning frequent misses on less consistent beatmaps are punished more than misses on more consistent beatmaps:
 
-<!-- graph -->
+![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-miss-penalty.png)
 
 ### Steeper accuracy scaling & rhythm penalties
 
