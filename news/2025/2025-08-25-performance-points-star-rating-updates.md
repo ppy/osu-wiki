@@ -141,6 +141,7 @@ Currently, the Traceable mod shares bonuses with Hidden so all changes will appl
 - A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that slider breaks are not awarded in impossible combo scenarios
 - A [fix](https://github.com/ppy/osu/pull/34065) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure OD accounts for osu!(lazer)'s updated hit windows
 - A [fix](https://github.com/ppy/osu/pull/33110) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure slider break estimations cannot produce an impossibly high number of slider breaks
+- A [fix](https://github.com/ppy/osu/pull/32790) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure rhythm uses the correct time between objects
 - A [fix](https://github.com/ppy/osu/pull/34877) by [StanR](https://osu.ppy.sh/users/7217455) to ensure rhythm difficulty is reduced for doubletappable patterns
 - A [change](https://github.com/ppy/osu/pull/33640) by [tsunyoku](https://osu.ppy.sh/users/11315329) to rebalance final values to meet community expectations
 - A [change](https://github.com/ppy/osu/pull/32634) by [Finadoggie](https://osu.ppy.sh/users/14182048) to ensure slider accuracy bonuses are given to the ScoreV2 mod
