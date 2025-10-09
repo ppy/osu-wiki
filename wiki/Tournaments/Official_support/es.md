@@ -7,6 +7,8 @@ tags:
   - insignias
   - torneo con insignia
   - torneos con insignias
+outdated_translation: true
+outdated_since: 0707fb458685ccd54961b44a8bfbed2f0414240e
 ---
 
 # Soporte oficial para torneos

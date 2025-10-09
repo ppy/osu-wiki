@@ -114,14 +114,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ## Podium
 
-![](img/mwc4k2025-podium.jpg "MWC 4K 2025 podium")
+![](img/mwc4k2025-podium.jpg?2 "MWC 4K 2025 podium")
 
 ## Mappools
 
 ### Grand Finals
 
 **[Download the mappack here (225 MB)](https://packs.ppy.sh/P300%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2572536973?t=0h4m57s)
+[View the showcase VOD here](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=18030)
 
 - Rice
   1. [LUZE - !!! IMPULSIVE \<!!\> WAVE !!! (Valedict) \[VERMILLION SCOURGE\]](https://osu.ppy.sh/beatmapsets/2438724#mania/5318853)
@@ -291,13 +291,13 @@ Friday, 26 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| China ::{ flag=CN }:: | 2 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119382377) | [#1](https://www.twitch.tv/videos/2576159866?t=0h2m40s) |
+| China ::{ flag=CN }:: | 2 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119382377) | [#1](https://www.youtube.com/watch?v=tcghUyikz7I&t=165) |
 
 Sunday, 28 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **United States** ::{ flag=US }:: | **7** | 3 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/119401981) | [#1](https://www.twitch.tv/videos/2577758329?t=4m57s) |
+| **United States** ::{ flag=US }:: | **7** | 3 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/119401981) | [#1](https://www.youtube.com/watch?v=tcghUyikz7I&t=4531) |
 
 ### Finals
 
@@ -307,15 +307,15 @@ Saturday, 20 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| United Kingdom ::{ flag=GB }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119326552) | [#1](https://www.twitch.tv/videos/2571139095?t=0h4m54s) |
-| China ::{ flag=CN }:: | 6 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/119328425) | [#1](https://www.twitch.tv/videos/2571250429?t=0h0m19s) |
-| Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119329381) | [#1](https://www.twitch.tv/videos/2571250429?t=1h31m38s) |
+| United Kingdom ::{ flag=GB }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119326552) | [#1](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=9989) |
+| China ::{ flag=CN }:: | 6 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/119328425) | [#1](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=10) |
+| Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119329381) | [#1](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=5500) |
 
 Sunday, 21 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Thailand ::{ flag=TH }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119337967) | [#1](https://www.twitch.tv/videos/2571995965?t=0h4m47s) |
+| Thailand ::{ flag=TH }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119337967) | [#1](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=14254) |
 
 ### Semifinals
 
