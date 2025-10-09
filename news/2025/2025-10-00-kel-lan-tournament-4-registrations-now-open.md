@@ -13,6 +13,7 @@ KEL4 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gd
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/4x2NDy4LuYQ" frameborder="0" allowfullscreen></iframe>
 </div>
+<!-- trailer made by patch ^ -->
 
 [Signups](signupslink) are now open and will run until the **11th of January 2026**, and the Qualifiers will take place online between **12th–26th January**.
 
