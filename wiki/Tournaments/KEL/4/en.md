@@ -7,7 +7,7 @@ tags:
 
 # KEL LAN Tournament 4
 
-![KEL LAN Tournament 4](img/kel4-banner.png)
+![KEL LAN Tournament 4](img/kel4-banner.jpg)
 
 **KEL LAN Tournament 4** is a 1v1 multi-bracket LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988) and ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016). It's the fourth instalment of the KEL LAN Tournament series.
 
