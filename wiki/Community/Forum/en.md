@@ -11,7 +11,7 @@ tags:
 
 [The osu! **forums**](https://osu.ppy.sh/community/forums) are a place for conversations where messages are grouped by subjects, and no quick response is expected. The discussions are searchable, stored forever, and may be revisited at any time, which makes them different from the near-instant messages in [osu! chat](/wiki/Community/Internet_Relay_Chat). As a result, forum messages are longer, contain more information, and typically provide more details than chat messages would.
 
-The osu! forums provide features similar to most internet forums: [BBCode](/wiki/BBCode) markup, polls, pins and subscriptions, private messages, and [moderation](#moderation).
+The osu! forums provide features similar to most internet forums: [BBCode](/wiki/BBCode) markup, polls, pins and subscriptions, and [moderation](#moderation).
 
 ## Structure
 
@@ -52,4 +52,4 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 - [Help](/wiki/Community/Forum/Help) and [Feature Requests](/wiki/Community/Forum/Feature_Requests) forums
 - [osu!supporter](/wiki/osu!supporter) and user pages
 
-After the new osu! website was brought up and running, phpBB had been slowly phased out in favour of the custom forum engine used today.
+After the new osu! website was brought up and running, phpBB had been slowly phased out in favour of the custom forum engine used today. Along with the deprecation of the phpBB forum system, forum PMs were phased out.
