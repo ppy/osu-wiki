@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: c2f4dd7e243fd72da894f8ac3fcb3c54616a6f3d
----
-
 # Criterios de clasificación
 
 Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
@@ -156,7 +151,10 @@ Importante entender antes de usar:
 
 - **El archivo de audio y los archivos de hitsounds de un beatmap no deben presentar distorsiones de sonido audibles e injustificadas**, como recortes, silenciamientos o crujidos que claramente no han sido intencionados por el artista ni forman parte de la identidad de la canción. Esto se determina mejor escuchando el audio que usando un programa informático.
 - **El archivo de audio de una canción no debe ampliarse artificialmente con el fin de cumplir con una limitación de tiempo en la sección de beatmap de estos criterios.** Esto puede incluir (pero no se limita a) la reproducción en bucle de secciones del archivo de audio, reducir los [BPM](/wiki/Music_theory/Tempo) de la canción o de una sección de esta o la adición de pequeñas cantidades de música a la canción sin incorporarla a lo largo de la canción. Esto no se aplica a las [compilaciones de canciones](/wiki/Beatmap/Song_compilation) o archivos de audio de menos de la longitud mínima del beatmap clasificable.
-- **Si el final del beatmap dura más del 20% del archivo de audio del beatmap, deberás cortarlo.** No se incluye la introducción. Esto no se aplica si más del 20% de la outro está ocupado por un storyboard/vídeo o si más del 20% del audio de la canción no se puede mapear debido a un fundido de salida o a problemas de temporización.
+- **Si no mapeas el último 20 % del archivo de audio de tu beatmap, deberás cortarlo.**
+  - Esto no se aplica si...
+    - el final está ocupado por un vídeo o un storyboard.
+    - mapear el final daría lugar a una mala experiencia de juego, como problemas de desvanecimiento o temporización.
 - **Las [compilaciones de canciones](/wiki/Beatmap/Song_compilation) u otras pistas tipo popurrí deben mezclarse limpiamente con transiciones adecuadas, y no deben incluir pausas bruscas ni fundidos largos entre diferentes canciones.** Las canciones usadas para la compilación deben ser similares en cuanto a calidad de audio, volumen y duración. Esto es para garantizar que las compilaciones ofrezcan la misma experiencia de juego que otros beatmaps. Las transiciones cruzadas son aceptables, pero deben usarse con moderación y, por lo general, no deben durar más de 5 segundos. Las transiciones con el mismo ritmo y bien planificadas son siempre una mejor opción que el fundido cruzado.
 - **La combinación de 2 canciones deben estar claramente y estrechamente relacionadas.** Ejemplos de esto incluye, pero no se limita a, que sean iteraciones de la misma serie de canciones, que estén relacionadas en letra o motivos, que sean similares en tono y/o género, etc.
 - **Las canciones cortadas deben mantener la impresión general y la intensidad de la canción completa.** Los cortes que cambien la estructura de la canción completa (como excluir o reorganizar la introducción/verso/estribillo/outro de una canción) pueden dar lugar a una representación errónea de la misma y, a menudo, provocar experiencias de jugabilidad insatisfactorias. Esto no se aplica a los cortes oficiales ni a las recreaciones de cortes oficiales.
@@ -173,7 +171,7 @@ Importante entender antes de usar:
   - **Altura mínima**: 120 px
   - **Ancho máximo**: 2560 px[^maximum-dimensions]
   - **Altura máxima**: 1440 px[^maximum-dimensions]
-  - **Tamaño máximo del archivo**: 2.5 MB
+  - **Tamaño máximo del archivo**: 2,5 MB
 - **Las dimensiones de un vídeo no deben superar un ancho de 1280 y una altura de 720 píxeles.** Además, debe evitarse la conversión de vídeos de baja resolución a una resolución superior. Así se evita que los archivos de vídeo sean excesivamente grandes o consuman demasiados recursos.
 - **El vídeo debe estar codificado en H.264.**
 - **El desplazamiento de un vídeo debe ser correcto si se sincroniza con la canción.** Un desplazamiento incorrecto puede dar lugar a una representación visual engañosa de la canción. Si el mismo vídeo aparece en varias dificultades, debe tener siempre el mismo desplazamiento.

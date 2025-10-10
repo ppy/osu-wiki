@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: a07748116d4fd20ae4812da3a2f9eae5c2057aec
----
-
 # Diferencias de jugabilidad en osu!(lazer)
 
 *Para una lista comparativa de características entre lazer y stable, véase [Centro de ayuda/Actualizar a lazer § Comparación de características](/wiki/Help_centre/Upgrading_to_lazer#comparación-de-características)*
@@ -38,7 +33,7 @@ Mientras tanto, osu!(lazer) ahora tiene los siguientes requisitos:
 
 | Grado | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
-| SS | 100 % | 100 % | 100 % |
+| SS | 100 % | 100 % | Todos los [juicios](/wiki/Gameplay/Judgement/osu!mania) GREAT o PERFECT |
 | S | ≥95 % (sin fallos) | ≥98 % | ≥95 % |
 | A | ≥90 % | ≥94 % | ≥90 % |
 | B | ≥80 % | ≥90 % | ≥80 % |
@@ -50,23 +45,6 @@ Mientras tanto, osu!(lazer) ahora tiene los siguientes requisitos:
 | Reversible usando el mod Classic | ![No][false] |
 | Cambiado intencionalmente | ![Sí][true] |
 | Necesita más consideración | ![No][false] |
-
-### Los cálculos de los límites de las ventanas de tiempo no coinciden con stable
-
-Cuando un golpe aterriza justo en el límite de la ventana de tiempo, se puede recibir un juicio diferente dependiendo de la versión del cliente.
-
-| Modo de juego | Comparación (stable) | Comparación (lazer) | Comparación (repetición en lazer) |
-| :-- | :-- | :-- | :-- |
-| osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`, excepto por la ventana de fallo la cual usa `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-
-|  |  |
-| :-- | :-: |
-| Daña la retrocompatibilidad | ![Sí][true] |
-| Reversible usando el mod Classic | ![No][false] |
-| Cambiado intencionalmente | ![Sí][true] |
-| Necesita más consideración | ![Sí][true] |
 
 ### Diferencias en el sistema de puntuación
 
@@ -312,18 +290,7 @@ Esto solía resultar en ±16 ms constantes independientemente de la dificultad g
 |  |  |
 | :-- | :-: |
 | Daña la retrocompatibilidad | ![Sí][true] |
-| Reversible usando el mod Classic | ![No][false] |
-| Cambiado intencionalmente | ![Sí][true] |
-| Necesita más consideración | ![No][false] |
-
-### Los beatmaps convertidos ya no tienen una ventana de tiempo diferente
-
-En stable, los beatmaps convertidos desde el modo de juego osu! a osu!mania tenían una [ventana de tiempo diferente](/wiki/Gameplay/Judgement/osu!mania).
-
-|  |  |
-| :-- | :-: |
-| Daña la retrocompatibilidad | ![Sí][true] |
-| Reversible usando el mod Classic | ![No][false] |
+| Reversible usando el mod Classic | ![Sí][true] |
 | Cambiado intencionalmente | ![Sí][true] |
 | Necesita más consideración | ![No][false] |
 
