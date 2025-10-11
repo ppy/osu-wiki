@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/gf)**
 
-- Nomod
+- No Mod
   1. [t+pazolite - Bad Boy's missa (DoKito) [DoKo]](https://osu.ppy.sh/beatmapsets/408820#osu/887621)
   2. [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) [Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - Original]](https://osu.ppy.sh/beatmapsets/1312054#osu/2719283)
   3. [Seastar - Made out of Fire (Mijn Aim Zuigt) [The flame that burns]](https://osu.ppy.sh/beatmapsets/2261386#osu/4813193)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/f)**
 
-- Nomod
+- No Mod
   1. [t+pazolite - Elder Dragon Legend (PaRaDogi) [Dogistyle]](https://osu.ppy.sh/beatmapsets/2257935#osu/4804514)
   2. [Brymir - Pantheon of Forsaken Gods (LMT) [Hideous Divinity]](https://osu.ppy.sh/beatmapsets/1633210#osu/3333669)
   3. [Machine Girl - Infinite Potentiality (Cut Ver.) (rnuxk) [extraordinaire]](https://osu.ppy.sh/beatmapsets/1719598#osu/3514241)
