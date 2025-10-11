@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2025 Fanart Contest: Voting Open"
-date: 2025-10-11 10:00:00 +0000 
+date: 2025-10-11 14:00:00 +0000
 ---
 
 The Eve of Hallows is drawing near, and by near we mean more like three weeks away.
