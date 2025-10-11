@@ -8,7 +8,7 @@ Artcore is a staple of rhythm game music, and few make it with the same skill as
 
 ![](https://assets.ppy.sh/artists/506/header.jpg)
 
-After discovering *Feryquitous*'s sound (the track "Strahv" specifically), along with *An*'s "Xhroria", **BrayanKitsn** began producing their own brand of emotional electronic music, eventually drawing more influence from artists like *Sakuzyo*, [*Street*](https://osu.ppy.sh/beatmaps/artists/89), and [*ak+q*](https://osu.ppy.sh/beatmaps/artists/466).
+After discovering tracks like *Feryquitous*'s "Strahv" and *An*'s "Xhroria", **BrayanKitsn** began producing their own brand of emotional electronic music, eventually drawing more influence from artists like *Sakuzyo*, [*Street*](https://osu.ppy.sh/beatmaps/artists/89), and [*ak+q*](https://osu.ppy.sh/beatmaps/artists/466).
 
 A grand total of **14** tracks can now be found on [**BrayanKitsn**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/506)!
 
