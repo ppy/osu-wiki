@@ -126,7 +126,7 @@ The National Dutch Championship 2025 was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-![](img/podium.png "NDC 2025 results")
+![](img/podium.jpg "NDC 2025 results")
 
 ## Mappools
 
