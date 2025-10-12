@@ -25,7 +25,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 #### Guidelines
 
 - **All [fruits](/wiki/Gameplay/Hit_object/Fruit) should represent a sound existing in the music.** This is usually a distinct sound but can also represent a continuous sound with an indistinguishable start or end.
-- **The last [fruit](/wiki/Gameplay/Hit_object/Fruit) of a [slider](/wiki/Gameplay/Hit_object/Juice_stream) should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** For example, if the song is using a straight beat, 1/4, 1/8 or 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used.
+- **The last [fruit](/wiki/Gameplay/Hit_object/Fruit) of a [slider](/wiki/Gameplay/Hit_object/Juice_stream) should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** For example, if the song is using a straight beat, 1/4, 1/8, or 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used.
 - **[Dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) should not be used when the destination of the dash or hyperdash is located near the left or right border of the playfield.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield (x:16 on the left and x:496 on the right).
 - **[Combos](/wiki/Beatmapping/Combo) should not reach unreasonable lengths.** This ensures the player's view is not obstructed by the [fruits](/wiki/Gameplay/Hit_object/Fruit) stacked on the plate.
 - The **[overall difficulty](/wiki/Beatmap/Overall_difficulty) should have the same value as the [approach rate](/wiki/Beatmap/Approach_rate).** This is just a standardised value, as overall difficulty only affects the maximum score of a difficulty with [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch).
@@ -83,7 +83,7 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 
 #### Difficulty setting guidelines
 
-- [Approach rate](/wiki/Beatmap/Approach_rate) / [Overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 6 or lower.
+- [Approach rate](/wiki/Beatmap/Approach_rate) / [overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 6 or lower.
 - [HP drain rate](/wiki/Beatmap/HP_drain_rate) should be between 2 and 3.
 - [Circle size](/wiki/Beatmap/Circle_size) should be 2.5 or lower.
 
@@ -109,7 +109,7 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 
 #### Difficulty setting guidelines
 
-- [Approach rate](/wiki/Beatmap/Approach_rate) / [Overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 7 or lower.
+- [Approach rate](/wiki/Beatmap/Approach_rate) / [overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 7 or lower.
 - [HP drain rate](/wiki/Beatmap/HP_drain_rate) should be between 3 and 4.
 - [Circle size](/wiki/Beatmap/Circle_size) should be 3 or lower.
 
@@ -139,7 +139,7 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 
 #### Difficulty setting guidelines
 
-- [Approach rate](/wiki/Beatmap/Approach_rate) / [Overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 8 or lower.
+- [Approach rate](/wiki/Beatmap/Approach_rate) / [overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 8 or lower.
 - [HP drain rate](/wiki/Beatmap/HP_drain_rate) should be between 4 and 5.
 - [Circle size](/wiki/Beatmap/Circle_size) should be 3.5 or lower.
 
@@ -166,7 +166,7 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 
 #### Difficulty setting guidelines
 
-- [Approach rate](/wiki/Beatmap/Approach_rate) / [Overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 9 or lower.
+- [Approach rate](/wiki/Beatmap/Approach_rate) / [overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 9 or lower.
 - [HP drain rate](/wiki/Beatmap/HP_drain_rate) should be between 5 and 6.
 - [Circle size](/wiki/Beatmap/Circle_size) should be 4 or lower.
 
@@ -183,7 +183,7 @@ Difficulty-specific rules and guidelines only apply to the difficulty level they
 
 #### Difficulty setting guidelines
 
-- [Approach rate](/wiki/Beatmap/Approach_rate) / [Overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 9 or higher.
+- [Approach rate](/wiki/Beatmap/Approach_rate) / [overall difficulty](/wiki/Beatmap/Overall_difficulty) should be 9 or higher.
 - [HP drain rate](/wiki/Beatmap/HP_drain_rate) should be 5 or higher.
 - [Circle size](/wiki/Beatmap/Circle_size) should be 4 or higher.
 
