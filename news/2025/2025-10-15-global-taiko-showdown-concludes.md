@@ -90,21 +90,49 @@ MGTS featured a line-up of three songs, of which two had to be mapped. The conte
 
 ### cavoe's osu! event's Global Taiko Showdown 2025
 
-The 2023 edition of COEGTS already undertook the ridiculous task of having two mappools made exclusively out of songs composed for the event. The 2025 edition did it again, but because introducing all 26 songs would make this news post drag on for too long, only one song will be presented here: the final song released for a Global Taiko Showdown event, the Main Mappool Tiebreaker. Once again, we can only encourage you to support the effort of all of the artists involved in this gargantuan task by listening to their compositions and supporting them on their respective platforms.
+The 2023 edition of COEGTS already undertook the ridiculous task of having two mappools made exclusively out of songs composed for the event. The 2025 edition did it again, but because introducing all 26 songs would make this news post drag on for too long, only one song will be presented here: the final song released for a Global Taiko Showdown event: the Main Mappool Tiebreaker. Once again, we can only encourage you to support the effort of all of the artists involved in this gargantuan task by listening to their compositions and supporting them on their respective platforms.
 
 #### Main Mappool Tiebreaker
 
-**REAL SHIT BASTARDS**, the duo unit encompassing the talents of **4nzu** and **Supire**, undertook the effort of composing what would become an eight-minute long song which had to be the culmination of everything GTS-related. Under the direction of set host ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), 14 mappers were then tasked to make something out of that composition. The result is **MACHKINTV**, a 7.42 stars beatmap varying in styles coming from all over the world and ranging from 144 to 220 BPM. Mere words cannot describe this masterpiece of a song, so check it out yourself. Do not get jumpscared by the last few seconds, though. Do not say you were not warned.
+**[REAL SHIT BASTARDS](https://soundcloud.com/realshitbastards)**, the duo unit encompassing the talents of **[4nzu](https://soundcloud.com/4nzu2)** and **[Supire](https://soundcloud.com/nh_supaia)**, undertook the effort of composing what would become an eight-minute long song which had to be the culmination of everything GTS-related. Under the direction of mappooler and set host ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), 14 mappers were then tasked to make something out of that composition. The result is **MACHKINTV**, a 7.42 stars beatmap varying in styles coming from all over the world and ranging from 144 to 220 BPM. Mere words cannot describe this masterpiece of a song, so check it out yourself. Do not get jumpscared by the last few seconds, though. Do not say you were not warned.
 
-- [Listen to MACHKINTV here!](https://soundcloud.com/realshitbastards/machkintv)
-- [Check out the beatmap here!](https://osu.ppy.sh/beatmapsets/2410842#taiko/5234943)
+- **[Listen to MACHKINTV here!](https://soundcloud.com/realshitbastards/machkintv)**
+- **[Check out the beatmap here!](https://osu.ppy.sh/beatmapsets/2410842#taiko/5234943)**
 
 
 ## Best tournament moments
 
+Every tournament has its set of memorable or funny moments, impossible comebacks, down to the wire matches. GTS tournaments this year were not spared of these: let's take a look at a few of them.
+
+(yell at me (\_yosh) if i need to get the twitch links later, feel free to change things around i took the formatting for video files from a mwc recap newspost)
+
 ### Squad Global Taiko Showdown 2025
 
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://x.com/staff_gts/status/1936433041632588243" frameborder="0" allowfullscreen></iframe>
+
+In an early round clash between the new rising stars sailing from Japan and veteran figures from the same country, team **WAKASA LIFE** looked to secure their third point on their NoMod 3 pick [Lawn Wake IX](https://osu.ppy.sh/beatmapsets/966060#taiko/2691863) with a relatively comfortable 30k score lead, until ::{ flag=JP }:: [takumit25](https://osu.ppy.sh/users/16662508) missed an entire pattern at the end of the map! This would have certainly be a turning point in the match for team **MANIERA**... if not for ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) trading some of these misses on a poorly-negociated snap change. While there were less misses, it was just enough to keep a **569** score difference in favour of team **WAKASA LIFE**, who went on to not lose a single pick for the remainder of the match.
+
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://x.com/staff_gts/status/1946911568836362340" frameborder="0" allowfullscreen></iframe>
+
+Everything looked good for seed 2 team **IAAI** to secure their first pick on the Grand Finals NoMod 5 pick [Compute It With Some Devilish Alcoholic Steampunk Engines](https://osu.ppy.sh/beatmapsets/2403282#taiko/5212286)... until the client caught up, sending their narrow 353 points score lead over to team **Japan't**, with a final score difference of... **55**!
+
 ### cavoe's osu! event's Global Taiko Showdown 2025
+
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/gtsosu/clip/EasyBumblingEyeballPlanking-UgyZ5FIzfrX-vAu1" frameborder="0" allowfullscreen></iframe>
+
+Our only in-situation Tiebreaker playthrough was during the first round of matches. Players ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) and ::{ flag=FR }:: [Glassive](https://osu.ppy.sh/users/12453848), respectively seeded 7 and 10, traded blow for blow on stage and then had one final showdown on [MACHKINTV](https://osu.ppy.sh/beatmapsets/2410842#taiko/5234943) to determine who would move on to the next set of matches and who would be eliminated from the tournament. After clawing back an initial 20k points deficit, ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) eventually took the lead, but repeated misses traded by both players during a more technical section led to ::{ flag=FR }:: [Glassive](https://osu.ppy.sh/users/12453848) claiming a more decisive advantage amidst the chaos later on. See for yourself.
+
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/HotTriangularDragonfruitJKanStyle-nkBUjjd_JJ1D00fA" frameborder="0" allowfullscreen></iframe>
+
+::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) best showcased his HardRock proficiency by setting a seemingly otherworldly 7x100 full combo score on the HardRock 2 pick [The Ruthless Judgement by Mother Brain](https://osu.ppy.sh/b/5234914) against fellow Hard Rock enjoyer ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847) in the Semifinals round to secure his matchpoint. The scroll speed increase added by the HardRock mod, on top of a mechanically-intense map clocking at a whooping *245* BPM, makes this the score of the tournament, beyond the shadow of a doubt. Don't believe us? Check the clip above.
+
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/CloudyEphemeralGoshawkKappaWealth-T1MIYGriAzHPauQI" frameborder="0" allowfullscreen></iframe>
+
+In a neck-and-neck battle for the final podium spot, the eighth map of the match chosen by ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), [WE NEVER STOP THE BASS DROP (ft. Hanakuma Chifuyu)](https://osu.ppy.sh/b/5234373), featured as a Freemod 2 pick, saw a traditional HardRock versus Hidden battle against ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174). With a slight accuracy advantage, it looked like the American player would take the breakpoint, but a singular skipped finisher was just enough to be his undoing despite both players setting a full combo score on their respective mods, allowing the Northern Irish player to claim his fifth point of the match after dealing with the grueling 250 BPM section on HardRock at the end of the map. The score difference? **69**. Nice.
+
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/SourCrepuscularCamelItsBoshyTime-R6swqeJ-I2g_ZNKU" frameborder="0" allowfullscreen></iframe>
+
+Battling it out for the gold, ::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) and ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) took their intense brawl to the NoMod 4 pick, [EMWEN](https://osu.ppy.sh/b/5234779). The defending champion eventually took his second point of the match, beating out his challenger's score by **a mere 1x100**... which came from the *very last note* of the map! Additionally, out of four picks by this point in the match, this was the third time in a row that both players scored a full combo at the same time, settling points on accuracy or mod difference on Freemod picks *alone*. If this is not an indicator of a good match, we no longer know what is.
 
 ## Reflections/Commentary
 
