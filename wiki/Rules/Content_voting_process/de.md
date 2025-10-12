@@ -13,7 +13,7 @@ Inhalte, die die [Beatmap-Nominatoren](/wiki/People/Beatmap_Nominators) (BN), da
 ## Ablauf
 
 1. Ein Mapper, Modder oder bedachtes Communitymitglied meldet visuelle Elemente aus einer Beatmap gemäß den [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations) über die [BN-Webseite](https://bn.mappersguild.com/reports).
-2. Die Meldung wird vom NAT und dem GMT ausgewertet[^beatmap-nominators]. Ist der Kontext nicht eindeutig genug, wird sobald wie möglich ein neuer Fall eröffnet und zur Abstimmung freigegeben. Alle Mitglieder der BN, des GMTs und des NATs sind wahlberechtigt.
+2. Die Meldung wird vom NAT und dem GMT ausgewertet[^beatmap-nominators]. Ist der Inhalt nicht eindeutig zulässig oder unzulässig, wird sobald wie möglich ein neuer Fall eröffnet und zur Abstimmung freigegeben. Alle Mitglieder der BN, des GMTs und des NATs sind wahlberechtigt.
 3. Während die Abstimmung läuft, darf keine Beatmap mit diesem visuellen Element nominiert oder qualifiziert werden. Wenn die Beatmap bereits qualifiziert ist, wird ein Vorschlag in der Modding-Diskussion veröffentlicht, wodurch die Beatmap bis zum Ende der Abstimmung nicht gerankt wird.
 4. Die Abstimmung endet nach 3 Tagen ohne neue Stimmabgaben oder 7 Tage nachdem die Abstimmung begann, je nachdem, was zuerst zutrifft.
 
@@ -21,12 +21,12 @@ Inhalte, die die [Beatmap-Nominatoren](/wiki/People/Beatmap_Nominators) (BN), da
 
 Das Wahlergebnis wird wie unten beschrieben mit Hilfe eines einfachen Abstimmungssystems ausgezählt:
 
-- **Wenn aus den kombinierten GMT- und NAT-Stimmen eine Mehrheit von 70 % für eine betimmte Antwort stimmt, gilt diese Antwort als Ergebnis der Abstimmung.**
+- **Wenn aus den kombinierten GMT- und NAT-Stimmen eine Mehrheit von 70 % für eine bestimmte Antwort stimmt, gilt diese Antwort als Ergebnis der Abstimmung.**
 - Wenn sich aus den kombinierten GMT- und NAT-Stimmen keine Mehrheit von 70 % ergibt, werden die Stimmabgaben der BNs in die Gesamtstimmen reingerechnet.
-- Erreichen die zusammengerechneten Stimmen die 70%-Hürde oder liegen sogar darüber, werden die Inhalte als angemessen eingestuft und sind für die Verwendung freigegeben.
+- Wenn mindestens 70% dieser Stimmen die Zulässigkeit der Inhalte bejahen, werden die Inhalte als angemessen eingestuft und sind für die Verwendung freigegeben.
 - Wird die 70%-Hürde nicht erreicht, dürfen die Inhalte nicht verwendet werden und müssen sofort entfernt bzw. verändert werden.
 
-Sobald eine Antwort feststeht, ist das Endergebnis **final** und kann nicht mehr angefochten werden, außer durch Eingreifen des [Support-Teams](/wiki/People/Account_support_team).
+Sobald eine Antwort feststeht, ist das Endergebnis **unanfechtbar** und kann nur durch Eingreifen des [Support-Teams](/wiki/People/Account_support_team) geändert werden.
 
 ### Beispiele
 
@@ -38,7 +38,7 @@ Nach 3 Tagen ist die Wahl beendet und das Ergebnis steht fest.
 
 GMT und NAT stimmen zu 52 % dafür, dass das Bild in Ordnung ist. 48 % entscheiden sich dagegen.
 
-Das bedeutet, dass die Stimmabgaben der BN nun in die Gesamtstimmen reingrechnet werden, um das Wahlergebnis zu bestimmen.
+Das bedeutet, dass die Stimmabgaben der BN nun in die Gesamtstimmen reingerechnet werden, um das Wahlergebnis zu bestimmen.
 
 Mit den kombinierten Stimmabgaben der BN stimmen 67 % aller Teilnehmer dafür, dass das Bild in Ordnung ist. 33 % entscheiden sich dagegen.
 
@@ -58,4 +58,4 @@ Der Diskussionsbeitrag wird als gelöst markiert und KreiseEnthusiast wird darü
 
 ## Anmerkungen
 
-[^beatmap-nominators]: [Beatmap Nominatoren](/wiki/People/Beatmap_Nominators), die Inhalte melden, dürfen diesen Überprüfungsschritt überspringen und direkt eine neue Abstimmung eröffnen.
+[^beatmap-nominators]: [Beatmap-Nominatoren](/wiki/People/Beatmap_Nominators), die Inhalte melden, dürfen diesen Überprüfungsschritt überspringen und direkt eine neue Abstimmung eröffnen.
