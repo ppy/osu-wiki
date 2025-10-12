@@ -43,7 +43,7 @@ Es wird empfohlen, Feedback durch Modding einzuholen bevor man BN nach Nominieru
 
 Beatmaps, die für den Hauptspielmodus[^main-game-mode] zwei Nominierungen erhalten, werden in die Kategorie [Qualifiziert](/wiki/Beatmap/Category#qualified) verschoben[^hybrid-sets]. Qualifizierte Beatmaps haben Ranglisten, aber vergeben keine [Performance-Punkte](/wiki/Performance_points) an Spieler. Wenn eine Beatmap für mindestens 7 Tage ohne Beiträge zu [Problemen oder Vorschlägen](/wiki/Modding#types-of-mod-posts) qualifiziert bleibt, wird sie über die [Ranking-Warteschlange](Ranking_queue) der Kategorie [Ranked](#ranked) zugeordnet.
 
-Bei der Disqualifizierung einer Beatmap wird der Ranked-Timer auf 7 Tage zurückgesetzt, wenn entweder neue Schwierigkeitsgrade hinzugefügt werden oder wenn die Beatmap wieder von anderen wie den zwei ursprünglichen Beatmap-Nominatoren qualifiziert wird. Außerdem verlängert sich der Timer für jede Woche, in der eine Beatmap disqualifiziert bleibt, um 1 Tag, bis zu maximal 14 Tagen.
+Bei der Disqualifizierung einer Beatmap wird der Ranked-Timer auf 7 Tage zurückgesetzt, wenn entweder neue Schwierigkeitsgrade hinzugefügt werden, oder wenn die Beatmap wieder von anderen als den zwei ursprünglichen Beatmap-Nominatoren qualifiziert wird. Außerdem verlängert sich der Timer für jede Woche, in der eine Beatmap disqualifiziert bleibt, um 1 Tag, bis zu maximal 14 Tagen.
 
 Diese Beatmap-Kategorie wurde eingeführt, damit ein größerer Teil der osu!-Community diese Beatmaps anschauen kann, in der Hoffnung potentielle Probleme zu finden. Probleme können auf der Beatmap-Diskussionsseite an die BN oder das NAT gemeldet werden. Anders als ausstehende Beatmaps können qualifizierte Beatmaps von ihren Erstellern nicht verändert werden, d. h. Feedback kann nur nach einer [Zurücksetzung der Nominierungen](#zurücksetzung-der-nominierungen) umgesetzt werden.
 
@@ -63,5 +63,5 @@ Bei gerankten Beatmaps wird der Ranked-Status nur in Ausnahmefällen entfernt, w
 
 ## Anmerkungen
 
-[^main-game-mode]: Der Spielmodus, für den die meisten Schwierigkeitsgrade erstellt wurden, wird als "Hauptspielmodus" erachtet. Wenn 2 oder mehr Spielmodi dieselbe Anzahl an Schwierigkeitsgraden haben, ist der Spielmodus der Hauptmodus, für den der Beatmap-Ersteller die meisten Schwierigkeitsgrade erstellt hat. Falls beide Bedingungen zutreffen, ist der zuerst nominierte Modus der Hauptspielmodus.
+[^main-game-mode]: Der Spielmodus, für den die meisten Schwierigkeitsgrade erstellt wurden, wird als "Hauptspielmodus" erachtet. Wenn zwei oder mehr Spielmodi dieselbe Anzahl an Schwierigkeitsgraden haben, ist der Spielmodus der Hauptmodus, für den der Beatmap-Ersteller die meisten Schwierigkeitsgrade erstellt hat. Falls beide Bedingungen zutreffen, ist der zuerst nominierte Modus der Hauptspielmodus.
 [^hybrid-sets]: Beatmaps mit Schwierigkeitsgraden aus mehreren Spielmodi benötigen zwei Nominierungen für den Hauptspielmodus und eine für jeden anderen Modus.
