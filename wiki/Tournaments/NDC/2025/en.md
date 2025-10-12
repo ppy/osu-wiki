@@ -44,6 +44,8 @@ The tournament and prizepool is sponsored by both the organisation and community
 - ::{ flag=NL }:: [wie ben jij](https://osu.ppy.sh/users/16322001): €100
 - ::{ flag=NL }:: [Astraea](https://osu.ppy.sh/users/17526061): €90
 
+![](img/badge.png "NDC 2025 winner badge")
+
 ## Organisation
 
 The National Dutch Championship 2025 was run by various community members.
