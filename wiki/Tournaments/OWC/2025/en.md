@@ -59,6 +59,79 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2133817)
 - [Challonge bracket](https://challonge.com/OWC2025)
 
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Bomilk](https://osu.ppy.sh/users/7081596)** |
+| ::{ flag=AU }:: | **Australia** | **[ASecretBox](https://osu.ppy.sh/users/7341183)** |
+| ::{ flag=AT }:: | **Austria** | **[fedoragoose](https://osu.ppy.sh/users/2323131)** |
+| ::{ flag=BY }:: | **Belarus** | **[dados123](https://osu.ppy.sh/users/17949915)** |
+| ::{ flag=BE }:: | **Belgium** | **[Hanori](https://osu.ppy.sh/users/7078544)** |
+| ::{ flag=BA }:: | **Bosnia and Herzegovina** | **[dax420](https://osu.ppy.sh/users/14658906)** |
+| ::{ flag=BR }:: | **Brazil** | **[-izzy](https://osu.ppy.sh/users/15225729)** |
+| ::{ flag=BG }:: | **Bulgaria** | **[hlanden](https://osu.ppy.sh/users/4934554)** |
+| ::{ flag=CA }:: | **Canada** | **[Zylice](https://osu.ppy.sh/users/5033077)** |
+| ::{ flag=CL }:: | **Chile** | **[Intercambing](https://osu.ppy.sh/users/2546001)** |
+| ::{ flag=CN }:: | **China** | **[lolol235](https://osu.ppy.sh/users/6090175)** |
+| ::{ flag=CO }:: | **Colombia** | **[Carlosflow](https://osu.ppy.sh/users/11940767)** |
+| ::{ flag=HR }:: | **Croatia** | **[-Milfy](https://osu.ppy.sh/users/11013016)** |
+| ::{ flag=CZ }:: | **Czechia** | **[Dri3x](https://osu.ppy.sh/users/11478426)** |
+| ::{ flag=DK }:: | **Denmark** | **[Polle](https://osu.ppy.sh/users/13218204)** |
+| ::{ flag=EE }:: | **Estonia** | **[kellad](https://osu.ppy.sh/users/20447062)** |
+| ::{ flag=FI }:: | **Finland** | **[Amasetic](https://osu.ppy.sh/users/11375251)** |
+| ::{ flag=FR }:: | **France** | **[Musty](https://osu.ppy.sh/users/251683)** |
+| ::{ flag=GE }:: | **Georgia** | **[DarkFTW](https://osu.ppy.sh/users/14350221)** |
+| ::{ flag=DE }:: | **Germany** | **[criller](https://osu.ppy.sh/users/8116659)** |
+| ::{ flag=GR }:: | **Greece** | **[JackPaX](https://osu.ppy.sh/users/11226645)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[Hibiki](https://osu.ppy.sh/users/5413624)** |
+| ::{ flag=HU }:: | **Hungary** | **[defii](https://osu.ppy.sh/users/8698024)** |
+| ::{ flag=IN }:: | **India** | **[\_Cyan](https://osu.ppy.sh/users/10250612)** |
+| ::{ flag=ID }:: | **Indonesia** | **[GNX](https://osu.ppy.sh/users/10069909)** |
+| ::{ flag=IE }:: | **Ireland** | **[M a t t y](https://osu.ppy.sh/users/3737136)** |
+| ::{ flag=IL }:: | **Israel** | **[CIash of Clans](https://osu.ppy.sh/users/16048250)** |
+| ::{ flag=IT }:: | **Italy** | **[MeOwz](https://osu.ppy.sh/users/17446380)** |
+| ::{ flag=JP }:: | **Japan** | **[Aotoleen](https://osu.ppy.sh/users/3162741)** |
+| ::{ flag=KZ }:: | **Kazakhstan** | **[Ternafis](https://osu.ppy.sh/users/9921139)** |
+| ::{ flag=KG }:: | **Kyrgyzstan** | **[CpxG](https://osu.ppy.sh/users/12270069)** |
+| ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ::{ flag=LT }:: | **Lithuania** | **[ganjanov](https://osu.ppy.sh/users/11584075)** |
+| ::{ flag=MO }:: | **Macau** | **[Chino-](https://osu.ppy.sh/users/16117538)** |
+| ::{ flag=MY }:: | **Malaysia** | **[Harumi Ena](https://osu.ppy.sh/users/16436446)** |
+| ::{ flag=MT }:: | **Malta** | **[Naiad](https://osu.ppy.sh/users/14404978)** |
+| ::{ flag=MX }:: | **Mexico** | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** |
+| ::{ flag=MN }:: | **Mongolia** | **[Timur](https://osu.ppy.sh/users/12148238)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Lilily](https://osu.ppy.sh/users/6502403)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[she gon pay me](https://osu.ppy.sh/users/11172360)** |
+| ::{ flag=MK }:: | **North Macedonia** | **[haiks](https://osu.ppy.sh/users/11360598)** |
+| ::{ flag=NO }:: | **Norway** | **[YokesPai](https://osu.ppy.sh/users/6399568)** |
+| ::{ flag=PE }:: | **Peru** | **[\[MG\]Arnold24x24](https://osu.ppy.sh/users/2291265)** |
+| ::{ flag=PH }:: | **Philippines** | **[zonelouise](https://osu.ppy.sh/users/1492995)** |
+| ::{ flag=PL }:: | **Poland** | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** |
+| ::{ flag=PT }:: | **Portugal** | **[Big Yikes](https://osu.ppy.sh/users/799218)** |
+| ::{ flag=PR }:: | **Puerto Rico** | **[Unexpected](https://osu.ppy.sh/users/4495889)** |
+| ::{ flag=RO }:: | **Romania** | **[badeu](https://osu.ppy.sh/users/1473890)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[gamer228666](https://osu.ppy.sh/users/5981005)** |
+| ::{ flag=SG }:: | **Singapore** | **[Tebi](https://osu.ppy.sh/users/5407620)** |
+| ::{ flag=SK }:: | **Slovakia** | **[-YoYo-](https://osu.ppy.sh/users/6158076)** |
+| ::{ flag=KR }:: | **South Korea** | **[LATAJACYTUNCZYK](https://osu.ppy.sh/users/9224078)** |
+| ::{ flag=ES }:: | **Spain** | **[junamat](https://osu.ppy.sh/users/12296128)** |
+| ::{ flag=SE }:: | **Sweden** | **[scylla](https://osu.ppy.sh/users/9405745)** |
+| ::{ flag=CH }:: | **Switzerland** | **[-Spartan](https://osu.ppy.sh/users/5783061)** |
+| ::{ flag=TW }:: | **Taiwan** | **[willy0214](https://osu.ppy.sh/users/8660293)** |
+| ::{ flag=TH }:: | **Thailand** | **[Lesperry](https://osu.ppy.sh/users/18092331)** |
+| ::{ flag=TR }:: | **Türkiye** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** |
+| ::{ flag=UA }:: | **Ukraine** | **[baIner](https://osu.ppy.sh/users/7587763)** |
+| ::{ flag=AE }:: | **United Arab Emirates** | **[sylriu](https://osu.ppy.sh/users/12637617)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)** |
+| ::{ flag=US }:: | **United States** | **[tekkito](https://osu.ppy.sh/users/7075211)** |
+| ::{ flag=UY }:: | **Uruguay** | **[Rebo](https://osu.ppy.sh/users/6942259)** |
+| ::{ flag=VN }:: | **Vietnam** | **[def](https://osu.ppy.sh/users/21619075)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **October 18, 23:59 UTC**. This list was last updated on **October 13**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a667d40bbd88942cd98926e839de5d37).
+
 ## Ruleset
 
 ### Tournament rules
