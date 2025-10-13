@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2025 Fanart Contest: Voting Open"
-date: 2025-10-11 14:00:00 +0000
+date: 2025-10-13 08:00:00 +0000
 ---
 
 The Eve of Hallows is drawing near, and by near we mean more like three weeks away.
@@ -18,7 +18,7 @@ Need help deciding? Don't worry, we've got you covered with a spooky slideshow s
     </video>
 </div>
 
-[![Click here to vote in the Halloween 2025 Fanart Contest!](/wiki/shared/news/2025-10-11-halloween-fanart-contest-voting/voting-banner.png)](https://osu.ppy.sh/community/contests/260)
+[![Click here to vote in the Halloween 2025 Fanart Contest!](/wiki/shared/news/2025-10-13-halloween-fanart-contest-voting/voting-banner.png)](https://osu.ppy.sh/community/contests/260)
 
 As usual, the following selection of prizes will be up for grabs:
 
