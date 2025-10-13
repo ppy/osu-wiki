@@ -8,7 +8,7 @@ The Eve of Hallows is drawing near, and by near we mean more like three weeks aw
 
 ![](https://assets.ppy.sh/contests/260/banner.jpg)
 
-With a haunting total of **156** entries, our osu! resident artists have vrewed up a caultrod of chilling creativity! Now, it's *your* turn to step into the night and cast your **15** votes to decide which creations will rise from the shadows as rulers of the night!
+With a haunting total of **155** entries, our osu! resident artists have brewed up a cauldron of chilling creativity! Now, it's *your* turn to step into the night and cast your **15** votes to decide which creations will rise from the shadows as rulers of the night!
 
 Need help deciding? Don't worry, we've got you covered with a spooky slideshow showcasing all of the entries set to the tunes of [Igorrr & Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370)'s *Figue Folle*:
 
