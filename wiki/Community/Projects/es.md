@@ -2,7 +2,7 @@
 
 Este artículo lista los diferentes proyectos, herramientas y/o servicios creados para osu! por los [desarrolladores](/wiki/People/Developers) y la comunidad.
 
-Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu! team]](/wiki/People/osu!_team), los proyectos comunitarios son gestionados por miembros de la comunidad. Por lo tanto, no están respaldados por osu!, ni cuentan con ningún tipo de soporte oficial. Para ver las noticias y discusiones sobre todos los proyectos actuales y futuros, visita el [foro de desarrollo](http://osu.ppy.sh/community/forums/2).
+Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu! team](/wiki/People/osu!_team), los proyectos comunitarios son gestionados por miembros de la comunidad. Por lo tanto, no están respaldados por osu!, ni cuentan con ningún tipo de soporte oficial. Para ver las noticias y discusiones sobre todos los proyectos actuales y futuros, visita el [foro de desarrollo](http://osu.ppy.sh/community/forums/2).
 
 ## Proyectos oficiales
 
@@ -138,7 +138,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 |  | [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) | ::{ flag=FR }:: [Yuzeyun](https://osu.ppy.sh/users/481582) | Herramienta para crear storyboards con efectos visuales para la jugabilidad de osu!taiko |
 |  | [Storybrew](https://github.com/Damnae/storybrew) | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Editor de storyboards fácil de usar |
 
-### Proyectos relacionados con el modding de beatmaps
+### Proyectos relacionados con el modding
 
 #### General
 
