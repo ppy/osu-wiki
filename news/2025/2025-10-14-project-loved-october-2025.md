@@ -114,13 +114,14 @@ If you think you can escape the grasp of Cthulhu, make sure to vote YES! 🦑�
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/501286.jpg)](https://osu.ppy.sh/community/forums/topics/2140771)
 
-[May'n - Belief](https://osu.ppy.sh/beatmapsets/501286#osu) by [Depths](https://osu.ppy.sh/users/3935174), [\_DT3](https://osu.ppy.sh/users/7319843), [Asaiga](https://osu.ppy.sh/users/2959560), [Doormat](https://osu.ppy.sh/users/3230571), [Garden](https://osu.ppy.sh/users/2849992), [Hikaru Rose](https://osu.ppy.sh/users/4811275), [Kalibe](https://osu.ppy.sh/users/3376777), [Kibbleru](https://osu.ppy.sh/users/3193504), [Little](https://osu.ppy.sh/users/2099102), [Silky](https://osu.ppy.sh/users/5069490), [Super Creek](https://osu.ppy.sh/users/1787171), and [Winnie](https://osu.ppy.sh/users/3592149)\
+[May'n - Belief](https://osu.ppy.sh/beatmapsets/501286#osu) by [Depths](https://osu.ppy.sh/users/3935174), [\_DT3](https://osu.ppy.sh/users/7319843), [Asaiga](https://osu.ppy.sh/users/2959560), [Doormat](https://osu.ppy.sh/users/3230571), [Garden](https://osu.ppy.sh/users/2849992), [Hikaru Rose](https://osu.ppy.sh/users/4811275), [Kibbleru](https://osu.ppy.sh/users/3193504), [Super Creek](https://osu.ppy.sh/users/1787171), and [Winnie](https://osu.ppy.sh/users/3592149)\
 208 BPM, 3:57 | 1.85★ – 7.25★\
+The \[Kanau's Normal\], \[Little's Insane]\, and \[Kalibe's Insane]\ difficulties are *not* being nominated for Loved.
 *description written by [Lilian](https://osu.ppy.sh/users/8589120)*
 
 For our *Ranked Rejects* slot, we bring you a set that may restore your belief in the Loved section...
 
-To be honest, no description I can write could possibly sell you on this mapset better than the set itself. Look at the [Depths](https://osu.ppy.sh/users/3935174) 7★ top diff, the tasteful [Kalibe](https://osu.ppy.sh/users/3376777)'s Insane... oh my god, it even has a [Kibbleru](https://osu.ppy.sh/users/3193504)/[Doormat](https://osu.ppy.sh/users/3230571) Collab Extreme... simply sublime. This set oozes with that simplistic yet all-too-alluring 2016 energy, on top of a classic anime opening that should be instantly recognisable to any player from back in the day. It's a shame this set has sat in the graveyard for over five years now, but I hope you all enjoy this blast from the past!
+To be honest, no description I can write could possibly sell you on this mapset better than the set itself. Look at the [Depths](https://osu.ppy.sh/users/3935174) 7★ top diff... oh my god, it even has a [Kibbleru](https://osu.ppy.sh/users/3193504)/[Doormat](https://osu.ppy.sh/users/3230571) Collab Extreme... simply sublime. This set oozes with that simplistic yet all-too-alluring 2016 energy, on top of a classic anime opening that should be instantly recognisable to any player from back in the day. It's a shame this set has sat in the graveyard for over five years now, but I hope you all enjoy this blast from the past!
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1136709.jpg)](https://osu.ppy.sh/community/forums/topics/2140770)
 
@@ -234,7 +235,7 @@ Playing taiko in tandem has been a hot community topic for quite some time now. 
 Although Tag is disabled on taiko by default, here is a short tutorial to show how you can play.
 
 Step 1: Select the Tag co-op Team Mode in a multiplayer lobby.\
-Step 2: Whenever you are ready, type \[code\]!mp start 5\[/code\] to start the beatmap.
+Step 2: Whenever you are ready, type `!mp start 5` to start the beatmap.
 
 So, are you ready to take on [Raph's](https://osu.ppy.sh/users/3918650) Tag gauntlet? Cast your votes and start creating those multis!
 
