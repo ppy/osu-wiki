@@ -234,7 +234,7 @@ Playing taiko in tandem has been a hot community topic for quite some time now. 
 Although Tag is disabled on taiko by default, here is a short tutorial to show how you can play.
 
 Step 1: Select the Tag co-op Team Mode in a multiplayer lobby.\
-Step 2: Whenever you are ready, type \[code\]!mp start 5\[/code\] to start the beatmap.
+Step 2: Whenever you are ready, type `!mp start 5` to start the beatmap.
 
 So, are you ready to take on [Raph's](https://osu.ppy.sh/users/3918650) Tag gauntlet? Cast your votes and start creating those multis!
 
