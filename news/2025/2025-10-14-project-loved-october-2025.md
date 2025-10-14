@@ -469,6 +469,6 @@ We believe Leeju deserves another spotlight in the Loved section with this map, 
 
 ---
 
-Thank you as always for your support of Project Loved and we hope to see you back again in November! If you're still curious about the project, please take a look at our [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). And if you have any questions you don't find answered, join us in the [osu! Discord server](https://discord.com/invite/ppy)'s [#osu-loved](https://discord.com/channels/188630481301012481/384640068847009792) channel where we're happy to answer anything you might want to know about!
+Thank you as always for your support of Project Loved and we hope to see you back again in November! If you're still curious about the project, please take a look at our [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). And if you have any questions you don't find answered, join us in the [osu! Discord server](https://discord.com/invite/ppy)'s [`#osu-loved`](https://discord.com/channels/188630481301012481/384640068847009792) channel where we're happy to answer anything you might want to know about!
 
 —aceticke
