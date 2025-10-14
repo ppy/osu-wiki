@@ -23,6 +23,7 @@ If you need help with making a contribution or want a review on your pull reques
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inactive | German |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Active** | Japanese |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Inactive |  |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [MChecaH](https://github.com/MChecaH) | **Active** | Spanish |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | Inactive | Spanish |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inactive | French |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Active** | Russian |
