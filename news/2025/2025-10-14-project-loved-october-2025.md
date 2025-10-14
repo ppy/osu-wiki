@@ -116,7 +116,7 @@ If you think you can escape the grasp of Cthulhu, make sure to vote YES! 🦑�
 
 [May'n - Belief](https://osu.ppy.sh/beatmapsets/501286#osu) by [Depths](https://osu.ppy.sh/users/3935174), [\_DT3](https://osu.ppy.sh/users/7319843), [Asaiga](https://osu.ppy.sh/users/2959560), [Doormat](https://osu.ppy.sh/users/3230571), [Garden](https://osu.ppy.sh/users/2849992), [Hikaru Rose](https://osu.ppy.sh/users/4811275), [Kibbleru](https://osu.ppy.sh/users/3193504), [Super Creek](https://osu.ppy.sh/users/1787171), and [Winnie](https://osu.ppy.sh/users/3592149)\
 208 BPM, 3:57 | 1.85★ – 7.25★\
-The \[Kanau's Normal\], \[Little's Insane]\, and \[Kalibe's Insane]\ difficulties are *not* being nominated for Loved.
+The \[Kanau's Normal\], \[Little's Insane]\, and \[Kalibe's Insane\] difficulties are *not* being nominated for Loved.
 *description written by [Lilian](https://osu.ppy.sh/users/8589120)*
 
 For our *Ranked Rejects* slot, we bring you a set that may restore your belief in the Loved section...
