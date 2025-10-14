@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: October 2025"
-date: 2025-10-14 18:00:00 +0000
+date: 2025-10-14 19:55:00 +0000
 series: Project Loved
 ---
 
@@ -68,9 +68,9 @@ No need to drag this out. You know what to do: vote Yes.
 
 Welcome back, Chill Champions!! Well... not really.
 
-This month's second Popular Playcounts pick leans into the emotional side, as aishiteiru- and kelinimo bring on the tears with their take on Cyberpunk's "I Really Want to Stay at Your House". Let the music guide you through a simple yet enchanting track, where the notes seem to dance across your screen - pulling you along, measure by measure, chord by chord.
+This month's second Popular Playcounts pick leans into the emotional side, as aishiteiru- and kelinimo bring on the tears with their take on Cyberpunk's "I Really Want to Stay at Your House". Let the music guide you through a simple yet enchanting track, where the notes seem to dance across your screen — pulling you along, measure by measure, chord by chord.
 
-Sometimes, it's worth stepping away from the skillcap to explore the other experiences osu! has to offer.
+Sometimes, it's worth stepping away from the skill cap to explore the other experiences osu! has to offer.
 
 Let's vote yes!
 
@@ -80,11 +80,11 @@ Let's vote yes!
 240 BPM, 2:00 | 8.48★\
 *description written by [Froslass](https://osu.ppy.sh/users/19048)*
 
-This month's Outstanding Oldies, and also my last pick as a Loved Captain, is Hatsune Miku no Shoushitsu (Hommarju Remix), mapped by Chocopikel and reuploaded by JappyBabes with permission. And what a map to go out with!
+This month's Outstanding Oldies, and also my last pick as a Loved captain, is *Hatsune Miku no Shoushitsu (Hommarju Remix)*, mapped by Chocopikel and reuploaded by JappyBabes with permission. And what a map to go out with!
 
 Popularized way back in 2012 with [chocomint](https://osu.ppy.sh/users/124493)'s legendary plays on it, this is one of the first true "boss maps" of the game, and might be one of the most influential maps of all time for Loved when we think about how many mappers who would years later become staples of the Loved section have been inspired by this map. Get ready for jumps. Lots of jumps. Jumps in all shapes, sizes, and forms. Well, they're mostly geometric, but they're still quite abundant!
 
-I also just want to take this space to say: Thank you for the support through the years! I'm extremely grateful for the chance of doing something for the community and I believe I have done my best as a Loved team member, as much as it wasn't always smooth sailing, it was still quite a good experience for me, and I hope I managed to improve the section for everyone. <3
+I also just want to take this space to say: thank you for the support through the years! I'm extremely grateful for the chance of doing something for the community and I believe I have done my best as a Loved team member, as much as it wasn't always smooth sailing, it was still quite a good experience for me, and I hope I managed to improve the section for everyone. <3
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/2039452.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -94,9 +94,9 @@ I also just want to take this space to say: Thank you for the support through th
 
 H-HELLO? C-CAN YOU HEAR ME...? IT'S A BIT LOUD, SO MAKE SURE TO TURN DOWN YOUR GAME!
 
-If there's any map you should check out in this month's Project Loved, [blixys](https://osu.ppy.sh/users/13015896)' map of [Boris - Akuma No Uta](https://osu.ppy.sh/beatmapsets/2039452#osu/4254108) comes to mind immediately. This Small Spectacles masterpiece isn't just your average map – it's an entire experience, overflowing with raw emotion as blixys sets out to capture the sheer power and aggression that Boris channels through their music.
+If there's any map you should check out in this month's Project Loved, [blixys](https://osu.ppy.sh/users/13015896)' map of [Boris - Akuma No Uta](https://osu.ppy.sh/beatmapsets/2039452#osu/4254108) comes to mind immediately. This Small Spectacles masterpiece isn't just your average map — it's an entire experience, overflowing with raw emotion as blixys sets out to capture the sheer power and aggression that Boris channels through their music.
 
-Promise me you'll at least peek at the map in the editor with the storyboard on – or watch the YouTube video in the description. You'll see just how far mapping has come. It's maps like this that get me genuinely excited about the future of creative, expressive mapping.
+Promise me you'll at least peek at the map in the editor with the storyboard on — or watch the YouTube video in the description. You'll see just how far mapping has come. It's maps like this that get me genuinely excited about the future of creative, expressive mapping.
 
 VOTE YES!
 
@@ -108,7 +108,7 @@ VOTE YES!
 
 This month's Daredevil Difficulties presents a challenge only the bravest of players can conquer. This is [Bal-Sagoth - Shackled To The Trilithon Of Kutulu](https://osu.ppy.sh/beatmapsets/1312054#osu).
 
-True to the Lovecraftian allusion in its title, this map presents its own kind of horror in the unyielding brutality of its deathstreams. One glance at the number of circles (over 2300!), Mazzerin fitting them in a song under four minutes long should make that much clear. Originally mapped for OWC 2020, the map had to be nerfed significantly to even fit the difficulty of the pool – the Grand Finals pool at that – but players can try their best on either difficulty here. The set also contains an older rendition created over a decade ago, around the time of such recognizable old-school metal maps like [Apparition](https://osu.ppy.sh/beatmapsets/216979#osu/690982). And yes, to all those keeping track in the map's comments, I can confirm that this map indeed still firetrucks.
+True to the Lovecraftian allusion in its title, this map presents its own kind of horror in the unyielding brutality of its deathstreams. One glance at the number of circles (over 2,300!), Mazzerin fitting them in a song under four minutes long should make that much clear. Originally mapped for OWC 2020, the map had to be nerfed significantly to even fit the difficulty of the pool — the Grand Finals pool at that — but players can try their best on either difficulty here. The set also contains an older rendition created over a decade ago, around the time of such recognizable old-school metal maps like [Apparition](https://osu.ppy.sh/beatmapsets/216979#osu/690982). And yes, to all those keeping track in the map's comments, I can confirm that this map indeed still firetrucks.
 
 If you think you can escape the grasp of Cthulhu, make sure to vote YES! 🦑🦑🦑
 
@@ -120,7 +120,7 @@ If you think you can escape the grasp of Cthulhu, make sure to vote YES! 🦑�
 
 For our *Ranked Rejects* slot, we bring you a set that may restore your belief in the Loved section...
 
-To be honest, no description I can write could possibly sell you on this mapset better than the set itself. Look at the [Depths](https://osu.ppy.sh/users/3935174) 7★ top diff, the tasteful [Kalibe's](https://osu.ppy.sh/users/3376777) Insane... oh my god, it even has a [Kibbleru](https://osu.ppy.sh/users/3193504)/[Doormat](https://osu.ppy.sh/users/3230571) Collab Extreme... simply sublime. This set oozes with that simplistic yet all-too-alluring 2016 energy, on top of a classic anime opening that should be instantly recognisable to any player from back in the day. It's a shame this set has sat in the graveyard for over five years now, but I hope you all enjoy this blast from the past!
+To be honest, no description I can write could possibly sell you on this mapset better than the set itself. Look at the [Depths](https://osu.ppy.sh/users/3935174) 7★ top diff, the tasteful [Kalibe](https://osu.ppy.sh/users/3376777)'s Insane... oh my god, it even has a [Kibbleru](https://osu.ppy.sh/users/3193504)/[Doormat](https://osu.ppy.sh/users/3230571) Collab Extreme... simply sublime. This set oozes with that simplistic yet all-too-alluring 2016 energy, on top of a classic anime opening that should be instantly recognisable to any player from back in the day. It's a shame this set has sat in the graveyard for over five years now, but I hope you all enjoy this blast from the past!
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1136709.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -167,9 +167,9 @@ You have 20 seconds to vote yes or you will be cursed with 1000 years of missing
 222 BPM, 3:26 | 2.66★, 3.43★, 5.02★, 6.85★, 7.55★\
 *description written by [chiv](https://osu.ppy.sh/users/6701656)*
 
-SOOOO... Project Loved actually reached out... and now THEY want to love Toosenbo....
+SOOOO... Project Loved actually reached out... and now THEY want to love *Toosenbo*....
 
-Straight from OWC '23, fooders and funny deliver a masterclass in awkward aim with their map of wowaka – Toosenbo. This first wildcard pick of the month pulls no punches - the constant off-angle jumps and dense rhythms will keep you on edge from start to finish as you try to follow in [xootynator](https://osu.ppy.sh/users/3717598)'s footsteps. Every section demands control, precision, and a little bit of stubbornness to push through. It's the kind of map that tests your fundamentals in all the right (and wrong) ways - a true standout for those who love a challenge.
+Straight from OWC '23, fooders and funny deliver a masterclass in awkward aim with their map of wowaka – Toosenbo. This first wildcard pick of the month pulls no punches — the constant off-angle jumps and dense rhythms will keep you on edge from start to finish as you try to follow in [xootynator](https://osu.ppy.sh/users/3717598)'s footsteps. Every section demands control, precision, and a little bit of stubbornness to push through. It's the kind of map that tests your fundamentals in all the right (and wrong) ways — a true standout for those who love a challenge.
 
 Vote yes to get your 300K!
 
@@ -181,7 +181,7 @@ Vote yes to get your 300K!
 
 This month's second *Wildcard* is the perfect way to get into the autumn spirit.
 
-Yozakura has both song and mapper working in tandem to provide an experience that's all at once engaging yet relaxing, and tricky yet simple. The occasional odd pattern keeps even experienced players on their toes, but this package on the whole gleams with passion. It's akin to a shower after a long day out, letting the 🎶 notes 🎶 pass you by like the stream from the shower head. I implore everyone to give this map a try after a long session and let yourself be transported to the world this map constructs for the player.
+*Yozakura* has both song and mapper working in tandem to provide an experience that's all at once engaging yet relaxing, and tricky yet simple. The occasional odd pattern keeps even experienced players on their toes, but this package on the whole gleams with passion. It's akin to a shower after a long day out, letting the 🎶 notes 🎶 pass you by like the stream from the shower head. I implore everyone to give this map a try after a long session and let yourself be transported to the world this map constructs for the player.
 
 If you earnestly took the advice above, it should be all the convincing you need to vote Yes.
 
@@ -256,13 +256,15 @@ If you want to see more spreads in Loved, be sure to cast your "Yes!" vote here 
 286 BPM, 4:02 | 6.84★, 7.25★\
 *description written by [Eriha](https://osu.ppy.sh/users/16320311)*
 
-This month, I introduce [technoplanet - Fly Like You (Long Ver.)](https://osu.ppy.sh/beatmapsets/1122790#taiko/2404366)!\
+This month, I introduce [technoplanet - Fly Like You (Long Ver.)](https://osu.ppy.sh/beatmapsets/1122790#taiko/2404366)!
+
 This speed map was mapped by [\_Kan2](https://osu.ppy.sh/users/7160196), widely recognised as both a tournament player and top ranking player, and offers diverse perspectives to enjoy within a single mapset.
 
-At first glance, it appears to be a simple speedmap, but as it progresses, the BPM and SV shifts make it extremely difficult to achieve high accuracy. It can also be played as an anti-mod map, requiring high skill to play with HD mod...\
+At first glance, it appears to be a simple speedmap, but as it progresses, the BPM and SV shifts make it extremely difficult to achieve high accuracy. It can also be played as an anti-mod map, requiring high skill to play with HD mod...
+
 Additionally, this mapset includes a short version, mapped with a different style than the long version, allowing you to enjoy the same song in a different way!
 
-Can you get an S-rank on both maps? Vote 'Yes' and play now!
+Can you get an S-rank on both maps? Vote "Yes" and play now!
 
 ## osu!catch
 
@@ -346,7 +348,7 @@ So why is the description of [DANGEROOOOUS JUNGLE](https://osu.ppy.sh/beatmapset
 
 Let's go back to the [osu!mania 4K World Cup 2022](/wiki/Tournaments/MWC/2022_4K) Finals. It was the first year that MWC SV mappools were entirely custom-mapped! [Ciel](https://osu.ppy.sh/users/1455309)'s [DANGEROOOOUS JUNGLE](https://osu.ppy.sh/beatmapsets/1842680#mania) stood as one of those entries. Its counterpart in the Finals stage was [my own map of *my culture*](https://osu.ppy.sh/beatmapsets/1842662#mania/3784864), which states "ok boomer" in its description.
 
-It's not really a secret that I'm an old person. Well, relatively speaking anyway, I think in your 30s you are still fairly young. I do not actually know Ciel's age, but going from vibes, I'd say the "zoomer" handle fits them well, at least in spirit. We always love young spirits, even if just at heart. However, what I think is really funny is that I'm not the veteran in this situation. I had only really started mapping SV somewhat recently at the time, towards 2021. Ciel, in contrast, stands as one of those legendary names that every SV player, old and new, has heard of. Their portfolio includes maps such as the incredibly iconic and meta defining [*lost found melody*](https://osu.ppy.sh/beatmapsets/1051052), the very whimsical and challenging [*Shakunetsu*](https://osu.ppy.sh/beatmapsets/853414), or a map so daunting it had to be nerfed for tournament conditions: [*true DJ MAG top ranker's song Zenpen*](https://osu.ppy.sh/beatmapsets/1569250).
+It's not really a secret that I'm an old person. Well, relatively speaking anyway, I think in your 30s you are still fairly young. I do not actually know Ciel's age, but going from vibes, I'd say the "zoomer" handle fits them well, at least in spirit. We always love young spirits, even if just at heart. However, what I think is really funny is that I'm not the veteran in this situation. I had only really started mapping SV somewhat recently at the time, towards 2021. Ciel, in contrast, stands as one of those legendary names that every SV player, old and new, has heard of. Their portfolio includes maps such as the incredibly iconic and meta defining [lost found melody](https://osu.ppy.sh/beatmapsets/1051052), the very whimsical and challenging [Shakunetsu](https://osu.ppy.sh/beatmapsets/853414), or a map so daunting it had to be nerfed for tournament conditions: [true DJ MAG top ranker's song Zenpen](https://osu.ppy.sh/beatmapsets/1569250).
 
 [DANGEROOOOUS JUNGLE](https://osu.ppy.sh/beatmapsets/1842680#mania) puts the "zoom" in "zoomer". Between really aggressive speedups and ruthless patterning, it doesn't pull any punches and requires quite some practice and studying to get right. Adding onto the [Ciel](https://osu.ppy.sh/users/1455309) Loved collection, this entry is not going to be out of place in terms of difficulty at all, and will surely satiate the hunger of late-game SV leaderboard hunters.
 
@@ -366,7 +368,7 @@ However, the main thing about this chart is that it requires a lot of one-hand t
 
 It would be beneficial to be proficient at all the patterns mentioned above, though if not, then this chart is still perfect for training these. At 200 BPM, this can be comfortable for most tournament players who have at least reached the 4 digit rank, and there's also higher rates of this chart, reaching up to 280 BPM without DT.
 
-Do you want to see if your fundamentals are good enough for the world stage? Maybe you just want to train yourself and get more proficient at the jumpstream category? Then I think it would be... wise for you to vote 'YES' for this to get in Loved!
+Do you want to see if your fundamentals are good enough for the world stage? Maybe you just want to train yourself and get more proficient at the jumpstream category? Then I think it would be... wise for you to vote "YES" for this to get in Loved!
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/809684.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -389,7 +391,7 @@ Perhaps there wasn't much need to explain the pack, given its already high popul
 
 I found this beatmap through [Koiidex](https://osu.ppy.sh/users/5193488) in French [4DMWC](/wiki/Tournaments/4DM) tryouts. Honestly, a decent vibe, with accordingly smooth mapping provided by [Valedict](https://osu.ppy.sh/users/2537082).
 
-[Good Kid](https://osu.ppy.sh/beatmaps/artists/240) is a band that stands by its name. They're perhaps known as one of the most famous bands to have [raised voices towards song usage within content creation](https://x.com/goodkidband/status/1972752482519695463). Good Kid, in fact, encourages us to use their music for YouTube, Twitch and many other fair use scenarios... like osu! Coming from the Clone Hero community, where indie music and content creation have been positively developing over the years, it always warms my heart seeing many different people contributing to the collective bank of content that we can enjoy right now, on our computers and various devices.
+[Good Kid](https://osu.ppy.sh/beatmaps/artists/240) is a band that stands by its name. They're perhaps known as one of the most famous bands to have [raised voices towards song usage within content creation](https://x.com/goodkidband/status/1972752482519695463). Good Kid, in fact, encourages us to use their music for YouTube, Twitch and many other fair use scenarios... like osu!. Coming from the Clone Hero community, where indie music and content creation have been positively developing over the years, it always warms my heart seeing many different people contributing to the collective bank of content that we can enjoy right now, on our computers and various devices.
 
 But I digress. As a Loved entry, [Aloe Lite](https://osu.ppy.sh/beatmapsets/1304568#mania) stands as a really cute, mid difficulty dump technical file. I use the term "file" deliberately, as its technical style is pretty in line with what players from other mania-centric games enjoy. Said style has had its interest growing over the years, with more than just a few mappers drawing inspiration from [Valedict](https://osu.ppy.sh/users/2537082), who has been known and recognised as perhaps one of the main paragons of the style itself.
 
@@ -423,7 +425,7 @@ While there are break sections that are present in this chart, some LNs are stil
 
 I wouldn't be surprised to see this chart in more tournaments. And hey, if you want a more difficult challenge, there are rates up to 1.4x, in which the physical demand also increases alongside the skillsets mentioned before.
 
-Honestly, I can't wait to see how every player performs in this chart. If you agree, go give this a 'Yes' vote and let your voice be heard!
+Honestly, I can't wait to see how every player performs in this chart. If you agree, go give this a "Yes" vote and let your voice be heard!
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1754813.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -431,7 +433,7 @@ Honestly, I can't wait to see how every player performs in this chart. If you ag
 201.3 BPM, 8:59 | 7.77★, 10.76★\
 *description written by [Carpihat](https://osu.ppy.sh/users/10085090)*
 
-The [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K) made a triumphant return, followed by the [7K Extra Terrestrial Tournament (ETT)](https://osu.ppy.sh/community/forums/topics/1506203), a thrilling 1v1 tournament for elite top players! We're excited to nominate ETT's Grand Finals Tiebreaker, a map that left an unforgettable mark on players and the audience's minds! Surpassing the intensity of Duplicity Shade (the MWC 7K 2022 Grand Finals Tiebreaker), this masterpiece was collaboratively mapped by renowned elite mappers. We're bringing it back into the spotlight to ensure this iconic map and those cherished moments are never forgotten!
+The [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K) made a triumphant return, followed by the [7K Extra Terrestrial Tournament (ETT)](https://osu.ppy.sh/community/forums/topics/1506203), a thrilling 1v1 tournament for elite top players! We're excited to nominate ETT's Grand Finals Tiebreaker, a map that left an unforgettable mark on players and the audience's minds! Surpassing the intensity of Duplicity Shade (the MWC 7K 2022 Grand Finals tiebreaker), this masterpiece was collaboratively mapped by renowned elite mappers. We're bringing it back into the spotlight to ensure this iconic map and those cherished moments are never forgotten!
 
 If you're interested in this map, the song or ETT 2022, please vote for it!
 
@@ -457,13 +459,9 @@ Smooth flow.\
 Comfortable structure.\
 Noodle.
 
-This is probably a very popular pick for those new to LN.\
-Introducing [Leeju](https://osu.ppy.sh/users/18219603)'s [8bit Voyager](https://osu.ppy.sh/beatmapsets/1656843#mania/3381798)!
+This is probably a very popular pick for those new to LN. Introducing [Leeju](https://osu.ppy.sh/users/18219603)'s [8bit Voyager](https://osu.ppy.sh/beatmapsets/1656843#mania/3381798)!
 
-When lacking deep LN skills, many other LN categories can sometimes frustrate players.\
-LN with a moderate BPM, not too high density, rolly patterns, and a flow that isn't overly tricky might just help you overcome your slump.\
-But never underestimate it, LN accuracy is always more challenging than you think.\
-It seems all these elements combined led to its use as the LN Density map for the [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) Quarter Finals.
+When lacking deep LN skills, many other LN categories can sometimes frustrate players. LN with a moderate BPM, not too high density, rolly patterns, and a flow that isn't overly tricky might just help you overcome your slump. That said, never underestimate it, because LN accuracy is always more challenging than you think. It seems all these elements combined led to its use as the LN Density map for the [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) Quarterfinals.
 
 We believe Leeju deserves another spotlight in the Loved section with this map, so if you agree, go ahead and vote for it!
 
