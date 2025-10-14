@@ -16,9 +16,9 @@ Feeling that holiday spirit a little early? You too can spread love with Project
 As always, thank you for voting in the last round, where we celebrated our 8th anniversary! Find the results here:
 
 - [Results for osu!](https://osu.ppy.sh/community/forums/topics/2132989?n=2)
-- [Results for osu!](https://osu.ppy.sh/community/forums/topics/2132988?n=2)
-- [Results for osu!](https://osu.ppy.sh/community/forums/topics/2132987?n=2)
-- [Results for osu!](https://osu.ppy.sh/community/forums/topics/2132986?n=2)
+- [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/2132988?n=2)
+- [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/2132987?n=2)
+- [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/2132986?n=2)
 
 Before we jump in to those picks, some spooky news has graced our doorstep:
 
@@ -27,9 +27,9 @@ Before we jump in to those picks, some spooky news has graced our doorstep:
 
 ...but following some nasty tricks, a treat was sure to follow! There's more:
 
-- A new challenger approaches! To help fill the empty shoes left behind, we've enlisted metadata extraordinaire and avid key presser [kadoen](https://osu.ppy.sh/users/12780575) as a coordinator going forward! A little fairy told me you might hear from them in next month's post...
+- A new challenger approaches! To help fill the empty shoes left behind, we've enlisted metadata extraordinaire and avid key smasher [kadoen](https://osu.ppy.sh/users/12780575) as a coordinator going forward! A little fairy told me you might hear from them in next month's post...
 
-Here come those picks! Remember, you get access to [osu!(lazer)](/wiki/Client/Release_stream/Lazer) playlists filled with these maps up for voting, you can give them a try before you decide and if you get 1st place in any mode you get a month of [supporter](https://osu.ppy.sh/home/support)!
+Here come those picks! Remember, you get access to [osu!(lazer)](/wiki/Client/Release_stream/Lazer) playlists filled with these maps up for voting, you can give them a try before you decide and if you get 1st place in any mode you get a month of [osu!supporter](https://osu.ppy.sh/home/support)!
 
 ### Navigation
 
@@ -469,6 +469,6 @@ We believe Leeju deserves another spotlight in the Loved section with this map, 
 
 ---
 
-Thank you as always for your support of Project Loved and we hope to see you back again in November! If you're still curious about the project, please take a look at our [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). And if you have any questions you don't find answered, join us in the [osu! Discord server](https://discord.com/invite/ppy)'s #osu-loved channel where we're happy to answer anything you might want to know about!
+Thank you as always for your support of Project Loved and we hope to see you back again in November! If you're still curious about the project, please take a look at our [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). And if you have any questions you don't find answered, join us in the [osu! Discord server](https://discord.com/invite/ppy)'s [#osu-loved](https://discord.com/channels/188630481301012481/384640068847009792) channel where we're happy to answer anything you might want to know about!
 
 —aceticke
