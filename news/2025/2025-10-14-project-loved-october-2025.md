@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: October 2025"
-date: 2025-10-14 19:55:00 +0000
+date: 2025-10-14 20:00:00 +0000
 series: Project Loved
 ---
 
