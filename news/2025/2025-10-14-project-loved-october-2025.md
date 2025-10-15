@@ -96,7 +96,7 @@ H-HELLO? C-CAN YOU HEAR ME...? IT'S A BIT LOUD, SO MAKE SURE TO TURN DOWN YOUR G
 
 If there's any map you should check out in this month's Project Loved, [blixys](https://osu.ppy.sh/users/13015896)' map of [Boris - Akuma No Uta](https://osu.ppy.sh/beatmapsets/2039452#osu/4254108) comes to mind immediately. This Small Spectacles masterpiece isn't just your average map — it's an entire experience, overflowing with raw emotion as blixys sets out to capture the sheer power and aggression that Boris channels through their music.
 
-Promise me you'll at least peek at the map in the editor with beatmap colours at 0% dim — or watch the YouTube video in the description. You'll see just how far mapping has come. It's maps like this that get me genuinely excited about the future of creative, expressive mapping.
+Promise me you'll at least peek at the map in the editor with beatmap colours enabled and 0% background dim — or watch the YouTube video in the description. You'll see just how far mapping has come. It's maps like this that get me genuinely excited about the future of creative, expressive mapping.
 
 VOTE YES!
 
