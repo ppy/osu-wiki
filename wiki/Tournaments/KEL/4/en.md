@@ -43,8 +43,8 @@ tags:
 | Developer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
-| Referees | TBA |
-| Commentators | TBA |
+| Referees | *TBA* |
+| Commentators | *TBA* |
 | Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
 
 
@@ -62,7 +62,7 @@ tags:
 
 ### General information
 
-1. KEL4 is a 1v1 multi-bracket LAN tournament (single, later double elimination) played within the osu! stable client.
+1. KEL4 is a 1v1 multi-bracket LAN tournament (single, later double elimination) played within the osu!(stable) client.
 2. All matches will be played with ScoreV2 in Head-to-Head mode.
 3. All maps will be played with No Fail enabled, along with the appropriate mods for that map.
 4. Each stage's mappool will be revealed during the official tournament stream.
@@ -74,8 +74,8 @@ tags:
 1. Players must select a lobby from the sign-up spreadsheet. Lobbies are open to anyone as long as there's an empty slot.
    - Players must notify hosts of their lobby choice in the Discord channel using the pinned prompt.
 2. The final Qualifier lobby must begin no later than January 26th.
-3. If a player does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
-4. Maps will be played in the listed order as shown on the mappool sheet. There will be one playthrough of the pool. If a player wishes to re-play the pool, they will be able to do so once. Only best runs will be used for seeding.
+3. If a player does not show up to their scheduled Qualifier lobby, they may play in any other lobby.
+4. Maps will be played in the listed order as shown on the mappool spreadsheet. There will be one playthrough of the pool. If a player wishes to re-play the pool, they will be able to do so once. Only best runs will be used for seeding.
 5. Players have 120 seconds to ready up before each map.
 6. The top # players, determined by the avg sum of placements, will advance to the Bracket Stage.
 
@@ -84,7 +84,7 @@ tags:
 1. There will be a total of 3 mappools.
 2. The mappools will be sized as follows:
    - Qualifiers: 10 beatmaps
-   - RO32 and RO16: 14 beatmaps
+   - Round of 32 and Round of 16: 14 beatmaps
    - Quarterfinals, Semifinals, Finals and Grand Finals: 18 beatmaps
 3. Each mappool will consist of 4 brackets: No Mod, Hidden, Hard Rock and Double Time.
 4. Each bracket will be played with the respective mods enabled for all players.
@@ -92,8 +92,8 @@ tags:
 
 ### Bracket stage procedure
 
-1. Brackets RO32 and RO16 are single elimination.
-2. Brackets QF, SF, Finals and GF are double elimination.
+1. Brackets Round of 32 and Round of 16 are single elimination.
+2. Brackets Quarterfinals, Semifinals, Finals and Grand Finals are double elimination.
 3. No warmup maps are allowed.
 4. No restrictions for picks or bans.
 5. No Fail is enforced on all maps.

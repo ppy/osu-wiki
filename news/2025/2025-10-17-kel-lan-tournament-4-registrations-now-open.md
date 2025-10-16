@@ -4,26 +4,25 @@ title: "KEL LAN Tournament 4: Registrations Now Open!"
 date: 2025-10-17 00:00:00 +0000
 ---
 
-Attention, circle clickers — KEL is coming back for another round of LAN shenanigans including special guests in Gdańsk, Poland!
+Attention, circle clickers — KEL is coming back for another round of LAN shenanigans in Poland!
 
 ![](/wiki/Tournaments/KEL/4/img/kel4-banner.jpg)
 
-KEL4 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience. Depending on the amount of accepted invites by special guests, only a certain amount of people will qualify for the tournament. Here's the sneak peek of what you can expect from the atmosphere and the community:
+KEL4 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience. Here's the sneak peek of what you can expect from the atmosphere and the community:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/yy8RK99MmZU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Signups](https://forms.gle/n2zvsmwr5jrFRWXS9) are now open and will run until the **11th of January 2026**, and the Qualifiers will take place online between **12th–26th January**.
+[Signups](https://forms.gle/n2zvsmwr5jrFRWXS9) are now open and will run until the **11 January 2026**, and the online Qualifiers will take place online between **12th–26th January**. The bracket will include a few special guests (TBA), with the remaining spots filled by the top performers from the Qualifiers.
 
 *If you signed up for the tournament, you need to join the [Discord server](https://discord.com/invite/TSgMXsaZRR)! Travel and accommodation expenses are the responsibility of participants and are not covered by the hosts.*
 
 ## Format changes
 
-We’re mixing things up this iteration! The Round of 32 and Round of 16 will now be played in a single-elimination format, while everything from the Quarterfinals to the Grand Finals stays double-elimination.
-This change keeps the action fast and exciting — and gives us all a bit more time to enjoy Gdańsk together!
+We're mixing things up this iteration! The Round of 32 and Round of 16 will now be played in a single-elimination format, while everything from the Quarterfinals to the Grand Finals stays double-elimination. This change keeps the action fast and exciting — and gives us all a bit more time to enjoy Gdańsk together!
 
-Special guests will be also joining the competition once again! They’ll be going through their own separate qualifying process, and their results will be revealed once all qualifying lobbies have wrapped up and every special guest has been announced. Get ready — you might just find yourself facing one of your favorite players on stage!
+As mentioned at the beginning, special guests will also be joining the competition once again! They'll be going through their own separate qualifying process, and their results will be revealed once all qualifying lobbies have wrapped up and every special guest has been announced. Get ready — you might just find yourself facing one of your favourite players on stage!
 
 ## Tournament schedule
 
