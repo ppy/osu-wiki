@@ -102,11 +102,11 @@ tags:
    - Ban order is ABBA, and all bans must happen at the start of the match.
 8. Players will be allowed 120 seconds to either pick or ban and 120 seconds to ready up. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
    - First occurrence:
-      -    A 30-second extension is given along with a verbal warning.
+     - A 30-second extension is given along with a verbal warning.
 If a player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
    - On subsequent occurrences:
-      - For a pick timer: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool, excluding the tiebreaker.
-      - For a ready timer: the referee will issue the `!mp start 10` command.
+     - For a pick timer: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool, excluding the tiebreaker.
+     - For a ready timer: the referee will issue the `!mp start 10` command.
 Repeat offenders may receive further sanctions from the tournament hosts.
 9. Players get one timeout of 2 minutes per match. Both players and the referee must be in agreement when extending a timeout or having another timeout.
 
