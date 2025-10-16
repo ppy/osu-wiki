@@ -50,7 +50,7 @@ tags:
 
 ## Links
 
-- [Information spreadsheet](link)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/17YUODiQXblESi9mciJqn2deFu1TGFKP83k2tkx0W8Ug/)
 - [Announcement post](link)
 - [Discussion thread](link)
 - [Discord server](https://discord.gg/TSgMXsaZRR)
