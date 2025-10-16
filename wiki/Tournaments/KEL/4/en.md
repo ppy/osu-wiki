@@ -179,7 +179,7 @@ tags:
 
 1. Players must select a lobby from the sign-up spreadsheet. Lobbies are open to anyone as long as there's an empty slot.
    - Players must notify hosts of their lobby choice in the Discord channel using the pinned prompt.
-2. The final Qualifier lobby must begin no later than TBA.
+2. The final Qualifier lobby must begin no later than January 26th.
 3. If a player does not show up to their scheduled Qualifiers lobby, they may play in any other lobby.
 4. Maps will be played in the listed order as shown on the mappool sheet. There will be one playthrough of the pool. If a player wishes to re-play the pool, they will be able to do so once. Only best runs will be used for seeding.
 5. Players have 120 seconds to ready up before each map.
@@ -199,7 +199,7 @@ tags:
 ### Bracket stage procedure
 
 1. Brackets RO32 and RO16 are single elimination.
-2. Brackets QF, Finals, SF and GF are double elimination.
+2. Brackets QF, SF, Finals and GF are double elimination.
 3. No warmup maps are allowed.
 4. No restrictions for picks or bans.
 5. No Fail is enforced on all maps.
@@ -211,8 +211,8 @@ tags:
       -    A 30-second extension is given along with a verbal warning.
 If a player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
    - On subsequent occurrences:
-For a pick timer: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool, excluding the tiebreaker.
-For a ready timer: the referee will issue the `!mp start 10` command.
+      - For a pick timer: A random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps remaining in the mappool, excluding the tiebreaker.
+      - For a ready timer: the referee will issue the `!mp start 10` command.
 Repeat offenders may receive further sanctions from the tournament hosts.
 9. Players get one timeout of 2 minutes per match. Both players and the referee must be in agreement when extending a timeout or having another timeout.
 
