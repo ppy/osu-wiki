@@ -15,7 +15,7 @@ tags:
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2025-10-13/2026-01-11 |
+| Registration phase | 2025-10-17/2026-01-11 |
 | Qualifiers | 2026-01-12/2026-01-26 |
 | Screening phase | 2026-01-26/2026-02-09 |
 | Round of 32, Round of 16, Quarterfinals | 2026-03-14 |
@@ -39,11 +39,10 @@ tags:
 | :-- | :-- |
 | Organisers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
 | Admins | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [Daria Maria](https://osu.ppy.sh/users/10806219), ::{ flag=AT }:: [FCnt](https://osu.ppy.sh/users/7336729) |
-| Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
+| Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) |
 | Developer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) |
-| Playtesters | TBA |
+| GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
 | Referees | TBA |
 | Commentators | TBA |
 | Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
