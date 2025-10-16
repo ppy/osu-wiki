@@ -47,7 +47,6 @@ tags:
 | Commentators | *TBA* |
 | Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
 
-
 ## Links
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/17YUODiQXblESi9mciJqn2deFu1TGFKP83k2tkx0W8Ug/)
