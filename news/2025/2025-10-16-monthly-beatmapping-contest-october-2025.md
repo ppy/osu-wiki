@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: October 2025"
-date: 2025-10-16 20:00:00 +0000
+date: 2025-10-16 20:30:00 +0000
 ---
 
 Your friendly neighborhood mapping contest is back.
