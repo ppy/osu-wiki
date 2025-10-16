@@ -19,6 +19,8 @@ Each of the osu! forums contains a variety of **topics**, sometimes called threa
 
 While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/forums/56), have specific requirements or guidelines, all of them follow [the community rules](/wiki/Rules).
 
+Each post on the forums may not contain more than 60000 characters.
+
 ## Roles and user groups
 
 Some users may belong to one or several custom groups, based on their community tasks, access rights, or past activity. A full list of user groups can be found at [User group](/wiki/People/User_group).
@@ -52,4 +54,6 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 - [Help](/wiki/Community/Forum/Help) and [Feature Requests](/wiki/Community/Forum/Feature_Requests) forums
 - [osu!supporter](/wiki/osu!supporter) and user pages
 
-After the new osu! website was brought up and running, phpBB had been slowly phased out in favour of the custom forum engine used today. Along with the deprecation of the phpBB forum system, forum PMs were phased out.
+After the new osu! website was brought up and running, phpBB had been slowly phased out in favour of the custom forum engine used today.
+
+Along with the introduction of the custom forum engine, the forum's private message system was phased out. The forum's private message system was separate from the private messages sent via IRC chat, which was not fully accessible from the osu! website at the time. Forum private messages (which were also known as *forum PMs*) could be far longer and could be formatted with BBCode, and could be sent to one or more recipients.
