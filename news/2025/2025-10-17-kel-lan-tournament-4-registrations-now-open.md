@@ -6,7 +6,7 @@ date: 2025-10-17 00:00:00 +0000
 
 Attention, circle clickers — KEL is coming back for another round of LAN shenanigans in Poland!
 
-![](/wiki/Tournaments/KEL/4/img/kel4-banner.jpg)
+![](/wiki/Tournaments/KEL/4/img/banner@2x.jpg)
 
 KEL4 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience. Here's the sneak peek of what you can expect from the atmosphere and the community:
 
