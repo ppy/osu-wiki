@@ -38,7 +38,7 @@ This article covers results from the last contest, plus criteria for this contes
 #### Top 10
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LnaTriIePjM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iQnp29rbNeg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Give some appreciation to this contest's judges: [arcpotato](https://osu.ppy.sh/users/12842392), [Yasuho](https://osu.ppy.sh/users/8458835), [_gt](https://osu.ppy.sh/users/8301957), and [ulko](https://osu.ppy.sh/users/1263669)!
