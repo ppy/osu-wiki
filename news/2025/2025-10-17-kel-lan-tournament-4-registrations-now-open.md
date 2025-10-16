@@ -6,12 +6,14 @@ date: 2025-10-17 00:00:00 +0000
 
 Attention, circle clickers — KEL is coming back for another round of LAN shenanigans in Poland!
 
-![](/wiki/Tournaments/KEL/4/img/banner@2x.jpg)
+![](/wiki/Tournaments/KEL/4/img/banner.jpg)
 
 KEL4 is a **2-day LAN** tournament located at the **Kinguin Esports Lounge in Gdańsk, Poland**, standing as the largest event of its kind in the country, where top-tier competition meets an incredible community experience. Here's the sneak peek of what you can expect from the atmosphere and the community:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/yy8RK99MmZU" frameborder="0" allowfullscreen></iframe>
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-10-17-kel4-trailer.mp4" type="video/mp4" preload="none">
+    </video>
 </div>
 
 [Signups](https://forms.gle/n2zvsmwr5jrFRWXS9) are now open and will run until the **11 January 2026**, and the online Qualifiers will take place online between **12th–26th January**. The bracket will include a few special guests (TBA), with the remaining spots filled by the top performers from the Qualifiers.
