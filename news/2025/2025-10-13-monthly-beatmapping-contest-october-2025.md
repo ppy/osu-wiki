@@ -32,8 +32,8 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | [MAP](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
-| Runner-up | [LuroxS](https://osu.ppy.sh/users/22504149) | [MAP](LINK) | - | +1 (1 total) |
+| Winner | [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | [Kou! - RE_generate:fractal](https://osu.ppy.sh/beatmapsets/2448091) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
+| Runner-up | [LuroxS](https://osu.ppy.sh/users/22504149) | [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/2448090) | - | +1 (1 total) |
 
 #### Top 10
 
@@ -51,8 +51,8 @@ Give some appreciation to this contest's judges: [arcpotato](https://osu.ppy.sh/
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [MAP](LINK) | - | +2 (11 total) |
-| Runner-up | [Spectator](https://osu.ppy.sh/users/702598) | [MAP](LINK) | - | +1 (1 total) |
+| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [NIWASHI - Playing with Ruby](https://osu.ppy.sh/beatmapsets/2448165) | - | +2 (11 total) |
+| Runner-up | [Spectator](https://osu.ppy.sh/users/702598) | [rae - UNABLE](https://osu.ppy.sh/beatmapsets/2448206) | - | +1 (1 total) |
 
 A certain someone is curious what happens when you reach double the [Contest points](/wiki/Contests/Contest_points) threshold for achieving the *Elite Mapper* title. We might have the answer fairly soon...
 
@@ -88,13 +88,17 @@ If you're confused about how these work, ask for clarification in the comments, 
 
 #### osu!taiko
 
-WORDS
+We've done a contest where we asked you to make maps less than 4 stars. Today's contest however isn't for babies.
+
+This month's limitation: **your beatmap must be at least 7 stars.**
+
+Judges will be evaluating your expertise across all categories: musical representation, structure, and the hardest part of this contest: creating something that's properly playable.
 
 #### osu!catch
 
 Difficulty settings are the first thing you choose when making a map. Usually you're free to choose whichever settings you want, but this time around, you have to do some math.
 
-This month's limitation: **The sum of *Circle size* and *Approach rate* settings must equal 10.**
+This month's limitation: **the sum of *Circle size* and *Approach rate* settings must equal 10.**
 
 Every variation of these will affect your map overall, so make your choice wisely. And just to be sure you aren't disqualified because decimals break your brain, you may want to use a calculator.
 
@@ -119,8 +123,8 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 ## Rules
 
 - **Submissions must choose *one* of the month's beatmapping [limitations](#limitation):**
-  - **osu!taiko:** WORDS
-  - **osu!catch:** The sum of *Circle size* and *Approach rate* settings must equal 10.
+  - **osu!taiko:** your beatmap must be at least 7 stars.
+  - **osu!catch:** the sum of *Circle size* and *Approach rate* settings must equal 10.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
@@ -136,6 +140,6 @@ If you aren't in the editor by this point, you're surely looking for the place t
 - [osu!taiko contest listing](https://osu.ppy.sh/community/contests/xxx)
 - [osu!catch contest listing](https://osu.ppy.sh/community/contests/xxx)
 
-You have until **November 3rd** to submit!
+You have until **November 6th** to submit!
 
 —pishifat, Hivie, GiGas
