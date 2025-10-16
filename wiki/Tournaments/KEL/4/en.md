@@ -77,7 +77,7 @@ tags:
 3. If a player does not show up to their scheduled Qualifier lobby, they may play in any other lobby.
 4. Maps will be played in the listed order as shown on the mappool spreadsheet. There will be one playthrough of the pool. If a player wishes to re-play the pool, they will be able to do so once. Only best runs will be used for seeding.
 5. Players have 120 seconds to ready up before each map.
-6. The top # players, determined by the avg sum of placements, will advance to the Bracket Stage.
+6. The top players from the Qualifiers (amount is TBD), determined by the average sum of placements, will advance to the Bracket Stage.
 
 ### Mappool information
 

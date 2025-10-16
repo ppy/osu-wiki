@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KEL LAN Tournament 4: Registrations Now Open!"
-date: 2025-10-17 00:00:00 +0000
+date: 2025-10-17 18:40:00 +0000
 ---
 
 Attention, circle clickers — KEL is coming back for another round of LAN shenanigans in Poland!
