@@ -67,7 +67,7 @@ tags:
 3. All maps will be played with No Fail enabled, along with the appropriate mods for that map.
 4. Each stage's mappool will be revealed during the official tournament stream.
 5. Special guests will be undergoing a special qualifying process separate from the normal players. Their results will be revealed once all qualifying lobbies have concluded.
-5. Tournament staff members are not allowed to participate as players, with the exception of commentators and GFX artists.
+6. Tournament staff members are not allowed to participate as players, with the exception of commentators and GFX artists.
 
 ### Qualifier procedure
 
